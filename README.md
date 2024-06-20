@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/piensatelo-dos-veces-antes-llevarte-toalla-albornoz-hotel-estas-vacaciones-1391867'>Piénsatelo dos veces antes de llevarte la toalla o el albornoz del hotel estas vacaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/piensatelo-dos-veces-antes-llevarte-toalla-albornoz-hotel-estas-vacaciones-1391867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hombre-tumbado-albornoz-3549553.jpg?tf=1200x' alt='Piénsatelo dos veces antes de llevarte la toalla o el albornoz del hotel estas vacaciones' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-advierte-boton-movil-debes-pulsar-no-quieres-te-roben-datos-1391674'>La Policía advierte: este es el botón del móvil que debes pulsar si no quieres que te roben tus datos </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-advierte-boton-movil-debes-pulsar-no-quieres-te-roben-datos-1391674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/policia-pulsando-boton-3548802.jpg?tf=1200x' alt='La Policía advierte: este es el botón del móvil que debes pulsar si no quieres que te roben tus datos ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/banana-juego-steam-tocar-banana-millon-jugadores-1391917'>Por qué un juego en el que solo hay que tocar una banana, tiene casi un millón de jugadores</a></h4>
-    <a href='https://computerhoy.com/gaming/banana-juego-steam-tocar-banana-millon-jugadores-1391917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/juego-solo-hay-tocar-banana-segundo-jugado-steam-3552011.jpg?tf=1200x' alt='Por qué un juego en el que solo hay que tocar una banana, tiene casi un millón de jugadores' />
+    <h4><a href='https://computerhoy.com/tecnologia/drones-combatir-mosquito-tigre-1391921'>Drones para combatir al temible mosquito tigre en Estados Unidos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/drones-combatir-mosquito-tigre-1391921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718853845964-3552981.jpg?tf=1200x' alt='Drones para combatir al temible mosquito tigre en Estados Unidos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-1391236'>Tardé mucho tiempo en darme cuenta de este error con mi Smart TV: tú estás a tiempo de evitarlo</a></h4>
-    <a href='https://computerhoy.com/tv/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-1391236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-3517125.jpg?tf=1200x' alt='Tardé mucho tiempo en darme cuenta de este error con mi Smart TV: tú estás a tiempo de evitarlo' />
+    <h4><a href='https://computerhoy.com/tutoriales/significa-telefono-demasiado-caliente-android-auto-como-solucionarlo-1391243'>Qué significa "El teléfono está demasiado caliente" en Android Auto y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/significa-telefono-demasiado-caliente-android-auto-como-solucionarlo-1391243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/significa-telefono-demasiado-caliente-android-auto-como-solucionarlo-3518552.jpg?tf=1200x' alt='Qué significa "El teléfono está demasiado caliente" en Android Auto y cómo solucionarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ia-deepmind-google-crea-banda-sonora-observando-video-1391727'>La IA DeepMind de Google ya crea una banda sonora observando un vídeo</a></h4>
-    <a href='https://computerhoy.com/google/ia-deepmind-google-crea-banda-sonora-observando-video-1391727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-presenta-ia-crea-banda-sonora-observando-video-3544334.jpg?tf=1200x' alt='La IA DeepMind de Google ya crea una banda sonora observando un vídeo' />
+    <h4><a href='https://computerhoy.com/life/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-1391653'>¿No puedes dormir en verano? El truco viral de TikTok para hacerlo en un minuto</a></h4>
+    <a href='https://computerhoy.com/life/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-1391653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-3541886.jpg?tf=1200x' alt='¿No puedes dormir en verano? El truco viral de TikTok para hacerlo en un minuto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-1391535'>Estados Unidos quiere poner etiquetas de aviso en TikTok y Facebook: 'Las redes sociales son nocivas para tu salud'</a></h4>
-    <a href='https://computerhoy.com/redes/etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-1391535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estados-unidos-quiere-poner-etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-3536902.jpg?tf=1200x' alt='Estados Unidos quiere poner etiquetas de aviso en TikTok y Facebook: 'Las redes sociales son nocivas para tu salud'' />
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-aliexpress-mas-barato-amazon-codigo-descuento-1372898'>AliExpress supera a Amazon y vende el iPhone 15 a un precio difícil de creer: tiene un código descuento de 80 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-15-aliexpress-mas-barato-amazon-codigo-descuento-1372898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='AliExpress supera a Amazon y vende el iPhone 15 a un precio difícil de creer: tiene un código descuento de 80 euros' />
     </a>
 </div>
 
