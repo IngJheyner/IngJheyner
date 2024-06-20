@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/enrutamiento-internet-como-funciona-te-interesa-conocerlo-1391606'>Enrutamiento de Internet: qué es, cómo funciona y por qué te interesa conocerlo</a></h4>
-    <a href='https://computerhoy.com/industria/enrutamiento-internet-como-funciona-te-interesa-conocerlo-1391606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciudad-conectada-3540924.jpg?tf=1200x' alt='Enrutamiento de Internet: qué es, cómo funciona y por qué te interesa conocerlo' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-descargar-musica-gratuita-libre-derechos-487641'>Las mejores páginas para descargar música gratis de forma totalmente legal</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-paginas-descargar-musica-gratuita-libre-derechos-487641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mejores-paginas-descargar-musica-gratis-forma-totalmente-legal-3546303.jpg?tf=1200x' alt='Las mejores páginas para descargar música gratis de forma totalmente legal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-consigue-resolver-misterio-medio-siglo-investigacion-estrella-wl-20s-1391975'>El telescopio James Webb consigue resolver un misterio tras más de medio siglo de investigación: la estrella WL 20S</a></h4>
-    <a href='https://computerhoy.com/espacio/telescopio-james-webb-consigue-resolver-misterio-medio-siglo-investigacion-estrella-wl-20s-1391975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/telescopio-james-webb-ha-fotografiado-estrellas-jovenes-conocen-3554984.jpg?tf=1200x' alt='El telescopio James Webb consigue resolver un misterio tras más de medio siglo de investigación: la estrella WL 20S' />
+    <h4><a href='https://computerhoy.com/tutoriales/verano-joven-2024-requisitos-como-registrarte-conseguir-descuentos-90-billetes-tren-autobus-1391798'>Verano Joven 2024: requisitos y cómo registrarte para conseguir descuentos de hasta el 90% en billetes de tren y autobús</a></h4>
+    <a href='https://computerhoy.com/tutoriales/verano-joven-2024-requisitos-como-registrarte-conseguir-descuentos-90-billetes-tren-autobus-1391798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verano-joven-2024-3548803.jpg?tf=1200x' alt='Verano Joven 2024: requisitos y cómo registrarte para conseguir descuentos de hasta el 90% en billetes de tren y autobús' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-android-auto-desconecta-como-solucionarlo-1390688'>Qué hacer cuando Android Auto se desconecta y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hacer-cuando-android-auto-desconecta-como-solucionarlo-1390688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacer-cuando-android-auto-desconecta-como-solucionarlo-3498467.jpg?tf=1200x' alt='Qué hacer cuando Android Auto se desconecta y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/truco-no-volveras-perder-video-tiktok-actualizas-error-1391631'>Con este truco no volverás a perder un vídeo de TikTok si actualizas por error</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/truco-no-volveras-perder-video-tiktok-actualizas-error-1391631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/truco-no-volveras-perder-video-tiktok-actualizas-error-3541248.jpg?tf=1200x' alt='Con este truco no volverás a perder un vídeo de TikTok si actualizas por error' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/anuncios-tiktok-estaran-generados-avatares-ia-actores-bancos-imagenes-1391610'>Los anuncios de TikTok estarán generados por avatares de IA y actores de bancos de imágenes</a></h4>
-    <a href='https://computerhoy.com/apps/anuncios-tiktok-estaran-generados-avatares-ia-actores-bancos-imagenes-1391610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/anuncios-tiktok-estaran-generados-avatares-ia-actores-bancos-imagenes-3540934.jpg?tf=1200x' alt='Los anuncios de TikTok estarán generados por avatares de IA y actores de bancos de imágenes' />
+    <h4><a href='https://computerhoy.com/pc/startup-finlandesa-asegura-puede-aumentar-rendimiento-cpu-100-veces-podria-ser-cierto-1391986'>Una startup finlandesa asegura que puede aumentar el rendimiento de la CPU hasta en 100 veces, y podría ser cierto</a></h4>
+    <a href='https://computerhoy.com/pc/startup-finlandesa-asegura-puede-aumentar-rendimiento-cpu-100-veces-podria-ser-cierto-1391986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/startup-finlandesa-asegura-puede-aumentar-rendimiento-cpu-100-veces-podria-conseguirlo-3555279.jpg?tf=1200x' alt='Una startup finlandesa asegura que puede aumentar el rendimiento de la CPU hasta en 100 veces, y podría ser cierto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-acceder-menu-prohibido-amazon-fire-tv-todo-puedes-hacer-1252444'>Cómo acceder al menú prohibido de Amazon Fire TV y todo lo que puedes hacer</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-acceder-menu-prohibido-amazon-fire-tv-todo-puedes-hacer-1252444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-fire-tv-3046036.jpg?tf=1200x' alt='Cómo acceder al menú prohibido de Amazon Fire TV y todo lo que puedes hacer' />
+    <h4><a href='https://computerhoy.com/windows/fallo-windows-permite-hackers-colarse-pc-traves-wifi-1391829'>Un fallo de Windows permite a los hackers colarse en tu PC a través del wifi</a></h4>
+    <a href='https://computerhoy.com/windows/fallo-windows-permite-hackers-colarse-pc-traves-wifi-1391829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hackers-robo-datos-3301689.jpg?tf=1200x' alt='Un fallo de Windows permite a los hackers colarse en tu PC a través del wifi' />
     </a>
 </div>
 
