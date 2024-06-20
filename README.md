@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-realme-gt-6t-movil-apunta-gama-alta-pantalla-rendimiento-espectaculares-1391702'>He probado el Realme GT 6T, un móvil que apunta a la gama alta con pantalla y rendimiento espectaculares</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-realme-gt-6t-movil-apunta-gama-alta-pantalla-rendimiento-espectaculares-1391702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/realme-gt-6t-3548643.jpg?tf=1200x' alt='He probado el Realme GT 6T, un móvil que apunta a la gama alta con pantalla y rendimiento espectaculares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/unas-semanas-realme-gt6-me-dejan-claro-estoy-moviles-ano-1391592'>Unas semanas con el Realme GT6 me dejan claro que estoy ante uno de los móviles del año</a></h4>
+    <a href='https://computerhoy.com/analisis/unas-semanas-realme-gt6-me-dejan-claro-estoy-moviles-ano-1391592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/realme-gt6-3554539.jpg?tf=1200x' alt='Unas semanas con el Realme GT6 me dejan claro que estoy ante uno de los móviles del año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estas-son-frases-nunca-debes-buscar-google-no-quieres-alertar-ciberdelincuentes-1390353'>Estas son las frases que nunca debes buscar en Google si no quieres alertar a los ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estas-son-frases-nunca-debes-buscar-google-no-quieres-alertar-ciberdelincuentes-1390353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/buscar-google-3513661.jpg?tf=1200x' alt='Estas son las frases que nunca debes buscar en Google si no quieres alertar a los ciberdelincuentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-revienta-mercado-redmi-watch-4-smartwatch-baratisimo-incluso-ser-xiaomi-1391740'>Xiaomi revienta el mercado: su Redmi Watch 4 es un smartwatch baratísimo incluso para ser Xiaomi</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-revienta-mercado-redmi-watch-4-smartwatch-baratisimo-incluso-ser-xiaomi-1391740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-watch-4-3265213.jpg?tf=1200x' alt='Xiaomi revienta el mercado: su Redmi Watch 4 es un smartwatch baratísimo incluso para ser Xiaomi' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/adios-youtube-premium-barato-comienzan-bloquear-cuentas-compradas-turquia-argentina-filipinas-1391937'>Adiós al YouTube Premium barato: comienzan a bloquear cuentas compradas en Turquía, Argentina o Filipinas</a></h4>
     <a href='https://computerhoy.com/apps/adios-youtube-premium-barato-comienzan-bloquear-cuentas-compradas-turquia-argentina-filipinas-1391937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bloqueo-youtube-3554233.jpg?tf=1200x' alt='Adiós al YouTube Premium barato: comienzan a bloquear cuentas compradas en Turquía, Argentina o Filipinas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/hallan-primer-anuncio-comercial-perdido-consola-nintendo-1391247'>Hallan el primer anuncio comercial perdido de Nintendo, y es... muy años 80</a></h4>
-    <a href='https://computerhoy.com/gaming/hallan-primer-anuncio-comercial-perdido-consola-nintendo-1391247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/restauran-primer-anuncio-comercial-consola-nintendo-muy-anos-80-3519012.jpg?tf=1200x' alt='Hallan el primer anuncio comercial perdido de Nintendo, y es... muy años 80' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/logitech-lanza-teclado-ultraligero-tabletas-keys-go-2-teclas-tijera-junto-nuevos-accesorios-1391508'>Logitech lanza el teclado ultraligero para tabletas Keys To Go 2 con teclas de tijera junto a nuevos accesorios</a></h4>
-    <a href='https://computerhoy.com/audio/logitech-lanza-teclado-ultraligero-tabletas-keys-go-2-teclas-tijera-junto-nuevos-accesorios-1391508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logitech-keys-go-2-3541225.jpg?tf=1200x' alt='Logitech lanza el teclado ultraligero para tabletas Keys To Go 2 con teclas de tijera junto a nuevos accesorios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-ui-sistema-no-responde-android-1391085'>Cómo solucionar el error "UI del sistema no responde" en Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-ui-sistema-no-responde-android-1391085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ui-sistema-no-responde-3511966.jpg?tf=1200x' alt='Cómo solucionar el error "UI del sistema no responde" en Android' />
     </a>
 </div>
 
