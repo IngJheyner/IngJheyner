@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estados-unidos-prohibe-venta-antivirus-kaspersky-1392075'>Estados Unidos prohíbe la venta de los antivirus Kaspersky</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estados-unidos-prohibe-venta-antivirus-kaspersky-1392075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estados-unidos-tambien-quiere-prohibir-antivirus-kaspersky-3558422.jpg?tf=1200x' alt='Estados Unidos prohíbe la venta de los antivirus Kaspersky' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/ia-deepmind-google-crea-banda-sonora-observando-video-1391727'>La IA DeepMind de Google ya crea una banda sonora observando un vídeo</a></h4>
+    <a href='https://computerhoy.com/google/ia-deepmind-google-crea-banda-sonora-observando-video-1391727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-presenta-ia-crea-banda-sonora-observando-video-3544334.jpg?tf=1200x' alt='La IA DeepMind de Google ya crea una banda sonora observando un vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-compania-mas-valiosa-mundo-1391911'>Tras superar a Apple, NVIDIA deja atrás a Microsoft, y ya es la compañía más valiosa del mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-compania-mas-valiosa-mundo-1391911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-3045852.jpg?tf=1200x' alt='Tras superar a Apple, NVIDIA deja atrás a Microsoft, y ya es la compañía más valiosa del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/centro-datos-tesla-forma-tarjeta-grafica-gigante-1392074'>El centro de datos de Tesla con forma de tarjeta gráfica gigante, más que una coincidencia</a></h4>
     <a href='https://computerhoy.com/motor/centro-datos-tesla-forma-tarjeta-grafica-gigante-1392074' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/centro-datos-tesla-forma-tarjeta-grafica-gigante-coincidencia-3557995.jpg?tf=1200x' alt='El centro de datos de Tesla con forma de tarjeta gráfica gigante, más que una coincidencia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889'>Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más</a></h4>
     <a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-dios-como-activarlo-android-auto-windows-11-alexa-3550784.jpg?tf=1200x' alt='Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hdmi-arc-vs-earc-diferencian-sirve-cada-cual-mejor-1392061'>HDMI ARC vs. eARC: en qué se diferencian, para qué sirve cada uno y cuál es mejor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hdmi-arc-vs-earc-diferencian-sirve-cada-cual-mejor-1392061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hdmi-arc-vs-earc-diferencian-sirve-cada-cual-mejor-3557713.jpg?tf=1200x' alt='HDMI ARC vs. eARC: en qué se diferencian, para qué sirve cada uno y cuál es mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tivify-lanza-propio-amazon-fire-tv-vitaminado-transforma-cualquier-televisor-smart-tv-1392060'>Tivify lanza su propio Amazon Fire TV vitaminado que transforma cualquier televisor en un Smart TV</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tivify-lanza-propio-amazon-fire-tv-vitaminado-transforma-cualquier-televisor-smart-tv-1392060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tivify-denali-3557423.jpg?tf=1200x' alt='Tivify lanza su propio Amazon Fire TV vitaminado que transforma cualquier televisor en un Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703'>¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?</a></h4>
-    <a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-error-google-maps-nunca-te-lleve-ruta-corta-3543453.jpg?tf=1200x' alt='¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?' />
     </a>
 </div>
 
