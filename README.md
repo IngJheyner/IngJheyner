@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/steve-jobs-odiaria-todas-fuerzas-muchas-cosas-actual-apple-1391953'>Steve Jobs odiaría con todas sus fuerzas muchas cosas de la actual Apple</a></h4>
-    <a href='https://computerhoy.com/apple/steve-jobs-odiaria-todas-fuerzas-muchas-cosas-actual-apple-1391953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cual-fecha-lanzamiento-ios-18-3506219.jpg?tf=1200x' alt='Steve Jobs odiaría con todas sus fuerzas muchas cosas de la actual Apple' />
+    <h4><a href='https://computerhoy.com/industria/enrutamiento-internet-como-funciona-te-interesa-conocerlo-1391606'>Enrutamiento de Internet: qué es, cómo funciona y por qué te interesa conocerlo</a></h4>
+    <a href='https://computerhoy.com/industria/enrutamiento-internet-como-funciona-te-interesa-conocerlo-1391606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciudad-conectada-3540924.jpg?tf=1200x' alt='Enrutamiento de Internet: qué es, cómo funciona y por qué te interesa conocerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/qualcomm-snapdragon-8s-gen-3-prueba-mejor-8-gen-3-1391589'>Qualcomm Snapdragon 8s Gen 3 a prueba: ¿es mejor que el 8 Gen 3?</a></h4>
-    <a href='https://computerhoy.com/moviles/qualcomm-snapdragon-8s-gen-3-prueba-mejor-8-gen-3-1391589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/qualcomm-snapdragon-8s-gen-3-3540619.jpg?tf=1200x' alt='Qualcomm Snapdragon 8s Gen 3 a prueba: ¿es mejor que el 8 Gen 3?' />
+    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-consigue-resolver-misterio-medio-siglo-investigacion-estrella-wl-20s-1391975'>El telescopio James Webb consigue resolver un misterio tras más de medio siglo de investigación: la estrella WL 20S</a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-james-webb-consigue-resolver-misterio-medio-siglo-investigacion-estrella-wl-20s-1391975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/telescopio-james-webb-ha-fotografiado-estrellas-jovenes-conocen-3554984.jpg?tf=1200x' alt='El telescopio James Webb consigue resolver un misterio tras más de medio siglo de investigación: la estrella WL 20S' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/top-teachers-2024-sigue-gala-directo-miercoles-1391611'>Top Teachers 2024: ¡sigue la gala en directo este miércoles!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/top-teachers-2024-sigue-gala-directo-miercoles-1391611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718705266963-3540936.jpg?tf=1200x' alt='Top Teachers 2024: ¡sigue la gala en directo este miércoles!' />
+    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-android-auto-desconecta-como-solucionarlo-1390688'>Qué hacer cuando Android Auto se desconecta y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacer-cuando-android-auto-desconecta-como-solucionarlo-1390688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacer-cuando-android-auto-desconecta-como-solucionarlo-3498467.jpg?tf=1200x' alt='Qué hacer cuando Android Auto se desconecta y cómo solucionarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/clonezilla-como-clonar-disco-duro-completo-windows-1391081'>Clonezilla: cómo clonar un disco duro completo en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/clonezilla-como-clonar-disco-duro-completo-windows-1391081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/clonezilla-como-clonar-disco-duro-completo-windows-3510927.jpg?tf=1200x' alt='Clonezilla: cómo clonar un disco duro completo en Windows' />
+    <h4><a href='https://computerhoy.com/apps/anuncios-tiktok-estaran-generados-avatares-ia-actores-bancos-imagenes-1391610'>Los anuncios de TikTok estarán generados por avatares de IA y actores de bancos de imágenes</a></h4>
+    <a href='https://computerhoy.com/apps/anuncios-tiktok-estaran-generados-avatares-ia-actores-bancos-imagenes-1391610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/anuncios-tiktok-estaran-generados-avatares-ia-actores-bancos-imagenes-3540934.jpg?tf=1200x' alt='Los anuncios de TikTok estarán generados por avatares de IA y actores de bancos de imágenes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cargador-definitivo-todos-dispositivos-base-deja-obsoleta-regleta-1391965'>Este es el cargador definitivo: todos tus dispositivos en una base que deja obsoleta tu regleta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cargador-definitivo-todos-dispositivos-base-deja-obsoleta-regleta-1391965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/baseus-7-1-3554835.jpg?tf=1200x' alt='Este es el cargador definitivo: todos tus dispositivos en una base que deja obsoleta tu regleta' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-acceder-menu-prohibido-amazon-fire-tv-todo-puedes-hacer-1252444'>Cómo acceder al menú prohibido de Amazon Fire TV y todo lo que puedes hacer</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-acceder-menu-prohibido-amazon-fire-tv-todo-puedes-hacer-1252444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/amazon-fire-tv-3046036.jpg?tf=1200x' alt='Cómo acceder al menú prohibido de Amazon Fire TV y todo lo que puedes hacer' />
     </a>
 </div>
 
