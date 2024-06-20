@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tivify-lanza-propio-amazon-fire-tv-vitaminado-transforma-cualquier-televisor-smart-tv-1392060'>Tivify lanza su propio Amazon Fire TV vitaminado que transforma cualquier televisor en un Smart TV</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tivify-lanza-propio-amazon-fire-tv-vitaminado-transforma-cualquier-televisor-smart-tv-1392060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tivify-denali-3557423.jpg?tf=1200x' alt='Tivify lanza su propio Amazon Fire TV vitaminado que transforma cualquier televisor en un Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703'>¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?</a></h4>
+    <a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-error-google-maps-nunca-te-lleve-ruta-corta-3543453.jpg?tf=1200x' alt='¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-maxton-hall-ni-wilds-mejor-serie-adolescente-aun-puedes-ver-amazon-prime-video-1391883'>Ni Maxton Hall ni The Wilds, esta es la mejor serie adolescente que aún puedes ver en Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-maxton-hall-ni-wilds-mejor-serie-adolescente-aun-puedes-ver-amazon-prime-video-1391883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cruel-summer-3555422.jpg?tf=1200x' alt='Ni Maxton Hall ni The Wilds, esta es la mejor serie adolescente que aún puedes ver en Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-1391689'>Las mejores películas de ciencia ficción españolas que no tienen nada que envidiar a Hollywood</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-1391689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-3542627.jpg?tf=1200x' alt='Las mejores películas de ciencia ficción españolas que no tienen nada que envidiar a Hollywood' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/retrasan-regreso-astronautas-boeing-starliner-miedo-queden-varados-espacio-1392056'>Retrasan el regreso de los astronautas de la Boeing Starliner por miedo a que se queden varados en el espacio</a></h4>
     <a href='https://computerhoy.com/espacio/retrasan-regreso-astronautas-boeing-starliner-miedo-queden-varados-espacio-1392056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/starliner-3557282.jpg?tf=1200x' alt='Retrasan el regreso de los astronautas de la Boeing Starliner por miedo a que se queden varados en el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/razon-siempre-deberias-activar-modo-incognito-navegador-1392046'>La razón por la que siempre deberías activar el modo incógnito en tu navegador</a></h4>
-    <a href='https://computerhoy.com/internet/razon-siempre-deberias-activar-modo-incognito-navegador-1392046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/razon-siempre-deberias-activar-modo-incognito-navegador-3557279.jpg?tf=1200x' alt='La razón por la que siempre deberías activar el modo incógnito en tu navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pesadilla-usuarios-windows-llega-linux-panico-kernel-1391878'>La pesadilla de los usuarios de Windows llega a Linux: "pánico en el kernel"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pesadilla-usuarios-windows-llega-linux-panico-kernel-1391878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pesadilla-usuarios-windows-llega-linux-panico-kernel-3550150.jpg?tf=1200x' alt='La pesadilla de los usuarios de Windows llega a Linux: "pánico en el kernel"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/funciones-ocultas-gmail-te-ayudaran-ser-productivo-1391730'>Funciones ocultas de Gmail que te ayudarán a ser más productivo</a></h4>
-    <a href='https://computerhoy.com/google/funciones-ocultas-gmail-te-ayudaran-ser-productivo-1391730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/funciones-ocultas-gmail-te-ayudaran-ser-productivo-3546272.jpg?tf=1200x' alt='Funciones ocultas de Gmail que te ayudarán a ser más productivo' />
     </a>
 </div>
 
