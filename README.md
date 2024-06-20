@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/he-pasado-rato-realme-gt-6-todo-ia-pantalla-bateria-increibles-horas-videojuegos-1392021'>He pasado un rato con el realme GT 6: todo por la IA con pantalla y batería increíbles para horas de videojuegos</a></h4>
-    <a href='https://computerhoy.com/moviles/he-pasado-rato-realme-gt-6-todo-ia-pantalla-bateria-increibles-horas-videojuegos-1392021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/realme-gt6-3556329.jpg?tf=1200x' alt='He pasado un rato con el realme GT 6: todo por la IA con pantalla y batería increíbles para horas de videojuegos' />
+    <h4><a href='https://computerhoy.com/moviles/truco-cinco-veces-movil-podria-salvarte-vida-casi-nadie-conoce-1392037'>El truco de las cinco veces con tu móvil que podría salvarte la vida y que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/moviles/truco-cinco-veces-movil-podria-salvarte-vida-casi-nadie-conoce-1392037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/persona-movil-3556964.jpg?tf=1200x' alt='El truco de las cinco veces con tu móvil que podría salvarte la vida y que casi nadie conoce' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-1391533'>Cómo mejorar el rendimiento de mi Raspberry Pi 5 instalando un SSD</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-1391533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-3537475.jpg?tf=1200x' alt='Cómo mejorar el rendimiento de mi Raspberry Pi 5 instalando un SSD' />
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-convierte-pesadilla-muchos-hoteles-evita-caja-fuerte-1391685'>Flipper Zero se convierte en la pesadilla de muchos hoteles: evita la caja fuerte</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-zero-convierte-pesadilla-muchos-hoteles-evita-caja-fuerte-1391685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/flipper-zero-convierte-pesadilla-muchos-hoteles-evita-caja-fuerte-3543010.jpg?tf=1200x' alt='Flipper Zero se convierte en la pesadilla de muchos hoteles: evita la caja fuerte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/verdad-detras-procesadores-128-bits-no-veremos-pronto-1391728'>La verdad detrás de los procesadores de 128 bits y por qué no los veremos pronto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/verdad-detras-procesadores-128-bits-no-veremos-pronto-1391728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fabricantes-no-han-creado-procesadores-128-bits-3545576.jpg?tf=1200x' alt='La verdad detrás de los procesadores de 128 bits y por qué no los veremos pronto' />
+    <h4><a href='https://computerhoy.com/tecnologia/llevatela-vacaciones-camara-instantanea-hace-fotos-estilo-vintage-cuesta-menos-crees-1391992'>Llévatela de vacaciones: esta cámara instantánea hace fotos estilo vintage y cuesta menos de lo que crees</a></h4>
+    <a href='https://computerhoy.com/tecnologia/llevatela-vacaciones-camara-instantanea-hace-fotos-estilo-vintage-cuesta-menos-crees-1391992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/instax-mini-40-3555442.jpg?tf=1200x' alt='Llévatela de vacaciones: esta cámara instantánea hace fotos estilo vintage y cuesta menos de lo que crees' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/verdadera-historia-fotografias-famosas-todos-tiempos-730579'>La verdadera historia de una de las fotografías más famosas de todos los tiempos</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/verdadera-historia-fotografias-famosas-todos-tiempos-730579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/almuerzo-alto-rascacielos-3198334.jpg?tf=1200x' alt='La verdadera historia de una de las fotografías más famosas de todos los tiempos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-1391517'>Cómo usar el truco udm=14 en tu navegador para bloquear contenido generado por IA</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-1391517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-3536758.jpg?tf=1200x' alt='Cómo usar el truco udm=14 en tu navegador para bloquear contenido generado por IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/fussballiebe-balon-euro-2024-apuesta-tecnologia-1336656'>Así es Fussballiebe, el balón de la Euro 2024 que apuesta por la tecnología</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/fussballiebe-balon-euro-2024-apuesta-tecnologia-1336656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fussballiebe-3224540.jpg?tf=1200x' alt='Así es Fussballiebe, el balón de la Euro 2024 que apuesta por la tecnología' />
+    <h4><a href='https://computerhoy.com/life/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-1392029'>Ni prueba de la cerveza ni preguntas trampa, esta es la nueva táctica en las entrevistas de trabajo: invitarte a una fiesta</a></h4>
+    <a href='https://computerhoy.com/life/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-1392029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-3556794.jpg?tf=1200x' alt='Ni prueba de la cerveza ni preguntas trampa, esta es la nueva táctica en las entrevistas de trabajo: invitarte a una fiesta' />
     </a>
 </div>
 
