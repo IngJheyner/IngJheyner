@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-historial-navegacion-modo-incognito-chrome-como-eliminarlo-1214912'>Cómo ver el historial de navegación en modo incógnito de Chrome y cómo borrarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-historial-navegacion-modo-incognito-chrome-como-eliminarlo-1214912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/inc.jpg?tf=1200x' alt='Cómo ver el historial de navegación en modo incógnito de Chrome y cómo borrarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/produce-cancer-radiacion-moviles-divulgador-operador-nuclear-responde-1390604'>¿Produce cáncer la radiación de los móviles? El divulgador Operador Nuclear responde</a></h4>
+    <a href='https://computerhoy.com/moviles/produce-cancer-radiacion-moviles-divulgador-operador-nuclear-responde-1390604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/esqueleto-movil-3508702.jpg?tf=1200x' alt='¿Produce cáncer la radiación de los móviles? El divulgador Operador Nuclear responde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489'>Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso</a></h4>
+    <a href='https://computerhoy.com/apple/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-3535879.jpg?tf=1200x' alt='Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ley-ciberresiliencia-ue-como-te-afectara-ley-ayudara-consumidores-todos-ganamos-1390602'>Qué es la Ley de Ciberresiliencia de la UE y cómo te afectará: "Esta ley ayudará a los consumidores, todos ganamos"</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ley-ciberresiliencia-ue-como-te-afectara-ley-ayudara-consumidores-todos-ganamos-1390602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-union-europea-3500708.jpg?tf=1200x' alt='Qué es la Ley de Ciberresiliencia de la UE y cómo te afectará: "Esta ley ayudará a los consumidores, todos ganamos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/advertencia-google-chrome-jamas-copies-pegues-texto-1391832'>Advertencia de Google Chrome: jamás copies y pegues este texto </a></h4>
     <a href='https://computerhoy.com/ciberseguridad/advertencia-google-chrome-jamas-copies-pegues-texto-1391832' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Advertencia de Google Chrome: jamás copies y pegues este texto ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-chino-chuwi-barato-windows-11-1374788'>Este portátil chino viene con Windows 11 y presume de precio: roza los 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-chino-chuwi-barato-windows-11-1374788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chuwi-gemibook-plus-3541429.jpg?tf=1200x' alt='Este portátil chino viene con Windows 11 y presume de precio: roza los 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-1391436'>¿Nostalgia o desintoxicación? Estas son las razones del boom de los teléfonos tontos</a></h4>
-    <a href='https://computerhoy.com/life/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-1391436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-3534060.jpg?tf=1200x' alt='¿Nostalgia o desintoxicación? Estas son las razones del boom de los teléfonos tontos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tapones-loop-mejora-experiencia-conciertos-festivales-1390112'>Lentejuelas, glitter y tapones contra el ruido: así salvé mis tímpanos en el concierto de Taylor Swift</a></h4>
-    <a href='https://computerhoy.com/life/tapones-loop-mejora-experiencia-conciertos-festivales-1390112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/loop-experience-3466841.jpg?tf=1200x' alt='Lentejuelas, glitter y tapones contra el ruido: así salvé mis tímpanos en el concierto de Taylor Swift' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/tamano-cabeza-me-ha-gustado-sonos-ace-comodos-son-1391424'>Con este tamaño de cabeza, lo que más me ha gustado de los Sonos Ace es lo cómodos que son</a></h4>
-    <a href='https://computerhoy.com/audio/tamano-cabeza-me-ha-gustado-sonos-ace-comodos-son-1391424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sonos-ace-3502227.jpg?tf=1200x' alt='Con este tamaño de cabeza, lo que más me ha gustado de los Sonos Ace es lo cómodos que son' />
     </a>
 </div>
 
