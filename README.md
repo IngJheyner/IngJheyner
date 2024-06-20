@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/centro-datos-tesla-forma-tarjeta-grafica-gigante-1392074'>El centro de datos de Tesla con forma de tarjeta gráfica gigante, más que una coincidencia</a></h4>
+    <a href='https://computerhoy.com/motor/centro-datos-tesla-forma-tarjeta-grafica-gigante-1392074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/centro-datos-tesla-forma-tarjeta-grafica-gigante-coincidencia-3557995.jpg?tf=1200x' alt='El centro de datos de Tesla con forma de tarjeta gráfica gigante, más que una coincidencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889'>Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más</a></h4>
     <a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-dios-como-activarlo-android-auto-windows-11-alexa-3550784.jpg?tf=1200x' alt='Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703'>¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?</a></h4>
     <a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-error-google-maps-nunca-te-lleve-ruta-corta-3543453.jpg?tf=1200x' alt='¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-maxton-hall-ni-wilds-mejor-serie-adolescente-aun-puedes-ver-amazon-prime-video-1391883'>Ni Maxton Hall ni The Wilds, esta es la mejor serie adolescente que aún puedes ver en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-maxton-hall-ni-wilds-mejor-serie-adolescente-aun-puedes-ver-amazon-prime-video-1391883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cruel-summer-3555422.jpg?tf=1200x' alt='Ni Maxton Hall ni The Wilds, esta es la mejor serie adolescente que aún puedes ver en Amazon Prime Video' />
     </a>
 </div>
 
