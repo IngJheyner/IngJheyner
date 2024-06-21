@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/linux-ventajas-diferencias-windows-mejores-distribuciones-1145635'>Qué es Linux: ventajas, diferencias con Windows y mejores distribuciones</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/linux-ventajas-diferencias-windows-mejores-distribuciones-1145635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/linux.jpg?tf=1200x' alt='Qué es Linux: ventajas, diferencias con Windows y mejores distribuciones' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-agregar-nuevas-fuentes-windows-11-1391915'>Cómo instalar y agregar nuevas fuentes en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-agregar-nuevas-fuentes-windows-11-1391915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-instalar-agregar-nuevas-fuentes-windows-11-3552430.jpg?tf=1200x' alt='Cómo instalar y agregar nuevas fuentes en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/verano-joven-2024-requisitos-como-registrarte-conseguir-descuentos-90-billetes-tren-autobus-1391798'>Verano Joven 2024: requisitos y cómo registrarte para conseguir descuentos de hasta el 90% en billetes de tren y autobús</a></h4>
-    <a href='https://computerhoy.com/tutoriales/verano-joven-2024-requisitos-como-registrarte-conseguir-descuentos-90-billetes-tren-autobus-1391798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verano-joven-2024-3548803.jpg?tf=1200x' alt='Verano Joven 2024: requisitos y cómo registrarte para conseguir descuentos de hasta el 90% en billetes de tren y autobús' />
+    <h4><a href='https://computerhoy.com/tecnologia/verdad-detras-procesadores-128-bits-no-veremos-pronto-1391728'>La verdad detrás de los procesadores de 128 bits y por qué no los veremos pronto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/verdad-detras-procesadores-128-bits-no-veremos-pronto-1391728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fabricantes-no-han-creado-procesadores-128-bits-3545576.jpg?tf=1200x' alt='La verdad detrás de los procesadores de 128 bits y por qué no los veremos pronto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/startup-finlandesa-asegura-puede-aumentar-rendimiento-cpu-100-veces-podria-ser-cierto-1391986'>Una startup finlandesa asegura que puede aumentar el rendimiento de la CPU hasta en 100 veces, y podría ser cierto</a></h4>
-    <a href='https://computerhoy.com/pc/startup-finlandesa-asegura-puede-aumentar-rendimiento-cpu-100-veces-podria-ser-cierto-1391986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/startup-finlandesa-asegura-puede-aumentar-rendimiento-cpu-100-veces-podria-conseguirlo-3555279.jpg?tf=1200x' alt='Una startup finlandesa asegura que puede aumentar el rendimiento de la CPU hasta en 100 veces, y podría ser cierto' />
+    <h4><a href='https://computerhoy.com/tecnologia/usb-pd-como-funciona-importante-carga-movil-1391729'>Qué es USB PD, cómo funciona y por qué es importante para la carga de tu móvil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usb-pd-como-funciona-importante-carga-movil-1391729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usb-pd-como-funciona-importante-carga-movil-3545852.jpg?tf=1200x' alt='Qué es USB PD, cómo funciona y por qué es importante para la carga de tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/fallo-windows-permite-hackers-colarse-pc-traves-wifi-1391829'>Un fallo de Windows permite a los hackers colarse en tu PC a través del wifi</a></h4>
-    <a href='https://computerhoy.com/windows/fallo-windows-permite-hackers-colarse-pc-traves-wifi-1391829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hackers-robo-datos-3301689.jpg?tf=1200x' alt='Un fallo de Windows permite a los hackers colarse en tu PC a través del wifi' />
+    <h4><a href='https://computerhoy.com/moviles/tomas-demasiadas-fotos-movil-quiza-no-sea-bueno-recuerdos-1379885'>¿Tomas demasiadas fotos con el móvil? Quizá no sea bueno para tus recuerdos</a></h4>
+    <a href='https://computerhoy.com/moviles/tomas-demasiadas-fotos-movil-quiza-no-sea-bueno-recuerdos-1379885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tomas-demasiadas-fotos-movil-quiza-no-sea-demasiado-bueno-recuerdos-3300272.jpg?tf=1200x' alt='¿Tomas demasiadas fotos con el móvil? Quizá no sea bueno para tus recuerdos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489'>Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso</a></h4>
-    <a href='https://computerhoy.com/apple/conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-3535879.jpg?tf=1200x' alt='Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-contrasena-instagram-394025'>Cómo cambiar tu contraseña de Instagram paso a paso</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-contrasena-instagram-394025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-cambiar-contrasena-instagram-paso-paso-3553253.jpg?tf=1200x' alt='Cómo cambiar tu contraseña de Instagram paso a paso' />
     </a>
 </div>
 
