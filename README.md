@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/justos-pecadores-coste-acabar-iptv-saldra-bolsillo-todos-contribuyentes-1392181'>Justos por pecadores: el coste de acabar con las IPTV saldrá del bolsillo de todos los contribuyentes</a></h4>
+    <a href='https://computerhoy.com/tv/justos-pecadores-coste-acabar-iptv-saldra-bolsillo-todos-contribuyentes-1392181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/justos-pecadores-coste-acabar-iptv-saldra-bolsillo-todos-contribuyentes-3562596.jpg?tf=1200x' alt='Justos por pecadores: el coste de acabar con las IPTV saldrá del bolsillo de todos los contribuyentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/libros-stephen-king-no-tienen-pelicula-necesitan-adaptacion-ya-1391877'>5 libros de Stephen King que no tienen película y necesitan una adaptación ya</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/libros-stephen-king-no-tienen-pelicula-necesitan-adaptacion-ya-1391877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/stephen-king-3298586.jpg?tf=1200x' alt='5 libros de Stephen King que no tienen película y necesitan una adaptación ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-maxton-hall-ni-wilds-mejor-serie-adolescente-aun-puedes-ver-amazon-prime-video-1391883'>Ni Maxton Hall ni The Wilds, esta es la mejor serie adolescente que aún puedes ver en Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-maxton-hall-ni-wilds-mejor-serie-adolescente-aun-puedes-ver-amazon-prime-video-1391883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cruel-summer-3555422.jpg?tf=1200x' alt='Ni Maxton Hall ni The Wilds, esta es la mejor serie adolescente que aún puedes ver en Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-1391689'>Las mejores películas de ciencia ficción españolas que no tienen nada que envidiar a Hollywood</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-1391689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-3542627.jpg?tf=1200x' alt='Las mejores películas de ciencia ficción españolas que no tienen nada que envidiar a Hollywood' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/como-cerrar-sesion-gmail-forma-remota-te-roban-movil-1392130'>Cómo cerrar una sesión de Gmail de forma remota si te roban el móvil</a></h4>
     <a href='https://computerhoy.com/google/como-cerrar-sesion-gmail-forma-remota-te-roban-movil-1392130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/gmail-3564451.jpg?tf=1200x' alt='Cómo cerrar una sesión de Gmail de forma remota si te roban el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/retrasan-regreso-astronautas-boeing-starliner-miedo-queden-varados-espacio-1392056'>Retrasan el regreso de los astronautas de la Boeing Starliner por miedo a que se queden varados en el espacio</a></h4>
-    <a href='https://computerhoy.com/espacio/retrasan-regreso-astronautas-boeing-starliner-miedo-queden-varados-espacio-1392056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/starliner-3557282.jpg?tf=1200x' alt='Retrasan el regreso de los astronautas de la Boeing Starliner por miedo a que se queden varados en el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/razon-siempre-deberias-activar-modo-incognito-navegador-1392046'>La razón por la que siempre deberías activar el modo incógnito en tu navegador</a></h4>
-    <a href='https://computerhoy.com/internet/razon-siempre-deberias-activar-modo-incognito-navegador-1392046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/razon-siempre-deberias-activar-modo-incognito-navegador-3557279.jpg?tf=1200x' alt='La razón por la que siempre deberías activar el modo incógnito en tu navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dstike-deauther-watch-x-apple-watch-hackers-flipper-zero-muneca-1392228'>DSTIKE Deauther Watch X: el Apple Watch de los hackers, un Flipper Zero en tu muñeca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dstike-deauther-watch-x-apple-watch-hackers-flipper-zero-muneca-1392228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dstike-deauther-watch-x-apple-watch-hackers-flipper-zero-muneca-3564296.jpg?tf=1200x' alt='DSTIKE Deauther Watch X: el Apple Watch de los hackers, un Flipper Zero en tu muñeca' />
     </a>
 </div>
 
