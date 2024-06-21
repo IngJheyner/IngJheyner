@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-intelligence-como-apple-sumando-ia-1390863'>¿Qué es Apple Intelligence y cómo Apple se está sumando a la IA?</a></h4>
-    <a href='https://computerhoy.com/apple/apple-intelligence-como-apple-sumando-ia-1390863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718368191917-3514404.jpg?tf=1200x' alt='¿Qué es Apple Intelligence y cómo Apple se está sumando a la IA?' />
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-671-computer-hoy-1390845'>¡Ya está en tu quiosco el número 671 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-671-computer-hoy-1390845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/computer-hoy-671-3509861.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 671 de Computer Hoy!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/dyson-wash-g1-fregona-electrica-analisis-opinion-1391985'>Tras dos semanas con la fregona eléctrica Dyson Wash G1, creo que me quedo con la tradicional</a></h4>
-    <a href='https://computerhoy.com/analisis/dyson-wash-g1-fregona-electrica-analisis-opinion-1391985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dyson-wash-g1-3555736.jpg?tf=1200x' alt='Tras dos semanas con la fregona eléctrica Dyson Wash G1, creo que me quedo con la tradicional' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-musica-youtube-ordenador-1225418'>Cómo descargar música de YouTube al ordenador en MP3</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-musica-youtube-ordenador-1225418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/musica-youtube-3000702.jpg?tf=1200x' alt='Cómo descargar música de YouTube al ordenador en MP3' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/tamano-cabeza-me-ha-gustado-sonos-ace-comodos-son-1391424'>Con este tamaño de cabeza, lo que más me ha gustado de los Sonos Ace es lo cómodos que son</a></h4>
-    <a href='https://computerhoy.com/audio/tamano-cabeza-me-ha-gustado-sonos-ace-comodos-son-1391424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sonos-ace-3502227.jpg?tf=1200x' alt='Con este tamaño de cabeza, lo que más me ha gustado de los Sonos Ace es lo cómodos que son' />
+    <h4><a href='https://computerhoy.com/tecnologia/pc-ia-vs-copilot-diferencian-cual-mejor-ti-1390882'>PC con IA vs. Copilot+: en qué se diferencian y cuál es mejor para ti</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-ia-vs-copilot-diferencian-cual-mejor-ti-1390882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pc-ia-vs-copilot-diferencian-cual-mejor-ti-3503916.jpg?tf=1200x' alt='PC con IA vs. Copilot+: en qué se diferencian y cuál es mejor para ti' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pilotos-aerolineas-no-llevan-barba-1391292'>Por qué los pilotos de aerolíneas no llevan barba</a></h4>
-    <a href='https://computerhoy.com/life/pilotos-aerolineas-no-llevan-barba-1391292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pilotos-aerolineas-no-llevan-barba-3524682.jpg?tf=1200x' alt='Por qué los pilotos de aerolíneas no llevan barba' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/me-han-hackeado-cuenta-banco-ahora-hago-experto-responde-1390603'>Me han hackeado la cuenta del banco: ¿Ahora qué hago? Un experto responde</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/me-han-hackeado-cuenta-banco-ahora-hago-experto-responde-1390603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dinero-quema-3513173.jpg?tf=1200x' alt='Me han hackeado la cuenta del banco: ¿Ahora qué hago? Un experto responde' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-10-trucos-dominaras-camara-tendras-mejores-fotografias-1387828'>Trucos de fotografía para obtener los mejores resultados: 10 consejos básicos para usar bien tu cámara</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-10-trucos-dominaras-camara-tendras-mejores-fotografias-1387828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fotografia-camara-trucos-basicos-3361992.jpg?tf=1200x' alt='Trucos de fotografía para obtener los mejores resultados: 10 consejos básicos para usar bien tu cámara' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/advertencia-google-chrome-jamas-copies-pegues-texto-1391832'>Advertencia de Google Chrome: jamás copies y pegues este texto </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/advertencia-google-chrome-jamas-copies-pegues-texto-1391832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Advertencia de Google Chrome: jamás copies y pegues este texto ' />
     </a>
 </div>
 
