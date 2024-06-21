@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/fussballiebe-balon-euro-tecnologia-1336656'>Así es la tecnología detrás de  Fussballiebe, el balón de la Euro 2024</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/fussballiebe-balon-euro-tecnologia-1336656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fussballiebe-3224540.jpg?tf=1200x' alt='Así es la tecnología detrás de  Fussballiebe, el balón de la Euro 2024' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/linux-ventajas-diferencias-windows-mejores-distribuciones-1145635'>Qué es Linux: ventajas, diferencias con Windows y mejores distribuciones</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/linux-ventajas-diferencias-windows-mejores-distribuciones-1145635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/linux.jpg?tf=1200x' alt='Qué es Linux: ventajas, diferencias con Windows y mejores distribuciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-consigue-resolver-misterio-medio-siglo-investigacion-estrella-wl-20s-1391975'>El telescopio James Webb consigue resolver un misterio tras más de medio siglo de investigación: la estrella WL 20S</a></h4>
-    <a href='https://computerhoy.com/espacio/telescopio-james-webb-consigue-resolver-misterio-medio-siglo-investigacion-estrella-wl-20s-1391975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/telescopio-james-webb-ha-fotografiado-estrellas-jovenes-conocen-3554984.jpg?tf=1200x' alt='El telescopio James Webb consigue resolver un misterio tras más de medio siglo de investigación: la estrella WL 20S' />
+    <h4><a href='https://computerhoy.com/tutoriales/verano-joven-2024-requisitos-como-registrarte-conseguir-descuentos-90-billetes-tren-autobus-1391798'>Verano Joven 2024: requisitos y cómo registrarte para conseguir descuentos de hasta el 90% en billetes de tren y autobús</a></h4>
+    <a href='https://computerhoy.com/tutoriales/verano-joven-2024-requisitos-como-registrarte-conseguir-descuentos-90-billetes-tren-autobus-1391798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verano-joven-2024-3548803.jpg?tf=1200x' alt='Verano Joven 2024: requisitos y cómo registrarte para conseguir descuentos de hasta el 90% en billetes de tren y autobús' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/intel-ofrece-nuevas-orientaciones-inestabilidad-cpu-13a-14a-generacion-pero-aun-no-hay-solucion-definitiva-1392040'>Intel ofrece nuevas orientaciones sobre la inestabilidad de las CPU de 13ª y 14ª generación, pero aún no hay una solución definitiva </a></h4>
-    <a href='https://computerhoy.com/intel-ofrece-nuevas-orientaciones-inestabilidad-cpu-13a-14a-generacion-pero-aun-no-hay-solucion-definitiva-1392040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-ciberseguridad-3315192.jpg?tf=1200x' alt='Intel ofrece nuevas orientaciones sobre la inestabilidad de las CPU de 13ª y 14ª generación, pero aún no hay una solución definitiva ' />
+    <h4><a href='https://computerhoy.com/pc/startup-finlandesa-asegura-puede-aumentar-rendimiento-cpu-100-veces-podria-ser-cierto-1391986'>Una startup finlandesa asegura que puede aumentar el rendimiento de la CPU hasta en 100 veces, y podría ser cierto</a></h4>
+    <a href='https://computerhoy.com/pc/startup-finlandesa-asegura-puede-aumentar-rendimiento-cpu-100-veces-podria-ser-cierto-1391986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/startup-finlandesa-asegura-puede-aumentar-rendimiento-cpu-100-veces-podria-conseguirlo-3555279.jpg?tf=1200x' alt='Una startup finlandesa asegura que puede aumentar el rendimiento de la CPU hasta en 100 veces, y podría ser cierto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-quieres-abrir-archivo-como-solucionar-error-windows-10-tan-molesto-1392041'>"¿Cómo quieres abrir este archivo?" Cómo solucionar este error de Windows 10 tan molesto</a></h4>
-    <a href='https://computerhoy.com/windows/como-quieres-abrir-archivo-como-solucionar-error-windows-10-tan-molesto-1392041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/oficial-windows-10-grave-problema-microsoft-tiene-muy-mala-solucion-3310479.jpg?tf=1200x' alt='"¿Cómo quieres abrir este archivo?" Cómo solucionar este error de Windows 10 tan molesto' />
+    <h4><a href='https://computerhoy.com/windows/fallo-windows-permite-hackers-colarse-pc-traves-wifi-1391829'>Un fallo de Windows permite a los hackers colarse en tu PC a través del wifi</a></h4>
+    <a href='https://computerhoy.com/windows/fallo-windows-permite-hackers-colarse-pc-traves-wifi-1391829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hackers-robo-datos-3301689.jpg?tf=1200x' alt='Un fallo de Windows permite a los hackers colarse en tu PC a través del wifi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-puedo-saber-mi-coche-compatible-android-auto-1390672'>¿Cómo puedo saber si mi coche es compatible con Android Auto?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-puedo-saber-mi-coche-compatible-android-auto-1390672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-puedo-saber-mi-coche-compatible-android-auto-3497636.jpg?tf=1200x' alt='¿Cómo puedo saber si mi coche es compatible con Android Auto?' />
+    <h4><a href='https://computerhoy.com/apple/conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489'>Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso</a></h4>
+    <a href='https://computerhoy.com/apple/conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-3535879.jpg?tf=1200x' alt='Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso' />
     </a>
 </div>
 
