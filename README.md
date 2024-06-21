@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/funcion-oculta-conexiones-hdmi-smart-tv-deberias-activar-ahora-mismo-1259924'>Esta es la función oculta de las conexiones HDMI de tu Smart TV que deberías activar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tv/funcion-oculta-conexiones-hdmi-smart-tv-deberias-activar-ahora-mismo-1259924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mando-aire-acondicionado-infrarrojo-3056488.jpg?tf=1200x' alt='Esta es la función oculta de las conexiones HDMI de tu Smart TV que deberías activar ahora mismo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/fussballiebe-balon-euro-tecnologia-1336656'>Así es la tecnología detrás de  Fussballiebe, el balón de la Euro 2024</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fussballiebe-balon-euro-tecnologia-1336656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fussballiebe-3224540.jpg?tf=1200x' alt='Así es la tecnología detrás de  Fussballiebe, el balón de la Euro 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/steve-jobs-odiaria-todas-fuerzas-muchas-cosas-actual-apple-1391953'>Steve Jobs odiaría con todas sus fuerzas muchas cosas de la actual Apple</a></h4>
-    <a href='https://computerhoy.com/apple/steve-jobs-odiaria-todas-fuerzas-muchas-cosas-actual-apple-1391953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cual-fecha-lanzamiento-ios-18-3506219.jpg?tf=1200x' alt='Steve Jobs odiaría con todas sus fuerzas muchas cosas de la actual Apple' />
+    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-consigue-resolver-misterio-medio-siglo-investigacion-estrella-wl-20s-1391975'>El telescopio James Webb consigue resolver un misterio tras más de medio siglo de investigación: la estrella WL 20S</a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-james-webb-consigue-resolver-misterio-medio-siglo-investigacion-estrella-wl-20s-1391975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/telescopio-james-webb-ha-fotografiado-estrellas-jovenes-conocen-3554984.jpg?tf=1200x' alt='El telescopio James Webb consigue resolver un misterio tras más de medio siglo de investigación: la estrella WL 20S' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/juegos-android-mejores-graficos-nada-tienen-envidiar-ps5-xbox-series-x-1389456'>Los juegos para Android con mejores gráficos que nada tienen que envidiar a PS5 o Xbox Series X</a></h4>
-    <a href='https://computerhoy.com/gaming/juegos-android-mejores-graficos-nada-tienen-envidiar-ps5-xbox-series-x-1389456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/juegos-android-mejores-graficos-nada-tienen-envidiar-ps5-xbox-series-x-3441068.jpg?tf=1200x' alt='Los juegos para Android con mejores gráficos que nada tienen que envidiar a PS5 o Xbox Series X' />
+    <h4><a href='https://computerhoy.com/intel-ofrece-nuevas-orientaciones-inestabilidad-cpu-13a-14a-generacion-pero-aun-no-hay-solucion-definitiva-1392040'>Intel ofrece nuevas orientaciones sobre la inestabilidad de las CPU de 13ª y 14ª generación, pero aún no hay una solución definitiva </a></h4>
+    <a href='https://computerhoy.com/intel-ofrece-nuevas-orientaciones-inestabilidad-cpu-13a-14a-generacion-pero-aun-no-hay-solucion-definitiva-1392040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-ciberseguridad-3315192.jpg?tf=1200x' alt='Intel ofrece nuevas orientaciones sobre la inestabilidad de las CPU de 13ª y 14ª generación, pero aún no hay una solución definitiva ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puedo-hacer-bizum-extranjero-fuera-espana-1392149'>¿Puedo hacer un Bizum al extranjero o desde fuera de España?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puedo-hacer-bizum-extranjero-fuera-espana-1392149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/puedo-hacer-bizum-extranjero-extranjero-3561655.jpg?tf=1200x' alt='¿Puedo hacer un Bizum al extranjero o desde fuera de España?' />
+    <h4><a href='https://computerhoy.com/windows/como-quieres-abrir-archivo-como-solucionar-error-windows-10-tan-molesto-1392041'>"¿Cómo quieres abrir este archivo?" Cómo solucionar este error de Windows 10 tan molesto</a></h4>
+    <a href='https://computerhoy.com/windows/como-quieres-abrir-archivo-como-solucionar-error-windows-10-tan-molesto-1392041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/oficial-windows-10-grave-problema-microsoft-tiene-muy-mala-solucion-3310479.jpg?tf=1200x' alt='"¿Cómo quieres abrir este archivo?" Cómo solucionar este error de Windows 10 tan molesto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/aliexpress-vuelve-hacer-vende-tv-4k-xiaomi-barata-movil-1392141'>AliExpress lo vuelve a hacer: vende una TV 4K de Xiaomi más barata que un móvil</a></h4>
-    <a href='https://computerhoy.com/tv/aliexpress-vuelve-hacer-vende-tv-4k-xiaomi-barata-movil-1392141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ver-series-peliculas-como-merecen-televisor-xiaomi-tv-a2-50-pulgadas-resolucion-4k-dolby-vision-solo-449-euros-2842423.jpg?tf=1200x' alt='AliExpress lo vuelve a hacer: vende una TV 4K de Xiaomi más barata que un móvil' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-puedo-saber-mi-coche-compatible-android-auto-1390672'>¿Cómo puedo saber si mi coche es compatible con Android Auto?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-puedo-saber-mi-coche-compatible-android-auto-1390672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-puedo-saber-mi-coche-compatible-android-auto-3497636.jpg?tf=1200x' alt='¿Cómo puedo saber si mi coche es compatible con Android Auto?' />
     </a>
 </div>
 
