@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ciberpunk-tenia-razon-adelantos-tecnologicos-ciencia-ficcion-80-adivino-1390298'>El ciberpunk tenía razón: 5 adelantos tecnológicos que la ciencia ficción de los 80 adivinó</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ciberpunk-tenia-razon-adelantos-tecnologicos-ciencia-ficcion-80-adivino-1390298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberpunk-tenia-razon-5-adelantos-tecnologicos-ciencia-ficcion-80-adivino-3485025.jpg?tf=1200x' alt='El ciberpunk tenía razón: 5 adelantos tecnológicos que la ciencia ficción de los 80 adivinó' />
+    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-1390886'>Qué hacer cuando el menú Inicio de Windows 11 no responde y se atasca</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-1390886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-3504760.jpg?tf=1200x' alt='Qué hacer cuando el menú Inicio de Windows 11 no responde y se atasca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/disco-duro-seagate-8tb-rebaja-1388238'>Monta tu nube en casa con este disco duro de 8TB: solo lo pagas una vez y si tienes NAS es apuesta segura</a></h4>
-    <a href='https://computerhoy.com/tecnologia/disco-duro-seagate-8tb-rebaja-1388238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/seagate-barracuda-3554234.jpg?tf=1200x' alt='Monta tu nube en casa con este disco duro de 8TB: solo lo pagas una vez y si tienes NAS es apuesta segura' />
+    <h4><a href='https://computerhoy.com/android/chollo-semana-pixel-8a-acaba-llegar-ya-precio-locos-1392095'>El chollo de la semana es el Pixel 8a: acaba de llegar y ya está a precio de locos</a></h4>
+    <a href='https://computerhoy.com/android/chollo-semana-pixel-8a-acaba-llegar-ya-precio-locos-1392095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3312066.jpg?tf=1200x' alt='El chollo de la semana es el Pixel 8a: acaba de llegar y ya está a precio de locos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-intelligence-como-apple-sumando-ia-1390863'>¿Qué es Apple Intelligence y cómo Apple se está sumando a la IA?</a></h4>
-    <a href='https://computerhoy.com/apple/apple-intelligence-como-apple-sumando-ia-1390863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718368191917-3514404.jpg?tf=1200x' alt='¿Qué es Apple Intelligence y cómo Apple se está sumando a la IA?' />
+    <h4><a href='https://computerhoy.com/tecnologia/etiquetas-digitales-precios-supermercados-malas-noticias-consumidores-1392113'>Llegan las etiquetas digitales de precios a los supermercados: malas noticias para los consumidores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/etiquetas-digitales-precios-supermercados-malas-noticias-consumidores-1392113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/llegan-etiquetas-precios-digitales-supermercados-no-son-buenas-noticias-consumidores-3560735.jpg?tf=1200x' alt='Llegan las etiquetas digitales de precios a los supermercados: malas noticias para los consumidores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/dyson-wash-g1-fregona-electrica-analisis-opinion-1391985'>Tras dos semanas con la fregona eléctrica Dyson Wash G1, creo que me quedo con la tradicional</a></h4>
-    <a href='https://computerhoy.com/analisis/dyson-wash-g1-fregona-electrica-analisis-opinion-1391985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dyson-wash-g1-3555736.jpg?tf=1200x' alt='Tras dos semanas con la fregona eléctrica Dyson Wash G1, creo que me quedo con la tradicional' />
+    <h4><a href='https://computerhoy.com/apps/adios-youtube-premium-barato-comienzan-bloquear-cuentas-compradas-turquia-argentina-filipinas-1391937'>Adiós al YouTube Premium barato: comienzan a bloquear cuentas compradas en Turquía, Argentina o Filipinas</a></h4>
+    <a href='https://computerhoy.com/apps/adios-youtube-premium-barato-comienzan-bloquear-cuentas-compradas-turquia-argentina-filipinas-1391937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bloqueo-youtube-3554233.jpg?tf=1200x' alt='Adiós al YouTube Premium barato: comienzan a bloquear cuentas compradas en Turquía, Argentina o Filipinas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/tamano-cabeza-me-ha-gustado-sonos-ace-comodos-son-1391424'>Con este tamaño de cabeza, lo que más me ha gustado de los Sonos Ace es lo cómodos que son</a></h4>
-    <a href='https://computerhoy.com/audio/tamano-cabeza-me-ha-gustado-sonos-ace-comodos-son-1391424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sonos-ace-3502227.jpg?tf=1200x' alt='Con este tamaño de cabeza, lo que más me ha gustado de los Sonos Ace es lo cómodos que son' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-confiesa-lleva-anos-contratando-gente-simplemente-luego-despedirla-1390486'>Amazon confiesa que lleva años contratando a gente simplemente para luego despedirla</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-confiesa-lleva-anos-contratando-gente-simplemente-luego-despedirla-1390486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/despidos-amazon-3492605.jpg?tf=1200x' alt='Amazon confiesa que lleva años contratando a gente simplemente para luego despedirla' />
     </a>
 </div>
 
