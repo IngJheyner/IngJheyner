@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/significa-telefono-demasiado-caliente-android-auto-como-solucionarlo-1391243'>Qué significa "El teléfono está demasiado caliente" en Android Auto y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/significa-telefono-demasiado-caliente-android-auto-como-solucionarlo-1391243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/significa-telefono-demasiado-caliente-android-auto-como-solucionarlo-3518552.jpg?tf=1200x' alt='Qué significa "El teléfono está demasiado caliente" en Android Auto y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/apple/apple-intelligence-como-apple-sumando-ia-1390863'>¿Qué es Apple Intelligence y cómo Apple se está sumando a la IA?</a></h4>
+    <a href='https://computerhoy.com/apple/apple-intelligence-como-apple-sumando-ia-1390863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718368191917-3514404.jpg?tf=1200x' alt='¿Qué es Apple Intelligence y cómo Apple se está sumando a la IA?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-usa-ia-descubrir-gato-siente-dolor-1392085'>Esta app usa una IA para descubrir si tu gato siente dolor, y su causa</a></h4>
-    <a href='https://computerhoy.com/apps/app-usa-ia-descubrir-gato-siente-dolor-1392085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-usa-ia-descubrir-gato-siente-dolor-causa-3559283.jpg?tf=1200x' alt='Esta app usa una IA para descubrir si tu gato siente dolor, y su causa' />
+    <h4><a href='https://computerhoy.com/analisis/dyson-wash-g1-fregona-electrica-analisis-opinion-1391985'>Tras dos semanas con la fregona eléctrica Dyson Wash G1, creo que me quedo con la tradicional</a></h4>
+    <a href='https://computerhoy.com/analisis/dyson-wash-g1-fregona-electrica-analisis-opinion-1391985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dyson-wash-g1-3555736.jpg?tf=1200x' alt='Tras dos semanas con la fregona eléctrica Dyson Wash G1, creo que me quedo con la tradicional' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-1391835'>La IA sí está provocando despidos, y no es tan bonito como lo pinta Bill Gates</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-1391835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-3548654.jpg?tf=1200x' alt='La IA sí está provocando despidos, y no es tan bonito como lo pinta Bill Gates' />
+    <h4><a href='https://computerhoy.com/audio/tamano-cabeza-me-ha-gustado-sonos-ace-comodos-son-1391424'>Con este tamaño de cabeza, lo que más me ha gustado de los Sonos Ace es lo cómodos que son</a></h4>
+    <a href='https://computerhoy.com/audio/tamano-cabeza-me-ha-gustado-sonos-ace-comodos-son-1391424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sonos-ace-3502227.jpg?tf=1200x' alt='Con este tamaño de cabeza, lo que más me ha gustado de los Sonos Ace es lo cómodos que son' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-1391653'>¿No puedes dormir en verano? El truco viral de TikTok para hacerlo en un minuto</a></h4>
-    <a href='https://computerhoy.com/life/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-1391653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-3541886.jpg?tf=1200x' alt='¿No puedes dormir en verano? El truco viral de TikTok para hacerlo en un minuto' />
+    <h4><a href='https://computerhoy.com/life/pilotos-aerolineas-no-llevan-barba-1391292'>Por qué los pilotos de aerolíneas no llevan barba</a></h4>
+    <a href='https://computerhoy.com/life/pilotos-aerolineas-no-llevan-barba-1391292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pilotos-aerolineas-no-llevan-barba-3524682.jpg?tf=1200x' alt='Por qué los pilotos de aerolíneas no llevan barba' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-watch-s3-rebajas-aliexpress-cupon-1389355'>Elegante, deportivo y ahora barato: este reloj de Xiaomi lo tiene todo para sacudir el sector de los smartwatches</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-watch-s3-rebajas-aliexpress-cupon-1389355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/xiaomi-watch-s3-3546847.jpg?tf=1200x' alt='Elegante, deportivo y ahora barato: este reloj de Xiaomi lo tiene todo para sacudir el sector de los smartwatches' />
+    <h4><a href='https://computerhoy.com/tecnologia/estos-10-trucos-dominaras-camara-tendras-mejores-fotografias-1387828'>Trucos de fotografía para obtener los mejores resultados: 10 consejos básicos para usar bien tu cámara</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-10-trucos-dominaras-camara-tendras-mejores-fotografias-1387828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fotografia-camara-trucos-basicos-3361992.jpg?tf=1200x' alt='Trucos de fotografía para obtener los mejores resultados: 10 consejos básicos para usar bien tu cámara' />
     </a>
 </div>
 
