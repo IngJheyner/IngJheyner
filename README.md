@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-inmortales-recordar-donald-sutherland-alla-juegos-hambre-1392199'>5 películas inmortales para recordar a Donald Sutherland, más allá de Los juegos del hambre </a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-inmortales-recordar-donald-sutherland-alla-juegos-hambre-1392199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-peliculas-inmortales-recordar-donald-sutherland-3563064.jpg?tf=1200x' alt='5 películas inmortales para recordar a Donald Sutherland, más allá de Los juegos del hambre ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-agregar-nuevas-fuentes-windows-11-1391915'>Cómo instalar y agregar nuevas fuentes en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-agregar-nuevas-fuentes-windows-11-1391915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-instalar-agregar-nuevas-fuentes-windows-11-3552430.jpg?tf=1200x' alt='Cómo instalar y agregar nuevas fuentes en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/tomas-demasiadas-fotos-movil-quiza-no-sea-bueno-recuerdos-1379885'>¿Tomas demasiadas fotos con el móvil? Quizá no sea bueno para tus recuerdos</a></h4>
     <a href='https://computerhoy.com/moviles/tomas-demasiadas-fotos-movil-quiza-no-sea-bueno-recuerdos-1379885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tomas-demasiadas-fotos-movil-quiza-no-sea-demasiado-bueno-recuerdos-3300272.jpg?tf=1200x' alt='¿Tomas demasiadas fotos con el móvil? Quizá no sea bueno para tus recuerdos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-contrasena-instagram-394025'>Cómo cambiar tu contraseña de Instagram paso a paso</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-cambiar-contrasena-instagram-394025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-cambiar-contrasena-instagram-paso-paso-3553253.jpg?tf=1200x' alt='Cómo cambiar tu contraseña de Instagram paso a paso' />
     </a>
 </div>
 
