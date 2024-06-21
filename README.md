@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-aperitivos-palomitas-1392250'>El círculo se cierra: Netflix presenta su nueva línea de aperitivos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-aperitivos-palomitas-1392250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/circulo-cierra-netflix-presenta-nueva-linea-aperitivos-3565206.jpg?tf=1200x' alt='El círculo se cierra: Netflix presenta su nueva línea de aperitivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-compania-mas-valiosa-mundo-1391911'>Tras superar a Apple, NVIDIA deja atrás a Microsoft, y ya es la compañía más valiosa del mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-compania-mas-valiosa-mundo-1391911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-3045852.jpg?tf=1200x' alt='Tras superar a Apple, NVIDIA deja atrás a Microsoft, y ya es la compañía más valiosa del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246'>Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla</a></h4>
     <a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ropa-perchas-3565060.jpg?tf=1200x' alt='Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sirve-pasaporte-digital-producto-cuando-sera-obligatorio-1392245'>Qué es y para qué sirve el pasaporte digital de producto y cuándo será obligatorio</a></h4>
     <a href='https://computerhoy.com/tecnologia/sirve-pasaporte-digital-producto-cuando-sera-obligatorio-1392245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pasaporte-digital-producto-3565056.jpg?tf=1200x' alt='Qué es y para qué sirve el pasaporte digital de producto y cuándo será obligatorio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/mayor-debilidad-enfrenta-apple-ia-iphone-1392188'>Esta es la mayor debilidad a la que se enfrenta Apple con la IA de los iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/mayor-debilidad-enfrenta-apple-ia-iphone-1392188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mayor-debilidad-apple-ia-iphone-3562763.jpg?tf=1200x' alt='Esta es la mayor debilidad a la que se enfrenta Apple con la IA de los iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/configuraciones-rapidas-consigo-mejorar-rendimiento-mi-smart-tv-instante-1392240'>Configuraciones rápidas con las que consigo mejorar el rendimiento de mi Smart TV al instante</a></h4>
-    <a href='https://computerhoy.com/tv/configuraciones-rapidas-consigo-mejorar-rendimiento-mi-smart-tv-instante-1392240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/configuraciones-rapidas-consigo-mejorar-rendimiento-mi-smart-tv-instante-3564908.jpg?tf=1200x' alt='Configuraciones rápidas con las que consigo mejorar el rendimiento de mi Smart TV al instante' />
     </a>
 </div>
 
