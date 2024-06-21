@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/piensatelo-dos-veces-antes-llevarte-toalla-albornoz-hotel-estas-vacaciones-1391867'>Piénsatelo dos veces antes de llevarte la toalla o el albornoz del hotel estas vacaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/piensatelo-dos-veces-antes-llevarte-toalla-albornoz-hotel-estas-vacaciones-1391867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hombre-tumbado-albornoz-3549553.jpg?tf=1200x' alt='Piénsatelo dos veces antes de llevarte la toalla o el albornoz del hotel estas vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estados-unidos-prohibe-venta-antivirus-kaspersky-1392075'>Estados Unidos prohíbe la venta de los antivirus Kaspersky</a></h4>
     <a href='https://computerhoy.com/tecnologia/estados-unidos-prohibe-venta-antivirus-kaspersky-1392075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estados-unidos-tambien-quiere-prohibir-antivirus-kaspersky-3558422.jpg?tf=1200x' alt='Estados Unidos prohíbe la venta de los antivirus Kaspersky' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/centro-datos-tesla-forma-tarjeta-grafica-gigante-1392074'>El centro de datos de Tesla con forma de tarjeta gráfica gigante, más que una coincidencia</a></h4>
     <a href='https://computerhoy.com/motor/centro-datos-tesla-forma-tarjeta-grafica-gigante-1392074' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/centro-datos-tesla-forma-tarjeta-grafica-gigante-coincidencia-3557995.jpg?tf=1200x' alt='El centro de datos de Tesla con forma de tarjeta gráfica gigante, más que una coincidencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889'>Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-dios-como-activarlo-android-auto-windows-11-alexa-3550784.jpg?tf=1200x' alt='Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más' />
     </a>
 </div>
 
