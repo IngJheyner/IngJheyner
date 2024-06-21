@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-inmortales-recordar-donald-sutherland-alla-juegos-hambre-1392199'>5 películas inmortales para recordar a Donald Sutherland, más allá de Los juegos del hambre </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-inmortales-recordar-donald-sutherland-alla-juegos-hambre-1392199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-peliculas-inmortales-recordar-donald-sutherland-3563064.jpg?tf=1200x' alt='5 películas inmortales para recordar a Donald Sutherland, más allá de Los juegos del hambre ' />
+    <h4><a href='https://computerhoy.com/tecnologia/detectan-vulnerabilidad-afecta-cientos-modelos-cpu-intel-1392128'>Detectan vulnerabilidad que afecta a cientos de modelos de CPU Intel</a></h4>
+    <a href='https://computerhoy.com/tecnologia/detectan-vulnerabilidad-afecta-cientos-modelos-cpu-intel-1392128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-3563129.jpg?tf=1200x' alt='Detectan vulnerabilidad que afecta a cientos de modelos de CPU Intel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-agregar-nuevas-fuentes-windows-11-1391915'>Cómo instalar y agregar nuevas fuentes en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-agregar-nuevas-fuentes-windows-11-1391915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-instalar-agregar-nuevas-fuentes-windows-11-3552430.jpg?tf=1200x' alt='Cómo instalar y agregar nuevas fuentes en Windows 11' />
+    <h4><a href='https://computerhoy.com/moviles/truco-cinco-veces-movil-podria-salvarte-vida-casi-nadie-conoce-1392037'>El truco de las cinco veces con tu móvil que podría salvarte la vida y que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/moviles/truco-cinco-veces-movil-podria-salvarte-vida-casi-nadie-conoce-1392037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/persona-movil-3556964.jpg?tf=1200x' alt='El truco de las cinco veces con tu móvil que podría salvarte la vida y que casi nadie conoce' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/verdad-detras-procesadores-128-bits-no-veremos-pronto-1391728'>La verdad detrás de los procesadores de 128 bits y por qué no los veremos pronto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/verdad-detras-procesadores-128-bits-no-veremos-pronto-1391728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fabricantes-no-han-creado-procesadores-128-bits-3545576.jpg?tf=1200x' alt='La verdad detrás de los procesadores de 128 bits y por qué no los veremos pronto' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-aplicaciones-movil-android-1383119'>Cómo poner contraseña a las aplicaciones en un móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-aplicaciones-movil-android-1383119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/contrasena-password-3235270.jpg?tf=1200x' alt='Cómo poner contraseña a las aplicaciones en un móvil Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usb-pd-como-funciona-importante-carga-movil-1391729'>Qué es USB PD, cómo funciona y por qué es importante para la carga de tu móvil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usb-pd-como-funciona-importante-carga-movil-1391729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usb-pd-como-funciona-importante-carga-movil-3545852.jpg?tf=1200x' alt='Qué es USB PD, cómo funciona y por qué es importante para la carga de tu móvil' />
+    <h4><a href='https://computerhoy.com/life/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-1392029'>Ni prueba de la cerveza ni preguntas trampa, esta es la nueva táctica en las entrevistas de trabajo: invitarte a una fiesta</a></h4>
+    <a href='https://computerhoy.com/life/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-1392029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-3556794.jpg?tf=1200x' alt='Ni prueba de la cerveza ni preguntas trampa, esta es la nueva táctica en las entrevistas de trabajo: invitarte a una fiesta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tomas-demasiadas-fotos-movil-quiza-no-sea-bueno-recuerdos-1379885'>¿Tomas demasiadas fotos con el móvil? Quizá no sea bueno para tus recuerdos</a></h4>
-    <a href='https://computerhoy.com/moviles/tomas-demasiadas-fotos-movil-quiza-no-sea-bueno-recuerdos-1379885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tomas-demasiadas-fotos-movil-quiza-no-sea-demasiado-bueno-recuerdos-3300272.jpg?tf=1200x' alt='¿Tomas demasiadas fotos con el móvil? Quizá no sea bueno para tus recuerdos' />
+    <h4><a href='https://computerhoy.com/tecnologia/ipad-air-13-gigante-pero-nos-encanta-ademas-ya-tiene-primer-descuento-1391961'>El iPad Air 13 es gigante, pero nos encanta y además ya tiene su primer descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ipad-air-13-gigante-pero-nos-encanta-ademas-ya-tiene-primer-descuento-1391961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipad-air-m2-13-pulgadas-3502073.jpg?tf=1200x' alt='El iPad Air 13 es gigante, pero nos encanta y además ya tiene su primer descuento' />
     </a>
 </div>
 
