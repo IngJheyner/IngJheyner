@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-1391949'>¿Odias Windows 11 y quieres dar el salto a Windows 12? Piénsatelo dos veces, podría salirte muy caro</a></h4>
-    <a href='https://computerhoy.com/windows/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-1391949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-3554380.jpg?tf=1200x' alt='¿Odias Windows 11 y quieres dar el salto a Windows 12? Piénsatelo dos veces, podría salirte muy caro' />
+    <h4><a href='https://computerhoy.com/tv/funcion-oculta-conexiones-hdmi-smart-tv-deberias-activar-ahora-mismo-1259924'>Esta es la función oculta de las conexiones HDMI de tu Smart TV que deberías activar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tv/funcion-oculta-conexiones-hdmi-smart-tv-deberias-activar-ahora-mismo-1259924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mando-aire-acondicionado-infrarrojo-3056488.jpg?tf=1200x' alt='Esta es la función oculta de las conexiones HDMI de tu Smart TV que deberías activar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/computacion-cuantica-podria-ser-facil-nunca-nueva-tecnica-1392111'>La computación cuántica podría ser más fácil que nunca con esta nueva técnica</a></h4>
-    <a href='https://computerhoy.com/ciencia/computacion-cuantica-podria-ser-facil-nunca-nueva-tecnica-1392111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-cuantico-3561798.jpg?tf=1200x' alt='La computación cuántica podría ser más fácil que nunca con esta nueva técnica' />
+    <h4><a href='https://computerhoy.com/apple/steve-jobs-odiaria-todas-fuerzas-muchas-cosas-actual-apple-1391953'>Steve Jobs odiaría con todas sus fuerzas muchas cosas de la actual Apple</a></h4>
+    <a href='https://computerhoy.com/apple/steve-jobs-odiaria-todas-fuerzas-muchas-cosas-actual-apple-1391953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cual-fecha-lanzamiento-ios-18-3506219.jpg?tf=1200x' alt='Steve Jobs odiaría con todas sus fuerzas muchas cosas de la actual Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/antimalware-windows-como-funciona-como-saber-debes-desactivarlo-1390976'>Antimalware de Windows: qué es, cómo funciona y cómo saber si debes desactivarlo</a></h4>
-    <a href='https://computerhoy.com/windows/antimalware-windows-como-funciona-como-saber-debes-desactivarlo-1390976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/antimalware-windows-como-funciona-como-saber-debes-desactivarlo-3507221.jpg?tf=1200x' alt='Antimalware de Windows: qué es, cómo funciona y cómo saber si debes desactivarlo' />
+    <h4><a href='https://computerhoy.com/gaming/juegos-android-mejores-graficos-nada-tienen-envidiar-ps5-xbox-series-x-1389456'>Los juegos para Android con mejores gráficos que nada tienen que envidiar a PS5 o Xbox Series X</a></h4>
+    <a href='https://computerhoy.com/gaming/juegos-android-mejores-graficos-nada-tienen-envidiar-ps5-xbox-series-x-1389456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/juegos-android-mejores-graficos-nada-tienen-envidiar-ps5-xbox-series-x-3441068.jpg?tf=1200x' alt='Los juegos para Android con mejores gráficos que nada tienen que envidiar a PS5 o Xbox Series X' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-1390886'>Qué hacer cuando el menú Inicio de Windows 11 no responde y se atasca</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-1390886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-3504760.jpg?tf=1200x' alt='Qué hacer cuando el menú Inicio de Windows 11 no responde y se atasca' />
+    <h4><a href='https://computerhoy.com/tecnologia/puedo-hacer-bizum-extranjero-fuera-espana-1392149'>¿Puedo hacer un Bizum al extranjero o desde fuera de España?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puedo-hacer-bizum-extranjero-fuera-espana-1392149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/puedo-hacer-bizum-extranjero-extranjero-3561655.jpg?tf=1200x' alt='¿Puedo hacer un Bizum al extranjero o desde fuera de España?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/chollo-semana-pixel-8a-acaba-llegar-ya-precio-locos-1392095'>El chollo de la semana es el Pixel 8a: acaba de llegar y ya está a precio de locos</a></h4>
-    <a href='https://computerhoy.com/android/chollo-semana-pixel-8a-acaba-llegar-ya-precio-locos-1392095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3312066.jpg?tf=1200x' alt='El chollo de la semana es el Pixel 8a: acaba de llegar y ya está a precio de locos' />
+    <h4><a href='https://computerhoy.com/tv/aliexpress-vuelve-hacer-vende-tv-4k-xiaomi-barata-movil-1392141'>AliExpress lo vuelve a hacer: vende una TV 4K de Xiaomi más barata que un móvil</a></h4>
+    <a href='https://computerhoy.com/tv/aliexpress-vuelve-hacer-vende-tv-4k-xiaomi-barata-movil-1392141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/ver-series-peliculas-como-merecen-televisor-xiaomi-tv-a2-50-pulgadas-resolucion-4k-dolby-vision-solo-449-euros-2842423.jpg?tf=1200x' alt='AliExpress lo vuelve a hacer: vende una TV 4K de Xiaomi más barata que un móvil' />
     </a>
 </div>
 
