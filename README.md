@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/alias-correo-electronico-como-crear-importante-seguridad-1392244'>Qué es un alias de correo electrónico, cómo crear uno y por qué es importante para tu seguridad</a></h4>
+    <a href='https://computerhoy.com/internet/alias-correo-electronico-como-crear-importante-seguridad-1392244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/alias-correo-electronico-como-crear-importante-seguridad-3565497.jpg?tf=1200x' alt='Qué es un alias de correo electrónico, cómo crear uno y por qué es importante para tu seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-aperitivos-palomitas-1392250'>El círculo se cierra: Netflix presenta su nueva línea de aperitivos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-aperitivos-palomitas-1392250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/circulo-cierra-netflix-presenta-nueva-linea-aperitivos-3565206.jpg?tf=1200x' alt='El círculo se cierra: Netflix presenta su nueva línea de aperitivos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889'>Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más</a></h4>
     <a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-dios-como-activarlo-android-auto-windows-11-alexa-3550784.jpg?tf=1200x' alt='Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sirve-pasaporte-digital-producto-cuando-sera-obligatorio-1392245'>Qué es y para qué sirve el pasaporte digital de producto y cuándo será obligatorio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sirve-pasaporte-digital-producto-cuando-sera-obligatorio-1392245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pasaporte-digital-producto-3565056.jpg?tf=1200x' alt='Qué es y para qué sirve el pasaporte digital de producto y cuándo será obligatorio' />
     </a>
 </div>
 
