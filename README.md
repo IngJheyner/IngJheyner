@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/justos-pecadores-coste-acabar-iptv-saldra-bolsillo-todos-contribuyentes-1392181'>Justos por pecadores: el coste de acabar con las IPTV saldrá del bolsillo de todos los contribuyentes</a></h4>
-    <a href='https://computerhoy.com/tv/justos-pecadores-coste-acabar-iptv-saldra-bolsillo-todos-contribuyentes-1392181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/justos-pecadores-coste-acabar-iptv-saldra-bolsillo-todos-contribuyentes-3562596.jpg?tf=1200x' alt='Justos por pecadores: el coste de acabar con las IPTV saldrá del bolsillo de todos los contribuyentes' />
+    <h4><a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246'>Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ropa-perchas-3565060.jpg?tf=1200x' alt='Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/libros-stephen-king-no-tienen-pelicula-necesitan-adaptacion-ya-1391877'>5 libros de Stephen King que no tienen película y necesitan una adaptación ya</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/libros-stephen-king-no-tienen-pelicula-necesitan-adaptacion-ya-1391877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/stephen-king-3298586.jpg?tf=1200x' alt='5 libros de Stephen King que no tienen película y necesitan una adaptación ya' />
+    <h4><a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889'>Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-dios-como-activarlo-android-auto-windows-11-alexa-3550784.jpg?tf=1200x' alt='Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-maxton-hall-ni-wilds-mejor-serie-adolescente-aun-puedes-ver-amazon-prime-video-1391883'>Ni Maxton Hall ni The Wilds, esta es la mejor serie adolescente que aún puedes ver en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-maxton-hall-ni-wilds-mejor-serie-adolescente-aun-puedes-ver-amazon-prime-video-1391883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cruel-summer-3555422.jpg?tf=1200x' alt='Ni Maxton Hall ni The Wilds, esta es la mejor serie adolescente que aún puedes ver en Amazon Prime Video' />
+    <h4><a href='https://computerhoy.com/tecnologia/sirve-pasaporte-digital-producto-cuando-sera-obligatorio-1392245'>Qué es y para qué sirve el pasaporte digital de producto y cuándo será obligatorio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sirve-pasaporte-digital-producto-cuando-sera-obligatorio-1392245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pasaporte-digital-producto-3565056.jpg?tf=1200x' alt='Qué es y para qué sirve el pasaporte digital de producto y cuándo será obligatorio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-1391689'>Las mejores películas de ciencia ficción españolas que no tienen nada que envidiar a Hollywood</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-1391689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-3542627.jpg?tf=1200x' alt='Las mejores películas de ciencia ficción españolas que no tienen nada que envidiar a Hollywood' />
+    <h4><a href='https://computerhoy.com/apple/mayor-debilidad-enfrenta-apple-ia-iphone-1392188'>Esta es la mayor debilidad a la que se enfrenta Apple con la IA de los iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/mayor-debilidad-enfrenta-apple-ia-iphone-1392188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mayor-debilidad-apple-ia-iphone-3562763.jpg?tf=1200x' alt='Esta es la mayor debilidad a la que se enfrenta Apple con la IA de los iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-cerrar-sesion-gmail-forma-remota-te-roban-movil-1392130'>Cómo cerrar una sesión de Gmail de forma remota si te roban el móvil</a></h4>
-    <a href='https://computerhoy.com/google/como-cerrar-sesion-gmail-forma-remota-te-roban-movil-1392130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/gmail-3564451.jpg?tf=1200x' alt='Cómo cerrar una sesión de Gmail de forma remota si te roban el móvil' />
+    <h4><a href='https://computerhoy.com/tv/configuraciones-rapidas-consigo-mejorar-rendimiento-mi-smart-tv-instante-1392240'>Configuraciones rápidas con las que consigo mejorar el rendimiento de mi Smart TV al instante</a></h4>
+    <a href='https://computerhoy.com/tv/configuraciones-rapidas-consigo-mejorar-rendimiento-mi-smart-tv-instante-1392240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/configuraciones-rapidas-consigo-mejorar-rendimiento-mi-smart-tv-instante-3564908.jpg?tf=1200x' alt='Configuraciones rápidas con las que consigo mejorar el rendimiento de mi Smart TV al instante' />
     </a>
 </div>
 
