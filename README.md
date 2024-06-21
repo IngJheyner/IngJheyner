@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-1391949'>¿Odias Windows 11 y quieres dar el salto a Windows 12? Piénsatelo dos veces, podría salirte muy caro</a></h4>
+    <a href='https://computerhoy.com/windows/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-1391949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-3554380.jpg?tf=1200x' alt='¿Odias Windows 11 y quieres dar el salto a Windows 12? Piénsatelo dos veces, podría salirte muy caro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/computacion-cuantica-podria-ser-facil-nunca-nueva-tecnica-1392111'>La computación cuántica podría ser más fácil que nunca con esta nueva técnica</a></h4>
+    <a href='https://computerhoy.com/ciencia/computacion-cuantica-podria-ser-facil-nunca-nueva-tecnica-1392111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-cuantico-3561798.jpg?tf=1200x' alt='La computación cuántica podría ser más fácil que nunca con esta nueva técnica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/antimalware-windows-como-funciona-como-saber-debes-desactivarlo-1390976'>Antimalware de Windows: qué es, cómo funciona y cómo saber si debes desactivarlo</a></h4>
+    <a href='https://computerhoy.com/windows/antimalware-windows-como-funciona-como-saber-debes-desactivarlo-1390976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/antimalware-windows-como-funciona-como-saber-debes-desactivarlo-3507221.jpg?tf=1200x' alt='Antimalware de Windows: qué es, cómo funciona y cómo saber si debes desactivarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-1390886'>Qué hacer cuando el menú Inicio de Windows 11 no responde y se atasca</a></h4>
     <a href='https://computerhoy.com/tutoriales/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-1390886' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-3504760.jpg?tf=1200x' alt='Qué hacer cuando el menú Inicio de Windows 11 no responde y se atasca' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/chollo-semana-pixel-8a-acaba-llegar-ya-precio-locos-1392095'>El chollo de la semana es el Pixel 8a: acaba de llegar y ya está a precio de locos</a></h4>
     <a href='https://computerhoy.com/android/chollo-semana-pixel-8a-acaba-llegar-ya-precio-locos-1392095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3312066.jpg?tf=1200x' alt='El chollo de la semana es el Pixel 8a: acaba de llegar y ya está a precio de locos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/etiquetas-digitales-precios-supermercados-malas-noticias-consumidores-1392113'>Llegan las etiquetas digitales de precios a los supermercados: malas noticias para los consumidores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/etiquetas-digitales-precios-supermercados-malas-noticias-consumidores-1392113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/llegan-etiquetas-precios-digitales-supermercados-no-son-buenas-noticias-consumidores-3560735.jpg?tf=1200x' alt='Llegan las etiquetas digitales de precios a los supermercados: malas noticias para los consumidores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/adios-youtube-premium-barato-comienzan-bloquear-cuentas-compradas-turquia-argentina-filipinas-1391937'>Adiós al YouTube Premium barato: comienzan a bloquear cuentas compradas en Turquía, Argentina o Filipinas</a></h4>
-    <a href='https://computerhoy.com/apps/adios-youtube-premium-barato-comienzan-bloquear-cuentas-compradas-turquia-argentina-filipinas-1391937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bloqueo-youtube-3554233.jpg?tf=1200x' alt='Adiós al YouTube Premium barato: comienzan a bloquear cuentas compradas en Turquía, Argentina o Filipinas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-confiesa-lleva-anos-contratando-gente-simplemente-luego-despedirla-1390486'>Amazon confiesa que lleva años contratando a gente simplemente para luego despedirla</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-confiesa-lleva-anos-contratando-gente-simplemente-luego-despedirla-1390486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/despidos-amazon-3492605.jpg?tf=1200x' alt='Amazon confiesa que lleva años contratando a gente simplemente para luego despedirla' />
     </a>
 </div>
 
