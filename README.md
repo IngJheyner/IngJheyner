@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/piensatelo-dos-veces-antes-llevarte-toalla-albornoz-hotel-estas-vacaciones-1391867'>Piénsatelo dos veces antes de llevarte la toalla o el albornoz del hotel estas vacaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/piensatelo-dos-veces-antes-llevarte-toalla-albornoz-hotel-estas-vacaciones-1391867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hombre-tumbado-albornoz-3549553.jpg?tf=1200x' alt='Piénsatelo dos veces antes de llevarte la toalla o el albornoz del hotel estas vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/embracer-va-crear-videojuegos-usando-ia-1392254'>Tras despedir a 1.500 empleados y cancelar 80 juegos, Embracer va a crear videojuegos usando IA </a></h4>
     <a href='https://computerhoy.com/gaming/embracer-va-crear-videojuegos-usando-ia-1392254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tomb-raider-3278751.jpg?tf=1200x' alt='Tras despedir a 1.500 empleados y cancelar 80 juegos, Embracer va a crear videojuegos usando IA ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nvidia-compania-mas-valiosa-mundo-1391911'>Tras superar a Apple, NVIDIA deja atrás a Microsoft, y ya es la compañía más valiosa del mundo</a></h4>
     <a href='https://computerhoy.com/tecnologia/nvidia-compania-mas-valiosa-mundo-1391911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-3045852.jpg?tf=1200x' alt='Tras superar a Apple, NVIDIA deja atrás a Microsoft, y ya es la compañía más valiosa del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246'>Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ropa-perchas-3565060.jpg?tf=1200x' alt='Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla' />
     </a>
 </div>
 
