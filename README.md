@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-inmortales-recordar-donald-sutherland-alla-juegos-hambre-1392199'>5 películas inmortales para recordar a Donald Sutherland, más allá de Los juegos del hambre </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-inmortales-recordar-donald-sutherland-alla-juegos-hambre-1392199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-peliculas-inmortales-recordar-donald-sutherland-3563064.jpg?tf=1200x' alt='5 películas inmortales para recordar a Donald Sutherland, más allá de Los juegos del hambre ' />
+    <h4><a href='https://computerhoy.com/tecnologia/detectan-vulnerabilidad-afecta-cientos-modelos-cpu-intel-1392128'>Detectan vulnerabilidad que afecta a cientos de modelos de CPU Intel</a></h4>
+    <a href='https://computerhoy.com/tecnologia/detectan-vulnerabilidad-afecta-cientos-modelos-cpu-intel-1392128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-3563129.jpg?tf=1200x' alt='Detectan vulnerabilidad que afecta a cientos de modelos de CPU Intel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-llevara-movil-android-menu-inicio-1392287'>Windows 11 llevará tu móvil Android al menú de inicio</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-llevara-movil-android-menu-inicio-1392287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/phone-link-3429031.jpg?tf=1200x' alt='Windows 11 llevará tu móvil Android al menú de inicio' />
+    <h4><a href='https://computerhoy.com/moviles/truco-cinco-veces-movil-podria-salvarte-vida-casi-nadie-conoce-1392037'>El truco de las cinco veces con tu móvil que podría salvarte la vida y que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/moviles/truco-cinco-veces-movil-podria-salvarte-vida-casi-nadie-conoce-1392037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/persona-movil-3556964.jpg?tf=1200x' alt='El truco de las cinco veces con tu móvil que podría salvarte la vida y que casi nadie conoce' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/diferencias-cpu-gpu-igpu-apu-1391242'>Diferencias entre CPU, GPU, iGPU y APU</a></h4>
-    <a href='https://computerhoy.com/pc/diferencias-cpu-gpu-igpu-apu-1391242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/diferencias-cpu-gpu-igpu-apu-3518015.jpg?tf=1200x' alt='Diferencias entre CPU, GPU, iGPU y APU' />
+    <h4><a href='https://computerhoy.com/android/productos-top-xiaomi-pone-android-tv-precio-minimo-aliexpress-1392273'>Es uno de los productos top de Xiaomi, pone Android en tu TV y está a precio mínimo en AliExpress</a></h4>
+    <a href='https://computerhoy.com/android/productos-top-xiaomi-pone-android-tv-precio-minimo-aliexpress-1392273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-box-s-2nd-gen-3280982.jpg?tf=1200x' alt='Es uno de los productos top de Xiaomi, pone Android en tu TV y está a precio mínimo en AliExpress' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-agregar-nuevas-fuentes-windows-11-1391915'>Cómo instalar y agregar nuevas fuentes en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-agregar-nuevas-fuentes-windows-11-1391915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-instalar-agregar-nuevas-fuentes-windows-11-3552430.jpg?tf=1200x' alt='Cómo instalar y agregar nuevas fuentes en Windows 11' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-aplicaciones-movil-android-1383119'>Cómo poner contraseña a las aplicaciones en un móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-aplicaciones-movil-android-1383119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/contrasena-password-3235270.jpg?tf=1200x' alt='Cómo poner contraseña a las aplicaciones en un móvil Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-llamar-vodafone-gratis-cualquier-operador-1391128'>¿Cómo llamar a Vodafone gratis desde cualquier operador?</a></h4>
-    <a href='https://computerhoy.com/moviles/como-llamar-vodafone-gratis-cualquier-operador-1391128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-llamar-vodafone-gratis-cualquier-operador-3513228.jpg?tf=1200x' alt='¿Cómo llamar a Vodafone gratis desde cualquier operador?' />
+    <h4><a href='https://computerhoy.com/life/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-1392029'>Ni prueba de la cerveza ni preguntas trampa, esta es la nueva táctica en las entrevistas de trabajo: invitarte a una fiesta</a></h4>
+    <a href='https://computerhoy.com/life/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-1392029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-3556794.jpg?tf=1200x' alt='Ni prueba de la cerveza ni preguntas trampa, esta es la nueva táctica en las entrevistas de trabajo: invitarte a una fiesta' />
     </a>
 </div>
 
