@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-1391949'>¿Odias Windows 11 y quieres dar el salto a Windows 12? Piénsatelo dos veces, podría salirte muy caro</a></h4>
+    <a href='https://computerhoy.com/windows/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-1391949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-3554380.jpg?tf=1200x' alt='¿Odias Windows 11 y quieres dar el salto a Windows 12? Piénsatelo dos veces, podría salirte muy caro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-1391356'>ChatGPT no lo sabe todo: estos son los temas que nunca debes dejar en manos de la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-1391356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-3532913.jpg?tf=1200x' alt='ChatGPT no lo sabe todo: estos son los temas que nunca debes dejar en manos de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/computacion-cuantica-podria-ser-facil-nunca-nueva-tecnica-1392111'>La computación cuántica podría ser más fácil que nunca con esta nueva técnica</a></h4>
+    <a href='https://computerhoy.com/ciencia/computacion-cuantica-podria-ser-facil-nunca-nueva-tecnica-1392111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-cuantico-3561798.jpg?tf=1200x' alt='La computación cuántica podría ser más fácil que nunca con esta nueva técnica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/estos-cascos-samsung-android-son-top-anc-ahora-menos-100-euros-1392184'>Estos cascos Samsung para Android son de lo más top, con ANC y ahora por menos de 100 euros</a></h4>
     <a href='https://computerhoy.com/android/estos-cascos-samsung-android-son-top-anc-ahora-menos-100-euros-1392184' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-galaxy-buds-2-pro-analisis-opinion-2900930.jpg?tf=1200x' alt='Estos cascos Samsung para Android son de lo más top, con ANC y ahora por menos de 100 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-operadora-limitando-datos-moviles-como-solucionarlo-1392078'>Cómo saber si tu operadora está limitando tus datos móviles y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-operadora-limitando-datos-moviles-como-solucionarlo-1392078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-saber-operadora-limitando-datos-moviles-como-solucionarlo-3559268.jpg?tf=1200x' alt='Cómo saber si tu operadora está limitando tus datos móviles y cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tres-reglas-google-robots-sean-seguros-1391372'>Las tres reglas de Google para que los robots sean seguros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tres-reglas-google-robots-sean-seguros-1391372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tres-reglas-google-robots-sean-seguros-3533148.jpg?tf=1200x' alt='Las tres reglas de Google para que los robots sean seguros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-1335978'>Tristeza vital: cuando estar de bajón puede poner en riesgo tu salud</a></h4>
-    <a href='https://computerhoy.com/life/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-1335978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-3223314.jpg?tf=1200x' alt='Tristeza vital: cuando estar de bajón puede poner en riesgo tu salud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-1391537'>Si tu PC no es compatible con Windows 11, prueba estos cinco fantásticos sistemas operativos Linux</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-1391537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-3538210.jpg?tf=1200x' alt='Si tu PC no es compatible con Windows 11, prueba estos cinco fantásticos sistemas operativos Linux' />
     </a>
 </div>
 
