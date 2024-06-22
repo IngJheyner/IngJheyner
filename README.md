@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-usa-ia-descubrir-gato-siente-dolor-1392085'>Esta app usa una IA para descubrir si tu gato siente dolor, y su causa</a></h4>
-    <a href='https://computerhoy.com/apps/app-usa-ia-descubrir-gato-siente-dolor-1392085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-usa-ia-descubrir-gato-siente-dolor-causa-3559283.jpg?tf=1200x' alt='Esta app usa una IA para descubrir si tu gato siente dolor, y su causa' />
+    <h4><a href='https://computerhoy.com/apps/chivatos-carretera-dgt-guardia-civil-vs-whatsapp-telegram-ocurriendo-1391630'>¿Chivatos en la carretera? DGT y Guardia Civil vs. WhatsApp y Telegram: esto es lo que está ocurriendo</a></h4>
+    <a href='https://computerhoy.com/apps/chivatos-carretera-dgt-guardia-civil-vs-whatsapp-telegram-ocurriendo-1391630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/guardia-civil-apps-3541433.jpg?tf=1200x' alt='¿Chivatos en la carretera? DGT y Guardia Civil vs. WhatsApp y Telegram: esto es lo que está ocurriendo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-1391835'>La IA sí está provocando despidos, y no es tan bonito como lo pinta Bill Gates</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-1391835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-3548654.jpg?tf=1200x' alt='La IA sí está provocando despidos, y no es tan bonito como lo pinta Bill Gates' />
+    <h4><a href='https://computerhoy.com/android/movil-oneplus-potente-barato-carga-100w-rebaja-aliexpress-1347730'>OnePlus revienta el precio de uno de sus móviles más brutales: carga a 100W y Snapdragon 8 Gen 2 a precio de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/android/movil-oneplus-potente-barato-carga-100w-rebaja-aliexpress-1347730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/oneplus-ace-3-3547303.jpg?tf=1200x' alt='OnePlus revienta el precio de uno de sus móviles más brutales: carga a 100W y Snapdragon 8 Gen 2 a precio de Xiaomi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-1391653'>¿No puedes dormir en verano? El truco viral de TikTok para hacerlo en un minuto</a></h4>
-    <a href='https://computerhoy.com/life/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-1391653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-3541886.jpg?tf=1200x' alt='¿No puedes dormir en verano? El truco viral de TikTok para hacerlo en un minuto' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-1392198'>Este fallo en el firmware está afectando a millones de ordenadores con tecnología Intel de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-1392198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-3563129.jpg?tf=1200x' alt='Este fallo en el firmware está afectando a millones de ordenadores con tecnología Intel de todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-1391164'>¿Es la IA una amenaza? Este multimillonario lo tiene claro: "No hay de qué preocuparse"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-1391164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-3513955.jpg?tf=1200x' alt='¿Es la IA una amenaza? Este multimillonario lo tiene claro: "No hay de qué preocuparse"' />
+    <h4><a href='https://computerhoy.com/tecnologia/me-he-convertido-guru-musical-5-trucos-utilizo-exprimir-maximo-algoritmo-spotify-1388948'>Así me he convertido en un gurú musical: 5 trucos que utilizo para exprimir al máximo el algoritmo de Spotify</a></h4>
+    <a href='https://computerhoy.com/tecnologia/me-he-convertido-guru-musical-5-trucos-utilizo-exprimir-maximo-algoritmo-spotify-1388948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carlos-auriculares-3417321.jpg?tf=1200x' alt='Así me he convertido en un gurú musical: 5 trucos que utilizo para exprimir al máximo el algoritmo de Spotify' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/aliexpress-oferta-apple-watch-series-9-rebajas-verano-1391349'>AliExpress da la campanada con Apple: el Watch Series 9 cuesta menos de la mitad ¡y con envío desde España!</a></h4>
-    <a href='https://computerhoy.com/apple/aliexpress-oferta-apple-watch-series-9-rebajas-verano-1391349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187116.jpg?tf=1200x' alt='AliExpress da la campanada con Apple: el Watch Series 9 cuesta menos de la mitad ¡y con envío desde España!' />
+    <h4><a href='https://computerhoy.com/moviles/verano-movil-va-sudar-estos-son-trucos-no-sobrecaliente-1391976'>Este verano tu móvil va a sudar, estos son mis trucos para que no se sobrecaliente</a></h4>
+    <a href='https://computerhoy.com/moviles/verano-movil-va-sudar-estos-son-trucos-no-sobrecaliente-1391976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-piscina-3554983.jpg?tf=1200x' alt='Este verano tu móvil va a sudar, estos son mis trucos para que no se sobrecaliente' />
     </a>
 </div>
 
