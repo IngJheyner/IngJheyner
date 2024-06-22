@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/estos-cascos-samsung-android-son-top-anc-ahora-menos-100-euros-1392184'>Estos cascos Samsung para Android son de lo más top, con ANC y ahora por menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/android/estos-cascos-samsung-android-son-top-anc-ahora-menos-100-euros-1392184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-galaxy-buds-2-pro-analisis-opinion-2900930.jpg?tf=1200x' alt='Estos cascos Samsung para Android son de lo más top, con ANC y ahora por menos de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-operadora-limitando-datos-moviles-como-solucionarlo-1392078'>Cómo saber si tu operadora está limitando tus datos móviles y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-operadora-limitando-datos-moviles-como-solucionarlo-1392078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-saber-operadora-limitando-datos-moviles-como-solucionarlo-3559268.jpg?tf=1200x' alt='Cómo saber si tu operadora está limitando tus datos móviles y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tres-reglas-google-robots-sean-seguros-1391372'>Las tres reglas de Google para que los robots sean seguros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tres-reglas-google-robots-sean-seguros-1391372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tres-reglas-google-robots-sean-seguros-3533148.jpg?tf=1200x' alt='Las tres reglas de Google para que los robots sean seguros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-1335978'>Tristeza vital: cuando estar de bajón puede poner en riesgo tu salud</a></h4>
     <a href='https://computerhoy.com/life/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-1335978' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-3223314.jpg?tf=1200x' alt='Tristeza vital: cuando estar de bajón puede poner en riesgo tu salud' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-1391537'>Si tu PC no es compatible con Windows 11, prueba estos cinco fantásticos sistemas operativos Linux</a></h4>
     <a href='https://computerhoy.com/tecnologia/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-1391537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-3538210.jpg?tf=1200x' alt='Si tu PC no es compatible con Windows 11, prueba estos cinco fantásticos sistemas operativos Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-memoria-cache-telegram-deberias-hacerlo-1243710'>Cómo borrar la memoria caché de Telegram y por qué deberías hacerlo ya</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-borrar-memoria-cache-telegram-deberias-hacerlo-1243710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/telegram.jpg?tf=1200x' alt='Cómo borrar la memoria caché de Telegram y por qué deberías hacerlo ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/descubre-tres-nuevas-funciones-whatsapp-disponibles-todos-dispositivos-1391348'>Descubre las tres nuevas funciones de WhatsApp disponibles en todos los dispositivos</a></h4>
-    <a href='https://computerhoy.com/apps/descubre-tres-nuevas-funciones-whatsapp-disponibles-todos-dispositivos-1391348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-3297899.jpg?tf=1200x' alt='Descubre las tres nuevas funciones de WhatsApp disponibles en todos los dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/todas-novedades-actualizacion-windows-11-24h2-microsoft-no-lanzara-windows-12-1391918'>Todas las novedades de la actualización de Windows 11 24H2 y por qué Microsoft no lanzará Windows 12</a></h4>
-    <a href='https://computerhoy.com/windows/todas-novedades-actualizacion-windows-11-24h2-microsoft-no-lanzara-windows-12-1391918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/todas-novedades-actualizacion-windows-11-24h2-microsoft-no-lanzara-windows-12-3553117.jpg?tf=1200x' alt='Todas las novedades de la actualización de Windows 11 24H2 y por qué Microsoft no lanzará Windows 12' />
     </a>
 </div>
 
