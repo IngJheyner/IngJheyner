@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/piensatelo-dos-veces-antes-llevarte-toalla-albornoz-hotel-estas-vacaciones-1391867'>Piénsatelo dos veces antes de llevarte la toalla o el albornoz del hotel estas vacaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/piensatelo-dos-veces-antes-llevarte-toalla-albornoz-hotel-estas-vacaciones-1391867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hombre-tumbado-albornoz-3549553.jpg?tf=1200x' alt='Piénsatelo dos veces antes de llevarte la toalla o el albornoz del hotel estas vacaciones' />
+    <h4><a href='https://computerhoy.com/apps/app-usa-ia-descubrir-gato-siente-dolor-1392085'>Esta app usa una IA para descubrir si tu gato siente dolor, y su causa</a></h4>
+    <a href='https://computerhoy.com/apps/app-usa-ia-descubrir-gato-siente-dolor-1392085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-usa-ia-descubrir-gato-siente-dolor-causa-3559283.jpg?tf=1200x' alt='Esta app usa una IA para descubrir si tu gato siente dolor, y su causa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/embracer-va-crear-videojuegos-usando-ia-1392254'>Tras despedir a 1.500 empleados y cancelar 80 juegos, Embracer va a crear videojuegos usando IA </a></h4>
-    <a href='https://computerhoy.com/gaming/embracer-va-crear-videojuegos-usando-ia-1392254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tomb-raider-3278751.jpg?tf=1200x' alt='Tras despedir a 1.500 empleados y cancelar 80 juegos, Embracer va a crear videojuegos usando IA ' />
+    <h4><a href='https://computerhoy.com/tecnologia/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-1391835'>La IA sí está provocando despidos, y no es tan bonito como lo pinta Bill Gates</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-1391835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-3548654.jpg?tf=1200x' alt='La IA sí está provocando despidos, y no es tan bonito como lo pinta Bill Gates' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/alias-correo-electronico-como-crear-importante-seguridad-1392244'>Qué es un alias de correo electrónico, cómo crear uno y por qué es importante para tu seguridad</a></h4>
-    <a href='https://computerhoy.com/internet/alias-correo-electronico-como-crear-importante-seguridad-1392244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/alias-correo-electronico-como-crear-importante-seguridad-3565497.jpg?tf=1200x' alt='Qué es un alias de correo electrónico, cómo crear uno y por qué es importante para tu seguridad' />
+    <h4><a href='https://computerhoy.com/life/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-1391653'>¿No puedes dormir en verano? El truco viral de TikTok para hacerlo en un minuto</a></h4>
+    <a href='https://computerhoy.com/life/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-1391653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-3541886.jpg?tf=1200x' alt='¿No puedes dormir en verano? El truco viral de TikTok para hacerlo en un minuto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-aperitivos-palomitas-1392250'>El círculo se cierra: Netflix presenta su nueva línea de aperitivos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-aperitivos-palomitas-1392250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/circulo-cierra-netflix-presenta-nueva-linea-aperitivos-3565206.jpg?tf=1200x' alt='El círculo se cierra: Netflix presenta su nueva línea de aperitivos' />
+    <h4><a href='https://computerhoy.com/tecnologia/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-1391164'>¿Es la IA una amenaza? Este multimillonario lo tiene claro: "No hay de qué preocuparse"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-1391164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-3513955.jpg?tf=1200x' alt='¿Es la IA una amenaza? Este multimillonario lo tiene claro: "No hay de qué preocuparse"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-compania-mas-valiosa-mundo-1391911'>Tras superar a Apple, NVIDIA deja atrás a Microsoft, y ya es la compañía más valiosa del mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-compania-mas-valiosa-mundo-1391911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-3045852.jpg?tf=1200x' alt='Tras superar a Apple, NVIDIA deja atrás a Microsoft, y ya es la compañía más valiosa del mundo' />
+    <h4><a href='https://computerhoy.com/apple/aliexpress-oferta-apple-watch-series-9-rebajas-verano-1391349'>AliExpress da la campanada con Apple: el Watch Series 9 cuesta menos de la mitad ¡y con envío desde España!</a></h4>
+    <a href='https://computerhoy.com/apple/aliexpress-oferta-apple-watch-series-9-rebajas-verano-1391349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187116.jpg?tf=1200x' alt='AliExpress da la campanada con Apple: el Watch Series 9 cuesta menos de la mitad ¡y con envío desde España!' />
     </a>
 </div>
 
