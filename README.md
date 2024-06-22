@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-1391949'>¿Odias Windows 11 y quieres dar el salto a Windows 12? Piénsatelo dos veces, podría salirte muy caro</a></h4>
-    <a href='https://computerhoy.com/windows/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-1391949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-3554380.jpg?tf=1200x' alt='¿Odias Windows 11 y quieres dar el salto a Windows 12? Piénsatelo dos veces, podría salirte muy caro' />
+    <h4><a href='https://computerhoy.com/apple/steve-jobs-odiaria-todas-fuerzas-muchas-cosas-actual-apple-1391953'>Steve Jobs odiaría con todas sus fuerzas muchas cosas de la actual Apple</a></h4>
+    <a href='https://computerhoy.com/apple/steve-jobs-odiaria-todas-fuerzas-muchas-cosas-actual-apple-1391953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cual-fecha-lanzamiento-ios-18-3506219.jpg?tf=1200x' alt='Steve Jobs odiaría con todas sus fuerzas muchas cosas de la actual Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-1391356'>ChatGPT no lo sabe todo: estos son los temas que nunca debes dejar en manos de la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-1391356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-3532913.jpg?tf=1200x' alt='ChatGPT no lo sabe todo: estos son los temas que nunca debes dejar en manos de la IA' />
+    <h4><a href='https://computerhoy.com/tecnologia/robots-humanoides-expresiones-faciales-realistas-parecen-personas-1391392'>Los robots humanoides con las expresiones faciales más realistas que parecen personas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robots-humanoides-expresiones-faciales-realistas-parecen-personas-1391392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robots-humanoides-3533474.jpg?tf=1200x' alt='Los robots humanoides con las expresiones faciales más realistas que parecen personas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/computacion-cuantica-podria-ser-facil-nunca-nueva-tecnica-1392111'>La computación cuántica podría ser más fácil que nunca con esta nueva técnica</a></h4>
-    <a href='https://computerhoy.com/ciencia/computacion-cuantica-podria-ser-facil-nunca-nueva-tecnica-1392111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-cuantico-3561798.jpg?tf=1200x' alt='La computación cuántica podría ser más fácil que nunca con esta nueva técnica' />
+    <h4><a href='https://computerhoy.com/apps/app-ha-sido-creada-objetivo-destruir-todos-iphone-1391393'>La app que ha sido creada con el objetivo de destruir todos los iPhone</a></h4>
+    <a href='https://computerhoy.com/apps/app-ha-sido-creada-objetivo-destruir-todos-iphone-1391393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-ha-sido-creada-objetivo-destruir-todos-iphone-3533473.jpg?tf=1200x' alt='La app que ha sido creada con el objetivo de destruir todos los iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/estos-cascos-samsung-android-son-top-anc-ahora-menos-100-euros-1392184'>Estos cascos Samsung para Android son de lo más top, con ANC y ahora por menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/android/estos-cascos-samsung-android-son-top-anc-ahora-menos-100-euros-1392184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/samsung-galaxy-buds-2-pro-analisis-opinion-2900930.jpg?tf=1200x' alt='Estos cascos Samsung para Android son de lo más top, con ANC y ahora por menos de 100 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/alexa-renueva-amazon-planea-cobrar-tarifa-mensual-asistente-digital-mejorado-1392269'>Alexa se renueva: Amazon planea cobrar una tarifa mensual por su asistente digital mejorado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alexa-renueva-amazon-planea-cobrar-tarifa-mensual-asistente-digital-mejorado-1392269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/alexa-3569222.jpg?tf=1200x' alt='Alexa se renueva: Amazon planea cobrar una tarifa mensual por su asistente digital mejorado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-operadora-limitando-datos-moviles-como-solucionarlo-1392078'>Cómo saber si tu operadora está limitando tus datos móviles y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-operadora-limitando-datos-moviles-como-solucionarlo-1392078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-saber-operadora-limitando-datos-moviles-como-solucionarlo-3559268.jpg?tf=1200x' alt='Cómo saber si tu operadora está limitando tus datos móviles y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuando-elegir-arduino-lugar-raspberry-pi-proyectos-electronicos-1392084'>Cuándo elegir Arduino en lugar de Raspberry Pi para tus proyectos electrónicos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuando-elegir-arduino-lugar-raspberry-pi-proyectos-electronicos-1392084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cuando-elegir-arduino-lugar-raspberry-pi-proyectos-electronicos-3559874.jpg?tf=1200x' alt='Cuándo elegir Arduino en lugar de Raspberry Pi para tus proyectos electrónicos' />
     </a>
 </div>
 
