@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/chivatos-carretera-dgt-guardia-civil-vs-whatsapp-telegram-ocurriendo-1391630'>¿Chivatos en la carretera? DGT y Guardia Civil vs. WhatsApp y Telegram: esto es lo que está ocurriendo</a></h4>
-    <a href='https://computerhoy.com/apps/chivatos-carretera-dgt-guardia-civil-vs-whatsapp-telegram-ocurriendo-1391630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/guardia-civil-apps-3541433.jpg?tf=1200x' alt='¿Chivatos en la carretera? DGT y Guardia Civil vs. WhatsApp y Telegram: esto es lo que está ocurriendo' />
+    <h4><a href='https://computerhoy.com/tecnologia/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-1391537'>Si tu PC no es compatible con Windows 11, prueba estos cinco fantásticos sistemas operativos Linux</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-1391537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-3538210.jpg?tf=1200x' alt='Si tu PC no es compatible con Windows 11, prueba estos cinco fantásticos sistemas operativos Linux' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/movil-oneplus-potente-barato-carga-100w-rebaja-aliexpress-1347730'>OnePlus revienta el precio de uno de sus móviles más brutales: carga a 100W y Snapdragon 8 Gen 2 a precio de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/android/movil-oneplus-potente-barato-carga-100w-rebaja-aliexpress-1347730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/oneplus-ace-3-3547303.jpg?tf=1200x' alt='OnePlus revienta el precio de uno de sus móviles más brutales: carga a 100W y Snapdragon 8 Gen 2 a precio de Xiaomi' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-memoria-cache-telegram-deberias-hacerlo-1243710'>Cómo borrar la memoria caché de Telegram y por qué deberías hacerlo ya</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-borrar-memoria-cache-telegram-deberias-hacerlo-1243710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/telegram.jpg?tf=1200x' alt='Cómo borrar la memoria caché de Telegram y por qué deberías hacerlo ya' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-1392198'>Este fallo en el firmware está afectando a millones de ordenadores con tecnología Intel de todo el mundo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-1392198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-3563129.jpg?tf=1200x' alt='Este fallo en el firmware está afectando a millones de ordenadores con tecnología Intel de todo el mundo' />
+    <h4><a href='https://computerhoy.com/apps/descubre-tres-nuevas-funciones-whatsapp-disponibles-todos-dispositivos-1391348'>Descubre las tres nuevas funciones de WhatsApp disponibles en todos los dispositivos</a></h4>
+    <a href='https://computerhoy.com/apps/descubre-tres-nuevas-funciones-whatsapp-disponibles-todos-dispositivos-1391348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-3297899.jpg?tf=1200x' alt='Descubre las tres nuevas funciones de WhatsApp disponibles en todos los dispositivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/me-he-convertido-guru-musical-5-trucos-utilizo-exprimir-maximo-algoritmo-spotify-1388948'>Así me he convertido en un gurú musical: 5 trucos que utilizo para exprimir al máximo el algoritmo de Spotify</a></h4>
-    <a href='https://computerhoy.com/tecnologia/me-he-convertido-guru-musical-5-trucos-utilizo-exprimir-maximo-algoritmo-spotify-1388948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carlos-auriculares-3417321.jpg?tf=1200x' alt='Así me he convertido en un gurú musical: 5 trucos que utilizo para exprimir al máximo el algoritmo de Spotify' />
+    <h4><a href='https://computerhoy.com/windows/todas-novedades-actualizacion-windows-11-24h2-microsoft-no-lanzara-windows-12-1391918'>Todas las novedades de la actualización de Windows 11 24H2 y por qué Microsoft no lanzará Windows 12</a></h4>
+    <a href='https://computerhoy.com/windows/todas-novedades-actualizacion-windows-11-24h2-microsoft-no-lanzara-windows-12-1391918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/todas-novedades-actualizacion-windows-11-24h2-microsoft-no-lanzara-windows-12-3553117.jpg?tf=1200x' alt='Todas las novedades de la actualización de Windows 11 24H2 y por qué Microsoft no lanzará Windows 12' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/verano-movil-va-sudar-estos-son-trucos-no-sobrecaliente-1391976'>Este verano tu móvil va a sudar, estos son mis trucos para que no se sobrecaliente</a></h4>
-    <a href='https://computerhoy.com/moviles/verano-movil-va-sudar-estos-son-trucos-no-sobrecaliente-1391976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-piscina-3554983.jpg?tf=1200x' alt='Este verano tu móvil va a sudar, estos son mis trucos para que no se sobrecaliente' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/advertencia-google-chrome-jamas-copies-pegues-texto-1391832'>Advertencia de Google Chrome: jamás copies y pegues este texto </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/advertencia-google-chrome-jamas-copies-pegues-texto-1391832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Advertencia de Google Chrome: jamás copies y pegues este texto ' />
     </a>
 </div>
 
