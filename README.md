@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/embracer-va-crear-videojuegos-usando-ia-1392254'>Tras despedir a 1.500 empleados y cancelar 80 juegos, Embracer va a crear videojuegos usando IA </a></h4>
+    <a href='https://computerhoy.com/gaming/embracer-va-crear-videojuegos-usando-ia-1392254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tomb-raider-3278751.jpg?tf=1200x' alt='Tras despedir a 1.500 empleados y cancelar 80 juegos, Embracer va a crear videojuegos usando IA ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/alias-correo-electronico-como-crear-importante-seguridad-1392244'>Qué es un alias de correo electrónico, cómo crear uno y por qué es importante para tu seguridad</a></h4>
     <a href='https://computerhoy.com/internet/alias-correo-electronico-como-crear-importante-seguridad-1392244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/alias-correo-electronico-como-crear-importante-seguridad-3565497.jpg?tf=1200x' alt='Qué es un alias de correo electrónico, cómo crear uno y por qué es importante para tu seguridad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246'>Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla</a></h4>
     <a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ropa-perchas-3565060.jpg?tf=1200x' alt='Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889'>Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-dios-como-activarlo-android-auto-windows-11-alexa-3550784.jpg?tf=1200x' alt='Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más' />
     </a>
 </div>
 
