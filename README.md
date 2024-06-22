@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/detectan-vulnerabilidad-afecta-cientos-modelos-cpu-intel-1392128'>Detectan vulnerabilidad que afecta a cientos de modelos de CPU Intel</a></h4>
-    <a href='https://computerhoy.com/tecnologia/detectan-vulnerabilidad-afecta-cientos-modelos-cpu-intel-1392128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-3563129.jpg?tf=1200x' alt='Detectan vulnerabilidad que afecta a cientos de modelos de CPU Intel' />
+    <h4><a href='https://computerhoy.com/espacio/retrasan-regreso-astronautas-boeing-starliner-miedo-queden-varados-espacio-1392056'>Retrasan el regreso de los astronautas de la Boeing Starliner por miedo a que se queden varados en el espacio</a></h4>
+    <a href='https://computerhoy.com/espacio/retrasan-regreso-astronautas-boeing-starliner-miedo-queden-varados-espacio-1392056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/starliner-3557282.jpg?tf=1200x' alt='Retrasan el regreso de los astronautas de la Boeing Starliner por miedo a que se queden varados en el espacio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/truco-cinco-veces-movil-podria-salvarte-vida-casi-nadie-conoce-1392037'>El truco de las cinco veces con tu móvil que podría salvarte la vida y que casi nadie conoce</a></h4>
-    <a href='https://computerhoy.com/moviles/truco-cinco-veces-movil-podria-salvarte-vida-casi-nadie-conoce-1392037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/persona-movil-3556964.jpg?tf=1200x' alt='El truco de las cinco veces con tu móvil que podría salvarte la vida y que casi nadie conoce' />
+    <h4><a href='https://computerhoy.com/internet/razon-siempre-deberias-activar-modo-incognito-navegador-1392046'>La razón por la que siempre deberías activar el modo incógnito en tu navegador</a></h4>
+    <a href='https://computerhoy.com/internet/razon-siempre-deberias-activar-modo-incognito-navegador-1392046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/razon-siempre-deberias-activar-modo-incognito-navegador-3557279.jpg?tf=1200x' alt='La razón por la que siempre deberías activar el modo incógnito en tu navegador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/productos-top-xiaomi-pone-android-tv-precio-minimo-aliexpress-1392273'>Es uno de los productos top de Xiaomi, pone Android en tu TV y está a precio mínimo en AliExpress</a></h4>
-    <a href='https://computerhoy.com/android/productos-top-xiaomi-pone-android-tv-precio-minimo-aliexpress-1392273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-box-s-2nd-gen-3280982.jpg?tf=1200x' alt='Es uno de los productos top de Xiaomi, pone Android en tu TV y está a precio mínimo en AliExpress' />
+    <h4><a href='https://computerhoy.com/tecnologia/modo-lectura-google-chrome-pronto-ofrecera-compatibilidad-imagenes-1392298'>El modo lectura de Google Chrome pronto ofrecerá compatibilidad con imágenes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/modo-lectura-google-chrome-pronto-ofrecera-compatibilidad-imagenes-1392298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-lectura-google-chrome-3571313.jpg?tf=1200x' alt='El modo lectura de Google Chrome pronto ofrecerá compatibilidad con imágenes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-aplicaciones-movil-android-1383119'>Cómo poner contraseña a las aplicaciones en un móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-aplicaciones-movil-android-1383119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/contrasena-password-3235270.jpg?tf=1200x' alt='Cómo poner contraseña a las aplicaciones en un móvil Android' />
+    <h4><a href='https://computerhoy.com/tecnologia/dstike-deauther-watch-x-apple-watch-hackers-flipper-zero-muneca-1392228'>DSTIKE Deauther Watch X: el Apple Watch de los hackers, un Flipper Zero en tu muñeca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dstike-deauther-watch-x-apple-watch-hackers-flipper-zero-muneca-1392228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dstike-deauther-watch-x-apple-watch-hackers-flipper-zero-muneca-3564296.jpg?tf=1200x' alt='DSTIKE Deauther Watch X: el Apple Watch de los hackers, un Flipper Zero en tu muñeca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-1392029'>Ni prueba de la cerveza ni preguntas trampa, esta es la nueva táctica en las entrevistas de trabajo: invitarte a una fiesta</a></h4>
-    <a href='https://computerhoy.com/life/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-1392029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-3556794.jpg?tf=1200x' alt='Ni prueba de la cerveza ni preguntas trampa, esta es la nueva táctica en las entrevistas de trabajo: invitarte a una fiesta' />
+    <h4><a href='https://computerhoy.com/ciencia/superordenador-frontier-establece-nuevo-estandar-simulacion-molecular-1392129'>El superordenador Frontier establece un nuevo estándar en simulación molecular</a></h4>
+    <a href='https://computerhoy.com/ciencia/superordenador-frontier-establece-nuevo-estandar-simulacion-molecular-1392129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/superordenador-frontier-2716253.jpg?tf=1200x' alt='El superordenador Frontier establece un nuevo estándar en simulación molecular' />
     </a>
 </div>
 
