@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-1335978'>Tristeza vital: cuando estar de bajón puede poner en riesgo tu salud</a></h4>
+    <a href='https://computerhoy.com/life/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-1335978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-3223314.jpg?tf=1200x' alt='Tristeza vital: cuando estar de bajón puede poner en riesgo tu salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-1391537'>Si tu PC no es compatible con Windows 11, prueba estos cinco fantásticos sistemas operativos Linux</a></h4>
     <a href='https://computerhoy.com/tecnologia/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-1391537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-3538210.jpg?tf=1200x' alt='Si tu PC no es compatible con Windows 11, prueba estos cinco fantásticos sistemas operativos Linux' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/todas-novedades-actualizacion-windows-11-24h2-microsoft-no-lanzara-windows-12-1391918'>Todas las novedades de la actualización de Windows 11 24H2 y por qué Microsoft no lanzará Windows 12</a></h4>
     <a href='https://computerhoy.com/windows/todas-novedades-actualizacion-windows-11-24h2-microsoft-no-lanzara-windows-12-1391918' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/todas-novedades-actualizacion-windows-11-24h2-microsoft-no-lanzara-windows-12-3553117.jpg?tf=1200x' alt='Todas las novedades de la actualización de Windows 11 24H2 y por qué Microsoft no lanzará Windows 12' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/advertencia-google-chrome-jamas-copies-pegues-texto-1391832'>Advertencia de Google Chrome: jamás copies y pegues este texto </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/advertencia-google-chrome-jamas-copies-pegues-texto-1391832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Advertencia de Google Chrome: jamás copies y pegues este texto ' />
     </a>
 </div>
 
