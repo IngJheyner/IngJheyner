@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/steve-jobs-odiaria-todas-fuerzas-muchas-cosas-actual-apple-1391953'>Steve Jobs odiaría con todas sus fuerzas muchas cosas de la actual Apple</a></h4>
-    <a href='https://computerhoy.com/apple/steve-jobs-odiaria-todas-fuerzas-muchas-cosas-actual-apple-1391953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cual-fecha-lanzamiento-ios-18-3506219.jpg?tf=1200x' alt='Steve Jobs odiaría con todas sus fuerzas muchas cosas de la actual Apple' />
+    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-consigue-resolver-misterio-medio-siglo-investigacion-estrella-wl-20s-1391975'>El telescopio James Webb consigue resolver un misterio tras más de medio siglo de investigación: la estrella WL 20S</a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-james-webb-consigue-resolver-misterio-medio-siglo-investigacion-estrella-wl-20s-1391975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/telescopio-james-webb-ha-fotografiado-estrellas-jovenes-conocen-3554984.jpg?tf=1200x' alt='El telescopio James Webb consigue resolver un misterio tras más de medio siglo de investigación: la estrella WL 20S' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robots-humanoides-expresiones-faciales-realistas-parecen-personas-1391392'>Los robots humanoides con las expresiones faciales más realistas que parecen personas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robots-humanoides-expresiones-faciales-realistas-parecen-personas-1391392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robots-humanoides-3533474.jpg?tf=1200x' alt='Los robots humanoides con las expresiones faciales más realistas que parecen personas' />
+    <h4><a href='https://computerhoy.com/google/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-1391407'>Con su nueva función, Google Chrome te lee en voz alta cuentos para dormir y otras páginas web</a></h4>
+    <a href='https://computerhoy.com/google/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-1391407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-3533625.jpg?tf=1200x' alt='Con su nueva función, Google Chrome te lee en voz alta cuentos para dormir y otras páginas web' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-ha-sido-creada-objetivo-destruir-todos-iphone-1391393'>La app que ha sido creada con el objetivo de destruir todos los iPhone</a></h4>
-    <a href='https://computerhoy.com/apps/app-ha-sido-creada-objetivo-destruir-todos-iphone-1391393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-ha-sido-creada-objetivo-destruir-todos-iphone-3533473.jpg?tf=1200x' alt='La app que ha sido creada con el objetivo de destruir todos los iPhone' />
+    <h4><a href='https://computerhoy.com/android/android-15-podria-permitirte-compartir-fondos-pantalla-generados-ia-google-1392276'>Android 15 podría permitirte compartir los fondos de pantalla generados por la IA de Google</a></h4>
+    <a href='https://computerhoy.com/android/android-15-podria-permitirte-compartir-fondos-pantalla-generados-ia-google-1392276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/android-15-3569669.jpg?tf=1200x' alt='Android 15 podría permitirte compartir los fondos de pantalla generados por la IA de Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alexa-renueva-amazon-planea-cobrar-tarifa-mensual-asistente-digital-mejorado-1392269'>Alexa se renueva: Amazon planea cobrar una tarifa mensual por su asistente digital mejorado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alexa-renueva-amazon-planea-cobrar-tarifa-mensual-asistente-digital-mejorado-1392269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/alexa-3569222.jpg?tf=1200x' alt='Alexa se renueva: Amazon planea cobrar una tarifa mensual por su asistente digital mejorado' />
+    <h4><a href='https://computerhoy.com/apple/guino-escondido-macos-sequoia-muestra-como-apple-recuerda-pasado-1391403'>El guiño escondido en macOS Sequoia que muestra cómo Apple recuerda su pasado</a></h4>
+    <a href='https://computerhoy.com/apple/guino-escondido-macos-sequoia-muestra-como-apple-recuerda-pasado-1391403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-fondos-pantalla-macosc-3533615.jpg?tf=1200x' alt='El guiño escondido en macOS Sequoia que muestra cómo Apple recuerda su pasado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuando-elegir-arduino-lugar-raspberry-pi-proyectos-electronicos-1392084'>Cuándo elegir Arduino en lugar de Raspberry Pi para tus proyectos electrónicos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuando-elegir-arduino-lugar-raspberry-pi-proyectos-electronicos-1392084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cuando-elegir-arduino-lugar-raspberry-pi-proyectos-electronicos-3559874.jpg?tf=1200x' alt='Cuándo elegir Arduino en lugar de Raspberry Pi para tus proyectos electrónicos' />
+    <h4><a href='https://computerhoy.com/intel-ofrece-nuevas-orientaciones-inestabilidad-cpu-13a-14a-generacion-pero-aun-no-hay-solucion-definitiva-1392040'>Intel ofrece nuevas orientaciones sobre la inestabilidad de las CPU de 13ª y 14ª generación, pero aún no hay una solución definitiva </a></h4>
+    <a href='https://computerhoy.com/intel-ofrece-nuevas-orientaciones-inestabilidad-cpu-13a-14a-generacion-pero-aun-no-hay-solucion-definitiva-1392040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-ciberseguridad-3315192.jpg?tf=1200x' alt='Intel ofrece nuevas orientaciones sobre la inestabilidad de las CPU de 13ª y 14ª generación, pero aún no hay una solución definitiva ' />
     </a>
 </div>
 
