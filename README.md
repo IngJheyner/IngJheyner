@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/truco-no-volveras-perder-video-tiktok-actualizas-error-1391631'>Con este truco no volverás a perder un vídeo de TikTok si actualizas por error</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/truco-no-volveras-perder-video-tiktok-actualizas-error-1391631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/truco-no-volveras-perder-video-tiktok-actualizas-error-3541248.jpg?tf=1200x' alt='Con este truco no volverás a perder un vídeo de TikTok si actualizas por error' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-puedas-personalizar-maximo-pantalla-bloqueo-windows-11-1392326'>Microsoft quiere que puedas personalizar al máximo la pantalla de bloqueo de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-quiere-puedas-personalizar-maximo-pantalla-bloqueo-windows-11-1392326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-quiere-puedas-personalizar-maximo-pantalla-bloqueo-windows-11-3576763.jpg?tf=1200x' alt='Microsoft quiere que puedas personalizar al máximo la pantalla de bloqueo de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/freidora-aire-xxl-precio-regalo-8l-capacidad-codigo-descuento-1392219'>Freidora de aire XXL a precio de regalo: 8L de capacidad y código descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/freidora-aire-xxl-precio-regalo-8l-capacidad-codigo-descuento-1392219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/aigostar-joy-3564452.jpg?tf=1200x' alt='Freidora de aire XXL a precio de regalo: 8L de capacidad y código descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/enrutamiento-internet-como-funciona-te-interesa-conocerlo-1391606'>Enrutamiento de Internet: qué es, cómo funciona y por qué te interesa conocerlo</a></h4>
     <a href='https://computerhoy.com/industria/enrutamiento-internet-como-funciona-te-interesa-conocerlo-1391606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciudad-conectada-3540924.jpg?tf=1200x' alt='Enrutamiento de Internet: qué es, cómo funciona y por qué te interesa conocerlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/intel-ofrece-nuevas-orientaciones-inestabilidad-cpu-13a-14a-generacion-pero-aun-no-hay-solucion-definitiva-1392040'>Intel ofrece nuevas orientaciones sobre la inestabilidad de las CPU de 13ª y 14ª generación, pero aún no hay una solución definitiva </a></h4>
     <a href='https://computerhoy.com/intel-ofrece-nuevas-orientaciones-inestabilidad-cpu-13a-14a-generacion-pero-aun-no-hay-solucion-definitiva-1392040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-ciberseguridad-3315192.jpg?tf=1200x' alt='Intel ofrece nuevas orientaciones sobre la inestabilidad de las CPU de 13ª y 14ª generación, pero aún no hay una solución definitiva ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-quieres-abrir-archivo-como-solucionar-error-windows-10-tan-molesto-1392041'>"¿Cómo quieres abrir este archivo?" Cómo solucionar este error de Windows 10 tan molesto</a></h4>
-    <a href='https://computerhoy.com/windows/como-quieres-abrir-archivo-como-solucionar-error-windows-10-tan-molesto-1392041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/oficial-windows-10-grave-problema-microsoft-tiene-muy-mala-solucion-3310479.jpg?tf=1200x' alt='"¿Cómo quieres abrir este archivo?" Cómo solucionar este error de Windows 10 tan molesto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-son-lugares-probabilidades-hay-rompa-movil-1392324'>Estos son los lugares en los que más probabilidades hay de que se rompa tu móvil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-son-lugares-probabilidades-hay-rompa-movil-1392324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/uso-movil-bar-3576574.jpg?tf=1200x' alt='Estos son los lugares en los que más probabilidades hay de que se rompa tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/anuncios-tiktok-estaran-generados-avatares-ia-actores-bancos-imagenes-1391610'>Los anuncios de TikTok estarán generados por avatares de IA y actores de bancos de imágenes</a></h4>
-    <a href='https://computerhoy.com/apps/anuncios-tiktok-estaran-generados-avatares-ia-actores-bancos-imagenes-1391610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/anuncios-tiktok-estaran-generados-avatares-ia-actores-bancos-imagenes-3540934.jpg?tf=1200x' alt='Los anuncios de TikTok estarán generados por avatares de IA y actores de bancos de imágenes' />
     </a>
 </div>
 
