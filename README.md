@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-acumulando-tantos-coches-vender-ya-incluso-pueden-ver-espacio-1392299'>Tesla está acumulando tantos coches sin vender que ya incluso se pueden ver desde el espacio</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-acumulando-tantos-coches-vender-ya-incluso-pueden-ver-espacio-1392299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tesla-3571463.jpg?tf=1200x' alt='Tesla está acumulando tantos coches sin vender que ya incluso se pueden ver desde el espacio' />
+    <h4><a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345'>Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI</a></h4>
+    <a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-crear-subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-3539675.jpg?tf=1200x' alt='Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-usa-ia-descubrir-gato-siente-dolor-1392085'>Esta app usa una IA para descubrir si tu gato siente dolor, y su causa</a></h4>
-    <a href='https://computerhoy.com/apps/app-usa-ia-descubrir-gato-siente-dolor-1392085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-usa-ia-descubrir-gato-siente-dolor-causa-3559283.jpg?tf=1200x' alt='Esta app usa una IA para descubrir si tu gato siente dolor, y su causa' />
+    <h4><a href='https://computerhoy.com/tecnologia/saily-esim-internet-todo-mundo-verano-1389501'>Internet en cualquier lugar del mundo: esta eSIM se instala en segundos y tiene precios top para este verano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/saily-esim-internet-todo-mundo-verano-1389501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/saily-3442581.jpg?tf=1200x' alt='Internet en cualquier lugar del mundo: esta eSIM se instala en segundos y tiene precios top para este verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-1391835'>La IA sí está provocando despidos, y no es tan bonito como lo pinta Bill Gates</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-1391835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-3548654.jpg?tf=1200x' alt='La IA sí está provocando despidos, y no es tan bonito como lo pinta Bill Gates' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-sistema-correccion-postura-frente-ordenador-impulsado-ia-1392300'>Microsoft piensa en un sistema de corrección de postura frente al ordenador impulsado por IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-sistema-correccion-postura-frente-ordenador-impulsado-ia-1392300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/patente-postura-frente-ordenador-microsoft-3571466.jpg?tf=1200x' alt='Microsoft piensa en un sistema de corrección de postura frente al ordenador impulsado por IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/wd-my-book-18-tb-oferta-amazon-adios-nube-1364761'>Di adiós a la suscripción a la nube: 18TB tuyos para siempre y a toda velocidad con este disco duro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/wd-my-book-18-tb-oferta-amazon-adios-nube-1364761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wd-my-book-3547308.jpg?tf=1200x' alt='Di adiós a la suscripción a la nube: 18TB tuyos para siempre y a toda velocidad con este disco duro' />
+    <h4><a href='https://computerhoy.com/life/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-1391436'>¿Nostalgia o desintoxicación? Estas son las razones del boom de los teléfonos tontos</a></h4>
+    <a href='https://computerhoy.com/life/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-1391436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-3534060.jpg?tf=1200x' alt='¿Nostalgia o desintoxicación? Estas son las razones del boom de los teléfonos tontos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/alias-correo-electronico-como-crear-importante-seguridad-1392244'>Qué es un alias de correo electrónico, cómo crear uno y por qué es importante para tu seguridad</a></h4>
-    <a href='https://computerhoy.com/internet/alias-correo-electronico-como-crear-importante-seguridad-1392244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/alias-correo-electronico-como-crear-importante-seguridad-3565497.jpg?tf=1200x' alt='Qué es un alias de correo electrónico, cómo crear uno y por qué es importante para tu seguridad' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-1392198'>Este fallo en el firmware está afectando a millones de ordenadores con tecnología Intel de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-1392198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-3563129.jpg?tf=1200x' alt='Este fallo en el firmware está afectando a millones de ordenadores con tecnología Intel de todo el mundo' />
     </a>
 </div>
 
