@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489'>Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso</a></h4>
+    <a href='https://computerhoy.com/apple/conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-3535879.jpg?tf=1200x' alt='Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/10-comandos-utiles-solucionar-problemas-windows-11-deberias-usar-ahora-mismo-1391916'>10 comandos útiles para solucionar problemas en Windows 11 que deberías usar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/10-comandos-utiles-solucionar-problemas-windows-11-deberias-usar-ahora-mismo-1391916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-comandos-utiles-solucionar-problemas-windows-11-deberias-usar-ahora-mismo-3552707.jpg?tf=1200x' alt='10 comandos útiles para solucionar problemas en Windows 11 que deberías usar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-1391461'>El consejo de la Policía para que nunca te estafen por WhatsApp: esto debes hacer</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-1391461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-3534356.jpg?tf=1200x' alt='El consejo de la Policía para que nunca te estafen por WhatsApp: esto debes hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345'>Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI</a></h4>
     <a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-crear-subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-3539675.jpg?tf=1200x' alt='Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/saily-esim-internet-todo-mundo-verano-1389501'>Internet en cualquier lugar del mundo: esta eSIM se instala en segundos y tiene precios top para este verano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/saily-esim-internet-todo-mundo-verano-1389501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/saily-3442581.jpg?tf=1200x' alt='Internet en cualquier lugar del mundo: esta eSIM se instala en segundos y tiene precios top para este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-sistema-correccion-postura-frente-ordenador-impulsado-ia-1392300'>Microsoft piensa en un sistema de corrección de postura frente al ordenador impulsado por IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-sistema-correccion-postura-frente-ordenador-impulsado-ia-1392300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/patente-postura-frente-ordenador-microsoft-3571466.jpg?tf=1200x' alt='Microsoft piensa en un sistema de corrección de postura frente al ordenador impulsado por IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-1391436'>¿Nostalgia o desintoxicación? Estas son las razones del boom de los teléfonos tontos</a></h4>
-    <a href='https://computerhoy.com/life/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-1391436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-3534060.jpg?tf=1200x' alt='¿Nostalgia o desintoxicación? Estas son las razones del boom de los teléfonos tontos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-1392198'>Este fallo en el firmware está afectando a millones de ordenadores con tecnología Intel de todo el mundo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-1392198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-3563129.jpg?tf=1200x' alt='Este fallo en el firmware está afectando a millones de ordenadores con tecnología Intel de todo el mundo' />
+    <h4><a href='https://computerhoy.com/apps/chivatos-carretera-dgt-guardia-civil-vs-whatsapp-telegram-ocurriendo-1391630'>¿Chivatos en la carretera? DGT y Guardia Civil vs. WhatsApp y Telegram: esto es lo que está ocurriendo</a></h4>
+    <a href='https://computerhoy.com/apps/chivatos-carretera-dgt-guardia-civil-vs-whatsapp-telegram-ocurriendo-1391630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/guardia-civil-apps-3541433.jpg?tf=1200x' alt='¿Chivatos en la carretera? DGT y Guardia Civil vs. WhatsApp y Telegram: esto es lo que está ocurriendo' />
     </a>
 </div>
 
