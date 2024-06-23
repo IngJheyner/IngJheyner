@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-te-dara-verano-tranquilo-oculta-ip-te-protege-redes-publicas-4-euros-1391770'>Esta VPN te dará un verano tranquilo: oculta tu IP y te protege en redes públicas desde 4 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-te-dara-verano-tranquilo-oculta-ip-te-protege-redes-publicas-4-euros-1391770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nordvpn-vpn-3303558.jpg?tf=1200x' alt='Esta VPN te dará un verano tranquilo: oculta tu IP y te protege en redes públicas desde 4 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/significa-lte-barra-cobertura-movil-android-iphone-1391725'>Qué significa LTE en la barra de cobertura de tu móvil Android o iPhone</a></h4>
     <a href='https://computerhoy.com/redes/significa-lte-barra-cobertura-movil-android-iphone-1391725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/significa-lte-barra-cobertura-movil-android-iphone-3544751.jpg?tf=1200x' alt='Qué significa LTE en la barra de cobertura de tu móvil Android o iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-1335978'>Tristeza vital: cuando estar de bajón puede poner en riesgo tu salud</a></h4>
+    <a href='https://computerhoy.com/life/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-1335978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-3223314.jpg?tf=1200x' alt='Tristeza vital: cuando estar de bajón puede poner en riesgo tu salud' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/componentes-debes-actualizar-mejorar-rendimiento-pc-instante-1392081'>Componentes que debes actualizar para mejorar el rendimiento de tu PC al instante</a></h4>
     <a href='https://computerhoy.com/pc/componentes-debes-actualizar-mejorar-rendimiento-pc-instante-1392081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/componentes-debes-actualizar-mejorar-rendimiento-pc-instante-3559580.jpg?tf=1200x' alt='Componentes que debes actualizar para mejorar el rendimiento de tu PC al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/trucos-ocultos-amazon-fire-tv-deberias-conocer-1211792'>Trucos ocultos de tu Amazon Fire TV que deberías conocer ya</a></h4>
-    <a href='https://computerhoy.com/amazon/trucos-ocultos-amazon-fire-tv-deberias-conocer-1211792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-fire-tv-2977426.jpg?tf=1200x' alt='Trucos ocultos de tu Amazon Fire TV que deberías conocer ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489'>Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso</a></h4>
-    <a href='https://computerhoy.com/apple/conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-3535879.jpg?tf=1200x' alt='Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso' />
     </a>
 </div>
 
