@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/ds4windows-como-configurar-mando-ps4-ps5-jugar-windows-1392072'>DS4Windows: cómo configurar un mando de PS4 o PS5 para jugar en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/ds4windows-como-configurar-mando-ps4-ps5-jugar-windows-1392072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mandos-dualsense-3400620.jpg?tf=1200x' alt='DS4Windows: cómo configurar un mando de PS4 o PS5 para jugar en Windows' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-fantasma-whatsapp-como-activarlo-1003387'>Qué es el modo fantasma de WhatsApp y cómo activarlo en segundos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/modo-fantasma-whatsapp-como-activarlo-1003387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2600603.jpg?tf=1200x' alt='Qué es el modo fantasma de WhatsApp y cómo activarlo en segundos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/400-millones-usuarios-outlook-expuestos-error-seguridad-1392318'>400 millones de usuarios de Outlook expuestos a un error de seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/400-millones-usuarios-outlook-expuestos-error-seguridad-1392318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/phishing-correo-electronico-3576266.jpg?tf=1200x' alt='400 millones de usuarios de Outlook expuestos a un error de seguridad' />
+    <h4><a href='https://computerhoy.com/moviles/qualcomm-snapdragon-8s-gen-3-prueba-mejor-8-gen-3-1391589'>Qualcomm Snapdragon 8s Gen 3 a prueba: ¿es mejor que el 8 Gen 3?</a></h4>
+    <a href='https://computerhoy.com/moviles/qualcomm-snapdragon-8s-gen-3-prueba-mejor-8-gen-3-1391589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/qualcomm-snapdragon-8s-gen-3-3540619.jpg?tf=1200x' alt='Qualcomm Snapdragon 8s Gen 3 a prueba: ¿es mejor que el 8 Gen 3?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/computacion-cuantica-podria-ser-facil-nunca-nueva-tecnica-1392111'>La computación cuántica podría ser más fácil que nunca con esta nueva técnica</a></h4>
-    <a href='https://computerhoy.com/ciencia/computacion-cuantica-podria-ser-facil-nunca-nueva-tecnica-1392111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-cuantico-3561798.jpg?tf=1200x' alt='La computación cuántica podría ser más fácil que nunca con esta nueva técnica' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-te-muestra-donde-viene-apellido-cuantas-personas-comparten-1391580'>El Google Maps que te muestra de dónde viene tu apellido y cuántas personas lo comparten</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-te-muestra-donde-viene-apellido-cuantas-personas-comparten-1391580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-te-muestra-donde-viene-apellido-cuantas-personas-comparten-3540613.jpg?tf=1200x' alt='El Google Maps que te muestra de dónde viene tu apellido y cuántas personas lo comparten' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-guardar-pagina-web-formato-pdf-movil-pc-1391902'>Cómo guardar una página web en formato PDF en móvil y PC</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-guardar-pagina-web-formato-pdf-movil-pc-1391902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-guardar-pagina-web-formato-pdf-movil-pc-3552013.jpg?tf=1200x' alt='Cómo guardar una página web en formato PDF en móvil y PC' />
+    <h4><a href='https://computerhoy.com/tecnologia/top-teachers-2024-sigue-gala-directo-miercoles-1391611'>Top Teachers 2024: ¡sigue la gala en directo este miércoles!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/top-teachers-2024-sigue-gala-directo-miercoles-1391611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718705266963-3540936.jpg?tf=1200x' alt='Top Teachers 2024: ¡sigue la gala en directo este miércoles!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-operadora-limitando-datos-moviles-como-solucionarlo-1392078'>Cómo saber si tu operadora está limitando tus datos móviles y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-operadora-limitando-datos-moviles-como-solucionarlo-1392078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-saber-operadora-limitando-datos-moviles-como-solucionarlo-3559268.jpg?tf=1200x' alt='Cómo saber si tu operadora está limitando tus datos móviles y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/android/android-15-te-ayudara-diagnosticar-problemas-movil-1392321'>Android 15 te ayudará a diagnosticar problemas en tu móvil</a></h4>
+    <a href='https://computerhoy.com/android/android-15-te-ayudara-diagnosticar-problemas-movil-1392321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-15-3302213.jpg?tf=1200x' alt='Android 15 te ayudará a diagnosticar problemas en tu móvil' />
     </a>
 </div>
 
