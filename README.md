@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/hoy-cierra-apps-google-usada-millones-personas-1392342'>Hoy cierra una de las apps de Google usada por millones de personas</a></h4>
+    <a href='https://computerhoy.com/google/hoy-cierra-apps-google-usada-millones-personas-1392342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hoy-cierra-apps-google-usada-millones-personas-3579423.jpg?tf=1200x' alt='Hoy cierra una de las apps de Google usada por millones de personas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-1391714'>Ni Google Maps ni Waze: esta es la mejor app de navegación en Android Auto para millones de usuarios</a></h4>
     <a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-1391714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-3544196.jpg?tf=1200x' alt='Ni Google Maps ni Waze: esta es la mejor app de navegación en Android Auto para millones de usuarios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/configuraciones-rapidas-consigo-mejorar-rendimiento-mi-smart-tv-instante-1392240'>Configuraciones rápidas con las que consigo mejorar el rendimiento de mi Smart TV al instante</a></h4>
     <a href='https://computerhoy.com/tv/configuraciones-rapidas-consigo-mejorar-rendimiento-mi-smart-tv-instante-1392240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/configuraciones-rapidas-consigo-mejorar-rendimiento-mi-smart-tv-instante-3564908.jpg?tf=1200x' alt='Configuraciones rápidas con las que consigo mejorar el rendimiento de mi Smart TV al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-intelligence-no-llegara-europa-espana-1392243'>En Europa solo tendremos iPhone "tontos": Apple Intelligence no llegará a la UE</a></h4>
-    <a href='https://computerhoy.com/apple/apple-intelligence-no-llegara-europa-espana-1392243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-intelligence-3488452.jpg?tf=1200x' alt='En Europa solo tendremos iPhone "tontos": Apple Intelligence no llegará a la UE' />
     </a>
 </div>
 
