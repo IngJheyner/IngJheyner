@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/detectan-vulnerabilidad-afecta-cientos-modelos-cpu-intel-1392128'>Detectan vulnerabilidad que afecta a cientos de modelos de CPU Intel</a></h4>
-    <a href='https://computerhoy.com/tecnologia/detectan-vulnerabilidad-afecta-cientos-modelos-cpu-intel-1392128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-3563129.jpg?tf=1200x' alt='Detectan vulnerabilidad que afecta a cientos de modelos de CPU Intel' />
+    <h4><a href='https://computerhoy.com/tecnologia/obligan-internet-archive-borrar-500000-libros-almacenaba-no-perdieran-1392338'>Obligan a Internet Archive a borrar 500.000 libros que almacenaba para que no se perdieran</a></h4>
+    <a href='https://computerhoy.com/tecnologia/obligan-internet-archive-borrar-500000-libros-almacenaba-no-perdieran-1392338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/obligan-internet-archive-borrar-500000-libros-almacenaba-no-perdieran-3578488.jpg?tf=1200x' alt='Obligan a Internet Archive a borrar 500.000 libros que almacenaba para que no se perdieran' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-aplicaciones-movil-android-1383119'>Cómo poner contraseña a las aplicaciones en un móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-aplicaciones-movil-android-1383119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/contrasena-password-3235270.jpg?tf=1200x' alt='Cómo poner contraseña a las aplicaciones en un móvil Android' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-acelerar-instalacion-actualizaciones-windows-11-1390161'>Cómo acelerar la instalación de las actualizaciones de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-acelerar-instalacion-actualizaciones-windows-11-1390161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-acelerar-instalacion-actualizaciones-windows-11-3469515.jpg?tf=1200x' alt='Cómo acelerar la instalación de las actualizaciones de Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/calor-aprieta-dyson-ayuda-rebaja-ventilador-aspas-70-euros-1392334'>El calor aprieta y Dyson ayuda: rebaja su ventilador sin aspas 70 euros</a></h4>
-    <a href='https://computerhoy.com/hogar/calor-aprieta-dyson-ayuda-rebaja-ventilador-aspas-70-euros-1392334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dyson-cool-am07-3578014.jpg?tf=1200x' alt='El calor aprieta y Dyson ayuda: rebaja su ventilador sin aspas 70 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/dstike-deauther-watch-x-apple-watch-hackers-flipper-zero-muneca-1392228'>DSTIKE Deauther Watch X: el Apple Watch de los hackers, un Flipper Zero en tu muñeca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dstike-deauther-watch-x-apple-watch-hackers-flipper-zero-muneca-1392228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dstike-deauther-watch-x-apple-watch-hackers-flipper-zero-muneca-3564296.jpg?tf=1200x' alt='DSTIKE Deauther Watch X: el Apple Watch de los hackers, un Flipper Zero en tu muñeca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-1391517'>Cómo usar el truco udm=14 en tu navegador para bloquear contenido generado por IA</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-1391517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-3536758.jpg?tf=1200x' alt='Cómo usar el truco udm=14 en tu navegador para bloquear contenido generado por IA' />
+    <h4><a href='https://computerhoy.com/ciencia/superordenador-frontier-establece-nuevo-estandar-simulacion-molecular-1392129'>El superordenador Frontier establece un nuevo estándar en simulación molecular</a></h4>
+    <a href='https://computerhoy.com/ciencia/superordenador-frontier-establece-nuevo-estandar-simulacion-molecular-1392129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/superordenador-frontier-2716253.jpg?tf=1200x' alt='El superordenador Frontier establece un nuevo estándar en simulación molecular' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-retrasa-regreso-astronautas-boeing-forma-indefinida-1392336'>La NASA retrasa el regreso de los astronautas de Boeing de forma indefinida</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-retrasa-regreso-astronautas-boeing-forma-indefinida-1392336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nasa-retrasa-regreso-astronautas-forma-indefinida-acerca-tiempo-limite-starliner-3578170.jpg?tf=1200x' alt='La NASA retrasa el regreso de los astronautas de Boeing de forma indefinida' />
+    <h4><a href='https://computerhoy.com/internet/slop-nuevo-spam-creado-inteligencia-artificial-1391014'>Qué es el “slop”, el nuevo spam creado por la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/internet/slop-nuevo-spam-creado-inteligencia-artificial-1391014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/slop-nuevo-spam-creado-inteligencia-artificial-3508210.jpg?tf=1200x' alt='Qué es el “slop”, el nuevo spam creado por la inteligencia artificial' />
     </a>
 </div>
 
