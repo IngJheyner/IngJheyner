@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-te-dara-verano-tranquilo-oculta-ip-te-protege-redes-publicas-4-euros-1391770'>Esta VPN te dará un verano tranquilo: oculta tu IP y te protege en redes públicas desde 4 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-te-dara-verano-tranquilo-oculta-ip-te-protege-redes-publicas-4-euros-1391770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nordvpn-vpn-3303558.jpg?tf=1200x' alt='Esta VPN te dará un verano tranquilo: oculta tu IP y te protege en redes públicas desde 4 euros' />
+    <h4><a href='https://computerhoy.com/tutoriales/ds4windows-como-configurar-mando-ps4-ps5-jugar-windows-1392072'>DS4Windows: cómo configurar un mando de PS4 o PS5 para jugar en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/ds4windows-como-configurar-mando-ps4-ps5-jugar-windows-1392072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mandos-dualsense-3400620.jpg?tf=1200x' alt='DS4Windows: cómo configurar un mando de PS4 o PS5 para jugar en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/significa-lte-barra-cobertura-movil-android-iphone-1391725'>Qué significa LTE en la barra de cobertura de tu móvil Android o iPhone</a></h4>
-    <a href='https://computerhoy.com/redes/significa-lte-barra-cobertura-movil-android-iphone-1391725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/significa-lte-barra-cobertura-movil-android-iphone-3544751.jpg?tf=1200x' alt='Qué significa LTE en la barra de cobertura de tu móvil Android o iPhone' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/400-millones-usuarios-outlook-expuestos-error-seguridad-1392318'>400 millones de usuarios de Outlook expuestos a un error de seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/400-millones-usuarios-outlook-expuestos-error-seguridad-1392318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/phishing-correo-electronico-3576266.jpg?tf=1200x' alt='400 millones de usuarios de Outlook expuestos a un error de seguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-1335978'>Tristeza vital: cuando estar de bajón puede poner en riesgo tu salud</a></h4>
-    <a href='https://computerhoy.com/life/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-1335978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-3223314.jpg?tf=1200x' alt='Tristeza vital: cuando estar de bajón puede poner en riesgo tu salud' />
+    <h4><a href='https://computerhoy.com/ciencia/computacion-cuantica-podria-ser-facil-nunca-nueva-tecnica-1392111'>La computación cuántica podría ser más fácil que nunca con esta nueva técnica</a></h4>
+    <a href='https://computerhoy.com/ciencia/computacion-cuantica-podria-ser-facil-nunca-nueva-tecnica-1392111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-cuantico-3561798.jpg?tf=1200x' alt='La computación cuántica podría ser más fácil que nunca con esta nueva técnica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/primera-tienda-apple-malasia-espectacular-1392307'>Abre la primera tienda Apple de Malasia, y es espectacular</a></h4>
-    <a href='https://computerhoy.com/apple/primera-tienda-apple-malasia-espectacular-1392307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-abre-primera-tienda-malasia-espectacular-3573428.jpg?tf=1200x' alt='Abre la primera tienda Apple de Malasia, y es espectacular' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-guardar-pagina-web-formato-pdf-movil-pc-1391902'>Cómo guardar una página web en formato PDF en móvil y PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-guardar-pagina-web-formato-pdf-movil-pc-1391902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-guardar-pagina-web-formato-pdf-movil-pc-3552013.jpg?tf=1200x' alt='Cómo guardar una página web en formato PDF en móvil y PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/componentes-debes-actualizar-mejorar-rendimiento-pc-instante-1392081'>Componentes que debes actualizar para mejorar el rendimiento de tu PC al instante</a></h4>
-    <a href='https://computerhoy.com/pc/componentes-debes-actualizar-mejorar-rendimiento-pc-instante-1392081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/componentes-debes-actualizar-mejorar-rendimiento-pc-instante-3559580.jpg?tf=1200x' alt='Componentes que debes actualizar para mejorar el rendimiento de tu PC al instante' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-operadora-limitando-datos-moviles-como-solucionarlo-1392078'>Cómo saber si tu operadora está limitando tus datos móviles y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-operadora-limitando-datos-moviles-como-solucionarlo-1392078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-saber-operadora-limitando-datos-moviles-como-solucionarlo-3559268.jpg?tf=1200x' alt='Cómo saber si tu operadora está limitando tus datos móviles y cómo solucionarlo' />
     </a>
 </div>
 
