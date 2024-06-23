@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246'>Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ropa-perchas-3565060.jpg?tf=1200x' alt='Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/mayor-debilidad-enfrenta-apple-ia-iphone-1392188'>Esta es la mayor debilidad a la que se enfrenta Apple con la IA de los iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/mayor-debilidad-enfrenta-apple-ia-iphone-1392188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mayor-debilidad-apple-ia-iphone-3562763.jpg?tf=1200x' alt='Esta es la mayor debilidad a la que se enfrenta Apple con la IA de los iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/configuraciones-rapidas-consigo-mejorar-rendimiento-mi-smart-tv-instante-1392240'>Configuraciones rápidas con las que consigo mejorar el rendimiento de mi Smart TV al instante</a></h4>
+    <a href='https://computerhoy.com/tv/configuraciones-rapidas-consigo-mejorar-rendimiento-mi-smart-tv-instante-1392240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/configuraciones-rapidas-consigo-mejorar-rendimiento-mi-smart-tv-instante-3564908.jpg?tf=1200x' alt='Configuraciones rápidas con las que consigo mejorar el rendimiento de mi Smart TV al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-intelligence-no-llegara-europa-espana-1392243'>En Europa solo tendremos iPhone "tontos": Apple Intelligence no llegará a la UE</a></h4>
+    <a href='https://computerhoy.com/apple/apple-intelligence-no-llegara-europa-espana-1392243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-intelligence-3488452.jpg?tf=1200x' alt='En Europa solo tendremos iPhone "tontos": Apple Intelligence no llegará a la UE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/nube-como-almacenamiento-gran-desperdicio-energetico-ecologico-1392340'>Hasta un 80% de la nube se usa como almacenamiento: un gran desperdicio energético</a></h4>
     <a href='https://computerhoy.com/internet/nube-como-almacenamiento-gran-desperdicio-energetico-ecologico-1392340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/80-nube-usa-como-almacenamiento-enorme-desperdicio-energetico-ecologico-3578960.jpg?tf=1200x' alt='Hasta un 80% de la nube se usa como almacenamiento: un gran desperdicio energético' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/justos-pecadores-coste-acabar-iptv-saldra-bolsillo-todos-contribuyentes-1392181'>Justos por pecadores: el coste de acabar con las IPTV saldrá del bolsillo de todos los contribuyentes</a></h4>
-    <a href='https://computerhoy.com/tv/justos-pecadores-coste-acabar-iptv-saldra-bolsillo-todos-contribuyentes-1392181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/justos-pecadores-coste-acabar-iptv-saldra-bolsillo-todos-contribuyentes-3562596.jpg?tf=1200x' alt='Justos por pecadores: el coste de acabar con las IPTV saldrá del bolsillo de todos los contribuyentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-suena-pantalla-trasera-iphone-camaras-adicionales-1392302'>Apple sueña con una pantalla trasera en el iPhone y cámaras adicionales</a></h4>
-    <a href='https://computerhoy.com/apple/apple-suena-pantalla-trasera-iphone-camaras-adicionales-1392302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='Apple sueña con una pantalla trasera en el iPhone y cámaras adicionales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703'>¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?</a></h4>
-    <a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-error-google-maps-nunca-te-lleve-ruta-corta-3543453.jpg?tf=1200x' alt='¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/libros-stephen-king-no-tienen-pelicula-necesitan-adaptacion-ya-1391877'>5 libros de Stephen King que no tienen película y necesitan una adaptación ya</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/libros-stephen-king-no-tienen-pelicula-necesitan-adaptacion-ya-1391877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/stephen-king-3298586.jpg?tf=1200x' alt='5 libros de Stephen King que no tienen película y necesitan una adaptación ya' />
     </a>
 </div>
 
