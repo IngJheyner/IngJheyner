@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/regla-5-horas-todos-dias-sean-productivos-usan-elon-musk-bill-gates-1086543'>La regla de las 5 horas para tener días productivos que usan Elon Musk y Bill Gates</a></h4>
-    <a href='https://computerhoy.com/noticias/life/regla-5-horas-todos-dias-sean-productivos-usan-elon-musk-bill-gates-1086543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg?tf=1200x' alt='La regla de las 5 horas para tener días productivos que usan Elon Musk y Bill Gates' />
+    <h4><a href='https://computerhoy.com/tecnologia/detectan-vulnerabilidad-afecta-cientos-modelos-cpu-intel-1392128'>Detectan vulnerabilidad que afecta a cientos de modelos de CPU Intel</a></h4>
+    <a href='https://computerhoy.com/tecnologia/detectan-vulnerabilidad-afecta-cientos-modelos-cpu-intel-1392128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-3563129.jpg?tf=1200x' alt='Detectan vulnerabilidad que afecta a cientos de modelos de CPU Intel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-inmortales-recordar-donald-sutherland-alla-juegos-hambre-1392199'>5 películas inmortales para recordar a Donald Sutherland, más allá de Los juegos del hambre </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-inmortales-recordar-donald-sutherland-alla-juegos-hambre-1392199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-peliculas-inmortales-recordar-donald-sutherland-3563064.jpg?tf=1200x' alt='5 películas inmortales para recordar a Donald Sutherland, más allá de Los juegos del hambre ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-aplicaciones-movil-android-1383119'>Cómo poner contraseña a las aplicaciones en un móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-aplicaciones-movil-android-1383119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/contrasena-password-3235270.jpg?tf=1200x' alt='Cómo poner contraseña a las aplicaciones en un móvil Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-1391533'>Cómo mejorar el rendimiento de mi Raspberry Pi 5 instalando un SSD</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-1391533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-3537475.jpg?tf=1200x' alt='Cómo mejorar el rendimiento de mi Raspberry Pi 5 instalando un SSD' />
+    <h4><a href='https://computerhoy.com/hogar/calor-aprieta-dyson-ayuda-rebaja-ventilador-aspas-70-euros-1392334'>El calor aprieta y Dyson ayuda: rebaja su ventilador sin aspas 70 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/calor-aprieta-dyson-ayuda-rebaja-ventilador-aspas-70-euros-1392334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dyson-cool-am07-3578014.jpg?tf=1200x' alt='El calor aprieta y Dyson ayuda: rebaja su ventilador sin aspas 70 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-agregar-nuevas-fuentes-windows-11-1391915'>Cómo instalar y agregar nuevas fuentes en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-agregar-nuevas-fuentes-windows-11-1391915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-instalar-agregar-nuevas-fuentes-windows-11-3552430.jpg?tf=1200x' alt='Cómo instalar y agregar nuevas fuentes en Windows 11' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-1391517'>Cómo usar el truco udm=14 en tu navegador para bloquear contenido generado por IA</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-1391517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-3536758.jpg?tf=1200x' alt='Cómo usar el truco udm=14 en tu navegador para bloquear contenido generado por IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/fussballiebe-balon-euro-tecnologia-1336656'>Así es la tecnología detrás de  Fussballiebe, el balón de la Euro 2024</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/fussballiebe-balon-euro-tecnologia-1336656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fussballiebe-3224540.jpg?tf=1200x' alt='Así es la tecnología detrás de  Fussballiebe, el balón de la Euro 2024' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-retrasa-regreso-astronautas-boeing-forma-indefinida-1392336'>La NASA retrasa el regreso de los astronautas de Boeing de forma indefinida</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-retrasa-regreso-astronautas-boeing-forma-indefinida-1392336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nasa-retrasa-regreso-astronautas-forma-indefinida-acerca-tiempo-limite-starliner-3578170.jpg?tf=1200x' alt='La NASA retrasa el regreso de los astronautas de Boeing de forma indefinida' />
     </a>
 </div>
 
