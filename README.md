@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/significa-lte-barra-cobertura-movil-android-iphone-1391725'>Qué significa LTE en la barra de cobertura de tu móvil Android o iPhone</a></h4>
+    <a href='https://computerhoy.com/redes/significa-lte-barra-cobertura-movil-android-iphone-1391725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/significa-lte-barra-cobertura-movil-android-iphone-3544751.jpg?tf=1200x' alt='Qué significa LTE en la barra de cobertura de tu móvil Android o iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/primera-tienda-apple-malasia-espectacular-1392307'>Abre la primera tienda Apple de Malasia, y es espectacular</a></h4>
+    <a href='https://computerhoy.com/apple/primera-tienda-apple-malasia-espectacular-1392307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-abre-primera-tienda-malasia-espectacular-3573428.jpg?tf=1200x' alt='Abre la primera tienda Apple de Malasia, y es espectacular' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/componentes-debes-actualizar-mejorar-rendimiento-pc-instante-1392081'>Componentes que debes actualizar para mejorar el rendimiento de tu PC al instante</a></h4>
+    <a href='https://computerhoy.com/pc/componentes-debes-actualizar-mejorar-rendimiento-pc-instante-1392081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/componentes-debes-actualizar-mejorar-rendimiento-pc-instante-3559580.jpg?tf=1200x' alt='Componentes que debes actualizar para mejorar el rendimiento de tu PC al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/trucos-ocultos-amazon-fire-tv-deberias-conocer-1211792'>Trucos ocultos de tu Amazon Fire TV que deberías conocer ya</a></h4>
+    <a href='https://computerhoy.com/amazon/trucos-ocultos-amazon-fire-tv-deberias-conocer-1211792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-fire-tv-2977426.jpg?tf=1200x' alt='Trucos ocultos de tu Amazon Fire TV que deberías conocer ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489'>Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso</a></h4>
     <a href='https://computerhoy.com/apple/conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-3535879.jpg?tf=1200x' alt='Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/10-comandos-utiles-solucionar-problemas-windows-11-deberias-usar-ahora-mismo-1391916'>10 comandos útiles para solucionar problemas en Windows 11 que deberías usar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/10-comandos-utiles-solucionar-problemas-windows-11-deberias-usar-ahora-mismo-1391916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-comandos-utiles-solucionar-problemas-windows-11-deberias-usar-ahora-mismo-3552707.jpg?tf=1200x' alt='10 comandos útiles para solucionar problemas en Windows 11 que deberías usar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-1391461'>El consejo de la Policía para que nunca te estafen por WhatsApp: esto debes hacer</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-1391461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-3534356.jpg?tf=1200x' alt='El consejo de la Policía para que nunca te estafen por WhatsApp: esto debes hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345'>Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI</a></h4>
-    <a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-crear-subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-3539675.jpg?tf=1200x' alt='Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/chivatos-carretera-dgt-guardia-civil-vs-whatsapp-telegram-ocurriendo-1391630'>¿Chivatos en la carretera? DGT y Guardia Civil vs. WhatsApp y Telegram: esto es lo que está ocurriendo</a></h4>
-    <a href='https://computerhoy.com/apps/chivatos-carretera-dgt-guardia-civil-vs-whatsapp-telegram-ocurriendo-1391630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/guardia-civil-apps-3541433.jpg?tf=1200x' alt='¿Chivatos en la carretera? DGT y Guardia Civil vs. WhatsApp y Telegram: esto es lo que está ocurriendo' />
     </a>
 </div>
 
