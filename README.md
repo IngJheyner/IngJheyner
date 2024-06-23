@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/regla-5-horas-todos-dias-sean-productivos-usan-elon-musk-bill-gates-1086543'>La regla de las 5 horas para tener días productivos que usan Elon Musk y Bill Gates</a></h4>
+    <a href='https://computerhoy.com/noticias/life/regla-5-horas-todos-dias-sean-productivos-usan-elon-musk-bill-gates-1086543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/elon-musk-2666609.jpg?tf=1200x' alt='La regla de las 5 horas para tener días productivos que usan Elon Musk y Bill Gates' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-inmortales-recordar-donald-sutherland-alla-juegos-hambre-1392199'>5 películas inmortales para recordar a Donald Sutherland, más allá de Los juegos del hambre </a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-inmortales-recordar-donald-sutherland-alla-juegos-hambre-1392199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-peliculas-inmortales-recordar-donald-sutherland-3563064.jpg?tf=1200x' alt='5 películas inmortales para recordar a Donald Sutherland, más allá de Los juegos del hambre ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-1391533'>Cómo mejorar el rendimiento de mi Raspberry Pi 5 instalando un SSD</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-1391533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-3537475.jpg?tf=1200x' alt='Cómo mejorar el rendimiento de mi Raspberry Pi 5 instalando un SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-agregar-nuevas-fuentes-windows-11-1391915'>Cómo instalar y agregar nuevas fuentes en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-agregar-nuevas-fuentes-windows-11-1391915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-instalar-agregar-nuevas-fuentes-windows-11-3552430.jpg?tf=1200x' alt='Cómo instalar y agregar nuevas fuentes en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/fussballiebe-balon-euro-tecnologia-1336656'>Así es la tecnología detrás de  Fussballiebe, el balón de la Euro 2024</a></h4>
     <a href='https://computerhoy.com/entretenimiento/fussballiebe-balon-euro-tecnologia-1336656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fussballiebe-3224540.jpg?tf=1200x' alt='Así es la tecnología detrás de  Fussballiebe, el balón de la Euro 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mirar-videos-jugar-no-son-usos-populares-iphone-estudio-1392327'>Mirar vídeos y jugar no son los usos más populares del iPhone, según este estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mirar-videos-jugar-no-son-usos-populares-iphone-estudio-1392327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/jugar-juegos-movil-3576765.jpg?tf=1200x' alt='Mirar vídeos y jugar no son los usos más populares del iPhone, según este estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/truco-no-volveras-perder-video-tiktok-actualizas-error-1391631'>Con este truco no volverás a perder un vídeo de TikTok si actualizas por error</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/truco-no-volveras-perder-video-tiktok-actualizas-error-1391631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/truco-no-volveras-perder-video-tiktok-actualizas-error-3541248.jpg?tf=1200x' alt='Con este truco no volverás a perder un vídeo de TikTok si actualizas por error' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-puedas-personalizar-maximo-pantalla-bloqueo-windows-11-1392326'>Microsoft quiere que puedas personalizar al máximo la pantalla de bloqueo de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-quiere-puedas-personalizar-maximo-pantalla-bloqueo-windows-11-1392326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-quiere-puedas-personalizar-maximo-pantalla-bloqueo-windows-11-3576763.jpg?tf=1200x' alt='Microsoft quiere que puedas personalizar al máximo la pantalla de bloqueo de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/freidora-aire-xxl-precio-regalo-8l-capacidad-codigo-descuento-1392219'>Freidora de aire XXL a precio de regalo: 8L de capacidad y código descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/freidora-aire-xxl-precio-regalo-8l-capacidad-codigo-descuento-1392219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/aigostar-joy-3564452.jpg?tf=1200x' alt='Freidora de aire XXL a precio de regalo: 8L de capacidad y código descuento' />
     </a>
 </div>
 
