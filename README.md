@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/modo-fantasma-whatsapp-como-activarlo-1003387'>Qué es el modo fantasma de WhatsApp y cómo activarlo en segundos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/modo-fantasma-whatsapp-como-activarlo-1003387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-2600603.jpg?tf=1200x' alt='Qué es el modo fantasma de WhatsApp y cómo activarlo en segundos' />
+    <h4><a href='https://computerhoy.com/industria/enrutamiento-internet-como-funciona-te-interesa-conocerlo-1391606'>Enrutamiento de Internet: qué es, cómo funciona y por qué te interesa conocerlo</a></h4>
+    <a href='https://computerhoy.com/industria/enrutamiento-internet-como-funciona-te-interesa-conocerlo-1391606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciudad-conectada-3540924.jpg?tf=1200x' alt='Enrutamiento de Internet: qué es, cómo funciona y por qué te interesa conocerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/qualcomm-snapdragon-8s-gen-3-prueba-mejor-8-gen-3-1391589'>Qualcomm Snapdragon 8s Gen 3 a prueba: ¿es mejor que el 8 Gen 3?</a></h4>
-    <a href='https://computerhoy.com/moviles/qualcomm-snapdragon-8s-gen-3-prueba-mejor-8-gen-3-1391589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/qualcomm-snapdragon-8s-gen-3-3540619.jpg?tf=1200x' alt='Qualcomm Snapdragon 8s Gen 3 a prueba: ¿es mejor que el 8 Gen 3?' />
+    <h4><a href='https://computerhoy.com/intel-ofrece-nuevas-orientaciones-inestabilidad-cpu-13a-14a-generacion-pero-aun-no-hay-solucion-definitiva-1392040'>Intel ofrece nuevas orientaciones sobre la inestabilidad de las CPU de 13ª y 14ª generación, pero aún no hay una solución definitiva </a></h4>
+    <a href='https://computerhoy.com/intel-ofrece-nuevas-orientaciones-inestabilidad-cpu-13a-14a-generacion-pero-aun-no-hay-solucion-definitiva-1392040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-ciberseguridad-3315192.jpg?tf=1200x' alt='Intel ofrece nuevas orientaciones sobre la inestabilidad de las CPU de 13ª y 14ª generación, pero aún no hay una solución definitiva ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-te-muestra-donde-viene-apellido-cuantas-personas-comparten-1391580'>El Google Maps que te muestra de dónde viene tu apellido y cuántas personas lo comparten</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-te-muestra-donde-viene-apellido-cuantas-personas-comparten-1391580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-te-muestra-donde-viene-apellido-cuantas-personas-comparten-3540613.jpg?tf=1200x' alt='El Google Maps que te muestra de dónde viene tu apellido y cuántas personas lo comparten' />
+    <h4><a href='https://computerhoy.com/windows/como-quieres-abrir-archivo-como-solucionar-error-windows-10-tan-molesto-1392041'>"¿Cómo quieres abrir este archivo?" Cómo solucionar este error de Windows 10 tan molesto</a></h4>
+    <a href='https://computerhoy.com/windows/como-quieres-abrir-archivo-como-solucionar-error-windows-10-tan-molesto-1392041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/oficial-windows-10-grave-problema-microsoft-tiene-muy-mala-solucion-3310479.jpg?tf=1200x' alt='"¿Cómo quieres abrir este archivo?" Cómo solucionar este error de Windows 10 tan molesto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/top-teachers-2024-sigue-gala-directo-miercoles-1391611'>Top Teachers 2024: ¡sigue la gala en directo este miércoles!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/top-teachers-2024-sigue-gala-directo-miercoles-1391611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718705266963-3540936.jpg?tf=1200x' alt='Top Teachers 2024: ¡sigue la gala en directo este miércoles!' />
+    <h4><a href='https://computerhoy.com/tecnologia/estos-son-lugares-probabilidades-hay-rompa-movil-1392324'>Estos son los lugares en los que más probabilidades hay de que se rompa tu móvil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-son-lugares-probabilidades-hay-rompa-movil-1392324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/uso-movil-bar-3576574.jpg?tf=1200x' alt='Estos son los lugares en los que más probabilidades hay de que se rompa tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-15-te-ayudara-diagnosticar-problemas-movil-1392321'>Android 15 te ayudará a diagnosticar problemas en tu móvil</a></h4>
-    <a href='https://computerhoy.com/android/android-15-te-ayudara-diagnosticar-problemas-movil-1392321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-15-3302213.jpg?tf=1200x' alt='Android 15 te ayudará a diagnosticar problemas en tu móvil' />
+    <h4><a href='https://computerhoy.com/apps/anuncios-tiktok-estaran-generados-avatares-ia-actores-bancos-imagenes-1391610'>Los anuncios de TikTok estarán generados por avatares de IA y actores de bancos de imágenes</a></h4>
+    <a href='https://computerhoy.com/apps/anuncios-tiktok-estaran-generados-avatares-ia-actores-bancos-imagenes-1391610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/anuncios-tiktok-estaran-generados-avatares-ia-actores-bancos-imagenes-3540934.jpg?tf=1200x' alt='Los anuncios de TikTok estarán generados por avatares de IA y actores de bancos de imágenes' />
     </a>
 </div>
 
