@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-1391714'>Ni Google Maps ni Waze: esta es la mejor app de navegación en Android Auto para millones de usuarios</a></h4>
+    <a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-1391714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-3544196.jpg?tf=1200x' alt='Ni Google Maps ni Waze: esta es la mejor app de navegación en Android Auto para millones de usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246'>Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla</a></h4>
     <a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ropa-perchas-3565060.jpg?tf=1200x' alt='Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-intelligence-no-llegara-europa-espana-1392243'>En Europa solo tendremos iPhone "tontos": Apple Intelligence no llegará a la UE</a></h4>
     <a href='https://computerhoy.com/apple/apple-intelligence-no-llegara-europa-espana-1392243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-intelligence-3488452.jpg?tf=1200x' alt='En Europa solo tendremos iPhone "tontos": Apple Intelligence no llegará a la UE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/nube-como-almacenamiento-gran-desperdicio-energetico-ecologico-1392340'>Hasta un 80% de la nube se usa como almacenamiento: un gran desperdicio energético</a></h4>
-    <a href='https://computerhoy.com/internet/nube-como-almacenamiento-gran-desperdicio-energetico-ecologico-1392340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/80-nube-usa-como-almacenamiento-enorme-desperdicio-energetico-ecologico-3578960.jpg?tf=1200x' alt='Hasta un 80% de la nube se usa como almacenamiento: un gran desperdicio energético' />
     </a>
 </div>
 
