@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tesla-acumulando-tantos-coches-vender-ya-incluso-pueden-ver-espacio-1392299'>Tesla está acumulando tantos coches sin vender que ya incluso se pueden ver desde el espacio</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-acumulando-tantos-coches-vender-ya-incluso-pueden-ver-espacio-1392299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tesla-3571463.jpg?tf=1200x' alt='Tesla está acumulando tantos coches sin vender que ya incluso se pueden ver desde el espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/app-usa-ia-descubrir-gato-siente-dolor-1392085'>Esta app usa una IA para descubrir si tu gato siente dolor, y su causa</a></h4>
+    <a href='https://computerhoy.com/apps/app-usa-ia-descubrir-gato-siente-dolor-1392085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-usa-ia-descubrir-gato-siente-dolor-causa-3559283.jpg?tf=1200x' alt='Esta app usa una IA para descubrir si tu gato siente dolor, y su causa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-1391835'>La IA sí está provocando despidos, y no es tan bonito como lo pinta Bill Gates</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-1391835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-3548654.jpg?tf=1200x' alt='La IA sí está provocando despidos, y no es tan bonito como lo pinta Bill Gates' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/wd-my-book-18-tb-oferta-amazon-adios-nube-1364761'>Di adiós a la suscripción a la nube: 18TB tuyos para siempre y a toda velocidad con este disco duro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/wd-my-book-18-tb-oferta-amazon-adios-nube-1364761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wd-my-book-3547308.jpg?tf=1200x' alt='Di adiós a la suscripción a la nube: 18TB tuyos para siempre y a toda velocidad con este disco duro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/alias-correo-electronico-como-crear-importante-seguridad-1392244'>Qué es un alias de correo electrónico, cómo crear uno y por qué es importante para tu seguridad</a></h4>
     <a href='https://computerhoy.com/internet/alias-correo-electronico-como-crear-importante-seguridad-1392244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/alias-correo-electronico-como-crear-importante-seguridad-3565497.jpg?tf=1200x' alt='Qué es un alias de correo electrónico, cómo crear uno y por qué es importante para tu seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estados-unidos-prohibe-venta-antivirus-kaspersky-1392075'>Estados Unidos prohíbe la venta de los antivirus Kaspersky</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estados-unidos-prohibe-venta-antivirus-kaspersky-1392075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estados-unidos-tambien-quiere-prohibir-antivirus-kaspersky-3558422.jpg?tf=1200x' alt='Estados Unidos prohíbe la venta de los antivirus Kaspersky' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-1391535'>Estados Unidos quiere poner etiquetas de aviso en TikTok y Facebook: 'Las redes sociales son nocivas para tu salud'</a></h4>
-    <a href='https://computerhoy.com/redes/etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-1391535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estados-unidos-quiere-poner-etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-3536902.jpg?tf=1200x' alt='Estados Unidos quiere poner etiquetas de aviso en TikTok y Facebook: 'Las redes sociales son nocivas para tu salud'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246'>Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ropa-perchas-3565060.jpg?tf=1200x' alt='Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/mayor-debilidad-enfrenta-apple-ia-iphone-1392188'>Esta es la mayor debilidad a la que se enfrenta Apple con la IA de los iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/mayor-debilidad-enfrenta-apple-ia-iphone-1392188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mayor-debilidad-apple-ia-iphone-3562763.jpg?tf=1200x' alt='Esta es la mayor debilidad a la que se enfrenta Apple con la IA de los iPhone' />
     </a>
 </div>
 
