@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/taquilla-desangra-unica-solucion-ven-sony-salvar-cine-1392367'>La taquilla se desangra, y esta es la única solución que ven desde Sony para salvar el cine</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/taquilla-desangra-unica-solucion-ven-sony-salvar-cine-1392367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/taquilla-desangra-unica-solucion-ven-sony-salvar-cine-3583046.jpg?tf=1200x' alt='La taquilla se desangra, y esta es la única solución que ven desde Sony para salvar el cine' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/verdad-detras-procesadores-128-bits-no-veremos-pronto-1391728'>La verdad detrás de los procesadores de 128 bits y por qué no los veremos pronto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/verdad-detras-procesadores-128-bits-no-veremos-pronto-1391728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fabricantes-no-han-creado-procesadores-128-bits-3545576.jpg?tf=1200x' alt='La verdad detrás de los procesadores de 128 bits y por qué no los veremos pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-viene-arriba-cree-robot-optimus-cuidara-hijos-compara-c3po-star-wars-1392446'>Elon Musk se viene arriba: cree que su robot Optimus cuidará de tus hijos, y lo compara con C3PO de Star Wars</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-viene-arriba-cree-robot-optimus-cuidara-hijos-compara-c3po-star-wars-1392446' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/elon-musk-viene-arriba-cree-robot-optimus-cuidara-hijos-compara-c3po-star-wars-3584495.jpg?tf=1200x' alt='Elon Musk se viene arriba: cree que su robot Optimus cuidará de tus hijos, y lo compara con C3PO de Star Wars' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/oneplus-nord-ce4-lite-5g-caracteristicas-precio-informacion-1392464'>OnePlus Nord CE4 Lite 5G llega a España con batería, pantalla y cámara como principales claves</a></h4>
     <a href='https://computerhoy.com/moviles/oneplus-nord-ce4-lite-5g-caracteristicas-precio-informacion-1392464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/oneplus-nord-ce4-lite-5g-3585171.jpg?tf=1200x' alt='OnePlus Nord CE4 Lite 5G llega a España con batería, pantalla y cámara como principales claves' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/utilizas-windows-10-olvidate-wifi-7-microsoft-reserva-cosas-importantes-1392439'>Si utilizas Windows 10, olvídate de WiFi 7: Microsoft lo reserva para "cosas más importantes"</a></h4>
-    <a href='https://computerhoy.com/pc/utilizas-windows-10-olvidate-wifi-7-microsoft-reserva-cosas-importantes-1392439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wi-fi-7-queda-fuera-windows-10-microsoft-reserva-pc-copilot-3584680.jpg?tf=1200x' alt='Si utilizas Windows 10, olvídate de WiFi 7: Microsoft lo reserva para "cosas más importantes"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mirar-videos-jugar-no-son-usos-populares-iphone-estudio-1392327'>Mirar vídeos y jugar no son los usos más populares del iPhone, según este estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mirar-videos-jugar-no-son-usos-populares-iphone-estudio-1392327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/jugar-juegos-movil-3576765.jpg?tf=1200x' alt='Mirar vídeos y jugar no son los usos más populares del iPhone, según este estudio' />
     </a>
 </div>
 
