@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/oneplus-nord-ce4-lite-5g-caracteristicas-precio-informacion-1392464'>OnePlus Nord CE4 Lite 5G llega a España con batería, pantalla y cámara como principales claves</a></h4>
+    <a href='https://computerhoy.com/moviles/oneplus-nord-ce4-lite-5g-caracteristicas-precio-informacion-1392464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/oneplus-nord-ce4-lite-5g-3585171.jpg?tf=1200x' alt='OnePlus Nord CE4 Lite 5G llega a España con batería, pantalla y cámara como principales claves' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/utilizas-windows-10-olvidate-wifi-7-microsoft-reserva-cosas-importantes-1392439'>Si utilizas Windows 10, olvídate de WiFi 7: Microsoft lo reserva para "cosas más importantes"</a></h4>
+    <a href='https://computerhoy.com/pc/utilizas-windows-10-olvidate-wifi-7-microsoft-reserva-cosas-importantes-1392439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wi-fi-7-queda-fuera-windows-10-microsoft-reserva-pc-copilot-3584680.jpg?tf=1200x' alt='Si utilizas Windows 10, olvídate de WiFi 7: Microsoft lo reserva para "cosas más importantes"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mirar-videos-jugar-no-son-usos-populares-iphone-estudio-1392327'>Mirar vídeos y jugar no son los usos más populares del iPhone, según este estudio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mirar-videos-jugar-no-son-usos-populares-iphone-estudio-1392327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/jugar-juegos-movil-3576765.jpg?tf=1200x' alt='Mirar vídeos y jugar no son los usos más populares del iPhone, según este estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/software/15-programas-gratis-windows-que-no-pueden-faltar-tu-pc-73405'>25 programas gratis para Windows que no pueden faltar en tu PC</a></h4>
     <a href='https://computerhoy.com/noticias/software/15-programas-gratis-windows-que-no-pueden-faltar-tu-pc-73405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/25-programas-gratis-windows-no-pueden-faltar-pc-3560162.jpg?tf=1200x' alt='25 programas gratis para Windows que no pueden faltar en tu PC' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/verano-joven-2024-requisitos-como-registrarte-conseguir-descuentos-90-billetes-tren-autobus-1391798'>Verano Joven 2024: requisitos y cómo registrarte para conseguir descuentos de hasta el 90% en billetes de tren y autobús</a></h4>
     <a href='https://computerhoy.com/tutoriales/verano-joven-2024-requisitos-como-registrarte-conseguir-descuentos-90-billetes-tren-autobus-1391798' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verano-joven-2024-3548803.jpg?tf=1200x' alt='Verano Joven 2024: requisitos y cómo registrarte para conseguir descuentos de hasta el 90% en billetes de tren y autobús' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/fallo-windows-permite-hackers-colarse-pc-traves-wifi-1391829'>Un fallo de Windows permite a los hackers colarse en tu PC a través del wifi</a></h4>
-    <a href='https://computerhoy.com/windows/fallo-windows-permite-hackers-colarse-pc-traves-wifi-1391829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hackers-robo-datos-3301689.jpg?tf=1200x' alt='Un fallo de Windows permite a los hackers colarse en tu PC a través del wifi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/logra-ejecutar-windows-xp-mitico-intel-486-gracias-hack-kernel-1392429'>Logra ejecutar Windows XP en el mítico Intel 486 gracias a un hack del kernel</a></h4>
-    <a href='https://computerhoy.com/windows/logra-ejecutar-windows-xp-mitico-intel-486-gracias-hack-kernel-1392429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-xp-3319714.jpg?tf=1200x' alt='Logra ejecutar Windows XP en el mítico Intel 486 gracias a un hack del kernel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/son-realmente-seguras-extensiones-google-descargadas-chrome-web-store-1392438'>¿Son realmente seguras las extensiones de Google descargadas desde Chrome Web Store?</a></h4>
-    <a href='https://computerhoy.com/google/son-realmente-seguras-extensiones-google-descargadas-chrome-web-store-1392438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/son-seguras-extensiones-google-descargadas-chrome-web-store-3584338.jpg?tf=1200x' alt='¿Son realmente seguras las extensiones de Google descargadas desde Chrome Web Store?' />
     </a>
 </div>
 
