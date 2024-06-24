@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-unidades-ipad-no-suele-estar-rebajado-pero-ahora-30-euros-barato-1392363'>Amazon está liquidando unidades del iPad: no suele estar rebajado, pero ahora es 30 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-unidades-ipad-no-suele-estar-rebajado-pero-ahora-30-euros-barato-1392363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ipad-2022-3298863.jpg?tf=1200x' alt='Amazon está liquidando unidades del iPad: no suele estar rebajado, pero ahora es 30 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/western-digita-disena-nuevo-tipo-memoria-flash-nand-50-rapida-1392224'>Western Digita diseña un nuevo tipo de memoria flash NAND hasta un 50% más rápida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/western-digita-disena-nuevo-tipo-memoria-flash-nand-50-rapida-1392224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bics8-2tb-qlc-western-digital-tiene-2tb-50-densidad-memoria-modelo-anterior-3563976.jpg?tf=1200x' alt='Western Digita diseña un nuevo tipo de memoria flash NAND hasta un 50% más rápida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-kodi-smarttv-1153815'>Cómo instalar Kodi en tu SmartTV</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-kodi-smarttv-1153815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/kodi-2869529.jpg?tf=1200x' alt='Cómo instalar Kodi en tu SmartTV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345'>Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI</a></h4>
     <a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-crear-subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-3539675.jpg?tf=1200x' alt='Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ayuno-digital-4-razones-desconectar-movil-vacaciones-1391175'>Ayuno digital: 4 razones para desconectar del móvil en vacaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ayuno-digital-4-razones-desconectar-movil-vacaciones-1391175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ayuno-digital-4-razones-desconectar-movil-vacaciones-3514105.jpg?tf=1200x' alt='Ayuno digital: 4 razones para desconectar del móvil en vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/dji-pocket-2-alternativa-barata-gopro-1363885'>Olvida las GoPro: esta cámara 4K de DJI es mucho más barata ahora mismo en Amazon</a></h4>
-    <a href='https://computerhoy.com/tv/dji-pocket-2-alternativa-barata-gopro-1363885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dji-pocket-2-3547459.jpg?tf=1200x' alt='Olvida las GoPro: esta cámara 4K de DJI es mucho más barata ahora mismo en Amazon' />
     </a>
 </div>
 
