@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-compania-mas-valiosa-mundo-1391911'>Tras superar a Apple, NVIDIA deja atrás a Microsoft, y ya es la compañía más valiosa del mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-compania-mas-valiosa-mundo-1391911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-3045852.jpg?tf=1200x' alt='Tras superar a Apple, NVIDIA deja atrás a Microsoft, y ya es la compañía más valiosa del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-1392513'>Qué es el modo hotel y cómo desactivarlo en una Smart TV LG, Hisense o Samsung</a></h4>
+    <a href='https://computerhoy.com/tv/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-1392513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-3587561.jpg?tf=1200x' alt='Qué es el modo hotel y cómo desactivarlo en una Smart TV LG, Hisense o Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889'>Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más</a></h4>
     <a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-dios-como-activarlo-android-auto-windows-11-alexa-3550784.jpg?tf=1200x' alt='Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-ya-disponible-como-aplicacion-oficial-amazon-fire-tv-1392528'>SkyShowtime ya está disponible como aplicación oficial para los Amazon Fire TV</a></h4>
     <a href='https://computerhoy.com/entretenimiento/skyshowtime-ya-disponible-como-aplicacion-oficial-amazon-fire-tv-1392528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/skyshowtime-3586943.jpg?tf=1200x' alt='SkyShowtime ya está disponible como aplicación oficial para los Amazon Fire TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-obsoleta-orange-pi-barata-tiene-32gb-ram-1392459'>Raspberry Pi está obsoleta: esta Orange Pi es más barata y tiene hasta 32GB de RAM</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-obsoleta-orange-pi-barata-tiene-32gb-ram-1392459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/orange-pi-3585001.jpg?tf=1200x' alt='Raspberry Pi está obsoleta: esta Orange Pi es más barata y tiene hasta 32GB de RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/nube-como-almacenamiento-gran-desperdicio-energetico-ecologico-1392340'>Hasta un 80% de la nube se usa como almacenamiento: un gran desperdicio energético</a></h4>
-    <a href='https://computerhoy.com/internet/nube-como-almacenamiento-gran-desperdicio-energetico-ecologico-1392340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/80-nube-usa-como-almacenamiento-enorme-desperdicio-energetico-ecologico-3578960.jpg?tf=1200x' alt='Hasta un 80% de la nube se usa como almacenamiento: un gran desperdicio energético' />
     </a>
 </div>
 
