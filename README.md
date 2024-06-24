@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/configuraciones-android-auto-no-sabias-necesitabas-cambiar-1392486'>Configuraciones de Android Auto que no sabías que necesitabas cambiar</a></h4>
-    <a href='https://computerhoy.com/android/configuraciones-android-auto-no-sabias-necesitabas-cambiar-1392486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/configuraciones-android-auto-no-sabias-necesitabas-cambiar-3586130.jpg?tf=1200x' alt='Configuraciones de Android Auto que no sabías que necesitabas cambiar' />
+    <h4><a href='https://computerhoy.com/entretenimiento/nos-dejaron-boca-abierta-peliculas-efectos-especiales-cambiaron-cine-1391181'>Nos dejaron con la boca abierta: 5 películas con efectos especiales que cambiaron el cine</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/nos-dejaron-boca-abierta-peliculas-efectos-especiales-cambiaron-cine-1391181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nos-dejaron-boca-abierta-5-peliculas-efectos-especiales-cambiaron-cine-3514251.jpg?tf=1200x' alt='Nos dejaron con la boca abierta: 5 películas con efectos especiales que cambiaron el cine' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ahora-momento-macbook-air-15-m3-200-euros-barato-amazon-1387826'>Ahora es el momento: el MacBook Air de 15" con M3 es 200 euros más barato en Amazon</a></h4>
-    <a href='https://computerhoy.com/apple/ahora-momento-macbook-air-15-m3-200-euros-barato-amazon-1387826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/macbook-air-3245410.jpg?tf=1200x' alt='Ahora es el momento: el MacBook Air de 15" con M3 es 200 euros más barato en Amazon' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-busca-poner-fin-cuentas-locales-eliminar-tutoriales-crearlas-windows-1392431'>Microsoft busca poner fin a las cuentas locales tras eliminar los tutoriales para crearlas en Windows</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-busca-poner-fin-cuentas-locales-eliminar-tutoriales-crearlas-windows-1392431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-trae-nuevo-error-configuracion-suma-ultimo-vpn-3499949.jpg?tf=1200x' alt='Microsoft busca poner fin a las cuentas locales tras eliminar los tutoriales para crearlas en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-vuelve-loco-quiere-eliminar-funciones-favoritas-1391864'>Google Maps se vuelve loco, quiere eliminar una de mis funciones favoritas</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-vuelve-loco-quiere-eliminar-funciones-favoritas-1391864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-vuelve-loco-quiere-eliminar-funciones-favoritas-3549706.jpg?tf=1200x' alt='Google Maps se vuelve loco, quiere eliminar una de mis funciones favoritas' />
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-usa-tim-cook-no-iphone-15-pro-max-1391743'>Este es el iPhone que usa Tim Cook, y no es un iPhone 15 Pro Max</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-usa-tim-cook-no-iphone-15-pro-max-1391743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tim-cook-3546991.jpg?tf=1200x' alt='Este es el iPhone que usa Tim Cook, y no es un iPhone 15 Pro Max' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/cambios-whatsapp-tres-nuevas-funciones-puedes-empezar-usar-1391795'>Cambios en WhatsApp: las tres nuevas funciones que puedes empezar a usar</a></h4>
-    <a href='https://computerhoy.com/redes/cambios-whatsapp-tres-nuevas-funciones-puedes-empezar-usar-1391795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/whatsapp-3548490.jpg?tf=1200x' alt='Cambios en WhatsApp: las tres nuevas funciones que puedes empezar a usar' />
+    <h4><a href='https://computerhoy.com/tecnologia/pesadilla-usuarios-windows-llega-linux-panico-kernel-1391878'>La pesadilla de los usuarios de Windows llega a Linux: "pánico en el kernel"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pesadilla-usuarios-windows-llega-linux-panico-kernel-1391878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pesadilla-usuarios-windows-llega-linux-panico-kernel-3550150.jpg?tf=1200x' alt='La pesadilla de los usuarios de Windows llega a Linux: "pánico en el kernel"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/planes-pasarse-inteligencia-artificial-son-rapidos-pensaba-nuevo-estudio-1392392'>Los planes para pasarse a la inteligencia artificial son más rápidos de lo que se pensaba, según un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/industria/planes-pasarse-inteligencia-artificial-son-rapidos-pensaba-nuevo-estudio-1392392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/planes-pasarse-inteligencia-artificial-son-rapidos-pensaba-nuevo-estudio-3583664.jpg?tf=1200x' alt='Los planes para pasarse a la inteligencia artificial son más rápidos de lo que se pensaba, según un nuevo estudio' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ia-son-burbuja-desinflara-no-sirve-nada-defiende-nuevo-estudio-1391789'>ChatGPT y la IA son una burbuja que se desinflará: “no sirve para nada”, defiende un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ia-son-burbuja-desinflara-no-sirve-nada-defiende-nuevo-estudio-1391789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-ia-son-burbuja-desinflara-no-sirve-nada-defiende-nuevo-estudio-3547729.jpg?tf=1200x' alt='ChatGPT y la IA son una burbuja que se desinflará: “no sirve para nada”, defiende un nuevo estudio' />
     </a>
 </div>
 
