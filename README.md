@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/programa-te-permite-cambiar-ubicacion-barra-tareas-windows-11-facilmente-1391245'>Este programa te permite cambiar la ubicación de la barra de tareas de Windows 11 fácilmente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/programa-te-permite-cambiar-ubicacion-barra-tareas-windows-11-facilmente-1391245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/programa-te-permite-cambiar-ubicacion-barra-tareas-windows-11-facilmente-3518742.jpg?tf=1200x' alt='Este programa te permite cambiar la ubicación de la barra de tareas de Windows 11 fácilmente' />
+    <h4><a href='https://computerhoy.com/tv/dji-pocket-2-alternativa-barata-gopro-1363885'>Olvida las GoPro: esta cámara 4K de DJI es mucho más barata ahora mismo en Amazon</a></h4>
+    <a href='https://computerhoy.com/tv/dji-pocket-2-alternativa-barata-gopro-1363885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dji-pocket-2-3547459.jpg?tf=1200x' alt='Olvida las GoPro: esta cámara 4K de DJI es mucho más barata ahora mismo en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/significa-telefono-demasiado-caliente-android-auto-como-solucionarlo-1391243'>Qué significa "El teléfono está demasiado caliente" en Android Auto y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/significa-telefono-demasiado-caliente-android-auto-como-solucionarlo-1391243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/significa-telefono-demasiado-caliente-android-auto-como-solucionarlo-3518552.jpg?tf=1200x' alt='Qué significa "El teléfono está demasiado caliente" en Android Auto y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-sistema-correccion-postura-frente-ordenador-impulsado-ia-1392300'>Microsoft piensa en un sistema de corrección de postura frente al ordenador impulsado por IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-sistema-correccion-postura-frente-ordenador-impulsado-ia-1392300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/patente-postura-frente-ordenador-microsoft-3571466.jpg?tf=1200x' alt='Microsoft piensa en un sistema de corrección de postura frente al ordenador impulsado por IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-identificar-archivos-espacio-ocupan-disco-duro-1388396'>Así puedes identificar los archivos que más espacio ocupan en tu disco duro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-identificar-archivos-espacio-ocupan-disco-duro-1388396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-identificar-archivos-espacio-ocupan-disco-duro-3392370.jpg?tf=1200x' alt='Así puedes identificar los archivos que más espacio ocupan en tu disco duro' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-1392198'>Este fallo en el firmware está afectando a millones de ordenadores con tecnología Intel de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-1392198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-3563129.jpg?tf=1200x' alt='Este fallo en el firmware está afectando a millones de ordenadores con tecnología Intel de todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-suunto-alternativa-garmin-oferta-amazon-1368768'>Esta marca finlandesa va a por Garmin: uno de sus relojes más top tiene 150 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-suunto-alternativa-garmin-oferta-amazon-1368768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/suunto-9-peak-pro-3061770.jpg?tf=1200x' alt='Esta marca finlandesa va a por Garmin: uno de sus relojes más top tiene 150 euros de descuento' />
+    <h4><a href='https://computerhoy.com/apple/ipad-deberias-comprarte-1392134'>Este es el iPad que deberías comprarte</a></h4>
+    <a href='https://computerhoy.com/apple/ipad-deberias-comprarte-1392134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='Este es el iPad que deberías comprarte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cohete-ariane-6-listo-despegar-1391731'>El cohete Ariane 6, listo para despegar: el fin de la dependencia europea de Estados Unidos y Rusia</a></h4>
-    <a href='https://computerhoy.com/espacio/cohete-ariane-6-listo-despegar-1391731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cohete-ariane-6-listo-despegar-fin-dependencia-europea-estados-unidos-rusia-3545163.jpg?tf=1200x' alt='El cohete Ariane 6, listo para despegar: el fin de la dependencia europea de Estados Unidos y Rusia' />
+    <h4><a href='https://computerhoy.com/moviles/verano-movil-va-sudar-estos-son-trucos-no-sobrecaliente-1391976'>Este verano tu móvil va a sudar, estos son mis trucos para que no se sobrecaliente</a></h4>
+    <a href='https://computerhoy.com/moviles/verano-movil-va-sudar-estos-son-trucos-no-sobrecaliente-1391976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-piscina-3554983.jpg?tf=1200x' alt='Este verano tu móvil va a sudar, estos son mis trucos para que no se sobrecaliente' />
     </a>
 </div>
 
