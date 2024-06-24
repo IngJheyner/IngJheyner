@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-unidades-ipad-no-suele-estar-rebajado-pero-ahora-30-euros-barato-1392363'>Amazon está liquidando unidades del iPad: no suele estar rebajado, pero ahora es 30 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-unidades-ipad-no-suele-estar-rebajado-pero-ahora-30-euros-barato-1392363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ipad-2022-3298863.jpg?tf=1200x' alt='Amazon está liquidando unidades del iPad: no suele estar rebajado, pero ahora es 30 euros más barato' />
+    <h4><a href='https://computerhoy.com/windows/fin-windows-10-podria-tener-efecto-catastrofico-nivel-mundial-1391794'>El fin de Windows 10 podría tener un efecto catastrófico a nivel mundial</a></h4>
+    <a href='https://computerhoy.com/windows/fin-windows-10-podria-tener-efecto-catastrofico-nivel-mundial-1391794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fin-windows-10-podria-tener-efecto-catastrofico-nivel-mundial-3547899.jpg?tf=1200x' alt='El fin de Windows 10 podría tener un efecto catastrófico a nivel mundial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/western-digita-disena-nuevo-tipo-memoria-flash-nand-50-rapida-1392224'>Western Digita diseña un nuevo tipo de memoria flash NAND hasta un 50% más rápida</a></h4>
-    <a href='https://computerhoy.com/tecnologia/western-digita-disena-nuevo-tipo-memoria-flash-nand-50-rapida-1392224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bics8-2tb-qlc-western-digital-tiene-2tb-50-densidad-memoria-modelo-anterior-3563976.jpg?tf=1200x' alt='Western Digita diseña un nuevo tipo de memoria flash NAND hasta un 50% más rápida' />
+    <h4><a href='https://computerhoy.com/google/google-prepara-eliminar-millones-cuentas-gmail-puedes-asegurarte-no-sera-ellas-1392393'>Google se prepara para eliminar millones de cuentas de Gmail: así puedes asegurarte de que la tuya no será una de ellas</a></h4>
+    <a href='https://computerhoy.com/google/google-prepara-eliminar-millones-cuentas-gmail-puedes-asegurarte-no-sera-ellas-1392393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-sigue-eliminado-cuentas-gmail-puedes-asegurarte-no-sera-ellas-3583651.jpg?tf=1200x' alt='Google se prepara para eliminar millones de cuentas de Gmail: así puedes asegurarte de que la tuya no será una de ellas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-kodi-smarttv-1153815'>Cómo instalar Kodi en tu SmartTV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-kodi-smarttv-1153815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/kodi-2869529.jpg?tf=1200x' alt='Cómo instalar Kodi en tu SmartTV' />
+    <h4><a href='https://computerhoy.com/tutoriales/ds4windows-como-configurar-mando-ps4-ps5-jugar-windows-1392072'>DS4Windows: cómo configurar un mando de PS4 o PS5 para jugar en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/ds4windows-como-configurar-mando-ps4-ps5-jugar-windows-1392072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mandos-dualsense-3400620.jpg?tf=1200x' alt='DS4Windows: cómo configurar un mando de PS4 o PS5 para jugar en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/chivatos-carretera-dgt-guardia-civil-vs-whatsapp-telegram-ocurriendo-1391630'>¿Chivatos en la carretera? DGT y Guardia Civil vs. WhatsApp y Telegram: esto es lo que está ocurriendo</a></h4>
-    <a href='https://computerhoy.com/apps/chivatos-carretera-dgt-guardia-civil-vs-whatsapp-telegram-ocurriendo-1391630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/guardia-civil-apps-3541433.jpg?tf=1200x' alt='¿Chivatos en la carretera? DGT y Guardia Civil vs. WhatsApp y Telegram: esto es lo que está ocurriendo' />
+    <h4><a href='https://computerhoy.com/tecnologia/ola-descuentos-miravia-estos-son-mejores-chollos-campana-verano-1392386'>Ola de descuentos en Miravia: estos son los mejores chollos de su campaña de verano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ola-descuentos-miravia-estos-son-mejores-chollos-campana-verano-1392386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/miravia-summer-days-3583497.jpg?tf=1200x' alt='Ola de descuentos en Miravia: estos son los mejores chollos de su campaña de verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345'>Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI</a></h4>
-    <a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-crear-subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-3539675.jpg?tf=1200x' alt='Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI' />
+    <h4><a href='https://computerhoy.com/tv/netflix-prepara-suscripcion-100-gratis-copiando-peor-tdt-1392371'>Netflix prepara una suscripción 100% gratis copiando lo peor de la TDT</a></h4>
+    <a href='https://computerhoy.com/tv/netflix-prepara-suscripcion-100-gratis-copiando-peor-tdt-1392371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-gratis-3583829.jpg?tf=1200x' alt='Netflix prepara una suscripción 100% gratis copiando lo peor de la TDT' />
     </a>
 </div>
 
