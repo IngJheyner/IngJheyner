@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/taquilla-desangra-unica-solucion-ven-sony-salvar-cine-1392367'>La taquilla se desangra, y esta es la única solución que ven desde Sony para salvar el cine</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/taquilla-desangra-unica-solucion-ven-sony-salvar-cine-1392367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/taquilla-desangra-unica-solucion-ven-sony-salvar-cine-3583046.jpg?tf=1200x' alt='La taquilla se desangra, y esta es la única solución que ven desde Sony para salvar el cine' />
+    <h4><a href='https://computerhoy.com/android/configuraciones-android-auto-no-sabias-necesitabas-cambiar-1392486'>Configuraciones de Android Auto que no sabías que necesitabas cambiar</a></h4>
+    <a href='https://computerhoy.com/android/configuraciones-android-auto-no-sabias-necesitabas-cambiar-1392486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/configuraciones-android-auto-no-sabias-necesitabas-cambiar-3586130.jpg?tf=1200x' alt='Configuraciones de Android Auto que no sabías que necesitabas cambiar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/verdad-detras-procesadores-128-bits-no-veremos-pronto-1391728'>La verdad detrás de los procesadores de 128 bits y por qué no los veremos pronto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/verdad-detras-procesadores-128-bits-no-veremos-pronto-1391728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fabricantes-no-han-creado-procesadores-128-bits-3545576.jpg?tf=1200x' alt='La verdad detrás de los procesadores de 128 bits y por qué no los veremos pronto' />
+    <h4><a href='https://computerhoy.com/apple/ahora-momento-macbook-air-15-m3-200-euros-barato-amazon-1387826'>Ahora es el momento: el MacBook Air de 15" con M3 es 200 euros más barato en Amazon</a></h4>
+    <a href='https://computerhoy.com/apple/ahora-momento-macbook-air-15-m3-200-euros-barato-amazon-1387826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/macbook-air-3245410.jpg?tf=1200x' alt='Ahora es el momento: el MacBook Air de 15" con M3 es 200 euros más barato en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-viene-arriba-cree-robot-optimus-cuidara-hijos-compara-c3po-star-wars-1392446'>Elon Musk se viene arriba: cree que su robot Optimus cuidará de tus hijos, y lo compara con C3PO de Star Wars</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-viene-arriba-cree-robot-optimus-cuidara-hijos-compara-c3po-star-wars-1392446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/elon-musk-viene-arriba-cree-robot-optimus-cuidara-hijos-compara-c3po-star-wars-3584495.jpg?tf=1200x' alt='Elon Musk se viene arriba: cree que su robot Optimus cuidará de tus hijos, y lo compara con C3PO de Star Wars' />
+    <h4><a href='https://computerhoy.com/google/google-maps-vuelve-loco-quiere-eliminar-funciones-favoritas-1391864'>Google Maps se vuelve loco, quiere eliminar una de mis funciones favoritas</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-vuelve-loco-quiere-eliminar-funciones-favoritas-1391864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-vuelve-loco-quiere-eliminar-funciones-favoritas-3549706.jpg?tf=1200x' alt='Google Maps se vuelve loco, quiere eliminar una de mis funciones favoritas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usb-pd-como-funciona-importante-carga-movil-1391729'>Qué es USB PD, cómo funciona y por qué es importante para la carga de tu móvil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usb-pd-como-funciona-importante-carga-movil-1391729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usb-pd-como-funciona-importante-carga-movil-3545852.jpg?tf=1200x' alt='Qué es USB PD, cómo funciona y por qué es importante para la carga de tu móvil' />
+    <h4><a href='https://computerhoy.com/redes/cambios-whatsapp-tres-nuevas-funciones-puedes-empezar-usar-1391795'>Cambios en WhatsApp: las tres nuevas funciones que puedes empezar a usar</a></h4>
+    <a href='https://computerhoy.com/redes/cambios-whatsapp-tres-nuevas-funciones-puedes-empezar-usar-1391795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/whatsapp-3548490.jpg?tf=1200x' alt='Cambios en WhatsApp: las tres nuevas funciones que puedes empezar a usar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oneplus-nord-ce4-lite-5g-caracteristicas-precio-informacion-1392464'>OnePlus Nord CE4 Lite 5G llega a España con batería, pantalla y cámara como principales claves</a></h4>
-    <a href='https://computerhoy.com/moviles/oneplus-nord-ce4-lite-5g-caracteristicas-precio-informacion-1392464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/oneplus-nord-ce4-lite-5g-3585171.jpg?tf=1200x' alt='OnePlus Nord CE4 Lite 5G llega a España con batería, pantalla y cámara como principales claves' />
+    <h4><a href='https://computerhoy.com/industria/planes-pasarse-inteligencia-artificial-son-rapidos-pensaba-nuevo-estudio-1392392'>Los planes para pasarse a la inteligencia artificial son más rápidos de lo que se pensaba, según un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/industria/planes-pasarse-inteligencia-artificial-son-rapidos-pensaba-nuevo-estudio-1392392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/planes-pasarse-inteligencia-artificial-son-rapidos-pensaba-nuevo-estudio-3583664.jpg?tf=1200x' alt='Los planes para pasarse a la inteligencia artificial son más rápidos de lo que se pensaba, según un nuevo estudio' />
     </a>
 </div>
 
