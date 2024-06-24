@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-reparar-barra-tareas-windows-cuando-no-oculta-automaticamente-1392526'>Cómo reparar la barra de tareas de Windows cuando no se oculta automáticamente</a></h4>
-    <a href='https://computerhoy.com/windows/como-reparar-barra-tareas-windows-cuando-no-oculta-automaticamente-1392526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/barra-tareas-3022610.jpg?tf=1200x' alt='Cómo reparar la barra de tareas de Windows cuando no se oculta automáticamente' />
+    <h4><a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889'>Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-dios-como-activarlo-android-auto-windows-11-alexa-3550784.jpg?tf=1200x' alt='Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-defender-piensa-has-creado-virus-windows-solo-escribir-linea-1392525'>Microsoft Defender piensa que has creado un virus para Windows solo con escribir una línea</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-defender-piensa-has-creado-virus-windows-solo-escribir-linea-1392525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg?tf=1200x' alt='Microsoft Defender piensa que has creado un virus para Windows solo con escribir una línea' />
+    <h4><a href='https://computerhoy.com/apple/apple-primera-empresa-acusada-infringir-ley-mercados-digitales-1392532'>Apple, la primera empresa acusada de infringir la Ley de Mercados Digitales</a></h4>
+    <a href='https://computerhoy.com/apple/apple-primera-empresa-acusada-infringir-ley-mercados-digitales-1392532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/union-europea-multa-apple-1840-millones-euros-denuncia-spotify-3283253.jpg?tf=1200x' alt='Apple, la primera empresa acusada de infringir la Ley de Mercados Digitales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-suena-pantalla-trasera-iphone-camaras-adicionales-1392302'>Apple sueña con una pantalla trasera en el iPhone y cámaras adicionales</a></h4>
-    <a href='https://computerhoy.com/apple/apple-suena-pantalla-trasera-iphone-camaras-adicionales-1392302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='Apple sueña con una pantalla trasera en el iPhone y cámaras adicionales' />
+    <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-ya-disponible-como-aplicacion-oficial-amazon-fire-tv-1392528'>SkyShowtime ya está disponible como aplicación oficial para los Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/skyshowtime-ya-disponible-como-aplicacion-oficial-amazon-fire-tv-1392528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/skyshowtime-3586943.jpg?tf=1200x' alt='SkyShowtime ya está disponible como aplicación oficial para los Amazon Fire TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/alguien-logra-traer-vuelta-wordpad-windows-11-24h2-ha-logrado-1392436'>Alguien logra traer de vuelta WordPad a Windows 11 24H2: así lo ha logrado</a></h4>
-    <a href='https://computerhoy.com/windows/alguien-logra-traer-vuelta-wordpad-windows-11-24h2-ha-logrado-1392436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-cierra-wordpad-estas-son-mejores-alternativas-gratuitas-3311706.jpg?tf=1200x' alt='Alguien logra traer de vuelta WordPad a Windows 11 24H2: así lo ha logrado' />
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-obsoleta-orange-pi-barata-tiene-32gb-ram-1392459'>Raspberry Pi está obsoleta: esta Orange Pi es más barata y tiene hasta 32GB de RAM</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-obsoleta-orange-pi-barata-tiene-32gb-ram-1392459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/orange-pi-3585001.jpg?tf=1200x' alt='Raspberry Pi está obsoleta: esta Orange Pi es más barata y tiene hasta 32GB de RAM' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-1391689'>Las mejores películas de ciencia ficción españolas que no tienen nada que envidiar a Hollywood</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-1391689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-3542627.jpg?tf=1200x' alt='Las mejores películas de ciencia ficción españolas que no tienen nada que envidiar a Hollywood' />
+    <h4><a href='https://computerhoy.com/internet/nube-como-almacenamiento-gran-desperdicio-energetico-ecologico-1392340'>Hasta un 80% de la nube se usa como almacenamiento: un gran desperdicio energético</a></h4>
+    <a href='https://computerhoy.com/internet/nube-como-almacenamiento-gran-desperdicio-energetico-ecologico-1392340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/80-nube-usa-como-almacenamiento-enorme-desperdicio-energetico-ecologico-3578960.jpg?tf=1200x' alt='Hasta un 80% de la nube se usa como almacenamiento: un gran desperdicio energético' />
     </a>
 </div>
 
