@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/programa-te-permite-cambiar-ubicacion-barra-tareas-windows-11-facilmente-1391245'>Este programa te permite cambiar la ubicación de la barra de tareas de Windows 11 fácilmente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/programa-te-permite-cambiar-ubicacion-barra-tareas-windows-11-facilmente-1391245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/programa-te-permite-cambiar-ubicacion-barra-tareas-windows-11-facilmente-3518742.jpg?tf=1200x' alt='Este programa te permite cambiar la ubicación de la barra de tareas de Windows 11 fácilmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/significa-telefono-demasiado-caliente-android-auto-como-solucionarlo-1391243'>Qué significa "El teléfono está demasiado caliente" en Android Auto y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/significa-telefono-demasiado-caliente-android-auto-como-solucionarlo-1391243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/significa-telefono-demasiado-caliente-android-auto-como-solucionarlo-3518552.jpg?tf=1200x' alt='Qué significa "El teléfono está demasiado caliente" en Android Auto y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-identificar-archivos-espacio-ocupan-disco-duro-1388396'>Así puedes identificar los archivos que más espacio ocupan en tu disco duro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-identificar-archivos-espacio-ocupan-disco-duro-1388396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-identificar-archivos-espacio-ocupan-disco-duro-3392370.jpg?tf=1200x' alt='Así puedes identificar los archivos que más espacio ocupan en tu disco duro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-suunto-alternativa-garmin-oferta-amazon-1368768'>Esta marca finlandesa va a por Garmin: uno de sus relojes más top tiene 150 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-suunto-alternativa-garmin-oferta-amazon-1368768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/suunto-9-peak-pro-3061770.jpg?tf=1200x' alt='Esta marca finlandesa va a por Garmin: uno de sus relojes más top tiene 150 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/cohete-ariane-6-listo-despegar-1391731'>El cohete Ariane 6, listo para despegar: el fin de la dependencia europea de Estados Unidos y Rusia</a></h4>
     <a href='https://computerhoy.com/espacio/cohete-ariane-6-listo-despegar-1391731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cohete-ariane-6-listo-despegar-fin-dependencia-europea-estados-unidos-rusia-3545163.jpg?tf=1200x' alt='El cohete Ariane 6, listo para despegar: el fin de la dependencia europea de Estados Unidos y Rusia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-descubre-roca-blanca-marte-no-deberia-estar-ahi-1392343'>La NASA descubre una roca blanca en Marte, que no debería estar ahí</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-descubre-roca-blanca-marte-no-deberia-estar-ahi-1392343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nasa-descubre-roca-unica-marte-no-deberia-estar-ahi-3580041.jpg?tf=1200x' alt='La NASA descubre una roca blanca en Marte, que no debería estar ahí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/alias-correo-electronico-como-crear-importante-seguridad-1392244'>Qué es un alias de correo electrónico, cómo crear uno y por qué es importante para tu seguridad</a></h4>
-    <a href='https://computerhoy.com/internet/alias-correo-electronico-como-crear-importante-seguridad-1392244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/alias-correo-electronico-como-crear-importante-seguridad-3565497.jpg?tf=1200x' alt='Qué es un alias de correo electrónico, cómo crear uno y por qué es importante para tu seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ia-deepmind-google-crea-banda-sonora-observando-video-1391727'>La IA DeepMind de Google ya crea una banda sonora observando un vídeo</a></h4>
-    <a href='https://computerhoy.com/google/ia-deepmind-google-crea-banda-sonora-observando-video-1391727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-presenta-ia-crea-banda-sonora-observando-video-3544334.jpg?tf=1200x' alt='La IA DeepMind de Google ya crea una banda sonora observando un vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/hoy-cierra-apps-google-usada-millones-personas-1392342'>Hoy cierra una de las apps de Google usada por millones de personas</a></h4>
-    <a href='https://computerhoy.com/google/hoy-cierra-apps-google-usada-millones-personas-1392342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hoy-cierra-apps-google-usada-millones-personas-3579423.jpg?tf=1200x' alt='Hoy cierra una de las apps de Google usada por millones de personas' />
     </a>
 </div>
 
