@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/fin-windows-10-podria-tener-efecto-catastrofico-nivel-mundial-1391794'>El fin de Windows 10 podría tener un efecto catastrófico a nivel mundial</a></h4>
-    <a href='https://computerhoy.com/windows/fin-windows-10-podria-tener-efecto-catastrofico-nivel-mundial-1391794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fin-windows-10-podria-tener-efecto-catastrofico-nivel-mundial-3547899.jpg?tf=1200x' alt='El fin de Windows 10 podría tener un efecto catastrófico a nivel mundial' />
+    <h4><a href='https://computerhoy.com/windows/logra-ejecutar-windows-xp-mitico-intel-486-gracias-hack-kernel-1392429'>Logra ejecutar Windows XP en el mítico Intel 486 gracias a un hack del kernel</a></h4>
+    <a href='https://computerhoy.com/windows/logra-ejecutar-windows-xp-mitico-intel-486-gracias-hack-kernel-1392429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-xp-3319714.jpg?tf=1200x' alt='Logra ejecutar Windows XP en el mítico Intel 486 gracias a un hack del kernel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-prepara-eliminar-millones-cuentas-gmail-puedes-asegurarte-no-sera-ellas-1392393'>Google se prepara para eliminar millones de cuentas de Gmail: así puedes asegurarte de que la tuya no será una de ellas</a></h4>
-    <a href='https://computerhoy.com/google/google-prepara-eliminar-millones-cuentas-gmail-puedes-asegurarte-no-sera-ellas-1392393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-sigue-eliminado-cuentas-gmail-puedes-asegurarte-no-sera-ellas-3583651.jpg?tf=1200x' alt='Google se prepara para eliminar millones de cuentas de Gmail: así puedes asegurarte de que la tuya no será una de ellas' />
+    <h4><a href='https://computerhoy.com/google/son-realmente-seguras-extensiones-google-descargadas-chrome-web-store-1392438'>¿Son realmente seguras las extensiones de Google descargadas desde Chrome Web Store?</a></h4>
+    <a href='https://computerhoy.com/google/son-realmente-seguras-extensiones-google-descargadas-chrome-web-store-1392438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/son-seguras-extensiones-google-descargadas-chrome-web-store-3584338.jpg?tf=1200x' alt='¿Son realmente seguras las extensiones de Google descargadas desde Chrome Web Store?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/ds4windows-como-configurar-mando-ps4-ps5-jugar-windows-1392072'>DS4Windows: cómo configurar un mando de PS4 o PS5 para jugar en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/ds4windows-como-configurar-mando-ps4-ps5-jugar-windows-1392072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mandos-dualsense-3400620.jpg?tf=1200x' alt='DS4Windows: cómo configurar un mando de PS4 o PS5 para jugar en Windows' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-elimina-nuevo-atajos-utilizados-windows-11-1392417'>Microsoft elimina de nuevo uno de los atajos más utilizados de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-elimina-nuevo-atajos-utilizados-windows-11-1392417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-elimina-nuevo-atajos-utilizados-windows-11-3584000.jpg?tf=1200x' alt='Microsoft elimina de nuevo uno de los atajos más utilizados de Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ola-descuentos-miravia-estos-son-mejores-chollos-campana-verano-1392386'>Ola de descuentos en Miravia: estos son los mejores chollos de su campaña de verano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ola-descuentos-miravia-estos-son-mejores-chollos-campana-verano-1392386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/miravia-summer-days-3583497.jpg?tf=1200x' alt='Ola de descuentos en Miravia: estos son los mejores chollos de su campaña de verano' />
+    <h4><a href='https://computerhoy.com/tecnologia/estos-son-lugares-probabilidades-hay-rompa-movil-1392324'>Estos son los lugares en los que más probabilidades hay de que se rompa tu móvil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-son-lugares-probabilidades-hay-rompa-movil-1392324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/uso-movil-bar-3576574.jpg?tf=1200x' alt='Estos son los lugares en los que más probabilidades hay de que se rompa tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/netflix-prepara-suscripcion-100-gratis-copiando-peor-tdt-1392371'>Netflix prepara una suscripción 100% gratis copiando lo peor de la TDT</a></h4>
-    <a href='https://computerhoy.com/tv/netflix-prepara-suscripcion-100-gratis-copiando-peor-tdt-1392371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-gratis-3583829.jpg?tf=1200x' alt='Netflix prepara una suscripción 100% gratis copiando lo peor de la TDT' />
+    <h4><a href='https://computerhoy.com/noticias/motor/5-codigos-desconocidos-carnet-conducir-1070525'>5 códigos poco conocidos que tienen muchos carnets de conducir, y que debes saber qué significan</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/5-codigos-desconocidos-carnet-conducir-1070525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/carnet-conducir-2540475.jpg?tf=1200x' alt='5 códigos poco conocidos que tienen muchos carnets de conducir, y que debes saber qué significan' />
     </a>
 </div>
 
