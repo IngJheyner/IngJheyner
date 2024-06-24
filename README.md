@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/nos-dejaron-boca-abierta-peliculas-efectos-especiales-cambiaron-cine-1391181'>Nos dejaron con la boca abierta: 5 películas con efectos especiales que cambiaron el cine</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/nos-dejaron-boca-abierta-peliculas-efectos-especiales-cambiaron-cine-1391181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nos-dejaron-boca-abierta-5-peliculas-efectos-especiales-cambiaron-cine-3514251.jpg?tf=1200x' alt='Nos dejaron con la boca abierta: 5 películas con efectos especiales que cambiaron el cine' />
+    <h4><a href='https://computerhoy.com/windows/como-reparar-barra-tareas-windows-cuando-no-oculta-automaticamente-1392526'>Cómo reparar la barra de tareas de Windows cuando no se oculta automáticamente</a></h4>
+    <a href='https://computerhoy.com/windows/como-reparar-barra-tareas-windows-cuando-no-oculta-automaticamente-1392526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/barra-tareas-3022610.jpg?tf=1200x' alt='Cómo reparar la barra de tareas de Windows cuando no se oculta automáticamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-busca-poner-fin-cuentas-locales-eliminar-tutoriales-crearlas-windows-1392431'>Microsoft busca poner fin a las cuentas locales tras eliminar los tutoriales para crearlas en Windows</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-busca-poner-fin-cuentas-locales-eliminar-tutoriales-crearlas-windows-1392431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-trae-nuevo-error-configuracion-suma-ultimo-vpn-3499949.jpg?tf=1200x' alt='Microsoft busca poner fin a las cuentas locales tras eliminar los tutoriales para crearlas en Windows' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-defender-piensa-has-creado-virus-windows-solo-escribir-linea-1392525'>Microsoft Defender piensa que has creado un virus para Windows solo con escribir una línea</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-defender-piensa-has-creado-virus-windows-solo-escribir-linea-1392525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg?tf=1200x' alt='Microsoft Defender piensa que has creado un virus para Windows solo con escribir una línea' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-usa-tim-cook-no-iphone-15-pro-max-1391743'>Este es el iPhone que usa Tim Cook, y no es un iPhone 15 Pro Max</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-usa-tim-cook-no-iphone-15-pro-max-1391743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tim-cook-3546991.jpg?tf=1200x' alt='Este es el iPhone que usa Tim Cook, y no es un iPhone 15 Pro Max' />
+    <h4><a href='https://computerhoy.com/apple/apple-suena-pantalla-trasera-iphone-camaras-adicionales-1392302'>Apple sueña con una pantalla trasera en el iPhone y cámaras adicionales</a></h4>
+    <a href='https://computerhoy.com/apple/apple-suena-pantalla-trasera-iphone-camaras-adicionales-1392302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='Apple sueña con una pantalla trasera en el iPhone y cámaras adicionales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pesadilla-usuarios-windows-llega-linux-panico-kernel-1391878'>La pesadilla de los usuarios de Windows llega a Linux: "pánico en el kernel"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pesadilla-usuarios-windows-llega-linux-panico-kernel-1391878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pesadilla-usuarios-windows-llega-linux-panico-kernel-3550150.jpg?tf=1200x' alt='La pesadilla de los usuarios de Windows llega a Linux: "pánico en el kernel"' />
+    <h4><a href='https://computerhoy.com/windows/alguien-logra-traer-vuelta-wordpad-windows-11-24h2-ha-logrado-1392436'>Alguien logra traer de vuelta WordPad a Windows 11 24H2: así lo ha logrado</a></h4>
+    <a href='https://computerhoy.com/windows/alguien-logra-traer-vuelta-wordpad-windows-11-24h2-ha-logrado-1392436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-cierra-wordpad-estas-son-mejores-alternativas-gratuitas-3311706.jpg?tf=1200x' alt='Alguien logra traer de vuelta WordPad a Windows 11 24H2: así lo ha logrado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ia-son-burbuja-desinflara-no-sirve-nada-defiende-nuevo-estudio-1391789'>ChatGPT y la IA son una burbuja que se desinflará: “no sirve para nada”, defiende un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-ia-son-burbuja-desinflara-no-sirve-nada-defiende-nuevo-estudio-1391789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-ia-son-burbuja-desinflara-no-sirve-nada-defiende-nuevo-estudio-3547729.jpg?tf=1200x' alt='ChatGPT y la IA son una burbuja que se desinflará: “no sirve para nada”, defiende un nuevo estudio' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-1391689'>Las mejores películas de ciencia ficción españolas que no tienen nada que envidiar a Hollywood</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-1391689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-3542627.jpg?tf=1200x' alt='Las mejores películas de ciencia ficción españolas que no tienen nada que envidiar a Hollywood' />
     </a>
 </div>
 
