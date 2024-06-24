@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-descubre-roca-blanca-marte-no-deberia-estar-ahi-1392343'>La NASA descubre una roca blanca en Marte, que no debería estar ahí</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-descubre-roca-blanca-marte-no-deberia-estar-ahi-1392343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nasa-descubre-roca-unica-marte-no-deberia-estar-ahi-3580041.jpg?tf=1200x' alt='La NASA descubre una roca blanca en Marte, que no debería estar ahí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/alias-correo-electronico-como-crear-importante-seguridad-1392244'>Qué es un alias de correo electrónico, cómo crear uno y por qué es importante para tu seguridad</a></h4>
     <a href='https://computerhoy.com/internet/alias-correo-electronico-como-crear-importante-seguridad-1392244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/alias-correo-electronico-como-crear-importante-seguridad-3565497.jpg?tf=1200x' alt='Qué es un alias de correo electrónico, cómo crear uno y por qué es importante para tu seguridad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-1391714'>Ni Google Maps ni Waze: esta es la mejor app de navegación en Android Auto para millones de usuarios</a></h4>
     <a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-1391714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-3544196.jpg?tf=1200x' alt='Ni Google Maps ni Waze: esta es la mejor app de navegación en Android Auto para millones de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246'>Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ropa-perchas-3565060.jpg?tf=1200x' alt='Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla' />
     </a>
 </div>
 
