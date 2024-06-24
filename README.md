@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cohete-ariane-6-listo-despegar-1391731'>El cohete Ariane 6, listo para despegar: el fin de la dependencia europea de Estados Unidos y Rusia</a></h4>
+    <a href='https://computerhoy.com/espacio/cohete-ariane-6-listo-despegar-1391731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cohete-ariane-6-listo-despegar-fin-dependencia-europea-estados-unidos-rusia-3545163.jpg?tf=1200x' alt='El cohete Ariane 6, listo para despegar: el fin de la dependencia europea de Estados Unidos y Rusia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-descubre-roca-blanca-marte-no-deberia-estar-ahi-1392343'>La NASA descubre una roca blanca en Marte, que no debería estar ahí</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-descubre-roca-blanca-marte-no-deberia-estar-ahi-1392343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nasa-descubre-roca-unica-marte-no-deberia-estar-ahi-3580041.jpg?tf=1200x' alt='La NASA descubre una roca blanca en Marte, que no debería estar ahí' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/hoy-cierra-apps-google-usada-millones-personas-1392342'>Hoy cierra una de las apps de Google usada por millones de personas</a></h4>
     <a href='https://computerhoy.com/google/hoy-cierra-apps-google-usada-millones-personas-1392342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hoy-cierra-apps-google-usada-millones-personas-3579423.jpg?tf=1200x' alt='Hoy cierra una de las apps de Google usada por millones de personas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-1391714'>Ni Google Maps ni Waze: esta es la mejor app de navegación en Android Auto para millones de usuarios</a></h4>
-    <a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-1391714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-3544196.jpg?tf=1200x' alt='Ni Google Maps ni Waze: esta es la mejor app de navegación en Android Auto para millones de usuarios' />
     </a>
 </div>
 
