@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-kodi-smarttv-1153815'>Cómo instalar Kodi en tu SmartTV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-instalar-kodi-smarttv-1153815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/kodi-2869529.jpg?tf=1200x' alt='Cómo instalar Kodi en tu SmartTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/chivatos-carretera-dgt-guardia-civil-vs-whatsapp-telegram-ocurriendo-1391630'>¿Chivatos en la carretera? DGT y Guardia Civil vs. WhatsApp y Telegram: esto es lo que está ocurriendo</a></h4>
+    <a href='https://computerhoy.com/apps/chivatos-carretera-dgt-guardia-civil-vs-whatsapp-telegram-ocurriendo-1391630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/guardia-civil-apps-3541433.jpg?tf=1200x' alt='¿Chivatos en la carretera? DGT y Guardia Civil vs. WhatsApp y Telegram: esto es lo que está ocurriendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345'>Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI</a></h4>
+    <a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-crear-subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-3539675.jpg?tf=1200x' alt='Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ayuno-digital-4-razones-desconectar-movil-vacaciones-1391175'>Ayuno digital: 4 razones para desconectar del móvil en vacaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ayuno-digital-4-razones-desconectar-movil-vacaciones-1391175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ayuno-digital-4-razones-desconectar-movil-vacaciones-3514105.jpg?tf=1200x' alt='Ayuno digital: 4 razones para desconectar del móvil en vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/dji-pocket-2-alternativa-barata-gopro-1363885'>Olvida las GoPro: esta cámara 4K de DJI es mucho más barata ahora mismo en Amazon</a></h4>
     <a href='https://computerhoy.com/tv/dji-pocket-2-alternativa-barata-gopro-1363885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dji-pocket-2-3547459.jpg?tf=1200x' alt='Olvida las GoPro: esta cámara 4K de DJI es mucho más barata ahora mismo en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-sistema-correccion-postura-frente-ordenador-impulsado-ia-1392300'>Microsoft piensa en un sistema de corrección de postura frente al ordenador impulsado por IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-sistema-correccion-postura-frente-ordenador-impulsado-ia-1392300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/patente-postura-frente-ordenador-microsoft-3571466.jpg?tf=1200x' alt='Microsoft piensa en un sistema de corrección de postura frente al ordenador impulsado por IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-1392198'>Este fallo en el firmware está afectando a millones de ordenadores con tecnología Intel de todo el mundo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-1392198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-3563129.jpg?tf=1200x' alt='Este fallo en el firmware está afectando a millones de ordenadores con tecnología Intel de todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ipad-deberias-comprarte-1392134'>Este es el iPad que deberías comprarte</a></h4>
-    <a href='https://computerhoy.com/apple/ipad-deberias-comprarte-1392134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='Este es el iPad que deberías comprarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/verano-movil-va-sudar-estos-son-trucos-no-sobrecaliente-1391976'>Este verano tu móvil va a sudar, estos son mis trucos para que no se sobrecaliente</a></h4>
-    <a href='https://computerhoy.com/moviles/verano-movil-va-sudar-estos-son-trucos-no-sobrecaliente-1391976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-piscina-3554983.jpg?tf=1200x' alt='Este verano tu móvil va a sudar, estos son mis trucos para que no se sobrecaliente' />
     </a>
 </div>
 
