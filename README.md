@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/como-usar-apple-carplay-motos-1392595'>¿Cómo usar Apple CarPlay para motos?</a></h4>
+    <a href='https://computerhoy.com/motor/como-usar-apple-carplay-motos-1392595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-carplay-moto-3591325.jpg?tf=1200x' alt='¿Cómo usar Apple CarPlay para motos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/ds4windows-como-configurar-mando-ps4-ps5-jugar-windows-1392072'>DS4Windows: cómo configurar un mando de PS4 o PS5 para jugar en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/ds4windows-como-configurar-mando-ps4-ps5-jugar-windows-1392072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mandos-dualsense-3400620.jpg?tf=1200x' alt='DS4Windows: cómo configurar un mando de PS4 o PS5 para jugar en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pendrive-va-150-mb-segundo-cuesta-menos-10-euros-amazon-1392604'>Este pendrive va a 150 MB por segundo y cuesta menos de 10 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pendrive-va-150-mb-segundo-cuesta-menos-10-euros-amazon-1392604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pendirve-sandisk-3591332.jpg?tf=1200x' alt='Este pendrive va a 150 MB por segundo y cuesta menos de 10 euros en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cifra-magica-debes-tener-banco-evitar-problemas-ocu-1392584'>La cifra mágica que debes tener en el banco para evitar problemas, según la OCU</a></h4>
     <a href='https://computerhoy.com/life/cifra-magica-debes-tener-banco-evitar-problemas-ocu-1392584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cifra-magica-debes-tener-banco-evitar-problemas-ocu-3590974.jpg?tf=1200x' alt='La cifra mágica que debes tener en el banco para evitar problemas, según la OCU' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/netflix-prepara-suscripcion-100-gratis-copiando-peor-tdt-1392371'>Netflix prepara una suscripción 100% gratis copiando lo peor de la TDT</a></h4>
     <a href='https://computerhoy.com/tv/netflix-prepara-suscripcion-100-gratis-copiando-peor-tdt-1392371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-gratis-3583829.jpg?tf=1200x' alt='Netflix prepara una suscripción 100% gratis copiando lo peor de la TDT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-1391949'>¿Odias Windows 11 y quieres dar el salto a Windows 12? Piénsatelo dos veces, podría salirte muy caro</a></h4>
-    <a href='https://computerhoy.com/windows/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-1391949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-3554380.jpg?tf=1200x' alt='¿Odias Windows 11 y quieres dar el salto a Windows 12? Piénsatelo dos veces, podría salirte muy caro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-tiene-equipo-ciberseguridad-30-ingenieros-expertos-ponen-temblar-1392585'>Telegram tiene un equipo de ciberseguridad "de unos 30 ingenieros" y los expertos se ponen a temblar</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-tiene-equipo-ciberseguridad-30-ingenieros-expertos-ponen-temblar-1392585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/telegram-pavel-durov-3590991.jpg?tf=1200x' alt='Telegram tiene un equipo de ciberseguridad "de unos 30 ingenieros" y los expertos se ponen a temblar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-guardar-pagina-web-formato-pdf-movil-pc-1391902'>Cómo guardar una página web en formato PDF en móvil y PC</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-guardar-pagina-web-formato-pdf-movil-pc-1391902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-guardar-pagina-web-formato-pdf-movil-pc-3552013.jpg?tf=1200x' alt='Cómo guardar una página web en formato PDF en móvil y PC' />
     </a>
 </div>
 
