@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gpt-5-lanzamiento-novedades-todo-acerca-nuevo-modelo-ia-chatgpt-1392569'>GPT-5: lanzamiento, novedades y todo acerca del nuevo modelo de IA de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/gpt-5-lanzamiento-novedades-todo-acerca-nuevo-modelo-ia-chatgpt-1392569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-gpt-5-3590817.jpg?tf=1200x' alt='GPT-5: lanzamiento, novedades y todo acerca del nuevo modelo de IA de ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/western-digita-disena-nuevo-tipo-memoria-flash-nand-50-rapida-1392224'>Western Digita diseña un nuevo tipo de memoria flash NAND hasta un 50% más rápida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/western-digita-disena-nuevo-tipo-memoria-flash-nand-50-rapida-1392224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bics8-2tb-qlc-western-digital-tiene-2tb-50-densidad-memoria-modelo-anterior-3563976.jpg?tf=1200x' alt='Western Digita diseña un nuevo tipo de memoria flash NAND hasta un 50% más rápida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/impactase-asteroide-tierra-nasa-no-podria-evitarlo-dentro-14-anos-1392558'>Si impactase un asteroide contra la Tierra, la NASA no podría evitarlo hasta dentro de 14 años</a></h4>
     <a href='https://computerhoy.com/espacio/impactase-asteroide-tierra-nasa-no-podria-evitarlo-dentro-14-anos-1392558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asteroide-chocando-tierra-3590815.jpg?tf=1200x' alt='Si impactase un asteroide contra la Tierra, la NASA no podría evitarlo hasta dentro de 14 años' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/significa-lte-barra-cobertura-movil-android-iphone-1391725'>Qué significa LTE en la barra de cobertura de tu móvil Android o iPhone</a></h4>
+    <a href='https://computerhoy.com/redes/significa-lte-barra-cobertura-movil-android-iphone-1391725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/significa-lte-barra-cobertura-movil-android-iphone-3544751.jpg?tf=1200x' alt='Qué significa LTE en la barra de cobertura de tu móvil Android o iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mini-pc-intel-n100-cuesta-apenas-100-euros-perfecto-plex-kodi-juegos-retro-1392509'>Este Mini PC con Intel N100 cuesta apenas 100 euros y es perfecto para Plex, Kodi o juegos retro</a></h4>
     <a href='https://computerhoy.com/tecnologia/mini-pc-intel-n100-cuesta-apenas-100-euros-perfecto-plex-kodi-juegos-retro-1392509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mini-pc-firebat-ak2-plus-pro-3293140.jpg?tf=1200x' alt='Este Mini PC con Intel N100 cuesta apenas 100 euros y es perfecto para Plex, Kodi o juegos retro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/adios-youtube-premium-barato-comienzan-bloquear-cuentas-compradas-turquia-argentina-filipinas-1391937'>Adiós al YouTube Premium barato: comienzan a bloquear cuentas compradas en Turquía, Argentina o Filipinas</a></h4>
-    <a href='https://computerhoy.com/apps/adios-youtube-premium-barato-comienzan-bloquear-cuentas-compradas-turquia-argentina-filipinas-1391937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bloqueo-youtube-3554233.jpg?tf=1200x' alt='Adiós al YouTube Premium barato: comienzan a bloquear cuentas compradas en Turquía, Argentina o Filipinas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/celebra-21o-aniversario-geekom-descuentos-superan-primer-day-1391977'>Celebra el 21º aniversario de Geekom con descuentos que superan al Primer Day </a></h4>
-    <a href='https://computerhoy.com/patrocinado/celebra-21o-aniversario-geekom-descuentos-superan-primer-day-1391977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/geekom-3583155.jpg?tf=1200x' alt='Celebra el 21º aniversario de Geekom con descuentos que superan al Primer Day ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/prueba-guardian-netflix-empleados-temen-trabajar-aqui-1392559'>Qué es la "prueba del guardián" de Netflix y por qué los empleados temen trabajar aquí</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/prueba-guardian-netflix-empleados-temen-trabajar-aqui-1392559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-prueba-trabajo-3590653.jpg?tf=1200x' alt='Qué es la "prueba del guardián" de Netflix y por qué los empleados temen trabajar aquí' />
     </a>
 </div>
 
