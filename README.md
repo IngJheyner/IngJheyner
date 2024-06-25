@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-1392541'>Memoria RAM vs. memoria caché: para qué sirve cada una y en qué se diferencian</a></h4>
-    <a href='https://computerhoy.com/pc/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-1392541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-3590017.jpg?tf=1200x' alt='Memoria RAM vs. memoria caché: para qué sirve cada una y en qué se diferencian' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-fallout-5-peliculas-postapocalipticas-tienes-ver-te-gusto-serie-prime-video-1392507'>Mejores que Fallout: 5 películas postapocalípticas que tienes que ver sí o sí si te gustó la serie de Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-fallout-5-peliculas-postapocalipticas-tienes-ver-te-gusto-serie-prime-video-1392507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mejores-fallout-5-peliculas-postapocalipticas-tienes-ver-te-gusto-serie-prime-video-3586122.jpg?tf=1200x' alt='Mejores que Fallout: 5 películas postapocalípticas que tienes que ver sí o sí si te gustó la serie de Prime Video' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/truco-cinco-veces-movil-podria-salvarte-vida-casi-nadie-conoce-1392037'>El truco de las cinco veces con tu móvil que podría salvarte la vida y que casi nadie conoce</a></h4>
-    <a href='https://computerhoy.com/moviles/truco-cinco-veces-movil-podria-salvarte-vida-casi-nadie-conoce-1392037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/persona-movil-3556964.jpg?tf=1200x' alt='El truco de las cinco veces con tu móvil que podría salvarte la vida y que casi nadie conoce' />
+    <h4><a href='https://computerhoy.com/entretenimiento/nos-dejaron-boca-abierta-peliculas-efectos-especiales-cambiaron-cine-1391181'>Nos dejaron con la boca abierta: 5 películas con efectos especiales que cambiaron el cine</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/nos-dejaron-boca-abierta-peliculas-efectos-especiales-cambiaron-cine-1391181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nos-dejaron-boca-abierta-5-peliculas-efectos-especiales-cambiaron-cine-3514251.jpg?tf=1200x' alt='Nos dejaron con la boca abierta: 5 películas con efectos especiales que cambiaron el cine' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/historia-thermomix-curiosidades-anecdotas-877309'>La historia de la Thermomix: de batidora para sopas al robot de cocina más vendido del mundo</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/historia-thermomix-curiosidades-anecdotas-877309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/historia-thermomix-3578645.jpg?tf=1200x' alt='La historia de la Thermomix: de batidora para sopas al robot de cocina más vendido del mundo' />
+    <h4><a href='https://computerhoy.com/espacio/retrasan-regreso-astronautas-boeing-starliner-miedo-queden-varados-espacio-1392056'>Retrasan el regreso de los astronautas de la Boeing Starliner por miedo a que se queden varados en el espacio</a></h4>
+    <a href='https://computerhoy.com/espacio/retrasan-regreso-astronautas-boeing-starliner-miedo-queden-varados-espacio-1392056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/starliner-3557282.jpg?tf=1200x' alt='Retrasan el regreso de los astronautas de la Boeing Starliner por miedo a que se queden varados en el espacio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-1392029'>Ni prueba de la cerveza ni preguntas trampa, esta es la nueva táctica en las entrevistas de trabajo: invitarte a una fiesta</a></h4>
-    <a href='https://computerhoy.com/life/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-1392029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-3556794.jpg?tf=1200x' alt='Ni prueba de la cerveza ni preguntas trampa, esta es la nueva táctica en las entrevistas de trabajo: invitarte a una fiesta' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-busca-poner-fin-cuentas-locales-eliminar-tutoriales-crearlas-windows-1392431'>Microsoft busca poner fin a las cuentas locales tras eliminar los tutoriales para crearlas en Windows</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-busca-poner-fin-cuentas-locales-eliminar-tutoriales-crearlas-windows-1392431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-trae-nuevo-error-configuracion-suma-ultimo-vpn-3499949.jpg?tf=1200x' alt='Microsoft busca poner fin a las cuentas locales tras eliminar los tutoriales para crearlas en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/motorola-presenta-plegables-razr-50-ultra-razr-50-pantalla-externa-grande-momento-1392660'>Motorola presenta los móviles plegables Razr 50 y Razr 50 Ultra con la pantalla externa más grande del momento</a></h4>
-    <a href='https://computerhoy.com/moviles/motorola-presenta-plegables-razr-50-ultra-razr-50-pantalla-externa-grande-momento-1392660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/motorola-moto-razr-50-ultra-razr-50-3592506.jpg?tf=1200x' alt='Motorola presenta los móviles plegables Razr 50 y Razr 50 Ultra con la pantalla externa más grande del momento' />
+    <h4><a href='https://computerhoy.com/internet/razon-siempre-deberias-activar-modo-incognito-navegador-1392046'>La razón por la que siempre deberías activar el modo incógnito en tu navegador</a></h4>
+    <a href='https://computerhoy.com/internet/razon-siempre-deberias-activar-modo-incognito-navegador-1392046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/razon-siempre-deberias-activar-modo-incognito-navegador-3557279.jpg?tf=1200x' alt='La razón por la que siempre deberías activar el modo incógnito en tu navegador' />
     </a>
 </div>
 
