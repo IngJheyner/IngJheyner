@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/china-rocas-cara-oculta-luna-ya-estan-aqui-1392729'>China adelanta a Estados Unidos: las rocas de la cara oculta de la Luna ya están aquí</a></h4>
+    <a href='https://computerhoy.com/espacio/china-rocas-cara-oculta-luna-ya-estan-aqui-1392729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/china-adelanta-estados-unidos-rocas-cara-oculta-luna-ya-estan-aqui-3594816.jpg?tf=1200x' alt='China adelanta a Estados Unidos: las rocas de la cara oculta de la Luna ya están aquí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-1392513'>Qué es el modo hotel y cómo desactivarlo en una Smart TV LG, Hisense o Samsung</a></h4>
+    <a href='https://computerhoy.com/tv/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-1392513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-3587561.jpg?tf=1200x' alt='Qué es el modo hotel y cómo desactivarlo en una Smart TV LG, Hisense o Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/tapon-pesadilla-botellas-sera-obligatorio-espana-dias-1392725'>El "tapón pesadilla" para botellas será obligatorio en España en unos días</a></h4>
     <a href='https://computerhoy.com/life/tapon-pesadilla-botellas-sera-obligatorio-espana-dias-1392725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/botella-plastico-3594967.jpg?tf=1200x' alt='El "tapón pesadilla" para botellas será obligatorio en España en unos días' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/hdmi-arc-vs-earc-diferencian-sirve-cada-cual-mejor-1392061'>HDMI ARC vs. eARC: en qué se diferencian, para qué sirve cada uno y cuál es mejor</a></h4>
     <a href='https://computerhoy.com/tecnologia/hdmi-arc-vs-earc-diferencian-sirve-cada-cual-mejor-1392061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hdmi-arc-vs-earc-diferencian-sirve-cada-cual-mejor-3557713.jpg?tf=1200x' alt='HDMI ARC vs. eARC: en qué se diferencian, para qué sirve cada uno y cuál es mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-reparar-barra-tareas-windows-cuando-no-oculta-automaticamente-1392526'>Cómo reparar la barra de tareas de Windows cuando no se oculta automáticamente</a></h4>
-    <a href='https://computerhoy.com/windows/como-reparar-barra-tareas-windows-cuando-no-oculta-automaticamente-1392526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/barra-tareas-3022610.jpg?tf=1200x' alt='Cómo reparar la barra de tareas de Windows cuando no se oculta automáticamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-defender-piensa-has-creado-virus-windows-solo-escribir-linea-1392525'>Microsoft Defender piensa que has creado un virus para Windows solo con escribir una línea</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-defender-piensa-has-creado-virus-windows-solo-escribir-linea-1392525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg?tf=1200x' alt='Microsoft Defender piensa que has creado un virus para Windows solo con escribir una línea' />
     </a>
 </div>
 
