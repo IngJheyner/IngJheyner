@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-1392541'>Memoria RAM vs. memoria caché: para qué sirve cada una y en qué se diferencian</a></h4>
+    <a href='https://computerhoy.com/pc/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-1392541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-3590017.jpg?tf=1200x' alt='Memoria RAM vs. memoria caché: para qué sirve cada una y en qué se diferencian' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/truco-cinco-veces-movil-podria-salvarte-vida-casi-nadie-conoce-1392037'>El truco de las cinco veces con tu móvil que podría salvarte la vida y que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/moviles/truco-cinco-veces-movil-podria-salvarte-vida-casi-nadie-conoce-1392037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/persona-movil-3556964.jpg?tf=1200x' alt='El truco de las cinco veces con tu móvil que podría salvarte la vida y que casi nadie conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/historia-thermomix-curiosidades-anecdotas-877309'>La historia de la Thermomix: de batidora para sopas al robot de cocina más vendido del mundo</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/historia-thermomix-curiosidades-anecdotas-877309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/historia-thermomix-3578645.jpg?tf=1200x' alt='La historia de la Thermomix: de batidora para sopas al robot de cocina más vendido del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-1392029'>Ni prueba de la cerveza ni preguntas trampa, esta es la nueva táctica en las entrevistas de trabajo: invitarte a una fiesta</a></h4>
+    <a href='https://computerhoy.com/life/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-1392029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-prueba-cerveza-ni-preguntas-trampa-nueva-tactica-entrevistas-trabajo-invitarte-fiesta-3556794.jpg?tf=1200x' alt='Ni prueba de la cerveza ni preguntas trampa, esta es la nueva táctica en las entrevistas de trabajo: invitarte a una fiesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/motorola-presenta-plegables-razr-50-ultra-razr-50-pantalla-externa-grande-momento-1392660'>Motorola presenta los móviles plegables Razr 50 y Razr 50 Ultra con la pantalla externa más grande del momento</a></h4>
     <a href='https://computerhoy.com/moviles/motorola-presenta-plegables-razr-50-ultra-razr-50-pantalla-externa-grande-momento-1392660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/motorola-moto-razr-50-ultra-razr-50-3592506.jpg?tf=1200x' alt='Motorola presenta los móviles plegables Razr 50 y Razr 50 Ultra con la pantalla externa más grande del momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802'>Usos legales por los que merece la pena comprar un Flipper Zero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/usos-legales-merece-pena-mucho-comprar-flipper-zero-3269345.jpg?tf=1200x' alt='Usos legales por los que merece la pena comprar un Flipper Zero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bizum-principiantes-como-funciona-como-crear-cuenta-enviar-recibir-dinero-1135577'>Bizum para principiantes: qué es, cómo funciona y cómo enviar y recibir dinero</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/bizum-principiantes-como-funciona-como-crear-cuenta-enviar-recibir-dinero-1135577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bizum-3578486.jpg?tf=1200x' alt='Bizum para principiantes: qué es, cómo funciona y cómo enviar y recibir dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-emuladores-android-pc-952245'>Los 12 mejores emuladores Android para PC</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-emuladores-android-pc-952245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/12-mejores-emuladores-android-pc-3590328.jpg?tf=1200x' alt='Los 12 mejores emuladores Android para PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ocu-no-ve-claro-no-convence-inteligencia-artificial-apple-1392592'>La OCU no lo ve claro: esto es lo que no le convence de la inteligencia artificial de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ocu-no-ve-claro-no-convence-inteligencia-artificial-apple-1392592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ocu-no-ve-claro-no-convence-inteligencia-artificial-apple-3590978.jpg?tf=1200x' alt='La OCU no lo ve claro: esto es lo que no le convence de la inteligencia artificial de Apple' />
     </a>
 </div>
 
