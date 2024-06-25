@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fecha-ia-dejara-necesitar-humanos-experto-1392182'>Esta es la fecha en la que la IA dejará de necesitar a los humanos, según un experto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fecha-ia-dejara-necesitar-humanos-experto-1392182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fecha-ia-dejara-necesitar-humanos-experto-3562595.jpg?tf=1200x' alt='Esta es la fecha en la que la IA dejará de necesitar a los humanos, según un experto' />
+    <h4><a href='https://computerhoy.com/tecnologia/receptor-hd-tdt-rebajado-top-venta-amazon-1382111'>La TDT en Full HD y sin apenas ocupar espacio: este stick ultracompacto es de lo más vendido en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/receptor-hd-tdt-rebajado-top-venta-amazon-1382111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mini-decodificador-digital-trevi-he-3361-t2-3304180.jpg?tf=1200x' alt='La TDT en Full HD y sin apenas ocupar espacio: este stick ultracompacto es de lo más vendido en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-1391653'>¿No puedes dormir en verano? El truco viral de TikTok para hacerlo en un minuto</a></h4>
-    <a href='https://computerhoy.com/life/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-1391653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-3541886.jpg?tf=1200x' alt='¿No puedes dormir en verano? El truco viral de TikTok para hacerlo en un minuto' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-sistema-correccion-postura-frente-ordenador-impulsado-ia-1392300'>Microsoft piensa en un sistema de corrección de postura frente al ordenador impulsado por IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-sistema-correccion-postura-frente-ordenador-impulsado-ia-1392300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/patente-postura-frente-ordenador-microsoft-3571466.jpg?tf=1200x' alt='Microsoft piensa en un sistema de corrección de postura frente al ordenador impulsado por IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/ajustes-debes-hacer-barra-sonido-mejorar-audio-televisor-1385168'>5 ajustes que debes hacer en tu barra de sonido para mejorar el audio de tu televisor</a></h4>
-    <a href='https://computerhoy.com/audio/ajustes-debes-hacer-barra-sonido-mejorar-audio-televisor-1385168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/barra-sonido-3309857.jpg?tf=1200x' alt='5 ajustes que debes hacer en tu barra de sonido para mejorar el audio de tu televisor' />
+    <h4><a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544'>Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer</a></h4>
+    <a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/denuncia-apple-porque-mensajes-infidelidad-borrados-acabaron-mac-mujer-3589553.jpg?tf=1200x' alt='Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-identificar-archivos-espacio-ocupan-disco-duro-1388396'>Así puedes identificar los archivos que más espacio ocupan en tu disco duro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-identificar-archivos-espacio-ocupan-disco-duro-1388396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-identificar-archivos-espacio-ocupan-disco-duro-3392370.jpg?tf=1200x' alt='Así puedes identificar los archivos que más espacio ocupan en tu disco duro' />
+    <h4><a href='https://computerhoy.com/apple/ipad-deberias-comprarte-1392134'>Este es el iPad que deberías comprarte</a></h4>
+    <a href='https://computerhoy.com/apple/ipad-deberias-comprarte-1392134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='Este es el iPad que deberías comprarte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lenovo-x5-mp3-conduccion-osea-natacion-oferta-aliexpress-1356256'>Este MP3 acuático de conducción ósea es ideal para la playa y el verano: se moja y es increíblemente barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lenovo-x5-mp3-conduccion-osea-natacion-oferta-aliexpress-1356256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-x5-3297332.jpg?tf=1200x' alt='Este MP3 acuático de conducción ósea es ideal para la playa y el verano: se moja y es increíblemente barato' />
+    <h4><a href='https://computerhoy.com/pc/me-ha-gustado-huawei-matebook-14-relacion-calidad-precio-1392380'>Se dice mucho, pero es verdad: Lo que más me ha gustado del Huawei Matebook 14 es su relación calidad-precio</a></h4>
+    <a href='https://computerhoy.com/pc/me-ha-gustado-huawei-matebook-14-relacion-calidad-precio-1392380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-matebook-14-2024-3569659.jpg?tf=1200x' alt='Se dice mucho, pero es verdad: Lo que más me ha gustado del Huawei Matebook 14 es su relación calidad-precio' />
     </a>
 </div>
 
