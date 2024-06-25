@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hdmi-arc-vs-earc-diferencian-sirve-cada-cual-mejor-1392061'>HDMI ARC vs. eARC: en qué se diferencian, para qué sirve cada uno y cuál es mejor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hdmi-arc-vs-earc-diferencian-sirve-cada-cual-mejor-1392061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hdmi-arc-vs-earc-diferencian-sirve-cada-cual-mejor-3557713.jpg?tf=1200x' alt='HDMI ARC vs. eARC: en qué se diferencian, para qué sirve cada uno y cuál es mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/como-reparar-barra-tareas-windows-cuando-no-oculta-automaticamente-1392526'>Cómo reparar la barra de tareas de Windows cuando no se oculta automáticamente</a></h4>
     <a href='https://computerhoy.com/windows/como-reparar-barra-tareas-windows-cuando-no-oculta-automaticamente-1392526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/barra-tareas-3022610.jpg?tf=1200x' alt='Cómo reparar la barra de tareas de Windows cuando no se oculta automáticamente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/alguien-logra-traer-vuelta-wordpad-windows-11-24h2-ha-logrado-1392436'>Alguien logra traer de vuelta WordPad a Windows 11 24H2: así lo ha logrado</a></h4>
     <a href='https://computerhoy.com/windows/alguien-logra-traer-vuelta-wordpad-windows-11-24h2-ha-logrado-1392436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-cierra-wordpad-estas-son-mejores-alternativas-gratuitas-3311706.jpg?tf=1200x' alt='Alguien logra traer de vuelta WordPad a Windows 11 24H2: así lo ha logrado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intel-sigue-ofrecer-solucion-inestabilidad-cpu-problemas-persisten-1392645'>Intel sigue sin ofrecer solución a la inestabilidad de sus CPU y los problemas persisten</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intel-sigue-ofrecer-solucion-inestabilidad-cpu-problemas-persisten-1392645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/InteldespediraamilesdeempleadosporlasbajasventasdePCsegunBloomberg_166559458269231614.jpg?tf=1200x' alt='Intel sigue sin ofrecer solución a la inestabilidad de sus CPU y los problemas persisten' />
     </a>
 </div>
 
