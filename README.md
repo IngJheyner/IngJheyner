@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-viene-arriba-cree-robot-optimus-cuidara-hijos-compara-c3po-star-wars-1392446'>Elon Musk se viene arriba: cree que su robot Optimus cuidará de tus hijos, y lo compara con C3PO de Star Wars</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-viene-arriba-cree-robot-optimus-cuidara-hijos-compara-c3po-star-wars-1392446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/elon-musk-viene-arriba-cree-robot-optimus-cuidara-hijos-compara-c3po-star-wars-3584495.jpg?tf=1200x' alt='Elon Musk se viene arriba: cree que su robot Optimus cuidará de tus hijos, y lo compara con C3PO de Star Wars' />
+    <h4><a href='https://computerhoy.com/moviles/motorola-presenta-plegables-razr-50-ultra-razr-50-pantalla-externa-grande-momento-1392660'>Motorola presenta los móviles plegables Razr 50 y Razr 50 Ultra con la pantalla externa más grande del momento</a></h4>
+    <a href='https://computerhoy.com/moviles/motorola-presenta-plegables-razr-50-ultra-razr-50-pantalla-externa-grande-momento-1392660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/motorola-moto-razr-50-ultra-razr-50-3592506.jpg?tf=1200x' alt='Motorola presenta los móviles plegables Razr 50 y Razr 50 Ultra con la pantalla externa más grande del momento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tomas-demasiadas-fotos-movil-quiza-no-sea-bueno-recuerdos-1379885'>¿Tomas demasiadas fotos con el móvil? Quizá no sea bueno para tus recuerdos</a></h4>
-    <a href='https://computerhoy.com/moviles/tomas-demasiadas-fotos-movil-quiza-no-sea-bueno-recuerdos-1379885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tomas-demasiadas-fotos-movil-quiza-no-sea-demasiado-bueno-recuerdos-3300272.jpg?tf=1200x' alt='¿Tomas demasiadas fotos con el móvil? Quizá no sea bueno para tus recuerdos' />
+    <h4><a href='https://computerhoy.com/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802'>Usos legales por los que merece la pena comprar un Flipper Zero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/usos-legales-merece-pena-mucho-comprar-flipper-zero-3269345.jpg?tf=1200x' alt='Usos legales por los que merece la pena comprar un Flipper Zero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/errores-comunes-debes-evitar-salir-casa-1390452'>9 errores comunes que debes evitar al salir de casa</a></h4>
-    <a href='https://computerhoy.com/hogar/errores-comunes-debes-evitar-salir-casa-1390452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/salir-puerta-casa-3592008.jpg?tf=1200x' alt='9 errores comunes que debes evitar al salir de casa' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bizum-principiantes-como-funciona-como-crear-cuenta-enviar-recibir-dinero-1135577'>Bizum para principiantes: qué es, cómo funciona y cómo enviar y recibir dinero</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/bizum-principiantes-como-funciona-como-crear-cuenta-enviar-recibir-dinero-1135577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bizum-3578486.jpg?tf=1200x' alt='Bizum para principiantes: qué es, cómo funciona y cómo enviar y recibir dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/utilizas-windows-10-olvidate-wifi-7-microsoft-reserva-cosas-importantes-1392439'>Si utilizas Windows 10, olvídate de WiFi 7: Microsoft lo reserva para "cosas más importantes"</a></h4>
-    <a href='https://computerhoy.com/pc/utilizas-windows-10-olvidate-wifi-7-microsoft-reserva-cosas-importantes-1392439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wi-fi-7-queda-fuera-windows-10-microsoft-reserva-pc-copilot-3584680.jpg?tf=1200x' alt='Si utilizas Windows 10, olvídate de WiFi 7: Microsoft lo reserva para "cosas más importantes"' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-emuladores-android-pc-952245'>Los 12 mejores emuladores Android para PC</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/10-mejores-emuladores-android-pc-952245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/12-mejores-emuladores-android-pc-3590328.jpg?tf=1200x' alt='Los 12 mejores emuladores Android para PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mirar-videos-jugar-no-son-usos-populares-iphone-estudio-1392327'>Mirar vídeos y jugar no son los usos más populares del iPhone, según este estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mirar-videos-jugar-no-son-usos-populares-iphone-estudio-1392327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/jugar-juegos-movil-3576765.jpg?tf=1200x' alt='Mirar vídeos y jugar no son los usos más populares del iPhone, según este estudio' />
+    <h4><a href='https://computerhoy.com/tecnologia/ocu-no-ve-claro-no-convence-inteligencia-artificial-apple-1392592'>La OCU no lo ve claro: esto es lo que no le convence de la inteligencia artificial de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ocu-no-ve-claro-no-convence-inteligencia-artificial-apple-1392592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ocu-no-ve-claro-no-convence-inteligencia-artificial-apple-3590978.jpg?tf=1200x' alt='La OCU no lo ve claro: esto es lo que no le convence de la inteligencia artificial de Apple' />
     </a>
 </div>
 
