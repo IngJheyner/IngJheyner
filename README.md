@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/como-usar-apple-carplay-motos-1392595'>¿Cómo usar Apple CarPlay para motos?</a></h4>
-    <a href='https://computerhoy.com/motor/como-usar-apple-carplay-motos-1392595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-carplay-moto-3591325.jpg?tf=1200x' alt='¿Cómo usar Apple CarPlay para motos?' />
+    <h4><a href='https://computerhoy.com/windows/logra-ejecutar-windows-xp-mitico-intel-486-gracias-hack-kernel-1392429'>Logra ejecutar Windows XP en el mítico Intel 486 gracias a un hack del kernel</a></h4>
+    <a href='https://computerhoy.com/windows/logra-ejecutar-windows-xp-mitico-intel-486-gracias-hack-kernel-1392429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-xp-3319714.jpg?tf=1200x' alt='Logra ejecutar Windows XP en el mítico Intel 486 gracias a un hack del kernel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/ds4windows-como-configurar-mando-ps4-ps5-jugar-windows-1392072'>DS4Windows: cómo configurar un mando de PS4 o PS5 para jugar en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/ds4windows-como-configurar-mando-ps4-ps5-jugar-windows-1392072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mandos-dualsense-3400620.jpg?tf=1200x' alt='DS4Windows: cómo configurar un mando de PS4 o PS5 para jugar en Windows' />
+    <h4><a href='https://computerhoy.com/google/son-realmente-seguras-extensiones-google-descargadas-chrome-web-store-1392438'>¿Son realmente seguras las extensiones de Google descargadas desde Chrome Web Store?</a></h4>
+    <a href='https://computerhoy.com/google/son-realmente-seguras-extensiones-google-descargadas-chrome-web-store-1392438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/son-seguras-extensiones-google-descargadas-chrome-web-store-3584338.jpg?tf=1200x' alt='¿Son realmente seguras las extensiones de Google descargadas desde Chrome Web Store?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pendrive-va-150-mb-segundo-cuesta-menos-10-euros-amazon-1392604'>Este pendrive va a 150 MB por segundo y cuesta menos de 10 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pendrive-va-150-mb-segundo-cuesta-menos-10-euros-amazon-1392604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pendirve-sandisk-3591332.jpg?tf=1200x' alt='Este pendrive va a 150 MB por segundo y cuesta menos de 10 euros en Amazon' />
+    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-consigue-resolver-misterio-medio-siglo-investigacion-estrella-wl-20s-1391975'>El telescopio James Webb consigue resolver un misterio tras más de medio siglo de investigación: la estrella WL 20S</a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-james-webb-consigue-resolver-misterio-medio-siglo-investigacion-estrella-wl-20s-1391975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/telescopio-james-webb-ha-fotografiado-estrellas-jovenes-conocen-3554984.jpg?tf=1200x' alt='El telescopio James Webb consigue resolver un misterio tras más de medio siglo de investigación: la estrella WL 20S' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cifra-magica-debes-tener-banco-evitar-problemas-ocu-1392584'>La cifra mágica que debes tener en el banco para evitar problemas, según la OCU</a></h4>
-    <a href='https://computerhoy.com/life/cifra-magica-debes-tener-banco-evitar-problemas-ocu-1392584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cifra-magica-debes-tener-banco-evitar-problemas-ocu-3590974.jpg?tf=1200x' alt='La cifra mágica que debes tener en el banco para evitar problemas, según la OCU' />
+    <h4><a href='https://computerhoy.com/malos-habitos-conducir-google-maps-te-hacen-gastar-gasolina-1392605'>Malos hábitos al conducir (y con Google Maps) que te hacen gastar más gasolina</a></h4>
+    <a href='https://computerhoy.com/malos-habitos-conducir-google-maps-te-hacen-gastar-gasolina-1392605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/malos-habitos-coche-gasolina-3591501.jpg?tf=1200x' alt='Malos hábitos al conducir (y con Google Maps) que te hacen gastar más gasolina' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/netflix-prepara-suscripcion-100-gratis-copiando-peor-tdt-1392371'>Netflix prepara una suscripción 100% gratis copiando lo peor de la TDT</a></h4>
-    <a href='https://computerhoy.com/tv/netflix-prepara-suscripcion-100-gratis-copiando-peor-tdt-1392371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-gratis-3583829.jpg?tf=1200x' alt='Netflix prepara una suscripción 100% gratis copiando lo peor de la TDT' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-elimina-nuevo-atajos-utilizados-windows-11-1392417'>Microsoft elimina de nuevo uno de los atajos más utilizados de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-elimina-nuevo-atajos-utilizados-windows-11-1392417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-elimina-nuevo-atajos-utilizados-windows-11-3584000.jpg?tf=1200x' alt='Microsoft elimina de nuevo uno de los atajos más utilizados de Windows 11' />
     </a>
 </div>
 
