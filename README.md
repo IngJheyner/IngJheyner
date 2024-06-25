@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portaventura-estrena-pawla-ia-parque-atracciones-1392562'>PortAventura estrena Pawla, la IA que te guiará en el parque de atracciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portaventura-estrena-pawla-ia-parque-atracciones-1392562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/portaventura-estrena-pawla-ia-te-guiara-parque-atracciones-3590174.jpg?tf=1200x' alt='PortAventura estrena Pawla, la IA que te guiará en el parque de atracciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345'>Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI</a></h4>
+    <a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-crear-subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-3539675.jpg?tf=1200x' alt='Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/receptor-hd-tdt-rebajado-top-venta-amazon-1382111'>La TDT en Full HD y sin apenas ocupar espacio: este stick ultracompacto es de lo más vendido en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/receptor-hd-tdt-rebajado-top-venta-amazon-1382111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mini-decodificador-digital-trevi-he-3361-t2-3304180.jpg?tf=1200x' alt='La TDT en Full HD y sin apenas ocupar espacio: este stick ultracompacto es de lo más vendido en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544'>Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer</a></h4>
     <a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/denuncia-apple-porque-mensajes-infidelidad-borrados-acabaron-mac-mujer-3589553.jpg?tf=1200x' alt='Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ipad-deberias-comprarte-1392134'>Este es el iPad que deberías comprarte</a></h4>
-    <a href='https://computerhoy.com/apple/ipad-deberias-comprarte-1392134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='Este es el iPad que deberías comprarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/me-ha-gustado-huawei-matebook-14-relacion-calidad-precio-1392380'>Se dice mucho, pero es verdad: Lo que más me ha gustado del Huawei Matebook 14 es su relación calidad-precio</a></h4>
-    <a href='https://computerhoy.com/pc/me-ha-gustado-huawei-matebook-14-relacion-calidad-precio-1392380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-matebook-14-2024-3569659.jpg?tf=1200x' alt='Se dice mucho, pero es verdad: Lo que más me ha gustado del Huawei Matebook 14 es su relación calidad-precio' />
     </a>
 </div>
 
