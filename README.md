@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/piensatelo-dos-veces-antes-llevarte-toalla-albornoz-hotel-estas-vacaciones-1391867'>Piénsatelo dos veces antes de llevarte la toalla o el albornoz del hotel estas vacaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/piensatelo-dos-veces-antes-llevarte-toalla-albornoz-hotel-estas-vacaciones-1391867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hombre-tumbado-albornoz-3549553.jpg?tf=1200x' alt='Piénsatelo dos veces antes de llevarte la toalla o el albornoz del hotel estas vacaciones' />
+    <h4><a href='https://computerhoy.com/tecnologia/fecha-ia-dejara-necesitar-humanos-experto-1392182'>Esta es la fecha en la que la IA dejará de necesitar a los humanos, según un experto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fecha-ia-dejara-necesitar-humanos-experto-1392182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fecha-ia-dejara-necesitar-humanos-experto-3562595.jpg?tf=1200x' alt='Esta es la fecha en la que la IA dejará de necesitar a los humanos, según un experto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/vuelo-comercial-mas-corto-mundo-1392539'>El vuelo comercial más corto del mundo dura solo 80 segundos</a></h4>
-    <a href='https://computerhoy.com/motor/vuelo-comercial-mas-corto-mundo-1392539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vuelo-comercial-corto-mundo-dura-solo-80-segundos-3588173.jpg?tf=1200x' alt='El vuelo comercial más corto del mundo dura solo 80 segundos' />
+    <h4><a href='https://computerhoy.com/life/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-1391653'>¿No puedes dormir en verano? El truco viral de TikTok para hacerlo en un minuto</a></h4>
+    <a href='https://computerhoy.com/life/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-1391653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-puedes-dormir-verano-truco-viral-tiktok-hacerlo-minuto-3541886.jpg?tf=1200x' alt='¿No puedes dormir en verano? El truco viral de TikTok para hacerlo en un minuto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-1392536'>Cosas que puedes hacer (o no) con Flipper Zero, el tamagotchi para hackers</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-1392536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-3588630.jpg?tf=1200x' alt='Cosas que puedes hacer (o no) con Flipper Zero, el tamagotchi para hackers' />
+    <h4><a href='https://computerhoy.com/audio/ajustes-debes-hacer-barra-sonido-mejorar-audio-televisor-1385168'>5 ajustes que debes hacer en tu barra de sonido para mejorar el audio de tu televisor</a></h4>
+    <a href='https://computerhoy.com/audio/ajustes-debes-hacer-barra-sonido-mejorar-audio-televisor-1385168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/barra-sonido-3309857.jpg?tf=1200x' alt='5 ajustes que debes hacer en tu barra de sonido para mejorar el audio de tu televisor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/aparecen-docenas-cybertruck-pintadas-insultan-elon-musk-1392534'>Aparecen docenas de Cybertruck con pintadas que insultan a Elon Musk</a></h4>
-    <a href='https://computerhoy.com/motor/aparecen-docenas-cybertruck-pintadas-insultan-elon-musk-1392534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/aparecen-docenas-cybertruck-pintadas-insultan-elon-musk-3587408.jpg?tf=1200x' alt='Aparecen docenas de Cybertruck con pintadas que insultan a Elon Musk' />
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-identificar-archivos-espacio-ocupan-disco-duro-1388396'>Así puedes identificar los archivos que más espacio ocupan en tu disco duro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-identificar-archivos-espacio-ocupan-disco-duro-1388396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-identificar-archivos-espacio-ocupan-disco-duro-3392370.jpg?tf=1200x' alt='Así puedes identificar los archivos que más espacio ocupan en tu disco duro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-compania-mas-valiosa-mundo-1391911'>Tras superar a Apple, NVIDIA deja atrás a Microsoft, y ya es la compañía más valiosa del mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-compania-mas-valiosa-mundo-1391911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-3045852.jpg?tf=1200x' alt='Tras superar a Apple, NVIDIA deja atrás a Microsoft, y ya es la compañía más valiosa del mundo' />
+    <h4><a href='https://computerhoy.com/tecnologia/lenovo-x5-mp3-conduccion-osea-natacion-oferta-aliexpress-1356256'>Este MP3 acuático de conducción ósea es ideal para la playa y el verano: se moja y es increíblemente barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lenovo-x5-mp3-conduccion-osea-natacion-oferta-aliexpress-1356256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-x5-3297332.jpg?tf=1200x' alt='Este MP3 acuático de conducción ósea es ideal para la playa y el verano: se moja y es increíblemente barato' />
     </a>
 </div>
 
