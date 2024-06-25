@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/vuelo-comercial-mas-corto-mundo-1392539'>El vuelo comercial más corto del mundo dura solo 80 segundos</a></h4>
+    <a href='https://computerhoy.com/motor/vuelo-comercial-mas-corto-mundo-1392539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vuelo-comercial-corto-mundo-dura-solo-80-segundos-3588173.jpg?tf=1200x' alt='El vuelo comercial más corto del mundo dura solo 80 segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-1392536'>Cosas que puedes hacer (o no) con Flipper Zero, el tamagotchi para hackers</a></h4>
     <a href='https://computerhoy.com/tecnologia/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-1392536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-3588630.jpg?tf=1200x' alt='Cosas que puedes hacer (o no) con Flipper Zero, el tamagotchi para hackers' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-1392513'>Qué es el modo hotel y cómo desactivarlo en una Smart TV LG, Hisense o Samsung</a></h4>
     <a href='https://computerhoy.com/tv/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-1392513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-3587561.jpg?tf=1200x' alt='Qué es el modo hotel y cómo desactivarlo en una Smart TV LG, Hisense o Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889'>Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-dios-como-activarlo-android-auto-windows-11-alexa-3550784.jpg?tf=1200x' alt='Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más' />
     </a>
 </div>
 
