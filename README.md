@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tapon-pesadilla-botellas-sera-obligatorio-espana-dias-1392725'>El "tapón pesadilla" para botellas será obligatorio en España en unos días</a></h4>
+    <a href='https://computerhoy.com/life/tapon-pesadilla-botellas-sera-obligatorio-espana-dias-1392725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/botella-plastico-3594967.jpg?tf=1200x' alt='El "tapón pesadilla" para botellas será obligatorio en España en unos días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724'>Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar</a></h4>
+    <a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-store-3594966.jpg?tf=1200x' alt='Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/hdmi-arc-vs-earc-diferencian-sirve-cada-cual-mejor-1392061'>HDMI ARC vs. eARC: en qué se diferencian, para qué sirve cada uno y cuál es mejor</a></h4>
     <a href='https://computerhoy.com/tecnologia/hdmi-arc-vs-earc-diferencian-sirve-cada-cual-mejor-1392061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hdmi-arc-vs-earc-diferencian-sirve-cada-cual-mejor-3557713.jpg?tf=1200x' alt='HDMI ARC vs. eARC: en qué se diferencian, para qué sirve cada uno y cuál es mejor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-defender-piensa-has-creado-virus-windows-solo-escribir-linea-1392525'>Microsoft Defender piensa que has creado un virus para Windows solo con escribir una línea</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-defender-piensa-has-creado-virus-windows-solo-escribir-linea-1392525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg?tf=1200x' alt='Microsoft Defender piensa que has creado un virus para Windows solo con escribir una línea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/made-by-google-13-agosto-2024-1392721'>Made by Google se adelanta al 13 de agosto: esto es lo que presentará</a></h4>
-    <a href='https://computerhoy.com/google/made-by-google-13-agosto-2024-1392721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/made-google-adelanta-13-agosto-presentara-3594353.jpg?tf=1200x' alt='Made by Google se adelanta al 13 de agosto: esto es lo que presentará' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/alguien-logra-traer-vuelta-wordpad-windows-11-24h2-ha-logrado-1392436'>Alguien logra traer de vuelta WordPad a Windows 11 24H2: así lo ha logrado</a></h4>
-    <a href='https://computerhoy.com/windows/alguien-logra-traer-vuelta-wordpad-windows-11-24h2-ha-logrado-1392436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-cierra-wordpad-estas-son-mejores-alternativas-gratuitas-3311706.jpg?tf=1200x' alt='Alguien logra traer de vuelta WordPad a Windows 11 24H2: así lo ha logrado' />
     </a>
 </div>
 
