@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-1392536'>Cosas que puedes hacer (o no) con Flipper Zero, el tamagotchi para hackers</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-1392536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-3588630.jpg?tf=1200x' alt='Cosas que puedes hacer (o no) con Flipper Zero, el tamagotchi para hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/aparecen-docenas-cybertruck-pintadas-insultan-elon-musk-1392534'>Aparecen docenas de Cybertruck con pintadas que insultan a Elon Musk</a></h4>
     <a href='https://computerhoy.com/motor/aparecen-docenas-cybertruck-pintadas-insultan-elon-musk-1392534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/aparecen-docenas-cybertruck-pintadas-insultan-elon-musk-3587408.jpg?tf=1200x' alt='Aparecen docenas de Cybertruck con pintadas que insultan a Elon Musk' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889'>Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más</a></h4>
     <a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-dios-como-activarlo-android-auto-windows-11-alexa-3550784.jpg?tf=1200x' alt='Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-primera-empresa-acusada-infringir-ley-mercados-digitales-1392532'>Apple, la primera empresa acusada de infringir la Ley de Mercados Digitales</a></h4>
-    <a href='https://computerhoy.com/apple/apple-primera-empresa-acusada-infringir-ley-mercados-digitales-1392532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/union-europea-multa-apple-1840-millones-euros-denuncia-spotify-3283253.jpg?tf=1200x' alt='Apple, la primera empresa acusada de infringir la Ley de Mercados Digitales' />
     </a>
 </div>
 
