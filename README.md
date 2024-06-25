@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portaventura-estrena-pawla-ia-parque-atracciones-1392562'>PortAventura estrena Pawla, la IA que te guiará en el parque de atracciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portaventura-estrena-pawla-ia-parque-atracciones-1392562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/portaventura-estrena-pawla-ia-te-guiara-parque-atracciones-3590174.jpg?tf=1200x' alt='PortAventura estrena Pawla, la IA que te guiará en el parque de atracciones' />
+    <h4><a href='https://computerhoy.com/espacio/impactase-asteroide-tierra-nasa-no-podria-evitarlo-dentro-14-anos-1392558'>Si impactase un asteroide contra la Tierra, la NASA no podría evitarlo hasta dentro de 14 años</a></h4>
+    <a href='https://computerhoy.com/espacio/impactase-asteroide-tierra-nasa-no-podria-evitarlo-dentro-14-anos-1392558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asteroide-chocando-tierra-3590815.jpg?tf=1200x' alt='Si impactase un asteroide contra la Tierra, la NASA no podría evitarlo hasta dentro de 14 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345'>Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI</a></h4>
-    <a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-crear-subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-3539675.jpg?tf=1200x' alt='Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI' />
+    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-intel-n100-cuesta-apenas-100-euros-perfecto-plex-kodi-juegos-retro-1392509'>Este Mini PC con Intel N100 cuesta apenas 100 euros y es perfecto para Plex, Kodi o juegos retro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-pc-intel-n100-cuesta-apenas-100-euros-perfecto-plex-kodi-juegos-retro-1392509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mini-pc-firebat-ak2-plus-pro-3293140.jpg?tf=1200x' alt='Este Mini PC con Intel N100 cuesta apenas 100 euros y es perfecto para Plex, Kodi o juegos retro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/receptor-hd-tdt-rebajado-top-venta-amazon-1382111'>La TDT en Full HD y sin apenas ocupar espacio: este stick ultracompacto es de lo más vendido en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/receptor-hd-tdt-rebajado-top-venta-amazon-1382111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mini-decodificador-digital-trevi-he-3361-t2-3304180.jpg?tf=1200x' alt='La TDT en Full HD y sin apenas ocupar espacio: este stick ultracompacto es de lo más vendido en Amazon' />
+    <h4><a href='https://computerhoy.com/apps/adios-youtube-premium-barato-comienzan-bloquear-cuentas-compradas-turquia-argentina-filipinas-1391937'>Adiós al YouTube Premium barato: comienzan a bloquear cuentas compradas en Turquía, Argentina o Filipinas</a></h4>
+    <a href='https://computerhoy.com/apps/adios-youtube-premium-barato-comienzan-bloquear-cuentas-compradas-turquia-argentina-filipinas-1391937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bloqueo-youtube-3554233.jpg?tf=1200x' alt='Adiós al YouTube Premium barato: comienzan a bloquear cuentas compradas en Turquía, Argentina o Filipinas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-sistema-correccion-postura-frente-ordenador-impulsado-ia-1392300'>Microsoft piensa en un sistema de corrección de postura frente al ordenador impulsado por IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-sistema-correccion-postura-frente-ordenador-impulsado-ia-1392300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/patente-postura-frente-ordenador-microsoft-3571466.jpg?tf=1200x' alt='Microsoft piensa en un sistema de corrección de postura frente al ordenador impulsado por IA' />
+    <h4><a href='https://computerhoy.com/patrocinado/celebra-21o-aniversario-geekom-descuentos-superan-primer-day-1391977'>Celebra el 21º aniversario de Geekom con descuentos que superan al Primer Day </a></h4>
+    <a href='https://computerhoy.com/patrocinado/celebra-21o-aniversario-geekom-descuentos-superan-primer-day-1391977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/geekom-3583155.jpg?tf=1200x' alt='Celebra el 21º aniversario de Geekom con descuentos que superan al Primer Day ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544'>Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer</a></h4>
-    <a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/denuncia-apple-porque-mensajes-infidelidad-borrados-acabaron-mac-mujer-3589553.jpg?tf=1200x' alt='Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer' />
+    <h4><a href='https://computerhoy.com/entretenimiento/prueba-guardian-netflix-empleados-temen-trabajar-aqui-1392559'>Qué es la "prueba del guardián" de Netflix y por qué los empleados temen trabajar aquí</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/prueba-guardian-netflix-empleados-temen-trabajar-aqui-1392559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-prueba-trabajo-3590653.jpg?tf=1200x' alt='Qué es la "prueba del guardián" de Netflix y por qué los empleados temen trabajar aquí' />
     </a>
 </div>
 
