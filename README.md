@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/utilizas-windows-10-olvidate-wifi-7-microsoft-reserva-cosas-importantes-1392439'>Si utilizas Windows 10, olvídate de WiFi 7: Microsoft lo reserva para "cosas más importantes"</a></h4>
+    <a href='https://computerhoy.com/pc/utilizas-windows-10-olvidate-wifi-7-microsoft-reserva-cosas-importantes-1392439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wi-fi-7-queda-fuera-windows-10-microsoft-reserva-pc-copilot-3584680.jpg?tf=1200x' alt='Si utilizas Windows 10, olvídate de WiFi 7: Microsoft lo reserva para "cosas más importantes"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mirar-videos-jugar-no-son-usos-populares-iphone-estudio-1392327'>Mirar vídeos y jugar no son los usos más populares del iPhone, según este estudio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mirar-videos-jugar-no-son-usos-populares-iphone-estudio-1392327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/jugar-juegos-movil-3576765.jpg?tf=1200x' alt='Mirar vídeos y jugar no son los usos más populares del iPhone, según este estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cientificos-descubren-cerebro-sufre-recableado-40-anos-explicaria-muchas-cosas-1130211'>Científicos descubren que el cerebro sufre un “recableado” tras los 40 años que explicaría muchas cosas</a></h4>
     <a href='https://computerhoy.com/life/cientificos-descubren-cerebro-sufre-recableado-40-anos-explicaria-muchas-cosas-1130211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cerero-humano-40-anos-3591669.jpg?tf=1200x' alt='Científicos descubren que el cerebro sufre un “recableado” tras los 40 años que explicaría muchas cosas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/epipod-ipod-movido-raspberry-pi-puedes-crear-mismo-1392629'>Así es el ePiPod: un iPod movido por una Raspberry Pi que puedes crear tú mismo</a></h4>
     <a href='https://computerhoy.com/tecnologia/epipod-ipod-movido-raspberry-pi-puedes-crear-mismo-1392629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/epipod-3591845.jpg?tf=1200x' alt='Así es el ePiPod: un iPod movido por una Raspberry Pi que puedes crear tú mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/encuentran-solucion-error-android-auto-ni-google-capaz-solucionar-1392623'>Encuentran la solución al error de Android Auto que ni Google es capaz de solucionar</a></h4>
-    <a href='https://computerhoy.com/google/encuentran-solucion-error-android-auto-ni-google-capaz-solucionar-1392623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-activar-modo-dios-android-auto-todo-puedes-hacer-3309861.jpg?tf=1200x' alt='Encuentran la solución al error de Android Auto que ni Google es capaz de solucionar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/logra-ejecutar-windows-xp-mitico-intel-486-gracias-hack-kernel-1392429'>Logra ejecutar Windows XP en el mítico Intel 486 gracias a un hack del kernel</a></h4>
-    <a href='https://computerhoy.com/windows/logra-ejecutar-windows-xp-mitico-intel-486-gracias-hack-kernel-1392429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-xp-3319714.jpg?tf=1200x' alt='Logra ejecutar Windows XP en el mítico Intel 486 gracias a un hack del kernel' />
     </a>
 </div>
 
