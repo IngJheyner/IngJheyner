@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732'>¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras</a></h4>
+    <a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-3596739.jpg?tf=1200x' alt='¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-1392731'>HackRF One, la alternativa a Flipper Zero para hackear e interceptar señales de radio</a></h4>
     <a href='https://computerhoy.com/tecnologia/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-1392731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-3596445.jpg?tf=1200x' alt='HackRF One, la alternativa a Flipper Zero para hackear e interceptar señales de radio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/china-rocas-cara-oculta-luna-ya-estan-aqui-1392729'>China adelanta a Estados Unidos: las rocas de la cara oculta de la Luna ya están aquí</a></h4>
     <a href='https://computerhoy.com/espacio/china-rocas-cara-oculta-luna-ya-estan-aqui-1392729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/china-adelanta-estados-unidos-rocas-cara-oculta-luna-ya-estan-aqui-3594816.jpg?tf=1200x' alt='China adelanta a Estados Unidos: las rocas de la cara oculta de la Luna ya están aquí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-1392513'>Qué es el modo hotel y cómo desactivarlo en una Smart TV LG, Hisense o Samsung</a></h4>
-    <a href='https://computerhoy.com/tv/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-1392513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-3587561.jpg?tf=1200x' alt='Qué es el modo hotel y cómo desactivarlo en una Smart TV LG, Hisense o Samsung' />
     </a>
 </div>
 
