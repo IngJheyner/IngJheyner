@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-chrome-te-va-lento-posibles-problemas-como-solucionarlo-1392785'>¿Google Chrome te va lento? Posibles problemas y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/google/google-chrome-te-va-lento-posibles-problemas-como-solucionarlo-1392785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-chrome-problemas-3598724.jpg?tf=1200x' alt='¿Google Chrome te va lento? Posibles problemas y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/apps/datos-millones-uber-sentencian-mejor-app-navegacion-no-google-maps-waze-1389401'>¿Por qué los conductores de Uber nunca utilizan Google Maps?</a></h4>
+    <a href='https://computerhoy.com/apps/datos-millones-uber-sentencian-mejor-app-navegacion-no-google-maps-waze-1389401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/datos-millones-uber-sentencian-mejor-app-navegacion-no-google-maps-waze-3438113.jpg?tf=1200x' alt='¿Por qué los conductores de Uber nunca utilizan Google Maps?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cifra-magica-debes-tener-banco-evitar-problemas-ocu-1392584'>La cifra mágica que debes tener en el banco para evitar problemas, según la OCU</a></h4>
-    <a href='https://computerhoy.com/life/cifra-magica-debes-tener-banco-evitar-problemas-ocu-1392584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cifra-magica-debes-tener-banco-evitar-problemas-ocu-3590974.jpg?tf=1200x' alt='La cifra mágica que debes tener en el banco para evitar problemas, según la OCU' />
+    <h4><a href='https://computerhoy.com/internet/laliga-va-usuarios-ven-futbol-pirata-exige-pago-450-euros-no-quieren-ir-juicio-1392797'>LaLiga va a por los usuarios que ven fútbol pirata y exige un pago de 450 euros si no quieren ir a juicio</a></h4>
+    <a href='https://computerhoy.com/internet/laliga-va-usuarios-ven-futbol-pirata-exige-pago-450-euros-no-quieren-ir-juicio-1392797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/futbol-pirata-3598725.jpg?tf=1200x' alt='LaLiga va a por los usuarios que ven fútbol pirata y exige un pago de 450 euros si no quieren ir a juicio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-dejara-funcionar-estos-moviles-mismo-ano-comprueba-lista-1392788'>WhatsApp dejará de funcionar en estos móviles este mismo año: comprueba si está el tuyo en la lista</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-dejara-funcionar-estos-moviles-mismo-ano-comprueba-lista-1392788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/whatsapp-prohibido-3598894.jpg?tf=1200x' alt='WhatsApp dejará de funcionar en estos móviles este mismo año: comprueba si está el tuyo en la lista' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/dgt-advierte-multa-trafico-nunca-debes-pagar-1392601'>La DGT advierte: la multa de tráfico que nunca debes pagar</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/dgt-advierte-multa-trafico-nunca-debes-pagar-1392601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dgt-3591491.jpg?tf=1200x' alt='La DGT advierte: la multa de tráfico que nunca debes pagar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/netflix-prepara-suscripcion-100-gratis-copiando-peor-tdt-1392371'>Netflix prepara una suscripción 100% gratis copiando lo peor de la TDT</a></h4>
-    <a href='https://computerhoy.com/tv/netflix-prepara-suscripcion-100-gratis-copiando-peor-tdt-1392371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-gratis-3583829.jpg?tf=1200x' alt='Netflix prepara una suscripción 100% gratis copiando lo peor de la TDT' />
+    <h4><a href='https://computerhoy.com/motor/como-usar-apple-carplay-motos-1392595'>¿Cómo usar Apple CarPlay para motos?</a></h4>
+    <a href='https://computerhoy.com/motor/como-usar-apple-carplay-motos-1392595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-carplay-moto-3591325.jpg?tf=1200x' alt='¿Cómo usar Apple CarPlay para motos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/computacion-cuantica-podria-ser-facil-nunca-nueva-tecnica-1392111'>La computación cuántica podría ser más fácil que nunca con esta nueva técnica</a></h4>
-    <a href='https://computerhoy.com/ciencia/computacion-cuantica-podria-ser-facil-nunca-nueva-tecnica-1392111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-cuantico-3561798.jpg?tf=1200x' alt='La computación cuántica podría ser más fácil que nunca con esta nueva técnica' />
+    <h4><a href='https://computerhoy.com/tecnologia/puedo-hacer-bizum-extranjero-fuera-espana-1392149'>¿Puedo hacer un Bizum al extranjero o desde fuera de España?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puedo-hacer-bizum-extranjero-fuera-espana-1392149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/puedo-hacer-bizum-extranjero-extranjero-3561655.jpg?tf=1200x' alt='¿Puedo hacer un Bizum al extranjero o desde fuera de España?' />
     </a>
 </div>
 
