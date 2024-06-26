@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/alias-correo-electronico-como-crear-importante-seguridad-1392244'>Qué es un alias de correo electrónico, cómo crear uno y por qué es importante para tu seguridad</a></h4>
+    <a href='https://computerhoy.com/internet/alias-correo-electronico-como-crear-importante-seguridad-1392244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/alias-correo-electronico-como-crear-importante-seguridad-3565497.jpg?tf=1200x' alt='Qué es un alias de correo electrónico, cómo crear uno y por qué es importante para tu seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/isp-instalo-malware-600000-clientes-bloquear-archivos-torrent-1392937'>Un ISP instaló malware a 600.000 clientes para bloquear los archivos Torrent</a></h4>
     <a href='https://computerhoy.com/internet/isp-instalo-malware-600000-clientes-bloquear-archivos-torrent-1392937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/isp-instalo-malware-ordenadores-clientes-bloquear-ficheros-torrent-3602725.jpg?tf=1200x' alt='Un ISP instaló malware a 600.000 clientes para bloquear los archivos Torrent' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724'>Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar</a></h4>
     <a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-store-3594966.jpg?tf=1200x' alt='Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246'>Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ropa-perchas-3565060.jpg?tf=1200x' alt='Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla' />
     </a>
 </div>
 
