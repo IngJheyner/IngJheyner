@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/guia-paso-paso-encontrar-trabajo-chatgpt-1392773'>Guía paso a paso para encontrar trabajo con ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guia-paso-paso-encontrar-trabajo-chatgpt-1392773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-ayuda-trabajo-3598559.jpg?tf=1200x' alt='Guía paso a paso para encontrar trabajo con ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-sugiere-conductor-ruta-anade-4-horas-surrealista-motivo-1392751'>Google Maps sugiere a un conductor una ruta que añade 4 horas por un surrealista motivo</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-sugiere-conductor-ruta-anade-4-horas-surrealista-motivo-1392751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3598554.jpg?tf=1200x' alt='Google Maps sugiere a un conductor una ruta que añade 4 horas por un surrealista motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/western-digita-disena-nuevo-tipo-memoria-flash-nand-50-rapida-1392224'>Western Digita diseña un nuevo tipo de memoria flash NAND hasta un 50% más rápida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/western-digita-disena-nuevo-tipo-memoria-flash-nand-50-rapida-1392224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bics8-2tb-qlc-western-digital-tiene-2tb-50-densidad-memoria-modelo-anterior-3563976.jpg?tf=1200x' alt='Western Digita diseña un nuevo tipo de memoria flash NAND hasta un 50% más rápida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/impactase-asteroide-tierra-nasa-no-podria-evitarlo-dentro-14-anos-1392558'>Si impactase un asteroide contra la Tierra, la NASA no podría evitarlo hasta dentro de 14 años</a></h4>
+    <a href='https://computerhoy.com/espacio/impactase-asteroide-tierra-nasa-no-podria-evitarlo-dentro-14-anos-1392558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asteroide-chocando-tierra-3590815.jpg?tf=1200x' alt='Si impactase un asteroide contra la Tierra, la NASA no podría evitarlo hasta dentro de 14 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/aliexpress-bate-amazon-vende-movil-canon-oneplus-300-euros-menos-1392769'>AliExpress bate a Amazon y vende el móvil más cañón de OnePlus por 300 euros menos</a></h4>
     <a href='https://computerhoy.com/android/aliexpress-bate-amazon-vende-movil-canon-oneplus-300-euros-menos-1392769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-12-analisis-opinion-3282117.jpg?tf=1200x' alt='AliExpress bate a Amazon y vende el móvil más cañón de OnePlus por 300 euros menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/apple-emuladores-ms-dos-app-store-1392764'>Apple permite los emuladores de Nintendo en iOS, pero no de MS-DOS, porque "no es retro"</a></h4>
-    <a href='https://computerhoy.com/apps/apple-emuladores-ms-dos-app-store-1392764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-permite-emuladores-nintendo-ios-pero-no-ms-dos-porque-no-retro-3597768.jpg?tf=1200x' alt='Apple permite los emuladores de Nintendo en iOS, pero no de MS-DOS, porque "no es retro"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funcion-tan-espectacular-nuevo-chatgpt-tendra-esperar-openai-viento-marea-1392758'>Esta función tan espectacular del nuevo ChatGPT tendrá que esperar: OpenAI contra viento y marea</a></h4>
-    <a href='https://computerhoy.com/tecnologia/funcion-tan-espectacular-nuevo-chatgpt-tendra-esperar-openai-viento-marea-1392758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-novedades-3598386.jpg?tf=1200x' alt='Esta función tan espectacular del nuevo ChatGPT tendrá que esperar: OpenAI contra viento y marea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/prueba-guardian-netflix-empleados-temen-trabajar-aqui-1392559'>Qué es la "prueba del guardián" de Netflix y por qué los empleados temen trabajar aquí</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/prueba-guardian-netflix-empleados-temen-trabajar-aqui-1392559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-prueba-trabajo-3590653.jpg?tf=1200x' alt='Qué es la "prueba del guardián" de Netflix y por qué los empleados temen trabajar aquí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-avatar-whatsapp-fotografia-1345522'>Cómo crear un avatar para WhatsApp idéntico a ti desde una foto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-avatar-whatsapp-fotografia-1345522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-crear-avatar-whatsapp-identico-ti-fotografia-3241288.jpg?tf=1200x' alt='Cómo crear un avatar para WhatsApp idéntico a ti desde una foto' />
     </a>
 </div>
 
