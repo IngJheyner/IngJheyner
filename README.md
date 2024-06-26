@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/fraude-diesel-no-deja-crecer-gasolineras-low-cost-1392698'>¿Por qué el “fraude del diésel” no deja de crecer en las gasolineras low cost?</a></h4>
-    <a href='https://computerhoy.com/motor/fraude-diesel-no-deja-crecer-gasolineras-low-cost-1392698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/persona-echando-gasolina-coche-senal-peligro-3600033.jpg?tf=1200x' alt='¿Por qué el “fraude del diésel” no deja de crecer en las gasolineras low cost?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/sabe-terminator-zero-serie-netflix-volvera-raices-saga-1392654'>Qué se sabe de Terminator Zero, la serie de Netflix que volverá a las raíces de la saga</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/sabe-terminator-zero-serie-netflix-volvera-raices-saga-1392654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sabe-terminator-zero-serie-netflix-volvera-raices-saga-3592175.jpg?tf=1200x' alt='Qué se sabe de Terminator Zero, la serie de Netflix que volverá a las raíces de la saga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/detectan-vulnerabilidad-afecta-cientos-modelos-cpu-intel-1392128'>Detectan vulnerabilidad que afecta a cientos de modelos de CPU Intel</a></h4>
-    <a href='https://computerhoy.com/tecnologia/detectan-vulnerabilidad-afecta-cientos-modelos-cpu-intel-1392128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-3563129.jpg?tf=1200x' alt='Detectan vulnerabilidad que afecta a cientos de modelos de CPU Intel' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-busca-poner-fin-cuentas-locales-eliminar-tutoriales-crearlas-windows-1392431'>Microsoft busca poner fin a las cuentas locales tras eliminar los tutoriales para crearlas en Windows</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-busca-poner-fin-cuentas-locales-eliminar-tutoriales-crearlas-windows-1392431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-trae-nuevo-error-configuracion-suma-ultimo-vpn-3499949.jpg?tf=1200x' alt='Microsoft busca poner fin a las cuentas locales tras eliminar los tutoriales para crearlas en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-aplicaciones-movil-android-1383119'>Cómo poner contraseña a las aplicaciones en un móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-aplicaciones-movil-android-1383119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/contrasena-password-3235270.jpg?tf=1200x' alt='Cómo poner contraseña a las aplicaciones en un móvil Android' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-hace-copias-seguridad-onedrive-manera-automatica-permiso-puedes-evitarlo-1392635'>Windows 11 hace copias de seguridad de OneDrive de manera automática sin permiso: así puedes evitarlo</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-hace-copias-seguridad-onedrive-manera-automatica-permiso-puedes-evitarlo-1392635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/onedrive-3285530.jpg?tf=1200x' alt='Windows 11 hace copias de seguridad de OneDrive de manera automática sin permiso: así puedes evitarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-usa-tim-cook-no-iphone-15-pro-max-1391743'>Este es el iPhone que usa Tim Cook, y no es un iPhone 15 Pro Max</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-usa-tim-cook-no-iphone-15-pro-max-1391743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tim-cook-3546991.jpg?tf=1200x' alt='Este es el iPhone que usa Tim Cook, y no es un iPhone 15 Pro Max' />
+    <h4><a href='https://computerhoy.com/tecnologia/dstike-deauther-watch-x-apple-watch-hackers-flipper-zero-muneca-1392228'>DSTIKE Deauther Watch X: el Apple Watch de los hackers, un Flipper Zero en tu muñeca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dstike-deauther-watch-x-apple-watch-hackers-flipper-zero-muneca-1392228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dstike-deauther-watch-x-apple-watch-hackers-flipper-zero-muneca-3564296.jpg?tf=1200x' alt='DSTIKE Deauther Watch X: el Apple Watch de los hackers, un Flipper Zero en tu muñeca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/no-instales-version-android-auto-puede-dejarte-tirado-carretera-1392210'>No instales esta versión de Android Auto, puede dejarte tirado en la carretera</a></h4>
-    <a href='https://computerhoy.com/android/no-instales-version-android-auto-puede-dejarte-tirado-carretera-1392210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-instales-version-android-auto-puede-dejarte-tirado-carretera-3563887.jpg?tf=1200x' alt='No instales esta versión de Android Auto, puede dejarte tirado en la carretera' />
+    <h4><a href='https://computerhoy.com/ciencia/superordenador-frontier-establece-nuevo-estandar-simulacion-molecular-1392129'>El superordenador Frontier establece un nuevo estándar en simulación molecular</a></h4>
+    <a href='https://computerhoy.com/ciencia/superordenador-frontier-establece-nuevo-estandar-simulacion-molecular-1392129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/superordenador-frontier-2716253.jpg?tf=1200x' alt='El superordenador Frontier establece un nuevo estándar en simulación molecular' />
     </a>
 </div>
 
