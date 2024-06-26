@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-reparar-barra-tareas-windows-cuando-no-oculta-automaticamente-1392526'>Cómo reparar la barra de tareas de Windows cuando no se oculta automáticamente</a></h4>
-    <a href='https://computerhoy.com/windows/como-reparar-barra-tareas-windows-cuando-no-oculta-automaticamente-1392526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/barra-tareas-3022610.jpg?tf=1200x' alt='Cómo reparar la barra de tareas de Windows cuando no se oculta automáticamente' />
+    <h4><a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246'>Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ropa-perchas-3565060.jpg?tf=1200x' alt='Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/justos-pecadores-coste-acabar-iptv-saldra-bolsillo-todos-contribuyentes-1392181'>Justos por pecadores: el coste de acabar con las IPTV saldrá del bolsillo de todos los contribuyentes</a></h4>
-    <a href='https://computerhoy.com/tv/justos-pecadores-coste-acabar-iptv-saldra-bolsillo-todos-contribuyentes-1392181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/justos-pecadores-coste-acabar-iptv-saldra-bolsillo-todos-contribuyentes-3562596.jpg?tf=1200x' alt='Justos por pecadores: el coste de acabar con las IPTV saldrá del bolsillo de todos los contribuyentes' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-variante-troyano-medusa-android-elige-espana-como-objetivos-principales-1392933'>La nueva variante del troyano Medusa para Android elige España como uno de sus objetivos principales</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nueva-variante-troyano-medusa-android-elige-espana-como-objetivos-principales-1392933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/troyano-bancario-medusa-movil-3602275.jpg?tf=1200x' alt='La nueva variante del troyano Medusa para Android elige España como uno de sus objetivos principales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/alguien-logra-traer-vuelta-wordpad-windows-11-24h2-ha-logrado-1392436'>Alguien logra traer de vuelta WordPad a Windows 11 24H2: así lo ha logrado</a></h4>
-    <a href='https://computerhoy.com/windows/alguien-logra-traer-vuelta-wordpad-windows-11-24h2-ha-logrado-1392436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-cierra-wordpad-estas-son-mejores-alternativas-gratuitas-3311706.jpg?tf=1200x' alt='Alguien logra traer de vuelta WordPad a Windows 11 24H2: así lo ha logrado' />
+    <h4><a href='https://computerhoy.com/apple/mayor-debilidad-enfrenta-apple-ia-iphone-1392188'>Esta es la mayor debilidad a la que se enfrenta Apple con la IA de los iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/mayor-debilidad-enfrenta-apple-ia-iphone-1392188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mayor-debilidad-apple-ia-iphone-3562763.jpg?tf=1200x' alt='Esta es la mayor debilidad a la que se enfrenta Apple con la IA de los iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intel-sigue-ofrecer-solucion-inestabilidad-cpu-problemas-persisten-1392645'>Intel sigue sin ofrecer solución a la inestabilidad de sus CPU y los problemas persisten</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intel-sigue-ofrecer-solucion-inestabilidad-cpu-problemas-persisten-1392645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/InteldespediraamilesdeempleadosporlasbajasventasdePCsegunBloomberg_166559458269231614.jpg?tf=1200x' alt='Intel sigue sin ofrecer solución a la inestabilidad de sus CPU y los problemas persisten' />
+    <h4><a href='https://computerhoy.com/tv/configuraciones-rapidas-consigo-mejorar-rendimiento-mi-smart-tv-instante-1392240'>Configuraciones rápidas con las que consigo mejorar el rendimiento de mi Smart TV al instante</a></h4>
+    <a href='https://computerhoy.com/tv/configuraciones-rapidas-consigo-mejorar-rendimiento-mi-smart-tv-instante-1392240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/configuraciones-rapidas-consigo-mejorar-rendimiento-mi-smart-tv-instante-3564908.jpg?tf=1200x' alt='Configuraciones rápidas con las que consigo mejorar el rendimiento de mi Smart TV al instante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/libros-stephen-king-no-tienen-pelicula-necesitan-adaptacion-ya-1391877'>5 libros de Stephen King que no tienen película y necesitan una adaptación ya</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/libros-stephen-king-no-tienen-pelicula-necesitan-adaptacion-ya-1391877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/stephen-king-3298586.jpg?tf=1200x' alt='5 libros de Stephen King que no tienen película y necesitan una adaptación ya' />
+    <h4><a href='https://computerhoy.com/tecnologia/acceso-ssh-raspberry-pi-connect-ya-funciona-todos-modelos-incluso-antiguos-1392929'>El acceso SSH con Raspberry Pi Connect ya funciona con todos los modelos, incluso los más antiguos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/acceso-ssh-raspberry-pi-connect-ya-funciona-todos-modelos-incluso-antiguos-1392929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/raspberry-pi-3602123.jpg?tf=1200x' alt='El acceso SSH con Raspberry Pi Connect ya funciona con todos los modelos, incluso los más antiguos' />
     </a>
 </div>
 
