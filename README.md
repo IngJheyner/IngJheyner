@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guia-paso-paso-encontrar-trabajo-chatgpt-1392773'>Guía paso a paso para encontrar trabajo con ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guia-paso-paso-encontrar-trabajo-chatgpt-1392773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-ayuda-trabajo-3598559.jpg?tf=1200x' alt='Guía paso a paso para encontrar trabajo con ChatGPT' />
+    <h4><a href='https://computerhoy.com/google/google-chrome-te-va-lento-posibles-problemas-como-solucionarlo-1392785'>¿Google Chrome te va lento? Posibles problemas y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/google/google-chrome-te-va-lento-posibles-problemas-como-solucionarlo-1392785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-chrome-problemas-3598724.jpg?tf=1200x' alt='¿Google Chrome te va lento? Posibles problemas y cómo solucionarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-sugiere-conductor-ruta-anade-4-horas-surrealista-motivo-1392751'>Google Maps sugiere a un conductor una ruta que añade 4 horas por un surrealista motivo</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-sugiere-conductor-ruta-anade-4-horas-surrealista-motivo-1392751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3598554.jpg?tf=1200x' alt='Google Maps sugiere a un conductor una ruta que añade 4 horas por un surrealista motivo' />
+    <h4><a href='https://computerhoy.com/life/cifra-magica-debes-tener-banco-evitar-problemas-ocu-1392584'>La cifra mágica que debes tener en el banco para evitar problemas, según la OCU</a></h4>
+    <a href='https://computerhoy.com/life/cifra-magica-debes-tener-banco-evitar-problemas-ocu-1392584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cifra-magica-debes-tener-banco-evitar-problemas-ocu-3590974.jpg?tf=1200x' alt='La cifra mágica que debes tener en el banco para evitar problemas, según la OCU' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/western-digita-disena-nuevo-tipo-memoria-flash-nand-50-rapida-1392224'>Western Digita diseña un nuevo tipo de memoria flash NAND hasta un 50% más rápida</a></h4>
-    <a href='https://computerhoy.com/tecnologia/western-digita-disena-nuevo-tipo-memoria-flash-nand-50-rapida-1392224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bics8-2tb-qlc-western-digital-tiene-2tb-50-densidad-memoria-modelo-anterior-3563976.jpg?tf=1200x' alt='Western Digita diseña un nuevo tipo de memoria flash NAND hasta un 50% más rápida' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-dejara-funcionar-estos-moviles-mismo-ano-comprueba-lista-1392788'>WhatsApp dejará de funcionar en estos móviles este mismo año: comprueba si está el tuyo en la lista</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-dejara-funcionar-estos-moviles-mismo-ano-comprueba-lista-1392788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/whatsapp-prohibido-3598894.jpg?tf=1200x' alt='WhatsApp dejará de funcionar en estos móviles este mismo año: comprueba si está el tuyo en la lista' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/impactase-asteroide-tierra-nasa-no-podria-evitarlo-dentro-14-anos-1392558'>Si impactase un asteroide contra la Tierra, la NASA no podría evitarlo hasta dentro de 14 años</a></h4>
-    <a href='https://computerhoy.com/espacio/impactase-asteroide-tierra-nasa-no-podria-evitarlo-dentro-14-anos-1392558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asteroide-chocando-tierra-3590815.jpg?tf=1200x' alt='Si impactase un asteroide contra la Tierra, la NASA no podría evitarlo hasta dentro de 14 años' />
+    <h4><a href='https://computerhoy.com/tv/netflix-prepara-suscripcion-100-gratis-copiando-peor-tdt-1392371'>Netflix prepara una suscripción 100% gratis copiando lo peor de la TDT</a></h4>
+    <a href='https://computerhoy.com/tv/netflix-prepara-suscripcion-100-gratis-copiando-peor-tdt-1392371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-gratis-3583829.jpg?tf=1200x' alt='Netflix prepara una suscripción 100% gratis copiando lo peor de la TDT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/aliexpress-bate-amazon-vende-movil-canon-oneplus-300-euros-menos-1392769'>AliExpress bate a Amazon y vende el móvil más cañón de OnePlus por 300 euros menos</a></h4>
-    <a href='https://computerhoy.com/android/aliexpress-bate-amazon-vende-movil-canon-oneplus-300-euros-menos-1392769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-12-analisis-opinion-3282117.jpg?tf=1200x' alt='AliExpress bate a Amazon y vende el móvil más cañón de OnePlus por 300 euros menos' />
+    <h4><a href='https://computerhoy.com/ciencia/computacion-cuantica-podria-ser-facil-nunca-nueva-tecnica-1392111'>La computación cuántica podría ser más fácil que nunca con esta nueva técnica</a></h4>
+    <a href='https://computerhoy.com/ciencia/computacion-cuantica-podria-ser-facil-nunca-nueva-tecnica-1392111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-cuantico-3561798.jpg?tf=1200x' alt='La computación cuántica podría ser más fácil que nunca con esta nueva técnica' />
     </a>
 </div>
 
