@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-usa-ia-descubrir-gato-siente-dolor-1392085'>Esta app usa una IA para descubrir si tu gato siente dolor, y su causa</a></h4>
-    <a href='https://computerhoy.com/apps/app-usa-ia-descubrir-gato-siente-dolor-1392085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-usa-ia-descubrir-gato-siente-dolor-causa-3559283.jpg?tf=1200x' alt='Esta app usa una IA para descubrir si tu gato siente dolor, y su causa' />
+    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-regala-esim-oferta-verano-1390728'>NordVPN hace un 2x1: por 3,99 euros te llevas la VPN más rápida y eSIM gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nordvpn-regala-esim-oferta-verano-1390728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-3408136.jpg?tf=1200x' alt='NordVPN hace un 2x1: por 3,99 euros te llevas la VPN más rápida y eSIM gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-1391835'>La IA sí está provocando despidos, y no es tan bonito como lo pinta Bill Gates</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-1391835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-provocando-despidos-no-tan-bonito-como-pinta-bill-gates-3548654.jpg?tf=1200x' alt='La IA sí está provocando despidos, y no es tan bonito como lo pinta Bill Gates' />
+    <h4><a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544'>Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer</a></h4>
+    <a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/denuncia-apple-porque-mensajes-infidelidad-borrados-acabaron-mac-mujer-3589553.jpg?tf=1200x' alt='Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/version-china-her-haciendo-mujeres-enamoren-ia-1392465'>La versión china de “Her”, que está haciendo que las mujeres se enamoren de una IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/version-china-her-haciendo-mujeres-enamoren-ia-1392465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/version-china-her-haciendo-mujeres-asiaticas-enamoren-ia-3585002.jpg?tf=1200x' alt='La versión china de “Her”, que está haciendo que las mujeres se enamoren de una IA' />
+    <h4><a href='https://computerhoy.com/pc/me-ha-gustado-huawei-matebook-14-relacion-calidad-precio-1392380'>Se dice mucho, pero es verdad: Lo que más me ha gustado del Huawei Matebook 14 es su relación calidad-precio</a></h4>
+    <a href='https://computerhoy.com/pc/me-ha-gustado-huawei-matebook-14-relacion-calidad-precio-1392380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-matebook-14-2024-3569659.jpg?tf=1200x' alt='Se dice mucho, pero es verdad: Lo que más me ha gustado del Huawei Matebook 14 es su relación calidad-precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-identificar-archivos-espacio-ocupan-disco-duro-1388396'>Así puedes identificar los archivos que más espacio ocupan en tu disco duro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-identificar-archivos-espacio-ocupan-disco-duro-1388396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-identificar-archivos-espacio-ocupan-disco-duro-3392370.jpg?tf=1200x' alt='Así puedes identificar los archivos que más espacio ocupan en tu disco duro' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-honor-200-lite-principal-ventaja-precio-tan-ajustado-1392258'>He probado el Honor 200 Lite y su principal ventaja está en su precio tan ajustado</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-honor-200-lite-principal-ventaja-precio-tan-ajustado-1392258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-lite-0001-3593361.jpg?tf=1200x' alt='He probado el Honor 200 Lite y su principal ventaja está en su precio tan ajustado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/moto-tag-moto-tag-airtag-android-1392735'>Motorola lanza Moto Tag, un auténtico AirTag para Android, con todas sus funciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/moto-tag-moto-tag-airtag-android-1392735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/motorola-moto-tag-3592683.jpg?tf=1200x' alt='Motorola lanza Moto Tag, un auténtico AirTag para Android, con todas sus funciones' />
+    <h4><a href='https://computerhoy.com/tutoriales/programa-te-permite-cambiar-ubicacion-barra-tareas-windows-11-facilmente-1391245'>Este programa te permite cambiar la ubicación de la barra de tareas de Windows 11 fácilmente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/programa-te-permite-cambiar-ubicacion-barra-tareas-windows-11-facilmente-1391245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/programa-te-permite-cambiar-ubicacion-barra-tareas-windows-11-facilmente-3518742.jpg?tf=1200x' alt='Este programa te permite cambiar la ubicación de la barra de tareas de Windows 11 fácilmente' />
     </a>
 </div>
 
