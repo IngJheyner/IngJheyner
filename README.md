@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-1392612'>Así funciona el gel que puede convertir la vibración del movimiento de los objetos en energía</a></h4>
+    <a href='https://computerhoy.com/ciencia/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-1392612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-3591549.jpg?tf=1200x' alt='Así funciona el gel que puede convertir la vibración del movimiento de los objetos en energía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/vuelo-comercial-mas-corto-mundo-1392539'>El vuelo comercial más corto del mundo dura solo 80 segundos</a></h4>
+    <a href='https://computerhoy.com/motor/vuelo-comercial-mas-corto-mundo-1392539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vuelo-comercial-corto-mundo-dura-solo-80-segundos-3588173.jpg?tf=1200x' alt='El vuelo comercial más corto del mundo dura solo 80 segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732'>¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras</a></h4>
     <a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-3596739.jpg?tf=1200x' alt='¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-1392536'>Cosas que puedes hacer (o no) con Flipper Zero, el tamagotchi para hackers</a></h4>
     <a href='https://computerhoy.com/tecnologia/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-1392536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-3588630.jpg?tf=1200x' alt='Cosas que puedes hacer (o no) con Flipper Zero, el tamagotchi para hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estados-unidos-prohibe-venta-antivirus-kaspersky-1392075'>Estados Unidos prohíbe la venta de los antivirus Kaspersky</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estados-unidos-prohibe-venta-antivirus-kaspersky-1392075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estados-unidos-tambien-quiere-prohibir-antivirus-kaspersky-3558422.jpg?tf=1200x' alt='Estados Unidos prohíbe la venta de los antivirus Kaspersky' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/china-rocas-cara-oculta-luna-ya-estan-aqui-1392729'>China adelanta a Estados Unidos: las rocas de la cara oculta de la Luna ya están aquí</a></h4>
-    <a href='https://computerhoy.com/espacio/china-rocas-cara-oculta-luna-ya-estan-aqui-1392729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/china-adelanta-estados-unidos-rocas-cara-oculta-luna-ya-estan-aqui-3594816.jpg?tf=1200x' alt='China adelanta a Estados Unidos: las rocas de la cara oculta de la Luna ya están aquí' />
     </a>
 </div>
 
