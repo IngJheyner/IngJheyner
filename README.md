@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/moto-tag-moto-tag-airtag-android-1392735'>Motorola lanza Moto Tag, un auténtico AirTag para Android, con todas sus funciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/moto-tag-moto-tag-airtag-android-1392735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/motorola-moto-tag-3592683.jpg?tf=1200x' alt='Motorola lanza Moto Tag, un auténtico AirTag para Android, con todas sus funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/como-sabras-ha-llegado-hora-cambiar-router-wifi-1392733'>Así es como sabrás que ha llegado la hora de cambiar tu router WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/como-sabras-ha-llegado-hora-cambiar-router-wifi-1392733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-sabras-ha-llegado-hora-cambiar-router-wifi-3596943.jpg?tf=1200x' alt='Así es como sabrás que ha llegado la hora de cambiar tu router WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-1392612'>Así funciona el gel que puede convertir la vibración del movimiento de los objetos en energía</a></h4>
     <a href='https://computerhoy.com/ciencia/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-1392612' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-3591549.jpg?tf=1200x' alt='Así funciona el gel que puede convertir la vibración del movimiento de los objetos en energía' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732'>¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras</a></h4>
     <a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-3596739.jpg?tf=1200x' alt='¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-1392731'>HackRF One, la alternativa a Flipper Zero para hackear e interceptar señales de radio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-1392731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-3596445.jpg?tf=1200x' alt='HackRF One, la alternativa a Flipper Zero para hackear e interceptar señales de radio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-1392536'>Cosas que puedes hacer (o no) con Flipper Zero, el tamagotchi para hackers</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-1392536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-3588630.jpg?tf=1200x' alt='Cosas que puedes hacer (o no) con Flipper Zero, el tamagotchi para hackers' />
     </a>
 </div>
 
