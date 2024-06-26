@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/aliexpress-bate-amazon-vende-movil-canon-oneplus-300-euros-menos-1392769'>AliExpress bate a Amazon y vende el móvil más cañón de OnePlus por 300 euros menos</a></h4>
+    <a href='https://computerhoy.com/android/aliexpress-bate-amazon-vende-movil-canon-oneplus-300-euros-menos-1392769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-12-analisis-opinion-3282117.jpg?tf=1200x' alt='AliExpress bate a Amazon y vende el móvil más cañón de OnePlus por 300 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/apple-emuladores-ms-dos-app-store-1392764'>Apple permite los emuladores de Nintendo en iOS, pero no de MS-DOS, porque "no es retro"</a></h4>
+    <a href='https://computerhoy.com/apps/apple-emuladores-ms-dos-app-store-1392764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-permite-emuladores-nintendo-ios-pero-no-ms-dos-porque-no-retro-3597768.jpg?tf=1200x' alt='Apple permite los emuladores de Nintendo en iOS, pero no de MS-DOS, porque "no es retro"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/funcion-tan-espectacular-nuevo-chatgpt-tendra-esperar-openai-viento-marea-1392758'>Esta función tan espectacular del nuevo ChatGPT tendrá que esperar: OpenAI contra viento y marea</a></h4>
+    <a href='https://computerhoy.com/tecnologia/funcion-tan-espectacular-nuevo-chatgpt-tendra-esperar-openai-viento-marea-1392758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-novedades-3598386.jpg?tf=1200x' alt='Esta función tan espectacular del nuevo ChatGPT tendrá que esperar: OpenAI contra viento y marea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/prueba-guardian-netflix-empleados-temen-trabajar-aqui-1392559'>Qué es la "prueba del guardián" de Netflix y por qué los empleados temen trabajar aquí</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/prueba-guardian-netflix-empleados-temen-trabajar-aqui-1392559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-prueba-trabajo-3590653.jpg?tf=1200x' alt='Qué es la "prueba del guardián" de Netflix y por qué los empleados temen trabajar aquí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-crear-avatar-whatsapp-fotografia-1345522'>Cómo crear un avatar para WhatsApp idéntico a ti desde una foto</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-crear-avatar-whatsapp-fotografia-1345522' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-crear-avatar-whatsapp-identico-ti-fotografia-3241288.jpg?tf=1200x' alt='Cómo crear un avatar para WhatsApp idéntico a ti desde una foto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ciberpunk-tenia-razon-adelantos-tecnologicos-ciencia-ficcion-80-adivino-1390298'>El ciberpunk tenía razón: 5 adelantos tecnológicos que la ciencia ficción de los 80 adivinó</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ciberpunk-tenia-razon-adelantos-tecnologicos-ciencia-ficcion-80-adivino-1390298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberpunk-tenia-razon-5-adelantos-tecnologicos-ciencia-ficcion-80-adivino-3485025.jpg?tf=1200x' alt='El ciberpunk tenía razón: 5 adelantos tecnológicos que la ciencia ficción de los 80 adivinó' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-regala-esim-oferta-verano-1390728'>NordVPN hace un 2x1: por 3,99 euros te llevas la VPN más rápida y eSIM gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nordvpn-regala-esim-oferta-verano-1390728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-3408136.jpg?tf=1200x' alt='NordVPN hace un 2x1: por 3,99 euros te llevas la VPN más rápida y eSIM gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544'>Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer</a></h4>
-    <a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/denuncia-apple-porque-mensajes-infidelidad-borrados-acabaron-mac-mujer-3589553.jpg?tf=1200x' alt='Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/me-ha-gustado-huawei-matebook-14-relacion-calidad-precio-1392380'>Se dice mucho, pero es verdad: Lo que más me ha gustado del Huawei Matebook 14 es su relación calidad-precio</a></h4>
-    <a href='https://computerhoy.com/pc/me-ha-gustado-huawei-matebook-14-relacion-calidad-precio-1392380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-matebook-14-2024-3569659.jpg?tf=1200x' alt='Se dice mucho, pero es verdad: Lo que más me ha gustado del Huawei Matebook 14 es su relación calidad-precio' />
     </a>
 </div>
 
