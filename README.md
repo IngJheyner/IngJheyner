@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/dall-e-inteligencia-artificial-openai-gratis-todos-1132735'>La inteligencia artificial Dall-E de OpenAI ya está disponible gratis para todos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/dall-e-inteligencia-artificial-openai-gratis-todos-1132735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-dall-openai-ya-disponible-gratis-todos-3597181.jpg?tf=1200x' alt='La inteligencia artificial Dall-E de OpenAI ya está disponible gratis para todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/presentan-primeros-ssd-externos-usb-4-v2-1392831'>Presentan los primeros SSD externos con USB 4 v2</a></h4>
+    <a href='https://computerhoy.com/tecnologia/presentan-primeros-ssd-externos-usb-4-v2-1392831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asmedia-ha-presentado-primeros-ssd-externos-usb-4-v2-pero-no-llegaran-2025-3599682.jpg?tf=1200x' alt='Presentan los primeros SSD externos con USB 4 v2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/increible-pc-escuelas-coreanas-mataria-cualquier-gamer-1392837'>El increíble PC de las escuelas coreanas por el que mataría cualquier gamer</a></h4>
+    <a href='https://computerhoy.com/tecnologia/increible-pc-escuelas-coreanas-mataria-cualquier-gamer-1392837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/filtran-esperadas-tarjetas-rtx-4070-4060-2988092.jpg?tf=1200x' alt='El increíble PC de las escuelas coreanas por el que mataría cualquier gamer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/logra-ejecutar-windows-xp-mitico-intel-486-gracias-hack-kernel-1392429'>Logra ejecutar Windows XP en el mítico Intel 486 gracias a un hack del kernel</a></h4>
     <a href='https://computerhoy.com/windows/logra-ejecutar-windows-xp-mitico-intel-486-gracias-hack-kernel-1392429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-xp-3319714.jpg?tf=1200x' alt='Logra ejecutar Windows XP en el mítico Intel 486 gracias a un hack del kernel' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/son-realmente-seguras-extensiones-google-descargadas-chrome-web-store-1392438'>¿Son realmente seguras las extensiones de Google descargadas desde Chrome Web Store?</a></h4>
     <a href='https://computerhoy.com/google/son-realmente-seguras-extensiones-google-descargadas-chrome-web-store-1392438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/son-seguras-extensiones-google-descargadas-chrome-web-store-3584338.jpg?tf=1200x' alt='¿Son realmente seguras las extensiones de Google descargadas desde Chrome Web Store?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intel-desvela-fin-mayores-misterios-cpu-lunar-lake-1392821'>Intel desvela al fin uno de los mayores misterios de las CPU Lunar Lake</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intel-desvela-fin-mayores-misterios-cpu-lunar-lake-1392821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/intel-ha-aclarado-mayores-misterios-cpu-lunar-lake-3599517.jpg?tf=1200x' alt='Intel desvela al fin uno de los mayores misterios de las CPU Lunar Lake' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/intel-ofrece-nuevas-orientaciones-inestabilidad-cpu-13a-14a-generacion-pero-aun-no-hay-solucion-definitiva-1392040'>Intel ofrece nuevas orientaciones sobre la inestabilidad de las CPU de 13ª y 14ª generación, pero aún no hay una solución definitiva </a></h4>
-    <a href='https://computerhoy.com/intel-ofrece-nuevas-orientaciones-inestabilidad-cpu-13a-14a-generacion-pero-aun-no-hay-solucion-definitiva-1392040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-ciberseguridad-3315192.jpg?tf=1200x' alt='Intel ofrece nuevas orientaciones sobre la inestabilidad de las CPU de 13ª y 14ª generación, pero aún no hay una solución definitiva ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/malos-habitos-conducir-google-maps-te-hacen-gastar-gasolina-1392605'>Malos hábitos al conducir (y con Google Maps) que te hacen gastar más gasolina</a></h4>
-    <a href='https://computerhoy.com/malos-habitos-conducir-google-maps-te-hacen-gastar-gasolina-1392605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/malos-habitos-coche-gasolina-3591501.jpg?tf=1200x' alt='Malos hábitos al conducir (y con Google Maps) que te hacen gastar más gasolina' />
     </a>
 </div>
 
