@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-petando-amazon-impresora-instantanea-fotos-verano-movil-segundos-1392887'>Xiaomi lo está petando en Amazon con esta impresora instantánea: tus fotos del verano, desde el móvil y en segundos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-petando-amazon-impresora-instantanea-fotos-verano-movil-segundos-1392887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/xiaomi-printer-3600617.jpg?tf=1200x' alt='Xiaomi lo está petando en Amazon con esta impresora instantánea: tus fotos del verano, desde el móvil y en segundos' />
+    <h4><a href='https://computerhoy.com/motor/fraude-diesel-no-deja-crecer-gasolineras-low-cost-1392698'>¿Por qué el “fraude del diésel” no deja de crecer en las gasolineras low cost?</a></h4>
+    <a href='https://computerhoy.com/motor/fraude-diesel-no-deja-crecer-gasolineras-low-cost-1392698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/persona-echando-gasolina-coche-senal-peligro-3600033.jpg?tf=1200x' alt='¿Por qué el “fraude del diésel” no deja de crecer en las gasolineras low cost?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/atajos-cosas-sorprendentes-puedes-hacer-touchpad-portatil-windows-11-1392251'>Atajos y cosas sorprendentes que puedes hacer con el touchpad de tu portátil en Windows 11</a></h4>
-    <a href='https://computerhoy.com/pc/atajos-cosas-sorprendentes-puedes-hacer-touchpad-portatil-windows-11-1392251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/atajos-cosas-sorprendentes-puedes-hacer-touchpad-portatil-windows-11-3566358.jpg?tf=1200x' alt='Atajos y cosas sorprendentes que puedes hacer con el touchpad de tu portátil en Windows 11' />
+    <h4><a href='https://computerhoy.com/tecnologia/detectan-vulnerabilidad-afecta-cientos-modelos-cpu-intel-1392128'>Detectan vulnerabilidad que afecta a cientos de modelos de CPU Intel</a></h4>
+    <a href='https://computerhoy.com/tecnologia/detectan-vulnerabilidad-afecta-cientos-modelos-cpu-intel-1392128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-3563129.jpg?tf=1200x' alt='Detectan vulnerabilidad que afecta a cientos de modelos de CPU Intel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-1392890'>Encuentra una memoria USB en un tren con la pegatina ''gratis para compartir'' y se llevó tal chasco que decidió tirarlo</a></h4>
-    <a href='https://computerhoy.com/internet/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-1392890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-3601031.jpg?tf=1200x' alt='Encuentra una memoria USB en un tren con la pegatina ''gratis para compartir'' y se llevó tal chasco que decidió tirarlo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-aplicaciones-movil-android-1383119'>Cómo poner contraseña a las aplicaciones en un móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-aplicaciones-movil-android-1383119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/contrasena-password-3235270.jpg?tf=1200x' alt='Cómo poner contraseña a las aplicaciones en un móvil Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-inmortales-recordar-donald-sutherland-alla-juegos-hambre-1392199'>5 películas inmortales para recordar a Donald Sutherland, más allá de Los juegos del hambre </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-inmortales-recordar-donald-sutherland-alla-juegos-hambre-1392199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-peliculas-inmortales-recordar-donald-sutherland-3563064.jpg?tf=1200x' alt='5 películas inmortales para recordar a Donald Sutherland, más allá de Los juegos del hambre ' />
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-usa-tim-cook-no-iphone-15-pro-max-1391743'>Este es el iPhone que usa Tim Cook, y no es un iPhone 15 Pro Max</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-usa-tim-cook-no-iphone-15-pro-max-1391743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tim-cook-3546991.jpg?tf=1200x' alt='Este es el iPhone que usa Tim Cook, y no es un iPhone 15 Pro Max' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-agregar-nuevas-fuentes-windows-11-1391915'>Cómo instalar y agregar nuevas fuentes en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-agregar-nuevas-fuentes-windows-11-1391915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-instalar-agregar-nuevas-fuentes-windows-11-3552430.jpg?tf=1200x' alt='Cómo instalar y agregar nuevas fuentes en Windows 11' />
+    <h4><a href='https://computerhoy.com/android/no-instales-version-android-auto-puede-dejarte-tirado-carretera-1392210'>No instales esta versión de Android Auto, puede dejarte tirado en la carretera</a></h4>
+    <a href='https://computerhoy.com/android/no-instales-version-android-auto-puede-dejarte-tirado-carretera-1392210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-instales-version-android-auto-puede-dejarte-tirado-carretera-3563887.jpg?tf=1200x' alt='No instales esta versión de Android Auto, puede dejarte tirado en la carretera' />
     </a>
 </div>
 
