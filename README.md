@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-1392731'>HackRF One, la alternativa a Flipper Zero para hackear e interceptar señales de radio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-1392731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-3596445.jpg?tf=1200x' alt='HackRF One, la alternativa a Flipper Zero para hackear e interceptar señales de radio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-1392536'>Cosas que puedes hacer (o no) con Flipper Zero, el tamagotchi para hackers</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-1392536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-3588630.jpg?tf=1200x' alt='Cosas que puedes hacer (o no) con Flipper Zero, el tamagotchi para hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estados-unidos-prohibe-venta-antivirus-kaspersky-1392075'>Estados Unidos prohíbe la venta de los antivirus Kaspersky</a></h4>
     <a href='https://computerhoy.com/tecnologia/estados-unidos-prohibe-venta-antivirus-kaspersky-1392075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estados-unidos-tambien-quiere-prohibir-antivirus-kaspersky-3558422.jpg?tf=1200x' alt='Estados Unidos prohíbe la venta de los antivirus Kaspersky' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-1392513'>Qué es el modo hotel y cómo desactivarlo en una Smart TV LG, Hisense o Samsung</a></h4>
     <a href='https://computerhoy.com/tv/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-1392513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-3587561.jpg?tf=1200x' alt='Qué es el modo hotel y cómo desactivarlo en una Smart TV LG, Hisense o Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tapon-pesadilla-botellas-sera-obligatorio-espana-dias-1392725'>El "tapón pesadilla" para botellas será obligatorio en España en unos días</a></h4>
-    <a href='https://computerhoy.com/life/tapon-pesadilla-botellas-sera-obligatorio-espana-dias-1392725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/botella-plastico-3594967.jpg?tf=1200x' alt='El "tapón pesadilla" para botellas será obligatorio en España en unos días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724'>Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar</a></h4>
-    <a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-store-3594966.jpg?tf=1200x' alt='Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar' />
     </a>
 </div>
 
