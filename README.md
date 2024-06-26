@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/sabe-terminator-zero-serie-netflix-volvera-raices-saga-1392654'>Qué se sabe de Terminator Zero, la serie de Netflix que volverá a las raíces de la saga</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/sabe-terminator-zero-serie-netflix-volvera-raices-saga-1392654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sabe-terminator-zero-serie-netflix-volvera-raices-saga-3592175.jpg?tf=1200x' alt='Qué se sabe de Terminator Zero, la serie de Netflix que volverá a las raíces de la saga' />
+    <h4><a href='https://computerhoy.com/windows/como-reparar-barra-tareas-windows-cuando-no-oculta-automaticamente-1392526'>Cómo reparar la barra de tareas de Windows cuando no se oculta automáticamente</a></h4>
+    <a href='https://computerhoy.com/windows/como-reparar-barra-tareas-windows-cuando-no-oculta-automaticamente-1392526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/barra-tareas-3022610.jpg?tf=1200x' alt='Cómo reparar la barra de tareas de Windows cuando no se oculta automáticamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-busca-poner-fin-cuentas-locales-eliminar-tutoriales-crearlas-windows-1392431'>Microsoft busca poner fin a las cuentas locales tras eliminar los tutoriales para crearlas en Windows</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-busca-poner-fin-cuentas-locales-eliminar-tutoriales-crearlas-windows-1392431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-trae-nuevo-error-configuracion-suma-ultimo-vpn-3499949.jpg?tf=1200x' alt='Microsoft busca poner fin a las cuentas locales tras eliminar los tutoriales para crearlas en Windows' />
+    <h4><a href='https://computerhoy.com/tv/justos-pecadores-coste-acabar-iptv-saldra-bolsillo-todos-contribuyentes-1392181'>Justos por pecadores: el coste de acabar con las IPTV saldrá del bolsillo de todos los contribuyentes</a></h4>
+    <a href='https://computerhoy.com/tv/justos-pecadores-coste-acabar-iptv-saldra-bolsillo-todos-contribuyentes-1392181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/justos-pecadores-coste-acabar-iptv-saldra-bolsillo-todos-contribuyentes-3562596.jpg?tf=1200x' alt='Justos por pecadores: el coste de acabar con las IPTV saldrá del bolsillo de todos los contribuyentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-hace-copias-seguridad-onedrive-manera-automatica-permiso-puedes-evitarlo-1392635'>Windows 11 hace copias de seguridad de OneDrive de manera automática sin permiso: así puedes evitarlo</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-hace-copias-seguridad-onedrive-manera-automatica-permiso-puedes-evitarlo-1392635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/onedrive-3285530.jpg?tf=1200x' alt='Windows 11 hace copias de seguridad de OneDrive de manera automática sin permiso: así puedes evitarlo' />
+    <h4><a href='https://computerhoy.com/windows/alguien-logra-traer-vuelta-wordpad-windows-11-24h2-ha-logrado-1392436'>Alguien logra traer de vuelta WordPad a Windows 11 24H2: así lo ha logrado</a></h4>
+    <a href='https://computerhoy.com/windows/alguien-logra-traer-vuelta-wordpad-windows-11-24h2-ha-logrado-1392436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-cierra-wordpad-estas-son-mejores-alternativas-gratuitas-3311706.jpg?tf=1200x' alt='Alguien logra traer de vuelta WordPad a Windows 11 24H2: así lo ha logrado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dstike-deauther-watch-x-apple-watch-hackers-flipper-zero-muneca-1392228'>DSTIKE Deauther Watch X: el Apple Watch de los hackers, un Flipper Zero en tu muñeca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dstike-deauther-watch-x-apple-watch-hackers-flipper-zero-muneca-1392228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dstike-deauther-watch-x-apple-watch-hackers-flipper-zero-muneca-3564296.jpg?tf=1200x' alt='DSTIKE Deauther Watch X: el Apple Watch de los hackers, un Flipper Zero en tu muñeca' />
+    <h4><a href='https://computerhoy.com/tecnologia/intel-sigue-ofrecer-solucion-inestabilidad-cpu-problemas-persisten-1392645'>Intel sigue sin ofrecer solución a la inestabilidad de sus CPU y los problemas persisten</a></h4>
+    <a href='https://computerhoy.com/tecnologia/intel-sigue-ofrecer-solucion-inestabilidad-cpu-problemas-persisten-1392645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/InteldespediraamilesdeempleadosporlasbajasventasdePCsegunBloomberg_166559458269231614.jpg?tf=1200x' alt='Intel sigue sin ofrecer solución a la inestabilidad de sus CPU y los problemas persisten' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/superordenador-frontier-establece-nuevo-estandar-simulacion-molecular-1392129'>El superordenador Frontier establece un nuevo estándar en simulación molecular</a></h4>
-    <a href='https://computerhoy.com/ciencia/superordenador-frontier-establece-nuevo-estandar-simulacion-molecular-1392129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/superordenador-frontier-2716253.jpg?tf=1200x' alt='El superordenador Frontier establece un nuevo estándar en simulación molecular' />
+    <h4><a href='https://computerhoy.com/entretenimiento/libros-stephen-king-no-tienen-pelicula-necesitan-adaptacion-ya-1391877'>5 libros de Stephen King que no tienen película y necesitan una adaptación ya</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/libros-stephen-king-no-tienen-pelicula-necesitan-adaptacion-ya-1391877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/stephen-king-3298586.jpg?tf=1200x' alt='5 libros de Stephen King que no tienen película y necesitan una adaptación ya' />
     </a>
 </div>
 
