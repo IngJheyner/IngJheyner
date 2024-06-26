@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/paises-incluye-cada-zona-roaming-vodafone-1392816'>Qué países incluye cada zona de roaming con Vodafone</a></h4>
+    <a href='https://computerhoy.com/internet/paises-incluye-cada-zona-roaming-vodafone-1392816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vodafone-roaming-3599848.jpg?tf=1200x' alt='Qué países incluye cada zona de roaming con Vodafone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/utilizas-windows-10-olvidate-wifi-7-microsoft-reserva-cosas-importantes-1392439'>Si utilizas Windows 10, olvídate de WiFi 7: Microsoft lo reserva para "cosas más importantes"</a></h4>
+    <a href='https://computerhoy.com/pc/utilizas-windows-10-olvidate-wifi-7-microsoft-reserva-cosas-importantes-1392439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wi-fi-7-queda-fuera-windows-10-microsoft-reserva-pc-copilot-3584680.jpg?tf=1200x' alt='Si utilizas Windows 10, olvídate de WiFi 7: Microsoft lo reserva para "cosas más importantes"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/dall-e-inteligencia-artificial-openai-gratis-todos-1132735'>La inteligencia artificial Dall-E de OpenAI ya está disponible gratis para todos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/dall-e-inteligencia-artificial-openai-gratis-todos-1132735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-dall-openai-ya-disponible-gratis-todos-3597181.jpg?tf=1200x' alt='La inteligencia artificial Dall-E de OpenAI ya está disponible gratis para todos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/increible-pc-escuelas-coreanas-mataria-cualquier-gamer-1392837'>El increíble PC de las escuelas coreanas por el que mataría cualquier gamer</a></h4>
     <a href='https://computerhoy.com/tecnologia/increible-pc-escuelas-coreanas-mataria-cualquier-gamer-1392837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/filtran-esperadas-tarjetas-rtx-4070-4060-2988092.jpg?tf=1200x' alt='El increíble PC de las escuelas coreanas por el que mataría cualquier gamer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/logra-ejecutar-windows-xp-mitico-intel-486-gracias-hack-kernel-1392429'>Logra ejecutar Windows XP en el mítico Intel 486 gracias a un hack del kernel</a></h4>
-    <a href='https://computerhoy.com/windows/logra-ejecutar-windows-xp-mitico-intel-486-gracias-hack-kernel-1392429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-xp-3319714.jpg?tf=1200x' alt='Logra ejecutar Windows XP en el mítico Intel 486 gracias a un hack del kernel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/son-realmente-seguras-extensiones-google-descargadas-chrome-web-store-1392438'>¿Son realmente seguras las extensiones de Google descargadas desde Chrome Web Store?</a></h4>
-    <a href='https://computerhoy.com/google/son-realmente-seguras-extensiones-google-descargadas-chrome-web-store-1392438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/son-seguras-extensiones-google-descargadas-chrome-web-store-3584338.jpg?tf=1200x' alt='¿Son realmente seguras las extensiones de Google descargadas desde Chrome Web Store?' />
     </a>
 </div>
 
