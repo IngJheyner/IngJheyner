@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-avatar-whatsapp-fotografia-1345522'>Cómo crear un avatar para WhatsApp idéntico a ti desde una foto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-avatar-whatsapp-fotografia-1345522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-crear-avatar-whatsapp-identico-ti-fotografia-3241288.jpg?tf=1200x' alt='Cómo crear un avatar para WhatsApp idéntico a ti desde una foto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ciberpunk-tenia-razon-adelantos-tecnologicos-ciencia-ficcion-80-adivino-1390298'>El ciberpunk tenía razón: 5 adelantos tecnológicos que la ciencia ficción de los 80 adivinó</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ciberpunk-tenia-razon-adelantos-tecnologicos-ciencia-ficcion-80-adivino-1390298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberpunk-tenia-razon-5-adelantos-tecnologicos-ciencia-ficcion-80-adivino-3485025.jpg?tf=1200x' alt='El ciberpunk tenía razón: 5 adelantos tecnológicos que la ciencia ficción de los 80 adivinó' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nordvpn-regala-esim-oferta-verano-1390728'>NordVPN hace un 2x1: por 3,99 euros te llevas la VPN más rápida y eSIM gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/nordvpn-regala-esim-oferta-verano-1390728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-3408136.jpg?tf=1200x' alt='NordVPN hace un 2x1: por 3,99 euros te llevas la VPN más rápida y eSIM gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/me-ha-gustado-huawei-matebook-14-relacion-calidad-precio-1392380'>Se dice mucho, pero es verdad: Lo que más me ha gustado del Huawei Matebook 14 es su relación calidad-precio</a></h4>
     <a href='https://computerhoy.com/pc/me-ha-gustado-huawei-matebook-14-relacion-calidad-precio-1392380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-matebook-14-2024-3569659.jpg?tf=1200x' alt='Se dice mucho, pero es verdad: Lo que más me ha gustado del Huawei Matebook 14 es su relación calidad-precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-honor-200-lite-principal-ventaja-precio-tan-ajustado-1392258'>He probado el Honor 200 Lite y su principal ventaja está en su precio tan ajustado</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-honor-200-lite-principal-ventaja-precio-tan-ajustado-1392258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-lite-0001-3593361.jpg?tf=1200x' alt='He probado el Honor 200 Lite y su principal ventaja está en su precio tan ajustado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/programa-te-permite-cambiar-ubicacion-barra-tareas-windows-11-facilmente-1391245'>Este programa te permite cambiar la ubicación de la barra de tareas de Windows 11 fácilmente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/programa-te-permite-cambiar-ubicacion-barra-tareas-windows-11-facilmente-1391245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/programa-te-permite-cambiar-ubicacion-barra-tareas-windows-11-facilmente-3518742.jpg?tf=1200x' alt='Este programa te permite cambiar la ubicación de la barra de tareas de Windows 11 fácilmente' />
     </a>
 </div>
 
