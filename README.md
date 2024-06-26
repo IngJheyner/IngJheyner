@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/isp-instalo-malware-600000-clientes-bloquear-archivos-torrent-1392937'>Un ISP instaló malware a 600.000 clientes para bloquear los archivos Torrent</a></h4>
+    <a href='https://computerhoy.com/internet/isp-instalo-malware-600000-clientes-bloquear-archivos-torrent-1392937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/isp-instalo-malware-ordenadores-clientes-bloquear-ficheros-torrent-3602725.jpg?tf=1200x' alt='Un ISP instaló malware a 600.000 clientes para bloquear los archivos Torrent' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-1392513'>Qué es el modo hotel y cómo desactivarlo en una Smart TV LG, Hisense o Samsung</a></h4>
+    <a href='https://computerhoy.com/tv/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-1392513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-3587561.jpg?tf=1200x' alt='Qué es el modo hotel y cómo desactivarlo en una Smart TV LG, Hisense o Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/spacex-telefono-emergencia-basura-espacial-1392936'>Ya lo predijeron Los Sims: SpaceX tiene un teléfono por si te cae un satélite en la cabeza</a></h4>
     <a href='https://computerhoy.com/espacio/spacex-telefono-emergencia-basura-espacial-1392936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ya-predijeron-sims-spacex-tiene-telefono-te-cae-satelite-cabeza-3601972.jpg?tf=1200x' alt='Ya lo predijeron Los Sims: SpaceX tiene un teléfono por si te cae un satélite en la cabeza' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246'>Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla</a></h4>
     <a href='https://computerhoy.com/tecnologia/maquina-teje-ropa-base-gelatina-puedes-disolver-despues-utilizarla-1392246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ropa-perchas-3565060.jpg?tf=1200x' alt='Esta máquina teje ropa a base de gelatina que puedes disolver después de utilizarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-variante-troyano-medusa-android-elige-espana-como-objetivos-principales-1392933'>La nueva variante del troyano Medusa para Android elige España como uno de sus objetivos principales</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nueva-variante-troyano-medusa-android-elige-espana-como-objetivos-principales-1392933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/troyano-bancario-medusa-movil-3602275.jpg?tf=1200x' alt='La nueva variante del troyano Medusa para Android elige España como uno de sus objetivos principales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/mayor-debilidad-enfrenta-apple-ia-iphone-1392188'>Esta es la mayor debilidad a la que se enfrenta Apple con la IA de los iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/mayor-debilidad-enfrenta-apple-ia-iphone-1392188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mayor-debilidad-apple-ia-iphone-3562763.jpg?tf=1200x' alt='Esta es la mayor debilidad a la que se enfrenta Apple con la IA de los iPhone' />
     </a>
 </div>
 
