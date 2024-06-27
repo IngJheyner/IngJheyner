@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cuanto-cuesta-atasco-trafico-cifra-te-dejara-tan-parado-como-coche-operacion-salida-1392857'>¿Cuánto cuesta un atasco de tráfico? La cifra te dejará tan parado como tu coche en la operación salida</a></h4>
+    <a href='https://computerhoy.com/motor/cuanto-cuesta-atasco-trafico-cifra-te-dejara-tan-parado-como-coche-operacion-salida-1392857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conductor-enfadado-3600354.jpg?tf=1200x' alt='¿Cuánto cuesta un atasco de tráfico? La cifra te dejará tan parado como tu coche en la operación salida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732'>¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras</a></h4>
+    <a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-3596739.jpg?tf=1200x' alt='¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-1392731'>HackRF One, la alternativa a Flipper Zero para hackear e interceptar señales de radio</a></h4>
     <a href='https://computerhoy.com/tecnologia/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-1392731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-3596445.jpg?tf=1200x' alt='HackRF One, la alternativa a Flipper Zero para hackear e interceptar señales de radio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/isp-instalo-malware-600000-clientes-bloquear-archivos-torrent-1392937'>Un ISP instaló malware a 600.000 clientes para bloquear los archivos Torrent</a></h4>
     <a href='https://computerhoy.com/internet/isp-instalo-malware-600000-clientes-bloquear-archivos-torrent-1392937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/isp-instalo-malware-ordenadores-clientes-bloquear-ficheros-torrent-3602725.jpg?tf=1200x' alt='Un ISP instaló malware a 600.000 clientes para bloquear los archivos Torrent' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-1392513'>Qué es el modo hotel y cómo desactivarlo en una Smart TV LG, Hisense o Samsung</a></h4>
-    <a href='https://computerhoy.com/tv/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-1392513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-3587561.jpg?tf=1200x' alt='Qué es el modo hotel y cómo desactivarlo en una Smart TV LG, Hisense o Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/spacex-telefono-emergencia-basura-espacial-1392936'>Ya lo predijeron Los Sims: SpaceX tiene un teléfono por si te cae un satélite en la cabeza</a></h4>
-    <a href='https://computerhoy.com/espacio/spacex-telefono-emergencia-basura-espacial-1392936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ya-predijeron-sims-spacex-tiene-telefono-te-cae-satelite-cabeza-3601972.jpg?tf=1200x' alt='Ya lo predijeron Los Sims: SpaceX tiene un teléfono por si te cae un satélite en la cabeza' />
     </a>
 </div>
 
