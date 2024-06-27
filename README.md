@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/brujula-no-tiene-norte-pero-marca-camino-cualquier-destino-1392945'>Esta brújula no tiene Norte, pero marca el camino a cualquier destino </a></h4>
-    <a href='https://computerhoy.com/tecnologia/brujula-no-tiene-norte-pero-marca-camino-cualquier-destino-1392945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1719449167281-3603781.jpg?tf=1200x' alt='Esta brújula no tiene Norte, pero marca el camino a cualquier destino ' />
+    <h4><a href='https://computerhoy.com/tecnologia/unica-profesion-ia-no-puede-reemplazar-aunque-suene-broma-1392836'>Esta es la única profesión que la IA no puede reemplazar, aunque suene a broma</a></h4>
+    <a href='https://computerhoy.com/tecnologia/unica-profesion-ia-no-puede-reemplazar-aunque-suene-broma-1392836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/unica-profesion-ia-no-puede-reemplazar-aunque-suene-broma-3599829.jpg?tf=1200x' alt='Esta es la única profesión que la IA no puede reemplazar, aunque suene a broma' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-1392612'>Así funciona el gel que puede convertir la vibración del movimiento de los objetos en energía</a></h4>
-    <a href='https://computerhoy.com/ciencia/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-1392612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-3591549.jpg?tf=1200x' alt='Así funciona el gel que puede convertir la vibración del movimiento de los objetos en energía' />
+    <h4><a href='https://computerhoy.com/tecnologia/version-china-her-haciendo-mujeres-enamoren-ia-1392465'>La versión china de “Her”, que está haciendo que las mujeres se enamoren de una IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/version-china-her-haciendo-mujeres-enamoren-ia-1392465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/version-china-her-haciendo-mujeres-asiaticas-enamoren-ia-3585002.jpg?tf=1200x' alt='La versión china de “Her”, que está haciendo que las mujeres se enamoren de una IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cuanto-cuesta-atasco-trafico-cifra-te-dejara-tan-parado-como-coche-operacion-salida-1392857'>¿Cuánto cuesta un atasco de tráfico? La cifra te dejará tan parado como tu coche en la operación salida</a></h4>
-    <a href='https://computerhoy.com/motor/cuanto-cuesta-atasco-trafico-cifra-te-dejara-tan-parado-como-coche-operacion-salida-1392857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conductor-enfadado-3600354.jpg?tf=1200x' alt='¿Cuánto cuesta un atasco de tráfico? La cifra te dejará tan parado como tu coche en la operación salida' />
+    <h4><a href='https://computerhoy.com/tecnologia/ponen-fecha-nueva-generacion-ia-sera-10000-veces-inteligente-humanos-1392828'>Ponen fecha a la nueva generación de IA: “será 10.000 veces más inteligente que los humanos”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ponen-fecha-nueva-generacion-ia-sera-10000-veces-inteligente-humanos-1392828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/japones-pone-fecha-nueva-ia-sera-10000-veces-inteligente-humanos-3599674.jpg?tf=1200x' alt='Ponen fecha a la nueva generación de IA: “será 10.000 veces más inteligente que los humanos”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/vuelo-comercial-mas-corto-mundo-1392539'>El vuelo comercial más corto del mundo dura solo 80 segundos</a></h4>
-    <a href='https://computerhoy.com/motor/vuelo-comercial-mas-corto-mundo-1392539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vuelo-comercial-corto-mundo-dura-solo-80-segundos-3588173.jpg?tf=1200x' alt='El vuelo comercial más corto del mundo dura solo 80 segundos' />
+    <h4><a href='https://computerhoy.com/tecnologia/lenovo-x3-auriculares-conduccion-osea-baratos-moda-1383108'>Son la moda más fuerte y sigue creciendo: estos cascos de conducción ósea de menos de 20€ te permitirán probarlos a coste ridículo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lenovo-x3-auriculares-conduccion-osea-baratos-moda-1383108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lenovo-x3-3554979.jpg?tf=1200x' alt='Son la moda más fuerte y sigue creciendo: estos cascos de conducción ósea de menos de 20€ te permitirán probarlos a coste ridículo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732'>¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras</a></h4>
-    <a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-3596739.jpg?tf=1200x' alt='¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras' />
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-watch-rebaja-aliexpress-1384365'>Xiaomi da la campanada: su reloj para Android hunde su precio y pone en apuros a Samsung y Garmin</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-watch-rebaja-aliexpress-1384365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/xiaomi-watch-2-3555277.jpg?tf=1200x' alt='Xiaomi da la campanada: su reloj para Android hunde su precio y pone en apuros a Samsung y Garmin' />
     </a>
 </div>
 
