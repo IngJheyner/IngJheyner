@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/donde-ver-laliga-2024-25-primera-division-recurrir-iptv-1393118'>Dónde ver LaLiga 2024/25 de primera división sin recurrir a las IPTV</a></h4>
+    <a href='https://computerhoy.com/tecnologia/donde-ver-laliga-2024-25-primera-division-recurrir-iptv-1393118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ver-futbol-television-3609634.jpg?tf=1200x' alt='Dónde ver LaLiga 2024/25 de primera división sin recurrir a las IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ya-disponible-android-auto-123-novedades-como-actualizar-ahora-mismo-1393117'>Ya disponible Android Auto 12.3: novedades y cómo actualizar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/apps/ya-disponible-android-auto-123-novedades-como-actualizar-ahora-mismo-1393117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/android-auto-123-3609483.jpg?tf=1200x' alt='Ya disponible Android Auto 12.3: novedades y cómo actualizar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/fire-tv-stick-amazon-convierte-potente-consola-videojuegos-xbox-1393116'>Fire TV Stick de Amazon se convierte en una potente consola de videojuegos Xbox</a></h4>
     <a href='https://computerhoy.com/entretenimiento/fire-tv-stick-amazon-convierte-potente-consola-videojuegos-xbox-1393116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fire-tv-amazon-convierte-potente-consola-videojuegos-xbox-3608886.jpg?tf=1200x' alt='Fire TV Stick de Amazon se convierte en una potente consola de videojuegos Xbox' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-anadir-superpoderes-raspberry-pi-inteligencia-artificial-1393090'>Cómo añadir superpoderes a una Raspberry Pi con inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-anadir-superpoderes-raspberry-pi-inteligencia-artificial-1393090' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-anadir-superpoderes-raspberry-pi-inteligencia-artificial-3609180.jpg?tf=1200x' alt='Cómo añadir superpoderes a una Raspberry Pi con inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intel-sigue-ofrecer-solucion-inestabilidad-cpu-problemas-persisten-1392645'>Intel sigue sin ofrecer solución a la inestabilidad de sus CPU y los problemas persisten</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intel-sigue-ofrecer-solucion-inestabilidad-cpu-problemas-persisten-1392645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/InteldespediraamilesdeempleadosporlasbajasventasdePCsegunBloomberg_166559458269231614.jpg?tf=1200x' alt='Intel sigue sin ofrecer solución a la inestabilidad de sus CPU y los problemas persisten' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/sabe-terminator-zero-serie-netflix-volvera-raices-saga-1392654'>Qué se sabe de Terminator Zero, la serie de Netflix que volverá a las raíces de la saga</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/sabe-terminator-zero-serie-netflix-volvera-raices-saga-1392654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sabe-terminator-zero-serie-netflix-volvera-raices-saga-3592175.jpg?tf=1200x' alt='Qué se sabe de Terminator Zero, la serie de Netflix que volverá a las raíces de la saga' />
     </a>
 </div>
 
