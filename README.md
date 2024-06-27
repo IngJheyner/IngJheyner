@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-exorcismos-john-carpenter-casi-nadie-recuerda-trabajaba-estrella-rock-tapadillo-1392848'>La incomprendida película de exorcismos de John Carpenter que casi nadie recuerda y hasta en la que trabajaba una estrella de rock de tapadillo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-exorcismos-john-carpenter-casi-nadie-recuerda-trabajaba-estrella-rock-tapadillo-1392848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/incomprendida-pelicula-exorcismos-john-carpenter-casi-nadie-recuerda-trabajaba-estrella-rock-tapadillo-3600026.jpg?tf=1200x' alt='La incomprendida película de exorcismos de John Carpenter que casi nadie recuerda y hasta en la que trabajaba una estrella de rock de tapadillo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-hace-copias-seguridad-onedrive-manera-automatica-permiso-puedes-evitarlo-1392635'>Windows 11 hace copias de seguridad de OneDrive de manera automática sin permiso: así puedes evitarlo</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-hace-copias-seguridad-onedrive-manera-automatica-permiso-puedes-evitarlo-1392635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/onedrive-3285530.jpg?tf=1200x' alt='Windows 11 hace copias de seguridad de OneDrive de manera automática sin permiso: así puedes evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-1392541'>Memoria RAM vs. memoria caché: para qué sirve cada una y en qué se diferencian</a></h4>
+    <a href='https://computerhoy.com/pc/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-1392541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-3590017.jpg?tf=1200x' alt='Memoria RAM vs. memoria caché: para qué sirve cada una y en qué se diferencian' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/fraude-diesel-no-deja-crecer-gasolineras-low-cost-1392698'>¿Por qué el “fraude del diésel” no deja de crecer en las gasolineras low cost?</a></h4>
+    <a href='https://computerhoy.com/motor/fraude-diesel-no-deja-crecer-gasolineras-low-cost-1392698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/persona-echando-gasolina-coche-senal-peligro-3600033.jpg?tf=1200x' alt='¿Por qué el “fraude del diésel” no deja de crecer en las gasolineras low cost?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-elegir-combinar-cpu-gpu-evitar-cuellos-botella-1392530'>Cómo elegir y combinar CPU y GPU para evitar cuellos de botella</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-elegir-combinar-cpu-gpu-evitar-cuellos-botella-1392530' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-elegir-combinar-cpu-gpu-evitar-cuellos-botella-3588019.jpg?tf=1200x' alt='Cómo elegir y combinar CPU y GPU para evitar cuellos de botella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-1393074'>Tiembla Google Maps: el próximo Waze podría ser tan avanzado que no tendrás ni que tocarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-1393074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-3608729.jpg?tf=1200x' alt='Tiembla Google Maps: el próximo Waze podría ser tan avanzado que no tendrás ni que tocarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-revela-error-mayores-secretos-ejercito-americano-1393036'>Google Maps revela por error uno de los mayores secretos del ejército americano</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-revela-error-mayores-secretos-ejercito-americano-1393036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-secretos-ejercito-3607336.jpg?tf=1200x' alt='Google Maps revela por error uno de los mayores secretos del ejército americano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/atajos-cosas-sorprendentes-puedes-hacer-touchpad-portatil-windows-11-1392251'>Atajos y cosas sorprendentes que puedes hacer con el touchpad de tu portátil en Windows 11</a></h4>
-    <a href='https://computerhoy.com/pc/atajos-cosas-sorprendentes-puedes-hacer-touchpad-portatil-windows-11-1392251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/atajos-cosas-sorprendentes-puedes-hacer-touchpad-portatil-windows-11-3566358.jpg?tf=1200x' alt='Atajos y cosas sorprendentes que puedes hacer con el touchpad de tu portátil en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/configuracion-wifi-arruinando-rendimiento-fire-tv-1349597'>La configuración WiFi que arruina el rendimiento de tu Amazon Fire TV y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/configuracion-wifi-arruinando-rendimiento-fire-tv-1349597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/configuracion-wifi-arruinando-rendimiento-amazon-fire-tv-como-solucionarlo-3248520.jpg?tf=1200x' alt='La configuración WiFi que arruina el rendimiento de tu Amazon Fire TV y cómo solucionarlo' />
     </a>
 </div>
 
