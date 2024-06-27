@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/honeypot-trampa-saber-ves-futbol-gratis-iptv-1393114'>Qué es un Honeypot, la trampa para saber que ves el fútbol gratis por IPTV</a></h4>
+    <a href='https://computerhoy.com/internet/honeypot-trampa-saber-ves-futbol-gratis-iptv-1393114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honeypot-trampa-saber-ves-futbol-gratis-iptv-3610091.jpg?tf=1200x' alt='Qué es un Honeypot, la trampa para saber que ves el fútbol gratis por IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/atletas-japonesas-olimpiadas-paris-24-tejido-bloquea-camaras-infrarrojos-1393123'>Las atletas japonesas de las Olimpiadas llevarán un tejido que bloquea las cámaras que revelan la ropa interior</a></h4>
     <a href='https://computerhoy.com/tecnologia/atletas-japonesas-olimpiadas-paris-24-tejido-bloquea-camaras-infrarrojos-1393123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/atletas-japonesas-olimpiadas-llevaran-tejido-bloquea-camaras-revelan-ropa-interior-3609482.jpg?tf=1200x' alt='Las atletas japonesas de las Olimpiadas llevarán un tejido que bloquea las cámaras que revelan la ropa interior' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ya-disponible-android-auto-123-novedades-como-actualizar-ahora-mismo-1393117'>Ya disponible Android Auto 12.3: novedades y cómo actualizar ahora mismo</a></h4>
     <a href='https://computerhoy.com/apps/ya-disponible-android-auto-123-novedades-como-actualizar-ahora-mismo-1393117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/android-auto-123-3609483.jpg?tf=1200x' alt='Ya disponible Android Auto 12.3: novedades y cómo actualizar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/fire-tv-stick-amazon-convierte-potente-consola-videojuegos-xbox-1393116'>Fire TV Stick de Amazon se convierte en una potente consola de videojuegos Xbox</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/fire-tv-stick-amazon-convierte-potente-consola-videojuegos-xbox-1393116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fire-tv-amazon-convierte-potente-consola-videojuegos-xbox-3608886.jpg?tf=1200x' alt='Fire TV Stick de Amazon se convierte en una potente consola de videojuegos Xbox' />
     </a>
 </div>
 
