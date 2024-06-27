@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/chivatos-carretera-dgt-guardia-civil-vs-whatsapp-telegram-ocurriendo-1391630'>¿Chivatos en la carretera? DGT y Guardia Civil vs. WhatsApp y Telegram: esto es lo que está ocurriendo</a></h4>
+    <a href='https://computerhoy.com/apps/chivatos-carretera-dgt-guardia-civil-vs-whatsapp-telegram-ocurriendo-1391630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/guardia-civil-apps-3541433.jpg?tf=1200x' alt='¿Chivatos en la carretera? DGT y Guardia Civil vs. WhatsApp y Telegram: esto es lo que está ocurriendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/acemagic-mini-pc-potente-barato-intel-core-i9-1368105'>Es un Mini PC con alma de gigante: Intel Core i9 y 16GB de RAM a precio de chollo</a></h4>
     <a href='https://computerhoy.com/tecnologia/acemagic-mini-pc-potente-barato-intel-core-i9-1368105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/acemagic-ad08-3555280.jpg?tf=1200x' alt='Es un Mini PC con alma de gigante: Intel Core i9 y 16GB de RAM a precio de chollo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/verano-movil-va-sudar-estos-son-trucos-no-sobrecaliente-1391976'>Este verano tu móvil va a sudar, estos son mis trucos para que no se sobrecaliente</a></h4>
     <a href='https://computerhoy.com/moviles/verano-movil-va-sudar-estos-son-trucos-no-sobrecaliente-1391976' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-piscina-3554983.jpg?tf=1200x' alt='Este verano tu móvil va a sudar, estos son mis trucos para que no se sobrecaliente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/me-he-convertido-guru-musical-5-trucos-utilizo-exprimir-maximo-algoritmo-spotify-1388948'>Así me he convertido en un gurú musical: 5 trucos que utilizo para exprimir al máximo el algoritmo de Spotify</a></h4>
-    <a href='https://computerhoy.com/tecnologia/me-he-convertido-guru-musical-5-trucos-utilizo-exprimir-maximo-algoritmo-spotify-1388948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carlos-auriculares-3417321.jpg?tf=1200x' alt='Así me he convertido en un gurú musical: 5 trucos que utilizo para exprimir al máximo el algoritmo de Spotify' />
     </a>
 </div>
 
