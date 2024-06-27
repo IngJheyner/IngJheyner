@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/apps/100-imagenes-frases-tu-estado-whatsapp-70175'>Más de 100 imágenes y frases para tu estado de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/noticias/apps/100-imagenes-frases-tu-estado-whatsapp-70175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/100-imagenes-frases-estado-whatsapp-3604078.jpg?tf=1200x' alt='Más de 100 imágenes y frases para tu estado de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-1393047'>Este modelo de lenguaje de IA tiene un consumo de memoria 10 veces menor: Nvidia y AMD son el objetivo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-1393047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-3607332.jpg?tf=1200x' alt='Este modelo de lenguaje de IA tiene un consumo de memoria 10 veces menor: Nvidia y AMD son el objetivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/presentan-primeros-ssd-externos-usb-4-v2-1392831'>Presentan los primeros SSD externos con USB 4 v2</a></h4>
+    <a href='https://computerhoy.com/tecnologia/presentan-primeros-ssd-externos-usb-4-v2-1392831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asmedia-ha-presentado-primeros-ssd-externos-usb-4-v2-pero-no-llegaran-2025-3599682.jpg?tf=1200x' alt='Presentan los primeros SSD externos con USB 4 v2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/increible-pc-escuelas-coreanas-mataria-cualquier-gamer-1392837'>El increíble PC de las escuelas coreanas por el que mataría cualquier gamer</a></h4>
+    <a href='https://computerhoy.com/tecnologia/increible-pc-escuelas-coreanas-mataria-cualquier-gamer-1392837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/filtran-esperadas-tarjetas-rtx-4070-4060-2988092.jpg?tf=1200x' alt='El increíble PC de las escuelas coreanas por el que mataría cualquier gamer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/malos-habitos-conducir-google-maps-te-hacen-gastar-gasolina-1392605'>Malos hábitos al conducir (y con Google Maps) que te hacen gastar más gasolina</a></h4>
     <a href='https://computerhoy.com/malos-habitos-conducir-google-maps-te-hacen-gastar-gasolina-1392605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/malos-habitos-coche-gasolina-3591501.jpg?tf=1200x' alt='Malos hábitos al conducir (y con Google Maps) que te hacen gastar más gasolina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/internet/paginas-buscar-personas-gratis-internet-70207'>Páginas para buscar personas por Internet gratis</a></h4>
-    <a href='https://computerhoy.com/listas/internet/paginas-buscar-personas-gratis-internet-70207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/buscar-alguien-internet-3074884.jpg?tf=1200x' alt='Páginas para buscar personas por Internet gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/logran-traer-vuelta-windows-10-gracias-picovision-puedes-usarlo-como-fuese-1985-hardware-moderno-1393028'>Logran traer de vuelta Windows 1.0 gracias a PicoVision y puedes usarlo como si fuese 1985 en un hardware moderno</a></h4>
-    <a href='https://computerhoy.com/tecnologia/logran-traer-vuelta-windows-10-gracias-picovision-puedes-usarlo-como-fuese-1985-hardware-moderno-1393028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/regreso-futuro-windows-10-3606521.jpg?tf=1200x' alt='Logran traer de vuelta Windows 1.0 gracias a PicoVision y puedes usarlo como si fuese 1985 en un hardware moderno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/laliga-va-usuarios-ven-futbol-pirata-exige-pago-450-euros-no-quieren-ir-juicio-1392797'>LaLiga va a por los usuarios que ven fútbol pirata y exige un pago de 450 euros si no quieren ir a juicio</a></h4>
-    <a href='https://computerhoy.com/internet/laliga-va-usuarios-ven-futbol-pirata-exige-pago-450-euros-no-quieren-ir-juicio-1392797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/futbol-pirata-3598725.jpg?tf=1200x' alt='LaLiga va a por los usuarios que ven fútbol pirata y exige un pago de 450 euros si no quieren ir a juicio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/consola-barata-nintendo-baja-aun-todo-catalogo-mano-150-euros-1393020'>La consola más barata de Nintendo baja más aún: todo su catálogo en tu mano por 150 euros</a></h4>
-    <a href='https://computerhoy.com/gaming/consola-barata-nintendo-baja-aun-todo-catalogo-mano-150-euros-1393020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/nintendo-switch-lite-2187913.jpg?tf=1200x' alt='La consola más barata de Nintendo baja más aún: todo su catálogo en tu mano por 150 euros' />
     </a>
 </div>
 
