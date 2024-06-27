@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/atletas-japonesas-olimpiadas-paris-24-tejido-bloquea-camaras-infrarrojos-1393123'>Las atletas japonesas de las Olimpiadas llevarán un tejido que bloquea las cámaras que revelan la ropa interior</a></h4>
+    <a href='https://computerhoy.com/tecnologia/atletas-japonesas-olimpiadas-paris-24-tejido-bloquea-camaras-infrarrojos-1393123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/atletas-japonesas-olimpiadas-llevaran-tejido-bloquea-camaras-revelan-ropa-interior-3609482.jpg?tf=1200x' alt='Las atletas japonesas de las Olimpiadas llevarán un tejido que bloquea las cámaras que revelan la ropa interior' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724'>Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar</a></h4>
+    <a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-store-3594966.jpg?tf=1200x' alt='Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/donde-ver-laliga-2024-25-primera-division-recurrir-iptv-1393118'>Dónde ver LaLiga 2024/25 de primera división sin recurrir a las IPTV</a></h4>
     <a href='https://computerhoy.com/tecnologia/donde-ver-laliga-2024-25-primera-division-recurrir-iptv-1393118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ver-futbol-television-3609634.jpg?tf=1200x' alt='Dónde ver LaLiga 2024/25 de primera división sin recurrir a las IPTV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/fire-tv-stick-amazon-convierte-potente-consola-videojuegos-xbox-1393116'>Fire TV Stick de Amazon se convierte en una potente consola de videojuegos Xbox</a></h4>
     <a href='https://computerhoy.com/entretenimiento/fire-tv-stick-amazon-convierte-potente-consola-videojuegos-xbox-1393116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fire-tv-amazon-convierte-potente-consola-videojuegos-xbox-3608886.jpg?tf=1200x' alt='Fire TV Stick de Amazon se convierte en una potente consola de videojuegos Xbox' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-suena-pantalla-trasera-iphone-camaras-adicionales-1392302'>Apple sueña con una pantalla trasera en el iPhone y cámaras adicionales</a></h4>
-    <a href='https://computerhoy.com/apple/apple-suena-pantalla-trasera-iphone-camaras-adicionales-1392302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='Apple sueña con una pantalla trasera en el iPhone y cámaras adicionales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-anadir-superpoderes-raspberry-pi-inteligencia-artificial-1393090'>Cómo añadir superpoderes a una Raspberry Pi con inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-anadir-superpoderes-raspberry-pi-inteligencia-artificial-1393090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-anadir-superpoderes-raspberry-pi-inteligencia-artificial-3609180.jpg?tf=1200x' alt='Cómo añadir superpoderes a una Raspberry Pi con inteligencia artificial' />
     </a>
 </div>
 
