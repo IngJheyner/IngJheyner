@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guia-paso-paso-encontrar-trabajo-chatgpt-1392773'>Guía paso a paso para encontrar trabajo con ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guia-paso-paso-encontrar-trabajo-chatgpt-1392773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-ayuda-trabajo-3598559.jpg?tf=1200x' alt='Guía paso a paso para encontrar trabajo con ChatGPT' />
+    <h4><a href='https://computerhoy.com/google/google-chrome-te-va-lento-posibles-problemas-como-solucionarlo-1392785'>¿Google Chrome te va lento? Posibles problemas y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/google/google-chrome-te-va-lento-posibles-problemas-como-solucionarlo-1392785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-chrome-problemas-3598724.jpg?tf=1200x' alt='¿Google Chrome te va lento? Posibles problemas y cómo solucionarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rabbit-r1-nuevo-problemas-vez-trata-privacidad-usuarios-1392971'>El Rabbit R1 de nuevo en problemas y esta vez se trata de la privacidad de sus usuarios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rabbit-r1-nuevo-problemas-vez-trata-privacidad-usuarios-1392971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-r1-3263345.jpg?tf=1200x' alt='El Rabbit R1 de nuevo en problemas y esta vez se trata de la privacidad de sus usuarios' />
+    <h4><a href='https://computerhoy.com/espacio/astronautas-boeing-estan-atrapados-iss-todo-sabemos-retrasos-mision-nasa-1392985'>¿Por qué los astronautas de Boeing están atrapados en la ISS? Todo lo que sabemos sobre los retrasos en la misión de la NASA</a></h4>
+    <a href='https://computerhoy.com/espacio/astronautas-boeing-estan-atrapados-iss-todo-sabemos-retrasos-mision-nasa-1392985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/boeing-podria-retrasar-mision-regreso-tierra-mision-starliner-julio-3606191.jpg?tf=1200x' alt='¿Por qué los astronautas de Boeing están atrapados en la ISS? Todo lo que sabemos sobre los retrasos en la misión de la NASA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-sugiere-conductor-ruta-anade-4-horas-surrealista-motivo-1392751'>Google Maps sugiere a un conductor una ruta que añade 4 horas por un surrealista motivo</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-sugiere-conductor-ruta-anade-4-horas-surrealista-motivo-1392751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3598554.jpg?tf=1200x' alt='Google Maps sugiere a un conductor una ruta que añade 4 horas por un surrealista motivo' />
+    <h4><a href='https://computerhoy.com/life/cifra-magica-debes-tener-banco-evitar-problemas-ocu-1392584'>La cifra mágica que debes tener en el banco para evitar problemas, según la OCU</a></h4>
+    <a href='https://computerhoy.com/life/cifra-magica-debes-tener-banco-evitar-problemas-ocu-1392584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cifra-magica-debes-tener-banco-evitar-problemas-ocu-3590974.jpg?tf=1200x' alt='La cifra mágica que debes tener en el banco para evitar problemas, según la OCU' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/impactase-asteroide-tierra-nasa-no-podria-evitarlo-dentro-14-anos-1392558'>Si impactase un asteroide contra la Tierra, la NASA no podría evitarlo hasta dentro de 14 años</a></h4>
-    <a href='https://computerhoy.com/espacio/impactase-asteroide-tierra-nasa-no-podria-evitarlo-dentro-14-anos-1392558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asteroide-chocando-tierra-3590815.jpg?tf=1200x' alt='Si impactase un asteroide contra la Tierra, la NASA no podría evitarlo hasta dentro de 14 años' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-dejara-funcionar-estos-moviles-mismo-ano-comprueba-lista-1392788'>WhatsApp dejará de funcionar en estos móviles este mismo año: comprueba si está el tuyo en la lista</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-dejara-funcionar-estos-moviles-mismo-ano-comprueba-lista-1392788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/whatsapp-prohibido-3598894.jpg?tf=1200x' alt='WhatsApp dejará de funcionar en estos móviles este mismo año: comprueba si está el tuyo en la lista' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-1335978'>Tristeza vital: cuando estar de bajón puede poner en riesgo tu salud</a></h4>
-    <a href='https://computerhoy.com/life/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-1335978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-3223314.jpg?tf=1200x' alt='Tristeza vital: cuando estar de bajón puede poner en riesgo tu salud' />
+    <h4><a href='https://computerhoy.com/tecnologia/greenwashing-pinkwashing-ahora-ia-washing-amazon-pillado-tratando-enganarte-1392977'>'Greenwashing', 'pinkwashing' y ahora 'IA washing': Amazon pillado tratando de engañarte </a></h4>
+    <a href='https://computerhoy.com/tecnologia/greenwashing-pinkwashing-ahora-ia-washing-amazon-pillado-tratando-enganarte-1392977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lavado-ia-3606031.jpg?tf=1200x' alt=''Greenwashing', 'pinkwashing' y ahora 'IA washing': Amazon pillado tratando de engañarte ' />
     </a>
 </div>
 
