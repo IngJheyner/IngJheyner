@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-elegir-combinar-cpu-gpu-evitar-cuellos-botella-1392530'>Cómo elegir y combinar CPU y GPU para evitar cuellos de botella</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-elegir-combinar-cpu-gpu-evitar-cuellos-botella-1392530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-elegir-combinar-cpu-gpu-evitar-cuellos-botella-3588019.jpg?tf=1200x' alt='Cómo elegir y combinar CPU y GPU para evitar cuellos de botella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-1393074'>Tiembla Google Maps: el próximo Waze podría ser tan avanzado que no tendrás ni que tocarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-1393074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-3608729.jpg?tf=1200x' alt='Tiembla Google Maps: el próximo Waze podría ser tan avanzado que no tendrás ni que tocarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-maps-revela-error-mayores-secretos-ejercito-americano-1393036'>Google Maps revela por error uno de los mayores secretos del ejército americano</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-revela-error-mayores-secretos-ejercito-americano-1393036' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-secretos-ejercito-3607336.jpg?tf=1200x' alt='Google Maps revela por error uno de los mayores secretos del ejército americano' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-1392890'>Encuentra una memoria USB en un tren con la pegatina ''gratis para compartir'' y se llevó tal chasco que decidió tirarlo</a></h4>
-    <a href='https://computerhoy.com/internet/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-1392890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-3601031.jpg?tf=1200x' alt='Encuentra una memoria USB en un tren con la pegatina ''gratis para compartir'' y se llevó tal chasco que decidió tirarlo' />
+    <h4><a href='https://computerhoy.com/pc/atajos-cosas-sorprendentes-puedes-hacer-touchpad-portatil-windows-11-1392251'>Atajos y cosas sorprendentes que puedes hacer con el touchpad de tu portátil en Windows 11</a></h4>
+    <a href='https://computerhoy.com/pc/atajos-cosas-sorprendentes-puedes-hacer-touchpad-portatil-windows-11-1392251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/atajos-cosas-sorprendentes-puedes-hacer-touchpad-portatil-windows-11-3566358.jpg?tf=1200x' alt='Atajos y cosas sorprendentes que puedes hacer con el touchpad de tu portátil en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-lenovo-ideal-trabajar-barata-crees-1393072'>Esta Tablet de Lenovo es ideal para trabajar y es más barata de lo que crees</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-lenovo-ideal-trabajar-barata-crees-1393072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lenovo-tab-m10-3rd-gen-3607949.jpg?tf=1200x' alt='Esta Tablet de Lenovo es ideal para trabajar y es más barata de lo que crees' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/no-te-vas-creer-movil-xiaomi-esconde-menu-oculto-muchas-funciones-secretas-1393025'>No te lo vas a creer: tu móvil Xiaomi esconde un menú oculto con muchas funciones secretas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/no-te-vas-creer-movil-xiaomi-esconde-menu-oculto-muchas-funciones-secretas-1393025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/movil-xiaomi-3607003.jpg?tf=1200x' alt='No te lo vas a creer: tu móvil Xiaomi esconde un menú oculto con muchas funciones secretas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-pretende-cambiarlo-todo-nueva-inteligencia-artificial-capaz-derrotar-chatgpt-1392771'>Amazon pretende cambiarlo todo con una nueva inteligencia artificial capaz de derrotar a ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-pretende-cambiarlo-todo-nueva-inteligencia-artificial-capaz-derrotar-chatgpt-1392771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amazon-pretende-cambiarlo-todo-nueva-inteligencia-artificial-capaz-derrotar-chatgpt-3598394.jpg?tf=1200x' alt='Amazon pretende cambiarlo todo con una nueva inteligencia artificial capaz de derrotar a ChatGPT' />
+    <h4><a href='https://computerhoy.com/tutoriales/configuracion-wifi-arruinando-rendimiento-fire-tv-1349597'>La configuración WiFi que arruina el rendimiento de tu Amazon Fire TV y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/configuracion-wifi-arruinando-rendimiento-fire-tv-1349597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/configuracion-wifi-arruinando-rendimiento-amazon-fire-tv-como-solucionarlo-3248520.jpg?tf=1200x' alt='La configuración WiFi que arruina el rendimiento de tu Amazon Fire TV y cómo solucionarlo' />
     </a>
 </div>
 
