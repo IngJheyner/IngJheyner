@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/unica-profesion-ia-no-puede-reemplazar-aunque-suene-broma-1392836'>Esta es la única profesión que la IA no puede reemplazar, aunque suene a broma</a></h4>
-    <a href='https://computerhoy.com/tecnologia/unica-profesion-ia-no-puede-reemplazar-aunque-suene-broma-1392836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/unica-profesion-ia-no-puede-reemplazar-aunque-suene-broma-3599829.jpg?tf=1200x' alt='Esta es la única profesión que la IA no puede reemplazar, aunque suene a broma' />
+    <h4><a href='https://computerhoy.com/tecnologia/acemagic-mini-pc-potente-barato-intel-core-i9-1368105'>Es un Mini PC con alma de gigante: Intel Core i9 y 16GB de RAM a precio de chollo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/acemagic-mini-pc-potente-barato-intel-core-i9-1368105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/acemagic-ad08-3555280.jpg?tf=1200x' alt='Es un Mini PC con alma de gigante: Intel Core i9 y 16GB de RAM a precio de chollo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/version-china-her-haciendo-mujeres-enamoren-ia-1392465'>La versión china de “Her”, que está haciendo que las mujeres se enamoren de una IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/version-china-her-haciendo-mujeres-enamoren-ia-1392465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/version-china-her-haciendo-mujeres-asiaticas-enamoren-ia-3585002.jpg?tf=1200x' alt='La versión china de “Her”, que está haciendo que las mujeres se enamoren de una IA' />
+    <h4><a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544'>Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer</a></h4>
+    <a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/denuncia-apple-porque-mensajes-infidelidad-borrados-acabaron-mac-mujer-3589553.jpg?tf=1200x' alt='Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ponen-fecha-nueva-generacion-ia-sera-10000-veces-inteligente-humanos-1392828'>Ponen fecha a la nueva generación de IA: “será 10.000 veces más inteligente que los humanos”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ponen-fecha-nueva-generacion-ia-sera-10000-veces-inteligente-humanos-1392828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/japones-pone-fecha-nueva-ia-sera-10000-veces-inteligente-humanos-3599674.jpg?tf=1200x' alt='Ponen fecha a la nueva generación de IA: “será 10.000 veces más inteligente que los humanos”' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-1392198'>Este fallo en el firmware está afectando a millones de ordenadores con tecnología Intel de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-1392198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-3563129.jpg?tf=1200x' alt='Este fallo en el firmware está afectando a millones de ordenadores con tecnología Intel de todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lenovo-x3-auriculares-conduccion-osea-baratos-moda-1383108'>Son la moda más fuerte y sigue creciendo: estos cascos de conducción ósea de menos de 20€ te permitirán probarlos a coste ridículo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lenovo-x3-auriculares-conduccion-osea-baratos-moda-1383108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lenovo-x3-3554979.jpg?tf=1200x' alt='Son la moda más fuerte y sigue creciendo: estos cascos de conducción ósea de menos de 20€ te permitirán probarlos a coste ridículo' />
+    <h4><a href='https://computerhoy.com/moviles/verano-movil-va-sudar-estos-son-trucos-no-sobrecaliente-1391976'>Este verano tu móvil va a sudar, estos son mis trucos para que no se sobrecaliente</a></h4>
+    <a href='https://computerhoy.com/moviles/verano-movil-va-sudar-estos-son-trucos-no-sobrecaliente-1391976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-piscina-3554983.jpg?tf=1200x' alt='Este verano tu móvil va a sudar, estos son mis trucos para que no se sobrecaliente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-watch-rebaja-aliexpress-1384365'>Xiaomi da la campanada: su reloj para Android hunde su precio y pone en apuros a Samsung y Garmin</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-watch-rebaja-aliexpress-1384365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/xiaomi-watch-2-3555277.jpg?tf=1200x' alt='Xiaomi da la campanada: su reloj para Android hunde su precio y pone en apuros a Samsung y Garmin' />
+    <h4><a href='https://computerhoy.com/tecnologia/me-he-convertido-guru-musical-5-trucos-utilizo-exprimir-maximo-algoritmo-spotify-1388948'>Así me he convertido en un gurú musical: 5 trucos que utilizo para exprimir al máximo el algoritmo de Spotify</a></h4>
+    <a href='https://computerhoy.com/tecnologia/me-he-convertido-guru-musical-5-trucos-utilizo-exprimir-maximo-algoritmo-spotify-1388948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carlos-auriculares-3417321.jpg?tf=1200x' alt='Así me he convertido en un gurú musical: 5 trucos que utilizo para exprimir al máximo el algoritmo de Spotify' />
     </a>
 </div>
 
