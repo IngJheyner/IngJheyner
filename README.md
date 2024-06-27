@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/chivatos-carretera-dgt-guardia-civil-vs-whatsapp-telegram-ocurriendo-1391630'>¿Chivatos en la carretera? DGT y Guardia Civil vs. WhatsApp y Telegram: esto es lo que está ocurriendo</a></h4>
-    <a href='https://computerhoy.com/apps/chivatos-carretera-dgt-guardia-civil-vs-whatsapp-telegram-ocurriendo-1391630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/guardia-civil-apps-3541433.jpg?tf=1200x' alt='¿Chivatos en la carretera? DGT y Guardia Civil vs. WhatsApp y Telegram: esto es lo que está ocurriendo' />
+    <h4><a href='https://computerhoy.com/motor/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-1392972'>Este carpintero no podía pagar un deportivo, así que lo construyó de madera... ¡y funciona!</a></h4>
+    <a href='https://computerhoy.com/motor/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-1392972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-3605253.jpg?tf=1200x' alt='Este carpintero no podía pagar un deportivo, así que lo construyó de madera... ¡y funciona!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/acemagic-mini-pc-potente-barato-intel-core-i9-1368105'>Es un Mini PC con alma de gigante: Intel Core i9 y 16GB de RAM a precio de chollo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/acemagic-mini-pc-potente-barato-intel-core-i9-1368105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/acemagic-ad08-3555280.jpg?tf=1200x' alt='Es un Mini PC con alma de gigante: Intel Core i9 y 16GB de RAM a precio de chollo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/prueba-guardian-netflix-empleados-temen-trabajar-aqui-1392559'>Qué es la "prueba del guardián" de Netflix y por qué los empleados temen trabajar aquí</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/prueba-guardian-netflix-empleados-temen-trabajar-aqui-1392559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-prueba-trabajo-3590653.jpg?tf=1200x' alt='Qué es la "prueba del guardián" de Netflix y por qué los empleados temen trabajar aquí' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544'>Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer</a></h4>
-    <a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/denuncia-apple-porque-mensajes-infidelidad-borrados-acabaron-mac-mujer-3589553.jpg?tf=1200x' alt='Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-edge-1050-ya-oficial-ciclocomputador-gps-potente-sofisticado-mercado-1392958'>Garmin Edge 1050: ya es oficial el ciclocomputador GPS más potente y sofisticado del mercado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-edge-1050-ya-oficial-ciclocomputador-gps-potente-sofisticado-mercado-1392958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/garmin-edge-1050-3605706.jpg?tf=1200x' alt='Garmin Edge 1050: ya es oficial el ciclocomputador GPS más potente y sofisticado del mercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-1392198'>Este fallo en el firmware está afectando a millones de ordenadores con tecnología Intel de todo el mundo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-1392198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fallo-firmware-afectando-millones-ordenadores-tecnologia-intel-todo-mundo-3563129.jpg?tf=1200x' alt='Este fallo en el firmware está afectando a millones de ordenadores con tecnología Intel de todo el mundo' />
+    <h4><a href='https://computerhoy.com/moviles/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-1392923'>Desactivé esta función de mi móvil Xiaomi, que no sirve para nada y ahora vuela, ha rejuvenecido al instante</a></h4>
+    <a href='https://computerhoy.com/moviles/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-1392923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-3602125.jpg?tf=1200x' alt='Desactivé esta función de mi móvil Xiaomi, que no sirve para nada y ahora vuela, ha rejuvenecido al instante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/verano-movil-va-sudar-estos-son-trucos-no-sobrecaliente-1391976'>Este verano tu móvil va a sudar, estos son mis trucos para que no se sobrecaliente</a></h4>
-    <a href='https://computerhoy.com/moviles/verano-movil-va-sudar-estos-son-trucos-no-sobrecaliente-1391976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-piscina-3554983.jpg?tf=1200x' alt='Este verano tu móvil va a sudar, estos son mis trucos para que no se sobrecaliente' />
+    <h4><a href='https://computerhoy.com/tecnologia/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-1391537'>Si tu PC no es compatible con Windows 11, prueba estos cinco fantásticos sistemas operativos Linux</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-1391537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-3538210.jpg?tf=1200x' alt='Si tu PC no es compatible con Windows 11, prueba estos cinco fantásticos sistemas operativos Linux' />
     </a>
 </div>
 
