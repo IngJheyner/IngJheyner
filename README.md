@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/isp-instalo-malware-600000-clientes-bloquear-archivos-torrent-1392937'>Un ISP instaló malware a 600.000 clientes para bloquear los archivos Torrent</a></h4>
+    <a href='https://computerhoy.com/internet/isp-instalo-malware-600000-clientes-bloquear-archivos-torrent-1392937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/isp-instalo-malware-ordenadores-clientes-bloquear-ficheros-torrent-3602725.jpg?tf=1200x' alt='Un ISP instaló malware a 600.000 clientes para bloquear los archivos Torrent' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/honeypot-trampa-saber-ves-futbol-gratis-iptv-1393114'>Qué es un Honeypot, la trampa para saber que ves el fútbol gratis por IPTV</a></h4>
     <a href='https://computerhoy.com/internet/honeypot-trampa-saber-ves-futbol-gratis-iptv-1393114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honeypot-trampa-saber-ves-futbol-gratis-iptv-3610091.jpg?tf=1200x' alt='Qué es un Honeypot, la trampa para saber que ves el fútbol gratis por IPTV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/donde-ver-laliga-2024-25-primera-division-recurrir-iptv-1393118'>Dónde ver LaLiga 2024/25 de primera división sin recurrir a las IPTV</a></h4>
     <a href='https://computerhoy.com/tecnologia/donde-ver-laliga-2024-25-primera-division-recurrir-iptv-1393118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ver-futbol-television-3609634.jpg?tf=1200x' alt='Dónde ver LaLiga 2024/25 de primera división sin recurrir a las IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-disponible-android-auto-123-novedades-como-actualizar-ahora-mismo-1393117'>Ya disponible Android Auto 12.3: novedades y cómo actualizar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/apps/ya-disponible-android-auto-123-novedades-como-actualizar-ahora-mismo-1393117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/android-auto-123-3609483.jpg?tf=1200x' alt='Ya disponible Android Auto 12.3: novedades y cómo actualizar ahora mismo' />
     </a>
 </div>
 
