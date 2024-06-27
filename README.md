@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/malos-habitos-conducir-google-maps-te-hacen-gastar-gasolina-1392605'>Malos hábitos al conducir (y con Google Maps) que te hacen gastar más gasolina</a></h4>
+    <a href='https://computerhoy.com/malos-habitos-conducir-google-maps-te-hacen-gastar-gasolina-1392605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/malos-habitos-coche-gasolina-3591501.jpg?tf=1200x' alt='Malos hábitos al conducir (y con Google Maps) que te hacen gastar más gasolina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/internet/paginas-buscar-personas-gratis-internet-70207'>Páginas para buscar personas por Internet gratis</a></h4>
+    <a href='https://computerhoy.com/listas/internet/paginas-buscar-personas-gratis-internet-70207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/buscar-alguien-internet-3074884.jpg?tf=1200x' alt='Páginas para buscar personas por Internet gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/logran-traer-vuelta-windows-10-gracias-picovision-puedes-usarlo-como-fuese-1985-hardware-moderno-1393028'>Logran traer de vuelta Windows 1.0 gracias a PicoVision y puedes usarlo como si fuese 1985 en un hardware moderno</a></h4>
     <a href='https://computerhoy.com/tecnologia/logran-traer-vuelta-windows-10-gracias-picovision-puedes-usarlo-como-fuese-1985-hardware-moderno-1393028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/regreso-futuro-windows-10-3606521.jpg?tf=1200x' alt='Logran traer de vuelta Windows 1.0 gracias a PicoVision y puedes usarlo como si fuese 1985 en un hardware moderno' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/consola-barata-nintendo-baja-aun-todo-catalogo-mano-150-euros-1393020'>La consola más barata de Nintendo baja más aún: todo su catálogo en tu mano por 150 euros</a></h4>
     <a href='https://computerhoy.com/gaming/consola-barata-nintendo-baja-aun-todo-catalogo-mano-150-euros-1393020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/nintendo-switch-lite-2187913.jpg?tf=1200x' alt='La consola más barata de Nintendo baja más aún: todo su catálogo en tu mano por 150 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/dgt-advierte-multa-trafico-nunca-debes-pagar-1392601'>La DGT advierte: la multa de tráfico que nunca debes pagar</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/dgt-advierte-multa-trafico-nunca-debes-pagar-1392601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dgt-3591491.jpg?tf=1200x' alt='La DGT advierte: la multa de tráfico que nunca debes pagar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/como-usar-apple-carplay-motos-1392595'>¿Cómo usar Apple CarPlay para motos?</a></h4>
-    <a href='https://computerhoy.com/motor/como-usar-apple-carplay-motos-1392595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-carplay-moto-3591325.jpg?tf=1200x' alt='¿Cómo usar Apple CarPlay para motos?' />
     </a>
 </div>
 
