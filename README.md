@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/zte-lanza-movil-plegable-barato-momento-nubia-flip-5g-599-euros-1392995'>ZTE lanza el móvil plegable más barato del momento, Nubia Flip 5G, por 599 euros</a></h4>
+    <a href='https://computerhoy.com/moviles/zte-lanza-movil-plegable-barato-momento-nubia-flip-5g-599-euros-1392995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/zte-nubia-flip-5g-3606360.jpg?tf=1200x' alt='ZTE lanza el móvil plegable más barato del momento, Nubia Flip 5G, por 599 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/amazon-fire-tv-4k-ganan-xbox-cloud-gaming-1392906'>Los Fire TV de Amazon ganan Xbox Cloud Gaming, juegos en la nube para consola y PC</a></h4>
     <a href='https://computerhoy.com/gaming/amazon-fire-tv-4k-ganan-xbox-cloud-gaming-1392906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/xbox-cloud-gaming-fire-tv-3601194.jpg?tf=1200x' alt='Los Fire TV de Amazon ganan Xbox Cloud Gaming, juegos en la nube para consola y PC' />
@@ -66,25 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/apps/100-imagenes-frases-tu-estado-whatsapp-70175'>Más de 100 imágenes y frases para tu estado de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/noticias/apps/100-imagenes-frases-tu-estado-whatsapp-70175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/100-imagenes-frases-estado-whatsapp-3604078.jpg?tf=1200x' alt='Más de 100 imágenes y frases para tu estado de WhatsApp' />
+    <h4><a href='https://computerhoy.com/internet/paises-incluye-cada-zona-roaming-vodafone-1392816'>Qué países incluye cada zona de roaming con Vodafone</a></h4>
+    <a href='https://computerhoy.com/internet/paises-incluye-cada-zona-roaming-vodafone-1392816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vodafone-roaming-3599848.jpg?tf=1200x' alt='Qué países incluye cada zona de roaming con Vodafone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-1393047'>Este modelo de lenguaje de IA tiene un consumo de memoria 10 veces menor: Nvidia y AMD son el objetivo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-1393047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-3607332.jpg?tf=1200x' alt='Este modelo de lenguaje de IA tiene un consumo de memoria 10 veces menor: Nvidia y AMD son el objetivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/presentan-primeros-ssd-externos-usb-4-v2-1392831'>Presentan los primeros SSD externos con USB 4 v2</a></h4>
-    <a href='https://computerhoy.com/tecnologia/presentan-primeros-ssd-externos-usb-4-v2-1392831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asmedia-ha-presentado-primeros-ssd-externos-usb-4-v2-pero-no-llegaran-2025-3599682.jpg?tf=1200x' alt='Presentan los primeros SSD externos con USB 4 v2' />
+    <h4><a href='https://computerhoy.com/hogar/errores-comunes-debes-evitar-salir-casa-1390452'>9 errores comunes que debes evitar al salir de casa</a></h4>
+    <a href='https://computerhoy.com/hogar/errores-comunes-debes-evitar-salir-casa-1390452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/salir-puerta-casa-3592008.jpg?tf=1200x' alt='9 errores comunes que debes evitar al salir de casa' />
     </a>
 </div>
 
