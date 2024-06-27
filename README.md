@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-1392972'>Este carpintero no podía pagar un deportivo, así que lo construyó de madera... ¡y funciona!</a></h4>
-    <a href='https://computerhoy.com/motor/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-1392972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-3605253.jpg?tf=1200x' alt='Este carpintero no podía pagar un deportivo, así que lo construyó de madera... ¡y funciona!' />
+    <h4><a href='https://computerhoy.com/tecnologia/guia-paso-paso-encontrar-trabajo-chatgpt-1392773'>Guía paso a paso para encontrar trabajo con ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guia-paso-paso-encontrar-trabajo-chatgpt-1392773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-ayuda-trabajo-3598559.jpg?tf=1200x' alt='Guía paso a paso para encontrar trabajo con ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/prueba-guardian-netflix-empleados-temen-trabajar-aqui-1392559'>Qué es la "prueba del guardián" de Netflix y por qué los empleados temen trabajar aquí</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/prueba-guardian-netflix-empleados-temen-trabajar-aqui-1392559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-prueba-trabajo-3590653.jpg?tf=1200x' alt='Qué es la "prueba del guardián" de Netflix y por qué los empleados temen trabajar aquí' />
+    <h4><a href='https://computerhoy.com/tecnologia/rabbit-r1-nuevo-problemas-vez-trata-privacidad-usuarios-1392971'>El Rabbit R1 de nuevo en problemas y esta vez se trata de la privacidad de sus usuarios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rabbit-r1-nuevo-problemas-vez-trata-privacidad-usuarios-1392971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-r1-3263345.jpg?tf=1200x' alt='El Rabbit R1 de nuevo en problemas y esta vez se trata de la privacidad de sus usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-edge-1050-ya-oficial-ciclocomputador-gps-potente-sofisticado-mercado-1392958'>Garmin Edge 1050: ya es oficial el ciclocomputador GPS más potente y sofisticado del mercado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-edge-1050-ya-oficial-ciclocomputador-gps-potente-sofisticado-mercado-1392958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/garmin-edge-1050-3605706.jpg?tf=1200x' alt='Garmin Edge 1050: ya es oficial el ciclocomputador GPS más potente y sofisticado del mercado' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-sugiere-conductor-ruta-anade-4-horas-surrealista-motivo-1392751'>Google Maps sugiere a un conductor una ruta que añade 4 horas por un surrealista motivo</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-sugiere-conductor-ruta-anade-4-horas-surrealista-motivo-1392751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3598554.jpg?tf=1200x' alt='Google Maps sugiere a un conductor una ruta que añade 4 horas por un surrealista motivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-1392923'>Desactivé esta función de mi móvil Xiaomi, que no sirve para nada y ahora vuela, ha rejuvenecido al instante</a></h4>
-    <a href='https://computerhoy.com/moviles/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-1392923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-3602125.jpg?tf=1200x' alt='Desactivé esta función de mi móvil Xiaomi, que no sirve para nada y ahora vuela, ha rejuvenecido al instante' />
+    <h4><a href='https://computerhoy.com/espacio/impactase-asteroide-tierra-nasa-no-podria-evitarlo-dentro-14-anos-1392558'>Si impactase un asteroide contra la Tierra, la NASA no podría evitarlo hasta dentro de 14 años</a></h4>
+    <a href='https://computerhoy.com/espacio/impactase-asteroide-tierra-nasa-no-podria-evitarlo-dentro-14-anos-1392558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asteroide-chocando-tierra-3590815.jpg?tf=1200x' alt='Si impactase un asteroide contra la Tierra, la NASA no podría evitarlo hasta dentro de 14 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-1391537'>Si tu PC no es compatible con Windows 11, prueba estos cinco fantásticos sistemas operativos Linux</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-1391537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pc-no-compatible-windows-11-prueba-estos-cinco-fantasticos-sistemas-operativos-linux-3538210.jpg?tf=1200x' alt='Si tu PC no es compatible con Windows 11, prueba estos cinco fantásticos sistemas operativos Linux' />
+    <h4><a href='https://computerhoy.com/life/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-1335978'>Tristeza vital: cuando estar de bajón puede poner en riesgo tu salud</a></h4>
+    <a href='https://computerhoy.com/life/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-1335978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tristeza-vital-cuando-estar-bajon-puede-poner-riesgo-salud-3223314.jpg?tf=1200x' alt='Tristeza vital: cuando estar de bajón puede poner en riesgo tu salud' />
     </a>
 </div>
 
