@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-exorcismos-john-carpenter-casi-nadie-recuerda-trabajaba-estrella-rock-tapadillo-1392848'>La incomprendida película de exorcismos de John Carpenter que casi nadie recuerda y hasta en la que trabajaba una estrella de rock de tapadillo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-exorcismos-john-carpenter-casi-nadie-recuerda-trabajaba-estrella-rock-tapadillo-1392848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/incomprendida-pelicula-exorcismos-john-carpenter-casi-nadie-recuerda-trabajaba-estrella-rock-tapadillo-3600026.jpg?tf=1200x' alt='La incomprendida película de exorcismos de John Carpenter que casi nadie recuerda y hasta en la que trabajaba una estrella de rock de tapadillo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/fire-tv-stick-amazon-convierte-potente-consola-videojuegos-xbox-1393116'>Fire TV Stick de Amazon se convierte en una potente consola de videojuegos Xbox</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fire-tv-stick-amazon-convierte-potente-consola-videojuegos-xbox-1393116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fire-tv-amazon-convierte-potente-consola-videojuegos-xbox-3608886.jpg?tf=1200x' alt='Fire TV Stick de Amazon se convierte en una potente consola de videojuegos Xbox' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-hace-copias-seguridad-onedrive-manera-automatica-permiso-puedes-evitarlo-1392635'>Windows 11 hace copias de seguridad de OneDrive de manera automática sin permiso: así puedes evitarlo</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-hace-copias-seguridad-onedrive-manera-automatica-permiso-puedes-evitarlo-1392635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/onedrive-3285530.jpg?tf=1200x' alt='Windows 11 hace copias de seguridad de OneDrive de manera automática sin permiso: así puedes evitarlo' />
+    <h4><a href='https://computerhoy.com/apple/apple-suena-pantalla-trasera-iphone-camaras-adicionales-1392302'>Apple sueña con una pantalla trasera en el iPhone y cámaras adicionales</a></h4>
+    <a href='https://computerhoy.com/apple/apple-suena-pantalla-trasera-iphone-camaras-adicionales-1392302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='Apple sueña con una pantalla trasera en el iPhone y cámaras adicionales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-1392541'>Memoria RAM vs. memoria caché: para qué sirve cada una y en qué se diferencian</a></h4>
-    <a href='https://computerhoy.com/pc/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-1392541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-3590017.jpg?tf=1200x' alt='Memoria RAM vs. memoria caché: para qué sirve cada una y en qué se diferencian' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-anadir-superpoderes-raspberry-pi-inteligencia-artificial-1393090'>Cómo añadir superpoderes a una Raspberry Pi con inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-anadir-superpoderes-raspberry-pi-inteligencia-artificial-1393090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-anadir-superpoderes-raspberry-pi-inteligencia-artificial-3609180.jpg?tf=1200x' alt='Cómo añadir superpoderes a una Raspberry Pi con inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/fraude-diesel-no-deja-crecer-gasolineras-low-cost-1392698'>¿Por qué el “fraude del diésel” no deja de crecer en las gasolineras low cost?</a></h4>
-    <a href='https://computerhoy.com/motor/fraude-diesel-no-deja-crecer-gasolineras-low-cost-1392698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/persona-echando-gasolina-coche-senal-peligro-3600033.jpg?tf=1200x' alt='¿Por qué el “fraude del diésel” no deja de crecer en las gasolineras low cost?' />
+    <h4><a href='https://computerhoy.com/tecnologia/intel-sigue-ofrecer-solucion-inestabilidad-cpu-problemas-persisten-1392645'>Intel sigue sin ofrecer solución a la inestabilidad de sus CPU y los problemas persisten</a></h4>
+    <a href='https://computerhoy.com/tecnologia/intel-sigue-ofrecer-solucion-inestabilidad-cpu-problemas-persisten-1392645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/InteldespediraamilesdeempleadosporlasbajasventasdePCsegunBloomberg_166559458269231614.jpg?tf=1200x' alt='Intel sigue sin ofrecer solución a la inestabilidad de sus CPU y los problemas persisten' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-elegir-combinar-cpu-gpu-evitar-cuellos-botella-1392530'>Cómo elegir y combinar CPU y GPU para evitar cuellos de botella</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-elegir-combinar-cpu-gpu-evitar-cuellos-botella-1392530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-elegir-combinar-cpu-gpu-evitar-cuellos-botella-3588019.jpg?tf=1200x' alt='Cómo elegir y combinar CPU y GPU para evitar cuellos de botella' />
+    <h4><a href='https://computerhoy.com/entretenimiento/sabe-terminator-zero-serie-netflix-volvera-raices-saga-1392654'>Qué se sabe de Terminator Zero, la serie de Netflix que volverá a las raíces de la saga</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/sabe-terminator-zero-serie-netflix-volvera-raices-saga-1392654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sabe-terminator-zero-serie-netflix-volvera-raices-saga-3592175.jpg?tf=1200x' alt='Qué se sabe de Terminator Zero, la serie de Netflix que volverá a las raíces de la saga' />
     </a>
 </div>
 
