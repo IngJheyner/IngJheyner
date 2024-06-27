@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/zte-lanza-movil-plegable-barato-momento-nubia-flip-5g-599-euros-1392995'>ZTE lanza el móvil plegable más barato del momento, Nubia Flip 5G, por 599 euros</a></h4>
-    <a href='https://computerhoy.com/moviles/zte-lanza-movil-plegable-barato-momento-nubia-flip-5g-599-euros-1392995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/zte-nubia-flip-5g-3606360.jpg?tf=1200x' alt='ZTE lanza el móvil plegable más barato del momento, Nubia Flip 5G, por 599 euros' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-revela-error-mayores-secretos-ejercito-americano-1393036'>Google Maps revela por error uno de los mayores secretos del ejército americano</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-revela-error-mayores-secretos-ejercito-americano-1393036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-secretos-ejercito-3607336.jpg?tf=1200x' alt='Google Maps revela por error uno de los mayores secretos del ejército americano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/amazon-fire-tv-4k-ganan-xbox-cloud-gaming-1392906'>Los Fire TV de Amazon ganan Xbox Cloud Gaming, juegos en la nube para consola y PC</a></h4>
-    <a href='https://computerhoy.com/gaming/amazon-fire-tv-4k-ganan-xbox-cloud-gaming-1392906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/xbox-cloud-gaming-fire-tv-3601194.jpg?tf=1200x' alt='Los Fire TV de Amazon ganan Xbox Cloud Gaming, juegos en la nube para consola y PC' />
+    <h4><a href='https://computerhoy.com/internet/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-1392890'>Encuentra una memoria USB en un tren con la pegatina ''gratis para compartir'' y se llevó tal chasco que decidió tirarlo</a></h4>
+    <a href='https://computerhoy.com/internet/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-1392890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-3601031.jpg?tf=1200x' alt='Encuentra una memoria USB en un tren con la pegatina ''gratis para compartir'' y se llevó tal chasco que decidió tirarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-podria-estar-copiando-descaradamente-disney-1392189'>Así es la inteligencia artificial que podría estar copiando descaradamente a Disney</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-podria-estar-copiando-descaradamente-disney-1392189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-podria-estar-copiando-descaradamente-disney-3562765.jpg?tf=1200x' alt='Así es la inteligencia artificial que podría estar copiando descaradamente a Disney' />
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-lenovo-ideal-trabajar-barata-crees-1393072'>Esta Tablet de Lenovo es ideal para trabajar y es más barata de lo que crees</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-lenovo-ideal-trabajar-barata-crees-1393072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lenovo-tab-m10-3rd-gen-3607949.jpg?tf=1200x' alt='Esta Tablet de Lenovo es ideal para trabajar y es más barata de lo que crees' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/paises-incluye-cada-zona-roaming-vodafone-1392816'>Qué países incluye cada zona de roaming con Vodafone</a></h4>
-    <a href='https://computerhoy.com/internet/paises-incluye-cada-zona-roaming-vodafone-1392816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vodafone-roaming-3599848.jpg?tf=1200x' alt='Qué países incluye cada zona de roaming con Vodafone' />
+    <h4><a href='https://computerhoy.com/tutoriales/no-te-vas-creer-movil-xiaomi-esconde-menu-oculto-muchas-funciones-secretas-1393025'>No te lo vas a creer: tu móvil Xiaomi esconde un menú oculto con muchas funciones secretas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/no-te-vas-creer-movil-xiaomi-esconde-menu-oculto-muchas-funciones-secretas-1393025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/movil-xiaomi-3607003.jpg?tf=1200x' alt='No te lo vas a creer: tu móvil Xiaomi esconde un menú oculto con muchas funciones secretas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/errores-comunes-debes-evitar-salir-casa-1390452'>9 errores comunes que debes evitar al salir de casa</a></h4>
-    <a href='https://computerhoy.com/hogar/errores-comunes-debes-evitar-salir-casa-1390452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/salir-puerta-casa-3592008.jpg?tf=1200x' alt='9 errores comunes que debes evitar al salir de casa' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-pretende-cambiarlo-todo-nueva-inteligencia-artificial-capaz-derrotar-chatgpt-1392771'>Amazon pretende cambiarlo todo con una nueva inteligencia artificial capaz de derrotar a ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-pretende-cambiarlo-todo-nueva-inteligencia-artificial-capaz-derrotar-chatgpt-1392771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amazon-pretende-cambiarlo-todo-nueva-inteligencia-artificial-capaz-derrotar-chatgpt-3598394.jpg?tf=1200x' alt='Amazon pretende cambiarlo todo con una nueva inteligencia artificial capaz de derrotar a ChatGPT' />
     </a>
 </div>
 
