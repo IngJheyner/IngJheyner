@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-anadir-superpoderes-raspberry-pi-inteligencia-artificial-1393090'>Cómo añadir superpoderes a una Raspberry Pi con inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-anadir-superpoderes-raspberry-pi-inteligencia-artificial-1393090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-anadir-superpoderes-raspberry-pi-inteligencia-artificial-3609180.jpg?tf=1200x' alt='Cómo añadir superpoderes a una Raspberry Pi con inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/entretenimiento/te-encanto-seven-no-puedes-perderte-thriller-morgan-freeman-acaba-llegar-netflix-1393283'>Si te encantó Seven no puedes perderte este thriller con Morgan Freeman que acaba de llegar a Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/te-encanto-seven-no-puedes-perderte-thriller-morgan-freeman-acaba-llegar-netflix-1393283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/te-encanto-seven-no-puedes-perderte-thriller-morgan-freeman-acaba-llegar-netflix-3617002.jpg?tf=1200x' alt='Si te encantó Seven no puedes perderte este thriller con Morgan Freeman que acaba de llegar a Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-1393093'>Películas slasher actuales que parecen de los 80 o 90, y que tienes que ver si te gustan Scream o Destino final</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-1393093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-3608418.jpg?tf=1200x' alt='Películas slasher actuales que parecen de los 80 o 90, y que tienes que ver si te gustan Scream o Destino final' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-tv-apuesta-canales-fast-gratis-combatir-auge-iptv-1393292'>Google TV apuesta por los canales FAST gratis para combatir el auge de las IPTV</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-tv-apuesta-canales-fast-gratis-combatir-auge-iptv-1393292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-tv-3617004.jpg?tf=1200x' alt='Google TV apuesta por los canales FAST gratis para combatir el auge de las IPTV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pasas-calor-cocina-verano-freidora-aire-podras-cocinar-gusto-apenas-100-euros-1393039'>Si pasas calor en la cocina en verano, con esta freidora de aire podrás cocinar a gusto por apenas 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pasas-calor-cocina-verano-freidora-aire-podras-cocinar-gusto-apenas-100-euros-1393039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosori-premium-ii-plus-3607001.jpg?tf=1200x' alt='Si pasas calor en la cocina en verano, con esta freidora de aire podrás cocinar a gusto por apenas 100 euros' />
+    <h4><a href='https://computerhoy.com/moviles/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-1392923'>Desactivé esta función de mi móvil Xiaomi, que no sirve para nada y ahora vuela, ha rejuvenecido al instante</a></h4>
+    <a href='https://computerhoy.com/moviles/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-1392923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-3602125.jpg?tf=1200x' alt='Desactivé esta función de mi móvil Xiaomi, que no sirve para nada y ahora vuela, ha rejuvenecido al instante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-exorcismos-john-carpenter-casi-nadie-recuerda-trabajaba-estrella-rock-tapadillo-1392848'>La incomprendida película de exorcismos de John Carpenter que casi nadie recuerda y hasta en la que trabajaba una estrella de rock de tapadillo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-exorcismos-john-carpenter-casi-nadie-recuerda-trabajaba-estrella-rock-tapadillo-1392848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/incomprendida-pelicula-exorcismos-john-carpenter-casi-nadie-recuerda-trabajaba-estrella-rock-tapadillo-3600026.jpg?tf=1200x' alt='La incomprendida película de exorcismos de John Carpenter que casi nadie recuerda y hasta en la que trabajaba una estrella de rock de tapadillo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/reserva-booking-cancelada-falta-datos-no-piques-estafa-te-puede-dejar-vacaciones-1393289'>Reserva de Booking cancelada por falta de datos: no piques, es una estafa que te puede dejar sin vacaciones</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/reserva-booking-cancelada-falta-datos-no-piques-estafa-te-puede-dejar-vacaciones-1393289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/reserva-booking-cancelada-falta-datos-no-piques-estafa-te-puede-dejar-vacaciones-3617001.jpg?tf=1200x' alt='Reserva de Booking cancelada por falta de datos: no piques, es una estafa que te puede dejar sin vacaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/fraude-diesel-no-deja-crecer-gasolineras-low-cost-1392698'>¿Por qué el “fraude del diésel” no deja de crecer en las gasolineras low cost?</a></h4>
-    <a href='https://computerhoy.com/motor/fraude-diesel-no-deja-crecer-gasolineras-low-cost-1392698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/persona-echando-gasolina-coche-senal-peligro-3600033.jpg?tf=1200x' alt='¿Por qué el “fraude del diésel” no deja de crecer en las gasolineras low cost?' />
+    <h4><a href='https://computerhoy.com/internet/nube-como-almacenamiento-gran-desperdicio-energetico-ecologico-1392340'>Hasta un 80% de la nube se usa como almacenamiento: un gran desperdicio energético</a></h4>
+    <a href='https://computerhoy.com/internet/nube-como-almacenamiento-gran-desperdicio-energetico-ecologico-1392340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/80-nube-usa-como-almacenamiento-enorme-desperdicio-energetico-ecologico-3578960.jpg?tf=1200x' alt='Hasta un 80% de la nube se usa como almacenamiento: un gran desperdicio energético' />
     </a>
 </div>
 
