@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/ni-agua-ni-refrescos-mejor-bebida-quitar-sed-ciencia-1392896'>Ni agua ni refrescos, esta es la mejor bebida para quitar la sed, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/alimentacion/ni-agua-ni-refrescos-mejor-bebida-quitar-sed-ciencia-1392896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-agua-ni-refrescos-mejor-bebida-quitar-sed-ciencia-3601815.jpg?tf=1200x' alt='Ni agua ni refrescos, esta es la mejor bebida para quitar la sed, según la ciencia' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-sistema-correccion-postura-frente-ordenador-impulsado-ia-1392300'>Microsoft piensa en un sistema de corrección de postura frente al ordenador impulsado por IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-sistema-correccion-postura-frente-ordenador-impulsado-ia-1392300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/patente-postura-frente-ordenador-microsoft-3571466.jpg?tf=1200x' alt='Microsoft piensa en un sistema de corrección de postura frente al ordenador impulsado por IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-contrata-spacex-destruir-estacion-espacial-internacional-1393132'>La NASA contrata a SpaceX para destruir la Estación Espacial Internacional</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-contrata-spacex-destruir-estacion-espacial-internacional-1393132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nasa-contrata-spacex-destruir-estacion-espacial-internacional-3612039.jpg?tf=1200x' alt='La NASA contrata a SpaceX para destruir la Estación Espacial Internacional' />
+    <h4><a href='https://computerhoy.com/apple/ipad-deberias-comprarte-1392134'>Este es el iPad que deberías comprarte</a></h4>
+    <a href='https://computerhoy.com/apple/ipad-deberias-comprarte-1392134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='Este es el iPad que deberías comprarte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/experto-mundial-ia-vuelve-alertar-peligros-ya-no-tenemos-boton-rojo-1393017'>Un experto mundial en IA vuelve a alertar de sus peligros: “ya no tenemos botón rojo”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/experto-mundial-ia-vuelve-alertar-peligros-ya-no-tenemos-boton-rojo-1393017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/boton-panico-3607334.jpg?tf=1200x' alt='Un experto mundial en IA vuelve a alertar de sus peligros: “ya no tenemos botón rojo”' />
+    <h4><a href='https://computerhoy.com/analisis/honor-200-pro-analisis-opinion-1392582'>He analizado el Honor 200 Pro a fondo y me ha conquistado por su potencia y cámara de gama alta</a></h4>
+    <a href='https://computerhoy.com/analisis/honor-200-pro-analisis-opinion-1392582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3600863.jpg?tf=1200x' alt='He analizado el Honor 200 Pro a fondo y me ha conquistado por su potencia y cámara de gama alta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/version-china-her-haciendo-mujeres-enamoren-ia-1392465'>La versión china de “Her”, que está haciendo que las mujeres se enamoren de una IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/version-china-her-haciendo-mujeres-enamoren-ia-1392465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/version-china-her-haciendo-mujeres-asiaticas-enamoren-ia-3585002.jpg?tf=1200x' alt='La versión china de “Her”, que está haciendo que las mujeres se enamoren de una IA' />
+    <h4><a href='https://computerhoy.com/tecnologia/hackaton-deberias-participar-ellos-1388293'>¿Qué es un hackaton y por qué deberías participar en ellos?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hackaton-deberias-participar-ellos-1388293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718956625717-3561475.jpg?tf=1200x' alt='¿Qué es un hackaton y por qué deberías participar en ellos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ponen-fecha-nueva-generacion-ia-sera-10000-veces-inteligente-humanos-1392828'>Ponen fecha a la nueva generación de IA: “será 10.000 veces más inteligente que los humanos”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ponen-fecha-nueva-generacion-ia-sera-10000-veces-inteligente-humanos-1392828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/japones-pone-fecha-nueva-ia-sera-10000-veces-inteligente-humanos-3599674.jpg?tf=1200x' alt='Ponen fecha a la nueva generación de IA: “será 10.000 veces más inteligente que los humanos”' />
+    <h4><a href='https://computerhoy.com/apps/no-medico-cabecera-pero-chatbot-ia-whatsapp-te-dice-todo-medicamentos-1390121'>No es el médico de cabecera, pero este chatbot de IA en WhatsApp te dice todo sobre tus medicamentos</a></h4>
+    <a href='https://computerhoy.com/apps/no-medico-cabecera-pero-chatbot-ia-whatsapp-te-dice-todo-medicamentos-1390121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatbot-whatsapp-inteligencia-artificial-medicamento-3543011.jpg?tf=1200x' alt='No es el médico de cabecera, pero este chatbot de IA en WhatsApp te dice todo sobre tus medicamentos' />
     </a>
 </div>
 
