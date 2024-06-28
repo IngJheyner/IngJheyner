@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-1392972'>Este carpintero no podía pagar un deportivo, así que lo construyó de madera... ¡y funciona!</a></h4>
-    <a href='https://computerhoy.com/motor/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-1392972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-3605253.jpg?tf=1200x' alt='Este carpintero no podía pagar un deportivo, así que lo construyó de madera... ¡y funciona!' />
+    <h4><a href='https://computerhoy.com/tecnologia/guia-paso-paso-encontrar-trabajo-chatgpt-1392773'>Guía paso a paso para encontrar trabajo con ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guia-paso-paso-encontrar-trabajo-chatgpt-1392773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-ayuda-trabajo-3598559.jpg?tf=1200x' alt='Guía paso a paso para encontrar trabajo con ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mark-zuckerberg-pide-pies-tierra-openai-google-no-estamos-creando-dios-ia-1393153'>Mark Zuckerberg pide los pies en la tierra a OpenAI y Google: "No estamos creando a Dios con la IA"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mark-zuckerberg-pide-pies-tierra-openai-google-no-estamos-creando-dios-ia-1393153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mark-zuckerberg-2867171.jpg?tf=1200x' alt='Mark Zuckerberg pide los pies en la tierra a OpenAI y Google: "No estamos creando a Dios con la IA"' />
+    <h4><a href='https://computerhoy.com/life/ayuda-600-euros-comprarte-bicicleta-verano-requisitos-plazos-1393156'>Ayuda de 600 euros para comprarte una bicicleta para este verano: requisitos y plazos</a></h4>
+    <a href='https://computerhoy.com/life/ayuda-600-euros-comprarte-bicicleta-verano-requisitos-plazos-1393156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mujer-bicicleta-electrica-3079886.jpg?tf=1200x' alt='Ayuda de 600 euros para comprarte una bicicleta para este verano: requisitos y plazos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-edge-1050-ya-oficial-ciclocomputador-gps-potente-sofisticado-mercado-1392958'>Garmin Edge 1050: ya es oficial el ciclocomputador GPS más potente y sofisticado del mercado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-edge-1050-ya-oficial-ciclocomputador-gps-potente-sofisticado-mercado-1392958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/garmin-edge-1050-3605706.jpg?tf=1200x' alt='Garmin Edge 1050: ya es oficial el ciclocomputador GPS más potente y sofisticado del mercado' />
+    <h4><a href='https://computerhoy.com/tecnologia/rabbit-r1-nuevo-problemas-vez-trata-privacidad-usuarios-1392971'>El Rabbit R1 de nuevo en problemas y esta vez se trata de la privacidad de sus usuarios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rabbit-r1-nuevo-problemas-vez-trata-privacidad-usuarios-1392971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-r1-3263345.jpg?tf=1200x' alt='El Rabbit R1 de nuevo en problemas y esta vez se trata de la privacidad de sus usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/componentes-debes-actualizar-mejorar-rendimiento-pc-instante-1392081'>Componentes que debes actualizar para mejorar el rendimiento de tu PC al instante</a></h4>
-    <a href='https://computerhoy.com/pc/componentes-debes-actualizar-mejorar-rendimiento-pc-instante-1392081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/componentes-debes-actualizar-mejorar-rendimiento-pc-instante-3559580.jpg?tf=1200x' alt='Componentes que debes actualizar para mejorar el rendimiento de tu PC al instante' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-sugiere-conductor-ruta-anade-4-horas-surrealista-motivo-1392751'>Google Maps sugiere a un conductor una ruta que añade 4 horas por un surrealista motivo</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-sugiere-conductor-ruta-anade-4-horas-surrealista-motivo-1392751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3598554.jpg?tf=1200x' alt='Google Maps sugiere a un conductor una ruta que añade 4 horas por un surrealista motivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-usar-chatgpt-ganar-dinero-7-formas-aprovechar-ia-1343370'>7 formas de usar ChatGPT para ganar dinero y sacar partido a la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-usar-chatgpt-ganar-dinero-7-formas-aprovechar-ia-1343370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/formas-ganar-dinero-chatgpt-3237530.jpg?tf=1200x' alt='7 formas de usar ChatGPT para ganar dinero y sacar partido a la IA' />
+    <h4><a href='https://computerhoy.com/redes/significa-lte-barra-cobertura-movil-android-iphone-1391725'>Qué significa LTE en la barra de cobertura de tu móvil Android o iPhone</a></h4>
+    <a href='https://computerhoy.com/redes/significa-lte-barra-cobertura-movil-android-iphone-1391725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/significa-lte-barra-cobertura-movil-android-iphone-3544751.jpg?tf=1200x' alt='Qué significa LTE en la barra de cobertura de tu móvil Android o iPhone' />
     </a>
 </div>
 
