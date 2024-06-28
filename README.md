@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-rivaliza-directamente-ipad-pero-cuesta-mitad-1393030'>Esta Tablet rivaliza directamente con el iPad, pero cuesta la mitad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-rivaliza-directamente-ipad-pero-cuesta-mitad-1393030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/galaxy-tab-s9-fe-3606849.jpg?tf=1200x' alt='Esta Tablet rivaliza directamente con el iPad, pero cuesta la mitad' />
+    <h4><a href='https://computerhoy.com/google/como-saber-coordenadas-cualquier-lugar-google-maps-1338462'>Cómo saber las coordenadas de cualquier lugar en Google Maps</a></h4>
+    <a href='https://computerhoy.com/google/como-saber-coordenadas-cualquier-lugar-google-maps-1338462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-saber-coordenadas-cualquier-lugar-google-maps-3227928.jpg?tf=1200x' alt='Cómo saber las coordenadas de cualquier lugar en Google Maps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-chrome-te-va-lento-posibles-problemas-como-solucionarlo-1392785'>¿Google Chrome te va lento? Posibles problemas y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/google/google-chrome-te-va-lento-posibles-problemas-como-solucionarlo-1392785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-chrome-problemas-3598724.jpg?tf=1200x' alt='¿Google Chrome te va lento? Posibles problemas y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/logran-traer-vuelta-windows-10-gracias-picovision-puedes-usarlo-como-fuese-1985-hardware-moderno-1393028'>Logran traer de vuelta Windows 1.0 gracias a PicoVision y puedes usarlo como si fuese 1985 en un hardware moderno</a></h4>
+    <a href='https://computerhoy.com/tecnologia/logran-traer-vuelta-windows-10-gracias-picovision-puedes-usarlo-como-fuese-1985-hardware-moderno-1393028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/regreso-futuro-windows-10-3606521.jpg?tf=1200x' alt='Logran traer de vuelta Windows 1.0 gracias a PicoVision y puedes usarlo como si fuese 1985 en un hardware moderno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/astronautas-boeing-estan-atrapados-iss-todo-sabemos-retrasos-mision-nasa-1392985'>¿Por qué los astronautas de Boeing están atrapados en la ISS? Todo lo que sabemos sobre los retrasos en la misión de la NASA</a></h4>
-    <a href='https://computerhoy.com/espacio/astronautas-boeing-estan-atrapados-iss-todo-sabemos-retrasos-mision-nasa-1392985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/boeing-podria-retrasar-mision-regreso-tierra-mision-starliner-julio-3606191.jpg?tf=1200x' alt='¿Por qué los astronautas de Boeing están atrapados en la ISS? Todo lo que sabemos sobre los retrasos en la misión de la NASA' />
+    <h4><a href='https://computerhoy.com/internet/laliga-va-usuarios-ven-futbol-pirata-exige-pago-450-euros-no-quieren-ir-juicio-1392797'>LaLiga va a por los usuarios que ven fútbol pirata y exige un pago de 450 euros si no quieren ir a juicio</a></h4>
+    <a href='https://computerhoy.com/internet/laliga-va-usuarios-ven-futbol-pirata-exige-pago-450-euros-no-quieren-ir-juicio-1392797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/futbol-pirata-3598725.jpg?tf=1200x' alt='LaLiga va a por los usuarios que ven fútbol pirata y exige un pago de 450 euros si no quieren ir a juicio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-dejara-funcionar-estos-moviles-mismo-ano-comprueba-lista-1392788'>WhatsApp dejará de funcionar en estos móviles este mismo año: comprueba si está el tuyo en la lista</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-dejara-funcionar-estos-moviles-mismo-ano-comprueba-lista-1392788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/whatsapp-prohibido-3598894.jpg?tf=1200x' alt='WhatsApp dejará de funcionar en estos móviles este mismo año: comprueba si está el tuyo en la lista' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-1393197'>Sentencia histórica: obligan a un banco a devolver 6.000 euros de una ciberestafa por falta de medidas de seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-1393197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-3613935.jpg?tf=1200x' alt='Sentencia histórica: obligan a un banco a devolver 6.000 euros de una ciberestafa por falta de medidas de seguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/laliga-alia-emiratos-arabes-dinero-acabar-iptv-1393180'>LaLiga se alía con Emiratos Árabes (y su dinero) para acabar con las IPTV</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/laliga-alia-emiratos-arabes-dinero-acabar-iptv-1393180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/laliga-alia-emiratos-arabes-dinero-acabar-iptv-3613610.jpg?tf=1200x' alt='LaLiga se alía con Emiratos Árabes (y su dinero) para acabar con las IPTV' />
+    <h4><a href='https://computerhoy.com/pc/chip-gobernarlos-todos-thunderbird-i-1536-nucleos-risc-v-escala-360000-1393003'>Un chip para gobernarlos a todos: así es Thunderbird I con 1.536 Núcleos RISC-V que escala hasta los 360.000 </a></h4>
+    <a href='https://computerhoy.com/pc/chip-gobernarlos-todos-thunderbird-i-1536-nucleos-risc-v-escala-360000-1393003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chip-superordenador-3606366.jpg?tf=1200x' alt='Un chip para gobernarlos a todos: así es Thunderbird I con 1.536 Núcleos RISC-V que escala hasta los 360.000 ' />
     </a>
 </div>
 
