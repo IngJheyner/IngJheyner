@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/busca-quinta-fuerza-universo-particula-camaleon-1393202'>En busca de una quinta fuerza en el universo, la partícula camaleón</a></h4>
+    <a href='https://computerhoy.com/espacio/busca-quinta-fuerza-universo-particula-camaleon-1393202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/universo-3261763.jpg?tf=1200x' alt='En busca de una quinta fuerza en el universo, la partícula camaleón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/intel-desvela-fin-mayores-misterios-cpu-lunar-lake-1392821'>Intel desvela al fin uno de los mayores misterios de las CPU Lunar Lake</a></h4>
+    <a href='https://computerhoy.com/tecnologia/intel-desvela-fin-mayores-misterios-cpu-lunar-lake-1392821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/intel-ha-aclarado-mayores-misterios-cpu-lunar-lake-3599517.jpg?tf=1200x' alt='Intel desvela al fin uno de los mayores misterios de las CPU Lunar Lake' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-son-lugares-probabilidades-hay-rompa-movil-1392324'>Estos son los lugares en los que más probabilidades hay de que se rompa tu móvil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-son-lugares-probabilidades-hay-rompa-movil-1392324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/uso-movil-bar-3576574.jpg?tf=1200x' alt='Estos son los lugares en los que más probabilidades hay de que se rompa tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/quieres-seguir-usando-windows-10-despues-2025-empresa-solucion-1393194'>Si quieres seguir usando Windows 10 después de 2025, esta empresa es la solución</a></h4>
+    <a href='https://computerhoy.com/windows/quieres-seguir-usando-windows-10-despues-2025-empresa-solucion-1393194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ver-creer-microsoft-lanza-primera-beta-windows-10-2021-nuevas-funciones-mejoras-3452735.jpg?tf=1200x' alt='Si quieres seguir usando Windows 10 después de 2025, esta empresa es la solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/como-saber-coordenadas-cualquier-lugar-google-maps-1338462'>Cómo saber las coordenadas de cualquier lugar en Google Maps</a></h4>
     <a href='https://computerhoy.com/google/como-saber-coordenadas-cualquier-lugar-google-maps-1338462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-saber-coordenadas-cualquier-lugar-google-maps-3227928.jpg?tf=1200x' alt='Cómo saber las coordenadas de cualquier lugar en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/logran-traer-vuelta-windows-10-gracias-picovision-puedes-usarlo-como-fuese-1985-hardware-moderno-1393028'>Logran traer de vuelta Windows 1.0 gracias a PicoVision y puedes usarlo como si fuese 1985 en un hardware moderno</a></h4>
-    <a href='https://computerhoy.com/tecnologia/logran-traer-vuelta-windows-10-gracias-picovision-puedes-usarlo-como-fuese-1985-hardware-moderno-1393028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/regreso-futuro-windows-10-3606521.jpg?tf=1200x' alt='Logran traer de vuelta Windows 1.0 gracias a PicoVision y puedes usarlo como si fuese 1985 en un hardware moderno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/laliga-va-usuarios-ven-futbol-pirata-exige-pago-450-euros-no-quieren-ir-juicio-1392797'>LaLiga va a por los usuarios que ven fútbol pirata y exige un pago de 450 euros si no quieren ir a juicio</a></h4>
-    <a href='https://computerhoy.com/internet/laliga-va-usuarios-ven-futbol-pirata-exige-pago-450-euros-no-quieren-ir-juicio-1392797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/futbol-pirata-3598725.jpg?tf=1200x' alt='LaLiga va a por los usuarios que ven fútbol pirata y exige un pago de 450 euros si no quieren ir a juicio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-1393197'>Sentencia histórica: obligan a un banco a devolver 6.000 euros de una ciberestafa por falta de medidas de seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-1393197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-3613935.jpg?tf=1200x' alt='Sentencia histórica: obligan a un banco a devolver 6.000 euros de una ciberestafa por falta de medidas de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/chip-gobernarlos-todos-thunderbird-i-1536-nucleos-risc-v-escala-360000-1393003'>Un chip para gobernarlos a todos: así es Thunderbird I con 1.536 Núcleos RISC-V que escala hasta los 360.000 </a></h4>
-    <a href='https://computerhoy.com/pc/chip-gobernarlos-todos-thunderbird-i-1536-nucleos-risc-v-escala-360000-1393003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chip-superordenador-3606366.jpg?tf=1200x' alt='Un chip para gobernarlos a todos: así es Thunderbird I con 1.536 Núcleos RISC-V que escala hasta los 360.000 ' />
     </a>
 </div>
 
