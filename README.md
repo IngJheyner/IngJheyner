@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/paises-incluye-cada-zona-roaming-vodafone-1392816'>Qué países incluye cada zona de roaming con Vodafone</a></h4>
-    <a href='https://computerhoy.com/internet/paises-incluye-cada-zona-roaming-vodafone-1392816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vodafone-roaming-3599848.jpg?tf=1200x' alt='Qué países incluye cada zona de roaming con Vodafone' />
+    <h4><a href='https://computerhoy.com/tecnologia/novedades-samsung-galaxy-ring-antes-inminente-presentacion-precio-anillo-muchas-sorpresas-1393051'>Novedades del Samsung Galaxy Ring antes de su inminente presentación: precio del anillo y muchas sorpresas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/novedades-samsung-galaxy-ring-antes-inminente-presentacion-precio-anillo-muchas-sorpresas-1393051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-ring-3614572.jpg?tf=1200x' alt='Novedades del Samsung Galaxy Ring antes de su inminente presentación: precio del anillo y muchas sorpresas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-podria-estar-copiando-descaradamente-disney-1392189'>Así es la inteligencia artificial que podría estar copiando descaradamente a Disney</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-podria-estar-copiando-descaradamente-disney-1392189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-podria-estar-copiando-descaradamente-disney-3562765.jpg?tf=1200x' alt='Así es la inteligencia artificial que podría estar copiando descaradamente a Disney' />
+    <h4><a href='https://computerhoy.com/internet/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-1392890'>Encuentra una memoria USB en un tren con la pegatina ''gratis para compartir'' y se llevó tal chasco que decidió tirarlo</a></h4>
+    <a href='https://computerhoy.com/internet/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-1392890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-3601031.jpg?tf=1200x' alt='Encuentra una memoria USB en un tren con la pegatina ''gratis para compartir'' y se llevó tal chasco que decidió tirarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-1393181'>Ya está pasando: así es la estafa que usa la inteligencia artificial para clonar la voz de un familiar</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-1393181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-3613599.jpg?tf=1200x' alt='Ya está pasando: así es la estafa que usa la inteligencia artificial para clonar la voz de un familiar' />
+    <h4><a href='https://computerhoy.com/motor/cada-tres-conductores-no-comprara-coche-nuevo-caracteristica-estudio-1393270'>Uno de cada tres conductores no comprará un coche nuevo sin esta característica, según un estudio</a></h4>
+    <a href='https://computerhoy.com/motor/cada-tres-conductores-no-comprara-coche-nuevo-caracteristica-estudio-1393270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fabricantes-coches-cada-vez-confian-google-apple-sistemas-infoentretenimiento-3294181.jpg?tf=1200x' alt='Uno de cada tres conductores no comprará un coche nuevo sin esta característica, según un estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mirar-videos-jugar-no-son-usos-populares-iphone-estudio-1392327'>Mirar vídeos y jugar no son los usos más populares del iPhone, según este estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mirar-videos-jugar-no-son-usos-populares-iphone-estudio-1392327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/jugar-juegos-movil-3576765.jpg?tf=1200x' alt='Mirar vídeos y jugar no son los usos más populares del iPhone, según este estudio' />
+    <h4><a href='https://computerhoy.com/redes/digi-no-funcionan-llamadas-1393267'>No eres tú, si eres de DIGI no funcionan las llamadas</a></h4>
+    <a href='https://computerhoy.com/redes/digi-no-funcionan-llamadas-1393267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/digi-mobil.jpeg?tf=1200x' alt='No eres tú, si eres de DIGI no funcionan las llamadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/todo-mundo-esperando-windows-10-muera-menos-posiblemente-1393207'>Todo el mundo está esperando a que Windows 10 muera... menos posiblemente tú</a></h4>
-    <a href='https://computerhoy.com/windows/todo-mundo-esperando-windows-10-muera-menos-posiblemente-1393207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/muerte-windows-10-3614253.jpg?tf=1200x' alt='Todo el mundo está esperando a que Windows 10 muera... menos posiblemente tú' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-cambiar-otra-red-1352629'>Cómo conectar Alexa al WiFi o cambiar a otra red</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-cambiar-otra-red-1352629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-conectar-alexa-wifi-cambiar-otra-red-3253808.jpg?tf=1200x' alt='Cómo conectar Alexa al WiFi o cambiar a otra red' />
     </a>
 </div>
 
