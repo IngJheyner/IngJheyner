@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/novedades-samsung-galaxy-ring-antes-inminente-presentacion-precio-anillo-muchas-sorpresas-1393051'>Novedades del Samsung Galaxy Ring antes de su inminente presentación: precio del anillo y muchas sorpresas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/novedades-samsung-galaxy-ring-antes-inminente-presentacion-precio-anillo-muchas-sorpresas-1393051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-ring-3614572.jpg?tf=1200x' alt='Novedades del Samsung Galaxy Ring antes de su inminente presentación: precio del anillo y muchas sorpresas' />
+    <h4><a href='https://computerhoy.com/life/olvidate-aire-acondicionado-invento-lidl-cuesta-18-euros-enfria-casa-instalar-nada-1392869'>Olvídate del aire acondicionado: este invento de Lidl cuesta 18 euros y enfría la casa sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/life/olvidate-aire-acondicionado-invento-lidl-cuesta-18-euros-enfria-casa-instalar-nada-1392869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/centro-comercial-lidl-2831649.jpg?tf=1200x' alt='Olvídate del aire acondicionado: este invento de Lidl cuesta 18 euros y enfría la casa sin instalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-1392890'>Encuentra una memoria USB en un tren con la pegatina ''gratis para compartir'' y se llevó tal chasco que decidió tirarlo</a></h4>
-    <a href='https://computerhoy.com/internet/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-1392890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-3601031.jpg?tf=1200x' alt='Encuentra una memoria USB en un tren con la pegatina ''gratis para compartir'' y se llevó tal chasco que decidió tirarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-1393074'>Tiembla Google Maps: el próximo Waze podría ser tan avanzado que no tendrás ni que tocarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-1393074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-3608729.jpg?tf=1200x' alt='Tiembla Google Maps: el próximo Waze podría ser tan avanzado que no tendrás ni que tocarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cada-tres-conductores-no-comprara-coche-nuevo-caracteristica-estudio-1393270'>Uno de cada tres conductores no comprará un coche nuevo sin esta característica, según un estudio</a></h4>
-    <a href='https://computerhoy.com/motor/cada-tres-conductores-no-comprara-coche-nuevo-caracteristica-estudio-1393270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fabricantes-coches-cada-vez-confian-google-apple-sistemas-infoentretenimiento-3294181.jpg?tf=1200x' alt='Uno de cada tres conductores no comprará un coche nuevo sin esta característica, según un estudio' />
+    <h4><a href='https://computerhoy.com/apple/iphone-4-lanzamiento-precio-todas-novedades-movil-barato-apple-1311510'>iPhone SE 4: lanzamiento, precio y todas las novedades de este smartphone barato de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-4-lanzamiento-precio-todas-novedades-movil-barato-apple-1311510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-4-lanzamiento-precio-todas-novedades-smartphone-barato-apple-3612038.jpg?tf=1200x' alt='iPhone SE 4: lanzamiento, precio y todas las novedades de este smartphone barato de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/digi-no-funcionan-llamadas-1393267'>No eres tú, si eres de DIGI no funcionan las llamadas</a></h4>
-    <a href='https://computerhoy.com/redes/digi-no-funcionan-llamadas-1393267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/digi-mobil.jpeg?tf=1200x' alt='No eres tú, si eres de DIGI no funcionan las llamadas' />
+    <h4><a href='https://computerhoy.com/audio/ultimate-ears-lanza-potente-resistente-everboom-renueva-altavoces-inalambricos-1393007'>Ultimate Ears lanza el potente y resistente Everboom y renueva sus altavoces inalámbricos</a></h4>
+    <a href='https://computerhoy.com/audio/ultimate-ears-lanza-potente-resistente-everboom-renueva-altavoces-inalambricos-1393007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ultimate-ears-everboom-3615954.jpg?tf=1200x' alt='Ultimate Ears lanza el potente y resistente Everboom y renueva sus altavoces inalámbricos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-cambiar-otra-red-1352629'>Cómo conectar Alexa al WiFi o cambiar a otra red</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-cambiar-otra-red-1352629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-conectar-alexa-wifi-cambiar-otra-red-3253808.jpg?tf=1200x' alt='Cómo conectar Alexa al WiFi o cambiar a otra red' />
+    <h4><a href='https://computerhoy.com/pc/atajos-cosas-sorprendentes-puedes-hacer-touchpad-portatil-windows-11-1392251'>Atajos y cosas sorprendentes que puedes hacer con el touchpad de tu portátil en Windows 11</a></h4>
+    <a href='https://computerhoy.com/pc/atajos-cosas-sorprendentes-puedes-hacer-touchpad-portatil-windows-11-1392251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/atajos-cosas-sorprendentes-puedes-hacer-touchpad-portatil-windows-11-3566358.jpg?tf=1200x' alt='Atajos y cosas sorprendentes que puedes hacer con el touchpad de tu portátil en Windows 11' />
     </a>
 </div>
 
