@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-anadir-superpoderes-raspberry-pi-inteligencia-artificial-1393090'>Cómo añadir superpoderes a una Raspberry Pi con inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-anadir-superpoderes-raspberry-pi-inteligencia-artificial-1393090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-anadir-superpoderes-raspberry-pi-inteligencia-artificial-3609180.jpg?tf=1200x' alt='Cómo añadir superpoderes a una Raspberry Pi con inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-1393093'>Películas slasher actuales que parecen de los 80 o 90, y que tienes que ver si te gustan Scream o Destino final</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-1393093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-3608418.jpg?tf=1200x' alt='Películas slasher actuales que parecen de los 80 o 90, y que tienes que ver si te gustan Scream o Destino final' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/fraude-diesel-no-deja-crecer-gasolineras-low-cost-1392698'>¿Por qué el “fraude del diésel” no deja de crecer en las gasolineras low cost?</a></h4>
     <a href='https://computerhoy.com/motor/fraude-diesel-no-deja-crecer-gasolineras-low-cost-1392698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/persona-echando-gasolina-coche-senal-peligro-3600033.jpg?tf=1200x' alt='¿Por qué el “fraude del diésel” no deja de crecer en las gasolineras low cost?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/olvidate-aire-acondicionado-invento-lidl-cuesta-18-euros-enfria-casa-instalar-nada-1392869'>Olvídate del aire acondicionado: este invento de Lidl cuesta 18 euros y enfría la casa sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/life/olvidate-aire-acondicionado-invento-lidl-cuesta-18-euros-enfria-casa-instalar-nada-1392869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/centro-comercial-lidl-2831649.jpg?tf=1200x' alt='Olvídate del aire acondicionado: este invento de Lidl cuesta 18 euros y enfría la casa sin instalar nada' />
     </a>
 </div>
 
