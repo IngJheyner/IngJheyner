@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-sistema-correccion-postura-frente-ordenador-impulsado-ia-1392300'>Microsoft piensa en un sistema de corrección de postura frente al ordenador impulsado por IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-sistema-correccion-postura-frente-ordenador-impulsado-ia-1392300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/patente-postura-frente-ordenador-microsoft-3571466.jpg?tf=1200x' alt='Microsoft piensa en un sistema de corrección de postura frente al ordenador impulsado por IA' />
+    <h4><a href='https://computerhoy.com/life/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-1392904'>Las lavadoras tienen una función que nadie conoce para quitar las manchas más difíciles, y tu abuela se sabía el truco</a></h4>
+    <a href='https://computerhoy.com/life/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-1392904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-3601660.jpg?tf=1200x' alt='Las lavadoras tienen una función que nadie conoce para quitar las manchas más difíciles, y tu abuela se sabía el truco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ipad-deberias-comprarte-1392134'>Este es el iPad que deberías comprarte</a></h4>
-    <a href='https://computerhoy.com/apple/ipad-deberias-comprarte-1392134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='Este es el iPad que deberías comprarte' />
+    <h4><a href='https://computerhoy.com/tutoriales/10-comandos-utiles-solucionar-problemas-windows-11-deberias-usar-ahora-mismo-1391916'>10 comandos útiles para solucionar problemas en Windows 11 que deberías usar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/10-comandos-utiles-solucionar-problemas-windows-11-deberias-usar-ahora-mismo-1391916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-comandos-utiles-solucionar-problemas-windows-11-deberias-usar-ahora-mismo-3552707.jpg?tf=1200x' alt='10 comandos útiles para solucionar problemas en Windows 11 que deberías usar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/honor-200-pro-analisis-opinion-1392582'>He analizado el Honor 200 Pro a fondo y me ha conquistado por su potencia y cámara de gama alta</a></h4>
-    <a href='https://computerhoy.com/analisis/honor-200-pro-analisis-opinion-1392582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3600863.jpg?tf=1200x' alt='He analizado el Honor 200 Pro a fondo y me ha conquistado por su potencia y cámara de gama alta' />
+    <h4><a href='https://computerhoy.com/tecnologia/robot-aspirador-roborock-no-tiene-nada-envidiar-roomba-tirado-precio-1393002'>Este robot aspirador de Roborock no tiene nada que envidiar a Roomba y está tirado de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-aspirador-roborock-no-tiene-nada-envidiar-roomba-tirado-precio-1393002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/roborock-q7-max-3606189.jpg?tf=1200x' alt='Este robot aspirador de Roborock no tiene nada que envidiar a Roomba y está tirado de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hackaton-deberias-participar-ellos-1388293'>¿Qué es un hackaton y por qué deberías participar en ellos?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hackaton-deberias-participar-ellos-1388293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718956625717-3561475.jpg?tf=1200x' alt='¿Qué es un hackaton y por qué deberías participar en ellos?' />
+    <h4><a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345'>Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI</a></h4>
+    <a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-crear-subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-3539675.jpg?tf=1200x' alt='Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/no-medico-cabecera-pero-chatbot-ia-whatsapp-te-dice-todo-medicamentos-1390121'>No es el médico de cabecera, pero este chatbot de IA en WhatsApp te dice todo sobre tus medicamentos</a></h4>
-    <a href='https://computerhoy.com/apps/no-medico-cabecera-pero-chatbot-ia-whatsapp-te-dice-todo-medicamentos-1390121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatbot-whatsapp-inteligencia-artificial-medicamento-3543011.jpg?tf=1200x' alt='No es el médico de cabecera, pero este chatbot de IA en WhatsApp te dice todo sobre tus medicamentos' />
+    <h4><a href='https://computerhoy.com/ciencia/ayudara-inteligencia-artificial-vivir-120-anos-experto-1393005'>Así ayudará la inteligencia artificial a vivir 120 años, según un experto</a></h4>
+    <a href='https://computerhoy.com/ciencia/ayudara-inteligencia-artificial-vivir-120-anos-experto-1393005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ayudara-inteligencia-artificial-vivir-120-anos-experto-3606361.jpg?tf=1200x' alt='Así ayudará la inteligencia artificial a vivir 120 años, según un experto' />
     </a>
 </div>
 
