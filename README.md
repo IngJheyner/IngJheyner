@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olimex-raspberry-pi-tiene-dos-procesadores-emuladores-retro-1393128'>Este clon de Raspberry Pi tiene dos procesadores para los emuladores retro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olimex-raspberry-pi-tiene-dos-procesadores-emuladores-retro-1393128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/olimex-clon-raspberry-pi-dos-procesadores-emuladores-integrados-3610398.jpg?tf=1200x' alt='Este clon de Raspberry Pi tiene dos procesadores para los emuladores retro' />
+    <h4><a href='https://computerhoy.com/alimentacion/ni-agua-ni-refrescos-mejor-bebida-quitar-sed-ciencia-1392896'>Ni agua ni refrescos, esta es la mejor bebida para quitar la sed, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/alimentacion/ni-agua-ni-refrescos-mejor-bebida-quitar-sed-ciencia-1392896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-agua-ni-refrescos-mejor-bebida-quitar-sed-ciencia-3601815.jpg?tf=1200x' alt='Ni agua ni refrescos, esta es la mejor bebida para quitar la sed, según la ciencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/brujula-no-tiene-norte-pero-marca-camino-cualquier-destino-1392945'>Esta brújula no tiene Norte, pero marca el camino a cualquier destino </a></h4>
-    <a href='https://computerhoy.com/tecnologia/brujula-no-tiene-norte-pero-marca-camino-cualquier-destino-1392945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1719449167281-3603781.jpg?tf=1200x' alt='Esta brújula no tiene Norte, pero marca el camino a cualquier destino ' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-contrata-spacex-destruir-estacion-espacial-internacional-1393132'>La NASA contrata a SpaceX para destruir la Estación Espacial Internacional</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-contrata-spacex-destruir-estacion-espacial-internacional-1393132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nasa-contrata-spacex-destruir-estacion-espacial-internacional-3612039.jpg?tf=1200x' alt='La NASA contrata a SpaceX para destruir la Estación Espacial Internacional' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-1392612'>Así funciona el gel que puede convertir la vibración del movimiento de los objetos en energía</a></h4>
-    <a href='https://computerhoy.com/ciencia/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-1392612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-3591549.jpg?tf=1200x' alt='Así funciona el gel que puede convertir la vibración del movimiento de los objetos en energía' />
+    <h4><a href='https://computerhoy.com/tecnologia/experto-mundial-ia-vuelve-alertar-peligros-ya-no-tenemos-boton-rojo-1393017'>Un experto mundial en IA vuelve a alertar de sus peligros: “ya no tenemos botón rojo”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/experto-mundial-ia-vuelve-alertar-peligros-ya-no-tenemos-boton-rojo-1393017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/boton-panico-3607334.jpg?tf=1200x' alt='Un experto mundial en IA vuelve a alertar de sus peligros: “ya no tenemos botón rojo”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cuanto-cuesta-atasco-trafico-cifra-te-dejara-tan-parado-como-coche-operacion-salida-1392857'>¿Cuánto cuesta un atasco de tráfico? La cifra te dejará tan parado como tu coche en la operación salida</a></h4>
-    <a href='https://computerhoy.com/motor/cuanto-cuesta-atasco-trafico-cifra-te-dejara-tan-parado-como-coche-operacion-salida-1392857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conductor-enfadado-3600354.jpg?tf=1200x' alt='¿Cuánto cuesta un atasco de tráfico? La cifra te dejará tan parado como tu coche en la operación salida' />
+    <h4><a href='https://computerhoy.com/tecnologia/version-china-her-haciendo-mujeres-enamoren-ia-1392465'>La versión china de “Her”, que está haciendo que las mujeres se enamoren de una IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/version-china-her-haciendo-mujeres-enamoren-ia-1392465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/version-china-her-haciendo-mujeres-asiaticas-enamoren-ia-3585002.jpg?tf=1200x' alt='La versión china de “Her”, que está haciendo que las mujeres se enamoren de una IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-gratis-android-auto-mezcla-mejor-google-maps-waze-casi-nadie-conoce-1359276'>La app que mezcla lo mejor de Google Maps y Waze gratis (y casi nadie conoce)</a></h4>
-    <a href='https://computerhoy.com/apps/app-gratis-android-auto-mezcla-mejor-google-maps-waze-casi-nadie-conoce-1359276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/app-gratis-android-auto-mezcla-mejor-google-maps-waze-casi-nadie-conoce-3265040.jpg?tf=1200x' alt='La app que mezcla lo mejor de Google Maps y Waze gratis (y casi nadie conoce)' />
+    <h4><a href='https://computerhoy.com/tecnologia/ponen-fecha-nueva-generacion-ia-sera-10000-veces-inteligente-humanos-1392828'>Ponen fecha a la nueva generación de IA: “será 10.000 veces más inteligente que los humanos”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ponen-fecha-nueva-generacion-ia-sera-10000-veces-inteligente-humanos-1392828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/japones-pone-fecha-nueva-ia-sera-10000-veces-inteligente-humanos-3599674.jpg?tf=1200x' alt='Ponen fecha a la nueva generación de IA: “será 10.000 veces más inteligente que los humanos”' />
     </a>
 </div>
 
