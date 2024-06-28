@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-1392904'>Las lavadoras tienen una función que nadie conoce para quitar las manchas más difíciles, y tu abuela se sabía el truco</a></h4>
-    <a href='https://computerhoy.com/life/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-1392904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-3601660.jpg?tf=1200x' alt='Las lavadoras tienen una función que nadie conoce para quitar las manchas más difíciles, y tu abuela se sabía el truco' />
+    <h4><a href='https://computerhoy.com/motor/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-1392972'>Este carpintero no podía pagar un deportivo, así que lo construyó de madera... ¡y funciona!</a></h4>
+    <a href='https://computerhoy.com/motor/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-1392972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-3605253.jpg?tf=1200x' alt='Este carpintero no podía pagar un deportivo, así que lo construyó de madera... ¡y funciona!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/10-comandos-utiles-solucionar-problemas-windows-11-deberias-usar-ahora-mismo-1391916'>10 comandos útiles para solucionar problemas en Windows 11 que deberías usar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/10-comandos-utiles-solucionar-problemas-windows-11-deberias-usar-ahora-mismo-1391916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-comandos-utiles-solucionar-problemas-windows-11-deberias-usar-ahora-mismo-3552707.jpg?tf=1200x' alt='10 comandos útiles para solucionar problemas en Windows 11 que deberías usar ahora mismo' />
+    <h4><a href='https://computerhoy.com/tecnologia/mark-zuckerberg-pide-pies-tierra-openai-google-no-estamos-creando-dios-ia-1393153'>Mark Zuckerberg pide los pies en la tierra a OpenAI y Google: "No estamos creando a Dios con la IA"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mark-zuckerberg-pide-pies-tierra-openai-google-no-estamos-creando-dios-ia-1393153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mark-zuckerberg-2867171.jpg?tf=1200x' alt='Mark Zuckerberg pide los pies en la tierra a OpenAI y Google: "No estamos creando a Dios con la IA"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-aspirador-roborock-no-tiene-nada-envidiar-roomba-tirado-precio-1393002'>Este robot aspirador de Roborock no tiene nada que envidiar a Roomba y está tirado de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-aspirador-roborock-no-tiene-nada-envidiar-roomba-tirado-precio-1393002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/roborock-q7-max-3606189.jpg?tf=1200x' alt='Este robot aspirador de Roborock no tiene nada que envidiar a Roomba y está tirado de precio' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-edge-1050-ya-oficial-ciclocomputador-gps-potente-sofisticado-mercado-1392958'>Garmin Edge 1050: ya es oficial el ciclocomputador GPS más potente y sofisticado del mercado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-edge-1050-ya-oficial-ciclocomputador-gps-potente-sofisticado-mercado-1392958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/garmin-edge-1050-3605706.jpg?tf=1200x' alt='Garmin Edge 1050: ya es oficial el ciclocomputador GPS más potente y sofisticado del mercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345'>Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI</a></h4>
-    <a href='https://computerhoy.com/tutoriales/subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-1391345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-crear-subtitulos-cualquier-anime-pelicula-video-usando-whisper-ia-openai-3539675.jpg?tf=1200x' alt='Como crear subtítulos de cualquier anime, película o vídeo usando Whisper, la IA de OpenAI' />
+    <h4><a href='https://computerhoy.com/pc/componentes-debes-actualizar-mejorar-rendimiento-pc-instante-1392081'>Componentes que debes actualizar para mejorar el rendimiento de tu PC al instante</a></h4>
+    <a href='https://computerhoy.com/pc/componentes-debes-actualizar-mejorar-rendimiento-pc-instante-1392081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/componentes-debes-actualizar-mejorar-rendimiento-pc-instante-3559580.jpg?tf=1200x' alt='Componentes que debes actualizar para mejorar el rendimiento de tu PC al instante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ayudara-inteligencia-artificial-vivir-120-anos-experto-1393005'>Así ayudará la inteligencia artificial a vivir 120 años, según un experto</a></h4>
-    <a href='https://computerhoy.com/ciencia/ayudara-inteligencia-artificial-vivir-120-anos-experto-1393005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ayudara-inteligencia-artificial-vivir-120-anos-experto-3606361.jpg?tf=1200x' alt='Así ayudará la inteligencia artificial a vivir 120 años, según un experto' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-usar-chatgpt-ganar-dinero-7-formas-aprovechar-ia-1343370'>7 formas de usar ChatGPT para ganar dinero y sacar partido a la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-usar-chatgpt-ganar-dinero-7-formas-aprovechar-ia-1343370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/formas-ganar-dinero-chatgpt-3237530.jpg?tf=1200x' alt='7 formas de usar ChatGPT para ganar dinero y sacar partido a la IA' />
     </a>
 </div>
 
