@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/hoy-cierra-apps-google-usada-millones-personas-1392342'>Esta aplicación de Google que cierra tras solo seis años de vida </a></h4>
+    <a href='https://computerhoy.com/google/hoy-cierra-apps-google-usada-millones-personas-1392342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hoy-cierra-apps-google-usada-millones-personas-3579423.jpg?tf=1200x' alt='Esta aplicación de Google que cierra tras solo seis años de vida ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/te-encanto-seven-no-puedes-perderte-thriller-morgan-freeman-acaba-llegar-netflix-1393283'>Si te encantó Seven no puedes perderte este thriller con Morgan Freeman que acaba de llegar a Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/te-encanto-seven-no-puedes-perderte-thriller-morgan-freeman-acaba-llegar-netflix-1393283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/te-encanto-seven-no-puedes-perderte-thriller-morgan-freeman-acaba-llegar-netflix-3617002.jpg?tf=1200x' alt='Si te encantó Seven no puedes perderte este thriller con Morgan Freeman que acaba de llegar a Netflix' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/reserva-booking-cancelada-falta-datos-no-piques-estafa-te-puede-dejar-vacaciones-1393289'>Reserva de Booking cancelada por falta de datos: no piques, es una estafa que te puede dejar sin vacaciones</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/reserva-booking-cancelada-falta-datos-no-piques-estafa-te-puede-dejar-vacaciones-1393289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/reserva-booking-cancelada-falta-datos-no-piques-estafa-te-puede-dejar-vacaciones-3617001.jpg?tf=1200x' alt='Reserva de Booking cancelada por falta de datos: no piques, es una estafa que te puede dejar sin vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/nube-como-almacenamiento-gran-desperdicio-energetico-ecologico-1392340'>Hasta un 80% de la nube se usa como almacenamiento: un gran desperdicio energético</a></h4>
-    <a href='https://computerhoy.com/internet/nube-como-almacenamiento-gran-desperdicio-energetico-ecologico-1392340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/80-nube-usa-como-almacenamiento-enorme-desperdicio-energetico-ecologico-3578960.jpg?tf=1200x' alt='Hasta un 80% de la nube se usa como almacenamiento: un gran desperdicio energético' />
     </a>
 </div>
 
