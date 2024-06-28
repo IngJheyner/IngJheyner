@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/app-gratis-android-auto-mezcla-mejor-google-maps-waze-casi-nadie-conoce-1359276'>La app que mezcla lo mejor de Google Maps y Waze gratis (y casi nadie conoce)</a></h4>
+    <a href='https://computerhoy.com/apps/app-gratis-android-auto-mezcla-mejor-google-maps-waze-casi-nadie-conoce-1359276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/app-gratis-android-auto-mezcla-mejor-google-maps-waze-casi-nadie-conoce-3265040.jpg?tf=1200x' alt='La app que mezcla lo mejor de Google Maps y Waze gratis (y casi nadie conoce)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732'>¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras</a></h4>
+    <a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-3596739.jpg?tf=1200x' alt='¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-1392731'>HackRF One, la alternativa a Flipper Zero para hackear e interceptar señales de radio</a></h4>
     <a href='https://computerhoy.com/tecnologia/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-1392731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-3596445.jpg?tf=1200x' alt='HackRF One, la alternativa a Flipper Zero para hackear e interceptar señales de radio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/honeypot-trampa-saber-ves-futbol-gratis-iptv-1393114'>Qué es un Honeypot, la trampa para saber que ves el fútbol gratis por IPTV</a></h4>
     <a href='https://computerhoy.com/internet/honeypot-trampa-saber-ves-futbol-gratis-iptv-1393114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honeypot-trampa-saber-ves-futbol-gratis-iptv-3610091.jpg?tf=1200x' alt='Qué es un Honeypot, la trampa para saber que ves el fútbol gratis por IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/atletas-japonesas-olimpiadas-paris-24-tejido-bloquea-camaras-infrarrojos-1393123'>Las atletas japonesas de las Olimpiadas llevarán un tejido que bloquea las cámaras que revelan la ropa interior</a></h4>
-    <a href='https://computerhoy.com/tecnologia/atletas-japonesas-olimpiadas-paris-24-tejido-bloquea-camaras-infrarrojos-1393123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/atletas-japonesas-olimpiadas-llevaran-tejido-bloquea-camaras-revelan-ropa-interior-3609482.jpg?tf=1200x' alt='Las atletas japonesas de las Olimpiadas llevarán un tejido que bloquea las cámaras que revelan la ropa interior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724'>Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar</a></h4>
-    <a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-store-3594966.jpg?tf=1200x' alt='Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar' />
     </a>
 </div>
 
