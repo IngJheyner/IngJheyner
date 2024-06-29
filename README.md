@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-comprar-ordenador-portatil-lento-mundo-bolsillo-menos-podras-jugar-doom-1393328'>Ya puedes comprar el ordenador portátil más lento de mundo: cabe en un bolsillo y al menos podrás jugar a Doom</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-puedes-comprar-ordenador-portatil-lento-mundo-bolsillo-menos-podras-jugar-doom-1393328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pocket-386-3622036.jpg?tf=1200x' alt='Ya puedes comprar el ordenador portátil más lento de mundo: cabe en un bolsillo y al menos podrás jugar a Doom' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-viene-arriba-cree-robot-optimus-cuidara-hijos-compara-c3po-star-wars-1392446'>Elon Musk se viene arriba: cree que su robot Optimus cuidará de tus hijos, y lo compara con C3PO de Star Wars</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-viene-arriba-cree-robot-optimus-cuidara-hijos-compara-c3po-star-wars-1392446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/elon-musk-viene-arriba-cree-robot-optimus-cuidara-hijos-compara-c3po-star-wars-3584495.jpg?tf=1200x' alt='Elon Musk se viene arriba: cree que su robot Optimus cuidará de tus hijos, y lo compara con C3PO de Star Wars' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-podria-estar-copiando-descaradamente-disney-1392189'>Así es la inteligencia artificial que podría estar copiando descaradamente a Disney</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-podria-estar-copiando-descaradamente-disney-1392189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-podria-estar-copiando-descaradamente-disney-3562765.jpg?tf=1200x' alt='Así es la inteligencia artificial que podría estar copiando descaradamente a Disney' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-1393181'>Ya está pasando: así es la estafa que usa la inteligencia artificial para clonar la voz de un familiar</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-1393181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-3613599.jpg?tf=1200x' alt='Ya está pasando: así es la estafa que usa la inteligencia artificial para clonar la voz de un familiar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/utilizas-windows-10-olvidate-wifi-7-microsoft-reserva-cosas-importantes-1392439'>Si utilizas Windows 10, olvídate de WiFi 7: Microsoft lo reserva para "cosas más importantes"</a></h4>
     <a href='https://computerhoy.com/pc/utilizas-windows-10-olvidate-wifi-7-microsoft-reserva-cosas-importantes-1392439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wi-fi-7-queda-fuera-windows-10-microsoft-reserva-pc-copilot-3584680.jpg?tf=1200x' alt='Si utilizas Windows 10, olvídate de WiFi 7: Microsoft lo reserva para "cosas más importantes"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/todo-mundo-esperando-windows-10-muera-menos-posiblemente-1393207'>Todo el mundo está esperando a que Windows 10 muera... menos posiblemente tú</a></h4>
-    <a href='https://computerhoy.com/windows/todo-mundo-esperando-windows-10-muera-menos-posiblemente-1393207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/muerte-windows-10-3614253.jpg?tf=1200x' alt='Todo el mundo está esperando a que Windows 10 muera... menos posiblemente tú' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/japon-borde-colapso-demografico-quiere-crear-tunel-automatizado-500-kilometros-transportar-mercancias-1393228'>Japón al borde del colapso demográfico quiere crear un túnel automatizado de 500 kilómetros para transportar mercancías</a></h4>
-    <a href='https://computerhoy.com/life/japon-borde-colapso-demografico-quiere-crear-tunel-automatizado-500-kilometros-transportar-mercancias-1393228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/japon-podria-crear-tunel-500-kilometros-transportar-mercancia-tokio-osaka-3614568.jpg?tf=1200x' alt='Japón al borde del colapso demográfico quiere crear un túnel automatizado de 500 kilómetros para transportar mercancías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/trucos-google-maps-deberias-conocer-antes-salir-vacaciones-1393325'>Trucos de Google Maps que deberías conocer antes de salir de vacaciones</a></h4>
-    <a href='https://computerhoy.com/apps/trucos-google-maps-deberias-conocer-antes-salir-vacaciones-1393325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3621742.jpg?tf=1200x' alt='Trucos de Google Maps que deberías conocer antes de salir de vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-1393047'>Este modelo de lenguaje de IA tiene un consumo de memoria 10 veces menor: Nvidia y AMD son el objetivo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-1393047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-3607332.jpg?tf=1200x' alt='Este modelo de lenguaje de IA tiene un consumo de memoria 10 veces menor: Nvidia y AMD son el objetivo' />
     </a>
 </div>
 
