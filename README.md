@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/utilizas-windows-10-olvidate-wifi-7-microsoft-reserva-cosas-importantes-1392439'>Si utilizas Windows 10, olvídate de WiFi 7: Microsoft lo reserva para "cosas más importantes"</a></h4>
+    <a href='https://computerhoy.com/pc/utilizas-windows-10-olvidate-wifi-7-microsoft-reserva-cosas-importantes-1392439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wi-fi-7-queda-fuera-windows-10-microsoft-reserva-pc-copilot-3584680.jpg?tf=1200x' alt='Si utilizas Windows 10, olvídate de WiFi 7: Microsoft lo reserva para "cosas más importantes"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/todo-mundo-esperando-windows-10-muera-menos-posiblemente-1393207'>Todo el mundo está esperando a que Windows 10 muera... menos posiblemente tú</a></h4>
+    <a href='https://computerhoy.com/windows/todo-mundo-esperando-windows-10-muera-menos-posiblemente-1393207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/muerte-windows-10-3614253.jpg?tf=1200x' alt='Todo el mundo está esperando a que Windows 10 muera... menos posiblemente tú' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/japon-borde-colapso-demografico-quiere-crear-tunel-automatizado-500-kilometros-transportar-mercancias-1393228'>Japón al borde del colapso demográfico quiere crear un túnel automatizado de 500 kilómetros para transportar mercancías</a></h4>
     <a href='https://computerhoy.com/life/japon-borde-colapso-demografico-quiere-crear-tunel-automatizado-500-kilometros-transportar-mercancias-1393228' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/japon-podria-crear-tunel-500-kilometros-transportar-mercancia-tokio-osaka-3614568.jpg?tf=1200x' alt='Japón al borde del colapso demográfico quiere crear un túnel automatizado de 500 kilómetros para transportar mercancías' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-1393047'>Este modelo de lenguaje de IA tiene un consumo de memoria 10 veces menor: Nvidia y AMD son el objetivo</a></h4>
     <a href='https://computerhoy.com/tecnologia/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-1393047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-3607332.jpg?tf=1200x' alt='Este modelo de lenguaje de IA tiene un consumo de memoria 10 veces menor: Nvidia y AMD son el objetivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/verano-vas-seguir-deporte-pulsera-actividad-no-puede-faltar-equipo-1393229'>Si este verano vas a seguir con el deporte, esta pulsera de actividad no puede faltar en tu equipo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/verano-vas-seguir-deporte-pulsera-actividad-no-puede-faltar-equipo-1393229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huwei-band-8-3614251.jpg?tf=1200x' alt='Si este verano vas a seguir con el deporte, esta pulsera de actividad no puede faltar en tu equipo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/hoy-cierra-apps-google-usada-millones-personas-1392342'>Esta aplicación de Google que cierra tras solo seis años de vida </a></h4>
-    <a href='https://computerhoy.com/google/hoy-cierra-apps-google-usada-millones-personas-1392342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hoy-cierra-apps-google-usada-millones-personas-3579423.jpg?tf=1200x' alt='Esta aplicación de Google que cierra tras solo seis años de vida ' />
     </a>
 </div>
 
