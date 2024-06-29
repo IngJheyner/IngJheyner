@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/astronautas-boeing-estan-atrapados-iss-todo-sabemos-retrasos-mision-nasa-1392985'>¿Por qué los astronautas de Boeing están atrapados en la ISS? Todo lo que sabemos sobre los retrasos en la misión de la NASA</a></h4>
-    <a href='https://computerhoy.com/espacio/astronautas-boeing-estan-atrapados-iss-todo-sabemos-retrasos-mision-nasa-1392985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/boeing-podria-retrasar-mision-regreso-tierra-mision-starliner-julio-3606191.jpg?tf=1200x' alt='¿Por qué los astronautas de Boeing están atrapados en la ISS? Todo lo que sabemos sobre los retrasos en la misión de la NASA' />
+    <h4><a href='https://computerhoy.com/tecnologia/logran-traer-vuelta-windows-10-gracias-picovision-puedes-usarlo-como-fuese-1985-hardware-moderno-1393028'>Logran traer de vuelta Windows 1.0 gracias a PicoVision y puedes usarlo como si fuese 1985 en un hardware moderno</a></h4>
+    <a href='https://computerhoy.com/tecnologia/logran-traer-vuelta-windows-10-gracias-picovision-puedes-usarlo-como-fuese-1985-hardware-moderno-1393028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/regreso-futuro-windows-10-3606521.jpg?tf=1200x' alt='Logran traer de vuelta Windows 1.0 gracias a PicoVision y puedes usarlo como si fuese 1985 en un hardware moderno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-1393312'>El CEO de IA de Microsoft afirma que casi todo en la web puede ser usado libremente para entrenar IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-1393312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-3621012.jpg?tf=1200x' alt='El CEO de IA de Microsoft afirma que casi todo en la web puede ser usado libremente para entrenar IA' />
+    <h4><a href='https://computerhoy.com/tv/televisor-no-sobrevivio-apagon-tdt-smart-tv-40-pulgadas-podras-ver-tdt-receptor-1393309'>Si tu televisor no sobrevivió al apagón de la TDT, con esta Smart TV de 40 pulgadas podrás ver TDT sin receptor</a></h4>
+    <a href='https://computerhoy.com/tv/televisor-no-sobrevivio-apagon-tdt-smart-tv-40-pulgadas-podras-ver-tdt-receptor-1393309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/toshiba-smart-tv-3620724.jpg?tf=1200x' alt='Si tu televisor no sobrevivió al apagón de la TDT, con esta Smart TV de 40 pulgadas podrás ver TDT sin receptor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/netflix-prepara-suscripcion-100-gratis-copiando-peor-tdt-1392371'>Netflix prepara una suscripción 100% gratis copiando lo peor de la TDT</a></h4>
-    <a href='https://computerhoy.com/tv/netflix-prepara-suscripcion-100-gratis-copiando-peor-tdt-1392371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-gratis-3583829.jpg?tf=1200x' alt='Netflix prepara una suscripción 100% gratis copiando lo peor de la TDT' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-1393197'>Sentencia histórica: obligan a un banco a devolver 6.000 euros de una ciberestafa por falta de medidas de seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-1393197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-3613935.jpg?tf=1200x' alt='Sentencia histórica: obligan a un banco a devolver 6.000 euros de una ciberestafa por falta de medidas de seguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/greenwashing-pinkwashing-ahora-ia-washing-amazon-pillado-tratando-enganarte-1392977'>'Greenwashing', 'pinkwashing' y ahora 'IA washing': Amazon pillado tratando de engañarte </a></h4>
-    <a href='https://computerhoy.com/tecnologia/greenwashing-pinkwashing-ahora-ia-washing-amazon-pillado-tratando-enganarte-1392977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lavado-ia-3606031.jpg?tf=1200x' alt=''Greenwashing', 'pinkwashing' y ahora 'IA washing': Amazon pillado tratando de engañarte ' />
+    <h4><a href='https://computerhoy.com/pc/chip-gobernarlos-todos-thunderbird-i-1536-nucleos-risc-v-escala-360000-1393003'>Un chip para gobernarlos a todos: así es Thunderbird I con 1.536 Núcleos RISC-V que escala hasta los 360.000 </a></h4>
+    <a href='https://computerhoy.com/pc/chip-gobernarlos-todos-thunderbird-i-1536-nucleos-risc-v-escala-360000-1393003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chip-superordenador-3606366.jpg?tf=1200x' alt='Un chip para gobernarlos a todos: así es Thunderbird I con 1.536 Núcleos RISC-V que escala hasta los 360.000 ' />
     </a>
 </div>
 
