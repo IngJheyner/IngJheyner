@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/logran-traer-vuelta-windows-10-gracias-picovision-puedes-usarlo-como-fuese-1985-hardware-moderno-1393028'>Logran traer de vuelta Windows 1.0 gracias a PicoVision y puedes usarlo como si fuese 1985 en un hardware moderno</a></h4>
-    <a href='https://computerhoy.com/tecnologia/logran-traer-vuelta-windows-10-gracias-picovision-puedes-usarlo-como-fuese-1985-hardware-moderno-1393028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/regreso-futuro-windows-10-3606521.jpg?tf=1200x' alt='Logran traer de vuelta Windows 1.0 gracias a PicoVision y puedes usarlo como si fuese 1985 en un hardware moderno' />
+    <h4><a href='https://computerhoy.com/tecnologia/verano-vas-seguir-deporte-pulsera-actividad-no-puede-faltar-equipo-1393229'>Si este verano vas a seguir con el deporte, esta pulsera de actividad no puede faltar en tu equipo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/verano-vas-seguir-deporte-pulsera-actividad-no-puede-faltar-equipo-1393229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huwei-band-8-3614251.jpg?tf=1200x' alt='Si este verano vas a seguir con el deporte, esta pulsera de actividad no puede faltar en tu equipo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/televisor-no-sobrevivio-apagon-tdt-smart-tv-40-pulgadas-podras-ver-tdt-receptor-1393309'>Si tu televisor no sobrevivió al apagón de la TDT, con esta Smart TV de 40 pulgadas podrás ver TDT sin receptor</a></h4>
-    <a href='https://computerhoy.com/tv/televisor-no-sobrevivio-apagon-tdt-smart-tv-40-pulgadas-podras-ver-tdt-receptor-1393309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/toshiba-smart-tv-3620724.jpg?tf=1200x' alt='Si tu televisor no sobrevivió al apagón de la TDT, con esta Smart TV de 40 pulgadas podrás ver TDT sin receptor' />
+    <h4><a href='https://computerhoy.com/espacio/busca-quinta-fuerza-universo-particula-camaleon-1393202'>En busca de una quinta fuerza en el universo, la partícula camaleón</a></h4>
+    <a href='https://computerhoy.com/espacio/busca-quinta-fuerza-universo-particula-camaleon-1393202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/universo-3261763.jpg?tf=1200x' alt='En busca de una quinta fuerza en el universo, la partícula camaleón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-1393197'>Sentencia histórica: obligan a un banco a devolver 6.000 euros de una ciberestafa por falta de medidas de seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-1393197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-3613935.jpg?tf=1200x' alt='Sentencia histórica: obligan a un banco a devolver 6.000 euros de una ciberestafa por falta de medidas de seguridad' />
+    <h4><a href='https://computerhoy.com/windows/logra-ejecutar-windows-xp-mitico-intel-486-gracias-hack-kernel-1392429'>Logra ejecutar Windows XP en el mítico Intel 486 gracias a un hack del kernel</a></h4>
+    <a href='https://computerhoy.com/windows/logra-ejecutar-windows-xp-mitico-intel-486-gracias-hack-kernel-1392429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-xp-3319714.jpg?tf=1200x' alt='Logra ejecutar Windows XP en el mítico Intel 486 gracias a un hack del kernel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/chip-gobernarlos-todos-thunderbird-i-1536-nucleos-risc-v-escala-360000-1393003'>Un chip para gobernarlos a todos: así es Thunderbird I con 1.536 Núcleos RISC-V que escala hasta los 360.000 </a></h4>
-    <a href='https://computerhoy.com/pc/chip-gobernarlos-todos-thunderbird-i-1536-nucleos-risc-v-escala-360000-1393003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chip-superordenador-3606366.jpg?tf=1200x' alt='Un chip para gobernarlos a todos: así es Thunderbird I con 1.536 Núcleos RISC-V que escala hasta los 360.000 ' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-obliga-realizar-evacuacion-emergencia-astronautas-estacion-espacial-internacional-1393319'>La NASA obliga a realizar una evacuación de emergencia a los astronautas de la Estación Espacial Internacional</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-obliga-realizar-evacuacion-emergencia-astronautas-estacion-espacial-internacional-1393319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estacion-espacial-internacional-3621448.jpg?tf=1200x' alt='La NASA obliga a realizar una evacuación de emergencia a los astronautas de la Estación Espacial Internacional' />
     </a>
 </div>
 
