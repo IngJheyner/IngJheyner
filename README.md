@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/brujula-no-tiene-norte-pero-marca-camino-cualquier-destino-1392945'>Esta brújula no tiene Norte, pero marca el camino a cualquier destino </a></h4>
-    <a href='https://computerhoy.com/tecnologia/brujula-no-tiene-norte-pero-marca-camino-cualquier-destino-1392945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1719449167281-3603781.jpg?tf=1200x' alt='Esta brújula no tiene Norte, pero marca el camino a cualquier destino ' />
+    <h4><a href='https://computerhoy.com/life/compra-vasija-cuatro-dolares-resulta-ser-tesoro-maya-1393300'>Compra una vasija por cuatro dólares, y resulta ser un tesoro maya</a></h4>
+    <a href='https://computerhoy.com/life/compra-vasija-cuatro-dolares-resulta-ser-tesoro-maya-1393300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/compra-vasija-cuatro-dolares-resulta-ser-valioso-tesoro-maya-3619429.jpg?tf=1200x' alt='Compra una vasija por cuatro dólares, y resulta ser un tesoro maya' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cuanto-cuesta-atasco-trafico-cifra-te-dejara-tan-parado-como-coche-operacion-salida-1392857'>¿Cuánto cuesta un atasco de tráfico? La cifra te dejará tan parado como tu coche en la operación salida</a></h4>
-    <a href='https://computerhoy.com/motor/cuanto-cuesta-atasco-trafico-cifra-te-dejara-tan-parado-como-coche-operacion-salida-1392857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conductor-enfadado-3600354.jpg?tf=1200x' alt='¿Cuánto cuesta un atasco de tráfico? La cifra te dejará tan parado como tu coche en la operación salida' />
+    <h4><a href='https://computerhoy.com/alimentacion/ni-agua-ni-refrescos-mejor-bebida-quitar-sed-ciencia-1392896'>Ni agua ni refrescos, esta es la mejor bebida para quitar la sed, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/alimentacion/ni-agua-ni-refrescos-mejor-bebida-quitar-sed-ciencia-1392896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-agua-ni-refrescos-mejor-bebida-quitar-sed-ciencia-3601815.jpg?tf=1200x' alt='Ni agua ni refrescos, esta es la mejor bebida para quitar la sed, según la ciencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/youtube-premium-anuncia-nuevos-planes-1393299'>YouTube Premium anuncia nuevos planes, pero solo hay uno que podría acabar con los bloqueadores de anuncios</a></h4>
-    <a href='https://computerhoy.com/google/youtube-premium-anuncia-nuevos-planes-1393299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/youtube-premium-anuncia-nuevos-planes-pero-solo-hay-podra-acabar-bloqueadores-anuncios-3617718.jpg?tf=1200x' alt='YouTube Premium anuncia nuevos planes, pero solo hay uno que podría acabar con los bloqueadores de anuncios' />
+    <h4><a href='https://computerhoy.com/tecnologia/experto-mundial-ia-vuelve-alertar-peligros-ya-no-tenemos-boton-rojo-1393017'>Un experto mundial en IA vuelve a alertar de sus peligros: “ya no tenemos botón rojo”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/experto-mundial-ia-vuelve-alertar-peligros-ya-no-tenemos-boton-rojo-1393017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/boton-panico-3607334.jpg?tf=1200x' alt='Un experto mundial en IA vuelve a alertar de sus peligros: “ya no tenemos botón rojo”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-1393294'>Por qué envolver el móvil en papel de aluminio cuando hay un botón que hace lo mismo</a></h4>
-    <a href='https://computerhoy.com/internet/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-1393294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-3618004.jpg?tf=1200x' alt='Por qué envolver el móvil en papel de aluminio cuando hay un botón que hace lo mismo' />
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-identificar-archivos-espacio-ocupan-disco-duro-1388396'>Así puedes identificar los archivos que más espacio ocupan en tu disco duro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-identificar-archivos-espacio-ocupan-disco-duro-1388396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-identificar-archivos-espacio-ocupan-disco-duro-3392370.jpg?tf=1200x' alt='Así puedes identificar los archivos que más espacio ocupan en tu disco duro' />
     </a>
 </div>
 
