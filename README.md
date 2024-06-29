@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/configuraciones-android-auto-no-sabias-necesitabas-cambiar-1392486'>Configuraciones de Android Auto que no sabías que necesitabas cambiar</a></h4>
-    <a href='https://computerhoy.com/android/configuraciones-android-auto-no-sabias-necesitabas-cambiar-1392486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/configuraciones-android-auto-no-sabias-necesitabas-cambiar-3586130.jpg?tf=1200x' alt='Configuraciones de Android Auto que no sabías que necesitabas cambiar' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-busca-poner-fin-cuentas-locales-eliminar-tutoriales-crearlas-windows-1392431'>Microsoft busca poner fin a las cuentas locales tras eliminar los tutoriales para crearlas en Windows</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-busca-poner-fin-cuentas-locales-eliminar-tutoriales-crearlas-windows-1392431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-trae-nuevo-error-configuracion-suma-ultimo-vpn-3499949.jpg?tf=1200x' alt='Microsoft busca poner fin a las cuentas locales tras eliminar los tutoriales para crearlas en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-1393074'>Tiembla Google Maps: el próximo Waze podría ser tan avanzado que no tendrás ni que tocarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-1393074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-3608729.jpg?tf=1200x' alt='Tiembla Google Maps: el próximo Waze podría ser tan avanzado que no tendrás ni que tocarlo' />
+    <h4><a href='https://computerhoy.com/windows/te-mudaste-windows-11-piensa-fallo-provoca-notificaciones-cambio-zona-horaria-1393341'>¿Te mudaste? Windows 11 piensa que sí: un fallo provoca notificaciones de cambio de zona horaria</a></h4>
+    <a href='https://computerhoy.com/windows/te-mudaste-windows-11-piensa-fallo-provoca-notificaciones-cambio-zona-horaria-1393341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-hora-3623202.jpg?tf=1200x' alt='¿Te mudaste? Windows 11 piensa que sí: un fallo provoca notificaciones de cambio de zona horaria' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-revela-error-mayores-secretos-ejercito-americano-1393036'>Google Maps revela por error uno de los mayores secretos del ejército americano</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-revela-error-mayores-secretos-ejercito-americano-1393036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-secretos-ejercito-3607336.jpg?tf=1200x' alt='Google Maps revela por error uno de los mayores secretos del ejército americano' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/detenido-guardiacivilx-estudiante-fp-responsable-hackear-dgt-bancos-universidades-100-instituciones-1393340'>Detenido GUARDIACIVILX, el estudiante de FP responsable de hackear la DGT, bancos, universidades y más de 100 instituciones</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/detenido-guardiacivilx-estudiante-fp-responsable-hackear-dgt-bancos-universidades-100-instituciones-1393340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberdelincuentes-robo-datos-3320322.jpg?tf=1200x' alt='Detenido GUARDIACIVILX, el estudiante de FP responsable de hackear la DGT, bancos, universidades y más de 100 instituciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/puente-hogar-inteligente-sirve-como-funciona-1342334'>Qué es un puente (o hub) para el hogar inteligente, para qué sirve y cómo funciona</a></h4>
-    <a href='https://computerhoy.com/hogar/puente-hogar-inteligente-sirve-como-funciona-1342334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/puente-hogar-inteligente-sirve-como-funciona-3234888.jpg?tf=1200x' alt='Qué es un puente (o hub) para el hogar inteligente, para qué sirve y cómo funciona' />
+    <h4><a href='https://computerhoy.com/life/olvidate-aire-acondicionado-invento-lidl-cuesta-18-euros-enfria-casa-instalar-nada-1392869'>Olvídate del aire acondicionado: este invento de Lidl cuesta 18 euros y enfría la casa sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/life/olvidate-aire-acondicionado-invento-lidl-cuesta-18-euros-enfria-casa-instalar-nada-1392869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/centro-comercial-lidl-2831649.jpg?tf=1200x' alt='Olvídate del aire acondicionado: este invento de Lidl cuesta 18 euros y enfría la casa sin instalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/planes-pasarse-inteligencia-artificial-son-rapidos-pensaba-nuevo-estudio-1392392'>Los planes para pasarse a la inteligencia artificial son más rápidos de lo que se pensaba, según un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/industria/planes-pasarse-inteligencia-artificial-son-rapidos-pensaba-nuevo-estudio-1392392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/planes-pasarse-inteligencia-artificial-son-rapidos-pensaba-nuevo-estudio-3583664.jpg?tf=1200x' alt='Los planes para pasarse a la inteligencia artificial son más rápidos de lo que se pensaba, según un nuevo estudio' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-elegir-combinar-cpu-gpu-evitar-cuellos-botella-1392530'>Cómo elegir y combinar CPU y GPU para evitar cuellos de botella</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-elegir-combinar-cpu-gpu-evitar-cuellos-botella-1392530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-elegir-combinar-cpu-gpu-evitar-cuellos-botella-3588019.jpg?tf=1200x' alt='Cómo elegir y combinar CPU y GPU para evitar cuellos de botella' />
     </a>
 </div>
 
