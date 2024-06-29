@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/hoy-cierra-apps-google-usada-millones-personas-1392342'>Esta aplicación de Google que cierra tras solo seis años de vida </a></h4>
-    <a href='https://computerhoy.com/google/hoy-cierra-apps-google-usada-millones-personas-1392342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hoy-cierra-apps-google-usada-millones-personas-3579423.jpg?tf=1200x' alt='Esta aplicación de Google que cierra tras solo seis años de vida ' />
+    <h4><a href='https://computerhoy.com/life/japon-borde-colapso-demografico-quiere-crear-tunel-automatizado-500-kilometros-transportar-mercancias-1393228'>Japón al borde del colapso demográfico quiere crear un túnel automatizado de 500 kilómetros para transportar mercancías</a></h4>
+    <a href='https://computerhoy.com/life/japon-borde-colapso-demografico-quiere-crear-tunel-automatizado-500-kilometros-transportar-mercancias-1393228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/japon-podria-crear-tunel-500-kilometros-transportar-mercancia-tokio-osaka-3614568.jpg?tf=1200x' alt='Japón al borde del colapso demográfico quiere crear un túnel automatizado de 500 kilómetros para transportar mercancías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/trucos-google-maps-deberias-conocer-antes-salir-vacaciones-1393325'>Trucos de Google Maps que deberías conocer antes de salir de vacaciones</a></h4>
+    <a href='https://computerhoy.com/apps/trucos-google-maps-deberias-conocer-antes-salir-vacaciones-1393325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3621742.jpg?tf=1200x' alt='Trucos de Google Maps que deberías conocer antes de salir de vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-1393047'>Este modelo de lenguaje de IA tiene un consumo de memoria 10 veces menor: Nvidia y AMD son el objetivo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-1393047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-3607332.jpg?tf=1200x' alt='Este modelo de lenguaje de IA tiene un consumo de memoria 10 veces menor: Nvidia y AMD son el objetivo' />
     </a>
 </div>
 
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/busca-quinta-fuerza-universo-particula-camaleon-1393202'>En busca de una quinta fuerza en el universo, la partícula camaleón</a></h4>
-    <a href='https://computerhoy.com/espacio/busca-quinta-fuerza-universo-particula-camaleon-1393202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/universo-3261763.jpg?tf=1200x' alt='En busca de una quinta fuerza en el universo, la partícula camaleón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/logra-ejecutar-windows-xp-mitico-intel-486-gracias-hack-kernel-1392429'>Logra ejecutar Windows XP en el mítico Intel 486 gracias a un hack del kernel</a></h4>
-    <a href='https://computerhoy.com/windows/logra-ejecutar-windows-xp-mitico-intel-486-gracias-hack-kernel-1392429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-xp-3319714.jpg?tf=1200x' alt='Logra ejecutar Windows XP en el mítico Intel 486 gracias a un hack del kernel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-obliga-realizar-evacuacion-emergencia-astronautas-estacion-espacial-internacional-1393319'>La NASA obliga a realizar una evacuación de emergencia a los astronautas de la Estación Espacial Internacional</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-obliga-realizar-evacuacion-emergencia-astronautas-estacion-espacial-internacional-1393319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estacion-espacial-internacional-3621448.jpg?tf=1200x' alt='La NASA obliga a realizar una evacuación de emergencia a los astronautas de la Estación Espacial Internacional' />
+    <h4><a href='https://computerhoy.com/google/hoy-cierra-apps-google-usada-millones-personas-1392342'>Esta aplicación de Google que cierra tras solo seis años de vida </a></h4>
+    <a href='https://computerhoy.com/google/hoy-cierra-apps-google-usada-millones-personas-1392342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hoy-cierra-apps-google-usada-millones-personas-3579423.jpg?tf=1200x' alt='Esta aplicación de Google que cierra tras solo seis años de vida ' />
     </a>
 </div>
 
