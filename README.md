@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-carpeta-todopoderosa-modo-dios-windows-10-1392942'>Cómo crear una carpeta todopoderosa en modo dios en Windows 10</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-carpeta-todopoderosa-modo-dios-windows-10-1392942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-crear-carpeta-todopoderosa-modo-dios-windows-10-3603632.jpg?tf=1200x' alt='Cómo crear una carpeta todopoderosa en modo dios en Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-1392904'>Las lavadoras tienen una función que nadie conoce para quitar las manchas más difíciles, y tu abuela se sabía el truco</a></h4>
+    <a href='https://computerhoy.com/life/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-1392904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-3601660.jpg?tf=1200x' alt='Las lavadoras tienen una función que nadie conoce para quitar las manchas más difíciles, y tu abuela se sabía el truco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sony-warner-universal-empieza-guerra-musica-generada-ia-tan-dramatico-como-pinta-1392912'>Sony, Warner, Universal... empieza la guerra por la música generada con IA: ¿Es tan dramático como se pinta?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sony-warner-universal-empieza-guerra-musica-generada-ia-tan-dramatico-como-pinta-1392912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/musica-inteligencia-artificial-3601505.jpg?tf=1200x' alt='Sony, Warner, Universal... empieza la guerra por la música generada con IA: ¿Es tan dramático como se pinta?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/kindle-vs-libro-fisico-ventajas-desventajas-cada-muchos-anos-leyendo-1392911'>Kindle vs. libro en físico: ventajas y desventajas de cada uno tras muchos años leyendo </a></h4>
     <a href='https://computerhoy.com/tecnologia/kindle-vs-libro-fisico-ventajas-desventajas-cada-muchos-anos-leyendo-1392911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/libro-fisico-kindle-3608734.jpg?tf=1200x' alt='Kindle vs. libro en físico: ventajas y desventajas de cada uno tras muchos años leyendo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-5-oferta-aliexpress-plaza-1060881'>Uno de los mejores smartwatch que hemos probado, con WhatsApp y un precio que ensombrece al Apple Watch</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-5-oferta-aliexpress-plaza-1060881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ticwatch-pro-5-3601024.jpg?tf=1200x' alt='Uno de los mejores smartwatch que hemos probado, con WhatsApp y un precio que ensombrece al Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/me-han-intentado-hackear-google-drive-he-hecho-consejos-ti-no-te-pase-1392213'>Me han intentado hackear por Google Drive: qué he hecho y consejos para que a ti no te pase</a></h4>
-    <a href='https://computerhoy.com/tutoriales/me-han-intentado-hackear-google-drive-he-hecho-consejos-ti-no-te-pase-1392213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/malware-google-drive-2040009.jpg?tf=1200x' alt='Me han intentado hackear por Google Drive: qué he hecho y consejos para que a ti no te pase' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mejor-vivo-v40-5g-modo-fotografia-retrato-1392981'>Lo mejor del Vivo V40 5G es su modo de fotografía retrato, a la altura de los más caros</a></h4>
-    <a href='https://computerhoy.com/moviles/mejor-vivo-v40-5g-modo-fotografia-retrato-1392981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vivo-v40-5g-3584174.jpg?tf=1200x' alt='Lo mejor del Vivo V40 5G es su modo de fotografía retrato, a la altura de los más caros' />
     </a>
 </div>
 
