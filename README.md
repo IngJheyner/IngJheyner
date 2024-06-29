@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/reserva-booking-cancelada-falta-datos-no-piques-estafa-te-puede-dejar-vacaciones-1393289'>Reserva de Booking cancelada por falta de datos: no piques, es una estafa que te puede dejar sin vacaciones</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/reserva-booking-cancelada-falta-datos-no-piques-estafa-te-puede-dejar-vacaciones-1393289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/reserva-booking-cancelada-falta-datos-no-piques-estafa-te-puede-dejar-vacaciones-3617001.jpg?tf=1200x' alt='Reserva de Booking cancelada por falta de datos: no piques, es una estafa que te puede dejar sin vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/organizar-quedadas-amigos-ahora-facil-nueva-funcion-eventos-whatsapp-1393344'>Organizar quedadas con amigos ahora es más fácil con la nueva función Eventos de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/organizar-quedadas-amigos-ahora-facil-nueva-funcion-eventos-whatsapp-1393344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/comunidad-whatsapp-2525619.jpg?tf=1200x' alt='Organizar quedadas con amigos ahora es más fácil con la nueva función Eventos de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/como-reparar-barra-tareas-windows-cuando-no-oculta-automaticamente-1392526'>Cómo reparar la barra de tareas de Windows cuando no se oculta automáticamente</a></h4>
     <a href='https://computerhoy.com/windows/como-reparar-barra-tareas-windows-cuando-no-oculta-automaticamente-1392526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/barra-tareas-3022610.jpg?tf=1200x' alt='Cómo reparar la barra de tareas de Windows cuando no se oculta automáticamente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/navegacion-limpia-moderna-chrome-podria-ocultar-barra-pestanas-1393343'>Navegación limpia y moderna: Chrome podría ocultar la barra de pestañas</a></h4>
     <a href='https://computerhoy.com/tecnologia/navegacion-limpia-moderna-chrome-podria-ocultar-barra-pestanas-1393343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-google-chrome-te-permite-tener-100-pestanas-abiertas-bien-organizadas-3283250.jpg?tf=1200x' alt='Navegación limpia y moderna: Chrome podría ocultar la barra de pestañas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/alguien-logra-traer-vuelta-wordpad-windows-11-24h2-ha-logrado-1392436'>Alguien logra traer de vuelta WordPad a Windows 11 24H2: así lo ha logrado</a></h4>
-    <a href='https://computerhoy.com/windows/alguien-logra-traer-vuelta-wordpad-windows-11-24h2-ha-logrado-1392436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-cierra-wordpad-estas-son-mejores-alternativas-gratuitas-3311706.jpg?tf=1200x' alt='Alguien logra traer de vuelta WordPad a Windows 11 24H2: así lo ha logrado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-1393093'>Películas slasher actuales que parecen de los 80 o 90, y que tienes que ver si te gustan Scream o Destino final</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-1393093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-3608418.jpg?tf=1200x' alt='Películas slasher actuales que parecen de los 80 o 90, y que tienes que ver si te gustan Scream o Destino final' />
     </a>
 </div>
 
