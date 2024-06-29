@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-movil-como-repetidor-wifi-mejorar-senal-toda-casa-1393129'>Cómo utilizar tu móvil como repetidor WiFi y mejorar la señal en toda la casa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-utilizar-movil-como-repetidor-wifi-mejorar-senal-toda-casa-1393129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-utilizar-movil-como-repetidor-wifi-mejorar-senal-toda-casa-3611443.jpg?tf=1200x' alt='Cómo utilizar tu móvil como repetidor WiFi y mejorar la señal en toda la casa' />
+    <h4><a href='https://computerhoy.com/espacio/astronautas-boeing-estan-atrapados-iss-todo-sabemos-retrasos-mision-nasa-1392985'>¿Por qué los astronautas de Boeing están atrapados en la ISS? Todo lo que sabemos sobre los retrasos en la misión de la NASA</a></h4>
+    <a href='https://computerhoy.com/espacio/astronautas-boeing-estan-atrapados-iss-todo-sabemos-retrasos-mision-nasa-1392985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/boeing-podria-retrasar-mision-regreso-tierra-mision-starliner-julio-3606191.jpg?tf=1200x' alt='¿Por qué los astronautas de Boeing están atrapados en la ISS? Todo lo que sabemos sobre los retrasos en la misión de la NASA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-1390985'>Estas son las razones por las que Finlandia es el país más feliz del mundo (y España nunca podrá serlo)</a></h4>
-    <a href='https://computerhoy.com/life/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-1390985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-3507532.jpg?tf=1200x' alt='Estas son las razones por las que Finlandia es el país más feliz del mundo (y España nunca podrá serlo)' />
+    <h4><a href='https://computerhoy.com/tecnologia/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-1393312'>El CEO de IA de Microsoft afirma que casi todo en la web puede ser usado libremente para entrenar IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-1393312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-3621012.jpg?tf=1200x' alt='El CEO de IA de Microsoft afirma que casi todo en la web puede ser usado libremente para entrenar IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ayuda-600-euros-comprarte-bicicleta-verano-requisitos-plazos-1393156'>Ayuda de 600 euros para comprarte una bicicleta para este verano: requisitos y plazos</a></h4>
-    <a href='https://computerhoy.com/life/ayuda-600-euros-comprarte-bicicleta-verano-requisitos-plazos-1393156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mujer-bicicleta-electrica-3079886.jpg?tf=1200x' alt='Ayuda de 600 euros para comprarte una bicicleta para este verano: requisitos y plazos' />
+    <h4><a href='https://computerhoy.com/tv/netflix-prepara-suscripcion-100-gratis-copiando-peor-tdt-1392371'>Netflix prepara una suscripción 100% gratis copiando lo peor de la TDT</a></h4>
+    <a href='https://computerhoy.com/tv/netflix-prepara-suscripcion-100-gratis-copiando-peor-tdt-1392371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-gratis-3583829.jpg?tf=1200x' alt='Netflix prepara una suscripción 100% gratis copiando lo peor de la TDT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rabbit-r1-nuevo-problemas-vez-trata-privacidad-usuarios-1392971'>El Rabbit R1 de nuevo en problemas y esta vez se trata de la privacidad de sus usuarios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rabbit-r1-nuevo-problemas-vez-trata-privacidad-usuarios-1392971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-r1-3263345.jpg?tf=1200x' alt='El Rabbit R1 de nuevo en problemas y esta vez se trata de la privacidad de sus usuarios' />
+    <h4><a href='https://computerhoy.com/tecnologia/greenwashing-pinkwashing-ahora-ia-washing-amazon-pillado-tratando-enganarte-1392977'>'Greenwashing', 'pinkwashing' y ahora 'IA washing': Amazon pillado tratando de engañarte </a></h4>
+    <a href='https://computerhoy.com/tecnologia/greenwashing-pinkwashing-ahora-ia-washing-amazon-pillado-tratando-enganarte-1392977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lavado-ia-3606031.jpg?tf=1200x' alt=''Greenwashing', 'pinkwashing' y ahora 'IA washing': Amazon pillado tratando de engañarte ' />
     </a>
 </div>
 
