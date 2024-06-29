@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/brujula-no-tiene-norte-pero-marca-camino-cualquier-destino-1392945'>Esta brújula no tiene Norte, pero marca el camino a cualquier destino </a></h4>
+    <a href='https://computerhoy.com/tecnologia/brujula-no-tiene-norte-pero-marca-camino-cualquier-destino-1392945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1719449167281-3603781.jpg?tf=1200x' alt='Esta brújula no tiene Norte, pero marca el camino a cualquier destino ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cuanto-cuesta-atasco-trafico-cifra-te-dejara-tan-parado-como-coche-operacion-salida-1392857'>¿Cuánto cuesta un atasco de tráfico? La cifra te dejará tan parado como tu coche en la operación salida</a></h4>
+    <a href='https://computerhoy.com/motor/cuanto-cuesta-atasco-trafico-cifra-te-dejara-tan-parado-como-coche-operacion-salida-1392857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conductor-enfadado-3600354.jpg?tf=1200x' alt='¿Cuánto cuesta un atasco de tráfico? La cifra te dejará tan parado como tu coche en la operación salida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/youtube-premium-anuncia-nuevos-planes-1393299'>YouTube Premium anuncia nuevos planes, pero solo hay uno que podría acabar con los bloqueadores de anuncios</a></h4>
+    <a href='https://computerhoy.com/google/youtube-premium-anuncia-nuevos-planes-1393299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/youtube-premium-anuncia-nuevos-planes-pero-solo-hay-podra-acabar-bloqueadores-anuncios-3617718.jpg?tf=1200x' alt='YouTube Premium anuncia nuevos planes, pero solo hay uno que podría acabar con los bloqueadores de anuncios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-1393294'>Por qué envolver el móvil en papel de aluminio cuando hay un botón que hace lo mismo</a></h4>
     <a href='https://computerhoy.com/internet/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-1393294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-3618004.jpg?tf=1200x' alt='Por qué envolver el móvil en papel de aluminio cuando hay un botón que hace lo mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/isp-instalo-malware-600000-clientes-bloquear-archivos-torrent-1392937'>Un ISP instaló malware a 600.000 clientes para bloquear los archivos Torrent</a></h4>
-    <a href='https://computerhoy.com/internet/isp-instalo-malware-600000-clientes-bloquear-archivos-torrent-1392937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/isp-instalo-malware-ordenadores-clientes-bloquear-ficheros-torrent-3602725.jpg?tf=1200x' alt='Un ISP instaló malware a 600.000 clientes para bloquear los archivos Torrent' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/sony-televisor-crt-grande-historia-43-pulgadas-pvm-4300-1393295'>Sony presentó hace 35 años el televisor CRT más grande de la historia: 43 pulgadas, más de 200 kilos y un precio desorbitado</a></h4>
-    <a href='https://computerhoy.com/tv/sony-televisor-crt-grande-historia-43-pulgadas-pvm-4300-1393295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sony-presento-hace-35-anos-televisor-crt-grande-historia-43-pulgadas-200-kilos-precio-desorbitado-3617148.jpg?tf=1200x' alt='Sony presentó hace 35 años el televisor CRT más grande de la historia: 43 pulgadas, más de 200 kilos y un precio desorbitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/quien-aleksey-pajitnov-creador-tetris-tuvo-esperar-10-anos-ganar-primer-centimo-juego-generaba-millones-1393291'>Quién es Aleksey Pajitnov, el creador de Tetris que tuvo que esperar 10 años para ganar su primer céntimo por un juego que generaba millones</a></h4>
-    <a href='https://computerhoy.com/life/quien-aleksey-pajitnov-creador-tetris-tuvo-esperar-10-anos-ganar-primer-centimo-juego-generaba-millones-1393291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/quien-aleksey-pajitnov-creador-tetris-tuvo-esperar-10-anos-ganar-primer-centimo-juego-generaba-millones-3617290.jpg?tf=1200x' alt='Quién es Aleksey Pajitnov, el creador de Tetris que tuvo que esperar 10 años para ganar su primer céntimo por un juego que generaba millones' />
     </a>
 </div>
 
