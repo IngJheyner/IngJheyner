@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/razon-facil-te-hackeen-movil-vacaciones-pero-puedes-evitarlo-1391647'>Esta es la razón por la que es más fácil que te hackeen el móvil en vacaciones, pero puedes evitarlo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/razon-facil-te-hackeen-movil-vacaciones-pero-puedes-evitarlo-1391647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chica-mirando-movil-playa-3614091.jpg?tf=1200x' alt='Esta es la razón por la que es más fácil que te hackeen el móvil en vacaciones, pero puedes evitarlo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-movil-como-repetidor-wifi-mejorar-senal-toda-casa-1393129'>Cómo utilizar tu móvil como repetidor WiFi y mejorar la señal en toda la casa</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-utilizar-movil-como-repetidor-wifi-mejorar-senal-toda-casa-1393129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-utilizar-movil-como-repetidor-wifi-mejorar-senal-toda-casa-3611443.jpg?tf=1200x' alt='Cómo utilizar tu móvil como repetidor WiFi y mejorar la señal en toda la casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-1392972'>Este carpintero no podía pagar un deportivo, así que lo construyó de madera... ¡y funciona!</a></h4>
-    <a href='https://computerhoy.com/motor/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-1392972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-3605253.jpg?tf=1200x' alt='Este carpintero no podía pagar un deportivo, así que lo construyó de madera... ¡y funciona!' />
+    <h4><a href='https://computerhoy.com/life/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-1390985'>Estas son las razones por las que Finlandia es el país más feliz del mundo (y España nunca podrá serlo)</a></h4>
+    <a href='https://computerhoy.com/life/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-1390985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-3507532.jpg?tf=1200x' alt='Estas son las razones por las que Finlandia es el país más feliz del mundo (y España nunca podrá serlo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mark-zuckerberg-pide-pies-tierra-openai-google-no-estamos-creando-dios-ia-1393153'>Mark Zuckerberg pide los pies en la tierra a OpenAI y Google: "No estamos creando a Dios con la IA"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mark-zuckerberg-pide-pies-tierra-openai-google-no-estamos-creando-dios-ia-1393153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mark-zuckerberg-2867171.jpg?tf=1200x' alt='Mark Zuckerberg pide los pies en la tierra a OpenAI y Google: "No estamos creando a Dios con la IA"' />
+    <h4><a href='https://computerhoy.com/life/ayuda-600-euros-comprarte-bicicleta-verano-requisitos-plazos-1393156'>Ayuda de 600 euros para comprarte una bicicleta para este verano: requisitos y plazos</a></h4>
+    <a href='https://computerhoy.com/life/ayuda-600-euros-comprarte-bicicleta-verano-requisitos-plazos-1393156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/mujer-bicicleta-electrica-3079886.jpg?tf=1200x' alt='Ayuda de 600 euros para comprarte una bicicleta para este verano: requisitos y plazos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-edge-1050-ya-oficial-ciclocomputador-gps-potente-sofisticado-mercado-1392958'>Garmin Edge 1050: ya es oficial el ciclocomputador GPS más potente y sofisticado del mercado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-edge-1050-ya-oficial-ciclocomputador-gps-potente-sofisticado-mercado-1392958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/garmin-edge-1050-3605706.jpg?tf=1200x' alt='Garmin Edge 1050: ya es oficial el ciclocomputador GPS más potente y sofisticado del mercado' />
+    <h4><a href='https://computerhoy.com/tecnologia/rabbit-r1-nuevo-problemas-vez-trata-privacidad-usuarios-1392971'>El Rabbit R1 de nuevo en problemas y esta vez se trata de la privacidad de sus usuarios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rabbit-r1-nuevo-problemas-vez-trata-privacidad-usuarios-1392971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-r1-3263345.jpg?tf=1200x' alt='El Rabbit R1 de nuevo en problemas y esta vez se trata de la privacidad de sus usuarios' />
     </a>
 </div>
 
