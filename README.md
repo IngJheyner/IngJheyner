@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cada-tres-conductores-no-comprara-coche-nuevo-caracteristica-estudio-1393270'>Uno de cada tres conductores no comprará un coche nuevo sin esta característica, según un estudio</a></h4>
-    <a href='https://computerhoy.com/motor/cada-tres-conductores-no-comprara-coche-nuevo-caracteristica-estudio-1393270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fabricantes-coches-cada-vez-confian-google-apple-sistemas-infoentretenimiento-3294181.jpg?tf=1200x' alt='Uno de cada tres conductores no comprará un coche nuevo sin esta característica, según un estudio' />
+    <h4><a href='https://computerhoy.com/android/configuraciones-android-auto-no-sabias-necesitabas-cambiar-1392486'>Configuraciones de Android Auto que no sabías que necesitabas cambiar</a></h4>
+    <a href='https://computerhoy.com/android/configuraciones-android-auto-no-sabias-necesitabas-cambiar-1392486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/configuraciones-android-auto-no-sabias-necesitabas-cambiar-3586130.jpg?tf=1200x' alt='Configuraciones de Android Auto que no sabías que necesitabas cambiar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-trabaja-hacer-facil-extraccion-bateria-iphone-16-cumplir-regulaciones-ue-1393329'>Apple trabaja para hacer más fácil la extracción de la batería del iPhone 16 para cumplir con las regulaciones de la UE</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-trabaja-hacer-facil-extraccion-bateria-iphone-16-cumplir-regulaciones-ue-1393329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bateria-iphone-3622180.jpg?tf=1200x' alt='Apple trabaja para hacer más fácil la extracción de la batería del iPhone 16 para cumplir con las regulaciones de la UE' />
+    <h4><a href='https://computerhoy.com/tecnologia/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-1393074'>Tiembla Google Maps: el próximo Waze podría ser tan avanzado que no tendrás ni que tocarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-1393074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-3608729.jpg?tf=1200x' alt='Tiembla Google Maps: el próximo Waze podría ser tan avanzado que no tendrás ni que tocarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/digi-no-funcionan-llamadas-1393267'>No eres tú, si eres de DIGI no funcionan las llamadas</a></h4>
-    <a href='https://computerhoy.com/redes/digi-no-funcionan-llamadas-1393267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/digi-mobil.jpeg?tf=1200x' alt='No eres tú, si eres de DIGI no funcionan las llamadas' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-revela-error-mayores-secretos-ejercito-americano-1393036'>Google Maps revela por error uno de los mayores secretos del ejército americano</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-revela-error-mayores-secretos-ejercito-americano-1393036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-secretos-ejercito-3607336.jpg?tf=1200x' alt='Google Maps revela por error uno de los mayores secretos del ejército americano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-cambiar-otra-red-1352629'>Cómo conectar Alexa al WiFi o cambiar a otra red</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-cambiar-otra-red-1352629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-conectar-alexa-wifi-cambiar-otra-red-3253808.jpg?tf=1200x' alt='Cómo conectar Alexa al WiFi o cambiar a otra red' />
+    <h4><a href='https://computerhoy.com/hogar/puente-hogar-inteligente-sirve-como-funciona-1342334'>Qué es un puente (o hub) para el hogar inteligente, para qué sirve y cómo funciona</a></h4>
+    <a href='https://computerhoy.com/hogar/puente-hogar-inteligente-sirve-como-funciona-1342334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/puente-hogar-inteligente-sirve-como-funciona-3234888.jpg?tf=1200x' alt='Qué es un puente (o hub) para el hogar inteligente, para qué sirve y cómo funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/no-te-vas-creer-movil-xiaomi-esconde-menu-oculto-muchas-funciones-secretas-1393025'>No te lo vas a creer: tu móvil Xiaomi esconde un menú oculto con muchas funciones secretas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/no-te-vas-creer-movil-xiaomi-esconde-menu-oculto-muchas-funciones-secretas-1393025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/movil-xiaomi-3607003.jpg?tf=1200x' alt='No te lo vas a creer: tu móvil Xiaomi esconde un menú oculto con muchas funciones secretas' />
+    <h4><a href='https://computerhoy.com/industria/planes-pasarse-inteligencia-artificial-son-rapidos-pensaba-nuevo-estudio-1392392'>Los planes para pasarse a la inteligencia artificial son más rápidos de lo que se pensaba, según un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/industria/planes-pasarse-inteligencia-artificial-son-rapidos-pensaba-nuevo-estudio-1392392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/planes-pasarse-inteligencia-artificial-son-rapidos-pensaba-nuevo-estudio-3583664.jpg?tf=1200x' alt='Los planes para pasarse a la inteligencia artificial son más rápidos de lo que se pensaba, según un nuevo estudio' />
     </a>
 </div>
 
