@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-carpeta-todopoderosa-modo-dios-windows-10-1392942'>Cómo crear una carpeta todopoderosa en modo dios en Windows 10</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-carpeta-todopoderosa-modo-dios-windows-10-1392942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-crear-carpeta-todopoderosa-modo-dios-windows-10-3603632.jpg?tf=1200x' alt='Cómo crear una carpeta todopoderosa en modo dios en Windows 10' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/razon-facil-te-hackeen-movil-vacaciones-pero-puedes-evitarlo-1391647'>Esta es la razón por la que es más fácil que te hackeen el móvil en vacaciones, pero puedes evitarlo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/razon-facil-te-hackeen-movil-vacaciones-pero-puedes-evitarlo-1391647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chica-mirando-movil-playa-3614091.jpg?tf=1200x' alt='Esta es la razón por la que es más fácil que te hackeen el móvil en vacaciones, pero puedes evitarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-1392904'>Las lavadoras tienen una función que nadie conoce para quitar las manchas más difíciles, y tu abuela se sabía el truco</a></h4>
-    <a href='https://computerhoy.com/life/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-1392904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-3601660.jpg?tf=1200x' alt='Las lavadoras tienen una función que nadie conoce para quitar las manchas más difíciles, y tu abuela se sabía el truco' />
+    <h4><a href='https://computerhoy.com/motor/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-1392972'>Este carpintero no podía pagar un deportivo, así que lo construyó de madera... ¡y funciona!</a></h4>
+    <a href='https://computerhoy.com/motor/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-1392972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-3605253.jpg?tf=1200x' alt='Este carpintero no podía pagar un deportivo, así que lo construyó de madera... ¡y funciona!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sony-warner-universal-empieza-guerra-musica-generada-ia-tan-dramatico-como-pinta-1392912'>Sony, Warner, Universal... empieza la guerra por la música generada con IA: ¿Es tan dramático como se pinta?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sony-warner-universal-empieza-guerra-musica-generada-ia-tan-dramatico-como-pinta-1392912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/musica-inteligencia-artificial-3601505.jpg?tf=1200x' alt='Sony, Warner, Universal... empieza la guerra por la música generada con IA: ¿Es tan dramático como se pinta?' />
+    <h4><a href='https://computerhoy.com/tecnologia/mark-zuckerberg-pide-pies-tierra-openai-google-no-estamos-creando-dios-ia-1393153'>Mark Zuckerberg pide los pies en la tierra a OpenAI y Google: "No estamos creando a Dios con la IA"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mark-zuckerberg-pide-pies-tierra-openai-google-no-estamos-creando-dios-ia-1393153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mark-zuckerberg-2867171.jpg?tf=1200x' alt='Mark Zuckerberg pide los pies en la tierra a OpenAI y Google: "No estamos creando a Dios con la IA"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/kindle-vs-libro-fisico-ventajas-desventajas-cada-muchos-anos-leyendo-1392911'>Kindle vs. libro en físico: ventajas y desventajas de cada uno tras muchos años leyendo </a></h4>
-    <a href='https://computerhoy.com/tecnologia/kindle-vs-libro-fisico-ventajas-desventajas-cada-muchos-anos-leyendo-1392911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/libro-fisico-kindle-3608734.jpg?tf=1200x' alt='Kindle vs. libro en físico: ventajas y desventajas de cada uno tras muchos años leyendo ' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-edge-1050-ya-oficial-ciclocomputador-gps-potente-sofisticado-mercado-1392958'>Garmin Edge 1050: ya es oficial el ciclocomputador GPS más potente y sofisticado del mercado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-edge-1050-ya-oficial-ciclocomputador-gps-potente-sofisticado-mercado-1392958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/garmin-edge-1050-3605706.jpg?tf=1200x' alt='Garmin Edge 1050: ya es oficial el ciclocomputador GPS más potente y sofisticado del mercado' />
     </a>
 </div>
 
