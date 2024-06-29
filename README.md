@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-busca-poner-fin-cuentas-locales-eliminar-tutoriales-crearlas-windows-1392431'>Microsoft busca poner fin a las cuentas locales tras eliminar los tutoriales para crearlas en Windows</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-busca-poner-fin-cuentas-locales-eliminar-tutoriales-crearlas-windows-1392431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-trae-nuevo-error-configuracion-suma-ultimo-vpn-3499949.jpg?tf=1200x' alt='Microsoft busca poner fin a las cuentas locales tras eliminar los tutoriales para crearlas en Windows' />
+    <h4><a href='https://computerhoy.com/windows/como-reparar-barra-tareas-windows-cuando-no-oculta-automaticamente-1392526'>Cómo reparar la barra de tareas de Windows cuando no se oculta automáticamente</a></h4>
+    <a href='https://computerhoy.com/windows/como-reparar-barra-tareas-windows-cuando-no-oculta-automaticamente-1392526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/barra-tareas-3022610.jpg?tf=1200x' alt='Cómo reparar la barra de tareas de Windows cuando no se oculta automáticamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/te-mudaste-windows-11-piensa-fallo-provoca-notificaciones-cambio-zona-horaria-1393341'>¿Te mudaste? Windows 11 piensa que sí: un fallo provoca notificaciones de cambio de zona horaria</a></h4>
-    <a href='https://computerhoy.com/windows/te-mudaste-windows-11-piensa-fallo-provoca-notificaciones-cambio-zona-horaria-1393341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-hora-3623202.jpg?tf=1200x' alt='¿Te mudaste? Windows 11 piensa que sí: un fallo provoca notificaciones de cambio de zona horaria' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-defender-piensa-has-creado-virus-windows-solo-escribir-linea-1392525'>Microsoft Defender piensa que has creado un virus para Windows solo con escribir una línea</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-defender-piensa-has-creado-virus-windows-solo-escribir-linea-1392525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg?tf=1200x' alt='Microsoft Defender piensa que has creado un virus para Windows solo con escribir una línea' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/detenido-guardiacivilx-estudiante-fp-responsable-hackear-dgt-bancos-universidades-100-instituciones-1393340'>Detenido GUARDIACIVILX, el estudiante de FP responsable de hackear la DGT, bancos, universidades y más de 100 instituciones</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/detenido-guardiacivilx-estudiante-fp-responsable-hackear-dgt-bancos-universidades-100-instituciones-1393340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberdelincuentes-robo-datos-3320322.jpg?tf=1200x' alt='Detenido GUARDIACIVILX, el estudiante de FP responsable de hackear la DGT, bancos, universidades y más de 100 instituciones' />
+    <h4><a href='https://computerhoy.com/tecnologia/navegacion-limpia-moderna-chrome-podria-ocultar-barra-pestanas-1393343'>Navegación limpia y moderna: Chrome podría ocultar la barra de pestañas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/navegacion-limpia-moderna-chrome-podria-ocultar-barra-pestanas-1393343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-google-chrome-te-permite-tener-100-pestanas-abiertas-bien-organizadas-3283250.jpg?tf=1200x' alt='Navegación limpia y moderna: Chrome podría ocultar la barra de pestañas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/olvidate-aire-acondicionado-invento-lidl-cuesta-18-euros-enfria-casa-instalar-nada-1392869'>Olvídate del aire acondicionado: este invento de Lidl cuesta 18 euros y enfría la casa sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/life/olvidate-aire-acondicionado-invento-lidl-cuesta-18-euros-enfria-casa-instalar-nada-1392869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/centro-comercial-lidl-2831649.jpg?tf=1200x' alt='Olvídate del aire acondicionado: este invento de Lidl cuesta 18 euros y enfría la casa sin instalar nada' />
+    <h4><a href='https://computerhoy.com/windows/alguien-logra-traer-vuelta-wordpad-windows-11-24h2-ha-logrado-1392436'>Alguien logra traer de vuelta WordPad a Windows 11 24H2: así lo ha logrado</a></h4>
+    <a href='https://computerhoy.com/windows/alguien-logra-traer-vuelta-wordpad-windows-11-24h2-ha-logrado-1392436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-cierra-wordpad-estas-son-mejores-alternativas-gratuitas-3311706.jpg?tf=1200x' alt='Alguien logra traer de vuelta WordPad a Windows 11 24H2: así lo ha logrado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-elegir-combinar-cpu-gpu-evitar-cuellos-botella-1392530'>Cómo elegir y combinar CPU y GPU para evitar cuellos de botella</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-elegir-combinar-cpu-gpu-evitar-cuellos-botella-1392530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-elegir-combinar-cpu-gpu-evitar-cuellos-botella-3588019.jpg?tf=1200x' alt='Cómo elegir y combinar CPU y GPU para evitar cuellos de botella' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-1393093'>Películas slasher actuales que parecen de los 80 o 90, y que tienes que ver si te gustan Scream o Destino final</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-1393093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-3608418.jpg?tf=1200x' alt='Películas slasher actuales que parecen de los 80 o 90, y que tienes que ver si te gustan Scream o Destino final' />
     </a>
 </div>
 
