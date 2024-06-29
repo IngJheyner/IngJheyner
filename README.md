@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/compra-vasija-cuatro-dolares-resulta-ser-tesoro-maya-1393300'>Compra una vasija por cuatro dólares, y resulta ser un tesoro maya</a></h4>
-    <a href='https://computerhoy.com/life/compra-vasija-cuatro-dolares-resulta-ser-tesoro-maya-1393300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/compra-vasija-cuatro-dolares-resulta-ser-valioso-tesoro-maya-3619429.jpg?tf=1200x' alt='Compra una vasija por cuatro dólares, y resulta ser un tesoro maya' />
+    <h4><a href='https://computerhoy.com/tecnologia/kindle-vs-libro-fisico-ventajas-desventajas-cada-muchos-anos-leyendo-1392911'>Kindle vs. libro en físico: ventajas y desventajas de cada uno tras muchos años leyendo </a></h4>
+    <a href='https://computerhoy.com/tecnologia/kindle-vs-libro-fisico-ventajas-desventajas-cada-muchos-anos-leyendo-1392911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/libro-fisico-kindle-3608734.jpg?tf=1200x' alt='Kindle vs. libro en físico: ventajas y desventajas de cada uno tras muchos años leyendo ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/ni-agua-ni-refrescos-mejor-bebida-quitar-sed-ciencia-1392896'>Ni agua ni refrescos, esta es la mejor bebida para quitar la sed, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/alimentacion/ni-agua-ni-refrescos-mejor-bebida-quitar-sed-ciencia-1392896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-agua-ni-refrescos-mejor-bebida-quitar-sed-ciencia-3601815.jpg?tf=1200x' alt='Ni agua ni refrescos, esta es la mejor bebida para quitar la sed, según la ciencia' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-5-oferta-aliexpress-plaza-1060881'>Uno de los mejores smartwatch que hemos probado, con WhatsApp y un precio que ensombrece al Apple Watch</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/ticwatch-pro-5-oferta-aliexpress-plaza-1060881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ticwatch-pro-5-3601024.jpg?tf=1200x' alt='Uno de los mejores smartwatch que hemos probado, con WhatsApp y un precio que ensombrece al Apple Watch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/experto-mundial-ia-vuelve-alertar-peligros-ya-no-tenemos-boton-rojo-1393017'>Un experto mundial en IA vuelve a alertar de sus peligros: “ya no tenemos botón rojo”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/experto-mundial-ia-vuelve-alertar-peligros-ya-no-tenemos-boton-rojo-1393017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/boton-panico-3607334.jpg?tf=1200x' alt='Un experto mundial en IA vuelve a alertar de sus peligros: “ya no tenemos botón rojo”' />
+    <h4><a href='https://computerhoy.com/tutoriales/me-han-intentado-hackear-google-drive-he-hecho-consejos-ti-no-te-pase-1392213'>Me han intentado hackear por Google Drive: qué he hecho y consejos para que a ti no te pase</a></h4>
+    <a href='https://computerhoy.com/tutoriales/me-han-intentado-hackear-google-drive-he-hecho-consejos-ti-no-te-pase-1392213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/malware-google-drive-2040009.jpg?tf=1200x' alt='Me han intentado hackear por Google Drive: qué he hecho y consejos para que a ti no te pase' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-identificar-archivos-espacio-ocupan-disco-duro-1388396'>Así puedes identificar los archivos que más espacio ocupan en tu disco duro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-identificar-archivos-espacio-ocupan-disco-duro-1388396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-identificar-archivos-espacio-ocupan-disco-duro-3392370.jpg?tf=1200x' alt='Así puedes identificar los archivos que más espacio ocupan en tu disco duro' />
+    <h4><a href='https://computerhoy.com/moviles/mejor-vivo-v40-5g-modo-fotografia-retrato-1392981'>Lo mejor del Vivo V40 5G es su modo de fotografía retrato, a la altura de los más caros</a></h4>
+    <a href='https://computerhoy.com/moviles/mejor-vivo-v40-5g-modo-fotografia-retrato-1392981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vivo-v40-5g-3584174.jpg?tf=1200x' alt='Lo mejor del Vivo V40 5G es su modo de fotografía retrato, a la altura de los más caros' />
     </a>
 </div>
 
