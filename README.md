@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-1393181'>Ya está pasando: así es la estafa que usa la inteligencia artificial para clonar la voz de un familiar</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-1393181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-3613599.jpg?tf=1200x' alt='Ya está pasando: así es la estafa que usa la inteligencia artificial para clonar la voz de un familiar' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-nstalar-ubuntu-unidad-externa-1350997'>5 formas de instalar Ubuntu en una unidad externa para usarlo en PC o Mac</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-nstalar-ubuntu-unidad-externa-1350997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-formas-instalar-ubuntu-unidad-externa-usarlo-cualquier-ordenador-3250905.jpg?tf=1200x' alt='5 formas de instalar Ubuntu en una unidad externa para usarlo en PC o Mac' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/errores-comunes-debes-evitar-salir-casa-1390452'>9 errores comunes que debes evitar al salir de casa</a></h4>
-    <a href='https://computerhoy.com/hogar/errores-comunes-debes-evitar-salir-casa-1390452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/salir-puerta-casa-3592008.jpg?tf=1200x' alt='9 errores comunes que debes evitar al salir de casa' />
+    <h4><a href='https://computerhoy.com/motor/cada-tres-conductores-no-comprara-coche-nuevo-caracteristica-estudio-1393270'>Uno de cada tres conductores no comprará un coche nuevo sin esta característica, según un estudio</a></h4>
+    <a href='https://computerhoy.com/motor/cada-tres-conductores-no-comprara-coche-nuevo-caracteristica-estudio-1393270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fabricantes-coches-cada-vez-confian-google-apple-sistemas-infoentretenimiento-3294181.jpg?tf=1200x' alt='Uno de cada tres conductores no comprará un coche nuevo sin esta característica, según un estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-tambalea-ultima-actualizacion-causa-reinicios-infinitos-rompe-barra-tareas-1393368'>Windows 11 se tambalea con su última actualización que causa reinicios infinitos y rompe la barra de tareas</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-tambalea-ultima-actualizacion-causa-reinicios-infinitos-rompe-barra-tareas-1393368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/windows-11-no-arranca-13-soluciones-efectivas-pc-vuelva-funcionar-correctamente-3234932.jpg?tf=1200x' alt='Windows 11 se tambalea con su última actualización que causa reinicios infinitos y rompe la barra de tareas' />
+    <h4><a href='https://computerhoy.com/redes/digi-no-funcionan-llamadas-1393267'>No eres tú, si eres de DIGI no funcionan las llamadas</a></h4>
+    <a href='https://computerhoy.com/redes/digi-no-funcionan-llamadas-1393267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/digi-mobil.jpeg?tf=1200x' alt='No eres tú, si eres de DIGI no funcionan las llamadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/todo-mundo-esperando-windows-10-muera-menos-posiblemente-1393207'>Todo el mundo está esperando a que Windows 10 muera... menos posiblemente tú</a></h4>
-    <a href='https://computerhoy.com/windows/todo-mundo-esperando-windows-10-muera-menos-posiblemente-1393207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/muerte-windows-10-3614253.jpg?tf=1200x' alt='Todo el mundo está esperando a que Windows 10 muera... menos posiblemente tú' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-cambiar-otra-red-1352629'>Cómo conectar Alexa al WiFi o cambiar a otra red</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-cambiar-otra-red-1352629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-conectar-alexa-wifi-cambiar-otra-red-3253808.jpg?tf=1200x' alt='Cómo conectar Alexa al WiFi o cambiar a otra red' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/japon-borde-colapso-demografico-quiere-crear-tunel-automatizado-500-kilometros-transportar-mercancias-1393228'>Japón al borde del colapso demográfico quiere crear un túnel automatizado de 500 kilómetros para transportar mercancías</a></h4>
-    <a href='https://computerhoy.com/life/japon-borde-colapso-demografico-quiere-crear-tunel-automatizado-500-kilometros-transportar-mercancias-1393228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/japon-podria-crear-tunel-500-kilometros-transportar-mercancia-tokio-osaka-3614568.jpg?tf=1200x' alt='Japón al borde del colapso demográfico quiere crear un túnel automatizado de 500 kilómetros para transportar mercancías' />
+    <h4><a href='https://computerhoy.com/pc/no-compres-pc-snapdragon-x-elite-vas-jugar-videojuegos-1393372'>No compres un PC con Snapdragon X Elite, si vas a jugar a videojuegos</a></h4>
+    <a href='https://computerhoy.com/pc/no-compres-pc-snapdragon-x-elite-vas-jugar-videojuegos-1393372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nuevos-snapdragon-x-elite-plus-portatiles-potentes-apple-m3-ia-rapida-3303520.jpg?tf=1200x' alt='No compres un PC con Snapdragon X Elite, si vas a jugar a videojuegos' />
     </a>
 </div>
 
