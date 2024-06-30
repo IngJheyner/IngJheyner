@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cierra-puertas-gran-sueno-fundador-microsoft-paul-allen-1393346'>Cierra las puertas el gran sueño del fundador de Microsoft</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cierra-puertas-gran-sueno-fundador-microsoft-paul-allen-1393346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cierra-puertas-gran-sueno-fundador-microsoft-3626017.jpg?tf=1200x' alt='Cierra las puertas el gran sueño del fundador de Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/ajustes-debes-hacer-barra-sonido-mejorar-audio-televisor-1385168'>5 ajustes que debes hacer en tu barra de sonido para mejorar el audio de tu televisor</a></h4>
+    <a href='https://computerhoy.com/audio/ajustes-debes-hacer-barra-sonido-mejorar-audio-televisor-1385168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/barra-sonido-3309857.jpg?tf=1200x' alt='5 ajustes que debes hacer en tu barra de sonido para mejorar el audio de tu televisor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/experto-mundial-ia-vuelve-alertar-peligros-ya-no-tenemos-boton-rojo-1393017'>Un experto mundial en IA vuelve a alertar de sus peligros: “ya no tenemos botón rojo”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/experto-mundial-ia-vuelve-alertar-peligros-ya-no-tenemos-boton-rojo-1393017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/boton-panico-3607334.jpg?tf=1200x' alt='Un experto mundial en IA vuelve a alertar de sus peligros: “ya no tenemos botón rojo”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-cecotec-portatil-barato-enfria-mucho-1076113'>Este aire acondicionado portátil consume poco y enfría mucho: además tiene bomba de calor</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-cecotec-portatil-barato-enfria-mucho-1076113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cecotec-forceclima-12600-soundless-heating-3583159.jpg?tf=1200x' alt='Este aire acondicionado portátil consume poco y enfría mucho: además tiene bomba de calor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/vuelo-comercial-mas-corto-mundo-1392539'>El vuelo comercial más corto del mundo dura solo 80 segundos</a></h4>
     <a href='https://computerhoy.com/motor/vuelo-comercial-mas-corto-mundo-1392539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vuelo-comercial-corto-mundo-dura-solo-80-segundos-3588173.jpg?tf=1200x' alt='El vuelo comercial más corto del mundo dura solo 80 segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-1392536'>Cosas que puedes hacer (o no) con Flipper Zero, el tamagotchi para hackers</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-1392536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-3588630.jpg?tf=1200x' alt='Cosas que puedes hacer (o no) con Flipper Zero, el tamagotchi para hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-1393294'>Por qué envolver el móvil en papel de aluminio cuando hay un botón que hace lo mismo</a></h4>
-    <a href='https://computerhoy.com/internet/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-1393294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-3618004.jpg?tf=1200x' alt='Por qué envolver el móvil en papel de aluminio cuando hay un botón que hace lo mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/sony-televisor-crt-grande-historia-43-pulgadas-pvm-4300-1393295'>Sony presentó hace 35 años el televisor CRT más grande de la historia: 43 pulgadas, más de 200 kilos y un precio desorbitado</a></h4>
-    <a href='https://computerhoy.com/tv/sony-televisor-crt-grande-historia-43-pulgadas-pvm-4300-1393295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sony-presento-hace-35-anos-televisor-crt-grande-historia-43-pulgadas-200-kilos-precio-desorbitado-3617148.jpg?tf=1200x' alt='Sony presentó hace 35 años el televisor CRT más grande de la historia: 43 pulgadas, más de 200 kilos y un precio desorbitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-1392513'>Qué es el modo hotel y cómo desactivarlo en una Smart TV LG, Hisense o Samsung</a></h4>
-    <a href='https://computerhoy.com/tv/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-1392513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-hotel-como-desactivarlo-smart-tv-lg-hisense-samsung-3587561.jpg?tf=1200x' alt='Qué es el modo hotel y cómo desactivarlo en una Smart TV LG, Hisense o Samsung' />
     </a>
 </div>
 
