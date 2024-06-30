@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cifra-magica-debes-tener-banco-evitar-problemas-ocu-1392584'>La cifra mágica que debes tener en el banco para evitar problemas, según la OCU</a></h4>
-    <a href='https://computerhoy.com/life/cifra-magica-debes-tener-banco-evitar-problemas-ocu-1392584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cifra-magica-debes-tener-banco-evitar-problemas-ocu-3590974.jpg?tf=1200x' alt='La cifra mágica que debes tener en el banco para evitar problemas, según la OCU' />
+    <h4><a href='https://computerhoy.com/tutoriales/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-1393125'>Formas de acceder a YouTube, sin entrar en YouTube, evitando todo lo molesto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-1393125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-3610549.jpg?tf=1200x' alt='Formas de acceder a YouTube, sin entrar en YouTube, evitando todo lo molesto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-1393312'>El CEO de IA de Microsoft afirma que casi todo en la web puede ser usado libremente para entrenar IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-1393312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-3621012.jpg?tf=1200x' alt='El CEO de IA de Microsoft afirma que casi todo en la web puede ser usado libremente para entrenar IA' />
+    <h4><a href='https://computerhoy.com/life/ocu-no-tiene-dudas-mejor-agua-grifo-espana-ciudad-1393362'>La OCU no tiene dudas: la mejor agua del grifo de España es la de esta ciudad</a></h4>
+    <a href='https://computerhoy.com/life/ocu-no-tiene-dudas-mejor-agua-grifo-espana-ciudad-1393362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/agua-grifo-3628390.jpg?tf=1200x' alt='La OCU no tiene dudas: la mejor agua del grifo de España es la de esta ciudad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-tiene-equipo-ciberseguridad-30-ingenieros-expertos-ponen-temblar-1392585'>Telegram tiene un equipo de ciberseguridad "de unos 30 ingenieros" y los expertos se ponen a temblar</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-tiene-equipo-ciberseguridad-30-ingenieros-expertos-ponen-temblar-1392585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/telegram-pavel-durov-3590991.jpg?tf=1200x' alt='Telegram tiene un equipo de ciberseguridad "de unos 30 ingenieros" y los expertos se ponen a temblar' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/dgt-advierte-multa-trafico-nunca-debes-pagar-1392601'>La DGT advierte: la multa de tráfico que nunca debes pagar</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/dgt-advierte-multa-trafico-nunca-debes-pagar-1392601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dgt-3591491.jpg?tf=1200x' alt='La DGT advierte: la multa de tráfico que nunca debes pagar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/miles-usuarios-no-saben-como-infectaron-malware-principal-sospechoso-proveedor-internet-1393169'>Miles de usuarios no saben cómo se infectaron con malware: el principal sospechoso es su proveedor de Internet</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/miles-usuarios-no-saben-como-infectaron-malware-principal-sospechoso-proveedor-internet-1393169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/malware-ordenador-3613433.jpg?tf=1200x' alt='Miles de usuarios no saben cómo se infectaron con malware: el principal sospechoso es su proveedor de Internet' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-1393197'>Sentencia histórica: obligan a un banco a devolver 6.000 euros de una ciberestafa por falta de medidas de seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-1393197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-3613935.jpg?tf=1200x' alt='Sentencia histórica: obligan a un banco a devolver 6.000 euros de una ciberestafa por falta de medidas de seguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/codigos-secretos-waze-desbloquean-funciones-ocultas-app-navegacion-1392938'>Códigos secretos de Waze que desbloquean funciones ocultas en la app de navegación</a></h4>
-    <a href='https://computerhoy.com/apps/codigos-secretos-waze-desbloquean-funciones-ocultas-app-navegacion-1392938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/codigos-secretos-waze-desbloquean-funciones-ocultas-app-navegacion-3603335.jpg?tf=1200x' alt='Códigos secretos de Waze que desbloquean funciones ocultas en la app de navegación' />
+    <h4><a href='https://computerhoy.com/motor/como-usar-apple-carplay-motos-1392595'>¿Cómo usar Apple CarPlay para motos?</a></h4>
+    <a href='https://computerhoy.com/motor/como-usar-apple-carplay-motos-1392595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-carplay-moto-3591325.jpg?tf=1200x' alt='¿Cómo usar Apple CarPlay para motos?' />
     </a>
 </div>
 
