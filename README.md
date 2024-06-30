@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/busca-quinta-fuerza-universo-particula-camaleon-1393202'>En busca de una quinta fuerza en el universo, la partícula camaleón</a></h4>
-    <a href='https://computerhoy.com/espacio/busca-quinta-fuerza-universo-particula-camaleon-1393202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/universo-3261763.jpg?tf=1200x' alt='En busca de una quinta fuerza en el universo, la partícula camaleón' />
+    <h4><a href='https://computerhoy.com/life/japon-borde-colapso-demografico-quiere-crear-tunel-automatizado-500-kilometros-transportar-mercancias-1393228'>Japón al borde del colapso demográfico quiere crear un túnel automatizado de 500 kilómetros para transportar mercancías</a></h4>
+    <a href='https://computerhoy.com/life/japon-borde-colapso-demografico-quiere-crear-tunel-automatizado-500-kilometros-transportar-mercancias-1393228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/japon-podria-crear-tunel-500-kilometros-transportar-mercancia-tokio-osaka-3614568.jpg?tf=1200x' alt='Japón al borde del colapso demográfico quiere crear un túnel automatizado de 500 kilómetros para transportar mercancías' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estos-son-todos-nuevos-idiomas-incorporados-traductor-google-1393355'>Estos son todos los nuevos idiomas incorporados al traductor de Google</a></h4>
-    <a href='https://computerhoy.com/apps/estos-son-todos-nuevos-idiomas-incorporados-traductor-google-1393355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/traductor-google-3627940.jpg?tf=1200x' alt='Estos son todos los nuevos idiomas incorporados al traductor de Google' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/google-chrome-amenaza-280-millones-usuarios-instalaron-extensiones-infectadas-malware-1393357'>Google Chrome bajo amenaza: 280 millones de usuarios instalaron extensiones infectadas con malware</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/google-chrome-amenaza-280-millones-usuarios-instalaron-extensiones-infectadas-malware-1393357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Google Chrome bajo amenaza: 280 millones de usuarios instalaron extensiones infectadas con malware' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-obliga-realizar-evacuacion-emergencia-astronautas-estacion-espacial-internacional-1393319'>La NASA obliga a realizar una evacuación de emergencia a los astronautas de la Estación Espacial Internacional</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-obliga-realizar-evacuacion-emergencia-astronautas-estacion-espacial-internacional-1393319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estacion-espacial-internacional-3621448.jpg?tf=1200x' alt='La NASA obliga a realizar una evacuación de emergencia a los astronautas de la Estación Espacial Internacional' />
+    <h4><a href='https://computerhoy.com/tecnologia/epipod-ipod-movido-raspberry-pi-puedes-crear-mismo-1392629'>Así es el ePiPod: un iPod movido por una Raspberry Pi que puedes crear tú mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/epipod-ipod-movido-raspberry-pi-puedes-crear-mismo-1392629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/epipod-3591845.jpg?tf=1200x' alt='Así es el ePiPod: un iPod movido por una Raspberry Pi que puedes crear tú mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/malos-habitos-conducir-google-maps-te-hacen-gastar-gasolina-1392605'>Malos hábitos al conducir (y con Google Maps) que te hacen gastar más gasolina</a></h4>
-    <a href='https://computerhoy.com/malos-habitos-conducir-google-maps-te-hacen-gastar-gasolina-1392605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/malos-habitos-coche-gasolina-3591501.jpg?tf=1200x' alt='Malos hábitos al conducir (y con Google Maps) que te hacen gastar más gasolina' />
+    <h4><a href='https://computerhoy.com/google/encuentran-solucion-error-android-auto-ni-google-capaz-solucionar-1392623'>Encuentran la solución al error de Android Auto que ni Google es capaz de solucionar</a></h4>
+    <a href='https://computerhoy.com/google/encuentran-solucion-error-android-auto-ni-google-capaz-solucionar-1392623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-activar-modo-dios-android-auto-todo-puedes-hacer-3309861.jpg?tf=1200x' alt='Encuentran la solución al error de Android Auto que ni Google es capaz de solucionar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ultimo-dia-verla-deja-netflix-obra-maestra-historia-cine-nominada-8-oscars-1393363'>Último día para verla: deja Netflix una obra maestra de la historia del cine nominada a 8 Oscars</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ultimo-dia-verla-deja-netflix-obra-maestra-historia-cine-nominada-8-oscars-1393363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/queda-dia-3628401.jpg?tf=1200x' alt='Último día para verla: deja Netflix una obra maestra de la historia del cine nominada a 8 Oscars' />
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-asus-perfecto-trabajar-fuera-casa-ryzen-7-16-gb-ram-casi-200-euros-descuento-1393272'>Este portátil de ASUS es perfecto para trabajar fuera de casa: Ryzen 7, 16 GB de RAM y casi 200 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-asus-perfecto-trabajar-fuera-casa-ryzen-7-16-gb-ram-casi-200-euros-descuento-1393272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-vivobook-15-3303111.jpg?tf=1200x' alt='Este portátil de ASUS es perfecto para trabajar fuera de casa: Ryzen 7, 16 GB de RAM y casi 200 euros de descuento' />
     </a>
 </div>
 
