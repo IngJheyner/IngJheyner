@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/google-chrome-amenaza-280-millones-usuarios-instalaron-extensiones-infectadas-malware-1393357'>Google Chrome bajo amenaza: 280 millones de usuarios instalaron extensiones infectadas con malware</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/google-chrome-amenaza-280-millones-usuarios-instalaron-extensiones-infectadas-malware-1393357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Google Chrome bajo amenaza: 280 millones de usuarios instalaron extensiones infectadas con malware' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-1393181'>Ya está pasando: así es la estafa que usa la inteligencia artificial para clonar la voz de un familiar</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-1393181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-3613599.jpg?tf=1200x' alt='Ya está pasando: así es la estafa que usa la inteligencia artificial para clonar la voz de un familiar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/epipod-ipod-movido-raspberry-pi-puedes-crear-mismo-1392629'>Así es el ePiPod: un iPod movido por una Raspberry Pi que puedes crear tú mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/epipod-ipod-movido-raspberry-pi-puedes-crear-mismo-1392629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/epipod-3591845.jpg?tf=1200x' alt='Así es el ePiPod: un iPod movido por una Raspberry Pi que puedes crear tú mismo' />
+    <h4><a href='https://computerhoy.com/hogar/errores-comunes-debes-evitar-salir-casa-1390452'>9 errores comunes que debes evitar al salir de casa</a></h4>
+    <a href='https://computerhoy.com/hogar/errores-comunes-debes-evitar-salir-casa-1390452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/salir-puerta-casa-3592008.jpg?tf=1200x' alt='9 errores comunes que debes evitar al salir de casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/encuentran-solucion-error-android-auto-ni-google-capaz-solucionar-1392623'>Encuentran la solución al error de Android Auto que ni Google es capaz de solucionar</a></h4>
-    <a href='https://computerhoy.com/google/encuentran-solucion-error-android-auto-ni-google-capaz-solucionar-1392623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-activar-modo-dios-android-auto-todo-puedes-hacer-3309861.jpg?tf=1200x' alt='Encuentran la solución al error de Android Auto que ni Google es capaz de solucionar' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-tambalea-ultima-actualizacion-causa-reinicios-infinitos-rompe-barra-tareas-1393368'>Windows 11 se tambalea con su última actualización que causa reinicios infinitos y rompe la barra de tareas</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-tambalea-ultima-actualizacion-causa-reinicios-infinitos-rompe-barra-tareas-1393368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/windows-11-no-arranca-13-soluciones-efectivas-pc-vuelva-funcionar-correctamente-3234932.jpg?tf=1200x' alt='Windows 11 se tambalea con su última actualización que causa reinicios infinitos y rompe la barra de tareas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-asus-perfecto-trabajar-fuera-casa-ryzen-7-16-gb-ram-casi-200-euros-descuento-1393272'>Este portátil de ASUS es perfecto para trabajar fuera de casa: Ryzen 7, 16 GB de RAM y casi 200 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-asus-perfecto-trabajar-fuera-casa-ryzen-7-16-gb-ram-casi-200-euros-descuento-1393272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-vivobook-15-3303111.jpg?tf=1200x' alt='Este portátil de ASUS es perfecto para trabajar fuera de casa: Ryzen 7, 16 GB de RAM y casi 200 euros de descuento' />
+    <h4><a href='https://computerhoy.com/windows/todo-mundo-esperando-windows-10-muera-menos-posiblemente-1393207'>Todo el mundo está esperando a que Windows 10 muera... menos posiblemente tú</a></h4>
+    <a href='https://computerhoy.com/windows/todo-mundo-esperando-windows-10-muera-menos-posiblemente-1393207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/muerte-windows-10-3614253.jpg?tf=1200x' alt='Todo el mundo está esperando a que Windows 10 muera... menos posiblemente tú' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/busca-quinta-fuerza-universo-particula-camaleon-1393202'>En busca de una quinta fuerza en el universo, la partícula camaleón</a></h4>
-    <a href='https://computerhoy.com/espacio/busca-quinta-fuerza-universo-particula-camaleon-1393202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/universo-3261763.jpg?tf=1200x' alt='En busca de una quinta fuerza en el universo, la partícula camaleón' />
+    <h4><a href='https://computerhoy.com/life/japon-borde-colapso-demografico-quiere-crear-tunel-automatizado-500-kilometros-transportar-mercancias-1393228'>Japón al borde del colapso demográfico quiere crear un túnel automatizado de 500 kilómetros para transportar mercancías</a></h4>
+    <a href='https://computerhoy.com/life/japon-borde-colapso-demografico-quiere-crear-tunel-automatizado-500-kilometros-transportar-mercancias-1393228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/japon-podria-crear-tunel-500-kilometros-transportar-mercancia-tokio-osaka-3614568.jpg?tf=1200x' alt='Japón al borde del colapso demográfico quiere crear un túnel automatizado de 500 kilómetros para transportar mercancías' />
     </a>
 </div>
 
