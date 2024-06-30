@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-1390985'>Estas son las razones por las que Finlandia es el país más feliz del mundo (y España nunca podrá serlo)</a></h4>
-    <a href='https://computerhoy.com/life/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-1390985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-3507532.jpg?tf=1200x' alt='Estas son las razones por las que Finlandia es el país más feliz del mundo (y España nunca podrá serlo)' />
+    <h4><a href='https://computerhoy.com/life/cifra-magica-debes-tener-banco-evitar-problemas-ocu-1392584'>La cifra mágica que debes tener en el banco para evitar problemas, según la OCU</a></h4>
+    <a href='https://computerhoy.com/life/cifra-magica-debes-tener-banco-evitar-problemas-ocu-1392584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cifra-magica-debes-tener-banco-evitar-problemas-ocu-3590974.jpg?tf=1200x' alt='La cifra mágica que debes tener en el banco para evitar problemas, según la OCU' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/critica-machaca-primer-anuncio-toyrus-hecho-sora-ia-openai-pero-futuro-1393306'>La crítica machaca el primer anuncio de Toy"R"Us hecho con Sora, la IA de OpenAI, pero es el futuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/critica-machaca-primer-anuncio-toyrus-hecho-sora-ia-openai-pero-futuro-1393306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/critica-machaca-primer-anuncio-toyrus-hecho-sora-ia-openai-pero-futuro-3620000.jpg?tf=1200x' alt='La crítica machaca el primer anuncio de Toy"R"Us hecho con Sora, la IA de OpenAI, pero es el futuro' />
+    <h4><a href='https://computerhoy.com/tecnologia/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-1393312'>El CEO de IA de Microsoft afirma que casi todo en la web puede ser usado libremente para entrenar IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-1393312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-3621012.jpg?tf=1200x' alt='El CEO de IA de Microsoft afirma que casi todo en la web puede ser usado libremente para entrenar IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gpt-5-lanzamiento-novedades-todo-acerca-nuevo-modelo-ia-chatgpt-1392569'>GPT-5: lanzamiento, novedades y todo acerca del nuevo modelo de IA de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/gpt-5-lanzamiento-novedades-todo-acerca-nuevo-modelo-ia-chatgpt-1392569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-gpt-5-3590817.jpg?tf=1200x' alt='GPT-5: lanzamiento, novedades y todo acerca del nuevo modelo de IA de ChatGPT' />
+    <h4><a href='https://computerhoy.com/apps/telegram-tiene-equipo-ciberseguridad-30-ingenieros-expertos-ponen-temblar-1392585'>Telegram tiene un equipo de ciberseguridad "de unos 30 ingenieros" y los expertos se ponen a temblar</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-tiene-equipo-ciberseguridad-30-ingenieros-expertos-ponen-temblar-1392585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/telegram-pavel-durov-3590991.jpg?tf=1200x' alt='Telegram tiene un equipo de ciberseguridad "de unos 30 ingenieros" y los expertos se ponen a temblar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/impactase-asteroide-tierra-nasa-no-podria-evitarlo-dentro-14-anos-1392558'>Si impactase un asteroide contra la Tierra, la NASA no podría evitarlo hasta dentro de 14 años</a></h4>
-    <a href='https://computerhoy.com/espacio/impactase-asteroide-tierra-nasa-no-podria-evitarlo-dentro-14-anos-1392558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asteroide-chocando-tierra-3590815.jpg?tf=1200x' alt='Si impactase un asteroide contra la Tierra, la NASA no podría evitarlo hasta dentro de 14 años' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/miles-usuarios-no-saben-como-infectaron-malware-principal-sospechoso-proveedor-internet-1393169'>Miles de usuarios no saben cómo se infectaron con malware: el principal sospechoso es su proveedor de Internet</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/miles-usuarios-no-saben-como-infectaron-malware-principal-sospechoso-proveedor-internet-1393169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/malware-ordenador-3613433.jpg?tf=1200x' alt='Miles de usuarios no saben cómo se infectaron con malware: el principal sospechoso es su proveedor de Internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/huevo-gallina-debes-conectar-antes-movil-cargador-1393058'>El huevo o la gallina: qué debes conectar antes, ¿el móvil o el cargador?</a></h4>
-    <a href='https://computerhoy.com/moviles/huevo-gallina-debes-conectar-antes-movil-cargador-1393058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huevo-gallina-debes-conectar-antes-movil-cargador-3607636.jpg?tf=1200x' alt='El huevo o la gallina: qué debes conectar antes, ¿el móvil o el cargador?' />
+    <h4><a href='https://computerhoy.com/apps/codigos-secretos-waze-desbloquean-funciones-ocultas-app-navegacion-1392938'>Códigos secretos de Waze que desbloquean funciones ocultas en la app de navegación</a></h4>
+    <a href='https://computerhoy.com/apps/codigos-secretos-waze-desbloquean-funciones-ocultas-app-navegacion-1392938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/codigos-secretos-waze-desbloquean-funciones-ocultas-app-navegacion-3603335.jpg?tf=1200x' alt='Códigos secretos de Waze que desbloquean funciones ocultas en la app de navegación' />
     </a>
 </div>
 
