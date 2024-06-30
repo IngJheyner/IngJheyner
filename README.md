@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/intel-sigue-ofrecer-solucion-inestabilidad-cpu-problemas-persisten-1392645'>Intel sigue sin ofrecer solución a la inestabilidad de sus CPU y los problemas persisten</a></h4>
+    <a href='https://computerhoy.com/tecnologia/intel-sigue-ofrecer-solucion-inestabilidad-cpu-problemas-persisten-1392645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/InteldespediraamilesdeempleadosporlasbajasventasdePCsegunBloomberg_166559458269231614.jpg?tf=1200x' alt='Intel sigue sin ofrecer solución a la inestabilidad de sus CPU y los problemas persisten' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sony-despide-250-trabajadores-fabrica-blu-ray-discos-fisicos-peligro-1393379'>Sony despide a 250 trabajadores de su fábrica de Blu-ray: ¿los discos físicos en peligro?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sony-despide-250-trabajadores-fabrica-blu-ray-discos-fisicos-peligro-1393379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sony-despide-250-trabajadores-fabrica-blu-ray-discos-fisicos-peligro-3630495.jpg?tf=1200x' alt='Sony despide a 250 trabajadores de su fábrica de Blu-ray: ¿los discos físicos en peligro?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-1393093'>Películas slasher actuales que parecen de los 80 o 90, y que tienes que ver si te gustan Scream o Destino final</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-1393093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-3608418.jpg?tf=1200x' alt='Películas slasher actuales que parecen de los 80 o 90, y que tienes que ver si te gustan Scream o Destino final' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/te-mudaste-windows-11-piensa-fallo-provoca-notificaciones-cambio-zona-horaria-1393341'>¿Te mudaste? Windows 11 piensa que sí: un fallo provoca notificaciones de cambio de zona horaria</a></h4>
     <a href='https://computerhoy.com/windows/te-mudaste-windows-11-piensa-fallo-provoca-notificaciones-cambio-zona-horaria-1393341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-hora-3623202.jpg?tf=1200x' alt='¿Te mudaste? Windows 11 piensa que sí: un fallo provoca notificaciones de cambio de zona horaria' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-hace-copias-seguridad-onedrive-manera-automatica-permiso-puedes-evitarlo-1392635'>Windows 11 hace copias de seguridad de OneDrive de manera automática sin permiso: así puedes evitarlo</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-hace-copias-seguridad-onedrive-manera-automatica-permiso-puedes-evitarlo-1392635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/onedrive-3285530.jpg?tf=1200x' alt='Windows 11 hace copias de seguridad de OneDrive de manera automática sin permiso: así puedes evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/europa-centros-datos-espacio-1393378'>Europa va a instalar centros de datos en el espacio: así funcionarán</a></h4>
-    <a href='https://computerhoy.com/internet/europa-centros-datos-espacio-1393378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/europa-quiere-poner-centros-datos-espacio-adios-problemas-refrigeracion-3629889.jpg?tf=1200x' alt='Europa va a instalar centros de datos en el espacio: así funcionarán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-1392541'>Memoria RAM vs. memoria caché: para qué sirve cada una y en qué se diferencian</a></h4>
-    <a href='https://computerhoy.com/pc/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-1392541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-3590017.jpg?tf=1200x' alt='Memoria RAM vs. memoria caché: para qué sirve cada una y en qué se diferencian' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-nstalar-ubuntu-unidad-externa-1350997'>5 formas de instalar Ubuntu en una unidad externa para usarlo en PC o Mac</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-nstalar-ubuntu-unidad-externa-1350997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-formas-instalar-ubuntu-unidad-externa-usarlo-cualquier-ordenador-3250905.jpg?tf=1200x' alt='5 formas de instalar Ubuntu en una unidad externa para usarlo en PC o Mac' />
     </a>
 </div>
 
