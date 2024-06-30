@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/quien-aleksey-pajitnov-creador-tetris-tuvo-esperar-10-anos-ganar-primer-centimo-juego-generaba-millones-1393291'>Quién es Aleksey Pajitnov, el creador de Tetris que tuvo que esperar 10 años para ganar su primer céntimo por un juego que generaba millones</a></h4>
+    <a href='https://computerhoy.com/life/quien-aleksey-pajitnov-creador-tetris-tuvo-esperar-10-anos-ganar-primer-centimo-juego-generaba-millones-1393291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/quien-aleksey-pajitnov-creador-tetris-tuvo-esperar-10-anos-ganar-primer-centimo-juego-generaba-millones-3617290.jpg?tf=1200x' alt='Quién es Aleksey Pajitnov, el creador de Tetris que tuvo que esperar 10 años para ganar su primer céntimo por un juego que generaba millones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381'>Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial</a></h4>
+    <a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mars-odyssey-completa-100000-vueltas-marte-celebra-foto-especial-3631253.jpg?tf=1200x' alt='Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724'>Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar</a></h4>
     <a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-store-3594966.jpg?tf=1200x' alt='Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/reserva-booking-cancelada-falta-datos-no-piques-estafa-te-puede-dejar-vacaciones-1393289'>Reserva de Booking cancelada por falta de datos: no piques, es una estafa que te puede dejar sin vacaciones</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/reserva-booking-cancelada-falta-datos-no-piques-estafa-te-puede-dejar-vacaciones-1393289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/reserva-booking-cancelada-falta-datos-no-piques-estafa-te-puede-dejar-vacaciones-3617001.jpg?tf=1200x' alt='Reserva de Booking cancelada por falta de datos: no piques, es una estafa que te puede dejar sin vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intel-sigue-ofrecer-solucion-inestabilidad-cpu-problemas-persisten-1392645'>Intel sigue sin ofrecer solución a la inestabilidad de sus CPU y los problemas persisten</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intel-sigue-ofrecer-solucion-inestabilidad-cpu-problemas-persisten-1392645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/InteldespediraamilesdeempleadosporlasbajasventasdePCsegunBloomberg_166559458269231614.jpg?tf=1200x' alt='Intel sigue sin ofrecer solución a la inestabilidad de sus CPU y los problemas persisten' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sony-despide-250-trabajadores-fabrica-blu-ray-discos-fisicos-peligro-1393379'>Sony despide a 250 trabajadores de su fábrica de Blu-ray: ¿los discos físicos en peligro?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sony-despide-250-trabajadores-fabrica-blu-ray-discos-fisicos-peligro-1393379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sony-despide-250-trabajadores-fabrica-blu-ray-discos-fisicos-peligro-3630495.jpg?tf=1200x' alt='Sony despide a 250 trabajadores de su fábrica de Blu-ray: ¿los discos físicos en peligro?' />
     </a>
 </div>
 
