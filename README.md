@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cierra-puertas-gran-sueno-fundador-microsoft-paul-allen-1393346'>Cierra las puertas el gran sueño del fundador de Microsoft</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cierra-puertas-gran-sueno-fundador-microsoft-paul-allen-1393346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cierra-puertas-gran-sueno-fundador-microsoft-3626017.jpg?tf=1200x' alt='Cierra las puertas el gran sueño del fundador de Microsoft' />
+    <h4><a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544'>Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer</a></h4>
+    <a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/denuncia-apple-porque-mensajes-infidelidad-borrados-acabaron-mac-mujer-3589553.jpg?tf=1200x' alt='Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/ajustes-debes-hacer-barra-sonido-mejorar-audio-televisor-1385168'>5 ajustes que debes hacer en tu barra de sonido para mejorar el audio de tu televisor</a></h4>
-    <a href='https://computerhoy.com/audio/ajustes-debes-hacer-barra-sonido-mejorar-audio-televisor-1385168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/barra-sonido-3309857.jpg?tf=1200x' alt='5 ajustes que debes hacer en tu barra de sonido para mejorar el audio de tu televisor' />
+    <h4><a href='https://computerhoy.com/internet/wps-sirve-boton-tienen-algunos-routers-wifi-1388292'>¿Qué es WPS y para qué sirve este botón que tienen algunos routers WiFi?</a></h4>
+    <a href='https://computerhoy.com/internet/wps-sirve-boton-tienen-algunos-routers-wifi-1388292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1719576301702-3614734.jpg?tf=1200x' alt='¿Qué es WPS y para qué sirve este botón que tienen algunos routers WiFi?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/experto-mundial-ia-vuelve-alertar-peligros-ya-no-tenemos-boton-rojo-1393017'>Un experto mundial en IA vuelve a alertar de sus peligros: “ya no tenemos botón rojo”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/experto-mundial-ia-vuelve-alertar-peligros-ya-no-tenemos-boton-rojo-1393017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/boton-panico-3607334.jpg?tf=1200x' alt='Un experto mundial en IA vuelve a alertar de sus peligros: “ya no tenemos botón rojo”' />
+    <h4><a href='https://computerhoy.com/analisis/probar-oneplus-nord-ce-4-lite-5g-me-quedo-pantalla-brillante-autonomia-aunque-flaquea-otros-puntos-1393102'>Tras probar el OnePlus Nord CE 4 Lite 5G me quedo con su pantalla brillante y autonomía, aunque flaquea en otros puntos</a></h4>
+    <a href='https://computerhoy.com/analisis/probar-oneplus-nord-ce-4-lite-5g-me-quedo-pantalla-brillante-autonomia-aunque-flaquea-otros-puntos-1393102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/oneplus-nord-ce-4-lite-3614404.jpg?tf=1200x' alt='Tras probar el OnePlus Nord CE 4 Lite 5G me quedo con su pantalla brillante y autonomía, aunque flaquea en otros puntos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-cecotec-portatil-barato-enfria-mucho-1076113'>Este aire acondicionado portátil consume poco y enfría mucho: además tiene bomba de calor</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/aire-acondicionado-cecotec-portatil-barato-enfria-mucho-1076113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cecotec-forceclima-12600-soundless-heating-3583159.jpg?tf=1200x' alt='Este aire acondicionado portátil consume poco y enfría mucho: además tiene bomba de calor' />
+    <h4><a href='https://computerhoy.com/pc/me-ha-gustado-huawei-matebook-14-relacion-calidad-precio-1392380'>Se dice mucho, pero es verdad: Lo que más me ha gustado del Huawei Matebook 14 es su relación calidad-precio</a></h4>
+    <a href='https://computerhoy.com/pc/me-ha-gustado-huawei-matebook-14-relacion-calidad-precio-1392380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-matebook-14-2024-3569659.jpg?tf=1200x' alt='Se dice mucho, pero es verdad: Lo que más me ha gustado del Huawei Matebook 14 es su relación calidad-precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/vuelo-comercial-mas-corto-mundo-1392539'>El vuelo comercial más corto del mundo dura solo 80 segundos</a></h4>
-    <a href='https://computerhoy.com/motor/vuelo-comercial-mas-corto-mundo-1392539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vuelo-comercial-corto-mundo-dura-solo-80-segundos-3588173.jpg?tf=1200x' alt='El vuelo comercial más corto del mundo dura solo 80 segundos' />
+    <h4><a href='https://computerhoy.com/moviles/mejor-vivo-v40-5g-modo-fotografia-retrato-1392981'>Lo mejor del Vivo V40 5G es su modo de fotografía retrato, a la altura de los más caros</a></h4>
+    <a href='https://computerhoy.com/moviles/mejor-vivo-v40-5g-modo-fotografia-retrato-1392981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vivo-v40-5g-3584174.jpg?tf=1200x' alt='Lo mejor del Vivo V40 5G es su modo de fotografía retrato, a la altura de los más caros' />
     </a>
 </div>
 
