@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724'>Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar</a></h4>
+    <a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-store-3594966.jpg?tf=1200x' alt='Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380'>Inventan un filtro que añade visión nocturna a cualquier gafa</a></h4>
     <a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inventan-filtro-anade-vision-nocturna-cualquier-gafa-3630957.jpg?tf=1200x' alt='Inventan un filtro que añade visión nocturna a cualquier gafa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sony-despide-250-trabajadores-fabrica-blu-ray-discos-fisicos-peligro-1393379'>Sony despide a 250 trabajadores de su fábrica de Blu-ray: ¿los discos físicos en peligro?</a></h4>
     <a href='https://computerhoy.com/tecnologia/sony-despide-250-trabajadores-fabrica-blu-ray-discos-fisicos-peligro-1393379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sony-despide-250-trabajadores-fabrica-blu-ray-discos-fisicos-peligro-3630495.jpg?tf=1200x' alt='Sony despide a 250 trabajadores de su fábrica de Blu-ray: ¿los discos físicos en peligro?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-1393093'>Películas slasher actuales que parecen de los 80 o 90, y que tienes que ver si te gustan Scream o Destino final</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-1393093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/peliculas-slasher-actuales-parecen-80-90-tienes-ver-te-gustan-scream-destino-final-3608418.jpg?tf=1200x' alt='Películas slasher actuales que parecen de los 80 o 90, y que tienes que ver si te gustan Scream o Destino final' />
     </a>
 </div>
 
