@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sony-warner-universal-empieza-guerra-musica-generada-ia-tan-dramatico-como-pinta-1392912'>Sony, Warner, Universal... empieza la guerra por la música generada con IA: ¿Es tan dramático como se pinta?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sony-warner-universal-empieza-guerra-musica-generada-ia-tan-dramatico-como-pinta-1392912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/musica-inteligencia-artificial-3601505.jpg?tf=1200x' alt='Sony, Warner, Universal... empieza la guerra por la música generada con IA: ¿Es tan dramático como se pinta?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/obsesion-punto-enfermar-moda-smartwatches-nos-yendo-manos-1392914'>Obsesión hasta el punto de enfermar: ¿La moda de los smartwatches se nos está yendo de las manos?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/obsesion-punto-enfermar-moda-smartwatches-nos-yendo-manos-1392914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mano-zombie-smartwatch-3601663.jpg?tf=1200x' alt='Obsesión hasta el punto de enfermar: ¿La moda de los smartwatches se nos está yendo de las manos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/ayudara-inteligencia-artificial-vivir-120-anos-experto-1393005'>Así ayudará la inteligencia artificial a vivir 120 años, según un experto</a></h4>
+    <a href='https://computerhoy.com/ciencia/ayudara-inteligencia-artificial-vivir-120-anos-experto-1393005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ayudara-inteligencia-artificial-vivir-120-anos-experto-3606361.jpg?tf=1200x' alt='Así ayudará la inteligencia artificial a vivir 120 años, según un experto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544'>Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer</a></h4>
     <a href='https://computerhoy.com/apple/denuncia-apple-mensajes-infidelidad-borrados-acabaron-mac-mujer-1392544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/denuncia-apple-porque-mensajes-infidelidad-borrados-acabaron-mac-mujer-3589553.jpg?tf=1200x' alt='Denuncia a Apple porque sus mensajes de infidelidad borrados acabaron en el Mac de su mujer' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/wps-sirve-boton-tienen-algunos-routers-wifi-1388292'>¿Qué es WPS y para qué sirve este botón que tienen algunos routers WiFi?</a></h4>
     <a href='https://computerhoy.com/internet/wps-sirve-boton-tienen-algunos-routers-wifi-1388292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1719576301702-3614734.jpg?tf=1200x' alt='¿Qué es WPS y para qué sirve este botón que tienen algunos routers WiFi?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/probar-oneplus-nord-ce-4-lite-5g-me-quedo-pantalla-brillante-autonomia-aunque-flaquea-otros-puntos-1393102'>Tras probar el OnePlus Nord CE 4 Lite 5G me quedo con su pantalla brillante y autonomía, aunque flaquea en otros puntos</a></h4>
-    <a href='https://computerhoy.com/analisis/probar-oneplus-nord-ce-4-lite-5g-me-quedo-pantalla-brillante-autonomia-aunque-flaquea-otros-puntos-1393102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/oneplus-nord-ce-4-lite-3614404.jpg?tf=1200x' alt='Tras probar el OnePlus Nord CE 4 Lite 5G me quedo con su pantalla brillante y autonomía, aunque flaquea en otros puntos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/me-ha-gustado-huawei-matebook-14-relacion-calidad-precio-1392380'>Se dice mucho, pero es verdad: Lo que más me ha gustado del Huawei Matebook 14 es su relación calidad-precio</a></h4>
-    <a href='https://computerhoy.com/pc/me-ha-gustado-huawei-matebook-14-relacion-calidad-precio-1392380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-matebook-14-2024-3569659.jpg?tf=1200x' alt='Se dice mucho, pero es verdad: Lo que más me ha gustado del Huawei Matebook 14 es su relación calidad-precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mejor-vivo-v40-5g-modo-fotografia-retrato-1392981'>Lo mejor del Vivo V40 5G es su modo de fotografía retrato, a la altura de los más caros</a></h4>
-    <a href='https://computerhoy.com/moviles/mejor-vivo-v40-5g-modo-fotografia-retrato-1392981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vivo-v40-5g-3584174.jpg?tf=1200x' alt='Lo mejor del Vivo V40 5G es su modo de fotografía retrato, a la altura de los más caros' />
     </a>
 </div>
 
