@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-1393125'>Formas de acceder a YouTube, sin entrar en YouTube, evitando todo lo molesto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-1393125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-3610549.jpg?tf=1200x' alt='Formas de acceder a YouTube, sin entrar en YouTube, evitando todo lo molesto' />
+    <h4><a href='https://computerhoy.com/espacio/busca-quinta-fuerza-universo-particula-camaleon-1393202'>En busca de una quinta fuerza en el universo, la partícula camaleón</a></h4>
+    <a href='https://computerhoy.com/espacio/busca-quinta-fuerza-universo-particula-camaleon-1393202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/universo-3261763.jpg?tf=1200x' alt='En busca de una quinta fuerza en el universo, la partícula camaleón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ocu-no-tiene-dudas-mejor-agua-grifo-espana-ciudad-1393362'>La OCU no tiene dudas: la mejor agua del grifo de España es la de esta ciudad</a></h4>
-    <a href='https://computerhoy.com/life/ocu-no-tiene-dudas-mejor-agua-grifo-espana-ciudad-1393362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/agua-grifo-3628390.jpg?tf=1200x' alt='La OCU no tiene dudas: la mejor agua del grifo de España es la de esta ciudad' />
+    <h4><a href='https://computerhoy.com/apps/estos-son-todos-nuevos-idiomas-incorporados-traductor-google-1393355'>Estos son todos los nuevos idiomas incorporados al traductor de Google</a></h4>
+    <a href='https://computerhoy.com/apps/estos-son-todos-nuevos-idiomas-incorporados-traductor-google-1393355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/traductor-google-3627940.jpg?tf=1200x' alt='Estos son todos los nuevos idiomas incorporados al traductor de Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/dgt-advierte-multa-trafico-nunca-debes-pagar-1392601'>La DGT advierte: la multa de tráfico que nunca debes pagar</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/dgt-advierte-multa-trafico-nunca-debes-pagar-1392601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dgt-3591491.jpg?tf=1200x' alt='La DGT advierte: la multa de tráfico que nunca debes pagar' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-obliga-realizar-evacuacion-emergencia-astronautas-estacion-espacial-internacional-1393319'>La NASA obliga a realizar una evacuación de emergencia a los astronautas de la Estación Espacial Internacional</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-obliga-realizar-evacuacion-emergencia-astronautas-estacion-espacial-internacional-1393319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estacion-espacial-internacional-3621448.jpg?tf=1200x' alt='La NASA obliga a realizar una evacuación de emergencia a los astronautas de la Estación Espacial Internacional' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-1393197'>Sentencia histórica: obligan a un banco a devolver 6.000 euros de una ciberestafa por falta de medidas de seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-1393197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-3613935.jpg?tf=1200x' alt='Sentencia histórica: obligan a un banco a devolver 6.000 euros de una ciberestafa por falta de medidas de seguridad' />
+    <h4><a href='https://computerhoy.com/malos-habitos-conducir-google-maps-te-hacen-gastar-gasolina-1392605'>Malos hábitos al conducir (y con Google Maps) que te hacen gastar más gasolina</a></h4>
+    <a href='https://computerhoy.com/malos-habitos-conducir-google-maps-te-hacen-gastar-gasolina-1392605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/malos-habitos-coche-gasolina-3591501.jpg?tf=1200x' alt='Malos hábitos al conducir (y con Google Maps) que te hacen gastar más gasolina' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/como-usar-apple-carplay-motos-1392595'>¿Cómo usar Apple CarPlay para motos?</a></h4>
-    <a href='https://computerhoy.com/motor/como-usar-apple-carplay-motos-1392595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-carplay-moto-3591325.jpg?tf=1200x' alt='¿Cómo usar Apple CarPlay para motos?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/ultimo-dia-verla-deja-netflix-obra-maestra-historia-cine-nominada-8-oscars-1393363'>Último día para verla: deja Netflix una obra maestra de la historia del cine nominada a 8 Oscars</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ultimo-dia-verla-deja-netflix-obra-maestra-historia-cine-nominada-8-oscars-1393363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/queda-dia-3628401.jpg?tf=1200x' alt='Último día para verla: deja Netflix una obra maestra de la historia del cine nominada a 8 Oscars' />
     </a>
 </div>
 
