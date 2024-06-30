@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/te-mudaste-windows-11-piensa-fallo-provoca-notificaciones-cambio-zona-horaria-1393341'>¿Te mudaste? Windows 11 piensa que sí: un fallo provoca notificaciones de cambio de zona horaria</a></h4>
+    <a href='https://computerhoy.com/windows/te-mudaste-windows-11-piensa-fallo-provoca-notificaciones-cambio-zona-horaria-1393341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-hora-3623202.jpg?tf=1200x' alt='¿Te mudaste? Windows 11 piensa que sí: un fallo provoca notificaciones de cambio de zona horaria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-hace-copias-seguridad-onedrive-manera-automatica-permiso-puedes-evitarlo-1392635'>Windows 11 hace copias de seguridad de OneDrive de manera automática sin permiso: así puedes evitarlo</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-hace-copias-seguridad-onedrive-manera-automatica-permiso-puedes-evitarlo-1392635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/onedrive-3285530.jpg?tf=1200x' alt='Windows 11 hace copias de seguridad de OneDrive de manera automática sin permiso: así puedes evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/europa-centros-datos-espacio-1393378'>Europa va a instalar centros de datos en el espacio: así funcionarán</a></h4>
+    <a href='https://computerhoy.com/internet/europa-centros-datos-espacio-1393378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/europa-quiere-poner-centros-datos-espacio-adios-problemas-refrigeracion-3629889.jpg?tf=1200x' alt='Europa va a instalar centros de datos en el espacio: así funcionarán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-1392541'>Memoria RAM vs. memoria caché: para qué sirve cada una y en qué se diferencian</a></h4>
+    <a href='https://computerhoy.com/pc/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-1392541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/memoria-ram-vs-memoria-cache-sirve-cada-diferencian-3590017.jpg?tf=1200x' alt='Memoria RAM vs. memoria caché: para qué sirve cada una y en qué se diferencian' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-nstalar-ubuntu-unidad-externa-1350997'>5 formas de instalar Ubuntu en una unidad externa para usarlo en PC o Mac</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-nstalar-ubuntu-unidad-externa-1350997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-formas-instalar-ubuntu-unidad-externa-usarlo-cualquier-ordenador-3250905.jpg?tf=1200x' alt='5 formas de instalar Ubuntu en una unidad externa para usarlo en PC o Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cada-tres-conductores-no-comprara-coche-nuevo-caracteristica-estudio-1393270'>Uno de cada tres conductores no comprará un coche nuevo sin esta característica, según un estudio</a></h4>
-    <a href='https://computerhoy.com/motor/cada-tres-conductores-no-comprara-coche-nuevo-caracteristica-estudio-1393270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fabricantes-coches-cada-vez-confian-google-apple-sistemas-infoentretenimiento-3294181.jpg?tf=1200x' alt='Uno de cada tres conductores no comprará un coche nuevo sin esta característica, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/digi-no-funcionan-llamadas-1393267'>No eres tú, si eres de DIGI no funcionan las llamadas</a></h4>
-    <a href='https://computerhoy.com/redes/digi-no-funcionan-llamadas-1393267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/digi-mobil.jpeg?tf=1200x' alt='No eres tú, si eres de DIGI no funcionan las llamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-cambiar-otra-red-1352629'>Cómo conectar Alexa al WiFi o cambiar a otra red</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-cambiar-otra-red-1352629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-conectar-alexa-wifi-cambiar-otra-red-3253808.jpg?tf=1200x' alt='Cómo conectar Alexa al WiFi o cambiar a otra red' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/no-compres-pc-snapdragon-x-elite-vas-jugar-videojuegos-1393372'>No compres un PC con Snapdragon X Elite, si vas a jugar a videojuegos</a></h4>
-    <a href='https://computerhoy.com/pc/no-compres-pc-snapdragon-x-elite-vas-jugar-videojuegos-1393372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nuevos-snapdragon-x-elite-plus-portatiles-potentes-apple-m3-ia-rapida-3303520.jpg?tf=1200x' alt='No compres un PC con Snapdragon X Elite, si vas a jugar a videojuegos' />
     </a>
 </div>
 
