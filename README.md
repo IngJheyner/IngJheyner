@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-1393294'>Por qué envolver el móvil en papel de aluminio cuando hay un botón que hace lo mismo</a></h4>
+    <a href='https://computerhoy.com/internet/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-1393294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-3618004.jpg?tf=1200x' alt='Por qué envolver el móvil en papel de aluminio cuando hay un botón que hace lo mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/quien-aleksey-pajitnov-creador-tetris-tuvo-esperar-10-anos-ganar-primer-centimo-juego-generaba-millones-1393291'>Quién es Aleksey Pajitnov, el creador de Tetris que tuvo que esperar 10 años para ganar su primer céntimo por un juego que generaba millones</a></h4>
     <a href='https://computerhoy.com/life/quien-aleksey-pajitnov-creador-tetris-tuvo-esperar-10-anos-ganar-primer-centimo-juego-generaba-millones-1393291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/quien-aleksey-pajitnov-creador-tetris-tuvo-esperar-10-anos-ganar-primer-centimo-juego-generaba-millones-3617290.jpg?tf=1200x' alt='Quién es Aleksey Pajitnov, el creador de Tetris que tuvo que esperar 10 años para ganar su primer céntimo por un juego que generaba millones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380'>Inventan un filtro que añade visión nocturna a cualquier gafa</a></h4>
     <a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inventan-filtro-anade-vision-nocturna-cualquier-gafa-3630957.jpg?tf=1200x' alt='Inventan un filtro que añade visión nocturna a cualquier gafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/reserva-booking-cancelada-falta-datos-no-piques-estafa-te-puede-dejar-vacaciones-1393289'>Reserva de Booking cancelada por falta de datos: no piques, es una estafa que te puede dejar sin vacaciones</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/reserva-booking-cancelada-falta-datos-no-piques-estafa-te-puede-dejar-vacaciones-1393289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/reserva-booking-cancelada-falta-datos-no-piques-estafa-te-puede-dejar-vacaciones-3617001.jpg?tf=1200x' alt='Reserva de Booking cancelada por falta de datos: no piques, es una estafa que te puede dejar sin vacaciones' />
     </a>
 </div>
 
