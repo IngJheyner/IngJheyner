@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-chrome-te-va-lento-posibles-problemas-como-solucionarlo-1392785'>¿Google Chrome te va lento? Posibles problemas y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/google/google-chrome-te-va-lento-posibles-problemas-como-solucionarlo-1392785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-chrome-problemas-3598724.jpg?tf=1200x' alt='¿Google Chrome te va lento? Posibles problemas y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-1393312'>El CEO de IA de Microsoft afirma que casi todo en la web puede ser usado libremente para entrenar IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-1393312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-3621012.jpg?tf=1200x' alt='El CEO de IA de Microsoft afirma que casi todo en la web puede ser usado libremente para entrenar IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-dejara-funcionar-estos-moviles-mismo-ano-comprueba-lista-1392788'>WhatsApp dejará de funcionar en estos móviles este mismo año: comprueba si está el tuyo en la lista</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-dejara-funcionar-estos-moviles-mismo-ano-comprueba-lista-1392788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/whatsapp-prohibido-3598894.jpg?tf=1200x' alt='WhatsApp dejará de funcionar en estos móviles este mismo año: comprueba si está el tuyo en la lista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/configura-google-maps-detectar-radares-dgt-primera-operacion-salida-verano-1393419'>Configura Google Maps para detectar los radares de la DGT en la primera operación salida del verano</a></h4>
+    <a href='https://computerhoy.com/google/configura-google-maps-detectar-radares-dgt-primera-operacion-salida-verano-1393419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-radares-3635041.jpg?tf=1200x' alt='Configura Google Maps para detectar los radares de la DGT en la primera operación salida del verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-1393427'>Tu aliado contra el impredecible clima en España: una app del tiempo gratuita con radar y cámaras en tiempo real</a></h4>
     <a href='https://computerhoy.com/apps/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-1393427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-3635040.jpg?tf=1200x' alt='Tu aliado contra el impredecible clima en España: una app del tiempo gratuita con radar y cámaras en tiempo real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guia-paso-paso-encontrar-trabajo-chatgpt-1392773'>Guía paso a paso para encontrar trabajo con ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guia-paso-paso-encontrar-trabajo-chatgpt-1392773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-ayuda-trabajo-3598559.jpg?tf=1200x' alt='Guía paso a paso para encontrar trabajo con ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/muy-facil-hacer-jailbreak-modelos-ia-obtener-informacion-peligrosa-como-construir-cocteles-molotov-1393410'>Es muy fácil hacer 'jailbreak' a modelos de IA para obtener información peligrosa, como construir cócteles Molotov</a></h4>
-    <a href='https://computerhoy.com/tecnologia/muy-facil-hacer-jailbreak-modelos-ia-obtener-informacion-peligrosa-como-construir-cocteles-molotov-1393410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ia-defectuosa-3634827.jpg?tf=1200x' alt='Es muy fácil hacer 'jailbreak' a modelos de IA para obtener información peligrosa, como construir cócteles Molotov' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-1390985'>Estas son las razones por las que Finlandia es el país más feliz del mundo (y España nunca podrá serlo)</a></h4>
-    <a href='https://computerhoy.com/life/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-1390985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-3507532.jpg?tf=1200x' alt='Estas son las razones por las que Finlandia es el país más feliz del mundo (y España nunca podrá serlo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/critica-machaca-primer-anuncio-toyrus-hecho-sora-ia-openai-pero-futuro-1393306'>La crítica machaca el primer anuncio de Toy"R"Us hecho con Sora, la IA de OpenAI, pero es el futuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/critica-machaca-primer-anuncio-toyrus-hecho-sora-ia-openai-pero-futuro-1393306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/critica-machaca-primer-anuncio-toyrus-hecho-sora-ia-openai-pero-futuro-3620000.jpg?tf=1200x' alt='La crítica machaca el primer anuncio de Toy"R"Us hecho con Sora, la IA de OpenAI, pero es el futuro' />
     </a>
 </div>
 
