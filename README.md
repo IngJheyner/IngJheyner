@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/isp-instalo-malware-600000-clientes-bloquear-archivos-torrent-1392937'>Un ISP instaló malware a 600.000 clientes para bloquear los archivos Torrent</a></h4>
+    <a href='https://computerhoy.com/internet/isp-instalo-malware-600000-clientes-bloquear-archivos-torrent-1392937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/isp-instalo-malware-ordenadores-clientes-bloquear-ficheros-torrent-3602725.jpg?tf=1200x' alt='Un ISP instaló malware a 600.000 clientes para bloquear los archivos Torrent' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/bill-gates-dice-no-debemos-preocuparnos-consumo-energetico-ia-1393578'>Bill Gates dice que "no debemos preocuparnos del consumo eléctrico de la IA"</a></h4>
     <a href='https://computerhoy.com/energia/bill-gates-dice-no-debemos-preocuparnos-consumo-energetico-ia-1393578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bill-gates-2919658.jpg?tf=1200x' alt='Bill Gates dice que "no debemos preocuparnos del consumo eléctrico de la IA"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/cohete-espacial-chino-estrella-space-pioneer-1393575'>Un cohete espacial chino despega sin querer y se estrella, provocando el pánico</a></h4>
     <a href='https://computerhoy.com/espacio/cohete-espacial-chino-estrella-space-pioneer-1393575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-espacial-chino-despega-querer-provocando-panico-3638307.jpg?tf=1200x' alt='Un cohete espacial chino despega sin querer y se estrella, provocando el pánico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/gran-novedad-apple-watch-x-pantalla-gigante-revelada-imagenes-1393574'>La gran novedad del Apple Watch X: su pantalla gigante revelada en imágenes</a></h4>
-    <a href='https://computerhoy.com/apple/gran-novedad-apple-watch-x-pantalla-gigante-revelada-imagenes-1393574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187116.jpg?tf=1200x' alt='La gran novedad del Apple Watch X: su pantalla gigante revelada en imágenes' />
     </a>
 </div>
 
