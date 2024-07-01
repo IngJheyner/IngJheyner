@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380'>Inventan un filtro que añade visión nocturna a cualquier gafa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inventan-filtro-anade-vision-nocturna-cualquier-gafa-3630957.jpg?tf=1200x' alt='Inventan un filtro que añade visión nocturna a cualquier gafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/cohete-espacial-chino-estrella-space-pioneer-1393575'>Un cohete espacial chino despega sin querer y se estrella, provocando el pánico</a></h4>
     <a href='https://computerhoy.com/espacio/cohete-espacial-chino-estrella-space-pioneer-1393575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-espacial-chino-despega-querer-provocando-panico-3638307.jpg?tf=1200x' alt='Un cohete espacial chino despega sin querer y se estrella, provocando el pánico' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-1392923'>Desactivé esta función de mi móvil Xiaomi, que no sirve para nada y ahora vuela, ha rejuvenecido al instante</a></h4>
     <a href='https://computerhoy.com/moviles/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-1392923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-3602125.jpg?tf=1200x' alt='Desactivé esta función de mi móvil Xiaomi, que no sirve para nada y ahora vuela, ha rejuvenecido al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/descubre-secretos-ocultos-electrodomesticos-funcion-inesperada-chatgpt-1393571'>Descubre secretos ocultos de tus electrodomésticos con una función inesperada de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/descubre-secretos-ocultos-electrodomesticos-funcion-inesperada-chatgpt-1393571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/descubre-secretos-ocultos-electrodomesticos-funcion-inesperada-chatgpt-3638398.jpg?tf=1200x' alt='Descubre secretos ocultos de tus electrodomésticos con una función inesperada de ChatGPT' />
     </a>
 </div>
 
