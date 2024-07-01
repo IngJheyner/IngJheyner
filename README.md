@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-chrome-te-va-lento-posibles-problemas-como-solucionarlo-1392785'>¿Google Chrome te va lento? Posibles problemas y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/google/google-chrome-te-va-lento-posibles-problemas-como-solucionarlo-1392785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-chrome-problemas-3598724.jpg?tf=1200x' alt='¿Google Chrome te va lento? Posibles problemas y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/internet/laliga-va-usuarios-ven-futbol-pirata-exige-pago-450-euros-no-quieren-ir-juicio-1392797'>LaLiga va a por los usuarios que ven fútbol pirata y exige un pago de 450 euros si no quieren ir a juicio</a></h4>
+    <a href='https://computerhoy.com/internet/laliga-va-usuarios-ven-futbol-pirata-exige-pago-450-euros-no-quieren-ir-juicio-1392797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/futbol-pirata-3598725.jpg?tf=1200x' alt='LaLiga va a por los usuarios que ven fútbol pirata y exige un pago de 450 euros si no quieren ir a juicio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-1393312'>El CEO de IA de Microsoft afirma que casi todo en la web puede ser usado libremente para entrenar IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-1393312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-3621012.jpg?tf=1200x' alt='El CEO de IA de Microsoft afirma que casi todo en la web puede ser usado libremente para entrenar IA' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-1393443'>Cómo una foto en WhatsApp puede revelar tu ubicación y las medidas para protegerte eficazmente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-1393443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-3635361.jpg?tf=1200x' alt='Cómo una foto en WhatsApp puede revelar tu ubicación y las medidas para protegerte eficazmente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-dejara-funcionar-estos-moviles-mismo-ano-comprueba-lista-1392788'>WhatsApp dejará de funcionar en estos móviles este mismo año: comprueba si está el tuyo en la lista</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-dejara-funcionar-estos-moviles-mismo-ano-comprueba-lista-1392788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/whatsapp-prohibido-3598894.jpg?tf=1200x' alt='WhatsApp dejará de funcionar en estos móviles este mismo año: comprueba si está el tuyo en la lista' />
+    <h4><a href='https://computerhoy.com/moviles/mejor-teclado-escribir-movil-revelado-estudio-1393432'>Este es el mejor teclado para escribir en el móvil revelado por un estudio</a></h4>
+    <a href='https://computerhoy.com/moviles/mejor-teclado-escribir-movil-revelado-estudio-1393432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teclado-movil-3635140.jpg?tf=1200x' alt='Este es el mejor teclado para escribir en el móvil revelado por un estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/configura-google-maps-detectar-radares-dgt-primera-operacion-salida-verano-1393419'>Configura Google Maps para detectar los radares de la DGT en la primera operación salida del verano</a></h4>
-    <a href='https://computerhoy.com/google/configura-google-maps-detectar-radares-dgt-primera-operacion-salida-verano-1393419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-radares-3635041.jpg?tf=1200x' alt='Configura Google Maps para detectar los radares de la DGT en la primera operación salida del verano' />
+    <h4><a href='https://computerhoy.com/tecnologia/electricidad-usa-ia-google-podrian-cargarse-siete-coches-electricos-1393399'>Con la electricidad que usa la IA de Google podrían cargarse siete coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/electricidad-usa-ia-google-podrian-cargarse-siete-coches-electricos-1393399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-chrome-ia-3386891.jpg?tf=1200x' alt='Con la electricidad que usa la IA de Google podrían cargarse siete coches eléctricos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-1393427'>Tu aliado contra el impredecible clima en España: una app del tiempo gratuita con radar y cámaras en tiempo real</a></h4>
-    <a href='https://computerhoy.com/apps/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-1393427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-3635040.jpg?tf=1200x' alt='Tu aliado contra el impredecible clima en España: una app del tiempo gratuita con radar y cámaras en tiempo real' />
+    <h4><a href='https://computerhoy.com/tutoriales/cache-dns-windows-11-como-eliminarla-mejorar-conexion-instante-1392944'>Qué es la caché DNS de Windows 11 y cómo eliminarla para mejorar tu conexión al instante</a></h4>
+    <a href='https://computerhoy.com/tutoriales/cache-dns-windows-11-como-eliminarla-mejorar-conexion-instante-1392944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cache-dns-windows-11-como-eliminarla-mejorar-conexion-instante-3603930.jpg?tf=1200x' alt='Qué es la caché DNS de Windows 11 y cómo eliminarla para mejorar tu conexión al instante' />
     </a>
 </div>
 
