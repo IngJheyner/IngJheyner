@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/hay-ver-primero-casa-dragon-juego-tronos-1393486'>¿Qué hay que ver primero La Casa del Dragón o Juego de Tronos?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hay-ver-primero-casa-dragon-juego-tronos-1393486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hay-ver-primero-casa-dragon-juego-tronos-3635998.jpg?tf=1200x' alt='¿Qué hay que ver primero La Casa del Dragón o Juego de Tronos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/trucos-google-maps-deberias-conocer-antes-salir-vacaciones-1393325'>Trucos de Google Maps que deberías conocer antes de salir de vacaciones</a></h4>
+    <a href='https://computerhoy.com/apps/trucos-google-maps-deberias-conocer-antes-salir-vacaciones-1393325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3621742.jpg?tf=1200x' alt='Trucos de Google Maps que deberías conocer antes de salir de vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/presentan-primeros-ssd-externos-usb-4-v2-1392831'>Presentan los primeros SSD externos con USB 4 v2</a></h4>
+    <a href='https://computerhoy.com/tecnologia/presentan-primeros-ssd-externos-usb-4-v2-1392831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asmedia-ha-presentado-primeros-ssd-externos-usb-4-v2-pero-no-llegaran-2025-3599682.jpg?tf=1200x' alt='Presentan los primeros SSD externos con USB 4 v2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/increible-pc-escuelas-coreanas-mataria-cualquier-gamer-1392837'>El increíble PC de las escuelas coreanas por el que mataría cualquier gamer</a></h4>
+    <a href='https://computerhoy.com/tecnologia/increible-pc-escuelas-coreanas-mataria-cualquier-gamer-1392837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/filtran-esperadas-tarjetas-rtx-4070-4060-2988092.jpg?tf=1200x' alt='El increíble PC de las escuelas coreanas por el que mataría cualquier gamer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/patinete-electrico-barato-xiaomi-ahora-cuesta-todavia-menos-no-llega-ni-200-euros-1393417'>El patinete eléctrico más barato de Xiaomi ahora cuesta todavía menos: no llega ni a 200 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/patinete-electrico-barato-xiaomi-ahora-cuesta-todavia-menos-no-llega-ni-200-euros-1393417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-electric-scooter-4-go-3129618.jpg?tf=1200x' alt='El patinete eléctrico más barato de Xiaomi ahora cuesta todavía menos: no llega ni a 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tasa-retencion-iphone-motivo-cual-supera-telefonos-chinos-expertos-1393442'>La 'tasa de retención' del iPhone es el motivo por el cual supera a los teléfonos chinos, según expertos</a></h4>
-    <a href='https://computerhoy.com/apple/tasa-retencion-iphone-motivo-cual-supera-telefonos-chinos-expertos-1393442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iphone-china-3635297.jpg?tf=1200x' alt='La 'tasa de retención' del iPhone es el motivo por el cual supera a los teléfonos chinos, según expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intel-desvela-fin-mayores-misterios-cpu-lunar-lake-1392821'>Intel desvela al fin uno de los mayores misterios de las CPU Lunar Lake</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intel-desvela-fin-mayores-misterios-cpu-lunar-lake-1392821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/intel-ha-aclarado-mayores-misterios-cpu-lunar-lake-3599517.jpg?tf=1200x' alt='Intel desvela al fin uno de los mayores misterios de las CPU Lunar Lake' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-1393125'>Formas de acceder a YouTube, sin entrar en YouTube, evitando todo lo molesto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-1393125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-3610549.jpg?tf=1200x' alt='Formas de acceder a YouTube, sin entrar en YouTube, evitando todo lo molesto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-marcas-agua-pdf-gratis-1393127'>Cómo eliminar marcas de agua de un PDF gratis</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-eliminar-marcas-agua-pdf-gratis-1393127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-eliminar-marcas-agua-pdf-gratis-3610998.jpg?tf=1200x' alt='Cómo eliminar marcas de agua de un PDF gratis' />
     </a>
 </div>
 
