@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-1392731'>HackRF One, la alternativa a Flipper Zero para hackear e interceptar señales de radio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-1392731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-3596445.jpg?tf=1200x' alt='HackRF One, la alternativa a Flipper Zero para hackear e interceptar señales de radio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-1393294'>Por qué envolver el móvil en papel de aluminio cuando hay un botón que hace lo mismo</a></h4>
     <a href='https://computerhoy.com/internet/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-1393294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-3618004.jpg?tf=1200x' alt='Por qué envolver el móvil en papel de aluminio cuando hay un botón que hace lo mismo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724'>Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar</a></h4>
     <a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-store-3594966.jpg?tf=1200x' alt='Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380'>Inventan un filtro que añade visión nocturna a cualquier gafa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inventan-filtro-anade-vision-nocturna-cualquier-gafa-3630957.jpg?tf=1200x' alt='Inventan un filtro que añade visión nocturna a cualquier gafa' />
     </a>
 </div>
 
