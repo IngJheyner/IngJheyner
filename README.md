@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732'>¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras</a></h4>
+    <a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-3596739.jpg?tf=1200x' alt='¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-1392731'>HackRF One, la alternativa a Flipper Zero para hackear e interceptar señales de radio</a></h4>
     <a href='https://computerhoy.com/tecnologia/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-1392731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackrf-one-alternativa-flipper-zero-hackear-interceptar-senales-radio-3596445.jpg?tf=1200x' alt='HackRF One, la alternativa a Flipper Zero para hackear e interceptar señales de radio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381'>Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial</a></h4>
     <a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mars-odyssey-completa-100000-vueltas-marte-celebra-foto-especial-3631253.jpg?tf=1200x' alt='Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724'>Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar</a></h4>
-    <a href='https://computerhoy.com/apple/final-cut-pro-gratis-truco-apple-store-nadie-molesta-evitar-1392724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-store-3594966.jpg?tf=1200x' alt='Final Cut Pro gratis con este truco de las Apple Store que nadie se molesta en evitar' />
     </a>
 </div>
 
