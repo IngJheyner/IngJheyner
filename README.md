@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/como-sabras-ha-llegado-hora-cambiar-router-wifi-1392733'>Así es como sabrás que ha llegado la hora de cambiar tu router WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/como-sabras-ha-llegado-hora-cambiar-router-wifi-1392733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-sabras-ha-llegado-hora-cambiar-router-wifi-3596943.jpg?tf=1200x' alt='Así es como sabrás que ha llegado la hora de cambiar tu router WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-1392612'>Así funciona el gel que puede convertir la vibración del movimiento de los objetos en energía</a></h4>
+    <a href='https://computerhoy.com/ciencia/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-1392612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-3591549.jpg?tf=1200x' alt='Así funciona el gel que puede convertir la vibración del movimiento de los objetos en energía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732'>¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras</a></h4>
     <a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-3596739.jpg?tf=1200x' alt='¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-1393294'>Por qué envolver el móvil en papel de aluminio cuando hay un botón que hace lo mismo</a></h4>
     <a href='https://computerhoy.com/internet/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-1393294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-3618004.jpg?tf=1200x' alt='Por qué envolver el móvil en papel de aluminio cuando hay un botón que hace lo mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/quien-aleksey-pajitnov-creador-tetris-tuvo-esperar-10-anos-ganar-primer-centimo-juego-generaba-millones-1393291'>Quién es Aleksey Pajitnov, el creador de Tetris que tuvo que esperar 10 años para ganar su primer céntimo por un juego que generaba millones</a></h4>
-    <a href='https://computerhoy.com/life/quien-aleksey-pajitnov-creador-tetris-tuvo-esperar-10-anos-ganar-primer-centimo-juego-generaba-millones-1393291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/quien-aleksey-pajitnov-creador-tetris-tuvo-esperar-10-anos-ganar-primer-centimo-juego-generaba-millones-3617290.jpg?tf=1200x' alt='Quién es Aleksey Pajitnov, el creador de Tetris que tuvo que esperar 10 años para ganar su primer céntimo por un juego que generaba millones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381'>Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial</a></h4>
-    <a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mars-odyssey-completa-100000-vueltas-marte-celebra-foto-especial-3631253.jpg?tf=1200x' alt='Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial' />
     </a>
 </div>
 
