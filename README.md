@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/paises-incluye-cada-zona-roaming-vodafone-1392816'>Qué países incluye cada zona de roaming con Vodafone</a></h4>
-    <a href='https://computerhoy.com/internet/paises-incluye-cada-zona-roaming-vodafone-1392816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vodafone-roaming-3599848.jpg?tf=1200x' alt='Qué países incluye cada zona de roaming con Vodafone' />
+    <h4><a href='https://computerhoy.com/pc/atajos-cosas-sorprendentes-puedes-hacer-touchpad-portatil-windows-11-1392251'>Atajos y cosas sorprendentes que puedes hacer con el touchpad de tu portátil en Windows 11</a></h4>
+    <a href='https://computerhoy.com/pc/atajos-cosas-sorprendentes-puedes-hacer-touchpad-portatil-windows-11-1392251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/atajos-cosas-sorprendentes-puedes-hacer-touchpad-portatil-windows-11-3566358.jpg?tf=1200x' alt='Atajos y cosas sorprendentes que puedes hacer con el touchpad de tu portátil en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/usas-buzon-voz-movil-pues-cuidado-estafa-alertan-expertos-1393458'>¿Usas el buzón de voz del móvil? Pues cuidado con esta estafa sobre la que alertan los expertos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/usas-buzon-voz-movil-pues-cuidado-estafa-alertan-expertos-1393458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/usas-buzon-voz-movil-pues-cuidado-estafa-alertan-expertos-3635516.jpg?tf=1200x' alt='¿Usas el buzón de voz del móvil? Pues cuidado con esta estafa sobre la que alertan los expertos' />
+    <h4><a href='https://computerhoy.com/tecnologia/estas-son-razones-ia-reemplazando-humanos-rapido-pensaba-1393475'>Estas son las razones por las que la IA está reemplazando a humanos más rápido de lo que se pensaba</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-son-razones-ia-reemplazando-humanos-rapido-pensaba-1393475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estas-son-razones-ia-reemplazando-humanos-rapido-pensaba-3635777.jpg?tf=1200x' alt='Estas son las razones por las que la IA está reemplazando a humanos más rápido de lo que se pensaba' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/hay-ver-primero-casa-dragon-juego-tronos-1393486'>¿Qué hay que ver primero La Casa del Dragón o Juego de Tronos?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/hay-ver-primero-casa-dragon-juego-tronos-1393486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hay-ver-primero-casa-dragon-juego-tronos-3635998.jpg?tf=1200x' alt='¿Qué hay que ver primero La Casa del Dragón o Juego de Tronos?' />
+    <h4><a href='https://computerhoy.com/internet/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-1392890'>Encuentra una memoria USB en un tren con la pegatina ''gratis para compartir'' y se llevó tal chasco que decidió tirarlo</a></h4>
+    <a href='https://computerhoy.com/internet/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-1392890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/encuentra-memoria-usb-tren-pegatina-gratis-compartir-llevo-tal-chasco-decidio-tirarlo-3601031.jpg?tf=1200x' alt='Encuentra una memoria USB en un tren con la pegatina ''gratis para compartir'' y se llevó tal chasco que decidió tirarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/trucos-google-maps-deberias-conocer-antes-salir-vacaciones-1393325'>Trucos de Google Maps que deberías conocer antes de salir de vacaciones</a></h4>
-    <a href='https://computerhoy.com/apps/trucos-google-maps-deberias-conocer-antes-salir-vacaciones-1393325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3621742.jpg?tf=1200x' alt='Trucos de Google Maps que deberías conocer antes de salir de vacaciones' />
+    <h4><a href='https://computerhoy.com/pc/no-compres-pc-snapdragon-x-elite-vas-jugar-videojuegos-1393372'>No compres un PC con Snapdragon X Elite, si vas a jugar a videojuegos</a></h4>
+    <a href='https://computerhoy.com/pc/no-compres-pc-snapdragon-x-elite-vas-jugar-videojuegos-1393372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nuevos-snapdragon-x-elite-plus-portatiles-potentes-apple-m3-ia-rapida-3303520.jpg?tf=1200x' alt='No compres un PC con Snapdragon X Elite, si vas a jugar a videojuegos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/presentan-primeros-ssd-externos-usb-4-v2-1392831'>Presentan los primeros SSD externos con USB 4 v2</a></h4>
-    <a href='https://computerhoy.com/tecnologia/presentan-primeros-ssd-externos-usb-4-v2-1392831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asmedia-ha-presentado-primeros-ssd-externos-usb-4-v2-pero-no-llegaran-2025-3599682.jpg?tf=1200x' alt='Presentan los primeros SSD externos con USB 4 v2' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-pretende-cambiarlo-todo-nueva-inteligencia-artificial-capaz-derrotar-chatgpt-1392771'>Amazon pretende cambiarlo todo con una nueva inteligencia artificial capaz de derrotar a ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-pretende-cambiarlo-todo-nueva-inteligencia-artificial-capaz-derrotar-chatgpt-1392771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amazon-pretende-cambiarlo-todo-nueva-inteligencia-artificial-capaz-derrotar-chatgpt-3598394.jpg?tf=1200x' alt='Amazon pretende cambiarlo todo con una nueva inteligencia artificial capaz de derrotar a ChatGPT' />
     </a>
 </div>
 
