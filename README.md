@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/sabe-terminator-zero-serie-netflix-volvera-raices-saga-1392654'>Qué se sabe de Terminator Zero, la serie de Netflix que volverá a las raíces de la saga</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/sabe-terminator-zero-serie-netflix-volvera-raices-saga-1392654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sabe-terminator-zero-serie-netflix-volvera-raices-saga-3592175.jpg?tf=1200x' alt='Qué se sabe de Terminator Zero, la serie de Netflix que volverá a las raíces de la saga' />
+    <h4><a href='https://computerhoy.com/espacio/cohete-espacial-chino-estrella-space-pioneer-1393575'>Un cohete espacial chino despega sin querer y se estrella, provocando el pánico</a></h4>
+    <a href='https://computerhoy.com/espacio/cohete-espacial-chino-estrella-space-pioneer-1393575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-espacial-chino-despega-querer-provocando-panico-3638307.jpg?tf=1200x' alt='Un cohete espacial chino despega sin querer y se estrella, provocando el pánico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-usar-discord-como-aplicacion-ver-peliculas-1393530'>Cómo usar Discord como aplicación para ver películas</a></h4>
-    <a href='https://computerhoy.com/apps/como-usar-discord-como-aplicacion-ver-peliculas-1393530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-usar-discord-como-aplicacion-ver-peliculas-3637424.jpg?tf=1200x' alt='Cómo usar Discord como aplicación para ver películas' />
+    <h4><a href='https://computerhoy.com/apple/gran-novedad-apple-watch-x-pantalla-gigante-revelada-imagenes-1393574'>La gran novedad del Apple Watch X: su pantalla gigante revelada en imágenes</a></h4>
+    <a href='https://computerhoy.com/apple/gran-novedad-apple-watch-x-pantalla-gigante-revelada-imagenes-1393574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187116.jpg?tf=1200x' alt='La gran novedad del Apple Watch X: su pantalla gigante revelada en imágenes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/te-mudaste-windows-11-piensa-fallo-provoca-notificaciones-cambio-zona-horaria-1393341'>¿Te mudaste? Windows 11 piensa que sí: un fallo provoca notificaciones de cambio de zona horaria</a></h4>
-    <a href='https://computerhoy.com/windows/te-mudaste-windows-11-piensa-fallo-provoca-notificaciones-cambio-zona-horaria-1393341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-hora-3623202.jpg?tf=1200x' alt='¿Te mudaste? Windows 11 piensa que sí: un fallo provoca notificaciones de cambio de zona horaria' />
+    <h4><a href='https://computerhoy.com/apps/airbnb-pone-fin-fiestas-no-autorizadas-verano-tecnologia-prevencion-1393572'>Airbnb pone fin a las fiestas no autorizadas este verano con su tecnología de prevención</a></h4>
+    <a href='https://computerhoy.com/apps/airbnb-pone-fin-fiestas-no-autorizadas-verano-tecnologia-prevencion-1393572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/airbnb-3638456.jpg?tf=1200x' alt='Airbnb pone fin a las fiestas no autorizadas este verano con su tecnología de prevención' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/proximos-airpods-apple-camaras-infrarrojos-1393559'>Los próximos AirPods de Apple tendrán cámaras, pero no como crees</a></h4>
-    <a href='https://computerhoy.com/apple/proximos-airpods-apple-camaras-infrarrojos-1393559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/airpods-iphone-3130548.jpg?tf=1200x' alt='Los próximos AirPods de Apple tendrán cámaras, pero no como crees' />
+    <h4><a href='https://computerhoy.com/moviles/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-1392923'>Desactivé esta función de mi móvil Xiaomi, que no sirve para nada y ahora vuela, ha rejuvenecido al instante</a></h4>
+    <a href='https://computerhoy.com/moviles/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-1392923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-3602125.jpg?tf=1200x' alt='Desactivé esta función de mi móvil Xiaomi, que no sirve para nada y ahora vuela, ha rejuvenecido al instante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/fraude-diesel-no-deja-crecer-gasolineras-low-cost-1392698'>¿Por qué el “fraude del diésel” no deja de crecer en las gasolineras low cost?</a></h4>
-    <a href='https://computerhoy.com/motor/fraude-diesel-no-deja-crecer-gasolineras-low-cost-1392698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/persona-echando-gasolina-coche-senal-peligro-3600033.jpg?tf=1200x' alt='¿Por qué el “fraude del diésel” no deja de crecer en las gasolineras low cost?' />
+    <h4><a href='https://computerhoy.com/tecnologia/descubre-secretos-ocultos-electrodomesticos-funcion-inesperada-chatgpt-1393571'>Descubre secretos ocultos de tus electrodomésticos con una función inesperada de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/descubre-secretos-ocultos-electrodomesticos-funcion-inesperada-chatgpt-1393571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/descubre-secretos-ocultos-electrodomesticos-funcion-inesperada-chatgpt-3638398.jpg?tf=1200x' alt='Descubre secretos ocultos de tus electrodomésticos con una función inesperada de ChatGPT' />
     </a>
 </div>
 
