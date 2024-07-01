@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/9-apps-steam-han-transformado-mi-pc-gaming-1393491'>Las 9 apps de Steam que han transformado mi PC para gaming</a></h4>
-    <a href='https://computerhoy.com/gaming/9-apps-steam-han-transformado-mi-pc-gaming-1393491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/9-apps-steam-han-transformado-mi-pc-gaming-3636155.jpg?tf=1200x' alt='Las 9 apps de Steam que han transformado mi PC para gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/paises-incluye-cada-zona-roaming-vodafone-1392816'>Qué países incluye cada zona de roaming con Vodafone</a></h4>
     <a href='https://computerhoy.com/internet/paises-incluye-cada-zona-roaming-vodafone-1392816' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vodafone-roaming-3599848.jpg?tf=1200x' alt='Qué países incluye cada zona de roaming con Vodafone' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.com/apps/trucos-google-maps-deberias-conocer-antes-salir-vacaciones-1393325'>Trucos de Google Maps que deberías conocer antes de salir de vacaciones</a></h4>
     <a href='https://computerhoy.com/apps/trucos-google-maps-deberias-conocer-antes-salir-vacaciones-1393325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3621742.jpg?tf=1200x' alt='Trucos de Google Maps que deberías conocer antes de salir de vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/presentan-primeros-ssd-externos-usb-4-v2-1392831'>Presentan los primeros SSD externos con USB 4 v2</a></h4>
+    <a href='https://computerhoy.com/tecnologia/presentan-primeros-ssd-externos-usb-4-v2-1392831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asmedia-ha-presentado-primeros-ssd-externos-usb-4-v2-pero-no-llegaran-2025-3599682.jpg?tf=1200x' alt='Presentan los primeros SSD externos con USB 4 v2' />
     </a>
 </div>
 
