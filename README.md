@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-salir-garras-google-no-morir-intento-1393405'>Cómo salir de las garras de Google y no morir en el intento</a></h4>
-    <a href='https://computerhoy.com/google/como-salir-garras-google-no-morir-intento-1393405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-salir-garras-google-no-morir-intento-3634661.jpg?tf=1200x' alt='Cómo salir de las garras de Google y no morir en el intento' />
+    <h4><a href='https://computerhoy.com/apps/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-1393427'>Tu aliado contra el impredecible clima en España: una app del tiempo gratuita con radar y cámaras en tiempo real</a></h4>
+    <a href='https://computerhoy.com/apps/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-1393427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-3635040.jpg?tf=1200x' alt='Tu aliado contra el impredecible clima en España: una app del tiempo gratuita con radar y cámaras en tiempo real' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/razon-facil-te-hackeen-movil-vacaciones-pero-puedes-evitarlo-1391647'>Esta es la razón por la que es más fácil que te hackeen el móvil en vacaciones, pero puedes evitarlo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/razon-facil-te-hackeen-movil-vacaciones-pero-puedes-evitarlo-1391647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chica-mirando-movil-playa-3614091.jpg?tf=1200x' alt='Esta es la razón por la que es más fácil que te hackeen el móvil en vacaciones, pero puedes evitarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/guia-paso-paso-encontrar-trabajo-chatgpt-1392773'>Guía paso a paso para encontrar trabajo con ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guia-paso-paso-encontrar-trabajo-chatgpt-1392773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-ayuda-trabajo-3598559.jpg?tf=1200x' alt='Guía paso a paso para encontrar trabajo con ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/pequenas-esferas-usan-luz-solar-artificial-superando-paneles-solares-alcanzando-60-veces-capacidad-1393402'>Las pequeñas esferas que usan luz solar y artificial, superando a los paneles solares y alcanzando 60 veces su capacidad</a></h4>
-    <a href='https://computerhoy.com/energia/pequenas-esferas-usan-luz-solar-artificial-superando-paneles-solares-alcanzando-60-veces-capacidad-1393402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/esferas-generar-electricidad-3634660.jpg?tf=1200x' alt='Las pequeñas esferas que usan luz solar y artificial, superando a los paneles solares y alcanzando 60 veces su capacidad' />
+    <h4><a href='https://computerhoy.com/tecnologia/muy-facil-hacer-jailbreak-modelos-ia-obtener-informacion-peligrosa-como-construir-cocteles-molotov-1393410'>Es muy fácil hacer 'jailbreak' a modelos de IA para obtener información peligrosa, como construir cócteles Molotov</a></h4>
+    <a href='https://computerhoy.com/tecnologia/muy-facil-hacer-jailbreak-modelos-ia-obtener-informacion-peligrosa-como-construir-cocteles-molotov-1393410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ia-defectuosa-3634827.jpg?tf=1200x' alt='Es muy fácil hacer 'jailbreak' a modelos de IA para obtener información peligrosa, como construir cócteles Molotov' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puede-ser-mejor-movil-barato-xiaomi-ahora-cuesta-apenas-150-euros-1393407'>Puede ser el mejor móvil barato de Xiaomi y ahora cuesta apenas 150 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puede-ser-mejor-movil-barato-xiaomi-ahora-cuesta-apenas-150-euros-1393407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/redmi-note-12-3634658.jpg?tf=1200x' alt='Puede ser el mejor móvil barato de Xiaomi y ahora cuesta apenas 150 euros' />
+    <h4><a href='https://computerhoy.com/life/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-1390985'>Estas son las razones por las que Finlandia es el país más feliz del mundo (y España nunca podrá serlo)</a></h4>
+    <a href='https://computerhoy.com/life/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-1390985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-3507532.jpg?tf=1200x' alt='Estas son las razones por las que Finlandia es el país más feliz del mundo (y España nunca podrá serlo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/adios-google-maps-waze-app-mapas-inteligencia-artificial-me-tiene-fascinado-1392935'>Adiós a Google Maps y Waze, esta app de mapas con inteligencia artificial me tiene fascinado</a></h4>
-    <a href='https://computerhoy.com/internet/adios-google-maps-waze-app-mapas-inteligencia-artificial-me-tiene-fascinado-1392935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/adios-google-maps-waze-app-mapas-inteligencia-artificial-me-tiene-fascinado-3602576.jpg?tf=1200x' alt='Adiós a Google Maps y Waze, esta app de mapas con inteligencia artificial me tiene fascinado' />
+    <h4><a href='https://computerhoy.com/tecnologia/critica-machaca-primer-anuncio-toyrus-hecho-sora-ia-openai-pero-futuro-1393306'>La crítica machaca el primer anuncio de Toy"R"Us hecho con Sora, la IA de OpenAI, pero es el futuro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/critica-machaca-primer-anuncio-toyrus-hecho-sora-ia-openai-pero-futuro-1393306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/critica-machaca-primer-anuncio-toyrus-hecho-sora-ia-openai-pero-futuro-3620000.jpg?tf=1200x' alt='La crítica machaca el primer anuncio de Toy"R"Us hecho con Sora, la IA de OpenAI, pero es el futuro' />
     </a>
 </div>
 
