@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/version-china-her-haciendo-mujeres-enamoren-ia-1392465'>La versión china de “Her”, que está haciendo que las mujeres se enamoren de una IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/version-china-her-haciendo-mujeres-enamoren-ia-1392465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/version-china-her-haciendo-mujeres-asiaticas-enamoren-ia-3585002.jpg?tf=1200x' alt='La versión china de “Her”, que está haciendo que las mujeres se enamoren de una IA' />
+    <h4><a href='https://computerhoy.com/life/hacienda-multara-hoy-carta-todos-no-hayan-hecho-tramite-1393155'>Hacienda multará desde hoy por carta a todos los que no hayan hecho este trámite</a></h4>
+    <a href='https://computerhoy.com/life/hacienda-multara-hoy-carta-todos-no-hayan-hecho-tramite-1393155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacienda-3613784.jpg?tf=1200x' alt='Hacienda multará desde hoy por carta a todos los que no hayan hecho este trámite' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/3-metodos-efectivos-eliminar-impresora-pc-windows-11-1360945'>3 métodos efectivos para eliminar una impresora de tu PC con Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/3-metodos-efectivos-eliminar-impresora-pc-windows-11-1360945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/3-metodos-efectivos-eliminar-impresora-pc-windows-11-3267983.jpg?tf=1200x' alt='3 métodos efectivos para eliminar una impresora de tu PC con Windows 11' />
+    <h4><a href='https://computerhoy.com/moviles/movil-hace-retratos-parecidos-fotos-estudio-no-iphone-ni-vale-1000-euros-1392993'>Este es el móvil que hace retratos más parecidos a las fotos de estudio (y no es un iPhone ni vale 1.000 euros)</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-hace-retratos-parecidos-fotos-estudio-no-iphone-ni-vale-1000-euros-1392993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3607179.jpg?tf=1200x' alt='Este es el móvil que hace retratos más parecidos a las fotos de estudio (y no es un iPhone ni vale 1.000 euros)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/como-sabras-ha-llegado-hora-cambiar-router-wifi-1392733'>Así es como sabrás que ha llegado la hora de cambiar tu router WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/como-sabras-ha-llegado-hora-cambiar-router-wifi-1392733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-sabras-ha-llegado-hora-cambiar-router-wifi-3596943.jpg?tf=1200x' alt='Así es como sabrás que ha llegado la hora de cambiar tu router WiFi' />
+    <h4><a href='https://computerhoy.com/moviles/mejor-vivo-v40-5g-modo-fotografia-retrato-1392981'>Lo mejor del Vivo V40 5G es su modo de fotografía retrato, a la altura de los más caros</a></h4>
+    <a href='https://computerhoy.com/moviles/mejor-vivo-v40-5g-modo-fotografia-retrato-1392981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vivo-v40-5g-3584174.jpg?tf=1200x' alt='Lo mejor del Vivo V40 5G es su modo de fotografía retrato, a la altura de los más caros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-1392612'>Así funciona el gel que puede convertir la vibración del movimiento de los objetos en energía</a></h4>
-    <a href='https://computerhoy.com/ciencia/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-1392612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/funciona-gel-puede-convertir-vibracion-movimiento-objetos-energia-3591549.jpg?tf=1200x' alt='Así funciona el gel que puede convertir la vibración del movimiento de los objetos en energía' />
+    <h4><a href='https://computerhoy.com/moviles/llevo-8-anos-probando-moviles-creo-zoom-empeorando-gama-alta-1393033'>Llevo 8 años probando móviles y creo que el zoom está empeorando en la gama alta</a></h4>
+    <a href='https://computerhoy.com/moviles/llevo-8-anos-probando-moviles-creo-zoom-empeorando-gama-alta-1393033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-s24-ultra-3272876.jpg?tf=1200x' alt='Llevo 8 años probando móviles y creo que el zoom está empeorando en la gama alta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732'>¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras</a></h4>
-    <a href='https://computerhoy.com/internet/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-1392732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apagon-iptv-13-millones-usuarios-futbol-pirata-han-quedado-oscuras-3596739.jpg?tf=1200x' alt='¡Apagón IPTV! Más de 1,3 millones de usuarios de fútbol pirata se han quedado a oscuras' />
+    <h4><a href='https://computerhoy.com/life/compra-vasija-cuatro-dolares-resulta-ser-tesoro-maya-1393300'>Compra una vasija por cuatro dólares, y resulta ser un tesoro maya</a></h4>
+    <a href='https://computerhoy.com/life/compra-vasija-cuatro-dolares-resulta-ser-tesoro-maya-1393300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/compra-vasija-cuatro-dolares-resulta-ser-valioso-tesoro-maya-3619429.jpg?tf=1200x' alt='Compra una vasija por cuatro dólares, y resulta ser un tesoro maya' />
     </a>
 </div>
 
