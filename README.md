@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/laliga-va-usuarios-ven-futbol-pirata-exige-pago-450-euros-no-quieren-ir-juicio-1392797'>LaLiga va a por los usuarios que ven fútbol pirata y exige un pago de 450 euros si no quieren ir a juicio</a></h4>
-    <a href='https://computerhoy.com/internet/laliga-va-usuarios-ven-futbol-pirata-exige-pago-450-euros-no-quieren-ir-juicio-1392797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/futbol-pirata-3598725.jpg?tf=1200x' alt='LaLiga va a por los usuarios que ven fútbol pirata y exige un pago de 450 euros si no quieren ir a juicio' />
+    <h4><a href='https://computerhoy.com/tecnologia/patinete-electrico-barato-xiaomi-ahora-cuesta-todavia-menos-no-llega-ni-200-euros-1393417'>El patinete eléctrico más barato de Xiaomi ahora cuesta todavía menos: no llega ni a 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/patinete-electrico-barato-xiaomi-ahora-cuesta-todavia-menos-no-llega-ni-200-euros-1393417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-electric-scooter-4-go-3129618.jpg?tf=1200x' alt='El patinete eléctrico más barato de Xiaomi ahora cuesta todavía menos: no llega ni a 200 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-1393443'>Cómo una foto en WhatsApp puede revelar tu ubicación y las medidas para protegerte eficazmente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-1393443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-3635361.jpg?tf=1200x' alt='Cómo una foto en WhatsApp puede revelar tu ubicación y las medidas para protegerte eficazmente' />
+    <h4><a href='https://computerhoy.com/apple/tasa-retencion-iphone-motivo-cual-supera-telefonos-chinos-expertos-1393442'>La 'tasa de retención' del iPhone es el motivo por el cual supera a los teléfonos chinos, según expertos</a></h4>
+    <a href='https://computerhoy.com/apple/tasa-retencion-iphone-motivo-cual-supera-telefonos-chinos-expertos-1393442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iphone-china-3635297.jpg?tf=1200x' alt='La 'tasa de retención' del iPhone es el motivo por el cual supera a los teléfonos chinos, según expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mejor-teclado-escribir-movil-revelado-estudio-1393432'>Este es el mejor teclado para escribir en el móvil revelado por un estudio</a></h4>
-    <a href='https://computerhoy.com/moviles/mejor-teclado-escribir-movil-revelado-estudio-1393432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teclado-movil-3635140.jpg?tf=1200x' alt='Este es el mejor teclado para escribir en el móvil revelado por un estudio' />
+    <h4><a href='https://computerhoy.com/tecnologia/intel-desvela-fin-mayores-misterios-cpu-lunar-lake-1392821'>Intel desvela al fin uno de los mayores misterios de las CPU Lunar Lake</a></h4>
+    <a href='https://computerhoy.com/tecnologia/intel-desvela-fin-mayores-misterios-cpu-lunar-lake-1392821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/intel-ha-aclarado-mayores-misterios-cpu-lunar-lake-3599517.jpg?tf=1200x' alt='Intel desvela al fin uno de los mayores misterios de las CPU Lunar Lake' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/electricidad-usa-ia-google-podrian-cargarse-siete-coches-electricos-1393399'>Con la electricidad que usa la IA de Google podrían cargarse siete coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/electricidad-usa-ia-google-podrian-cargarse-siete-coches-electricos-1393399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-chrome-ia-3386891.jpg?tf=1200x' alt='Con la electricidad que usa la IA de Google podrían cargarse siete coches eléctricos' />
+    <h4><a href='https://computerhoy.com/tutoriales/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-1393125'>Formas de acceder a YouTube, sin entrar en YouTube, evitando todo lo molesto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-1393125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-3610549.jpg?tf=1200x' alt='Formas de acceder a YouTube, sin entrar en YouTube, evitando todo lo molesto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/cache-dns-windows-11-como-eliminarla-mejorar-conexion-instante-1392944'>Qué es la caché DNS de Windows 11 y cómo eliminarla para mejorar tu conexión al instante</a></h4>
-    <a href='https://computerhoy.com/tutoriales/cache-dns-windows-11-como-eliminarla-mejorar-conexion-instante-1392944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cache-dns-windows-11-como-eliminarla-mejorar-conexion-instante-3603930.jpg?tf=1200x' alt='Qué es la caché DNS de Windows 11 y cómo eliminarla para mejorar tu conexión al instante' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-marcas-agua-pdf-gratis-1393127'>Cómo eliminar marcas de agua de un PDF gratis</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-eliminar-marcas-agua-pdf-gratis-1393127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-eliminar-marcas-agua-pdf-gratis-3610998.jpg?tf=1200x' alt='Cómo eliminar marcas de agua de un PDF gratis' />
     </a>
 </div>
 
