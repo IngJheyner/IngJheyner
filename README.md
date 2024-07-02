@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/avisa-no-uses-contrasena-inicio-sesion-windows-10-11-microsoft-1390016'>Microsoft avisa: "No uses contraseña para iniciar sesión en Windows 10 y 11"</a></h4>
-    <a href='https://computerhoy.com/avisa-no-uses-contrasena-inicio-sesion-windows-10-11-microsoft-1390016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/passkeys-microsoft-3307510.jpg?tf=1200x' alt='Microsoft avisa: "No uses contraseña para iniciar sesión en Windows 10 y 11"' />
+    <h4><a href='https://computerhoy.com/analisis/huawei-matepad-11-5-s-papermatte-edition-analisis-opinion-1392514'>Huawei MatePad 11.5" S tiene una pantalla antirreflejos, perfecta para dibujar y escribir y quiero que más tablets lo copien</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-matepad-11-5-s-papermatte-edition-analisis-opinion-1392514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/huawei-matepad-115s-3634641.jpg?tf=1200x' alt='Huawei MatePad 11.5" S tiene una pantalla antirreflejos, perfecta para dibujar y escribir y quiero que más tablets lo copien' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/truco-mando-enfriar-coche-rapido-casi-nadie-usa-1113133'>El truco del mando para enfriar el coche más rápido y que casi nadie usa</a></h4>
-    <a href='https://computerhoy.com/motor/truco-mando-enfriar-coche-rapido-casi-nadie-usa-1113133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/truco-mando-enfriar-coche-rapido-sorprendentemente-casi-nadie-usa-2792617.jpg?tf=1200x' alt='El truco del mando para enfriar el coche más rápido y que casi nadie usa' />
+    <h4><a href='https://computerhoy.com/moviles/movil-hace-retratos-parecidos-fotos-estudio-no-iphone-ni-vale-1000-euros-1392993'>Este es el móvil que hace retratos más parecidos a las fotos de estudio (y no es un iPhone ni vale 1.000 euros)</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-hace-retratos-parecidos-fotos-estudio-no-iphone-ni-vale-1000-euros-1392993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3607179.jpg?tf=1200x' alt='Este es el móvil que hace retratos más parecidos a las fotos de estudio (y no es un iPhone ni vale 1.000 euros)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ponen-fecha-nueva-generacion-ia-sera-10000-veces-inteligente-humanos-1392828'>Ponen fecha a la nueva generación de IA: “será 10.000 veces más inteligente que los humanos”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ponen-fecha-nueva-generacion-ia-sera-10000-veces-inteligente-humanos-1392828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/japones-pone-fecha-nueva-ia-sera-10000-veces-inteligente-humanos-3599674.jpg?tf=1200x' alt='Ponen fecha a la nueva generación de IA: “será 10.000 veces más inteligente que los humanos”' />
+    <h4><a href='https://computerhoy.com/moviles/llevo-8-anos-probando-moviles-creo-zoom-empeorando-gama-alta-1393033'>Llevo 8 años probando móviles y creo que el zoom está empeorando en la gama alta</a></h4>
+    <a href='https://computerhoy.com/moviles/llevo-8-anos-probando-moviles-creo-zoom-empeorando-gama-alta-1393033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-s24-ultra-3272876.jpg?tf=1200x' alt='Llevo 8 años probando móviles y creo que el zoom está empeorando en la gama alta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/3-metodos-efectivos-eliminar-impresora-pc-windows-11-1360945'>3 métodos efectivos para eliminar una impresora de tu PC con Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/3-metodos-efectivos-eliminar-impresora-pc-windows-11-1360945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/3-metodos-efectivos-eliminar-impresora-pc-windows-11-3267983.jpg?tf=1200x' alt='3 métodos efectivos para eliminar una impresora de tu PC con Windows 11' />
+    <h4><a href='https://computerhoy.com/gaming/steam-17700-millones-euros-juegos-no-jugados-1393590'>Lo usuarios de Steam se han gastado 17.700 millones de euros en juegos que no han jugado</a></h4>
+    <a href='https://computerhoy.com/gaming/steam-17700-millones-euros-juegos-no-jugados-1393590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/usuarios-steam-han-gastado-17700-millones-euros-juegos-no-han-jugado-3639562.jpg?tf=1200x' alt='Lo usuarios de Steam se han gastado 17.700 millones de euros en juegos que no han jugado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/brujula-no-tiene-norte-pero-marca-camino-cualquier-destino-1392945'>Esta brújula no tiene Norte, pero marca el camino a cualquier destino </a></h4>
-    <a href='https://computerhoy.com/tecnologia/brujula-no-tiene-norte-pero-marca-camino-cualquier-destino-1392945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1719449167281-3603781.jpg?tf=1200x' alt='Esta brújula no tiene Norte, pero marca el camino a cualquier destino ' />
+    <h4><a href='https://computerhoy.com/apps/no-medico-cabecera-pero-chatbot-ia-whatsapp-te-dice-todo-medicamentos-1390121'>No es el médico de cabecera, pero este chatbot de IA en WhatsApp te dice todo sobre tus medicamentos</a></h4>
+    <a href='https://computerhoy.com/apps/no-medico-cabecera-pero-chatbot-ia-whatsapp-te-dice-todo-medicamentos-1390121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatbot-whatsapp-inteligencia-artificial-medicamento-3543011.jpg?tf=1200x' alt='No es el médico de cabecera, pero este chatbot de IA en WhatsApp te dice todo sobre tus medicamentos' />
     </a>
 </div>
 
