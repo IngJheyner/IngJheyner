@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/avisa-no-uses-contrasena-inicio-sesion-windows-10-11-microsoft-1390016'>Microsoft avisa: "No uses contraseña para iniciar sesión en Windows 10 y 11"</a></h4>
+    <a href='https://computerhoy.com/avisa-no-uses-contrasena-inicio-sesion-windows-10-11-microsoft-1390016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/passkeys-microsoft-3307510.jpg?tf=1200x' alt='Microsoft avisa: "No uses contraseña para iniciar sesión en Windows 10 y 11"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/truco-mando-enfriar-coche-rapido-casi-nadie-usa-1113133'>El truco del mando para enfriar el coche más rápido y que casi nadie usa</a></h4>
+    <a href='https://computerhoy.com/motor/truco-mando-enfriar-coche-rapido-casi-nadie-usa-1113133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/truco-mando-enfriar-coche-rapido-sorprendentemente-casi-nadie-usa-2792617.jpg?tf=1200x' alt='El truco del mando para enfriar el coche más rápido y que casi nadie usa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ponen-fecha-nueva-generacion-ia-sera-10000-veces-inteligente-humanos-1392828'>Ponen fecha a la nueva generación de IA: “será 10.000 veces más inteligente que los humanos”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ponen-fecha-nueva-generacion-ia-sera-10000-veces-inteligente-humanos-1392828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/japones-pone-fecha-nueva-ia-sera-10000-veces-inteligente-humanos-3599674.jpg?tf=1200x' alt='Ponen fecha a la nueva generación de IA: “será 10.000 veces más inteligente que los humanos”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/3-metodos-efectivos-eliminar-impresora-pc-windows-11-1360945'>3 métodos efectivos para eliminar una impresora de tu PC con Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/3-metodos-efectivos-eliminar-impresora-pc-windows-11-1360945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/3-metodos-efectivos-eliminar-impresora-pc-windows-11-3267983.jpg?tf=1200x' alt='3 métodos efectivos para eliminar una impresora de tu PC con Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/brujula-no-tiene-norte-pero-marca-camino-cualquier-destino-1392945'>Esta brújula no tiene Norte, pero marca el camino a cualquier destino </a></h4>
     <a href='https://computerhoy.com/tecnologia/brujula-no-tiene-norte-pero-marca-camino-cualquier-destino-1392945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1719449167281-3603781.jpg?tf=1200x' alt='Esta brújula no tiene Norte, pero marca el camino a cualquier destino ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cuanto-cuesta-atasco-trafico-cifra-te-dejara-tan-parado-como-coche-operacion-salida-1392857'>¿Cuánto cuesta un atasco de tráfico? La cifra te dejará tan parado como tu coche en la operación salida</a></h4>
-    <a href='https://computerhoy.com/motor/cuanto-cuesta-atasco-trafico-cifra-te-dejara-tan-parado-como-coche-operacion-salida-1392857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conductor-enfadado-3600354.jpg?tf=1200x' alt='¿Cuánto cuesta un atasco de tráfico? La cifra te dejará tan parado como tu coche en la operación salida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/isp-instalo-malware-600000-clientes-bloquear-archivos-torrent-1392937'>Un ISP instaló malware a 600.000 clientes para bloquear los archivos Torrent</a></h4>
-    <a href='https://computerhoy.com/internet/isp-instalo-malware-600000-clientes-bloquear-archivos-torrent-1392937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/isp-instalo-malware-ordenadores-clientes-bloquear-ficheros-torrent-3602725.jpg?tf=1200x' alt='Un ISP instaló malware a 600.000 clientes para bloquear los archivos Torrent' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/bill-gates-dice-no-debemos-preocuparnos-consumo-energetico-ia-1393578'>Bill Gates dice que "no debemos preocuparnos del consumo eléctrico de la IA"</a></h4>
-    <a href='https://computerhoy.com/energia/bill-gates-dice-no-debemos-preocuparnos-consumo-energetico-ia-1393578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bill-gates-2919658.jpg?tf=1200x' alt='Bill Gates dice que "no debemos preocuparnos del consumo eléctrico de la IA"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381'>Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial</a></h4>
-    <a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mars-odyssey-completa-100000-vueltas-marte-celebra-foto-especial-3631253.jpg?tf=1200x' alt='Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial' />
     </a>
 </div>
 
