@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/bill-gates-dice-no-debemos-preocuparnos-consumo-energetico-ia-1393578'>Bill Gates dice que "no debemos preocuparnos por el consumo eléctrico de la IA"</a></h4>
+    <a href='https://computerhoy.com/energia/bill-gates-dice-no-debemos-preocuparnos-consumo-energetico-ia-1393578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bill-gates-2919658.jpg?tf=1200x' alt='Bill Gates dice que "no debemos preocuparnos por el consumo eléctrico de la IA"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/honeypot-trampa-saber-ves-futbol-gratis-iptv-1393114'>Qué es un Honeypot, la trampa para saber que ves el fútbol gratis por IPTV</a></h4>
+    <a href='https://computerhoy.com/internet/honeypot-trampa-saber-ves-futbol-gratis-iptv-1393114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honeypot-trampa-saber-ves-futbol-gratis-iptv-3610091.jpg?tf=1200x' alt='Qué es un Honeypot, la trampa para saber que ves el fútbol gratis por IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381'>Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial</a></h4>
+    <a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mars-odyssey-completa-100000-vueltas-marte-celebra-foto-especial-3631253.jpg?tf=1200x' alt='Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-gaming-zone-tienda-3d-videojuegos-1393791'>Las tiendas físicas de videojuegos están muriendo, así que Amazon se inventa las tiendas físicas virtuales</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-gaming-zone-tienda-3d-videojuegos-1393791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tiendas-fisicas-videojuegos-estan-muriendo-amazon-inventa-tiendas-fisicas-virtuales-3645738.jpg?tf=1200x' alt='Las tiendas físicas de videojuegos están muriendo, así que Amazon se inventa las tiendas físicas virtuales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/trucos-avalados-banco-espana-saber-moneda-falsa-1393776'>Trucos avalados por el Banco de España para saber si una moneda es falsa</a></h4>
     <a href='https://computerhoy.com/life/trucos-avalados-banco-espana-saber-moneda-falsa-1393776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trucos-avalados-banco-espana-saber-moneda-falsa-3645737.jpg?tf=1200x' alt='Trucos avalados por el Banco de España para saber si una moneda es falsa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380'>Inventan un filtro que añade visión nocturna a cualquier gafa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inventan-filtro-anade-vision-nocturna-cualquier-gafa-3630957.jpg?tf=1200x' alt='Inventan un filtro que añade visión nocturna a cualquier gafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cohete-espacial-chino-estrella-space-pioneer-1393575'>Un cohete espacial chino despega sin querer y se estrella, provocando el pánico</a></h4>
-    <a href='https://computerhoy.com/espacio/cohete-espacial-chino-estrella-space-pioneer-1393575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-espacial-chino-despega-querer-provocando-panico-3638307.jpg?tf=1200x' alt='Un cohete espacial chino despega sin querer y se estrella, provocando el pánico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/gran-novedad-apple-watch-x-pantalla-gigante-revelada-imagenes-1393574'>La gran novedad del Apple Watch X: su pantalla gigante revelada en imágenes</a></h4>
-    <a href='https://computerhoy.com/apple/gran-novedad-apple-watch-x-pantalla-gigante-revelada-imagenes-1393574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187116.jpg?tf=1200x' alt='La gran novedad del Apple Watch X: su pantalla gigante revelada en imágenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/airbnb-pone-fin-fiestas-no-autorizadas-verano-tecnologia-prevencion-1393572'>Airbnb pone fin a las fiestas no autorizadas este verano con su tecnología de prevención</a></h4>
-    <a href='https://computerhoy.com/apps/airbnb-pone-fin-fiestas-no-autorizadas-verano-tecnologia-prevencion-1393572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/airbnb-3638456.jpg?tf=1200x' alt='Airbnb pone fin a las fiestas no autorizadas este verano con su tecnología de prevención' />
     </a>
 </div>
 
