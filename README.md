@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/brujula-no-tiene-norte-pero-marca-camino-cualquier-destino-1392945'>Esta brújula no tiene Norte, pero marca el camino a cualquier destino </a></h4>
+    <a href='https://computerhoy.com/tecnologia/brujula-no-tiene-norte-pero-marca-camino-cualquier-destino-1392945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1719449167281-3603781.jpg?tf=1200x' alt='Esta brújula no tiene Norte, pero marca el camino a cualquier destino ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cuanto-cuesta-atasco-trafico-cifra-te-dejara-tan-parado-como-coche-operacion-salida-1392857'>¿Cuánto cuesta un atasco de tráfico? La cifra te dejará tan parado como tu coche en la operación salida</a></h4>
+    <a href='https://computerhoy.com/motor/cuanto-cuesta-atasco-trafico-cifra-te-dejara-tan-parado-como-coche-operacion-salida-1392857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conductor-enfadado-3600354.jpg?tf=1200x' alt='¿Cuánto cuesta un atasco de tráfico? La cifra te dejará tan parado como tu coche en la operación salida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/isp-instalo-malware-600000-clientes-bloquear-archivos-torrent-1392937'>Un ISP instaló malware a 600.000 clientes para bloquear los archivos Torrent</a></h4>
     <a href='https://computerhoy.com/internet/isp-instalo-malware-600000-clientes-bloquear-archivos-torrent-1392937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/isp-instalo-malware-ordenadores-clientes-bloquear-ficheros-torrent-3602725.jpg?tf=1200x' alt='Un ISP instaló malware a 600.000 clientes para bloquear los archivos Torrent' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381'>Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial</a></h4>
     <a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mars-odyssey-completa-100000-vueltas-marte-celebra-foto-especial-3631253.jpg?tf=1200x' alt='Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380'>Inventan un filtro que añade visión nocturna a cualquier gafa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inventan-filtro-anade-vision-nocturna-cualquier-gafa-3630957.jpg?tf=1200x' alt='Inventan un filtro que añade visión nocturna a cualquier gafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cohete-espacial-chino-estrella-space-pioneer-1393575'>Un cohete espacial chino despega sin querer y se estrella, provocando el pánico</a></h4>
-    <a href='https://computerhoy.com/espacio/cohete-espacial-chino-estrella-space-pioneer-1393575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-espacial-chino-despega-querer-provocando-panico-3638307.jpg?tf=1200x' alt='Un cohete espacial chino despega sin querer y se estrella, provocando el pánico' />
     </a>
 </div>
 
