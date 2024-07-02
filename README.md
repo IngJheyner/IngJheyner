@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-auriculares-bluetooth-cancelacion-ruido-seran-mejores-amigos-verano-1393639'>Estos auriculares Bluetooth con cancelación de ruido serán tus mejores amigos este verano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-auriculares-bluetooth-cancelacion-ruido-seran-mejores-amigos-verano-1393639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/soundcore-life-q30-analisis-opinion-2438235.jpg?tf=1200x' alt='Estos auriculares Bluetooth con cancelación de ruido serán tus mejores amigos este verano' />
+    <h4><a href='https://computerhoy.com/espacio/astronautas-boeing-estan-atrapados-iss-todo-sabemos-retrasos-mision-nasa-1392985'>¿Por qué los astronautas de Boeing están atrapados en la ISS? Todo lo que sabemos sobre los retrasos en la misión de la NASA</a></h4>
+    <a href='https://computerhoy.com/espacio/astronautas-boeing-estan-atrapados-iss-todo-sabemos-retrasos-mision-nasa-1392985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/boeing-podria-retrasar-mision-regreso-tierra-mision-starliner-julio-3606191.jpg?tf=1200x' alt='¿Por qué los astronautas de Boeing están atrapados en la ISS? Todo lo que sabemos sobre los retrasos en la misión de la NASA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/muy-facil-hacer-jailbreak-modelos-ia-obtener-informacion-peligrosa-como-construir-cocteles-molotov-1393410'>Es muy fácil hacer 'jailbreak' a modelos de IA para obtener información peligrosa, como construir cócteles Molotov</a></h4>
-    <a href='https://computerhoy.com/tecnologia/muy-facil-hacer-jailbreak-modelos-ia-obtener-informacion-peligrosa-como-construir-cocteles-molotov-1393410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ia-defectuosa-3634827.jpg?tf=1200x' alt='Es muy fácil hacer 'jailbreak' a modelos de IA para obtener información peligrosa, como construir cócteles Molotov' />
+    <h4><a href='https://computerhoy.com/android/plegable-estrella-samsung-mitad-precio-1393633'>El plegable estrella de Samsung está a mitad de precio </a></h4>
+    <a href='https://computerhoy.com/android/plegable-estrella-samsung-mitad-precio-1393633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/galaxy-z-flip5-3103430.jpg?tf=1200x' alt='El plegable estrella de Samsung está a mitad de precio ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rabbit-r1-nuevo-problemas-vez-trata-privacidad-usuarios-1392971'>El Rabbit R1 de nuevo en problemas y esta vez se trata de la privacidad de sus usuarios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rabbit-r1-nuevo-problemas-vez-trata-privacidad-usuarios-1392971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-r1-3263345.jpg?tf=1200x' alt='El Rabbit R1 de nuevo en problemas y esta vez se trata de la privacidad de sus usuarios' />
+    <h4><a href='https://computerhoy.com/windows/funcion-oculta-windows-11-puede-evitar-pc-vaya-lento-1393628'>Esta función oculta de Windows 11 puede evitar que tu PC vaya lento</a></h4>
+    <a href='https://computerhoy.com/windows/funcion-oculta-windows-11-puede-evitar-pc-vaya-lento-1393628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-3391674.jpg?tf=1200x' alt='Esta función oculta de Windows 11 puede evitar que tu PC vaya lento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/puede-smart-tv-ser-hackeada-infectada-virus-1393611'>¿Puede tu Smart TV ser hackeada o infectada por un virus? </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/puede-smart-tv-ser-hackeada-infectada-virus-1393611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tv-infectada-malware-3641826.jpg?tf=1200x' alt='¿Puede tu Smart TV ser hackeada o infectada por un virus? ' />
+    <h4><a href='https://computerhoy.com/tecnologia/greenwashing-pinkwashing-ahora-ia-washing-amazon-pillado-tratando-enganarte-1392977'>'Greenwashing', 'pinkwashing' y ahora 'IA washing': Amazon pillado tratando de engañarte </a></h4>
+    <a href='https://computerhoy.com/tecnologia/greenwashing-pinkwashing-ahora-ia-washing-amazon-pillado-tratando-enganarte-1392977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lavado-ia-3606031.jpg?tf=1200x' alt=''Greenwashing', 'pinkwashing' y ahora 'IA washing': Amazon pillado tratando de engañarte ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-salir-garras-google-no-morir-intento-1393405'>Cómo salir de las garras de Google y no morir en el intento</a></h4>
-    <a href='https://computerhoy.com/google/como-salir-garras-google-no-morir-intento-1393405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-salir-garras-google-no-morir-intento-3634661.jpg?tf=1200x' alt='Cómo salir de las garras de Google y no morir en el intento' />
+    <h4><a href='https://computerhoy.com/apps/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-1393427'>Tu aliado contra el impredecible clima en España: una app del tiempo gratuita con radar y cámaras en tiempo real</a></h4>
+    <a href='https://computerhoy.com/apps/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-1393427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-3635040.jpg?tf=1200x' alt='Tu aliado contra el impredecible clima en España: una app del tiempo gratuita con radar y cámaras en tiempo real' />
     </a>
 </div>
 
