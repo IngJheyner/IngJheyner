@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/nosferatu-dracula-peliculas-miedo-han-trasformado-mito-vampiro-1393248'>De Nosferatu a Drácula, 5 películas de miedo que han trasformado el mito del vampiro</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/nosferatu-dracula-peliculas-miedo-han-trasformado-mito-vampiro-1393248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nosferatu-dracula-5-peliculas-miedo-han-trasformado-mito-vampiro-3615070.jpg?tf=1200x' alt='De Nosferatu a Drácula, 5 películas de miedo que han trasformado el mito del vampiro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-exorcismos-john-carpenter-casi-nadie-recuerda-trabajaba-estrella-rock-tapadillo-1392848'>La incomprendida película de exorcismos de John Carpenter que casi nadie recuerda y hasta en la que trabajaba una estrella de rock de tapadillo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-exorcismos-john-carpenter-casi-nadie-recuerda-trabajaba-estrella-rock-tapadillo-1392848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/incomprendida-pelicula-exorcismos-john-carpenter-casi-nadie-recuerda-trabajaba-estrella-rock-tapadillo-3600026.jpg?tf=1200x' alt='La incomprendida película de exorcismos de John Carpenter que casi nadie recuerda y hasta en la que trabajaba una estrella de rock de tapadillo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cartera-digital-ver-porno-requisitos-solicitud-como-funciona-1393770'>Carnet digital de 30 días para ver porno: requisitos, solicitud y cómo funciona</a></h4>
+    <a href='https://computerhoy.com/life/cartera-digital-ver-porno-requisitos-solicitud-como-funciona-1393770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/carnet-digital-30-dias-ver-porno-requisitos-solicitud-como-funciona-3644300.jpg?tf=1200x' alt='Carnet digital de 30 días para ver porno: requisitos, solicitud y cómo funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/ajustes-ocultos-llevar-telefono-android-otra-velocidad-1393560'>Los ajustes ocultos para llevar tu teléfono Android a otra velocidad</a></h4>
+    <a href='https://computerhoy.com/android/ajustes-ocultos-llevar-telefono-android-otra-velocidad-1393560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ajustes-ocultos-llevar-telefono-android-otra-velocidad-3638306.jpg?tf=1200x' alt='Los ajustes ocultos para llevar tu teléfono Android a otra velocidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-1393074'>Tiembla Google Maps: el próximo Waze podría ser tan avanzado que no tendrás ni que tocarlo</a></h4>
     <a href='https://computerhoy.com/tecnologia/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-1393074' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-3608729.jpg?tf=1200x' alt='Tiembla Google Maps: el próximo Waze podría ser tan avanzado que no tendrás ni que tocarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737'>Por qué no debes enchufar la nevera inmediatamente después de una mudanza</a></h4>
-    <a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-3644452.jpg?tf=1200x' alt='Por qué no debes enchufar la nevera inmediatamente después de una mudanza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-revela-error-mayores-secretos-ejercito-americano-1393036'>Google Maps revela por error uno de los mayores secretos del ejército americano</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-revela-error-mayores-secretos-ejercito-americano-1393036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-secretos-ejercito-3607336.jpg?tf=1200x' alt='Google Maps revela por error uno de los mayores secretos del ejército americano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-son-razones-ia-reemplazando-humanos-rapido-pensaba-1393475'>Estas son las razones por las que la IA está reemplazando a humanos más rápido de lo que se pensaba</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-son-razones-ia-reemplazando-humanos-rapido-pensaba-1393475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estas-son-razones-ia-reemplazando-humanos-rapido-pensaba-3635777.jpg?tf=1200x' alt='Estas son las razones por las que la IA está reemplazando a humanos más rápido de lo que se pensaba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-herramientas-reparar-limpiar-acelerar-pc-windows-1392540'>Las mejores herramientas para reparar, limpiar y acelerar cualquier PC con Windows</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-herramientas-reparar-limpiar-acelerar-pc-windows-1392540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mejores-herramientas-reparar-limpiar-acelerar-cualquier-pc-windows-3589708.jpg?tf=1200x' alt='Las mejores herramientas para reparar, limpiar y acelerar cualquier PC con Windows' />
     </a>
 </div>
 
