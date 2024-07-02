@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/huawei-matepad-11-5-s-papermatte-edition-analisis-opinion-1392514'>Huawei MatePad 11.5" S tiene una pantalla antirreflejos, perfecta para dibujar y escribir y quiero que más tablets lo copien</a></h4>
-    <a href='https://computerhoy.com/analisis/huawei-matepad-11-5-s-papermatte-edition-analisis-opinion-1392514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/huawei-matepad-115s-3634641.jpg?tf=1200x' alt='Huawei MatePad 11.5" S tiene una pantalla antirreflejos, perfecta para dibujar y escribir y quiero que más tablets lo copien' />
+    <h4><a href='https://computerhoy.com/google/siempre-activo-funcion-google-maps-antes-salir-viaje-no-quiero-quedarme-tirado-lugares-no-conozco-1393259'>Siempre activo esta función de Google Maps antes de salir de viaje: no quiero quedarme tirado en lugares que no conozco</a></h4>
+    <a href='https://computerhoy.com/google/siempre-activo-funcion-google-maps-antes-salir-viaje-no-quiero-quedarme-tirado-lugares-no-conozco-1393259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/siempre-activo-funcion-google-maps-antes-salir-viaje-no-quiero-quedarme-tirado-lugares-no-conozco-3615975.jpg?tf=1200x' alt='Siempre activo esta función de Google Maps antes de salir de viaje: no quiero quedarme tirado en lugares que no conozco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/movil-hace-retratos-parecidos-fotos-estudio-no-iphone-ni-vale-1000-euros-1392993'>Este es el móvil que hace retratos más parecidos a las fotos de estudio (y no es un iPhone ni vale 1.000 euros)</a></h4>
-    <a href='https://computerhoy.com/moviles/movil-hace-retratos-parecidos-fotos-estudio-no-iphone-ni-vale-1000-euros-1392993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3607179.jpg?tf=1200x' alt='Este es el móvil que hace retratos más parecidos a las fotos de estudio (y no es un iPhone ni vale 1.000 euros)' />
+    <h4><a href='https://computerhoy.com/life/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-1392904'>Las lavadoras tienen una función que nadie conoce para quitar las manchas más difíciles, y tu abuela se sabía el truco</a></h4>
+    <a href='https://computerhoy.com/life/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-1392904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-3601660.jpg?tf=1200x' alt='Las lavadoras tienen una función que nadie conoce para quitar las manchas más difíciles, y tu abuela se sabía el truco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/llevo-8-anos-probando-moviles-creo-zoom-empeorando-gama-alta-1393033'>Llevo 8 años probando móviles y creo que el zoom está empeorando en la gama alta</a></h4>
-    <a href='https://computerhoy.com/moviles/llevo-8-anos-probando-moviles-creo-zoom-empeorando-gama-alta-1393033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-s24-ultra-3272876.jpg?tf=1200x' alt='Llevo 8 años probando móviles y creo que el zoom está empeorando en la gama alta' />
+    <h4><a href='https://computerhoy.com/apps/6-trucos-mejorar-eficiencia-microsoft-outlook-1393546'>6 trucos para mejorar la eficiencia de Microsoft Outlook</a></h4>
+    <a href='https://computerhoy.com/apps/6-trucos-mejorar-eficiencia-microsoft-outlook-1393546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/6-trucos-mejorar-eficiencia-microsoft-outlook-3637813.jpg?tf=1200x' alt='6 trucos para mejorar la eficiencia de Microsoft Outlook' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/steam-17700-millones-euros-juegos-no-jugados-1393590'>Lo usuarios de Steam se han gastado 17.700 millones de euros en juegos que no han jugado</a></h4>
-    <a href='https://computerhoy.com/gaming/steam-17700-millones-euros-juegos-no-jugados-1393590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/usuarios-steam-han-gastado-17700-millones-euros-juegos-no-han-jugado-3639562.jpg?tf=1200x' alt='Lo usuarios de Steam se han gastado 17.700 millones de euros en juegos que no han jugado' />
+    <h4><a href='https://computerhoy.com/internet/union-europea-denuncia-meta-violar-ley-mercados-digitales-1393598'>Después de Apple, la UE denuncia a Meta por violar la Ley de Mercados Digitales</a></h4>
+    <a href='https://computerhoy.com/internet/union-europea-denuncia-meta-violar-ley-mercados-digitales-1393598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/caida-mundial-whatsapp-instagram-threads-otros-servicios-meta-3295492.jpg?tf=1200x' alt='Después de Apple, la UE denuncia a Meta por violar la Ley de Mercados Digitales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/no-medico-cabecera-pero-chatbot-ia-whatsapp-te-dice-todo-medicamentos-1390121'>No es el médico de cabecera, pero este chatbot de IA en WhatsApp te dice todo sobre tus medicamentos</a></h4>
-    <a href='https://computerhoy.com/apps/no-medico-cabecera-pero-chatbot-ia-whatsapp-te-dice-todo-medicamentos-1390121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatbot-whatsapp-inteligencia-artificial-medicamento-3543011.jpg?tf=1200x' alt='No es el médico de cabecera, pero este chatbot de IA en WhatsApp te dice todo sobre tus medicamentos' />
+    <h4><a href='https://computerhoy.com/tecnologia/obsesion-punto-enfermar-moda-smartwatches-nos-yendo-manos-1392914'>Obsesión hasta el punto de enfermar: ¿La moda de los smartwatches se nos está yendo de las manos?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/obsesion-punto-enfermar-moda-smartwatches-nos-yendo-manos-1392914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mano-zombie-smartwatch-3601663.jpg?tf=1200x' alt='Obsesión hasta el punto de enfermar: ¿La moda de los smartwatches se nos está yendo de las manos?' />
     </a>
 </div>
 
