@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/siempre-activo-funcion-google-maps-antes-salir-viaje-no-quiero-quedarme-tirado-lugares-no-conozco-1393259'>Siempre activo esta función de Google Maps antes de salir de viaje: no quiero quedarme tirado en lugares que no conozco</a></h4>
-    <a href='https://computerhoy.com/google/siempre-activo-funcion-google-maps-antes-salir-viaje-no-quiero-quedarme-tirado-lugares-no-conozco-1393259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/siempre-activo-funcion-google-maps-antes-salir-viaje-no-quiero-quedarme-tirado-lugares-no-conozco-3615975.jpg?tf=1200x' alt='Siempre activo esta función de Google Maps antes de salir de viaje: no quiero quedarme tirado en lugares que no conozco' />
+    <h4><a href='https://computerhoy.com/motor/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-1392972'>Este carpintero no podía pagar un deportivo, así que lo construyó de madera... ¡y funciona!</a></h4>
+    <a href='https://computerhoy.com/motor/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-1392972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-3605253.jpg?tf=1200x' alt='Este carpintero no podía pagar un deportivo, así que lo construyó de madera... ¡y funciona!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-1392904'>Las lavadoras tienen una función que nadie conoce para quitar las manchas más difíciles, y tu abuela se sabía el truco</a></h4>
-    <a href='https://computerhoy.com/life/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-1392904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-3601660.jpg?tf=1200x' alt='Las lavadoras tienen una función que nadie conoce para quitar las manchas más difíciles, y tu abuela se sabía el truco' />
+    <h4><a href='https://computerhoy.com/energia/pequenas-esferas-usan-luz-solar-artificial-superando-paneles-solares-alcanzando-60-veces-capacidad-1393402'>Las pequeñas esferas que usan luz solar y artificial, superando a los paneles solares y alcanzando 60 veces su capacidad</a></h4>
+    <a href='https://computerhoy.com/energia/pequenas-esferas-usan-luz-solar-artificial-superando-paneles-solares-alcanzando-60-veces-capacidad-1393402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/esferas-generar-electricidad-3634660.jpg?tf=1200x' alt='Las pequeñas esferas que usan luz solar y artificial, superando a los paneles solares y alcanzando 60 veces su capacidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/6-trucos-mejorar-eficiencia-microsoft-outlook-1393546'>6 trucos para mejorar la eficiencia de Microsoft Outlook</a></h4>
-    <a href='https://computerhoy.com/apps/6-trucos-mejorar-eficiencia-microsoft-outlook-1393546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/6-trucos-mejorar-eficiencia-microsoft-outlook-3637813.jpg?tf=1200x' alt='6 trucos para mejorar la eficiencia de Microsoft Outlook' />
+    <h4><a href='https://computerhoy.com/tecnologia/ni-samsung-ni-apple-mejor-movil-gama-alta-google-ahora-baratisimo-1393613'>Ni Samsung ni Apple: el mejor móvil de gama alta es de Google y ahora está baratísimo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ni-samsung-ni-apple-mejor-movil-gama-alta-google-ahora-baratisimo-1393613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-pixel-8-pro-3485184.jpg?tf=1200x' alt='Ni Samsung ni Apple: el mejor móvil de gama alta es de Google y ahora está baratísimo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/union-europea-denuncia-meta-violar-ley-mercados-digitales-1393598'>Después de Apple, la UE denuncia a Meta por violar la Ley de Mercados Digitales</a></h4>
-    <a href='https://computerhoy.com/internet/union-europea-denuncia-meta-violar-ley-mercados-digitales-1393598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/caida-mundial-whatsapp-instagram-threads-otros-servicios-meta-3295492.jpg?tf=1200x' alt='Después de Apple, la UE denuncia a Meta por violar la Ley de Mercados Digitales' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-edge-1050-ya-oficial-ciclocomputador-gps-potente-sofisticado-mercado-1392958'>Garmin Edge 1050: ya es oficial el ciclocomputador GPS más potente y sofisticado del mercado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-edge-1050-ya-oficial-ciclocomputador-gps-potente-sofisticado-mercado-1392958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/garmin-edge-1050-3605706.jpg?tf=1200x' alt='Garmin Edge 1050: ya es oficial el ciclocomputador GPS más potente y sofisticado del mercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/obsesion-punto-enfermar-moda-smartwatches-nos-yendo-manos-1392914'>Obsesión hasta el punto de enfermar: ¿La moda de los smartwatches se nos está yendo de las manos?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/obsesion-punto-enfermar-moda-smartwatches-nos-yendo-manos-1392914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mano-zombie-smartwatch-3601663.jpg?tf=1200x' alt='Obsesión hasta el punto de enfermar: ¿La moda de los smartwatches se nos está yendo de las manos?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-hace-saltar-alarmas-mucho-cuidado-llamada-telefono-1393608'>La Policía Nacional hace saltar las alarmas: mucho cuidado con esta llamada de teléfono</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-hace-saltar-alarmas-mucho-cuidado-llamada-telefono-1393608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-movil-3641674.jpg?tf=1200x' alt='La Policía Nacional hace saltar las alarmas: mucho cuidado con esta llamada de teléfono' />
     </a>
 </div>
 
