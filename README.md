@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/logran-traer-vuelta-windows-10-gracias-picovision-puedes-usarlo-como-fuese-1985-hardware-moderno-1393028'>Logran traer de vuelta Windows 1.0 gracias a PicoVision y puedes usarlo como si fuese 1985 en un hardware moderno</a></h4>
-    <a href='https://computerhoy.com/tecnologia/logran-traer-vuelta-windows-10-gracias-picovision-puedes-usarlo-como-fuese-1985-hardware-moderno-1393028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/regreso-futuro-windows-10-3606521.jpg?tf=1200x' alt='Logran traer de vuelta Windows 1.0 gracias a PicoVision y puedes usarlo como si fuese 1985 en un hardware moderno' />
+    <h4><a href='https://computerhoy.com/hogar/robot-aspirador-arrasa-amazon-menos-100-euros-1393687'>Este es el robot aspirador que arrasa en Amazon por menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/robot-aspirador-arrasa-amazon-menos-100-euros-1393687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lefant-m210-3642917.jpg?tf=1200x' alt='Este es el robot aspirador que arrasa en Amazon por menos de 100 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-1393443'>Cómo una foto en WhatsApp puede revelar tu ubicación y las medidas para protegerte eficazmente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-1393443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-3635361.jpg?tf=1200x' alt='Cómo una foto en WhatsApp puede revelar tu ubicación y las medidas para protegerte eficazmente' />
+    <h4><a href='https://computerhoy.com/windows/estrategia-presion-amenazas-microsoft-usuarios-windows-10-comienza-dar-frutos-1393643'>La estrategia de presión y amenazas de Microsoft a los usuarios de Windows 10 comienza a dar sus frutos</a></h4>
+    <a href='https://computerhoy.com/windows/estrategia-presion-amenazas-microsoft-usuarios-windows-10-comienza-dar-frutos-1393643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amenazadas-usuarios-windows-10-3642611.jpg?tf=1200x' alt='La estrategia de presión y amenazas de Microsoft a los usuarios de Windows 10 comienza a dar sus frutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/chip-gobernarlos-todos-thunderbird-i-1536-nucleos-risc-v-escala-360000-1393003'>Un chip para gobernarlos a todos: así es Thunderbird I con 1.536 Núcleos RISC-V que escala hasta los 360.000 </a></h4>
-    <a href='https://computerhoy.com/pc/chip-gobernarlos-todos-thunderbird-i-1536-nucleos-risc-v-escala-360000-1393003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chip-superordenador-3606366.jpg?tf=1200x' alt='Un chip para gobernarlos a todos: así es Thunderbird I con 1.536 Núcleos RISC-V que escala hasta los 360.000 ' />
+    <h4><a href='https://computerhoy.com/apple/tasa-retencion-iphone-motivo-cual-supera-telefonos-chinos-expertos-1393442'>La 'tasa de retención' del iPhone es el motivo por el cual supera a los teléfonos chinos, según expertos</a></h4>
+    <a href='https://computerhoy.com/apple/tasa-retencion-iphone-motivo-cual-supera-telefonos-chinos-expertos-1393442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iphone-china-3635297.jpg?tf=1200x' alt='La 'tasa de retención' del iPhone es el motivo por el cual supera a los teléfonos chinos, según expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-ha-filtrado-version-perfecta-riesgo-seguridad-1393658'>Este Windows 11 que se ha filtrado es ¿una versión perfecta o un riesgo para la seguridad?</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-ha-filtrado-version-perfecta-riesgo-seguridad-1393658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/windows-11-pc-3641997.jpg?tf=1200x' alt='Este Windows 11 que se ha filtrado es ¿una versión perfecta o un riesgo para la seguridad?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/hackers-atacan-modelo-router-wifi-d-link-pero-niegan-parchearlo-buena-razon-1393685'>Hackers atacan un modelo de router WiFi de D-Link, pero se niegan a parchearlo por una buena razón</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hackers-atacan-modelo-router-wifi-d-link-pero-niegan-parchearlo-buena-razon-1393685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='Hackers atacan un modelo de router WiFi de D-Link, pero se niegan a parchearlo por una buena razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/electricidad-usa-ia-google-podrian-cargarse-siete-coches-electricos-1393399'>Con la electricidad que usa la IA de Google podrían cargarse siete coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/electricidad-usa-ia-google-podrian-cargarse-siete-coches-electricos-1393399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-chrome-ia-3386891.jpg?tf=1200x' alt='Con la electricidad que usa la IA de Google podrían cargarse siete coches eléctricos' />
+    <h4><a href='https://computerhoy.com/tutoriales/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-1393125'>Formas de acceder a YouTube, sin entrar en YouTube, evitando todo lo molesto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-1393125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-3610549.jpg?tf=1200x' alt='Formas de acceder a YouTube, sin entrar en YouTube, evitando todo lo molesto' />
     </a>
 </div>
 
