@@ -50,22 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/robot-aspirador-arrasa-amazon-menos-100-euros-1393687'>Este es el robot aspirador que arrasa en Amazon por menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/hogar/robot-aspirador-arrasa-amazon-menos-100-euros-1393687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lefant-m210-3642917.jpg?tf=1200x' alt='Este es el robot aspirador que arrasa en Amazon por menos de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/estrategia-presion-amenazas-microsoft-usuarios-windows-10-comienza-dar-frutos-1393643'>La estrategia de presión y amenazas de Microsoft a los usuarios de Windows 10 comienza a dar sus frutos</a></h4>
-    <a href='https://computerhoy.com/windows/estrategia-presion-amenazas-microsoft-usuarios-windows-10-comienza-dar-frutos-1393643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amenazadas-usuarios-windows-10-3642611.jpg?tf=1200x' alt='La estrategia de presión y amenazas de Microsoft a los usuarios de Windows 10 comienza a dar sus frutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/tasa-retencion-iphone-motivo-cual-supera-telefonos-chinos-expertos-1393442'>La 'tasa de retención' del iPhone es el motivo por el cual supera a los teléfonos chinos, según expertos</a></h4>
     <a href='https://computerhoy.com/apple/tasa-retencion-iphone-motivo-cual-supera-telefonos-chinos-expertos-1393442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iphone-china-3635297.jpg?tf=1200x' alt='La 'tasa de retención' del iPhone es el motivo por el cual supera a los teléfonos chinos, según expertos' />
@@ -85,6 +69,22 @@
     <h4><a href='https://computerhoy.com/tutoriales/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-1393125'>Formas de acceder a YouTube, sin entrar en YouTube, evitando todo lo molesto</a></h4>
     <a href='https://computerhoy.com/tutoriales/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-1393125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-3610549.jpg?tf=1200x' alt='Formas de acceder a YouTube, sin entrar en YouTube, evitando todo lo molesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/menu-oculto-amazon-fire-tv-controla-dispositivos-inteligentes-forma-sencilla-1393454'>El menú oculto del Amazon Fire TV que controla los dispositivos inteligentes de forma sencilla</a></h4>
+    <a href='https://computerhoy.com/amazon/menu-oculto-amazon-fire-tv-controla-dispositivos-inteligentes-forma-sencilla-1393454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/menu-oculto-amazon-fire-tv-controla-dispositivos-inteligentes-forma-sencilla-3635517.jpg?tf=1200x' alt='El menú oculto del Amazon Fire TV que controla los dispositivos inteligentes de forma sencilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-aprende-errores-playstation-5-inundara-tiendas-nintendo-switch-2-acabar-revendedores-1393632'>Nintendo aprende de los errores de PlayStation 5: inundará las tiendas de Nintendo Switch 2 para acabar con los revendedores</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-aprende-errores-playstation-5-inundara-tiendas-nintendo-switch-2-acabar-revendedores-1393632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nintendo-switch-2-3272297.jpg?tf=1200x' alt='Nintendo aprende de los errores de PlayStation 5: inundará las tiendas de Nintendo Switch 2 para acabar con los revendedores' />
     </a>
 </div>
 
