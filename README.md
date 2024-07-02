@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-1392972'>Este carpintero no podía pagar un deportivo, así que lo construyó de madera... ¡y funciona!</a></h4>
-    <a href='https://computerhoy.com/motor/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-1392972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/carpintero-no-podia-pagar-deportivo-construyo-madera-funciona-3605253.jpg?tf=1200x' alt='Este carpintero no podía pagar un deportivo, así que lo construyó de madera... ¡y funciona!' />
+    <h4><a href='https://computerhoy.com/tecnologia/estos-auriculares-bluetooth-cancelacion-ruido-seran-mejores-amigos-verano-1393639'>Estos auriculares Bluetooth con cancelación de ruido serán tus mejores amigos este verano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-auriculares-bluetooth-cancelacion-ruido-seran-mejores-amigos-verano-1393639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/soundcore-life-q30-analisis-opinion-2438235.jpg?tf=1200x' alt='Estos auriculares Bluetooth con cancelación de ruido serán tus mejores amigos este verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/pequenas-esferas-usan-luz-solar-artificial-superando-paneles-solares-alcanzando-60-veces-capacidad-1393402'>Las pequeñas esferas que usan luz solar y artificial, superando a los paneles solares y alcanzando 60 veces su capacidad</a></h4>
-    <a href='https://computerhoy.com/energia/pequenas-esferas-usan-luz-solar-artificial-superando-paneles-solares-alcanzando-60-veces-capacidad-1393402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/esferas-generar-electricidad-3634660.jpg?tf=1200x' alt='Las pequeñas esferas que usan luz solar y artificial, superando a los paneles solares y alcanzando 60 veces su capacidad' />
+    <h4><a href='https://computerhoy.com/tecnologia/muy-facil-hacer-jailbreak-modelos-ia-obtener-informacion-peligrosa-como-construir-cocteles-molotov-1393410'>Es muy fácil hacer 'jailbreak' a modelos de IA para obtener información peligrosa, como construir cócteles Molotov</a></h4>
+    <a href='https://computerhoy.com/tecnologia/muy-facil-hacer-jailbreak-modelos-ia-obtener-informacion-peligrosa-como-construir-cocteles-molotov-1393410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ia-defectuosa-3634827.jpg?tf=1200x' alt='Es muy fácil hacer 'jailbreak' a modelos de IA para obtener información peligrosa, como construir cócteles Molotov' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ni-samsung-ni-apple-mejor-movil-gama-alta-google-ahora-baratisimo-1393613'>Ni Samsung ni Apple: el mejor móvil de gama alta es de Google y ahora está baratísimo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ni-samsung-ni-apple-mejor-movil-gama-alta-google-ahora-baratisimo-1393613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-pixel-8-pro-3485184.jpg?tf=1200x' alt='Ni Samsung ni Apple: el mejor móvil de gama alta es de Google y ahora está baratísimo' />
+    <h4><a href='https://computerhoy.com/tecnologia/rabbit-r1-nuevo-problemas-vez-trata-privacidad-usuarios-1392971'>El Rabbit R1 de nuevo en problemas y esta vez se trata de la privacidad de sus usuarios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rabbit-r1-nuevo-problemas-vez-trata-privacidad-usuarios-1392971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-r1-3263345.jpg?tf=1200x' alt='El Rabbit R1 de nuevo en problemas y esta vez se trata de la privacidad de sus usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-edge-1050-ya-oficial-ciclocomputador-gps-potente-sofisticado-mercado-1392958'>Garmin Edge 1050: ya es oficial el ciclocomputador GPS más potente y sofisticado del mercado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-edge-1050-ya-oficial-ciclocomputador-gps-potente-sofisticado-mercado-1392958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/garmin-edge-1050-3605706.jpg?tf=1200x' alt='Garmin Edge 1050: ya es oficial el ciclocomputador GPS más potente y sofisticado del mercado' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/puede-smart-tv-ser-hackeada-infectada-virus-1393611'>¿Puede tu Smart TV ser hackeada o infectada por un virus? </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/puede-smart-tv-ser-hackeada-infectada-virus-1393611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tv-infectada-malware-3641826.jpg?tf=1200x' alt='¿Puede tu Smart TV ser hackeada o infectada por un virus? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-hace-saltar-alarmas-mucho-cuidado-llamada-telefono-1393608'>La Policía Nacional hace saltar las alarmas: mucho cuidado con esta llamada de teléfono</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-hace-saltar-alarmas-mucho-cuidado-llamada-telefono-1393608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-movil-3641674.jpg?tf=1200x' alt='La Policía Nacional hace saltar las alarmas: mucho cuidado con esta llamada de teléfono' />
+    <h4><a href='https://computerhoy.com/google/como-salir-garras-google-no-morir-intento-1393405'>Cómo salir de las garras de Google y no morir en el intento</a></h4>
+    <a href='https://computerhoy.com/google/como-salir-garras-google-no-morir-intento-1393405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-salir-garras-google-no-morir-intento-3634661.jpg?tf=1200x' alt='Cómo salir de las garras de Google y no morir en el intento' />
     </a>
 </div>
 
