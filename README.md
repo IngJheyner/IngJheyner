@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/no-compres-pc-snapdragon-x-elite-vas-jugar-videojuegos-1393372'>No compres un PC con Snapdragon X Elite, si vas a jugar a videojuegos</a></h4>
-    <a href='https://computerhoy.com/pc/no-compres-pc-snapdragon-x-elite-vas-jugar-videojuegos-1393372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nuevos-snapdragon-x-elite-plus-portatiles-potentes-apple-m3-ia-rapida-3303520.jpg?tf=1200x' alt='No compres un PC con Snapdragon X Elite, si vas a jugar a videojuegos' />
+    <h4><a href='https://computerhoy.com/tecnologia/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-1393074'>Tiembla Google Maps: el próximo Waze podría ser tan avanzado que no tendrás ni que tocarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-1393074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tiembla-google-maps-proximo-waze-podria-ser-tan-avanzado-no-tendras-ni-tocarlo-3608729.jpg?tf=1200x' alt='Tiembla Google Maps: el próximo Waze podría ser tan avanzado que no tendrás ni que tocarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/no-cambies-televisor-apagon-tdt-mejor-hazte-receptor-apenas-20-euros-1393715'>No cambies tu televisor por el apagón de la TDT: mejor hazte con este receptor por apenas 20 euros</a></h4>
-    <a href='https://computerhoy.com/tv/no-cambies-televisor-apagon-tdt-mejor-hazte-receptor-apenas-20-euros-1393715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/configuraciones-rapidas-consigo-mejorar-rendimiento-mi-smart-tv-instante-3564908.jpg?tf=1200x' alt='No cambies tu televisor por el apagón de la TDT: mejor hazte con este receptor por apenas 20 euros' />
+    <h4><a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737'>Por qué no debes enchufar la nevera inmediatamente después de una mudanza</a></h4>
+    <a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-3644452.jpg?tf=1200x' alt='Por qué no debes enchufar la nevera inmediatamente después de una mudanza' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/10-razones-peso-actualizar-windows-11-abandonar-windows-10-1393298'>Mis 10 razones de peso para actualizar a Windows 11 y abandonar Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/10-razones-peso-actualizar-windows-11-abandonar-windows-10-1393298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-razones-peso-actualizar-windows-11-abandonar-windows-10-3619001.jpg?tf=1200x' alt='Mis 10 razones de peso para actualizar a Windows 11 y abandonar Windows 10' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-revela-error-mayores-secretos-ejercito-americano-1393036'>Google Maps revela por error uno de los mayores secretos del ejército americano</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-revela-error-mayores-secretos-ejercito-americano-1393036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-secretos-ejercito-3607336.jpg?tf=1200x' alt='Google Maps revela por error uno de los mayores secretos del ejército americano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/no-te-vas-creer-movil-xiaomi-esconde-menu-oculto-muchas-funciones-secretas-1393025'>No te lo vas a creer: tu móvil Xiaomi esconde un menú oculto con muchas funciones secretas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/no-te-vas-creer-movil-xiaomi-esconde-menu-oculto-muchas-funciones-secretas-1393025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/movil-xiaomi-3607003.jpg?tf=1200x' alt='No te lo vas a creer: tu móvil Xiaomi esconde un menú oculto con muchas funciones secretas' />
+    <h4><a href='https://computerhoy.com/tecnologia/estas-son-razones-ia-reemplazando-humanos-rapido-pensaba-1393475'>Estas son las razones por las que la IA está reemplazando a humanos más rápido de lo que se pensaba</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-son-razones-ia-reemplazando-humanos-rapido-pensaba-1393475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estas-son-razones-ia-reemplazando-humanos-rapido-pensaba-3635777.jpg?tf=1200x' alt='Estas son las razones por las que la IA está reemplazando a humanos más rápido de lo que se pensaba' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejora-experiencia-spotify-truco-secreto-modo-aleatorio-1393461'>Mejora tu experiencia en Spotify con este truco secreto del modo aleatorio</a></h4>
-    <a href='https://computerhoy.com/apps/mejora-experiencia-spotify-truco-secreto-modo-aleatorio-1393461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mejora-experiencia-spotify-truco-secreto-modo-aleatorio-3635867.jpg?tf=1200x' alt='Mejora tu experiencia en Spotify con este truco secreto del modo aleatorio' />
+    <h4><a href='https://computerhoy.com/apps/mejores-herramientas-reparar-limpiar-acelerar-pc-windows-1392540'>Las mejores herramientas para reparar, limpiar y acelerar cualquier PC con Windows</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-herramientas-reparar-limpiar-acelerar-pc-windows-1392540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mejores-herramientas-reparar-limpiar-acelerar-cualquier-pc-windows-3589708.jpg?tf=1200x' alt='Las mejores herramientas para reparar, limpiar y acelerar cualquier PC con Windows' />
     </a>
 </div>
 
