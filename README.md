@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tasa-retencion-iphone-motivo-cual-supera-telefonos-chinos-expertos-1393442'>La 'tasa de retención' del iPhone es el motivo por el cual supera a los teléfonos chinos, según expertos</a></h4>
-    <a href='https://computerhoy.com/apple/tasa-retencion-iphone-motivo-cual-supera-telefonos-chinos-expertos-1393442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iphone-china-3635297.jpg?tf=1200x' alt='La 'tasa de retención' del iPhone es el motivo por el cual supera a los teléfonos chinos, según expertos' />
+    <h4><a href='https://computerhoy.com/moviles/sencillas-acciones-movil-desconectar-verdad-vacaciones-1392001'>3 sencillas acciones con el móvil para desconectar de verdad en vacaciones</a></h4>
+    <a href='https://computerhoy.com/moviles/sencillas-acciones-movil-desconectar-verdad-vacaciones-1392001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/3-sencillas-acciones-movil-desconectar-verdad-vacaciones-3555735.jpg?tf=1200x' alt='3 sencillas acciones con el móvil para desconectar de verdad en vacaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hackers-atacan-modelo-router-wifi-d-link-pero-niegan-parchearlo-buena-razon-1393685'>Hackers atacan un modelo de router WiFi de D-Link, pero se niegan a parchearlo por una buena razón</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hackers-atacan-modelo-router-wifi-d-link-pero-niegan-parchearlo-buena-razon-1393685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='Hackers atacan un modelo de router WiFi de D-Link, pero se niegan a parchearlo por una buena razón' />
+    <h4><a href='https://computerhoy.com/entretenimiento/hay-ver-primero-casa-dragon-juego-tronos-1393486'>¿Qué hay que ver primero La Casa del Dragón o Juego de Tronos?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hay-ver-primero-casa-dragon-juego-tronos-1393486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hay-ver-primero-casa-dragon-juego-tronos-3635998.jpg?tf=1200x' alt='¿Qué hay que ver primero La Casa del Dragón o Juego de Tronos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-1393125'>Formas de acceder a YouTube, sin entrar en YouTube, evitando todo lo molesto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-1393125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/formas-acceder-youtube-entrar-youtube-evitando-todo-molesto-3610549.jpg?tf=1200x' alt='Formas de acceder a YouTube, sin entrar en YouTube, evitando todo lo molesto' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/diferencias-google-tv-android-tv-730941'>¿En qué se diferencian Google TV y Android TV?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/diferencias-google-tv-android-tv-730941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/diferencian-google-tv-android-tv-3619286.jpg?tf=1200x' alt='¿En qué se diferencian Google TV y Android TV?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/menu-oculto-amazon-fire-tv-controla-dispositivos-inteligentes-forma-sencilla-1393454'>El menú oculto del Amazon Fire TV que controla los dispositivos inteligentes de forma sencilla</a></h4>
-    <a href='https://computerhoy.com/amazon/menu-oculto-amazon-fire-tv-controla-dispositivos-inteligentes-forma-sencilla-1393454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/menu-oculto-amazon-fire-tv-controla-dispositivos-inteligentes-forma-sencilla-3635517.jpg?tf=1200x' alt='El menú oculto del Amazon Fire TV que controla los dispositivos inteligentes de forma sencilla' />
+    <h4><a href='https://computerhoy.com/tecnologia/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-1393047'>Este modelo de lenguaje de IA tiene un consumo de memoria 10 veces menor: Nvidia y AMD son el objetivo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-1393047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modelo-lenguaje-ia-tiene-consumo-memoria-10-veces-menor-nvidia-amd-son-objetivo-3607332.jpg?tf=1200x' alt='Este modelo de lenguaje de IA tiene un consumo de memoria 10 veces menor: Nvidia y AMD son el objetivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-aprende-errores-playstation-5-inundara-tiendas-nintendo-switch-2-acabar-revendedores-1393632'>Nintendo aprende de los errores de PlayStation 5: inundará las tiendas de Nintendo Switch 2 para acabar con los revendedores</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-aprende-errores-playstation-5-inundara-tiendas-nintendo-switch-2-acabar-revendedores-1393632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nintendo-switch-2-3272297.jpg?tf=1200x' alt='Nintendo aprende de los errores de PlayStation 5: inundará las tiendas de Nintendo Switch 2 para acabar con los revendedores' />
+    <h4><a href='https://computerhoy.com/hogar/robot-aspirador-arrasa-amazon-menos-100-euros-1393687'>Este es el robot aspirador que arrasa en Amazon por menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/robot-aspirador-arrasa-amazon-menos-100-euros-1393687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lefant-m210-3642917.jpg?tf=1200x' alt='Este es el robot aspirador que arrasa en Amazon por menos de 100 euros' />
     </a>
 </div>
 
