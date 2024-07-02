@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-avisar-otros-conductores-peligro-google-maps-1393760'>Cómo avisar a otros conductores de un peligro en Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-avisar-otros-conductores-peligro-google-maps-1393760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-avisar-otros-conductores-peligro-google-maps-3645043.jpg?tf=1200x' alt='Cómo avisar a otros conductores de un peligro en Google Maps' />
+    <h4><a href='https://computerhoy.com/apps/airbnb-pone-fin-fiestas-no-autorizadas-verano-tecnologia-prevencion-1393572'>Airbnb pone fin a las fiestas no autorizadas este verano con su tecnología de prevención</a></h4>
+    <a href='https://computerhoy.com/apps/airbnb-pone-fin-fiestas-no-autorizadas-verano-tecnologia-prevencion-1393572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/airbnb-3638456.jpg?tf=1200x' alt='Airbnb pone fin a las fiestas no autorizadas este verano con su tecnología de prevención' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/nosferatu-dracula-peliculas-miedo-han-trasformado-mito-vampiro-1393248'>De Nosferatu a Drácula, 5 películas de miedo que han trasformado el mito del vampiro</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/nosferatu-dracula-peliculas-miedo-han-trasformado-mito-vampiro-1393248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nosferatu-dracula-5-peliculas-miedo-han-trasformado-mito-vampiro-3615070.jpg?tf=1200x' alt='De Nosferatu a Drácula, 5 películas de miedo que han trasformado el mito del vampiro' />
+    <h4><a href='https://computerhoy.com/life/vives-ccaa-enhorabuena-podras-echar-gasolina-gasolineras-baratas-espana-1393782'>Si vives en esta CC.AA enhorabuena: podrás echar gasolina en las gasolineras más baratas de España</a></h4>
+    <a href='https://computerhoy.com/life/vives-ccaa-enhorabuena-podras-echar-gasolina-gasolineras-baratas-espana-1393782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gasolinera-3645461.jpg?tf=1200x' alt='Si vives en esta CC.AA enhorabuena: podrás echar gasolina en las gasolineras más baratas de España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-usar-discord-como-aplicacion-ver-peliculas-1393530'>Cómo usar Discord como aplicación para ver películas</a></h4>
-    <a href='https://computerhoy.com/apps/como-usar-discord-como-aplicacion-ver-peliculas-1393530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-usar-discord-como-aplicacion-ver-peliculas-3637424.jpg?tf=1200x' alt='Cómo usar Discord como aplicación para ver películas' />
+    <h4><a href='https://computerhoy.com/tecnologia/descubre-secretos-ocultos-electrodomesticos-funcion-inesperada-chatgpt-1393571'>Descubre secretos ocultos de tus electrodomésticos con una función inesperada de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/descubre-secretos-ocultos-electrodomesticos-funcion-inesperada-chatgpt-1393571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/descubre-secretos-ocultos-electrodomesticos-funcion-inesperada-chatgpt-3638398.jpg?tf=1200x' alt='Descubre secretos ocultos de tus electrodomésticos con una función inesperada de ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-exorcismos-john-carpenter-casi-nadie-recuerda-trabajaba-estrella-rock-tapadillo-1392848'>La incomprendida película de exorcismos de John Carpenter que casi nadie recuerda y hasta en la que trabajaba una estrella de rock de tapadillo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-exorcismos-john-carpenter-casi-nadie-recuerda-trabajaba-estrella-rock-tapadillo-1392848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/incomprendida-pelicula-exorcismos-john-carpenter-casi-nadie-recuerda-trabajaba-estrella-rock-tapadillo-3600026.jpg?tf=1200x' alt='La incomprendida película de exorcismos de John Carpenter que casi nadie recuerda y hasta en la que trabajaba una estrella de rock de tapadillo' />
+    <h4><a href='https://computerhoy.com/tecnologia/construyen-reloj-atomico-preciso-mundo-impulsar-ciencia-espacial-1393781'>Construyen el reloj atómico más preciso del mundo para impulsar la ciencia espacial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/construyen-reloj-atomico-preciso-mundo-impulsar-ciencia-espacial-1393781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/reloj-atomico-3645321.jpg?tf=1200x' alt='Construyen el reloj atómico más preciso del mundo para impulsar la ciencia espacial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cartera-digital-ver-porno-requisitos-solicitud-como-funciona-1393770'>Carnet digital de 30 días para ver porno: requisitos, solicitud y cómo funciona</a></h4>
-    <a href='https://computerhoy.com/life/cartera-digital-ver-porno-requisitos-solicitud-como-funciona-1393770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/carnet-digital-30-dias-ver-porno-requisitos-solicitud-como-funciona-3644300.jpg?tf=1200x' alt='Carnet digital de 30 días para ver porno: requisitos, solicitud y cómo funciona' />
+    <h4><a href='https://computerhoy.com/tecnologia/freedos-ya-tiene-30-anos-podra-ejecutar-windows-3x-1393779'>FreeDOS, que ya tiene 30 años, podrá ejecutar Windows 3.x</a></h4>
+    <a href='https://computerhoy.com/tecnologia/freedos-ya-tiene-30-anos-podra-ejecutar-windows-3x-1393779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/freedos-3645266.jpg?tf=1200x' alt='FreeDOS, que ya tiene 30 años, podrá ejecutar Windows 3.x' />
     </a>
 </div>
 
