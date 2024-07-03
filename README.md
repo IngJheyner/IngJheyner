@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/todo-mundo-esperando-windows-10-muera-menos-posiblemente-1393207'>Todo el mundo está esperando a que Windows 10 muera... menos posiblemente tú</a></h4>
+    <a href='https://computerhoy.com/windows/todo-mundo-esperando-windows-10-muera-menos-posiblemente-1393207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/muerte-windows-10-3614253.jpg?tf=1200x' alt='Todo el mundo está esperando a que Windows 10 muera... menos posiblemente tú' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/hay-ver-primero-casa-dragon-juego-tronos-1393486'>¿Qué hay que ver primero La Casa del Dragón o Juego de Tronos?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hay-ver-primero-casa-dragon-juego-tronos-1393486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hay-ver-primero-casa-dragon-juego-tronos-3635998.jpg?tf=1200x' alt='¿Qué hay que ver primero La Casa del Dragón o Juego de Tronos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/japon-borde-colapso-demografico-quiere-crear-tunel-automatizado-500-kilometros-transportar-mercancias-1393228'>Japón al borde del colapso demográfico quiere crear un túnel automatizado de 500 kilómetros para transportar mercancías</a></h4>
     <a href='https://computerhoy.com/life/japon-borde-colapso-demografico-quiere-crear-tunel-automatizado-500-kilometros-transportar-mercancias-1393228' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/japon-podria-crear-tunel-500-kilometros-transportar-mercancia-tokio-osaka-3614568.jpg?tf=1200x' alt='Japón al borde del colapso demográfico quiere crear un túnel automatizado de 500 kilómetros para transportar mercancías' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-constelaciones-estrellas-movil-1102513'>Cómo encontrar constelaciones de estrellas con tu móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-constelaciones-estrellas-movil-1102513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-encontrar-constelaciones-estrellas-movil-3639760.jpg?tf=1200x' alt='Cómo encontrar constelaciones de estrellas con tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/busca-quinta-fuerza-universo-particula-camaleon-1393202'>En busca de una quinta fuerza en el universo, la partícula camaleón</a></h4>
-    <a href='https://computerhoy.com/espacio/busca-quinta-fuerza-universo-particula-camaleon-1393202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/universo-3261763.jpg?tf=1200x' alt='En busca de una quinta fuerza en el universo, la partícula camaleón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/importante-papel-operadores-multas-ver-futbol-iptv-lealtad-total-laliga-javier-tebas-1393888'>El importante papel de los operadores en las multas por ver el fútbol por IPTV y su lealtad total a LaLiga de Javier Tebas</a></h4>
-    <a href='https://computerhoy.com/internet/importante-papel-operadores-multas-ver-futbol-iptv-lealtad-total-laliga-javier-tebas-1393888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/espana-podium-iptv-no-estar-orgulloso-3506847.jpg?tf=1200x' alt='El importante papel de los operadores en las multas por ver el fútbol por IPTV y su lealtad total a LaLiga de Javier Tebas' />
     </a>
 </div>
 
