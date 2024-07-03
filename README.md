@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/android-auto-spotify-apple-music-app-arrasa-musica-1391216'>Ni Spotify ni Apple Music, esta es la app para escuchar música que arrasa  en Android Auto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/android-auto-spotify-apple-music-app-arrasa-musica-1391216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-spotify-ni-apple-music-app-arrasa-escuchar-musica-android-auto-3515718.jpg?tf=1200x' alt='Ni Spotify ni Apple Music, esta es la app para escuchar música que arrasa  en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/drones-reparto-tienen-problema-demasiada-gente-armada-rutas-1393795'>Los drones de reparto tienen un problema: demasiada gente armada en sus rutas</a></h4>
     <a href='https://computerhoy.com/tecnologia/drones-reparto-tienen-problema-demasiada-gente-armada-rutas-1393795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/detenido-disparar-pistola-dron-reparto-walmart-3646157.jpg?tf=1200x' alt='Los drones de reparto tienen un problema: demasiada gente armada en sus rutas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381'>Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial</a></h4>
     <a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mars-odyssey-completa-100000-vueltas-marte-celebra-foto-especial-3631253.jpg?tf=1200x' alt='Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-gaming-zone-tienda-3d-videojuegos-1393791'>Las tiendas físicas de videojuegos están muriendo, así que Amazon se inventa las tiendas físicas virtuales</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-gaming-zone-tienda-3d-videojuegos-1393791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tiendas-fisicas-videojuegos-estan-muriendo-amazon-inventa-tiendas-fisicas-virtuales-3645738.jpg?tf=1200x' alt='Las tiendas físicas de videojuegos están muriendo, así que Amazon se inventa las tiendas físicas virtuales' />
     </a>
 </div>
 
