@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/6-trucos-mejorar-eficiencia-microsoft-outlook-1393546'>6 trucos para mejorar la eficiencia de Microsoft Outlook</a></h4>
-    <a href='https://computerhoy.com/apps/6-trucos-mejorar-eficiencia-microsoft-outlook-1393546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/6-trucos-mejorar-eficiencia-microsoft-outlook-3637813.jpg?tf=1200x' alt='6 trucos para mejorar la eficiencia de Microsoft Outlook' />
+    <h4><a href='https://computerhoy.com/energia/pequenas-esferas-usan-luz-solar-artificial-superando-paneles-solares-alcanzando-60-veces-capacidad-1393402'>Las pequeñas esferas que usan luz solar y artificial, superando a los paneles solares y alcanzando 60 veces su capacidad</a></h4>
+    <a href='https://computerhoy.com/energia/pequenas-esferas-usan-luz-solar-artificial-superando-paneles-solares-alcanzando-60-veces-capacidad-1393402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/esferas-generar-electricidad-3634660.jpg?tf=1200x' alt='Las pequeñas esferas que usan luz solar y artificial, superando a los paneles solares y alcanzando 60 veces su capacidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/cambio-acelera-velocidad-cualquier-conexion-wifi-instante-1219216'>El sencillo cambio que acelera la velocidad de cualquier conexión WiFi al instante</a></h4>
-    <a href='https://computerhoy.com/tutoriales/cambio-acelera-velocidad-cualquier-conexion-wifi-instante-1219216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/parte-trasera-router-wifi-2990450.jpg?tf=1200x' alt='El sencillo cambio que acelera la velocidad de cualquier conexión WiFi al instante' />
+    <h4><a href='https://computerhoy.com/tecnologia/mark-zuckerberg-pide-pies-tierra-openai-google-no-estamos-creando-dios-ia-1393153'>Mark Zuckerberg pide los pies en la tierra a OpenAI y Google: "No estamos creando a Dios con la IA"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mark-zuckerberg-pide-pies-tierra-openai-google-no-estamos-creando-dios-ia-1393153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mark-zuckerberg-2867171.jpg?tf=1200x' alt='Mark Zuckerberg pide los pies en la tierra a OpenAI y Google: "No estamos creando a Dios con la IA"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ayudara-inteligencia-artificial-vivir-120-anos-experto-1393005'>Así ayudará la inteligencia artificial a vivir 120 años, según un experto</a></h4>
-    <a href='https://computerhoy.com/ciencia/ayudara-inteligencia-artificial-vivir-120-anos-experto-1393005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ayudara-inteligencia-artificial-vivir-120-anos-experto-3606361.jpg?tf=1200x' alt='Así ayudará la inteligencia artificial a vivir 120 años, según un experto' />
+    <h4><a href='https://computerhoy.com/tecnologia/nothing-phone-2-rey-gama-media-ahora-precio-risa-menos-500-euros-1393829'>El Nothing Phone (2) es el rey de la gama media y ahora está a precio de risa: menos de 500 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nothing-phone-2-rey-gama-media-ahora-precio-risa-menos-500-euros-1393829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nothing-phone-2-3256624.jpg?tf=1200x' alt='El Nothing Phone (2) es el rey de la gama media y ahora está a precio de risa: menos de 500 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hacienda-multara-hoy-carta-todos-no-hayan-hecho-tramite-1393155'>Hacienda multará desde hoy por carta a todos los que no hayan hecho este trámite</a></h4>
-    <a href='https://computerhoy.com/life/hacienda-multara-hoy-carta-todos-no-hayan-hecho-tramite-1393155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacienda-3613784.jpg?tf=1200x' alt='Hacienda multará desde hoy por carta a todos los que no hayan hecho este trámite' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-hace-saltar-alarmas-mucho-cuidado-llamada-telefono-1393608'>La Policía Nacional hace saltar las alarmas: mucho cuidado con esta llamada de teléfono</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-hace-saltar-alarmas-mucho-cuidado-llamada-telefono-1393608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-movil-3641674.jpg?tf=1200x' alt='La Policía Nacional hace saltar las alarmas: mucho cuidado con esta llamada de teléfono' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-1393230'>El impacto de la inteligencia artificial ya se deja ver: 60 escritores y editores de una empresa son sustituidos por ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-1393230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-3614574.jpg?tf=1200x' alt='El impacto de la inteligencia artificial ya se deja ver: 60 escritores y editores de una empresa son sustituidos por ChatGPT' />
+    <h4><a href='https://computerhoy.com/moviles/cansado-viejo-movil-3-senales-te-indican-hora-cambiarlo-1393819'>¿Cansado de tu viejo móvil? 3 señales que te indican que es hora de cambiarlo</a></h4>
+    <a href='https://computerhoy.com/moviles/cansado-viejo-movil-3-senales-te-indican-hora-cambiarlo-1393819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movil-enfado-3648602.jpg?tf=1200x' alt='¿Cansado de tu viejo móvil? 3 señales que te indican que es hora de cambiarlo' />
     </a>
 </div>
 
