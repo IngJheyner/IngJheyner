@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-1393823'>Varapalo histórico al coche eléctrico: Mercedes vuelve a los motores de combustión</a></h4>
-    <a href='https://computerhoy.com/motor/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-1393823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-3648603.jpg?tf=1200x' alt='Varapalo histórico al coche eléctrico: Mercedes vuelve a los motores de combustión' />
+    <h4><a href='https://computerhoy.com/tecnologia/eurocopa-entra-recta-final-vivela-grande-smart-tv-lg-65-pulgadas-barra-sonido-regalo-1393903'>La Eurocopa entra en su recta final: vívela a lo grande con esta Smart TV LG de 65 pulgadas, ¡con barra de sonido de regalo!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/eurocopa-entra-recta-final-vivela-grande-smart-tv-lg-65-pulgadas-barra-sonido-regalo-1393903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lg-oled65c31la-3649709.jpg?tf=1200x' alt='La Eurocopa entra en su recta final: vívela a lo grande con esta Smart TV LG de 65 pulgadas, ¡con barra de sonido de regalo!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/funcion-oculta-windows-11-puede-evitar-pc-vaya-lento-1393628'>Esta función oculta de Windows 11 puede evitar que tu PC vaya lento</a></h4>
-    <a href='https://computerhoy.com/windows/funcion-oculta-windows-11-puede-evitar-pc-vaya-lento-1393628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-3391674.jpg?tf=1200x' alt='Esta función oculta de Windows 11 puede evitar que tu PC vaya lento' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-1393443'>Cómo una foto en WhatsApp puede revelar tu ubicación y las medidas para protegerte eficazmente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-1393443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-3635361.jpg?tf=1200x' alt='Cómo una foto en WhatsApp puede revelar tu ubicación y las medidas para protegerte eficazmente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/laliga-alia-emiratos-arabes-dinero-acabar-iptv-1393180'>LaLiga se alía con Emiratos Árabes (y su dinero) para acabar con las IPTV</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/laliga-alia-emiratos-arabes-dinero-acabar-iptv-1393180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/laliga-alia-emiratos-arabes-dinero-acabar-iptv-3613610.jpg?tf=1200x' alt='LaLiga se alía con Emiratos Árabes (y su dinero) para acabar con las IPTV' />
+    <h4><a href='https://computerhoy.com/moviles/mejor-teclado-escribir-movil-revelado-estudio-1393432'>Este es el mejor teclado para escribir en el móvil revelado por un estudio</a></h4>
+    <a href='https://computerhoy.com/moviles/mejor-teclado-escribir-movil-revelado-estudio-1393432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teclado-movil-3635140.jpg?tf=1200x' alt='Este es el mejor teclado para escribir en el móvil revelado por un estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/miles-usuarios-no-saben-como-infectaron-malware-principal-sospechoso-proveedor-internet-1393169'>Miles de usuarios no saben cómo se infectaron con malware: el principal sospechoso es su proveedor de Internet</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/miles-usuarios-no-saben-como-infectaron-malware-principal-sospechoso-proveedor-internet-1393169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/malware-ordenador-3613433.jpg?tf=1200x' alt='Miles de usuarios no saben cómo se infectaron con malware: el principal sospechoso es su proveedor de Internet' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-1393197'>Sentencia histórica: obligan a un banco a devolver 6.000 euros de una ciberestafa por falta de medidas de seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-1393197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-3613935.jpg?tf=1200x' alt='Sentencia histórica: obligan a un banco a devolver 6.000 euros de una ciberestafa por falta de medidas de seguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/error-critico-openssh-pone-riesgo-700000-dispositivos-linux-1393848'>Un error crítico en OpenSSH pone en riesgo 700.000 dispositivos Linux</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/error-critico-openssh-pone-riesgo-700000-dispositivos-linux-1393848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ciberseguridad-linux-3649048.jpg?tf=1200x' alt='Un error crítico en OpenSSH pone en riesgo 700.000 dispositivos Linux' />
+    <h4><a href='https://computerhoy.com/life/truco-abuela-eliminar-manchas-amarillas-enchufes-dejarlos-como-nuevos-1393177'>El truco de la abuela para eliminar las manchas amarillas de los enchufes y dejarlos como nuevos</a></h4>
+    <a href='https://computerhoy.com/life/truco-abuela-eliminar-manchas-amarillas-enchufes-dejarlos-como-nuevos-1393177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/enchufe-sucio-3613611.jpg?tf=1200x' alt='El truco de la abuela para eliminar las manchas amarillas de los enchufes y dejarlos como nuevos' />
     </a>
 </div>
 
