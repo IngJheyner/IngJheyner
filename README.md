@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/detenido-utilizar-red-wifi-gemela-aeropuertos-robar-datos-viajeros-1394000'>Detenido por utilizar una red WiFi gemela en los aeropuertos para robar datos de viajeros</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/detenido-utilizar-red-wifi-gemela-aeropuertos-robar-datos-viajeros-1394000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/red-wifi-aeropuerto-3652126.jpg?tf=1200x' alt='Detenido por utilizar una red WiFi gemela en los aeropuertos para robar datos de viajeros' />
+    <h4><a href='https://computerhoy.com/entretenimiento/te-encanto-seven-no-puedes-perderte-thriller-morgan-freeman-acaba-llegar-netflix-1393283'>Si te encantó Seven no puedes perderte este thriller con Morgan Freeman que acaba de llegar a Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/te-encanto-seven-no-puedes-perderte-thriller-morgan-freeman-acaba-llegar-netflix-1393283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/te-encanto-seven-no-puedes-perderte-thriller-morgan-freeman-acaba-llegar-netflix-3617002.jpg?tf=1200x' alt='Si te encantó Seven no puedes perderte este thriller con Morgan Freeman que acaba de llegar a Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-avisar-otros-conductores-peligro-google-maps-1393760'>Cómo avisar a otros conductores de un peligro en Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-avisar-otros-conductores-peligro-google-maps-1393760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-avisar-otros-conductores-peligro-google-maps-3645043.jpg?tf=1200x' alt='Cómo avisar a otros conductores de un peligro en Google Maps' />
+    <h4><a href='https://computerhoy.com/apps/airbnb-pone-fin-fiestas-no-autorizadas-verano-tecnologia-prevencion-1393572'>Airbnb pone fin a las fiestas no autorizadas este verano con su tecnología de prevención</a></h4>
+    <a href='https://computerhoy.com/apps/airbnb-pone-fin-fiestas-no-autorizadas-verano-tecnologia-prevencion-1393572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/airbnb-3638456.jpg?tf=1200x' alt='Airbnb pone fin a las fiestas no autorizadas este verano con su tecnología de prevención' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/nosferatu-dracula-peliculas-miedo-han-trasformado-mito-vampiro-1393248'>De Nosferatu a Drácula, 5 películas de miedo que han trasformado el mito del vampiro</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/nosferatu-dracula-peliculas-miedo-han-trasformado-mito-vampiro-1393248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nosferatu-dracula-5-peliculas-miedo-han-trasformado-mito-vampiro-3615070.jpg?tf=1200x' alt='De Nosferatu a Drácula, 5 películas de miedo que han trasformado el mito del vampiro' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-bloqueara-acceso-correo-electronico-hotmail-outlook-menos-hagas-1394004'>Microsoft bloqueará el acceso al correo electrónico de Hotmail y Outlook a menos que hagas esto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-bloqueara-acceso-correo-electronico-hotmail-outlook-menos-hagas-1394004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/correo-electronico-outlook-3652399.jpg?tf=1200x' alt='Microsoft bloqueará el acceso al correo electrónico de Hotmail y Outlook a menos que hagas esto' />
     </a>
 </div>
 
