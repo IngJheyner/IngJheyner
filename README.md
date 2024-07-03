@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-sim-fisica-esim-1393753'>Cómo convertir tu SIM física a eSIM: tardarás segundos en hacerlo desde casa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-convertir-sim-fisica-esim-1393753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/esim-3649537.jpg?tf=1200x' alt='Cómo convertir tu SIM física a eSIM: tardarás segundos en hacerlo desde casa' />
+    <h4><a href='https://computerhoy.com/ciencia/problema-matematico-dos-soluciones-diferentes-1235616'>El problema matemático que tiene una solución diferente dependiendo de dónde vivas</a></h4>
+    <a href='https://computerhoy.com/ciencia/problema-matematico-dos-soluciones-diferentes-1235616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/problema-matematico-sigue-dividiendo-internet-cada-persona-obtiene-resultado-diferente-3017698.jpg?tf=1200x' alt='El problema matemático que tiene una solución diferente dependiendo de dónde vivas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/todo-mundo-esperando-windows-10-muera-menos-posiblemente-1393207'>Todo el mundo está esperando a que Windows 10 muera... menos posiblemente tú</a></h4>
-    <a href='https://computerhoy.com/windows/todo-mundo-esperando-windows-10-muera-menos-posiblemente-1393207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/muerte-windows-10-3614253.jpg?tf=1200x' alt='Todo el mundo está esperando a que Windows 10 muera... menos posiblemente tú' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-bizum-entidad-bancaria-1392800'>¿Cómo cambiar Bizum de entidad bancaria? </a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-bizum-entidad-bancaria-1392800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bizum-bancos-3599209.jpg?tf=1200x' alt='¿Cómo cambiar Bizum de entidad bancaria? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/hay-ver-primero-casa-dragon-juego-tronos-1393486'>¿Qué hay que ver primero La Casa del Dragón o Juego de Tronos?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/hay-ver-primero-casa-dragon-juego-tronos-1393486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hay-ver-primero-casa-dragon-juego-tronos-3635998.jpg?tf=1200x' alt='¿Qué hay que ver primero La Casa del Dragón o Juego de Tronos?' />
+    <h4><a href='https://computerhoy.com/moviles/sencillas-acciones-movil-desconectar-verdad-vacaciones-1392001'>3 sencillas acciones con el móvil para desconectar de verdad en vacaciones</a></h4>
+    <a href='https://computerhoy.com/moviles/sencillas-acciones-movil-desconectar-verdad-vacaciones-1392001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/3-sencillas-acciones-movil-desconectar-verdad-vacaciones-3555735.jpg?tf=1200x' alt='3 sencillas acciones con el móvil para desconectar de verdad en vacaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/japon-borde-colapso-demografico-quiere-crear-tunel-automatizado-500-kilometros-transportar-mercancias-1393228'>Japón al borde del colapso demográfico quiere crear un túnel automatizado de 500 kilómetros para transportar mercancías</a></h4>
-    <a href='https://computerhoy.com/life/japon-borde-colapso-demografico-quiere-crear-tunel-automatizado-500-kilometros-transportar-mercancias-1393228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/japon-podria-crear-tunel-500-kilometros-transportar-mercancia-tokio-osaka-3614568.jpg?tf=1200x' alt='Japón al borde del colapso demográfico quiere crear un túnel automatizado de 500 kilómetros para transportar mercancías' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-1393181'>Ya está pasando: así es la estafa que usa la inteligencia artificial para clonar la voz de un familiar</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-1393181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-3613599.jpg?tf=1200x' alt='Ya está pasando: así es la estafa que usa la inteligencia artificial para clonar la voz de un familiar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-constelaciones-estrellas-movil-1102513'>Cómo encontrar constelaciones de estrellas con tu móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-constelaciones-estrellas-movil-1102513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-encontrar-constelaciones-estrellas-movil-3639760.jpg?tf=1200x' alt='Cómo encontrar constelaciones de estrellas con tu móvil' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/usas-buzon-voz-movil-pues-cuidado-estafa-alertan-expertos-1393458'>¿Usas el buzón de voz del móvil? Pues cuidado con esta estafa sobre la que alertan los expertos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/usas-buzon-voz-movil-pues-cuidado-estafa-alertan-expertos-1393458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/usas-buzon-voz-movil-pues-cuidado-estafa-alertan-expertos-3635516.jpg?tf=1200x' alt='¿Usas el buzón de voz del móvil? Pues cuidado con esta estafa sobre la que alertan los expertos' />
     </a>
 </div>
 
