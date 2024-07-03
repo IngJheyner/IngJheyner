@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mensaje-tallado-tumba-stephen-hawking-sorprender-1257050'>Cuando leas el mensaje tallado en la tumba de Stephen Hawking, te vas a emocionar</a></h4>
+    <a href='https://computerhoy.com/life/mensaje-tallado-tumba-stephen-hawking-sorprender-1257050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cuando-leas-mensaje-tallado-tumba-stephen-hawking-te-vas-emocionar-3052676.jpg?tf=1200x' alt='Cuando leas el mensaje tallado en la tumba de Stephen Hawking, te vas a emocionar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/creadores-inteligencia-artificial-carga-grandes-empresas-defiende-modelo-propiedad-usuario-1393642'>Uno de los creadores de la inteligencia artificial carga contra las grandes empresas y defiende un modelo “propiedad del usuario”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/creadores-inteligencia-artificial-carga-grandes-empresas-defiende-modelo-propiedad-usuario-1393642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/creadores-inteligencia-artificial-carga-grandes-empresas-defiende-modelo-propiedad-usuario-3642137.jpg?tf=1200x' alt='Uno de los creadores de la inteligencia artificial carga contra las grandes empresas y defiende un modelo “propiedad del usuario”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/experto-mundial-ia-vuelve-alertar-peligros-ya-no-tenemos-boton-rojo-1393017'>Un experto mundial en IA vuelve a alertar de sus peligros: “ya no tenemos botón rojo”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/experto-mundial-ia-vuelve-alertar-peligros-ya-no-tenemos-boton-rojo-1393017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/boton-panico-3607334.jpg?tf=1200x' alt='Un experto mundial en IA vuelve a alertar de sus peligros: “ya no tenemos botón rojo”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/3-metodos-efectivos-eliminar-impresora-pc-windows-11-1360945'>3 métodos efectivos para eliminar una impresora de tu PC con Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/3-metodos-efectivos-eliminar-impresora-pc-windows-11-1360945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/3-metodos-efectivos-eliminar-impresora-pc-windows-11-3267983.jpg?tf=1200x' alt='3 métodos efectivos para eliminar una impresora de tu PC con Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia-dji-bicicletas-electricas-1393799'>A punto de ser prohibida en Estados Unidos, DJI cambia los drones por las bicis eléctricas</a></h4>
     <a href='https://computerhoy.com/tecnologia-dji-bicicletas-electricas-1393799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/punto-ser-prohibida-estados-unidos-dji-cambia-drones-bicis-electricas-3647237.jpg?tf=1200x' alt='A punto de ser prohibida en Estados Unidos, DJI cambia los drones por las bicis eléctricas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olimex-raspberry-pi-tiene-dos-procesadores-emuladores-retro-1393128'>Este clon de Raspberry Pi tiene dos procesadores para los emuladores retro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olimex-raspberry-pi-tiene-dos-procesadores-emuladores-retro-1393128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/olimex-clon-raspberry-pi-dos-procesadores-emuladores-integrados-3610398.jpg?tf=1200x' alt='Este clon de Raspberry Pi tiene dos procesadores para los emuladores retro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/android-auto-spotify-apple-music-app-arrasa-musica-1391216'>Ni Spotify ni Apple Music, esta es la app para escuchar música que arrasa  en Android Auto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/android-auto-spotify-apple-music-app-arrasa-musica-1391216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-spotify-ni-apple-music-app-arrasa-escuchar-musica-android-auto-3515718.jpg?tf=1200x' alt='Ni Spotify ni Apple Music, esta es la app para escuchar música que arrasa  en Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/drones-reparto-tienen-problema-demasiada-gente-armada-rutas-1393795'>Los drones de reparto tienen un problema: demasiada gente armada en sus rutas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/drones-reparto-tienen-problema-demasiada-gente-armada-rutas-1393795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/detenido-disparar-pistola-dron-reparto-walmart-3646157.jpg?tf=1200x' alt='Los drones de reparto tienen un problema: demasiada gente armada en sus rutas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/bill-gates-dice-no-debemos-preocuparnos-consumo-energetico-ia-1393578'>Bill Gates dice que "no debemos preocuparnos por el consumo eléctrico de la IA"</a></h4>
-    <a href='https://computerhoy.com/energia/bill-gates-dice-no-debemos-preocuparnos-consumo-energetico-ia-1393578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bill-gates-2919658.jpg?tf=1200x' alt='Bill Gates dice que "no debemos preocuparnos por el consumo eléctrico de la IA"' />
     </a>
 </div>
 
