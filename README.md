@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/quien-aleksey-pajitnov-creador-tetris-tuvo-esperar-10-anos-ganar-primer-centimo-juego-generaba-millones-1393291'>Quién es Aleksey Pajitnov, el creador de Tetris que tuvo que esperar 10 años para ganar su primer céntimo por un juego que generaba millones</a></h4>
+    <a href='https://computerhoy.com/life/quien-aleksey-pajitnov-creador-tetris-tuvo-esperar-10-anos-ganar-primer-centimo-juego-generaba-millones-1393291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/quien-aleksey-pajitnov-creador-tetris-tuvo-esperar-10-anos-ganar-primer-centimo-juego-generaba-millones-3617290.jpg?tf=1200x' alt='Quién es Aleksey Pajitnov, el creador de Tetris que tuvo que esperar 10 años para ganar su primer céntimo por un juego que generaba millones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/bill-gates-dice-no-debemos-preocuparnos-consumo-energetico-ia-1393578'>Bill Gates dice que "no debemos preocuparnos por el consumo eléctrico de la IA"</a></h4>
+    <a href='https://computerhoy.com/energia/bill-gates-dice-no-debemos-preocuparnos-consumo-energetico-ia-1393578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bill-gates-2919658.jpg?tf=1200x' alt='Bill Gates dice que "no debemos preocuparnos por el consumo eléctrico de la IA"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/trucos-avalados-banco-espana-saber-moneda-falsa-1393776'>Trucos avalados por el Banco de España para saber si una moneda es falsa</a></h4>
     <a href='https://computerhoy.com/life/trucos-avalados-banco-espana-saber-moneda-falsa-1393776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trucos-avalados-banco-espana-saber-moneda-falsa-3645737.jpg?tf=1200x' alt='Trucos avalados por el Banco de España para saber si una moneda es falsa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/0patch-como-funciona-salvavidas-windows-10-todo-mundo-habla-1393980'>Qué es 0Patch y cómo funciona el salvavidas para Windows 10 del que todo el mundo habla</a></h4>
-    <a href='https://computerhoy.com/windows/0patch-como-funciona-salvavidas-windows-10-todo-mundo-habla-1393980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/0patch-como-funciona-salvavidas-windows-10-todo-mundo-habla-3652125.jpg?tf=1200x' alt='Qué es 0Patch y cómo funciona el salvavidas para Windows 10 del que todo el mundo habla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/anflow-pl-primera-bicicleta-electrica-montana-dji-1394007'>Anflow PL, la primera bicicleta eléctrica de montaña de DJI</a></h4>
-    <a href='https://computerhoy.com/motor/anflow-pl-primera-bicicleta-electrica-montana-dji-1394007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/anflow-pl-primera-bicicleta-electrica-montana-dji-3652043.jpg?tf=1200x' alt='Anflow PL, la primera bicicleta eléctrica de montaña de DJI' />
     </a>
 </div>
 
