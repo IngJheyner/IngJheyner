@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-chihiro-totoro-5-peliculas-studio-ghibli-menos-conocidas-son-obras-maestras-1393063'>No solo Chihiro y Totoro: 5 películas del Studio Ghibli menos conocidas que son obras maestras</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/no-solo-chihiro-totoro-5-peliculas-studio-ghibli-menos-conocidas-son-obras-maestras-1393063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-solo-chihiro-totoro-5-peliculas-studio-ghibli-menos-conocidas-son-obras-maestras-3607792.jpg?tf=1200x' alt='No solo Chihiro y Totoro: 5 películas del Studio Ghibli menos conocidas que son obras maestras' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/detenido-utilizar-red-wifi-gemela-aeropuertos-robar-datos-viajeros-1394000'>Detenido por utilizar una red WiFi gemela en los aeropuertos para robar datos de viajeros</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/detenido-utilizar-red-wifi-gemela-aeropuertos-robar-datos-viajeros-1394000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/red-wifi-aeropuerto-3652126.jpg?tf=1200x' alt='Detenido por utilizar una red WiFi gemela en los aeropuertos para robar datos de viajeros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-elegir-fuente-alimentacion-adecuada-nuevo-pc-1393748'>Cómo elegir la fuente de alimentación adecuada para tu nuevo PC</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-elegir-fuente-alimentacion-adecuada-nuevo-pc-1393748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/conexion-cable-psu-pc-3644134.jpg?tf=1200x' alt='Cómo elegir la fuente de alimentación adecuada para tu nuevo PC' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-avisar-otros-conductores-peligro-google-maps-1393760'>Cómo avisar a otros conductores de un peligro en Google Maps</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-avisar-otros-conductores-peligro-google-maps-1393760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-avisar-otros-conductores-peligro-google-maps-3645043.jpg?tf=1200x' alt='Cómo avisar a otros conductores de un peligro en Google Maps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ajustes-ocultos-llevar-telefono-android-otra-velocidad-1393560'>Los ajustes ocultos para llevar tu teléfono Android a otra velocidad</a></h4>
-    <a href='https://computerhoy.com/android/ajustes-ocultos-llevar-telefono-android-otra-velocidad-1393560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ajustes-ocultos-llevar-telefono-android-otra-velocidad-3638306.jpg?tf=1200x' alt='Los ajustes ocultos para llevar tu teléfono Android a otra velocidad' />
+    <h4><a href='https://computerhoy.com/entretenimiento/nosferatu-dracula-peliculas-miedo-han-trasformado-mito-vampiro-1393248'>De Nosferatu a Drácula, 5 películas de miedo que han trasformado el mito del vampiro</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/nosferatu-dracula-peliculas-miedo-han-trasformado-mito-vampiro-1393248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nosferatu-dracula-5-peliculas-miedo-han-trasformado-mito-vampiro-3615070.jpg?tf=1200x' alt='De Nosferatu a Drácula, 5 películas de miedo que han trasformado el mito del vampiro' />
     </a>
 </div>
 
