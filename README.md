@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mensaje-tallado-tumba-stephen-hawking-sorprender-1257050'>Cuando leas el mensaje tallado en la tumba de Stephen Hawking, te vas a emocionar</a></h4>
-    <a href='https://computerhoy.com/life/mensaje-tallado-tumba-stephen-hawking-sorprender-1257050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/cuando-leas-mensaje-tallado-tumba-stephen-hawking-te-vas-emocionar-3052676.jpg?tf=1200x' alt='Cuando leas el mensaje tallado en la tumba de Stephen Hawking, te vas a emocionar' />
+    <h4><a href='https://computerhoy.com/tecnologia/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-1393230'>El impacto de la inteligencia artificial ya se deja ver: 60 escritores y editores de una empresa son sustituidos por ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-1393230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-3614574.jpg?tf=1200x' alt='El impacto de la inteligencia artificial ya se deja ver: 60 escritores y editores de una empresa son sustituidos por ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/creadores-inteligencia-artificial-carga-grandes-empresas-defiende-modelo-propiedad-usuario-1393642'>Uno de los creadores de la inteligencia artificial carga contra las grandes empresas y defiende un modelo “propiedad del usuario”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/creadores-inteligencia-artificial-carga-grandes-empresas-defiende-modelo-propiedad-usuario-1393642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/creadores-inteligencia-artificial-carga-grandes-empresas-defiende-modelo-propiedad-usuario-3642137.jpg?tf=1200x' alt='Uno de los creadores de la inteligencia artificial carga contra las grandes empresas y defiende un modelo “propiedad del usuario”' />
+    <h4><a href='https://computerhoy.com/moviles/movil-hace-retratos-parecidos-fotos-estudio-no-iphone-ni-vale-1000-euros-1392993'>Este es el móvil que hace retratos más parecidos a las fotos de estudio (y no es un iPhone ni vale 1.000 euros)</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-hace-retratos-parecidos-fotos-estudio-no-iphone-ni-vale-1000-euros-1392993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3607179.jpg?tf=1200x' alt='Este es el móvil que hace retratos más parecidos a las fotos de estudio (y no es un iPhone ni vale 1.000 euros)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/experto-mundial-ia-vuelve-alertar-peligros-ya-no-tenemos-boton-rojo-1393017'>Un experto mundial en IA vuelve a alertar de sus peligros: “ya no tenemos botón rojo”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/experto-mundial-ia-vuelve-alertar-peligros-ya-no-tenemos-boton-rojo-1393017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/boton-panico-3607334.jpg?tf=1200x' alt='Un experto mundial en IA vuelve a alertar de sus peligros: “ya no tenemos botón rojo”' />
+    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-matepad-115-s-pantalla-mate-pero-no-todo-mundo-1393641'>Lo que más me ha gustado de Huawei MatePad 11.5" S es su pantalla mate, pero no es para todo el mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-matepad-115-s-pantalla-mate-pero-no-todo-mundo-1393641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/huawei-matepad-115s-3634656.jpg?tf=1200x' alt='Lo que más me ha gustado de Huawei MatePad 11.5" S es su pantalla mate, pero no es para todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/3-metodos-efectivos-eliminar-impresora-pc-windows-11-1360945'>3 métodos efectivos para eliminar una impresora de tu PC con Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/3-metodos-efectivos-eliminar-impresora-pc-windows-11-1360945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/3-metodos-efectivos-eliminar-impresora-pc-windows-11-3267983.jpg?tf=1200x' alt='3 métodos efectivos para eliminar una impresora de tu PC con Windows 11' />
+    <h4><a href='https://computerhoy.com/moviles/llevo-8-anos-probando-moviles-creo-zoom-empeorando-gama-alta-1393033'>Llevo 8 años probando móviles y creo que el zoom está empeorando en la gama alta</a></h4>
+    <a href='https://computerhoy.com/moviles/llevo-8-anos-probando-moviles-creo-zoom-empeorando-gama-alta-1393033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-s24-ultra-3272876.jpg?tf=1200x' alt='Llevo 8 años probando móviles y creo que el zoom está empeorando en la gama alta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia-dji-bicicletas-electricas-1393799'>A punto de ser prohibida en Estados Unidos, DJI cambia los drones por las bicis eléctricas</a></h4>
-    <a href='https://computerhoy.com/tecnologia-dji-bicicletas-electricas-1393799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/punto-ser-prohibida-estados-unidos-dji-cambia-drones-bicis-electricas-3647237.jpg?tf=1200x' alt='A punto de ser prohibida en Estados Unidos, DJI cambia los drones por las bicis eléctricas' />
+    <h4><a href='https://computerhoy.com/tutoriales/lio-elegir-auriculares-como-escoger-perfectos-ti-1385881'>Comprar unos auriculares es un lío: cómo elegir los perfectos para ti</a></h4>
+    <a href='https://computerhoy.com/tutoriales/lio-elegir-auriculares-como-escoger-perfectos-ti-1385881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/auriculares-como-saber-cuales-son-perfectos-ti-3311140.jpg?tf=1200x' alt='Comprar unos auriculares es un lío: cómo elegir los perfectos para ti' />
     </a>
 </div>
 
