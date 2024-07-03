@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/te-encanto-seven-no-puedes-perderte-thriller-morgan-freeman-acaba-llegar-netflix-1393283'>Si te encantó Seven no puedes perderte este thriller con Morgan Freeman que acaba de llegar a Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/te-encanto-seven-no-puedes-perderte-thriller-morgan-freeman-acaba-llegar-netflix-1393283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/te-encanto-seven-no-puedes-perderte-thriller-morgan-freeman-acaba-llegar-netflix-3617002.jpg?tf=1200x' alt='Si te encantó Seven no puedes perderte este thriller con Morgan Freeman que acaba de llegar a Netflix' />
+    <h4><a href='https://computerhoy.com/life/trucos-avalados-banco-espana-saber-moneda-falsa-1393776'>Trucos avalados por el Banco de España para saber si una moneda es falsa</a></h4>
+    <a href='https://computerhoy.com/life/trucos-avalados-banco-espana-saber-moneda-falsa-1393776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trucos-avalados-banco-espana-saber-moneda-falsa-3645737.jpg?tf=1200x' alt='Trucos avalados por el Banco de España para saber si una moneda es falsa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/airbnb-pone-fin-fiestas-no-autorizadas-verano-tecnologia-prevencion-1393572'>Airbnb pone fin a las fiestas no autorizadas este verano con su tecnología de prevención</a></h4>
-    <a href='https://computerhoy.com/apps/airbnb-pone-fin-fiestas-no-autorizadas-verano-tecnologia-prevencion-1393572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/airbnb-3638456.jpg?tf=1200x' alt='Airbnb pone fin a las fiestas no autorizadas este verano con su tecnología de prevención' />
+    <h4><a href='https://computerhoy.com/windows/0patch-como-funciona-salvavidas-windows-10-todo-mundo-habla-1393980'>Qué es 0Patch y cómo funciona el salvavidas para Windows 10 del que todo el mundo habla</a></h4>
+    <a href='https://computerhoy.com/windows/0patch-como-funciona-salvavidas-windows-10-todo-mundo-habla-1393980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/0patch-como-funciona-salvavidas-windows-10-todo-mundo-habla-3652125.jpg?tf=1200x' alt='Qué es 0Patch y cómo funciona el salvavidas para Windows 10 del que todo el mundo habla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-bloqueara-acceso-correo-electronico-hotmail-outlook-menos-hagas-1394004'>Microsoft bloqueará el acceso al correo electrónico de Hotmail y Outlook a menos que hagas esto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-bloqueara-acceso-correo-electronico-hotmail-outlook-menos-hagas-1394004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/correo-electronico-outlook-3652399.jpg?tf=1200x' alt='Microsoft bloqueará el acceso al correo electrónico de Hotmail y Outlook a menos que hagas esto' />
+    <h4><a href='https://computerhoy.com/motor/anflow-pl-primera-bicicleta-electrica-montana-dji-1394007'>Anflow PL, la primera bicicleta eléctrica de montaña de DJI</a></h4>
+    <a href='https://computerhoy.com/motor/anflow-pl-primera-bicicleta-electrica-montana-dji-1394007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/anflow-pl-primera-bicicleta-electrica-montana-dji-3652043.jpg?tf=1200x' alt='Anflow PL, la primera bicicleta eléctrica de montaña de DJI' />
     </a>
 </div>
 
