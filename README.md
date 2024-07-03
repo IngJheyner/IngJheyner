@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/drones-reparto-tienen-problema-demasiada-gente-armada-rutas-1393795'>Los drones de reparto tienen un problema: demasiada gente armada en sus rutas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/drones-reparto-tienen-problema-demasiada-gente-armada-rutas-1393795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/detenido-disparar-pistola-dron-reparto-walmart-3646157.jpg?tf=1200x' alt='Los drones de reparto tienen un problema: demasiada gente armada en sus rutas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/bill-gates-dice-no-debemos-preocuparnos-consumo-energetico-ia-1393578'>Bill Gates dice que "no debemos preocuparnos por el consumo eléctrico de la IA"</a></h4>
     <a href='https://computerhoy.com/energia/bill-gates-dice-no-debemos-preocuparnos-consumo-energetico-ia-1393578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bill-gates-2919658.jpg?tf=1200x' alt='Bill Gates dice que "no debemos preocuparnos por el consumo eléctrico de la IA"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/amazon-gaming-zone-tienda-3d-videojuegos-1393791'>Las tiendas físicas de videojuegos están muriendo, así que Amazon se inventa las tiendas físicas virtuales</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-gaming-zone-tienda-3d-videojuegos-1393791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tiendas-fisicas-videojuegos-estan-muriendo-amazon-inventa-tiendas-fisicas-virtuales-3645738.jpg?tf=1200x' alt='Las tiendas físicas de videojuegos están muriendo, así que Amazon se inventa las tiendas físicas virtuales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/trucos-avalados-banco-espana-saber-moneda-falsa-1393776'>Trucos avalados por el Banco de España para saber si una moneda es falsa</a></h4>
-    <a href='https://computerhoy.com/life/trucos-avalados-banco-espana-saber-moneda-falsa-1393776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trucos-avalados-banco-espana-saber-moneda-falsa-3645737.jpg?tf=1200x' alt='Trucos avalados por el Banco de España para saber si una moneda es falsa' />
     </a>
 </div>
 
