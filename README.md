@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/eurocopa-entra-recta-final-vivela-grande-smart-tv-lg-65-pulgadas-barra-sonido-regalo-1393903'>La Eurocopa entra en su recta final: vívela a lo grande con esta Smart TV LG de 65 pulgadas, ¡con barra de sonido de regalo!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/eurocopa-entra-recta-final-vivela-grande-smart-tv-lg-65-pulgadas-barra-sonido-regalo-1393903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lg-oled65c31la-3649709.jpg?tf=1200x' alt='La Eurocopa entra en su recta final: vívela a lo grande con esta Smart TV LG de 65 pulgadas, ¡con barra de sonido de regalo!' />
+    <h4><a href='https://computerhoy.com/espacio/busca-quinta-fuerza-universo-particula-camaleon-1393202'>En busca de una quinta fuerza en el universo, la partícula camaleón</a></h4>
+    <a href='https://computerhoy.com/espacio/busca-quinta-fuerza-universo-particula-camaleon-1393202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/universo-3261763.jpg?tf=1200x' alt='En busca de una quinta fuerza en el universo, la partícula camaleón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-1393443'>Cómo una foto en WhatsApp puede revelar tu ubicación y las medidas para protegerte eficazmente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-1393443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-3635361.jpg?tf=1200x' alt='Cómo una foto en WhatsApp puede revelar tu ubicación y las medidas para protegerte eficazmente' />
+    <h4><a href='https://computerhoy.com/internet/importante-papel-operadores-multas-ver-futbol-iptv-lealtad-total-laliga-javier-tebas-1393888'>El importante papel de los operadores en las multas por ver el fútbol por IPTV y su lealtad total a LaLiga de Javier Tebas</a></h4>
+    <a href='https://computerhoy.com/internet/importante-papel-operadores-multas-ver-futbol-iptv-lealtad-total-laliga-javier-tebas-1393888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/espana-podium-iptv-no-estar-orgulloso-3506847.jpg?tf=1200x' alt='El importante papel de los operadores en las multas por ver el fútbol por IPTV y su lealtad total a LaLiga de Javier Tebas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mejor-teclado-escribir-movil-revelado-estudio-1393432'>Este es el mejor teclado para escribir en el móvil revelado por un estudio</a></h4>
-    <a href='https://computerhoy.com/moviles/mejor-teclado-escribir-movil-revelado-estudio-1393432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teclado-movil-3635140.jpg?tf=1200x' alt='Este es el mejor teclado para escribir en el móvil revelado por un estudio' />
+    <h4><a href='https://computerhoy.com/apple/tasa-retencion-iphone-motivo-cual-supera-telefonos-chinos-expertos-1393442'>La 'tasa de retención' del iPhone es el motivo por el cual supera a los teléfonos chinos, según expertos</a></h4>
+    <a href='https://computerhoy.com/apple/tasa-retencion-iphone-motivo-cual-supera-telefonos-chinos-expertos-1393442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iphone-china-3635297.jpg?tf=1200x' alt='La 'tasa de retención' del iPhone es el motivo por el cual supera a los teléfonos chinos, según expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-1393197'>Sentencia histórica: obligan a un banco a devolver 6.000 euros de una ciberestafa por falta de medidas de seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-1393197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sentencia-historica-obligan-banco-devolver-6000-euros-ciberestafa-falta-medidas-seguridad-3613935.jpg?tf=1200x' alt='Sentencia histórica: obligan a un banco a devolver 6.000 euros de una ciberestafa por falta de medidas de seguridad' />
+    <h4><a href='https://computerhoy.com/tv/netflix-ha-empezado-eliminar-planes-precios-populares-llegara-espana-1393861'>Netflix ha empezado a eliminar uno de sus planes de precios más populares: ¿llegará a España?</a></h4>
+    <a href='https://computerhoy.com/tv/netflix-ha-empezado-eliminar-planes-precios-populares-llegara-espana-1393861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/netflix-tablet-3133736.jpg?tf=1200x' alt='Netflix ha empezado a eliminar uno de sus planes de precios más populares: ¿llegará a España?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-abuela-eliminar-manchas-amarillas-enchufes-dejarlos-como-nuevos-1393177'>El truco de la abuela para eliminar las manchas amarillas de los enchufes y dejarlos como nuevos</a></h4>
-    <a href='https://computerhoy.com/life/truco-abuela-eliminar-manchas-amarillas-enchufes-dejarlos-como-nuevos-1393177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/enchufe-sucio-3613611.jpg?tf=1200x' alt='El truco de la abuela para eliminar las manchas amarillas de los enchufes y dejarlos como nuevos' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/hackers-atacan-modelo-router-wifi-d-link-pero-niegan-parchearlo-buena-razon-1393685'>Hackers atacan un modelo de router WiFi de D-Link, pero se niegan a parchearlo por una buena razón</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hackers-atacan-modelo-router-wifi-d-link-pero-niegan-parchearlo-buena-razon-1393685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='Hackers atacan un modelo de router WiFi de D-Link, pero se niegan a parchearlo por una buena razón' />
     </a>
 </div>
 
