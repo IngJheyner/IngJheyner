@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cada-tres-conductores-no-comprara-coche-nuevo-caracteristica-estudio-1393270'>Uno de cada tres conductores no comprará un coche nuevo sin esta característica, según un estudio</a></h4>
-    <a href='https://computerhoy.com/motor/cada-tres-conductores-no-comprara-coche-nuevo-caracteristica-estudio-1393270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fabricantes-coches-cada-vez-confian-google-apple-sistemas-infoentretenimiento-3294181.jpg?tf=1200x' alt='Uno de cada tres conductores no comprará un coche nuevo sin esta característica, según un estudio' />
+    <h4><a href='https://computerhoy.com/tv/funcion-netflix-cualquier-smart-tv-vea-mejor-1293268'>La desconocida función oculta de Netflix para que cualquier Smart TV se vea mucho mejor</a></h4>
+    <a href='https://computerhoy.com/tv/funcion-netflix-cualquier-smart-tv-vea-mejor-1293268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mejorar-calidad-imagen-smart-tv-netflix-3114202.jpg?tf=1200x' alt='La desconocida función oculta de Netflix para que cualquier Smart TV se vea mucho mejor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/digi-no-funcionan-llamadas-1393267'>No eres tú, si eres de DIGI no funcionan las llamadas</a></h4>
-    <a href='https://computerhoy.com/redes/digi-no-funcionan-llamadas-1393267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/digi-mobil.jpeg?tf=1200x' alt='No eres tú, si eres de DIGI no funcionan las llamadas' />
+    <h4><a href='https://computerhoy.com/life/consejo-steve-jobs-ser-mejor-persona-alcanzar-exito-felicidad-1282646'>El brillante consejo de Steve Jobs para ser mejor persona, alcanzar el éxito y la felicidad</a></h4>
+    <a href='https://computerhoy.com/life/consejo-steve-jobs-ser-mejor-persona-alcanzar-exito-felicidad-1282646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/steve-jobs-3095968.jpg?tf=1200x' alt='El brillante consejo de Steve Jobs para ser mejor persona, alcanzar el éxito y la felicidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/qpu-sirve-futuro-computacion-cuantica-1393794'>Qué es la QPU, para qué sirve y por qué es el futuro de la computación cuántica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/qpu-sirve-futuro-computacion-cuantica-1393794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/qpu-sirve-futuro-computacion-cuantica-3646830.jpg?tf=1200x' alt='Qué es la QPU, para qué sirve y por qué es el futuro de la computación cuántica' />
+    <h4><a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737'>Por qué no debes enchufar la nevera inmediatamente después de una mudanza</a></h4>
+    <a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-3644452.jpg?tf=1200x' alt='Por qué no debes enchufar la nevera inmediatamente después de una mudanza' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-cambiar-otra-red-1352629'>Cómo conectar Alexa al WiFi o cambiar a otra red</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-cambiar-otra-red-1352629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-conectar-alexa-wifi-cambiar-otra-red-3253808.jpg?tf=1200x' alt='Cómo conectar Alexa al WiFi o cambiar a otra red' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-pc-sonidos-sistema-primeras-versiones-windows-1393796'>Cómo instalar en tu PC los sonidos del sistema de las primeras versiones de Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-pc-sonidos-sistema-primeras-versiones-windows-1393796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-instalar-pc-viejos-sonidos-primeras-versiones-windows-3647236.jpg?tf=1200x' alt='Cómo instalar en tu PC los sonidos del sistema de las primeras versiones de Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/3-motivos-huir-windows-11-no-actualizar-ultimo-software-microsoft-1393264'>Los 3 motivos por los que huir de Windows 11 y no actualizar al último software de Microsoft</a></h4>
-    <a href='https://computerhoy.com/windows/3-motivos-huir-windows-11-no-actualizar-ultimo-software-microsoft-1393264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-truco-prohibido-3443242.jpg?tf=1200x' alt='Los 3 motivos por los que huir de Windows 11 y no actualizar al último software de Microsoft' />
+    <h4><a href='https://computerhoy.com/tecnologia/novedades-samsung-galaxy-ring-antes-inminente-presentacion-precio-anillo-muchas-sorpresas-1393051'>Novedades del Samsung Galaxy Ring antes de su inminente presentación: precio del anillo y muchas sorpresas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/novedades-samsung-galaxy-ring-antes-inminente-presentacion-precio-anillo-muchas-sorpresas-1393051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-ring-3614572.jpg?tf=1200x' alt='Novedades del Samsung Galaxy Ring antes de su inminente presentación: precio del anillo y muchas sorpresas' />
     </a>
 </div>
 
