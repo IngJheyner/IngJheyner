@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737'>Por qué no debes enchufar la nevera inmediatamente después de una mudanza</a></h4>
-    <a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-3644452.jpg?tf=1200x' alt='Por qué no debes enchufar la nevera inmediatamente después de una mudanza' />
+    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-chihiro-totoro-5-peliculas-studio-ghibli-menos-conocidas-son-obras-maestras-1393063'>No solo Chihiro y Totoro: 5 películas del Studio Ghibli menos conocidas que son obras maestras</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/no-solo-chihiro-totoro-5-peliculas-studio-ghibli-menos-conocidas-son-obras-maestras-1393063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-solo-chihiro-totoro-5-peliculas-studio-ghibli-menos-conocidas-son-obras-maestras-3607792.jpg?tf=1200x' alt='No solo Chihiro y Totoro: 5 películas del Studio Ghibli menos conocidas que son obras maestras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-pc-sonidos-sistema-primeras-versiones-windows-1393796'>Cómo instalar en tu PC los sonidos del sistema de las primeras versiones de Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-pc-sonidos-sistema-primeras-versiones-windows-1393796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-instalar-pc-viejos-sonidos-primeras-versiones-windows-3647236.jpg?tf=1200x' alt='Cómo instalar en tu PC los sonidos del sistema de las primeras versiones de Windows' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-elegir-fuente-alimentacion-adecuada-nuevo-pc-1393748'>Cómo elegir la fuente de alimentación adecuada para tu nuevo PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-elegir-fuente-alimentacion-adecuada-nuevo-pc-1393748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/conexion-cable-psu-pc-3644134.jpg?tf=1200x' alt='Cómo elegir la fuente de alimentación adecuada para tu nuevo PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/novedades-samsung-galaxy-ring-antes-inminente-presentacion-precio-anillo-muchas-sorpresas-1393051'>Novedades del Samsung Galaxy Ring antes de su inminente presentación: precio del anillo y muchas sorpresas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/novedades-samsung-galaxy-ring-antes-inminente-presentacion-precio-anillo-muchas-sorpresas-1393051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-ring-3614572.jpg?tf=1200x' alt='Novedades del Samsung Galaxy Ring antes de su inminente presentación: precio del anillo y muchas sorpresas' />
+    <h4><a href='https://computerhoy.com/android/ajustes-ocultos-llevar-telefono-android-otra-velocidad-1393560'>Los ajustes ocultos para llevar tu teléfono Android a otra velocidad</a></h4>
+    <a href='https://computerhoy.com/android/ajustes-ocultos-llevar-telefono-android-otra-velocidad-1393560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ajustes-ocultos-llevar-telefono-android-otra-velocidad-3638306.jpg?tf=1200x' alt='Los ajustes ocultos para llevar tu teléfono Android a otra velocidad' />
     </a>
 </div>
 
