@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/6-trucos-mejorar-eficiencia-microsoft-outlook-1393546'>6 trucos para mejorar la eficiencia de Microsoft Outlook</a></h4>
+    <a href='https://computerhoy.com/apps/6-trucos-mejorar-eficiencia-microsoft-outlook-1393546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/6-trucos-mejorar-eficiencia-microsoft-outlook-3637813.jpg?tf=1200x' alt='6 trucos para mejorar la eficiencia de Microsoft Outlook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/cambio-acelera-velocidad-cualquier-conexion-wifi-instante-1219216'>El sencillo cambio que acelera la velocidad de cualquier conexión WiFi al instante</a></h4>
+    <a href='https://computerhoy.com/tutoriales/cambio-acelera-velocidad-cualquier-conexion-wifi-instante-1219216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/parte-trasera-router-wifi-2990450.jpg?tf=1200x' alt='El sencillo cambio que acelera la velocidad de cualquier conexión WiFi al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/ayudara-inteligencia-artificial-vivir-120-anos-experto-1393005'>Así ayudará la inteligencia artificial a vivir 120 años, según un experto</a></h4>
+    <a href='https://computerhoy.com/ciencia/ayudara-inteligencia-artificial-vivir-120-anos-experto-1393005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ayudara-inteligencia-artificial-vivir-120-anos-experto-3606361.jpg?tf=1200x' alt='Así ayudará la inteligencia artificial a vivir 120 años, según un experto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hacienda-multara-hoy-carta-todos-no-hayan-hecho-tramite-1393155'>Hacienda multará desde hoy por carta a todos los que no hayan hecho este trámite</a></h4>
+    <a href='https://computerhoy.com/life/hacienda-multara-hoy-carta-todos-no-hayan-hecho-tramite-1393155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacienda-3613784.jpg?tf=1200x' alt='Hacienda multará desde hoy por carta a todos los que no hayan hecho este trámite' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-1393230'>El impacto de la inteligencia artificial ya se deja ver: 60 escritores y editores de una empresa son sustituidos por ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-1393230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-3614574.jpg?tf=1200x' alt='El impacto de la inteligencia artificial ya se deja ver: 60 escritores y editores de una empresa son sustituidos por ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/movil-hace-retratos-parecidos-fotos-estudio-no-iphone-ni-vale-1000-euros-1392993'>Este es el móvil que hace retratos más parecidos a las fotos de estudio (y no es un iPhone ni vale 1.000 euros)</a></h4>
-    <a href='https://computerhoy.com/moviles/movil-hace-retratos-parecidos-fotos-estudio-no-iphone-ni-vale-1000-euros-1392993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3607179.jpg?tf=1200x' alt='Este es el móvil que hace retratos más parecidos a las fotos de estudio (y no es un iPhone ni vale 1.000 euros)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-matepad-115-s-pantalla-mate-pero-no-todo-mundo-1393641'>Lo que más me ha gustado de Huawei MatePad 11.5" S es su pantalla mate, pero no es para todo el mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-matepad-115-s-pantalla-mate-pero-no-todo-mundo-1393641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/huawei-matepad-115s-3634656.jpg?tf=1200x' alt='Lo que más me ha gustado de Huawei MatePad 11.5" S es su pantalla mate, pero no es para todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/llevo-8-anos-probando-moviles-creo-zoom-empeorando-gama-alta-1393033'>Llevo 8 años probando móviles y creo que el zoom está empeorando en la gama alta</a></h4>
-    <a href='https://computerhoy.com/moviles/llevo-8-anos-probando-moviles-creo-zoom-empeorando-gama-alta-1393033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-s24-ultra-3272876.jpg?tf=1200x' alt='Llevo 8 años probando móviles y creo que el zoom está empeorando en la gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/lio-elegir-auriculares-como-escoger-perfectos-ti-1385881'>Comprar unos auriculares es un lío: cómo elegir los perfectos para ti</a></h4>
-    <a href='https://computerhoy.com/tutoriales/lio-elegir-auriculares-como-escoger-perfectos-ti-1385881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/auriculares-como-saber-cuales-son-perfectos-ti-3311140.jpg?tf=1200x' alt='Comprar unos auriculares es un lío: cómo elegir los perfectos para ti' />
     </a>
 </div>
 
