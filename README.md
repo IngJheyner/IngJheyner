@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/problema-matematico-dos-soluciones-diferentes-1235616'>El problema matemático que tiene una solución diferente dependiendo de dónde vivas</a></h4>
-    <a href='https://computerhoy.com/ciencia/problema-matematico-dos-soluciones-diferentes-1235616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/problema-matematico-sigue-dividiendo-internet-cada-persona-obtiene-resultado-diferente-3017698.jpg?tf=1200x' alt='El problema matemático que tiene una solución diferente dependiendo de dónde vivas' />
+    <h4><a href='https://computerhoy.com/motor/cada-tres-conductores-no-comprara-coche-nuevo-caracteristica-estudio-1393270'>Uno de cada tres conductores no comprará un coche nuevo sin esta característica, según un estudio</a></h4>
+    <a href='https://computerhoy.com/motor/cada-tres-conductores-no-comprara-coche-nuevo-caracteristica-estudio-1393270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fabricantes-coches-cada-vez-confian-google-apple-sistemas-infoentretenimiento-3294181.jpg?tf=1200x' alt='Uno de cada tres conductores no comprará un coche nuevo sin esta característica, según un estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-bizum-entidad-bancaria-1392800'>¿Cómo cambiar Bizum de entidad bancaria? </a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-bizum-entidad-bancaria-1392800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bizum-bancos-3599209.jpg?tf=1200x' alt='¿Cómo cambiar Bizum de entidad bancaria? ' />
+    <h4><a href='https://computerhoy.com/redes/digi-no-funcionan-llamadas-1393267'>No eres tú, si eres de DIGI no funcionan las llamadas</a></h4>
+    <a href='https://computerhoy.com/redes/digi-no-funcionan-llamadas-1393267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/digi-mobil.jpeg?tf=1200x' alt='No eres tú, si eres de DIGI no funcionan las llamadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sencillas-acciones-movil-desconectar-verdad-vacaciones-1392001'>3 sencillas acciones con el móvil para desconectar de verdad en vacaciones</a></h4>
-    <a href='https://computerhoy.com/moviles/sencillas-acciones-movil-desconectar-verdad-vacaciones-1392001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/3-sencillas-acciones-movil-desconectar-verdad-vacaciones-3555735.jpg?tf=1200x' alt='3 sencillas acciones con el móvil para desconectar de verdad en vacaciones' />
+    <h4><a href='https://computerhoy.com/tecnologia/qpu-sirve-futuro-computacion-cuantica-1393794'>Qué es la QPU, para qué sirve y por qué es el futuro de la computación cuántica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/qpu-sirve-futuro-computacion-cuantica-1393794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/qpu-sirve-futuro-computacion-cuantica-3646830.jpg?tf=1200x' alt='Qué es la QPU, para qué sirve y por qué es el futuro de la computación cuántica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-1393181'>Ya está pasando: así es la estafa que usa la inteligencia artificial para clonar la voz de un familiar</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-1393181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ya-pasando-estafa-usa-inteligencia-artificial-clonar-voz-familiar-3613599.jpg?tf=1200x' alt='Ya está pasando: así es la estafa que usa la inteligencia artificial para clonar la voz de un familiar' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-cambiar-otra-red-1352629'>Cómo conectar Alexa al WiFi o cambiar a otra red</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-cambiar-otra-red-1352629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-conectar-alexa-wifi-cambiar-otra-red-3253808.jpg?tf=1200x' alt='Cómo conectar Alexa al WiFi o cambiar a otra red' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/usas-buzon-voz-movil-pues-cuidado-estafa-alertan-expertos-1393458'>¿Usas el buzón de voz del móvil? Pues cuidado con esta estafa sobre la que alertan los expertos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/usas-buzon-voz-movil-pues-cuidado-estafa-alertan-expertos-1393458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/usas-buzon-voz-movil-pues-cuidado-estafa-alertan-expertos-3635516.jpg?tf=1200x' alt='¿Usas el buzón de voz del móvil? Pues cuidado con esta estafa sobre la que alertan los expertos' />
+    <h4><a href='https://computerhoy.com/windows/3-motivos-huir-windows-11-no-actualizar-ultimo-software-microsoft-1393264'>Los 3 motivos por los que huir de Windows 11 y no actualizar al último software de Microsoft</a></h4>
+    <a href='https://computerhoy.com/windows/3-motivos-huir-windows-11-no-actualizar-ultimo-software-microsoft-1393264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-truco-prohibido-3443242.jpg?tf=1200x' alt='Los 3 motivos por los que huir de Windows 11 y no actualizar al último software de Microsoft' />
     </a>
 </div>
 
