@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nothing-va-todo-movil-barato-rebaja-aun-12gb-ram-1394038'>Nothing va a por todo con su móvil barato: lo rebaja aún más con 12GB de RAM</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nothing-va-todo-movil-barato-rebaja-aun-12gb-ram-1394038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nothing-phone-2a-3286437.jpg?tf=1200x' alt='Nothing va a por todo con su móvil barato: lo rebaja aún más con 12GB de RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sony-warner-universal-empieza-guerra-musica-generada-ia-tan-dramatico-como-pinta-1392912'>Sony, Warner, Universal... empieza la guerra por la música generada con IA: ¿Es tan dramático como se pinta?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sony-warner-universal-empieza-guerra-musica-generada-ia-tan-dramatico-como-pinta-1392912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/musica-inteligencia-artificial-3601505.jpg?tf=1200x' alt='Sony, Warner, Universal... empieza la guerra por la música generada con IA: ¿Es tan dramático como se pinta?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/6-trucos-mejorar-eficiencia-microsoft-outlook-1393546'>6 trucos para mejorar la eficiencia de Microsoft Outlook</a></h4>
+    <a href='https://computerhoy.com/apps/6-trucos-mejorar-eficiencia-microsoft-outlook-1393546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/6-trucos-mejorar-eficiencia-microsoft-outlook-3637813.jpg?tf=1200x' alt='6 trucos para mejorar la eficiencia de Microsoft Outlook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/consejo-steve-jobs-ser-mejor-persona-alcanzar-exito-felicidad-1282646'>El brillante consejo de Steve Jobs para ser mejor persona, alcanzar el éxito y la felicidad</a></h4>
     <a href='https://computerhoy.com/life/consejo-steve-jobs-ser-mejor-persona-alcanzar-exito-felicidad-1282646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/steve-jobs-3095968.jpg?tf=1200x' alt='El brillante consejo de Steve Jobs para ser mejor persona, alcanzar el éxito y la felicidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/criticgpt-ia-openai-critica-ia-chatgpt-1393934'>Así es CriticGPT, la IA de OpenAI que critica a la IA de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/criticgpt-ia-openai-critica-ia-chatgpt-1393934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/criticgpt-ia-critica-ia-3650181.jpg?tf=1200x' alt='Así es CriticGPT, la IA de OpenAI que critica a la IA de ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/soy-adicto-mochilas-estas-son-preferidas-deberias-buscar-mochila-tech-1393705'>Soy un adicto a las mochilas: estas son mis preferidas y qué deberías buscar en tu "mochila tech"</a></h4>
-    <a href='https://computerhoy.com/life/soy-adicto-mochilas-estas-son-preferidas-deberias-buscar-mochila-tech-1393705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/persona-mochila-calle-3643841.jpg?tf=1200x' alt='Soy un adicto a las mochilas: estas son mis preferidas y qué deberías buscar en tu "mochila tech"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/me-han-intentado-hackear-google-drive-he-hecho-consejos-ti-no-te-pase-1392213'>Me han intentado hackear por Google Drive: qué he hecho y consejos para que a ti no te pase</a></h4>
-    <a href='https://computerhoy.com/tutoriales/me-han-intentado-hackear-google-drive-he-hecho-consejos-ti-no-te-pase-1392213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/malware-google-drive-2040009.jpg?tf=1200x' alt='Me han intentado hackear por Google Drive: qué he hecho y consejos para que a ti no te pase' />
     </a>
 </div>
 
