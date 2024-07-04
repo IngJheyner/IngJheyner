@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nothing-va-todo-movil-barato-rebaja-aun-12gb-ram-1394038'>Nothing va a por todo con su móvil barato: lo rebaja aún más con 12GB de RAM</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nothing-va-todo-movil-barato-rebaja-aun-12gb-ram-1394038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nothing-phone-2a-3286437.jpg?tf=1200x' alt='Nothing va a por todo con su móvil barato: lo rebaja aún más con 12GB de RAM' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/razon-facil-te-hackeen-movil-vacaciones-pero-puedes-evitarlo-1391647'>Esta es la razón por la que es más fácil que te hackeen el móvil en vacaciones, pero puedes evitarlo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/razon-facil-te-hackeen-movil-vacaciones-pero-puedes-evitarlo-1391647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chica-mirando-movil-playa-3614091.jpg?tf=1200x' alt='Esta es la razón por la que es más fácil que te hackeen el móvil en vacaciones, pero puedes evitarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sony-warner-universal-empieza-guerra-musica-generada-ia-tan-dramatico-como-pinta-1392912'>Sony, Warner, Universal... empieza la guerra por la música generada con IA: ¿Es tan dramático como se pinta?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sony-warner-universal-empieza-guerra-musica-generada-ia-tan-dramatico-como-pinta-1392912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/musica-inteligencia-artificial-3601505.jpg?tf=1200x' alt='Sony, Warner, Universal... empieza la guerra por la música generada con IA: ¿Es tan dramático como se pinta?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/tienes-app-chatgpt-mac-actualiza-inmediato-no-quieres-problemas-1394043'>¿Tienes la app de ChatGPT en tu Mac? Actualiza de inmediato si no quieres problemas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tienes-app-chatgpt-mac-actualiza-inmediato-no-quieres-problemas-1394043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-mac-3655447.jpg?tf=1200x' alt='¿Tienes la app de ChatGPT en tu Mac? Actualiza de inmediato si no quieres problemas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/6-trucos-mejorar-eficiencia-microsoft-outlook-1393546'>6 trucos para mejorar la eficiencia de Microsoft Outlook</a></h4>
-    <a href='https://computerhoy.com/apps/6-trucos-mejorar-eficiencia-microsoft-outlook-1393546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/6-trucos-mejorar-eficiencia-microsoft-outlook-3637813.jpg?tf=1200x' alt='6 trucos para mejorar la eficiencia de Microsoft Outlook' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-hace-saltar-alarmas-mucho-cuidado-llamada-telefono-1393608'>La Policía Nacional hace saltar las alarmas: mucho cuidado con esta llamada de teléfono</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-hace-saltar-alarmas-mucho-cuidado-llamada-telefono-1393608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-movil-3641674.jpg?tf=1200x' alt='La Policía Nacional hace saltar las alarmas: mucho cuidado con esta llamada de teléfono' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/consejo-steve-jobs-ser-mejor-persona-alcanzar-exito-felicidad-1282646'>El brillante consejo de Steve Jobs para ser mejor persona, alcanzar el éxito y la felicidad</a></h4>
-    <a href='https://computerhoy.com/life/consejo-steve-jobs-ser-mejor-persona-alcanzar-exito-felicidad-1282646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/steve-jobs-3095968.jpg?tf=1200x' alt='El brillante consejo de Steve Jobs para ser mejor persona, alcanzar el éxito y la felicidad' />
+    <h4><a href='https://computerhoy.com/moviles/cansado-viejo-movil-3-senales-te-indican-hora-cambiarlo-1393819'>¿Cansado de tu viejo móvil? 3 señales que te indican que es hora de cambiarlo</a></h4>
+    <a href='https://computerhoy.com/moviles/cansado-viejo-movil-3-senales-te-indican-hora-cambiarlo-1393819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movil-enfado-3648602.jpg?tf=1200x' alt='¿Cansado de tu viejo móvil? 3 señales que te indican que es hora de cambiarlo' />
     </a>
 </div>
 
