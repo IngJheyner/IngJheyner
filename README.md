@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-1393973'>Un experto en seguridad asegura que hay un 99,9% de posibilidades de que la IA suponga el fin de la humanidad, ¿amenaza real o ganas de notoriedad?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-1393973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-3651386.jpg?tf=1200x' alt='Un experto en seguridad asegura que hay un 99,9% de posibilidades de que la IA suponga el fin de la humanidad, ¿amenaza real o ganas de notoriedad?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/modders-crean-grafica-bestial-deja-panales-rtx-4090-1394154'>Unos modders crean una gráfica bestial que deja en pañales a la RTX 4090</a></h4>
+    <a href='https://computerhoy.com/tecnologia/modders-crean-grafica-bestial-deja-panales-rtx-4090-1394154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gpu-teclab-3656886.jpg?tf=1200x' alt='Unos modders crean una gráfica bestial que deja en pañales a la RTX 4090' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/15-mejores-peliculas-terror-miedo-historia-22071'>Las 40 mejores películas de terror o de miedo de la historia</a></h4>
+    <a href='https://computerhoy.com/listas/life/15-mejores-peliculas-terror-miedo-historia-22071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/terrifier-2-2955418.jpg?tf=1200x' alt='Las 40 mejores películas de terror o de miedo de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/trucos-google-maps-deberias-conocer-antes-salir-vacaciones-1393325'>Trucos de Google Maps que deberías conocer antes de salir de vacaciones</a></h4>
     <a href='https://computerhoy.com/apps/trucos-google-maps-deberias-conocer-antes-salir-vacaciones-1393325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3621742.jpg?tf=1200x' alt='Trucos de Google Maps que deberías conocer antes de salir de vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-fin-actualiza-kernel-linux-wsl-2-anos-medio-1394129'>Microsoft por fin actualiza el kernel de Linux en WSL tras 2 años y medio</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-fin-actualiza-kernel-linux-wsl-2-anos-medio-1394129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laptop-windows-11-linux-3649872.jpg?tf=1200x' alt='Microsoft por fin actualiza el kernel de Linux en WSL tras 2 años y medio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/windows-11-formas-instalarlo-como-aprovecharlo-maximo-1393743'>Windows 11: qué es, formas de instalarlo y cómo aprovecharlo al máximo</a></h4>
-    <a href='https://computerhoy.com/pc/windows-11-formas-instalarlo-como-aprovecharlo-maximo-1393743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tecla-windows-11-3117832.jpg?tf=1200x' alt='Windows 11: qué es, formas de instalarlo y cómo aprovecharlo al máximo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/son-funciones-permanentes-waze-como-funcionan-1394122'>Qué son las funciones permanentes de Waze y cómo funcionan</a></h4>
-    <a href='https://computerhoy.com/motor/son-funciones-permanentes-waze-como-funcionan-1394122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/son-funciones-permanentes-waze-como-funcionan-3656615.jpg?tf=1200x' alt='Qué son las funciones permanentes de Waze y cómo funcionan' />
     </a>
 </div>
 
