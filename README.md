@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia-dji-bicicletas-electricas-1393799'>A punto de ser prohibida en Estados Unidos, DJI cambia los drones por las bicis eléctricas</a></h4>
+    <a href='https://computerhoy.com/tecnologia-dji-bicicletas-electricas-1393799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/punto-ser-prohibida-estados-unidos-dji-cambia-drones-bicis-electricas-3647237.jpg?tf=1200x' alt='A punto de ser prohibida en Estados Unidos, DJI cambia los drones por las bicis eléctricas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-fondos-pantalla-gratis-inteligencia-artificial-movil-pc-1393769'>Cómo crear fondos de pantalla gratis con inteligencia artificial para tu móvil o PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-fondos-pantalla-gratis-inteligencia-artificial-movil-pc-1393769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fondos-pantalla-ia-3649070.jpg?tf=1200x' alt='Cómo crear fondos de pantalla gratis con inteligencia artificial para tu móvil o PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/ministro-tecnologia-japon-anuncia-gran-victoria-disquetes-1394015'>El ministro de tecnología de Japón anuncia una gran victoria contra los disquetes </a></h4>
     <a href='https://computerhoy.com/pc/ministro-tecnologia-japon-anuncia-gran-victoria-disquetes-1394015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ministro-tecnologia-japon-anuncia-gran-victoria-disquetes-3653070.jpg?tf=1200x' alt='El ministro de tecnología de Japón anuncia una gran victoria contra los disquetes ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/drones-reparto-tienen-problema-demasiada-gente-armada-rutas-1393795'>Los drones de reparto tienen un problema: demasiada gente armada en sus rutas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/drones-reparto-tienen-problema-demasiada-gente-armada-rutas-1393795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/detenido-disparar-pistola-dron-reparto-walmart-3646157.jpg?tf=1200x' alt='Los drones de reparto tienen un problema: demasiada gente armada en sus rutas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-1393294'>Por qué envolver el móvil en papel de aluminio cuando hay un botón que hace lo mismo</a></h4>
-    <a href='https://computerhoy.com/internet/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-1393294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/envolver-movil-papel-aluminio-cuando-hay-boton-hace-mismo-3618004.jpg?tf=1200x' alt='Por qué envolver el móvil en papel de aluminio cuando hay un botón que hace lo mismo' />
     </a>
 </div>
 
