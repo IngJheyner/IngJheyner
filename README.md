@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-1393973'>Un experto en seguridad asegura que hay un 99,9% de posibilidades de que la IA suponga el fin de la humanidad, ¿amenaza real o ganas de notoriedad?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-1393973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-3651386.jpg?tf=1200x' alt='Un experto en seguridad asegura que hay un 99,9% de posibilidades de que la IA suponga el fin de la humanidad, ¿amenaza real o ganas de notoriedad?' />
+    <h4><a href='https://computerhoy.com/tecnologia/comprar-ordenador-portatil-lento-mundo-bolsillo-1393328'>Ya puedes comprar el ordenador portátil más lento del mundo: cabe en un bolsillo y al menos podrás jugar a Doom</a></h4>
+    <a href='https://computerhoy.com/tecnologia/comprar-ordenador-portatil-lento-mundo-bolsillo-1393328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pocket-386-3622036.jpg?tf=1200x' alt='Ya puedes comprar el ordenador portátil más lento del mundo: cabe en un bolsillo y al menos podrás jugar a Doom' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/modders-crean-grafica-bestial-deja-panales-rtx-4090-1394154'>Unos modders crean una gráfica bestial que deja en pañales a la RTX 4090</a></h4>
-    <a href='https://computerhoy.com/tecnologia/modders-crean-grafica-bestial-deja-panales-rtx-4090-1394154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gpu-teclab-3656886.jpg?tf=1200x' alt='Unos modders crean una gráfica bestial que deja en pañales a la RTX 4090' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-mi-pc-windows-10-cumple-requisitos-hardware-windows-11-1392710'>¿Cómo sé si mi PC con Windows 10 cumple con los requisitos de hardware para Windows 11?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-mi-pc-windows-10-cumple-requisitos-hardware-windows-11-1392710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-mi-pc-windows-10-cumple-requisitos-hardware-windows-11-3594965.jpg?tf=1200x' alt='¿Cómo sé si mi PC con Windows 10 cumple con los requisitos de hardware para Windows 11?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/15-mejores-peliculas-terror-miedo-historia-22071'>Las 40 mejores películas de terror o de miedo de la historia</a></h4>
-    <a href='https://computerhoy.com/listas/life/15-mejores-peliculas-terror-miedo-historia-22071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/terrifier-2-2955418.jpg?tf=1200x' alt='Las 40 mejores películas de terror o de miedo de la historia' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bizum-principiantes-como-funciona-como-crear-cuenta-enviar-recibir-dinero-1135577'>Bizum para principiantes: qué es, cómo funciona y cómo enviar y recibir dinero</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/bizum-principiantes-como-funciona-como-crear-cuenta-enviar-recibir-dinero-1135577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bizum-3578486.jpg?tf=1200x' alt='Bizum para principiantes: qué es, cómo funciona y cómo enviar y recibir dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/trucos-google-maps-deberias-conocer-antes-salir-vacaciones-1393325'>Trucos de Google Maps que deberías conocer antes de salir de vacaciones</a></h4>
-    <a href='https://computerhoy.com/apps/trucos-google-maps-deberias-conocer-antes-salir-vacaciones-1393325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3621742.jpg?tf=1200x' alt='Trucos de Google Maps que deberías conocer antes de salir de vacaciones' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-bizum-entidad-bancaria-1392800'>¿Cómo cambiar Bizum de entidad bancaria? </a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-bizum-entidad-bancaria-1392800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bizum-bancos-3599209.jpg?tf=1200x' alt='¿Cómo cambiar Bizum de entidad bancaria? ' />
     </a>
 </div>
 
