@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafas-telefonicas-inteligencia-artificial-copia-voz-1360650'>La nueva era de estafas telefónicas: descubre cómo la IA puede engañarnos copiando la voz</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafas-telefonicas-inteligencia-artificial-copia-voz-1360650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/voces-clonadas-ia-3268665.jpg?tf=1200x' alt='La nueva era de estafas telefónicas: descubre cómo la IA puede engañarnos copiando la voz' />
+    <h4><a href='https://computerhoy.com/moviles/whatsapp-no-funciona-comprueba-movil-encuentra-lista-1394097'>¿WhatsApp no funciona? Comprueba si tu móvil se encuentra en esta lista</a></h4>
+    <a href='https://computerhoy.com/moviles/whatsapp-no-funciona-comprueba-movil-encuentra-lista-1394097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-no-funciona-comprueba-movil-encuentra-lista-3656173.jpg?tf=1200x' alt='¿WhatsApp no funciona? Comprueba si tu móvil se encuentra en esta lista' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-1393312'>El CEO de IA de Microsoft afirma que casi todo en la web puede ser usado libremente para entrenar IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-1393312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-3621012.jpg?tf=1200x' alt='El CEO de IA de Microsoft afirma que casi todo en la web puede ser usado libremente para entrenar IA' />
+    <h4><a href='https://computerhoy.com/gaming/nintendo-aprende-errores-playstation-5-inundara-tiendas-nintendo-switch-2-acabar-revendedores-1393632'>Nintendo aprende de los errores de PlayStation 5: inundará las tiendas de Nintendo Switch 2 para acabar con los revendedores</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-aprende-errores-playstation-5-inundara-tiendas-nintendo-switch-2-acabar-revendedores-1393632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nintendo-switch-2-3272297.jpg?tf=1200x' alt='Nintendo aprende de los errores de PlayStation 5: inundará las tiendas de Nintendo Switch 2 para acabar con los revendedores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-1393823'>Varapalo histórico al coche eléctrico: Mercedes vuelve a los motores de combustión</a></h4>
-    <a href='https://computerhoy.com/motor/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-1393823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-3648603.jpg?tf=1200x' alt='Varapalo histórico al coche eléctrico: Mercedes vuelve a los motores de combustión' />
+    <h4><a href='https://computerhoy.com/apps/waze-codigos-secretos-desbloquean-funciones-ocultas-app-1392938'>Los códigos secretos de Waze que desbloquean funciones ocultas en la app de navegación</a></h4>
+    <a href='https://computerhoy.com/apps/waze-codigos-secretos-desbloquean-funciones-ocultas-app-1392938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/codigos-secretos-waze-desbloquean-funciones-ocultas-app-navegacion-3603335.jpg?tf=1200x' alt='Los códigos secretos de Waze que desbloquean funciones ocultas en la app de navegación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/funcion-oculta-windows-11-puede-evitar-pc-vaya-lento-1393628'>Esta función oculta de Windows 11 puede evitar que tu PC vaya lento</a></h4>
-    <a href='https://computerhoy.com/windows/funcion-oculta-windows-11-puede-evitar-pc-vaya-lento-1393628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-3391674.jpg?tf=1200x' alt='Esta función oculta de Windows 11 puede evitar que tu PC vaya lento' />
+    <h4><a href='https://computerhoy.com/apps/stop-no-actualices-android-auto-necesitas-funcion-1394074'>¡STOP! No actualices Android Auto si necesitas esta función</a></h4>
+    <a href='https://computerhoy.com/apps/stop-no-actualices-android-auto-necesitas-funcion-1394074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-actualizacion-3655885.jpg?tf=1200x' alt='¡STOP! No actualices Android Auto si necesitas esta función' />
     </a>
 </div>
 
