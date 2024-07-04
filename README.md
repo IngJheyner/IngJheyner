@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/importante-papel-operadores-multas-ver-futbol-iptv-lealtad-total-laliga-javier-tebas-1393888'>El importante papel de los operadores en las multas por ver el fútbol por IPTV y su lealtad total a LaLiga de Javier Tebas</a></h4>
-    <a href='https://computerhoy.com/internet/importante-papel-operadores-multas-ver-futbol-iptv-lealtad-total-laliga-javier-tebas-1393888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/espana-podium-iptv-no-estar-orgulloso-3506847.jpg?tf=1200x' alt='El importante papel de los operadores en las multas por ver el fútbol por IPTV y su lealtad total a LaLiga de Javier Tebas' />
+    <h4><a href='https://computerhoy.com/apps/trucos-google-maps-deberias-conocer-antes-salir-vacaciones-1393325'>Trucos de Google Maps que deberías conocer antes de salir de vacaciones</a></h4>
+    <a href='https://computerhoy.com/apps/trucos-google-maps-deberias-conocer-antes-salir-vacaciones-1393325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3621742.jpg?tf=1200x' alt='Trucos de Google Maps que deberías conocer antes de salir de vacaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-obliga-realizar-evacuacion-emergencia-astronautas-estacion-espacial-internacional-1393319'>La NASA obliga a realizar una evacuación de emergencia a los astronautas de la Estación Espacial Internacional</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-obliga-realizar-evacuacion-emergencia-astronautas-estacion-espacial-internacional-1393319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estacion-espacial-internacional-3621448.jpg?tf=1200x' alt='La NASA obliga a realizar una evacuación de emergencia a los astronautas de la Estación Espacial Internacional' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-fin-actualiza-kernel-linux-wsl-2-anos-medio-1394129'>Microsoft por fin actualiza el kernel de Linux en WSL tras 2 años y medio</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-fin-actualiza-kernel-linux-wsl-2-anos-medio-1394129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laptop-windows-11-linux-3649872.jpg?tf=1200x' alt='Microsoft por fin actualiza el kernel de Linux en WSL tras 2 años y medio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tivimate-como-ver-canales-tv-gratis-smart-tv-iptv-necesidad-antena-1394087'>TiviMate: cómo ver canales de TV gratis en tu Smart TV por IPTV y sin necesidad de antena</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tivimate-como-ver-canales-tv-gratis-smart-tv-iptv-necesidad-antena-1394087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ver-canales-tv-gratis-3656166.jpg?tf=1200x' alt='TiviMate: cómo ver canales de TV gratis en tu Smart TV por IPTV y sin necesidad de antena' />
+    <h4><a href='https://computerhoy.com/pc/windows-11-formas-instalarlo-como-aprovecharlo-maximo-1393743'>Windows 11: qué es, formas de instalarlo y cómo aprovecharlo al máximo</a></h4>
+    <a href='https://computerhoy.com/pc/windows-11-formas-instalarlo-como-aprovecharlo-maximo-1393743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tecla-windows-11-3117832.jpg?tf=1200x' alt='Windows 11: qué es, formas de instalarlo y cómo aprovecharlo al máximo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/netflix-ha-empezado-eliminar-planes-precios-populares-llegara-espana-1393861'>Netflix ha empezado a eliminar uno de sus planes de precios más populares: ¿llegará a España?</a></h4>
-    <a href='https://computerhoy.com/tv/netflix-ha-empezado-eliminar-planes-precios-populares-llegara-espana-1393861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/netflix-tablet-3133736.jpg?tf=1200x' alt='Netflix ha empezado a eliminar uno de sus planes de precios más populares: ¿llegará a España?' />
+    <h4><a href='https://computerhoy.com/motor/son-funciones-permanentes-waze-como-funcionan-1394122'>Qué son las funciones permanentes de Waze y cómo funcionan</a></h4>
+    <a href='https://computerhoy.com/motor/son-funciones-permanentes-waze-como-funcionan-1394122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/son-funciones-permanentes-waze-como-funcionan-3656615.jpg?tf=1200x' alt='Qué son las funciones permanentes de Waze y cómo funcionan' />
     </a>
 </div>
 
