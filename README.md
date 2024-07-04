@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/disenan-ordenador-inspirado-kirigami-japones-1394215'>Diseñan un ordenador inspirado en el kirigami japonés, sin partes electrónicas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/disenan-ordenador-inspirado-kirigami-japones-1394215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/disenan-ordenador-inspirado-kirigami-japones-no-tiene-partes-electronicas-3658798.jpg?tf=1200x' alt='Diseñan un ordenador inspirado en el kirigami japonés, sin partes electrónicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/trucos-avalados-banco-espana-saber-moneda-falsa-1393776'>Trucos avalados por el Banco de España para saber si una moneda es falsa</a></h4>
+    <a href='https://computerhoy.com/life/trucos-avalados-banco-espana-saber-moneda-falsa-1393776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trucos-avalados-banco-espana-saber-moneda-falsa-3645737.jpg?tf=1200x' alt='Trucos avalados por el Banco de España para saber si una moneda es falsa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/vives-ccaa-enhorabuena-podras-echar-gasolina-gasolineras-baratas-espana-1393782'>Si vives en esta CC.AA enhorabuena: podrás echar gasolina en las gasolineras más baratas de España</a></h4>
     <a href='https://computerhoy.com/life/vives-ccaa-enhorabuena-podras-echar-gasolina-gasolineras-baratas-espana-1393782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gasolinera-3645461.jpg?tf=1200x' alt='Si vives en esta CC.AA enhorabuena: podrás echar gasolina en las gasolineras más baratas de España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/smartwatch-top-samsung-tiene-4g-gps-lte-150-euros-descuento-1394179'>Este smartwatch top de Samsung tiene 4G, GPS, LTE y 150 euros de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/smartwatch-top-samsung-tiene-4g-gps-lte-150-euros-descuento-1394179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110568.jpg?tf=1200x' alt='Este smartwatch top de Samsung tiene 4G, GPS, LTE y 150 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/construyen-reloj-atomico-preciso-mundo-impulsar-ciencia-espacial-1393781'>Construyen el reloj atómico más preciso del mundo para impulsar la ciencia espacial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/construyen-reloj-atomico-preciso-mundo-impulsar-ciencia-espacial-1393781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/reloj-atomico-3645321.jpg?tf=1200x' alt='Construyen el reloj atómico más preciso del mundo para impulsar la ciencia espacial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desarrollador-logra-ejecutar-sistema-operativo-completo-google-drive-1394001'>Un desarrollador logra ejecutar un sistema operativo completo en Google Drive</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desarrollador-logra-ejecutar-sistema-operativo-completo-google-drive-1394001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/linux-google-drive-3652262.jpg?tf=1200x' alt='Un desarrollador logra ejecutar un sistema operativo completo en Google Drive' />
     </a>
 </div>
 
