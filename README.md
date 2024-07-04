@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/donde-viene-apellido-cuantas-personas-comparten-google-maps-1391580'>El Google Maps que te muestra de dónde viene tu apellido y cuántas personas lo tienen</a></h4>
-    <a href='https://computerhoy.com/apps/donde-viene-apellido-cuantas-personas-comparten-google-maps-1391580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-te-muestra-donde-viene-apellido-cuantas-personas-comparten-3540613.jpg?tf=1200x' alt='El Google Maps que te muestra de dónde viene tu apellido y cuántas personas lo tienen' />
+    <h4><a href='https://computerhoy.com/tecnologia/criticgpt-ia-openai-critica-ia-chatgpt-1393934'>Así es CriticGPT, la IA de OpenAI que critica a la IA de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/criticgpt-ia-openai-critica-ia-chatgpt-1393934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/criticgpt-ia-critica-ia-3650181.jpg?tf=1200x' alt='Así es CriticGPT, la IA de OpenAI que critica a la IA de ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/mayor-problema-matematicas-cerca-resolverse-despues-160-anos-formulo-1393908'>El mayor problema de las matemáticas está más cerca de resolverse después de 160 años desde que se formuló</a></h4>
-    <a href='https://computerhoy.com/ciencia/mayor-problema-matematicas-cerca-resolverse-despues-160-anos-formulo-1393908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mayor-problema-matematicas-cerca-resolverse-despues-160-anos-formulo-3649711.jpg?tf=1200x' alt='El mayor problema de las matemáticas está más cerca de resolverse después de 160 años desde que se formuló' />
+    <h4><a href='https://computerhoy.com/life/soy-adicto-mochilas-estas-son-preferidas-deberias-buscar-mochila-tech-1393705'>Soy un adicto a las mochilas: estas son mis preferidas y qué deberías buscar en tu "mochila tech"</a></h4>
+    <a href='https://computerhoy.com/life/soy-adicto-mochilas-estas-son-preferidas-deberias-buscar-mochila-tech-1393705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/persona-mochila-calle-3643841.jpg?tf=1200x' alt='Soy un adicto a las mochilas: estas son mis preferidas y qué deberías buscar en tu "mochila tech"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-openai-ya-piensan-gpt-5-chatgpt-ambicioso-estas-seran-novedades-1393856'>Sam Altman y OpenAI ya piensan en GPT-5, el ChatGPT más ambicioso: estas serán sus novedades</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-openai-ya-piensan-gpt-5-chatgpt-ambicioso-estas-seran-novedades-1393856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-5-3650036.jpg?tf=1200x' alt='Sam Altman y OpenAI ya piensan en GPT-5, el ChatGPT más ambicioso: estas serán sus novedades' />
+    <h4><a href='https://computerhoy.com/tutoriales/me-han-intentado-hackear-google-drive-he-hecho-consejos-ti-no-te-pase-1392213'>Me han intentado hackear por Google Drive: qué he hecho y consejos para que a ti no te pase</a></h4>
+    <a href='https://computerhoy.com/tutoriales/me-han-intentado-hackear-google-drive-he-hecho-consejos-ti-no-te-pase-1392213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/malware-google-drive-2040009.jpg?tf=1200x' alt='Me han intentado hackear por Google Drive: qué he hecho y consejos para que a ti no te pase' />
     </a>
 </div>
 
