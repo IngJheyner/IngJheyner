@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-1394171'>Obedece a la policía y utiliza este truco para evitar que tu móvil se conecte automáticamente a dispositivos por Bluetooth</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-1394171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-3658654.jpg?tf=1200x' alt='Obedece a la policía y utiliza este truco para evitar que tu móvil se conecte automáticamente a dispositivos por Bluetooth' />
+    <h4><a href='https://computerhoy.com/life/vives-ccaa-enhorabuena-podras-echar-gasolina-gasolineras-baratas-espana-1393782'>Si vives en esta CC.AA enhorabuena: podrás echar gasolina en las gasolineras más baratas de España</a></h4>
+    <a href='https://computerhoy.com/life/vives-ccaa-enhorabuena-podras-echar-gasolina-gasolineras-baratas-espana-1393782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gasolinera-3645461.jpg?tf=1200x' alt='Si vives en esta CC.AA enhorabuena: podrás echar gasolina en las gasolineras más baratas de España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-avisar-otros-conductores-peligro-google-maps-1393760'>Cómo avisar a otros conductores de un peligro en Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-avisar-otros-conductores-peligro-google-maps-1393760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-avisar-otros-conductores-peligro-google-maps-3645043.jpg?tf=1200x' alt='Cómo avisar a otros conductores de un peligro en Google Maps' />
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-top-samsung-tiene-4g-gps-lte-150-euros-descuento-1394179'>Este smartwatch top de Samsung tiene 4G, GPS, LTE y 150 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-top-samsung-tiene-4g-gps-lte-150-euros-descuento-1394179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110568.jpg?tf=1200x' alt='Este smartwatch top de Samsung tiene 4G, GPS, LTE y 150 euros de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/shadowz-netflix-peliculas-miedo-terror-llega-espana-precio-peliculas-disponibles-1394203'>Shadowz, el Netflix de las películas de miedo y terror llega a España: precio y películas disponibles</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/shadowz-netflix-peliculas-miedo-terror-llega-espana-precio-peliculas-disponibles-1394203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/shadowz-3658653.jpg?tf=1200x' alt='Shadowz, el Netflix de las películas de miedo y terror llega a España: precio y películas disponibles' />
+    <h4><a href='https://computerhoy.com/tecnologia/construyen-reloj-atomico-preciso-mundo-impulsar-ciencia-espacial-1393781'>Construyen el reloj atómico más preciso del mundo para impulsar la ciencia espacial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/construyen-reloj-atomico-preciso-mundo-impulsar-ciencia-espacial-1393781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/reloj-atomico-3645321.jpg?tf=1200x' alt='Construyen el reloj atómico más preciso del mundo para impulsar la ciencia espacial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gran-hermano-llega-teletrabajo-ia-pone-servicio-empresas-detectar-falsa-actividad-1394201'>El Gran Hermano llega al teletrabajo, la IA se pone al servicio de las empresas para detectar falsa actividad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gran-hermano-llega-teletrabajo-ia-pone-servicio-empresas-detectar-falsa-actividad-1394201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teletrabajo-3658649.jpg?tf=1200x' alt='El Gran Hermano llega al teletrabajo, la IA se pone al servicio de las empresas para detectar falsa actividad' />
+    <h4><a href='https://computerhoy.com/tecnologia/desarrollador-logra-ejecutar-sistema-operativo-completo-google-drive-1394001'>Un desarrollador logra ejecutar un sistema operativo completo en Google Drive</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desarrollador-logra-ejecutar-sistema-operativo-completo-google-drive-1394001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/linux-google-drive-3652262.jpg?tf=1200x' alt='Un desarrollador logra ejecutar un sistema operativo completo en Google Drive' />
     </a>
 </div>
 
