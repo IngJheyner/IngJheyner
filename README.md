@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/comprar-ordenador-portatil-lento-mundo-bolsillo-1393328'>Ya puedes comprar el ordenador portátil más lento del mundo: cabe en un bolsillo y al menos podrás jugar a Doom</a></h4>
-    <a href='https://computerhoy.com/tecnologia/comprar-ordenador-portatil-lento-mundo-bolsillo-1393328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pocket-386-3622036.jpg?tf=1200x' alt='Ya puedes comprar el ordenador portátil más lento del mundo: cabe en un bolsillo y al menos podrás jugar a Doom' />
+    <h4><a href='https://computerhoy.com/tecnologia/qpu-sirve-futuro-computacion-cuantica-1393794'>Qué es la QPU, para qué sirve y por qué es el futuro de la computación cuántica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/qpu-sirve-futuro-computacion-cuantica-1393794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/qpu-sirve-futuro-computacion-cuantica-3646830.jpg?tf=1200x' alt='Qué es la QPU, para qué sirve y por qué es el futuro de la computación cuántica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mi-pc-windows-10-cumple-requisitos-hardware-windows-11-1392710'>¿Cómo sé si mi PC con Windows 10 cumple con los requisitos de hardware para Windows 11?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mi-pc-windows-10-cumple-requisitos-hardware-windows-11-1392710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-mi-pc-windows-10-cumple-requisitos-hardware-windows-11-3594965.jpg?tf=1200x' alt='¿Cómo sé si mi PC con Windows 10 cumple con los requisitos de hardware para Windows 11?' />
+    <h4><a href='https://computerhoy.com/tecnologia/cae-picado-precio-mejores-robots-roomba-aspira-friega-tiene-tres-bolsas-regalo-1394134'>Cae en picado el precio de uno de los mejores robots de Roomba: aspira, friega y tiene tres bolsas de regalo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cae-picado-precio-mejores-robots-roomba-aspira-friega-tiene-tres-bolsas-regalo-1394134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/irobot-roomba-combo-i5-3656751.jpg?tf=1200x' alt='Cae en picado el precio de uno de los mejores robots de Roomba: aspira, friega y tiene tres bolsas de regalo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/bizum-principiantes-como-funciona-como-crear-cuenta-enviar-recibir-dinero-1135577'>Bizum para principiantes: qué es, cómo funciona y cómo enviar y recibir dinero</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/bizum-principiantes-como-funciona-como-crear-cuenta-enviar-recibir-dinero-1135577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bizum-3578486.jpg?tf=1200x' alt='Bizum para principiantes: qué es, cómo funciona y cómo enviar y recibir dinero' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-windows-11-linux-arranque-dual-paso-paso-1393916'>Cómo instalar Windows 11 y Linux con arranque dual paso a paso</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-windows-11-linux-arranque-dual-paso-paso-1393916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laptop-windows-11-linux-3649872.jpg?tf=1200x' alt='Cómo instalar Windows 11 y Linux con arranque dual paso a paso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-bizum-entidad-bancaria-1392800'>¿Cómo cambiar Bizum de entidad bancaria? </a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-bizum-entidad-bancaria-1392800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bizum-bancos-3599209.jpg?tf=1200x' alt='¿Cómo cambiar Bizum de entidad bancaria? ' />
+    <h4><a href='https://computerhoy.com/apps/puedes-conocer-nombre-te-han-guardado-whatsapp-1394041'>Así puedes conocer el nombre con el que te han guardado en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/puedes-conocer-nombre-te-han-guardado-whatsapp-1394041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sorpresa-whatsapp-3656475.jpg?tf=1200x' alt='Así puedes conocer el nombre con el que te han guardado en WhatsApp' />
     </a>
 </div>
 
