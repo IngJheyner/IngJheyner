@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia-dji-bicicletas-electricas-1393799'>A punto de ser prohibida en Estados Unidos, DJI cambia los drones por las bicis eléctricas</a></h4>
-    <a href='https://computerhoy.com/tecnologia-dji-bicicletas-electricas-1393799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/punto-ser-prohibida-estados-unidos-dji-cambia-drones-bicis-electricas-3647237.jpg?tf=1200x' alt='A punto de ser prohibida en Estados Unidos, DJI cambia los drones por las bicis eléctricas' />
+    <h4><a href='https://computerhoy.com/apps/donde-viene-apellido-cuantas-personas-comparten-google-maps-1391580'>El Google Maps que te muestra de dónde viene tu apellido y cuántas personas lo tienen</a></h4>
+    <a href='https://computerhoy.com/apps/donde-viene-apellido-cuantas-personas-comparten-google-maps-1391580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-te-muestra-donde-viene-apellido-cuantas-personas-comparten-3540613.jpg?tf=1200x' alt='El Google Maps que te muestra de dónde viene tu apellido y cuántas personas lo tienen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-fondos-pantalla-gratis-inteligencia-artificial-movil-pc-1393769'>Cómo crear fondos de pantalla gratis con inteligencia artificial para tu móvil o PC</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-fondos-pantalla-gratis-inteligencia-artificial-movil-pc-1393769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fondos-pantalla-ia-3649070.jpg?tf=1200x' alt='Cómo crear fondos de pantalla gratis con inteligencia artificial para tu móvil o PC' />
+    <h4><a href='https://computerhoy.com/ciencia/mayor-problema-matematicas-cerca-resolverse-despues-160-anos-formulo-1393908'>El mayor problema de las matemáticas está más cerca de resolverse después de 160 años desde que se formuló</a></h4>
+    <a href='https://computerhoy.com/ciencia/mayor-problema-matematicas-cerca-resolverse-despues-160-anos-formulo-1393908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mayor-problema-matematicas-cerca-resolverse-despues-160-anos-formulo-3649711.jpg?tf=1200x' alt='El mayor problema de las matemáticas está más cerca de resolverse después de 160 años desde que se formuló' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ministro-tecnologia-japon-anuncia-gran-victoria-disquetes-1394015'>El ministro de tecnología de Japón anuncia una gran victoria contra los disquetes </a></h4>
-    <a href='https://computerhoy.com/pc/ministro-tecnologia-japon-anuncia-gran-victoria-disquetes-1394015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ministro-tecnologia-japon-anuncia-gran-victoria-disquetes-3653070.jpg?tf=1200x' alt='El ministro de tecnología de Japón anuncia una gran victoria contra los disquetes ' />
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-openai-ya-piensan-gpt-5-chatgpt-ambicioso-estas-seran-novedades-1393856'>Sam Altman y OpenAI ya piensan en GPT-5, el ChatGPT más ambicioso: estas serán sus novedades</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-openai-ya-piensan-gpt-5-chatgpt-ambicioso-estas-seran-novedades-1393856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-5-3650036.jpg?tf=1200x' alt='Sam Altman y OpenAI ya piensan en GPT-5, el ChatGPT más ambicioso: estas serán sus novedades' />
     </a>
 </div>
 
