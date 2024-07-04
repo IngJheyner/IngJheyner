@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/qpu-sirve-futuro-computacion-cuantica-1393794'>Qué es la QPU, para qué sirve y por qué es el futuro de la computación cuántica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/qpu-sirve-futuro-computacion-cuantica-1393794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/qpu-sirve-futuro-computacion-cuantica-3646830.jpg?tf=1200x' alt='Qué es la QPU, para qué sirve y por qué es el futuro de la computación cuántica' />
+    <h4><a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737'>Por qué no debes enchufar la nevera inmediatamente después de una mudanza</a></h4>
+    <a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-3644452.jpg?tf=1200x' alt='Por qué no debes enchufar la nevera inmediatamente después de una mudanza' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cae-picado-precio-mejores-robots-roomba-aspira-friega-tiene-tres-bolsas-regalo-1394134'>Cae en picado el precio de uno de los mejores robots de Roomba: aspira, friega y tiene tres bolsas de regalo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cae-picado-precio-mejores-robots-roomba-aspira-friega-tiene-tres-bolsas-regalo-1394134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/irobot-roomba-combo-i5-3656751.jpg?tf=1200x' alt='Cae en picado el precio de uno de los mejores robots de Roomba: aspira, friega y tiene tres bolsas de regalo' />
+    <h4><a href='https://computerhoy.com/redes/perdido-cajon-solucion-hacer-volar-wifi-1394164'>Está perdido en un cajón y es la solución para hacer volar tu WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/perdido-cajon-solucion-hacer-volar-wifi-1394164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/perdido-cajon-solucion-hacer-volar-wifi-3658080.jpg?tf=1200x' alt='Está perdido en un cajón y es la solución para hacer volar tu WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-windows-11-linux-arranque-dual-paso-paso-1393916'>Cómo instalar Windows 11 y Linux con arranque dual paso a paso</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-windows-11-linux-arranque-dual-paso-paso-1393916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laptop-windows-11-linux-3649872.jpg?tf=1200x' alt='Cómo instalar Windows 11 y Linux con arranque dual paso a paso' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-pc-sonidos-sistema-primeras-versiones-windows-1393796'>Cómo instalar en tu PC los sonidos del sistema de las primeras versiones de Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-pc-sonidos-sistema-primeras-versiones-windows-1393796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-instalar-pc-viejos-sonidos-primeras-versiones-windows-3647236.jpg?tf=1200x' alt='Cómo instalar en tu PC los sonidos del sistema de las primeras versiones de Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/puedes-conocer-nombre-te-han-guardado-whatsapp-1394041'>Así puedes conocer el nombre con el que te han guardado en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/puedes-conocer-nombre-te-han-guardado-whatsapp-1394041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sorpresa-whatsapp-3656475.jpg?tf=1200x' alt='Así puedes conocer el nombre con el que te han guardado en WhatsApp' />
+    <h4><a href='https://computerhoy.com/tecnologia/opina-chatgpt-habitantes-paises-union-europea-1240298'>Arrogantes, perezosos, gorditos… el lado oscuro de ChatGPT opina de los habitantes de cada país de la Unión Europea</a></h4>
+    <a href='https://computerhoy.com/tecnologia/opina-chatgpt-habitantes-paises-union-europea-1240298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/arrogantes-perezosos-gorditos-lado-oscuro-chatgpt-opina-habitantes-cada-pais-union-europea-3647647.jpg?tf=1200x' alt='Arrogantes, perezosos, gorditos… el lado oscuro de ChatGPT opina de los habitantes de cada país de la Unión Europea' />
     </a>
 </div>
 
