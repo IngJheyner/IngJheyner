@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/razon-facil-te-hackeen-movil-vacaciones-pero-puedes-evitarlo-1391647'>Esta es la razón por la que es más fácil que te hackeen el móvil en vacaciones, pero puedes evitarlo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/razon-facil-te-hackeen-movil-vacaciones-pero-puedes-evitarlo-1391647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chica-mirando-movil-playa-3614091.jpg?tf=1200x' alt='Esta es la razón por la que es más fácil que te hackeen el móvil en vacaciones, pero puedes evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tienes-app-chatgpt-mac-actualiza-inmediato-no-quieres-problemas-1394043'>¿Tienes la app de ChatGPT en tu Mac? Actualiza de inmediato si no quieres problemas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tienes-app-chatgpt-mac-actualiza-inmediato-no-quieres-problemas-1394043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-mac-3655447.jpg?tf=1200x' alt='¿Tienes la app de ChatGPT en tu Mac? Actualiza de inmediato si no quieres problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-hace-saltar-alarmas-mucho-cuidado-llamada-telefono-1393608'>La Policía Nacional hace saltar las alarmas: mucho cuidado con esta llamada de teléfono</a></h4>
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-hace-saltar-alarmas-mucho-cuidado-llamada-telefono-1393608'>La Policía Nacional alerta a los españoles: mucho cuidado con este número de teléfono</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-nacional-hace-saltar-alarmas-mucho-cuidado-llamada-telefono-1393608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-movil-3641674.jpg?tf=1200x' alt='La Policía Nacional hace saltar las alarmas: mucho cuidado con esta llamada de teléfono' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/policia-nacional-3655880.jpg?tf=1200x' alt='La Policía Nacional alerta a los españoles: mucho cuidado con este número de teléfono' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/cansado-viejo-movil-3-senales-te-indican-hora-cambiarlo-1393819'>¿Cansado de tu viejo móvil? 3 señales que te indican que es hora de cambiarlo</a></h4>
-    <a href='https://computerhoy.com/moviles/cansado-viejo-movil-3-senales-te-indican-hora-cambiarlo-1393819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movil-enfado-3648602.jpg?tf=1200x' alt='¿Cansado de tu viejo móvil? 3 señales que te indican que es hora de cambiarlo' />
+    <h4><a href='https://computerhoy.com/life/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-1390985'>Estas son las razones por las que Finlandia es el país más feliz del mundo (y España nunca podrá serlo)</a></h4>
+    <a href='https://computerhoy.com/life/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-1390985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-3507532.jpg?tf=1200x' alt='Estas son las razones por las que Finlandia es el país más feliz del mundo (y España nunca podrá serlo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/puede-smart-tv-ser-hackeada-infectada-virus-1393611'>¿Puede tu Smart TV ser hackeada o infectada por un virus? </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/puede-smart-tv-ser-hackeada-infectada-virus-1393611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tv-infectada-malware-3641826.jpg?tf=1200x' alt='¿Puede tu Smart TV ser hackeada o infectada por un virus? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/critica-machaca-primer-anuncio-toyrus-hecho-sora-ia-openai-pero-futuro-1393306'>La crítica machaca el primer anuncio de Toy"R"Us hecho con Sora, la IA de OpenAI, pero es el futuro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/critica-machaca-primer-anuncio-toyrus-hecho-sora-ia-openai-pero-futuro-1393306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/critica-machaca-primer-anuncio-toyrus-hecho-sora-ia-openai-pero-futuro-3620000.jpg?tf=1200x' alt='La crítica machaca el primer anuncio de Toy"R"Us hecho con Sora, la IA de OpenAI, pero es el futuro' />
     </a>
 </div>
 
