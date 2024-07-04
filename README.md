@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/whatsapp-no-funciona-comprueba-movil-encuentra-lista-1394097'>¿WhatsApp no funciona? Comprueba si tu móvil se encuentra en esta lista</a></h4>
-    <a href='https://computerhoy.com/moviles/whatsapp-no-funciona-comprueba-movil-encuentra-lista-1394097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-no-funciona-comprueba-movil-encuentra-lista-3656173.jpg?tf=1200x' alt='¿WhatsApp no funciona? Comprueba si tu móvil se encuentra en esta lista' />
+    <h4><a href='https://computerhoy.com/internet/importante-papel-operadores-multas-ver-futbol-iptv-lealtad-total-laliga-javier-tebas-1393888'>El importante papel de los operadores en las multas por ver el fútbol por IPTV y su lealtad total a LaLiga de Javier Tebas</a></h4>
+    <a href='https://computerhoy.com/internet/importante-papel-operadores-multas-ver-futbol-iptv-lealtad-total-laliga-javier-tebas-1393888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/espana-podium-iptv-no-estar-orgulloso-3506847.jpg?tf=1200x' alt='El importante papel de los operadores en las multas por ver el fútbol por IPTV y su lealtad total a LaLiga de Javier Tebas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-aprende-errores-playstation-5-inundara-tiendas-nintendo-switch-2-acabar-revendedores-1393632'>Nintendo aprende de los errores de PlayStation 5: inundará las tiendas de Nintendo Switch 2 para acabar con los revendedores</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-aprende-errores-playstation-5-inundara-tiendas-nintendo-switch-2-acabar-revendedores-1393632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nintendo-switch-2-3272297.jpg?tf=1200x' alt='Nintendo aprende de los errores de PlayStation 5: inundará las tiendas de Nintendo Switch 2 para acabar con los revendedores' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-obliga-realizar-evacuacion-emergencia-astronautas-estacion-espacial-internacional-1393319'>La NASA obliga a realizar una evacuación de emergencia a los astronautas de la Estación Espacial Internacional</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-obliga-realizar-evacuacion-emergencia-astronautas-estacion-espacial-internacional-1393319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estacion-espacial-internacional-3621448.jpg?tf=1200x' alt='La NASA obliga a realizar una evacuación de emergencia a los astronautas de la Estación Espacial Internacional' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/waze-codigos-secretos-desbloquean-funciones-ocultas-app-1392938'>Los códigos secretos de Waze que desbloquean funciones ocultas en la app de navegación</a></h4>
-    <a href='https://computerhoy.com/apps/waze-codigos-secretos-desbloquean-funciones-ocultas-app-1392938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/codigos-secretos-waze-desbloquean-funciones-ocultas-app-navegacion-3603335.jpg?tf=1200x' alt='Los códigos secretos de Waze que desbloquean funciones ocultas en la app de navegación' />
+    <h4><a href='https://computerhoy.com/tutoriales/tivimate-como-ver-canales-tv-gratis-smart-tv-iptv-necesidad-antena-1394087'>TiviMate: cómo ver canales de TV gratis en tu Smart TV por IPTV y sin necesidad de antena</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tivimate-como-ver-canales-tv-gratis-smart-tv-iptv-necesidad-antena-1394087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ver-canales-tv-gratis-3656166.jpg?tf=1200x' alt='TiviMate: cómo ver canales de TV gratis en tu Smart TV por IPTV y sin necesidad de antena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/stop-no-actualices-android-auto-necesitas-funcion-1394074'>¡STOP! No actualices Android Auto si necesitas esta función</a></h4>
-    <a href='https://computerhoy.com/apps/stop-no-actualices-android-auto-necesitas-funcion-1394074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-actualizacion-3655885.jpg?tf=1200x' alt='¡STOP! No actualices Android Auto si necesitas esta función' />
+    <h4><a href='https://computerhoy.com/tv/netflix-ha-empezado-eliminar-planes-precios-populares-llegara-espana-1393861'>Netflix ha empezado a eliminar uno de sus planes de precios más populares: ¿llegará a España?</a></h4>
+    <a href='https://computerhoy.com/tv/netflix-ha-empezado-eliminar-planes-precios-populares-llegara-espana-1393861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/netflix-tablet-3133736.jpg?tf=1200x' alt='Netflix ha empezado a eliminar uno de sus planes de precios más populares: ¿llegará a España?' />
     </a>
 </div>
 
