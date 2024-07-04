@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cada-episodio-tiene-giro-nuevo-loco-redes-estado-shock-nueva-serie-netflix-1394125'>“Cada episodio tiene un giro nuevo más loco”: las redes en estado de shock por la nueva serie de Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cada-episodio-tiene-giro-nuevo-loco-redes-estado-shock-nueva-serie-netflix-1394125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hombre-1000-hijos-3657344.jpg?tf=1200x' alt='“Cada episodio tiene un giro nuevo más loco”: las redes en estado de shock por la nueva serie de Netflix' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-1394171'>Obedece a la policía y utiliza este truco para evitar que tu móvil se conecte automáticamente a dispositivos por Bluetooth</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-1394171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-3658654.jpg?tf=1200x' alt='Obedece a la policía y utiliza este truco para evitar que tu móvil se conecte automáticamente a dispositivos por Bluetooth' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/te-mudaste-windows-11-piensa-fallo-provoca-notificaciones-cambio-zona-horaria-1393341'>¿Te mudaste? Windows 11 piensa que sí: un fallo provoca notificaciones de cambio de zona horaria</a></h4>
-    <a href='https://computerhoy.com/windows/te-mudaste-windows-11-piensa-fallo-provoca-notificaciones-cambio-zona-horaria-1393341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-hora-3623202.jpg?tf=1200x' alt='¿Te mudaste? Windows 11 piensa que sí: un fallo provoca notificaciones de cambio de zona horaria' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-avisar-otros-conductores-peligro-google-maps-1393760'>Cómo avisar a otros conductores de un peligro en Google Maps</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-avisar-otros-conductores-peligro-google-maps-1393760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-avisar-otros-conductores-peligro-google-maps-3645043.jpg?tf=1200x' alt='Cómo avisar a otros conductores de un peligro en Google Maps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cartera-digital-ver-porno-requisitos-solicitud-como-funciona-1393770'>Carnet digital de 30 días para ver porno: requisitos, solicitud y cómo funciona</a></h4>
-    <a href='https://computerhoy.com/life/cartera-digital-ver-porno-requisitos-solicitud-como-funciona-1393770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/carnet-digital-30-dias-ver-porno-requisitos-solicitud-como-funciona-3644300.jpg?tf=1200x' alt='Carnet digital de 30 días para ver porno: requisitos, solicitud y cómo funciona' />
+    <h4><a href='https://computerhoy.com/entretenimiento/shadowz-netflix-peliculas-miedo-terror-llega-espana-precio-peliculas-disponibles-1394203'>Shadowz, el Netflix de las películas de miedo y terror llega a España: precio y películas disponibles</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/shadowz-netflix-peliculas-miedo-terror-llega-espana-precio-peliculas-disponibles-1394203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/shadowz-3658653.jpg?tf=1200x' alt='Shadowz, el Netflix de las películas de miedo y terror llega a España: precio y películas disponibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-elegir-fuente-alimentacion-adecuada-nuevo-pc-1393748'>Cómo elegir la fuente de alimentación adecuada para tu nuevo PC</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-elegir-fuente-alimentacion-adecuada-nuevo-pc-1393748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/conexion-cable-psu-pc-3644134.jpg?tf=1200x' alt='Cómo elegir la fuente de alimentación adecuada para tu nuevo PC' />
+    <h4><a href='https://computerhoy.com/tecnologia/gran-hermano-llega-teletrabajo-ia-pone-servicio-empresas-detectar-falsa-actividad-1394201'>El Gran Hermano llega al teletrabajo, la IA se pone al servicio de las empresas para detectar falsa actividad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gran-hermano-llega-teletrabajo-ia-pone-servicio-empresas-detectar-falsa-actividad-1394201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teletrabajo-3658649.jpg?tf=1200x' alt='El Gran Hermano llega al teletrabajo, la IA se pone al servicio de las empresas para detectar falsa actividad' />
     </a>
 </div>
 
