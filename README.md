@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737'>Por qué no debes enchufar la nevera inmediatamente después de una mudanza</a></h4>
-    <a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-3644452.jpg?tf=1200x' alt='Por qué no debes enchufar la nevera inmediatamente después de una mudanza' />
+    <h4><a href='https://computerhoy.com/entretenimiento/cada-episodio-tiene-giro-nuevo-loco-redes-estado-shock-nueva-serie-netflix-1394125'>“Cada episodio tiene un giro nuevo más loco”: las redes en estado de shock por la nueva serie de Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cada-episodio-tiene-giro-nuevo-loco-redes-estado-shock-nueva-serie-netflix-1394125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hombre-1000-hijos-3657344.jpg?tf=1200x' alt='“Cada episodio tiene un giro nuevo más loco”: las redes en estado de shock por la nueva serie de Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/perdido-cajon-solucion-hacer-volar-wifi-1394164'>Está perdido en un cajón y es la solución para hacer volar tu WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/perdido-cajon-solucion-hacer-volar-wifi-1394164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/perdido-cajon-solucion-hacer-volar-wifi-3658080.jpg?tf=1200x' alt='Está perdido en un cajón y es la solución para hacer volar tu WiFi' />
+    <h4><a href='https://computerhoy.com/windows/te-mudaste-windows-11-piensa-fallo-provoca-notificaciones-cambio-zona-horaria-1393341'>¿Te mudaste? Windows 11 piensa que sí: un fallo provoca notificaciones de cambio de zona horaria</a></h4>
+    <a href='https://computerhoy.com/windows/te-mudaste-windows-11-piensa-fallo-provoca-notificaciones-cambio-zona-horaria-1393341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-hora-3623202.jpg?tf=1200x' alt='¿Te mudaste? Windows 11 piensa que sí: un fallo provoca notificaciones de cambio de zona horaria' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-pc-sonidos-sistema-primeras-versiones-windows-1393796'>Cómo instalar en tu PC los sonidos del sistema de las primeras versiones de Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-pc-sonidos-sistema-primeras-versiones-windows-1393796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-instalar-pc-viejos-sonidos-primeras-versiones-windows-3647236.jpg?tf=1200x' alt='Cómo instalar en tu PC los sonidos del sistema de las primeras versiones de Windows' />
+    <h4><a href='https://computerhoy.com/life/cartera-digital-ver-porno-requisitos-solicitud-como-funciona-1393770'>Carnet digital de 30 días para ver porno: requisitos, solicitud y cómo funciona</a></h4>
+    <a href='https://computerhoy.com/life/cartera-digital-ver-porno-requisitos-solicitud-como-funciona-1393770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/carnet-digital-30-dias-ver-porno-requisitos-solicitud-como-funciona-3644300.jpg?tf=1200x' alt='Carnet digital de 30 días para ver porno: requisitos, solicitud y cómo funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/opina-chatgpt-habitantes-paises-union-europea-1240298'>Arrogantes, perezosos, gorditos… el lado oscuro de ChatGPT opina de los habitantes de cada país de la Unión Europea</a></h4>
-    <a href='https://computerhoy.com/tecnologia/opina-chatgpt-habitantes-paises-union-europea-1240298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/arrogantes-perezosos-gorditos-lado-oscuro-chatgpt-opina-habitantes-cada-pais-union-europea-3647647.jpg?tf=1200x' alt='Arrogantes, perezosos, gorditos… el lado oscuro de ChatGPT opina de los habitantes de cada país de la Unión Europea' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-elegir-fuente-alimentacion-adecuada-nuevo-pc-1393748'>Cómo elegir la fuente de alimentación adecuada para tu nuevo PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-elegir-fuente-alimentacion-adecuada-nuevo-pc-1393748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/conexion-cable-psu-pc-3644134.jpg?tf=1200x' alt='Cómo elegir la fuente de alimentación adecuada para tu nuevo PC' />
     </a>
 </div>
 
