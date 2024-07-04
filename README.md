@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/funcion-netflix-cualquier-smart-tv-vea-mejor-1293268'>La desconocida función oculta de Netflix para que cualquier Smart TV se vea mucho mejor</a></h4>
-    <a href='https://computerhoy.com/tv/funcion-netflix-cualquier-smart-tv-vea-mejor-1293268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mejorar-calidad-imagen-smart-tv-netflix-3114202.jpg?tf=1200x' alt='La desconocida función oculta de Netflix para que cualquier Smart TV se vea mucho mejor' />
+    <h4><a href='https://computerhoy.com/tutoriales/movil-como-repetidor-wifi-mejorar-senal-tutorial-1393129'>Cómo utilizar tu móvil como repetidor WiFi para mejorar la señal en toda la casa</a></h4>
+    <a href='https://computerhoy.com/tutoriales/movil-como-repetidor-wifi-mejorar-senal-tutorial-1393129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-utilizar-movil-como-repetidor-wifi-mejorar-senal-toda-casa-3611443.jpg?tf=1200x' alt='Cómo utilizar tu móvil como repetidor WiFi para mejorar la señal en toda la casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-hace-saltar-alarmas-mucho-cuidado-llamada-telefono-1393608'>La Policía Nacional alerta a los españoles: mucho cuidado con este número de teléfono</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-hace-saltar-alarmas-mucho-cuidado-llamada-telefono-1393608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/policia-nacional-3655880.jpg?tf=1200x' alt='La Policía Nacional alerta a los españoles: mucho cuidado con este número de teléfono' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafas-telefonicas-inteligencia-artificial-copia-voz-1360650'>La nueva era de estafas telefónicas: descubre cómo la IA puede engañarnos copiando la voz</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafas-telefonicas-inteligencia-artificial-copia-voz-1360650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/voces-clonadas-ia-3268665.jpg?tf=1200x' alt='La nueva era de estafas telefónicas: descubre cómo la IA puede engañarnos copiando la voz' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-1390985'>Estas son las razones por las que Finlandia es el país más feliz del mundo (y España nunca podrá serlo)</a></h4>
-    <a href='https://computerhoy.com/life/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-1390985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estas-son-razones-finlandia-pais-feliz-mundo-espana-nunca-podra-serlo-3507532.jpg?tf=1200x' alt='Estas son las razones por las que Finlandia es el país más feliz del mundo (y España nunca podrá serlo)' />
+    <h4><a href='https://computerhoy.com/tecnologia/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-1393312'>El CEO de IA de Microsoft afirma que casi todo en la web puede ser usado libremente para entrenar IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-1393312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ceo-ia-microsoft-afirma-casi-todo-web-puede-ser-usado-libremente-entrenar-ia-3621012.jpg?tf=1200x' alt='El CEO de IA de Microsoft afirma que casi todo en la web puede ser usado libremente para entrenar IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/puede-smart-tv-ser-hackeada-infectada-virus-1393611'>¿Puede tu Smart TV ser hackeada o infectada por un virus? </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/puede-smart-tv-ser-hackeada-infectada-virus-1393611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tv-infectada-malware-3641826.jpg?tf=1200x' alt='¿Puede tu Smart TV ser hackeada o infectada por un virus? ' />
+    <h4><a href='https://computerhoy.com/motor/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-1393823'>Varapalo histórico al coche eléctrico: Mercedes vuelve a los motores de combustión</a></h4>
+    <a href='https://computerhoy.com/motor/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-1393823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-3648603.jpg?tf=1200x' alt='Varapalo histórico al coche eléctrico: Mercedes vuelve a los motores de combustión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/critica-machaca-primer-anuncio-toyrus-hecho-sora-ia-openai-pero-futuro-1393306'>La crítica machaca el primer anuncio de Toy"R"Us hecho con Sora, la IA de OpenAI, pero es el futuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/critica-machaca-primer-anuncio-toyrus-hecho-sora-ia-openai-pero-futuro-1393306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/critica-machaca-primer-anuncio-toyrus-hecho-sora-ia-openai-pero-futuro-3620000.jpg?tf=1200x' alt='La crítica machaca el primer anuncio de Toy"R"Us hecho con Sora, la IA de OpenAI, pero es el futuro' />
+    <h4><a href='https://computerhoy.com/windows/funcion-oculta-windows-11-puede-evitar-pc-vaya-lento-1393628'>Esta función oculta de Windows 11 puede evitar que tu PC vaya lento</a></h4>
+    <a href='https://computerhoy.com/windows/funcion-oculta-windows-11-puede-evitar-pc-vaya-lento-1393628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-3391674.jpg?tf=1200x' alt='Esta función oculta de Windows 11 puede evitar que tu PC vaya lento' />
     </a>
 </div>
 
