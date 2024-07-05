@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/clasico-stephen-king-tiene-casi-50-anos-cuya-pelicula-sigue-resistiendo-podria-estrenarse-2024-1394256'>El clásico de Stephen King que tiene casi 50 años y cuya película se sigue resistiendo, podría estrenarse en 2024</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/clasico-stephen-king-tiene-casi-50-anos-cuya-pelicula-sigue-resistiendo-podria-estrenarse-2024-1394256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/juego-tronos-temporada-8-stephen-king-defiende-estos-episodios.jpg?tf=1200x' alt='El clásico de Stephen King que tiene casi 50 años y cuya película se sigue resistiendo, podría estrenarse en 2024' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-1394171'>Obedece a la policía y utiliza este truco para evitar que tu móvil se conecte automáticamente a dispositivos por Bluetooth</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-1394171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-3658654.jpg?tf=1200x' alt='Obedece a la policía y utiliza este truco para evitar que tu móvil se conecte automáticamente a dispositivos por Bluetooth' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cuando-internet-muerto-ya-no-teoria-conspiracion-42-trafico-creado-bots-ia-1394050'>Cuando Internet Muerto ya no es una teoría de la conspiración: el 42% del tráfico está creado por bots y la IA</a></h4>
-    <a href='https://computerhoy.com/internet/cuando-internet-muerto-ya-no-teoria-conspiracion-42-trafico-creado-bots-ia-1394050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/internet-muerto-3657485.jpg?tf=1200x' alt='Cuando Internet Muerto ya no es una teoría de la conspiración: el 42% del tráfico está creado por bots y la IA' />
+    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-ha-hecho-amazon-prime-video-outer-range-grandes-series-quedaron-final-condiciones-1394141'>No solo lo ha hecho Amazon Prime Video con Outer Range: grandes series que se quedaron sin un final en condiciones</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/no-solo-ha-hecho-amazon-prime-video-outer-range-grandes-series-quedaron-final-condiciones-1394141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/outer-range-2666559.jpg?tf=1200x' alt='No solo lo ha hecho Amazon Prime Video con Outer Range: grandes series que se quedaron sin un final en condiciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aplicaciones-imprescindibles-debes-instalar-viajas-crucero-1393816'>Aplicaciones imprescindibles que debes instalar si viajas en un crucero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aplicaciones-imprescindibles-debes-instalar-viajas-crucero-1393816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apps-crucero-3649707.jpg?tf=1200x' alt='Aplicaciones imprescindibles que debes instalar si viajas en un crucero' />
+    <h4><a href='https://computerhoy.com/entretenimiento/shadowz-netflix-peliculas-miedo-terror-llega-espana-precio-peliculas-disponibles-1394203'>Shadowz, el Netflix de las películas de miedo y terror llega a España: precio y películas disponibles</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/shadowz-netflix-peliculas-miedo-terror-llega-espana-precio-peliculas-disponibles-1394203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/shadowz-3658653.jpg?tf=1200x' alt='Shadowz, el Netflix de las películas de miedo y terror llega a España: precio y películas disponibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-1394219'>Por qué tu Smart TV de Samsung se enciende de forma aleatoria (y cómo solucionarlo)</a></h4>
-    <a href='https://computerhoy.com/tv/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-1394219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-3660867.jpg?tf=1200x' alt='Por qué tu Smart TV de Samsung se enciende de forma aleatoria (y cómo solucionarlo)' />
+    <h4><a href='https://computerhoy.com/tecnologia/gran-hermano-llega-teletrabajo-ia-pone-servicio-empresas-detectar-falsa-actividad-1394201'>El Gran Hermano llega al teletrabajo, la IA se pone al servicio de las empresas para detectar falsa actividad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gran-hermano-llega-teletrabajo-ia-pone-servicio-empresas-detectar-falsa-actividad-1394201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teletrabajo-3658649.jpg?tf=1200x' alt='El Gran Hermano llega al teletrabajo, la IA se pone al servicio de las empresas para detectar falsa actividad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-maps-cierra-android-auto-pasa-como-solucionarlo-1393957'>Google Maps se cierra en Android Auto: por qué pasa y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/android/google-maps-cierra-android-auto-pasa-como-solucionarlo-1393957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-cierra-android-auto-pasa-como-solucionarlo-3651526.jpg?tf=1200x' alt='Google Maps se cierra en Android Auto: por qué pasa y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/cada-episodio-tiene-giro-nuevo-loco-redes-estado-shock-nueva-serie-netflix-1394125'>“Cada episodio tiene un giro nuevo más loco”: las redes en estado de shock por la nueva serie de Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cada-episodio-tiene-giro-nuevo-loco-redes-estado-shock-nueva-serie-netflix-1394125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hombre-1000-hijos-3657344.jpg?tf=1200x' alt='“Cada episodio tiene un giro nuevo más loco”: las redes en estado de shock por la nueva serie de Netflix' />
     </a>
 </div>
 
