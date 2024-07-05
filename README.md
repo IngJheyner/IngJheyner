@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/dazn-podria-haber-descubierto-como-acabar-iptv-sencillo-mundo-1394249'>DAZN podría haber descubierto cómo acabar con las IPTV, y es lo más sencillo del mundo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/dazn-podria-haber-descubierto-como-acabar-iptv-sencillo-mundo-1394249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dazn-podria-haber-descubierto-como-acabar-iptv-sencillo-mundo-3662568.jpg?tf=1200x' alt='DAZN podría haber descubierto cómo acabar con las IPTV, y es lo más sencillo del mundo' />
+    <h4><a href='https://computerhoy.com/motor/edr-caja-negra-dgt-ya-obligatoria-todos-coches-espana-1394200'>EDR, la "caja negra" de la DGT que ya es obligatoria para todos los coches en España</a></h4>
+    <a href='https://computerhoy.com/motor/edr-caja-negra-dgt-ya-obligatoria-todos-coches-espana-1394200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/edr-caja-negra-dgt-ya-obligatoria-todos-coches-espana-3658509.jpg?tf=1200x' alt='EDR, la "caja negra" de la DGT que ya es obligatoria para todos los coches en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/olvidate-aire-acondicionado-invento-dos-universitarios-baja-9-grados-temperatura-casa-coche-1393692'>Olvídate del aire acondicionado: este invento de dos universitarios baja 9 grados la temperatura de tu casa o coche</a></h4>
-    <a href='https://computerhoy.com/ciencia/olvidate-aire-acondicionado-invento-dos-universitarios-baja-9-grados-temperatura-casa-coche-1393692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/olvidate-aire-acondicionado-invento-dos-universitarios-baja-9-grados-temperatura-casa-coche-3643072.jpg?tf=1200x' alt='Olvídate del aire acondicionado: este invento de dos universitarios baja 9 grados la temperatura de tu casa o coche' />
+    <h4><a href='https://computerhoy.com/windows/nueva-actualizacion-confirma-fin-windows-10-puede-haber-comenzado-antes-tiempo-1394267'>Una nueva actualización confirma que el fin de Windows 10 puede haber comenzado antes de tiempo</a></h4>
+    <a href='https://computerhoy.com/windows/nueva-actualizacion-confirma-fin-windows-10-puede-haber-comenzado-antes-tiempo-1394267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/caracteristica-windows-11-infinitamente-superior-windows-10-sabias-3653202.jpg?tf=1200x' alt='Una nueva actualización confirma que el fin de Windows 10 puede haber comenzado antes de tiempo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/saber-router-wifi-te-dando-velocidad-realmente-necesitas-1228556'>Cómo saber si tu router WiFi te está dando la velocidad que realmente necesitas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/saber-router-wifi-te-dando-velocidad-realmente-necesitas-1228556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/router-wifi-2839071.jpg?tf=1200x' alt='Cómo saber si tu router WiFi te está dando la velocidad que realmente necesitas' />
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-como-funciona-sirve-pequeno-ordenador-1394282'>Qué es Raspberry Pi, cómo funciona y para qué sirve este pequeño ordenador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-como-funciona-sirve-pequeno-ordenador-1394282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/raspberry-mejora-conectividad-remoto-nueva-funcion-raspberry-pi-connect-3309459.jpg?tf=1200x' alt='Qué es Raspberry Pi, cómo funciona y para qué sirve este pequeño ordenador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-como-funciona-puedes-hacer-tamagotchi-hackers-1394271'>Flipper Zero: qué es, cómo funciona y qué puedes hacer con el "Tamagotchi de los hackers"</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-como-funciona-puedes-hacer-tamagotchi-hackers-1394271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/flipper-zero-3409406.jpg?tf=1200x' alt='Flipper Zero: qué es, cómo funciona y qué puedes hacer con el "Tamagotchi de los hackers"' />
+    <h4><a href='https://computerhoy.com/motor/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-1393823'>Varapalo histórico al coche eléctrico: Mercedes vuelve a los motores de combustión</a></h4>
+    <a href='https://computerhoy.com/motor/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-1393823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-3648603.jpg?tf=1200x' alt='Varapalo histórico al coche eléctrico: Mercedes vuelve a los motores de combustión' />
     </a>
 </div>
 
