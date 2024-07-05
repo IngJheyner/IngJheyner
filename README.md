@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ni-exito-ni-dinero-razon-deberias-montar-negocio-steve-jobs-1226062'>Ni éxito, ni dinero, esta es la razón por la que deberías montar tu propio negocio según Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/life/ni-exito-ni-dinero-razon-deberias-montar-negocio-steve-jobs-1226062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steve-jobs-sosteniendo-iphone-2986484.jpg?tf=1200x' alt='Ni éxito, ni dinero, esta es la razón por la que deberías montar tu propio negocio según Steve Jobs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/metodo-deep-work-triunfar-bill-gates-elon-musk-1340910'>He probado el método Deep Work que Bill Gates o Elon Musk quieren que uses para triunfar y funciona</a></h4>
     <a href='https://computerhoy.com/life/metodo-deep-work-triunfar-bill-gates-elon-musk-1340910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-bill-gates-2994776.jpg?tf=1200x' alt='He probado el método Deep Work que Bill Gates o Elon Musk quieren que uses para triunfar y funciona' />
@@ -66,25 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/como-funciona-microsoft-excel-app-hojas-calculo-todos-conocen-pero-pocos-entienden-bien-1387693'>Cómo funciona Microsoft Excel, la app de hojas de cálculo que todos conocen pero pocos dominan</a></h4>
-    <a href='https://computerhoy.com/como-funciona-microsoft-excel-app-hojas-calculo-todos-conocen-pero-pocos-entienden-bien-1387693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-excel-3361991.jpg?tf=1200x' alt='Cómo funciona Microsoft Excel, la app de hojas de cálculo que todos conocen pero pocos dominan' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-2-patente-revela-nueva-generacion-vista-gran-novedad-1394235'>¿Samsung Galaxy Ring 2? Esta patente revela nueva generación a la vista con una gran novedad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-2-patente-revela-nueva-generacion-vista-gran-novedad-1394235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-ring-3651234.jpg?tf=1200x' alt='¿Samsung Galaxy Ring 2? Esta patente revela nueva generación a la vista con una gran novedad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/errores-freidora-aire-consuma-horno-1207008'>Errores que hacen que tu freidora de aire consuma más que un horno</a></h4>
-    <a href='https://computerhoy.com/alimentacion/errores-freidora-aire-consuma-horno-1207008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg?tf=1200x' alt='Errores que hacen que tu freidora de aire consuma más que un horno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/obsesion-punto-enfermar-moda-smartwatches-nos-yendo-manos-1392914'>Obsesión hasta el punto de enfermar: ¿La moda de los smartwatches se nos está yendo de las manos?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/obsesion-punto-enfermar-moda-smartwatches-nos-yendo-manos-1392914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mano-zombie-smartwatch-3601663.jpg?tf=1200x' alt='Obsesión hasta el punto de enfermar: ¿La moda de los smartwatches se nos está yendo de las manos?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/tienes-app-chatgpt-mac-actualiza-inmediato-no-quieres-problemas-1394043'>¿Tienes la app de ChatGPT en tu Mac? Actualiza de inmediato si no quieres problemas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tienes-app-chatgpt-mac-actualiza-inmediato-no-quieres-problemas-1394043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-mac-3655447.jpg?tf=1200x' alt='¿Tienes la app de ChatGPT en tu Mac? Actualiza de inmediato si no quieres problemas' />
     </a>
 </div>
 
