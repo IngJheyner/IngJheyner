@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ni-exito-ni-dinero-razon-deberias-montar-negocio-steve-jobs-1226062'>Ni éxito, ni dinero, esta es la razón por la que deberías montar tu propio negocio según Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/life/ni-exito-ni-dinero-razon-deberias-montar-negocio-steve-jobs-1226062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/steve-jobs-sosteniendo-iphone-2986484.jpg?tf=1200x' alt='Ni éxito, ni dinero, esta es la razón por la que deberías montar tu propio negocio según Steve Jobs' />
+    <h4><a href='https://computerhoy.com/entretenimiento/dazn-podria-haber-descubierto-como-acabar-iptv-sencillo-mundo-1394249'>DAZN podría haber descubierto cómo acabar con las IPTV, y es lo más sencillo del mundo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/dazn-podria-haber-descubierto-como-acabar-iptv-sencillo-mundo-1394249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dazn-podria-haber-descubierto-como-acabar-iptv-sencillo-mundo-3662568.jpg?tf=1200x' alt='DAZN podría haber descubierto cómo acabar con las IPTV, y es lo más sencillo del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/metodo-deep-work-triunfar-bill-gates-elon-musk-1340910'>He probado el método Deep Work que Bill Gates o Elon Musk quieren que uses para triunfar y funciona</a></h4>
-    <a href='https://computerhoy.com/life/metodo-deep-work-triunfar-bill-gates-elon-musk-1340910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-bill-gates-2994776.jpg?tf=1200x' alt='He probado el método Deep Work que Bill Gates o Elon Musk quieren que uses para triunfar y funciona' />
+    <h4><a href='https://computerhoy.com/ciencia/olvidate-aire-acondicionado-invento-dos-universitarios-baja-9-grados-temperatura-casa-coche-1393692'>Olvídate del aire acondicionado: este invento de dos universitarios baja 9 grados la temperatura de tu casa o coche</a></h4>
+    <a href='https://computerhoy.com/ciencia/olvidate-aire-acondicionado-invento-dos-universitarios-baja-9-grados-temperatura-casa-coche-1393692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/olvidate-aire-acondicionado-invento-dos-universitarios-baja-9-grados-temperatura-casa-coche-3643072.jpg?tf=1200x' alt='Olvídate del aire acondicionado: este invento de dos universitarios baja 9 grados la temperatura de tu casa o coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-2-patente-revela-nueva-generacion-vista-gran-novedad-1394235'>¿Samsung Galaxy Ring 2? Esta patente revela nueva generación a la vista con una gran novedad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-2-patente-revela-nueva-generacion-vista-gran-novedad-1394235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-ring-3651234.jpg?tf=1200x' alt='¿Samsung Galaxy Ring 2? Esta patente revela nueva generación a la vista con una gran novedad' />
+    <h4><a href='https://computerhoy.com/tutoriales/saber-router-wifi-te-dando-velocidad-realmente-necesitas-1228556'>Cómo saber si tu router WiFi te está dando la velocidad que realmente necesitas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/saber-router-wifi-te-dando-velocidad-realmente-necesitas-1228556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/router-wifi-2839071.jpg?tf=1200x' alt='Cómo saber si tu router WiFi te está dando la velocidad que realmente necesitas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tienes-app-chatgpt-mac-actualiza-inmediato-no-quieres-problemas-1394043'>¿Tienes la app de ChatGPT en tu Mac? Actualiza de inmediato si no quieres problemas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tienes-app-chatgpt-mac-actualiza-inmediato-no-quieres-problemas-1394043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-mac-3655447.jpg?tf=1200x' alt='¿Tienes la app de ChatGPT en tu Mac? Actualiza de inmediato si no quieres problemas' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-como-funciona-puedes-hacer-tamagotchi-hackers-1394271'>Flipper Zero: qué es, cómo funciona y qué puedes hacer con el "Tamagotchi de los hackers"</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-como-funciona-puedes-hacer-tamagotchi-hackers-1394271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/flipper-zero-3409406.jpg?tf=1200x' alt='Flipper Zero: qué es, cómo funciona y qué puedes hacer con el "Tamagotchi de los hackers"' />
     </a>
 </div>
 
