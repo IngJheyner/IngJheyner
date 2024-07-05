@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estas-tiendas-estan-toda-espana-venden-productos-electronicos-1-euro-todos-jueves-1394306'>Estas tiendas están por toda España y venden productos electrónicos por 1 euro todos los jueves</a></h4>
+    <a href='https://computerhoy.com/life/estas-tiendas-estan-toda-espana-venden-productos-electronicos-1-euro-todos-jueves-1394306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/donde-crazy-day-factory-tiendas-comprar-devoluciones-amazon-precio-saldo-3219956.jpg?tf=1200x' alt='Estas tiendas están por toda España y venden productos electrónicos por 1 euro todos los jueves' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/stop-no-actualices-android-auto-necesitas-funcion-1394074'>¡STOP! No actualices Android Auto si necesitas esta función</a></h4>
+    <a href='https://computerhoy.com/apps/stop-no-actualices-android-auto-necesitas-funcion-1394074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-actualizacion-3655885.jpg?tf=1200x' alt='¡STOP! No actualices Android Auto si necesitas esta función' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/cache-dns-windows-11-como-eliminarla-mejorar-conexion-instante-1392944'>Qué es la caché DNS de Windows 11 y cómo eliminarla para mejorar tu conexión al instante</a></h4>
+    <a href='https://computerhoy.com/tutoriales/cache-dns-windows-11-como-eliminarla-mejorar-conexion-instante-1392944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cache-dns-windows-11-como-eliminarla-mejorar-conexion-instante-3603930.jpg?tf=1200x' alt='Qué es la caché DNS de Windows 11 y cómo eliminarla para mejorar tu conexión al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/edr-caja-negra-dgt-ya-obligatoria-todos-coches-espana-1394200'>EDR, la "caja negra" de la DGT que ya es obligatoria para todos los coches en España</a></h4>
     <a href='https://computerhoy.com/motor/edr-caja-negra-dgt-ya-obligatoria-todos-coches-espana-1394200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/edr-caja-negra-dgt-ya-obligatoria-todos-coches-espana-3658509.jpg?tf=1200x' alt='EDR, la "caja negra" de la DGT que ya es obligatoria para todos los coches en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/nueva-actualizacion-confirma-fin-windows-10-puede-haber-comenzado-antes-tiempo-1394267'>Una nueva actualización confirma que el fin de Windows 10 puede haber comenzado antes de tiempo</a></h4>
-    <a href='https://computerhoy.com/windows/nueva-actualizacion-confirma-fin-windows-10-puede-haber-comenzado-antes-tiempo-1394267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/caracteristica-windows-11-infinitamente-superior-windows-10-sabias-3653202.jpg?tf=1200x' alt='Una nueva actualización confirma que el fin de Windows 10 puede haber comenzado antes de tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-como-funciona-sirve-pequeno-ordenador-1394282'>Qué es Raspberry Pi, cómo funciona y para qué sirve este pequeño ordenador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-como-funciona-sirve-pequeno-ordenador-1394282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/raspberry-mejora-conectividad-remoto-nueva-funcion-raspberry-pi-connect-3309459.jpg?tf=1200x' alt='Qué es Raspberry Pi, cómo funciona y para qué sirve este pequeño ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-1393823'>Varapalo histórico al coche eléctrico: Mercedes vuelve a los motores de combustión</a></h4>
-    <a href='https://computerhoy.com/motor/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-1393823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-3648603.jpg?tf=1200x' alt='Varapalo histórico al coche eléctrico: Mercedes vuelve a los motores de combustión' />
     </a>
 </div>
 
