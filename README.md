@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-1394171'>Obedece a la policía y utiliza este truco para evitar que tu móvil se conecte automáticamente a dispositivos por Bluetooth</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-1394171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-3658654.jpg?tf=1200x' alt='Obedece a la policía y utiliza este truco para evitar que tu móvil se conecte automáticamente a dispositivos por Bluetooth' />
+    <h4><a href='https://computerhoy.com/motor/7-julio-comienza-pesadilla-gusta-pisar-acelerador-1394384'>El 7 de julio comienza la pesadilla de los que les gusta pisar el acelerador</a></h4>
+    <a href='https://computerhoy.com/motor/7-julio-comienza-pesadilla-gusta-pisar-acelerador-1394384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/7-julio-comienza-pesadilla-gusta-pisar-acelerador-3665351.jpg?tf=1200x' alt='El 7 de julio comienza la pesadilla de los que les gusta pisar el acelerador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-ha-hecho-amazon-prime-video-outer-range-grandes-series-quedaron-final-condiciones-1394141'>No solo lo ha hecho Amazon Prime Video con Outer Range: grandes series que se quedaron sin un final en condiciones</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/no-solo-ha-hecho-amazon-prime-video-outer-range-grandes-series-quedaron-final-condiciones-1394141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/outer-range-2666559.jpg?tf=1200x' alt='No solo lo ha hecho Amazon Prime Video con Outer Range: grandes series que se quedaron sin un final en condiciones' />
+    <h4><a href='https://computerhoy.com/life/ciudad-espanola-coloca-como-sexta-ruidosa-todo-mundo-1394382'>Esta ciudad española se coloca como la sexta más ruidosa de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/life/ciudad-espanola-coloca-como-sexta-ruidosa-todo-mundo-1394382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ruido-ciudad-3665891.jpg?tf=1200x' alt='Esta ciudad española se coloca como la sexta más ruidosa de todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/shadowz-netflix-peliculas-miedo-terror-llega-espana-precio-peliculas-disponibles-1394203'>Shadowz, el Netflix de las películas de miedo y terror llega a España: precio y películas disponibles</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/shadowz-netflix-peliculas-miedo-terror-llega-espana-precio-peliculas-disponibles-1394203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/shadowz-3658653.jpg?tf=1200x' alt='Shadowz, el Netflix de las películas de miedo y terror llega a España: precio y películas disponibles' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-puedo-descargar-libros-mi-amazon-kindle-no-estas-solo-problema-va-largo-1394381'>No puedo descargar libros en mi Amazon Kindle: no estás solo y el problema va para largo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-puedo-descargar-libros-mi-amazon-kindle-no-estas-solo-problema-va-largo-1394381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/kindle-3665755.jpg?tf=1200x' alt='No puedo descargar libros en mi Amazon Kindle: no estás solo y el problema va para largo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gran-hermano-llega-teletrabajo-ia-pone-servicio-empresas-detectar-falsa-actividad-1394201'>El Gran Hermano llega al teletrabajo, la IA se pone al servicio de las empresas para detectar falsa actividad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gran-hermano-llega-teletrabajo-ia-pone-servicio-empresas-detectar-falsa-actividad-1394201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teletrabajo-3658649.jpg?tf=1200x' alt='El Gran Hermano llega al teletrabajo, la IA se pone al servicio de las empresas para detectar falsa actividad' />
+    <h4><a href='https://computerhoy.com/redes/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-1394375'>Todo el mundo lo tiene en casa y es el enemigo de tu WiFi: aléjalo todo lo que puedas</a></h4>
+    <a href='https://computerhoy.com/redes/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-1394375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-3665618.jpg?tf=1200x' alt='Todo el mundo lo tiene en casa y es el enemigo de tu WiFi: aléjalo todo lo que puedas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cada-episodio-tiene-giro-nuevo-loco-redes-estado-shock-nueva-serie-netflix-1394125'>“Cada episodio tiene un giro nuevo más loco”: las redes en estado de shock por la nueva serie de Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cada-episodio-tiene-giro-nuevo-loco-redes-estado-shock-nueva-serie-netflix-1394125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hombre-1000-hijos-3657344.jpg?tf=1200x' alt='“Cada episodio tiene un giro nuevo más loco”: las redes en estado de shock por la nueva serie de Netflix' />
+    <h4><a href='https://computerhoy.com/apps/velocimetro-google-maps-comienza-llegar-iphone-1394379'>El velocímetro de Google Maps comienza a llegar a los iPhone</a></h4>
+    <a href='https://computerhoy.com/apps/velocimetro-google-maps-comienza-llegar-iphone-1394379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/velocimetro-google-maps-3665619.jpg?tf=1200x' alt='El velocímetro de Google Maps comienza a llegar a los iPhone' />
     </a>
 </div>
 
