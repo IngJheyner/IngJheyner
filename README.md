@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/steve-jobs-apple-pelicula-porque-odiaba-profundamente-1259456'>Steve Jobs odiaba tanto esta película que prohibió que aparecieran productos de Apple en ella</a></h4>
+    <a href='https://computerhoy.com/apple/steve-jobs-apple-pelicula-porque-odiaba-profundamente-1259456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg?tf=1200x' alt='Steve Jobs odiaba tanto esta película que prohibió que aparecieran productos de Apple en ella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380'>Inventan un filtro que añade visión nocturna a cualquier gafa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inventan-filtro-anade-vision-nocturna-cualquier-gafa-3630957.jpg?tf=1200x' alt='Inventan un filtro que añade visión nocturna a cualquier gafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/7-julio-comienza-pesadilla-gusta-pisar-acelerador-1394384'>El 7 de julio comienza la pesadilla de los que les gusta pisar el acelerador</a></h4>
     <a href='https://computerhoy.com/motor/7-julio-comienza-pesadilla-gusta-pisar-acelerador-1394384' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/7-julio-comienza-pesadilla-gusta-pisar-acelerador-3665351.jpg?tf=1200x' alt='El 7 de julio comienza la pesadilla de los que les gusta pisar el acelerador' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-puedo-descargar-libros-mi-amazon-kindle-no-estas-solo-problema-va-largo-1394381'>No puedo descargar libros en mi Amazon Kindle: no estás solo y el problema va para largo</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-puedo-descargar-libros-mi-amazon-kindle-no-estas-solo-problema-va-largo-1394381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/kindle-3665755.jpg?tf=1200x' alt='No puedo descargar libros en mi Amazon Kindle: no estás solo y el problema va para largo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-1394375'>Todo el mundo lo tiene en casa y es el enemigo de tu WiFi: aléjalo todo lo que puedas</a></h4>
-    <a href='https://computerhoy.com/redes/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-1394375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-3665618.jpg?tf=1200x' alt='Todo el mundo lo tiene en casa y es el enemigo de tu WiFi: aléjalo todo lo que puedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/velocimetro-google-maps-comienza-llegar-iphone-1394379'>El velocímetro de Google Maps comienza a llegar a los iPhone</a></h4>
-    <a href='https://computerhoy.com/apps/velocimetro-google-maps-comienza-llegar-iphone-1394379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/velocimetro-google-maps-3665619.jpg?tf=1200x' alt='El velocímetro de Google Maps comienza a llegar a los iPhone' />
     </a>
 </div>
 
