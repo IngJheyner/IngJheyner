@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/movil-como-repetidor-wifi-mejorar-senal-tutorial-1393129'>Cómo utilizar tu móvil como repetidor WiFi para mejorar la señal en toda la casa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/movil-como-repetidor-wifi-mejorar-senal-tutorial-1393129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-utilizar-movil-como-repetidor-wifi-mejorar-senal-toda-casa-3611443.jpg?tf=1200x' alt='Cómo utilizar tu móvil como repetidor WiFi para mejorar la señal en toda la casa' />
+    <h4><a href='https://computerhoy.com/pc/16gb-ram-ssd-portatil-hp-tiene-todo-arrasar-muy-barato-1394288'>16GB de RAM y SSD: este portátil HP lo tiene todo para arrasar, y es muy barato</a></h4>
+    <a href='https://computerhoy.com/pc/16gb-ram-ssd-portatil-hp-tiene-todo-arrasar-muy-barato-1394288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hp-15s-fq5083ns-3662863.jpg?tf=1200x' alt='16GB de RAM y SSD: este portátil HP lo tiene todo para arrasar, y es muy barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-tiendas-estan-toda-espana-venden-productos-electronicos-1-euro-todos-jueves-1394306'>Estas tiendas están por toda España y venden productos electrónicos por 1 euro todos los jueves</a></h4>
-    <a href='https://computerhoy.com/life/estas-tiendas-estan-toda-espana-venden-productos-electronicos-1-euro-todos-jueves-1394306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/donde-crazy-day-factory-tiendas-comprar-devoluciones-amazon-precio-saldo-3219956.jpg?tf=1200x' alt='Estas tiendas están por toda España y venden productos electrónicos por 1 euro todos los jueves' />
+    <h4><a href='https://computerhoy.com/internet/importante-papel-operadores-multas-ver-futbol-iptv-lealtad-total-laliga-javier-tebas-1393888'>El importante papel de los operadores en las multas por ver el fútbol por IPTV y su lealtad total a LaLiga de Javier Tebas</a></h4>
+    <a href='https://computerhoy.com/internet/importante-papel-operadores-multas-ver-futbol-iptv-lealtad-total-laliga-javier-tebas-1393888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/espana-podium-iptv-no-estar-orgulloso-3506847.jpg?tf=1200x' alt='El importante papel de los operadores en las multas por ver el fútbol por IPTV y su lealtad total a LaLiga de Javier Tebas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/stop-no-actualices-android-auto-necesitas-funcion-1394074'>¡STOP! No actualices Android Auto si necesitas esta función</a></h4>
-    <a href='https://computerhoy.com/apps/stop-no-actualices-android-auto-necesitas-funcion-1394074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-actualizacion-3655885.jpg?tf=1200x' alt='¡STOP! No actualices Android Auto si necesitas esta función' />
+    <h4><a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307'>Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato</a></h4>
+    <a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamadas-fantasma-spam-3662864.jpg?tf=1200x' alt='Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/cache-dns-windows-11-como-eliminarla-mejorar-conexion-instante-1392944'>Qué es la caché DNS de Windows 11 y cómo eliminarla para mejorar tu conexión al instante</a></h4>
-    <a href='https://computerhoy.com/tutoriales/cache-dns-windows-11-como-eliminarla-mejorar-conexion-instante-1392944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cache-dns-windows-11-como-eliminarla-mejorar-conexion-instante-3603930.jpg?tf=1200x' alt='Qué es la caché DNS de Windows 11 y cómo eliminarla para mejorar tu conexión al instante' />
+    <h4><a href='https://computerhoy.com/tv/netflix-ha-empezado-eliminar-planes-precios-populares-llegara-espana-1393861'>Netflix ha empezado a eliminar uno de sus planes de precios más populares: ¿llegará a España?</a></h4>
+    <a href='https://computerhoy.com/tv/netflix-ha-empezado-eliminar-planes-precios-populares-llegara-espana-1393861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/netflix-tablet-3133736.jpg?tf=1200x' alt='Netflix ha empezado a eliminar uno de sus planes de precios más populares: ¿llegará a España?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/edr-caja-negra-dgt-ya-obligatoria-todos-coches-espana-1394200'>EDR, la "caja negra" de la DGT que ya es obligatoria para todos los coches en España</a></h4>
-    <a href='https://computerhoy.com/motor/edr-caja-negra-dgt-ya-obligatoria-todos-coches-espana-1394200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/edr-caja-negra-dgt-ya-obligatoria-todos-coches-espana-3658509.jpg?tf=1200x' alt='EDR, la "caja negra" de la DGT que ya es obligatoria para todos los coches en España' />
+    <h4><a href='https://computerhoy.com/moviles/whatsapp-no-funciona-comprueba-movil-encuentra-lista-1394097'>¿WhatsApp no funciona? Comprueba si tu móvil se encuentra en esta lista</a></h4>
+    <a href='https://computerhoy.com/moviles/whatsapp-no-funciona-comprueba-movil-encuentra-lista-1394097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-no-funciona-comprueba-movil-encuentra-lista-3656173.jpg?tf=1200x' alt='¿WhatsApp no funciona? Comprueba si tu móvil se encuentra en esta lista' />
     </a>
 </div>
 
