@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/como-apuntarse-paro-2021-sellar-tarjeta-paro-online-sepe-804545'>Cómo apuntarse al paro en 2024 y sellar la tarjeta del paro online en el SEPE</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/como-apuntarse-paro-2021-sellar-tarjeta-paro-online-sepe-804545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-apuntarse-paro-2024-sellar-tarjeta-paro-online-sepe-3655176.jpg?tf=1200x' alt='Cómo apuntarse al paro en 2024 y sellar la tarjeta del paro online en el SEPE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-fin-actualiza-kernel-linux-wsl-2-anos-medio-1394129'>Microsoft por fin actualiza el kernel de Linux en WSL tras 2 años y medio</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-fin-actualiza-kernel-linux-wsl-2-anos-medio-1394129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laptop-windows-11-linux-3649872.jpg?tf=1200x' alt='Microsoft por fin actualiza el kernel de Linux en WSL tras 2 años y medio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-mejora-eficiencia-rendimiento-gracias-ultimas-actualizaciones-linux-1394250'>Raspberry Pi mejora eficiencia y rendimiento gracias a las últimas actualizaciones de Linux</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-mejora-eficiencia-rendimiento-gracias-ultimas-actualizaciones-linux-1394250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/raspberry-pi-3602123.jpg?tf=1200x' alt='Raspberry Pi mejora eficiencia y rendimiento gracias a las últimas actualizaciones de Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/son-funciones-permanentes-waze-como-funcionan-1394122'>Qué son las funciones permanentes de Waze y cómo funcionan</a></h4>
+    <a href='https://computerhoy.com/motor/son-funciones-permanentes-waze-como-funcionan-1394122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/son-funciones-permanentes-waze-como-funcionan-3656615.jpg?tf=1200x' alt='Qué son las funciones permanentes de Waze y cómo funcionan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/16gb-ram-ssd-portatil-hp-tiene-todo-arrasar-muy-barato-1394288'>16GB de RAM y SSD: este portátil HP lo tiene todo para arrasar, y es muy barato</a></h4>
     <a href='https://computerhoy.com/pc/16gb-ram-ssd-portatil-hp-tiene-todo-arrasar-muy-barato-1394288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hp-15s-fq5083ns-3662863.jpg?tf=1200x' alt='16GB de RAM y SSD: este portátil HP lo tiene todo para arrasar, y es muy barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/importante-papel-operadores-multas-ver-futbol-iptv-lealtad-total-laliga-javier-tebas-1393888'>El importante papel de los operadores en las multas por ver el fútbol por IPTV y su lealtad total a LaLiga de Javier Tebas</a></h4>
-    <a href='https://computerhoy.com/internet/importante-papel-operadores-multas-ver-futbol-iptv-lealtad-total-laliga-javier-tebas-1393888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/espana-podium-iptv-no-estar-orgulloso-3506847.jpg?tf=1200x' alt='El importante papel de los operadores en las multas por ver el fútbol por IPTV y su lealtad total a LaLiga de Javier Tebas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307'>Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato</a></h4>
-    <a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamadas-fantasma-spam-3662864.jpg?tf=1200x' alt='Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/netflix-ha-empezado-eliminar-planes-precios-populares-llegara-espana-1393861'>Netflix ha empezado a eliminar uno de sus planes de precios más populares: ¿llegará a España?</a></h4>
-    <a href='https://computerhoy.com/tv/netflix-ha-empezado-eliminar-planes-precios-populares-llegara-espana-1393861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/netflix-tablet-3133736.jpg?tf=1200x' alt='Netflix ha empezado a eliminar uno de sus planes de precios más populares: ¿llegará a España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/whatsapp-no-funciona-comprueba-movil-encuentra-lista-1394097'>¿WhatsApp no funciona? Comprueba si tu móvil se encuentra en esta lista</a></h4>
-    <a href='https://computerhoy.com/moviles/whatsapp-no-funciona-comprueba-movil-encuentra-lista-1394097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-no-funciona-comprueba-movil-encuentra-lista-3656173.jpg?tf=1200x' alt='¿WhatsApp no funciona? Comprueba si tu móvil se encuentra en esta lista' />
     </a>
 </div>
 
