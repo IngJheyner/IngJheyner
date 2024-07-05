@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia-dji-bicicletas-electricas-1393799'>A punto de ser prohibida en Estados Unidos, DJI cambia los drones por las bicis eléctricas</a></h4>
-    <a href='https://computerhoy.com/tecnologia-dji-bicicletas-electricas-1393799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/punto-ser-prohibida-estados-unidos-dji-cambia-drones-bicis-electricas-3647237.jpg?tf=1200x' alt='A punto de ser prohibida en Estados Unidos, DJI cambia los drones por las bicis eléctricas' />
+    <h4><a href='https://computerhoy.com/moviles/martin-cooper-inventor-telefono-movil-como-sera-smartphone-futuro-1208936'>Martin Cooper, el inventor del teléfono móvil, tiene muy claro cómo será el smartphone del futuro</a></h4>
+    <a href='https://computerhoy.com/moviles/martin-cooper-inventor-telefono-movil-como-sera-smartphone-futuro-1208936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/martin-cooper-2972364.jpg?tf=1200x' alt='Martin Cooper, el inventor del teléfono móvil, tiene muy claro cómo será el smartphone del futuro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/steve-ballmer-ex-ceo-microsoft-mas-rico-bill-gates-1394221'>Steve Ballmer, ex-CEO de Microsoft, ya es más rico que Bill Gates</a></h4>
-    <a href='https://computerhoy.com/tecnologia/steve-ballmer-ex-ceo-microsoft-mas-rico-bill-gates-1394221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bill-gates-ballmer-2468795.jpg?tf=1200x' alt='Steve Ballmer, ex-CEO de Microsoft, ya es más rico que Bill Gates' />
+    <h4><a href='https://computerhoy.com/ciencia/mayor-problema-matematicas-cerca-resolverse-despues-160-anos-formulo-1393908'>El mayor problema de las matemáticas está más cerca de resolverse después de 160 años desde que se formuló</a></h4>
+    <a href='https://computerhoy.com/ciencia/mayor-problema-matematicas-cerca-resolverse-despues-160-anos-formulo-1393908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mayor-problema-matematicas-cerca-resolverse-despues-160-anos-formulo-3649711.jpg?tf=1200x' alt='El mayor problema de las matemáticas está más cerca de resolverse después de 160 años desde que se formuló' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-fondos-pantalla-gratis-inteligencia-artificial-movil-pc-1393769'>Cómo crear fondos de pantalla gratis con inteligencia artificial para tu móvil o PC</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-fondos-pantalla-gratis-inteligencia-artificial-movil-pc-1393769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fondos-pantalla-ia-3649070.jpg?tf=1200x' alt='Cómo crear fondos de pantalla gratis con inteligencia artificial para tu móvil o PC' />
+    <h4><a href='https://computerhoy.com/windows/puede-volver-windows-10-despues-actualizar-no-te-gusta-windows-11-1392693'>¿Se puede volver a Windows 10 después de actualizar si no te gusta Windows 11?</a></h4>
+    <a href='https://computerhoy.com/windows/puede-volver-windows-10-despues-actualizar-no-te-gusta-windows-11-1392693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/puede-volver-windows-10-despues-actualizar-no-te-gusta-windows-11-3593889.jpg?tf=1200x' alt='¿Se puede volver a Windows 10 después de actualizar si no te gusta Windows 11?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/increible-robot-humanoide-ya-trabaja-fabricas-realizara-otros-trabajos-futuro-1394120'>Así es el increíble robot humanoide que ya trabaja en fábricas, y que realizará otros trabajos en el futuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/increible-robot-humanoide-ya-trabaja-fabricas-realizara-otros-trabajos-futuro-1394120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robot-humanoide-3656905.jpg?tf=1200x' alt='Así es el increíble robot humanoide que ya trabaja en fábricas, y que realizará otros trabajos en el futuro' />
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-openai-ya-piensan-gpt-5-chatgpt-ambicioso-estas-seran-novedades-1393856'>Sam Altman y OpenAI ya piensan en GPT-5, el ChatGPT más ambicioso: estas serán sus novedades</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-openai-ya-piensan-gpt-5-chatgpt-ambicioso-estas-seran-novedades-1393856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-5-3650036.jpg?tf=1200x' alt='Sam Altman y OpenAI ya piensan en GPT-5, el ChatGPT más ambicioso: estas serán sus novedades' />
     </a>
 </div>
 
