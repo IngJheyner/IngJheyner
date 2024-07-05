@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/necesita-poder-usar-bizum-1392799'>¿Qué se necesita para poder usar Bizum?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/necesita-poder-usar-bizum-1392799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usar-bizum-3599366.jpg?tf=1200x' alt='¿Qué se necesita para poder usar Bizum?' />
+    <h4><a href='https://computerhoy.com/life/metodo-deep-work-triunfar-bill-gates-elon-musk-1340910'>He probado el método Deep Work que Bill Gates o Elon Musk quieren que uses para triunfar y funciona</a></h4>
+    <a href='https://computerhoy.com/life/metodo-deep-work-triunfar-bill-gates-elon-musk-1340910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-bill-gates-2994776.jpg?tf=1200x' alt='He probado el método Deep Work que Bill Gates o Elon Musk quieren que uses para triunfar y funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/wps-sirve-boton-tienen-algunos-routers-wifi-1388292'>¿Qué es WPS y para qué sirve este botón que tienen algunos routers WiFi?</a></h4>
-    <a href='https://computerhoy.com/internet/wps-sirve-boton-tienen-algunos-routers-wifi-1388292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1719576301702-3614734.jpg?tf=1200x' alt='¿Qué es WPS y para qué sirve este botón que tienen algunos routers WiFi?' />
+    <h4><a href='https://computerhoy.com/como-funciona-microsoft-excel-app-hojas-calculo-todos-conocen-pero-pocos-entienden-bien-1387693'>Cómo funciona Microsoft Excel, la app de hojas de cálculo que todos conocen pero pocos dominan</a></h4>
+    <a href='https://computerhoy.com/como-funciona-microsoft-excel-app-hojas-calculo-todos-conocen-pero-pocos-entienden-bien-1387693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-excel-3361991.jpg?tf=1200x' alt='Cómo funciona Microsoft Excel, la app de hojas de cálculo que todos conocen pero pocos dominan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-1394227'>Descubren el secreto del Mecanismo de Anticitera, gracias a los agujeros negros</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-1394227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-3661419.jpg?tf=1200x' alt='Descubren el secreto del Mecanismo de Anticitera, gracias a los agujeros negros' />
+    <h4><a href='https://computerhoy.com/alimentacion/errores-freidora-aire-consuma-horno-1207008'>Errores que hacen que tu freidora de aire consuma más que un horno</a></h4>
+    <a href='https://computerhoy.com/alimentacion/errores-freidora-aire-consuma-horno-1207008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg?tf=1200x' alt='Errores que hacen que tu freidora de aire consuma más que un horno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-matepad-115-s-pantalla-mate-pero-no-todo-mundo-1393641'>Lo que más me ha gustado de Huawei MatePad 11.5" S es su pantalla mate, pero no es para todo el mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-matepad-115-s-pantalla-mate-pero-no-todo-mundo-1393641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/huawei-matepad-115s-3634656.jpg?tf=1200x' alt='Lo que más me ha gustado de Huawei MatePad 11.5" S es su pantalla mate, pero no es para todo el mundo' />
+    <h4><a href='https://computerhoy.com/tecnologia/obsesion-punto-enfermar-moda-smartwatches-nos-yendo-manos-1392914'>Obsesión hasta el punto de enfermar: ¿La moda de los smartwatches se nos está yendo de las manos?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/obsesion-punto-enfermar-moda-smartwatches-nos-yendo-manos-1392914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mano-zombie-smartwatch-3601663.jpg?tf=1200x' alt='Obsesión hasta el punto de enfermar: ¿La moda de los smartwatches se nos está yendo de las manos?' />
     </a>
 </div>
 
