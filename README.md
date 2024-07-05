@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-come-memoria-movil-evitar-solo-hay-activar-ajuste-1394352'>¿WhatsApp se come la memoria del móvil? Para evitar solo hay que activar este ajuste</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-come-memoria-movil-evitar-solo-hay-activar-ajuste-1394352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-come-memoria-movil-evitar-solo-hay-activar-ajuste-3665055.jpg?tf=1200x' alt='¿WhatsApp se come la memoria del móvil? Para evitar solo hay que activar este ajuste' />
+    <h4><a href='https://computerhoy.com/entretenimiento/clasico-stephen-king-tiene-casi-50-anos-cuya-pelicula-sigue-resistiendo-podria-estrenarse-2024-1394256'>El clásico de Stephen King que tiene casi 50 años y cuya película se sigue resistiendo, podría estrenarse en 2024</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/clasico-stephen-king-tiene-casi-50-anos-cuya-pelicula-sigue-resistiendo-podria-estrenarse-2024-1394256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/juego-tronos-temporada-8-stephen-king-defiende-estos-episodios.jpg?tf=1200x' alt='El clásico de Stephen King que tiene casi 50 años y cuya película se sigue resistiendo, podría estrenarse en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/perdido-cajon-solucion-hacer-volar-wifi-1394164'>Está perdido en un cajón y es la solución para hacer volar tu WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/perdido-cajon-solucion-hacer-volar-wifi-1394164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/perdido-cajon-solucion-hacer-volar-wifi-3658080.jpg?tf=1200x' alt='Está perdido en un cajón y es la solución para hacer volar tu WiFi' />
+    <h4><a href='https://computerhoy.com/internet/cuando-internet-muerto-ya-no-teoria-conspiracion-42-trafico-creado-bots-ia-1394050'>Cuando Internet Muerto ya no es una teoría de la conspiración: el 42% del tráfico está creado por bots y la IA</a></h4>
+    <a href='https://computerhoy.com/internet/cuando-internet-muerto-ya-no-teoria-conspiracion-42-trafico-creado-bots-ia-1394050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/internet-muerto-3657485.jpg?tf=1200x' alt='Cuando Internet Muerto ya no es una teoría de la conspiración: el 42% del tráfico está creado por bots y la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-pc-sonidos-sistema-primeras-versiones-windows-1393796'>Cómo instalar en tu PC los sonidos del sistema de las primeras versiones de Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-pc-sonidos-sistema-primeras-versiones-windows-1393796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-instalar-pc-viejos-sonidos-primeras-versiones-windows-3647236.jpg?tf=1200x' alt='Cómo instalar en tu PC los sonidos del sistema de las primeras versiones de Windows' />
+    <h4><a href='https://computerhoy.com/tecnologia/aplicaciones-imprescindibles-debes-instalar-viajas-crucero-1393816'>Aplicaciones imprescindibles que debes instalar si viajas en un crucero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aplicaciones-imprescindibles-debes-instalar-viajas-crucero-1393816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apps-crucero-3649707.jpg?tf=1200x' alt='Aplicaciones imprescindibles que debes instalar si viajas en un crucero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-habitual-airbnb-verano-consiste-como-evitarla-1394290'>La estafa más habitual de Airbnb este verano: en qué consiste y cómo evitarla</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafa-habitual-airbnb-verano-consiste-como-evitarla-1394290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/airbnb-3663645.jpg?tf=1200x' alt='La estafa más habitual de Airbnb este verano: en qué consiste y cómo evitarla' />
+    <h4><a href='https://computerhoy.com/tv/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-1394219'>Por qué tu Smart TV de Samsung se enciende de forma aleatoria (y cómo solucionarlo)</a></h4>
+    <a href='https://computerhoy.com/tv/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-1394219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-3660867.jpg?tf=1200x' alt='Por qué tu Smart TV de Samsung se enciende de forma aleatoria (y cómo solucionarlo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/limpia-aspira-vacia-solo-robot-potentisimo-amazon-rebaja-120-euros-1394212'>Limpia, aspira y se vacía solo: este robot es potentísimo y Amazon lo rebaja en 120 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/limpia-aspira-vacia-solo-robot-potentisimo-amazon-rebaja-120-euros-1394212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dreamebot-l10s-ultra-3247999.jpg?tf=1200x' alt='Limpia, aspira y se vacía solo: este robot es potentísimo y Amazon lo rebaja en 120 euros' />
+    <h4><a href='https://computerhoy.com/android/google-maps-cierra-android-auto-pasa-como-solucionarlo-1393957'>Google Maps se cierra en Android Auto: por qué pasa y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/android/google-maps-cierra-android-auto-pasa-como-solucionarlo-1393957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-cierra-android-auto-pasa-como-solucionarlo-3651526.jpg?tf=1200x' alt='Google Maps se cierra en Android Auto: por qué pasa y cómo solucionarlo' />
     </a>
 </div>
 
