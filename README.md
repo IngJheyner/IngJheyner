@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-mi-pc-windows-10-cumple-requisitos-hardware-windows-11-1392710'>¿Cómo sé si mi PC con Windows 10 cumple con los requisitos de hardware para Windows 11?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-mi-pc-windows-10-cumple-requisitos-hardware-windows-11-1392710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-mi-pc-windows-10-cumple-requisitos-hardware-windows-11-3594965.jpg?tf=1200x' alt='¿Cómo sé si mi PC con Windows 10 cumple con los requisitos de hardware para Windows 11?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-1394305'>Los drones son el arma de guerra del futuro pero tienen un problema: se pueden derribar con un arma de hace 300.000 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-1394305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-3663186.jpg?tf=1200x' alt='Los drones son el arma de guerra del futuro pero tienen un problema: se pueden derribar con un arma de hace 300.000 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-bizum-entidad-bancaria-1392800'>¿Cómo cambiar Bizum de entidad bancaria? </a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-bizum-entidad-bancaria-1392800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bizum-bancos-3599209.jpg?tf=1200x' alt='¿Cómo cambiar Bizum de entidad bancaria? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/matematico-revela-no-tiene-sentido-ir-140-km-h-autopista-coche-1393238'>Matemático revela por qué no tiene sentido ir a 140 km/h en una autopista con el coche</a></h4>
+    <a href='https://computerhoy.com/ciencia/matematico-revela-no-tiene-sentido-ir-140-km-h-autopista-coche-1393238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/matematico-revela-no-tiene-sentido-ir-140km-h-autopista-coche-3614771.jpg?tf=1200x' alt='Matemático revela por qué no tiene sentido ir a 140 km/h en una autopista con el coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/pasa-borras-carpeta-system32-windows-1394006'>¿Qué pasa si borras la carpeta System32 en Windows?</a></h4>
     <a href='https://computerhoy.com/tutoriales/pasa-borras-carpeta-system32-windows-1394006' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/carpeta-system23-windows-3663488.jpg?tf=1200x' alt='¿Qué pasa si borras la carpeta System32 en Windows?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/logran-gpu-utilicen-memoria-adjunta-pcie-capacidad-ampliada-gracias-nueva-tecnologia-1394246'>Logran que las GPU utilicen memoria adjunta a PCIe para una capacidad ampliada gracias a una nueva tecnología</a></h4>
-    <a href='https://computerhoy.com/tecnologia/logran-gpu-utilicen-memoria-adjunta-pcie-capacidad-ampliada-gracias-nueva-tecnologia-1394246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/gpu-1867157.jpg?tf=1200x' alt='Logran que las GPU utilicen memoria adjunta a PCIe para una capacidad ampliada gracias a una nueva tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-1393973'>Un experto en seguridad asegura que hay un 99,9% de posibilidades de que la IA suponga el fin de la humanidad, ¿amenaza real o ganas de notoriedad?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-1393973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-3651386.jpg?tf=1200x' alt='Un experto en seguridad asegura que hay un 99,9% de posibilidades de que la IA suponga el fin de la humanidad, ¿amenaza real o ganas de notoriedad?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/tinder-obliga-pareja-conocerse-persona-pasar-3-anos-chateando-app-1394283'>Tinder obliga a un pareja a conocerse en persona tras pasar 3 años chateando por la app</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/tinder-obliga-pareja-conocerse-persona-pasar-3-anos-chateando-app-1394283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pareja-tinder-3663503.jpg?tf=1200x' alt='Tinder obliga a un pareja a conocerse en persona tras pasar 3 años chateando por la app' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/modders-crean-grafica-bestial-deja-panales-rtx-4090-1394154'>Unos modders crean una gráfica bestial que deja en pañales a la RTX 4090</a></h4>
-    <a href='https://computerhoy.com/tecnologia/modders-crean-grafica-bestial-deja-panales-rtx-4090-1394154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gpu-teclab-3656886.jpg?tf=1200x' alt='Unos modders crean una gráfica bestial que deja en pañales a la RTX 4090' />
     </a>
 </div>
 
