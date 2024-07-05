@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mi-pc-windows-10-cumple-requisitos-hardware-windows-11-1392710'>¿Cómo sé si mi PC con Windows 10 cumple con los requisitos de hardware para Windows 11?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mi-pc-windows-10-cumple-requisitos-hardware-windows-11-1392710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-mi-pc-windows-10-cumple-requisitos-hardware-windows-11-3594965.jpg?tf=1200x' alt='¿Cómo sé si mi PC con Windows 10 cumple con los requisitos de hardware para Windows 11?' />
+    <h4><a href='https://computerhoy.com/tecnologia/qpu-sirve-futuro-computacion-cuantica-1393794'>Qué es la QPU, para qué sirve y por qué es el futuro de la computación cuántica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/qpu-sirve-futuro-computacion-cuantica-1393794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/qpu-sirve-futuro-computacion-cuantica-3646830.jpg?tf=1200x' alt='Qué es la QPU, para qué sirve y por qué es el futuro de la computación cuántica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-1394305'>Los drones son el arma de guerra del futuro pero tienen un problema: se pueden derribar con un arma de hace 300.000 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-1394305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-3663186.jpg?tf=1200x' alt='Los drones son el arma de guerra del futuro pero tienen un problema: se pueden derribar con un arma de hace 300.000 años' />
+    <h4><a href='https://computerhoy.com/apple/increible-pero-cierto-steve-jobs-predijo-ia-apple-hace-40-anos-1394321'>Increíble pero cierto: Steve Jobs predijo la IA de Apple hace 40 años</a></h4>
+    <a href='https://computerhoy.com/apple/increible-pero-cierto-steve-jobs-predijo-ia-apple-hace-40-anos-1394321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/steve-jobs-ia-3663643.jpg?tf=1200x' alt='Increíble pero cierto: Steve Jobs predijo la IA de Apple hace 40 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-bizum-entidad-bancaria-1392800'>¿Cómo cambiar Bizum de entidad bancaria? </a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-bizum-entidad-bancaria-1392800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bizum-bancos-3599209.jpg?tf=1200x' alt='¿Cómo cambiar Bizum de entidad bancaria? ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-windows-11-linux-arranque-dual-paso-paso-1393916'>Cómo instalar Windows 11 y Linux con arranque dual paso a paso</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-windows-11-linux-arranque-dual-paso-paso-1393916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laptop-windows-11-linux-3649872.jpg?tf=1200x' alt='Cómo instalar Windows 11 y Linux con arranque dual paso a paso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/matematico-revela-no-tiene-sentido-ir-140-km-h-autopista-coche-1393238'>Matemático revela por qué no tiene sentido ir a 140 km/h en una autopista con el coche</a></h4>
-    <a href='https://computerhoy.com/ciencia/matematico-revela-no-tiene-sentido-ir-140-km-h-autopista-coche-1393238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/matematico-revela-no-tiene-sentido-ir-140km-h-autopista-coche-3614771.jpg?tf=1200x' alt='Matemático revela por qué no tiene sentido ir a 140 km/h en una autopista con el coche' />
+    <h4><a href='https://computerhoy.com/pc/no-compres-pc-snapdragon-x-elite-vas-jugar-videojuegos-1393372'>No compres un PC con Snapdragon X Elite, si vas a jugar a videojuegos</a></h4>
+    <a href='https://computerhoy.com/pc/no-compres-pc-snapdragon-x-elite-vas-jugar-videojuegos-1393372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nuevos-snapdragon-x-elite-plus-portatiles-potentes-apple-m3-ia-rapida-3303520.jpg?tf=1200x' alt='No compres un PC con Snapdragon X Elite, si vas a jugar a videojuegos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/pasa-borras-carpeta-system32-windows-1394006'>¿Qué pasa si borras la carpeta System32 en Windows?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/pasa-borras-carpeta-system32-windows-1394006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/carpeta-system23-windows-3663488.jpg?tf=1200x' alt='¿Qué pasa si borras la carpeta System32 en Windows?' />
+    <h4><a href='https://computerhoy.com/apps/puedes-conocer-nombre-te-han-guardado-whatsapp-1394041'>Así puedes conocer el nombre con el que te han guardado en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/puedes-conocer-nombre-te-han-guardado-whatsapp-1394041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sorpresa-whatsapp-3656475.jpg?tf=1200x' alt='Así puedes conocer el nombre con el que te han guardado en WhatsApp' />
     </a>
 </div>
 
