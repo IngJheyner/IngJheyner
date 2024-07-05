@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381'>Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial</a></h4>
+    <a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mars-odyssey-completa-100000-vueltas-marte-celebra-foto-especial-3631253.jpg?tf=1200x' alt='Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380'>Inventan un filtro que añade visión nocturna a cualquier gafa</a></h4>
     <a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inventan-filtro-anade-vision-nocturna-cualquier-gafa-3630957.jpg?tf=1200x' alt='Inventan un filtro que añade visión nocturna a cualquier gafa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ciudad-espanola-coloca-como-sexta-ruidosa-todo-mundo-1394382'>Esta ciudad española se coloca como la sexta más ruidosa de todo el mundo</a></h4>
     <a href='https://computerhoy.com/life/ciudad-espanola-coloca-como-sexta-ruidosa-todo-mundo-1394382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ruido-ciudad-3665891.jpg?tf=1200x' alt='Esta ciudad española se coloca como la sexta más ruidosa de todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-puedo-descargar-libros-mi-amazon-kindle-no-estas-solo-problema-va-largo-1394381'>No puedo descargar libros en mi Amazon Kindle: no estás solo y el problema va para largo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-puedo-descargar-libros-mi-amazon-kindle-no-estas-solo-problema-va-largo-1394381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/kindle-3665755.jpg?tf=1200x' alt='No puedo descargar libros en mi Amazon Kindle: no estás solo y el problema va para largo' />
     </a>
 </div>
 
