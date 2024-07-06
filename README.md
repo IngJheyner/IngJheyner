@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/increible-robot-humanoide-ya-trabaja-fabricas-realizara-otros-trabajos-futuro-1394120'>Así es el increíble robot humanoide que ya trabaja en fábricas, y que realizará otros trabajos en el futuro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/increible-robot-humanoide-ya-trabaja-fabricas-realizara-otros-trabajos-futuro-1394120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robot-humanoide-3656905.jpg?tf=1200x' alt='Así es el increíble robot humanoide que ya trabaja en fábricas, y que realizará otros trabajos en el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/consola-nintendo-wii-u-enciendela-ya-podria-morir-siempre-1394389'>Si tienes una consola Nintendo Wii U enciéndela ya, o podría morir para siempre</a></h4>
     <a href='https://computerhoy.com/gaming/consola-nintendo-wii-u-enciendela-ya-podria-morir-siempre-1394389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/wii-3302182.jpg?tf=1200x' alt='Si tienes una consola Nintendo Wii U enciéndela ya, o podría morir para siempre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381'>Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial</a></h4>
     <a href='https://computerhoy.com/espacio/mars-odyssey-completa-100000-vueltas-marte-1393381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mars-odyssey-completa-100000-vueltas-marte-celebra-foto-especial-3631253.jpg?tf=1200x' alt='Mars Odyssey completa 100.000 vueltas a Marte, lo celebra con una foto especial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380'>Inventan un filtro que añade visión nocturna a cualquier gafa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inventan-filtro-anade-vision-nocturna-cualquier-gafa-1393380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inventan-filtro-anade-vision-nocturna-cualquier-gafa-3630957.jpg?tf=1200x' alt='Inventan un filtro que añade visión nocturna a cualquier gafa' />
     </a>
 </div>
 
