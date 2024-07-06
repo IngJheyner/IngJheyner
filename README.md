@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727'>Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? </a></h4>
-    <a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/jovenes-movil-3656617.jpg?tf=1200x' alt='Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/robot-lefant-barato-amazon-oferta-1393687'>No esperes al Prime Day: este robot aspirador top ventas está ya rebajado a solo 89 euros, y no es un error de precio.</a></h4>
-    <a href='https://computerhoy.com/hogar/robot-lefant-barato-amazon-oferta-1393687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robot-aspirador-lefant-3655031.jpg?tf=1200x' alt='No esperes al Prime Day: este robot aspirador top ventas está ya rebajado a solo 89 euros, y no es un error de precio.' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/aire-acondicionado-portatil-cecotec-bomba-calor-1393852'>Este aire acondicionado alivia el calor y también el frío cuando llegue, y su precio apenas supera los 200 euros</a></h4>
-    <a href='https://computerhoy.com/hogar/aire-acondicionado-portatil-cecotec-bomba-calor-1393852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cecotec-forceclima-9450-3648902.jpg?tf=1200x' alt='Este aire acondicionado alivia el calor y también el frío cuando llegue, y su precio apenas supera los 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485'>Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo</a></h4>
     <a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-grabar-podcast-audio-sonido-3535716.jpg?tf=1200x' alt='Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-1394227'>Descubren el secreto del Mecanismo de Anticitera, gracias a los agujeros negros</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-1394227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-3661419.jpg?tf=1200x' alt='Descubren el secreto del Mecanismo de Anticitera, gracias a los agujeros negros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/movil-hace-retratos-parecidos-fotos-estudio-no-iphone-ni-vale-1000-euros-1392993'>Este es el móvil que hace retratos más parecidos a las fotos de estudio (y no es un iPhone ni vale 1.000 euros)</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-hace-retratos-parecidos-fotos-estudio-no-iphone-ni-vale-1000-euros-1392993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3607179.jpg?tf=1200x' alt='Este es el móvil que hace retratos más parecidos a las fotos de estudio (y no es un iPhone ni vale 1.000 euros)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/deberiamos-disenar-casas-acomodar-robots-1392784'>¿Deberíamos diseñar nuestras casas para acomodar a los robots?</a></h4>
+    <a href='https://computerhoy.com/hogar/deberiamos-disenar-casas-acomodar-robots-1392784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dyson-wash-g1-3556025.jpg?tf=1200x' alt='¿Deberíamos diseñar nuestras casas para acomodar a los robots?' />
     </a>
 </div>
 
