@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cohete-espacial-chino-estrella-space-pioneer-1393575'>Un cohete espacial chino despega sin querer y se estrella, provocando el pánico</a></h4>
+    <a href='https://computerhoy.com/espacio/cohete-espacial-chino-estrella-space-pioneer-1393575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-espacial-chino-despega-querer-provocando-panico-3638307.jpg?tf=1200x' alt='Un cohete espacial chino despega sin querer y se estrella, provocando el pánico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/gran-novedad-apple-watch-x-pantalla-gigante-revelada-imagenes-1393574'>La gran novedad del Apple Watch X: su pantalla gigante revelada en imágenes</a></h4>
+    <a href='https://computerhoy.com/apple/gran-novedad-apple-watch-x-pantalla-gigante-revelada-imagenes-1393574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187116.jpg?tf=1200x' alt='La gran novedad del Apple Watch X: su pantalla gigante revelada en imágenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ciudad-espanola-coloca-como-sexta-ruidosa-todo-mundo-1394382'>Esta ciudad española se coloca como la sexta más ruidosa de todo el mundo</a></h4>
     <a href='https://computerhoy.com/life/ciudad-espanola-coloca-como-sexta-ruidosa-todo-mundo-1394382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ruido-ciudad-3665891.jpg?tf=1200x' alt='Esta ciudad española se coloca como la sexta más ruidosa de todo el mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/descubre-secretos-ocultos-electrodomesticos-funcion-inesperada-chatgpt-1393571'>Descubre secretos ocultos de tus electrodomésticos con una función inesperada de ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/descubre-secretos-ocultos-electrodomesticos-funcion-inesperada-chatgpt-1393571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/descubre-secretos-ocultos-electrodomesticos-funcion-inesperada-chatgpt-3638398.jpg?tf=1200x' alt='Descubre secretos ocultos de tus electrodomésticos con una función inesperada de ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-1394375'>Todo el mundo lo tiene en casa y es el enemigo de tu WiFi: aléjalo todo lo que puedas</a></h4>
-    <a href='https://computerhoy.com/redes/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-1394375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-3665618.jpg?tf=1200x' alt='Todo el mundo lo tiene en casa y es el enemigo de tu WiFi: aléjalo todo lo que puedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-da-terminado-stack-revolucionario-escaner-pdf-te-ofrece-alternativa-1394447'>Google da por terminado Stack, su revolucionario escáner de PDF, y te ofrece esta alternativa</a></h4>
-    <a href='https://computerhoy.com/apps/google-da-terminado-stack-revolucionario-escaner-pdf-te-ofrece-alternativa-1394447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-stack-3671997.jpg?tf=1200x' alt='Google da por terminado Stack, su revolucionario escáner de PDF, y te ofrece esta alternativa' />
     </a>
 </div>
 
