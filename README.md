@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-openai-ya-piensan-gpt-5-chatgpt-ambicioso-estas-seran-novedades-1393856'>Sam Altman y OpenAI ya piensan en GPT-5, el ChatGPT más ambicioso: estas serán sus novedades</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-openai-ya-piensan-gpt-5-chatgpt-ambicioso-estas-seran-novedades-1393856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-5-3650036.jpg?tf=1200x' alt='Sam Altman y OpenAI ya piensan en GPT-5, el ChatGPT más ambicioso: estas serán sus novedades' />
+    <h4><a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727'>Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? </a></h4>
+    <a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/jovenes-movil-3656617.jpg?tf=1200x' alt='Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/3-metodos-efectivos-eliminar-impresora-pc-windows-11-1360945'>3 métodos efectivos para eliminar una impresora de tu PC con Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/3-metodos-efectivos-eliminar-impresora-pc-windows-11-1360945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/3-metodos-efectivos-eliminar-impresora-pc-windows-11-3267983.jpg?tf=1200x' alt='3 métodos efectivos para eliminar una impresora de tu PC con Windows 11' />
+    <h4><a href='https://computerhoy.com/hogar/robot-lefant-barato-amazon-oferta-1393687'>No esperes al Prime Day: este robot aspirador top ventas está ya rebajado a solo 89 euros, y no es un error de precio.</a></h4>
+    <a href='https://computerhoy.com/hogar/robot-lefant-barato-amazon-oferta-1393687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robot-aspirador-lefant-3655031.jpg?tf=1200x' alt='No esperes al Prime Day: este robot aspirador top ventas está ya rebajado a solo 89 euros, y no es un error de precio.' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-reacondicionado-amazon-intel-core-i7-barato-1328748'>Este PC arrasa en Amazon y sorprende: cuesta 135 euros, aunque tiene un gran asterisco y letra pequeña</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-reacondicionado-amazon-intel-core-i7-barato-1328748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hp-elite-8300-3210846.jpg?tf=1200x' alt='Este PC arrasa en Amazon y sorprende: cuesta 135 euros, aunque tiene un gran asterisco y letra pequeña' />
+    <h4><a href='https://computerhoy.com/hogar/aire-acondicionado-portatil-cecotec-bomba-calor-1393852'>Este aire acondicionado alivia el calor y también el frío cuando llegue, y su precio apenas supera los 200 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/aire-acondicionado-portatil-cecotec-bomba-calor-1393852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cecotec-forceclima-9450-3648902.jpg?tf=1200x' alt='Este aire acondicionado alivia el calor y también el frío cuando llegue, y su precio apenas supera los 200 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-limon-shandy-verano-1287790'>El lado oscuro de una de las cervezas más consumidas durante el verano en España</a></h4>
-    <a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-limon-shandy-verano-1287790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/beber-cerveza-3663785.jpg?tf=1200x' alt='El lado oscuro de una de las cervezas más consumidas durante el verano en España' />
+    <h4><a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485'>Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo</a></h4>
+    <a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-grabar-podcast-audio-sonido-3535716.jpg?tf=1200x' alt='Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo' />
     </a>
 </div>
 
