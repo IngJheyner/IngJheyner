@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/no-caigas-trampa-ciberdelincuentes-disfrazan-apple-correos-electronicos-mensajes-texto-1394413'>¡No caigas en la trampa! Los ciberdelincuentes se disfrazan de Apple en correos electrónicos y mensajes de texto</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/no-caigas-trampa-ciberdelincuentes-disfrazan-apple-correos-electronicos-mensajes-texto-1394413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/contrasena-iphone-3669717.jpg?tf=1200x' alt='¡No caigas en la trampa! Los ciberdelincuentes se disfrazan de Apple en correos electrónicos y mensajes de texto' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-1393443'>Cómo una foto en WhatsApp puede revelar tu ubicación y las medidas para protegerte eficazmente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-1393443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-3635361.jpg?tf=1200x' alt='Cómo una foto en WhatsApp puede revelar tu ubicación y las medidas para protegerte eficazmente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/configura-google-maps-detectar-radares-dgt-primera-operacion-salida-verano-1393419'>Configura Google Maps para detectar los radares de la DGT en la primera operación salida del verano</a></h4>
-    <a href='https://computerhoy.com/google/configura-google-maps-detectar-radares-dgt-primera-operacion-salida-verano-1393419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-radares-3635041.jpg?tf=1200x' alt='Configura Google Maps para detectar los radares de la DGT en la primera operación salida del verano' />
+    <h4><a href='https://computerhoy.com/moviles/mejor-teclado-escribir-movil-revelado-estudio-1393432'>Este es el mejor teclado para escribir en el móvil revelado por un estudio</a></h4>
+    <a href='https://computerhoy.com/moviles/mejor-teclado-escribir-movil-revelado-estudio-1393432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teclado-movil-3635140.jpg?tf=1200x' alt='Este es el mejor teclado para escribir en el móvil revelado por un estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-quedara-margen-inteligencia-artificial-generativa-1394062'>Nintendo Switch 2 se quedará al margen de la inteligencia artificial generativa</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-2-quedara-margen-inteligencia-artificial-generativa-1394062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sabemos-nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-3281259.jpg?tf=1200x' alt='Nintendo Switch 2 se quedará al margen de la inteligencia artificial generativa' />
+    <h4><a href='https://computerhoy.com/life/estas-tiendas-estan-toda-espana-venden-productos-electronicos-1-euro-todos-jueves-1394306'>Estas tiendas están por toda España y venden productos electrónicos por 1 euro todos los jueves</a></h4>
+    <a href='https://computerhoy.com/life/estas-tiendas-estan-toda-espana-venden-productos-electronicos-1-euro-todos-jueves-1394306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/donde-crazy-day-factory-tiendas-comprar-devoluciones-amazon-precio-saldo-3219956.jpg?tf=1200x' alt='Estas tiendas están por toda España y venden productos electrónicos por 1 euro todos los jueves' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quieres-usar-ia-mac-windows-app-escritorio-haces-forma-segura-privada-1394264'>¿Quieres usar la IA en Mac o Windows? Con esta app de escritorio lo haces de forma segura y privada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quieres-usar-ia-mac-windows-app-escritorio-haces-forma-segura-privada-1394264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robot-ordenador-3662566.jpg?tf=1200x' alt='¿Quieres usar la IA en Mac o Windows? Con esta app de escritorio lo haces de forma segura y privada' />
+    <h4><a href='https://computerhoy.com/apps/stop-no-actualices-android-auto-necesitas-funcion-1394074'>¡STOP! No actualices Android Auto si necesitas esta función</a></h4>
+    <a href='https://computerhoy.com/apps/stop-no-actualices-android-auto-necesitas-funcion-1394074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-actualizacion-3655885.jpg?tf=1200x' alt='¡STOP! No actualices Android Auto si necesitas esta función' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-1393427'>Tu aliado contra el impredecible clima en España: una app del tiempo gratuita con radar y cámaras en tiempo real</a></h4>
-    <a href='https://computerhoy.com/apps/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-1393427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-3635040.jpg?tf=1200x' alt='Tu aliado contra el impredecible clima en España: una app del tiempo gratuita con radar y cámaras en tiempo real' />
+    <h4><a href='https://computerhoy.com/apps/mark-zuckerberg-presume-exito-threads-alcanzar-hito-1394416'>Mark Zuckerberg presume del éxito de Threads tras alcanzar este hito</a></h4>
+    <a href='https://computerhoy.com/apps/mark-zuckerberg-presume-exito-threads-alcanzar-hito-1394416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/threads-3669757.jpg?tf=1200x' alt='Mark Zuckerberg presume del éxito de Threads tras alcanzar este hito' />
     </a>
 </div>
 
