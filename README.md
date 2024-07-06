@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-fondos-pantalla-gratis-inteligencia-artificial-movil-pc-1393769'>Cómo crear fondos de pantalla gratis con inteligencia artificial para tu móvil o PC</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-fondos-pantalla-gratis-inteligencia-artificial-movil-pc-1393769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fondos-pantalla-ia-3649070.jpg?tf=1200x' alt='Cómo crear fondos de pantalla gratis con inteligencia artificial para tu móvil o PC' />
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-openai-ya-piensan-gpt-5-chatgpt-ambicioso-estas-seran-novedades-1393856'>Sam Altman y OpenAI ya piensan en GPT-5, el ChatGPT más ambicioso: estas serán sus novedades</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-openai-ya-piensan-gpt-5-chatgpt-ambicioso-estas-seran-novedades-1393856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-5-3650036.jpg?tf=1200x' alt='Sam Altman y OpenAI ya piensan en GPT-5, el ChatGPT más ambicioso: estas serán sus novedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/increible-robot-humanoide-ya-trabaja-fabricas-realizara-otros-trabajos-futuro-1394120'>Así es el increíble robot humanoide que ya trabaja en fábricas, y que realizará otros trabajos en el futuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/increible-robot-humanoide-ya-trabaja-fabricas-realizara-otros-trabajos-futuro-1394120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robot-humanoide-3656905.jpg?tf=1200x' alt='Así es el increíble robot humanoide que ya trabaja en fábricas, y que realizará otros trabajos en el futuro' />
+    <h4><a href='https://computerhoy.com/tutoriales/3-metodos-efectivos-eliminar-impresora-pc-windows-11-1360945'>3 métodos efectivos para eliminar una impresora de tu PC con Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/3-metodos-efectivos-eliminar-impresora-pc-windows-11-1360945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/3-metodos-efectivos-eliminar-impresora-pc-windows-11-3267983.jpg?tf=1200x' alt='3 métodos efectivos para eliminar una impresora de tu PC con Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/consola-nintendo-wii-u-enciendela-ya-podria-morir-siempre-1394389'>Si tienes una consola Nintendo Wii U enciéndela ya, o podría morir para siempre</a></h4>
-    <a href='https://computerhoy.com/gaming/consola-nintendo-wii-u-enciendela-ya-podria-morir-siempre-1394389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/wii-3302182.jpg?tf=1200x' alt='Si tienes una consola Nintendo Wii U enciéndela ya, o podría morir para siempre' />
+    <h4><a href='https://computerhoy.com/tecnologia/pc-reacondicionado-amazon-intel-core-i7-barato-1328748'>Este PC arrasa en Amazon y sorprende: cuesta 135 euros, aunque tiene un gran asterisco y letra pequeña</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-reacondicionado-amazon-intel-core-i7-barato-1328748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hp-elite-8300-3210846.jpg?tf=1200x' alt='Este PC arrasa en Amazon y sorprende: cuesta 135 euros, aunque tiene un gran asterisco y letra pequeña' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/caracteristica-windows-11-infinitamente-superior-windows-10-sabias-1394009'>La característica en la que Windows 11 es infinitamente superior a Windows 10: ¿lo sabías?</a></h4>
-    <a href='https://computerhoy.com/windows/caracteristica-windows-11-infinitamente-superior-windows-10-sabias-1394009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/caracteristica-windows-11-infinitamente-superior-windows-10-sabias-3653202.jpg?tf=1200x' alt='La característica en la que Windows 11 es infinitamente superior a Windows 10: ¿lo sabías?' />
+    <h4><a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-limon-shandy-verano-1287790'>El lado oscuro de una de las cervezas más consumidas durante el verano en España</a></h4>
+    <a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-limon-shandy-verano-1287790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/beber-cerveza-3663785.jpg?tf=1200x' alt='El lado oscuro de una de las cervezas más consumidas durante el verano en España' />
     </a>
 </div>
 
