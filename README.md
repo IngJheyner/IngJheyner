@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ios-18-agregara-mayor-nivel-seguridad-aplicacion-no-sueles-abrir-iphone-1394427'>iOS 18 agregará un mayor nivel de seguridad a esta aplicación que no sueles abrir en el iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/ios-18-agregara-mayor-nivel-seguridad-aplicacion-no-sueles-abrir-iphone-1394427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aplicacion-contactos-iphone-3670580.jpg?tf=1200x' alt='iOS 18 agregará un mayor nivel de seguridad a esta aplicación que no sueles abrir en el iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/increible-pero-cierto-steve-jobs-predijo-ia-apple-hace-40-anos-1394321'>Increíble pero cierto: Steve Jobs predijo la IA de Apple hace 40 años</a></h4>
+    <a href='https://computerhoy.com/apple/increible-pero-cierto-steve-jobs-predijo-ia-apple-hace-40-anos-1394321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/steve-jobs-ia-3663643.jpg?tf=1200x' alt='Increíble pero cierto: Steve Jobs predijo la IA de Apple hace 40 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/puedes-conocer-nombre-te-han-guardado-whatsapp-1394041'>Así puedes conocer el nombre con el que te han guardado en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/puedes-conocer-nombre-te-han-guardado-whatsapp-1394041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sorpresa-whatsapp-3656475.jpg?tf=1200x' alt='Así puedes conocer el nombre con el que te han guardado en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejora-experiencia-spotify-truco-secreto-modo-aleatorio-1393461'>Mejora tu experiencia en Spotify con este truco secreto del modo aleatorio</a></h4>
+    <a href='https://computerhoy.com/apps/mejora-experiencia-spotify-truco-secreto-modo-aleatorio-1393461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mejora-experiencia-spotify-truco-secreto-modo-aleatorio-3635867.jpg?tf=1200x' alt='Mejora tu experiencia en Spotify con este truco secreto del modo aleatorio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/9-apps-steam-han-transformado-mi-pc-gaming-1393491'>Las 9 apps de Steam que han transformado mi PC para gaming</a></h4>
     <a href='https://computerhoy.com/gaming/9-apps-steam-han-transformado-mi-pc-gaming-1393491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/9-apps-steam-han-transformado-mi-pc-gaming-3636155.jpg?tf=1200x' alt='Las 9 apps de Steam que han transformado mi PC para gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-1394305'>Los drones son el arma de guerra del futuro pero tienen un problema: se pueden derribar con un arma de hace 300.000 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-1394305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-3663186.jpg?tf=1200x' alt='Los drones son el arma de guerra del futuro pero tienen un problema: se pueden derribar con un arma de hace 300.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/usas-buzon-voz-movil-pues-cuidado-estafa-alertan-expertos-1393458'>¿Usas el buzón de voz del móvil? Pues cuidado con esta estafa sobre la que alertan los expertos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/usas-buzon-voz-movil-pues-cuidado-estafa-alertan-expertos-1393458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/usas-buzon-voz-movil-pues-cuidado-estafa-alertan-expertos-3635516.jpg?tf=1200x' alt='¿Usas el buzón de voz del móvil? Pues cuidado con esta estafa sobre la que alertan los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/matematico-revela-no-tiene-sentido-ir-140-km-h-autopista-coche-1393238'>Matemático revela por qué no tiene sentido ir a 140 km/h en una autopista con el coche</a></h4>
-    <a href='https://computerhoy.com/ciencia/matematico-revela-no-tiene-sentido-ir-140-km-h-autopista-coche-1393238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/matematico-revela-no-tiene-sentido-ir-140km-h-autopista-coche-3614771.jpg?tf=1200x' alt='Matemático revela por qué no tiene sentido ir a 140 km/h en una autopista con el coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/pasa-borras-carpeta-system32-windows-1394006'>¿Qué pasa si borras la carpeta System32 en Windows?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/pasa-borras-carpeta-system32-windows-1394006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/carpeta-system23-windows-3663488.jpg?tf=1200x' alt='¿Qué pasa si borras la carpeta System32 en Windows?' />
     </a>
 </div>
 
