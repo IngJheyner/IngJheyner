@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-fin-actualiza-kernel-linux-wsl-2-anos-medio-1394129'>Microsoft por fin actualiza el kernel de Linux en WSL tras 2 años y medio</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-fin-actualiza-kernel-linux-wsl-2-anos-medio-1394129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laptop-windows-11-linux-3649872.jpg?tf=1200x' alt='Microsoft por fin actualiza el kernel de Linux en WSL tras 2 años y medio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/son-funciones-permanentes-waze-como-funcionan-1394122'>Qué son las funciones permanentes de Waze y cómo funcionan</a></h4>
+    <a href='https://computerhoy.com/motor/son-funciones-permanentes-waze-como-funcionan-1394122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/son-funciones-permanentes-waze-como-funcionan-3656615.jpg?tf=1200x' alt='Qué son las funciones permanentes de Waze y cómo funcionan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/contrasenas-podrian-estar-peligro-10000-millones-contrasenas-robadas-mayores-filtraciones-historia-1394422'>¡Tus contraseñas podrían estar en peligro!: 10.000 millones de contraseñas robadas en una de las mayores filtraciones de la historia</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/contrasenas-podrian-estar-peligro-10000-millones-contrasenas-robadas-mayores-filtraciones-historia-1394422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ciberdelincuentes-3670282.jpg?tf=1200x' alt='¡Tus contraseñas podrían estar en peligro!: 10.000 millones de contraseñas robadas en una de las mayores filtraciones de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vpn-tiene-precio-locos-cuesta-148eu-mes-baratas-1394408'>Esta VPN tiene un precio de locos: cuesta 1,48€ al mes y es de las más baratas</a></h4>
     <a href='https://computerhoy.com/tecnologia/vpn-tiene-precio-locos-cuesta-148eu-mes-baratas-1394408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/privadovpn-3308334.jpg?tf=1200x' alt='Esta VPN tiene un precio de locos: cuesta 1,48€ al mes y es de las más baratas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/tasa-retencion-iphone-motivo-cual-supera-telefonos-chinos-expertos-1393442'>La 'tasa de retención' del iPhone es el motivo por el cual supera a los teléfonos chinos, según expertos</a></h4>
     <a href='https://computerhoy.com/apple/tasa-retencion-iphone-motivo-cual-supera-telefonos-chinos-expertos-1393442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iphone-china-3635297.jpg?tf=1200x' alt='La 'tasa de retención' del iPhone es el motivo por el cual supera a los teléfonos chinos, según expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307'>Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato</a></h4>
-    <a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamadas-fantasma-spam-3662864.jpg?tf=1200x' alt='Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/controvertido-cambio-paleta-colores-google-maps-llegara-tambien-estas-aplicaciones-1394419'>El controvertido cambio en la paleta de colores de Google Maps llegará también a estas aplicaciones</a></h4>
-    <a href='https://computerhoy.com/apps/controvertido-cambio-paleta-colores-google-maps-llegara-tambien-estas-aplicaciones-1394419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/odias-nuevos-colores-google-maps-tranquilo-hay-forma-evitarlos-3230528.jpg?tf=1200x' alt='El controvertido cambio en la paleta de colores de Google Maps llegará también a estas aplicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/whatsapp-no-funciona-comprueba-movil-encuentra-lista-1394097'>¿WhatsApp no funciona? Comprueba si tu móvil se encuentra en esta lista</a></h4>
-    <a href='https://computerhoy.com/moviles/whatsapp-no-funciona-comprueba-movil-encuentra-lista-1394097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-no-funciona-comprueba-movil-encuentra-lista-3656173.jpg?tf=1200x' alt='¿WhatsApp no funciona? Comprueba si tu móvil se encuentra en esta lista' />
     </a>
 </div>
 
