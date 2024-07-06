@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/existe-tierra-universo-star-wars-1361951'>¿Existe la Tierra en el universo de películas y series de Star Wars?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/existe-tierra-universo-star-wars-1361951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/existe-tierra-universo-peliculas-series-star-wars-3269769.jpg?tf=1200x' alt='¿Existe la Tierra en el universo de películas y series de Star Wars?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/no-caigas-trampa-ciberdelincuentes-disfrazan-apple-correos-electronicos-mensajes-texto-1394413'>¡No caigas en la trampa! Los ciberdelincuentes se disfrazan de Apple en correos electrónicos y mensajes de texto</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/no-caigas-trampa-ciberdelincuentes-disfrazan-apple-correos-electronicos-mensajes-texto-1394413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/contrasena-iphone-3669717.jpg?tf=1200x' alt='¡No caigas en la trampa! Los ciberdelincuentes se disfrazan de Apple en correos electrónicos y mensajes de texto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/muy-facil-hacer-jailbreak-modelos-ia-obtener-informacion-peligrosa-como-construir-cocteles-molotov-1393410'>Es muy fácil hacer 'jailbreak' a modelos de IA para obtener información peligrosa, como construir cócteles Molotov</a></h4>
-    <a href='https://computerhoy.com/tecnologia/muy-facil-hacer-jailbreak-modelos-ia-obtener-informacion-peligrosa-como-construir-cocteles-molotov-1393410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ia-defectuosa-3634827.jpg?tf=1200x' alt='Es muy fácil hacer 'jailbreak' a modelos de IA para obtener información peligrosa, como construir cócteles Molotov' />
+    <h4><a href='https://computerhoy.com/google/configura-google-maps-detectar-radares-dgt-primera-operacion-salida-verano-1393419'>Configura Google Maps para detectar los radares de la DGT en la primera operación salida del verano</a></h4>
+    <a href='https://computerhoy.com/google/configura-google-maps-detectar-radares-dgt-primera-operacion-salida-verano-1393419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-radares-3635041.jpg?tf=1200x' alt='Configura Google Maps para detectar los radares de la DGT en la primera operación salida del verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/steve-jobs-apple-pelicula-porque-odiaba-profundamente-1259456'>Steve Jobs odiaba tanto esta película que prohibió que aparecieran productos de Apple en ella</a></h4>
-    <a href='https://computerhoy.com/apple/steve-jobs-apple-pelicula-porque-odiaba-profundamente-1259456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg?tf=1200x' alt='Steve Jobs odiaba tanto esta película que prohibió que aparecieran productos de Apple en ella' />
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-quedara-margen-inteligencia-artificial-generativa-1394062'>Nintendo Switch 2 se quedará al margen de la inteligencia artificial generativa</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-2-quedara-margen-inteligencia-artificial-generativa-1394062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sabemos-nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-3281259.jpg?tf=1200x' alt='Nintendo Switch 2 se quedará al margen de la inteligencia artificial generativa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mito-500-miliamperios-usb-puedes-cargar-portatil-puerto-usb-c-1394051'>El mito de los 500 miliamperios en USB: ¿Por qué puedes cargar tu portátil con un puerto USB-C? </a></h4>
-    <a href='https://computerhoy.com/tecnologia/mito-500-miliamperios-usb-puedes-cargar-portatil-puerto-usb-c-1394051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/conexion-usb-tipos-conectores-existen-principales-diferencias-3308657.jpg?tf=1200x' alt='El mito de los 500 miliamperios en USB: ¿Por qué puedes cargar tu portátil con un puerto USB-C? ' />
+    <h4><a href='https://computerhoy.com/tecnologia/quieres-usar-ia-mac-windows-app-escritorio-haces-forma-segura-privada-1394264'>¿Quieres usar la IA en Mac o Windows? Con esta app de escritorio lo haces de forma segura y privada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quieres-usar-ia-mac-windows-app-escritorio-haces-forma-segura-privada-1394264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robot-ordenador-3662566.jpg?tf=1200x' alt='¿Quieres usar la IA en Mac o Windows? Con esta app de escritorio lo haces de forma segura y privada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-salir-garras-google-no-morir-intento-1393405'>Cómo salir de las garras de Google y no morir en el intento</a></h4>
-    <a href='https://computerhoy.com/google/como-salir-garras-google-no-morir-intento-1393405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-salir-garras-google-no-morir-intento-3634661.jpg?tf=1200x' alt='Cómo salir de las garras de Google y no morir en el intento' />
+    <h4><a href='https://computerhoy.com/apps/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-1393427'>Tu aliado contra el impredecible clima en España: una app del tiempo gratuita con radar y cámaras en tiempo real</a></h4>
+    <a href='https://computerhoy.com/apps/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-1393427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aliado-impredecible-clima-espana-app-tiempo-gratuita-radar-camaras-tiempo-real-3635040.jpg?tf=1200x' alt='Tu aliado contra el impredecible clima en España: una app del tiempo gratuita con radar y cámaras en tiempo real' />
     </a>
 </div>
 
