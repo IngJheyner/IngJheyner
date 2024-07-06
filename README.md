@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/logran-gpu-utilicen-memoria-adjunta-pcie-capacidad-ampliada-gracias-nueva-tecnologia-1394246'>Logran que las GPU utilicen memoria adjunta a PCIe para una capacidad ampliada gracias a una nueva tecnología</a></h4>
-    <a href='https://computerhoy.com/tecnologia/logran-gpu-utilicen-memoria-adjunta-pcie-capacidad-ampliada-gracias-nueva-tecnologia-1394246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/gpu-1867157.jpg?tf=1200x' alt='Logran que las GPU utilicen memoria adjunta a PCIe para una capacidad ampliada gracias a una nueva tecnología' />
+    <h4><a href='https://computerhoy.com/gaming/9-apps-steam-han-transformado-mi-pc-gaming-1393491'>Las 9 apps de Steam que han transformado mi PC para gaming</a></h4>
+    <a href='https://computerhoy.com/gaming/9-apps-steam-han-transformado-mi-pc-gaming-1393491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/9-apps-steam-han-transformado-mi-pc-gaming-3636155.jpg?tf=1200x' alt='Las 9 apps de Steam que han transformado mi PC para gaming' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/x-busca-integrar-grok-forma-profunda-aplicacion-estas-nuevas-funciones-1394424'>X busca integrar Grok de forma más profunda en la aplicación con estas nuevas funciones</a></h4>
-    <a href='https://computerhoy.com/apps/x-busca-integrar-grok-forma-profunda-aplicacion-estas-nuevas-funciones-1394424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/grok-3307945.jpg?tf=1200x' alt='X busca integrar Grok de forma más profunda en la aplicación con estas nuevas funciones' />
+    <h4><a href='https://computerhoy.com/tecnologia/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-1394305'>Los drones son el arma de guerra del futuro pero tienen un problema: se pueden derribar con un arma de hace 300.000 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-1394305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-3663186.jpg?tf=1200x' alt='Los drones son el arma de guerra del futuro pero tienen un problema: se pueden derribar con un arma de hace 300.000 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-1393973'>Un experto en seguridad asegura que hay un 99,9% de posibilidades de que la IA suponga el fin de la humanidad, ¿amenaza real o ganas de notoriedad?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-1393973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-3651386.jpg?tf=1200x' alt='Un experto en seguridad asegura que hay un 99,9% de posibilidades de que la IA suponga el fin de la humanidad, ¿amenaza real o ganas de notoriedad?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/usas-buzon-voz-movil-pues-cuidado-estafa-alertan-expertos-1393458'>¿Usas el buzón de voz del móvil? Pues cuidado con esta estafa sobre la que alertan los expertos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/usas-buzon-voz-movil-pues-cuidado-estafa-alertan-expertos-1393458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/usas-buzon-voz-movil-pues-cuidado-estafa-alertan-expertos-3635516.jpg?tf=1200x' alt='¿Usas el buzón de voz del móvil? Pues cuidado con esta estafa sobre la que alertan los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-cara-contactos-aparezca-notificaciones-whatsapp-1394380'>Cómo hacer que la cara de tus contactos aparezca en las notificaciones de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-cara-contactos-aparezca-notificaciones-whatsapp-1394380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-hacer-cara-contactos-aparezca-notificaciones-whatsapp-3666308.jpg?tf=1200x' alt='Cómo hacer que la cara de tus contactos aparezca en las notificaciones de WhatsApp' />
+    <h4><a href='https://computerhoy.com/ciencia/matematico-revela-no-tiene-sentido-ir-140-km-h-autopista-coche-1393238'>Matemático revela por qué no tiene sentido ir a 140 km/h en una autopista con el coche</a></h4>
+    <a href='https://computerhoy.com/ciencia/matematico-revela-no-tiene-sentido-ir-140-km-h-autopista-coche-1393238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/matematico-revela-no-tiene-sentido-ir-140km-h-autopista-coche-3614771.jpg?tf=1200x' alt='Matemático revela por qué no tiene sentido ir a 140 km/h en una autopista con el coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/tinder-obliga-pareja-conocerse-persona-pasar-3-anos-chateando-app-1394283'>Tinder obliga a un pareja a conocerse en persona tras pasar 3 años chateando por la app</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/tinder-obliga-pareja-conocerse-persona-pasar-3-anos-chateando-app-1394283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pareja-tinder-3663503.jpg?tf=1200x' alt='Tinder obliga a un pareja a conocerse en persona tras pasar 3 años chateando por la app' />
+    <h4><a href='https://computerhoy.com/tutoriales/pasa-borras-carpeta-system32-windows-1394006'>¿Qué pasa si borras la carpeta System32 en Windows?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/pasa-borras-carpeta-system32-windows-1394006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/carpeta-system23-windows-3663488.jpg?tf=1200x' alt='¿Qué pasa si borras la carpeta System32 en Windows?' />
     </a>
 </div>
 
