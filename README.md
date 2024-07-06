@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-importante-boton-llegara-pronto-google-chrome-1394443'>Este es el nuevo e importante botón que llegará pronto a Google Chrome</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-importante-boton-llegara-pronto-google-chrome-1394443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-chrome-3520926.jpg?tf=1200x' alt='Este es el nuevo e importante botón que llegará pronto a Google Chrome' />
+    <h4><a href='https://computerhoy.com/windows/aplicacion-tiempo-windows-11-pierde-funciones-favor-anuncios-1394445'>La aplicación del tiempo de Windows 11 pierde funciones en favor de más anuncios</a></h4>
+    <a href='https://computerhoy.com/windows/aplicacion-tiempo-windows-11-pierde-funciones-favor-anuncios-1394445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pronostico-tiempo-windows-3428887.jpg?tf=1200x' alt='La aplicación del tiempo de Windows 11 pierde funciones en favor de más anuncios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/clasico-stephen-king-tiene-casi-50-anos-cuya-pelicula-sigue-resistiendo-podria-estrenarse-2024-1394256'>El clásico de Stephen King que tiene casi 50 años y cuya película se sigue resistiendo, podría estrenarse en 2024</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/clasico-stephen-king-tiene-casi-50-anos-cuya-pelicula-sigue-resistiendo-podria-estrenarse-2024-1394256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/juego-tronos-temporada-8-stephen-king-defiende-estos-episodios.jpg?tf=1200x' alt='El clásico de Stephen King que tiene casi 50 años y cuya película se sigue resistiendo, podría estrenarse en 2024' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-1394171'>Obedece a la policía y utiliza este truco para evitar que tu móvil se conecte automáticamente a dispositivos por Bluetooth</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-1394171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-3658654.jpg?tf=1200x' alt='Obedece a la policía y utiliza este truco para evitar que tu móvil se conecte automáticamente a dispositivos por Bluetooth' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cuando-internet-muerto-ya-no-teoria-conspiracion-42-trafico-creado-bots-ia-1394050'>Cuando Internet Muerto ya no es una teoría de la conspiración: el 42% del tráfico está creado por bots y la IA</a></h4>
-    <a href='https://computerhoy.com/internet/cuando-internet-muerto-ya-no-teoria-conspiracion-42-trafico-creado-bots-ia-1394050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/internet-muerto-3657485.jpg?tf=1200x' alt='Cuando Internet Muerto ya no es una teoría de la conspiración: el 42% del tráfico está creado por bots y la IA' />
+    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-ha-hecho-amazon-prime-video-outer-range-grandes-series-quedaron-final-condiciones-1394141'>No solo lo ha hecho Amazon Prime Video con Outer Range: grandes series que se quedaron sin un final en condiciones</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/no-solo-ha-hecho-amazon-prime-video-outer-range-grandes-series-quedaron-final-condiciones-1394141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/outer-range-2666559.jpg?tf=1200x' alt='No solo lo ha hecho Amazon Prime Video con Outer Range: grandes series que se quedaron sin un final en condiciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-1394219'>Por qué tu Smart TV de Samsung se enciende de forma aleatoria (y cómo solucionarlo)</a></h4>
-    <a href='https://computerhoy.com/tv/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-1394219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-3660867.jpg?tf=1200x' alt='Por qué tu Smart TV de Samsung se enciende de forma aleatoria (y cómo solucionarlo)' />
+    <h4><a href='https://computerhoy.com/entretenimiento/shadowz-netflix-peliculas-miedo-terror-llega-espana-precio-peliculas-disponibles-1394203'>Shadowz, el Netflix de las películas de miedo y terror llega a España: precio y películas disponibles</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/shadowz-netflix-peliculas-miedo-terror-llega-espana-precio-peliculas-disponibles-1394203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/shadowz-3658653.jpg?tf=1200x' alt='Shadowz, el Netflix de las películas de miedo y terror llega a España: precio y películas disponibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-logra-100-criticas-positivas-dos-ultimas-poco-conocidas-series-estreno-1394055'>Netflix logra el 100% de críticas positivas en dos de sus últimas (y poco conocidas) series de estreno</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-logra-100-criticas-positivas-dos-ultimas-poco-conocidas-series-estreno-1394055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/series-netflix-3656472.jpg?tf=1200x' alt='Netflix logra el 100% de críticas positivas en dos de sus últimas (y poco conocidas) series de estreno' />
+    <h4><a href='https://computerhoy.com/apps/youtube-trabaja-esperada-funcion-temporizador-apagado-1394444'>YouTube trabaja en la esperada función de temporizador de apagado</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-trabaja-esperada-funcion-temporizador-apagado-1394444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/youtube-3307932.jpg?tf=1200x' alt='YouTube trabaja en la esperada función de temporizador de apagado' />
     </a>
 </div>
 
