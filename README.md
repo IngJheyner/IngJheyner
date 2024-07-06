@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/perdido-cajon-solucion-hacer-volar-wifi-1394164'>Está perdido en un cajón y es la solución para hacer volar tu WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/perdido-cajon-solucion-hacer-volar-wifi-1394164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/perdido-cajon-solucion-hacer-volar-wifi-3658080.jpg?tf=1200x' alt='Está perdido en un cajón y es la solución para hacer volar tu WiFi' />
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-importante-boton-llegara-pronto-google-chrome-1394443'>Este es el nuevo e importante botón que llegará pronto a Google Chrome</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-importante-boton-llegara-pronto-google-chrome-1394443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-chrome-3520926.jpg?tf=1200x' alt='Este es el nuevo e importante botón que llegará pronto a Google Chrome' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-habitual-airbnb-verano-consiste-como-evitarla-1394290'>La estafa más habitual de Airbnb este verano: en qué consiste y cómo evitarla</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafa-habitual-airbnb-verano-consiste-como-evitarla-1394290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/airbnb-3663645.jpg?tf=1200x' alt='La estafa más habitual de Airbnb este verano: en qué consiste y cómo evitarla' />
+    <h4><a href='https://computerhoy.com/entretenimiento/clasico-stephen-king-tiene-casi-50-anos-cuya-pelicula-sigue-resistiendo-podria-estrenarse-2024-1394256'>El clásico de Stephen King que tiene casi 50 años y cuya película se sigue resistiendo, podría estrenarse en 2024</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/clasico-stephen-king-tiene-casi-50-anos-cuya-pelicula-sigue-resistiendo-podria-estrenarse-2024-1394256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/juego-tronos-temporada-8-stephen-king-defiende-estos-episodios.jpg?tf=1200x' alt='El clásico de Stephen King que tiene casi 50 años y cuya película se sigue resistiendo, podría estrenarse en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/freidora-gigante-amazon-vende-rebajada-tiene-todo-supera-modelos-vendidos-1394426'>La freidora gigante que Amazon vende rebajada lo tiene todo y supera a los modelos más vendidos</a></h4>
-    <a href='https://computerhoy.com/hogar/freidora-gigante-amazon-vende-rebajada-tiene-todo-supera-modelos-vendidos-1394426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aigostar-7l-2868601.jpg?tf=1200x' alt='La freidora gigante que Amazon vende rebajada lo tiene todo y supera a los modelos más vendidos' />
+    <h4><a href='https://computerhoy.com/internet/cuando-internet-muerto-ya-no-teoria-conspiracion-42-trafico-creado-bots-ia-1394050'>Cuando Internet Muerto ya no es una teoría de la conspiración: el 42% del tráfico está creado por bots y la IA</a></h4>
+    <a href='https://computerhoy.com/internet/cuando-internet-muerto-ya-no-teoria-conspiracion-42-trafico-creado-bots-ia-1394050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/internet-muerto-3657485.jpg?tf=1200x' alt='Cuando Internet Muerto ya no es una teoría de la conspiración: el 42% del tráfico está creado por bots y la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-son-razones-ia-reemplazando-humanos-rapido-pensaba-1393475'>Estas son las razones por las que la IA está reemplazando a humanos más rápido de lo que se pensaba</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-son-razones-ia-reemplazando-humanos-rapido-pensaba-1393475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estas-son-razones-ia-reemplazando-humanos-rapido-pensaba-3635777.jpg?tf=1200x' alt='Estas son las razones por las que la IA está reemplazando a humanos más rápido de lo que se pensaba' />
+    <h4><a href='https://computerhoy.com/tv/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-1394219'>Por qué tu Smart TV de Samsung se enciende de forma aleatoria (y cómo solucionarlo)</a></h4>
+    <a href='https://computerhoy.com/tv/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-1394219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-3660867.jpg?tf=1200x' alt='Por qué tu Smart TV de Samsung se enciende de forma aleatoria (y cómo solucionarlo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/reactor-nuclear-grande-mundo-finalmente-terminado-pero-no-funcionara-dentro-15-anos-1394126'>El reactor nuclear más grande del mundo finalmente está terminado, pero no funcionará hasta dentro de 15 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/reactor-nuclear-grande-mundo-finalmente-terminado-pero-no-funcionara-dentro-15-anos-1394126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/reactor-nuclear-grande-mundo-finalmente-terminado-pero-no-funcionara-dentro-15-anos-3656618.jpg?tf=1200x' alt='El reactor nuclear más grande del mundo finalmente está terminado, pero no funcionará hasta dentro de 15 años' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-logra-100-criticas-positivas-dos-ultimas-poco-conocidas-series-estreno-1394055'>Netflix logra el 100% de críticas positivas en dos de sus últimas (y poco conocidas) series de estreno</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-logra-100-criticas-positivas-dos-ultimas-poco-conocidas-series-estreno-1394055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/series-netflix-3656472.jpg?tf=1200x' alt='Netflix logra el 100% de críticas positivas en dos de sus últimas (y poco conocidas) series de estreno' />
     </a>
 </div>
 
