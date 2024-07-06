@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485'>Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo</a></h4>
-    <a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-grabar-podcast-audio-sonido-3535716.jpg?tf=1200x' alt='Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo' />
+    <h4><a href='https://computerhoy.com/life/palabras-magicas-debes-decir-no-quieres-recibir-llamadas-spam-empresa-1393235'>Las palabras mágicas que debes decir si no quieres recibir más llamadas spam de una empresa</a></h4>
+    <a href='https://computerhoy.com/life/palabras-magicas-debes-decir-no-quieres-recibir-llamadas-spam-empresa-1393235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamadas-spam-3663187.jpg?tf=1200x' alt='Las palabras mágicas que debes decir si no quieres recibir más llamadas spam de una empresa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-1394227'>Descubren el secreto del Mecanismo de Anticitera, gracias a los agujeros negros</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-1394227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-3661419.jpg?tf=1200x' alt='Descubren el secreto del Mecanismo de Anticitera, gracias a los agujeros negros' />
+    <h4><a href='https://computerhoy.com/energia/pequenas-esferas-usan-luz-solar-artificial-superando-paneles-solares-alcanzando-60-veces-capacidad-1393402'>Las pequeñas esferas que usan luz solar y artificial, superando a los paneles solares y alcanzando 60 veces su capacidad</a></h4>
+    <a href='https://computerhoy.com/energia/pequenas-esferas-usan-luz-solar-artificial-superando-paneles-solares-alcanzando-60-veces-capacidad-1393402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/esferas-generar-electricidad-3634660.jpg?tf=1200x' alt='Las pequeñas esferas que usan luz solar y artificial, superando a los paneles solares y alcanzando 60 veces su capacidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/movil-hace-retratos-parecidos-fotos-estudio-no-iphone-ni-vale-1000-euros-1392993'>Este es el móvil que hace retratos más parecidos a las fotos de estudio (y no es un iPhone ni vale 1.000 euros)</a></h4>
-    <a href='https://computerhoy.com/moviles/movil-hace-retratos-parecidos-fotos-estudio-no-iphone-ni-vale-1000-euros-1392993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3607179.jpg?tf=1200x' alt='Este es el móvil que hace retratos más parecidos a las fotos de estudio (y no es un iPhone ni vale 1.000 euros)' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-2-patente-revela-nueva-generacion-vista-gran-novedad-1394235'>¿Samsung Galaxy Ring 2? Esta patente revela nueva generación a la vista con una gran novedad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-2-patente-revela-nueva-generacion-vista-gran-novedad-1394235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-ring-3651234.jpg?tf=1200x' alt='¿Samsung Galaxy Ring 2? Esta patente revela nueva generación a la vista con una gran novedad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/deberiamos-disenar-casas-acomodar-robots-1392784'>¿Deberíamos diseñar nuestras casas para acomodar a los robots?</a></h4>
-    <a href='https://computerhoy.com/hogar/deberiamos-disenar-casas-acomodar-robots-1392784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dyson-wash-g1-3556025.jpg?tf=1200x' alt='¿Deberíamos diseñar nuestras casas para acomodar a los robots?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/tienes-app-chatgpt-mac-actualiza-inmediato-no-quieres-problemas-1394043'>¿Tienes la app de ChatGPT en tu Mac? Actualiza de inmediato si no quieres problemas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tienes-app-chatgpt-mac-actualiza-inmediato-no-quieres-problemas-1394043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-mac-3655447.jpg?tf=1200x' alt='¿Tienes la app de ChatGPT en tu Mac? Actualiza de inmediato si no quieres problemas' />
     </a>
 </div>
 
