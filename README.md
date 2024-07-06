@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-1393443'>Cómo una foto en WhatsApp puede revelar tu ubicación y las medidas para protegerte eficazmente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-1393443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-foto-whatsapp-puede-revelar-ubicacion-medidas-protegerte-eficazmente-3635361.jpg?tf=1200x' alt='Cómo una foto en WhatsApp puede revelar tu ubicación y las medidas para protegerte eficazmente' />
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-tiene-precio-locos-cuesta-148eu-mes-baratas-1394408'>Esta VPN tiene un precio de locos: cuesta 1,48€ al mes y es de las más baratas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-tiene-precio-locos-cuesta-148eu-mes-baratas-1394408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/privadovpn-3308334.jpg?tf=1200x' alt='Esta VPN tiene un precio de locos: cuesta 1,48€ al mes y es de las más baratas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mejor-teclado-escribir-movil-revelado-estudio-1393432'>Este es el mejor teclado para escribir en el móvil revelado por un estudio</a></h4>
-    <a href='https://computerhoy.com/moviles/mejor-teclado-escribir-movil-revelado-estudio-1393432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teclado-movil-3635140.jpg?tf=1200x' alt='Este es el mejor teclado para escribir en el móvil revelado por un estudio' />
+    <h4><a href='https://computerhoy.com/apple/tasa-retencion-iphone-motivo-cual-supera-telefonos-chinos-expertos-1393442'>La 'tasa de retención' del iPhone es el motivo por el cual supera a los teléfonos chinos, según expertos</a></h4>
+    <a href='https://computerhoy.com/apple/tasa-retencion-iphone-motivo-cual-supera-telefonos-chinos-expertos-1393442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iphone-china-3635297.jpg?tf=1200x' alt='La 'tasa de retención' del iPhone es el motivo por el cual supera a los teléfonos chinos, según expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-tiendas-estan-toda-espana-venden-productos-electronicos-1-euro-todos-jueves-1394306'>Estas tiendas están por toda España y venden productos electrónicos por 1 euro todos los jueves</a></h4>
-    <a href='https://computerhoy.com/life/estas-tiendas-estan-toda-espana-venden-productos-electronicos-1-euro-todos-jueves-1394306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/donde-crazy-day-factory-tiendas-comprar-devoluciones-amazon-precio-saldo-3219956.jpg?tf=1200x' alt='Estas tiendas están por toda España y venden productos electrónicos por 1 euro todos los jueves' />
+    <h4><a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307'>Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato</a></h4>
+    <a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamadas-fantasma-spam-3662864.jpg?tf=1200x' alt='Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/stop-no-actualices-android-auto-necesitas-funcion-1394074'>¡STOP! No actualices Android Auto si necesitas esta función</a></h4>
-    <a href='https://computerhoy.com/apps/stop-no-actualices-android-auto-necesitas-funcion-1394074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-actualizacion-3655885.jpg?tf=1200x' alt='¡STOP! No actualices Android Auto si necesitas esta función' />
+    <h4><a href='https://computerhoy.com/apps/controvertido-cambio-paleta-colores-google-maps-llegara-tambien-estas-aplicaciones-1394419'>El controvertido cambio en la paleta de colores de Google Maps llegará también a estas aplicaciones</a></h4>
+    <a href='https://computerhoy.com/apps/controvertido-cambio-paleta-colores-google-maps-llegara-tambien-estas-aplicaciones-1394419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/odias-nuevos-colores-google-maps-tranquilo-hay-forma-evitarlos-3230528.jpg?tf=1200x' alt='El controvertido cambio en la paleta de colores de Google Maps llegará también a estas aplicaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mark-zuckerberg-presume-exito-threads-alcanzar-hito-1394416'>Mark Zuckerberg presume del éxito de Threads tras alcanzar este hito</a></h4>
-    <a href='https://computerhoy.com/apps/mark-zuckerberg-presume-exito-threads-alcanzar-hito-1394416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/threads-3669757.jpg?tf=1200x' alt='Mark Zuckerberg presume del éxito de Threads tras alcanzar este hito' />
+    <h4><a href='https://computerhoy.com/moviles/whatsapp-no-funciona-comprueba-movil-encuentra-lista-1394097'>¿WhatsApp no funciona? Comprueba si tu móvil se encuentra en esta lista</a></h4>
+    <a href='https://computerhoy.com/moviles/whatsapp-no-funciona-comprueba-movil-encuentra-lista-1394097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-no-funciona-comprueba-movil-encuentra-lista-3656173.jpg?tf=1200x' alt='¿WhatsApp no funciona? Comprueba si tu móvil se encuentra en esta lista' />
     </a>
 </div>
 
