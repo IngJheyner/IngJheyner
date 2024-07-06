@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ios-18-agregara-mayor-nivel-seguridad-aplicacion-no-sueles-abrir-iphone-1394427'>iOS 18 agregará un mayor nivel de seguridad a esta aplicación que no sueles abrir en el iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/ios-18-agregara-mayor-nivel-seguridad-aplicacion-no-sueles-abrir-iphone-1394427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aplicacion-contactos-iphone-3670580.jpg?tf=1200x' alt='iOS 18 agregará un mayor nivel de seguridad a esta aplicación que no sueles abrir en el iPhone' />
+    <h4><a href='https://computerhoy.com/redes/perdido-cajon-solucion-hacer-volar-wifi-1394164'>Está perdido en un cajón y es la solución para hacer volar tu WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/perdido-cajon-solucion-hacer-volar-wifi-1394164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/perdido-cajon-solucion-hacer-volar-wifi-3658080.jpg?tf=1200x' alt='Está perdido en un cajón y es la solución para hacer volar tu WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/increible-pero-cierto-steve-jobs-predijo-ia-apple-hace-40-anos-1394321'>Increíble pero cierto: Steve Jobs predijo la IA de Apple hace 40 años</a></h4>
-    <a href='https://computerhoy.com/apple/increible-pero-cierto-steve-jobs-predijo-ia-apple-hace-40-anos-1394321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/steve-jobs-ia-3663643.jpg?tf=1200x' alt='Increíble pero cierto: Steve Jobs predijo la IA de Apple hace 40 años' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-habitual-airbnb-verano-consiste-como-evitarla-1394290'>La estafa más habitual de Airbnb este verano: en qué consiste y cómo evitarla</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafa-habitual-airbnb-verano-consiste-como-evitarla-1394290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/airbnb-3663645.jpg?tf=1200x' alt='La estafa más habitual de Airbnb este verano: en qué consiste y cómo evitarla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/puedes-conocer-nombre-te-han-guardado-whatsapp-1394041'>Así puedes conocer el nombre con el que te han guardado en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/puedes-conocer-nombre-te-han-guardado-whatsapp-1394041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sorpresa-whatsapp-3656475.jpg?tf=1200x' alt='Así puedes conocer el nombre con el que te han guardado en WhatsApp' />
+    <h4><a href='https://computerhoy.com/hogar/freidora-gigante-amazon-vende-rebajada-tiene-todo-supera-modelos-vendidos-1394426'>La freidora gigante que Amazon vende rebajada lo tiene todo y supera a los modelos más vendidos</a></h4>
+    <a href='https://computerhoy.com/hogar/freidora-gigante-amazon-vende-rebajada-tiene-todo-supera-modelos-vendidos-1394426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/aigostar-7l-2868601.jpg?tf=1200x' alt='La freidora gigante que Amazon vende rebajada lo tiene todo y supera a los modelos más vendidos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejora-experiencia-spotify-truco-secreto-modo-aleatorio-1393461'>Mejora tu experiencia en Spotify con este truco secreto del modo aleatorio</a></h4>
-    <a href='https://computerhoy.com/apps/mejora-experiencia-spotify-truco-secreto-modo-aleatorio-1393461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mejora-experiencia-spotify-truco-secreto-modo-aleatorio-3635867.jpg?tf=1200x' alt='Mejora tu experiencia en Spotify con este truco secreto del modo aleatorio' />
+    <h4><a href='https://computerhoy.com/tecnologia/estas-son-razones-ia-reemplazando-humanos-rapido-pensaba-1393475'>Estas son las razones por las que la IA está reemplazando a humanos más rápido de lo que se pensaba</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-son-razones-ia-reemplazando-humanos-rapido-pensaba-1393475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estas-son-razones-ia-reemplazando-humanos-rapido-pensaba-3635777.jpg?tf=1200x' alt='Estas son las razones por las que la IA está reemplazando a humanos más rápido de lo que se pensaba' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/9-apps-steam-han-transformado-mi-pc-gaming-1393491'>Las 9 apps de Steam que han transformado mi PC para gaming</a></h4>
-    <a href='https://computerhoy.com/gaming/9-apps-steam-han-transformado-mi-pc-gaming-1393491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/9-apps-steam-han-transformado-mi-pc-gaming-3636155.jpg?tf=1200x' alt='Las 9 apps de Steam que han transformado mi PC para gaming' />
+    <h4><a href='https://computerhoy.com/ciencia/reactor-nuclear-grande-mundo-finalmente-terminado-pero-no-funcionara-dentro-15-anos-1394126'>El reactor nuclear más grande del mundo finalmente está terminado, pero no funcionará hasta dentro de 15 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/reactor-nuclear-grande-mundo-finalmente-terminado-pero-no-funcionara-dentro-15-anos-1394126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/reactor-nuclear-grande-mundo-finalmente-terminado-pero-no-funcionara-dentro-15-anos-3656618.jpg?tf=1200x' alt='El reactor nuclear más grande del mundo finalmente está terminado, pero no funcionará hasta dentro de 15 años' />
     </a>
 </div>
 
