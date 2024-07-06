@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/existe-tierra-universo-star-wars-1361951'>¿Existe la Tierra en el universo de películas y series de Star Wars?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/existe-tierra-universo-star-wars-1361951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/existe-tierra-universo-peliculas-series-star-wars-3269769.jpg?tf=1200x' alt='¿Existe la Tierra en el universo de películas y series de Star Wars?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/muy-facil-hacer-jailbreak-modelos-ia-obtener-informacion-peligrosa-como-construir-cocteles-molotov-1393410'>Es muy fácil hacer 'jailbreak' a modelos de IA para obtener información peligrosa, como construir cócteles Molotov</a></h4>
+    <a href='https://computerhoy.com/tecnologia/muy-facil-hacer-jailbreak-modelos-ia-obtener-informacion-peligrosa-como-construir-cocteles-molotov-1393410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ia-defectuosa-3634827.jpg?tf=1200x' alt='Es muy fácil hacer 'jailbreak' a modelos de IA para obtener información peligrosa, como construir cócteles Molotov' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/steve-jobs-apple-pelicula-porque-odiaba-profundamente-1259456'>Steve Jobs odiaba tanto esta película que prohibió que aparecieran productos de Apple en ella</a></h4>
     <a href='https://computerhoy.com/apple/steve-jobs-apple-pelicula-porque-odiaba-profundamente-1259456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/steve-jobs-2280383.jpg?tf=1200x' alt='Steve Jobs odiaba tanto esta película que prohibió que aparecieran productos de Apple en ella' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/palabras-magicas-debes-decir-no-quieres-recibir-llamadas-spam-empresa-1393235'>Las palabras mágicas que debes decir si no quieres recibir más llamadas spam de una empresa</a></h4>
-    <a href='https://computerhoy.com/life/palabras-magicas-debes-decir-no-quieres-recibir-llamadas-spam-empresa-1393235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamadas-spam-3663187.jpg?tf=1200x' alt='Las palabras mágicas que debes decir si no quieres recibir más llamadas spam de una empresa' />
+    <h4><a href='https://computerhoy.com/tecnologia/mito-500-miliamperios-usb-puedes-cargar-portatil-puerto-usb-c-1394051'>El mito de los 500 miliamperios en USB: ¿Por qué puedes cargar tu portátil con un puerto USB-C? </a></h4>
+    <a href='https://computerhoy.com/tecnologia/mito-500-miliamperios-usb-puedes-cargar-portatil-puerto-usb-c-1394051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/conexion-usb-tipos-conectores-existen-principales-diferencias-3308657.jpg?tf=1200x' alt='El mito de los 500 miliamperios en USB: ¿Por qué puedes cargar tu portátil con un puerto USB-C? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/pequenas-esferas-usan-luz-solar-artificial-superando-paneles-solares-alcanzando-60-veces-capacidad-1393402'>Las pequeñas esferas que usan luz solar y artificial, superando a los paneles solares y alcanzando 60 veces su capacidad</a></h4>
-    <a href='https://computerhoy.com/energia/pequenas-esferas-usan-luz-solar-artificial-superando-paneles-solares-alcanzando-60-veces-capacidad-1393402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/esferas-generar-electricidad-3634660.jpg?tf=1200x' alt='Las pequeñas esferas que usan luz solar y artificial, superando a los paneles solares y alcanzando 60 veces su capacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-2-patente-revela-nueva-generacion-vista-gran-novedad-1394235'>¿Samsung Galaxy Ring 2? Esta patente revela nueva generación a la vista con una gran novedad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-2-patente-revela-nueva-generacion-vista-gran-novedad-1394235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-ring-3651234.jpg?tf=1200x' alt='¿Samsung Galaxy Ring 2? Esta patente revela nueva generación a la vista con una gran novedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tienes-app-chatgpt-mac-actualiza-inmediato-no-quieres-problemas-1394043'>¿Tienes la app de ChatGPT en tu Mac? Actualiza de inmediato si no quieres problemas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tienes-app-chatgpt-mac-actualiza-inmediato-no-quieres-problemas-1394043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-mac-3655447.jpg?tf=1200x' alt='¿Tienes la app de ChatGPT en tu Mac? Actualiza de inmediato si no quieres problemas' />
+    <h4><a href='https://computerhoy.com/google/como-salir-garras-google-no-morir-intento-1393405'>Cómo salir de las garras de Google y no morir en el intento</a></h4>
+    <a href='https://computerhoy.com/google/como-salir-garras-google-no-morir-intento-1393405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-salir-garras-google-no-morir-intento-3634661.jpg?tf=1200x' alt='Cómo salir de las garras de Google y no morir en el intento' />
     </a>
 </div>
 
