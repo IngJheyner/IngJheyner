@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ai-washing-como-empresas-suben-ola-inteligencia-artificial-enganarte-ocurriendo-1393728'>AI Washing o cómo las empresas se suben a la ola de la inteligencia artificial para engañarte: ¿Qué está ocurriendo?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ai-washing-como-empresas-suben-ola-inteligencia-artificial-enganarte-ocurriendo-1393728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ai-washing-inteligencia-artificial-3656327.jpg?tf=1200x' alt='AI Washing o cómo las empresas se suben a la ola de la inteligencia artificial para engañarte: ¿Qué está ocurriendo?' />
+    <h4><a href='https://computerhoy.com/apps/apps-inteligencia-artificial-te-haran-vida-facil-son-gratis-1393950'>9 apps con inteligencia artificial que te harán la vida más fácil (y son gratis)</a></h4>
+    <a href='https://computerhoy.com/apps/apps-inteligencia-artificial-te-haran-vida-facil-son-gratis-1393950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-humanos-3650781.jpg?tf=1200x' alt='9 apps con inteligencia artificial que te harán la vida más fácil (y son gratis)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/patinete-mas-barato-xiaomi-oferta-el-corte-ingles-1393417'>Certificado por la DGT y con un precio imbatible: el patinete más barato de Xiaomi hunde aún más su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/patinete-mas-barato-xiaomi-oferta-el-corte-ingles-1393417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-electric-scooter-4-go-3129618.jpg?tf=1200x' alt='Certificado por la DGT y con un precio imbatible: el patinete más barato de Xiaomi hunde aún más su precio' />
+    <h4><a href='https://computerhoy.com/gaming/pc-gaming-xbox-series-x-ps5-cual-mejor-jugar-2024-1387491'>PC gaming vs. consolas de última generación (Xbox Series X y PS5): cuál es mejor para jugar en 2024</a></h4>
+    <a href='https://computerhoy.com/gaming/pc-gaming-xbox-series-x-ps5-cual-mejor-jugar-2024-1387491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ps5-xbox-series-x-pc-gaming-mejor-jugar-3508432.jpg?tf=1200x' alt='PC gaming vs. consolas de última generación (Xbox Series X y PS5): cuál es mejor para jugar en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485'>Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo</a></h4>
-    <a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-grabar-podcast-audio-sonido-3535716.jpg?tf=1200x' alt='Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo' />
+    <h4><a href='https://computerhoy.com/apps/6-trucos-mejorar-eficiencia-microsoft-outlook-1393546'>6 trucos para mejorar la eficiencia de Microsoft Outlook</a></h4>
+    <a href='https://computerhoy.com/apps/6-trucos-mejorar-eficiencia-microsoft-outlook-1393546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/6-trucos-mejorar-eficiencia-microsoft-outlook-3637813.jpg?tf=1200x' alt='6 trucos para mejorar la eficiencia de Microsoft Outlook' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/atx-30-novedades-pc-1392495'>¿Qué es ATX 3.0 y qué novedades para tu PC?</a></h4>
-    <a href='https://computerhoy.com/pc/atx-30-novedades-pc-1392495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ordenador-dentro-3308352.jpg?tf=1200x' alt='¿Qué es ATX 3.0 y qué novedades para tu PC?' />
+    <h4><a href='https://computerhoy.com/internet/union-europea-denuncia-meta-violar-ley-mercados-digitales-1393598'>Después de Apple, la UE denuncia a Meta por violar la Ley de Mercados Digitales</a></h4>
+    <a href='https://computerhoy.com/internet/union-europea-denuncia-meta-violar-ley-mercados-digitales-1393598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/caida-mundial-whatsapp-instagram-threads-otros-servicios-meta-3295492.jpg?tf=1200x' alt='Después de Apple, la UE denuncia a Meta por violar la Ley de Mercados Digitales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-1394227'>Descubren el secreto del Mecanismo de Anticitera, gracias a los agujeros negros</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-1394227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-3661419.jpg?tf=1200x' alt='Descubren el secreto del Mecanismo de Anticitera, gracias a los agujeros negros' />
+    <h4><a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727'>Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? </a></h4>
+    <a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/jovenes-movil-3656617.jpg?tf=1200x' alt='Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? ' />
     </a>
 </div>
 
