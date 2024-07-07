@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/comprueba-datos-estan-dark-web-1320998'>Cómo saber si tus datos personales están en la dark web utilizando la herramienta gratis de Google</a></h4>
+    <a href='https://computerhoy.com/tecnologia/comprueba-datos-estan-dark-web-1320998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-saber-datos-personales-estan-dark-web-utilizando-herramienta-gratis-google-3197508.jpg?tf=1200x' alt='Cómo saber si tus datos personales están en la dark web utilizando la herramienta gratis de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-avisar-otros-conductores-peligro-google-maps-1393760'>Cómo avisar a otros conductores de un peligro en Google Maps</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-avisar-otros-conductores-peligro-google-maps-1393760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-avisar-otros-conductores-peligro-google-maps-3645043.jpg?tf=1200x' alt='Cómo avisar a otros conductores de un peligro en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-ha-hecho-amazon-prime-video-outer-range-grandes-series-quedaron-final-condiciones-1394141'>No solo lo ha hecho Amazon Prime Video con Outer Range: grandes series que se quedaron sin un final en condiciones</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/no-solo-ha-hecho-amazon-prime-video-outer-range-grandes-series-quedaron-final-condiciones-1394141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/outer-range-2666559.jpg?tf=1200x' alt='No solo lo ha hecho Amazon Prime Video con Outer Range: grandes series que se quedaron sin un final en condiciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/nosferatu-dracula-peliculas-miedo-han-trasformado-mito-vampiro-1393248'>De Nosferatu a Drácula, 5 películas de miedo que han trasformado el mito del vampiro</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/nosferatu-dracula-peliculas-miedo-han-trasformado-mito-vampiro-1393248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nosferatu-dracula-5-peliculas-miedo-han-trasformado-mito-vampiro-3615070.jpg?tf=1200x' alt='De Nosferatu a Drácula, 5 películas de miedo que han trasformado el mito del vampiro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cartera-digital-ver-porno-requisitos-solicitud-como-funciona-1393770'>Carnet digital de 30 días para ver porno: requisitos, solicitud y cómo funciona</a></h4>
     <a href='https://computerhoy.com/life/cartera-digital-ver-porno-requisitos-solicitud-como-funciona-1393770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/carnet-digital-30-dias-ver-porno-requisitos-solicitud-como-funciona-3644300.jpg?tf=1200x' alt='Carnet digital de 30 días para ver porno: requisitos, solicitud y cómo funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cohete-espanol-miura-5-pondra-orbita-gratis-satelites-colegios-empresas-1394484'>El cohete español MIURA 5 pondrá en órbita gratis satélites de colegios y empresas</a></h4>
-    <a href='https://computerhoy.com/espacio/cohete-espanol-miura-5-pondra-orbita-gratis-satelites-colegios-empresas-1394484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-espanol-miura-5-pondra-orbita-gratis-satelites-colegios-centros-educativos-3678435.jpg?tf=1200x' alt='El cohete español MIURA 5 pondrá en órbita gratis satélites de colegios y empresas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/clasico-stephen-king-tiene-casi-50-anos-cuya-pelicula-sigue-resistiendo-podria-estrenarse-2024-1394256'>El clásico de Stephen King que tiene casi 50 años y cuya película se sigue resistiendo, podría estrenarse en 2024</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/clasico-stephen-king-tiene-casi-50-anos-cuya-pelicula-sigue-resistiendo-podria-estrenarse-2024-1394256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/juego-tronos-temporada-8-stephen-king-defiende-estos-episodios.jpg?tf=1200x' alt='El clásico de Stephen King que tiene casi 50 años y cuya película se sigue resistiendo, podría estrenarse en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-1394219'>Por qué tu Smart TV de Samsung se enciende de forma aleatoria (y cómo solucionarlo)</a></h4>
-    <a href='https://computerhoy.com/tv/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-1394219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-3660867.jpg?tf=1200x' alt='Por qué tu Smart TV de Samsung se enciende de forma aleatoria (y cómo solucionarlo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737'>Por qué no debes enchufar la nevera inmediatamente después de una mudanza</a></h4>
-    <a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-3644452.jpg?tf=1200x' alt='Por qué no debes enchufar la nevera inmediatamente después de una mudanza' />
     </a>
 </div>
 
