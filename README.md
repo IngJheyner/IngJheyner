@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/32gb-ram-ryzen-7-mini-pc-amazon-1335360'>No te faltará RAM con este Mini PC: tiene 32GB y Ryzen 7, pero su precio es la mitad del que cabría esperar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/32gb-ram-ryzen-7-mini-pc-amazon-1335360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-amd-ryzen-3274364.jpg?tf=1200x' alt='No te faltará RAM con este Mini PC: tiene 32GB y Ryzen 7, pero su precio es la mitad del que cabría esperar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/steve-ballmer-ex-ceo-microsoft-mas-rico-bill-gates-1394221'>Steve Ballmer, el primer empleado de Microsoft que ya es más rico que Bill Gates</a></h4>
     <a href='https://computerhoy.com/tecnologia/steve-ballmer-ex-ceo-microsoft-mas-rico-bill-gates-1394221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bill-gates-ballmer-2468795.jpg?tf=1200x' alt='Steve Ballmer, el primer empleado de Microsoft que ya es más rico que Bill Gates' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/cohete-espacial-chino-estrella-space-pioneer-1393575'>Un cohete espacial chino despega sin querer y se estrella, provocando el pánico</a></h4>
     <a href='https://computerhoy.com/espacio/cohete-espacial-chino-estrella-space-pioneer-1393575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-espacial-chino-despega-querer-provocando-panico-3638307.jpg?tf=1200x' alt='Un cohete espacial chino despega sin querer y se estrella, provocando el pánico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/gran-novedad-apple-watch-x-pantalla-gigante-revelada-imagenes-1393574'>La gran novedad del Apple Watch X: su pantalla gigante revelada en imágenes</a></h4>
-    <a href='https://computerhoy.com/apple/gran-novedad-apple-watch-x-pantalla-gigante-revelada-imagenes-1393574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187116.jpg?tf=1200x' alt='La gran novedad del Apple Watch X: su pantalla gigante revelada en imágenes' />
     </a>
 </div>
 
