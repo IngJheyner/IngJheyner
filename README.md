@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-favorita-exprime-fibra-maximo-ahora-te-regala-esim-suscripcion-1394453'>Esta VPN es nuestra favorita y exprime tu fibra al máximo: ahora te regala una eSIM con la suscripción</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-favorita-exprime-fibra-maximo-ahora-te-regala-esim-suscripcion-1394453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nordvpn-3499104.jpg?tf=1200x' alt='Esta VPN es nuestra favorita y exprime tu fibra al máximo: ahora te regala una eSIM con la suscripción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/he-probado-muchas-lugar-duda-mejor-app-android-auto-youtube-tdt-gratis-1394214'>He probado muchas, y esta es sin lugar a duda la mejor app para Android Auto: YouTube, TDT gratis y más</a></h4>
+    <a href='https://computerhoy.com/android/he-probado-muchas-lugar-duda-mejor-app-android-auto-youtube-tdt-gratis-1394214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/he-probado-muchas-lugar-duda-mejor-app-android-auto-youtube-tdt-gratis-3659901.jpg?tf=1200x' alt='He probado muchas, y esta es sin lugar a duda la mejor app para Android Auto: YouTube, TDT gratis y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/puede-smart-tv-ser-hackeada-infectada-virus-1393611'>¿Puede tu Smart TV ser hackeada o infectada por un virus? </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/puede-smart-tv-ser-hackeada-infectada-virus-1393611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tv-infectada-malware-3641826.jpg?tf=1200x' alt='¿Puede tu Smart TV ser hackeada o infectada por un virus? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/multas-laliga-acceder-iptv-piratas-hacer-recibes-temidas-cartas-1393726'>Multas de LaLiga por acceder a IPTV piratas: qué hacer si recibes una de sus temidas cartas</a></h4>
     <a href='https://computerhoy.com/internet/multas-laliga-acceder-iptv-piratas-hacer-recibes-temidas-cartas-1393726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iptv-pirata-3663017.jpg?tf=1200x' alt='Multas de LaLiga por acceder a IPTV piratas: qué hacer si recibes una de sus temidas cartas' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-2-patente-revela-nueva-generacion-vista-gran-novedad-1394235'>¿Samsung Galaxy Ring 2? Esta patente revela nueva generación a la vista con una gran novedad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-2-patente-revela-nueva-generacion-vista-gran-novedad-1394235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-ring-3651234.jpg?tf=1200x' alt='¿Samsung Galaxy Ring 2? Esta patente revela nueva generación a la vista con una gran novedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-hace-saltar-alarmas-mucho-cuidado-llamada-telefono-1393608'>La Policía Nacional alerta a los españoles: mucho cuidado con este número de teléfono</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-hace-saltar-alarmas-mucho-cuidado-llamada-telefono-1393608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/policia-nacional-3655880.jpg?tf=1200x' alt='La Policía Nacional alerta a los españoles: mucho cuidado con este número de teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/cuanto-consume-aire-acondicionado-trucos-reducir-consumo-pasar-calor-1393937'>Cuánto consume un aire acondicionado y trucos para reducir el consumo sin pasar calor</a></h4>
-    <a href='https://computerhoy.com/hogar/cuanto-consume-aire-acondicionado-trucos-reducir-consumo-pasar-calor-1393937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aire-acondicionado-3662873.jpg?tf=1200x' alt='Cuánto consume un aire acondicionado y trucos para reducir el consumo sin pasar calor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/siempre-activo-funcion-google-maps-antes-salir-viaje-no-quiero-quedarme-tirado-lugares-no-conozco-1393259'>Siempre activo esta función de Google Maps antes de salir de viaje: no quiero quedarme tirado en lugares que no conozco</a></h4>
-    <a href='https://computerhoy.com/google/siempre-activo-funcion-google-maps-antes-salir-viaje-no-quiero-quedarme-tirado-lugares-no-conozco-1393259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/siempre-activo-funcion-google-maps-antes-salir-viaje-no-quiero-quedarme-tirado-lugares-no-conozco-3615975.jpg?tf=1200x' alt='Siempre activo esta función de Google Maps antes de salir de viaje: no quiero quedarme tirado en lugares que no conozco' />
+    <h4><a href='https://computerhoy.com/life/palabras-magicas-debes-decir-no-quieres-recibir-llamadas-spam-empresa-1393235'>Las palabras mágicas que debes decir si no quieres recibir más llamadas spam de una empresa</a></h4>
+    <a href='https://computerhoy.com/life/palabras-magicas-debes-decir-no-quieres-recibir-llamadas-spam-empresa-1393235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamadas-spam-3663187.jpg?tf=1200x' alt='Las palabras mágicas que debes decir si no quieres recibir más llamadas spam de una empresa' />
     </a>
 </div>
 
