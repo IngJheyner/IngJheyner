@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cartera-digital-ver-porno-requisitos-solicitud-como-funciona-1393770'>Carnet digital de 30 días para ver porno: requisitos, solicitud y cómo funciona</a></h4>
+    <a href='https://computerhoy.com/life/cartera-digital-ver-porno-requisitos-solicitud-como-funciona-1393770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/carnet-digital-30-dias-ver-porno-requisitos-solicitud-como-funciona-3644300.jpg?tf=1200x' alt='Carnet digital de 30 días para ver porno: requisitos, solicitud y cómo funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cohete-espanol-miura-5-pondra-orbita-gratis-satelites-colegios-empresas-1394484'>El cohete español MIURA 5 pondrá en órbita gratis satélites de colegios y empresas</a></h4>
+    <a href='https://computerhoy.com/espacio/cohete-espanol-miura-5-pondra-orbita-gratis-satelites-colegios-empresas-1394484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-espanol-miura-5-pondra-orbita-gratis-satelites-colegios-centros-educativos-3678435.jpg?tf=1200x' alt='El cohete español MIURA 5 pondrá en órbita gratis satélites de colegios y empresas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/clasico-stephen-king-tiene-casi-50-anos-cuya-pelicula-sigue-resistiendo-podria-estrenarse-2024-1394256'>El clásico de Stephen King que tiene casi 50 años y cuya película se sigue resistiendo, podría estrenarse en 2024</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/clasico-stephen-king-tiene-casi-50-anos-cuya-pelicula-sigue-resistiendo-podria-estrenarse-2024-1394256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/juego-tronos-temporada-8-stephen-king-defiende-estos-episodios.jpg?tf=1200x' alt='El clásico de Stephen King que tiene casi 50 años y cuya película se sigue resistiendo, podría estrenarse en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-1394219'>Por qué tu Smart TV de Samsung se enciende de forma aleatoria (y cómo solucionarlo)</a></h4>
+    <a href='https://computerhoy.com/tv/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-1394219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-samsung-enciende-forma-aleatoria-como-solucionarlo-3660867.jpg?tf=1200x' alt='Por qué tu Smart TV de Samsung se enciende de forma aleatoria (y cómo solucionarlo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737'>Por qué no debes enchufar la nevera inmediatamente después de una mudanza</a></h4>
     <a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-3644452.jpg?tf=1200x' alt='Por qué no debes enchufar la nevera inmediatamente después de una mudanza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-habitual-airbnb-verano-consiste-como-evitarla-1394290'>La estafa más habitual de Airbnb este verano: en qué consiste y cómo evitarla</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafa-habitual-airbnb-verano-consiste-como-evitarla-1394290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/airbnb-3663645.jpg?tf=1200x' alt='La estafa más habitual de Airbnb este verano: en qué consiste y cómo evitarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nike-elimina-app-controla-zapatillas-atan-solas-pierden-funciones-1394482'>Nike se carga la app que controla las zapatillas que se atan solas, y pierden funciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nike-elimina-app-controla-zapatillas-atan-solas-pierden-funciones-1394482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nike-carga-app-controla-zapatillas-atan-solas-pierden-funciones-3677943.jpg?tf=1200x' alt='Nike se carga la app que controla las zapatillas que se atan solas, y pierden funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-herramientas-reparar-limpiar-acelerar-pc-windows-1392540'>Las mejores herramientas para reparar, limpiar y acelerar cualquier PC con Windows</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-herramientas-reparar-limpiar-acelerar-pc-windows-1392540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mejores-herramientas-reparar-limpiar-acelerar-cualquier-pc-windows-3589708.jpg?tf=1200x' alt='Las mejores herramientas para reparar, limpiar y acelerar cualquier PC con Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/increible-pero-cierto-steve-jobs-predijo-ia-apple-hace-40-anos-1394321'>Increíble pero cierto: Steve Jobs predijo la IA de Apple hace 40 años</a></h4>
-    <a href='https://computerhoy.com/apple/increible-pero-cierto-steve-jobs-predijo-ia-apple-hace-40-anos-1394321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/steve-jobs-ia-3663643.jpg?tf=1200x' alt='Increíble pero cierto: Steve Jobs predijo la IA de Apple hace 40 años' />
     </a>
 </div>
 
