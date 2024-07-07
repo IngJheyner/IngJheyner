@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/investigadores-disenan-robot-empaquetar-compras-supermercado-1394472'>Investigadores diseñan un robot para empaquetar tus compras en el supermercado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/investigadores-disenan-robot-empaquetar-compras-supermercado-1394472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/investigadores-disenan-robot-empaquetar-compras-supermercado-3676523.jpg?tf=1200x' alt='Investigadores diseñan un robot para empaquetar tus compras en el supermercado' />
+    <h4><a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307'>Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato</a></h4>
+    <a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamadas-fantasma-spam-3662864.jpg?tf=1200x' alt='Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-tiendas-estan-toda-espana-venden-productos-electronicos-1-euro-todos-jueves-1394306'>Estas tiendas están por toda España y venden productos electrónicos por 1 euro todos los jueves</a></h4>
-    <a href='https://computerhoy.com/life/estas-tiendas-estan-toda-espana-venden-productos-electronicos-1-euro-todos-jueves-1394306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/donde-crazy-day-factory-tiendas-comprar-devoluciones-amazon-precio-saldo-3219956.jpg?tf=1200x' alt='Estas tiendas están por toda España y venden productos electrónicos por 1 euro todos los jueves' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/hackers-atacan-modelo-router-wifi-d-link-pero-niegan-parchearlo-buena-razon-1393685'>Hackers atacan un modelo de router WiFi de D-Link, pero se niegan a parchearlo por una buena razón</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hackers-atacan-modelo-router-wifi-d-link-pero-niegan-parchearlo-buena-razon-1393685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='Hackers atacan un modelo de router WiFi de D-Link, pero se niegan a parchearlo por una buena razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-ha-filtrado-version-perfecta-riesgo-seguridad-1393658'>Este Windows 11 que se ha filtrado es ¿una versión perfecta o un riesgo para la seguridad?</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-ha-filtrado-version-perfecta-riesgo-seguridad-1393658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/windows-11-pc-3641997.jpg?tf=1200x' alt='Este Windows 11 que se ha filtrado es ¿una versión perfecta o un riesgo para la seguridad?' />
+    <h4><a href='https://computerhoy.com/redes/wifi-pineapple-como-funciona-router-hackers-1392252'>WiFi Pineapple: qué es y cómo funciona el router de los hackers</a></h4>
+    <a href='https://computerhoy.com/redes/wifi-pineapple-como-funciona-router-hackers-1392252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wifi-pineapple-como-funciona-router-hackers-3566788.jpg?tf=1200x' alt='WiFi Pineapple: qué es y cómo funciona el router de los hackers' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-considerando-eliminar-funcion-muy-importante-seguridad-chrome-1394465'>Google está considerando eliminar esta función muy importante de seguridad de Chrome</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-considerando-eliminar-funcion-muy-importante-seguridad-chrome-1394465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/9-ajustes-imprescindibles-mejorar-seguridad-privacidad-google-chrome-3216774.jpg?tf=1200x' alt='Google está considerando eliminar esta función muy importante de seguridad de Chrome' />
+    <h4><a href='https://computerhoy.com/gaming/nintendo-aprende-errores-playstation-5-inundara-tiendas-nintendo-switch-2-acabar-revendedores-1393632'>Nintendo aprende de los errores de PlayStation 5: inundará las tiendas de Nintendo Switch 2 para acabar con los revendedores</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-aprende-errores-playstation-5-inundara-tiendas-nintendo-switch-2-acabar-revendedores-1393632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nintendo-switch-2-3272297.jpg?tf=1200x' alt='Nintendo aprende de los errores de PlayStation 5: inundará las tiendas de Nintendo Switch 2 para acabar con los revendedores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-whatsapp-enviar-fotos-videos-hd-forma-predeterminada-1394019'>Cómo configurar WhatsApp para enviar fotos y vídeos en HD de forma predeterminada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-whatsapp-enviar-fotos-videos-hd-forma-predeterminada-1394019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-configurar-whatsapp-enviar-fotos-videos-hd-forma-predeterminada-3654900.jpg?tf=1200x' alt='Cómo configurar WhatsApp para enviar fotos y vídeos en HD de forma predeterminada' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-1392538'>Cómo compartir tu ubicación en tiempo real en Google Maps, WhatsApp y Telegram</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-1392538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-3663333.jpg?tf=1200x' alt='Cómo compartir tu ubicación en tiempo real en Google Maps, WhatsApp y Telegram' />
     </a>
 </div>
 
