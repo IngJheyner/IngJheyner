@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737'>Por qué no debes enchufar la nevera inmediatamente después de una mudanza</a></h4>
+    <a href='https://computerhoy.com/hogar/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-1393737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-debes-enchufar-nevera-inmediatamente-despues-mudanza-3644452.jpg?tf=1200x' alt='Por qué no debes enchufar la nevera inmediatamente después de una mudanza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-habitual-airbnb-verano-consiste-como-evitarla-1394290'>La estafa más habitual de Airbnb este verano: en qué consiste y cómo evitarla</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafa-habitual-airbnb-verano-consiste-como-evitarla-1394290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/airbnb-3663645.jpg?tf=1200x' alt='La estafa más habitual de Airbnb este verano: en qué consiste y cómo evitarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nike-elimina-app-controla-zapatillas-atan-solas-pierden-funciones-1394482'>Nike se carga la app que controla las zapatillas que se atan solas, y pierden funciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nike-elimina-app-controla-zapatillas-atan-solas-pierden-funciones-1394482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nike-carga-app-controla-zapatillas-atan-solas-pierden-funciones-3677943.jpg?tf=1200x' alt='Nike se carga la app que controla las zapatillas que se atan solas, y pierden funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-herramientas-reparar-limpiar-acelerar-pc-windows-1392540'>Las mejores herramientas para reparar, limpiar y acelerar cualquier PC con Windows</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-herramientas-reparar-limpiar-acelerar-pc-windows-1392540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mejores-herramientas-reparar-limpiar-acelerar-cualquier-pc-windows-3589708.jpg?tf=1200x' alt='Las mejores herramientas para reparar, limpiar y acelerar cualquier PC con Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/increible-pero-cierto-steve-jobs-predijo-ia-apple-hace-40-anos-1394321'>Increíble pero cierto: Steve Jobs predijo la IA de Apple hace 40 años</a></h4>
     <a href='https://computerhoy.com/apple/increible-pero-cierto-steve-jobs-predijo-ia-apple-hace-40-anos-1394321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/steve-jobs-ia-3663643.jpg?tf=1200x' alt='Increíble pero cierto: Steve Jobs predijo la IA de Apple hace 40 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/10-razones-peso-actualizar-windows-11-abandonar-windows-10-1393298'>Mis 10 razones de peso para actualizar a Windows 11 y abandonar Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/10-razones-peso-actualizar-windows-11-abandonar-windows-10-1393298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-razones-peso-actualizar-windows-11-abandonar-windows-10-3619001.jpg?tf=1200x' alt='Mis 10 razones de peso para actualizar a Windows 11 y abandonar Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sencillas-acciones-movil-desconectar-verdad-vacaciones-1392001'>3 sencillas acciones con el móvil para desconectar de verdad en vacaciones</a></h4>
-    <a href='https://computerhoy.com/moviles/sencillas-acciones-movil-desconectar-verdad-vacaciones-1392001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/3-sencillas-acciones-movil-desconectar-verdad-vacaciones-3555735.jpg?tf=1200x' alt='3 sencillas acciones con el móvil para desconectar de verdad en vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/logran-gpu-utilicen-memoria-adjunta-pcie-capacidad-ampliada-gracias-nueva-tecnologia-1394246'>Logran que las GPU utilicen memoria adjunta a PCIe para una capacidad ampliada gracias a una nueva tecnología</a></h4>
-    <a href='https://computerhoy.com/tecnologia/logran-gpu-utilicen-memoria-adjunta-pcie-capacidad-ampliada-gracias-nueva-tecnologia-1394246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/gpu-1867157.jpg?tf=1200x' alt='Logran que las GPU utilicen memoria adjunta a PCIe para una capacidad ampliada gracias a una nueva tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/tinder-obliga-pareja-conocerse-persona-pasar-3-anos-chateando-app-1394283'>Tinder obliga a un pareja a conocerse en persona tras pasar 3 años chateando por la app</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/tinder-obliga-pareja-conocerse-persona-pasar-3-anos-chateando-app-1394283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pareja-tinder-3663503.jpg?tf=1200x' alt='Tinder obliga a un pareja a conocerse en persona tras pasar 3 años chateando por la app' />
     </a>
 </div>
 
