@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/amante-vino-agradece-asteroide-extermino-dinosaurios-1394475'>¿Amante del vino? Agradece al asteroide que exterminó a los dinosaurios</a></h4>
+    <a href='https://computerhoy.com/life/amante-vino-agradece-asteroide-extermino-dinosaurios-1394475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-te-permite-ver-donde-estaba-casa-epoca-dinosaurios-3024004.jpg?tf=1200x' alt='¿Amante del vino? Agradece al asteroide que exterminó a los dinosaurios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/estrategia-presion-amenazas-microsoft-usuarios-windows-10-comienza-dar-frutos-1393643'>La estrategia de presión y amenazas de Microsoft a los usuarios de Windows 10 comienza a dar sus frutos</a></h4>
+    <a href='https://computerhoy.com/windows/estrategia-presion-amenazas-microsoft-usuarios-windows-10-comienza-dar-frutos-1393643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amenazadas-usuarios-windows-10-3642611.jpg?tf=1200x' alt='La estrategia de presión y amenazas de Microsoft a los usuarios de Windows 10 comienza a dar sus frutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307'>Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato</a></h4>
     <a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamadas-fantasma-spam-3662864.jpg?tf=1200x' alt='Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/wifi-pineapple-como-funciona-router-hackers-1392252'>WiFi Pineapple: qué es y cómo funciona el router de los hackers</a></h4>
     <a href='https://computerhoy.com/redes/wifi-pineapple-como-funciona-router-hackers-1392252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wifi-pineapple-como-funciona-router-hackers-3566788.jpg?tf=1200x' alt='WiFi Pineapple: qué es y cómo funciona el router de los hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-aprende-errores-playstation-5-inundara-tiendas-nintendo-switch-2-acabar-revendedores-1393632'>Nintendo aprende de los errores de PlayStation 5: inundará las tiendas de Nintendo Switch 2 para acabar con los revendedores</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-aprende-errores-playstation-5-inundara-tiendas-nintendo-switch-2-acabar-revendedores-1393632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nintendo-switch-2-3272297.jpg?tf=1200x' alt='Nintendo aprende de los errores de PlayStation 5: inundará las tiendas de Nintendo Switch 2 para acabar con los revendedores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-1392538'>Cómo compartir tu ubicación en tiempo real en Google Maps, WhatsApp y Telegram</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-1392538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-3663333.jpg?tf=1200x' alt='Cómo compartir tu ubicación en tiempo real en Google Maps, WhatsApp y Telegram' />
     </a>
 </div>
 
