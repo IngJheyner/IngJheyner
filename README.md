@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/pictionary-contra-ia-1394490'>Ya está a la venta el Pictionary en el que juegas contra la IA</a></h4>
+    <a href='https://computerhoy.com/gaming/pictionary-contra-ia-1394490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1720387699936-3679792.jpg?tf=1200x' alt='Ya está a la venta el Pictionary en el que juegas contra la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-desvela-espectacular-estacion-espacial-gateway-luna-1394489'>La NASA desvela la espectacular estación espacial Gateway, que orbitará la Luna</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-desvela-espectacular-estacion-espacial-gateway-luna-1394489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1720382225470-3679367.jpg?tf=1200x' alt='La NASA desvela la espectacular estación espacial Gateway, que orbitará la Luna' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/vives-ccaa-enhorabuena-podras-echar-gasolina-gasolineras-baratas-espana-1393782'>Si vives en esta CC.AA enhorabuena: podrás echar gasolina en las gasolineras más baratas de España</a></h4>
     <a href='https://computerhoy.com/life/vives-ccaa-enhorabuena-podras-echar-gasolina-gasolineras-baratas-espana-1393782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gasolinera-3645461.jpg?tf=1200x' alt='Si vives en esta CC.AA enhorabuena: podrás echar gasolina en las gasolineras más baratas de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-1394375'>Todo el mundo lo tiene en casa y es el enemigo de tu WiFi: aléjalo todo lo que puedas</a></h4>
-    <a href='https://computerhoy.com/redes/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-1394375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-3665618.jpg?tf=1200x' alt='Todo el mundo lo tiene en casa y es el enemigo de tu WiFi: aléjalo todo lo que puedas' />
     </a>
 </div>
 
