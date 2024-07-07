@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-favorita-exprime-fibra-maximo-ahora-te-regala-esim-suscripcion-1394453'>Esta VPN es nuestra favorita y exprime tu fibra al máximo: ahora te regala una eSIM con la suscripción</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-favorita-exprime-fibra-maximo-ahora-te-regala-esim-suscripcion-1394453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nordvpn-3499104.jpg?tf=1200x' alt='Esta VPN es nuestra favorita y exprime tu fibra al máximo: ahora te regala una eSIM con la suscripción' />
+    <h4><a href='https://computerhoy.com/windows/funcion-oculta-windows-11-puede-evitar-pc-vaya-lento-1393628'>Esta función oculta de Windows 11 puede evitar que tu PC vaya lento</a></h4>
+    <a href='https://computerhoy.com/windows/funcion-oculta-windows-11-puede-evitar-pc-vaya-lento-1393628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-3391674.jpg?tf=1200x' alt='Esta función oculta de Windows 11 puede evitar que tu PC vaya lento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/he-probado-muchas-lugar-duda-mejor-app-android-auto-youtube-tdt-gratis-1394214'>He probado muchas, y esta es sin lugar a duda la mejor app para Android Auto: YouTube, TDT gratis y más</a></h4>
-    <a href='https://computerhoy.com/android/he-probado-muchas-lugar-duda-mejor-app-android-auto-youtube-tdt-gratis-1394214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/he-probado-muchas-lugar-duda-mejor-app-android-auto-youtube-tdt-gratis-3659901.jpg?tf=1200x' alt='He probado muchas, y esta es sin lugar a duda la mejor app para Android Auto: YouTube, TDT gratis y más' />
+    <h4><a href='https://computerhoy.com/life/goodbye-cuelgan-funcionan-robollamadas-teleoperadoras-1331900'>Descuelgo, me dicen "goodbye" y cuelgan: así funcionan las robollamadas</a></h4>
+    <a href='https://computerhoy.com/life/goodbye-cuelgan-funcionan-robollamadas-teleoperadoras-1331900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/robollamadas-3216106.jpg?tf=1200x' alt='Descuelgo, me dicen "goodbye" y cuelgan: así funcionan las robollamadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/puede-smart-tv-ser-hackeada-infectada-virus-1393611'>¿Puede tu Smart TV ser hackeada o infectada por un virus? </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/puede-smart-tv-ser-hackeada-infectada-virus-1393611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tv-infectada-malware-3641826.jpg?tf=1200x' alt='¿Puede tu Smart TV ser hackeada o infectada por un virus? ' />
+    <h4><a href='https://computerhoy.com/apple/apple-planea-lanzar-dispositivo-hogar-ia-fusionando-homepod-apple-tv-1394462'>Apple planea lanzar un dispositivo para el hogar con IA fusionando HomePod y Apple TV</a></h4>
+    <a href='https://computerhoy.com/apple/apple-planea-lanzar-dispositivo-hogar-ia-fusionando-homepod-apple-tv-1394462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-renueva-altavoz-inteligente-nuevo-homepod-soporte-matter-mejor-sonido-2931740.jpg?tf=1200x' alt='Apple planea lanzar un dispositivo para el hogar con IA fusionando HomePod y Apple TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/multas-laliga-acceder-iptv-piratas-hacer-recibes-temidas-cartas-1393726'>Multas de LaLiga por acceder a IPTV piratas: qué hacer si recibes una de sus temidas cartas</a></h4>
-    <a href='https://computerhoy.com/internet/multas-laliga-acceder-iptv-piratas-hacer-recibes-temidas-cartas-1393726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iptv-pirata-3663017.jpg?tf=1200x' alt='Multas de LaLiga por acceder a IPTV piratas: qué hacer si recibes una de sus temidas cartas' />
+    <h4><a href='https://computerhoy.com/tv/funcion-amazon-fire-stick-1291866'>La función poco conocida que se esconde en tu Amazon Fire Stick para disfrutar de series y películas </a></h4>
+    <a href='https://computerhoy.com/tv/funcion-amazon-fire-stick-1291866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/funcion-poco-conocida-esconde-amazon-fire-stick-disfrutar-series-peliculas-3112020.jpg?tf=1200x' alt='La función poco conocida que se esconde en tu Amazon Fire Stick para disfrutar de series y películas ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/palabras-magicas-debes-decir-no-quieres-recibir-llamadas-spam-empresa-1393235'>Las palabras mágicas que debes decir si no quieres recibir más llamadas spam de una empresa</a></h4>
-    <a href='https://computerhoy.com/life/palabras-magicas-debes-decir-no-quieres-recibir-llamadas-spam-empresa-1393235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamadas-spam-3663187.jpg?tf=1200x' alt='Las palabras mágicas que debes decir si no quieres recibir más llamadas spam de una empresa' />
+    <h4><a href='https://computerhoy.com/tecnologia/quieres-usar-ia-mac-windows-app-escritorio-haces-forma-segura-privada-1394264'>¿Quieres usar la IA en Mac o Windows? Con esta app de escritorio lo haces de forma segura y privada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quieres-usar-ia-mac-windows-app-escritorio-haces-forma-segura-privada-1394264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robot-ordenador-3662566.jpg?tf=1200x' alt='¿Quieres usar la IA en Mac o Windows? Con esta app de escritorio lo haces de forma segura y privada' />
     </a>
 </div>
 
