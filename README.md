@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/increible-pero-cierto-steve-jobs-predijo-ia-apple-hace-40-anos-1394321'>Increíble pero cierto: Steve Jobs predijo la IA de Apple hace 40 años</a></h4>
+    <a href='https://computerhoy.com/apple/increible-pero-cierto-steve-jobs-predijo-ia-apple-hace-40-anos-1394321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/steve-jobs-ia-3663643.jpg?tf=1200x' alt='Increíble pero cierto: Steve Jobs predijo la IA de Apple hace 40 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/10-razones-peso-actualizar-windows-11-abandonar-windows-10-1393298'>Mis 10 razones de peso para actualizar a Windows 11 y abandonar Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/10-razones-peso-actualizar-windows-11-abandonar-windows-10-1393298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-razones-peso-actualizar-windows-11-abandonar-windows-10-3619001.jpg?tf=1200x' alt='Mis 10 razones de peso para actualizar a Windows 11 y abandonar Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/sencillas-acciones-movil-desconectar-verdad-vacaciones-1392001'>3 sencillas acciones con el móvil para desconectar de verdad en vacaciones</a></h4>
     <a href='https://computerhoy.com/moviles/sencillas-acciones-movil-desconectar-verdad-vacaciones-1392001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/3-sencillas-acciones-movil-desconectar-verdad-vacaciones-3555735.jpg?tf=1200x' alt='3 sencillas acciones con el móvil para desconectar de verdad en vacaciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/tinder-obliga-pareja-conocerse-persona-pasar-3-anos-chateando-app-1394283'>Tinder obliga a un pareja a conocerse en persona tras pasar 3 años chateando por la app</a></h4>
     <a href='https://computerhoy.com/entretenimiento/tinder-obliga-pareja-conocerse-persona-pasar-3-anos-chateando-app-1394283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pareja-tinder-3663503.jpg?tf=1200x' alt='Tinder obliga a un pareja a conocerse en persona tras pasar 3 años chateando por la app' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-podria-costar-esperado-1394476'>El Samsung Galaxy Ring podría costar más de lo esperado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-podria-costar-esperado-1394476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-ring-3651234.jpg?tf=1200x' alt='El Samsung Galaxy Ring podría costar más de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/amante-vino-agradece-asteroide-extermino-dinosaurios-1394475'>¿Amante del vino? Agradece al asteroide que exterminó a los dinosaurios</a></h4>
-    <a href='https://computerhoy.com/life/amante-vino-agradece-asteroide-extermino-dinosaurios-1394475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-te-permite-ver-donde-estaba-casa-epoca-dinosaurios-3024004.jpg?tf=1200x' alt='¿Amante del vino? Agradece al asteroide que exterminó a los dinosaurios' />
     </a>
 </div>
 
