@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/logran-gpu-utilicen-memoria-adjunta-pcie-capacidad-ampliada-gracias-nueva-tecnologia-1394246'>Logran que las GPU utilicen memoria adjunta a PCIe para una capacidad ampliada gracias a una nueva tecnología</a></h4>
+    <a href='https://computerhoy.com/tecnologia/logran-gpu-utilicen-memoria-adjunta-pcie-capacidad-ampliada-gracias-nueva-tecnologia-1394246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/gpu-1867157.jpg?tf=1200x' alt='Logran que las GPU utilicen memoria adjunta a PCIe para una capacidad ampliada gracias a una nueva tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/tinder-obliga-pareja-conocerse-persona-pasar-3-anos-chateando-app-1394283'>Tinder obliga a un pareja a conocerse en persona tras pasar 3 años chateando por la app</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/tinder-obliga-pareja-conocerse-persona-pasar-3-anos-chateando-app-1394283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pareja-tinder-3663503.jpg?tf=1200x' alt='Tinder obliga a un pareja a conocerse en persona tras pasar 3 años chateando por la app' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-podria-costar-esperado-1394476'>El Samsung Galaxy Ring podría costar más de lo esperado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-podria-costar-esperado-1394476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-ring-3651234.jpg?tf=1200x' alt='El Samsung Galaxy Ring podría costar más de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/amante-vino-agradece-asteroide-extermino-dinosaurios-1394475'>¿Amante del vino? Agradece al asteroide que exterminó a los dinosaurios</a></h4>
     <a href='https://computerhoy.com/life/amante-vino-agradece-asteroide-extermino-dinosaurios-1394475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-te-permite-ver-donde-estaba-casa-epoca-dinosaurios-3024004.jpg?tf=1200x' alt='¿Amante del vino? Agradece al asteroide que exterminó a los dinosaurios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/estrategia-presion-amenazas-microsoft-usuarios-windows-10-comienza-dar-frutos-1393643'>La estrategia de presión y amenazas de Microsoft a los usuarios de Windows 10 comienza a dar sus frutos</a></h4>
     <a href='https://computerhoy.com/windows/estrategia-presion-amenazas-microsoft-usuarios-windows-10-comienza-dar-frutos-1393643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amenazadas-usuarios-windows-10-3642611.jpg?tf=1200x' alt='La estrategia de presión y amenazas de Microsoft a los usuarios de Windows 10 comienza a dar sus frutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307'>Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato</a></h4>
-    <a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamadas-fantasma-spam-3662864.jpg?tf=1200x' alt='Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hackers-atacan-modelo-router-wifi-d-link-pero-niegan-parchearlo-buena-razon-1393685'>Hackers atacan un modelo de router WiFi de D-Link, pero se niegan a parchearlo por una buena razón</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hackers-atacan-modelo-router-wifi-d-link-pero-niegan-parchearlo-buena-razon-1393685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='Hackers atacan un modelo de router WiFi de D-Link, pero se niegan a parchearlo por una buena razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/wifi-pineapple-como-funciona-router-hackers-1392252'>WiFi Pineapple: qué es y cómo funciona el router de los hackers</a></h4>
-    <a href='https://computerhoy.com/redes/wifi-pineapple-como-funciona-router-hackers-1392252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wifi-pineapple-como-funciona-router-hackers-3566788.jpg?tf=1200x' alt='WiFi Pineapple: qué es y cómo funciona el router de los hackers' />
     </a>
 </div>
 
