@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/apps-inteligencia-artificial-te-haran-vida-facil-son-gratis-1393950'>9 apps con inteligencia artificial que te harán la vida más fácil (y son gratis)</a></h4>
-    <a href='https://computerhoy.com/apps/apps-inteligencia-artificial-te-haran-vida-facil-son-gratis-1393950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-humanos-3650781.jpg?tf=1200x' alt='9 apps con inteligencia artificial que te harán la vida más fácil (y son gratis)' />
+    <h4><a href='https://computerhoy.com/internet/multas-laliga-acceder-iptv-piratas-hacer-recibes-temidas-cartas-1393726'>Multas de LaLiga por acceder a IPTV piratas: qué hacer si recibes una de sus temidas cartas</a></h4>
+    <a href='https://computerhoy.com/internet/multas-laliga-acceder-iptv-piratas-hacer-recibes-temidas-cartas-1393726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iptv-pirata-3663017.jpg?tf=1200x' alt='Multas de LaLiga por acceder a IPTV piratas: qué hacer si recibes una de sus temidas cartas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/pc-gaming-xbox-series-x-ps5-cual-mejor-jugar-2024-1387491'>PC gaming vs. consolas de última generación (Xbox Series X y PS5): cuál es mejor para jugar en 2024</a></h4>
-    <a href='https://computerhoy.com/gaming/pc-gaming-xbox-series-x-ps5-cual-mejor-jugar-2024-1387491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ps5-xbox-series-x-pc-gaming-mejor-jugar-3508432.jpg?tf=1200x' alt='PC gaming vs. consolas de última generación (Xbox Series X y PS5): cuál es mejor para jugar en 2024' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-2-patente-revela-nueva-generacion-vista-gran-novedad-1394235'>¿Samsung Galaxy Ring 2? Esta patente revela nueva generación a la vista con una gran novedad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-2-patente-revela-nueva-generacion-vista-gran-novedad-1394235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-ring-3651234.jpg?tf=1200x' alt='¿Samsung Galaxy Ring 2? Esta patente revela nueva generación a la vista con una gran novedad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/6-trucos-mejorar-eficiencia-microsoft-outlook-1393546'>6 trucos para mejorar la eficiencia de Microsoft Outlook</a></h4>
-    <a href='https://computerhoy.com/apps/6-trucos-mejorar-eficiencia-microsoft-outlook-1393546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/6-trucos-mejorar-eficiencia-microsoft-outlook-3637813.jpg?tf=1200x' alt='6 trucos para mejorar la eficiencia de Microsoft Outlook' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-hace-saltar-alarmas-mucho-cuidado-llamada-telefono-1393608'>La Policía Nacional alerta a los españoles: mucho cuidado con este número de teléfono</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-hace-saltar-alarmas-mucho-cuidado-llamada-telefono-1393608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/policia-nacional-3655880.jpg?tf=1200x' alt='La Policía Nacional alerta a los españoles: mucho cuidado con este número de teléfono' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/union-europea-denuncia-meta-violar-ley-mercados-digitales-1393598'>Después de Apple, la UE denuncia a Meta por violar la Ley de Mercados Digitales</a></h4>
-    <a href='https://computerhoy.com/internet/union-europea-denuncia-meta-violar-ley-mercados-digitales-1393598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/caida-mundial-whatsapp-instagram-threads-otros-servicios-meta-3295492.jpg?tf=1200x' alt='Después de Apple, la UE denuncia a Meta por violar la Ley de Mercados Digitales' />
+    <h4><a href='https://computerhoy.com/hogar/cuanto-consume-aire-acondicionado-trucos-reducir-consumo-pasar-calor-1393937'>Cuánto consume un aire acondicionado y trucos para reducir el consumo sin pasar calor</a></h4>
+    <a href='https://computerhoy.com/hogar/cuanto-consume-aire-acondicionado-trucos-reducir-consumo-pasar-calor-1393937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aire-acondicionado-3662873.jpg?tf=1200x' alt='Cuánto consume un aire acondicionado y trucos para reducir el consumo sin pasar calor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727'>Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? </a></h4>
-    <a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/jovenes-movil-3656617.jpg?tf=1200x' alt='Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? ' />
+    <h4><a href='https://computerhoy.com/google/siempre-activo-funcion-google-maps-antes-salir-viaje-no-quiero-quedarme-tirado-lugares-no-conozco-1393259'>Siempre activo esta función de Google Maps antes de salir de viaje: no quiero quedarme tirado en lugares que no conozco</a></h4>
+    <a href='https://computerhoy.com/google/siempre-activo-funcion-google-maps-antes-salir-viaje-no-quiero-quedarme-tirado-lugares-no-conozco-1393259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/siempre-activo-funcion-google-maps-antes-salir-viaje-no-quiero-quedarme-tirado-lugares-no-conozco-3615975.jpg?tf=1200x' alt='Siempre activo esta función de Google Maps antes de salir de viaje: no quiero quedarme tirado en lugares que no conozco' />
     </a>
 </div>
 
