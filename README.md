@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/32gb-ram-ryzen-7-mini-pc-amazon-1335360'>No te faltará RAM con este Mini PC: tiene 32GB y Ryzen 7, pero su precio es la mitad del que cabría esperar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/32gb-ram-ryzen-7-mini-pc-amazon-1335360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-amd-ryzen-3274364.jpg?tf=1200x' alt='No te faltará RAM con este Mini PC: tiene 32GB y Ryzen 7, pero su precio es la mitad del que cabría esperar' />
+    <h4><a href='https://computerhoy.com/tecnologia/ai-washing-como-empresas-suben-ola-inteligencia-artificial-enganarte-ocurriendo-1393728'>AI Washing o cómo las empresas se suben a la ola de la inteligencia artificial para engañarte: ¿Qué está ocurriendo?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ai-washing-como-empresas-suben-ola-inteligencia-artificial-enganarte-ocurriendo-1393728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ai-washing-inteligencia-artificial-3656327.jpg?tf=1200x' alt='AI Washing o cómo las empresas se suben a la ola de la inteligencia artificial para engañarte: ¿Qué está ocurriendo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/steve-ballmer-ex-ceo-microsoft-mas-rico-bill-gates-1394221'>Steve Ballmer, el primer empleado de Microsoft que ya es más rico que Bill Gates</a></h4>
-    <a href='https://computerhoy.com/tecnologia/steve-ballmer-ex-ceo-microsoft-mas-rico-bill-gates-1394221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bill-gates-ballmer-2468795.jpg?tf=1200x' alt='Steve Ballmer, el primer empleado de Microsoft que ya es más rico que Bill Gates' />
+    <h4><a href='https://computerhoy.com/tecnologia/patinete-mas-barato-xiaomi-oferta-el-corte-ingles-1393417'>Certificado por la DGT y con un precio imbatible: el patinete más barato de Xiaomi hunde aún más su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/patinete-mas-barato-xiaomi-oferta-el-corte-ingles-1393417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-electric-scooter-4-go-3129618.jpg?tf=1200x' alt='Certificado por la DGT y con un precio imbatible: el patinete más barato de Xiaomi hunde aún más su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/increible-robot-humanoide-ya-trabaja-fabricas-realizara-otros-trabajos-futuro-1394120'>Así es el increíble robot humanoide que ya trabaja en fábricas, y que realizará otros trabajos en el futuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/increible-robot-humanoide-ya-trabaja-fabricas-realizara-otros-trabajos-futuro-1394120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robot-humanoide-3656905.jpg?tf=1200x' alt='Así es el increíble robot humanoide que ya trabaja en fábricas, y que realizará otros trabajos en el futuro' />
+    <h4><a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485'>Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo</a></h4>
+    <a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-grabar-podcast-audio-sonido-3535716.jpg?tf=1200x' alt='Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/bill-gates-dice-no-debemos-preocuparnos-consumo-energetico-ia-1393578'>Bill Gates dice que "no debemos preocuparnos por el consumo eléctrico de la IA"</a></h4>
-    <a href='https://computerhoy.com/energia/bill-gates-dice-no-debemos-preocuparnos-consumo-energetico-ia-1393578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bill-gates-2919658.jpg?tf=1200x' alt='Bill Gates dice que "no debemos preocuparnos por el consumo eléctrico de la IA"' />
+    <h4><a href='https://computerhoy.com/pc/atx-30-novedades-pc-1392495'>¿Qué es ATX 3.0 y qué novedades para tu PC?</a></h4>
+    <a href='https://computerhoy.com/pc/atx-30-novedades-pc-1392495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ordenador-dentro-3308352.jpg?tf=1200x' alt='¿Qué es ATX 3.0 y qué novedades para tu PC?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cohete-espacial-chino-estrella-space-pioneer-1393575'>Un cohete espacial chino despega sin querer y se estrella, provocando el pánico</a></h4>
-    <a href='https://computerhoy.com/espacio/cohete-espacial-chino-estrella-space-pioneer-1393575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-espacial-chino-despega-querer-provocando-panico-3638307.jpg?tf=1200x' alt='Un cohete espacial chino despega sin querer y se estrella, provocando el pánico' />
+    <h4><a href='https://computerhoy.com/ciencia/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-1394227'>Descubren el secreto del Mecanismo de Anticitera, gracias a los agujeros negros</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-1394227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-3661419.jpg?tf=1200x' alt='Descubren el secreto del Mecanismo de Anticitera, gracias a los agujeros negros' />
     </a>
 </div>
 
