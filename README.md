@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/funcion-oculta-windows-11-puede-evitar-pc-vaya-lento-1393628'>Esta función oculta de Windows 11 puede evitar que tu PC vaya lento</a></h4>
-    <a href='https://computerhoy.com/windows/funcion-oculta-windows-11-puede-evitar-pc-vaya-lento-1393628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-3391674.jpg?tf=1200x' alt='Esta función oculta de Windows 11 puede evitar que tu PC vaya lento' />
+    <h4><a href='https://computerhoy.com/tecnologia/investigadores-disenan-robot-empaquetar-compras-supermercado-1394472'>Investigadores diseñan un robot para empaquetar tus compras en el supermercado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/investigadores-disenan-robot-empaquetar-compras-supermercado-1394472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/investigadores-disenan-robot-empaquetar-compras-supermercado-3676523.jpg?tf=1200x' alt='Investigadores diseñan un robot para empaquetar tus compras en el supermercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/goodbye-cuelgan-funcionan-robollamadas-teleoperadoras-1331900'>Descuelgo, me dicen "goodbye" y cuelgan: así funcionan las robollamadas</a></h4>
-    <a href='https://computerhoy.com/life/goodbye-cuelgan-funcionan-robollamadas-teleoperadoras-1331900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/robollamadas-3216106.jpg?tf=1200x' alt='Descuelgo, me dicen "goodbye" y cuelgan: así funcionan las robollamadas' />
+    <h4><a href='https://computerhoy.com/life/estas-tiendas-estan-toda-espana-venden-productos-electronicos-1-euro-todos-jueves-1394306'>Estas tiendas están por toda España y venden productos electrónicos por 1 euro todos los jueves</a></h4>
+    <a href='https://computerhoy.com/life/estas-tiendas-estan-toda-espana-venden-productos-electronicos-1-euro-todos-jueves-1394306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/donde-crazy-day-factory-tiendas-comprar-devoluciones-amazon-precio-saldo-3219956.jpg?tf=1200x' alt='Estas tiendas están por toda España y venden productos electrónicos por 1 euro todos los jueves' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-planea-lanzar-dispositivo-hogar-ia-fusionando-homepod-apple-tv-1394462'>Apple planea lanzar un dispositivo para el hogar con IA fusionando HomePod y Apple TV</a></h4>
-    <a href='https://computerhoy.com/apple/apple-planea-lanzar-dispositivo-hogar-ia-fusionando-homepod-apple-tv-1394462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-renueva-altavoz-inteligente-nuevo-homepod-soporte-matter-mejor-sonido-2931740.jpg?tf=1200x' alt='Apple planea lanzar un dispositivo para el hogar con IA fusionando HomePod y Apple TV' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-ha-filtrado-version-perfecta-riesgo-seguridad-1393658'>Este Windows 11 que se ha filtrado es ¿una versión perfecta o un riesgo para la seguridad?</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-ha-filtrado-version-perfecta-riesgo-seguridad-1393658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/windows-11-pc-3641997.jpg?tf=1200x' alt='Este Windows 11 que se ha filtrado es ¿una versión perfecta o un riesgo para la seguridad?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/funcion-amazon-fire-stick-1291866'>La función poco conocida que se esconde en tu Amazon Fire Stick para disfrutar de series y películas </a></h4>
-    <a href='https://computerhoy.com/tv/funcion-amazon-fire-stick-1291866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/funcion-poco-conocida-esconde-amazon-fire-stick-disfrutar-series-peliculas-3112020.jpg?tf=1200x' alt='La función poco conocida que se esconde en tu Amazon Fire Stick para disfrutar de series y películas ' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-considerando-eliminar-funcion-muy-importante-seguridad-chrome-1394465'>Google está considerando eliminar esta función muy importante de seguridad de Chrome</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-considerando-eliminar-funcion-muy-importante-seguridad-chrome-1394465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/9-ajustes-imprescindibles-mejorar-seguridad-privacidad-google-chrome-3216774.jpg?tf=1200x' alt='Google está considerando eliminar esta función muy importante de seguridad de Chrome' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quieres-usar-ia-mac-windows-app-escritorio-haces-forma-segura-privada-1394264'>¿Quieres usar la IA en Mac o Windows? Con esta app de escritorio lo haces de forma segura y privada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quieres-usar-ia-mac-windows-app-escritorio-haces-forma-segura-privada-1394264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robot-ordenador-3662566.jpg?tf=1200x' alt='¿Quieres usar la IA en Mac o Windows? Con esta app de escritorio lo haces de forma segura y privada' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-whatsapp-enviar-fotos-videos-hd-forma-predeterminada-1394019'>Cómo configurar WhatsApp para enviar fotos y vídeos en HD de forma predeterminada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-whatsapp-enviar-fotos-videos-hd-forma-predeterminada-1394019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-configurar-whatsapp-enviar-fotos-videos-hd-forma-predeterminada-3654900.jpg?tf=1200x' alt='Cómo configurar WhatsApp para enviar fotos y vídeos en HD de forma predeterminada' />
     </a>
 </div>
 
