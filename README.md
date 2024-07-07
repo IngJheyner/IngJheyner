@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/comprueba-datos-estan-dark-web-1320998'>Cómo saber si tus datos personales están en la dark web utilizando la herramienta gratis de Google</a></h4>
-    <a href='https://computerhoy.com/tecnologia/comprueba-datos-estan-dark-web-1320998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-saber-datos-personales-estan-dark-web-utilizando-herramienta-gratis-google-3197508.jpg?tf=1200x' alt='Cómo saber si tus datos personales están en la dark web utilizando la herramienta gratis de Google' />
+    <h4><a href='https://computerhoy.com/life/ciudad-espanola-coloca-como-sexta-ruidosa-todo-mundo-1394382'>Esta ciudad española se coloca como la sexta más ruidosa de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/life/ciudad-espanola-coloca-como-sexta-ruidosa-todo-mundo-1394382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ruido-ciudad-3665891.jpg?tf=1200x' alt='Esta ciudad española se coloca como la sexta más ruidosa de todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-avisar-otros-conductores-peligro-google-maps-1393760'>Cómo avisar a otros conductores de un peligro en Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-avisar-otros-conductores-peligro-google-maps-1393760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-avisar-otros-conductores-peligro-google-maps-3645043.jpg?tf=1200x' alt='Cómo avisar a otros conductores de un peligro en Google Maps' />
+    <h4><a href='https://computerhoy.com/life/vives-ccaa-enhorabuena-podras-echar-gasolina-gasolineras-baratas-espana-1393782'>Si vives en esta CC.AA enhorabuena: podrás echar gasolina en las gasolineras más baratas de España</a></h4>
+    <a href='https://computerhoy.com/life/vives-ccaa-enhorabuena-podras-echar-gasolina-gasolineras-baratas-espana-1393782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gasolinera-3645461.jpg?tf=1200x' alt='Si vives en esta CC.AA enhorabuena: podrás echar gasolina en las gasolineras más baratas de España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-ha-hecho-amazon-prime-video-outer-range-grandes-series-quedaron-final-condiciones-1394141'>No solo lo ha hecho Amazon Prime Video con Outer Range: grandes series que se quedaron sin un final en condiciones</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/no-solo-ha-hecho-amazon-prime-video-outer-range-grandes-series-quedaron-final-condiciones-1394141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/outer-range-2666559.jpg?tf=1200x' alt='No solo lo ha hecho Amazon Prime Video con Outer Range: grandes series que se quedaron sin un final en condiciones' />
+    <h4><a href='https://computerhoy.com/redes/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-1394375'>Todo el mundo lo tiene en casa y es el enemigo de tu WiFi: aléjalo todo lo que puedas</a></h4>
+    <a href='https://computerhoy.com/redes/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-1394375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-3665618.jpg?tf=1200x' alt='Todo el mundo lo tiene en casa y es el enemigo de tu WiFi: aléjalo todo lo que puedas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/nosferatu-dracula-peliculas-miedo-han-trasformado-mito-vampiro-1393248'>De Nosferatu a Drácula, 5 películas de miedo que han trasformado el mito del vampiro</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/nosferatu-dracula-peliculas-miedo-han-trasformado-mito-vampiro-1393248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nosferatu-dracula-5-peliculas-miedo-han-trasformado-mito-vampiro-3615070.jpg?tf=1200x' alt='De Nosferatu a Drácula, 5 películas de miedo que han trasformado el mito del vampiro' />
+    <h4><a href='https://computerhoy.com/tecnologia/construyen-reloj-atomico-preciso-mundo-impulsar-ciencia-espacial-1393781'>Construyen el reloj atómico más preciso del mundo para impulsar la ciencia espacial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/construyen-reloj-atomico-preciso-mundo-impulsar-ciencia-espacial-1393781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/reloj-atomico-3645321.jpg?tf=1200x' alt='Construyen el reloj atómico más preciso del mundo para impulsar la ciencia espacial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cartera-digital-ver-porno-requisitos-solicitud-como-funciona-1393770'>Carnet digital de 30 días para ver porno: requisitos, solicitud y cómo funciona</a></h4>
-    <a href='https://computerhoy.com/life/cartera-digital-ver-porno-requisitos-solicitud-como-funciona-1393770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/carnet-digital-30-dias-ver-porno-requisitos-solicitud-como-funciona-3644300.jpg?tf=1200x' alt='Carnet digital de 30 días para ver porno: requisitos, solicitud y cómo funciona' />
+    <h4><a href='https://computerhoy.com/tecnologia/gamgee-convierte-wifi-detector-intrusos-1394486'>Vacaciones tranquilas: Gamgee convierte el WiFi en un detector de intrusos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gamgee-convierte-wifi-detector-intrusos-1394486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vacaciones-tranquilas-gamgee-convierte-wifi-detector-intrusos-3678797.jpg?tf=1200x' alt='Vacaciones tranquilas: Gamgee convierte el WiFi en un detector de intrusos' />
     </a>
 </div>
 
