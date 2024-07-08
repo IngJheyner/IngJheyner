@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-desvela-espectacular-estacion-espacial-gateway-luna-1394489'>La NASA desvela la espectacular estación espacial Gateway, que orbitará la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-desvela-espectacular-estacion-espacial-gateway-luna-1394489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1720382225470-3679367.jpg?tf=1200x' alt='La NASA desvela la espectacular estación espacial Gateway, que orbitará la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671'>Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana</a></h4>
     <a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-3686413.jpg?tf=1200x' alt='Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/tdtchannels-actualiza-nuevos-canales-tv-radio-gratis-registro-instalar-nada-1394679'>TDTChannels se actualiza con nuevos canales de TV y radio gratis, sin registro y sin instalar nada</a></h4>
     <a href='https://computerhoy.com/apps/tdtchannels-actualiza-nuevos-canales-tv-radio-gratis-registro-instalar-nada-1394679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels se actualiza con nuevos canales de TV y radio gratis, sin registro y sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-1394678'>Una nueva estafa camufla gráficas RTX 3080 Ti como si fueran RTX 4090 con un nivel de detalle increíble</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-1394678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-3686487.jpg?tf=1200x' alt='Una nueva estafa camufla gráficas RTX 3080 Ti como si fueran RTX 4090 con un nivel de detalle increíble' />
     </a>
 </div>
 
