@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/investigadores-disenan-robot-empaquetar-compras-supermercado-1394472'>Investigadores diseñan un robot para empaquetar tus compras en el supermercado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/investigadores-disenan-robot-empaquetar-compras-supermercado-1394472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/investigadores-disenan-robot-empaquetar-compras-supermercado-3676523.jpg?tf=1200x' alt='Investigadores diseñan un robot para empaquetar tus compras en el supermercado' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-ya-rebaja-kindle-calienta-prime-day-vende-precio-historico-1394602'>Amazon ya rebaja el Kindle y calienta el Prime Day: lo vende a precio histórico</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-ya-rebaja-kindle-calienta-prime-day-vende-precio-historico-1394602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/amazon-kindle-3319968.jpg?tf=1200x' alt='Amazon ya rebaja el Kindle y calienta el Prime Day: lo vende a precio histórico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/deberias-seguir-apagando-smart-tv-router-wifi-electrodomesticos-regleta-1393862'>¿Deberías seguir apagando tu Smart TV, router WiFi o electrodomésticos con la regleta?</a></h4>
-    <a href='https://computerhoy.com/life/deberias-seguir-apagando-smart-tv-router-wifi-electrodomesticos-regleta-1393862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/regleta-3018030.jpg?tf=1200x' alt='¿Deberías seguir apagando tu Smart TV, router WiFi o electrodomésticos con la regleta?' />
+    <h4><a href='https://computerhoy.com/apps/netflix-planes-precios-todo-debes-saber-plataforma-streaming-1394597'>Netflix: planes, precios y todo lo que debes saber de la plataforma de streaming</a></h4>
+    <a href='https://computerhoy.com/apps/netflix-planes-precios-todo-debes-saber-plataforma-streaming-1394597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-plataforma-3529071.jpg?tf=1200x' alt='Netflix: planes, precios y todo lo que debes saber de la plataforma de streaming' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-no-trae-cargador-baseus-llega-65w-bolsillo-1394508'>Si tu móvil no trae cargador, este de Baseus llega a 65W y cabe en el bolsillo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-no-trae-cargador-baseus-llega-65w-bolsillo-1394508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/baseus-3682341.jpg?tf=1200x' alt='Si tu móvil no trae cargador, este de Baseus llega a 65W y cabe en el bolsillo' />
+    <h4><a href='https://computerhoy.com/internet/importante-papel-operadores-multas-ver-futbol-iptv-lealtad-total-laliga-javier-tebas-1393888'>El importante papel de los operadores en las multas por ver el fútbol por IPTV y su lealtad total a LaLiga de Javier Tebas</a></h4>
+    <a href='https://computerhoy.com/internet/importante-papel-operadores-multas-ver-futbol-iptv-lealtad-total-laliga-javier-tebas-1393888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/espana-podium-iptv-no-estar-orgulloso-3506847.jpg?tf=1200x' alt='El importante papel de los operadores en las multas por ver el fútbol por IPTV y su lealtad total a LaLiga de Javier Tebas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-ahorro-bateria-extremo-movil-android-deberias-hacerlo-ahora-mismo-1393297'>Cómo activar el ahorro de batería extremo en tu móvil Android y por qué deberías hacerlo ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-ahorro-bateria-extremo-movil-android-deberias-hacerlo-ahora-mismo-1393297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-activar-ahorro-bateria-extremo-movil-android-deberias-hacerlo-ahora-mismo-3618574.jpg?tf=1200x' alt='Cómo activar el ahorro de batería extremo en tu móvil Android y por qué deberías hacerlo ahora mismo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/recibes-llamada-familiar-estafa-ya-marcha-1394561'>Si recibes esta llamada de un familiar, la estafa ya está en marcha</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/recibes-llamada-familiar-estafa-ya-marcha-1394561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-telefonica-3683426.jpg?tf=1200x' alt='Si recibes esta llamada de un familiar, la estafa ya está en marcha' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-funciona-0patch-salvavidas-windows-10-seguir-usandolo-1393980'>Qué es 0Patch y cómo funciona el salvavidas para Windows 10 que te permitirá seguir usándolo</a></h4>
-    <a href='https://computerhoy.com/windows/como-funciona-0patch-salvavidas-windows-10-seguir-usandolo-1393980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/0patch-como-funciona-salvavidas-windows-10-todo-mundo-habla-3652125.jpg?tf=1200x' alt='Qué es 0Patch y cómo funciona el salvavidas para Windows 10 que te permitirá seguir usándolo' />
+    <h4><a href='https://computerhoy.com/gaming/ha-llegado-ese-fatidico-dia-sony-jubila-playstation-4-1394545'>Ha llegado ese fatídico día: Sony jubila la PlayStation 4</a></h4>
+    <a href='https://computerhoy.com/gaming/ha-llegado-ese-fatidico-dia-sony-jubila-playstation-4-1394545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/final-ps4-3683431.jpg?tf=1200x' alt='Ha llegado ese fatídico día: Sony jubila la PlayStation 4' />
     </a>
 </div>
 
