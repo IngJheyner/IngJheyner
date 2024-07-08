@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-ya-rebaja-kindle-calienta-prime-day-vende-precio-historico-1394602'>Amazon ya rebaja el Kindle y calienta el Prime Day: lo vende a precio histórico</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-ya-rebaja-kindle-calienta-prime-day-vende-precio-historico-1394602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/amazon-kindle-3319968.jpg?tf=1200x' alt='Amazon ya rebaja el Kindle y calienta el Prime Day: lo vende a precio histórico' />
+    <h4><a href='https://computerhoy.com/tv/netflix-ha-empezado-eliminar-planes-precios-populares-llegara-espana-1393861'>Netflix ha empezado a eliminar uno de sus planes de precios más populares: ¿llegará a España?</a></h4>
+    <a href='https://computerhoy.com/tv/netflix-ha-empezado-eliminar-planes-precios-populares-llegara-espana-1393861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/netflix-tablet-3133736.jpg?tf=1200x' alt='Netflix ha empezado a eliminar uno de sus planes de precios más populares: ¿llegará a España?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/netflix-planes-precios-todo-debes-saber-plataforma-streaming-1394597'>Netflix: planes, precios y todo lo que debes saber de la plataforma de streaming</a></h4>
-    <a href='https://computerhoy.com/apps/netflix-planes-precios-todo-debes-saber-plataforma-streaming-1394597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-plataforma-3529071.jpg?tf=1200x' alt='Netflix: planes, precios y todo lo que debes saber de la plataforma de streaming' />
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-da-salto-aterrador-creacion-robots-conciencia-propia-1393873'>La inteligencia artificial da un salto aterrador con la creación de robots con conciencia propia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-da-salto-aterrador-creacion-robots-conciencia-propia-1393873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robots-inteligencia-artificial-china-3649378.jpg?tf=1200x' alt='La inteligencia artificial da un salto aterrador con la creación de robots con conciencia propia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/importante-papel-operadores-multas-ver-futbol-iptv-lealtad-total-laliga-javier-tebas-1393888'>El importante papel de los operadores en las multas por ver el fútbol por IPTV y su lealtad total a LaLiga de Javier Tebas</a></h4>
-    <a href='https://computerhoy.com/internet/importante-papel-operadores-multas-ver-futbol-iptv-lealtad-total-laliga-javier-tebas-1393888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/espana-podium-iptv-no-estar-orgulloso-3506847.jpg?tf=1200x' alt='El importante papel de los operadores en las multas por ver el fútbol por IPTV y su lealtad total a LaLiga de Javier Tebas' />
+    <h4><a href='https://computerhoy.com/tv/lista-iptv-definitiva-42000-canales-television-gratis-todo-mundo-1394555'>La lista IPTV definitiva: más de 42.000 canales de televisión gratis de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/tv/lista-iptv-definitiva-42000-canales-television-gratis-todo-mundo-1394555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/listas-iptv-3683266.jpg?tf=1200x' alt='La lista IPTV definitiva: más de 42.000 canales de televisión gratis de todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/recibes-llamada-familiar-estafa-ya-marcha-1394561'>Si recibes esta llamada de un familiar, la estafa ya está en marcha</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/recibes-llamada-familiar-estafa-ya-marcha-1394561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-telefonica-3683426.jpg?tf=1200x' alt='Si recibes esta llamada de un familiar, la estafa ya está en marcha' />
+    <h4><a href='https://computerhoy.com/redes/wifi-pineapple-como-funciona-router-hackers-1392252'>WiFi Pineapple: qué es y cómo funciona el router de los hackers</a></h4>
+    <a href='https://computerhoy.com/redes/wifi-pineapple-como-funciona-router-hackers-1392252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wifi-pineapple-como-funciona-router-hackers-3566788.jpg?tf=1200x' alt='WiFi Pineapple: qué es y cómo funciona el router de los hackers' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ha-llegado-ese-fatidico-dia-sony-jubila-playstation-4-1394545'>Ha llegado ese fatídico día: Sony jubila la PlayStation 4</a></h4>
-    <a href='https://computerhoy.com/gaming/ha-llegado-ese-fatidico-dia-sony-jubila-playstation-4-1394545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/final-ps4-3683431.jpg?tf=1200x' alt='Ha llegado ese fatídico día: Sony jubila la PlayStation 4' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-1392538'>Cómo compartir tu ubicación en tiempo real en Google Maps, WhatsApp y Telegram</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-1392538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-3663333.jpg?tf=1200x' alt='Cómo compartir tu ubicación en tiempo real en Google Maps, WhatsApp y Telegram' />
     </a>
 </div>
 
