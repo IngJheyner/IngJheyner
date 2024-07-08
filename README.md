@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/creadores-inteligencia-artificial-carga-grandes-empresas-defiende-modelo-propiedad-usuario-1393642'>Uno de los creadores de la inteligencia artificial carga contra las grandes empresas y defiende un modelo “propiedad del usuario”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/creadores-inteligencia-artificial-carga-grandes-empresas-defiende-modelo-propiedad-usuario-1393642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/creadores-inteligencia-artificial-carga-grandes-empresas-defiende-modelo-propiedad-usuario-3642137.jpg?tf=1200x' alt='Uno de los creadores de la inteligencia artificial carga contra las grandes empresas y defiende un modelo “propiedad del usuario”' />
+    <h4><a href='https://computerhoy.com/tecnologia/proton-vpn-suiza-gratis-alternativa-google-1376002'>Servidores en Suiza y seguridad máxima: esta VPN es gratis y su versión de pago le planta cara a Google</a></h4>
+    <a href='https://computerhoy.com/tecnologia/proton-vpn-suiza-gratis-alternativa-google-1376002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/protonvpn-vpn-3279021.jpg?tf=1200x' alt='Servidores en Suiza y seguridad máxima: esta VPN es gratis y su versión de pago le planta cara a Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bicicleta-ruedas-triangulares-1250936'>Tras las ruedas cuadradas, llegan la bicicleta de ruedas triangulares (vídeo)</a></h4>
-    <a href='https://computerhoy.com/life/bicicleta-ruedas-triangulares-1250936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/imposible-pero-bicicleta-ruedas-triangulares-rueda-tan-bien-como-estandar-3042912.jpg?tf=1200x' alt='Tras las ruedas cuadradas, llegan la bicicleta de ruedas triangulares (vídeo)' />
+    <h4><a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485'>Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo</a></h4>
+    <a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-grabar-podcast-audio-sonido-3535716.jpg?tf=1200x' alt='Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/orange-pi-alternativa-raspberry-barata-oferta-aliexpress-1381208'>Cuesta menos de 20 euros y le planta cara a Raspberry Pi: la Orange Pi más asequible es un PC ideal para casi todo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/orange-pi-alternativa-raspberry-barata-oferta-aliexpress-1381208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/orange-pi-5-plus-3266296.jpg?tf=1200x' alt='Cuesta menos de 20 euros y le planta cara a Raspberry Pi: la Orange Pi más asequible es un PC ideal para casi todo' />
+    <h4><a href='https://computerhoy.com/hogar/deberiamos-disenar-casas-acomodar-robots-1392784'>¿Deberíamos diseñar nuestras casas para acomodar a los robots?</a></h4>
+    <a href='https://computerhoy.com/hogar/deberiamos-disenar-casas-acomodar-robots-1392784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dyson-wash-g1-3556025.jpg?tf=1200x' alt='¿Deberíamos diseñar nuestras casas para acomodar a los robots?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia-dji-bicicletas-electricas-1393799'>A punto de ser prohibida en Estados Unidos, DJI cambia los drones por las bicis eléctricas</a></h4>
-    <a href='https://computerhoy.com/tecnologia-dji-bicicletas-electricas-1393799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/punto-ser-prohibida-estados-unidos-dji-cambia-drones-bicis-electricas-3647237.jpg?tf=1200x' alt='A punto de ser prohibida en Estados Unidos, DJI cambia los drones por las bicis eléctricas' />
+    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-matepad-115-s-pantalla-mate-pero-no-todo-mundo-1393641'>Lo que más me ha gustado de Huawei MatePad 11.5" S es su pantalla mate, pero no es para todo el mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-matepad-115-s-pantalla-mate-pero-no-todo-mundo-1393641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/huawei-matepad-115s-3634656.jpg?tf=1200x' alt='Lo que más me ha gustado de Huawei MatePad 11.5" S es su pantalla mate, pero no es para todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/drones-reparto-tienen-problema-demasiada-gente-armada-rutas-1393795'>Los drones de reparto tienen un problema: demasiada gente armada en sus rutas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/drones-reparto-tienen-problema-demasiada-gente-armada-rutas-1393795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/detenido-disparar-pistola-dron-reparto-walmart-3646157.jpg?tf=1200x' alt='Los drones de reparto tienen un problema: demasiada gente armada en sus rutas' />
+    <h4><a href='https://computerhoy.com/analisis/oppo-reno-12-pro-analisis-opinion-1394269'>Oppo ha querido hacer EL móvil IA con el Reno 12 Pro, pero les ha quedado un gama media muy normalito</a></h4>
+    <a href='https://computerhoy.com/analisis/oppo-reno-12-pro-analisis-opinion-1394269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/oppo-reno-12-pro-3665072.jpg?tf=1200x' alt='Oppo ha querido hacer EL móvil IA con el Reno 12 Pro, pero les ha quedado un gama media muy normalito' />
     </a>
 </div>
 
