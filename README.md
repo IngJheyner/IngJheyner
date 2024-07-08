@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-fotografias-grupo-whatsapp-galeria-1394589'>Cómo ocultar las fotografías de un grupo de WhatsApp de la galería</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-fotografias-grupo-whatsapp-galeria-1394589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-3684064.jpg?tf=1200x' alt='Cómo ocultar las fotografías de un grupo de WhatsApp de la galería' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-novelas-stephen-king-leer-verano-1394344'>Calor y miedo: estas son las 5 mejores novelas de Stephen King para leer en verano</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-novelas-stephen-king-leer-verano-1394344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/calor-miedo-estas-son-5-mejores-novelas-stephen-king-leer-verano-3683894.jpg?tf=1200x' alt='Calor y miedo: estas son las 5 mejores novelas de Stephen King para leer en verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-pc-sonidos-sistema-primeras-versiones-windows-1393796'>Cómo instalar en tu PC los sonidos del sistema de las primeras versiones de Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-pc-sonidos-sistema-primeras-versiones-windows-1393796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-instalar-pc-viejos-sonidos-primeras-versiones-windows-3647236.jpg?tf=1200x' alt='Cómo instalar en tu PC los sonidos del sistema de las primeras versiones de Windows' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-elegir-fuente-alimentacion-adecuada-nuevo-pc-1393748'>Cómo elegir la fuente de alimentación adecuada para tu nuevo PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-elegir-fuente-alimentacion-adecuada-nuevo-pc-1393748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/conexion-cable-psu-pc-3644134.jpg?tf=1200x' alt='Cómo elegir la fuente de alimentación adecuada para tu nuevo PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/truco-pajita-hack-definitivo-mantener-movil-impecable-libre-polvo-1394636'>El truco de la pajita, el hack definitivo para mantener tu móvil impecable libre de polvo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/truco-pajita-hack-definitivo-mantener-movil-impecable-libre-polvo-1394636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/truco-pajita-hack-definitivo-mantener-movil-impecable-libre-polvo-3685286.jpg?tf=1200x' alt='El truco de la pajita, el hack definitivo para mantener tu móvil impecable libre de polvo' />
+    <h4><a href='https://computerhoy.com/hogar/truco-electricistas-saber-cable-electrico-buena-mala-calidad-1394218'>El truco de los electricistas para saber si un cable eléctrico es de buena o mala calidad</a></h4>
+    <a href='https://computerhoy.com/hogar/truco-electricistas-saber-cable-electrico-buena-mala-calidad-1394218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/truco-electricistas-saber-cable-electrico-buena-mala-calidad-3660453.jpg?tf=1200x' alt='El truco de los electricistas para saber si un cable eléctrico es de buena o mala calidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nike-elimina-app-controla-zapatillas-atan-solas-pierden-funciones-1394482'>Nike se carga la app que controla las zapatillas que se atan solas, y pierden funciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nike-elimina-app-controla-zapatillas-atan-solas-pierden-funciones-1394482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nike-carga-app-controla-zapatillas-atan-solas-pierden-funciones-3677943.jpg?tf=1200x' alt='Nike se carga la app que controla las zapatillas que se atan solas, y pierden funciones' />
+    <h4><a href='https://computerhoy.com/tecnologia/aplicaciones-imprescindibles-debes-instalar-viajas-crucero-1393816'>Aplicaciones imprescindibles que debes instalar si viajas en un crucero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aplicaciones-imprescindibles-debes-instalar-viajas-crucero-1393816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apps-crucero-3649707.jpg?tf=1200x' alt='Aplicaciones imprescindibles que debes instalar si viajas en un crucero' />
     </a>
 </div>
 
