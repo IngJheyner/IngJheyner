@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-bizum-entidad-bancaria-1392800'>¿Cómo cambiar Bizum de entidad bancaria? </a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-bizum-entidad-bancaria-1392800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bizum-bancos-3599209.jpg?tf=1200x' alt='¿Cómo cambiar Bizum de entidad bancaria? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/significa-nsfw-usa-internet-1394539'>¿Qué significa NSFW y por qué se usa en internet?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/significa-nsfw-usa-internet-1394539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/seguridad-internet-3683072.jpg?tf=1200x' alt='¿Qué significa NSFW y por qué se usa en internet?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/25-mejores-fotos-perfil-whatsapp-291949'>Las 45 mejores fotos de perfil para WhatsApp para ponerte en 2024</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/25-mejores-fotos-perfil-whatsapp-291949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/45-mejores-fotos-perfil-whatsapp-ponerte-2024-3661698.jpg?tf=1200x' alt='Las 45 mejores fotos de perfil para WhatsApp para ponerte en 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/como-reaccionar-hacer-desconocido-te-escribe-whatsapp-1394571'>Cómo reaccionar y qué hacer si un desconocido te escribe en WhatsApp</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/como-reaccionar-hacer-desconocido-te-escribe-whatsapp-1394571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-whatsapp-3683489.jpg?tf=1200x' alt='Cómo reaccionar y qué hacer si un desconocido te escribe en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-anade-bloc-notas-windows-esa-funcion-llevabas-esperando-40-anos-1394572'>Microsoft añade al Bloc de notas de Windows esa función que llevabas esperando más de 40 años</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-anade-bloc-notas-windows-esa-funcion-llevabas-esperando-40-anos-1394572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/blog-notas-windows-3683579.jpg?tf=1200x' alt='Microsoft añade al Bloc de notas de Windows esa función que llevabas esperando más de 40 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/amante-vino-agradece-asteroide-extermino-dinosaurios-1394475'>¿Amante del vino? Agradece al asteroide que exterminó a los dinosaurios</a></h4>
-    <a href='https://computerhoy.com/life/amante-vino-agradece-asteroide-extermino-dinosaurios-1394475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-te-permite-ver-donde-estaba-casa-epoca-dinosaurios-3024004.jpg?tf=1200x' alt='¿Amante del vino? Agradece al asteroide que exterminó a los dinosaurios' />
     </a>
 </div>
 
