@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-echo-spot-pantalla-mesilla-noche-1394564'>Amazon lanza el nuevo altavoz inteligente Echo Spot con pantalla, perfecto para tenerlo en la mesilla de noche</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-echo-spot-pantalla-mesilla-noche-1394564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-echo-spot-pantalla-3683267.jpg?tf=1200x' alt='Amazon lanza el nuevo altavoz inteligente Echo Spot con pantalla, perfecto para tenerlo en la mesilla de noche' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-fotografias-grupo-whatsapp-galeria-1394589'>Cómo ocultar las fotografías de un grupo de WhatsApp de la galería</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-fotografias-grupo-whatsapp-galeria-1394589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-3684064.jpg?tf=1200x' alt='Cómo ocultar las fotografías de un grupo de WhatsApp de la galería' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/cuanto-dura-bateria-sai-1394386'>¿Cuánto dura la batería de un SAI si se va la luz?</a></h4>
-    <a href='https://computerhoy.com/energia/cuanto-dura-bateria-sai-1394386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/energia-sistema-alimentacion-interrumpida-3666188.jpg?tf=1200x' alt='¿Cuánto dura la batería de un SAI si se va la luz?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-pc-sonidos-sistema-primeras-versiones-windows-1393796'>Cómo instalar en tu PC los sonidos del sistema de las primeras versiones de Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-pc-sonidos-sistema-primeras-versiones-windows-1393796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-instalar-pc-viejos-sonidos-primeras-versiones-windows-3647236.jpg?tf=1200x' alt='Cómo instalar en tu PC los sonidos del sistema de las primeras versiones de Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funcion-inutil-moviles-android-come-bateria-desactivar-1382269'>Adiós a la batería que dura poco: desactiva esta función de Android que te la está robando</a></h4>
-    <a href='https://computerhoy.com/tecnologia/funcion-inutil-moviles-android-come-bateria-desactivar-1382269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bateria-movil-android-3304524.jpg?tf=1200x' alt='Adiós a la batería que dura poco: desactiva esta función de Android que te la está robando' />
+    <h4><a href='https://computerhoy.com/tecnologia/truco-pajita-hack-definitivo-mantener-movil-impecable-libre-polvo-1394636'>El truco de la pajita, el hack definitivo para mantener tu móvil impecable libre de polvo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/truco-pajita-hack-definitivo-mantener-movil-impecable-libre-polvo-1394636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/truco-pajita-hack-definitivo-mantener-movil-impecable-libre-polvo-3685286.jpg?tf=1200x' alt='El truco de la pajita, el hack definitivo para mantener tu móvil impecable libre de polvo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/qpu-sirve-futuro-computacion-cuantica-1393794'>Qué es la QPU, para qué sirve y por qué es el futuro de la computación cuántica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/qpu-sirve-futuro-computacion-cuantica-1393794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/qpu-sirve-futuro-computacion-cuantica-3646830.jpg?tf=1200x' alt='Qué es la QPU, para qué sirve y por qué es el futuro de la computación cuántica' />
+    <h4><a href='https://computerhoy.com/tecnologia/nike-elimina-app-controla-zapatillas-atan-solas-pierden-funciones-1394482'>Nike se carga la app que controla las zapatillas que se atan solas, y pierden funciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nike-elimina-app-controla-zapatillas-atan-solas-pierden-funciones-1394482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nike-carga-app-controla-zapatillas-atan-solas-pierden-funciones-3677943.jpg?tf=1200x' alt='Nike se carga la app que controla las zapatillas que se atan solas, y pierden funciones' />
     </a>
 </div>
 
