@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cmf-watch-pro-2-buds-pro-2-nuevo-reloj-pantalla-redonda-auriculares-cancelacion-ruido-1393174'>CMF Watch Pro 2 y Buds Pro 2: así es el nuevo reloj de pantalla redonda y los auriculares con cancelación de ruido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cmf-watch-pro-2-buds-pro-2-nuevo-reloj-pantalla-redonda-auriculares-cancelacion-ruido-1393174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cmf-watch-pro-2-3643244.jpg?tf=1200x' alt='CMF Watch Pro 2 y Buds Pro 2: así es el nuevo reloj de pantalla redonda y los auriculares con cancelación de ruido' />
+    <h4><a href='https://computerhoy.com/tecnologia/movil-no-trae-cargador-baseus-llega-65w-bolsillo-1394508'>Si tu móvil no trae cargador, este de Baseus llega a 65W y cabe en el bolsillo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-no-trae-cargador-baseus-llega-65w-bolsillo-1394508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/baseus-3682341.jpg?tf=1200x' alt='Si tu móvil no trae cargador, este de Baseus llega a 65W y cabe en el bolsillo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nothing-cmf-phone-1-caracteristicas-precio-informacion-1393161'>Nothing anuncia su primer móvil barato CMF Phone 1 con un diseño modular y un precio para romper el mercado</a></h4>
-    <a href='https://computerhoy.com/moviles/nothing-cmf-phone-1-caracteristicas-precio-informacion-1393161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cmf-phone-1-3643241.jpg?tf=1200x' alt='Nothing anuncia su primer móvil barato CMF Phone 1 con un diseño modular y un precio para romper el mercado' />
+    <h4><a href='https://computerhoy.com/windows/como-funciona-0patch-salvavidas-windows-10-seguir-usandolo-1393980'>Qué es 0Patch y cómo funciona el salvavidas para Windows 10 que te permitirá seguir usándolo</a></h4>
+    <a href='https://computerhoy.com/windows/como-funciona-0patch-salvavidas-windows-10-seguir-usandolo-1393980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/0patch-como-funciona-salvavidas-windows-10-todo-mundo-habla-3652125.jpg?tf=1200x' alt='Qué es 0Patch y cómo funciona el salvavidas para Windows 10 que te permitirá seguir usándolo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/inventan-helado-no-derrite-durante-4-horas-pero-tiene-gran-inconveniente-1394331'>Inventan un helado que no se derrite durante 4 horas, pero tiene un gran inconveniente</a></h4>
-    <a href='https://computerhoy.com/alimentacion/inventan-helado-no-derrite-durante-4-horas-pero-tiene-gran-inconveniente-1394331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chica-comiendo-helado-3682708.jpg?tf=1200x' alt='Inventan un helado que no se derrite durante 4 horas, pero tiene un gran inconveniente' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-exportar-certificado-digital-dispositivo-otro-1394541'>Cómo exportar el certificado digital de un dispositivo a otro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-exportar-certificado-digital-dispositivo-otro-1394541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/certificado-digital-2994750.jpg?tf=1200x' alt='Cómo exportar el certificado digital de un dispositivo a otro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-series-x-todo-sabe-futuro-smartwatch-apple-1394524'>Apple Watch Series X: todo lo que se sabe del futuro smartwatch de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-series-x-todo-sabe-futuro-smartwatch-apple-1394524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-3291677.jpg?tf=1200x' alt='Apple Watch Series X: todo lo que se sabe del futuro smartwatch de Apple' />
+    <h4><a href='https://computerhoy.com/espacio/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-1394478'>El problema "pogo" estuvo cerca de impedir que la NASA llegase a la Luna: así lo solucionaron</a></h4>
+    <a href='https://computerhoy.com/espacio/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-1394478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-3677236.jpg?tf=1200x' alt='El problema "pogo" estuvo cerca de impedir que la NASA llegase a la Luna: así lo solucionaron' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-waze-dime-como-conduces-te-dire-cual-adecuada-ti-1393839'>Google Maps o Waze: dime cómo conduces, y te diré cuál es más adecuada para ti</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-waze-dime-como-conduces-te-dire-cual-adecuada-ti-1393839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-maps-vs-waze-2629821.jpg?tf=1200x' alt='Google Maps o Waze: dime cómo conduces, y te diré cuál es más adecuada para ti' />
+    <h4><a href='https://computerhoy.com/motor/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-1393823'>Varapalo histórico al coche eléctrico: Mercedes vuelve a los motores de combustión</a></h4>
+    <a href='https://computerhoy.com/motor/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-1393823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-3648603.jpg?tf=1200x' alt='Varapalo histórico al coche eléctrico: Mercedes vuelve a los motores de combustión' />
     </a>
 </div>
 
