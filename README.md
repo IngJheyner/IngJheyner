@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727'>Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? </a></h4>
+    <a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/jovenes-movil-3656617.jpg?tf=1200x' alt='Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-1393230'>El impacto de la inteligencia artificial ya se deja ver: 60 escritores y editores de una empresa son sustituidos por ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-1393230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-3614574.jpg?tf=1200x' alt='El impacto de la inteligencia artificial ya se deja ver: 60 escritores y editores de una empresa son sustituidos por ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ai-washing-como-empresas-suben-ola-inteligencia-artificial-enganarte-ocurriendo-1393728'>AI Washing o cómo las empresas se suben a la ola de la inteligencia artificial para engañarte: ¿Qué está ocurriendo?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ai-washing-como-empresas-suben-ola-inteligencia-artificial-enganarte-ocurriendo-1393728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ai-washing-inteligencia-artificial-3656327.jpg?tf=1200x' alt='AI Washing o cómo las empresas se suben a la ola de la inteligencia artificial para engañarte: ¿Qué está ocurriendo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/proton-vpn-suiza-gratis-alternativa-google-1376002'>Servidores en Suiza y seguridad máxima: esta VPN es gratis y su versión de pago le planta cara a Google</a></h4>
     <a href='https://computerhoy.com/tecnologia/proton-vpn-suiza-gratis-alternativa-google-1376002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/protonvpn-vpn-3279021.jpg?tf=1200x' alt='Servidores en Suiza y seguridad máxima: esta VPN es gratis y su versión de pago le planta cara a Google' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485'>Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo</a></h4>
     <a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-grabar-podcast-audio-sonido-3535716.jpg?tf=1200x' alt='Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/deberiamos-disenar-casas-acomodar-robots-1392784'>¿Deberíamos diseñar nuestras casas para acomodar a los robots?</a></h4>
-    <a href='https://computerhoy.com/hogar/deberiamos-disenar-casas-acomodar-robots-1392784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dyson-wash-g1-3556025.jpg?tf=1200x' alt='¿Deberíamos diseñar nuestras casas para acomodar a los robots?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-matepad-115-s-pantalla-mate-pero-no-todo-mundo-1393641'>Lo que más me ha gustado de Huawei MatePad 11.5" S es su pantalla mate, pero no es para todo el mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-matepad-115-s-pantalla-mate-pero-no-todo-mundo-1393641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/huawei-matepad-115s-3634656.jpg?tf=1200x' alt='Lo que más me ha gustado de Huawei MatePad 11.5" S es su pantalla mate, pero no es para todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/oppo-reno-12-pro-analisis-opinion-1394269'>Oppo ha querido hacer EL móvil IA con el Reno 12 Pro, pero les ha quedado un gama media muy normalito</a></h4>
-    <a href='https://computerhoy.com/analisis/oppo-reno-12-pro-analisis-opinion-1394269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/oppo-reno-12-pro-3665072.jpg?tf=1200x' alt='Oppo ha querido hacer EL móvil IA con el Reno 12 Pro, pero les ha quedado un gama media muy normalito' />
     </a>
 </div>
 
