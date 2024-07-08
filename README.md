@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/rayas-cuentakilometros-no-son-adorno-1273948'>Las rayas del cuentakilómetros no son un adorno y son mucho más útiles de lo que crees</a></h4>
+    <a href='https://computerhoy.com/motor/rayas-cuentakilometros-no-son-adorno-1273948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cuentakilometros-coche-3084212.jpg?tf=1200x' alt='Las rayas del cuentakilómetros no son un adorno y son mucho más útiles de lo que crees' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/cansado-viejo-movil-3-senales-te-indican-hora-cambiarlo-1393819'>¿Cansado de tu viejo móvil? 3 señales que te indican que es hora de cambiarlo</a></h4>
+    <a href='https://computerhoy.com/moviles/cansado-viejo-movil-3-senales-te-indican-hora-cambiarlo-1393819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movil-enfado-3648602.jpg?tf=1200x' alt='¿Cansado de tu viejo móvil? 3 señales que te indican que es hora de cambiarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/cuanto-consume-aire-acondicionado-trucos-reducir-consumo-pasar-calor-1393937'>Cuánto consume un aire acondicionado y trucos para reducir el consumo sin pasar calor</a></h4>
+    <a href='https://computerhoy.com/hogar/cuanto-consume-aire-acondicionado-trucos-reducir-consumo-pasar-calor-1393937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aire-acondicionado-3662873.jpg?tf=1200x' alt='Cuánto consume un aire acondicionado y trucos para reducir el consumo sin pasar calor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727'>Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? </a></h4>
     <a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/jovenes-movil-3656617.jpg?tf=1200x' alt='Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-1393230'>El impacto de la inteligencia artificial ya se deja ver: 60 escritores y editores de una empresa son sustituidos por ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-1393230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-3614574.jpg?tf=1200x' alt='El impacto de la inteligencia artificial ya se deja ver: 60 escritores y editores de una empresa son sustituidos por ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ai-washing-como-empresas-suben-ola-inteligencia-artificial-enganarte-ocurriendo-1393728'>AI Washing o cómo las empresas se suben a la ola de la inteligencia artificial para engañarte: ¿Qué está ocurriendo?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ai-washing-como-empresas-suben-ola-inteligencia-artificial-enganarte-ocurriendo-1393728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ai-washing-inteligencia-artificial-3656327.jpg?tf=1200x' alt='AI Washing o cómo las empresas se suben a la ola de la inteligencia artificial para engañarte: ¿Qué está ocurriendo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/proton-vpn-suiza-gratis-alternativa-google-1376002'>Servidores en Suiza y seguridad máxima: esta VPN es gratis y su versión de pago le planta cara a Google</a></h4>
-    <a href='https://computerhoy.com/tecnologia/proton-vpn-suiza-gratis-alternativa-google-1376002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/protonvpn-vpn-3279021.jpg?tf=1200x' alt='Servidores en Suiza y seguridad máxima: esta VPN es gratis y su versión de pago le planta cara a Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485'>Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo</a></h4>
-    <a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-grabar-podcast-audio-sonido-3535716.jpg?tf=1200x' alt='Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo' />
     </a>
 </div>
 
