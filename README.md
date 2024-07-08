@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desarrollador-logra-ejecutar-sistema-operativo-completo-google-drive-1394001'>Un desarrollador logra ejecutar un sistema operativo completo en Google Drive</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desarrollador-logra-ejecutar-sistema-operativo-completo-google-drive-1394001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/linux-google-drive-3652262.jpg?tf=1200x' alt='Un desarrollador logra ejecutar un sistema operativo completo en Google Drive' />
+    <h4><a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671'>Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana</a></h4>
+    <a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-3686413.jpg?tf=1200x' alt='Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tiembla-garmin-polar-vantage-v3-rebajado-tiene-todo-tambien-termometro-1387178'>Tiembla Garmin: el Polar Vantage V3 está rebajado y lo tiene todo, también termómetro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tiembla-garmin-polar-vantage-v3-rebajado-tiene-todo-tambien-termometro-1387178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/polar-vantage-v3-3285696.jpg?tf=1200x' alt='Tiembla Garmin: el Polar Vantage V3 está rebajado y lo tiene todo, también termómetro' />
+    <h4><a href='https://computerhoy.com/moviles/microsoft-prohibe-empleados-chinos-usar-moviles-android-1394682'>Microsoft prohíbe a sus empleados chinos usar móviles Android</a></h4>
+    <a href='https://computerhoy.com/moviles/microsoft-prohibe-empleados-chinos-usar-moviles-android-1394682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-prohibe-empleados-chinos-usar-moviles-android-3685738.jpg?tf=1200x' alt='Microsoft prohíbe a sus empleados chinos usar móviles Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/significa-n-movil-android-deberias-tenerlo-siempre-activado-1394656'>Qué significa la N en un móvil Android y por qué deberías tenerlo siempre activado</a></h4>
-    <a href='https://computerhoy.com/android/significa-n-movil-android-deberias-tenerlo-siempre-activado-1394656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/significa-n-movil-android-deberias-tenerlo-siempre-activado-3685886.jpg?tf=1200x' alt='Qué significa la N en un móvil Android y por qué deberías tenerlo siempre activado' />
+    <h4><a href='https://computerhoy.com/apps/tdtchannels-actualiza-nuevos-canales-tv-radio-gratis-registro-instalar-nada-1394679'>TDTChannels se actualiza con nuevos canales de TV y radio gratis, sin registro y sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/apps/tdtchannels-actualiza-nuevos-canales-tv-radio-gratis-registro-instalar-nada-1394679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels se actualiza con nuevos canales de TV y radio gratis, sin registro y sin instalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-recula-restaura-guias-crear-cuentas-locales-windows-1394665'>Microsoft recula y restaura las guías para crear cuentas locales en Windows</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-recula-restaura-guias-crear-cuentas-locales-windows-1394665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-10-3375157.jpg?tf=1200x' alt='Microsoft recula y restaura las guías para crear cuentas locales en Windows' />
+    <h4><a href='https://computerhoy.com/tecnologia/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-1394678'>Una nueva estafa camufla gráficas RTX 3080 Ti como si fueran RTX 4090 con un nivel de detalle increíble</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-1394678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-3686487.jpg?tf=1200x' alt='Una nueva estafa camufla gráficas RTX 3080 Ti como si fueran RTX 4090 con un nivel de detalle increíble' />
     </a>
 </div>
 
