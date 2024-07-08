@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/investigadores-disenan-robot-empaquetar-compras-supermercado-1394472'>Investigadores diseñan un robot para empaquetar tus compras en el supermercado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/investigadores-disenan-robot-empaquetar-compras-supermercado-1394472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/investigadores-disenan-robot-empaquetar-compras-supermercado-3676523.jpg?tf=1200x' alt='Investigadores diseñan un robot para empaquetar tus compras en el supermercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/deberias-seguir-apagando-smart-tv-router-wifi-electrodomesticos-regleta-1393862'>¿Deberías seguir apagando tu Smart TV, router WiFi o electrodomésticos con la regleta?</a></h4>
+    <a href='https://computerhoy.com/life/deberias-seguir-apagando-smart-tv-router-wifi-electrodomesticos-regleta-1393862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/regleta-3018030.jpg?tf=1200x' alt='¿Deberías seguir apagando tu Smart TV, router WiFi o electrodomésticos con la regleta?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/movil-no-trae-cargador-baseus-llega-65w-bolsillo-1394508'>Si tu móvil no trae cargador, este de Baseus llega a 65W y cabe en el bolsillo</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-no-trae-cargador-baseus-llega-65w-bolsillo-1394508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/baseus-3682341.jpg?tf=1200x' alt='Si tu móvil no trae cargador, este de Baseus llega a 65W y cabe en el bolsillo' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-ahorro-bateria-extremo-movil-android-deberias-hacerlo-ahora-mismo-1393297'>Cómo activar el ahorro de batería extremo en tu móvil Android y por qué deberías hacerlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-ahorro-bateria-extremo-movil-android-deberias-hacerlo-ahora-mismo-1393297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-activar-ahorro-bateria-extremo-movil-android-deberias-hacerlo-ahora-mismo-3618574.jpg?tf=1200x' alt='Cómo activar el ahorro de batería extremo en tu móvil Android y por qué deberías hacerlo ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/como-funciona-0patch-salvavidas-windows-10-seguir-usandolo-1393980'>Qué es 0Patch y cómo funciona el salvavidas para Windows 10 que te permitirá seguir usándolo</a></h4>
     <a href='https://computerhoy.com/windows/como-funciona-0patch-salvavidas-windows-10-seguir-usandolo-1393980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/0patch-como-funciona-salvavidas-windows-10-todo-mundo-habla-3652125.jpg?tf=1200x' alt='Qué es 0Patch y cómo funciona el salvavidas para Windows 10 que te permitirá seguir usándolo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-exportar-certificado-digital-dispositivo-otro-1394541'>Cómo exportar el certificado digital de un dispositivo a otro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-exportar-certificado-digital-dispositivo-otro-1394541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/certificado-digital-2994750.jpg?tf=1200x' alt='Cómo exportar el certificado digital de un dispositivo a otro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-1394478'>El problema "pogo" estuvo cerca de impedir que la NASA llegase a la Luna: así lo solucionaron</a></h4>
-    <a href='https://computerhoy.com/espacio/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-1394478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-3677236.jpg?tf=1200x' alt='El problema "pogo" estuvo cerca de impedir que la NASA llegase a la Luna: así lo solucionaron' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-1393823'>Varapalo histórico al coche eléctrico: Mercedes vuelve a los motores de combustión</a></h4>
-    <a href='https://computerhoy.com/motor/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-1393823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/varapalo-historico-coche-electrico-mercedes-vuelve-motores-combustion-3648603.jpg?tf=1200x' alt='Varapalo histórico al coche eléctrico: Mercedes vuelve a los motores de combustión' />
     </a>
 </div>
 
