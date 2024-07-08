@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/netflix-ha-empezado-eliminar-planes-precios-populares-llegara-espana-1393861'>Netflix ha empezado a eliminar uno de sus planes de precios más populares: ¿llegará a España?</a></h4>
-    <a href='https://computerhoy.com/tv/netflix-ha-empezado-eliminar-planes-precios-populares-llegara-espana-1393861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/netflix-tablet-3133736.jpg?tf=1200x' alt='Netflix ha empezado a eliminar uno de sus planes de precios más populares: ¿llegará a España?' />
+    <h4><a href='https://computerhoy.com/tutoriales/convertir-sim-fisica-esim-como-1393753'>Cómo convertir tu SIM física en eSIM: tardarás segundos en hacerlo desde casa</a></h4>
+    <a href='https://computerhoy.com/tutoriales/convertir-sim-fisica-esim-como-1393753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/esim-3649537.jpg?tf=1200x' alt='Cómo convertir tu SIM física en eSIM: tardarás segundos en hacerlo desde casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-da-salto-aterrador-creacion-robots-conciencia-propia-1393873'>La inteligencia artificial da un salto aterrador con la creación de robots con conciencia propia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-da-salto-aterrador-creacion-robots-conciencia-propia-1393873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robots-inteligencia-artificial-china-3649378.jpg?tf=1200x' alt='La inteligencia artificial da un salto aterrador con la creación de robots con conciencia propia' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/25-mejores-fotos-perfil-whatsapp-291949'>Las 45 mejores fotos de perfil para WhatsApp para ponerte en 2024</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/25-mejores-fotos-perfil-whatsapp-291949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/45-mejores-fotos-perfil-whatsapp-ponerte-2024-3661698.jpg?tf=1200x' alt='Las 45 mejores fotos de perfil para WhatsApp para ponerte en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/lista-iptv-definitiva-42000-canales-television-gratis-todo-mundo-1394555'>La lista IPTV definitiva: más de 42.000 canales de televisión gratis de todo el mundo</a></h4>
-    <a href='https://computerhoy.com/tv/lista-iptv-definitiva-42000-canales-television-gratis-todo-mundo-1394555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/listas-iptv-3683266.jpg?tf=1200x' alt='La lista IPTV definitiva: más de 42.000 canales de televisión gratis de todo el mundo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-reaccionar-hacer-desconocido-te-escribe-whatsapp-1394571'>Cómo reaccionar y qué hacer si un desconocido te escribe en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-reaccionar-hacer-desconocido-te-escribe-whatsapp-1394571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-whatsapp-3683489.jpg?tf=1200x' alt='Cómo reaccionar y qué hacer si un desconocido te escribe en WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/wifi-pineapple-como-funciona-router-hackers-1392252'>WiFi Pineapple: qué es y cómo funciona el router de los hackers</a></h4>
-    <a href='https://computerhoy.com/redes/wifi-pineapple-como-funciona-router-hackers-1392252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wifi-pineapple-como-funciona-router-hackers-3566788.jpg?tf=1200x' alt='WiFi Pineapple: qué es y cómo funciona el router de los hackers' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-anade-bloc-notas-windows-esa-funcion-llevabas-esperando-40-anos-1394572'>Microsoft añade al Bloc de notas de Windows esa función que llevabas esperando más de 40 años</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-anade-bloc-notas-windows-esa-funcion-llevabas-esperando-40-anos-1394572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/blog-notas-windows-3683579.jpg?tf=1200x' alt='Microsoft añade al Bloc de notas de Windows esa función que llevabas esperando más de 40 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-1392538'>Cómo compartir tu ubicación en tiempo real en Google Maps, WhatsApp y Telegram</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-1392538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-3663333.jpg?tf=1200x' alt='Cómo compartir tu ubicación en tiempo real en Google Maps, WhatsApp y Telegram' />
+    <h4><a href='https://computerhoy.com/life/amante-vino-agradece-asteroide-extermino-dinosaurios-1394475'>¿Amante del vino? Agradece al asteroide que exterminó a los dinosaurios</a></h4>
+    <a href='https://computerhoy.com/life/amante-vino-agradece-asteroide-extermino-dinosaurios-1394475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-te-permite-ver-donde-estaba-casa-epoca-dinosaurios-3024004.jpg?tf=1200x' alt='¿Amante del vino? Agradece al asteroide que exterminó a los dinosaurios' />
     </a>
 </div>
 
