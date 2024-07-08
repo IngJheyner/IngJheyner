@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/rayas-cuentakilometros-no-son-adorno-1273948'>Las rayas del cuentakilómetros no son un adorno y son mucho más útiles de lo que crees</a></h4>
-    <a href='https://computerhoy.com/motor/rayas-cuentakilometros-no-son-adorno-1273948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cuentakilometros-coche-3084212.jpg?tf=1200x' alt='Las rayas del cuentakilómetros no son un adorno y son mucho más útiles de lo que crees' />
+    <h4><a href='https://computerhoy.com/tecnologia/cmf-watch-pro-2-buds-pro-2-nuevo-reloj-pantalla-redonda-auriculares-cancelacion-ruido-1393174'>CMF Watch Pro 2 y Buds Pro 2: así es el nuevo reloj de pantalla redonda y los auriculares con cancelación de ruido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cmf-watch-pro-2-buds-pro-2-nuevo-reloj-pantalla-redonda-auriculares-cancelacion-ruido-1393174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cmf-watch-pro-2-3643244.jpg?tf=1200x' alt='CMF Watch Pro 2 y Buds Pro 2: así es el nuevo reloj de pantalla redonda y los auriculares con cancelación de ruido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/cansado-viejo-movil-3-senales-te-indican-hora-cambiarlo-1393819'>¿Cansado de tu viejo móvil? 3 señales que te indican que es hora de cambiarlo</a></h4>
-    <a href='https://computerhoy.com/moviles/cansado-viejo-movil-3-senales-te-indican-hora-cambiarlo-1393819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movil-enfado-3648602.jpg?tf=1200x' alt='¿Cansado de tu viejo móvil? 3 señales que te indican que es hora de cambiarlo' />
+    <h4><a href='https://computerhoy.com/moviles/nothing-cmf-phone-1-caracteristicas-precio-informacion-1393161'>Nothing anuncia su primer móvil barato CMF Phone 1 con un diseño modular y un precio para romper el mercado</a></h4>
+    <a href='https://computerhoy.com/moviles/nothing-cmf-phone-1-caracteristicas-precio-informacion-1393161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cmf-phone-1-3643241.jpg?tf=1200x' alt='Nothing anuncia su primer móvil barato CMF Phone 1 con un diseño modular y un precio para romper el mercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/cuanto-consume-aire-acondicionado-trucos-reducir-consumo-pasar-calor-1393937'>Cuánto consume un aire acondicionado y trucos para reducir el consumo sin pasar calor</a></h4>
-    <a href='https://computerhoy.com/hogar/cuanto-consume-aire-acondicionado-trucos-reducir-consumo-pasar-calor-1393937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aire-acondicionado-3662873.jpg?tf=1200x' alt='Cuánto consume un aire acondicionado y trucos para reducir el consumo sin pasar calor' />
+    <h4><a href='https://computerhoy.com/alimentacion/inventan-helado-no-derrite-durante-4-horas-pero-tiene-gran-inconveniente-1394331'>Inventan un helado que no se derrite durante 4 horas, pero tiene un gran inconveniente</a></h4>
+    <a href='https://computerhoy.com/alimentacion/inventan-helado-no-derrite-durante-4-horas-pero-tiene-gran-inconveniente-1394331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chica-comiendo-helado-3682708.jpg?tf=1200x' alt='Inventan un helado que no se derrite durante 4 horas, pero tiene un gran inconveniente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727'>Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? </a></h4>
-    <a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/jovenes-movil-3656617.jpg?tf=1200x' alt='Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? ' />
+    <h4><a href='https://computerhoy.com/apple/apple-watch-series-x-todo-sabe-futuro-smartwatch-apple-1394524'>Apple Watch Series X: todo lo que se sabe del futuro smartwatch de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-series-x-todo-sabe-futuro-smartwatch-apple-1394524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-3291677.jpg?tf=1200x' alt='Apple Watch Series X: todo lo que se sabe del futuro smartwatch de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-1393230'>El impacto de la inteligencia artificial ya se deja ver: 60 escritores y editores de una empresa son sustituidos por ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-1393230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/impacto-inteligencia-artificial-ya-deja-ver-60-escritores-editores-empresa-son-sustituidos-chatgpt-3614574.jpg?tf=1200x' alt='El impacto de la inteligencia artificial ya se deja ver: 60 escritores y editores de una empresa son sustituidos por ChatGPT' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-waze-dime-como-conduces-te-dire-cual-adecuada-ti-1393839'>Google Maps o Waze: dime cómo conduces, y te diré cuál es más adecuada para ti</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-waze-dime-como-conduces-te-dire-cual-adecuada-ti-1393839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/google-maps-vs-waze-2629821.jpg?tf=1200x' alt='Google Maps o Waze: dime cómo conduces, y te diré cuál es más adecuada para ti' />
     </a>
 </div>
 
