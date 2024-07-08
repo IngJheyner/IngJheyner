@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/significa-n-movil-android-deberias-tenerlo-siempre-activado-1394656'>Qué significa la N en un móvil Android y por qué deberías tenerlo siempre activado</a></h4>
+    <a href='https://computerhoy.com/android/significa-n-movil-android-deberias-tenerlo-siempre-activado-1394656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/significa-n-movil-android-deberias-tenerlo-siempre-activado-3685886.jpg?tf=1200x' alt='Qué significa la N en un móvil Android y por qué deberías tenerlo siempre activado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-recula-restaura-guias-crear-cuentas-locales-windows-1394665'>Microsoft recula y restaura las guías para crear cuentas locales en Windows</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-recula-restaura-guias-crear-cuentas-locales-windows-1394665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-10-3375157.jpg?tf=1200x' alt='Microsoft recula y restaura las guías para crear cuentas locales en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/mejores-novelas-stephen-king-leer-verano-1394344'>Calor y miedo: estas son las 5 mejores novelas de Stephen King para leer en verano</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mejores-novelas-stephen-king-leer-verano-1394344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/calor-miedo-estas-son-5-mejores-novelas-stephen-king-leer-verano-3683894.jpg?tf=1200x' alt='Calor y miedo: estas son las 5 mejores novelas de Stephen King para leer en verano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-elegir-fuente-alimentacion-adecuada-nuevo-pc-1393748'>Cómo elegir la fuente de alimentación adecuada para tu nuevo PC</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-elegir-fuente-alimentacion-adecuada-nuevo-pc-1393748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/conexion-cable-psu-pc-3644134.jpg?tf=1200x' alt='Cómo elegir la fuente de alimentación adecuada para tu nuevo PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/truco-electricistas-saber-cable-electrico-buena-mala-calidad-1394218'>El truco de los electricistas para saber si un cable eléctrico es de buena o mala calidad</a></h4>
-    <a href='https://computerhoy.com/hogar/truco-electricistas-saber-cable-electrico-buena-mala-calidad-1394218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/truco-electricistas-saber-cable-electrico-buena-mala-calidad-3660453.jpg?tf=1200x' alt='El truco de los electricistas para saber si un cable eléctrico es de buena o mala calidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aplicaciones-imprescindibles-debes-instalar-viajas-crucero-1393816'>Aplicaciones imprescindibles que debes instalar si viajas en un crucero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aplicaciones-imprescindibles-debes-instalar-viajas-crucero-1393816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apps-crucero-3649707.jpg?tf=1200x' alt='Aplicaciones imprescindibles que debes instalar si viajas en un crucero' />
     </a>
 </div>
 
