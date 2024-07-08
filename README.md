@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/-mapa-interactivo-cambio-climatico-ciudad-dentro-60-anos-1394686'>Este aterrador mapa interactivo muestra como será tu ciudad dentro de 60 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/-mapa-interactivo-cambio-climatico-ciudad-dentro-60-anos-1394686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aterrador-mapa-interactivo-muestra-como-sera-ciudad-dentro-60-anos-3686780.jpg?tf=1200x' alt='Este aterrador mapa interactivo muestra como será tu ciudad dentro de 60 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/pictionary-contra-ia-1394490'>Ya está a la venta el Pictionary en el que juegas contra la IA</a></h4>
+    <a href='https://computerhoy.com/gaming/pictionary-contra-ia-1394490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1720387699936-3679792.jpg?tf=1200x' alt='Ya está a la venta el Pictionary en el que juegas contra la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-desvela-espectacular-estacion-espacial-gateway-luna-1394489'>La NASA desvela la espectacular estación espacial Gateway, que orbitará la Luna</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-desvela-espectacular-estacion-espacial-gateway-luna-1394489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1720382225470-3679367.jpg?tf=1200x' alt='La NASA desvela la espectacular estación espacial Gateway, que orbitará la Luna' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671'>Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana</a></h4>
     <a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-3686413.jpg?tf=1200x' alt='Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/microsoft-prohibe-empleados-chinos-usar-moviles-android-1394682'>Microsoft prohíbe a sus empleados chinos usar móviles Android</a></h4>
-    <a href='https://computerhoy.com/moviles/microsoft-prohibe-empleados-chinos-usar-moviles-android-1394682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-prohibe-empleados-chinos-usar-moviles-android-3685738.jpg?tf=1200x' alt='Microsoft prohíbe a sus empleados chinos usar móviles Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tdtchannels-actualiza-nuevos-canales-tv-radio-gratis-registro-instalar-nada-1394679'>TDTChannels se actualiza con nuevos canales de TV y radio gratis, sin registro y sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/apps/tdtchannels-actualiza-nuevos-canales-tv-radio-gratis-registro-instalar-nada-1394679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels se actualiza con nuevos canales de TV y radio gratis, sin registro y sin instalar nada' />
     </a>
 </div>
 
