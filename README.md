@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-bizum-entidad-bancaria-1392800'>¿Cómo cambiar Bizum de entidad bancaria? </a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-bizum-entidad-bancaria-1392800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bizum-bancos-3599209.jpg?tf=1200x' alt='¿Cómo cambiar Bizum de entidad bancaria? ' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-echo-spot-pantalla-mesilla-noche-1394564'>Amazon lanza el nuevo altavoz inteligente Echo Spot con pantalla, perfecto para tenerlo en la mesilla de noche</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-echo-spot-pantalla-mesilla-noche-1394564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-echo-spot-pantalla-3683267.jpg?tf=1200x' alt='Amazon lanza el nuevo altavoz inteligente Echo Spot con pantalla, perfecto para tenerlo en la mesilla de noche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/significa-nsfw-usa-internet-1394539'>¿Qué significa NSFW y por qué se usa en internet?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/significa-nsfw-usa-internet-1394539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/seguridad-internet-3683072.jpg?tf=1200x' alt='¿Qué significa NSFW y por qué se usa en internet?' />
+    <h4><a href='https://computerhoy.com/energia/cuanto-dura-bateria-sai-1394386'>¿Cuánto dura la batería de un SAI si se va la luz?</a></h4>
+    <a href='https://computerhoy.com/energia/cuanto-dura-bateria-sai-1394386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/energia-sistema-alimentacion-interrumpida-3666188.jpg?tf=1200x' alt='¿Cuánto dura la batería de un SAI si se va la luz?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/25-mejores-fotos-perfil-whatsapp-291949'>Las 45 mejores fotos de perfil para WhatsApp para ponerte en 2024</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/25-mejores-fotos-perfil-whatsapp-291949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/45-mejores-fotos-perfil-whatsapp-ponerte-2024-3661698.jpg?tf=1200x' alt='Las 45 mejores fotos de perfil para WhatsApp para ponerte en 2024' />
+    <h4><a href='https://computerhoy.com/tecnologia/funcion-inutil-moviles-android-come-bateria-desactivar-1382269'>Adiós a la batería que dura poco: desactiva esta función de Android que te la está robando</a></h4>
+    <a href='https://computerhoy.com/tecnologia/funcion-inutil-moviles-android-come-bateria-desactivar-1382269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bateria-movil-android-3304524.jpg?tf=1200x' alt='Adiós a la batería que dura poco: desactiva esta función de Android que te la está robando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-reaccionar-hacer-desconocido-te-escribe-whatsapp-1394571'>Cómo reaccionar y qué hacer si un desconocido te escribe en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-reaccionar-hacer-desconocido-te-escribe-whatsapp-1394571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-whatsapp-3683489.jpg?tf=1200x' alt='Cómo reaccionar y qué hacer si un desconocido te escribe en WhatsApp' />
+    <h4><a href='https://computerhoy.com/tecnologia/qpu-sirve-futuro-computacion-cuantica-1393794'>Qué es la QPU, para qué sirve y por qué es el futuro de la computación cuántica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/qpu-sirve-futuro-computacion-cuantica-1393794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/qpu-sirve-futuro-computacion-cuantica-3646830.jpg?tf=1200x' alt='Qué es la QPU, para qué sirve y por qué es el futuro de la computación cuántica' />
     </a>
 </div>
 
