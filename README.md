@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/adaptaciones-videojuegos-salieron-demasiado-tarde-1394169'>La película de Watch Dogs no es la primera: 5 adaptaciones de videojuegos que salieron demasiado tarde</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/adaptaciones-videojuegos-salieron-demasiado-tarde-1394169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/watch-dogs-3285298.jpg?tf=1200x' alt='La película de Watch Dogs no es la primera: 5 adaptaciones de videojuegos que salieron demasiado tarde' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-1394171'>Obedece a la policía y utiliza este truco para evitar que tu móvil se conecte automáticamente a dispositivos por Bluetooth</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-1394171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-3658654.jpg?tf=1200x' alt='Obedece a la policía y utiliza este truco para evitar que tu móvil se conecte automáticamente a dispositivos por Bluetooth' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/peor-semana-verano-comprar-amazon-expertos-1394816'>Por qué esta es la peor semana del verano para comprar en Amazon, según los expertos</a></h4>
-    <a href='https://computerhoy.com/amazon/peor-semana-verano-comprar-amazon-expertos-1394816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-prime-3691949.jpg?tf=1200x' alt='Por qué esta es la peor semana del verano para comprar en Amazon, según los expertos' />
+    <h4><a href='https://computerhoy.com/entretenimiento/shadowz-netflix-peliculas-miedo-terror-llega-espana-precio-peliculas-disponibles-1394203'>Shadowz, el Netflix de las películas de miedo y terror llega a España: precio y películas disponibles</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/shadowz-netflix-peliculas-miedo-terror-llega-espana-precio-peliculas-disponibles-1394203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/shadowz-3658653.jpg?tf=1200x' alt='Shadowz, el Netflix de las películas de miedo y terror llega a España: precio y películas disponibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cuando-internet-muerto-ya-no-teoria-conspiracion-42-trafico-creado-bots-ia-1394050'>Cuando Internet Muerto ya no es una teoría de la conspiración: el 42% del tráfico está creado por bots y la IA</a></h4>
-    <a href='https://computerhoy.com/internet/cuando-internet-muerto-ya-no-teoria-conspiracion-42-trafico-creado-bots-ia-1394050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/internet-muerto-3657485.jpg?tf=1200x' alt='Cuando Internet Muerto ya no es una teoría de la conspiración: el 42% del tráfico está creado por bots y la IA' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-recula-restaura-guias-crear-cuentas-locales-windows-1394665'>Microsoft recula y restaura las guías para crear cuentas locales en Windows</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-recula-restaura-guias-crear-cuentas-locales-windows-1394665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-10-3375157.jpg?tf=1200x' alt='Microsoft recula y restaura las guías para crear cuentas locales en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-1394845'>Esta app que no usas es la que más batería del móvil gasta: así he conseguido que su consumo sea cero</a></h4>
-    <a href='https://computerhoy.com/android/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-1394845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-3692955.jpg?tf=1200x' alt='Esta app que no usas es la que más batería del móvil gasta: así he conseguido que su consumo sea cero' />
+    <h4><a href='https://computerhoy.com/tecnologia/gran-hermano-llega-teletrabajo-ia-pone-servicio-empresas-detectar-falsa-actividad-1394201'>El Gran Hermano llega al teletrabajo, la IA se pone al servicio de las empresas para detectar falsa actividad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gran-hermano-llega-teletrabajo-ia-pone-servicio-empresas-detectar-falsa-actividad-1394201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teletrabajo-3658649.jpg?tf=1200x' alt='El Gran Hermano llega al teletrabajo, la IA se pone al servicio de las empresas para detectar falsa actividad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/razon-nunca-debes-tirar-paquete-amazon-datos-basura-1394632'>Esta es la razón por la que nunca debes tirar un paquete de Amazon con tus datos a la basura</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/razon-nunca-debes-tirar-paquete-amazon-datos-basura-1394632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razon-nunca-debes-tirar-paquete-amazon-datos-basura-3684531.jpg?tf=1200x' alt='Esta es la razón por la que nunca debes tirar un paquete de Amazon con tus datos a la basura' />
+    <h4><a href='https://computerhoy.com/motor/bicicleta-ruedas-cuadradas-1230188'>Esta bicicleta tiene ruedas cuadradas y... ¡funciona! (vídeo)</a></h4>
+    <a href='https://computerhoy.com/motor/bicicleta-ruedas-cuadradas-1230188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/llega-bicicleta-ruedas-cuadradas-realmente-funciona-video-3008494.jpg?tf=1200x' alt='Esta bicicleta tiene ruedas cuadradas y... ¡funciona! (vídeo)' />
     </a>
 </div>
 
