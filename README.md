@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-1393973'>Un experto en seguridad asegura que hay un 99,9% de posibilidades de que la IA suponga el fin de la humanidad, ¿amenaza real o ganas de notoriedad?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-1393973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-3651386.jpg?tf=1200x' alt='Un experto en seguridad asegura que hay un 99,9% de posibilidades de que la IA suponga el fin de la humanidad, ¿amenaza real o ganas de notoriedad?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/modders-crean-grafica-bestial-deja-panales-rtx-4090-1394154'>Unos modders crean una gráfica bestial que deja en pañales a la RTX 4090</a></h4>
+    <a href='https://computerhoy.com/tecnologia/modders-crean-grafica-bestial-deja-panales-rtx-4090-1394154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gpu-teclab-3656886.jpg?tf=1200x' alt='Unos modders crean una gráfica bestial que deja en pañales a la RTX 4090' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nueva-tecnologia-enfria-procesadores-temperaturas-bajas-espacio-exterior-1394819'>Esta nueva tecnología enfría los procesadores a temperaturas más bajas que las del espacio exterior</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nueva-tecnologia-enfria-procesadores-temperaturas-bajas-espacio-exterior-1394819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lanes-epfl-3691768.jpg?tf=1200x' alt='Esta nueva tecnología enfría los procesadores a temperaturas más bajas que las del espacio exterior' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/funcion-whatsapp-debes-desactivar-evitar-estafas-1394757'>La función de WhatsApp que debes desactivar para evitar estafas</a></h4>
     <a href='https://computerhoy.com/apps/funcion-whatsapp-debes-desactivar-evitar-estafas-1394757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-whatsapp-debes-desactivar-evitar-estafas-3690567.jpg?tf=1200x' alt='La función de WhatsApp que debes desactivar para evitar estafas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/prime-day-1308000'>Amazon Prime Day 2024: cuándo es, ofertas destacadas y consejos para conseguir los mejores descuentos</a></h4>
     <a href='https://computerhoy.com/prime-day-1308000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/amazon-prime-day-2755981.jpg?tf=1200x' alt='Amazon Prime Day 2024: cuándo es, ofertas destacadas y consejos para conseguir los mejores descuentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-fin-actualiza-kernel-linux-wsl-2-anos-medio-1394129'>Microsoft por fin actualiza el kernel de Linux en WSL tras 2 años y medio</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-fin-actualiza-kernel-linux-wsl-2-anos-medio-1394129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laptop-windows-11-linux-3649872.jpg?tf=1200x' alt='Microsoft por fin actualiza el kernel de Linux en WSL tras 2 años y medio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/calma-google-maps-no-anadiendo-anuncios-como-waze-menos-momento-1394782'>Calma, Google Maps no está añadiendo anuncios como Waze, al menos de momento</a></h4>
-    <a href='https://computerhoy.com/apps/calma-google-maps-no-anadiendo-anuncios-como-waze-menos-momento-1394782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-3690911.jpg?tf=1200x' alt='Calma, Google Maps no está añadiendo anuncios como Waze, al menos de momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-reaccionar-hacer-desconocido-te-escribe-whatsapp-1394571'>Cómo reaccionar y qué hacer si un desconocido te escribe en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-reaccionar-hacer-desconocido-te-escribe-whatsapp-1394571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-whatsapp-3683489.jpg?tf=1200x' alt='Cómo reaccionar y qué hacer si un desconocido te escribe en WhatsApp' />
     </a>
 </div>
 
