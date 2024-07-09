@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671'>Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana</a></h4>
+    <a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-3686413.jpg?tf=1200x' alt='Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-1394678'>Una nueva estafa camufla gráficas RTX 3080 Ti como si fueran RTX 4090 con un nivel de detalle increíble</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-1394678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-3686487.jpg?tf=1200x' alt='Una nueva estafa camufla gráficas RTX 3080 Ti como si fueran RTX 4090 con un nivel de detalle increíble' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/instituto-alumnos-solo-pueden-usar-telefonos-tontos-nokia-1394878'>En este instituto los alumnos solo podrán usar teléfonos "tontos" de Nokia</a></h4>
+    <a href='https://computerhoy.com/moviles/instituto-alumnos-solo-pueden-usar-telefonos-tontos-nokia-1394878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/instituto-alumnos-solo-pueden-usar-telefonos-tontos-nokia-3693555.jpg?tf=1200x' alt='En este instituto los alumnos solo podrán usar teléfonos "tontos" de Nokia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-1394859'>Códigos secretos de Android para realizar tareas de seguridad, privacidad y mantenimiento al instante</a></h4>
+    <a href='https://computerhoy.com/android/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-1394859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-3693847.jpg?tf=1200x' alt='Códigos secretos de Android para realizar tareas de seguridad, privacidad y mantenimiento al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ya-disponible-online-formulario-sepe-solicitar-ayuda-600-euros-1394874'>Ya está disponible online el formulario de SEPE para solicitar la ayuda de 600 euros</a></h4>
     <a href='https://computerhoy.com/life/ya-disponible-online-formulario-sepe-solicitar-ayuda-600-euros-1394874' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-apuntarse-paro-2024-sellar-tarjeta-paro-online-sepe-3655176.jpg?tf=1200x' alt='Ya está disponible online el formulario de SEPE para solicitar la ayuda de 600 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/altavoz-inteligente-salva-vida-familia-incendio-pesar-no-tener-sensor-temperatura-1394873'>Un altavoz inteligente salva la vida de una familia en un incendio a pesar de no tener sensor de temperatura</a></h4>
-    <a href='https://computerhoy.com/apple/altavoz-inteligente-salva-vida-familia-incendio-pesar-no-tener-sensor-temperatura-1394873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/pantalla-homepod-3007202.jpg?tf=1200x' alt='Un altavoz inteligente salva la vida de una familia en un incendio a pesar de no tener sensor de temperatura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/cuidado-versiones-21h2-22h2-windows-11-quedaran-obsoletas-menos-90-dias-1394872'>¡Cuidado! Las versiones 21H2 y 22H2 de Windows 11 se quedarán obsoletas en menos de 90 días</a></h4>
-    <a href='https://computerhoy.com/windows/cuidado-versiones-21h2-22h2-windows-11-quedaran-obsoletas-menos-90-dias-1394872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-acelerar-instalacion-actualizaciones-windows-11-3469515.jpg?tf=1200x' alt='¡Cuidado! Las versiones 21H2 y 22H2 de Windows 11 se quedarán obsoletas en menos de 90 días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gamgee-convierte-wifi-detector-intrusos-1394486'>Vacaciones tranquilas: Gamgee convierte el WiFi en un detector de intrusos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gamgee-convierte-wifi-detector-intrusos-1394486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vacaciones-tranquilas-gamgee-convierte-wifi-detector-intrusos-3678797.jpg?tf=1200x' alt='Vacaciones tranquilas: Gamgee convierte el WiFi en un detector de intrusos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-1394171'>Obedece a la policía y utiliza este truco para evitar que tu móvil se conecte automáticamente a dispositivos por Bluetooth</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-1394171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-3658654.jpg?tf=1200x' alt='Obedece a la policía y utiliza este truco para evitar que tu móvil se conecte automáticamente a dispositivos por Bluetooth' />
     </a>
 </div>
 
