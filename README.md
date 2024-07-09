@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/adaptaciones-videojuegos-salieron-demasiado-tarde-1394169'>La película de Watch Dogs no es la primera: 5 adaptaciones de videojuegos que salieron demasiado tarde</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/adaptaciones-videojuegos-salieron-demasiado-tarde-1394169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/watch-dogs-3285298.jpg?tf=1200x' alt='La película de Watch Dogs no es la primera: 5 adaptaciones de videojuegos que salieron demasiado tarde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/peor-semana-verano-comprar-amazon-expertos-1394816'>Por qué esta es la peor semana del verano para comprar en Amazon, según los expertos</a></h4>
+    <a href='https://computerhoy.com/amazon/peor-semana-verano-comprar-amazon-expertos-1394816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-prime-3691949.jpg?tf=1200x' alt='Por qué esta es la peor semana del verano para comprar en Amazon, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/cuando-internet-muerto-ya-no-teoria-conspiracion-42-trafico-creado-bots-ia-1394050'>Cuando Internet Muerto ya no es una teoría de la conspiración: el 42% del tráfico está creado por bots y la IA</a></h4>
+    <a href='https://computerhoy.com/internet/cuando-internet-muerto-ya-no-teoria-conspiracion-42-trafico-creado-bots-ia-1394050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/internet-muerto-3657485.jpg?tf=1200x' alt='Cuando Internet Muerto ya no es una teoría de la conspiración: el 42% del tráfico está creado por bots y la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-1394845'>Esta app que no usas es la que más batería del móvil gasta: así he conseguido que su consumo sea cero</a></h4>
+    <a href='https://computerhoy.com/android/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-1394845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-3692955.jpg?tf=1200x' alt='Esta app que no usas es la que más batería del móvil gasta: así he conseguido que su consumo sea cero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/razon-nunca-debes-tirar-paquete-amazon-datos-basura-1394632'>Esta es la razón por la que nunca debes tirar un paquete de Amazon con tus datos a la basura</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/razon-nunca-debes-tirar-paquete-amazon-datos-basura-1394632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razon-nunca-debes-tirar-paquete-amazon-datos-basura-3684531.jpg?tf=1200x' alt='Esta es la razón por la que nunca debes tirar un paquete de Amazon con tus datos a la basura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-logra-100-criticas-positivas-dos-ultimas-poco-conocidas-series-estreno-1394055'>Netflix logra el 100% de críticas positivas en dos de sus últimas (y poco conocidas) series de estreno</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-logra-100-criticas-positivas-dos-ultimas-poco-conocidas-series-estreno-1394055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/series-netflix-3656472.jpg?tf=1200x' alt='Netflix logra el 100% de críticas positivas en dos de sus últimas (y poco conocidas) series de estreno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/perdido-cajon-solucion-hacer-volar-wifi-1394164'>Está perdido en un cajón y es la solución para hacer volar tu WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/perdido-cajon-solucion-hacer-volar-wifi-1394164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/perdido-cajon-solucion-hacer-volar-wifi-3658080.jpg?tf=1200x' alt='Está perdido en un cajón y es la solución para hacer volar tu WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-truco-viral-arrasa-espana-1394806'>Guardar una hoja de laurel en la carcasa del móvil: el truco viral que arrasa en España</a></h4>
-    <a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-truco-viral-arrasa-espana-1394806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laurel-telefono-3691593.jpg?tf=1200x' alt='Guardar una hoja de laurel en la carcasa del móvil: el truco viral que arrasa en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-fotografias-grupo-whatsapp-galeria-1394589'>Cómo ocultar las fotografías de un grupo de WhatsApp de la galería</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-fotografias-grupo-whatsapp-galeria-1394589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-3684064.jpg?tf=1200x' alt='Cómo ocultar las fotografías de un grupo de WhatsApp de la galería' />
     </a>
 </div>
 
