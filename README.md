@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/convertir-sim-fisica-esim-como-1393753'>Cómo convertir tu SIM física en eSIM: tardarás segundos en hacerlo desde casa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/convertir-sim-fisica-esim-como-1393753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/esim-3649537.jpg?tf=1200x' alt='Cómo convertir tu SIM física en eSIM: tardarás segundos en hacerlo desde casa' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-1392538'>Cómo compartir tu ubicación en tiempo real en Google Maps, WhatsApp y Telegram</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-1392538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-3663333.jpg?tf=1200x' alt='Cómo compartir tu ubicación en tiempo real en Google Maps, WhatsApp y Telegram' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-exportar-certificado-digital-dispositivo-otro-1394541'>Cómo exportar el certificado digital de un dispositivo a otro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-exportar-certificado-digital-dispositivo-otro-1394541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/certificado-digital-2994750.jpg?tf=1200x' alt='Cómo exportar el certificado digital de un dispositivo a otro' />
+    <h4><a href='https://computerhoy.com/tecnologia/investigadores-disenan-robot-empaquetar-compras-supermercado-1394472'>Investigadores diseñan un robot para empaquetar tus compras en el supermercado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/investigadores-disenan-robot-empaquetar-compras-supermercado-1394472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/investigadores-disenan-robot-empaquetar-compras-supermercado-3676523.jpg?tf=1200x' alt='Investigadores diseñan un robot para empaquetar tus compras en el supermercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-1394478'>El problema "pogo" estuvo cerca de impedir que la NASA llegase a la Luna: así lo solucionaron</a></h4>
-    <a href='https://computerhoy.com/espacio/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-1394478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-3677236.jpg?tf=1200x' alt='El problema "pogo" estuvo cerca de impedir que la NASA llegase a la Luna: así lo solucionaron' />
+    <h4><a href='https://computerhoy.com/apps/stop-no-actualices-android-auto-necesitas-funcion-1394074'>¡STOP! No actualices Android Auto si necesitas esta función</a></h4>
+    <a href='https://computerhoy.com/apps/stop-no-actualices-android-auto-necesitas-funcion-1394074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-actualizacion-3655885.jpg?tf=1200x' alt='¡STOP! No actualices Android Auto si necesitas esta función' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/netflix-planes-precios-todo-debes-saber-plataforma-streaming-1394597'>Netflix: planes, precios y todo lo que debes saber de la plataforma de streaming</a></h4>
-    <a href='https://computerhoy.com/apps/netflix-planes-precios-todo-debes-saber-plataforma-streaming-1394597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-plataforma-3529071.jpg?tf=1200x' alt='Netflix: planes, precios y todo lo que debes saber de la plataforma de streaming' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-1394748'>10.000 millones de contraseñas filtradas: cómo saber si la tuya es una de ellas para cambiarla inmediatamente</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-1394748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-3690203.jpg?tf=1200x' alt='10.000 millones de contraseñas filtradas: cómo saber si la tuya es una de ellas para cambiarla inmediatamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-quedara-margen-inteligencia-artificial-generativa-1394062'>Nintendo Switch 2 se quedará al margen de la inteligencia artificial generativa</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-2-quedara-margen-inteligencia-artificial-generativa-1394062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sabemos-nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-3281259.jpg?tf=1200x' alt='Nintendo Switch 2 se quedará al margen de la inteligencia artificial generativa' />
+    <h4><a href='https://computerhoy.com/moviles/sencillo-gesto-diario-proteger-movil-mejorar-rendimiento-pocos-segundos-1394753'>El sencillo gesto diario para proteger tu móvil y mejorar su rendimiento en pocos segundos</a></h4>
+    <a href='https://computerhoy.com/moviles/sencillo-gesto-diario-proteger-movil-mejorar-rendimiento-pocos-segundos-1394753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/moviles-3690198.jpg?tf=1200x' alt='El sencillo gesto diario para proteger tu móvil y mejorar su rendimiento en pocos segundos' />
     </a>
 </div>
 
