@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/recibes-llamada-familiar-estafa-ya-marcha-1394561'>Si recibes esta llamada de un familiar, la estafa ya está en marcha</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/recibes-llamada-familiar-estafa-ya-marcha-1394561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-telefonica-3683426.jpg?tf=1200x' alt='Si recibes esta llamada de un familiar, la estafa ya está en marcha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/alternativa-google-maps-waze-premium-12-meses-gratis-1375853'>Consigue 12 meses gratis de la mejor alternativa premium a Google Maps y Waze</a></h4>
+    <a href='https://computerhoy.com/motor/alternativa-google-maps-waze-premium-12-meses-gratis-1375853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tomtom-go-navigation-2580837.jpg?tf=1200x' alt='Consigue 12 meses gratis de la mejor alternativa premium a Google Maps y Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-bizum-como-metodo-pago-pedidos-amazon-1394777'>Cómo añadir Bizum como método de pago para tus pedidos de Amazon</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-anadir-bizum-como-metodo-pago-pedidos-amazon-1394777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bizum-amazon-3690750.jpg?tf=1200x' alt='Cómo añadir Bizum como método de pago para tus pedidos de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/whatsapp-no-funciona-comprueba-movil-encuentra-lista-1394097'>¿WhatsApp no funciona? Comprueba si tu móvil se encuentra en esta lista</a></h4>
+    <a href='https://computerhoy.com/moviles/whatsapp-no-funciona-comprueba-movil-encuentra-lista-1394097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-no-funciona-comprueba-movil-encuentra-lista-3656173.jpg?tf=1200x' alt='¿WhatsApp no funciona? Comprueba si tu móvil se encuentra en esta lista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-1392538'>Cómo compartir tu ubicación en tiempo real en Google Maps, WhatsApp y Telegram</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-1392538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-3663333.jpg?tf=1200x' alt='Cómo compartir tu ubicación en tiempo real en Google Maps, WhatsApp y Telegram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/investigadores-disenan-robot-empaquetar-compras-supermercado-1394472'>Investigadores diseñan un robot para empaquetar tus compras en el supermercado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/investigadores-disenan-robot-empaquetar-compras-supermercado-1394472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/investigadores-disenan-robot-empaquetar-compras-supermercado-3676523.jpg?tf=1200x' alt='Investigadores diseñan un robot para empaquetar tus compras en el supermercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/stop-no-actualices-android-auto-necesitas-funcion-1394074'>¡STOP! No actualices Android Auto si necesitas esta función</a></h4>
-    <a href='https://computerhoy.com/apps/stop-no-actualices-android-auto-necesitas-funcion-1394074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-actualizacion-3655885.jpg?tf=1200x' alt='¡STOP! No actualices Android Auto si necesitas esta función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-1394748'>10.000 millones de contraseñas filtradas: cómo saber si la tuya es una de ellas para cambiarla inmediatamente</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-1394748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-3690203.jpg?tf=1200x' alt='10.000 millones de contraseñas filtradas: cómo saber si la tuya es una de ellas para cambiarla inmediatamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sencillo-gesto-diario-proteger-movil-mejorar-rendimiento-pocos-segundos-1394753'>El sencillo gesto diario para proteger tu móvil y mejorar su rendimiento en pocos segundos</a></h4>
-    <a href='https://computerhoy.com/moviles/sencillo-gesto-diario-proteger-movil-mejorar-rendimiento-pocos-segundos-1394753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/moviles-3690198.jpg?tf=1200x' alt='El sencillo gesto diario para proteger tu móvil y mejorar su rendimiento en pocos segundos' />
     </a>
 </div>
 
