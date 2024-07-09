@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-uses-napster-edonkey-ni-kazaa-dicen-universidades-norteamericanas-2024-1394703'>"No uses Napster, eDonkey ni KaZaA", dicen las universidades norteamericanas en 2024</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-uses-napster-edonkey-ni-kazaa-dicen-universidades-norteamericanas-2024-1394703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-uses-napster-limeware-ni-kazaa-dicen-universidades-norteamericanas-2024-3688993.jpg?tf=1200x' alt='"No uses Napster, eDonkey ni KaZaA", dicen las universidades norteamericanas en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/app-te-ha-estado-espiando-microfono-durante-anos-todavia-no-has-eliminado-1394388'>Esta app te ha estado espiando por el micrófono durante años: ¿todavía no la has eliminado?</a></h4>
     <a href='https://computerhoy.com/apps/app-te-ha-estado-espiando-microfono-durante-anos-todavia-no-has-eliminado-1394388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/app-te-ha-estado-espiando-microfono-durante-anos-todavia-no-has-eliminado-3666867.jpg?tf=1200x' alt='Esta app te ha estado espiando por el micrófono durante años: ¿todavía no la has eliminado?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/soy-adicto-mochilas-estas-son-preferidas-deberias-buscar-mochila-tech-1393705'>Soy un adicto a las mochilas: estas son mis preferidas y qué deberías buscar en tu "mochila tech"</a></h4>
     <a href='https://computerhoy.com/life/soy-adicto-mochilas-estas-son-preferidas-deberias-buscar-mochila-tech-1393705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/persona-mochila-calle-3643841.jpg?tf=1200x' alt='Soy un adicto a las mochilas: estas son mis preferidas y qué deberías buscar en tu "mochila tech"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/siempre-busco-movil-despues-7-anos-siendo-reviewer-1393675'>Lo que siempre busco en un móvil después de 7 años siendo reviewer</a></h4>
-    <a href='https://computerhoy.com/moviles/siempre-busco-movil-despues-7-anos-siendo-reviewer-1393675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/honor-magic-6-pro-3663014.jpg?tf=1200x' alt='Lo que siempre busco en un móvil después de 7 años siendo reviewer' />
     </a>
 </div>
 
