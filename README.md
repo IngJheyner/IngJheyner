@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-uses-napster-edonkey-ni-kazaa-dicen-universidades-norteamericanas-2024-1394703'>"No uses Napster, eDonkey ni KaZaA", dicen las universidades norteamericanas en 2024</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-uses-napster-edonkey-ni-kazaa-dicen-universidades-norteamericanas-2024-1394703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-uses-napster-limeware-ni-kazaa-dicen-universidades-norteamericanas-2024-3688993.jpg?tf=1200x' alt='"No uses Napster, eDonkey ni KaZaA", dicen las universidades norteamericanas en 2024' />
+    <h4><a href='https://computerhoy.com/apps/hablar-mal-jefe-conversacion-privada-incluso-whatsapp-no-motivo-despido-1394479'>Hablar mal de tu jefe en una conversación privada (incluso en WhatsApp) no es motivo de despido</a></h4>
+    <a href='https://computerhoy.com/apps/hablar-mal-jefe-conversacion-privada-incluso-whatsapp-no-motivo-despido-1394479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hablar-mal-jefe-conversacion-privada-incluso-whatsapp-no-motivo-despedir-3682488.jpg?tf=1200x' alt='Hablar mal de tu jefe en una conversación privada (incluso en WhatsApp) no es motivo de despido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-te-ha-estado-espiando-microfono-durante-anos-todavia-no-has-eliminado-1394388'>Esta app te ha estado espiando por el micrófono durante años: ¿todavía no la has eliminado?</a></h4>
-    <a href='https://computerhoy.com/apps/app-te-ha-estado-espiando-microfono-durante-anos-todavia-no-has-eliminado-1394388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/app-te-ha-estado-espiando-microfono-durante-anos-todavia-no-has-eliminado-3666867.jpg?tf=1200x' alt='Esta app te ha estado espiando por el micrófono durante años: ¿todavía no la has eliminado?' />
+    <h4><a href='https://computerhoy.com/tecnologia/tener-elon-musk-como-jefe-todo-menos-camino-rosas-ceo-x-1394523'>Tener a Elon Musk como jefe es de todo menos un camino de rosas según la CEO de X</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tener-elon-musk-como-jefe-todo-menos-camino-rosas-ceo-x-1394523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-presenta-linda-yaccarino-nueva-ceo-twitter-ejecutiva-nbc-no-ha-gustado-nada-seguidores-3032568.jpg?tf=1200x' alt='Tener a Elon Musk como jefe es de todo menos un camino de rosas según la CEO de X' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-pixel-watch-2-oferta-amazon-1361568'>Google tiene un smartwatch casi perfecto: nos encanta y además ahora tiene una rebaja muy top</a></h4>
-    <a href='https://computerhoy.com/android/google-pixel-watch-2-oferta-amazon-1361568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199982.jpg?tf=1200x' alt='Google tiene un smartwatch casi perfecto: nos encanta y además ahora tiene una rebaja muy top' />
+    <h4><a href='https://computerhoy.com/google/google-punto-mira-imagenes-explicitas-no-retira-internet-1394713'>Google en el punto de mira por las imágenes explícitas que no retira de internet</a></h4>
+    <a href='https://computerhoy.com/google/google-punto-mira-imagenes-explicitas-no-retira-internet-1394713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mujer-estresada-3689733.jpg?tf=1200x' alt='Google en el punto de mira por las imágenes explícitas que no retira de internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/soy-adicto-mochilas-estas-son-preferidas-deberias-buscar-mochila-tech-1393705'>Soy un adicto a las mochilas: estas son mis preferidas y qué deberías buscar en tu "mochila tech"</a></h4>
-    <a href='https://computerhoy.com/life/soy-adicto-mochilas-estas-son-preferidas-deberias-buscar-mochila-tech-1393705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/persona-mochila-calle-3643841.jpg?tf=1200x' alt='Soy un adicto a las mochilas: estas son mis preferidas y qué deberías buscar en tu "mochila tech"' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/tienes-app-chatgpt-mac-actualiza-inmediato-no-quieres-problemas-1394043'>¿Tienes la app de ChatGPT en tu Mac? Actualiza de inmediato si no quieres problemas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tienes-app-chatgpt-mac-actualiza-inmediato-no-quieres-problemas-1394043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-mac-3655447.jpg?tf=1200x' alt='¿Tienes la app de ChatGPT en tu Mac? Actualiza de inmediato si no quieres problemas' />
     </a>
 </div>
 
