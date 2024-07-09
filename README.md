@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ya-disponible-online-formulario-sepe-solicitar-ayuda-600-euros-1394874'>Ya está disponible online el formulario de SEPE para solicitar la ayuda de 600 euros</a></h4>
+    <a href='https://computerhoy.com/life/ya-disponible-online-formulario-sepe-solicitar-ayuda-600-euros-1394874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-apuntarse-paro-2024-sellar-tarjeta-paro-online-sepe-3655176.jpg?tf=1200x' alt='Ya está disponible online el formulario de SEPE para solicitar la ayuda de 600 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/altavoz-inteligente-salva-vida-familia-incendio-pesar-no-tener-sensor-temperatura-1394873'>Un altavoz inteligente salva la vida de una familia en un incendio a pesar de no tener sensor de temperatura</a></h4>
+    <a href='https://computerhoy.com/apple/altavoz-inteligente-salva-vida-familia-incendio-pesar-no-tener-sensor-temperatura-1394873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/pantalla-homepod-3007202.jpg?tf=1200x' alt='Un altavoz inteligente salva la vida de una familia en un incendio a pesar de no tener sensor de temperatura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/cuidado-versiones-21h2-22h2-windows-11-quedaran-obsoletas-menos-90-dias-1394872'>¡Cuidado! Las versiones 21H2 y 22H2 de Windows 11 se quedarán obsoletas en menos de 90 días</a></h4>
+    <a href='https://computerhoy.com/windows/cuidado-versiones-21h2-22h2-windows-11-quedaran-obsoletas-menos-90-dias-1394872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-acelerar-instalacion-actualizaciones-windows-11-3469515.jpg?tf=1200x' alt='¡Cuidado! Las versiones 21H2 y 22H2 de Windows 11 se quedarán obsoletas en menos de 90 días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gamgee-convierte-wifi-detector-intrusos-1394486'>Vacaciones tranquilas: Gamgee convierte el WiFi en un detector de intrusos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gamgee-convierte-wifi-detector-intrusos-1394486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vacaciones-tranquilas-gamgee-convierte-wifi-detector-intrusos-3678797.jpg?tf=1200x' alt='Vacaciones tranquilas: Gamgee convierte el WiFi en un detector de intrusos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-1394171'>Obedece a la policía y utiliza este truco para evitar que tu móvil se conecte automáticamente a dispositivos por Bluetooth</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-1394171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/obedece-policia-utiliza-truco-evitar-movil-conecte-automaticamente-dispositivos-bluetooth-3658654.jpg?tf=1200x' alt='Obedece a la policía y utiliza este truco para evitar que tu móvil se conecte automáticamente a dispositivos por Bluetooth' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/shadowz-netflix-peliculas-miedo-terror-llega-espana-precio-peliculas-disponibles-1394203'>Shadowz, el Netflix de las películas de miedo y terror llega a España: precio y películas disponibles</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/shadowz-netflix-peliculas-miedo-terror-llega-espana-precio-peliculas-disponibles-1394203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/shadowz-3658653.jpg?tf=1200x' alt='Shadowz, el Netflix de las películas de miedo y terror llega a España: precio y películas disponibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-recula-restaura-guias-crear-cuentas-locales-windows-1394665'>Microsoft recula y restaura las guías para crear cuentas locales en Windows</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-recula-restaura-guias-crear-cuentas-locales-windows-1394665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-10-3375157.jpg?tf=1200x' alt='Microsoft recula y restaura las guías para crear cuentas locales en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gran-hermano-llega-teletrabajo-ia-pone-servicio-empresas-detectar-falsa-actividad-1394201'>El Gran Hermano llega al teletrabajo, la IA se pone al servicio de las empresas para detectar falsa actividad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gran-hermano-llega-teletrabajo-ia-pone-servicio-empresas-detectar-falsa-actividad-1394201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teletrabajo-3658649.jpg?tf=1200x' alt='El Gran Hermano llega al teletrabajo, la IA se pone al servicio de las empresas para detectar falsa actividad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/bicicleta-ruedas-cuadradas-1230188'>Esta bicicleta tiene ruedas cuadradas y... ¡funciona! (vídeo)</a></h4>
-    <a href='https://computerhoy.com/motor/bicicleta-ruedas-cuadradas-1230188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/llega-bicicleta-ruedas-cuadradas-realmente-funciona-video-3008494.jpg?tf=1200x' alt='Esta bicicleta tiene ruedas cuadradas y... ¡funciona! (vídeo)' />
     </a>
 </div>
 
