@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/gran-dilema-cada-verano-apagar-router-wifi-irse-vacaciones-no-1394728'>El gran dilema de cada verano: apagar el router WiFi al irse de vacaciones, ¿sí o no?</a></h4>
-    <a href='https://computerhoy.com/internet/gran-dilema-cada-verano-apagar-router-wifi-irse-vacaciones-no-1394728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='El gran dilema de cada verano: apagar el router WiFi al irse de vacaciones, ¿sí o no?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-exportar-certificado-digital-dispositivo-otro-1394541'>Cómo exportar el certificado digital de un dispositivo a otro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-exportar-certificado-digital-dispositivo-otro-1394541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/certificado-digital-2994750.jpg?tf=1200x' alt='Cómo exportar el certificado digital de un dispositivo a otro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/digi-todo-debes-saber-operador-auge-espana-1394729'>Digi: todo lo que debes saber sobre el operador en auge en España</a></h4>
-    <a href='https://computerhoy.com/internet/digi-todo-debes-saber-operador-auge-espana-1394729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/digi-3436208.jpg?tf=1200x' alt='Digi: todo lo que debes saber sobre el operador en auge en España' />
+    <h4><a href='https://computerhoy.com/espacio/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-1394478'>El problema "pogo" estuvo cerca de impedir que la NASA llegase a la Luna: así lo solucionaron</a></h4>
+    <a href='https://computerhoy.com/espacio/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-1394478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-3677236.jpg?tf=1200x' alt='El problema "pogo" estuvo cerca de impedir que la NASA llegase a la Luna: así lo solucionaron' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/inventan-helado-no-derrite-durante-4-horas-pero-tiene-gran-inconveniente-1394331'>Inventan un helado que no se derrite durante 4 horas, pero tiene un gran inconveniente</a></h4>
-    <a href='https://computerhoy.com/alimentacion/inventan-helado-no-derrite-durante-4-horas-pero-tiene-gran-inconveniente-1394331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chica-comiendo-helado-3682708.jpg?tf=1200x' alt='Inventan un helado que no se derrite durante 4 horas, pero tiene un gran inconveniente' />
+    <h4><a href='https://computerhoy.com/apps/netflix-planes-precios-todo-debes-saber-plataforma-streaming-1394597'>Netflix: planes, precios y todo lo que debes saber de la plataforma de streaming</a></h4>
+    <a href='https://computerhoy.com/apps/netflix-planes-precios-todo-debes-saber-plataforma-streaming-1394597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-plataforma-3529071.jpg?tf=1200x' alt='Netflix: planes, precios y todo lo que debes saber de la plataforma de streaming' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-series-x-todo-sabe-futuro-smartwatch-apple-1394524'>Apple Watch Series X: todo lo que se sabe del futuro smartwatch de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-series-x-todo-sabe-futuro-smartwatch-apple-1394524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-3291677.jpg?tf=1200x' alt='Apple Watch Series X: todo lo que se sabe del futuro smartwatch de Apple' />
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-quedara-margen-inteligencia-artificial-generativa-1394062'>Nintendo Switch 2 se quedará al margen de la inteligencia artificial generativa</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-2-quedara-margen-inteligencia-artificial-generativa-1394062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sabemos-nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-3281259.jpg?tf=1200x' alt='Nintendo Switch 2 se quedará al margen de la inteligencia artificial generativa' />
     </a>
 </div>
 
