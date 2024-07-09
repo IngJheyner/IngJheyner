@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/incibe-alerta-informacion-nunca-deberias-compartir-internet-1394785'>El INCIBE alerta: esta es la información que nunca deberías compartir por Internet</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/incibe-alerta-informacion-nunca-deberias-compartir-internet-1394785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mujer-tapandose-boca-3691265.jpg?tf=1200x' alt='El INCIBE alerta: esta es la información que nunca deberías compartir por Internet' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/razon-nunca-debes-tirar-paquete-amazon-datos-basura-1394632'>Esta es la razón por la que nunca debes tirar un paquete de Amazon con tus datos a la basura</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/razon-nunca-debes-tirar-paquete-amazon-datos-basura-1394632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razon-nunca-debes-tirar-paquete-amazon-datos-basura-3684531.jpg?tf=1200x' alt='Esta es la razón por la que nunca debes tirar un paquete de Amazon con tus datos a la basura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-windows-11-linux-arranque-dual-paso-paso-1393916'>Cómo instalar Windows 11 y Linux con arranque dual paso a paso</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-windows-11-linux-arranque-dual-paso-paso-1393916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laptop-windows-11-linux-3649872.jpg?tf=1200x' alt='Cómo instalar Windows 11 y Linux con arranque dual paso a paso' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-logra-100-criticas-positivas-dos-ultimas-poco-conocidas-series-estreno-1394055'>Netflix logra el 100% de críticas positivas en dos de sus últimas (y poco conocidas) series de estreno</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-logra-100-criticas-positivas-dos-ultimas-poco-conocidas-series-estreno-1394055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/series-netflix-3656472.jpg?tf=1200x' alt='Netflix logra el 100% de críticas positivas en dos de sus últimas (y poco conocidas) series de estreno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/auto-sr-sirve-como-funciona-windows-11-1394013'>Qué es Auto SR, para qué sirve y cómo funciona en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/auto-sr-sirve-como-funciona-windows-11-1394013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/auto-sr-sirve-como-funciona-windows-11-3653725.jpg?tf=1200x' alt='Qué es Auto SR, para qué sirve y cómo funciona en Windows 11' />
+    <h4><a href='https://computerhoy.com/redes/perdido-cajon-solucion-hacer-volar-wifi-1394164'>Está perdido en un cajón y es la solución para hacer volar tu WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/perdido-cajon-solucion-hacer-volar-wifi-1394164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/perdido-cajon-solucion-hacer-volar-wifi-3658080.jpg?tf=1200x' alt='Está perdido en un cajón y es la solución para hacer volar tu WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/entretenimiento/aplicaciones-jugar-en-pareja-desde-movil-609741'>20 aplicaciones para jugar con tu pareja desde el móvil</a></h4>
-    <a href='https://computerhoy.com/listas/entretenimiento/aplicaciones-jugar-en-pareja-desde-movil-609741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/20-aplicaciones-jugar-pareja-movil-3668214.jpg?tf=1200x' alt='20 aplicaciones para jugar con tu pareja desde el móvil' />
+    <h4><a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-truco-viral-arrasa-espana-1394806'>Guardar una hoja de laurel en la carcasa del móvil: el truco viral que arrasa en España</a></h4>
+    <a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-truco-viral-arrasa-espana-1394806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laurel-telefono-3691593.jpg?tf=1200x' alt='Guardar una hoja de laurel en la carcasa del móvil: el truco viral que arrasa en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/puedes-conocer-nombre-te-han-guardado-whatsapp-1394041'>Así puedes conocer el nombre con el que te han guardado en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/puedes-conocer-nombre-te-han-guardado-whatsapp-1394041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sorpresa-whatsapp-3656475.jpg?tf=1200x' alt='Así puedes conocer el nombre con el que te han guardado en WhatsApp' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-fotografias-grupo-whatsapp-galeria-1394589'>Cómo ocultar las fotografías de un grupo de WhatsApp de la galería</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-fotografias-grupo-whatsapp-galeria-1394589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-3684064.jpg?tf=1200x' alt='Cómo ocultar las fotografías de un grupo de WhatsApp de la galería' />
     </a>
 </div>
 
