@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mi-pc-windows-10-cumple-requisitos-hardware-windows-11-1392710'>¿Cómo sé si mi PC con Windows 10 cumple con los requisitos de hardware para Windows 11?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mi-pc-windows-10-cumple-requisitos-hardware-windows-11-1392710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-mi-pc-windows-10-cumple-requisitos-hardware-windows-11-3594965.jpg?tf=1200x' alt='¿Cómo sé si mi PC con Windows 10 cumple con los requisitos de hardware para Windows 11?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/incibe-alerta-informacion-nunca-deberias-compartir-internet-1394785'>El INCIBE alerta: esta es la información que nunca deberías compartir por Internet</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/incibe-alerta-informacion-nunca-deberias-compartir-internet-1394785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mujer-tapandose-boca-3691265.jpg?tf=1200x' alt='El INCIBE alerta: esta es la información que nunca deberías compartir por Internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-1394242'>Esta es la razón por la que nunca deberías colocar una pegatina de alarma falsa al irte de vacaciones</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-1394242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-3662113.jpg?tf=1200x' alt='Esta es la razón por la que nunca deberías colocar una pegatina de alarma falsa al irte de vacaciones' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-windows-11-linux-arranque-dual-paso-paso-1393916'>Cómo instalar Windows 11 y Linux con arranque dual paso a paso</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-windows-11-linux-arranque-dual-paso-paso-1393916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laptop-windows-11-linux-3649872.jpg?tf=1200x' alt='Cómo instalar Windows 11 y Linux con arranque dual paso a paso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/significa-nsfw-usa-internet-1394539'>¿Qué significa NSFW y por qué se usa en internet?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/significa-nsfw-usa-internet-1394539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/seguridad-internet-3683072.jpg?tf=1200x' alt='¿Qué significa NSFW y por qué se usa en internet?' />
+    <h4><a href='https://computerhoy.com/windows/auto-sr-sirve-como-funciona-windows-11-1394013'>Qué es Auto SR, para qué sirve y cómo funciona en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/auto-sr-sirve-como-funciona-windows-11-1394013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/auto-sr-sirve-como-funciona-windows-11-3653725.jpg?tf=1200x' alt='Qué es Auto SR, para qué sirve y cómo funciona en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/matematico-revela-no-tiene-sentido-ir-140-km-h-autopista-coche-1393238'>Matemático revela por qué no tiene sentido ir a 140 km/h en una autopista con el coche</a></h4>
-    <a href='https://computerhoy.com/ciencia/matematico-revela-no-tiene-sentido-ir-140-km-h-autopista-coche-1393238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/matematico-revela-no-tiene-sentido-ir-140km-h-autopista-coche-3614771.jpg?tf=1200x' alt='Matemático revela por qué no tiene sentido ir a 140 km/h en una autopista con el coche' />
+    <h4><a href='https://computerhoy.com/listas/entretenimiento/aplicaciones-jugar-en-pareja-desde-movil-609741'>20 aplicaciones para jugar con tu pareja desde el móvil</a></h4>
+    <a href='https://computerhoy.com/listas/entretenimiento/aplicaciones-jugar-en-pareja-desde-movil-609741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/20-aplicaciones-jugar-pareja-movil-3668214.jpg?tf=1200x' alt='20 aplicaciones para jugar con tu pareja desde el móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-1393973'>Un experto en seguridad asegura que hay un 99,9% de posibilidades de que la IA suponga el fin de la humanidad, ¿amenaza real o ganas de notoriedad?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-1393973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/experto-seguridad-asegura-hay-999-posibilidades-ia-suponga-fin-humanidad-amenaza-real-ganas-notoriedad-3651386.jpg?tf=1200x' alt='Un experto en seguridad asegura que hay un 99,9% de posibilidades de que la IA suponga el fin de la humanidad, ¿amenaza real o ganas de notoriedad?' />
+    <h4><a href='https://computerhoy.com/apps/puedes-conocer-nombre-te-han-guardado-whatsapp-1394041'>Así puedes conocer el nombre con el que te han guardado en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/puedes-conocer-nombre-te-han-guardado-whatsapp-1394041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sorpresa-whatsapp-3656475.jpg?tf=1200x' alt='Así puedes conocer el nombre con el que te han guardado en WhatsApp' />
     </a>
 </div>
 
