@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-fondos-pantalla-gratis-inteligencia-artificial-movil-pc-1393769'>Cómo crear fondos de pantalla gratis con inteligencia artificial para tu móvil o PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-fondos-pantalla-gratis-inteligencia-artificial-movil-pc-1393769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fondos-pantalla-ia-3649070.jpg?tf=1200x' alt='Cómo crear fondos de pantalla gratis con inteligencia artificial para tu móvil o PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-1393939'>Que no te engañen: así puedes identificar cuándo alguien ha usado ChatGPT y evitar el “slop”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-1393939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-3650324.jpg?tf=1200x' alt='Que no te engañen: así puedes identificar cuándo alguien ha usado ChatGPT y evitar el “slop”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/comandos-consola-windows-cmd-te-hara-parecer-hacker-1394684'>Comandos de la consola de Windows (CMD) que te hará parecer un hacker</a></h4>
     <a href='https://computerhoy.com/windows/comandos-consola-windows-cmd-te-hara-parecer-hacker-1394684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/comandos-consola-windows-cmd-te-hara-parecer-hacker-3687388.jpg?tf=1200x' alt='Comandos de la consola de Windows (CMD) que te hará parecer un hacker' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/caracteristica-windows-11-infinitamente-superior-windows-10-sabias-1394009'>La característica en la que Windows 11 es infinitamente superior a Windows 10: ¿lo sabías?</a></h4>
     <a href='https://computerhoy.com/windows/caracteristica-windows-11-infinitamente-superior-windows-10-sabias-1394009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/caracteristica-windows-11-infinitamente-superior-windows-10-sabias-3653202.jpg?tf=1200x' alt='La característica en la que Windows 11 es infinitamente superior a Windows 10: ¿lo sabías?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/-mapa-interactivo-cambio-climatico-ciudad-dentro-60-anos-1394686'>Este aterrador mapa interactivo muestra como será tu ciudad dentro de 60 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/-mapa-interactivo-cambio-climatico-ciudad-dentro-60-anos-1394686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aterrador-mapa-interactivo-muestra-como-sera-ciudad-dentro-60-anos-3686780.jpg?tf=1200x' alt='Este aterrador mapa interactivo muestra como será tu ciudad dentro de 60 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/pictionary-contra-ia-1394490'>Ya está a la venta el Pictionary en el que juegas contra la IA</a></h4>
-    <a href='https://computerhoy.com/gaming/pictionary-contra-ia-1394490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1720387699936-3679792.jpg?tf=1200x' alt='Ya está a la venta el Pictionary en el que juegas contra la IA' />
     </a>
 </div>
 
