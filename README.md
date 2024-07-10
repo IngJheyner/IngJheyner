@@ -50,17 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-1394746'>De ver la tele a jugar a la consola: teletrabajadores reconocen cómo usan la tecnología en horario de trabajo</a></h4>
-    <a href='https://computerhoy.com/life/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-1394746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-3690051.jpg?tf=1200x' alt='De ver la tele a jugar a la consola: teletrabajadores reconocen cómo usan la tecnología en horario de trabajo' />
+    <h4><a href='https://computerhoy.com/tecnologia/steve-ballmer-ex-ceo-microsoft-mas-rico-bill-gates-1394221'>Steve Ballmer, el primer empleado de Microsoft que ya es más rico que Bill Gates</a></h4>
+    <a href='https://computerhoy.com/tecnologia/steve-ballmer-ex-ceo-microsoft-mas-rico-bill-gates-1394221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bill-gates-ballmer-2468795.jpg?tf=1200x' alt='Steve Ballmer, el primer empleado de Microsoft que ya es más rico que Bill Gates' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-1393939'>Que no te engañen: así puedes identificar cuándo alguien ha usado ChatGPT y evitar el “slop”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-1393939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-3650324.jpg?tf=1200x' alt='Que no te engañen: así puedes identificar cuándo alguien ha usado ChatGPT y evitar el “slop”' />
+    <h4><a href='https://computerhoy.com/life/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-1394746'>De ver la tele a jugar a la consola: teletrabajadores reconocen cómo usan la tecnología en horario de trabajo</a></h4>
+    <a href='https://computerhoy.com/life/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-1394746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-3690051.jpg?tf=1200x' alt='De ver la tele a jugar a la consola: teletrabajadores reconocen cómo usan la tecnología en horario de trabajo' />
     </a>
 </div>
 
@@ -74,17 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/comandos-consola-windows-cmd-te-hara-parecer-hacker-1394684'>Comandos de la consola de Windows (CMD) que te hará parecer un hacker</a></h4>
-    <a href='https://computerhoy.com/windows/comandos-consola-windows-cmd-te-hara-parecer-hacker-1394684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/comandos-consola-windows-cmd-te-hara-parecer-hacker-3687388.jpg?tf=1200x' alt='Comandos de la consola de Windows (CMD) que te hará parecer un hacker' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-1393939'>Que no te engañen: así puedes identificar cuándo alguien ha usado ChatGPT y evitar el “slop”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-1393939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-3650324.jpg?tf=1200x' alt='Que no te engañen: así puedes identificar cuándo alguien ha usado ChatGPT y evitar el “slop”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-1394883'>El cohete Ariane 6 despega con éxito: Europa vuelve a la primera división espacial</a></h4>
-    <a href='https://computerhoy.com/espacio/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-1394883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-3694127.jpg?tf=1200x' alt='El cohete Ariane 6 despega con éxito: Europa vuelve a la primera división espacial' />
+    <h4><a href='https://computerhoy.com/windows/comandos-consola-windows-cmd-te-hara-parecer-hacker-1394684'>Comandos de la consola de Windows (CMD) que te hará parecer un hacker</a></h4>
+    <a href='https://computerhoy.com/windows/comandos-consola-windows-cmd-te-hara-parecer-hacker-1394684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/comandos-consola-windows-cmd-te-hara-parecer-hacker-3687388.jpg?tf=1200x' alt='Comandos de la consola de Windows (CMD) que te hará parecer un hacker' />
     </a>
 </div>
 
