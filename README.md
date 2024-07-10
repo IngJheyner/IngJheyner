@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/suficiente-solo-windows-defender-2024-1394396'>¿Es suficiente con solo Windows Defender en 2024?</a></h4>
-    <a href='https://computerhoy.com/windows/suficiente-solo-windows-defender-2024-1394396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/suficiente-solo-windows-defender-2024-3668213.jpg?tf=1200x' alt='¿Es suficiente con solo Windows Defender en 2024?' />
+    <h4><a href='https://computerhoy.com/redes/trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-1394692'>5 trucos efectivos para mejorar la velocidad y el rendimiento de tu router WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-1394692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-3688410.jpg?tf=1200x' alt='5 trucos efectivos para mejorar la velocidad y el rendimiento de tu router WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/puede-volver-windows-10-despues-actualizar-no-te-gusta-windows-11-1392693'>¿Se puede volver a Windows 10 después de actualizar si no te gusta Windows 11?</a></h4>
-    <a href='https://computerhoy.com/windows/puede-volver-windows-10-despues-actualizar-no-te-gusta-windows-11-1392693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/puede-volver-windows-10-despues-actualizar-no-te-gusta-windows-11-3593889.jpg?tf=1200x' alt='¿Se puede volver a Windows 10 después de actualizar si no te gusta Windows 11?' />
+    <h4><a href='https://computerhoy.com/tutoriales/convertir-sim-fisica-esim-como-1393753'>Cómo convertir tu SIM física en eSIM: tardarás segundos en hacerlo desde casa</a></h4>
+    <a href='https://computerhoy.com/tutoriales/convertir-sim-fisica-esim-como-1393753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/esim-3649537.jpg?tf=1200x' alt='Cómo convertir tu SIM física en eSIM: tardarás segundos en hacerlo desde casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/dgt-alerta-recibes-mensaje-sms-estafa-ya-ha-comenzado-1394336'>La DGT alerta: si recibes esté mensaje SMS la estafa ya ha comenzado</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/dgt-alerta-recibes-mensaje-sms-estafa-ya-ha-comenzado-1394336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dgt-alerta-recibes-mensaje-sms-estafa-ya-ha-comenzado-3663791.jpg?tf=1200x' alt='La DGT alerta: si recibes esté mensaje SMS la estafa ya ha comenzado' />
+    <h4><a href='https://computerhoy.com/ciencia/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-1394227'>Descubren el secreto del Mecanismo de Anticitera, gracias a los agujeros negros</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-1394227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-3661419.jpg?tf=1200x' alt='Descubren el secreto del Mecanismo de Anticitera, gracias a los agujeros negros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/disco-duro-18tb-alternativa-nube-1364761'>No pagues más por la nube: este disco duro de 18TB puede ser tu baúl digital y solo lo pagas una vez</a></h4>
-    <a href='https://computerhoy.com/tecnologia/disco-duro-18tb-alternativa-nube-1364761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/wd-my-book-3656898.jpg?tf=1200x' alt='No pagues más por la nube: este disco duro de 18TB puede ser tu baúl digital y solo lo pagas una vez' />
+    <h4><a href='https://computerhoy.com/tecnologia/inventan-aire-acondicionado-portatil-capaz-enfriar-cualquier-lugar-15-minutos-no-requiere-instalacion-1290516'>El aire acondicionado portátil capaz de enfriar cualquier lugar en 15 minutos y no requiere instalación</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inventan-aire-acondicionado-portatil-capaz-enfriar-cualquier-lugar-15-minutos-no-requiere-instalacion-1290516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/aire-acondicionado-3109320.jpg?tf=1200x' alt='El aire acondicionado portátil capaz de enfriar cualquier lugar en 15 minutos y no requiere instalación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/steve-ballmer-ex-ceo-microsoft-mas-rico-bill-gates-1394221'>Steve Ballmer, el primer empleado de Microsoft que ya es más rico que Bill Gates</a></h4>
-    <a href='https://computerhoy.com/tecnologia/steve-ballmer-ex-ceo-microsoft-mas-rico-bill-gates-1394221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/bill-gates-ballmer-2468795.jpg?tf=1200x' alt='Steve Ballmer, el primer empleado de Microsoft que ya es más rico que Bill Gates' />
+    <h4><a href='https://computerhoy.com/apps/ni-google-chrome-ni-edge-6-motivos-me-he-pasado-mozilla-firefox-1393494'>Ni Google Chrome ni Edge: los 6 motivos por los que me he pasado a Mozilla Firefox</a></h4>
+    <a href='https://computerhoy.com/apps/ni-google-chrome-ni-edge-6-motivos-me-he-pasado-mozilla-firefox-1393494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mozilla-firefox-letal-3637048.jpg?tf=1200x' alt='Ni Google Chrome ni Edge: los 6 motivos por los que me he pasado a Mozilla Firefox' />
     </a>
 </div>
 
