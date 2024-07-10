@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/maquinas-expendedoras-balas-reconocimiento-facial-ia-1394902'>Ya están aquí las máquinas expendedoras de balas con reconocimiento facial e IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/maquinas-expendedoras-balas-reconocimiento-facial-ia-1394902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/polemica-maquinas-expendedoras-venden-balas-reconocimiento-facial-ia-3696516.jpg?tf=1200x' alt='Ya están aquí las máquinas expendedoras de balas con reconocimiento facial e IA' />
+    <h4><a href='https://computerhoy.com/apps/hablar-mal-jefe-conversacion-privada-incluso-whatsapp-no-motivo-despido-1394479'>Hablar mal de tu jefe en una conversación privada (incluso en WhatsApp) no es motivo de despido</a></h4>
+    <a href='https://computerhoy.com/apps/hablar-mal-jefe-conversacion-privada-incluso-whatsapp-no-motivo-despido-1394479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hablar-mal-jefe-conversacion-privada-incluso-whatsapp-no-motivo-despedir-3682488.jpg?tf=1200x' alt='Hablar mal de tu jefe en una conversación privada (incluso en WhatsApp) no es motivo de despido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-1394692'>5 trucos efectivos para mejorar la velocidad y el rendimiento de tu router WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-1394692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-3688410.jpg?tf=1200x' alt='5 trucos efectivos para mejorar la velocidad y el rendimiento de tu router WiFi' />
+    <h4><a href='https://computerhoy.com/tecnologia/tener-elon-musk-como-jefe-todo-menos-camino-rosas-ceo-x-1394523'>Tener a Elon Musk como jefe es de todo menos un camino de rosas según la CEO de X</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tener-elon-musk-como-jefe-todo-menos-camino-rosas-ceo-x-1394523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-presenta-linda-yaccarino-nueva-ceo-twitter-ejecutiva-nbc-no-ha-gustado-nada-seguidores-3032568.jpg?tf=1200x' alt='Tener a Elon Musk como jefe es de todo menos un camino de rosas según la CEO de X' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/necesita-poder-usar-bizum-1392799'>¿Qué se necesita para poder usar Bizum?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/necesita-poder-usar-bizum-1392799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usar-bizum-3599366.jpg?tf=1200x' alt='¿Qué se necesita para poder usar Bizum?' />
+    <h4><a href='https://computerhoy.com/tecnologia/camara-cine-inteligencia-artificial-sueno-pesadilla-directores-1394914'>Esta cámara de cine con inteligencia artificial es el sueño y la pesadilla de los directores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/camara-cine-inteligencia-artificial-sueno-pesadilla-directores-1394914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/camara-cine-3697101.jpg?tf=1200x' alt='Esta cámara de cine con inteligencia artificial es el sueño y la pesadilla de los directores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/convertir-sim-fisica-esim-como-1393753'>Cómo convertir tu SIM física en eSIM: tardarás segundos en hacerlo desde casa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/convertir-sim-fisica-esim-como-1393753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/esim-3649537.jpg?tf=1200x' alt='Cómo convertir tu SIM física en eSIM: tardarás segundos en hacerlo desde casa' />
+    <h4><a href='https://computerhoy.com/google/google-punto-mira-imagenes-explicitas-no-retira-internet-1394713'>Google en el punto de mira por las imágenes explícitas que no retira de internet</a></h4>
+    <a href='https://computerhoy.com/google/google-punto-mira-imagenes-explicitas-no-retira-internet-1394713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mujer-estresada-3689733.jpg?tf=1200x' alt='Google en el punto de mira por las imágenes explícitas que no retira de internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-1394227'>Descubren el secreto del Mecanismo de Anticitera, gracias a los agujeros negros</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-1394227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-3661419.jpg?tf=1200x' alt='Descubren el secreto del Mecanismo de Anticitera, gracias a los agujeros negros' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-2-patente-revela-nueva-generacion-vista-gran-novedad-1394235'>¿Samsung Galaxy Ring 2? Esta patente revela nueva generación a la vista con una gran novedad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-2-patente-revela-nueva-generacion-vista-gran-novedad-1394235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-ring-3651234.jpg?tf=1200x' alt='¿Samsung Galaxy Ring 2? Esta patente revela nueva generación a la vista con una gran novedad' />
     </a>
 </div>
 
