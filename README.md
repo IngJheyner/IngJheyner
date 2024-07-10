@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/dazn-podria-haber-descubierto-como-acabar-iptv-sencillo-mundo-1394249'>DAZN podría haber descubierto cómo acabar con las IPTV, y es lo más sencillo del mundo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/dazn-podria-haber-descubierto-como-acabar-iptv-sencillo-mundo-1394249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dazn-podria-haber-descubierto-como-acabar-iptv-sencillo-mundo-3662568.jpg?tf=1200x' alt='DAZN podría haber descubierto cómo acabar con las IPTV, y es lo más sencillo del mundo' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tiktok-como-funciona-trucos-como-ganar-dinero-videos-1159087'>TikTok: qué es, cómo funciona, trucos y cómo ganar dinero con tus vídeos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/tiktok-como-funciona-trucos-como-ganar-dinero-videos-1159087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tiktok-2874231.jpg?tf=1200x' alt='TikTok: qué es, cómo funciona, trucos y cómo ganar dinero con tus vídeos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/test-distros-linux-mercado-ganadora-clara-1392842'>He probado casi todas las distros de Linux del mercado y esta es la clara ganadora</a></h4>
-    <a href='https://computerhoy.com/tecnologia/test-distros-linux-mercado-ganadora-clara-1392842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/distros-linux-ganadora-3600862.jpg?tf=1200x' alt='He probado casi todas las distros de Linux del mercado y esta es la clara ganadora' />
+    <h4><a href='https://computerhoy.com/windows/nueva-actualizacion-confirma-fin-windows-10-puede-haber-comenzado-antes-tiempo-1394267'>Una nueva actualización confirma que el fin de Windows 10 puede haber comenzado antes de tiempo</a></h4>
+    <a href='https://computerhoy.com/windows/nueva-actualizacion-confirma-fin-windows-10-puede-haber-comenzado-antes-tiempo-1394267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/caracteristica-windows-11-infinitamente-superior-windows-10-sabias-3653202.jpg?tf=1200x' alt='Una nueva actualización confirma que el fin de Windows 10 puede haber comenzado antes de tiempo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/gran-dilema-cada-verano-apagar-router-wifi-irse-vacaciones-no-1394728'>El gran dilema de cada verano: apagar el router WiFi al irse de vacaciones, ¿sí o no?</a></h4>
-    <a href='https://computerhoy.com/internet/gran-dilema-cada-verano-apagar-router-wifi-irse-vacaciones-no-1394728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='El gran dilema de cada verano: apagar el router WiFi al irse de vacaciones, ¿sí o no?' />
+    <h4><a href='https://computerhoy.com/espacio/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-1394478'>El problema "pogo" estuvo cerca de impedir que la NASA llegase a la Luna: así lo solucionaron</a></h4>
+    <a href='https://computerhoy.com/espacio/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-1394478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-3677236.jpg?tf=1200x' alt='El problema "pogo" estuvo cerca de impedir que la NASA llegase a la Luna: así lo solucionaron' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/inventan-helado-no-derrite-durante-4-horas-pero-tiene-gran-inconveniente-1394331'>Inventan un helado que no se derrite durante 4 horas, pero tiene un gran inconveniente</a></h4>
-    <a href='https://computerhoy.com/alimentacion/inventan-helado-no-derrite-durante-4-horas-pero-tiene-gran-inconveniente-1394331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chica-comiendo-helado-3682708.jpg?tf=1200x' alt='Inventan un helado que no se derrite durante 4 horas, pero tiene un gran inconveniente' />
+    <h4><a href='https://computerhoy.com/tecnologia/computacion-cuantica-futuro-pero-aun-necesita-algo-pasado-1394940'>La computación cuántica es el futuro, pero aún necesita algo "del pasado"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/computacion-cuantica-futuro-pero-aun-necesita-algo-pasado-1394940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-cuantico-3561798.jpg?tf=1200x' alt='La computación cuántica es el futuro, pero aún necesita algo "del pasado"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-series-x-todo-sabe-futuro-smartwatch-apple-1394524'>Apple Watch Series X: todo lo que se sabe del futuro smartwatch de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-series-x-todo-sabe-futuro-smartwatch-apple-1394524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-3291677.jpg?tf=1200x' alt='Apple Watch Series X: todo lo que se sabe del futuro smartwatch de Apple' />
+    <h4><a href='https://computerhoy.com/criptos/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-1394720'>El Gobierno de Alemania ha incautado la mayor reserva de Bitcoin de su historia por valor de 1.847 millones de euros</a></h4>
+    <a href='https://computerhoy.com/criptos/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-1394720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-3689882.jpg?tf=1200x' alt='El Gobierno de Alemania ha incautado la mayor reserva de Bitcoin de su historia por valor de 1.847 millones de euros' />
     </a>
 </div>
 
