@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/logran-gpu-utilicen-memoria-adjunta-pcie-capacidad-ampliada-gracias-nueva-tecnologia-1394246'>Logran que las GPU utilicen memoria adjunta a PCIe para una capacidad ampliada gracias a una nueva tecnología</a></h4>
-    <a href='https://computerhoy.com/tecnologia/logran-gpu-utilicen-memoria-adjunta-pcie-capacidad-ampliada-gracias-nueva-tecnologia-1394246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/gpu-1867157.jpg?tf=1200x' alt='Logran que las GPU utilicen memoria adjunta a PCIe para una capacidad ampliada gracias a una nueva tecnología' />
+    <h4><a href='https://computerhoy.com/entretenimiento/vuelta-terror-espacial-alien-romulus-evolucion-saga-impacto-cine-1394970'>Vuelta al terror espacial con Alien Romulus: la evolución de la saga y su impacto en el cine</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/vuelta-terror-espacial-alien-romulus-evolucion-saga-impacto-cine-1394970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/alien-romulus-3698345.jpg?tf=1200x' alt='Vuelta al terror espacial con Alien Romulus: la evolución de la saga y su impacto en el cine' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/tinder-obliga-pareja-conocerse-persona-pasar-3-anos-chateando-app-1394283'>Tinder obliga a un pareja a conocerse en persona tras pasar 3 años chateando por la app</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/tinder-obliga-pareja-conocerse-persona-pasar-3-anos-chateando-app-1394283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pareja-tinder-3663503.jpg?tf=1200x' alt='Tinder obliga a un pareja a conocerse en persona tras pasar 3 años chateando por la app' />
+    <h4><a href='https://computerhoy.com/tecnologia/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-1394305'>Los drones son el arma de guerra del futuro pero tienen un problema: se pueden derribar con un arma de hace 300.000 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-1394305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-3663186.jpg?tf=1200x' alt='Los drones son el arma de guerra del futuro pero tienen un problema: se pueden derribar con un arma de hace 300.000 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/ciberseguridad/cuidado-email-correos-rastrear-pedido-peligrosa-estafa-942401'>Cuidado con este email de Correos para rastrear tu pedido: es una peligrosa estafa</a></h4>
-    <a href='https://computerhoy.com/noticias/ciberseguridad/cuidado-email-correos-rastrear-pedido-peligrosa-estafa-942401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuidado-email-correos-rastrear-pedido-peligrosa-estafa-3688701.jpg?tf=1200x' alt='Cuidado con este email de Correos para rastrear tu pedido: es una peligrosa estafa' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-1394242'>Esta es la razón por la que nunca deberías colocar una pegatina de alarma falsa al irte de vacaciones</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-1394242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-3662113.jpg?tf=1200x' alt='Esta es la razón por la que nunca deberías colocar una pegatina de alarma falsa al irte de vacaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-tecnologia-enfria-procesadores-temperaturas-bajas-espacio-exterior-1394819'>Esta nueva tecnología enfría los procesadores a temperaturas más bajas que las del espacio exterior</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-tecnologia-enfria-procesadores-temperaturas-bajas-espacio-exterior-1394819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lanes-epfl-3691768.jpg?tf=1200x' alt='Esta nueva tecnología enfría los procesadores a temperaturas más bajas que las del espacio exterior' />
+    <h4><a href='https://computerhoy.com/apps/utilizas-todavia-ruta-rapida-google-maps-1394966'>¿Por qué utilizas (todavía) la ruta más rápida en Google Maps?</a></h4>
+    <a href='https://computerhoy.com/apps/utilizas-todavia-ruta-rapida-google-maps-1394966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cruce-caminos-google-maps-3698028.jpg?tf=1200x' alt='¿Por qué utilizas (todavía) la ruta más rápida en Google Maps?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/apagas-dispositivo-casa-senal-router-wifi-tendra-maxima-potencia-1394942'>Si apagas este dispositivo de tu casa, la señal de tu router WiFi tendrá la máxima potencia</a></h4>
-    <a href='https://computerhoy.com/hogar/apagas-dispositivo-casa-senal-router-wifi-tendra-maxima-potencia-1394942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/router-wifi-3697738.jpg?tf=1200x' alt='Si apagas este dispositivo de tu casa, la señal de tu router WiFi tendrá la máxima potencia' />
+    <h4><a href='https://computerhoy.com/tecnologia/significa-nsfw-usa-internet-1394539'>¿Qué significa NSFW y por qué se usa en internet?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/significa-nsfw-usa-internet-1394539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/seguridad-internet-3683072.jpg?tf=1200x' alt='¿Qué significa NSFW y por qué se usa en internet?' />
     </a>
 </div>
 
