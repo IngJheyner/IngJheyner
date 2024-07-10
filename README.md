@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/hablar-mal-jefe-conversacion-privada-incluso-whatsapp-no-motivo-despido-1394479'>Hablar mal de tu jefe en una conversación privada (incluso en WhatsApp) no es motivo de despido</a></h4>
-    <a href='https://computerhoy.com/apps/hablar-mal-jefe-conversacion-privada-incluso-whatsapp-no-motivo-despido-1394479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hablar-mal-jefe-conversacion-privada-incluso-whatsapp-no-motivo-despedir-3682488.jpg?tf=1200x' alt='Hablar mal de tu jefe en una conversación privada (incluso en WhatsApp) no es motivo de despido' />
+    <h4><a href='https://computerhoy.com/entretenimiento/dazn-podria-haber-descubierto-como-acabar-iptv-sencillo-mundo-1394249'>DAZN podría haber descubierto cómo acabar con las IPTV, y es lo más sencillo del mundo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/dazn-podria-haber-descubierto-como-acabar-iptv-sencillo-mundo-1394249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dazn-podria-haber-descubierto-como-acabar-iptv-sencillo-mundo-3662568.jpg?tf=1200x' alt='DAZN podría haber descubierto cómo acabar con las IPTV, y es lo más sencillo del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tener-elon-musk-como-jefe-todo-menos-camino-rosas-ceo-x-1394523'>Tener a Elon Musk como jefe es de todo menos un camino de rosas según la CEO de X</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tener-elon-musk-como-jefe-todo-menos-camino-rosas-ceo-x-1394523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-presenta-linda-yaccarino-nueva-ceo-twitter-ejecutiva-nbc-no-ha-gustado-nada-seguidores-3032568.jpg?tf=1200x' alt='Tener a Elon Musk como jefe es de todo menos un camino de rosas según la CEO de X' />
+    <h4><a href='https://computerhoy.com/tecnologia/test-distros-linux-mercado-ganadora-clara-1392842'>He probado casi todas las distros de Linux del mercado y esta es la clara ganadora</a></h4>
+    <a href='https://computerhoy.com/tecnologia/test-distros-linux-mercado-ganadora-clara-1392842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/distros-linux-ganadora-3600862.jpg?tf=1200x' alt='He probado casi todas las distros de Linux del mercado y esta es la clara ganadora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/camara-cine-inteligencia-artificial-sueno-pesadilla-directores-1394914'>Esta cámara de cine con inteligencia artificial es el sueño y la pesadilla de los directores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/camara-cine-inteligencia-artificial-sueno-pesadilla-directores-1394914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/camara-cine-3697101.jpg?tf=1200x' alt='Esta cámara de cine con inteligencia artificial es el sueño y la pesadilla de los directores' />
+    <h4><a href='https://computerhoy.com/internet/gran-dilema-cada-verano-apagar-router-wifi-irse-vacaciones-no-1394728'>El gran dilema de cada verano: apagar el router WiFi al irse de vacaciones, ¿sí o no?</a></h4>
+    <a href='https://computerhoy.com/internet/gran-dilema-cada-verano-apagar-router-wifi-irse-vacaciones-no-1394728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='El gran dilema de cada verano: apagar el router WiFi al irse de vacaciones, ¿sí o no?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-punto-mira-imagenes-explicitas-no-retira-internet-1394713'>Google en el punto de mira por las imágenes explícitas que no retira de internet</a></h4>
-    <a href='https://computerhoy.com/google/google-punto-mira-imagenes-explicitas-no-retira-internet-1394713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mujer-estresada-3689733.jpg?tf=1200x' alt='Google en el punto de mira por las imágenes explícitas que no retira de internet' />
+    <h4><a href='https://computerhoy.com/alimentacion/inventan-helado-no-derrite-durante-4-horas-pero-tiene-gran-inconveniente-1394331'>Inventan un helado que no se derrite durante 4 horas, pero tiene un gran inconveniente</a></h4>
+    <a href='https://computerhoy.com/alimentacion/inventan-helado-no-derrite-durante-4-horas-pero-tiene-gran-inconveniente-1394331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chica-comiendo-helado-3682708.jpg?tf=1200x' alt='Inventan un helado que no se derrite durante 4 horas, pero tiene un gran inconveniente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-2-patente-revela-nueva-generacion-vista-gran-novedad-1394235'>¿Samsung Galaxy Ring 2? Esta patente revela nueva generación a la vista con una gran novedad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-2-patente-revela-nueva-generacion-vista-gran-novedad-1394235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-ring-3651234.jpg?tf=1200x' alt='¿Samsung Galaxy Ring 2? Esta patente revela nueva generación a la vista con una gran novedad' />
+    <h4><a href='https://computerhoy.com/apple/apple-watch-series-x-todo-sabe-futuro-smartwatch-apple-1394524'>Apple Watch Series X: todo lo que se sabe del futuro smartwatch de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-series-x-todo-sabe-futuro-smartwatch-apple-1394524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-3291677.jpg?tf=1200x' alt='Apple Watch Series X: todo lo que se sabe del futuro smartwatch de Apple' />
     </a>
 </div>
 
