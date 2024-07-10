@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-como-funcionan-grupos-todo-debes-saber-app-mensajeria-auge-1394973'>Telegram: qué es, cómo funcionan sus grupos y todo lo que debes saber sobre la app de mensajería en auge</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-como-funcionan-grupos-todo-debes-saber-app-mensajeria-auge-1394973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/telegram-3615525.jpg?tf=1200x' alt='Telegram: qué es, cómo funcionan sus grupos y todo lo que debes saber sobre la app de mensajería en auge' />
+    <h4><a href='https://computerhoy.com/tecnologia/piensas-estas-bloqueando-llamada-spam-realidad-pides-te-llamen-peligros-consentimiento-previo-1394958'>Piensas que estás bloqueando una llamada Spam y en realidad pides que te llamen: los peligros del consentimiento previo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/piensas-estas-bloqueando-llamada-spam-realidad-pides-te-llamen-peligros-consentimiento-previo-1394958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/adios-spam-telefonico-normativa-impedira-recibir-llamadas-no-deseadas-no-3025290.jpg?tf=1200x' alt='Piensas que estás bloqueando una llamada Spam y en realidad pides que te llamen: los peligros del consentimiento previo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-tiendas-estan-toda-espana-venden-productos-electronicos-1-euro-todos-jueves-1394306'>Estas tiendas están por toda España y venden productos electrónicos por 1 euro todos los jueves</a></h4>
-    <a href='https://computerhoy.com/life/estas-tiendas-estan-toda-espana-venden-productos-electronicos-1-euro-todos-jueves-1394306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/donde-crazy-day-factory-tiendas-comprar-devoluciones-amazon-precio-saldo-3219956.jpg?tf=1200x' alt='Estas tiendas están por toda España y venden productos electrónicos por 1 euro todos los jueves' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/recibes-llamada-familiar-estafa-ya-marcha-1394561'>Si recibes esta llamada de un familiar, la estafa ya está en marcha</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/recibes-llamada-familiar-estafa-ya-marcha-1394561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-telefonica-3683426.jpg?tf=1200x' alt='Si recibes esta llamada de un familiar, la estafa ya está en marcha' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-1394748'>10.000 millones de contraseñas filtradas: cómo saber si la tuya es una de ellas para cambiarla inmediatamente</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-1394748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-3690203.jpg?tf=1200x' alt='10.000 millones de contraseñas filtradas: cómo saber si la tuya es una de ellas para cambiarla inmediatamente' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-bizum-como-metodo-pago-pedidos-amazon-1394777'>Cómo añadir Bizum como método de pago para tus pedidos de Amazon</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-anadir-bizum-como-metodo-pago-pedidos-amazon-1394777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bizum-amazon-3690750.jpg?tf=1200x' alt='Cómo añadir Bizum como método de pago para tus pedidos de Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/ocurre-cuando-conectas-movil-puerto-usb-smart-tv-1394945'>¿Qué ocurre cuando conectas tu móvil al puerto USB de tu Smart TV?</a></h4>
-    <a href='https://computerhoy.com/tv/ocurre-cuando-conectas-movil-puerto-usb-smart-tv-1394945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-mando-3697584.jpg?tf=1200x' alt='¿Qué ocurre cuando conectas tu móvil al puerto USB de tu Smart TV?' />
+    <h4><a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307'>Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato</a></h4>
+    <a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamadas-fantasma-spam-3662864.jpg?tf=1200x' alt='Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sencillo-gesto-diario-proteger-movil-mejorar-rendimiento-pocos-segundos-1394753'>El sencillo gesto diario para proteger tu móvil y mejorar su rendimiento en pocos segundos</a></h4>
-    <a href='https://computerhoy.com/moviles/sencillo-gesto-diario-proteger-movil-mejorar-rendimiento-pocos-segundos-1394753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/moviles-3690198.jpg?tf=1200x' alt='El sencillo gesto diario para proteger tu móvil y mejorar su rendimiento en pocos segundos' />
+    <h4><a href='https://computerhoy.com/ciencia/ser-humano-puede-vivir-marte-estos-cuatro-astronautas-tienen-respuesta-pasar-ano-alli-1394953'>¿El ser humano puede vivir en Marte? Estos cuatro astronautas tienen la respuesta “tras pasar más de un año allí”</a></h4>
+    <a href='https://computerhoy.com/ciencia/ser-humano-puede-vivir-marte-estos-cuatro-astronautas-tienen-respuesta-pasar-ano-alli-1394953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mision-chapea-3697735.jpg?tf=1200x' alt='¿El ser humano puede vivir en Marte? Estos cuatro astronautas tienen la respuesta “tras pasar más de un año allí”' />
     </a>
 </div>
 
