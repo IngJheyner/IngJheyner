@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/comandos-consola-windows-cmd-te-hara-parecer-hacker-1394684'>Comandos de la consola de Windows (CMD) que te hará parecer un hacker</a></h4>
+    <a href='https://computerhoy.com/windows/comandos-consola-windows-cmd-te-hara-parecer-hacker-1394684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/comandos-consola-windows-cmd-te-hara-parecer-hacker-3687388.jpg?tf=1200x' alt='Comandos de la consola de Windows (CMD) que te hará parecer un hacker' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-1394883'>El cohete Ariane 6 despega con éxito: Europa vuelve a la primera división espacial</a></h4>
     <a href='https://computerhoy.com/espacio/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-1394883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-3694127.jpg?tf=1200x' alt='El cohete Ariane 6 despega con éxito: Europa vuelve a la primera división espacial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/europa-podria-haber-dado-tecla-acabar-iptv-paginas-descargas-ilegales-1394877'>Europa podría haber dado con la tecla para acabar con las IPTV y las páginas de descargas ilegales</a></h4>
     <a href='https://computerhoy.com/internet/europa-podria-haber-dado-tecla-acabar-iptv-paginas-descargas-ilegales-1394877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/europa-podria-haber-dado-tecla-acabar-iptv-paginas-descargas-ilegales-3694269.jpg?tf=1200x' alt='Europa podría haber dado con la tecla para acabar con las IPTV y las páginas de descargas ilegales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/no-utilizas-powertoys-te-estas-perdiendo-mejores-funciones-windows-ultimos-anos-1394208'>Si no utilizas las PowerToys te estás perdiendo una de las mejores funciones de Windows de los últimos años</a></h4>
-    <a href='https://computerhoy.com/apps/no-utilizas-powertoys-te-estas-perdiendo-mejores-funciones-windows-ultimos-anos-1394208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-utilizas-powertoys-te-estas-perdiendo-mejores-funciones-windows-ultimos-anos-3659213.jpg?tf=1200x' alt='Si no utilizas las PowerToys te estás perdiendo una de las mejores funciones de Windows de los últimos años' />
     </a>
 </div>
 
