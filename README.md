@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/peor-semana-verano-comprar-amazon-expertos-1394816'>Por qué esta es la peor semana del verano para comprar en Amazon, según los expertos</a></h4>
-    <a href='https://computerhoy.com/amazon/peor-semana-verano-comprar-amazon-expertos-1394816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-prime-3691949.jpg?tf=1200x' alt='Por qué esta es la peor semana del verano para comprar en Amazon, según los expertos' />
+    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-ha-hecho-amazon-prime-video-outer-range-grandes-series-quedaron-final-condiciones-1394141'>No solo lo ha hecho Amazon Prime Video con Outer Range: grandes series que se quedaron sin un final en condiciones</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/no-solo-ha-hecho-amazon-prime-video-outer-range-grandes-series-quedaron-final-condiciones-1394141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/outer-range-2666559.jpg?tf=1200x' alt='No solo lo ha hecho Amazon Prime Video con Outer Range: grandes series que se quedaron sin un final en condiciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/clasico-stephen-king-tiene-casi-50-anos-cuya-pelicula-sigue-resistiendo-podria-estrenarse-2024-1394256'>El clásico de Stephen King que tiene casi 50 años y cuya película se sigue resistiendo, podría estrenarse en 2024</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/clasico-stephen-king-tiene-casi-50-anos-cuya-pelicula-sigue-resistiendo-podria-estrenarse-2024-1394256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/juego-tronos-temporada-8-stephen-king-defiende-estos-episodios.jpg?tf=1200x' alt='El clásico de Stephen King que tiene casi 50 años y cuya película se sigue resistiendo, podría estrenarse en 2024' />
+    <h4><a href='https://computerhoy.com/ciencia/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-1395002'>Un científico de Oxford cree tener pruebas de que el universo es una simulación “a lo Matrix”</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-1395002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-3698491.jpg?tf=1200x' alt='Un científico de Oxford cree tener pruebas de que el universo es una simulación “a lo Matrix”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-bloquear-usuarios-tiktok-1388373'>¿Cómo bloquear usuarios en TikTok?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-bloquear-usuarios-tiktok-1388373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-bloquear-usuarios-tiktok-3390001.jpg?tf=1200x' alt='¿Cómo bloquear usuarios en TikTok?' />
+    <h4><a href='https://computerhoy.com/internet/canales-pago-gratis-iptv-toda-vida-nuevo-producto-estrella-amazon-1395056'>Canales de pago gratis por IPTV para toda la vida: el nuevo producto estrella de Amazon</a></h4>
+    <a href='https://computerhoy.com/internet/canales-pago-gratis-iptv-toda-vida-nuevo-producto-estrella-amazon-1395056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/canales-pago-gratis-iptv-toda-vida-nuevo-producto-estrella-amazon-3700362.jpg?tf=1200x' alt='Canales de pago gratis por IPTV para toda la vida: el nuevo producto estrella de Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-1394845'>Esta app que no usas es la que más batería del móvil gasta: así he conseguido que su consumo sea cero</a></h4>
-    <a href='https://computerhoy.com/android/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-1394845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-3692955.jpg?tf=1200x' alt='Esta app que no usas es la que más batería del móvil gasta: así he conseguido que su consumo sea cero' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-recula-restaura-guias-crear-cuentas-locales-windows-1394665'>Microsoft recula y restaura las guías para crear cuentas locales en Windows</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-recula-restaura-guias-crear-cuentas-locales-windows-1394665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-10-3375157.jpg?tf=1200x' alt='Microsoft recula y restaura las guías para crear cuentas locales en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/razon-nunca-debes-tirar-paquete-amazon-datos-basura-1394632'>Esta es la razón por la que nunca debes tirar un paquete de Amazon con tus datos a la basura</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/razon-nunca-debes-tirar-paquete-amazon-datos-basura-1394632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razon-nunca-debes-tirar-paquete-amazon-datos-basura-3684531.jpg?tf=1200x' alt='Esta es la razón por la que nunca debes tirar un paquete de Amazon con tus datos a la basura' />
+    <h4><a href='https://computerhoy.com/entretenimiento/5-mejores-peliculas-terror-netflix-tienes-ver-quieres-sorprendente-1393497'>5 mejores películas de terror de Netflix que tienes que ver si quieres sorprendente</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/5-mejores-peliculas-terror-netflix-tienes-ver-quieres-sorprendente-1393497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/conferencia-3663646.jpg?tf=1200x' alt='5 mejores películas de terror de Netflix que tienes que ver si quieres sorprendente' />
     </a>
 </div>
 
