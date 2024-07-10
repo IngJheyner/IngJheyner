@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/antiguo-trabajador-microsoft-ha-revelado-primera-copia-windows-95-salio-fabrica-1395010'>Un antiguo trabajador de Microsoft ha revelado la primera copia de Windows 95 que salió de la fábrica</a></h4>
-    <a href='https://computerhoy.com/windows/antiguo-trabajador-microsoft-ha-revelado-primera-copia-windows-95-salio-fabrica-1395010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/antiguo-trabajador-microsoft-ha-revelado-primera-copia-windows-95-salio-fabrica-3698671.jpg?tf=1200x' alt='Un antiguo trabajador de Microsoft ha revelado la primera copia de Windows 95 que salió de la fábrica' />
+    <h4><a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-truco-viral-arrasa-espana-1394806'>Guardar una hoja de laurel en la carcasa del móvil: el truco viral que arrasa en España</a></h4>
+    <a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-truco-viral-arrasa-espana-1394806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laurel-telefono-3691593.jpg?tf=1200x' alt='Guardar una hoja de laurel en la carcasa del móvil: el truco viral que arrasa en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/auto-sr-sirve-como-funciona-windows-11-1394013'>Qué es Auto SR, para qué sirve y cómo funciona en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/auto-sr-sirve-como-funciona-windows-11-1394013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/auto-sr-sirve-como-funciona-windows-11-3653725.jpg?tf=1200x' alt='Qué es Auto SR, para qué sirve y cómo funciona en Windows 11' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-fotografias-grupo-whatsapp-galeria-1394589'>Cómo ocultar las fotografías de un grupo de WhatsApp de la galería</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-fotografias-grupo-whatsapp-galeria-1394589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-3684064.jpg?tf=1200x' alt='Cómo ocultar las fotografías de un grupo de WhatsApp de la galería' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mantener-pc-libre-virus-malware-1394628'>10 sencillas reglas para mantener tu PC libre de virus y malware</a></h4>
-    <a href='https://computerhoy.com/pc/mantener-pc-libre-virus-malware-1394628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/evitar-virus-malware-pc-3684380.jpg?tf=1200x' alt='10 sencillas reglas para mantener tu PC libre de virus y malware' />
+    <h4><a href='https://computerhoy.com/tecnologia/truco-pajita-hack-definitivo-mantener-movil-impecable-libre-polvo-1394636'>El truco de la pajita, el hack definitivo para mantener tu móvil impecable libre de polvo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/truco-pajita-hack-definitivo-mantener-movil-impecable-libre-polvo-1394636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/truco-pajita-hack-definitivo-mantener-movil-impecable-libre-polvo-3685286.jpg?tf=1200x' alt='El truco de la pajita, el hack definitivo para mantener tu móvil impecable libre de polvo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/ni-cable-ni-wifi-caracteristica-verdaderamente-importante-jugar-pc-latencia-1394884'>Ni cable ni WiFi, esta es la característica verdaderamente importante para jugar con tu PC: la latencia</a></h4>
-    <a href='https://computerhoy.com/redes/ni-cable-ni-wifi-caracteristica-verdaderamente-importante-jugar-pc-latencia-1394884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-cable-ni-wifi-caracteristica-verdaderamente-importante-jugar-pc-latencia-3695249.jpg?tf=1200x' alt='Ni cable ni WiFi, esta es la característica verdaderamente importante para jugar con tu PC: la latencia' />
+    <h4><a href='https://computerhoy.com/hogar/robot-aspira-friega-casa-cuantas-veces-quieras-240-m2-cobertura-poner-freno-roomba-1395020'>Este robot aspira y friega tu casa cuantas veces quieras: hasta 240 m2 de cobertura para poner freno a las Roomba</a></h4>
+    <a href='https://computerhoy.com/hogar/robot-aspira-friega-casa-cuantas-veces-quieras-240-m2-cobertura-poner-freno-roomba-1395020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cecotec-conga-12090-twice-roller-homefill-3662720.jpg?tf=1200x' alt='Este robot aspira y friega tu casa cuantas veces quieras: hasta 240 m2 de cobertura para poner freno a las Roomba' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-acceso-directo-google-maps-android-auto-1394216'>Cómo añadir un acceso directo en Google Maps a tu casa o trabajo para usarlo en Android Auto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-anadir-acceso-directo-google-maps-android-auto-1394216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-android-auto-3683888.jpg?tf=1200x' alt='Cómo añadir un acceso directo en Google Maps a tu casa o trabajo para usarlo en Android Auto' />
+    <h4><a href='https://computerhoy.com/espacio/james-webb-descubre-misteriosos-objetos-rojos-universo-primitivo-desafian-teorias-actuales-1395006'>James Webb descubre misteriosos objetos rojos en el universo primitivo que desafían las teorías actuales</a></h4>
+    <a href='https://computerhoy.com/espacio/james-webb-descubre-misteriosos-objetos-rojos-universo-primitivo-desafian-teorias-actuales-1395006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/galaxia-espiral-ngc-628-3268217.jpg?tf=1200x' alt='James Webb descubre misteriosos objetos rojos en el universo primitivo que desafían las teorías actuales' />
     </a>
 </div>
 
