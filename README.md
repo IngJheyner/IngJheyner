@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-1394883'>El cohete Ariane 6 despega con éxito: Europa vuelve a la primera división espacial</a></h4>
+    <a href='https://computerhoy.com/espacio/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-1394883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-3694127.jpg?tf=1200x' alt='El cohete Ariane 6 despega con éxito: Europa vuelve a la primera división espacial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/-mapa-interactivo-cambio-climatico-ciudad-dentro-60-anos-1394686'>Este aterrador mapa interactivo muestra como será tu ciudad dentro de 60 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/-mapa-interactivo-cambio-climatico-ciudad-dentro-60-anos-1394686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aterrador-mapa-interactivo-muestra-como-sera-ciudad-dentro-60-anos-3686780.jpg?tf=1200x' alt='Este aterrador mapa interactivo muestra como será tu ciudad dentro de 60 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671'>Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana</a></h4>
     <a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-3686413.jpg?tf=1200x' alt='Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-1394678'>Una nueva estafa camufla gráficas RTX 3080 Ti como si fueran RTX 4090 con un nivel de detalle increíble</a></h4>
     <a href='https://computerhoy.com/tecnologia/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-1394678' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-3686487.jpg?tf=1200x' alt='Una nueva estafa camufla gráficas RTX 3080 Ti como si fueran RTX 4090 con un nivel de detalle increíble' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-1395073'>El Banco de España alerta del grave error que la mayoría de españoles cometen al pagar con el móvil</a></h4>
-    <a href='https://computerhoy.com/life/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-1395073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-3700954.jpg?tf=1200x' alt='El Banco de España alerta del grave error que la mayoría de españoles cometen al pagar con el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/instituto-alumnos-solo-pueden-usar-telefonos-tontos-nokia-1394878'>En este instituto los alumnos solo podrán usar teléfonos "tontos" de Nokia</a></h4>
-    <a href='https://computerhoy.com/moviles/instituto-alumnos-solo-pueden-usar-telefonos-tontos-nokia-1394878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/instituto-alumnos-solo-pueden-usar-telefonos-tontos-nokia-3693555.jpg?tf=1200x' alt='En este instituto los alumnos solo podrán usar teléfonos "tontos" de Nokia' />
     </a>
 </div>
 
