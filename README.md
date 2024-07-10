@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/maquinas-expendedoras-balas-reconocimiento-facial-ia-1394902'>Ya están aquí las máquinas expendedoras de balas con reconocimiento facial e IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/maquinas-expendedoras-balas-reconocimiento-facial-ia-1394902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/polemica-maquinas-expendedoras-venden-balas-reconocimiento-facial-ia-3696516.jpg?tf=1200x' alt='Ya están aquí las máquinas expendedoras de balas con reconocimiento facial e IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-1394692'>5 trucos efectivos para mejorar la velocidad y el rendimiento de tu router WiFi</a></h4>
     <a href='https://computerhoy.com/redes/trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-1394692' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-3688410.jpg?tf=1200x' alt='5 trucos efectivos para mejorar la velocidad y el rendimiento de tu router WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/necesita-poder-usar-bizum-1392799'>¿Qué se necesita para poder usar Bizum?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/necesita-poder-usar-bizum-1392799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usar-bizum-3599366.jpg?tf=1200x' alt='¿Qué se necesita para poder usar Bizum?' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-1394227'>Descubren el secreto del Mecanismo de Anticitera, gracias a los agujeros negros</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-1394227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/descubren-secreto-mecanismo-anticitera-gracias-agujeros-negros-3661419.jpg?tf=1200x' alt='Descubren el secreto del Mecanismo de Anticitera, gracias a los agujeros negros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inventan-aire-acondicionado-portatil-capaz-enfriar-cualquier-lugar-15-minutos-no-requiere-instalacion-1290516'>El aire acondicionado portátil capaz de enfriar cualquier lugar en 15 minutos y no requiere instalación</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inventan-aire-acondicionado-portatil-capaz-enfriar-cualquier-lugar-15-minutos-no-requiere-instalacion-1290516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/aire-acondicionado-3109320.jpg?tf=1200x' alt='El aire acondicionado portátil capaz de enfriar cualquier lugar en 15 minutos y no requiere instalación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ni-google-chrome-ni-edge-6-motivos-me-he-pasado-mozilla-firefox-1393494'>Ni Google Chrome ni Edge: los 6 motivos por los que me he pasado a Mozilla Firefox</a></h4>
-    <a href='https://computerhoy.com/apps/ni-google-chrome-ni-edge-6-motivos-me-he-pasado-mozilla-firefox-1393494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mozilla-firefox-letal-3637048.jpg?tf=1200x' alt='Ni Google Chrome ni Edge: los 6 motivos por los que me he pasado a Mozilla Firefox' />
     </a>
 </div>
 
