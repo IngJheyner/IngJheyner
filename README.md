@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tiktok-como-funciona-trucos-como-ganar-dinero-videos-1159087'>TikTok: qué es, cómo funciona, trucos y cómo ganar dinero con tus vídeos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/tiktok-como-funciona-trucos-como-ganar-dinero-videos-1159087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tiktok-2874231.jpg?tf=1200x' alt='TikTok: qué es, cómo funciona, trucos y cómo ganar dinero con tus vídeos' />
+    <h4><a href='https://computerhoy.com/apps/telegram-como-funcionan-grupos-todo-debes-saber-app-mensajeria-auge-1394973'>Telegram: qué es, cómo funcionan sus grupos y todo lo que debes saber sobre la app de mensajería en auge</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-como-funcionan-grupos-todo-debes-saber-app-mensajeria-auge-1394973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/telegram-3615525.jpg?tf=1200x' alt='Telegram: qué es, cómo funcionan sus grupos y todo lo que debes saber sobre la app de mensajería en auge' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/nueva-actualizacion-confirma-fin-windows-10-puede-haber-comenzado-antes-tiempo-1394267'>Una nueva actualización confirma que el fin de Windows 10 puede haber comenzado antes de tiempo</a></h4>
-    <a href='https://computerhoy.com/windows/nueva-actualizacion-confirma-fin-windows-10-puede-haber-comenzado-antes-tiempo-1394267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/caracteristica-windows-11-infinitamente-superior-windows-10-sabias-3653202.jpg?tf=1200x' alt='Una nueva actualización confirma que el fin de Windows 10 puede haber comenzado antes de tiempo' />
+    <h4><a href='https://computerhoy.com/life/estas-tiendas-estan-toda-espana-venden-productos-electronicos-1-euro-todos-jueves-1394306'>Estas tiendas están por toda España y venden productos electrónicos por 1 euro todos los jueves</a></h4>
+    <a href='https://computerhoy.com/life/estas-tiendas-estan-toda-espana-venden-productos-electronicos-1-euro-todos-jueves-1394306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/donde-crazy-day-factory-tiendas-comprar-devoluciones-amazon-precio-saldo-3219956.jpg?tf=1200x' alt='Estas tiendas están por toda España y venden productos electrónicos por 1 euro todos los jueves' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-1394478'>El problema "pogo" estuvo cerca de impedir que la NASA llegase a la Luna: así lo solucionaron</a></h4>
-    <a href='https://computerhoy.com/espacio/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-1394478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-3677236.jpg?tf=1200x' alt='El problema "pogo" estuvo cerca de impedir que la NASA llegase a la Luna: así lo solucionaron' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-1394748'>10.000 millones de contraseñas filtradas: cómo saber si la tuya es una de ellas para cambiarla inmediatamente</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-1394748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-3690203.jpg?tf=1200x' alt='10.000 millones de contraseñas filtradas: cómo saber si la tuya es una de ellas para cambiarla inmediatamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/computacion-cuantica-futuro-pero-aun-necesita-algo-pasado-1394940'>La computación cuántica es el futuro, pero aún necesita algo "del pasado"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/computacion-cuantica-futuro-pero-aun-necesita-algo-pasado-1394940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-cuantico-3561798.jpg?tf=1200x' alt='La computación cuántica es el futuro, pero aún necesita algo "del pasado"' />
+    <h4><a href='https://computerhoy.com/tv/ocurre-cuando-conectas-movil-puerto-usb-smart-tv-1394945'>¿Qué ocurre cuando conectas tu móvil al puerto USB de tu Smart TV?</a></h4>
+    <a href='https://computerhoy.com/tv/ocurre-cuando-conectas-movil-puerto-usb-smart-tv-1394945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-mando-3697584.jpg?tf=1200x' alt='¿Qué ocurre cuando conectas tu móvil al puerto USB de tu Smart TV?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-1394720'>El Gobierno de Alemania ha incautado la mayor reserva de Bitcoin de su historia por valor de 1.847 millones de euros</a></h4>
-    <a href='https://computerhoy.com/criptos/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-1394720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-3689882.jpg?tf=1200x' alt='El Gobierno de Alemania ha incautado la mayor reserva de Bitcoin de su historia por valor de 1.847 millones de euros' />
+    <h4><a href='https://computerhoy.com/moviles/sencillo-gesto-diario-proteger-movil-mejorar-rendimiento-pocos-segundos-1394753'>El sencillo gesto diario para proteger tu móvil y mejorar su rendimiento en pocos segundos</a></h4>
+    <a href='https://computerhoy.com/moviles/sencillo-gesto-diario-proteger-movil-mejorar-rendimiento-pocos-segundos-1394753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/moviles-3690198.jpg?tf=1200x' alt='El sencillo gesto diario para proteger tu móvil y mejorar su rendimiento en pocos segundos' />
     </a>
 </div>
 
