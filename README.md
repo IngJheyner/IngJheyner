@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-ha-hecho-amazon-prime-video-outer-range-grandes-series-quedaron-final-condiciones-1394141'>No solo lo ha hecho Amazon Prime Video con Outer Range: grandes series que se quedaron sin un final en condiciones</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/no-solo-ha-hecho-amazon-prime-video-outer-range-grandes-series-quedaron-final-condiciones-1394141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/outer-range-2666559.jpg?tf=1200x' alt='No solo lo ha hecho Amazon Prime Video con Outer Range: grandes series que se quedaron sin un final en condiciones' />
+    <h4><a href='https://computerhoy.com/life/union-europea-quiere-robarte-chollazos-compras-aliexpress-shein-temu-1395082'>La Unión Europea “quiere robarte” los chollazos que compras en AliExpress, Shein o Temu</a></h4>
+    <a href='https://computerhoy.com/life/union-europea-quiere-robarte-chollazos-compras-aliexpress-shein-temu-1395082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/comercio-electronico-3700955.jpg?tf=1200x' alt='La Unión Europea “quiere robarte” los chollazos que compras en AliExpress, Shein o Temu' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-1395002'>Un científico de Oxford cree tener pruebas de que el universo es una simulación “a lo Matrix”</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-1395002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-3698491.jpg?tf=1200x' alt='Un científico de Oxford cree tener pruebas de que el universo es una simulación “a lo Matrix”' />
+    <h4><a href='https://computerhoy.com/life/ciudad-espanola-coloca-como-sexta-ruidosa-todo-mundo-1394382'>Esta ciudad española se coloca como la sexta más ruidosa de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/life/ciudad-espanola-coloca-como-sexta-ruidosa-todo-mundo-1394382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ruido-ciudad-3665891.jpg?tf=1200x' alt='Esta ciudad española se coloca como la sexta más ruidosa de todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/canales-pago-gratis-iptv-toda-vida-nuevo-producto-estrella-amazon-1395056'>Canales de pago gratis por IPTV para toda la vida: el nuevo producto estrella de Amazon</a></h4>
-    <a href='https://computerhoy.com/internet/canales-pago-gratis-iptv-toda-vida-nuevo-producto-estrella-amazon-1395056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/canales-pago-gratis-iptv-toda-vida-nuevo-producto-estrella-amazon-3700362.jpg?tf=1200x' alt='Canales de pago gratis por IPTV para toda la vida: el nuevo producto estrella de Amazon' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081'>La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-3700953.jpg?tf=1200x' alt='La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-recula-restaura-guias-crear-cuentas-locales-windows-1394665'>Microsoft recula y restaura las guías para crear cuentas locales en Windows</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-recula-restaura-guias-crear-cuentas-locales-windows-1394665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-10-3375157.jpg?tf=1200x' alt='Microsoft recula y restaura las guías para crear cuentas locales en Windows' />
+    <h4><a href='https://computerhoy.com/tecnologia/sony-sentencia-blu-ray-grabables-dice-adios-definitivamente-grabacion-discos-1395080'>Sony sentencia los Blu-ray grabables y dice adiós definitivamente a la grabación de discos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sony-sentencia-blu-ray-grabables-dice-adios-definitivamente-grabacion-discos-1395080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/discos-blu-ray-3700810.jpg?tf=1200x' alt='Sony sentencia los Blu-ray grabables y dice adiós definitivamente a la grabación de discos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-mejores-peliculas-terror-netflix-tienes-ver-quieres-sorprendente-1393497'>5 mejores películas de terror de Netflix que tienes que ver si quieres sorprendente</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-mejores-peliculas-terror-netflix-tienes-ver-quieres-sorprendente-1393497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/conferencia-3663646.jpg?tf=1200x' alt='5 mejores películas de terror de Netflix que tienes que ver si quieres sorprendente' />
+    <h4><a href='https://computerhoy.com/redes/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-1394375'>Todo el mundo lo tiene en casa y es el enemigo de tu WiFi: aléjalo todo lo que puedas</a></h4>
+    <a href='https://computerhoy.com/redes/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-1394375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/todo-mundo-tiene-casa-enemigo-wifi-alejalo-todo-puedas-3665618.jpg?tf=1200x' alt='Todo el mundo lo tiene en casa y es el enemigo de tu WiFi: aléjalo todo lo que puedas' />
     </a>
 </div>
 
