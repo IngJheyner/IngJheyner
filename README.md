@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/piensas-estas-bloqueando-llamada-spam-realidad-pides-te-llamen-peligros-consentimiento-previo-1394958'>Piensas que estás bloqueando una llamada Spam y en realidad pides que te llamen: los peligros del consentimiento previo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/piensas-estas-bloqueando-llamada-spam-realidad-pides-te-llamen-peligros-consentimiento-previo-1394958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/adios-spam-telefonico-normativa-impedira-recibir-llamadas-no-deseadas-no-3025290.jpg?tf=1200x' alt='Piensas que estás bloqueando una llamada Spam y en realidad pides que te llamen: los peligros del consentimiento previo' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-anillo-inteligente-caracteristicas-precio-informacion-1393909'>Samsung Galaxy Ring es el anillo inteligente que estábamos esperando, pero por ahora no lo esperes en España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-anillo-inteligente-caracteristicas-precio-informacion-1393909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-ring-3697586.jpg?tf=1200x' alt='Samsung Galaxy Ring es el anillo inteligente que estábamos esperando, pero por ahora no lo esperes en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/recibes-llamada-familiar-estafa-ya-marcha-1394561'>Si recibes esta llamada de un familiar, la estafa ya está en marcha</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/recibes-llamada-familiar-estafa-ya-marcha-1394561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-telefonica-3683426.jpg?tf=1200x' alt='Si recibes esta llamada de un familiar, la estafa ya está en marcha' />
+    <h4><a href='https://computerhoy.com/moviles/he-pasado-rato-samsung-galaxy-z-fold-6-cada-vez-parece-movil-tradicional-1393893'>He pasado un rato con el Samsung Galaxy Z Fold 6 y cada vez se parece más a un móvil tradicional</a></h4>
+    <a href='https://computerhoy.com/moviles/he-pasado-rato-samsung-galaxy-z-fold-6-cada-vez-parece-movil-tradicional-1393893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-fold-6-3655734.jpg?tf=1200x' alt='He pasado un rato con el Samsung Galaxy Z Fold 6 y cada vez se parece más a un móvil tradicional' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-bizum-como-metodo-pago-pedidos-amazon-1394777'>Cómo añadir Bizum como método de pago para tus pedidos de Amazon</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-anadir-bizum-como-metodo-pago-pedidos-amazon-1394777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bizum-amazon-3690750.jpg?tf=1200x' alt='Cómo añadir Bizum como método de pago para tus pedidos de Amazon' />
+    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-z-fold-6-galaxy-z-flip-6-caracteristicas-precios-informacion-1393686'>Samsung Galaxy Z Fold 6 y Galaxy Z Flip 6 siguen los pasos de la gama S24: diseños más planos y muchísima IA</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-galaxy-z-fold-6-galaxy-z-flip-6-caracteristicas-precios-informacion-1393686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-fold-6-galaxy-z-flip-6-3651230.jpg?tf=1200x' alt='Samsung Galaxy Z Fold 6 y Galaxy Z Flip 6 siguen los pasos de la gama S24: diseños más planos y muchísima IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307'>Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato</a></h4>
-    <a href='https://computerhoy.com/life/buscan-ti-llamadas-spam-contestas-pero-cuelgan-inmediato-1394307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamadas-fantasma-spam-3662864.jpg?tf=1200x' alt='Esto buscan de ti las llamadas spam que contestas, pero cuelgan de inmediato' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-watch-7-ultra-galaxy-watch-7-caracteristicas-precios-informacion-1393832'>Samsung también tiene su reloj inteligente para 'ultra' deportistas: presenta Galaxy Watch Ultra y Galaxy Watch 7</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-watch-7-ultra-galaxy-watch-7-caracteristicas-precios-informacion-1393832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-watch-ultra-colores-3651241.jpg?tf=1200x' alt='Samsung también tiene su reloj inteligente para 'ultra' deportistas: presenta Galaxy Watch Ultra y Galaxy Watch 7' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ser-humano-puede-vivir-marte-estos-cuatro-astronautas-tienen-respuesta-pasar-ano-alli-1394953'>¿El ser humano puede vivir en Marte? Estos cuatro astronautas tienen la respuesta “tras pasar más de un año allí”</a></h4>
-    <a href='https://computerhoy.com/ciencia/ser-humano-puede-vivir-marte-estos-cuatro-astronautas-tienen-respuesta-pasar-ano-alli-1394953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mision-chapea-3697735.jpg?tf=1200x' alt='¿El ser humano puede vivir en Marte? Estos cuatro astronautas tienen la respuesta “tras pasar más de un año allí”' />
+    <h4><a href='https://computerhoy.com/apps/calma-google-maps-no-anadiendo-anuncios-como-waze-menos-momento-1394782'>Calma, Google Maps no está añadiendo anuncios como Waze, al menos de momento</a></h4>
+    <a href='https://computerhoy.com/apps/calma-google-maps-no-anadiendo-anuncios-como-waze-menos-momento-1394782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-3690911.jpg?tf=1200x' alt='Calma, Google Maps no está añadiendo anuncios como Waze, al menos de momento' />
     </a>
 </div>
 
