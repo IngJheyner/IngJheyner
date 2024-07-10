@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/vuelta-terror-espacial-alien-romulus-evolucion-saga-impacto-cine-1394970'>Vuelta al terror espacial con Alien Romulus: la evolución de la saga y su impacto en el cine</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/vuelta-terror-espacial-alien-romulus-evolucion-saga-impacto-cine-1394970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/alien-romulus-3698345.jpg?tf=1200x' alt='Vuelta al terror espacial con Alien Romulus: la evolución de la saga y su impacto en el cine' />
+    <h4><a href='https://computerhoy.com/windows/antiguo-trabajador-microsoft-ha-revelado-primera-copia-windows-95-salio-fabrica-1395010'>Un antiguo trabajador de Microsoft ha revelado la primera copia de Windows 95 que salió de la fábrica</a></h4>
+    <a href='https://computerhoy.com/windows/antiguo-trabajador-microsoft-ha-revelado-primera-copia-windows-95-salio-fabrica-1395010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/antiguo-trabajador-microsoft-ha-revelado-primera-copia-windows-95-salio-fabrica-3698671.jpg?tf=1200x' alt='Un antiguo trabajador de Microsoft ha revelado la primera copia de Windows 95 que salió de la fábrica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-1394305'>Los drones son el arma de guerra del futuro pero tienen un problema: se pueden derribar con un arma de hace 300.000 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-1394305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/drones-son-arma-guerra-futuro-pero-tienen-problema-pueden-derribar-arma-hace-300000-anos-3663186.jpg?tf=1200x' alt='Los drones son el arma de guerra del futuro pero tienen un problema: se pueden derribar con un arma de hace 300.000 años' />
+    <h4><a href='https://computerhoy.com/windows/auto-sr-sirve-como-funciona-windows-11-1394013'>Qué es Auto SR, para qué sirve y cómo funciona en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/auto-sr-sirve-como-funciona-windows-11-1394013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/auto-sr-sirve-como-funciona-windows-11-3653725.jpg?tf=1200x' alt='Qué es Auto SR, para qué sirve y cómo funciona en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-1394242'>Esta es la razón por la que nunca deberías colocar una pegatina de alarma falsa al irte de vacaciones</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-1394242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-3662113.jpg?tf=1200x' alt='Esta es la razón por la que nunca deberías colocar una pegatina de alarma falsa al irte de vacaciones' />
+    <h4><a href='https://computerhoy.com/pc/mantener-pc-libre-virus-malware-1394628'>10 sencillas reglas para mantener tu PC libre de virus y malware</a></h4>
+    <a href='https://computerhoy.com/pc/mantener-pc-libre-virus-malware-1394628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/evitar-virus-malware-pc-3684380.jpg?tf=1200x' alt='10 sencillas reglas para mantener tu PC libre de virus y malware' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/utilizas-todavia-ruta-rapida-google-maps-1394966'>¿Por qué utilizas (todavía) la ruta más rápida en Google Maps?</a></h4>
-    <a href='https://computerhoy.com/apps/utilizas-todavia-ruta-rapida-google-maps-1394966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cruce-caminos-google-maps-3698028.jpg?tf=1200x' alt='¿Por qué utilizas (todavía) la ruta más rápida en Google Maps?' />
+    <h4><a href='https://computerhoy.com/redes/ni-cable-ni-wifi-caracteristica-verdaderamente-importante-jugar-pc-latencia-1394884'>Ni cable ni WiFi, esta es la característica verdaderamente importante para jugar con tu PC: la latencia</a></h4>
+    <a href='https://computerhoy.com/redes/ni-cable-ni-wifi-caracteristica-verdaderamente-importante-jugar-pc-latencia-1394884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-cable-ni-wifi-caracteristica-verdaderamente-importante-jugar-pc-latencia-3695249.jpg?tf=1200x' alt='Ni cable ni WiFi, esta es la característica verdaderamente importante para jugar con tu PC: la latencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/significa-nsfw-usa-internet-1394539'>¿Qué significa NSFW y por qué se usa en internet?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/significa-nsfw-usa-internet-1394539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/seguridad-internet-3683072.jpg?tf=1200x' alt='¿Qué significa NSFW y por qué se usa en internet?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-acceso-directo-google-maps-android-auto-1394216'>Cómo añadir un acceso directo en Google Maps a tu casa o trabajo para usarlo en Android Auto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-anadir-acceso-directo-google-maps-android-auto-1394216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-android-auto-3683888.jpg?tf=1200x' alt='Cómo añadir un acceso directo en Google Maps a tu casa o trabajo para usarlo en Android Auto' />
     </a>
 </div>
 
