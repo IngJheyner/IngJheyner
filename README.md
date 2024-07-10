@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-truco-viral-arrasa-espana-1394806'>Guardar una hoja de laurel en la carcasa del móvil: el truco viral que arrasa en España</a></h4>
-    <a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-truco-viral-arrasa-espana-1394806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laurel-telefono-3691593.jpg?tf=1200x' alt='Guardar una hoja de laurel en la carcasa del móvil: el truco viral que arrasa en España' />
+    <h4><a href='https://computerhoy.com/amazon/peor-semana-verano-comprar-amazon-expertos-1394816'>Por qué esta es la peor semana del verano para comprar en Amazon, según los expertos</a></h4>
+    <a href='https://computerhoy.com/amazon/peor-semana-verano-comprar-amazon-expertos-1394816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-prime-3691949.jpg?tf=1200x' alt='Por qué esta es la peor semana del verano para comprar en Amazon, según los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-fotografias-grupo-whatsapp-galeria-1394589'>Cómo ocultar las fotografías de un grupo de WhatsApp de la galería</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-fotografias-grupo-whatsapp-galeria-1394589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-3684064.jpg?tf=1200x' alt='Cómo ocultar las fotografías de un grupo de WhatsApp de la galería' />
+    <h4><a href='https://computerhoy.com/entretenimiento/clasico-stephen-king-tiene-casi-50-anos-cuya-pelicula-sigue-resistiendo-podria-estrenarse-2024-1394256'>El clásico de Stephen King que tiene casi 50 años y cuya película se sigue resistiendo, podría estrenarse en 2024</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/clasico-stephen-king-tiene-casi-50-anos-cuya-pelicula-sigue-resistiendo-podria-estrenarse-2024-1394256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/juego-tronos-temporada-8-stephen-king-defiende-estos-episodios.jpg?tf=1200x' alt='El clásico de Stephen King que tiene casi 50 años y cuya película se sigue resistiendo, podría estrenarse en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/truco-pajita-hack-definitivo-mantener-movil-impecable-libre-polvo-1394636'>El truco de la pajita, el hack definitivo para mantener tu móvil impecable libre de polvo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/truco-pajita-hack-definitivo-mantener-movil-impecable-libre-polvo-1394636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/truco-pajita-hack-definitivo-mantener-movil-impecable-libre-polvo-3685286.jpg?tf=1200x' alt='El truco de la pajita, el hack definitivo para mantener tu móvil impecable libre de polvo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-bloquear-usuarios-tiktok-1388373'>¿Cómo bloquear usuarios en TikTok?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-bloquear-usuarios-tiktok-1388373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-bloquear-usuarios-tiktok-3390001.jpg?tf=1200x' alt='¿Cómo bloquear usuarios en TikTok?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/robot-aspira-friega-casa-cuantas-veces-quieras-240-m2-cobertura-poner-freno-roomba-1395020'>Este robot aspira y friega tu casa cuantas veces quieras: hasta 240 m2 de cobertura para poner freno a las Roomba</a></h4>
-    <a href='https://computerhoy.com/hogar/robot-aspira-friega-casa-cuantas-veces-quieras-240-m2-cobertura-poner-freno-roomba-1395020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cecotec-conga-12090-twice-roller-homefill-3662720.jpg?tf=1200x' alt='Este robot aspira y friega tu casa cuantas veces quieras: hasta 240 m2 de cobertura para poner freno a las Roomba' />
+    <h4><a href='https://computerhoy.com/android/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-1394845'>Esta app que no usas es la que más batería del móvil gasta: así he conseguido que su consumo sea cero</a></h4>
+    <a href='https://computerhoy.com/android/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-1394845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-3692955.jpg?tf=1200x' alt='Esta app que no usas es la que más batería del móvil gasta: así he conseguido que su consumo sea cero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/james-webb-descubre-misteriosos-objetos-rojos-universo-primitivo-desafian-teorias-actuales-1395006'>James Webb descubre misteriosos objetos rojos en el universo primitivo que desafían las teorías actuales</a></h4>
-    <a href='https://computerhoy.com/espacio/james-webb-descubre-misteriosos-objetos-rojos-universo-primitivo-desafian-teorias-actuales-1395006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/galaxia-espiral-ngc-628-3268217.jpg?tf=1200x' alt='James Webb descubre misteriosos objetos rojos en el universo primitivo que desafían las teorías actuales' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/razon-nunca-debes-tirar-paquete-amazon-datos-basura-1394632'>Esta es la razón por la que nunca debes tirar un paquete de Amazon con tus datos a la basura</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/razon-nunca-debes-tirar-paquete-amazon-datos-basura-1394632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razon-nunca-debes-tirar-paquete-amazon-datos-basura-3684531.jpg?tf=1200x' alt='Esta es la razón por la que nunca debes tirar un paquete de Amazon con tus datos a la basura' />
     </a>
 </div>
 
