@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/windows-11-como-instalar-rsat-1394014'>Qué es RSAT, para qué sirve y cómo se instala en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/windows-11-como-instalar-rsat-1394014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rsat-sirve-como-instalarlo-windows-11-3654640.jpg?tf=1200x' alt='Qué es RSAT, para qué sirve y cómo se instala en Windows 11' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-dyson-pero-parece-aspiradora-cables-79-euros-pone-aliexpress-patas-arriba-1394928'>No es una Dyson, pero lo parece: esta aspiradora sin cables de 79 euros pone AliExpress patas arriba</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-dyson-pero-parece-aspiradora-cables-79-euros-pone-aliexpress-patas-arriba-1394928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laresar-v7-3696814.jpg?tf=1200x' alt='No es una Dyson, pero lo parece: esta aspiradora sin cables de 79 euros pone AliExpress patas arriba' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/maquinas-expendedoras-balas-reconocimiento-facial-ia-1394902'>Ya están aquí las máquinas expendedoras de balas con reconocimiento facial e IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/maquinas-expendedoras-balas-reconocimiento-facial-ia-1394902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/polemica-maquinas-expendedoras-venden-balas-reconocimiento-facial-ia-3696516.jpg?tf=1200x' alt='Ya están aquí las máquinas expendedoras de balas con reconocimiento facial e IA' />
+    <h4><a href='https://computerhoy.com/tecnologia/camara-cine-inteligencia-artificial-sueno-pesadilla-directores-1394914'>Esta cámara de cine con inteligencia artificial es el sueño y la pesadilla de los directores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/camara-cine-inteligencia-artificial-sueno-pesadilla-directores-1394914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/camara-cine-3697101.jpg?tf=1200x' alt='Esta cámara de cine con inteligencia artificial es el sueño y la pesadilla de los directores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-uses-napster-edonkey-ni-kazaa-dicen-universidades-norteamericanas-2024-1394703'>"No uses Napster, eDonkey ni KaZaA", dicen las universidades norteamericanas en 2024</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-uses-napster-edonkey-ni-kazaa-dicen-universidades-norteamericanas-2024-1394703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-uses-napster-limeware-ni-kazaa-dicen-universidades-norteamericanas-2024-3688993.jpg?tf=1200x' alt='"No uses Napster, eDonkey ni KaZaA", dicen las universidades norteamericanas en 2024' />
+    <h4><a href='https://computerhoy.com/google/google-punto-mira-imagenes-explicitas-no-retira-internet-1394713'>Google en el punto de mira por las imágenes explícitas que no retira de internet</a></h4>
+    <a href='https://computerhoy.com/google/google-punto-mira-imagenes-explicitas-no-retira-internet-1394713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mujer-estresada-3689733.jpg?tf=1200x' alt='Google en el punto de mira por las imágenes explícitas que no retira de internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727'>Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? </a></h4>
-    <a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/jovenes-movil-3656617.jpg?tf=1200x' alt='Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? ' />
+    <h4><a href='https://computerhoy.com/life/espana-quiera-acabar-black-friday-dias-iva-semana-fantastica-1395113'>España quiera acabar con el Black Friday, los Días sin IVA o la Semana Fantástica</a></h4>
+    <a href='https://computerhoy.com/life/espana-quiera-acabar-black-friday-dias-iva-semana-fantastica-1395113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rebajas-invierno-2024-espana-3256230.jpg?tf=1200x' alt='España quiera acabar con el Black Friday, los Días sin IVA o la Semana Fantástica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-te-ha-estado-espiando-microfono-durante-anos-todavia-no-has-eliminado-1394388'>Esta app te ha estado espiando por el micrófono durante años: ¿todavía no la has eliminado?</a></h4>
-    <a href='https://computerhoy.com/apps/app-te-ha-estado-espiando-microfono-durante-anos-todavia-no-has-eliminado-1394388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/app-te-ha-estado-espiando-microfono-durante-anos-todavia-no-has-eliminado-3666867.jpg?tf=1200x' alt='Esta app te ha estado espiando por el micrófono durante años: ¿todavía no la has eliminado?' />
+    <h4><a href='https://computerhoy.com/hogar/mentira-verde-engano-luces-led-ahorrar-dinero-1207572'>Nos vendieron una mentira verde: Así nos han engañado con las luces LED para “ahorrar energía”</a></h4>
+    <a href='https://computerhoy.com/hogar/mentira-verde-engano-luces-led-ahorrar-dinero-1207572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bombilla-led-junto-bombillas-normales-2970350.jpg?tf=1200x' alt='Nos vendieron una mentira verde: Así nos han engañado con las luces LED para “ahorrar energía”' />
     </a>
 </div>
 
