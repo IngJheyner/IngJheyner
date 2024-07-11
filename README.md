@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mejores-consejos-poder-ganar-dinero-tiktok-1388592'>Los mejores consejos para poder ganar dinero en TikTok</a></h4>
+    <a href='https://computerhoy.com/internet/mejores-consejos-poder-ganar-dinero-tiktok-1388592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mejores-consejos-poder-ganar-dinero-tiktok-3398599.jpg?tf=1200x' alt='Los mejores consejos para poder ganar dinero en TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-1393939'>Que no te engañen: así puedes identificar cuándo alguien ha usado ChatGPT y evitar el “slop”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-1393939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-3650324.jpg?tf=1200x' alt='Que no te engañen: así puedes identificar cuándo alguien ha usado ChatGPT y evitar el “slop”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/deep-desktop-app-convierte-cualquier-foto-video-3d-tiempo-real-usando-ia-1395095'>Deep Desktop, la app que convierte cualquier foto o vídeo a 3D en tiempo real, usando IA</a></h4>
     <a href='https://computerhoy.com/apps/deep-desktop-app-convierte-cualquier-foto-video-3d-tiempo-real-usando-ia-1395095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/deep-desktop-app-convierte-cualquier-foto-video-3d-tiempo-real-usando-ia-3701959.jpg?tf=1200x' alt='Deep Desktop, la app que convierte cualquier foto o vídeo a 3D en tiempo real, usando IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-1394883'>El cohete Ariane 6 despega con éxito: Europa vuelve a la primera división espacial</a></h4>
     <a href='https://computerhoy.com/espacio/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-1394883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-3694127.jpg?tf=1200x' alt='El cohete Ariane 6 despega con éxito: Europa vuelve a la primera división espacial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/-mapa-interactivo-cambio-climatico-ciudad-dentro-60-anos-1394686'>Este aterrador mapa interactivo muestra como será tu ciudad dentro de 60 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/-mapa-interactivo-cambio-climatico-ciudad-dentro-60-anos-1394686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aterrador-mapa-interactivo-muestra-como-sera-ciudad-dentro-60-anos-3686780.jpg?tf=1200x' alt='Este aterrador mapa interactivo muestra como será tu ciudad dentro de 60 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671'>Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana</a></h4>
-    <a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-3686413.jpg?tf=1200x' alt='Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana' />
     </a>
 </div>
 
