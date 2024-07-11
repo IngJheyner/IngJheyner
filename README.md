@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-truco-viral-arrasa-espana-1394806'>Guardar una hoja de laurel en la carcasa del móvil: el truco viral que arrasa en España</a></h4>
-    <a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-truco-viral-arrasa-espana-1394806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laurel-telefono-3691593.jpg?tf=1200x' alt='Guardar una hoja de laurel en la carcasa del móvil: el truco viral que arrasa en España' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-estilo-studio-ghibli-nada-tienen-envidiar-totoro-chihiro-1395025'>5 películas estilo Studio Ghibli que nada tienen que envidiar a Totoro o Chihiro</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-estilo-studio-ghibli-nada-tienen-envidiar-totoro-chihiro-1395025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-peliculas-estilo-studio-ghibli-nada-tienen-envidiar-totoro-chihiro-3698981.jpg?tf=1200x' alt='5 películas estilo Studio Ghibli que nada tienen que envidiar a Totoro o Chihiro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-programas-antiguos-tdt-cuando-quieras-casi-anuncios-1395204'>Cómo ver programas antiguos de la TDT cuando quieras y casi sin anuncios</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-programas-antiguos-tdt-cuando-quieras-casi-anuncios-1395204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ver-tdt-television-3292543.jpg?tf=1200x' alt='Cómo ver programas antiguos de la TDT cuando quieras y casi sin anuncios' />
+    <h4><a href='https://computerhoy.com/amazon/peor-semana-verano-comprar-amazon-expertos-1394816'>Por qué esta es la peor semana del verano para comprar en Amazon, según los expertos</a></h4>
+    <a href='https://computerhoy.com/amazon/peor-semana-verano-comprar-amazon-expertos-1394816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-prime-3691949.jpg?tf=1200x' alt='Por qué esta es la peor semana del verano para comprar en Amazon, según los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-pro-rebajado-amazon-acerca-barrera-1000-euros-1394922'>El iPhone 15 Pro está rebajado en Amazon y se acerca a la barrera de los 1.000 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-pro-rebajado-amazon-acerca-barrera-1000-euros-1394922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iphone-15-pro-3696955.jpg?tf=1200x' alt='El iPhone 15 Pro está rebajado en Amazon y se acerca a la barrera de los 1.000 euros' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-bloquear-usuarios-tiktok-1388373'>¿Cómo bloquear usuarios en TikTok?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-bloquear-usuarios-tiktok-1388373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-bloquear-usuarios-tiktok-3390001.jpg?tf=1200x' alt='¿Cómo bloquear usuarios en TikTok?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/incibe-alerta-informacion-nunca-deberias-compartir-internet-1394785'>El INCIBE alerta: esta es la información que nunca deberías compartir por Internet</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/incibe-alerta-informacion-nunca-deberias-compartir-internet-1394785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mujer-tapandose-boca-3691265.jpg?tf=1200x' alt='El INCIBE alerta: esta es la información que nunca deberías compartir por Internet' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-llamada-spam-estafa-puedes-identificar-numeros-desconocidos-1395018'>¿Cómo saber si una llamada es spam o una estafa? Así puedes identificar números desconocidos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-llamada-spam-estafa-puedes-identificar-numeros-desconocidos-1395018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamadas-spam-3705713.jpg?tf=1200x' alt='¿Cómo saber si una llamada es spam o una estafa? Así puedes identificar números desconocidos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mover-instalacion-completa-windows-otra-unidad-1394880'>Cómo mover una instalación completa de Windows a otra unidad</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mover-instalacion-completa-windows-otra-unidad-1394880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mover-windows-otro-ordenador-3705557.jpg?tf=1200x' alt='Cómo mover una instalación completa de Windows a otra unidad' />
+    <h4><a href='https://computerhoy.com/android/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-1394845'>Esta app que no usas es la que más batería del móvil gasta: así he conseguido que su consumo sea cero</a></h4>
+    <a href='https://computerhoy.com/android/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-1394845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-3692955.jpg?tf=1200x' alt='Esta app que no usas es la que más batería del móvil gasta: así he conseguido que su consumo sea cero' />
     </a>
 </div>
 
