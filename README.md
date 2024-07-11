@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-1394883'>El cohete Ariane 6 despega con éxito: Europa vuelve a la primera división espacial</a></h4>
+    <a href='https://computerhoy.com/espacio/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-1394883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-3694127.jpg?tf=1200x' alt='El cohete Ariane 6 despega con éxito: Europa vuelve a la primera división espacial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/video-muestra-momento-paises-pasaron-television-blanco-negro-color-1395287'>Un vídeo muestra el momento en el que los países pasaron de la televisión en blanco y negro, al color</a></h4>
     <a href='https://computerhoy.com/tecnologia/video-muestra-momento-paises-pasaron-television-blanco-negro-color-1395287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/video-muestra-momento-exacto-paises-pasaron-television-blanco-negro-color-3708245.jpg?tf=1200x' alt='Un vídeo muestra el momento en el que los países pasaron de la televisión en blanco y negro, al color' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-1394859'>Códigos secretos de Android para realizar tareas de seguridad, privacidad y mantenimiento al instante</a></h4>
     <a href='https://computerhoy.com/android/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-1394859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-3693847.jpg?tf=1200x' alt='Códigos secretos de Android para realizar tareas de seguridad, privacidad y mantenimiento al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283'>Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/supercomputadora-cuantica-3707957.jpg?tf=1200x' alt='Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"' />
     </a>
 </div>
 
