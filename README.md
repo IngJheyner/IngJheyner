@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-1394748'>10.000 millones de contraseñas filtradas: cómo saber si la tuya es una de ellas para cambiarla inmediatamente</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-1394748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-3690203.jpg?tf=1200x' alt='10.000 millones de contraseñas filtradas: cómo saber si la tuya es una de ellas para cambiarla inmediatamente' />
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-polar-vo2-max-ideal-runners-ahora-cuesta-mitad-color-vendido-1394747'>El reloj Polar con VO2 Max ideal para runners ahora cuesta la mitad, y en el color más vendido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-polar-vo2-max-ideal-runners-ahora-cuesta-mitad-color-vendido-1394747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/polar-pacer-pro-3690040.jpg?tf=1200x' alt='El reloj Polar con VO2 Max ideal para runners ahora cuesta la mitad, y en el color más vendido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/consigue-llevar-mejor-waze-google-maps-coches-policia-aparecen-ahora-marcados-mapa-1395149'>Consigue llevar lo mejor de Waze a Google Maps: los coches de policía aparecen ahora marcados en el mapa</a></h4>
-    <a href='https://computerhoy.com/google/consigue-llevar-mejor-waze-google-maps-coches-policia-aparecen-ahora-marcados-mapa-1395149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/waze-avisos-3704617.jpg?tf=1200x' alt='Consigue llevar lo mejor de Waze a Google Maps: los coches de policía aparecen ahora marcados en el mapa' />
+    <h4><a href='https://computerhoy.com/tecnologia/piensas-estas-bloqueando-llamada-spam-realidad-pides-te-llamen-peligros-consentimiento-previo-1394958'>Piensas que estás bloqueando una llamada Spam y en realidad pides que te llamen: los peligros del consentimiento previo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/piensas-estas-bloqueando-llamada-spam-realidad-pides-te-llamen-peligros-consentimiento-previo-1394958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/adios-spam-telefonico-normativa-impedira-recibir-llamadas-no-deseadas-no-3025290.jpg?tf=1200x' alt='Piensas que estás bloqueando una llamada Spam y en realidad pides que te llamen: los peligros del consentimiento previo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sencillo-gesto-diario-proteger-movil-mejorar-rendimiento-pocos-segundos-1394753'>El sencillo gesto diario para proteger tu móvil y mejorar su rendimiento en pocos segundos</a></h4>
-    <a href='https://computerhoy.com/moviles/sencillo-gesto-diario-proteger-movil-mejorar-rendimiento-pocos-segundos-1394753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/moviles-3690198.jpg?tf=1200x' alt='El sencillo gesto diario para proteger tu móvil y mejorar su rendimiento en pocos segundos' />
+    <h4><a href='https://computerhoy.com/apps/trucazo-te-salvara-vida-viajas-avion-2-horas-tiktok-necesidad-wifi-1395146'>El trucazo que te salvará la vida si viajas en avión: hasta 2 horas de TikTok sin necesidad de WiFi</a></h4>
+    <a href='https://computerhoy.com/apps/trucazo-te-salvara-vida-viajas-avion-2-horas-tiktok-necesidad-wifi-1395146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/avion-tiktok-3705081.jpg?tf=1200x' alt='El trucazo que te salvará la vida si viajas en avión: hasta 2 horas de TikTok sin necesidad de WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/airtag-xiaomi-revienta-precio-2-euros-funciona-android-1394858'>El Airtag de Xiaomi revienta su precio: desde 2 euros y funciona con Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/airtag-xiaomi-revienta-precio-2-euros-funciona-android-1394858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/localizador-xiaomi-3692801.jpg?tf=1200x' alt='El Airtag de Xiaomi revienta su precio: desde 2 euros y funciona con Android' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-bizum-como-metodo-pago-pedidos-amazon-1394777'>Cómo añadir Bizum como método de pago para tus pedidos de Amazon</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-anadir-bizum-como-metodo-pago-pedidos-amazon-1394777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bizum-amazon-3690750.jpg?tf=1200x' alt='Cómo añadir Bizum como método de pago para tus pedidos de Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-whatsapp-enviar-fotos-videos-hd-forma-predeterminada-1394019'>Cómo configurar WhatsApp para enviar fotos y vídeos en HD de forma predeterminada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-whatsapp-enviar-fotos-videos-hd-forma-predeterminada-1394019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-configurar-whatsapp-enviar-fotos-videos-hd-forma-predeterminada-3654900.jpg?tf=1200x' alt='Cómo configurar WhatsApp para enviar fotos y vídeos en HD de forma predeterminada' />
+    <h4><a href='https://computerhoy.com/tv/disfrutar-mando-distancia-magico-smart-tv-solo-tienes-hacer-activar-funcion-hdmi-1395154'>Para disfrutar de un mando a distancia mágico en tu Smart TV solo tienes que hacer esto: activar una función del HDMI</a></h4>
+    <a href='https://computerhoy.com/tv/disfrutar-mando-distancia-magico-smart-tv-solo-tienes-hacer-activar-funcion-hdmi-1395154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mando-tv-cable-hdmi-3704623.jpg?tf=1200x' alt='Para disfrutar de un mando a distancia mágico en tu Smart TV solo tienes que hacer esto: activar una función del HDMI' />
     </a>
 </div>
 
