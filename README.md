@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/computacion-cuantica-futuro-pero-aun-necesita-algo-pasado-1394940'>La computación cuántica es el futuro, pero aún necesita algo "del pasado"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/computacion-cuantica-futuro-pero-aun-necesita-algo-pasado-1394940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-cuantico-3561798.jpg?tf=1200x' alt='La computación cuántica es el futuro, pero aún necesita algo "del pasado"' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-1394748'>10.000 millones de contraseñas filtradas: cómo saber si la tuya es una de ellas para cambiarla inmediatamente</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-1394748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-3690203.jpg?tf=1200x' alt='10.000 millones de contraseñas filtradas: cómo saber si la tuya es una de ellas para cambiarla inmediatamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-1394720'>El Gobierno de Alemania ha incautado la mayor reserva de Bitcoin de su historia por valor de 1.847 millones de euros</a></h4>
-    <a href='https://computerhoy.com/criptos/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-1394720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-3689882.jpg?tf=1200x' alt='El Gobierno de Alemania ha incautado la mayor reserva de Bitcoin de su historia por valor de 1.847 millones de euros' />
+    <h4><a href='https://computerhoy.com/google/consigue-llevar-mejor-waze-google-maps-coches-policia-aparecen-ahora-marcados-mapa-1395149'>Consigue llevar lo mejor de Waze a Google Maps: los coches de policía aparecen ahora marcados en el mapa</a></h4>
+    <a href='https://computerhoy.com/google/consigue-llevar-mejor-waze-google-maps-coches-policia-aparecen-ahora-marcados-mapa-1395149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/waze-avisos-3704617.jpg?tf=1200x' alt='Consigue llevar lo mejor de Waze a Google Maps: los coches de policía aparecen ahora marcados en el mapa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/significa-realmente-modo-standby-dispositivos-puede-costarte-mucho-dinero-1394918'>Qué significa realmente el modo standby de los dispositivos y por qué puede costarte mucho dinero </a></h4>
-    <a href='https://computerhoy.com/hogar/significa-realmente-modo-standby-dispositivos-puede-costarte-mucho-dinero-1394918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/modo-standby-3697583.jpg?tf=1200x' alt='Qué significa realmente el modo standby de los dispositivos y por qué puede costarte mucho dinero ' />
+    <h4><a href='https://computerhoy.com/moviles/sencillo-gesto-diario-proteger-movil-mejorar-rendimiento-pocos-segundos-1394753'>El sencillo gesto diario para proteger tu móvil y mejorar su rendimiento en pocos segundos</a></h4>
+    <a href='https://computerhoy.com/moviles/sencillo-gesto-diario-proteger-movil-mejorar-rendimiento-pocos-segundos-1394753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/moviles-3690198.jpg?tf=1200x' alt='El sencillo gesto diario para proteger tu móvil y mejorar su rendimiento en pocos segundos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/influencer-barcelona-descubre-sorprendente-uso-airtag-apple-nadie-habia-hecho-antes-1395132'>Una influencer de Barcelona descubre un sorprendente uso de las AirTag de Apple: nadie lo había hecho antes</a></h4>
-    <a href='https://computerhoy.com/apple/influencer-barcelona-descubre-sorprendente-uso-airtag-apple-nadie-habia-hecho-antes-1395132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335243.jpg?tf=1200x' alt='Una influencer de Barcelona descubre un sorprendente uso de las AirTag de Apple: nadie lo había hecho antes' />
+    <h4><a href='https://computerhoy.com/tecnologia/airtag-xiaomi-revienta-precio-2-euros-funciona-android-1394858'>El Airtag de Xiaomi revienta su precio: desde 2 euros y funciona con Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/airtag-xiaomi-revienta-precio-2-euros-funciona-android-1394858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/localizador-xiaomi-3692801.jpg?tf=1200x' alt='El Airtag de Xiaomi revienta su precio: desde 2 euros y funciona con Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-waze-te-avise-gasolineras-baratas-durante-ruta-1394220'>Cómo configurar Waze para que te avise de las gasolineras más baratas durante una ruta</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-waze-te-avise-gasolineras-baratas-durante-ruta-1394220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-configurar-waze-te-avises-gasolineras-baratas-durante-ruta-3661418.jpg?tf=1200x' alt='Cómo configurar Waze para que te avise de las gasolineras más baratas durante una ruta' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-whatsapp-enviar-fotos-videos-hd-forma-predeterminada-1394019'>Cómo configurar WhatsApp para enviar fotos y vídeos en HD de forma predeterminada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-whatsapp-enviar-fotos-videos-hd-forma-predeterminada-1394019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-configurar-whatsapp-enviar-fotos-videos-hd-forma-predeterminada-3654900.jpg?tf=1200x' alt='Cómo configurar WhatsApp para enviar fotos y vídeos en HD de forma predeterminada' />
     </a>
 </div>
 
