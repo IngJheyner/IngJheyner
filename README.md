@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/espectacular-telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-1395211'>¡Espectacular! El telescopio James Webb ha captado un agujero negro mientras engulle una galaxia</a></h4>
+    <a href='https://computerhoy.com/espacio/espectacular-telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-1395211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-3705705.jpg?tf=1200x' alt='¡Espectacular! El telescopio James Webb ha captado un agujero negro mientras engulle una galaxia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-1394242'>Esta es la razón por la que nunca deberías colocar una pegatina de alarma falsa al irte de vacaciones</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-1394242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-3662113.jpg?tf=1200x' alt='Esta es la razón por la que nunca deberías colocar una pegatina de alarma falsa al irte de vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hotel-nunca-pierde-truco-tres-dias-hoteles-debes-conocer-antes-reservar-1393933'>El hotel nunca pierde: el truco de los tres días en los hoteles que debes conocer antes de reservar</a></h4>
+    <a href='https://computerhoy.com/life/hotel-nunca-pierde-truco-tres-dias-hoteles-debes-conocer-antes-reservar-1393933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hotel-casino-3705412.jpg?tf=1200x' alt='El hotel nunca pierde: el truco de los tres días en los hoteles que debes conocer antes de reservar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/cara-contactos-aparezca-notificaciones-whatsapp-como-hacer-1394380'>Cómo hacer que la cara de tus contactos aparezca en tus notificaciones de WhatsApp</a></h4>
     <a href='https://computerhoy.com/tutoriales/cara-contactos-aparezca-notificaciones-whatsapp-como-hacer-1394380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-hacer-cara-contactos-aparezca-notificaciones-whatsapp-3666308.jpg?tf=1200x' alt='Cómo hacer que la cara de tus contactos aparezca en tus notificaciones de WhatsApp' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/alternativas-gratis-chatgpt-puedes-usar-cuando-saturado-no-te-deja-entrar-1203924'>Alternativas gratis a ChatGPT que puedes usar cuando está saturado y no te deja entrar</a></h4>
     <a href='https://computerhoy.com/tecnologia/alternativas-gratis-chatgpt-puedes-usar-cuando-saturado-no-te-deja-entrar-1203924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/alternativas-gratis-chatgpt-puedes-usar-cuando-saturado-no-te-deja-entrar-3696221.jpg?tf=1200x' alt='Alternativas gratis a ChatGPT que puedes usar cuando está saturado y no te deja entrar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-tecnologia-enfria-procesadores-temperaturas-bajas-espacio-exterior-1394819'>Esta nueva tecnología enfría los procesadores a temperaturas más bajas que las del espacio exterior</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-tecnologia-enfria-procesadores-temperaturas-bajas-espacio-exterior-1394819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lanes-epfl-3691768.jpg?tf=1200x' alt='Esta nueva tecnología enfría los procesadores a temperaturas más bajas que las del espacio exterior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funcion-whatsapp-debes-desactivar-evitar-estafas-1394757'>La función de WhatsApp que debes desactivar para evitar estafas</a></h4>
-    <a href='https://computerhoy.com/apps/funcion-whatsapp-debes-desactivar-evitar-estafas-1394757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-whatsapp-debes-desactivar-evitar-estafas-3690567.jpg?tf=1200x' alt='La función de WhatsApp que debes desactivar para evitar estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-1395173'>El astronauta que pasó 178 días en el espacio confiesa la gran mentira de la que se dio cuenta tras ver la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-1395173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-3704933.jpg?tf=1200x' alt='El astronauta que pasó 178 días en el espacio confiesa la gran mentira de la que se dio cuenta tras ver la Tierra' />
     </a>
 </div>
 
