@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/deep-desktop-app-convierte-cualquier-foto-video-3d-tiempo-real-usando-ia-1395095'>Deep Desktop, la app que convierte cualquier foto o vídeo a 3D en tiempo real, usando IA</a></h4>
+    <a href='https://computerhoy.com/apps/deep-desktop-app-convierte-cualquier-foto-video-3d-tiempo-real-usando-ia-1395095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/deep-desktop-app-convierte-cualquier-foto-video-3d-tiempo-real-usando-ia-3701959.jpg?tf=1200x' alt='Deep Desktop, la app que convierte cualquier foto o vídeo a 3D en tiempo real, usando IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/comandos-consola-windows-cmd-te-hara-parecer-hacker-1394684'>Comandos de la consola de Windows (CMD) que te hará parecer un hacker</a></h4>
     <a href='https://computerhoy.com/windows/comandos-consola-windows-cmd-te-hara-parecer-hacker-1394684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/comandos-consola-windows-cmd-te-hara-parecer-hacker-3687388.jpg?tf=1200x' alt='Comandos de la consola de Windows (CMD) que te hará parecer un hacker' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671'>Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana</a></h4>
     <a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-3686413.jpg?tf=1200x' alt='Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ue-elige-4-grandes-plataformas-adultos-deberan-verificar-edad-usuarios-1395085'>La UE elige las 4 grandes plataformas pornográficas que deberán verificar la edad de sus usuarios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ue-elige-4-grandes-plataformas-adultos-deberan-verificar-edad-usuarios-1395085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ue-elige-4-grandes-plataformas-pornograficas-tendran-verificar-edad-usuarios-3700505.jpg?tf=1200x' alt='La UE elige las 4 grandes plataformas pornográficas que deberán verificar la edad de sus usuarios' />
     </a>
 </div>
 
