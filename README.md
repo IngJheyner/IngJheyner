@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sencillo-truco-prolongar-vida-bateria-movil-android-facil-imposible-1394607'>El sencillo truco para prolongar la vida de la batería de tu móvil Android: más fácil imposible</a></h4>
-    <a href='https://computerhoy.com/moviles/sencillo-truco-prolongar-vida-bateria-movil-android-facil-imposible-1394607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bateria-movil-android-3699153.jpg?tf=1200x' alt='El sencillo truco para prolongar la vida de la batería de tu móvil Android: más fácil imposible' />
+    <h4><a href='https://computerhoy.com/tutoriales/windows-11-como-instalar-rsat-1394014'>Qué es RSAT, para qué sirve y cómo se instala en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/windows-11-como-instalar-rsat-1394014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rsat-sirve-como-instalarlo-windows-11-3654640.jpg?tf=1200x' alt='Qué es RSAT, para qué sirve y cómo se instala en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatil-hp-16gb-ram-rebaja-amazon-1394288'>Pesa menos de 2 kg y tiene 16GB de RAM: Amazon tumba el precio de un portátil HP que lo tiene casi todo</a></h4>
-    <a href='https://computerhoy.com/pc/portatil-hp-16gb-ram-rebaja-amazon-1394288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hp-15s-fq5083ns-3682965.jpg?tf=1200x' alt='Pesa menos de 2 kg y tiene 16GB de RAM: Amazon tumba el precio de un portátil HP que lo tiene casi todo' />
+    <h4><a href='https://computerhoy.com/tecnologia/maquinas-expendedoras-balas-reconocimiento-facial-ia-1394902'>Ya están aquí las máquinas expendedoras de balas con reconocimiento facial e IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/maquinas-expendedoras-balas-reconocimiento-facial-ia-1394902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/polemica-maquinas-expendedoras-venden-balas-reconocimiento-facial-ia-3696516.jpg?tf=1200x' alt='Ya están aquí las máquinas expendedoras de balas con reconocimiento facial e IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oppo-coloros-parece-mejor-version-android-1394514'>Por más Android que pruebo, ColorOS del Oppo Reno 12 Pro me sigue pareciendo la mejor versión de Android</a></h4>
-    <a href='https://computerhoy.com/moviles/oppo-coloros-parece-mejor-version-android-1394514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/oppo-reno-12-pro-3665083.jpg?tf=1200x' alt='Por más Android que pruebo, ColorOS del Oppo Reno 12 Pro me sigue pareciendo la mejor versión de Android' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-uses-napster-edonkey-ni-kazaa-dicen-universidades-norteamericanas-2024-1394703'>"No uses Napster, eDonkey ni KaZaA", dicen las universidades norteamericanas en 2024</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-uses-napster-edonkey-ni-kazaa-dicen-universidades-norteamericanas-2024-1394703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-uses-napster-limeware-ni-kazaa-dicen-universidades-norteamericanas-2024-3688993.jpg?tf=1200x' alt='"No uses Napster, eDonkey ni KaZaA", dicen las universidades norteamericanas en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104'>The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-3703264.jpg?tf=1200x' alt='The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido' />
+    <h4><a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727'>Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? </a></h4>
+    <a href='https://computerhoy.com/moviles/camara-top-carga-rapida-inteligencia-artificial-obsesiona-hora-comprar-movil-1393727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/jovenes-movil-3656617.jpg?tf=1200x' alt='Cámara top, carga rápida, inteligencia artificial... ¿Por qué es lo que más obsesiona a la hora de comprar un móvil? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485'>Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo</a></h4>
-    <a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-grabar-podcast-audio-sonido-3535716.jpg?tf=1200x' alt='Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo' />
+    <h4><a href='https://computerhoy.com/apps/app-te-ha-estado-espiando-microfono-durante-anos-todavia-no-has-eliminado-1394388'>Esta app te ha estado espiando por el micrófono durante años: ¿todavía no la has eliminado?</a></h4>
+    <a href='https://computerhoy.com/apps/app-te-ha-estado-espiando-microfono-durante-anos-todavia-no-has-eliminado-1394388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/app-te-ha-estado-espiando-microfono-durante-anos-todavia-no-has-eliminado-3666867.jpg?tf=1200x' alt='Esta app te ha estado espiando por el micrófono durante años: ¿todavía no la has eliminado?' />
     </a>
 </div>
 
