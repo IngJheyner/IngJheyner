@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/cara-contactos-aparezca-notificaciones-whatsapp-como-hacer-1394380'>Cómo hacer que la cara de tus contactos aparezca en tus notificaciones de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/cara-contactos-aparezca-notificaciones-whatsapp-como-hacer-1394380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-hacer-cara-contactos-aparezca-notificaciones-whatsapp-3666308.jpg?tf=1200x' alt='Cómo hacer que la cara de tus contactos aparezca en tus notificaciones de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alternativas-gratis-chatgpt-puedes-usar-cuando-saturado-no-te-deja-entrar-1203924'>Alternativas gratis a ChatGPT que puedes usar cuando está saturado y no te deja entrar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alternativas-gratis-chatgpt-puedes-usar-cuando-saturado-no-te-deja-entrar-1203924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/alternativas-gratis-chatgpt-puedes-usar-cuando-saturado-no-te-deja-entrar-3696221.jpg?tf=1200x' alt='Alternativas gratis a ChatGPT que puedes usar cuando está saturado y no te deja entrar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nueva-tecnologia-enfria-procesadores-temperaturas-bajas-espacio-exterior-1394819'>Esta nueva tecnología enfría los procesadores a temperaturas más bajas que las del espacio exterior</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nueva-tecnologia-enfria-procesadores-temperaturas-bajas-espacio-exterior-1394819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lanes-epfl-3691768.jpg?tf=1200x' alt='Esta nueva tecnología enfría los procesadores a temperaturas más bajas que las del espacio exterior' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/funcion-whatsapp-debes-desactivar-evitar-estafas-1394757'>La función de WhatsApp que debes desactivar para evitar estafas</a></h4>
+    <a href='https://computerhoy.com/apps/funcion-whatsapp-debes-desactivar-evitar-estafas-1394757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-whatsapp-debes-desactivar-evitar-estafas-3690567.jpg?tf=1200x' alt='La función de WhatsApp que debes desactivar para evitar estafas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-1395173'>El astronauta que pasó 178 días en el espacio confiesa la gran mentira de la que se dio cuenta tras ver la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-1395173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-3704933.jpg?tf=1200x' alt='El astronauta que pasó 178 días en el espacio confiesa la gran mentira de la que se dio cuenta tras ver la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/pasa-configuras-todos-valores-registro-cero-windows-10-1395222'>Esto es lo que pasa si configuras todos los valores de Registro a 'cero' en Windows 10 </a></h4>
-    <a href='https://computerhoy.com/windows/pasa-configuras-todos-valores-registro-cero-windows-10-1395222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ver-creer-microsoft-lanza-primera-beta-windows-10-2021-nuevas-funciones-mejoras-3452735.jpg?tf=1200x' alt='Esto es lo que pasa si configuras todos los valores de Registro a 'cero' en Windows 10 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/calma-google-maps-no-anadiendo-anuncios-como-waze-menos-momento-1394782'>Calma, Google Maps no está añadiendo anuncios como Waze, al menos de momento</a></h4>
-    <a href='https://computerhoy.com/apps/calma-google-maps-no-anadiendo-anuncios-como-waze-menos-momento-1394782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-3690911.jpg?tf=1200x' alt='Calma, Google Maps no está añadiendo anuncios como Waze, al menos de momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-polar-vo2-max-ideal-runners-ahora-cuesta-mitad-color-vendido-1394747'>El reloj Polar con VO2 Max ideal para runners ahora cuesta la mitad, y en el color más vendido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-polar-vo2-max-ideal-runners-ahora-cuesta-mitad-color-vendido-1394747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/polar-pacer-pro-3690040.jpg?tf=1200x' alt='El reloj Polar con VO2 Max ideal para runners ahora cuesta la mitad, y en el color más vendido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/piensas-estas-bloqueando-llamada-spam-realidad-pides-te-llamen-peligros-consentimiento-previo-1394958'>Piensas que estás bloqueando una llamada Spam y en realidad pides que te llamen: los peligros del consentimiento previo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/piensas-estas-bloqueando-llamada-spam-realidad-pides-te-llamen-peligros-consentimiento-previo-1394958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/adios-spam-telefonico-normativa-impedira-recibir-llamadas-no-deseadas-no-3025290.jpg?tf=1200x' alt='Piensas que estás bloqueando una llamada Spam y en realidad pides que te llamen: los peligros del consentimiento previo' />
     </a>
 </div>
 
