@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/espectacular-telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-1395211'>¡Espectacular! El telescopio James Webb ha captado un agujero negro mientras engulle una galaxia</a></h4>
-    <a href='https://computerhoy.com/espacio/espectacular-telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-1395211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-3705705.jpg?tf=1200x' alt='¡Espectacular! El telescopio James Webb ha captado un agujero negro mientras engulle una galaxia' />
+    <h4><a href='https://computerhoy.com/windows/antiguo-trabajador-microsoft-ha-revelado-primera-copia-windows-95-salio-fabrica-1395010'>Un antiguo trabajador de Microsoft ha revelado la primera copia de Windows 95 que salió de la fábrica</a></h4>
+    <a href='https://computerhoy.com/windows/antiguo-trabajador-microsoft-ha-revelado-primera-copia-windows-95-salio-fabrica-1395010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/antiguo-trabajador-microsoft-ha-revelado-primera-copia-windows-95-salio-fabrica-3698671.jpg?tf=1200x' alt='Un antiguo trabajador de Microsoft ha revelado la primera copia de Windows 95 que salió de la fábrica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-1394242'>Esta es la razón por la que nunca deberías colocar una pegatina de alarma falsa al irte de vacaciones</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-1394242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-3662113.jpg?tf=1200x' alt='Esta es la razón por la que nunca deberías colocar una pegatina de alarma falsa al irte de vacaciones' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-resetear-algoritmo-tiktok-truco-definitivo-1391509'>Cómo resetear el algoritmo de TikTok con este truco definitivo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-resetear-algoritmo-tiktok-truco-definitivo-1391509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-resetear-algoritmo-tiktok-truco-definitivo-3536173.jpg?tf=1200x' alt='Cómo resetear el algoritmo de TikTok con este truco definitivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hotel-nunca-pierde-truco-tres-dias-hoteles-debes-conocer-antes-reservar-1393933'>El hotel nunca pierde: el truco de los tres días en los hoteles que debes conocer antes de reservar</a></h4>
-    <a href='https://computerhoy.com/life/hotel-nunca-pierde-truco-tres-dias-hoteles-debes-conocer-antes-reservar-1393933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hotel-casino-3705412.jpg?tf=1200x' alt='El hotel nunca pierde: el truco de los tres días en los hoteles que debes conocer antes de reservar' />
+    <h4><a href='https://computerhoy.com/android/boton-secreto-smart-tv-no-conoces-pensado-funcione-mejor-1395232'>El botón secreto de tu Smart TV que no conoces y que está pensado para que funcione mejor</a></h4>
+    <a href='https://computerhoy.com/android/boton-secreto-smart-tv-no-conoces-pensado-funcione-mejor-1395232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-secreto-smart-tv-no-conoces-pensado-funcione-mejor-3706317.jpg?tf=1200x' alt='El botón secreto de tu Smart TV que no conoces y que está pensado para que funcione mejor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/cara-contactos-aparezca-notificaciones-whatsapp-como-hacer-1394380'>Cómo hacer que la cara de tus contactos aparezca en tus notificaciones de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/cara-contactos-aparezca-notificaciones-whatsapp-como-hacer-1394380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-hacer-cara-contactos-aparezca-notificaciones-whatsapp-3666308.jpg?tf=1200x' alt='Cómo hacer que la cara de tus contactos aparezca en tus notificaciones de WhatsApp' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tv-puerto-hdmi-para-que-sirve-546717'>Tu televisor tiene un puerto HDMI que seguramente no sabías para qué sirve</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/tv-puerto-hdmi-para-que-sirve-546717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/hdmi-2316873.jpg?tf=1200x' alt='Tu televisor tiene un puerto HDMI que seguramente no sabías para qué sirve' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alternativas-gratis-chatgpt-puedes-usar-cuando-saturado-no-te-deja-entrar-1203924'>Alternativas gratis a ChatGPT que puedes usar cuando está saturado y no te deja entrar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alternativas-gratis-chatgpt-puedes-usar-cuando-saturado-no-te-deja-entrar-1203924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/alternativas-gratis-chatgpt-puedes-usar-cuando-saturado-no-te-deja-entrar-3696221.jpg?tf=1200x' alt='Alternativas gratis a ChatGPT que puedes usar cuando está saturado y no te deja entrar' />
+    <h4><a href='https://computerhoy.com/pc/mantener-pc-libre-virus-malware-1394628'>10 sencillas reglas para mantener tu PC libre de virus y malware</a></h4>
+    <a href='https://computerhoy.com/pc/mantener-pc-libre-virus-malware-1394628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/evitar-virus-malware-pc-3684380.jpg?tf=1200x' alt='10 sencillas reglas para mantener tu PC libre de virus y malware' />
     </a>
 </div>
 
