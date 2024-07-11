@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/doxing-usan-ciberdelincuentes-inteligencia-artificial-estafarte-1394721'>Doxing: así usan los ciberdelincuentes la inteligencia artificial para estafarte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/doxing-usan-ciberdelincuentes-inteligencia-artificial-estafarte-1394721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-inteligencia-artificial-3698181.jpg?tf=1200x' alt='Doxing: así usan los ciberdelincuentes la inteligencia artificial para estafarte' />
+    <h4><a href='https://computerhoy.com/moviles/sencillo-truco-prolongar-vida-bateria-movil-android-facil-imposible-1394607'>El sencillo truco para prolongar la vida de la batería de tu móvil Android: más fácil imposible</a></h4>
+    <a href='https://computerhoy.com/moviles/sencillo-truco-prolongar-vida-bateria-movil-android-facil-imposible-1394607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bateria-movil-android-3699153.jpg?tf=1200x' alt='El sencillo truco para prolongar la vida de la batería de tu móvil Android: más fácil imposible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estudio-razon-eres-inteligente-ia-aun-1394652'>Según un estudio, esta es la razón por la que eres más inteligente que la IA (aún)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estudio-razon-eres-inteligente-ia-aun-1394652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estudio-razon-eres-listo-ia-aun-3685125.jpg?tf=1200x' alt='Según un estudio, esta es la razón por la que eres más inteligente que la IA (aún)' />
+    <h4><a href='https://computerhoy.com/pc/portatil-hp-16gb-ram-rebaja-amazon-1394288'>Pesa menos de 2 kg y tiene 16GB de RAM: Amazon tumba el precio de un portátil HP que lo tiene casi todo</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-hp-16gb-ram-rebaja-amazon-1394288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hp-15s-fq5083ns-3682965.jpg?tf=1200x' alt='Pesa menos de 2 kg y tiene 16GB de RAM: Amazon tumba el precio de un portátil HP que lo tiene casi todo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/dgt-alerta-recibes-mensaje-sms-estafa-ya-ha-comenzado-1394336'>La DGT alerta: si recibes esté mensaje SMS la estafa ya ha comenzado</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/dgt-alerta-recibes-mensaje-sms-estafa-ya-ha-comenzado-1394336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dgt-alerta-recibes-mensaje-sms-estafa-ya-ha-comenzado-3663791.jpg?tf=1200x' alt='La DGT alerta: si recibes esté mensaje SMS la estafa ya ha comenzado' />
+    <h4><a href='https://computerhoy.com/moviles/oppo-coloros-parece-mejor-version-android-1394514'>Por más Android que pruebo, ColorOS del Oppo Reno 12 Pro me sigue pareciendo la mejor versión de Android</a></h4>
+    <a href='https://computerhoy.com/moviles/oppo-coloros-parece-mejor-version-android-1394514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/oppo-reno-12-pro-3665083.jpg?tf=1200x' alt='Por más Android que pruebo, ColorOS del Oppo Reno 12 Pro me sigue pareciendo la mejor versión de Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-oferta-esim-saily-rebaja-verano-1394453'>La VPN más rápida que hemos probado está de rebajas: 61% más barata y con regalo sorpresa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nordvpn-oferta-esim-saily-rebaja-verano-1394453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-3408136.jpg?tf=1200x' alt='La VPN más rápida que hemos probado está de rebajas: 61% más barata y con regalo sorpresa' />
+    <h4><a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104'>The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-3703264.jpg?tf=1200x' alt='The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-1394746'>De ver la tele a jugar a la consola: teletrabajadores reconocen cómo usan la tecnología en horario de trabajo</a></h4>
-    <a href='https://computerhoy.com/life/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-1394746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-3690051.jpg?tf=1200x' alt='De ver la tele a jugar a la consola: teletrabajadores reconocen cómo usan la tecnología en horario de trabajo' />
+    <h4><a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485'>Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo</a></h4>
+    <a href='https://computerhoy.com/apps/estas-son-apps-imprescindibles-grabar-podcast-video-recomiendo-1391485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-grabar-podcast-audio-sonido-3535716.jpg?tf=1200x' alt='Estas son las apps imprescindibles para grabar podcast y vídeo que recomiendo' />
     </a>
 </div>
 
