@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/video-muestra-momento-paises-pasaron-television-blanco-negro-color-1395287'>Un vídeo muestra el momento en el que los países pasaron de la televisión en blanco y negro, al color</a></h4>
+    <a href='https://computerhoy.com/tecnologia/video-muestra-momento-paises-pasaron-television-blanco-negro-color-1395287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/video-muestra-momento-exacto-paises-pasaron-television-blanco-negro-color-3708245.jpg?tf=1200x' alt='Un vídeo muestra el momento en el que los países pasaron de la televisión en blanco y negro, al color' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-1395073'>El Banco de España alerta del grave error que la mayoría de españoles cometen al pagar con el móvil</a></h4>
     <a href='https://computerhoy.com/life/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-1395073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-3700954.jpg?tf=1200x' alt='El Banco de España alerta del grave error que la mayoría de españoles cometen al pagar con el móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283'>Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/supercomputadora-cuantica-3707957.jpg?tf=1200x' alt='Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081'>La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-3700953.jpg?tf=1200x' alt='La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”' />
     </a>
 </div>
 
