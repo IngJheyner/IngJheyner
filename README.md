@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/doxing-usan-ciberdelincuentes-inteligencia-artificial-estafarte-1394721'>Doxing: así usan los ciberdelincuentes la inteligencia artificial para estafarte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/doxing-usan-ciberdelincuentes-inteligencia-artificial-estafarte-1394721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-inteligencia-artificial-3698181.jpg?tf=1200x' alt='Doxing: así usan los ciberdelincuentes la inteligencia artificial para estafarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estudio-razon-eres-inteligente-ia-aun-1394652'>Según un estudio, esta es la razón por la que eres más inteligente que la IA (aún)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estudio-razon-eres-inteligente-ia-aun-1394652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estudio-razon-eres-listo-ia-aun-3685125.jpg?tf=1200x' alt='Según un estudio, esta es la razón por la que eres más inteligente que la IA (aún)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/dgt-alerta-recibes-mensaje-sms-estafa-ya-ha-comenzado-1394336'>La DGT alerta: si recibes esté mensaje SMS la estafa ya ha comenzado</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/dgt-alerta-recibes-mensaje-sms-estafa-ya-ha-comenzado-1394336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dgt-alerta-recibes-mensaje-sms-estafa-ya-ha-comenzado-3663791.jpg?tf=1200x' alt='La DGT alerta: si recibes esté mensaje SMS la estafa ya ha comenzado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-oferta-esim-saily-rebaja-verano-1394453'>La VPN más rápida que hemos probado está de rebajas: 61% más barata y con regalo sorpresa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nordvpn-oferta-esim-saily-rebaja-verano-1394453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-3408136.jpg?tf=1200x' alt='La VPN más rápida que hemos probado está de rebajas: 61% más barata y con regalo sorpresa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-1394746'>De ver la tele a jugar a la consola: teletrabajadores reconocen cómo usan la tecnología en horario de trabajo</a></h4>
     <a href='https://computerhoy.com/life/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-1394746' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-3690051.jpg?tf=1200x' alt='De ver la tele a jugar a la consola: teletrabajadores reconocen cómo usan la tecnología en horario de trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejores-consejos-poder-ganar-dinero-tiktok-1388592'>Los mejores consejos para poder ganar dinero en TikTok</a></h4>
-    <a href='https://computerhoy.com/internet/mejores-consejos-poder-ganar-dinero-tiktok-1388592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mejores-consejos-poder-ganar-dinero-tiktok-3398599.jpg?tf=1200x' alt='Los mejores consejos para poder ganar dinero en TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-1393939'>Que no te engañen: así puedes identificar cuándo alguien ha usado ChatGPT y evitar el “slop”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-1393939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-3650324.jpg?tf=1200x' alt='Que no te engañen: así puedes identificar cuándo alguien ha usado ChatGPT y evitar el “slop”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/deep-desktop-app-convierte-cualquier-foto-video-3d-tiempo-real-usando-ia-1395095'>Deep Desktop, la app que convierte cualquier foto o vídeo a 3D en tiempo real, usando IA</a></h4>
-    <a href='https://computerhoy.com/apps/deep-desktop-app-convierte-cualquier-foto-video-3d-tiempo-real-usando-ia-1395095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/deep-desktop-app-convierte-cualquier-foto-video-3d-tiempo-real-usando-ia-3701959.jpg?tf=1200x' alt='Deep Desktop, la app que convierte cualquier foto o vídeo a 3D en tiempo real, usando IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/comandos-consola-windows-cmd-te-hara-parecer-hacker-1394684'>Comandos de la consola de Windows (CMD) que te hará parecer un hacker</a></h4>
-    <a href='https://computerhoy.com/windows/comandos-consola-windows-cmd-te-hara-parecer-hacker-1394684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/comandos-consola-windows-cmd-te-hara-parecer-hacker-3687388.jpg?tf=1200x' alt='Comandos de la consola de Windows (CMD) que te hará parecer un hacker' />
     </a>
 </div>
 
