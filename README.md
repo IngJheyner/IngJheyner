@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/gran-dilema-cada-verano-apagar-router-wifi-irse-vacaciones-no-1394728'>El gran dilema de cada verano: apagar el router WiFi al irse de vacaciones, ¿sí o no?</a></h4>
-    <a href='https://computerhoy.com/internet/gran-dilema-cada-verano-apagar-router-wifi-irse-vacaciones-no-1394728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='El gran dilema de cada verano: apagar el router WiFi al irse de vacaciones, ¿sí o no?' />
+    <h4><a href='https://computerhoy.com/tecnologia/computacion-cuantica-futuro-pero-aun-necesita-algo-pasado-1394940'>La computación cuántica es el futuro, pero aún necesita algo "del pasado"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/computacion-cuantica-futuro-pero-aun-necesita-algo-pasado-1394940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-cuantico-3561798.jpg?tf=1200x' alt='La computación cuántica es el futuro, pero aún necesita algo "del pasado"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/apple-ha-alertado-nuevo-iphone-casi-100-paises-pueden-sufrir-ataque-software-espia-1395126'>Apple ha alertado (de nuevo) que los iPhone de casi 100 países pueden sufrir un ataque con software espía</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/apple-ha-alertado-nuevo-iphone-casi-100-paises-pueden-sufrir-ataque-software-espia-1395126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-ha-alertado-nuevo-iphone-casi-100-paises-potencial-ataque-software-espia-3704310.jpg?tf=1200x' alt='Apple ha alertado (de nuevo) que los iPhone de casi 100 países pueden sufrir un ataque con software espía' />
+    <h4><a href='https://computerhoy.com/criptos/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-1394720'>El Gobierno de Alemania ha incautado la mayor reserva de Bitcoin de su historia por valor de 1.847 millones de euros</a></h4>
+    <a href='https://computerhoy.com/criptos/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-1394720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-3689882.jpg?tf=1200x' alt='El Gobierno de Alemania ha incautado la mayor reserva de Bitcoin de su historia por valor de 1.847 millones de euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/paradoja-gato-shrodinger-736517'>El gato de Schrödinger, mucho más que una simple paradoja</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/paradoja-gato-shrodinger-736517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/gato-2101791.jpg?tf=1200x' alt='El gato de Schrödinger, mucho más que una simple paradoja' />
+    <h4><a href='https://computerhoy.com/hogar/significa-realmente-modo-standby-dispositivos-puede-costarte-mucho-dinero-1394918'>Qué significa realmente el modo standby de los dispositivos y por qué puede costarte mucho dinero </a></h4>
+    <a href='https://computerhoy.com/hogar/significa-realmente-modo-standby-dispositivos-puede-costarte-mucho-dinero-1394918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/modo-standby-3697583.jpg?tf=1200x' alt='Qué significa realmente el modo standby de los dispositivos y por qué puede costarte mucho dinero ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tienes-dudas-ventajas-anillos-inteligentes-frente-smartwatch-no-conocias-1394715'>¿Tienes dudas? Ventajas de los anillos inteligentes frente a los smartwatch que no conocías</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tienes-dudas-ventajas-anillos-inteligentes-frente-smartwatch-no-conocias-1394715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-ring-3614572.jpg?tf=1200x' alt='¿Tienes dudas? Ventajas de los anillos inteligentes frente a los smartwatch que no conocías' />
+    <h4><a href='https://computerhoy.com/apple/influencer-barcelona-descubre-sorprendente-uso-airtag-apple-nadie-habia-hecho-antes-1395132'>Una influencer de Barcelona descubre un sorprendente uso de las AirTag de Apple: nadie lo había hecho antes</a></h4>
+    <a href='https://computerhoy.com/apple/influencer-barcelona-descubre-sorprendente-uso-airtag-apple-nadie-habia-hecho-antes-1395132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335243.jpg?tf=1200x' alt='Una influencer de Barcelona descubre un sorprendente uso de las AirTag de Apple: nadie lo había hecho antes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tatsuo-horiuchi-artista-japones-pinta-obras-maestras-excel-1394926'>Este es Tatsuo Horiuchi, el artista japonés que pinta obras maestras en Excel </a></h4>
-    <a href='https://computerhoy.com/tecnologia/tatsuo-horiuchi-artista-japones-pinta-obras-maestras-excel-1394926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuadro-excel-3697261.jpg?tf=1200x' alt='Este es Tatsuo Horiuchi, el artista japonés que pinta obras maestras en Excel ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-waze-te-avise-gasolineras-baratas-durante-ruta-1394220'>Cómo configurar Waze para que te avise de las gasolineras más baratas durante una ruta</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-waze-te-avise-gasolineras-baratas-durante-ruta-1394220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-configurar-waze-te-avises-gasolineras-baratas-durante-ruta-3661418.jpg?tf=1200x' alt='Cómo configurar Waze para que te avise de las gasolineras más baratas durante una ruta' />
     </a>
 </div>
 
