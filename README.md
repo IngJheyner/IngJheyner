@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/antiguo-trabajador-microsoft-ha-revelado-primera-copia-windows-95-salio-fabrica-1395010'>Un antiguo trabajador de Microsoft ha revelado la primera copia de Windows 95 que salió de la fábrica</a></h4>
-    <a href='https://computerhoy.com/windows/antiguo-trabajador-microsoft-ha-revelado-primera-copia-windows-95-salio-fabrica-1395010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/antiguo-trabajador-microsoft-ha-revelado-primera-copia-windows-95-salio-fabrica-3698671.jpg?tf=1200x' alt='Un antiguo trabajador de Microsoft ha revelado la primera copia de Windows 95 que salió de la fábrica' />
+    <h4><a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-truco-viral-arrasa-espana-1394806'>Guardar una hoja de laurel en la carcasa del móvil: el truco viral que arrasa en España</a></h4>
+    <a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-truco-viral-arrasa-espana-1394806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laurel-telefono-3691593.jpg?tf=1200x' alt='Guardar una hoja de laurel en la carcasa del móvil: el truco viral que arrasa en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-resetear-algoritmo-tiktok-truco-definitivo-1391509'>Cómo resetear el algoritmo de TikTok con este truco definitivo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-resetear-algoritmo-tiktok-truco-definitivo-1391509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-resetear-algoritmo-tiktok-truco-definitivo-3536173.jpg?tf=1200x' alt='Cómo resetear el algoritmo de TikTok con este truco definitivo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-programas-antiguos-tdt-cuando-quieras-casi-anuncios-1395204'>Cómo ver programas antiguos de la TDT cuando quieras y casi sin anuncios</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-programas-antiguos-tdt-cuando-quieras-casi-anuncios-1395204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ver-tdt-television-3292543.jpg?tf=1200x' alt='Cómo ver programas antiguos de la TDT cuando quieras y casi sin anuncios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/boton-secreto-smart-tv-no-conoces-pensado-funcione-mejor-1395232'>El botón secreto de tu Smart TV que no conoces y que está pensado para que funcione mejor</a></h4>
-    <a href='https://computerhoy.com/android/boton-secreto-smart-tv-no-conoces-pensado-funcione-mejor-1395232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-secreto-smart-tv-no-conoces-pensado-funcione-mejor-3706317.jpg?tf=1200x' alt='El botón secreto de tu Smart TV que no conoces y que está pensado para que funcione mejor' />
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-pro-rebajado-amazon-acerca-barrera-1000-euros-1394922'>El iPhone 15 Pro está rebajado en Amazon y se acerca a la barrera de los 1.000 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-15-pro-rebajado-amazon-acerca-barrera-1000-euros-1394922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iphone-15-pro-3696955.jpg?tf=1200x' alt='El iPhone 15 Pro está rebajado en Amazon y se acerca a la barrera de los 1.000 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tv-puerto-hdmi-para-que-sirve-546717'>Tu televisor tiene un puerto HDMI que seguramente no sabías para qué sirve</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/tv-puerto-hdmi-para-que-sirve-546717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/hdmi-2316873.jpg?tf=1200x' alt='Tu televisor tiene un puerto HDMI que seguramente no sabías para qué sirve' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/incibe-alerta-informacion-nunca-deberias-compartir-internet-1394785'>El INCIBE alerta: esta es la información que nunca deberías compartir por Internet</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/incibe-alerta-informacion-nunca-deberias-compartir-internet-1394785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mujer-tapandose-boca-3691265.jpg?tf=1200x' alt='El INCIBE alerta: esta es la información que nunca deberías compartir por Internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mantener-pc-libre-virus-malware-1394628'>10 sencillas reglas para mantener tu PC libre de virus y malware</a></h4>
-    <a href='https://computerhoy.com/pc/mantener-pc-libre-virus-malware-1394628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/evitar-virus-malware-pc-3684380.jpg?tf=1200x' alt='10 sencillas reglas para mantener tu PC libre de virus y malware' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-mover-instalacion-completa-windows-otra-unidad-1394880'>Cómo mover una instalación completa de Windows a otra unidad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-mover-instalacion-completa-windows-otra-unidad-1394880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mover-windows-otro-ordenador-3705557.jpg?tf=1200x' alt='Cómo mover una instalación completa de Windows a otra unidad' />
     </a>
 </div>
 
