@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-1395073'>El Banco de España alerta del grave error que la mayoría de españoles cometen al pagar con el móvil</a></h4>
+    <a href='https://computerhoy.com/life/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-1395073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-3700954.jpg?tf=1200x' alt='El Banco de España alerta del grave error que la mayoría de españoles cometen al pagar con el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/instituto-alumnos-solo-pueden-usar-telefonos-tontos-nokia-1394878'>En este instituto los alumnos solo podrán usar teléfonos "tontos" de Nokia</a></h4>
+    <a href='https://computerhoy.com/moviles/instituto-alumnos-solo-pueden-usar-telefonos-tontos-nokia-1394878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/instituto-alumnos-solo-pueden-usar-telefonos-tontos-nokia-3693555.jpg?tf=1200x' alt='En este instituto los alumnos solo podrán usar teléfonos "tontos" de Nokia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-1394859'>Códigos secretos de Android para realizar tareas de seguridad, privacidad y mantenimiento al instante</a></h4>
+    <a href='https://computerhoy.com/android/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-1394859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-3693847.jpg?tf=1200x' alt='Códigos secretos de Android para realizar tareas de seguridad, privacidad y mantenimiento al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283'>Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/supercomputadora-cuantica-3707957.jpg?tf=1200x' alt='Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081'>La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-3700953.jpg?tf=1200x' alt='La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/icing-nueva-pesadilla-coches-electricos-dgt-quiere-acabar-base-multas-1395281'>Icing: la nueva pesadilla de los coches eléctricos con la que la DGT quiere acabar a base de multas</a></h4>
-    <a href='https://computerhoy.com/motor/icing-nueva-pesadilla-coches-electricos-dgt-quiere-acabar-base-multas-1395281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aparcamiento-subterraneo-3707954.jpg?tf=1200x' alt='Icing: la nueva pesadilla de los coches eléctricos con la que la DGT quiere acabar a base de multas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/generador-voz-ia-microsoft-alcanza-paridad-humana-extremadamente-peligroso-1395280'>El generador de voz con IA de Microsoft alcanza la paridad humana: y esto es extremadamente peligroso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/generador-voz-ia-microsoft-alcanza-paridad-humana-extremadamente-peligroso-1395280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vall-2-3707939.jpg?tf=1200x' alt='El generador de voz con IA de Microsoft alcanza la paridad humana: y esto es extremadamente peligroso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cae-importante-red-servicios-iptv-pirata-lanzan-dura-amenaza-usuarios-1395243'>Cae una importante red de servicios IPTV pirata y lanzan una dura amenaza a sus usuarios</a></h4>
-    <a href='https://computerhoy.com/internet/cae-importante-red-servicios-iptv-pirata-lanzan-dura-amenaza-usuarios-1395243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cae-importante-red-servicios-iptv-pirata-lanzan-dura-amenaza-usuarios-3707754.jpg?tf=1200x' alt='Cae una importante red de servicios IPTV pirata y lanzan una dura amenaza a sus usuarios' />
     </a>
 </div>
 
