@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-dyson-pero-parece-aspiradora-cables-79-euros-pone-aliexpress-patas-arriba-1394928'>No es una Dyson, pero lo parece: esta aspiradora sin cables de 79 euros pone AliExpress patas arriba</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-dyson-pero-parece-aspiradora-cables-79-euros-pone-aliexpress-patas-arriba-1394928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laresar-v7-3696814.jpg?tf=1200x' alt='No es una Dyson, pero lo parece: esta aspiradora sin cables de 79 euros pone AliExpress patas arriba' />
+    <h4><a href='https://computerhoy.com/internet/gran-dilema-cada-verano-apagar-router-wifi-irse-vacaciones-no-1394728'>El gran dilema de cada verano: apagar el router WiFi al irse de vacaciones, ¿sí o no?</a></h4>
+    <a href='https://computerhoy.com/internet/gran-dilema-cada-verano-apagar-router-wifi-irse-vacaciones-no-1394728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='El gran dilema de cada verano: apagar el router WiFi al irse de vacaciones, ¿sí o no?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/camara-cine-inteligencia-artificial-sueno-pesadilla-directores-1394914'>Esta cámara de cine con inteligencia artificial es el sueño y la pesadilla de los directores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/camara-cine-inteligencia-artificial-sueno-pesadilla-directores-1394914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/camara-cine-3697101.jpg?tf=1200x' alt='Esta cámara de cine con inteligencia artificial es el sueño y la pesadilla de los directores' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/apple-ha-alertado-nuevo-iphone-casi-100-paises-pueden-sufrir-ataque-software-espia-1395126'>Apple ha alertado (de nuevo) que los iPhone de casi 100 países pueden sufrir un ataque con software espía</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/apple-ha-alertado-nuevo-iphone-casi-100-paises-pueden-sufrir-ataque-software-espia-1395126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-ha-alertado-nuevo-iphone-casi-100-paises-potencial-ataque-software-espia-3704310.jpg?tf=1200x' alt='Apple ha alertado (de nuevo) que los iPhone de casi 100 países pueden sufrir un ataque con software espía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-punto-mira-imagenes-explicitas-no-retira-internet-1394713'>Google en el punto de mira por las imágenes explícitas que no retira de internet</a></h4>
-    <a href='https://computerhoy.com/google/google-punto-mira-imagenes-explicitas-no-retira-internet-1394713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mujer-estresada-3689733.jpg?tf=1200x' alt='Google en el punto de mira por las imágenes explícitas que no retira de internet' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/paradoja-gato-shrodinger-736517'>El gato de Schrödinger, mucho más que una simple paradoja</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/paradoja-gato-shrodinger-736517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/gato-2101791.jpg?tf=1200x' alt='El gato de Schrödinger, mucho más que una simple paradoja' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/espana-quiera-acabar-black-friday-dias-iva-semana-fantastica-1395113'>España quiera acabar con el Black Friday, los Días sin IVA o la Semana Fantástica</a></h4>
-    <a href='https://computerhoy.com/life/espana-quiera-acabar-black-friday-dias-iva-semana-fantastica-1395113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rebajas-invierno-2024-espana-3256230.jpg?tf=1200x' alt='España quiera acabar con el Black Friday, los Días sin IVA o la Semana Fantástica' />
+    <h4><a href='https://computerhoy.com/tecnologia/tienes-dudas-ventajas-anillos-inteligentes-frente-smartwatch-no-conocias-1394715'>¿Tienes dudas? Ventajas de los anillos inteligentes frente a los smartwatch que no conocías</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tienes-dudas-ventajas-anillos-inteligentes-frente-smartwatch-no-conocias-1394715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-ring-3614572.jpg?tf=1200x' alt='¿Tienes dudas? Ventajas de los anillos inteligentes frente a los smartwatch que no conocías' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/mentira-verde-engano-luces-led-ahorrar-dinero-1207572'>Nos vendieron una mentira verde: Así nos han engañado con las luces LED para “ahorrar energía”</a></h4>
-    <a href='https://computerhoy.com/hogar/mentira-verde-engano-luces-led-ahorrar-dinero-1207572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bombilla-led-junto-bombillas-normales-2970350.jpg?tf=1200x' alt='Nos vendieron una mentira verde: Así nos han engañado con las luces LED para “ahorrar energía”' />
+    <h4><a href='https://computerhoy.com/tecnologia/tatsuo-horiuchi-artista-japones-pinta-obras-maestras-excel-1394926'>Este es Tatsuo Horiuchi, el artista japonés que pinta obras maestras en Excel </a></h4>
+    <a href='https://computerhoy.com/tecnologia/tatsuo-horiuchi-artista-japones-pinta-obras-maestras-excel-1394926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuadro-excel-3697261.jpg?tf=1200x' alt='Este es Tatsuo Horiuchi, el artista japonés que pinta obras maestras en Excel ' />
     </a>
 </div>
 
