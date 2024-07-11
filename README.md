@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-963783'>Las mejores apps Android para localizar a tus amigos y familiares, incluso en grandes aglomeraciones de gente </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-963783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mejores-apps-android-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-3692104.jpg?tf=1200x' alt='Las mejores apps Android para localizar a tus amigos y familiares, incluso en grandes aglomeraciones de gente ' />
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283'>Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/supercomputadora-cuantica-3707957.jpg?tf=1200x' alt='Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-estilo-studio-ghibli-nada-tienen-envidiar-totoro-chihiro-1395025'>5 películas estilo Studio Ghibli que nada tienen que envidiar a Totoro o Chihiro</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-estilo-studio-ghibli-nada-tienen-envidiar-totoro-chihiro-1395025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-peliculas-estilo-studio-ghibli-nada-tienen-envidiar-totoro-chihiro-3698981.jpg?tf=1200x' alt='5 películas estilo Studio Ghibli que nada tienen que envidiar a Totoro o Chihiro' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081'>La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-3700953.jpg?tf=1200x' alt='La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/adaptaciones-videojuegos-salieron-demasiado-tarde-1394169'>La película de Watch Dogs no es la primera: 5 adaptaciones de videojuegos que salieron demasiado tarde</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/adaptaciones-videojuegos-salieron-demasiado-tarde-1394169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/watch-dogs-3285298.jpg?tf=1200x' alt='La película de Watch Dogs no es la primera: 5 adaptaciones de videojuegos que salieron demasiado tarde' />
+    <h4><a href='https://computerhoy.com/motor/icing-nueva-pesadilla-coches-electricos-dgt-quiere-acabar-base-multas-1395281'>Icing: la nueva pesadilla de los coches eléctricos con la que la DGT quiere acabar a base de multas</a></h4>
+    <a href='https://computerhoy.com/motor/icing-nueva-pesadilla-coches-electricos-dgt-quiere-acabar-base-multas-1395281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aparcamiento-subterraneo-3707954.jpg?tf=1200x' alt='Icing: la nueva pesadilla de los coches eléctricos con la que la DGT quiere acabar a base de multas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-terror-ambientadas-parques-atracciones-1394852'>5 películas de terror ambientadas en parques de atracciones: cuando diversión y miedo van de la mano</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-terror-ambientadas-parques-atracciones-1394852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-peliculas-terror-ambientadas-parques-atracciones-cuando-diversion-miedo-van-mano-3692594.jpg?tf=1200x' alt='5 películas de terror ambientadas en parques de atracciones: cuando diversión y miedo van de la mano' />
+    <h4><a href='https://computerhoy.com/tecnologia/generador-voz-ia-microsoft-alcanza-paridad-humana-extremadamente-peligroso-1395280'>El generador de voz con IA de Microsoft alcanza la paridad humana: y esto es extremadamente peligroso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/generador-voz-ia-microsoft-alcanza-paridad-humana-extremadamente-peligroso-1395280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vall-2-3707939.jpg?tf=1200x' alt='El generador de voz con IA de Microsoft alcanza la paridad humana: y esto es extremadamente peligroso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/peor-semana-verano-comprar-amazon-expertos-1394816'>Por qué esta es la peor semana del verano para comprar en Amazon, según los expertos</a></h4>
-    <a href='https://computerhoy.com/amazon/peor-semana-verano-comprar-amazon-expertos-1394816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-prime-3691949.jpg?tf=1200x' alt='Por qué esta es la peor semana del verano para comprar en Amazon, según los expertos' />
+    <h4><a href='https://computerhoy.com/internet/cae-importante-red-servicios-iptv-pirata-lanzan-dura-amenaza-usuarios-1395243'>Cae una importante red de servicios IPTV pirata y lanzan una dura amenaza a sus usuarios</a></h4>
+    <a href='https://computerhoy.com/internet/cae-importante-red-servicios-iptv-pirata-lanzan-dura-amenaza-usuarios-1395243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cae-importante-red-servicios-iptv-pirata-lanzan-dura-amenaza-usuarios-3707754.jpg?tf=1200x' alt='Cae una importante red de servicios IPTV pirata y lanzan una dura amenaza a sus usuarios' />
     </a>
 </div>
 
