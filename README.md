@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/camara-cine-inteligencia-artificial-sueno-pesadilla-directores-1394914'>Esta cámara de cine con inteligencia artificial es el sueño y la pesadilla de los directores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/camara-cine-inteligencia-artificial-sueno-pesadilla-directores-1394914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/camara-cine-3697101.jpg?tf=1200x' alt='Esta cámara de cine con inteligencia artificial es el sueño y la pesadilla de los directores' />
+    <h4><a href='https://computerhoy.com/life/bolsa-isotermica-lidl-te-salvara-calor-cuesta-menos-10-euros-1395329'>Así es la bolsa isotérmica de Lidl que te salvará del calor y cuesta menos de 10 euros</a></h4>
+    <a href='https://computerhoy.com/life/bolsa-isotermica-lidl-te-salvara-calor-cuesta-menos-10-euros-1395329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/premiado-producto-lidl-alimentos-duren-frescos-tiempo-3209558.jpg?tf=1200x' alt='Así es la bolsa isotérmica de Lidl que te salvará del calor y cuesta menos de 10 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/alternativa-google-maps-waze-premium-gratis-1375853'>Vuelven los 12 meses gratis de TomTom usando un código: la alternativa premium a Google Maps y Waze</a></h4>
-    <a href='https://computerhoy.com/motor/alternativa-google-maps-waze-premium-gratis-1375853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tomtom-go-navigation-2580837.jpg?tf=1200x' alt='Vuelven los 12 meses gratis de TomTom usando un código: la alternativa premium a Google Maps y Waze' />
+    <h4><a href='https://computerhoy.com/gaming/fatidico-dia-sony-jubila-playstation-4-fin-1394545'>Ha llegado el fatídico día: Sony jubila la PlayStation 4</a></h4>
+    <a href='https://computerhoy.com/gaming/fatidico-dia-sony-jubila-playstation-4-fin-1394545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/final-ps4-3683431.jpg?tf=1200x' alt='Ha llegado el fatídico día: Sony jubila la PlayStation 4' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-fija-5-niveles-alcanzar-inteligencia-artificial-general-ahora-1395317'>OpenAI fija 5 niveles para alcanzar la inteligencia artificial general y este es el de ahora</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-fija-5-niveles-alcanzar-inteligencia-artificial-general-ahora-1395317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-general-3711232.jpg?tf=1200x' alt='OpenAI fija 5 niveles para alcanzar la inteligencia artificial general y este es el de ahora' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-no-solo-estos-son-6-grandes-rivales-1395332'>ChatGPT no está solo y estos son sus 6 grandes rivales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-no-solo-estos-son-6-grandes-rivales-1395332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-funciones-chatgpt-no-estas-aprovechando-todo-deberias-usar-ahora-mismo-3290323.jpg?tf=1200x' alt='ChatGPT no está solo y estos son sus 6 grandes rivales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/espana-quiera-acabar-black-friday-dias-iva-semana-fantastica-1395113'>España quiere acabar con el Black Friday, los Días sin IVA o la Semana Fantástica</a></h4>
-    <a href='https://computerhoy.com/life/espana-quiera-acabar-black-friday-dias-iva-semana-fantastica-1395113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rebajas-invierno-2024-espana-3256230.jpg?tf=1200x' alt='España quiere acabar con el Black Friday, los Días sin IVA o la Semana Fantástica' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/apple-ha-alertado-nuevo-iphone-casi-100-paises-pueden-sufrir-ataque-software-espia-1395126'>Apple ha alertado (de nuevo) que los iPhone de casi 100 países pueden sufrir un ataque con software espía</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/apple-ha-alertado-nuevo-iphone-casi-100-paises-pueden-sufrir-ataque-software-espia-1395126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-ha-alertado-nuevo-iphone-casi-100-paises-potencial-ataque-software-espia-3704310.jpg?tf=1200x' alt='Apple ha alertado (de nuevo) que los iPhone de casi 100 países pueden sufrir un ataque con software espía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/apps-famoso-te-pareces-1039875'>Apps para saber a qué famoso te pareces</a></h4>
-    <a href='https://computerhoy.com/noticias/life/apps-famoso-te-pareces-1039875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/famoso-te-pareces-3698835.jpg?tf=1200x' alt='Apps para saber a qué famoso te pareces' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-laberinto-dificil-mundo-bucles-repiten-infinito-1395318'>Crean el laberinto más difícil del mundo con bucles que se repiten hasta el infinito</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-laberinto-dificil-mundo-bucles-repiten-infinito-1395318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crean-laberinto-dificil-mundo-bucles-repiten-infinito-3711237.jpg?tf=1200x' alt='Crean el laberinto más difícil del mundo con bucles que se repiten hasta el infinito' />
     </a>
 </div>
 
