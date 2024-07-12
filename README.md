@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/razon-audios-whatsapp-pueden-estar-fomentando-ghosting-quererlo-1395122'>Esta es la razón por las que los audios de WhatsApp pueden estar fomentando el ghosting sin quererlo</a></h4>
-    <a href='https://computerhoy.com/apps/razon-audios-whatsapp-pueden-estar-fomentando-ghosting-quererlo-1395122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-ghosting-3705706.jpg?tf=1200x' alt='Esta es la razón por las que los audios de WhatsApp pueden estar fomentando el ghosting sin quererlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104'>The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-3703264.jpg?tf=1200x' alt='The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-1395134'>¿Por qué recuerdas unas cosas sí y otras no? Así lo explica un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/ciencia/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-1395134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-3704314.jpg?tf=1200x' alt='¿Por qué recuerdas unas cosas sí y otras no? Así lo explica un nuevo estudio' />
+    <h4><a href='https://computerhoy.com/pc/atx-30-novedades-pc-1392495'>¿Qué es ATX 3.0 y qué novedades para tu PC?</a></h4>
+    <a href='https://computerhoy.com/pc/atx-30-novedades-pc-1392495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ordenador-dentro-3308352.jpg?tf=1200x' alt='¿Qué es ATX 3.0 y qué novedades para tu PC?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estudio-razon-eres-inteligente-ia-aun-1394652'>Según un estudio, esta es la razón por la que eres más inteligente que la IA (aún)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estudio-razon-eres-inteligente-ia-aun-1394652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estudio-razon-eres-listo-ia-aun-3685125.jpg?tf=1200x' alt='Según un estudio, esta es la razón por la que eres más inteligente que la IA (aún)' />
+    <h4><a href='https://computerhoy.com/tecnologia/he-probado-infinidad-wearables-largo-anos-mi-favorito-1393214'>He probado infinidad de wearables a lo largo de los años: este es mi favorito</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-probado-infinidad-wearables-largo-anos-mi-favorito-1393214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/carlos-wearable-3614571.jpg?tf=1200x' alt='He probado infinidad de wearables a lo largo de los años: este es mi favorito' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazfit-reloj-deportivo-gps-oferta-amazon-1364445'>Amazfit va a por Garmin: su reloj deportivo con GPS cuesta menos de 100 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazfit-reloj-deportivo-gps-oferta-amazon-1364445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazfit-gtr-3-3216156.jpg?tf=1200x' alt='Amazfit va a por Garmin: su reloj deportivo con GPS cuesta menos de 100 euros en Amazon' />
+    <h4><a href='https://computerhoy.com/apps/he-editado-fotos-estas-herramientas-ia-me-han-encantado-1385646'>He editado mis fotos con estas herramientas de IA y los resultados finales me han encantado</a></h4>
+    <a href='https://computerhoy.com/apps/he-editado-fotos-estas-herramientas-ia-me-han-encantado-1385646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fotor-edicion-imagenes-ia-3310749.jpg?tf=1200x' alt='He editado mis fotos con estas herramientas de IA y los resultados finales me han encantado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-1395295'>Centralia, el pueblo fantasma que lleva 60 años ardiendo, y no parará en 200 años</a></h4>
-    <a href='https://computerhoy.com/life/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-1395295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-no-parara-200-anos-3709234.jpg?tf=1200x' alt='Centralia, el pueblo fantasma que lleva 60 años ardiendo, y no parará en 200 años' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/doxing-usan-ciberdelincuentes-inteligencia-artificial-estafarte-1394721'>Doxing: así usan los ciberdelincuentes la inteligencia artificial para estafarte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/doxing-usan-ciberdelincuentes-inteligencia-artificial-estafarte-1394721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-inteligencia-artificial-3698181.jpg?tf=1200x' alt='Doxing: así usan los ciberdelincuentes la inteligencia artificial para estafarte' />
     </a>
 </div>
 
