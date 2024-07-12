@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312'>Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puncher-p30-destruye-discos-duros-ssd-aplicando-12-toneladas-presion-3710638.jpg?tf=1200x' alt='Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-windows-11-sea-privado-seguro-1395097'>Cómo configurar Windows 11 para que sea más privado y seguro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-windows-11-sea-privado-seguro-1395097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-configurar-windows-11-sea-privado-seguro-3703265.jpg?tf=1200x' alt='Cómo configurar Windows 11 para que sea más privado y seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/lefant-m210-oferta-prime-day-89-euros-1393687'>Este robot aspirador siempre arrasa en el Prime Day,  y ahora no tienes que esperar: ya baja a 89 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/lefant-m210-oferta-prime-day-89-euros-1393687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lefant-m210-2635959.jpg?tf=1200x' alt='Este robot aspirador siempre arrasa en el Prime Day,  y ahora no tienes que esperar: ya baja a 89 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/no-te-quedes-atras-3-motivos-compraria-movil-ia-ano-1394591'>No te quedes atrás: 3 motivos por los que compraría un móvil con IA este año</a></h4>
+    <a href='https://computerhoy.com/moviles/no-te-quedes-atras-3-motivos-compraria-movil-ia-ano-1394591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-zenfone-11-ultra-3298601.jpg?tf=1200x' alt='No te quedes atrás: 3 motivos por los que compraría un móvil con IA este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104'>The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido</a></h4>
     <a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-3703264.jpg?tf=1200x' alt='The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/atx-30-novedades-pc-1392495'>¿Qué es ATX 3.0 y qué novedades para tu PC?</a></h4>
-    <a href='https://computerhoy.com/pc/atx-30-novedades-pc-1392495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ordenador-dentro-3308352.jpg?tf=1200x' alt='¿Qué es ATX 3.0 y qué novedades para tu PC?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-probado-infinidad-wearables-largo-anos-mi-favorito-1393214'>He probado infinidad de wearables a lo largo de los años: este es mi favorito</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-probado-infinidad-wearables-largo-anos-mi-favorito-1393214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/carlos-wearable-3614571.jpg?tf=1200x' alt='He probado infinidad de wearables a lo largo de los años: este es mi favorito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-editado-fotos-estas-herramientas-ia-me-han-encantado-1385646'>He editado mis fotos con estas herramientas de IA y los resultados finales me han encantado</a></h4>
-    <a href='https://computerhoy.com/apps/he-editado-fotos-estas-herramientas-ia-me-han-encantado-1385646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fotor-edicion-imagenes-ia-3310749.jpg?tf=1200x' alt='He editado mis fotos con estas herramientas de IA y los resultados finales me han encantado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/doxing-usan-ciberdelincuentes-inteligencia-artificial-estafarte-1394721'>Doxing: así usan los ciberdelincuentes la inteligencia artificial para estafarte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/doxing-usan-ciberdelincuentes-inteligencia-artificial-estafarte-1394721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-inteligencia-artificial-3698181.jpg?tf=1200x' alt='Doxing: así usan los ciberdelincuentes la inteligencia artificial para estafarte' />
     </a>
 </div>
 
