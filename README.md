@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312'>Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puncher-p30-destruye-discos-duros-ssd-aplicando-12-toneladas-presion-3710638.jpg?tf=1200x' alt='Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión' />
+    <h4><a href='https://computerhoy.com/tecnologia/camara-cine-inteligencia-artificial-sueno-pesadilla-directores-1394914'>Esta cámara de cine con inteligencia artificial es el sueño y la pesadilla de los directores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/camara-cine-inteligencia-artificial-sueno-pesadilla-directores-1394914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/camara-cine-3697101.jpg?tf=1200x' alt='Esta cámara de cine con inteligencia artificial es el sueño y la pesadilla de los directores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-windows-11-sea-privado-seguro-1395097'>Cómo configurar Windows 11 para que sea más privado y seguro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-windows-11-sea-privado-seguro-1395097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-configurar-windows-11-sea-privado-seguro-3703265.jpg?tf=1200x' alt='Cómo configurar Windows 11 para que sea más privado y seguro' />
+    <h4><a href='https://computerhoy.com/motor/alternativa-google-maps-waze-premium-gratis-1375853'>Vuelven los 12 meses gratis de TomTom usando un código: la alternativa premium a Google Maps y Waze</a></h4>
+    <a href='https://computerhoy.com/motor/alternativa-google-maps-waze-premium-gratis-1375853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tomtom-go-navigation-2580837.jpg?tf=1200x' alt='Vuelven los 12 meses gratis de TomTom usando un código: la alternativa premium a Google Maps y Waze' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/lefant-m210-oferta-prime-day-89-euros-1393687'>Este robot aspirador siempre arrasa en el Prime Day,  y ahora no tienes que esperar: ya baja a 89 euros</a></h4>
-    <a href='https://computerhoy.com/hogar/lefant-m210-oferta-prime-day-89-euros-1393687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lefant-m210-2635959.jpg?tf=1200x' alt='Este robot aspirador siempre arrasa en el Prime Day,  y ahora no tienes que esperar: ya baja a 89 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/openai-fija-5-niveles-alcanzar-inteligencia-artificial-general-ahora-1395317'>OpenAI fija 5 niveles para alcanzar la inteligencia artificial general y este es el de ahora</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-fija-5-niveles-alcanzar-inteligencia-artificial-general-ahora-1395317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-general-3711232.jpg?tf=1200x' alt='OpenAI fija 5 niveles para alcanzar la inteligencia artificial general y este es el de ahora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/no-te-quedes-atras-3-motivos-compraria-movil-ia-ano-1394591'>No te quedes atrás: 3 motivos por los que compraría un móvil con IA este año</a></h4>
-    <a href='https://computerhoy.com/moviles/no-te-quedes-atras-3-motivos-compraria-movil-ia-ano-1394591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-zenfone-11-ultra-3298601.jpg?tf=1200x' alt='No te quedes atrás: 3 motivos por los que compraría un móvil con IA este año' />
+    <h4><a href='https://computerhoy.com/life/espana-quiera-acabar-black-friday-dias-iva-semana-fantastica-1395113'>España quiere acabar con el Black Friday, los Días sin IVA o la Semana Fantástica</a></h4>
+    <a href='https://computerhoy.com/life/espana-quiera-acabar-black-friday-dias-iva-semana-fantastica-1395113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rebajas-invierno-2024-espana-3256230.jpg?tf=1200x' alt='España quiere acabar con el Black Friday, los Días sin IVA o la Semana Fantástica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104'>The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-3703264.jpg?tf=1200x' alt='The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido' />
+    <h4><a href='https://computerhoy.com/noticias/life/apps-famoso-te-pareces-1039875'>Apps para saber a qué famoso te pareces</a></h4>
+    <a href='https://computerhoy.com/noticias/life/apps-famoso-te-pareces-1039875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/famoso-te-pareces-3698835.jpg?tf=1200x' alt='Apps para saber a qué famoso te pareces' />
     </a>
 </div>
 
