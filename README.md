@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estos-son-patrones-ocultos-servicios-suscripcion-manipularte-1395352'>Estos son los patrones ocultos de los servicios de suscripción para manipularte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estos-son-patrones-ocultos-servicios-suscripcion-manipularte-1395352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estos-son-patrones-ocultos-servicios-suscripcion-manipularte-3711574.jpg?tf=1200x' alt='Estos son los patrones ocultos de los servicios de suscripción para manipularte' />
+    <h4><a href='https://computerhoy.com/espacio/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-1395173'>El astronauta que pasó 178 días en el espacio confiesa la gran mentira de la que se dio cuenta tras ver la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-1395173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-3704933.jpg?tf=1200x' alt='El astronauta que pasó 178 días en el espacio confiesa la gran mentira de la que se dio cuenta tras ver la Tierra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/macbook-air-tamano-xxl-rebajado-nunca-como-reacondicionado-garantia-1394943'>El MacBook Air tamaño XXL, rebajado más que nunca como reacondicionado, y con garantía</a></h4>
-    <a href='https://computerhoy.com/tecnologia/macbook-air-tamano-xxl-rebajado-nunca-como-reacondicionado-garantia-1394943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779331.jpg?tf=1200x' alt='El MacBook Air tamaño XXL, rebajado más que nunca como reacondicionado, y con garantía' />
+    <h4><a href='https://computerhoy.com/internet/conecta-red-wifi-vecino-sin-clave-1369817'>Cómo conseguir la clave WiFi de tu vecino sin pedírsela</a></h4>
+    <a href='https://computerhoy.com/internet/conecta-red-wifi-vecino-sin-clave-1369817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/clave-wifi-3711642.jpg?tf=1200x' alt='Cómo conseguir la clave WiFi de tu vecino sin pedírsela' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/piensas-estas-bloqueando-llamada-spam-realidad-pides-te-llamen-peligros-consentimiento-previo-1394958'>Piensas que estás bloqueando una llamada Spam y en realidad pides que te llamen: los peligros del consentimiento previo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/piensas-estas-bloqueando-llamada-spam-realidad-pides-te-llamen-peligros-consentimiento-previo-1394958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/adios-spam-telefonico-normativa-impedira-recibir-llamadas-no-deseadas-no-3025290.jpg?tf=1200x' alt='Piensas que estás bloqueando una llamada Spam y en realidad pides que te llamen: los peligros del consentimiento previo' />
+    <h4><a href='https://computerhoy.com/windows/pasa-configuras-todos-valores-registro-cero-windows-10-1395222'>Esto es lo que pasa si configuras todos los valores de Registro a 'cero' en Windows 10 </a></h4>
+    <a href='https://computerhoy.com/windows/pasa-configuras-todos-valores-registro-cero-windows-10-1395222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ver-creer-microsoft-lanza-primera-beta-windows-10-2021-nuevas-funciones-mejoras-3452735.jpg?tf=1200x' alt='Esto es lo que pasa si configuras todos los valores de Registro a 'cero' en Windows 10 ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/trucazo-te-salvara-vida-viajas-avion-2-horas-tiktok-necesidad-wifi-1395146'>El trucazo que te salvará la vida si viajas en avión: hasta 2 horas de TikTok sin necesidad de WiFi</a></h4>
-    <a href='https://computerhoy.com/apps/trucazo-te-salvara-vida-viajas-avion-2-horas-tiktok-necesidad-wifi-1395146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/avion-tiktok-3705081.jpg?tf=1200x' alt='El trucazo que te salvará la vida si viajas en avión: hasta 2 horas de TikTok sin necesidad de WiFi' />
+    <h4><a href='https://computerhoy.com/energia/china-logra-sol-artificial-genere-campo-magnetico-avanzando-creacion-energia-limpia-casi-ilimitada-1395369'>China logra que su sol artificial genere un campo magnético, avanzando hacia la creación de energía limpia casi ilimitada</a></h4>
+    <a href='https://computerhoy.com/energia/china-logra-sol-artificial-genere-campo-magnetico-avanzando-creacion-energia-limpia-casi-ilimitada-1395369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fusion-nuclear-3122678.jpg?tf=1200x' alt='China logra que su sol artificial genere un campo magnético, avanzando hacia la creación de energía limpia casi ilimitada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/pasa-mantienes-pulsado-segundos-boton-linterna-movil-1395349'>¿Qué pasa si mantienes pulsado unos segundos el botón de linterna de tu móvil?</a></h4>
-    <a href='https://computerhoy.com/moviles/pasa-mantienes-pulsado-segundos-boton-linterna-movil-1395349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/linterna-movil-3711730.jpg?tf=1200x' alt='¿Qué pasa si mantienes pulsado unos segundos el botón de linterna de tu móvil?' />
+    <h4><a href='https://computerhoy.com/life/amante-vino-agradece-asteroide-extermino-dinosaurios-1394475'>¿Amante del vino? Agradece al asteroide que exterminó a los dinosaurios</a></h4>
+    <a href='https://computerhoy.com/life/amante-vino-agradece-asteroide-extermino-dinosaurios-1394475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-te-permite-ver-donde-estaba-casa-epoca-dinosaurios-3024004.jpg?tf=1200x' alt='¿Amante del vino? Agradece al asteroide que exterminó a los dinosaurios' />
     </a>
 </div>
 
