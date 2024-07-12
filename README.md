@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/rufus-chatgpt-amazon-ayuda-comprar-llega-usuarios-1395461'>Rufus, el ChatGPT de Amazon que te ayuda a comprar, llega a los usuarios</a></h4>
+    <a href='https://computerhoy.com/amazon/rufus-chatgpt-amazon-ayuda-comprar-llega-usuarios-1395461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rufus-chatgpt-amazon-te-ayuda-comprar-llega-usuarios-3714954.jpg?tf=1200x' alt='Rufus, el ChatGPT de Amazon que te ayuda a comprar, llega a los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-desvela-espectacular-estacion-espacial-gateway-luna-1394489'>La NASA desvela la espectacular estación espacial Gateway, que orbitará la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-desvela-espectacular-estacion-espacial-gateway-luna-1394489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1720382225470-3679367.jpg?tf=1200x' alt='La NASA desvela la espectacular estación espacial Gateway, que orbitará la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-1395073'>El Banco de España alerta del grave error que la mayoría de españoles cometen al pagar con el móvil</a></h4>
     <a href='https://computerhoy.com/life/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-1395073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-3700954.jpg?tf=1200x' alt='El Banco de España alerta del grave error que la mayoría de españoles cometen al pagar con el móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estos-modelos-router-wifi-estan-enviando-contrasenas-texto-formato-1395457'>Estos modelos de router WiFi están enviando las contraseñas en texto sin formato</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-modelos-router-wifi-estan-enviando-contrasenas-texto-formato-1395457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/router-3715098.jpg?tf=1200x' alt='Estos modelos de router WiFi están enviando las contraseñas en texto sin formato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/me-encanta-google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-1395417'>Me encanta Google Maps en Android Auto, pero lo he perfeccionado "dopándola" con esta app para detectar radares</a></h4>
-    <a href='https://computerhoy.com/android/me-encanta-google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-1395417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/me-encanta-google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-3715097.jpg?tf=1200x' alt='Me encanta Google Maps en Android Auto, pero lo he perfeccionado "dopándola" con esta app para detectar radares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283'>Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/supercomputadora-cuantica-3707957.jpg?tf=1200x' alt='Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"' />
     </a>
 </div>
 
