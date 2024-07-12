@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-9-filtracion-completa-diseno-especificaciones-novedades-1395456'>Xiaomi Smart Band 9: filtración completa de su diseño, especificaciones y novedades</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-9-filtracion-completa-diseno-especificaciones-novedades-1395456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-smart-band-8-3194786.jpg?tf=1200x' alt='Xiaomi Smart Band 9: filtración completa de su diseño, especificaciones y novedades' />
+    <h4><a href='https://computerhoy.com/life/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-1395073'>El Banco de España alerta del grave error que la mayoría de españoles cometen al pagar con el móvil</a></h4>
+    <a href='https://computerhoy.com/life/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-1395073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-3700954.jpg?tf=1200x' alt='El Banco de España alerta del grave error que la mayoría de españoles cometen al pagar con el móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081'>La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-3700953.jpg?tf=1200x' alt='La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-1395458'>Google Maps: busca y captura en Japón a la persona que construyó una carretera a ningún sitio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-1395458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-3715099.jpg?tf=1200x' alt='Google Maps: busca y captura en Japón a la persona que construyó una carretera a ningún sitio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/icing-nueva-pesadilla-coches-electricos-dgt-quiere-acabar-base-multas-1395281'>Icing: la nueva pesadilla de los coches eléctricos con la que la DGT quiere acabar a base de multas</a></h4>
-    <a href='https://computerhoy.com/motor/icing-nueva-pesadilla-coches-electricos-dgt-quiere-acabar-base-multas-1395281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aparcamiento-subterraneo-3707954.jpg?tf=1200x' alt='Icing: la nueva pesadilla de los coches eléctricos con la que la DGT quiere acabar a base de multas' />
+    <h4><a href='https://computerhoy.com/tecnologia/estos-modelos-router-wifi-estan-enviando-contrasenas-texto-formato-1395457'>Estos modelos de router WiFi están enviando las contraseñas en texto sin formato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-modelos-router-wifi-estan-enviando-contrasenas-texto-formato-1395457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/router-3715098.jpg?tf=1200x' alt='Estos modelos de router WiFi están enviando las contraseñas en texto sin formato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/generador-voz-ia-microsoft-alcanza-paridad-humana-extremadamente-peligroso-1395280'>El generador de voz con IA de Microsoft alcanza la paridad humana: y esto es extremadamente peligroso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/generador-voz-ia-microsoft-alcanza-paridad-humana-extremadamente-peligroso-1395280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vall-2-3707939.jpg?tf=1200x' alt='El generador de voz con IA de Microsoft alcanza la paridad humana: y esto es extremadamente peligroso' />
+    <h4><a href='https://computerhoy.com/android/me-encanta-google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-1395417'>Me encanta Google Maps en Android Auto, pero lo he perfeccionado "dopándola" con esta app para detectar radares</a></h4>
+    <a href='https://computerhoy.com/android/me-encanta-google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-1395417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/me-encanta-google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-3715097.jpg?tf=1200x' alt='Me encanta Google Maps en Android Auto, pero lo he perfeccionado "dopándola" con esta app para detectar radares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cae-importante-red-servicios-iptv-pirata-lanzan-dura-amenaza-usuarios-1395243'>Cae una importante red de servicios IPTV pirata y lanzan una dura amenaza a sus usuarios</a></h4>
-    <a href='https://computerhoy.com/internet/cae-importante-red-servicios-iptv-pirata-lanzan-dura-amenaza-usuarios-1395243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cae-importante-red-servicios-iptv-pirata-lanzan-dura-amenaza-usuarios-3707754.jpg?tf=1200x' alt='Cae una importante red de servicios IPTV pirata y lanzan una dura amenaza a sus usuarios' />
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283'>Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/supercomputadora-cuantica-3707957.jpg?tf=1200x' alt='Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"' />
     </a>
 </div>
 
