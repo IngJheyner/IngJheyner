@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/computacion-cuantica-futuro-pero-aun-necesita-algo-pasado-1394940'>La computación cuántica es el futuro, pero aún necesita algo "del pasado"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/computacion-cuantica-futuro-pero-aun-necesita-algo-pasado-1394940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-cuantico-3561798.jpg?tf=1200x' alt='La computación cuántica es el futuro, pero aún necesita algo "del pasado"' />
+    <h4><a href='https://computerhoy.com/ciencia/nasa-hace-saltar-alarmas-olvidate-vivir-estas-provincias-espana-solo-30-anos-1395367'>La NASA hace saltar las alarmas: olvídate de vivir en estas provincias en España en solo 30 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/nasa-hace-saltar-alarmas-olvidate-vivir-estas-provincias-espana-solo-30-anos-1395367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/calor-3189092.jpg?tf=1200x' alt='La NASA hace saltar las alarmas: olvídate de vivir en estas provincias en España en solo 30 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/significa-realmente-modo-standby-dispositivos-puede-costarte-mucho-dinero-1394918'>Qué significa realmente el modo standby de los dispositivos y por qué puede costarte mucho dinero </a></h4>
-    <a href='https://computerhoy.com/hogar/significa-realmente-modo-standby-dispositivos-puede-costarte-mucho-dinero-1394918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/modo-standby-3697583.jpg?tf=1200x' alt='Qué significa realmente el modo standby de los dispositivos y por qué puede costarte mucho dinero ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-1392538'>Cómo compartir tu ubicación en tiempo real en Google Maps, WhatsApp y Telegram</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-1392538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-3663333.jpg?tf=1200x' alt='Cómo compartir tu ubicación en tiempo real en Google Maps, WhatsApp y Telegram' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/he-probado-muchas-lugar-duda-mejor-app-android-auto-youtube-tdt-gratis-1394214'>He probado muchas, y esta es sin lugar a duda la mejor app para Android Auto: YouTube, TDT gratis y más</a></h4>
-    <a href='https://computerhoy.com/android/he-probado-muchas-lugar-duda-mejor-app-android-auto-youtube-tdt-gratis-1394214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/he-probado-muchas-lugar-duda-mejor-app-android-auto-youtube-tdt-gratis-3659901.jpg?tf=1200x' alt='He probado muchas, y esta es sin lugar a duda la mejor app para Android Auto: YouTube, TDT gratis y más' />
+    <h4><a href='https://computerhoy.com/apps/chrome-edge-motivos-me-he-pasado-mozilla-firefox-navegador-1393494'>Ni Google Chrome ni Edge: me he pasado a Mozilla Firefox por estos 6 motivos</a></h4>
+    <a href='https://computerhoy.com/apps/chrome-edge-motivos-me-he-pasado-mozilla-firefox-navegador-1393494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mozilla-firefox-letal-3637048.jpg?tf=1200x' alt='Ni Google Chrome ni Edge: me he pasado a Mozilla Firefox por estos 6 motivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bolsa-isotermica-lidl-te-salvara-calor-cuesta-menos-10-euros-1395329'>Así es la bolsa isotérmica de Lidl que te salvará del calor y cuesta menos de 10 euros</a></h4>
-    <a href='https://computerhoy.com/life/bolsa-isotermica-lidl-te-salvara-calor-cuesta-menos-10-euros-1395329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/premiado-producto-lidl-alimentos-duren-frescos-tiempo-3209558.jpg?tf=1200x' alt='Así es la bolsa isotérmica de Lidl que te salvará del calor y cuesta menos de 10 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/investigadores-disenan-robot-empaquetar-compras-supermercado-1394472'>Investigadores diseñan un robot para empaquetar tus compras en el supermercado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/investigadores-disenan-robot-empaquetar-compras-supermercado-1394472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/investigadores-disenan-robot-empaquetar-compras-supermercado-3676523.jpg?tf=1200x' alt='Investigadores diseñan un robot para empaquetar tus compras en el supermercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/fatidico-dia-sony-jubila-playstation-4-fin-1394545'>Ha llegado el fatídico día: Sony jubila la PlayStation 4</a></h4>
-    <a href='https://computerhoy.com/gaming/fatidico-dia-sony-jubila-playstation-4-fin-1394545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/final-ps4-3683431.jpg?tf=1200x' alt='Ha llegado el fatídico día: Sony jubila la PlayStation 4' />
+    <h4><a href='https://computerhoy.com/tv/saphi-smart-tv-todo-sistema-operativo-televisores-philips-1395377'>Saphi Smart TV: todo sobre el sistema operativo de los televisores Philips</a></h4>
+    <a href='https://computerhoy.com/tv/saphi-smart-tv-todo-sistema-operativo-televisores-philips-1395377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/saphi-smart-tv-philips-3643987.jpg?tf=1200x' alt='Saphi Smart TV: todo sobre el sistema operativo de los televisores Philips' />
     </a>
 </div>
 
