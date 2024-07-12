@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejores-test-medir-coeficiente-intelectual-verdadero-potencial-1285890'>Estos son los 2 mejores test para medir tu coeficiente intelectual y descubrir tu verdadero potencial</a></h4>
-    <a href='https://computerhoy.com/life/mejores-test-medir-coeficiente-intelectual-verdadero-potencial-1285890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/test-medir-coeficiente-intelectual-3101562.jpg?tf=1200x' alt='Estos son los 2 mejores test para medir tu coeficiente intelectual y descubrir tu verdadero potencial' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-traducir-conversaciones-tiempo-real-google-traductor-1395330'>Cómo traducir conversaciones en tiempo real con Google Traductor</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-traducir-conversaciones-tiempo-real-google-traductor-1395330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/traducir-conversaciones-google-traductor-3711916.jpg?tf=1200x' alt='Cómo traducir conversaciones en tiempo real con Google Traductor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-1395173'>El astronauta que pasó 178 días en el espacio confiesa la gran mentira de la que se dio cuenta tras ver la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-1395173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-3704933.jpg?tf=1200x' alt='El astronauta que pasó 178 días en el espacio confiesa la gran mentira de la que se dio cuenta tras ver la Tierra' />
+    <h4><a href='https://computerhoy.com/entretenimiento/futbol-pirata-dazn-como-acabar-iptv-1394249'>DAZN cree que ha descubierto cómo acabar con el fútbol pirata a través de IPTV</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/futbol-pirata-dazn-como-acabar-iptv-1394249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dazn-podria-haber-descubierto-como-acabar-iptv-sencillo-mundo-3662568.jpg?tf=1200x' alt='DAZN cree que ha descubierto cómo acabar con el fútbol pirata a través de IPTV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/conecta-red-wifi-vecino-sin-clave-1369817'>Cómo conseguir la clave WiFi de tu vecino sin pedírsela</a></h4>
-    <a href='https://computerhoy.com/internet/conecta-red-wifi-vecino-sin-clave-1369817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/clave-wifi-3711642.jpg?tf=1200x' alt='Cómo conseguir la clave WiFi de tu vecino sin pedírsela' />
+    <h4><a href='https://computerhoy.com/gaming/no-sabemos-como-nintendo-switch-2-ni-cuando-saldra-venta-pero-ya-ha-hecho-historia-1395401'>No sabemos cómo es Nintendo Switch 2, ni cuando saldrá a la venta, pero ya ha hecho historia</a></h4>
+    <a href='https://computerhoy.com/gaming/no-sabemos-como-nintendo-switch-2-ni-cuando-saldra-venta-pero-ya-ha-hecho-historia-1395401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nintendo-switch-2-3712859.jpg?tf=1200x' alt='No sabemos cómo es Nintendo Switch 2, ni cuando saldrá a la venta, pero ya ha hecho historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/pasa-configuras-todos-valores-registro-cero-windows-10-1395222'>Esto es lo que pasa si configuras todos los valores de Registro a 'cero' en Windows 10 </a></h4>
-    <a href='https://computerhoy.com/windows/pasa-configuras-todos-valores-registro-cero-windows-10-1395222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ver-creer-microsoft-lanza-primera-beta-windows-10-2021-nuevas-funciones-mejoras-3452735.jpg?tf=1200x' alt='Esto es lo que pasa si configuras todos los valores de Registro a 'cero' en Windows 10 ' />
+    <h4><a href='https://computerhoy.com/espacio/espectacular-telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-1395211'>¡Espectacular! El telescopio James Webb ha captado un agujero negro mientras engulle una galaxia</a></h4>
+    <a href='https://computerhoy.com/espacio/espectacular-telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-1395211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-3705705.jpg?tf=1200x' alt='¡Espectacular! El telescopio James Webb ha captado un agujero negro mientras engulle una galaxia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/china-logra-sol-artificial-genere-campo-magnetico-avanzando-creacion-energia-limpia-casi-ilimitada-1395369'>China logra que su sol artificial genere un campo magnético, avanzando hacia la creación de energía limpia casi ilimitada</a></h4>
-    <a href='https://computerhoy.com/energia/china-logra-sol-artificial-genere-campo-magnetico-avanzando-creacion-energia-limpia-casi-ilimitada-1395369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fusion-nuclear-3122678.jpg?tf=1200x' alt='China logra que su sol artificial genere un campo magnético, avanzando hacia la creación de energía limpia casi ilimitada' />
+    <h4><a href='https://computerhoy.com/life/tierra-solo-vivieran-ella-100-personas-1309584'>¿Cómo sería la Tierra si solo vivieran en ella 100 personas?</a></h4>
+    <a href='https://computerhoy.com/life/tierra-solo-vivieran-ella-100-personas-1309584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-seria-tierra-solo-vivieran-ella-100-personas-3142310.jpg?tf=1200x' alt='¿Cómo sería la Tierra si solo vivieran en ella 100 personas?' />
     </a>
 </div>
 
