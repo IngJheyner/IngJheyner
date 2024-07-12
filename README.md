@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/computacion-cuantica-futuro-pero-aun-necesita-algo-pasado-1394940'>La computación cuántica es el futuro, pero aún necesita algo "del pasado"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/computacion-cuantica-futuro-pero-aun-necesita-algo-pasado-1394940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-cuantico-3561798.jpg?tf=1200x' alt='La computación cuántica es el futuro, pero aún necesita algo "del pasado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/significa-realmente-modo-standby-dispositivos-puede-costarte-mucho-dinero-1394918'>Qué significa realmente el modo standby de los dispositivos y por qué puede costarte mucho dinero </a></h4>
+    <a href='https://computerhoy.com/hogar/significa-realmente-modo-standby-dispositivos-puede-costarte-mucho-dinero-1394918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/modo-standby-3697583.jpg?tf=1200x' alt='Qué significa realmente el modo standby de los dispositivos y por qué puede costarte mucho dinero ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/he-probado-muchas-lugar-duda-mejor-app-android-auto-youtube-tdt-gratis-1394214'>He probado muchas, y esta es sin lugar a duda la mejor app para Android Auto: YouTube, TDT gratis y más</a></h4>
+    <a href='https://computerhoy.com/android/he-probado-muchas-lugar-duda-mejor-app-android-auto-youtube-tdt-gratis-1394214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/he-probado-muchas-lugar-duda-mejor-app-android-auto-youtube-tdt-gratis-3659901.jpg?tf=1200x' alt='He probado muchas, y esta es sin lugar a duda la mejor app para Android Auto: YouTube, TDT gratis y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/bolsa-isotermica-lidl-te-salvara-calor-cuesta-menos-10-euros-1395329'>Así es la bolsa isotérmica de Lidl que te salvará del calor y cuesta menos de 10 euros</a></h4>
     <a href='https://computerhoy.com/life/bolsa-isotermica-lidl-te-salvara-calor-cuesta-menos-10-euros-1395329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/premiado-producto-lidl-alimentos-duren-frescos-tiempo-3209558.jpg?tf=1200x' alt='Así es la bolsa isotérmica de Lidl que te salvará del calor y cuesta menos de 10 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/fatidico-dia-sony-jubila-playstation-4-fin-1394545'>Ha llegado el fatídico día: Sony jubila la PlayStation 4</a></h4>
     <a href='https://computerhoy.com/gaming/fatidico-dia-sony-jubila-playstation-4-fin-1394545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/final-ps4-3683431.jpg?tf=1200x' alt='Ha llegado el fatídico día: Sony jubila la PlayStation 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-no-solo-estos-son-6-grandes-rivales-1395332'>ChatGPT no está solo y estos son sus 6 grandes rivales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-no-solo-estos-son-6-grandes-rivales-1395332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-funciones-chatgpt-no-estas-aprovechando-todo-deberias-usar-ahora-mismo-3290323.jpg?tf=1200x' alt='ChatGPT no está solo y estos son sus 6 grandes rivales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/apple-ha-alertado-nuevo-iphone-casi-100-paises-pueden-sufrir-ataque-software-espia-1395126'>Apple ha alertado (de nuevo) que los iPhone de casi 100 países pueden sufrir un ataque con software espía</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/apple-ha-alertado-nuevo-iphone-casi-100-paises-pueden-sufrir-ataque-software-espia-1395126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-ha-alertado-nuevo-iphone-casi-100-paises-potencial-ataque-software-espia-3704310.jpg?tf=1200x' alt='Apple ha alertado (de nuevo) que los iPhone de casi 100 países pueden sufrir un ataque con software espía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-laberinto-dificil-mundo-bucles-repiten-infinito-1395318'>Crean el laberinto más difícil del mundo con bucles que se repiten hasta el infinito</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-laberinto-dificil-mundo-bucles-repiten-infinito-1395318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crean-laberinto-dificil-mundo-bucles-repiten-infinito-3711237.jpg?tf=1200x' alt='Crean el laberinto más difícil del mundo con bucles que se repiten hasta el infinito' />
     </a>
 </div>
 
