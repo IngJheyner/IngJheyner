@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nasa-hace-saltar-alarmas-olvidate-vivir-estas-provincias-espana-solo-30-anos-1395367'>La NASA hace saltar las alarmas: olvídate de vivir en estas provincias en España en solo 30 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/nasa-hace-saltar-alarmas-olvidate-vivir-estas-provincias-espana-solo-30-anos-1395367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/calor-3189092.jpg?tf=1200x' alt='La NASA hace saltar las alarmas: olvídate de vivir en estas provincias en España en solo 30 años' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estos-son-patrones-ocultos-servicios-suscripcion-manipularte-1395352'>Estos son los patrones ocultos de los servicios de suscripción para manipularte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estos-son-patrones-ocultos-servicios-suscripcion-manipularte-1395352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estos-son-patrones-ocultos-servicios-suscripcion-manipularte-3711574.jpg?tf=1200x' alt='Estos son los patrones ocultos de los servicios de suscripción para manipularte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-1392538'>Cómo compartir tu ubicación en tiempo real en Google Maps, WhatsApp y Telegram</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-1392538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-compartir-ubicacion-tiempo-real-google-maps-whatsapp-telegram-3663333.jpg?tf=1200x' alt='Cómo compartir tu ubicación en tiempo real en Google Maps, WhatsApp y Telegram' />
+    <h4><a href='https://computerhoy.com/tecnologia/macbook-air-tamano-xxl-rebajado-nunca-como-reacondicionado-garantia-1394943'>El MacBook Air tamaño XXL, rebajado más que nunca como reacondicionado, y con garantía</a></h4>
+    <a href='https://computerhoy.com/tecnologia/macbook-air-tamano-xxl-rebajado-nunca-como-reacondicionado-garantia-1394943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779331.jpg?tf=1200x' alt='El MacBook Air tamaño XXL, rebajado más que nunca como reacondicionado, y con garantía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/chrome-edge-motivos-me-he-pasado-mozilla-firefox-navegador-1393494'>Ni Google Chrome ni Edge: me he pasado a Mozilla Firefox por estos 6 motivos</a></h4>
-    <a href='https://computerhoy.com/apps/chrome-edge-motivos-me-he-pasado-mozilla-firefox-navegador-1393494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mozilla-firefox-letal-3637048.jpg?tf=1200x' alt='Ni Google Chrome ni Edge: me he pasado a Mozilla Firefox por estos 6 motivos' />
+    <h4><a href='https://computerhoy.com/tecnologia/piensas-estas-bloqueando-llamada-spam-realidad-pides-te-llamen-peligros-consentimiento-previo-1394958'>Piensas que estás bloqueando una llamada Spam y en realidad pides que te llamen: los peligros del consentimiento previo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/piensas-estas-bloqueando-llamada-spam-realidad-pides-te-llamen-peligros-consentimiento-previo-1394958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/adios-spam-telefonico-normativa-impedira-recibir-llamadas-no-deseadas-no-3025290.jpg?tf=1200x' alt='Piensas que estás bloqueando una llamada Spam y en realidad pides que te llamen: los peligros del consentimiento previo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/investigadores-disenan-robot-empaquetar-compras-supermercado-1394472'>Investigadores diseñan un robot para empaquetar tus compras en el supermercado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/investigadores-disenan-robot-empaquetar-compras-supermercado-1394472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/investigadores-disenan-robot-empaquetar-compras-supermercado-3676523.jpg?tf=1200x' alt='Investigadores diseñan un robot para empaquetar tus compras en el supermercado' />
+    <h4><a href='https://computerhoy.com/apps/trucazo-te-salvara-vida-viajas-avion-2-horas-tiktok-necesidad-wifi-1395146'>El trucazo que te salvará la vida si viajas en avión: hasta 2 horas de TikTok sin necesidad de WiFi</a></h4>
+    <a href='https://computerhoy.com/apps/trucazo-te-salvara-vida-viajas-avion-2-horas-tiktok-necesidad-wifi-1395146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/avion-tiktok-3705081.jpg?tf=1200x' alt='El trucazo que te salvará la vida si viajas en avión: hasta 2 horas de TikTok sin necesidad de WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/saphi-smart-tv-todo-sistema-operativo-televisores-philips-1395377'>Saphi Smart TV: todo sobre el sistema operativo de los televisores Philips</a></h4>
-    <a href='https://computerhoy.com/tv/saphi-smart-tv-todo-sistema-operativo-televisores-philips-1395377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/saphi-smart-tv-philips-3643987.jpg?tf=1200x' alt='Saphi Smart TV: todo sobre el sistema operativo de los televisores Philips' />
+    <h4><a href='https://computerhoy.com/moviles/pasa-mantienes-pulsado-segundos-boton-linterna-movil-1395349'>¿Qué pasa si mantienes pulsado unos segundos el botón de linterna de tu móvil?</a></h4>
+    <a href='https://computerhoy.com/moviles/pasa-mantienes-pulsado-segundos-boton-linterna-movil-1395349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/linterna-movil-3711730.jpg?tf=1200x' alt='¿Qué pasa si mantienes pulsado unos segundos el botón de linterna de tu móvil?' />
     </a>
 </div>
 
