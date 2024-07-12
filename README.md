@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-1395355'>Sam Altman quiere que la inteligencia artificial sea tu próximo médico, y OpenAI ya está trabajando al respecto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-1395355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-3711724.jpg?tf=1200x' alt='Sam Altman quiere que la inteligencia artificial sea tu próximo médico, y OpenAI ya está trabajando al respecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/xiaomi-512gb-espacio-presume-precio-aliexpress-supera-mucho-amazon-1395374'>Este Xiaomi con 512GB de espacio presume de precio: AliExpress supera por mucho a Amazon</a></h4>
+    <a href='https://computerhoy.com/android/xiaomi-512gb-espacio-presume-precio-aliexpress-supera-mucho-amazon-1395374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/xiaomi-redmi-note-13-pro-plus-3712085.jpg?tf=1200x' alt='Este Xiaomi con 512GB de espacio presume de precio: AliExpress supera por mucho a Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/viejo-movil-reaprovecharlo-739081'>¡No tires tu viejo móvil! 5 formas de reaprovecharlo en las que nunca habías pensado</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/viejo-movil-reaprovecharlo-739081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/movil-manos-2105857.jpg?tf=1200x' alt='¡No tires tu viejo móvil! 5 formas de reaprovecharlo en las que nunca habías pensado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nike-elimina-app-controla-zapatillas-atan-solas-pierden-funciones-1394482'>Nike se carga la app que controla las zapatillas que se atan solas, y pierden funciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nike-elimina-app-controla-zapatillas-atan-solas-pierden-funciones-1394482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nike-carga-app-controla-zapatillas-atan-solas-pierden-funciones-3677943.jpg?tf=1200x' alt='Nike se carga la app que controla las zapatillas que se atan solas, y pierden funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/significan-luces-verdes-rojas-raspberry-pi-1395089'>¿Qué significan las luces verdes y rojas en una Raspberry Pi?</a></h4>
     <a href='https://computerhoy.com/tecnologia/significan-luces-verdes-rojas-raspberry-pi-1395089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/significan-luces-verdes-rojas-raspberry-pi-3701993.jpg?tf=1200x' alt='¿Qué significan las luces verdes y rojas en una Raspberry Pi?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-ia-actualmente-no-inteligente-gato-1395343'>Según Google, la IA actualmente no es más inteligente que un gato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-ia-actualmente-no-inteligente-gato-1395343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-ia-actualmente-no-inteligente-gato-3711551.jpg?tf=1200x' alt='Según Google, la IA actualmente no es más inteligente que un gato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-resetear-algoritmo-tiktok-truco-definitivo-1391509'>Cómo resetear el algoritmo de TikTok con este truco definitivo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-resetear-algoritmo-tiktok-truco-definitivo-1391509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-resetear-algoritmo-tiktok-truco-definitivo-3536173.jpg?tf=1200x' alt='Cómo resetear el algoritmo de TikTok con este truco definitivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sera-capaz-hacer-chatgpt-5-experto-ia-revela-futuro-inquietante-1395017'>¿Qué será capaz de hacer ChatGPT 5? Un experto en IA revela un futuro inquietante</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sera-capaz-hacer-chatgpt-5-experto-ia-revela-futuro-inquietante-1395017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatgpt-5-cerca-crees-3300406.jpg?tf=1200x' alt='¿Qué será capaz de hacer ChatGPT 5? Un experto en IA revela un futuro inquietante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-traducir-conversaciones-tiempo-real-google-traductor-1395330'>Cómo traducir conversaciones en tiempo real con Google Traductor</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-traducir-conversaciones-tiempo-real-google-traductor-1395330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/traducir-conversaciones-google-traductor-3711916.jpg?tf=1200x' alt='Cómo traducir conversaciones en tiempo real con Google Traductor' />
     </a>
 </div>
 
