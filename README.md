@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejores-test-medir-coeficiente-intelectual-verdadero-potencial-1285890'>Estos son los 2 mejores test para medir tu coeficiente intelectual y descubrir tu verdadero potencial</a></h4>
+    <a href='https://computerhoy.com/life/mejores-test-medir-coeficiente-intelectual-verdadero-potencial-1285890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/test-medir-coeficiente-intelectual-3101562.jpg?tf=1200x' alt='Estos son los 2 mejores test para medir tu coeficiente intelectual y descubrir tu verdadero potencial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-1395173'>El astronauta que pasó 178 días en el espacio confiesa la gran mentira de la que se dio cuenta tras ver la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-1395173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-3704933.jpg?tf=1200x' alt='El astronauta que pasó 178 días en el espacio confiesa la gran mentira de la que se dio cuenta tras ver la Tierra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/china-logra-sol-artificial-genere-campo-magnetico-avanzando-creacion-energia-limpia-casi-ilimitada-1395369'>China logra que su sol artificial genere un campo magnético, avanzando hacia la creación de energía limpia casi ilimitada</a></h4>
     <a href='https://computerhoy.com/energia/china-logra-sol-artificial-genere-campo-magnetico-avanzando-creacion-energia-limpia-casi-ilimitada-1395369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fusion-nuclear-3122678.jpg?tf=1200x' alt='China logra que su sol artificial genere un campo magnético, avanzando hacia la creación de energía limpia casi ilimitada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/amante-vino-agradece-asteroide-extermino-dinosaurios-1394475'>¿Amante del vino? Agradece al asteroide que exterminó a los dinosaurios</a></h4>
-    <a href='https://computerhoy.com/life/amante-vino-agradece-asteroide-extermino-dinosaurios-1394475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-te-permite-ver-donde-estaba-casa-epoca-dinosaurios-3024004.jpg?tf=1200x' alt='¿Amante del vino? Agradece al asteroide que exterminó a los dinosaurios' />
     </a>
 </div>
 
