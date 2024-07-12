@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ue-declara-ilegal-verificacion-marca-azul-x-1395452'>La UE declara ilegal y "un engaño", la verificación con la marca azul de X</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ue-declara-ilegal-verificacion-marca-azul-x-1395452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ue-declara-ilegal-engano-tener-pagar-obtener-verificacion-x-3714086.jpg?tf=1200x' alt='La UE declara ilegal y "un engaño", la verificación con la marca azul de X' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-9-filtracion-completa-diseno-especificaciones-novedades-1395456'>Xiaomi Smart Band 9: filtración completa de su diseño, especificaciones y novedades</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-9-filtracion-completa-diseno-especificaciones-novedades-1395456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-smart-band-8-3194786.jpg?tf=1200x' alt='Xiaomi Smart Band 9: filtración completa de su diseño, especificaciones y novedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/boton-turbo-pc-viejos-no-aceleraba-nada-bien-todo-contrario-1395419'>El botón TURBO de los PC viejos no aceleraba nada, más bien todo lo contrario</a></h4>
-    <a href='https://computerhoy.com/pc/boton-turbo-pc-viejos-no-aceleraba-nada-bien-todo-contrario-1395419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-turbo-pc-viejos-no-aceleraba-nada-bien-todo-contrario-3713477.jpg?tf=1200x' alt='El botón TURBO de los PC viejos no aceleraba nada, más bien todo lo contrario' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081'>La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-3700953.jpg?tf=1200x' alt='La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-1395002'>Un científico de Oxford cree tener pruebas de que el universo es una simulación “a lo Matrix”</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-1395002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-3698491.jpg?tf=1200x' alt='Un científico de Oxford cree tener pruebas de que el universo es una simulación “a lo Matrix”' />
+    <h4><a href='https://computerhoy.com/motor/icing-nueva-pesadilla-coches-electricos-dgt-quiere-acabar-base-multas-1395281'>Icing: la nueva pesadilla de los coches eléctricos con la que la DGT quiere acabar a base de multas</a></h4>
+    <a href='https://computerhoy.com/motor/icing-nueva-pesadilla-coches-electricos-dgt-quiere-acabar-base-multas-1395281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aparcamiento-subterraneo-3707954.jpg?tf=1200x' alt='Icing: la nueva pesadilla de los coches eléctricos con la que la DGT quiere acabar a base de multas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-animacion-japonesa-nivel-akira-ghost-shell-nadie-recuerda-te-dejaran-boca-abierta-1395050'>5 películas de animación japonesa al nivel de Akira o Ghost in the Shell que nadie recuerda y te dejarán con la boca abierta</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-animacion-japonesa-nivel-akira-ghost-shell-nadie-recuerda-te-dejaran-boca-abierta-1395050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-peliculas-animacion-japonesa-nivel-akira-ghost-shell-nadie-recuerda-te-dejaran-boca-abierta-3699603.jpg?tf=1200x' alt='5 películas de animación japonesa al nivel de Akira o Ghost in the Shell que nadie recuerda y te dejarán con la boca abierta' />
+    <h4><a href='https://computerhoy.com/tecnologia/generador-voz-ia-microsoft-alcanza-paridad-humana-extremadamente-peligroso-1395280'>El generador de voz con IA de Microsoft alcanza la paridad humana: y esto es extremadamente peligroso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/generador-voz-ia-microsoft-alcanza-paridad-humana-extremadamente-peligroso-1395280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vall-2-3707939.jpg?tf=1200x' alt='El generador de voz con IA de Microsoft alcanza la paridad humana: y esto es extremadamente peligroso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-terror-ambientadas-parques-atracciones-1394852'>5 películas de terror ambientadas en parques de atracciones: cuando diversión y miedo van de la mano</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-terror-ambientadas-parques-atracciones-1394852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-peliculas-terror-ambientadas-parques-atracciones-cuando-diversion-miedo-van-mano-3692594.jpg?tf=1200x' alt='5 películas de terror ambientadas en parques de atracciones: cuando diversión y miedo van de la mano' />
+    <h4><a href='https://computerhoy.com/internet/cae-importante-red-servicios-iptv-pirata-lanzan-dura-amenaza-usuarios-1395243'>Cae una importante red de servicios IPTV pirata y lanzan una dura amenaza a sus usuarios</a></h4>
+    <a href='https://computerhoy.com/internet/cae-importante-red-servicios-iptv-pirata-lanzan-dura-amenaza-usuarios-1395243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cae-importante-red-servicios-iptv-pirata-lanzan-dura-amenaza-usuarios-3707754.jpg?tf=1200x' alt='Cae una importante red de servicios IPTV pirata y lanzan una dura amenaza a sus usuarios' />
     </a>
 </div>
 
