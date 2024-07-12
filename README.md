@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-1395355'>Sam Altman quiere que la inteligencia artificial sea tu próximo médico, y OpenAI ya está trabajando al respecto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-1395355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-3711724.jpg?tf=1200x' alt='Sam Altman quiere que la inteligencia artificial sea tu próximo médico, y OpenAI ya está trabajando al respecto' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-animacion-japonesa-nivel-akira-ghost-shell-nadie-recuerda-te-dejaran-boca-abierta-1395050'>5 películas de animación japonesa al nivel de Akira o Ghost in the Shell que nadie recuerda y te dejarán con la boca abierta</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-animacion-japonesa-nivel-akira-ghost-shell-nadie-recuerda-te-dejaran-boca-abierta-1395050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-peliculas-animacion-japonesa-nivel-akira-ghost-shell-nadie-recuerda-te-dejaran-boca-abierta-3699603.jpg?tf=1200x' alt='5 películas de animación japonesa al nivel de Akira o Ghost in the Shell que nadie recuerda y te dejarán con la boca abierta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/xiaomi-512gb-espacio-presume-precio-aliexpress-supera-mucho-amazon-1395374'>Este Xiaomi con 512GB de espacio presume de precio: AliExpress supera por mucho a Amazon</a></h4>
-    <a href='https://computerhoy.com/android/xiaomi-512gb-espacio-presume-precio-aliexpress-supera-mucho-amazon-1395374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/xiaomi-redmi-note-13-pro-plus-3712085.jpg?tf=1200x' alt='Este Xiaomi con 512GB de espacio presume de precio: AliExpress supera por mucho a Amazon' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-bloquear-usuarios-tiktok-1388373'>¿Cómo bloquear usuarios en TikTok?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-bloquear-usuarios-tiktok-1388373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-bloquear-usuarios-tiktok-3390001.jpg?tf=1200x' alt='¿Cómo bloquear usuarios en TikTok?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/viejo-movil-reaprovecharlo-739081'>¡No tires tu viejo móvil! 5 formas de reaprovecharlo en las que nunca habías pensado</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/viejo-movil-reaprovecharlo-739081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/movil-manos-2105857.jpg?tf=1200x' alt='¡No tires tu viejo móvil! 5 formas de reaprovecharlo en las que nunca habías pensado' />
+    <h4><a href='https://computerhoy.com/entretenimiento/expediente-warren-dice-adios-sera-entrega-final-conjuring-1395405'>Expediente Warren dice adiós: así será la entrega final de The Conjuring</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/expediente-warren-dice-adios-sera-entrega-final-conjuring-1395405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/expediente-warren-obligado-demonio-2355615.jpg?tf=1200x' alt='Expediente Warren dice adiós: así será la entrega final de The Conjuring' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nike-elimina-app-controla-zapatillas-atan-solas-pierden-funciones-1394482'>Nike se carga la app que controla las zapatillas que se atan solas, y pierden funciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nike-elimina-app-controla-zapatillas-atan-solas-pierden-funciones-1394482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nike-carga-app-controla-zapatillas-atan-solas-pierden-funciones-3677943.jpg?tf=1200x' alt='Nike se carga la app que controla las zapatillas que se atan solas, y pierden funciones' />
+    <h4><a href='https://computerhoy.com/pc/posible-pc-explote-sobrecalentamiento-1394829'>¿Es posible que un PC explote por sobrecalentamiento?</a></h4>
+    <a href='https://computerhoy.com/pc/posible-pc-explote-sobrecalentamiento-1394829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pc-explota-sobrecalentamiento-3691934.jpg?tf=1200x' alt='¿Es posible que un PC explote por sobrecalentamiento?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/significan-luces-verdes-rojas-raspberry-pi-1395089'>¿Qué significan las luces verdes y rojas en una Raspberry Pi?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/significan-luces-verdes-rojas-raspberry-pi-1395089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/significan-luces-verdes-rojas-raspberry-pi-3701993.jpg?tf=1200x' alt='¿Qué significan las luces verdes y rojas en una Raspberry Pi?' />
+    <h4><a href='https://computerhoy.com/apps/trucos-saber-whatsapp-te-espiando-microfono-camara-sepas-1394885'>Trucos para saber si WhatsApp te está espiando por el micrófono o la cámara sin que lo sepas</a></h4>
+    <a href='https://computerhoy.com/apps/trucos-saber-whatsapp-te-espiando-microfono-camara-sepas-1394885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trucos-saber-whatsapp-te-espiando-microfono-camara-sepas-3695531.jpg?tf=1200x' alt='Trucos para saber si WhatsApp te está espiando por el micrófono o la cámara sin que lo sepas' />
     </a>
 </div>
 
