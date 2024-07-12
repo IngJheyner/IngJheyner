@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/ni-cables-ni-antena-como-ver-toda-tdt-amazon-fire-tv-app-enlace-magico-1395460'>Ni cables ni antena: cómo ver toda la TDT en un Amazon Fire TV con una app y un enlace "mágico"</a></h4>
+    <a href='https://computerhoy.com/tv/ni-cables-ni-antena-como-ver-toda-tdt-amazon-fire-tv-app-enlace-magico-1395460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-cables-ni-antena-como-ver-toda-tdt-amazon-fire-tv-app-enlace-magico-3715801.jpg?tf=1200x' alt='Ni cables ni antena: cómo ver toda la TDT en un Amazon Fire TV con una app y un enlace "mágico"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/pictionary-contra-ia-1394490'>Ya está a la venta el Pictionary en el que juegas contra la IA</a></h4>
+    <a href='https://computerhoy.com/gaming/pictionary-contra-ia-1394490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1720387699936-3679792.jpg?tf=1200x' alt='Ya está a la venta el Pictionary en el que juegas contra la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/rufus-chatgpt-amazon-ayuda-comprar-llega-usuarios-1395461'>Rufus, el ChatGPT de Amazon que te ayuda a comprar, llega a los usuarios</a></h4>
     <a href='https://computerhoy.com/amazon/rufus-chatgpt-amazon-ayuda-comprar-llega-usuarios-1395461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rufus-chatgpt-amazon-te-ayuda-comprar-llega-usuarios-3714954.jpg?tf=1200x' alt='Rufus, el ChatGPT de Amazon que te ayuda a comprar, llega a los usuarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-1395073'>El Banco de España alerta del grave error que la mayoría de españoles cometen al pagar con el móvil</a></h4>
     <a href='https://computerhoy.com/life/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-1395073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-3700954.jpg?tf=1200x' alt='El Banco de España alerta del grave error que la mayoría de españoles cometen al pagar con el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-1395458'>Google Maps: busca y captura en Japón a la persona que construyó una carretera a ningún sitio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-1395458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-3715099.jpg?tf=1200x' alt='Google Maps: busca y captura en Japón a la persona que construyó una carretera a ningún sitio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-modelos-router-wifi-estan-enviando-contrasenas-texto-formato-1395457'>Estos modelos de router WiFi están enviando las contraseñas en texto sin formato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-modelos-router-wifi-estan-enviando-contrasenas-texto-formato-1395457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/router-3715098.jpg?tf=1200x' alt='Estos modelos de router WiFi están enviando las contraseñas en texto sin formato' />
     </a>
 </div>
 
