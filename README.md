@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ue-declara-ilegal-verificacion-marca-azul-x-1395452'>La UE declara ilegal y "un engaño", la verificación con la marca azul de X</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ue-declara-ilegal-verificacion-marca-azul-x-1395452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ue-declara-ilegal-engano-tener-pagar-obtener-verificacion-x-3714086.jpg?tf=1200x' alt='La UE declara ilegal y "un engaño", la verificación con la marca azul de X' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/boton-turbo-pc-viejos-no-aceleraba-nada-bien-todo-contrario-1395419'>El botón TURBO de los PC viejos no aceleraba nada, más bien todo lo contrario</a></h4>
+    <a href='https://computerhoy.com/pc/boton-turbo-pc-viejos-no-aceleraba-nada-bien-todo-contrario-1395419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-turbo-pc-viejos-no-aceleraba-nada-bien-todo-contrario-3713477.jpg?tf=1200x' alt='El botón TURBO de los PC viejos no aceleraba nada, más bien todo lo contrario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-1395002'>Un científico de Oxford cree tener pruebas de que el universo es una simulación “a lo Matrix”</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-1395002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-3698491.jpg?tf=1200x' alt='Un científico de Oxford cree tener pruebas de que el universo es una simulación “a lo Matrix”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-animacion-japonesa-nivel-akira-ghost-shell-nadie-recuerda-te-dejaran-boca-abierta-1395050'>5 películas de animación japonesa al nivel de Akira o Ghost in the Shell que nadie recuerda y te dejarán con la boca abierta</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-animacion-japonesa-nivel-akira-ghost-shell-nadie-recuerda-te-dejaran-boca-abierta-1395050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-peliculas-animacion-japonesa-nivel-akira-ghost-shell-nadie-recuerda-te-dejaran-boca-abierta-3699603.jpg?tf=1200x' alt='5 películas de animación japonesa al nivel de Akira o Ghost in the Shell que nadie recuerda y te dejarán con la boca abierta' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-bloquear-usuarios-tiktok-1388373'>¿Cómo bloquear usuarios en TikTok?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-bloquear-usuarios-tiktok-1388373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-bloquear-usuarios-tiktok-3390001.jpg?tf=1200x' alt='¿Cómo bloquear usuarios en TikTok?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/expediente-warren-dice-adios-sera-entrega-final-conjuring-1395405'>Expediente Warren dice adiós: así será la entrega final de The Conjuring</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/expediente-warren-dice-adios-sera-entrega-final-conjuring-1395405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/expediente-warren-obligado-demonio-2355615.jpg?tf=1200x' alt='Expediente Warren dice adiós: así será la entrega final de The Conjuring' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/posible-pc-explote-sobrecalentamiento-1394829'>¿Es posible que un PC explote por sobrecalentamiento?</a></h4>
-    <a href='https://computerhoy.com/pc/posible-pc-explote-sobrecalentamiento-1394829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pc-explota-sobrecalentamiento-3691934.jpg?tf=1200x' alt='¿Es posible que un PC explote por sobrecalentamiento?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/trucos-saber-whatsapp-te-espiando-microfono-camara-sepas-1394885'>Trucos para saber si WhatsApp te está espiando por el micrófono o la cámara sin que lo sepas</a></h4>
-    <a href='https://computerhoy.com/apps/trucos-saber-whatsapp-te-espiando-microfono-camara-sepas-1394885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trucos-saber-whatsapp-te-espiando-microfono-camara-sepas-3695531.jpg?tf=1200x' alt='Trucos para saber si WhatsApp te está espiando por el micrófono o la cámara sin que lo sepas' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-terror-ambientadas-parques-atracciones-1394852'>5 películas de terror ambientadas en parques de atracciones: cuando diversión y miedo van de la mano</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-terror-ambientadas-parques-atracciones-1394852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-peliculas-terror-ambientadas-parques-atracciones-cuando-diversion-miedo-van-mano-3692594.jpg?tf=1200x' alt='5 películas de terror ambientadas en parques de atracciones: cuando diversión y miedo van de la mano' />
     </a>
 </div>
 
