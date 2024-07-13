@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/consigue-llevar-mejor-waze-google-maps-coches-policia-aparecen-ahora-marcados-mapa-1395149'>Consigue llevar lo mejor de Waze a Google Maps: los coches de policía aparecen ahora marcados en el mapa</a></h4>
+    <a href='https://computerhoy.com/google/consigue-llevar-mejor-waze-google-maps-coches-policia-aparecen-ahora-marcados-mapa-1395149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/waze-avisos-3704617.jpg?tf=1200x' alt='Consigue llevar lo mejor de Waze a Google Maps: los coches de policía aparecen ahora marcados en el mapa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-cierra-navegador-probablemente-no-sabias-existia-1395496'>Google cierra un navegador que probablemente no sabías que existía</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-cierra-navegador-probablemente-no-sabias-existia-1395496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chromebook-dell-3719077.jpg?tf=1200x' alt='Google cierra un navegador que probablemente no sabías que existía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-desconocidas-diferentes-muy-sorprendentes-puedes-ver-netflix-1394719'>10 películas de ciencia ficción desconocidas, diferentes y muy sorprendentes que puedes ver en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-desconocidas-diferentes-muy-sorprendentes-puedes-ver-netflix-1394719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-peliculas-3691104.jpg?tf=1200x' alt='10 películas de ciencia ficción desconocidas, diferentes y muy sorprendentes que puedes ver en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-quiere-simplificar-maximo-barra-tareas-puede-no-te-guste-1395493'>Windows 11 quiere simplificar al máximo la barra de tareas y puede que no te guste</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-quiere-simplificar-maximo-barra-tareas-puede-no-te-guste-1395493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-3013954.jpg?tf=1200x' alt='Windows 11 quiere simplificar al máximo la barra de tareas y puede que no te guste' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-exportar-certificado-digital-dispositivo-otro-1394541'>Cómo exportar el certificado digital de un dispositivo a otro</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-exportar-certificado-digital-dispositivo-otro-1394541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/certificado-digital-2994750.jpg?tf=1200x' alt='Cómo exportar el certificado digital de un dispositivo a otro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-1394478'>El problema "pogo" estuvo cerca de impedir que la NASA llegase a la Luna: así lo solucionaron</a></h4>
-    <a href='https://computerhoy.com/espacio/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-1394478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/problema-pogo-estuvo-cerca-impedir-nasa-llegase-luna-solucionaron-3677236.jpg?tf=1200x' alt='El problema "pogo" estuvo cerca de impedir que la NASA llegase a la Luna: así lo solucionaron' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tengo-macbook-air-m1-sigue-siendo-top-ahora-cuesta-solo-800-euros-1394964'>Tengo este MacBook Air con M1 y sigue siendo top: ahora cuesta solo 800 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tengo-macbook-air-m1-sigue-siendo-top-ahora-cuesta-solo-800-euros-1394964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/macbook-3697572.jpg?tf=1200x' alt='Tengo este MacBook Air con M1 y sigue siendo top: ahora cuesta solo 800 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-correos-electronicos-archivados-gmail-devolverlos-bandeja-entrada-1395333'>Cómo encontrar correos electrónicos archivados en Gmail y devolverlos a la bandeja de entrada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-encontrar-correos-electronicos-archivados-gmail-devolverlos-bandeja-entrada-1395333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-oculto-gmail-te-permite-seguir-usando-correo-aunque-te-quedes-espacio-3281253.jpg?tf=1200x' alt='Cómo encontrar correos electrónicos archivados en Gmail y devolverlos a la bandeja de entrada' />
     </a>
 </div>
 
