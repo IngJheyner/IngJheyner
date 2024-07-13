@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/aire-enfria-mucho-rapido-poco-dinero-cuesta-160-euros-te-puede-llegar-manana-mismo-1395290'>Este aire enfría mucho, rápido y por poco dinero: cuesta 160 euros y te puede llegar mañana mismo</a></h4>
-    <a href='https://computerhoy.com/hogar/aire-enfria-mucho-rapido-poco-dinero-cuesta-160-euros-te-puede-llegar-manana-mismo-1395290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/forceclima-7100-3708949.jpg?tf=1200x' alt='Este aire enfría mucho, rápido y por poco dinero: cuesta 160 euros y te puede llegar mañana mismo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/apple-ha-alertado-nuevo-iphone-casi-100-paises-pueden-sufrir-ataque-software-espia-1395126'>Apple ha alertado (de nuevo) que los iPhone de casi 100 países pueden sufrir un ataque con software espía</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/apple-ha-alertado-nuevo-iphone-casi-100-paises-pueden-sufrir-ataque-software-espia-1395126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-ha-alertado-nuevo-iphone-casi-100-paises-potencial-ataque-software-espia-3704310.jpg?tf=1200x' alt='Apple ha alertado (de nuevo) que los iPhone de casi 100 países pueden sufrir un ataque con software espía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/electrodomesticos-debes-desenchufar-cuando-te-vas-vacaciones-no-1393671'>Electrodomésticos que debes desenchufar cuando te vas de vacaciones (y los que no)</a></h4>
-    <a href='https://computerhoy.com/hogar/electrodomesticos-debes-desenchufar-cuando-te-vas-vacaciones-no-1393671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/enchufe-europeo-3711896.jpg?tf=1200x' alt='Electrodomésticos que debes desenchufar cuando te vas de vacaciones (y los que no)' />
+    <h4><a href='https://computerhoy.com/alimentacion/inventan-helado-no-derrite-durante-4-horas-pero-tiene-gran-inconveniente-1394331'>Inventan un helado que no se derrite durante 4 horas, pero tiene un gran inconveniente</a></h4>
+    <a href='https://computerhoy.com/alimentacion/inventan-helado-no-derrite-durante-4-horas-pero-tiene-gran-inconveniente-1394331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chica-comiendo-helado-3682708.jpg?tf=1200x' alt='Inventan un helado que no se derrite durante 4 horas, pero tiene un gran inconveniente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/hablar-mal-jefe-conversacion-privada-incluso-whatsapp-no-motivo-despido-1394479'>Hablar mal de tu jefe en una conversación privada (incluso en WhatsApp) no es motivo de despido</a></h4>
-    <a href='https://computerhoy.com/apps/hablar-mal-jefe-conversacion-privada-incluso-whatsapp-no-motivo-despido-1394479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hablar-mal-jefe-conversacion-privada-incluso-whatsapp-no-motivo-despedir-3682488.jpg?tf=1200x' alt='Hablar mal de tu jefe en una conversación privada (incluso en WhatsApp) no es motivo de despido' />
+    <h4><a href='https://computerhoy.com/apple/apple-watch-series-x-todo-sabe-futuro-smartwatch-apple-1394524'>Apple Watch Series X: todo lo que se sabe del futuro smartwatch de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-series-x-todo-sabe-futuro-smartwatch-apple-1394524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-3291677.jpg?tf=1200x' alt='Apple Watch Series X: todo lo que se sabe del futuro smartwatch de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tener-elon-musk-como-jefe-todo-menos-camino-rosas-ceo-x-1394523'>Tener a Elon Musk como jefe es de todo menos un camino de rosas según la CEO de X</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tener-elon-musk-como-jefe-todo-menos-camino-rosas-ceo-x-1394523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-presenta-linda-yaccarino-nueva-ceo-twitter-ejecutiva-nbc-no-ha-gustado-nada-seguidores-3032568.jpg?tf=1200x' alt='Tener a Elon Musk como jefe es de todo menos un camino de rosas según la CEO de X' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-laberinto-dificil-mundo-bucles-repiten-infinito-1395318'>Crean el laberinto más difícil del mundo con bucles que se repiten hasta el infinito</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-laberinto-dificil-mundo-bucles-repiten-infinito-1395318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crean-laberinto-dificil-mundo-bucles-repiten-infinito-3711237.jpg?tf=1200x' alt='Crean el laberinto más difícil del mundo con bucles que se repiten hasta el infinito' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-fija-5-niveles-alcanzar-inteligencia-artificial-general-ahora-1395317'>OpenAI fija 5 niveles para alcanzar la inteligencia artificial general y este es el de ahora</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-fija-5-niveles-alcanzar-inteligencia-artificial-general-ahora-1395317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-general-3711232.jpg?tf=1200x' alt='OpenAI fija 5 niveles para alcanzar la inteligencia artificial general y este es el de ahora' />
+    <h4><a href='https://computerhoy.com/motor/autocaravana-obra-maestra-ingenieria-plegable-convertible-cualquier-plaza-garaje-1395121'>Esta autocaravana es una obra maestra de ingeniería: plegable, convertible y cabe en cualquier plaza de garaje</a></h4>
+    <a href='https://computerhoy.com/motor/autocaravana-obra-maestra-ingenieria-plegable-convertible-cualquier-plaza-garaje-1395121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/autocaravana-plegable-3704308.jpg?tf=1200x' alt='Esta autocaravana es una obra maestra de ingeniería: plegable, convertible y cabe en cualquier plaza de garaje' />
     </a>
 </div>
 
