@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-espiar-dispositivos-conectados-red-wifi-1394675'>Cómo espiar los dispositivos conectados a tu red WiFi</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-espiar-dispositivos-conectados-red-wifi-1394675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/espiar-wifi-3711738.jpg?tf=1200x' alt='Cómo espiar los dispositivos conectados a tu red WiFi' />
+    <h4><a href='https://computerhoy.com/hogar/aire-enfria-mucho-rapido-poco-dinero-cuesta-160-euros-te-puede-llegar-manana-mismo-1395290'>Este aire enfría mucho, rápido y por poco dinero: cuesta 160 euros y te puede llegar mañana mismo</a></h4>
+    <a href='https://computerhoy.com/hogar/aire-enfria-mucho-rapido-poco-dinero-cuesta-160-euros-te-puede-llegar-manana-mismo-1395290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/forceclima-7100-3708949.jpg?tf=1200x' alt='Este aire enfría mucho, rápido y por poco dinero: cuesta 160 euros y te puede llegar mañana mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312'>Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puncher-p30-destruye-discos-duros-ssd-aplicando-12-toneladas-presion-3710638.jpg?tf=1200x' alt='Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión' />
+    <h4><a href='https://computerhoy.com/hogar/electrodomesticos-debes-desenchufar-cuando-te-vas-vacaciones-no-1393671'>Electrodomésticos que debes desenchufar cuando te vas de vacaciones (y los que no)</a></h4>
+    <a href='https://computerhoy.com/hogar/electrodomesticos-debes-desenchufar-cuando-te-vas-vacaciones-no-1393671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/enchufe-europeo-3711896.jpg?tf=1200x' alt='Electrodomésticos que debes desenchufar cuando te vas de vacaciones (y los que no)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/cosas-gemini-puede-hacer-ti-dia-dia-1393959'>12 cosas que Gemini puede hacer por ti en tu día a día</a></h4>
-    <a href='https://computerhoy.com/apps/cosas-gemini-puede-hacer-ti-dia-dia-1393959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gemini-ai-3651079.jpg?tf=1200x' alt='12 cosas que Gemini puede hacer por ti en tu día a día' />
+    <h4><a href='https://computerhoy.com/apps/hablar-mal-jefe-conversacion-privada-incluso-whatsapp-no-motivo-despido-1394479'>Hablar mal de tu jefe en una conversación privada (incluso en WhatsApp) no es motivo de despido</a></h4>
+    <a href='https://computerhoy.com/apps/hablar-mal-jefe-conversacion-privada-incluso-whatsapp-no-motivo-despido-1394479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hablar-mal-jefe-conversacion-privada-incluso-whatsapp-no-motivo-despedir-3682488.jpg?tf=1200x' alt='Hablar mal de tu jefe en una conversación privada (incluso en WhatsApp) no es motivo de despido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/duerme-flotador-playa-despierta-19-horas-despues-alta-mar-1395479'>Se duerme en un flotador en la playa, y despierta 19 horas después en alta mar </a></h4>
-    <a href='https://computerhoy.com/life/duerme-flotador-playa-despierta-19-horas-despues-alta-mar-1395479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/duerme-flotador-playa-despierta-19-horas-despues-alta-mar-3717795.jpg?tf=1200x' alt='Se duerme en un flotador en la playa, y despierta 19 horas después en alta mar ' />
+    <h4><a href='https://computerhoy.com/tecnologia/tener-elon-musk-como-jefe-todo-menos-camino-rosas-ceo-x-1394523'>Tener a Elon Musk como jefe es de todo menos un camino de rosas según la CEO de X</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tener-elon-musk-como-jefe-todo-menos-camino-rosas-ceo-x-1394523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-presenta-linda-yaccarino-nueva-ceo-twitter-ejecutiva-nbc-no-ha-gustado-nada-seguidores-3032568.jpg?tf=1200x' alt='Tener a Elon Musk como jefe es de todo menos un camino de rosas según la CEO de X' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hijo-quiere-subir-videos-tiktok-fotos-instagram-cuando-deberias-permitir-adentre-redes-sociales-1394647'>Tu hijo quiere subir vídeos a TikTok o fotos a Instagram: ¿Cuándo deberías permitir que se adentre en las redes sociales?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hijo-quiere-subir-videos-tiktok-fotos-instagram-cuando-deberias-permitir-adentre-redes-sociales-1394647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/moviles-ninos-3699756.jpg?tf=1200x' alt='Tu hijo quiere subir vídeos a TikTok o fotos a Instagram: ¿Cuándo deberías permitir que se adentre en las redes sociales?' />
+    <h4><a href='https://computerhoy.com/tecnologia/openai-fija-5-niveles-alcanzar-inteligencia-artificial-general-ahora-1395317'>OpenAI fija 5 niveles para alcanzar la inteligencia artificial general y este es el de ahora</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-fija-5-niveles-alcanzar-inteligencia-artificial-general-ahora-1395317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-general-3711232.jpg?tf=1200x' alt='OpenAI fija 5 niveles para alcanzar la inteligencia artificial general y este es el de ahora' />
     </a>
 </div>
 
