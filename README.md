@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/expediente-warren-dice-adios-sera-entrega-final-conjuring-1395405'>Expediente Warren dice adiós: así será la entrega final de The Conjuring</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/expediente-warren-dice-adios-sera-entrega-final-conjuring-1395405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/expediente-warren-obligado-demonio-2355615.jpg?tf=1200x' alt='Expediente Warren dice adiós: así será la entrega final de The Conjuring' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ambientadas-antigua-roma-1391473'>Gladiadores, intrigas y épicas batallas: 5 joyas del cine ambientadas en la Antigua Roma</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ambientadas-antigua-roma-1391473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-solo-gladiator-5-peliculas-ambientadas-imperio-romano-no-puedes-perderte-3534662.jpg?tf=1200x' alt='Gladiadores, intrigas y épicas batallas: 5 joyas del cine ambientadas en la Antigua Roma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/trucos-saber-whatsapp-te-espiando-microfono-camara-sepas-1394885'>Trucos para saber si WhatsApp te está espiando por el micrófono o la cámara sin que lo sepas</a></h4>
+    <a href='https://computerhoy.com/apps/trucos-saber-whatsapp-te-espiando-microfono-camara-sepas-1394885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trucos-saber-whatsapp-te-espiando-microfono-camara-sepas-3695531.jpg?tf=1200x' alt='Trucos para saber si WhatsApp te está espiando por el micrófono o la cámara sin que lo sepas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-proteger-movil-llaves-tarjetas-ataques-flipper-zero-otros-dispositivos-hackeo-1394590'>Cómo proteger tu móvil, llaves y tarjetas de los ataques de Flipper Zero y otros dispositivos de hackeo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-proteger-movil-llaves-tarjetas-ataques-flipper-zero-otros-dispositivos-hackeo-1394590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-proteger-movil-llaves-tarjetas-ataques-flipper-zero-otros-dispositivos-hackeo-3683739.jpg?tf=1200x' alt='Cómo proteger tu móvil, llaves y tarjetas de los ataques de Flipper Zero y otros dispositivos de hackeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-divertido-seres-humanos-estudio-1395512'>ChatGPT ya es más divertido que los seres humanos, según este estudio</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-ya-divertido-seres-humanos-estudio-1395512' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-ya-divertido-seres-humanos-3720107.jpg?tf=1200x' alt='ChatGPT ya es más divertido que los seres humanos, según este estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-1395355'>Sam Altman quiere que la inteligencia artificial sea tu próximo médico, y OpenAI ya está trabajando al respecto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-1395355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-3711724.jpg?tf=1200x' alt='Sam Altman quiere que la inteligencia artificial sea tu próximo médico, y OpenAI ya está trabajando al respecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-fotografias-grupo-whatsapp-galeria-1394589'>Cómo ocultar las fotografías de un grupo de WhatsApp de la galería</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-fotografias-grupo-whatsapp-galeria-1394589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-3684064.jpg?tf=1200x' alt='Cómo ocultar las fotografías de un grupo de WhatsApp de la galería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/truco-pajita-hack-definitivo-mantener-movil-impecable-libre-polvo-1394636'>El truco de la pajita, el hack definitivo para mantener tu móvil impecable libre de polvo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/truco-pajita-hack-definitivo-mantener-movil-impecable-libre-polvo-1394636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/truco-pajita-hack-definitivo-mantener-movil-impecable-libre-polvo-3685286.jpg?tf=1200x' alt='El truco de la pajita, el hack definitivo para mantener tu móvil impecable libre de polvo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cascos-sennheiser-cancelacion-ruido-amantes-sonido-rebajadisimos-amazon-1395463'>Los cascos Sennheiser con cancelación de ruido para amantes del sonido, rebajadísimos en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cascos-sennheiser-cancelacion-ruido-amantes-sonido-rebajadisimos-amazon-1395463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sennheiser-accentum-plus-3715804.jpg?tf=1200x' alt='Los cascos Sennheiser con cancelación de ruido para amantes del sonido, rebajadísimos en Amazon' />
     </a>
 </div>
 
