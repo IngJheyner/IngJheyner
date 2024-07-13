@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/no-sabemos-como-nintendo-switch-2-ni-cuando-saldra-venta-pero-ya-ha-hecho-historia-1395401'>No sabemos cómo es Nintendo Switch 2, ni cuando saldrá a la venta, pero ya ha hecho historia</a></h4>
+    <a href='https://computerhoy.com/gaming/no-sabemos-como-nintendo-switch-2-ni-cuando-saldra-venta-pero-ya-ha-hecho-historia-1395401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nintendo-switch-2-3712859.jpg?tf=1200x' alt='No sabemos cómo es Nintendo Switch 2, ni cuando saldrá a la venta, pero ya ha hecho historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/espectacular-telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-1395211'>¡Espectacular! El telescopio James Webb ha captado un agujero negro mientras engulle una galaxia</a></h4>
+    <a href='https://computerhoy.com/espacio/espectacular-telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-1395211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-3705705.jpg?tf=1200x' alt='¡Espectacular! El telescopio James Webb ha captado un agujero negro mientras engulle una galaxia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/significa-nsfw-usa-internet-1394539'>¿Qué significa NSFW y por qué se usa en internet?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/significa-nsfw-usa-internet-1394539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/seguridad-internet-3683072.jpg?tf=1200x' alt='¿Qué significa NSFW y por qué se usa en internet?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hotel-nunca-pierde-truco-tres-dias-hoteles-debes-conocer-antes-reservar-1393933'>El hotel nunca pierde: el truco de los tres días en los hoteles que debes conocer antes de reservar</a></h4>
+    <a href='https://computerhoy.com/life/hotel-nunca-pierde-truco-tres-dias-hoteles-debes-conocer-antes-reservar-1393933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hotel-casino-3705412.jpg?tf=1200x' alt='El hotel nunca pierde: el truco de los tres días en los hoteles que debes conocer antes de reservar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-elimina-barreras-idioma-nueva-funcion-permitira-traducir-chats-instante-1395506'>WhatsApp elimina las barreras del idioma: esta nueva función permitirá traducir chats al instante</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-elimina-barreras-idioma-nueva-funcion-permitira-traducir-chats-instante-1395506' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-idiomas-2796581.jpg?tf=1200x' alt='WhatsApp elimina las barreras del idioma: esta nueva función permitirá traducir chats al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-1395173'>El astronauta que pasó 178 días en el espacio confiesa la gran mentira de la que se dio cuenta tras ver la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-1395173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-3704933.jpg?tf=1200x' alt='El astronauta que pasó 178 días en el espacio confiesa la gran mentira de la que se dio cuenta tras ver la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/pasa-configuras-todos-valores-registro-cero-windows-10-1395222'>Esto es lo que pasa si configuras todos los valores de Registro a 'cero' en Windows 10 </a></h4>
-    <a href='https://computerhoy.com/windows/pasa-configuras-todos-valores-registro-cero-windows-10-1395222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ver-creer-microsoft-lanza-primera-beta-windows-10-2021-nuevas-funciones-mejoras-3452735.jpg?tf=1200x' alt='Esto es lo que pasa si configuras todos los valores de Registro a 'cero' en Windows 10 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/china-logra-sol-artificial-genere-campo-magnetico-avanzando-creacion-energia-limpia-casi-ilimitada-1395369'>China logra que su sol artificial genere un campo magnético, avanzando hacia la creación de energía limpia casi ilimitada</a></h4>
-    <a href='https://computerhoy.com/energia/china-logra-sol-artificial-genere-campo-magnetico-avanzando-creacion-energia-limpia-casi-ilimitada-1395369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fusion-nuclear-3122678.jpg?tf=1200x' alt='China logra que su sol artificial genere un campo magnético, avanzando hacia la creación de energía limpia casi ilimitada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/bloc-notas-windows-funcion-llevas-esperando-40-anos-microsoft-1394572'>Microsoft añade al Bloc de notas de Windows la función que llevas esperando más de 40 años</a></h4>
-    <a href='https://computerhoy.com/windows/bloc-notas-windows-funcion-llevas-esperando-40-anos-microsoft-1394572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/blog-notas-windows-3683579.jpg?tf=1200x' alt='Microsoft añade al Bloc de notas de Windows la función que llevas esperando más de 40 años' />
     </a>
 </div>
 
