@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671'>Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana</a></h4>
+    <a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-3686413.jpg?tf=1200x' alt='Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-1394678'>Una nueva estafa camufla gráficas RTX 3080 Ti como si fueran RTX 4090 con un nivel de detalle increíble</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-1394678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-3686487.jpg?tf=1200x' alt='Una nueva estafa camufla gráficas RTX 3080 Ti como si fueran RTX 4090 con un nivel de detalle increíble' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/me-encanta-google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-1395417'>Me encanta Google Maps en Android Auto, pero lo he perfeccionado "dopándola" con esta app para detectar radares</a></h4>
+    <a href='https://computerhoy.com/android/me-encanta-google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-1395417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/me-encanta-google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-3715097.jpg?tf=1200x' alt='Me encanta Google Maps en Android Auto, pero lo he perfeccionado "dopándola" con esta app para detectar radares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283'>Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/supercomputadora-cuantica-3707957.jpg?tf=1200x' alt='Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/icing-nueva-pesadilla-coches-electricos-dgt-quiere-acabar-base-multas-1395281'>Icing: la nueva pesadilla de los coches eléctricos con la que la DGT quiere acabar a base de multas</a></h4>
     <a href='https://computerhoy.com/motor/icing-nueva-pesadilla-coches-electricos-dgt-quiere-acabar-base-multas-1395281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aparcamiento-subterraneo-3707954.jpg?tf=1200x' alt='Icing: la nueva pesadilla de los coches eléctricos con la que la DGT quiere acabar a base de multas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/generador-voz-ia-microsoft-alcanza-paridad-humana-extremadamente-peligroso-1395280'>El generador de voz con IA de Microsoft alcanza la paridad humana: y esto es extremadamente peligroso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/generador-voz-ia-microsoft-alcanza-paridad-humana-extremadamente-peligroso-1395280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vall-2-3707939.jpg?tf=1200x' alt='El generador de voz con IA de Microsoft alcanza la paridad humana: y esto es extremadamente peligroso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cae-importante-red-servicios-iptv-pirata-lanzan-dura-amenaza-usuarios-1395243'>Cae una importante red de servicios IPTV pirata y lanzan una dura amenaza a sus usuarios</a></h4>
-    <a href='https://computerhoy.com/internet/cae-importante-red-servicios-iptv-pirata-lanzan-dura-amenaza-usuarios-1395243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cae-importante-red-servicios-iptv-pirata-lanzan-dura-amenaza-usuarios-3707754.jpg?tf=1200x' alt='Cae una importante red de servicios IPTV pirata y lanzan una dura amenaza a sus usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-te-facilitara-gestion-modo-energia-windows-11-estas-nuevas-opciones-1395532'>Microsoft te facilitará la gestión del modo de energía en Windows 11 con estas nuevas opciones</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-te-facilitara-gestion-modo-energia-windows-11-estas-nuevas-opciones-1395532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-limitar-carga-bateria-80-windows-11-deberias-hacerlo-ahora-mismo-3406383.jpg?tf=1200x' alt='Microsoft te facilitará la gestión del modo de energía en Windows 11 con estas nuevas opciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/rios-mercurio-tumba-primer-emperador-chino-1287220'>Trampas explosivas y ríos de mercurio protegen la tumba del primer emperador chino y sus guerreros de terracota</a></h4>
-    <a href='https://computerhoy.com/life/rios-mercurio-tumba-primer-emperador-chino-1287220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/guerreros-terracota-3263732.jpg?tf=1200x' alt='Trampas explosivas y ríos de mercurio protegen la tumba del primer emperador chino y sus guerreros de terracota' />
     </a>
 </div>
 
