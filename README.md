@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/tienes-cable-tv-habitaciones-acabas-encontrar-oro-podras-hacer-conexion-internet-vuele-1395277'>Si tienes este cable de TV en tus habitaciones, acabas de encontrar oro: podrás hacer que tu conexión a internet vuele</a></h4>
-    <a href='https://computerhoy.com/redes/tienes-cable-tv-habitaciones-acabas-encontrar-oro-podras-hacer-conexion-internet-vuele-1395277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tienes-cable-tv-habitaciones-acabas-encontrar-oro-podras-hacer-conexion-internet-vuele-3708809.jpg?tf=1200x' alt='Si tienes este cable de TV en tus habitaciones, acabas de encontrar oro: podrás hacer que tu conexión a internet vuele' />
+    <h4><a href='https://computerhoy.com/life/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-1395295'>Centralia, el pueblo fantasma que lleva 60 años ardiendo, y no parará en 200 años</a></h4>
+    <a href='https://computerhoy.com/life/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-1395295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-no-parara-200-anos-3709234.jpg?tf=1200x' alt='Centralia, el pueblo fantasma que lleva 60 años ardiendo, y no parará en 200 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/ni-cables-ni-antena-como-ver-toda-tdt-amazon-fire-tv-app-enlace-magico-1395460'>Ni cables ni antena: cómo ver toda la TDT en un Amazon Fire TV con una app y un enlace "mágico"</a></h4>
-    <a href='https://computerhoy.com/tv/ni-cables-ni-antena-como-ver-toda-tdt-amazon-fire-tv-app-enlace-magico-1395460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-cables-ni-antena-como-ver-toda-tdt-amazon-fire-tv-app-enlace-magico-3715801.jpg?tf=1200x' alt='Ni cables ni antena: cómo ver toda la TDT en un Amazon Fire TV con una app y un enlace "mágico"' />
+    <h4><a href='https://computerhoy.com/gaming/microsoft-ya-no-oculta-futuro-xbox-consolas-1395466'>Microsoft ya no oculta el futuro de Xbox sin consolas</a></h4>
+    <a href='https://computerhoy.com/gaming/microsoft-ya-no-oculta-futuro-xbox-consolas-1395466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-ya-no-oculta-futuro-xbox-consolas-3715802.jpg?tf=1200x' alt='Microsoft ya no oculta el futuro de Xbox sin consolas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/pictionary-contra-ia-1394490'>Ya está a la venta el Pictionary en el que juegas contra la IA</a></h4>
-    <a href='https://computerhoy.com/gaming/pictionary-contra-ia-1394490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1720387699936-3679792.jpg?tf=1200x' alt='Ya está a la venta el Pictionary en el que juegas contra la IA' />
+    <h4><a href='https://computerhoy.com/internet/mejores-consejos-poder-ganar-dinero-tiktok-1388592'>Los mejores consejos para poder ganar dinero en TikTok</a></h4>
+    <a href='https://computerhoy.com/internet/mejores-consejos-poder-ganar-dinero-tiktok-1388592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mejores-consejos-poder-ganar-dinero-tiktok-3398599.jpg?tf=1200x' alt='Los mejores consejos para poder ganar dinero en TikTok' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/rufus-chatgpt-amazon-ayuda-comprar-llega-usuarios-1395461'>Rufus, el ChatGPT de Amazon que te ayuda a comprar, llega a los usuarios</a></h4>
-    <a href='https://computerhoy.com/amazon/rufus-chatgpt-amazon-ayuda-comprar-llega-usuarios-1395461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rufus-chatgpt-amazon-te-ayuda-comprar-llega-usuarios-3714954.jpg?tf=1200x' alt='Rufus, el ChatGPT de Amazon que te ayuda a comprar, llega a los usuarios' />
+    <h4><a href='https://computerhoy.com/tecnologia/descubre-tinder-plus-ventajas-precios-todo-necesitas-saber-1394566'>Descubre Tinder Plus: ventajas, precios y todo lo que necesitas saber</a></h4>
+    <a href='https://computerhoy.com/tecnologia/descubre-tinder-plus-ventajas-precios-todo-necesitas-saber-1394566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tinder-plus-3683576.jpg?tf=1200x' alt='Descubre Tinder Plus: ventajas, precios y todo lo que necesitas saber' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-desvela-espectacular-estacion-espacial-gateway-luna-1394489'>La NASA desvela la espectacular estación espacial Gateway, que orbitará la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-desvela-espectacular-estacion-espacial-gateway-luna-1394489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1720382225470-3679367.jpg?tf=1200x' alt='La NASA desvela la espectacular estación espacial Gateway, que orbitará la Luna' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-miran-amazon-debes-protegerte-no-caer-estafas-prime-day-1395198'>Los ciberdelincuentes miran a Amazon: así debes protegerte para no caer en las estafas del Prime Day</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-miran-amazon-debes-protegerte-no-caer-estafas-prime-day-1395198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-day-reloj-arena-3081928.jpg?tf=1200x' alt='Los ciberdelincuentes miran a Amazon: así debes protegerte para no caer en las estafas del Prime Day' />
     </a>
 </div>
 
