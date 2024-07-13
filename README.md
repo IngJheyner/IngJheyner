@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/no-sabemos-como-nintendo-switch-2-ni-cuando-saldra-venta-pero-ya-ha-hecho-historia-1395401'>No sabemos cómo es Nintendo Switch 2, ni cuando saldrá a la venta, pero ya ha hecho historia</a></h4>
-    <a href='https://computerhoy.com/gaming/no-sabemos-como-nintendo-switch-2-ni-cuando-saldra-venta-pero-ya-ha-hecho-historia-1395401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nintendo-switch-2-3712859.jpg?tf=1200x' alt='No sabemos cómo es Nintendo Switch 2, ni cuando saldrá a la venta, pero ya ha hecho historia' />
+    <h4><a href='https://computerhoy.com/tecnologia/significan-luces-verdes-rojas-raspberry-pi-1395089'>¿Qué significan las luces verdes y rojas en una Raspberry Pi?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/significan-luces-verdes-rojas-raspberry-pi-1395089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/significan-luces-verdes-rojas-raspberry-pi-3701993.jpg?tf=1200x' alt='¿Qué significan las luces verdes y rojas en una Raspberry Pi?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/espectacular-telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-1395211'>¡Espectacular! El telescopio James Webb ha captado un agujero negro mientras engulle una galaxia</a></h4>
-    <a href='https://computerhoy.com/espacio/espectacular-telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-1395211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-3705705.jpg?tf=1200x' alt='¡Espectacular! El telescopio James Webb ha captado un agujero negro mientras engulle una galaxia' />
+    <h4><a href='https://computerhoy.com/windows/menu-inicio-windows-11-va-inspirar-ios-categorias-aplicaciones-1395509'>El menú inicio de Windows 11 se va a inspirar en iOS con categorías de aplicaciones</a></h4>
+    <a href='https://computerhoy.com/windows/menu-inicio-windows-11-va-inspirar-ios-categorias-aplicaciones-1395509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ordenador-menu-inicio-windows-11-3264756.jpg?tf=1200x' alt='El menú inicio de Windows 11 se va a inspirar en iOS con categorías de aplicaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/significa-nsfw-usa-internet-1394539'>¿Qué significa NSFW y por qué se usa en internet?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/significa-nsfw-usa-internet-1394539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/seguridad-internet-3683072.jpg?tf=1200x' alt='¿Qué significa NSFW y por qué se usa en internet?' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-ia-actualmente-no-inteligente-gato-1395343'>Según Google, la IA actualmente no es más inteligente que un gato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-ia-actualmente-no-inteligente-gato-1395343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-ia-actualmente-no-inteligente-gato-3711551.jpg?tf=1200x' alt='Según Google, la IA actualmente no es más inteligente que un gato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hotel-nunca-pierde-truco-tres-dias-hoteles-debes-conocer-antes-reservar-1393933'>El hotel nunca pierde: el truco de los tres días en los hoteles que debes conocer antes de reservar</a></h4>
-    <a href='https://computerhoy.com/life/hotel-nunca-pierde-truco-tres-dias-hoteles-debes-conocer-antes-reservar-1393933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hotel-casino-3705412.jpg?tf=1200x' alt='El hotel nunca pierde: el truco de los tres días en los hoteles que debes conocer antes de reservar' />
+    <h4><a href='https://computerhoy.com/windows/auto-sr-sirve-como-funciona-windows-11-1394013'>Qué es Auto SR, para qué sirve y cómo funciona en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/auto-sr-sirve-como-funciona-windows-11-1394013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/auto-sr-sirve-como-funciona-windows-11-3653725.jpg?tf=1200x' alt='Qué es Auto SR, para qué sirve y cómo funciona en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-elimina-barreras-idioma-nueva-funcion-permitira-traducir-chats-instante-1395506'>WhatsApp elimina las barreras del idioma: esta nueva función permitirá traducir chats al instante</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-elimina-barreras-idioma-nueva-funcion-permitira-traducir-chats-instante-1395506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-idiomas-2796581.jpg?tf=1200x' alt='WhatsApp elimina las barreras del idioma: esta nueva función permitirá traducir chats al instante' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-resetear-algoritmo-tiktok-truco-definitivo-1391509'>Cómo resetear el algoritmo de TikTok con este truco definitivo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-resetear-algoritmo-tiktok-truco-definitivo-1391509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-resetear-algoritmo-tiktok-truco-definitivo-3536173.jpg?tf=1200x' alt='Cómo resetear el algoritmo de TikTok con este truco definitivo' />
     </a>
 </div>
 
