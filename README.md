@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hungria-usan-drones-salvar-cervatillos-aves-cosechadoras-1395471'>En Hungría usan drones para salvar a los cervatillos y las aves de las cosechadoras </a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104'>The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-3703264.jpg?tf=1200x' alt='The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-espacio-ps5-trucos-desbloquear-almacenamiento-1387499'>Cómo liberar espacio en tu PS5: 5 trucos infalibles para desbloquear almacenamiento en tu consola</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-liberar-espacio-ps5-trucos-desbloquear-almacenamiento-1387499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ps5-playstation-5-3128532.jpg?tf=1200x' alt='Cómo liberar espacio en tu PS5: 5 trucos infalibles para desbloquear almacenamiento en tu consola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hungria-usan-drones-salvar-cervatillos-aves-cosechadoras-1395471'>En Hungría usan drones para salvar a los cervatillos y las aves de las cosechadoras</a></h4>
     <a href='https://computerhoy.com/tecnologia/hungria-usan-drones-salvar-cervatillos-aves-cosechadoras-1395471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hungria-usan-drones-salvar-cervatillos-aves-cosechadoras-3717493.jpg?tf=1200x' alt='En Hungría usan drones para salvar a los cervatillos y las aves de las cosechadoras ' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hungria-usan-drones-salvar-cervatillos-aves-cosechadoras-3717493.jpg?tf=1200x' alt='En Hungría usan drones para salvar a los cervatillos y las aves de las cosechadoras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-1395134'>¿Por qué recuerdas unas cosas sí y otras no? Así lo explica un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/ciencia/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-1395134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-3704314.jpg?tf=1200x' alt='¿Por qué recuerdas unas cosas sí y otras no? Así lo explica un nuevo estudio' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/doxing-usan-ciberdelincuentes-inteligencia-artificial-estafarte-1394721'>Doxing: así usan los ciberdelincuentes la inteligencia artificial para estafarte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/doxing-usan-ciberdelincuentes-inteligencia-artificial-estafarte-1394721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-inteligencia-artificial-3698181.jpg?tf=1200x' alt='Doxing: así usan los ciberdelincuentes la inteligencia artificial para estafarte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estudio-razon-eres-inteligente-ia-aun-1394652'>Según un estudio, esta es la razón por la que eres más inteligente que la IA (aún)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estudio-razon-eres-inteligente-ia-aun-1394652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estudio-razon-eres-listo-ia-aun-3685125.jpg?tf=1200x' alt='Según un estudio, esta es la razón por la que eres más inteligente que la IA (aún)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/coordenadas-raras-puedes-ver-google-maps-306159'>Las coordenadas más raras que puedes ver en Google Maps</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/coordenadas-raras-puedes-ver-google-maps-306159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/coordenadas-raras-puedes-ver-google-maps-3703266.jpg?tf=1200x' alt='Las coordenadas más raras que puedes ver en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/privadovpn-vpn-barata-control-parental-1394408'>Esta VPN cuesta menos que un café y tiene hasta control parental</a></h4>
-    <a href='https://computerhoy.com/tecnologia/privadovpn-vpn-barata-control-parental-1394408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/privadovpn-3683118.jpg?tf=1200x' alt='Esta VPN cuesta menos que un café y tiene hasta control parental' />
+    <h4><a href='https://computerhoy.com/apps/razon-audios-whatsapp-pueden-estar-fomentando-ghosting-quererlo-1395122'>Esta es la razón por las que los audios de WhatsApp pueden estar fomentando el ghosting sin quererlo</a></h4>
+    <a href='https://computerhoy.com/apps/razon-audios-whatsapp-pueden-estar-fomentando-ghosting-quererlo-1395122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-ghosting-3705706.jpg?tf=1200x' alt='Esta es la razón por las que los audios de WhatsApp pueden estar fomentando el ghosting sin quererlo' />
     </a>
 </div>
 
