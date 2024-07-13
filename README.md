@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-elimina-barreras-idioma-nueva-funcion-permitira-traducir-chats-instante-1395506'>WhatsApp elimina las barreras del idioma: esta nueva función permitirá traducir chats al instante</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-elimina-barreras-idioma-nueva-funcion-permitira-traducir-chats-instante-1395506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-idiomas-2796581.jpg?tf=1200x' alt='WhatsApp elimina las barreras del idioma: esta nueva función permitirá traducir chats al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-1395173'>El astronauta que pasó 178 días en el espacio confiesa la gran mentira de la que se dio cuenta tras ver la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-1395173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/astronauta-paso-178-dias-espacio-confiesa-gran-mentira-dio-cuenta-ver-tierra-3704933.jpg?tf=1200x' alt='El astronauta que pasó 178 días en el espacio confiesa la gran mentira de la que se dio cuenta tras ver la Tierra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/bloc-notas-windows-funcion-llevas-esperando-40-anos-microsoft-1394572'>Microsoft añade al Bloc de notas de Windows la función que llevas esperando más de 40 años</a></h4>
     <a href='https://computerhoy.com/windows/bloc-notas-windows-funcion-llevas-esperando-40-anos-microsoft-1394572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/blog-notas-windows-3683579.jpg?tf=1200x' alt='Microsoft añade al Bloc de notas de Windows la función que llevas esperando más de 40 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/rescatado-oceano-apple-watch-perdido-vuelve-dueno-gracias-find-my-1395500'>Rescatado del océano: un Apple Watch perdido vuelve a su dueño gracias a Find My</a></h4>
-    <a href='https://computerhoy.com/apple/rescatado-oceano-apple-watch-perdido-vuelve-dueno-gracias-find-my-1395500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-watch-3719516.jpg?tf=1200x' alt='Rescatado del océano: un Apple Watch perdido vuelve a su dueño gracias a Find My' />
     </a>
 </div>
 
