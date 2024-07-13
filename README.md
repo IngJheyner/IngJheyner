@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104'>The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-3703264.jpg?tf=1200x' alt='The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-espiar-dispositivos-conectados-red-wifi-1394675'>Cómo espiar los dispositivos conectados a tu red WiFi</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-espiar-dispositivos-conectados-red-wifi-1394675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/espiar-wifi-3711738.jpg?tf=1200x' alt='Cómo espiar los dispositivos conectados a tu red WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-espacio-ps5-trucos-desbloquear-almacenamiento-1387499'>Cómo liberar espacio en tu PS5: 5 trucos infalibles para desbloquear almacenamiento en tu consola</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-liberar-espacio-ps5-trucos-desbloquear-almacenamiento-1387499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ps5-playstation-5-3128532.jpg?tf=1200x' alt='Cómo liberar espacio en tu PS5: 5 trucos infalibles para desbloquear almacenamiento en tu consola' />
+    <h4><a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312'>Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puncher-p30-destruye-discos-duros-ssd-aplicando-12-toneladas-presion-3710638.jpg?tf=1200x' alt='Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hungria-usan-drones-salvar-cervatillos-aves-cosechadoras-1395471'>En Hungría usan drones para salvar a los cervatillos y las aves de las cosechadoras</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hungria-usan-drones-salvar-cervatillos-aves-cosechadoras-1395471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hungria-usan-drones-salvar-cervatillos-aves-cosechadoras-3717493.jpg?tf=1200x' alt='En Hungría usan drones para salvar a los cervatillos y las aves de las cosechadoras' />
+    <h4><a href='https://computerhoy.com/apps/cosas-gemini-puede-hacer-ti-dia-dia-1393959'>12 cosas que Gemini puede hacer por ti en tu día a día</a></h4>
+    <a href='https://computerhoy.com/apps/cosas-gemini-puede-hacer-ti-dia-dia-1393959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gemini-ai-3651079.jpg?tf=1200x' alt='12 cosas que Gemini puede hacer por ti en tu día a día' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/doxing-usan-ciberdelincuentes-inteligencia-artificial-estafarte-1394721'>Doxing: así usan los ciberdelincuentes la inteligencia artificial para estafarte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/doxing-usan-ciberdelincuentes-inteligencia-artificial-estafarte-1394721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-inteligencia-artificial-3698181.jpg?tf=1200x' alt='Doxing: así usan los ciberdelincuentes la inteligencia artificial para estafarte' />
+    <h4><a href='https://computerhoy.com/life/duerme-flotador-playa-despierta-19-horas-despues-alta-mar-1395479'>Se duerme en un flotador en la playa, y despierta 19 horas después en alta mar </a></h4>
+    <a href='https://computerhoy.com/life/duerme-flotador-playa-despierta-19-horas-despues-alta-mar-1395479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/duerme-flotador-playa-despierta-19-horas-despues-alta-mar-3717795.jpg?tf=1200x' alt='Se duerme en un flotador en la playa, y despierta 19 horas después en alta mar ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/razon-audios-whatsapp-pueden-estar-fomentando-ghosting-quererlo-1395122'>Esta es la razón por las que los audios de WhatsApp pueden estar fomentando el ghosting sin quererlo</a></h4>
-    <a href='https://computerhoy.com/apps/razon-audios-whatsapp-pueden-estar-fomentando-ghosting-quererlo-1395122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-ghosting-3705706.jpg?tf=1200x' alt='Esta es la razón por las que los audios de WhatsApp pueden estar fomentando el ghosting sin quererlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/hijo-quiere-subir-videos-tiktok-fotos-instagram-cuando-deberias-permitir-adentre-redes-sociales-1394647'>Tu hijo quiere subir vídeos a TikTok o fotos a Instagram: ¿Cuándo deberías permitir que se adentre en las redes sociales?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hijo-quiere-subir-videos-tiktok-fotos-instagram-cuando-deberias-permitir-adentre-redes-sociales-1394647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/moviles-ninos-3699756.jpg?tf=1200x' alt='Tu hijo quiere subir vídeos a TikTok o fotos a Instagram: ¿Cuándo deberías permitir que se adentre en las redes sociales?' />
     </a>
 </div>
 
