@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-1395295'>Centralia, el pueblo fantasma que lleva 60 años ardiendo, y no parará en 200 años</a></h4>
-    <a href='https://computerhoy.com/life/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-1395295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-no-parara-200-anos-3709234.jpg?tf=1200x' alt='Centralia, el pueblo fantasma que lleva 60 años ardiendo, y no parará en 200 años' />
+    <h4><a href='https://computerhoy.com/tecnologia/hungria-usan-drones-salvar-cervatillos-aves-cosechadoras-1395471'>En Hungría usan drones para salvar a los cervatillos y las aves de las cosechadoras </a></h4>
+    <a href='https://computerhoy.com/tecnologia/hungria-usan-drones-salvar-cervatillos-aves-cosechadoras-1395471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hungria-usan-drones-salvar-cervatillos-aves-cosechadoras-3717493.jpg?tf=1200x' alt='En Hungría usan drones para salvar a los cervatillos y las aves de las cosechadoras ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/microsoft-ya-no-oculta-futuro-xbox-consolas-1395466'>Microsoft ya no oculta el futuro de Xbox sin consolas</a></h4>
-    <a href='https://computerhoy.com/gaming/microsoft-ya-no-oculta-futuro-xbox-consolas-1395466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-ya-no-oculta-futuro-xbox-consolas-3715802.jpg?tf=1200x' alt='Microsoft ya no oculta el futuro de Xbox sin consolas' />
+    <h4><a href='https://computerhoy.com/ciencia/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-1395134'>¿Por qué recuerdas unas cosas sí y otras no? Así lo explica un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/ciencia/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-1395134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-3704314.jpg?tf=1200x' alt='¿Por qué recuerdas unas cosas sí y otras no? Así lo explica un nuevo estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejores-consejos-poder-ganar-dinero-tiktok-1388592'>Los mejores consejos para poder ganar dinero en TikTok</a></h4>
-    <a href='https://computerhoy.com/internet/mejores-consejos-poder-ganar-dinero-tiktok-1388592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mejores-consejos-poder-ganar-dinero-tiktok-3398599.jpg?tf=1200x' alt='Los mejores consejos para poder ganar dinero en TikTok' />
+    <h4><a href='https://computerhoy.com/tecnologia/estudio-razon-eres-inteligente-ia-aun-1394652'>Según un estudio, esta es la razón por la que eres más inteligente que la IA (aún)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estudio-razon-eres-inteligente-ia-aun-1394652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estudio-razon-eres-listo-ia-aun-3685125.jpg?tf=1200x' alt='Según un estudio, esta es la razón por la que eres más inteligente que la IA (aún)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/descubre-tinder-plus-ventajas-precios-todo-necesitas-saber-1394566'>Descubre Tinder Plus: ventajas, precios y todo lo que necesitas saber</a></h4>
-    <a href='https://computerhoy.com/tecnologia/descubre-tinder-plus-ventajas-precios-todo-necesitas-saber-1394566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tinder-plus-3683576.jpg?tf=1200x' alt='Descubre Tinder Plus: ventajas, precios y todo lo que necesitas saber' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/coordenadas-raras-puedes-ver-google-maps-306159'>Las coordenadas más raras que puedes ver en Google Maps</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/coordenadas-raras-puedes-ver-google-maps-306159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/coordenadas-raras-puedes-ver-google-maps-3703266.jpg?tf=1200x' alt='Las coordenadas más raras que puedes ver en Google Maps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-miran-amazon-debes-protegerte-no-caer-estafas-prime-day-1395198'>Los ciberdelincuentes miran a Amazon: así debes protegerte para no caer en las estafas del Prime Day</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-miran-amazon-debes-protegerte-no-caer-estafas-prime-day-1395198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-day-reloj-arena-3081928.jpg?tf=1200x' alt='Los ciberdelincuentes miran a Amazon: así debes protegerte para no caer en las estafas del Prime Day' />
+    <h4><a href='https://computerhoy.com/tecnologia/privadovpn-vpn-barata-control-parental-1394408'>Esta VPN cuesta menos que un café y tiene hasta control parental</a></h4>
+    <a href='https://computerhoy.com/tecnologia/privadovpn-vpn-barata-control-parental-1394408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/privadovpn-3683118.jpg?tf=1200x' alt='Esta VPN cuesta menos que un café y tiene hasta control parental' />
     </a>
 </div>
 
