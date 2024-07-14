@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/truco-boton-123-android-no-conocias-ahora-no-podras-dejar-usar-1394991'>El truco del botón 123 de Android que no conocías y que ahora no podrás dejar de usar</a></h4>
-    <a href='https://computerhoy.com/android/truco-boton-123-android-no-conocias-ahora-no-podras-dejar-usar-1394991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-123-android-3712083.jpg?tf=1200x' alt='El truco del botón 123 de Android que no conocías y que ahora no podrás dejar de usar' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-bizum-como-metodo-pago-pedidos-amazon-1394777'>Cómo añadir Bizum como método de pago para tus pedidos de Amazon</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-anadir-bizum-como-metodo-pago-pedidos-amazon-1394777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bizum-amazon-3690750.jpg?tf=1200x' alt='Cómo añadir Bizum como método de pago para tus pedidos de Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-1394748'>10.000 millones de contraseñas filtradas: cómo saber si la tuya es una de ellas para cambiarla inmediatamente</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-1394748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-3690203.jpg?tf=1200x' alt='10.000 millones de contraseñas filtradas: cómo saber si la tuya es una de ellas para cambiarla inmediatamente' />
+    <h4><a href='https://computerhoy.com/moviles/pasa-mantienes-pulsado-segundos-boton-linterna-movil-1395349'>¿Qué pasa si mantienes pulsado unos segundos el botón de linterna de tu móvil?</a></h4>
+    <a href='https://computerhoy.com/moviles/pasa-mantienes-pulsado-segundos-boton-linterna-movil-1395349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/linterna-movil-3711730.jpg?tf=1200x' alt='¿Qué pasa si mantienes pulsado unos segundos el botón de linterna de tu móvil?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sencillo-gesto-diario-proteger-movil-mejorar-rendimiento-pocos-segundos-1394753'>El sencillo gesto diario para proteger tu móvil y mejorar su rendimiento en pocos segundos</a></h4>
-    <a href='https://computerhoy.com/moviles/sencillo-gesto-diario-proteger-movil-mejorar-rendimiento-pocos-segundos-1394753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/moviles-3690198.jpg?tf=1200x' alt='El sencillo gesto diario para proteger tu móvil y mejorar su rendimiento en pocos segundos' />
+    <h4><a href='https://computerhoy.com/google/google-permite-conocer-datos-estan-dark-web-forma-gratuita-puedes-hacerlo-1395341'>Google permite conocer si tus datos están en la dark web de forma gratuita: así puedes hacerlo</a></h4>
+    <a href='https://computerhoy.com/google/google-permite-conocer-datos-estan-dark-web-forma-gratuita-puedes-hacerlo-1395341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/dark-web-2195997.jpg?tf=1200x' alt='Google permite conocer si tus datos están en la dark web de forma gratuita: así puedes hacerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-te-facilitara-gestion-pestanas-explorador-archivos-poderlas-duplicar-funciona-1395562'>Windows 11 te facilitará la gestión de pestañas en el explorador de archivos al poderlas duplicar, y así funciona</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-te-facilitara-gestion-pestanas-explorador-archivos-poderlas-duplicar-funciona-1395562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/explorador-archivos-windows-10-puede-ejecutarse-windows-11-sencillo-truco-3436063.jpg?tf=1200x' alt='Windows 11 te facilitará la gestión de pestañas en el explorador de archivos al poderlas duplicar, y así funciona' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-tecnologia-cifrar-documentos-confidenciales-solo-puedas-leerlos-1395565'>Microsoft piensa en una tecnología para cifrar documentos confidenciales para que solo puedas leerlos tú</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-tecnologia-cifrar-documentos-confidenciales-solo-puedas-leerlos-1395565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-piensa-tecnologia-cifrar-documentos-confidenciales-solo-puedas-leerlos-3726000.jpg?tf=1200x' alt='Microsoft piensa en una tecnología para cifrar documentos confidenciales para que solo puedas leerlos tú' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-desconocidas-diferentes-muy-sorprendentes-puedes-ver-netflix-1394719'>10 películas de ciencia ficción desconocidas, diferentes y muy sorprendentes que puedes ver en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-desconocidas-diferentes-muy-sorprendentes-puedes-ver-netflix-1394719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-peliculas-3691104.jpg?tf=1200x' alt='10 películas de ciencia ficción desconocidas, diferentes y muy sorprendentes que puedes ver en Netflix' />
+    <h4><a href='https://computerhoy.com/ciencia/nasa-hace-saltar-alarmas-olvidate-vivir-estas-provincias-espana-solo-30-anos-1395367'>La NASA hace saltar las alarmas: olvídate de vivir en estas provincias en España en solo 30 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/nasa-hace-saltar-alarmas-olvidate-vivir-estas-provincias-espana-solo-30-anos-1395367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/calor-3189092.jpg?tf=1200x' alt='La NASA hace saltar las alarmas: olvídate de vivir en estas provincias en España en solo 30 años' />
     </a>
 </div>
 
