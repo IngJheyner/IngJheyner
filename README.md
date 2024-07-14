@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-diferencias-cual-dos-deberias-usar-1395297'>WhatsApp Web vs. WhatsApp de escritorio: diferencias y cuál de las dos deberías usar</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-diferencias-cual-dos-deberias-usar-1395297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-web-vs-whatsapp-escritorio-diferencias-cual-dos-deberias-usar-3710495.jpg?tf=1200x' alt='WhatsApp Web vs. WhatsApp de escritorio: diferencias y cuál de las dos deberías usar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-punto-mira-imagenes-explicitas-no-retira-internet-1394713'>Google en el punto de mira por las imágenes explícitas que no retira de internet</a></h4>
+    <a href='https://computerhoy.com/google/google-punto-mira-imagenes-explicitas-no-retira-internet-1394713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mujer-estresada-3689733.jpg?tf=1200x' alt='Google en el punto de mira por las imágenes explícitas que no retira de internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-fija-5-niveles-alcanzar-inteligencia-artificial-general-ahora-1395317'>OpenAI fija 5 niveles para alcanzar la inteligencia artificial general y este es el de ahora</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-fija-5-niveles-alcanzar-inteligencia-artificial-general-ahora-1395317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-general-3711232.jpg?tf=1200x' alt='OpenAI fija 5 niveles para alcanzar la inteligencia artificial general y este es el de ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-virus-windows-sin-programas-1394840'>Cómo eliminar cualquier virus de Windows sin programas ni antivirus</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-eliminar-virus-windows-sin-programas-1394840' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/eliminar-virus-pc-3711884.jpg?tf=1200x' alt='Cómo eliminar cualquier virus de Windows sin programas ni antivirus' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312'>Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión</a></h4>
     <a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puncher-p30-destruye-discos-duros-ssd-aplicando-12-toneladas-presion-3710638.jpg?tf=1200x' alt='Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/convertir-ordenador-viejo-nube-privada-1395045'>Así he convertido un ordenador viejo en mi propia nube privada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/convertir-ordenador-viejo-nube-privada-1395045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nube-ordenador-viejo-3699299.jpg?tf=1200x' alt='Así he convertido un ordenador viejo en mi propia nube privada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/duerme-flotador-playa-despierta-19-horas-despues-alta-mar-1395479'>Se duerme en un flotador en la playa, y despierta 19 horas después en alta mar </a></h4>
-    <a href='https://computerhoy.com/life/duerme-flotador-playa-despierta-19-horas-despues-alta-mar-1395479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/duerme-flotador-playa-despierta-19-horas-despues-alta-mar-3717795.jpg?tf=1200x' alt='Se duerme en un flotador en la playa, y despierta 19 horas después en alta mar ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-uses-napster-edonkey-ni-kazaa-dicen-universidades-norteamericanas-2024-1394703'>"No uses Napster, eDonkey ni KaZaA", dicen las universidades norteamericanas en 2024</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-uses-napster-edonkey-ni-kazaa-dicen-universidades-norteamericanas-2024-1394703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-uses-napster-limeware-ni-kazaa-dicen-universidades-norteamericanas-2024-3688993.jpg?tf=1200x' alt='"No uses Napster, eDonkey ni KaZaA", dicen las universidades norteamericanas en 2024' />
     </a>
 </div>
 
