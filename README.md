@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/peor-semana-verano-comprar-amazon-expertos-1394816'>Por qué esta es la peor semana del verano para comprar en Amazon, según los expertos</a></h4>
-    <a href='https://computerhoy.com/amazon/peor-semana-verano-comprar-amazon-expertos-1394816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-prime-3691949.jpg?tf=1200x' alt='Por qué esta es la peor semana del verano para comprar en Amazon, según los expertos' />
+    <h4><a href='https://computerhoy.com/apple/apple-permite-primer-emulador-windows-ms-dos-ios-1395603'>Apple al fin permite el primer emulador de Windows y MS-DOS para iOS</a></h4>
+    <a href='https://computerhoy.com/apple/apple-permite-primer-emulador-windows-ms-dos-ios-1395603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-fin-permite-primer-emulador-pc-ios-3728382.jpg?tf=1200x' alt='Apple al fin permite el primer emulador de Windows y MS-DOS para iOS' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/expediente-warren-dice-adios-sera-entrega-final-conjuring-1395405'>Expediente Warren dice adiós: así será la entrega final de The Conjuring</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/expediente-warren-dice-adios-sera-entrega-final-conjuring-1395405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/expediente-warren-obligado-demonio-2355615.jpg?tf=1200x' alt='Expediente Warren dice adiós: así será la entrega final de The Conjuring' />
+    <h4><a href='https://computerhoy.com/tecnologia/ue-declara-ilegal-verificacion-marca-azul-x-1395452'>La UE declara ilegal y "un engaño", la verificación con la marca azul de X</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ue-declara-ilegal-verificacion-marca-azul-x-1395452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ue-declara-ilegal-engano-tener-pagar-obtener-verificacion-x-3714086.jpg?tf=1200x' alt='La UE declara ilegal y "un engaño", la verificación con la marca azul de X' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-ha-construido-ciudad-acoger-35000-ingenieros-cientificos-1395593'>Huawei ha construido una ciudad para acoger a 35.000 ingenieros y científicos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-ha-construido-ciudad-acoger-35000-ingenieros-cientificos-1395593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/huawei-ha-construido-ciudad-acoger-35000-ingenieros-cientificos-3727939.jpg?tf=1200x' alt='Huawei ha construido una ciudad para acoger a 35.000 ingenieros y científicos' />
+    <h4><a href='https://computerhoy.com/pc/boton-turbo-pc-viejos-no-aceleraba-nada-bien-todo-contrario-1395419'>El botón TURBO de los PC viejos no aceleraba nada, más bien todo lo contrario</a></h4>
+    <a href='https://computerhoy.com/pc/boton-turbo-pc-viejos-no-aceleraba-nada-bien-todo-contrario-1395419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-turbo-pc-viejos-no-aceleraba-nada-bien-todo-contrario-3713477.jpg?tf=1200x' alt='El botón TURBO de los PC viejos no aceleraba nada, más bien todo lo contrario' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-1394845'>Esta app que no usas es la que más batería del móvil gasta: así he conseguido que su consumo sea cero</a></h4>
-    <a href='https://computerhoy.com/android/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-1394845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-3692955.jpg?tf=1200x' alt='Esta app que no usas es la que más batería del móvil gasta: así he conseguido que su consumo sea cero' />
+    <h4><a href='https://computerhoy.com/tecnologia/adios-smartphones-apostando-telefonos-tontos-vida-simple-1267776'>¿Es el fin de la era del smartphone? El auge de los 'móviles tontos' marca un cambio de tendencia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-smartphones-apostando-telefonos-tontos-vida-simple-1267776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/generacion-z-muy-retro-nostalgia-desconexion-digital-privacidad-siglo-xxi-3070646.jpg?tf=1200x' alt='¿Es el fin de la era del smartphone? El auge de los 'móviles tontos' marca un cambio de tendencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-opina-nada-bueno-espanoles-comunidad-autonoma-1236976'>ChatGPT "se ha pasado": Esto es lo que opina de los españoles según la comunidad autónoma en la que viven</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-opina-nada-bueno-espanoles-comunidad-autonoma-1236976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-lado-oscuro-chatgpt-opina-habitantes-cada-comunidad-autonoma-espana-3021220.jpg?tf=1200x' alt='ChatGPT "se ha pasado": Esto es lo que opina de los españoles según la comunidad autónoma en la que viven' />
+    <h4><a href='https://computerhoy.com/tecnologia/airtag-xiaomi-menos-cafe-precio-1394858'>El AirTag de Xiaomi funciona con Android y cuesta menos que un café: por 2 euros es tuyo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/airtag-xiaomi-menos-cafe-precio-1394858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/localizador-xiaomi-3692801.jpg?tf=1200x' alt='El AirTag de Xiaomi funciona con Android y cuesta menos que un café: por 2 euros es tuyo' />
     </a>
 </div>
 
