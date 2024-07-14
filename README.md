@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-10-ultimos-minutos-alucinantes-1394838'>20 películas con unos 10 últimos minutos alucinantes</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-10-ultimos-minutos-alucinantes-1394838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/20-pelis-3692795.jpg?tf=1200x' alt='20 películas con unos 10 últimos minutos alucinantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/importante-fallo-seguridad-internet-explorer-te-afecta-windows-11-1395557'>El importante fallo de seguridad en Internet Explorer que te afecta en Windows 11</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/importante-fallo-seguridad-internet-explorer-te-afecta-windows-11-1395557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/internet-explorer-3725851.jpg?tf=1200x' alt='El importante fallo de seguridad en Internet Explorer que te afecta en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-1394720'>El Gobierno de Alemania ha incautado la mayor reserva de Bitcoin de su historia por valor de 1.847 millones de euros</a></h4>
+    <a href='https://computerhoy.com/criptos/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-1394720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-3689882.jpg?tf=1200x' alt='El Gobierno de Alemania ha incautado la mayor reserva de Bitcoin de su historia por valor de 1.847 millones de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/consejos-me-gustaria-haber-sabido-antes-comprar-mi-primera-raspberry-pi-1395296'>10 consejos que me gustaría haber sabido antes de comprar mi primera Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/consejos-me-gustaria-haber-sabido-antes-comprar-mi-primera-raspberry-pi-1395296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-consejos-me-gustaria-haber-sabido-antes-comprar-mi-primera-raspberry-pi-3710212.jpg?tf=1200x' alt='10 consejos que me gustaría haber sabido antes de comprar mi primera Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/10-euros-gratis-gastar-amazon-prime-day-2024-1395107'>10 euros gratis para gastar en Amazon: cómo ver si tienes este cheque regalo</a></h4>
     <a href='https://computerhoy.com/tecnologia/10-euros-gratis-gastar-amazon-prime-day-2024-1395107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-10-euros-3697883.jpg?tf=1200x' alt='10 euros gratis para gastar en Amazon: cómo ver si tienes este cheque regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/gran-dilema-cada-verano-apagar-router-wifi-irse-vacaciones-no-1394728'>El gran dilema de cada verano: apagar el router WiFi al irse de vacaciones, ¿sí o no?</a></h4>
-    <a href='https://computerhoy.com/internet/gran-dilema-cada-verano-apagar-router-wifi-irse-vacaciones-no-1394728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='El gran dilema de cada verano: apagar el router WiFi al irse de vacaciones, ¿sí o no?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-no-solo-estos-son-6-grandes-rivales-1395332'>ChatGPT no está solo y estos son sus 6 grandes rivales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-no-solo-estos-son-6-grandes-rivales-1395332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-funciones-chatgpt-no-estas-aprovechando-todo-deberias-usar-ahora-mismo-3290323.jpg?tf=1200x' alt='ChatGPT no está solo y estos son sus 6 grandes rivales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-laberinto-dificil-mundo-bucles-repiten-infinito-1395318'>Crean el laberinto más difícil del mundo con bucles que se repiten hasta el infinito</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-laberinto-dificil-mundo-bucles-repiten-infinito-1395318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crean-laberinto-dificil-mundo-bucles-repiten-infinito-3711237.jpg?tf=1200x' alt='Crean el laberinto más difícil del mundo con bucles que se repiten hasta el infinito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tienes-dudas-ventajas-anillos-inteligentes-frente-smartwatch-no-conocias-1394715'>¿Tienes dudas? Ventajas de los anillos inteligentes frente a los smartwatch que no conocías</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tienes-dudas-ventajas-anillos-inteligentes-frente-smartwatch-no-conocias-1394715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-ring-3614572.jpg?tf=1200x' alt='¿Tienes dudas? Ventajas de los anillos inteligentes frente a los smartwatch que no conocías' />
     </a>
 </div>
 
