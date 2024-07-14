@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-10-ultimos-minutos-alucinantes-1394838'>20 películas con unos 10 últimos minutos alucinantes</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-10-ultimos-minutos-alucinantes-1394838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/20-pelis-3692795.jpg?tf=1200x' alt='20 películas con unos 10 últimos minutos alucinantes' />
+    <h4><a href='https://computerhoy.com/android/truco-boton-123-android-no-conocias-ahora-no-podras-dejar-usar-1394991'>El truco del botón 123 de Android que no conocías y que ahora no podrás dejar de usar</a></h4>
+    <a href='https://computerhoy.com/android/truco-boton-123-android-no-conocias-ahora-no-podras-dejar-usar-1394991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-123-android-3712083.jpg?tf=1200x' alt='El truco del botón 123 de Android que no conocías y que ahora no podrás dejar de usar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/importante-fallo-seguridad-internet-explorer-te-afecta-windows-11-1395557'>El importante fallo de seguridad en Internet Explorer que te afecta en Windows 11</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/importante-fallo-seguridad-internet-explorer-te-afecta-windows-11-1395557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/internet-explorer-3725851.jpg?tf=1200x' alt='El importante fallo de seguridad en Internet Explorer que te afecta en Windows 11' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-1394748'>10.000 millones de contraseñas filtradas: cómo saber si la tuya es una de ellas para cambiarla inmediatamente</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-1394748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10000-millones-contrasenas-filtradas-como-saber-ellas-cambiarla-inmediatamente-3690203.jpg?tf=1200x' alt='10.000 millones de contraseñas filtradas: cómo saber si la tuya es una de ellas para cambiarla inmediatamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-1394720'>El Gobierno de Alemania ha incautado la mayor reserva de Bitcoin de su historia por valor de 1.847 millones de euros</a></h4>
-    <a href='https://computerhoy.com/criptos/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-1394720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gobierno-alemania-ha-incautado-mayor-reserva-bitcoin-historia-valor-1847-millones-euros-3689882.jpg?tf=1200x' alt='El Gobierno de Alemania ha incautado la mayor reserva de Bitcoin de su historia por valor de 1.847 millones de euros' />
+    <h4><a href='https://computerhoy.com/moviles/sencillo-gesto-diario-proteger-movil-mejorar-rendimiento-pocos-segundos-1394753'>El sencillo gesto diario para proteger tu móvil y mejorar su rendimiento en pocos segundos</a></h4>
+    <a href='https://computerhoy.com/moviles/sencillo-gesto-diario-proteger-movil-mejorar-rendimiento-pocos-segundos-1394753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/moviles-3690198.jpg?tf=1200x' alt='El sencillo gesto diario para proteger tu móvil y mejorar su rendimiento en pocos segundos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/consejos-me-gustaria-haber-sabido-antes-comprar-mi-primera-raspberry-pi-1395296'>10 consejos que me gustaría haber sabido antes de comprar mi primera Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/consejos-me-gustaria-haber-sabido-antes-comprar-mi-primera-raspberry-pi-1395296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-consejos-me-gustaria-haber-sabido-antes-comprar-mi-primera-raspberry-pi-3710212.jpg?tf=1200x' alt='10 consejos que me gustaría haber sabido antes de comprar mi primera Raspberry Pi' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-te-facilitara-gestion-pestanas-explorador-archivos-poderlas-duplicar-funciona-1395562'>Windows 11 te facilitará la gestión de pestañas en el explorador de archivos al poderlas duplicar, y así funciona</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-te-facilitara-gestion-pestanas-explorador-archivos-poderlas-duplicar-funciona-1395562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/explorador-archivos-windows-10-puede-ejecutarse-windows-11-sencillo-truco-3436063.jpg?tf=1200x' alt='Windows 11 te facilitará la gestión de pestañas en el explorador de archivos al poderlas duplicar, y así funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/10-euros-gratis-gastar-amazon-prime-day-2024-1395107'>10 euros gratis para gastar en Amazon: cómo ver si tienes este cheque regalo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/10-euros-gratis-gastar-amazon-prime-day-2024-1395107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-10-euros-3697883.jpg?tf=1200x' alt='10 euros gratis para gastar en Amazon: cómo ver si tienes este cheque regalo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-desconocidas-diferentes-muy-sorprendentes-puedes-ver-netflix-1394719'>10 películas de ciencia ficción desconocidas, diferentes y muy sorprendentes que puedes ver en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-desconocidas-diferentes-muy-sorprendentes-puedes-ver-netflix-1394719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-peliculas-3691104.jpg?tf=1200x' alt='10 películas de ciencia ficción desconocidas, diferentes y muy sorprendentes que puedes ver en Netflix' />
     </a>
 </div>
 
