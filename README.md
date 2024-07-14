@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/comandos-consola-windows-cmd-te-hara-parecer-hacker-1394684'>Comandos de la consola de Windows (CMD) que te hará parecer un hacker</a></h4>
+    <a href='https://computerhoy.com/windows/comandos-consola-windows-cmd-te-hara-parecer-hacker-1394684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/comandos-consola-windows-cmd-te-hara-parecer-hacker-3687388.jpg?tf=1200x' alt='Comandos de la consola de Windows (CMD) que te hará parecer un hacker' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/ni-cables-ni-antena-como-ver-toda-tdt-amazon-fire-tv-app-enlace-magico-1395460'>Ni cables ni antena: cómo ver toda la TDT en un Amazon Fire TV con una app y un enlace "mágico"</a></h4>
     <a href='https://computerhoy.com/tv/ni-cables-ni-antena-como-ver-toda-tdt-amazon-fire-tv-app-enlace-magico-1395460' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-cables-ni-antena-como-ver-toda-tdt-amazon-fire-tv-app-enlace-magico-3715801.jpg?tf=1200x' alt='Ni cables ni antena: cómo ver toda la TDT en un Amazon Fire TV con una app y un enlace "mágico"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671'>Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana</a></h4>
     <a href='https://computerhoy.com/internet/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-1394671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/problemas-matematicos-resolver-desafian-ciencia-inteligencia-humana-3686413.jpg?tf=1200x' alt='Problemas matemáticos sin resolver que desafían a la ciencia y la inteligencia humana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-1394678'>Una nueva estafa camufla gráficas RTX 3080 Ti como si fueran RTX 4090 con un nivel de detalle increíble</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-1394678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nueva-estafa-camufla-graficas-rtx-3080-ti-como-fueran-rtx-4090-nivel-detalle-increible-3686487.jpg?tf=1200x' alt='Una nueva estafa camufla gráficas RTX 3080 Ti como si fueran RTX 4090 con un nivel de detalle increíble' />
     </a>
 </div>
 
