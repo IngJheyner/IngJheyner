@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/no-te-quedes-atras-3-motivos-compraria-movil-ia-ano-1394591'>No te quedes atrás: 3 motivos por los que compraría un móvil con IA este año</a></h4>
-    <a href='https://computerhoy.com/moviles/no-te-quedes-atras-3-motivos-compraria-movil-ia-ano-1394591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-zenfone-11-ultra-3298601.jpg?tf=1200x' alt='No te quedes atrás: 3 motivos por los que compraría un móvil con IA este año' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-virus-windows-sin-programas-1394840'>Cómo eliminar cualquier virus de Windows sin programas ni antivirus</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-eliminar-virus-windows-sin-programas-1394840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/eliminar-virus-pc-3711884.jpg?tf=1200x' alt='Cómo eliminar cualquier virus de Windows sin programas ni antivirus' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/acabo-anadir-funcion-premium-mi-aspiradora-dyson-solo-3-euros-ha-sido-error-1394158'>Le acabo de añadir una función premium a mi aspiradora Dyson por solo 3 euros: ha sido un error</a></h4>
-    <a href='https://computerhoy.com/life/acabo-anadir-funcion-premium-mi-aspiradora-dyson-solo-3-euros-ha-sido-error-1394158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laser-aspiradora-3662419.jpg?tf=1200x' alt='Le acabo de añadir una función premium a mi aspiradora Dyson por solo 3 euros: ha sido un error' />
+    <h4><a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312'>Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puncher-p30-destruye-discos-duros-ssd-aplicando-12-toneladas-presion-3710638.jpg?tf=1200x' alt='Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/siempre-busco-movil-despues-7-anos-siendo-reviewer-1393675'>Lo que siempre busco en un móvil después de 7 años siendo reviewer</a></h4>
-    <a href='https://computerhoy.com/moviles/siempre-busco-movil-despues-7-anos-siendo-reviewer-1393675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/honor-magic-6-pro-3663014.jpg?tf=1200x' alt='Lo que siempre busco en un móvil después de 7 años siendo reviewer' />
+    <h4><a href='https://computerhoy.com/tutoriales/convertir-ordenador-viejo-nube-privada-1395045'>Así he convertido un ordenador viejo en mi propia nube privada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/convertir-ordenador-viejo-nube-privada-1395045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nube-ordenador-viejo-3699299.jpg?tf=1200x' alt='Así he convertido un ordenador viejo en mi propia nube privada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-espacio-ps5-trucos-desbloquear-almacenamiento-1387499'>Cómo liberar espacio en tu PS5: 5 trucos infalibles para desbloquear almacenamiento en tu consola</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-liberar-espacio-ps5-trucos-desbloquear-almacenamiento-1387499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ps5-playstation-5-3128532.jpg?tf=1200x' alt='Cómo liberar espacio en tu PS5: 5 trucos infalibles para desbloquear almacenamiento en tu consola' />
+    <h4><a href='https://computerhoy.com/life/duerme-flotador-playa-despierta-19-horas-despues-alta-mar-1395479'>Se duerme en un flotador en la playa, y despierta 19 horas después en alta mar </a></h4>
+    <a href='https://computerhoy.com/life/duerme-flotador-playa-despierta-19-horas-despues-alta-mar-1395479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/duerme-flotador-playa-despierta-19-horas-despues-alta-mar-3717795.jpg?tf=1200x' alt='Se duerme en un flotador en la playa, y despierta 19 horas después en alta mar ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/japones-ofrece-servicios-hombre-feo-internet-1395546'>Este japonés ofrece servicios de "hombre feo" en Internet, y se gana la vida con ello</a></h4>
-    <a href='https://computerhoy.com/internet/japones-ofrece-servicios-hombre-feo-internet-1395546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/japones-ofrece-servicios-hombre-feo-internet-gana-vida-ello-3724075.jpg?tf=1200x' alt='Este japonés ofrece servicios de "hombre feo" en Internet, y se gana la vida con ello' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-uses-napster-edonkey-ni-kazaa-dicen-universidades-norteamericanas-2024-1394703'>"No uses Napster, eDonkey ni KaZaA", dicen las universidades norteamericanas en 2024</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-uses-napster-edonkey-ni-kazaa-dicen-universidades-norteamericanas-2024-1394703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-uses-napster-limeware-ni-kazaa-dicen-universidades-norteamericanas-2024-3688993.jpg?tf=1200x' alt='"No uses Napster, eDonkey ni KaZaA", dicen las universidades norteamericanas en 2024' />
     </a>
 </div>
 
