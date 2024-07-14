@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606'>Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rejuvenecen-40-anos-jackie-chan-usando-ia-nueva-pelicula-pero-no-ha-ido-muy-bien-3729097.jpg?tf=1200x' alt='Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/europa-podria-haber-dado-tecla-acabar-iptv-paginas-descargas-ilegales-1394877'>Europa podría haber dado con la tecla para acabar con las IPTV y las páginas de descargas ilegales</a></h4>
+    <a href='https://computerhoy.com/internet/europa-podria-haber-dado-tecla-acabar-iptv-paginas-descargas-ilegales-1394877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/europa-podria-haber-dado-tecla-acabar-iptv-paginas-descargas-ilegales-3694269.jpg?tf=1200x' alt='Europa podría haber dado con la tecla para acabar con las IPTV y las páginas de descargas ilegales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605'>Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA</a></h4>
     <a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-microsoft-ya-consumen-energia-100-paises-debido-ia-3728814.jpg?tf=1200x' alt='Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-1394859'>Códigos secretos de Android para realizar tareas de seguridad, privacidad y mantenimiento al instante</a></h4>
     <a href='https://computerhoy.com/android/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-1394859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-3693847.jpg?tf=1200x' alt='Códigos secretos de Android para realizar tareas de seguridad, privacidad y mantenimiento al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/altavoz-inteligente-salva-vida-familia-incendio-pesar-no-tener-sensor-temperatura-1394873'>Un altavoz inteligente salva la vida de una familia en un incendio a pesar de no tener sensor de temperatura</a></h4>
-    <a href='https://computerhoy.com/apple/altavoz-inteligente-salva-vida-familia-incendio-pesar-no-tener-sensor-temperatura-1394873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/pantalla-homepod-3007202.jpg?tf=1200x' alt='Un altavoz inteligente salva la vida de una familia en un incendio a pesar de no tener sensor de temperatura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-permite-primer-emulador-windows-ms-dos-ios-1395603'>Apple al fin permite el primer emulador de Windows y MS-DOS para iOS</a></h4>
-    <a href='https://computerhoy.com/apple/apple-permite-primer-emulador-windows-ms-dos-ios-1395603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-fin-permite-primer-emulador-pc-ios-3728382.jpg?tf=1200x' alt='Apple al fin permite el primer emulador de Windows y MS-DOS para iOS' />
     </a>
 </div>
 
