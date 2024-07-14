@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-diferencias-cual-dos-deberias-usar-1395297'>WhatsApp Web vs. WhatsApp de escritorio: diferencias y cuál de las dos deberías usar</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-diferencias-cual-dos-deberias-usar-1395297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-web-vs-whatsapp-escritorio-diferencias-cual-dos-deberias-usar-3710495.jpg?tf=1200x' alt='WhatsApp Web vs. WhatsApp de escritorio: diferencias y cuál de las dos deberías usar' />
+    <h4><a href='https://computerhoy.com/tecnologia/10-euros-gratis-gastar-amazon-prime-day-2024-1395107'>10 euros gratis para gastar en Amazon: cómo ver si tienes este cheque regalo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/10-euros-gratis-gastar-amazon-prime-day-2024-1395107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-10-euros-3697883.jpg?tf=1200x' alt='10 euros gratis para gastar en Amazon: cómo ver si tienes este cheque regalo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-punto-mira-imagenes-explicitas-no-retira-internet-1394713'>Google en el punto de mira por las imágenes explícitas que no retira de internet</a></h4>
-    <a href='https://computerhoy.com/google/google-punto-mira-imagenes-explicitas-no-retira-internet-1394713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mujer-estresada-3689733.jpg?tf=1200x' alt='Google en el punto de mira por las imágenes explícitas que no retira de internet' />
+    <h4><a href='https://computerhoy.com/internet/gran-dilema-cada-verano-apagar-router-wifi-irse-vacaciones-no-1394728'>El gran dilema de cada verano: apagar el router WiFi al irse de vacaciones, ¿sí o no?</a></h4>
+    <a href='https://computerhoy.com/internet/gran-dilema-cada-verano-apagar-router-wifi-irse-vacaciones-no-1394728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='El gran dilema de cada verano: apagar el router WiFi al irse de vacaciones, ¿sí o no?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-fija-5-niveles-alcanzar-inteligencia-artificial-general-ahora-1395317'>OpenAI fija 5 niveles para alcanzar la inteligencia artificial general y este es el de ahora</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-fija-5-niveles-alcanzar-inteligencia-artificial-general-ahora-1395317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-general-3711232.jpg?tf=1200x' alt='OpenAI fija 5 niveles para alcanzar la inteligencia artificial general y este es el de ahora' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-no-solo-estos-son-6-grandes-rivales-1395332'>ChatGPT no está solo y estos son sus 6 grandes rivales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-no-solo-estos-son-6-grandes-rivales-1395332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-funciones-chatgpt-no-estas-aprovechando-todo-deberias-usar-ahora-mismo-3290323.jpg?tf=1200x' alt='ChatGPT no está solo y estos son sus 6 grandes rivales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-virus-windows-sin-programas-1394840'>Cómo eliminar cualquier virus de Windows sin programas ni antivirus</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-eliminar-virus-windows-sin-programas-1394840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/eliminar-virus-pc-3711884.jpg?tf=1200x' alt='Cómo eliminar cualquier virus de Windows sin programas ni antivirus' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-laberinto-dificil-mundo-bucles-repiten-infinito-1395318'>Crean el laberinto más difícil del mundo con bucles que se repiten hasta el infinito</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-laberinto-dificil-mundo-bucles-repiten-infinito-1395318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crean-laberinto-dificil-mundo-bucles-repiten-infinito-3711237.jpg?tf=1200x' alt='Crean el laberinto más difícil del mundo con bucles que se repiten hasta el infinito' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312'>Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puncher-p30-destruye-discos-duros-ssd-aplicando-12-toneladas-presion-3710638.jpg?tf=1200x' alt='Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión' />
+    <h4><a href='https://computerhoy.com/tecnologia/tienes-dudas-ventajas-anillos-inteligentes-frente-smartwatch-no-conocias-1394715'>¿Tienes dudas? Ventajas de los anillos inteligentes frente a los smartwatch que no conocías</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tienes-dudas-ventajas-anillos-inteligentes-frente-smartwatch-no-conocias-1394715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-ring-3614572.jpg?tf=1200x' alt='¿Tienes dudas? Ventajas de los anillos inteligentes frente a los smartwatch que no conocías' />
     </a>
 </div>
 
