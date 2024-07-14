@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/incibe-alerta-informacion-nunca-deberias-compartir-internet-1394785'>El INCIBE alerta: esta es la información que nunca deberías compartir por Internet</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/incibe-alerta-informacion-nunca-deberias-compartir-internet-1394785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mujer-tapandose-boca-3691265.jpg?tf=1200x' alt='El INCIBE alerta: esta es la información que nunca deberías compartir por Internet' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-divertido-seres-humanos-estudio-1395512'>ChatGPT ya es más divertido que los seres humanos, según este estudio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-divertido-seres-humanos-estudio-1395512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-ya-divertido-seres-humanos-3720107.jpg?tf=1200x' alt='ChatGPT ya es más divertido que los seres humanos, según este estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/significan-luces-verdes-rojas-raspberry-pi-1395089'>¿Qué significan las luces verdes y rojas en una Raspberry Pi?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/significan-luces-verdes-rojas-raspberry-pi-1395089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/significan-luces-verdes-rojas-raspberry-pi-3701993.jpg?tf=1200x' alt='¿Qué significan las luces verdes y rojas en una Raspberry Pi?' />
+    <h4><a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-truco-viral-arrasa-espana-1394806'>Guardar una hoja de laurel en la carcasa del móvil: el truco viral que arrasa en España</a></h4>
+    <a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-truco-viral-arrasa-espana-1394806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laurel-telefono-3691593.jpg?tf=1200x' alt='Guardar una hoja de laurel en la carcasa del móvil: el truco viral que arrasa en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-ia-actualmente-no-inteligente-gato-1395343'>Según Google, la IA actualmente no es más inteligente que un gato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-ia-actualmente-no-inteligente-gato-1395343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-ia-actualmente-no-inteligente-gato-3711551.jpg?tf=1200x' alt='Según Google, la IA actualmente no es más inteligente que un gato' />
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-1395355'>Sam Altman quiere que la inteligencia artificial sea tu próximo médico, y OpenAI ya está trabajando al respecto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-1395355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-3711724.jpg?tf=1200x' alt='Sam Altman quiere que la inteligencia artificial sea tu próximo médico, y OpenAI ya está trabajando al respecto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mantener-pc-libre-virus-malware-1394628'>10 sencillas reglas para mantener tu PC libre de virus y malware</a></h4>
-    <a href='https://computerhoy.com/pc/mantener-pc-libre-virus-malware-1394628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/evitar-virus-malware-pc-3684380.jpg?tf=1200x' alt='10 sencillas reglas para mantener tu PC libre de virus y malware' />
+    <h4><a href='https://computerhoy.com/tecnologia/ahorra-200-euros-iphone-15-tienda-liquidando-reacondicionados-da-dos-anos-garantia-1395111'>Ahorra más de 200 euros en el iPhone 15: esta tienda está liquidando reacondicionados y da dos años de garantía</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ahorra-200-euros-iphone-15-tienda-liquidando-reacondicionados-da-dos-anos-garantia-1395111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3141292.jpg?tf=1200x' alt='Ahorra más de 200 euros en el iPhone 15: esta tienda está liquidando reacondicionados y da dos años de garantía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-traducir-conversaciones-tiempo-real-google-traductor-1395330'>Cómo traducir conversaciones en tiempo real con Google Traductor</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-traducir-conversaciones-tiempo-real-google-traductor-1395330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/traducir-conversaciones-google-traductor-3711916.jpg?tf=1200x' alt='Cómo traducir conversaciones en tiempo real con Google Traductor' />
+    <h4><a href='https://computerhoy.com/tecnologia/buques-guerra-alemania-todavia-utilizan-disquetes-8-pulgadas-1395589'>Los buques de guerra de Alemania todavía utilizan disquetes de 8 pulgadas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/buques-guerra-alemania-todavia-utilizan-disquetes-8-pulgadas-1395589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/buques-guerra-alemania-todavia-utilizan-disquetes-8-pulgadas-3727638.jpg?tf=1200x' alt='Los buques de guerra de Alemania todavía utilizan disquetes de 8 pulgadas' />
     </a>
 </div>
 
