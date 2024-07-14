@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-1393939'>Que no te engañen: así puedes identificar cuándo alguien ha usado ChatGPT y evitar el “slop”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-1393939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-3650324.jpg?tf=1200x' alt='Que no te engañen: así puedes identificar cuándo alguien ha usado ChatGPT y evitar el “slop”' />
+    <h4><a href='https://computerhoy.com/life/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-1395295'>Centralia, el pueblo fantasma que lleva 60 años ardiendo, y no parará en 200 años</a></h4>
+    <a href='https://computerhoy.com/life/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-1395295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-no-parara-200-anos-3709234.jpg?tf=1200x' alt='Centralia, el pueblo fantasma que lleva 60 años ardiendo, y no parará en 200 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/descubre-tinder-plus-ventajas-precios-todo-necesitas-saber-1394566'>Descubre Tinder Plus: ventajas, precios y todo lo que necesitas saber</a></h4>
+    <a href='https://computerhoy.com/tecnologia/descubre-tinder-plus-ventajas-precios-todo-necesitas-saber-1394566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tinder-plus-3683576.jpg?tf=1200x' alt='Descubre Tinder Plus: ventajas, precios y todo lo que necesitas saber' />
     </a>
 </div>
 
@@ -66,25 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-1393939'>Que no te engañen: así puedes identificar cuándo alguien ha usado ChatGPT y evitar el “slop”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-1393939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-te-enganen-puedes-identificar-cuando-alguien-ha-usado-chatgpt-evitar-slop-3650324.jpg?tf=1200x' alt='Que no te engañen: así puedes identificar cuándo alguien ha usado ChatGPT y evitar el “slop”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/comandos-consola-windows-cmd-te-hara-parecer-hacker-1394684'>Comandos de la consola de Windows (CMD) que te hará parecer un hacker</a></h4>
     <a href='https://computerhoy.com/windows/comandos-consola-windows-cmd-te-hara-parecer-hacker-1394684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/comandos-consola-windows-cmd-te-hara-parecer-hacker-3687388.jpg?tf=1200x' alt='Comandos de la consola de Windows (CMD) que te hará parecer un hacker' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/ni-cables-ni-antena-como-ver-toda-tdt-amazon-fire-tv-app-enlace-magico-1395460'>Ni cables ni antena: cómo ver toda la TDT en un Amazon Fire TV con una app y un enlace "mágico"</a></h4>
-    <a href='https://computerhoy.com/tv/ni-cables-ni-antena-como-ver-toda-tdt-amazon-fire-tv-app-enlace-magico-1395460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-cables-ni-antena-como-ver-toda-tdt-amazon-fire-tv-app-enlace-magico-3715801.jpg?tf=1200x' alt='Ni cables ni antena: cómo ver toda la TDT en un Amazon Fire TV con una app y un enlace "mágico"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/-mapa-interactivo-cambio-climatico-ciudad-dentro-60-anos-1394686'>Este aterrador mapa interactivo muestra como será tu ciudad dentro de 60 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/-mapa-interactivo-cambio-climatico-ciudad-dentro-60-anos-1394686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aterrador-mapa-interactivo-muestra-como-sera-ciudad-dentro-60-anos-3686780.jpg?tf=1200x' alt='Este aterrador mapa interactivo muestra como será tu ciudad dentro de 60 años' />
     </a>
 </div>
 
