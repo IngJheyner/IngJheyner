@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/altavoz-inteligente-salva-vida-familia-incendio-pesar-no-tener-sensor-temperatura-1394873'>Un altavoz inteligente salva la vida de una familia en un incendio a pesar de no tener sensor de temperatura</a></h4>
+    <a href='https://computerhoy.com/apple/altavoz-inteligente-salva-vida-familia-incendio-pesar-no-tener-sensor-temperatura-1394873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/pantalla-homepod-3007202.jpg?tf=1200x' alt='Un altavoz inteligente salva la vida de una familia en un incendio a pesar de no tener sensor de temperatura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-permite-primer-emulador-windows-ms-dos-ios-1395603'>Apple al fin permite el primer emulador de Windows y MS-DOS para iOS</a></h4>
     <a href='https://computerhoy.com/apple/apple-permite-primer-emulador-windows-ms-dos-ios-1395603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-fin-permite-primer-emulador-pc-ios-3728382.jpg?tf=1200x' alt='Apple al fin permite el primer emulador de Windows y MS-DOS para iOS' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/adios-smartphones-apostando-telefonos-tontos-vida-simple-1267776'>¿Es el fin de la era del smartphone? El auge de los 'móviles tontos' marca un cambio de tendencia</a></h4>
     <a href='https://computerhoy.com/tecnologia/adios-smartphones-apostando-telefonos-tontos-vida-simple-1267776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/generacion-z-muy-retro-nostalgia-desconexion-digital-privacidad-siglo-xxi-3070646.jpg?tf=1200x' alt='¿Es el fin de la era del smartphone? El auge de los 'móviles tontos' marca un cambio de tendencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/airtag-xiaomi-menos-cafe-precio-1394858'>El AirTag de Xiaomi funciona con Android y cuesta menos que un café: por 2 euros es tuyo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/airtag-xiaomi-menos-cafe-precio-1394858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/localizador-xiaomi-3692801.jpg?tf=1200x' alt='El AirTag de Xiaomi funciona con Android y cuesta menos que un café: por 2 euros es tuyo' />
     </a>
 </div>
 
