@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mes-pasado-fue-junio-caluroso-registrado-marca-tendencia-preocupante-1395530'>El mes pasado fue el junio más caluroso registrado y marca una tendencia preocupante</a></h4>
-    <a href='https://computerhoy.com/life/mes-pasado-fue-junio-caluroso-registrado-marca-tendencia-preocupante-1395530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cambio-climatico-3721145.jpg?tf=1200x' alt='El mes pasado fue el junio más caluroso registrado y marca una tendencia preocupante' />
+    <h4><a href='https://computerhoy.com/moviles/no-te-quedes-atras-3-motivos-compraria-movil-ia-ano-1394591'>No te quedes atrás: 3 motivos por los que compraría un móvil con IA este año</a></h4>
+    <a href='https://computerhoy.com/moviles/no-te-quedes-atras-3-motivos-compraria-movil-ia-ano-1394591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-zenfone-11-ultra-3298601.jpg?tf=1200x' alt='No te quedes atrás: 3 motivos por los que compraría un móvil con IA este año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/razon-audios-whatsapp-pueden-estar-fomentando-ghosting-quererlo-1395122'>Esta es la razón por las que los audios de WhatsApp pueden estar fomentando el ghosting sin quererlo</a></h4>
-    <a href='https://computerhoy.com/apps/razon-audios-whatsapp-pueden-estar-fomentando-ghosting-quererlo-1395122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-ghosting-3705706.jpg?tf=1200x' alt='Esta es la razón por las que los audios de WhatsApp pueden estar fomentando el ghosting sin quererlo' />
+    <h4><a href='https://computerhoy.com/life/acabo-anadir-funcion-premium-mi-aspiradora-dyson-solo-3-euros-ha-sido-error-1394158'>Le acabo de añadir una función premium a mi aspiradora Dyson por solo 3 euros: ha sido un error</a></h4>
+    <a href='https://computerhoy.com/life/acabo-anadir-funcion-premium-mi-aspiradora-dyson-solo-3-euros-ha-sido-error-1394158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laser-aspiradora-3662419.jpg?tf=1200x' alt='Le acabo de añadir una función premium a mi aspiradora Dyson por solo 3 euros: ha sido un error' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/podrias-estar-recibiendo-correos-electronicos-no-deseados-ti-mismo-1394611'>¿Por qué podrías estar recibiendo correos electrónicos no deseados de ti mismo?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/podrias-estar-recibiendo-correos-electronicos-no-deseados-ti-mismo-1394611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/correo-electronico-3684381.jpg?tf=1200x' alt='¿Por qué podrías estar recibiendo correos electrónicos no deseados de ti mismo?' />
+    <h4><a href='https://computerhoy.com/moviles/siempre-busco-movil-despues-7-anos-siendo-reviewer-1393675'>Lo que siempre busco en un móvil después de 7 años siendo reviewer</a></h4>
+    <a href='https://computerhoy.com/moviles/siempre-busco-movil-despues-7-anos-siendo-reviewer-1393675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/honor-magic-6-pro-3663014.jpg?tf=1200x' alt='Lo que siempre busco en un móvil después de 7 años siendo reviewer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-1395134'>¿Por qué recuerdas unas cosas sí y otras no? Así lo explica un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/ciencia/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-1395134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-3704314.jpg?tf=1200x' alt='¿Por qué recuerdas unas cosas sí y otras no? Así lo explica un nuevo estudio' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-espacio-ps5-trucos-desbloquear-almacenamiento-1387499'>Cómo liberar espacio en tu PS5: 5 trucos infalibles para desbloquear almacenamiento en tu consola</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-liberar-espacio-ps5-trucos-desbloquear-almacenamiento-1387499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ps5-playstation-5-3128532.jpg?tf=1200x' alt='Cómo liberar espacio en tu PS5: 5 trucos infalibles para desbloquear almacenamiento en tu consola' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/dgt-alerta-recibes-mensaje-sms-estafa-ya-ha-comenzado-1394336'>La DGT alerta: si recibes esté mensaje SMS la estafa ya ha comenzado</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/dgt-alerta-recibes-mensaje-sms-estafa-ya-ha-comenzado-1394336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dgt-alerta-recibes-mensaje-sms-estafa-ya-ha-comenzado-3663791.jpg?tf=1200x' alt='La DGT alerta: si recibes esté mensaje SMS la estafa ya ha comenzado' />
+    <h4><a href='https://computerhoy.com/internet/japones-ofrece-servicios-hombre-feo-internet-1395546'>Este japonés ofrece servicios de "hombre feo" en Internet, y se gana la vida con ello</a></h4>
+    <a href='https://computerhoy.com/internet/japones-ofrece-servicios-hombre-feo-internet-1395546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/japones-ofrece-servicios-hombre-feo-internet-gana-vida-ello-3724075.jpg?tf=1200x' alt='Este japonés ofrece servicios de "hombre feo" en Internet, y se gana la vida con ello' />
     </a>
 </div>
 
