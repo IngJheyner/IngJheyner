@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-1394883'>El cohete Ariane 6 despega con éxito: Europa vuelve a la primera división espacial</a></h4>
+    <a href='https://computerhoy.com/espacio/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-1394883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-3694127.jpg?tf=1200x' alt='El cohete Ariane 6 despega con éxito: Europa vuelve a la primera división espacial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606'>Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien</a></h4>
     <a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rejuvenecen-40-anos-jackie-chan-usando-ia-nueva-pelicula-pero-no-ha-ido-muy-bien-3729097.jpg?tf=1200x' alt='Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/instituto-alumnos-solo-pueden-usar-telefonos-tontos-nokia-1394878'>En este instituto los alumnos solo podrán usar teléfonos "tontos" de Nokia</a></h4>
     <a href='https://computerhoy.com/moviles/instituto-alumnos-solo-pueden-usar-telefonos-tontos-nokia-1394878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/instituto-alumnos-solo-pueden-usar-telefonos-tontos-nokia-3693555.jpg?tf=1200x' alt='En este instituto los alumnos solo podrán usar teléfonos "tontos" de Nokia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-1394859'>Códigos secretos de Android para realizar tareas de seguridad, privacidad y mantenimiento al instante</a></h4>
-    <a href='https://computerhoy.com/android/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-1394859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-3693847.jpg?tf=1200x' alt='Códigos secretos de Android para realizar tareas de seguridad, privacidad y mantenimiento al instante' />
     </a>
 </div>
 
