@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-bizum-como-metodo-pago-pedidos-amazon-1394777'>Cómo añadir Bizum como método de pago para tus pedidos de Amazon</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-anadir-bizum-como-metodo-pago-pedidos-amazon-1394777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bizum-amazon-3690750.jpg?tf=1200x' alt='Cómo añadir Bizum como método de pago para tus pedidos de Amazon' />
+    <h4><a href='https://computerhoy.com/tecnologia/ya-disponible-android-auto-124-todos-novedades-puedes-actualizar-ya-mismo-1395573'>Ya disponible Android Auto 12.4 para todos: novedades y así puedes actualizar ya mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-disponible-android-auto-124-todos-novedades-puedes-actualizar-ya-mismo-1395573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-124-3658797.jpg?tf=1200x' alt='Ya disponible Android Auto 12.4 para todos: novedades y así puedes actualizar ya mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/pasa-mantienes-pulsado-segundos-boton-linterna-movil-1395349'>¿Qué pasa si mantienes pulsado unos segundos el botón de linterna de tu móvil?</a></h4>
-    <a href='https://computerhoy.com/moviles/pasa-mantienes-pulsado-segundos-boton-linterna-movil-1395349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/linterna-movil-3711730.jpg?tf=1200x' alt='¿Qué pasa si mantienes pulsado unos segundos el botón de linterna de tu móvil?' />
+    <h4><a href='https://computerhoy.com/apps/calma-google-maps-no-anadiendo-anuncios-como-waze-menos-momento-1394782'>Calma, Google Maps no está añadiendo anuncios como Waze, al menos de momento</a></h4>
+    <a href='https://computerhoy.com/apps/calma-google-maps-no-anadiendo-anuncios-como-waze-menos-momento-1394782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-3690911.jpg?tf=1200x' alt='Calma, Google Maps no está añadiendo anuncios como Waze, al menos de momento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-permite-conocer-datos-estan-dark-web-forma-gratuita-puedes-hacerlo-1395341'>Google permite conocer si tus datos están en la dark web de forma gratuita: así puedes hacerlo</a></h4>
-    <a href='https://computerhoy.com/google/google-permite-conocer-datos-estan-dark-web-forma-gratuita-puedes-hacerlo-1395341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/dark-web-2195997.jpg?tf=1200x' alt='Google permite conocer si tus datos están en la dark web de forma gratuita: así puedes hacerlo' />
+    <h4><a href='https://computerhoy.com/energia/china-logra-sol-artificial-genere-campo-magnetico-avanzando-creacion-energia-limpia-casi-ilimitada-1395369'>China logra que su sol artificial genere un campo magnético, avanzando hacia la creación de energía limpia casi ilimitada</a></h4>
+    <a href='https://computerhoy.com/energia/china-logra-sol-artificial-genere-campo-magnetico-avanzando-creacion-energia-limpia-casi-ilimitada-1395369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fusion-nuclear-3122678.jpg?tf=1200x' alt='China logra que su sol artificial genere un campo magnético, avanzando hacia la creación de energía limpia casi ilimitada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-tecnologia-cifrar-documentos-confidenciales-solo-puedas-leerlos-1395565'>Microsoft piensa en una tecnología para cifrar documentos confidenciales para que solo puedas leerlos tú</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-tecnologia-cifrar-documentos-confidenciales-solo-puedas-leerlos-1395565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-piensa-tecnologia-cifrar-documentos-confidenciales-solo-puedas-leerlos-3726000.jpg?tf=1200x' alt='Microsoft piensa en una tecnología para cifrar documentos confidenciales para que solo puedas leerlos tú' />
+    <h4><a href='https://computerhoy.com/apple/rescatado-oceano-apple-watch-perdido-vuelve-dueno-gracias-find-my-1395500'>Rescatado del océano: un Apple Watch perdido vuelve a su dueño gracias a Find My</a></h4>
+    <a href='https://computerhoy.com/apple/rescatado-oceano-apple-watch-perdido-vuelve-dueno-gracias-find-my-1395500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-watch-3719516.jpg?tf=1200x' alt='Rescatado del océano: un Apple Watch perdido vuelve a su dueño gracias a Find My' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nasa-hace-saltar-alarmas-olvidate-vivir-estas-provincias-espana-solo-30-anos-1395367'>La NASA hace saltar las alarmas: olvídate de vivir en estas provincias en España en solo 30 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/nasa-hace-saltar-alarmas-olvidate-vivir-estas-provincias-espana-solo-30-anos-1395367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/calor-3189092.jpg?tf=1200x' alt='La NASA hace saltar las alarmas: olvídate de vivir en estas provincias en España en solo 30 años' />
+    <h4><a href='https://computerhoy.com/tecnologia/intenta-actualizar-raspberry-pi-16-gb-ram-aviso-no-hagas-1395342'>Intenta actualizar su Raspberry Pi con 16 GB de RAM: aviso, no lo hagas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/intenta-actualizar-raspberry-pi-16-gb-ram-aviso-no-hagas-1395342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/raspberry-pi-modificada-3712552.jpg?tf=1200x' alt='Intenta actualizar su Raspberry Pi con 16 GB de RAM: aviso, no lo hagas' />
     </a>
 </div>
 
