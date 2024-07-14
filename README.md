@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605'>Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA</a></h4>
+    <a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-microsoft-ya-consumen-energia-100-paises-debido-ia-3728814.jpg?tf=1200x' alt='Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/instituto-alumnos-solo-pueden-usar-telefonos-tontos-nokia-1394878'>En este instituto los alumnos solo podrán usar teléfonos "tontos" de Nokia</a></h4>
+    <a href='https://computerhoy.com/moviles/instituto-alumnos-solo-pueden-usar-telefonos-tontos-nokia-1394878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/instituto-alumnos-solo-pueden-usar-telefonos-tontos-nokia-3693555.jpg?tf=1200x' alt='En este instituto los alumnos solo podrán usar teléfonos "tontos" de Nokia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-1394859'>Códigos secretos de Android para realizar tareas de seguridad, privacidad y mantenimiento al instante</a></h4>
+    <a href='https://computerhoy.com/android/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-1394859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/codigos-secretos-android-realizar-tareas-seguridad-privacidad-mantenimiento-instante-3693847.jpg?tf=1200x' alt='Códigos secretos de Android para realizar tareas de seguridad, privacidad y mantenimiento al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/altavoz-inteligente-salva-vida-familia-incendio-pesar-no-tener-sensor-temperatura-1394873'>Un altavoz inteligente salva la vida de una familia en un incendio a pesar de no tener sensor de temperatura</a></h4>
     <a href='https://computerhoy.com/apple/altavoz-inteligente-salva-vida-familia-incendio-pesar-no-tener-sensor-temperatura-1394873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/pantalla-homepod-3007202.jpg?tf=1200x' alt='Un altavoz inteligente salva la vida de una familia en un incendio a pesar de no tener sensor de temperatura' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-permite-primer-emulador-windows-ms-dos-ios-1395603'>Apple al fin permite el primer emulador de Windows y MS-DOS para iOS</a></h4>
     <a href='https://computerhoy.com/apple/apple-permite-primer-emulador-windows-ms-dos-ios-1395603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-fin-permite-primer-emulador-pc-ios-3728382.jpg?tf=1200x' alt='Apple al fin permite el primer emulador de Windows y MS-DOS para iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ue-declara-ilegal-verificacion-marca-azul-x-1395452'>La UE declara ilegal y "un engaño", la verificación con la marca azul de X</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ue-declara-ilegal-verificacion-marca-azul-x-1395452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ue-declara-ilegal-engano-tener-pagar-obtener-verificacion-x-3714086.jpg?tf=1200x' alt='La UE declara ilegal y "un engaño", la verificación con la marca azul de X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/boton-turbo-pc-viejos-no-aceleraba-nada-bien-todo-contrario-1395419'>El botón TURBO de los PC viejos no aceleraba nada, más bien todo lo contrario</a></h4>
-    <a href='https://computerhoy.com/pc/boton-turbo-pc-viejos-no-aceleraba-nada-bien-todo-contrario-1395419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-turbo-pc-viejos-no-aceleraba-nada-bien-todo-contrario-3713477.jpg?tf=1200x' alt='El botón TURBO de los PC viejos no aceleraba nada, más bien todo lo contrario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-smartphones-apostando-telefonos-tontos-vida-simple-1267776'>¿Es el fin de la era del smartphone? El auge de los 'móviles tontos' marca un cambio de tendencia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-smartphones-apostando-telefonos-tontos-vida-simple-1267776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/generacion-z-muy-retro-nostalgia-desconexion-digital-privacidad-siglo-xxi-3070646.jpg?tf=1200x' alt='¿Es el fin de la era del smartphone? El auge de los 'móviles tontos' marca un cambio de tendencia' />
     </a>
 </div>
 
