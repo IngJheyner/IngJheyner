@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/no-sabemos-como-nintendo-switch-2-ni-cuando-saldra-venta-pero-ya-ha-hecho-historia-1395401'>No sabemos cómo es Nintendo Switch 2, ni cuando saldrá a la venta, pero ya ha hecho historia</a></h4>
-    <a href='https://computerhoy.com/gaming/no-sabemos-como-nintendo-switch-2-ni-cuando-saldra-venta-pero-ya-ha-hecho-historia-1395401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nintendo-switch-2-3712859.jpg?tf=1200x' alt='No sabemos cómo es Nintendo Switch 2, ni cuando saldrá a la venta, pero ya ha hecho historia' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/incibe-alerta-informacion-nunca-deberias-compartir-internet-1394785'>El INCIBE alerta: esta es la información que nunca deberías compartir por Internet</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/incibe-alerta-informacion-nunca-deberias-compartir-internet-1394785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mujer-tapandose-boca-3691265.jpg?tf=1200x' alt='El INCIBE alerta: esta es la información que nunca deberías compartir por Internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-1394242'>Esta es la razón por la que nunca deberías colocar una pegatina de alarma falsa al irte de vacaciones</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-1394242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razon-nunca-deberias-colocar-pegatina-alarma-falsa-irte-vacaciones-3662113.jpg?tf=1200x' alt='Esta es la razón por la que nunca deberías colocar una pegatina de alarma falsa al irte de vacaciones' />
+    <h4><a href='https://computerhoy.com/tecnologia/significan-luces-verdes-rojas-raspberry-pi-1395089'>¿Qué significan las luces verdes y rojas en una Raspberry Pi?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/significan-luces-verdes-rojas-raspberry-pi-1395089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/significan-luces-verdes-rojas-raspberry-pi-3701993.jpg?tf=1200x' alt='¿Qué significan las luces verdes y rojas en una Raspberry Pi?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-no-quiere-sigas-utilizando-estas-aplicaciones-clasicas-windows-11-1395568'>Microsoft no quiere que sigas utilizando estas aplicaciones clásicas de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-no-quiere-sigas-utilizando-estas-aplicaciones-clasicas-windows-11-1395568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/correo-electronico-outlook-3003844.jpg?tf=1200x' alt='Microsoft no quiere que sigas utilizando estas aplicaciones clásicas de Windows 11' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-ia-actualmente-no-inteligente-gato-1395343'>Según Google, la IA actualmente no es más inteligente que un gato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-ia-actualmente-no-inteligente-gato-1395343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-ia-actualmente-no-inteligente-gato-3711551.jpg?tf=1200x' alt='Según Google, la IA actualmente no es más inteligente que un gato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-tecnologia-enfria-procesadores-temperaturas-bajas-espacio-exterior-1394819'>Esta nueva tecnología enfría los procesadores a temperaturas más bajas que las del espacio exterior</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-tecnologia-enfria-procesadores-temperaturas-bajas-espacio-exterior-1394819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lanes-epfl-3691768.jpg?tf=1200x' alt='Esta nueva tecnología enfría los procesadores a temperaturas más bajas que las del espacio exterior' />
+    <h4><a href='https://computerhoy.com/pc/mantener-pc-libre-virus-malware-1394628'>10 sencillas reglas para mantener tu PC libre de virus y malware</a></h4>
+    <a href='https://computerhoy.com/pc/mantener-pc-libre-virus-malware-1394628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/evitar-virus-malware-pc-3684380.jpg?tf=1200x' alt='10 sencillas reglas para mantener tu PC libre de virus y malware' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-disponible-android-auto-124-todos-novedades-puedes-actualizar-ya-mismo-1395573'>Ya disponible Android Auto 12.4 para todos: novedades y así puedes actualizar ya mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-disponible-android-auto-124-todos-novedades-puedes-actualizar-ya-mismo-1395573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-124-3658797.jpg?tf=1200x' alt='Ya disponible Android Auto 12.4 para todos: novedades y así puedes actualizar ya mismo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-traducir-conversaciones-tiempo-real-google-traductor-1395330'>Cómo traducir conversaciones en tiempo real con Google Traductor</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-traducir-conversaciones-tiempo-real-google-traductor-1395330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/traducir-conversaciones-google-traductor-3711916.jpg?tf=1200x' alt='Cómo traducir conversaciones en tiempo real con Google Traductor' />
     </a>
 </div>
 
