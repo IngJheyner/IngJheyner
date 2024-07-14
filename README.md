@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-no-quiere-sigas-utilizando-estas-aplicaciones-clasicas-windows-11-1395568'>Microsoft no quiere que sigas utilizando estas aplicaciones clásicas de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-no-quiere-sigas-utilizando-estas-aplicaciones-clasicas-windows-11-1395568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/correo-electronico-outlook-3003844.jpg?tf=1200x' alt='Microsoft no quiere que sigas utilizando estas aplicaciones clásicas de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nueva-tecnologia-enfria-procesadores-temperaturas-bajas-espacio-exterior-1394819'>Esta nueva tecnología enfría los procesadores a temperaturas más bajas que las del espacio exterior</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nueva-tecnologia-enfria-procesadores-temperaturas-bajas-espacio-exterior-1394819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lanes-epfl-3691768.jpg?tf=1200x' alt='Esta nueva tecnología enfría los procesadores a temperaturas más bajas que las del espacio exterior' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ya-disponible-android-auto-124-todos-novedades-puedes-actualizar-ya-mismo-1395573'>Ya disponible Android Auto 12.4 para todos: novedades y así puedes actualizar ya mismo</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-disponible-android-auto-124-todos-novedades-puedes-actualizar-ya-mismo-1395573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-124-3658797.jpg?tf=1200x' alt='Ya disponible Android Auto 12.4 para todos: novedades y así puedes actualizar ya mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/china-logra-sol-artificial-genere-campo-magnetico-avanzando-creacion-energia-limpia-casi-ilimitada-1395369'>China logra que su sol artificial genere un campo magnético, avanzando hacia la creación de energía limpia casi ilimitada</a></h4>
     <a href='https://computerhoy.com/energia/china-logra-sol-artificial-genere-campo-magnetico-avanzando-creacion-energia-limpia-casi-ilimitada-1395369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/fusion-nuclear-3122678.jpg?tf=1200x' alt='China logra que su sol artificial genere un campo magnético, avanzando hacia la creación de energía limpia casi ilimitada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/rescatado-oceano-apple-watch-perdido-vuelve-dueno-gracias-find-my-1395500'>Rescatado del océano: un Apple Watch perdido vuelve a su dueño gracias a Find My</a></h4>
-    <a href='https://computerhoy.com/apple/rescatado-oceano-apple-watch-perdido-vuelve-dueno-gracias-find-my-1395500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-watch-3719516.jpg?tf=1200x' alt='Rescatado del océano: un Apple Watch perdido vuelve a su dueño gracias a Find My' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intenta-actualizar-raspberry-pi-16-gb-ram-aviso-no-hagas-1395342'>Intenta actualizar su Raspberry Pi con 16 GB de RAM: aviso, no lo hagas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intenta-actualizar-raspberry-pi-16-gb-ram-aviso-no-hagas-1395342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/raspberry-pi-modificada-3712552.jpg?tf=1200x' alt='Intenta actualizar su Raspberry Pi con 16 GB de RAM: aviso, no lo hagas' />
     </a>
 </div>
 
