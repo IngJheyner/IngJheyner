@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-divertido-seres-humanos-estudio-1395512'>ChatGPT ya es más divertido que los seres humanos, según este estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-divertido-seres-humanos-estudio-1395512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-ya-divertido-seres-humanos-3720107.jpg?tf=1200x' alt='ChatGPT ya es más divertido que los seres humanos, según este estudio' />
+    <h4><a href='https://computerhoy.com/amazon/peor-semana-verano-comprar-amazon-expertos-1394816'>Por qué esta es la peor semana del verano para comprar en Amazon, según los expertos</a></h4>
+    <a href='https://computerhoy.com/amazon/peor-semana-verano-comprar-amazon-expertos-1394816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-prime-3691949.jpg?tf=1200x' alt='Por qué esta es la peor semana del verano para comprar en Amazon, según los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-truco-viral-arrasa-espana-1394806'>Guardar una hoja de laurel en la carcasa del móvil: el truco viral que arrasa en España</a></h4>
-    <a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-truco-viral-arrasa-espana-1394806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/laurel-telefono-3691593.jpg?tf=1200x' alt='Guardar una hoja de laurel en la carcasa del móvil: el truco viral que arrasa en España' />
+    <h4><a href='https://computerhoy.com/entretenimiento/expediente-warren-dice-adios-sera-entrega-final-conjuring-1395405'>Expediente Warren dice adiós: así será la entrega final de The Conjuring</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/expediente-warren-dice-adios-sera-entrega-final-conjuring-1395405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/expediente-warren-obligado-demonio-2355615.jpg?tf=1200x' alt='Expediente Warren dice adiós: así será la entrega final de The Conjuring' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-1395355'>Sam Altman quiere que la inteligencia artificial sea tu próximo médico, y OpenAI ya está trabajando al respecto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-1395355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-3711724.jpg?tf=1200x' alt='Sam Altman quiere que la inteligencia artificial sea tu próximo médico, y OpenAI ya está trabajando al respecto' />
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-ha-construido-ciudad-acoger-35000-ingenieros-cientificos-1395593'>Huawei ha construido una ciudad para acoger a 35.000 ingenieros y científicos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-ha-construido-ciudad-acoger-35000-ingenieros-cientificos-1395593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/huawei-ha-construido-ciudad-acoger-35000-ingenieros-cientificos-3727939.jpg?tf=1200x' alt='Huawei ha construido una ciudad para acoger a 35.000 ingenieros y científicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ahorra-200-euros-iphone-15-tienda-liquidando-reacondicionados-da-dos-anos-garantia-1395111'>Ahorra más de 200 euros en el iPhone 15: esta tienda está liquidando reacondicionados y da dos años de garantía</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ahorra-200-euros-iphone-15-tienda-liquidando-reacondicionados-da-dos-anos-garantia-1395111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3141292.jpg?tf=1200x' alt='Ahorra más de 200 euros en el iPhone 15: esta tienda está liquidando reacondicionados y da dos años de garantía' />
+    <h4><a href='https://computerhoy.com/android/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-1394845'>Esta app que no usas es la que más batería del móvil gasta: así he conseguido que su consumo sea cero</a></h4>
+    <a href='https://computerhoy.com/android/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-1394845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/app-no-usas-bateria-movil-gasta-he-conseguido-consumo-sea-cero-3692955.jpg?tf=1200x' alt='Esta app que no usas es la que más batería del móvil gasta: así he conseguido que su consumo sea cero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/buques-guerra-alemania-todavia-utilizan-disquetes-8-pulgadas-1395589'>Los buques de guerra de Alemania todavía utilizan disquetes de 8 pulgadas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/buques-guerra-alemania-todavia-utilizan-disquetes-8-pulgadas-1395589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/buques-guerra-alemania-todavia-utilizan-disquetes-8-pulgadas-3727638.jpg?tf=1200x' alt='Los buques de guerra de Alemania todavía utilizan disquetes de 8 pulgadas' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-opina-nada-bueno-espanoles-comunidad-autonoma-1236976'>ChatGPT "se ha pasado": Esto es lo que opina de los españoles según la comunidad autónoma en la que viven</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-opina-nada-bueno-espanoles-comunidad-autonoma-1236976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-lado-oscuro-chatgpt-opina-habitantes-cada-comunidad-autonoma-espana-3021220.jpg?tf=1200x' alt='ChatGPT "se ha pasado": Esto es lo que opina de los españoles según la comunidad autónoma en la que viven' />
     </a>
 </div>
 
