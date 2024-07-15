@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-divertido-seres-humanos-estudio-1395512'>ChatGPT ya es más divertido que los seres humanos, según este estudio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-divertido-seres-humanos-estudio-1395512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-ya-divertido-seres-humanos-3720107.jpg?tf=1200x' alt='ChatGPT ya es más divertido que los seres humanos, según este estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/prepara-prime-day-arraso-ano-pasado-seguramente-vuelva-estar-oferta-1395181'>Prepara tu Prime Day: esto es lo que arrasó el año pasado, y seguramente vuelva a estar en oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/prepara-prime-day-arraso-ano-pasado-seguramente-vuelva-estar-oferta-1395181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-day-3074334.jpg?tf=1200x' alt='Prepara tu Prime Day: esto es lo que arrasó el año pasado, y seguramente vuelva a estar en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cerrajeros-dan-voz-alarma-herramienta-abre-80-cerraduras-segundos-1395048'>Los cerrajeros dan la voz de alarma: esta herramienta abre el 80% de las cerraduras en segundos</a></h4>
+    <a href='https://computerhoy.com/life/cerrajeros-dan-voz-alarma-herramienta-abre-80-cerraduras-segundos-1395048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cerrajeros-dan-voz-alarma-herramienta-abre-80-cerraduras-segundos-3699758.jpg?tf=1200x' alt='Los cerrajeros dan la voz de alarma: esta herramienta abre el 80% de las cerraduras en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/buques-guerra-alemania-todavia-utilizan-disquetes-8-pulgadas-1395589'>Los buques de guerra de Alemania todavía utilizan disquetes de 8 pulgadas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/buques-guerra-alemania-todavia-utilizan-disquetes-8-pulgadas-1395589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/buques-guerra-alemania-todavia-utilizan-disquetes-8-pulgadas-3727638.jpg?tf=1200x' alt='Los buques de guerra de Alemania todavía utilizan disquetes de 8 pulgadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/instalar-netflix-fire-tv-directamente-smart-tv-mejor-1395084'>Instalar Netflix en el Fire TV o directamente en el Smart TV: ¿qué es mejor?</a></h4>
     <a href='https://computerhoy.com/tecnologia/instalar-netflix-fire-tv-directamente-smart-tv-mejor-1395084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/instalar-netflix-fire-tv-directamente-smart-tv-mejor-3701670.jpg?tf=1200x' alt='Instalar Netflix en el Fire TV o directamente en el Smart TV: ¿qué es mejor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ni-spam-ni-junk-nuevo-termino-nos-trae-ia-basura-internet-1391996'>Ni 'spam' ni 'junk': este es el nuevo término que nos trae la IA para la basura en internet</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ni-spam-ni-junk-nuevo-termino-nos-trae-ia-basura-internet-1391996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-spam-ni-junk-nuevo-termino-nos-trae-ia-basura-internet-3555584.jpg?tf=1200x' alt='Ni 'spam' ni 'junk': este es el nuevo término que nos trae la IA para la basura en internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/iptv-como-funciona-kodi-mejores-listas-canales-tv-gratis-1124459'>IPTV: qué es, cómo funciona, Kodi y mejores listas de canales de TV gratis</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/iptv-como-funciona-kodi-mejores-listas-canales-tv-gratis-1124459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/futbol-iptv-3297850.jpg?tf=1200x' alt='IPTV: qué es, cómo funciona, Kodi y mejores listas de canales de TV gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/ni-cable-ni-wifi-caracteristica-verdaderamente-importante-jugar-pc-latencia-1394884'>Ni cable ni WiFi, esta es la característica verdaderamente importante para jugar con tu PC: la latencia</a></h4>
-    <a href='https://computerhoy.com/redes/ni-cable-ni-wifi-caracteristica-verdaderamente-importante-jugar-pc-latencia-1394884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-cable-ni-wifi-caracteristica-verdaderamente-importante-jugar-pc-latencia-3695249.jpg?tf=1200x' alt='Ni cable ni WiFi, esta es la característica verdaderamente importante para jugar con tu PC: la latencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-abre-puertas-echo-bajan-precio-masa-convencerte-poner-alexa-casa-1395260'>Amazon abre las puertas: los Echo bajan de precio en masa para convencerte de poner Alexa en casa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-abre-puertas-echo-bajan-precio-masa-convencerte-poner-alexa-casa-1395260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/amazon-echo-dot-4a-generacion-2471825.jpg?tf=1200x' alt='Amazon abre las puertas: los Echo bajan de precio en masa para convencerte de poner Alexa en casa' />
     </a>
 </div>
 
