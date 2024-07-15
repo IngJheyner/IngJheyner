@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/utilizas-todavia-ruta-rapida-google-maps-1394966'>¿Por qué utilizas (todavía) la ruta más rápida en Google Maps?</a></h4>
-    <a href='https://computerhoy.com/apps/utilizas-todavia-ruta-rapida-google-maps-1394966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cruce-caminos-google-maps-3698028.jpg?tf=1200x' alt='¿Por qué utilizas (todavía) la ruta más rápida en Google Maps?' />
+    <h4><a href='https://computerhoy.com/tecnologia/instalar-netflix-fire-tv-directamente-smart-tv-mejor-1395084'>Instalar Netflix en el Fire TV o directamente en el Smart TV: ¿qué es mejor?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/instalar-netflix-fire-tv-directamente-smart-tv-mejor-1395084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/instalar-netflix-fire-tv-directamente-smart-tv-mejor-3701670.jpg?tf=1200x' alt='Instalar Netflix en el Fire TV o directamente en el Smart TV: ¿qué es mejor?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/realmente-necesitas-red-wifi-malla-hogar-debes-saber-antes-tirar-dinero-1395468'>¿Realmente necesitas una red WiFi de malla en tu hogar? Lo que debes saber antes de tirar tu dinero</a></h4>
-    <a href='https://computerhoy.com/redes/realmente-necesitas-red-wifi-malla-hogar-debes-saber-antes-tirar-dinero-1395468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realmente-necesitas-red-wifi-malla-hogar-debes-saber-antes-tirar-dinero-3717352.jpg?tf=1200x' alt='¿Realmente necesitas una red WiFi de malla en tu hogar? Lo que debes saber antes de tirar tu dinero' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ni-spam-ni-junk-nuevo-termino-nos-trae-ia-basura-internet-1391996'>Ni 'spam' ni 'junk': este es el nuevo término que nos trae la IA para la basura en internet</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ni-spam-ni-junk-nuevo-termino-nos-trae-ia-basura-internet-1391996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-spam-ni-junk-nuevo-termino-nos-trae-ia-basura-internet-3555584.jpg?tf=1200x' alt='Ni 'spam' ni 'junk': este es el nuevo término que nos trae la IA para la basura en internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fire-tv-stick-son-baratos-nunca-prime-day-ademas-vienen-sorpresa-gamers-1395270'>Los Fire TV Stick son más baratos que nunca en el Prime Day y además vienen con sorpresa para gamers</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fire-tv-stick-son-baratos-nunca-prime-day-ademas-vienen-sorpresa-gamers-1395270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fire-tv-stick-prime-day-3707127.jpg?tf=1200x' alt='Los Fire TV Stick son más baratos que nunca en el Prime Day y además vienen con sorpresa para gamers' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/iptv-como-funciona-kodi-mejores-listas-canales-tv-gratis-1124459'>IPTV: qué es, cómo funciona, Kodi y mejores listas de canales de TV gratis</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/iptv-como-funciona-kodi-mejores-listas-canales-tv-gratis-1124459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/futbol-iptv-3297850.jpg?tf=1200x' alt='IPTV: qué es, cómo funciona, Kodi y mejores listas de canales de TV gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gpt-4-prueba-test-turing-no-buena-noticia-1391232'>GPT-4 habría superado el test de Turing, y eso es una muy mala noticia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gpt-4-prueba-test-turing-no-buena-noticia-1391232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ser-humano-interactuando-ia-3516306.jpg?tf=1200x' alt='GPT-4 habría superado el test de Turing, y eso es una muy mala noticia' />
+    <h4><a href='https://computerhoy.com/redes/ni-cable-ni-wifi-caracteristica-verdaderamente-importante-jugar-pc-latencia-1394884'>Ni cable ni WiFi, esta es la característica verdaderamente importante para jugar con tu PC: la latencia</a></h4>
+    <a href='https://computerhoy.com/redes/ni-cable-ni-wifi-caracteristica-verdaderamente-importante-jugar-pc-latencia-1394884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-cable-ni-wifi-caracteristica-verdaderamente-importante-jugar-pc-latencia-3695249.jpg?tf=1200x' alt='Ni cable ni WiFi, esta es la característica verdaderamente importante para jugar con tu PC: la latencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hoy-dia-kindle-desploman-precio-vienen-ya-miles-libros-gratis-1395189'>Hoy es el día: los Kindle desploman su precio y vienen ya con miles de libros gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hoy-dia-kindle-desploman-precio-vienen-ya-miles-libros-gratis-1395189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/kindle-prime-day-3705239.jpg?tf=1200x' alt='Hoy es el día: los Kindle desploman su precio y vienen ya con miles de libros gratis' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-abre-puertas-echo-bajan-precio-masa-convencerte-poner-alexa-casa-1395260'>Amazon abre las puertas: los Echo bajan de precio en masa para convencerte de poner Alexa en casa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-abre-puertas-echo-bajan-precio-masa-convencerte-poner-alexa-casa-1395260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/amazon-echo-dot-4a-generacion-2471825.jpg?tf=1200x' alt='Amazon abre las puertas: los Echo bajan de precio en masa para convencerte de poner Alexa en casa' />
     </a>
 </div>
 
