@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-1395002'>Un científico de Oxford cree tener pruebas de que el universo es una simulación “a lo Matrix”</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-1395002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-3698491.jpg?tf=1200x' alt='Un científico de Oxford cree tener pruebas de que el universo es una simulación “a lo Matrix”' />
+    <h4><a href='https://computerhoy.com/pc/procesadores-amd-ryzen-9000-escritorio-arquitectura-zen-5-fecha-lanzamiento-caracteristicas-1395806'>Procesadores AMD Ryzen 9000 de escritorio, con arquitectura Zen 5: fecha de lanzamiento y nuevas características</a></h4>
+    <a href='https://computerhoy.com/pc/procesadores-amd-ryzen-9000-escritorio-arquitectura-zen-5-fecha-lanzamiento-caracteristicas-1395806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amd-ryzen-9000-sobremesa-arquitectura-zen-5-fecha-lanzamiento-nuevas-caracteristicas-3735495.jpg?tf=1200x' alt='Procesadores AMD Ryzen 9000 de escritorio, con arquitectura Zen 5: fecha de lanzamiento y nuevas características' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/vida-inteligente-galaxia-probablemente-no-dice-estudio-1394931'>¿Vida inteligente en nuestra galaxia? Probablemente no, dice un estudio</a></h4>
-    <a href='https://computerhoy.com/ciencia/vida-inteligente-galaxia-probablemente-no-dice-estudio-1394931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vida-inteligente-galaxia-probablemente-no-dice-estudio-3697259.jpg?tf=1200x' alt='¿Vida inteligente en nuestra galaxia? Probablemente no, dice un estudio' />
+    <h4><a href='https://computerhoy.com/tecnologia/strawberry-nuevo-proyecto-openai-promete-ia-razonamiento-avanzado-1395804'>Strawberry: el nuevo proyecto de OpenAI que promete una IA con razonamiento avanzado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/strawberry-nuevo-proyecto-openai-promete-ia-razonamiento-avanzado-1395804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3274436.jpg?tf=1200x' alt='Strawberry: el nuevo proyecto de OpenAI que promete una IA con razonamiento avanzado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-terror-ambientadas-parques-atracciones-1394852'>5 películas de terror ambientadas en parques de atracciones: cuando diversión y miedo van de la mano</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-terror-ambientadas-parques-atracciones-1394852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-peliculas-terror-ambientadas-parques-atracciones-cuando-diversion-miedo-van-mano-3692594.jpg?tf=1200x' alt='5 películas de terror ambientadas en parques de atracciones: cuando diversión y miedo van de la mano' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081'>La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-3700953.jpg?tf=1200x' alt='La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/disney-hackeada-oleada-revelaciones-series-videojuegos-1395790'>Disney, hackeada: anuncian oleada de revelaciones de series y videojuegos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/disney-hackeada-oleada-revelaciones-series-videojuegos-1395790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/disney-hackeada-anuncian-oleada-revelaciones-series-videojuegos-3735058.jpg?tf=1200x' alt='Disney, hackeada: anuncian oleada de revelaciones de series y videojuegos' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-alerta-vulnerabilidad-critica-outlook-urge-actualizar-windows-10-11-1395802'>Microsoft alerta sobre una vulnerabilidad crítica en Outlook y urge actualizar Windows 10 y 11</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/microsoft-alerta-vulnerabilidad-critica-outlook-urge-actualizar-windows-10-11-1395802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/correo-electronico-outlook-3652399.jpg?tf=1200x' alt='Microsoft alerta sobre una vulnerabilidad crítica en Outlook y urge actualizar Windows 10 y 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-1395737'>Adiós al calor con un invento capaz de enfriar una habitación sin instalación ni electricidad</a></h4>
-    <a href='https://computerhoy.com/life/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-1395737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-3733982.jpg?tf=1200x' alt='Adiós al calor con un invento capaz de enfriar una habitación sin instalación ni electricidad' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-publica-imagenes-iso-windows-11-24h2-instalaciones-limpias-1395800'>Microsoft publica imágenes ISO de Windows 11 24H2 para instalaciones limpias</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-publica-imagenes-iso-windows-11-24h2-instalaciones-limpias-1395800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-actualizacion-3363140.jpg?tf=1200x' alt='Microsoft publica imágenes ISO de Windows 11 24H2 para instalaciones limpias' />
     </a>
 </div>
 
