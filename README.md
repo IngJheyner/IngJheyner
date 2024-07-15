@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/utilizas-todavia-ruta-rapida-google-maps-1394966'>¿Por qué utilizas (todavía) la ruta más rápida en Google Maps?</a></h4>
+    <a href='https://computerhoy.com/apps/utilizas-todavia-ruta-rapida-google-maps-1394966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cruce-caminos-google-maps-3698028.jpg?tf=1200x' alt='¿Por qué utilizas (todavía) la ruta más rápida en Google Maps?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/realmente-necesitas-red-wifi-malla-hogar-debes-saber-antes-tirar-dinero-1395468'>¿Realmente necesitas una red WiFi de malla en tu hogar? Lo que debes saber antes de tirar tu dinero</a></h4>
+    <a href='https://computerhoy.com/redes/realmente-necesitas-red-wifi-malla-hogar-debes-saber-antes-tirar-dinero-1395468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realmente-necesitas-red-wifi-malla-hogar-debes-saber-antes-tirar-dinero-3717352.jpg?tf=1200x' alt='¿Realmente necesitas una red WiFi de malla en tu hogar? Lo que debes saber antes de tirar tu dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fire-tv-stick-son-baratos-nunca-prime-day-ademas-vienen-sorpresa-gamers-1395270'>Los Fire TV Stick son más baratos que nunca en el Prime Day y además vienen con sorpresa para gamers</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fire-tv-stick-son-baratos-nunca-prime-day-ademas-vienen-sorpresa-gamers-1395270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fire-tv-stick-prime-day-3707127.jpg?tf=1200x' alt='Los Fire TV Stick son más baratos que nunca en el Prime Day y además vienen con sorpresa para gamers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/gpt-4-prueba-test-turing-no-buena-noticia-1391232'>GPT-4 habría superado el test de Turing, y eso es una muy mala noticia</a></h4>
     <a href='https://computerhoy.com/tecnologia/gpt-4-prueba-test-turing-no-buena-noticia-1391232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ser-humano-interactuando-ia-3516306.jpg?tf=1200x' alt='GPT-4 habría superado el test de Turing, y eso es una muy mala noticia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/hoy-dia-kindle-desploman-precio-vienen-ya-miles-libros-gratis-1395189'>Hoy es el día: los Kindle desploman su precio y vienen ya con miles de libros gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/hoy-dia-kindle-desploman-precio-vienen-ya-miles-libros-gratis-1395189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/kindle-prime-day-3705239.jpg?tf=1200x' alt='Hoy es el día: los Kindle desploman su precio y vienen ya con miles de libros gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/borra-ya-estas-extensiones-google-chrome-acceden-todos-movimientos-online-1395724'>Borra ya estas extensiones de Google Chrome: acceden a todos tus movimientos online</a></h4>
-    <a href='https://computerhoy.com/internet/borra-ya-estas-extensiones-google-chrome-acceden-todos-movimientos-online-1395724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Borra ya estas extensiones de Google Chrome: acceden a todos tus movimientos online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/rescatado-oceano-apple-watch-perdido-vuelve-dueno-gracias-find-my-1395500'>Rescatado del océano: un Apple Watch perdido vuelve a su dueño gracias a Find My</a></h4>
-    <a href='https://computerhoy.com/apple/rescatado-oceano-apple-watch-perdido-vuelve-dueno-gracias-find-my-1395500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-watch-3719516.jpg?tf=1200x' alt='Rescatado del océano: un Apple Watch perdido vuelve a su dueño gracias a Find My' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/generador-solar-top-ventas-amazon-ahorrar-energia-1335856'>Este generador solar la lía en Amazon: ahorra en tu factura y es perfecto para ir de camping</a></h4>
-    <a href='https://computerhoy.com/tecnologia/generador-solar-top-ventas-amazon-ahorrar-energia-1335856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/allpowers-r600-3234326.jpg?tf=1200x' alt='Este generador solar la lía en Amazon: ahorra en tu factura y es perfecto para ir de camping' />
     </a>
 </div>
 
