@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/hoy-dia-vas-usar-prueba-gratis-amazon-prime-debes-saber-1395505'>Hoy es el día: si vas a usar la prueba gratis de Amazon Prime, esto es lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/amazon/hoy-dia-vas-usar-prueba-gratis-amazon-prime-debes-saber-1395505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nunca-debes-comprar-antes-amazon-prime-day-cuando-mejor-momento-3691601.jpg?tf=1200x' alt='Hoy es el día: si vas a usar la prueba gratis de Amazon Prime, esto es lo que debes saber' />
+    <h4><a href='https://computerhoy.com/apps/youtube-te-permitira-solicitar-eliminen-video-imita-cara-voz-ia-1395632'>YouTube te permitirá solicitar que eliminen un vídeo si imita tu cara o tu voz con IA</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-te-permitira-solicitar-eliminen-video-imita-cara-voz-ia-1395632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/youtube-te-permitira-pedir-eliminen-video-imita-cara-voz-ia-3732216.jpg?tf=1200x' alt='YouTube te permitirá solicitar que eliminen un vídeo si imita tu cara o tu voz con IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/esperanza-ultimo-pierde-rescate-apple-watch-fondo-mar-18-meses-demuestra-1395636'>La esperanza es lo último que se pierde y el rescate de este Apple Watch del fondo de mar tras 18 meses lo demuestra</a></h4>
-    <a href='https://computerhoy.com/apple/esperanza-ultimo-pierde-rescate-apple-watch-fondo-mar-18-meses-demuestra-1395636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-watch-oceano-3732225.jpg?tf=1200x' alt='La esperanza es lo último que se pierde y el rescate de este Apple Watch del fondo de mar tras 18 meses lo demuestra' />
+    <h4><a href='https://computerhoy.com/tecnologia/tatsuo-horiuchi-artista-japones-pinta-obras-maestras-excel-1394926'>Este es Tatsuo Horiuchi, el artista japonés que pinta obras maestras en Excel </a></h4>
+    <a href='https://computerhoy.com/tecnologia/tatsuo-horiuchi-artista-japones-pinta-obras-maestras-excel-1394926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuadro-excel-3697261.jpg?tf=1200x' alt='Este es Tatsuo Horiuchi, el artista japonés que pinta obras maestras en Excel ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/camara-cine-inteligencia-artificial-sueno-pesadilla-directores-1394914'>Esta cámara de cine con inteligencia artificial es el sueño y la pesadilla de los directores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/camara-cine-inteligencia-artificial-sueno-pesadilla-directores-1394914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/camara-cine-3697101.jpg?tf=1200x' alt='Esta cámara de cine con inteligencia artificial es el sueño y la pesadilla de los directores' />
+    <h4><a href='https://computerhoy.com/patrocinado/escapadas-sol-aprovecha-mejores-ofertas-verano-aliexpress-1395637'>Escapadas al Sol: ¡Aprovecha las mejores ofertas del verano en AliExpress!</a></h4>
+    <a href='https://computerhoy.com/patrocinado/escapadas-sol-aprovecha-mejores-ofertas-verano-aliexpress-1395637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aliexpress-verano-3732066.jpg?tf=1200x' alt='Escapadas al Sol: ¡Aprovecha las mejores ofertas del verano en AliExpress!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-virus-windows-sin-programas-1394840'>Cómo eliminar cualquier virus de Windows sin programas ni antivirus</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-eliminar-virus-windows-sin-programas-1394840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/eliminar-virus-pc-3711884.jpg?tf=1200x' alt='Cómo eliminar cualquier virus de Windows sin programas ni antivirus' />
+    <h4><a href='https://computerhoy.com/hogar/electrodomesticos-debes-desenchufar-cuando-te-vas-vacaciones-no-1393671'>Electrodomésticos que debes desenchufar cuando te vas de vacaciones (y los que no)</a></h4>
+    <a href='https://computerhoy.com/hogar/electrodomesticos-debes-desenchufar-cuando-te-vas-vacaciones-no-1393671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/enchufe-europeo-3711896.jpg?tf=1200x' alt='Electrodomésticos que debes desenchufar cuando te vas de vacaciones (y los que no)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/metodo-puntos-steve-jobs-chatgpt-disenos-son-geniales-1348652'>He pedido a ChatGPT que utilice el método de puntos de Steve Jobs y los inventos que ha generado son fascinantes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/metodo-puntos-steve-jobs-chatgpt-disenos-son-geniales-1348652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/he-pedido-chatgpt-utilice-metodo-puntos-steve-jobs-inventos-ha-generado-son-fascinantes-3247419.jpg?tf=1200x' alt='He pedido a ChatGPT que utilice el método de puntos de Steve Jobs y los inventos que ha generado son fascinantes' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-diferencias-cual-dos-deberias-usar-1395297'>WhatsApp Web vs. WhatsApp de escritorio: diferencias y cuál de las dos deberías usar</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-diferencias-cual-dos-deberias-usar-1395297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-web-vs-whatsapp-escritorio-diferencias-cual-dos-deberias-usar-3710495.jpg?tf=1200x' alt='WhatsApp Web vs. WhatsApp de escritorio: diferencias y cuál de las dos deberías usar' />
     </a>
 </div>
 
