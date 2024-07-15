@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606'>Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rejuvenecen-40-anos-jackie-chan-usando-ia-nueva-pelicula-pero-no-ha-ido-muy-bien-3729097.jpg?tf=1200x' alt='Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/arduino-plug-and-make-kit-electronica-diy-1395809'>Los nuevos kits tipo Lego de Arduino te convierten en un hacker de la forma más sencilla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/arduino-plug-and-make-kit-electronica-diy-1395809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1721078144174-3736363.jpg?tf=1200x' alt='Los nuevos kits tipo Lego de Arduino te convierten en un hacker de la forma más sencilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605'>Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA</a></h4>
     <a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-microsoft-ya-consumen-energia-100-paises-debido-ia-3728814.jpg?tf=1200x' alt='Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/procesadores-amd-ryzen-9000-escritorio-arquitectura-zen-5-fecha-lanzamiento-caracteristicas-1395806'>Procesadores AMD Ryzen 9000 de escritorio, con arquitectura Zen 5: fecha de lanzamiento y nuevas características</a></h4>
     <a href='https://computerhoy.com/pc/procesadores-amd-ryzen-9000-escritorio-arquitectura-zen-5-fecha-lanzamiento-caracteristicas-1395806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amd-ryzen-9000-sobremesa-arquitectura-zen-5-fecha-lanzamiento-nuevas-caracteristicas-3735495.jpg?tf=1200x' alt='Procesadores AMD Ryzen 9000 de escritorio, con arquitectura Zen 5: fecha de lanzamiento y nuevas características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/strawberry-nuevo-proyecto-openai-promete-ia-razonamiento-avanzado-1395804'>Strawberry: el nuevo proyecto de OpenAI que promete una IA con razonamiento avanzado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/strawberry-nuevo-proyecto-openai-promete-ia-razonamiento-avanzado-1395804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3274436.jpg?tf=1200x' alt='Strawberry: el nuevo proyecto de OpenAI que promete una IA con razonamiento avanzado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081'>La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-3700953.jpg?tf=1200x' alt='La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”' />
     </a>
 </div>
 
