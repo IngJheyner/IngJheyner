@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-relojes-deportivos-prime-day-garmin-apunta-suunto-polar-1395497'>Liquidación en relojes deportivos por el Prime Day: Garmin se apunta con Suunto, Polar y más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/liquidacion-relojes-deportivos-prime-day-garmin-apunta-suunto-polar-1395497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-fenix-7s-3189996.jpg?tf=1200x' alt='Liquidación en relojes deportivos por el Prime Day: Garmin se apunta con Suunto, Polar y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-lia-rebaja-varios-moviles-top-ventas-prime-day-estos-son-interesantes-1395431'>Amazon la lía y rebaja varios móviles top ventas en el Prime Day: estos son los más interesantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-lia-rebaja-varios-moviles-top-ventas-prime-day-estos-son-interesantes-1395431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-prime-day-pixel-8-pro-3713476.jpg?tf=1200x' alt='Amazon la lía y rebaja varios móviles top ventas en el Prime Day: estos son los más interesantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-mas-top-liquidacion-amazon-prime-day-1316776'>Amazon liquida el Garmin más top en el Prime Day: el Fenix 7 vuelve a ser un chollo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-fenix-mas-top-liquidacion-amazon-prime-day-1316776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7x-solar-2591043.jpg?tf=1200x' alt='Amazon liquida el Garmin más top en el Prime Day: el Fenix 7 vuelve a ser un chollo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-amazon-prime-day-2024-1395319'>No pierdas tiempo: estas son las 10 ofertas más destacadas del Amazon Prime Day 2024</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-amazon-prime-day-2024-1395319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/top-ofertas-prime-day-2024-3710937.jpg?tf=1200x' alt='No pierdas tiempo: estas son las 10 ofertas más destacadas del Amazon Prime Day 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606'>Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien</a></h4>
     <a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rejuvenecen-40-anos-jackie-chan-usando-ia-nueva-pelicula-pero-no-ha-ido-muy-bien-3729097.jpg?tf=1200x' alt='Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/arduino-plug-and-make-kit-electronica-diy-1395809'>Los nuevos kits tipo Lego de Arduino te convierten en un hacker de la forma más sencilla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/arduino-plug-and-make-kit-electronica-diy-1395809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1721078144174-3736363.jpg?tf=1200x' alt='Los nuevos kits tipo Lego de Arduino te convierten en un hacker de la forma más sencilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605'>Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA</a></h4>
-    <a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-microsoft-ya-consumen-energia-100-paises-debido-ia-3728814.jpg?tf=1200x' alt='Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-1395073'>El Banco de España alerta del grave error que la mayoría de españoles cometen al pagar con el móvil</a></h4>
-    <a href='https://computerhoy.com/life/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-1395073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-3700954.jpg?tf=1200x' alt='El Banco de España alerta del grave error que la mayoría de españoles cometen al pagar con el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/procesadores-amd-ryzen-9000-escritorio-arquitectura-zen-5-fecha-lanzamiento-caracteristicas-1395806'>Procesadores AMD Ryzen 9000 de escritorio, con arquitectura Zen 5: fecha de lanzamiento y nuevas características</a></h4>
-    <a href='https://computerhoy.com/pc/procesadores-amd-ryzen-9000-escritorio-arquitectura-zen-5-fecha-lanzamiento-caracteristicas-1395806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amd-ryzen-9000-sobremesa-arquitectura-zen-5-fecha-lanzamiento-nuevas-caracteristicas-3735495.jpg?tf=1200x' alt='Procesadores AMD Ryzen 9000 de escritorio, con arquitectura Zen 5: fecha de lanzamiento y nuevas características' />
     </a>
 </div>
 
