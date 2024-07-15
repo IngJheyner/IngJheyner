@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/microsoft-plantea-dejar-comercializar-consolas-xbox-centrarse-game-pass-europa-oriente-medio-africa-1395704'>Microsoft se plantea dejar de comercializar sus consolas Xbox para centrarse en Game Pass en Europa, Oriente Medio y África</a></h4>
-    <a href='https://computerhoy.com/gaming/microsoft-plantea-dejar-comercializar-consolas-xbox-centrarse-game-pass-europa-oriente-medio-africa-1395704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-sacar-maximo-partido-xbox-series-x-trucos-mejorar-rendimiento-3277434.jpg?tf=1200x' alt='Microsoft se plantea dejar de comercializar sus consolas Xbox para centrarse en Game Pass en Europa, Oriente Medio y África' />
+    <h4><a href='https://computerhoy.com/tecnologia/hoy-dia-kindle-desploman-precio-vienen-ya-miles-libros-gratis-1395189'>Hoy es el día: los Kindle desploman su precio y vienen ya con miles de libros gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hoy-dia-kindle-desploman-precio-vienen-ya-miles-libros-gratis-1395189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/kindle-prime-day-3705239.jpg?tf=1200x' alt='Hoy es el día: los Kindle desploman su precio y vienen ya con miles de libros gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/truco-recomendado-policia-nacional-evitar-estafas-grupos-whatsapp-1395696'>El truco recomendado por la Policía Nacional para evitar estafas en grupos de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/truco-recomendado-policia-nacional-evitar-estafas-grupos-whatsapp-1395696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-whatsapp-3733013.jpg?tf=1200x' alt='El truco recomendado por la Policía Nacional para evitar estafas en grupos de WhatsApp' />
+    <h4><a href='https://computerhoy.com/internet/borra-ya-estas-extensiones-google-chrome-acceden-todos-movimientos-online-1395724'>Borra ya estas extensiones de Google Chrome: acceden a todos tus movimientos online</a></h4>
+    <a href='https://computerhoy.com/internet/borra-ya-estas-extensiones-google-chrome-acceden-todos-movimientos-online-1395724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Borra ya estas extensiones de Google Chrome: acceden a todos tus movimientos online' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-tecnologia-cifrar-documentos-confidenciales-solo-puedas-leerlos-1395565'>Microsoft piensa en una tecnología para cifrar documentos confidenciales para que solo puedas leerlos tú</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-tecnologia-cifrar-documentos-confidenciales-solo-puedas-leerlos-1395565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-piensa-tecnologia-cifrar-documentos-confidenciales-solo-puedas-leerlos-3726000.jpg?tf=1200x' alt='Microsoft piensa en una tecnología para cifrar documentos confidenciales para que solo puedas leerlos tú' />
+    <h4><a href='https://computerhoy.com/apple/rescatado-oceano-apple-watch-perdido-vuelve-dueno-gracias-find-my-1395500'>Rescatado del océano: un Apple Watch perdido vuelve a su dueño gracias a Find My</a></h4>
+    <a href='https://computerhoy.com/apple/rescatado-oceano-apple-watch-perdido-vuelve-dueno-gracias-find-my-1395500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-watch-3719516.jpg?tf=1200x' alt='Rescatado del océano: un Apple Watch perdido vuelve a su dueño gracias a Find My' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/movil-haciendo-alguna-estas-cosas-extranas-estan-espiandote-1395092'>Si tu móvil está haciendo alguna de estas cosas extrañas, están espiándote</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/movil-haciendo-alguna-estas-cosas-extranas-estan-espiandote-1395092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movil-haciendo-alguna-estas-cosas-extranas-estan-espiandote-3702541.jpg?tf=1200x' alt='Si tu móvil está haciendo alguna de estas cosas extrañas, están espiándote' />
+    <h4><a href='https://computerhoy.com/tecnologia/generador-solar-top-ventas-amazon-ahorrar-energia-1335856'>Este generador solar la lía en Amazon: ahorra en tu factura y es perfecto para ir de camping</a></h4>
+    <a href='https://computerhoy.com/tecnologia/generador-solar-top-ventas-amazon-ahorrar-energia-1335856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/allpowers-r600-3234326.jpg?tf=1200x' alt='Este generador solar la lía en Amazon: ahorra en tu factura y es perfecto para ir de camping' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/truco-boton-123-android-no-conocias-ahora-no-podras-dejar-usar-1394991'>El truco del botón 123 de Android que no conocías y que ahora no podrás dejar de usar</a></h4>
-    <a href='https://computerhoy.com/android/truco-boton-123-android-no-conocias-ahora-no-podras-dejar-usar-1394991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-123-android-3712083.jpg?tf=1200x' alt='El truco del botón 123 de Android que no conocías y que ahora no podrás dejar de usar' />
+    <h4><a href='https://computerhoy.com/tecnologia/piensas-estas-bloqueando-llamada-spam-realidad-pides-te-llamen-peligros-consentimiento-previo-1394958'>Piensas que estás bloqueando una llamada Spam y en realidad pides que te llamen: los peligros del consentimiento previo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/piensas-estas-bloqueando-llamada-spam-realidad-pides-te-llamen-peligros-consentimiento-previo-1394958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/adios-spam-telefonico-normativa-impedira-recibir-llamadas-no-deseadas-no-3025290.jpg?tf=1200x' alt='Piensas que estás bloqueando una llamada Spam y en realidad pides que te llamen: los peligros del consentimiento previo' />
     </a>
 </div>
 
