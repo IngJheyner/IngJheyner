@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-dia-magico-steve-jobs-mejoraba-vida-laboral-apple-1395666'>Cómo el "día mágico" de Steve Jobs mejoraba la vida laboral en Apple</a></h4>
-    <a href='https://computerhoy.com/apple/como-dia-magico-steve-jobs-mejoraba-vida-laboral-apple-1395666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/obsesion-steve-jobs-skeuomorfismo-ios-fue-diseno-odiado-3301002.jpg?tf=1200x' alt='Cómo el "día mágico" de Steve Jobs mejoraba la vida laboral en Apple' />
+    <h4><a href='https://computerhoy.com/gaming/microsoft-plantea-dejar-comercializar-consolas-xbox-centrarse-game-pass-europa-oriente-medio-africa-1395704'>Microsoft se plantea dejar de comercializar sus consolas Xbox para centrarse en Game Pass en Europa, Oriente Medio y África</a></h4>
+    <a href='https://computerhoy.com/gaming/microsoft-plantea-dejar-comercializar-consolas-xbox-centrarse-game-pass-europa-oriente-medio-africa-1395704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-sacar-maximo-partido-xbox-series-x-trucos-mejorar-rendimiento-3277434.jpg?tf=1200x' alt='Microsoft se plantea dejar de comercializar sus consolas Xbox para centrarse en Game Pass en Europa, Oriente Medio y África' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/bloquear-alguien-facebook-x-whatsapp-mejora-salud-mental-dicen-expertos-1395621'>¿Bloquear a alguien en Facebook, X o WhatsApp mejora la salud mental? Esto es lo que dicen los expertos</a></h4>
-    <a href='https://computerhoy.com/redes/bloquear-alguien-facebook-x-whatsapp-mejora-salud-mental-dicen-expertos-1395621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bloquear-alguien-facebook-x-whatsapp-mejora-salud-mental-dicen-expertos-3731919.jpg?tf=1200x' alt='¿Bloquear a alguien en Facebook, X o WhatsApp mejora la salud mental? Esto es lo que dicen los expertos' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/truco-recomendado-policia-nacional-evitar-estafas-grupos-whatsapp-1395696'>El truco recomendado por la Policía Nacional para evitar estafas en grupos de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/truco-recomendado-policia-nacional-evitar-estafas-grupos-whatsapp-1395696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-whatsapp-3733013.jpg?tf=1200x' alt='El truco recomendado por la Policía Nacional para evitar estafas en grupos de WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/industrias-celebran-llegada-superconectividad-wifi-7-1395684'>Las industrias celebran la llegada de la superconectividad con WiFi 7</a></h4>
-    <a href='https://computerhoy.com/internet/industrias-celebran-llegada-superconectividad-wifi-7-1395684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/wifi-7-3733000.jpg?tf=1200x' alt='Las industrias celebran la llegada de la superconectividad con WiFi 7' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-tecnologia-cifrar-documentos-confidenciales-solo-puedas-leerlos-1395565'>Microsoft piensa en una tecnología para cifrar documentos confidenciales para que solo puedas leerlos tú</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-tecnologia-cifrar-documentos-confidenciales-solo-puedas-leerlos-1395565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-piensa-tecnologia-cifrar-documentos-confidenciales-solo-puedas-leerlos-3726000.jpg?tf=1200x' alt='Microsoft piensa en una tecnología para cifrar documentos confidenciales para que solo puedas leerlos tú' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/yoga-slim-7x-primer-ordenador-lenovo-copilot-llega-espana-1395643'>Yoga Slim 7x, el primer ordenador de Lenovo con Copilot+ llega a España </a></h4>
-    <a href='https://computerhoy.com/pc/yoga-slim-7x-primer-ordenador-lenovo-copilot-llega-espana-1395643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lenovo-yoga-slim-7x-3732847.jpg?tf=1200x' alt='Yoga Slim 7x, el primer ordenador de Lenovo con Copilot+ llega a España ' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/movil-haciendo-alguna-estas-cosas-extranas-estan-espiandote-1395092'>Si tu móvil está haciendo alguna de estas cosas extrañas, están espiándote</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/movil-haciendo-alguna-estas-cosas-extranas-estan-espiandote-1395092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movil-haciendo-alguna-estas-cosas-extranas-estan-espiandote-3702541.jpg?tf=1200x' alt='Si tu móvil está haciendo alguna de estas cosas extrañas, están espiándote' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-desconocidas-diferentes-muy-sorprendentes-puedes-ver-netflix-1394719'>10 películas de ciencia ficción desconocidas, diferentes y muy sorprendentes que puedes ver en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-desconocidas-diferentes-muy-sorprendentes-puedes-ver-netflix-1394719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-peliculas-3691104.jpg?tf=1200x' alt='10 películas de ciencia ficción desconocidas, diferentes y muy sorprendentes que puedes ver en Netflix' />
+    <h4><a href='https://computerhoy.com/android/truco-boton-123-android-no-conocias-ahora-no-podras-dejar-usar-1394991'>El truco del botón 123 de Android que no conocías y que ahora no podrás dejar de usar</a></h4>
+    <a href='https://computerhoy.com/android/truco-boton-123-android-no-conocias-ahora-no-podras-dejar-usar-1394991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-123-android-3712083.jpg?tf=1200x' alt='El truco del botón 123 de Android que no conocías y que ahora no podrás dejar de usar' />
     </a>
 </div>
 
