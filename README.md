@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gpt-4-prueba-test-turing-no-buena-noticia-1391232'>GPT-4 habría superado el test de Turing, y eso es una muy mala noticia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gpt-4-prueba-test-turing-no-buena-noticia-1391232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ser-humano-interactuando-ia-3516306.jpg?tf=1200x' alt='GPT-4 habría superado el test de Turing, y eso es una muy mala noticia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/hoy-dia-kindle-desploman-precio-vienen-ya-miles-libros-gratis-1395189'>Hoy es el día: los Kindle desploman su precio y vienen ya con miles de libros gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/hoy-dia-kindle-desploman-precio-vienen-ya-miles-libros-gratis-1395189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/kindle-prime-day-3705239.jpg?tf=1200x' alt='Hoy es el día: los Kindle desploman su precio y vienen ya con miles de libros gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/generador-solar-top-ventas-amazon-ahorrar-energia-1335856'>Este generador solar la lía en Amazon: ahorra en tu factura y es perfecto para ir de camping</a></h4>
     <a href='https://computerhoy.com/tecnologia/generador-solar-top-ventas-amazon-ahorrar-energia-1335856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/allpowers-r600-3234326.jpg?tf=1200x' alt='Este generador solar la lía en Amazon: ahorra en tu factura y es perfecto para ir de camping' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/piensas-estas-bloqueando-llamada-spam-realidad-pides-te-llamen-peligros-consentimiento-previo-1394958'>Piensas que estás bloqueando una llamada Spam y en realidad pides que te llamen: los peligros del consentimiento previo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/piensas-estas-bloqueando-llamada-spam-realidad-pides-te-llamen-peligros-consentimiento-previo-1394958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/adios-spam-telefonico-normativa-impedira-recibir-llamadas-no-deseadas-no-3025290.jpg?tf=1200x' alt='Piensas que estás bloqueando una llamada Spam y en realidad pides que te llamen: los peligros del consentimiento previo' />
     </a>
 </div>
 
