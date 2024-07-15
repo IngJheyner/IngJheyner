@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-divertido-seres-humanos-estudio-1395512'>ChatGPT ya es más divertido que los seres humanos, según este estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-divertido-seres-humanos-estudio-1395512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-ya-divertido-seres-humanos-3720107.jpg?tf=1200x' alt='ChatGPT ya es más divertido que los seres humanos, según este estudio' />
+    <h4><a href='https://computerhoy.com/ciencia/vida-inteligente-galaxia-probablemente-no-dice-estudio-1394931'>¿Vida inteligente en nuestra galaxia? Probablemente no, dice un estudio</a></h4>
+    <a href='https://computerhoy.com/ciencia/vida-inteligente-galaxia-probablemente-no-dice-estudio-1394931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vida-inteligente-galaxia-probablemente-no-dice-estudio-3697259.jpg?tf=1200x' alt='¿Vida inteligente en nuestra galaxia? Probablemente no, dice un estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/prepara-prime-day-arraso-ano-pasado-seguramente-vuelva-estar-oferta-1395181'>Prepara tu Prime Day: esto es lo que arrasó el año pasado, y seguramente vuelva a estar en oferta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/prepara-prime-day-arraso-ano-pasado-seguramente-vuelva-estar-oferta-1395181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-day-3074334.jpg?tf=1200x' alt='Prepara tu Prime Day: esto es lo que arrasó el año pasado, y seguramente vuelva a estar en oferta' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/disney-hackeada-oleada-revelaciones-series-videojuegos-1395790'>Disney, hackeada: anuncian oleada de revelaciones de series y videojuegos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/disney-hackeada-oleada-revelaciones-series-videojuegos-1395790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/disney-hackeada-anuncian-oleada-revelaciones-series-videojuegos-3735058.jpg?tf=1200x' alt='Disney, hackeada: anuncian oleada de revelaciones de series y videojuegos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cerrajeros-dan-voz-alarma-herramienta-abre-80-cerraduras-segundos-1395048'>Los cerrajeros dan la voz de alarma: esta herramienta abre el 80% de las cerraduras en segundos</a></h4>
-    <a href='https://computerhoy.com/life/cerrajeros-dan-voz-alarma-herramienta-abre-80-cerraduras-segundos-1395048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cerrajeros-dan-voz-alarma-herramienta-abre-80-cerraduras-segundos-3699758.jpg?tf=1200x' alt='Los cerrajeros dan la voz de alarma: esta herramienta abre el 80% de las cerraduras en segundos' />
+    <h4><a href='https://computerhoy.com/life/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-1395737'>Adiós al calor con un invento capaz de enfriar una habitación sin instalación ni electricidad</a></h4>
+    <a href='https://computerhoy.com/life/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-1395737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-3733982.jpg?tf=1200x' alt='Adiós al calor con un invento capaz de enfriar una habitación sin instalación ni electricidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/buques-guerra-alemania-todavia-utilizan-disquetes-8-pulgadas-1395589'>Los buques de guerra de Alemania todavía utilizan disquetes de 8 pulgadas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/buques-guerra-alemania-todavia-utilizan-disquetes-8-pulgadas-1395589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/buques-guerra-alemania-todavia-utilizan-disquetes-8-pulgadas-3727638.jpg?tf=1200x' alt='Los buques de guerra de Alemania todavía utilizan disquetes de 8 pulgadas' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-bloquear-usuarios-tiktok-1388373'>¿Cómo bloquear usuarios en TikTok?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-bloquear-usuarios-tiktok-1388373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-bloquear-usuarios-tiktok-3390001.jpg?tf=1200x' alt='¿Cómo bloquear usuarios en TikTok?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/instalar-netflix-fire-tv-directamente-smart-tv-mejor-1395084'>Instalar Netflix en el Fire TV o directamente en el Smart TV: ¿qué es mejor?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/instalar-netflix-fire-tv-directamente-smart-tv-mejor-1395084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/instalar-netflix-fire-tv-directamente-smart-tv-mejor-3701670.jpg?tf=1200x' alt='Instalar Netflix en el Fire TV o directamente en el Smart TV: ¿qué es mejor?' />
+    <h4><a href='https://computerhoy.com/pc/posible-pc-explote-sobrecalentamiento-1394829'>¿Es posible que un PC explote por sobrecalentamiento?</a></h4>
+    <a href='https://computerhoy.com/pc/posible-pc-explote-sobrecalentamiento-1394829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pc-explota-sobrecalentamiento-3691934.jpg?tf=1200x' alt='¿Es posible que un PC explote por sobrecalentamiento?' />
     </a>
 </div>
 
