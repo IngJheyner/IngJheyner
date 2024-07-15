@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605'>Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA</a></h4>
+    <a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-microsoft-ya-consumen-energia-100-paises-debido-ia-3728814.jpg?tf=1200x' alt='Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-1395073'>El Banco de España alerta del grave error que la mayoría de españoles cometen al pagar con el móvil</a></h4>
+    <a href='https://computerhoy.com/life/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-1395073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/banco-espana-alerta-grave-error-mayoria-espanoles-cometen-pagar-movil-3700954.jpg?tf=1200x' alt='El Banco de España alerta del grave error que la mayoría de españoles cometen al pagar con el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/procesadores-amd-ryzen-9000-escritorio-arquitectura-zen-5-fecha-lanzamiento-caracteristicas-1395806'>Procesadores AMD Ryzen 9000 de escritorio, con arquitectura Zen 5: fecha de lanzamiento y nuevas características</a></h4>
     <a href='https://computerhoy.com/pc/procesadores-amd-ryzen-9000-escritorio-arquitectura-zen-5-fecha-lanzamiento-caracteristicas-1395806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amd-ryzen-9000-sobremesa-arquitectura-zen-5-fecha-lanzamiento-nuevas-caracteristicas-3735495.jpg?tf=1200x' alt='Procesadores AMD Ryzen 9000 de escritorio, con arquitectura Zen 5: fecha de lanzamiento y nuevas características' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081'>La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-1395081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-descubre-invitado-sorpresa-junto-asteroide-asesino-planetas-3700953.jpg?tf=1200x' alt='La NASA descubre un invitado sorpresa junto a un asteroide “asesino de planetas”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-alerta-vulnerabilidad-critica-outlook-urge-actualizar-windows-10-11-1395802'>Microsoft alerta sobre una vulnerabilidad crítica en Outlook y urge actualizar Windows 10 y 11</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/microsoft-alerta-vulnerabilidad-critica-outlook-urge-actualizar-windows-10-11-1395802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/correo-electronico-outlook-3652399.jpg?tf=1200x' alt='Microsoft alerta sobre una vulnerabilidad crítica en Outlook y urge actualizar Windows 10 y 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-publica-imagenes-iso-windows-11-24h2-instalaciones-limpias-1395800'>Microsoft publica imágenes ISO de Windows 11 24H2 para instalaciones limpias</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-publica-imagenes-iso-windows-11-24h2-instalaciones-limpias-1395800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-actualizacion-3363140.jpg?tf=1200x' alt='Microsoft publica imágenes ISO de Windows 11 24H2 para instalaciones limpias' />
     </a>
 </div>
 
