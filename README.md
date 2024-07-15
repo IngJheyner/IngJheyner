@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/hoy-dia-vas-usar-prueba-gratis-amazon-prime-debes-saber-1395505'>Hoy es el día: si vas a usar la prueba gratis de Amazon Prime, esto es lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/amazon/hoy-dia-vas-usar-prueba-gratis-amazon-prime-debes-saber-1395505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nunca-debes-comprar-antes-amazon-prime-day-cuando-mejor-momento-3691601.jpg?tf=1200x' alt='Hoy es el día: si vas a usar la prueba gratis de Amazon Prime, esto es lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/esperanza-ultimo-pierde-rescate-apple-watch-fondo-mar-18-meses-demuestra-1395636'>La esperanza es lo último que se pierde y el rescate de este Apple Watch del fondo de mar tras 18 meses lo demuestra</a></h4>
+    <a href='https://computerhoy.com/apple/esperanza-ultimo-pierde-rescate-apple-watch-fondo-mar-18-meses-demuestra-1395636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-watch-oceano-3732225.jpg?tf=1200x' alt='La esperanza es lo último que se pierde y el rescate de este Apple Watch del fondo de mar tras 18 meses lo demuestra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/camara-cine-inteligencia-artificial-sueno-pesadilla-directores-1394914'>Esta cámara de cine con inteligencia artificial es el sueño y la pesadilla de los directores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/camara-cine-inteligencia-artificial-sueno-pesadilla-directores-1394914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/camara-cine-3697101.jpg?tf=1200x' alt='Esta cámara de cine con inteligencia artificial es el sueño y la pesadilla de los directores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-virus-windows-sin-programas-1394840'>Cómo eliminar cualquier virus de Windows sin programas ni antivirus</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-eliminar-virus-windows-sin-programas-1394840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/eliminar-virus-pc-3711884.jpg?tf=1200x' alt='Cómo eliminar cualquier virus de Windows sin programas ni antivirus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/metodo-puntos-steve-jobs-chatgpt-disenos-son-geniales-1348652'>He pedido a ChatGPT que utilice el método de puntos de Steve Jobs y los inventos que ha generado son fascinantes</a></h4>
     <a href='https://computerhoy.com/tecnologia/metodo-puntos-steve-jobs-chatgpt-disenos-son-geniales-1348652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/he-pedido-chatgpt-utilice-metodo-puntos-steve-jobs-inventos-ha-generado-son-fascinantes-3247419.jpg?tf=1200x' alt='He pedido a ChatGPT que utilice el método de puntos de Steve Jobs y los inventos que ha generado son fascinantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/maquinas-expendedoras-balas-reconocimiento-facial-ia-1394902'>Ya están aquí las máquinas expendedoras de balas con reconocimiento facial e IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/maquinas-expendedoras-balas-reconocimiento-facial-ia-1394902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/polemica-maquinas-expendedoras-venden-balas-reconocimiento-facial-ia-3696516.jpg?tf=1200x' alt='Ya están aquí las máquinas expendedoras de balas con reconocimiento facial e IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/compras-shein-aliexpress-son-tan-seguras-como-parece-puedes-evitar-te-estafen-1394646'>Compras en Shein o AliExpress: ¿Son tan seguras como parece? Así puedes evitar que te estafen</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/compras-shein-aliexpress-son-tan-seguras-como-parece-puedes-evitar-te-estafen-1394646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/compras-shein-aliexpress-estafas-3705390.jpg?tf=1200x' alt='Compras en Shein o AliExpress: ¿Son tan seguras como parece? Así puedes evitar que te estafen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hijo-quiere-subir-videos-tiktok-fotos-instagram-cuando-deberias-permitir-adentre-redes-sociales-1394647'>Tu hijo quiere subir vídeos a TikTok o fotos a Instagram: ¿Cuándo deberías permitir que se adentre en las redes sociales?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hijo-quiere-subir-videos-tiktok-fotos-instagram-cuando-deberias-permitir-adentre-redes-sociales-1394647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/moviles-ninos-3699756.jpg?tf=1200x' alt='Tu hijo quiere subir vídeos a TikTok o fotos a Instagram: ¿Cuándo deberías permitir que se adentre en las redes sociales?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-1394692'>5 trucos efectivos para mejorar la velocidad y el rendimiento de tu router WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-1394692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-3688410.jpg?tf=1200x' alt='5 trucos efectivos para mejorar la velocidad y el rendimiento de tu router WiFi' />
     </a>
 </div>
 
