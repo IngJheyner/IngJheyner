@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tim-cook-que-iphone-usa-sorprendente-eleccion-1391743'>Tim Cook tiene un iPhone, pero no es el que piensas: no tiene el modelo más top de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tim-cook-que-iphone-usa-sorprendente-eleccion-1391743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tim-cook-3704312.jpg?tf=1200x' alt='Tim Cook tiene un iPhone, pero no es el que piensas: no tiene el modelo más top de Apple' />
+    <h4><a href='https://computerhoy.com/tecnologia/metodo-puntos-steve-jobs-chatgpt-disenos-son-geniales-1348652'>He pedido a ChatGPT que utilice el método de puntos de Steve Jobs y los inventos que ha generado son fascinantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/metodo-puntos-steve-jobs-chatgpt-disenos-son-geniales-1348652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/he-pedido-chatgpt-utilice-metodo-puntos-steve-jobs-inventos-ha-generado-son-fascinantes-3247419.jpg?tf=1200x' alt='He pedido a ChatGPT que utilice el método de puntos de Steve Jobs y los inventos que ha generado son fascinantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/te-quieres-comprar-anillo-inteligente-estas-son-opciones-espana-1395392'>Te quieres comprar un anillo inteligente: estas son tus opciones en España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/te-quieres-comprar-anillo-inteligente-estas-son-opciones-espana-1395392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ultrahuman-ring-air-3713012.jpg?tf=1200x' alt='Te quieres comprar un anillo inteligente: estas son tus opciones en España' />
+    <h4><a href='https://computerhoy.com/tecnologia/maquinas-expendedoras-balas-reconocimiento-facial-ia-1394902'>Ya están aquí las máquinas expendedoras de balas con reconocimiento facial e IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/maquinas-expendedoras-balas-reconocimiento-facial-ia-1394902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/polemica-maquinas-expendedoras-venden-balas-reconocimiento-facial-ia-3696516.jpg?tf=1200x' alt='Ya están aquí las máquinas expendedoras de balas con reconocimiento facial e IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-editado-fotos-estas-herramientas-ia-me-han-encantado-1385646'>He editado mis fotos con estas herramientas de IA y los resultados finales me han encantado</a></h4>
-    <a href='https://computerhoy.com/apps/he-editado-fotos-estas-herramientas-ia-me-han-encantado-1385646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fotor-edicion-imagenes-ia-3310749.jpg?tf=1200x' alt='He editado mis fotos con estas herramientas de IA y los resultados finales me han encantado' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/compras-shein-aliexpress-son-tan-seguras-como-parece-puedes-evitar-te-estafen-1394646'>Compras en Shein o AliExpress: ¿Son tan seguras como parece? Así puedes evitar que te estafen</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/compras-shein-aliexpress-son-tan-seguras-como-parece-puedes-evitar-te-estafen-1394646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/compras-shein-aliexpress-estafas-3705390.jpg?tf=1200x' alt='Compras en Shein o AliExpress: ¿Son tan seguras como parece? Así puedes evitar que te estafen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-espacio-ps5-trucos-desbloquear-almacenamiento-1387499'>Cómo liberar espacio en tu PS5: 5 trucos infalibles para desbloquear almacenamiento en tu consola</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-liberar-espacio-ps5-trucos-desbloquear-almacenamiento-1387499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ps5-playstation-5-3128532.jpg?tf=1200x' alt='Cómo liberar espacio en tu PS5: 5 trucos infalibles para desbloquear almacenamiento en tu consola' />
+    <h4><a href='https://computerhoy.com/tecnologia/hijo-quiere-subir-videos-tiktok-fotos-instagram-cuando-deberias-permitir-adentre-redes-sociales-1394647'>Tu hijo quiere subir vídeos a TikTok o fotos a Instagram: ¿Cuándo deberías permitir que se adentre en las redes sociales?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hijo-quiere-subir-videos-tiktok-fotos-instagram-cuando-deberias-permitir-adentre-redes-sociales-1394647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/moviles-ninos-3699756.jpg?tf=1200x' alt='Tu hijo quiere subir vídeos a TikTok o fotos a Instagram: ¿Cuándo deberías permitir que se adentre en las redes sociales?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/japones-ofrece-servicios-hombre-feo-internet-1395546'>Este japonés ofrece servicios de "hombre feo" en Internet, y se gana la vida con ello</a></h4>
-    <a href='https://computerhoy.com/internet/japones-ofrece-servicios-hombre-feo-internet-1395546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/japones-ofrece-servicios-hombre-feo-internet-gana-vida-ello-3724075.jpg?tf=1200x' alt='Este japonés ofrece servicios de "hombre feo" en Internet, y se gana la vida con ello' />
+    <h4><a href='https://computerhoy.com/redes/trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-1394692'>5 trucos efectivos para mejorar la velocidad y el rendimiento de tu router WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-1394692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-3688410.jpg?tf=1200x' alt='5 trucos efectivos para mejorar la velocidad y el rendimiento de tu router WiFi' />
     </a>
 </div>
 
