@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-1395002'>Un científico de Oxford cree tener pruebas de que el universo es una simulación “a lo Matrix”</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-1395002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cientifico-oxford-cree-tener-pruebas-universo-simulacion-matrix-3698491.jpg?tf=1200x' alt='Un científico de Oxford cree tener pruebas de que el universo es una simulación “a lo Matrix”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/vida-inteligente-galaxia-probablemente-no-dice-estudio-1394931'>¿Vida inteligente en nuestra galaxia? Probablemente no, dice un estudio</a></h4>
     <a href='https://computerhoy.com/ciencia/vida-inteligente-galaxia-probablemente-no-dice-estudio-1394931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vida-inteligente-galaxia-probablemente-no-dice-estudio-3697259.jpg?tf=1200x' alt='¿Vida inteligente en nuestra galaxia? Probablemente no, dice un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-terror-ambientadas-parques-atracciones-1394852'>5 películas de terror ambientadas en parques de atracciones: cuando diversión y miedo van de la mano</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-terror-ambientadas-parques-atracciones-1394852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-peliculas-terror-ambientadas-parques-atracciones-cuando-diversion-miedo-van-mano-3692594.jpg?tf=1200x' alt='5 películas de terror ambientadas en parques de atracciones: cuando diversión y miedo van de la mano' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-1395737'>Adiós al calor con un invento capaz de enfriar una habitación sin instalación ni electricidad</a></h4>
     <a href='https://computerhoy.com/life/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-1395737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-3733982.jpg?tf=1200x' alt='Adiós al calor con un invento capaz de enfriar una habitación sin instalación ni electricidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-bloquear-usuarios-tiktok-1388373'>¿Cómo bloquear usuarios en TikTok?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-bloquear-usuarios-tiktok-1388373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-bloquear-usuarios-tiktok-3390001.jpg?tf=1200x' alt='¿Cómo bloquear usuarios en TikTok?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/posible-pc-explote-sobrecalentamiento-1394829'>¿Es posible que un PC explote por sobrecalentamiento?</a></h4>
-    <a href='https://computerhoy.com/pc/posible-pc-explote-sobrecalentamiento-1394829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pc-explota-sobrecalentamiento-3691934.jpg?tf=1200x' alt='¿Es posible que un PC explote por sobrecalentamiento?' />
     </a>
 </div>
 
