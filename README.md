@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/espia-camara-movil-alertas-1268008'>El espionaje a través de la cámara del tu teléfono móvil: 4 señales que podrían alertarte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/espia-camara-movil-alertas-1268008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/espiar-movil-3686040.jpg?tf=1200x' alt='El espionaje a través de la cámara del tu teléfono móvil: 4 señales que podrían alertarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/suficiente-solo-windows-defender-2024-1394396'>¿Es suficiente con solo Windows Defender en 2024?</a></h4>
+    <a href='https://computerhoy.com/windows/suficiente-solo-windows-defender-2024-1394396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/suficiente-solo-windows-defender-2024-3668213.jpg?tf=1200x' alt='¿Es suficiente con solo Windows Defender en 2024?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/poco-f6-5g-oferta-aliexpress-varios-colores-1391969'>AliExpress lo vuelve a hacer: deja uno de los móviles Xiaomi más potentes a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/poco-f6-5g-oferta-aliexpress-varios-colores-1391969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/poco-f6-3683115.jpg?tf=1200x' alt='AliExpress lo vuelve a hacer: deja uno de los móviles Xiaomi más potentes a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-1394746'>De ver la tele a jugar a la consola: teletrabajadores reconocen cómo usan la tecnología en horario de trabajo</a></h4>
     <a href='https://computerhoy.com/life/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-1394746' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-3690051.jpg?tf=1200x' alt='De ver la tele a jugar a la consola: teletrabajadores reconocen cómo usan la tecnología en horario de trabajo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/descubre-tinder-plus-ventajas-precios-todo-necesitas-saber-1394566'>Descubre Tinder Plus: ventajas, precios y todo lo que necesitas saber</a></h4>
     <a href='https://computerhoy.com/tecnologia/descubre-tinder-plus-ventajas-precios-todo-necesitas-saber-1394566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tinder-plus-3683576.jpg?tf=1200x' alt='Descubre Tinder Plus: ventajas, precios y todo lo que necesitas saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-1394883'>El cohete Ariane 6 despega con éxito: Europa vuelve a la primera división espacial</a></h4>
-    <a href='https://computerhoy.com/espacio/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-1394883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-ariane-6-despega-exito-europa-vuelve-primera-division-espacial-3694127.jpg?tf=1200x' alt='El cohete Ariane 6 despega con éxito: Europa vuelve a la primera división espacial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606'>Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rejuvenecen-40-anos-jackie-chan-usando-ia-nueva-pelicula-pero-no-ha-ido-muy-bien-3729097.jpg?tf=1200x' alt='Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/europa-podria-haber-dado-tecla-acabar-iptv-paginas-descargas-ilegales-1394877'>Europa podría haber dado con la tecla para acabar con las IPTV y las páginas de descargas ilegales</a></h4>
-    <a href='https://computerhoy.com/internet/europa-podria-haber-dado-tecla-acabar-iptv-paginas-descargas-ilegales-1394877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/europa-podria-haber-dado-tecla-acabar-iptv-paginas-descargas-ilegales-3694269.jpg?tf=1200x' alt='Europa podría haber dado con la tecla para acabar con las IPTV y las páginas de descargas ilegales' />
     </a>
 </div>
 
