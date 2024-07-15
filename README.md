@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/espia-camara-movil-alertas-1268008'>El espionaje a través de la cámara del tu teléfono móvil: 4 señales que podrían alertarte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/espia-camara-movil-alertas-1268008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/espiar-movil-3686040.jpg?tf=1200x' alt='El espionaje a través de la cámara del tu teléfono móvil: 4 señales que podrían alertarte' />
+    <h4><a href='https://computerhoy.com/tecnologia/tim-cook-que-iphone-usa-sorprendente-eleccion-1391743'>Tim Cook tiene un iPhone, pero no es el que piensas: no tiene el modelo más top de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tim-cook-que-iphone-usa-sorprendente-eleccion-1391743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tim-cook-3704312.jpg?tf=1200x' alt='Tim Cook tiene un iPhone, pero no es el que piensas: no tiene el modelo más top de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/suficiente-solo-windows-defender-2024-1394396'>¿Es suficiente con solo Windows Defender en 2024?</a></h4>
-    <a href='https://computerhoy.com/windows/suficiente-solo-windows-defender-2024-1394396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/suficiente-solo-windows-defender-2024-3668213.jpg?tf=1200x' alt='¿Es suficiente con solo Windows Defender en 2024?' />
+    <h4><a href='https://computerhoy.com/tecnologia/te-quieres-comprar-anillo-inteligente-estas-son-opciones-espana-1395392'>Te quieres comprar un anillo inteligente: estas son tus opciones en España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/te-quieres-comprar-anillo-inteligente-estas-son-opciones-espana-1395392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ultrahuman-ring-air-3713012.jpg?tf=1200x' alt='Te quieres comprar un anillo inteligente: estas son tus opciones en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/poco-f6-5g-oferta-aliexpress-varios-colores-1391969'>AliExpress lo vuelve a hacer: deja uno de los móviles Xiaomi más potentes a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/poco-f6-5g-oferta-aliexpress-varios-colores-1391969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/poco-f6-3683115.jpg?tf=1200x' alt='AliExpress lo vuelve a hacer: deja uno de los móviles Xiaomi más potentes a precio de saldo' />
+    <h4><a href='https://computerhoy.com/apps/he-editado-fotos-estas-herramientas-ia-me-han-encantado-1385646'>He editado mis fotos con estas herramientas de IA y los resultados finales me han encantado</a></h4>
+    <a href='https://computerhoy.com/apps/he-editado-fotos-estas-herramientas-ia-me-han-encantado-1385646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fotor-edicion-imagenes-ia-3310749.jpg?tf=1200x' alt='He editado mis fotos con estas herramientas de IA y los resultados finales me han encantado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-1394746'>De ver la tele a jugar a la consola: teletrabajadores reconocen cómo usan la tecnología en horario de trabajo</a></h4>
-    <a href='https://computerhoy.com/life/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-1394746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ver-tele-jugar-consola-teletrabajadores-reconocen-como-usan-tecnologia-horario-trabajo-3690051.jpg?tf=1200x' alt='De ver la tele a jugar a la consola: teletrabajadores reconocen cómo usan la tecnología en horario de trabajo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-espacio-ps5-trucos-desbloquear-almacenamiento-1387499'>Cómo liberar espacio en tu PS5: 5 trucos infalibles para desbloquear almacenamiento en tu consola</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-liberar-espacio-ps5-trucos-desbloquear-almacenamiento-1387499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ps5-playstation-5-3128532.jpg?tf=1200x' alt='Cómo liberar espacio en tu PS5: 5 trucos infalibles para desbloquear almacenamiento en tu consola' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/descubre-tinder-plus-ventajas-precios-todo-necesitas-saber-1394566'>Descubre Tinder Plus: ventajas, precios y todo lo que necesitas saber</a></h4>
-    <a href='https://computerhoy.com/tecnologia/descubre-tinder-plus-ventajas-precios-todo-necesitas-saber-1394566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tinder-plus-3683576.jpg?tf=1200x' alt='Descubre Tinder Plus: ventajas, precios y todo lo que necesitas saber' />
+    <h4><a href='https://computerhoy.com/internet/japones-ofrece-servicios-hombre-feo-internet-1395546'>Este japonés ofrece servicios de "hombre feo" en Internet, y se gana la vida con ello</a></h4>
+    <a href='https://computerhoy.com/internet/japones-ofrece-servicios-hombre-feo-internet-1395546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/japones-ofrece-servicios-hombre-feo-internet-gana-vida-ello-3724075.jpg?tf=1200x' alt='Este japonés ofrece servicios de "hombre feo" en Internet, y se gana la vida con ello' />
     </a>
 </div>
 
