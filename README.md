@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-te-permitira-solicitar-eliminen-video-imita-cara-voz-ia-1395632'>YouTube te permitirá solicitar que eliminen un vídeo si imita tu cara o tu voz con IA</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-te-permitira-solicitar-eliminen-video-imita-cara-voz-ia-1395632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/youtube-te-permitira-pedir-eliminen-video-imita-cara-voz-ia-3732216.jpg?tf=1200x' alt='YouTube te permitirá solicitar que eliminen un vídeo si imita tu cara o tu voz con IA' />
+    <h4><a href='https://computerhoy.com/tecnologia/brutal-smartwatch-tiene-pantalla-top-buena-bateria-ademas-barato-apple-watch-1395507'>Este brutal smartwatch tiene pantalla top, buena batería y además es más barato que el Apple Watch</a></h4>
+    <a href='https://computerhoy.com/tecnologia/brutal-smartwatch-tiene-pantalla-top-buena-bateria-ademas-barato-apple-watch-1395507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/oneplus-watch-2-3719811.jpg?tf=1200x' alt='Este brutal smartwatch tiene pantalla top, buena batería y además es más barato que el Apple Watch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tatsuo-horiuchi-artista-japones-pinta-obras-maestras-excel-1394926'>Este es Tatsuo Horiuchi, el artista japonés que pinta obras maestras en Excel </a></h4>
-    <a href='https://computerhoy.com/tecnologia/tatsuo-horiuchi-artista-japones-pinta-obras-maestras-excel-1394926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuadro-excel-3697261.jpg?tf=1200x' alt='Este es Tatsuo Horiuchi, el artista japonés que pinta obras maestras en Excel ' />
+    <h4><a href='https://computerhoy.com/redes/elon-musk-afirma-intento-asesinato-trump-inspira-construir-traje-volador-armadura-1395661'>Elon Musk afirma que el intento de asesinato de Trump lo inspira a construir un traje volador con armadura</a></h4>
+    <a href='https://computerhoy.com/redes/elon-musk-afirma-intento-asesinato-trump-inspira-construir-traje-volador-armadura-1395661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/elon-musk-traje-volador-3732696.jpg?tf=1200x' alt='Elon Musk afirma que el intento de asesinato de Trump lo inspira a construir un traje volador con armadura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/escapadas-sol-aprovecha-mejores-ofertas-verano-aliexpress-1395637'>Escapadas al Sol: ¡Aprovecha las mejores ofertas del verano en AliExpress!</a></h4>
-    <a href='https://computerhoy.com/patrocinado/escapadas-sol-aprovecha-mejores-ofertas-verano-aliexpress-1395637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aliexpress-verano-3732066.jpg?tf=1200x' alt='Escapadas al Sol: ¡Aprovecha las mejores ofertas del verano en AliExpress!' />
+    <h4><a href='https://computerhoy.com/tecnologia/computacion-cuantica-futuro-pero-aun-necesita-algo-pasado-1394940'>La computación cuántica es el futuro, pero aún necesita algo "del pasado"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/computacion-cuantica-futuro-pero-aun-necesita-algo-pasado-1394940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-cuantico-3561798.jpg?tf=1200x' alt='La computación cuántica es el futuro, pero aún necesita algo "del pasado"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/electrodomesticos-debes-desenchufar-cuando-te-vas-vacaciones-no-1393671'>Electrodomésticos que debes desenchufar cuando te vas de vacaciones (y los que no)</a></h4>
-    <a href='https://computerhoy.com/hogar/electrodomesticos-debes-desenchufar-cuando-te-vas-vacaciones-no-1393671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/enchufe-europeo-3711896.jpg?tf=1200x' alt='Electrodomésticos que debes desenchufar cuando te vas de vacaciones (y los que no)' />
+    <h4><a href='https://computerhoy.com/apps/bizum-peligra-alemania-activa-app-pagos-wero-1395662'>Bizum peligra: Alemania activa su app de pagos Wero</a></h4>
+    <a href='https://computerhoy.com/apps/bizum-peligra-alemania-activa-app-pagos-wero-1395662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/wero-app-pagos-3732693.jpg?tf=1200x' alt='Bizum peligra: Alemania activa su app de pagos Wero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-diferencias-cual-dos-deberias-usar-1395297'>WhatsApp Web vs. WhatsApp de escritorio: diferencias y cuál de las dos deberías usar</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-diferencias-cual-dos-deberias-usar-1395297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-web-vs-whatsapp-escritorio-diferencias-cual-dos-deberias-usar-3710495.jpg?tf=1200x' alt='WhatsApp Web vs. WhatsApp de escritorio: diferencias y cuál de las dos deberías usar' />
+    <h4><a href='https://computerhoy.com/hogar/significa-realmente-modo-standby-dispositivos-puede-costarte-mucho-dinero-1394918'>Qué significa realmente el modo standby de los dispositivos y por qué puede costarte mucho dinero </a></h4>
+    <a href='https://computerhoy.com/hogar/significa-realmente-modo-standby-dispositivos-puede-costarte-mucho-dinero-1394918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/modo-standby-3697583.jpg?tf=1200x' alt='Qué significa realmente el modo standby de los dispositivos y por qué puede costarte mucho dinero ' />
     </a>
 </div>
 
