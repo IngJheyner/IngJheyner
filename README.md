@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-identifica-trabajos-nunca-seran-reemplazados-inteligencia-artificial-1395654'>Elon Musk identifica los trabajos que nunca serán reemplazados por la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-identifica-trabajos-nunca-seran-reemplazados-inteligencia-artificial-1395654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-otros-expertos-preocupados-descontrolado-desarrollo-ia-2995876.jpg?tf=1200x' alt='Elon Musk identifica los trabajos que nunca serán reemplazados por la inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-te-controlan-whatsapp-1344522'>Cómo saber si controlan tu WhatsApp sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-te-controlan-whatsapp-1344522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-saber-te-controlan-whatsapp-instalar-nada-3239054.jpg?tf=1200x' alt='Cómo saber si controlan tu WhatsApp sin instalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/western-digital-my-cloud-4tb-oferta-amazon-1337248'>Google y Dropbox, en apuros con esta oferta: un disco duro de 4TB con internet que será tu nube personal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/western-digital-my-cloud-4tb-oferta-amazon-1337248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/wd-my-cloud-home-2211419.jpg?tf=1200x' alt='Google y Dropbox, en apuros con esta oferta: un disco duro de 4TB con internet que será tu nube personal' />
+    <h4><a href='https://computerhoy.com/apple/appe-watch-salva-vidas-historia-surfista-pelicula-1395830'>El Appe Watch sí salva vidas y la historia de este surfista es de película</a></h4>
+    <a href='https://computerhoy.com/apple/appe-watch-salva-vidas-historia-surfista-pelicula-1395830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-3291677.jpg?tf=1200x' alt='El Appe Watch sí salva vidas y la historia de este surfista es de película' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104'>The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-3703264.jpg?tf=1200x' alt='The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido' />
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-chino-presume-precio-windows-11-prime-day-ha-roto-todos-registros-1395535'>Este portátil chino presume de precio y de Windows 11: en el Prime Day ha roto todos los registros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-chino-presume-precio-windows-11-prime-day-ha-roto-todos-registros-1395535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/alldocube-gtbook-13-pro-3721153.jpg?tf=1200x' alt='Este portátil chino presume de precio y de Windows 11: en el Prime Day ha roto todos los registros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-revienta-prime-day-pixel-8-pro-rebaja-historica-deja-barato-iphone-1395531'>Google revienta el Prime Day con el Pixel 8 Pro: rebaja histórica que lo deja más barato que el iPhone</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-revienta-prime-day-pixel-8-pro-rebaja-historica-deja-barato-iphone-1395531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191842.jpg?tf=1200x' alt='Google revienta el Prime Day con el Pixel 8 Pro: rebaja histórica que lo deja más barato que el iPhone' />
+    <h4><a href='https://computerhoy.com/noticias/software/windows-10-donde-guardan-capturas-pantalla-72071'>Windows 10: Dónde se guardan las capturas de pantalla</a></h4>
+    <a href='https://computerhoy.com/noticias/software/windows-10-donde-guardan-capturas-pantalla-72071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/windows-10-donde-guardan-capturas-pantalla-3737519.jpg?tf=1200x' alt='Windows 10: Dónde se guardan las capturas de pantalla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mejor-refrigeracion-liquida-ventilador-1395291'>¿Qué es mejor la refrigeración líquida o un ventilador?</a></h4>
-    <a href='https://computerhoy.com/pc/mejor-refrigeracion-liquida-ventilador-1395291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/refrigeracion-liquida-aire-3708950.jpg?tf=1200x' alt='¿Qué es mejor la refrigeración líquida o un ventilador?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/compras-shein-aliexpress-son-tan-seguras-como-parece-puedes-evitar-te-estafen-1394646'>Compras en Shein o AliExpress: ¿Son tan seguras como parece? Así puedes evitar que te estafen</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/compras-shein-aliexpress-son-tan-seguras-como-parece-puedes-evitar-te-estafen-1394646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/compras-shein-aliexpress-estafas-3705390.jpg?tf=1200x' alt='Compras en Shein o AliExpress: ¿Son tan seguras como parece? Así puedes evitar que te estafen' />
     </a>
 </div>
 
