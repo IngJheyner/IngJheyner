@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/panales-sucios-devueltos-amazon-arruinaron-negocio-familiar-1395992'>Así es como unos pañales sucios devueltos a Amazon arruinaron un negocio familiar de un millón de euros</a></h4>
+    <a href='https://computerhoy.com/amazon/panales-sucios-devueltos-amazon-arruinaron-negocio-familiar-1395992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-panales-sucios-devueltos-amazon-arruinaron-negocio-familiar-millon-euros-3742472.jpg?tf=1200x' alt='Así es como unos pañales sucios devueltos a Amazon arruinaron un negocio familiar de un millón de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-garmin-favorito-oferta-prime-day-2024-1339244'>Este es mi reloj Garmin más preciado: no lo cambio por nada y en el Prime Day es más barato que nunca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-garmin-favorito-oferta-prime-day-2024-1339244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/garmin-swim-2-3147086.jpg?tf=1200x' alt='Este es mi reloj Garmin más preciado: no lo cambio por nada y en el Prime Day es más barato que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/vida-inteligente-galaxia-probablemente-no-dice-estudio-1394931'>¿Vida inteligente en nuestra galaxia? Probablemente no, dice un estudio</a></h4>
+    <a href='https://computerhoy.com/ciencia/vida-inteligente-galaxia-probablemente-no-dice-estudio-1394931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vida-inteligente-galaxia-probablemente-no-dice-estudio-3697259.jpg?tf=1200x' alt='¿Vida inteligente en nuestra galaxia? Probablemente no, dice un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/disney-hackeada-oleada-revelaciones-series-videojuegos-1395790'>Disney, hackeada: anuncian oleada de revelaciones de series y videojuegos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/disney-hackeada-oleada-revelaciones-series-videojuegos-1395790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/disney-hackeada-anuncian-oleada-revelaciones-series-videojuegos-3735058.jpg?tf=1200x' alt='Disney, hackeada: anuncian oleada de revelaciones de series y videojuegos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-sera-chollo-esperado-pero-util-cable-puede-revolucionar-conexion-internet-1395796'>No será el chollo más esperado, pero sí el más útil: este cable puede revolucionar tu conexión a Internet</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-sera-chollo-esperado-pero-util-cable-puede-revolucionar-conexion-internet-1395796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/cable-red-ethernet-2480339.jpg?tf=1200x' alt='No será el chollo más esperado, pero sí el más útil: este cable puede revolucionar tu conexión a Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/9-trucos-increibles-poco-conocidos-google-maps-te-sorprenderan-1395962'>9 trucos increíbles y poco conocidos de Google Maps que te sorprenderán</a></h4>
-    <a href='https://computerhoy.com/google/9-trucos-increibles-poco-conocidos-google-maps-te-sorprenderan-1395962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/9-trucos-increibles-poco-conocidos-google-maps-te-sorprenderan-3742316.jpg?tf=1200x' alt='9 trucos increíbles y poco conocidos de Google Maps que te sorprenderán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tv-son-compatibles-fire-tv-stick-1392844'>¿Qué TV son compatibles con Fire TV Stick?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tv-son-compatibles-fire-tv-stick-1392844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fire-tv-stick-3308867.jpg?tf=1200x' alt='¿Qué TV son compatibles con Fire TV Stick?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crea-cpu-completa-hoja-calculo-excel-puede-ejecutar-programas-1395944'>Crea una CPU completa en una hoja de cálculo de Excel que hasta puede ejecutar programas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crea-cpu-completa-hoja-calculo-excel-puede-ejecutar-programas-1395944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crea-cpu-completa-hoja-calculo-excel-puede-ejecutar-programas-3741096.jpg?tf=1200x' alt='Crea una CPU completa en una hoja de cálculo de Excel que hasta puede ejecutar programas' />
     </a>
 </div>
 
