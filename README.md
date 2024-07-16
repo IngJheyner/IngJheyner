@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605'>Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA</a></h4>
+    <a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-microsoft-ya-consumen-energia-100-paises-debido-ia-3728814.jpg?tf=1200x' alt='Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-trasladar-certificado-digital-fnmt-dispositivos-1395981'>Cómo trasladar tu certificado digital de la FNMT entre dispositivos</a></h4>
+    <a href='https://computerhoy.com/internet/como-trasladar-certificado-digital-fnmt-dispositivos-1395981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-trasladar-certificado-digital-fnmt-dispositivos-3743202.jpg?tf=1200x' alt='Cómo trasladar tu certificado digital de la FNMT entre dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/kindle-oferta-amazon-prime-day-2024-1395189'>Un Kindle a precio récord: Amazon hunde el precio de sus libros electrónicos por el Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/kindle-oferta-amazon-prime-day-2024-1395189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/kindle-prime-day-3705239.jpg?tf=1200x' alt='Un Kindle a precio récord: Amazon hunde el precio de sus libros electrónicos por el Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283'>Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/supercomputadora-cuantica-3707957.jpg?tf=1200x' alt='Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/strawberry-nuevo-proyecto-openai-promete-ia-razonamiento-avanzado-1395804'>Strawberry: el nuevo proyecto de OpenAI que promete una IA con razonamiento avanzado</a></h4>
     <a href='https://computerhoy.com/tecnologia/strawberry-nuevo-proyecto-openai-promete-ia-razonamiento-avanzado-1395804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3274436.jpg?tf=1200x' alt='Strawberry: el nuevo proyecto de OpenAI que promete una IA con razonamiento avanzado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/debes-hacer-te-roban-movil-policia-nacional-1395998'>Esto es lo que debes hacer si te roban el móvil, según la Policía Nacional</a></h4>
-    <a href='https://computerhoy.com/life/debes-hacer-te-roban-movil-policia-nacional-1395998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robar-movil-3743200.jpg?tf=1200x' alt='Esto es lo que debes hacer si te roban el móvil, según la Policía Nacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/icing-nueva-pesadilla-coches-electricos-dgt-quiere-acabar-base-multas-1395281'>Icing: la nueva pesadilla de los coches eléctricos con la que la DGT quiere acabar a base de multas</a></h4>
-    <a href='https://computerhoy.com/motor/icing-nueva-pesadilla-coches-electricos-dgt-quiere-acabar-base-multas-1395281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aparcamiento-subterraneo-3707954.jpg?tf=1200x' alt='Icing: la nueva pesadilla de los coches eléctricos con la que la DGT quiere acabar a base de multas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/generador-voz-ia-microsoft-alcanza-paridad-humana-extremadamente-peligroso-1395280'>El generador de voz con IA de Microsoft alcanza la paridad humana: y esto es extremadamente peligroso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/generador-voz-ia-microsoft-alcanza-paridad-humana-extremadamente-peligroso-1395280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vall-2-3707939.jpg?tf=1200x' alt='El generador de voz con IA de Microsoft alcanza la paridad humana: y esto es extremadamente peligroso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-wallet-te-permitira-escanear-guardar-cualquier-documento-1395997'>Google Wallet te permitirá escanear y guardar cualquier documento</a></h4>
-    <a href='https://computerhoy.com/apps/google-wallet-te-permitira-escanear-guardar-cualquier-documento-1395997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-wallet-3136938.jpg?tf=1200x' alt='Google Wallet te permitirá escanear y guardar cualquier documento' />
     </a>
 </div>
 
