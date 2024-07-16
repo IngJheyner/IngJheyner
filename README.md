@@ -66,14 +66,6 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/espectacular-telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-1395211'>¡Espectacular! El telescopio James Webb ha captado un agujero negro mientras engulle una galaxia</a></h4>
-    <a href='https://computerhoy.com/espacio/espectacular-telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-1395211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-3705705.jpg?tf=1200x' alt='¡Espectacular! El telescopio James Webb ha captado un agujero negro mientras engulle una galaxia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-quita-encima-stock-smartwatches-favoritos-version-elegante-1395596'>Amazon se quita de encima stock de uno de nuestros smartwatches favoritos, y en su versión más elegante</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-quita-encima-stock-smartwatches-favoritos-version-elegante-1395596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131234.jpg?tf=1200x' alt='Amazon se quita de encima stock de uno de nuestros smartwatches favoritos, y en su versión más elegante' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.com/life/hotel-nunca-pierde-truco-tres-dias-hoteles-debes-conocer-antes-reservar-1393933'>El hotel nunca pierde: el truco de los tres días en los hoteles que debes conocer antes de reservar</a></h4>
     <a href='https://computerhoy.com/life/hotel-nunca-pierde-truco-tres-dias-hoteles-debes-conocer-antes-reservar-1393933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hotel-casino-3705412.jpg?tf=1200x' alt='El hotel nunca pierde: el truco de los tres días en los hoteles que debes conocer antes de reservar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/realmente-necesitas-red-wifi-malla-hogar-debes-saber-antes-tirar-dinero-1395468'>¿Realmente necesitas una red WiFi de malla en tu hogar? Lo que debes saber antes de tirar tu dinero</a></h4>
+    <a href='https://computerhoy.com/redes/realmente-necesitas-red-wifi-malla-hogar-debes-saber-antes-tirar-dinero-1395468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realmente-necesitas-red-wifi-malla-hogar-debes-saber-antes-tirar-dinero-3717352.jpg?tf=1200x' alt='¿Realmente necesitas una red WiFi de malla en tu hogar? Lo que debes saber antes de tirar tu dinero' />
     </a>
 </div>
 
