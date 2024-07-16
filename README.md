@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-airtag-oferta-prime-day-top-ventas-amazon-1395575'>Directos al top ventas: los AirTag desploma su precio en el Prime Day y se están vendiendo como churros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-airtag-oferta-prime-day-top-ventas-amazon-1395575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/airtag-apple-2305609.jpg?tf=1200x' alt='Directos al top ventas: los AirTag desploma su precio en el Prime Day y se están vendiendo como churros' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/disney-hackeada-oleada-revelaciones-series-videojuegos-1395790'>Disney, hackeada: anuncian oleada de revelaciones de series y videojuegos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/disney-hackeada-oleada-revelaciones-series-videojuegos-1395790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/disney-hackeada-anuncian-oleada-revelaciones-series-videojuegos-3735058.jpg?tf=1200x' alt='Disney, hackeada: anuncian oleada de revelaciones de series y videojuegos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/horno-airfryer-cual-consume-menos-luz-1395921'>Horno o Airfryer: ¿cuál consume menos luz?</a></h4>
-    <a href='https://computerhoy.com/life/horno-airfryer-cual-consume-menos-luz-1395921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/horno-airfryer-cual-consume-menos-luz-3740637.jpg?tf=1200x' alt='Horno o Airfryer: ¿cuál consume menos luz?' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-sera-chollo-esperado-pero-util-cable-puede-revolucionar-conexion-internet-1395796'>No será el chollo más esperado, pero sí el más útil: este cable puede revolucionar tu conexión a Internet</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-sera-chollo-esperado-pero-util-cable-puede-revolucionar-conexion-internet-1395796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/cable-red-ethernet-2480339.jpg?tf=1200x' alt='No será el chollo más esperado, pero sí el más útil: este cable puede revolucionar tu conexión a Internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-programas-antiguos-tdt-cuando-quieras-casi-anuncios-1395204'>Cómo ver programas antiguos de la TDT cuando quieras y casi sin anuncios</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-programas-antiguos-tdt-cuando-quieras-casi-anuncios-1395204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ver-tdt-television-3292543.jpg?tf=1200x' alt='Cómo ver programas antiguos de la TDT cuando quieras y casi sin anuncios' />
+    <h4><a href='https://computerhoy.com/google/9-trucos-increibles-poco-conocidos-google-maps-te-sorprenderan-1395962'>9 trucos increíbles y poco conocidos de Google Maps que te sorprenderán</a></h4>
+    <a href='https://computerhoy.com/google/9-trucos-increibles-poco-conocidos-google-maps-te-sorprenderan-1395962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/9-trucos-increibles-poco-conocidos-google-maps-te-sorprenderan-3742316.jpg?tf=1200x' alt='9 trucos increíbles y poco conocidos de Google Maps que te sorprenderán' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-muy-pro-intel-core-i9-pantalla-144-hz-precio-outlet-prime-day-1395583'>Este portátil es muy pro: Intel Core i9 y pantalla 144 Hz a precio de outlet en el Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-muy-pro-intel-core-i9-pantalla-144-hz-precio-outlet-prime-day-1395583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/acer-nitro-5-an515-58-3727039.jpg?tf=1200x' alt='Este portátil es muy pro: Intel Core i9 y pantalla 144 Hz a precio de outlet en el Prime Day' />
+    <h4><a href='https://computerhoy.com/tecnologia/tv-son-compatibles-fire-tv-stick-1392844'>¿Qué TV son compatibles con Fire TV Stick?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tv-son-compatibles-fire-tv-stick-1392844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fire-tv-stick-3308867.jpg?tf=1200x' alt='¿Qué TV son compatibles con Fire TV Stick?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/mejores-chollos-baratos-20-euros-amazon-prime-day-1395579'>Chollos de 20 euros del Amazon Prime Day 2024 que no te puedes perder</a></h4>
-    <a href='https://computerhoy.com/amazon/mejores-chollos-baratos-20-euros-amazon-prime-day-1395579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ofertas-20-euros-3726890.jpg?tf=1200x' alt='Chollos de 20 euros del Amazon Prime Day 2024 que no te puedes perder' />
+    <h4><a href='https://computerhoy.com/tecnologia/crea-cpu-completa-hoja-calculo-excel-puede-ejecutar-programas-1395944'>Crea una CPU completa en una hoja de cálculo de Excel que hasta puede ejecutar programas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crea-cpu-completa-hoja-calculo-excel-puede-ejecutar-programas-1395944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crea-cpu-completa-hoja-calculo-excel-puede-ejecutar-programas-3741096.jpg?tf=1200x' alt='Crea una CPU completa en una hoja de cálculo de Excel que hasta puede ejecutar programas' />
     </a>
 </div>
 
