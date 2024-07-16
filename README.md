@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/video-muestra-momento-paises-pasaron-television-blanco-negro-color-1395287'>Un vídeo muestra el momento en el que los países pasaron de la televisión en blanco y negro, al color</a></h4>
+    <a href='https://computerhoy.com/tecnologia/video-muestra-momento-paises-pasaron-television-blanco-negro-color-1395287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/video-muestra-momento-exacto-paises-pasaron-television-blanco-negro-color-3708245.jpg?tf=1200x' alt='Un vídeo muestra el momento en el que los países pasaron de la televisión en blanco y negro, al color' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606'>Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rejuvenecen-40-anos-jackie-chan-usando-ia-nueva-pelicula-pero-no-ha-ido-muy-bien-3729097.jpg?tf=1200x' alt='Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/wd-ssd-m2-8-tb-carateristicas-precio-1396006'>Ya están aquí los SSD M.2 de 8 TB, pero valen más que un ordenador</a></h4>
+    <a href='https://computerhoy.com/pc/wd-ssd-m2-8-tb-carateristicas-precio-1396006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ya-estan-aqui-ssd-m2-8-tb-pero-valen-ordenador-3743206.jpg?tf=1200x' alt='Ya están aquí los SSD M.2 de 8 TB, pero valen más que un ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605'>Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA</a></h4>
     <a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-microsoft-ya-consumen-energia-100-paises-debido-ia-3728814.jpg?tf=1200x' alt='Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/como-trasladar-certificado-digital-fnmt-dispositivos-1395981'>Cómo trasladar tu certificado digital de la FNMT entre dispositivos</a></h4>
     <a href='https://computerhoy.com/internet/como-trasladar-certificado-digital-fnmt-dispositivos-1395981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-trasladar-certificado-digital-fnmt-dispositivos-3743202.jpg?tf=1200x' alt='Cómo trasladar tu certificado digital de la FNMT entre dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/kindle-oferta-amazon-prime-day-2024-1395189'>Un Kindle a precio récord: Amazon hunde el precio de sus libros electrónicos por el Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/kindle-oferta-amazon-prime-day-2024-1395189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/kindle-prime-day-3705239.jpg?tf=1200x' alt='Un Kindle a precio récord: Amazon hunde el precio de sus libros electrónicos por el Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283'>Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-ordenador-cuantico-rompe-record-supremacia-cuantica-1395283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/supercomputadora-cuantica-3707957.jpg?tf=1200x' alt='Un nuevo ordenador cuántico rompe el récord de "supremacía cuántica"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/strawberry-nuevo-proyecto-openai-promete-ia-razonamiento-avanzado-1395804'>Strawberry: el nuevo proyecto de OpenAI que promete una IA con razonamiento avanzado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/strawberry-nuevo-proyecto-openai-promete-ia-razonamiento-avanzado-1395804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3274436.jpg?tf=1200x' alt='Strawberry: el nuevo proyecto de OpenAI que promete una IA con razonamiento avanzado' />
     </a>
 </div>
 
