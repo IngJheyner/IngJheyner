@@ -66,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/wd-ssd-m2-8-tb-carateristicas-precio-1396006'>Ya están aquí los SSD M.2 de 8 TB, pero valen más que un ordenador</a></h4>
+    <h4><a href='https://computerhoy.com/pc/wd-ssd-m2-8-tb-carateristicas-precio-1396006'>Ya están aquí los SSD M.2 de 8 TB, pero cuestan más que un ordenador</a></h4>
     <a href='https://computerhoy.com/pc/wd-ssd-m2-8-tb-carateristicas-precio-1396006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ya-estan-aqui-ssd-m2-8-tb-pero-valen-ordenador-3743206.jpg?tf=1200x' alt='Ya están aquí los SSD M.2 de 8 TB, pero valen más que un ordenador' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ya-estan-aqui-ssd-m2-8-tb-pero-valen-ordenador-3743206.jpg?tf=1200x' alt='Ya están aquí los SSD M.2 de 8 TB, pero cuestan más que un ordenador' />
     </a>
 </div>
 
