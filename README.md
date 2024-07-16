@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/panales-sucios-devueltos-amazon-arruinaron-negocio-familiar-1395992'>Así es como unos pañales sucios devueltos a Amazon arruinaron un negocio familiar de un millón de euros</a></h4>
-    <a href='https://computerhoy.com/amazon/panales-sucios-devueltos-amazon-arruinaron-negocio-familiar-1395992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-panales-sucios-devueltos-amazon-arruinaron-negocio-familiar-millon-euros-3742472.jpg?tf=1200x' alt='Así es como unos pañales sucios devueltos a Amazon arruinaron un negocio familiar de un millón de euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/strawberry-nuevo-proyecto-openai-promete-ia-razonamiento-avanzado-1395804'>Strawberry: el nuevo proyecto de OpenAI que promete una IA con razonamiento avanzado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/strawberry-nuevo-proyecto-openai-promete-ia-razonamiento-avanzado-1395804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3274436.jpg?tf=1200x' alt='Strawberry: el nuevo proyecto de OpenAI que promete una IA con razonamiento avanzado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-garmin-favorito-oferta-prime-day-2024-1339244'>Este es mi reloj Garmin más preciado: no lo cambio por nada y en el Prime Day es más barato que nunca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-garmin-favorito-oferta-prime-day-2024-1339244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/garmin-swim-2-3147086.jpg?tf=1200x' alt='Este es mi reloj Garmin más preciado: no lo cambio por nada y en el Prime Day es más barato que nunca' />
+    <h4><a href='https://computerhoy.com/life/debes-hacer-te-roban-movil-policia-nacional-1395998'>Esto es lo que debes hacer si te roban el móvil, según la Policía Nacional</a></h4>
+    <a href='https://computerhoy.com/life/debes-hacer-te-roban-movil-policia-nacional-1395998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robar-movil-3743200.jpg?tf=1200x' alt='Esto es lo que debes hacer si te roban el móvil, según la Policía Nacional' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/vida-inteligente-galaxia-probablemente-no-dice-estudio-1394931'>¿Vida inteligente en nuestra galaxia? Probablemente no, dice un estudio</a></h4>
-    <a href='https://computerhoy.com/ciencia/vida-inteligente-galaxia-probablemente-no-dice-estudio-1394931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vida-inteligente-galaxia-probablemente-no-dice-estudio-3697259.jpg?tf=1200x' alt='¿Vida inteligente en nuestra galaxia? Probablemente no, dice un estudio' />
+    <h4><a href='https://computerhoy.com/motor/icing-nueva-pesadilla-coches-electricos-dgt-quiere-acabar-base-multas-1395281'>Icing: la nueva pesadilla de los coches eléctricos con la que la DGT quiere acabar a base de multas</a></h4>
+    <a href='https://computerhoy.com/motor/icing-nueva-pesadilla-coches-electricos-dgt-quiere-acabar-base-multas-1395281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aparcamiento-subterraneo-3707954.jpg?tf=1200x' alt='Icing: la nueva pesadilla de los coches eléctricos con la que la DGT quiere acabar a base de multas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/disney-hackeada-oleada-revelaciones-series-videojuegos-1395790'>Disney, hackeada: anuncian oleada de revelaciones de series y videojuegos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/disney-hackeada-oleada-revelaciones-series-videojuegos-1395790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/disney-hackeada-anuncian-oleada-revelaciones-series-videojuegos-3735058.jpg?tf=1200x' alt='Disney, hackeada: anuncian oleada de revelaciones de series y videojuegos' />
+    <h4><a href='https://computerhoy.com/tecnologia/generador-voz-ia-microsoft-alcanza-paridad-humana-extremadamente-peligroso-1395280'>El generador de voz con IA de Microsoft alcanza la paridad humana: y esto es extremadamente peligroso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/generador-voz-ia-microsoft-alcanza-paridad-humana-extremadamente-peligroso-1395280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vall-2-3707939.jpg?tf=1200x' alt='El generador de voz con IA de Microsoft alcanza la paridad humana: y esto es extremadamente peligroso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-sera-chollo-esperado-pero-util-cable-puede-revolucionar-conexion-internet-1395796'>No será el chollo más esperado, pero sí el más útil: este cable puede revolucionar tu conexión a Internet</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-sera-chollo-esperado-pero-util-cable-puede-revolucionar-conexion-internet-1395796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/cable-red-ethernet-2480339.jpg?tf=1200x' alt='No será el chollo más esperado, pero sí el más útil: este cable puede revolucionar tu conexión a Internet' />
+    <h4><a href='https://computerhoy.com/apps/google-wallet-te-permitira-escanear-guardar-cualquier-documento-1395997'>Google Wallet te permitirá escanear y guardar cualquier documento</a></h4>
+    <a href='https://computerhoy.com/apps/google-wallet-te-permitira-escanear-guardar-cualquier-documento-1395997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-wallet-3136938.jpg?tf=1200x' alt='Google Wallet te permitirá escanear y guardar cualquier documento' />
     </a>
 </div>
 
