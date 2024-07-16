@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-alarma-domestica-casi-100-euros-menos-te-dara-unas-vacaciones-paz-1395781'>Amazon está liquidando su alarma doméstica: por casi 100 euros menos te dará unas vacaciones en paz</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-alarma-domestica-casi-100-euros-menos-te-dara-unas-vacaciones-paz-1395781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/kit-ring-alarm-s-amazon-3274202.jpg?tf=1200x' alt='Amazon está liquidando su alarma doméstica: por casi 100 euros menos te dará unas vacaciones en paz' />
+    <h4><a href='https://computerhoy.com/tecnologia/aun-no-tienes-ahora-freidora-cosori-vendida-cae-menos-100-euros-1395544'>Si aún no la tienes, es ahora: la freidora Cosori más vendida cae a menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aun-no-tienes-ahora-freidora-cosori-vendida-cae-menos-100-euros-1395544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cosori-caf-l501-3722191.jpg?tf=1200x' alt='Si aún no la tienes, es ahora: la freidora Cosori más vendida cae a menos de 100 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garantia-z-amazon-1393932'>¿Qué es la garantía de la A a la Z de Amazon?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garantia-z-amazon-1393932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-3650323.jpg?tf=1200x' alt='¿Qué es la garantía de la A a la Z de Amazon?' />
+    <h4><a href='https://computerhoy.com/tv/truco-infalible-conectar-varios-dispositivos-hdmi-solo-puerto-smart-tv-1395467'>El truco infalible para conectar varios dispositivos HDMI a un solo puerto en tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/truco-infalible-conectar-varios-dispositivos-hdmi-solo-puerto-smart-tv-1395467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/truco-infalible-conectar-varios-dispositivos-hdmi-solo-puerto-smart-tv-3717071.jpg?tf=1200x' alt='El truco infalible para conectar varios dispositivos HDMI a un solo puerto en tu Smart TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafadores-usan-datos-paquetes-tiras-basura-timarte-1395904'>Los estafadores usan los datos de los paquetes que tiras a la basura para timarte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafadores-usan-datos-paquetes-tiras-basura-timarte-1395904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafadores-usan-datos-paquetes-tiras-basura-timarte-3740333.jpg?tf=1200x' alt='Los estafadores usan los datos de los paquetes que tiras a la basura para timarte' />
+    <h4><a href='https://computerhoy.com/espacio/espectacular-telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-1395211'>¡Espectacular! El telescopio James Webb ha captado un agujero negro mientras engulle una galaxia</a></h4>
+    <a href='https://computerhoy.com/espacio/espectacular-telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-1395211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/telescopio-james-webb-ha-captado-agujero-negro-mientras-engulle-galaxia-3705705.jpg?tf=1200x' alt='¡Espectacular! El telescopio James Webb ha captado un agujero negro mientras engulle una galaxia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-raspberry-pi-mini-pc-n100-potente-puede-windows-11-1395542'>Olvida la Raspberry Pi: este Mini PC con N100 es más potente y puede con Windows 11</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-raspberry-pi-mini-pc-n100-potente-puede-windows-11-1395542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/beelink-mini-s12-pro-3721902.jpg?tf=1200x' alt='Olvida la Raspberry Pi: este Mini PC con N100 es más potente y puede con Windows 11' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-quita-encima-stock-smartwatches-favoritos-version-elegante-1395596'>Amazon se quita de encima stock de uno de nuestros smartwatches favoritos, y en su versión más elegante</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-quita-encima-stock-smartwatches-favoritos-version-elegante-1395596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131234.jpg?tf=1200x' alt='Amazon se quita de encima stock de uno de nuestros smartwatches favoritos, y en su versión más elegante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/disco-duro-20tb-barbaridad-espacio-fin-precio-locos-amazon-1395648'>Este disco duro de 20TB es una barbaridad: espacio sin fin a precio de locos en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/disco-duro-20tb-barbaridad-espacio-fin-precio-locos-amazon-1395648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/wd-elements-prime-day-3732073.jpg?tf=1200x' alt='Este disco duro de 20TB es una barbaridad: espacio sin fin a precio de locos en Amazon' />
+    <h4><a href='https://computerhoy.com/life/hotel-nunca-pierde-truco-tres-dias-hoteles-debes-conocer-antes-reservar-1393933'>El hotel nunca pierde: el truco de los tres días en los hoteles que debes conocer antes de reservar</a></h4>
+    <a href='https://computerhoy.com/life/hotel-nunca-pierde-truco-tres-dias-hoteles-debes-conocer-antes-reservar-1393933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hotel-casino-3705412.jpg?tf=1200x' alt='El hotel nunca pierde: el truco de los tres días en los hoteles que debes conocer antes de reservar' />
     </a>
 </div>
 
