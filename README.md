@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/jubila-escoba-estos-robots-aspiradores-tienen-550-euros-descuento-prime-day-1395590'>Jubila tu escoba: estos robots aspiradores tienen hasta 550 euros de descuento por el Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/jubila-escoba-estos-robots-aspiradores-tienen-550-euros-descuento-prime-day-1395590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dreamebot-l10s-ultra-3247999.jpg?tf=1200x' alt='Jubila tu escoba: estos robots aspiradores tienen hasta 550 euros de descuento por el Prime Day' />
+    <h4><a href='https://computerhoy.com/gaming/locura-consola-portatil-potente-tiene-100-euros-descuento-amazon-1395541'>Qué locura: la consola portátil más potente tiene 100 euros de descuento en Amazon</a></h4>
+    <a href='https://computerhoy.com/gaming/locura-consola-portatil-potente-tiene-100-euros-descuento-amazon-1395541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/asus-rog-ally-3072998.jpg?tf=1200x' alt='Qué locura: la consola portátil más potente tiene 100 euros de descuento en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/puedes-activar-modo-minion-whatsapp-1395913'>Así puedes activar el "modo Minion" en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/puedes-activar-modo-minion-whatsapp-1395913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/modo-minion-whatsapp-3740485.jpg?tf=1200x' alt='Así puedes activar el "modo Minion" en WhatsApp' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-movil-android-actualizado-ultima-version-1349172'>Cómo saber en segundos si tu móvil Android está actualizado con la última versión del sistema</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-movil-android-actualizado-ultima-version-1349172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-saber-segundos-movil-android-actualizado-ultima-version-sistema-3247767.jpg?tf=1200x' alt='Cómo saber en segundos si tu móvil Android está actualizado con la última versión del sistema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/trucazo-te-salvara-vida-viajas-avion-2-horas-tiktok-necesidad-wifi-1395146'>El trucazo que te salvará la vida si viajas en avión: hasta 2 horas de TikTok sin necesidad de WiFi</a></h4>
-    <a href='https://computerhoy.com/apps/trucazo-te-salvara-vida-viajas-avion-2-horas-tiktok-necesidad-wifi-1395146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/avion-tiktok-3705081.jpg?tf=1200x' alt='El trucazo que te salvará la vida si viajas en avión: hasta 2 horas de TikTok sin necesidad de WiFi' />
+    <h4><a href='https://computerhoy.com/apple/como-dia-magico-steve-jobs-mejoraba-vida-laboral-apple-1395666'>Cómo el "día mágico" de Steve Jobs mejoraba la vida laboral en Apple</a></h4>
+    <a href='https://computerhoy.com/apple/como-dia-magico-steve-jobs-mejoraba-vida-laboral-apple-1395666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/obsesion-steve-jobs-skeuomorfismo-ios-fue-diseno-odiado-3301002.jpg?tf=1200x' alt='Cómo el "día mágico" de Steve Jobs mejoraba la vida laboral en Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-permite-transcribir-notas-voz-1395885'>La nueva función de WhatsApp que permite transcribir notas de voz</a></h4>
-    <a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-permite-transcribir-notas-voz-1395885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nueva-funcion-whatsapp-permite-transcribir-notas-voz-3740008.jpg?tf=1200x' alt='La nueva función de WhatsApp que permite transcribir notas de voz' />
+    <h4><a href='https://computerhoy.com/nuevo-chip-inteligencia-artificial-revolucionara-chatgpt-1395870'>El nuevo chip de inteligencia artificial que revolucionará ChatGPT</a></h4>
+    <a href='https://computerhoy.com/nuevo-chip-inteligencia-artificial-revolucionara-chatgpt-1395870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chip-ia-3739681.jpg?tf=1200x' alt='El nuevo chip de inteligencia artificial que revolucionará ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/movil-samsung-puede-barrer-prime-day-5g-220-euros-barato-1395882'>Este móvil Samsung puede barrer en el Prime Day: con 5G y 220 euros más barato</a></h4>
-    <a href='https://computerhoy.com/android/movil-samsung-puede-barrer-prime-day-5g-220-euros-barato-1395882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-galaxy-a54-5g-2993044.jpg?tf=1200x' alt='Este móvil Samsung puede barrer en el Prime Day: con 5G y 220 euros más barato' />
+    <h4><a href='https://computerhoy.com/redes/bloquear-alguien-facebook-x-whatsapp-mejora-salud-mental-dicen-expertos-1395621'>¿Bloquear a alguien en Facebook, X o WhatsApp mejora la salud mental? Esto es lo que dicen los expertos</a></h4>
+    <a href='https://computerhoy.com/redes/bloquear-alguien-facebook-x-whatsapp-mejora-salud-mental-dicen-expertos-1395621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bloquear-alguien-facebook-x-whatsapp-mejora-salud-mental-dicen-expertos-3731919.jpg?tf=1200x' alt='¿Bloquear a alguien en Facebook, X o WhatsApp mejora la salud mental? Esto es lo que dicen los expertos' />
     </a>
 </div>
 
