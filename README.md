@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-te-controlan-whatsapp-1344522'>Cómo saber si controlan tu WhatsApp sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-te-controlan-whatsapp-1344522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-saber-te-controlan-whatsapp-instalar-nada-3239054.jpg?tf=1200x' alt='Cómo saber si controlan tu WhatsApp sin instalar nada' />
+    <h4><a href='https://computerhoy.com/apple/esperanza-ultimo-pierde-rescate-apple-watch-fondo-mar-18-meses-demuestra-1395636'>La esperanza es lo último que se pierde y el rescate de este Apple Watch del fondo de mar tras 18 meses lo demuestra</a></h4>
+    <a href='https://computerhoy.com/apple/esperanza-ultimo-pierde-rescate-apple-watch-fondo-mar-18-meses-demuestra-1395636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-watch-oceano-3732225.jpg?tf=1200x' alt='La esperanza es lo último que se pierde y el rescate de este Apple Watch del fondo de mar tras 18 meses lo demuestra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/appe-watch-salva-vidas-historia-surfista-pelicula-1395830'>El Appe Watch sí salva vidas y la historia de este surfista es de película</a></h4>
-    <a href='https://computerhoy.com/apple/appe-watch-salva-vidas-historia-surfista-pelicula-1395830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-3291677.jpg?tf=1200x' alt='El Appe Watch sí salva vidas y la historia de este surfista es de película' />
+    <h4><a href='https://computerhoy.com/google/google-maps-hace-cambio-interfaz-android-te-facilitara-vida-1395846'>Google Maps hace un cambio en su interfaz para Android que te facilitará la vida</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-hace-cambio-interfaz-android-te-facilitara-vida-1395846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-android-auto-3683888.jpg?tf=1200x' alt='Google Maps hace un cambio en su interfaz para Android que te facilitará la vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-chino-presume-precio-windows-11-prime-day-ha-roto-todos-registros-1395535'>Este portátil chino presume de precio y de Windows 11: en el Prime Day ha roto todos los registros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-chino-presume-precio-windows-11-prime-day-ha-roto-todos-registros-1395535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/alldocube-gtbook-13-pro-3721153.jpg?tf=1200x' alt='Este portátil chino presume de precio y de Windows 11: en el Prime Day ha roto todos los registros' />
+    <h4><a href='https://computerhoy.com/tecnologia/meta-ai-whatsapp-sirve-como-utilizarlo-1395813'>Meta AI de WhatsApp: qué es, para qué sirve y cómo utilizarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-ai-whatsapp-sirve-como-utilizarlo-1395813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/meta-ai-whatsapp-sirve-como-utilizarlo-3737806.jpg?tf=1200x' alt='Meta AI de WhatsApp: qué es, para qué sirve y cómo utilizarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/software/windows-10-donde-guardan-capturas-pantalla-72071'>Windows 10: Dónde se guardan las capturas de pantalla</a></h4>
-    <a href='https://computerhoy.com/noticias/software/windows-10-donde-guardan-capturas-pantalla-72071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/windows-10-donde-guardan-capturas-pantalla-3737519.jpg?tf=1200x' alt='Windows 10: Dónde se guardan las capturas de pantalla' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-saca-rastrillo-outlet-reacondicionados-30-descuento-extra-precio-marcado-1395558'>Amazon saca el rastrillo: outlet de reacondicionados con 30% de descuento extra sobre el precio marcado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-saca-rastrillo-outlet-reacondicionados-30-descuento-extra-precio-marcado-1395558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cajas-amazon-3725694.jpg?tf=1200x' alt='Amazon saca el rastrillo: outlet de reacondicionados con 30% de descuento extra sobre el precio marcado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/compras-shein-aliexpress-son-tan-seguras-como-parece-puedes-evitar-te-estafen-1394646'>Compras en Shein o AliExpress: ¿Son tan seguras como parece? Así puedes evitar que te estafen</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/compras-shein-aliexpress-son-tan-seguras-como-parece-puedes-evitar-te-estafen-1394646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/compras-shein-aliexpress-estafas-3705390.jpg?tf=1200x' alt='Compras en Shein o AliExpress: ¿Son tan seguras como parece? Así puedes evitar que te estafen' />
+    <h4><a href='https://computerhoy.com/ciencia/ver-olimpiadas-tele-beneficioso-salud-ciencia-1395833'>Ver las Olimpiadas en la tele es beneficioso para tu salud, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/ver-olimpiadas-tele-beneficioso-salud-ciencia-1395833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ver-olimpiadas-tele-beneficioso-salud-ciencia-3738095.jpg?tf=1200x' alt='Ver las Olimpiadas en la tele es beneficioso para tu salud, según la ciencia' />
     </a>
 </div>
 
