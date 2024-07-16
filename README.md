@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aun-no-tienes-ahora-freidora-cosori-vendida-cae-menos-100-euros-1395544'>Si aún no la tienes, es ahora: la freidora Cosori más vendida cae a menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aun-no-tienes-ahora-freidora-cosori-vendida-cae-menos-100-euros-1395544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cosori-caf-l501-3722191.jpg?tf=1200x' alt='Si aún no la tienes, es ahora: la freidora Cosori más vendida cae a menos de 100 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/apple-airtag-oferta-prime-day-top-ventas-amazon-1395575'>Directos al top ventas: los AirTag desploma su precio en el Prime Day y se están vendiendo como churros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-airtag-oferta-prime-day-top-ventas-amazon-1395575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/airtag-apple-2305609.jpg?tf=1200x' alt='Directos al top ventas: los AirTag desploma su precio en el Prime Day y se están vendiendo como churros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/truco-infalible-conectar-varios-dispositivos-hdmi-solo-puerto-smart-tv-1395467'>El truco infalible para conectar varios dispositivos HDMI a un solo puerto en tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tv/truco-infalible-conectar-varios-dispositivos-hdmi-solo-puerto-smart-tv-1395467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/truco-infalible-conectar-varios-dispositivos-hdmi-solo-puerto-smart-tv-3717071.jpg?tf=1200x' alt='El truco infalible para conectar varios dispositivos HDMI a un solo puerto en tu Smart TV' />
+    <h4><a href='https://computerhoy.com/life/horno-airfryer-cual-consume-menos-luz-1395921'>Horno o Airfryer: ¿cuál consume menos luz?</a></h4>
+    <a href='https://computerhoy.com/life/horno-airfryer-cual-consume-menos-luz-1395921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/horno-airfryer-cual-consume-menos-luz-3740637.jpg?tf=1200x' alt='Horno o Airfryer: ¿cuál consume menos luz?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-quita-encima-stock-smartwatches-favoritos-version-elegante-1395596'>Amazon se quita de encima stock de uno de nuestros smartwatches favoritos, y en su versión más elegante</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-quita-encima-stock-smartwatches-favoritos-version-elegante-1395596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131234.jpg?tf=1200x' alt='Amazon se quita de encima stock de uno de nuestros smartwatches favoritos, y en su versión más elegante' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-programas-antiguos-tdt-cuando-quieras-casi-anuncios-1395204'>Cómo ver programas antiguos de la TDT cuando quieras y casi sin anuncios</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-programas-antiguos-tdt-cuando-quieras-casi-anuncios-1395204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ver-tdt-television-3292543.jpg?tf=1200x' alt='Cómo ver programas antiguos de la TDT cuando quieras y casi sin anuncios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hotel-nunca-pierde-truco-tres-dias-hoteles-debes-conocer-antes-reservar-1393933'>El hotel nunca pierde: el truco de los tres días en los hoteles que debes conocer antes de reservar</a></h4>
-    <a href='https://computerhoy.com/life/hotel-nunca-pierde-truco-tres-dias-hoteles-debes-conocer-antes-reservar-1393933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hotel-casino-3705412.jpg?tf=1200x' alt='El hotel nunca pierde: el truco de los tres días en los hoteles que debes conocer antes de reservar' />
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-muy-pro-intel-core-i9-pantalla-144-hz-precio-outlet-prime-day-1395583'>Este portátil es muy pro: Intel Core i9 y pantalla 144 Hz a precio de outlet en el Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-muy-pro-intel-core-i9-pantalla-144-hz-precio-outlet-prime-day-1395583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/acer-nitro-5-an515-58-3727039.jpg?tf=1200x' alt='Este portátil es muy pro: Intel Core i9 y pantalla 144 Hz a precio de outlet en el Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/realmente-necesitas-red-wifi-malla-hogar-debes-saber-antes-tirar-dinero-1395468'>¿Realmente necesitas una red WiFi de malla en tu hogar? Lo que debes saber antes de tirar tu dinero</a></h4>
-    <a href='https://computerhoy.com/redes/realmente-necesitas-red-wifi-malla-hogar-debes-saber-antes-tirar-dinero-1395468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realmente-necesitas-red-wifi-malla-hogar-debes-saber-antes-tirar-dinero-3717352.jpg?tf=1200x' alt='¿Realmente necesitas una red WiFi de malla en tu hogar? Lo que debes saber antes de tirar tu dinero' />
+    <h4><a href='https://computerhoy.com/amazon/mejores-chollos-baratos-20-euros-amazon-prime-day-1395579'>Chollos de 20 euros del Amazon Prime Day 2024 que no te puedes perder</a></h4>
+    <a href='https://computerhoy.com/amazon/mejores-chollos-baratos-20-euros-amazon-prime-day-1395579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ofertas-20-euros-3726890.jpg?tf=1200x' alt='Chollos de 20 euros del Amazon Prime Day 2024 que no te puedes perder' />
     </a>
 </div>
 
