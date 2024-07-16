@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/potencia-brutal-32gb-ram-ryzen-7-mini-pc-pone-amazon-patas-arriba-1395545'>Potencia brutal con 32GB de RAM y Ryzen 7: este Mini PC pone Amazon patas arriba</a></h4>
-    <a href='https://computerhoy.com/pc/potencia-brutal-32gb-ram-ryzen-7-mini-pc-pone-amazon-patas-arriba-1395545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/acemagician-gaming-mini-pc-3722493.jpg?tf=1200x' alt='Potencia brutal con 32GB de RAM y Ryzen 7: este Mini PC pone Amazon patas arriba' />
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-identifica-trabajos-nunca-seran-reemplazados-inteligencia-artificial-1395654'>Elon Musk identifica los trabajos que nunca serán reemplazados por la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-identifica-trabajos-nunca-seran-reemplazados-inteligencia-artificial-1395654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-otros-expertos-preocupados-descontrolado-desarrollo-ia-2995876.jpg?tf=1200x' alt='Elon Musk identifica los trabajos que nunca serán reemplazados por la inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estudio-razon-eres-inteligente-ia-aun-1394652'>Según un estudio, esta es la razón por la que eres más inteligente que la IA (aún)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estudio-razon-eres-inteligente-ia-aun-1394652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estudio-razon-eres-listo-ia-aun-3685125.jpg?tf=1200x' alt='Según un estudio, esta es la razón por la que eres más inteligente que la IA (aún)' />
+    <h4><a href='https://computerhoy.com/tecnologia/western-digital-my-cloud-4tb-oferta-amazon-1337248'>Google y Dropbox, en apuros con esta oferta: un disco duro de 4TB con internet que será tu nube personal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/western-digital-my-cloud-4tb-oferta-amazon-1337248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/wd-my-cloud-home-2211419.jpg?tf=1200x' alt='Google y Dropbox, en apuros con esta oferta: un disco duro de 4TB con internet que será tu nube personal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/5-gadgets-enganar-ladrones-verano-instalar-alarma-1395740'>5 gadgets para engañar a los ladrones este verano sin instalar una alarma</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/5-gadgets-enganar-ladrones-verano-instalar-alarma-1395740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gadgets-enganar-ladrones-3734598.jpg?tf=1200x' alt='5 gadgets para engañar a los ladrones este verano sin instalar una alarma' />
+    <h4><a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104'>The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-1395104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sarco-tesla-eutanasia-listo-ofrecer-suicido-asistido-3703264.jpg?tf=1200x' alt='The Sarco, el Tesla de la eutanasia, listo para ofrecer el suicido asistido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/desconocido-accesorio-fire-tv-stick-mando-pro-1239654'>Si has comprado un Firestick, Amazon vende un accesorio que lo hará mucho mejor</a></h4>
-    <a href='https://computerhoy.com/tv/desconocido-accesorio-fire-tv-stick-mando-pro-1239654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mando-voz-alexa-pro-3360633.jpg?tf=1200x' alt='Si has comprado un Firestick, Amazon vende un accesorio que lo hará mucho mejor' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-revienta-prime-day-pixel-8-pro-rebaja-historica-deja-barato-iphone-1395531'>Google revienta el Prime Day con el Pixel 8 Pro: rebaja histórica que lo deja más barato que el iPhone</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-revienta-prime-day-pixel-8-pro-rebaja-historica-deja-barato-iphone-1395531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191842.jpg?tf=1200x' alt='Google revienta el Prime Day con el Pixel 8 Pro: rebaja histórica que lo deja más barato que el iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/mejores-chollos-baratos-20eu-menos-aprovechar-amazon-prime-day-1395579'>Los mejores chollos baratos de 20€ o menos para aprovechar en el Amazon Prime Day</a></h4>
-    <a href='https://computerhoy.com/amazon/mejores-chollos-baratos-20eu-menos-aprovechar-amazon-prime-day-1395579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ofertas-20-euros-3726890.jpg?tf=1200x' alt='Los mejores chollos baratos de 20€ o menos para aprovechar en el Amazon Prime Day' />
+    <h4><a href='https://computerhoy.com/pc/mejor-refrigeracion-liquida-ventilador-1395291'>¿Qué es mejor la refrigeración líquida o un ventilador?</a></h4>
+    <a href='https://computerhoy.com/pc/mejor-refrigeracion-liquida-ventilador-1395291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/refrigeracion-liquida-aire-3708950.jpg?tf=1200x' alt='¿Qué es mejor la refrigeración líquida o un ventilador?' />
     </a>
 </div>
 
