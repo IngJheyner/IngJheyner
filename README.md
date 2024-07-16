@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-dia-magico-steve-jobs-mejoraba-vida-laboral-apple-1395666'>Cómo el "día mágico" de Steve Jobs mejoraba la vida laboral en Apple</a></h4>
-    <a href='https://computerhoy.com/apple/como-dia-magico-steve-jobs-mejoraba-vida-laboral-apple-1395666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/obsesion-steve-jobs-skeuomorfismo-ios-fue-diseno-odiado-3301002.jpg?tf=1200x' alt='Cómo el "día mágico" de Steve Jobs mejoraba la vida laboral en Apple' />
+    <h4><a href='https://computerhoy.com/tecnologia/jubila-escoba-estos-robots-aspiradores-tienen-550-euros-descuento-prime-day-1395590'>Jubila tu escoba: estos robots aspiradores tienen hasta 550 euros de descuento por el Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/jubila-escoba-estos-robots-aspiradores-tienen-550-euros-descuento-prime-day-1395590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dreamebot-l10s-ultra-3247999.jpg?tf=1200x' alt='Jubila tu escoba: estos robots aspiradores tienen hasta 550 euros de descuento por el Prime Day' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/nuevo-chip-inteligencia-artificial-revolucionara-chatgpt-1395870'>El nuevo chip de inteligencia artificial que revolucionará ChatGPT</a></h4>
-    <a href='https://computerhoy.com/nuevo-chip-inteligencia-artificial-revolucionara-chatgpt-1395870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chip-ia-3739681.jpg?tf=1200x' alt='El nuevo chip de inteligencia artificial que revolucionará ChatGPT' />
+    <h4><a href='https://computerhoy.com/apps/puedes-activar-modo-minion-whatsapp-1395913'>Así puedes activar el "modo Minion" en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/puedes-activar-modo-minion-whatsapp-1395913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/modo-minion-whatsapp-3740485.jpg?tf=1200x' alt='Así puedes activar el "modo Minion" en WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/bloquear-alguien-facebook-x-whatsapp-mejora-salud-mental-dicen-expertos-1395621'>¿Bloquear a alguien en Facebook, X o WhatsApp mejora la salud mental? Esto es lo que dicen los expertos</a></h4>
-    <a href='https://computerhoy.com/redes/bloquear-alguien-facebook-x-whatsapp-mejora-salud-mental-dicen-expertos-1395621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bloquear-alguien-facebook-x-whatsapp-mejora-salud-mental-dicen-expertos-3731919.jpg?tf=1200x' alt='¿Bloquear a alguien en Facebook, X o WhatsApp mejora la salud mental? Esto es lo que dicen los expertos' />
+    <h4><a href='https://computerhoy.com/apps/trucazo-te-salvara-vida-viajas-avion-2-horas-tiktok-necesidad-wifi-1395146'>El trucazo que te salvará la vida si viajas en avión: hasta 2 horas de TikTok sin necesidad de WiFi</a></h4>
+    <a href='https://computerhoy.com/apps/trucazo-te-salvara-vida-viajas-avion-2-horas-tiktok-necesidad-wifi-1395146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/avion-tiktok-3705081.jpg?tf=1200x' alt='El trucazo que te salvará la vida si viajas en avión: hasta 2 horas de TikTok sin necesidad de WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-no-vas-perder-llaves-airtag-apple-llegan-fuertes-prime-day-generoso-descuento-1395575'>Ya no vas a perder las llaves: los AirTag de Apple llegan fuertes al Prime Day con un generoso descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-no-vas-perder-llaves-airtag-apple-llegan-fuertes-prime-day-generoso-descuento-1395575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/airtag-apple-2305609.jpg?tf=1200x' alt='Ya no vas a perder las llaves: los AirTag de Apple llegan fuertes al Prime Day con un generoso descuento' />
+    <h4><a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-permite-transcribir-notas-voz-1395885'>La nueva función de WhatsApp que permite transcribir notas de voz</a></h4>
+    <a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-permite-transcribir-notas-voz-1395885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nueva-funcion-whatsapp-permite-transcribir-notas-voz-3740008.jpg?tf=1200x' alt='La nueva función de WhatsApp que permite transcribir notas de voz' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/consigue-llevar-mejor-waze-google-maps-coches-policia-aparecen-ahora-marcados-mapa-1395149'>Consigue llevar lo mejor de Waze a Google Maps: los coches de policía aparecen ahora marcados en el mapa</a></h4>
-    <a href='https://computerhoy.com/google/consigue-llevar-mejor-waze-google-maps-coches-policia-aparecen-ahora-marcados-mapa-1395149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/waze-avisos-3704617.jpg?tf=1200x' alt='Consigue llevar lo mejor de Waze a Google Maps: los coches de policía aparecen ahora marcados en el mapa' />
+    <h4><a href='https://computerhoy.com/android/movil-samsung-puede-barrer-prime-day-5g-220-euros-barato-1395882'>Este móvil Samsung puede barrer en el Prime Day: con 5G y 220 euros más barato</a></h4>
+    <a href='https://computerhoy.com/android/movil-samsung-puede-barrer-prime-day-5g-220-euros-barato-1395882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/samsung-galaxy-a54-5g-2993044.jpg?tf=1200x' alt='Este móvil Samsung puede barrer en el Prime Day: con 5G y 220 euros más barato' />
     </a>
 </div>
 
