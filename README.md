@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/esperanza-ultimo-pierde-rescate-apple-watch-fondo-mar-18-meses-demuestra-1395636'>La esperanza es lo último que se pierde y el rescate de este Apple Watch del fondo de mar tras 18 meses lo demuestra</a></h4>
-    <a href='https://computerhoy.com/apple/esperanza-ultimo-pierde-rescate-apple-watch-fondo-mar-18-meses-demuestra-1395636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-watch-oceano-3732225.jpg?tf=1200x' alt='La esperanza es lo último que se pierde y el rescate de este Apple Watch del fondo de mar tras 18 meses lo demuestra' />
+    <h4><a href='https://computerhoy.com/tecnologia/ofertas-xiaomi-amazon-prime-day-1395503'>Xiaomi da la campanada en el Prime Day y rebaja algunos de sus dispositivos más vendidos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ofertas-xiaomi-amazon-prime-day-1395503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-store-tienda-3127310.jpg?tf=1200x' alt='Xiaomi da la campanada en el Prime Day y rebaja algunos de sus dispositivos más vendidos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-hace-cambio-interfaz-android-te-facilitara-vida-1395846'>Google Maps hace un cambio en su interfaz para Android que te facilitará la vida</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-hace-cambio-interfaz-android-te-facilitara-vida-1395846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-android-auto-3683888.jpg?tf=1200x' alt='Google Maps hace un cambio en su interfaz para Android que te facilitará la vida' />
+    <h4><a href='https://computerhoy.com/tutoriales/descubren-menu-oculto-fire-tv-stick-activa-nuevas-funciones-1348244'>Este menú oculto en los Amazon Fire TV Stick permite activar nuevas funciones</a></h4>
+    <a href='https://computerhoy.com/tutoriales/descubren-menu-oculto-fire-tv-stick-activa-nuevas-funciones-1348244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubren-menu-oculto-amazon-fire-tv-stick-permite-activar-nuevas-funciones-3246054.jpg?tf=1200x' alt='Este menú oculto en los Amazon Fire TV Stick permite activar nuevas funciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-ai-whatsapp-sirve-como-utilizarlo-1395813'>Meta AI de WhatsApp: qué es, para qué sirve y cómo utilizarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-ai-whatsapp-sirve-como-utilizarlo-1395813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/meta-ai-whatsapp-sirve-como-utilizarlo-3737806.jpg?tf=1200x' alt='Meta AI de WhatsApp: qué es, para qué sirve y cómo utilizarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/outlet-relojes-inteligentes-prime-day-varios-apple-watch-samsung-galaxy-watch-mucho-1395490'>Outlet de relojes inteligentes en el Prime Day: varios Apple Watch, Samsung Galaxy Watch y mucho más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/outlet-relojes-inteligentes-prime-day-varios-apple-watch-samsung-galaxy-watch-mucho-1395490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110568.jpg?tf=1200x' alt='Outlet de relojes inteligentes en el Prime Day: varios Apple Watch, Samsung Galaxy Watch y mucho más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-saca-rastrillo-outlet-reacondicionados-30-descuento-extra-precio-marcado-1395558'>Amazon saca el rastrillo: outlet de reacondicionados con 30% de descuento extra sobre el precio marcado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-saca-rastrillo-outlet-reacondicionados-30-descuento-extra-precio-marcado-1395558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cajas-amazon-3725694.jpg?tf=1200x' alt='Amazon saca el rastrillo: outlet de reacondicionados con 30% de descuento extra sobre el precio marcado' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/apple-ha-alertado-nuevo-iphone-casi-100-paises-pueden-sufrir-ataque-software-espia-1395126'>Apple ha alertado (de nuevo) que los iPhone de casi 100 países pueden sufrir un ataque con software espía</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/apple-ha-alertado-nuevo-iphone-casi-100-paises-pueden-sufrir-ataque-software-espia-1395126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-ha-alertado-nuevo-iphone-casi-100-paises-potencial-ataque-software-espia-3704310.jpg?tf=1200x' alt='Apple ha alertado (de nuevo) que los iPhone de casi 100 países pueden sufrir un ataque con software espía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ver-olimpiadas-tele-beneficioso-salud-ciencia-1395833'>Ver las Olimpiadas en la tele es beneficioso para tu salud, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/ver-olimpiadas-tele-beneficioso-salud-ciencia-1395833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ver-olimpiadas-tele-beneficioso-salud-ciencia-3738095.jpg?tf=1200x' alt='Ver las Olimpiadas en la tele es beneficioso para tu salud, según la ciencia' />
+    <h4><a href='https://computerhoy.com/android/android-auto-124-ya-aqui-descubre-cambios-como-instalarlo-1395842'>Android Auto 12.4 ya está aquí: descubre los cambios y cómo instalarlo</a></h4>
+    <a href='https://computerhoy.com/android/android-auto-124-ya-aqui-descubre-cambios-como-instalarlo-1395842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-124-ya-aqui-descubre-cambios-como-instalarlo-3739135.jpg?tf=1200x' alt='Android Auto 12.4 ya está aquí: descubre los cambios y cómo instalarlo' />
     </a>
 </div>
 
