@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-devora-memoria-movil-solamente-tienes-activar-ajuste-1395864'>¿WhatsApp devora la memoria de tu móvil? Solamente tienes que activar este ajuste</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-devora-memoria-movil-solamente-tienes-activar-ajuste-1395864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-almacenamiento-3739667.jpg?tf=1200x' alt='¿WhatsApp devora la memoria de tu móvil? Solamente tienes que activar este ajuste' />
+    <h4><a href='https://computerhoy.com/apple/como-dia-magico-steve-jobs-mejoraba-vida-laboral-apple-1395666'>Cómo el "día mágico" de Steve Jobs mejoraba la vida laboral en Apple</a></h4>
+    <a href='https://computerhoy.com/apple/como-dia-magico-steve-jobs-mejoraba-vida-laboral-apple-1395666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/obsesion-steve-jobs-skeuomorfismo-ios-fue-diseno-odiado-3301002.jpg?tf=1200x' alt='Cómo el "día mágico" de Steve Jobs mejoraba la vida laboral en Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/elon-musk-afirma-intento-asesinato-trump-inspira-construir-traje-volador-armadura-1395661'>Elon Musk afirma que el intento de asesinato de Trump lo inspira a construir un traje volador con armadura</a></h4>
-    <a href='https://computerhoy.com/redes/elon-musk-afirma-intento-asesinato-trump-inspira-construir-traje-volador-armadura-1395661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/elon-musk-traje-volador-3732696.jpg?tf=1200x' alt='Elon Musk afirma que el intento de asesinato de Trump lo inspira a construir un traje volador con armadura' />
+    <h4><a href='https://computerhoy.com/nuevo-chip-inteligencia-artificial-revolucionara-chatgpt-1395870'>El nuevo chip de inteligencia artificial que revolucionará ChatGPT</a></h4>
+    <a href='https://computerhoy.com/nuevo-chip-inteligencia-artificial-revolucionara-chatgpt-1395870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chip-ia-3739681.jpg?tf=1200x' alt='El nuevo chip de inteligencia artificial que revolucionará ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ni-china-ni-japon-futuro-baterias-energia-enfoca-argentina-1395680'>Ni en China ni en Japón: el futuro de las baterías y la energía se enfoca en Argentina</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ni-china-ni-japon-futuro-baterias-energia-enfoca-argentina-1395680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/extraccion-litio-estados-unidos-3270565.jpg?tf=1200x' alt='Ni en China ni en Japón: el futuro de las baterías y la energía se enfoca en Argentina' />
+    <h4><a href='https://computerhoy.com/redes/bloquear-alguien-facebook-x-whatsapp-mejora-salud-mental-dicen-expertos-1395621'>¿Bloquear a alguien en Facebook, X o WhatsApp mejora la salud mental? Esto es lo que dicen los expertos</a></h4>
+    <a href='https://computerhoy.com/redes/bloquear-alguien-facebook-x-whatsapp-mejora-salud-mental-dicen-expertos-1395621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bloquear-alguien-facebook-x-whatsapp-mejora-salud-mental-dicen-expertos-3731919.jpg?tf=1200x' alt='¿Bloquear a alguien en Facebook, X o WhatsApp mejora la salud mental? Esto es lo que dicen los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-error-macbook-air-m2-precio-outlet-amazon-primera-vez-1395873'>No es un error: el MacBook Air M2 está a precio de outlet en Amazon por primera vez</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-error-macbook-air-m2-precio-outlet-amazon-primera-vez-1395873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galeria-review-macbook-air-m2-2779311.jpg?tf=1200x' alt='No es un error: el MacBook Air M2 está a precio de outlet en Amazon por primera vez' />
+    <h4><a href='https://computerhoy.com/tecnologia/ya-no-vas-perder-llaves-airtag-apple-llegan-fuertes-prime-day-generoso-descuento-1395575'>Ya no vas a perder las llaves: los AirTag de Apple llegan fuertes al Prime Day con un generoso descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-no-vas-perder-llaves-airtag-apple-llegan-fuertes-prime-day-generoso-descuento-1395575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/airtag-apple-2305609.jpg?tf=1200x' alt='Ya no vas a perder las llaves: los AirTag de Apple llegan fuertes al Prime Day con un generoso descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/bizum-peligra-alemania-activa-app-pagos-wero-1395662'>Bizum peligra: Alemania activa su app de pagos Wero</a></h4>
-    <a href='https://computerhoy.com/apps/bizum-peligra-alemania-activa-app-pagos-wero-1395662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/wero-app-pagos-3732693.jpg?tf=1200x' alt='Bizum peligra: Alemania activa su app de pagos Wero' />
+    <h4><a href='https://computerhoy.com/google/consigue-llevar-mejor-waze-google-maps-coches-policia-aparecen-ahora-marcados-mapa-1395149'>Consigue llevar lo mejor de Waze a Google Maps: los coches de policía aparecen ahora marcados en el mapa</a></h4>
+    <a href='https://computerhoy.com/google/consigue-llevar-mejor-waze-google-maps-coches-policia-aparecen-ahora-marcados-mapa-1395149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/waze-avisos-3704617.jpg?tf=1200x' alt='Consigue llevar lo mejor de Waze a Google Maps: los coches de policía aparecen ahora marcados en el mapa' />
     </a>
 </div>
 
