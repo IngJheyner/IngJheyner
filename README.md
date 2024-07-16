@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/potencia-brutal-32gb-ram-ryzen-7-mini-pc-pone-amazon-patas-arriba-1395545'>Potencia brutal con 32GB de RAM y Ryzen 7: este Mini PC pone Amazon patas arriba</a></h4>
+    <a href='https://computerhoy.com/pc/potencia-brutal-32gb-ram-ryzen-7-mini-pc-pone-amazon-patas-arriba-1395545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/acemagician-gaming-mini-pc-3722493.jpg?tf=1200x' alt='Potencia brutal con 32GB de RAM y Ryzen 7: este Mini PC pone Amazon patas arriba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estudio-razon-eres-inteligente-ia-aun-1394652'>Según un estudio, esta es la razón por la que eres más inteligente que la IA (aún)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estudio-razon-eres-inteligente-ia-aun-1394652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estudio-razon-eres-listo-ia-aun-3685125.jpg?tf=1200x' alt='Según un estudio, esta es la razón por la que eres más inteligente que la IA (aún)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/5-gadgets-enganar-ladrones-verano-instalar-alarma-1395740'>5 gadgets para engañar a los ladrones este verano sin instalar una alarma</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/5-gadgets-enganar-ladrones-verano-instalar-alarma-1395740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gadgets-enganar-ladrones-3734598.jpg?tf=1200x' alt='5 gadgets para engañar a los ladrones este verano sin instalar una alarma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/desconocido-accesorio-fire-tv-stick-mando-pro-1239654'>Si has comprado un Firestick, Amazon vende un accesorio que lo hará mucho mejor</a></h4>
+    <a href='https://computerhoy.com/tv/desconocido-accesorio-fire-tv-stick-mando-pro-1239654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mando-voz-alexa-pro-3360633.jpg?tf=1200x' alt='Si has comprado un Firestick, Amazon vende un accesorio que lo hará mucho mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/mejores-chollos-baratos-20eu-menos-aprovechar-amazon-prime-day-1395579'>Los mejores chollos baratos de 20€ o menos para aprovechar en el Amazon Prime Day</a></h4>
     <a href='https://computerhoy.com/amazon/mejores-chollos-baratos-20eu-menos-aprovechar-amazon-prime-day-1395579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ofertas-20-euros-3726890.jpg?tf=1200x' alt='Los mejores chollos baratos de 20€ o menos para aprovechar en el Amazon Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejores-consejos-poder-ganar-dinero-tiktok-1388592'>Los mejores consejos para poder ganar dinero en TikTok</a></h4>
-    <a href='https://computerhoy.com/internet/mejores-consejos-poder-ganar-dinero-tiktok-1388592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mejores-consejos-poder-ganar-dinero-tiktok-3398599.jpg?tf=1200x' alt='Los mejores consejos para poder ganar dinero en TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-relojes-deportivos-prime-day-garmin-apunta-suunto-polar-1395497'>Liquidación en relojes deportivos por el Prime Day: Garmin se apunta con Suunto, Polar y más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/liquidacion-relojes-deportivos-prime-day-garmin-apunta-suunto-polar-1395497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-fenix-7s-3189996.jpg?tf=1200x' alt='Liquidación en relojes deportivos por el Prime Day: Garmin se apunta con Suunto, Polar y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-lia-rebaja-varios-moviles-top-ventas-prime-day-estos-son-interesantes-1395431'>Amazon la lía y rebaja varios móviles top ventas en el Prime Day: estos son los más interesantes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-lia-rebaja-varios-moviles-top-ventas-prime-day-estos-son-interesantes-1395431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-prime-day-pixel-8-pro-3713476.jpg?tf=1200x' alt='Amazon la lía y rebaja varios móviles top ventas en el Prime Day: estos son los más interesantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-mas-top-liquidacion-amazon-prime-day-1316776'>Amazon liquida el Garmin más top en el Prime Day: el Fenix 7 vuelve a ser un chollo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-fenix-mas-top-liquidacion-amazon-prime-day-1316776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7x-solar-2591043.jpg?tf=1200x' alt='Amazon liquida el Garmin más top en el Prime Day: el Fenix 7 vuelve a ser un chollo' />
     </a>
 </div>
 
