@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/locura-consola-portatil-potente-tiene-100-euros-descuento-amazon-1395541'>Qué locura: la consola portátil más potente tiene 100 euros de descuento en Amazon</a></h4>
-    <a href='https://computerhoy.com/gaming/locura-consola-portatil-potente-tiene-100-euros-descuento-amazon-1395541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/asus-rog-ally-3072998.jpg?tf=1200x' alt='Qué locura: la consola portátil más potente tiene 100 euros de descuento en Amazon' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-alarma-domestica-casi-100-euros-menos-te-dara-unas-vacaciones-paz-1395781'>Amazon está liquidando su alarma doméstica: por casi 100 euros menos te dará unas vacaciones en paz</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-alarma-domestica-casi-100-euros-menos-te-dara-unas-vacaciones-paz-1395781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/kit-ring-alarm-s-amazon-3274202.jpg?tf=1200x' alt='Amazon está liquidando su alarma doméstica: por casi 100 euros menos te dará unas vacaciones en paz' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-movil-android-actualizado-ultima-version-1349172'>Cómo saber en segundos si tu móvil Android está actualizado con la última versión del sistema</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-movil-android-actualizado-ultima-version-1349172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-saber-segundos-movil-android-actualizado-ultima-version-sistema-3247767.jpg?tf=1200x' alt='Cómo saber en segundos si tu móvil Android está actualizado con la última versión del sistema' />
+    <h4><a href='https://computerhoy.com/tecnologia/garantia-z-amazon-1393932'>¿Qué es la garantía de la A a la Z de Amazon?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garantia-z-amazon-1393932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-3650323.jpg?tf=1200x' alt='¿Qué es la garantía de la A a la Z de Amazon?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-dia-magico-steve-jobs-mejoraba-vida-laboral-apple-1395666'>Cómo el "día mágico" de Steve Jobs mejoraba la vida laboral en Apple</a></h4>
-    <a href='https://computerhoy.com/apple/como-dia-magico-steve-jobs-mejoraba-vida-laboral-apple-1395666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/obsesion-steve-jobs-skeuomorfismo-ios-fue-diseno-odiado-3301002.jpg?tf=1200x' alt='Cómo el "día mágico" de Steve Jobs mejoraba la vida laboral en Apple' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafadores-usan-datos-paquetes-tiras-basura-timarte-1395904'>Los estafadores usan los datos de los paquetes que tiras a la basura para timarte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafadores-usan-datos-paquetes-tiras-basura-timarte-1395904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafadores-usan-datos-paquetes-tiras-basura-timarte-3740333.jpg?tf=1200x' alt='Los estafadores usan los datos de los paquetes que tiras a la basura para timarte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/nuevo-chip-inteligencia-artificial-revolucionara-chatgpt-1395870'>El nuevo chip de inteligencia artificial que revolucionará ChatGPT</a></h4>
-    <a href='https://computerhoy.com/nuevo-chip-inteligencia-artificial-revolucionara-chatgpt-1395870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chip-ia-3739681.jpg?tf=1200x' alt='El nuevo chip de inteligencia artificial que revolucionará ChatGPT' />
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-raspberry-pi-mini-pc-n100-potente-puede-windows-11-1395542'>Olvida la Raspberry Pi: este Mini PC con N100 es más potente y puede con Windows 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-raspberry-pi-mini-pc-n100-potente-puede-windows-11-1395542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/beelink-mini-s12-pro-3721902.jpg?tf=1200x' alt='Olvida la Raspberry Pi: este Mini PC con N100 es más potente y puede con Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/bloquear-alguien-facebook-x-whatsapp-mejora-salud-mental-dicen-expertos-1395621'>¿Bloquear a alguien en Facebook, X o WhatsApp mejora la salud mental? Esto es lo que dicen los expertos</a></h4>
-    <a href='https://computerhoy.com/redes/bloquear-alguien-facebook-x-whatsapp-mejora-salud-mental-dicen-expertos-1395621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bloquear-alguien-facebook-x-whatsapp-mejora-salud-mental-dicen-expertos-3731919.jpg?tf=1200x' alt='¿Bloquear a alguien en Facebook, X o WhatsApp mejora la salud mental? Esto es lo que dicen los expertos' />
+    <h4><a href='https://computerhoy.com/tecnologia/disco-duro-20tb-barbaridad-espacio-fin-precio-locos-amazon-1395648'>Este disco duro de 20TB es una barbaridad: espacio sin fin a precio de locos en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/disco-duro-20tb-barbaridad-espacio-fin-precio-locos-amazon-1395648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/wd-elements-prime-day-3732073.jpg?tf=1200x' alt='Este disco duro de 20TB es una barbaridad: espacio sin fin a precio de locos en Amazon' />
     </a>
 </div>
 
