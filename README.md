@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ofertas-xiaomi-amazon-prime-day-1395503'>Xiaomi da la campanada en el Prime Day y rebaja algunos de sus dispositivos más vendidos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ofertas-xiaomi-amazon-prime-day-1395503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-store-tienda-3127310.jpg?tf=1200x' alt='Xiaomi da la campanada en el Prime Day y rebaja algunos de sus dispositivos más vendidos' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-devora-memoria-movil-solamente-tienes-activar-ajuste-1395864'>¿WhatsApp devora la memoria de tu móvil? Solamente tienes que activar este ajuste</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-devora-memoria-movil-solamente-tienes-activar-ajuste-1395864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-almacenamiento-3739667.jpg?tf=1200x' alt='¿WhatsApp devora la memoria de tu móvil? Solamente tienes que activar este ajuste' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/descubren-menu-oculto-fire-tv-stick-activa-nuevas-funciones-1348244'>Este menú oculto en los Amazon Fire TV Stick permite activar nuevas funciones</a></h4>
-    <a href='https://computerhoy.com/tutoriales/descubren-menu-oculto-fire-tv-stick-activa-nuevas-funciones-1348244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubren-menu-oculto-amazon-fire-tv-stick-permite-activar-nuevas-funciones-3246054.jpg?tf=1200x' alt='Este menú oculto en los Amazon Fire TV Stick permite activar nuevas funciones' />
+    <h4><a href='https://computerhoy.com/redes/elon-musk-afirma-intento-asesinato-trump-inspira-construir-traje-volador-armadura-1395661'>Elon Musk afirma que el intento de asesinato de Trump lo inspira a construir un traje volador con armadura</a></h4>
+    <a href='https://computerhoy.com/redes/elon-musk-afirma-intento-asesinato-trump-inspira-construir-traje-volador-armadura-1395661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/elon-musk-traje-volador-3732696.jpg?tf=1200x' alt='Elon Musk afirma que el intento de asesinato de Trump lo inspira a construir un traje volador con armadura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/outlet-relojes-inteligentes-prime-day-varios-apple-watch-samsung-galaxy-watch-mucho-1395490'>Outlet de relojes inteligentes en el Prime Day: varios Apple Watch, Samsung Galaxy Watch y mucho más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/outlet-relojes-inteligentes-prime-day-varios-apple-watch-samsung-galaxy-watch-mucho-1395490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110568.jpg?tf=1200x' alt='Outlet de relojes inteligentes en el Prime Day: varios Apple Watch, Samsung Galaxy Watch y mucho más' />
+    <h4><a href='https://computerhoy.com/tecnologia/ni-china-ni-japon-futuro-baterias-energia-enfoca-argentina-1395680'>Ni en China ni en Japón: el futuro de las baterías y la energía se enfoca en Argentina</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ni-china-ni-japon-futuro-baterias-energia-enfoca-argentina-1395680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/extraccion-litio-estados-unidos-3270565.jpg?tf=1200x' alt='Ni en China ni en Japón: el futuro de las baterías y la energía se enfoca en Argentina' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/apple-ha-alertado-nuevo-iphone-casi-100-paises-pueden-sufrir-ataque-software-espia-1395126'>Apple ha alertado (de nuevo) que los iPhone de casi 100 países pueden sufrir un ataque con software espía</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/apple-ha-alertado-nuevo-iphone-casi-100-paises-pueden-sufrir-ataque-software-espia-1395126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-ha-alertado-nuevo-iphone-casi-100-paises-potencial-ataque-software-espia-3704310.jpg?tf=1200x' alt='Apple ha alertado (de nuevo) que los iPhone de casi 100 países pueden sufrir un ataque con software espía' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-error-macbook-air-m2-precio-outlet-amazon-primera-vez-1395873'>No es un error: el MacBook Air M2 está a precio de outlet en Amazon por primera vez</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-error-macbook-air-m2-precio-outlet-amazon-primera-vez-1395873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/galeria-review-macbook-air-m2-2779311.jpg?tf=1200x' alt='No es un error: el MacBook Air M2 está a precio de outlet en Amazon por primera vez' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-124-ya-aqui-descubre-cambios-como-instalarlo-1395842'>Android Auto 12.4 ya está aquí: descubre los cambios y cómo instalarlo</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-124-ya-aqui-descubre-cambios-como-instalarlo-1395842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-124-ya-aqui-descubre-cambios-como-instalarlo-3739135.jpg?tf=1200x' alt='Android Auto 12.4 ya está aquí: descubre los cambios y cómo instalarlo' />
+    <h4><a href='https://computerhoy.com/apps/bizum-peligra-alemania-activa-app-pagos-wero-1395662'>Bizum peligra: Alemania activa su app de pagos Wero</a></h4>
+    <a href='https://computerhoy.com/apps/bizum-peligra-alemania-activa-app-pagos-wero-1395662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/wero-app-pagos-3732693.jpg?tf=1200x' alt='Bizum peligra: Alemania activa su app de pagos Wero' />
     </a>
 </div>
 
