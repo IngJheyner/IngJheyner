@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/mejores-chollos-baratos-20eu-menos-aprovechar-amazon-prime-day-1395579'>Los mejores chollos baratos de 20€ o menos para aprovechar en el Amazon Prime Day</a></h4>
+    <a href='https://computerhoy.com/amazon/mejores-chollos-baratos-20eu-menos-aprovechar-amazon-prime-day-1395579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ofertas-20-euros-3726890.jpg?tf=1200x' alt='Los mejores chollos baratos de 20€ o menos para aprovechar en el Amazon Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mejores-consejos-poder-ganar-dinero-tiktok-1388592'>Los mejores consejos para poder ganar dinero en TikTok</a></h4>
+    <a href='https://computerhoy.com/internet/mejores-consejos-poder-ganar-dinero-tiktok-1388592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mejores-consejos-poder-ganar-dinero-tiktok-3398599.jpg?tf=1200x' alt='Los mejores consejos para poder ganar dinero en TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/liquidacion-relojes-deportivos-prime-day-garmin-apunta-suunto-polar-1395497'>Liquidación en relojes deportivos por el Prime Day: Garmin se apunta con Suunto, Polar y más</a></h4>
     <a href='https://computerhoy.com/tecnologia/liquidacion-relojes-deportivos-prime-day-garmin-apunta-suunto-polar-1395497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-fenix-7s-3189996.jpg?tf=1200x' alt='Liquidación en relojes deportivos por el Prime Day: Garmin se apunta con Suunto, Polar y más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-mas-top-liquidacion-amazon-prime-day-1316776'>Amazon liquida el Garmin más top en el Prime Day: el Fenix 7 vuelve a ser un chollo</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-fenix-mas-top-liquidacion-amazon-prime-day-1316776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7x-solar-2591043.jpg?tf=1200x' alt='Amazon liquida el Garmin más top en el Prime Day: el Fenix 7 vuelve a ser un chollo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-ofertas-amazon-prime-day-2024-1395319'>No pierdas tiempo: estas son las 10 ofertas más destacadas del Amazon Prime Day 2024</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-ofertas-amazon-prime-day-2024-1395319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/top-ofertas-prime-day-2024-3710937.jpg?tf=1200x' alt='No pierdas tiempo: estas son las 10 ofertas más destacadas del Amazon Prime Day 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606'>Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rejuvenecen-40-anos-jackie-chan-usando-ia-nueva-pelicula-pero-no-ha-ido-muy-bien-3729097.jpg?tf=1200x' alt='Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien' />
     </a>
 </div>
 
