@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trucos-infalibles-chatgpt-conseguir-respuestas-inteligentes-fiables-1395346'>Trucos infalibles de ChatGPT para conseguir respuestas más inteligentes y fiables</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trucos-infalibles-chatgpt-conseguir-respuestas-inteligentes-fiables-1395346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robot-humano-3711570.jpg?tf=1200x' alt='Trucos infalibles de ChatGPT para conseguir respuestas más inteligentes y fiables' />
+    <h4><a href='https://computerhoy.com/apps/celebra-dia-mundial-emoji-cuales-son-utilizados-usuarios-espana-1396099'>Celebra el Día Mundial del Emoji: cuáles son los más utilizados por los usuarios en España</a></h4>
+    <a href='https://computerhoy.com/apps/celebra-dia-mundial-emoji-cuales-son-utilizados-usuarios-espana-1396099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/celebra-dia-mundial-emoji-cuales-son-usados-usuarios-espana-3747452.jpg?tf=1200x' alt='Celebra el Día Mundial del Emoji: cuáles son los más utilizados por los usuarios en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/adios-humanos-fabrica-xiaomi-trabajadores-robots-abierta-24-7-1396060'>Adiós a los humanos: así es la fábrica de Xiaomi con trabajadores robots abierta 24/7</a></h4>
-    <a href='https://computerhoy.com/moviles/adios-humanos-fabrica-xiaomi-trabajadores-robots-abierta-24-7-1396060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fabrica-xiaomi-3746668.jpg?tf=1200x' alt='Adiós a los humanos: así es la fábrica de Xiaomi con trabajadores robots abierta 24/7' />
+    <h4><a href='https://computerhoy.com/apps/puedes-activar-modo-minion-whatsapp-1395913'>Así puedes activar el "modo Minion" en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/puedes-activar-modo-minion-whatsapp-1395913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/modo-minion-whatsapp-3740485.jpg?tf=1200x' alt='Así puedes activar el "modo Minion" en WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/aplicacion-preferida-acosadores-porque-imposible-bloquear-1396075'>Esta es la aplicación preferida de los acosadores porque es imposible de bloquear</a></h4>
-    <a href='https://computerhoy.com/apps/aplicacion-preferida-acosadores-porque-imposible-bloquear-1396075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aplicacion-preferida-acosadores-porque-imposible-bloquear-3746835.jpg?tf=1200x' alt='Esta es la aplicación preferida de los acosadores porque es imposible de bloquear' />
+    <h4><a href='https://computerhoy.com/amazon/sorprendente-aparato-hace-porterillo-inteligente-amazon-casi-mitad-precio-1396018'>Este sorprendente aparato hace tu porterillo inteligente: es de Amazon y está casi a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/amazon/sorprendente-aparato-hace-porterillo-inteligente-amazon-casi-mitad-precio-1396018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ring-intercom-3014446.jpg?tf=1200x' alt='Este sorprendente aparato hace tu porterillo inteligente: es de Amazon y está casi a mitad de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/canon-saca-pecho-frente-sony-nuevas-eos-r1-eos-r5-mark-ii-camaras-top-he-probado-cual-mejor-ti-1395251'>Canon saca pecho frente a Sony con las nuevas EOS R1 y EOS R5 Mark II, las cámaras más top que he probado: ¿cuál es mejor para ti?</a></h4>
-    <a href='https://computerhoy.com/analisis/canon-saca-pecho-frente-sony-nuevas-eos-r1-eos-r5-mark-ii-camaras-top-he-probado-cual-mejor-ti-1395251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/canon-eos-r1-canon-eos-r5-mark-ii-3713775.jpg?tf=1200x' alt='Canon saca pecho frente a Sony con las nuevas EOS R1 y EOS R5 Mark II, las cámaras más top que he probado: ¿cuál es mejor para ti?' />
+    <h4><a href='https://computerhoy.com/apps/eres-madrileno-app-estabas-esperando-1396084'>Si eres madrileño, esta es la app que estabas esperando</a></h4>
+    <a href='https://computerhoy.com/apps/eres-madrileno-app-estabas-esperando-1396084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuenta-digital-app-madrid-3747296.jpg?tf=1200x' alt='Si eres madrileño, esta es la app que estabas esperando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-devora-memoria-movil-solamente-tienes-activar-ajuste-1395864'>¿WhatsApp devora la memoria de tu móvil? Solamente tienes que activar este ajuste</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-devora-memoria-movil-solamente-tienes-activar-ajuste-1395864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-almacenamiento-3739667.jpg?tf=1200x' alt='¿WhatsApp devora la memoria de tu móvil? Solamente tienes que activar este ajuste' />
+    <h4><a href='https://computerhoy.com/moviles/pasa-mantienes-pulsado-segundos-boton-linterna-movil-1395349'>¿Qué pasa si mantienes pulsado unos segundos el botón de linterna de tu móvil?</a></h4>
+    <a href='https://computerhoy.com/moviles/pasa-mantienes-pulsado-segundos-boton-linterna-movil-1395349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/linterna-movil-3711730.jpg?tf=1200x' alt='¿Qué pasa si mantienes pulsado unos segundos el botón de linterna de tu móvil?' />
     </a>
 </div>
 
