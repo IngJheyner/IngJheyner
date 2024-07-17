@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-1395295'>Centralia, el pueblo fantasma que lleva 60 años ardiendo, y no parará en 200 años</a></h4>
+    <a href='https://computerhoy.com/life/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-1395295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-no-parara-200-anos-3709234.jpg?tf=1200x' alt='Centralia, el pueblo fantasma que lleva 60 años ardiendo, y no parará en 200 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-miran-amazon-debes-protegerte-no-caer-estafas-prime-day-1395198'>Los ciberdelincuentes miran a Amazon: así debes protegerte para no caer en las estafas del Prime Day</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-miran-amazon-debes-protegerte-no-caer-estafas-prime-day-1395198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-day-reloj-arena-3081928.jpg?tf=1200x' alt='Los ciberdelincuentes miran a Amazon: así debes protegerte para no caer en las estafas del Prime Day' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/video-muestra-momento-paises-pasaron-television-blanco-negro-color-1395287'>Un vídeo muestra el momento en el que los países pasaron de la televisión en blanco y negro, al color</a></h4>
     <a href='https://computerhoy.com/tecnologia/video-muestra-momento-paises-pasaron-television-blanco-negro-color-1395287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/video-muestra-momento-exacto-paises-pasaron-television-blanco-negro-color-3708245.jpg?tf=1200x' alt='Un vídeo muestra el momento en el que los países pasaron de la televisión en blanco y negro, al color' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606'>Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rejuvenecen-40-anos-jackie-chan-usando-ia-nueva-pelicula-pero-no-ha-ido-muy-bien-3729097.jpg?tf=1200x' alt='Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien' />
     </a>
 </div>
 
