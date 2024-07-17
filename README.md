@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312'>Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puncher-p30-destruye-discos-duros-ssd-aplicando-12-toneladas-presion-3710638.jpg?tf=1200x' alt='Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-crear-lista-chats-grupos-favoritos-1396053'>WhatsApp te permitirá crear una lista con los chats y grupos favoritos</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-crear-lista-chats-grupos-favoritos-1396053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-te-permitira-crear-lista-chats-grupos-favoritos-3746371.jpg?tf=1200x' alt='WhatsApp te permitirá crear una lista con los chats y grupos favoritos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-carga-solar-enamora-runners-rompe-amazon-prime-day-precio-acaba-tocar-fondo-1395716'>El Garmin con carga solar que enamora a los runners rompe Amazon en el Prime Day: su precio acaba de tocar fondo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-carga-solar-enamora-runners-rompe-amazon-prime-day-precio-acaba-tocar-fondo-1395716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/garmin-instinct-solar-3733334.jpg?tf=1200x' alt='El Garmin con carga solar que enamora a los runners rompe Amazon en el Prime Day: su precio acaba de tocar fondo' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-luna-mando-oferta-prime-day-alternativa-game-pass-1339708'>Amazon, a la guerra con Game Pass: deja por los suelos el precio de sus mandos Luna para jugar en streaming</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-luna-mando-oferta-prime-day-alternativa-game-pass-1339708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-luna-3230058.jpg?tf=1200x' alt='Amazon, a la guerra con Game Pass: deja por los suelos el precio de sus mandos Luna para jugar en streaming' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/no-todos-mensajes-policia-son-phishing-no-estafa-1395918'>No todos los mensajes de la Policía son phishing: este no es una estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/no-todos-mensajes-policia-son-phishing-no-estafa-1395918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-todos-mensajes-policia-son-phising-no-estafa-3740633.jpg?tf=1200x' alt='No todos los mensajes de la Policía son phishing: este no es una estafa' />
+    <h4><a href='https://computerhoy.com/tecnologia/poco-x6-pro-oferta-prime-day-top-ventas-amazon-1395658'>Este es el móvil barato que debes comprar en el Prime Day: menos de 300 euros, pantallón AMOLED y carga ultrarrápida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/poco-x6-pro-oferta-prime-day-top-ventas-amazon-1395658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-pro-3260018.jpg?tf=1200x' alt='Este es el móvil barato que debes comprar en el Prime Day: menos de 300 euros, pantallón AMOLED y carga ultrarrápida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-windows-11-sea-privado-seguro-1395097'>Cómo configurar Windows 11 para que sea más privado y seguro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-windows-11-sea-privado-seguro-1395097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-configurar-windows-11-sea-privado-seguro-3703265.jpg?tf=1200x' alt='Cómo configurar Windows 11 para que sea más privado y seguro' />
+    <h4><a href='https://computerhoy.com/apple/esperanza-ultimo-pierde-rescate-apple-watch-fondo-mar-18-meses-demuestra-1395636'>La esperanza es lo último que se pierde y el rescate de este Apple Watch del fondo de mar tras 18 meses lo demuestra</a></h4>
+    <a href='https://computerhoy.com/apple/esperanza-ultimo-pierde-rescate-apple-watch-fondo-mar-18-meses-demuestra-1395636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-watch-oceano-3732225.jpg?tf=1200x' alt='La esperanza es lo último que se pierde y el rescate de este Apple Watch del fondo de mar tras 18 meses lo demuestra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-identifica-trabajos-nunca-seran-reemplazados-inteligencia-artificial-1395654'>Elon Musk identifica los trabajos que nunca serán reemplazados por la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-identifica-trabajos-nunca-seran-reemplazados-inteligencia-artificial-1395654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-otros-expertos-preocupados-descontrolado-desarrollo-ia-2995876.jpg?tf=1200x' alt='Elon Musk identifica los trabajos que nunca serán reemplazados por la inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/tecnologia/meta-ai-whatsapp-sirve-como-utilizarlo-1395813'>Meta AI de WhatsApp: qué es, para qué sirve y cómo utilizarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-ai-whatsapp-sirve-como-utilizarlo-1395813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/meta-ai-whatsapp-sirve-como-utilizarlo-3737806.jpg?tf=1200x' alt='Meta AI de WhatsApp: qué es, para qué sirve y cómo utilizarlo' />
     </a>
 </div>
 
