@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/8-consejos-prolongar-vida-util-disco-duro-1396008'>8 consejos para prolongar la vida útil de tu disco duro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/8-consejos-prolongar-vida-util-disco-duro-1396008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/8-consejos-prolongar-vida-util-disco-duro-3744481.jpg?tf=1200x' alt='8 consejos para prolongar la vida útil de tu disco duro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-1396001'>¿Cuánto calor soporta tu Raspberry Pi? Puede que necesite un ventilador</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-1396001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-3744057.jpg?tf=1200x' alt='¿Cuánto calor soporta tu Raspberry Pi? Puede que necesite un ventilador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/wd-ssd-m2-8-tb-carateristicas-precio-1396006'>Ya están aquí los SSD M.2 de 8 TB, pero cuestan más que un ordenador</a></h4>
     <a href='https://computerhoy.com/pc/wd-ssd-m2-8-tb-carateristicas-precio-1396006' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ya-estan-aqui-ssd-m2-8-tb-pero-valen-ordenador-3743206.jpg?tf=1200x' alt='Ya están aquí los SSD M.2 de 8 TB, pero cuestan más que un ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605'>Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA</a></h4>
-    <a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-microsoft-ya-consumen-energia-100-paises-debido-ia-3728814.jpg?tf=1200x' alt='Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA' />
     </a>
 </div>
 
