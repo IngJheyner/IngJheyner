@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312'>Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puncher-p30-destruye-discos-duros-ssd-dvd-1395312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puncher-p30-destruye-discos-duros-ssd-aplicando-12-toneladas-presion-3710638.jpg?tf=1200x' alt='Puncher P30 destruye discos duros y SSD aplicando 12 toneladas de presión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-carga-solar-enamora-runners-rompe-amazon-prime-day-precio-acaba-tocar-fondo-1395716'>El Garmin con carga solar que enamora a los runners rompe Amazon en el Prime Day: su precio acaba de tocar fondo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-carga-solar-enamora-runners-rompe-amazon-prime-day-precio-acaba-tocar-fondo-1395716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/garmin-instinct-solar-3733334.jpg?tf=1200x' alt='El Garmin con carga solar que enamora a los runners rompe Amazon en el Prime Day: su precio acaba de tocar fondo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/no-todos-mensajes-policia-son-phishing-no-estafa-1395918'>No todos los mensajes de la Policía son phishing: este no es una estafa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/no-todos-mensajes-policia-son-phishing-no-estafa-1395918' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-todos-mensajes-policia-son-phising-no-estafa-3740633.jpg?tf=1200x' alt='No todos los mensajes de la Policía son phishing: este no es una estafa' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-oferta-pc-i7-amazon-1328748'>No te engañan los ojos: este PC arrasa en Amazon con i7 y 16GB de RAM por 135 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-error-precio-oferta-pc-i7-amazon-1328748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hp-elite-8300-3210846.jpg?tf=1200x' alt='No te engañan los ojos: este PC arrasa en Amazon con i7 y 16GB de RAM por 135 euros' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-windows-11-sea-privado-seguro-1395097'>Cómo configurar Windows 11 para que sea más privado y seguro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-windows-11-sea-privado-seguro-1395097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-configurar-windows-11-sea-privado-seguro-3703265.jpg?tf=1200x' alt='Cómo configurar Windows 11 para que sea más privado y seguro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/no-te-quedes-atras-3-motivos-compraria-movil-ia-ano-1394591'>No te quedes atrás: 3 motivos por los que compraría un móvil con IA este año</a></h4>
-    <a href='https://computerhoy.com/moviles/no-te-quedes-atras-3-motivos-compraria-movil-ia-ano-1394591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-zenfone-11-ultra-3298601.jpg?tf=1200x' alt='No te quedes atrás: 3 motivos por los que compraría un móvil con IA este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/miniproca-mini-pc-pantalla-4k-integrada-1396021'>Esto es lo mejor que le ha pasado a los Mini PC en años: una pantalla integrada</a></h4>
-    <a href='https://computerhoy.com/pc/miniproca-mini-pc-pantalla-4k-integrada-1396021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1721190791810-3745630.jpg?tf=1200x' alt='Esto es lo mejor que le ha pasado a los Mini PC en años: una pantalla integrada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ipad-air-m1-hunde-precio-casi-todas-versiones-m1-500-euros-descuento-1395574'>El iPad Air con M1 hunde su precio en casi todas sus versiones: con M1 y más de 500 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ipad-air-m1-hunde-precio-casi-todas-versiones-m1-500-euros-descuento-1395574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipad-air-m2-13-pulgadas-3502062.jpg?tf=1200x' alt='El iPad Air con M1 hunde su precio en casi todas sus versiones: con M1 y más de 500 euros de descuento' />
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-identifica-trabajos-nunca-seran-reemplazados-inteligencia-artificial-1395654'>Elon Musk identifica los trabajos que nunca serán reemplazados por la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-identifica-trabajos-nunca-seran-reemplazados-inteligencia-artificial-1395654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/elon-musk-otros-expertos-preocupados-descontrolado-desarrollo-ia-2995876.jpg?tf=1200x' alt='Elon Musk identifica los trabajos que nunca serán reemplazados por la inteligencia artificial' />
     </a>
 </div>
 
