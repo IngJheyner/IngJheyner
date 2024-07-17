@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/no-sabemos-como-nintendo-switch-2-ni-cuando-saldra-venta-pero-ya-ha-hecho-historia-1395401'>No sabemos cómo es Nintendo Switch 2, ni cuando saldrá a la venta, pero ya ha hecho historia</a></h4>
-    <a href='https://computerhoy.com/gaming/no-sabemos-como-nintendo-switch-2-ni-cuando-saldra-venta-pero-ya-ha-hecho-historia-1395401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nintendo-switch-2-3712859.jpg?tf=1200x' alt='No sabemos cómo es Nintendo Switch 2, ni cuando saldrá a la venta, pero ya ha hecho historia' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-anima-prime-day-ultima-hora-rebaja-venu-3-cebo-usuarios-apple-watch-1396155'>Garmin anima el Prime Day a última hora: rebaja el Venu 3, su cebo para los usuarios del Apple Watch</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-anima-prime-day-ultima-hora-rebaja-venu-3-cebo-usuarios-apple-watch-1396155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-venu-3-3278319.jpg?tf=1200x' alt='Garmin anima el Prime Day a última hora: rebaja el Venu 3, su cebo para los usuarios del Apple Watch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/japon-arreglan-cosas-grande-robot-12-metros-altura-encarga-reparar-vias-tren-1396102'>En Japón arreglan las cosas a lo grande: este robot de 12 metros de altura es el que se encarga de reparar las vías del tren</a></h4>
-    <a href='https://computerhoy.com/tecnologia/japon-arreglan-cosas-grande-robot-12-metros-altura-encarga-reparar-vias-tren-1396102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robot-japon-3747606.jpg?tf=1200x' alt='En Japón arreglan las cosas a lo grande: este robot de 12 metros de altura es el que se encarga de reparar las vías del tren' />
+    <h4><a href='https://computerhoy.com/tecnologia/he-probado-durante-dias-spotify-ai-dj-siento-como-amigo-me-estuviese-recomendando-musica-1396140'>He probado durante unos días Spotify AI DJ y siento como si un amigo me estuviese recomendando música</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-probado-durante-dias-spotify-ai-dj-siento-como-amigo-me-estuviese-recomendando-musica-1396140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/spotify-ia-dj-3748241.jpg?tf=1200x' alt='He probado durante unos días Spotify AI DJ y siento como si un amigo me estuviese recomendando música' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/realmente-necesitas-red-wifi-malla-hogar-debes-saber-antes-tirar-dinero-1395468'>¿Realmente necesitas una red WiFi de malla en tu hogar? Lo que debes saber antes de tirar tu dinero</a></h4>
-    <a href='https://computerhoy.com/redes/realmente-necesitas-red-wifi-malla-hogar-debes-saber-antes-tirar-dinero-1395468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realmente-necesitas-red-wifi-malla-hogar-debes-saber-antes-tirar-dinero-3717352.jpg?tf=1200x' alt='¿Realmente necesitas una red WiFi de malla en tu hogar? Lo que debes saber antes de tirar tu dinero' />
+    <h4><a href='https://computerhoy.com/tecnologia/significan-luces-verdes-rojas-raspberry-pi-1395089'>¿Qué significan las luces verdes y rojas en una Raspberry Pi?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/significan-luces-verdes-rojas-raspberry-pi-1395089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/significan-luces-verdes-rojas-raspberry-pi-3701993.jpg?tf=1200x' alt='¿Qué significan las luces verdes y rojas en una Raspberry Pi?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/easter-eggs-google-no-conoces-peliculas-series-favoritas-1396010'>Los Easter eggs de Google que no conoces sobre tus películas y series favoritas</a></h4>
-    <a href='https://computerhoy.com/google/easter-eggs-google-no-conoces-peliculas-series-favoritas-1396010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/easter-eggs-google-no-conoces-peliculas-series-favoritas-3745486.jpg?tf=1200x' alt='Los Easter eggs de Google que no conoces sobre tus películas y series favoritas' />
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-saber-calidad-wifi-amazon-fire-tv-1350464'>Cómo acceder al test de velocidad oculto de Amazon Fire TV para comprobar la calidad de tu WiFi</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-saber-calidad-wifi-amazon-fire-tv-1350464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-acceder-test-velocidad-oculto-amazon-fire-tv-comprobar-calidad-internet-3249964.jpg?tf=1200x' alt='Cómo acceder al test de velocidad oculto de Amazon Fire TV para comprobar la calidad de tu WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garantia-z-amazon-1393932'>¿Qué es la garantía de la A a la Z de Amazon?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garantia-z-amazon-1393932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-3650323.jpg?tf=1200x' alt='¿Qué es la garantía de la A a la Z de Amazon?' />
+    <h4><a href='https://computerhoy.com/life/lidl-tiene-piscina-facil-montar-barata-toda-familia-triunfar-estas-vacaciones-1395721'>Lidl tiene la piscina fácil de montar, barata y en la que cabe toda la familia con la que triunfar estas vacaciones</a></h4>
+    <a href='https://computerhoy.com/life/lidl-tiene-piscina-facil-montar-barata-toda-familia-triunfar-estas-vacaciones-1395721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/lidl-palma-mallorca-2994966.jpg?tf=1200x' alt='Lidl tiene la piscina fácil de montar, barata y en la que cabe toda la familia con la que triunfar estas vacaciones' />
     </a>
 </div>
 
