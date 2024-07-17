@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-vende-super-pendrive-clave-420-mb-segundo-velocidad-1395979'>Amazon vende el super pendrive: con clave y 420 MB por segundo de velocidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-vende-super-pendrive-clave-420-mb-segundo-velocidad-1395979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sandisk-extreme-pro-3742161.jpg?tf=1200x' alt='Amazon vende el super pendrive: con clave y 420 MB por segundo de velocidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafadores-usan-datos-paquetes-tiras-basura-timarte-1395904'>Los estafadores usan los datos de los paquetes que tiras a la basura para timarte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafadores-usan-datos-paquetes-tiras-basura-timarte-1395904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafadores-usan-datos-paquetes-tiras-basura-timarte-3740333.jpg?tf=1200x' alt='Los estafadores usan los datos de los paquetes que tiras a la basura para timarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aplicacion-romantica-her-hace-furor-japon-1396114'>Así es la aplicación romántica a lo “Her” que hace furor en Japón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aplicacion-romantica-her-hace-furor-japon-1396114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aplicacion-romantica-her-hace-furor-japon-3747752.jpg?tf=1200x' alt='Así es la aplicación romántica a lo “Her” que hace furor en Japón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/instagram-desafia-capcut-ya-permite-editar-reels-multiples-pistas-espana-1396112'>Instagram desafía a CapCut y ya permite editar Reels con múltiples pistas en España</a></h4>
+    <a href='https://computerhoy.com/apps/instagram-desafia-capcut-ya-permite-editar-reels-multiples-pistas-espana-1396112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/instagram-desafia-capcut-ya-permite-editar-reels-multiples-pistas-espana-3747742.jpg?tf=1200x' alt='Instagram desafía a CapCut y ya permite editar Reels con múltiples pistas en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/encuesta-revela-mitad-trabajadores-cree-ia-realidad-virtual-crearan-puestos-trabajo-1396108'>Una encuesta lo revela: la mitad de los trabajadores cree que la IA y la realidad virtual crearán más puestos de trabajo</a></h4>
     <a href='https://computerhoy.com/tecnologia/encuesta-revela-mitad-trabajadores-cree-ia-realidad-virtual-crearan-puestos-trabajo-1396108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/encuesta-revela-mitad-trabajadores-cree-ia-realidad-virtual-crearan-puestos-trabajo-3747600.jpg?tf=1200x' alt='Una encuesta lo revela: la mitad de los trabajadores cree que la IA y la realidad virtual crearán más puestos de trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intel-core-i7-windows-11-precio-dificil-creer-potente-portatil-oferta-top-prime-day-1396054'>Intel Core i7 y Windows 11 a precio difícil de creer: este potente portátil es una oferta top del Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intel-core-i7-windows-11-precio-dificil-creer-potente-portatil-oferta-top-prime-day-1396054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/acer-aspire-3-3220718.jpg?tf=1200x' alt='Intel Core i7 y Windows 11 a precio difícil de creer: este potente portátil es una oferta top del Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-firestick-xiaomi-tiene-alternativa-2k-android-mucho-barata-1396088'>Olvida los Firestick: Xiaomi tiene una alternativa 2K, con Android y mucho más barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-firestick-xiaomi-tiene-alternativa-2k-android-mucho-barata-1396088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/xiaomi-mi-tv-stick-3747135.jpg?tf=1200x' alt='Olvida los Firestick: Xiaomi tiene una alternativa 2K, con Android y mucho más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intenta-actualizar-raspberry-pi-16-gb-ram-aviso-no-hagas-1395342'>Intenta actualizar su Raspberry Pi con 16 GB de RAM: aviso, no lo hagas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intenta-actualizar-raspberry-pi-16-gb-ram-aviso-no-hagas-1395342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/raspberry-pi-modificada-3712552.jpg?tf=1200x' alt='Intenta actualizar su Raspberry Pi con 16 GB de RAM: aviso, no lo hagas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/celebra-dia-mundial-emoji-cuales-son-utilizados-usuarios-espana-1396099'>Celebra el Día Mundial del Emoji: cuáles son los más utilizados por los usuarios en España</a></h4>
-    <a href='https://computerhoy.com/apps/celebra-dia-mundial-emoji-cuales-son-utilizados-usuarios-espana-1396099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/celebra-dia-mundial-emoji-cuales-son-usados-usuarios-espana-3747452.jpg?tf=1200x' alt='Celebra el Día Mundial del Emoji: cuáles son los más utilizados por los usuarios en España' />
     </a>
 </div>
 
