@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-estrena-18-julio-canal-cine-exclusivo-1395889'>Movistar Plus+ estrena el 18 de julio un canal de cine exclusivo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/movistar-plus-estrena-18-julio-canal-cine-exclusivo-1395889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nuevo-canal-movistar-3740181.jpg?tf=1200x' alt='Movistar Plus+ estrena el 18 de julio un canal de cine exclusivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-1395134'>¿Por qué recuerdas unas cosas sí y otras no? Así lo explica un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/ciencia/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-1395134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-3704314.jpg?tf=1200x' alt='¿Por qué recuerdas unas cosas sí y otras no? Así lo explica un nuevo estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/5-gadgets-enganar-ladrones-verano-instalar-alarma-1395740'>5 gadgets para engañar a los ladrones este verano sin instalar una alarma</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/5-gadgets-enganar-ladrones-verano-instalar-alarma-1395740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gadgets-enganar-ladrones-3734598.jpg?tf=1200x' alt='5 gadgets para engañar a los ladrones este verano sin instalar una alarma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-7x-pro-solar-oferta-amazon-prime-day-1316776'>El Garmin con carga solar y batería infinita vuelve al top ventas del Prime Day: tiene 220 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-7x-pro-solar-oferta-amazon-prime-day-1316776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7x-solar-2591043.jpg?tf=1200x' alt='El Garmin con carga solar y batería infinita vuelve al top ventas del Prime Day: tiene 220 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-1395295'>Centralia, el pueblo fantasma que lleva 60 años ardiendo, y no parará en 200 años</a></h4>
     <a href='https://computerhoy.com/life/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-1395295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-no-parara-200-anos-3709234.jpg?tf=1200x' alt='Centralia, el pueblo fantasma que lleva 60 años ardiendo, y no parará en 200 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-miran-amazon-debes-protegerte-no-caer-estafas-prime-day-1395198'>Los ciberdelincuentes miran a Amazon: así debes protegerte para no caer en las estafas del Prime Day</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-miran-amazon-debes-protegerte-no-caer-estafas-prime-day-1395198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-day-reloj-arena-3081928.jpg?tf=1200x' alt='Los ciberdelincuentes miran a Amazon: así debes protegerte para no caer en las estafas del Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/8-consejos-prolongar-vida-util-disco-duro-1396008'>8 consejos para prolongar la vida útil de tu disco duro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/8-consejos-prolongar-vida-util-disco-duro-1396008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/8-consejos-prolongar-vida-util-disco-duro-3744481.jpg?tf=1200x' alt='8 consejos para prolongar la vida útil de tu disco duro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-1396001'>¿Cuánto calor soporta tu Raspberry Pi? Puede que necesite un ventilador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-1396001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-3744057.jpg?tf=1200x' alt='¿Cuánto calor soporta tu Raspberry Pi? Puede que necesite un ventilador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/video-muestra-momento-paises-pasaron-television-blanco-negro-color-1395287'>Un vídeo muestra el momento en el que los países pasaron de la televisión en blanco y negro, al color</a></h4>
-    <a href='https://computerhoy.com/tecnologia/video-muestra-momento-paises-pasaron-television-blanco-negro-color-1395287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/video-muestra-momento-exacto-paises-pasaron-television-blanco-negro-color-3708245.jpg?tf=1200x' alt='Un vídeo muestra el momento en el que los países pasaron de la televisión en blanco y negro, al color' />
     </a>
 </div>
 
