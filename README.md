@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-1396001'>¿Cuánto calor soporta tu Raspberry Pi? Puede que necesite un ventilador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-1396001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-3744057.jpg?tf=1200x' alt='¿Cuánto calor soporta tu Raspberry Pi? Puede que necesite un ventilador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/video-muestra-momento-paises-pasaron-television-blanco-negro-color-1395287'>Un vídeo muestra el momento en el que los países pasaron de la televisión en blanco y negro, al color</a></h4>
     <a href='https://computerhoy.com/tecnologia/video-muestra-momento-paises-pasaron-television-blanco-negro-color-1395287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/video-muestra-momento-exacto-paises-pasaron-television-blanco-negro-color-3708245.jpg?tf=1200x' alt='Un vídeo muestra el momento en el que los países pasaron de la televisión en blanco y negro, al color' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605'>Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA</a></h4>
     <a href='https://computerhoy.com/energia/google-microsoft-ya-consumen-electricidad-100-paises-debido-ia-1395605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-microsoft-ya-consumen-energia-100-paises-debido-ia-3728814.jpg?tf=1200x' alt='Google y Microsoft ya consumen más electricidad que 100 países, debido a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-trasladar-certificado-digital-fnmt-dispositivos-1395981'>Cómo trasladar tu certificado digital de la FNMT entre dispositivos</a></h4>
-    <a href='https://computerhoy.com/internet/como-trasladar-certificado-digital-fnmt-dispositivos-1395981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-trasladar-certificado-digital-fnmt-dispositivos-3743202.jpg?tf=1200x' alt='Cómo trasladar tu certificado digital de la FNMT entre dispositivos' />
     </a>
 </div>
 
