@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/disney-hackeada-oleada-revelaciones-series-videojuegos-1395790'>Disney, hackeada: anuncian oleada de revelaciones de series y videojuegos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/disney-hackeada-oleada-revelaciones-series-videojuegos-1395790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/disney-hackeada-anuncian-oleada-revelaciones-series-videojuegos-3735058.jpg?tf=1200x' alt='Disney, hackeada: anuncian oleada de revelaciones de series y videojuegos' />
+    <h4><a href='https://computerhoy.com/amazon/panales-sucios-devueltos-amazon-arruinaron-negocio-familiar-1395992'>Así es como unos pañales usados devueltos a Amazon arruinaron un negocio familiar de un millón de euros</a></h4>
+    <a href='https://computerhoy.com/amazon/panales-sucios-devueltos-amazon-arruinaron-negocio-familiar-1395992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-panales-sucios-devueltos-amazon-arruinaron-negocio-familiar-millon-euros-3742472.jpg?tf=1200x' alt='Así es como unos pañales usados devueltos a Amazon arruinaron un negocio familiar de un millón de euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-1395737'>Adiós al calor con un invento capaz de enfriar una habitación sin instalación ni electricidad</a></h4>
-    <a href='https://computerhoy.com/life/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-1395737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-3733982.jpg?tf=1200x' alt='Adiós al calor con un invento capaz de enfriar una habitación sin instalación ni electricidad' />
+    <h4><a href='https://computerhoy.com/tecnologia/ue-declara-ilegal-verificacion-marca-azul-x-1395452'>La UE declara ilegal y "un engaño", la verificación con la marca azul de X</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ue-declara-ilegal-verificacion-marca-azul-x-1395452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ue-declara-ilegal-engano-tener-pagar-obtener-verificacion-x-3714086.jpg?tf=1200x' alt='La UE declara ilegal y "un engaño", la verificación con la marca azul de X' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/expediente-warren-dice-adios-sera-entrega-final-conjuring-1395405'>Expediente Warren dice adiós: así será la entrega final de The Conjuring</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/expediente-warren-dice-adios-sera-entrega-final-conjuring-1395405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/expediente-warren-obligado-demonio-2355615.jpg?tf=1200x' alt='Expediente Warren dice adiós: así será la entrega final de The Conjuring' />
+    <h4><a href='https://computerhoy.com/pc/boton-turbo-pc-viejos-no-aceleraba-nada-bien-todo-contrario-1395419'>El botón TURBO de los PC viejos no aceleraba nada, más bien todo lo contrario</a></h4>
+    <a href='https://computerhoy.com/pc/boton-turbo-pc-viejos-no-aceleraba-nada-bien-todo-contrario-1395419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-turbo-pc-viejos-no-aceleraba-nada-bien-todo-contrario-3713477.jpg?tf=1200x' alt='El botón TURBO de los PC viejos no aceleraba nada, más bien todo lo contrario' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/9-trucos-increibles-poco-conocidos-google-maps-te-sorprenderan-1395962'>9 trucos increíbles y poco conocidos de Google Maps que te sorprenderán</a></h4>
-    <a href='https://computerhoy.com/google/9-trucos-increibles-poco-conocidos-google-maps-te-sorprenderan-1395962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/9-trucos-increibles-poco-conocidos-google-maps-te-sorprenderan-3742316.jpg?tf=1200x' alt='9 trucos increíbles y poco conocidos de Google Maps que te sorprenderán' />
+    <h4><a href='https://computerhoy.com/apps/alternativas-gratis-existen-apps-favoritas-1396173'>Las alternativas gratis que existen para tus apps favoritas</a></h4>
+    <a href='https://computerhoy.com/apps/alternativas-gratis-existen-apps-favoritas-1396173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/alternativas-gratis-existen-apps-favoritas-3749668.jpg?tf=1200x' alt='Las alternativas gratis que existen para tus apps favoritas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/trucos-saber-whatsapp-te-espiando-microfono-camara-sepas-1394885'>Trucos para saber si WhatsApp te está espiando por el micrófono o la cámara sin que lo sepas</a></h4>
-    <a href='https://computerhoy.com/apps/trucos-saber-whatsapp-te-espiando-microfono-camara-sepas-1394885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trucos-saber-whatsapp-te-espiando-microfono-camara-sepas-3695531.jpg?tf=1200x' alt='Trucos para saber si WhatsApp te está espiando por el micrófono o la cámara sin que lo sepas' />
+    <h4><a href='https://computerhoy.com/ciencia/vida-inteligente-galaxia-probablemente-no-dice-estudio-1394931'>¿Vida inteligente en nuestra galaxia? Probablemente no, dice un estudio</a></h4>
+    <a href='https://computerhoy.com/ciencia/vida-inteligente-galaxia-probablemente-no-dice-estudio-1394931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vida-inteligente-galaxia-probablemente-no-dice-estudio-3697259.jpg?tf=1200x' alt='¿Vida inteligente en nuestra galaxia? Probablemente no, dice un estudio' />
     </a>
 </div>
 
