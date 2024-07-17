@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-trasladar-certificado-digital-fnmt-dispositivos-1395981'>Cómo trasladar tu certificado digital de la FNMT entre dispositivos</a></h4>
+    <a href='https://computerhoy.com/internet/como-trasladar-certificado-digital-fnmt-dispositivos-1395981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-trasladar-certificado-digital-fnmt-dispositivos-3743202.jpg?tf=1200x' alt='Cómo trasladar tu certificado digital de la FNMT entre dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-1395458'>Google Maps: busca y captura en Japón a la persona que construyó una carretera a ningún sitio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-1395458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-3715099.jpg?tf=1200x' alt='Google Maps: busca y captura en Japón a la persona que construyó una carretera a ningún sitio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/strawberry-nuevo-proyecto-openai-promete-ia-razonamiento-avanzado-1395804'>Strawberry: el nuevo proyecto de OpenAI que promete una IA con razonamiento avanzado</a></h4>
     <a href='https://computerhoy.com/tecnologia/strawberry-nuevo-proyecto-openai-promete-ia-razonamiento-avanzado-1395804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3274436.jpg?tf=1200x' alt='Strawberry: el nuevo proyecto de OpenAI que promete una IA con razonamiento avanzado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/ciberataques-vacaciones-peligros-redes-wifi-publicas-1396193'>Ciberataques en vacaciones: los peligros de las redes WiFi públicas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/ciberataques-vacaciones-peligros-redes-wifi-publicas-1396193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/redes-wifi-aeropuerto-3750243.jpg?tf=1200x' alt='Ciberataques en vacaciones: los peligros de las redes WiFi públicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pantalla-transparente-100-pulgadas-entra-produccion-10-veces-barata-oled-1396192'>Pantalla transparente de 100 pulgadas entra en producción: 10 veces más barata que OLED</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pantalla-transparente-100-pulgadas-entra-produccion-10-veces-barata-oled-1396192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pantalla-transparente-100-pulgadas-entra-produccion-10-veces-barata-oled-3750098.jpg?tf=1200x' alt='Pantalla transparente de 100 pulgadas entra en producción: 10 veces más barata que OLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuanto-cuesta-dejar-router-plc-otros-dispositivos-red-enchufados-vacaciones-1396191'>¿Cuánto cuesta dejar el router, PLC y otros dispositivos de red enchufados en vacaciones?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuanto-cuesta-dejar-router-plc-otros-dispositivos-red-enchufados-vacaciones-1396191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/router-3750095.jpg?tf=1200x' alt='¿Cuánto cuesta dejar el router, PLC y otros dispositivos de red enchufados en vacaciones?' />
     </a>
 </div>
 
