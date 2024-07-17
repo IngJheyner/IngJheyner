@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-trasladar-certificado-digital-fnmt-dispositivos-1395981'>Cómo trasladar tu certificado digital de la FNMT entre dispositivos</a></h4>
-    <a href='https://computerhoy.com/internet/como-trasladar-certificado-digital-fnmt-dispositivos-1395981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-trasladar-certificado-digital-fnmt-dispositivos-3743202.jpg?tf=1200x' alt='Cómo trasladar tu certificado digital de la FNMT entre dispositivos' />
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-quiere-ser-tan-adictiva-como-netflix-1396196'>Disney+ quiere ser tan adictiva como Netflix: estos son los trucos que va a usar</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-quiere-ser-tan-adictiva-como-netflix-1396196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/disney-plus-quieres-ser-tan-adictiva-como-netflix-estos-son-trucos-va-usar-3750388.jpg?tf=1200x' alt='Disney+ quiere ser tan adictiva como Netflix: estos son los trucos que va a usar' />
     </a>
 </div>
 
@@ -61,6 +61,14 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-1395458'>Google Maps: busca y captura en Japón a la persona que construyó una carretera a ningún sitio</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-1395458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-3715099.jpg?tf=1200x' alt='Google Maps: busca y captura en Japón a la persona que construyó una carretera a ningún sitio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-trasladar-certificado-digital-fnmt-dispositivos-1395981'>Cómo trasladar tu certificado digital de la FNMT entre dispositivos</a></h4>
+    <a href='https://computerhoy.com/internet/como-trasladar-certificado-digital-fnmt-dispositivos-1395981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-trasladar-certificado-digital-fnmt-dispositivos-3743202.jpg?tf=1200x' alt='Cómo trasladar tu certificado digital de la FNMT entre dispositivos' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-wallet-te-permitira-escanear-guardar-cualquier-documento-1395997'>Google Wallet te permitirá escanear y guardar cualquier documento</a></h4>
     <a href='https://computerhoy.com/apps/google-wallet-te-permitira-escanear-guardar-cualquier-documento-1395997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-wallet-3136938.jpg?tf=1200x' alt='Google Wallet te permitirá escanear y guardar cualquier documento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ciberataques-vacaciones-peligros-redes-wifi-publicas-1396193'>Ciberataques en vacaciones: los peligros de las redes WiFi públicas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ciberataques-vacaciones-peligros-redes-wifi-publicas-1396193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/redes-wifi-aeropuerto-3750243.jpg?tf=1200x' alt='Ciberataques en vacaciones: los peligros de las redes WiFi públicas' />
     </a>
 </div>
 
