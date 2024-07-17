@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/elon-musk-afirma-intento-asesinato-trump-inspira-construir-traje-volador-armadura-1395661'>Elon Musk afirma que el intento de asesinato de Trump lo inspira a construir un traje volador con armadura</a></h4>
-    <a href='https://computerhoy.com/redes/elon-musk-afirma-intento-asesinato-trump-inspira-construir-traje-volador-armadura-1395661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/elon-musk-traje-volador-3732696.jpg?tf=1200x' alt='Elon Musk afirma que el intento de asesinato de Trump lo inspira a construir un traje volador con armadura' />
+    <h4><a href='https://computerhoy.com/tecnologia/trucos-infalibles-chatgpt-conseguir-respuestas-inteligentes-fiables-1395346'>Trucos infalibles de ChatGPT para conseguir respuestas más inteligentes y fiables</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trucos-infalibles-chatgpt-conseguir-respuestas-inteligentes-fiables-1395346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robot-humano-3711570.jpg?tf=1200x' alt='Trucos infalibles de ChatGPT para conseguir respuestas más inteligentes y fiables' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/significan-fantasmas-waze-todos-simbolos-1395847'>Qué significan los fantasmas en Waze y todos sus símbolos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/significan-fantasmas-waze-todos-simbolos-1395847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/waze-3739516.jpg?tf=1200x' alt='Qué significan los fantasmas en Waze y todos sus símbolos' />
+    <h4><a href='https://computerhoy.com/moviles/adios-humanos-fabrica-xiaomi-trabajadores-robots-abierta-24-7-1396060'>Adiós a los humanos: así es la fábrica de Xiaomi con trabajadores robots abierta 24/7</a></h4>
+    <a href='https://computerhoy.com/moviles/adios-humanos-fabrica-xiaomi-trabajadores-robots-abierta-24-7-1396060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fabrica-xiaomi-3746668.jpg?tf=1200x' alt='Adiós a los humanos: así es la fábrica de Xiaomi con trabajadores robots abierta 24/7' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/xiaomi-menos-100-euros-movil-barato-pero-potente-ahora-aun-rebajado-1395738'>Este Xiaomi de menos de 100 euros es un móvil barato pero potente, y ahora está aún más rebajado</a></h4>
-    <a href='https://computerhoy.com/android/xiaomi-menos-100-euros-movil-barato-pero-potente-ahora-aun-rebajado-1395738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-redmi-note-12-amazon-prime-day-3075302.jpg?tf=1200x' alt='Este Xiaomi de menos de 100 euros es un móvil barato pero potente, y ahora está aún más rebajado' />
+    <h4><a href='https://computerhoy.com/apps/aplicacion-preferida-acosadores-porque-imposible-bloquear-1396075'>Esta es la aplicación preferida de los acosadores porque es imposible de bloquear</a></h4>
+    <a href='https://computerhoy.com/apps/aplicacion-preferida-acosadores-porque-imposible-bloquear-1396075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aplicacion-preferida-acosadores-porque-imposible-bloquear-3746835.jpg?tf=1200x' alt='Esta es la aplicación preferida de los acosadores porque es imposible de bloquear' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/bizum-peligra-alemania-activa-app-pagos-wero-1395662'>Bizum peligra: Alemania activa su app de pagos Wero</a></h4>
-    <a href='https://computerhoy.com/apps/bizum-peligra-alemania-activa-app-pagos-wero-1395662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/wero-app-pagos-3732693.jpg?tf=1200x' alt='Bizum peligra: Alemania activa su app de pagos Wero' />
+    <h4><a href='https://computerhoy.com/analisis/canon-saca-pecho-frente-sony-nuevas-eos-r1-eos-r5-mark-ii-camaras-top-he-probado-cual-mejor-ti-1395251'>Canon saca pecho frente a Sony con las nuevas EOS R1 y EOS R5 Mark II, las cámaras más top que he probado: ¿cuál es mejor para ti?</a></h4>
+    <a href='https://computerhoy.com/analisis/canon-saca-pecho-frente-sony-nuevas-eos-r1-eos-r5-mark-ii-camaras-top-he-probado-cual-mejor-ti-1395251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/canon-eos-r1-canon-eos-r5-mark-ii-3713775.jpg?tf=1200x' alt='Canon saca pecho frente a Sony con las nuevas EOS R1 y EOS R5 Mark II, las cámaras más top que he probado: ¿cuál es mejor para ti?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/conoce-todos-productos-apple-presentara-otono-1395850'>Conoce todos los productos que Apple presentará este otoño</a></h4>
-    <a href='https://computerhoy.com/apple/conoce-todos-productos-apple-presentara-otono-1395850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nuevos-productos-apple-3739515.jpg?tf=1200x' alt='Conoce todos los productos que Apple presentará este otoño' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-devora-memoria-movil-solamente-tienes-activar-ajuste-1395864'>¿WhatsApp devora la memoria de tu móvil? Solamente tienes que activar este ajuste</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-devora-memoria-movil-solamente-tienes-activar-ajuste-1395864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-almacenamiento-3739667.jpg?tf=1200x' alt='¿WhatsApp devora la memoria de tu móvil? Solamente tienes que activar este ajuste' />
     </a>
 </div>
 
