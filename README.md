@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/denuncian-falsas-ofertas-empleo-tiktok-whatsapp-telegram-robar-datos-1396055'>Denuncian falsas ofertas de empleo en TikTok, WhatsApp y Telegram para robar tus datos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/denuncian-falsas-ofertas-empleo-tiktok-whatsapp-telegram-robar-datos-1396055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/evitar-estafas-tiendas-online-3743204.jpg?tf=1200x' alt='Denuncian falsas ofertas de empleo en TikTok, WhatsApp y Telegram para robar tus datos' />
+    <h4><a href='https://computerhoy.com/redes/elon-musk-afirma-intento-asesinato-trump-inspira-construir-traje-volador-armadura-1395661'>Elon Musk afirma que el intento de asesinato de Trump lo inspira a construir un traje volador con armadura</a></h4>
+    <a href='https://computerhoy.com/redes/elon-musk-afirma-intento-asesinato-trump-inspira-construir-traje-volador-armadura-1395661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/elon-musk-traje-volador-3732696.jpg?tf=1200x' alt='Elon Musk afirma que el intento de asesinato de Trump lo inspira a construir un traje volador con armadura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-usar-google-maps-como-experto-1342402'>Cómo usar Google Maps para viajar en modo experto: 7 funciones avanzadas que debes conocer</a></h4>
-    <a href='https://computerhoy.com/google/como-usar-google-maps-como-experto-1342402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-usar-google-maps-como-experto-7-funciones-avanzadas-debes-conocer-3234942.jpg?tf=1200x' alt='Cómo usar Google Maps para viajar en modo experto: 7 funciones avanzadas que debes conocer' />
+    <h4><a href='https://computerhoy.com/tutoriales/significan-fantasmas-waze-todos-simbolos-1395847'>Qué significan los fantasmas en Waze y todos sus símbolos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/significan-fantasmas-waze-todos-simbolos-1395847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/waze-3739516.jpg?tf=1200x' alt='Qué significan los fantasmas en Waze y todos sus símbolos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-no-solo-estos-son-6-grandes-rivales-1395332'>ChatGPT no está solo y estos son sus 6 grandes rivales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-no-solo-estos-son-6-grandes-rivales-1395332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-funciones-chatgpt-no-estas-aprovechando-todo-deberias-usar-ahora-mismo-3290323.jpg?tf=1200x' alt='ChatGPT no está solo y estos son sus 6 grandes rivales' />
+    <h4><a href='https://computerhoy.com/android/xiaomi-menos-100-euros-movil-barato-pero-potente-ahora-aun-rebajado-1395738'>Este Xiaomi de menos de 100 euros es un móvil barato pero potente, y ahora está aún más rebajado</a></h4>
+    <a href='https://computerhoy.com/android/xiaomi-menos-100-euros-movil-barato-pero-potente-ahora-aun-rebajado-1395738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-redmi-note-12-amazon-prime-day-3075302.jpg?tf=1200x' alt='Este Xiaomi de menos de 100 euros es un móvil barato pero potente, y ahora está aún más rebajado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/lista-iptv-ver-gratis-7500-canales-vuelve-estar-disponible-1216750'>La lista IPTV para ver gratis más de 7.500 canales vuelve a estar disponible</a></h4>
-    <a href='https://computerhoy.com/tv/lista-iptv-ver-gratis-7500-canales-vuelve-estar-disponible-1216750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lista-iptv-ver-gratis-7500-canales-vuelve-estar-disponible-3737370.jpg?tf=1200x' alt='La lista IPTV para ver gratis más de 7.500 canales vuelve a estar disponible' />
+    <h4><a href='https://computerhoy.com/apps/bizum-peligra-alemania-activa-app-pagos-wero-1395662'>Bizum peligra: Alemania activa su app de pagos Wero</a></h4>
+    <a href='https://computerhoy.com/apps/bizum-peligra-alemania-activa-app-pagos-wero-1395662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/wero-app-pagos-3732693.jpg?tf=1200x' alt='Bizum peligra: Alemania activa su app de pagos Wero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-laberinto-dificil-mundo-bucles-repiten-infinito-1395318'>Crean el laberinto más difícil del mundo con bucles que se repiten hasta el infinito</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-laberinto-dificil-mundo-bucles-repiten-infinito-1395318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crean-laberinto-dificil-mundo-bucles-repiten-infinito-3711237.jpg?tf=1200x' alt='Crean el laberinto más difícil del mundo con bucles que se repiten hasta el infinito' />
+    <h4><a href='https://computerhoy.com/apple/conoce-todos-productos-apple-presentara-otono-1395850'>Conoce todos los productos que Apple presentará este otoño</a></h4>
+    <a href='https://computerhoy.com/apple/conoce-todos-productos-apple-presentara-otono-1395850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nuevos-productos-apple-3739515.jpg?tf=1200x' alt='Conoce todos los productos que Apple presentará este otoño' />
     </a>
 </div>
 
