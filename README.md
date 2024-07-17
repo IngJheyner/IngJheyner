@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-1395355'>Sam Altman quiere que la inteligencia artificial sea tu próximo médico, y OpenAI ya está trabajando al respecto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-1395355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sam-altman-quiere-inteligencia-artificial-sea-proximo-medico-openai-ya-trabajando-respecto-3711724.jpg?tf=1200x' alt='Sam Altman quiere que la inteligencia artificial sea tu próximo médico, y OpenAI ya está trabajando al respecto' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/disney-hackeada-oleada-revelaciones-series-videojuegos-1395790'>Disney, hackeada: anuncian oleada de revelaciones de series y videojuegos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/disney-hackeada-oleada-revelaciones-series-videojuegos-1395790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/disney-hackeada-anuncian-oleada-revelaciones-series-videojuegos-3735058.jpg?tf=1200x' alt='Disney, hackeada: anuncian oleada de revelaciones de series y videojuegos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/horno-airfryer-cual-consume-menos-luz-1395921'>Horno o Airfryer: ¿cuál consume menos luz?</a></h4>
-    <a href='https://computerhoy.com/life/horno-airfryer-cual-consume-menos-luz-1395921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/horno-airfryer-cual-consume-menos-luz-3740637.jpg?tf=1200x' alt='Horno o Airfryer: ¿cuál consume menos luz?' />
+    <h4><a href='https://computerhoy.com/life/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-1395737'>Adiós al calor con un invento capaz de enfriar una habitación sin instalación ni electricidad</a></h4>
+    <a href='https://computerhoy.com/life/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-1395737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-3733982.jpg?tf=1200x' alt='Adiós al calor con un invento capaz de enfriar una habitación sin instalación ni electricidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ios-18-hace-posible-ahora-podras-grabar-llamadas-iphone-1396129'>iOS 18 lo hace posible, ahora podrás grabar llamadas en tu iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/ios-18-hace-posible-ahora-podras-grabar-llamadas-iphone-1396129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ios-18-hace-posible-ahora-podras-grabar-llamadas-iphone-3747921.jpg?tf=1200x' alt='iOS 18 lo hace posible, ahora podrás grabar llamadas en tu iPhone' />
+    <h4><a href='https://computerhoy.com/entretenimiento/expediente-warren-dice-adios-sera-entrega-final-conjuring-1395405'>Expediente Warren dice adiós: así será la entrega final de The Conjuring</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/expediente-warren-dice-adios-sera-entrega-final-conjuring-1395405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/expediente-warren-obligado-demonio-2355615.jpg?tf=1200x' alt='Expediente Warren dice adiós: así será la entrega final de The Conjuring' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/como-canjear-codigos-ps5-paso-paso-1396159'>Cómo canjear tus códigos en PS5 paso a paso</a></h4>
-    <a href='https://computerhoy.com/gaming/como-canjear-codigos-ps5-paso-paso-1396159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-canjear-codigos-ps5-paso-paso-3749185.jpg?tf=1200x' alt='Cómo canjear tus códigos en PS5 paso a paso' />
+    <h4><a href='https://computerhoy.com/google/9-trucos-increibles-poco-conocidos-google-maps-te-sorprenderan-1395962'>9 trucos increíbles y poco conocidos de Google Maps que te sorprenderán</a></h4>
+    <a href='https://computerhoy.com/google/9-trucos-increibles-poco-conocidos-google-maps-te-sorprenderan-1395962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/9-trucos-increibles-poco-conocidos-google-maps-te-sorprenderan-3742316.jpg?tf=1200x' alt='9 trucos increíbles y poco conocidos de Google Maps que te sorprenderán' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-anima-prime-day-ultima-hora-rebaja-venu-3-cebo-usuarios-apple-watch-1396155'>Garmin anima el Prime Day a última hora: rebaja el Venu 3, su cebo para los usuarios del Apple Watch</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-anima-prime-day-ultima-hora-rebaja-venu-3-cebo-usuarios-apple-watch-1396155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-venu-3-3278319.jpg?tf=1200x' alt='Garmin anima el Prime Day a última hora: rebaja el Venu 3, su cebo para los usuarios del Apple Watch' />
+    <h4><a href='https://computerhoy.com/apps/trucos-saber-whatsapp-te-espiando-microfono-camara-sepas-1394885'>Trucos para saber si WhatsApp te está espiando por el micrófono o la cámara sin que lo sepas</a></h4>
+    <a href='https://computerhoy.com/apps/trucos-saber-whatsapp-te-espiando-microfono-camara-sepas-1394885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trucos-saber-whatsapp-te-espiando-microfono-camara-sepas-3695531.jpg?tf=1200x' alt='Trucos para saber si WhatsApp te está espiando por el micrófono o la cámara sin que lo sepas' />
     </a>
 </div>
 
