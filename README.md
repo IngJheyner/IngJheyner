@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/encuesta-revela-mitad-trabajadores-cree-ia-realidad-virtual-crearan-puestos-trabajo-1396108'>Una encuesta lo revela: la mitad de los trabajadores cree que la IA y la realidad virtual crearán más puestos de trabajo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/encuesta-revela-mitad-trabajadores-cree-ia-realidad-virtual-crearan-puestos-trabajo-1396108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/encuesta-revela-mitad-trabajadores-cree-ia-realidad-virtual-crearan-puestos-trabajo-3747600.jpg?tf=1200x' alt='Una encuesta lo revela: la mitad de los trabajadores cree que la IA y la realidad virtual crearán más puestos de trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/intel-core-i7-windows-11-precio-dificil-creer-potente-portatil-oferta-top-prime-day-1396054'>Intel Core i7 y Windows 11 a precio difícil de creer: este potente portátil es una oferta top del Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/intel-core-i7-windows-11-precio-dificil-creer-potente-portatil-oferta-top-prime-day-1396054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/acer-aspire-3-3220718.jpg?tf=1200x' alt='Intel Core i7 y Windows 11 a precio difícil de creer: este potente portátil es una oferta top del Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-firestick-xiaomi-tiene-alternativa-2k-android-mucho-barata-1396088'>Olvida los Firestick: Xiaomi tiene una alternativa 2K, con Android y mucho más barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-firestick-xiaomi-tiene-alternativa-2k-android-mucho-barata-1396088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/xiaomi-mi-tv-stick-3747135.jpg?tf=1200x' alt='Olvida los Firestick: Xiaomi tiene una alternativa 2K, con Android y mucho más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/intenta-actualizar-raspberry-pi-16-gb-ram-aviso-no-hagas-1395342'>Intenta actualizar su Raspberry Pi con 16 GB de RAM: aviso, no lo hagas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/intenta-actualizar-raspberry-pi-16-gb-ram-aviso-no-hagas-1395342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/raspberry-pi-modificada-3712552.jpg?tf=1200x' alt='Intenta actualizar su Raspberry Pi con 16 GB de RAM: aviso, no lo hagas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/celebra-dia-mundial-emoji-cuales-son-utilizados-usuarios-espana-1396099'>Celebra el Día Mundial del Emoji: cuáles son los más utilizados por los usuarios en España</a></h4>
     <a href='https://computerhoy.com/apps/celebra-dia-mundial-emoji-cuales-son-utilizados-usuarios-espana-1396099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/celebra-dia-mundial-emoji-cuales-son-usados-usuarios-espana-3747452.jpg?tf=1200x' alt='Celebra el Día Mundial del Emoji: cuáles son los más utilizados por los usuarios en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/puedes-activar-modo-minion-whatsapp-1395913'>Así puedes activar el "modo Minion" en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/puedes-activar-modo-minion-whatsapp-1395913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/modo-minion-whatsapp-3740485.jpg?tf=1200x' alt='Así puedes activar el "modo Minion" en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/sorprendente-aparato-hace-porterillo-inteligente-amazon-casi-mitad-precio-1396018'>Este sorprendente aparato hace tu porterillo inteligente: es de Amazon y está casi a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/amazon/sorprendente-aparato-hace-porterillo-inteligente-amazon-casi-mitad-precio-1396018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ring-intercom-3014446.jpg?tf=1200x' alt='Este sorprendente aparato hace tu porterillo inteligente: es de Amazon y está casi a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/eres-madrileno-app-estabas-esperando-1396084'>Si eres madrileño, esta es la app que estabas esperando</a></h4>
-    <a href='https://computerhoy.com/apps/eres-madrileno-app-estabas-esperando-1396084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuenta-digital-app-madrid-3747296.jpg?tf=1200x' alt='Si eres madrileño, esta es la app que estabas esperando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/pasa-mantienes-pulsado-segundos-boton-linterna-movil-1395349'>¿Qué pasa si mantienes pulsado unos segundos el botón de linterna de tu móvil?</a></h4>
-    <a href='https://computerhoy.com/moviles/pasa-mantienes-pulsado-segundos-boton-linterna-movil-1395349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/linterna-movil-3711730.jpg?tf=1200x' alt='¿Qué pasa si mantienes pulsado unos segundos el botón de linterna de tu móvil?' />
     </a>
 </div>
 
