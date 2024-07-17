@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-crear-lista-chats-grupos-favoritos-1396053'>WhatsApp te permitirá crear una lista con los chats y grupos favoritos</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-crear-lista-chats-grupos-favoritos-1396053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-te-permitira-crear-lista-chats-grupos-favoritos-3746371.jpg?tf=1200x' alt='WhatsApp te permitirá crear una lista con los chats y grupos favoritos' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/denuncian-falsas-ofertas-empleo-tiktok-whatsapp-telegram-robar-datos-1396055'>Denuncian falsas ofertas de empleo en TikTok, WhatsApp y Telegram para robar tus datos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/denuncian-falsas-ofertas-empleo-tiktok-whatsapp-telegram-robar-datos-1396055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/evitar-estafas-tiendas-online-3743204.jpg?tf=1200x' alt='Denuncian falsas ofertas de empleo en TikTok, WhatsApp y Telegram para robar tus datos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-luna-mando-oferta-prime-day-alternativa-game-pass-1339708'>Amazon, a la guerra con Game Pass: deja por los suelos el precio de sus mandos Luna para jugar en streaming</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-luna-mando-oferta-prime-day-alternativa-game-pass-1339708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-luna-3230058.jpg?tf=1200x' alt='Amazon, a la guerra con Game Pass: deja por los suelos el precio de sus mandos Luna para jugar en streaming' />
+    <h4><a href='https://computerhoy.com/google/como-usar-google-maps-como-experto-1342402'>Cómo usar Google Maps para viajar en modo experto: 7 funciones avanzadas que debes conocer</a></h4>
+    <a href='https://computerhoy.com/google/como-usar-google-maps-como-experto-1342402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-usar-google-maps-como-experto-7-funciones-avanzadas-debes-conocer-3234942.jpg?tf=1200x' alt='Cómo usar Google Maps para viajar en modo experto: 7 funciones avanzadas que debes conocer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/poco-x6-pro-oferta-prime-day-top-ventas-amazon-1395658'>Este es el móvil barato que debes comprar en el Prime Day: menos de 300 euros, pantallón AMOLED y carga ultrarrápida</a></h4>
-    <a href='https://computerhoy.com/tecnologia/poco-x6-pro-oferta-prime-day-top-ventas-amazon-1395658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-pro-3260018.jpg?tf=1200x' alt='Este es el móvil barato que debes comprar en el Prime Day: menos de 300 euros, pantallón AMOLED y carga ultrarrápida' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-no-solo-estos-son-6-grandes-rivales-1395332'>ChatGPT no está solo y estos son sus 6 grandes rivales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-no-solo-estos-son-6-grandes-rivales-1395332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-funciones-chatgpt-no-estas-aprovechando-todo-deberias-usar-ahora-mismo-3290323.jpg?tf=1200x' alt='ChatGPT no está solo y estos son sus 6 grandes rivales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/esperanza-ultimo-pierde-rescate-apple-watch-fondo-mar-18-meses-demuestra-1395636'>La esperanza es lo último que se pierde y el rescate de este Apple Watch del fondo de mar tras 18 meses lo demuestra</a></h4>
-    <a href='https://computerhoy.com/apple/esperanza-ultimo-pierde-rescate-apple-watch-fondo-mar-18-meses-demuestra-1395636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-watch-oceano-3732225.jpg?tf=1200x' alt='La esperanza es lo último que se pierde y el rescate de este Apple Watch del fondo de mar tras 18 meses lo demuestra' />
+    <h4><a href='https://computerhoy.com/tv/lista-iptv-ver-gratis-7500-canales-vuelve-estar-disponible-1216750'>La lista IPTV para ver gratis más de 7.500 canales vuelve a estar disponible</a></h4>
+    <a href='https://computerhoy.com/tv/lista-iptv-ver-gratis-7500-canales-vuelve-estar-disponible-1216750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lista-iptv-ver-gratis-7500-canales-vuelve-estar-disponible-3737370.jpg?tf=1200x' alt='La lista IPTV para ver gratis más de 7.500 canales vuelve a estar disponible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-ai-whatsapp-sirve-como-utilizarlo-1395813'>Meta AI de WhatsApp: qué es, para qué sirve y cómo utilizarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-ai-whatsapp-sirve-como-utilizarlo-1395813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/meta-ai-whatsapp-sirve-como-utilizarlo-3737806.jpg?tf=1200x' alt='Meta AI de WhatsApp: qué es, para qué sirve y cómo utilizarlo' />
+    <h4><a href='https://computerhoy.com/ciencia/crean-laberinto-dificil-mundo-bucles-repiten-infinito-1395318'>Crean el laberinto más difícil del mundo con bucles que se repiten hasta el infinito</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-laberinto-dificil-mundo-bucles-repiten-infinito-1395318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crean-laberinto-dificil-mundo-bucles-repiten-infinito-3711237.jpg?tf=1200x' alt='Crean el laberinto más difícil del mundo con bucles que se repiten hasta el infinito' />
     </a>
 </div>
 
