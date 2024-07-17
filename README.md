@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-miran-amazon-debes-protegerte-no-caer-estafas-prime-day-1395198'>Los ciberdelincuentes miran a Amazon: así debes protegerte para no caer en las estafas del Prime Day</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-miran-amazon-debes-protegerte-no-caer-estafas-prime-day-1395198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-prime-day-reloj-arena-3081928.jpg?tf=1200x' alt='Los ciberdelincuentes miran a Amazon: así debes protegerte para no caer en las estafas del Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/8-consejos-prolongar-vida-util-disco-duro-1396008'>8 consejos para prolongar la vida útil de tu disco duro</a></h4>
     <a href='https://computerhoy.com/tecnologia/8-consejos-prolongar-vida-util-disco-duro-1396008' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/8-consejos-prolongar-vida-util-disco-duro-3744481.jpg?tf=1200x' alt='8 consejos para prolongar la vida útil de tu disco duro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606'>Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien</a></h4>
     <a href='https://computerhoy.com/entretenimiento/jackie-chan-rejuvenecido-inteligencia-artificial-una-leyenda-1395606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rejuvenecen-40-anos-jackie-chan-usando-ia-nueva-pelicula-pero-no-ha-ido-muy-bien-3729097.jpg?tf=1200x' alt='Rejuvenecen 40 años a Jackie Chan usando IA en su nueva película, pero no ha ido muy bien' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/wd-ssd-m2-8-tb-carateristicas-precio-1396006'>Ya están aquí los SSD M.2 de 8 TB, pero cuestan más que un ordenador</a></h4>
-    <a href='https://computerhoy.com/pc/wd-ssd-m2-8-tb-carateristicas-precio-1396006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ya-estan-aqui-ssd-m2-8-tb-pero-valen-ordenador-3743206.jpg?tf=1200x' alt='Ya están aquí los SSD M.2 de 8 TB, pero cuestan más que un ordenador' />
     </a>
 </div>
 
