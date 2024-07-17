@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-estrena-18-julio-canal-cine-exclusivo-1395889'>Movistar Plus+ estrena el 18 de julio un canal de cine exclusivo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/movistar-plus-estrena-18-julio-canal-cine-exclusivo-1395889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nuevo-canal-movistar-3740181.jpg?tf=1200x' alt='Movistar Plus+ estrena el 18 de julio un canal de cine exclusivo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/no-todos-mensajes-policia-son-phishing-no-estafa-1395918'>No todos los mensajes de la Policía son phishing: este no es una estafa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/no-todos-mensajes-policia-son-phishing-no-estafa-1395918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-todos-mensajes-policia-son-phising-no-estafa-3740633.jpg?tf=1200x' alt='No todos los mensajes de la Policía son phishing: este no es una estafa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-1395134'>¿Por qué recuerdas unas cosas sí y otras no? Así lo explica un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/ciencia/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-1395134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/recuerdas-unas-cosas-otras-no-explica-nuevo-estudio-3704314.jpg?tf=1200x' alt='¿Por qué recuerdas unas cosas sí y otras no? Así lo explica un nuevo estudio' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-oferta-pc-i7-amazon-1328748'>No te engañan los ojos: este PC arrasa en Amazon con i7 y 16GB de RAM por 135 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-error-precio-oferta-pc-i7-amazon-1328748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hp-elite-8300-3210846.jpg?tf=1200x' alt='No te engañan los ojos: este PC arrasa en Amazon con i7 y 16GB de RAM por 135 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/5-gadgets-enganar-ladrones-verano-instalar-alarma-1395740'>5 gadgets para engañar a los ladrones este verano sin instalar una alarma</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/5-gadgets-enganar-ladrones-verano-instalar-alarma-1395740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gadgets-enganar-ladrones-3734598.jpg?tf=1200x' alt='5 gadgets para engañar a los ladrones este verano sin instalar una alarma' />
+    <h4><a href='https://computerhoy.com/moviles/no-te-quedes-atras-3-motivos-compraria-movil-ia-ano-1394591'>No te quedes atrás: 3 motivos por los que compraría un móvil con IA este año</a></h4>
+    <a href='https://computerhoy.com/moviles/no-te-quedes-atras-3-motivos-compraria-movil-ia-ano-1394591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-zenfone-11-ultra-3298601.jpg?tf=1200x' alt='No te quedes atrás: 3 motivos por los que compraría un móvil con IA este año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-7x-pro-solar-oferta-amazon-prime-day-1316776'>El Garmin con carga solar y batería infinita vuelve al top ventas del Prime Day: tiene 220 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-7x-pro-solar-oferta-amazon-prime-day-1316776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7x-solar-2591043.jpg?tf=1200x' alt='El Garmin con carga solar y batería infinita vuelve al top ventas del Prime Day: tiene 220 euros de descuento' />
+    <h4><a href='https://computerhoy.com/pc/miniproca-mini-pc-pantalla-4k-integrada-1396021'>Esto es lo mejor que le ha pasado a los Mini PC en años: una pantalla integrada</a></h4>
+    <a href='https://computerhoy.com/pc/miniproca-mini-pc-pantalla-4k-integrada-1396021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1721190791810-3745630.jpg?tf=1200x' alt='Esto es lo mejor que le ha pasado a los Mini PC en años: una pantalla integrada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-1395295'>Centralia, el pueblo fantasma que lleva 60 años ardiendo, y no parará en 200 años</a></h4>
-    <a href='https://computerhoy.com/life/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-1395295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/centralia-pueblo-fantasma-lleva-60-anos-ardiendo-no-parara-200-anos-3709234.jpg?tf=1200x' alt='Centralia, el pueblo fantasma que lleva 60 años ardiendo, y no parará en 200 años' />
+    <h4><a href='https://computerhoy.com/tecnologia/ipad-air-m1-hunde-precio-casi-todas-versiones-m1-500-euros-descuento-1395574'>El iPad Air con M1 hunde su precio en casi todas sus versiones: con M1 y más de 500 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ipad-air-m1-hunde-precio-casi-todas-versiones-m1-500-euros-descuento-1395574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipad-air-m2-13-pulgadas-3502062.jpg?tf=1200x' alt='El iPad Air con M1 hunde su precio en casi todas sus versiones: con M1 y más de 500 euros de descuento' />
     </a>
 </div>
 
