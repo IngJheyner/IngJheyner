@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-estrena-18-julio-canal-cine-exclusivo-1395889'>Movistar Plus+ estrena el 18 de julio un canal de cine exclusivo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/movistar-plus-estrena-18-julio-canal-cine-exclusivo-1395889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nuevo-canal-movistar-3740181.jpg?tf=1200x' alt='Movistar Plus+ estrena el 18 de julio un canal de cine exclusivo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-oscuro-google-chrome-1395814'>Cómo hacer que Google Chrome muestra todas las páginas en modo oscuro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-modo-oscuro-google-chrome-1395814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/modo-oscuro-google-chrome-3740782.jpg?tf=1200x' alt='Cómo hacer que Google Chrome muestra todas las páginas en modo oscuro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/he-probado-minutos-dyson-ontrac-excelente-cancelacion-ruido-colores-todos-gustos-1396051'>He probado unos minutos los Dyson OnTrac: excelente cancelación de ruido y colores para todos los gustos</a></h4>
-    <a href='https://computerhoy.com/audio/he-probado-minutos-dyson-ontrac-excelente-cancelacion-ruido-colores-todos-gustos-1396051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dyson-ontrac-3747450.jpg?tf=1200x' alt='He probado unos minutos los Dyson OnTrac: excelente cancelación de ruido y colores para todos los gustos' />
+    <h4><a href='https://computerhoy.com/tutoriales/cuales-son-mejores-productos-limpiar-pantalla-smart-tv-portatil-danarla-1396047'>Cuáles son los mejores productos para limpiar la pantalla de un Smart TV o portátil sin dañarla</a></h4>
+    <a href='https://computerhoy.com/tutoriales/cuales-son-mejores-productos-limpiar-pantalla-smart-tv-portatil-danarla-1396047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/como-hay-limpiar-pantalla-televisor-no-estropee-expertos-good-housekeeping-institute-2447591.jpg?tf=1200x' alt='Cuáles son los mejores productos para limpiar la pantalla de un Smart TV o portátil sin dañarla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/5-gadgets-enganar-ladrones-verano-instalar-alarma-1395740'>5 gadgets para engañar a los ladrones este verano sin instalar una alarma</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/5-gadgets-enganar-ladrones-verano-instalar-alarma-1395740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gadgets-enganar-ladrones-3734598.jpg?tf=1200x' alt='5 gadgets para engañar a los ladrones este verano sin instalar una alarma' />
+    <h4><a href='https://computerhoy.com/pc/mejor-refrigeracion-liquida-ventilador-1395291'>¿Qué es mejor la refrigeración líquida o un ventilador?</a></h4>
+    <a href='https://computerhoy.com/pc/mejor-refrigeracion-liquida-ventilador-1395291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/refrigeracion-liquida-aire-3708950.jpg?tf=1200x' alt='¿Qué es mejor la refrigeración líquida o un ventilador?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-google-reloj-inteligente-wear-os-rebajado-amazon-1384365'>Xiaomi y Google se alían: este reloj inteligente tiene Wear OS y cientos de aplicaciones a precio de locos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-google-reloj-inteligente-wear-os-rebajado-amazon-1384365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-watch-2-3308442.jpg?tf=1200x' alt='Xiaomi y Google se alían: este reloj inteligente tiene Wear OS y cientos de aplicaciones a precio de locos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-espacio-ps5-trucos-desbloquear-almacenamiento-1387499'>Cómo liberar espacio en tu PS5: 5 trucos infalibles para desbloquear almacenamiento en tu consola</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-liberar-espacio-ps5-trucos-desbloquear-almacenamiento-1387499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ps5-playstation-5-3128532.jpg?tf=1200x' alt='Cómo liberar espacio en tu PS5: 5 trucos infalibles para desbloquear almacenamiento en tu consola' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/descubre-tinder-plus-ventajas-precios-todo-necesitas-saber-1394566'>Descubre Tinder Plus: ventajas, precios y todo lo que necesitas saber</a></h4>
-    <a href='https://computerhoy.com/tecnologia/descubre-tinder-plus-ventajas-precios-todo-necesitas-saber-1394566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tinder-plus-3683576.jpg?tf=1200x' alt='Descubre Tinder Plus: ventajas, precios y todo lo que necesitas saber' />
+    <h4><a href='https://computerhoy.com/analisis/motorola-razr-50-ultra-mejor-plegable-tipo-concha-analisis-opinion-1395619'>Con dos semanas me bastan: Motorola Razr 50 Ultra es el mejor plegable tipo concha que he probado</a></h4>
+    <a href='https://computerhoy.com/analisis/motorola-razr-50-ultra-mejor-plegable-tipo-concha-analisis-opinion-1395619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/motorola-razr-50-ultra-3733156.jpg?tf=1200x' alt='Con dos semanas me bastan: Motorola Razr 50 Ultra es el mejor plegable tipo concha que he probado' />
     </a>
 </div>
 
