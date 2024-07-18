@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/electrodomestico-asesino-silencioso-cocina-causa-miles-muertes-cada-ano-1396401'>Este electrodoméstico es un asesino silencioso, está en tu cocina y causa miles de muertes al año</a></h4>
+    <a href='https://computerhoy.com/hogar/electrodomestico-asesino-silencioso-cocina-causa-miles-muertes-cada-ano-1396401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cama-hospital-3757988.jpg?tf=1200x' alt='Este electrodoméstico es un asesino silencioso, está en tu cocina y causa miles de muertes al año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-video-oficial-pixel-9-pro-1396404'>Google se cansa de las filtraciones y lanza un vídeo revelando el Pixel 9 Pro</a></h4>
+    <a href='https://computerhoy.com/google/google-video-oficial-pixel-9-pro-1396404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1721334036004-3757571.jpg?tf=1200x' alt='Google se cansa de las filtraciones y lanza un vídeo revelando el Pixel 9 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/comprar-miravia-opiniones-evitar-estafas-1395989'>¿Es fiable comprar en Miravia? Opiniones y en qué debes fijarte para evitar estafas</a></h4>
     <a href='https://computerhoy.com/apps/comprar-miravia-opiniones-evitar-estafas-1395989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/evitar-estafas-miravia-3742478.jpg?tf=1200x' alt='¿Es fiable comprar en Miravia? Opiniones y en qué debes fijarte para evitar estafas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-pone-fin-era-apps-basura-play-store-miles-apps-desapareceran-1396387'>Google pone fin a la era de las apps basura en Play Store: miles de apps desaparecerán</a></h4>
     <a href='https://computerhoy.com/apps/google-pone-fin-era-apps-basura-play-store-miles-apps-desapareceran-1396387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-pone-fin-era-apps-basura-play-store-miles-apps-desapareceran-3757147.jpg?tf=1200x' alt='Google pone fin a la era de las apps basura en Play Store: miles de apps desaparecerán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-godzilla-ni-kong-pelicula-monstruos-elogiada-critica-amazon-prime-video-1395683'>Ni Godzilla ni Kong: la película de monstruos más elogiada por la crítica está en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-godzilla-ni-kong-pelicula-monstruos-elogiada-critica-amazon-prime-video-1395683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-godzilla-ni-kong-pelicula-monstruos-elogiada-critica-amazon-prime-video-3732688.jpg?tf=1200x' alt='Ni Godzilla ni Kong: la película de monstruos más elogiada por la crítica está en Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-no-quiere-google-translate-usara-propia-tecnologia-traducir-chats-instante-1396390'>WhatsApp no quiere Google Translate: usará su propia tecnología para traducir los chats al instante</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-no-quiere-google-translate-usara-propia-tecnologia-traducir-chats-instante-1396390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-idiomas-2796581.jpg?tf=1200x' alt='WhatsApp no quiere Google Translate: usará su propia tecnología para traducir los chats al instante' />
     </a>
 </div>
 
