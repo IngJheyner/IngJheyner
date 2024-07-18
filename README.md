@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-prepara-acabar-estacion-espacial-internacional-pero-necesita-spacex-1396299'>La NASA pone fecha límite a la Estación Espacial Internacional: Space X, tendrá un papel importante</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-prepara-acabar-estacion-espacial-internacional-pero-necesita-spacex-1396299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-prepara-acabar-estacion-espacial-internacional-pero-necesita-spacex-3754699.jpg?tf=1200x' alt='La NASA pone fecha límite a la Estación Espacial Internacional: Space X, tendrá un papel importante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/spotify-amazon-music-deezer-alerta-youtube-vitamina-funciones-rivales-1396250'>Spotify, Amazon Music y Deezer en alerta: Youtube se vitamina con funciones de sus rivales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/spotify-amazon-music-deezer-alerta-youtube-vitamina-funciones-rivales-1396250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/youtube-music-3753922.jpg?tf=1200x' alt='Spotify, Amazon Music y Deezer en alerta: Youtube se vitamina con funciones de sus rivales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/solucion-problema-iconos-desaparecidos-barra-tareas-windows-11-1331772'>Cómo solucionar el problema de los iconos que no se muestran en la barra de tareas de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/solucion-problema-iconos-desaparecidos-barra-tareas-windows-11-1331772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-3013954.jpg?tf=1200x' alt='Cómo solucionar el problema de los iconos que no se muestran en la barra de tareas de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/fiable-comprar-temu-opiniones-evitar-estafas-1395950'>¿Es fiable comprar en TEMU? Opiniones y en qué debes fijarte para evitar estafas</a></h4>
     <a href='https://computerhoy.com/apps/fiable-comprar-temu-opiniones-evitar-estafas-1395950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/comprar-temu-3741396.jpg?tf=1200x' alt='¿Es fiable comprar en TEMU? Opiniones y en qué debes fijarte para evitar estafas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/buenas-noticias-chatgpt-te-puede-ayudar-encontrar-amor-atestigua-estudio-1396271'>¡Buenas noticias! ChatGPT te puede ayudar a encontrar el amor, así lo atestigua un estudio</a></h4>
     <a href='https://computerhoy.com/tecnologia/buenas-noticias-chatgpt-te-puede-ayudar-encontrar-amor-atestigua-estudio-1396271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-encontrar-amor-3754221.jpg?tf=1200x' alt='¡Buenas noticias! ChatGPT te puede ayudar a encontrar el amor, así lo atestigua un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/telescopio-james-webb-revela-exoplaneta-unas-condiciones-insolitas-1396255'>El telescopio James Webb revela un exoplaneta con unas condiciones insólitas</a></h4>
-    <a href='https://computerhoy.com/ciencia/telescopio-james-webb-revela-exoplaneta-unas-condiciones-insolitas-1396255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/telescopio-james-webb-revela-exoplaneta-unas-condiciones-insolitas-3753766.jpg?tf=1200x' alt='El telescopio James Webb revela un exoplaneta con unas condiciones insólitas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/10-ofertas-siguen-amazon-pasado-prime-day-merecen-muchisimo-pena-1396252'>10 ofertas que siguen en Amazon pasado el Prime Day y que merecen muchísimo la pena</a></h4>
-    <a href='https://computerhoy.com/tecnologia/10-ofertas-siguen-amazon-pasado-prime-day-merecen-muchisimo-pena-1396252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/caja-amazon-3753139.jpg?tf=1200x' alt='10 ofertas que siguen en Amazon pasado el Prime Day y que merecen muchísimo la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-desconocidas-diferentes-muy-sorprendentes-puedes-ver-netflix-1394719'>10 películas de ciencia ficción desconocidas, diferentes y muy sorprendentes que puedes ver en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-desconocidas-diferentes-muy-sorprendentes-puedes-ver-netflix-1394719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-peliculas-3691104.jpg?tf=1200x' alt='10 películas de ciencia ficción desconocidas, diferentes y muy sorprendentes que puedes ver en Netflix' />
     </a>
 </div>
 
