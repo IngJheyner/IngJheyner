@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/genera-propia-energia-bateria-solar-viene-propios-paneles-apenas-300-euros-1396267'>Genera tu propia energía con esta batería solar que viene con sus propios paneles, y por apenas 300 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/genera-propia-energia-bateria-solar-viene-propios-paneles-apenas-300-euros-1396267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/allpowers-r600-3234326.jpg?tf=1200x' alt='Genera tu propia energía con esta batería solar que viene con sus propios paneles, y por apenas 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-prepara-acabar-estacion-espacial-internacional-pero-necesita-spacex-1396299'>La NASA pone fecha límite a la Estación Espacial Internacional: Space X, tendrá un papel importante</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-prepara-acabar-estacion-espacial-internacional-pero-necesita-spacex-1396299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-prepara-acabar-estacion-espacial-internacional-pero-necesita-spacex-3754699.jpg?tf=1200x' alt='La NASA pone fecha límite a la Estación Espacial Internacional: Space X, tendrá un papel importante' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/fiable-comprar-temu-opiniones-evitar-estafas-1395950'>¿Es fiable comprar en TEMU? Opiniones y en qué debes fijarte para evitar estafas</a></h4>
     <a href='https://computerhoy.com/apps/fiable-comprar-temu-opiniones-evitar-estafas-1395950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/comprar-temu-3741396.jpg?tf=1200x' alt='¿Es fiable comprar en TEMU? Opiniones y en qué debes fijarte para evitar estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/buenas-noticias-chatgpt-te-puede-ayudar-encontrar-amor-atestigua-estudio-1396271'>¡Buenas noticias! ChatGPT te puede ayudar a encontrar el amor, así lo atestigua un estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/buenas-noticias-chatgpt-te-puede-ayudar-encontrar-amor-atestigua-estudio-1396271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-encontrar-amor-3754221.jpg?tf=1200x' alt='¡Buenas noticias! ChatGPT te puede ayudar a encontrar el amor, así lo atestigua un estudio' />
     </a>
 </div>
 
