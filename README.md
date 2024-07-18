@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/abre-nuevo-camino-comunicacion-espacio-tierra-1396336'>Se abre un nuevo camino en la comunicación entre el espacio y la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/abre-nuevo-camino-comunicacion-espacio-tierra-1396336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/camion-ha-captado-senal-infrarroja-enviada-satelite-orbita-3755285.jpg?tf=1200x' alt='Se abre un nuevo camino en la comunicación entre el espacio y la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/genera-propia-energia-bateria-solar-viene-propios-paneles-apenas-300-euros-1396267'>Genera tu propia energía con esta batería solar que viene con sus propios paneles, y por apenas 300 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/genera-propia-energia-bateria-solar-viene-propios-paneles-apenas-300-euros-1396267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/allpowers-r600-3234326.jpg?tf=1200x' alt='Genera tu propia energía con esta batería solar que viene con sus propios paneles, y por apenas 300 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/solucion-problema-iconos-desaparecidos-barra-tareas-windows-11-1331772'>Cómo solucionar el problema de los iconos que no se muestran en la barra de tareas de Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/solucion-problema-iconos-desaparecidos-barra-tareas-windows-11-1331772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/barra-tareas-windows-11-recupera-caracteristica-clasica-todos-echabamos-menos-3013954.jpg?tf=1200x' alt='Cómo solucionar el problema de los iconos que no se muestran en la barra de tareas de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/fiable-comprar-temu-opiniones-evitar-estafas-1395950'>¿Es fiable comprar en TEMU? Opiniones y en qué debes fijarte para evitar estafas</a></h4>
-    <a href='https://computerhoy.com/apps/fiable-comprar-temu-opiniones-evitar-estafas-1395950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/comprar-temu-3741396.jpg?tf=1200x' alt='¿Es fiable comprar en TEMU? Opiniones y en qué debes fijarte para evitar estafas' />
     </a>
 </div>
 
