@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alternativa-gopro-arrasa-influencers-amazon-vende-rebajada-precio-1396248'>Esta alternativa a las GoPro arrasa entre influencers, y Amazon la vende rebajada de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alternativa-gopro-arrasa-influencers-amazon-vende-rebajada-precio-1396248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/insta360-x3-2958502.jpg?tf=1200x' alt='Esta alternativa a las GoPro arrasa entre influencers, y Amazon la vende rebajada de precio' />
+    <h4><a href='https://computerhoy.com/tv/nuevos-cambios-tdt-gobierno-propone-sacar-subasta-canal-tv-abierto-1396263'>Nuevos cambios en la TDT: el Gobierno propone sacar a subasta un canal de TV en abierto</a></h4>
+    <a href='https://computerhoy.com/tv/nuevos-cambios-tdt-gobierno-propone-sacar-subasta-canal-tv-abierto-1396263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nuevo-canal-tdt-3754076.jpg?tf=1200x' alt='Nuevos cambios en la TDT: el Gobierno propone sacar a subasta un canal de TV en abierto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/android-auto-punto-integrar-controles-radio-coche-1396234'>Android Auto a punto de integrar los controles de radio del coche </a></h4>
-    <a href='https://computerhoy.com/google/android-auto-punto-integrar-controles-radio-coche-1396234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-puedo-saber-mi-coche-compatible-android-auto-3497636.jpg?tf=1200x' alt='Android Auto a punto de integrar los controles de radio del coche ' />
+    <h4><a href='https://computerhoy.com/tutoriales/amd-intel-como-elegir-procesador-portatil-1340478'>¿Intel o AMD? Qué tipo de procesador debes elegir al comprar un portátil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/amd-intel-como-elegir-procesador-portatil-1340478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tipo-procesador-debes-fijarte-antes-comprar-portatil-trabajar-estudiar-3231474.jpg?tf=1200x' alt='¿Intel o AMD? Qué tipo de procesador debes elegir al comprar un portátil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-ai-whatsapp-sirve-como-utilizarlo-1395813'>Meta AI de WhatsApp: qué es, para qué sirve y cómo utilizarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-ai-whatsapp-sirve-como-utilizarlo-1395813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/meta-ai-whatsapp-sirve-como-utilizarlo-3737806.jpg?tf=1200x' alt='Meta AI de WhatsApp: qué es, para qué sirve y cómo utilizarlo' />
+    <h4><a href='https://computerhoy.com/android/android-auto-124-ya-aqui-descubre-cambios-como-instalarlo-1395842'>Android Auto 12.4 ya está aquí: descubre los cambios y cómo instalarlo</a></h4>
+    <a href='https://computerhoy.com/android/android-auto-124-ya-aqui-descubre-cambios-como-instalarlo-1395842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-124-ya-aqui-descubre-cambios-como-instalarlo-3739135.jpg?tf=1200x' alt='Android Auto 12.4 ya está aquí: descubre los cambios y cómo instalarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/scarlett-johansson-sigue-guerra-sam-altman-seria-buen-villano-marvel-1396048'>Scarlett Johansson sigue su guerra contra Sam Altman: “sería un buen villano de Marvel”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/scarlett-johansson-sigue-guerra-sam-altman-seria-buen-villano-marvel-1396048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/scarlett-johansson-3345870.jpg?tf=1200x' alt='Scarlett Johansson sigue su guerra contra Sam Altman: “sería un buen villano de Marvel”' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuales-son-riesgos-tiene-ia-generativa-1396014'>¿Cuáles son los riesgos que tiene la IA generativa?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuales-son-riesgos-tiene-ia-generativa-1396014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuales-son-riesgos-tiene-ia-generativa-3745687.jpg?tf=1200x' alt='¿Cuáles son los riesgos que tiene la IA generativa?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ver-olimpiadas-tele-beneficioso-salud-ciencia-1395833'>Ver las Olimpiadas en la tele es beneficioso para tu salud, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/ver-olimpiadas-tele-beneficioso-salud-ciencia-1395833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ver-olimpiadas-tele-beneficioso-salud-ciencia-3738095.jpg?tf=1200x' alt='Ver las Olimpiadas en la tele es beneficioso para tu salud, según la ciencia' />
+    <h4><a href='https://computerhoy.com/moviles/edad-recomendable-dar-nino-primer-movil-expertos-1396045'>A qué edad es recomendable dar a un niño su primer móvil, según los expertos</a></h4>
+    <a href='https://computerhoy.com/moviles/edad-recomendable-dar-nino-primer-movil-expertos-1396045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/moviles-ninos-colegio-3251796.jpg?tf=1200x' alt='A qué edad es recomendable dar a un niño su primer móvil, según los expertos' />
     </a>
 </div>
 
