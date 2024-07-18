@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/comprar-miravia-opiniones-evitar-estafas-1395989'>¿Es fiable comprar en Miravia? Opiniones y en qué debes fijarte para evitar estafas</a></h4>
+    <a href='https://computerhoy.com/apps/comprar-miravia-opiniones-evitar-estafas-1395989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/evitar-estafas-miravia-3742478.jpg?tf=1200x' alt='¿Es fiable comprar en Miravia? Opiniones y en qué debes fijarte para evitar estafas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/openai-estrena-gpt-4o-mini-ia-1396400'>OpenAI estrena GPT-4o Mini, su IA más ligera y barata</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-estrena-gpt-4o-mini-ia-1396400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/openai-estrena-gpt-4o-mini-ia-asequible-competir-gemini-flash-3757143.jpg?tf=1200x' alt='OpenAI estrena GPT-4o Mini, su IA más ligera y barata' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-no-quiere-google-translate-usara-propia-tecnologia-traducir-chats-instante-1396390'>WhatsApp no quiere Google Translate: usará su propia tecnología para traducir los chats al instante</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-no-quiere-google-translate-usara-propia-tecnologia-traducir-chats-instante-1396390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-idiomas-2796581.jpg?tf=1200x' alt='WhatsApp no quiere Google Translate: usará su propia tecnología para traducir los chats al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/erupciones-solares-causan-apagones-radio-tierra-afectando-comunicaciones-globales-1396389'>Erupciones solares causan apagones de radio en la Tierra afectando a las comunicaciones globales</a></h4>
-    <a href='https://computerhoy.com/life/erupciones-solares-causan-apagones-radio-tierra-afectando-comunicaciones-globales-1396389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamaradas-solares-3756862.jpg?tf=1200x' alt='Erupciones solares causan apagones de radio en la Tierra afectando a las comunicaciones globales' />
     </a>
 </div>
 
