@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/notas-reels-feed-instagram-1396408'>Llegan las Notas a los Reels y Feed de Instagram</a></h4>
+    <a href='https://computerhoy.com/redes/notas-reels-feed-instagram-1396408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llegan-notas-rapidas-reel-feed-instagram-3757989.jpg?tf=1200x' alt='Llegan las Notas a los Reels y Feed de Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/electrodomestico-asesino-silencioso-cocina-causa-miles-muertes-cada-ano-1396401'>Este electrodoméstico es un asesino silencioso, está en tu cocina y causa miles de muertes al año</a></h4>
     <a href='https://computerhoy.com/hogar/electrodomestico-asesino-silencioso-cocina-causa-miles-muertes-cada-ano-1396401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cama-hospital-3757988.jpg?tf=1200x' alt='Este electrodoméstico es un asesino silencioso, está en tu cocina y causa miles de muertes al año' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/openai-estrena-gpt-4o-mini-ia-1396400'>OpenAI estrena GPT-4o Mini, su IA más ligera y barata</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-estrena-gpt-4o-mini-ia-1396400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/openai-estrena-gpt-4o-mini-ia-asequible-competir-gemini-flash-3757143.jpg?tf=1200x' alt='OpenAI estrena GPT-4o Mini, su IA más ligera y barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-pone-fin-era-apps-basura-play-store-miles-apps-desapareceran-1396387'>Google pone fin a la era de las apps basura en Play Store: miles de apps desaparecerán</a></h4>
-    <a href='https://computerhoy.com/apps/google-pone-fin-era-apps-basura-play-store-miles-apps-desapareceran-1396387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-pone-fin-era-apps-basura-play-store-miles-apps-desapareceran-3757147.jpg?tf=1200x' alt='Google pone fin a la era de las apps basura en Play Store: miles de apps desaparecerán' />
     </a>
 </div>
 
