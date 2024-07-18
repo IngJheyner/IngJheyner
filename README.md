@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/6-caracteristicas-ocultas-windows-deberias-aprovechar-1396200'>6 características ocultas de Windows que deberías aprovechar</a></h4>
+    <a href='https://computerhoy.com/windows/6-caracteristicas-ocultas-windows-deberias-aprovechar-1396200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/6-caracteristicas-ocultas-windows-deberias-aprovechar-3751845.jpg?tf=1200x' alt='6 características ocultas de Windows que deberías aprovechar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/como-abrir-editor-directivas-grupo-windows-11-windows-10-1396197'>Cómo abrir el Editor de Directivas de Grupo en Windows 11 y Windows 10</a></h4>
     <a href='https://computerhoy.com/windows/como-abrir-editor-directivas-grupo-windows-11-windows-10-1396197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-abrir-editor-directivas-grupo-windows-11-windows-10-3751263.jpg?tf=1200x' alt='Cómo abrir el Editor de Directivas de Grupo en Windows 11 y Windows 10' />
@@ -69,14 +77,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/disney-quiere-ser-tan-adictiva-como-netflix-1396196'>Disney+ quiere ser tan adictiva como Netflix: estos son los trucos que va a usar</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-quiere-ser-tan-adictiva-como-netflix-1396196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/disney-plus-quieres-ser-tan-adictiva-como-netflix-estos-son-trucos-va-usar-3750388.jpg?tf=1200x' alt='Disney+ quiere ser tan adictiva como Netflix: estos son los trucos que va a usar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-trasladar-certificado-digital-fnmt-dispositivos-1395981'>Cómo trasladar tu certificado digital de la FNMT entre dispositivos</a></h4>
-    <a href='https://computerhoy.com/internet/como-trasladar-certificado-digital-fnmt-dispositivos-1395981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-trasladar-certificado-digital-fnmt-dispositivos-3743202.jpg?tf=1200x' alt='Cómo trasladar tu certificado digital de la FNMT entre dispositivos' />
     </a>
 </div>
 
