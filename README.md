@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/merece-pena-comprar-cerradura-inteligente-1348106'>¿Merece la pena comprar una cerradura inteligente? Esto es lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/merece-pena-comprar-cerradura-inteligente-1348106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/cerraduras-inteligentes-2088659.jpg?tf=1200x' alt='¿Merece la pena comprar una cerradura inteligente? Esto es lo que debes saber' />
+    <h4><a href='https://computerhoy.com/tecnologia/alternativa-gopro-arrasa-influencers-amazon-vende-rebajada-precio-1396248'>Esta alternativa a las GoPro arrasa entre influencers, y Amazon la vende rebajada de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alternativa-gopro-arrasa-influencers-amazon-vende-rebajada-precio-1396248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/insta360-x3-2958502.jpg?tf=1200x' alt='Esta alternativa a las GoPro arrasa entre influencers, y Amazon la vende rebajada de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/appe-watch-salva-vidas-historia-surfista-pelicula-1395830'>El Appe Watch sí salva vidas y la historia de este surfista es de película</a></h4>
-    <a href='https://computerhoy.com/apple/appe-watch-salva-vidas-historia-surfista-pelicula-1395830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-3291677.jpg?tf=1200x' alt='El Appe Watch sí salva vidas y la historia de este surfista es de película' />
+    <h4><a href='https://computerhoy.com/google/android-auto-punto-integrar-controles-radio-coche-1396234'>Android Auto a punto de integrar los controles de radio del coche </a></h4>
+    <a href='https://computerhoy.com/google/android-auto-punto-integrar-controles-radio-coche-1396234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-puedo-saber-mi-coche-compatible-android-auto-3497636.jpg?tf=1200x' alt='Android Auto a punto de integrar los controles de radio del coche ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cerabyte-nuevo-sistema-almacenamiento-cristal-tan-duradero-como-jeroglificos-1396225'>Cerabyte, el nuevo sistema de almacenamiento en cristal tan duradero como los jeroglíficos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cerabyte-nuevo-sistema-almacenamiento-cristal-tan-duradero-como-jeroglificos-1396225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cerabyte-nuevo-sistema-almacenamiento-cristal-tan-duradero-como-jeroglificos-3753370.jpg?tf=1200x' alt='Cerabyte, el nuevo sistema de almacenamiento en cristal tan duradero como los jeroglíficos' />
+    <h4><a href='https://computerhoy.com/tecnologia/meta-ai-whatsapp-sirve-como-utilizarlo-1395813'>Meta AI de WhatsApp: qué es, para qué sirve y cómo utilizarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-ai-whatsapp-sirve-como-utilizarlo-1395813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/meta-ai-whatsapp-sirve-como-utilizarlo-3737806.jpg?tf=1200x' alt='Meta AI de WhatsApp: qué es, para qué sirve y cómo utilizarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/serie-accion-netflix-no-puedes-perderte-vistas-mundo-1396118'>Esta es la serie de acción de Netflix que no puedes perderte y que es una de las más vistas en el mundo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/serie-accion-netflix-no-puedes-perderte-vistas-mundo-1396118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/vikings-valhalla-2623535.jpg?tf=1200x' alt='Esta es la serie de acción de Netflix que no puedes perderte y que es una de las más vistas en el mundo' />
+    <h4><a href='https://computerhoy.com/tecnologia/scarlett-johansson-sigue-guerra-sam-altman-seria-buen-villano-marvel-1396048'>Scarlett Johansson sigue su guerra contra Sam Altman: “sería un buen villano de Marvel”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/scarlett-johansson-sigue-guerra-sam-altman-seria-buen-villano-marvel-1396048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/scarlett-johansson-3345870.jpg?tf=1200x' alt='Scarlett Johansson sigue su guerra contra Sam Altman: “sería un buen villano de Marvel”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/cosas-gemini-puede-hacer-ti-dia-dia-1393959'>12 cosas que Gemini puede hacer por ti en tu día a día</a></h4>
-    <a href='https://computerhoy.com/apps/cosas-gemini-puede-hacer-ti-dia-dia-1393959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gemini-ai-3651079.jpg?tf=1200x' alt='12 cosas que Gemini puede hacer por ti en tu día a día' />
+    <h4><a href='https://computerhoy.com/ciencia/ver-olimpiadas-tele-beneficioso-salud-ciencia-1395833'>Ver las Olimpiadas en la tele es beneficioso para tu salud, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/ver-olimpiadas-tele-beneficioso-salud-ciencia-1395833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ver-olimpiadas-tele-beneficioso-salud-ciencia-3738095.jpg?tf=1200x' alt='Ver las Olimpiadas en la tele es beneficioso para tu salud, según la ciencia' />
     </a>
 </div>
 
