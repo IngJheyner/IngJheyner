@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-estrena-18-julio-canal-cine-exclusivo-1395889'>Movistar Plus+ estrena el 18 de julio un canal de cine exclusivo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/movistar-plus-estrena-18-julio-canal-cine-exclusivo-1395889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nuevo-canal-movistar-3740181.jpg?tf=1200x' alt='Movistar Plus+ estrena el 18 de julio un canal de cine exclusivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/he-probado-minutos-dyson-ontrac-excelente-cancelacion-ruido-colores-todos-gustos-1396051'>He probado unos minutos los Dyson OnTrac: excelente cancelación de ruido y colores para todos los gustos</a></h4>
+    <a href='https://computerhoy.com/audio/he-probado-minutos-dyson-ontrac-excelente-cancelacion-ruido-colores-todos-gustos-1396051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dyson-ontrac-3747450.jpg?tf=1200x' alt='He probado unos minutos los Dyson OnTrac: excelente cancelación de ruido y colores para todos los gustos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/5-gadgets-enganar-ladrones-verano-instalar-alarma-1395740'>5 gadgets para engañar a los ladrones este verano sin instalar una alarma</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/5-gadgets-enganar-ladrones-verano-instalar-alarma-1395740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gadgets-enganar-ladrones-3734598.jpg?tf=1200x' alt='5 gadgets para engañar a los ladrones este verano sin instalar una alarma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-google-reloj-inteligente-wear-os-rebajado-amazon-1384365'>Xiaomi y Google se alían: este reloj inteligente tiene Wear OS y cientos de aplicaciones a precio de locos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-google-reloj-inteligente-wear-os-rebajado-amazon-1384365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-watch-2-3308442.jpg?tf=1200x' alt='Xiaomi y Google se alían: este reloj inteligente tiene Wear OS y cientos de aplicaciones a precio de locos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/descubre-tinder-plus-ventajas-precios-todo-necesitas-saber-1394566'>Descubre Tinder Plus: ventajas, precios y todo lo que necesitas saber</a></h4>
     <a href='https://computerhoy.com/tecnologia/descubre-tinder-plus-ventajas-precios-todo-necesitas-saber-1394566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tinder-plus-3683576.jpg?tf=1200x' alt='Descubre Tinder Plus: ventajas, precios y todo lo que necesitas saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-patenta-forma-sencilla-emparejar-dos-dispositivos-1396202'>Microsoft patenta la forma más sencilla de emparejar dos dispositivos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-patenta-forma-sencilla-emparejar-dos-dispositivos-1396202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/auriculares-reproduciendo-musica-2341793.jpg?tf=1200x' alt='Microsoft patenta la forma más sencilla de emparejar dos dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/6-caracteristicas-ocultas-windows-deberias-aprovechar-1396200'>6 características ocultas de Windows que deberías aprovechar</a></h4>
-    <a href='https://computerhoy.com/windows/6-caracteristicas-ocultas-windows-deberias-aprovechar-1396200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/6-caracteristicas-ocultas-windows-deberias-aprovechar-3751845.jpg?tf=1200x' alt='6 características ocultas de Windows que deberías aprovechar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-abrir-editor-directivas-grupo-windows-11-windows-10-1396197'>Cómo abrir el Editor de Directivas de Grupo en Windows 11 y Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/como-abrir-editor-directivas-grupo-windows-11-windows-10-1396197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-abrir-editor-directivas-grupo-windows-11-windows-10-3751263.jpg?tf=1200x' alt='Cómo abrir el Editor de Directivas de Grupo en Windows 11 y Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-1396001'>¿Cuánto calor soporta tu Raspberry Pi? Puede que necesite un ventilador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-1396001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-3744057.jpg?tf=1200x' alt='¿Cuánto calor soporta tu Raspberry Pi? Puede que necesite un ventilador' />
     </a>
 </div>
 
