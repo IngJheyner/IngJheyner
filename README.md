@@ -50,17 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-quiere-ser-tan-adictiva-como-netflix-1396196'>Disney+ quiere ser tan adictiva como Netflix: estos son los trucos que va a usar</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-quiere-ser-tan-adictiva-como-netflix-1396196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/disney-plus-quieres-ser-tan-adictiva-como-netflix-estos-son-trucos-va-usar-3750388.jpg?tf=1200x' alt='Disney+ quiere ser tan adictiva como Netflix: estos son los trucos que va a usar' />
+    <h4><a href='https://computerhoy.com/windows/como-abrir-editor-directivas-grupo-windows-11-windows-10-1396197'>Cómo abrir el Editor de Directivas de Grupo en Windows 11 y Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/como-abrir-editor-directivas-grupo-windows-11-windows-10-1396197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-abrir-editor-directivas-grupo-windows-11-windows-10-3751263.jpg?tf=1200x' alt='Cómo abrir el Editor de Directivas de Grupo en Windows 11 y Windows 10' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-1395458'>Google Maps: busca y captura en Japón a la persona que construyó una carretera a ningún sitio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-1395458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-3715099.jpg?tf=1200x' alt='Google Maps: busca y captura en Japón a la persona que construyó una carretera a ningún sitio' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-1396001'>¿Cuánto calor soporta tu Raspberry Pi? Puede que necesite un ventilador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-1396001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-3744057.jpg?tf=1200x' alt='¿Cuánto calor soporta tu Raspberry Pi? Puede que necesite un ventilador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-quiere-ser-tan-adictiva-como-netflix-1396196'>Disney+ quiere ser tan adictiva como Netflix: estos son los trucos que va a usar</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-quiere-ser-tan-adictiva-como-netflix-1396196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/disney-plus-quieres-ser-tan-adictiva-como-netflix-estos-son-trucos-va-usar-3750388.jpg?tf=1200x' alt='Disney+ quiere ser tan adictiva como Netflix: estos son los trucos que va a usar' />
     </a>
 </div>
 
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/strawberry-nuevo-proyecto-openai-promete-ia-razonamiento-avanzado-1395804'>Strawberry: el nuevo proyecto de OpenAI que promete una IA con razonamiento avanzado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/strawberry-nuevo-proyecto-openai-promete-ia-razonamiento-avanzado-1395804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3274436.jpg?tf=1200x' alt='Strawberry: el nuevo proyecto de OpenAI que promete una IA con razonamiento avanzado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-wallet-te-permitira-escanear-guardar-cualquier-documento-1395997'>Google Wallet te permitirá escanear y guardar cualquier documento</a></h4>
-    <a href='https://computerhoy.com/apps/google-wallet-te-permitira-escanear-guardar-cualquier-documento-1395997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-wallet-3136938.jpg?tf=1200x' alt='Google Wallet te permitirá escanear y guardar cualquier documento' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-1395458'>Google Maps: busca y captura en Japón a la persona que construyó una carretera a ningún sitio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-1395458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-3715099.jpg?tf=1200x' alt='Google Maps: busca y captura en Japón a la persona que construyó una carretera a ningún sitio' />
     </a>
 </div>
 
