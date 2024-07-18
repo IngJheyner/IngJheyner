@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-estrena-gpt-4o-mini-ia-1396400'>OpenAI estrena GPT-4o Mini, su IA más ligera y barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-estrena-gpt-4o-mini-ia-1396400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/openai-estrena-gpt-4o-mini-ia-asequible-competir-gemini-flash-3757143.jpg?tf=1200x' alt='OpenAI estrena GPT-4o Mini, su IA más ligera y barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-pone-fin-era-apps-basura-play-store-miles-apps-desapareceran-1396387'>Google pone fin a la era de las apps basura en Play Store: miles de apps desaparecerán</a></h4>
+    <a href='https://computerhoy.com/apps/google-pone-fin-era-apps-basura-play-store-miles-apps-desapareceran-1396387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-pone-fin-era-apps-basura-play-store-miles-apps-desapareceran-3757147.jpg?tf=1200x' alt='Google pone fin a la era de las apps basura en Play Store: miles de apps desaparecerán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-godzilla-ni-kong-pelicula-monstruos-elogiada-critica-amazon-prime-video-1395683'>Ni Godzilla ni Kong: la película de monstruos más elogiada por la crítica está en Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-godzilla-ni-kong-pelicula-monstruos-elogiada-critica-amazon-prime-video-1395683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-godzilla-ni-kong-pelicula-monstruos-elogiada-critica-amazon-prime-video-3732688.jpg?tf=1200x' alt='Ni Godzilla ni Kong: la película de monstruos más elogiada por la crítica está en Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-no-quiere-google-translate-usara-propia-tecnologia-traducir-chats-instante-1396390'>WhatsApp no quiere Google Translate: usará su propia tecnología para traducir los chats al instante</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-no-quiere-google-translate-usara-propia-tecnologia-traducir-chats-instante-1396390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-idiomas-2796581.jpg?tf=1200x' alt='WhatsApp no quiere Google Translate: usará su propia tecnología para traducir los chats al instante' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/erupciones-solares-causan-apagones-radio-tierra-afectando-comunicaciones-globales-1396389'>Erupciones solares causan apagones de radio en la Tierra afectando a las comunicaciones globales</a></h4>
     <a href='https://computerhoy.com/life/erupciones-solares-causan-apagones-radio-tierra-afectando-comunicaciones-globales-1396389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamaradas-solares-3756862.jpg?tf=1200x' alt='Erupciones solares causan apagones de radio en la Tierra afectando a las comunicaciones globales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-ya-vigila-empleados-no-buena-idea-revela-estudio-1395858'>La IA ya vigila a los empleados, y no es una buena idea, revela un estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-ya-vigila-empleados-no-buena-idea-revela-estudio-1395858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ia-ya-vigila-empleados-no-buena-idea-revela-estudio-3739510.jpg?tf=1200x' alt='La IA ya vigila a los empleados, y no es una buena idea, revela un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-campana-malware-facebook-roba-informacion-secuestra-cuentas-1396388'>Nueva campaña de malware en Facebook roba información y secuestra cuentas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nueva-campana-malware-facebook-roba-informacion-secuestra-cuentas-1396388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/malware-facebook-3756861.jpg?tf=1200x' alt='Nueva campaña de malware en Facebook roba información y secuestra cuentas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/citadel-diana-amazon-prime-video-confirma-fecha-lanzamiento-primeros-detalles-1396325'>Citadel Diana: Amazon Prime Video confirma su fecha de lanzamiento y primeros detalles</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/citadel-diana-amazon-prime-video-confirma-fecha-lanzamiento-primeros-detalles-1396325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/citadel-diana-amazon-prime-video-confirma-fecha-lanzamiento-primeros-detalles-3755023.jpg?tf=1200x' alt='Citadel Diana: Amazon Prime Video confirma su fecha de lanzamiento y primeros detalles' />
     </a>
 </div>
 
