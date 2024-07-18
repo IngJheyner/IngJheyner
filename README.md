@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/nuevos-cambios-tdt-gobierno-propone-sacar-subasta-canal-tv-abierto-1396263'>Nuevos cambios en la TDT: el Gobierno propone sacar a subasta un canal de TV en abierto</a></h4>
-    <a href='https://computerhoy.com/tv/nuevos-cambios-tdt-gobierno-propone-sacar-subasta-canal-tv-abierto-1396263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nuevo-canal-tdt-3754076.jpg?tf=1200x' alt='Nuevos cambios en la TDT: el Gobierno propone sacar a subasta un canal de TV en abierto' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-devora-memoria-movil-solamente-tienes-activar-ajuste-1395864'>¿WhatsApp devora la memoria de tu móvil? Solamente tienes que activar este ajuste</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-devora-memoria-movil-solamente-tienes-activar-ajuste-1395864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-almacenamiento-3739667.jpg?tf=1200x' alt='¿WhatsApp devora la memoria de tu móvil? Solamente tienes que activar este ajuste' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/amd-intel-como-elegir-procesador-portatil-1340478'>¿Intel o AMD? Qué tipo de procesador debes elegir al comprar un portátil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/amd-intel-como-elegir-procesador-portatil-1340478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tipo-procesador-debes-fijarte-antes-comprar-portatil-trabajar-estudiar-3231474.jpg?tf=1200x' alt='¿Intel o AMD? Qué tipo de procesador debes elegir al comprar un portátil' />
+    <h4><a href='https://computerhoy.com/tutoriales/significan-fantasmas-waze-todos-simbolos-1395847'>Qué significan los fantasmas en Waze y todos sus símbolos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/significan-fantasmas-waze-todos-simbolos-1395847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/waze-3739516.jpg?tf=1200x' alt='Qué significan los fantasmas en Waze y todos sus símbolos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-124-ya-aqui-descubre-cambios-como-instalarlo-1395842'>Android Auto 12.4 ya está aquí: descubre los cambios y cómo instalarlo</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-124-ya-aqui-descubre-cambios-como-instalarlo-1395842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-124-ya-aqui-descubre-cambios-como-instalarlo-3739135.jpg?tf=1200x' alt='Android Auto 12.4 ya está aquí: descubre los cambios y cómo instalarlo' />
+    <h4><a href='https://computerhoy.com/ciencia/nuevo-material-inspirado-anguilas-electricas-permite-crear-baterias-flexibles-1396242'>Un nuevo material inspirado en las anguilas eléctricas permite crear baterías flexibles</a></h4>
+    <a href='https://computerhoy.com/ciencia/nuevo-material-inspirado-anguilas-electricas-permite-crear-baterias-flexibles-1396242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nuevo-material-inspirado-anguilas-electricas-permite-crear-baterias-flexibles-3753597.jpg?tf=1200x' alt='Un nuevo material inspirado en las anguilas eléctricas permite crear baterías flexibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuales-son-riesgos-tiene-ia-generativa-1396014'>¿Cuáles son los riesgos que tiene la IA generativa?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuales-son-riesgos-tiene-ia-generativa-1396014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuales-son-riesgos-tiene-ia-generativa-3745687.jpg?tf=1200x' alt='¿Cuáles son los riesgos que tiene la IA generativa?' />
+    <h4><a href='https://computerhoy.com/tecnologia/potencia-jamas-vista-proximo-gran-paso-chatbots-como-chatgpt-1396249'>Una potencia jamás vista: este es el próximo gran paso en chatbots como ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/potencia-jamas-vista-proximo-gran-paso-chatbots-como-chatgpt-1396249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-3409409.jpg?tf=1200x' alt='Una potencia jamás vista: este es el próximo gran paso en chatbots como ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/edad-recomendable-dar-nino-primer-movil-expertos-1396045'>A qué edad es recomendable dar a un niño su primer móvil, según los expertos</a></h4>
-    <a href='https://computerhoy.com/moviles/edad-recomendable-dar-nino-primer-movil-expertos-1396045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/moviles-ninos-colegio-3251796.jpg?tf=1200x' alt='A qué edad es recomendable dar a un niño su primer móvil, según los expertos' />
+    <h4><a href='https://computerhoy.com/apple/conoce-todos-productos-apple-presentara-otono-1395850'>Conoce todos los productos que Apple presentará este otoño</a></h4>
+    <a href='https://computerhoy.com/apple/conoce-todos-productos-apple-presentara-otono-1395850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nuevos-productos-apple-3739515.jpg?tf=1200x' alt='Conoce todos los productos que Apple presentará este otoño' />
     </a>
 </div>
 
