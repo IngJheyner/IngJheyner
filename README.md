@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-oscuro-google-chrome-1395814'>Cómo hacer que Google Chrome muestra todas las páginas en modo oscuro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-modo-oscuro-google-chrome-1395814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/modo-oscuro-google-chrome-3740782.jpg?tf=1200x' alt='Cómo hacer que Google Chrome muestra todas las páginas en modo oscuro' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/merece-pena-comprar-cerradura-inteligente-1348106'>¿Merece la pena comprar una cerradura inteligente? Esto es lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/merece-pena-comprar-cerradura-inteligente-1348106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/cerraduras-inteligentes-2088659.jpg?tf=1200x' alt='¿Merece la pena comprar una cerradura inteligente? Esto es lo que debes saber' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/cuales-son-mejores-productos-limpiar-pantalla-smart-tv-portatil-danarla-1396047'>Cuáles son los mejores productos para limpiar la pantalla de un Smart TV o portátil sin dañarla</a></h4>
-    <a href='https://computerhoy.com/tutoriales/cuales-son-mejores-productos-limpiar-pantalla-smart-tv-portatil-danarla-1396047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/como-hay-limpiar-pantalla-televisor-no-estropee-expertos-good-housekeeping-institute-2447591.jpg?tf=1200x' alt='Cuáles son los mejores productos para limpiar la pantalla de un Smart TV o portátil sin dañarla' />
+    <h4><a href='https://computerhoy.com/apple/appe-watch-salva-vidas-historia-surfista-pelicula-1395830'>El Appe Watch sí salva vidas y la historia de este surfista es de película</a></h4>
+    <a href='https://computerhoy.com/apple/appe-watch-salva-vidas-historia-surfista-pelicula-1395830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-3291677.jpg?tf=1200x' alt='El Appe Watch sí salva vidas y la historia de este surfista es de película' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mejor-refrigeracion-liquida-ventilador-1395291'>¿Qué es mejor la refrigeración líquida o un ventilador?</a></h4>
-    <a href='https://computerhoy.com/pc/mejor-refrigeracion-liquida-ventilador-1395291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/refrigeracion-liquida-aire-3708950.jpg?tf=1200x' alt='¿Qué es mejor la refrigeración líquida o un ventilador?' />
+    <h4><a href='https://computerhoy.com/tecnologia/cerabyte-nuevo-sistema-almacenamiento-cristal-tan-duradero-como-jeroglificos-1396225'>Cerabyte, el nuevo sistema de almacenamiento en cristal tan duradero como los jeroglíficos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cerabyte-nuevo-sistema-almacenamiento-cristal-tan-duradero-como-jeroglificos-1396225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cerabyte-nuevo-sistema-almacenamiento-cristal-tan-duradero-como-jeroglificos-3753370.jpg?tf=1200x' alt='Cerabyte, el nuevo sistema de almacenamiento en cristal tan duradero como los jeroglíficos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-espacio-ps5-trucos-desbloquear-almacenamiento-1387499'>Cómo liberar espacio en tu PS5: 5 trucos infalibles para desbloquear almacenamiento en tu consola</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-liberar-espacio-ps5-trucos-desbloquear-almacenamiento-1387499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ps5-playstation-5-3128532.jpg?tf=1200x' alt='Cómo liberar espacio en tu PS5: 5 trucos infalibles para desbloquear almacenamiento en tu consola' />
+    <h4><a href='https://computerhoy.com/entretenimiento/serie-accion-netflix-no-puedes-perderte-vistas-mundo-1396118'>Esta es la serie de acción de Netflix que no puedes perderte y que es una de las más vistas en el mundo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/serie-accion-netflix-no-puedes-perderte-vistas-mundo-1396118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/vikings-valhalla-2623535.jpg?tf=1200x' alt='Esta es la serie de acción de Netflix que no puedes perderte y que es una de las más vistas en el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/motorola-razr-50-ultra-mejor-plegable-tipo-concha-analisis-opinion-1395619'>Con dos semanas me bastan: Motorola Razr 50 Ultra es el mejor plegable tipo concha que he probado</a></h4>
-    <a href='https://computerhoy.com/analisis/motorola-razr-50-ultra-mejor-plegable-tipo-concha-analisis-opinion-1395619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/motorola-razr-50-ultra-3733156.jpg?tf=1200x' alt='Con dos semanas me bastan: Motorola Razr 50 Ultra es el mejor plegable tipo concha que he probado' />
+    <h4><a href='https://computerhoy.com/apps/cosas-gemini-puede-hacer-ti-dia-dia-1393959'>12 cosas que Gemini puede hacer por ti en tu día a día</a></h4>
+    <a href='https://computerhoy.com/apps/cosas-gemini-puede-hacer-ti-dia-dia-1393959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gemini-ai-3651079.jpg?tf=1200x' alt='12 cosas que Gemini puede hacer por ti en tu día a día' />
     </a>
 </div>
 
