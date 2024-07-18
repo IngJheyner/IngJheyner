@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/descubre-tinder-plus-ventajas-precios-todo-necesitas-saber-1394566'>Descubre Tinder Plus: ventajas, precios y todo lo que necesitas saber</a></h4>
+    <a href='https://computerhoy.com/tecnologia/descubre-tinder-plus-ventajas-precios-todo-necesitas-saber-1394566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tinder-plus-3683576.jpg?tf=1200x' alt='Descubre Tinder Plus: ventajas, precios y todo lo que necesitas saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-patenta-forma-sencilla-emparejar-dos-dispositivos-1396202'>Microsoft patenta la forma más sencilla de emparejar dos dispositivos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-patenta-forma-sencilla-emparejar-dos-dispositivos-1396202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/auriculares-reproduciendo-musica-2341793.jpg?tf=1200x' alt='Microsoft patenta la forma más sencilla de emparejar dos dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/6-caracteristicas-ocultas-windows-deberias-aprovechar-1396200'>6 características ocultas de Windows que deberías aprovechar</a></h4>
     <a href='https://computerhoy.com/windows/6-caracteristicas-ocultas-windows-deberias-aprovechar-1396200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/6-caracteristicas-ocultas-windows-deberias-aprovechar-3751845.jpg?tf=1200x' alt='6 características ocultas de Windows que deberías aprovechar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-1396001'>¿Cuánto calor soporta tu Raspberry Pi? Puede que necesite un ventilador</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-1396001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuanto-calor-soporta-raspberry-pi-puede-necesite-ventilador-3744057.jpg?tf=1200x' alt='¿Cuánto calor soporta tu Raspberry Pi? Puede que necesite un ventilador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-quiere-ser-tan-adictiva-como-netflix-1396196'>Disney+ quiere ser tan adictiva como Netflix: estos son los trucos que va a usar</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-quiere-ser-tan-adictiva-como-netflix-1396196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/disney-plus-quieres-ser-tan-adictiva-como-netflix-estos-son-trucos-va-usar-3750388.jpg?tf=1200x' alt='Disney+ quiere ser tan adictiva como Netflix: estos son los trucos que va a usar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-1395458'>Google Maps: busca y captura en Japón a la persona que construyó una carretera a ningún sitio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-1395458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-busca-captura-japon-persona-construyo-carretera-ningun-sitio-3715099.jpg?tf=1200x' alt='Google Maps: busca y captura en Japón a la persona que construyó una carretera a ningún sitio' />
     </a>
 </div>
 
