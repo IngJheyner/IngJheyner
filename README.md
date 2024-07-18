@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-devora-memoria-movil-solamente-tienes-activar-ajuste-1395864'>¿WhatsApp devora la memoria de tu móvil? Solamente tienes que activar este ajuste</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-devora-memoria-movil-solamente-tienes-activar-ajuste-1395864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-almacenamiento-3739667.jpg?tf=1200x' alt='¿WhatsApp devora la memoria de tu móvil? Solamente tienes que activar este ajuste' />
+    <h4><a href='https://computerhoy.com/apps/fiable-comprar-temu-opiniones-evitar-estafas-1395950'>¿Es fiable comprar en TEMU? Opiniones y en qué debes fijarte para evitar estafas</a></h4>
+    <a href='https://computerhoy.com/apps/fiable-comprar-temu-opiniones-evitar-estafas-1395950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/comprar-temu-3741396.jpg?tf=1200x' alt='¿Es fiable comprar en TEMU? Opiniones y en qué debes fijarte para evitar estafas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/significan-fantasmas-waze-todos-simbolos-1395847'>Qué significan los fantasmas en Waze y todos sus símbolos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/significan-fantasmas-waze-todos-simbolos-1395847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/waze-3739516.jpg?tf=1200x' alt='Qué significan los fantasmas en Waze y todos sus símbolos' />
+    <h4><a href='https://computerhoy.com/tecnologia/buenas-noticias-chatgpt-te-puede-ayudar-encontrar-amor-atestigua-estudio-1396271'>¡Buenas noticias! ChatGPT te puede ayudar a encontrar el amor, así lo atestigua un estudio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/buenas-noticias-chatgpt-te-puede-ayudar-encontrar-amor-atestigua-estudio-1396271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-encontrar-amor-3754221.jpg?tf=1200x' alt='¡Buenas noticias! ChatGPT te puede ayudar a encontrar el amor, así lo atestigua un estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nuevo-material-inspirado-anguilas-electricas-permite-crear-baterias-flexibles-1396242'>Un nuevo material inspirado en las anguilas eléctricas permite crear baterías flexibles</a></h4>
-    <a href='https://computerhoy.com/ciencia/nuevo-material-inspirado-anguilas-electricas-permite-crear-baterias-flexibles-1396242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nuevo-material-inspirado-anguilas-electricas-permite-crear-baterias-flexibles-3753597.jpg?tf=1200x' alt='Un nuevo material inspirado en las anguilas eléctricas permite crear baterías flexibles' />
+    <h4><a href='https://computerhoy.com/ciencia/telescopio-james-webb-revela-exoplaneta-unas-condiciones-insolitas-1396255'>El telescopio James Webb revela un exoplaneta con unas condiciones insólitas</a></h4>
+    <a href='https://computerhoy.com/ciencia/telescopio-james-webb-revela-exoplaneta-unas-condiciones-insolitas-1396255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/telescopio-james-webb-revela-exoplaneta-unas-condiciones-insolitas-3753766.jpg?tf=1200x' alt='El telescopio James Webb revela un exoplaneta con unas condiciones insólitas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/potencia-jamas-vista-proximo-gran-paso-chatbots-como-chatgpt-1396249'>Una potencia jamás vista: este es el próximo gran paso en chatbots como ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/potencia-jamas-vista-proximo-gran-paso-chatbots-como-chatgpt-1396249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-3409409.jpg?tf=1200x' alt='Una potencia jamás vista: este es el próximo gran paso en chatbots como ChatGPT' />
+    <h4><a href='https://computerhoy.com/tecnologia/10-ofertas-siguen-amazon-pasado-prime-day-merecen-muchisimo-pena-1396252'>10 ofertas que siguen en Amazon pasado el Prime Day y que merecen muchísimo la pena</a></h4>
+    <a href='https://computerhoy.com/tecnologia/10-ofertas-siguen-amazon-pasado-prime-day-merecen-muchisimo-pena-1396252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/caja-amazon-3753139.jpg?tf=1200x' alt='10 ofertas que siguen en Amazon pasado el Prime Day y que merecen muchísimo la pena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/conoce-todos-productos-apple-presentara-otono-1395850'>Conoce todos los productos que Apple presentará este otoño</a></h4>
-    <a href='https://computerhoy.com/apple/conoce-todos-productos-apple-presentara-otono-1395850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nuevos-productos-apple-3739515.jpg?tf=1200x' alt='Conoce todos los productos que Apple presentará este otoño' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-desconocidas-diferentes-muy-sorprendentes-puedes-ver-netflix-1394719'>10 películas de ciencia ficción desconocidas, diferentes y muy sorprendentes que puedes ver en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-desconocidas-diferentes-muy-sorprendentes-puedes-ver-netflix-1394719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-peliculas-3691104.jpg?tf=1200x' alt='10 películas de ciencia ficción desconocidas, diferentes y muy sorprendentes que puedes ver en Netflix' />
     </a>
 </div>
 
