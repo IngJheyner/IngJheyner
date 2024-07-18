@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-campana-malware-facebook-roba-informacion-secuestra-cuentas-1396388'>Nueva campaña de malware en Facebook roba información y secuestra cuentas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nueva-campana-malware-facebook-roba-informacion-secuestra-cuentas-1396388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/malware-facebook-3756861.jpg?tf=1200x' alt='Nueva campaña de malware en Facebook roba información y secuestra cuentas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/citadel-diana-amazon-prime-video-confirma-fecha-lanzamiento-primeros-detalles-1396325'>Citadel Diana: Amazon Prime Video confirma su fecha de lanzamiento y primeros detalles</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/citadel-diana-amazon-prime-video-confirma-fecha-lanzamiento-primeros-detalles-1396325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/citadel-diana-amazon-prime-video-confirma-fecha-lanzamiento-primeros-detalles-3755023.jpg?tf=1200x' alt='Citadel Diana: Amazon Prime Video confirma su fecha de lanzamiento y primeros detalles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aniversario-mediamarkt-estas-son-ofertas-top-acaban-manana-1396310'>Aniversario de MediaMarkt: estas son las ofertas más top, y acaban mañana</a></h4>
     <a href='https://computerhoy.com/tecnologia/aniversario-mediamarkt-estas-son-ofertas-top-acaban-manana-1396310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mediamarkt-3756129.jpg?tf=1200x' alt='Aniversario de MediaMarkt: estas son las ofertas más top, y acaban mañana' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/apple-advierte-usuarios-iphone-dejad-usar-google-chrome-1396272'>Apple advierte a los usuarios de iPhone: "Dejad de usar Google Chrome"</a></h4>
     <a href='https://computerhoy.com/tecnologia/apple-advierte-usuarios-iphone-dejad-usar-google-chrome-1396272' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-chrome-3755977.jpg?tf=1200x' alt='Apple advierte a los usuarios de iPhone: "Dejad de usar Google Chrome"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pasas-mucho-tiempo-delante-pantalla-podria-afectar-comes-estudio-1395013'>¿Pasas mucho tiempo delante de la pantalla? Así podría afectar en lo que comes, según un estudio</a></h4>
-    <a href='https://computerhoy.com/life/pasas-mucho-tiempo-delante-pantalla-podria-afectar-comes-estudio-1395013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pasas-mucho-tiempo-delante-pantalla-podria-afectar-comes-estudio-3698674.jpg?tf=1200x' alt='¿Pasas mucho tiempo delante de la pantalla? Así podría afectar en lo que comes, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/alternativa-gratuita-spotify-app-podras-escuchar-musica-ilimitada-streaming-1396296'>La alternativa gratuita a Spotify: con esta app podrás escuchar música ilimitada en streaming</a></h4>
-    <a href='https://computerhoy.com/tutoriales/alternativa-gratuita-spotify-app-podras-escuchar-musica-ilimitada-streaming-1396296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rimusic-3754867.jpg?tf=1200x' alt='La alternativa gratuita a Spotify: con esta app podrás escuchar música ilimitada en streaming' />
     </a>
 </div>
 
