@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/herramientas-gratuitas-uso-menudo-editar-imagenes-ia-1339100'>Cómo editar imágenes con IA: las herramientas gratuitas que uso a menudo</a></h4>
+    <a href='https://computerhoy.com/apps/herramientas-gratuitas-uso-menudo-editar-imagenes-ia-1339100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/herramientas-gratuitas-edicion-imagenes-fotografias-ia-3230376.jpg?tf=1200x' alt='Cómo editar imágenes con IA: las herramientas gratuitas que uso a menudo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-advierte-usuarios-iphone-dejad-usar-google-chrome-1396272'>Apple advierte a los usuarios de iPhone: "Dejad de usar Google Chrome"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-advierte-usuarios-iphone-dejad-usar-google-chrome-1396272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-chrome-3755977.jpg?tf=1200x' alt='Apple advierte a los usuarios de iPhone: "Dejad de usar Google Chrome"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/pasas-mucho-tiempo-delante-pantalla-podria-afectar-comes-estudio-1395013'>¿Pasas mucho tiempo delante de la pantalla? Así podría afectar en lo que comes, según un estudio</a></h4>
+    <a href='https://computerhoy.com/life/pasas-mucho-tiempo-delante-pantalla-podria-afectar-comes-estudio-1395013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pasas-mucho-tiempo-delante-pantalla-podria-afectar-comes-estudio-3698674.jpg?tf=1200x' alt='¿Pasas mucho tiempo delante de la pantalla? Así podría afectar en lo que comes, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/alternativa-gratuita-spotify-app-podras-escuchar-musica-ilimitada-streaming-1396296'>La alternativa gratuita a Spotify: con esta app podrás escuchar música ilimitada en streaming</a></h4>
     <a href='https://computerhoy.com/tutoriales/alternativa-gratuita-spotify-app-podras-escuchar-musica-ilimitada-streaming-1396296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rimusic-3754867.jpg?tf=1200x' alt='La alternativa gratuita a Spotify: con esta app podrás escuchar música ilimitada en streaming' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/abre-nuevo-camino-comunicacion-espacio-tierra-1396336'>Se abre un nuevo camino en la comunicación entre el espacio y la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/abre-nuevo-camino-comunicacion-espacio-tierra-1396336' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/camion-ha-captado-senal-infrarroja-enviada-satelite-orbita-3755285.jpg?tf=1200x' alt='Se abre un nuevo camino en la comunicación entre el espacio y la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/genera-propia-energia-bateria-solar-viene-propios-paneles-apenas-300-euros-1396267'>Genera tu propia energía con esta batería solar que viene con sus propios paneles, y por apenas 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/genera-propia-energia-bateria-solar-viene-propios-paneles-apenas-300-euros-1396267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/allpowers-r600-3234326.jpg?tf=1200x' alt='Genera tu propia energía con esta batería solar que viene con sus propios paneles, y por apenas 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-prepara-acabar-estacion-espacial-internacional-pero-necesita-spacex-1396299'>La NASA pone fecha límite a la Estación Espacial Internacional: Space X, tendrá un papel importante</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-prepara-acabar-estacion-espacial-internacional-pero-necesita-spacex-1396299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-prepara-acabar-estacion-espacial-internacional-pero-necesita-spacex-3754699.jpg?tf=1200x' alt='La NASA pone fecha límite a la Estación Espacial Internacional: Space X, tendrá un papel importante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/spotify-amazon-music-deezer-alerta-youtube-vitamina-funciones-rivales-1396250'>Spotify, Amazon Music y Deezer en alerta: Youtube se vitamina con funciones de sus rivales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/spotify-amazon-music-deezer-alerta-youtube-vitamina-funciones-rivales-1396250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/youtube-music-3753922.jpg?tf=1200x' alt='Spotify, Amazon Music y Deezer en alerta: Youtube se vitamina con funciones de sus rivales' />
     </a>
 </div>
 
