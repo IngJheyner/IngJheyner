@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-premium-precio-barato-aliexpress-1346778'>Este smartwatch parece mucho más caro de lo que es: AliExpress lo está liquidando por 23 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-premium-precio-barato-aliexpress-1346778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zeblade-ares-3-pro-3243542.jpg?tf=1200x' alt='Este smartwatch parece mucho más caro de lo que es: AliExpress lo está liquidando por 23 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-actualiza-5-nuevas-funciones-deberias-utilizar-ahora-mismo-1396358'>Google Maps se actualiza con 5 nuevas funciones que deberías utilizar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-actualiza-5-nuevas-funciones-deberias-utilizar-ahora-mismo-1396358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-actualiza-5-nuevas-funciones-deberias-utilizar-ahora-mismo-3756425.jpg?tf=1200x' alt='Google Maps se actualiza con 5 nuevas funciones que deberías utilizar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-z-fold-6-autentico-deja-vu-nuevo-diseno-1396096'>Samsung Galaxy Z Fold 6 es un auténtico déjà vu con un nuevo diseño</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-z-fold-6-autentico-deja-vu-nuevo-diseno-1396096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-fold-6-3755643.jpg?tf=1200x' alt='Samsung Galaxy Z Fold 6 es un auténtico déjà vu con un nuevo diseño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fondo-mar-datos-seguros-microsoft-demuestra-efectividad-almacenamiento-submarino-1396269'>¡Al fondo del mar, tus datos más seguros! Microsoft demuestra la efectividad del almacenamiento submarino</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fondo-mar-datos-seguros-microsoft-demuestra-efectividad-almacenamiento-submarino-1396269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fondo-mar-datos-seguros-microsoft-demuestra-efectividad-almacenamiento-submarino-3754073.jpg?tf=1200x' alt='¡Al fondo del mar, tus datos más seguros! Microsoft demuestra la efectividad del almacenamiento submarino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-cambia-forma-actualizar-windows-11-1396412'>Microsoft cambia la forma de actualizar Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-cambia-forma-actualizar-windows-11-1396412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-cambia-forma-vamos-actualizar-windows-11-3759520.jpg?tf=1200x' alt='Microsoft cambia la forma de actualizar Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-oferta-movil-5g-pantalla-amoled-1317024'>Xiaomi hunde el precio de su móvil 5G con AMOLED más vendido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-oferta-movil-5g-pantalla-amoled-1317024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-note-13-pro-5g-3283385.jpg?tf=1200x' alt='Xiaomi hunde el precio de su móvil 5G con AMOLED más vendido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/notas-reels-feed-instagram-1396408'>Llegan las Notas a los Reels y Feed de Instagram</a></h4>
-    <a href='https://computerhoy.com/redes/notas-reels-feed-instagram-1396408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llegan-notas-rapidas-reel-feed-instagram-3757989.jpg?tf=1200x' alt='Llegan las Notas a los Reels y Feed de Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/electrodomestico-asesino-silencioso-cocina-causa-miles-muertes-cada-ano-1396401'>Este electrodoméstico es un asesino silencioso, está en tu cocina y causa miles de muertes al año</a></h4>
-    <a href='https://computerhoy.com/hogar/electrodomestico-asesino-silencioso-cocina-causa-miles-muertes-cada-ano-1396401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cama-hospital-3757988.jpg?tf=1200x' alt='Este electrodoméstico es un asesino silencioso, está en tu cocina y causa miles de muertes al año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-video-oficial-pixel-9-pro-1396404'>Google se cansa de las filtraciones y lanza un vídeo revelando el Pixel 9 Pro</a></h4>
-    <a href='https://computerhoy.com/google/google-video-oficial-pixel-9-pro-1396404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1721334036004-3757571.jpg?tf=1200x' alt='Google se cansa de las filtraciones y lanza un vídeo revelando el Pixel 9 Pro' />
     </a>
 </div>
 
