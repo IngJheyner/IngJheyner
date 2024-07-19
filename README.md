@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/herramientas-cellebrite-fallan-iphones-ios-174-pero-mayoria-moviles-android-son-vulnerables-1396586'>Herramientas de Cellebrite fallan en iPhones con iOS 17.4, pero la mayoría de los móviles Android son vulnerables</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/herramientas-cellebrite-fallan-iphones-ios-174-pero-mayoria-moviles-android-son-vulnerables-1396586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/contrasena-iphone-3669717.jpg?tf=1200x' alt='Herramientas de Cellebrite fallan en iPhones con iOS 17.4, pero la mayoría de los móviles Android son vulnerables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/halo-cancelada-fallout-arrasa-emmy-1396584'>Halo cancelada, Fallout arrasa en los Emmy: cara y cruz de las series basadas en videojuegos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/halo-cancelada-fallout-arrasa-emmy-1396584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/halo-serie-2971020.jpg?tf=1200x' alt='Halo cancelada, Fallout arrasa en los Emmy: cara y cruz de las series basadas en videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tinder-utilizara-ia-ayudarte-elegir-mejores-fotos-conseguir-matches-1396583'>Tinder utilizará IA para ayudarte a elegir las mejores fotos y conseguir más matches</a></h4>
+    <a href='https://computerhoy.com/apps/tinder-utilizara-ia-ayudarte-elegir-mejores-fotos-conseguir-matches-1396583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tinder-3764004.jpg?tf=1200x' alt='Tinder utilizará IA para ayudarte a elegir las mejores fotos y conseguir más matches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/no-comprobar-configuracion-wifi-como-dejar-puerta-entrada-abierta-piratas-informaticos-1396576'>No comprobar esta configuración de WiFi es como dejar la puerta de entrada abierta para los piratas informáticos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/no-comprobar-configuracion-wifi-como-dejar-puerta-entrada-abierta-piratas-informaticos-1396576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-comprobar-configuracion-wifi-como-dejar-puerta-entrada-abierta-piratas-informaticos-3763715.jpg?tf=1200x' alt='No comprobar esta configuración de WiFi es como dejar la puerta de entrada abierta para los piratas informáticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/estas-son-razones-algunas-personas-tienen-suerte-otras-1396582'>Estas son las razones por las que algunas personas tienen más suerte que otras</a></h4>
     <a href='https://computerhoy.com/life/estas-son-razones-algunas-personas-tienen-suerte-otras-1396582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/buena-suerte-3763861.jpg?tf=1200x' alt='Estas son las razones por las que algunas personas tienen más suerte que otras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/puede-humanidad-desaparecer-antes-pasen-100-anos-experto-harvard-piensa-1396464'>¿Puede la humanidad desaparecer antes de que pasen 100 años? Un experto de Harvard piensa que sí</a></h4>
-    <a href='https://computerhoy.com/ciencia/puede-humanidad-desaparecer-antes-pasen-100-anos-experto-harvard-piensa-1396464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puede-humanidad-desaparecer-antes-pasen-100-anos-experto-harvard-piensa-3760862.jpg?tf=1200x' alt='¿Puede la humanidad desaparecer antes de que pasen 100 años? Un experto de Harvard piensa que sí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-estilo-studio-ghibli-nada-tienen-envidiar-totoro-chihiro-1395025'>5 películas estilo Studio Ghibli que nada tienen que envidiar a Totoro o Chihiro</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-estilo-studio-ghibli-nada-tienen-envidiar-totoro-chihiro-1395025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-peliculas-estilo-studio-ghibli-nada-tienen-envidiar-totoro-chihiro-3698981.jpg?tf=1200x' alt='5 películas estilo Studio Ghibli que nada tienen que envidiar a Totoro o Chihiro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/casio-casi-inteligente-resiste-todo-amazon-acaba-rebajar-1396573'>Este Casio es "casi" inteligente y lo resiste todo: Amazon lo acaba de rebajar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/casio-casi-inteligente-resiste-todo-amazon-acaba-rebajar-1396573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/casio-gbd-200-3763400.jpg?tf=1200x' alt='Este Casio es "casi" inteligente y lo resiste todo: Amazon lo acaba de rebajar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-cuenta-gmail-correo-numero-telefono-1342638'>Cómo recuperar una cuenta de Gmail sin correo y sin número de teléfono con éxito</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recuperar-cuenta-gmail-correo-numero-telefono-1342638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-google-3143638.jpg?tf=1200x' alt='Cómo recuperar una cuenta de Gmail sin correo y sin número de teléfono con éxito' />
     </a>
 </div>
 
