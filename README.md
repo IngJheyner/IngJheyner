@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-veraniega-tom-cruise-extrana-todos-tiempos-cumple-25-anos-1396538'>La película veraniega de Tom Cruise más extraña de todos los tiempos cumple 25 años</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-veraniega-tom-cruise-extrana-todos-tiempos-cumple-25-anos-1396538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/eyes-wide-shut-3762312.jpg?tf=1200x' alt='La película veraniega de Tom Cruise más extraña de todos los tiempos cumple 25 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-intenta-vaciarte-cuenta-corriente-siempre-produce-siempre-fines-semana-1396510'>Así es la estafa que intenta vaciarte la cuenta corriente y siempre se produce siempre los fines de semana</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafa-intenta-vaciarte-cuenta-corriente-siempre-produce-siempre-fines-semana-1396510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-intenta-vaciarte-cuenta-corriente-siempre-produce-siempre-fines-semana-3761706.jpg?tf=1200x' alt='Así es la estafa que intenta vaciarte la cuenta corriente y siempre se produce siempre los fines de semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/borra-extensiones-google-chrome-acceden-todos-movimientos-online-1395724'>Si tienes estas extensiones de Google Chrome, bórralas ya porque acceden a todos tus movimientos online</a></h4>
     <a href='https://computerhoy.com/internet/borra-extensiones-google-chrome-acceden-todos-movimientos-online-1395724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Si tienes estas extensiones de Google Chrome, bórralas ya porque acceden a todos tus movimientos online' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/samsung-retira-temporalmente-ventas-galaxy-buds-3-pro-problemas-calidad-1396486'>Samsung retira temporalmente las ventas de Galaxy Buds 3 Pro por problemas de calidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-retira-temporalmente-ventas-galaxy-buds-3-pro-problemas-calidad-1396486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-buds-3-pro-3762006.jpg?tf=1200x' alt='Samsung retira temporalmente las ventas de Galaxy Buds 3 Pro por problemas de calidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fallo-global-microsoft-crowdstrike-cuales-son-empresas-afectadas-como-afecta-espanoles-1396503'>Fallo global de Microsoft y CrowdStrike: cuáles son las empresas afectadas y cómo afecta a los españoles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fallo-global-microsoft-crowdstrike-cuales-son-empresas-afectadas-como-afecta-espanoles-1396503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-crowdstrike-3761866.jpg?tf=1200x' alt='Fallo global de Microsoft y CrowdStrike: cuáles son las empresas afectadas y cómo afecta a los españoles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/pantalla-negro-windows-como-solucionarlo-dar-botonazo-1344462'>Pantalla en negro en Windows: cómo solucionarlo sin tener que dar un "botonazo"</a></h4>
-    <a href='https://computerhoy.com/tutoriales/pantalla-negro-windows-como-solucionarlo-dar-botonazo-1344462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pantalla-negro-windows-como-repararlo-tener-dar-botonazo-3238936.jpg?tf=1200x' alt='Pantalla en negro en Windows: cómo solucionarlo sin tener que dar un "botonazo"' />
     </a>
 </div>
 
