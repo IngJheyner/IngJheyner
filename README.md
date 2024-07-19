@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-casa-dragon-perros-peliculas-series-tambien-han-triunfado-hollywood-1392713'>No solo La casa del dragón: perros de películas y series que también han “triunfado” en Hollywood</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/no-solo-casa-dragon-perros-peliculas-series-tambien-han-triunfado-hollywood-1392713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-solo-casa-dragon-perros-peliculas-series-tambien-han-triunfado-hollywood-3594040.jpg?tf=1200x' alt='No solo La casa del dragón: perros de películas y series que también han “triunfado” en Hollywood' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/herramientas-cellebrite-fallan-iphones-ios-174-pero-mayoria-moviles-android-son-vulnerables-1396586'>Herramientas de Cellebrite fallan en iPhones con iOS 17.4, pero la mayoría de los móviles Android son vulnerables</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/herramientas-cellebrite-fallan-iphones-ios-174-pero-mayoria-moviles-android-son-vulnerables-1396586' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/contrasena-iphone-3669717.jpg?tf=1200x' alt='Herramientas de Cellebrite fallan en iPhones con iOS 17.4, pero la mayoría de los móviles Android son vulnerables' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/no-comprobar-configuracion-wifi-como-dejar-puerta-entrada-abierta-piratas-informaticos-1396576'>No comprobar esta configuración de WiFi es como dejar la puerta de entrada abierta para los piratas informáticos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/no-comprobar-configuracion-wifi-como-dejar-puerta-entrada-abierta-piratas-informaticos-1396576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-comprobar-configuracion-wifi-como-dejar-puerta-entrada-abierta-piratas-informaticos-3763715.jpg?tf=1200x' alt='No comprobar esta configuración de WiFi es como dejar la puerta de entrada abierta para los piratas informáticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-son-razones-algunas-personas-tienen-suerte-otras-1396582'>Estas son las razones por las que algunas personas tienen más suerte que otras</a></h4>
-    <a href='https://computerhoy.com/life/estas-son-razones-algunas-personas-tienen-suerte-otras-1396582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/buena-suerte-3763861.jpg?tf=1200x' alt='Estas son las razones por las que algunas personas tienen más suerte que otras' />
     </a>
 </div>
 
