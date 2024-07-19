@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/sony-jubila-playstation-4-fin-1394545'>Sony anuncia el fin de la PlayStation 4 tras once años: los detalles</a></h4>
+    <a href='https://computerhoy.com/gaming/sony-jubila-playstation-4-fin-1394545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/final-ps4-3683431.jpg?tf=1200x' alt='Sony anuncia el fin de la PlayStation 4 tras once años: los detalles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/clave-red-wifi-vecino-sin-clave-1369817'>Cómo conseguir la clave WiFi de tu vecino (sin pedírsela)</a></h4>
     <a href='https://computerhoy.com/internet/clave-red-wifi-vecino-sin-clave-1369817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/clave-wifi-3711642.jpg?tf=1200x' alt='Cómo conseguir la clave WiFi de tu vecino (sin pedírsela)' />
@@ -58,33 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-673-computer-hoy-1395057'>¡Ya está en tu quiosco el número 673 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-673-computer-hoy-1395057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/computer-hoy-673-3711566.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 673 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-ha-exprimido-500mb-fibra-ahora-cuesta-menos-mitad-1396276'>Es la VPN que ha exprimido mis 500MB de fibra y ahora cuesta menos de la mitad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-ha-exprimido-500mb-fibra-ahora-cuesta-menos-mitad-1396276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordvpn-3285094.jpg?tf=1200x' alt='Es la VPN que ha exprimido mis 500MB de fibra y ahora cuesta menos de la mitad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/te-llaman-cuelgan-debes-hacer-no-caer-estafa-1396314'>¿Te llaman y cuelgan? Esto es lo que debes hacer para no caer en una estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/te-llaman-cuelgan-debes-hacer-no-caer-estafa-1396314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamada-telefono-3756426.jpg?tf=1200x' alt='¿Te llaman y cuelgan? Esto es lo que debes hacer para no caer en una estafa' />
+    <h4><a href='https://computerhoy.com/internet/no-compres-amazon-fire-tv-ver-futbol-podrias-recibir-multa-500-euros-1396380'>No compres un Amazon Fire TV para ver fútbol, podrías recibir una multa de 500 euros</a></h4>
+    <a href='https://computerhoy.com/internet/no-compres-amazon-fire-tv-ver-futbol-podrias-recibir-multa-500-euros-1396380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-compres-amazon-fire-tv-ver-futbol-podrias-recibir-multa-500-euros-3756721.jpg?tf=1200x' alt='No compres un Amazon Fire TV para ver fútbol, podrías recibir una multa de 500 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-premium-precio-barato-aliexpress-1346778'>Este smartwatch parece mucho más caro de lo que es: AliExpress lo está liquidando por 23 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-premium-precio-barato-aliexpress-1346778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zeblade-ares-3-pro-3243542.jpg?tf=1200x' alt='Este smartwatch parece mucho más caro de lo que es: AliExpress lo está liquidando por 23 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-actualiza-5-nuevas-funciones-deberias-utilizar-ahora-mismo-1396358'>Google Maps se actualiza con 5 nuevas funciones que deberías utilizar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-actualiza-5-nuevas-funciones-deberias-utilizar-ahora-mismo-1396358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-actualiza-5-nuevas-funciones-deberias-utilizar-ahora-mismo-3756425.jpg?tf=1200x' alt='Google Maps se actualiza con 5 nuevas funciones que deberías utilizar ahora mismo' />
+    <h4><a href='https://computerhoy.com/moviles/fbi-desbloquea-movil-tirador-trump-40-minutos-menos-mal-era-android-1396434'>El FBI desbloquea el móvil del tirador de Trump en 40 minutos y menos mal que era Android</a></h4>
+    <a href='https://computerhoy.com/moviles/fbi-desbloquea-movil-tirador-trump-40-minutos-menos-mal-era-android-1396434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/donald-trump-3760542.jpg?tf=1200x' alt='El FBI desbloquea el móvil del tirador de Trump en 40 minutos y menos mal que era Android' />
     </a>
 </div>
 
