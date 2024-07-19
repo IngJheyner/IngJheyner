@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/clave-red-wifi-vecino-sin-clave-1369817'>Cómo conseguir la clave WiFi de tu vecino (sin pedírsela)</a></h4>
+    <a href='https://computerhoy.com/internet/clave-red-wifi-vecino-sin-clave-1369817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/clave-wifi-3711642.jpg?tf=1200x' alt='Cómo conseguir la clave WiFi de tu vecino (sin pedírsela)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-673-computer-hoy-1395057'>¡Ya está en tu quiosco el número 673 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-673-computer-hoy-1395057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/computer-hoy-673-3711566.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 673 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/te-llaman-cuelgan-debes-hacer-no-caer-estafa-1396314'>¿Te llaman y cuelgan? Esto es lo que debes hacer para no caer en una estafa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/te-llaman-cuelgan-debes-hacer-no-caer-estafa-1396314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llamada-telefono-3756426.jpg?tf=1200x' alt='¿Te llaman y cuelgan? Esto es lo que debes hacer para no caer en una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/smartwatch-premium-precio-barato-aliexpress-1346778'>Este smartwatch parece mucho más caro de lo que es: AliExpress lo está liquidando por 23 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/smartwatch-premium-precio-barato-aliexpress-1346778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zeblade-ares-3-pro-3243542.jpg?tf=1200x' alt='Este smartwatch parece mucho más caro de lo que es: AliExpress lo está liquidando por 23 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-maps-actualiza-5-nuevas-funciones-deberias-utilizar-ahora-mismo-1396358'>Google Maps se actualiza con 5 nuevas funciones que deberías utilizar ahora mismo</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-actualiza-5-nuevas-funciones-deberias-utilizar-ahora-mismo-1396358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-actualiza-5-nuevas-funciones-deberias-utilizar-ahora-mismo-3756425.jpg?tf=1200x' alt='Google Maps se actualiza con 5 nuevas funciones que deberías utilizar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-z-fold-6-autentico-deja-vu-nuevo-diseno-1396096'>Samsung Galaxy Z Fold 6 es un auténtico déjà vu con un nuevo diseño</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-z-fold-6-autentico-deja-vu-nuevo-diseno-1396096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-fold-6-3755643.jpg?tf=1200x' alt='Samsung Galaxy Z Fold 6 es un auténtico déjà vu con un nuevo diseño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fondo-mar-datos-seguros-microsoft-demuestra-efectividad-almacenamiento-submarino-1396269'>¡Al fondo del mar, tus datos más seguros! Microsoft demuestra la efectividad del almacenamiento submarino</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fondo-mar-datos-seguros-microsoft-demuestra-efectividad-almacenamiento-submarino-1396269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fondo-mar-datos-seguros-microsoft-demuestra-efectividad-almacenamiento-submarino-3754073.jpg?tf=1200x' alt='¡Al fondo del mar, tus datos más seguros! Microsoft demuestra la efectividad del almacenamiento submarino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-cambia-forma-actualizar-windows-11-1396412'>Microsoft cambia la forma de actualizar Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-cambia-forma-actualizar-windows-11-1396412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-cambia-forma-vamos-actualizar-windows-11-3759520.jpg?tf=1200x' alt='Microsoft cambia la forma de actualizar Windows 11' />
     </a>
 </div>
 
