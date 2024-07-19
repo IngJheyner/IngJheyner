@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-problema-pantallazo-azul-windows-crowdstrike-1396564'>Cómo solucionar el problema del pantallazo azul de Windows por el fallo de CrowdStrike</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-solucionar-problema-pantallazo-azul-windows-crowdstrike-1396564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pantallazo-azul-muerte-3762761.jpg?tf=1200x' alt='Cómo solucionar el problema del pantallazo azul de Windows por el fallo de CrowdStrike' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/aviso-banco-espana-pagos-contactless-gesto-no-debes-olvidar-1396304'>El aviso del Banco de España para los pagos con 'contactless': el gesto que no debes olvidar</a></h4>
     <a href='https://computerhoy.com/life/aviso-banco-espana-pagos-contactless-gesto-no-debes-olvidar-1396304' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aviso-banco-espana-pagos-contactless-gesto-no-debes-olvidar-3754870.jpg?tf=1200x' alt='El aviso del Banco de España para los pagos con 'contactless': el gesto que no debes olvidar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/google-maps-agrega-funcion-carplay-todavia-no-ha-llegado-android-auto-1396537'>Google Maps agrega una función para Apple CarPlay que todavía no ha llegado a Android Auto </a></h4>
     <a href='https://computerhoy.com/android/google-maps-agrega-funcion-carplay-todavia-no-ha-llegado-android-auto-1396537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/carplay-tiene-nueva-funcion-android-auto-no-3762310.jpg?tf=1200x' alt='Google Maps agrega una función para Apple CarPlay que todavía no ha llegado a Android Auto ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/dazn-acabar-iptv-procesar-compradores-iptv-antes-posible-1395320'>DAZN tiene claro cómo acabar con las IPTV: "procesar a los compradores de IPTV lo antes posible"</a></h4>
-    <a href='https://computerhoy.com/tv/dazn-acabar-iptv-procesar-compradores-iptv-antes-posible-1395320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/futbol-pirata-leyes-3711391.jpg?tf=1200x' alt='DAZN tiene claro cómo acabar con las IPTV: "procesar a los compradores de IPTV lo antes posible"' />
     </a>
 </div>
 
