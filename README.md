@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-1395417'>Me encanta Google Maps en Android Auto, pero lo he perfeccionado con esta app para detectar radares y ahora es una maravilla</a></h4>
-    <a href='https://computerhoy.com/android/google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-1395417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/me-encanta-google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-3715097.jpg?tf=1200x' alt='Me encanta Google Maps en Android Auto, pero lo he perfeccionado con esta app para detectar radares y ahora es una maravilla' />
+    <h4><a href='https://computerhoy.com/internet/borra-extensiones-google-chrome-acceden-todos-movimientos-online-1395724'>Si tienes estas extensiones de Google Chrome, bórralas ya porque acceden a todos tus movimientos online</a></h4>
+    <a href='https://computerhoy.com/internet/borra-extensiones-google-chrome-acceden-todos-movimientos-online-1395724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Si tienes estas extensiones de Google Chrome, bórralas ya porque acceden a todos tus movimientos online' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fallo-masivo-sistemas-microsoft-afecta-aeropuertos-bancos-nivel-global-1396468'>Caída de los sistemas de Microsoft a nivel global: aeropuertos, bancos y hospitales como grandes afectados</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fallo-masivo-sistemas-microsoft-afecta-aeropuertos-bancos-nivel-global-1396468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crowdstrike-microsoft-caida-global-3761406.jpg?tf=1200x' alt='Caída de los sistemas de Microsoft a nivel global: aeropuertos, bancos y hospitales como grandes afectados' />
+    <h4><a href='https://computerhoy.com/tutoriales/pantalla-negro-windows-como-solucionarlo-dar-botonazo-1344462'>Pantalla en negro en Windows: cómo solucionarlo sin tener que dar un "botonazo"</a></h4>
+    <a href='https://computerhoy.com/tutoriales/pantalla-negro-windows-como-solucionarlo-dar-botonazo-1344462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pantalla-negro-windows-como-repararlo-tener-dar-botonazo-3238936.jpg?tf=1200x' alt='Pantalla en negro en Windows: cómo solucionarlo sin tener que dar un "botonazo"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/sony-jubila-playstation-4-fin-1394545'>Sony anuncia el fin de la PlayStation 4 tras once años: los detalles</a></h4>
-    <a href='https://computerhoy.com/gaming/sony-jubila-playstation-4-fin-1394545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/final-ps4-3683431.jpg?tf=1200x' alt='Sony anuncia el fin de la PlayStation 4 tras once años: los detalles' />
+    <h4><a href='https://computerhoy.com/pc/crowdstrike-responsable-fallo-microsoft-nivel-global-1396494'>Qué es CrowdStrike y por qué es la responsable del fallo de Microsoft a nivel global</a></h4>
+    <a href='https://computerhoy.com/pc/crowdstrike-responsable-fallo-microsoft-nivel-global-1396494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crowdstrike-3761831.jpg?tf=1200x' alt='Qué es CrowdStrike y por qué es la responsable del fallo de Microsoft a nivel global' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/revela-verdadero-rostro-faraon-tutankamon-3300-anos-despues-gracias-tecnologia-3d-1396469'>Se revela el verdadero rostro del faraón Tutankamón 3.300 años después gracias a la tecnología 3D</a></h4>
-    <a href='https://computerhoy.com/ciencia/revela-verdadero-rostro-faraon-tutankamon-3300-anos-despues-gracias-tecnologia-3d-1396469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tutankamon-no-era-tan-atractivo-como-muestran-algunas-recreaciones-estudio-3760888.jpg?tf=1200x' alt='Se revela el verdadero rostro del faraón Tutankamón 3.300 años después gracias a la tecnología 3D' />
+    <h4><a href='https://computerhoy.com/windows/caida-sistemas-microsoft-crowdstrike-puedes-recibir-compensacion-economica-vuelos-afectados-1396502'>Caída de sistemas de Microsoft y CrowdStrike: ¿puedes recibir una compensación económica por los vuelos afectados?</a></h4>
+    <a href='https://computerhoy.com/windows/caida-sistemas-microsoft-crowdstrike-puedes-recibir-compensacion-economica-vuelos-afectados-1396502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-crowdstrike-reclamacion-vuelos-3761707.jpg?tf=1200x' alt='Caída de sistemas de Microsoft y CrowdStrike: ¿puedes recibir una compensación económica por los vuelos afectados?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-garmin-fenix-alternativa-polar-mas-barato-1395586'>Adiós a los Fenix: este reloj Polar le planta cara a Garmin y es mucho más barato ahora en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-garmin-fenix-alternativa-polar-mas-barato-1395586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/polar-grit-x-pro-3285939.jpg?tf=1200x' alt='Adiós a los Fenix: este reloj Polar le planta cara a Garmin y es mucho más barato ahora en Amazon' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuaderno-magico-reutilizable-conecta-internet-cuesta-menos-20-euros-1396328'>Este cuaderno mágico es reutilizable y se conecta a internet: cuesta menos de 20 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuaderno-magico-reutilizable-conecta-internet-cuesta-menos-20-euros-1396328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuaderno-inteligente-elfinbook-smartbook-3755021.jpg?tf=1200x' alt='Este cuaderno mágico es reutilizable y se conecta a internet: cuesta menos de 20 euros' />
     </a>
 </div>
 
