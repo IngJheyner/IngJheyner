@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-maps-agrega-funcion-carplay-todavia-no-ha-llegado-android-auto-1396537'>Google Maps agrega una función para Apple CarPlay que todavía no ha llegado a Android Auto </a></h4>
+    <a href='https://computerhoy.com/android/google-maps-agrega-funcion-carplay-todavia-no-ha-llegado-android-auto-1396537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/carplay-tiene-nueva-funcion-android-auto-no-3762310.jpg?tf=1200x' alt='Google Maps agrega una función para Apple CarPlay que todavía no ha llegado a Android Auto ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/dazn-acabar-iptv-procesar-compradores-iptv-antes-posible-1395320'>DAZN tiene claro cómo acabar con las IPTV: "procesar a los compradores de IPTV lo antes posible"</a></h4>
     <a href='https://computerhoy.com/tv/dazn-acabar-iptv-procesar-compradores-iptv-antes-posible-1395320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/futbol-pirata-leyes-3711391.jpg?tf=1200x' alt='DAZN tiene claro cómo acabar con las IPTV: "procesar a los compradores de IPTV lo antes posible"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/borra-extensiones-google-chrome-acceden-todos-movimientos-online-1395724'>Si tienes estas extensiones de Google Chrome, bórralas ya porque acceden a todos tus movimientos online</a></h4>
     <a href='https://computerhoy.com/internet/borra-extensiones-google-chrome-acceden-todos-movimientos-online-1395724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Si tienes estas extensiones de Google Chrome, bórralas ya porque acceden a todos tus movimientos online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-retira-temporalmente-ventas-galaxy-buds-3-pro-problemas-calidad-1396486'>Samsung retira temporalmente las ventas de Galaxy Buds 3 Pro por problemas de calidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-retira-temporalmente-ventas-galaxy-buds-3-pro-problemas-calidad-1396486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-buds-3-pro-3762006.jpg?tf=1200x' alt='Samsung retira temporalmente las ventas de Galaxy Buds 3 Pro por problemas de calidad' />
     </a>
 </div>
 
