@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/palabras-magicas-desvelan-cuenta-x-bot-1396595'>Las palabras mágicas que desvelan si una cuenta de X es un bot, y lo anulan</a></h4>
+    <a href='https://computerhoy.com/redes/palabras-magicas-desvelan-cuenta-x-bot-1396595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/4-palabras-magicas-desvelan-cuenta-x-bot-anulan-3764300.jpg?tf=1200x' alt='Las palabras mágicas que desvelan si una cuenta de X es un bot, y lo anulan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/no-solo-casa-dragon-perros-peliculas-series-tambien-han-triunfado-hollywood-1392713'>No solo La casa del dragón: perros de películas y series que también han “triunfado” en Hollywood</a></h4>
     <a href='https://computerhoy.com/entretenimiento/no-solo-casa-dragon-perros-peliculas-series-tambien-han-triunfado-hollywood-1392713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-solo-casa-dragon-perros-peliculas-series-tambien-han-triunfado-hollywood-3594040.jpg?tf=1200x' alt='No solo La casa del dragón: perros de películas y series que también han “triunfado” en Hollywood' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/tinder-utilizara-ia-ayudarte-elegir-mejores-fotos-conseguir-matches-1396583'>Tinder utilizará IA para ayudarte a elegir las mejores fotos y conseguir más matches</a></h4>
     <a href='https://computerhoy.com/apps/tinder-utilizara-ia-ayudarte-elegir-mejores-fotos-conseguir-matches-1396583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tinder-3764004.jpg?tf=1200x' alt='Tinder utilizará IA para ayudarte a elegir las mejores fotos y conseguir más matches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/no-comprobar-configuracion-wifi-como-dejar-puerta-entrada-abierta-piratas-informaticos-1396576'>No comprobar esta configuración de WiFi es como dejar la puerta de entrada abierta para los piratas informáticos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/no-comprobar-configuracion-wifi-como-dejar-puerta-entrada-abierta-piratas-informaticos-1396576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-comprobar-configuracion-wifi-como-dejar-puerta-entrada-abierta-piratas-informaticos-3763715.jpg?tf=1200x' alt='No comprobar esta configuración de WiFi es como dejar la puerta de entrada abierta para los piratas informáticos' />
     </a>
 </div>
 
