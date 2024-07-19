@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/dazn-acabar-iptv-procesar-compradores-iptv-antes-posible-1395320'>DAZN tiene claro cómo acabar con las IPTV: "procesar a los compradores de IPTV lo antes posible"</a></h4>
+    <a href='https://computerhoy.com/tv/dazn-acabar-iptv-procesar-compradores-iptv-antes-posible-1395320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/futbol-pirata-leyes-3711391.jpg?tf=1200x' alt='DAZN tiene claro cómo acabar con las IPTV: "procesar a los compradores de IPTV lo antes posible"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/borra-extensiones-google-chrome-acceden-todos-movimientos-online-1395724'>Si tienes estas extensiones de Google Chrome, bórralas ya porque acceden a todos tus movimientos online</a></h4>
     <a href='https://computerhoy.com/internet/borra-extensiones-google-chrome-acceden-todos-movimientos-online-1395724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Si tienes estas extensiones de Google Chrome, bórralas ya porque acceden a todos tus movimientos online' />
@@ -58,33 +66,25 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-retira-temporalmente-ventas-galaxy-buds-3-pro-problemas-calidad-1396486'>Samsung retira temporalmente las ventas de Galaxy Buds 3 Pro por problemas de calidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-retira-temporalmente-ventas-galaxy-buds-3-pro-problemas-calidad-1396486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-buds-3-pro-3762006.jpg?tf=1200x' alt='Samsung retira temporalmente las ventas de Galaxy Buds 3 Pro por problemas de calidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fallo-global-microsoft-crowdstrike-cuales-son-empresas-afectadas-como-afecta-espanoles-1396503'>Fallo global de Microsoft y CrowdStrike: cuáles son las empresas afectadas y cómo afecta a los españoles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fallo-global-microsoft-crowdstrike-cuales-son-empresas-afectadas-como-afecta-espanoles-1396503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-crowdstrike-3761866.jpg?tf=1200x' alt='Fallo global de Microsoft y CrowdStrike: cuáles son las empresas afectadas y cómo afecta a los españoles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/pantalla-negro-windows-como-solucionarlo-dar-botonazo-1344462'>Pantalla en negro en Windows: cómo solucionarlo sin tener que dar un "botonazo"</a></h4>
     <a href='https://computerhoy.com/tutoriales/pantalla-negro-windows-como-solucionarlo-dar-botonazo-1344462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pantalla-negro-windows-como-repararlo-tener-dar-botonazo-3238936.jpg?tf=1200x' alt='Pantalla en negro en Windows: cómo solucionarlo sin tener que dar un "botonazo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/crowdstrike-responsable-fallo-microsoft-nivel-global-1396494'>Qué es CrowdStrike y por qué es la responsable del fallo de Microsoft a nivel global</a></h4>
-    <a href='https://computerhoy.com/pc/crowdstrike-responsable-fallo-microsoft-nivel-global-1396494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crowdstrike-3761831.jpg?tf=1200x' alt='Qué es CrowdStrike y por qué es la responsable del fallo de Microsoft a nivel global' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/caida-sistemas-microsoft-crowdstrike-puedes-recibir-compensacion-economica-vuelos-afectados-1396502'>Caída de sistemas de Microsoft y CrowdStrike: ¿puedes recibir una compensación económica por los vuelos afectados?</a></h4>
-    <a href='https://computerhoy.com/windows/caida-sistemas-microsoft-crowdstrike-puedes-recibir-compensacion-economica-vuelos-afectados-1396502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-crowdstrike-reclamacion-vuelos-3761707.jpg?tf=1200x' alt='Caída de sistemas de Microsoft y CrowdStrike: ¿puedes recibir una compensación económica por los vuelos afectados?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuaderno-magico-reutilizable-conecta-internet-cuesta-menos-20-euros-1396328'>Este cuaderno mágico es reutilizable y se conecta a internet: cuesta menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuaderno-magico-reutilizable-conecta-internet-cuesta-menos-20-euros-1396328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuaderno-inteligente-elfinbook-smartbook-3755021.jpg?tf=1200x' alt='Este cuaderno mágico es reutilizable y se conecta a internet: cuesta menos de 20 euros' />
     </a>
 </div>
 
