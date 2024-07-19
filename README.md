@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-cambia-forma-actualizar-windows-11-1396412'>Microsoft cambia la forma de actualizar Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-cambia-forma-actualizar-windows-11-1396412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-cambia-forma-vamos-actualizar-windows-11-3759520.jpg?tf=1200x' alt='Microsoft cambia la forma de actualizar Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-oferta-movil-5g-pantalla-amoled-1317024'>Xiaomi hunde el precio de su móvil 5G con AMOLED más vendido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-oferta-movil-5g-pantalla-amoled-1317024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-note-13-pro-5g-3283385.jpg?tf=1200x' alt='Xiaomi hunde el precio de su móvil 5G con AMOLED más vendido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/notas-reels-feed-instagram-1396408'>Llegan las Notas a los Reels y Feed de Instagram</a></h4>
     <a href='https://computerhoy.com/redes/notas-reels-feed-instagram-1396408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llegan-notas-rapidas-reel-feed-instagram-3757989.jpg?tf=1200x' alt='Llegan las Notas a los Reels y Feed de Instagram' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-video-oficial-pixel-9-pro-1396404'>Google se cansa de las filtraciones y lanza un vídeo revelando el Pixel 9 Pro</a></h4>
     <a href='https://computerhoy.com/google/google-video-oficial-pixel-9-pro-1396404' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1721334036004-3757571.jpg?tf=1200x' alt='Google se cansa de las filtraciones y lanza un vídeo revelando el Pixel 9 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/comprar-miravia-opiniones-evitar-estafas-1395989'>¿Es fiable comprar en Miravia? Opiniones y en qué debes fijarte para evitar estafas</a></h4>
-    <a href='https://computerhoy.com/apps/comprar-miravia-opiniones-evitar-estafas-1395989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/evitar-estafas-miravia-3742478.jpg?tf=1200x' alt='¿Es fiable comprar en Miravia? Opiniones y en qué debes fijarte para evitar estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-estrena-gpt-4o-mini-ia-1396400'>OpenAI estrena GPT-4o Mini, su IA más ligera y barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-estrena-gpt-4o-mini-ia-1396400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/openai-estrena-gpt-4o-mini-ia-asequible-competir-gemini-flash-3757143.jpg?tf=1200x' alt='OpenAI estrena GPT-4o Mini, su IA más ligera y barata' />
     </a>
 </div>
 
