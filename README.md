@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/casio-casi-inteligente-resiste-todo-amazon-acaba-rebajar-1396573'>Este Casio es "casi" inteligente y lo resiste todo: Amazon lo acaba de rebajar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/casio-casi-inteligente-resiste-todo-amazon-acaba-rebajar-1396573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/casio-gbd-200-3763400.jpg?tf=1200x' alt='Este Casio es "casi" inteligente y lo resiste todo: Amazon lo acaba de rebajar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-cuenta-gmail-correo-numero-telefono-1342638'>Cómo recuperar una cuenta de Gmail sin correo y sin número de teléfono con éxito</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-cuenta-gmail-correo-numero-telefono-1342638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-google-3143638.jpg?tf=1200x' alt='Cómo recuperar una cuenta de Gmail sin correo y sin número de teléfono con éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-problema-pantallazo-azul-windows-crowdstrike-1396564'>Cómo solucionar el problema del pantallazo azul de Windows por el fallo de CrowdStrike</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-solucionar-problema-pantallazo-azul-windows-crowdstrike-1396564' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pantallazo-azul-muerte-3762761.jpg?tf=1200x' alt='Cómo solucionar el problema del pantallazo azul de Windows por el fallo de CrowdStrike' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/aviso-banco-espana-pagos-contactless-gesto-no-debes-olvidar-1396304'>El aviso del Banco de España para los pagos con 'contactless': el gesto que no debes olvidar</a></h4>
     <a href='https://computerhoy.com/life/aviso-banco-espana-pagos-contactless-gesto-no-debes-olvidar-1396304' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aviso-banco-espana-pagos-contactless-gesto-no-debes-olvidar-3754870.jpg?tf=1200x' alt='El aviso del Banco de España para los pagos con 'contactless': el gesto que no debes olvidar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/samsung-lia-deja-s24-precio-xiaomi-aliexpress-mejor-cupones-1396403'>Samsung la lía: deja su S24 a precio de Xiaomi en AliExpress, y mejor con cupones</a></h4>
-    <a href='https://computerhoy.com/android/samsung-lia-deja-s24-precio-xiaomi-aliexpress-mejor-cupones-1396403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/galaxy-s24-3757848.jpg?tf=1200x' alt='Samsung la lía: deja su S24 a precio de Xiaomi en AliExpress, y mejor con cupones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-maps-agrega-funcion-carplay-todavia-no-ha-llegado-android-auto-1396537'>Google Maps agrega una función para Apple CarPlay que todavía no ha llegado a Android Auto </a></h4>
-    <a href='https://computerhoy.com/android/google-maps-agrega-funcion-carplay-todavia-no-ha-llegado-android-auto-1396537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/carplay-tiene-nueva-funcion-android-auto-no-3762310.jpg?tf=1200x' alt='Google Maps agrega una función para Apple CarPlay que todavía no ha llegado a Android Auto ' />
     </a>
 </div>
 
