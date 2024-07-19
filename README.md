@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estas-son-razones-algunas-personas-tienen-suerte-otras-1396582'>Estas son las razones por las que algunas personas tienen más suerte que otras</a></h4>
+    <a href='https://computerhoy.com/life/estas-son-razones-algunas-personas-tienen-suerte-otras-1396582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/buena-suerte-3763861.jpg?tf=1200x' alt='Estas son las razones por las que algunas personas tienen más suerte que otras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/puede-humanidad-desaparecer-antes-pasen-100-anos-experto-harvard-piensa-1396464'>¿Puede la humanidad desaparecer antes de que pasen 100 años? Un experto de Harvard piensa que sí</a></h4>
+    <a href='https://computerhoy.com/ciencia/puede-humanidad-desaparecer-antes-pasen-100-anos-experto-harvard-piensa-1396464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puede-humanidad-desaparecer-antes-pasen-100-anos-experto-harvard-piensa-3760862.jpg?tf=1200x' alt='¿Puede la humanidad desaparecer antes de que pasen 100 años? Un experto de Harvard piensa que sí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-estilo-studio-ghibli-nada-tienen-envidiar-totoro-chihiro-1395025'>5 películas estilo Studio Ghibli que nada tienen que envidiar a Totoro o Chihiro</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-estilo-studio-ghibli-nada-tienen-envidiar-totoro-chihiro-1395025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-peliculas-estilo-studio-ghibli-nada-tienen-envidiar-totoro-chihiro-3698981.jpg?tf=1200x' alt='5 películas estilo Studio Ghibli que nada tienen que envidiar a Totoro o Chihiro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-cuenta-gmail-correo-numero-telefono-1342638'>Cómo recuperar una cuenta de Gmail sin correo y sin número de teléfono con éxito</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-recuperar-cuenta-gmail-correo-numero-telefono-1342638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-google-3143638.jpg?tf=1200x' alt='Cómo recuperar una cuenta de Gmail sin correo y sin número de teléfono con éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-problema-pantallazo-azul-windows-crowdstrike-1396564'>Cómo solucionar el problema del pantallazo azul de Windows por el fallo de CrowdStrike</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-solucionar-problema-pantallazo-azul-windows-crowdstrike-1396564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pantallazo-azul-muerte-3762761.jpg?tf=1200x' alt='Cómo solucionar el problema del pantallazo azul de Windows por el fallo de CrowdStrike' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/aviso-banco-espana-pagos-contactless-gesto-no-debes-olvidar-1396304'>El aviso del Banco de España para los pagos con 'contactless': el gesto que no debes olvidar</a></h4>
-    <a href='https://computerhoy.com/life/aviso-banco-espana-pagos-contactless-gesto-no-debes-olvidar-1396304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aviso-banco-espana-pagos-contactless-gesto-no-debes-olvidar-3754870.jpg?tf=1200x' alt='El aviso del Banco de España para los pagos con 'contactless': el gesto que no debes olvidar' />
     </a>
 </div>
 
