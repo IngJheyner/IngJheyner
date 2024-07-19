@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-1395417'>Me encanta Google Maps en Android Auto, pero lo he perfeccionado con esta app para detectar radares y ahora es una maravilla</a></h4>
+    <a href='https://computerhoy.com/android/google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-1395417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/me-encanta-google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-3715097.jpg?tf=1200x' alt='Me encanta Google Maps en Android Auto, pero lo he perfeccionado con esta app para detectar radares y ahora es una maravilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/sony-jubila-playstation-4-fin-1394545'>Sony anuncia el fin de la PlayStation 4 tras once años: los detalles</a></h4>
     <a href='https://computerhoy.com/gaming/sony-jubila-playstation-4-fin-1394545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/final-ps4-3683431.jpg?tf=1200x' alt='Sony anuncia el fin de la PlayStation 4 tras once años: los detalles' />
@@ -66,25 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-ha-exprimido-500mb-fibra-ahora-cuesta-menos-mitad-1396276'>Es la VPN que ha exprimido mis 500MB de fibra y ahora cuesta menos de la mitad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-ha-exprimido-500mb-fibra-ahora-cuesta-menos-mitad-1396276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordvpn-3285094.jpg?tf=1200x' alt='Es la VPN que ha exprimido mis 500MB de fibra y ahora cuesta menos de la mitad' />
+    <h4><a href='https://computerhoy.com/tecnologia/fallo-masivo-sistemas-microsoft-afecta-aeropuertos-bancos-nivel-global-1396468'>Fallo masivo en sistemas de Microsoft afecta aeropuertos, bancos y más a nivel global </a></h4>
+    <a href='https://computerhoy.com/tecnologia/fallo-masivo-sistemas-microsoft-afecta-aeropuertos-bancos-nivel-global-1396468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-fallo-3761036.jpg?tf=1200x' alt='Fallo masivo en sistemas de Microsoft afecta aeropuertos, bancos y más a nivel global ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/no-compres-amazon-fire-tv-ver-futbol-podrias-recibir-multa-500-euros-1396380'>No compres un Amazon Fire TV para ver fútbol, podrías recibir una multa de 500 euros</a></h4>
-    <a href='https://computerhoy.com/internet/no-compres-amazon-fire-tv-ver-futbol-podrias-recibir-multa-500-euros-1396380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-compres-amazon-fire-tv-ver-futbol-podrias-recibir-multa-500-euros-3756721.jpg?tf=1200x' alt='No compres un Amazon Fire TV para ver fútbol, podrías recibir una multa de 500 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/fbi-desbloquea-movil-tirador-trump-40-minutos-menos-mal-era-android-1396434'>El FBI desbloquea el móvil del tirador de Trump en 40 minutos y menos mal que era Android</a></h4>
-    <a href='https://computerhoy.com/moviles/fbi-desbloquea-movil-tirador-trump-40-minutos-menos-mal-era-android-1396434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/donald-trump-3760542.jpg?tf=1200x' alt='El FBI desbloquea el móvil del tirador de Trump en 40 minutos y menos mal que era Android' />
+    <h4><a href='https://computerhoy.com/tecnologia/meta-ha-declarado-guerra-apple-vision-pro-trabaja-nuevo-modelo-2027-1396446'>Meta le ha declarado la guerra a las Apple Vision Pro y trabaja en un nuevo modelo para 2027</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-ha-declarado-guerra-apple-vision-pro-trabaja-nuevo-modelo-2027-1396446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/meta-ha-declarado-guerra-apple-vision-pro-trabaja-nuevo-modelo-2027-3760683.jpg?tf=1200x' alt='Meta le ha declarado la guerra a las Apple Vision Pro y trabaja en un nuevo modelo para 2027' />
     </a>
 </div>
 
