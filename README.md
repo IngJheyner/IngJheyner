@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fallo-masivo-sistemas-microsoft-afecta-aeropuertos-bancos-nivel-global-1396468'>Caída de los sistemas de Microsoft a nivel global: aeropuertos, bancos y hospitales como grandes afectados</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fallo-masivo-sistemas-microsoft-afecta-aeropuertos-bancos-nivel-global-1396468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crowdstrike-microsoft-caida-global-3761406.jpg?tf=1200x' alt='Caída de los sistemas de Microsoft a nivel global: aeropuertos, bancos y hospitales como grandes afectados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/sony-jubila-playstation-4-fin-1394545'>Sony anuncia el fin de la PlayStation 4 tras once años: los detalles</a></h4>
     <a href='https://computerhoy.com/gaming/sony-jubila-playstation-4-fin-1394545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/final-ps4-3683431.jpg?tf=1200x' alt='Sony anuncia el fin de la PlayStation 4 tras once años: los detalles' />
@@ -66,25 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/clave-red-wifi-vecino-sin-clave-1369817'>Cómo conseguir la clave WiFi de tu vecino (sin pedírsela)</a></h4>
-    <a href='https://computerhoy.com/internet/clave-red-wifi-vecino-sin-clave-1369817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/clave-wifi-3711642.jpg?tf=1200x' alt='Cómo conseguir la clave WiFi de tu vecino (sin pedírsela)' />
+    <h4><a href='https://computerhoy.com/ciencia/revela-verdadero-rostro-faraon-tutankamon-3300-anos-despues-gracias-tecnologia-3d-1396469'>Se revela el verdadero rostro del faraón Tutankamón 3.300 años después gracias a la tecnología 3D</a></h4>
+    <a href='https://computerhoy.com/ciencia/revela-verdadero-rostro-faraon-tutankamon-3300-anos-despues-gracias-tecnologia-3d-1396469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tutankamon-no-era-tan-atractivo-como-muestran-algunas-recreaciones-estudio-3760888.jpg?tf=1200x' alt='Se revela el verdadero rostro del faraón Tutankamón 3.300 años después gracias a la tecnología 3D' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fallo-masivo-sistemas-microsoft-afecta-aeropuertos-bancos-nivel-global-1396468'>Fallo masivo en sistemas de Microsoft afecta aeropuertos, bancos y más a nivel global </a></h4>
-    <a href='https://computerhoy.com/tecnologia/fallo-masivo-sistemas-microsoft-afecta-aeropuertos-bancos-nivel-global-1396468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-fallo-3761036.jpg?tf=1200x' alt='Fallo masivo en sistemas de Microsoft afecta aeropuertos, bancos y más a nivel global ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-ha-declarado-guerra-apple-vision-pro-trabaja-nuevo-modelo-2027-1396446'>Meta le ha declarado la guerra a las Apple Vision Pro y trabaja en un nuevo modelo para 2027</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-ha-declarado-guerra-apple-vision-pro-trabaja-nuevo-modelo-2027-1396446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/meta-ha-declarado-guerra-apple-vision-pro-trabaja-nuevo-modelo-2027-3760683.jpg?tf=1200x' alt='Meta le ha declarado la guerra a las Apple Vision Pro y trabaja en un nuevo modelo para 2027' />
+    <h4><a href='https://computerhoy.com/tecnologia/adios-garmin-fenix-alternativa-polar-mas-barato-1395586'>Adiós a los Fenix: este reloj Polar le planta cara a Garmin y es mucho más barato ahora en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-garmin-fenix-alternativa-polar-mas-barato-1395586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/polar-grit-x-pro-3285939.jpg?tf=1200x' alt='Adiós a los Fenix: este reloj Polar le planta cara a Garmin y es mucho más barato ahora en Amazon' />
     </a>
 </div>
 
