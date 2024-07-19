@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-estilo-studio-ghibli-nada-tienen-envidiar-totoro-chihiro-1395025'>5 películas estilo Studio Ghibli que nada tienen que envidiar a Totoro o Chihiro</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-estilo-studio-ghibli-nada-tienen-envidiar-totoro-chihiro-1395025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-peliculas-estilo-studio-ghibli-nada-tienen-envidiar-totoro-chihiro-3698981.jpg?tf=1200x' alt='5 películas estilo Studio Ghibli que nada tienen que envidiar a Totoro o Chihiro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/aviso-banco-espana-pagos-contactless-gesto-no-debes-olvidar-1396304'>El aviso del Banco de España para los pagos con 'contactless': el gesto que no debes olvidar</a></h4>
+    <a href='https://computerhoy.com/life/aviso-banco-espana-pagos-contactless-gesto-no-debes-olvidar-1396304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aviso-banco-espana-pagos-contactless-gesto-no-debes-olvidar-3754870.jpg?tf=1200x' alt='El aviso del Banco de España para los pagos con 'contactless': el gesto que no debes olvidar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/samsung-lia-deja-s24-precio-xiaomi-aliexpress-mejor-cupones-1396403'>Samsung la lía: deja su S24 a precio de Xiaomi en AliExpress, y mejor con cupones</a></h4>
+    <a href='https://computerhoy.com/android/samsung-lia-deja-s24-precio-xiaomi-aliexpress-mejor-cupones-1396403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/galaxy-s24-3757848.jpg?tf=1200x' alt='Samsung la lía: deja su S24 a precio de Xiaomi en AliExpress, y mejor con cupones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/google-maps-agrega-funcion-carplay-todavia-no-ha-llegado-android-auto-1396537'>Google Maps agrega una función para Apple CarPlay que todavía no ha llegado a Android Auto </a></h4>
     <a href='https://computerhoy.com/android/google-maps-agrega-funcion-carplay-todavia-no-ha-llegado-android-auto-1396537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/carplay-tiene-nueva-funcion-android-auto-no-3762310.jpg?tf=1200x' alt='Google Maps agrega una función para Apple CarPlay que todavía no ha llegado a Android Auto ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/dazn-acabar-iptv-procesar-compradores-iptv-antes-posible-1395320'>DAZN tiene claro cómo acabar con las IPTV: "procesar a los compradores de IPTV lo antes posible"</a></h4>
     <a href='https://computerhoy.com/tv/dazn-acabar-iptv-procesar-compradores-iptv-antes-posible-1395320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/futbol-pirata-leyes-3711391.jpg?tf=1200x' alt='DAZN tiene claro cómo acabar con las IPTV: "procesar a los compradores de IPTV lo antes posible"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-veraniega-tom-cruise-extrana-todos-tiempos-cumple-25-anos-1396538'>La película veraniega de Tom Cruise más extraña de todos los tiempos cumple 25 años</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-veraniega-tom-cruise-extrana-todos-tiempos-cumple-25-anos-1396538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/eyes-wide-shut-3762312.jpg?tf=1200x' alt='La película veraniega de Tom Cruise más extraña de todos los tiempos cumple 25 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-intenta-vaciarte-cuenta-corriente-siempre-produce-siempre-fines-semana-1396510'>Así es la estafa que intenta vaciarte la cuenta corriente y siempre se produce siempre los fines de semana</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafa-intenta-vaciarte-cuenta-corriente-siempre-produce-siempre-fines-semana-1396510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-intenta-vaciarte-cuenta-corriente-siempre-produce-siempre-fines-semana-3761706.jpg?tf=1200x' alt='Así es la estafa que intenta vaciarte la cuenta corriente y siempre se produce siempre los fines de semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/borra-extensiones-google-chrome-acceden-todos-movimientos-online-1395724'>Si tienes estas extensiones de Google Chrome, bórralas ya porque acceden a todos tus movimientos online</a></h4>
-    <a href='https://computerhoy.com/internet/borra-extensiones-google-chrome-acceden-todos-movimientos-online-1395724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Si tienes estas extensiones de Google Chrome, bórralas ya porque acceden a todos tus movimientos online' />
     </a>
 </div>
 
