@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cosai-alianza-creada-google-amazon-microsoft-nvidia-openai-otros-gigantes-1396597'>Qué es CoSAI, la alianza creada por Google, Amazon, Microsoft, NVIDIA, OpenAI y otros gigantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cosai-alianza-creada-google-amazon-microsoft-nvidia-openai-otros-gigantes-1396597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cosai-alianza-creada-google-amazon-microsoft-nvidia-openai-otros-gigantes-3765170.jpg?tf=1200x' alt='Qué es CoSAI, la alianza creada por Google, Amazon, Microsoft, NVIDIA, OpenAI y otros gigantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/palabras-magicas-desvelan-cuenta-x-bot-1396595'>Las palabras mágicas que desvelan si una cuenta de X es un bot, y lo anulan</a></h4>
     <a href='https://computerhoy.com/redes/palabras-magicas-desvelan-cuenta-x-bot-1396595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/4-palabras-magicas-desvelan-cuenta-x-bot-anulan-3764300.jpg?tf=1200x' alt='Las palabras mágicas que desvelan si una cuenta de X es un bot, y lo anulan' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/halo-cancelada-fallout-arrasa-emmy-1396584'>Halo cancelada, Fallout arrasa en los Emmy: cara y cruz de las series basadas en videojuegos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/halo-cancelada-fallout-arrasa-emmy-1396584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/halo-serie-2971020.jpg?tf=1200x' alt='Halo cancelada, Fallout arrasa en los Emmy: cara y cruz de las series basadas en videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tinder-utilizara-ia-ayudarte-elegir-mejores-fotos-conseguir-matches-1396583'>Tinder utilizará IA para ayudarte a elegir las mejores fotos y conseguir más matches</a></h4>
-    <a href='https://computerhoy.com/apps/tinder-utilizara-ia-ayudarte-elegir-mejores-fotos-conseguir-matches-1396583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tinder-3764004.jpg?tf=1200x' alt='Tinder utilizará IA para ayudarte a elegir las mejores fotos y conseguir más matches' />
     </a>
 </div>
 
