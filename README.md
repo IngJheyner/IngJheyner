@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/perseidas-2024-mejores-dias-donde-ver-lagrimas-san-lorenzo-espana-1396579'>Perseidas 2024: mejores días y dónde ver las lágrimas de San Lorenzo desde España</a></h4>
+    <a href='https://computerhoy.com/espacio/perseidas-2024-mejores-dias-donde-ver-lagrimas-san-lorenzo-espana-1396579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/perseidas-2024-mejores-dias-donde-ver-lagrimas-san-lorenzo-espana-3764006.jpg?tf=1200x' alt='Perseidas 2024: mejores días y dónde ver las lágrimas de San Lorenzo desde España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/x-busca-limitar-spam-nueva-funcion-bloqueo-enlaces-respuestas-1396623'>X busca limitar el spam con una nueva función de bloqueo de enlaces en respuestas</a></h4>
     <a href='https://computerhoy.com/tecnologia/x-busca-limitar-spam-nueva-funcion-bloqueo-enlaces-respuestas-1396623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/twitter-x-3769419.jpg?tf=1200x' alt='X busca limitar el spam con una nueva función de bloqueo de enlaces en respuestas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-gana-8-millones-suscriptores-represion-uso-compartido-cuentas-1396617'>Netflix gana 8 millones de suscriptores tras la represión del uso compartido de cuentas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-gana-8-millones-suscriptores-represion-uso-compartido-cuentas-1396617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-gratis-3583829.jpg?tf=1200x' alt='Netflix gana 8 millones de suscriptores tras la represión del uso compartido de cuentas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/error-conexion-wifi-hace-amazon-fire-tv-vaya-lento-1358881'>El error con la conexión WiFi que hace que tu Amazon Fire TV vaya mucho más lento</a></h4>
-    <a href='https://computerhoy.com/internet/error-conexion-wifi-hace-amazon-fire-tv-vaya-lento-1358881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-acceder-test-velocidad-oculto-amazon-fire-tv-comprobar-calidad-internet-3249964.jpg?tf=1200x' alt='El error con la conexión WiFi que hace que tu Amazon Fire TV vaya mucho más lento' />
     </a>
 </div>
 
