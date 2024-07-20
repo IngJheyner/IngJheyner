@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ya-puedes-probar-antes-nadie-android-auto-125-novedades-como-actualizar-ahora-1396620'>Ya puedes probar antes que nadie Android Auto 12.5: novedades y cómo actualizar ahora</a></h4>
+    <a href='https://computerhoy.com/apps/ya-puedes-probar-antes-nadie-android-auto-125-novedades-como-actualizar-ahora-1396620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-125-3769270.jpg?tf=1200x' alt='Ya puedes probar antes que nadie Android Auto 12.5: novedades y cómo actualizar ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-smartwatch-pulsera-pantalla-amoled-muy-barata-calcula-edad-fisiologica-1396420'>Olvida los smartwatch: esta pulsera con pantalla AMOLED es muy barata y calcula tu edad fisiológica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-smartwatch-pulsera-pantalla-amoled-muy-barata-calcula-edad-fisiologica-1396420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/honor-band-9-3760224.jpg?tf=1200x' alt='Olvida los smartwatch: esta pulsera con pantalla AMOLED es muy barata y calcula tu edad fisiológica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-gana-8-millones-suscriptores-represion-uso-compartido-cuentas-1396617'>Netflix gana 8 millones de suscriptores tras la represión del uso compartido de cuentas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-gana-8-millones-suscriptores-represion-uso-compartido-cuentas-1396617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-gratis-3583829.jpg?tf=1200x' alt='Netflix gana 8 millones de suscriptores tras la represión del uso compartido de cuentas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/windows-31-salva-southwest-airlines-durante-fallo-masivo-crowdstrike-1396611'>Windows 3.1 salva a Southwest Airlines durante el fallo masivo de CrowdStrike</a></h4>
     <a href='https://computerhoy.com/tecnologia/windows-31-salva-southwest-airlines-durante-fallo-masivo-crowdstrike-1396611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/southwest-airlines-windows-31-3768832.jpg?tf=1200x' alt='Windows 3.1 salva a Southwest Airlines durante el fallo masivo de CrowdStrike' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/acortador-enlaces-google-dejara-funcionar-completo-2025-te-afecta-1396608'>El acortador de enlaces de Google dejará de funcionar por completo en 2025 y así te afecta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/acortador-enlaces-google-dejara-funcionar-completo-2025-te-afecta-1396608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/acortador-enlaces-google-3768541.jpg?tf=1200x' alt='El acortador de enlaces de Google dejará de funcionar por completo en 2025 y así te afecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-netflix-mejor-valoradas-critica-1355947'>Las películas de Netflix mejor valoradas por la crítica que debes ver</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-netflix-mejor-valoradas-critica-1355947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/irlandes-2434869.jpg?tf=1200x' alt='Las películas de Netflix mejor valoradas por la crítica que debes ver' />
     </a>
 </div>
 
