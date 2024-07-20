@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fallo-crowdstrike-afecto-85-millones-pc-windows-mundo-1396643'>El fallo de CrowdStrike afectó a 8,5 millones de PC con Windows en el mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fallo-crowdstrike-afecto-85-millones-pc-windows-mundo-1396643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crowdstrike-fallo-microsoft-3761709.jpg?tf=1200x' alt='El fallo de CrowdStrike afectó a 8,5 millones de PC con Windows en el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/app-pc-manager-windows-11-todo-puedes-hacer-ella-1395289'>Qué es la app PC Manager en Windows 11 y todo lo que puedes hacer con ella</a></h4>
+    <a href='https://computerhoy.com/windows/app-pc-manager-windows-11-todo-puedes-hacer-ella-1395289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/app-pc-manager-windows-11-todo-puedes-hacer-ella-3709236.jpg?tf=1200x' alt='Qué es la app PC Manager en Windows 11 y todo lo que puedes hacer con ella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-windows-11-ahora-permite-fijar-mensajes-compartir-contenido-facilmente-1396639'>WhatsApp en Windows 11 ahora permite fijar mensajes y compartir contenido fácilmente</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-windows-11-ahora-permite-fijar-mensajes-compartir-contenido-facilmente-1396639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-web-2824571.jpg?tf=1200x' alt='WhatsApp en Windows 11 ahora permite fijar mensajes y compartir contenido fácilmente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/gadget-superventas-aliexpress-cuesta-5-euros-pero-vas-agradecer-verano-1396533'>Este gadget superventas de AliExpress cuesta 5 euros, pero lo vas a agradecer este verano</a></h4>
     <a href='https://computerhoy.com/tecnologia/gadget-superventas-aliexpress-cuesta-5-euros-pero-vas-agradecer-verano-1396533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mini-ventilador-portatil-cuello-3761857.jpg?tf=1200x' alt='Este gadget superventas de AliExpress cuesta 5 euros, pero lo vas a agradecer este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/no-hay-prime-day-pero-no-hace-falta-apple-watch-series-9-mucho-barato-oferta-aliexpress-1396627'>No hay Prime Day, pero no hace falta: el Apple Watch Series 9 es mucho más barato en esta oferta de AliExpress</a></h4>
-    <a href='https://computerhoy.com/apple/no-hay-prime-day-pero-no-hace-falta-apple-watch-series-9-mucho-barato-oferta-aliexpress-1396627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-series-9-3135646.jpg?tf=1200x' alt='No hay Prime Day, pero no hace falta: el Apple Watch Series 9 es mucho más barato en esta oferta de AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/razones-no-usar-google-iniciar-sesion-paginas-web-1354308'>Razones por las que no recomendamos usar Google o Facebook para iniciar sesión en páginas web</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/razones-no-usar-google-iniciar-sesion-paginas-web-1354308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/razones-no-usar-google-facebook-iniciar-sesion-paginas-web-3256928.jpg?tf=1200x' alt='Razones por las que no recomendamos usar Google o Facebook para iniciar sesión en páginas web' />
     </a>
 </div>
 
