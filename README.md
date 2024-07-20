@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/productos-top-xiaomi-pone-android-tv-precio-minimo-aliexpress-1392273'>El producto Xiaomi más buscado no es un móvil, y está en oferta: es su TV Box y AliExpress la ha rebajado</a></h4>
+    <a href='https://computerhoy.com/android/productos-top-xiaomi-pone-android-tv-precio-minimo-aliexpress-1392273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-box-s-2nd-gen-3280982.jpg?tf=1200x' alt='El producto Xiaomi más buscado no es un móvil, y está en oferta: es su TV Box y AliExpress la ha rebajado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cosai-alianza-creada-google-amazon-microsoft-nvidia-openai-otros-gigantes-1396597'>Qué es CoSAI, la alianza creada por Google, Amazon, Microsoft, NVIDIA, OpenAI y otros gigantes</a></h4>
     <a href='https://computerhoy.com/tecnologia/cosai-alianza-creada-google-amazon-microsoft-nvidia-openai-otros-gigantes-1396597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cosai-alianza-creada-google-amazon-microsoft-nvidia-openai-otros-gigantes-3765170.jpg?tf=1200x' alt='Qué es CoSAI, la alianza creada por Google, Amazon, Microsoft, NVIDIA, OpenAI y otros gigantes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/herramientas-cellebrite-fallan-iphones-ios-174-pero-mayoria-moviles-android-son-vulnerables-1396586'>Herramientas de Cellebrite fallan en iPhones con iOS 17.4, pero la mayoría de los móviles Android son vulnerables</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/herramientas-cellebrite-fallan-iphones-ios-174-pero-mayoria-moviles-android-son-vulnerables-1396586' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/contrasena-iphone-3669717.jpg?tf=1200x' alt='Herramientas de Cellebrite fallan en iPhones con iOS 17.4, pero la mayoría de los móviles Android son vulnerables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/halo-cancelada-fallout-arrasa-emmy-1396584'>Halo cancelada, Fallout arrasa en los Emmy: cara y cruz de las series basadas en videojuegos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/halo-cancelada-fallout-arrasa-emmy-1396584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/halo-serie-2971020.jpg?tf=1200x' alt='Halo cancelada, Fallout arrasa en los Emmy: cara y cruz de las series basadas en videojuegos' />
     </a>
 </div>
 
