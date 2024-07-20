@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-gana-8-millones-suscriptores-represion-uso-compartido-cuentas-1396617'>Netflix gana 8 millones de suscriptores tras la represión del uso compartido de cuentas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-gana-8-millones-suscriptores-represion-uso-compartido-cuentas-1396617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-gratis-3583829.jpg?tf=1200x' alt='Netflix gana 8 millones de suscriptores tras la represión del uso compartido de cuentas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/error-conexion-wifi-hace-amazon-fire-tv-vaya-lento-1358881'>El error con la conexión WiFi que hace que tu Amazon Fire TV vaya mucho más lento</a></h4>
+    <a href='https://computerhoy.com/internet/error-conexion-wifi-hace-amazon-fire-tv-vaya-lento-1358881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-acceder-test-velocidad-oculto-amazon-fire-tv-comprobar-calidad-internet-3249964.jpg?tf=1200x' alt='El error con la conexión WiFi que hace que tu Amazon Fire TV vaya mucho más lento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/windows-31-salva-southwest-airlines-durante-fallo-masivo-crowdstrike-1396611'>Windows 3.1 salva a Southwest Airlines durante el fallo masivo de CrowdStrike</a></h4>
+    <a href='https://computerhoy.com/tecnologia/windows-31-salva-southwest-airlines-durante-fallo-masivo-crowdstrike-1396611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/southwest-airlines-windows-31-3768832.jpg?tf=1200x' alt='Windows 3.1 salva a Southwest Airlines durante el fallo masivo de CrowdStrike' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/acortador-enlaces-google-dejara-funcionar-completo-2025-te-afecta-1396608'>El acortador de enlaces de Google dejará de funcionar por completo en 2025 y así te afecta</a></h4>
     <a href='https://computerhoy.com/tecnologia/acortador-enlaces-google-dejara-funcionar-completo-2025-te-afecta-1396608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/acortador-enlaces-google-3768541.jpg?tf=1200x' alt='El acortador de enlaces de Google dejará de funcionar por completo en 2025 y así te afecta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-netflix-mejor-valoradas-critica-1355947'>Las películas de Netflix mejor valoradas por la crítica que debes ver</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-netflix-mejor-valoradas-critica-1355947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/irlandes-2434869.jpg?tf=1200x' alt='Las películas de Netflix mejor valoradas por la crítica que debes ver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/superinteligencia-artificial-llegara-pero-no-tan-pronto-asegura-experto-1392174'>La superinteligencia artificial llegará, pero no tan pronto, asegura un experto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/superinteligencia-artificial-llegara-pero-no-tan-pronto-asegura-experto-1392174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/superinteligencia-artificial-llegara-pero-no-tan-pronto-asegura-experto-3562422.jpg?tf=1200x' alt='La superinteligencia artificial llegará, pero no tan pronto, asegura un experto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-potente-pantalla-sobresaliente-redmi-pad-pro-hunde-precio-chollo-1396283'>De Xiaomi, potente y con una pantalla sobresaliente: la Redmi Pad Pro hunde su precio en este chollo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-potente-pantalla-sobresaliente-redmi-pad-pro-hunde-precio-chollo-1396283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/xiaomi-redmi-pad-pro-3754240.jpg?tf=1200x' alt='De Xiaomi, potente y con una pantalla sobresaliente: la Redmi Pad Pro hunde su precio en este chollo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/debes-hacer-evitar-te-roben-movil-verano-1395638'>Esto es lo que debes hacer para evitar que te roben el móvil este verano</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/debes-hacer-evitar-te-roben-movil-verano-1395638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/debes-hacer-evitar-te-roben-movil-verano-3732220.jpg?tf=1200x' alt='Esto es lo que debes hacer para evitar que te roben el móvil este verano' />
     </a>
 </div>
 
