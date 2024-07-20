@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nuevo-descubrimiento-fisica-permite-construccion-sensores-cuanticos-viajar-tiempo-1395879'>Un nuevo descubrimiento en física permite la construcción de sensores cuánticos para viajar en el tiempo</a></h4>
+    <a href='https://computerhoy.com/ciencia/nuevo-descubrimiento-fisica-permite-construccion-sensores-cuanticos-viajar-tiempo-1395879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/viaje-tiempo-3740010.jpg?tf=1200x' alt='Un nuevo descubrimiento en física permite la construcción de sensores cuánticos para viajar en el tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cascos-conduccion-osea-baratos-probar-aliexpress-1383108'>Si los cascos de conducción ósea te causan curiosidad, estos de Lenovo son una ganga que no te costará comprar</a></h4>
     <a href='https://computerhoy.com/tecnologia/cascos-conduccion-osea-baratos-probar-aliexpress-1383108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-x3-pro-3306221.jpg?tf=1200x' alt='Si los cascos de conducción ósea te causan curiosidad, estos de Lenovo son una ganga que no te costará comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/he-probado-fujifilm-instax-mini-99-camara-instantanea-divertida-verano-1396237'>He probado la Fujifilm Instax Mini 99, la cámara instantánea más divertida para este verano</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-fujifilm-instax-mini-99-camara-instantanea-divertida-verano-1396237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fujifilm-instax-mini-99-3762912.jpg?tf=1200x' alt='He probado la Fujifilm Instax Mini 99, la cámara instantánea más divertida para este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/puenting-cobardes-camara-lenta-saltar-puente-1396599'>El puenting para cobardes, lo último para quienes tienen miedo de saltar de un puente</a></h4>
-    <a href='https://computerhoy.com/life/puenting-cobardes-camara-lenta-saltar-puente-1396599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puenting-camara-lenta-ultimo-quienes-tienen-miedo-saltar-puente-3766944.jpg?tf=1200x' alt='El puenting para cobardes, lo último para quienes tienen miedo de saltar de un puente' />
     </a>
 </div>
 
