@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/acortador-enlaces-google-dejara-funcionar-completo-2025-te-afecta-1396608'>El acortador de enlaces de Google dejará de funcionar por completo en 2025 y así te afecta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/acortador-enlaces-google-dejara-funcionar-completo-2025-te-afecta-1396608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/acortador-enlaces-google-3768541.jpg?tf=1200x' alt='El acortador de enlaces de Google dejará de funcionar por completo en 2025 y así te afecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-netflix-mejor-valoradas-critica-1355947'>Las películas de Netflix mejor valoradas por la crítica que debes ver</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-netflix-mejor-valoradas-critica-1355947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/irlandes-2434869.jpg?tf=1200x' alt='Las películas de Netflix mejor valoradas por la crítica que debes ver' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/superinteligencia-artificial-llegara-pero-no-tan-pronto-asegura-experto-1392174'>La superinteligencia artificial llegará, pero no tan pronto, asegura un experto</a></h4>
     <a href='https://computerhoy.com/tecnologia/superinteligencia-artificial-llegara-pero-no-tan-pronto-asegura-experto-1392174' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/superinteligencia-artificial-llegara-pero-no-tan-pronto-asegura-experto-3562422.jpg?tf=1200x' alt='La superinteligencia artificial llegará, pero no tan pronto, asegura un experto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/debes-hacer-evitar-te-roben-movil-verano-1395638'>Esto es lo que debes hacer para evitar que te roben el móvil este verano</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/debes-hacer-evitar-te-roben-movil-verano-1395638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/debes-hacer-evitar-te-roben-movil-verano-3732220.jpg?tf=1200x' alt='Esto es lo que debes hacer para evitar que te roben el móvil este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/todos-optan-desactivar-funcion-moviles-razon-1396324'>Por qué todos optan por desactivar esta función en sus móviles, y con razón</a></h4>
-    <a href='https://computerhoy.com/tutoriales/todos-optan-desactivar-funcion-moviles-razon-1396324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ajuste-debes-hacer-movil-3756122.jpg?tf=1200x' alt='Por qué todos optan por desactivar esta función en sus móviles, y con razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-hologramas-movil-metodo-casero-1340404'>Como crear hologramas en tu móvil con este método casero</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-hologramas-movil-metodo-casero-1340404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/crea-propios-hologramas-movil-sencillo-metodo-casero-3231332.jpg?tf=1200x' alt='Como crear hologramas en tu móvil con este método casero' />
     </a>
 </div>
 
