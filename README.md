@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/debes-hacer-evitar-te-roben-movil-verano-1395638'>Esto es lo que debes hacer para evitar que te roben el móvil este verano</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/debes-hacer-evitar-te-roben-movil-verano-1395638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/debes-hacer-evitar-te-roben-movil-verano-3732220.jpg?tf=1200x' alt='Esto es lo que debes hacer para evitar que te roben el móvil este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/todos-optan-desactivar-funcion-moviles-razon-1396324'>Por qué todos optan por desactivar esta función en sus móviles, y con razón</a></h4>
+    <a href='https://computerhoy.com/tutoriales/todos-optan-desactivar-funcion-moviles-razon-1396324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ajuste-debes-hacer-movil-3756122.jpg?tf=1200x' alt='Por qué todos optan por desactivar esta función en sus móviles, y con razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-hologramas-movil-metodo-casero-1340404'>Como crear hologramas en tu móvil con este método casero</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-hologramas-movil-metodo-casero-1340404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/crea-propios-hologramas-movil-sencillo-metodo-casero-3231332.jpg?tf=1200x' alt='Como crear hologramas en tu móvil con este método casero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/nuevo-descubrimiento-fisica-permite-construccion-sensores-cuanticos-viajar-tiempo-1395879'>Un nuevo descubrimiento en física permite la construcción de sensores cuánticos para viajar en el tiempo</a></h4>
     <a href='https://computerhoy.com/ciencia/nuevo-descubrimiento-fisica-permite-construccion-sensores-cuanticos-viajar-tiempo-1395879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/viaje-tiempo-3740010.jpg?tf=1200x' alt='Un nuevo descubrimiento en física permite la construcción de sensores cuánticos para viajar en el tiempo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cascos-conduccion-osea-baratos-probar-aliexpress-1383108'>Si los cascos de conducción ósea te causan curiosidad, estos de Lenovo son una ganga que no te costará comprar</a></h4>
     <a href='https://computerhoy.com/tecnologia/cascos-conduccion-osea-baratos-probar-aliexpress-1383108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-x3-pro-3306221.jpg?tf=1200x' alt='Si los cascos de conducción ósea te causan curiosidad, estos de Lenovo son una ganga que no te costará comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/aqui-app-wero-real-amenaza-bizum-opcion-tener-cuenta-espana-1395777'>Aquí está la app de Wero, la real amenaza de Bizum: ¿Es una opción a tener en cuenta en España? </a></h4>
-    <a href='https://computerhoy.com/apps/aqui-app-wero-real-amenaza-bizum-opcion-tener-cuenta-espana-1395777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aplicacion-wero-vs-bizum-3754392.jpg?tf=1200x' alt='Aquí está la app de Wero, la real amenaza de Bizum: ¿Es una opción a tener en cuenta en España? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/verano-plegable-1395942'>El verano del plegable</a></h4>
-    <a href='https://computerhoy.com/moviles/verano-plegable-1395942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-fold-6-3740174.jpg?tf=1200x' alt='El verano del plegable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-fujifilm-instax-mini-99-camara-instantanea-divertida-verano-1396237'>He probado la Fujifilm Instax Mini 99, la cámara instantánea más divertida para este verano</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-fujifilm-instax-mini-99-camara-instantanea-divertida-verano-1396237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fujifilm-instax-mini-99-3762912.jpg?tf=1200x' alt='He probado la Fujifilm Instax Mini 99, la cámara instantánea más divertida para este verano' />
     </a>
 </div>
 
