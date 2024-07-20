@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-actualizara-windows-11-automaticamente-tienes-version-concreta-1396624'>Microsoft actualizará Windows 11 automáticamente si tienes esta versión concreta</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-actualizara-windows-11-automaticamente-tienes-version-concreta-1396624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-razones-peso-actualizar-windows-11-abandonar-windows-10-3619001.jpg?tf=1200x' alt='Microsoft actualizará Windows 11 automáticamente si tienes esta versión concreta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-chihiro-ni-totoro-ni-castillo-ambulante-pelicula-animacion-japonesa-impactante-no-pertenece-studio-ghibli-1396343'>Ni Chihiro ni Totoro ni El castillo ambulante, esta es la película de animación japonesa más impactante, y no pertenece al Studio Ghibli</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-chihiro-ni-totoro-ni-castillo-ambulante-pelicula-animacion-japonesa-impactante-no-pertenece-studio-ghibli-1396343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-chihiro-ni-totoro-ni-castillo-ambulante-pelicula-animacion-japonesa-impactante-no-pertenece-studio-ghibli-3755486.jpg?tf=1200x' alt='Ni Chihiro ni Totoro ni El castillo ambulante, esta es la película de animación japonesa más impactante, y no pertenece al Studio Ghibli' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/perseidas-2024-mejores-dias-donde-ver-lagrimas-san-lorenzo-espana-1396579'>Perseidas 2024: mejores días y dónde ver las lágrimas de San Lorenzo desde España</a></h4>
     <a href='https://computerhoy.com/espacio/perseidas-2024-mejores-dias-donde-ver-lagrimas-san-lorenzo-espana-1396579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/perseidas-2024-mejores-dias-donde-ver-lagrimas-san-lorenzo-espana-3764006.jpg?tf=1200x' alt='Perseidas 2024: mejores días y dónde ver las lágrimas de San Lorenzo desde España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ya-puedes-probar-antes-nadie-android-auto-125-novedades-como-actualizar-ahora-1396620'>Ya puedes probar antes que nadie Android Auto 12.5: novedades y cómo actualizar ahora</a></h4>
     <a href='https://computerhoy.com/apps/ya-puedes-probar-antes-nadie-android-auto-125-novedades-como-actualizar-ahora-1396620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-125-3769270.jpg?tf=1200x' alt='Ya puedes probar antes que nadie Android Auto 12.5: novedades y cómo actualizar ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-smartwatch-pulsera-pantalla-amoled-muy-barata-calcula-edad-fisiologica-1396420'>Olvida los smartwatch: esta pulsera con pantalla AMOLED es muy barata y calcula tu edad fisiológica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-smartwatch-pulsera-pantalla-amoled-muy-barata-calcula-edad-fisiologica-1396420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/honor-band-9-3760224.jpg?tf=1200x' alt='Olvida los smartwatch: esta pulsera con pantalla AMOLED es muy barata y calcula tu edad fisiológica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-gana-8-millones-suscriptores-represion-uso-compartido-cuentas-1396617'>Netflix gana 8 millones de suscriptores tras la represión del uso compartido de cuentas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-gana-8-millones-suscriptores-represion-uso-compartido-cuentas-1396617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-gratis-3583829.jpg?tf=1200x' alt='Netflix gana 8 millones de suscriptores tras la represión del uso compartido de cuentas' />
     </a>
 </div>
 
