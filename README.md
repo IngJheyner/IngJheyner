@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gadget-superventas-aliexpress-cuesta-5-euros-pero-vas-agradecer-verano-1396533'>Este gadget superventas de AliExpress cuesta 5 euros, pero lo vas a agradecer este verano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gadget-superventas-aliexpress-cuesta-5-euros-pero-vas-agradecer-verano-1396533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mini-ventilador-portatil-cuello-3761857.jpg?tf=1200x' alt='Este gadget superventas de AliExpress cuesta 5 euros, pero lo vas a agradecer este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/no-hay-prime-day-pero-no-hace-falta-apple-watch-series-9-mucho-barato-oferta-aliexpress-1396627'>No hay Prime Day, pero no hace falta: el Apple Watch Series 9 es mucho más barato en esta oferta de AliExpress</a></h4>
+    <a href='https://computerhoy.com/apple/no-hay-prime-day-pero-no-hace-falta-apple-watch-series-9-mucho-barato-oferta-aliexpress-1396627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-series-9-3135646.jpg?tf=1200x' alt='No hay Prime Day, pero no hace falta: el Apple Watch Series 9 es mucho más barato en esta oferta de AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/razones-no-usar-google-iniciar-sesion-paginas-web-1354308'>Razones por las que no recomendamos usar Google o Facebook para iniciar sesión en páginas web</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/razones-no-usar-google-iniciar-sesion-paginas-web-1354308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/razones-no-usar-google-facebook-iniciar-sesion-paginas-web-3256928.jpg?tf=1200x' alt='Razones por las que no recomendamos usar Google o Facebook para iniciar sesión en páginas web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-actualizara-windows-11-automaticamente-tienes-version-concreta-1396624'>Microsoft actualizará Windows 11 automáticamente si tienes esta versión concreta</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-actualizara-windows-11-automaticamente-tienes-version-concreta-1396624' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-razones-peso-actualizar-windows-11-abandonar-windows-10-3619001.jpg?tf=1200x' alt='Microsoft actualizará Windows 11 automáticamente si tienes esta versión concreta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/ni-chihiro-ni-totoro-ni-castillo-ambulante-pelicula-animacion-japonesa-impactante-no-pertenece-studio-ghibli-1396343'>Ni Chihiro ni Totoro ni El castillo ambulante, esta es la película de animación japonesa más impactante, y no pertenece al Studio Ghibli</a></h4>
     <a href='https://computerhoy.com/entretenimiento/ni-chihiro-ni-totoro-ni-castillo-ambulante-pelicula-animacion-japonesa-impactante-no-pertenece-studio-ghibli-1396343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-chihiro-ni-totoro-ni-castillo-ambulante-pelicula-animacion-japonesa-impactante-no-pertenece-studio-ghibli-3755486.jpg?tf=1200x' alt='Ni Chihiro ni Totoro ni El castillo ambulante, esta es la película de animación japonesa más impactante, y no pertenece al Studio Ghibli' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/perseidas-2024-mejores-dias-donde-ver-lagrimas-san-lorenzo-espana-1396579'>Perseidas 2024: mejores días y dónde ver las lágrimas de San Lorenzo desde España</a></h4>
-    <a href='https://computerhoy.com/espacio/perseidas-2024-mejores-dias-donde-ver-lagrimas-san-lorenzo-espana-1396579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/perseidas-2024-mejores-dias-donde-ver-lagrimas-san-lorenzo-espana-3764006.jpg?tf=1200x' alt='Perseidas 2024: mejores días y dónde ver las lágrimas de San Lorenzo desde España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/x-busca-limitar-spam-nueva-funcion-bloqueo-enlaces-respuestas-1396623'>X busca limitar el spam con una nueva función de bloqueo de enlaces en respuestas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/x-busca-limitar-spam-nueva-funcion-bloqueo-enlaces-respuestas-1396623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/twitter-x-3769419.jpg?tf=1200x' alt='X busca limitar el spam con una nueva función de bloqueo de enlaces en respuestas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-puedes-probar-antes-nadie-android-auto-125-novedades-como-actualizar-ahora-1396620'>Ya puedes probar antes que nadie Android Auto 12.5: novedades y cómo actualizar ahora</a></h4>
-    <a href='https://computerhoy.com/apps/ya-puedes-probar-antes-nadie-android-auto-125-novedades-como-actualizar-ahora-1396620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-125-3769270.jpg?tf=1200x' alt='Ya puedes probar antes que nadie Android Auto 12.5: novedades y cómo actualizar ahora' />
     </a>
 </div>
 
