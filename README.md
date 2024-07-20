@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/productos-top-xiaomi-pone-android-tv-precio-minimo-aliexpress-1392273'>El producto Xiaomi más buscado no es un móvil, y está en oferta: es su TV Box y AliExpress la ha rebajado</a></h4>
-    <a href='https://computerhoy.com/android/productos-top-xiaomi-pone-android-tv-precio-minimo-aliexpress-1392273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-box-s-2nd-gen-3280982.jpg?tf=1200x' alt='El producto Xiaomi más buscado no es un móvil, y está en oferta: es su TV Box y AliExpress la ha rebajado' />
+    <h4><a href='https://computerhoy.com/tecnologia/cascos-conduccion-osea-baratos-probar-aliexpress-1383108'>Si los cascos de conducción ósea te causan curiosidad, estos de Lenovo son una ganga que no te costará comprar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cascos-conduccion-osea-baratos-probar-aliexpress-1383108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-x3-pro-3306221.jpg?tf=1200x' alt='Si los cascos de conducción ósea te causan curiosidad, estos de Lenovo son una ganga que no te costará comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cosai-alianza-creada-google-amazon-microsoft-nvidia-openai-otros-gigantes-1396597'>Qué es CoSAI, la alianza creada por Google, Amazon, Microsoft, NVIDIA, OpenAI y otros gigantes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cosai-alianza-creada-google-amazon-microsoft-nvidia-openai-otros-gigantes-1396597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cosai-alianza-creada-google-amazon-microsoft-nvidia-openai-otros-gigantes-3765170.jpg?tf=1200x' alt='Qué es CoSAI, la alianza creada por Google, Amazon, Microsoft, NVIDIA, OpenAI y otros gigantes' />
+    <h4><a href='https://computerhoy.com/apps/aqui-app-wero-real-amenaza-bizum-opcion-tener-cuenta-espana-1395777'>Aquí está la app de Wero, la real amenaza de Bizum: ¿Es una opción a tener en cuenta en España? </a></h4>
+    <a href='https://computerhoy.com/apps/aqui-app-wero-real-amenaza-bizum-opcion-tener-cuenta-espana-1395777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aplicacion-wero-vs-bizum-3754392.jpg?tf=1200x' alt='Aquí está la app de Wero, la real amenaza de Bizum: ¿Es una opción a tener en cuenta en España? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/palabras-magicas-desvelan-cuenta-x-bot-1396595'>Las palabras mágicas que desvelan si una cuenta de X es un bot, y lo anulan</a></h4>
-    <a href='https://computerhoy.com/redes/palabras-magicas-desvelan-cuenta-x-bot-1396595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/4-palabras-magicas-desvelan-cuenta-x-bot-anulan-3764300.jpg?tf=1200x' alt='Las palabras mágicas que desvelan si una cuenta de X es un bot, y lo anulan' />
+    <h4><a href='https://computerhoy.com/moviles/verano-plegable-1395942'>El verano del plegable</a></h4>
+    <a href='https://computerhoy.com/moviles/verano-plegable-1395942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-fold-6-3740174.jpg?tf=1200x' alt='El verano del plegable' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-casa-dragon-perros-peliculas-series-tambien-han-triunfado-hollywood-1392713'>No solo La casa del dragón: perros de películas y series que también han “triunfado” en Hollywood</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/no-solo-casa-dragon-perros-peliculas-series-tambien-han-triunfado-hollywood-1392713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-solo-casa-dragon-perros-peliculas-series-tambien-han-triunfado-hollywood-3594040.jpg?tf=1200x' alt='No solo La casa del dragón: perros de películas y series que también han “triunfado” en Hollywood' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-fujifilm-instax-mini-99-camara-instantanea-divertida-verano-1396237'>He probado la Fujifilm Instax Mini 99, la cámara instantánea más divertida para este verano</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-fujifilm-instax-mini-99-camara-instantanea-divertida-verano-1396237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fujifilm-instax-mini-99-3762912.jpg?tf=1200x' alt='He probado la Fujifilm Instax Mini 99, la cámara instantánea más divertida para este verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/herramientas-cellebrite-fallan-iphones-ios-174-pero-mayoria-moviles-android-son-vulnerables-1396586'>Herramientas de Cellebrite fallan en iPhones con iOS 17.4, pero la mayoría de los móviles Android son vulnerables</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/herramientas-cellebrite-fallan-iphones-ios-174-pero-mayoria-moviles-android-son-vulnerables-1396586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/contrasena-iphone-3669717.jpg?tf=1200x' alt='Herramientas de Cellebrite fallan en iPhones con iOS 17.4, pero la mayoría de los móviles Android son vulnerables' />
+    <h4><a href='https://computerhoy.com/life/puenting-cobardes-camara-lenta-saltar-puente-1396599'>El puenting para cobardes, lo último para quienes tienen miedo de saltar de un puente</a></h4>
+    <a href='https://computerhoy.com/life/puenting-cobardes-camara-lenta-saltar-puente-1396599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puenting-camara-lenta-ultimo-quienes-tienen-miedo-saltar-puente-3766944.jpg?tf=1200x' alt='El puenting para cobardes, lo último para quienes tienen miedo de saltar de un puente' />
     </a>
 </div>
 
