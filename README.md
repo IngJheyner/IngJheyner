@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-windows-11-ahora-permite-fijar-mensajes-compartir-contenido-facilmente-1396639'>WhatsApp en Windows 11 ahora permite fijar mensajes y compartir contenido fácilmente</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-windows-11-ahora-permite-fijar-mensajes-compartir-contenido-facilmente-1396639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-web-2824571.jpg?tf=1200x' alt='WhatsApp en Windows 11 ahora permite fijar mensajes y compartir contenido fácilmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chrome-mejorara-rendimiento-pestanas-segundo-plano-1396638'>Chrome mejorará el rendimiento de las pestañas en segundo plano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chrome-mejorara-rendimiento-pestanas-segundo-plano-1396638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-google-chrome-te-permite-tener-100-pestanas-abiertas-bien-organizadas-3283250.jpg?tf=1200x' alt='Chrome mejorará el rendimiento de las pestañas en segundo plano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/gadget-superventas-aliexpress-cuesta-5-euros-pero-vas-agradecer-verano-1396533'>Este gadget superventas de AliExpress cuesta 5 euros, pero lo vas a agradecer este verano</a></h4>
     <a href='https://computerhoy.com/tecnologia/gadget-superventas-aliexpress-cuesta-5-euros-pero-vas-agradecer-verano-1396533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mini-ventilador-portatil-cuello-3761857.jpg?tf=1200x' alt='Este gadget superventas de AliExpress cuesta 5 euros, pero lo vas a agradecer este verano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/razones-no-usar-google-iniciar-sesion-paginas-web-1354308'>Razones por las que no recomendamos usar Google o Facebook para iniciar sesión en páginas web</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/razones-no-usar-google-iniciar-sesion-paginas-web-1354308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/razones-no-usar-google-facebook-iniciar-sesion-paginas-web-3256928.jpg?tf=1200x' alt='Razones por las que no recomendamos usar Google o Facebook para iniciar sesión en páginas web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-actualizara-windows-11-automaticamente-tienes-version-concreta-1396624'>Microsoft actualizará Windows 11 automáticamente si tienes esta versión concreta</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-actualizara-windows-11-automaticamente-tienes-version-concreta-1396624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-razones-peso-actualizar-windows-11-abandonar-windows-10-3619001.jpg?tf=1200x' alt='Microsoft actualizará Windows 11 automáticamente si tienes esta versión concreta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-chihiro-ni-totoro-ni-castillo-ambulante-pelicula-animacion-japonesa-impactante-no-pertenece-studio-ghibli-1396343'>Ni Chihiro ni Totoro ni El castillo ambulante, esta es la película de animación japonesa más impactante, y no pertenece al Studio Ghibli</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-chihiro-ni-totoro-ni-castillo-ambulante-pelicula-animacion-japonesa-impactante-no-pertenece-studio-ghibli-1396343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-chihiro-ni-totoro-ni-castillo-ambulante-pelicula-animacion-japonesa-impactante-no-pertenece-studio-ghibli-3755486.jpg?tf=1200x' alt='Ni Chihiro ni Totoro ni El castillo ambulante, esta es la película de animación japonesa más impactante, y no pertenece al Studio Ghibli' />
     </a>
 </div>
 
