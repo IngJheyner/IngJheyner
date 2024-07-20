@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/x-busca-limitar-spam-nueva-funcion-bloqueo-enlaces-respuestas-1396623'>X busca limitar el spam con una nueva función de bloqueo de enlaces en respuestas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/x-busca-limitar-spam-nueva-funcion-bloqueo-enlaces-respuestas-1396623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/twitter-x-3769419.jpg?tf=1200x' alt='X busca limitar el spam con una nueva función de bloqueo de enlaces en respuestas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ya-puedes-probar-antes-nadie-android-auto-125-novedades-como-actualizar-ahora-1396620'>Ya puedes probar antes que nadie Android Auto 12.5: novedades y cómo actualizar ahora</a></h4>
     <a href='https://computerhoy.com/apps/ya-puedes-probar-antes-nadie-android-auto-125-novedades-como-actualizar-ahora-1396620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-125-3769270.jpg?tf=1200x' alt='Ya puedes probar antes que nadie Android Auto 12.5: novedades y cómo actualizar ahora' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/error-conexion-wifi-hace-amazon-fire-tv-vaya-lento-1358881'>El error con la conexión WiFi que hace que tu Amazon Fire TV vaya mucho más lento</a></h4>
     <a href='https://computerhoy.com/internet/error-conexion-wifi-hace-amazon-fire-tv-vaya-lento-1358881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-acceder-test-velocidad-oculto-amazon-fire-tv-comprobar-calidad-internet-3249964.jpg?tf=1200x' alt='El error con la conexión WiFi que hace que tu Amazon Fire TV vaya mucho más lento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/windows-31-salva-southwest-airlines-durante-fallo-masivo-crowdstrike-1396611'>Windows 3.1 salva a Southwest Airlines durante el fallo masivo de CrowdStrike</a></h4>
-    <a href='https://computerhoy.com/tecnologia/windows-31-salva-southwest-airlines-durante-fallo-masivo-crowdstrike-1396611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/southwest-airlines-windows-31-3768832.jpg?tf=1200x' alt='Windows 3.1 salva a Southwest Airlines durante el fallo masivo de CrowdStrike' />
     </a>
 </div>
 
