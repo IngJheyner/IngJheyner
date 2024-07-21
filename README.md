@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/debes-aprovechar-fin-semana-dormir-harvard-1376757'>Así debes aprovechar el fin de semana para dormir, según Harvard</a></h4>
+    <a href='https://computerhoy.com/ciencia/debes-aprovechar-fin-semana-dormir-harvard-1376757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/debes-aprovechar-fin-semana-dormir-harvard-3295068.jpg?tf=1200x' alt='Así debes aprovechar el fin de semana para dormir, según Harvard' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-conseguir-trabajo-sector-ciberseguridad-1358577'>Cómo conseguir trabajo en el sector de la ciberseguridad y tener éxito</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-conseguir-trabajo-sector-ciberseguridad-1358577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ciberseguridad-trabajo-3264947.jpg?tf=1200x' alt='Cómo conseguir trabajo en el sector de la ciberseguridad y tener éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ventilador-philips-top-ventas-rebaja-amazon-1390360'>Este es el ventilador de techo que está arrasando: consume menos que el aire acondicionado y te ayuda a dormir mucho mejor</a></h4>
     <a href='https://computerhoy.com/tecnologia/ventilador-philips-top-ventas-rebaja-amazon-1390360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/philips-lighting-bliss-3485977.jpg?tf=1200x' alt='Este es el ventilador de techo que está arrasando: consume menos que el aire acondicionado y te ayuda a dormir mucho mejor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/guardar-contrasenas-navegador-seguro-estas-cometiendo-mayor-error-vida-1395778'>Guardar contraseñas en tu navegador: ¿Es seguro o estás cometiendo el mayor error de tu vida?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/guardar-contrasenas-navegador-seguro-estas-cometiendo-mayor-error-vida-1395778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/guardar-contrasenas-navegador-3754391.jpg?tf=1200x' alt='Guardar contraseñas en tu navegador: ¿Es seguro o estás cometiendo el mayor error de tu vida?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cve-papel-vital-ciberseguridad-mundo-1392497'>¿Qué es CVE y por qué su papel es vital para la ciberseguridad del mundo?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cve-papel-vital-ciberseguridad-mundo-1392497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1721296428636-3754383.jpg?tf=1200x' alt='¿Qué es CVE y por qué su papel es vital para la ciberseguridad del mundo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/me-ha-gustado-samsung-galaxy-z-fold-6-1396466'>Lo que más me ha gustado del Samsung Galaxy Z Fold 6 es una herramienta de IA (otra vez)</a></h4>
-    <a href='https://computerhoy.com/moviles/me-ha-gustado-samsung-galaxy-z-fold-6-1396466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-fold-6-3755659.jpg?tf=1200x' alt='Lo que más me ha gustado del Samsung Galaxy Z Fold 6 es una herramienta de IA (otra vez)' />
     </a>
 </div>
 
