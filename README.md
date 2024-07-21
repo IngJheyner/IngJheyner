@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/despues-12-anos-android-llevo-ano-iphone-acabo-comprarme-otro-me-decidi-cambiar-1360536'>Después de 12 años con Android, llevo un año con un iPhone y acabo de comprarme otro, ¿por qué me decidí a cambiar?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/despues-12-anos-android-llevo-ano-iphone-acabo-comprarme-otro-me-decidi-cambiar-1360536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-plus-3267208.jpg?tf=1200x' alt='Después de 12 años con Android, llevo un año con un iPhone y acabo de comprarme otro, ¿por qué me decidí a cambiar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/peor-respuesta-puedes-enviar-como-mensaje-texto-otra-persona-1396485'>Esta es la peor respuesta que puedes enviar como mensaje de texto a otra persona</a></h4>
     <a href='https://computerhoy.com/life/peor-respuesta-puedes-enviar-como-mensaje-texto-otra-persona-1396485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/peor-respuesta-puedes-enviar-como-mensaje-texto-otra-persona-3762007.jpg?tf=1200x' alt='Esta es la peor respuesta que puedes enviar como mensaje de texto a otra persona' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ventilador-philips-top-ventas-rebaja-amazon-1390360'>Este es el ventilador de techo que está arrasando: consume menos que el aire acondicionado y te ayuda a dormir mucho mejor</a></h4>
     <a href='https://computerhoy.com/tecnologia/ventilador-philips-top-ventas-rebaja-amazon-1390360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/philips-lighting-bliss-3485977.jpg?tf=1200x' alt='Este es el ventilador de techo que está arrasando: consume menos que el aire acondicionado y te ayuda a dormir mucho mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/investigadores-desarrollan-sistema-camaras-prevenir-conduccion-efectos-alcohol-1396640'>Investigadores desarrollan un sistema de cámaras para prevenir la conducción bajo los efectos del alcohol</a></h4>
-    <a href='https://computerhoy.com/tecnologia/investigadores-desarrollan-sistema-camaras-prevenir-conduccion-efectos-alcohol-1396640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/investigadores-desarrollan-sistema-camaras-prevenir-conduccion-efectos-alcohol-3770731.jpg?tf=1200x' alt='Investigadores desarrollan un sistema de cámaras para prevenir la conducción bajo los efectos del alcohol' />
     </a>
 </div>
 
