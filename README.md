@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/orange-pi-20-euros-regalo-amantes-informatica-1381208'>Esta Orange Pi de apenas 20 euros es un regalo para amantes de la informática barato y extraordinariamente útil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/orange-pi-20-euros-regalo-amantes-informatica-1381208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/orange-pi-os-3302651.jpg?tf=1200x' alt='Esta Orange Pi de apenas 20 euros es un regalo para amantes de la informática barato y extraordinariamente útil' />
+    <h4><a href='https://computerhoy.com/tecnologia/ventilador-philips-top-ventas-rebaja-amazon-1390360'>Este es el ventilador de techo que está arrasando: consume menos que el aire acondicionado y te ayuda a dormir mucho mejor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ventilador-philips-top-ventas-rebaja-amazon-1390360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/philips-lighting-bliss-3485977.jpg?tf=1200x' alt='Este es el ventilador de techo que está arrasando: consume menos que el aire acondicionado y te ayuda a dormir mucho mejor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fallo-crowdstrike-afecto-85-millones-pc-windows-mundo-1396643'>El fallo de CrowdStrike afectó a 8,5 millones de PC con Windows en el mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fallo-crowdstrike-afecto-85-millones-pc-windows-mundo-1396643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crowdstrike-fallo-microsoft-3761709.jpg?tf=1200x' alt='El fallo de CrowdStrike afectó a 8,5 millones de PC con Windows en el mundo' />
+    <h4><a href='https://computerhoy.com/tecnologia/investigadores-desarrollan-sistema-camaras-prevenir-conduccion-efectos-alcohol-1396640'>Investigadores desarrollan un sistema de cámaras para prevenir la conducción bajo los efectos del alcohol</a></h4>
+    <a href='https://computerhoy.com/tecnologia/investigadores-desarrollan-sistema-camaras-prevenir-conduccion-efectos-alcohol-1396640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/investigadores-desarrollan-sistema-camaras-prevenir-conduccion-efectos-alcohol-3770731.jpg?tf=1200x' alt='Investigadores desarrollan un sistema de cámaras para prevenir la conducción bajo los efectos del alcohol' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/app-pc-manager-windows-11-todo-puedes-hacer-ella-1395289'>Qué es la app PC Manager en Windows 11 y todo lo que puedes hacer con ella</a></h4>
-    <a href='https://computerhoy.com/windows/app-pc-manager-windows-11-todo-puedes-hacer-ella-1395289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/app-pc-manager-windows-11-todo-puedes-hacer-ella-3709236.jpg?tf=1200x' alt='Qué es la app PC Manager en Windows 11 y todo lo que puedes hacer con ella' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/guardar-contrasenas-navegador-seguro-estas-cometiendo-mayor-error-vida-1395778'>Guardar contraseñas en tu navegador: ¿Es seguro o estás cometiendo el mayor error de tu vida?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/guardar-contrasenas-navegador-seguro-estas-cometiendo-mayor-error-vida-1395778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/guardar-contrasenas-navegador-3754391.jpg?tf=1200x' alt='Guardar contraseñas en tu navegador: ¿Es seguro o estás cometiendo el mayor error de tu vida?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-windows-11-ahora-permite-fijar-mensajes-compartir-contenido-facilmente-1396639'>WhatsApp en Windows 11 ahora permite fijar mensajes y compartir contenido fácilmente</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-windows-11-ahora-permite-fijar-mensajes-compartir-contenido-facilmente-1396639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-web-2824571.jpg?tf=1200x' alt='WhatsApp en Windows 11 ahora permite fijar mensajes y compartir contenido fácilmente' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/cve-papel-vital-ciberseguridad-mundo-1392497'>¿Qué es CVE y por qué su papel es vital para la ciberseguridad del mundo?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cve-papel-vital-ciberseguridad-mundo-1392497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1721296428636-3754383.jpg?tf=1200x' alt='¿Qué es CVE y por qué su papel es vital para la ciberseguridad del mundo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chrome-mejorara-rendimiento-pestanas-segundo-plano-1396638'>Chrome mejorará el rendimiento de las pestañas en segundo plano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chrome-mejorara-rendimiento-pestanas-segundo-plano-1396638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-google-chrome-te-permite-tener-100-pestanas-abiertas-bien-organizadas-3283250.jpg?tf=1200x' alt='Chrome mejorará el rendimiento de las pestañas en segundo plano' />
+    <h4><a href='https://computerhoy.com/moviles/me-ha-gustado-samsung-galaxy-z-fold-6-1396466'>Lo que más me ha gustado del Samsung Galaxy Z Fold 6 es una herramienta de IA (otra vez)</a></h4>
+    <a href='https://computerhoy.com/moviles/me-ha-gustado-samsung-galaxy-z-fold-6-1396466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-fold-6-3755659.jpg?tf=1200x' alt='Lo que más me ha gustado del Samsung Galaxy Z Fold 6 es una herramienta de IA (otra vez)' />
     </a>
 </div>
 
