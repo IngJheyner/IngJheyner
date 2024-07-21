@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crowdstrike-herramienta-microsoft-1396685'>Microsoft lanza una herramienta para solucionar el fallo de CrowdStrike</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crowdstrike-herramienta-microsoft-1396685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-lanza-herramienta-recuperar-ordenadores-han-sufrido-fallo-crowdstrike-3777966.jpg?tf=1200x' alt='Microsoft lanza una herramienta para solucionar el fallo de CrowdStrike' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/antivirus-rusos-kaspersky-abandonan-estados-unidos-1396681'>Los antivirus rusos de Kaspersky abandonan Estados Unidos, ofreciendo un regalo muy extraño</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/antivirus-rusos-kaspersky-abandonan-estados-unidos-1396681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/antivirus-rusos-kaspersky-abandonan-estados-unidos-ofreciendo-regalo-muy-extrano-3777507.jpg?tf=1200x' alt='Los antivirus rusos de Kaspersky abandonan Estados Unidos, ofreciendo un regalo muy extraño' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/ninos-aun-prefieren-televisor-smartphone-tablet-1378131'>¿Por qué los niños aún prefieren el televisor al smartphone o la tablet?</a></h4>
     <a href='https://computerhoy.com/tv/ninos-aun-prefieren-televisor-smartphone-tablet-1378131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ninos-aun-prefieren-televisor-smartphone-tablet-3297254.jpg?tf=1200x' alt='¿Por qué los niños aún prefieren el televisor al smartphone o la tablet?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-experimentando-estos-metodos-abandones-chrome-favor-edge-windows-11-1396669'>Microsoft está experimentando con estos métodos para que abandones Chrome en favor de Edge en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-experimentando-estos-metodos-abandones-chrome-favor-edge-windows-11-1396669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chrome-edge-3268138.jpg?tf=1200x' alt='Microsoft está experimentando con estos métodos para que abandones Chrome en favor de Edge en Windows 11' />
     </a>
 </div>
 
