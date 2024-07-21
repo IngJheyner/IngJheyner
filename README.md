@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-confirma-fecha-disponibilidad-windows-11-24h2-equipos-intel-amd-1396658'>Microsoft confirma la fecha de disponibilidad de Windows 11 24H2 para equipos con Intel y AMD</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-confirma-fecha-disponibilidad-windows-11-24h2-equipos-intel-amd-1396658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-mi-pc-windows-10-cumple-requisitos-hardware-windows-11-3594965.jpg?tf=1200x' alt='Microsoft confirma la fecha de disponibilidad de Windows 11 24H2 para equipos con Intel y AMD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/apps-crianza-padres-son-cada-vez-populares-pero-esconden-secretos-oscuros-1396540'>Las apps de crianza para padres son cada vez más populares, pero esconden unos secretos oscuros</a></h4>
+    <a href='https://computerhoy.com/apps/apps-crianza-padres-son-cada-vez-populares-pero-esconden-secretos-oscuros-1396540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aplicaciones-crianza-son-cada-vez-populares-pero-esconden-secretos-3762311.jpg?tf=1200x' alt='Las apps de crianza para padres son cada vez más populares, pero esconden unos secretos oscuros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/locura-precio-ipad-pro-129-potente-reacondicionado-garantia-menos-1000-euros-1396655'>Locura de precio: el iPad Pro de 12,9 más potente reacondicionado y con garantía por menos de 1.000 euros</a></h4>
+    <a href='https://computerhoy.com/apple/locura-precio-ipad-pro-129-potente-reacondicionado-garantia-menos-1000-euros-1396655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/galeria-review-ipad-pro-m2-2022-2875535.jpg?tf=1200x' alt='Locura de precio: el iPad Pro de 12,9 más potente reacondicionado y con garantía por menos de 1.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/truco-viral-alexa-notifique-cartas-buzon-1353709'>El truco para que Alexa te notifique las cartas en tu buzón</a></h4>
+    <a href='https://computerhoy.com/life/truco-viral-alexa-notifique-cartas-buzon-1353709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/truco-triunfa-tiktok-alexa-te-notifique-cartas-buzon-3255849.jpg?tf=1200x' alt='El truco para que Alexa te notifique las cartas en tu buzón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/despues-12-anos-android-llevo-ano-iphone-acabo-comprarme-otro-me-decidi-cambiar-1360536'>Después de 12 años con Android, llevo un año con un iPhone y acabo de comprarme otro, ¿por qué me decidí a cambiar?</a></h4>
     <a href='https://computerhoy.com/tecnologia/despues-12-anos-android-llevo-ano-iphone-acabo-comprarme-otro-me-decidi-cambiar-1360536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-plus-3267208.jpg?tf=1200x' alt='Después de 12 años con Android, llevo un año con un iPhone y acabo de comprarme otro, ¿por qué me decidí a cambiar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/peor-respuesta-puedes-enviar-como-mensaje-texto-otra-persona-1396485'>Esta es la peor respuesta que puedes enviar como mensaje de texto a otra persona</a></h4>
-    <a href='https://computerhoy.com/life/peor-respuesta-puedes-enviar-como-mensaje-texto-otra-persona-1396485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/peor-respuesta-puedes-enviar-como-mensaje-texto-otra-persona-3762007.jpg?tf=1200x' alt='Esta es la peor respuesta que puedes enviar como mensaje de texto a otra persona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/debes-aprovechar-fin-semana-dormir-harvard-1376757'>Así debes aprovechar el fin de semana para dormir, según Harvard</a></h4>
-    <a href='https://computerhoy.com/ciencia/debes-aprovechar-fin-semana-dormir-harvard-1376757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/debes-aprovechar-fin-semana-dormir-harvard-3295068.jpg?tf=1200x' alt='Así debes aprovechar el fin de semana para dormir, según Harvard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-conseguir-trabajo-sector-ciberseguridad-1358577'>Cómo conseguir trabajo en el sector de la ciberseguridad y tener éxito</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-conseguir-trabajo-sector-ciberseguridad-1358577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ciberseguridad-trabajo-3264947.jpg?tf=1200x' alt='Cómo conseguir trabajo en el sector de la ciberseguridad y tener éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ventilador-philips-top-ventas-rebaja-amazon-1390360'>Este es el ventilador de techo que está arrasando: consume menos que el aire acondicionado y te ayuda a dormir mucho mejor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ventilador-philips-top-ventas-rebaja-amazon-1390360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/philips-lighting-bliss-3485977.jpg?tf=1200x' alt='Este es el ventilador de techo que está arrasando: consume menos que el aire acondicionado y te ayuda a dormir mucho mejor' />
     </a>
 </div>
 
