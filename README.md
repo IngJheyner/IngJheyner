@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/ninos-aun-prefieren-televisor-smartphone-tablet-1378131'>¿Por qué los niños aún prefieren el televisor al smartphone o la tablet?</a></h4>
+    <a href='https://computerhoy.com/tv/ninos-aun-prefieren-televisor-smartphone-tablet-1378131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ninos-aun-prefieren-televisor-smartphone-tablet-3297254.jpg?tf=1200x' alt='¿Por qué los niños aún prefieren el televisor al smartphone o la tablet?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-experimentando-estos-metodos-abandones-chrome-favor-edge-windows-11-1396669'>Microsoft está experimentando con estos métodos para que abandones Chrome en favor de Edge en Windows 11</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-experimentando-estos-metodos-abandones-chrome-favor-edge-windows-11-1396669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chrome-edge-3268138.jpg?tf=1200x' alt='Microsoft está experimentando con estos métodos para que abandones Chrome en favor de Edge en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-messages-convierte-aplicacion-mensajes-predeterminada-nuevos-dispositivos-galaxy-menos-estados-unidos-1396664'>Google Messages se convierte en la aplicación de mensajes predeterminada en los nuevos dispositivos Galaxy, al menos en Estados Unidos</a></h4>
     <a href='https://computerhoy.com/apps/google-messages-convierte-aplicacion-mensajes-predeterminada-nuevos-dispositivos-galaxy-menos-estados-unidos-1396664' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-messages-3775562.jpg?tf=1200x' alt='Google Messages se convierte en la aplicación de mensajes predeterminada en los nuevos dispositivos Galaxy, al menos en Estados Unidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-chatgpt-crear-formulas-excel-google-sheets-1356121'>Cómo utilizar ChatGPT para crear fórmulas de Excel y Google Sheets y sacarle el máximo partido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-utilizar-chatgpt-crear-formulas-excel-google-sheets-1356121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-utilizar-chatgpt-crear-formulas-excel-google-sheets-3259924.jpg?tf=1200x' alt='Cómo utilizar ChatGPT para crear fórmulas de Excel y Google Sheets y sacarle el máximo partido' />
     </a>
 </div>
 
