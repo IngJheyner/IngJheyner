@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/apoyo-elon-musk-candidatura-trump-grave-problema-tesla-1396688'>El apoyo de Elon Musk a la candidatura de Trump, un grave problema para Tesla</a></h4>
+    <a href='https://computerhoy.com/motor/apoyo-elon-musk-candidatura-trump-grave-problema-tesla-1396688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mazazo-elon-musk-no-recibira-56000-millones-dolares-iba-dar-tesla-3268769.jpg?tf=1200x' alt='El apoyo de Elon Musk a la candidatura de Trump, un grave problema para Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/crowdstrike-herramienta-microsoft-1396685'>Microsoft lanza una herramienta para solucionar el fallo de CrowdStrike</a></h4>
     <a href='https://computerhoy.com/tecnologia/crowdstrike-herramienta-microsoft-1396685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-lanza-herramienta-recuperar-ordenadores-han-sufrido-fallo-crowdstrike-3777966.jpg?tf=1200x' alt='Microsoft lanza una herramienta para solucionar el fallo de CrowdStrike' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-desinstalar-movil-android-apps-preinstaladas-bloatware-1360653'>Recupera espacio en tu móvil Android eliminando las apps preinstaladas y el bloatware</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-desinstalar-movil-android-apps-preinstaladas-bloatware-1360653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-borrar-aplicaciones-preinstaladas-movil-android-necesidad-hacer-root-3267521.jpg?tf=1200x' alt='Recupera espacio en tu móvil Android eliminando las apps preinstaladas y el bloatware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/ninos-aun-prefieren-televisor-smartphone-tablet-1378131'>¿Por qué los niños aún prefieren el televisor al smartphone o la tablet?</a></h4>
-    <a href='https://computerhoy.com/tv/ninos-aun-prefieren-televisor-smartphone-tablet-1378131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ninos-aun-prefieren-televisor-smartphone-tablet-3297254.jpg?tf=1200x' alt='¿Por qué los niños aún prefieren el televisor al smartphone o la tablet?' />
     </a>
 </div>
 
