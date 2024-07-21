@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/antivirus-rusos-kaspersky-abandonan-estados-unidos-1396681'>Los antivirus rusos de Kaspersky abandonan Estados Unidos, ofreciendo un regalo muy extraño</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/antivirus-rusos-kaspersky-abandonan-estados-unidos-1396681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/antivirus-rusos-kaspersky-abandonan-estados-unidos-ofreciendo-regalo-muy-extrano-3777507.jpg?tf=1200x' alt='Los antivirus rusos de Kaspersky abandonan Estados Unidos, ofreciendo un regalo muy extraño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/detienen-adolescente-responsable-hackear-varios-casinos-vegas-1396678'>Detienen a un adolescente responsable de hackear varios casinos de Las Vegas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/detienen-adolescente-responsable-hackear-varios-casinos-vegas-1396678' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/detienen-adolescente-responsable-hackear-varios-casinos-vegas-3777049.jpg?tf=1200x' alt='Detienen a un adolescente responsable de hackear varios casinos de Las Vegas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-experimentando-estos-metodos-abandones-chrome-favor-edge-windows-11-1396669'>Microsoft está experimentando con estos métodos para que abandones Chrome en favor de Edge en Windows 11</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-experimentando-estos-metodos-abandones-chrome-favor-edge-windows-11-1396669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chrome-edge-3268138.jpg?tf=1200x' alt='Microsoft está experimentando con estos métodos para que abandones Chrome en favor de Edge en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/innovacion-apple-registran-patente-detectar-redes-wifi-fraudulentas-1396667'>Innovación de Apple: registran una patente para detectar redes WiFi fraudulentas</a></h4>
-    <a href='https://computerhoy.com/apple/innovacion-apple-registran-patente-detectar-redes-wifi-fraudulentas-1396667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/redes-wifi-apple-3775860.jpg?tf=1200x' alt='Innovación de Apple: registran una patente para detectar redes WiFi fraudulentas' />
     </a>
 </div>
 
