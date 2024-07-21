@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/innovacion-apple-registran-patente-detectar-redes-wifi-fraudulentas-1396667'>Innovación de Apple: registran una patente para detectar redes WiFi fraudulentas</a></h4>
+    <a href='https://computerhoy.com/apple/innovacion-apple-registran-patente-detectar-redes-wifi-fraudulentas-1396667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/redes-wifi-apple-3775860.jpg?tf=1200x' alt='Innovación de Apple: registran una patente para detectar redes WiFi fraudulentas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-chino-imita-macbook-air-pesa-14-kg-viene-windows-11-increiblemente-barato-1396484'>Este portátil chino imita al MacBook Air: pesa 1,4 kg, viene con Windows 11 y es increíblemente barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-chino-imita-macbook-air-pesa-14-kg-viene-windows-11-increiblemente-barato-1396484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chuwi-herobook-pro-3760890.jpg?tf=1200x' alt='Este portátil chino imita al MacBook Air: pesa 1,4 kg, viene con Windows 11 y es increíblemente barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-messages-convierte-aplicacion-mensajes-predeterminada-nuevos-dispositivos-galaxy-menos-estados-unidos-1396664'>Google Messages se convierte en la aplicación de mensajes predeterminada en los nuevos dispositivos Galaxy, al menos en Estados Unidos</a></h4>
     <a href='https://computerhoy.com/apps/google-messages-convierte-aplicacion-mensajes-predeterminada-nuevos-dispositivos-galaxy-menos-estados-unidos-1396664' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-messages-3775562.jpg?tf=1200x' alt='Google Messages se convierte en la aplicación de mensajes predeterminada en los nuevos dispositivos Galaxy, al menos en Estados Unidos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chrome-te-avisara-descargas-peligrosas-advertencia-pantalla-completa-1396661'>Chrome te avisará de descargas peligrosas con una advertencia a pantalla completa</a></h4>
     <a href='https://computerhoy.com/tecnologia/chrome-te-avisara-descargas-peligrosas-advertencia-pantalla-completa-1396661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chrome-malware-2914052.jpg?tf=1200x' alt='Chrome te avisará de descargas peligrosas con una advertencia a pantalla completa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidacion-reloj-huawei-elegante-1395596'>Amazon está liquidando uno de nuestros relojes favoritos, y en su versión para vestir elegante</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-liquidacion-reloj-huawei-elegante-1395596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/huawei-watch-gt-4-3775558.jpg?tf=1200x' alt='Amazon está liquidando uno de nuestros relojes favoritos, y en su versión para vestir elegante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-miticas-ambientadas-playa-ver-vacaciones-1396133'>5 películas míticas ambientadas en la playa para ver en vacaciones</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-peliculas-miticas-ambientadas-playa-ver-vacaciones-1396133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-peliculas-miticas-ambientadas-playa-ver-vacaciones-3756571.jpg?tf=1200x' alt='5 películas míticas ambientadas en la playa para ver en vacaciones' />
     </a>
 </div>
 
