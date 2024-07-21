@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/detienen-adolescente-responsable-hackear-varios-casinos-vegas-1396678'>Detienen a un adolescente responsable de hackear varios casinos de Las Vegas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/detienen-adolescente-responsable-hackear-varios-casinos-vegas-1396678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/detienen-adolescente-responsable-hackear-varios-casinos-vegas-3777049.jpg?tf=1200x' alt='Detienen a un adolescente responsable de hackear varios casinos de Las Vegas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-desinstalar-movil-android-apps-preinstaladas-bloatware-1360653'>Recupera espacio en tu móvil Android eliminando las apps preinstaladas y el bloatware</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desinstalar-movil-android-apps-preinstaladas-bloatware-1360653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-borrar-aplicaciones-preinstaladas-movil-android-necesidad-hacer-root-3267521.jpg?tf=1200x' alt='Recupera espacio en tu móvil Android eliminando las apps preinstaladas y el bloatware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/ninos-aun-prefieren-televisor-smartphone-tablet-1378131'>¿Por qué los niños aún prefieren el televisor al smartphone o la tablet?</a></h4>
     <a href='https://computerhoy.com/tv/ninos-aun-prefieren-televisor-smartphone-tablet-1378131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ninos-aun-prefieren-televisor-smartphone-tablet-3297254.jpg?tf=1200x' alt='¿Por qué los niños aún prefieren el televisor al smartphone o la tablet?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/innovacion-apple-registran-patente-detectar-redes-wifi-fraudulentas-1396667'>Innovación de Apple: registran una patente para detectar redes WiFi fraudulentas</a></h4>
     <a href='https://computerhoy.com/apple/innovacion-apple-registran-patente-detectar-redes-wifi-fraudulentas-1396667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/redes-wifi-apple-3775860.jpg?tf=1200x' alt='Innovación de Apple: registran una patente para detectar redes WiFi fraudulentas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-chino-imita-macbook-air-pesa-14-kg-viene-windows-11-increiblemente-barato-1396484'>Este portátil chino imita al MacBook Air: pesa 1,4 kg, viene con Windows 11 y es increíblemente barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-chino-imita-macbook-air-pesa-14-kg-viene-windows-11-increiblemente-barato-1396484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chuwi-herobook-pro-3760890.jpg?tf=1200x' alt='Este portátil chino imita al MacBook Air: pesa 1,4 kg, viene con Windows 11 y es increíblemente barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-messages-convierte-aplicacion-mensajes-predeterminada-nuevos-dispositivos-galaxy-menos-estados-unidos-1396664'>Google Messages se convierte en la aplicación de mensajes predeterminada en los nuevos dispositivos Galaxy, al menos en Estados Unidos</a></h4>
-    <a href='https://computerhoy.com/apps/google-messages-convierte-aplicacion-mensajes-predeterminada-nuevos-dispositivos-galaxy-menos-estados-unidos-1396664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-messages-3775562.jpg?tf=1200x' alt='Google Messages se convierte en la aplicación de mensajes predeterminada en los nuevos dispositivos Galaxy, al menos en Estados Unidos' />
     </a>
 </div>
 
