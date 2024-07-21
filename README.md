@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/orange-pi-20-euros-regalo-amantes-informatica-1381208'>Esta Orange Pi de apenas 20 euros es un regalo para amantes de la informática barato y extraordinariamente útil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/orange-pi-20-euros-regalo-amantes-informatica-1381208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/orange-pi-os-3302651.jpg?tf=1200x' alt='Esta Orange Pi de apenas 20 euros es un regalo para amantes de la informática barato y extraordinariamente útil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/fallo-crowdstrike-afecto-85-millones-pc-windows-mundo-1396643'>El fallo de CrowdStrike afectó a 8,5 millones de PC con Windows en el mundo</a></h4>
     <a href='https://computerhoy.com/tecnologia/fallo-crowdstrike-afecto-85-millones-pc-windows-mundo-1396643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crowdstrike-fallo-microsoft-3761709.jpg?tf=1200x' alt='El fallo de CrowdStrike afectó a 8,5 millones de PC con Windows en el mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chrome-mejorara-rendimiento-pestanas-segundo-plano-1396638'>Chrome mejorará el rendimiento de las pestañas en segundo plano</a></h4>
     <a href='https://computerhoy.com/tecnologia/chrome-mejorara-rendimiento-pestanas-segundo-plano-1396638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-google-chrome-te-permite-tener-100-pestanas-abiertas-bien-organizadas-3283250.jpg?tf=1200x' alt='Chrome mejorará el rendimiento de las pestañas en segundo plano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gadget-superventas-aliexpress-cuesta-5-euros-pero-vas-agradecer-verano-1396533'>Este gadget superventas de AliExpress cuesta 5 euros, pero lo vas a agradecer este verano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gadget-superventas-aliexpress-cuesta-5-euros-pero-vas-agradecer-verano-1396533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mini-ventilador-portatil-cuello-3761857.jpg?tf=1200x' alt='Este gadget superventas de AliExpress cuesta 5 euros, pero lo vas a agradecer este verano' />
     </a>
 </div>
 
