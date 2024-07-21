@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hombre-usa-dron-pillar-mujer-enganandole-jefe-1396690'>Un hombre usa un dron para pillar a su mujer engañándole con su jefe</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hombre-usa-dron-pillar-mujer-enganandole-jefe-1396690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hombre-usa-dron-pillar-mujer-enganandole-otro-3779008.jpg?tf=1200x' alt='Un hombre usa un dron para pillar a su mujer engañándole con su jefe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/apoyo-elon-musk-candidatura-trump-grave-problema-tesla-1396688'>El apoyo de Elon Musk a la candidatura de Trump, un grave problema para Tesla</a></h4>
     <a href='https://computerhoy.com/motor/apoyo-elon-musk-candidatura-trump-grave-problema-tesla-1396688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mazazo-elon-musk-no-recibira-56000-millones-dolares-iba-dar-tesla-3268769.jpg?tf=1200x' alt='El apoyo de Elon Musk a la candidatura de Trump, un grave problema para Tesla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/detienen-adolescente-responsable-hackear-varios-casinos-vegas-1396678'>Detienen a un adolescente responsable de hackear varios casinos de Las Vegas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/detienen-adolescente-responsable-hackear-varios-casinos-vegas-1396678' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/detienen-adolescente-responsable-hackear-varios-casinos-vegas-3777049.jpg?tf=1200x' alt='Detienen a un adolescente responsable de hackear varios casinos de Las Vegas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-desinstalar-movil-android-apps-preinstaladas-bloatware-1360653'>Recupera espacio en tu móvil Android eliminando las apps preinstaladas y el bloatware</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-desinstalar-movil-android-apps-preinstaladas-bloatware-1360653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-borrar-aplicaciones-preinstaladas-movil-android-necesidad-hacer-root-3267521.jpg?tf=1200x' alt='Recupera espacio en tu móvil Android eliminando las apps preinstaladas y el bloatware' />
     </a>
 </div>
 
