@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chrome-te-avisara-descargas-peligrosas-advertencia-pantalla-completa-1396661'>Chrome te avisará de descargas peligrosas con una advertencia a pantalla completa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chrome-te-avisara-descargas-peligrosas-advertencia-pantalla-completa-1396661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chrome-malware-2914052.jpg?tf=1200x' alt='Chrome te avisará de descargas peligrosas con una advertencia a pantalla completa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidacion-reloj-huawei-elegante-1395596'>Amazon está liquidando uno de nuestros relojes favoritos, y en su versión para vestir elegante</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-liquidacion-reloj-huawei-elegante-1395596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/huawei-watch-gt-4-3775558.jpg?tf=1200x' alt='Amazon está liquidando uno de nuestros relojes favoritos, y en su versión para vestir elegante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-miticas-ambientadas-playa-ver-vacaciones-1396133'>5 películas míticas ambientadas en la playa para ver en vacaciones</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/5-peliculas-miticas-ambientadas-playa-ver-vacaciones-1396133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-peliculas-miticas-ambientadas-playa-ver-vacaciones-3756571.jpg?tf=1200x' alt='5 películas míticas ambientadas en la playa para ver en vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-confirma-fecha-disponibilidad-windows-11-24h2-equipos-intel-amd-1396658'>Microsoft confirma la fecha de disponibilidad de Windows 11 24H2 para equipos con Intel y AMD</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-confirma-fecha-disponibilidad-windows-11-24h2-equipos-intel-amd-1396658' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-mi-pc-windows-10-cumple-requisitos-hardware-windows-11-3594965.jpg?tf=1200x' alt='Microsoft confirma la fecha de disponibilidad de Windows 11 24H2 para equipos con Intel y AMD' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/apps-crianza-padres-son-cada-vez-populares-pero-esconden-secretos-oscuros-1396540'>Las apps de crianza para padres son cada vez más populares, pero esconden unos secretos oscuros</a></h4>
     <a href='https://computerhoy.com/apps/apps-crianza-padres-son-cada-vez-populares-pero-esconden-secretos-oscuros-1396540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aplicaciones-crianza-son-cada-vez-populares-pero-esconden-secretos-3762311.jpg?tf=1200x' alt='Las apps de crianza para padres son cada vez más populares, pero esconden unos secretos oscuros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/locura-precio-ipad-pro-129-potente-reacondicionado-garantia-menos-1000-euros-1396655'>Locura de precio: el iPad Pro de 12,9 más potente reacondicionado y con garantía por menos de 1.000 euros</a></h4>
-    <a href='https://computerhoy.com/apple/locura-precio-ipad-pro-129-potente-reacondicionado-garantia-menos-1000-euros-1396655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/galeria-review-ipad-pro-m2-2022-2875535.jpg?tf=1200x' alt='Locura de precio: el iPad Pro de 12,9 más potente reacondicionado y con garantía por menos de 1.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-viral-alexa-notifique-cartas-buzon-1353709'>El truco para que Alexa te notifique las cartas en tu buzón</a></h4>
-    <a href='https://computerhoy.com/life/truco-viral-alexa-notifique-cartas-buzon-1353709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/truco-triunfa-tiktok-alexa-te-notifique-cartas-buzon-3255849.jpg?tf=1200x' alt='El truco para que Alexa te notifique las cartas en tu buzón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/despues-12-anos-android-llevo-ano-iphone-acabo-comprarme-otro-me-decidi-cambiar-1360536'>Después de 12 años con Android, llevo un año con un iPhone y acabo de comprarme otro, ¿por qué me decidí a cambiar?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/despues-12-anos-android-llevo-ano-iphone-acabo-comprarme-otro-me-decidi-cambiar-1360536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-plus-3267208.jpg?tf=1200x' alt='Después de 12 años con Android, llevo un año con un iPhone y acabo de comprarme otro, ¿por qué me decidí a cambiar?' />
     </a>
 </div>
 
