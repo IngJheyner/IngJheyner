@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/peor-respuesta-puedes-enviar-como-mensaje-texto-otra-persona-1396485'>Esta es la peor respuesta que puedes enviar como mensaje de texto a otra persona</a></h4>
+    <a href='https://computerhoy.com/life/peor-respuesta-puedes-enviar-como-mensaje-texto-otra-persona-1396485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/peor-respuesta-puedes-enviar-como-mensaje-texto-otra-persona-3762007.jpg?tf=1200x' alt='Esta es la peor respuesta que puedes enviar como mensaje de texto a otra persona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/debes-aprovechar-fin-semana-dormir-harvard-1376757'>Así debes aprovechar el fin de semana para dormir, según Harvard</a></h4>
     <a href='https://computerhoy.com/ciencia/debes-aprovechar-fin-semana-dormir-harvard-1376757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/debes-aprovechar-fin-semana-dormir-harvard-3295068.jpg?tf=1200x' alt='Así debes aprovechar el fin de semana para dormir, según Harvard' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/investigadores-desarrollan-sistema-camaras-prevenir-conduccion-efectos-alcohol-1396640'>Investigadores desarrollan un sistema de cámaras para prevenir la conducción bajo los efectos del alcohol</a></h4>
     <a href='https://computerhoy.com/tecnologia/investigadores-desarrollan-sistema-camaras-prevenir-conduccion-efectos-alcohol-1396640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/investigadores-desarrollan-sistema-camaras-prevenir-conduccion-efectos-alcohol-3770731.jpg?tf=1200x' alt='Investigadores desarrollan un sistema de cámaras para prevenir la conducción bajo los efectos del alcohol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardar-contrasenas-navegador-seguro-estas-cometiendo-mayor-error-vida-1395778'>Guardar contraseñas en tu navegador: ¿Es seguro o estás cometiendo el mayor error de tu vida?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guardar-contrasenas-navegador-seguro-estas-cometiendo-mayor-error-vida-1395778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/guardar-contrasenas-navegador-3754391.jpg?tf=1200x' alt='Guardar contraseñas en tu navegador: ¿Es seguro o estás cometiendo el mayor error de tu vida?' />
     </a>
 </div>
 
