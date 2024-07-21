@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-experimentando-estos-metodos-abandones-chrome-favor-edge-windows-11-1396669'>Microsoft está experimentando con estos métodos para que abandones Chrome en favor de Edge en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-experimentando-estos-metodos-abandones-chrome-favor-edge-windows-11-1396669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chrome-edge-3268138.jpg?tf=1200x' alt='Microsoft está experimentando con estos métodos para que abandones Chrome en favor de Edge en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/innovacion-apple-registran-patente-detectar-redes-wifi-fraudulentas-1396667'>Innovación de Apple: registran una patente para detectar redes WiFi fraudulentas</a></h4>
     <a href='https://computerhoy.com/apple/innovacion-apple-registran-patente-detectar-redes-wifi-fraudulentas-1396667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/redes-wifi-apple-3775860.jpg?tf=1200x' alt='Innovación de Apple: registran una patente para detectar redes WiFi fraudulentas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-chatgpt-crear-formulas-excel-google-sheets-1356121'>Cómo utilizar ChatGPT para crear fórmulas de Excel y Google Sheets y sacarle el máximo partido</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-utilizar-chatgpt-crear-formulas-excel-google-sheets-1356121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-utilizar-chatgpt-crear-formulas-excel-google-sheets-3259924.jpg?tf=1200x' alt='Cómo utilizar ChatGPT para crear fórmulas de Excel y Google Sheets y sacarle el máximo partido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chrome-te-avisara-descargas-peligrosas-advertencia-pantalla-completa-1396661'>Chrome te avisará de descargas peligrosas con una advertencia a pantalla completa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chrome-te-avisara-descargas-peligrosas-advertencia-pantalla-completa-1396661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chrome-malware-2914052.jpg?tf=1200x' alt='Chrome te avisará de descargas peligrosas con una advertencia a pantalla completa' />
     </a>
 </div>
 
