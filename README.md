@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/herramientas-ia-muy-utiles-ahorrar-tiempo-1345444'>7 herramientas de IA que son muy útiles y te ayudan a ahorrar tiempo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/herramientas-ia-muy-utiles-ahorrar-tiempo-1345444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/herramientas-ia-inteligencia-artificial-utiles-3241224.jpg?tf=1200x' alt='7 herramientas de IA que son muy útiles y te ayudan a ahorrar tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-cuenta-gmail-forma-permanente-irreversible-1396491'>Cómo eliminar una cuenta de Gmail de forma permanente e irreversible</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-eliminar-cuenta-gmail-forma-permanente-irreversible-1396491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/7-metodos-efectivos-solucionar-error-gmail-impide-descargar-imagenes-android-3249833.jpg?tf=1200x' alt='Cómo eliminar una cuenta de Gmail de forma permanente e irreversible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/puede-inmortalidad-no-tan-lejos-como-pensamos-cientifico-ya-ha-nacido-primera-persona-vivira-1000-anos-1396762'>Puede que la inmortalidad no esté tan lejos como pensamos: según un científico, ya ha nacido la primera persona que vivirá 1.000 años</a></h4>
     <a href='https://computerhoy.com/tecnologia/puede-inmortalidad-no-tan-lejos-como-pensamos-cientifico-ya-ha-nacido-primera-persona-vivira-1000-anos-1396762' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ia-3782568.jpg?tf=1200x' alt='Puede que la inmortalidad no esté tan lejos como pensamos: según un científico, ya ha nacido la primera persona que vivirá 1.000 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/respuesta-google-apple-aviso-usuarios-uso-google-chrome-1396794'>Esta es la respuesta de Google a Apple por el aviso a sus usuarios por el uso de Google Chrome</a></h4>
     <a href='https://computerhoy.com/apple/respuesta-google-apple-aviso-usuarios-uso-google-chrome-1396794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/respuesta-google-apple-aviso-usuarios-uso-google-chrome-3783048.jpg?tf=1200x' alt='Esta es la respuesta de Google a Apple por el aviso a sus usuarios por el uso de Google Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/necesitas-vpn-2024-1396396'>¿Por qué necesitas una VPN en 2024?</a></h4>
-    <a href='https://computerhoy.com/apps/necesitas-vpn-2024-1396396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/usar-vpn-laptop-3757429.jpg?tf=1200x' alt='¿Por qué necesitas una VPN en 2024?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/revelan-interior-pozo-profundo-luna-tiene-espacio-albergar-base-futura-1396779'>Revelan que el interior del pozo más profundo de la Luna tiene espacio para albergar una base futura</a></h4>
-    <a href='https://computerhoy.com/espacio/revelan-interior-pozo-profundo-luna-tiene-espacio-albergar-base-futura-1396779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/revelan-interior-pozo-profundo-luna-tiene-espacio-albergar-base-futura-3782880.jpg?tf=1200x' alt='Revelan que el interior del pozo más profundo de la Luna tiene espacio para albergar una base futura' />
     </a>
 </div>
 
