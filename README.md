@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/olvidate-cortes-internet-verano-usa-truco-puerto-usb-router-wifi-1396741'>Olvídate de los cortes de internet este verano y usa este truco con el puerto USB de tu router WiFi</a></h4>
+    <a href='https://computerhoy.com/internet/olvidate-cortes-internet-verano-usa-truco-puerto-usb-router-wifi-1396741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/malware-desconocido-destruye-600000-routers-proveedor-internet-3411082.jpg?tf=1200x' alt='Olvídate de los cortes de internet este verano y usa este truco con el puerto USB de tu router WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/instagram-funcion-notas-vuelve-loco-feed-publicaciones-antiguas-1396742'>Instagram y la función de notas que vuelve loco el feed con publicaciones antiguas</a></h4>
+    <a href='https://computerhoy.com/redes/instagram-funcion-notas-vuelve-loco-feed-publicaciones-antiguas-1396742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/instagram-funcion-notas-vuelve-loco-feed-publicaciones-antiguas-3782093.jpg?tf=1200x' alt='Instagram y la función de notas que vuelve loco el feed con publicaciones antiguas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/recomendaciones-robot-aspirador-vida-util-1352495'>7 recomendaciones para extender la vida útil de tu robot aspirador al máximo</a></h4>
     <a href='https://computerhoy.com/hogar/recomendaciones-robot-aspirador-vida-util-1352495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/robot-aspirador-2952136.jpg?tf=1200x' alt='7 recomendaciones para extender la vida útil de tu robot aspirador al máximo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-trabaja-nueva-seccion-descubrir-apps-perfectas-ti-play-store-1396735'>Google trabaja en una nueva sección para descubrir apps perfectas para ti en la Play Store</a></h4>
     <a href='https://computerhoy.com/google/google-trabaja-nueva-seccion-descubrir-apps-perfectas-ti-play-store-1396735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-play-store-3249999.jpg?tf=1200x' alt='Google trabaja en una nueva sección para descubrir apps perfectas para ti en la Play Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-steam-deck-consola-portatil-oled-android-cuesta-cinco-veces-menos-1396699'>Olvida Steam Deck: esta consola portátil OLED con Android cuesta cinco veces menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-steam-deck-consola-portatil-oled-android-cuesta-cinco-veces-menos-1396699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/anbernic-rg505-3781328.jpg?tf=1200x' alt='Olvida Steam Deck: esta consola portátil OLED con Android cuesta cinco veces menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-tiene-idea-mejorar-seguridad-ia-sea-ella-vigile-1396728'>OpenAI tiene una idea para mejorar la seguridad de su IA: que sea ella la que se vigile</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-tiene-idea-mejorar-seguridad-ia-sea-ella-vigile-1396728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-vigilancia-3781944.jpg?tf=1200x' alt='OpenAI tiene una idea para mejorar la seguridad de su IA: que sea ella la que se vigile' />
     </a>
 </div>
 
