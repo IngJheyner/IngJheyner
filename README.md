@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/puede-inmortalidad-no-tan-lejos-como-pensamos-cientifico-ya-ha-nacido-primera-persona-vivira-1000-anos-1396762'>Puede que la inmortalidad no esté tan lejos como pensamos: según un científico, ya ha nacido la primera persona que vivirá 1.000 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puede-inmortalidad-no-tan-lejos-como-pensamos-cientifico-ya-ha-nacido-primera-persona-vivira-1000-anos-1396762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ia-3782568.jpg?tf=1200x' alt='Puede que la inmortalidad no esté tan lejos como pensamos: según un científico, ya ha nacido la primera persona que vivirá 1.000 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estas-son-5-mejores-peliculas-basadas-libros-stephen-king-puedes-ver-amazon-prime-video-1395931'>Estas son las 5 mejores películas basadas en libros de Stephen King que puedes ver en Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estas-son-5-mejores-peliculas-basadas-libros-stephen-king-puedes-ver-amazon-prime-video-1395931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estas-son-5-mejores-peliculas-basadas-libros-stephen-king-puedes-ver-amazon-prime-video-3740933.jpg?tf=1200x' alt='Estas son las 5 mejores películas basadas en libros de Stephen King que puedes ver en Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/respuesta-google-apple-aviso-usuarios-uso-google-chrome-1396794'>Esta es la respuesta de Google a Apple por el aviso a sus usuarios por el uso de Google Chrome</a></h4>
+    <a href='https://computerhoy.com/apple/respuesta-google-apple-aviso-usuarios-uso-google-chrome-1396794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/respuesta-google-apple-aviso-usuarios-uso-google-chrome-3783048.jpg?tf=1200x' alt='Esta es la respuesta de Google a Apple por el aviso a sus usuarios por el uso de Google Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/necesitas-vpn-2024-1396396'>¿Por qué necesitas una VPN en 2024?</a></h4>
     <a href='https://computerhoy.com/apps/necesitas-vpn-2024-1396396' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/usar-vpn-laptop-3757429.jpg?tf=1200x' alt='¿Por qué necesitas una VPN en 2024?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/revelan-interior-pozo-profundo-luna-tiene-espacio-albergar-base-futura-1396779'>Revelan que el interior del pozo más profundo de la Luna tiene espacio para albergar una base futura</a></h4>
     <a href='https://computerhoy.com/espacio/revelan-interior-pozo-profundo-luna-tiene-espacio-albergar-base-futura-1396779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/revelan-interior-pozo-profundo-luna-tiene-espacio-albergar-base-futura-3782880.jpg?tf=1200x' alt='Revelan que el interior del pozo más profundo de la Luna tiene espacio para albergar una base futura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ciencia-estos-son-habitos-comportamientos-influyen-envejecimiento-1396338'>Según la ciencia, estos son los hábitos y comportamientos que influyen más en el envejecimiento</a></h4>
-    <a href='https://computerhoy.com/life/ciencia-estos-son-habitos-comportamientos-influyen-envejecimiento-1396338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ciencia-estos-son-habitos-comportamientos-influyen-envejecimiento-3782407.jpg?tf=1200x' alt='Según la ciencia, estos son los hábitos y comportamientos que influyen más en el envejecimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/airtag-chino-funciona-ios-android-cuesta-menos-cafe-1396783'>Este AirTag chino funciona con iOS y Android y cuesta menos que un café</a></h4>
-    <a href='https://computerhoy.com/tecnologia/airtag-chino-funciona-ios-android-cuesta-menos-cafe-1396783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cpvan-smart-tracker-3782890.jpg?tf=1200x' alt='Este AirTag chino funciona con iOS y Android y cuesta menos que un café' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/realme-c63-piel-vegana-carga-rapida-ia-precio-rompedor-1396774'>realme C63: piel vegana, carga rápida e IA a un precio rompedor</a></h4>
-    <a href='https://computerhoy.com/moviles/realme-c63-piel-vegana-carga-rapida-ia-precio-rompedor-1396774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realme-c63-3782566.jpg?tf=1200x' alt='realme C63: piel vegana, carga rápida e IA a un precio rompedor' />
     </a>
 </div>
 
