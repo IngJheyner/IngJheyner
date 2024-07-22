@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-tiene-idea-mejorar-seguridad-ia-sea-ella-vigile-1396728'>OpenAI tiene una idea para mejorar la seguridad de su IA: que sea ella la que se vigile</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-tiene-idea-mejorar-seguridad-ia-sea-ella-vigile-1396728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-vigilancia-3781944.jpg?tf=1200x' alt='OpenAI tiene una idea para mejorar la seguridad de su IA: que sea ella la que se vigile' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/era-tv-ha-terminado-presente-futuro-entretenimiento-bolsillo-1396567'>La era de la TV ha terminado: el presente y futuro del entretenimiento está en tu bolsillo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/era-tv-ha-terminado-presente-futuro-entretenimiento-bolsillo-1396567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/era-tv-ha-terminado-presente-futuro-entretenimiento-bolsillo-3763254.jpg?tf=1200x' alt='La era de la TV ha terminado: el presente y futuro del entretenimiento está en tu bolsillo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-cami-chatbot-ia-gratis-whatsapp-maximo-partido-1356421'>Cómo instalar Cami, el chatbot IA gratis para WhatsApp, y sacarle el máximo partido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-cami-chatbot-ia-gratis-whatsapp-maximo-partido-1356421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-instalar-cami-chatbot-ia-gratis-whatsapp-todo-puedes-hacer-3260462.jpg?tf=1200x' alt='Cómo instalar Cami, el chatbot IA gratis para WhatsApp, y sacarle el máximo partido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/control-z-iphone-deshacer-textos-corregir-errores-1396475'>Así es el 'Control-Z' del iPhone para deshacer textos y corregir errores</a></h4>
     <a href='https://computerhoy.com/tecnologia/control-z-iphone-deshacer-textos-corregir-errores-1396475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iphone-15-pro-3696955.jpg?tf=1200x' alt='Así es el 'Control-Z' del iPhone para deshacer textos y corregir errores' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ssd-ultrarrapido-oferta-miravia-pc-1378091'>Cuesta menos de 50 y pone tu PC a 4700 MB por segundo: este SSD es barato y muy veloz</a></h4>
     <a href='https://computerhoy.com/tecnologia/ssd-ultrarrapido-oferta-miravia-pc-1378091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/crucial-p3-plus-3297175.jpg?tf=1200x' alt='Cuesta menos de 50 y pone tu PC a 4700 MB por segundo: este SSD es barato y muy veloz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/genial-truco-convertir-viejo-aire-acondicionado-dispositivo-inteligente-1396594'>El genial truco para convertir tu viejo aire acondicionado en un dispositivo inteligente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/genial-truco-convertir-viejo-aire-acondicionado-dispositivo-inteligente-1396594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/genial-truco-convertir-viejo-aire-acondicionado-dispositivo-inteligente-3765316.jpg?tf=1200x' alt='El genial truco para convertir tu viejo aire acondicionado en un dispositivo inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/formato-plegable-quedarse-motorola-razr-50-ultra-mejor-ejemplo-1395756'>El formato plegable está para quedarse y el Motorola Razr 50 Ultra es el mejor ejemplo</a></h4>
-    <a href='https://computerhoy.com/moviles/formato-plegable-quedarse-motorola-razr-50-ultra-mejor-ejemplo-1395756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/motorola-razr-50-ultra-3733169.jpg?tf=1200x' alt='El formato plegable está para quedarse y el Motorola Razr 50 Ultra es el mejor ejemplo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-z-flip-6-claro-candidato-mejor-plegable-2024-base-camara-potencia-diseno-mejorados-1395890'>Samsung Galaxy Z Flip 6 es claro candidato a mejor plegable de 2024 a base de cámara, potencia y diseño mejorados</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-z-flip-6-claro-candidato-mejor-plegable-2024-base-camara-potencia-diseno-mejorados-1395890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-flip-6-3746836.jpg?tf=1200x' alt='Samsung Galaxy Z Flip 6 es claro candidato a mejor plegable de 2024 a base de cámara, potencia y diseño mejorados' />
     </a>
 </div>
 
