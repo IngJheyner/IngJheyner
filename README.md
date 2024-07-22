@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/recomendaciones-robot-aspirador-vida-util-1352495'>7 recomendaciones para extender la vida útil de tu robot aspirador al máximo</a></h4>
+    <a href='https://computerhoy.com/hogar/recomendaciones-robot-aspirador-vida-util-1352495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/robot-aspirador-2952136.jpg?tf=1200x' alt='7 recomendaciones para extender la vida útil de tu robot aspirador al máximo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nuevo-agujero-negro-podria-ayudar-explicar-como-mueren-estrellas-1396729'>Un nuevo agujero negro podría ayudar a explicar cómo mueren las estrellas</a></h4>
+    <a href='https://computerhoy.com/espacio/nuevo-agujero-negro-podria-ayudar-explicar-como-mueren-estrellas-1396729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nuevo-agujero-negro-podria-ayudar-explicar-como-mueren-estrellas-3781791.jpg?tf=1200x' alt='Un nuevo agujero negro podría ayudar a explicar cómo mueren las estrellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-trabaja-nueva-seccion-descubrir-apps-perfectas-ti-play-store-1396735'>Google trabaja en una nueva sección para descubrir apps perfectas para ti en la Play Store</a></h4>
+    <a href='https://computerhoy.com/google/google-trabaja-nueva-seccion-descubrir-apps-perfectas-ti-play-store-1396735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-play-store-3249999.jpg?tf=1200x' alt='Google trabaja en una nueva sección para descubrir apps perfectas para ti en la Play Store' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-steam-deck-consola-portatil-oled-android-cuesta-cinco-veces-menos-1396699'>Olvida Steam Deck: esta consola portátil OLED con Android cuesta cinco veces menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-steam-deck-consola-portatil-oled-android-cuesta-cinco-veces-menos-1396699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/anbernic-rg505-3781328.jpg?tf=1200x' alt='Olvida Steam Deck: esta consola portátil OLED con Android cuesta cinco veces menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/openai-tiene-idea-mejorar-seguridad-ia-sea-ella-vigile-1396728'>OpenAI tiene una idea para mejorar la seguridad de su IA: que sea ella la que se vigile</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-tiene-idea-mejorar-seguridad-ia-sea-ella-vigile-1396728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-vigilancia-3781944.jpg?tf=1200x' alt='OpenAI tiene una idea para mejorar la seguridad de su IA: que sea ella la que se vigile' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/era-tv-ha-terminado-presente-futuro-entretenimiento-bolsillo-1396567'>La era de la TV ha terminado: el presente y futuro del entretenimiento está en tu bolsillo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/era-tv-ha-terminado-presente-futuro-entretenimiento-bolsillo-1396567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/era-tv-ha-terminado-presente-futuro-entretenimiento-bolsillo-3763254.jpg?tf=1200x' alt='La era de la TV ha terminado: el presente y futuro del entretenimiento está en tu bolsillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-cami-chatbot-ia-gratis-whatsapp-maximo-partido-1356421'>Cómo instalar Cami, el chatbot IA gratis para WhatsApp, y sacarle el máximo partido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-cami-chatbot-ia-gratis-whatsapp-maximo-partido-1356421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-instalar-cami-chatbot-ia-gratis-whatsapp-todo-puedes-hacer-3260462.jpg?tf=1200x' alt='Cómo instalar Cami, el chatbot IA gratis para WhatsApp, y sacarle el máximo partido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/control-z-iphone-deshacer-textos-corregir-errores-1396475'>Así es el 'Control-Z' del iPhone para deshacer textos y corregir errores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/control-z-iphone-deshacer-textos-corregir-errores-1396475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iphone-15-pro-3696955.jpg?tf=1200x' alt='Así es el 'Control-Z' del iPhone para deshacer textos y corregir errores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ssd-ultrarrapido-oferta-miravia-pc-1378091'>Cuesta menos de 50 y pone tu PC a 4700 MB por segundo: este SSD es barato y muy veloz</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ssd-ultrarrapido-oferta-miravia-pc-1378091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/crucial-p3-plus-3297175.jpg?tf=1200x' alt='Cuesta menos de 50 y pone tu PC a 4700 MB por segundo: este SSD es barato y muy veloz' />
     </a>
 </div>
 
