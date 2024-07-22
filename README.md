@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/nara-smith-influencer-tradwife-inspira-roro-polemica-novia-pablo-1396879'>Nara Smith, la influencer tradwife en la que se inspira Roro, la polémica “novia de Pablo”</a></h4>
+    <a href='https://computerhoy.com/redes/nara-smith-influencer-tradwife-inspira-roro-polemica-novia-pablo-1396879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nara-smith-influencer-tradwife-parece-inspirarse-roro-polemica-novia-pablo-3785513.jpg?tf=1200x' alt='Nara Smith, la influencer tradwife en la que se inspira Roro, la polémica “novia de Pablo”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-dice-adios-funciones-usadas-te-afecta-1396875'>Google Maps dice adiós a una de sus funciones más usadas y así te afecta</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-dice-adios-funciones-usadas-te-afecta-1396875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/9-trucos-increibles-poco-conocidos-google-maps-te-sorprenderan-3742316.jpg?tf=1200x' alt='Google Maps dice adiós a una de sus funciones más usadas y así te afecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-cibercriminales-aprovechan-caos-crowdstrike-difundir-malware-1396876'>Alerta: Cibercriminales aprovechan el caos de CrowdStrike para difundir malware</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/alerta-cibercriminales-aprovechan-caos-crowdstrike-difundir-malware-1396876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-lanza-herramienta-recuperar-ordenadores-han-sufrido-fallo-crowdstrike-3777965.jpg?tf=1200x' alt='Alerta: Cibercriminales aprovechan el caos de CrowdStrike para difundir malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/6-cosas-increibles-desconoces-aun-utilizas-windows-xp-1396865'>6 cosas increíbles que desconoces si aún utilizas Windows XP</a></h4>
     <a href='https://computerhoy.com/windows/6-cosas-increibles-desconoces-aun-utilizas-windows-xp-1396865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/6-cosas-increibles-desconoces-aun-utilizas-windows-xp-3785515.jpg?tf=1200x' alt='6 cosas increíbles que desconoces si aún utilizas Windows XP' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/descubre-trucazo-google-maps-evitar-todos-radares-dgt-1396873'>Descubre el trucazo de Google Maps para evitar todos los radares de la DGT</a></h4>
     <a href='https://computerhoy.com/apps/descubre-trucazo-google-maps-evitar-todos-radares-dgt-1396873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/radares-google-maps-3785665.jpg?tf=1200x' alt='Descubre el trucazo de Google Maps para evitar todos los radares de la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-cosas-no-sabias-funcionan-linux-1396850'>7 cosas que no sabías que funcionan con Linux</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-cosas-no-sabias-funcionan-linux-1396850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/7-cosas-no-sabias-funcionan-linux-3784897.jpg?tf=1200x' alt='7 cosas que no sabías que funcionan con Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/cybertruck-llega-fortnite-1396861'>El Cybertruck llega a Fortnite para arrasar con todo</a></h4>
-    <a href='https://computerhoy.com/gaming/cybertruck-llega-fortnite-1396861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1721665660823-3784587.jpg?tf=1200x' alt='El Cybertruck llega a Fortnite para arrasar con todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-jugar-xbox-series-xs-android-ios-1396395'>Cómo jugar en Xbox Series X|S desde tu móvil Android o iOS</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-jugar-xbox-series-xs-android-ios-1396395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mando-xbox-series-s-3757288.jpg?tf=1200x' alt='Cómo jugar en Xbox Series X|S desde tu móvil Android o iOS' />
     </a>
 </div>
 
