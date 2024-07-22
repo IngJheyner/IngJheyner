@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/sony-jubila-ps4-1394545'>Game Over para la PS4: Sony anuncia el fin de la consola tras once años</a></h4>
+    <a href='https://computerhoy.com/gaming/sony-jubila-ps4-1394545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/final-ps4-3683431.jpg?tf=1200x' alt='Game Over para la PS4: Sony anuncia el fin de la consola tras once años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/alternativa-gratuita-spotify-escuchar-musica-ilimitada-streaming-1396296'>Adiós a Spotify Premium: esta app te da acceso ilimitado a millones de canciones... ¡gratis!</a></h4>
+    <a href='https://computerhoy.com/tutoriales/alternativa-gratuita-spotify-escuchar-musica-ilimitada-streaming-1396296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rimusic-3754867.jpg?tf=1200x' alt='Adiós a Spotify Premium: esta app te da acceso ilimitado a millones de canciones... ¡gratis!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/nara-smith-influencer-tradwife-inspira-roro-polemica-novia-pablo-1396879'>Nara Smith, la influencer tradwife en la que se inspira Roro, la polémica “novia de Pablo”</a></h4>
     <a href='https://computerhoy.com/redes/nara-smith-influencer-tradwife-inspira-roro-polemica-novia-pablo-1396879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nara-smith-influencer-tradwife-parece-inspirarse-roro-polemica-novia-pablo-3785513.jpg?tf=1200x' alt='Nara Smith, la influencer tradwife en la que se inspira Roro, la polémica “novia de Pablo”' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/alerta-cibercriminales-aprovechan-caos-crowdstrike-difundir-malware-1396876'>Alerta: Cibercriminales aprovechan el caos de CrowdStrike para difundir malware</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/alerta-cibercriminales-aprovechan-caos-crowdstrike-difundir-malware-1396876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-lanza-herramienta-recuperar-ordenadores-han-sufrido-fallo-crowdstrike-3777965.jpg?tf=1200x' alt='Alerta: Cibercriminales aprovechan el caos de CrowdStrike para difundir malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/6-cosas-increibles-desconoces-aun-utilizas-windows-xp-1396865'>6 cosas increíbles que desconoces si aún utilizas Windows XP</a></h4>
-    <a href='https://computerhoy.com/windows/6-cosas-increibles-desconoces-aun-utilizas-windows-xp-1396865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/6-cosas-increibles-desconoces-aun-utilizas-windows-xp-3785515.jpg?tf=1200x' alt='6 cosas increíbles que desconoces si aún utilizas Windows XP' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/descubre-trucazo-google-maps-evitar-todos-radares-dgt-1396873'>Descubre el trucazo de Google Maps para evitar todos los radares de la DGT</a></h4>
-    <a href='https://computerhoy.com/apps/descubre-trucazo-google-maps-evitar-todos-radares-dgt-1396873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/radares-google-maps-3785665.jpg?tf=1200x' alt='Descubre el trucazo de Google Maps para evitar todos los radares de la DGT' />
     </a>
 </div>
 
