@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/7-cosas-no-sabias-funcionan-linux-1396850'>7 cosas que no sabías que funcionan con Linux</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-cosas-no-sabias-funcionan-linux-1396850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/7-cosas-no-sabias-funcionan-linux-3784897.jpg?tf=1200x' alt='7 cosas que no sabías que funcionan con Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/cybertruck-llega-fortnite-1396861'>El Cybertruck llega a Fortnite para arrasar con todo</a></h4>
+    <a href='https://computerhoy.com/gaming/cybertruck-llega-fortnite-1396861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1721665660823-3784587.jpg?tf=1200x' alt='El Cybertruck llega a Fortnite para arrasar con todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-jugar-xbox-series-xs-android-ios-1396395'>Cómo jugar en Xbox Series X|S desde tu móvil Android o iOS</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-jugar-xbox-series-xs-android-ios-1396395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mando-xbox-series-s-3757288.jpg?tf=1200x' alt='Cómo jugar en Xbox Series X|S desde tu móvil Android o iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/helados-15-minutos-ola-calor-hara-llevadera-heladera-low-cost-1396825'>Helados en 15 minutos: la ola de calor se hará más llevadera con esta heladera low cost</a></h4>
     <a href='https://computerhoy.com/tecnologia/helados-15-minutos-ola-calor-hara-llevadera-heladera-low-cost-1396825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/duronic-im540-3783649.jpg?tf=1200x' alt='Helados en 15 minutos: la ola de calor se hará más llevadera con esta heladera low cost' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/5-trucos-rapidos-excel-desconocias-no-sabias-necesitabas-1396829'>5 trucos rápidos de Excel que desconocías y que no sabías que necesitabas</a></h4>
     <a href='https://computerhoy.com/apps/5-trucos-rapidos-excel-desconocias-no-sabias-necesitabas-1396829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-trucos-rapidos-excel-desconocias-no-sabias-necesitabas-3784583.jpg?tf=1200x' alt='5 trucos rápidos de Excel que desconocías y que no sabías que necesitabas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/herramientas-ia-muy-utiles-ahorrar-tiempo-1345444'>7 herramientas de IA que son muy útiles y te ayudan a ahorrar tiempo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/herramientas-ia-muy-utiles-ahorrar-tiempo-1345444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/herramientas-ia-inteligencia-artificial-utiles-3241224.jpg?tf=1200x' alt='7 herramientas de IA que son muy útiles y te ayudan a ahorrar tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-cuenta-gmail-forma-permanente-irreversible-1396491'>Cómo eliminar una cuenta de Gmail de forma permanente e irreversible</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-eliminar-cuenta-gmail-forma-permanente-irreversible-1396491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/7-metodos-efectivos-solucionar-error-gmail-impide-descargar-imagenes-android-3249833.jpg?tf=1200x' alt='Cómo eliminar una cuenta de Gmail de forma permanente e irreversible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puede-inmortalidad-no-tan-lejos-como-pensamos-cientifico-ya-ha-nacido-primera-persona-vivira-1000-anos-1396762'>Puede que la inmortalidad no esté tan lejos como pensamos: según un científico, ya ha nacido la primera persona que vivirá 1.000 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puede-inmortalidad-no-tan-lejos-como-pensamos-cientifico-ya-ha-nacido-primera-persona-vivira-1000-anos-1396762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ia-3782568.jpg?tf=1200x' alt='Puede que la inmortalidad no esté tan lejos como pensamos: según un científico, ya ha nacido la primera persona que vivirá 1.000 años' />
     </a>
 </div>
 
