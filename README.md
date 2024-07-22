@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/necesitas-vpn-2024-1396396'>¿Por qué necesitas una VPN en 2024?</a></h4>
+    <a href='https://computerhoy.com/apps/necesitas-vpn-2024-1396396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/usar-vpn-laptop-3757429.jpg?tf=1200x' alt='¿Por qué necesitas una VPN en 2024?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/revelan-interior-pozo-profundo-luna-tiene-espacio-albergar-base-futura-1396779'>Revelan que el interior del pozo más profundo de la Luna tiene espacio para albergar una base futura</a></h4>
+    <a href='https://computerhoy.com/espacio/revelan-interior-pozo-profundo-luna-tiene-espacio-albergar-base-futura-1396779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/revelan-interior-pozo-profundo-luna-tiene-espacio-albergar-base-futura-3782880.jpg?tf=1200x' alt='Revelan que el interior del pozo más profundo de la Luna tiene espacio para albergar una base futura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ciencia-estos-son-habitos-comportamientos-influyen-envejecimiento-1396338'>Según la ciencia, estos son los hábitos y comportamientos que influyen más en el envejecimiento</a></h4>
     <a href='https://computerhoy.com/life/ciencia-estos-son-habitos-comportamientos-influyen-envejecimiento-1396338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ciencia-estos-son-habitos-comportamientos-influyen-envejecimiento-3782407.jpg?tf=1200x' alt='Según la ciencia, estos son los hábitos y comportamientos que influyen más en el envejecimiento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/realme-c63-piel-vegana-carga-rapida-ia-precio-rompedor-1396774'>realme C63: piel vegana, carga rápida e IA a un precio rompedor</a></h4>
     <a href='https://computerhoy.com/moviles/realme-c63-piel-vegana-carga-rapida-ia-precio-rompedor-1396774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realme-c63-3782566.jpg?tf=1200x' alt='realme C63: piel vegana, carga rápida e IA a un precio rompedor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-virus-windows-sin-antivirus-1394840'>Cómo eliminar cualquier virus de Windows sin antivirus ni programas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-eliminar-virus-windows-sin-antivirus-1394840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/eliminar-virus-pc-3711884.jpg?tf=1200x' alt='Cómo eliminar cualquier virus de Windows sin antivirus ni programas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/huele-espacio-esto-dicen-astronautas-1354382'>¿A qué huele el espacio? Esto es lo que dicen los expertos astronautas</a></h4>
-    <a href='https://computerhoy.com/ciencia/huele-espacio-esto-dicen-astronautas-1354382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huele-espacio-dicen-astronautas-3257015.jpg?tf=1200x' alt='¿A qué huele el espacio? Esto es lo que dicen los expertos astronautas' />
     </a>
 </div>
 
