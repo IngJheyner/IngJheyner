@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/3-aparatos-electronicos-no-deberias-desenchufar-ningun-concepto-1396449'>3 aparatos electrónicos que no deberías desenchufar bajo ningún concepto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/3-aparatos-electronicos-no-deberias-desenchufar-ningun-concepto-1396449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/3-aparatos-electronicos-no-deberias-desenchufar-ningun-concepto-3761860.jpg?tf=1200x' alt='3 aparatos electrónicos que no deberías desenchufar bajo ningún concepto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/stick-tdt-full-hd-barato-amazon-1382111'>Este stick no ocupa espacio y te lleva la TDT Full HD sin instalación, y a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/stick-tdt-full-hd-barato-amazon-1382111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mini-decodificador-digital-trevi-he-3361-t2-3304180.jpg?tf=1200x' alt='Este stick no ocupa espacio y te lleva la TDT Full HD sin instalación, y a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/hombre-usa-dron-pillar-mujer-enganandole-jefe-1396690'>Un hombre usa un dron para pillar a su mujer engañándole con su jefe</a></h4>
     <a href='https://computerhoy.com/tecnologia/hombre-usa-dron-pillar-mujer-enganandole-jefe-1396690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hombre-usa-dron-pillar-mujer-enganandole-otro-3779008.jpg?tf=1200x' alt='Un hombre usa un dron para pillar a su mujer engañándole con su jefe' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/crowdstrike-herramienta-microsoft-1396685'>Microsoft lanza una herramienta para solucionar el fallo de CrowdStrike</a></h4>
     <a href='https://computerhoy.com/tecnologia/crowdstrike-herramienta-microsoft-1396685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-lanza-herramienta-recuperar-ordenadores-han-sufrido-fallo-crowdstrike-3777966.jpg?tf=1200x' alt='Microsoft lanza una herramienta para solucionar el fallo de CrowdStrike' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/antivirus-rusos-kaspersky-abandonan-estados-unidos-1396681'>Los antivirus rusos de Kaspersky abandonan Estados Unidos, ofreciendo un regalo muy extraño</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/antivirus-rusos-kaspersky-abandonan-estados-unidos-1396681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/antivirus-rusos-kaspersky-abandonan-estados-unidos-ofreciendo-regalo-muy-extrano-3777507.jpg?tf=1200x' alt='Los antivirus rusos de Kaspersky abandonan Estados Unidos, ofreciendo un regalo muy extraño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/detienen-adolescente-responsable-hackear-varios-casinos-vegas-1396678'>Detienen a un adolescente responsable de hackear varios casinos de Las Vegas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/detienen-adolescente-responsable-hackear-varios-casinos-vegas-1396678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/detienen-adolescente-responsable-hackear-varios-casinos-vegas-3777049.jpg?tf=1200x' alt='Detienen a un adolescente responsable de hackear varios casinos de Las Vegas' />
     </a>
 </div>
 
