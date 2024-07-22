@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ssd-ultrarrapido-oferta-miravia-pc-1378091'>Cuesta menos de 50 y pone tu PC a 4700 MB por segundo: este SSD es barato y muy veloz</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ssd-ultrarrapido-oferta-miravia-pc-1378091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/crucial-p3-plus-3297175.jpg?tf=1200x' alt='Cuesta menos de 50 y pone tu PC a 4700 MB por segundo: este SSD es barato y muy veloz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/genial-truco-convertir-viejo-aire-acondicionado-dispositivo-inteligente-1396594'>El genial truco para convertir tu viejo aire acondicionado en un dispositivo inteligente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/genial-truco-convertir-viejo-aire-acondicionado-dispositivo-inteligente-1396594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/genial-truco-convertir-viejo-aire-acondicionado-dispositivo-inteligente-3765316.jpg?tf=1200x' alt='El genial truco para convertir tu viejo aire acondicionado en un dispositivo inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/formato-plegable-quedarse-motorola-razr-50-ultra-mejor-ejemplo-1395756'>El formato plegable está para quedarse y el Motorola Razr 50 Ultra es el mejor ejemplo</a></h4>
+    <a href='https://computerhoy.com/moviles/formato-plegable-quedarse-motorola-razr-50-ultra-mejor-ejemplo-1395756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/motorola-razr-50-ultra-3733169.jpg?tf=1200x' alt='El formato plegable está para quedarse y el Motorola Razr 50 Ultra es el mejor ejemplo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-z-flip-6-claro-candidato-mejor-plegable-2024-base-camara-potencia-diseno-mejorados-1395890'>Samsung Galaxy Z Flip 6 es claro candidato a mejor plegable de 2024 a base de cámara, potencia y diseño mejorados</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-z-flip-6-claro-candidato-mejor-plegable-2024-base-camara-potencia-diseno-mejorados-1395890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-flip-6-3746836.jpg?tf=1200x' alt='Samsung Galaxy Z Flip 6 es claro candidato a mejor plegable de 2024 a base de cámara, potencia y diseño mejorados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/3-aparatos-electronicos-no-deberias-desenchufar-ningun-concepto-1396449'>3 aparatos electrónicos que no deberías desenchufar bajo ningún concepto</a></h4>
     <a href='https://computerhoy.com/tecnologia/3-aparatos-electronicos-no-deberias-desenchufar-ningun-concepto-1396449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/3-aparatos-electronicos-no-deberias-desenchufar-ningun-concepto-3761860.jpg?tf=1200x' alt='3 aparatos electrónicos que no deberías desenchufar bajo ningún concepto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/stick-tdt-full-hd-barato-amazon-1382111'>Este stick no ocupa espacio y te lleva la TDT Full HD sin instalación, y a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/stick-tdt-full-hd-barato-amazon-1382111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mini-decodificador-digital-trevi-he-3361-t2-3304180.jpg?tf=1200x' alt='Este stick no ocupa espacio y te lleva la TDT Full HD sin instalación, y a precio de saldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hombre-usa-dron-pillar-mujer-enganandole-jefe-1396690'>Un hombre usa un dron para pillar a su mujer engañándole con su jefe</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hombre-usa-dron-pillar-mujer-enganandole-jefe-1396690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hombre-usa-dron-pillar-mujer-enganandole-otro-3779008.jpg?tf=1200x' alt='Un hombre usa un dron para pillar a su mujer engañándole con su jefe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/apoyo-elon-musk-candidatura-trump-grave-problema-tesla-1396688'>El apoyo de Elon Musk a la candidatura de Trump, un grave problema para Tesla</a></h4>
-    <a href='https://computerhoy.com/motor/apoyo-elon-musk-candidatura-trump-grave-problema-tesla-1396688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mazazo-elon-musk-no-recibira-56000-millones-dolares-iba-dar-tesla-3268769.jpg?tf=1200x' alt='El apoyo de Elon Musk a la candidatura de Trump, un grave problema para Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crowdstrike-herramienta-microsoft-1396685'>Microsoft lanza una herramienta para solucionar el fallo de CrowdStrike</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crowdstrike-herramienta-microsoft-1396685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-lanza-herramienta-recuperar-ordenadores-han-sufrido-fallo-crowdstrike-3777966.jpg?tf=1200x' alt='Microsoft lanza una herramienta para solucionar el fallo de CrowdStrike' />
     </a>
 </div>
 
