@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/lista-iptv-definitiva-42000-canales-television-gratis-1394555'>La lista definitiva IPTV con más de 42.000 canales de televisión gratis de todo el mundo</a></h4>
-    <a href='https://computerhoy.com/tv/lista-iptv-definitiva-42000-canales-television-gratis-1394555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/listas-iptv-3683266.jpg?tf=1200x' alt='La lista definitiva IPTV con más de 42.000 canales de televisión gratis de todo el mundo' />
+    <h4><a href='https://computerhoy.com/life/ciencia-estos-son-habitos-comportamientos-influyen-envejecimiento-1396338'>Según la ciencia, estos son los hábitos y comportamientos que influyen más en el envejecimiento</a></h4>
+    <a href='https://computerhoy.com/life/ciencia-estos-son-habitos-comportamientos-influyen-envejecimiento-1396338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ciencia-estos-son-habitos-comportamientos-influyen-envejecimiento-3782407.jpg?tf=1200x' alt='Según la ciencia, estos son los hábitos y comportamientos que influyen más en el envejecimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/nuevas-funciones-llegaran-disney-hacen-parezca-netflix-1396751'>Las nuevas funciones que llegarán a Disney+ que hacen que se parezca a Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/nuevas-funciones-llegaran-disney-hacen-parezca-netflix-1396751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/disney-streaming-3782410.jpg?tf=1200x' alt='Las nuevas funciones que llegarán a Disney+ que hacen que se parezca a Netflix' />
+    <h4><a href='https://computerhoy.com/tecnologia/airtag-chino-funciona-ios-android-cuesta-menos-cafe-1396783'>Este AirTag chino funciona con iOS y Android y cuesta menos que un café</a></h4>
+    <a href='https://computerhoy.com/tecnologia/airtag-chino-funciona-ios-android-cuesta-menos-cafe-1396783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cpvan-smart-tracker-3782890.jpg?tf=1200x' alt='Este AirTag chino funciona con iOS y Android y cuesta menos que un café' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-barata-rapida-te-ofrece-ip-ti-solo-precio-record-1396504'>Esta VPN es barata, rápida y te ofrece una IP para ti solo a precio de récord</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-barata-rapida-te-ofrece-ip-ti-solo-precio-record-1396504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cyberghost-vpn-3293037.jpg?tf=1200x' alt='Esta VPN es barata, rápida y te ofrece una IP para ti solo a precio de récord' />
+    <h4><a href='https://computerhoy.com/moviles/realme-c63-piel-vegana-carga-rapida-ia-precio-rompedor-1396774'>realme C63: piel vegana, carga rápida e IA a un precio rompedor</a></h4>
+    <a href='https://computerhoy.com/moviles/realme-c63-piel-vegana-carga-rapida-ia-precio-rompedor-1396774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realme-c63-3782566.jpg?tf=1200x' alt='realme C63: piel vegana, carga rápida e IA a un precio rompedor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/olvidate-cortes-internet-verano-usa-truco-puerto-usb-router-wifi-1396741'>Olvídate de los cortes de internet este verano y usa este truco con el puerto USB de tu router WiFi</a></h4>
-    <a href='https://computerhoy.com/internet/olvidate-cortes-internet-verano-usa-truco-puerto-usb-router-wifi-1396741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/malware-desconocido-destruye-600000-routers-proveedor-internet-3411082.jpg?tf=1200x' alt='Olvídate de los cortes de internet este verano y usa este truco con el puerto USB de tu router WiFi' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-virus-windows-sin-antivirus-1394840'>Cómo eliminar cualquier virus de Windows sin antivirus ni programas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-eliminar-virus-windows-sin-antivirus-1394840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/eliminar-virus-pc-3711884.jpg?tf=1200x' alt='Cómo eliminar cualquier virus de Windows sin antivirus ni programas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/instagram-funcion-notas-vuelve-loco-feed-publicaciones-antiguas-1396742'>Instagram y la función de notas que vuelve loco el feed con publicaciones antiguas</a></h4>
-    <a href='https://computerhoy.com/redes/instagram-funcion-notas-vuelve-loco-feed-publicaciones-antiguas-1396742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/instagram-funcion-notas-vuelve-loco-feed-publicaciones-antiguas-3782093.jpg?tf=1200x' alt='Instagram y la función de notas que vuelve loco el feed con publicaciones antiguas' />
+    <h4><a href='https://computerhoy.com/ciencia/huele-espacio-esto-dicen-astronautas-1354382'>¿A qué huele el espacio? Esto es lo que dicen los expertos astronautas</a></h4>
+    <a href='https://computerhoy.com/ciencia/huele-espacio-esto-dicen-astronautas-1354382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huele-espacio-dicen-astronautas-3257015.jpg?tf=1200x' alt='¿A qué huele el espacio? Esto es lo que dicen los expertos astronautas' />
     </a>
 </div>
 
