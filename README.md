@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/usar-puntos-waze-1396320'>¿Para qué sirven los puntos de Waze?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/usar-puntos-waze-1396320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puntos-waze-app-3755015.jpg?tf=1200x' alt='¿Para qué sirven los puntos de Waze?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7x-solar-precio-minimo-historico-1382327'>El Garmin 7X Solar tiene batería casi infinita y ahora está a su precio histórico más bajo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-fenix-7x-solar-precio-minimo-historico-1382327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/garmin-fenix-7x-solar-3781795.jpg?tf=1200x' alt='El Garmin 7X Solar tiene batería casi infinita y ahora está a su precio histórico más bajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/no-ciencia-ficcion-motor-permite-viajar-rapido-luz-equipo-fisicos-ha-demostrado-1396781'>No es ciencia ficción: este motor permite viajar más rápido que la luz, y un equipo de físicos lo ha demostrado</a></h4>
     <a href='https://computerhoy.com/ciencia/no-ciencia-ficcion-motor-permite-viajar-rapido-luz-equipo-fisicos-ha-demostrado-1396781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/foto-nave-creada-mark-rademaker-3783046.jpg?tf=1200x' alt='No es ciencia ficción: este motor permite viajar más rápido que la luz, y un equipo de físicos lo ha demostrado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/legal-iptv-espana-1396398'>¿Es legal la IPTV en España?</a></h4>
     <a href='https://computerhoy.com/apps/legal-iptv-espana-1396398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-iptv-3777358.jpg?tf=1200x' alt='¿Es legal la IPTV en España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/banana-pi-alternativa-barata-raspberry-pi-linux-android-1376175'>Banana Pi es la alternativa más barata a Raspberry Pi: por menos de 20 euros y compatible con Android y Linux</a></h4>
-    <a href='https://computerhoy.com/tecnologia/banana-pi-alternativa-barata-raspberry-pi-linux-android-1376175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/banana-pi-m2-zero-3294182.jpg?tf=1200x' alt='Banana Pi es la alternativa más barata a Raspberry Pi: por menos de 20 euros y compatible con Android y Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-kawaii-consola-nintendo-wii-llavero-1396885'>Nintendo Kawaii, la consola Nintendo Wii que cabe en un llavero</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-kawaii-consola-nintendo-wii-llavero-1396885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nintendo-kawaii-consola-nintendo-wii-llavero-3786431.jpg?tf=1200x' alt='Nintendo Kawaii, la consola Nintendo Wii que cabe en un llavero' />
     </a>
 </div>
 
