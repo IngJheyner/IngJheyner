@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/legal-iptv-espana-1396398'>¿Es legal la IPTV en España?</a></h4>
+    <a href='https://computerhoy.com/apps/legal-iptv-espana-1396398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-iptv-3777358.jpg?tf=1200x' alt='¿Es legal la IPTV en España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/banana-pi-alternativa-barata-raspberry-pi-linux-android-1376175'>Banana Pi es la alternativa más barata a Raspberry Pi: por menos de 20 euros y compatible con Android y Linux</a></h4>
+    <a href='https://computerhoy.com/tecnologia/banana-pi-alternativa-barata-raspberry-pi-linux-android-1376175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/banana-pi-m2-zero-3294182.jpg?tf=1200x' alt='Banana Pi es la alternativa más barata a Raspberry Pi: por menos de 20 euros y compatible con Android y Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/nintendo-kawaii-consola-nintendo-wii-llavero-1396885'>Nintendo Kawaii, la consola Nintendo Wii que cabe en un llavero</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-kawaii-consola-nintendo-wii-llavero-1396885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nintendo-kawaii-consola-nintendo-wii-llavero-3786431.jpg?tf=1200x' alt='Nintendo Kawaii, la consola Nintendo Wii que cabe en un llavero' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/alternativa-gratuita-spotify-escuchar-musica-ilimitada-streaming-1396296'>Adiós a Spotify Premium: esta app te da acceso ilimitado a millones de canciones... ¡gratis!</a></h4>
     <a href='https://computerhoy.com/tutoriales/alternativa-gratuita-spotify-escuchar-musica-ilimitada-streaming-1396296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rimusic-3754867.jpg?tf=1200x' alt='Adiós a Spotify Premium: esta app te da acceso ilimitado a millones de canciones... ¡gratis!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-ver-mtv-firestick-escuchar-musica-1396874'>Cómo instalar y ver MTV en FireStick para escuchar música y más</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-ver-mtv-firestick-escuchar-musica-1396874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-instalar-ver-mtv-firestick-escuchar-musica-escuchar-musica-3786396.jpg?tf=1200x' alt='Cómo instalar y ver MTV en FireStick para escuchar música y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/nara-smith-influencer-tradwife-inspira-roro-polemica-novia-pablo-1396879'>Nara Smith, la influencer tradwife en la que se inspira Roro, la polémica “novia de Pablo”</a></h4>
-    <a href='https://computerhoy.com/redes/nara-smith-influencer-tradwife-inspira-roro-polemica-novia-pablo-1396879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nara-smith-influencer-tradwife-parece-inspirarse-roro-polemica-novia-pablo-3785513.jpg?tf=1200x' alt='Nara Smith, la influencer tradwife en la que se inspira Roro, la polémica “novia de Pablo”' />
     </a>
 </div>
 
