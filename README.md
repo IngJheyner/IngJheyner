@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/necesita-instalar-iptv-1396399'>¿Qué se necesita para instalar una IPTV?</a></h4>
+    <a href='https://computerhoy.com/apps/necesita-instalar-iptv-1396399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/canales-online-iptv-3778712.jpg?tf=1200x' alt='¿Qué se necesita para instalar una IPTV?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/formas-muy-sencillas-rapidas-crear-propios-gif-animados-enviar-whatsapp-1396906'>Formas muy sencillas y rápidas de crear tus propios GIF animados para enviar por WhatsApp</a></h4>
     <a href='https://computerhoy.com/tutoriales/formas-muy-sencillas-rapidas-crear-propios-gif-animados-enviar-whatsapp-1396906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gif-3789635.jpg?tf=1200x' alt='Formas muy sencillas y rápidas de crear tus propios GIF animados para enviar por WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/fisico-asegura-universo-podria-ser-proyecto-quimica-civilizacion-avanzada-1396971'>Un físico asegura que el Universo podría ser el proyecto de química de una civilización más avanzada</a></h4>
     <a href='https://computerhoy.com/espacio/fisico-asegura-universo-podria-ser-proyecto-quimica-civilizacion-avanzada-1396971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fisico-asegura-universo-podria-ser-proyecto-quimica-civilizacion-avanzada-3790120.jpg?tf=1200x' alt='Un físico asegura que el Universo podría ser el proyecto de química de una civilización más avanzada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/proxima-generacion-google-chromecast-podria-prescindir-fin-adaptador-1396989'>La próxima generación de Google Chromecast podría prescindir (por fin) del adaptador </a></h4>
-    <a href='https://computerhoy.com/google/proxima-generacion-google-chromecast-podria-prescindir-fin-adaptador-1396989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/proxima-generacion-google-chromecast-podria-prescindir-fin-adaptador-3790429.jpg?tf=1200x' alt='La próxima generación de Google Chromecast podría prescindir (por fin) del adaptador ' />
     </a>
 </div>
 
