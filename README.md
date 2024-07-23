@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/no-ciencia-ficcion-motor-permite-viajar-rapido-luz-equipo-fisicos-ha-demostrado-1396781'>No es ciencia ficción: este motor permite viajar más rápido que la luz, y un equipo de físicos lo ha demostrado</a></h4>
+    <a href='https://computerhoy.com/ciencia/no-ciencia-ficcion-motor-permite-viajar-rapido-luz-equipo-fisicos-ha-demostrado-1396781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/foto-nave-creada-mark-rademaker-3783046.jpg?tf=1200x' alt='No es ciencia ficción: este motor permite viajar más rápido que la luz, y un equipo de físicos lo ha demostrado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/ultrahuman-ring-air-anillo-inteligente-analisis-opinion-1395971'>Cansado de los smartwatch me he pasado al anillo inteligente Ultrahuman Ring Air y no echo en falta el reloj</a></h4>
+    <a href='https://computerhoy.com/analisis/ultrahuman-ring-air-anillo-inteligente-analisis-opinion-1395971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ultrahuman-ring-air-3746520.jpg?tf=1200x' alt='Cansado de los smartwatch me he pasado al anillo inteligente Ultrahuman Ring Air y no echo en falta el reloj' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/legal-iptv-espana-1396398'>¿Es legal la IPTV en España?</a></h4>
     <a href='https://computerhoy.com/apps/legal-iptv-espana-1396398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-iptv-3777358.jpg?tf=1200x' alt='¿Es legal la IPTV en España?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/nintendo-kawaii-consola-nintendo-wii-llavero-1396885'>Nintendo Kawaii, la consola Nintendo Wii que cabe en un llavero</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-kawaii-consola-nintendo-wii-llavero-1396885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nintendo-kawaii-consola-nintendo-wii-llavero-3786431.jpg?tf=1200x' alt='Nintendo Kawaii, la consola Nintendo Wii que cabe en un llavero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/sony-jubila-ps4-1394545'>Game Over para la PS4: Sony anuncia el fin de la consola tras once años</a></h4>
-    <a href='https://computerhoy.com/gaming/sony-jubila-ps4-1394545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/final-ps4-3683431.jpg?tf=1200x' alt='Game Over para la PS4: Sony anuncia el fin de la consola tras once años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/alternativa-gratuita-spotify-escuchar-musica-ilimitada-streaming-1396296'>Adiós a Spotify Premium: esta app te da acceso ilimitado a millones de canciones... ¡gratis!</a></h4>
-    <a href='https://computerhoy.com/tutoriales/alternativa-gratuita-spotify-escuchar-musica-ilimitada-streaming-1396296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rimusic-3754867.jpg?tf=1200x' alt='Adiós a Spotify Premium: esta app te da acceso ilimitado a millones de canciones... ¡gratis!' />
     </a>
 </div>
 
