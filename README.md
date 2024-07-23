@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/10-dispositivos-pueden-ejecutar-doom-no-sabias-1397065'>10 dispositivos que pueden ejecutar DOOM y no lo sabías</a></h4>
+    <a href='https://computerhoy.com/tecnologia/10-dispositivos-pueden-ejecutar-doom-no-sabias-1397065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-dispositivos-pueden-ejecutar-doom-no-sabias-3793378.jpg?tf=1200x' alt='10 dispositivos que pueden ejecutar DOOM y no lo sabías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/llama-31-nueva-ia-meta-sin-estreno-europa-1397079'>Llama 3.1, la nueva IA de Meta que no cataremos en Europa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/llama-31-nueva-ia-meta-sin-estreno-europa-1397079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llama-31-nueva-ia-meta-no-cataremos-europa-3792938.jpg?tf=1200x' alt='Llama 3.1, la nueva IA de Meta que no cataremos en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/malware-telegram-archivos-parecen-videos-infectan-dispositivos-1397072'>Malware en Telegram: archivos que parecen vídeos infectan dispositivos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/malware-telegram-archivos-parecen-videos-infectan-dispositivos-1397072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hacker-telegram-3198184.jpg?tf=1200x' alt='Malware en Telegram: archivos que parecen vídeos infectan dispositivos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/expertos-cambio-climatico-ya-avisan-estas-zonas-espana-podrian-volverse-inhabitables-calor-extremo-menos-30-anos-1397071'>Expertos en cambio climático ya avisan: estas zonas de España podrían volverse inhabitables por calor extremo en menos de 30 años</a></h4>
     <a href='https://computerhoy.com/life/expertos-cambio-climatico-ya-avisan-estas-zonas-espana-podrian-volverse-inhabitables-calor-extremo-menos-30-anos-1397071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ola-calor-3792792.jpg?tf=1200x' alt='Expertos en cambio climático ya avisan: estas zonas de España podrían volverse inhabitables por calor extremo en menos de 30 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/firestick-tdt-hd-sin-instalacion-1382111'>Se parece a un Firestick y lleva la TDT en alta definición a tu televisor sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/firestick-tdt-hd-sin-instalacion-1382111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mini-decodificador-digital-trevi-he-3361-t2-3304180.jpg?tf=1200x' alt='Se parece a un Firestick y lleva la TDT en alta definición a tu televisor sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/riesgos-sociedad-efectivo-primera-leccion-colapso-crowdstrike-1397068'>Riesgos de una sociedad sin efectivo: esta es la primera lección del colapso de CrowdStrike</a></h4>
-    <a href='https://computerhoy.com/tecnologia/riesgos-sociedad-efectivo-primera-leccion-colapso-crowdstrike-1397068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dinero-efectivo-3792635.jpg?tf=1200x' alt='Riesgos de una sociedad sin efectivo: esta es la primera lección del colapso de CrowdStrike' />
     </a>
 </div>
 
