@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/formas-muy-sencillas-rapidas-crear-propios-gif-animados-enviar-whatsapp-1396906'>Formas muy sencillas y rápidas de crear tus propios GIF animados para enviar por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/formas-muy-sencillas-rapidas-crear-propios-gif-animados-enviar-whatsapp-1396906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gif-3789635.jpg?tf=1200x' alt='Formas muy sencillas y rápidas de crear tus propios GIF animados para enviar por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/rover-curiosity-nasa-encuentra-hallazgo-imposible-no-deberia-estar-alli-1396955'>El rover Curiosity de la NASA encuentra un hallazgo imposible: “No debería estar allí”</a></h4>
+    <a href='https://computerhoy.com/espacio/rover-curiosity-nasa-encuentra-hallazgo-imposible-no-deberia-estar-alli-1396955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rover-curiosity-nasa-3790117.jpg?tf=1200x' alt='El rover Curiosity de la NASA encuentra un hallazgo imposible: “No debería estar allí”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/pc-ano-2003-funciono-durante-18-anos-dos-pegatinas-cpu-pasta-termica-1396967'>Este PC del año 2003 funcionó durante 18 años con dos pegatinas en la CPU y sin pasta térmica</a></h4>
+    <a href='https://computerhoy.com/pc/pc-ano-2003-funciono-durante-18-anos-dos-pegatinas-cpu-pasta-termica-1396967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ordenador-superviviente-3790110.jpg?tf=1200x' alt='Este PC del año 2003 funcionó durante 18 años con dos pegatinas en la CPU y sin pasta térmica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/fisico-asegura-universo-podria-ser-proyecto-quimica-civilizacion-avanzada-1396971'>Un físico asegura que el Universo podría ser el proyecto de química de una civilización más avanzada</a></h4>
     <a href='https://computerhoy.com/espacio/fisico-asegura-universo-podria-ser-proyecto-quimica-civilizacion-avanzada-1396971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fisico-asegura-universo-podria-ser-proyecto-quimica-civilizacion-avanzada-3790120.jpg?tf=1200x' alt='Un físico asegura que el Universo podría ser el proyecto de química de una civilización más avanzada' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/proxima-generacion-google-chromecast-podria-prescindir-fin-adaptador-1396989'>La próxima generación de Google Chromecast podría prescindir (por fin) del adaptador </a></h4>
     <a href='https://computerhoy.com/google/proxima-generacion-google-chromecast-podria-prescindir-fin-adaptador-1396989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/proxima-generacion-google-chromecast-podria-prescindir-fin-adaptador-3790429.jpg?tf=1200x' alt='La próxima generación de Google Chromecast podría prescindir (por fin) del adaptador ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-smishing-policia-nacional-alerta-estafa-traves-sms-1396951'>Cuidado con el 'smishing': Policía Nacional alerta de esta estafa a través de SMS</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-smishing-policia-nacional-alerta-estafa-traves-sms-1396951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sms-fraudulentos-3126590.jpg?tf=1200x' alt='Cuidado con el 'smishing': Policía Nacional alerta de esta estafa a través de SMS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funcion-secreta-iphone-comprobar-has-aplicado-bien-protector-solar-1396947'>La función secreta del iPhone para comprobar si has aplicado bien el protector solar</a></h4>
-    <a href='https://computerhoy.com/apps/funcion-secreta-iphone-comprobar-has-aplicado-bien-protector-solar-1396947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-secreta-iphone-comprobar-has-aplicado-bien-protector-solar-3789638.jpg?tf=1200x' alt='La función secreta del iPhone para comprobar si has aplicado bien el protector solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/roomba-combo-10-max-robot-limpieza-disenado-olvidarte-tienes-casa-1395252'>Roomba Combo 10 Max, un robot de limpieza diseñado para olvidarte de que lo tienes en casa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/roomba-combo-10-max-robot-limpieza-disenado-olvidarte-tienes-casa-1395252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/roomba-combo-10-max-3782714.jpg?tf=1200x' alt='Roomba Combo 10 Max, un robot de limpieza diseñado para olvidarte de que lo tienes en casa' />
     </a>
 </div>
 
