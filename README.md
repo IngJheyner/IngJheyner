@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/malware-telegram-archivos-parecen-videos-infectan-dispositivos-1397072'>Malware en Telegram: archivos que parecen vídeos infectan dispositivos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/malware-telegram-archivos-parecen-videos-infectan-dispositivos-1397072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hacker-telegram-3198184.jpg?tf=1200x' alt='Malware en Telegram: archivos que parecen vídeos infectan dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-puedes-saber-cuanto-ruido-hace-teclado-mecanico-antes-comprarlo-1397051'>Cómo puedes saber cuánto ruido hace un teclado mecánico antes de comprarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-puedes-saber-cuanto-ruido-hace-teclado-mecanico-antes-comprarlo-1397051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-puedes-saber-cuanto-ruido-hace-teclado-mecanico-antes-comprarlo-3792479.jpg?tf=1200x' alt='Cómo puedes saber cuánto ruido hace un teclado mecánico antes de comprarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/expertos-cambio-climatico-ya-avisan-estas-zonas-espana-podrian-volverse-inhabitables-calor-extremo-menos-30-anos-1397071'>Expertos en cambio climático ya avisan: estas zonas de España podrían volverse inhabitables por calor extremo en menos de 30 años</a></h4>
+    <a href='https://computerhoy.com/life/expertos-cambio-climatico-ya-avisan-estas-zonas-espana-podrian-volverse-inhabitables-calor-extremo-menos-30-anos-1397071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ola-calor-3792792.jpg?tf=1200x' alt='Expertos en cambio climático ya avisan: estas zonas de España podrían volverse inhabitables por calor extremo en menos de 30 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/firestick-tdt-hd-sin-instalacion-1382111'>Se parece a un Firestick y lleva la TDT en alta definición a tu televisor sin instalar nada</a></h4>
     <a href='https://computerhoy.com/tecnologia/firestick-tdt-hd-sin-instalacion-1382111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mini-decodificador-digital-trevi-he-3361-t2-3304180.jpg?tf=1200x' alt='Se parece a un Firestick y lleva la TDT en alta definición a tu televisor sin instalar nada' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/riesgos-sociedad-efectivo-primera-leccion-colapso-crowdstrike-1397068'>Riesgos de una sociedad sin efectivo: esta es la primera lección del colapso de CrowdStrike</a></h4>
     <a href='https://computerhoy.com/tecnologia/riesgos-sociedad-efectivo-primera-leccion-colapso-crowdstrike-1397068' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dinero-efectivo-3792635.jpg?tf=1200x' alt='Riesgos de una sociedad sin efectivo: esta es la primera lección del colapso de CrowdStrike' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-libera-imagenes-iso-windows-11-24h2-instalaciones-limpias-1395800'>Microsoft libera imágenes ISO de Windows 11 24H2 para instalaciones limpias</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-libera-imagenes-iso-windows-11-24h2-instalaciones-limpias-1395800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-actualizacion-3363140.jpg?tf=1200x' alt='Microsoft libera imágenes ISO de Windows 11 24H2 para instalaciones limpias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-todo-tienes-saber-aplicacion-mapas-1396749'>Google Maps: todo lo que tienes que saber sobre la aplicación de mapas</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-todo-tienes-saber-aplicacion-mapas-1396749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-3790116.jpg?tf=1200x' alt='Google Maps: todo lo que tienes que saber sobre la aplicación de mapas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-codigo-pin-mi-tarjeta-sim-1051833'>Cómo saber el código PIN de mi tarjeta SIM</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-codigo-pin-mi-tarjeta-sim-1051833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-saber-codigo-pin-mi-tarjeta-sim-3792187.jpg?tf=1200x' alt='Cómo saber el código PIN de mi tarjeta SIM' />
     </a>
 </div>
 
