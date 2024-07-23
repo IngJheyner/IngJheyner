@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/firestick-tdt-hd-sin-instalacion-1382111'>Se parece a un Firestick y lleva la TDT en alta definición a tu televisor sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/firestick-tdt-hd-sin-instalacion-1382111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mini-decodificador-digital-trevi-he-3361-t2-3304180.jpg?tf=1200x' alt='Se parece a un Firestick y lleva la TDT en alta definición a tu televisor sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/riesgos-sociedad-efectivo-primera-leccion-colapso-crowdstrike-1397068'>Riesgos de una sociedad sin efectivo: esta es la primera lección del colapso de CrowdStrike</a></h4>
+    <a href='https://computerhoy.com/tecnologia/riesgos-sociedad-efectivo-primera-leccion-colapso-crowdstrike-1397068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dinero-efectivo-3792635.jpg?tf=1200x' alt='Riesgos de una sociedad sin efectivo: esta es la primera lección del colapso de CrowdStrike' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-libera-imagenes-iso-windows-11-24h2-instalaciones-limpias-1395800'>Microsoft libera imágenes ISO de Windows 11 24H2 para instalaciones limpias</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-libera-imagenes-iso-windows-11-24h2-instalaciones-limpias-1395800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-actualizacion-3363140.jpg?tf=1200x' alt='Microsoft libera imágenes ISO de Windows 11 24H2 para instalaciones limpias' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/como-aprendi-configurar-mi-hogar-inteligente-gracias-estos-errores-1396187'>Cómo aprendí a configurar mi hogar inteligente gracias a estos errores</a></h4>
-    <a href='https://computerhoy.com/hogar/como-aprendi-configurar-mi-hogar-inteligente-gracias-estos-errores-1396187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-aprendi-configurar-mi-hogar-inteligente-gracias-estos-errores-3750825.jpg?tf=1200x' alt='Cómo aprendí a configurar mi hogar inteligente gracias a estos errores' />
+    <h4><a href='https://computerhoy.com/google/google-maps-todo-tienes-saber-aplicacion-mapas-1396749'>Google Maps: todo lo que tienes que saber sobre la aplicación de mapas</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-todo-tienes-saber-aplicacion-mapas-1396749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-3790116.jpg?tf=1200x' alt='Google Maps: todo lo que tienes que saber sobre la aplicación de mapas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/curioso-gadget-xiaomi-dentista-compraria-muy-barato-1396949'>Este curioso gadget Xiaomi es lo que tu dentista se compraría, y es muy barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/curioso-gadget-xiaomi-dentista-compraria-muy-barato-1396949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/xiaomi-mijia-electric-dental-flosser-f300-3789630.jpg?tf=1200x' alt='Este curioso gadget Xiaomi es lo que tu dentista se compraría, y es muy barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-internet-instante-1330292'>Sigue la regla de los 30 centímetros para aumentar la velocidad de tu Internet al instante</a></h4>
-    <a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-internet-instante-1330292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regla-30-centimetros-aumentar-velocidad-internet-instante-3290333.jpg?tf=1200x' alt='Sigue la regla de los 30 centímetros para aumentar la velocidad de tu Internet al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-predice-declive-ia-actual-apuesta-lugar-ia-metacognitiva-cara-futuro-1396993'>Bill Gates predice el declive de la IA actual y apuesta en su lugar por una IA metacognitiva de cara al futuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bill-gates-predice-declive-ia-actual-apuesta-lugar-ia-metacognitiva-cara-futuro-1396993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bill-gates-ia-3790619.jpg?tf=1200x' alt='Bill Gates predice el declive de la IA actual y apuesta en su lugar por una IA metacognitiva de cara al futuro' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-codigo-pin-mi-tarjeta-sim-1051833'>Cómo saber el código PIN de mi tarjeta SIM</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-codigo-pin-mi-tarjeta-sim-1051833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-saber-codigo-pin-mi-tarjeta-sim-3792187.jpg?tf=1200x' alt='Cómo saber el código PIN de mi tarjeta SIM' />
     </a>
 </div>
 
