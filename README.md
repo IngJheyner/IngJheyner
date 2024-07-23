@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-kawaii-consola-nintendo-wii-llavero-1396885'>Nintendo Kawaii, la consola Nintendo Wii que cabe en un llavero</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-kawaii-consola-nintendo-wii-llavero-1396885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nintendo-kawaii-consola-nintendo-wii-llavero-3786431.jpg?tf=1200x' alt='Nintendo Kawaii, la consola Nintendo Wii que cabe en un llavero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/sony-jubila-ps4-1394545'>Game Over para la PS4: Sony anuncia el fin de la consola tras once años</a></h4>
     <a href='https://computerhoy.com/gaming/sony-jubila-ps4-1394545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/final-ps4-3683431.jpg?tf=1200x' alt='Game Over para la PS4: Sony anuncia el fin de la consola tras once años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/nara-smith-influencer-tradwife-inspira-roro-polemica-novia-pablo-1396879'>Nara Smith, la influencer tradwife en la que se inspira Roro, la polémica “novia de Pablo”</a></h4>
     <a href='https://computerhoy.com/redes/nara-smith-influencer-tradwife-inspira-roro-polemica-novia-pablo-1396879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nara-smith-influencer-tradwife-parece-inspirarse-roro-polemica-novia-pablo-3785513.jpg?tf=1200x' alt='Nara Smith, la influencer tradwife en la que se inspira Roro, la polémica “novia de Pablo”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-dice-adios-funciones-usadas-te-afecta-1396875'>Google Maps dice adiós a una de sus funciones más usadas y así te afecta</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-dice-adios-funciones-usadas-te-afecta-1396875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/9-trucos-increibles-poco-conocidos-google-maps-te-sorprenderan-3742316.jpg?tf=1200x' alt='Google Maps dice adiós a una de sus funciones más usadas y así te afecta' />
     </a>
 </div>
 
