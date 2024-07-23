@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/como-aprendi-configurar-mi-hogar-inteligente-gracias-estos-errores-1396187'>Cómo aprendí a configurar mi hogar inteligente gracias a estos errores</a></h4>
+    <a href='https://computerhoy.com/hogar/como-aprendi-configurar-mi-hogar-inteligente-gracias-estos-errores-1396187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-aprendi-configurar-mi-hogar-inteligente-gracias-estos-errores-3750825.jpg?tf=1200x' alt='Cómo aprendí a configurar mi hogar inteligente gracias a estos errores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/curioso-gadget-xiaomi-dentista-compraria-muy-barato-1396949'>Este curioso gadget Xiaomi es lo que tu dentista se compraría, y es muy barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/curioso-gadget-xiaomi-dentista-compraria-muy-barato-1396949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/xiaomi-mijia-electric-dental-flosser-f300-3789630.jpg?tf=1200x' alt='Este curioso gadget Xiaomi es lo que tu dentista se compraría, y es muy barato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/bill-gates-predice-declive-ia-actual-apuesta-lugar-ia-metacognitiva-cara-futuro-1396993'>Bill Gates predice el declive de la IA actual y apuesta en su lugar por una IA metacognitiva de cara al futuro</a></h4>
     <a href='https://computerhoy.com/tecnologia/bill-gates-predice-declive-ia-actual-apuesta-lugar-ia-metacognitiva-cara-futuro-1396993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bill-gates-ia-3790619.jpg?tf=1200x' alt='Bill Gates predice el declive de la IA actual y apuesta en su lugar por una IA metacognitiva de cara al futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/juice-jacking-evita-usar-puertos-usb-publicos-cargar-dispositivos-1396884'>¿Qué es el juice jacking? Evita usar puertos USB públicos para cargar tus dispositivos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/juice-jacking-evita-usar-puertos-usb-publicos-cargar-dispositivos-1396884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/juice-jacking-evita-usar-puertos-usb-publicos-cargar-dispositivos-3787030.jpg?tf=1200x' alt='¿Qué es el juice jacking? Evita usar puertos USB públicos para cargar tus dispositivos' />
     </a>
 </div>
 
