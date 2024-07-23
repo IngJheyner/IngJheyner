@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funcion-muy-criticada-vision-pro-apple-llegaria-meta-quest-1396923'>Una función muy criticada de las Vision Pro de Apple llegaría a las Meta Quest </a></h4>
-    <a href='https://computerhoy.com/tecnologia/funcion-muy-criticada-vision-pro-apple-llegaria-meta-quest-1396923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/meta-quest-2-3060490.jpg?tf=1200x' alt='Una función muy criticada de las Vision Pro de Apple llegaría a las Meta Quest ' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-gemini-revelan-claves-windows-10-pero-no-todo-parece-1396944'>ChatGPT y Gemini "revelan" claves de Windows 10... pero no todo es lo que parece</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-gemini-revelan-claves-windows-10-pero-no-todo-parece-1396944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-windows-3789637.jpg?tf=1200x' alt='ChatGPT y Gemini "revelan" claves de Windows 10... pero no todo es lo que parece' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/7-cosas-haces-darte-cuenta-ponen-riesgo-datos-1396882'>7 cosas que haces sin darte cuenta y que ponen en riesgo tus datos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/7-cosas-haces-darte-cuenta-ponen-riesgo-datos-1396882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/7-cosas-haces-darte-cuenta-ponen-riesgo-datos-3786730.jpg?tf=1200x' alt='7 cosas que haces sin darte cuenta y que ponen en riesgo tus datos' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/crowdstrike-provoca-panico-kernel-linux-abril-no-solo-windows-1396921'>CrowdStrike provoca pánico en el kernel de Linux desde abril, no solo en Windows</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/crowdstrike-provoca-panico-kernel-linux-abril-no-solo-windows-1396921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crowdstrike-provoca-panico-kernel-linux-abril-no-solo-windows-3789470.jpg?tf=1200x' alt='CrowdStrike provoca pánico en el kernel de Linux desde abril, no solo en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211'>Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-smart-band-8-3197312.jpg?tf=1200x' alt='Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?' />
+    <h4><a href='https://computerhoy.com/tv/cansado-publicidad-rastreen-datos-ingeniero-crea-smart-tv-perfecta-portatil-roto-linux-1396940'>¿Cansado de la publicidad y que rastreen tus datos? Un ingeniero crea la Smart TV perfecta con un portátil roto y Linux</a></h4>
+    <a href='https://computerhoy.com/tv/cansado-publicidad-rastreen-datos-ingeniero-crea-smart-tv-perfecta-portatil-roto-linux-1396940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-ordenador-3789476.jpg?tf=1200x' alt='¿Cansado de la publicidad y que rastreen tus datos? Un ingeniero crea la Smart TV perfecta con un portátil roto y Linux' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-renueva-5-nuevas-funciones-deberias-utilizar-ahora-mismo-1396358'>Google Maps se renueva con 5 nuevas funciones que deberías aprovechar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-renueva-5-nuevas-funciones-deberias-utilizar-ahora-mismo-1396358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-actualiza-5-nuevas-funciones-deberias-utilizar-ahora-mismo-3756425.jpg?tf=1200x' alt='Google Maps se renueva con 5 nuevas funciones que deberías aprovechar ahora mismo' />
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-pone-patas-arriba-sector-pc-vende-portatil-windows-11-solo-13-kg-menos-200-euros-1396760'>AliExpress pone patas arriba el sector PC: vende un portátil con Windows 11 y de solo 1,3 kg por menos de 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-pone-patas-arriba-sector-pc-vende-portatil-windows-11-solo-13-kg-menos-200-euros-1396760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teclast-f7-plus-3-3782251.jpg?tf=1200x' alt='AliExpress pone patas arriba el sector PC: vende un portátil con Windows 11 y de solo 1,3 kg por menos de 200 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google-da-marcha-atras-plan-eliminar-cookies-terceros-chrome-1396915'>Google da marcha atrás y cambia el plan de eliminar las cookies de terceros en Chrome</a></h4>
-    <a href='https://computerhoy.com/google-da-marcha-atras-plan-eliminar-cookies-terceros-chrome-1396915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/historial-google-cookies-3248418.jpg?tf=1200x' alt='Google da marcha atrás y cambia el plan de eliminar las cookies de terceros en Chrome' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-competira-airdrop-ios-quick-share-android-ultima-funcion-1396905'>WhatsApp competirá con AirDrop en iOS y Quick Share en Android con su última función</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-competira-airdrop-ios-quick-share-android-ultima-funcion-1396905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-competira-airdrop-ios-quick-share-android-ultima-funcion-3788995.jpg?tf=1200x' alt='WhatsApp competirá con AirDrop en iOS y Quick Share en Android con su última función' />
     </a>
 </div>
 
