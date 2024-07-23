@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-libera-imagenes-iso-windows-11-24h2-instalaciones-limpias-1395800'>Microsoft libera imágenes ISO de Windows 11 24H2 para instalaciones limpias</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-libera-imagenes-iso-windows-11-24h2-instalaciones-limpias-1395800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-actualizacion-3363140.jpg?tf=1200x' alt='Microsoft libera imágenes ISO de Windows 11 24H2 para instalaciones limpias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/curioso-gadget-xiaomi-dentista-compraria-muy-barato-1396949'>Este curioso gadget Xiaomi es lo que tu dentista se compraría, y es muy barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/curioso-gadget-xiaomi-dentista-compraria-muy-barato-1396949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/xiaomi-mijia-electric-dental-flosser-f300-3789630.jpg?tf=1200x' alt='Este curioso gadget Xiaomi es lo que tu dentista se compraría, y es muy barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-internet-instante-1330292'>Sigue la regla de los 30 centímetros para aumentar la velocidad de tu Internet al instante</a></h4>
     <a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-internet-instante-1330292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regla-30-centimetros-aumentar-velocidad-internet-instante-3290333.jpg?tf=1200x' alt='Sigue la regla de los 30 centímetros para aumentar la velocidad de tu Internet al instante' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/juice-jacking-evita-usar-puertos-usb-publicos-cargar-dispositivos-1396884'>¿Qué es el juice jacking? Evita usar puertos USB públicos para cargar tus dispositivos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/juice-jacking-evita-usar-puertos-usb-publicos-cargar-dispositivos-1396884' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/juice-jacking-evita-usar-puertos-usb-publicos-cargar-dispositivos-3787030.jpg?tf=1200x' alt='¿Qué es el juice jacking? Evita usar puertos USB públicos para cargar tus dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-3-cosas-no-conoces-mejor-amigo-viajes-android-auto-1397002'>Ni Google Maps ni Waze: 3 cosas que no conoces del mejor AmiGO para los viajes con Android Auto</a></h4>
-    <a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-3-cosas-no-conoces-mejor-amigo-viajes-android-auto-1397002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-google-maps-ni-waze-3-cosas-no-conoces-mejor-amigo-viajes-android-auto-3790618.jpg?tf=1200x' alt='Ni Google Maps ni Waze: 3 cosas que no conoces del mejor AmiGO para los viajes con Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/trucos-infalibles-bateria-movil-android-dure-mucho-1396405'>Trucos infalibles para que la batería de tu móvil Android dure mucho más</a></h4>
-    <a href='https://computerhoy.com/android/trucos-infalibles-bateria-movil-android-dure-mucho-1396405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trucos-infalibles-bateria-movil-android-dure-mucho-3758546.jpg?tf=1200x' alt='Trucos infalibles para que la batería de tu móvil Android dure mucho más' />
     </a>
 </div>
 
