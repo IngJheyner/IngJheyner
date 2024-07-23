@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-gemini-revelan-claves-windows-10-pero-no-todo-parece-1396944'>ChatGPT y Gemini "revelan" claves de Windows 10... pero no todo es lo que parece</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-gemini-revelan-claves-windows-10-pero-no-todo-parece-1396944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-windows-3789637.jpg?tf=1200x' alt='ChatGPT y Gemini "revelan" claves de Windows 10... pero no todo es lo que parece' />
+    <h4><a href='https://computerhoy.com/espacio/fisico-asegura-universo-podria-ser-proyecto-quimica-civilizacion-avanzada-1396971'>Un físico asegura que el Universo podría ser el proyecto de química de una civilización más avanzada</a></h4>
+    <a href='https://computerhoy.com/espacio/fisico-asegura-universo-podria-ser-proyecto-quimica-civilizacion-avanzada-1396971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fisico-asegura-universo-podria-ser-proyecto-quimica-civilizacion-avanzada-3790120.jpg?tf=1200x' alt='Un físico asegura que el Universo podría ser el proyecto de química de una civilización más avanzada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/crowdstrike-provoca-panico-kernel-linux-abril-no-solo-windows-1396921'>CrowdStrike provoca pánico en el kernel de Linux desde abril, no solo en Windows</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/crowdstrike-provoca-panico-kernel-linux-abril-no-solo-windows-1396921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crowdstrike-provoca-panico-kernel-linux-abril-no-solo-windows-3789470.jpg?tf=1200x' alt='CrowdStrike provoca pánico en el kernel de Linux desde abril, no solo en Windows' />
+    <h4><a href='https://computerhoy.com/google/proxima-generacion-google-chromecast-podria-prescindir-fin-adaptador-1396989'>La próxima generación de Google Chromecast podría prescindir (por fin) del adaptador </a></h4>
+    <a href='https://computerhoy.com/google/proxima-generacion-google-chromecast-podria-prescindir-fin-adaptador-1396989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/proxima-generacion-google-chromecast-podria-prescindir-fin-adaptador-3790429.jpg?tf=1200x' alt='La próxima generación de Google Chromecast podría prescindir (por fin) del adaptador ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/cansado-publicidad-rastreen-datos-ingeniero-crea-smart-tv-perfecta-portatil-roto-linux-1396940'>¿Cansado de la publicidad y que rastreen tus datos? Un ingeniero crea la Smart TV perfecta con un portátil roto y Linux</a></h4>
-    <a href='https://computerhoy.com/tv/cansado-publicidad-rastreen-datos-ingeniero-crea-smart-tv-perfecta-portatil-roto-linux-1396940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-ordenador-3789476.jpg?tf=1200x' alt='¿Cansado de la publicidad y que rastreen tus datos? Un ingeniero crea la Smart TV perfecta con un portátil roto y Linux' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-smishing-policia-nacional-alerta-estafa-traves-sms-1396951'>Cuidado con el 'smishing': Policía Nacional alerta de esta estafa a través de SMS</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-smishing-policia-nacional-alerta-estafa-traves-sms-1396951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/sms-fraudulentos-3126590.jpg?tf=1200x' alt='Cuidado con el 'smishing': Policía Nacional alerta de esta estafa a través de SMS' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-pone-patas-arriba-sector-pc-vende-portatil-windows-11-solo-13-kg-menos-200-euros-1396760'>AliExpress pone patas arriba el sector PC: vende un portátil con Windows 11 y de solo 1,3 kg por menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-pone-patas-arriba-sector-pc-vende-portatil-windows-11-solo-13-kg-menos-200-euros-1396760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teclast-f7-plus-3-3782251.jpg?tf=1200x' alt='AliExpress pone patas arriba el sector PC: vende un portátil con Windows 11 y de solo 1,3 kg por menos de 200 euros' />
+    <h4><a href='https://computerhoy.com/apps/funcion-secreta-iphone-comprobar-has-aplicado-bien-protector-solar-1396947'>La función secreta del iPhone para comprobar si has aplicado bien el protector solar</a></h4>
+    <a href='https://computerhoy.com/apps/funcion-secreta-iphone-comprobar-has-aplicado-bien-protector-solar-1396947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-secreta-iphone-comprobar-has-aplicado-bien-protector-solar-3789638.jpg?tf=1200x' alt='La función secreta del iPhone para comprobar si has aplicado bien el protector solar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-competira-airdrop-ios-quick-share-android-ultima-funcion-1396905'>WhatsApp competirá con AirDrop en iOS y Quick Share en Android con su última función</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-competira-airdrop-ios-quick-share-android-ultima-funcion-1396905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-competira-airdrop-ios-quick-share-android-ultima-funcion-3788995.jpg?tf=1200x' alt='WhatsApp competirá con AirDrop en iOS y Quick Share en Android con su última función' />
+    <h4><a href='https://computerhoy.com/tecnologia/roomba-combo-10-max-robot-limpieza-disenado-olvidarte-tienes-casa-1395252'>Roomba Combo 10 Max, un robot de limpieza diseñado para olvidarte de que lo tienes en casa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/roomba-combo-10-max-robot-limpieza-disenado-olvidarte-tienes-casa-1395252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/roomba-combo-10-max-3782714.jpg?tf=1200x' alt='Roomba Combo 10 Max, un robot de limpieza diseñado para olvidarte de que lo tienes en casa' />
     </a>
 </div>
 
