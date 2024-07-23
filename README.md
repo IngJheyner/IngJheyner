@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-internet-instante-1330292'>Sigue la regla de los 30 centímetros para aumentar la velocidad de tu Internet al instante</a></h4>
+    <a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-internet-instante-1330292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regla-30-centimetros-aumentar-velocidad-internet-instante-3290333.jpg?tf=1200x' alt='Sigue la regla de los 30 centímetros para aumentar la velocidad de tu Internet al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-predice-declive-ia-actual-apuesta-lugar-ia-metacognitiva-cara-futuro-1396993'>Bill Gates predice el declive de la IA actual y apuesta en su lugar por una IA metacognitiva de cara al futuro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bill-gates-predice-declive-ia-actual-apuesta-lugar-ia-metacognitiva-cara-futuro-1396993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bill-gates-ia-3790619.jpg?tf=1200x' alt='Bill Gates predice el declive de la IA actual y apuesta en su lugar por una IA metacognitiva de cara al futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/juice-jacking-evita-usar-puertos-usb-publicos-cargar-dispositivos-1396884'>¿Qué es el juice jacking? Evita usar puertos USB públicos para cargar tus dispositivos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/juice-jacking-evita-usar-puertos-usb-publicos-cargar-dispositivos-1396884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/juice-jacking-evita-usar-puertos-usb-publicos-cargar-dispositivos-3787030.jpg?tf=1200x' alt='¿Qué es el juice jacking? Evita usar puertos USB públicos para cargar tus dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-3-cosas-no-conoces-mejor-amigo-viajes-android-auto-1397002'>Ni Google Maps ni Waze: 3 cosas que no conoces del mejor AmiGO para los viajes con Android Auto</a></h4>
     <a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-3-cosas-no-conoces-mejor-amigo-viajes-android-auto-1397002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-google-maps-ni-waze-3-cosas-no-conoces-mejor-amigo-viajes-android-auto-3790618.jpg?tf=1200x' alt='Ni Google Maps ni Waze: 3 cosas que no conoces del mejor AmiGO para los viajes con Android Auto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/trucos-infalibles-bateria-movil-android-dure-mucho-1396405'>Trucos infalibles para que la batería de tu móvil Android dure mucho más</a></h4>
     <a href='https://computerhoy.com/android/trucos-infalibles-bateria-movil-android-dure-mucho-1396405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trucos-infalibles-bateria-movil-android-dure-mucho-3758546.jpg?tf=1200x' alt='Trucos infalibles para que la batería de tu móvil Android dure mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/necesita-instalar-iptv-1396399'>¿Qué se necesita para instalar una IPTV?</a></h4>
-    <a href='https://computerhoy.com/apps/necesita-instalar-iptv-1396399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/canales-online-iptv-3778712.jpg?tf=1200x' alt='¿Qué se necesita para instalar una IPTV?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/formas-muy-sencillas-rapidas-crear-propios-gif-animados-enviar-whatsapp-1396906'>Formas muy sencillas y rápidas de crear tus propios GIF animados para enviar por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/formas-muy-sencillas-rapidas-crear-propios-gif-animados-enviar-whatsapp-1396906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gif-3789635.jpg?tf=1200x' alt='Formas muy sencillas y rápidas de crear tus propios GIF animados para enviar por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/rover-curiosity-nasa-encuentra-hallazgo-imposible-no-deberia-estar-alli-1396955'>El rover Curiosity de la NASA encuentra un hallazgo imposible: “No debería estar allí”</a></h4>
-    <a href='https://computerhoy.com/espacio/rover-curiosity-nasa-encuentra-hallazgo-imposible-no-deberia-estar-alli-1396955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rover-curiosity-nasa-3790117.jpg?tf=1200x' alt='El rover Curiosity de la NASA encuentra un hallazgo imposible: “No debería estar allí”' />
     </a>
 </div>
 
