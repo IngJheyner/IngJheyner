@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/usar-puntos-waze-1396320'>¿Para qué sirven los puntos de Waze?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/usar-puntos-waze-1396320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puntos-waze-app-3755015.jpg?tf=1200x' alt='¿Para qué sirven los puntos de Waze?' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-renueva-5-nuevas-funciones-deberias-utilizar-ahora-mismo-1396358'>Google Maps se renueva con 5 nuevas funciones que deberías aprovechar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-renueva-5-nuevas-funciones-deberias-utilizar-ahora-mismo-1396358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-actualiza-5-nuevas-funciones-deberias-utilizar-ahora-mismo-3756425.jpg?tf=1200x' alt='Google Maps se renueva con 5 nuevas funciones que deberías aprovechar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7x-solar-precio-minimo-historico-1382327'>El Garmin 7X Solar tiene batería casi infinita y ahora está a su precio histórico más bajo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-fenix-7x-solar-precio-minimo-historico-1382327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/garmin-fenix-7x-solar-3781795.jpg?tf=1200x' alt='El Garmin 7X Solar tiene batería casi infinita y ahora está a su precio histórico más bajo' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211'>Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-smart-band-8-3197312.jpg?tf=1200x' alt='Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/no-ciencia-ficcion-motor-permite-viajar-rapido-luz-equipo-fisicos-ha-demostrado-1396781'>No es ciencia ficción: este motor permite viajar más rápido que la luz, y un equipo de físicos lo ha demostrado</a></h4>
-    <a href='https://computerhoy.com/ciencia/no-ciencia-ficcion-motor-permite-viajar-rapido-luz-equipo-fisicos-ha-demostrado-1396781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/foto-nave-creada-mark-rademaker-3783046.jpg?tf=1200x' alt='No es ciencia ficción: este motor permite viajar más rápido que la luz, y un equipo de físicos lo ha demostrado' />
+    <h4><a href='https://computerhoy.com/google-da-marcha-atras-plan-eliminar-cookies-terceros-chrome-1396915'>Google da marcha atrás y cambia el plan de eliminar las cookies de terceros en Chrome</a></h4>
+    <a href='https://computerhoy.com/google-da-marcha-atras-plan-eliminar-cookies-terceros-chrome-1396915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/historial-google-cookies-3248418.jpg?tf=1200x' alt='Google da marcha atrás y cambia el plan de eliminar las cookies de terceros en Chrome' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/ultrahuman-ring-air-anillo-inteligente-analisis-opinion-1395971'>Cansado de los smartwatch me he pasado al anillo inteligente Ultrahuman Ring Air y no echo en falta el reloj</a></h4>
-    <a href='https://computerhoy.com/analisis/ultrahuman-ring-air-anillo-inteligente-analisis-opinion-1395971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ultrahuman-ring-air-3746520.jpg?tf=1200x' alt='Cansado de los smartwatch me he pasado al anillo inteligente Ultrahuman Ring Air y no echo en falta el reloj' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-cualquier-juego-steam-1396851'>Cómo instalar cualquier juego desde Steam</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-cualquier-juego-steam-1396851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/juegos-steam-3784590.jpg?tf=1200x' alt='Cómo instalar cualquier juego desde Steam' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/legal-iptv-espana-1396398'>¿Es legal la IPTV en España?</a></h4>
-    <a href='https://computerhoy.com/apps/legal-iptv-espana-1396398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-iptv-3777358.jpg?tf=1200x' alt='¿Es legal la IPTV en España?' />
+    <h4><a href='https://computerhoy.com/tecnologia/yandex-google-rusia-marcha-pais-ia-1396910'>Yandex, la Google de Rusia, se marcha del país porque no puede sobrevivir sin IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/yandex-google-rusia-marcha-pais-ia-1396910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/yandex-google-rusia-marcha-pais-porque-no-puede-sobrevivir-ia-3788374.jpg?tf=1200x' alt='Yandex, la Google de Rusia, se marcha del país porque no puede sobrevivir sin IA' />
     </a>
 </div>
 
