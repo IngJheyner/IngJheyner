@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-videos-youtube-vlc-media-player-segundos-1352876'>Cómo descargar vídeos de YouTube con VLC media player en segundos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-videos-youtube-vlc-media-player-segundos-1352876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-descargar-videos-youtube-vlc-media-player-3254407.jpg?tf=1200x' alt='Cómo descargar vídeos de YouTube con VLC media player en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/funcion-muy-criticada-vision-pro-apple-llegaria-meta-quest-1396923'>Una función muy criticada de las Vision Pro de Apple llegaría a las Meta Quest </a></h4>
     <a href='https://computerhoy.com/tecnologia/funcion-muy-criticada-vision-pro-apple-llegaria-meta-quest-1396923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/meta-quest-2-3060490.jpg?tf=1200x' alt='Una función muy criticada de las Vision Pro de Apple llegaría a las Meta Quest ' />
@@ -74,6 +66,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211'>Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-smart-band-8-3197312.jpg?tf=1200x' alt='Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-maps-renueva-5-nuevas-funciones-deberias-utilizar-ahora-mismo-1396358'>Google Maps se renueva con 5 nuevas funciones que deberías aprovechar ahora mismo</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-renueva-5-nuevas-funciones-deberias-utilizar-ahora-mismo-1396358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-actualiza-5-nuevas-funciones-deberias-utilizar-ahora-mismo-3756425.jpg?tf=1200x' alt='Google Maps se renueva con 5 nuevas funciones que deberías aprovechar ahora mismo' />
@@ -82,9 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211'>Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/pulsera-inteligente-cual-es-mejor-539211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-smart-band-8-3197312.jpg?tf=1200x' alt='Comprar una pulsera inteligente, ¿qué debo tener en cuenta y cuáles son los mejores modelos?' />
+    <h4><a href='https://computerhoy.com/google-da-marcha-atras-plan-eliminar-cookies-terceros-chrome-1396915'>Google da marcha atrás y cambia el plan de eliminar las cookies de terceros en Chrome</a></h4>
+    <a href='https://computerhoy.com/google-da-marcha-atras-plan-eliminar-cookies-terceros-chrome-1396915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/historial-google-cookies-3248418.jpg?tf=1200x' alt='Google da marcha atrás y cambia el plan de eliminar las cookies de terceros en Chrome' />
     </a>
 </div>
 
