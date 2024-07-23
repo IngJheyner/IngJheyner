@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-3-cosas-no-conoces-mejor-amigo-viajes-android-auto-1397002'>Ni Google Maps ni Waze: 3 cosas que no conoces del mejor AmiGO para los viajes con Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-3-cosas-no-conoces-mejor-amigo-viajes-android-auto-1397002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-google-maps-ni-waze-3-cosas-no-conoces-mejor-amigo-viajes-android-auto-3790618.jpg?tf=1200x' alt='Ni Google Maps ni Waze: 3 cosas que no conoces del mejor AmiGO para los viajes con Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/trucos-infalibles-bateria-movil-android-dure-mucho-1396405'>Trucos infalibles para que la batería de tu móvil Android dure mucho más</a></h4>
+    <a href='https://computerhoy.com/android/trucos-infalibles-bateria-movil-android-dure-mucho-1396405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trucos-infalibles-bateria-movil-android-dure-mucho-3758546.jpg?tf=1200x' alt='Trucos infalibles para que la batería de tu móvil Android dure mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/necesita-instalar-iptv-1396399'>¿Qué se necesita para instalar una IPTV?</a></h4>
     <a href='https://computerhoy.com/apps/necesita-instalar-iptv-1396399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/canales-online-iptv-3778712.jpg?tf=1200x' alt='¿Qué se necesita para instalar una IPTV?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/rover-curiosity-nasa-encuentra-hallazgo-imposible-no-deberia-estar-alli-1396955'>El rover Curiosity de la NASA encuentra un hallazgo imposible: “No debería estar allí”</a></h4>
     <a href='https://computerhoy.com/espacio/rover-curiosity-nasa-encuentra-hallazgo-imposible-no-deberia-estar-alli-1396955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rover-curiosity-nasa-3790117.jpg?tf=1200x' alt='El rover Curiosity de la NASA encuentra un hallazgo imposible: “No debería estar allí”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pc-ano-2003-funciono-durante-18-anos-dos-pegatinas-cpu-pasta-termica-1396967'>Este PC del año 2003 funcionó durante 18 años con dos pegatinas en la CPU y sin pasta térmica</a></h4>
-    <a href='https://computerhoy.com/pc/pc-ano-2003-funciono-durante-18-anos-dos-pegatinas-cpu-pasta-termica-1396967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ordenador-superviviente-3790110.jpg?tf=1200x' alt='Este PC del año 2003 funcionó durante 18 años con dos pegatinas en la CPU y sin pasta térmica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/fisico-asegura-universo-podria-ser-proyecto-quimica-civilizacion-avanzada-1396971'>Un físico asegura que el Universo podría ser el proyecto de química de una civilización más avanzada</a></h4>
-    <a href='https://computerhoy.com/espacio/fisico-asegura-universo-podria-ser-proyecto-quimica-civilizacion-avanzada-1396971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fisico-asegura-universo-podria-ser-proyecto-quimica-civilizacion-avanzada-3790120.jpg?tf=1200x' alt='Un físico asegura que el Universo podría ser el proyecto de química de una civilización más avanzada' />
     </a>
 </div>
 
