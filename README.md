@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/moviles-nuevos-usados-reacondicionados-cuales-son-grandes-diferencias-1397098'>Móviles nuevos, usados y reacondicionados: ¿cuáles son las grandes diferencias?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/moviles-nuevos-usados-reacondicionados-cuales-son-grandes-diferencias-1397098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movil-3796838.jpg?tf=1200x' alt='Móviles nuevos, usados y reacondicionados: ¿cuáles son las grandes diferencias?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/adobe-compite-midjourney-dall-ahora-photoshop-generara-imagenes-ia-partir-texto-1397140'>Adobe compite con Midjourney y Dall-E: ahora Photoshop generará imágenes IA a partir de texto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adobe-compite-midjourney-dall-ahora-photoshop-generara-imagenes-ia-partir-texto-1397140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/adobe-firefly-3192352.jpg?tf=1200x' alt='Adobe compite con Midjourney y Dall-E: ahora Photoshop generará imágenes IA a partir de texto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/leer-instrucciones-dispositivos-tan-importante-1397056'>¿Por qué leer las instrucciones de tus dispositivos es tan importante?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/leer-instrucciones-dispositivos-tan-importante-1397056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/arreglar-pc-3794410.jpg?tf=1200x' alt='¿Por qué leer las instrucciones de tus dispositivos es tan importante?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/msn-messenger-cumple-25-anos-ha-sido-plataforma-chat-emblematicos-zumbidos-1397134'>MSN Messenger cumple 25 años: qué ha sido de la plataforma de chat y sus emblemáticos zumbidos</a></h4>
+    <a href='https://computerhoy.com/apps/msn-messenger-cumple-25-anos-ha-sido-plataforma-chat-emblematicos-zumbidos-1397134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/msn-messenger-3796682.jpg?tf=1200x' alt='MSN Messenger cumple 25 años: qué ha sido de la plataforma de chat y sus emblemáticos zumbidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/revelado-verdadero-rostro-faraon-tutankamon-3300-anos-despues-gracias-tecnologia-3d-1396469'>Revelado el verdadero rostro del faraón Tutankamón 3.300 años después gracias a la tecnología 3D</a></h4>
     <a href='https://computerhoy.com/ciencia/revelado-verdadero-rostro-faraon-tutankamon-3300-anos-despues-gracias-tecnologia-3d-1396469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tutankamon-no-era-tan-atractivo-como-muestran-algunas-recreaciones-estudio-3760888.jpg?tf=1200x' alt='Revelado el verdadero rostro del faraón Tutankamón 3.300 años después gracias a la tecnología 3D' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/cuales-son-mejores-productos-limpiar-pantalla-smart-tv-portatil-danos-1396047'>Cuáles son los mejores productos para limpiar la pantalla de un Smart TV o portátil sin daños</a></h4>
-    <a href='https://computerhoy.com/tutoriales/cuales-son-mejores-productos-limpiar-pantalla-smart-tv-portatil-danos-1396047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/como-hay-limpiar-pantalla-televisor-no-estropee-expertos-good-housekeeping-institute-2447591.jpg?tf=1200x' alt='Cuáles son los mejores productos para limpiar la pantalla de un Smart TV o portátil sin daños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/motorola-moto-g85-5g-movil-gama-media-5000-mah-bateria-camara-principal-50-mpx-1397153'>Motorola moto g85 5G: un móvil gama media con 5.000 mAh de batería y cámara principal de 50 Mpx</a></h4>
-    <a href='https://computerhoy.com/moviles/motorola-moto-g85-5g-movil-gama-media-5000-mah-bateria-camara-principal-50-mpx-1397153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/motorola-moto-g85-5g-3797216.jpg?tf=1200x' alt='Motorola moto g85 5G: un móvil gama media con 5.000 mAh de batería y cámara principal de 50 Mpx' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/mark-zuckerberg-ya-imagina-influencers-haciendo-clones-mismos-ia-1397130'>Mark Zuckerberg ya se imagina a los influencers haciendo clones de sí mismos con la IA</a></h4>
-    <a href='https://computerhoy.com/redes/mark-zuckerberg-ya-imagina-influencers-haciendo-clones-mismos-ia-1397130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mark-zuckerberg-ya-imagina-influencers-haciendo-clones-mismos-ia-3796993.jpg?tf=1200x' alt='Mark Zuckerberg ya se imagina a los influencers haciendo clones de sí mismos con la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-cuesta-mitad-movil-tiene-6gb-ram-windows-1396899'>Este PC cuesta la mitad que un móvil y tiene 6GB de RAM y Windows</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-cuesta-mitad-movil-tiene-6gb-ram-windows-1396899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mini-pc-soyo-3788529.jpg?tf=1200x' alt='Este PC cuesta la mitad que un móvil y tiene 6GB de RAM y Windows' />
     </a>
 </div>
 
