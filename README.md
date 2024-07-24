@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/todo-puedes-hacer-forma-legal-no-tanto-flipper-zero-1328706'>Todo lo que puedes hacer de forma legal (o casi) con Flipper Zero, el tamagotchi para hackers</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-puedes-hacer-forma-legal-no-tanto-flipper-zero-1328706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/flipper-zero-3212224.jpg?tf=1200x' alt='Todo lo que puedes hacer de forma legal (o casi) con Flipper Zero, el tamagotchi para hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/funciones-clave-harian-android-auto-mejor-plataforma-conduccion-1396596'>Funciones clave que harían de Android Auto la mejor plataforma de conducción</a></h4>
+    <a href='https://computerhoy.com/android/funciones-clave-harian-android-auto-mejor-plataforma-conduccion-1396596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funciones-clave-harian-android-auto-mejor-plataforma-conduccion-3765783.jpg?tf=1200x' alt='Funciones clave que harían de Android Auto la mejor plataforma de conducción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robot-cocina-xiaomi-alternativa-thermomix-barato-1357528'>Xiaomi va a por Thermomix: su robot de cocina más Pro está rebajadísimo en España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-cocina-xiaomi-alternativa-thermomix-barato-1357528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-smart-cooking-robot-3262308.jpg?tf=1200x' alt='Xiaomi va a por Thermomix: su robot de cocina más Pro está rebajadísimo en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/vpn-te-sirve-mejores-vpn-gratuitas-pago-1396288'>VPN: qué es, para qué te sirve y las mejores VPN gratuitas y de pago </a></h4>
     <a href='https://computerhoy.com/ciberseguridad/vpn-te-sirve-mejores-vpn-gratuitas-pago-1396288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vpn-3754554.jpg?tf=1200x' alt='VPN: qué es, para qué te sirve y las mejores VPN gratuitas y de pago ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/sony-xperia-1-vi-rival-alta-gama-batir-fotografia-pero-exprimir-maximo-camara-tendras-ser-experto-1396772'>El Sony Xperia 1 VI es un rival de alta gama a batir en fotografía, pero para exprimir al máximo su cámara tendrás que ser un experto</a></h4>
     <a href='https://computerhoy.com/analisis/sony-xperia-1-vi-rival-alta-gama-batir-fotografia-pero-exprimir-maximo-camara-tendras-ser-experto-1396772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sony-xperia-1-vi-3790787.jpg?tf=1200x' alt='El Sony Xperia 1 VI es un rival de alta gama a batir en fotografía, pero para exprimir al máximo su cámara tendrás que ser un experto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-twisters-5-peliculas-clasicas-90-tambien-tendrian-tener-secuela-1395421'>No solo Twisters: 5 películas clásicas de los 90 que también tendrían que tener secuela</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/no-solo-twisters-5-peliculas-clasicas-90-tambien-tendrian-tener-secuela-1395421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-solo-twisters-5-peliculas-clasicas-90-tambien-tendrian-tener-secuela-3713153.jpg?tf=1200x' alt='No solo Twisters: 5 películas clásicas de los 90 que también tendrían que tener secuela' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-echa-culpa-union-europea-fallo-crowdstrike-1397087'>Microsoft echa la culpa a la Unión Europea del fallo de CrowdStrike</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-echa-culpa-union-europea-fallo-crowdstrike-1397087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-echa-culpa-union-europea-fallo-crowdstrike-3795277.jpg?tf=1200x' alt='Microsoft echa la culpa a la Unión Europea del fallo de CrowdStrike' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bateria-solar-oferta-amazon-1396267'>Esta batería solar es perfecta para el verano y Amazon tiene un cupón descuento especial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bateria-solar-oferta-amazon-1396267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/allpowers-r600-3234326.jpg?tf=1200x' alt='Esta batería solar es perfecta para el verano y Amazon tiene un cupón descuento especial' />
     </a>
 </div>
 
