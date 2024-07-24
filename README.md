@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/deberias-usar-ssd-externos-consolas-1397244'>¿Por qué deberías usar SSD externos en tus consolas?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/deberias-usar-ssd-externos-consolas-1397244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/deberias-usar-ssd-externos-consolas-3800387.jpg?tf=1200x' alt='¿Por qué deberías usar SSD externos en tus consolas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cocina-neandertales-arqueologos-espanoles-1397271'>Así cocinaban los Neandertales: arqueólogos españoles preparan aves como hace 200.000 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/cocina-neandertales-arqueologos-espanoles-1397271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cocinaban-neandertales-arqueologos-espanoles-preparan-aves-como-hace-200000-anos-3799925.jpg?tf=1200x' alt='Así cocinaban los Neandertales: arqueólogos españoles preparan aves como hace 200.000 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cambio-climatico-amenaza-borrar-mapa-playas-iconicas-andalucia-1397264'>El cambio climático amenaza con borrar del mapa playas icónicas de Andalucía</a></h4>
     <a href='https://computerhoy.com/life/cambio-climatico-amenaza-borrar-mapa-playas-iconicas-andalucia-1397264' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/contaminacion-playas-3800074.jpg?tf=1200x' alt='El cambio climático amenaza con borrar del mapa playas icónicas de Andalucía' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-10-recibe-nueva-actualizacion-multiples-correcciones-puedes-instalarla-1397257'>Windows 10 recibe una nueva actualización con múltiples correcciones y así puedes instalarla</a></h4>
     <a href='https://computerhoy.com/windows/windows-10-recibe-nueva-actualizacion-multiples-correcciones-puedes-instalarla-1397257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-razones-peso-actualizar-windows-11-abandonar-windows-10-3619001.jpg?tf=1200x' alt='Windows 10 recibe una nueva actualización con múltiples correcciones y así puedes instalarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-skills-alexa-domotizar-hogar-1397225'>Las mejores skills de Alexa para domotizar tu hogar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-skills-alexa-domotizar-hogar-1397225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mejores-skills-alexa-domotizar-hogar-3799773.jpg?tf=1200x' alt='Las mejores skills de Alexa para domotizar tu hogar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/8-trucos-completar-videojuegos-pendientes-1396009'>8 trucos para completar tus videojuegos pendientes</a></h4>
-    <a href='https://computerhoy.com/gaming/8-trucos-completar-videojuegos-pendientes-1396009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/8-trucos-completar-videojuegos-pendientes-3744906.jpg?tf=1200x' alt='8 trucos para completar tus videojuegos pendientes' />
     </a>
 </div>
 
