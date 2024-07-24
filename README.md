@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/prime-video-cambia-interfaz-solucionar-mayor-problema-1397083'>Prime Video cambia su interfaz para solucionar su mayor problema</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/prime-video-cambia-interfaz-solucionar-mayor-problema-1397083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-prime-video-cambia-completo-interfaz-solucionar-mayor-problema-3793527.jpg?tf=1200x' alt='Prime Video cambia su interfaz para solucionar su mayor problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-ajustar-personalizar-pantalla-amazon-echo-spot-1397077'>Cómo ajustar y personalizar la pantalla del Amazon Echo Spot</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ajustar-personalizar-pantalla-amazon-echo-spot-1397077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-ajustar-personalizar-pantalla-amazon-echo-spot-3793969.jpg?tf=1200x' alt='Cómo ajustar y personalizar la pantalla del Amazon Echo Spot' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/malware-telegram-archivos-parecen-videos-infectan-dispositivos-1397072'>Malware en Telegram: archivos que parecen vídeos infectan dispositivos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/malware-telegram-archivos-parecen-videos-infectan-dispositivos-1397072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hacker-telegram-3198184.jpg?tf=1200x' alt='Malware en Telegram: archivos que parecen vídeos infectan dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-puedes-saber-cuanto-ruido-hace-teclado-mecanico-antes-comprarlo-1397051'>Cómo puedes saber cuánto ruido hace un teclado mecánico antes de comprarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-puedes-saber-cuanto-ruido-hace-teclado-mecanico-antes-comprarlo-1397051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-puedes-saber-cuanto-ruido-hace-teclado-mecanico-antes-comprarlo-3792479.jpg?tf=1200x' alt='Cómo puedes saber cuánto ruido hace un teclado mecánico antes de comprarlo' />
     </a>
 </div>
 
