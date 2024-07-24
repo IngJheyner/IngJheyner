@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ajustar-personalizar-pantalla-amazon-echo-spot-1397077'>Cómo ajustar y personalizar la pantalla del Amazon Echo Spot</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ajustar-personalizar-pantalla-amazon-echo-spot-1397077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-ajustar-personalizar-pantalla-amazon-echo-spot-3793969.jpg?tf=1200x' alt='Cómo ajustar y personalizar la pantalla del Amazon Echo Spot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/10-dispositivos-pueden-ejecutar-doom-no-sabias-1397065'>10 dispositivos que pueden ejecutar DOOM y no lo sabías</a></h4>
     <a href='https://computerhoy.com/tecnologia/10-dispositivos-pueden-ejecutar-doom-no-sabias-1397065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-dispositivos-pueden-ejecutar-doom-no-sabias-3793378.jpg?tf=1200x' alt='10 dispositivos que pueden ejecutar DOOM y no lo sabías' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-puedes-saber-cuanto-ruido-hace-teclado-mecanico-antes-comprarlo-1397051'>Cómo puedes saber cuánto ruido hace un teclado mecánico antes de comprarlo</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-puedes-saber-cuanto-ruido-hace-teclado-mecanico-antes-comprarlo-1397051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-puedes-saber-cuanto-ruido-hace-teclado-mecanico-antes-comprarlo-3792479.jpg?tf=1200x' alt='Cómo puedes saber cuánto ruido hace un teclado mecánico antes de comprarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/expertos-cambio-climatico-ya-avisan-estas-zonas-espana-podrian-volverse-inhabitables-calor-extremo-menos-30-anos-1397071'>Expertos en cambio climático ya avisan: estas zonas de España podrían volverse inhabitables por calor extremo en menos de 30 años</a></h4>
-    <a href='https://computerhoy.com/life/expertos-cambio-climatico-ya-avisan-estas-zonas-espana-podrian-volverse-inhabitables-calor-extremo-menos-30-anos-1397071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ola-calor-3792792.jpg?tf=1200x' alt='Expertos en cambio climático ya avisan: estas zonas de España podrían volverse inhabitables por calor extremo en menos de 30 años' />
     </a>
 </div>
 
