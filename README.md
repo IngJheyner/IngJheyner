@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-tiene-conexiones-ilimitadas-pagas-poco-2-euros-mes-tienes-toda-familia-1396916'>Esta VPN tiene conexiones ilimitadas: pagas poco más de 2 euros al mes y tienes para toda tu familia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-tiene-conexiones-ilimitadas-pagas-poco-2-euros-mes-tienes-toda-familia-1396916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vpn-surfshark-3241642.jpg?tf=1200x' alt='Esta VPN tiene conexiones ilimitadas: pagas poco más de 2 euros al mes y tienes para toda tu familia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/tarjetas-virtuales-desechables-1338556'>Las tarjetas virtuales desechables han cambiado mi forma de pagar compras por Internet</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/tarjetas-virtuales-desechables-1338556' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tarjetas-banco-virtuales-3229084.jpg?tf=1200x' alt='Las tarjetas virtuales desechables han cambiado mi forma de pagar compras por Internet' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/5-gadgets-baratos-te-ayudan-combatir-calor-ni-sabias-existian-1390228'>5 gadgets baratos que te ayudan a combatir el calor (y que ni sabías que existían)</a></h4>
     <a href='https://computerhoy.com/tecnologia/5-gadgets-baratos-te-ayudan-combatir-calor-ni-sabias-existian-1390228' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-gadgets-baratos-te-ayudan-combatir-calor-ni-sabias-existian-3478576.jpg?tf=1200x' alt='5 gadgets baratos que te ayudan a combatir el calor (y que ni sabías que existían)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/pueden-muros-marinos-impresos-3d-proteger-vida-marina-1397180'>¿Pueden los muros marinos impresos en 3D proteger la vida marina?</a></h4>
-    <a href='https://computerhoy.com/ciencia/pueden-muros-marinos-impresos-3d-proteger-vida-marina-1397180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pueden-muros-marinos-impresos-3d-proteger-vida-marina-3797483.jpg?tf=1200x' alt='¿Pueden los muros marinos impresos en 3D proteger la vida marina?' />
     </a>
 </div>
 
