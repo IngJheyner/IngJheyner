@@ -50,22 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-ahorrarte-problemas-permisos-truco-clonacion-linux-1397081'>Cómo ahorrarte problemas de permisos con este truco de clonación en Linux</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-ahorrarte-problemas-permisos-truco-clonacion-linux-1397081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-ahorrarte-problemas-permisos-truco-clonacion-linux-3794558.jpg?tf=1200x' alt='Cómo ahorrarte problemas de permisos con este truco de clonación en Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/spotify-podria-lanzar-suscripcion-deluxe-cara-paquete-premium-1397106'>Spotify podría lanzar una suscripción "Deluxe" más cara que el paquete "Premium"</a></h4>
-    <a href='https://computerhoy.com/audio/spotify-podria-lanzar-suscripcion-deluxe-cara-paquete-premium-1397106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/spotify-podria-lanzar-suscripcion-deluxe-cara-paquete-premium-3796182.jpg?tf=1200x' alt='Spotify podría lanzar una suscripción "Deluxe" más cara que el paquete "Premium"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-lanza-ios-18-beta-4-novedades-como-descargarla-iphone-1397097'>Apple lanza iOS 18 beta 4: novedades y cómo descargarla en iPhone</a></h4>
     <a href='https://computerhoy.com/apple/apple-lanza-ios-18-beta-4-novedades-como-descargarla-iphone-1397097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ios-18-hace-posible-ahora-podras-grabar-llamadas-iphone-3747921.jpg?tf=1200x' alt='Apple lanza iOS 18 beta 4: novedades y cómo descargarla en iPhone' />
@@ -85,6 +69,22 @@
     <h4><a href='https://computerhoy.com/android/funciones-clave-harian-android-auto-mejor-plataforma-conduccion-1396596'>Funciones clave que harían de Android Auto la mejor plataforma de conducción</a></h4>
     <a href='https://computerhoy.com/android/funciones-clave-harian-android-auto-mejor-plataforma-conduccion-1396596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funciones-clave-harian-android-auto-mejor-plataforma-conduccion-3765783.jpg?tf=1200x' alt='Funciones clave que harían de Android Auto la mejor plataforma de conducción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robot-cocina-xiaomi-alternativa-thermomix-barato-1357528'>Xiaomi va a por Thermomix: su robot de cocina más Pro está rebajadísimo en España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-cocina-xiaomi-alternativa-thermomix-barato-1357528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-smart-cooking-robot-3262308.jpg?tf=1200x' alt='Xiaomi va a por Thermomix: su robot de cocina más Pro está rebajadísimo en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/vpn-te-sirve-mejores-vpn-gratuitas-pago-1396288'>VPN: qué es, para qué te sirve y las mejores VPN gratuitas y de pago </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/vpn-te-sirve-mejores-vpn-gratuitas-pago-1396288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vpn-3754554.jpg?tf=1200x' alt='VPN: qué es, para qué te sirve y las mejores VPN gratuitas y de pago ' />
     </a>
 </div>
 
