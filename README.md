@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-lanza-ios-18-beta-4-novedades-como-descargarla-iphone-1397097'>Apple lanza iOS 18 beta 4: novedades y cómo descargarla en iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/apple-lanza-ios-18-beta-4-novedades-como-descargarla-iphone-1397097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ios-18-hace-posible-ahora-podras-grabar-llamadas-iphone-3747921.jpg?tf=1200x' alt='Apple lanza iOS 18 beta 4: novedades y cómo descargarla en iPhone' />
+    <h4><a href='https://computerhoy.com/ciencia/revelado-verdadero-rostro-faraon-tutankamon-3300-anos-despues-gracias-tecnologia-3d-1396469'>Revelado el verdadero rostro del faraón Tutankamón 3.300 años después gracias a la tecnología 3D</a></h4>
+    <a href='https://computerhoy.com/ciencia/revelado-verdadero-rostro-faraon-tutankamon-3300-anos-despues-gracias-tecnologia-3d-1396469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tutankamon-no-era-tan-atractivo-como-muestran-algunas-recreaciones-estudio-3760888.jpg?tf=1200x' alt='Revelado el verdadero rostro del faraón Tutankamón 3.300 años después gracias a la tecnología 3D' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-puedes-hacer-forma-legal-no-tanto-flipper-zero-1328706'>Todo lo que puedes hacer de forma legal (o casi) con Flipper Zero, el tamagotchi para hackers</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-puedes-hacer-forma-legal-no-tanto-flipper-zero-1328706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/flipper-zero-3212224.jpg?tf=1200x' alt='Todo lo que puedes hacer de forma legal (o casi) con Flipper Zero, el tamagotchi para hackers' />
+    <h4><a href='https://computerhoy.com/tutoriales/cuales-son-mejores-productos-limpiar-pantalla-smart-tv-portatil-danos-1396047'>Cuáles son los mejores productos para limpiar la pantalla de un Smart TV o portátil sin daños</a></h4>
+    <a href='https://computerhoy.com/tutoriales/cuales-son-mejores-productos-limpiar-pantalla-smart-tv-portatil-danos-1396047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/como-hay-limpiar-pantalla-televisor-no-estropee-expertos-good-housekeeping-institute-2447591.jpg?tf=1200x' alt='Cuáles son los mejores productos para limpiar la pantalla de un Smart TV o portátil sin daños' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/funciones-clave-harian-android-auto-mejor-plataforma-conduccion-1396596'>Funciones clave que harían de Android Auto la mejor plataforma de conducción</a></h4>
-    <a href='https://computerhoy.com/android/funciones-clave-harian-android-auto-mejor-plataforma-conduccion-1396596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funciones-clave-harian-android-auto-mejor-plataforma-conduccion-3765783.jpg?tf=1200x' alt='Funciones clave que harían de Android Auto la mejor plataforma de conducción' />
+    <h4><a href='https://computerhoy.com/tecnologia/pc-cuesta-mitad-movil-tiene-6gb-ram-windows-1396899'>Este PC cuesta la mitad que un móvil y tiene 6GB de RAM y Windows</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-cuesta-mitad-movil-tiene-6gb-ram-windows-1396899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mini-pc-soyo-3788529.jpg?tf=1200x' alt='Este PC cuesta la mitad que un móvil y tiene 6GB de RAM y Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-cocina-xiaomi-alternativa-thermomix-barato-1357528'>Xiaomi va a por Thermomix: su robot de cocina más Pro está rebajadísimo en España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-cocina-xiaomi-alternativa-thermomix-barato-1357528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-smart-cooking-robot-3262308.jpg?tf=1200x' alt='Xiaomi va a por Thermomix: su robot de cocina más Pro está rebajadísimo en España' />
+    <h4><a href='https://computerhoy.com/apple/cnmc-apple-posibles-practicas-anticompetitivas-app-store-1397148'>La CNMC contra Apple por posibles prácticas anticompetitivas en la App Store</a></h4>
+    <a href='https://computerhoy.com/apple/cnmc-apple-posibles-practicas-anticompetitivas-app-store-1397148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-store-3594966.jpg?tf=1200x' alt='La CNMC contra Apple por posibles prácticas anticompetitivas en la App Store' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/vpn-te-sirve-mejores-vpn-gratuitas-pago-1396288'>VPN: qué es, para qué te sirve y las mejores VPN gratuitas y de pago </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/vpn-te-sirve-mejores-vpn-gratuitas-pago-1396288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/vpn-3754554.jpg?tf=1200x' alt='VPN: qué es, para qué te sirve y las mejores VPN gratuitas y de pago ' />
+    <h4><a href='https://computerhoy.com/moviles/ni-ia-ni-plegable-prepara-bolsillo-porque-novedad-moviles-inflara-precio-1397119'>Ni IA ni plegable: prepara tu bolsillo porque esta novedad en los móviles inflará su precio</a></h4>
+    <a href='https://computerhoy.com/moviles/ni-ia-ni-plegable-prepara-bolsillo-porque-novedad-moviles-inflara-precio-1397119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/precios-moviles-3796520.jpg?tf=1200x' alt='Ni IA ni plegable: prepara tu bolsillo porque esta novedad en los móviles inflará su precio' />
     </a>
 </div>
 
