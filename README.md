@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/tarjetas-virtuales-desechables-1338556'>Las tarjetas virtuales desechables han cambiado mi forma de pagar compras por Internet</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tarjetas-virtuales-desechables-1338556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tarjetas-banco-virtuales-3229084.jpg?tf=1200x' alt='Las tarjetas virtuales desechables han cambiado mi forma de pagar compras por Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/debes-hacer-cuando-te-das-cuenta-cuenta-correo-electronico-ha-sido-pirateada-1396737'>Qué debes hacer cuando te das cuenta de que tu cuenta de correo electrónico ha sido pirateada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/debes-hacer-cuando-te-das-cuenta-cuenta-correo-electronico-ha-sido-pirateada-1396737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gmail-3782398.jpg?tf=1200x' alt='Qué debes hacer cuando te das cuenta de que tu cuenta de correo electrónico ha sido pirateada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-router-wifi-linksys-cisco-1396883'>Cómo configurar un router WiFi Linksys by Cisco desde cero</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-router-wifi-linksys-cisco-1396883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/intefaz-linksys-cisco-wifi-3791415.jpg?tf=1200x' alt='Cómo configurar un router WiFi Linksys by Cisco desde cero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-gadgets-baratos-te-ayudan-combatir-calor-ni-sabias-existian-1390228'>5 gadgets baratos que te ayudan a combatir el calor (y que ni sabías que existían)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-gadgets-baratos-te-ayudan-combatir-calor-ni-sabias-existian-1390228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-gadgets-baratos-te-ayudan-combatir-calor-ni-sabias-existian-3478576.jpg?tf=1200x' alt='5 gadgets baratos que te ayudan a combatir el calor (y que ni sabías que existían)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/pueden-muros-marinos-impresos-3d-proteger-vida-marina-1397180'>¿Pueden los muros marinos impresos en 3D proteger la vida marina?</a></h4>
     <a href='https://computerhoy.com/ciencia/pueden-muros-marinos-impresos-3d-proteger-vida-marina-1397180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pueden-muros-marinos-impresos-3d-proteger-vida-marina-3797483.jpg?tf=1200x' alt='¿Pueden los muros marinos impresos en 3D proteger la vida marina?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robots-humanoides-elon-musk-preparan-mundo-laboral-2025-empezaran-trabajar-fabrica-tesla-1397179'>Los robots humanoides de Elon Musk se preparan para el mundo laboral: en 2025 empezarán a trabajar en la fábrica de Tesla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robots-humanoides-elon-musk-preparan-mundo-laboral-2025-empezaran-trabajar-fabrica-tesla-1397179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cyberpunk-2077-elon-musk-3141646.jpg?tf=1200x' alt='Los robots humanoides de Elon Musk se preparan para el mundo laboral: en 2025 empezarán a trabajar en la fábrica de Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubrimiento-cientifico-revela-nuevos-genes-demuestran-adn-humano-sigue-evolucionando-1397152'>Un descubrimiento científico revela nuevos genes que demuestran que el ADN humano sigue evolucionando</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubrimiento-cientifico-revela-nuevos-genes-demuestran-adn-humano-sigue-evolucionando-1397152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/adn-3797145.jpg?tf=1200x' alt='Un descubrimiento científico revela nuevos genes que demuestran que el ADN humano sigue evolucionando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/gran-baza-apple-iphone-16-pro-max-pasa-reinventar-bateria-1397164'>La gran baza de Apple con el iPhone 16 Pro Max pasa por 'reinventar' la batería</a></h4>
-    <a href='https://computerhoy.com/apple/gran-baza-apple-iphone-16-pro-max-pasa-reinventar-bateria-1397164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gran-baza-apple-iphone-16-pro-max-pasa-reinventar-bateria-3797306.jpg?tf=1200x' alt='La gran baza de Apple con el iPhone 16 Pro Max pasa por 'reinventar' la batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/moviles-nuevos-usados-reacondicionados-cuales-son-grandes-diferencias-1397098'>Móviles nuevos, usados y reacondicionados: ¿cuáles son las grandes diferencias?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/moviles-nuevos-usados-reacondicionados-cuales-son-grandes-diferencias-1397098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movil-3796838.jpg?tf=1200x' alt='Móviles nuevos, usados y reacondicionados: ¿cuáles son las grandes diferencias?' />
     </a>
 </div>
 
