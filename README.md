@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/construyen-sonar-casero-encuentran-goleta-hundida-1397272'>Construyen un sonar casero y encuentran una goleta hundida hace 131 años</a></h4>
+    <a href='https://computerhoy.com/life/construyen-sonar-casero-encuentran-goleta-hundida-1397272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/construyen-sonar-casero-encuentra-goleta-hundida-hace-131-anos-3800687.jpg?tf=1200x' alt='Construyen un sonar casero y encuentran una goleta hundida hace 131 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/deberias-usar-ssd-externos-consolas-1397244'>¿Por qué deberías usar SSD externos en tus consolas?</a></h4>
     <a href='https://computerhoy.com/tecnologia/deberias-usar-ssd-externos-consolas-1397244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/deberias-usar-ssd-externos-consolas-3800387.jpg?tf=1200x' alt='¿Por qué deberías usar SSD externos en tus consolas?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/crowdstrike-detalla-fallo-tecnico-detras-colapso-global-windows-1397259'>CrowdStrike detalla el fallo técnico detrás del colapso global de Windows</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/crowdstrike-detalla-fallo-tecnico-detras-colapso-global-windows-1397259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-lanza-herramienta-recuperar-ordenadores-han-sufrido-fallo-crowdstrike-3777966.jpg?tf=1200x' alt='CrowdStrike detalla el fallo técnico detrás del colapso global de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-10-recibe-nueva-actualizacion-multiples-correcciones-puedes-instalarla-1397257'>Windows 10 recibe una nueva actualización con múltiples correcciones y así puedes instalarla</a></h4>
-    <a href='https://computerhoy.com/windows/windows-10-recibe-nueva-actualizacion-multiples-correcciones-puedes-instalarla-1397257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-razones-peso-actualizar-windows-11-abandonar-windows-10-3619001.jpg?tf=1200x' alt='Windows 10 recibe una nueva actualización con múltiples correcciones y así puedes instalarla' />
     </a>
 </div>
 
