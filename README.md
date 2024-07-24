@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/8-trucos-completar-videojuegos-pendientes-1396009'>8 trucos para completar tus videojuegos pendientes</a></h4>
+    <a href='https://computerhoy.com/gaming/8-trucos-completar-videojuegos-pendientes-1396009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/8-trucos-completar-videojuegos-pendientes-3744906.jpg?tf=1200x' alt='8 trucos para completar tus videojuegos pendientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/astronautas-panales-beber-orina-filtrada-como-agua-1397251'>Los astronautas podrían dejar de usar pañales al beber su orina filtrada como agua</a></h4>
+    <a href='https://computerhoy.com/espacio/astronautas-panales-beber-orina-filtrada-como-agua-1397251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/astronautas-podrian-dejar-usar-panales-beber-orina-filtrada-como-agua-3799150.jpg?tf=1200x' alt='Los astronautas podrían dejar de usar pañales al beber su orina filtrada como agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vacaciones-movil-puede-explicarse-auge-companias-viajes-prohiben-telefono-verano-1391995'>Vacaciones sin móvil: así puede explicarse el auge de las compañías de viajes que prohíben el teléfono en verano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vacaciones-movil-puede-explicarse-auge-companias-viajes-prohiben-telefono-verano-1391995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vacaciones-movil-puede-explicarse-auge-companias-viajes-prohiben-telefono-verano-3555580.jpg?tf=1200x' alt='Vacaciones sin móvil: así puede explicarse el auge de las compañías de viajes que prohíben el teléfono en verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vpn-tiene-conexiones-ilimitadas-pagas-poco-2-euros-mes-tienes-toda-familia-1396916'>Esta VPN tiene conexiones ilimitadas: pagas poco más de 2 euros al mes y tienes para toda tu familia</a></h4>
     <a href='https://computerhoy.com/tecnologia/vpn-tiene-conexiones-ilimitadas-pagas-poco-2-euros-mes-tienes-toda-familia-1396916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vpn-surfshark-3241642.jpg?tf=1200x' alt='Esta VPN tiene conexiones ilimitadas: pagas poco más de 2 euros al mes y tienes para toda tu familia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/tarjetas-virtuales-desechables-1338556'>Las tarjetas virtuales desechables han cambiado mi forma de pagar compras por Internet</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/tarjetas-virtuales-desechables-1338556' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tarjetas-banco-virtuales-3229084.jpg?tf=1200x' alt='Las tarjetas virtuales desechables han cambiado mi forma de pagar compras por Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/debes-hacer-cuando-te-das-cuenta-cuenta-correo-electronico-ha-sido-pirateada-1396737'>Qué debes hacer cuando te das cuenta de que tu cuenta de correo electrónico ha sido pirateada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/debes-hacer-cuando-te-das-cuenta-cuenta-correo-electronico-ha-sido-pirateada-1396737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gmail-3782398.jpg?tf=1200x' alt='Qué debes hacer cuando te das cuenta de que tu cuenta de correo electrónico ha sido pirateada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-router-wifi-linksys-cisco-1396883'>Cómo configurar un router WiFi Linksys by Cisco desde cero</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-router-wifi-linksys-cisco-1396883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/intefaz-linksys-cisco-wifi-3791415.jpg?tf=1200x' alt='Cómo configurar un router WiFi Linksys by Cisco desde cero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-gadgets-baratos-te-ayudan-combatir-calor-ni-sabias-existian-1390228'>5 gadgets baratos que te ayudan a combatir el calor (y que ni sabías que existían)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-gadgets-baratos-te-ayudan-combatir-calor-ni-sabias-existian-1390228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-gadgets-baratos-te-ayudan-combatir-calor-ni-sabias-existian-3478576.jpg?tf=1200x' alt='5 gadgets baratos que te ayudan a combatir el calor (y que ni sabías que existían)' />
     </a>
 </div>
 
