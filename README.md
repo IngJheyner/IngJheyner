@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/gran-baza-apple-iphone-16-pro-max-pasa-reinventar-bateria-1397164'>La gran baza de Apple con el iPhone 16 Pro Max pasa por 'reinventar' la batería</a></h4>
+    <a href='https://computerhoy.com/apple/gran-baza-apple-iphone-16-pro-max-pasa-reinventar-bateria-1397164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gran-baza-apple-iphone-16-pro-max-pasa-reinventar-bateria-3797306.jpg?tf=1200x' alt='La gran baza de Apple con el iPhone 16 Pro Max pasa por 'reinventar' la batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/moviles-nuevos-usados-reacondicionados-cuales-son-grandes-diferencias-1397098'>Móviles nuevos, usados y reacondicionados: ¿cuáles son las grandes diferencias?</a></h4>
     <a href='https://computerhoy.com/tecnologia/moviles-nuevos-usados-reacondicionados-cuales-son-grandes-diferencias-1397098' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movil-3796838.jpg?tf=1200x' alt='Móviles nuevos, usados y reacondicionados: ¿cuáles son las grandes diferencias?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/msn-messenger-cumple-25-anos-ha-sido-plataforma-chat-emblematicos-zumbidos-1397134'>MSN Messenger cumple 25 años: qué ha sido de la plataforma de chat y sus emblemáticos zumbidos</a></h4>
     <a href='https://computerhoy.com/apps/msn-messenger-cumple-25-anos-ha-sido-plataforma-chat-emblematicos-zumbidos-1397134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/msn-messenger-3796682.jpg?tf=1200x' alt='MSN Messenger cumple 25 años: qué ha sido de la plataforma de chat y sus emblemáticos zumbidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/revelado-verdadero-rostro-faraon-tutankamon-3300-anos-despues-gracias-tecnologia-3d-1396469'>Revelado el verdadero rostro del faraón Tutankamón 3.300 años después gracias a la tecnología 3D</a></h4>
-    <a href='https://computerhoy.com/ciencia/revelado-verdadero-rostro-faraon-tutankamon-3300-anos-despues-gracias-tecnologia-3d-1396469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tutankamon-no-era-tan-atractivo-como-muestran-algunas-recreaciones-estudio-3760888.jpg?tf=1200x' alt='Revelado el verdadero rostro del faraón Tutankamón 3.300 años después gracias a la tecnología 3D' />
     </a>
 </div>
 
