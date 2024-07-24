@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robots-humanoides-elon-musk-preparan-mundo-laboral-2025-empezaran-trabajar-fabrica-tesla-1397179'>Los robots humanoides de Elon Musk se preparan para el mundo laboral: en 2025 empezarán a trabajar en la fábrica de Tesla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robots-humanoides-elon-musk-preparan-mundo-laboral-2025-empezaran-trabajar-fabrica-tesla-1397179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cyberpunk-2077-elon-musk-3141646.jpg?tf=1200x' alt='Los robots humanoides de Elon Musk se preparan para el mundo laboral: en 2025 empezarán a trabajar en la fábrica de Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubrimiento-cientifico-revela-nuevos-genes-demuestran-adn-humano-sigue-evolucionando-1397152'>Un descubrimiento científico revela nuevos genes que demuestran que el ADN humano sigue evolucionando</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubrimiento-cientifico-revela-nuevos-genes-demuestran-adn-humano-sigue-evolucionando-1397152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/adn-3797145.jpg?tf=1200x' alt='Un descubrimiento científico revela nuevos genes que demuestran que el ADN humano sigue evolucionando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/gran-baza-apple-iphone-16-pro-max-pasa-reinventar-bateria-1397164'>La gran baza de Apple con el iPhone 16 Pro Max pasa por 'reinventar' la batería</a></h4>
     <a href='https://computerhoy.com/apple/gran-baza-apple-iphone-16-pro-max-pasa-reinventar-bateria-1397164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gran-baza-apple-iphone-16-pro-max-pasa-reinventar-bateria-3797306.jpg?tf=1200x' alt='La gran baza de Apple con el iPhone 16 Pro Max pasa por 'reinventar' la batería' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/adobe-compite-midjourney-dall-ahora-photoshop-generara-imagenes-ia-partir-texto-1397140'>Adobe compite con Midjourney y Dall-E: ahora Photoshop generará imágenes IA a partir de texto</a></h4>
     <a href='https://computerhoy.com/tecnologia/adobe-compite-midjourney-dall-ahora-photoshop-generara-imagenes-ia-partir-texto-1397140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/adobe-firefly-3192352.jpg?tf=1200x' alt='Adobe compite con Midjourney y Dall-E: ahora Photoshop generará imágenes IA a partir de texto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/leer-instrucciones-dispositivos-tan-importante-1397056'>¿Por qué leer las instrucciones de tus dispositivos es tan importante?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/leer-instrucciones-dispositivos-tan-importante-1397056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/arreglar-pc-3794410.jpg?tf=1200x' alt='¿Por qué leer las instrucciones de tus dispositivos es tan importante?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/msn-messenger-cumple-25-anos-ha-sido-plataforma-chat-emblematicos-zumbidos-1397134'>MSN Messenger cumple 25 años: qué ha sido de la plataforma de chat y sus emblemáticos zumbidos</a></h4>
-    <a href='https://computerhoy.com/apps/msn-messenger-cumple-25-anos-ha-sido-plataforma-chat-emblematicos-zumbidos-1397134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/msn-messenger-3796682.jpg?tf=1200x' alt='MSN Messenger cumple 25 años: qué ha sido de la plataforma de chat y sus emblemáticos zumbidos' />
     </a>
 </div>
 
