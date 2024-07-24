@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/crowdstrike-detalla-fallo-tecnico-detras-colapso-global-windows-1397259'>CrowdStrike detalla el fallo técnico detrás del colapso global de Windows</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/crowdstrike-detalla-fallo-tecnico-detras-colapso-global-windows-1397259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-lanza-herramienta-recuperar-ordenadores-han-sufrido-fallo-crowdstrike-3777966.jpg?tf=1200x' alt='CrowdStrike detalla el fallo técnico detrás del colapso global de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-10-recibe-nueva-actualizacion-multiples-correcciones-puedes-instalarla-1397257'>Windows 10 recibe una nueva actualización con múltiples correcciones y así puedes instalarla</a></h4>
+    <a href='https://computerhoy.com/windows/windows-10-recibe-nueva-actualizacion-multiples-correcciones-puedes-instalarla-1397257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-razones-peso-actualizar-windows-11-abandonar-windows-10-3619001.jpg?tf=1200x' alt='Windows 10 recibe una nueva actualización con múltiples correcciones y así puedes instalarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-skills-alexa-domotizar-hogar-1397225'>Las mejores skills de Alexa para domotizar tu hogar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-skills-alexa-domotizar-hogar-1397225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mejores-skills-alexa-domotizar-hogar-3799773.jpg?tf=1200x' alt='Las mejores skills de Alexa para domotizar tu hogar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/8-trucos-completar-videojuegos-pendientes-1396009'>8 trucos para completar tus videojuegos pendientes</a></h4>
     <a href='https://computerhoy.com/gaming/8-trucos-completar-videojuegos-pendientes-1396009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/8-trucos-completar-videojuegos-pendientes-3744906.jpg?tf=1200x' alt='8 trucos para completar tus videojuegos pendientes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/astronautas-panales-beber-orina-filtrada-como-agua-1397251'>Los astronautas podrían dejar de usar pañales al beber su orina filtrada como agua</a></h4>
     <a href='https://computerhoy.com/espacio/astronautas-panales-beber-orina-filtrada-como-agua-1397251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/astronautas-podrian-dejar-usar-panales-beber-orina-filtrada-como-agua-3799150.jpg?tf=1200x' alt='Los astronautas podrían dejar de usar pañales al beber su orina filtrada como agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vacaciones-movil-puede-explicarse-auge-companias-viajes-prohiben-telefono-verano-1391995'>Vacaciones sin móvil: así puede explicarse el auge de las compañías de viajes que prohíben el teléfono en verano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vacaciones-movil-puede-explicarse-auge-companias-viajes-prohiben-telefono-verano-1391995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vacaciones-movil-puede-explicarse-auge-companias-viajes-prohiben-telefono-verano-3555580.jpg?tf=1200x' alt='Vacaciones sin móvil: así puede explicarse el auge de las compañías de viajes que prohíben el teléfono en verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-tiene-conexiones-ilimitadas-pagas-poco-2-euros-mes-tienes-toda-familia-1396916'>Esta VPN tiene conexiones ilimitadas: pagas poco más de 2 euros al mes y tienes para toda tu familia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-tiene-conexiones-ilimitadas-pagas-poco-2-euros-mes-tienes-toda-familia-1396916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vpn-surfshark-3241642.jpg?tf=1200x' alt='Esta VPN tiene conexiones ilimitadas: pagas poco más de 2 euros al mes y tienes para toda tu familia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tarjetas-virtuales-desechables-1338556'>Las tarjetas virtuales desechables han cambiado mi forma de pagar compras por Internet</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tarjetas-virtuales-desechables-1338556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tarjetas-banco-virtuales-3229084.jpg?tf=1200x' alt='Las tarjetas virtuales desechables han cambiado mi forma de pagar compras por Internet' />
     </a>
 </div>
 
