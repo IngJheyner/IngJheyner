@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/motorola-moto-g85-5g-movil-gama-media-5000-mah-bateria-camara-principal-50-mpx-1397153'>Motorola moto g85 5G: un móvil gama media con 5.000 mAh de batería y cámara principal de 50 Mpx</a></h4>
+    <a href='https://computerhoy.com/moviles/motorola-moto-g85-5g-movil-gama-media-5000-mah-bateria-camara-principal-50-mpx-1397153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/motorola-moto-g85-5g-3797216.jpg?tf=1200x' alt='Motorola moto g85 5G: un móvil gama media con 5.000 mAh de batería y cámara principal de 50 Mpx' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/mark-zuckerberg-ya-imagina-influencers-haciendo-clones-mismos-ia-1397130'>Mark Zuckerberg ya se imagina a los influencers haciendo clones de sí mismos con la IA</a></h4>
+    <a href='https://computerhoy.com/redes/mark-zuckerberg-ya-imagina-influencers-haciendo-clones-mismos-ia-1397130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mark-zuckerberg-ya-imagina-influencers-haciendo-clones-mismos-ia-3796993.jpg?tf=1200x' alt='Mark Zuckerberg ya se imagina a los influencers haciendo clones de sí mismos con la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pc-cuesta-mitad-movil-tiene-6gb-ram-windows-1396899'>Este PC cuesta la mitad que un móvil y tiene 6GB de RAM y Windows</a></h4>
     <a href='https://computerhoy.com/tecnologia/pc-cuesta-mitad-movil-tiene-6gb-ram-windows-1396899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mini-pc-soyo-3788529.jpg?tf=1200x' alt='Este PC cuesta la mitad que un móvil y tiene 6GB de RAM y Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cnmc-apple-posibles-practicas-anticompetitivas-app-store-1397148'>La CNMC contra Apple por posibles prácticas anticompetitivas en la App Store</a></h4>
-    <a href='https://computerhoy.com/apple/cnmc-apple-posibles-practicas-anticompetitivas-app-store-1397148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-store-3594966.jpg?tf=1200x' alt='La CNMC contra Apple por posibles prácticas anticompetitivas en la App Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ni-ia-ni-plegable-prepara-bolsillo-porque-novedad-moviles-inflara-precio-1397119'>Ni IA ni plegable: prepara tu bolsillo porque esta novedad en los móviles inflará su precio</a></h4>
-    <a href='https://computerhoy.com/moviles/ni-ia-ni-plegable-prepara-bolsillo-porque-novedad-moviles-inflara-precio-1397119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/precios-moviles-3796520.jpg?tf=1200x' alt='Ni IA ni plegable: prepara tu bolsillo porque esta novedad en los móviles inflará su precio' />
     </a>
 </div>
 
