@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/pueden-muros-marinos-impresos-3d-proteger-vida-marina-1397180'>¿Pueden los muros marinos impresos en 3D proteger la vida marina?</a></h4>
+    <a href='https://computerhoy.com/ciencia/pueden-muros-marinos-impresos-3d-proteger-vida-marina-1397180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pueden-muros-marinos-impresos-3d-proteger-vida-marina-3797483.jpg?tf=1200x' alt='¿Pueden los muros marinos impresos en 3D proteger la vida marina?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/robots-humanoides-elon-musk-preparan-mundo-laboral-2025-empezaran-trabajar-fabrica-tesla-1397179'>Los robots humanoides de Elon Musk se preparan para el mundo laboral: en 2025 empezarán a trabajar en la fábrica de Tesla</a></h4>
     <a href='https://computerhoy.com/tecnologia/robots-humanoides-elon-musk-preparan-mundo-laboral-2025-empezaran-trabajar-fabrica-tesla-1397179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/cyberpunk-2077-elon-musk-3141646.jpg?tf=1200x' alt='Los robots humanoides de Elon Musk se preparan para el mundo laboral: en 2025 empezarán a trabajar en la fábrica de Tesla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/moviles-nuevos-usados-reacondicionados-cuales-son-grandes-diferencias-1397098'>Móviles nuevos, usados y reacondicionados: ¿cuáles son las grandes diferencias?</a></h4>
     <a href='https://computerhoy.com/tecnologia/moviles-nuevos-usados-reacondicionados-cuales-son-grandes-diferencias-1397098' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movil-3796838.jpg?tf=1200x' alt='Móviles nuevos, usados y reacondicionados: ¿cuáles son las grandes diferencias?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adobe-compite-midjourney-dall-ahora-photoshop-generara-imagenes-ia-partir-texto-1397140'>Adobe compite con Midjourney y Dall-E: ahora Photoshop generará imágenes IA a partir de texto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adobe-compite-midjourney-dall-ahora-photoshop-generara-imagenes-ia-partir-texto-1397140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/adobe-firefly-3192352.jpg?tf=1200x' alt='Adobe compite con Midjourney y Dall-E: ahora Photoshop generará imágenes IA a partir de texto' />
     </a>
 </div>
 
