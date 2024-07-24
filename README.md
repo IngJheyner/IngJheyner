@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-twisters-5-peliculas-clasicas-90-tambien-tendrian-tener-secuela-1395421'>No solo Twisters: 5 películas clásicas de los 90 que también tendrían que tener secuela</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/no-solo-twisters-5-peliculas-clasicas-90-tambien-tendrian-tener-secuela-1395421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-solo-twisters-5-peliculas-clasicas-90-tambien-tendrian-tener-secuela-3713153.jpg?tf=1200x' alt='No solo Twisters: 5 películas clásicas de los 90 que también tendrían que tener secuela' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-echa-culpa-union-europea-fallo-crowdstrike-1397087'>Microsoft echa la culpa a la Unión Europea del fallo de CrowdStrike</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-echa-culpa-union-europea-fallo-crowdstrike-1397087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-echa-culpa-union-europea-fallo-crowdstrike-3795277.jpg?tf=1200x' alt='Microsoft echa la culpa a la Unión Europea del fallo de CrowdStrike' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bateria-solar-oferta-amazon-1396267'>Esta batería solar es perfecta para el verano y Amazon tiene un cupón descuento especial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bateria-solar-oferta-amazon-1396267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/allpowers-r600-3234326.jpg?tf=1200x' alt='Esta batería solar es perfecta para el verano y Amazon tiene un cupón descuento especial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/prime-video-cambia-interfaz-solucionar-mayor-problema-1397083'>Prime Video cambia su interfaz para solucionar su mayor problema</a></h4>
     <a href='https://computerhoy.com/entretenimiento/prime-video-cambia-interfaz-solucionar-mayor-problema-1397083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazon-prime-video-cambia-completo-interfaz-solucionar-mayor-problema-3793527.jpg?tf=1200x' alt='Prime Video cambia su interfaz para solucionar su mayor problema' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-ajustar-personalizar-pantalla-amazon-echo-spot-1397077'>Cómo ajustar y personalizar la pantalla del Amazon Echo Spot</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ajustar-personalizar-pantalla-amazon-echo-spot-1397077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-ajustar-personalizar-pantalla-amazon-echo-spot-3793969.jpg?tf=1200x' alt='Cómo ajustar y personalizar la pantalla del Amazon Echo Spot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/10-dispositivos-pueden-ejecutar-doom-no-sabias-1397065'>10 dispositivos que pueden ejecutar DOOM y no lo sabías</a></h4>
-    <a href='https://computerhoy.com/tecnologia/10-dispositivos-pueden-ejecutar-doom-no-sabias-1397065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-dispositivos-pueden-ejecutar-doom-no-sabias-3793378.jpg?tf=1200x' alt='10 dispositivos que pueden ejecutar DOOM y no lo sabías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llama-31-nueva-ia-meta-sin-estreno-europa-1397079'>Llama 3.1, la nueva IA de Meta que no cataremos en Europa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llama-31-nueva-ia-meta-sin-estreno-europa-1397079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/llama-31-nueva-ia-meta-no-cataremos-europa-3792938.jpg?tf=1200x' alt='Llama 3.1, la nueva IA de Meta que no cataremos en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/malware-telegram-archivos-parecen-videos-infectan-dispositivos-1397072'>Malware en Telegram: archivos que parecen vídeos infectan dispositivos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/malware-telegram-archivos-parecen-videos-infectan-dispositivos-1397072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hacker-telegram-3198184.jpg?tf=1200x' alt='Malware en Telegram: archivos que parecen vídeos infectan dispositivos' />
     </a>
 </div>
 
