@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/electricistas-advierten-dispositivos-nunca-deberias-conectar-regleta-electrica-1396591'>Los electricistas advierten: dispositivos que nunca deberías conectar a una regleta eléctrica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/electricistas-advierten-dispositivos-nunca-deberias-conectar-regleta-electrica-1396591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/electricistas-advierten-dispositivos-nunca-deberias-conectar-regleta-electrica-3764590.jpg?tf=1200x' alt='Los electricistas advierten: dispositivos que nunca deberías conectar a una regleta eléctrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apps-torrent-llegan-iphone-tienda-altstore-pal-1397337'>Las apps de torrents llegan al iPhone, gracias a las tiendas alternativas europeas</a></h4>
     <a href='https://computerhoy.com/apple/apps-torrent-llegan-iphone-tienda-altstore-pal-1397337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apps-torrents-llegan-iphone-gracias-tiendas-alternativas-europeas-3805041.jpg?tf=1200x' alt='Las apps de torrents llegan al iPhone, gracias a las tiendas alternativas europeas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/astronauta-espanol-pablo-alvarez-ya-tiene-traje-espacial-cuenta-impresiones-1397333'>El astronauta español Pablo Álvarez ya tiene traje espacial, cuenta sus impresiones</a></h4>
     <a href='https://computerhoy.com/espacio/astronauta-espanol-pablo-alvarez-ya-tiene-traje-espacial-cuenta-impresiones-1397333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/astronauta-espanol-pablo-alvarez-ya-tiene-traje-espacial-cuenta-impresiones-3804743.jpg?tf=1200x' alt='El astronauta español Pablo Álvarez ya tiene traje espacial, cuenta sus impresiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estas-vpn-podras-ver-jjoo-gratis-cualquier-pais-rtve-play-1396958'>Con estas VPN podrás ver los JJOO gratis desde cualquier país con RTVE Play</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estas-vpn-podras-ver-jjoo-gratis-cualquier-pais-rtve-play-1396958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rtve-play-jjoo-juegos-olimpicos-3789793.jpg?tf=1200x' alt='Con estas VPN podrás ver los JJOO gratis desde cualquier país con RTVE Play' />
     </a>
 </div>
 
