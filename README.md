@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/ajuste-definitivo-controlar-spam-gmail-1397262'>El ajuste definitivo para controlar el spam de Gmail</a></h4>
+    <a href='https://computerhoy.com/google/ajuste-definitivo-controlar-spam-gmail-1397262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ajuste-definitivo-controlar-spam-gmail-3801283.jpg?tf=1200x' alt='El ajuste definitivo para controlar el spam de Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/construyen-sonar-casero-encuentran-goleta-hundida-1397272'>Construyen un sonar casero y encuentran una goleta hundida hace 131 años</a></h4>
     <a href='https://computerhoy.com/life/construyen-sonar-casero-encuentran-goleta-hundida-1397272' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/construyen-sonar-casero-encuentra-goleta-hundida-hace-131-anos-3800687.jpg?tf=1200x' alt='Construyen un sonar casero y encuentran una goleta hundida hace 131 años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cambio-climatico-amenaza-borrar-mapa-playas-iconicas-andalucia-1397264'>El cambio climático amenaza con borrar del mapa playas icónicas de Andalucía</a></h4>
     <a href='https://computerhoy.com/life/cambio-climatico-amenaza-borrar-mapa-playas-iconicas-andalucia-1397264' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/contaminacion-playas-3800074.jpg?tf=1200x' alt='El cambio climático amenaza con borrar del mapa playas icónicas de Andalucía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/crowdstrike-detalla-fallo-tecnico-detras-colapso-global-windows-1397259'>CrowdStrike detalla el fallo técnico detrás del colapso global de Windows</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/crowdstrike-detalla-fallo-tecnico-detras-colapso-global-windows-1397259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-lanza-herramienta-recuperar-ordenadores-han-sufrido-fallo-crowdstrike-3777966.jpg?tf=1200x' alt='CrowdStrike detalla el fallo técnico detrás del colapso global de Windows' />
     </a>
 </div>
 
