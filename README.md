@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/buscador-bing-estrena-busqueda-generativa-ia-1397362'>El buscador Bing estrena la búsqueda generativa con IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/buscador-bing-estrena-busqueda-generativa-ia-1397362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatbot-bing-2960656.jpg?tf=1200x' alt='El buscador Bing estrena la búsqueda generativa con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/reloj-gps-tiene-llamadas-ia-11-dias-bateria-amazon-estrena-precio-locos-1397292'>Este reloj GPS tiene llamadas con IA y 11 días de batería: Amazon lo estrena y el precio es de locos</a></h4>
+    <a href='https://computerhoy.com/android/reloj-gps-tiene-llamadas-ia-11-dias-bateria-amazon-estrena-precio-locos-1397292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cmf-watch-pro-2-3643244.jpg?tf=1200x' alt='Este reloj GPS tiene llamadas con IA y 11 días de batería: Amazon lo estrena y el precio es de locos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/pc-windows-no-reconoce-memoria-usb-pendrive-1327824'>Todo lo que puedes hacer si tu PC Windows no reconoce tu memoria USB o Pendrive</a></h4>
+    <a href='https://computerhoy.com/tutoriales/pc-windows-no-reconoce-memoria-usb-pendrive-1327824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ordenador-no-reconoce-usb-3209088.jpg?tf=1200x' alt='Todo lo que puedes hacer si tu PC Windows no reconoce tu memoria USB o Pendrive' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/adios-cuentas-compartidas-disney-plus-publicidad-todos-planes-1397353'>Adiós a las cuentas compartidas en Disney+, y publicidad en todos los planes</a></h4>
     <a href='https://computerhoy.com/entretenimiento/adios-cuentas-compartidas-disney-plus-publicidad-todos-planes-1397353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-comienza-prohibir-cuentas-compartidas-1-noviembre-3147114.jpg?tf=1200x' alt='Adiós a las cuentas compartidas en Disney+, y publicidad en todos los planes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/electricistas-advierten-dispositivos-nunca-deberias-conectar-regleta-electrica-1396591'>Los electricistas advierten: dispositivos que nunca deberías conectar a una regleta eléctrica</a></h4>
     <a href='https://computerhoy.com/tecnologia/electricistas-advierten-dispositivos-nunca-deberias-conectar-regleta-electrica-1396591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/electricistas-advierten-dispositivos-nunca-deberias-conectar-regleta-electrica-3764590.jpg?tf=1200x' alt='Los electricistas advierten: dispositivos que nunca deberías conectar a una regleta eléctrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apps-torrent-llegan-iphone-tienda-altstore-pal-1397337'>Las apps de torrents llegan al iPhone, gracias a las tiendas alternativas europeas</a></h4>
-    <a href='https://computerhoy.com/apple/apps-torrent-llegan-iphone-tienda-altstore-pal-1397337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apps-torrents-llegan-iphone-gracias-tiendas-alternativas-europeas-3805041.jpg?tf=1200x' alt='Las apps de torrents llegan al iPhone, gracias a las tiendas alternativas europeas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-waze-hable-voz-1396322'>Cómo hacer que Waze hable con tu voz</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-waze-hable-voz-1396322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/conducir-waze-app-3755019.jpg?tf=1200x' alt='Cómo hacer que Waze hable con tu voz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-vende-airtag-baratos-varios-colores-1394858'>Xiaomi vende sus AirTags a precio ridículo: por dos euros y en varios colores distintos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-vende-airtag-baratos-varios-colores-1394858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/localizador-xiaomi-3692801.jpg?tf=1200x' alt='Xiaomi vende sus AirTags a precio ridículo: por dos euros y en varios colores distintos' />
     </a>
 </div>
 
