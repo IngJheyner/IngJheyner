@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/adios-cuentas-compartidas-disney-plus-publicidad-todos-planes-1397353'>Adiós a las cuentas compartidas en Disney+, y publicidad en todos los planes</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/adios-cuentas-compartidas-disney-plus-publicidad-todos-planes-1397353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-comienza-prohibir-cuentas-compartidas-1-noviembre-3147114.jpg?tf=1200x' alt='Adiós a las cuentas compartidas en Disney+, y publicidad en todos los planes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/electricistas-advierten-dispositivos-nunca-deberias-conectar-regleta-electrica-1396591'>Los electricistas advierten: dispositivos que nunca deberías conectar a una regleta eléctrica</a></h4>
     <a href='https://computerhoy.com/tecnologia/electricistas-advierten-dispositivos-nunca-deberias-conectar-regleta-electrica-1396591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/electricistas-advierten-dispositivos-nunca-deberias-conectar-regleta-electrica-3764590.jpg?tf=1200x' alt='Los electricistas advierten: dispositivos que nunca deberías conectar a una regleta eléctrica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-vende-airtag-baratos-varios-colores-1394858'>Xiaomi vende sus AirTags a precio ridículo: por dos euros y en varios colores distintos</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-vende-airtag-baratos-varios-colores-1394858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/localizador-xiaomi-3692801.jpg?tf=1200x' alt='Xiaomi vende sus AirTags a precio ridículo: por dos euros y en varios colores distintos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/astronauta-espanol-pablo-alvarez-ya-tiene-traje-espacial-cuenta-impresiones-1397333'>El astronauta español Pablo Álvarez ya tiene traje espacial, cuenta sus impresiones</a></h4>
-    <a href='https://computerhoy.com/espacio/astronauta-espanol-pablo-alvarez-ya-tiene-traje-espacial-cuenta-impresiones-1397333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/astronauta-espanol-pablo-alvarez-ya-tiene-traje-espacial-cuenta-impresiones-3804743.jpg?tf=1200x' alt='El astronauta español Pablo Álvarez ya tiene traje espacial, cuenta sus impresiones' />
     </a>
 </div>
 
