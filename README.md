@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/inventan-vaso-cerveza-casi-imposible-beber-proteger-salud-1397378'>Inventan un vaso de cerveza casi imposible de beber, para proteger la salud</a></h4>
+    <a href='https://computerhoy.com/alimentacion/inventan-vaso-cerveza-casi-imposible-beber-proteger-salud-1397378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inventan-vaso-cerveza-casi-imposible-beber-proteger-salud-3807772.jpg?tf=1200x' alt='Inventan un vaso de cerveza casi imposible de beber, para proteger la salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/searchgpt-buscador-openai-1397375'>SearchGPT ya está aquí, el buscador de OpenAI que quiere comerse a Google</a></h4>
     <a href='https://computerhoy.com/tecnologia/searchgpt-buscador-openai-1397375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/searchgpt-ya-aqui-buscador-openai-quiere-comerse-google-3807347.jpg?tf=1200x' alt='SearchGPT ya está aquí, el buscador de OpenAI que quiere comerse a Google' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/hipotetico-iphone-17-slim-seria-revolucion-diseno-especificaciones-1397366'>El hipotético iPhone 17 Slim sería una revolución más en diseño que de especificaciones</a></h4>
     <a href='https://computerhoy.com/apple/hipotetico-iphone-17-slim-seria-revolucion-diseno-especificaciones-1397366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iphone-15-pro-3696955.jpg?tf=1200x' alt='El hipotético iPhone 17 Slim sería una revolución más en diseño que de especificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-anade-nueva-funcion-raton-usuarios-llevan-anos-pidiendo-1397367'>Windows 11 añade una nueva función al ratón, que los usuarios llevan años pidiendo</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-anade-nueva-funcion-raton-usuarios-llevan-anos-pidiendo-1397367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/boton-derecho-raton-3047038.jpg?tf=1200x' alt='Windows 11 añade una nueva función al ratón, que los usuarios llevan años pidiendo' />
     </a>
 </div>
 
