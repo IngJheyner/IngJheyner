@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/trucos-android-auto-todo-conductor-debe-saber-1330322'>10 trucos de Android Auto que todo conductor debe saber</a></h4>
+    <a href='https://computerhoy.com/android/trucos-android-auto-todo-conductor-debe-saber-1330322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/10-trucos-android-auto-todo-conductor-debe-conocer-obligatoriamente-3213770.jpg?tf=1200x' alt='10 trucos de Android Auto que todo conductor debe saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mapa-muestra-apps-amadas-odiadas-cada-pais-1397326'>El mapa que muestra las apps más amadas y odiadas en cada país</a></h4>
+    <a href='https://computerhoy.com/apps/mapa-muestra-apps-amadas-odiadas-cada-pais-1397326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mapa-muestra-apps-amadas-odiadas-cada-pais-3804426.jpg?tf=1200x' alt='El mapa que muestra las apps más amadas y odiadas en cada país' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/anillo-pero-inteligente-amazfit-estrena-mercado-ring-tracker-viene-reloj-incluido-1397047'>Es un anillo, pero es inteligente: Amazfit estrena el mercado con su Ring Tracker, y viene con reloj incluido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/anillo-pero-inteligente-amazfit-estrena-mercado-ring-tracker-viene-reloj-incluido-1397047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazfit-helio-ring-3791728.jpg?tf=1200x' alt='Es un anillo, pero es inteligente: Amazfit estrena el mercado con su Ring Tracker, y viene con reloj incluido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/10-tips-grabar-videos-alta-calidad-iphone-1396201'>10 tips para grabar vídeos de alta calidad con tu iPhone</a></h4>
     <a href='https://computerhoy.com/apple/10-tips-grabar-videos-alta-calidad-iphone-1396201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-tips-grabar-videos-alta-calidad-iphone-3752275.jpg?tf=1200x' alt='10 tips para grabar vídeos de alta calidad con tu iPhone' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-airtag-incluso-mejor-tarjeta-funciona-igual-te-cartera-1397035'>No es un AirTag, es incluso mejor: esta tarjeta funciona igual y te cabe en la cartera</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-airtag-incluso-mejor-tarjeta-funciona-igual-te-cartera-1397035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/atuvos-air-tracker-card-3791580.jpg?tf=1200x' alt='No es un AirTag, es incluso mejor: esta tarjeta funciona igual y te cabe en la cartera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-toques-fire-tv-mejora-calidad-sonido-segundos-1330240'>El truco de los 4 toques del Amazon Fire TV que mejora la calidad de sonido en segundos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-toques-fire-tv-mejora-calidad-sonido-segundos-1330240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/truco-4-toques-amazon-fire-tv-mejora-calidad-sonido-instante-3213624.jpg?tf=1200x' alt='El truco de los 4 toques del Amazon Fire TV que mejora la calidad de sonido en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/elon-musk-vuelve-retar-mark-zuckerberg-pelea-respuesta-epica-1397305'>Elon Musk, vuelve a retar a Mark Zuckerberg a una pelea, y la respuesta es épica</a></h4>
-    <a href='https://computerhoy.com/life/elon-musk-vuelve-retar-mark-zuckerberg-pelea-respuesta-epica-1397305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/elon-musk-vuelve-retar-zuckerberg-pelea-respuesta-epica-3803975.jpg?tf=1200x' alt='Elon Musk, vuelve a retar a Mark Zuckerberg a una pelea, y la respuesta es épica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/podria-haber-extraterrestres-nosotros-no-descartable-cientificos-harvard-1394624'>¿Podría haber extraterrestres entre nosotros? No es descartable, según científicos de Harvard</a></h4>
-    <a href='https://computerhoy.com/ciencia/podria-haber-extraterrestres-nosotros-no-descartable-cientificos-harvard-1394624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/podria-haber-extraterrestres-nosotros-no-descartable-cientificos-harvard-3684221.jpg?tf=1200x' alt='¿Podría haber extraterrestres entre nosotros? No es descartable, según científicos de Harvard' />
     </a>
 </div>
 
