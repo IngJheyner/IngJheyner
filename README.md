@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/elon-musk-vuelve-retar-mark-zuckerberg-pelea-respuesta-epica-1397305'>Elon Musk, vuelve a retar a Mark Zuckerberg a una pelea, y la respuesta es épica</a></h4>
+    <a href='https://computerhoy.com/life/elon-musk-vuelve-retar-mark-zuckerberg-pelea-respuesta-epica-1397305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/elon-musk-vuelve-retar-zuckerberg-pelea-respuesta-epica-3803975.jpg?tf=1200x' alt='Elon Musk, vuelve a retar a Mark Zuckerberg a una pelea, y la respuesta es épica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/podria-haber-extraterrestres-nosotros-no-descartable-cientificos-harvard-1394624'>¿Podría haber extraterrestres entre nosotros? No es descartable, según científicos de Harvard</a></h4>
     <a href='https://computerhoy.com/ciencia/podria-haber-extraterrestres-nosotros-no-descartable-cientificos-harvard-1394624' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/podria-haber-extraterrestres-nosotros-no-descartable-cientificos-harvard-3684221.jpg?tf=1200x' alt='¿Podría haber extraterrestres entre nosotros? No es descartable, según científicos de Harvard' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/no-guardes-contrasenas-notas-proteger-datos-movil-1328024'>No guardes tus contraseñas en notas: así puedes proteger tus datos en el móvil</a></h4>
     <a href='https://computerhoy.com/apps/no-guardes-contrasenas-notas-proteger-datos-movil-1328024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/contrasenas-movil-3209496.jpg?tf=1200x' alt='No guardes tus contraseñas en notas: así puedes proteger tus datos en el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-roban-cuenta-whatsapp-clonando-numero-telefono-1395168'>Cómo roban tu cuenta de WhatsApp clonando tu número de teléfono</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-roban-cuenta-whatsapp-clonando-numero-telefono-1395168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-3705240.jpg?tf=1200x' alt='Cómo roban tu cuenta de WhatsApp clonando tu número de teléfono' />
     </a>
 </div>
 
