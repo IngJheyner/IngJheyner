@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/podria-haber-extraterrestres-nosotros-no-descartable-cientificos-harvard-1394624'>¿Podría haber extraterrestres entre nosotros? No es descartable, según científicos de Harvard</a></h4>
+    <a href='https://computerhoy.com/ciencia/podria-haber-extraterrestres-nosotros-no-descartable-cientificos-harvard-1394624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/podria-haber-extraterrestres-nosotros-no-descartable-cientificos-harvard-3684221.jpg?tf=1200x' alt='¿Podría haber extraterrestres entre nosotros? No es descartable, según científicos de Harvard' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/freidora-aire-pro-xiaomi-oferta-amazon-1395755'>La freidora de aire Pro de Xiaomi da la campanada: alcanza su precio más bajo en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/freidora-aire-pro-xiaomi-oferta-amazon-1395755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/xiaomi-smart-air-fryer-pro-4l-3733818.jpg?tf=1200x' alt='La freidora de aire Pro de Xiaomi da la campanada: alcanza su precio más bajo en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-maps-version-web-todo-mundo-1397296'>Apple va a por Google Maps: lanza Apple Maps en versión web para todo el mundo</a></h4>
+    <a href='https://computerhoy.com/apple/apple-maps-version-web-todo-mundo-1397296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-va-google-maps-lanza-apple-maps-version-web-todo-mundo-3803517.jpg?tf=1200x' alt='Apple va a por Google Maps: lanza Apple Maps en versión web para todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/no-guardes-contrasenas-notas-proteger-datos-movil-1328024'>No guardes tus contraseñas en notas: así puedes proteger tus datos en el móvil</a></h4>
+    <a href='https://computerhoy.com/apps/no-guardes-contrasenas-notas-proteger-datos-movil-1328024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/contrasenas-movil-3209496.jpg?tf=1200x' alt='No guardes tus contraseñas en notas: así puedes proteger tus datos en el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-roban-cuenta-whatsapp-clonando-numero-telefono-1395168'>Cómo roban tu cuenta de WhatsApp clonando tu número de teléfono</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-roban-cuenta-whatsapp-clonando-numero-telefono-1395168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-3705240.jpg?tf=1200x' alt='Cómo roban tu cuenta de WhatsApp clonando tu número de teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mini-pc-potente-barato-ryzen-7-amazon-1357877'>Es casi un regalo: este Mini PC tiene Ryzen 7 y 16GB de RAM y apenas supera los 300 euros</a></h4>
-    <a href='https://computerhoy.com/pc/mini-pc-potente-barato-ryzen-7-amazon-1357877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trigkey-3782567.jpg?tf=1200x' alt='Es casi un regalo: este Mini PC tiene Ryzen 7 y 16GB de RAM y apenas supera los 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bombardeo-inteligencia-artificial-nos-estamos-saturando-5-expertos-responden-1394655'>El bombardeo de la inteligencia artificial: ¿Nos estamos saturando? 5 expertos responden</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bombardeo-inteligencia-artificial-nos-estamos-saturando-5-expertos-responden-1394655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-poblacion-3705392.jpg?tf=1200x' alt='El bombardeo de la inteligencia artificial: ¿Nos estamos saturando? 5 expertos responden' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-ultrahuman-ring-air-libertad-dejar-smartwatch-solo-momentos-puntuales-1397108'>Lo que más me ha gustado de Ultrahuman Ring Air es la libertad de dejar el smartwatch solo para momentos puntuales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-ultrahuman-ring-air-libertad-dejar-smartwatch-solo-momentos-puntuales-1397108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ultrahuman-ring-air-3746519.jpg?tf=1200x' alt='Lo que más me ha gustado de Ultrahuman Ring Air es la libertad de dejar el smartwatch solo para momentos puntuales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/marca-ha-logrado-primer-plegable-samsung-motorola-no-han-conseguido-5-anos-1394812'>Esta marca ha logrado con su primer plegable lo que Samsung y Motorola no han conseguido en 5 años</a></h4>
-    <a href='https://computerhoy.com/moviles/marca-ha-logrado-primer-plegable-samsung-motorola-no-han-conseguido-5-anos-1394812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/zte-nubia-flip-5g-3692793.jpg?tf=1200x' alt='Esta marca ha logrado con su primer plegable lo que Samsung y Motorola no han conseguido en 5 años' />
     </a>
 </div>
 
