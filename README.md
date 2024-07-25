@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/trucos-android-auto-todo-conductor-debe-saber-1330322'>10 trucos de Android Auto que todo conductor debe saber</a></h4>
-    <a href='https://computerhoy.com/android/trucos-android-auto-todo-conductor-debe-saber-1330322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/10-trucos-android-auto-todo-conductor-debe-conocer-obligatoriamente-3213770.jpg?tf=1200x' alt='10 trucos de Android Auto que todo conductor debe saber' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-waze-hable-voz-1396322'>Cómo hacer que Waze hable con tu voz</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-waze-hable-voz-1396322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/conducir-waze-app-3755019.jpg?tf=1200x' alt='Cómo hacer que Waze hable con tu voz' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mapa-muestra-apps-amadas-odiadas-cada-pais-1397326'>El mapa que muestra las apps más amadas y odiadas en cada país</a></h4>
-    <a href='https://computerhoy.com/apps/mapa-muestra-apps-amadas-odiadas-cada-pais-1397326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mapa-muestra-apps-amadas-odiadas-cada-pais-3804426.jpg?tf=1200x' alt='El mapa que muestra las apps más amadas y odiadas en cada país' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-vende-airtag-baratos-varios-colores-1394858'>Xiaomi vende sus AirTags a precio ridículo: por dos euros y en varios colores distintos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-vende-airtag-baratos-varios-colores-1394858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/localizador-xiaomi-3692801.jpg?tf=1200x' alt='Xiaomi vende sus AirTags a precio ridículo: por dos euros y en varios colores distintos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/anillo-pero-inteligente-amazfit-estrena-mercado-ring-tracker-viene-reloj-incluido-1397047'>Es un anillo, pero es inteligente: Amazfit estrena el mercado con su Ring Tracker, y viene con reloj incluido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/anillo-pero-inteligente-amazfit-estrena-mercado-ring-tracker-viene-reloj-incluido-1397047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazfit-helio-ring-3791728.jpg?tf=1200x' alt='Es un anillo, pero es inteligente: Amazfit estrena el mercado con su Ring Tracker, y viene con reloj incluido' />
+    <h4><a href='https://computerhoy.com/espacio/astronauta-espanol-pablo-alvarez-ya-tiene-traje-espacial-cuenta-impresiones-1397333'>El astronauta español Pablo Álvarez ya tiene traje espacial, cuenta sus impresiones</a></h4>
+    <a href='https://computerhoy.com/espacio/astronauta-espanol-pablo-alvarez-ya-tiene-traje-espacial-cuenta-impresiones-1397333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/astronauta-espanol-pablo-alvarez-ya-tiene-traje-espacial-cuenta-impresiones-3804743.jpg?tf=1200x' alt='El astronauta español Pablo Álvarez ya tiene traje espacial, cuenta sus impresiones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/10-tips-grabar-videos-alta-calidad-iphone-1396201'>10 tips para grabar vídeos de alta calidad con tu iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/10-tips-grabar-videos-alta-calidad-iphone-1396201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-tips-grabar-videos-alta-calidad-iphone-3752275.jpg?tf=1200x' alt='10 tips para grabar vídeos de alta calidad con tu iPhone' />
+    <h4><a href='https://computerhoy.com/entretenimiento/estas-vpn-podras-ver-jjoo-gratis-cualquier-pais-rtve-play-1396958'>Con estas VPN podrás ver los JJOO gratis desde cualquier país con RTVE Play</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estas-vpn-podras-ver-jjoo-gratis-cualquier-pais-rtve-play-1396958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rtve-play-jjoo-juegos-olimpicos-3789793.jpg?tf=1200x' alt='Con estas VPN podrás ver los JJOO gratis desde cualquier país con RTVE Play' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-airtag-incluso-mejor-tarjeta-funciona-igual-te-cartera-1397035'>No es un AirTag, es incluso mejor: esta tarjeta funciona igual y te cabe en la cartera</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-airtag-incluso-mejor-tarjeta-funciona-igual-te-cartera-1397035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/atuvos-air-tracker-card-3791580.jpg?tf=1200x' alt='No es un AirTag, es incluso mejor: esta tarjeta funciona igual y te cabe en la cartera' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-herramientas-ia-puedes-usar-2024-1395803'>Las mejores herramientas de IA que puedes usar en 2024</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-herramientas-ia-puedes-usar-2024-1395803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mejores-herramientas-ia-puedes-usar-2024-3736941.jpg?tf=1200x' alt='Las mejores herramientas de IA que puedes usar en 2024' />
     </a>
 </div>
 
