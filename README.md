@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/regreso-dos-decadas-despues-mitica-pelicula-terror-revoluciono-genero-zombis-1395235'>El regreso, dos décadas después, de la mítica película de terror que revolucionó el género de zombis</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/regreso-dos-decadas-despues-mitica-pelicula-terror-revoluciono-genero-zombis-1395235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/regreso-dos-decadas-despues-mitica-pelicula-terror-revoluciono-genero-zombis-3706159.jpg?tf=1200x' alt='El regreso, dos décadas después, de la mítica película de terror que revolucionó el género de zombis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/ajuste-definitivo-controlar-spam-gmail-1397262'>El ajuste definitivo para controlar el spam de Gmail</a></h4>
     <a href='https://computerhoy.com/google/ajuste-definitivo-controlar-spam-gmail-1397262' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ajuste-definitivo-controlar-spam-gmail-3801283.jpg?tf=1200x' alt='El ajuste definitivo para controlar el spam de Gmail' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cocina-neandertales-arqueologos-espanoles-1397271'>Así cocinaban los Neandertales: arqueólogos españoles preparan aves como hace 200.000 años</a></h4>
     <a href='https://computerhoy.com/ciencia/cocina-neandertales-arqueologos-espanoles-1397271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cocinaban-neandertales-arqueologos-espanoles-preparan-aves-como-hace-200000-anos-3799925.jpg?tf=1200x' alt='Así cocinaban los Neandertales: arqueólogos españoles preparan aves como hace 200.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cambio-climatico-amenaza-borrar-mapa-playas-iconicas-andalucia-1397264'>El cambio climático amenaza con borrar del mapa playas icónicas de Andalucía</a></h4>
-    <a href='https://computerhoy.com/life/cambio-climatico-amenaza-borrar-mapa-playas-iconicas-andalucia-1397264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/contaminacion-playas-3800074.jpg?tf=1200x' alt='El cambio climático amenaza con borrar del mapa playas icónicas de Andalucía' />
     </a>
 </div>
 
