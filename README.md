@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/hipotetico-iphone-17-slim-seria-revolucion-diseno-especificaciones-1397366'>El hipotético iPhone 17 Slim sería una revolución más en diseño que de especificaciones</a></h4>
+    <a href='https://computerhoy.com/apple/hipotetico-iphone-17-slim-seria-revolucion-diseno-especificaciones-1397366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iphone-15-pro-3696955.jpg?tf=1200x' alt='El hipotético iPhone 17 Slim sería una revolución más en diseño que de especificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-anade-nueva-funcion-raton-usuarios-llevan-anos-pidiendo-1397367'>Windows 11 añade una nueva función al ratón, que los usuarios llevan años pidiendo</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-anade-nueva-funcion-raton-usuarios-llevan-anos-pidiendo-1397367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/boton-derecho-raton-3047038.jpg?tf=1200x' alt='Windows 11 añade una nueva función al ratón, que los usuarios llevan años pidiendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/buscador-bing-estrena-busqueda-generativa-ia-1397362'>El buscador Bing estrena la búsqueda generativa con IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/buscador-bing-estrena-busqueda-generativa-ia-1397362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/chatbot-bing-2960656.jpg?tf=1200x' alt='El buscador Bing estrena la búsqueda generativa con IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/pc-windows-no-reconoce-memoria-usb-pendrive-1327824'>Todo lo que puedes hacer si tu PC Windows no reconoce tu memoria USB o Pendrive</a></h4>
     <a href='https://computerhoy.com/tutoriales/pc-windows-no-reconoce-memoria-usb-pendrive-1327824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ordenador-no-reconoce-usb-3209088.jpg?tf=1200x' alt='Todo lo que puedes hacer si tu PC Windows no reconoce tu memoria USB o Pendrive' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/adios-cuentas-compartidas-disney-plus-publicidad-todos-planes-1397353'>Adiós a las cuentas compartidas en Disney+, y publicidad en todos los planes</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/adios-cuentas-compartidas-disney-plus-publicidad-todos-planes-1397353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-comienza-prohibir-cuentas-compartidas-1-noviembre-3147114.jpg?tf=1200x' alt='Adiós a las cuentas compartidas en Disney+, y publicidad en todos los planes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/electricistas-advierten-dispositivos-nunca-deberias-conectar-regleta-electrica-1396591'>Los electricistas advierten: dispositivos que nunca deberías conectar a una regleta eléctrica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/electricistas-advierten-dispositivos-nunca-deberias-conectar-regleta-electrica-1396591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/electricistas-advierten-dispositivos-nunca-deberias-conectar-regleta-electrica-3764590.jpg?tf=1200x' alt='Los electricistas advierten: dispositivos que nunca deberías conectar a una regleta eléctrica' />
     </a>
 </div>
 
