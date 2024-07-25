@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/regreso-dos-decadas-despues-mitica-pelicula-terror-revoluciono-genero-zombis-1395235'>El regreso, dos décadas después, de la mítica película de terror que revolucionó el género de zombis</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/regreso-dos-decadas-despues-mitica-pelicula-terror-revoluciono-genero-zombis-1395235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/regreso-dos-decadas-despues-mitica-pelicula-terror-revoluciono-genero-zombis-3706159.jpg?tf=1200x' alt='El regreso, dos décadas después, de la mítica película de terror que revolucionó el género de zombis' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-roban-cuenta-whatsapp-clonando-numero-telefono-1395168'>Cómo roban tu cuenta de WhatsApp clonando tu número de teléfono</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-roban-cuenta-whatsapp-clonando-numero-telefono-1395168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-3705240.jpg?tf=1200x' alt='Cómo roban tu cuenta de WhatsApp clonando tu número de teléfono' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ajuste-definitivo-controlar-spam-gmail-1397262'>El ajuste definitivo para controlar el spam de Gmail</a></h4>
-    <a href='https://computerhoy.com/google/ajuste-definitivo-controlar-spam-gmail-1397262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ajuste-definitivo-controlar-spam-gmail-3801283.jpg?tf=1200x' alt='El ajuste definitivo para controlar el spam de Gmail' />
+    <h4><a href='https://computerhoy.com/pc/mini-pc-potente-barato-ryzen-7-amazon-1357877'>Es casi un regalo: este Mini PC tiene Ryzen 7 y 16GB de RAM y apenas supera los 300 euros</a></h4>
+    <a href='https://computerhoy.com/pc/mini-pc-potente-barato-ryzen-7-amazon-1357877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trigkey-3782567.jpg?tf=1200x' alt='Es casi un regalo: este Mini PC tiene Ryzen 7 y 16GB de RAM y apenas supera los 300 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/construyen-sonar-casero-encuentran-goleta-hundida-1397272'>Construyen un sonar casero y encuentran una goleta hundida hace 131 años</a></h4>
-    <a href='https://computerhoy.com/life/construyen-sonar-casero-encuentran-goleta-hundida-1397272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/construyen-sonar-casero-encuentra-goleta-hundida-hace-131-anos-3800687.jpg?tf=1200x' alt='Construyen un sonar casero y encuentran una goleta hundida hace 131 años' />
+    <h4><a href='https://computerhoy.com/tecnologia/bombardeo-inteligencia-artificial-nos-estamos-saturando-5-expertos-responden-1394655'>El bombardeo de la inteligencia artificial: ¿Nos estamos saturando? 5 expertos responden</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bombardeo-inteligencia-artificial-nos-estamos-saturando-5-expertos-responden-1394655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-poblacion-3705392.jpg?tf=1200x' alt='El bombardeo de la inteligencia artificial: ¿Nos estamos saturando? 5 expertos responden' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/deberias-usar-ssd-externos-consolas-1397244'>¿Por qué deberías usar SSD externos en tus consolas?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/deberias-usar-ssd-externos-consolas-1397244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/deberias-usar-ssd-externos-consolas-3800387.jpg?tf=1200x' alt='¿Por qué deberías usar SSD externos en tus consolas?' />
+    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-ultrahuman-ring-air-libertad-dejar-smartwatch-solo-momentos-puntuales-1397108'>Lo que más me ha gustado de Ultrahuman Ring Air es la libertad de dejar el smartwatch solo para momentos puntuales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-ultrahuman-ring-air-libertad-dejar-smartwatch-solo-momentos-puntuales-1397108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ultrahuman-ring-air-3746519.jpg?tf=1200x' alt='Lo que más me ha gustado de Ultrahuman Ring Air es la libertad de dejar el smartwatch solo para momentos puntuales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cocina-neandertales-arqueologos-espanoles-1397271'>Así cocinaban los Neandertales: arqueólogos españoles preparan aves como hace 200.000 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/cocina-neandertales-arqueologos-espanoles-1397271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cocinaban-neandertales-arqueologos-espanoles-preparan-aves-como-hace-200000-anos-3799925.jpg?tf=1200x' alt='Así cocinaban los Neandertales: arqueólogos españoles preparan aves como hace 200.000 años' />
+    <h4><a href='https://computerhoy.com/moviles/marca-ha-logrado-primer-plegable-samsung-motorola-no-han-conseguido-5-anos-1394812'>Esta marca ha logrado con su primer plegable lo que Samsung y Motorola no han conseguido en 5 años</a></h4>
+    <a href='https://computerhoy.com/moviles/marca-ha-logrado-primer-plegable-samsung-motorola-no-han-conseguido-5-anos-1394812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/zte-nubia-flip-5g-3692793.jpg?tf=1200x' alt='Esta marca ha logrado con su primer plegable lo que Samsung y Motorola no han conseguido en 5 años' />
     </a>
 </div>
 
