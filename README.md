@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/formas-rapidas-optimizar-maximo-pc-windows-11-1334092'>Las 17 formas rápidas de optimizar y acelerar al máximo tu PC con Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/formas-rapidas-optimizar-maximo-pc-windows-11-1334092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/17-formas-rapidas-optimizar-acelerar-maximo-pc-windows-11-3220262.jpg?tf=1200x' alt='Las 17 formas rápidas de optimizar y acelerar al máximo tu PC con Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ios-18-como-descargarlo-novedades-guia-completa-1397156'>iOS 18: cómo descargarlo, novedades y guía completa</a></h4>
+    <a href='https://computerhoy.com/apple/ios-18-como-descargarlo-novedades-guia-completa-1397156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/todo-debes-saber-ios-18-3798816.jpg?tf=1200x' alt='iOS 18: cómo descargarlo, novedades y guía completa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/hbo-max-fin-ha-traido-espana-funciones-esperadas-aunque-algunas-limitaciones-1397419'>HBO Max por fin ha traído a España una de las funciones más esperadas, aunque con algunas limitaciones</a></h4>
+    <a href='https://computerhoy.com/tv/hbo-max-fin-ha-traido-espana-funciones-esperadas-aunque-algunas-limitaciones-1397419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hbo-max-fin-ha-traido-espana-funciones-esperadas-aunque-algunas-limitaciones-3810938.jpg?tf=1200x' alt='HBO Max por fin ha traído a España una de las funciones más esperadas, aunque con algunas limitaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127'>Shein: qué es y cómo funciona la tienda china de ropa barata que amenaza a Zara, Primark o H&M</a></h4>
     <a href='https://computerhoy.com/reportajes/industria/que-es-shein-ropa-barata-online-887127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/shein-3648753.jpg?tf=1200x' alt='Shein: qué es y cómo funciona la tienda china de ropa barata que amenaza a Zara, Primark o H&M' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/big-save-day-aliexpress-desata-locura-estas-5-oferta-top-rebajas-1397411'>Big Save Day: AliExpress desata la locura con estas 5 oferta top de sus rebajas</a></h4>
     <a href='https://computerhoy.com/tecnologia/big-save-day-aliexpress-desata-locura-estas-5-oferta-top-rebajas-1397411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aliexpress-aplicacion-3810460.jpg?tf=1200x' alt='Big Save Day: AliExpress desata la locura con estas 5 oferta top de sus rebajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/como-mejorar-velocidad-wifi-instante-truco-mesita-cafe-1341756'>Cómo mejorar la velocidad del WiFi al instante con el truco de la mesita de café</a></h4>
-    <a href='https://computerhoy.com/redes/como-mejorar-velocidad-wifi-instante-truco-mesita-cafe-1341756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-movil-ordenador-2622317.jpg?tf=1200x' alt='Cómo mejorar la velocidad del WiFi al instante con el truco de la mesita de café' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/di-adios-excel-nuevas-herramientas-ia-te-haran-olvidar-conocido-programa-microsoft-1397403'>Di adiós a Excel: las nuevas herramientas con IA que te harán olvidar al conocido programa de Microsoft</a></h4>
-    <a href='https://computerhoy.com/apps/di-adios-excel-nuevas-herramientas-ia-te-haran-olvidar-conocido-programa-microsoft-1397403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/di-adios-excel-nuevas-herramientas-ia-te-haran-olvidar-conocido-programa-microsoft-3810623.jpg?tf=1200x' alt='Di adiós a Excel: las nuevas herramientas con IA que te harán olvidar al conocido programa de Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/matematico-revela-verdadero-significado-palabra-igual-1397281'>Un matemático revela el verdadero significado de la palabra "igual"</a></h4>
-    <a href='https://computerhoy.com/ciencia/matematico-revela-verdadero-significado-palabra-igual-1397281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/matematico-revela-verdadero-significado-palabra-igual-3803669.jpg?tf=1200x' alt='Un matemático revela el verdadero significado de la palabra "igual"' />
     </a>
 </div>
 
