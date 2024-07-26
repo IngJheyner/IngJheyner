@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-puedes-ganar-300-euros-dia-solo-ordenador-wifi-tiempo-libre-1397485'>Cómo puedes ganar hasta 300 euros al día con solo un ordenador, Wifi y tiempo libre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-puedes-ganar-300-euros-dia-solo-ordenador-wifi-tiempo-libre-1397485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ganar-dinero-casa-3812370.jpg?tf=1200x' alt='Cómo puedes ganar hasta 300 euros al día con solo un ordenador, Wifi y tiempo libre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/canon-poco-tiene-12gb-ram-precio-inalcanzable-casi-cualquier-gama-alta-1397129'>Este cañón de POCO tiene 12GB de RAM y un precio inalcanzable para casi cualquier gama alta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/canon-poco-tiene-12gb-ram-precio-inalcanzable-casi-cualquier-gama-alta-1397129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3376280.jpg?tf=1200x' alt='Este cañón de POCO tiene 12GB de RAM y un precio inalcanzable para casi cualquier gama alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/estos-codigos-secretos-android-mejoran-seguridad-movil-1329122'>Estos códigos secretos de Android que mejoran la seguridad y privacidad de tu móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/estos-codigos-secretos-android-mejoran-seguridad-movil-1329122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/20-codigos-secretos-android-mejoran-seguridad-privacidad-movil-3211600.jpg?tf=1200x' alt='Estos códigos secretos de Android que mejoran la seguridad y privacidad de tu móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-escribir-texto-voz-pc-todos-metodos-1397275'>Como escribir texto con tu voz en PC: todos los métodos</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-escribir-texto-voz-pc-todos-metodos-1397275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dictado-voz-pc-3801446.jpg?tf=1200x' alt='Como escribir texto con tu voz en PC: todos los métodos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nuevo-descubrimiento-deja-sorprendidos-cientificos-construyeron-primera-piramide-egipcia-1397437'>Un nuevo descubrimiento deja sorprendidos a los científicos: así construyeron la primera pirámide egipcia</a></h4>
-    <a href='https://computerhoy.com/ciencia/nuevo-descubrimiento-deja-sorprendidos-cientificos-construyeron-primera-piramide-egipcia-1397437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/piramides-guiza-3268135.jpg?tf=1200x' alt='Un nuevo descubrimiento deja sorprendidos a los científicos: así construyeron la primera pirámide egipcia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/temperatura-ideal-debe-tener-dormitorio-como-afecta-sueno-1378222'>La temperatura ideal que debe tener tu dormitorio, y cómo puede afectar a tu sueño</a></h4>
-    <a href='https://computerhoy.com/life/temperatura-ideal-debe-tener-dormitorio-como-afecta-sueno-1378222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/temperatura-ideal-debe-tener-dormitorio-como-puede-afectar-sueno-3297416.jpg?tf=1200x' alt='La temperatura ideal que debe tener tu dormitorio, y cómo puede afectar a tu sueño' />
     </a>
 </div>
 
