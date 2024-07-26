@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/crowdstrike-compensara-socios-caida-mundial-microsoft-tarjetas-regalo-10-dolares-1397472'>CrowdStrike compensará a sus socios tras la caída mundial de Microsoft con tarjetas de regalo de 10 dólares</a></h4>
+    <a href='https://computerhoy.com/windows/crowdstrike-compensara-socios-caida-mundial-microsoft-tarjetas-regalo-10-dolares-1397472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crowdstrike-compensara-socios-caida-mundial-microsoft-tarjetas-regalo-10-dolares-3811880.jpg?tf=1200x' alt='CrowdStrike compensará a sus socios tras la caída mundial de Microsoft con tarjetas de regalo de 10 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/linterna-ios-18-ejemplo-gente-adora-productos-apple-1397277'>La linterna en iOS 18 es un ejemplo de por qué la gente adora los productos de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/linterna-ios-18-ejemplo-gente-adora-productos-apple-1397277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/linterna-ios-18-ejemplo-gente-adora-productos-apple-3802633.jpg?tf=1200x' alt='La linterna en iOS 18 es un ejemplo de por qué la gente adora los productos de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/no-te-engana-vista-dron-bolsillo-graba-video-4k-cuesta-menos-300-euros-1397416'>No te engaña la vista: este dron cabe en el bolsillo, graba vídeo 4K y cuesta menos de 300 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-te-engana-vista-dron-bolsillo-graba-video-4k-cuesta-menos-300-euros-1397416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/potensic-atom-4k-3810951.jpg?tf=1200x' alt='No te engaña la vista: este dron cabe en el bolsillo, graba vídeo 4K y cuesta menos de 300 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/formas-rapidas-optimizar-maximo-pc-windows-11-1334092'>Las 17 formas rápidas de optimizar y acelerar al máximo tu PC con Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/formas-rapidas-optimizar-maximo-pc-windows-11-1334092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/17-formas-rapidas-optimizar-acelerar-maximo-pc-windows-11-3220262.jpg?tf=1200x' alt='Las 17 formas rápidas de optimizar y acelerar al máximo tu PC con Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ios-18-como-descargarlo-novedades-guia-completa-1397156'>iOS 18: cómo descargarlo, novedades y guía completa</a></h4>
-    <a href='https://computerhoy.com/apple/ios-18-como-descargarlo-novedades-guia-completa-1397156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/todo-debes-saber-ios-18-3798816.jpg?tf=1200x' alt='iOS 18: cómo descargarlo, novedades y guía completa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/hbo-max-fin-ha-traido-espana-funciones-esperadas-aunque-algunas-limitaciones-1397419'>HBO Max por fin ha traído a España una de las funciones más esperadas, aunque con algunas limitaciones</a></h4>
-    <a href='https://computerhoy.com/tv/hbo-max-fin-ha-traido-espana-funciones-esperadas-aunque-algunas-limitaciones-1397419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hbo-max-fin-ha-traido-espana-funciones-esperadas-aunque-algunas-limitaciones-3810938.jpg?tf=1200x' alt='HBO Max por fin ha traído a España una de las funciones más esperadas, aunque con algunas limitaciones' />
     </a>
 </div>
 
