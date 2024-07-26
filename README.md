@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/bluetooth-conexion-inalambrica-creada-honor-rey-vikingo-vivio-hace-1000-anos-1393967'>Qué es bluetooth, la conexión inalámbrica creada en honor a un rey vikingo que vivió hace 1.000 años</a></h4>
+    <a href='https://computerhoy.com/redes/bluetooth-conexion-inalambrica-creada-honor-rey-vikingo-vivio-hace-1000-anos-1393967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/bluetooth-1851761.jpg?tf=1200x' alt='Qué es bluetooth, la conexión inalámbrica creada en honor a un rey vikingo que vivió hace 1.000 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/materia-oscura-revela-secreto-como-forman-agujeros-negros-supermasivos-1397457'>La materia oscura revela el secreto de cómo se forman los agujeros negros supermasivos</a></h4>
+    <a href='https://computerhoy.com/espacio/materia-oscura-revela-secreto-como-forman-agujeros-negros-supermasivos-1397457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/agujero-negro-3811726.jpg?tf=1200x' alt='La materia oscura revela el secreto de cómo se forman los agujeros negros supermasivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/8-cosas-me-gustaria-nintendo-tuviera-cuenta-switch-2-1397525'>8 cosas que me gustaría que Nintendo tuviera en cuenta para Switch 2</a></h4>
+    <a href='https://computerhoy.com/gaming/8-cosas-me-gustaria-nintendo-tuviera-cuenta-switch-2-1397525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/8-cosas-me-gustaria-nintendo-tuviera-cuenta-switch-2-3813737.jpg?tf=1200x' alt='8 cosas que me gustaría que Nintendo tuviera en cuenta para Switch 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/administrador-credenciales-sirve-como-usarlo-windows-11-1394394'>Qué es el administrador de credenciales, para qué sirve y cómo usarlo en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/administrador-credenciales-sirve-como-usarlo-windows-11-1394394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/administrador-credenciales-sirve-como-usarlo-windows-11-3667809.jpg?tf=1200x' alt='Qué es el administrador de credenciales, para qué sirve y cómo usarlo en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-puedes-ganar-300-euros-dia-solo-ordenador-wifi-tiempo-libre-1397485'>Cómo puedes ganar hasta 300 euros al día con solo un ordenador, Wifi y tiempo libre</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-puedes-ganar-300-euros-dia-solo-ordenador-wifi-tiempo-libre-1397485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ganar-dinero-casa-3812370.jpg?tf=1200x' alt='Cómo puedes ganar hasta 300 euros al día con solo un ordenador, Wifi y tiempo libre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/canon-poco-tiene-12gb-ram-precio-inalcanzable-casi-cualquier-gama-alta-1397129'>Este cañón de POCO tiene 12GB de RAM y un precio inalcanzable para casi cualquier gama alta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/canon-poco-tiene-12gb-ram-precio-inalcanzable-casi-cualquier-gama-alta-1397129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3376280.jpg?tf=1200x' alt='Este cañón de POCO tiene 12GB de RAM y un precio inalcanzable para casi cualquier gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/estos-codigos-secretos-android-mejoran-seguridad-movil-1329122'>Estos códigos secretos de Android que mejoran la seguridad y privacidad de tu móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/estos-codigos-secretos-android-mejoran-seguridad-movil-1329122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/20-codigos-secretos-android-mejoran-seguridad-privacidad-movil-3211600.jpg?tf=1200x' alt='Estos códigos secretos de Android que mejoran la seguridad y privacidad de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/200-dispositivos-tienen-fallas-modo-seguro-1397482'>Más de 200 dispositivos tienen fallas catastróficas en el Modo Seguro</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/200-dispositivos-tienen-fallas-modo-seguro-1397482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/virus-pc-3811896.jpg?tf=1200x' alt='Más de 200 dispositivos tienen fallas catastróficas en el Modo Seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-escribir-texto-voz-pc-todos-metodos-1397275'>Como escribir texto con tu voz en PC: todos los métodos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-escribir-texto-voz-pc-todos-metodos-1397275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dictado-voz-pc-3801446.jpg?tf=1200x' alt='Como escribir texto con tu voz en PC: todos los métodos' />
     </a>
 </div>
 
