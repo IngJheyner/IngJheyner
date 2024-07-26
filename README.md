@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/estos-codigos-secretos-android-mejoran-seguridad-movil-1329122'>Estos códigos secretos de Android que mejoran la seguridad y privacidad de tu móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/estos-codigos-secretos-android-mejoran-seguridad-movil-1329122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/20-codigos-secretos-android-mejoran-seguridad-privacidad-movil-3211600.jpg?tf=1200x' alt='Estos códigos secretos de Android que mejoran la seguridad y privacidad de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/200-dispositivos-tienen-fallas-modo-seguro-1397482'>Más de 200 dispositivos tienen fallas catastróficas en el Modo Seguro</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/200-dispositivos-tienen-fallas-modo-seguro-1397482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/virus-pc-3811896.jpg?tf=1200x' alt='Más de 200 dispositivos tienen fallas catastróficas en el Modo Seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-escribir-texto-voz-pc-todos-metodos-1397275'>Como escribir texto con tu voz en PC: todos los métodos</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-escribir-texto-voz-pc-todos-metodos-1397275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dictado-voz-pc-3801446.jpg?tf=1200x' alt='Como escribir texto con tu voz en PC: todos los métodos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/temperatura-ideal-debe-tener-dormitorio-como-afecta-sueno-1378222'>La temperatura ideal que debe tener tu dormitorio, y cómo puede afectar a tu sueño</a></h4>
     <a href='https://computerhoy.com/life/temperatura-ideal-debe-tener-dormitorio-como-afecta-sueno-1378222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/temperatura-ideal-debe-tener-dormitorio-como-puede-afectar-sueno-3297416.jpg?tf=1200x' alt='La temperatura ideal que debe tener tu dormitorio, y cómo puede afectar a tu sueño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/explota-todo-potencial-google-drive-estas-funciones-especiales-pocos-conocen-1397496'>Explota todo el potencial de Google Drive con estas funciones especiales que pocos conocen</a></h4>
-    <a href='https://computerhoy.com/apps/explota-todo-potencial-google-drive-estas-funciones-especiales-pocos-conocen-1397496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/explota-todo-potencial-google-drive-estas-funciones-especiales-pocos-conocen-3812212.jpg?tf=1200x' alt='Explota todo el potencial de Google Drive con estas funciones especiales que pocos conocen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/crowdstrike-compensara-socios-caida-mundial-microsoft-tarjetas-regalo-10-dolares-1397472'>CrowdStrike compensará a sus socios tras la caída mundial de Microsoft con tarjetas de regalo de 10 dólares</a></h4>
-    <a href='https://computerhoy.com/windows/crowdstrike-compensara-socios-caida-mundial-microsoft-tarjetas-regalo-10-dolares-1397472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crowdstrike-compensara-socios-caida-mundial-microsoft-tarjetas-regalo-10-dolares-3811880.jpg?tf=1200x' alt='CrowdStrike compensará a sus socios tras la caída mundial de Microsoft con tarjetas de regalo de 10 dólares' />
     </a>
 </div>
 
