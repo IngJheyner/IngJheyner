@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/explota-todo-potencial-google-drive-estas-funciones-especiales-pocos-conocen-1397496'>Explota todo el potencial de Google Drive con estas funciones especiales que pocos conocen</a></h4>
+    <a href='https://computerhoy.com/apps/explota-todo-potencial-google-drive-estas-funciones-especiales-pocos-conocen-1397496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/explota-todo-potencial-google-drive-estas-funciones-especiales-pocos-conocen-3812212.jpg?tf=1200x' alt='Explota todo el potencial de Google Drive con estas funciones especiales que pocos conocen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/crowdstrike-compensara-socios-caida-mundial-microsoft-tarjetas-regalo-10-dolares-1397472'>CrowdStrike compensará a sus socios tras la caída mundial de Microsoft con tarjetas de regalo de 10 dólares</a></h4>
     <a href='https://computerhoy.com/windows/crowdstrike-compensara-socios-caida-mundial-microsoft-tarjetas-regalo-10-dolares-1397472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/crowdstrike-compensara-socios-caida-mundial-microsoft-tarjetas-regalo-10-dolares-3811880.jpg?tf=1200x' alt='CrowdStrike compensará a sus socios tras la caída mundial de Microsoft con tarjetas de regalo de 10 dólares' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/paris-prepara-juegos-olimpicos-camaras-vigilancia-algoritmos-ia-1397441'>París se prepara para los Juegos Olímpicos con cámaras de vigilancia con algoritmos de IA</a></h4>
     <a href='https://computerhoy.com/life/paris-prepara-juegos-olimpicos-camaras-vigilancia-algoritmos-ia-1397441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/paris-prepara-juegos-olimpicos-camaras-vigilancia-algoritmos-ia-3811400.jpg?tf=1200x' alt='París se prepara para los Juegos Olímpicos con cámaras de vigilancia con algoritmos de IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/formas-rapidas-optimizar-maximo-pc-windows-11-1334092'>Las 17 formas rápidas de optimizar y acelerar al máximo tu PC con Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/formas-rapidas-optimizar-maximo-pc-windows-11-1334092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/17-formas-rapidas-optimizar-acelerar-maximo-pc-windows-11-3220262.jpg?tf=1200x' alt='Las 17 formas rápidas de optimizar y acelerar al máximo tu PC con Windows 11' />
     </a>
 </div>
 
