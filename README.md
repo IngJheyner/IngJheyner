@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-datos-pendrive-usb-viejo-estropeado-pc-mac-1276460'>Cómo recuperar los datos de un pendrive USB viejo o estropeado en tu PC o Mac</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-datos-pendrive-usb-viejo-estropeado-pc-mac-1276460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pendrive-usb-3092400.jpg?tf=1200x' alt='Cómo recuperar los datos de un pendrive USB viejo o estropeado en tu PC o Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/el-nuevo-descubrimiento-fisica-permite-construccion-sensores-cuanticos-viajar-tiempo-1395879'>El nuevo descubrimiento en física que permite la construcción de sensores cuánticos para viajar en el tiempo</a></h4>
     <a href='https://computerhoy.com/ciencia/el-nuevo-descubrimiento-fisica-permite-construccion-sensores-cuanticos-viajar-tiempo-1395879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/viaje-tiempo-3740010.jpg?tf=1200x' alt='El nuevo descubrimiento en física que permite la construcción de sensores cuánticos para viajar en el tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-idioma-navegacion-waze-1395912'>Cómo cambiar el idioma de navegación en Waze</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-idioma-navegacion-waze-1395912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/waze-3740635.jpg?tf=1200x' alt='Cómo cambiar el idioma de navegación en Waze' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/ni-godzilla-ni-kong-pelicula-monstruos-aclamada-critica-amazon-prime-video-1395683'>Ni Godzilla ni Kong: la película de monstruos más elogiada por la crítica está en Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/entretenimiento/ni-godzilla-ni-kong-pelicula-monstruos-aclamada-critica-amazon-prime-video-1395683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-godzilla-ni-kong-pelicula-monstruos-elogiada-critica-amazon-prime-video-3732688.jpg?tf=1200x' alt='Ni Godzilla ni Kong: la película de monstruos más elogiada por la crítica está en Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores-trucos-funciones-opera-1397348'>10 mejores trucos para aprovechar todas las funciones de navegador Opera</a></h4>
-    <a href='https://computerhoy.com/mejores-trucos-funciones-opera-1397348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/navegador-opera-3805949.jpg?tf=1200x' alt='10 mejores trucos para aprovechar todas las funciones de navegador Opera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/lenovo-yoga-slim-7x-me-ha-conquistado-base-diseno-ligero-pantalla-copilot-futuro-windows-1396543'>El Lenovo Yoga Slim 7x me ha conquistado a base de diseño ligero, pantalla y un Copilot+ que es el futuro de Windows</a></h4>
-    <a href='https://computerhoy.com/analisis/lenovo-yoga-slim-7x-me-ha-conquistado-base-diseno-ligero-pantalla-copilot-futuro-windows-1396543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lenovo-yoga-slim-7x-gen-9-14-pulgadas-3763402.jpg?tf=1200x' alt='El Lenovo Yoga Slim 7x me ha conquistado a base de diseño ligero, pantalla y un Copilot+ que es el futuro de Windows' />
     </a>
 </div>
 
