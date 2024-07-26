@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/searchgpt-video-demostracion-ofrece-datos-falsos-1397548'>Primer ridículo de SearchGPT: en el vídeo de demostración ofrece datos falsos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/searchgpt-video-demostracion-ofrece-datos-falsos-1397548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/primer-ridiculo-searchgpt-video-demostracion-ofrece-datos-falsos-3814030.jpg?tf=1200x' alt='Primer ridículo de SearchGPT: en el vídeo de demostración ofrece datos falsos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/explorador-archivos-windows-11-te-permitira-navegar-archivos-movil-android-1397545'>El explorador de archivos de Windows 11 te permitirá navegar por los archivos de tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/windows/explorador-archivos-windows-11-te-permitira-navegar-archivos-movil-android-1397545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/4-trucos-sacar-maximo-partido-pestanas-explorador-archivos-windows-11-3295528.jpg?tf=1200x' alt='El explorador de archivos de Windows 11 te permitirá navegar por los archivos de tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/funcion-tienes-activar-simplificar-google-tv-1397539'>La función que tienes que activar para simplificar tu Google TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/funcion-tienes-activar-simplificar-google-tv-1397539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-tienes-activar-simplificar-google-tv-3814319.jpg?tf=1200x' alt='La función que tienes que activar para simplificar tu Google TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ocu-ventiladores-siguen-siendo-opcion-economica-combatir-calor-1397544'>OCU: Los ventiladores siguen siendo la opción más económica para combatir el calor</a></h4>
     <a href='https://computerhoy.com/life/ocu-ventiladores-siguen-siendo-opcion-economica-combatir-calor-1397544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ventilador-3814320.jpg?tf=1200x' alt='OCU: Los ventiladores siguen siendo la opción más económica para combatir el calor' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/oleada-estafas-dgt-publica-aviso-correos-sms-falsos-simulan-ser-multas-1397543'>Oleada de estafas: la DGT publica un aviso sobre correos y SMS falsos que simulan ser multas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/oleada-estafas-dgt-publica-aviso-correos-sms-falsos-simulan-ser-multas-1397543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dgt-estafa-3814174.jpg?tf=1200x' alt='Oleada de estafas: la DGT publica un aviso sobre correos y SMS falsos que simulan ser multas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/bluetooth-conexion-inalambrica-creada-honor-rey-vikingo-vivio-hace-1000-anos-1393967'>Qué es bluetooth, la conexión inalámbrica creada en honor a un rey vikingo que vivió hace 1.000 años</a></h4>
-    <a href='https://computerhoy.com/redes/bluetooth-conexion-inalambrica-creada-honor-rey-vikingo-vivio-hace-1000-anos-1393967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/bluetooth-1851761.jpg?tf=1200x' alt='Qué es bluetooth, la conexión inalámbrica creada en honor a un rey vikingo que vivió hace 1.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/materia-oscura-revela-secreto-como-forman-agujeros-negros-supermasivos-1397457'>La materia oscura revela el secreto de cómo se forman los agujeros negros supermasivos</a></h4>
-    <a href='https://computerhoy.com/espacio/materia-oscura-revela-secreto-como-forman-agujeros-negros-supermasivos-1397457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/agujero-negro-3811726.jpg?tf=1200x' alt='La materia oscura revela el secreto de cómo se forman los agujeros negros supermasivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/8-cosas-me-gustaria-nintendo-tuviera-cuenta-switch-2-1397525'>8 cosas que me gustaría que Nintendo tuviera en cuenta para Switch 2</a></h4>
-    <a href='https://computerhoy.com/gaming/8-cosas-me-gustaria-nintendo-tuviera-cuenta-switch-2-1397525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/8-cosas-me-gustaria-nintendo-tuviera-cuenta-switch-2-3813737.jpg?tf=1200x' alt='8 cosas que me gustaría que Nintendo tuviera en cuenta para Switch 2' />
     </a>
 </div>
 
