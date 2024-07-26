@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alternativa-barato-gopro-oferta-amazon-1359969'>Esta alternativa a las GoPro es más barata que un Xiaomi, tiene 4K y es sumergible</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alternativa-barato-gopro-oferta-amazon-1359969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/akaso-brave-7-3441956.jpg?tf=1200x' alt='Esta alternativa a las GoPro es más barata que un Xiaomi, tiene 4K y es sumergible' />
+    <h4><a href='https://computerhoy.com/ciencia/el-nuevo-descubrimiento-fisica-permite-construccion-sensores-cuanticos-viajar-tiempo-1395879'>El nuevo descubrimiento en física que permite la construcción de sensores cuánticos para viajar en el tiempo</a></h4>
+    <a href='https://computerhoy.com/ciencia/el-nuevo-descubrimiento-fisica-permite-construccion-sensores-cuanticos-viajar-tiempo-1395879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/viaje-tiempo-3740010.jpg?tf=1200x' alt='El nuevo descubrimiento en física que permite la construcción de sensores cuánticos para viajar en el tiempo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/traducir-documento-pdf-467707'>Cómo traducir cualquier documento PDF al instante</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/traducir-documento-pdf-467707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-traducir-cualquier-documento-pdf-instante-3809328.jpg?tf=1200x' alt='Cómo traducir cualquier documento PDF al instante' />
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-hunde-precio-pixel-8a-movil-barato-google-hace-magia-camara-1358699'>AliExpress hunde el precio del Pixel 8a, el móvil barato de Google que hace magia con la cámara</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-hunde-precio-pixel-8a-movil-barato-google-hace-magia-camara-1358699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3315747.jpg?tf=1200x' alt='AliExpress hunde el precio del Pixel 8a, el móvil barato de Google que hace magia con la cámara' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/inventan-vaso-cerveza-casi-imposible-beber-proteger-salud-1397378'>Inventan un vaso de cerveza casi imposible de beber, para proteger la salud</a></h4>
-    <a href='https://computerhoy.com/alimentacion/inventan-vaso-cerveza-casi-imposible-beber-proteger-salud-1397378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inventan-vaso-cerveza-casi-imposible-beber-proteger-salud-3807772.jpg?tf=1200x' alt='Inventan un vaso de cerveza casi imposible de beber, para proteger la salud' />
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-godzilla-ni-kong-pelicula-monstruos-aclamada-critica-amazon-prime-video-1395683'>Ni Godzilla ni Kong: la película de monstruos más elogiada por la crítica está en Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-godzilla-ni-kong-pelicula-monstruos-aclamada-critica-amazon-prime-video-1395683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-godzilla-ni-kong-pelicula-monstruos-elogiada-critica-amazon-prime-video-3732688.jpg?tf=1200x' alt='Ni Godzilla ni Kong: la película de monstruos más elogiada por la crítica está en Amazon Prime Video' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/searchgpt-buscador-openai-1397375'>SearchGPT ya está aquí, el buscador de OpenAI que quiere comerse a Google</a></h4>
-    <a href='https://computerhoy.com/tecnologia/searchgpt-buscador-openai-1397375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/searchgpt-ya-aqui-buscador-openai-quiere-comerse-google-3807347.jpg?tf=1200x' alt='SearchGPT ya está aquí, el buscador de OpenAI que quiere comerse a Google' />
+    <h4><a href='https://computerhoy.com/mejores-trucos-funciones-opera-1397348'>10 mejores trucos para aprovechar todas las funciones de navegador Opera</a></h4>
+    <a href='https://computerhoy.com/mejores-trucos-funciones-opera-1397348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/navegador-opera-3805949.jpg?tf=1200x' alt='10 mejores trucos para aprovechar todas las funciones de navegador Opera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/recomendaciones-dgt-conducir-forma-segura-durante-ola-calor-1397373'>Recomendaciones de la DGT para conducir de forma segura durante la ola de calor</a></h4>
-    <a href='https://computerhoy.com/motor/recomendaciones-dgt-conducir-forma-segura-durante-ola-calor-1397373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/conducir-calor-3807488.jpg?tf=1200x' alt='Recomendaciones de la DGT para conducir de forma segura durante la ola de calor' />
+    <h4><a href='https://computerhoy.com/analisis/lenovo-yoga-slim-7x-me-ha-conquistado-base-diseno-ligero-pantalla-copilot-futuro-windows-1396543'>El Lenovo Yoga Slim 7x me ha conquistado a base de diseño ligero, pantalla y un Copilot+ que es el futuro de Windows</a></h4>
+    <a href='https://computerhoy.com/analisis/lenovo-yoga-slim-7x-me-ha-conquistado-base-diseno-ligero-pantalla-copilot-futuro-windows-1396543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lenovo-yoga-slim-7x-gen-9-14-pulgadas-3763402.jpg?tf=1200x' alt='El Lenovo Yoga Slim 7x me ha conquistado a base de diseño ligero, pantalla y un Copilot+ que es el futuro de Windows' />
     </a>
 </div>
 
