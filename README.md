@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alternativa-barato-gopro-oferta-amazon-1359969'>Esta alternativa a las GoPro es más barata que un Xiaomi, tiene 4K y es sumergible</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alternativa-barato-gopro-oferta-amazon-1359969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/akaso-brave-7-3441956.jpg?tf=1200x' alt='Esta alternativa a las GoPro es más barata que un Xiaomi, tiene 4K y es sumergible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/traducir-documento-pdf-467707'>Cómo traducir cualquier documento PDF al instante</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/traducir-documento-pdf-467707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-traducir-cualquier-documento-pdf-instante-3809328.jpg?tf=1200x' alt='Cómo traducir cualquier documento PDF al instante' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/recomendaciones-dgt-conducir-forma-segura-durante-ola-calor-1397373'>Recomendaciones de la DGT para conducir de forma segura durante la ola de calor</a></h4>
     <a href='https://computerhoy.com/motor/recomendaciones-dgt-conducir-forma-segura-durante-ola-calor-1397373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/conducir-calor-3807488.jpg?tf=1200x' alt='Recomendaciones de la DGT para conducir de forma segura durante la ola de calor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/modo-compacto-podria-regresar-navegadores-gracias-google-chrome-1397372'>El modo compacto podría regresar a los navegadores gracias a Google Chrome</a></h4>
-    <a href='https://computerhoy.com/tecnologia/modo-compacto-podria-regresar-navegadores-gracias-google-chrome-1397372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-chrome-3520926.jpg?tf=1200x' alt='El modo compacto podría regresar a los navegadores gracias a Google Chrome' />
     </a>
 </div>
 
