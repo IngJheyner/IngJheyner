@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/matematico-revela-verdadero-significado-palabra-igual-1397281'>Un matemático revela el verdadero significado de la palabra "igual"</a></h4>
+    <a href='https://computerhoy.com/ciencia/matematico-revela-verdadero-significado-palabra-igual-1397281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/matematico-revela-verdadero-significado-palabra-igual-3803669.jpg?tf=1200x' alt='Un matemático revela el verdadero significado de la palabra "igual"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/phishing-verano-4-consejos-no-te-amarguen-vacaciones-1393988'>El phishing es para el verano: 4 consejos para que no te amarguen las vacaciones</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/phishing-verano-4-consejos-no-te-amarguen-vacaciones-1393988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/phishing-verano-4-consejos-no-te-amarguen-vacaciones-3651977.jpg?tf=1200x' alt='El phishing es para el verano: 4 consejos para que no te amarguen las vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/hoy-empiezan-jjoo-eres-usuario-max-podras-verlos-totalmente-gratis-1396981'>Hoy empiezan los JJOO, y si eres usuario de Max podrás verlos totalmente gratis</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hoy-empiezan-jjoo-eres-usuario-max-podras-verlos-totalmente-gratis-1396981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hbo-max-juegos-olimpicos-jjoo-3789951.jpg?tf=1200x' alt='Hoy empiezan los JJOO, y si eres usuario de Max podrás verlos totalmente gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-datos-pendrive-usb-viejo-estropeado-pc-mac-1276460'>Cómo recuperar los datos de un pendrive USB viejo o estropeado en tu PC o Mac</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-recuperar-datos-pendrive-usb-viejo-estropeado-pc-mac-1276460' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pendrive-usb-3092400.jpg?tf=1200x' alt='Cómo recuperar los datos de un pendrive USB viejo o estropeado en tu PC o Mac' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/el-nuevo-descubrimiento-fisica-permite-construccion-sensores-cuanticos-viajar-tiempo-1395879'>El nuevo descubrimiento en física que permite la construcción de sensores cuánticos para viajar en el tiempo</a></h4>
     <a href='https://computerhoy.com/ciencia/el-nuevo-descubrimiento-fisica-permite-construccion-sensores-cuanticos-viajar-tiempo-1395879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/viaje-tiempo-3740010.jpg?tf=1200x' alt='El nuevo descubrimiento en física que permite la construcción de sensores cuánticos para viajar en el tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-idioma-navegacion-waze-1395912'>Cómo cambiar el idioma de navegación en Waze</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-idioma-navegacion-waze-1395912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/waze-3740635.jpg?tf=1200x' alt='Cómo cambiar el idioma de navegación en Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-hunde-precio-pixel-8a-movil-barato-google-hace-magia-camara-1358699'>AliExpress hunde el precio del Pixel 8a, el móvil barato de Google que hace magia con la cámara</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-hunde-precio-pixel-8a-movil-barato-google-hace-magia-camara-1358699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3315747.jpg?tf=1200x' alt='AliExpress hunde el precio del Pixel 8a, el móvil barato de Google que hace magia con la cámara' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-godzilla-ni-kong-pelicula-monstruos-aclamada-critica-amazon-prime-video-1395683'>Ni Godzilla ni Kong: la película de monstruos más elogiada por la crítica está en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-godzilla-ni-kong-pelicula-monstruos-aclamada-critica-amazon-prime-video-1395683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-godzilla-ni-kong-pelicula-monstruos-elogiada-critica-amazon-prime-video-3732688.jpg?tf=1200x' alt='Ni Godzilla ni Kong: la película de monstruos más elogiada por la crítica está en Amazon Prime Video' />
     </a>
 </div>
 
