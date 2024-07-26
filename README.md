@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ocu-ventiladores-siguen-siendo-opcion-economica-combatir-calor-1397544'>OCU: Los ventiladores siguen siendo la opción más económica para combatir el calor</a></h4>
+    <a href='https://computerhoy.com/life/ocu-ventiladores-siguen-siendo-opcion-economica-combatir-calor-1397544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ventilador-3814320.jpg?tf=1200x' alt='OCU: Los ventiladores siguen siendo la opción más económica para combatir el calor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/oleada-estafas-dgt-publica-aviso-correos-sms-falsos-simulan-ser-multas-1397543'>Oleada de estafas: la DGT publica un aviso sobre correos y SMS falsos que simulan ser multas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/oleada-estafas-dgt-publica-aviso-correos-sms-falsos-simulan-ser-multas-1397543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dgt-estafa-3814174.jpg?tf=1200x' alt='Oleada de estafas: la DGT publica un aviso sobre correos y SMS falsos que simulan ser multas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/bluetooth-conexion-inalambrica-creada-honor-rey-vikingo-vivio-hace-1000-anos-1393967'>Qué es bluetooth, la conexión inalámbrica creada en honor a un rey vikingo que vivió hace 1.000 años</a></h4>
     <a href='https://computerhoy.com/redes/bluetooth-conexion-inalambrica-creada-honor-rey-vikingo-vivio-hace-1000-anos-1393967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/01/bluetooth-1851761.jpg?tf=1200x' alt='Qué es bluetooth, la conexión inalámbrica creada en honor a un rey vikingo que vivió hace 1.000 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/8-cosas-me-gustaria-nintendo-tuviera-cuenta-switch-2-1397525'>8 cosas que me gustaría que Nintendo tuviera en cuenta para Switch 2</a></h4>
     <a href='https://computerhoy.com/gaming/8-cosas-me-gustaria-nintendo-tuviera-cuenta-switch-2-1397525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/8-cosas-me-gustaria-nintendo-tuviera-cuenta-switch-2-3813737.jpg?tf=1200x' alt='8 cosas que me gustaría que Nintendo tuviera en cuenta para Switch 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/administrador-credenciales-sirve-como-usarlo-windows-11-1394394'>Qué es el administrador de credenciales, para qué sirve y cómo usarlo en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/administrador-credenciales-sirve-como-usarlo-windows-11-1394394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/administrador-credenciales-sirve-como-usarlo-windows-11-3667809.jpg?tf=1200x' alt='Qué es el administrador de credenciales, para qué sirve y cómo usarlo en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-puedes-ganar-300-euros-dia-solo-ordenador-wifi-tiempo-libre-1397485'>Cómo puedes ganar hasta 300 euros al día con solo un ordenador, Wifi y tiempo libre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-puedes-ganar-300-euros-dia-solo-ordenador-wifi-tiempo-libre-1397485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ganar-dinero-casa-3812370.jpg?tf=1200x' alt='Cómo puedes ganar hasta 300 euros al día con solo un ordenador, Wifi y tiempo libre' />
     </a>
 </div>
 
