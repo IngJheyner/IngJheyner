@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/di-adios-excel-nuevas-herramientas-ia-te-haran-olvidar-conocido-programa-microsoft-1397403'>Di adiós a Excel: las nuevas herramientas con IA que te harán olvidar al conocido programa de Microsoft</a></h4>
+    <a href='https://computerhoy.com/apps/di-adios-excel-nuevas-herramientas-ia-te-haran-olvidar-conocido-programa-microsoft-1397403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/di-adios-excel-nuevas-herramientas-ia-te-haran-olvidar-conocido-programa-microsoft-3810623.jpg?tf=1200x' alt='Di adiós a Excel: las nuevas herramientas con IA que te harán olvidar al conocido programa de Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/matematico-revela-verdadero-significado-palabra-igual-1397281'>Un matemático revela el verdadero significado de la palabra "igual"</a></h4>
     <a href='https://computerhoy.com/ciencia/matematico-revela-verdadero-significado-palabra-igual-1397281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/matematico-revela-verdadero-significado-palabra-igual-3803669.jpg?tf=1200x' alt='Un matemático revela el verdadero significado de la palabra "igual"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-datos-pendrive-usb-viejo-estropeado-pc-mac-1276460'>Cómo recuperar los datos de un pendrive USB viejo o estropeado en tu PC o Mac</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-recuperar-datos-pendrive-usb-viejo-estropeado-pc-mac-1276460' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pendrive-usb-3092400.jpg?tf=1200x' alt='Cómo recuperar los datos de un pendrive USB viejo o estropeado en tu PC o Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/el-nuevo-descubrimiento-fisica-permite-construccion-sensores-cuanticos-viajar-tiempo-1395879'>El nuevo descubrimiento en física que permite la construcción de sensores cuánticos para viajar en el tiempo</a></h4>
-    <a href='https://computerhoy.com/ciencia/el-nuevo-descubrimiento-fisica-permite-construccion-sensores-cuanticos-viajar-tiempo-1395879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/viaje-tiempo-3740010.jpg?tf=1200x' alt='El nuevo descubrimiento en física que permite la construcción de sensores cuánticos para viajar en el tiempo' />
     </a>
 </div>
 
