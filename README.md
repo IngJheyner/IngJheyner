@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cosas-saber-raspberry-pi-5-no-tirar-dinero-1336122'>5 cosas que debes saber sobre Raspberry Pi 5 si no quieres tirar tu dinero</a></h4>
-    <a href='https://computerhoy.com/pc/cosas-saber-raspberry-pi-5-no-tirar-dinero-1336122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-cosas-debes-saber-raspberry-pi-5-no-quieres-tirar-dinero-3223628.jpg?tf=1200x' alt='5 cosas que debes saber sobre Raspberry Pi 5 si no quieres tirar tu dinero' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-descargar-cualquier-video-internet-cualquier-red-social-1286702'>Cómo descargar cualquier vídeo de internet de cualquier red social </a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-descargar-cualquier-video-internet-cualquier-red-social-1286702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-descargar-videos-pinterest-3285372.jpg?tf=1200x' alt='Cómo descargar cualquier vídeo de internet de cualquier red social ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/canada-uso-drones-espiar-otros-equipos-durante-anos-1397555'>El primer escándalo de las Olimpiadas se extiende: Canadá usó drones para espiar a otros equipos durante años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/canada-uso-drones-espiar-otros-equipos-durante-anos-1397555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/primer-escandalo-olimpiadas-extiende-canada-ha-usado-drones-espiar-otros-equipos-durante-anos-3817274.jpg?tf=1200x' alt='El primer escándalo de las Olimpiadas se extiende: Canadá usó drones para espiar a otros equipos durante años' />
+    <h4><a href='https://computerhoy.com/pc/ejecutar-juego-pc-graficos-ultra-1397085'>¿Qué se necesita para ejecutar un juego en PC con gráficos Ultra?</a></h4>
+    <a href='https://computerhoy.com/pc/ejecutar-juego-pc-graficos-ultra-1397085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/jugar-videojuegos-pc-3794910.jpg?tf=1200x' alt='¿Qué se necesita para ejecutar un juego en PC con gráficos Ultra?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-funciona-modo-oculto-whatsapp-merece-pena-utilizarlo-1394881'>¿Qué es y cómo funciona el modo oculto de WhatsApp: ¿merece la pena utilizarlo?</a></h4>
-    <a href='https://computerhoy.com/apps/como-funciona-modo-oculto-whatsapp-merece-pena-utilizarlo-1394881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-funciona-modo-oculto-whatsapp-merece-pena-utilizarlo-3694690.jpg?tf=1200x' alt='¿Qué es y cómo funciona el modo oculto de WhatsApp: ¿merece la pena utilizarlo?' />
+    <h4><a href='https://computerhoy.com/tutoriales/mejor-configuracion-sonido-escuchar-dialogos-tv-1322150'>Así es la configuración de sonido ideal para escuchar bien los diálogos en tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/mejor-configuracion-sonido-escuchar-dialogos-tv-1322150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/configuracion-sonido-ideal-escuchar-bien-dialogos-smart-tv-3199618.jpg?tf=1200x' alt='Así es la configuración de sonido ideal para escuchar bien los diálogos en tu Smart TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-liquidacion-samsung-galaxy-watch6-oferta-amazon-1352363'>Samsung está quitándose de encima stock de su mejor reloj: el Galaxy Watch6 con LTE está a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-liquidacion-samsung-galaxy-watch6-oferta-amazon-1352363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110558.jpg?tf=1200x' alt='Samsung está quitándose de encima stock de su mejor reloj: el Galaxy Watch6 con LTE está a precio de saldo' />
+    <h4><a href='https://computerhoy.com/hogar/electrodomestico-causa-miles-muertes-cada-ano-1396401'>Nuevo estudio revela que este electrodoméstico está relacionados con casi 20.000 muertes prematuras: "Deberíamos centrarnos en las soluciones"</a></h4>
+    <a href='https://computerhoy.com/hogar/electrodomestico-causa-miles-muertes-cada-ano-1396401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cama-hospital-3757988.jpg?tf=1200x' alt='Nuevo estudio revela que este electrodoméstico está relacionados con casi 20.000 muertes prematuras: "Deberíamos centrarnos en las soluciones"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fallo-global-microsoft-crowdstrike-basta-despiste-hiperdependencia-tecnologica-magnifique-niveles-como-vivido-1397036'>Fallo global de Microsoft y CrowdStrike: "Basta un 'despiste' para que la hiperdependencia tecnológica lo magnifique a niveles como el vivido"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fallo-global-microsoft-crowdstrike-basta-despiste-hiperdependencia-tecnologica-magnifique-niveles-como-vivido-1397036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fallo-global-microsoft-3798657.jpg?tf=1200x' alt='Fallo global de Microsoft y CrowdStrike: "Basta un 'despiste' para que la hiperdependencia tecnológica lo magnifique a niveles como el vivido"' />
+    <h4><a href='https://computerhoy.com/life/siempre-maleta-4-dispositivos-no-pueden-faltar-viajes-1386289'>Siempre en la maleta: los 4 dispositivos que no pueden faltar en tus viajes</a></h4>
+    <a href='https://computerhoy.com/life/siempre-maleta-4-dispositivos-no-pueden-faltar-viajes-1386289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/siempre-maleta-4-dispositivos-no-pueden-faltar-viajes-3311853.jpg?tf=1200x' alt='Siempre en la maleta: los 4 dispositivos que no pueden faltar en tus viajes' />
     </a>
 </div>
 
