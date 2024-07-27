@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-potentisimo-movil-oneplus-12gb-ram-barato-black-friday-1349420'>Amazon liquida stock de un potentísimo móvil OnePlus con 16GB de RAM y carga a 80W</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-potentisimo-movil-oneplus-12gb-ram-barato-black-friday-1349420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-nord-3-3284579.jpg?tf=1200x' alt='Amazon liquida stock de un potentísimo móvil OnePlus con 16GB de RAM y carga a 80W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-tiene-creador-canciones-mejor-udio-suno-1397546'>ChatGPT tiene un creador de canciones, ¿es mejor que Udio y Suno? </a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-tiene-creador-canciones-mejor-udio-suno-1397546' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-tiene-creador-canciones-mejor-udio-suno-3815311.jpg?tf=1200x' alt='ChatGPT tiene un creador de canciones, ¿es mejor que Udio y Suno? ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/explorador-archivos-windows-11-te-permitira-navegar-archivos-movil-android-1397545'>El explorador de archivos de Windows 11 te permitirá navegar por los archivos de tu móvil Android</a></h4>
     <a href='https://computerhoy.com/windows/explorador-archivos-windows-11-te-permitira-navegar-archivos-movil-android-1397545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/4-trucos-sacar-maximo-partido-pestanas-explorador-archivos-windows-11-3295528.jpg?tf=1200x' alt='El explorador de archivos de Windows 11 te permitirá navegar por los archivos de tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/funcion-tienes-activar-simplificar-google-tv-1397539'>La función que tienes que activar para simplificar tu Google TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/funcion-tienes-activar-simplificar-google-tv-1397539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-tienes-activar-simplificar-google-tv-3814319.jpg?tf=1200x' alt='La función que tienes que activar para simplificar tu Google TV' />
     </a>
 </div>
 
