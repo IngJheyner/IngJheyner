@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-potentisimo-movil-oneplus-12gb-ram-barato-black-friday-1349420'>Amazon liquida stock de un potentísimo móvil OnePlus con 16GB de RAM y carga a 80W</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-potentisimo-movil-oneplus-12gb-ram-barato-black-friday-1349420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-nord-3-3284579.jpg?tf=1200x' alt='Amazon liquida stock de un potentísimo móvil OnePlus con 16GB de RAM y carga a 80W' />
+    <h4><a href='https://computerhoy.com/apps/como-funciona-modo-oculto-whatsapp-merece-pena-utilizarlo-1394881'>¿Qué es y cómo funciona el modo oculto de WhatsApp: ¿merece la pena utilizarlo?</a></h4>
+    <a href='https://computerhoy.com/apps/como-funciona-modo-oculto-whatsapp-merece-pena-utilizarlo-1394881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-funciona-modo-oculto-whatsapp-merece-pena-utilizarlo-3694690.jpg?tf=1200x' alt='¿Qué es y cómo funciona el modo oculto de WhatsApp: ¿merece la pena utilizarlo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-tiene-creador-canciones-mejor-udio-suno-1397546'>ChatGPT tiene un creador de canciones, ¿es mejor que Udio y Suno? </a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-tiene-creador-canciones-mejor-udio-suno-1397546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-tiene-creador-canciones-mejor-udio-suno-3815311.jpg?tf=1200x' alt='ChatGPT tiene un creador de canciones, ¿es mejor que Udio y Suno? ' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-liquidacion-samsung-galaxy-watch6-oferta-amazon-1352363'>Samsung está quitándose de encima stock de su mejor reloj: el Galaxy Watch6 con LTE está a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-liquidacion-samsung-galaxy-watch6-oferta-amazon-1352363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110558.jpg?tf=1200x' alt='Samsung está quitándose de encima stock de su mejor reloj: el Galaxy Watch6 con LTE está a precio de saldo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-critica-truco-toalla-mojada-acelerar-recarga-coches-1397549'>Tesla critica el truco de la toalla mojada para acelerar la recarga de sus coches</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-critica-truco-toalla-mojada-acelerar-recarga-coches-1397549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tesla-carga-truco-toalla-mojada-acelerar-recarga-coches-3814750.jpg?tf=1200x' alt='Tesla critica el truco de la toalla mojada para acelerar la recarga de sus coches' />
+    <h4><a href='https://computerhoy.com/tecnologia/fallo-global-microsoft-crowdstrike-basta-despiste-hiperdependencia-tecnologica-magnifique-niveles-como-vivido-1397036'>Fallo global de Microsoft y CrowdStrike: "Basta un 'despiste' para que la hiperdependencia tecnológica lo magnifique a niveles como el vivido"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fallo-global-microsoft-crowdstrike-basta-despiste-hiperdependencia-tecnologica-magnifique-niveles-como-vivido-1397036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fallo-global-microsoft-3798657.jpg?tf=1200x' alt='Fallo global de Microsoft y CrowdStrike: "Basta un 'despiste' para que la hiperdependencia tecnológica lo magnifique a niveles como el vivido"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/searchgpt-video-demostracion-ofrece-datos-falsos-1397548'>Primer ridículo de SearchGPT: en el vídeo de demostración ofrece datos falsos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/searchgpt-video-demostracion-ofrece-datos-falsos-1397548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/primer-ridiculo-searchgpt-video-demostracion-ofrece-datos-falsos-3814030.jpg?tf=1200x' alt='Primer ridículo de SearchGPT: en el vídeo de demostración ofrece datos falsos' />
+    <h4><a href='https://computerhoy.com/moviles/cambiaria-iphone-plegable-primer-tipo-concha-camara-gama-alta-real-1396109'>Cambiaría el iPhone por este plegable: es el primer tipo concha con cámara de gama alta real</a></h4>
+    <a href='https://computerhoy.com/moviles/cambiaria-iphone-plegable-primer-tipo-concha-camara-gama-alta-real-1396109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-flip-6-3747909.jpg?tf=1200x' alt='Cambiaría el iPhone por este plegable: es el primer tipo concha con cámara de gama alta real' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/explorador-archivos-windows-11-te-permitira-navegar-archivos-movil-android-1397545'>El explorador de archivos de Windows 11 te permitirá navegar por los archivos de tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/windows/explorador-archivos-windows-11-te-permitira-navegar-archivos-movil-android-1397545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/4-trucos-sacar-maximo-partido-pestanas-explorador-archivos-windows-11-3295528.jpg?tf=1200x' alt='El explorador de archivos de Windows 11 te permitirá navegar por los archivos de tu móvil Android' />
+    <h4><a href='https://computerhoy.com/life/peligrosa-banda-ladrones-asalto-12-casas-eran-tres-abuelos-suman-227-anos-1397552'>La peligrosa banda de ladrones que asaltó 12 casas eran tres abuelos que suman 227 años</a></h4>
+    <a href='https://computerhoy.com/life/peligrosa-banda-ladrones-asalto-12-casas-eran-tres-abuelos-suman-227-anos-1397552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/peligrosa-banda-ladrones-asalto-10-casas-eran-tres-abuelos-suman-227-anos-3816853.jpg?tf=1200x' alt='La peligrosa banda de ladrones que asaltó 12 casas eran tres abuelos que suman 227 años' />
     </a>
 </div>
 
