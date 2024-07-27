@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-corrige-error-administrador-contrasenas-chrome-ocultaba-credenciales-1397589'>Google corrige un error en el administrador de contraseñas de Chrome que ocultaba las credenciales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-corrige-error-administrador-contrasenas-chrome-ocultaba-credenciales-1397589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Google corrige un error en el administrador de contraseñas de Chrome que ocultaba las credenciales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/disney-precios-contenido-todo-debes-saber-plataforma-streaming-1396845'>Disney+: precios, contenido y todo lo que debes saber de la plataforma de streaming</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-precios-contenido-todo-debes-saber-plataforma-streaming-1396845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/disney-3784745.jpg?tf=1200x' alt='Disney+: precios, contenido y todo lo que debes saber de la plataforma de streaming' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/netflix-windows-11-pierde-funcion-descargas-convierte-app-web-basada-edge-1397578'>Netflix para Windows 11 pierde la función de descargas y se convierte en una app web basada en Edge</a></h4>
     <a href='https://computerhoy.com/windows/netflix-windows-11-pierde-funcion-descargas-convierte-app-web-basada-edge-1397578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/netflix-windows-11-3818716.jpg?tf=1200x' alt='Netflix para Windows 11 pierde la función de descargas y se convierte en una app web basada en Edge' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/10-peliculas-terror-fuertes-solo-valientes-no-querras-ver-nunca-1397192'>10 películas de terror fuertes solo para los más valientes que no querrás ver nunca más</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/10-peliculas-terror-fuertes-solo-valientes-no-querras-ver-nunca-1397192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pelis-terror-3810925.jpg?tf=1200x' alt='10 películas de terror fuertes solo para los más valientes que no querrás ver nunca más' />
     </a>
 </div>
 
