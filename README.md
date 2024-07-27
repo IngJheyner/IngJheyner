@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/cosas-saber-raspberry-pi-5-no-tirar-dinero-1336122'>5 cosas que debes saber sobre Raspberry Pi 5 si no quieres tirar tu dinero</a></h4>
+    <a href='https://computerhoy.com/pc/cosas-saber-raspberry-pi-5-no-tirar-dinero-1336122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-cosas-debes-saber-raspberry-pi-5-no-quieres-tirar-dinero-3223628.jpg?tf=1200x' alt='5 cosas que debes saber sobre Raspberry Pi 5 si no quieres tirar tu dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/canada-uso-drones-espiar-otros-equipos-durante-anos-1397555'>El primer escándalo de las Olimpiadas se extiende: Canadá usó drones para espiar a otros equipos durante años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/canada-uso-drones-espiar-otros-equipos-durante-anos-1397555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/primer-escandalo-olimpiadas-extiende-canada-ha-usado-drones-espiar-otros-equipos-durante-anos-3817274.jpg?tf=1200x' alt='El primer escándalo de las Olimpiadas se extiende: Canadá usó drones para espiar a otros equipos durante años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/como-funciona-modo-oculto-whatsapp-merece-pena-utilizarlo-1394881'>¿Qué es y cómo funciona el modo oculto de WhatsApp: ¿merece la pena utilizarlo?</a></h4>
     <a href='https://computerhoy.com/apps/como-funciona-modo-oculto-whatsapp-merece-pena-utilizarlo-1394881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-funciona-modo-oculto-whatsapp-merece-pena-utilizarlo-3694690.jpg?tf=1200x' alt='¿Qué es y cómo funciona el modo oculto de WhatsApp: ¿merece la pena utilizarlo?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/fallo-global-microsoft-crowdstrike-basta-despiste-hiperdependencia-tecnologica-magnifique-niveles-como-vivido-1397036'>Fallo global de Microsoft y CrowdStrike: "Basta un 'despiste' para que la hiperdependencia tecnológica lo magnifique a niveles como el vivido"</a></h4>
     <a href='https://computerhoy.com/tecnologia/fallo-global-microsoft-crowdstrike-basta-despiste-hiperdependencia-tecnologica-magnifique-niveles-como-vivido-1397036' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fallo-global-microsoft-3798657.jpg?tf=1200x' alt='Fallo global de Microsoft y CrowdStrike: "Basta un 'despiste' para que la hiperdependencia tecnológica lo magnifique a niveles como el vivido"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/cambiaria-iphone-plegable-primer-tipo-concha-camara-gama-alta-real-1396109'>Cambiaría el iPhone por este plegable: es el primer tipo concha con cámara de gama alta real</a></h4>
-    <a href='https://computerhoy.com/moviles/cambiaria-iphone-plegable-primer-tipo-concha-camara-gama-alta-real-1396109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-flip-6-3747909.jpg?tf=1200x' alt='Cambiaría el iPhone por este plegable: es el primer tipo concha con cámara de gama alta real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/peligrosa-banda-ladrones-asalto-12-casas-eran-tres-abuelos-suman-227-anos-1397552'>La peligrosa banda de ladrones que asaltó 12 casas eran tres abuelos que suman 227 años</a></h4>
-    <a href='https://computerhoy.com/life/peligrosa-banda-ladrones-asalto-12-casas-eran-tres-abuelos-suman-227-anos-1397552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/peligrosa-banda-ladrones-asalto-10-casas-eran-tres-abuelos-suman-227-anos-3816853.jpg?tf=1200x' alt='La peligrosa banda de ladrones que asaltó 12 casas eran tres abuelos que suman 227 años' />
     </a>
 </div>
 
