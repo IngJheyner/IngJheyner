@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/siempre-maleta-4-dispositivos-no-pueden-faltar-viajes-1386289'>Siempre en la maleta: los 4 dispositivos que no pueden faltar en tus viajes</a></h4>
-    <a href='https://computerhoy.com/life/siempre-maleta-4-dispositivos-no-pueden-faltar-viajes-1386289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/siempre-maleta-4-dispositivos-no-pueden-faltar-viajes-3311853.jpg?tf=1200x' alt='Siempre en la maleta: los 4 dispositivos que no pueden faltar en tus viajes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/cosas-saber-raspberry-pi-5-no-tirar-dinero-1336122'>5 cosas que debes saber sobre Raspberry Pi 5 si no quieres tirar tu dinero</a></h4>
     <a href='https://computerhoy.com/pc/cosas-saber-raspberry-pi-5-no-tirar-dinero-1336122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/5-cosas-debes-saber-raspberry-pi-5-no-quieres-tirar-dinero-3223628.jpg?tf=1200x' alt='5 cosas que debes saber sobre Raspberry Pi 5 si no quieres tirar tu dinero' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.com/tecnologia/samsung-liquidacion-samsung-galaxy-watch6-oferta-amazon-1352363'>Samsung está quitándose de encima stock de su mejor reloj: el Galaxy Watch6 con LTE está a precio de saldo</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-liquidacion-samsung-galaxy-watch6-oferta-amazon-1352363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110558.jpg?tf=1200x' alt='Samsung está quitándose de encima stock de su mejor reloj: el Galaxy Watch6 con LTE está a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fallo-global-microsoft-crowdstrike-basta-despiste-hiperdependencia-tecnologica-magnifique-niveles-como-vivido-1397036'>Fallo global de Microsoft y CrowdStrike: "Basta un 'despiste' para que la hiperdependencia tecnológica lo magnifique a niveles como el vivido"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fallo-global-microsoft-crowdstrike-basta-despiste-hiperdependencia-tecnologica-magnifique-niveles-como-vivido-1397036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fallo-global-microsoft-3798657.jpg?tf=1200x' alt='Fallo global de Microsoft y CrowdStrike: "Basta un 'despiste' para que la hiperdependencia tecnológica lo magnifique a niveles como el vivido"' />
     </a>
 </div>
 
