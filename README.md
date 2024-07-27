@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-precios-contenido-todo-debes-saber-plataforma-streaming-1396845'>Disney+: precios, contenido y todo lo que debes saber de la plataforma de streaming</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-precios-contenido-todo-debes-saber-plataforma-streaming-1396845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/disney-3784745.jpg?tf=1200x' alt='Disney+: precios, contenido y todo lo que debes saber de la plataforma de streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/x-entrenando-inteligencia-artificial-grok-tuits-consentimiento-previo-1397584'>X está entrenando a la inteligencia artificial Grok con tus tuits sin tu consentimiento previo</a></h4>
+    <a href='https://computerhoy.com/apps/x-entrenando-inteligencia-artificial-grok-tuits-consentimiento-previo-1397584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/grok-3307945.jpg?tf=1200x' alt='X está entrenando a la inteligencia artificial Grok con tus tuits sin tu consentimiento previo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/perfecto-runners-cuesta-30-euros-estos-cascos-conduccion-osea-son-top-ventas-1397256'>Es perfecto para runners y cuesta 30 euros: estos cascos de conducción ósea son top ventas</a></h4>
     <a href='https://computerhoy.com/tecnologia/perfecto-runners-cuesta-30-euros-estos-cascos-conduccion-osea-son-top-ventas-1397256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/haylou-purfree-lite-3799926.jpg?tf=1200x' alt='Es perfecto para runners y cuesta 30 euros: estos cascos de conducción ósea son top ventas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/10-peliculas-terror-fuertes-solo-valientes-no-querras-ver-nunca-1397192'>10 películas de terror fuertes solo para los más valientes que no querrás ver nunca más</a></h4>
     <a href='https://computerhoy.com/entretenimiento/10-peliculas-terror-fuertes-solo-valientes-no-querras-ver-nunca-1397192' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pelis-terror-3810925.jpg?tf=1200x' alt='10 películas de terror fuertes solo para los más valientes que no querrás ver nunca más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/verdad-flipper-zero-cosas-realmente-puedes-hacer-hackers-1318320'>La verdad sobre Flipper Zero, las cosas que sí puedes hacer con el tamagotchi para hackers</a></h4>
-    <a href='https://computerhoy.com/tecnologia/verdad-flipper-zero-cosas-realmente-puedes-hacer-hackers-1318320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/flipper-zero-3193160.jpg?tf=1200x' alt='La verdad sobre Flipper Zero, las cosas que sí puedes hacer con el tamagotchi para hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tiktok-estrena-funcion-estabas-esperando-podras-encontrar-canciones-cantandolas-tarareandolas-1397574'>TikTok estrena la función que estabas esperando: podrás encontrar canciones cantándolas o tarareándolas</a></h4>
-    <a href='https://computerhoy.com/apps/tiktok-estrena-funcion-estabas-esperando-podras-encontrar-canciones-cantandolas-tarareandolas-1397574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg?tf=1200x' alt='TikTok estrena la función que estabas esperando: podrás encontrar canciones cantándolas o tarareándolas' />
     </a>
 </div>
 
