@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/deja-firestick-alternativa-china-tiene-android-14-cuesta-mitad-1397568'>Deja los Firestick: esta alternativa china tiene Android 14 y cuesta la mitad</a></h4>
+    <a href='https://computerhoy.com/android/deja-firestick-alternativa-china-tiene-android-14-cuesta-mitad-1397568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stick-android-14-tv98-h618-3818282.jpg?tf=1200x' alt='Deja los Firestick: esta alternativa china tiene Android 14 y cuesta la mitad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/usuarios-apple-vision-pro-podrian-crear-propios-gestos-1397599'>Usuarios de Apple Vision Pro podrían crear sus propios gestos</a></h4>
+    <a href='https://computerhoy.com/apple/usuarios-apple-vision-pro-podrian-crear-propios-gestos-1397599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051564.jpg?tf=1200x' alt='Usuarios de Apple Vision Pro podrían crear sus propios gestos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-liberar-android-auto-desbloquear-funciones-ocultas-coche-1312792'>Cómo liberar Android Auto para desbloquear funciones ocultas que puedes usar en tu coche</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-liberar-android-auto-desbloquear-funciones-ocultas-coche-1312792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/android-auto-3149634.jpg?tf=1200x' alt='Cómo liberar Android Auto para desbloquear funciones ocultas que puedes usar en tu coche' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-corrige-error-administrador-contrasenas-chrome-ocultaba-credenciales-1397589'>Google corrige un error en el administrador de contraseñas de Chrome que ocultaba las credenciales</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-corrige-error-administrador-contrasenas-chrome-ocultaba-credenciales-1397589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Google corrige un error en el administrador de contraseñas de Chrome que ocultaba las credenciales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-precios-contenido-todo-debes-saber-plataforma-streaming-1396845'>Disney+: precios, contenido y todo lo que debes saber de la plataforma de streaming</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-precios-contenido-todo-debes-saber-plataforma-streaming-1396845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/disney-3784745.jpg?tf=1200x' alt='Disney+: precios, contenido y todo lo que debes saber de la plataforma de streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/x-entrenando-inteligencia-artificial-grok-tuits-consentimiento-previo-1397584'>X está entrenando a la inteligencia artificial Grok con tus tuits sin tu consentimiento previo</a></h4>
-    <a href='https://computerhoy.com/apps/x-entrenando-inteligencia-artificial-grok-tuits-consentimiento-previo-1397584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/grok-3307945.jpg?tf=1200x' alt='X está entrenando a la inteligencia artificial Grok con tus tuits sin tu consentimiento previo' />
     </a>
 </div>
 
