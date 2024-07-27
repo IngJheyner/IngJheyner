@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/perfecto-runners-cuesta-30-euros-estos-cascos-conduccion-osea-son-top-ventas-1397256'>Es perfecto para runners y cuesta 30 euros: estos cascos de conducción ósea son top ventas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/perfecto-runners-cuesta-30-euros-estos-cascos-conduccion-osea-son-top-ventas-1397256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/haylou-purfree-lite-3799926.jpg?tf=1200x' alt='Es perfecto para runners y cuesta 30 euros: estos cascos de conducción ósea son top ventas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/netflix-windows-11-pierde-funcion-descargas-convierte-app-web-basada-edge-1397578'>Netflix para Windows 11 pierde la función de descargas y se convierte en una app web basada en Edge</a></h4>
+    <a href='https://computerhoy.com/windows/netflix-windows-11-pierde-funcion-descargas-convierte-app-web-basada-edge-1397578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/netflix-windows-11-3818716.jpg?tf=1200x' alt='Netflix para Windows 11 pierde la función de descargas y se convierte en una app web basada en Edge' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/10-peliculas-terror-fuertes-solo-valientes-no-querras-ver-nunca-1397192'>10 películas de terror fuertes solo para los más valientes que no querrás ver nunca más</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/10-peliculas-terror-fuertes-solo-valientes-no-querras-ver-nunca-1397192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pelis-terror-3810925.jpg?tf=1200x' alt='10 películas de terror fuertes solo para los más valientes que no querrás ver nunca más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/verdad-flipper-zero-cosas-realmente-puedes-hacer-hackers-1318320'>La verdad sobre Flipper Zero, las cosas que sí puedes hacer con el tamagotchi para hackers</a></h4>
+    <a href='https://computerhoy.com/tecnologia/verdad-flipper-zero-cosas-realmente-puedes-hacer-hackers-1318320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/flipper-zero-3193160.jpg?tf=1200x' alt='La verdad sobre Flipper Zero, las cosas que sí puedes hacer con el tamagotchi para hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/tiktok-estrena-funcion-estabas-esperando-podras-encontrar-canciones-cantandolas-tarareandolas-1397574'>TikTok estrena la función que estabas esperando: podrás encontrar canciones cantándolas o tarareándolas</a></h4>
     <a href='https://computerhoy.com/apps/tiktok-estrena-funcion-estabas-esperando-podras-encontrar-canciones-cantandolas-tarareandolas-1397574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg?tf=1200x' alt='TikTok estrena la función que estabas esperando: podrás encontrar canciones cantándolas o tarareándolas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-descargar-cualquier-video-internet-cualquier-red-social-1286702'>Cómo descargar cualquier vídeo de internet de cualquier red social </a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-descargar-cualquier-video-internet-cualquier-red-social-1286702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-descargar-videos-pinterest-3285372.jpg?tf=1200x' alt='Cómo descargar cualquier vídeo de internet de cualquier red social ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ejecutar-juego-pc-graficos-ultra-1397085'>¿Qué se necesita para ejecutar un juego en PC con gráficos Ultra?</a></h4>
-    <a href='https://computerhoy.com/pc/ejecutar-juego-pc-graficos-ultra-1397085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/jugar-videojuegos-pc-3794910.jpg?tf=1200x' alt='¿Qué se necesita para ejecutar un juego en PC con gráficos Ultra?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/mejor-configuracion-sonido-escuchar-dialogos-tv-1322150'>Así es la configuración de sonido ideal para escuchar bien los diálogos en tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/mejor-configuracion-sonido-escuchar-dialogos-tv-1322150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/configuracion-sonido-ideal-escuchar-bien-dialogos-smart-tv-3199618.jpg?tf=1200x' alt='Así es la configuración de sonido ideal para escuchar bien los diálogos en tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/electrodomestico-causa-miles-muertes-cada-ano-1396401'>Nuevo estudio revela que este electrodoméstico está relacionados con casi 20.000 muertes prematuras: "Deberíamos centrarnos en las soluciones"</a></h4>
-    <a href='https://computerhoy.com/hogar/electrodomestico-causa-miles-muertes-cada-ano-1396401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cama-hospital-3757988.jpg?tf=1200x' alt='Nuevo estudio revela que este electrodoméstico está relacionados con casi 20.000 muertes prematuras: "Deberíamos centrarnos en las soluciones"' />
     </a>
 </div>
 
