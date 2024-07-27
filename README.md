@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-android-auto-desbloquear-funciones-ocultas-coche-1312792'>Cómo liberar Android Auto para desbloquear funciones ocultas que puedes usar en tu coche</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-liberar-android-auto-desbloquear-funciones-ocultas-coche-1312792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/android-auto-3149634.jpg?tf=1200x' alt='Cómo liberar Android Auto para desbloquear funciones ocultas que puedes usar en tu coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nuevas-funciones-voz-chatgpt-llegaran-proximos-dias-estos-usuarios-1397590'>Las nuevas funciones de voz para ChatGPT llegarán en los próximos días para estos usuarios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevas-funciones-voz-chatgpt-llegaran-proximos-dias-estos-usuarios-1397590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/puedes-configurar-chatgpt-usarlo-como-asistente-movil-3266640.jpg?tf=1200x' alt='Las nuevas funciones de voz para ChatGPT llegarán en los próximos días para estos usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-corrige-error-administrador-contrasenas-chrome-ocultaba-credenciales-1397589'>Google corrige un error en el administrador de contraseñas de Chrome que ocultaba las credenciales</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-corrige-error-administrador-contrasenas-chrome-ocultaba-credenciales-1397589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Google corrige un error en el administrador de contraseñas de Chrome que ocultaba las credenciales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/x-entrenando-inteligencia-artificial-grok-tuits-consentimiento-previo-1397584'>X está entrenando a la inteligencia artificial Grok con tus tuits sin tu consentimiento previo</a></h4>
     <a href='https://computerhoy.com/apps/x-entrenando-inteligencia-artificial-grok-tuits-consentimiento-previo-1397584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/grok-3307945.jpg?tf=1200x' alt='X está entrenando a la inteligencia artificial Grok con tus tuits sin tu consentimiento previo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/perfecto-runners-cuesta-30-euros-estos-cascos-conduccion-osea-son-top-ventas-1397256'>Es perfecto para runners y cuesta 30 euros: estos cascos de conducción ósea son top ventas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/perfecto-runners-cuesta-30-euros-estos-cascos-conduccion-osea-son-top-ventas-1397256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/haylou-purfree-lite-3799926.jpg?tf=1200x' alt='Es perfecto para runners y cuesta 30 euros: estos cascos de conducción ósea son top ventas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/netflix-windows-11-pierde-funcion-descargas-convierte-app-web-basada-edge-1397578'>Netflix para Windows 11 pierde la función de descargas y se convierte en una app web basada en Edge</a></h4>
-    <a href='https://computerhoy.com/windows/netflix-windows-11-pierde-funcion-descargas-convierte-app-web-basada-edge-1397578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/netflix-windows-11-3818716.jpg?tf=1200x' alt='Netflix para Windows 11 pierde la función de descargas y se convierte en una app web basada en Edge' />
     </a>
 </div>
 
