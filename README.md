@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-anade-efectos-filtros-realidad-aumentada-videollamadas-1397605'>WhatsApp añade efectos y filtros de realidad aumentada a las videollamadas</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-anade-efectos-filtros-realidad-aumentada-videollamadas-1397605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sorpresa-whatsapp-3656475.jpg?tf=1200x' alt='WhatsApp añade efectos y filtros de realidad aumentada a las videollamadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/astronautas-boeing-starliner-siguen-atrapados-estacion-espacial-internacional-no-tienen-fecha-regreso-1397582'>Los astronautas de la Boeing Starliner siguen atrapados en la Estación Espacial Internacional y no tienen fecha de regreso</a></h4>
+    <a href='https://computerhoy.com/espacio/astronautas-boeing-starliner-siguen-atrapados-estacion-espacial-internacional-no-tienen-fecha-regreso-1397582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/starliner-3557282.jpg?tf=1200x' alt='Los astronautas de la Boeing Starliner siguen atrapados en la Estación Espacial Internacional y no tienen fecha de regreso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/deja-firestick-alternativa-china-tiene-android-14-cuesta-mitad-1397568'>Deja los Firestick: esta alternativa china tiene Android 14 y cuesta la mitad</a></h4>
     <a href='https://computerhoy.com/android/deja-firestick-alternativa-china-tiene-android-14-cuesta-mitad-1397568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stick-android-14-tv98-h618-3818282.jpg?tf=1200x' alt='Deja los Firestick: esta alternativa china tiene Android 14 y cuesta la mitad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-liberar-android-auto-desbloquear-funciones-ocultas-coche-1312792'>Cómo liberar Android Auto para desbloquear funciones ocultas que puedes usar en tu coche</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-liberar-android-auto-desbloquear-funciones-ocultas-coche-1312792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/android-auto-3149634.jpg?tf=1200x' alt='Cómo liberar Android Auto para desbloquear funciones ocultas que puedes usar en tu coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevas-funciones-voz-chatgpt-llegaran-proximos-dias-estos-usuarios-1397590'>Las nuevas funciones de voz para ChatGPT llegarán en los próximos días para estos usuarios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevas-funciones-voz-chatgpt-llegaran-proximos-dias-estos-usuarios-1397590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/puedes-configurar-chatgpt-usarlo-como-asistente-movil-3266640.jpg?tf=1200x' alt='Las nuevas funciones de voz para ChatGPT llegarán en los próximos días para estos usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-corrige-error-administrador-contrasenas-chrome-ocultaba-credenciales-1397589'>Google corrige un error en el administrador de contraseñas de Chrome que ocultaba las credenciales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-corrige-error-administrador-contrasenas-chrome-ocultaba-credenciales-1397589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Google corrige un error en el administrador de contraseñas de Chrome que ocultaba las credenciales' />
     </a>
 </div>
 
