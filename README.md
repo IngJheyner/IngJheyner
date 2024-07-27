@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tiktok-estrena-funcion-estabas-esperando-podras-encontrar-canciones-cantandolas-tarareandolas-1397574'>TikTok estrena la función que estabas esperando: podrás encontrar canciones cantándolas o tarareándolas</a></h4>
+    <a href='https://computerhoy.com/apps/tiktok-estrena-funcion-estabas-esperando-podras-encontrar-canciones-cantandolas-tarareandolas-1397574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/tiktok-2568613.jpg?tf=1200x' alt='TikTok estrena la función que estabas esperando: podrás encontrar canciones cantándolas o tarareándolas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-descargar-cualquier-video-internet-cualquier-red-social-1286702'>Cómo descargar cualquier vídeo de internet de cualquier red social </a></h4>
     <a href='https://computerhoy.com/tecnologia/como-descargar-cualquier-video-internet-cualquier-red-social-1286702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-descargar-videos-pinterest-3285372.jpg?tf=1200x' alt='Cómo descargar cualquier vídeo de internet de cualquier red social ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/electrodomestico-causa-miles-muertes-cada-ano-1396401'>Nuevo estudio revela que este electrodoméstico está relacionados con casi 20.000 muertes prematuras: "Deberíamos centrarnos en las soluciones"</a></h4>
     <a href='https://computerhoy.com/hogar/electrodomestico-causa-miles-muertes-cada-ano-1396401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cama-hospital-3757988.jpg?tf=1200x' alt='Nuevo estudio revela que este electrodoméstico está relacionados con casi 20.000 muertes prematuras: "Deberíamos centrarnos en las soluciones"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/siempre-maleta-4-dispositivos-no-pueden-faltar-viajes-1386289'>Siempre en la maleta: los 4 dispositivos que no pueden faltar en tus viajes</a></h4>
-    <a href='https://computerhoy.com/life/siempre-maleta-4-dispositivos-no-pueden-faltar-viajes-1386289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/siempre-maleta-4-dispositivos-no-pueden-faltar-viajes-3311853.jpg?tf=1200x' alt='Siempre en la maleta: los 4 dispositivos que no pueden faltar en tus viajes' />
     </a>
 </div>
 
