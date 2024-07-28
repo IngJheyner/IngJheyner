@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/que-es-mascota-juegos-olimpicos-paris-1397652'>Qué es la curiosa mascota de los Juegos Olímpicos de París</a></h4>
+    <a href='https://computerhoy.com/life/que-es-mascota-juegos-olimpicos-paris-1397652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/curiosa-mascota-juegos-olimpicos-paris-3828539.jpg?tf=1200x' alt='Qué es la curiosa mascota de los Juegos Olímpicos de París' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/inventan-protector-solar-potente-usando-pigmento-piel-pulpo-1397651'>Inventan el protector solar más potente usando un pigmento de la piel del pulpo</a></h4>
     <a href='https://computerhoy.com/ciencia/inventan-protector-solar-potente-usando-pigmento-piel-pulpo-1397651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inventan-protector-solar-potente-usando-pigmento-piel-pulpo-3827944.jpg?tf=1200x' alt='Inventan el protector solar más potente usando un pigmento de la piel del pulpo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/deja-memorizar-contrasenas-gestor-ultraseguro-genera-claves-solidas-todos-dispositivos-1397269'>Deja de memorizar contraseñas: este gestor ultraseguro genera claves sólidas en todos tus dispositivos</a></h4>
     <a href='https://computerhoy.com/tecnologia/deja-memorizar-contrasenas-gestor-ultraseguro-genera-claves-solidas-todos-dispositivos-1397269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gestor-contrasenas-nordpass-movil-3017210.jpg?tf=1200x' alt='Deja de memorizar contraseñas: este gestor ultraseguro genera claves sólidas en todos tus dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/aprende-ingles-google-herramienta-android-1323096'>Aprende inglés con Google con esta herramienta para Android</a></h4>
-    <a href='https://computerhoy.com/google/aprende-ingles-google-herramienta-android-1323096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-ingles-android-3201188.jpg?tf=1200x' alt='Aprende inglés con Google con esta herramienta para Android' />
     </a>
 </div>
 
