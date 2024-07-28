@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-whatsapp-dejan-nota-coche-estafa-ha-comenzado-1397637'>Alerta en WhatsApp: si dejan esta nota en tu coche la estafa ha comenzado</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/alerta-whatsapp-dejan-nota-coche-estafa-ha-comenzado-1397637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-retrovisor-whatsapp-3825924.jpg?tf=1200x' alt='Alerta en WhatsApp: si dejan esta nota en tu coche la estafa ha comenzado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/proyector-vende-miles-aliexpress-cuesta-56-euros-cualquier-sitio-1397636'>Este proyector se vende por miles en AliExpress: cuesta 56 euros y cabe en cualquier sitio</a></h4>
     <a href='https://computerhoy.com/tv/proyector-vende-miles-aliexpress-cuesta-56-euros-cualquier-sitio-1397636' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/magcubic-hy320-pro-3705675.jpg?tf=1200x' alt='Este proyector se vende por miles en AliExpress: cuesta 56 euros y cabe en cualquier sitio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-confirmar-disco-duro-no-funciona-1395276'>Cómo confirmar que tu disco duro no funciona bien y tiene un problema</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-confirmar-disco-duro-no-funciona-1395276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estado-disco-duro-3707652.jpg?tf=1200x' alt='Cómo confirmar que tu disco duro no funciona bien y tiene un problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-potencial-flipper-zero-hackers-1322382'>Así puedes liberar el verdadero potencial de Flipper Zero</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-liberar-potencial-flipper-zero-hackers-1322382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/flipper-zero-3201478.jpg?tf=1200x' alt='Así puedes liberar el verdadero potencial de Flipper Zero' />
     </a>
 </div>
 
