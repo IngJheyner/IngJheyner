@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/inventan-protector-solar-potente-usando-pigmento-piel-pulpo-1397651'>Inventan el protector solar más potente usando un pigmento de la piel del pulpo</a></h4>
+    <a href='https://computerhoy.com/ciencia/inventan-protector-solar-potente-usando-pigmento-piel-pulpo-1397651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inventan-protector-solar-potente-usando-pigmento-piel-pulpo-3827944.jpg?tf=1200x' alt='Inventan el protector solar más potente usando un pigmento de la piel del pulpo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amuse-20-nueva-app-gratuita-amd-crear-imagenes-stable-diffusion-1397649'>Amuse 2.0, la nueva app gratuita de AMD para crear imágenes con IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/amuse-20-nueva-app-gratuita-amd-crear-imagenes-stable-diffusion-1397649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amuse-20-nueva-app-gratuita-amd-crear-imagenes-ia-3827650.jpg?tf=1200x' alt='Amuse 2.0, la nueva app gratuita de AMD para crear imágenes con IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/aprende-ingles-google-herramienta-android-1323096'>Aprende inglés con Google con esta herramienta para Android</a></h4>
     <a href='https://computerhoy.com/google/aprende-ingles-google-herramienta-android-1323096' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-ingles-android-3201188.jpg?tf=1200x' alt='Aprende inglés con Google con esta herramienta para Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/anonymous-ataca-elon-musk-acusa-ser-enemigo-1397643'>Anonymous ataca a Elon Musk y le acusa de ser su enemigo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/anonymous-ataca-elon-musk-acusa-ser-enemigo-1397643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/anonymous-ataca-elon-musk-acusa-ser-enemigo-3826639.jpg?tf=1200x' alt='Anonymous ataca a Elon Musk y le acusa de ser su enemigo' />
     </a>
 </div>
 
