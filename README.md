@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amuse-20-nueva-app-gratuita-amd-crear-imagenes-stable-diffusion-1397649'>Amuse 2.0, la nueva app gratuita de AMD para crear imágenes con IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amuse-20-nueva-app-gratuita-amd-crear-imagenes-stable-diffusion-1397649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amuse-20-nueva-app-gratuita-amd-crear-imagenes-ia-3827650.jpg?tf=1200x' alt='Amuse 2.0, la nueva app gratuita de AMD para crear imágenes con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/funcion-oculta-windows-11-te-permite-terminar-tareas-solo-clic-1397646'>Esta función oculta de Windows 11 permite terminar tareas con un clic</a></h4>
     <a href='https://computerhoy.com/windows/funcion-oculta-windows-11-te-permite-terminar-tareas-solo-clic-1397646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-oculta-windows-11-te-permite-terminar-tareas-solo-clic-3827223.jpg?tf=1200x' alt='Esta función oculta de Windows 11 permite terminar tareas con un clic' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/anonymous-ataca-elon-musk-acusa-ser-enemigo-1397643'>Anonymous ataca a Elon Musk y le acusa de ser su enemigo</a></h4>
     <a href='https://computerhoy.com/tecnologia/anonymous-ataca-elon-musk-acusa-ser-enemigo-1397643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/anonymous-ataca-elon-musk-acusa-ser-enemigo-3826639.jpg?tf=1200x' alt='Anonymous ataca a Elon Musk y le acusa de ser su enemigo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-play-store-cambia-siempre-todas-estas-novedades-1397628'>La Google Play Store cambia para siempre con todas estas novedades</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-play-store-cambia-siempre-todas-estas-novedades-1397628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-play-store-3825339.jpg?tf=1200x' alt='La Google Play Store cambia para siempre con todas estas novedades' />
     </a>
 </div>
 
