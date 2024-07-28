@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-cuenta-instagram-correo-electronico-ni-contrasena-1395413'>Cómo recuperar una cuenta de Instagram sin correo electrónico ni contraseña</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-cuenta-instagram-correo-electronico-ni-contrasena-1395413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/instagram-novedades-3217320.jpg?tf=1200x' alt='Cómo recuperar una cuenta de Instagram sin correo electrónico ni contraseña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/activa-modo-zen-mejores-apps-meditar-reducir-estres-1357648'>Activa tu “modo zen”: mejores apps para meditar y reducir tu estrés diario</a></h4>
+    <a href='https://computerhoy.com/apps/activa-modo-zen-mejores-apps-meditar-reducir-estres-1357648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/activa-modo-zen-mejores-apps-meditar-reducir-estres-diario-3262528.jpg?tf=1200x' alt='Activa tu “modo zen”: mejores apps para meditar y reducir tu estrés diario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/funcion-desconocida-google-maps-waze-no-puede-copiar-1314482'>La función desconocida de Google Maps que ni Waze ni Apple Mapas pueden copiar</a></h4>
+    <a href='https://computerhoy.com/apps/funcion-desconocida-google-maps-waze-no-puede-copiar-1314482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/rutas-google-maps-3119840.jpg?tf=1200x' alt='La función desconocida de Google Maps que ni Waze ni Apple Mapas pueden copiar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/7-formas-windows-11-recopila-datos-como-evitarlo-1395292'>7 formas en que Windows 11 recopila tus datos y cómo evitarlo</a></h4>
     <a href='https://computerhoy.com/windows/7-formas-windows-11-recopila-datos-como-evitarlo-1395292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/7-formas-windows-11-recopila-datos-como-evitarlo-3709794.jpg?tf=1200x' alt='7 formas en que Windows 11 recopila tus datos y cómo evitarlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/android-tv-box-televisor-4k-lemfo-aliexpress-1349938'>A tu televisor 4K le queda vida por delante: esta TV Box con Android es perfecta y muy barata por solo 21 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/android-tv-box-televisor-4k-lemfo-aliexpress-1349938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/android-tv-box-h96-max-2184021.jpg?tf=1200x' alt='A tu televisor 4K le queda vida por delante: esta TV Box con Android es perfecta y muy barata por solo 21 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-dispositivo-realidad-aumentada-capaz-ajustar-nivel-realidad-muestre-pantalla-1397602'>Microsoft piensa en un dispositivo de realidad aumentada capaz de ajustar el nivel de realidad que se muestre en la pantalla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-dispositivo-realidad-aumentada-capaz-ajustar-nivel-realidad-muestre-pantalla-1397602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hololens-3293994.jpg?tf=1200x' alt='Microsoft piensa en un dispositivo de realidad aumentada capaz de ajustar el nivel de realidad que se muestre en la pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/copilot-ia-microsoft-todo-puedes-hacer-ella-1388086'>Qué es Copilot, la IA de Microsoft, y todo lo que puedes hacer con ella</a></h4>
-    <a href='https://computerhoy.com/windows/copilot-ia-microsoft-todo-puedes-hacer-ella-1388086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/copilot-ia-microsoft-todo-puedes-hacer-ella-3373033.jpg?tf=1200x' alt='Qué es Copilot, la IA de Microsoft, y todo lo que puedes hacer con ella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/wero-reinado-bizum-espana-tiembla-1395901'>¿Qué es Wero y por qué el reinado de Bizum en España tiembla? </a></h4>
-    <a href='https://computerhoy.com/apps/wero-reinado-bizum-espana-tiembla-1395901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1721808118904-3796517.jpg?tf=1200x' alt='¿Qué es Wero y por qué el reinado de Bizum en España tiembla? ' />
     </a>
 </div>
 
