@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/deja-memorizar-contrasenas-gestor-ultraseguro-genera-claves-solidas-todos-dispositivos-1397269'>Deja de memorizar contraseñas: este gestor ultraseguro genera claves sólidas en todos tus dispositivos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/deja-memorizar-contrasenas-gestor-ultraseguro-genera-claves-solidas-todos-dispositivos-1397269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gestor-contrasenas-nordpass-movil-3017210.jpg?tf=1200x' alt='Deja de memorizar contraseñas: este gestor ultraseguro genera claves sólidas en todos tus dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/aprende-ingles-google-herramienta-android-1323096'>Aprende inglés con Google con esta herramienta para Android</a></h4>
+    <a href='https://computerhoy.com/google/aprende-ingles-google-herramienta-android-1323096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-ingles-android-3201188.jpg?tf=1200x' alt='Aprende inglés con Google con esta herramienta para Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/anonymous-ataca-elon-musk-acusa-ser-enemigo-1397643'>Anonymous ataca a Elon Musk y le acusa de ser su enemigo</a></h4>
     <a href='https://computerhoy.com/tecnologia/anonymous-ataca-elon-musk-acusa-ser-enemigo-1397643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/anonymous-ataca-elon-musk-acusa-ser-enemigo-3826639.jpg?tf=1200x' alt='Anonymous ataca a Elon Musk y le acusa de ser su enemigo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/alerta-whatsapp-dejan-nota-coche-estafa-ha-comenzado-1397637'>Alerta en WhatsApp: si dejan esta nota en tu coche la estafa ha comenzado</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/alerta-whatsapp-dejan-nota-coche-estafa-ha-comenzado-1397637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-retrovisor-whatsapp-3825924.jpg?tf=1200x' alt='Alerta en WhatsApp: si dejan esta nota en tu coche la estafa ha comenzado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/proyector-vende-miles-aliexpress-cuesta-56-euros-cualquier-sitio-1397636'>Este proyector se vende por miles en AliExpress: cuesta 56 euros y cabe en cualquier sitio</a></h4>
-    <a href='https://computerhoy.com/tv/proyector-vende-miles-aliexpress-cuesta-56-euros-cualquier-sitio-1397636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/magcubic-hy320-pro-3705675.jpg?tf=1200x' alt='Este proyector se vende por miles en AliExpress: cuesta 56 euros y cabe en cualquier sitio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/siri-como-aprovecharlo-todo-debes-saber-asistente-virtual-apple-1394088'>Qué es Siri, cómo aprovecharlo y todo lo que debes saber sobre el asistente virtual de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/siri-como-aprovecharlo-todo-debes-saber-asistente-virtual-apple-1394088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/siri-3656175.jpg?tf=1200x' alt='Qué es Siri, cómo aprovecharlo y todo lo que debes saber sobre el asistente virtual de Apple' />
     </a>
 </div>
 
