@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/proyector-vende-miles-aliexpress-cuesta-56-euros-cualquier-sitio-1397636'>Este proyector se vende por miles en AliExpress: cuesta 56 euros y cabe en cualquier sitio</a></h4>
+    <a href='https://computerhoy.com/tv/proyector-vende-miles-aliexpress-cuesta-56-euros-cualquier-sitio-1397636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/magcubic-hy320-pro-3705675.jpg?tf=1200x' alt='Este proyector se vende por miles en AliExpress: cuesta 56 euros y cabe en cualquier sitio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/siri-como-aprovecharlo-todo-debes-saber-asistente-virtual-apple-1394088'>Qué es Siri, cómo aprovecharlo y todo lo que debes saber sobre el asistente virtual de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/siri-como-aprovecharlo-todo-debes-saber-asistente-virtual-apple-1394088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/siri-3656175.jpg?tf=1200x' alt='Qué es Siri, cómo aprovecharlo y todo lo que debes saber sobre el asistente virtual de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/android-auto-deja-ser-compatible-estos-moviles-comprueba-te-afecta-1397625'>Android Auto deja de ser compatible en estos móviles: comprueba si te afecta</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-deja-ser-compatible-estos-moviles-comprueba-te-afecta-1397625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funciones-clave-harian-android-auto-mejor-plataforma-conduccion-3765783.jpg?tf=1200x' alt='Android Auto deja de ser compatible en estos móviles: comprueba si te afecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-confirmar-disco-duro-no-funciona-1395276'>Cómo confirmar que tu disco duro no funciona bien y tiene un problema</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-confirmar-disco-duro-no-funciona-1395276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estado-disco-duro-3707652.jpg?tf=1200x' alt='Cómo confirmar que tu disco duro no funciona bien y tiene un problema' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/eolipila-primera-maquina-vapor-2000-anos-utilidad-1318796'>Eolípila, la máquina de vapor de hace 2.000 años que nadie conoce su utilidad</a></h4>
-    <a href='https://computerhoy.com/ciencia/eolipila-primera-maquina-vapor-2000-anos-utilidad-1318796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/eolipila-maquina-vapor-hace-2000-anos-nadie-sabe-sirve-3193456.jpg?tf=1200x' alt='Eolípila, la máquina de vapor de hace 2.000 años que nadie conoce su utilidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/consola-android-pantalla-oled-rival-barato-steam-deck-1396699'>Más barata que Steam Deck y con pantalla OLED: esta consola Android causa sensación en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/consola-android-pantalla-oled-rival-barato-steam-deck-1396699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/anbernic-rg505-3781328.jpg?tf=1200x' alt='Más barata que Steam Deck y con pantalla OLED: esta consola Android causa sensación en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-android-renueva-nuevo-minireproductor-personalizable-todos-usuarios-1397624'>YouTube para Android se renueva con un nuevo minireproductor personalizable y para todos los usuarios</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-android-renueva-nuevo-minireproductor-personalizable-todos-usuarios-1397624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/youtube-3825335.jpg?tf=1200x' alt='YouTube para Android se renueva con un nuevo minireproductor personalizable y para todos los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/3-sencillos-consejos-liberar-espacio-movil-tener-eliminar-fotos-1379552'>3 sencillos consejos para liberar espacio en el móvil sin tener que eliminar tus fotos</a></h4>
-    <a href='https://computerhoy.com/moviles/3-sencillos-consejos-liberar-espacio-movil-tener-eliminar-fotos-1379552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/3-sencillos-consejos-liberar-espacio-movil-tener-eliminar-fotos-3299783.jpg?tf=1200x' alt='3 sencillos consejos para liberar espacio en el móvil sin tener que eliminar tus fotos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-potencial-flipper-zero-hackers-1322382'>Así puedes liberar el verdadero potencial de Flipper Zero</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-liberar-potencial-flipper-zero-hackers-1322382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/flipper-zero-3201478.jpg?tf=1200x' alt='Así puedes liberar el verdadero potencial de Flipper Zero' />
     </a>
 </div>
 
