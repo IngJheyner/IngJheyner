@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/anonymous-ataca-elon-musk-acusa-ser-enemigo-1397643'>Anonymous ataca a Elon Musk y le acusa de ser su enemigo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/anonymous-ataca-elon-musk-acusa-ser-enemigo-1397643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/anonymous-ataca-elon-musk-acusa-ser-enemigo-3826639.jpg?tf=1200x' alt='Anonymous ataca a Elon Musk y le acusa de ser su enemigo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-play-store-cambia-siempre-todas-estas-novedades-1397628'>La Google Play Store cambia para siempre con todas estas novedades</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-play-store-cambia-siempre-todas-estas-novedades-1397628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-play-store-3825339.jpg?tf=1200x' alt='La Google Play Store cambia para siempre con todas estas novedades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/siri-como-aprovecharlo-todo-debes-saber-asistente-virtual-apple-1394088'>Qué es Siri, cómo aprovecharlo y todo lo que debes saber sobre el asistente virtual de Apple</a></h4>
     <a href='https://computerhoy.com/tecnologia/siri-como-aprovecharlo-todo-debes-saber-asistente-virtual-apple-1394088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/siri-3656175.jpg?tf=1200x' alt='Qué es Siri, cómo aprovecharlo y todo lo que debes saber sobre el asistente virtual de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-deja-ser-compatible-estos-moviles-comprueba-te-afecta-1397625'>Android Auto deja de ser compatible en estos móviles: comprueba si te afecta</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-deja-ser-compatible-estos-moviles-comprueba-te-afecta-1397625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funciones-clave-harian-android-auto-mejor-plataforma-conduccion-3765783.jpg?tf=1200x' alt='Android Auto deja de ser compatible en estos móviles: comprueba si te afecta' />
     </a>
 </div>
 
