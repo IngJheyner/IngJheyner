@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/funcion-oculta-windows-11-te-permite-terminar-tareas-solo-clic-1397646'>Esta función oculta de Windows 11 permite terminar tareas con un clic</a></h4>
+    <a href='https://computerhoy.com/windows/funcion-oculta-windows-11-te-permite-terminar-tareas-solo-clic-1397646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-oculta-windows-11-te-permite-terminar-tareas-solo-clic-3827223.jpg?tf=1200x' alt='Esta función oculta de Windows 11 permite terminar tareas con un clic' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/deja-memorizar-contrasenas-gestor-ultraseguro-genera-claves-solidas-todos-dispositivos-1397269'>Deja de memorizar contraseñas: este gestor ultraseguro genera claves sólidas en todos tus dispositivos</a></h4>
     <a href='https://computerhoy.com/tecnologia/deja-memorizar-contrasenas-gestor-ultraseguro-genera-claves-solidas-todos-dispositivos-1397269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gestor-contrasenas-nordpass-movil-3017210.jpg?tf=1200x' alt='Deja de memorizar contraseñas: este gestor ultraseguro genera claves sólidas en todos tus dispositivos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-play-store-cambia-siempre-todas-estas-novedades-1397628'>La Google Play Store cambia para siempre con todas estas novedades</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-play-store-cambia-siempre-todas-estas-novedades-1397628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-play-store-3825339.jpg?tf=1200x' alt='La Google Play Store cambia para siempre con todas estas novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-whatsapp-dejan-nota-coche-estafa-ha-comenzado-1397637'>Alerta en WhatsApp: si dejan esta nota en tu coche la estafa ha comenzado</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/alerta-whatsapp-dejan-nota-coche-estafa-ha-comenzado-1397637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-retrovisor-whatsapp-3825924.jpg?tf=1200x' alt='Alerta en WhatsApp: si dejan esta nota en tu coche la estafa ha comenzado' />
     </a>
 </div>
 
