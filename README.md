@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-play-store-cambia-siempre-todas-estas-novedades-1397628'>La Google Play Store cambia para siempre con todas estas novedades</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-play-store-cambia-siempre-todas-estas-novedades-1397628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-play-store-3825339.jpg?tf=1200x' alt='La Google Play Store cambia para siempre con todas estas novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/alerta-whatsapp-dejan-nota-coche-estafa-ha-comenzado-1397637'>Alerta en WhatsApp: si dejan esta nota en tu coche la estafa ha comenzado</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/alerta-whatsapp-dejan-nota-coche-estafa-ha-comenzado-1397637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-retrovisor-whatsapp-3825924.jpg?tf=1200x' alt='Alerta en WhatsApp: si dejan esta nota en tu coche la estafa ha comenzado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/android-auto-deja-ser-compatible-estos-moviles-comprueba-te-afecta-1397625'>Android Auto deja de ser compatible en estos móviles: comprueba si te afecta</a></h4>
     <a href='https://computerhoy.com/apps/android-auto-deja-ser-compatible-estos-moviles-comprueba-te-afecta-1397625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funciones-clave-harian-android-auto-mejor-plataforma-conduccion-3765783.jpg?tf=1200x' alt='Android Auto deja de ser compatible en estos móviles: comprueba si te afecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-confirmar-disco-duro-no-funciona-1395276'>Cómo confirmar que tu disco duro no funciona bien y tiene un problema</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-confirmar-disco-duro-no-funciona-1395276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estado-disco-duro-3707652.jpg?tf=1200x' alt='Cómo confirmar que tu disco duro no funciona bien y tiene un problema' />
     </a>
 </div>
 
