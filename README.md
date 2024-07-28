@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-bitelchus-5-peliculas-miticas-80-tambien-merecen-secuela-1396548'>No solo Bitelchús: 5 películas míticas de los 80 que también merecen una secuela</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/no-solo-bitelchus-5-peliculas-miticas-80-tambien-merecen-secuela-1396548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-solo-bitelchus-5-peliculas-miticas-80-tambien-merecen-secuela-3762459.jpg?tf=1200x' alt='No solo Bitelchús: 5 películas míticas de los 80 que también merecen una secuela' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/monitor-panoramico-curvo-oferta-pccomponentes-1349641'>Este monitor le da un salto de calidad a tus partidas: panorámico, curvo y con 165 Hz</a></h4>
+    <a href='https://computerhoy.com/pc/monitor-panoramico-curvo-oferta-pccomponentes-1349641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pccom-monitor-34-3248582.jpg?tf=1200x' alt='Este monitor le da un salto de calidad a tus partidas: panorámico, curvo y con 165 Hz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-anade-efectos-filtros-realidad-aumentada-videollamadas-1397605'>WhatsApp añade efectos y filtros de realidad aumentada a las videollamadas</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-anade-efectos-filtros-realidad-aumentada-videollamadas-1397605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sorpresa-whatsapp-3656475.jpg?tf=1200x' alt='WhatsApp añade efectos y filtros de realidad aumentada a las videollamadas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/deja-firestick-alternativa-china-tiene-android-14-cuesta-mitad-1397568'>Deja los Firestick: esta alternativa china tiene Android 14 y cuesta la mitad</a></h4>
     <a href='https://computerhoy.com/android/deja-firestick-alternativa-china-tiene-android-14-cuesta-mitad-1397568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stick-android-14-tv98-h618-3818282.jpg?tf=1200x' alt='Deja los Firestick: esta alternativa china tiene Android 14 y cuesta la mitad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/usuarios-apple-vision-pro-podrian-crear-propios-gestos-1397599'>Usuarios de Apple Vision Pro podrían crear sus propios gestos</a></h4>
-    <a href='https://computerhoy.com/apple/usuarios-apple-vision-pro-podrian-crear-propios-gestos-1397599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051564.jpg?tf=1200x' alt='Usuarios de Apple Vision Pro podrían crear sus propios gestos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-android-auto-desbloquear-funciones-ocultas-coche-1312792'>Cómo liberar Android Auto para desbloquear funciones ocultas que puedes usar en tu coche</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-liberar-android-auto-desbloquear-funciones-ocultas-coche-1312792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/android-auto-3149634.jpg?tf=1200x' alt='Cómo liberar Android Auto para desbloquear funciones ocultas que puedes usar en tu coche' />
     </a>
 </div>
 
