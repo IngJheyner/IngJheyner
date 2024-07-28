@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-bitelchus-5-peliculas-miticas-80-tambien-merecen-secuela-1396548'>No solo Bitelchús: 5 películas míticas de los 80 que también merecen una secuela</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/no-solo-bitelchus-5-peliculas-miticas-80-tambien-merecen-secuela-1396548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-solo-bitelchus-5-peliculas-miticas-80-tambien-merecen-secuela-3762459.jpg?tf=1200x' alt='No solo Bitelchús: 5 películas míticas de los 80 que también merecen una secuela' />
+    <h4><a href='https://computerhoy.com/windows/7-formas-windows-11-recopila-datos-como-evitarlo-1395292'>7 formas en que Windows 11 recopila tus datos y cómo evitarlo</a></h4>
+    <a href='https://computerhoy.com/windows/7-formas-windows-11-recopila-datos-como-evitarlo-1395292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/7-formas-windows-11-recopila-datos-como-evitarlo-3709794.jpg?tf=1200x' alt='7 formas en que Windows 11 recopila tus datos y cómo evitarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/monitor-panoramico-curvo-oferta-pccomponentes-1349641'>Este monitor le da un salto de calidad a tus partidas: panorámico, curvo y con 165 Hz</a></h4>
-    <a href='https://computerhoy.com/pc/monitor-panoramico-curvo-oferta-pccomponentes-1349641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/pccom-monitor-34-3248582.jpg?tf=1200x' alt='Este monitor le da un salto de calidad a tus partidas: panorámico, curvo y con 165 Hz' />
+    <h4><a href='https://computerhoy.com/tecnologia/android-tv-box-televisor-4k-lemfo-aliexpress-1349938'>A tu televisor 4K le queda vida por delante: esta TV Box con Android es perfecta y muy barata por solo 21 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/android-tv-box-televisor-4k-lemfo-aliexpress-1349938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/android-tv-box-h96-max-2184021.jpg?tf=1200x' alt='A tu televisor 4K le queda vida por delante: esta TV Box con Android es perfecta y muy barata por solo 21 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-anade-efectos-filtros-realidad-aumentada-videollamadas-1397605'>WhatsApp añade efectos y filtros de realidad aumentada a las videollamadas</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-anade-efectos-filtros-realidad-aumentada-videollamadas-1397605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sorpresa-whatsapp-3656475.jpg?tf=1200x' alt='WhatsApp añade efectos y filtros de realidad aumentada a las videollamadas' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-dispositivo-realidad-aumentada-capaz-ajustar-nivel-realidad-muestre-pantalla-1397602'>Microsoft piensa en un dispositivo de realidad aumentada capaz de ajustar el nivel de realidad que se muestre en la pantalla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-dispositivo-realidad-aumentada-capaz-ajustar-nivel-realidad-muestre-pantalla-1397602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hololens-3293994.jpg?tf=1200x' alt='Microsoft piensa en un dispositivo de realidad aumentada capaz de ajustar el nivel de realidad que se muestre en la pantalla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/astronautas-boeing-starliner-siguen-atrapados-estacion-espacial-internacional-no-tienen-fecha-regreso-1397582'>Los astronautas de la Boeing Starliner siguen atrapados en la Estación Espacial Internacional y no tienen fecha de regreso</a></h4>
-    <a href='https://computerhoy.com/espacio/astronautas-boeing-starliner-siguen-atrapados-estacion-espacial-internacional-no-tienen-fecha-regreso-1397582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/starliner-3557282.jpg?tf=1200x' alt='Los astronautas de la Boeing Starliner siguen atrapados en la Estación Espacial Internacional y no tienen fecha de regreso' />
+    <h4><a href='https://computerhoy.com/windows/copilot-ia-microsoft-todo-puedes-hacer-ella-1388086'>Qué es Copilot, la IA de Microsoft, y todo lo que puedes hacer con ella</a></h4>
+    <a href='https://computerhoy.com/windows/copilot-ia-microsoft-todo-puedes-hacer-ella-1388086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/copilot-ia-microsoft-todo-puedes-hacer-ella-3373033.jpg?tf=1200x' alt='Qué es Copilot, la IA de Microsoft, y todo lo que puedes hacer con ella' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/deja-firestick-alternativa-china-tiene-android-14-cuesta-mitad-1397568'>Deja los Firestick: esta alternativa china tiene Android 14 y cuesta la mitad</a></h4>
-    <a href='https://computerhoy.com/android/deja-firestick-alternativa-china-tiene-android-14-cuesta-mitad-1397568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stick-android-14-tv98-h618-3818282.jpg?tf=1200x' alt='Deja los Firestick: esta alternativa china tiene Android 14 y cuesta la mitad' />
+    <h4><a href='https://computerhoy.com/apps/wero-reinado-bizum-espana-tiembla-1395901'>¿Qué es Wero y por qué el reinado de Bizum en España tiembla? </a></h4>
+    <a href='https://computerhoy.com/apps/wero-reinado-bizum-espana-tiembla-1395901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1721808118904-3796517.jpg?tf=1200x' alt='¿Qué es Wero y por qué el reinado de Bizum en España tiembla? ' />
     </a>
 </div>
 
