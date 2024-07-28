@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-confirmar-disco-duro-no-funciona-1395276'>Cómo confirmar que tu disco duro no funciona bien y tiene un problema</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-confirmar-disco-duro-no-funciona-1395276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estado-disco-duro-3707652.jpg?tf=1200x' alt='Cómo confirmar que tu disco duro no funciona bien y tiene un problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/eolipila-primera-maquina-vapor-2000-anos-utilidad-1318796'>Eolípila, la máquina de vapor de hace 2.000 años que nadie conoce su utilidad</a></h4>
+    <a href='https://computerhoy.com/ciencia/eolipila-primera-maquina-vapor-2000-anos-utilidad-1318796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/eolipila-maquina-vapor-hace-2000-anos-nadie-sabe-sirve-3193456.jpg?tf=1200x' alt='Eolípila, la máquina de vapor de hace 2.000 años que nadie conoce su utilidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/consola-android-pantalla-oled-rival-barato-steam-deck-1396699'>Más barata que Steam Deck y con pantalla OLED: esta consola Android causa sensación en AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/consola-android-pantalla-oled-rival-barato-steam-deck-1396699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/anbernic-rg505-3781328.jpg?tf=1200x' alt='Más barata que Steam Deck y con pantalla OLED: esta consola Android causa sensación en AliExpress' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chrome-te-mostrara-alertas-rendimiento-descartes-pestanas-consumen-1397622'>Chrome te mostrará alertas de rendimiento para que descartes las pestañas que más consumen</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chrome-te-mostrara-alertas-rendimiento-descartes-pestanas-consumen-1397622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-google-chrome-te-permite-tener-100-pestanas-abiertas-bien-organizadas-3283250.jpg?tf=1200x' alt='Chrome te mostrará alertas de rendimiento para que descartes las pestañas que más consumen' />
+    <h4><a href='https://computerhoy.com/apps/youtube-android-renueva-nuevo-minireproductor-personalizable-todos-usuarios-1397624'>YouTube para Android se renueva con un nuevo minireproductor personalizable y para todos los usuarios</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-android-renueva-nuevo-minireproductor-personalizable-todos-usuarios-1397624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/youtube-3825335.jpg?tf=1200x' alt='YouTube para Android se renueva con un nuevo minireproductor personalizable y para todos los usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/pantalla-2k-lte-tablet-china-destrona-rivales-aliexpress-oferton-1397615'>Pantalla 2K y LTE: esta tablet china destrona a sus rivales en AliExpress con un ofertón</a></h4>
-    <a href='https://computerhoy.com/android/pantalla-2k-lte-tablet-china-destrona-rivales-aliexpress-oferton-1397615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teclast-t40-air-3810606.jpg?tf=1200x' alt='Pantalla 2K y LTE: esta tablet china destrona a sus rivales en AliExpress con un ofertón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/4-motivos-deberias-guardar-consolas-antiguas-1397278'>Los 4 motivos por los que deberías guardar tus consolas antiguas</a></h4>
-    <a href='https://computerhoy.com/gaming/4-motivos-deberias-guardar-consolas-antiguas-1397278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/4-motivos-deberias-guardar-consolas-antiguas-3808906.jpg?tf=1200x' alt='Los 4 motivos por los que deberías guardar tus consolas antiguas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/privadovpn-analisis-opinion-vpn-barata-merece-pena-1397162'>He probado una de las VPN más baratas, y viene con un pack de seguridad digital recomendable si tienes hijos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/privadovpn-analisis-opinion-vpn-barata-merece-pena-1397162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/privadovpn-3811243.jpg?tf=1200x' alt='He probado una de las VPN más baratas, y viene con un pack de seguridad digital recomendable si tienes hijos' />
+    <h4><a href='https://computerhoy.com/moviles/3-sencillos-consejos-liberar-espacio-movil-tener-eliminar-fotos-1379552'>3 sencillos consejos para liberar espacio en el móvil sin tener que eliminar tus fotos</a></h4>
+    <a href='https://computerhoy.com/moviles/3-sencillos-consejos-liberar-espacio-movil-tener-eliminar-fotos-1379552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/3-sencillos-consejos-liberar-espacio-movil-tener-eliminar-fotos-3299783.jpg?tf=1200x' alt='3 sencillos consejos para liberar espacio en el móvil sin tener que eliminar tus fotos' />
     </a>
 </div>
 
