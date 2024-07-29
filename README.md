@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/firestick-rival-chino-android-14-mitad-precio-1397568'>Los Firestick tienen un duro rival llegado de china: con Android 14 y a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/android/firestick-rival-chino-android-14-mitad-precio-1397568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stick-android-14-tv98-h618-3818282.jpg?tf=1200x' alt='Los Firestick tienen un duro rival llegado de china: con Android 14 y a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-garmin-gps-trail-running-rebaja-amazon-1345266'>El reloj GPS Garmin perfecto para el trail running y la montaña tiene casi 100 euros de descuento en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-garmin-gps-trail-running-rebaja-amazon-1345266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-instinct-2-camo-3240630.jpg?tf=1200x' alt='El reloj GPS Garmin perfecto para el trail running y la montaña tiene casi 100 euros de descuento en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-z-flip-6-vs-z-fold-6-cual-ti-dos-plegables-sobresalientes-pero-almas-muy-diferentes-1396721'>Samsung Galaxy Z Flip 6 vs Z Fold 6, ¿cuál es para ti?: dos plegables sobresalientes, pero con almas muy diferentes</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-z-flip-6-vs-z-fold-6-cual-ti-dos-plegables-sobresalientes-pero-almas-muy-diferentes-1396721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-flip-6-vs-galaxy-z-fold-6-3806724.jpg?tf=1200x' alt='Samsung Galaxy Z Flip 6 vs Z Fold 6, ¿cuál es para ti?: dos plegables sobresalientes, pero con almas muy diferentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-lia-sector-gaming-ryzen-5-5600x-oferta-1350480'>Amazon pone el sector gaming patas arriba: el Ryzen 5 5600X cuesta menos de la mitad</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-lia-sector-gaming-ryzen-5-5600x-oferta-1350480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/procesador-amd-ryzen-1879975.jpg?tf=1200x' alt='Amazon pone el sector gaming patas arriba: el Ryzen 5 5600X cuesta menos de la mitad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/que-es-mascota-juegos-olimpicos-paris-1397652'>Qué es la curiosa mascota de los Juegos Olímpicos de París</a></h4>
     <a href='https://computerhoy.com/life/que-es-mascota-juegos-olimpicos-paris-1397652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/curiosa-mascota-juegos-olimpicos-paris-3828539.jpg?tf=1200x' alt='Qué es la curiosa mascota de los Juegos Olímpicos de París' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/inventan-protector-solar-potente-usando-pigmento-piel-pulpo-1397651'>Inventan el protector solar más potente usando un pigmento de la piel del pulpo</a></h4>
-    <a href='https://computerhoy.com/ciencia/inventan-protector-solar-potente-usando-pigmento-piel-pulpo-1397651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inventan-protector-solar-potente-usando-pigmento-piel-pulpo-3827944.jpg?tf=1200x' alt='Inventan el protector solar más potente usando un pigmento de la piel del pulpo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amuse-20-nueva-app-gratuita-amd-crear-imagenes-stable-diffusion-1397649'>Amuse 2.0, la nueva app gratuita de AMD para crear imágenes con IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amuse-20-nueva-app-gratuita-amd-crear-imagenes-stable-diffusion-1397649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amuse-20-nueva-app-gratuita-amd-crear-imagenes-ia-3827650.jpg?tf=1200x' alt='Amuse 2.0, la nueva app gratuita de AMD para crear imágenes con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/funcion-oculta-windows-11-te-permite-terminar-tareas-solo-clic-1397646'>Esta función oculta de Windows 11 permite terminar tareas con un clic</a></h4>
-    <a href='https://computerhoy.com/windows/funcion-oculta-windows-11-te-permite-terminar-tareas-solo-clic-1397646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-oculta-windows-11-te-permite-terminar-tareas-solo-clic-3827223.jpg?tf=1200x' alt='Esta función oculta de Windows 11 permite terminar tareas con un clic' />
     </a>
 </div>
 
