@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/stephen-king-rinde-western-terror-amazon-prime-video-epico-1397768'>Stephen King se rinde ante este western de terror de Amazon Prime Video: “es épico”</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/stephen-king-rinde-western-terror-amazon-prime-video-epico-1397768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bone-tomahawk-3833553.jpg?tf=1200x' alt='Stephen King se rinde ante este western de terror de Amazon Prime Video: “es épico”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-chats-whatsapp-pdf-movil-android-1395728'>Cómo convertir los chats de WhatsApp a PDF en tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-convertir-chats-whatsapp-pdf-movil-android-1395728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sorpresa-whatsapp-3656475.jpg?tf=1200x' alt='Cómo convertir los chats de WhatsApp a PDF en tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/macbook-pro-16-16gb-ram-precio-saldo-tienda-vende-reacondicionado-1000-euros-descuento-1397815'>El MacBook Pro de 16" con 16GB de RAM a precio de saldo: esta tienda lo vende reacondicionado con 1.000 euros de descuento</a></h4>
     <a href='https://computerhoy.com/apple/macbook-pro-16-16gb-ram-precio-saldo-tienda-vende-reacondicionado-1000-euros-descuento-1397815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/macbook-pro-16-m2-max-analisis-opinion-3015976.jpg?tf=1200x' alt='El MacBook Pro de 16" con 16GB de RAM a precio de saldo: esta tienda lo vende reacondicionado con 1.000 euros de descuento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/lista-iptv-definitiva-42000-canales-tv-gratis-1394555'>¡De locos! La lista definitiva IPTV con más de 42.000 canales de televisión gratis de todo el mundo</a></h4>
     <a href='https://computerhoy.com/tv/lista-iptv-definitiva-42000-canales-tv-gratis-1394555' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/listas-iptv-3683266.jpg?tf=1200x' alt='¡De locos! La lista definitiva IPTV con más de 42.000 canales de televisión gratis de todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/funcion-activar-simplificar-google-tv-1397539'>Esta es la función que tienes que activar para simplificar tu Google TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/funcion-activar-simplificar-google-tv-1397539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-tienes-activar-simplificar-google-tv-3814319.jpg?tf=1200x' alt='Esta es la función que tienes que activar para simplificar tu Google TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cual-fecha-lanzamiento-ios-18-1390904'>¿Cuál es la fecha de lanzamiento de iOS 18?</a></h4>
-    <a href='https://computerhoy.com/apple/cual-fecha-lanzamiento-ios-18-1390904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cual-fecha-lanzamiento-ios-18-3506219.jpg?tf=1200x' alt='¿Cuál es la fecha de lanzamiento de iOS 18?' />
     </a>
 </div>
 
