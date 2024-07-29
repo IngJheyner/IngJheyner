@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-kawaii-consola-juegos-nintendo-wii-llavero-1396885'>Nintendo Kawaii, la Nintendo Wii que cabe en un llavero</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-kawaii-consola-juegos-nintendo-wii-llavero-1396885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nintendo-kawaii-consola-nintendo-wii-llavero-3786431.jpg?tf=1200x' alt='Nintendo Kawaii, la Nintendo Wii que cabe en un llavero' />
+    <h4><a href='https://computerhoy.com/hogar/gadget-xiaomi-ideal-viajar-apenas-ocupa-espacio-muy-barato-1397725'>Este gadget de Xiaomi es ideal para viajar: apenas ocupa espacio y es muy barato</a></h4>
+    <a href='https://computerhoy.com/hogar/gadget-xiaomi-ideal-viajar-apenas-ocupa-espacio-muy-barato-1397725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/plancha-xiaomi-1935079.jpg?tf=1200x' alt='Este gadget de Xiaomi es ideal para viajar: apenas ocupa espacio y es muy barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cosas-no-sabias-funcionan-linux-1396850'>7 cosas sorprendentes que no sabías que funcionan con Linux</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cosas-no-sabias-funcionan-linux-1396850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/7-cosas-no-sabias-funcionan-linux-3784897.jpg?tf=1200x' alt='7 cosas sorprendentes que no sabías que funcionan con Linux' />
+    <h4><a href='https://computerhoy.com/life/apagar-aire-acondicionado-dejarlo-encendido-minimo-mejor-ahorrar-verano-1397746'>Apagar el aire acondicionado o dejarlo encendido al mínimo: ¿qué es mejor para ahorrar este verano?</a></h4>
+    <a href='https://computerhoy.com/life/apagar-aire-acondicionado-dejarlo-encendido-minimo-mejor-ahorrar-verano-1397746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aire-acondicionado-3832821.jpg?tf=1200x' alt='Apagar el aire acondicionado o dejarlo encendido al mínimo: ¿qué es mejor para ahorrar este verano?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mision-imposible-marcha-crear-primera-red-energetica-espacial-mundo-1397714'>Misión imposible en marcha: crear la primera "red energética espacial" del mundo</a></h4>
-    <a href='https://computerhoy.com/mision-imposible-marcha-crear-primera-red-energetica-espacial-mundo-1397714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/satelite-3144470.jpg?tf=1200x' alt='Misión imposible en marcha: crear la primera "red energética espacial" del mundo' />
+    <h4><a href='https://computerhoy.com/apps/ultima-funcion-whatsapp-ha-copiado-instagram-facebook-1397759'>La última función que WhatsApp ha copiado a Instagram y Facebook </a></h4>
+    <a href='https://computerhoy.com/apps/ultima-funcion-whatsapp-ha-copiado-instagram-facebook-1397759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-3832796.jpg?tf=1200x' alt='La última función que WhatsApp ha copiado a Instagram y Facebook ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/airtag-mucho-barato-tambien-funciona-ios-cuesta-menos-20-euros-1397743'>Este AirTag es mucho más barato y también funciona con iOS: cuesta menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/airtag-mucho-barato-tambien-funciona-ios-cuesta-menos-20-euros-1397743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/atuvos-smart-air-tracker-tag-3832309.jpg?tf=1200x' alt='Este AirTag es mucho más barato y también funciona con iOS: cuesta menos de 20 euros' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-lanza-8-novedades-actualices-hoy-mismo-1397740'>Windows 11 lanza 8 novedades para que actualices hoy mismo</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-lanza-8-novedades-actualices-hoy-mismo-1397740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-cambia-forma-vamos-actualizar-windows-11-3759520.jpg?tf=1200x' alt='Windows 11 lanza 8 novedades para que actualices hoy mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/puede-correr-rapido-usain-bolt-dice-ciencia-1397732'>¿Se puede correr más rápido que Usain Bolt? Esto dice la ciencia</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/puede-correr-rapido-usain-bolt-dice-ciencia-1397732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/usain-bolt-3832307.jpg?tf=1200x' alt='¿Se puede correr más rápido que Usain Bolt? Esto dice la ciencia' />
+    <h4><a href='https://computerhoy.com/tecnologia/9-dispositivos-vendieron-como-futuro-no-consiguieron-triunfar-1319186'>9 dispositivos que se vendieron como el futuro y no consiguieron triunfar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/9-dispositivos-vendieron-como-futuro-no-consiguieron-triunfar-1319186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/10/67489-project-ara.jpg?tf=1200x' alt='9 dispositivos que se vendieron como el futuro y no consiguieron triunfar' />
     </a>
 </div>
 
