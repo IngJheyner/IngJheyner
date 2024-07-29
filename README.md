@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-maps-todo-tienes-saber-aplicacion-mapas-1396749'>Google Maps: todo lo que tienes que saber sobre la aplicación de mapas</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-todo-tienes-saber-aplicacion-mapas-1396749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-3790116.jpg?tf=1200x' alt='Google Maps: todo lo que tienes que saber sobre la aplicación de mapas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tesla-pretende-competir-nvidia-superordenador-dojo-pero-podria-ser-promesa-elon-musk-nunca-llegue-cumplirse-1397793'>Tesla pretende competir con Nvidia con su superordenador Dojo, pero podría ser una promesa más de Elon Musk que nunca llegue a cumplirse</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tesla-pretende-competir-nvidia-superordenador-dojo-pero-podria-ser-promesa-elon-musk-nunca-llegue-cumplirse-1397793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tesla-pretende-competir-nvidia-pero-podria-ser-promesa-elon-musk-3833094.jpg?tf=1200x' alt='Tesla pretende competir con Nvidia con su superordenador Dojo, pero podría ser una promesa más de Elon Musk que nunca llegue a cumplirse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/5-malwares-virus-peligrosos-pc-1397380'>Los 5 malwares más peligrosos para tu PC y cómo evitarlos</a></h4>
     <a href='https://computerhoy.com/5-malwares-virus-peligrosos-pc-1397380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/virus-detectado-pc-3809890.jpg?tf=1200x' alt='Los 5 malwares más peligrosos para tu PC y cómo evitarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hackear-vpn-posible-1397757'>Hackear una VPN: ¿es posible?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hackear-vpn-posible-1397757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estas-dos-vpn-gratuitas-usan-direcciones-ip-usuarios-realizar-actos-criminales-3404133.jpg?tf=1200x' alt='Hackear una VPN: ¿es posible?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/gadget-xiaomi-ideal-viajar-apenas-ocupa-espacio-muy-barato-1397725'>Este gadget de Xiaomi es ideal para viajar: apenas ocupa espacio y es muy barato</a></h4>
-    <a href='https://computerhoy.com/hogar/gadget-xiaomi-ideal-viajar-apenas-ocupa-espacio-muy-barato-1397725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/plancha-xiaomi-1935079.jpg?tf=1200x' alt='Este gadget de Xiaomi es ideal para viajar: apenas ocupa espacio y es muy barato' />
     </a>
 </div>
 
