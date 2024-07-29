@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mision-imposible-marcha-crear-primera-red-energetica-espacial-mundo-1397714'>Misión imposible en marcha: crear la primera "red energética espacial" del mundo</a></h4>
+    <a href='https://computerhoy.com/mision-imposible-marcha-crear-primera-red-energetica-espacial-mundo-1397714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/satelite-3144470.jpg?tf=1200x' alt='Misión imposible en marcha: crear la primera "red energética espacial" del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/airtag-mucho-barato-tambien-funciona-ios-cuesta-menos-20-euros-1397743'>Este AirTag es mucho más barato y también funciona con iOS: cuesta menos de 20 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/airtag-mucho-barato-tambien-funciona-ios-cuesta-menos-20-euros-1397743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/atuvos-smart-air-tracker-tag-3832309.jpg?tf=1200x' alt='Este AirTag es mucho más barato y también funciona con iOS: cuesta menos de 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/puede-correr-rapido-usain-bolt-dice-ciencia-1397732'>¿Se puede correr más rápido que Usain Bolt? Esto dice la ciencia</a></h4>
     <a href='https://computerhoy.com/entretenimiento/puede-correr-rapido-usain-bolt-dice-ciencia-1397732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/usain-bolt-3832307.jpg?tf=1200x' alt='¿Se puede correr más rápido que Usain Bolt? Esto dice la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-wifi-aviones-porque-ciberdelincuentes-te-acechan-alturas-1397701'>Cuidado con el WiFi en los aviones porque los ciberdelincuentes te acechan en las alturas </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-wifi-aviones-porque-ciberdelincuentes-te-acechan-alturas-1397701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ciberseguridad-wifi-avion-3831852.jpg?tf=1200x' alt='Cuidado con el WiFi en los aviones porque los ciberdelincuentes te acechan en las alturas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-sin-sintonizar-1319246'>Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-sin-sintonizar-1319246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ver-todos-canales-tdt-smart-tv-movil-antena-ni-tener-sintonizarlos-3290907.jpg?tf=1200x' alt='Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizar' />
     </a>
 </div>
 
