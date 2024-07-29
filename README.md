@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/lista-iptv-definitiva-42000-canales-tv-gratis-1394555'>¡De locos! La lista definitiva IPTV con más de 42.000 canales de televisión gratis de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/tv/lista-iptv-definitiva-42000-canales-tv-gratis-1394555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/listas-iptv-3683266.jpg?tf=1200x' alt='¡De locos! La lista definitiva IPTV con más de 42.000 canales de televisión gratis de todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/funcion-activar-simplificar-google-tv-1397539'>Esta es la función que tienes que activar para simplificar tu Google TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/funcion-activar-simplificar-google-tv-1397539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-tienes-activar-simplificar-google-tv-3814319.jpg?tf=1200x' alt='Esta es la función que tienes que activar para simplificar tu Google TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-nueva-funcion-raton-usuarios-llevan-anos-pidiendo-1397367'>¡Ya era hora! Windows 11 añade una nueva función al ratón, que los usuarios llevan años pidiendo</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-nueva-funcion-raton-usuarios-llevan-anos-pidiendo-1397367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/boton-derecho-raton-3047038.jpg?tf=1200x' alt='¡Ya era hora! Windows 11 añade una nueva función al ratón, que los usuarios llevan años pidiendo' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-todo-tienes-saber-aplicacion-mapas-1396749'>Google Maps: todo lo que tienes que saber sobre la aplicación de mapas</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-todo-tienes-saber-aplicacion-mapas-1396749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-3790116.jpg?tf=1200x' alt='Google Maps: todo lo que tienes que saber sobre la aplicación de mapas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tesla-pretende-competir-nvidia-superordenador-dojo-pero-podria-ser-promesa-elon-musk-nunca-llegue-cumplirse-1397793'>Tesla pretende competir con Nvidia con su superordenador Dojo, pero podría ser una promesa más de Elon Musk que nunca llegue a cumplirse</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tesla-pretende-competir-nvidia-superordenador-dojo-pero-podria-ser-promesa-elon-musk-nunca-llegue-cumplirse-1397793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tesla-pretende-competir-nvidia-pero-podria-ser-promesa-elon-musk-3833094.jpg?tf=1200x' alt='Tesla pretende competir con Nvidia con su superordenador Dojo, pero podría ser una promesa más de Elon Musk que nunca llegue a cumplirse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/5-malwares-virus-peligrosos-pc-1397380'>Los 5 malwares más peligrosos para tu PC y cómo evitarlos</a></h4>
-    <a href='https://computerhoy.com/5-malwares-virus-peligrosos-pc-1397380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/virus-detectado-pc-3809890.jpg?tf=1200x' alt='Los 5 malwares más peligrosos para tu PC y cómo evitarlos' />
+    <h4><a href='https://computerhoy.com/ciencia/investigadores-espanoles-descubren-armas-tecnologia-avanzada-restos-comunidad-futurista-hace-45000-anos-1397684'>Investigadores españoles descubren armas de tecnología avanzada en los restos de una comunidad futurista de hace 45.000 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/investigadores-espanoles-descubren-armas-tecnologia-avanzada-restos-comunidad-futurista-hace-45000-anos-1397684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/homo-sapiens-siyu-3831842.jpg?tf=1200x' alt='Investigadores españoles descubren armas de tecnología avanzada en los restos de una comunidad futurista de hace 45.000 años' />
     </a>
 </div>
 
