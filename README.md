@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/macbook-pro-16-16gb-ram-precio-saldo-tienda-vende-reacondicionado-1000-euros-descuento-1397815'>El MacBook Pro de 16" con 16GB de RAM a precio de saldo: esta tienda lo vende reacondicionado con 1.000 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/apple/macbook-pro-16-16gb-ram-precio-saldo-tienda-vende-reacondicionado-1000-euros-descuento-1397815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/macbook-pro-16-m2-max-analisis-opinion-3015976.jpg?tf=1200x' alt='El MacBook Pro de 16" con 16GB de RAM a precio de saldo: esta tienda lo vende reacondicionado con 1.000 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/advertencia-conocido-hacker-todos-utilizan-iptv-ver-futbol-gratis-pone-pelos-punta-1397825'>La advertencia de un conocido hacker a todos los que utilizan IPTV para ver el fútbol gratis: pone los pelos de punta</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/advertencia-conocido-hacker-todos-utilizan-iptv-ver-futbol-gratis-pone-pelos-punta-1397825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/advertencia-conocido-hacker-todos-utilizan-iptv-ver-futbol-gratis-pone-pelos-punta-3834169.jpg?tf=1200x' alt='La advertencia de un conocido hacker a todos los que utilizan IPTV para ver el fútbol gratis: pone los pelos de punta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/lista-iptv-definitiva-42000-canales-tv-gratis-1394555'>¡De locos! La lista definitiva IPTV con más de 42.000 canales de televisión gratis de todo el mundo</a></h4>
     <a href='https://computerhoy.com/tv/lista-iptv-definitiva-42000-canales-tv-gratis-1394555' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/listas-iptv-3683266.jpg?tf=1200x' alt='¡De locos! La lista definitiva IPTV con más de 42.000 canales de televisión gratis de todo el mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/cual-fecha-lanzamiento-ios-18-1390904'>¿Cuál es la fecha de lanzamiento de iOS 18?</a></h4>
     <a href='https://computerhoy.com/apple/cual-fecha-lanzamiento-ios-18-1390904' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cual-fecha-lanzamiento-ios-18-3506219.jpg?tf=1200x' alt='¿Cuál es la fecha de lanzamiento de iOS 18?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-funciona-passkeys-contrasenas-google-1318904'>Así funciona passkeys, el "mata contraseñas" de Google</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-funciona-passkeys-contrasenas-google-1318904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-funciona-passkeys-mata-contrasenas-google-ya-realidad-3194028.jpg?tf=1200x' alt='Así funciona passkeys, el "mata contraseñas" de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/comienza-produccion-motor-electrico-metal-liquido-revolucionara-exploracion-espacial-1397770'>Comienza la producción del motor eléctrico de metal líquido que revolucionará la exploración espacial</a></h4>
-    <a href='https://computerhoy.com/espacio/comienza-produccion-motor-electrico-metal-liquido-revolucionara-exploracion-espacial-1397770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nave-espacial-despegando-3832946.jpg?tf=1200x' alt='Comienza la producción del motor eléctrico de metal líquido que revolucionará la exploración espacial' />
     </a>
 </div>
 
