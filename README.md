@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-encuentra-nuevo-aliado-convierte-herramienta-aun-poderosa-1397857'>Flipper Zero encuentra un nuevo aliado y se convierte en una herramienta aún más poderosa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-zero-encuentra-nuevo-aliado-convierte-herramienta-aun-poderosa-1397857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/flipper-zero-encuentra-nuevo-aliado-convierte-herramienta-aun-poderosa-3835924.jpg?tf=1200x' alt='Flipper Zero encuentra un nuevo aliado y se convierte en una herramienta aún más poderosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ratones-duren-siempre-objetivo-nueva-ceo-logitech-1397872'>Ratones que duren para siempre: el objetivo de la nueva CEO de Logitech</a></h4>
     <a href='https://computerhoy.com/tecnologia/ratones-duren-siempre-objetivo-nueva-ceo-logitech-1397872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ratones-duren-siempre-objetivo-nueva-ceo-logitech-3835498.jpg?tf=1200x' alt='Ratones que duren para siempre: el objetivo de la nueva CEO de Logitech' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/fallo-seguridad-google-workspace-expuso-miles-cuentas-manos-ciberdelincuentes-1397863'>Un fallo de seguridad de Google Workspace expuso miles de cuentas en manos de los ciberdelincuentes</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/fallo-seguridad-google-workspace-expuso-miles-cuentas-manos-ciberdelincuentes-1397863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-workspace-3835210.jpg?tf=1200x' alt='Un fallo de seguridad de Google Workspace expuso miles de cuentas en manos de los ciberdelincuentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/sirve-algo-regla-24-horas-5-minutos-mejorar-seguridad-movil-1397837'>¿Sirve de algo la regla de las 24 horas y 5 minutos para mejorar la seguridad de tu móvil?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/sirve-algo-regla-24-horas-5-minutos-mejorar-seguridad-movil-1397837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sirve-algo-regla-24-horas-5-minutos-mejorar-seguridad-movil-3834917.jpg?tf=1200x' alt='¿Sirve de algo la regla de las 24 horas y 5 minutos para mejorar la seguridad de tu móvil?' />
     </a>
 </div>
 
