@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-da-marcha-atras-retrasa-llegada-apple-intelligence-iphone-1397670'>Apple da marcha atrás y retrasa la llegada de Apple Intelligence a los iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/apple-da-marcha-atras-retrasa-llegada-apple-intelligence-iphone-1397670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-intelligence-siri-3656462.jpg?tf=1200x' alt='Apple da marcha atrás y retrasa la llegada de Apple Intelligence a los iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-garmin-gps-trail-running-rebaja-amazon-1345266'>El reloj GPS Garmin perfecto para el trail running y la montaña tiene casi 100 euros de descuento en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-garmin-gps-trail-running-rebaja-amazon-1345266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-instinct-2-camo-3240630.jpg?tf=1200x' alt='El reloj GPS Garmin perfecto para el trail running y la montaña tiene casi 100 euros de descuento en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-lia-sector-gaming-ryzen-5-5600x-oferta-1350480'>Amazon pone el sector gaming patas arriba: el Ryzen 5 5600X cuesta menos de la mitad</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-lia-sector-gaming-ryzen-5-5600x-oferta-1350480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/procesador-amd-ryzen-1879975.jpg?tf=1200x' alt='Amazon pone el sector gaming patas arriba: el Ryzen 5 5600X cuesta menos de la mitad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/que-es-mascota-juegos-olimpicos-paris-1397652'>Qué es la curiosa mascota de los Juegos Olímpicos de París</a></h4>
-    <a href='https://computerhoy.com/life/que-es-mascota-juegos-olimpicos-paris-1397652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/curiosa-mascota-juegos-olimpicos-paris-3828539.jpg?tf=1200x' alt='Qué es la curiosa mascota de los Juegos Olímpicos de París' />
     </a>
 </div>
 
