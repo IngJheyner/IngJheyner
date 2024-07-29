@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-nueva-funcion-raton-usuarios-llevan-anos-pidiendo-1397367'>¡Ya era hora! Windows 11 añade una nueva función al ratón, que los usuarios llevan años pidiendo</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-nueva-funcion-raton-usuarios-llevan-anos-pidiendo-1397367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/boton-derecho-raton-3047038.jpg?tf=1200x' alt='¡Ya era hora! Windows 11 añade una nueva función al ratón, que los usuarios llevan años pidiendo' />
+    <h4><a href='https://computerhoy.com/apple/cual-fecha-lanzamiento-ios-18-1390904'>¿Cuál es la fecha de lanzamiento de iOS 18?</a></h4>
+    <a href='https://computerhoy.com/apple/cual-fecha-lanzamiento-ios-18-1390904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cual-fecha-lanzamiento-ios-18-3506219.jpg?tf=1200x' alt='¿Cuál es la fecha de lanzamiento de iOS 18?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ciencia-ficcion-motor-permite-viajar-rapido-luz-equipo-fisicos-ha-demostrado-1396781'>No es ciencia ficción: este motor permite viajar más rápido que la luz, y los físicos lo han demostrado</a></h4>
-    <a href='https://computerhoy.com/ciencia/ciencia-ficcion-motor-permite-viajar-rapido-luz-equipo-fisicos-ha-demostrado-1396781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/foto-nave-creada-mark-rademaker-3783046.jpg?tf=1200x' alt='No es ciencia ficción: este motor permite viajar más rápido que la luz, y los físicos lo han demostrado' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-funciona-passkeys-contrasenas-google-1318904'>Así funciona passkeys, el "mata contraseñas" de Google</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-funciona-passkeys-contrasenas-google-1318904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-funciona-passkeys-mata-contrasenas-google-ya-realidad-3194028.jpg?tf=1200x' alt='Así funciona passkeys, el "mata contraseñas" de Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/investigadores-espanoles-descubren-armas-tecnologia-avanzada-restos-comunidad-futurista-hace-45000-anos-1397684'>Investigadores españoles descubren armas de tecnología avanzada en los restos de una comunidad futurista de hace 45.000 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/investigadores-espanoles-descubren-armas-tecnologia-avanzada-restos-comunidad-futurista-hace-45000-anos-1397684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/homo-sapiens-siyu-3831842.jpg?tf=1200x' alt='Investigadores españoles descubren armas de tecnología avanzada en los restos de una comunidad futurista de hace 45.000 años' />
+    <h4><a href='https://computerhoy.com/espacio/comienza-produccion-motor-electrico-metal-liquido-revolucionara-exploracion-espacial-1397770'>Comienza la producción del motor eléctrico de metal líquido que revolucionará la exploración espacial</a></h4>
+    <a href='https://computerhoy.com/espacio/comienza-produccion-motor-electrico-metal-liquido-revolucionara-exploracion-espacial-1397770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nave-espacial-despegando-3832946.jpg?tf=1200x' alt='Comienza la producción del motor eléctrico de metal líquido que revolucionará la exploración espacial' />
     </a>
 </div>
 
