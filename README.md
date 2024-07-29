@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-nueva-funcion-raton-usuarios-llevan-anos-pidiendo-1397367'>¡Ya era hora! Windows 11 añade una nueva función al ratón, que los usuarios llevan años pidiendo</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-nueva-funcion-raton-usuarios-llevan-anos-pidiendo-1397367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/boton-derecho-raton-3047038.jpg?tf=1200x' alt='¡Ya era hora! Windows 11 añade una nueva función al ratón, que los usuarios llevan años pidiendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/ciencia-ficcion-motor-permite-viajar-rapido-luz-equipo-fisicos-ha-demostrado-1396781'>No es ciencia ficción: este motor permite viajar más rápido que la luz, y los físicos lo han demostrado</a></h4>
+    <a href='https://computerhoy.com/ciencia/ciencia-ficcion-motor-permite-viajar-rapido-luz-equipo-fisicos-ha-demostrado-1396781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/foto-nave-creada-mark-rademaker-3783046.jpg?tf=1200x' alt='No es ciencia ficción: este motor permite viajar más rápido que la luz, y los físicos lo han demostrado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/5-malwares-virus-peligrosos-pc-1397380'>Los 5 malwares más peligrosos para tu PC y cómo evitarlos</a></h4>
+    <a href='https://computerhoy.com/5-malwares-virus-peligrosos-pc-1397380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/virus-detectado-pc-3809890.jpg?tf=1200x' alt='Los 5 malwares más peligrosos para tu PC y cómo evitarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/hackear-vpn-posible-1397757'>Hackear una VPN: ¿es posible?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hackear-vpn-posible-1397757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estas-dos-vpn-gratuitas-usan-direcciones-ip-usuarios-realizar-actos-criminales-3404133.jpg?tf=1200x' alt='Hackear una VPN: ¿es posible?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/gadget-xiaomi-ideal-viajar-apenas-ocupa-espacio-muy-barato-1397725'>Este gadget de Xiaomi es ideal para viajar: apenas ocupa espacio y es muy barato</a></h4>
     <a href='https://computerhoy.com/hogar/gadget-xiaomi-ideal-viajar-apenas-ocupa-espacio-muy-barato-1397725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/plancha-xiaomi-1935079.jpg?tf=1200x' alt='Este gadget de Xiaomi es ideal para viajar: apenas ocupa espacio y es muy barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/apagar-aire-acondicionado-dejarlo-encendido-minimo-mejor-ahorrar-verano-1397746'>Apagar el aire acondicionado o dejarlo encendido al mínimo: ¿qué es mejor para ahorrar este verano?</a></h4>
-    <a href='https://computerhoy.com/life/apagar-aire-acondicionado-dejarlo-encendido-minimo-mejor-ahorrar-verano-1397746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aire-acondicionado-3832821.jpg?tf=1200x' alt='Apagar el aire acondicionado o dejarlo encendido al mínimo: ¿qué es mejor para ahorrar este verano?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ultima-funcion-whatsapp-ha-copiado-instagram-facebook-1397759'>La última función que WhatsApp ha copiado a Instagram y Facebook </a></h4>
-    <a href='https://computerhoy.com/apps/ultima-funcion-whatsapp-ha-copiado-instagram-facebook-1397759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-3832796.jpg?tf=1200x' alt='La última función que WhatsApp ha copiado a Instagram y Facebook ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-lanza-8-novedades-actualices-hoy-mismo-1397740'>Windows 11 lanza 8 novedades para que actualices hoy mismo</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-lanza-8-novedades-actualices-hoy-mismo-1397740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-cambia-forma-vamos-actualizar-windows-11-3759520.jpg?tf=1200x' alt='Windows 11 lanza 8 novedades para que actualices hoy mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/9-dispositivos-vendieron-como-futuro-no-consiguieron-triunfar-1319186'>9 dispositivos que se vendieron como el futuro y no consiguieron triunfar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/9-dispositivos-vendieron-como-futuro-no-consiguieron-triunfar-1319186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/10/67489-project-ara.jpg?tf=1200x' alt='9 dispositivos que se vendieron como el futuro y no consiguieron triunfar' />
     </a>
 </div>
 
