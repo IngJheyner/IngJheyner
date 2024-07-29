@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-lia-sector-gaming-ryzen-5-5600x-oferta-1350480'>Amazon pone el sector gaming patas arriba: el Ryzen 5 5600X cuesta menos de la mitad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-lia-sector-gaming-ryzen-5-5600x-oferta-1350480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/procesador-amd-ryzen-1879975.jpg?tf=1200x' alt='Amazon pone el sector gaming patas arriba: el Ryzen 5 5600X cuesta menos de la mitad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/que-es-mascota-juegos-olimpicos-paris-1397652'>Qué es la curiosa mascota de los Juegos Olímpicos de París</a></h4>
     <a href='https://computerhoy.com/life/que-es-mascota-juegos-olimpicos-paris-1397652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/curiosa-mascota-juegos-olimpicos-paris-3828539.jpg?tf=1200x' alt='Qué es la curiosa mascota de los Juegos Olímpicos de París' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/funcion-oculta-windows-11-te-permite-terminar-tareas-solo-clic-1397646'>Esta función oculta de Windows 11 permite terminar tareas con un clic</a></h4>
     <a href='https://computerhoy.com/windows/funcion-oculta-windows-11-te-permite-terminar-tareas-solo-clic-1397646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-oculta-windows-11-te-permite-terminar-tareas-solo-clic-3827223.jpg?tf=1200x' alt='Esta función oculta de Windows 11 permite terminar tareas con un clic' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/deja-memorizar-contrasenas-gestor-ultraseguro-genera-claves-solidas-todos-dispositivos-1397269'>Deja de memorizar contraseñas: este gestor ultraseguro genera claves sólidas en todos tus dispositivos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/deja-memorizar-contrasenas-gestor-ultraseguro-genera-claves-solidas-todos-dispositivos-1397269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gestor-contrasenas-nordpass-movil-3017210.jpg?tf=1200x' alt='Deja de memorizar contraseñas: este gestor ultraseguro genera claves sólidas en todos tus dispositivos' />
     </a>
 </div>
 
