@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-kawaii-consola-juegos-nintendo-wii-llavero-1396885'>Nintendo Kawaii, la Nintendo Wii que cabe en un llavero</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-kawaii-consola-juegos-nintendo-wii-llavero-1396885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nintendo-kawaii-consola-nintendo-wii-llavero-3786431.jpg?tf=1200x' alt='Nintendo Kawaii, la Nintendo Wii que cabe en un llavero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cosas-no-sabias-funcionan-linux-1396850'>7 cosas sorprendentes que no sabías que funcionan con Linux</a></h4>
     <a href='https://computerhoy.com/tecnologia/cosas-no-sabias-funcionan-linux-1396850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/7-cosas-no-sabias-funcionan-linux-3784897.jpg?tf=1200x' alt='7 cosas sorprendentes que no sabías que funcionan con Linux' />
@@ -58,33 +66,25 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/puede-correr-rapido-usain-bolt-dice-ciencia-1397732'>¿Se puede correr más rápido que Usain Bolt? Esto dice la ciencia</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/puede-correr-rapido-usain-bolt-dice-ciencia-1397732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/usain-bolt-3832307.jpg?tf=1200x' alt='¿Se puede correr más rápido que Usain Bolt? Esto dice la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-wifi-aviones-porque-ciberdelincuentes-te-acechan-alturas-1397701'>Cuidado con el WiFi en los aviones porque los ciberdelincuentes te acechan en las alturas </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-wifi-aviones-porque-ciberdelincuentes-te-acechan-alturas-1397701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ciberseguridad-wifi-avion-3831852.jpg?tf=1200x' alt='Cuidado con el WiFi en los aviones porque los ciberdelincuentes te acechan en las alturas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-sin-sintonizar-1319246'>Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizar</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-sin-sintonizar-1319246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ver-todos-canales-tdt-smart-tv-movil-antena-ni-tener-sintonizarlos-3290907.jpg?tf=1200x' alt='Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/puedes-evitar-grok-utilice-informacion-entrenar-inteligencia-artificial-1397692'>Así puedes evitar que Grok utilice tu información para entrenar su inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/apps/puedes-evitar-grok-utilice-informacion-entrenar-inteligencia-artificial-1397692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/grok-3831857.jpg?tf=1200x' alt='Así puedes evitar que Grok utilice tu información para entrenar su inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-hace-sencilla-nunca-conexion-dispositivos-android-estas-funciones-1397690'>Google hace más sencilla que nunca la conexión entre dispositivos Android con estas funciones</a></h4>
-    <a href='https://computerhoy.com/android/google-hace-sencilla-nunca-conexion-dispositivos-android-estas-funciones-1397690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-conectividad-3831681.jpg?tf=1200x' alt='Google hace más sencilla que nunca la conexión entre dispositivos Android con estas funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/firestick-rival-chino-android-14-mitad-precio-1397568'>Los Firestick tienen un duro rival llegado de china: con Android 14 y a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/android/firestick-rival-chino-android-14-mitad-precio-1397568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stick-android-14-tv98-h618-3818282.jpg?tf=1200x' alt='Los Firestick tienen un duro rival llegado de china: con Android 14 y a mitad de precio' />
     </a>
 </div>
 
