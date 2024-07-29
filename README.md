@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/sirve-algo-regla-24-horas-5-minutos-mejorar-seguridad-movil-1397837'>¿Sirve de algo la regla de las 24 horas y 5 minutos para mejorar la seguridad de tu móvil?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/sirve-algo-regla-24-horas-5-minutos-mejorar-seguridad-movil-1397837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sirve-algo-regla-24-horas-5-minutos-mejorar-seguridad-movil-3834917.jpg?tf=1200x' alt='¿Sirve de algo la regla de las 24 horas y 5 minutos para mejorar la seguridad de tu móvil?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/stephen-king-rinde-western-terror-amazon-prime-video-epico-1397768'>Stephen King se rinde ante este western de terror de Amazon Prime Video: “es épico”</a></h4>
     <a href='https://computerhoy.com/entretenimiento/stephen-king-rinde-western-terror-amazon-prime-video-epico-1397768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bone-tomahawk-3833553.jpg?tf=1200x' alt='Stephen King se rinde ante este western de terror de Amazon Prime Video: “es épico”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/advertencia-conocido-hacker-todos-utilizan-iptv-ver-futbol-gratis-pone-pelos-punta-1397825'>La advertencia de un conocido hacker a todos los que utilizan IPTV para ver el fútbol gratis: pone los pelos de punta</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/advertencia-conocido-hacker-todos-utilizan-iptv-ver-futbol-gratis-pone-pelos-punta-1397825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/advertencia-conocido-hacker-todos-utilizan-iptv-ver-futbol-gratis-pone-pelos-punta-3834169.jpg?tf=1200x' alt='La advertencia de un conocido hacker a todos los que utilizan IPTV para ver el fútbol gratis: pone los pelos de punta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/lista-iptv-definitiva-42000-canales-tv-gratis-1394555'>¡De locos! La lista definitiva IPTV con más de 42.000 canales de televisión gratis de todo el mundo</a></h4>
-    <a href='https://computerhoy.com/tv/lista-iptv-definitiva-42000-canales-tv-gratis-1394555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/listas-iptv-3683266.jpg?tf=1200x' alt='¡De locos! La lista definitiva IPTV con más de 42.000 canales de televisión gratis de todo el mundo' />
     </a>
 </div>
 
