@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/nueva-funcion-google-drive-quiere-competir-microsoft-onedrive-1397682'>Esta es la nueva función de Google Drive con la que quiere competir con Microsoft OneDrive</a></h4>
+    <a href='https://computerhoy.com/apps/nueva-funcion-google-drive-quiere-competir-microsoft-onedrive-1397682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-drive-permitira-escanear-documentos-competir-microsoft-onedrive-3831533.jpg?tf=1200x' alt='Esta es la nueva función de Google Drive con la que quiere competir con Microsoft OneDrive' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/solo-usuarios-netflix-utiliza-mejores-funciones-incluye-1325166'>Solo el 1% de los usuarios de Netflix utiliza una de las mejores funciones que incluye</a></h4>
+    <a href='https://computerhoy.com/tecnologia/solo-usuarios-netflix-utiliza-mejores-funciones-incluye-1325166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-gaming-2825567.jpg?tf=1200x' alt='Solo el 1% de los usuarios de Netflix utiliza una de las mejores funciones que incluye' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-da-marcha-atras-retrasa-llegada-apple-intelligence-iphone-1397670'>Apple da marcha atrás y retrasa la llegada de Apple Intelligence a los iPhone</a></h4>
     <a href='https://computerhoy.com/apple/apple-da-marcha-atras-retrasa-llegada-apple-intelligence-iphone-1397670' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-intelligence-siri-3656462.jpg?tf=1200x' alt='Apple da marcha atrás y retrasa la llegada de Apple Intelligence a los iPhone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/reloj-garmin-gps-trail-running-rebaja-amazon-1345266'>El reloj GPS Garmin perfecto para el trail running y la montaña tiene casi 100 euros de descuento en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-garmin-gps-trail-running-rebaja-amazon-1345266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-instinct-2-camo-3240630.jpg?tf=1200x' alt='El reloj GPS Garmin perfecto para el trail running y la montaña tiene casi 100 euros de descuento en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-z-flip-6-vs-z-fold-6-cual-ti-dos-plegables-sobresalientes-pero-almas-muy-diferentes-1396721'>Samsung Galaxy Z Flip 6 vs Z Fold 6, ¿cuál es para ti?: dos plegables sobresalientes, pero con almas muy diferentes</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-z-flip-6-vs-z-fold-6-cual-ti-dos-plegables-sobresalientes-pero-almas-muy-diferentes-1396721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-flip-6-vs-galaxy-z-fold-6-3806724.jpg?tf=1200x' alt='Samsung Galaxy Z Flip 6 vs Z Fold 6, ¿cuál es para ti?: dos plegables sobresalientes, pero con almas muy diferentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-lia-sector-gaming-ryzen-5-5600x-oferta-1350480'>Amazon pone el sector gaming patas arriba: el Ryzen 5 5600X cuesta menos de la mitad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-lia-sector-gaming-ryzen-5-5600x-oferta-1350480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/procesador-amd-ryzen-1879975.jpg?tf=1200x' alt='Amazon pone el sector gaming patas arriba: el Ryzen 5 5600X cuesta menos de la mitad' />
     </a>
 </div>
 
