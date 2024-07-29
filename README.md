@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ratones-duren-siempre-objetivo-nueva-ceo-logitech-1397872'>Ratones que duren para siempre: el objetivo de la nueva CEO de Logitech</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ratones-duren-siempre-objetivo-nueva-ceo-logitech-1397872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ratones-duren-siempre-objetivo-nueva-ceo-logitech-3835498.jpg?tf=1200x' alt='Ratones que duren para siempre: el objetivo de la nueva CEO de Logitech' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/movistar-iptv-toda-nueva-temporada-futbol-20-descuento-1397867'>Movistar a por las IPTV: toda la nueva temporada de fútbol con más de un 20% de descuento</a></h4>
     <a href='https://computerhoy.com/entretenimiento/movistar-iptv-toda-nueva-temporada-futbol-20-descuento-1397867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movistar-plus-futbol-3835353.jpg?tf=1200x' alt='Movistar a por las IPTV: toda la nueva temporada de fútbol con más de un 20% de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/sirve-algo-regla-24-horas-5-minutos-mejorar-seguridad-movil-1397837'>¿Sirve de algo la regla de las 24 horas y 5 minutos para mejorar la seguridad de tu móvil?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/sirve-algo-regla-24-horas-5-minutos-mejorar-seguridad-movil-1397837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sirve-algo-regla-24-horas-5-minutos-mejorar-seguridad-movil-3834917.jpg?tf=1200x' alt='¿Sirve de algo la regla de las 24 horas y 5 minutos para mejorar la seguridad de tu móvil?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/stephen-king-rinde-western-terror-amazon-prime-video-epico-1397768'>Stephen King se rinde ante este western de terror de Amazon Prime Video: “es épico”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/stephen-king-rinde-western-terror-amazon-prime-video-epico-1397768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bone-tomahawk-3833553.jpg?tf=1200x' alt='Stephen King se rinde ante este western de terror de Amazon Prime Video: “es épico”' />
     </a>
 </div>
 
