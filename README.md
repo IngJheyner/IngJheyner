@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cosas-no-sabias-funcionan-linux-1396850'>7 cosas sorprendentes que no sabías que funcionan con Linux</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cosas-no-sabias-funcionan-linux-1396850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/7-cosas-no-sabias-funcionan-linux-3784897.jpg?tf=1200x' alt='7 cosas sorprendentes que no sabías que funcionan con Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-sin-sintonizar-1319246'>Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-sin-sintonizar-1319246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ver-todos-canales-tdt-smart-tv-movil-antena-ni-tener-sintonizarlos-3290907.jpg?tf=1200x' alt='Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/puedes-evitar-grok-utilice-informacion-entrenar-inteligencia-artificial-1397692'>Así puedes evitar que Grok utilice tu información para entrenar su inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/apps/puedes-evitar-grok-utilice-informacion-entrenar-inteligencia-artificial-1397692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/grok-3831857.jpg?tf=1200x' alt='Así puedes evitar que Grok utilice tu información para entrenar su inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-hace-sencilla-nunca-conexion-dispositivos-android-estas-funciones-1397690'>Google hace más sencilla que nunca la conexión entre dispositivos Android con estas funciones</a></h4>
+    <a href='https://computerhoy.com/android/google-hace-sencilla-nunca-conexion-dispositivos-android-estas-funciones-1397690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-conectividad-3831681.jpg?tf=1200x' alt='Google hace más sencilla que nunca la conexión entre dispositivos Android con estas funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/firestick-rival-chino-android-14-mitad-precio-1397568'>Los Firestick tienen un duro rival llegado de china: con Android 14 y a mitad de precio</a></h4>
     <a href='https://computerhoy.com/android/firestick-rival-chino-android-14-mitad-precio-1397568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stick-android-14-tv98-h618-3818282.jpg?tf=1200x' alt='Los Firestick tienen un duro rival llegado de china: con Android 14 y a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nueva-funcion-google-drive-quiere-competir-microsoft-onedrive-1397682'>Esta es la nueva función de Google Drive con la que quiere competir con Microsoft OneDrive</a></h4>
-    <a href='https://computerhoy.com/apps/nueva-funcion-google-drive-quiere-competir-microsoft-onedrive-1397682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-drive-permitira-escanear-documentos-competir-microsoft-onedrive-3831533.jpg?tf=1200x' alt='Esta es la nueva función de Google Drive con la que quiere competir con Microsoft OneDrive' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/solo-usuarios-netflix-utiliza-mejores-funciones-incluye-1325166'>Solo el 1% de los usuarios de Netflix utiliza una de las mejores funciones que incluye</a></h4>
-    <a href='https://computerhoy.com/tecnologia/solo-usuarios-netflix-utiliza-mejores-funciones-incluye-1325166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-gaming-2825567.jpg?tf=1200x' alt='Solo el 1% de los usuarios de Netflix utiliza una de las mejores funciones que incluye' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-da-marcha-atras-retrasa-llegada-apple-intelligence-iphone-1397670'>Apple da marcha atrás y retrasa la llegada de Apple Intelligence a los iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/apple-da-marcha-atras-retrasa-llegada-apple-intelligence-iphone-1397670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-intelligence-siri-3656462.jpg?tf=1200x' alt='Apple da marcha atrás y retrasa la llegada de Apple Intelligence a los iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-garmin-gps-trail-running-rebaja-amazon-1345266'>El reloj GPS Garmin perfecto para el trail running y la montaña tiene casi 100 euros de descuento en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-garmin-gps-trail-running-rebaja-amazon-1345266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-instinct-2-camo-3240630.jpg?tf=1200x' alt='El reloj GPS Garmin perfecto para el trail running y la montaña tiene casi 100 euros de descuento en Amazon' />
     </a>
 </div>
 
