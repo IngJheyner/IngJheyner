@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/movistar-iptv-toda-nueva-temporada-futbol-20-descuento-1397867'>Movistar a por las IPTV: toda la nueva temporada de fútbol con más de un 20% de descuento</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/movistar-iptv-toda-nueva-temporada-futbol-20-descuento-1397867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movistar-plus-futbol-3835353.jpg?tf=1200x' alt='Movistar a por las IPTV: toda la nueva temporada de fútbol con más de un 20% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tecnica-faraon-dormir-pierna-suelta-plena-ola-calor-aire-acondicionado-1397864'>La técnica del faraón para dormir a pierna suelta en plena ola de calor sin aire acondicionado</a></h4>
+    <a href='https://computerhoy.com/life/tecnica-faraon-dormir-pierna-suelta-plena-ola-calor-aire-acondicionado-1397864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dormir-3835211.jpg?tf=1200x' alt='La técnica del faraón para dormir a pierna suelta en plena ola de calor sin aire acondicionado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/fallo-seguridad-google-workspace-expuso-miles-cuentas-manos-ciberdelincuentes-1397863'>Un fallo de seguridad de Google Workspace expuso miles de cuentas en manos de los ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/fallo-seguridad-google-workspace-expuso-miles-cuentas-manos-ciberdelincuentes-1397863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-workspace-3835210.jpg?tf=1200x' alt='Un fallo de seguridad de Google Workspace expuso miles de cuentas en manos de los ciberdelincuentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/sirve-algo-regla-24-horas-5-minutos-mejorar-seguridad-movil-1397837'>¿Sirve de algo la regla de las 24 horas y 5 minutos para mejorar la seguridad de tu móvil?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/sirve-algo-regla-24-horas-5-minutos-mejorar-seguridad-movil-1397837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sirve-algo-regla-24-horas-5-minutos-mejorar-seguridad-movil-3834917.jpg?tf=1200x' alt='¿Sirve de algo la regla de las 24 horas y 5 minutos para mejorar la seguridad de tu móvil?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/stephen-king-rinde-western-terror-amazon-prime-video-epico-1397768'>Stephen King se rinde ante este western de terror de Amazon Prime Video: “es épico”</a></h4>
     <a href='https://computerhoy.com/entretenimiento/stephen-king-rinde-western-terror-amazon-prime-video-epico-1397768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bone-tomahawk-3833553.jpg?tf=1200x' alt='Stephen King se rinde ante este western de terror de Amazon Prime Video: “es épico”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-chats-whatsapp-pdf-movil-android-1395728'>Cómo convertir los chats de WhatsApp a PDF en tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-convertir-chats-whatsapp-pdf-movil-android-1395728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sorpresa-whatsapp-3656475.jpg?tf=1200x' alt='Cómo convertir los chats de WhatsApp a PDF en tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/macbook-pro-16-16gb-ram-precio-saldo-tienda-vende-reacondicionado-1000-euros-descuento-1397815'>El MacBook Pro de 16" con 16GB de RAM a precio de saldo: esta tienda lo vende reacondicionado con 1.000 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/apple/macbook-pro-16-16gb-ram-precio-saldo-tienda-vende-reacondicionado-1000-euros-descuento-1397815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/macbook-pro-16-m2-max-analisis-opinion-3015976.jpg?tf=1200x' alt='El MacBook Pro de 16" con 16GB de RAM a precio de saldo: esta tienda lo vende reacondicionado con 1.000 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/advertencia-conocido-hacker-todos-utilizan-iptv-ver-futbol-gratis-pone-pelos-punta-1397825'>La advertencia de un conocido hacker a todos los que utilizan IPTV para ver el fútbol gratis: pone los pelos de punta</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/advertencia-conocido-hacker-todos-utilizan-iptv-ver-futbol-gratis-pone-pelos-punta-1397825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/advertencia-conocido-hacker-todos-utilizan-iptv-ver-futbol-gratis-pone-pelos-punta-3834169.jpg?tf=1200x' alt='La advertencia de un conocido hacker a todos los que utilizan IPTV para ver el fútbol gratis: pone los pelos de punta' />
     </a>
 </div>
 
