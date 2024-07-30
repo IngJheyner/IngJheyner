@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/llego-dia-microsoft-jubila-tienda-xbox-360-1397936'>Llegó el día: Microsoft jubila la tienda de Xbox 360</a></h4>
+    <a href='https://computerhoy.com/gaming/llego-dia-microsoft-jubila-tienda-xbox-360-1397936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tienda-xbox-360-3839105.jpg?tf=1200x' alt='Llegó el día: Microsoft jubila la tienda de Xbox 360' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/realme-tiene-todo-precio-locos-carga-120w-potente-procesador-1397860'>Este realme lo tiene todo, y a precio de locos: carga a 120W y un potente procesador</a></h4>
+    <a href='https://computerhoy.com/android/realme-tiene-todo-precio-locos-carga-120w-potente-procesador-1397860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/realme-gt6-3556329.jpg?tf=1200x' alt='Este realme lo tiene todo, y a precio de locos: carga a 120W y un potente procesador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/funcion-esperada-chrome-finalmente-solo-llegara-dispositivos-pantalla-tactil-1397930'>La función más esperada de Chrome finalmente solo llegará a dispositivos con pantalla táctil</a></h4>
     <a href='https://computerhoy.com/google/funcion-esperada-chrome-finalmente-solo-llegara-dispositivos-pantalla-tactil-1397930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ultima-funcion-chrome-llega-directa-movil-3838943.jpg?tf=1200x' alt='La función más esperada de Chrome finalmente solo llegará a dispositivos con pantalla táctil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-presenta-apple-intelligence-pero-solo-pocos-afortunados-iphone-15-pro-1397921'>Apple presenta Apple Intelligence pero solo para unos pocos afortunados con iPhone 15 Pro</a></h4>
     <a href='https://computerhoy.com/apple/apple-presenta-apple-intelligence-pero-solo-pocos-afortunados-iphone-15-pro-1397921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-intelligence-3488606.jpg?tf=1200x' alt='Apple presenta Apple Intelligence pero solo para unos pocos afortunados con iPhone 15 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/apagar-aire-acondicionado-dejarlo-encendido-ahorrar-1397746'>¿Qué es más barato dejar el aire acondicionado encendido todo el día o apagarlo y encenderlo?</a></h4>
-    <a href='https://computerhoy.com/life/apagar-aire-acondicionado-dejarlo-encendido-ahorrar-1397746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aire-acondicionado-3832821.jpg?tf=1200x' alt='¿Qué es más barato dejar el aire acondicionado encendido todo el día o apagarlo y encenderlo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-libera-iso-windows-11-24h2-instalaciones-limpias-1395800'>Microsoft libera la imagen ISO de Windows 11 24H2 para instalaciones limpias</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-libera-iso-windows-11-24h2-instalaciones-limpias-1395800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-actualizacion-3363140.jpg?tf=1200x' alt='Microsoft libera la imagen ISO de Windows 11 24H2 para instalaciones limpias' />
     </a>
 </div>
 
