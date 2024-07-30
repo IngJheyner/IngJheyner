@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estos-son-moviles-quedaran-whatsapp-partir-agosto-2024-1397988'>Estos son los móviles que se quedarán sin WhatsApp a partir de agosto de 2024</a></h4>
+    <a href='https://computerhoy.com/apps/estos-son-moviles-quedaran-whatsapp-partir-agosto-2024-1397988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estos-son-moviles-quedaran-whatsapp-partir-agosto-2024-3839854.jpg?tf=1200x' alt='Estos son los móviles que se quedarán sin WhatsApp a partir de agosto de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/tormenta-solar-dirige-tierra-podria-dejar-auroras-boreales-muchos-paises-1397974'>Una tormenta solar se dirige a la Tierra y podría dejar auroras boreales en muchos países</a></h4>
+    <a href='https://computerhoy.com/ciencia/tormenta-solar-dirige-tierra-podria-dejar-auroras-boreales-muchos-paises-1397974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tormenta-solar-dirige-tierra-podria-dejar-auroras-boreales-algunos-paises-3839557.jpg?tf=1200x' alt='Una tormenta solar se dirige a la Tierra y podría dejar auroras boreales en muchos países' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/tecnico-fuerza-aerea-estados-unidos-negocio-ilegal-inspiraron-steve-jobs-crear-apple-1397955'>Un técnico de la Fuerza Aérea de Estados Unidos y un negocio ilegal inspiraron a Steve Jobs a crear Apple</a></h4>
     <a href='https://computerhoy.com/apple/tecnico-fuerza-aerea-estados-unidos-negocio-ilegal-inspiraron-steve-jobs-crear-apple-1397955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steve-jobs-3280227.jpg?tf=1200x' alt='Un técnico de la Fuerza Aérea de Estados Unidos y un negocio ilegal inspiraron a Steve Jobs a crear Apple' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/google-maps-salarios-europa-1378163'>El Google Maps de la vergüenza para España: a mucha distancia, incluso de la media</a></h4>
     <a href='https://computerhoy.com/life/google-maps-salarios-europa-1378163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mapa-europa-3297379.jpg?tf=1200x' alt='El Google Maps de la vergüenza para España: a mucha distancia, incluso de la media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-direccion-email-whatsapp-deberias-hacerlo-1339882'>Cómo añadir tu dirección de email a WhatsApp y por qué deberías hacerlo ya</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-anadir-direccion-email-whatsapp-deberias-hacerlo-1339882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-anadir-direccion-email-whatsapp-deberias-hacerlo-3230504.jpg?tf=1200x' alt='Cómo añadir tu dirección de email a WhatsApp y por qué deberías hacerlo ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/llego-dia-microsoft-jubila-tienda-xbox-360-1397936'>Llegó el día: Microsoft jubila la tienda de Xbox 360</a></h4>
-    <a href='https://computerhoy.com/gaming/llego-dia-microsoft-jubila-tienda-xbox-360-1397936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tienda-xbox-360-3839105.jpg?tf=1200x' alt='Llegó el día: Microsoft jubila la tienda de Xbox 360' />
     </a>
 </div>
 
