@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/fire-tv-stick-rival-chino-amazon-mitad-precio-1397568'>Olvida los Fire TV Stick: Amazon tiene un rival en china, con Android y a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/android/fire-tv-stick-rival-chino-amazon-mitad-precio-1397568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stick-android-14-tv98-h618-3818282.jpg?tf=1200x' alt='Olvida los Fire TV Stick: Amazon tiene un rival en china, con Android y a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/sony-bravia-8-2024-analisis-opinion-1394645'>Tras semanas probando esta Sony Bravia 8 sigo pensando que el OLED de Sony es mejor que muchas QLED, pero las novedades se quedan cortas</a></h4>
+    <a href='https://computerhoy.com/analisis/sony-bravia-8-2024-analisis-opinion-1394645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sony-bravia-8-2024-65-pulgadas-3685116.jpg?tf=1200x' alt='Tras semanas probando esta Sony Bravia 8 sigo pensando que el OLED de Sony es mejor que muchas QLED, pero las novedades se quedan cortas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-whatsapp-business-whatsapp-normal-paso-paso-1396886'>Cómo convertir WhatsApp Business en WhatsApp normal, paso a paso</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-convertir-whatsapp-business-whatsapp-normal-paso-paso-1396886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-convertir-whatsapp-business-whatsapp-normal-paso-paso-3787776.jpg?tf=1200x' alt='Cómo convertir WhatsApp Business en WhatsApp normal, paso a paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/todos-pros-contras-usar-vpn-jugar-1397551'>Todos los pros y contras de usar una VPN para jugar</a></h4>
     <a href='https://computerhoy.com/gaming/todos-pros-contras-usar-vpn-jugar-1397551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/todos-pros-contras-usar-vpn-jugar-3820464.jpg?tf=1200x' alt='Todos los pros y contras de usar una VPN para jugar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tablet-xiaomi-rival-ipad-rebaja-aliexpress-1331912'>Xiaomi tiene una tablet rival del iPad, y ahora da la campanada con una rebaja ambiciosa</a></h4>
     <a href='https://computerhoy.com/tecnologia/tablet-xiaomi-rival-ipad-rebaja-aliexpress-1331912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-pad-6-3082048.jpg?tf=1200x' alt='Xiaomi tiene una tablet rival del iPad, y ahora da la campanada con una rebaja ambiciosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cuatro-montaneras-salvan-vida-gracias-llamada-emergencia-satelite-iphone-1397876'>Cuatro montañeras salvan la vida gracias a la llamada de emergencia vía satélite del iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/cuatro-montaneras-salvan-vida-gracias-llamada-emergencia-satelite-iphone-1397876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuatro-montaneras-salvan-vida-incendio-gracias-llamada-emergencia-satelite-iphone-3836772.jpg?tf=1200x' alt='Cuatro montañeras salvan la vida gracias a la llamada de emergencia vía satélite del iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/deadpool-lobezno-no-entran-top-estas-son-peliculas-mejor-valoradas-marvel-1397806'>Deadpool y Lobezno no entran en el “top”: estas son las películas mejor valoradas de Marvel</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/deadpool-lobezno-no-entran-top-estas-son-peliculas-mejor-valoradas-marvel-1397806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/deadpool-lobezno-no-entran-top-estas-son-peliculas-mejor-valoradas-marvel-3833401.jpg?tf=1200x' alt='Deadpool y Lobezno no entran en el “top”: estas son las películas mejor valoradas de Marvel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/boton-magico-mando-distancia-tv-te-salvara-vida-durante-jjoo-1397871'>El botón mágico del mando a distancia de TV que te salvará la vida durante los JJOO</a></h4>
-    <a href='https://computerhoy.com/tv/boton-magico-mando-distancia-tv-te-salvara-vida-durante-jjoo-1397871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-magico-mando-distancia-tv-te-salvara-vida-durante-jjoo-3836630.jpg?tf=1200x' alt='El botón mágico del mando a distancia de TV que te salvará la vida durante los JJOO' />
     </a>
 </div>
 
