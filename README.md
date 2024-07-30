@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/omegle-como-funciona-peligros-alternativas-cierre-1397826'>Omegle en 2024: qué es, cómo funciona, peligros y alternativas tras su cierre</a></h4>
+    <a href='https://computerhoy.com/apps/omegle-como-funciona-peligros-alternativas-cierre-1397826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/omegle-2619297.jpg?tf=1200x' alt='Omegle en 2024: qué es, cómo funciona, peligros y alternativas tras su cierre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/estos-son-moviles-quedaran-whatsapp-partir-agosto-2024-1397988'>Estos son los móviles que se quedarán sin WhatsApp a partir de agosto de 2024</a></h4>
     <a href='https://computerhoy.com/apps/estos-son-moviles-quedaran-whatsapp-partir-agosto-2024-1397988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estos-son-moviles-quedaran-whatsapp-partir-agosto-2024-3839854.jpg?tf=1200x' alt='Estos son los móviles que se quedarán sin WhatsApp a partir de agosto de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/intel-admite-fallos-cpu-13a-14a-generacion-pero-no-retira-mercado-1397957'>Intel admite fallos en sus CPU de 13ª y 14ª generación, pero no las retira del mercado</a></h4>
     <a href='https://computerhoy.com/pc/intel-admite-fallos-cpu-13a-14a-generacion-pero-no-retira-mercado-1397957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-2826177.jpg?tf=1200x' alt='Intel admite fallos en sus CPU de 13ª y 14ª generación, pero no las retira del mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/google-maps-salarios-europa-1378163'>El Google Maps de la vergüenza para España: a mucha distancia, incluso de la media</a></h4>
-    <a href='https://computerhoy.com/life/google-maps-salarios-europa-1378163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mapa-europa-3297379.jpg?tf=1200x' alt='El Google Maps de la vergüenza para España: a mucha distancia, incluso de la media' />
     </a>
 </div>
 
