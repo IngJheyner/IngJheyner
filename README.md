@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-presenta-apple-intelligence-pero-solo-pocos-afortunados-iphone-15-pro-1397921'>Apple presenta Apple Intelligence pero solo para unos pocos afortunados con iPhone 15 Pro</a></h4>
+    <a href='https://computerhoy.com/apple/apple-presenta-apple-intelligence-pero-solo-pocos-afortunados-iphone-15-pro-1397921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-intelligence-3488606.jpg?tf=1200x' alt='Apple presenta Apple Intelligence pero solo para unos pocos afortunados con iPhone 15 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/apagar-aire-acondicionado-dejarlo-encendido-ahorrar-1397746'>¿Qué es más barato dejar el aire acondicionado encendido todo el día o apagarlo y encenderlo?</a></h4>
+    <a href='https://computerhoy.com/life/apagar-aire-acondicionado-dejarlo-encendido-ahorrar-1397746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aire-acondicionado-3832821.jpg?tf=1200x' alt='¿Qué es más barato dejar el aire acondicionado encendido todo el día o apagarlo y encenderlo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-libera-iso-windows-11-24h2-instalaciones-limpias-1395800'>Microsoft libera la imagen ISO de Windows 11 24H2 para instalaciones limpias</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-libera-iso-windows-11-24h2-instalaciones-limpias-1395800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-actualizacion-3363140.jpg?tf=1200x' alt='Microsoft libera la imagen ISO de Windows 11 24H2 para instalaciones limpias' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/fire-tv-stick-rival-chino-amazon-mitad-precio-1397568'>Olvida los Fire TV Stick: Amazon tiene un rival en china, con Android y a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/android/fire-tv-stick-rival-chino-amazon-mitad-precio-1397568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stick-android-14-tv98-h618-3818282.jpg?tf=1200x' alt='Olvida los Fire TV Stick: Amazon tiene un rival en china, con Android y a mitad de precio' />
+    <h4><a href='https://computerhoy.com/android/falta-android-auto-ser-perfecto-ejemplo-estas-4-funciones-1397907'>¿Qué le falta a Android Auto para ser perfecto? Por ejemplo, estas 4 funciones</a></h4>
+    <a href='https://computerhoy.com/android/falta-android-auto-ser-perfecto-ejemplo-estas-4-funciones-1397907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/odie-android-auto-descubri-truco-fijar-aplicaciones-favoritas-3516391.jpg?tf=1200x' alt='¿Qué le falta a Android Auto para ser perfecto? Por ejemplo, estas 4 funciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mark-zuckerberg-tiene-claro-proximo-dispositivo-ia-llevaras-siempre-contigo-1397893'>Mark Zuckerberg lo tiene claro y este es el próximo dispositivo con IA que llevarás siempre contigo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mark-zuckerberg-tiene-claro-proximo-dispositivo-ia-llevaras-siempre-contigo-1397893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mark-zuckerberg-2867171.jpg?tf=1200x' alt='Mark Zuckerberg lo tiene claro y este es el próximo dispositivo con IA que llevarás siempre contigo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-app-deja-ser-compatible-estos-moviles-1397625'>Adiós a Android Auto: si tienes uno de estos móviles te quedarás sin acceso a las apps de Google en el coche</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-app-deja-ser-compatible-estos-moviles-1397625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funciones-clave-harian-android-auto-mejor-plataforma-conduccion-3765783.jpg?tf=1200x' alt='Adiós a Android Auto: si tienes uno de estos móviles te quedarás sin acceso a las apps de Google en el coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/uefi-como-compara-bios-ordenador-1340438'>UEFI: qué es, cómo se diferencia de la BIOS y por qué es importante para tu PC</a></h4>
-    <a href='https://computerhoy.com/tutoriales/uefi-como-compara-bios-ordenador-1340438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/uefi-como-diferencia-bios-importante-ordenador-3231408.jpg?tf=1200x' alt='UEFI: qué es, cómo se diferencia de la BIOS y por qué es importante para tu PC' />
+    <h4><a href='https://computerhoy.com/apps/instagram-copia-tiktok-permitira-crear-avatares-ia-cara-1397906'>Instagram se copia de TikTok y permitirá crear avatares de IA con tu cara</a></h4>
+    <a href='https://computerhoy.com/apps/instagram-copia-tiktok-permitira-crear-avatares-ia-cara-1397906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/instagram-copia-tiktok-permitira-crear-avatares-ia-cara-3838493.jpg?tf=1200x' alt='Instagram se copia de TikTok y permitirá crear avatares de IA con tu cara' />
     </a>
 </div>
 
