@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/aire-acondicionado-ventilador-invento-lidl-baja-temperatura-solo-13-euros-1397994'>Sin aire acondicionado o ventilador: el invento de Lidl que baja la temperatura por solo 13 euros</a></h4>
-    <a href='https://computerhoy.com/life/aire-acondicionado-ventilador-invento-lidl-baja-temperatura-solo-13-euros-1397994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lidl-logo-3662421.jpg?tf=1200x' alt='Sin aire acondicionado o ventilador: el invento de Lidl que baja la temperatura por solo 13 euros' />
+    <h4><a href='https://computerhoy.com/tutoriales/10-cosas-debes-hacer-despues-instalar-linux-1396409'>10 cosas que debes hacer después de instalar Linux</a></h4>
+    <a href='https://computerhoy.com/tutoriales/10-cosas-debes-hacer-despues-instalar-linux-1396409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-cosas-debes-hacer-despues-instalar-linux-3759237.jpg?tf=1200x' alt='10 cosas que debes hacer después de instalar Linux' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/puede-calor-extremo-perjudicar-bateria-movil-como-usar-cargador-evitarlo-1397687'>Así puede el calor extremo perjudicar a la batería de tu móvil (y cómo usar el cargador para evitarlo)</a></h4>
-    <a href='https://computerhoy.com/moviles/puede-calor-extremo-perjudicar-bateria-movil-como-usar-cargador-evitarlo-1397687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puede-calor-extremo-perjudicar-bateria-movil-como-usar-cargador-evitarlo-3831535.jpg?tf=1200x' alt='Así puede el calor extremo perjudicar a la batería de tu móvil (y cómo usar el cargador para evitarlo)' />
+    <h4><a href='https://computerhoy.com/hogar/aire-acondicionado-te-llega-manana-muy-barato-9000-btu-apenas-200-euros-1398007'>Este aire acondicionado te llega mañana y es muy barato: 9000 BTU por apenas 200 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/aire-acondicionado-te-llega-manana-muy-barato-9000-btu-apenas-200-euros-1398007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/comfee-breezy-cool-pro-26-3746515.jpg?tf=1200x' alt='Este aire acondicionado te llega mañana y es muy barato: 9000 BTU por apenas 200 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/omegle-como-funciona-peligros-alternativas-cierre-1397826'>Omegle en 2024: qué es, cómo funciona, peligros y alternativas tras su cierre</a></h4>
-    <a href='https://computerhoy.com/apps/omegle-como-funciona-peligros-alternativas-cierre-1397826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/omegle-2619297.jpg?tf=1200x' alt='Omegle en 2024: qué es, cómo funciona, peligros y alternativas tras su cierre' />
+    <h4><a href='https://computerhoy.com/google/google-maps-llega-justo-tiempo-mejora-funcion-clave-espana-1398035'>Google Maps llega justo a tiempo y mejora una función clave en España</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-llega-justo-tiempo-mejora-funcion-clave-espana-1398035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-llega-justo-tiempo-mejora-funcion-clave-espana-3841280.jpg?tf=1200x' alt='Google Maps llega justo a tiempo y mejora una función clave en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estos-son-moviles-quedaran-whatsapp-partir-agosto-2024-1397988'>Estos son los móviles que se quedarán sin WhatsApp a partir de agosto de 2024</a></h4>
-    <a href='https://computerhoy.com/apps/estos-son-moviles-quedaran-whatsapp-partir-agosto-2024-1397988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estos-son-moviles-quedaran-whatsapp-partir-agosto-2024-3839854.jpg?tf=1200x' alt='Estos son los móviles que se quedarán sin WhatsApp a partir de agosto de 2024' />
+    <h4><a href='https://computerhoy.com/tutoriales/genial-truco-convertir-pdf-word-cuenta-gmail-tener-descargar-nada-1397805'>El genial truco para convertir un PDF en Word con una cuenta de Gmail sin tener que descargar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/genial-truco-convertir-pdf-word-cuenta-gmail-tener-descargar-nada-1397805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pdf-word-gmail-3833399.jpg?tf=1200x' alt='El genial truco para convertir un PDF en Word con una cuenta de Gmail sin tener que descargar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tormenta-solar-dirige-tierra-podria-dejar-auroras-boreales-muchos-paises-1397974'>Una tormenta solar se dirige a la Tierra y podría dejar auroras boreales en muchos países</a></h4>
-    <a href='https://computerhoy.com/ciencia/tormenta-solar-dirige-tierra-podria-dejar-auroras-boreales-muchos-paises-1397974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tormenta-solar-dirige-tierra-podria-dejar-auroras-boreales-algunos-paises-3839557.jpg?tf=1200x' alt='Una tormenta solar se dirige a la Tierra y podría dejar auroras boreales en muchos países' />
+    <h4><a href='https://computerhoy.com/tutoriales/4-metodos-evitar-apps-rastreen-actividad-android-1341132'>4 métodos infalibles para evitar que las apps rastreen tu actividad en Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/4-metodos-evitar-apps-rastreen-actividad-android-1341132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/4-metodos-efectivos-evitar-apps-rastreen-actividad-android-3232780.jpg?tf=1200x' alt='4 métodos infalibles para evitar que las apps rastreen tu actividad en Android' />
     </a>
 </div>
 
