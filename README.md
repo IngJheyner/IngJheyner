@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tecnico-fuerza-aerea-estados-unidos-negocio-ilegal-inspiraron-steve-jobs-crear-apple-1397955'>Un técnico de la Fuerza Aérea de Estados Unidos y un negocio ilegal inspiraron a Steve Jobs a crear Apple</a></h4>
+    <a href='https://computerhoy.com/apple/tecnico-fuerza-aerea-estados-unidos-negocio-ilegal-inspiraron-steve-jobs-crear-apple-1397955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steve-jobs-3280227.jpg?tf=1200x' alt='Un técnico de la Fuerza Aérea de Estados Unidos y un negocio ilegal inspiraron a Steve Jobs a crear Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/intel-admite-fallos-cpu-13a-14a-generacion-pero-no-retira-mercado-1397957'>Intel admite fallos en sus CPU de 13ª y 14ª generación, pero no las retira del mercado</a></h4>
+    <a href='https://computerhoy.com/pc/intel-admite-fallos-cpu-13a-14a-generacion-pero-no-retira-mercado-1397957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-2826177.jpg?tf=1200x' alt='Intel admite fallos en sus CPU de 13ª y 14ª generación, pero no las retira del mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/google-maps-salarios-europa-1378163'>El Google Maps de la vergüenza para España: a mucha distancia, incluso de la media</a></h4>
+    <a href='https://computerhoy.com/life/google-maps-salarios-europa-1378163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mapa-europa-3297379.jpg?tf=1200x' alt='El Google Maps de la vergüenza para España: a mucha distancia, incluso de la media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-direccion-email-whatsapp-deberias-hacerlo-1339882'>Cómo añadir tu dirección de email a WhatsApp y por qué deberías hacerlo ya</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-anadir-direccion-email-whatsapp-deberias-hacerlo-1339882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-anadir-direccion-email-whatsapp-deberias-hacerlo-3230504.jpg?tf=1200x' alt='Cómo añadir tu dirección de email a WhatsApp y por qué deberías hacerlo ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/llego-dia-microsoft-jubila-tienda-xbox-360-1397936'>Llegó el día: Microsoft jubila la tienda de Xbox 360</a></h4>
     <a href='https://computerhoy.com/gaming/llego-dia-microsoft-jubila-tienda-xbox-360-1397936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tienda-xbox-360-3839105.jpg?tf=1200x' alt='Llegó el día: Microsoft jubila la tienda de Xbox 360' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/realme-tiene-todo-precio-locos-carga-120w-potente-procesador-1397860'>Este realme lo tiene todo, y a precio de locos: carga a 120W y un potente procesador</a></h4>
-    <a href='https://computerhoy.com/android/realme-tiene-todo-precio-locos-carga-120w-potente-procesador-1397860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/realme-gt6-3556329.jpg?tf=1200x' alt='Este realme lo tiene todo, y a precio de locos: carga a 120W y un potente procesador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/funcion-esperada-chrome-finalmente-solo-llegara-dispositivos-pantalla-tactil-1397930'>La función más esperada de Chrome finalmente solo llegará a dispositivos con pantalla táctil</a></h4>
-    <a href='https://computerhoy.com/google/funcion-esperada-chrome-finalmente-solo-llegara-dispositivos-pantalla-tactil-1397930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ultima-funcion-chrome-llega-directa-movil-3838943.jpg?tf=1200x' alt='La función más esperada de Chrome finalmente solo llegará a dispositivos con pantalla táctil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/domina-rutina-diaria-estos-10-trucos-alexa-amazon-echo-1339276'>Estos 10 trucos para Alexa y Amazon Echo cambiarán tu rutina diaria</a></h4>
-    <a href='https://computerhoy.com/tecnologia/domina-rutina-diaria-estos-10-trucos-alexa-amazon-echo-1339276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-echo-4-3229170.jpg?tf=1200x' alt='Estos 10 trucos para Alexa y Amazon Echo cambiarán tu rutina diaria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-presenta-apple-intelligence-pero-solo-pocos-afortunados-iphone-15-pro-1397921'>Apple presenta Apple Intelligence pero solo para unos pocos afortunados con iPhone 15 Pro</a></h4>
-    <a href='https://computerhoy.com/apple/apple-presenta-apple-intelligence-pero-solo-pocos-afortunados-iphone-15-pro-1397921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-intelligence-3488606.jpg?tf=1200x' alt='Apple presenta Apple Intelligence pero solo para unos pocos afortunados con iPhone 15 Pro' />
     </a>
 </div>
 
