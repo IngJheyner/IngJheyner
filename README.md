@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/razon-ni-stephen-king-ni-steven-spielberg-estan-preocupados-ia-1397703'>Esta es la razón por la que ni Stephen King ni Steven Spielberg están preocupados por la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/razon-ni-stephen-king-ni-steven-spielberg-estan-preocupados-ia-1397703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razon-ni-stephen-king-ni-steven-spielberg-estan-preocupados-ia-3831688.jpg?tf=1200x' alt='Esta es la razón por la que ni Stephen King ni Steven Spielberg están preocupados por la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-domotizar-casa-matter-1397784'>¿Cómo domotizar tu casa con Matter?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-domotizar-casa-matter-1397784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-wwdc-2022-matter-2722971.jpg?tf=1200x' alt='¿Cómo domotizar tu casa con Matter?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/sospecho-vecinos-estan-utilizando-mi-wifi-como-comprobar-verdad-solo-paranoia-1397877'>Sospecho que mis vecinos están utilizando mi WiFi: cómo comprobar si es verdad o solo una paranoia mía</a></h4>
+    <a href='https://computerhoy.com/redes/sospecho-vecinos-estan-utilizando-mi-wifi-como-comprobar-verdad-solo-paranoia-1397877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sospecho-vecinos-estan-utilizando-mi-wifi-como-comprobar-verdad-solo-paranoia-3837907.jpg?tf=1200x' alt='Sospecho que mis vecinos están utilizando mi WiFi: cómo comprobar si es verdad o solo una paranoia mía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/10-cosas-debes-hacer-despues-instalar-linux-1396409'>10 cosas que debes hacer después de instalar Linux</a></h4>
     <a href='https://computerhoy.com/tutoriales/10-cosas-debes-hacer-despues-instalar-linux-1396409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-cosas-debes-hacer-despues-instalar-linux-3759237.jpg?tf=1200x' alt='10 cosas que debes hacer después de instalar Linux' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/aire-acondicionado-te-llega-manana-muy-barato-9000-btu-apenas-200-euros-1398007'>Este aire acondicionado te llega mañana y es muy barato: 9000 BTU por apenas 200 euros</a></h4>
     <a href='https://computerhoy.com/hogar/aire-acondicionado-te-llega-manana-muy-barato-9000-btu-apenas-200-euros-1398007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/comfee-breezy-cool-pro-26-3746515.jpg?tf=1200x' alt='Este aire acondicionado te llega mañana y es muy barato: 9000 BTU por apenas 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-llega-justo-tiempo-mejora-funcion-clave-espana-1398035'>Google Maps llega justo a tiempo y mejora una función clave en España</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-llega-justo-tiempo-mejora-funcion-clave-espana-1398035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-llega-justo-tiempo-mejora-funcion-clave-espana-3841280.jpg?tf=1200x' alt='Google Maps llega justo a tiempo y mejora una función clave en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/genial-truco-convertir-pdf-word-cuenta-gmail-tener-descargar-nada-1397805'>El genial truco para convertir un PDF en Word con una cuenta de Gmail sin tener que descargar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/genial-truco-convertir-pdf-word-cuenta-gmail-tener-descargar-nada-1397805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/pdf-word-gmail-3833399.jpg?tf=1200x' alt='El genial truco para convertir un PDF en Word con una cuenta de Gmail sin tener que descargar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/4-metodos-evitar-apps-rastreen-actividad-android-1341132'>4 métodos infalibles para evitar que las apps rastreen tu actividad en Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/4-metodos-evitar-apps-rastreen-actividad-android-1341132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/4-metodos-efectivos-evitar-apps-rastreen-actividad-android-3232780.jpg?tf=1200x' alt='4 métodos infalibles para evitar que las apps rastreen tu actividad en Android' />
     </a>
 </div>
 
