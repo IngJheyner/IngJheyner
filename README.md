@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/descubrimiento-centro-datos-twitter-advertencia-elon-musk-1397888'>El curioso descubrimiento en un centro de datos de la vieja Twitter, y una advertencia para Elon Musk</a></h4>
-    <a href='https://computerhoy.com/tecnologia/descubrimiento-centro-datos-twitter-advertencia-elon-musk-1397888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/curioso-descubrimiento-centro-datos-vieja-twitter-advertencia-elon-musk-3837908.jpg?tf=1200x' alt='El curioso descubrimiento en un centro de datos de la vieja Twitter, y una advertencia para Elon Musk' />
+    <h4><a href='https://computerhoy.com/tecnologia/mark-zuckerberg-tiene-claro-proximo-dispositivo-ia-llevaras-siempre-contigo-1397893'>Mark Zuckerberg lo tiene claro y este es el próximo dispositivo con IA que llevarás siempre contigo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mark-zuckerberg-tiene-claro-proximo-dispositivo-ia-llevaras-siempre-contigo-1397893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mark-zuckerberg-2867171.jpg?tf=1200x' alt='Mark Zuckerberg lo tiene claro y este es el próximo dispositivo con IA que llevarás siempre contigo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/trucos-rapidos-bateria-portatil-windows-dure-1396410'>Trucos rápidos para que la batería de tu portátil Windows dure más</a></h4>
-    <a href='https://computerhoy.com/windows/trucos-rapidos-bateria-portatil-windows-dure-1396410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trucos-rapidos-bateria-portatil-windows-dure-3759663.jpg?tf=1200x' alt='Trucos rápidos para que la batería de tu portátil Windows dure más' />
+    <h4><a href='https://computerhoy.com/apps/android-auto-app-deja-ser-compatible-estos-moviles-1397625'>Adiós a Android Auto: si tienes uno de estos móviles te quedarás sin acceso a las apps de Google en el coche</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-app-deja-ser-compatible-estos-moviles-1397625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funciones-clave-harian-android-auto-mejor-plataforma-conduccion-3765783.jpg?tf=1200x' alt='Adiós a Android Auto: si tienes uno de estos móviles te quedarás sin acceso a las apps de Google en el coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatil-lenovo-ryzen-5-16gb-ram-oferta-amazon-1336016'>Vaya locura: este portátil Lenovo con Windows 11 y 16GB de RAM derriba su precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/pc/portatil-lenovo-ryzen-5-16gb-ram-oferta-amazon-1336016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lenovo-ideapad-1-gen-7-3225396.jpg?tf=1200x' alt='Vaya locura: este portátil Lenovo con Windows 11 y 16GB de RAM derriba su precio en Amazon' />
+    <h4><a href='https://computerhoy.com/tutoriales/uefi-como-compara-bios-ordenador-1340438'>UEFI: qué es, cómo se diferencia de la BIOS y por qué es importante para tu PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/uefi-como-compara-bios-ordenador-1340438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/uefi-como-diferencia-bios-importante-ordenador-3231408.jpg?tf=1200x' alt='UEFI: qué es, cómo se diferencia de la BIOS y por qué es importante para tu PC' />
     </a>
 </div>
 
