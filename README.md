@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/friend-ia-quiere-ser-amiga-intima-colgante-1398077'>Esta es Friend, Ia IA que quiere ser tu amiga íntima, y se lleva en un colgante</a></h4>
+    <a href='https://computerhoy.com/tecnologia/friend-ia-quiere-ser-amiga-intima-colgante-1398077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1722371556213-3842606.jpg?tf=1200x' alt='Esta es Friend, Ia IA que quiere ser tu amiga íntima, y se lleva en un colgante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/bandeja-gmail-llena-como-recuperar-15-gb-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-1398052'>¿Bandeja de Gmail llena? Cómo recuperar los 15 GB de almacenamiento gratis sin pagar ni perder un solo mensaje</a></h4>
+    <a href='https://computerhoy.com/tutoriales/bandeja-gmail-llena-como-recuperar-15-gb-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-1398052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bandeja-gmail-llena-como-recuperar-15-gb-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-3842749.jpg?tf=1200x' alt='¿Bandeja de Gmail llena? Cómo recuperar los 15 GB de almacenamiento gratis sin pagar ni perder un solo mensaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/magnus-guante-arduino-te-convertira-rey-fortnite-call-duty-1398071'>Magnus, el guante con Arduino que te convertirá en el rey de Fortnite y Call of Duty</a></h4>
     <a href='https://computerhoy.com/tecnologia/magnus-guante-arduino-te-convertira-rey-fortnite-call-duty-1398071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/magnus-guante-arduino-te-convertira-rey-fortnite-call-duty-3842153.jpg?tf=1200x' alt='Magnus, el guante con Arduino que te convertirá en el rey de Fortnite y Call of Duty' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/millones-usuarios-android-peligro-5-apps-play-store-han-ocultado-software-espia-durante-dos-anos-1398069'>Millones de usuarios de Android en peligro: 5 apps de la Play Store han ocultado un software espía durante dos años</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/millones-usuarios-android-peligro-5-apps-play-store-han-ocultado-software-espia-durante-dos-anos-1398069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-malware-3294180.jpg?tf=1200x' alt='Millones de usuarios de Android en peligro: 5 apps de la Play Store han ocultado un software espía durante dos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nueva-teoria-cientifica-afirma-somos-viejos-pensabamos-1398067'>Una nueva teoría científica afirma que somos más viejos de lo que pensábamos</a></h4>
-    <a href='https://computerhoy.com/ciencia/nueva-teoria-cientifica-afirma-somos-viejos-pensabamos-1398067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/origen-vida-compleja-3842029.jpg?tf=1200x' alt='Una nueva teoría científica afirma que somos más viejos de lo que pensábamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/razon-ni-stephen-king-ni-steven-spielberg-estan-preocupados-ia-1397703'>Esta es la razón por la que ni Stephen King ni Steven Spielberg están preocupados por la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/razon-ni-stephen-king-ni-steven-spielberg-estan-preocupados-ia-1397703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razon-ni-stephen-king-ni-steven-spielberg-estan-preocupados-ia-3831688.jpg?tf=1200x' alt='Esta es la razón por la que ni Stephen King ni Steven Spielberg están preocupados por la IA' />
     </a>
 </div>
 
