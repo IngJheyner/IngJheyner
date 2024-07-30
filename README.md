@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/boton-magico-mando-distancia-tv-te-salvara-vida-durante-jjoo-1397871'>El botón mágico del mando a distancia de TV que te salvará la vida durante los JJOO</a></h4>
+    <a href='https://computerhoy.com/tv/boton-magico-mando-distancia-tv-te-salvara-vida-durante-jjoo-1397871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-magico-mando-distancia-tv-te-salvara-vida-durante-jjoo-3836630.jpg?tf=1200x' alt='El botón mágico del mando a distancia de TV que te salvará la vida durante los JJOO' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-encuentra-nuevo-aliado-convierte-herramienta-aun-poderosa-1397857'>Flipper Zero encuentra un nuevo aliado y se convierte en una herramienta aún más poderosa</a></h4>
     <a href='https://computerhoy.com/tecnologia/flipper-zero-encuentra-nuevo-aliado-convierte-herramienta-aun-poderosa-1397857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/flipper-zero-encuentra-nuevo-aliado-convierte-herramienta-aun-poderosa-3835924.jpg?tf=1200x' alt='Flipper Zero encuentra un nuevo aliado y se convierte en una herramienta aún más poderosa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/tecnica-faraon-dormir-pierna-suelta-plena-ola-calor-aire-acondicionado-1397864'>La técnica del faraón para dormir a pierna suelta en plena ola de calor sin aire acondicionado</a></h4>
     <a href='https://computerhoy.com/life/tecnica-faraon-dormir-pierna-suelta-plena-ola-calor-aire-acondicionado-1397864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dormir-3835211.jpg?tf=1200x' alt='La técnica del faraón para dormir a pierna suelta en plena ola de calor sin aire acondicionado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/fallo-seguridad-google-workspace-expuso-miles-cuentas-manos-ciberdelincuentes-1397863'>Un fallo de seguridad de Google Workspace expuso miles de cuentas en manos de los ciberdelincuentes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/fallo-seguridad-google-workspace-expuso-miles-cuentas-manos-ciberdelincuentes-1397863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-workspace-3835210.jpg?tf=1200x' alt='Un fallo de seguridad de Google Workspace expuso miles de cuentas en manos de los ciberdelincuentes' />
     </a>
 </div>
 
