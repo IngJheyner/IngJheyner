@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/aire-acondicionado-ventilador-invento-lidl-baja-temperatura-solo-13-euros-1397994'>Sin aire acondicionado o ventilador: el invento de Lidl que baja la temperatura por solo 13 euros</a></h4>
+    <a href='https://computerhoy.com/life/aire-acondicionado-ventilador-invento-lidl-baja-temperatura-solo-13-euros-1397994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lidl-logo-3662421.jpg?tf=1200x' alt='Sin aire acondicionado o ventilador: el invento de Lidl que baja la temperatura por solo 13 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/puede-calor-extremo-perjudicar-bateria-movil-como-usar-cargador-evitarlo-1397687'>Así puede el calor extremo perjudicar a la batería de tu móvil (y cómo usar el cargador para evitarlo)</a></h4>
     <a href='https://computerhoy.com/moviles/puede-calor-extremo-perjudicar-bateria-movil-como-usar-cargador-evitarlo-1397687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puede-calor-extremo-perjudicar-bateria-movil-como-usar-cargador-evitarlo-3831535.jpg?tf=1200x' alt='Así puede el calor extremo perjudicar a la batería de tu móvil (y cómo usar el cargador para evitarlo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/tormenta-solar-dirige-tierra-podria-dejar-auroras-boreales-muchos-paises-1397974'>Una tormenta solar se dirige a la Tierra y podría dejar auroras boreales en muchos países</a></h4>
     <a href='https://computerhoy.com/ciencia/tormenta-solar-dirige-tierra-podria-dejar-auroras-boreales-muchos-paises-1397974' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tormenta-solar-dirige-tierra-podria-dejar-auroras-boreales-algunos-paises-3839557.jpg?tf=1200x' alt='Una tormenta solar se dirige a la Tierra y podría dejar auroras boreales en muchos países' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tecnico-fuerza-aerea-estados-unidos-negocio-ilegal-inspiraron-steve-jobs-crear-apple-1397955'>Un técnico de la Fuerza Aérea de Estados Unidos y un negocio ilegal inspiraron a Steve Jobs a crear Apple</a></h4>
-    <a href='https://computerhoy.com/apple/tecnico-fuerza-aerea-estados-unidos-negocio-ilegal-inspiraron-steve-jobs-crear-apple-1397955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steve-jobs-3280227.jpg?tf=1200x' alt='Un técnico de la Fuerza Aérea de Estados Unidos y un negocio ilegal inspiraron a Steve Jobs a crear Apple' />
     </a>
 </div>
 
