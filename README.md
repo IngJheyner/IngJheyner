@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/cuatro-montaneras-salvan-vida-gracias-llamada-emergencia-satelite-iphone-1397876'>Cuatro montañeras salvan la vida gracias a la llamada de emergencia vía satélite del iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/cuatro-montaneras-salvan-vida-gracias-llamada-emergencia-satelite-iphone-1397876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuatro-montaneras-salvan-vida-incendio-gracias-llamada-emergencia-satelite-iphone-3836772.jpg?tf=1200x' alt='Cuatro montañeras salvan la vida gracias a la llamada de emergencia vía satélite del iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/deadpool-lobezno-no-entran-top-estas-son-peliculas-mejor-valoradas-marvel-1397806'>Deadpool y Lobezno no entran en el “top”: estas son las películas mejor valoradas de Marvel</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/deadpool-lobezno-no-entran-top-estas-son-peliculas-mejor-valoradas-marvel-1397806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/deadpool-lobezno-no-entran-top-estas-son-peliculas-mejor-valoradas-marvel-3833401.jpg?tf=1200x' alt='Deadpool y Lobezno no entran en el “top”: estas son las películas mejor valoradas de Marvel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/boton-magico-mando-distancia-tv-te-salvara-vida-durante-jjoo-1397871'>El botón mágico del mando a distancia de TV que te salvará la vida durante los JJOO</a></h4>
     <a href='https://computerhoy.com/tv/boton-magico-mando-distancia-tv-te-salvara-vida-durante-jjoo-1397871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-magico-mando-distancia-tv-te-salvara-vida-durante-jjoo-3836630.jpg?tf=1200x' alt='El botón mágico del mando a distancia de TV que te salvará la vida durante los JJOO' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ratones-duren-siempre-objetivo-nueva-ceo-logitech-1397872'>Ratones que duren para siempre: el objetivo de la nueva CEO de Logitech</a></h4>
     <a href='https://computerhoy.com/tecnologia/ratones-duren-siempre-objetivo-nueva-ceo-logitech-1397872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ratones-duren-siempre-objetivo-nueva-ceo-logitech-3835498.jpg?tf=1200x' alt='Ratones que duren para siempre: el objetivo de la nueva CEO de Logitech' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/movistar-iptv-toda-nueva-temporada-futbol-20-descuento-1397867'>Movistar a por las IPTV: toda la nueva temporada de fútbol con más de un 20% de descuento</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/movistar-iptv-toda-nueva-temporada-futbol-20-descuento-1397867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movistar-plus-futbol-3835353.jpg?tf=1200x' alt='Movistar a por las IPTV: toda la nueva temporada de fútbol con más de un 20% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tecnica-faraon-dormir-pierna-suelta-plena-ola-calor-aire-acondicionado-1397864'>La técnica del faraón para dormir a pierna suelta en plena ola de calor sin aire acondicionado</a></h4>
-    <a href='https://computerhoy.com/life/tecnica-faraon-dormir-pierna-suelta-plena-ola-calor-aire-acondicionado-1397864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dormir-3835211.jpg?tf=1200x' alt='La técnica del faraón para dormir a pierna suelta en plena ola de calor sin aire acondicionado' />
     </a>
 </div>
 
