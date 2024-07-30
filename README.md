@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/todos-pros-contras-usar-vpn-jugar-1397551'>Todos los pros y contras de usar una VPN para jugar</a></h4>
+    <a href='https://computerhoy.com/gaming/todos-pros-contras-usar-vpn-jugar-1397551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/todos-pros-contras-usar-vpn-jugar-3820464.jpg?tf=1200x' alt='Todos los pros y contras de usar una VPN para jugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-xiaomi-rival-ipad-rebaja-aliexpress-1331912'>Xiaomi tiene una tablet rival del iPad, y ahora da la campanada con una rebaja ambiciosa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-xiaomi-rival-ipad-rebaja-aliexpress-1331912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-pad-6-3082048.jpg?tf=1200x' alt='Xiaomi tiene una tablet rival del iPad, y ahora da la campanada con una rebaja ambiciosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/cuatro-montaneras-salvan-vida-gracias-llamada-emergencia-satelite-iphone-1397876'>Cuatro montañeras salvan la vida gracias a la llamada de emergencia vía satélite del iPhone</a></h4>
     <a href='https://computerhoy.com/apple/cuatro-montaneras-salvan-vida-gracias-llamada-emergencia-satelite-iphone-1397876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cuatro-montaneras-salvan-vida-incendio-gracias-llamada-emergencia-satelite-iphone-3836772.jpg?tf=1200x' alt='Cuatro montañeras salvan la vida gracias a la llamada de emergencia vía satélite del iPhone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/boton-magico-mando-distancia-tv-te-salvara-vida-durante-jjoo-1397871'>El botón mágico del mando a distancia de TV que te salvará la vida durante los JJOO</a></h4>
     <a href='https://computerhoy.com/tv/boton-magico-mando-distancia-tv-te-salvara-vida-durante-jjoo-1397871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-magico-mando-distancia-tv-te-salvara-vida-durante-jjoo-3836630.jpg?tf=1200x' alt='El botón mágico del mando a distancia de TV que te salvará la vida durante los JJOO' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-encuentra-nuevo-aliado-convierte-herramienta-aun-poderosa-1397857'>Flipper Zero encuentra un nuevo aliado y se convierte en una herramienta aún más poderosa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flipper-zero-encuentra-nuevo-aliado-convierte-herramienta-aun-poderosa-1397857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/flipper-zero-encuentra-nuevo-aliado-convierte-herramienta-aun-poderosa-3835924.jpg?tf=1200x' alt='Flipper Zero encuentra un nuevo aliado y se convierte en una herramienta aún más poderosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ratones-duren-siempre-objetivo-nueva-ceo-logitech-1397872'>Ratones que duren para siempre: el objetivo de la nueva CEO de Logitech</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ratones-duren-siempre-objetivo-nueva-ceo-logitech-1397872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ratones-duren-siempre-objetivo-nueva-ceo-logitech-3835498.jpg?tf=1200x' alt='Ratones que duren para siempre: el objetivo de la nueva CEO de Logitech' />
     </a>
 </div>
 
