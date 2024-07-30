@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nueva-teoria-cientifica-afirma-somos-viejos-pensabamos-1398067'>Una nueva teoría científica afirma que somos más viejos de lo que pensábamos</a></h4>
+    <a href='https://computerhoy.com/ciencia/nueva-teoria-cientifica-afirma-somos-viejos-pensabamos-1398067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/origen-vida-compleja-3842029.jpg?tf=1200x' alt='Una nueva teoría científica afirma que somos más viejos de lo que pensábamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/razon-ni-stephen-king-ni-steven-spielberg-estan-preocupados-ia-1397703'>Esta es la razón por la que ni Stephen King ni Steven Spielberg están preocupados por la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/razon-ni-stephen-king-ni-steven-spielberg-estan-preocupados-ia-1397703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razon-ni-stephen-king-ni-steven-spielberg-estan-preocupados-ia-3831688.jpg?tf=1200x' alt='Esta es la razón por la que ni Stephen King ni Steven Spielberg están preocupados por la IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/10-cosas-debes-hacer-despues-instalar-linux-1396409'>10 cosas que debes hacer después de instalar Linux</a></h4>
     <a href='https://computerhoy.com/tutoriales/10-cosas-debes-hacer-despues-instalar-linux-1396409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-cosas-debes-hacer-despues-instalar-linux-3759237.jpg?tf=1200x' alt='10 cosas que debes hacer después de instalar Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/aire-acondicionado-te-llega-manana-muy-barato-9000-btu-apenas-200-euros-1398007'>Este aire acondicionado te llega mañana y es muy barato: 9000 BTU por apenas 200 euros</a></h4>
-    <a href='https://computerhoy.com/hogar/aire-acondicionado-te-llega-manana-muy-barato-9000-btu-apenas-200-euros-1398007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/comfee-breezy-cool-pro-26-3746515.jpg?tf=1200x' alt='Este aire acondicionado te llega mañana y es muy barato: 9000 BTU por apenas 200 euros' />
     </a>
 </div>
 
