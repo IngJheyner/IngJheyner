@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/puede-calor-extremo-perjudicar-bateria-movil-como-usar-cargador-evitarlo-1397687'>Así puede el calor extremo perjudicar a la batería de tu móvil (y cómo usar el cargador para evitarlo)</a></h4>
+    <a href='https://computerhoy.com/moviles/puede-calor-extremo-perjudicar-bateria-movil-como-usar-cargador-evitarlo-1397687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puede-calor-extremo-perjudicar-bateria-movil-como-usar-cargador-evitarlo-3831535.jpg?tf=1200x' alt='Así puede el calor extremo perjudicar a la batería de tu móvil (y cómo usar el cargador para evitarlo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/omegle-como-funciona-peligros-alternativas-cierre-1397826'>Omegle en 2024: qué es, cómo funciona, peligros y alternativas tras su cierre</a></h4>
     <a href='https://computerhoy.com/apps/omegle-como-funciona-peligros-alternativas-cierre-1397826' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/omegle-2619297.jpg?tf=1200x' alt='Omegle en 2024: qué es, cómo funciona, peligros y alternativas tras su cierre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/tecnico-fuerza-aerea-estados-unidos-negocio-ilegal-inspiraron-steve-jobs-crear-apple-1397955'>Un técnico de la Fuerza Aérea de Estados Unidos y un negocio ilegal inspiraron a Steve Jobs a crear Apple</a></h4>
     <a href='https://computerhoy.com/apple/tecnico-fuerza-aerea-estados-unidos-negocio-ilegal-inspiraron-steve-jobs-crear-apple-1397955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steve-jobs-3280227.jpg?tf=1200x' alt='Un técnico de la Fuerza Aérea de Estados Unidos y un negocio ilegal inspiraron a Steve Jobs a crear Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-admite-fallos-cpu-13a-14a-generacion-pero-no-retira-mercado-1397957'>Intel admite fallos en sus CPU de 13ª y 14ª generación, pero no las retira del mercado</a></h4>
-    <a href='https://computerhoy.com/pc/intel-admite-fallos-cpu-13a-14a-generacion-pero-no-retira-mercado-1397957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-2826177.jpg?tf=1200x' alt='Intel admite fallos en sus CPU de 13ª y 14ª generación, pero no las retira del mercado' />
     </a>
 </div>
 
