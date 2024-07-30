@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/funcion-esperada-chrome-finalmente-solo-llegara-dispositivos-pantalla-tactil-1397930'>La función más esperada de Chrome finalmente solo llegará a dispositivos con pantalla táctil</a></h4>
+    <a href='https://computerhoy.com/google/funcion-esperada-chrome-finalmente-solo-llegara-dispositivos-pantalla-tactil-1397930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ultima-funcion-chrome-llega-directa-movil-3838943.jpg?tf=1200x' alt='La función más esperada de Chrome finalmente solo llegará a dispositivos con pantalla táctil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/domina-rutina-diaria-estos-10-trucos-alexa-amazon-echo-1339276'>Estos 10 trucos para Alexa y Amazon Echo cambiarán tu rutina diaria</a></h4>
+    <a href='https://computerhoy.com/tecnologia/domina-rutina-diaria-estos-10-trucos-alexa-amazon-echo-1339276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-echo-4-3229170.jpg?tf=1200x' alt='Estos 10 trucos para Alexa y Amazon Echo cambiarán tu rutina diaria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-presenta-apple-intelligence-pero-solo-pocos-afortunados-iphone-15-pro-1397921'>Apple presenta Apple Intelligence pero solo para unos pocos afortunados con iPhone 15 Pro</a></h4>
     <a href='https://computerhoy.com/apple/apple-presenta-apple-intelligence-pero-solo-pocos-afortunados-iphone-15-pro-1397921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-intelligence-3488606.jpg?tf=1200x' alt='Apple presenta Apple Intelligence pero solo para unos pocos afortunados con iPhone 15 Pro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-libera-iso-windows-11-24h2-instalaciones-limpias-1395800'>Microsoft libera la imagen ISO de Windows 11 24H2 para instalaciones limpias</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-libera-iso-windows-11-24h2-instalaciones-limpias-1395800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-actualizacion-3363140.jpg?tf=1200x' alt='Microsoft libera la imagen ISO de Windows 11 24H2 para instalaciones limpias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/falta-android-auto-ser-perfecto-ejemplo-estas-4-funciones-1397907'>¿Qué le falta a Android Auto para ser perfecto? Por ejemplo, estas 4 funciones</a></h4>
-    <a href='https://computerhoy.com/android/falta-android-auto-ser-perfecto-ejemplo-estas-4-funciones-1397907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/odie-android-auto-descubri-truco-fijar-aplicaciones-favoritas-3516391.jpg?tf=1200x' alt='¿Qué le falta a Android Auto para ser perfecto? Por ejemplo, estas 4 funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/instagram-copia-tiktok-permitira-crear-avatares-ia-cara-1397906'>Instagram se copia de TikTok y permitirá crear avatares de IA con tu cara</a></h4>
-    <a href='https://computerhoy.com/apps/instagram-copia-tiktok-permitira-crear-avatares-ia-cara-1397906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/instagram-copia-tiktok-permitira-crear-avatares-ia-cara-3838493.jpg?tf=1200x' alt='Instagram se copia de TikTok y permitirá crear avatares de IA con tu cara' />
     </a>
 </div>
 
