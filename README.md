@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/sygic-recibe-brutal-actualizacion-deja-obsoletos-google-maps-waze-1398076'>Sygic recibe una brutal actualización que deja obsoletos a Google Maps y Waze</a></h4>
+    <a href='https://computerhoy.com/apps/sygic-recibe-brutal-actualizacion-deja-obsoletos-google-maps-waze-1398076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sygic-recibe-brutal-actualizacion-deja-obsoletos-google-maps-waze-3843037.jpg?tf=1200x' alt='Sygic recibe una brutal actualización que deja obsoletos a Google Maps y Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/friend-ia-quiere-ser-amiga-intima-colgante-1398077'>Esta es Friend, Ia IA que quiere ser tu amiga íntima, y se lleva en un colgante</a></h4>
     <a href='https://computerhoy.com/tecnologia/friend-ia-quiere-ser-amiga-intima-colgante-1398077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1722371556213-3842606.jpg?tf=1200x' alt='Esta es Friend, Ia IA que quiere ser tu amiga íntima, y se lleva en un colgante' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/jason-statham-dolph-lundgren-estrellas-accion-hollywood-han-participado-juegos-olimpicos-1398012'>De Jason Statham a Dolph Lundgren: estrellas de acción de Hollywood que han participado en los Juegos Olímpicos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/jason-statham-dolph-lundgren-estrellas-accion-hollywood-han-participado-juegos-olimpicos-1398012' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/jason-statham-dolph-lundgren-estrellas-accion-hollywood-han-participado-juegos-olimpicos-3840313.jpg?tf=1200x' alt='De Jason Statham a Dolph Lundgren: estrellas de acción de Hollywood que han participado en los Juegos Olímpicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/millones-usuarios-android-peligro-5-apps-play-store-han-ocultado-software-espia-durante-dos-anos-1398069'>Millones de usuarios de Android en peligro: 5 apps de la Play Store han ocultado un software espía durante dos años</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/millones-usuarios-android-peligro-5-apps-play-store-han-ocultado-software-espia-durante-dos-anos-1398069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-malware-3294180.jpg?tf=1200x' alt='Millones de usuarios de Android en peligro: 5 apps de la Play Store han ocultado un software espía durante dos años' />
     </a>
 </div>
 
