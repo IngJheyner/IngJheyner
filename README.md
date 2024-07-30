@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/magnus-guante-arduino-te-convertira-rey-fortnite-call-duty-1398071'>Magnus, el guante con Arduino que te convertirá en el rey de Fortnite y Call of Duty</a></h4>
+    <a href='https://computerhoy.com/tecnologia/magnus-guante-arduino-te-convertira-rey-fortnite-call-duty-1398071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/magnus-guante-arduino-te-convertira-rey-fortnite-call-duty-3842153.jpg?tf=1200x' alt='Magnus, el guante con Arduino que te convertirá en el rey de Fortnite y Call of Duty' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/jason-statham-dolph-lundgren-estrellas-accion-hollywood-han-participado-juegos-olimpicos-1398012'>De Jason Statham a Dolph Lundgren: estrellas de acción de Hollywood que han participado en los Juegos Olímpicos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/jason-statham-dolph-lundgren-estrellas-accion-hollywood-han-participado-juegos-olimpicos-1398012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/jason-statham-dolph-lundgren-estrellas-accion-hollywood-han-participado-juegos-olimpicos-3840313.jpg?tf=1200x' alt='De Jason Statham a Dolph Lundgren: estrellas de acción de Hollywood que han participado en los Juegos Olímpicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/millones-usuarios-android-peligro-5-apps-play-store-han-ocultado-software-espia-durante-dos-anos-1398069'>Millones de usuarios de Android en peligro: 5 apps de la Play Store han ocultado un software espía durante dos años</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/millones-usuarios-android-peligro-5-apps-play-store-han-ocultado-software-espia-durante-dos-anos-1398069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-malware-3294180.jpg?tf=1200x' alt='Millones de usuarios de Android en peligro: 5 apps de la Play Store han ocultado un software espía durante dos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/nueva-teoria-cientifica-afirma-somos-viejos-pensabamos-1398067'>Una nueva teoría científica afirma que somos más viejos de lo que pensábamos</a></h4>
     <a href='https://computerhoy.com/ciencia/nueva-teoria-cientifica-afirma-somos-viejos-pensabamos-1398067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/origen-vida-compleja-3842029.jpg?tf=1200x' alt='Una nueva teoría científica afirma que somos más viejos de lo que pensábamos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/razon-ni-stephen-king-ni-steven-spielberg-estan-preocupados-ia-1397703'>Esta es la razón por la que ni Stephen King ni Steven Spielberg están preocupados por la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/razon-ni-stephen-king-ni-steven-spielberg-estan-preocupados-ia-1397703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razon-ni-stephen-king-ni-steven-spielberg-estan-preocupados-ia-3831688.jpg?tf=1200x' alt='Esta es la razón por la que ni Stephen King ni Steven Spielberg están preocupados por la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-domotizar-casa-matter-1397784'>¿Cómo domotizar tu casa con Matter?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-domotizar-casa-matter-1397784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/apple-wwdc-2022-matter-2722971.jpg?tf=1200x' alt='¿Cómo domotizar tu casa con Matter?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/sospecho-vecinos-estan-utilizando-mi-wifi-como-comprobar-verdad-solo-paranoia-1397877'>Sospecho que mis vecinos están utilizando mi WiFi: cómo comprobar si es verdad o solo una paranoia mía</a></h4>
-    <a href='https://computerhoy.com/redes/sospecho-vecinos-estan-utilizando-mi-wifi-como-comprobar-verdad-solo-paranoia-1397877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sospecho-vecinos-estan-utilizando-mi-wifi-como-comprobar-verdad-solo-paranoia-3837907.jpg?tf=1200x' alt='Sospecho que mis vecinos están utilizando mi WiFi: cómo comprobar si es verdad o solo una paranoia mía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/10-cosas-debes-hacer-despues-instalar-linux-1396409'>10 cosas que debes hacer después de instalar Linux</a></h4>
-    <a href='https://computerhoy.com/tutoriales/10-cosas-debes-hacer-despues-instalar-linux-1396409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-cosas-debes-hacer-despues-instalar-linux-3759237.jpg?tf=1200x' alt='10 cosas que debes hacer después de instalar Linux' />
     </a>
 </div>
 
