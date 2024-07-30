@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-libera-iso-windows-11-24h2-instalaciones-limpias-1395800'>Microsoft libera la imagen ISO de Windows 11 24H2 para instalaciones limpias</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-libera-iso-windows-11-24h2-instalaciones-limpias-1395800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-actualizacion-3363140.jpg?tf=1200x' alt='Microsoft libera la imagen ISO de Windows 11 24H2 para instalaciones limpias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/fire-tv-stick-rival-chino-amazon-mitad-precio-1397568'>Olvida los Fire TV Stick: Amazon tiene un rival en china, con Android y a mitad de precio</a></h4>
     <a href='https://computerhoy.com/android/fire-tv-stick-rival-chino-amazon-mitad-precio-1397568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stick-android-14-tv98-h618-3818282.jpg?tf=1200x' alt='Olvida los Fire TV Stick: Amazon tiene un rival en china, con Android y a mitad de precio' />
@@ -58,33 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/sony-bravia-8-2024-analisis-opinion-1394645'>Tras semanas probando esta Sony Bravia 8 sigo pensando que el OLED de Sony es mejor que muchas QLED, pero las novedades se quedan cortas</a></h4>
-    <a href='https://computerhoy.com/analisis/sony-bravia-8-2024-analisis-opinion-1394645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sony-bravia-8-2024-65-pulgadas-3685116.jpg?tf=1200x' alt='Tras semanas probando esta Sony Bravia 8 sigo pensando que el OLED de Sony es mejor que muchas QLED, pero las novedades se quedan cortas' />
+    <h4><a href='https://computerhoy.com/tecnologia/descubrimiento-centro-datos-twitter-advertencia-elon-musk-1397888'>El curioso descubrimiento en un centro de datos de la vieja Twitter, y una advertencia para Elon Musk</a></h4>
+    <a href='https://computerhoy.com/tecnologia/descubrimiento-centro-datos-twitter-advertencia-elon-musk-1397888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/curioso-descubrimiento-centro-datos-vieja-twitter-advertencia-elon-musk-3837908.jpg?tf=1200x' alt='El curioso descubrimiento en un centro de datos de la vieja Twitter, y una advertencia para Elon Musk' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-whatsapp-business-whatsapp-normal-paso-paso-1396886'>Cómo convertir WhatsApp Business en WhatsApp normal, paso a paso</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-convertir-whatsapp-business-whatsapp-normal-paso-paso-1396886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-convertir-whatsapp-business-whatsapp-normal-paso-paso-3787776.jpg?tf=1200x' alt='Cómo convertir WhatsApp Business en WhatsApp normal, paso a paso' />
+    <h4><a href='https://computerhoy.com/windows/trucos-rapidos-bateria-portatil-windows-dure-1396410'>Trucos rápidos para que la batería de tu portátil Windows dure más</a></h4>
+    <a href='https://computerhoy.com/windows/trucos-rapidos-bateria-portatil-windows-dure-1396410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trucos-rapidos-bateria-portatil-windows-dure-3759663.jpg?tf=1200x' alt='Trucos rápidos para que la batería de tu portátil Windows dure más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/todos-pros-contras-usar-vpn-jugar-1397551'>Todos los pros y contras de usar una VPN para jugar</a></h4>
-    <a href='https://computerhoy.com/gaming/todos-pros-contras-usar-vpn-jugar-1397551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/todos-pros-contras-usar-vpn-jugar-3820464.jpg?tf=1200x' alt='Todos los pros y contras de usar una VPN para jugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-xiaomi-rival-ipad-rebaja-aliexpress-1331912'>Xiaomi tiene una tablet rival del iPad, y ahora da la campanada con una rebaja ambiciosa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-xiaomi-rival-ipad-rebaja-aliexpress-1331912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-pad-6-3082048.jpg?tf=1200x' alt='Xiaomi tiene una tablet rival del iPad, y ahora da la campanada con una rebaja ambiciosa' />
+    <h4><a href='https://computerhoy.com/pc/portatil-lenovo-ryzen-5-16gb-ram-oferta-amazon-1336016'>Vaya locura: este portátil Lenovo con Windows 11 y 16GB de RAM derriba su precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-lenovo-ryzen-5-16gb-ram-oferta-amazon-1336016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/lenovo-ideapad-1-gen-7-3225396.jpg?tf=1200x' alt='Vaya locura: este portátil Lenovo con Windows 11 y 16GB de RAM derriba su precio en Amazon' />
     </a>
 </div>
 
