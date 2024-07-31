@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/encuentran-tiburones-cocaina-oceano-atlantico-1398120'>Encuentran "tiburones de cocaína" en el océano Atlántico</a></h4>
+    <a href='https://computerhoy.com/ciencia/encuentran-tiburones-cocaina-oceano-atlantico-1398120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/encuentran-tiburones-cocaina-oceano-atlantico-3845455.jpg?tf=1200x' alt='Encuentran "tiburones de cocaína" en el océano Atlántico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/hackers-pueden-ver-pantalla-forma-inalambrica-traves-radiacion-hdmi-1398101'>Los hackers pueden ver tu pantalla de forma inalámbrica a través de la radiación del HDMI</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hackers-pueden-ver-pantalla-forma-inalambrica-traves-radiacion-hdmi-1398101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ciberseguridad-hacker-3845610.jpg?tf=1200x' alt='Los hackers pueden ver tu pantalla de forma inalámbrica a través de la radiación del HDMI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/firestick-alternativa-china-mitad-precio-1397568'>¿Firestick? Esta alternativa china cuesta la mitad y tiene Android</a></h4>
+    <a href='https://computerhoy.com/android/firestick-alternativa-china-mitad-precio-1397568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stick-android-14-tv98-h618-3818282.jpg?tf=1200x' alt='¿Firestick? Esta alternativa china cuesta la mitad y tiene Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/son-codigos-plus-google-maps-como-funcionan-ventajas-tienen-1328156'>Qué son los Códigos Plus de Google Maps, cómo funcionan y qué ventajas tienen</a></h4>
+    <a href='https://computerhoy.com/tutoriales/son-codigos-plus-google-maps-como-funcionan-ventajas-tienen-1328156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-maps-3060322.jpg?tf=1200x' alt='Qué son los Códigos Plus de Google Maps, cómo funcionan y qué ventajas tienen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/seguro-utilizar-vpn-gratuita-1396397'>¿Es seguro utilizar una VPN gratuita?</a></h4>
     <a href='https://computerhoy.com/apps/seguro-utilizar-vpn-gratuita-1396397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/alerta-apps-vpn-3757430.jpg?tf=1200x' alt='¿Es seguro utilizar una VPN gratuita?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-13t-pro-rebaja-aliexpress-1332456'>Carga flash a 120W y potencia a raudales: este Xiaomi rompe esquemas en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-13t-pro-rebaja-aliexpress-1332456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-13t-pro-3216318.jpg?tf=1200x' alt='Carga flash a 120W y potencia a raudales: este Xiaomi rompe esquemas en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/wikipedia-estrena-mayor-cambio-estetico-1398090'>La Wikipedia estrena su mayor cambio estético en 20 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/wikipedia-estrena-mayor-cambio-estetico-1398090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/wikipedia-estrena-mayor-cambio-estetico-20-anos-3844879.jpg?tf=1200x' alt='La Wikipedia estrena su mayor cambio estético en 20 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/microsoft-surface-laptop-7-gen-snapdragon-x-elite-analisis-opinion-1397733'>Microsoft ha creado, por fin, la alternativa al MacBook Air: Surface Laptop con Snapdragon X Elite cumple lo prometido</a></h4>
-    <a href='https://computerhoy.com/analisis/microsoft-surface-laptop-7-gen-snapdragon-x-elite-analisis-opinion-1397733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-surface-laptop-7-3832332.jpg?tf=1200x' alt='Microsoft ha creado, por fin, la alternativa al MacBook Air: Surface Laptop con Snapdragon X Elite cumple lo prometido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/waze-transformo-vida-pequeno-pueblo-infierno-14000-vehiculos-dia-1397945'>Waze transformó la vida de un pequeño pueblo en un infierno: “¡Hasta 14.000 vehículos por día!”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/waze-transformo-vida-pequeno-pueblo-infierno-14000-vehiculos-dia-1397945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/waze-3840465.jpg?tf=1200x' alt='Waze transformó la vida de un pequeño pueblo en un infierno: “¡Hasta 14.000 vehículos por día!”' />
     </a>
 </div>
 
