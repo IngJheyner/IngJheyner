@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/lg-myview-34sr65qc-monitor-smart-tv-1398275'>LG MyView 34SR65QC, el híbrido de monitor y Smart TV</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lg-myview-34sr65qc-monitor-smart-tv-1398275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lg-myview-34sr65qc-hibrido-monitor-smart-tv-pantalla-elimina-bandas-negras-3849492.jpg?tf=1200x' alt='LG MyView 34SR65QC, el híbrido de monitor y Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-advierte-millones-usuarios-windows-puedes-perder-todos-datos-1398271'>Microsoft advierte a millones de usuarios de Windows: puedes perder todos tus datos</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-advierte-millones-usuarios-windows-puedes-perder-todos-datos-1398271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/onedrive-windows-11-3849204.jpg?tf=1200x' alt='Microsoft advierte a millones de usuarios de Windows: puedes perder todos tus datos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-maps-estrena-impresionante-funcion-te-permite-viajar-pasado-1398268'>Google Maps estrena una impresionante función que te permite viajar al pasado</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-estrena-impresionante-funcion-te-permite-viajar-pasado-1398268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realidad-aumentada-google-maps-3849058.jpg?tf=1200x' alt='Google Maps estrena una impresionante función que te permite viajar al pasado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/fin-estafas-telefonicas-sms-internacionales-indeseados-nuevo-paquete-anti-spam-gobierno-1398266'>Fin a las estafas telefónicas y de los SMS internacionales indeseados: este es el nuevo paquete anti-spam del Gobierno</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/fin-estafas-telefonicas-sms-internacionales-indeseados-nuevo-paquete-anti-spam-gobierno-1398266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/phishing-3849057.jpg?tf=1200x' alt='Fin a las estafas telefónicas y de los SMS internacionales indeseados: este es el nuevo paquete anti-spam del Gobierno' />
     </a>
 </div>
 
