@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estas-son-todas-funciones-novedades-youtube-music-son-monton-1398109'>Estas son todas las funciones y novedades de YouTube Music (y son un montón)</a></h4>
+    <a href='https://computerhoy.com/apps/estas-son-todas-funciones-novedades-youtube-music-son-monton-1398109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estas-son-todas-funciones-ha-traido-youtube-music-marzo-3846076.jpg?tf=1200x' alt='Estas son todas las funciones y novedades de YouTube Music (y son un montón)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/8-trucazos-exprimir-maximo-ia-apple-1398187'>8 trucazos para exprimir al máximo la IA de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/8-trucazos-exprimir-maximo-ia-apple-1398187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-apple-3846069.jpg?tf=1200x' alt='8 trucazos para exprimir al máximo la IA de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/funcion-oculta-amazon-fire-tv-deberias-activar-1314618'>La función oculta del Amazon Fire TV que pocos conocen y que deberías activar ya</a></h4>
+    <a href='https://computerhoy.com/tutoriales/funcion-oculta-amazon-fire-tv-deberias-activar-1314618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funcion-oculta-amazon-fire-tv-pocos-conocen-deberias-activar-ahora-mismo-3185522.jpg?tf=1200x' alt='La función oculta del Amazon Fire TV que pocos conocen y que deberías activar ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/qualcomm-ha-presentado-snapdragon-4s-gen-2-acercara-5g-moviles-baratos-1398145'>Qualcomm ha presentado el Snapdragon 4s Gen 2 con el que acercará el 5G a los móviles baratos</a></h4>
     <a href='https://computerhoy.com/tecnologia/qualcomm-ha-presentado-snapdragon-4s-gen-2-acercara-5g-moviles-baratos-1398145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/qualcomm-ha-presentado-snapdragon-4s-gen-2-acercara-5g-moviles-baratos-3846070.jpg?tf=1200x' alt='Qualcomm ha presentado el Snapdragon 4s Gen 2 con el que acercará el 5G a los móviles baratos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/donde-comprar-flipper-zero-tamagotchi-hackers-alla-amazon-1398133'>Dónde comprar Flipper Zero, el Tamagotchi de los hackers, más allá de Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/donde-comprar-flipper-zero-tamagotchi-hackers-alla-amazon-1398133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-3588630.jpg?tf=1200x' alt='Dónde comprar Flipper Zero, el Tamagotchi de los hackers, más allá de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/significado-puntos-waze-1396320'>¿Qué son y para qué sirven los puntos de Waze?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/significado-puntos-waze-1396320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puntos-waze-app-3755015.jpg?tf=1200x' alt='¿Qué son y para qué sirven los puntos de Waze?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/resuelven-misterio-antiguas-piramides-egipto-despues-4500-anos-1397803'>Resuelven un misterio de las antiguas pirámides de Egipto después de 4.500 años</a></h4>
-    <a href='https://computerhoy.com/life/resuelven-misterio-antiguas-piramides-egipto-despues-4500-anos-1397803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/resuelven-misterio-antiguas-piramides-egipto-despues-4500-anos-3833849.jpg?tf=1200x' alt='Resuelven un misterio de las antiguas pirámides de Egipto después de 4.500 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nothing-phone-2a-plus-potencia-nuevos-colores-mantienen-esencia-marca-1398010'>Así es el Nothing Phone (2a) Plus: más potencia y nuevos colores que mantienen la esencia de la marca</a></h4>
-    <a href='https://computerhoy.com/moviles/nothing-phone-2a-plus-potencia-nuevos-colores-mantienen-esencia-marca-1398010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nothing-phone-2a-plus-3840636.jpg?tf=1200x' alt='Así es el Nothing Phone (2a) Plus: más potencia y nuevos colores que mantienen la esencia de la marca' />
     </a>
 </div>
 
