@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-estrena-impresionante-funcion-te-permite-viajar-pasado-1398268'>Google Maps estrena una impresionante función que te permite viajar al pasado</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-estrena-impresionante-funcion-te-permite-viajar-pasado-1398268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realidad-aumentada-google-maps-3849058.jpg?tf=1200x' alt='Google Maps estrena una impresionante función que te permite viajar al pasado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/fin-estafas-telefonicas-sms-internacionales-indeseados-nuevo-paquete-anti-spam-gobierno-1398266'>Fin a las estafas telefónicas y de los SMS internacionales indeseados: este es el nuevo paquete anti-spam del Gobierno</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/fin-estafas-telefonicas-sms-internacionales-indeseados-nuevo-paquete-anti-spam-gobierno-1398266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/phishing-3849057.jpg?tf=1200x' alt='Fin a las estafas telefónicas y de los SMS internacionales indeseados: este es el nuevo paquete anti-spam del Gobierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/iptv-amazon-fire-tv-combo-todo-gratis-hace-temblar-operadoras-1398249'>IPTV + Amazon Fire TV, el combo del todo gratis que hace temblar a las operadoras</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iptv-amazon-fire-tv-combo-todo-gratis-hace-temblar-operadoras-1398249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iptv-amazon-fire-tv-combo-todo-gratis-hace-temblar-operadoras-3848912.jpg?tf=1200x' alt='IPTV + Amazon Fire TV, el combo del todo gratis que hace temblar a las operadoras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-crear-propio-sistema-vigilancia-hogar-raspberry-pi-1398086'>Cómo crear tu propio sistema de vigilancia para el hogar con una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-crear-propio-sistema-vigilancia-hogar-raspberry-pi-1398086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-crear-propio-sistema-vigilancia-hogar-raspberry-pi-3845024.jpg?tf=1200x' alt='Cómo crear tu propio sistema de vigilancia para el hogar con una Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/sorprendente-pelicula-dracula-llega-amazon-prime-video-perfecta-adelantarte-estreno-nosferatu-1394808'>La sorprendente película de Drácula que llega a Amazon Prime Video, y es perfecta para adelantarte al estreno de Nosferatu</a></h4>
     <a href='https://computerhoy.com/entretenimiento/sorprendente-pelicula-dracula-llega-amazon-prime-video-perfecta-adelantarte-estreno-nosferatu-1394808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sorprendente-pelicula-dracula-llega-amazon-prime-video-perfecta-adelantarte-estreno-nosferatu-3691115.jpg?tf=1200x' alt='La sorprendente película de Drácula que llega a Amazon Prime Video, y es perfecta para adelantarte al estreno de Nosferatu' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-truco-modo-secreto-aire-acondicionado-ahorrar-factura-pasar-calor-1398130'>No es un truco: esto es el modo secreto del aire acondicionado para ahorrar en la factura sin pasar calor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-truco-modo-secreto-aire-acondicionado-ahorrar-factura-pasar-calor-1398130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aire-acondicionado-3847036.jpg?tf=1200x' alt='No es un truco: esto es el modo secreto del aire acondicionado para ahorrar en la factura sin pasar calor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/escucha-conversaciones-movil-son-paranoias-1398234'>¿Escucha tus conversaciones el móvil o son paranoias tuyas?</a></h4>
-    <a href='https://computerhoy.com/moviles/escucha-conversaciones-movil-son-paranoias-1398234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/escucha-conversaciones-movil-son-paranoias-3848153.jpg?tf=1200x' alt='¿Escucha tus conversaciones el móvil o son paranoias tuyas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/fin-boom-freidoras-aire-ordenan-retirada-miles-unidades-1398176'>¿Fin del boom de las freidoras de aire? Ordenan la retirada de miles de unidades</a></h4>
-    <a href='https://computerhoy.com/hogar/fin-boom-freidoras-aire-ordenan-retirada-miles-unidades-1398176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fin-boom-freidoras-aire-3847039.jpg?tf=1200x' alt='¿Fin del boom de las freidoras de aire? Ordenan la retirada de miles de unidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejor-vpn-gratis-ocultar-ip-1319306'>Las mejores VPN gratis: cómo ocultar tu IP o simular que te conectas desde otro país</a></h4>
-    <a href='https://computerhoy.com/internet/mejor-vpn-gratis-ocultar-ip-1319306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/evita-conectarte-cualquier-estos-paises-cuando-uses-vpn-no-quieres-tener-problemas-2881283.jpg?tf=1200x' alt='Las mejores VPN gratis: cómo ocultar tu IP o simular que te conectas desde otro país' />
     </a>
 </div>
 
