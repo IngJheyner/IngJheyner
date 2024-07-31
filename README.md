@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-steve-jobs-iphone-mac-tim-cook-1397973'>Apple: Steve Jobs, iPhone, Mac y más de la actual gran compañía de Tim Cook</a></h4>
+    <a href='https://computerhoy.com/apple/apple-steve-jobs-iphone-mac-tim-cook-1397973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-3482197.jpg?tf=1200x' alt='Apple: Steve Jobs, iPhone, Mac y más de la actual gran compañía de Tim Cook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/raspberry-pi-vs-banana-pi-diferencias-1397828'>Raspberry Pi vs. Banana Pi: diferencias y cuál es mejor para ti</a></h4>
     <a href='https://computerhoy.com/pc/raspberry-pi-vs-banana-pi-diferencias-1397828' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/banana-pi-3846992.jpg?tf=1200x' alt='Raspberry Pi vs. Banana Pi: diferencias y cuál es mejor para ti' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/estas-son-todas-funciones-novedades-youtube-music-son-monton-1398109'>Estas son todas las funciones y novedades de YouTube Music (y son un montón)</a></h4>
     <a href='https://computerhoy.com/apps/estas-son-todas-funciones-novedades-youtube-music-son-monton-1398109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estas-son-todas-funciones-ha-traido-youtube-music-marzo-3846076.jpg?tf=1200x' alt='Estas son todas las funciones y novedades de YouTube Music (y son un montón)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/8-trucazos-exprimir-maximo-ia-apple-1398187'>8 trucazos para exprimir al máximo la IA de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/8-trucazos-exprimir-maximo-ia-apple-1398187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-apple-3846069.jpg?tf=1200x' alt='8 trucazos para exprimir al máximo la IA de Apple' />
     </a>
 </div>
 
