@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/encuentran-tiburones-cocaina-oceano-atlantico-1398120'>Encuentran "tiburones de cocaína" en el océano Atlántico</a></h4>
-    <a href='https://computerhoy.com/ciencia/encuentran-tiburones-cocaina-oceano-atlantico-1398120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/encuentran-tiburones-cocaina-oceano-atlantico-3845455.jpg?tf=1200x' alt='Encuentran "tiburones de cocaína" en el océano Atlántico' />
+    <h4><a href='https://computerhoy.com/moviles/como-tener-datos-aglomeraciones-zonas-poca-cobertura-1331328'>Cómo tener datos en tu móvil en aglomeraciones y zonas con poca cobertura</a></h4>
+    <a href='https://computerhoy.com/moviles/como-tener-datos-aglomeraciones-zonas-poca-cobertura-1331328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-comprobar-cobertura-real-movil-android-iphone-rapidamente-2887536.jpg?tf=1200x' alt='Cómo tener datos en tu móvil en aglomeraciones y zonas con poca cobertura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hackers-pueden-ver-pantalla-forma-inalambrica-traves-radiacion-hdmi-1398101'>Los hackers pueden ver tu pantalla de forma inalámbrica a través de la radiación del HDMI</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hackers-pueden-ver-pantalla-forma-inalambrica-traves-radiacion-hdmi-1398101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ciberseguridad-hacker-3845610.jpg?tf=1200x' alt='Los hackers pueden ver tu pantalla de forma inalámbrica a través de la radiación del HDMI' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-alternativas-flipper-zero-tamagotchi-hackers-1319840'>Las mejores alternativas a Flipper Zero, el dispositivo para hackers más popular</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-alternativas-flipper-zero-tamagotchi-hackers-1319840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/flipper-zero-3017058.jpg?tf=1200x' alt='Las mejores alternativas a Flipper Zero, el dispositivo para hackers más popular' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/firestick-alternativa-china-mitad-precio-1397568'>¿Firestick? Esta alternativa china cuesta la mitad y tiene Android</a></h4>
-    <a href='https://computerhoy.com/android/firestick-alternativa-china-mitad-precio-1397568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stick-android-14-tv98-h618-3818282.jpg?tf=1200x' alt='¿Firestick? Esta alternativa china cuesta la mitad y tiene Android' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-enciende-alarmas-numero-telefono-1398108'>La Policía enciende las alarmas sobre este número de teléfono</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-enciende-alarmas-numero-telefono-1398108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/alerta-policia-llamadas-3845914.jpg?tf=1200x' alt='La Policía enciende las alarmas sobre este número de teléfono' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/son-codigos-plus-google-maps-como-funcionan-ventajas-tienen-1328156'>Qué son los Códigos Plus de Google Maps, cómo funcionan y qué ventajas tienen</a></h4>
-    <a href='https://computerhoy.com/tutoriales/son-codigos-plus-google-maps-como-funcionan-ventajas-tienen-1328156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/google-maps-3060322.jpg?tf=1200x' alt='Qué son los Códigos Plus de Google Maps, cómo funcionan y qué ventajas tienen' />
+    <h4><a href='https://computerhoy.com/industria/empresa-jaen-metodo-revolucionario-impresion-3d-1270186'>El invento español que desde Jaén ha revolucionado la industria militar: ya lo usa el ejército de EEUU</a></h4>
+    <a href='https://computerhoy.com/industria/empresa-jaen-metodo-revolucionario-impresion-3d-1270186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/meltio-impresion-3d-jaen-tecnologia-revolucionaria-3085722.jpg?tf=1200x' alt='El invento español que desde Jaén ha revolucionado la industria militar: ya lo usa el ejército de EEUU' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/seguro-utilizar-vpn-gratuita-1396397'>¿Es seguro utilizar una VPN gratuita?</a></h4>
-    <a href='https://computerhoy.com/apps/seguro-utilizar-vpn-gratuita-1396397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/alerta-apps-vpn-3757430.jpg?tf=1200x' alt='¿Es seguro utilizar una VPN gratuita?' />
+    <h4><a href='https://computerhoy.com/apple/iphone-16-vuelve-pasado-hara-cambios-camara-todos-modelos-rumores-1398114'>El iPhone 16 vuelve al pasado y hará cambios en la cámara de todos sus modelos, según rumores</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-16-vuelve-pasado-hara-cambios-camara-todos-modelos-rumores-1398114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iphone-16-rumores-camara-3845612.jpg?tf=1200x' alt='El iPhone 16 vuelve al pasado y hará cambios en la cámara de todos sus modelos, según rumores' />
     </a>
 </div>
 
