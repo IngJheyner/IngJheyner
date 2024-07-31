@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/tienes-olvidado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-1398265'>Lo tienes olvidado en un cajón sin usar y puede convertirse en el mejor repetidor WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/tienes-olvidado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-1398265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-olvidado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-3850209.jpg?tf=1200x' alt='Lo tienes olvidado en un cajón sin usar y puede convertirse en el mejor repetidor WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/movil-android-tiene-nueva-forma-detectar-imagen-ha-sido-creada-ia-1398278'>Tu móvil Android tiene una nueva forma de detectar si una imagen ha sido creada con IA</a></h4>
+    <a href='https://computerhoy.com/google/movil-android-tiene-nueva-forma-detectar-imagen-ha-sido-creada-ia-1398278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movil-android-tiene-nueva-forma-detectar-imagen-ha-sido-creada-ia-3849920.jpg?tf=1200x' alt='Tu móvil Android tiene una nueva forma de detectar si una imagen ha sido creada con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/lg-myview-34sr65qc-monitor-smart-tv-1398275'>LG MyView 34SR65QC, el híbrido de monitor y Smart TV</a></h4>
     <a href='https://computerhoy.com/tecnologia/lg-myview-34sr65qc-monitor-smart-tv-1398275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lg-myview-34sr65qc-hibrido-monitor-smart-tv-pantalla-elimina-bandas-negras-3849492.jpg?tf=1200x' alt='LG MyView 34SR65QC, el híbrido de monitor y Smart TV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ia-meta-dice-atentado-donald-trump-no-existio-mete-lio-1398270'>La IA de Meta dice que el atentado contra Donald Trump no existió, y se mete en un lío</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-meta-dice-atentado-donald-trump-no-existio-mete-lio-1398270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ia-meta-dice-atentado-donald-trump-no-existio-mete-lio-3848760.jpg?tf=1200x' alt='La IA de Meta dice que el atentado contra Donald Trump no existió, y se mete en un lío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/truco-google-maps-evitar-trafico-viajes-no-encontraras-waze-apple-maps-1398084'>El truco de Google Maps para evitar el tráfico en tus viajes que no encontrarás en Waze o Apple Maps</a></h4>
-    <a href='https://computerhoy.com/google/truco-google-maps-evitar-trafico-viajes-no-encontraras-waze-apple-maps-1398084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/truco-google-maps-evitar-trafico-viajes-no-encontraras-waze-apple-maps-3844736.jpg?tf=1200x' alt='El truco de Google Maps para evitar el tráfico en tus viajes que no encontrarás en Waze o Apple Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-estrena-impresionante-funcion-te-permite-viajar-pasado-1398268'>Google Maps estrena una impresionante función que te permite viajar al pasado</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-estrena-impresionante-funcion-te-permite-viajar-pasado-1398268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realidad-aumentada-google-maps-3849058.jpg?tf=1200x' alt='Google Maps estrena una impresionante función que te permite viajar al pasado' />
     </a>
 </div>
 
