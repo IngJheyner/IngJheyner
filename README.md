@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-tiene-voz-1398085'>ChatGPT ya puede hablar contigo, y su voz no se parece a Scarlett Johansson</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-tiene-voz-1398085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-ya-puede-hablar-contigo-voz-no-parece-scarlett-johansson-3843462.jpg?tf=1200x' alt='ChatGPT ya puede hablar contigo, y su voz no se parece a Scarlett Johansson' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-increible-oxigeno-oscuro-4000-metros-nivel-mar-1397963'>Los científicos descubren el increíble “oxígeno oscuro” a 4.000 metros bajo el nivel del mar</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-descubren-increible-oxigeno-oscuro-4000-metros-nivel-mar-1397963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fondo-marino-3839705.jpg?tf=1200x' alt='Los científicos descubren el increíble “oxígeno oscuro” a 4.000 metros bajo el nivel del mar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/friend-ia-quiere-ser-amiga-intima-colgante-1398077'>Esta es Friend, Ia IA que quiere ser tu amiga íntima, y se lleva en un colgante</a></h4>
     <a href='https://computerhoy.com/tecnologia/friend-ia-quiere-ser-amiga-intima-colgante-1398077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/verticalimage1722371556213-3842606.jpg?tf=1200x' alt='Esta es Friend, Ia IA que quiere ser tu amiga íntima, y se lleva en un colgante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/bandeja-gmail-llena-como-recuperar-15-gb-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-1398052'>¿Bandeja de Gmail llena? Cómo recuperar los 15 GB de almacenamiento gratis sin pagar ni perder un solo mensaje</a></h4>
-    <a href='https://computerhoy.com/tutoriales/bandeja-gmail-llena-como-recuperar-15-gb-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-1398052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bandeja-gmail-llena-como-recuperar-15-gb-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-3842749.jpg?tf=1200x' alt='¿Bandeja de Gmail llena? Cómo recuperar los 15 GB de almacenamiento gratis sin pagar ni perder un solo mensaje' />
     </a>
 </div>
 
