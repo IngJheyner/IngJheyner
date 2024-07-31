@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/escucha-conversaciones-movil-son-paranoias-1398234'>¿Escucha tus conversaciones el móvil o son paranoias tuyas?</a></h4>
+    <a href='https://computerhoy.com/moviles/escucha-conversaciones-movil-son-paranoias-1398234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/escucha-conversaciones-movil-son-paranoias-3848153.jpg?tf=1200x' alt='¿Escucha tus conversaciones el móvil o son paranoias tuyas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/fin-boom-freidoras-aire-ordenan-retirada-miles-unidades-1398176'>¿Fin del boom de las freidoras de aire? Ordenan la retirada de miles de unidades</a></h4>
+    <a href='https://computerhoy.com/hogar/fin-boom-freidoras-aire-ordenan-retirada-miles-unidades-1398176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fin-boom-freidoras-aire-3847039.jpg?tf=1200x' alt='¿Fin del boom de las freidoras de aire? Ordenan la retirada de miles de unidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/mejor-vpn-gratis-ocultar-ip-1319306'>Las mejores VPN gratis: cómo ocultar tu IP o simular que te conectas desde otro país</a></h4>
     <a href='https://computerhoy.com/internet/mejor-vpn-gratis-ocultar-ip-1319306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/evita-conectarte-cualquier-estos-paises-cuando-uses-vpn-no-quieres-tener-problemas-2881283.jpg?tf=1200x' alt='Las mejores VPN gratis: cómo ocultar tu IP o simular que te conectas desde otro país' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-usar-picuki-seguro-instagram-1398166'>¿Cómo usar Picuki y si es seguro para Instagram?</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-usar-picuki-seguro-instagram-1398166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/picuki-3846708.jpg?tf=1200x' alt='¿Cómo usar Picuki y si es seguro para Instagram?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-steve-jobs-iphone-mac-tim-cook-1397973'>Apple: Steve Jobs, iPhone, Mac y más de la actual gran compañía de Tim Cook</a></h4>
-    <a href='https://computerhoy.com/apple/apple-steve-jobs-iphone-mac-tim-cook-1397973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-3482197.jpg?tf=1200x' alt='Apple: Steve Jobs, iPhone, Mac y más de la actual gran compañía de Tim Cook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/raspberry-pi-vs-banana-pi-diferencias-1397828'>Raspberry Pi vs. Banana Pi: diferencias y cuál es mejor para ti</a></h4>
-    <a href='https://computerhoy.com/pc/raspberry-pi-vs-banana-pi-diferencias-1397828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/banana-pi-3846992.jpg?tf=1200x' alt='Raspberry Pi vs. Banana Pi: diferencias y cuál es mejor para ti' />
     </a>
 </div>
 
