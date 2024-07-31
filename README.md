@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/qualcomm-ha-presentado-snapdragon-4s-gen-2-acercara-5g-moviles-baratos-1398145'>Qualcomm ha presentado el Snapdragon 4s Gen 2 con el que acercará el 5G a los móviles baratos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/qualcomm-ha-presentado-snapdragon-4s-gen-2-acercara-5g-moviles-baratos-1398145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/qualcomm-ha-presentado-snapdragon-4s-gen-2-acercara-5g-moviles-baratos-3846070.jpg?tf=1200x' alt='Qualcomm ha presentado el Snapdragon 4s Gen 2 con el que acercará el 5G a los móviles baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/donde-comprar-flipper-zero-tamagotchi-hackers-alla-amazon-1398133'>Dónde comprar Flipper Zero, el Tamagotchi de los hackers, más allá de Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/donde-comprar-flipper-zero-tamagotchi-hackers-alla-amazon-1398133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-3588630.jpg?tf=1200x' alt='Dónde comprar Flipper Zero, el Tamagotchi de los hackers, más allá de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/significado-puntos-waze-1396320'>¿Qué son y para qué sirven los puntos de Waze?</a></h4>
     <a href='https://computerhoy.com/tutoriales/significado-puntos-waze-1396320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/puntos-waze-app-3755015.jpg?tf=1200x' alt='¿Qué son y para qué sirven los puntos de Waze?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/nothing-phone-2a-plus-potencia-nuevos-colores-mantienen-esencia-marca-1398010'>Así es el Nothing Phone (2a) Plus: más potencia y nuevos colores que mantienen la esencia de la marca</a></h4>
     <a href='https://computerhoy.com/moviles/nothing-phone-2a-plus-potencia-nuevos-colores-mantienen-esencia-marca-1398010' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nothing-phone-2a-plus-3840636.jpg?tf=1200x' alt='Así es el Nothing Phone (2a) Plus: más potencia y nuevos colores que mantienen la esencia de la marca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/descubierta-primera-funcion-ia-realmente-util-iphone-1398124'>Descubierta la primera función de IA realmente útil para iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/descubierta-primera-funcion-ia-realmente-util-iphone-1398124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-intelligence-3488906.jpg?tf=1200x' alt='Descubierta la primera función de IA realmente útil para iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-tener-datos-aglomeraciones-zonas-poca-cobertura-1331328'>Cómo tener datos en tu móvil en aglomeraciones y zonas con poca cobertura</a></h4>
-    <a href='https://computerhoy.com/moviles/como-tener-datos-aglomeraciones-zonas-poca-cobertura-1331328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/como-comprobar-cobertura-real-movil-android-iphone-rapidamente-2887536.jpg?tf=1200x' alt='Cómo tener datos en tu móvil en aglomeraciones y zonas con poca cobertura' />
     </a>
 </div>
 
