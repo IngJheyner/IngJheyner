@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-increible-oxigeno-oscuro-4000-metros-nivel-mar-1397963'>Los científicos descubren el increíble “oxígeno oscuro” a 4.000 metros bajo el nivel del mar</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-descubren-increible-oxigeno-oscuro-4000-metros-nivel-mar-1397963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fondo-marino-3839705.jpg?tf=1200x' alt='Los científicos descubren el increíble “oxígeno oscuro” a 4.000 metros bajo el nivel del mar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/descubren-nueva-forma-robarte-coche-llave-menos-2-minutos-1398078'>Descubren una nueva forma de robarte el coche: sin llave y en menos de 2 minutos</a></h4>
     <a href='https://computerhoy.com/motor/descubren-nueva-forma-robarte-coche-llave-menos-2-minutos-1398078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/descubren-nueva-forma-robarte-coche-llave-menos-2-minutos-3843746.jpg?tf=1200x' alt='Descubren una nueva forma de robarte el coche: sin llave y en menos de 2 minutos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/bandeja-gmail-llena-como-recuperar-15-gb-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-1398052'>¿Bandeja de Gmail llena? Cómo recuperar los 15 GB de almacenamiento gratis sin pagar ni perder un solo mensaje</a></h4>
     <a href='https://computerhoy.com/tutoriales/bandeja-gmail-llena-como-recuperar-15-gb-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-1398052' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bandeja-gmail-llena-como-recuperar-15-gb-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-3842749.jpg?tf=1200x' alt='¿Bandeja de Gmail llena? Cómo recuperar los 15 GB de almacenamiento gratis sin pagar ni perder un solo mensaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/magnus-guante-arduino-te-convertira-rey-fortnite-call-duty-1398071'>Magnus, el guante con Arduino que te convertirá en el rey de Fortnite y Call of Duty</a></h4>
-    <a href='https://computerhoy.com/tecnologia/magnus-guante-arduino-te-convertira-rey-fortnite-call-duty-1398071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/magnus-guante-arduino-te-convertira-rey-fortnite-call-duty-3842153.jpg?tf=1200x' alt='Magnus, el guante con Arduino que te convertirá en el rey de Fortnite y Call of Duty' />
     </a>
 </div>
 
