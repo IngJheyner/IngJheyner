@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/sorprendente-pelicula-dracula-llega-amazon-prime-video-perfecta-adelantarte-estreno-nosferatu-1394808'>La sorprendente película de Drácula que llega a Amazon Prime Video, y es perfecta para adelantarte al estreno de Nosferatu</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/sorprendente-pelicula-dracula-llega-amazon-prime-video-perfecta-adelantarte-estreno-nosferatu-1394808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sorprendente-pelicula-dracula-llega-amazon-prime-video-perfecta-adelantarte-estreno-nosferatu-3691115.jpg?tf=1200x' alt='La sorprendente película de Drácula que llega a Amazon Prime Video, y es perfecta para adelantarte al estreno de Nosferatu' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-truco-modo-secreto-aire-acondicionado-ahorrar-factura-pasar-calor-1398130'>No es un truco: esto es el modo secreto del aire acondicionado para ahorrar en la factura sin pasar calor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-truco-modo-secreto-aire-acondicionado-ahorrar-factura-pasar-calor-1398130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/aire-acondicionado-3847036.jpg?tf=1200x' alt='No es un truco: esto es el modo secreto del aire acondicionado para ahorrar en la factura sin pasar calor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/escucha-conversaciones-movil-son-paranoias-1398234'>¿Escucha tus conversaciones el móvil o son paranoias tuyas?</a></h4>
     <a href='https://computerhoy.com/moviles/escucha-conversaciones-movil-son-paranoias-1398234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/escucha-conversaciones-movil-son-paranoias-3848153.jpg?tf=1200x' alt='¿Escucha tus conversaciones el móvil o son paranoias tuyas?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/mejor-vpn-gratis-ocultar-ip-1319306'>Las mejores VPN gratis: cómo ocultar tu IP o simular que te conectas desde otro país</a></h4>
     <a href='https://computerhoy.com/internet/mejor-vpn-gratis-ocultar-ip-1319306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/evita-conectarte-cualquier-estos-paises-cuando-uses-vpn-no-quieres-tener-problemas-2881283.jpg?tf=1200x' alt='Las mejores VPN gratis: cómo ocultar tu IP o simular que te conectas desde otro país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puede-derretir-smart-tv-ola-calor-como-prevenir-averias-altas-temperaturas-televisor-1398152'>¿Se puede derretir tu Smart TV por la ola de calor? Cómo prevenir averías por las altas temperaturas en tu televisor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puede-derretir-smart-tv-ola-calor-como-prevenir-averias-altas-temperaturas-televisor-1398152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tele-llamas-3846245.jpg?tf=1200x' alt='¿Se puede derretir tu Smart TV por la ola de calor? Cómo prevenir averías por las altas temperaturas en tu televisor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-picuki-seguro-instagram-1398166'>¿Cómo usar Picuki y si es seguro para Instagram?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-picuki-seguro-instagram-1398166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/picuki-3846708.jpg?tf=1200x' alt='¿Cómo usar Picuki y si es seguro para Instagram?' />
     </a>
 </div>
 
