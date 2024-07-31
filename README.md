@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/raspberry-pi-vs-banana-pi-diferencias-1397828'>Raspberry Pi vs. Banana Pi: diferencias y cuál es mejor para ti</a></h4>
+    <a href='https://computerhoy.com/pc/raspberry-pi-vs-banana-pi-diferencias-1397828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/banana-pi-3846992.jpg?tf=1200x' alt='Raspberry Pi vs. Banana Pi: diferencias y cuál es mejor para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/peligros-magis-tv-iptv-peliculas-series-futbol-gratis-1385250'>¿Es peligroso Magis TV? Qué es y cómo funciona la app IPTV para ver películas, series y fútbol sin límites casi gratis</a></h4>
+    <a href='https://computerhoy.com/apps/peligros-magis-tv-iptv-peliculas-series-futbol-gratis-1385250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/magis-tv-app-3310008.jpg?tf=1200x' alt='¿Es peligroso Magis TV? Qué es y cómo funciona la app IPTV para ver películas, series y fútbol sin límites casi gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/monopolio-raspberry-pi-tiembla-tiene-nuevo-competidor-5g-inteligencia-artificial-1398160'>El monopolio de la Raspberry Pi tiembla: tiene nuevo competidor con 5G e inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/monopolio-raspberry-pi-tiembla-tiene-nuevo-competidor-5g-inteligencia-artificial-1398160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tachyon-sbc-3846369.jpg?tf=1200x' alt='El monopolio de la Raspberry Pi tiembla: tiene nuevo competidor con 5G e inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/estas-son-todas-funciones-novedades-youtube-music-son-monton-1398109'>Estas son todas las funciones y novedades de YouTube Music (y son un montón)</a></h4>
     <a href='https://computerhoy.com/apps/estas-son-todas-funciones-novedades-youtube-music-son-monton-1398109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estas-son-todas-funciones-ha-traido-youtube-music-marzo-3846076.jpg?tf=1200x' alt='Estas son todas las funciones y novedades de YouTube Music (y son un montón)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/8-trucazos-exprimir-maximo-ia-apple-1398187'>8 trucazos para exprimir al máximo la IA de Apple</a></h4>
     <a href='https://computerhoy.com/apple/8-trucazos-exprimir-maximo-ia-apple-1398187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-apple-3846069.jpg?tf=1200x' alt='8 trucazos para exprimir al máximo la IA de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/funcion-oculta-amazon-fire-tv-deberias-activar-1314618'>La función oculta del Amazon Fire TV que pocos conocen y que deberías activar ya</a></h4>
-    <a href='https://computerhoy.com/tutoriales/funcion-oculta-amazon-fire-tv-deberias-activar-1314618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funcion-oculta-amazon-fire-tv-pocos-conocen-deberias-activar-ahora-mismo-3185522.jpg?tf=1200x' alt='La función oculta del Amazon Fire TV que pocos conocen y que deberías activar ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/qualcomm-ha-presentado-snapdragon-4s-gen-2-acercara-5g-moviles-baratos-1398145'>Qualcomm ha presentado el Snapdragon 4s Gen 2 con el que acercará el 5G a los móviles baratos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/qualcomm-ha-presentado-snapdragon-4s-gen-2-acercara-5g-moviles-baratos-1398145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/qualcomm-ha-presentado-snapdragon-4s-gen-2-acercara-5g-moviles-baratos-3846070.jpg?tf=1200x' alt='Qualcomm ha presentado el Snapdragon 4s Gen 2 con el que acercará el 5G a los móviles baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/donde-comprar-flipper-zero-tamagotchi-hackers-alla-amazon-1398133'>Dónde comprar Flipper Zero, el Tamagotchi de los hackers, más allá de Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/donde-comprar-flipper-zero-tamagotchi-hackers-alla-amazon-1398133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-3588630.jpg?tf=1200x' alt='Dónde comprar Flipper Zero, el Tamagotchi de los hackers, más allá de Amazon' />
     </a>
 </div>
 
