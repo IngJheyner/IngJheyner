@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/seguro-utilizar-vpn-gratuita-1396397'>¿Es seguro utilizar una VPN gratuita?</a></h4>
+    <a href='https://computerhoy.com/apps/seguro-utilizar-vpn-gratuita-1396397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/alerta-apps-vpn-3757430.jpg?tf=1200x' alt='¿Es seguro utilizar una VPN gratuita?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-13t-pro-rebaja-aliexpress-1332456'>Carga flash a 120W y potencia a raudales: este Xiaomi rompe esquemas en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-13t-pro-rebaja-aliexpress-1332456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-13t-pro-3216318.jpg?tf=1200x' alt='Carga flash a 120W y potencia a raudales: este Xiaomi rompe esquemas en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/wikipedia-estrena-mayor-cambio-estetico-1398090'>La Wikipedia estrena su mayor cambio estético en 20 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/wikipedia-estrena-mayor-cambio-estetico-1398090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/wikipedia-estrena-mayor-cambio-estetico-20-anos-3844879.jpg?tf=1200x' alt='La Wikipedia estrena su mayor cambio estético en 20 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/microsoft-surface-laptop-7-gen-snapdragon-x-elite-analisis-opinion-1397733'>Microsoft ha creado, por fin, la alternativa al MacBook Air: Surface Laptop con Snapdragon X Elite cumple lo prometido</a></h4>
+    <a href='https://computerhoy.com/analisis/microsoft-surface-laptop-7-gen-snapdragon-x-elite-analisis-opinion-1397733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-surface-laptop-7-3832332.jpg?tf=1200x' alt='Microsoft ha creado, por fin, la alternativa al MacBook Air: Surface Laptop con Snapdragon X Elite cumple lo prometido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/waze-transformo-vida-pequeno-pueblo-infierno-14000-vehiculos-dia-1397945'>Waze transformó la vida de un pequeño pueblo en un infierno: “¡Hasta 14.000 vehículos por día!”</a></h4>
     <a href='https://computerhoy.com/tecnologia/waze-transformo-vida-pequeno-pueblo-infierno-14000-vehiculos-dia-1397945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/waze-3840465.jpg?tf=1200x' alt='Waze transformó la vida de un pequeño pueblo en un infierno: “¡Hasta 14.000 vehículos por día!”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-estan-paso-cerca-anadir-nuevo-elemento-tabla-periodica-pesado-fecha-1397918'>Científicos están un paso más cerca de añadir un nuevo elemento a la tabla periódica: el más pesado hasta la fecha</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-estan-paso-cerca-anadir-nuevo-elemento-tabla-periodica-pesado-fecha-1397918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nuevo-elemento-3838796.jpg?tf=1200x' alt='Científicos están un paso más cerca de añadir un nuevo elemento a la tabla periódica: el más pesado hasta la fecha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/accesorio-garmin-mejorar-tecnica-running-1341728'>Si eres runner, este accesorio de Garmin apenas se ve y te ayudará a mejorar tu rendimiento en carrera</a></h4>
-    <a href='https://computerhoy.com/tecnologia/accesorio-garmin-mejorar-tecnica-running-1341728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-running-dynamics-pod-3233686.jpg?tf=1200x' alt='Si eres runner, este accesorio de Garmin apenas se ve y te ayudará a mejorar tu rendimiento en carrera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-tiene-voz-1398085'>ChatGPT ya puede hablar contigo, y su voz no se parece a Scarlett Johansson</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-tiene-voz-1398085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chatgpt-ya-puede-hablar-contigo-voz-no-parece-scarlett-johansson-3843462.jpg?tf=1200x' alt='ChatGPT ya puede hablar contigo, y su voz no se parece a Scarlett Johansson' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-increible-oxigeno-oscuro-4000-metros-nivel-mar-1397963'>Los científicos descubren el increíble “oxígeno oscuro” a 4.000 metros bajo el nivel del mar</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-descubren-increible-oxigeno-oscuro-4000-metros-nivel-mar-1397963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fondo-marino-3839705.jpg?tf=1200x' alt='Los científicos descubren el increíble “oxígeno oscuro” a 4.000 metros bajo el nivel del mar' />
     </a>
 </div>
 
