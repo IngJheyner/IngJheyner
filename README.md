@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-picuki-seguro-instagram-1398166'>¿Cómo usar Picuki y si es seguro para Instagram?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-picuki-seguro-instagram-1398166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/picuki-3846708.jpg?tf=1200x' alt='¿Cómo usar Picuki y si es seguro para Instagram?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-steve-jobs-iphone-mac-tim-cook-1397973'>Apple: Steve Jobs, iPhone, Mac y más de la actual gran compañía de Tim Cook</a></h4>
     <a href='https://computerhoy.com/apple/apple-steve-jobs-iphone-mac-tim-cook-1397973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-3482197.jpg?tf=1200x' alt='Apple: Steve Jobs, iPhone, Mac y más de la actual gran compañía de Tim Cook' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/monopolio-raspberry-pi-tiembla-tiene-nuevo-competidor-5g-inteligencia-artificial-1398160'>El monopolio de la Raspberry Pi tiembla: tiene nuevo competidor con 5G e inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/monopolio-raspberry-pi-tiembla-tiene-nuevo-competidor-5g-inteligencia-artificial-1398160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tachyon-sbc-3846369.jpg?tf=1200x' alt='El monopolio de la Raspberry Pi tiembla: tiene nuevo competidor con 5G e inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-son-todas-funciones-novedades-youtube-music-son-monton-1398109'>Estas son todas las funciones y novedades de YouTube Music (y son un montón)</a></h4>
-    <a href='https://computerhoy.com/apps/estas-son-todas-funciones-novedades-youtube-music-son-monton-1398109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estas-son-todas-funciones-ha-traido-youtube-music-marzo-3846076.jpg?tf=1200x' alt='Estas son todas las funciones y novedades de YouTube Music (y son un montón)' />
     </a>
 </div>
 
