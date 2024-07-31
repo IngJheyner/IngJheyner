@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/descubren-nueva-forma-robarte-coche-llave-menos-2-minutos-1398078'>Descubren una nueva forma de robarte el coche: sin llave y en menos de 2 minutos</a></h4>
+    <a href='https://computerhoy.com/motor/descubren-nueva-forma-robarte-coche-llave-menos-2-minutos-1398078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/descubren-nueva-forma-robarte-coche-llave-menos-2-minutos-3843746.jpg?tf=1200x' alt='Descubren una nueva forma de robarte el coche: sin llave y en menos de 2 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/sygic-recibe-brutal-actualizacion-deja-obsoletos-google-maps-waze-1398076'>Sygic recibe una brutal actualización que deja obsoletos a Google Maps y Waze</a></h4>
     <a href='https://computerhoy.com/apps/sygic-recibe-brutal-actualizacion-deja-obsoletos-google-maps-waze-1398076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sygic-recibe-brutal-actualizacion-deja-obsoletos-google-maps-waze-3843037.jpg?tf=1200x' alt='Sygic recibe una brutal actualización que deja obsoletos a Google Maps y Waze' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/magnus-guante-arduino-te-convertira-rey-fortnite-call-duty-1398071'>Magnus, el guante con Arduino que te convertirá en el rey de Fortnite y Call of Duty</a></h4>
     <a href='https://computerhoy.com/tecnologia/magnus-guante-arduino-te-convertira-rey-fortnite-call-duty-1398071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/magnus-guante-arduino-te-convertira-rey-fortnite-call-duty-3842153.jpg?tf=1200x' alt='Magnus, el guante con Arduino que te convertirá en el rey de Fortnite y Call of Duty' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/jason-statham-dolph-lundgren-estrellas-accion-hollywood-han-participado-juegos-olimpicos-1398012'>De Jason Statham a Dolph Lundgren: estrellas de acción de Hollywood que han participado en los Juegos Olímpicos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/jason-statham-dolph-lundgren-estrellas-accion-hollywood-han-participado-juegos-olimpicos-1398012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/jason-statham-dolph-lundgren-estrellas-accion-hollywood-han-participado-juegos-olimpicos-3840313.jpg?tf=1200x' alt='De Jason Statham a Dolph Lundgren: estrellas de acción de Hollywood que han participado en los Juegos Olímpicos' />
     </a>
 </div>
 
