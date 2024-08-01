@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sirve-extrano-cilindro-cables-carga-1315402'>Qué es y para qué sirve el extraño cilindro de los cables de carga de tus dispositivos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sirve-extrano-cilindro-cables-carga-1315402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cable-cilindro-ferrita-3186900.jpg?tf=1200x' alt='Qué es y para qué sirve el extraño cilindro de los cables de carga de tus dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nave-espacial-viaja-extrano-objeto-metalico-orbita-tierra-captura-unas-imagenes-impresionantes-1398388'>Una nave espacial viaja hasta un extraño objeto metálico que orbita la Tierra y captura unas imágenes impresionantes</a></h4>
+    <a href='https://computerhoy.com/espacio/nave-espacial-viaja-extrano-objeto-metalico-orbita-tierra-captura-unas-imagenes-impresionantes-1398388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nave-espacial-viaja-extrano-objeto-metalico-orbita-tierra-captura-unas-imagenes-impresionantes-3853932.jpg?tf=1200x' alt='Una nave espacial viaja hasta un extraño objeto metálico que orbita la Tierra y captura unas imágenes impresionantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-quitar-fondo-imagen-volverla-png-gratis-programas-1397873'>Cómo quitar el fondo de una imagen para volverla PNG gratis y sin programas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-quitar-fondo-imagen-volverla-png-gratis-programas-1397873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/imagenes-fondo-3836915.jpg?tf=1200x' alt='Cómo quitar el fondo de una imagen para volverla PNG gratis y sin programas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/joven-13-anos-construye-algo-sorprendente-mitico-rayo-muerte-arquimedes-cientificos-dicen-podria-funcionar-1397711'>Un joven de 13 años construye algo sorprendente: el mítico rayo de la muerte de Arquímedes, y los científicos dicen que podría funcionar</a></h4>
     <a href='https://computerhoy.com/ciencia/joven-13-anos-construye-algo-sorprendente-mitico-rayo-muerte-arquimedes-cientificos-dicen-podria-funcionar-1397711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/energia-sol-crear-rayo-3832330.jpg?tf=1200x' alt='Un joven de 13 años construye algo sorprendente: el mítico rayo de la muerte de Arquímedes, y los científicos dicen que podría funcionar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-recibes-paquete-no-has-pedido-como-evitar-estafa-moda-1398389'>Cuidado si recibes un paquete que no has pedido: cómo evitar la estafa de moda</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cuidado-recibes-paquete-no-has-pedido-como-evitar-estafa-moda-1398389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-recibes-paquete-no-has-pedido-como-evitar-estafa-moda-3853615.jpg?tf=1200x' alt='Cuidado si recibes un paquete que no has pedido: cómo evitar la estafa de moda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-instalas-aplicacion-movil-android-porque-pueden-robar-todo-dinero-1398385'>Cuidado si instalas esta aplicación en un móvil Android porque pueden robar todo tu dinero</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-instalas-aplicacion-movil-android-porque-pueden-robar-todo-dinero-1398385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-instalas-aplicacion-movil-android-porque-pueden-robar-todo-dinero-3853614.jpg?tf=1200x' alt='Cuidado si instalas esta aplicación en un móvil Android porque pueden robar todo tu dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/movil-android-oculta-boton-secreto-muy-util-parte-trasera-puedes-activarlo-1398382'>Tu móvil Android oculta un botón secreto muy útil en la parte trasera: así puedes activarlo</a></h4>
-    <a href='https://computerhoy.com/moviles/movil-android-oculta-boton-secreto-muy-util-parte-trasera-puedes-activarlo-1398382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3315747.jpg?tf=1200x' alt='Tu móvil Android oculta un botón secreto muy útil en la parte trasera: así puedes activarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejor-configuracion-bandeja-entrada-gmail-1322722'>Prepara ya la mejor configuración para la bandeja de entrada de Gmail</a></h4>
-    <a href='https://computerhoy.com/apps/mejor-configuracion-bandeja-entrada-gmail-1322722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-google-3143638.jpg?tf=1200x' alt='Prepara ya la mejor configuración para la bandeja de entrada de Gmail' />
     </a>
 </div>
 
