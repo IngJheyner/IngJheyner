@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/joven-13-anos-construye-algo-sorprendente-mitico-rayo-muerte-arquimedes-cientificos-dicen-podria-funcionar-1397711'>Un joven de 13 años construye algo sorprendente: el mítico rayo de la muerte de Arquímedes, y los científicos dicen que podría funcionar</a></h4>
+    <a href='https://computerhoy.com/ciencia/joven-13-anos-construye-algo-sorprendente-mitico-rayo-muerte-arquimedes-cientificos-dicen-podria-funcionar-1397711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/energia-sol-crear-rayo-3832330.jpg?tf=1200x' alt='Un joven de 13 años construye algo sorprendente: el mítico rayo de la muerte de Arquímedes, y los científicos dicen que podría funcionar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-recibes-paquete-no-has-pedido-como-evitar-estafa-moda-1398389'>Cuidado si recibes un paquete que no has pedido: cómo evitar la estafa de moda</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cuidado-recibes-paquete-no-has-pedido-como-evitar-estafa-moda-1398389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-recibes-paquete-no-has-pedido-como-evitar-estafa-moda-3853615.jpg?tf=1200x' alt='Cuidado si recibes un paquete que no has pedido: cómo evitar la estafa de moda' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/mejor-configuracion-bandeja-entrada-gmail-1322722'>Prepara ya la mejor configuración para la bandeja de entrada de Gmail</a></h4>
     <a href='https://computerhoy.com/apps/mejor-configuracion-bandeja-entrada-gmail-1322722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-google-3143638.jpg?tf=1200x' alt='Prepara ya la mejor configuración para la bandeja de entrada de Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/juegos-olimpicos-paris-2024-evento-deportivo-gran-operacion-vigilancia-1398367'>Juegos Olímpicos de París 2024: ¿Evento deportivo o gran operación de vigilancia?</a></h4>
-    <a href='https://computerhoy.com/apps/juegos-olimpicos-paris-2024-evento-deportivo-gran-operacion-vigilancia-1398367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/juegos-olimpicos-paris-2024-3746824.jpg?tf=1200x' alt='Juegos Olímpicos de París 2024: ¿Evento deportivo o gran operación de vigilancia?' />
     </a>
 </div>
 
