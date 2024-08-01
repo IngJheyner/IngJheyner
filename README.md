@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-ha-estado-husmeando-ordenador-movil-1308776'>Cómo saber si alguien ha estado cotilleando en tu ordenador o móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-alguien-ha-estado-husmeando-ordenador-movil-1308776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/espiar-movil-3186078.jpg?tf=1200x' alt='Cómo saber si alguien ha estado cotilleando en tu ordenador o móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/revelado-verdadero-rostro-faraon-tutankamon-3300-anos-despues-tecnologia-3d-1396469'>Revelan el verdadero rostro del faraón Tutankamón 3.300 años después gracias a la tecnología 3D</a></h4>
+    <a href='https://computerhoy.com/ciencia/revelado-verdadero-rostro-faraon-tutankamon-3300-anos-despues-tecnologia-3d-1396469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tutankamon-no-era-tan-atractivo-como-muestran-algunas-recreaciones-estudio-3760888.jpg?tf=1200x' alt='Revelan el verdadero rostro del faraón Tutankamón 3.300 años después gracias a la tecnología 3D' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-evitar-fraudes-estafas-whatsapp-1398196'>¿Cómo evitar fraudes y estafas por WhatsApp?</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-evitar-fraudes-estafas-whatsapp-1398196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fraude-whatsapp-3847187.jpg?tf=1200x' alt='¿Cómo evitar fraudes y estafas por WhatsApp?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/entra-vigor-ley-inteligencia-artificial-ue-implica-usuarios-empresas-1398286'>Entra en vigor la Ley de Inteligencia Artificial de la UE: qué implica para los usuarios y empresas</a></h4>
     <a href='https://computerhoy.com/tecnologia/entra-vigor-ley-inteligencia-artificial-ue-implica-usuarios-empresas-1398286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/entra-vigor-ley-inteligencia-artificial-ue-implica-usuarios-empresas-3851476.jpg?tf=1200x' alt='Entra en vigor la Ley de Inteligencia Artificial de la UE: qué implica para los usuarios y empresas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/saca-maximo-partido-chatgpt-son-prompts-errores-debes-evitar-escribirlos-1397914'>Saca el máximo partido a ChatGPT: qué son los prompts y qué errores debes evitar al escribirlos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/saca-maximo-partido-chatgpt-son-prompts-errores-debes-evitar-escribirlos-1397914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/saca-maximo-partido-chatgpt-son-prompts-errores-debes-evitar-escribirlos-3838641.jpg?tf=1200x' alt='Saca el máximo partido a ChatGPT: qué son los prompts y qué errores debes evitar al escribirlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/renta-basica-universal-sam-altman-pretende-hacer-frente-ia-1398118'>Así es la renta básica universal de Sam Altman con la que pretende hacer frente a la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/renta-basica-universal-sam-altman-pretende-hacer-frente-ia-1398118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robot-humano-3847041.jpg?tf=1200x' alt='Así es la renta básica universal de Sam Altman con la que pretende hacer frente a la IA' />
     </a>
 </div>
 
