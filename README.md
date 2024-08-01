@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/no-encuentras-nada-ver-netflix-prueba-menu-secreto-encontrar-peliculas-series-1398279'>¿No encuentras nada que ver en Netflix? Prueba este menú secreto para encontrar películas y series</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/no-encuentras-nada-ver-netflix-prueba-menu-secreto-encontrar-peliculas-series-1398279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/no-encuentras-nada-ver-netflix-prueba-menu-secreto-encontrar-peliculas-series-3850632.jpg?tf=1200x' alt='¿No encuentras nada que ver en Netflix? Prueba este menú secreto para encontrar películas y series' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/tienes-olvidado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-1398265'>Lo tienes olvidado en un cajón sin usar y puede convertirse en el mejor repetidor WiFi</a></h4>
     <a href='https://computerhoy.com/redes/tienes-olvidado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-1398265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-olvidado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-3850209.jpg?tf=1200x' alt='Lo tienes olvidado en un cajón sin usar y puede convertirse en el mejor repetidor WiFi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-advierte-millones-usuarios-windows-puedes-perder-todos-datos-1398271'>Microsoft advierte a millones de usuarios de Windows: puedes perder todos tus datos</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-advierte-millones-usuarios-windows-puedes-perder-todos-datos-1398271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/onedrive-windows-11-3849204.jpg?tf=1200x' alt='Microsoft advierte a millones de usuarios de Windows: puedes perder todos tus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-meta-dice-atentado-donald-trump-no-existio-mete-lio-1398270'>La IA de Meta dice que el atentado contra Donald Trump no existió, y se mete en un lío</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-meta-dice-atentado-donald-trump-no-existio-mete-lio-1398270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ia-meta-dice-atentado-donald-trump-no-existio-mete-lio-3848760.jpg?tf=1200x' alt='La IA de Meta dice que el atentado contra Donald Trump no existió, y se mete en un lío' />
     </a>
 </div>
 
