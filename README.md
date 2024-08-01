@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/tdt-television-digital-terrestre-origen-apagon-analogico-como-acceder-canales-1398033'>Qué es la TDT o Televisión Digital Terrestre: origen, apagón analógico y cómo acceder a sus canales</a></h4>
+    <a href='https://computerhoy.com/tv/tdt-television-digital-terrestre-origen-apagon-analogico-como-acceder-canales-1398033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ver-tdt-3274549.jpg?tf=1200x' alt='Qué es la TDT o Televisión Digital Terrestre: origen, apagón analógico y cómo acceder a sus canales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-convertira-pelicula-libro-keanu-reeves-hombre-vive-80000-anos-codea-karl-marx-freud-1398355'>Netflix convertirá en película el libro de Keanu Reeves: un hombre que vive 80.000 años y se codea con Karl Marx y Freud</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-convertira-pelicula-libro-keanu-reeves-hombre-vive-80000-anos-codea-karl-marx-freud-1398355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/keanu-reeves-3853296.jpg?tf=1200x' alt='Netflix convertirá en película el libro de Keanu Reeves: un hombre que vive 80.000 años y se codea con Karl Marx y Freud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/aviso-bombero-enchufe-todos-tenemos-casa-saco-siete-1398434'>El aviso de un bombero sobre este enchufe que todos tenemos en casa: "de una saco siete"</a></h4>
     <a href='https://computerhoy.com/hogar/aviso-bombero-enchufe-todos-tenemos-casa-saco-siete-1398434' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aviso-bombero-enchufe-todos-tenemos-casa-saco-siete-3855351.jpg?tf=1200x' alt='El aviso de un bombero sobre este enchufe que todos tenemos en casa: "de una saco siete"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/acelera-internet-casa-router-wifi-7-barato-hemos-encontrado-1398433'>Acelera internet en casa: este router con WiFi 7 es el más barato que hemos encontrado</a></h4>
     <a href='https://computerhoy.com/redes/acelera-internet-casa-router-wifi-7-barato-hemos-encontrado-1398433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mercusys-mr47be-3854724.jpg?tf=1200x' alt='Acelera internet en casa: este router con WiFi 7 es el más barato que hemos encontrado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/realidad-solo-ilusion-experimento-mental-podria-afirmar-vivimos-atrapados-propia-mente-1398328'>¿Es la realidad solo una ilusión? Este experimento mental podría afirmar que vivimos atrapados en nuestra propia mente</a></h4>
-    <a href='https://computerhoy.com/life/realidad-solo-ilusion-experimento-mental-podria-afirmar-vivimos-atrapados-propia-mente-1398328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cerebro-cubo-3852833.jpg?tf=1200x' alt='¿Es la realidad solo una ilusión? Este experimento mental podría afirmar que vivimos atrapados en nuestra propia mente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sirve-extrano-cilindro-cables-carga-1315402'>Qué es y para qué sirve el extraño cilindro de los cables de carga de tus dispositivos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sirve-extrano-cilindro-cables-carga-1315402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cable-cilindro-ferrita-3186900.jpg?tf=1200x' alt='Qué es y para qué sirve el extraño cilindro de los cables de carga de tus dispositivos' />
     </a>
 </div>
 
