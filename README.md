@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-instalas-aplicacion-movil-android-porque-pueden-robar-todo-dinero-1398385'>Cuidado si instalas esta aplicación en un móvil Android porque pueden robar todo tu dinero</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-instalas-aplicacion-movil-android-porque-pueden-robar-todo-dinero-1398385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-instalas-aplicacion-movil-android-porque-pueden-robar-todo-dinero-3853614.jpg?tf=1200x' alt='Cuidado si instalas esta aplicación en un móvil Android porque pueden robar todo tu dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/movil-android-oculta-boton-secreto-muy-util-parte-trasera-puedes-activarlo-1398382'>Tu móvil Android oculta un botón secreto muy útil en la parte trasera: así puedes activarlo</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-android-oculta-boton-secreto-muy-util-parte-trasera-puedes-activarlo-1398382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3315747.jpg?tf=1200x' alt='Tu móvil Android oculta un botón secreto muy útil en la parte trasera: así puedes activarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mejor-configuracion-bandeja-entrada-gmail-1322722'>Prepara ya la mejor configuración para la bandeja de entrada de Gmail</a></h4>
     <a href='https://computerhoy.com/apps/mejor-configuracion-bandeja-entrada-gmail-1322722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-google-3143638.jpg?tf=1200x' alt='Prepara ya la mejor configuración para la bandeja de entrada de Gmail' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/estas-son-todas-novedades-ha-traido-google-maps-llevamos-2024-1398362'>Estas son todas las novedades que ha traído Google Maps en lo que llevamos de 2024</a></h4>
     <a href='https://computerhoy.com/apps/estas-son-todas-novedades-ha-traido-google-maps-llevamos-2024-1398362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-son-todas-novedades-ha-traido-google-maps-2024-3853293.jpg?tf=1200x' alt='Estas son todas las novedades que ha traído Google Maps en lo que llevamos de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-mensaje-urgente-numero-telefono-1398108'>La Policía Nacional lanza un mensaje urgente: si ves este número de teléfono, cuelga</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-mensaje-urgente-numero-telefono-1398108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/alerta-policia-llamadas-3845914.jpg?tf=1200x' alt='La Policía Nacional lanza un mensaje urgente: si ves este número de teléfono, cuelga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/tablet-jugar-ver-series-poco-tumba-precio-modelo-muy-potente-1398340'>Una tablet para jugar y ver series: POCO tumba el precio de un modelo muy potente</a></h4>
-    <a href='https://computerhoy.com/android/tablet-jugar-ver-series-poco-tumba-precio-modelo-muy-potente-1398340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-poco-pad-3852977.jpg?tf=1200x' alt='Una tablet para jugar y ver series: POCO tumba el precio de un modelo muy potente' />
     </a>
 </div>
 
