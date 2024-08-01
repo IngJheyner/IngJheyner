@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/saca-maximo-partido-chatgpt-son-prompts-errores-debes-evitar-escribirlos-1397914'>Saca el máximo partido a ChatGPT: qué son los prompts y qué errores debes evitar al escribirlos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/saca-maximo-partido-chatgpt-son-prompts-errores-debes-evitar-escribirlos-1397914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/saca-maximo-partido-chatgpt-son-prompts-errores-debes-evitar-escribirlos-3838641.jpg?tf=1200x' alt='Saca el máximo partido a ChatGPT: qué son los prompts y qué errores debes evitar al escribirlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/renta-basica-universal-sam-altman-pretende-hacer-frente-ia-1398118'>Así es la renta básica universal de Sam Altman con la que pretende hacer frente a la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/renta-basica-universal-sam-altman-pretende-hacer-frente-ia-1398118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robot-humano-3847041.jpg?tf=1200x' alt='Así es la renta básica universal de Sam Altman con la que pretende hacer frente a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/aliexpress-deja-ko-amazon-oferta-samsung-galaxy-s24-1396403'>AliExpress deja KO a Amazon: el Samsung Galaxy S24 toca fondo con una rebaja brutal</a></h4>
+    <a href='https://computerhoy.com/android/aliexpress-deja-ko-amazon-oferta-samsung-galaxy-s24-1396403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/galaxy-s24-3757848.jpg?tf=1200x' alt='AliExpress deja KO a Amazon: el Samsung Galaxy S24 toca fondo con una rebaja brutal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/ifixit-no-soplar-cartuchos-consola-1398281'>iFixit lo tiene claro: ni se te ocurra soplar los cartuchos de tu consola</a></h4>
     <a href='https://computerhoy.com/gaming/ifixit-no-soplar-cartuchos-consola-1398281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ifixit-tiene-claro-ni-te-ocurra-soplar-cartuchos-consola-3850631.jpg?tf=1200x' alt='iFixit lo tiene claro: ni se te ocurra soplar los cartuchos de tu consola' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/astronomos-estan-sorprendidos-han-descubierto-nuevo-gigantesco-agujero-negro-lactea-1398119'>Los astrónomos están sorprendidos: han descubierto un nuevo gigantesco agujero negro en la Vía Láctea </a></h4>
     <a href='https://computerhoy.com/ciencia/astronomos-estan-sorprendidos-han-descubierto-nuevo-gigantesco-agujero-negro-lactea-1398119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/agujero-negro-3845759.jpg?tf=1200x' alt='Los astrónomos están sorprendidos: han descubierto un nuevo gigantesco agujero negro en la Vía Láctea ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/no-encuentras-nada-ver-netflix-prueba-menu-secreto-encontrar-peliculas-series-1398279'>¿No encuentras nada que ver en Netflix? Prueba este menú secreto para encontrar películas y series</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/no-encuentras-nada-ver-netflix-prueba-menu-secreto-encontrar-peliculas-series-1398279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/no-encuentras-nada-ver-netflix-prueba-menu-secreto-encontrar-peliculas-series-3850632.jpg?tf=1200x' alt='¿No encuentras nada que ver en Netflix? Prueba este menú secreto para encontrar películas y series' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/tienes-olvidado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-1398265'>Lo tienes olvidado en un cajón sin usar y puede convertirse en el mejor repetidor WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/tienes-olvidado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-1398265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-olvidado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-3850209.jpg?tf=1200x' alt='Lo tienes olvidado en un cajón sin usar y puede convertirse en el mejor repetidor WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/movil-android-tiene-nueva-forma-detectar-imagen-ha-sido-creada-ia-1398278'>Tu móvil Android tiene una nueva forma de detectar si una imagen ha sido creada con IA</a></h4>
-    <a href='https://computerhoy.com/google/movil-android-tiene-nueva-forma-detectar-imagen-ha-sido-creada-ia-1398278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movil-android-tiene-nueva-forma-detectar-imagen-ha-sido-creada-ia-3849920.jpg?tf=1200x' alt='Tu móvil Android tiene una nueva forma de detectar si una imagen ha sido creada con IA' />
     </a>
 </div>
 
