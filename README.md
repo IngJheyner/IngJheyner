@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-recibes-paquete-no-has-pedido-como-evitar-estafa-moda-1398389'>Cuidado si recibes un paquete que no has pedido: cómo evitar la estafa de moda</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-recibes-paquete-no-has-pedido-como-evitar-estafa-moda-1398389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-recibes-paquete-no-has-pedido-como-evitar-estafa-moda-3853615.jpg?tf=1200x' alt='Cuidado si recibes un paquete que no has pedido: cómo evitar la estafa de moda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-instalas-aplicacion-movil-android-porque-pueden-robar-todo-dinero-1398385'>Cuidado si instalas esta aplicación en un móvil Android porque pueden robar todo tu dinero</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cuidado-instalas-aplicacion-movil-android-porque-pueden-robar-todo-dinero-1398385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-instalas-aplicacion-movil-android-porque-pueden-robar-todo-dinero-3853614.jpg?tf=1200x' alt='Cuidado si instalas esta aplicación en un móvil Android porque pueden robar todo tu dinero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/juegos-olimpicos-paris-2024-evento-deportivo-gran-operacion-vigilancia-1398367'>Juegos Olímpicos de París 2024: ¿Evento deportivo o gran operación de vigilancia?</a></h4>
     <a href='https://computerhoy.com/apps/juegos-olimpicos-paris-2024-evento-deportivo-gran-operacion-vigilancia-1398367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/juegos-olimpicos-paris-2024-3746824.jpg?tf=1200x' alt='Juegos Olímpicos de París 2024: ¿Evento deportivo o gran operación de vigilancia?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-son-todas-novedades-ha-traido-google-maps-llevamos-2024-1398362'>Estas son todas las novedades que ha traído Google Maps en lo que llevamos de 2024</a></h4>
-    <a href='https://computerhoy.com/apps/estas-son-todas-novedades-ha-traido-google-maps-llevamos-2024-1398362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-son-todas-novedades-ha-traido-google-maps-2024-3853293.jpg?tf=1200x' alt='Estas son todas las novedades que ha traído Google Maps en lo que llevamos de 2024' />
     </a>
 </div>
 
