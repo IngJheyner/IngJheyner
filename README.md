@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejor-configuracion-bandeja-entrada-gmail-1322722'>Prepara ya la mejor configuración para la bandeja de entrada de Gmail</a></h4>
+    <a href='https://computerhoy.com/apps/mejor-configuracion-bandeja-entrada-gmail-1322722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/gmail-google-3143638.jpg?tf=1200x' alt='Prepara ya la mejor configuración para la bandeja de entrada de Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/juegos-olimpicos-paris-2024-evento-deportivo-gran-operacion-vigilancia-1398367'>Juegos Olímpicos de París 2024: ¿Evento deportivo o gran operación de vigilancia?</a></h4>
     <a href='https://computerhoy.com/apps/juegos-olimpicos-paris-2024-evento-deportivo-gran-operacion-vigilancia-1398367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/juegos-olimpicos-paris-2024-3746824.jpg?tf=1200x' alt='Juegos Olímpicos de París 2024: ¿Evento deportivo o gran operación de vigilancia?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/tablet-jugar-ver-series-poco-tumba-precio-modelo-muy-potente-1398340'>Una tablet para jugar y ver series: POCO tumba el precio de un modelo muy potente</a></h4>
     <a href='https://computerhoy.com/android/tablet-jugar-ver-series-poco-tumba-precio-modelo-muy-potente-1398340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-poco-pad-3852977.jpg?tf=1200x' alt='Una tablet para jugar y ver series: POCO tumba el precio de un modelo muy potente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/6-usos-increibles-puedes-dar-flipper-zero-1398353'>6 usos increíbles que le puedes dar al Flipper Zero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/6-usos-increibles-puedes-dar-flipper-zero-1398353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/flipper-zero-3017058.jpg?tf=1200x' alt='6 usos increíbles que le puedes dar al Flipper Zero' />
     </a>
 </div>
 
