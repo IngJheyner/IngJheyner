@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ifixit-no-soplar-cartuchos-consola-1398281'>iFixit lo tiene claro: ni se te ocurra soplar los cartuchos de tu consola</a></h4>
+    <a href='https://computerhoy.com/gaming/ifixit-no-soplar-cartuchos-consola-1398281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ifixit-tiene-claro-ni-te-ocurra-soplar-cartuchos-consola-3850631.jpg?tf=1200x' alt='iFixit lo tiene claro: ni se te ocurra soplar los cartuchos de tu consola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/astronomos-estan-sorprendidos-han-descubierto-nuevo-gigantesco-agujero-negro-lactea-1398119'>Los astrónomos están sorprendidos: han descubierto un nuevo gigantesco agujero negro en la Vía Láctea </a></h4>
     <a href='https://computerhoy.com/ciencia/astronomos-estan-sorprendidos-han-descubierto-nuevo-gigantesco-agujero-negro-lactea-1398119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/agujero-negro-3845759.jpg?tf=1200x' alt='Los astrónomos están sorprendidos: han descubierto un nuevo gigantesco agujero negro en la Vía Láctea ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/movil-android-tiene-nueva-forma-detectar-imagen-ha-sido-creada-ia-1398278'>Tu móvil Android tiene una nueva forma de detectar si una imagen ha sido creada con IA</a></h4>
     <a href='https://computerhoy.com/google/movil-android-tiene-nueva-forma-detectar-imagen-ha-sido-creada-ia-1398278' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movil-android-tiene-nueva-forma-detectar-imagen-ha-sido-creada-ia-3849920.jpg?tf=1200x' alt='Tu móvil Android tiene una nueva forma de detectar si una imagen ha sido creada con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lg-myview-34sr65qc-monitor-smart-tv-1398275'>LG MyView 34SR65QC, el híbrido de monitor y Smart TV</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lg-myview-34sr65qc-monitor-smart-tv-1398275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lg-myview-34sr65qc-hibrido-monitor-smart-tv-pantalla-elimina-bandas-negras-3849492.jpg?tf=1200x' alt='LG MyView 34SR65QC, el híbrido de monitor y Smart TV' />
     </a>
 </div>
 
