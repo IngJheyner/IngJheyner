@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/amazon-prime-video-planes-precios-contenido-acerca-plataforma-streaming-1398194'>Amazon Prime Video: planes, precios, contenido y más acerca de la plataforma de streaming </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/amazon-prime-video-planes-precios-contenido-acerca-plataforma-streaming-1398194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-prime-video-3274033.jpg?tf=1200x' alt='Amazon Prime Video: planes, precios, contenido y más acerca de la plataforma de streaming ' />
+    <h4><a href='https://computerhoy.com/life/cerveza-espanola-corona-como-mejor-mundo-te-sorprendera-saber-cual-1398484'>Una cerveza española se corona como la mejor del mundo, y te sorprenderá saber cuál es</a></h4>
+    <a href='https://computerhoy.com/life/cerveza-espanola-corona-como-mejor-mundo-te-sorprendera-saber-cual-1398484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cerveza-espanola-corona-como-mejor-mundo-te-sorprendera-saber-cual-3856384.jpg?tf=1200x' alt='Una cerveza española se corona como la mejor del mundo, y te sorprenderá saber cuál es' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/casi-tan-buenas-como-nadal-alcaraz-5-peliculas-tenis-tienes-ver-1398222'>Casi tan buenas como Nadal y Alcaraz: 5 películas sobre tenis que tienes que ver sí o sí</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/casi-tan-buenas-como-nadal-alcaraz-5-peliculas-tenis-tienes-ver-1398222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/rafa-nadal-3853779.jpg?tf=1200x' alt='Casi tan buenas como Nadal y Alcaraz: 5 películas sobre tenis que tienes que ver sí o sí' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/actualiza-chrome-ahora-mismo-google-lanza-parche-critico-evitar-ciberdelincuentes-roben-datos-1398482'>¡Actualiza Chrome ahora mismo! Google lanza un parche crítico para evitar que los ciberdelincuentes roben tus datos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/actualiza-chrome-ahora-mismo-google-lanza-parche-critico-evitar-ciberdelincuentes-roben-datos-1398482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/navegador-android-igual-chrome-diferencia-respeta-privacidad-3466689.jpg?tf=1200x' alt='¡Actualiza Chrome ahora mismo! Google lanza un parche crítico para evitar que los ciberdelincuentes roben tus datos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/tdt-television-digital-terrestre-origen-apagon-analogico-como-acceder-canales-1398033'>Qué es la TDT o Televisión Digital Terrestre: origen, apagón analógico y cómo acceder a sus canales</a></h4>
-    <a href='https://computerhoy.com/tv/tdt-television-digital-terrestre-origen-apagon-analogico-como-acceder-canales-1398033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ver-tdt-3274549.jpg?tf=1200x' alt='Qué es la TDT o Televisión Digital Terrestre: origen, apagón analógico y cómo acceder a sus canales' />
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-5-supera-barrera-34-ghz-alcanza-nuevo-record-rendimiento-1398480'>Raspberry Pi 5 supera la barrera de los 3,4 GHz y alcanza un nuevo récord de rendimiento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-5-supera-barrera-34-ghz-alcanza-nuevo-record-rendimiento-1398480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ya-puedes-anadir-lector-ssd-aceleradores-ia-raspberry-pi-5-raspberry-pi-m2-hat-3314423.jpg?tf=1200x' alt='Raspberry Pi 5 supera la barrera de los 3,4 GHz y alcanza un nuevo récord de rendimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-convertira-pelicula-libro-keanu-reeves-hombre-vive-80000-anos-codea-karl-marx-freud-1398355'>Netflix convertirá en película el libro de Keanu Reeves: un hombre que vive 80.000 años y se codea con Karl Marx y Freud</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-convertira-pelicula-libro-keanu-reeves-hombre-vive-80000-anos-codea-karl-marx-freud-1398355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/keanu-reeves-3853296.jpg?tf=1200x' alt='Netflix convertirá en película el libro de Keanu Reeves: un hombre que vive 80.000 años y se codea con Karl Marx y Freud' />
+    <h4><a href='https://computerhoy.com/moviles/desactivar-ajuste-android-mejorara-duracion-bateria-instante-1398455'>Desactivar este ajuste de tu Android mejorará la duración de la batería al instante</a></h4>
+    <a href='https://computerhoy.com/moviles/desactivar-ajuste-android-mejorara-duracion-bateria-instante-1398455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/desactivar-ajuste-android-mejorara-duracion-bateria-instante-3856236.jpg?tf=1200x' alt='Desactivar este ajuste de tu Android mejorará la duración de la batería al instante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/aviso-bombero-enchufe-todos-tenemos-casa-saco-siete-1398434'>El aviso de un bombero sobre este enchufe que todos tenemos en casa: "de una saco siete"</a></h4>
-    <a href='https://computerhoy.com/hogar/aviso-bombero-enchufe-todos-tenemos-casa-saco-siete-1398434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aviso-bombero-enchufe-todos-tenemos-casa-saco-siete-3855351.jpg?tf=1200x' alt='El aviso de un bombero sobre este enchufe que todos tenemos en casa: "de una saco siete"' />
+    <h4><a href='https://computerhoy.com/tecnologia/guru-tecnologico-ya-predijo-nacimiento-iphone-ahora-lanza-varias-predicciones-cara-2030-1398378'>Este gurú tecnológico ya predijo el nacimiento del iPhone: ahora, lanza varias predicciones de cara al 2030</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guru-tecnologico-ya-predijo-nacimiento-iphone-ahora-lanza-varias-predicciones-cara-2030-1398378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ray-kurzweil-ia-3853630.jpg?tf=1200x' alt='Este gurú tecnológico ya predijo el nacimiento del iPhone: ahora, lanza varias predicciones de cara al 2030' />
     </a>
 </div>
 
