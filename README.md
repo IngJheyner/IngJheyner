@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/aviso-bombero-enchufe-todos-tenemos-casa-saco-siete-1398434'>El aviso de un bombero sobre este enchufe que todos tenemos en casa: "de una saco siete"</a></h4>
+    <a href='https://computerhoy.com/hogar/aviso-bombero-enchufe-todos-tenemos-casa-saco-siete-1398434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aviso-bombero-enchufe-todos-tenemos-casa-saco-siete-3855351.jpg?tf=1200x' alt='El aviso de un bombero sobre este enchufe que todos tenemos en casa: "de una saco siete"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/caracteristicas-ocultas-ios-18-apple-no-te-ha-contado-1390908'>Características ocultas de iOS 18 que Apple no te ha contado</a></h4>
+    <a href='https://computerhoy.com/apple/caracteristicas-ocultas-ios-18-apple-no-te-ha-contado-1390908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ios-18-3479154.jpg?tf=1200x' alt='Características ocultas de iOS 18 que Apple no te ha contado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/acelera-internet-casa-router-wifi-7-barato-hemos-encontrado-1398433'>Acelera internet en casa: este router con WiFi 7 es el más barato que hemos encontrado</a></h4>
+    <a href='https://computerhoy.com/redes/acelera-internet-casa-router-wifi-7-barato-hemos-encontrado-1398433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mercusys-mr47be-3854724.jpg?tf=1200x' alt='Acelera internet en casa: este router con WiFi 7 es el más barato que hemos encontrado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/realidad-solo-ilusion-experimento-mental-podria-afirmar-vivimos-atrapados-propia-mente-1398328'>¿Es la realidad solo una ilusión? Este experimento mental podría afirmar que vivimos atrapados en nuestra propia mente</a></h4>
+    <a href='https://computerhoy.com/life/realidad-solo-ilusion-experimento-mental-podria-afirmar-vivimos-atrapados-propia-mente-1398328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cerebro-cubo-3852833.jpg?tf=1200x' alt='¿Es la realidad solo una ilusión? Este experimento mental podría afirmar que vivimos atrapados en nuestra propia mente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sirve-extrano-cilindro-cables-carga-1315402'>Qué es y para qué sirve el extraño cilindro de los cables de carga de tus dispositivos</a></h4>
     <a href='https://computerhoy.com/tecnologia/sirve-extrano-cilindro-cables-carga-1315402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/cable-cilindro-ferrita-3186900.jpg?tf=1200x' alt='Qué es y para qué sirve el extraño cilindro de los cables de carga de tus dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nave-espacial-viaja-extrano-objeto-metalico-orbita-tierra-captura-unas-imagenes-impresionantes-1398388'>Una nave espacial viaja hasta un extraño objeto metálico que orbita la Tierra y captura unas imágenes impresionantes</a></h4>
-    <a href='https://computerhoy.com/espacio/nave-espacial-viaja-extrano-objeto-metalico-orbita-tierra-captura-unas-imagenes-impresionantes-1398388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nave-espacial-viaja-extrano-objeto-metalico-orbita-tierra-captura-unas-imagenes-impresionantes-3853932.jpg?tf=1200x' alt='Una nave espacial viaja hasta un extraño objeto metálico que orbita la Tierra y captura unas imágenes impresionantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-quitar-fondo-imagen-volverla-png-gratis-programas-1397873'>Cómo quitar el fondo de una imagen para volverla PNG gratis y sin programas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-quitar-fondo-imagen-volverla-png-gratis-programas-1397873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/imagenes-fondo-3836915.jpg?tf=1200x' alt='Cómo quitar el fondo de una imagen para volverla PNG gratis y sin programas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/joven-13-anos-construye-algo-sorprendente-mitico-rayo-muerte-arquimedes-cientificos-dicen-podria-funcionar-1397711'>Un joven de 13 años construye algo sorprendente: el mítico rayo de la muerte de Arquímedes, y los científicos dicen que podría funcionar</a></h4>
-    <a href='https://computerhoy.com/ciencia/joven-13-anos-construye-algo-sorprendente-mitico-rayo-muerte-arquimedes-cientificos-dicen-podria-funcionar-1397711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/energia-sol-crear-rayo-3832330.jpg?tf=1200x' alt='Un joven de 13 años construye algo sorprendente: el mítico rayo de la muerte de Arquímedes, y los científicos dicen que podría funcionar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-recibes-paquete-no-has-pedido-como-evitar-estafa-moda-1398389'>Cuidado si recibes un paquete que no has pedido: cómo evitar la estafa de moda</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-recibes-paquete-no-has-pedido-como-evitar-estafa-moda-1398389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-recibes-paquete-no-has-pedido-como-evitar-estafa-moda-3853615.jpg?tf=1200x' alt='Cuidado si recibes un paquete que no has pedido: cómo evitar la estafa de moda' />
     </a>
 </div>
 
