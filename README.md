@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-1398478'>Compra un disco duro pensando que es nuevo, pero encuentra un tesoro de 800 GB valorado en miles de euros</a></h4>
+    <a href='https://computerhoy.com/life/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-1398478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-3856951.jpg?tf=1200x' alt='Compra un disco duro pensando que es nuevo, pero encuentra un tesoro de 800 GB valorado en miles de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/piscina-olimpica-rapida-lenta-caracteristicas-1398487'>Por qué se dice que una piscina olímpica es más rápida que otra y cómo es esto posible</a></h4>
+    <a href='https://computerhoy.com/ciencia/piscina-olimpica-rapida-lenta-caracteristicas-1398487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dice-piscina-olimpica-rapida-otra-como-posible-3856088.jpg?tf=1200x' alt='Por qué se dice que una piscina olímpica es más rápida que otra y cómo es esto posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cerveza-espanola-corona-como-mejor-mundo-te-sorprendera-saber-cual-1398484'>Una cerveza española se corona como la mejor del mundo, y te sorprenderá saber cuál es</a></h4>
     <a href='https://computerhoy.com/life/cerveza-espanola-corona-como-mejor-mundo-te-sorprendera-saber-cual-1398484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cerveza-espanola-corona-como-mejor-mundo-te-sorprendera-saber-cual-3856384.jpg?tf=1200x' alt='Una cerveza española se corona como la mejor del mundo, y te sorprenderá saber cuál es' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-5-supera-barrera-34-ghz-alcanza-nuevo-record-rendimiento-1398480'>Raspberry Pi 5 supera la barrera de los 3,4 GHz y alcanza un nuevo récord de rendimiento</a></h4>
     <a href='https://computerhoy.com/tecnologia/raspberry-pi-5-supera-barrera-34-ghz-alcanza-nuevo-record-rendimiento-1398480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ya-puedes-anadir-lector-ssd-aceleradores-ia-raspberry-pi-5-raspberry-pi-m2-hat-3314423.jpg?tf=1200x' alt='Raspberry Pi 5 supera la barrera de los 3,4 GHz y alcanza un nuevo récord de rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/desactivar-ajuste-android-mejorara-duracion-bateria-instante-1398455'>Desactivar este ajuste de tu Android mejorará la duración de la batería al instante</a></h4>
-    <a href='https://computerhoy.com/moviles/desactivar-ajuste-android-mejorara-duracion-bateria-instante-1398455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/desactivar-ajuste-android-mejorara-duracion-bateria-instante-3856236.jpg?tf=1200x' alt='Desactivar este ajuste de tu Android mejorará la duración de la batería al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guru-tecnologico-ya-predijo-nacimiento-iphone-ahora-lanza-varias-predicciones-cara-2030-1398378'>Este gurú tecnológico ya predijo el nacimiento del iPhone: ahora, lanza varias predicciones de cara al 2030</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guru-tecnologico-ya-predijo-nacimiento-iphone-ahora-lanza-varias-predicciones-cara-2030-1398378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ray-kurzweil-ia-3853630.jpg?tf=1200x' alt='Este gurú tecnológico ya predijo el nacimiento del iPhone: ahora, lanza varias predicciones de cara al 2030' />
     </a>
 </div>
 
