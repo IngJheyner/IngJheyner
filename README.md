@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-evitar-fraudes-estafas-whatsapp-1398196'>¿Cómo evitar fraudes y estafas por WhatsApp?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-evitar-fraudes-estafas-whatsapp-1398196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fraude-whatsapp-3847187.jpg?tf=1200x' alt='¿Cómo evitar fraudes y estafas por WhatsApp?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/mini-pc-ultracompacto-windows-11-teclast-1394965'>Este PC cabe en el bolsillo y cuesta menos de 100 euros: tiene Windows 11 y lo tiene casi todo</a></h4>
+    <a href='https://computerhoy.com/pc/mini-pc-ultracompacto-windows-11-teclast-1394965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teclast-n10-3697881.jpg?tf=1200x' alt='Este PC cabe en el bolsillo y cuesta menos de 100 euros: tiene Windows 11 y lo tiene casi todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/entra-vigor-ley-inteligencia-artificial-ue-implica-usuarios-empresas-1398286'>Entra en vigor la Ley de Inteligencia Artificial de la UE: qué implica para los usuarios y empresas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/entra-vigor-ley-inteligencia-artificial-ue-implica-usuarios-empresas-1398286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/entra-vigor-ley-inteligencia-artificial-ue-implica-usuarios-empresas-3851476.jpg?tf=1200x' alt='Entra en vigor la Ley de Inteligencia Artificial de la UE: qué implica para los usuarios y empresas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/saca-maximo-partido-chatgpt-son-prompts-errores-debes-evitar-escribirlos-1397914'>Saca el máximo partido a ChatGPT: qué son los prompts y qué errores debes evitar al escribirlos</a></h4>
     <a href='https://computerhoy.com/tecnologia/saca-maximo-partido-chatgpt-son-prompts-errores-debes-evitar-escribirlos-1397914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/saca-maximo-partido-chatgpt-son-prompts-errores-debes-evitar-escribirlos-3838641.jpg?tf=1200x' alt='Saca el máximo partido a ChatGPT: qué son los prompts y qué errores debes evitar al escribirlos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/renta-basica-universal-sam-altman-pretende-hacer-frente-ia-1398118'>Así es la renta básica universal de Sam Altman con la que pretende hacer frente a la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/renta-basica-universal-sam-altman-pretende-hacer-frente-ia-1398118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robot-humano-3847041.jpg?tf=1200x' alt='Así es la renta básica universal de Sam Altman con la que pretende hacer frente a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/aliexpress-deja-ko-amazon-oferta-samsung-galaxy-s24-1396403'>AliExpress deja KO a Amazon: el Samsung Galaxy S24 toca fondo con una rebaja brutal</a></h4>
-    <a href='https://computerhoy.com/android/aliexpress-deja-ko-amazon-oferta-samsung-galaxy-s24-1396403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/galaxy-s24-3757848.jpg?tf=1200x' alt='AliExpress deja KO a Amazon: el Samsung Galaxy S24 toca fondo con una rebaja brutal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ifixit-no-soplar-cartuchos-consola-1398281'>iFixit lo tiene claro: ni se te ocurra soplar los cartuchos de tu consola</a></h4>
-    <a href='https://computerhoy.com/gaming/ifixit-no-soplar-cartuchos-consola-1398281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ifixit-tiene-claro-ni-te-ocurra-soplar-cartuchos-consola-3850631.jpg?tf=1200x' alt='iFixit lo tiene claro: ni se te ocurra soplar los cartuchos de tu consola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/astronomos-estan-sorprendidos-han-descubierto-nuevo-gigantesco-agujero-negro-lactea-1398119'>Los astrónomos están sorprendidos: han descubierto un nuevo gigantesco agujero negro en la Vía Láctea </a></h4>
-    <a href='https://computerhoy.com/ciencia/astronomos-estan-sorprendidos-han-descubierto-nuevo-gigantesco-agujero-negro-lactea-1398119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/agujero-negro-3845759.jpg?tf=1200x' alt='Los astrónomos están sorprendidos: han descubierto un nuevo gigantesco agujero negro en la Vía Láctea ' />
     </a>
 </div>
 
