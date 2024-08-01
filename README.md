@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/juegos-olimpicos-paris-2024-evento-deportivo-gran-operacion-vigilancia-1398367'>Juegos Olímpicos de París 2024: ¿Evento deportivo o gran operación de vigilancia?</a></h4>
+    <a href='https://computerhoy.com/apps/juegos-olimpicos-paris-2024-evento-deportivo-gran-operacion-vigilancia-1398367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/juegos-olimpicos-paris-2024-3746824.jpg?tf=1200x' alt='Juegos Olímpicos de París 2024: ¿Evento deportivo o gran operación de vigilancia?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estas-son-todas-novedades-ha-traido-google-maps-llevamos-2024-1398362'>Estas son todas las novedades que ha traído Google Maps en lo que llevamos de 2024</a></h4>
+    <a href='https://computerhoy.com/apps/estas-son-todas-novedades-ha-traido-google-maps-llevamos-2024-1398362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-son-todas-novedades-ha-traido-google-maps-2024-3853293.jpg?tf=1200x' alt='Estas son todas las novedades que ha traído Google Maps en lo que llevamos de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-mensaje-urgente-numero-telefono-1398108'>La Policía Nacional lanza un mensaje urgente: si ves este número de teléfono, cuelga</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-mensaje-urgente-numero-telefono-1398108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/alerta-policia-llamadas-3845914.jpg?tf=1200x' alt='La Policía Nacional lanza un mensaje urgente: si ves este número de teléfono, cuelga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/tablet-jugar-ver-series-poco-tumba-precio-modelo-muy-potente-1398340'>Una tablet para jugar y ver series: POCO tumba el precio de un modelo muy potente</a></h4>
+    <a href='https://computerhoy.com/android/tablet-jugar-ver-series-poco-tumba-precio-modelo-muy-potente-1398340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-poco-pad-3852977.jpg?tf=1200x' alt='Una tablet para jugar y ver series: POCO tumba el precio de un modelo muy potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/6-usos-increibles-puedes-dar-flipper-zero-1398353'>6 usos increíbles que le puedes dar al Flipper Zero</a></h4>
     <a href='https://computerhoy.com/tecnologia/6-usos-increibles-puedes-dar-flipper-zero-1398353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/flipper-zero-3017058.jpg?tf=1200x' alt='6 usos increíbles que le puedes dar al Flipper Zero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/microsoft-presenta-edicion-especial-mando-xbox-muchas-novedades-ya-puedes-reservar-espana-1398339'>Microsoft presenta una edición especial del mando de Xbox con muchas novedades: ya lo puedes reservar en España</a></h4>
-    <a href='https://computerhoy.com/gaming/microsoft-presenta-edicion-especial-mando-xbox-muchas-novedades-ya-puedes-reservar-espana-1398339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-ha-presentado-nueva-edicion-especial-mando-xbox-ya-puedes-reservar-espana-3852834.jpg?tf=1200x' alt='Microsoft presenta una edición especial del mando de Xbox con muchas novedades: ya lo puedes reservar en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pantallas-plegables-tienen-sentido-portatiles-estos-motivos-1398330'>Las pantallas plegables tienen más sentido en los portátiles por estos motivos</a></h4>
-    <a href='https://computerhoy.com/pc/pantallas-plegables-tienen-sentido-portatiles-estos-motivos-1398330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/thinkpad-x1-fold-2083123.jpg?tf=1200x' alt='Las pantallas plegables tienen más sentido en los portátiles por estos motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/truco-definitivo-android-auto-nunca-pierdas-rumbo-1323270'>El truco oculto de Android Auto para que nunca pierdas el rumbo</a></h4>
-    <a href='https://computerhoy.com/android/truco-definitivo-android-auto-nunca-pierdas-rumbo-1323270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/truco-definitivo-android-auto-nunca-pierdas-rumbo-3201816.jpg?tf=1200x' alt='El truco oculto de Android Auto para que nunca pierdas el rumbo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/peculiar-uso-ha-dado-policia-eeuu-samsung-galaxy-z-flip-1398305'>El peculiar uso que le ha dado la policía de EEUU a los Samsung Galaxy Z Flip</a></h4>
-    <a href='https://computerhoy.com/moviles/peculiar-uso-ha-dado-policia-eeuu-samsung-galaxy-z-flip-1398305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/galaxy-z-flip-policia-3852652.jpg?tf=1200x' alt='El peculiar uso que le ha dado la policía de EEUU a los Samsung Galaxy Z Flip' />
     </a>
 </div>
 
