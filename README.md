@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/casio-anade-funcion-smartwatch-mitico-reloj-retro-44-euros-1398489'>Casio añade una función de smartwatch a su mítico reloj retro de 44 euros, y desata la locura</a></h4>
+    <a href='https://computerhoy.com/tecnologia/casio-anade-funcion-smartwatch-mitico-reloj-retro-44-euros-1398489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/casio-anade-funcion-smartwatch-mitico-reloj-retro-44-euros-desata-locura-3856952.jpg?tf=1200x' alt='Casio añade una función de smartwatch a su mítico reloj retro de 44 euros, y desata la locura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-1398478'>Compra un disco duro pensando que es nuevo, pero encuentra un tesoro de 800 GB valorado en miles de euros</a></h4>
     <a href='https://computerhoy.com/life/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-1398478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-3856951.jpg?tf=1200x' alt='Compra un disco duro pensando que es nuevo, pero encuentra un tesoro de 800 GB valorado en miles de euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/actualiza-chrome-ahora-mismo-google-lanza-parche-critico-evitar-ciberdelincuentes-roben-datos-1398482'>¡Actualiza Chrome ahora mismo! Google lanza un parche crítico para evitar que los ciberdelincuentes roben tus datos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/actualiza-chrome-ahora-mismo-google-lanza-parche-critico-evitar-ciberdelincuentes-roben-datos-1398482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/navegador-android-igual-chrome-diferencia-respeta-privacidad-3466689.jpg?tf=1200x' alt='¡Actualiza Chrome ahora mismo! Google lanza un parche crítico para evitar que los ciberdelincuentes roben tus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-5-supera-barrera-34-ghz-alcanza-nuevo-record-rendimiento-1398480'>Raspberry Pi 5 supera la barrera de los 3,4 GHz y alcanza un nuevo récord de rendimiento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-5-supera-barrera-34-ghz-alcanza-nuevo-record-rendimiento-1398480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ya-puedes-anadir-lector-ssd-aceleradores-ia-raspberry-pi-5-raspberry-pi-m2-hat-3314423.jpg?tf=1200x' alt='Raspberry Pi 5 supera la barrera de los 3,4 GHz y alcanza un nuevo récord de rendimiento' />
     </a>
 </div>
 
