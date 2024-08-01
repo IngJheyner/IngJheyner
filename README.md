@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/6-usos-increibles-puedes-dar-flipper-zero-1398353'>6 usos increíbles que le puedes dar al Flipper Zero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/6-usos-increibles-puedes-dar-flipper-zero-1398353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/flipper-zero-3017058.jpg?tf=1200x' alt='6 usos increíbles que le puedes dar al Flipper Zero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/microsoft-presenta-edicion-especial-mando-xbox-muchas-novedades-ya-puedes-reservar-espana-1398339'>Microsoft presenta una edición especial del mando de Xbox con muchas novedades: ya lo puedes reservar en España</a></h4>
+    <a href='https://computerhoy.com/gaming/microsoft-presenta-edicion-especial-mando-xbox-muchas-novedades-ya-puedes-reservar-espana-1398339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-ha-presentado-nueva-edicion-especial-mando-xbox-ya-puedes-reservar-espana-3852834.jpg?tf=1200x' alt='Microsoft presenta una edición especial del mando de Xbox con muchas novedades: ya lo puedes reservar en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/pantallas-plegables-tienen-sentido-portatiles-estos-motivos-1398330'>Las pantallas plegables tienen más sentido en los portátiles por estos motivos</a></h4>
+    <a href='https://computerhoy.com/pc/pantallas-plegables-tienen-sentido-portatiles-estos-motivos-1398330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/thinkpad-x1-fold-2083123.jpg?tf=1200x' alt='Las pantallas plegables tienen más sentido en los portátiles por estos motivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/truco-definitivo-android-auto-nunca-pierdas-rumbo-1323270'>El truco oculto de Android Auto para que nunca pierdas el rumbo</a></h4>
+    <a href='https://computerhoy.com/android/truco-definitivo-android-auto-nunca-pierdas-rumbo-1323270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/truco-definitivo-android-auto-nunca-pierdas-rumbo-3201816.jpg?tf=1200x' alt='El truco oculto de Android Auto para que nunca pierdas el rumbo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/peculiar-uso-ha-dado-policia-eeuu-samsung-galaxy-z-flip-1398305'>El peculiar uso que le ha dado la policía de EEUU a los Samsung Galaxy Z Flip</a></h4>
     <a href='https://computerhoy.com/moviles/peculiar-uso-ha-dado-policia-eeuu-samsung-galaxy-z-flip-1398305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/galaxy-z-flip-policia-3852652.jpg?tf=1200x' alt='El peculiar uso que le ha dado la policía de EEUU a los Samsung Galaxy Z Flip' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-supera-apple-primera-rebaja-nuevo-ipad-air-13-ambiciosa-1398094'>Amazon supera a Apple: primera rebaja en el nuevo iPad Air de 13", y es ambiciosa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-supera-apple-primera-rebaja-nuevo-ipad-air-13-ambiciosa-1398094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipad-air-m2-13-pulgadas-3502067.jpg?tf=1200x' alt='Amazon supera a Apple: primera rebaja en el nuevo iPad Air de 13", y es ambiciosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/serie-netflix-popular-todos-tiempos-ya-tiene-fecha-estreno-segunda-temporada-no-tendras-esperar-mucho-1398308'>La serie de Netflix más popular de todos los tiempos ya tiene fecha de estreno de su segunda temporada (y no tendrás que esperar mucho)</a></h4>
-    <a href='https://computerhoy.com/tv/serie-netflix-popular-todos-tiempos-ya-tiene-fecha-estreno-segunda-temporada-no-tendras-esperar-mucho-1398308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/juego-calamar-trabajadores-2535577.jpg?tf=1200x' alt='La serie de Netflix más popular de todos los tiempos ya tiene fecha de estreno de su segunda temporada (y no tendrás que esperar mucho)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gtp-4o-chatgpt-gran-aliado-peor-pesadilla-privacidad-1398300'>GTP-4o en ChatGPT: ¿Gran aliado o la peor pesadilla para tu privacidad?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gtp-4o-chatgpt-gran-aliado-peor-pesadilla-privacidad-1398300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/openai-lanza-gpt-4o-primer-modelo-lengua-trabaja-tiempo-real-latencia-3311692.jpg?tf=1200x' alt='GTP-4o en ChatGPT: ¿Gran aliado o la peor pesadilla para tu privacidad?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-ha-estado-husmeando-ordenador-movil-1308776'>Cómo saber si alguien ha estado cotilleando en tu ordenador o móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-alguien-ha-estado-husmeando-ordenador-movil-1308776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/espiar-movil-3186078.jpg?tf=1200x' alt='Cómo saber si alguien ha estado cotilleando en tu ordenador o móvil' />
     </a>
 </div>
 
