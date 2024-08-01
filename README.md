@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/amazon-prime-video-planes-precios-contenido-acerca-plataforma-streaming-1398194'>Amazon Prime Video: planes, precios, contenido y más acerca de la plataforma de streaming </a></h4>
+    <a href='https://computerhoy.com/entretenimiento/amazon-prime-video-planes-precios-contenido-acerca-plataforma-streaming-1398194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-prime-video-3274033.jpg?tf=1200x' alt='Amazon Prime Video: planes, precios, contenido y más acerca de la plataforma de streaming ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/casi-tan-buenas-como-nadal-alcaraz-5-peliculas-tenis-tienes-ver-1398222'>Casi tan buenas como Nadal y Alcaraz: 5 películas sobre tenis que tienes que ver sí o sí</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/casi-tan-buenas-como-nadal-alcaraz-5-peliculas-tenis-tienes-ver-1398222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/rafa-nadal-3853779.jpg?tf=1200x' alt='Casi tan buenas como Nadal y Alcaraz: 5 películas sobre tenis que tienes que ver sí o sí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/tdt-television-digital-terrestre-origen-apagon-analogico-como-acceder-canales-1398033'>Qué es la TDT o Televisión Digital Terrestre: origen, apagón analógico y cómo acceder a sus canales</a></h4>
     <a href='https://computerhoy.com/tv/tdt-television-digital-terrestre-origen-apagon-analogico-como-acceder-canales-1398033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ver-tdt-3274549.jpg?tf=1200x' alt='Qué es la TDT o Televisión Digital Terrestre: origen, apagón analógico y cómo acceder a sus canales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/aviso-bombero-enchufe-todos-tenemos-casa-saco-siete-1398434'>El aviso de un bombero sobre este enchufe que todos tenemos en casa: "de una saco siete"</a></h4>
     <a href='https://computerhoy.com/hogar/aviso-bombero-enchufe-todos-tenemos-casa-saco-siete-1398434' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aviso-bombero-enchufe-todos-tenemos-casa-saco-siete-3855351.jpg?tf=1200x' alt='El aviso de un bombero sobre este enchufe que todos tenemos en casa: "de una saco siete"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/caracteristicas-ocultas-ios-18-apple-no-te-ha-contado-1390908'>Características ocultas de iOS 18 que Apple no te ha contado</a></h4>
-    <a href='https://computerhoy.com/apple/caracteristicas-ocultas-ios-18-apple-no-te-ha-contado-1390908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ios-18-3479154.jpg?tf=1200x' alt='Características ocultas de iOS 18 que Apple no te ha contado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/acelera-internet-casa-router-wifi-7-barato-hemos-encontrado-1398433'>Acelera internet en casa: este router con WiFi 7 es el más barato que hemos encontrado</a></h4>
-    <a href='https://computerhoy.com/redes/acelera-internet-casa-router-wifi-7-barato-hemos-encontrado-1398433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mercusys-mr47be-3854724.jpg?tf=1200x' alt='Acelera internet en casa: este router con WiFi 7 es el más barato que hemos encontrado' />
     </a>
 </div>
 
