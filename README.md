@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/peculiar-uso-ha-dado-policia-eeuu-samsung-galaxy-z-flip-1398305'>El peculiar uso que le ha dado la policía de EEUU a los Samsung Galaxy Z Flip</a></h4>
+    <a href='https://computerhoy.com/moviles/peculiar-uso-ha-dado-policia-eeuu-samsung-galaxy-z-flip-1398305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/galaxy-z-flip-policia-3852652.jpg?tf=1200x' alt='El peculiar uso que le ha dado la policía de EEUU a los Samsung Galaxy Z Flip' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-supera-apple-primera-rebaja-nuevo-ipad-air-13-ambiciosa-1398094'>Amazon supera a Apple: primera rebaja en el nuevo iPad Air de 13", y es ambiciosa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-supera-apple-primera-rebaja-nuevo-ipad-air-13-ambiciosa-1398094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipad-air-m2-13-pulgadas-3502067.jpg?tf=1200x' alt='Amazon supera a Apple: primera rebaja en el nuevo iPad Air de 13", y es ambiciosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/serie-netflix-popular-todos-tiempos-ya-tiene-fecha-estreno-segunda-temporada-no-tendras-esperar-mucho-1398308'>La serie de Netflix más popular de todos los tiempos ya tiene fecha de estreno de su segunda temporada (y no tendrás que esperar mucho)</a></h4>
     <a href='https://computerhoy.com/tv/serie-netflix-popular-todos-tiempos-ya-tiene-fecha-estreno-segunda-temporada-no-tendras-esperar-mucho-1398308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/juego-calamar-trabajadores-2535577.jpg?tf=1200x' alt='La serie de Netflix más popular de todos los tiempos ya tiene fecha de estreno de su segunda temporada (y no tendrás que esperar mucho)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-ha-estado-husmeando-ordenador-movil-1308776'>Cómo saber si alguien ha estado cotilleando en tu ordenador o móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-alguien-ha-estado-husmeando-ordenador-movil-1308776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/espiar-movil-3186078.jpg?tf=1200x' alt='Cómo saber si alguien ha estado cotilleando en tu ordenador o móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/revelado-verdadero-rostro-faraon-tutankamon-3300-anos-despues-tecnologia-3d-1396469'>Revelan el verdadero rostro del faraón Tutankamón 3.300 años después gracias a la tecnología 3D</a></h4>
-    <a href='https://computerhoy.com/ciencia/revelado-verdadero-rostro-faraon-tutankamon-3300-anos-despues-tecnologia-3d-1396469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tutankamon-no-era-tan-atractivo-como-muestran-algunas-recreaciones-estudio-3760888.jpg?tf=1200x' alt='Revelan el verdadero rostro del faraón Tutankamón 3.300 años después gracias a la tecnología 3D' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-evitar-fraudes-estafas-whatsapp-1398196'>¿Cómo evitar fraudes y estafas por WhatsApp?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-evitar-fraudes-estafas-whatsapp-1398196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fraude-whatsapp-3847187.jpg?tf=1200x' alt='¿Cómo evitar fraudes y estafas por WhatsApp?' />
     </a>
 </div>
 
