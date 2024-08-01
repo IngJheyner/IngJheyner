@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/serie-netflix-popular-todos-tiempos-ya-tiene-fecha-estreno-segunda-temporada-no-tendras-esperar-mucho-1398308'>La serie de Netflix más popular de todos los tiempos ya tiene fecha de estreno de su segunda temporada (y no tendrás que esperar mucho)</a></h4>
+    <a href='https://computerhoy.com/tv/serie-netflix-popular-todos-tiempos-ya-tiene-fecha-estreno-segunda-temporada-no-tendras-esperar-mucho-1398308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/juego-calamar-trabajadores-2535577.jpg?tf=1200x' alt='La serie de Netflix más popular de todos los tiempos ya tiene fecha de estreno de su segunda temporada (y no tendrás que esperar mucho)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gtp-4o-chatgpt-gran-aliado-peor-pesadilla-privacidad-1398300'>GTP-4o en ChatGPT: ¿Gran aliado o la peor pesadilla para tu privacidad?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gtp-4o-chatgpt-gran-aliado-peor-pesadilla-privacidad-1398300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/openai-lanza-gpt-4o-primer-modelo-lengua-trabaja-tiempo-real-latencia-3311692.jpg?tf=1200x' alt='GTP-4o en ChatGPT: ¿Gran aliado o la peor pesadilla para tu privacidad?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-ha-estado-husmeando-ordenador-movil-1308776'>Cómo saber si alguien ha estado cotilleando en tu ordenador o móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-alguien-ha-estado-husmeando-ordenador-movil-1308776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/espiar-movil-3186078.jpg?tf=1200x' alt='Cómo saber si alguien ha estado cotilleando en tu ordenador o móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-evitar-fraudes-estafas-whatsapp-1398196'>¿Cómo evitar fraudes y estafas por WhatsApp?</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-evitar-fraudes-estafas-whatsapp-1398196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fraude-whatsapp-3847187.jpg?tf=1200x' alt='¿Cómo evitar fraudes y estafas por WhatsApp?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mini-pc-ultracompacto-windows-11-teclast-1394965'>Este PC cabe en el bolsillo y cuesta menos de 100 euros: tiene Windows 11 y lo tiene casi todo</a></h4>
-    <a href='https://computerhoy.com/pc/mini-pc-ultracompacto-windows-11-teclast-1394965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teclast-n10-3697881.jpg?tf=1200x' alt='Este PC cabe en el bolsillo y cuesta menos de 100 euros: tiene Windows 11 y lo tiene casi todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/entra-vigor-ley-inteligencia-artificial-ue-implica-usuarios-empresas-1398286'>Entra en vigor la Ley de Inteligencia Artificial de la UE: qué implica para los usuarios y empresas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/entra-vigor-ley-inteligencia-artificial-ue-implica-usuarios-empresas-1398286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/entra-vigor-ley-inteligencia-artificial-ue-implica-usuarios-empresas-3851476.jpg?tf=1200x' alt='Entra en vigor la Ley de Inteligencia Artificial de la UE: qué implica para los usuarios y empresas' />
     </a>
 </div>
 
