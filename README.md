@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/capturan-video-pantera-nebulosa-1398494'>Capturan en vídeo a uno de los felinos más amenazados del mundo</a></h4>
+    <a href='https://computerhoy.com/ciencia/capturan-video-pantera-nebulosa-1398494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/capturan-video-felinos-amenazados-mundo-3857510.jpg?tf=1200x' alt='Capturan en vídeo a uno de los felinos más amenazados del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/modo-oculto-cuatro-toques-amazon-fire-tv-mejora-calidad-imagen-instante-1398488'>El modo oculto de los cuatro toques de tu Amazon Fire TV que mejora la calidad de imagen al instante</a></h4>
     <a href='https://computerhoy.com/amazon/modo-oculto-cuatro-toques-amazon-fire-tv-mejora-calidad-imagen-instante-1398488' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modo-oculto-cuatro-toques-amazon-fire-tv-mejora-calidad-imagen-instante-3857650.jpg?tf=1200x' alt='El modo oculto de los cuatro toques de tu Amazon Fire TV que mejora la calidad de imagen al instante' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/piscina-olimpica-rapida-lenta-caracteristicas-1398487'>Por qué se dice que una piscina olímpica es más rápida que otra y cómo es esto posible</a></h4>
     <a href='https://computerhoy.com/ciencia/piscina-olimpica-rapida-lenta-caracteristicas-1398487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dice-piscina-olimpica-rapida-otra-como-posible-3856088.jpg?tf=1200x' alt='Por qué se dice que una piscina olímpica es más rápida que otra y cómo es esto posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cerveza-espanola-corona-como-mejor-mundo-te-sorprendera-saber-cual-1398484'>Una cerveza española se corona como la mejor del mundo, y te sorprenderá saber cuál es</a></h4>
-    <a href='https://computerhoy.com/life/cerveza-espanola-corona-como-mejor-mundo-te-sorprendera-saber-cual-1398484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cerveza-espanola-corona-como-mejor-mundo-te-sorprendera-saber-cual-3856384.jpg?tf=1200x' alt='Una cerveza española se corona como la mejor del mundo, y te sorprenderá saber cuál es' />
     </a>
 </div>
 
