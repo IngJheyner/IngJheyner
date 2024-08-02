@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-integrara-propio-siri-inteligencia-artificial-funciona-1398522'>WhatsApp integrará su propio Siri con inteligencia artificial: así funciona</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-integrara-propio-siri-inteligencia-artificial-funciona-1398522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-integrara-nuevo-boton-android-utilizar-meta-ai-3859635.jpg?tf=1200x' alt='WhatsApp integrará su propio Siri con inteligencia artificial: así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/imprescindible-coche-xiaomi-soporte-carga-inalambrica-ultrarrapida-precio-locos-1398520'>Imprescindible en tu coche y de Xiaomi: este soporte con carga inalámbrica ultrarrápida, a precio de locos</a></h4>
     <a href='https://computerhoy.com/tecnologia/imprescindible-coche-xiaomi-soporte-carga-inalambrica-ultrarrapida-precio-locos-1398520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cargador-xiaomi-30w-3859633.jpg?tf=1200x' alt='Imprescindible en tu coche y de Xiaomi: este soporte con carga inalámbrica ultrarrápida, a precio de locos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-674-computer-hoy-1396997'>¡Ya está en tu quiosco el número 674 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-674-computer-hoy-1396997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/computer-hoy-674-3798656.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 674 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/compresion-memoria-windows-11-deberias-activarla-1314002'>Qué es la compresión de memoria en Windows 11 y por qué deberías activarla ya</a></h4>
-    <a href='https://computerhoy.com/tutoriales/compresion-memoria-windows-11-deberias-activarla-1314002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/compresion-memoria-windows-11-deberias-activarlo-3150178.jpg?tf=1200x' alt='Qué es la compresión de memoria en Windows 11 y por qué deberías activarla ya' />
     </a>
 </div>
 
