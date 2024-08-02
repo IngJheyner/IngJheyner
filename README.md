@@ -50,17 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/estas-imagenes-muestran-mayor-explosion-rayos-gamma-historia-1398594'>Estas imágenes muestran la mayor explosión de rayos gamma de la historia</a></h4>
-    <a href='https://computerhoy.com/espacio/estas-imagenes-muestran-mayor-explosion-rayos-gamma-historia-1398594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-imagenes-muestran-mayor-explosion-rayos-gamma-historia-3860603.jpg?tf=1200x' alt='Estas imágenes muestran la mayor explosión de rayos gamma de la historia' />
+    <h4><a href='https://computerhoy.com/apps/como-leer-mensajes-whatsapp-abrir-aplicacion-online-1371940'>El truco de WhatsApp para leer los mensajes sin abrirlos ni mostrarse conectado en línea</a></h4>
+    <a href='https://computerhoy.com/apps/como-leer-mensajes-whatsapp-abrir-aplicacion-online-1371940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3286852.jpg?tf=1200x' alt='El truco de WhatsApp para leer los mensajes sin abrirlos ni mostrarse conectado en línea' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/motivos-guardar-consolas-antiguas-1397278'>4 motivos de peso por los que deberías guardar tus consolas antiguas</a></h4>
-    <a href='https://computerhoy.com/gaming/motivos-guardar-consolas-antiguas-1397278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/4-motivos-deberias-guardar-consolas-antiguas-3808906.jpg?tf=1200x' alt='4 motivos de peso por los que deberías guardar tus consolas antiguas' />
+    <h4><a href='https://computerhoy.com/moviles/no-sabias-necesitabas-ahora-dos-puertos-usb-c-movil-1398573'>No sabías que lo necesitabas hasta ahora: dos puertos USB-C en tu móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/no-sabias-necesitabas-ahora-dos-puertos-usb-c-movil-1398573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/limpieza-puertos-movil-oneplus-12r-3304408.jpg?tf=1200x' alt='No sabías que lo necesitabas hasta ahora: dos puertos USB-C en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/estas-imagenes-muestran-mayor-explosion-rayos-gamma-historia-1398594'>Estas imágenes muestran la mayor explosión de rayos gamma de la historia</a></h4>
+    <a href='https://computerhoy.com/espacio/estas-imagenes-muestran-mayor-explosion-rayos-gamma-historia-1398594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-imagenes-muestran-mayor-explosion-rayos-gamma-historia-3860603.jpg?tf=1200x' alt='Estas imágenes muestran la mayor explosión de rayos gamma de la historia' />
     </a>
 </div>
 
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-espia-google-maps-beneficios-tiene-usarlo-1321196'>Cómo activar el "modo espía" de Google Maps y qué beneficios tiene usarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-modo-espia-google-maps-beneficios-tiene-usarlo-1321196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-activar-modo-espia-google-maps-beneficios-tiene-3197708.jpg?tf=1200x' alt='Cómo activar el "modo espía" de Google Maps y qué beneficios tiene usarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/whatsapp-come-bateria-movil-desactiva-funcion-adios-problema-1398564'>WhatsApp come la batería de tu móvil: desactiva esta función y adiós al problema</a></h4>
-    <a href='https://computerhoy.com/tutoriales/whatsapp-come-bateria-movil-desactiva-funcion-adios-problema-1398564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-almacenamiento-3739667.jpg?tf=1200x' alt='WhatsApp come la batería de tu móvil: desactiva esta función y adiós al problema' />
+    <h4><a href='https://computerhoy.com/gaming/motivos-guardar-consolas-antiguas-1397278'>4 motivos de peso por los que deberías guardar tus consolas antiguas</a></h4>
+    <a href='https://computerhoy.com/gaming/motivos-guardar-consolas-antiguas-1397278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/4-motivos-deberias-guardar-consolas-antiguas-3808906.jpg?tf=1200x' alt='4 motivos de peso por los que deberías guardar tus consolas antiguas' />
     </a>
 </div>
 
