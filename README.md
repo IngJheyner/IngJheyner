@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/revolucion-coche-electrico-llega-barcelona-primera-estacion-carga-alimenta-energia-trenes-1398638'>La revolución del coche eléctrico llega a Barcelona: primera estación de carga que se alimenta con la energía de los trenes</a></h4>
+    <a href='https://computerhoy.com/motor/revolucion-coche-electrico-llega-barcelona-primera-estacion-carga-alimenta-energia-trenes-1398638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/revolucion-ecologica-barcelona-estacion-carga-alimenta-energia-trenes-3861535.jpg?tf=1200x' alt='La revolución del coche eléctrico llega a Barcelona: primera estación de carga que se alimenta con la energía de los trenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-recomienda-desactivar-2g-evitar-problemas-seguridad-puedes-hacerlo-1398560'>Google recomienda desactivar el 2G para evitar problemas de seguridad y así puedes hacerlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-recomienda-desactivar-2g-evitar-problemas-seguridad-puedes-hacerlo-1398560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/desactivar-2g-3860419.jpg?tf=1200x' alt='Google recomienda desactivar el 2G para evitar problemas de seguridad y así puedes hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/creador-pantalla-azul-muerte-windows-confiesa-curioso-motivo-diseno-1398610'>El creador de la “pantalla azul de la muerte” de Windows confiesa el curioso motivo por el que se diseñó</a></h4>
     <a href='https://computerhoy.com/windows/creador-pantalla-azul-muerte-windows-confiesa-curioso-motivo-diseno-1398610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/creador-pantalla-azul-muerte-windows-ha-explicado-motivo-diseno-3860913.jpg?tf=1200x' alt='El creador de la “pantalla azul de la muerte” de Windows confiesa el curioso motivo por el que se diseñó' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/no-sabias-necesitabas-ahora-dos-puertos-usb-c-movil-1398573'>No sabías que lo necesitabas hasta ahora: dos puertos USB-C en tu móvil</a></h4>
     <a href='https://computerhoy.com/moviles/no-sabias-necesitabas-ahora-dos-puertos-usb-c-movil-1398573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/limpieza-puertos-movil-oneplus-12r-3304408.jpg?tf=1200x' alt='No sabías que lo necesitabas hasta ahora: dos puertos USB-C en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/estas-imagenes-muestran-mayor-explosion-rayos-gamma-historia-1398594'>Estas imágenes muestran la mayor explosión de rayos gamma de la historia</a></h4>
-    <a href='https://computerhoy.com/espacio/estas-imagenes-muestran-mayor-explosion-rayos-gamma-historia-1398594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-imagenes-muestran-mayor-explosion-rayos-gamma-historia-3860603.jpg?tf=1200x' alt='Estas imágenes muestran la mayor explosión de rayos gamma de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/motivos-guardar-consolas-antiguas-1397278'>4 motivos de peso por los que deberías guardar tus consolas antiguas</a></h4>
-    <a href='https://computerhoy.com/gaming/motivos-guardar-consolas-antiguas-1397278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/4-motivos-deberias-guardar-consolas-antiguas-3808906.jpg?tf=1200x' alt='4 motivos de peso por los que deberías guardar tus consolas antiguas' />
     </a>
 </div>
 
