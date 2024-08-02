@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/significa-salud-tener-unas-rayas-1398374'>¿Qué significa para tu salud tener las uñas con rayas?</a></h4>
+    <a href='https://computerhoy.com/life/significa-salud-tener-unas-rayas-1398374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/unas-mano-3853931.jpg?tf=1200x' alt='¿Qué significa para tu salud tener las uñas con rayas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/capturan-video-pantera-nebulosa-1398494'>Capturan en vídeo a uno de los felinos más amenazados del mundo</a></h4>
     <a href='https://computerhoy.com/ciencia/capturan-video-pantera-nebulosa-1398494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/capturan-video-felinos-amenazados-mundo-3857510.jpg?tf=1200x' alt='Capturan en vídeo a uno de los felinos más amenazados del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-1398478'>Compra un disco duro pensando que es nuevo, pero encuentra un tesoro de 800 GB valorado en miles de euros</a></h4>
     <a href='https://computerhoy.com/life/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-1398478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-3856951.jpg?tf=1200x' alt='Compra un disco duro pensando que es nuevo, pero encuentra un tesoro de 800 GB valorado en miles de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/piscina-olimpica-rapida-lenta-caracteristicas-1398487'>Por qué se dice que una piscina olímpica es más rápida que otra y cómo es esto posible</a></h4>
-    <a href='https://computerhoy.com/ciencia/piscina-olimpica-rapida-lenta-caracteristicas-1398487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dice-piscina-olimpica-rapida-otra-como-posible-3856088.jpg?tf=1200x' alt='Por qué se dice que una piscina olímpica es más rápida que otra y cómo es esto posible' />
     </a>
 </div>
 
