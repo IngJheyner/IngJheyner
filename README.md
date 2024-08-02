@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estos-son-peligros-oversharing-redes-sociales-durante-verano-1397987'>Estos son los peligros del oversharing en redes sociales durante el verano</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estos-son-peligros-oversharing-redes-sociales-durante-verano-1397987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estos-son-peligros-oversharing-redes-sociales-durante-verano-3839716.jpg?tf=1200x' alt='Estos son los peligros del oversharing en redes sociales durante el verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/ha-creado-realmente-google-vida-artificial-casi-plantearselo-1398202'>¿Ha creado realmente Google vida artificial casi sin planteárselo?</a></h4>
+    <a href='https://computerhoy.com/ciencia/ha-creado-realmente-google-vida-artificial-casi-plantearselo-1398202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ha-creado-realmente-google-vida-artificial-3846880.jpg?tf=1200x' alt='¿Ha creado realmente Google vida artificial casi sin planteárselo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/16g-ram-peso-macbook-air-rival-hp-amazon-1394288'>16GB de RAM y peso similar al MacBook Air: este portátil de menos de 500 euros es una de las mejores opciones de Amazon</a></h4>
+    <a href='https://computerhoy.com/pc/16g-ram-peso-macbook-air-rival-hp-amazon-1394288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hp-15s-fq5083ns-3682965.jpg?tf=1200x' alt='16GB de RAM y peso similar al MacBook Air: este portátil de menos de 500 euros es una de las mejores opciones de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/significa-salud-tener-unas-rayas-1398374'>¿Qué significa para tu salud tener las uñas con rayas?</a></h4>
     <a href='https://computerhoy.com/life/significa-salud-tener-unas-rayas-1398374' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/unas-mano-3853931.jpg?tf=1200x' alt='¿Qué significa para tu salud tener las uñas con rayas?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/capturan-video-pantera-nebulosa-1398494'>Capturan en vídeo a uno de los felinos más amenazados del mundo</a></h4>
     <a href='https://computerhoy.com/ciencia/capturan-video-pantera-nebulosa-1398494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/capturan-video-felinos-amenazados-mundo-3857510.jpg?tf=1200x' alt='Capturan en vídeo a uno de los felinos más amenazados del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/modo-oculto-cuatro-toques-amazon-fire-tv-mejora-calidad-imagen-instante-1398488'>El modo oculto de los cuatro toques de tu Amazon Fire TV que mejora la calidad de imagen al instante</a></h4>
-    <a href='https://computerhoy.com/amazon/modo-oculto-cuatro-toques-amazon-fire-tv-mejora-calidad-imagen-instante-1398488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modo-oculto-cuatro-toques-amazon-fire-tv-mejora-calidad-imagen-instante-3857650.jpg?tf=1200x' alt='El modo oculto de los cuatro toques de tu Amazon Fire TV que mejora la calidad de imagen al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/casio-anade-funcion-smartwatch-mitico-reloj-retro-44-euros-1398489'>Casio añade una función de smartwatch a su mítico reloj retro de 44 euros, y desata la locura</a></h4>
-    <a href='https://computerhoy.com/tecnologia/casio-anade-funcion-smartwatch-mitico-reloj-retro-44-euros-1398489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/casio-anade-funcion-smartwatch-mitico-reloj-retro-44-euros-desata-locura-3856952.jpg?tf=1200x' alt='Casio añade una función de smartwatch a su mítico reloj retro de 44 euros, y desata la locura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-1398478'>Compra un disco duro pensando que es nuevo, pero encuentra un tesoro de 800 GB valorado en miles de euros</a></h4>
-    <a href='https://computerhoy.com/life/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-1398478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-3856951.jpg?tf=1200x' alt='Compra un disco duro pensando que es nuevo, pero encuentra un tesoro de 800 GB valorado en miles de euros' />
     </a>
 </div>
 
