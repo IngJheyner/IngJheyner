@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/whatsapp-come-bateria-movil-desactiva-funcion-adios-problema-1398564'>WhatsApp come la batería de tu móvil: desactiva esta función y adiós al problema</a></h4>
+    <a href='https://computerhoy.com/tutoriales/whatsapp-come-bateria-movil-desactiva-funcion-adios-problema-1398564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-almacenamiento-3739667.jpg?tf=1200x' alt='WhatsApp come la batería de tu móvil: desactiva esta función y adiós al problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ultimo-negocio-elon-musk-no-tiene-nada-ver-tecnologia-pero-futuro-humanidad-1398550'>El último negocio de Elon Musk no tiene nada que ver con la tecnología, pero sí con el futuro de la humanidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ultimo-negocio-elon-musk-no-tiene-nada-ver-tecnologia-pero-futuro-humanidad-1398550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ultimo-negocio-elon-musk-no-tiene-nada-ver-tecnologia-pero-futuro-humanidad-3860253.jpg?tf=1200x' alt='El último negocio de Elon Musk no tiene nada que ver con la tecnología, pero sí con el futuro de la humanidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tazas-ikea-surco-lavavajillas-621883'>¿Por qué las tazas de IKEA tienen un pequeño surco en su base?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tazas-ikea-surco-lavavajillas-621883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/taza-ikea-3860267.jpg?tf=1200x' alt='¿Por qué las tazas de IKEA tienen un pequeño surco en su base?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/grave-brecha-seguridad-rabbit-r1-exempleado-filtra-datos-codigo-fuente-1398545'>Grave brecha de seguridad en Rabbit R1: un exempleado filtra datos y código fuente</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/grave-brecha-seguridad-rabbit-r1-exempleado-filtra-datos-codigo-fuente-1398545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-r1-3263345.jpg?tf=1200x' alt='Grave brecha de seguridad en Rabbit R1: un exempleado filtra datos y código fuente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/hemos-encontrado-portatil-reventar-steam-bastante-barato-ryzen-7-100eu-descuento-1398530'>Hemos encontrado un portátil para reventar Steam bastante barato: Ryzen 7 y 100€ de descuento</a></h4>
     <a href='https://computerhoy.com/pc/hemos-encontrado-portatil-reventar-steam-bastante-barato-ryzen-7-100eu-descuento-1398530' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-tuf-gaming-f15-fx506lhb-3458379.jpg?tf=1200x' alt='Hemos encontrado un portátil para reventar Steam bastante barato: Ryzen 7 y 100€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/dgt-obliga-ahora-llevar-tres-documentos-fisicos-coche-aunque-puedes-llevarlo-movil-1398544'>La DGT obliga desde ahora a llevar tres documentos físicos en el coche, aunque uno puedes llevarlo en el móvil</a></h4>
-    <a href='https://computerhoy.com/motor/dgt-obliga-ahora-llevar-tres-documentos-fisicos-coche-aunque-puedes-llevarlo-movil-1398544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dgt-obliga-ahora-llevar-tres-documentos-fisicos-coche-aunque-puedes-llevarlo-movil-3859935.jpg?tf=1200x' alt='La DGT obliga desde ahora a llevar tres documentos físicos en el coche, aunque uno puedes llevarlo en el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/crean-laser-puede-hackearlo-todo-publican-como-fabricarlo-razon-1398526'>Crean un láser que puede hackearlo todo y publican cómo fabricarlo por esta razón</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/crean-laser-puede-hackearlo-todo-publican-como-fabricarlo-razon-1398526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/laser-hackeo-3859782.jpg?tf=1200x' alt='Crean un láser que puede hackearlo todo y publican cómo fabricarlo por esta razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/6-dispositivos-uso-mi-dia-dia-durante-teletrabajo-1319206'>Teletrabajo desde hace 5 años: 6 dispositivos que uso día a día y me hacen la vida más fácil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/6-dispositivos-uso-mi-dia-dia-durante-teletrabajo-1319206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/6-cosas-te-haran-vida-facil-teletrabajas-3194506.jpg?tf=1200x' alt='Teletrabajo desde hace 5 años: 6 dispositivos que uso día a día y me hacen la vida más fácil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-integrara-propio-siri-inteligencia-artificial-funciona-1398522'>WhatsApp integrará su propio Siri con inteligencia artificial: así funciona</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-integrara-propio-siri-inteligencia-artificial-funciona-1398522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-integrara-nuevo-boton-android-utilizar-meta-ai-3859635.jpg?tf=1200x' alt='WhatsApp integrará su propio Siri con inteligencia artificial: así funciona' />
     </a>
 </div>
 
