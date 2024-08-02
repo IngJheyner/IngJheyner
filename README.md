@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/habilite-funcion-mi-movil-he-dicho-adios-llamadas-spam-gracias-google-1398665'>Desde que habilité esta función en mi móvil he dicho adiós a las llamadas spam: gracias Google</a></h4>
+    <a href='https://computerhoy.com/android/habilite-funcion-mi-movil-he-dicho-adios-llamadas-spam-gracias-google-1398665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/habilite-funcion-mi-movil-he-dicho-adios-llamadas-spam-gracias-google-3863267.jpg?tf=1200x' alt='Desde que habilité esta función en mi móvil he dicho adiós a las llamadas spam: gracias Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/todo-huawei-empresa-tecnologica-china-estados-unidos-ha-vetado-varias-ocasiones-1398225'>Todo sobre Huawei, la empresa tecnológica china a la que Estados Unidos ha vetado en varias ocasiones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-huawei-empresa-tecnologica-china-estados-unidos-ha-vetado-varias-ocasiones-1398225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/huawei-estados-unidos-china-3847852.jpg?tf=1200x' alt='Todo sobre Huawei, la empresa tecnológica china a la que Estados Unidos ha vetado en varias ocasiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-superheroes-marvel-nunca-tendrian-haber-existido-1398423'>5 películas de superhéroes Marvel que nunca tendrían que haber existido</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-superheroes-marvel-nunca-tendrian-haber-existido-1398423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/5-peliculas-superheroes-marvel-nunca-tendrian-haber-existido-3854419.jpg?tf=1200x' alt='5 películas de superhéroes Marvel que nunca tendrían que haber existido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/estos-son-libros-favoritos-stephen-king-han-convertido-maestro-terror-1398627'>Estos son los libros favoritos de Stephen King, y que lo han convertido en un maestro del terror</a></h4>
     <a href='https://computerhoy.com/entretenimiento/estos-son-libros-favoritos-stephen-king-han-convertido-maestro-terror-1398627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/stephen-king-2978674.jpg?tf=1200x' alt='Estos son los libros favoritos de Stephen King, y que lo han convertido en un maestro del terror' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/alarma-dgt-metodo-gallego-whatsapp-app-radares-1398405'>Alarma en la DGT por el "método gallego": convierten WhatsApp en la mejor app anti-radares</a></h4>
     <a href='https://computerhoy.com/motor/alarma-dgt-metodo-gallego-whatsapp-app-radares-1398405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/metodo-gallego-whatsapp-3861233.jpg?tf=1200x' alt='Alarma en la DGT por el "método gallego": convierten WhatsApp en la mejor app anti-radares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/waze-ya-no-te-avisa-radares-velocidad-hay-carretera-1398493'>¿Por qué Waze ya no te avisa de los radares de velocidad que hay en la carretera?</a></h4>
-    <a href='https://computerhoy.com/apps/waze-ya-no-te-avisa-radares-velocidad-hay-carretera-1398493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-ya-no-te-avisa-radares-velocidad-hay-carretera-3858492.jpg?tf=1200x' alt='¿Por qué Waze ya no te avisa de los radares de velocidad que hay en la carretera?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-va-toda-velocidad-5g-asegura-diez-dispositivos-40-centimos-mes-cada-1398505'>Esta VPN va a toda velocidad hasta en 5G: asegura diez dispositivos desde 40 céntimos al mes cada uno</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-va-toda-velocidad-5g-asegura-diez-dispositivos-40-centimos-mes-cada-1398505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-vpn-3309985.jpg?tf=1200x' alt='Esta VPN va a toda velocidad hasta en 5G: asegura diez dispositivos desde 40 céntimos al mes cada uno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nasa-inicios-carrera-espacial-urss-apertura-sector-privado-1398236'>Qué es la NASA: inicios, carrera espacial con la URSS y apertura al sector privado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nasa-inicios-carrera-espacial-urss-apertura-sector-privado-1398236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-estados-unidos-3848308.jpg?tf=1200x' alt='Qué es la NASA: inicios, carrera espacial con la URSS y apertura al sector privado' />
     </a>
 </div>
 
