@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estos-son-libros-favoritos-stephen-king-han-convertido-maestro-terror-1398627'>Estos son los libros favoritos de Stephen King, y que lo han convertido en un maestro del terror</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estos-son-libros-favoritos-stephen-king-han-convertido-maestro-terror-1398627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/stephen-king-2978674.jpg?tf=1200x' alt='Estos son los libros favoritos de Stephen King, y que lo han convertido en un maestro del terror' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/alarma-dgt-metodo-gallego-whatsapp-app-radares-1398405'>Alarma en la DGT por el "método gallego": convierten WhatsApp en la mejor app anti-radares</a></h4>
+    <a href='https://computerhoy.com/motor/alarma-dgt-metodo-gallego-whatsapp-app-radares-1398405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/metodo-gallego-whatsapp-3861233.jpg?tf=1200x' alt='Alarma en la DGT por el "método gallego": convierten WhatsApp en la mejor app anti-radares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/waze-ya-no-te-avisa-radares-velocidad-hay-carretera-1398493'>¿Por qué Waze ya no te avisa de los radares de velocidad que hay en la carretera?</a></h4>
     <a href='https://computerhoy.com/apps/waze-ya-no-te-avisa-radares-velocidad-hay-carretera-1398493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-ya-no-te-avisa-radares-velocidad-hay-carretera-3858492.jpg?tf=1200x' alt='¿Por qué Waze ya no te avisa de los radares de velocidad que hay en la carretera?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nasa-inicios-carrera-espacial-urss-apertura-sector-privado-1398236'>Qué es la NASA: inicios, carrera espacial con la URSS y apertura al sector privado</a></h4>
     <a href='https://computerhoy.com/tecnologia/nasa-inicios-carrera-espacial-urss-apertura-sector-privado-1398236' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-estados-unidos-3848308.jpg?tf=1200x' alt='Qué es la NASA: inicios, carrera espacial con la URSS y apertura al sector privado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/gran-enemigo-smart-tv-pantalla-oled-tiene-nombre-azul-1398280'>El gran enemigo de los Smart TV con pantalla OLED tiene un nombre: AZUL</a></h4>
-    <a href='https://computerhoy.com/tv/gran-enemigo-smart-tv-pantalla-oled-tiene-nombre-azul-1398280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gran-enemigo-smart-tv-pantalla-oled-tiene-nombre-azul-3851054.jpg?tf=1200x' alt='El gran enemigo de los Smart TV con pantalla OLED tiene un nombre: AZUL' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/funciones-poco-conocidas-teclado-gboard-movil-android-1307854'>Funciones interesantes y poco conocidas del teclado Gboard de tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/funciones-poco-conocidas-teclado-gboard-movil-android-1307854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gboard-2661455.jpg?tf=1200x' alt='Funciones interesantes y poco conocidas del teclado Gboard de tu móvil Android' />
     </a>
 </div>
 
