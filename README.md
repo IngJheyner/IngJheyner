@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/funciones-poco-conocidas-teclado-gboard-movil-android-1307854'>Funciones interesantes y poco conocidas del teclado Gboard de tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/funciones-poco-conocidas-teclado-gboard-movil-android-1307854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gboard-2661455.jpg?tf=1200x' alt='Funciones interesantes y poco conocidas del teclado Gboard de tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sencillo-truco-te-confirma-han-entrado-cuenta-whatsapp-otra-ubicacion-ademas-te-ayuda-evitarlo-1398650'>El sencillo truco que te confirma si han entrado en tu cuenta de WhatsApp desde otra ubicación, además te ayuda a evitarlo </a></h4>
+    <a href='https://computerhoy.com/tecnologia/sencillo-truco-te-confirma-han-entrado-cuenta-whatsapp-otra-ubicacion-ademas-te-ayuda-evitarlo-1398650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sencillo-truco-te-confirma-han-entrado-cuenta-whatsapp-otra-ubicacion-ademas-te-ayuda-evitarlo-3862416.jpg?tf=1200x' alt='El sencillo truco que te confirma si han entrado en tu cuenta de WhatsApp desde otra ubicación, además te ayuda a evitarlo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-vista-android-auto-1398282'>Cómo cambiar la vista de Android Auto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-vista-android-auto-1398282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-cambiar-vista-android-auto-3851905.jpg?tf=1200x' alt='Cómo cambiar la vista de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/experto-wifi-recomienda-truco-patada-mejorar-velocidad-conexion-instante-1398601'>Un experto en Wifi recomienda el “truco de la patada” para mejorar la velocidad de la conexión al instante</a></h4>
+    <a href='https://computerhoy.com/tecnologia/experto-wifi-recomienda-truco-patada-mejorar-velocidad-conexion-instante-1398601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/wifi-3861234.jpg?tf=1200x' alt='Un experto en Wifi recomienda el “truco de la patada” para mejorar la velocidad de la conexión al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/revolucion-coche-electrico-llega-barcelona-primera-estacion-carga-alimenta-energia-trenes-1398638'>La revolución del coche eléctrico llega a Barcelona: primera estación de carga que se alimenta con la energía de los trenes</a></h4>
     <a href='https://computerhoy.com/motor/revolucion-coche-electrico-llega-barcelona-primera-estacion-carga-alimenta-energia-trenes-1398638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/revolucion-ecologica-barcelona-estacion-carga-alimenta-energia-trenes-3861535.jpg?tf=1200x' alt='La revolución del coche eléctrico llega a Barcelona: primera estación de carga que se alimenta con la energía de los trenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-recomienda-desactivar-2g-evitar-problemas-seguridad-puedes-hacerlo-1398560'>Google recomienda desactivar el 2G para evitar problemas de seguridad y así puedes hacerlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-recomienda-desactivar-2g-evitar-problemas-seguridad-puedes-hacerlo-1398560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/desactivar-2g-3860419.jpg?tf=1200x' alt='Google recomienda desactivar el 2G para evitar problemas de seguridad y así puedes hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/creador-pantalla-azul-muerte-windows-confiesa-curioso-motivo-diseno-1398610'>El creador de la “pantalla azul de la muerte” de Windows confiesa el curioso motivo por el que se diseñó</a></h4>
-    <a href='https://computerhoy.com/windows/creador-pantalla-azul-muerte-windows-confiesa-curioso-motivo-diseno-1398610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/creador-pantalla-azul-muerte-windows-ha-explicado-motivo-diseno-3860913.jpg?tf=1200x' alt='El creador de la “pantalla azul de la muerte” de Windows confiesa el curioso motivo por el que se diseñó' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-leer-mensajes-whatsapp-abrir-aplicacion-online-1371940'>El truco de WhatsApp para leer los mensajes sin abrirlos ni mostrarse conectado en línea</a></h4>
-    <a href='https://computerhoy.com/apps/como-leer-mensajes-whatsapp-abrir-aplicacion-online-1371940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3286852.jpg?tf=1200x' alt='El truco de WhatsApp para leer los mensajes sin abrirlos ni mostrarse conectado en línea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/no-sabias-necesitabas-ahora-dos-puertos-usb-c-movil-1398573'>No sabías que lo necesitabas hasta ahora: dos puertos USB-C en tu móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/no-sabias-necesitabas-ahora-dos-puertos-usb-c-movil-1398573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/limpieza-puertos-movil-oneplus-12r-3304408.jpg?tf=1200x' alt='No sabías que lo necesitabas hasta ahora: dos puertos USB-C en tu móvil' />
     </a>
 </div>
 
