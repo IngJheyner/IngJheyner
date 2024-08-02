@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/estas-imagenes-muestran-mayor-explosion-rayos-gamma-historia-1398594'>Estas imágenes muestran la mayor explosión de rayos gamma de la historia</a></h4>
+    <a href='https://computerhoy.com/espacio/estas-imagenes-muestran-mayor-explosion-rayos-gamma-historia-1398594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-imagenes-muestran-mayor-explosion-rayos-gamma-historia-3860603.jpg?tf=1200x' alt='Estas imágenes muestran la mayor explosión de rayos gamma de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/motivos-guardar-consolas-antiguas-1397278'>4 motivos de peso por los que deberías guardar tus consolas antiguas</a></h4>
+    <a href='https://computerhoy.com/gaming/motivos-guardar-consolas-antiguas-1397278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/4-motivos-deberias-guardar-consolas-antiguas-3808906.jpg?tf=1200x' alt='4 motivos de peso por los que deberías guardar tus consolas antiguas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/godzilla-kong-pelicula-monstruos-critica-amazon-prime-video-1395683'>Ni Godzilla ni Kong: la película de monstruos elogiada por toda la crítica disponible en Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/godzilla-kong-pelicula-monstruos-critica-amazon-prime-video-1395683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-godzilla-ni-kong-pelicula-monstruos-elogiada-critica-amazon-prime-video-3732688.jpg?tf=1200x' alt='Ni Godzilla ni Kong: la película de monstruos elogiada por toda la crítica disponible en Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-espia-google-maps-beneficios-tiene-usarlo-1321196'>Cómo activar el "modo espía" de Google Maps y qué beneficios tiene usarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-modo-espia-google-maps-beneficios-tiene-usarlo-1321196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-activar-modo-espia-google-maps-beneficios-tiene-3197708.jpg?tf=1200x' alt='Cómo activar el "modo espía" de Google Maps y qué beneficios tiene usarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/whatsapp-come-bateria-movil-desactiva-funcion-adios-problema-1398564'>WhatsApp come la batería de tu móvil: desactiva esta función y adiós al problema</a></h4>
     <a href='https://computerhoy.com/tutoriales/whatsapp-come-bateria-movil-desactiva-funcion-adios-problema-1398564' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-almacenamiento-3739667.jpg?tf=1200x' alt='WhatsApp come la batería de tu móvil: desactiva esta función y adiós al problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ultimo-negocio-elon-musk-no-tiene-nada-ver-tecnologia-pero-futuro-humanidad-1398550'>El último negocio de Elon Musk no tiene nada que ver con la tecnología, pero sí con el futuro de la humanidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ultimo-negocio-elon-musk-no-tiene-nada-ver-tecnologia-pero-futuro-humanidad-1398550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ultimo-negocio-elon-musk-no-tiene-nada-ver-tecnologia-pero-futuro-humanidad-3860253.jpg?tf=1200x' alt='El último negocio de Elon Musk no tiene nada que ver con la tecnología, pero sí con el futuro de la humanidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tazas-ikea-surco-lavavajillas-621883'>¿Por qué las tazas de IKEA tienen un pequeño surco en su base?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tazas-ikea-surco-lavavajillas-621883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/taza-ikea-3860267.jpg?tf=1200x' alt='¿Por qué las tazas de IKEA tienen un pequeño surco en su base?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/grave-brecha-seguridad-rabbit-r1-exempleado-filtra-datos-codigo-fuente-1398545'>Grave brecha de seguridad en Rabbit R1: un exempleado filtra datos y código fuente</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/grave-brecha-seguridad-rabbit-r1-exempleado-filtra-datos-codigo-fuente-1398545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-r1-3263345.jpg?tf=1200x' alt='Grave brecha de seguridad en Rabbit R1: un exempleado filtra datos y código fuente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/hemos-encontrado-portatil-reventar-steam-bastante-barato-ryzen-7-100eu-descuento-1398530'>Hemos encontrado un portátil para reventar Steam bastante barato: Ryzen 7 y 100€ de descuento</a></h4>
-    <a href='https://computerhoy.com/pc/hemos-encontrado-portatil-reventar-steam-bastante-barato-ryzen-7-100eu-descuento-1398530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-tuf-gaming-f15-fx506lhb-3458379.jpg?tf=1200x' alt='Hemos encontrado un portátil para reventar Steam bastante barato: Ryzen 7 y 100€ de descuento' />
     </a>
 </div>
 
