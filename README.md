@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/waze-ya-no-te-avisa-radares-velocidad-hay-carretera-1398493'>¿Por qué Waze ya no te avisa de los radares de velocidad que hay en la carretera?</a></h4>
+    <a href='https://computerhoy.com/apps/waze-ya-no-te-avisa-radares-velocidad-hay-carretera-1398493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-ya-no-te-avisa-radares-velocidad-hay-carretera-3858492.jpg?tf=1200x' alt='¿Por qué Waze ya no te avisa de los radares de velocidad que hay en la carretera?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-va-toda-velocidad-5g-asegura-diez-dispositivos-40-centimos-mes-cada-1398505'>Esta VPN va a toda velocidad hasta en 5G: asegura diez dispositivos desde 40 céntimos al mes cada uno</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-va-toda-velocidad-5g-asegura-diez-dispositivos-40-centimos-mes-cada-1398505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-vpn-3309985.jpg?tf=1200x' alt='Esta VPN va a toda velocidad hasta en 5G: asegura diez dispositivos desde 40 céntimos al mes cada uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nasa-inicios-carrera-espacial-urss-apertura-sector-privado-1398236'>Qué es la NASA: inicios, carrera espacial con la URSS y apertura al sector privado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nasa-inicios-carrera-espacial-urss-apertura-sector-privado-1398236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-estados-unidos-3848308.jpg?tf=1200x' alt='Qué es la NASA: inicios, carrera espacial con la URSS y apertura al sector privado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/gran-enemigo-smart-tv-pantalla-oled-tiene-nombre-azul-1398280'>El gran enemigo de los Smart TV con pantalla OLED tiene un nombre: AZUL</a></h4>
+    <a href='https://computerhoy.com/tv/gran-enemigo-smart-tv-pantalla-oled-tiene-nombre-azul-1398280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gran-enemigo-smart-tv-pantalla-oled-tiene-nombre-azul-3851054.jpg?tf=1200x' alt='El gran enemigo de los Smart TV con pantalla OLED tiene un nombre: AZUL' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/funciones-poco-conocidas-teclado-gboard-movil-android-1307854'>Funciones interesantes y poco conocidas del teclado Gboard de tu móvil Android</a></h4>
     <a href='https://computerhoy.com/tutoriales/funciones-poco-conocidas-teclado-gboard-movil-android-1307854' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gboard-2661455.jpg?tf=1200x' alt='Funciones interesantes y poco conocidas del teclado Gboard de tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sencillo-truco-te-confirma-han-entrado-cuenta-whatsapp-otra-ubicacion-ademas-te-ayuda-evitarlo-1398650'>El sencillo truco que te confirma si han entrado en tu cuenta de WhatsApp desde otra ubicación, además te ayuda a evitarlo </a></h4>
-    <a href='https://computerhoy.com/tecnologia/sencillo-truco-te-confirma-han-entrado-cuenta-whatsapp-otra-ubicacion-ademas-te-ayuda-evitarlo-1398650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sencillo-truco-te-confirma-han-entrado-cuenta-whatsapp-otra-ubicacion-ademas-te-ayuda-evitarlo-3862416.jpg?tf=1200x' alt='El sencillo truco que te confirma si han entrado en tu cuenta de WhatsApp desde otra ubicación, además te ayuda a evitarlo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-vista-android-auto-1398282'>Cómo cambiar la vista de Android Auto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-vista-android-auto-1398282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-cambiar-vista-android-auto-3851905.jpg?tf=1200x' alt='Cómo cambiar la vista de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/experto-wifi-recomienda-truco-patada-mejorar-velocidad-conexion-instante-1398601'>Un experto en Wifi recomienda el “truco de la patada” para mejorar la velocidad de la conexión al instante</a></h4>
-    <a href='https://computerhoy.com/tecnologia/experto-wifi-recomienda-truco-patada-mejorar-velocidad-conexion-instante-1398601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/wifi-3861234.jpg?tf=1200x' alt='Un experto en Wifi recomienda el “truco de la patada” para mejorar la velocidad de la conexión al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/revolucion-coche-electrico-llega-barcelona-primera-estacion-carga-alimenta-energia-trenes-1398638'>La revolución del coche eléctrico llega a Barcelona: primera estación de carga que se alimenta con la energía de los trenes</a></h4>
-    <a href='https://computerhoy.com/motor/revolucion-coche-electrico-llega-barcelona-primera-estacion-carga-alimenta-energia-trenes-1398638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/revolucion-ecologica-barcelona-estacion-carga-alimenta-energia-trenes-3861535.jpg?tf=1200x' alt='La revolución del coche eléctrico llega a Barcelona: primera estación de carga que se alimenta con la energía de los trenes' />
     </a>
 </div>
 
