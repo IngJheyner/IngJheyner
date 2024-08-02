@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/modo-cool-aire-acondicionado-como-utilizarlo-correctamente-1398677'>Qué es el modo COOL del aire acondicionado y cómo utilizarlo correctamente</a></h4>
+    <a href='https://computerhoy.com/hogar/modo-cool-aire-acondicionado-como-utilizarlo-correctamente-1398677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modo-cool-aire-acondicionado-como-utilizarlo-correctamente-3864038.jpg?tf=1200x' alt='Qué es el modo COOL del aire acondicionado y cómo utilizarlo correctamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/laliga-acusa-elon-musk-facilitar-pirateria-futbol-gratis-iptv-1398681'>LaLiga acusa a Elon Musk de facilitar la piratería y el fútbol gratis por IPTV</a></h4>
     <a href='https://computerhoy.com/tecnologia/laliga-acusa-elon-musk-facilitar-pirateria-futbol-gratis-iptv-1398681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pirata-informatico-pc-logo-x-3863601.jpg?tf=1200x' alt='LaLiga acusa a Elon Musk de facilitar la piratería y el fútbol gratis por IPTV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/error-comandos-hace-android-auto-no-entere-nada-1398678'>Un error en los comandos hace que Android Auto no se entere de nada</a></h4>
     <a href='https://computerhoy.com/apps/error-comandos-hace-android-auto-no-entere-nada-1398678' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-instales-version-android-auto-puede-dejarte-tirado-carretera-3563887.jpg?tf=1200x' alt='Un error en los comandos hace que Android Auto no se entere de nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-ajustes-avanzados-secretos-google-tv-1397800'>Cómo activar los ajustes avanzados y secretos en tu Google TV </a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-ajustes-avanzados-secretos-google-tv-1397800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/televisor-google-tv-2246045.jpg?tf=1200x' alt='Cómo activar los ajustes avanzados y secretos en tu Google TV ' />
     </a>
 </div>
 
