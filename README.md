@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/imprescindible-coche-xiaomi-soporte-carga-inalambrica-ultrarrapida-precio-locos-1398520'>Imprescindible en tu coche y de Xiaomi: este soporte con carga inalámbrica ultrarrápida, a precio de locos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/imprescindible-coche-xiaomi-soporte-carga-inalambrica-ultrarrapida-precio-locos-1398520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cargador-xiaomi-30w-3859633.jpg?tf=1200x' alt='Imprescindible en tu coche y de Xiaomi: este soporte con carga inalámbrica ultrarrápida, a precio de locos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/intel-sigue-resolver-fallos-cpu-13a-14a-generacion-pero-hay-compensacion-1398523'>Intel sigue sin resolver los fallos en sus CPU de 13ª y 14ª generación, pero hay una compensación</a></h4>
+    <a href='https://computerhoy.com/pc/intel-sigue-resolver-fallos-cpu-13a-14a-generacion-pero-hay-compensacion-1398523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/procesadores-intel-3283837.jpg?tf=1200x' alt='Intel sigue sin resolver los fallos en sus CPU de 13ª y 14ª generación, pero hay una compensación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/menos-google-maps-estrena-look-no-te-pierdas-app-1398514'>Menos es más: Google Maps estrena 'look' para que no te pierdas en la app</a></h4>
+    <a href='https://computerhoy.com/google/menos-google-maps-estrena-look-no-te-pierdas-app-1398514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/9-trucos-increibles-poco-conocidos-google-maps-te-sorprenderan-3742316.jpg?tf=1200x' alt='Menos es más: Google Maps estrena 'look' para que no te pierdas en la app' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-674-computer-hoy-1396997'>¡Ya está en tu quiosco el número 674 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-674-computer-hoy-1396997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/computer-hoy-674-3798656.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 674 de Computer Hoy!' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/compresion-memoria-windows-11-deberias-activarla-1314002'>Qué es la compresión de memoria en Windows 11 y por qué deberías activarla ya</a></h4>
     <a href='https://computerhoy.com/tutoriales/compresion-memoria-windows-11-deberias-activarla-1314002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/compresion-memoria-windows-11-deberias-activarlo-3150178.jpg?tf=1200x' alt='Qué es la compresión de memoria en Windows 11 y por qué deberías activarla ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/invento-revolucionario-ingeniero-espanol-sorprende-mundo-crear-agua-nada-incluso-desierto-1395388'>Este invento revolucionario de un ingeniero español sorprende al mundo al crear agua de la nada, incluso en un desierto</a></h4>
-    <a href='https://computerhoy.com/ciencia/invento-revolucionario-ingeniero-espanol-sorprende-mundo-crear-agua-nada-incluso-desierto-1395388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-3490466.jpg?tf=1200x' alt='Este invento revolucionario de un ingeniero español sorprende al mundo al crear agua de la nada, incluso en un desierto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/amazon-hunde-precio-movil-xiaomi-top-ventas-1310832'>Amazon hunde el precio del móvil Xiaomi top ventas, con 5G, pantallón AMOLED y carga a 67W</a></h4>
-    <a href='https://computerhoy.com/android/amazon-hunde-precio-movil-xiaomi-top-ventas-1310832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-13-pro-plus-5g-3265705.jpg?tf=1200x' alt='Amazon hunde el precio del móvil Xiaomi top ventas, con 5G, pantallón AMOLED y carga a 67W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/gobierno-japones-subasta-espadas-samurai-miniambulancias-tapas-alcantarilla-1398500'>El gobierno japonés se hace viral con una subasta de espadas samurái, miniambulancias, y tapas de alcantarilla</a></h4>
-    <a href='https://computerhoy.com/life/gobierno-japones-subasta-espadas-samurai-miniambulancias-tapas-alcantarilla-1398500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gobierno-japones-hace-viral-subasta-espadas-samurai-miniambulancias-tapas-alcantarilla-3858912.jpg?tf=1200x' alt='El gobierno japonés se hace viral con una subasta de espadas samurái, miniambulancias, y tapas de alcantarilla' />
     </a>
 </div>
 
