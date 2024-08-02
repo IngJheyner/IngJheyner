@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/estados-unidos-denuncia-tiktok-recolectar-datos-millones-ninos-1398684'>Estados Unidos denuncia a TikTok por recolectar datos de millones de niños</a></h4>
+    <a href='https://computerhoy.com/redes/estados-unidos-denuncia-tiktok-recolectar-datos-millones-ninos-1398684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estados-unidos-denuncia-tiktok-recolectar-datos-millones-ninos-3864185.jpg?tf=1200x' alt='Estados Unidos denuncia a TikTok por recolectar datos de millones de niños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/modo-cool-aire-acondicionado-como-utilizarlo-correctamente-1398677'>Qué es el modo COOL del aire acondicionado y cómo utilizarlo correctamente</a></h4>
     <a href='https://computerhoy.com/hogar/modo-cool-aire-acondicionado-como-utilizarlo-correctamente-1398677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modo-cool-aire-acondicionado-como-utilizarlo-correctamente-3864038.jpg?tf=1200x' alt='Qué es el modo COOL del aire acondicionado y cómo utilizarlo correctamente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ford-patenta-sistema-ciertos-coches-reporten-infracciones-velocidad-1398679'>Ford patenta un sistema para que ciertos coches reporten infracciones de velocidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/ford-patenta-sistema-ciertos-coches-reporten-infracciones-velocidad-1398679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ford-police-interceptor-3863456.jpg?tf=1200x' alt='Ford patenta un sistema para que ciertos coches reporten infracciones de velocidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/error-comandos-hace-android-auto-no-entere-nada-1398678'>Un error en los comandos hace que Android Auto no se entere de nada</a></h4>
-    <a href='https://computerhoy.com/apps/error-comandos-hace-android-auto-no-entere-nada-1398678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-instales-version-android-auto-puede-dejarte-tirado-carretera-3563887.jpg?tf=1200x' alt='Un error en los comandos hace que Android Auto no se entere de nada' />
     </a>
 </div>
 
