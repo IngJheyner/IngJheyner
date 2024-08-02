@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/hemos-encontrado-portatil-reventar-steam-bastante-barato-ryzen-7-100eu-descuento-1398530'>Hemos encontrado un portátil para reventar Steam bastante barato: Ryzen 7 y 100€ de descuento</a></h4>
+    <a href='https://computerhoy.com/pc/hemos-encontrado-portatil-reventar-steam-bastante-barato-ryzen-7-100eu-descuento-1398530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-tuf-gaming-f15-fx506lhb-3458379.jpg?tf=1200x' alt='Hemos encontrado un portátil para reventar Steam bastante barato: Ryzen 7 y 100€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/dgt-obliga-ahora-llevar-tres-documentos-fisicos-coche-aunque-puedes-llevarlo-movil-1398544'>La DGT obliga desde ahora a llevar tres documentos físicos en el coche, aunque uno puedes llevarlo en el móvil</a></h4>
+    <a href='https://computerhoy.com/motor/dgt-obliga-ahora-llevar-tres-documentos-fisicos-coche-aunque-puedes-llevarlo-movil-1398544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dgt-obliga-ahora-llevar-tres-documentos-fisicos-coche-aunque-puedes-llevarlo-movil-3859935.jpg?tf=1200x' alt='La DGT obliga desde ahora a llevar tres documentos físicos en el coche, aunque uno puedes llevarlo en el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/crean-laser-puede-hackearlo-todo-publican-como-fabricarlo-razon-1398526'>Crean un láser que puede hackearlo todo y publican cómo fabricarlo por esta razón</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/crean-laser-puede-hackearlo-todo-publican-como-fabricarlo-razon-1398526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/laser-hackeo-3859782.jpg?tf=1200x' alt='Crean un láser que puede hackearlo todo y publican cómo fabricarlo por esta razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/6-dispositivos-uso-mi-dia-dia-durante-teletrabajo-1319206'>Teletrabajo desde hace 5 años: 6 dispositivos que uso día a día y me hacen la vida más fácil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/6-dispositivos-uso-mi-dia-dia-durante-teletrabajo-1319206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/6-cosas-te-haran-vida-facil-teletrabajas-3194506.jpg?tf=1200x' alt='Teletrabajo desde hace 5 años: 6 dispositivos que uso día a día y me hacen la vida más fácil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-integrara-propio-siri-inteligencia-artificial-funciona-1398522'>WhatsApp integrará su propio Siri con inteligencia artificial: así funciona</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-integrara-propio-siri-inteligencia-artificial-funciona-1398522' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-integrara-nuevo-boton-android-utilizar-meta-ai-3859635.jpg?tf=1200x' alt='WhatsApp integrará su propio Siri con inteligencia artificial: así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/imprescindible-coche-xiaomi-soporte-carga-inalambrica-ultrarrapida-precio-locos-1398520'>Imprescindible en tu coche y de Xiaomi: este soporte con carga inalámbrica ultrarrápida, a precio de locos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/imprescindible-coche-xiaomi-soporte-carga-inalambrica-ultrarrapida-precio-locos-1398520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cargador-xiaomi-30w-3859633.jpg?tf=1200x' alt='Imprescindible en tu coche y de Xiaomi: este soporte con carga inalámbrica ultrarrápida, a precio de locos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-sigue-resolver-fallos-cpu-13a-14a-generacion-pero-hay-compensacion-1398523'>Intel sigue sin resolver los fallos en sus CPU de 13ª y 14ª generación, pero hay una compensación</a></h4>
-    <a href='https://computerhoy.com/pc/intel-sigue-resolver-fallos-cpu-13a-14a-generacion-pero-hay-compensacion-1398523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/procesadores-intel-3283837.jpg?tf=1200x' alt='Intel sigue sin resolver los fallos en sus CPU de 13ª y 14ª generación, pero hay una compensación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/menos-google-maps-estrena-look-no-te-pierdas-app-1398514'>Menos es más: Google Maps estrena 'look' para que no te pierdas en la app</a></h4>
-    <a href='https://computerhoy.com/google/menos-google-maps-estrena-look-no-te-pierdas-app-1398514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/9-trucos-increibles-poco-conocidos-google-maps-te-sorprenderan-3742316.jpg?tf=1200x' alt='Menos es más: Google Maps estrena 'look' para que no te pierdas en la app' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-674-computer-hoy-1396997'>¡Ya está en tu quiosco el número 674 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-674-computer-hoy-1396997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/computer-hoy-674-3798656.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 674 de Computer Hoy!' />
     </a>
 </div>
 
