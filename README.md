@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/habilite-funcion-mi-movil-he-dicho-adios-llamadas-spam-gracias-google-1398665'>Desde que habilité esta función en mi móvil he dicho adiós a las llamadas spam: gracias Google</a></h4>
-    <a href='https://computerhoy.com/android/habilite-funcion-mi-movil-he-dicho-adios-llamadas-spam-gracias-google-1398665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/habilite-funcion-mi-movil-he-dicho-adios-llamadas-spam-gracias-google-3863267.jpg?tf=1200x' alt='Desde que habilité esta función en mi móvil he dicho adiós a las llamadas spam: gracias Google' />
+    <h4><a href='https://computerhoy.com/tecnologia/laliga-acusa-elon-musk-facilitar-pirateria-futbol-gratis-iptv-1398681'>LaLiga acusa a Elon Musk de facilitar la piratería y el fútbol gratis por IPTV</a></h4>
+    <a href='https://computerhoy.com/tecnologia/laliga-acusa-elon-musk-facilitar-pirateria-futbol-gratis-iptv-1398681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pirata-informatico-pc-logo-x-3863601.jpg?tf=1200x' alt='LaLiga acusa a Elon Musk de facilitar la piratería y el fútbol gratis por IPTV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-huawei-empresa-tecnologica-china-estados-unidos-ha-vetado-varias-ocasiones-1398225'>Todo sobre Huawei, la empresa tecnológica china a la que Estados Unidos ha vetado en varias ocasiones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-huawei-empresa-tecnologica-china-estados-unidos-ha-vetado-varias-ocasiones-1398225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/huawei-estados-unidos-china-3847852.jpg?tf=1200x' alt='Todo sobre Huawei, la empresa tecnológica china a la que Estados Unidos ha vetado en varias ocasiones' />
+    <h4><a href='https://computerhoy.com/pc/nzxt-alquiler-pc-gaming-merece-pena-1398680'>NZXT estrena el alquiler de potentes PC para gaming, ¿merece la pena?</a></h4>
+    <a href='https://computerhoy.com/pc/nzxt-alquiler-pc-gaming-merece-pena-1398680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nzxt-estrena-alquiler-potentes-pc-gaming-merece-pena-3863165.jpg?tf=1200x' alt='NZXT estrena el alquiler de potentes PC para gaming, ¿merece la pena?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-superheroes-marvel-nunca-tendrian-haber-existido-1398423'>5 películas de superhéroes Marvel que nunca tendrían que haber existido</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-superheroes-marvel-nunca-tendrian-haber-existido-1398423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/5-peliculas-superheroes-marvel-nunca-tendrian-haber-existido-3854419.jpg?tf=1200x' alt='5 películas de superhéroes Marvel que nunca tendrían que haber existido' />
+    <h4><a href='https://computerhoy.com/tecnologia/ford-patenta-sistema-ciertos-coches-reporten-infracciones-velocidad-1398679'>Ford patenta un sistema para que ciertos coches reporten infracciones de velocidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ford-patenta-sistema-ciertos-coches-reporten-infracciones-velocidad-1398679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ford-police-interceptor-3863456.jpg?tf=1200x' alt='Ford patenta un sistema para que ciertos coches reporten infracciones de velocidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estos-son-libros-favoritos-stephen-king-han-convertido-maestro-terror-1398627'>Estos son los libros favoritos de Stephen King, y que lo han convertido en un maestro del terror</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estos-son-libros-favoritos-stephen-king-han-convertido-maestro-terror-1398627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/stephen-king-2978674.jpg?tf=1200x' alt='Estos son los libros favoritos de Stephen King, y que lo han convertido en un maestro del terror' />
+    <h4><a href='https://computerhoy.com/apps/error-comandos-hace-android-auto-no-entere-nada-1398678'>Un error en los comandos hace que Android Auto no se entere de nada</a></h4>
+    <a href='https://computerhoy.com/apps/error-comandos-hace-android-auto-no-entere-nada-1398678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-instales-version-android-auto-puede-dejarte-tirado-carretera-3563887.jpg?tf=1200x' alt='Un error en los comandos hace que Android Auto no se entere de nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/alarma-dgt-metodo-gallego-whatsapp-app-radares-1398405'>Alarma en la DGT por el "método gallego": convierten WhatsApp en la mejor app anti-radares</a></h4>
-    <a href='https://computerhoy.com/motor/alarma-dgt-metodo-gallego-whatsapp-app-radares-1398405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/metodo-gallego-whatsapp-3861233.jpg?tf=1200x' alt='Alarma en la DGT por el "método gallego": convierten WhatsApp en la mejor app anti-radares' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-ajustes-avanzados-secretos-google-tv-1397800'>Cómo activar los ajustes avanzados y secretos en tu Google TV </a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-ajustes-avanzados-secretos-google-tv-1397800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/televisor-google-tv-2246045.jpg?tf=1200x' alt='Cómo activar los ajustes avanzados y secretos en tu Google TV ' />
     </a>
 </div>
 
