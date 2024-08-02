@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/modo-oculto-cuatro-toques-amazon-fire-tv-mejora-calidad-imagen-instante-1398488'>El modo oculto de los cuatro toques de tu Amazon Fire TV que mejora la calidad de imagen al instante</a></h4>
+    <a href='https://computerhoy.com/amazon/modo-oculto-cuatro-toques-amazon-fire-tv-mejora-calidad-imagen-instante-1398488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modo-oculto-cuatro-toques-amazon-fire-tv-mejora-calidad-imagen-instante-3857650.jpg?tf=1200x' alt='El modo oculto de los cuatro toques de tu Amazon Fire TV que mejora la calidad de imagen al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/casio-anade-funcion-smartwatch-mitico-reloj-retro-44-euros-1398489'>Casio añade una función de smartwatch a su mítico reloj retro de 44 euros, y desata la locura</a></h4>
     <a href='https://computerhoy.com/tecnologia/casio-anade-funcion-smartwatch-mitico-reloj-retro-44-euros-1398489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/casio-anade-funcion-smartwatch-mitico-reloj-retro-44-euros-desata-locura-3856952.jpg?tf=1200x' alt='Casio añade una función de smartwatch a su mítico reloj retro de 44 euros, y desata la locura' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cerveza-espanola-corona-como-mejor-mundo-te-sorprendera-saber-cual-1398484'>Una cerveza española se corona como la mejor del mundo, y te sorprenderá saber cuál es</a></h4>
     <a href='https://computerhoy.com/life/cerveza-espanola-corona-como-mejor-mundo-te-sorprendera-saber-cual-1398484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cerveza-espanola-corona-como-mejor-mundo-te-sorprendera-saber-cual-3856384.jpg?tf=1200x' alt='Una cerveza española se corona como la mejor del mundo, y te sorprenderá saber cuál es' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/actualiza-chrome-ahora-mismo-google-lanza-parche-critico-evitar-ciberdelincuentes-roben-datos-1398482'>¡Actualiza Chrome ahora mismo! Google lanza un parche crítico para evitar que los ciberdelincuentes roben tus datos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/actualiza-chrome-ahora-mismo-google-lanza-parche-critico-evitar-ciberdelincuentes-roben-datos-1398482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/navegador-android-igual-chrome-diferencia-respeta-privacidad-3466689.jpg?tf=1200x' alt='¡Actualiza Chrome ahora mismo! Google lanza un parche crítico para evitar que los ciberdelincuentes roben tus datos' />
     </a>
 </div>
 
