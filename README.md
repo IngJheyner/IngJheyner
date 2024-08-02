@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-674-computer-hoy-1396997'>¡Ya está en tu quiosco el número 674 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-674-computer-hoy-1396997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/computer-hoy-674-3798656.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 674 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/compresion-memoria-windows-11-deberias-activarla-1314002'>Qué es la compresión de memoria en Windows 11 y por qué deberías activarla ya</a></h4>
+    <a href='https://computerhoy.com/tutoriales/compresion-memoria-windows-11-deberias-activarla-1314002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/compresion-memoria-windows-11-deberias-activarlo-3150178.jpg?tf=1200x' alt='Qué es la compresión de memoria en Windows 11 y por qué deberías activarla ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/invento-revolucionario-ingeniero-espanol-sorprende-mundo-crear-agua-nada-incluso-desierto-1395388'>Este invento revolucionario de un ingeniero español sorprende al mundo al crear agua de la nada, incluso en un desierto</a></h4>
     <a href='https://computerhoy.com/ciencia/invento-revolucionario-ingeniero-espanol-sorprende-mundo-crear-agua-nada-incluso-desierto-1395388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-3490466.jpg?tf=1200x' alt='Este invento revolucionario de un ingeniero español sorprende al mundo al crear agua de la nada, incluso en un desierto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/gobierno-japones-subasta-espadas-samurai-miniambulancias-tapas-alcantarilla-1398500'>El gobierno japonés se hace viral con una subasta de espadas samurái, miniambulancias, y tapas de alcantarilla</a></h4>
     <a href='https://computerhoy.com/life/gobierno-japones-subasta-espadas-samurai-miniambulancias-tapas-alcantarilla-1398500' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gobierno-japones-hace-viral-subasta-espadas-samurai-miniambulancias-tapas-alcantarilla-3858912.jpg?tf=1200x' alt='El gobierno japonés se hace viral con una subasta de espadas samurái, miniambulancias, y tapas de alcantarilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/acer-chromebook-plus-514-2024-portatil-buscas-portatil-basico-chromeos-buen-precio-1397579'>El Acer Chromebook Plus 514 (2024) es tu portátil si buscas un portátil básico con ChromeOS y a buen precio</a></h4>
-    <a href='https://computerhoy.com/analisis/acer-chromebook-plus-514-2024-portatil-buscas-portatil-basico-chromeos-buen-precio-1397579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/acer-chromebook-plus-514-3834770.jpg?tf=1200x' alt='El Acer Chromebook Plus 514 (2024) es tu portátil si buscas un portátil básico con ChromeOS y a buen precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estos-son-peligros-oversharing-redes-sociales-durante-verano-1397987'>Estos son los peligros del oversharing en redes sociales durante el verano</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estos-son-peligros-oversharing-redes-sociales-durante-verano-1397987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estos-son-peligros-oversharing-redes-sociales-durante-verano-3839716.jpg?tf=1200x' alt='Estos son los peligros del oversharing en redes sociales durante el verano' />
     </a>
 </div>
 
