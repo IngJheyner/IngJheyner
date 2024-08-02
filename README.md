@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/creador-pantalla-azul-muerte-windows-confiesa-curioso-motivo-diseno-1398610'>El creador de la “pantalla azul de la muerte” de Windows confiesa el curioso motivo por el que se diseñó</a></h4>
+    <a href='https://computerhoy.com/windows/creador-pantalla-azul-muerte-windows-confiesa-curioso-motivo-diseno-1398610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/creador-pantalla-azul-muerte-windows-ha-explicado-motivo-diseno-3860913.jpg?tf=1200x' alt='El creador de la “pantalla azul de la muerte” de Windows confiesa el curioso motivo por el que se diseñó' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/como-leer-mensajes-whatsapp-abrir-aplicacion-online-1371940'>El truco de WhatsApp para leer los mensajes sin abrirlos ni mostrarse conectado en línea</a></h4>
     <a href='https://computerhoy.com/apps/como-leer-mensajes-whatsapp-abrir-aplicacion-online-1371940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3286852.jpg?tf=1200x' alt='El truco de WhatsApp para leer los mensajes sin abrirlos ni mostrarse conectado en línea' />
@@ -69,14 +77,6 @@
     <h4><a href='https://computerhoy.com/espacio/estas-imagenes-muestran-mayor-explosion-rayos-gamma-historia-1398594'>Estas imágenes muestran la mayor explosión de rayos gamma de la historia</a></h4>
     <a href='https://computerhoy.com/espacio/estas-imagenes-muestran-mayor-explosion-rayos-gamma-historia-1398594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-imagenes-muestran-mayor-explosion-rayos-gamma-historia-3860603.jpg?tf=1200x' alt='Estas imágenes muestran la mayor explosión de rayos gamma de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/godzilla-kong-pelicula-monstruos-critica-amazon-prime-video-1395683'>Ni Godzilla ni Kong: la película de monstruos elogiada por toda la crítica disponible en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/godzilla-kong-pelicula-monstruos-critica-amazon-prime-video-1395683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-godzilla-ni-kong-pelicula-monstruos-elogiada-critica-amazon-prime-video-3732688.jpg?tf=1200x' alt='Ni Godzilla ni Kong: la película de monstruos elogiada por toda la crítica disponible en Amazon Prime Video' />
     </a>
 </div>
 
