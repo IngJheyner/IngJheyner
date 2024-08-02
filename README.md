@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/invento-revolucionario-ingeniero-espanol-sorprende-mundo-crear-agua-nada-incluso-desierto-1395388'>Este invento revolucionario de un ingeniero español sorprende al mundo al crear agua de la nada, incluso en un desierto</a></h4>
+    <a href='https://computerhoy.com/ciencia/invento-revolucionario-ingeniero-espanol-sorprende-mundo-crear-agua-nada-incluso-desierto-1395388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-3490466.jpg?tf=1200x' alt='Este invento revolucionario de un ingeniero español sorprende al mundo al crear agua de la nada, incluso en un desierto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/amazon-hunde-precio-movil-xiaomi-top-ventas-1310832'>Amazon hunde el precio del móvil Xiaomi top ventas, con 5G, pantallón AMOLED y carga a 67W</a></h4>
+    <a href='https://computerhoy.com/android/amazon-hunde-precio-movil-xiaomi-top-ventas-1310832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-13-pro-plus-5g-3265705.jpg?tf=1200x' alt='Amazon hunde el precio del móvil Xiaomi top ventas, con 5G, pantallón AMOLED y carga a 67W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/gobierno-japones-subasta-espadas-samurai-miniambulancias-tapas-alcantarilla-1398500'>El gobierno japonés se hace viral con una subasta de espadas samurái, miniambulancias, y tapas de alcantarilla</a></h4>
+    <a href='https://computerhoy.com/life/gobierno-japones-subasta-espadas-samurai-miniambulancias-tapas-alcantarilla-1398500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gobierno-japones-hace-viral-subasta-espadas-samurai-miniambulancias-tapas-alcantarilla-3858912.jpg?tf=1200x' alt='El gobierno japonés se hace viral con una subasta de espadas samurái, miniambulancias, y tapas de alcantarilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/acer-chromebook-plus-514-2024-portatil-buscas-portatil-basico-chromeos-buen-precio-1397579'>El Acer Chromebook Plus 514 (2024) es tu portátil si buscas un portátil básico con ChromeOS y a buen precio</a></h4>
+    <a href='https://computerhoy.com/analisis/acer-chromebook-plus-514-2024-portatil-buscas-portatil-basico-chromeos-buen-precio-1397579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/acer-chromebook-plus-514-3834770.jpg?tf=1200x' alt='El Acer Chromebook Plus 514 (2024) es tu portátil si buscas un portátil básico con ChromeOS y a buen precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/estos-son-peligros-oversharing-redes-sociales-durante-verano-1397987'>Estos son los peligros del oversharing en redes sociales durante el verano</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estos-son-peligros-oversharing-redes-sociales-durante-verano-1397987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estos-son-peligros-oversharing-redes-sociales-durante-verano-3839716.jpg?tf=1200x' alt='Estos son los peligros del oversharing en redes sociales durante el verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ha-creado-realmente-google-vida-artificial-casi-plantearselo-1398202'>¿Ha creado realmente Google vida artificial casi sin planteárselo?</a></h4>
-    <a href='https://computerhoy.com/ciencia/ha-creado-realmente-google-vida-artificial-casi-plantearselo-1398202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ha-creado-realmente-google-vida-artificial-3846880.jpg?tf=1200x' alt='¿Ha creado realmente Google vida artificial casi sin planteárselo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/16g-ram-peso-macbook-air-rival-hp-amazon-1394288'>16GB de RAM y peso similar al MacBook Air: este portátil de menos de 500 euros es una de las mejores opciones de Amazon</a></h4>
-    <a href='https://computerhoy.com/pc/16g-ram-peso-macbook-air-rival-hp-amazon-1394288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hp-15s-fq5083ns-3682965.jpg?tf=1200x' alt='16GB de RAM y peso similar al MacBook Air: este portátil de menos de 500 euros es una de las mejores opciones de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/significa-salud-tener-unas-rayas-1398374'>¿Qué significa para tu salud tener las uñas con rayas?</a></h4>
-    <a href='https://computerhoy.com/life/significa-salud-tener-unas-rayas-1398374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/unas-mano-3853931.jpg?tf=1200x' alt='¿Qué significa para tu salud tener las uñas con rayas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/capturan-video-pantera-nebulosa-1398494'>Capturan en vídeo a uno de los felinos más amenazados del mundo</a></h4>
-    <a href='https://computerhoy.com/ciencia/capturan-video-pantera-nebulosa-1398494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/capturan-video-felinos-amenazados-mundo-3857510.jpg?tf=1200x' alt='Capturan en vídeo a uno de los felinos más amenazados del mundo' />
     </a>
 </div>
 
