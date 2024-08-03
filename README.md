@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-cambia-lugar-opcion-habilitar-segundos-reloj-barra-tareas-windows-11-nueva-ubicacion-1398721'>Microsoft cambia de lugar la opción de habilitar los segundos del reloj en la barra de tareas de Windows 11: esta es la nueva ubicación</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-cambia-lugar-opcion-habilitar-segundos-reloj-barra-tareas-windows-11-nueva-ubicacion-1398721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/reloj-barra-tareas-windows-11-3868636.jpg?tf=1200x' alt='Microsoft cambia de lugar la opción de habilitar los segundos del reloj en la barra de tareas de Windows 11: esta es la nueva ubicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/malware-pasar-aplicacion-oficial-google-buscador-debes-evitarlo-1398718'>Este malware se hacía pasar por una aplicación oficial de Google en el buscador y debes evitarlo</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/malware-pasar-aplicacion-oficial-google-buscador-debes-evitarlo-1398718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/seguridad-google-3868486.jpg?tf=1200x' alt='Este malware se hacía pasar por una aplicación oficial de Google en el buscador y debes evitarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/meta-planea-pagar-millones-dolares-estrellas-hollywood-presten-voces-meta-ai-1398715'>Meta planea pagar millones de dólares a estrellas de Hollywood para que presten sus voces a Meta AI</a></h4>
     <a href='https://computerhoy.com/tecnologia/meta-planea-pagar-millones-dolares-estrellas-hollywood-presten-voces-meta-ai-1398715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/meta-ai-whatsapp-sirve-como-utilizarlo-3737806.jpg?tf=1200x' alt='Meta planea pagar millones de dólares a estrellas de Hollywood para que presten sus voces a Meta AI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-localizar-movil-perdido-utilizando-google-maps-1397874'>Cómo localizar un móvil perdido utilizando Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-localizar-movil-perdido-utilizando-google-maps-1397874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-localizar-movil-perdido-utilizando-google-maps-3836916.jpg?tf=1200x' alt='Cómo localizar un móvil perdido utilizando Google Maps' />
     </a>
 </div>
 
