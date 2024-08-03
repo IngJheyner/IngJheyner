@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/razon-nintendo-necesita-estrenar-switch-2-desesperadamente-1398686'>Esta es la razón por la que Nintendo necesita estrenar Switch 2 desesperadamente </a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/manifiesto-alerta-peligros-ia-sam-altman-bill-gates-ya-han-firmado-1398524'>El manifiesto que alerta de los peligros de la IA: Sam Altman y Bill Gates ya lo han firmado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/manifiesto-alerta-peligros-ia-sam-altman-bill-gates-ya-han-firmado-1398524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/manifiesto-alerta-peligros-ia-sam-altman-bill-gates-ya-han-firmado-3859637.jpg?tf=1200x' alt='El manifiesto que alerta de los peligros de la IA: Sam Altman y Bill Gates ya lo han firmado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/razon-nintendo-necesita-estrenar-switch-2-desesperadamente-1398686'>Esta es la razón por la que Nintendo necesita estrenar Switch 2 desesperadamente</a></h4>
     <a href='https://computerhoy.com/gaming/razon-nintendo-necesita-estrenar-switch-2-desesperadamente-1398686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nintendo-switch-2017-2018dong-cm1-663366.jpg?tf=1200x' alt='Esta es la razón por la que Nintendo necesita estrenar Switch 2 desesperadamente ' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nintendo-switch-2017-2018dong-cm1-663366.jpg?tf=1200x' alt='Esta es la razón por la que Nintendo necesita estrenar Switch 2 desesperadamente' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/modo-cool-aire-acondicionado-como-utilizarlo-correctamente-1398677'>Qué es el modo COOL del aire acondicionado y cómo utilizarlo correctamente</a></h4>
     <a href='https://computerhoy.com/hogar/modo-cool-aire-acondicionado-como-utilizarlo-correctamente-1398677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modo-cool-aire-acondicionado-como-utilizarlo-correctamente-3864038.jpg?tf=1200x' alt='Qué es el modo COOL del aire acondicionado y cómo utilizarlo correctamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/laliga-acusa-elon-musk-facilitar-pirateria-futbol-gratis-iptv-1398681'>LaLiga acusa a Elon Musk de facilitar la piratería y el fútbol gratis por IPTV</a></h4>
-    <a href='https://computerhoy.com/tecnologia/laliga-acusa-elon-musk-facilitar-pirateria-futbol-gratis-iptv-1398681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pirata-informatico-pc-logo-x-3863601.jpg?tf=1200x' alt='LaLiga acusa a Elon Musk de facilitar la piratería y el fútbol gratis por IPTV' />
     </a>
 </div>
 
