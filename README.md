@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-firestick-alternativa-tiene-android-mucho-barata-1398457'>Xiaomi, a por los Firestick: su alternativa tiene Android y es mucho más barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-firestick-alternativa-tiene-android-mucho-barata-1398457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-mi-tv-stick-3855193.jpg?tf=1200x' alt='Xiaomi, a por los Firestick: su alternativa tiene Android y es mucho más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/meta-planea-pagar-millones-dolares-estrellas-hollywood-presten-voces-meta-ai-1398715'>Meta planea pagar millones de dólares a estrellas de Hollywood para que presten sus voces a Meta AI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-planea-pagar-millones-dolares-estrellas-hollywood-presten-voces-meta-ai-1398715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/meta-ai-whatsapp-sirve-como-utilizarlo-3737806.jpg?tf=1200x' alt='Meta planea pagar millones de dólares a estrellas de Hollywood para que presten sus voces a Meta AI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-localizar-movil-perdido-utilizando-google-maps-1397874'>Cómo localizar un móvil perdido utilizando Google Maps</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-localizar-movil-perdido-utilizando-google-maps-1397874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-localizar-movil-perdido-utilizando-google-maps-3836916.jpg?tf=1200x' alt='Cómo localizar un móvil perdido utilizando Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/7-mejores-webs-aprender-linux-forma-facil-divertida-1318920'>Las mejores webs para aprender Linux de forma fácil y divertida </a></h4>
+    <a href='https://computerhoy.com/internet/7-mejores-webs-aprender-linux-forma-facil-divertida-1318920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/linux-2904136.jpg?tf=1200x' alt='Las mejores webs para aprender Linux de forma fácil y divertida ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/serie-iphone-17-recibira-mayores-actualizaciones-camara-frontal-anos-1398712'>La serie iPhone 17 recibirá una de las mayores actualizaciones de la cámara frontal en años</a></h4>
     <a href='https://computerhoy.com/apple/serie-iphone-17-recibira-mayores-actualizaciones-camara-frontal-anos-1398712' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='La serie iPhone 17 recibirá una de las mayores actualizaciones de la cámara frontal en años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-archivos-perdidos-mover-ficheros-windows-1398289'>Cómo recuperar archivos perdidos al mover ficheros en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recuperar-archivos-perdidos-mover-ficheros-windows-1398289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-recuperar-archivos-perdidos-mover-ficheros-windows-3852489.jpg?tf=1200x' alt='Cómo recuperar archivos perdidos al mover ficheros en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/descubre-error-google-chrome-interrumpe-funcion-arrastrar-soltar-burbuja-descargas-1398707'>Se descubre un error en Google Chrome que interrumpe la función de arrastrar y soltar desde la burbuja de descargas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/descubre-error-google-chrome-interrumpe-funcion-arrastrar-soltar-burbuja-descargas-1398707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-reducir-consumo-ram-chrome-40-haz-pc-vuele-segundos-3858211.jpg?tf=1200x' alt='Se descubre un error en Google Chrome que interrumpe la función de arrastrar y soltar desde la burbuja de descargas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/objetos-deberias-alejar-router-wifi-evitar-conexion-internet-vaya-lenta-1397875'>¿Qué objetos deberías alejar de tu router WiFi para evitar que tu conexión a internet vaya lenta?</a></h4>
-    <a href='https://computerhoy.com/redes/objetos-deberias-alejar-router-wifi-evitar-conexion-internet-vaya-lenta-1397875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/objetos-deberias-alejar-router-wifi-evitar-conexion-internet-vaya-lenta-3837476.jpg?tf=1200x' alt='¿Qué objetos deberías alejar de tu router WiFi para evitar que tu conexión a internet vaya lenta?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-canon-momento-realme-snapdragon-8s-gen-3-ahora-tiene-140eu-descuento-1398097'>Es el móvil más cañón del momento, de realme y con Snapdragon 8s Gen 3: ahora tiene 140€ de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-canon-momento-realme-snapdragon-8s-gen-3-ahora-tiene-140eu-descuento-1398097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realme-gt-6-realme-gt6-3845311.jpg?tf=1200x' alt='Es el móvil más cañón del momento, de realme y con Snapdragon 8s Gen 3: ahora tiene 140€ de descuento' />
     </a>
 </div>
 
