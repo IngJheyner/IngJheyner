@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/sucederia-tierra-detuviera-repente-estudio-cientifico-1397801'>Esto es lo que sucedería si la Tierra se detuviera de repente, según un estudio científico</a></h4>
+    <a href='https://computerhoy.com/ciencia/sucederia-tierra-detuviera-repente-estudio-cientifico-1397801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sucederia-tierra-detuviera-repente-estudio-cientifico-3833253.jpg?tf=1200x' alt='Esto es lo que sucedería si la Tierra se detuviera de repente, según un estudio científico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-ada-todo-ia-monitoriza-salud-movil-1398283'>Cómo usar ADA: todo sobre la IA que monitoriza tu salud desde el móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-ada-todo-ia-monitoriza-salud-movil-1398283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-salud-3851055.jpg?tf=1200x' alt='Cómo usar ADA: todo sobre la IA que monitoriza tu salud desde el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-acceder-funciones-ocultas-tdt-smart-tv-1314550'>Cómo acceder a las funciones ocultas de la TDT en tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-acceder-funciones-ocultas-tdt-smart-tv-1314550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-acceder-funciones-ocultas-tdt-cualquier-smart-tv-3150890.jpg?tf=1200x' alt='Cómo acceder a las funciones ocultas de la TDT en tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/todo-sobre-usar-photoshop-1396199'>Todo lo que deberías saber si estás empezando a usar Photoshop</a></h4>
     <a href='https://computerhoy.com/todo-sobre-usar-photoshop-1396199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/editar-photoshop-3751697.jpg?tf=1200x' alt='Todo lo que deberías saber si estás empezando a usar Photoshop' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/rayos-laser-aparecen-repente-carreteras-chinas-1398690'>Qué son estos rayos láser que aparecen de repente en las carreteras chinas</a></h4>
     <a href='https://computerhoy.com/motor/rayos-laser-aparecen-repente-carreteras-chinas-1398690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/son-estos-rayos-laser-aparecen-repente-carreteras-chinas-3866238.jpg?tf=1200x' alt='Qué son estos rayos láser que aparecen de repente en las carreteras chinas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafas-grandes-eventos-caramelo-delincuentes-jjoo-festivales-conciertos-1397845'>Estafas en grandes eventos, un caramelo para los delincuentes: JJOO, festivales y conciertos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafas-grandes-eventos-caramelo-delincuentes-jjoo-festivales-conciertos-1397845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-delincuentes-3848765.jpg?tf=1200x' alt='Estafas en grandes eventos, un caramelo para los delincuentes: JJOO, festivales y conciertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alternativa-raspberry-pi-32gb-ram-1392459'>Hasta 32GB de RAM tiene esta alternativa a la Raspberry Pi, y su precio es mucho mejor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alternativa-raspberry-pi-32gb-ram-1392459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/orange-pi-3585001.jpg?tf=1200x' alt='Hasta 32GB de RAM tiene esta alternativa a la Raspberry Pi, y su precio es mucho mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-reducir-consumo-ram-chrome-40-haz-pc-vuele-segundos-1398492'>Cómo reducir el consumo de RAM de Chrome hasta en un 40% y haz que tu PC vuele en unos segundos </a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-reducir-consumo-ram-chrome-40-haz-pc-vuele-segundos-1398492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-reducir-consumo-ram-chrome-40-haz-pc-vuele-segundos-3858211.jpg?tf=1200x' alt='Cómo reducir el consumo de RAM de Chrome hasta en un 40% y haz que tu PC vuele en unos segundos ' />
     </a>
 </div>
 
