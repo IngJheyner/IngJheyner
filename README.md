@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/funcion-premium-spotify-ahora-ya-gratuita-todos-1398731'>La función premium de Spotify que ahora ya es gratuita para todos</a></h4>
+    <a href='https://computerhoy.com/apps/funcion-premium-spotify-ahora-ya-gratuita-todos-1398731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/spotify-3307347.jpg?tf=1200x' alt='La función premium de Spotify que ahora ya es gratuita para todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/tdtchannels-renueva-tambien-verano-estos-son-nuevos-canales-nos-han-dicho-adios-1398730'>TDTChannels se renueva también en verano: estos son los nuevos canales y los que nos han dicho adiós</a></h4>
     <a href='https://computerhoy.com/apps/tdtchannels-renueva-tambien-verano-estos-son-nuevos-canales-nos-han-dicho-adios-1398730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels se renueva también en verano: estos son los nuevos canales y los que nos han dicho adiós' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-fotos-te-permitira-editar-rapido-facil-todos-recuerdos-1398722'>Google Fotos te permitirá editar rápido y fácil todos tus recuerdos</a></h4>
     <a href='https://computerhoy.com/apps/google-fotos-te-permitira-editar-rapido-facil-todos-recuerdos-1398722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/google-fotos-2135077.jpg?tf=1200x' alt='Google Fotos te permitirá editar rápido y fácil todos tus recuerdos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-cambia-lugar-opcion-habilitar-segundos-reloj-barra-tareas-windows-11-nueva-ubicacion-1398721'>Microsoft cambia de lugar la opción de habilitar los segundos del reloj en la barra de tareas de Windows 11: esta es la nueva ubicación</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-cambia-lugar-opcion-habilitar-segundos-reloj-barra-tareas-windows-11-nueva-ubicacion-1398721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/reloj-barra-tareas-windows-11-3868636.jpg?tf=1200x' alt='Microsoft cambia de lugar la opción de habilitar los segundos del reloj en la barra de tareas de Windows 11: esta es la nueva ubicación' />
     </a>
 </div>
 
