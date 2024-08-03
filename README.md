@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/razon-nintendo-necesita-estrenar-switch-2-desesperadamente-1398686'>Esta es la razón por la que Nintendo necesita estrenar Switch 2 desesperadamente </a></h4>
+    <a href='https://computerhoy.com/gaming/razon-nintendo-necesita-estrenar-switch-2-desesperadamente-1398686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nintendo-switch-2017-2018dong-cm1-663366.jpg?tf=1200x' alt='Esta es la razón por la que Nintendo necesita estrenar Switch 2 desesperadamente ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/nadie-mi-alrededor-conoce-boton-tienen-todos-coches-yo-llevo-anos-ahorrando-gasolina-gracias-1398683'>Nadie a mi alrededor conoce este botón que tienen todos los coches: yo llevo años ahorrando gasolina gracias a él</a></h4>
     <a href='https://computerhoy.com/motor/nadie-mi-alrededor-conoce-boton-tienen-todos-coches-yo-llevo-anos-ahorrando-gasolina-gracias-1398683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nadie-mi-alrededor-conoce-boton-tienen-todos-coches-yo-llevo-anos-ahorrando-gasolina-gracias-3865061.jpg?tf=1200x' alt='Nadie a mi alrededor conoce este botón que tienen todos los coches: yo llevo años ahorrando gasolina gracias a él' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/laliga-acusa-elon-musk-facilitar-pirateria-futbol-gratis-iptv-1398681'>LaLiga acusa a Elon Musk de facilitar la piratería y el fútbol gratis por IPTV</a></h4>
     <a href='https://computerhoy.com/tecnologia/laliga-acusa-elon-musk-facilitar-pirateria-futbol-gratis-iptv-1398681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pirata-informatico-pc-logo-x-3863601.jpg?tf=1200x' alt='LaLiga acusa a Elon Musk de facilitar la piratería y el fútbol gratis por IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/nzxt-alquiler-pc-gaming-merece-pena-1398680'>NZXT estrena el alquiler de potentes PC para gaming, ¿merece la pena?</a></h4>
-    <a href='https://computerhoy.com/pc/nzxt-alquiler-pc-gaming-merece-pena-1398680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nzxt-estrena-alquiler-potentes-pc-gaming-merece-pena-3863165.jpg?tf=1200x' alt='NZXT estrena el alquiler de potentes PC para gaming, ¿merece la pena?' />
     </a>
 </div>
 
