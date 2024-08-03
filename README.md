@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chrome-contara-compatibilidad-escritura-mano-lapiz-optico-windows-11-1398732'>Chrome contará con compatibilidad con escritura a mano con lápiz óptico en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chrome-contara-compatibilidad-escritura-mano-lapiz-optico-windows-11-1398732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/stylus-dispositivo-windows-3869944.jpg?tf=1200x' alt='Chrome contará con compatibilidad con escritura a mano con lápiz óptico en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-habria-retrasado-esperado-nuevo-chip-inteligencia-artificial-fallo-diseno-1398735'>Nvidia habría retrasado su esperado nuevo chip de inteligencia artificial por un fallo de diseño</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-habria-retrasado-esperado-nuevo-chip-inteligencia-artificial-fallo-diseno-1398735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nvidia-3870091.jpg?tf=1200x' alt='Nvidia habría retrasado su esperado nuevo chip de inteligencia artificial por un fallo de diseño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/funcion-premium-spotify-ahora-ya-gratuita-todos-1398731'>La función premium de Spotify que ahora ya es gratuita para todos</a></h4>
     <a href='https://computerhoy.com/apps/funcion-premium-spotify-ahora-ya-gratuita-todos-1398731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/spotify-3307347.jpg?tf=1200x' alt='La función premium de Spotify que ahora ya es gratuita para todos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/arenero-limpia-solo-tiene-ambientador-amazon-vende-casi-100-euros-barato-1398710'>Este arenero se limpia solo y tiene ambientador: Amazon lo vende casi 100 euros más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/arenero-limpia-solo-tiene-ambientador-amazon-vende-casi-100-euros-barato-1398710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/petkit-pura-x-3867884.jpg?tf=1200x' alt='Este arenero se limpia solo y tiene ambientador: Amazon lo vende casi 100 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/chrome-vs-tor-diferencias-cual-navegador-mejor-1318032'>Chrome vs. Tor: diferencias y qué navegador es mejor</a></h4>
-    <a href='https://computerhoy.com/tutoriales/chrome-vs-tor-diferencias-cual-navegador-mejor-1318032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tor-vs-chrome-3190940.jpg?tf=1200x' alt='Chrome vs. Tor: diferencias y qué navegador es mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-fotos-te-permitira-editar-rapido-facil-todos-recuerdos-1398722'>Google Fotos te permitirá editar rápido y fácil todos tus recuerdos</a></h4>
-    <a href='https://computerhoy.com/apps/google-fotos-te-permitira-editar-rapido-facil-todos-recuerdos-1398722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/google-fotos-2135077.jpg?tf=1200x' alt='Google Fotos te permitirá editar rápido y fácil todos tus recuerdos' />
     </a>
 </div>
 
