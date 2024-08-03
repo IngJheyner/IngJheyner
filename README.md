@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/chrome-vs-tor-diferencias-cual-navegador-mejor-1318032'>Chrome vs. Tor: diferencias y qué navegador es mejor</a></h4>
+    <a href='https://computerhoy.com/tutoriales/chrome-vs-tor-diferencias-cual-navegador-mejor-1318032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tor-vs-chrome-3190940.jpg?tf=1200x' alt='Chrome vs. Tor: diferencias y qué navegador es mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-fotos-te-permitira-editar-rapido-facil-todos-recuerdos-1398722'>Google Fotos te permitirá editar rápido y fácil todos tus recuerdos</a></h4>
+    <a href='https://computerhoy.com/apps/google-fotos-te-permitira-editar-rapido-facil-todos-recuerdos-1398722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/google-fotos-2135077.jpg?tf=1200x' alt='Google Fotos te permitirá editar rápido y fácil todos tus recuerdos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-cambia-lugar-opcion-habilitar-segundos-reloj-barra-tareas-windows-11-nueva-ubicacion-1398721'>Microsoft cambia de lugar la opción de habilitar los segundos del reloj en la barra de tareas de Windows 11: esta es la nueva ubicación</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-cambia-lugar-opcion-habilitar-segundos-reloj-barra-tareas-windows-11-nueva-ubicacion-1398721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/reloj-barra-tareas-windows-11-3868636.jpg?tf=1200x' alt='Microsoft cambia de lugar la opción de habilitar los segundos del reloj en la barra de tareas de Windows 11: esta es la nueva ubicación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/funciones-excel-me-gustaria-evolucionasen-1396203'>5 funciones de Excel que me gustaría que evolucionasen</a></h4>
     <a href='https://computerhoy.com/apps/funciones-excel-me-gustaria-evolucionasen-1396203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-funciones-excel-me-gustaria-evolucionasen-3752562.jpg?tf=1200x' alt='5 funciones de Excel que me gustaría que evolucionasen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-firestick-alternativa-tiene-android-mucho-barata-1398457'>Xiaomi, a por los Firestick: su alternativa tiene Android y es mucho más barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-firestick-alternativa-tiene-android-mucho-barata-1398457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-mi-tv-stick-3855193.jpg?tf=1200x' alt='Xiaomi, a por los Firestick: su alternativa tiene Android y es mucho más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-planea-pagar-millones-dolares-estrellas-hollywood-presten-voces-meta-ai-1398715'>Meta planea pagar millones de dólares a estrellas de Hollywood para que presten sus voces a Meta AI</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-planea-pagar-millones-dolares-estrellas-hollywood-presten-voces-meta-ai-1398715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/meta-ai-whatsapp-sirve-como-utilizarlo-3737806.jpg?tf=1200x' alt='Meta planea pagar millones de dólares a estrellas de Hollywood para que presten sus voces a Meta AI' />
     </a>
 </div>
 
