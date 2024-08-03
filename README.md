@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/descubre-error-google-chrome-interrumpe-funcion-arrastrar-soltar-burbuja-descargas-1398707'>Se descubre un error en Google Chrome que interrumpe la función de arrastrar y soltar desde la burbuja de descargas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/descubre-error-google-chrome-interrumpe-funcion-arrastrar-soltar-burbuja-descargas-1398707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-reducir-consumo-ram-chrome-40-haz-pc-vuele-segundos-3858211.jpg?tf=1200x' alt='Se descubre un error en Google Chrome que interrumpe la función de arrastrar y soltar desde la burbuja de descargas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/objetos-deberias-alejar-router-wifi-evitar-conexion-internet-vaya-lenta-1397875'>¿Qué objetos deberías alejar de tu router WiFi para evitar que tu conexión a internet vaya lenta?</a></h4>
+    <a href='https://computerhoy.com/redes/objetos-deberias-alejar-router-wifi-evitar-conexion-internet-vaya-lenta-1397875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/objetos-deberias-alejar-router-wifi-evitar-conexion-internet-vaya-lenta-3837476.jpg?tf=1200x' alt='¿Qué objetos deberías alejar de tu router WiFi para evitar que tu conexión a internet vaya lenta?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/movil-canon-momento-realme-snapdragon-8s-gen-3-ahora-tiene-140eu-descuento-1398097'>Es el móvil más cañón del momento, de realme y con Snapdragon 8s Gen 3: ahora tiene 140€ de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-canon-momento-realme-snapdragon-8s-gen-3-ahora-tiene-140eu-descuento-1398097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realme-gt-6-realme-gt6-3845311.jpg?tf=1200x' alt='Es el móvil más cañón del momento, de realme y con Snapdragon 8s Gen 3: ahora tiene 140€ de descuento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/sucederia-tierra-detuviera-repente-estudio-cientifico-1397801'>Esto es lo que sucedería si la Tierra se detuviera de repente, según un estudio científico</a></h4>
     <a href='https://computerhoy.com/ciencia/sucederia-tierra-detuviera-repente-estudio-cientifico-1397801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sucederia-tierra-detuviera-repente-estudio-cientifico-3833253.jpg?tf=1200x' alt='Esto es lo que sucedería si la Tierra se detuviera de repente, según un estudio científico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-ada-todo-ia-monitoriza-salud-movil-1398283'>Cómo usar ADA: todo sobre la IA que monitoriza tu salud desde el móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-ada-todo-ia-monitoriza-salud-movil-1398283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-salud-3851055.jpg?tf=1200x' alt='Cómo usar ADA: todo sobre la IA que monitoriza tu salud desde el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-acceder-funciones-ocultas-tdt-smart-tv-1314550'>Cómo acceder a las funciones ocultas de la TDT en tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-acceder-funciones-ocultas-tdt-smart-tv-1314550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-acceder-funciones-ocultas-tdt-cualquier-smart-tv-3150890.jpg?tf=1200x' alt='Cómo acceder a las funciones ocultas de la TDT en tu Smart TV' />
     </a>
 </div>
 
