@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/serie-iphone-17-recibira-mayores-actualizaciones-camara-frontal-anos-1398712'>La serie iPhone 17 recibirá una de las mayores actualizaciones de la cámara frontal en años</a></h4>
+    <a href='https://computerhoy.com/apple/serie-iphone-17-recibira-mayores-actualizaciones-camara-frontal-anos-1398712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='La serie iPhone 17 recibirá una de las mayores actualizaciones de la cámara frontal en años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-archivos-perdidos-mover-ficheros-windows-1398289'>Cómo recuperar archivos perdidos al mover ficheros en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-archivos-perdidos-mover-ficheros-windows-1398289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-recuperar-archivos-perdidos-mover-ficheros-windows-3852489.jpg?tf=1200x' alt='Cómo recuperar archivos perdidos al mover ficheros en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/descubre-error-google-chrome-interrumpe-funcion-arrastrar-soltar-burbuja-descargas-1398707'>Se descubre un error en Google Chrome que interrumpe la función de arrastrar y soltar desde la burbuja de descargas</a></h4>
     <a href='https://computerhoy.com/tecnologia/descubre-error-google-chrome-interrumpe-funcion-arrastrar-soltar-burbuja-descargas-1398707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-reducir-consumo-ram-chrome-40-haz-pc-vuele-segundos-3858211.jpg?tf=1200x' alt='Se descubre un error en Google Chrome que interrumpe la función de arrastrar y soltar desde la burbuja de descargas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/movil-canon-momento-realme-snapdragon-8s-gen-3-ahora-tiene-140eu-descuento-1398097'>Es el móvil más cañón del momento, de realme y con Snapdragon 8s Gen 3: ahora tiene 140€ de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-canon-momento-realme-snapdragon-8s-gen-3-ahora-tiene-140eu-descuento-1398097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realme-gt-6-realme-gt6-3845311.jpg?tf=1200x' alt='Es el móvil más cañón del momento, de realme y con Snapdragon 8s Gen 3: ahora tiene 140€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-quitar-publicidad-youtube-android-tv-chromecast-amazon-fire-tv-1307464'>Cómo quitar la publicidad de YouTube gratis en Android TV, Google Chromecast y Amazon Fire TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-quitar-publicidad-youtube-android-tv-chromecast-amazon-fire-tv-1307464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-quitar-publicidad-youtube-gratis-android-tv-chromecast-amazon-fire-tv-3138710.jpg?tf=1200x' alt='Cómo quitar la publicidad de YouTube gratis en Android TV, Google Chromecast y Amazon Fire TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/sucederia-tierra-detuviera-repente-estudio-cientifico-1397801'>Esto es lo que sucedería si la Tierra se detuviera de repente, según un estudio científico</a></h4>
-    <a href='https://computerhoy.com/ciencia/sucederia-tierra-detuviera-repente-estudio-cientifico-1397801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sucederia-tierra-detuviera-repente-estudio-cientifico-3833253.jpg?tf=1200x' alt='Esto es lo que sucedería si la Tierra se detuviera de repente, según un estudio científico' />
     </a>
 </div>
 
