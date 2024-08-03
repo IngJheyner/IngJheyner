@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-jirafa-cuello-torcido-sudafrica-1398689'>Descubren una jirafa imposible en Sudáfrica</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-jirafa-cuello-torcido-sudafrica-1398689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/descubren-jirafa-imposible-sudafrica-3865939.jpg?tf=1200x' alt='Descubren una jirafa imposible en Sudáfrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/coche-dice-siempre-hace-calor-hace-realidad-1398588'>Por qué tu coche dice siempre que hace más calor del que hace en realidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/coche-dice-siempre-hace-calor-hace-realidad-1398588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/temperatura-coche-3861388.jpg?tf=1200x' alt='Por qué tu coche dice siempre que hace más calor del que hace en realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/manifiesto-alerta-peligros-ia-sam-altman-bill-gates-ya-han-firmado-1398524'>El manifiesto que alerta de los peligros de la IA: Sam Altman y Bill Gates ya lo han firmado</a></h4>
     <a href='https://computerhoy.com/tecnologia/manifiesto-alerta-peligros-ia-sam-altman-bill-gates-ya-han-firmado-1398524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/manifiesto-alerta-peligros-ia-sam-altman-bill-gates-ya-han-firmado-3859637.jpg?tf=1200x' alt='El manifiesto que alerta de los peligros de la IA: Sam Altman y Bill Gates ya lo han firmado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/nadie-mi-alrededor-conoce-boton-tienen-todos-coches-yo-llevo-anos-ahorrando-gasolina-gracias-1398683'>Nadie a mi alrededor conoce este botón que tienen todos los coches: yo llevo años ahorrando gasolina gracias a él</a></h4>
     <a href='https://computerhoy.com/motor/nadie-mi-alrededor-conoce-boton-tienen-todos-coches-yo-llevo-anos-ahorrando-gasolina-gracias-1398683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nadie-mi-alrededor-conoce-boton-tienen-todos-coches-yo-llevo-anos-ahorrando-gasolina-gracias-3865061.jpg?tf=1200x' alt='Nadie a mi alrededor conoce este botón que tienen todos los coches: yo llevo años ahorrando gasolina gracias a él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/estados-unidos-denuncia-tiktok-recolectar-datos-millones-ninos-1398684'>Estados Unidos denuncia a TikTok por recolectar datos de millones de niños</a></h4>
-    <a href='https://computerhoy.com/redes/estados-unidos-denuncia-tiktok-recolectar-datos-millones-ninos-1398684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estados-unidos-denuncia-tiktok-recolectar-datos-millones-ninos-3864185.jpg?tf=1200x' alt='Estados Unidos denuncia a TikTok por recolectar datos de millones de niños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/modo-cool-aire-acondicionado-como-utilizarlo-correctamente-1398677'>Qué es el modo COOL del aire acondicionado y cómo utilizarlo correctamente</a></h4>
-    <a href='https://computerhoy.com/hogar/modo-cool-aire-acondicionado-como-utilizarlo-correctamente-1398677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modo-cool-aire-acondicionado-como-utilizarlo-correctamente-3864038.jpg?tf=1200x' alt='Qué es el modo COOL del aire acondicionado y cómo utilizarlo correctamente' />
     </a>
 </div>
 
