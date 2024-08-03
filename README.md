@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/nadie-mi-alrededor-conoce-boton-tienen-todos-coches-yo-llevo-anos-ahorrando-gasolina-gracias-1398683'>Nadie a mi alrededor conoce este botón que tienen todos los coches: yo llevo años ahorrando gasolina gracias a él</a></h4>
+    <a href='https://computerhoy.com/motor/nadie-mi-alrededor-conoce-boton-tienen-todos-coches-yo-llevo-anos-ahorrando-gasolina-gracias-1398683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nadie-mi-alrededor-conoce-boton-tienen-todos-coches-yo-llevo-anos-ahorrando-gasolina-gracias-3865061.jpg?tf=1200x' alt='Nadie a mi alrededor conoce este botón que tienen todos los coches: yo llevo años ahorrando gasolina gracias a él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/estados-unidos-denuncia-tiktok-recolectar-datos-millones-ninos-1398684'>Estados Unidos denuncia a TikTok por recolectar datos de millones de niños</a></h4>
     <a href='https://computerhoy.com/redes/estados-unidos-denuncia-tiktok-recolectar-datos-millones-ninos-1398684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estados-unidos-denuncia-tiktok-recolectar-datos-millones-ninos-3864185.jpg?tf=1200x' alt='Estados Unidos denuncia a TikTok por recolectar datos de millones de niños' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/nzxt-alquiler-pc-gaming-merece-pena-1398680'>NZXT estrena el alquiler de potentes PC para gaming, ¿merece la pena?</a></h4>
     <a href='https://computerhoy.com/pc/nzxt-alquiler-pc-gaming-merece-pena-1398680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nzxt-estrena-alquiler-potentes-pc-gaming-merece-pena-3863165.jpg?tf=1200x' alt='NZXT estrena el alquiler de potentes PC para gaming, ¿merece la pena?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ford-patenta-sistema-ciertos-coches-reporten-infracciones-velocidad-1398679'>Ford patenta un sistema para que ciertos coches reporten infracciones de velocidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ford-patenta-sistema-ciertos-coches-reporten-infracciones-velocidad-1398679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ford-police-interceptor-3863456.jpg?tf=1200x' alt='Ford patenta un sistema para que ciertos coches reporten infracciones de velocidad' />
     </a>
 </div>
 
