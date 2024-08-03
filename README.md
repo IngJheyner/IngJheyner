@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tdtchannels-renueva-tambien-verano-estos-son-nuevos-canales-nos-han-dicho-adios-1398730'>TDTChannels se renueva también en verano: estos son los nuevos canales y los que nos han dicho adiós</a></h4>
+    <a href='https://computerhoy.com/apps/tdtchannels-renueva-tambien-verano-estos-son-nuevos-canales-nos-han-dicho-adios-1398730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels se renueva también en verano: estos son los nuevos canales y los que nos han dicho adiós' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/arenero-limpia-solo-tiene-ambientador-amazon-vende-casi-100-euros-barato-1398710'>Este arenero se limpia solo y tiene ambientador: Amazon lo vende casi 100 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/arenero-limpia-solo-tiene-ambientador-amazon-vende-casi-100-euros-barato-1398710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/petkit-pura-x-3867884.jpg?tf=1200x' alt='Este arenero se limpia solo y tiene ambientador: Amazon lo vende casi 100 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/chrome-vs-tor-diferencias-cual-navegador-mejor-1318032'>Chrome vs. Tor: diferencias y qué navegador es mejor</a></h4>
     <a href='https://computerhoy.com/tutoriales/chrome-vs-tor-diferencias-cual-navegador-mejor-1318032' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tor-vs-chrome-3190940.jpg?tf=1200x' alt='Chrome vs. Tor: diferencias y qué navegador es mejor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-cambia-lugar-opcion-habilitar-segundos-reloj-barra-tareas-windows-11-nueva-ubicacion-1398721'>Microsoft cambia de lugar la opción de habilitar los segundos del reloj en la barra de tareas de Windows 11: esta es la nueva ubicación</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-cambia-lugar-opcion-habilitar-segundos-reloj-barra-tareas-windows-11-nueva-ubicacion-1398721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/reloj-barra-tareas-windows-11-3868636.jpg?tf=1200x' alt='Microsoft cambia de lugar la opción de habilitar los segundos del reloj en la barra de tareas de Windows 11: esta es la nueva ubicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/malware-pasar-aplicacion-oficial-google-buscador-debes-evitarlo-1398718'>Este malware se hacía pasar por una aplicación oficial de Google en el buscador y debes evitarlo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/malware-pasar-aplicacion-oficial-google-buscador-debes-evitarlo-1398718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/seguridad-google-3868486.jpg?tf=1200x' alt='Este malware se hacía pasar por una aplicación oficial de Google en el buscador y debes evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funciones-excel-me-gustaria-evolucionasen-1396203'>5 funciones de Excel que me gustaría que evolucionasen</a></h4>
-    <a href='https://computerhoy.com/apps/funciones-excel-me-gustaria-evolucionasen-1396203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-funciones-excel-me-gustaria-evolucionasen-3752562.jpg?tf=1200x' alt='5 funciones de Excel que me gustaría que evolucionasen' />
     </a>
 </div>
 
