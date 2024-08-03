@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-jirafa-cuello-torcido-sudafrica-1398689'>Descubren una jirafa imposible en Sudáfrica</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-jirafa-cuello-torcido-sudafrica-1398689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/descubren-jirafa-imposible-sudafrica-3865939.jpg?tf=1200x' alt='Descubren una jirafa imposible en Sudáfrica' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafas-grandes-eventos-caramelo-delincuentes-jjoo-festivales-conciertos-1397845'>Estafas en grandes eventos, un caramelo para los delincuentes: JJOO, festivales y conciertos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafas-grandes-eventos-caramelo-delincuentes-jjoo-festivales-conciertos-1397845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-delincuentes-3848765.jpg?tf=1200x' alt='Estafas en grandes eventos, un caramelo para los delincuentes: JJOO, festivales y conciertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/coche-dice-siempre-hace-calor-hace-realidad-1398588'>Por qué tu coche dice siempre que hace más calor del que hace en realidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/coche-dice-siempre-hace-calor-hace-realidad-1398588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/temperatura-coche-3861388.jpg?tf=1200x' alt='Por qué tu coche dice siempre que hace más calor del que hace en realidad' />
+    <h4><a href='https://computerhoy.com/tecnologia/alternativa-raspberry-pi-32gb-ram-1392459'>Hasta 32GB de RAM tiene esta alternativa a la Raspberry Pi, y su precio es mucho mejor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alternativa-raspberry-pi-32gb-ram-1392459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/orange-pi-3585001.jpg?tf=1200x' alt='Hasta 32GB de RAM tiene esta alternativa a la Raspberry Pi, y su precio es mucho mejor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/manifiesto-alerta-peligros-ia-sam-altman-bill-gates-ya-han-firmado-1398524'>El manifiesto que alerta de los peligros de la IA: Sam Altman y Bill Gates ya lo han firmado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/manifiesto-alerta-peligros-ia-sam-altman-bill-gates-ya-han-firmado-1398524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/manifiesto-alerta-peligros-ia-sam-altman-bill-gates-ya-han-firmado-3859637.jpg?tf=1200x' alt='El manifiesto que alerta de los peligros de la IA: Sam Altman y Bill Gates ya lo han firmado' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-reducir-consumo-ram-chrome-40-haz-pc-vuele-segundos-1398492'>Cómo reducir el consumo de RAM de Chrome hasta en un 40% y haz que tu PC vuele en unos segundos </a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-reducir-consumo-ram-chrome-40-haz-pc-vuele-segundos-1398492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-reducir-consumo-ram-chrome-40-haz-pc-vuele-segundos-3858211.jpg?tf=1200x' alt='Cómo reducir el consumo de RAM de Chrome hasta en un 40% y haz que tu PC vuele en unos segundos ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/razon-nintendo-necesita-estrenar-switch-2-desesperadamente-1398686'>Esta es la razón por la que Nintendo necesita estrenar Switch 2 desesperadamente</a></h4>
-    <a href='https://computerhoy.com/gaming/razon-nintendo-necesita-estrenar-switch-2-desesperadamente-1398686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nintendo-switch-2017-2018dong-cm1-663366.jpg?tf=1200x' alt='Esta es la razón por la que Nintendo necesita estrenar Switch 2 desesperadamente' />
+    <h4><a href='https://computerhoy.com/pc/te-quieres-comprar-portatil-no-tengo-claro-ni-yo-1398001'>¿Te quieres comprar un portátil? No lo tengo claro ni yo</a></h4>
+    <a href='https://computerhoy.com/pc/te-quieres-comprar-portatil-no-tengo-claro-ni-yo-1398001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-surface-laptop-7-3832328.jpg?tf=1200x' alt='¿Te quieres comprar un portátil? No lo tengo claro ni yo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nadie-mi-alrededor-conoce-boton-tienen-todos-coches-yo-llevo-anos-ahorrando-gasolina-gracias-1398683'>Nadie a mi alrededor conoce este botón que tienen todos los coches: yo llevo años ahorrando gasolina gracias a él</a></h4>
-    <a href='https://computerhoy.com/motor/nadie-mi-alrededor-conoce-boton-tienen-todos-coches-yo-llevo-anos-ahorrando-gasolina-gracias-1398683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nadie-mi-alrededor-conoce-boton-tienen-todos-coches-yo-llevo-anos-ahorrando-gasolina-gracias-3865061.jpg?tf=1200x' alt='Nadie a mi alrededor conoce este botón que tienen todos los coches: yo llevo años ahorrando gasolina gracias a él' />
+    <h4><a href='https://computerhoy.com/analisis/asus-vivobook-s-15-portatil-snapdragon-x-elite-analisis-opinion-1397983'>Asus Vivobook S 15 es otro portátil que demuestra el poder de Snapdragon en el PC, pero su diseño no es el mejor</a></h4>
+    <a href='https://computerhoy.com/analisis/asus-vivobook-s-15-portatil-snapdragon-x-elite-analisis-opinion-1397983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/asus-vivobook-s-15-3840639.jpg?tf=1200x' alt='Asus Vivobook S 15 es otro portátil que demuestra el poder de Snapdragon en el PC, pero su diseño no es el mejor' />
     </a>
 </div>
 
