@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-canon-momento-realme-snapdragon-8s-gen-3-ahora-tiene-140eu-descuento-1398097'>Es el móvil más cañón del momento, de realme y con Snapdragon 8s Gen 3: ahora tiene 140€ de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-canon-momento-realme-snapdragon-8s-gen-3-ahora-tiene-140eu-descuento-1398097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realme-gt-6-realme-gt6-3845311.jpg?tf=1200x' alt='Es el móvil más cañón del momento, de realme y con Snapdragon 8s Gen 3: ahora tiene 140€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-quitar-publicidad-youtube-android-tv-chromecast-amazon-fire-tv-1307464'>Cómo quitar la publicidad de YouTube gratis en Android TV, Google Chromecast y Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-quitar-publicidad-youtube-android-tv-chromecast-amazon-fire-tv-1307464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-quitar-publicidad-youtube-gratis-android-tv-chromecast-amazon-fire-tv-3138710.jpg?tf=1200x' alt='Cómo quitar la publicidad de YouTube gratis en Android TV, Google Chromecast y Amazon Fire TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/sucederia-tierra-detuviera-repente-estudio-cientifico-1397801'>Esto es lo que sucedería si la Tierra se detuviera de repente, según un estudio científico</a></h4>
     <a href='https://computerhoy.com/ciencia/sucederia-tierra-detuviera-repente-estudio-cientifico-1397801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sucederia-tierra-detuviera-repente-estudio-cientifico-3833253.jpg?tf=1200x' alt='Esto es lo que sucedería si la Tierra se detuviera de repente, según un estudio científico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-acceder-funciones-ocultas-tdt-smart-tv-1314550'>Cómo acceder a las funciones ocultas de la TDT en tu Smart TV</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-acceder-funciones-ocultas-tdt-smart-tv-1314550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-acceder-funciones-ocultas-tdt-cualquier-smart-tv-3150890.jpg?tf=1200x' alt='Cómo acceder a las funciones ocultas de la TDT en tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/todo-sobre-usar-photoshop-1396199'>Todo lo que deberías saber si estás empezando a usar Photoshop</a></h4>
-    <a href='https://computerhoy.com/todo-sobre-usar-photoshop-1396199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/editar-photoshop-3751697.jpg?tf=1200x' alt='Todo lo que deberías saber si estás empezando a usar Photoshop' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/rayos-laser-aparecen-repente-carreteras-chinas-1398690'>Qué son estos rayos láser que aparecen de repente en las carreteras chinas</a></h4>
-    <a href='https://computerhoy.com/motor/rayos-laser-aparecen-repente-carreteras-chinas-1398690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/son-estos-rayos-laser-aparecen-repente-carreteras-chinas-3866238.jpg?tf=1200x' alt='Qué son estos rayos láser que aparecen de repente en las carreteras chinas' />
     </a>
 </div>
 
