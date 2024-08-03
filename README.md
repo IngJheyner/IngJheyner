@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/todo-sobre-usar-photoshop-1396199'>Todo lo que deberías saber si estás empezando a usar Photoshop</a></h4>
+    <a href='https://computerhoy.com/todo-sobre-usar-photoshop-1396199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/editar-photoshop-3751697.jpg?tf=1200x' alt='Todo lo que deberías saber si estás empezando a usar Photoshop' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/rayos-laser-aparecen-repente-carreteras-chinas-1398690'>Qué son estos rayos láser que aparecen de repente en las carreteras chinas</a></h4>
+    <a href='https://computerhoy.com/motor/rayos-laser-aparecen-repente-carreteras-chinas-1398690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/son-estos-rayos-laser-aparecen-repente-carreteras-chinas-3866238.jpg?tf=1200x' alt='Qué son estos rayos láser que aparecen de repente en las carreteras chinas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/estafas-grandes-eventos-caramelo-delincuentes-jjoo-festivales-conciertos-1397845'>Estafas en grandes eventos, un caramelo para los delincuentes: JJOO, festivales y conciertos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estafas-grandes-eventos-caramelo-delincuentes-jjoo-festivales-conciertos-1397845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-delincuentes-3848765.jpg?tf=1200x' alt='Estafas en grandes eventos, un caramelo para los delincuentes: JJOO, festivales y conciertos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-reducir-consumo-ram-chrome-40-haz-pc-vuele-segundos-1398492'>Cómo reducir el consumo de RAM de Chrome hasta en un 40% y haz que tu PC vuele en unos segundos </a></h4>
     <a href='https://computerhoy.com/tutoriales/como-reducir-consumo-ram-chrome-40-haz-pc-vuele-segundos-1398492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-reducir-consumo-ram-chrome-40-haz-pc-vuele-segundos-3858211.jpg?tf=1200x' alt='Cómo reducir el consumo de RAM de Chrome hasta en un 40% y haz que tu PC vuele en unos segundos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/te-quieres-comprar-portatil-no-tengo-claro-ni-yo-1398001'>¿Te quieres comprar un portátil? No lo tengo claro ni yo</a></h4>
-    <a href='https://computerhoy.com/pc/te-quieres-comprar-portatil-no-tengo-claro-ni-yo-1398001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-surface-laptop-7-3832328.jpg?tf=1200x' alt='¿Te quieres comprar un portátil? No lo tengo claro ni yo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/asus-vivobook-s-15-portatil-snapdragon-x-elite-analisis-opinion-1397983'>Asus Vivobook S 15 es otro portátil que demuestra el poder de Snapdragon en el PC, pero su diseño no es el mejor</a></h4>
-    <a href='https://computerhoy.com/analisis/asus-vivobook-s-15-portatil-snapdragon-x-elite-analisis-opinion-1397983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/asus-vivobook-s-15-3840639.jpg?tf=1200x' alt='Asus Vivobook S 15 es otro portátil que demuestra el poder de Snapdragon en el PC, pero su diseño no es el mejor' />
     </a>
 </div>
 
