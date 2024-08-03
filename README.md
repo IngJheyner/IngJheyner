@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/malware-pasar-aplicacion-oficial-google-buscador-debes-evitarlo-1398718'>Este malware se hacía pasar por una aplicación oficial de Google en el buscador y debes evitarlo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/malware-pasar-aplicacion-oficial-google-buscador-debes-evitarlo-1398718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/seguridad-google-3868486.jpg?tf=1200x' alt='Este malware se hacía pasar por una aplicación oficial de Google en el buscador y debes evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/funciones-excel-me-gustaria-evolucionasen-1396203'>5 funciones de Excel que me gustaría que evolucionasen</a></h4>
+    <a href='https://computerhoy.com/apps/funciones-excel-me-gustaria-evolucionasen-1396203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-funciones-excel-me-gustaria-evolucionasen-3752562.jpg?tf=1200x' alt='5 funciones de Excel que me gustaría que evolucionasen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-firestick-alternativa-tiene-android-mucho-barata-1398457'>Xiaomi, a por los Firestick: su alternativa tiene Android y es mucho más barata</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-firestick-alternativa-tiene-android-mucho-barata-1398457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-mi-tv-stick-3855193.jpg?tf=1200x' alt='Xiaomi, a por los Firestick: su alternativa tiene Android y es mucho más barata' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-localizar-movil-perdido-utilizando-google-maps-1397874'>Cómo localizar un móvil perdido utilizando Google Maps</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-localizar-movil-perdido-utilizando-google-maps-1397874' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-localizar-movil-perdido-utilizando-google-maps-3836916.jpg?tf=1200x' alt='Cómo localizar un móvil perdido utilizando Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/7-mejores-webs-aprender-linux-forma-facil-divertida-1318920'>Las mejores webs para aprender Linux de forma fácil y divertida </a></h4>
-    <a href='https://computerhoy.com/internet/7-mejores-webs-aprender-linux-forma-facil-divertida-1318920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/linux-2904136.jpg?tf=1200x' alt='Las mejores webs para aprender Linux de forma fácil y divertida ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/serie-iphone-17-recibira-mayores-actualizaciones-camara-frontal-anos-1398712'>La serie iPhone 17 recibirá una de las mayores actualizaciones de la cámara frontal en años</a></h4>
-    <a href='https://computerhoy.com/apple/serie-iphone-17-recibira-mayores-actualizaciones-camara-frontal-anos-1398712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='La serie iPhone 17 recibirá una de las mayores actualizaciones de la cámara frontal en años' />
     </a>
 </div>
 
