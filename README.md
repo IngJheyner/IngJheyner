@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crowdshipping-cobrar-llevar-paquetes-coche-metro-1398776'>Llega el crowdshipping: cobrar por llevar paquetes en tu coche, o en el metro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crowdshipping-cobrar-llevar-paquetes-coche-metro-1398776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/llega-crowdshipping-cobrar-llevar-paquetes-coche-metro-ruta-habitual-3877821.jpg?tf=1200x' alt='Llega el crowdshipping: cobrar por llevar paquetes en tu coche, o en el metro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/creadores-stable-difussion-lanzan-flux1-ia-genera-manos-perfectas-1398775'>Los creadores de Stable Difussion se independizan y lanzan Flux.1, la IA que genera manos perfectas</a></h4>
     <a href='https://computerhoy.com/tecnologia/creadores-stable-difussion-lanzan-flux1-ia-genera-manos-perfectas-1398775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/creadores-stable-difussion-independizan-lanzan-flux1-ia-genera-manos-perfectas-3877226.jpg?tf=1200x' alt='Los creadores de Stable Difussion se independizan y lanzan Flux.1, la IA que genera manos perfectas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-mejorar-calidad-sonido-android-auto-1310596'>Cómo mejorar la calidad de sonido en Android Auto en segundos</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-mejorar-calidad-sonido-android-auto-1310596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-mejorar-calidad-sonido-android-auto-3144326.jpg?tf=1200x' alt='Cómo mejorar la calidad de sonido en Android Auto en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/detenido-mojar-pinturas-rupestres-viesen-mejor-facebook-1398770'>Detenido por mojar pinturas rupestres en Jaén para que se viesen mejor en Facebook</a></h4>
-    <a href='https://computerhoy.com/redes/detenido-mojar-pinturas-rupestres-viesen-mejor-facebook-1398770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/detenido-mojar-pinturas-rupestres-viesen-mejor-facebook-3876140.jpg?tf=1200x' alt='Detenido por mojar pinturas rupestres en Jaén para que se viesen mejor en Facebook' />
     </a>
 </div>
 
