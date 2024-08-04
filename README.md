@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/generador-solar-bluetti-1200w-potencia-oferta-amazon-1386408'>Este generador solar de 1200W de potencia hunde su precio en Amazon de forma temporal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/generador-solar-bluetti-1200w-potencia-oferta-amazon-1386408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bluetti-eb3a-3312059.jpg?tf=1200x' alt='Este generador solar de 1200W de potencia hunde su precio en Amazon de forma temporal' />
+    <h4><a href='https://computerhoy.com/pc/10-consejos-crear-pc-sobremesa-presumir-no-desentone-salon-1397550'>10 consejos para crear un PC de sobremesa para presumir que no desentone en tu salón</a></h4>
+    <a href='https://computerhoy.com/pc/10-consejos-crear-pc-sobremesa-presumir-no-desentone-salon-1397550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-consejos-crear-pc-sobremesa-insuperable-3816012.jpg?tf=1200x' alt='10 consejos para crear un PC de sobremesa para presumir que no desentone en tu salón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chrome-contara-compatibilidad-escritura-mano-lapiz-optico-windows-11-1398732'>Chrome contará con compatibilidad con escritura a mano con lápiz óptico en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chrome-contara-compatibilidad-escritura-mano-lapiz-optico-windows-11-1398732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/stylus-dispositivo-windows-3869944.jpg?tf=1200x' alt='Chrome contará con compatibilidad con escritura a mano con lápiz óptico en Windows 11' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-archivos-eliminados-papelera-reciclaje-movil-android-1398652'>Cómo recuperar archivos eliminados desde la papelera de reciclaje de un móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-archivos-eliminados-papelera-reciclaje-movil-android-1398652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1722616964522-3862725.jpg?tf=1200x' alt='Cómo recuperar archivos eliminados desde la papelera de reciclaje de un móvil Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-habria-retrasado-esperado-nuevo-chip-inteligencia-artificial-fallo-diseno-1398735'>Nvidia habría retrasado su esperado nuevo chip de inteligencia artificial por un fallo de diseño</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-habria-retrasado-esperado-nuevo-chip-inteligencia-artificial-fallo-diseno-1398735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nvidia-3870091.jpg?tf=1200x' alt='Nvidia habría retrasado su esperado nuevo chip de inteligencia artificial por un fallo de diseño' />
+    <h4><a href='https://computerhoy.com/tv/qned-diferencia-televisiones-oled-qled-1395902'>¿Qué es QNED y en qué se diferencia de las televisiones OLED o QLED?</a></h4>
+    <a href='https://computerhoy.com/tv/qned-diferencia-televisiones-oled-qled-1395902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1722600255067-3861231.jpg?tf=1200x' alt='¿Qué es QNED y en qué se diferencia de las televisiones OLED o QLED?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funcion-premium-spotify-ahora-ya-gratuita-todos-1398731'>La función premium de Spotify que ahora ya es gratuita para todos</a></h4>
-    <a href='https://computerhoy.com/apps/funcion-premium-spotify-ahora-ya-gratuita-todos-1398731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/spotify-3307347.jpg?tf=1200x' alt='La función premium de Spotify que ahora ya es gratuita para todos' />
+    <h4><a href='https://computerhoy.com/tecnologia/smart-tv-sony-no-tengas-comprar-barra-sonido-posiblemente-mejor-funcion-1397715'>Que a esta Smart TV de Sony no le tengas que comprar una barra de sonido, es posiblemente su mejor función</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smart-tv-sony-no-tengas-comprar-barra-sonido-posiblemente-mejor-funcion-1397715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sony-bravia-8-2024-65-pulgadas-3685116.jpg?tf=1200x' alt='Que a esta Smart TV de Sony no le tengas que comprar una barra de sonido, es posiblemente su mejor función' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tdtchannels-renueva-tambien-verano-estos-son-nuevos-canales-nos-han-dicho-adios-1398730'>TDTChannels se renueva también en verano: estos son los nuevos canales y los que nos han dicho adiós</a></h4>
-    <a href='https://computerhoy.com/apps/tdtchannels-renueva-tambien-verano-estos-son-nuevos-canales-nos-han-dicho-adios-1398730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels se renueva también en verano: estos son los nuevos canales y los que nos han dicho adiós' />
+    <h4><a href='https://computerhoy.com/life/carta-hogwarts-video-muestra-buho-entregando-correo-1398739'>Carta de Hogwarts: un vídeo muestra a un búho entregando el correo</a></h4>
+    <a href='https://computerhoy.com/life/carta-hogwarts-video-muestra-buho-entregando-correo-1398739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/carta-hogwarts-video-demuestra-correo-lechuza-existe-3872712.jpg?tf=1200x' alt='Carta de Hogwarts: un vídeo muestra a un búho entregando el correo' />
     </a>
 </div>
 
