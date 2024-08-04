@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/detenido-mojar-pinturas-rupestres-viesen-mejor-facebook-1398770'>Detenido por mojar pinturas rupestres para que se viesen mejor en Facebook</a></h4>
+    <a href='https://computerhoy.com/redes/detenido-mojar-pinturas-rupestres-viesen-mejor-facebook-1398770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/detenido-mojar-pinturas-rupestres-viesen-mejor-facebook-3876140.jpg?tf=1200x' alt='Detenido por mojar pinturas rupestres para que se viesen mejor en Facebook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/adios-regletas-invento-hubieras-deseado-existiera-antes-conectar-dispositivos-electronicos-1398764'>Adiós a las regletas: el invento que hubieras deseado que existiera antes para conectar tus dispositivos electrónicos</a></h4>
     <a href='https://computerhoy.com/tecnologia/adios-regletas-invento-hubieras-deseado-existiera-antes-conectar-dispositivos-electronicos-1398764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regleta-electrica-3284279.jpg?tf=1200x' alt='Adiós a las regletas: el invento que hubieras deseado que existiera antes para conectar tus dispositivos electrónicos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tan-barata-dificil-decir-no-switch-lite-sigue-bajando-ya-cuesta-menos-150-euros-1398611'>Tan barata que es difícil decir que no: la Switch Lite sigue bajando y ya cuesta menos de 150 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/tan-barata-dificil-decir-no-switch-lite-sigue-bajando-ya-cuesta-menos-150-euros-1398611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/switch-lite-animal-crossing-3232600.jpg?tf=1200x' alt='Tan barata que es difícil decir que no: la Switch Lite sigue bajando y ya cuesta menos de 150 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-play-te-permitira-actualizar-aplicaciones-descargadas-tiendas-terceros-1398758'>Google Play te permitirá actualizar aplicaciones descargadas de tiendas de terceros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-play-te-permitira-actualizar-aplicaciones-descargadas-tiendas-terceros-1398758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-play-store-3478871.jpg?tf=1200x' alt='Google Play te permitirá actualizar aplicaciones descargadas de tiendas de terceros' />
     </a>
 </div>
 
