@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/microsoft-revive-skype-windows-11-eliminando-todos-anuncios-1398756'>Microsoft revive Skype en Windows 11 eliminando todos los anuncios</a></h4>
-    <a href='https://computerhoy.com/apps/microsoft-revive-skype-windows-11-eliminando-todos-anuncios-1398756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/skype-3874760.jpg?tf=1200x' alt='Microsoft revive Skype en Windows 11 eliminando todos los anuncios' />
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-dice-neuralink-podria-darte-superpoderes-combatir-ia-1398763'>Elon Musk dice que Neuralink podría darte superpoderes para combatir a la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-dice-neuralink-podria-darte-superpoderes-combatir-ia-1398763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-neuralink-2889316.jpg?tf=1200x' alt='Elon Musk dice que Neuralink podría darte superpoderes para combatir a la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-programar-router-wifi-apague-encienda-automaticamente-1395096'>Cómo programar el router WiFi para que se apague y encienda automáticamente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-programar-router-wifi-apague-encienda-automaticamente-1395096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-configurar-router-wifi-3706314.jpg?tf=1200x' alt='Cómo programar el router WiFi para que se apague y encienda automáticamente' />
+    <h4><a href='https://computerhoy.com/pc/razones-no-necesitas-cpu-gama-alta-1397082'>5 razones por las que no necesitas una CPU de gama alta</a></h4>
+    <a href='https://computerhoy.com/pc/razones-no-necesitas-cpu-gama-alta-1397082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razones-no-necesitas-cpu-gama-alta-3794852.jpg?tf=1200x' alt='5 razones por las que no necesitas una CPU de gama alta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/diferencias-sai-ups-1394370'>¿Qué diferencia hay entre SAI y UPS?</a></h4>
-    <a href='https://computerhoy.com/energia/diferencias-sai-ups-1394370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/uninterruptible-power-supply-3664772.jpg?tf=1200x' alt='¿Qué diferencia hay entre SAI y UPS?' />
+    <h4><a href='https://computerhoy.com/tecnologia/tan-barata-dificil-decir-no-switch-lite-sigue-bajando-ya-cuesta-menos-150-euros-1398611'>Tan barata que es difícil decir que no: la Switch Lite sigue bajando y ya cuesta menos de 150 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tan-barata-dificil-decir-no-switch-lite-sigue-bajando-ya-cuesta-menos-150-euros-1398611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/switch-lite-animal-crossing-3232600.jpg?tf=1200x' alt='Tan barata que es difícil decir que no: la Switch Lite sigue bajando y ya cuesta menos de 150 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-iphone-outlet-back-market-deja-precio-ridiculo-1398516'>5 iPhone que el outlet de Back Market deja a precio ridículo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-iphone-outlet-back-market-deja-precio-ridiculo-1398516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-13-2824605.jpg?tf=1200x' alt='5 iPhone que el outlet de Back Market deja a precio ridículo' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-play-te-permitira-actualizar-aplicaciones-descargadas-tiendas-terceros-1398758'>Google Play te permitirá actualizar aplicaciones descargadas de tiendas de terceros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-play-te-permitira-actualizar-aplicaciones-descargadas-tiendas-terceros-1398758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-play-store-3478871.jpg?tf=1200x' alt='Google Play te permitirá actualizar aplicaciones descargadas de tiendas de terceros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/diferencias-clave-raspberry-pi-5-raspberry-pi-4-1317716'>Diferencias clave y secretos entre Raspberry Pi 5 y Raspberry Pi 4</a></h4>
-    <a href='https://computerhoy.com/tecnologia/diferencias-clave-raspberry-pi-5-raspberry-pi-4-1317716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/diferencias-clave-secretos-ocultos-raspberry-pi-5-raspberry-pi-4-3190848.jpg?tf=1200x' alt='Diferencias clave y secretos entre Raspberry Pi 5 y Raspberry Pi 4' />
+    <h4><a href='https://computerhoy.com/pc/cual-mejor-memoria-ram-pc-gaming-1395293'>¿Cuál es la mejor memoria RAM para usar en un PC gaming?</a></h4>
+    <a href='https://computerhoy.com/pc/cual-mejor-memoria-ram-pc-gaming-1395293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cambio-memoria-ram-pc-3719368.jpg?tf=1200x' alt='¿Cuál es la mejor memoria RAM para usar en un PC gaming?' />
     </a>
 </div>
 
