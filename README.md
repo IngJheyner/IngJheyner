@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/generador-solar-bluetti-1200w-potencia-oferta-amazon-1386408'>Este generador solar de 1200W de potencia hunde su precio en Amazon de forma temporal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/generador-solar-bluetti-1200w-potencia-oferta-amazon-1386408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bluetti-eb3a-3312059.jpg?tf=1200x' alt='Este generador solar de 1200W de potencia hunde su precio en Amazon de forma temporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chrome-contara-compatibilidad-escritura-mano-lapiz-optico-windows-11-1398732'>Chrome contará con compatibilidad con escritura a mano con lápiz óptico en Windows 11</a></h4>
     <a href='https://computerhoy.com/tecnologia/chrome-contara-compatibilidad-escritura-mano-lapiz-optico-windows-11-1398732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/stylus-dispositivo-windows-3869944.jpg?tf=1200x' alt='Chrome contará con compatibilidad con escritura a mano con lápiz óptico en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/tdtchannels-renueva-tambien-verano-estos-son-nuevos-canales-nos-han-dicho-adios-1398730'>TDTChannels se renueva también en verano: estos son los nuevos canales y los que nos han dicho adiós</a></h4>
     <a href='https://computerhoy.com/apps/tdtchannels-renueva-tambien-verano-estos-son-nuevos-canales-nos-han-dicho-adios-1398730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels se renueva también en verano: estos son los nuevos canales y los que nos han dicho adiós' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/arenero-limpia-solo-tiene-ambientador-amazon-vende-casi-100-euros-barato-1398710'>Este arenero se limpia solo y tiene ambientador: Amazon lo vende casi 100 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/arenero-limpia-solo-tiene-ambientador-amazon-vende-casi-100-euros-barato-1398710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/petkit-pura-x-3867884.jpg?tf=1200x' alt='Este arenero se limpia solo y tiene ambientador: Amazon lo vende casi 100 euros más barato' />
     </a>
 </div>
 
