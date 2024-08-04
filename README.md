@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/adios-regletas-invento-hubieras-deseado-existiera-antes-conectar-dispositivos-electronicos-1398764'>Adiós a las regletas: el invento que hubieras deseado que existiera antes para conectar tus dispositivos electrónicos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-regletas-invento-hubieras-deseado-existiera-antes-conectar-dispositivos-electronicos-1398764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regleta-electrica-3284279.jpg?tf=1200x' alt='Adiós a las regletas: el invento que hubieras deseado que existiera antes para conectar tus dispositivos electrónicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-dice-neuralink-podria-darte-superpoderes-combatir-ia-1398763'>Elon Musk dice que Neuralink podría darte superpoderes para combatir a la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-dice-neuralink-podria-darte-superpoderes-combatir-ia-1398763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-neuralink-2889316.jpg?tf=1200x' alt='Elon Musk dice que Neuralink podría darte superpoderes para combatir a la IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-play-te-permitira-actualizar-aplicaciones-descargadas-tiendas-terceros-1398758'>Google Play te permitirá actualizar aplicaciones descargadas de tiendas de terceros</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-play-te-permitira-actualizar-aplicaciones-descargadas-tiendas-terceros-1398758' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-play-store-3478871.jpg?tf=1200x' alt='Google Play te permitirá actualizar aplicaciones descargadas de tiendas de terceros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cual-mejor-memoria-ram-pc-gaming-1395293'>¿Cuál es la mejor memoria RAM para usar en un PC gaming?</a></h4>
-    <a href='https://computerhoy.com/pc/cual-mejor-memoria-ram-pc-gaming-1395293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cambio-memoria-ram-pc-3719368.jpg?tf=1200x' alt='¿Cuál es la mejor memoria RAM para usar en un PC gaming?' />
     </a>
 </div>
 
