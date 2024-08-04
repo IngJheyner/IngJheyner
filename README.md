@@ -50,22 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/util-atajo-windows-ahorrarte-horas-frente-teclado-1321988'>El útil atajo de Windows que te va a permitir ahorrarte cientos de horas frente al teclado</a></h4>
-    <a href='https://computerhoy.com/windows/util-atajo-windows-ahorrarte-horas-frente-teclado-1321988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/teclado-ergonomico-microsoft-raton-te-puede-cambiar-vida-tiene-29-descuento-2992728.jpg?tf=1200x' alt='El útil atajo de Windows que te va a permitir ahorrarte cientos de horas frente al teclado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chrome-android-contara-compatibilidad-arrastrar-soltar-archivos-1398757'>Chrome para Android contará con compatibilidad con arrastrar y soltar archivos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chrome-android-contara-compatibilidad-arrastrar-soltar-archivos-1398757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-chrome-3269664.jpg?tf=1200x' alt='Chrome para Android contará con compatibilidad con arrastrar y soltar archivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/microsoft-revive-skype-windows-11-eliminando-todos-anuncios-1398756'>Microsoft revive Skype en Windows 11 eliminando todos los anuncios</a></h4>
     <a href='https://computerhoy.com/apps/microsoft-revive-skype-windows-11-eliminando-todos-anuncios-1398756' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/skype-3874760.jpg?tf=1200x' alt='Microsoft revive Skype en Windows 11 eliminando todos los anuncios' />
@@ -85,6 +69,22 @@
     <h4><a href='https://computerhoy.com/energia/diferencias-sai-ups-1394370'>¿Qué diferencia hay entre SAI y UPS?</a></h4>
     <a href='https://computerhoy.com/energia/diferencias-sai-ups-1394370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/uninterruptible-power-supply-3664772.jpg?tf=1200x' alt='¿Qué diferencia hay entre SAI y UPS?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-iphone-outlet-back-market-deja-precio-ridiculo-1398516'>5 iPhone que el outlet de Back Market deja a precio ridículo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-iphone-outlet-back-market-deja-precio-ridiculo-1398516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/iphone-13-2824605.jpg?tf=1200x' alt='5 iPhone que el outlet de Back Market deja a precio ridículo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/diferencias-clave-raspberry-pi-5-raspberry-pi-4-1317716'>Diferencias clave y secretos entre Raspberry Pi 5 y Raspberry Pi 4</a></h4>
+    <a href='https://computerhoy.com/tecnologia/diferencias-clave-raspberry-pi-5-raspberry-pi-4-1317716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/diferencias-clave-secretos-ocultos-raspberry-pi-5-raspberry-pi-4-3190848.jpg?tf=1200x' alt='Diferencias clave y secretos entre Raspberry Pi 5 y Raspberry Pi 4' />
     </a>
 </div>
 
