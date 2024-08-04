@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/ecoshow-power-hat-sombrero-dias-sol-te-carga-movil-1398773'>Ecoshow Power Hat, el sombrero para los días de sol que te carga el móvil </a></h4>
+    <a href='https://computerhoy.com/moviles/ecoshow-power-hat-sombrero-dias-sol-te-carga-movil-1398773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1722788264337-3876604.jpg?tf=1200x' alt='Ecoshow Power Hat, el sombrero para los días de sol que te carga el móvil ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/olvida-chromecast-aparato-nokia-potente-dara-salto-calidad-televisor-1398102'>Olvida el Chromecast: este aparato de Nokia es más potente y le dará un salto de calidad a tu televisor</a></h4>
     <a href='https://computerhoy.com/tecnologia/olvida-chromecast-aparato-nokia-potente-dara-salto-calidad-televisor-1398102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-3845313.jpg?tf=1200x' alt='Olvida el Chromecast: este aparato de Nokia es más potente y le dará un salto de calidad a tu televisor' />
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/detenido-mojar-pinturas-rupestres-viesen-mejor-facebook-1398770'>Detenido por mojar pinturas rupestres para que se viesen mejor en Facebook</a></h4>
+    <h4><a href='https://computerhoy.com/redes/detenido-mojar-pinturas-rupestres-viesen-mejor-facebook-1398770'>Detenido por mojar pinturas rupestres en Jaén para que se viesen mejor en Facebook</a></h4>
     <a href='https://computerhoy.com/redes/detenido-mojar-pinturas-rupestres-viesen-mejor-facebook-1398770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/detenido-mojar-pinturas-rupestres-viesen-mejor-facebook-3876140.jpg?tf=1200x' alt='Detenido por mojar pinturas rupestres para que se viesen mejor en Facebook' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/detenido-mojar-pinturas-rupestres-viesen-mejor-facebook-3876140.jpg?tf=1200x' alt='Detenido por mojar pinturas rupestres en Jaén para que se viesen mejor en Facebook' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/adios-regletas-invento-hubieras-deseado-existiera-antes-conectar-dispositivos-electronicos-1398764'>Adiós a las regletas: el invento que hubieras deseado que existiera antes para conectar tus dispositivos electrónicos</a></h4>
     <a href='https://computerhoy.com/tecnologia/adios-regletas-invento-hubieras-deseado-existiera-antes-conectar-dispositivos-electronicos-1398764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regleta-electrica-3284279.jpg?tf=1200x' alt='Adiós a las regletas: el invento que hubieras deseado que existiera antes para conectar tus dispositivos electrónicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-dice-neuralink-podria-darte-superpoderes-combatir-ia-1398763'>Elon Musk dice que Neuralink podría darte superpoderes para combatir a la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-dice-neuralink-podria-darte-superpoderes-combatir-ia-1398763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/elon-musk-neuralink-2889316.jpg?tf=1200x' alt='Elon Musk dice que Neuralink podría darte superpoderes para combatir a la IA' />
     </a>
 </div>
 
