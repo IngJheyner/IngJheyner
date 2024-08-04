@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/como-he-aprendido-ahorrar-aire-acondicionado-consejos-verano-fresco-arruinarte-1397846'>Así es como he aprendido a ahorrar con el aire acondicionado: consejos para un verano fresco sin arruinarte</a></h4>
+    <a href='https://computerhoy.com/hogar/como-he-aprendido-ahorrar-aire-acondicionado-consejos-verano-fresco-arruinarte-1397846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ahorro-verano-aire-acondicionado-3848914.jpg?tf=1200x' alt='Así es como he aprendido a ahorrar con el aire acondicionado: consejos para un verano fresco sin arruinarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/web-perfecta-cualquier-problema-60-herramientas-gratis-codigo-abierto-1397274'>La web perfecta para cualquier problema, más de 60 herramientas gratis y de código abierto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/web-perfecta-cualquier-problema-60-herramientas-gratis-codigo-abierto-1397274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/web-perfecta-cualquier-problema-60-herramientas-gratis-codigo-abierto-3801755.jpg?tf=1200x' alt='La web perfecta para cualquier problema, más de 60 herramientas gratis y de código abierto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/iryo-ave-barato-destinos-precios-diferencias-ouigo-avlo-1397654'>Iryo, el AVE barato: destinos, precios, cómo son sus trenes y diferencias con Ouigo y AVLO</a></h4>
+    <a href='https://computerhoy.com/life/iryo-ave-barato-destinos-precios-diferencias-ouigo-avlo-1397654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iryo-ave-barato-destinos-precios-como-son-trenes-diferencias-ouigo-avlo-3633007.jpg?tf=1200x' alt='Iryo, el AVE barato: destinos, precios, cómo son sus trenes y diferencias con Ouigo y AVLO' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-huawei-clon-apple-watch-series-9-auriculares-gratis-1385205'>No es el Apple Watch Series 9, pero se parece: Huawei vende un smartwatch clon que viene con auriculares gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-huawei-clon-apple-watch-series-9-auriculares-gratis-1385205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-watch-fit-3-3309882.jpg?tf=1200x' alt='No es el Apple Watch Series 9, pero se parece: Huawei vende un smartwatch clon que viene con auriculares gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/10-consejos-crear-pc-sobremesa-presumir-no-desentone-salon-1397550'>10 consejos para crear un PC de sobremesa para presumir que no desentone en tu salón</a></h4>
     <a href='https://computerhoy.com/pc/10-consejos-crear-pc-sobremesa-presumir-no-desentone-salon-1397550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-consejos-crear-pc-sobremesa-insuperable-3816012.jpg?tf=1200x' alt='10 consejos para crear un PC de sobremesa para presumir que no desentone en tu salón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-archivos-eliminados-papelera-reciclaje-movil-android-1398652'>Cómo recuperar archivos eliminados desde la papelera de reciclaje de un móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recuperar-archivos-eliminados-papelera-reciclaje-movil-android-1398652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1722616964522-3862725.jpg?tf=1200x' alt='Cómo recuperar archivos eliminados desde la papelera de reciclaje de un móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/qned-diferencia-televisiones-oled-qled-1395902'>¿Qué es QNED y en qué se diferencia de las televisiones OLED o QLED?</a></h4>
-    <a href='https://computerhoy.com/tv/qned-diferencia-televisiones-oled-qled-1395902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1722600255067-3861231.jpg?tf=1200x' alt='¿Qué es QNED y en qué se diferencia de las televisiones OLED o QLED?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smart-tv-sony-no-tengas-comprar-barra-sonido-posiblemente-mejor-funcion-1397715'>Que a esta Smart TV de Sony no le tengas que comprar una barra de sonido, es posiblemente su mejor función</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smart-tv-sony-no-tengas-comprar-barra-sonido-posiblemente-mejor-funcion-1397715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sony-bravia-8-2024-65-pulgadas-3685116.jpg?tf=1200x' alt='Que a esta Smart TV de Sony no le tengas que comprar una barra de sonido, es posiblemente su mejor función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/carta-hogwarts-video-muestra-buho-entregando-correo-1398739'>Carta de Hogwarts: un vídeo muestra a un búho entregando el correo</a></h4>
-    <a href='https://computerhoy.com/life/carta-hogwarts-video-muestra-buho-entregando-correo-1398739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/carta-hogwarts-video-demuestra-correo-lechuza-existe-3872712.jpg?tf=1200x' alt='Carta de Hogwarts: un vídeo muestra a un búho entregando el correo' />
     </a>
 </div>
 
