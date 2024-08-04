@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/como-limpiar-pantalla-smart-tv-dejar-rayas-obtener-imagen-perfecta-1398083'>Cómo limpiar la pantalla de un Smart TV sin dejar rayas para obtener una imagen perfecta</a></h4>
+    <a href='https://computerhoy.com/tv/como-limpiar-pantalla-smart-tv-dejar-rayas-obtener-imagen-perfecta-1398083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/limpiar-smart-tv-3860604.jpg?tf=1200x' alt='Cómo limpiar la pantalla de un Smart TV sin dejar rayas para obtener una imagen perfecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/como-he-aprendido-ahorrar-aire-acondicionado-consejos-verano-fresco-arruinarte-1397846'>Así es como he aprendido a ahorrar con el aire acondicionado: consejos para un verano fresco sin arruinarte</a></h4>
     <a href='https://computerhoy.com/hogar/como-he-aprendido-ahorrar-aire-acondicionado-consejos-verano-fresco-arruinarte-1397846' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ahorro-verano-aire-acondicionado-3848914.jpg?tf=1200x' alt='Así es como he aprendido a ahorrar con el aire acondicionado: consejos para un verano fresco sin arruinarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/sencilla-configuracion-debes-hacer-tener-red-wifi-segura-1325786'>Esta es la sencilla configuración que debes hacer en tu router para tener una red WiFi segura</a></h4>
+    <a href='https://computerhoy.com/redes/sencilla-configuracion-debes-hacer-tener-red-wifi-segura-1325786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/router-wifi.jpg?tf=1200x' alt='Esta es la sencilla configuración que debes hacer en tu router para tener una red WiFi segura' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/iryo-ave-barato-destinos-precios-diferencias-ouigo-avlo-1397654'>Iryo, el AVE barato: destinos, precios, cómo son sus trenes y diferencias con Ouigo y AVLO</a></h4>
     <a href='https://computerhoy.com/life/iryo-ave-barato-destinos-precios-diferencias-ouigo-avlo-1397654' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iryo-ave-barato-destinos-precios-como-son-trenes-diferencias-ouigo-avlo-3633007.jpg?tf=1200x' alt='Iryo, el AVE barato: destinos, precios, cómo son sus trenes y diferencias con Ouigo y AVLO' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-huawei-clon-apple-watch-series-9-auriculares-gratis-1385205'>No es el Apple Watch Series 9, pero se parece: Huawei vende un smartwatch clon que viene con auriculares gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-huawei-clon-apple-watch-series-9-auriculares-gratis-1385205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-watch-fit-3-3309882.jpg?tf=1200x' alt='No es el Apple Watch Series 9, pero se parece: Huawei vende un smartwatch clon que viene con auriculares gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/10-consejos-crear-pc-sobremesa-presumir-no-desentone-salon-1397550'>10 consejos para crear un PC de sobremesa para presumir que no desentone en tu salón</a></h4>
-    <a href='https://computerhoy.com/pc/10-consejos-crear-pc-sobremesa-presumir-no-desentone-salon-1397550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/10-consejos-crear-pc-sobremesa-insuperable-3816012.jpg?tf=1200x' alt='10 consejos para crear un PC de sobremesa para presumir que no desentone en tu salón' />
     </a>
 </div>
 
