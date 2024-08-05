@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/monopolio-raspberry-pi-nuevo-competidor-5g-inteligencia-artificial-1398160'>El monopolio de la Raspberry Pi en peligro: tiene nuevo competidor con 5G e inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/monopolio-raspberry-pi-nuevo-competidor-5g-inteligencia-artificial-1398160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tachyon-sbc-3846369.jpg?tf=1200x' alt='El monopolio de la Raspberry Pi en peligro: tiene nuevo competidor con 5G e inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nave-espacial-viaja-extrano-objeto-metalico-orbita-tierra-captura-imagenes-impresionantes-1398388'>Una nave espacial viaja hasta un extraño objeto metálico que orbita la Tierra capturando unas imágenes impresionantes</a></h4>
+    <a href='https://computerhoy.com/espacio/nave-espacial-viaja-extrano-objeto-metalico-orbita-tierra-captura-imagenes-impresionantes-1398388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nave-espacial-viaja-extrano-objeto-metalico-orbita-tierra-captura-unas-imagenes-impresionantes-3853932.jpg?tf=1200x' alt='Una nave espacial viaja hasta un extraño objeto metálico que orbita la Tierra capturando unas imágenes impresionantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-puedes-ganar-300-euros-dia-ordenador-wifi-tiempo-libre-1397485'>Cómo ganar hasta 300 euros al día con solo un ordenador, WiFi y tiempo libre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-puedes-ganar-300-euros-dia-ordenador-wifi-tiempo-libre-1397485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ganar-dinero-casa-3812370.jpg?tf=1200x' alt='Cómo ganar hasta 300 euros al día con solo un ordenador, WiFi y tiempo libre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-drive-rival-respeta-privacidad-puedes-probar-gratis-1389514'>Google Drive tiene rival, y este sí respeta tu privacidad: lo puedes probar totalmente gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-drive-rival-respeta-privacidad-puedes-probar-gratis-1389514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nordlocker-3493544.jpg?tf=1200x' alt='Google Drive tiene rival, y este sí respeta tu privacidad: lo puedes probar totalmente gratis' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/portatil-microsoft-procesador-snapdragon-me-ha-hecho-replantearme-20-anos-relacion-mac-1397822'>Este portátil de Microsoft con procesador Snapdragon me ha hecho replantearme 20 años de relación con los Mac</a></h4>
     <a href='https://computerhoy.com/pc/portatil-microsoft-procesador-snapdragon-me-ha-hecho-replantearme-20-anos-relacion-mac-1397822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-surface-laptop-7-3832360.jpg?tf=1200x' alt='Este portátil de Microsoft con procesador Snapdragon me ha hecho replantearme 20 años de relación con los Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-watch-ultra-analisis-opinion-1398319'>Tras probar el Samsung Galaxy Watch Ultra me queda claro que es un gran smartwatch deportivo, pero no es perfecto</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-watch-ultra-analisis-opinion-1398319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-watch-ultra-3855032.jpg?tf=1200x' alt='Tras probar el Samsung Galaxy Watch Ultra me queda claro que es un gran smartwatch deportivo, pero no es perfecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-xiaomi-barata-series-peliculas-1390552'>Xiaomi vende una tablet barata y potente que es ideal para ver películas y series</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-xiaomi-barata-series-peliculas-1390552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/redmi-pad-3309496.jpg?tf=1200x' alt='Xiaomi vende una tablet barata y potente que es ideal para ver películas y series' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/asociaciones-jugar-escondite-alquilan-isla-desierta-campeonato-internacional-1398777'>Asociaciones de Jugar al escondite alquilan una isla desierta para un campeonato internacional</a></h4>
-    <a href='https://computerhoy.com/life/asociaciones-jugar-escondite-alquilan-isla-desierta-campeonato-internacional-1398777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/asociaciones-jugar-escondite-alquilan-isla-desierta-campeonato-internacional-3878711.jpg?tf=1200x' alt='Asociaciones de Jugar al escondite alquilan una isla desierta para un campeonato internacional' />
     </a>
 </div>
 
