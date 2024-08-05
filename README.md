@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/cosas-mejorarian-apple-carplay-1397554'> 7 cosas que mejorarían Apple CarPlay</a></h4>
+    <a href='https://computerhoy.com/apple/cosas-mejorarian-apple-carplay-1397554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/7-cosas-mejorarian-apple-carplay-3821181.jpg?tf=1200x' alt=' 7 cosas que mejorarían Apple CarPlay' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-hallazgo-podria-abaratar-produccion-hidrogeno-revolucion-ciernes-1398811'>Nuevo hallazgo podría abaratar la producción de hidrógeno: ¿una revolución en ciernes?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-hallazgo-podria-abaratar-produccion-hidrogeno-revolucion-ciernes-1398811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/motor-hidrogeno-hyundai-nexo-3881617.jpg?tf=1200x' alt='Nuevo hallazgo podría abaratar la producción de hidrógeno: ¿una revolución en ciernes?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/tablet-para-jugar-ver-series-poco-tumba-precio-modelo-muy-potente-1398340'>La tablet perfecta para jugar y ver series: POCO tumba el precio de un modelo muy potente</a></h4>
     <a href='https://computerhoy.com/android/tablet-para-jugar-ver-series-poco-tumba-precio-modelo-muy-potente-1398340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-poco-pad-3852977.jpg?tf=1200x' alt='La tablet perfecta para jugar y ver series: POCO tumba el precio de un modelo muy potente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/guardia-civil-investiga-varios-jovenes-usaban-ia-crear-imagenes-menores-desnudas-1398839'>La Guardia Civil investiga a varios jóvenes que usaban IA para crear imágenes de menores desnudas</a></h4>
     <a href='https://computerhoy.com/tecnologia/guardia-civil-investiga-varios-jovenes-usaban-ia-crear-imagenes-menores-desnudas-1398839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guardia-civil-ia-ciberseguridad-3881784.jpg?tf=1200x' alt='La Guardia Civil investiga a varios jóvenes que usaban IA para crear imágenes de menores desnudas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funcion-waze-no-tiene-google-maps-policia-frota-manos-1398828'>La función de Waze que no tiene Google Maps con la que la Policía se frota las manos</a></h4>
-    <a href='https://computerhoy.com/apps/funcion-waze-no-tiene-google-maps-policia-frota-manos-1398828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-waze-policia-3882619.jpg?tf=1200x' alt='La función de Waze que no tiene Google Maps con la que la Policía se frota las manos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/aerolineas-estan-quedando-numeros-vuelos-no-saben-como-solucionarlo-1398819'>Las aerolíneas se están quedando sin números de vuelos y no saben cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/life/aerolineas-estan-quedando-numeros-vuelos-no-saben-como-solucionarlo-1398819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vuelos-salida-aeropuerto-3882457.jpg?tf=1200x' alt='Las aerolíneas se están quedando sin números de vuelos y no saben cómo solucionarlo' />
     </a>
 </div>
 
