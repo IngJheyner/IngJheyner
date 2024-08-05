@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/modo-dios-windows-11-4-funciones-sorprendentes-1318304'>Modo Dios de Windows 11: cómo aprovechar sus funciones más sorprendentes</a></h4>
+    <a href='https://computerhoy.com/tutoriales/modo-dios-windows-11-4-funciones-sorprendentes-1318304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/modo-dios-windows-11-como-aprovechar-4-funciones-sorprendentes-3192044.jpg?tf=1200x' alt='Modo Dios de Windows 11: cómo aprovechar sus funciones más sorprendentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/crisis-seguridad-windows-10-70-usuarios-inminente-riesgo-1398822'>Crisis de seguridad de Windows 10: el 70% de los usuarios está en inminente riesgo</a></h4>
+    <a href='https://computerhoy.com/windows/crisis-seguridad-windows-10-70-usuarios-inminente-riesgo-1398822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-10-ciberseguridad-3881605.jpg?tf=1200x' alt='Crisis de seguridad de Windows 10: el 70% de los usuarios está en inminente riesgo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/sony-fecha-fin-ps4-1394545'>Sony ya le ha puesto fecha de caducidad a la PlayStation 4 </a></h4>
+    <a href='https://computerhoy.com/gaming/sony-fecha-fin-ps4-1394545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/final-ps4-3683431.jpg?tf=1200x' alt='Sony ya le ha puesto fecha de caducidad a la PlayStation 4 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/openai-hace-cuesta-arriba-deteccion-texto-generado-ia-tan-dificil-1398805'>A OpenAI se le hace cuesta arriba la detección de texto generado por IA: ¿Por qué es tan difícil?</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-hace-cuesta-arriba-deteccion-texto-generado-ia-tan-dificil-1398805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-texto-3881444.jpg?tf=1200x' alt='A OpenAI se le hace cuesta arriba la detección de texto generado por IA: ¿Por qué es tan difícil?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/robot-tamano-escarabajo-utilizara-misiones-busqueda-rescate-1398796'>El robot del tamaño de un escarabajo que se utilizará en misiones de búsqueda y rescate</a></h4>
     <a href='https://computerhoy.com/tecnologia/robot-tamano-escarabajo-utilizara-misiones-busqueda-rescate-1398796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/robot-tamano-escarabajo-utilizara-misiones-busqueda-rescate-3881114.jpg?tf=1200x' alt='El robot del tamaño de un escarabajo que se utilizará en misiones de búsqueda y rescate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/bandeja-gmail-llena-como-recuperar-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-1398052'>¿Bandeja de Gmail llena? Cómo recuperar los 15 GB de almacenamiento gratis sin pagar ni borrar un solo mensaje</a></h4>
-    <a href='https://computerhoy.com/tutoriales/bandeja-gmail-llena-como-recuperar-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-1398052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bandeja-gmail-llena-como-recuperar-15-gb-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-3842749.jpg?tf=1200x' alt='¿Bandeja de Gmail llena? Cómo recuperar los 15 GB de almacenamiento gratis sin pagar ni borrar un solo mensaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/tienes-tirado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-1398265'>Lo tienes tirado en un cajón sin usar y puede convertirse en el mejor repetidor WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/tienes-tirado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-1398265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-olvidado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-3850209.jpg?tf=1200x' alt='Lo tienes tirado en un cajón sin usar y puede convertirse en el mejor repetidor WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-quiere-revolucionar-mercado-apple-watch-plastico-nuevos-colores-1398794'>Apple quiere revolucionar el mercado con un Apple Watch SE de plástico y nuevos colores</a></h4>
-    <a href='https://computerhoy.com/apple/apple-quiere-revolucionar-mercado-apple-watch-plastico-nuevos-colores-1398794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-watch-colores-3881260.jpg?tf=1200x' alt='Apple quiere revolucionar el mercado con un Apple Watch SE de plástico y nuevos colores' />
     </a>
 </div>
 
