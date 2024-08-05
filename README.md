@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-drive-rival-respeta-privacidad-puedes-probar-gratis-1389514'>Google Drive tiene rival, y este sí respeta tu privacidad: lo puedes probar totalmente gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-drive-rival-respeta-privacidad-puedes-probar-gratis-1389514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nordlocker-3493544.jpg?tf=1200x' alt='Google Drive tiene rival, y este sí respeta tu privacidad: lo puedes probar totalmente gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/portatil-microsoft-procesador-snapdragon-me-ha-hecho-replantearme-20-anos-relacion-mac-1397822'>Este portátil de Microsoft con procesador Snapdragon me ha hecho replantearme 20 años de relación con los Mac</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-microsoft-procesador-snapdragon-me-ha-hecho-replantearme-20-anos-relacion-mac-1397822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-surface-laptop-7-3832360.jpg?tf=1200x' alt='Este portátil de Microsoft con procesador Snapdragon me ha hecho replantearme 20 años de relación con los Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-watch-ultra-analisis-opinion-1398319'>Tras probar el Samsung Galaxy Watch Ultra me queda claro que es un gran smartwatch deportivo, pero no es perfecto</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-watch-ultra-analisis-opinion-1398319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-watch-ultra-3855032.jpg?tf=1200x' alt='Tras probar el Samsung Galaxy Watch Ultra me queda claro que es un gran smartwatch deportivo, pero no es perfecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tablet-xiaomi-barata-series-peliculas-1390552'>Xiaomi vende una tablet barata y potente que es ideal para ver películas y series</a></h4>
     <a href='https://computerhoy.com/tecnologia/tablet-xiaomi-barata-series-peliculas-1390552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/redmi-pad-3309496.jpg?tf=1200x' alt='Xiaomi vende una tablet barata y potente que es ideal para ver películas y series' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/asociaciones-jugar-escondite-alquilan-isla-desierta-campeonato-internacional-1398777'>Asociaciones de Jugar al escondite alquilan una isla desierta para un campeonato internacional</a></h4>
     <a href='https://computerhoy.com/life/asociaciones-jugar-escondite-alquilan-isla-desierta-campeonato-internacional-1398777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/asociaciones-jugar-escondite-alquilan-isla-desierta-campeonato-internacional-3878711.jpg?tf=1200x' alt='Asociaciones de Jugar al escondite alquilan una isla desierta para un campeonato internacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crowdshipping-cobrar-llevar-paquetes-coche-metro-1398776'>Llega el crowdshipping: ganar dinero por llevar paquetes en tu coche, o en el metro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crowdshipping-cobrar-llevar-paquetes-coche-metro-1398776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/llega-crowdshipping-cobrar-llevar-paquetes-coche-metro-ruta-habitual-3877821.jpg?tf=1200x' alt='Llega el crowdshipping: ganar dinero por llevar paquetes en tu coche, o en el metro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/creadores-stable-difussion-lanzan-flux1-ia-genera-manos-perfectas-1398775'>Los creadores de Stable Difussion se independizan y lanzan Flux.1, la IA que genera manos perfectas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/creadores-stable-difussion-lanzan-flux1-ia-genera-manos-perfectas-1398775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/creadores-stable-difussion-independizan-lanzan-flux1-ia-genera-manos-perfectas-3877226.jpg?tf=1200x' alt='Los creadores de Stable Difussion se independizan y lanzan Flux.1, la IA que genera manos perfectas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ecoshow-power-hat-sombrero-dias-sol-te-carga-movil-1398773'>Ecoshow Power Hat, el sombrero para los días de sol que te carga el móvil </a></h4>
-    <a href='https://computerhoy.com/moviles/ecoshow-power-hat-sombrero-dias-sol-te-carga-movil-1398773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1722788264337-3876604.jpg?tf=1200x' alt='Ecoshow Power Hat, el sombrero para los días de sol que te carga el móvil ' />
     </a>
 </div>
 
