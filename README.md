@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/tablet-para-jugar-ver-series-poco-tumba-precio-modelo-muy-potente-1398340'>La tablet perfecta para jugar y ver series: POCO tumba el precio de un modelo muy potente</a></h4>
+    <a href='https://computerhoy.com/android/tablet-para-jugar-ver-series-poco-tumba-precio-modelo-muy-potente-1398340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-poco-pad-3852977.jpg?tf=1200x' alt='La tablet perfecta para jugar y ver series: POCO tumba el precio de un modelo muy potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ejercito-eeuu-gasto-2-millones-dolares-consolas-videojuegos-no-jugar-call-duty-1398648'>El ejército de EEUU gastó más de 2 millones de dólares en consolas de videojuegos, y no para jugar al Call of Duty</a></h4>
+    <a href='https://computerhoy.com/gaming/ejercito-eeuu-gasto-2-millones-dolares-consolas-videojuegos-no-jugar-call-duty-1398648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/soldado-jugando-consola-3882775.jpg?tf=1200x' alt='El ejército de EEUU gastó más de 2 millones de dólares en consolas de videojuegos, y no para jugar al Call of Duty' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/guardia-civil-investiga-varios-jovenes-usaban-ia-crear-imagenes-menores-desnudas-1398839'>La Guardia Civil investiga a varios jóvenes que usaban IA para crear imágenes de menores desnudas</a></h4>
     <a href='https://computerhoy.com/tecnologia/guardia-civil-investiga-varios-jovenes-usaban-ia-crear-imagenes-menores-desnudas-1398839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guardia-civil-ia-ciberseguridad-3881784.jpg?tf=1200x' alt='La Guardia Civil investiga a varios jóvenes que usaban IA para crear imágenes de menores desnudas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/aerolineas-estan-quedando-numeros-vuelos-no-saben-como-solucionarlo-1398819'>Las aerolíneas se están quedando sin números de vuelos y no saben cómo solucionarlo</a></h4>
     <a href='https://computerhoy.com/life/aerolineas-estan-quedando-numeros-vuelos-no-saben-como-solucionarlo-1398819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vuelos-salida-aeropuerto-3882457.jpg?tf=1200x' alt='Las aerolíneas se están quedando sin números de vuelos y no saben cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/modo-dios-windows-11-4-funciones-sorprendentes-1318304'>Modo Dios de Windows 11: cómo aprovechar sus funciones más sorprendentes</a></h4>
-    <a href='https://computerhoy.com/tutoriales/modo-dios-windows-11-4-funciones-sorprendentes-1318304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/modo-dios-windows-11-como-aprovechar-4-funciones-sorprendentes-3192044.jpg?tf=1200x' alt='Modo Dios de Windows 11: cómo aprovechar sus funciones más sorprendentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/crisis-seguridad-windows-10-70-usuarios-inminente-riesgo-1398822'>Crisis de seguridad de Windows 10: el 70% de los usuarios está en inminente riesgo</a></h4>
-    <a href='https://computerhoy.com/windows/crisis-seguridad-windows-10-70-usuarios-inminente-riesgo-1398822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-10-ciberseguridad-3881605.jpg?tf=1200x' alt='Crisis de seguridad de Windows 10: el 70% de los usuarios está en inminente riesgo' />
     </a>
 </div>
 
