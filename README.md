@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-xiaomi-barata-series-peliculas-1390552'>Xiaomi vende una tablet barata y potente que es ideal para ver películas y series</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-xiaomi-barata-series-peliculas-1390552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/redmi-pad-3309496.jpg?tf=1200x' alt='Xiaomi vende una tablet barata y potente que es ideal para ver películas y series' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/asociaciones-jugar-escondite-alquilan-isla-desierta-campeonato-internacional-1398777'>Asociaciones de Jugar al escondite alquilan una isla desierta para un campeonato internacional</a></h4>
     <a href='https://computerhoy.com/life/asociaciones-jugar-escondite-alquilan-isla-desierta-campeonato-internacional-1398777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/asociaciones-jugar-escondite-alquilan-isla-desierta-campeonato-internacional-3878711.jpg?tf=1200x' alt='Asociaciones de Jugar al escondite alquilan una isla desierta para un campeonato internacional' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/ecoshow-power-hat-sombrero-dias-sol-te-carga-movil-1398773'>Ecoshow Power Hat, el sombrero para los días de sol que te carga el móvil </a></h4>
     <a href='https://computerhoy.com/moviles/ecoshow-power-hat-sombrero-dias-sol-te-carga-movil-1398773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1722788264337-3876604.jpg?tf=1200x' alt='Ecoshow Power Hat, el sombrero para los días de sol que te carga el móvil ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-chromecast-aparato-nokia-potente-dara-salto-calidad-televisor-1398102'>Olvida el Chromecast: este aparato de Nokia es más potente y le dará un salto de calidad a tu televisor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-chromecast-aparato-nokia-potente-dara-salto-calidad-televisor-1398102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-3845313.jpg?tf=1200x' alt='Olvida el Chromecast: este aparato de Nokia es más potente y le dará un salto de calidad a tu televisor' />
     </a>
 </div>
 
