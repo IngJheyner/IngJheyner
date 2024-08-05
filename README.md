@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-archivos-linux-wsl-windows-10-windows-11-1397084'>Cómo encontrar tus archivos de Linux (WSL) en Windows 10 y Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-encontrar-archivos-linux-wsl-windows-10-windows-11-1397084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-encontrar-archivos-linux-wsl-windows-10-windows-11-3795293.jpg?tf=1200x' alt='Cómo encontrar tus archivos de Linux (WSL) en Windows 10 y Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estos-son-mensajes-respuestas-obtienen-tinder-1398878'>Estos son los mensajes que más respuestas obtienen en Tinder</a></h4>
+    <a href='https://computerhoy.com/apps/estos-son-mensajes-respuestas-obtienen-tinder-1398878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mensajes-tinder-3882622.jpg?tf=1200x' alt='Estos son los mensajes que más respuestas obtienen en Tinder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/cosas-mejorarian-apple-carplay-1397554'> 7 cosas que mejorarían Apple CarPlay</a></h4>
     <a href='https://computerhoy.com/apple/cosas-mejorarian-apple-carplay-1397554' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/7-cosas-mejorarian-apple-carplay-3821181.jpg?tf=1200x' alt=' 7 cosas que mejorarían Apple CarPlay' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/tablet-para-jugar-ver-series-poco-tumba-precio-modelo-muy-potente-1398340'>La tablet perfecta para jugar y ver series: POCO tumba el precio de un modelo muy potente</a></h4>
     <a href='https://computerhoy.com/android/tablet-para-jugar-ver-series-poco-tumba-precio-modelo-muy-potente-1398340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-poco-pad-3852977.jpg?tf=1200x' alt='La tablet perfecta para jugar y ver series: POCO tumba el precio de un modelo muy potente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ejercito-eeuu-gasto-2-millones-dolares-consolas-videojuegos-no-jugar-call-duty-1398648'>El ejército de EEUU gastó más de 2 millones de dólares en consolas de videojuegos, y no para jugar al Call of Duty</a></h4>
-    <a href='https://computerhoy.com/gaming/ejercito-eeuu-gasto-2-millones-dolares-consolas-videojuegos-no-jugar-call-duty-1398648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/soldado-jugando-consola-3882775.jpg?tf=1200x' alt='El ejército de EEUU gastó más de 2 millones de dólares en consolas de videojuegos, y no para jugar al Call of Duty' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guardia-civil-investiga-varios-jovenes-usaban-ia-crear-imagenes-menores-desnudas-1398839'>La Guardia Civil investiga a varios jóvenes que usaban IA para crear imágenes de menores desnudas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guardia-civil-investiga-varios-jovenes-usaban-ia-crear-imagenes-menores-desnudas-1398839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guardia-civil-ia-ciberseguridad-3881784.jpg?tf=1200x' alt='La Guardia Civil investiga a varios jóvenes que usaban IA para crear imágenes de menores desnudas' />
     </a>
 </div>
 
