@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/descubren-google-maps-piscina-curiosa-mundo-espana-1398816'>Descubren en Google Maps la piscina más curiosa del mundo, y está en España</a></h4>
+    <a href='https://computerhoy.com/apps/descubren-google-maps-piscina-curiosa-mundo-espana-1398816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/descubren-google-maps-piscina-curiosa-mundo-espana-3881441.jpg?tf=1200x' alt='Descubren en Google Maps la piscina más curiosa del mundo, y está en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/iphone-plegable-hibrido-ipad-imac-doble-apuesta-apple-2026-1398788'>Un iPhone plegable y un híbrido iPad/iMac: la doble apuesta de Apple para 2026</a></h4>
     <a href='https://computerhoy.com/apple/iphone-plegable-hibrido-ipad-imac-doble-apuesta-apple-2026-1398788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-concepto-plegable-3271941.jpg?tf=1200x' alt='Un iPhone plegable y un híbrido iPad/iMac: la doble apuesta de Apple para 2026' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-hacer-movil-sea-imposible-rastrear-1311752'>Cómo conseguir que tu móvil sea imposible de rastrear para proteger tus datos e información</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-hacer-movil-sea-imposible-rastrear-1311752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-hacer-movil-sea-imposible-rastrear-proteger-datos-informacion-3146326.jpg?tf=1200x' alt='Cómo conseguir que tu móvil sea imposible de rastrear para proteger tus datos e información' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/monopolio-raspberry-pi-nuevo-competidor-5g-inteligencia-artificial-1398160'>El monopolio de la Raspberry Pi en peligro: tiene nuevo competidor con 5G e inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/monopolio-raspberry-pi-nuevo-competidor-5g-inteligencia-artificial-1398160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tachyon-sbc-3846369.jpg?tf=1200x' alt='El monopolio de la Raspberry Pi en peligro: tiene nuevo competidor con 5G e inteligencia artificial' />
     </a>
 </div>
 
