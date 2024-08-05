@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-plegable-hibrido-ipad-imac-doble-apuesta-apple-2026-1398788'>Un iPhone plegable y un híbrido iPad/iMac: la doble apuesta de Apple para 2026</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-plegable-hibrido-ipad-imac-doble-apuesta-apple-2026-1398788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-concepto-plegable-3271941.jpg?tf=1200x' alt='Un iPhone plegable y un híbrido iPad/iMac: la doble apuesta de Apple para 2026' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pendrive-dura-200-anos-pero-solo-contiene-8-kb-memoria-fram-1387127'>En Alemania han creado un pendrive a prueba de bombas que dura más de 200 años, pero con un gran inconveniente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pendrive-dura-200-anos-pero-solo-contiene-8-kb-memoria-fram-1387127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pendrive-dura-200-anos-gracias-memoria-fram-3334218.jpg?tf=1200x' alt='En Alemania han creado un pendrive a prueba de bombas que dura más de 200 años, pero con un gran inconveniente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-mail-patito-feo-rival-gmail-gracias-inteligencia-artificial-1398784'>Apple Mail: de patito feo a rival de Gmail gracias a la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/apple/apple-mail-patito-feo-rival-gmail-gracias-inteligencia-artificial-1398784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-dominar-apple-mail-iphone-10-trucos-sacarle-maximo-partido-3249911.jpg?tf=1200x' alt='Apple Mail: de patito feo a rival de Gmail gracias a la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-movil-sea-imposible-rastrear-1311752'>Cómo conseguir que tu móvil sea imposible de rastrear para proteger tus datos e información</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-movil-sea-imposible-rastrear-1311752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-hacer-movil-sea-imposible-rastrear-proteger-datos-informacion-3146326.jpg?tf=1200x' alt='Cómo conseguir que tu móvil sea imposible de rastrear para proteger tus datos e información' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/monopolio-raspberry-pi-nuevo-competidor-5g-inteligencia-artificial-1398160'>El monopolio de la Raspberry Pi en peligro: tiene nuevo competidor con 5G e inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/monopolio-raspberry-pi-nuevo-competidor-5g-inteligencia-artificial-1398160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tachyon-sbc-3846369.jpg?tf=1200x' alt='El monopolio de la Raspberry Pi en peligro: tiene nuevo competidor con 5G e inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nave-espacial-viaja-extrano-objeto-metalico-orbita-tierra-captura-imagenes-impresionantes-1398388'>Una nave espacial viaja hasta un extraño objeto metálico que orbita la Tierra capturando unas imágenes impresionantes</a></h4>
-    <a href='https://computerhoy.com/espacio/nave-espacial-viaja-extrano-objeto-metalico-orbita-tierra-captura-imagenes-impresionantes-1398388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nave-espacial-viaja-extrano-objeto-metalico-orbita-tierra-captura-unas-imagenes-impresionantes-3853932.jpg?tf=1200x' alt='Una nave espacial viaja hasta un extraño objeto metálico que orbita la Tierra capturando unas imágenes impresionantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-puedes-ganar-300-euros-dia-ordenador-wifi-tiempo-libre-1397485'>Cómo ganar hasta 300 euros al día con solo un ordenador, WiFi y tiempo libre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-puedes-ganar-300-euros-dia-ordenador-wifi-tiempo-libre-1397485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ganar-dinero-casa-3812370.jpg?tf=1200x' alt='Cómo ganar hasta 300 euros al día con solo un ordenador, WiFi y tiempo libre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-drive-rival-respeta-privacidad-puedes-probar-gratis-1389514'>Google Drive tiene rival, y este sí respeta tu privacidad: lo puedes probar totalmente gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-drive-rival-respeta-privacidad-puedes-probar-gratis-1389514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nordlocker-3493544.jpg?tf=1200x' alt='Google Drive tiene rival, y este sí respeta tu privacidad: lo puedes probar totalmente gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatil-microsoft-procesador-snapdragon-me-ha-hecho-replantearme-20-anos-relacion-mac-1397822'>Este portátil de Microsoft con procesador Snapdragon me ha hecho replantearme 20 años de relación con los Mac</a></h4>
-    <a href='https://computerhoy.com/pc/portatil-microsoft-procesador-snapdragon-me-ha-hecho-replantearme-20-anos-relacion-mac-1397822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-surface-laptop-7-3832360.jpg?tf=1200x' alt='Este portátil de Microsoft con procesador Snapdragon me ha hecho replantearme 20 años de relación con los Mac' />
     </a>
 </div>
 
