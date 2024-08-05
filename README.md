@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/estados-unidos-sentencia-google-monopolio-podria-ser-dividida-varias-empresas-1398969'>Estados Unidos sentencia que Google es un monopolio, podría ser dividida en varias empresas</a></h4>
+    <a href='https://computerhoy.com/google/estados-unidos-sentencia-google-monopolio-podria-ser-dividida-varias-empresas-1398969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/juez-sentencia-google-monopolio-podria-ser-dividida-varias-empresas-3885441.jpg?tf=1200x' alt='Estados Unidos sentencia que Google es un monopolio, podría ser dividida en varias empresas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ubicacion-boton-secreto-lavavajillas-te-cambiara-vida-siempre-1398958'>La ubicación del botón secreto del lavavajillas que te cambiará la vida para siempre</a></h4>
+    <a href='https://computerhoy.com/life/ubicacion-boton-secreto-lavavajillas-te-cambiara-vida-siempre-1398958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ubicacion-boton-secreto-lavavajillas-te-cambiara-vida-siempre-3885657.jpg?tf=1200x' alt='La ubicación del botón secreto del lavavajillas que te cambiará la vida para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/logra-instalar-windows-11-pc-hace-10-anos-resultado-asombroso-1398963'>Logra instalar Windows 11 en un PC de hace 10 años y el resultado es asombroso</a></h4>
     <a href='https://computerhoy.com/windows/logra-instalar-windows-11-pc-hace-10-anos-resultado-asombroso-1398963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-3885056.jpg?tf=1200x' alt='Logra instalar Windows 11 en un PC de hace 10 años y el resultado es asombroso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-lanza-parche-seguridad-chromecast-dos-meses-retraso-1398959'>Google lanza un parche de seguridad para Chromecast con dos meses de retraso</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-lanza-parche-seguridad-chromecast-dos-meses-retraso-1398959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-chromecast-3885054.jpg?tf=1200x' alt='Google lanza un parche de seguridad para Chromecast con dos meses de retraso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/debes-mantener-siempre-activada-depuracion-usb-movil-android-como-hace-1398948'>Por qué debes mantener siempre activada la depuración USB en tu móvil Android (y cómo se hace)</a></h4>
-    <a href='https://computerhoy.com/android/debes-mantener-siempre-activada-depuracion-usb-movil-android-como-hace-1398948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/debes-mantener-siempre-activada-depuracion-usb-movil-android-como-hace-3884902.jpg?tf=1200x' alt='Por qué debes mantener siempre activada la depuración USB en tu móvil Android (y cómo se hace)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tipos-productos-no-pueden-devolverse-amazon-1394099'>¿Qué tipos de productos no pueden devolverse en Amazon?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tipos-productos-no-pueden-devolverse-amazon-1394099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/devoluciones-amazon-3882950.jpg?tf=1200x' alt='¿Qué tipos de productos no pueden devolverse en Amazon?' />
     </a>
 </div>
 
