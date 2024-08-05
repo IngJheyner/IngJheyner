@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/descubren-google-maps-piscina-curiosa-mundo-espana-1398816'>Descubren en Google Maps la piscina más curiosa del mundo, y está en España</a></h4>
-    <a href='https://computerhoy.com/apps/descubren-google-maps-piscina-curiosa-mundo-espana-1398816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/descubren-google-maps-piscina-curiosa-mundo-espana-3881441.jpg?tf=1200x' alt='Descubren en Google Maps la piscina más curiosa del mundo, y está en España' />
+    <h4><a href='https://computerhoy.com/tecnologia/openai-hace-cuesta-arriba-deteccion-texto-generado-ia-tan-dificil-1398805'>A OpenAI se le hace cuesta arriba la detección de texto generado por IA: ¿Por qué es tan difícil?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-hace-cuesta-arriba-deteccion-texto-generado-ia-tan-dificil-1398805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-texto-3881444.jpg?tf=1200x' alt='A OpenAI se le hace cuesta arriba la detección de texto generado por IA: ¿Por qué es tan difícil?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-plegable-hibrido-ipad-imac-doble-apuesta-apple-2026-1398788'>Un iPhone plegable y un híbrido iPad/iMac: la doble apuesta de Apple para 2026</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-plegable-hibrido-ipad-imac-doble-apuesta-apple-2026-1398788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-concepto-plegable-3271941.jpg?tf=1200x' alt='Un iPhone plegable y un híbrido iPad/iMac: la doble apuesta de Apple para 2026' />
+    <h4><a href='https://computerhoy.com/tecnologia/robot-tamano-escarabajo-utilizara-misiones-busqueda-rescate-1398796'>El robot del tamaño de un escarabajo que se utilizará en misiones de búsqueda y rescate</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-tamano-escarabajo-utilizara-misiones-busqueda-rescate-1398796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/robot-tamano-escarabajo-utilizara-misiones-busqueda-rescate-3881114.jpg?tf=1200x' alt='El robot del tamaño de un escarabajo que se utilizará en misiones de búsqueda y rescate' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pendrive-dura-200-anos-pero-solo-contiene-8-kb-memoria-fram-1387127'>En Alemania han creado un pendrive a prueba de bombas que dura más de 200 años, pero con un gran inconveniente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pendrive-dura-200-anos-pero-solo-contiene-8-kb-memoria-fram-1387127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pendrive-dura-200-anos-gracias-memoria-fram-3334218.jpg?tf=1200x' alt='En Alemania han creado un pendrive a prueba de bombas que dura más de 200 años, pero con un gran inconveniente' />
+    <h4><a href='https://computerhoy.com/tutoriales/bandeja-gmail-llena-como-recuperar-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-1398052'>¿Bandeja de Gmail llena? Cómo recuperar los 15 GB de almacenamiento gratis sin pagar ni borrar un solo mensaje</a></h4>
+    <a href='https://computerhoy.com/tutoriales/bandeja-gmail-llena-como-recuperar-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-1398052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bandeja-gmail-llena-como-recuperar-15-gb-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-3842749.jpg?tf=1200x' alt='¿Bandeja de Gmail llena? Cómo recuperar los 15 GB de almacenamiento gratis sin pagar ni borrar un solo mensaje' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-mail-patito-feo-rival-gmail-gracias-inteligencia-artificial-1398784'>Apple Mail: de patito feo a rival de Gmail gracias a la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/apple/apple-mail-patito-feo-rival-gmail-gracias-inteligencia-artificial-1398784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-dominar-apple-mail-iphone-10-trucos-sacarle-maximo-partido-3249911.jpg?tf=1200x' alt='Apple Mail: de patito feo a rival de Gmail gracias a la inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/redes/tienes-tirado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-1398265'>Lo tienes tirado en un cajón sin usar y puede convertirse en el mejor repetidor WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/tienes-tirado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-1398265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-olvidado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-3850209.jpg?tf=1200x' alt='Lo tienes tirado en un cajón sin usar y puede convertirse en el mejor repetidor WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-movil-sea-imposible-rastrear-1311752'>Cómo conseguir que tu móvil sea imposible de rastrear para proteger tus datos e información</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-movil-sea-imposible-rastrear-1311752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-hacer-movil-sea-imposible-rastrear-proteger-datos-informacion-3146326.jpg?tf=1200x' alt='Cómo conseguir que tu móvil sea imposible de rastrear para proteger tus datos e información' />
+    <h4><a href='https://computerhoy.com/apple/apple-quiere-revolucionar-mercado-apple-watch-plastico-nuevos-colores-1398794'>Apple quiere revolucionar el mercado con un Apple Watch SE de plástico y nuevos colores</a></h4>
+    <a href='https://computerhoy.com/apple/apple-quiere-revolucionar-mercado-apple-watch-plastico-nuevos-colores-1398794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-watch-colores-3881260.jpg?tf=1200x' alt='Apple quiere revolucionar el mercado con un Apple Watch SE de plástico y nuevos colores' />
     </a>
 </div>
 
