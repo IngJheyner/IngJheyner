@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-autores-fallout-protagonizada-lobezno-puedes-ver-amazon-prime-video-1398623'>Así es la incomprendida película de los autores de Fallout y protagonizada por Lobezno que puedes ver en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-autores-fallout-protagonizada-lobezno-puedes-ver-amazon-prime-video-1398623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/incomprendida-pelicula-autores-fallout-protagonizada-lobezno-puedes-ver-amazon-prime-video-3861078.jpg?tf=1200x' alt='Así es la incomprendida película de los autores de Fallout y protagonizada por Lobezno que puedes ver en Amazon Prime Video' />
+    <h4><a href='https://computerhoy.com/windows/logra-instalar-windows-11-pc-hace-10-anos-resultado-asombroso-1398963'>Logra instalar Windows 11 en un PC de hace 10 años y el resultado es asombroso</a></h4>
+    <a href='https://computerhoy.com/windows/logra-instalar-windows-11-pc-hace-10-anos-resultado-asombroso-1398963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-3885056.jpg?tf=1200x' alt='Logra instalar Windows 11 en un PC de hace 10 años y el resultado es asombroso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/datos-moviles-no-funcionan-android-trucos-rapidos-recuperarlos-1398935'>¿Los datos móviles no funcionan en Android? Trucos rápidos para recuperarlos</a></h4>
-    <a href='https://computerhoy.com/redes/datos-moviles-no-funcionan-android-trucos-rapidos-recuperarlos-1398935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/datos-moviles-no-funcionan-android-trucos-rapidos-recuperarlos-3884352.jpg?tf=1200x' alt='¿Los datos móviles no funcionan en Android? Trucos rápidos para recuperarlos' />
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-anuncia-adios-mejores-graficas-gaming-historia-corre-quieres-hacerte-1398960'>Nvidia anuncia el adiós de una de las mejores gráficas gaming de la historia: corre si quieres hacerte con una</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-anuncia-adios-mejores-graficas-gaming-historia-corre-quieres-hacerte-1398960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nvidia-rtx-3060-3885055.jpg?tf=1200x' alt='Nvidia anuncia el adiós de una de las mejores gráficas gaming de la historia: corre si quieres hacerte con una' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bolsa-lidl-te-salvara-calor-verano-ademas-chulisima-1398889'>La bolsa de Lidl que te salvará del calor este verano… ¡y además es chulísima!</a></h4>
-    <a href='https://computerhoy.com/life/bolsa-lidl-te-salvara-calor-verano-ademas-chulisima-1398889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/premiado-producto-lidl-alimentos-duren-frescos-tiempo-3209558.jpg?tf=1200x' alt='La bolsa de Lidl que te salvará del calor este verano… ¡y además es chulísima!' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-lanza-parche-seguridad-chromecast-dos-meses-retraso-1398959'>Google lanza un parche de seguridad para Chromecast con dos meses de retraso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-lanza-parche-seguridad-chromecast-dos-meses-retraso-1398959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-chromecast-3885054.jpg?tf=1200x' alt='Google lanza un parche de seguridad para Chromecast con dos meses de retraso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/zoom-docs-alternativa-google-docs-video-ia-1398945'>Zoom Docs, la alternativa que quiere derrotar a Google Docs usando vídeo e IA</a></h4>
-    <a href='https://computerhoy.com/apps/zoom-docs-alternativa-google-docs-video-ia-1398945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1722873764842-3883976.jpg?tf=1200x' alt='Zoom Docs, la alternativa que quiere derrotar a Google Docs usando vídeo e IA' />
+    <h4><a href='https://computerhoy.com/android/debes-mantener-siempre-activada-depuracion-usb-movil-android-como-hace-1398948'>Por qué debes mantener siempre activada la depuración USB en tu móvil Android (y cómo se hace)</a></h4>
+    <a href='https://computerhoy.com/android/debes-mantener-siempre-activada-depuracion-usb-movil-android-como-hace-1398948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/debes-mantener-siempre-activada-depuracion-usb-movil-android-como-hace-3884902.jpg?tf=1200x' alt='Por qué debes mantener siempre activada la depuración USB en tu móvil Android (y cómo se hace)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/enfriar-lata-cerveza-rapido-sin-congelador-1282140'>Esta es la forma más rápida de enfriar latas de cerveza, según la ciencia: en segundos y sin necesidad de congelador</a></h4>
-    <a href='https://computerhoy.com/life/enfriar-lata-cerveza-rapido-sin-congelador-1282140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cerveza-congelada-3882623.jpg?tf=1200x' alt='Esta es la forma más rápida de enfriar latas de cerveza, según la ciencia: en segundos y sin necesidad de congelador' />
+    <h4><a href='https://computerhoy.com/tecnologia/tipos-productos-no-pueden-devolverse-amazon-1394099'>¿Qué tipos de productos no pueden devolverse en Amazon?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tipos-productos-no-pueden-devolverse-amazon-1394099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/devoluciones-amazon-3882950.jpg?tf=1200x' alt='¿Qué tipos de productos no pueden devolverse en Amazon?' />
     </a>
 </div>
 
