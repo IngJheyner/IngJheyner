@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-encuentran-solucion-problema-viajante-nuevo-algoritmo-cuantico-1398799'>Científicos encuentran la solución al “problema del viajante” con un nuevo algoritmo cuántico</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-encuentran-solucion-problema-viajante-nuevo-algoritmo-cuantico-1398799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cubit-3881278.jpg?tf=1200x' alt='Científicos encuentran la solución al “problema del viajante” con un nuevo algoritmo cuántico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-baja-precio-69-te-regala-esim-verano-1398327'>Esta VPN baja de precio un 69% y te regala una eSIM para el verano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-baja-precio-69-te-regala-esim-verano-1398327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-3408136.jpg?tf=1200x' alt='Esta VPN baja de precio un 69% y te regala una eSIM para el verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/color-raros-mundo-puede-absorber-993-luz-1398855'>Este color es uno de los más raros del mundo y puede absorber el 99,3% de la luz</a></h4>
     <a href='https://computerhoy.com/life/color-raros-mundo-puede-absorber-993-luz-1398855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/botes-pintura-3882465.jpg?tf=1200x' alt='Este color es uno de los más raros del mundo y puede absorber el 99,3% de la luz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/tormenta-perfecta-iptv-macrorredada-acabar-futbol-gratis-1398970'>La tormenta perfecta contra las IPTV: macrorredada para acabar con el fútbol gratis</a></h4>
     <a href='https://computerhoy.com/internet/tormenta-perfecta-iptv-macrorredada-acabar-futbol-gratis-1398970' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tormenta-perfecta-iptv-macrorredada-acabar-futbol-gratis-3886548.jpg?tf=1200x' alt='La tormenta perfecta contra las IPTV: macrorredada para acabar con el fútbol gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/estados-unidos-sentencia-google-monopolio-podria-ser-dividida-varias-empresas-1398969'>Estados Unidos sentencia que Google es un monopolio, podría ser dividida en varias empresas</a></h4>
-    <a href='https://computerhoy.com/google/estados-unidos-sentencia-google-monopolio-podria-ser-dividida-varias-empresas-1398969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/juez-sentencia-google-monopolio-podria-ser-dividida-varias-empresas-3885441.jpg?tf=1200x' alt='Estados Unidos sentencia que Google es un monopolio, podría ser dividida en varias empresas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ubicacion-boton-secreto-lavavajillas-te-cambiara-vida-siempre-1398958'>La ubicación del botón secreto del lavavajillas que te cambiará la vida para siempre</a></h4>
-    <a href='https://computerhoy.com/life/ubicacion-boton-secreto-lavavajillas-te-cambiara-vida-siempre-1398958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ubicacion-boton-secreto-lavavajillas-te-cambiara-vida-siempre-3885657.jpg?tf=1200x' alt='La ubicación del botón secreto del lavavajillas que te cambiará la vida para siempre' />
     </a>
 </div>
 
