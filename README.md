@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estos-metodos-ciberdelincuentes-acceder-cuenta-bancaria-1322716'>Estos son los 5 métodos que utilizan los ciberdelincuentes para robar tus datos bancarios</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estos-metodos-ciberdelincuentes-acceder-cuenta-bancaria-1322716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ciberdelincuentes-2794155.jpg?tf=1200x' alt='Estos son los 5 métodos que utilizan los ciberdelincuentes para robar tus datos bancarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/10-funciones-excel-todo-usuario-debe-conocer-harvard-1398685'>10 funciones de Excel que todo usuario debe conocer, según Harvard</a></h4>
     <a href='https://computerhoy.com/apps/10-funciones-excel-todo-usuario-debe-conocer-harvard-1398685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/10-funciones-excel-todo-usuario-debe-conocer-harvard-3865499.jpg?tf=1200x' alt='10 funciones de Excel que todo usuario debe conocer, según Harvard' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/eres-deportista-movil-android-samsung-galaxy-watch-ultra-puede-sea-mejores-opciones-momento-1398552'>Si eres deportista con móvil Android el Samsung Galaxy Watch Ultra puede que sea una de las mejores opciones del momento</a></h4>
     <a href='https://computerhoy.com/tecnologia/eres-deportista-movil-android-samsung-galaxy-watch-ultra-puede-sea-mejores-opciones-momento-1398552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-watch-ultra-3855026.jpg?tf=1200x' alt='Si eres deportista con móvil Android el Samsung Galaxy Watch Ultra puede que sea una de las mejores opciones del momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/logitech-keys-go-2-teclado-compacto-analisis-opinion-1398562'>Logitech Keys-To-Go 2 es uno de los teclados más delgados y ligeros para usar con tablets y móviles</a></h4>
-    <a href='https://computerhoy.com/analisis/logitech-keys-go-2-teclado-compacto-analisis-opinion-1398562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/logitech-keys-go-2-3861917.jpg?tf=1200x' alt='Logitech Keys-To-Go 2 es uno de los teclados más delgados y ligeros para usar con tablets y móviles' />
     </a>
 </div>
 
