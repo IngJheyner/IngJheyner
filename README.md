@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/microsoft-va-estrenar-tienda-xbox-juegos-movil-1398974'>Microsoft va a estrenar su tienda Xbox de juegos de móvil, alejándose aún más de las consolas</a></h4>
+    <a href='https://computerhoy.com/gaming/microsoft-va-estrenar-tienda-xbox-juegos-movil-1398974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-va-estrenar-tienda-xbox-moviles-alejandose-aun-consolas-3885806.jpg?tf=1200x' alt='Microsoft va a estrenar su tienda Xbox de juegos de móvil, alejándose aún más de las consolas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/tormenta-perfecta-iptv-macrorredada-acabar-futbol-gratis-1398970'>La tormenta perfecta contra las IPTV: macrorredada para acabar con el fútbol gratis</a></h4>
+    <a href='https://computerhoy.com/internet/tormenta-perfecta-iptv-macrorredada-acabar-futbol-gratis-1398970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tormenta-perfecta-iptv-macrorredada-acabar-futbol-gratis-3886548.jpg?tf=1200x' alt='La tormenta perfecta contra las IPTV: macrorredada para acabar con el fútbol gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/estados-unidos-sentencia-google-monopolio-podria-ser-dividida-varias-empresas-1398969'>Estados Unidos sentencia que Google es un monopolio, podría ser dividida en varias empresas</a></h4>
     <a href='https://computerhoy.com/google/estados-unidos-sentencia-google-monopolio-podria-ser-dividida-varias-empresas-1398969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/juez-sentencia-google-monopolio-podria-ser-dividida-varias-empresas-3885441.jpg?tf=1200x' alt='Estados Unidos sentencia que Google es un monopolio, podría ser dividida en varias empresas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/logra-instalar-windows-11-pc-hace-10-anos-resultado-asombroso-1398963'>Logra instalar Windows 11 en un PC de hace 10 años y el resultado es asombroso</a></h4>
     <a href='https://computerhoy.com/windows/logra-instalar-windows-11-pc-hace-10-anos-resultado-asombroso-1398963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-3885056.jpg?tf=1200x' alt='Logra instalar Windows 11 en un PC de hace 10 años y el resultado es asombroso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-anuncia-adios-mejores-graficas-gaming-historia-corre-quieres-hacerte-1398960'>Nvidia anuncia el adiós de una de las mejores gráficas gaming de la historia: corre si quieres hacerte con una</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-anuncia-adios-mejores-graficas-gaming-historia-corre-quieres-hacerte-1398960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nvidia-rtx-3060-3885055.jpg?tf=1200x' alt='Nvidia anuncia el adiós de una de las mejores gráficas gaming de la historia: corre si quieres hacerte con una' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-lanza-parche-seguridad-chromecast-dos-meses-retraso-1398959'>Google lanza un parche de seguridad para Chromecast con dos meses de retraso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-lanza-parche-seguridad-chromecast-dos-meses-retraso-1398959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-chromecast-3885054.jpg?tf=1200x' alt='Google lanza un parche de seguridad para Chromecast con dos meses de retraso' />
     </a>
 </div>
 
