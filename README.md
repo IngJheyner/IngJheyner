@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-elimina-nueva-caracteristica-windows-afecta-archivos-pdf-1399053'>Microsoft elimina una nueva característica de Windows que afecta a los archivos PDF</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-elimina-nueva-caracteristica-windows-afecta-archivos-pdf-1399053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-portatil-archivo-pdf-3424229.jpg?tf=1200x' alt='Microsoft elimina una nueva característica de Windows que afecta a los archivos PDF' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cerrar-todas-aplicaciones-abiertas-windows-11-vez-1314272'>Cómo cerrar todas las aplicaciones abiertas en Windows 11 a la vez</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cerrar-todas-aplicaciones-abiertas-windows-11-vez-1314272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aplicaciones-abiertas-windows-11-3150200.jpg?tf=1200x' alt='Cómo cerrar todas las aplicaciones abiertas en Windows 11 a la vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/revolucion-empieza-primeros-portatiles-ia-llegan-mercado-mejoras-traen-1399031'>La revolución empieza y los primeros portátiles con IA llegan al mercado: ¿Qué mejoras traen?</a></h4>
     <a href='https://computerhoy.com/pc/revolucion-empieza-primeros-portatiles-ia-llegan-mercado-mejoras-traen-1399031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/asus-vivobook-s-15-3840785.jpg?tf=1200x' alt='La revolución empieza y los primeros portátiles con IA llegan al mercado: ¿Qué mejoras traen?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/encuestas-ver-videos-twitch-probar-software-7-aplicaciones-ganar-dinero-1399016'>Encuestas, ver vídeos de Twitch, probar software: 7 aplicaciones para ganar dinero</a></h4>
     <a href='https://computerhoy.com/apps/encuestas-ver-videos-twitch-probar-software-7-aplicaciones-ganar-dinero-1399016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aplicaciones-dinero-3888979.jpg?tf=1200x' alt='Encuestas, ver vídeos de Twitch, probar software: 7 aplicaciones para ganar dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-xiaomi-no-piensas-pantalla-lcd-color-dibujar-quieras-1398862'>Esta tablet Xiaomi no es lo que piensas: pantalla LCD a color para dibujar lo que quieras</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-xiaomi-no-piensas-pantalla-lcd-color-dibujar-quieras-1398862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-mi-lcd-writing-tablet-color-edition-3881963.jpg?tf=1200x' alt='Esta tablet Xiaomi no es lo que piensas: pantalla LCD a color para dibujar lo que quieras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/codigos-waze-funciones-ocultas-1392938'>Waze es genial, pero desde que descubrí estos códigos secretos que desbloquean funciones ocultas, le da mil vueltas a Google Maps</a></h4>
-    <a href='https://computerhoy.com/apps/codigos-waze-funciones-ocultas-1392938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-3889151.jpg?tf=1200x' alt='Waze es genial, pero desde que descubrí estos códigos secretos que desbloquean funciones ocultas, le da mil vueltas a Google Maps' />
     </a>
 </div>
 
