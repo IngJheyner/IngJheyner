@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/color-raros-mundo-puede-absorber-993-luz-1398855'>Este color es uno de los más raros del mundo y puede absorber el 99,3% de la luz</a></h4>
+    <a href='https://computerhoy.com/life/color-raros-mundo-puede-absorber-993-luz-1398855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/botes-pintura-3882465.jpg?tf=1200x' alt='Este color es uno de los más raros del mundo y puede absorber el 99,3% de la luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/microsoft-va-estrenar-tienda-xbox-juegos-movil-1398974'>Microsoft va a estrenar su tienda Xbox de juegos de móvil, alejándose aún más de las consolas</a></h4>
     <a href='https://computerhoy.com/gaming/microsoft-va-estrenar-tienda-xbox-juegos-movil-1398974' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-va-estrenar-tienda-xbox-moviles-alejandose-aun-consolas-3885806.jpg?tf=1200x' alt='Microsoft va a estrenar su tienda Xbox de juegos de móvil, alejándose aún más de las consolas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ubicacion-boton-secreto-lavavajillas-te-cambiara-vida-siempre-1398958'>La ubicación del botón secreto del lavavajillas que te cambiará la vida para siempre</a></h4>
     <a href='https://computerhoy.com/life/ubicacion-boton-secreto-lavavajillas-te-cambiara-vida-siempre-1398958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ubicacion-boton-secreto-lavavajillas-te-cambiara-vida-siempre-3885657.jpg?tf=1200x' alt='La ubicación del botón secreto del lavavajillas que te cambiará la vida para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/logra-instalar-windows-11-pc-hace-10-anos-resultado-asombroso-1398963'>Logra instalar Windows 11 en un PC de hace 10 años y el resultado es asombroso</a></h4>
-    <a href='https://computerhoy.com/windows/logra-instalar-windows-11-pc-hace-10-anos-resultado-asombroso-1398963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-3885056.jpg?tf=1200x' alt='Logra instalar Windows 11 en un PC de hace 10 años y el resultado es asombroso' />
     </a>
 </div>
 
