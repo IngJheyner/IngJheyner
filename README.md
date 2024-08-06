@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-passkey-whatsapp-movil-android-segundos-1324258'>Cómo activar las Passkey de WhatsApp en un móvil Android en segundos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-passkey-whatsapp-movil-android-segundos-1324258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/passkey-whatsapp-3203112.jpg?tf=1200x' alt='Cómo activar las Passkey de WhatsApp en un móvil Android en segundos' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/marcas-electrodomesticos-fiables-duraderas-1156037'>Las marcas de electrodomésticos más fiables, según la OCU: las aplasta a todas, hasta 4 años más de media</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/marcas-electrodomesticos-fiables-duraderas-1156037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/estas-son-marcas-electrodomesticos-fiables-ocu-2872363.jpg?tf=1200x' alt='Las marcas de electrodomésticos más fiables, según la OCU: las aplasta a todas, hasta 4 años más de media' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/revelan-origen-manto-lunar-micrometeoritos-mantienen-atmosfera-tenue-pero-estable-1399022'>Revelan el origen del manto lunar: micrometeoritos que mantienen su "atmósfera" tenue pero estable</a></h4>
-    <a href='https://computerhoy.com/espacio/revelan-origen-manto-lunar-micrometeoritos-mantienen-atmosfera-tenue-pero-estable-1399022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/luna-nasa-3889344.jpg?tf=1200x' alt='Revelan el origen del manto lunar: micrometeoritos que mantienen su "atmósfera" tenue pero estable' />
+    <h4><a href='https://computerhoy.com/energia/paso-futuro-crean-mejorada-celula-fotovoltaica-captura-energia-solar-potencia-precedentes-1399008'>A un paso del futuro: crean una mejorada célula fotovoltaica que captura la energía solar con una potencia sin precedentes</a></h4>
+    <a href='https://computerhoy.com/energia/paso-futuro-crean-mejorada-celula-fotovoltaica-captura-energia-solar-potencia-precedentes-1399008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/energia-fotovoltaica-3888826.jpg?tf=1200x' alt='A un paso del futuro: crean una mejorada célula fotovoltaica que captura la energía solar con una potencia sin precedentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuesta-mitad-airtag-funciona-android-localizador-chollazo-amazon-1398299'>Cuesta la mitad que el Airtag y funciona con Android: este localizador es un chollazo de Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuesta-mitad-airtag-funciona-android-localizador-chollazo-amazon-1398299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tile-mate-2022-3231338.jpg?tf=1200x' alt='Cuesta la mitad que el Airtag y funciona con Android: este localizador es un chollazo de Amazon' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-va-aliexpress-portatil-chino-windows-16gb-ram-precio-liquidacion-1398527'>Amazon va a por AliExpress: este portátil chino con Windows y 16GB de RAM, a precio de liquidación</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-va-aliexpress-portatil-chino-windows-16gb-ram-precio-liquidacion-1398527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/jumper-ezbook-s5-max-3859632.jpg?tf=1200x' alt='Amazon va a por AliExpress: este portátil chino con Windows y 16GB de RAM, a precio de liquidación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/miles-camaras-routers-wifi-popular-marca-son-vulnerables-pese-parches-disponibles-1398896'>Miles de cámaras y routers WiFi de esta popular marca son vulnerables, pese a los parches disponibles</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/miles-camaras-routers-wifi-popular-marca-son-vulnerables-pese-parches-disponibles-1398896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/miles-camaras-routers-wifi-popular-marca-son-vulnerables-pese-parches-disponibles-3882949.jpg?tf=1200x' alt='Miles de cámaras y routers WiFi de esta popular marca son vulnerables, pese a los parches disponibles' />
+    <h4><a href='https://computerhoy.com/life/katori-senko-infalible-metodo-japones-librarse-mosquitos-casa-durante-verano-1399051'>Katori Senko: el infalible método japonés para librarse de los mosquitos en casa durante el verano</a></h4>
+    <a href='https://computerhoy.com/life/katori-senko-infalible-metodo-japones-librarse-mosquitos-casa-durante-verano-1399051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/peligros-picaduras-mosquito-3114258.jpg?tf=1200x' alt='Katori Senko: el infalible método japonés para librarse de los mosquitos en casa durante el verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/instagram-origen-compra-facebook-cuentas-seguidores-polemicas-1398412'>Qué es Instagram: origen, compra de Facebook, cuentas con más seguidores y polémicas</a></h4>
-    <a href='https://computerhoy.com/apps/instagram-origen-compra-facebook-cuentas-seguidores-polemicas-1398412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instagram-3855652.jpg?tf=1200x' alt='Qué es Instagram: origen, compra de Facebook, cuentas con más seguidores y polémicas' />
+    <h4><a href='https://computerhoy.com/moviles/porcentaje-bateria-debes-cargar-movil-luego-dure-1399126'>Con qué porcentaje de batería debes cargar el móvil para que luego dure más</a></h4>
+    <a href='https://computerhoy.com/moviles/porcentaje-bateria-debes-cargar-movil-luego-dure-1399126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/porcentaje-bateria-debes-cargar-movil-luego-dure-3891369.jpg?tf=1200x' alt='Con qué porcentaje de batería debes cargar el móvil para que luego dure más' />
     </a>
 </div>
 
