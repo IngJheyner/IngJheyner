@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sable-luz-verdad-estudiante-universitario-ha-conseguido-sueno-todos-fans-star-wars-1398998'>¿Un sable de luz de verdad? Un estudiante universitario ha conseguido el sueño de todos los fans de Star Wars</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sable-luz-verdad-estudiante-universitario-ha-conseguido-sueno-todos-fans-star-wars-1398998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sable-laser-star-wars-3888983.jpg?tf=1200x' alt='¿Un sable de luz de verdad? Un estudiante universitario ha conseguido el sueño de todos los fans de Star Wars' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-leer-mensajes-whatsapp-abrir-app-online-1371940'>El genial truco de WhatsApp para leer los mensajes sin abrirlos ni mostrarse conectado en línea</a></h4>
+    <a href='https://computerhoy.com/apps/como-leer-mensajes-whatsapp-abrir-app-online-1371940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3286852.jpg?tf=1200x' alt='El genial truco de WhatsApp para leer los mensajes sin abrirlos ni mostrarse conectado en línea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-consigue-nuevo-aliado-convierte-herramienta-aun-poderosa-1397857'>Flipper Zero consigue un nuevo aliado y se convierte en una herramienta aún más poderosa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-zero-consigue-nuevo-aliado-convierte-herramienta-aun-poderosa-1397857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/flipper-zero-encuentra-nuevo-aliado-convierte-herramienta-aun-poderosa-3835924.jpg?tf=1200x' alt='Flipper Zero consigue un nuevo aliado y se convierte en una herramienta aún más poderosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nvidia-ojo-huracan-usar-videos-netflix-youtube-entrenar-ia-1399000'>Nvidia en el ojo del huracán por usar vídeos de Netflix y YouTube para entrenar su IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/nvidia-ojo-huracan-usar-videos-netflix-youtube-entrenar-ia-1399000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nvidia-ia-3888659.jpg?tf=1200x' alt='Nvidia en el ojo del huracán por usar vídeos de Netflix y YouTube para entrenar su IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/consumo-energia-chatgpt-cuanta-electricidad-necesita-ia-1398989'>Este es el consumo de energía de ChatGPT: ¿Cuánta electricidad necesita la IA?</a></h4>
     <a href='https://computerhoy.com/tecnologia/consumo-energia-chatgpt-cuanta-electricidad-necesita-ia-1398989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/consumo-electricidad-ia-3888499.jpg?tf=1200x' alt='Este es el consumo de energía de ChatGPT: ¿Cuánta electricidad necesita la IA?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estos-metodos-ciberdelincuentes-acceder-cuenta-bancaria-1322716'>Estos son los 5 métodos que utilizan los ciberdelincuentes para robar tus datos bancarios</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estos-metodos-ciberdelincuentes-acceder-cuenta-bancaria-1322716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ciberdelincuentes-2794155.jpg?tf=1200x' alt='Estos son los 5 métodos que utilizan los ciberdelincuentes para robar tus datos bancarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/10-funciones-excel-todo-usuario-debe-conocer-harvard-1398685'>10 funciones de Excel que todo usuario debe conocer, según Harvard</a></h4>
-    <a href='https://computerhoy.com/apps/10-funciones-excel-todo-usuario-debe-conocer-harvard-1398685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/10-funciones-excel-todo-usuario-debe-conocer-harvard-3865499.jpg?tf=1200x' alt='10 funciones de Excel que todo usuario debe conocer, según Harvard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/campo-higgs-ha-desestabilizado-podria-destruir-universo-cuestion-segundos-1398875'>El campo de Higgs se ha desestabilizado y podría destruir el Universo en cuestión de segundos</a></h4>
-    <a href='https://computerhoy.com/ciencia/campo-higgs-ha-desestabilizado-podria-destruir-universo-cuestion-segundos-1398875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/campo-higgs-3883123.jpg?tf=1200x' alt='El campo de Higgs se ha desestabilizado y podría destruir el Universo en cuestión de segundos' />
     </a>
 </div>
 
