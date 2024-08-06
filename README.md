@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/inyeccion-milagrosa-podria-hacerte-vivir-25-estudio-1398846'>La inyección “milagrosa” que podría hacerte vivir un 25% más, según un estudio</a></h4>
+    <a href='https://computerhoy.com/ciencia/inyeccion-milagrosa-podria-hacerte-vivir-25-estudio-1398846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inyeccion-vida-eterna-3890222.jpg?tf=1200x' alt='La inyección “milagrosa” que podría hacerte vivir un 25% más, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/facebook-red-social-zuckerberg-creo-ha-enfrentado-varios-escandalos-1398365'>Qué es Facebook: la red social que Zuckerberg creó y que se ha enfrentado a varios escándalos</a></h4>
+    <a href='https://computerhoy.com/apps/facebook-red-social-zuckerberg-creo-ha-enfrentado-varios-escandalos-1398365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mark-zuckerberg-facebook-3854271.jpg?tf=1200x' alt='Qué es Facebook: la red social que Zuckerberg creó y que se ha enfrentado a varios escándalos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-tv-streamer-evolucion-chromecast-ia-anade-mando-ergonomico-util-1398206'>Google TV Streamer: la evolución de Chromecast con IA al que se le añade un mando más ergonómico y útil</a></h4>
     <a href='https://computerhoy.com/google/google-tv-streamer-evolucion-chromecast-ia-anade-mando-ergonomico-util-1398206' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-tv-streamer-set-3888993.jpg?tf=1200x' alt='Google TV Streamer: la evolución de Chromecast con IA al que se le añade un mando más ergonómico y útil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-elimina-nueva-caracteristica-windows-afecta-archivos-pdf-1399053'>Microsoft elimina una nueva característica de Windows que afecta a los archivos PDF</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-elimina-nueva-caracteristica-windows-afecta-archivos-pdf-1399053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-portatil-archivo-pdf-3424229.jpg?tf=1200x' alt='Microsoft elimina una nueva característica de Windows que afecta a los archivos PDF' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cerrar-todas-aplicaciones-abiertas-windows-11-vez-1314272'>Cómo cerrar todas las aplicaciones abiertas en Windows 11 a la vez</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cerrar-todas-aplicaciones-abiertas-windows-11-vez-1314272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aplicaciones-abiertas-windows-11-3150200.jpg?tf=1200x' alt='Cómo cerrar todas las aplicaciones abiertas en Windows 11 a la vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/revolucion-empieza-primeros-portatiles-ia-llegan-mercado-mejoras-traen-1399031'>La revolución empieza y los primeros portátiles con IA llegan al mercado: ¿Qué mejoras traen?</a></h4>
-    <a href='https://computerhoy.com/pc/revolucion-empieza-primeros-portatiles-ia-llegan-mercado-mejoras-traen-1399031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/asus-vivobook-s-15-3840785.jpg?tf=1200x' alt='La revolución empieza y los primeros portátiles con IA llegan al mercado: ¿Qué mejoras traen?' />
     </a>
 </div>
 
