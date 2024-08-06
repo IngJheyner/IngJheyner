@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/instagram-origen-compra-facebook-cuentas-seguidores-polemicas-1398412'>Qué es Instagram: origen, compra de Facebook, cuentas con más seguidores y polémicas</a></h4>
+    <a href='https://computerhoy.com/apps/instagram-origen-compra-facebook-cuentas-seguidores-polemicas-1398412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instagram-3855652.jpg?tf=1200x' alt='Qué es Instagram: origen, compra de Facebook, cuentas con más seguidores y polémicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/inyeccion-milagrosa-podria-hacerte-vivir-25-estudio-1398846'>La inyección “milagrosa” que podría hacerte vivir un 25% más, según un estudio</a></h4>
     <a href='https://computerhoy.com/ciencia/inyeccion-milagrosa-podria-hacerte-vivir-25-estudio-1398846' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inyeccion-vida-eterna-3890222.jpg?tf=1200x' alt='La inyección “milagrosa” que podría hacerte vivir un 25% más, según un estudio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-anota-otro-tanto-neuralink-implanta-otro-chip-cerebral-humano-1399061'>Elon Musk se anota otro tanto: Neuralink implanta otro chip cerebral en un humano</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-anota-otro-tanto-neuralink-implanta-otro-chip-cerebral-humano-1399061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/neuralink-elon-musk-3186908.jpg?tf=1200x' alt='Elon Musk se anota otro tanto: Neuralink implanta otro chip cerebral en un humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-elimina-nueva-caracteristica-windows-afecta-archivos-pdf-1399053'>Microsoft elimina una nueva característica de Windows que afecta a los archivos PDF</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-elimina-nueva-caracteristica-windows-afecta-archivos-pdf-1399053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-portatil-archivo-pdf-3424229.jpg?tf=1200x' alt='Microsoft elimina una nueva característica de Windows que afecta a los archivos PDF' />
     </a>
 </div>
 
