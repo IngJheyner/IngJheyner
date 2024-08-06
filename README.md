@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-tv-streamer-evolucion-chromecast-ia-anade-mando-ergonomico-util-1398206'>Google TV Streamer: la evolución de Chromecast con IA al que se le añade un mando más ergonómico y útil</a></h4>
+    <a href='https://computerhoy.com/google/google-tv-streamer-evolucion-chromecast-ia-anade-mando-ergonomico-util-1398206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-tv-streamer-set-3888993.jpg?tf=1200x' alt='Google TV Streamer: la evolución de Chromecast con IA al que se le añade un mando más ergonómico y útil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-anota-otro-tanto-neuralink-implanta-otro-chip-cerebral-humano-1399061'>Elon Musk se anota otro tanto: Neuralink implanta otro chip cerebral en un humano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-anota-otro-tanto-neuralink-implanta-otro-chip-cerebral-humano-1399061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/neuralink-elon-musk-3186908.jpg?tf=1200x' alt='Elon Musk se anota otro tanto: Neuralink implanta otro chip cerebral en un humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-elimina-nueva-caracteristica-windows-afecta-archivos-pdf-1399053'>Microsoft elimina una nueva característica de Windows que afecta a los archivos PDF</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-elimina-nueva-caracteristica-windows-afecta-archivos-pdf-1399053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-portatil-archivo-pdf-3424229.jpg?tf=1200x' alt='Microsoft elimina una nueva característica de Windows que afecta a los archivos PDF' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/revolucion-empieza-primeros-portatiles-ia-llegan-mercado-mejoras-traen-1399031'>La revolución empieza y los primeros portátiles con IA llegan al mercado: ¿Qué mejoras traen?</a></h4>
     <a href='https://computerhoy.com/pc/revolucion-empieza-primeros-portatiles-ia-llegan-mercado-mejoras-traen-1399031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/asus-vivobook-s-15-3840785.jpg?tf=1200x' alt='La revolución empieza y los primeros portátiles con IA llegan al mercado: ¿Qué mejoras traen?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/motivo-aun-no-hemos-encontrado-extraterrestres-nasa-1399020'>Este es el motivo por el que aún no hemos encontrado extraterrestres, según la NASA</a></h4>
-    <a href='https://computerhoy.com/espacio/motivo-aun-no-hemos-encontrado-extraterrestres-nasa-1399020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/motivo-aun-no-hemos-encontrado-extraterrestres-nasa-3889225.jpg?tf=1200x' alt='Este es el motivo por el que aún no hemos encontrado extraterrestres, según la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/encuestas-ver-videos-twitch-probar-software-7-aplicaciones-ganar-dinero-1399016'>Encuestas, ver vídeos de Twitch, probar software: 7 aplicaciones para ganar dinero</a></h4>
-    <a href='https://computerhoy.com/apps/encuestas-ver-videos-twitch-probar-software-7-aplicaciones-ganar-dinero-1399016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aplicaciones-dinero-3888979.jpg?tf=1200x' alt='Encuestas, ver vídeos de Twitch, probar software: 7 aplicaciones para ganar dinero' />
     </a>
 </div>
 
