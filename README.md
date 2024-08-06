@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-encuentran-solucion-problema-viajante-nuevo-algoritmo-cuantico-1398799'>Científicos encuentran la solución al “problema del viajante” con un nuevo algoritmo cuántico</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-encuentran-solucion-problema-viajante-nuevo-algoritmo-cuantico-1398799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cubit-3881278.jpg?tf=1200x' alt='Científicos encuentran la solución al “problema del viajante” con un nuevo algoritmo cuántico' />
+    <h4><a href='https://computerhoy.com/apps/10-funciones-excel-todo-usuario-debe-conocer-harvard-1398685'>10 funciones de Excel que todo usuario debe conocer, según Harvard</a></h4>
+    <a href='https://computerhoy.com/apps/10-funciones-excel-todo-usuario-debe-conocer-harvard-1398685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/10-funciones-excel-todo-usuario-debe-conocer-harvard-3865499.jpg?tf=1200x' alt='10 funciones de Excel que todo usuario debe conocer, según Harvard' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-baja-precio-69-te-regala-esim-verano-1398327'>Esta VPN baja de precio un 69% y te regala una eSIM para el verano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-baja-precio-69-te-regala-esim-verano-1398327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-3408136.jpg?tf=1200x' alt='Esta VPN baja de precio un 69% y te regala una eSIM para el verano' />
+    <h4><a href='https://computerhoy.com/ciencia/campo-higgs-ha-desestabilizado-podria-destruir-universo-cuestion-segundos-1398875'>El campo de Higgs se ha desestabilizado y podría destruir el Universo en cuestión de segundos</a></h4>
+    <a href='https://computerhoy.com/ciencia/campo-higgs-ha-desestabilizado-podria-destruir-universo-cuestion-segundos-1398875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/campo-higgs-3883123.jpg?tf=1200x' alt='El campo de Higgs se ha desestabilizado y podría destruir el Universo en cuestión de segundos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/color-raros-mundo-puede-absorber-993-luz-1398855'>Este color es uno de los más raros del mundo y puede absorber el 99,3% de la luz</a></h4>
-    <a href='https://computerhoy.com/life/color-raros-mundo-puede-absorber-993-luz-1398855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/botes-pintura-3882465.jpg?tf=1200x' alt='Este color es uno de los más raros del mundo y puede absorber el 99,3% de la luz' />
+    <h4><a href='https://computerhoy.com/espacio/pysche-asteroide-acumula-90-veces-riqueza-tierra-visible-hoy-1398978'>Pysche, el asteroide que acumula 90 veces la riqueza de la Tierra, es visible desde hoy</a></h4>
+    <a href='https://computerhoy.com/espacio/pysche-asteroide-acumula-90-veces-riqueza-tierra-visible-hoy-1398978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nasa-aprueba-mision-visitar-asteroide-10000-billones-dolares-3054162.jpg?tf=1200x' alt='Pysche, el asteroide que acumula 90 veces la riqueza de la Tierra, es visible desde hoy' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/microsoft-va-estrenar-tienda-xbox-juegos-movil-1398974'>Microsoft va a estrenar su tienda Xbox de juegos de móvil, alejándose aún más de las consolas</a></h4>
-    <a href='https://computerhoy.com/gaming/microsoft-va-estrenar-tienda-xbox-juegos-movil-1398974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-va-estrenar-tienda-xbox-moviles-alejandose-aun-consolas-3885806.jpg?tf=1200x' alt='Microsoft va a estrenar su tienda Xbox de juegos de móvil, alejándose aún más de las consolas' />
+    <h4><a href='https://computerhoy.com/tecnologia/eres-deportista-movil-android-samsung-galaxy-watch-ultra-puede-sea-mejores-opciones-momento-1398552'>Si eres deportista con móvil Android el Samsung Galaxy Watch Ultra puede que sea una de las mejores opciones del momento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/eres-deportista-movil-android-samsung-galaxy-watch-ultra-puede-sea-mejores-opciones-momento-1398552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-watch-ultra-3855026.jpg?tf=1200x' alt='Si eres deportista con móvil Android el Samsung Galaxy Watch Ultra puede que sea una de las mejores opciones del momento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/tormenta-perfecta-iptv-macrorredada-acabar-futbol-gratis-1398970'>La tormenta perfecta contra las IPTV: macrorredada para acabar con el fútbol gratis</a></h4>
-    <a href='https://computerhoy.com/internet/tormenta-perfecta-iptv-macrorredada-acabar-futbol-gratis-1398970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tormenta-perfecta-iptv-macrorredada-acabar-futbol-gratis-3886548.jpg?tf=1200x' alt='La tormenta perfecta contra las IPTV: macrorredada para acabar con el fútbol gratis' />
+    <h4><a href='https://computerhoy.com/analisis/logitech-keys-go-2-teclado-compacto-analisis-opinion-1398562'>Logitech Keys-To-Go 2 es uno de los teclados más delgados y ligeros para usar con tablets y móviles</a></h4>
+    <a href='https://computerhoy.com/analisis/logitech-keys-go-2-teclado-compacto-analisis-opinion-1398562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/logitech-keys-go-2-3861917.jpg?tf=1200x' alt='Logitech Keys-To-Go 2 es uno de los teclados más delgados y ligeros para usar con tablets y móviles' />
     </a>
 </div>
 
