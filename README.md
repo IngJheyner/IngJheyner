@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-ojo-huracan-usar-videos-netflix-youtube-entrenar-ia-1399000'>Nvidia en el ojo del huracán por usar vídeos de Netflix y YouTube para entrenar su IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-ojo-huracan-usar-videos-netflix-youtube-entrenar-ia-1399000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nvidia-ia-3888659.jpg?tf=1200x' alt='Nvidia en el ojo del huracán por usar vídeos de Netflix y YouTube para entrenar su IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/consumo-energia-chatgpt-cuanta-electricidad-necesita-ia-1398989'>Este es el consumo de energía de ChatGPT: ¿Cuánta electricidad necesita la IA?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/consumo-energia-chatgpt-cuanta-electricidad-necesita-ia-1398989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/consumo-electricidad-ia-3888499.jpg?tf=1200x' alt='Este es el consumo de energía de ChatGPT: ¿Cuánta electricidad necesita la IA?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/estos-metodos-ciberdelincuentes-acceder-cuenta-bancaria-1322716'>Estos son los 5 métodos que utilizan los ciberdelincuentes para robar tus datos bancarios</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estos-metodos-ciberdelincuentes-acceder-cuenta-bancaria-1322716' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/ciberdelincuentes-2794155.jpg?tf=1200x' alt='Estos son los 5 métodos que utilizan los ciberdelincuentes para robar tus datos bancarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/campo-higgs-ha-desestabilizado-podria-destruir-universo-cuestion-segundos-1398875'>El campo de Higgs se ha desestabilizado y podría destruir el Universo en cuestión de segundos</a></h4>
     <a href='https://computerhoy.com/ciencia/campo-higgs-ha-desestabilizado-podria-destruir-universo-cuestion-segundos-1398875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/campo-higgs-3883123.jpg?tf=1200x' alt='El campo de Higgs se ha desestabilizado y podría destruir el Universo en cuestión de segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/pysche-asteroide-acumula-90-veces-riqueza-tierra-visible-hoy-1398978'>Pysche, el asteroide que acumula 90 veces la riqueza de la Tierra, es visible desde hoy</a></h4>
-    <a href='https://computerhoy.com/espacio/pysche-asteroide-acumula-90-veces-riqueza-tierra-visible-hoy-1398978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/nasa-aprueba-mision-visitar-asteroide-10000-billones-dolares-3054162.jpg?tf=1200x' alt='Pysche, el asteroide que acumula 90 veces la riqueza de la Tierra, es visible desde hoy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/eres-deportista-movil-android-samsung-galaxy-watch-ultra-puede-sea-mejores-opciones-momento-1398552'>Si eres deportista con móvil Android el Samsung Galaxy Watch Ultra puede que sea una de las mejores opciones del momento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/eres-deportista-movil-android-samsung-galaxy-watch-ultra-puede-sea-mejores-opciones-momento-1398552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-watch-ultra-3855026.jpg?tf=1200x' alt='Si eres deportista con móvil Android el Samsung Galaxy Watch Ultra puede que sea una de las mejores opciones del momento' />
     </a>
 </div>
 
