@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ni-bloquear-ni-lista-robinson-mejor-forma-librarte-llamadas-spam-1399139'>Ni bloquear ni lista Robinson: esta es la mejor forma de librarte de las llamadas spam</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ni-bloquear-ni-lista-robinson-mejor-forma-librarte-llamadas-spam-1399139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-bloquear-ni-lista-robinson-mejor-forma-librarte-llamadas-spam-3892312.jpg?tf=1200x' alt='Ni bloquear ni lista Robinson: esta es la mejor forma de librarte de las llamadas spam' />
+    <h4><a href='https://computerhoy.com/tecnologia/hooti-almohada-milagro-ia-dejar-roncar-1399166'>HOOTI: la almohada milagro con IA para dejar de roncar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hooti-almohada-milagro-ia-dejar-roncar-1399166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hooti-almohada-milagro-ia-dejar-roncar-3892769.jpg?tf=1200x' alt='HOOTI: la almohada milagro con IA para dejar de roncar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/spotify-usuarios-versiones-trucos-alternativas-gratis-1398827'>Qué es Spotify: usuarios, versiones, trucos y alternativas gratis</a></h4>
-    <a href='https://computerhoy.com/apps/spotify-usuarios-versiones-trucos-alternativas-gratis-1398827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/spotify-3883104.jpg?tf=1200x' alt='Qué es Spotify: usuarios, versiones, trucos y alternativas gratis' />
+    <h4><a href='https://computerhoy.com/tecnologia/robot-figure-02-puede-hablar-contigo-gracias-chatgpt-1399164'>El robot Figure 02 ya está aquí, y ahora puede hablar contigo gracias a ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-figure-02-puede-hablar-contigo-gracias-chatgpt-1399164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1722966715538-3892008.jpg?tf=1200x' alt='El robot Figure 02 ya está aquí, y ahora puede hablar contigo gracias a ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-anime-netflix-ha-pasado-inadvertida-tan-buena-como-your-name-cualquiera-studio-ghibli-1398911'>La película anime de Netflix que ha pasado inadvertida y es tan buena como Your Name o cualquiera del Studio Ghibli</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-anime-netflix-ha-pasado-inadvertida-tan-buena-como-your-name-cualquiera-studio-ghibli-1398911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pelicula-anime-netflix-ha-pasado-inadvertida-tan-buena-como-your-name-cualquiera-studio-ghibli-3883276.jpg?tf=1200x' alt='La película anime de Netflix que ha pasado inadvertida y es tan buena como Your Name o cualquiera del Studio Ghibli' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-podria-verse-obligada-devolver-vacia-nave-boeing-1399163'>La NASA podría verse obligada a devolver vacía la nave de Boeing</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-podria-verse-obligada-devolver-vacia-nave-boeing-1399163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/boeing-starliner-3892618.jpg?tf=1200x' alt='La NASA podría verse obligada a devolver vacía la nave de Boeing' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-parece-pero-smartwatch-chino-hace-casi-todo-precio-mucho-barato-competidores-1398123'>No lo parece, pero este smartwatch chino hace casi de todo, y su precio es mucho más barato que el de sus competidores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-parece-pero-smartwatch-chino-hace-casi-todo-precio-mucho-barato-competidores-1398123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/haylou-solar-plus-rt3-3845605.jpg?tf=1200x' alt='No lo parece, pero este smartwatch chino hace casi de todo, y su precio es mucho más barato que el de sus competidores' />
+    <h4><a href='https://computerhoy.com/tecnologia/grave-error-casi-todo-mundo-comete-intentar-apurar-vida-bateria-movil-1399162'>El grave error que casi todo el mundo comete para intentar apurar la vida de la batería del móvil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/grave-error-casi-todo-mundo-comete-intentar-apurar-vida-bateria-movil-1399162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bateria-movil-3892617.jpg?tf=1200x' alt='El grave error que casi todo el mundo comete para intentar apurar la vida de la batería del móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/experto-desvela-como-solucionar-alertas-molestas-coches-1399043'>Un experto desvela cómo solucionar una de las alertas más molestas de los coches</a></h4>
-    <a href='https://computerhoy.com/motor/experto-desvela-como-solucionar-alertas-molestas-coches-1399043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/conductores-fin-aprenden-como-solucionar-alertas-molestas-coches-3889692.jpg?tf=1200x' alt='Un experto desvela cómo solucionar una de las alertas más molestas de los coches' />
+    <h4><a href='https://computerhoy.com/apps/android-auto-compatibilidad-moviles-1397625'>No hay vuelta atrás: si tienes uno de estos móviles, olvídate para siempre de Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-compatibilidad-moviles-1397625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funciones-clave-harian-android-auto-mejor-plataforma-conduccion-3765783.jpg?tf=1200x' alt='No hay vuelta atrás: si tienes uno de estos móviles, olvídate para siempre de Android Auto' />
     </a>
 </div>
 
