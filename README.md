@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-xiaomi-no-piensas-pantalla-lcd-color-dibujar-quieras-1398862'>Esta tablet Xiaomi no es lo que piensas: pantalla LCD a color para dibujar lo que quieras</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-xiaomi-no-piensas-pantalla-lcd-color-dibujar-quieras-1398862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-mi-lcd-writing-tablet-color-edition-3881963.jpg?tf=1200x' alt='Esta tablet Xiaomi no es lo que piensas: pantalla LCD a color para dibujar lo que quieras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/codigos-waze-funciones-ocultas-1392938'>Waze es genial, pero desde que descubrí estos códigos secretos que desbloquean funciones ocultas, le da mil vueltas a Google Maps</a></h4>
+    <a href='https://computerhoy.com/apps/codigos-waze-funciones-ocultas-1392938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-3889151.jpg?tf=1200x' alt='Waze es genial, pero desde que descubrí estos códigos secretos que desbloquean funciones ocultas, le da mil vueltas a Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/google-cloudflare-punto-mira-iptv-pirata-1399007'>Google y Cloudflare en el punto de mira las IPTV pirata</a></h4>
+    <a href='https://computerhoy.com/tv/google-cloudflare-punto-mira-iptv-pirata-1399007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iptv-ilegales-google-3888824.jpg?tf=1200x' alt='Google y Cloudflare en el punto de mira las IPTV pirata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/superior-boy-flipper-zero-puedes-hacer-mismo-raspberry-pi-1328134'>Superior Boy, el Flipper Zero que puedes hacer tú mismo con una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/superior-boy-flipper-zero-puedes-hacer-mismo-raspberry-pi-1328134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/superior-boy-flipper-zero-puedes-fabricar-mismo-raspberry-pi-3209696.jpg?tf=1200x' alt='Superior Boy, el Flipper Zero que puedes hacer tú mismo con una Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sable-luz-verdad-estudiante-universitario-ha-conseguido-sueno-todos-fans-star-wars-1398998'>¿Un sable de luz de verdad? Un estudiante universitario ha conseguido el sueño de todos los fans de Star Wars</a></h4>
     <a href='https://computerhoy.com/tecnologia/sable-luz-verdad-estudiante-universitario-ha-conseguido-sueno-todos-fans-star-wars-1398998' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sable-laser-star-wars-3888983.jpg?tf=1200x' alt='¿Un sable de luz de verdad? Un estudiante universitario ha conseguido el sueño de todos los fans de Star Wars' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-leer-mensajes-whatsapp-abrir-app-online-1371940'>El genial truco de WhatsApp para leer los mensajes sin abrirlos ni mostrarse conectado en línea</a></h4>
-    <a href='https://computerhoy.com/apps/como-leer-mensajes-whatsapp-abrir-app-online-1371940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3286852.jpg?tf=1200x' alt='El genial truco de WhatsApp para leer los mensajes sin abrirlos ni mostrarse conectado en línea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-consigue-nuevo-aliado-convierte-herramienta-aun-poderosa-1397857'>Flipper Zero consigue un nuevo aliado y se convierte en una herramienta aún más poderosa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flipper-zero-consigue-nuevo-aliado-convierte-herramienta-aun-poderosa-1397857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/flipper-zero-encuentra-nuevo-aliado-convierte-herramienta-aun-poderosa-3835924.jpg?tf=1200x' alt='Flipper Zero consigue un nuevo aliado y se convierte en una herramienta aún más poderosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-ojo-huracan-usar-videos-netflix-youtube-entrenar-ia-1399000'>Nvidia en el ojo del huracán por usar vídeos de Netflix y YouTube para entrenar su IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-ojo-huracan-usar-videos-netflix-youtube-entrenar-ia-1399000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nvidia-ia-3888659.jpg?tf=1200x' alt='Nvidia en el ojo del huracán por usar vídeos de Netflix y YouTube para entrenar su IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/consumo-energia-chatgpt-cuanta-electricidad-necesita-ia-1398989'>Este es el consumo de energía de ChatGPT: ¿Cuánta electricidad necesita la IA?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/consumo-energia-chatgpt-cuanta-electricidad-necesita-ia-1398989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/consumo-electricidad-ia-3888499.jpg?tf=1200x' alt='Este es el consumo de energía de ChatGPT: ¿Cuánta electricidad necesita la IA?' />
     </a>
 </div>
 
