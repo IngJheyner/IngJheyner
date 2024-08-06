@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/max-anuncia-fin-casa-dragon-1399171'>Max anuncia el fin de La casa del dragón</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/max-anuncia-fin-casa-dragon-1399171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/casa-dragon-temporada-2-3838340.jpg?tf=1200x' alt='Max anuncia el fin de La casa del dragón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/hooti-almohada-milagro-ia-dejar-roncar-1399166'>HOOTI: la almohada milagro con IA para dejar de roncar</a></h4>
     <a href='https://computerhoy.com/tecnologia/hooti-almohada-milagro-ia-dejar-roncar-1399166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hooti-almohada-milagro-ia-dejar-roncar-3892769.jpg?tf=1200x' alt='HOOTI: la almohada milagro con IA para dejar de roncar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/grave-error-casi-todo-mundo-comete-intentar-apurar-vida-bateria-movil-1399162'>El grave error que casi todo el mundo comete para intentar apurar la vida de la batería del móvil</a></h4>
     <a href='https://computerhoy.com/tecnologia/grave-error-casi-todo-mundo-comete-intentar-apurar-vida-bateria-movil-1399162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bateria-movil-3892617.jpg?tf=1200x' alt='El grave error que casi todo el mundo comete para intentar apurar la vida de la batería del móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-compatibilidad-moviles-1397625'>No hay vuelta atrás: si tienes uno de estos móviles, olvídate para siempre de Android Auto</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-compatibilidad-moviles-1397625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funciones-clave-harian-android-auto-mejor-plataforma-conduccion-3765783.jpg?tf=1200x' alt='No hay vuelta atrás: si tienes uno de estos móviles, olvídate para siempre de Android Auto' />
     </a>
 </div>
 
