@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-passkey-whatsapp-movil-android-segundos-1324258'>Cómo activar las Passkey de WhatsApp en un móvil Android en segundos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-passkey-whatsapp-movil-android-segundos-1324258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/passkey-whatsapp-3203112.jpg?tf=1200x' alt='Cómo activar las Passkey de WhatsApp en un móvil Android en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/revelan-origen-manto-lunar-micrometeoritos-mantienen-atmosfera-tenue-pero-estable-1399022'>Revelan el origen del manto lunar: micrometeoritos que mantienen su "atmósfera" tenue pero estable</a></h4>
+    <a href='https://computerhoy.com/espacio/revelan-origen-manto-lunar-micrometeoritos-mantienen-atmosfera-tenue-pero-estable-1399022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/luna-nasa-3889344.jpg?tf=1200x' alt='Revelan el origen del manto lunar: micrometeoritos que mantienen su "atmósfera" tenue pero estable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuesta-mitad-airtag-funciona-android-localizador-chollazo-amazon-1398299'>Cuesta la mitad que el Airtag y funciona con Android: este localizador es un chollazo de Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuesta-mitad-airtag-funciona-android-localizador-chollazo-amazon-1398299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tile-mate-2022-3231338.jpg?tf=1200x' alt='Cuesta la mitad que el Airtag y funciona con Android: este localizador es un chollazo de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/miles-camaras-routers-wifi-popular-marca-son-vulnerables-pese-parches-disponibles-1398896'>Miles de cámaras y routers WiFi de esta popular marca son vulnerables, pese a los parches disponibles</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/miles-camaras-routers-wifi-popular-marca-son-vulnerables-pese-parches-disponibles-1398896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/miles-camaras-routers-wifi-popular-marca-son-vulnerables-pese-parches-disponibles-3882949.jpg?tf=1200x' alt='Miles de cámaras y routers WiFi de esta popular marca son vulnerables, pese a los parches disponibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/instagram-origen-compra-facebook-cuentas-seguidores-polemicas-1398412'>Qué es Instagram: origen, compra de Facebook, cuentas con más seguidores y polémicas</a></h4>
     <a href='https://computerhoy.com/apps/instagram-origen-compra-facebook-cuentas-seguidores-polemicas-1398412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instagram-3855652.jpg?tf=1200x' alt='Qué es Instagram: origen, compra de Facebook, cuentas con más seguidores y polémicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/inyeccion-milagrosa-podria-hacerte-vivir-25-estudio-1398846'>La inyección “milagrosa” que podría hacerte vivir un 25% más, según un estudio</a></h4>
-    <a href='https://computerhoy.com/ciencia/inyeccion-milagrosa-podria-hacerte-vivir-25-estudio-1398846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inyeccion-vida-eterna-3890222.jpg?tf=1200x' alt='La inyección “milagrosa” que podría hacerte vivir un 25% más, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/facebook-red-social-zuckerberg-creo-ha-enfrentado-varios-escandalos-1398365'>Qué es Facebook: la red social que Zuckerberg creó y que se ha enfrentado a varios escándalos</a></h4>
-    <a href='https://computerhoy.com/apps/facebook-red-social-zuckerberg-creo-ha-enfrentado-varios-escandalos-1398365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mark-zuckerberg-facebook-3854271.jpg?tf=1200x' alt='Qué es Facebook: la red social que Zuckerberg creó y que se ha enfrentado a varios escándalos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-tv-streamer-evolucion-chromecast-ia-anade-mando-ergonomico-util-1398206'>Google TV Streamer: la evolución de Chromecast con IA al que se le añade un mando más ergonómico y útil</a></h4>
-    <a href='https://computerhoy.com/google/google-tv-streamer-evolucion-chromecast-ia-anade-mando-ergonomico-util-1398206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-tv-streamer-set-3888993.jpg?tf=1200x' alt='Google TV Streamer: la evolución de Chromecast con IA al que se le añade un mando más ergonómico y útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-anota-otro-tanto-neuralink-implanta-otro-chip-cerebral-humano-1399061'>Elon Musk se anota otro tanto: Neuralink implanta otro chip cerebral en un humano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-anota-otro-tanto-neuralink-implanta-otro-chip-cerebral-humano-1399061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/neuralink-elon-musk-3186908.jpg?tf=1200x' alt='Elon Musk se anota otro tanto: Neuralink implanta otro chip cerebral en un humano' />
     </a>
 </div>
 
