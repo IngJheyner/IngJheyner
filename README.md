@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hyperspace-tiene-solucion-lentitud-ia-1399178'>Hyperspace tiene la solución a la lentitud de la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hyperspace-tiene-solucion-lentitud-ia-1399178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hyperbole-tiene-solucion-lentitud-ia-3894903.jpg?tf=1200x' alt='Hyperspace tiene la solución a la lentitud de la IA' />
+    <h4><a href='https://computerhoy.com/life/alerta-dispositivo-nunca-debes-conectar-regleta-1399071'>Alerta: este es el dispositivo que nunca debes conectar a una regleta</a></h4>
+    <a href='https://computerhoy.com/life/alerta-dispositivo-nunca-debes-conectar-regleta-1399071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alerta-dispositivo-nunca-debes-conectar-regleta-3889885.jpg?tf=1200x' alt='Alerta: este es el dispositivo que nunca debes conectar a una regleta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/adios-aire-acondicionado-invento-disenado-cohetes-aislante-termico-perfecto-solo-vende-espana-1399018'>Adiós al aire acondicionado: este invento diseñado para cohetes es el aislante térmico perfecto y solo se vende en España</a></h4>
-    <a href='https://computerhoy.com/energia/adios-aire-acondicionado-invento-disenado-cohetes-aislante-termico-perfecto-solo-vende-espana-1399018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/adios-aire-acondicionado-invento-disenado-cohetes-aislante-termico-perfecto-solo-vende-espana-3888829.jpg?tf=1200x' alt='Adiós al aire acondicionado: este invento diseñado para cohetes es el aislante térmico perfecto y solo se vende en España' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuesta-26-euros-pc-mejor-raspberry-pi-1381208'>Cuesta solo 26 euros y es un PC mejor que la Raspberry Pi: esta Orange Pi lo tiene todo y a precio de locos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuesta-26-euros-pc-mejor-raspberry-pi-1381208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orange-pi-3287381.jpg?tf=1200x' alt='Cuesta solo 26 euros y es un PC mejor que la Raspberry Pi: esta Orange Pi lo tiene todo y a precio de locos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-resiste-todo-oferta-amazon-1369025'>Este smartwatch deportivo lo aguanta todo y tiene una batería sin igual: Amazon lo acaba de rebajar más que nunca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-resiste-todo-oferta-amazon-1369025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amazfit-t-rex-ultra-3600875.jpg?tf=1200x' alt='Este smartwatch deportivo lo aguanta todo y tiene una batería sin igual: Amazon lo acaba de rebajar más que nunca' />
+    <h4><a href='https://computerhoy.com/analisis/unas-semanas-samsung-galaxy-watch-7-me-dejan-claro-modos-salud-deporte-rivales-batir-1398628'>Unas semanas con el Samsung Galaxy Watch 7 me dejan claro que a modos de salud y deporte es uno de los rivales a batir</a></h4>
+    <a href='https://computerhoy.com/analisis/unas-semanas-samsung-galaxy-watch-7-me-dejan-claro-modos-salud-deporte-rivales-batir-1398628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-watch-7-3883434.jpg?tf=1200x' alt='Unas semanas con el Samsung Galaxy Watch 7 me dejan claro que a modos de salud y deporte es uno de los rivales a batir' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-peliculas-series-netflix-windows-verlas-conexion-1399174'>Cómo descargar películas y series de Netflix en Windows para verlas sin conexión</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-peliculas-series-netflix-windows-verlas-conexion-1399174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-descargar-peliculas-series-netflix-windows-verlas-conexion-3894304.jpg?tf=1200x' alt='Cómo descargar películas y series de Netflix en Windows para verlas sin conexión' />
+    <h4><a href='https://computerhoy.com/ciencia/conserje-apaga-error-congelador-arruina-20-anos-investigacion-1399083'>El conserje apaga por error un congelador y arruina más de 20 años de investigación</a></h4>
+    <a href='https://computerhoy.com/ciencia/conserje-apaga-error-congelador-arruina-20-anos-investigacion-1399083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apaga-error-congelador-arruina-20-anos-investigacion-3890056.jpg?tf=1200x' alt='El conserje apaga por error un congelador y arruina más de 20 años de investigación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/como-saber-instante-nada-cruzarlo-radar-dgt-te-ha-multado-1399159'>Cómo saber al instante, nada más cruzarlo, si un radar de la DGT te ha multado</a></h4>
-    <a href='https://computerhoy.com/motor/como-saber-instante-nada-cruzarlo-radar-dgt-te-ha-multado-1399159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-saber-instante-nada-cruzarlo-radar-dgt-te-ha-multado-3893700.jpg?tf=1200x' alt='Cómo saber al instante, nada más cruzarlo, si un radar de la DGT te ha multado' />
+    <h4><a href='https://computerhoy.com/tecnologia/sigue-siendo-rival-duro-garmin-apple-watch-ultra-precio-record-1398538'>Sigue siendo el rival más duro de Garmin: el Apple Watch Ultra, a precio récord</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sigue-siendo-rival-duro-garmin-apple-watch-ultra-precio-record-1398538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-watch-ultra-3859781.jpg?tf=1200x' alt='Sigue siendo el rival más duro de Garmin: el Apple Watch Ultra, a precio récord' />
     </a>
 </div>
 
