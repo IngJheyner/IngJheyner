@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/donde-dije-digo-digo-diego-suscripcion-ratones-logitech-cada-vez-cerca-1399272'>Donde dije digo digo Diego: la suscripción de los ratones de Logitech está cada vez más cerca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/donde-dije-digo-digo-diego-suscripcion-ratones-logitech-cada-vez-cerca-1399272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/donde-dije-digo-digo-diego-suscripcion-ratones-logitech-cada-vez-cerca-3897407.jpg?tf=1200x' alt='Donde dije digo digo Diego: la suscripción de los ratones de Logitech está cada vez más cerca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-aspecto-vista-android-auto-1398282'>Cómo cambiar el aspecto y la vista de Android Auto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-aspecto-vista-android-auto-1398282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-cambiar-vista-android-auto-3851905.jpg?tf=1200x' alt='Cómo cambiar el aspecto y la vista de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/tazas-cuencos-ikea-surco-lavavajillas-621883'>¿Por qué los cuencos y tazas de IKEA tienen un pequeño surco en su base?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/tazas-cuencos-ikea-surco-lavavajillas-621883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/taza-ikea-3860267.jpg?tf=1200x' alt='¿Por qué los cuencos y tazas de IKEA tienen un pequeño surco en su base?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/significado-puntos-rojos-amarillos-neumaticos-ruedas-1239136'>¿Qué significan los puntos rojos y amarillos que llevan los neumáticos?</a></h4>
+    <a href='https://computerhoy.com/motor/significado-puntos-rojos-amarillos-neumaticos-ruedas-1239136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/punto-rojo-neumaticos-3896602.jpg?tf=1200x' alt='¿Qué significan los puntos rojos y amarillos que llevan los neumáticos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/bytedance-propietaria-tiktok-lanza-nueva-aplicacion-video-ia-desafiar-openai-1399252'>ByteDance, propietaria de TikTok, lanza una nueva aplicación de video con IA para desafiar a OpenAI </a></h4>
     <a href='https://computerhoy.com/tecnologia/bytedance-propietaria-tiktok-lanza-nueva-aplicacion-video-ia-desafiar-openai-1399252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bytedance-no-va-vender-tiktok-aunque-cierren-estados-unidos-estas-son-razones-3304559.jpg?tf=1200x' alt='ByteDance, propietaria de TikTok, lanza una nueva aplicación de video con IA para desafiar a OpenAI ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/lenovo-podria-estar-trabajando-legion-go-lite-pequena-competir-nintendo-switch-2-1399245'>Lenovo podría estar trabajando en una Legion Go Lite más pequeña para competir con la Nintendo Switch 2</a></h4>
-    <a href='https://computerhoy.com/gaming/lenovo-podria-estar-trabajando-legion-go-lite-pequena-competir-nintendo-switch-2-1399245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-legion-go-3274294.jpg?tf=1200x' alt='Lenovo podría estar trabajando en una Legion Go Lite más pequeña para competir con la Nintendo Switch 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-chrome-anade-funcion-clave-seguridad-historial-navegacion-1399228'>Google Chrome añade una función clave de seguridad al historial de navegación</a></h4>
-    <a href='https://computerhoy.com/google/google-chrome-anade-funcion-clave-seguridad-historial-navegacion-1399228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/chrome-ha-conseguido-busquedas-historial-navegacion-sean-aun-rapidas-3896759.jpg?tf=1200x' alt='Google Chrome añade una función clave de seguridad al historial de navegación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bestia-anuncian-primer-ssd-pcie-60-mundo-80-rapido-modelos-actuales-1399225'>¡Es una bestia! Anuncian el primer SSD PCIe 6.0 del mundo: hasta un 80% más rápido que los modelos actuales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bestia-anuncian-primer-ssd-pcie-60-mundo-80-rapido-modelos-actuales-1399225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/chip-micron-3038796.jpg?tf=1200x' alt='¡Es una bestia! Anuncian el primer SSD PCIe 6.0 del mundo: hasta un 80% más rápido que los modelos actuales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/google-chrome-funciones-debes-activar-navegar-rapido-1308046'>Funciones de Google Chrome que debes activar ya para navegar más rápido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/google-chrome-funciones-debes-activar-navegar-rapido-1308046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-chrome-mejorara-multitarea-nueva-funcion-2954820.jpg?tf=1200x' alt='Funciones de Google Chrome que debes activar ya para navegar más rápido' />
     </a>
 </div>
 
