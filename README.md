@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hemos-encontrado-chollo-xiaomi-imbatible-mejores-relojes-precio-saldo-aliexpress-1399210'>Hemos encontrado un chollo Xiaomi imbatible: uno de sus mejores relojes, a precio de saldo en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hemos-encontrado-chollo-xiaomi-imbatible-mejores-relojes-precio-saldo-aliexpress-1399210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-redmi-watch-3-active-3086632.jpg?tf=1200x' alt='Hemos encontrado un chollo Xiaomi imbatible: uno de sus mejores relojes, a precio de saldo en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-1395737'>Simplemente extraordinario: el nuevo aire acondicionado que funciona sin electricidad y que no querrás esconder</a></h4>
+    <a href='https://computerhoy.com/life/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-1395737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/terramound-3896763.jpg?tf=1200x' alt='Simplemente extraordinario: el nuevo aire acondicionado que funciona sin electricidad y que no querrás esconder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-vuelve-subir-precios-otono-pero-asegura-merece-pena-1399218'>Disney+ vuelve a subir los precios este otoño, pero asegura que merece la pena</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-vuelve-subir-precios-otono-pero-asegura-merece-pena-1399218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/disney-vuelve-subir-precios-otono-pero-asegura-merece-pena-3896597.jpg?tf=1200x' alt='Disney+ vuelve a subir los precios este otoño, pero asegura que merece la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/ver-cientos-canales-tdt-gratis-kodi-tdtchannels-1300706'>Cómo ver cientos de canales de la TDT gratis con Kodi y TDTChannels</a></h4>
+    <a href='https://computerhoy.com/tutoriales/ver-cientos-canales-tdt-gratis-kodi-tdtchannels-1300706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-cientos-canales-tdt-gratis-kodi-lista-iptv-tdtchannels-3127304.jpg?tf=1200x' alt='Cómo ver cientos de canales de la TDT gratis con Kodi y TDTChannels' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/samsung-lanza-actualizacion-seguridad-critica-galaxy-actualiza-ahora-mismo-1399187'>Samsung lanza una actualización de seguridad crítica para los Galaxy: actualiza ahora mismo</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-lanza-actualizacion-seguridad-critica-galaxy-actualiza-ahora-mismo-1399187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/actualizacion-samsung-3895965.jpg?tf=1200x' alt='Samsung lanza una actualización de seguridad crítica para los Galaxy: actualiza ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-portatil-consejos-compra-451271'>Comprar un aire acondicionado portátil, ¿qué debemos tener en cuenta en 2024?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-portatil-consejos-compra-451271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cecotec-forceclima-12600-soundless-heating-3583159.jpg?tf=1200x' alt='Comprar un aire acondicionado portátil, ¿qué debemos tener en cuenta en 2024?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-retira-siempre-marcas-antiguas-compania-1399194'>Apple retira para siempre una de las marcas más antiguas de la compañía</a></h4>
-    <a href='https://computerhoy.com/apple/apple-retira-siempre-marcas-antiguas-compania-1399194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/steve-jobs-invento-escaleras-puedes-ver-apple-store-cuentan-sistema-antipervertidos-3316717.jpg?tf=1200x' alt='Apple retira para siempre una de las marcas más antiguas de la compañía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuesta-1-euro-localiza-todo-quieras-alternativa-china-airtag-increiblemente-barata-1398656'>Cuesta 1 euro y localiza todo lo que quieras: la alternativa china al Airtag es increíblemente barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuesta-1-euro-localiza-todo-quieras-alternativa-china-airtag-increiblemente-barata-1398656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/airtag-aliexpress-3862267.jpg?tf=1200x' alt='Cuesta 1 euro y localiza todo lo que quieras: la alternativa china al Airtag es increíblemente barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-descubierto-mi-movil-tiene-fecha-caducidad-puedes-encontrar-1323374'>He descubierto que mi móvil tiene "fecha de caducidad": así puedes encontrar la tuya</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-descubierto-mi-movil-tiene-fecha-caducidad-puedes-encontrar-1323374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peligro-corres-no-desactivas-wifi-movil-salir-casa-2972376.jpg?tf=1200x' alt='He descubierto que mi móvil tiene "fecha de caducidad": así puedes encontrar la tuya' />
     </a>
 </div>
 
