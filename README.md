@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/he-descubierto-mi-movil-tiene-fecha-caducidad-puedes-encontrar-1323374'>He descubierto que mi móvil tiene "fecha de caducidad": así puedes encontrar la tuya</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-descubierto-mi-movil-tiene-fecha-caducidad-puedes-encontrar-1323374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peligro-corres-no-desactivas-wifi-movil-salir-casa-2972376.jpg?tf=1200x' alt='He descubierto que mi móvil tiene "fecha de caducidad": así puedes encontrar la tuya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-grafeno-superficie-luna-1399182'>Descubren grafeno en la superficie de la Luna</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-grafeno-superficie-luna-1399182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/descubren-grafeno-superficie-luna-3895354.jpg?tf=1200x' alt='Descubren grafeno en la superficie de la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/alerta-dispositivo-nunca-debes-conectar-regleta-1399071'>Alerta: este es el dispositivo que nunca debes conectar a una regleta</a></h4>
     <a href='https://computerhoy.com/life/alerta-dispositivo-nunca-debes-conectar-regleta-1399071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alerta-dispositivo-nunca-debes-conectar-regleta-3889885.jpg?tf=1200x' alt='Alerta: este es el dispositivo que nunca debes conectar a una regleta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/unas-semanas-samsung-galaxy-watch-7-me-dejan-claro-modos-salud-deporte-rivales-batir-1398628'>Unas semanas con el Samsung Galaxy Watch 7 me dejan claro que a modos de salud y deporte es uno de los rivales a batir</a></h4>
     <a href='https://computerhoy.com/analisis/unas-semanas-samsung-galaxy-watch-7-me-dejan-claro-modos-salud-deporte-rivales-batir-1398628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-watch-7-3883434.jpg?tf=1200x' alt='Unas semanas con el Samsung Galaxy Watch 7 me dejan claro que a modos de salud y deporte es uno de los rivales a batir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/conserje-apaga-error-congelador-arruina-20-anos-investigacion-1399083'>El conserje apaga por error un congelador y arruina más de 20 años de investigación</a></h4>
-    <a href='https://computerhoy.com/ciencia/conserje-apaga-error-congelador-arruina-20-anos-investigacion-1399083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apaga-error-congelador-arruina-20-anos-investigacion-3890056.jpg?tf=1200x' alt='El conserje apaga por error un congelador y arruina más de 20 años de investigación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sigue-siendo-rival-duro-garmin-apple-watch-ultra-precio-record-1398538'>Sigue siendo el rival más duro de Garmin: el Apple Watch Ultra, a precio récord</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sigue-siendo-rival-duro-garmin-apple-watch-ultra-precio-record-1398538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-watch-ultra-3859781.jpg?tf=1200x' alt='Sigue siendo el rival más duro de Garmin: el Apple Watch Ultra, a precio récord' />
     </a>
 </div>
 
