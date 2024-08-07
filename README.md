@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/mantener-pulsado-boton-linterna-movil-1395349'>¿Qué pasa si mantienes pulsado el botón de linterna de casi todos los móviles?</a></h4>
+    <a href='https://computerhoy.com/moviles/mantener-pulsado-boton-linterna-movil-1395349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/linterna-movil-3898246.jpg?tf=1200x' alt='¿Qué pasa si mantienes pulsado el botón de linterna de casi todos los móviles?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/anker-ha-presentado-nueva-generacion-dispositivos-carga-capacidad-potencia-1399200'>Anker ha presentado la nueva generación de dispositivos de carga con más capacidad y potencia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/anker-ha-presentado-nueva-generacion-dispositivos-carga-capacidad-potencia-1399200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/anker-ha-presentado-nueva-generacion-dispositivos-carga-capacidad-potencia-3896120.jpg?tf=1200x' alt='Anker ha presentado la nueva generación de dispositivos de carga con más capacidad y potencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/donde-dije-digo-digo-diego-suscripcion-ratones-logitech-cada-vez-cerca-1399272'>Donde dije digo digo Diego: la suscripción de los ratones de Logitech está cada vez más cerca</a></h4>
     <a href='https://computerhoy.com/tecnologia/donde-dije-digo-digo-diego-suscripcion-ratones-logitech-cada-vez-cerca-1399272' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/donde-dije-digo-digo-diego-suscripcion-ratones-logitech-cada-vez-cerca-3897407.jpg?tf=1200x' alt='Donde dije digo digo Diego: la suscripción de los ratones de Logitech está cada vez más cerca' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/tazas-cuencos-ikea-surco-lavavajillas-621883'>¿Por qué los cuencos y tazas de IKEA tienen un pequeño surco en su base?</a></h4>
     <a href='https://computerhoy.com/noticias/life/tazas-cuencos-ikea-surco-lavavajillas-621883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/taza-ikea-3860267.jpg?tf=1200x' alt='¿Por qué los cuencos y tazas de IKEA tienen un pequeño surco en su base?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/significado-puntos-rojos-amarillos-neumaticos-ruedas-1239136'>¿Qué significan los puntos rojos y amarillos que llevan los neumáticos?</a></h4>
-    <a href='https://computerhoy.com/motor/significado-puntos-rojos-amarillos-neumaticos-ruedas-1239136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/punto-rojo-neumaticos-3896602.jpg?tf=1200x' alt='¿Qué significan los puntos rojos y amarillos que llevan los neumáticos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bytedance-propietaria-tiktok-lanza-nueva-aplicacion-video-ia-desafiar-openai-1399252'>ByteDance, propietaria de TikTok, lanza una nueva aplicación de video con IA para desafiar a OpenAI </a></h4>
-    <a href='https://computerhoy.com/tecnologia/bytedance-propietaria-tiktok-lanza-nueva-aplicacion-video-ia-desafiar-openai-1399252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bytedance-no-va-vender-tiktok-aunque-cierren-estados-unidos-estas-son-razones-3304559.jpg?tf=1200x' alt='ByteDance, propietaria de TikTok, lanza una nueva aplicación de video con IA para desafiar a OpenAI ' />
     </a>
 </div>
 
