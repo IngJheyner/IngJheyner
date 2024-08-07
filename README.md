@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/boton-oculto-amazon-fire-tv-accede-menu-secreto-1310592'>El "botón" oculto del Amazon Fire TV que accede al menú secreto que muy pocos conocen</a></h4>
+    <a href='https://computerhoy.com/amazon/boton-oculto-amazon-fire-tv-accede-menu-secreto-1310592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/menu-oculto-amazon-fire-tv-1920325.jpg?tf=1200x' alt='El "botón" oculto del Amazon Fire TV que accede al menú secreto que muy pocos conocen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/compra-disco-duro-nuevo-encuentra-tesoro-800-gb-1398478'>Compra un disco duro "nuevo" y encuentra en su interior un tesoro de 800 GB valorado en miles de euros</a></h4>
+    <a href='https://computerhoy.com/life/compra-disco-duro-nuevo-encuentra-tesoro-800-gb-1398478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-3856951.jpg?tf=1200x' alt='Compra un disco duro "nuevo" y encuentra en su interior un tesoro de 800 GB valorado en miles de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/solo-necesitas-ingrediente-casero-limpiar-pantalla-televisor-brille-como-primer-dia-1399101'>Solo necesitas un ingrediente casero para limpiar la pantalla de tu televisor y que brille como el primer día</a></h4>
+    <a href='https://computerhoy.com/hogar/solo-necesitas-ingrediente-casero-limpiar-pantalla-televisor-brille-como-primer-dia-1399101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/limpiar-tv-3897920.jpg?tf=1200x' alt='Solo necesitas un ingrediente casero para limpiar la pantalla de tu televisor y que brille como el primer día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/anker-ha-presentado-nueva-generacion-dispositivos-carga-capacidad-potencia-1399200'>Anker ha presentado la nueva generación de dispositivos de carga con más capacidad y potencia</a></h4>
     <a href='https://computerhoy.com/tecnologia/anker-ha-presentado-nueva-generacion-dispositivos-carga-capacidad-potencia-1399200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/anker-ha-presentado-nueva-generacion-dispositivos-carga-capacidad-potencia-3896120.jpg?tf=1200x' alt='Anker ha presentado la nueva generación de dispositivos de carga con más capacidad y potencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/donde-dije-digo-digo-diego-suscripcion-ratones-logitech-cada-vez-cerca-1399272'>Donde dije digo digo Diego: la suscripción de los ratones de Logitech está cada vez más cerca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/donde-dije-digo-digo-diego-suscripcion-ratones-logitech-cada-vez-cerca-1399272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/donde-dije-digo-digo-diego-suscripcion-ratones-logitech-cada-vez-cerca-3897407.jpg?tf=1200x' alt='Donde dije digo digo Diego: la suscripción de los ratones de Logitech está cada vez más cerca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-aspecto-vista-android-auto-1398282'>Cómo cambiar el aspecto y la vista de Android Auto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-aspecto-vista-android-auto-1398282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-cambiar-vista-android-auto-3851905.jpg?tf=1200x' alt='Cómo cambiar el aspecto y la vista de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/tazas-cuencos-ikea-surco-lavavajillas-621883'>¿Por qué los cuencos y tazas de IKEA tienen un pequeño surco en su base?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/tazas-cuencos-ikea-surco-lavavajillas-621883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/taza-ikea-3860267.jpg?tf=1200x' alt='¿Por qué los cuencos y tazas de IKEA tienen un pequeño surco en su base?' />
     </a>
 </div>
 
