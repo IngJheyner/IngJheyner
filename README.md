@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bytedance-propietaria-tiktok-lanza-nueva-aplicacion-video-ia-desafiar-openai-1399252'>ByteDance, propietaria de TikTok, lanza una nueva aplicación de video con IA para desafiar a OpenAI </a></h4>
+    <a href='https://computerhoy.com/tecnologia/bytedance-propietaria-tiktok-lanza-nueva-aplicacion-video-ia-desafiar-openai-1399252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bytedance-no-va-vender-tiktok-aunque-cierren-estados-unidos-estas-son-razones-3304559.jpg?tf=1200x' alt='ByteDance, propietaria de TikTok, lanza una nueva aplicación de video con IA para desafiar a OpenAI ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/lenovo-podria-estar-trabajando-legion-go-lite-pequena-competir-nintendo-switch-2-1399245'>Lenovo podría estar trabajando en una Legion Go Lite más pequeña para competir con la Nintendo Switch 2</a></h4>
+    <a href='https://computerhoy.com/gaming/lenovo-podria-estar-trabajando-legion-go-lite-pequena-competir-nintendo-switch-2-1399245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-legion-go-3274294.jpg?tf=1200x' alt='Lenovo podría estar trabajando en una Legion Go Lite más pequeña para competir con la Nintendo Switch 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-chrome-anade-funcion-clave-seguridad-historial-navegacion-1399228'>Google Chrome añade una función clave de seguridad al historial de navegación</a></h4>
     <a href='https://computerhoy.com/google/google-chrome-anade-funcion-clave-seguridad-historial-navegacion-1399228' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/chrome-ha-conseguido-busquedas-historial-navegacion-sean-aun-rapidas-3896759.jpg?tf=1200x' alt='Google Chrome añade una función clave de seguridad al historial de navegación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/google-chrome-funciones-debes-activar-navegar-rapido-1308046'>Funciones de Google Chrome que debes activar ya para navegar más rápido</a></h4>
     <a href='https://computerhoy.com/tutoriales/google-chrome-funciones-debes-activar-navegar-rapido-1308046' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-chrome-mejorara-multitarea-nueva-funcion-2954820.jpg?tf=1200x' alt='Funciones de Google Chrome que debes activar ya para navegar más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-logra-gran-avance-chips-hbm3e-8-capas-superan-pruebas-nvidia-1399204'>Samsung logra un gran avance: los chips HBM3E de 8 capas superan las pruebas de Nvidia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-logra-gran-avance-chips-hbm3e-8-capas-superan-pruebas-nvidia-1399204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nvidia-3870091.jpg?tf=1200x' alt='Samsung logra un gran avance: los chips HBM3E de 8 capas superan las pruebas de Nvidia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hemos-encontrado-chollo-xiaomi-imbatible-mejores-relojes-precio-saldo-aliexpress-1399210'>Hemos encontrado un chollo Xiaomi imbatible: uno de sus mejores relojes, a precio de saldo en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hemos-encontrado-chollo-xiaomi-imbatible-mejores-relojes-precio-saldo-aliexpress-1399210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-redmi-watch-3-active-3086632.jpg?tf=1200x' alt='Hemos encontrado un chollo Xiaomi imbatible: uno de sus mejores relojes, a precio de saldo en AliExpress' />
     </a>
 </div>
 
