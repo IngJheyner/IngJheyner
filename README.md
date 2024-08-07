@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-chrome-anade-funcion-clave-seguridad-historial-navegacion-1399228'>Google Chrome añade una función clave de seguridad al historial de navegación</a></h4>
+    <a href='https://computerhoy.com/google/google-chrome-anade-funcion-clave-seguridad-historial-navegacion-1399228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/chrome-ha-conseguido-busquedas-historial-navegacion-sean-aun-rapidas-3896759.jpg?tf=1200x' alt='Google Chrome añade una función clave de seguridad al historial de navegación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bestia-anuncian-primer-ssd-pcie-60-mundo-80-rapido-modelos-actuales-1399225'>¡Es una bestia! Anuncian el primer SSD PCIe 6.0 del mundo: hasta un 80% más rápido que los modelos actuales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bestia-anuncian-primer-ssd-pcie-60-mundo-80-rapido-modelos-actuales-1399225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/chip-micron-3038796.jpg?tf=1200x' alt='¡Es una bestia! Anuncian el primer SSD PCIe 6.0 del mundo: hasta un 80% más rápido que los modelos actuales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/google-chrome-funciones-debes-activar-navegar-rapido-1308046'>Funciones de Google Chrome que debes activar ya para navegar más rápido</a></h4>
     <a href='https://computerhoy.com/tutoriales/google-chrome-funciones-debes-activar-navegar-rapido-1308046' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/google-chrome-mejorara-multitarea-nueva-funcion-2954820.jpg?tf=1200x' alt='Funciones de Google Chrome que debes activar ya para navegar más rápido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/hemos-encontrado-chollo-xiaomi-imbatible-mejores-relojes-precio-saldo-aliexpress-1399210'>Hemos encontrado un chollo Xiaomi imbatible: uno de sus mejores relojes, a precio de saldo en AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/hemos-encontrado-chollo-xiaomi-imbatible-mejores-relojes-precio-saldo-aliexpress-1399210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-redmi-watch-3-active-3086632.jpg?tf=1200x' alt='Hemos encontrado un chollo Xiaomi imbatible: uno de sus mejores relojes, a precio de saldo en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-1395737'>Simplemente extraordinario: el nuevo aire acondicionado que funciona sin electricidad y que no querrás esconder</a></h4>
-    <a href='https://computerhoy.com/life/adios-calor-invento-capaz-enfriar-habitacion-instalacion-ni-electricidad-1395737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/terramound-3896763.jpg?tf=1200x' alt='Simplemente extraordinario: el nuevo aire acondicionado que funciona sin electricidad y que no querrás esconder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-vuelve-subir-precios-otono-pero-asegura-merece-pena-1399218'>Disney+ vuelve a subir los precios este otoño, pero asegura que merece la pena</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-vuelve-subir-precios-otono-pero-asegura-merece-pena-1399218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/disney-vuelve-subir-precios-otono-pero-asegura-merece-pena-3896597.jpg?tf=1200x' alt='Disney+ vuelve a subir los precios este otoño, pero asegura que merece la pena' />
     </a>
 </div>
 
