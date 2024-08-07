@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-peliculas-series-netflix-windows-verlas-conexion-1399174'>Cómo descargar películas y series de Netflix en Windows para verlas sin conexión</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-peliculas-series-netflix-windows-verlas-conexion-1399174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-descargar-peliculas-series-netflix-windows-verlas-conexion-3894304.jpg?tf=1200x' alt='Cómo descargar películas y series de Netflix en Windows para verlas sin conexión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/como-saber-instante-nada-cruzarlo-radar-dgt-te-ha-multado-1399159'>Cómo saber al instante, nada más cruzarlo, si un radar de la DGT te ha multado</a></h4>
     <a href='https://computerhoy.com/motor/como-saber-instante-nada-cruzarlo-radar-dgt-te-ha-multado-1399159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-saber-instante-nada-cruzarlo-radar-dgt-te-ha-multado-3893700.jpg?tf=1200x' alt='Cómo saber al instante, nada más cruzarlo, si un radar de la DGT te ha multado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/robot-figure-02-puede-hablar-contigo-gracias-chatgpt-1399164'>El robot Figure 02 ya está aquí, y ahora puede hablar contigo gracias a ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/robot-figure-02-puede-hablar-contigo-gracias-chatgpt-1399164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1722966715538-3892008.jpg?tf=1200x' alt='El robot Figure 02 ya está aquí, y ahora puede hablar contigo gracias a ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-podria-verse-obligada-devolver-vacia-nave-boeing-1399163'>La NASA podría verse obligada a devolver vacía la nave de Boeing</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-podria-verse-obligada-devolver-vacia-nave-boeing-1399163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/boeing-starliner-3892618.jpg?tf=1200x' alt='La NASA podría verse obligada a devolver vacía la nave de Boeing' />
     </a>
 </div>
 
