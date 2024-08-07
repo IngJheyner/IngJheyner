@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hyperspace-tiene-solucion-lentitud-ia-1399178'>Hyperspace tiene la solución a la lentitud de la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hyperspace-tiene-solucion-lentitud-ia-1399178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hyperbole-tiene-solucion-lentitud-ia-3894903.jpg?tf=1200x' alt='Hyperspace tiene la solución a la lentitud de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/adios-aire-acondicionado-invento-disenado-cohetes-aislante-termico-perfecto-solo-vende-espana-1399018'>Adiós al aire acondicionado: este invento diseñado para cohetes es el aislante térmico perfecto y solo se vende en España</a></h4>
+    <a href='https://computerhoy.com/energia/adios-aire-acondicionado-invento-disenado-cohetes-aislante-termico-perfecto-solo-vende-espana-1399018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/adios-aire-acondicionado-invento-disenado-cohetes-aislante-termico-perfecto-solo-vende-espana-3888829.jpg?tf=1200x' alt='Adiós al aire acondicionado: este invento diseñado para cohetes es el aislante térmico perfecto y solo se vende en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-resiste-todo-oferta-amazon-1369025'>Este smartwatch deportivo lo aguanta todo y tiene una batería sin igual: Amazon lo acaba de rebajar más que nunca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-resiste-todo-oferta-amazon-1369025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amazfit-t-rex-ultra-3600875.jpg?tf=1200x' alt='Este smartwatch deportivo lo aguanta todo y tiene una batería sin igual: Amazon lo acaba de rebajar más que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-descargar-peliculas-series-netflix-windows-verlas-conexion-1399174'>Cómo descargar películas y series de Netflix en Windows para verlas sin conexión</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-descargar-peliculas-series-netflix-windows-verlas-conexion-1399174' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-descargar-peliculas-series-netflix-windows-verlas-conexion-3894304.jpg?tf=1200x' alt='Cómo descargar películas y series de Netflix en Windows para verlas sin conexión' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/como-saber-instante-nada-cruzarlo-radar-dgt-te-ha-multado-1399159'>Cómo saber al instante, nada más cruzarlo, si un radar de la DGT te ha multado</a></h4>
     <a href='https://computerhoy.com/motor/como-saber-instante-nada-cruzarlo-radar-dgt-te-ha-multado-1399159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-saber-instante-nada-cruzarlo-radar-dgt-te-ha-multado-3893700.jpg?tf=1200x' alt='Cómo saber al instante, nada más cruzarlo, si un radar de la DGT te ha multado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/max-anuncia-fin-casa-dragon-1399171'>Max anuncia el fin de La casa del dragón</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/max-anuncia-fin-casa-dragon-1399171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/casa-dragon-temporada-2-3838340.jpg?tf=1200x' alt='Max anuncia el fin de La casa del dragón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hooti-almohada-milagro-ia-dejar-roncar-1399166'>HOOTI: la almohada milagro con IA para dejar de roncar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hooti-almohada-milagro-ia-dejar-roncar-1399166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hooti-almohada-milagro-ia-dejar-roncar-3892769.jpg?tf=1200x' alt='HOOTI: la almohada milagro con IA para dejar de roncar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-figure-02-puede-hablar-contigo-gracias-chatgpt-1399164'>El robot Figure 02 ya está aquí, y ahora puede hablar contigo gracias a ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-figure-02-puede-hablar-contigo-gracias-chatgpt-1399164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1722966715538-3892008.jpg?tf=1200x' alt='El robot Figure 02 ya está aquí, y ahora puede hablar contigo gracias a ChatGPT' />
     </a>
 </div>
 
