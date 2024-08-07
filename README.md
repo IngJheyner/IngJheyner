@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/intel-pudo-comprar-openai-2017-1399347'>Intel pudo comprar OpenAI en 2017, pero su CEO lo descartó porque era "poco interesante"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/intel-pudo-comprar-openai-2017-1399347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/2017-intel-pudo-comprar-openai-pero-ceo-descarto-porque-era-poco-interesante-3899983.jpg?tf=1200x' alt='Intel pudo comprar OpenAI en 2017, pero su CEO lo descartó porque era "poco interesante"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/hacer-coche-te-sigue-demasiado-cerca-profesor-autoescuela-comparte-sencillo-truco-1399325'>Qué hacer si un coche te sigue demasiado cerca: un profesor de autoescuela comparte un sencillo truco</a></h4>
     <a href='https://computerhoy.com/motor/hacer-coche-te-sigue-demasiado-cerca-profesor-autoescuela-comparte-sencillo-truco-1399325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hacer-coche-te-sigue-demasiado-cerca-profesor-autoescuela-comparte-sencillo-truco-3899985.jpg?tf=1200x' alt='Qué hacer si un coche te sigue demasiado cerca: un profesor de autoescuela comparte un sencillo truco' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/exempleado-apple-avisa-ios-18-iphone-antiguos-funciona-no-actualices-1399341'>Un exempleado de Apple avisa sobre iOS 18 y los iPhone antiguos: si funciona, no actualices</a></h4>
     <a href='https://computerhoy.com/apple/exempleado-apple-avisa-ios-18-iphone-antiguos-funciona-no-actualices-1399341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bateria-iphone-3899980.jpg?tf=1200x' alt='Un exempleado de Apple avisa sobre iOS 18 y los iPhone antiguos: si funciona, no actualices' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/google-cloudflare-iptv-pirata-1399007'>Google entra en la guerra contra las IPTV y el fútbol gratis: ahora sí, podría ser el principio del fin</a></h4>
-    <a href='https://computerhoy.com/tv/google-cloudflare-iptv-pirata-1399007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iptv-ilegales-google-3888824.jpg?tf=1200x' alt='Google entra en la guerra contra las IPTV y el fútbol gratis: ahora sí, podría ser el principio del fin' />
     </a>
 </div>
 
