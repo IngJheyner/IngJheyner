@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/descarga-gratis-wordstar-mitico-editor-textos-ms-dos-usa-creador-juego-tronos-1399348'>Descarga gratis WordStar, el mítico editor de textos de MS-DOS que usa el creador de Juego de Tronos</a></h4>
+    <a href='https://computerhoy.com/apps/descarga-gratis-wordstar-mitico-editor-textos-ms-dos-usa-creador-juego-tronos-1399348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/descarga-gratis-wordstar-mitico-editor-textos-ms-dos-usa-creador-juego-tronos-3900586.jpg?tf=1200x' alt='Descarga gratis WordStar, el mítico editor de textos de MS-DOS que usa el creador de Juego de Tronos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/intel-pudo-comprar-openai-2017-1399347'>Intel pudo comprar OpenAI en 2017, pero su CEO lo descartó porque era "poco interesante"</a></h4>
     <a href='https://computerhoy.com/tecnologia/intel-pudo-comprar-openai-2017-1399347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/2017-intel-pudo-comprar-openai-pero-ceo-descarto-porque-era-poco-interesante-3899983.jpg?tf=1200x' alt='Intel pudo comprar OpenAI en 2017, pero su CEO lo descartó porque era "poco interesante"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/movistar-muerte-iptv-todo-futbol-permanencia-120-euros-descuento-1399342'>Movistar a muerte a por las IPTV: todo el fútbol sin permanencia con hasta 120 euros de descuento</a></h4>
     <a href='https://computerhoy.com/entretenimiento/movistar-muerte-iptv-todo-futbol-permanencia-120-euros-descuento-1399342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/movistar-todo-futbol-3899984.jpg?tf=1200x' alt='Movistar a muerte a por las IPTV: todo el fútbol sin permanencia con hasta 120 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/exempleado-apple-avisa-ios-18-iphone-antiguos-funciona-no-actualices-1399341'>Un exempleado de Apple avisa sobre iOS 18 y los iPhone antiguos: si funciona, no actualices</a></h4>
-    <a href='https://computerhoy.com/apple/exempleado-apple-avisa-ios-18-iphone-antiguos-funciona-no-actualices-1399341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bateria-iphone-3899980.jpg?tf=1200x' alt='Un exempleado de Apple avisa sobre iOS 18 y los iPhone antiguos: si funciona, no actualices' />
     </a>
 </div>
 
