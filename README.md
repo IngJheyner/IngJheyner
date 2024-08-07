@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-lanza-actualizacion-seguridad-critica-galaxy-actualiza-ahora-mismo-1399187'>Samsung lanza una actualización de seguridad crítica para los Galaxy: actualiza ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-lanza-actualizacion-seguridad-critica-galaxy-actualiza-ahora-mismo-1399187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/actualizacion-samsung-3895965.jpg?tf=1200x' alt='Samsung lanza una actualización de seguridad crítica para los Galaxy: actualiza ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-portatil-consejos-compra-451271'>Comprar un aire acondicionado portátil, ¿qué debemos tener en cuenta en 2024?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-portatil-consejos-compra-451271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cecotec-forceclima-12600-soundless-heating-3583159.jpg?tf=1200x' alt='Comprar un aire acondicionado portátil, ¿qué debemos tener en cuenta en 2024?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-retira-siempre-marcas-antiguas-compania-1399194'>Apple retira para siempre una de las marcas más antiguas de la compañía</a></h4>
     <a href='https://computerhoy.com/apple/apple-retira-siempre-marcas-antiguas-compania-1399194' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/steve-jobs-invento-escaleras-puedes-ver-apple-store-cuentan-sistema-antipervertidos-3316717.jpg?tf=1200x' alt='Apple retira para siempre una de las marcas más antiguas de la compañía' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/he-descubierto-mi-movil-tiene-fecha-caducidad-puedes-encontrar-1323374'>He descubierto que mi móvil tiene "fecha de caducidad": así puedes encontrar la tuya</a></h4>
     <a href='https://computerhoy.com/tecnologia/he-descubierto-mi-movil-tiene-fecha-caducidad-puedes-encontrar-1323374' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peligro-corres-no-desactivas-wifi-movil-salir-casa-2972376.jpg?tf=1200x' alt='He descubierto que mi móvil tiene "fecha de caducidad": así puedes encontrar la tuya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-grafeno-superficie-luna-1399182'>Descubren grafeno en la superficie de la Luna</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-grafeno-superficie-luna-1399182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/descubren-grafeno-superficie-luna-3895354.jpg?tf=1200x' alt='Descubren grafeno en la superficie de la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/alerta-dispositivo-nunca-debes-conectar-regleta-1399071'>Alerta: este es el dispositivo que nunca debes conectar a una regleta</a></h4>
-    <a href='https://computerhoy.com/life/alerta-dispositivo-nunca-debes-conectar-regleta-1399071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alerta-dispositivo-nunca-debes-conectar-regleta-3889885.jpg?tf=1200x' alt='Alerta: este es el dispositivo que nunca debes conectar a una regleta' />
     </a>
 </div>
 
