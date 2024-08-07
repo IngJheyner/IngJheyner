@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/boton-oculto-amazon-fire-tv-accede-menu-secreto-1310592'>El "botón" oculto del Amazon Fire TV que accede al menú secreto que muy pocos conocen</a></h4>
-    <a href='https://computerhoy.com/amazon/boton-oculto-amazon-fire-tv-accede-menu-secreto-1310592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/menu-oculto-amazon-fire-tv-1920325.jpg?tf=1200x' alt='El "botón" oculto del Amazon Fire TV que accede al menú secreto que muy pocos conocen' />
+    <h4><a href='https://computerhoy.com/life/acabo-enterarme-significa-realmente-pringles-no-ni-mucho-menos-pensaba-1399315'>Acabo de enterarme de lo que significa realmente "Pringles" y no es ni mucho menos lo que pensaba</a></h4>
+    <a href='https://computerhoy.com/life/acabo-enterarme-significa-realmente-pringles-no-ni-mucho-menos-pensaba-1399315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/acabo-enterarme-significa-realmente-pringles-no-ni-mucho-menos-pensaba-3899062.jpg?tf=1200x' alt='Acabo de enterarme de lo que significa realmente "Pringles" y no es ni mucho menos lo que pensaba' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/compra-disco-duro-nuevo-encuentra-tesoro-800-gb-1398478'>Compra un disco duro "nuevo" y encuentra en su interior un tesoro de 800 GB valorado en miles de euros</a></h4>
-    <a href='https://computerhoy.com/life/compra-disco-duro-nuevo-encuentra-tesoro-800-gb-1398478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-3856951.jpg?tf=1200x' alt='Compra un disco duro "nuevo" y encuentra en su interior un tesoro de 800 GB valorado en miles de euros' />
+    <h4><a href='https://computerhoy.com/apple/significan-puntos-verde-naranja-movil-1270736'>Qué significa el punto verde o naranja que aparece en ocasiones en la parte superior del móvil</a></h4>
+    <a href='https://computerhoy.com/apple/significan-puntos-verde-naranja-movil-1270736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/led-iphone-3898245.jpg?tf=1200x' alt='Qué significa el punto verde o naranja que aparece en ocasiones en la parte superior del móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/solo-necesitas-ingrediente-casero-limpiar-pantalla-televisor-brille-como-primer-dia-1399101'>Solo necesitas un ingrediente casero para limpiar la pantalla de tu televisor y que brille como el primer día</a></h4>
-    <a href='https://computerhoy.com/hogar/solo-necesitas-ingrediente-casero-limpiar-pantalla-televisor-brille-como-primer-dia-1399101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/limpiar-tv-3897920.jpg?tf=1200x' alt='Solo necesitas un ingrediente casero para limpiar la pantalla de tu televisor y que brille como el primer día' />
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-rompe-mercado-puedes-conectar-infinitos-dispositivos-regala-tres-meses-gratis-1398553'>Esta VPN rompe el mercado: puedes conectar infinitos dispositivos y regala tres meses gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-rompe-mercado-puedes-conectar-infinitos-dispositivos-regala-tres-meses-gratis-1398553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/surfshark-vpn-3303100.jpg?tf=1200x' alt='Esta VPN rompe el mercado: puedes conectar infinitos dispositivos y regala tres meses gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/anker-ha-presentado-nueva-generacion-dispositivos-carga-capacidad-potencia-1399200'>Anker ha presentado la nueva generación de dispositivos de carga con más capacidad y potencia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/anker-ha-presentado-nueva-generacion-dispositivos-carga-capacidad-potencia-1399200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/anker-ha-presentado-nueva-generacion-dispositivos-carga-capacidad-potencia-3896120.jpg?tf=1200x' alt='Anker ha presentado la nueva generación de dispositivos de carga con más capacidad y potencia' />
+    <h4><a href='https://computerhoy.com/google/google-maps-ya-no-te-avisa-radares-velocidad-hay-carretera-1398976'>¿Por qué Google Maps ya no te avisa de los radares de velocidad que hay en la carretera?</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-ya-no-te-avisa-radares-velocidad-hay-carretera-1398976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-maps-ya-no-te-avisa-radares-velocidad-hay-carretera-3887592.jpg?tf=1200x' alt='¿Por qué Google Maps ya no te avisa de los radares de velocidad que hay en la carretera?' />
     </a>
 </div>
 
