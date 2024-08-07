@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mitica-saga-ciencia-ficcion-nacida-90-creador-harto-demasiado-complicada-1399110'>La mítica saga de ciencia ficción nacida en los 90 de la que su creador está harto: “es demasiado complicada”</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mitica-saga-ciencia-ficcion-nacida-90-creador-harto-demasiado-complicada-1399110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mitica-saga-ciencia-ficcion-nacida-90-creador-harto-demasiado-complicada-3890695.jpg?tf=1200x' alt='La mítica saga de ciencia ficción nacida en los 90 de la que su creador está harto: “es demasiado complicada”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/mantener-pulsado-boton-linterna-movil-1395349'>¿Qué pasa si mantienes pulsado el botón de linterna de casi todos los móviles?</a></h4>
     <a href='https://computerhoy.com/moviles/mantener-pulsado-boton-linterna-movil-1395349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/linterna-movil-3898246.jpg?tf=1200x' alt='¿Qué pasa si mantienes pulsado el botón de linterna de casi todos los móviles?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/significan-puntos-verde-naranja-movil-1270736'>Qué significa el punto verde o naranja que aparece en ocasiones en la parte superior del móvil</a></h4>
     <a href='https://computerhoy.com/apple/significan-puntos-verde-naranja-movil-1270736' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/led-iphone-3898245.jpg?tf=1200x' alt='Qué significa el punto verde o naranja que aparece en ocasiones en la parte superior del móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-rompe-mercado-puedes-conectar-infinitos-dispositivos-regala-tres-meses-gratis-1398553'>Esta VPN rompe el mercado: puedes conectar infinitos dispositivos y regala tres meses gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-rompe-mercado-puedes-conectar-infinitos-dispositivos-regala-tres-meses-gratis-1398553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/surfshark-vpn-3303100.jpg?tf=1200x' alt='Esta VPN rompe el mercado: puedes conectar infinitos dispositivos y regala tres meses gratis' />
     </a>
 </div>
 
