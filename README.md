@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mitica-saga-ciencia-ficcion-nacida-90-creador-harto-demasiado-complicada-1399110'>La mítica saga de ciencia ficción nacida en los 90 de la que su creador está harto: “es demasiado complicada”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mitica-saga-ciencia-ficcion-nacida-90-creador-harto-demasiado-complicada-1399110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mitica-saga-ciencia-ficcion-nacida-90-creador-harto-demasiado-complicada-3890695.jpg?tf=1200x' alt='La mítica saga de ciencia ficción nacida en los 90 de la que su creador está harto: “es demasiado complicada”' />
+    <h4><a href='https://computerhoy.com/motor/hacer-coche-te-sigue-demasiado-cerca-profesor-autoescuela-comparte-sencillo-truco-1399325'>Qué hacer si un coche te sigue demasiado cerca: un profesor de autoescuela comparte un sencillo truco</a></h4>
+    <a href='https://computerhoy.com/motor/hacer-coche-te-sigue-demasiado-cerca-profesor-autoescuela-comparte-sencillo-truco-1399325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hacer-coche-te-sigue-demasiado-cerca-profesor-autoescuela-comparte-sencillo-truco-3899985.jpg?tf=1200x' alt='Qué hacer si un coche te sigue demasiado cerca: un profesor de autoescuela comparte un sencillo truco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mantener-pulsado-boton-linterna-movil-1395349'>¿Qué pasa si mantienes pulsado el botón de linterna de casi todos los móviles?</a></h4>
-    <a href='https://computerhoy.com/moviles/mantener-pulsado-boton-linterna-movil-1395349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/linterna-movil-3898246.jpg?tf=1200x' alt='¿Qué pasa si mantienes pulsado el botón de linterna de casi todos los móviles?' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-podria-tener-necesitar-elon-musk-devolver-tierra-astronautas-boeing-1399343'>La NASA podría tener que necesitar a Elon Musk para devolver a la Tierra a los astronautas de Boeing</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-podria-tener-necesitar-elon-musk-devolver-tierra-astronautas-boeing-1399343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/starliner-boeing-3899986.jpg?tf=1200x' alt='La NASA podría tener que necesitar a Elon Musk para devolver a la Tierra a los astronautas de Boeing' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/wifi-como-evitar-interferencias-vecinos-mejorar-velocidad-conexion-1398687'>WiFi: cómo evitar las interferencias de los vecinos para mejorar la velocidad de tu conexión</a></h4>
-    <a href='https://computerhoy.com/tutoriales/wifi-como-evitar-interferencias-vecinos-mejorar-velocidad-conexion-1398687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/wifi-como-evitar-interferencias-vecinos-mejorar-velocidad-conexion-3865938.jpg?tf=1200x' alt='WiFi: cómo evitar las interferencias de los vecinos para mejorar la velocidad de tu conexión' />
+    <h4><a href='https://computerhoy.com/entretenimiento/movistar-muerte-iptv-todo-futbol-permanencia-120-euros-descuento-1399342'>Movistar a muerte a por las IPTV: todo el fútbol sin permanencia con hasta 120 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/movistar-muerte-iptv-todo-futbol-permanencia-120-euros-descuento-1399342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/movistar-todo-futbol-3899984.jpg?tf=1200x' alt='Movistar a muerte a por las IPTV: todo el fútbol sin permanencia con hasta 120 euros de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/acabo-enterarme-significa-realmente-pringles-no-ni-mucho-menos-pensaba-1399315'>Acabo de enterarme de lo que significa realmente "Pringles" y no es ni mucho menos lo que pensaba</a></h4>
-    <a href='https://computerhoy.com/life/acabo-enterarme-significa-realmente-pringles-no-ni-mucho-menos-pensaba-1399315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/acabo-enterarme-significa-realmente-pringles-no-ni-mucho-menos-pensaba-3899062.jpg?tf=1200x' alt='Acabo de enterarme de lo que significa realmente "Pringles" y no es ni mucho menos lo que pensaba' />
+    <h4><a href='https://computerhoy.com/apple/exempleado-apple-avisa-ios-18-iphone-antiguos-funciona-no-actualices-1399341'>Un exempleado de Apple avisa sobre iOS 18 y los iPhone antiguos: si funciona, no actualices</a></h4>
+    <a href='https://computerhoy.com/apple/exempleado-apple-avisa-ios-18-iphone-antiguos-funciona-no-actualices-1399341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bateria-iphone-3899980.jpg?tf=1200x' alt='Un exempleado de Apple avisa sobre iOS 18 y los iPhone antiguos: si funciona, no actualices' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/significan-puntos-verde-naranja-movil-1270736'>Qué significa el punto verde o naranja que aparece en ocasiones en la parte superior del móvil</a></h4>
-    <a href='https://computerhoy.com/apple/significan-puntos-verde-naranja-movil-1270736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/led-iphone-3898245.jpg?tf=1200x' alt='Qué significa el punto verde o naranja que aparece en ocasiones en la parte superior del móvil' />
+    <h4><a href='https://computerhoy.com/tv/google-cloudflare-iptv-pirata-1399007'>Google entra en la guerra contra las IPTV y el fútbol gratis: ahora sí, podría ser el principio del fin</a></h4>
+    <a href='https://computerhoy.com/tv/google-cloudflare-iptv-pirata-1399007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iptv-ilegales-google-3888824.jpg?tf=1200x' alt='Google entra en la guerra contra las IPTV y el fútbol gratis: ahora sí, podría ser el principio del fin' />
     </a>
 </div>
 
