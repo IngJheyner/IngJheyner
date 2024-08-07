@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/como-saber-instante-nada-cruzarlo-radar-dgt-te-ha-multado-1399159'>Cómo saber al instante, nada más cruzarlo, si un radar de la DGT te ha multado</a></h4>
+    <a href='https://computerhoy.com/motor/como-saber-instante-nada-cruzarlo-radar-dgt-te-ha-multado-1399159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-saber-instante-nada-cruzarlo-radar-dgt-te-ha-multado-3893700.jpg?tf=1200x' alt='Cómo saber al instante, nada más cruzarlo, si un radar de la DGT te ha multado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/max-anuncia-fin-casa-dragon-1399171'>Max anuncia el fin de La casa del dragón</a></h4>
     <a href='https://computerhoy.com/entretenimiento/max-anuncia-fin-casa-dragon-1399171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/casa-dragon-temporada-2-3838340.jpg?tf=1200x' alt='Max anuncia el fin de La casa del dragón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-podria-verse-obligada-devolver-vacia-nave-boeing-1399163'>La NASA podría verse obligada a devolver vacía la nave de Boeing</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-podria-verse-obligada-devolver-vacia-nave-boeing-1399163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/boeing-starliner-3892618.jpg?tf=1200x' alt='La NASA podría verse obligada a devolver vacía la nave de Boeing' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/grave-error-casi-todo-mundo-comete-intentar-apurar-vida-bateria-movil-1399162'>El grave error que casi todo el mundo comete para intentar apurar la vida de la batería del móvil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/grave-error-casi-todo-mundo-comete-intentar-apurar-vida-bateria-movil-1399162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bateria-movil-3892617.jpg?tf=1200x' alt='El grave error que casi todo el mundo comete para intentar apurar la vida de la batería del móvil' />
     </a>
 </div>
 
