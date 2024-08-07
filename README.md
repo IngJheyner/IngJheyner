@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-retira-siempre-marcas-antiguas-compania-1399194'>Apple retira para siempre una de las marcas más antiguas de la compañía</a></h4>
+    <a href='https://computerhoy.com/apple/apple-retira-siempre-marcas-antiguas-compania-1399194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/steve-jobs-invento-escaleras-puedes-ver-apple-store-cuentan-sistema-antipervertidos-3316717.jpg?tf=1200x' alt='Apple retira para siempre una de las marcas más antiguas de la compañía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuesta-1-euro-localiza-todo-quieras-alternativa-china-airtag-increiblemente-barata-1398656'>Cuesta 1 euro y localiza todo lo que quieras: la alternativa china al Airtag es increíblemente barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuesta-1-euro-localiza-todo-quieras-alternativa-china-airtag-increiblemente-barata-1398656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/airtag-aliexpress-3862267.jpg?tf=1200x' alt='Cuesta 1 euro y localiza todo lo que quieras: la alternativa china al Airtag es increíblemente barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/he-descubierto-mi-movil-tiene-fecha-caducidad-puedes-encontrar-1323374'>He descubierto que mi móvil tiene "fecha de caducidad": así puedes encontrar la tuya</a></h4>
     <a href='https://computerhoy.com/tecnologia/he-descubierto-mi-movil-tiene-fecha-caducidad-puedes-encontrar-1323374' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/peligro-corres-no-desactivas-wifi-movil-salir-casa-2972376.jpg?tf=1200x' alt='He descubierto que mi móvil tiene "fecha de caducidad": así puedes encontrar la tuya' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/alerta-dispositivo-nunca-debes-conectar-regleta-1399071'>Alerta: este es el dispositivo que nunca debes conectar a una regleta</a></h4>
     <a href='https://computerhoy.com/life/alerta-dispositivo-nunca-debes-conectar-regleta-1399071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alerta-dispositivo-nunca-debes-conectar-regleta-3889885.jpg?tf=1200x' alt='Alerta: este es el dispositivo que nunca debes conectar a una regleta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuesta-26-euros-pc-mejor-raspberry-pi-1381208'>Cuesta solo 26 euros y es un PC mejor que la Raspberry Pi: esta Orange Pi lo tiene todo y a precio de locos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuesta-26-euros-pc-mejor-raspberry-pi-1381208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orange-pi-3287381.jpg?tf=1200x' alt='Cuesta solo 26 euros y es un PC mejor que la Raspberry Pi: esta Orange Pi lo tiene todo y a precio de locos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/unas-semanas-samsung-galaxy-watch-7-me-dejan-claro-modos-salud-deporte-rivales-batir-1398628'>Unas semanas con el Samsung Galaxy Watch 7 me dejan claro que a modos de salud y deporte es uno de los rivales a batir</a></h4>
-    <a href='https://computerhoy.com/analisis/unas-semanas-samsung-galaxy-watch-7-me-dejan-claro-modos-salud-deporte-rivales-batir-1398628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-watch-7-3883434.jpg?tf=1200x' alt='Unas semanas con el Samsung Galaxy Watch 7 me dejan claro que a modos de salud y deporte es uno de los rivales a batir' />
     </a>
 </div>
 
