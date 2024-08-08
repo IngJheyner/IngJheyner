@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/orange-todo-tienes-saber-operador-tarifas-orange-tv-roaming-1393752'>Orange: todo lo que tienes que saber del operador, sus tarifas, Orange TV y roaming</a></h4>
+    <a href='https://computerhoy.com/redes/orange-todo-tienes-saber-operador-tarifas-orange-tv-roaming-1393752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/orange-3656177.jpg?tf=1200x' alt='Orange: todo lo que tienes que saber del operador, sus tarifas, Orange TV y roaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/siempre-tienes-comprobar-alguien-te-pide-agregues-whatsapp-1399447'>Esto es lo que siempre tienes que comprobar si alguien te pide que le agregues a WhatsApp</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/siempre-tienes-comprobar-alguien-te-pide-agregues-whatsapp-1399447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/siempre-tienes-comprobar-alguien-te-pide-agregues-whatsapp-3905069.jpg?tf=1200x' alt='Esto es lo que siempre tienes que comprobar si alguien te pide que le agregues a WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-ventiladores-techo-leroy-merlin-1076517'>Ventiladores de techo de Leroy Merlin: estos son los más vendidos y mejor valorados</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-ventiladores-techo-leroy-merlin-1076517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ventilador-techo-2393601.jpg?tf=1200x' alt='Ventiladores de techo de Leroy Merlin: estos son los más vendidos y mejor valorados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/sencilla-accion-deberias-hacer-cada-dia-movil-aumenta-maximo-potencia-rendimiento-1399497'>La sencilla acción que deberías hacer cada día en tu móvil y que aumenta al máximo su potencia y rendimiento</a></h4>
     <a href='https://computerhoy.com/moviles/sencilla-accion-deberias-hacer-cada-dia-movil-aumenta-maximo-potencia-rendimiento-1399497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sencilla-accion-deberias-hacer-cada-dia-movil-aumenta-maximo-potencia-rendimiento-3906721.jpg?tf=1200x' alt='La sencilla acción que deberías hacer cada día en tu móvil y que aumenta al máximo su potencia y rendimiento' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/archivo-apk-son-tan-peligrosos-android-1399097'>Qué es un archivo APK y por qué son tan peligrosos para tu Android</a></h4>
     <a href='https://computerhoy.com/tecnologia/archivo-apk-son-tan-peligrosos-android-1399097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apk-3891693.jpg?tf=1200x' alt='Qué es un archivo APK y por qué son tan peligrosos para tu Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-empresa-japonesa-cartas-colo-todas-casas-personajes-como-mario-1399108'>Nintendo: la empresa japonesa de cartas que se coló en todas las casas con personajes como Mario</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-empresa-japonesa-cartas-colo-todas-casas-personajes-como-mario-1399108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nintendo-mario-nintendo-64-3891364.jpg?tf=1200x' alt='Nintendo: la empresa japonesa de cartas que se coló en todas las casas con personajes como Mario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/existe-forma-casera-sorprendentemente-sencilla-eliminar-microplasticos-agua-grifo-1399446'>Existe una forma casera sorprendentemente sencilla de eliminar los microplásticos del agua del grifo</a></h4>
-    <a href='https://computerhoy.com/life/existe-forma-casera-sorprendentemente-sencilla-eliminar-microplasticos-agua-grifo-1399446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/beber-agua-3905080.jpg?tf=1200x' alt='Existe una forma casera sorprendentemente sencilla de eliminar los microplásticos del agua del grifo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/combinacion-teclas-maldita-windows-no-debes-utilizar-1306830'>La combinación de teclas maldita de Windows que jamás debes utilizar</a></h4>
-    <a href='https://computerhoy.com/windows/combinacion-teclas-maldita-windows-no-debes-utilizar-1306830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tecla-windows-11-3117832.jpg?tf=1200x' alt='La combinación de teclas maldita de Windows que jamás debes utilizar' />
     </a>
 </div>
 
