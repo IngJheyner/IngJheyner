@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nino-escribe-600-lineas-codigo-lanzar-propio-cohete-1399528'>Niño de 11 años escribe 600 líneas de código para lanzar su propio cohete</a></h4>
+    <a href='https://computerhoy.com/espacio/nino-escribe-600-lineas-codigo-lanzar-propio-cohete-1399528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nino-11-anos-aprender-programar-cuenta-escribe-600-lineas-codigo-lanzar-propio-cohete-3908289.jpg?tf=1200x' alt='Niño de 11 años escribe 600 líneas de código para lanzar su propio cohete' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/matematico-explica-absurdo-circular-120-km-h-autovia-1399514'>Un matemático explica por qué es absurdo circular a más de 120 Km/h por la autovía</a></h4>
     <a href='https://computerhoy.com/motor/matematico-explica-absurdo-circular-120-km-h-autovia-1399514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/matematico-explica-absurdo-circular-120-km-h-autovia-3908135.jpg?tf=1200x' alt='Un matemático explica por qué es absurdo circular a más de 120 Km/h por la autovía' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/puedes-ver-listado-completo-personas-te-han-bloqueado-whatsapp-1399508'>Así puedes ver el listado completo de personas que te han bloqueado en WhatsApp</a></h4>
     <a href='https://computerhoy.com/apps/puedes-ver-listado-completo-personas-te-han-bloqueado-whatsapp-1399508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/puedes-ver-listado-completo-personas-te-han-bloqueado-whatsapp-3907362.jpg?tf=1200x' alt='Así puedes ver el listado completo de personas que te han bloqueado en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-google-maps-maxima-precision-1398973'>Cómo compartir una ubicación en Google Maps con la máxima precisión</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-google-maps-maxima-precision-1398973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-compartir-ubicacion-google-maps-maxima-precision-3886847.jpg?tf=1200x' alt='Cómo compartir una ubicación en Google Maps con la máxima precisión' />
     </a>
 </div>
 
