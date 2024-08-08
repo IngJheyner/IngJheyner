@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/combinacion-teclas-maldita-windows-no-debes-utilizar-1306830'>La combinación de teclas maldita de Windows que jamás debes utilizar</a></h4>
+    <a href='https://computerhoy.com/windows/combinacion-teclas-maldita-windows-no-debes-utilizar-1306830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tecla-windows-11-3117832.jpg?tf=1200x' alt='La combinación de teclas maldita de Windows que jamás debes utilizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-extraer-archivos-rar-gratis-windows-mac-1398997'>Cómo extraer archivos RAR gratis en Windows y Mac</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-extraer-archivos-rar-gratis-windows-mac-1398997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/archivos-rar-3890219.jpg?tf=1200x' alt='Cómo extraer archivos RAR gratis en Windows y Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/xbox-historia-todas-consolas-game-pass-juego-nube-videojuegos-vendidos-1399093'>Xbox: historia, todas las consolas, Game Pass, juego en la nube y videojuegos más vendidos</a></h4>
+    <a href='https://computerhoy.com/gaming/xbox-historia-todas-consolas-game-pass-juego-nube-videojuegos-vendidos-1399093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xbox-microsoft-consola-3890694.jpg?tf=1200x' alt='Xbox: historia, todas las consolas, Game Pass, juego en la nube y videojuegos más vendidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/microondas-podria-ser-hogar-750-tipos-bacterias-diferentes-1399422'>Tu microondas podría ser el hogar de hasta 750 tipos de bacterias diferentes</a></h4>
+    <a href='https://computerhoy.com/alimentacion/microondas-podria-ser-hogar-750-tipos-bacterias-diferentes-1399422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microondas-3905085.jpg?tf=1200x' alt='Tu microondas podría ser el hogar de hasta 750 tipos de bacterias diferentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/modo-vista-paralelo-whatsapp-sirve-1399352'>Qué es el modo "Vista en paralelo" de WhatsApp y para qué sirve</a></h4>
     <a href='https://computerhoy.com/apps/modo-vista-paralelo-whatsapp-sirve-1399352' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modo-vista-paralelo-whatsapp-sirve-3902404.jpg?tf=1200x' alt='Qué es el modo "Vista en paralelo" de WhatsApp y para qué sirve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-te-parece-pequeno-modelo-plus-puede-no-tanto-tienda-vende-precio-record-1399481'>Si el iPhone te parece pequeño, el modelo Plus puede que no tanto: esta tienda lo vende a precio récord</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-te-parece-pequeno-modelo-plus-puede-no-tanto-tienda-vende-precio-record-1399481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857809.jpg?tf=1200x' alt='Si el iPhone te parece pequeño, el modelo Plus puede que no tanto: esta tienda lo vende a precio récord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-planes-precios-contenido-todo-tienes-saber-plataforma-streaming-1398921'>HBO Max: planes, precios, contenido y todo lo que tienes que saber de la plataforma de streaming</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/hbo-max-planes-precios-contenido-todo-tienes-saber-plataforma-streaming-1398921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mejores-series-max-3742309.jpg?tf=1200x' alt='HBO Max: planes, precios, contenido y todo lo que tienes que saber de la plataforma de streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-piden-retirar-popular-tipo-encimeras-seguramente-tengas-cocina-son-peligro-salud-1399235'>Científicos piden retirar un popular tipo de encimeras que seguramente tengas en tu cocina: son un peligro para la salud</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-piden-retirar-popular-tipo-encimeras-seguramente-tengas-cocina-son-peligro-salud-1399235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/peligro-encimera-cocina-3896921.jpg?tf=1200x' alt='Científicos piden retirar un popular tipo de encimeras que seguramente tengas en tu cocina: son un peligro para la salud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/peligrosa-estafa-correo-tipo-phishing-sacude-francia-puede-llegar-espana-1398809'>La peligrosa estafa por correo “tipo phishing” que sacude Francia, y que puede llegar a España</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/peligrosa-estafa-correo-tipo-phishing-sacude-francia-puede-llegar-espana-1398809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/peligrosa-estafa-correo-tipo-phishing-sacude-francia-puede-llegar-espana-3881276.jpg?tf=1200x' alt='La peligrosa estafa por correo “tipo phishing” que sacude Francia, y que puede llegar a España' />
     </a>
 </div>
 
