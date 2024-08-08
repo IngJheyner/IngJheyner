@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/2900-millones-personas-afectadas-mayor-violacion-datos-historia-nombres-direcciones-numeros-seguridad-social-filtrados-1399393'>2.900 millones de personas afectadas por la mayor violación de datos de la historia: nombres, direcciones y números de seguridad social filtrados</a></h4>
+    <a href='https://computerhoy.com/tecnologia/2900-millones-personas-afectadas-mayor-violacion-datos-historia-nombres-direcciones-numeros-seguridad-social-filtrados-1399393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hacker-3903847.jpg?tf=1200x' alt='2.900 millones de personas afectadas por la mayor violación de datos de la historia: nombres, direcciones y números de seguridad social filtrados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432'>Cómo calibrar Google Maps en Android para que sea más preciso</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-calibrar-google-maps-android-sea-mucho-preciso-3293460.jpg?tf=1200x' alt='Cómo calibrar Google Maps en Android para que sea más preciso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/adios-regletas-invento-conectar-dispositivos-electronicos-1398764'>Adiós a las regletas: el genial invento que hubieras deseado que existiera antes para conectar tus dispositivos electrónicos</a></h4>
     <a href='https://computerhoy.com/tecnologia/adios-regletas-invento-conectar-dispositivos-electronicos-1398764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regleta-electrica-3284279.jpg?tf=1200x' alt='Adiós a las regletas: el genial invento que hubieras deseado que existiera antes para conectar tus dispositivos electrónicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-ver-gratis-canales-tdt-espana-movil-gratis-instalar-nada-1308014'>La forma definitiva para ver la TDT en el móvil: más de 4.000 canales sin instalar nada y gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-ver-gratis-canales-tdt-espana-movil-gratis-instalar-nada-1308014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-gratis-canales-tdt-espana-resto-mundo-movil-instalar-nada-3139522.jpg?tf=1200x' alt='La forma definitiva para ver la TDT en el móvil: más de 4.000 canales sin instalar nada y gratis' />
     </a>
 </div>
 
