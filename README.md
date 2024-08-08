@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/matematico-explica-absurdo-circular-120-km-h-autovia-1399514'>Un matemático explica por qué es absurdo circular a más de 120 Km/h por la autovía</a></h4>
+    <a href='https://computerhoy.com/motor/matematico-explica-absurdo-circular-120-km-h-autovia-1399514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/matematico-explica-absurdo-circular-120-km-h-autovia-3908135.jpg?tf=1200x' alt='Un matemático explica por qué es absurdo circular a más de 120 Km/h por la autovía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/google-meta-aliaron-secreto-mostrar-anuncios-instagram-menores-youtube-1399526'>Google y Meta se aliaron en secreto para mostrar anuncios de Instagram a menores en YouTube</a></h4>
     <a href='https://computerhoy.com/redes/google-meta-aliaron-secreto-mostrar-anuncios-instagram-menores-youtube-1399526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-meta-aliaron-secreto-mostrar-anuncios-instagram-menores-youtube-3907046.jpg?tf=1200x' alt='Google y Meta se aliaron en secreto para mostrar anuncios de Instagram a menores en YouTube' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-google-maps-maxima-precision-1398973'>Cómo compartir una ubicación en Google Maps con la máxima precisión</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-compartir-ubicacion-google-maps-maxima-precision-1398973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-compartir-ubicacion-google-maps-maxima-precision-3886847.jpg?tf=1200x' alt='Cómo compartir una ubicación en Google Maps con la máxima precisión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/apple-quiere-poner-cuerdas-google-maps-waze-moviles-android-1399521'>Apple quiere poner contra las cuerdas a Google Maps y Waze... ¡en móviles Android!</a></h4>
-    <a href='https://computerhoy.com/apps/apple-quiere-poner-cuerdas-google-maps-waze-moviles-android-1399521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-maps-3907361.jpg?tf=1200x' alt='Apple quiere poner contra las cuerdas a Google Maps y Waze... ¡en móviles Android!' />
     </a>
 </div>
 
