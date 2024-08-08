@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/trabajo-9-5-habra-extinguido-2034-ultima-prediccion-multimillonario-predijo-exito-internet-1399275'>“Tu trabajo de 9 a 5 se habrá extinguido en 2034”: la última predicción del multimillonario que predijo el éxito de Internet </a></h4>
+    <a href='https://computerhoy.com/tecnologia/trabajo-9-5-habra-extinguido-2034-ultima-prediccion-multimillonario-predijo-exito-internet-1399275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/trabajar-3897743.jpg?tf=1200x' alt='“Tu trabajo de 9 a 5 se habrá extinguido en 2034”: la última predicción del multimillonario que predijo el éxito de Internet ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/airtag-xiaomi-barato-envio-gratis-1394858'>El AirTag de Xiaomi es barato (incluso para ser Xiaomi) y te lo envían gratis a casa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/airtag-xiaomi-barato-envio-gratis-1394858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/localizador-xiaomi-3692801.jpg?tf=1200x' alt='El AirTag de Xiaomi es barato (incluso para ser Xiaomi) y te lo envían gratis a casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/banco-espana-alerta-estafa-transferencia-preocupa-expertos-1399268'>El Banco de España alerta: así es la estafa de la transferencia que preocupa a los expertos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/banco-espana-alerta-estafa-transferencia-preocupa-expertos-1399268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/banco-espana-alerta-estafa-transferencia-preocupa-expertos-3897404.jpg?tf=1200x' alt='El Banco de España alerta: así es la estafa de la transferencia que preocupa a los expertos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/desactive-opcion-whatsapp-puedo-leer-mensajes-contactos-enteren-1399345'>Desde que desactivé esta opción de WhatsApp puedo leer los mensajes de mis contactos sin que se enteren</a></h4>
     <a href='https://computerhoy.com/apps/desactive-opcion-whatsapp-puedo-leer-mensajes-contactos-enteren-1399345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/desactive-opcion-whatsapp-puedo-leer-mensajes-contactos-enteren-3901043.jpg?tf=1200x' alt='Desde que desactivé esta opción de WhatsApp puedo leer los mensajes de mis contactos sin que se enteren' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/descarga-gratis-wordstar-mitico-editor-textos-ms-dos-usa-creador-juego-tronos-1399348'>Descarga gratis WordStar, el mítico editor de textos de MS-DOS que usa el creador de Juego de Tronos</a></h4>
-    <a href='https://computerhoy.com/apps/descarga-gratis-wordstar-mitico-editor-textos-ms-dos-usa-creador-juego-tronos-1399348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/descarga-gratis-wordstar-mitico-editor-textos-ms-dos-usa-creador-juego-tronos-3900586.jpg?tf=1200x' alt='Descarga gratis WordStar, el mítico editor de textos de MS-DOS que usa el creador de Juego de Tronos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intel-pudo-comprar-openai-2017-1399347'>Intel pudo comprar OpenAI en 2017, pero su CEO lo descartó porque era "poco interesante"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intel-pudo-comprar-openai-2017-1399347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/2017-intel-pudo-comprar-openai-pero-ceo-descarto-porque-era-poco-interesante-3899983.jpg?tf=1200x' alt='Intel pudo comprar OpenAI en 2017, pero su CEO lo descartó porque era "poco interesante"' />
     </a>
 </div>
 
