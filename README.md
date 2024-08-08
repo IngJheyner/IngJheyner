@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trabajo-9-5-habra-extinguido-2034-ultima-prediccion-multimillonario-predijo-exito-internet-1399275'>“Tu trabajo de 9 a 5 se habrá extinguido en 2034”: la última predicción del multimillonario que predijo el éxito de Internet </a></h4>
-    <a href='https://computerhoy.com/tecnologia/trabajo-9-5-habra-extinguido-2034-ultima-prediccion-multimillonario-predijo-exito-internet-1399275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/trabajar-3897743.jpg?tf=1200x' alt='“Tu trabajo de 9 a 5 se habrá extinguido en 2034”: la última predicción del multimillonario que predijo el éxito de Internet ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-google-maps-gasolinera-cercana-barata-1399129'>Cómo encontrar con Google Maps la gasolinera más cercana (y barata) a tu ubicación</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-encontrar-google-maps-gasolinera-cercana-barata-1399129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gasolinera-google-maps-3891379.jpg?tf=1200x' alt='Cómo encontrar con Google Maps la gasolinera más cercana (y barata) a tu ubicación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/airtag-xiaomi-barato-envio-gratis-1394858'>El AirTag de Xiaomi es barato (incluso para ser Xiaomi) y te lo envían gratis a casa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/airtag-xiaomi-barato-envio-gratis-1394858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/localizador-xiaomi-3692801.jpg?tf=1200x' alt='El AirTag de Xiaomi es barato (incluso para ser Xiaomi) y te lo envían gratis a casa' />
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-portatil-windows-11-mas-barato-movil-1396760'>AliExpress se vuelve loco: vende un portátil con Windows 11 más barato que un móvil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-portatil-windows-11-mas-barato-movil-1396760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teclast-f7-plus-3-3782251.jpg?tf=1200x' alt='AliExpress se vuelve loco: vende un portátil con Windows 11 más barato que un móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/banco-espana-alerta-estafa-transferencia-preocupa-expertos-1399268'>El Banco de España alerta: así es la estafa de la transferencia que preocupa a los expertos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/banco-espana-alerta-estafa-transferencia-preocupa-expertos-1399268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/banco-espana-alerta-estafa-transferencia-preocupa-expertos-3897404.jpg?tf=1200x' alt='El Banco de España alerta: así es la estafa de la transferencia que preocupa a los expertos' />
+    <h4><a href='https://computerhoy.com/pc/lenovo-lanza-portatil-hibrido-windows-android-dos-procesadores-1399355'>Lenovo lanza un portátil híbrido con Windows y Android, y dos procesadores</a></h4>
+    <a href='https://computerhoy.com/pc/lenovo-lanza-portatil-hibrido-windows-android-dos-procesadores-1399355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lenovo-lanza-primer-pc-hibrido-windows-android-gracias-dos-procesadores-3901350.jpg?tf=1200x' alt='Lenovo lanza un portátil híbrido con Windows y Android, y dos procesadores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/no-podia-ni-tocarlo-he-logrado-mi-movil-no-sobrecaliente-cuando-utilizo-android-auto-1399349'>¡No podía ni tocarlo! Así he logrado que mi móvil no se sobrecaliente cuando utilizo Android Auto</a></h4>
-    <a href='https://computerhoy.com/android/no-podia-ni-tocarlo-he-logrado-mi-movil-no-sobrecaliente-cuando-utilizo-android-auto-1399349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/no-podia-ni-tocarlo-he-logrado-mi-movil-no-sobrecaliente-cuando-utilizo-android-auto-3901501.jpg?tf=1200x' alt='¡No podía ni tocarlo! Así he logrado que mi móvil no se sobrecaliente cuando utilizo Android Auto' />
+    <h4><a href='https://computerhoy.com/internet/internet-no-siempre-ha-desaparecido-pasado-ultimos-diez-anos-1399257'>Internet no es para siempre: así ha desaparecido su pasado en los últimos diez años</a></h4>
+    <a href='https://computerhoy.com/internet/internet-no-siempre-ha-desaparecido-pasado-ultimos-diez-anos-1399257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/internet-no-siempre-ha-desaparecido-pasado-ultimos-diez-anos-3897243.jpg?tf=1200x' alt='Internet no es para siempre: así ha desaparecido su pasado en los últimos diez años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/desactive-opcion-whatsapp-puedo-leer-mensajes-contactos-enteren-1399345'>Desde que desactivé esta opción de WhatsApp puedo leer los mensajes de mis contactos sin que se enteren</a></h4>
-    <a href='https://computerhoy.com/apps/desactive-opcion-whatsapp-puedo-leer-mensajes-contactos-enteren-1399345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/desactive-opcion-whatsapp-puedo-leer-mensajes-contactos-enteren-3901043.jpg?tf=1200x' alt='Desde que desactivé esta opción de WhatsApp puedo leer los mensajes de mis contactos sin que se enteren' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-auriculares-dyson-ontrac-diseno-no-te-dejara-indiferente-gran-cancelacion-ruido-1398250'>He probado los auriculares Dyson OnTrac: un diseño que no te dejará indiferente con una gran cancelación de ruido</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-auriculares-dyson-ontrac-diseno-no-te-dejara-indiferente-gran-cancelacion-ruido-1398250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dyson-ontrac-3877225.jpg?tf=1200x' alt='He probado los auriculares Dyson OnTrac: un diseño que no te dejará indiferente con una gran cancelación de ruido' />
     </a>
 </div>
 
