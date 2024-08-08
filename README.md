@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/sencilla-accion-deberias-hacer-cada-dia-movil-aumenta-maximo-potencia-rendimiento-1399497'>La sencilla acción que deberías hacer cada día en tu móvil y que aumenta al máximo su potencia y rendimiento</a></h4>
+    <a href='https://computerhoy.com/moviles/sencilla-accion-deberias-hacer-cada-dia-movil-aumenta-maximo-potencia-rendimiento-1399497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sencilla-accion-deberias-hacer-cada-dia-movil-aumenta-maximo-potencia-rendimiento-3906721.jpg?tf=1200x' alt='La sencilla acción que deberías hacer cada día en tu móvil y que aumenta al máximo su potencia y rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/archivo-apk-son-tan-peligrosos-android-1399097'>Qué es un archivo APK y por qué son tan peligrosos para tu Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/archivo-apk-son-tan-peligrosos-android-1399097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apk-3891693.jpg?tf=1200x' alt='Qué es un archivo APK y por qué son tan peligrosos para tu Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-empresa-japonesa-cartas-colo-todas-casas-personajes-como-mario-1399108'>Nintendo: la empresa japonesa de cartas que se coló en todas las casas con personajes como Mario</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-empresa-japonesa-cartas-colo-todas-casas-personajes-como-mario-1399108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nintendo-mario-nintendo-64-3891364.jpg?tf=1200x' alt='Nintendo: la empresa japonesa de cartas que se coló en todas las casas con personajes como Mario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/existe-forma-casera-sorprendentemente-sencilla-eliminar-microplasticos-agua-grifo-1399446'>Existe una forma casera sorprendentemente sencilla de eliminar los microplásticos del agua del grifo</a></h4>
+    <a href='https://computerhoy.com/life/existe-forma-casera-sorprendentemente-sencilla-eliminar-microplasticos-agua-grifo-1399446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/beber-agua-3905080.jpg?tf=1200x' alt='Existe una forma casera sorprendentemente sencilla de eliminar los microplásticos del agua del grifo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/combinacion-teclas-maldita-windows-no-debes-utilizar-1306830'>La combinación de teclas maldita de Windows que jamás debes utilizar</a></h4>
     <a href='https://computerhoy.com/windows/combinacion-teclas-maldita-windows-no-debes-utilizar-1306830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/tecla-windows-11-3117832.jpg?tf=1200x' alt='La combinación de teclas maldita de Windows que jamás debes utilizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-extraer-archivos-rar-gratis-windows-mac-1398997'>Cómo extraer archivos RAR gratis en Windows y Mac</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-extraer-archivos-rar-gratis-windows-mac-1398997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/archivos-rar-3890219.jpg?tf=1200x' alt='Cómo extraer archivos RAR gratis en Windows y Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/xbox-historia-todas-consolas-game-pass-juego-nube-videojuegos-vendidos-1399093'>Xbox: historia, todas las consolas, Game Pass, juego en la nube y videojuegos más vendidos</a></h4>
-    <a href='https://computerhoy.com/gaming/xbox-historia-todas-consolas-game-pass-juego-nube-videojuegos-vendidos-1399093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xbox-microsoft-consola-3890694.jpg?tf=1200x' alt='Xbox: historia, todas las consolas, Game Pass, juego en la nube y videojuegos más vendidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/microondas-podria-ser-hogar-750-tipos-bacterias-diferentes-1399422'>Tu microondas podría ser el hogar de hasta 750 tipos de bacterias diferentes</a></h4>
-    <a href='https://computerhoy.com/alimentacion/microondas-podria-ser-hogar-750-tipos-bacterias-diferentes-1399422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microondas-3905085.jpg?tf=1200x' alt='Tu microondas podría ser el hogar de hasta 750 tipos de bacterias diferentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/modo-vista-paralelo-whatsapp-sirve-1399352'>Qué es el modo "Vista en paralelo" de WhatsApp y para qué sirve</a></h4>
-    <a href='https://computerhoy.com/apps/modo-vista-paralelo-whatsapp-sirve-1399352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modo-vista-paralelo-whatsapp-sirve-3902404.jpg?tf=1200x' alt='Qué es el modo "Vista en paralelo" de WhatsApp y para qué sirve' />
     </a>
 </div>
 
