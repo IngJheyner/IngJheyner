@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/no-podia-ni-tocarlo-he-logrado-mi-movil-no-sobrecaliente-cuando-utilizo-android-auto-1399349'>¡No podía ni tocarlo! Así he logrado que mi móvil no se sobrecaliente cuando utilizo Android Auto</a></h4>
+    <a href='https://computerhoy.com/android/no-podia-ni-tocarlo-he-logrado-mi-movil-no-sobrecaliente-cuando-utilizo-android-auto-1399349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/no-podia-ni-tocarlo-he-logrado-mi-movil-no-sobrecaliente-cuando-utilizo-android-auto-3901501.jpg?tf=1200x' alt='¡No podía ni tocarlo! Así he logrado que mi móvil no se sobrecaliente cuando utilizo Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/desactive-opcion-whatsapp-puedo-leer-mensajes-contactos-enteren-1399345'>Desde que desactivé esta opción de WhatsApp puedo leer los mensajes de mis contactos sin que se enteren</a></h4>
+    <a href='https://computerhoy.com/apps/desactive-opcion-whatsapp-puedo-leer-mensajes-contactos-enteren-1399345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/desactive-opcion-whatsapp-puedo-leer-mensajes-contactos-enteren-3901043.jpg?tf=1200x' alt='Desde que desactivé esta opción de WhatsApp puedo leer los mensajes de mis contactos sin que se enteren' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/descarga-gratis-wordstar-mitico-editor-textos-ms-dos-usa-creador-juego-tronos-1399348'>Descarga gratis WordStar, el mítico editor de textos de MS-DOS que usa el creador de Juego de Tronos</a></h4>
     <a href='https://computerhoy.com/apps/descarga-gratis-wordstar-mitico-editor-textos-ms-dos-usa-creador-juego-tronos-1399348' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/descarga-gratis-wordstar-mitico-editor-textos-ms-dos-usa-creador-juego-tronos-3900586.jpg?tf=1200x' alt='Descarga gratis WordStar, el mítico editor de textos de MS-DOS que usa el creador de Juego de Tronos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/hacer-coche-te-sigue-demasiado-cerca-profesor-autoescuela-comparte-sencillo-truco-1399325'>Qué hacer si un coche te sigue demasiado cerca: un profesor de autoescuela comparte un sencillo truco</a></h4>
     <a href='https://computerhoy.com/motor/hacer-coche-te-sigue-demasiado-cerca-profesor-autoescuela-comparte-sencillo-truco-1399325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hacer-coche-te-sigue-demasiado-cerca-profesor-autoescuela-comparte-sencillo-truco-3899985.jpg?tf=1200x' alt='Qué hacer si un coche te sigue demasiado cerca: un profesor de autoescuela comparte un sencillo truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-podria-tener-necesitar-elon-musk-devolver-tierra-astronautas-boeing-1399343'>La NASA podría tener que necesitar a Elon Musk para devolver a la Tierra a los astronautas de Boeing</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-podria-tener-necesitar-elon-musk-devolver-tierra-astronautas-boeing-1399343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/starliner-boeing-3899986.jpg?tf=1200x' alt='La NASA podría tener que necesitar a Elon Musk para devolver a la Tierra a los astronautas de Boeing' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/movistar-muerte-iptv-todo-futbol-permanencia-120-euros-descuento-1399342'>Movistar a muerte a por las IPTV: todo el fútbol sin permanencia con hasta 120 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/movistar-muerte-iptv-todo-futbol-permanencia-120-euros-descuento-1399342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/movistar-todo-futbol-3899984.jpg?tf=1200x' alt='Movistar a muerte a por las IPTV: todo el fútbol sin permanencia con hasta 120 euros de descuento' />
     </a>
 </div>
 
