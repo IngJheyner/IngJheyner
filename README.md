@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/peligrosa-estafa-correo-tipo-phishing-sacude-francia-puede-llegar-espana-1398809'>La peligrosa estafa por correo “tipo phishing” que sacude Francia, y que puede llegar a España</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/peligrosa-estafa-correo-tipo-phishing-sacude-francia-puede-llegar-espana-1398809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/peligrosa-estafa-correo-tipo-phishing-sacude-francia-puede-llegar-espana-3881276.jpg?tf=1200x' alt='La peligrosa estafa por correo “tipo phishing” que sacude Francia, y que puede llegar a España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-funciones-1284786'>Cómo activar el Modo Dios de Android Auto y todas cosas lo que puedes hacer con él</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-funciones-1284786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modos-dios-android-auto-3905589.jpg?tf=1200x' alt='Cómo activar el Modo Dios de Android Auto y todas cosas lo que puedes hacer con él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/playstation-origen-todas-consolas-juegos-vendidos-historia-1398900'>PlayStation: origen, todas las consolas y los juegos más vendidos de su historia</a></h4>
+    <a href='https://computerhoy.com/gaming/playstation-origen-todas-consolas-juegos-vendidos-historia-1398900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sony-playstation-3883631.jpg?tf=1200x' alt='PlayStation: origen, todas las consolas y los juegos más vendidos de su historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ni-japon-ni-china-estados-unidos-pais-tecnologicamente-avanzado-mundo-1399410'>Ni Japón, ni China o Estados Unidos: este es el país tecnológicamente más avanzado del mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ni-japon-ni-china-estados-unidos-pais-tecnologicamente-avanzado-mundo-1399410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ciudad-ia-3904510.jpg?tf=1200x' alt='Ni Japón, ni China o Estados Unidos: este es el país tecnológicamente más avanzado del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cuales-son-principales-intereses-reddit-espana-1399435'>¿Cuáles son los principales intereses de Reddit en España?</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuales-son-principales-intereses-reddit-espana-1399435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/reddit-3904904.jpg?tf=1200x' alt='¿Cuáles son los principales intereses de Reddit en España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-no-encuentra-solucion-cpu-13a-14a-generacion-fabricantes-toman-decisiones-drasticas-1399419'>Intel no encuentra la solución para sus CPU de 13ª y 14ª generación y los fabricantes toman decisiones drásticas</a></h4>
-    <a href='https://computerhoy.com/pc/intel-no-encuentra-solucion-cpu-13a-14a-generacion-fabricantes-toman-decisiones-drasticas-1399419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/intel-no-encuentra-solucion-cpu-13a-14a-generacion-fabricantes-toman-decision-3904338.jpg?tf=1200x' alt='Intel no encuentra la solución para sus CPU de 13ª y 14ª generación y los fabricantes toman decisiones drásticas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/convierte-movil-pc-monitor-te-permite-usarlo-como-ordenador-teclado-raton-1399137'>Convierte tu móvil en un PC: este monitor te permite usarlo como un ordenador, con teclado y ratón</a></h4>
-    <a href='https://computerhoy.com/tecnologia/convierte-movil-pc-monitor-te-permite-usarlo-como-ordenador-teclado-raton-1399137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/arzopa-s1-3890057.jpg?tf=1200x' alt='Convierte tu móvil en un PC: este monitor te permite usarlo como un ordenador, con teclado y ratón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-punto-mira-son-realmente-seguros-sistemas-conduccion-1399060'>Tesla en el punto de mira: ¿son realmente seguros sus sistemas de conducción?</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-punto-mira-son-realmente-seguros-sistemas-conduccion-1399060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tesla-punto-mira-son-seguros-realmente-sistemas-conduccion-3889696.jpg?tf=1200x' alt='Tesla en el punto de mira: ¿son realmente seguros sus sistemas de conducción?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/adios-ublock-origin-despidete-mejores-bloqueadores-anuncios-chrome-1399065'>¡Adiós uBlock Origin! Despídete de uno de los mejores bloqueadores de anuncios en Chrome</a></h4>
-    <a href='https://computerhoy.com/internet/adios-ublock-origin-despidete-mejores-bloqueadores-anuncios-chrome-1399065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/adios-ublock-origin-adios-mejores-bloqueadores-anuncios-chrome-3889703.jpg?tf=1200x' alt='¡Adiós uBlock Origin! Despídete de uno de los mejores bloqueadores de anuncios en Chrome' />
     </a>
 </div>
 
