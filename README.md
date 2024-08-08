@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/google-meta-aliaron-secreto-mostrar-anuncios-instagram-menores-youtube-1399526'>Google y Meta se aliaron en secreto para mostrar anuncios de Instagram a menores en YouTube</a></h4>
+    <a href='https://computerhoy.com/redes/google-meta-aliaron-secreto-mostrar-anuncios-instagram-menores-youtube-1399526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-meta-aliaron-secreto-mostrar-anuncios-instagram-menores-youtube-3907046.jpg?tf=1200x' alt='Google y Meta se aliaron en secreto para mostrar anuncios de Instagram a menores en YouTube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/industria/ikea-historia-curiosidades-823873'>IKEA: historia y curiosidades de la mayor empresa de muebles del mundo</a></h4>
     <a href='https://computerhoy.com/reportajes/industria/ikea-historia-curiosidades-823873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ikea-muebles-3698342.jpg?tf=1200x' alt='IKEA: historia y curiosidades de la mayor empresa de muebles del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/apple-quiere-poner-cuerdas-google-maps-waze-moviles-android-1399521'>Apple quiere poner contra las cuerdas a Google Maps y Waze... ¡en móviles Android!</a></h4>
     <a href='https://computerhoy.com/apps/apple-quiere-poner-cuerdas-google-maps-waze-moviles-android-1399521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-maps-3907361.jpg?tf=1200x' alt='Apple quiere poner contra las cuerdas a Google Maps y Waze... ¡en móviles Android!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/google-repara-enorme-agujero-seguridad-actualiza-movil-android-inmediato-1399520'>Google repara un enorme agujero de seguridad: actualiza tu móvil Android de inmediato</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/google-repara-enorme-agujero-seguridad-actualiza-movil-android-inmediato-1399520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/seguridad-android-3907359.jpg?tf=1200x' alt='Google repara un enorme agujero de seguridad: actualiza tu móvil Android de inmediato' />
     </a>
 </div>
 
