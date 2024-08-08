@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/2900-millones-personas-afectadas-mayor-violacion-datos-historia-nombres-direcciones-numeros-seguridad-social-filtrados-1399393'>2.900 millones de personas afectadas por la mayor violación de datos de la historia: nombres, direcciones y números de seguridad social filtrados</a></h4>
-    <a href='https://computerhoy.com/tecnologia/2900-millones-personas-afectadas-mayor-violacion-datos-historia-nombres-direcciones-numeros-seguridad-social-filtrados-1399393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hacker-3903847.jpg?tf=1200x' alt='2.900 millones de personas afectadas por la mayor violación de datos de la historia: nombres, direcciones y números de seguridad social filtrados' />
+    <h4><a href='https://computerhoy.com/apple/apple-ha-corregido-mayores-fallos-seguridad-ios-17-ya-mira-futuro-ios-18-1399382'>Apple ha corregido uno de sus mayores fallos de seguridad de iOS 17 y ya mira al futuro con iOS 18</a></h4>
+    <a href='https://computerhoy.com/apple/apple-ha-corregido-mayores-fallos-seguridad-ios-17-ya-mira-futuro-ios-18-1399382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-ha-corregido-mayores-fallos-seguridad-ios-17-ya-mira-futuro-ios-18-3903671.jpg?tf=1200x' alt='Apple ha corregido uno de sus mayores fallos de seguridad de iOS 17 y ya mira al futuro con iOS 18' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432'>Cómo calibrar Google Maps en Android para que sea más preciso</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-calibrar-google-maps-android-sea-mucho-preciso-3293460.jpg?tf=1200x' alt='Cómo calibrar Google Maps en Android para que sea más preciso' />
+    <h4><a href='https://computerhoy.com/noticias/life/electrodomesticos-nunca-debes-conectar-regleta-electrica-967607'>Dispositivos y electrodomésticos que NUNCA deberías enchufar a una regleta eléctrica</a></h4>
+    <a href='https://computerhoy.com/noticias/life/electrodomesticos-nunca-debes-conectar-regleta-electrica-967607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/enchufes-3904501.jpg?tf=1200x' alt='Dispositivos y electrodomésticos que NUNCA deberías enchufar a una regleta eléctrica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nina-11-anos-inventa-taza-especial-ayudar-abuelo-parkinson-convierte-millonaria-1399375'>Una niña de 11 años inventa una taza especial para ayudar a su abuelo con párkinson y se convierte en millonaria</a></h4>
-    <a href='https://computerhoy.com/life/nina-11-anos-inventa-taza-especial-ayudar-abuelo-parkinson-convierte-millonaria-1399375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lily-born-3903676.jpg?tf=1200x' alt='Una niña de 11 años inventa una taza especial para ayudar a su abuelo con párkinson y se convierte en millonaria' />
+    <h4><a href='https://computerhoy.com/tecnologia/adios-chromecast-aparato-nokia-potente-dara-salto-calidad-televisor-1398102'>Adiós Chromecast: este aparato de Nokia es más potente y le dará un salto de calidad a tu televisor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-chromecast-aparato-nokia-potente-dara-salto-calidad-televisor-1398102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-3845313.jpg?tf=1200x' alt='Adiós Chromecast: este aparato de Nokia es más potente y le dará un salto de calidad a tu televisor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/encuentran-inquietante-vulnerabilidad-downgrade-capaz-revertir-actualizaciones-seguridad-windows-1399365'>Encuentran una inquietante vulnerabilidad “downgrade” capaz de revertir las actualizaciones de seguridad de Windows</a></h4>
-    <a href='https://computerhoy.com/tecnologia/encuentran-inquietante-vulnerabilidad-downgrade-capaz-revertir-actualizaciones-seguridad-windows-1399365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vulnerabilidad-windows-3903672.jpg?tf=1200x' alt='Encuentran una inquietante vulnerabilidad “downgrade” capaz de revertir las actualizaciones de seguridad de Windows' />
+    <h4><a href='https://computerhoy.com/tv/como-limpiar-pantalla-smart-tv-dejar-rayas-marcas-obtener-imagen-perfecta-1398083'>Cómo limpiar la pantalla de un Smart TV sin dejar rayas ni marcas para obtener una imagen perfecta</a></h4>
+    <a href='https://computerhoy.com/tv/como-limpiar-pantalla-smart-tv-dejar-rayas-marcas-obtener-imagen-perfecta-1398083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/limpiar-smart-tv-3860604.jpg?tf=1200x' alt='Cómo limpiar la pantalla de un Smart TV sin dejar rayas ni marcas para obtener una imagen perfecta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-regletas-invento-conectar-dispositivos-electronicos-1398764'>Adiós a las regletas: el genial invento que hubieras deseado que existiera antes para conectar tus dispositivos electrónicos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-regletas-invento-conectar-dispositivos-electronicos-1398764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regleta-electrica-3284279.jpg?tf=1200x' alt='Adiós a las regletas: el genial invento que hubieras deseado que existiera antes para conectar tus dispositivos electrónicos' />
+    <h4><a href='https://computerhoy.com/android/mejor-tablet-lenovo-ahora-tiene-100-euros-descuento-1399416'>Es la mejor tablet de Lenovo y ahora tiene más de 100 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/android/mejor-tablet-lenovo-ahora-tiene-100-euros-descuento-1399416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-tab-p11-2nd-gen-3300258.jpg?tf=1200x' alt='Es la mejor tablet de Lenovo y ahora tiene más de 100 euros de descuento' />
     </a>
 </div>
 
