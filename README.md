@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/encuentran-inquietante-vulnerabilidad-downgrade-capaz-revertir-actualizaciones-seguridad-windows-1399365'>Encuentran una inquietante vulnerabilidad “downgrade” capaz de revertir las actualizaciones de seguridad de Windows</a></h4>
+    <a href='https://computerhoy.com/tecnologia/encuentran-inquietante-vulnerabilidad-downgrade-capaz-revertir-actualizaciones-seguridad-windows-1399365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vulnerabilidad-windows-3903672.jpg?tf=1200x' alt='Encuentran una inquietante vulnerabilidad “downgrade” capaz de revertir las actualizaciones de seguridad de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/adios-regletas-invento-conectar-dispositivos-electronicos-1398764'>Adiós a las regletas: el genial invento que hubieras deseado que existiera antes para conectar tus dispositivos electrónicos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-regletas-invento-conectar-dispositivos-electronicos-1398764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regleta-electrica-3284279.jpg?tf=1200x' alt='Adiós a las regletas: el genial invento que hubieras deseado que existiera antes para conectar tus dispositivos electrónicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-ver-gratis-canales-tdt-espana-movil-gratis-instalar-nada-1308014'>La forma definitiva para ver la TDT en el móvil: más de 4.000 canales sin instalar nada y gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-ver-gratis-canales-tdt-espana-movil-gratis-instalar-nada-1308014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-gratis-canales-tdt-espana-resto-mundo-movil-instalar-nada-3139522.jpg?tf=1200x' alt='La forma definitiva para ver la TDT en el móvil: más de 4.000 canales sin instalar nada y gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/hackberrypi-raspberry-pi-hackear-alternativa-flipper-zero-1399361'>HackberryPi, la Raspberry Pi para hackear que convierte a Flipper Zero en un juguete</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/hackberrypi-raspberry-pi-hackear-alternativa-flipper-zero-1399361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hackberrypi-raspberry-pi-hackear-convierte-flipper-zero-juguete-3902861.jpg?tf=1200x' alt='HackberryPi, la Raspberry Pi para hackear que convierte a Flipper Zero en un juguete' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-google-maps-gasolinera-cercana-barata-1399129'>Cómo encontrar con Google Maps la gasolinera más cercana (y barata) a tu ubicación</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-encontrar-google-maps-gasolinera-cercana-barata-1399129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gasolinera-google-maps-3891379.jpg?tf=1200x' alt='Cómo encontrar con Google Maps la gasolinera más cercana (y barata) a tu ubicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-portatil-windows-11-mas-barato-movil-1396760'>AliExpress se vuelve loco: vende un portátil con Windows 11 más barato que un móvil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-portatil-windows-11-mas-barato-movil-1396760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teclast-f7-plus-3-3782251.jpg?tf=1200x' alt='AliExpress se vuelve loco: vende un portátil con Windows 11 más barato que un móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/lenovo-lanza-portatil-hibrido-windows-android-dos-procesadores-1399355'>Lenovo lanza un portátil híbrido con Windows y Android, y dos procesadores</a></h4>
-    <a href='https://computerhoy.com/pc/lenovo-lanza-portatil-hibrido-windows-android-dos-procesadores-1399355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lenovo-lanza-primer-pc-hibrido-windows-android-gracias-dos-procesadores-3901350.jpg?tf=1200x' alt='Lenovo lanza un portátil híbrido con Windows y Android, y dos procesadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/internet-no-siempre-ha-desaparecido-pasado-ultimos-diez-anos-1399257'>Internet no es para siempre: así ha desaparecido su pasado en los últimos diez años</a></h4>
-    <a href='https://computerhoy.com/internet/internet-no-siempre-ha-desaparecido-pasado-ultimos-diez-anos-1399257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/internet-no-siempre-ha-desaparecido-pasado-ultimos-diez-anos-3897243.jpg?tf=1200x' alt='Internet no es para siempre: así ha desaparecido su pasado en los últimos diez años' />
     </a>
 </div>
 
