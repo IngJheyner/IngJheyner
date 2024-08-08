@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-ha-corregido-mayores-fallos-seguridad-ios-17-ya-mira-futuro-ios-18-1399382'>Apple ha corregido uno de sus mayores fallos de seguridad de iOS 17 y ya mira al futuro con iOS 18</a></h4>
-    <a href='https://computerhoy.com/apple/apple-ha-corregido-mayores-fallos-seguridad-ios-17-ya-mira-futuro-ios-18-1399382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-ha-corregido-mayores-fallos-seguridad-ios-17-ya-mira-futuro-ios-18-3903671.jpg?tf=1200x' alt='Apple ha corregido uno de sus mayores fallos de seguridad de iOS 17 y ya mira al futuro con iOS 18' />
+    <h4><a href='https://computerhoy.com/tecnologia/convierte-movil-pc-monitor-te-permite-usarlo-como-ordenador-teclado-raton-1399137'>Convierte tu móvil en un PC: este monitor te permite usarlo como un ordenador, con teclado y ratón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/convierte-movil-pc-monitor-te-permite-usarlo-como-ordenador-teclado-raton-1399137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/arzopa-s1-3890057.jpg?tf=1200x' alt='Convierte tu móvil en un PC: este monitor te permite usarlo como un ordenador, con teclado y ratón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/electrodomesticos-nunca-debes-conectar-regleta-electrica-967607'>Dispositivos y electrodomésticos que NUNCA deberías enchufar a una regleta eléctrica</a></h4>
-    <a href='https://computerhoy.com/noticias/life/electrodomesticos-nunca-debes-conectar-regleta-electrica-967607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/enchufes-3904501.jpg?tf=1200x' alt='Dispositivos y electrodomésticos que NUNCA deberías enchufar a una regleta eléctrica' />
+    <h4><a href='https://computerhoy.com/motor/tesla-punto-mira-son-realmente-seguros-sistemas-conduccion-1399060'>Tesla en el punto de mira: ¿son realmente seguros sus sistemas de conducción?</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-punto-mira-son-realmente-seguros-sistemas-conduccion-1399060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tesla-punto-mira-son-seguros-realmente-sistemas-conduccion-3889696.jpg?tf=1200x' alt='Tesla en el punto de mira: ¿son realmente seguros sus sistemas de conducción?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-chromecast-aparato-nokia-potente-dara-salto-calidad-televisor-1398102'>Adiós Chromecast: este aparato de Nokia es más potente y le dará un salto de calidad a tu televisor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-chromecast-aparato-nokia-potente-dara-salto-calidad-televisor-1398102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-3845313.jpg?tf=1200x' alt='Adiós Chromecast: este aparato de Nokia es más potente y le dará un salto de calidad a tu televisor' />
+    <h4><a href='https://computerhoy.com/internet/adios-ublock-origin-despidete-mejores-bloqueadores-anuncios-chrome-1399065'>¡Adiós uBlock Origin! Despídete de uno de los mejores bloqueadores de anuncios en Chrome</a></h4>
+    <a href='https://computerhoy.com/internet/adios-ublock-origin-despidete-mejores-bloqueadores-anuncios-chrome-1399065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/adios-ublock-origin-adios-mejores-bloqueadores-anuncios-chrome-3889703.jpg?tf=1200x' alt='¡Adiós uBlock Origin! Despídete de uno de los mejores bloqueadores de anuncios en Chrome' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/como-limpiar-pantalla-smart-tv-dejar-rayas-marcas-obtener-imagen-perfecta-1398083'>Cómo limpiar la pantalla de un Smart TV sin dejar rayas ni marcas para obtener una imagen perfecta</a></h4>
-    <a href='https://computerhoy.com/tv/como-limpiar-pantalla-smart-tv-dejar-rayas-marcas-obtener-imagen-perfecta-1398083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/limpiar-smart-tv-3860604.jpg?tf=1200x' alt='Cómo limpiar la pantalla de un Smart TV sin dejar rayas ni marcas para obtener una imagen perfecta' />
+    <h4><a href='https://computerhoy.com/motor/revolucion-coche-electrico-llega-barcelona-primera-estacion-carga-alimenta-energia-trenes-1398638'>La revolución del coche eléctrico llega a Barcelona: primera estación de carga que se alimenta con la energía de los trenes</a></h4>
+    <a href='https://computerhoy.com/motor/revolucion-coche-electrico-llega-barcelona-primera-estacion-carga-alimenta-energia-trenes-1398638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/revolucion-ecologica-barcelona-estacion-carga-alimenta-energia-trenes-3861535.jpg?tf=1200x' alt='La revolución del coche eléctrico llega a Barcelona: primera estación de carga que se alimenta con la energía de los trenes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/mejor-tablet-lenovo-ahora-tiene-100-euros-descuento-1399416'>Es la mejor tablet de Lenovo y ahora tiene más de 100 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/android/mejor-tablet-lenovo-ahora-tiene-100-euros-descuento-1399416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-tab-p11-2nd-gen-3300258.jpg?tf=1200x' alt='Es la mejor tablet de Lenovo y ahora tiene más de 100 euros de descuento' />
+    <h4><a href='https://computerhoy.com/tecnologia/desastre-absoluto-humane-ai-pin-devuelven-dispositivos-compran-1399405'>Desastre absoluto del Humane Ai Pin: se devuelven más dispositivos de los que se compran</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desastre-absoluto-humane-ai-pin-devuelven-dispositivos-compran-1399405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/preocupante-dato-humane-ai-pin-devuelven-dispositivos-compran-3904006.jpg?tf=1200x' alt='Desastre absoluto del Humane Ai Pin: se devuelven más dispositivos de los que se compran' />
     </a>
 </div>
 
