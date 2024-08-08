@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/google-repara-enorme-agujero-seguridad-actualiza-movil-android-inmediato-1399520'>Google repara un enorme agujero de seguridad: actualiza tu móvil Android de inmediato</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/google-repara-enorme-agujero-seguridad-actualiza-movil-android-inmediato-1399520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/seguridad-android-3907359.jpg?tf=1200x' alt='Google repara un enorme agujero de seguridad: actualiza tu móvil Android de inmediato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-podria-ser-bestia-similar-steam-deck-pero-importante-lastre-1399519'>Nintendo Switch 2 podría ser una bestia similar a Steam Deck, pero con un importante lastre</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-2-podria-ser-bestia-similar-steam-deck-pero-importante-lastre-1399519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nintendo-switch-3907204.jpg?tf=1200x' alt='Nintendo Switch 2 podría ser una bestia similar a Steam Deck, pero con un importante lastre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/inteligencia-artificial-469917'>Inteligencia artificial: qué es, tipos y cómo funciona la tecnología que promete cambiar el mundo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/inteligencia-artificial-469917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-3649867.jpg?tf=1200x' alt='Inteligencia artificial: qué es, tipos y cómo funciona la tecnología que promete cambiar el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/nueva-pelicula-director-cuervo-dark-city-quiere-revolucionar-ciencia-ficcion-1399388'>La nueva película con la que el director de El cuervo y Dark City quiere revolucionar la ciencia ficción</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/nueva-pelicula-director-cuervo-dark-city-quiere-revolucionar-ciencia-ficcion-1399388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-pelicula-director-cuervo-dark-city-quiere-revolucionar-ciencia-ficcion-3903678.jpg?tf=1200x' alt='La nueva película con la que el director de El cuervo y Dark City quiere revolucionar la ciencia ficción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/orange-todo-tienes-saber-operador-tarifas-orange-tv-roaming-1393752'>Orange: todo lo que tienes que saber del operador, sus tarifas, Orange TV y roaming</a></h4>
     <a href='https://computerhoy.com/redes/orange-todo-tienes-saber-operador-tarifas-orange-tv-roaming-1393752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/orange-3656177.jpg?tf=1200x' alt='Orange: todo lo que tienes que saber del operador, sus tarifas, Orange TV y roaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/siempre-tienes-comprobar-alguien-te-pide-agregues-whatsapp-1399447'>Esto es lo que siempre tienes que comprobar si alguien te pide que le agregues a WhatsApp</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/siempre-tienes-comprobar-alguien-te-pide-agregues-whatsapp-1399447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/siempre-tienes-comprobar-alguien-te-pide-agregues-whatsapp-3905069.jpg?tf=1200x' alt='Esto es lo que siempre tienes que comprobar si alguien te pide que le agregues a WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-ventiladores-techo-leroy-merlin-1076517'>Ventiladores de techo de Leroy Merlin: estos son los más vendidos y mejor valorados</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-ventiladores-techo-leroy-merlin-1076517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/ventilador-techo-2393601.jpg?tf=1200x' alt='Ventiladores de techo de Leroy Merlin: estos son los más vendidos y mejor valorados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sencilla-accion-deberias-hacer-cada-dia-movil-aumenta-maximo-potencia-rendimiento-1399497'>La sencilla acción que deberías hacer cada día en tu móvil y que aumenta al máximo su potencia y rendimiento</a></h4>
-    <a href='https://computerhoy.com/moviles/sencilla-accion-deberias-hacer-cada-dia-movil-aumenta-maximo-potencia-rendimiento-1399497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sencilla-accion-deberias-hacer-cada-dia-movil-aumenta-maximo-potencia-rendimiento-3906721.jpg?tf=1200x' alt='La sencilla acción que deberías hacer cada día en tu móvil y que aumenta al máximo su potencia y rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/archivo-apk-son-tan-peligrosos-android-1399097'>Qué es un archivo APK y por qué son tan peligrosos para tu Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/archivo-apk-son-tan-peligrosos-android-1399097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apk-3891693.jpg?tf=1200x' alt='Qué es un archivo APK y por qué son tan peligrosos para tu Android' />
     </a>
 </div>
 
