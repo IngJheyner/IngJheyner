@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/modo-vista-paralelo-whatsapp-sirve-1399352'>Qué es el modo "Vista en paralelo" de WhatsApp y para qué sirve</a></h4>
+    <a href='https://computerhoy.com/apps/modo-vista-paralelo-whatsapp-sirve-1399352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modo-vista-paralelo-whatsapp-sirve-3902404.jpg?tf=1200x' alt='Qué es el modo "Vista en paralelo" de WhatsApp y para qué sirve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-te-parece-pequeno-modelo-plus-puede-no-tanto-tienda-vende-precio-record-1399481'>Si el iPhone te parece pequeño, el modelo Plus puede que no tanto: esta tienda lo vende a precio récord</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-te-parece-pequeno-modelo-plus-puede-no-tanto-tienda-vende-precio-record-1399481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857809.jpg?tf=1200x' alt='Si el iPhone te parece pequeño, el modelo Plus puede que no tanto: esta tienda lo vende a precio récord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-planes-precios-contenido-todo-tienes-saber-plataforma-streaming-1398921'>HBO Max: planes, precios, contenido y todo lo que tienes que saber de la plataforma de streaming</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hbo-max-planes-precios-contenido-todo-tienes-saber-plataforma-streaming-1398921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mejores-series-max-3742309.jpg?tf=1200x' alt='HBO Max: planes, precios, contenido y todo lo que tienes que saber de la plataforma de streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cientificos-piden-retirar-popular-tipo-encimeras-seguramente-tengas-cocina-son-peligro-salud-1399235'>Científicos piden retirar un popular tipo de encimeras que seguramente tengas en tu cocina: son un peligro para la salud</a></h4>
+    <a href='https://computerhoy.com/life/cientificos-piden-retirar-popular-tipo-encimeras-seguramente-tengas-cocina-son-peligro-salud-1399235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/peligro-encimera-cocina-3896921.jpg?tf=1200x' alt='Científicos piden retirar un popular tipo de encimeras que seguramente tengas en tu cocina: son un peligro para la salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/peligrosa-estafa-correo-tipo-phishing-sacude-francia-puede-llegar-espana-1398809'>La peligrosa estafa por correo “tipo phishing” que sacude Francia, y que puede llegar a España</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/peligrosa-estafa-correo-tipo-phishing-sacude-francia-puede-llegar-espana-1398809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/peligrosa-estafa-correo-tipo-phishing-sacude-francia-puede-llegar-espana-3881276.jpg?tf=1200x' alt='La peligrosa estafa por correo “tipo phishing” que sacude Francia, y que puede llegar a España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-funciones-1284786'>Cómo activar el Modo Dios de Android Auto y todas cosas lo que puedes hacer con él</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-funciones-1284786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modos-dios-android-auto-3905589.jpg?tf=1200x' alt='Cómo activar el Modo Dios de Android Auto y todas cosas lo que puedes hacer con él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/playstation-origen-todas-consolas-juegos-vendidos-historia-1398900'>PlayStation: origen, todas las consolas y los juegos más vendidos de su historia</a></h4>
-    <a href='https://computerhoy.com/gaming/playstation-origen-todas-consolas-juegos-vendidos-historia-1398900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sony-playstation-3883631.jpg?tf=1200x' alt='PlayStation: origen, todas las consolas y los juegos más vendidos de su historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ni-japon-ni-china-estados-unidos-pais-tecnologicamente-avanzado-mundo-1399410'>Ni Japón, ni China o Estados Unidos: este es el país tecnológicamente más avanzado del mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ni-japon-ni-china-estados-unidos-pais-tecnologicamente-avanzado-mundo-1399410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ciudad-ia-3904510.jpg?tf=1200x' alt='Ni Japón, ni China o Estados Unidos: este es el país tecnológicamente más avanzado del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuales-son-principales-intereses-reddit-espana-1399435'>¿Cuáles son los principales intereses de Reddit en España?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuales-son-principales-intereses-reddit-espana-1399435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/reddit-3904904.jpg?tf=1200x' alt='¿Cuáles son los principales intereses de Reddit en España?' />
     </a>
 </div>
 
