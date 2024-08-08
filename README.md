@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuales-son-principales-intereses-reddit-espana-1399435'>¿Cuáles son los principales intereses de Reddit en España?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuales-son-principales-intereses-reddit-espana-1399435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/reddit-3904904.jpg?tf=1200x' alt='¿Cuáles son los principales intereses de Reddit en España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/intel-no-encuentra-solucion-cpu-13a-14a-generacion-fabricantes-toman-decisiones-drasticas-1399419'>Intel no encuentra la solución para sus CPU de 13ª y 14ª generación y los fabricantes toman decisiones drásticas</a></h4>
+    <a href='https://computerhoy.com/pc/intel-no-encuentra-solucion-cpu-13a-14a-generacion-fabricantes-toman-decisiones-drasticas-1399419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/intel-no-encuentra-solucion-cpu-13a-14a-generacion-fabricantes-toman-decision-3904338.jpg?tf=1200x' alt='Intel no encuentra la solución para sus CPU de 13ª y 14ª generación y los fabricantes toman decisiones drásticas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/convierte-movil-pc-monitor-te-permite-usarlo-como-ordenador-teclado-raton-1399137'>Convierte tu móvil en un PC: este monitor te permite usarlo como un ordenador, con teclado y ratón</a></h4>
     <a href='https://computerhoy.com/tecnologia/convierte-movil-pc-monitor-te-permite-usarlo-como-ordenador-teclado-raton-1399137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/arzopa-s1-3890057.jpg?tf=1200x' alt='Convierte tu móvil en un PC: este monitor te permite usarlo como un ordenador, con teclado y ratón' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/adios-ublock-origin-despidete-mejores-bloqueadores-anuncios-chrome-1399065'>¡Adiós uBlock Origin! Despídete de uno de los mejores bloqueadores de anuncios en Chrome</a></h4>
     <a href='https://computerhoy.com/internet/adios-ublock-origin-despidete-mejores-bloqueadores-anuncios-chrome-1399065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/adios-ublock-origin-adios-mejores-bloqueadores-anuncios-chrome-3889703.jpg?tf=1200x' alt='¡Adiós uBlock Origin! Despídete de uno de los mejores bloqueadores de anuncios en Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/revolucion-coche-electrico-llega-barcelona-primera-estacion-carga-alimenta-energia-trenes-1398638'>La revolución del coche eléctrico llega a Barcelona: primera estación de carga que se alimenta con la energía de los trenes</a></h4>
-    <a href='https://computerhoy.com/motor/revolucion-coche-electrico-llega-barcelona-primera-estacion-carga-alimenta-energia-trenes-1398638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/revolucion-ecologica-barcelona-estacion-carga-alimenta-energia-trenes-3861535.jpg?tf=1200x' alt='La revolución del coche eléctrico llega a Barcelona: primera estación de carga que se alimenta con la energía de los trenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desastre-absoluto-humane-ai-pin-devuelven-dispositivos-compran-1399405'>Desastre absoluto del Humane Ai Pin: se devuelven más dispositivos de los que se compran</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desastre-absoluto-humane-ai-pin-devuelven-dispositivos-compran-1399405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/preocupante-dato-humane-ai-pin-devuelven-dispositivos-compran-3904006.jpg?tf=1200x' alt='Desastre absoluto del Humane Ai Pin: se devuelven más dispositivos de los que se compran' />
     </a>
 </div>
 
