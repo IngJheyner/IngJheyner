@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432'>Cómo calibrar Google Maps en Android para que sea más preciso</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-calibrar-google-maps-android-sea-mucho-preciso-3293460.jpg?tf=1200x' alt='Cómo calibrar Google Maps en Android para que sea más preciso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/nina-11-anos-inventa-taza-especial-ayudar-abuelo-parkinson-convierte-millonaria-1399375'>Una niña de 11 años inventa una taza especial para ayudar a su abuelo con párkinson y se convierte en millonaria</a></h4>
+    <a href='https://computerhoy.com/life/nina-11-anos-inventa-taza-especial-ayudar-abuelo-parkinson-convierte-millonaria-1399375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lily-born-3903676.jpg?tf=1200x' alt='Una niña de 11 años inventa una taza especial para ayudar a su abuelo con párkinson y se convierte en millonaria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/encuentran-inquietante-vulnerabilidad-downgrade-capaz-revertir-actualizaciones-seguridad-windows-1399365'>Encuentran una inquietante vulnerabilidad “downgrade” capaz de revertir las actualizaciones de seguridad de Windows</a></h4>
     <a href='https://computerhoy.com/tecnologia/encuentran-inquietante-vulnerabilidad-downgrade-capaz-revertir-actualizaciones-seguridad-windows-1399365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vulnerabilidad-windows-3903672.jpg?tf=1200x' alt='Encuentran una inquietante vulnerabilidad “downgrade” capaz de revertir las actualizaciones de seguridad de Windows' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-ver-gratis-canales-tdt-espana-movil-gratis-instalar-nada-1308014'>La forma definitiva para ver la TDT en el móvil: más de 4.000 canales sin instalar nada y gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-ver-gratis-canales-tdt-espana-movil-gratis-instalar-nada-1308014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-gratis-canales-tdt-espana-resto-mundo-movil-instalar-nada-3139522.jpg?tf=1200x' alt='La forma definitiva para ver la TDT en el móvil: más de 4.000 canales sin instalar nada y gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hackberrypi-raspberry-pi-hackear-alternativa-flipper-zero-1399361'>HackberryPi, la Raspberry Pi para hackear que convierte a Flipper Zero en un juguete</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hackberrypi-raspberry-pi-hackear-alternativa-flipper-zero-1399361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hackberrypi-raspberry-pi-hackear-convierte-flipper-zero-juguete-3902861.jpg?tf=1200x' alt='HackberryPi, la Raspberry Pi para hackear que convierte a Flipper Zero en un juguete' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-google-maps-gasolinera-cercana-barata-1399129'>Cómo encontrar con Google Maps la gasolinera más cercana (y barata) a tu ubicación</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-encontrar-google-maps-gasolinera-cercana-barata-1399129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gasolinera-google-maps-3891379.jpg?tf=1200x' alt='Cómo encontrar con Google Maps la gasolinera más cercana (y barata) a tu ubicación' />
     </a>
 </div>
 
