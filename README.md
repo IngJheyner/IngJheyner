@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/hackberrypi-raspberry-pi-hackear-alternativa-flipper-zero-1399361'>HackberryPi, la Raspberry Pi para hackear que convierte a Flipper Zero en un juguete</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hackberrypi-raspberry-pi-hackear-alternativa-flipper-zero-1399361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hackberrypi-raspberry-pi-hackear-convierte-flipper-zero-juguete-3902861.jpg?tf=1200x' alt='HackberryPi, la Raspberry Pi para hackear que convierte a Flipper Zero en un juguete' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-google-maps-gasolinera-cercana-barata-1399129'>Cómo encontrar con Google Maps la gasolinera más cercana (y barata) a tu ubicación</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-encontrar-google-maps-gasolinera-cercana-barata-1399129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gasolinera-google-maps-3891379.jpg?tf=1200x' alt='Cómo encontrar con Google Maps la gasolinera más cercana (y barata) a tu ubicación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/internet-no-siempre-ha-desaparecido-pasado-ultimos-diez-anos-1399257'>Internet no es para siempre: así ha desaparecido su pasado en los últimos diez años</a></h4>
     <a href='https://computerhoy.com/internet/internet-no-siempre-ha-desaparecido-pasado-ultimos-diez-anos-1399257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/internet-no-siempre-ha-desaparecido-pasado-ultimos-diez-anos-3897243.jpg?tf=1200x' alt='Internet no es para siempre: así ha desaparecido su pasado en los últimos diez años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-auriculares-dyson-ontrac-diseno-no-te-dejara-indiferente-gran-cancelacion-ruido-1398250'>He probado los auriculares Dyson OnTrac: un diseño que no te dejará indiferente con una gran cancelación de ruido</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-auriculares-dyson-ontrac-diseno-no-te-dejara-indiferente-gran-cancelacion-ruido-1398250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dyson-ontrac-3877225.jpg?tf=1200x' alt='He probado los auriculares Dyson OnTrac: un diseño que no te dejará indiferente con una gran cancelación de ruido' />
     </a>
 </div>
 
