@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/mediatek-sigue-linea-dimensity-9300-30-rendimiento-9400-ap-1399583'>MediaTek sigue en la línea del Dimensity 9300 con un 30% más de rendimiento para el 9400 AP</a></h4>
+    <a href='https://computerhoy.com/moviles/mediatek-sigue-linea-dimensity-9300-30-rendimiento-9400-ap-1399583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mediatek-sigue-linea-dimensity-9300-30-rendimiento-9400-ap-3911613.jpg?tf=1200x' alt='MediaTek sigue en la línea del Dimensity 9300 con un 30% más de rendimiento para el 9400 AP' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ejercito-eeuu-gasto-2-millones-dolares-videoconsolas-no-jugar-call-duty-1398648'>Militares de EEUU gastaron más de 2 millones de dólares en consolas de videojuegos, y no para jugar al Call of Duty</a></h4>
+    <a href='https://computerhoy.com/gaming/ejercito-eeuu-gasto-2-millones-dolares-videoconsolas-no-jugar-call-duty-1398648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/soldado-jugando-consola-3882775.jpg?tf=1200x' alt='Militares de EEUU gastaron más de 2 millones de dólares en consolas de videojuegos, y no para jugar al Call of Duty' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-almacenamiento-gmail-gratis-pagar-ni-perder-correos-1398052'>¿Bandeja de Gmail llena? Cómo recuperar gratis los 15 GB de almacenamiento sin pagar ni borrar un solo mensaje</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-almacenamiento-gmail-gratis-pagar-ni-perder-correos-1398052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bandeja-gmail-llena-como-recuperar-15-gb-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-3842749.jpg?tf=1200x' alt='¿Bandeja de Gmail llena? Cómo recuperar gratis los 15 GB de almacenamiento sin pagar ni borrar un solo mensaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/mini-pc-16-gb-ram-1-tb-ssd-brutal-pero-precio-apenas-supera-100-euros-1399585'>Este mini PC con hasta 16 GB de RAM y 1 TB de SSD es brutal, pero su precio apenas supera los 100 euros</a></h4>
     <a href='https://computerhoy.com/pc/mini-pc-16-gb-ram-1-tb-ssd-brutal-pero-precio-apenas-supera-100-euros-1399585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/firebat-3911785.jpg?tf=1200x' alt='Este mini PC con hasta 16 GB de RAM y 1 TB de SSD es brutal, pero su precio apenas supera los 100 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/openai-asegura-informe-gpt-4o-tiene-nivel-riesgo-medio-1399561'>OpenAI asegura en un informe que GPT-4o tiene un nivel de riesgo "medio"</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-asegura-informe-gpt-4o-tiene-nivel-riesgo-medio-1399561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/openai-asegura-informe-gpt-4o-tiene-nivel-riesgo-medio-3911251.jpg?tf=1200x' alt='OpenAI asegura en un informe que GPT-4o tiene un nivel de riesgo "medio"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/regla-30-steve-jobs-debes-seguir-quieres-conseguir-exito-vida-1304546'>La regla del 30% de Steve Jobs que debes seguir si quieres conseguir el éxito en la vida</a></h4>
-    <a href='https://computerhoy.com/life/regla-30-steve-jobs-debes-seguir-quieres-conseguir-exito-vida-1304546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/regla-30-steve-jobs-puedes-adoptar-impulsar-vida-profesional-3133830.jpg?tf=1200x' alt='La regla del 30% de Steve Jobs que debes seguir si quieres conseguir el éxito en la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alerta-android-auto-fallos-funciones-clave-ultima-actualizacion-1399551'>Alerta Android Auto: fallos en funciones clave tras la última actualización</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alerta-android-auto-fallos-funciones-clave-ultima-actualizacion-1399551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-auto-3911253.jpg?tf=1200x' alt='Alerta Android Auto: fallos en funciones clave tras la última actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ia-apple-no-sera-gratis-podria-costarte-tener-apple-intelligence-iphone-1399544'>La IA de Apple no será gratis: esto es lo que podría costarte tener Apple Intelligence en tu iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/ia-apple-no-sera-gratis-podria-costarte-tener-apple-intelligence-iphone-1399544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-ia-3911075.jpg?tf=1200x' alt='La IA de Apple no será gratis: esto es lo que podría costarte tener Apple Intelligence en tu iPhone' />
     </a>
 </div>
 
