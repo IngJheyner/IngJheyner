@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/mini-pc-16-gb-ram-1-tb-ssd-brutal-pero-precio-apenas-supera-100-euros-1399585'>Este mini PC con hasta 16 GB de RAM y 1 TB de SSD es brutal, pero su precio apenas supera los 100 euros</a></h4>
+    <a href='https://computerhoy.com/pc/mini-pc-16-gb-ram-1-tb-ssd-brutal-pero-precio-apenas-supera-100-euros-1399585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/firebat-3911785.jpg?tf=1200x' alt='Este mini PC con hasta 16 GB de RAM y 1 TB de SSD es brutal, pero su precio apenas supera los 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-asegura-informe-gpt-4o-tiene-nivel-riesgo-medio-1399561'>OpenAI asegura en un informe que GPT-4o tiene un nivel de riesgo "medio"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-asegura-informe-gpt-4o-tiene-nivel-riesgo-medio-1399561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/openai-asegura-informe-gpt-4o-tiene-nivel-riesgo-medio-3911251.jpg?tf=1200x' alt='OpenAI asegura en un informe que GPT-4o tiene un nivel de riesgo "medio"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/regla-30-steve-jobs-debes-seguir-quieres-conseguir-exito-vida-1304546'>La regla del 30% de Steve Jobs que debes seguir si quieres conseguir el éxito en la vida</a></h4>
+    <a href='https://computerhoy.com/life/regla-30-steve-jobs-debes-seguir-quieres-conseguir-exito-vida-1304546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/regla-30-steve-jobs-puedes-adoptar-impulsar-vida-profesional-3133830.jpg?tf=1200x' alt='La regla del 30% de Steve Jobs que debes seguir si quieres conseguir el éxito en la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/alerta-android-auto-fallos-funciones-clave-ultima-actualizacion-1399551'>Alerta Android Auto: fallos en funciones clave tras la última actualización</a></h4>
     <a href='https://computerhoy.com/tecnologia/alerta-android-auto-fallos-funciones-clave-ultima-actualizacion-1399551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-auto-3911253.jpg?tf=1200x' alt='Alerta Android Auto: fallos en funciones clave tras la última actualización' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/ia-apple-no-sera-gratis-podria-costarte-tener-apple-intelligence-iphone-1399544'>La IA de Apple no será gratis: esto es lo que podría costarte tener Apple Intelligence en tu iPhone</a></h4>
     <a href='https://computerhoy.com/apple/ia-apple-no-sera-gratis-podria-costarte-tener-apple-intelligence-iphone-1399544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-ia-3911075.jpg?tf=1200x' alt='La IA de Apple no será gratis: esto es lo que podría costarte tener Apple Intelligence en tu iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-robot-autonomo-dentista-ha-completado-tratamiento-dental-1399546'>Este es el primer robot autónomo dentista que ha completado un tratamiento dental</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-robot-autonomo-dentista-ha-completado-tratamiento-dental-1399546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/primer-robot-autonomo-dentista-ha-completado-tratamiento-dental-3910759.jpg?tf=1200x' alt='Este es el primer robot autónomo dentista que ha completado un tratamiento dental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-probado-durante-temporada-waze-echo-menos-google-maps-1298518'>He probado durante una temporada Waze y esto es lo que echo de menos de Google Maps</a></h4>
-    <a href='https://computerhoy.com/apps/he-probado-durante-temporada-waze-echo-menos-google-maps-1298518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/waze-3123648.jpg?tf=1200x' alt='He probado durante una temporada Waze y esto es lo que echo de menos de Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/puede-tesla-enfrentarse-atasco-infernal-1399077'>¿Puede un Tesla enfrentarse a un atasco infernal?</a></h4>
-    <a href='https://computerhoy.com/motor/puede-tesla-enfrentarse-atasco-infernal-1399077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tesla-infierno-3890054.jpg?tf=1200x' alt='¿Puede un Tesla enfrentarse a un atasco infernal?' />
     </a>
 </div>
 
