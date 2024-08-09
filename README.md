@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/solo-necesitas-8-minutos-tiktok-ver-contenido-pueda-danar-percepcion-imagen-corporal-1399603'>Solo necesitas 8 minutos en TikTok para ver contenido que pueda dañar tu percepción de tu imagen corporal</a></h4>
-    <a href='https://computerhoy.com/redes/solo-necesitas-8-minutos-tiktok-ver-contenido-pueda-danar-percepcion-imagen-corporal-1399603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/solo-necesitas-8-minutos-tiktok-ver-contenido-pueda-danar-percepcion-imagen-corporal-3912277.jpg?tf=1200x' alt='Solo necesitas 8 minutos en TikTok para ver contenido que pueda dañar tu percepción de tu imagen corporal' />
+    <h4><a href='https://computerhoy.com/apps/todo-chrome-navegador-google-utilizado-mundo-1399078'>Todo sobre Chrome, el navegador de Google y el más utilizado del mundo</a></h4>
+    <a href='https://computerhoy.com/apps/todo-chrome-navegador-google-utilizado-mundo-1399078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-chrome-3896279.jpg?tf=1200x' alt='Todo sobre Chrome, el navegador de Google y el más utilizado del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-pico-2-doble-potente-predecesora-ya-puedes-hacer-ella-1399596'>Raspberry Pi Pico 2 es el doble de potente que su predecesora y ya puedes hacer con ella</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-pico-2-doble-potente-predecesora-ya-puedes-hacer-ella-1399596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/raspberry-pi-pico-2-doble-potente-predecesora-ya-ha-salido-venta-3911955.jpg?tf=1200x' alt='Raspberry Pi Pico 2 es el doble de potente que su predecesora y ya puedes hacer con ella' />
+    <h4><a href='https://computerhoy.com/apps/waze-aviso-radares-velocidad-carretera-1398493'>¿Por qué Waze te ha dejado de avisar de los radares de velocidad que hay en la carretera?</a></h4>
+    <a href='https://computerhoy.com/apps/waze-aviso-radares-velocidad-carretera-1398493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alertas-waze-3913294.jpg?tf=1200x' alt='¿Por qué Waze te ha dejado de avisar de los radares de velocidad que hay en la carretera?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/invento-espanol-impresion-3d-promete-construir-edificios-4-veces-rapido-1399609'>El invento español de impresión 3D que promete construir edificios hasta 4 veces más rápido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/invento-espanol-impresion-3d-promete-construir-edificios-4-veces-rapido-1399609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/casas-3d-3912309.jpg?tf=1200x' alt='El invento español de impresión 3D que promete construir edificios hasta 4 veces más rápido' />
+    <h4><a href='https://computerhoy.com/tecnologia/consejos-reducir-factura-luz-verano-renunciar-aire-acondicionado-1399618'>6 consejos para reducir la factura de la luz este verano sin renunciar al aire acondicionado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/consejos-reducir-factura-luz-verano-renunciar-aire-acondicionado-1399618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aire-acondicionado-3912641.jpg?tf=1200x' alt='6 consejos para reducir la factura de la luz este verano sin renunciar al aire acondicionado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/casi-todos-pc-windows-10-pueden-actualizar-windows-11-empresas-resisten-1399579'>Casi todos los PC con Windows 10 se pueden actualizar Windows 11: ¿por qué las empresas se resisten?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/casi-todos-pc-windows-10-pueden-actualizar-windows-11-empresas-resisten-1399579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-3911950.jpg?tf=1200x' alt='Casi todos los PC con Windows 10 se pueden actualizar Windows 11: ¿por qué las empresas se resisten?' />
+    <h4><a href='https://computerhoy.com/motor/dgt-documentos-fisicos-coche-obligatorios-1398544'>La DGT te obliga ahora a llevar tres documentos físicos en el coche, por suerte uno puedes llevarlo en el móvil</a></h4>
+    <a href='https://computerhoy.com/motor/dgt-documentos-fisicos-coche-obligatorios-1398544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dgt-obliga-ahora-llevar-tres-documentos-fisicos-coche-aunque-puedes-llevarlo-movil-3859935.jpg?tf=1200x' alt='La DGT te obliga ahora a llevar tres documentos físicos en el coche, por suerte uno puedes llevarlo en el móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/como-mejorar-velocidad-wifi-tecnicas-feng-shui-1298100'>El truco viral para mejorar la velocidad de tu WiFi con técnicas de feng shui</a></h4>
-    <a href='https://computerhoy.com/redes/como-mejorar-velocidad-wifi-tecnicas-feng-shui-1298100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/aplica-tecnica-feng-shui-router-wifi-3122966.jpg?tf=1200x' alt='El truco viral para mejorar la velocidad de tu WiFi con técnicas de feng shui' />
+    <h4><a href='https://computerhoy.com/apps/codigos-waze-funciones-opciones-ocultas-1392938'>Waze es genial, pero desde que conseguí desbloquear sus funciones ocultas, le da mil vueltas a Google Maps</a></h4>
+    <a href='https://computerhoy.com/apps/codigos-waze-funciones-opciones-ocultas-1392938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-3889151.jpg?tf=1200x' alt='Waze es genial, pero desde que conseguí desbloquear sus funciones ocultas, le da mil vueltas a Google Maps' />
     </a>
 </div>
 
