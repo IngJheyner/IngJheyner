@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/genial-truco-viral-odiosos-nuevos-tapones-botellas-no-te-molesten-beber-1399322'>El genial truco viral para que los odiosos nuevos tapones de las botellas no te molesten al beber</a></h4>
-    <a href='https://computerhoy.com/alimentacion/genial-truco-viral-odiosos-nuevos-tapones-botellas-no-te-molesten-beber-1399322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/enfado-tapones-botellas-3904716.jpg?tf=1200x' alt='El genial truco viral para que los odiosos nuevos tapones de las botellas no te molesten al beber' />
+    <h4><a href='https://computerhoy.com/pc/cuanto-dura-ssd-trucos-consejos-alargar-vida-disco-1398928'>¿Cuánto dura un SSD? Trucos y consejos para alargar la vida de tu disco</a></h4>
+    <a href='https://computerhoy.com/pc/cuanto-dura-ssd-trucos-consejos-alargar-vida-disco-1398928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instalacion-disco-duro-ssd-3883812.jpg?tf=1200x' alt='¿Cuánto dura un SSD? Trucos y consejos para alargar la vida de tu disco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/olvida-steam-deck-consola-game-pass-nube-1383903'>Olvida la Steam Deck: esta consola Logitech tiene Game Pass para jugar en la nube, y mucho más barata</a></h4>
-    <a href='https://computerhoy.com/android/olvida-steam-deck-consola-game-pass-nube-1383903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/logitech-g-cloud-3904507.jpg?tf=1200x' alt='Olvida la Steam Deck: esta consola Logitech tiene Game Pass para jugar en la nube, y mucho más barata' />
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-huawei-windows-11-precio-brutal-1384667'>Pantalla brutal de 16" y Windows 11, pero lo mejor de este portátil Huawei es el precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-huawei-windows-11-precio-brutal-1384667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-matebook-d16-analisis-opinion-2751357.jpg?tf=1200x' alt='Pantalla brutal de 16" y Windows 11, pero lo mejor de este portátil Huawei es el precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar según tu presupuesto</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-fold-6-3755668.jpg?tf=1200x' alt='Los mejores móviles Samsung que puedes comprar según tu presupuesto' />
+    <h4><a href='https://computerhoy.com/ciencia/tierra-tiene-seis-continentes-no-siete-afirma-nuevo-sorprendente-estudio-1399454'>La Tierra tiene seis continentes, no siete, afirma un nuevo y sorprendente estudio</a></h4>
+    <a href='https://computerhoy.com/ciencia/tierra-tiene-seis-continentes-no-siete-afirma-nuevo-sorprendente-estudio-1399454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/continentes-tierra-3905263.jpg?tf=1200x' alt='La Tierra tiene seis continentes, no siete, afirma un nuevo y sorprendente estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/trucos-virales-tiktok-debes-conocer-montas-avion-menudo-1399450'>Los trucos virales de TikTok que debes conocer si montas en avión a menudo</a></h4>
-    <a href='https://computerhoy.com/life/trucos-virales-tiktok-debes-conocer-montas-avion-menudo-1399450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/truco-tiktok-debes-conocer-utilizas-auriculares-aviones-3904728.jpg?tf=1200x' alt='Los trucos virales de TikTok que debes conocer si montas en avión a menudo' />
+    <h4><a href='https://computerhoy.com/ciencia/audio-gato-cuatro-orejas-1399534'>Audio, el gato con cuatro orejas que es un tesoro genético</a></h4>
+    <a href='https://computerhoy.com/ciencia/audio-gato-cuatro-orejas-1399534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/audio-gato-cuatro-orejas-tesoro-genetico-3909983.jpg?tf=1200x' alt='Audio, el gato con cuatro orejas que es un tesoro genético' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mucha-gente-acaba-dar-cuenta-sirve-parte-plancha-1399527'>Mucha gente se acaba de dar cuenta para qué sirve esta parte de la plancha</a></h4>
-    <a href='https://computerhoy.com/life/mucha-gente-acaba-dar-cuenta-sirve-parte-plancha-1399527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mucha-gente-acaba-dar-cuenta-sirve-parte-plancha-3908906.jpg?tf=1200x' alt='Mucha gente se acaba de dar cuenta para qué sirve esta parte de la plancha' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-qrevo-master-roborock-puede-suciedad-esquinas-aunque-precio-no-acompana-1397312'>He probado la Qrevo Master de Roborock y puede hasta con la suciedad de las esquinas, aunque su precio no acompaña</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-qrevo-master-roborock-puede-suciedad-esquinas-aunque-precio-no-acompana-1397312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/roborock-qrevo-master-3883632.jpg?tf=1200x' alt='He probado la Qrevo Master de Roborock y puede hasta con la suciedad de las esquinas, aunque su precio no acompaña' />
     </a>
 </div>
 
