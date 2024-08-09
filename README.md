@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/rival-barato-ipad-xiaomi-redmi-pad-pro-apenas-cuesta-250-euros-potentisima-1399510'>El rival barato del iPad es Xiaomi: la Redmi Pad Pro apenas cuesta 250 euros y es potentísima</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rival-barato-ipad-xiaomi-redmi-pad-pro-apenas-cuesta-250-euros-potentisima-1399510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/redmi-pad-pro-3906556.jpg?tf=1200x' alt='El rival barato del iPad es Xiaomi: la Redmi Pad Pro apenas cuesta 250 euros y es potentísima' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/todo-tim-cook-infancia-llevar-apple-alto-1399280'>Todo sobre Tim Cook: desde su infancia hasta llevar a Apple a lo más alto</a></h4>
+    <a href='https://computerhoy.com/apple/todo-tim-cook-infancia-llevar-apple-alto-1399280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tim-cook-apple-3904885.jpg?tf=1200x' alt='Todo sobre Tim Cook: desde su infancia hasta llevar a Apple a lo más alto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/tienes-siempre-activado-movil-puede-convertirse-pesadilla-quitalo-ya-1399663'>Lo tienes siempre activado en el móvil y puede convertirse en una pesadilla: quítalo ya</a></h4>
+    <a href='https://computerhoy.com/moviles/tienes-siempre-activado-movil-puede-convertirse-pesadilla-quitalo-ya-1399663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-siempre-activado-movil-puede-convertirse-pesadilla-quitalo-ya-3914106.jpg?tf=1200x' alt='Lo tienes siempre activado en el móvil y puede convertirse en una pesadilla: quítalo ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/estas-son-temperaturas-ideales-tienen-funcionar-componentes-pc-1393787'>Estas son las temperaturas ideales a las que tienen que funcionar los componentes de tu PC</a></h4>
+    <a href='https://computerhoy.com/pc/estas-son-temperaturas-ideales-tienen-funcionar-componentes-pc-1393787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estas-son-temperaturas-ideales-tienen-funcionar-componentes-pc-3646426.jpg?tf=1200x' alt='Estas son las temperaturas ideales a las que tienen que funcionar los componentes de tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/mejores-antivirus-windows-prueba-proteccion-mundo-real-1308142'>Los mejores antivirus para Windows en la prueba de protección del mundo real</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/mejores-antivirus-windows-prueba-proteccion-mundo-real-1308142' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/antivirus-adecuado-movil-pc-2202543.jpg?tf=1200x' alt='Los mejores antivirus para Windows en la prueba de protección del mundo real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5g-son-redes-quinta-generacion-diferencia-hay-4g-como-activarlo-movil-1399284'>5G: qué son las redes de quinta generación, qué diferencia hay con el 4G y cómo activarlo en tu móvil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5g-son-redes-quinta-generacion-diferencia-hay-4g-como-activarlo-movil-1399284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/redes-moviles-5g-3904720.jpg?tf=1200x' alt='5G: qué son las redes de quinta generación, qué diferencia hay con el 4G y cómo activarlo en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cientifico-afirma-humanos-alcanzaran-singularidad-solo-21-anos-1399601'>Un científico afirma que los humanos alcanzarán la singularidad en solo 21 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cientifico-afirma-humanos-alcanzaran-singularidad-solo-21-anos-1399601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/foto-ia-3912121.jpg?tf=1200x' alt='Un científico afirma que los humanos alcanzarán la singularidad en solo 21 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/spacex-compania-espacial-elon-musk-origen-contratos-nasa-polemicas-1399311'>SpaceX, la compañía espacial de Elon Musk: origen, contratos con la NASA y polémicas</a></h4>
-    <a href='https://computerhoy.com/espacio/spacex-compania-espacial-elon-musk-origen-contratos-nasa-polemicas-1399311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/elon-musk-marte-spacex-3898899.jpg?tf=1200x' alt='SpaceX, la compañía espacial de Elon Musk: origen, contratos con la NASA y polémicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/son-discos-convertidores-placas-induccion-son-peligrosos-1399351'>Qué son los discos convertidores para placas de inducción: ¿son peligrosos?</a></h4>
-    <a href='https://computerhoy.com/hogar/son-discos-convertidores-placas-induccion-son-peligrosos-1399351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/discos-convertidores-induccion-3912120.jpg?tf=1200x' alt='Qué son los discos convertidores para placas de inducción: ¿son peligrosos?' />
     </a>
 </div>
 
