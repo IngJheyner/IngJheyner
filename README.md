@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dall-3-gratis-crear-imagenes-chatgpt-1399691'>Ya puedes usar DALL-E 3 gratis en ChatGPT, para crear imágenes sin suscripción</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dall-3-gratis-crear-imagenes-chatgpt-1399691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/puedes-usar-dall-3-gratis-crear-imagenes-suscripcion-3915059.jpg?tf=1200x' alt='Ya puedes usar DALL-E 3 gratis en ChatGPT, para crear imágenes sin suscripción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-solucionara-dos-grandes-problemas-graves-predecesora-tiempo-carga-temperatura-1399688'>Nintendo Switch 2 solucionará dos grandes problemas graves de su predecesora: tiempo de carga y temperatura</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-2-solucionara-dos-grandes-problemas-graves-predecesora-tiempo-carga-temperatura-1399688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nintendo-switch-3915371.jpg?tf=1200x' alt='Nintendo Switch 2 solucionará dos grandes problemas graves de su predecesora: tiempo de carga y temperatura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/miedo-volar-cifra-magica-te-quitara-todos-miedos-1399687'>¿Miedo a volar? La cifra mágica que te quitará todos tus miedos</a></h4>
+    <a href='https://computerhoy.com/life/miedo-volar-cifra-magica-te-quitara-todos-miedos-1399687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/viajar-avion-3915369.jpg?tf=1200x' alt='¿Miedo a volar? La cifra mágica que te quitará todos tus miedos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tdtchannels-amplia-sorpresa-numero-canales-tv-gratis-registro-ni-instalacion-1399686'>TDTChannels amplía por sorpresa el número de canales de TV gratis sin registro ni instalación</a></h4>
+    <a href='https://computerhoy.com/apps/tdtchannels-amplia-sorpresa-numero-canales-tv-gratis-registro-ni-instalacion-1399686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels amplía por sorpresa el número de canales de TV gratis sin registro ni instalación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/cargas-movil-android-durante-noche-sencillo-gesto-te-ayudara-bateria-dure-mucho-1399672'>Si cargas tu móvil Android durante la noche, este sencillo gesto te ayudará a que la batería dure mucho más</a></h4>
     <a href='https://computerhoy.com/moviles/cargas-movil-android-durante-noche-sencillo-gesto-te-ayudara-bateria-dure-mucho-1399672' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cargas-movil-android-durante-noche-sencillo-gesto-te-ayudara-bateria-dure-mucho-3915214.jpg?tf=1200x' alt='Si cargas tu móvil Android durante la noche, este sencillo gesto te ayudará a que la batería dure mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-origen-compra-google-alternativas-como-monetizar-canal-1397504'>Qué es YouTube: origen, compra de Google, alternativas y cómo monetizar un canal</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-origen-compra-google-alternativas-como-monetizar-canal-1397504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/youtube-lanza-cerrar-aplicaciones-terceros-como-revanced-3300362.jpg?tf=1200x' alt='Qué es YouTube: origen, compra de Google, alternativas y cómo monetizar un canal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/batman-cruzado-enmascarado-convence-amazon-prime-video-altura-serie-animada-1399294'>Batman: El cruzado enmascarado convence en Amazon Prime Video: “está a la altura de su serie animada”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/batman-cruzado-enmascarado-convence-amazon-prime-video-altura-serie-animada-1399294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/batman-cruzado-enmascarado-convence-amazon-prime-video-altura-serie-animada-3898080.jpg?tf=1200x' alt='Batman: El cruzado enmascarado convence en Amazon Prime Video: “está a la altura de su serie animada”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/movistar-todo-debes-saber-operador-grande-espana-movistar-plus-1394562'>Movistar: todo lo que debes saber sobre el operador más grande de España y Movistar Plus</a></h4>
-    <a href='https://computerhoy.com/industria/movistar-todo-debes-saber-operador-grande-espana-movistar-plus-1394562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/telefonica-3705555.jpg?tf=1200x' alt='Movistar: todo lo que debes saber sobre el operador más grande de España y Movistar Plus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/stephen-king-rinde-thrillers-ano-realmente-terrorifica-1399486'>Stephen King se rinde ante uno de los thrillers del año: “es realmente terrorífica”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/stephen-king-rinde-thrillers-ano-realmente-terrorifica-1399486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stephen-king-confuso-3664345.jpg?tf=1200x' alt='Stephen King se rinde ante uno de los thrillers del año: “es realmente terrorífica”' />
     </a>
 </div>
 
