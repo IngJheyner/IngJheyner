@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/genial-truco-viral-odiosos-nuevos-tapones-botellas-no-te-molesten-beber-1399322'>El genial truco viral para que los odiosos nuevos tapones de las botellas no te molesten al beber</a></h4>
+    <a href='https://computerhoy.com/alimentacion/genial-truco-viral-odiosos-nuevos-tapones-botellas-no-te-molesten-beber-1399322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/enfado-tapones-botellas-3904716.jpg?tf=1200x' alt='El genial truco viral para que los odiosos nuevos tapones de las botellas no te molesten al beber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/olvida-steam-deck-consola-game-pass-nube-1383903'>Olvida la Steam Deck: esta consola Logitech tiene Game Pass para jugar en la nube, y mucho más barata</a></h4>
+    <a href='https://computerhoy.com/android/olvida-steam-deck-consola-game-pass-nube-1383903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/logitech-g-cloud-3904507.jpg?tf=1200x' alt='Olvida la Steam Deck: esta consola Logitech tiene Game Pass para jugar en la nube, y mucho más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar según tu presupuesto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-fold-6-3755668.jpg?tf=1200x' alt='Los mejores móviles Samsung que puedes comprar según tu presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/trucos-virales-tiktok-debes-conocer-montas-avion-menudo-1399450'>Los trucos virales de TikTok que debes conocer si montas en avión a menudo</a></h4>
     <a href='https://computerhoy.com/life/trucos-virales-tiktok-debes-conocer-montas-avion-menudo-1399450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/truco-tiktok-debes-conocer-utilizas-auriculares-aviones-3904728.jpg?tf=1200x' alt='Los trucos virales de TikTok que debes conocer si montas en avión a menudo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/mucha-gente-acaba-dar-cuenta-sirve-parte-plancha-1399527'>Mucha gente se acaba de dar cuenta para qué sirve esta parte de la plancha</a></h4>
     <a href='https://computerhoy.com/life/mucha-gente-acaba-dar-cuenta-sirve-parte-plancha-1399527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mucha-gente-acaba-dar-cuenta-sirve-parte-plancha-3908906.jpg?tf=1200x' alt='Mucha gente se acaba de dar cuenta para qué sirve esta parte de la plancha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nino-escribe-600-lineas-codigo-lanzar-propio-cohete-1399528'>Niño de 11 años escribe 600 líneas de código para lanzar su propio cohete</a></h4>
-    <a href='https://computerhoy.com/espacio/nino-escribe-600-lineas-codigo-lanzar-propio-cohete-1399528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nino-11-anos-aprender-programar-cuenta-escribe-600-lineas-codigo-lanzar-propio-cohete-3908289.jpg?tf=1200x' alt='Niño de 11 años escribe 600 líneas de código para lanzar su propio cohete' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/matematico-explica-absurdo-circular-120-km-h-autovia-1399514'>Un matemático explica por qué es absurdo circular a más de 120 Km/h por la autovía</a></h4>
-    <a href='https://computerhoy.com/motor/matematico-explica-absurdo-circular-120-km-h-autovia-1399514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/matematico-explica-absurdo-circular-120-km-h-autovia-3908135.jpg?tf=1200x' alt='Un matemático explica por qué es absurdo circular a más de 120 Km/h por la autovía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/google-meta-aliaron-secreto-mostrar-anuncios-instagram-menores-youtube-1399526'>Google y Meta se aliaron en secreto para mostrar anuncios de Instagram a menores en YouTube</a></h4>
-    <a href='https://computerhoy.com/redes/google-meta-aliaron-secreto-mostrar-anuncios-instagram-menores-youtube-1399526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-meta-aliaron-secreto-mostrar-anuncios-instagram-menores-youtube-3907046.jpg?tf=1200x' alt='Google y Meta se aliaron en secreto para mostrar anuncios de Instagram a menores en YouTube' />
     </a>
 </div>
 
