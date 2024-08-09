@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ia-apple-no-sera-gratis-podria-costarte-tener-apple-intelligence-iphone-1399544'>La IA de Apple no será gratis: esto es lo que podría costarte tener Apple Intelligence en tu iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/ia-apple-no-sera-gratis-podria-costarte-tener-apple-intelligence-iphone-1399544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-ia-3911075.jpg?tf=1200x' alt='La IA de Apple no será gratis: esto es lo que podría costarte tener Apple Intelligence en tu iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/primer-robot-autonomo-dentista-ha-completado-tratamiento-dental-1399546'>Este es el primer robot autónomo dentista que ha completado un tratamiento dental</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-robot-autonomo-dentista-ha-completado-tratamiento-dental-1399546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/primer-robot-autonomo-dentista-ha-completado-tratamiento-dental-3910759.jpg?tf=1200x' alt='Este es el primer robot autónomo dentista que ha completado un tratamiento dental' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/he-probado-durante-temporada-waze-echo-menos-google-maps-1298518'>He probado durante una temporada Waze y esto es lo que echo de menos de Google Maps</a></h4>
+    <a href='https://computerhoy.com/apps/he-probado-durante-temporada-waze-echo-menos-google-maps-1298518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/waze-3123648.jpg?tf=1200x' alt='He probado durante una temporada Waze y esto es lo que echo de menos de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/puede-tesla-enfrentarse-atasco-infernal-1399077'>¿Puede un Tesla enfrentarse a un atasco infernal?</a></h4>
     <a href='https://computerhoy.com/motor/puede-tesla-enfrentarse-atasco-infernal-1399077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tesla-infierno-3890054.jpg?tf=1200x' alt='¿Puede un Tesla enfrentarse a un atasco infernal?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/cuanto-dura-ssd-trucos-consejos-alargar-vida-disco-1398928'>¿Cuánto dura un SSD? Trucos y consejos para alargar la vida de tu disco</a></h4>
     <a href='https://computerhoy.com/pc/cuanto-dura-ssd-trucos-consejos-alargar-vida-disco-1398928' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instalacion-disco-duro-ssd-3883812.jpg?tf=1200x' alt='¿Cuánto dura un SSD? Trucos y consejos para alargar la vida de tu disco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-huawei-windows-11-precio-brutal-1384667'>Pantalla brutal de 16" y Windows 11, pero lo mejor de este portátil Huawei es el precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-huawei-windows-11-precio-brutal-1384667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-matebook-d16-analisis-opinion-2751357.jpg?tf=1200x' alt='Pantalla brutal de 16" y Windows 11, pero lo mejor de este portátil Huawei es el precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tierra-tiene-seis-continentes-no-siete-afirma-nuevo-sorprendente-estudio-1399454'>La Tierra tiene seis continentes, no siete, afirma un nuevo y sorprendente estudio</a></h4>
-    <a href='https://computerhoy.com/ciencia/tierra-tiene-seis-continentes-no-siete-afirma-nuevo-sorprendente-estudio-1399454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/continentes-tierra-3905263.jpg?tf=1200x' alt='La Tierra tiene seis continentes, no siete, afirma un nuevo y sorprendente estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/audio-gato-cuatro-orejas-1399534'>Audio, el gato con cuatro orejas que es un tesoro genético</a></h4>
-    <a href='https://computerhoy.com/ciencia/audio-gato-cuatro-orejas-1399534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/audio-gato-cuatro-orejas-tesoro-genetico-3909983.jpg?tf=1200x' alt='Audio, el gato con cuatro orejas que es un tesoro genético' />
     </a>
 </div>
 
