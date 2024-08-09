@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/spacex-compania-espacial-elon-musk-origen-contratos-nasa-polemicas-1399311'>SpaceX, la compañía espacial de Elon Musk: origen, contratos con la NASA y polémicas</a></h4>
+    <a href='https://computerhoy.com/espacio/spacex-compania-espacial-elon-musk-origen-contratos-nasa-polemicas-1399311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/elon-musk-marte-spacex-3898899.jpg?tf=1200x' alt='SpaceX, la compañía espacial de Elon Musk: origen, contratos con la NASA y polémicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/son-discos-convertidores-placas-induccion-son-peligrosos-1399351'>Qué son los discos convertidores para placas de inducción: ¿son peligrosos?</a></h4>
+    <a href='https://computerhoy.com/hogar/son-discos-convertidores-placas-induccion-son-peligrosos-1399351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/discos-convertidores-induccion-3912120.jpg?tf=1200x' alt='Qué son los discos convertidores para placas de inducción: ¿son peligrosos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/todo-chrome-navegador-google-utilizado-mundo-1399078'>Todo sobre Chrome, el navegador de Google y el más utilizado del mundo</a></h4>
     <a href='https://computerhoy.com/apps/todo-chrome-navegador-google-utilizado-mundo-1399078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-chrome-3896279.jpg?tf=1200x' alt='Todo sobre Chrome, el navegador de Google y el más utilizado del mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/consejos-reducir-factura-luz-verano-renunciar-aire-acondicionado-1399618'>6 consejos para reducir la factura de la luz este verano sin renunciar al aire acondicionado</a></h4>
     <a href='https://computerhoy.com/tecnologia/consejos-reducir-factura-luz-verano-renunciar-aire-acondicionado-1399618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aire-acondicionado-3912641.jpg?tf=1200x' alt='6 consejos para reducir la factura de la luz este verano sin renunciar al aire acondicionado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/dgt-documentos-fisicos-coche-obligatorios-1398544'>La DGT te obliga ahora a llevar tres documentos físicos en el coche, por suerte uno puedes llevarlo en el móvil</a></h4>
-    <a href='https://computerhoy.com/motor/dgt-documentos-fisicos-coche-obligatorios-1398544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dgt-obliga-ahora-llevar-tres-documentos-fisicos-coche-aunque-puedes-llevarlo-movil-3859935.jpg?tf=1200x' alt='La DGT te obliga ahora a llevar tres documentos físicos en el coche, por suerte uno puedes llevarlo en el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/codigos-waze-funciones-opciones-ocultas-1392938'>Waze es genial, pero desde que conseguí desbloquear sus funciones ocultas, le da mil vueltas a Google Maps</a></h4>
-    <a href='https://computerhoy.com/apps/codigos-waze-funciones-opciones-ocultas-1392938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-3889151.jpg?tf=1200x' alt='Waze es genial, pero desde que conseguí desbloquear sus funciones ocultas, le da mil vueltas a Google Maps' />
     </a>
 </div>
 
