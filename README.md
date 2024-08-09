@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/trucos-virales-tiktok-debes-conocer-montas-avion-menudo-1399450'>Los trucos virales de TikTok que debes conocer si montas en avión a menudo</a></h4>
+    <a href='https://computerhoy.com/life/trucos-virales-tiktok-debes-conocer-montas-avion-menudo-1399450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/truco-tiktok-debes-conocer-utilizas-auriculares-aviones-3904728.jpg?tf=1200x' alt='Los trucos virales de TikTok que debes conocer si montas en avión a menudo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mucha-gente-acaba-dar-cuenta-sirve-parte-plancha-1399527'>Mucha gente se acaba de dar cuenta para qué sirve esta parte de la plancha</a></h4>
     <a href='https://computerhoy.com/life/mucha-gente-acaba-dar-cuenta-sirve-parte-plancha-1399527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mucha-gente-acaba-dar-cuenta-sirve-parte-plancha-3908906.jpg?tf=1200x' alt='Mucha gente se acaba de dar cuenta para qué sirve esta parte de la plancha' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/google-meta-aliaron-secreto-mostrar-anuncios-instagram-menores-youtube-1399526'>Google y Meta se aliaron en secreto para mostrar anuncios de Instagram a menores en YouTube</a></h4>
     <a href='https://computerhoy.com/redes/google-meta-aliaron-secreto-mostrar-anuncios-instagram-menores-youtube-1399526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-meta-aliaron-secreto-mostrar-anuncios-instagram-menores-youtube-3907046.jpg?tf=1200x' alt='Google y Meta se aliaron en secreto para mostrar anuncios de Instagram a menores en YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/industria/ikea-historia-curiosidades-823873'>IKEA: historia y curiosidades de la mayor empresa de muebles del mundo</a></h4>
-    <a href='https://computerhoy.com/reportajes/industria/ikea-historia-curiosidades-823873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ikea-muebles-3698342.jpg?tf=1200x' alt='IKEA: historia y curiosidades de la mayor empresa de muebles del mundo' />
     </a>
 </div>
 
