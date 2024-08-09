@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/mejores-antivirus-windows-prueba-proteccion-mundo-real-1308142'>Los mejores antivirus para Windows en la prueba de protección del mundo real</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/mejores-antivirus-windows-prueba-proteccion-mundo-real-1308142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/antivirus-adecuado-movil-pc-2202543.jpg?tf=1200x' alt='Los mejores antivirus para Windows en la prueba de protección del mundo real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5g-son-redes-quinta-generacion-diferencia-hay-4g-como-activarlo-movil-1399284'>5G: qué son las redes de quinta generación, qué diferencia hay con el 4G y cómo activarlo en tu móvil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5g-son-redes-quinta-generacion-diferencia-hay-4g-como-activarlo-movil-1399284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/redes-moviles-5g-3904720.jpg?tf=1200x' alt='5G: qué son las redes de quinta generación, qué diferencia hay con el 4G y cómo activarlo en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cientifico-afirma-humanos-alcanzaran-singularidad-solo-21-anos-1399601'>Un científico afirma que los humanos alcanzarán la singularidad en solo 21 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cientifico-afirma-humanos-alcanzaran-singularidad-solo-21-anos-1399601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/foto-ia-3912121.jpg?tf=1200x' alt='Un científico afirma que los humanos alcanzarán la singularidad en solo 21 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/spacex-compania-espacial-elon-musk-origen-contratos-nasa-polemicas-1399311'>SpaceX, la compañía espacial de Elon Musk: origen, contratos con la NASA y polémicas</a></h4>
     <a href='https://computerhoy.com/espacio/spacex-compania-espacial-elon-musk-origen-contratos-nasa-polemicas-1399311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/elon-musk-marte-spacex-3898899.jpg?tf=1200x' alt='SpaceX, la compañía espacial de Elon Musk: origen, contratos con la NASA y polémicas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/son-discos-convertidores-placas-induccion-son-peligrosos-1399351'>Qué son los discos convertidores para placas de inducción: ¿son peligrosos?</a></h4>
     <a href='https://computerhoy.com/hogar/son-discos-convertidores-placas-induccion-son-peligrosos-1399351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/discos-convertidores-induccion-3912120.jpg?tf=1200x' alt='Qué son los discos convertidores para placas de inducción: ¿son peligrosos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/todo-chrome-navegador-google-utilizado-mundo-1399078'>Todo sobre Chrome, el navegador de Google y el más utilizado del mundo</a></h4>
-    <a href='https://computerhoy.com/apps/todo-chrome-navegador-google-utilizado-mundo-1399078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-chrome-3896279.jpg?tf=1200x' alt='Todo sobre Chrome, el navegador de Google y el más utilizado del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/waze-aviso-radares-velocidad-carretera-1398493'>¿Por qué Waze te ha dejado de avisar de los radares de velocidad que hay en la carretera?</a></h4>
-    <a href='https://computerhoy.com/apps/waze-aviso-radares-velocidad-carretera-1398493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alertas-waze-3913294.jpg?tf=1200x' alt='¿Por qué Waze te ha dejado de avisar de los radares de velocidad que hay en la carretera?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/consejos-reducir-factura-luz-verano-renunciar-aire-acondicionado-1399618'>6 consejos para reducir la factura de la luz este verano sin renunciar al aire acondicionado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/consejos-reducir-factura-luz-verano-renunciar-aire-acondicionado-1399618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aire-acondicionado-3912641.jpg?tf=1200x' alt='6 consejos para reducir la factura de la luz este verano sin renunciar al aire acondicionado' />
     </a>
 </div>
 
