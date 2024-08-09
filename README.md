@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/solo-necesitas-8-minutos-tiktok-ver-contenido-pueda-danar-percepcion-imagen-corporal-1399603'>Solo necesitas 8 minutos en TikTok para ver contenido que pueda dañar tu percepción de tu imagen corporal</a></h4>
+    <a href='https://computerhoy.com/redes/solo-necesitas-8-minutos-tiktok-ver-contenido-pueda-danar-percepcion-imagen-corporal-1399603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/solo-necesitas-8-minutos-tiktok-ver-contenido-pueda-danar-percepcion-imagen-corporal-3912277.jpg?tf=1200x' alt='Solo necesitas 8 minutos en TikTok para ver contenido que pueda dañar tu percepción de tu imagen corporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-pico-2-doble-potente-predecesora-ya-puedes-hacer-ella-1399596'>Raspberry Pi Pico 2 es el doble de potente que su predecesora y ya puedes hacer con ella</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-pico-2-doble-potente-predecesora-ya-puedes-hacer-ella-1399596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/raspberry-pi-pico-2-doble-potente-predecesora-ya-ha-salido-venta-3911955.jpg?tf=1200x' alt='Raspberry Pi Pico 2 es el doble de potente que su predecesora y ya puedes hacer con ella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/invento-espanol-impresion-3d-promete-construir-edificios-4-veces-rapido-1399609'>El invento español de impresión 3D que promete construir edificios hasta 4 veces más rápido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/invento-espanol-impresion-3d-promete-construir-edificios-4-veces-rapido-1399609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/casas-3d-3912309.jpg?tf=1200x' alt='El invento español de impresión 3D que promete construir edificios hasta 4 veces más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/casi-todos-pc-windows-10-pueden-actualizar-windows-11-empresas-resisten-1399579'>Casi todos los PC con Windows 10 se pueden actualizar Windows 11: ¿por qué las empresas se resisten?</a></h4>
     <a href='https://computerhoy.com/tecnologia/casi-todos-pc-windows-10-pueden-actualizar-windows-11-empresas-resisten-1399579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-3911950.jpg?tf=1200x' alt='Casi todos los PC con Windows 10 se pueden actualizar Windows 11: ¿por qué las empresas se resisten?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/como-mejorar-velocidad-wifi-tecnicas-feng-shui-1298100'>El truco viral para mejorar la velocidad de tu WiFi con técnicas de feng shui</a></h4>
     <a href='https://computerhoy.com/redes/como-mejorar-velocidad-wifi-tecnicas-feng-shui-1298100' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/aplica-tecnica-feng-shui-router-wifi-3122966.jpg?tf=1200x' alt='El truco viral para mejorar la velocidad de tu WiFi con técnicas de feng shui' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mediatek-sigue-linea-dimensity-9300-30-rendimiento-9400-ap-1399583'>MediaTek sigue en la línea del Dimensity 9300 con un 30% más de rendimiento para el 9400 AP</a></h4>
-    <a href='https://computerhoy.com/moviles/mediatek-sigue-linea-dimensity-9300-30-rendimiento-9400-ap-1399583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mediatek-sigue-linea-dimensity-9300-30-rendimiento-9400-ap-3911613.jpg?tf=1200x' alt='MediaTek sigue en la línea del Dimensity 9300 con un 30% más de rendimiento para el 9400 AP' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ejercito-eeuu-gasto-2-millones-dolares-videoconsolas-no-jugar-call-duty-1398648'>Militares de EEUU gastaron más de 2 millones de dólares en consolas de videojuegos, y no para jugar al Call of Duty</a></h4>
-    <a href='https://computerhoy.com/gaming/ejercito-eeuu-gasto-2-millones-dolares-videoconsolas-no-jugar-call-duty-1398648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/soldado-jugando-consola-3882775.jpg?tf=1200x' alt='Militares de EEUU gastaron más de 2 millones de dólares en consolas de videojuegos, y no para jugar al Call of Duty' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-almacenamiento-gmail-gratis-pagar-ni-perder-correos-1398052'>¿Bandeja de Gmail llena? Cómo recuperar gratis los 15 GB de almacenamiento sin pagar ni borrar un solo mensaje</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recuperar-almacenamiento-gmail-gratis-pagar-ni-perder-correos-1398052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bandeja-gmail-llena-como-recuperar-15-gb-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-3842749.jpg?tf=1200x' alt='¿Bandeja de Gmail llena? Cómo recuperar gratis los 15 GB de almacenamiento sin pagar ni borrar un solo mensaje' />
     </a>
 </div>
 
