@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mucha-gente-acaba-dar-cuenta-sirve-parte-plancha-1399527'>Mucha gente se acaba de dar cuenta para qué sirve esta parte de la plancha</a></h4>
+    <a href='https://computerhoy.com/life/mucha-gente-acaba-dar-cuenta-sirve-parte-plancha-1399527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mucha-gente-acaba-dar-cuenta-sirve-parte-plancha-3908906.jpg?tf=1200x' alt='Mucha gente se acaba de dar cuenta para qué sirve esta parte de la plancha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nino-escribe-600-lineas-codigo-lanzar-propio-cohete-1399528'>Niño de 11 años escribe 600 líneas de código para lanzar su propio cohete</a></h4>
     <a href='https://computerhoy.com/espacio/nino-escribe-600-lineas-codigo-lanzar-propio-cohete-1399528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nino-11-anos-aprender-programar-cuenta-escribe-600-lineas-codigo-lanzar-propio-cohete-3908289.jpg?tf=1200x' alt='Niño de 11 años escribe 600 líneas de código para lanzar su propio cohete' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/industria/ikea-historia-curiosidades-823873'>IKEA: historia y curiosidades de la mayor empresa de muebles del mundo</a></h4>
     <a href='https://computerhoy.com/reportajes/industria/ikea-historia-curiosidades-823873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ikea-muebles-3698342.jpg?tf=1200x' alt='IKEA: historia y curiosidades de la mayor empresa de muebles del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/puedes-ver-listado-completo-personas-te-han-bloqueado-whatsapp-1399508'>Así puedes ver el listado completo de personas que te han bloqueado en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/puedes-ver-listado-completo-personas-te-han-bloqueado-whatsapp-1399508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/puedes-ver-listado-completo-personas-te-han-bloqueado-whatsapp-3907362.jpg?tf=1200x' alt='Así puedes ver el listado completo de personas que te han bloqueado en WhatsApp' />
     </a>
 </div>
 
