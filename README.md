@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alerta-android-auto-fallos-funciones-clave-ultima-actualizacion-1399551'>Alerta Android Auto: fallos en funciones clave tras la última actualización</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alerta-android-auto-fallos-funciones-clave-ultima-actualizacion-1399551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-auto-3911253.jpg?tf=1200x' alt='Alerta Android Auto: fallos en funciones clave tras la última actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/ia-apple-no-sera-gratis-podria-costarte-tener-apple-intelligence-iphone-1399544'>La IA de Apple no será gratis: esto es lo que podría costarte tener Apple Intelligence en tu iPhone</a></h4>
     <a href='https://computerhoy.com/apple/ia-apple-no-sera-gratis-podria-costarte-tener-apple-intelligence-iphone-1399544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-ia-3911075.jpg?tf=1200x' alt='La IA de Apple no será gratis: esto es lo que podría costarte tener Apple Intelligence en tu iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/puede-tesla-enfrentarse-atasco-infernal-1399077'>¿Puede un Tesla enfrentarse a un atasco infernal?</a></h4>
     <a href='https://computerhoy.com/motor/puede-tesla-enfrentarse-atasco-infernal-1399077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tesla-infierno-3890054.jpg?tf=1200x' alt='¿Puede un Tesla enfrentarse a un atasco infernal?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cuanto-dura-ssd-trucos-consejos-alargar-vida-disco-1398928'>¿Cuánto dura un SSD? Trucos y consejos para alargar la vida de tu disco</a></h4>
-    <a href='https://computerhoy.com/pc/cuanto-dura-ssd-trucos-consejos-alargar-vida-disco-1398928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instalacion-disco-duro-ssd-3883812.jpg?tf=1200x' alt='¿Cuánto dura un SSD? Trucos y consejos para alargar la vida de tu disco' />
     </a>
 </div>
 
