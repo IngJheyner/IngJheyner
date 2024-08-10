@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/instagram-prueba-mapa-estilo-snap-map-seguir-pasos-amigos-1399719'>Instagram prueba un mapa estilo Snap Map para seguir los pasos de tus amigos</a></h4>
+    <a href='https://computerhoy.com/apps/instagram-prueba-mapa-estilo-snap-map-seguir-pasos-amigos-1399719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instagram-3919917.jpg?tf=1200x' alt='Instagram prueba un mapa estilo Snap Map para seguir los pasos de tus amigos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores-juegos-gratis-pc-1399161'>Los 30 mejores juegos gratis para PC: coches, shooter, estrategia, fútbol y más</a></h4>
     <a href='https://computerhoy.com/mejores-juegos-gratis-pc-1399161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/jugar-pc-mando-3893221.jpg?tf=1200x' alt='Los 30 mejores juegos gratis para PC: coches, shooter, estrategia, fútbol y más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/usb-c-vs-thunderbolt-principales-diferencias-1305820'>USB-C vs. Thunderbolt: estas son sus principales diferencias, ¿cuál es el mejor?</a></h4>
     <a href='https://computerhoy.com/tecnologia/usb-c-vs-thunderbolt-principales-diferencias-1305820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/usb-c-vs-thunderbolt-estas-son-principales-diferencias-cual-mejor-3136328.jpg?tf=1200x' alt='USB-C vs. Thunderbolt: estas son sus principales diferencias, ¿cuál es el mejor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/truco-toalla-anade-funcion-secadora-lavadora-toda-vida-1398834'>El truco de la toalla que añade función secadora a tu lavadora de toda la vida</a></h4>
-    <a href='https://computerhoy.com/hogar/truco-toalla-anade-funcion-secadora-lavadora-toda-vida-1398834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lavadora-3911959.jpg?tf=1200x' alt='El truco de la toalla que añade función secadora a tu lavadora de toda la vida' />
     </a>
 </div>
 
