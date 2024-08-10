@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/router-xiaomi-revoluciona-fibra-exprime-maximo-wifi-6-sorprendentemente-barato-1399682'>Este router Xiaomi revoluciona tu fibra: la exprime al máximo con WiFi 6 y es sorprendentemente barato</a></h4>
+    <a href='https://computerhoy.com/redes/router-xiaomi-revoluciona-fibra-exprime-maximo-wifi-6-sorprendentemente-barato-1399682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-router-ax3000t-3914591.jpg?tf=1200x' alt='Este router Xiaomi revoluciona tu fibra: la exprime al máximo con WiFi 6 y es sorprendentemente barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-5-vs-raspberry-pi-4-diferencias-mejoras-1312072'>Raspberry Pi 5 vs Raspberry Pi 4: todas las diferencias y mejoras del nuevo modelo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-5-vs-raspberry-pi-4-diferencias-mejoras-1312072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/raspberry-pi-5-3146610.jpg?tf=1200x' alt='Raspberry Pi 5 vs Raspberry Pi 4: todas las diferencias y mejoras del nuevo modelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/nueva-vista-aplicaciones-categorias-menu-inicio-windows-11-1399731'>Así es la nueva vista de aplicaciones por categorías del menú inicio de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/nueva-vista-aplicaciones-categorias-menu-inicio-windows-11-1399731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-vista-categorias-menu-inicio-windows-11-3920707.jpg?tf=1200x' alt='Así es la nueva vista de aplicaciones por categorías del menú inicio de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/apple-maps-ios-18-incorporara-funcion-muy-util-1399730'>Apple Maps en iOS 18 incorporará esta función muy útil</a></h4>
     <a href='https://computerhoy.com/apps/apple-maps-ios-18-incorporara-funcion-muy-util-1399730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-maps-3920705.jpg?tf=1200x' alt='Apple Maps en iOS 18 incorporará esta función muy útil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/deepmind-google-demuestra-dominio-ya-vence-humanos-tenis-mesa-1399727'>DeepMind de Google demuestra su dominio: ya vence a humanos en el tenis de mesa</a></h4>
     <a href='https://computerhoy.com/tecnologia/deepmind-google-demuestra-dominio-ya-vence-humanos-tenis-mesa-1399727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/deepmind-google-demuestra-dominio-ya-vence-humanos-tenis-mesa-3920392.jpg?tf=1200x' alt='DeepMind de Google demuestra su dominio: ya vence a humanos en el tenis de mesa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/viajar-septiembre-sera-diferente-ue-ajusta-reglas-equipaje-mano-aeropuertos-1399724'>Viajar en septiembre será diferente: la UE ajusta sus reglas de equipaje de mano en los aeropuertos</a></h4>
-    <a href='https://computerhoy.com/life/viajar-septiembre-sera-diferente-ue-ajusta-reglas-equipaje-mano-aeropuertos-1399724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/equipaje-mano-aeropuerto-3920231.jpg?tf=1200x' alt='Viajar en septiembre será diferente: la UE ajusta sus reglas de equipaje de mano en los aeropuertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-reparar-imagen-iso-windows-1395087'>Cómo reparar una imagen ISO en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-reparar-imagen-iso-windows-1395087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/error-imagen-iso-3706015.jpg?tf=1200x' alt='Cómo reparar una imagen ISO en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/activar-navegacion-segura-mejorada-chrome-1298690'>Qué es la navegación segura mejorada en Chrome y por qué debes activarlo ya</a></h4>
-    <a href='https://computerhoy.com/tutoriales/activar-navegacion-segura-mejorada-chrome-1298690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/seguridad-chrome-3124360.jpg?tf=1200x' alt='Qué es la navegación segura mejorada en Chrome y por qué debes activarlo ya' />
     </a>
 </div>
 
