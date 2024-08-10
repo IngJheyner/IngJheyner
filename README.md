@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/viajar-septiembre-sera-diferente-ue-ajusta-reglas-equipaje-mano-aeropuertos-1399724'>Viajar en septiembre será diferente: la UE ajusta sus reglas de equipaje de mano en los aeropuertos</a></h4>
+    <a href='https://computerhoy.com/life/viajar-septiembre-sera-diferente-ue-ajusta-reglas-equipaje-mano-aeropuertos-1399724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/equipaje-mano-aeropuerto-3920231.jpg?tf=1200x' alt='Viajar en septiembre será diferente: la UE ajusta sus reglas de equipaje de mano en los aeropuertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-reparar-imagen-iso-windows-1395087'>Cómo reparar una imagen ISO en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-reparar-imagen-iso-windows-1395087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/error-imagen-iso-3706015.jpg?tf=1200x' alt='Cómo reparar una imagen ISO en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/activar-navegacion-segura-mejorada-chrome-1298690'>Qué es la navegación segura mejorada en Chrome y por qué debes activarlo ya</a></h4>
+    <a href='https://computerhoy.com/tutoriales/activar-navegacion-segura-mejorada-chrome-1298690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/seguridad-chrome-3124360.jpg?tf=1200x' alt='Qué es la navegación segura mejorada en Chrome y por qué debes activarlo ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/instagram-prueba-mapa-estilo-snap-map-seguir-pasos-amigos-1399719'>Instagram prueba un mapa estilo Snap Map para seguir los pasos de tus amigos</a></h4>
     <a href='https://computerhoy.com/apps/instagram-prueba-mapa-estilo-snap-map-seguir-pasos-amigos-1399719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instagram-3919917.jpg?tf=1200x' alt='Instagram prueba un mapa estilo Snap Map para seguir los pasos de tus amigos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores-juegos-gratis-pc-1399161'>Los 30 mejores juegos gratis para PC: coches, shooter, estrategia, fútbol y más</a></h4>
     <a href='https://computerhoy.com/mejores-juegos-gratis-pc-1399161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/jugar-pc-mando-3893221.jpg?tf=1200x' alt='Los 30 mejores juegos gratis para PC: coches, shooter, estrategia, fútbol y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-dice-adios-paint-3d-popular-herramienta-diseno-despide-windows-1399715'>Microsoft dice adiós a Paint 3D: la popular herramienta de diseño se despide de Windows</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-dice-adios-paint-3d-popular-herramienta-diseno-despide-windows-1399715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/paint-3d-3919599.jpg?tf=1200x' alt='Microsoft dice adiós a Paint 3D: la popular herramienta de diseño se despide de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-reparar-archivo-dll-danado-windows-1398030'>Cómo reparar un archivo DLL dañado en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-reparar-archivo-dll-danado-windows-1398030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/archivo-corrupto-dll-3841081.jpg?tf=1200x' alt='Cómo reparar un archivo DLL dañado en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usb-c-vs-thunderbolt-principales-diferencias-1305820'>USB-C vs. Thunderbolt: estas son sus principales diferencias, ¿cuál es el mejor?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usb-c-vs-thunderbolt-principales-diferencias-1305820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/usb-c-vs-thunderbolt-estas-son-principales-diferencias-cual-mejor-3136328.jpg?tf=1200x' alt='USB-C vs. Thunderbolt: estas son sus principales diferencias, ¿cuál es el mejor?' />
     </a>
 </div>
 
