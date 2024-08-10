@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-reparar-archivo-dll-danado-windows-1398030'>Cómo reparar un archivo DLL dañado en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-reparar-archivo-dll-danado-windows-1398030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/archivo-corrupto-dll-3841081.jpg?tf=1200x' alt='Cómo reparar un archivo DLL dañado en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/truco-toalla-anade-funcion-secadora-lavadora-toda-vida-1398834'>El truco de la toalla que añade función secadora a tu lavadora de toda la vida</a></h4>
     <a href='https://computerhoy.com/hogar/truco-toalla-anade-funcion-secadora-lavadora-toda-vida-1398834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lavadora-3911959.jpg?tf=1200x' alt='El truco de la toalla que añade función secadora a tu lavadora de toda la vida' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-descargar-mapas-android-auto-viajar-miedo-quedarte-datos-coche-1303434'>Cómo descargar mapas en Android Auto para viajar sin miedo a quedarte sin cobertura o datos en el coche</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-descargar-mapas-android-auto-viajar-miedo-quedarte-datos-coche-1303434' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/problemas-habituales-android-auto-como-solucionarlos-2457413.jpg?tf=1200x' alt='Cómo descargar mapas en Android Auto para viajar sin miedo a quedarte sin cobertura o datos en el coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/libros-mas-vendidos-espana-ciudad-amazon-1399701'>Estos son los libros más vendidos en España por ciudad, según Amazon</a></h4>
-    <a href='https://computerhoy.com/amazon/libros-mas-vendidos-espana-ciudad-amazon-1399701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estos-son-libros-populares-espana-ciudad-amazon-3918255.jpg?tf=1200x' alt='Estos son los libros más vendidos en España por ciudad, según Amazon' />
     </a>
 </div>
 
