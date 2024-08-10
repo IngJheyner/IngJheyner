@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/apple-maps-ios-18-incorporara-funcion-muy-util-1399730'>Apple Maps en iOS 18 incorporará esta función muy útil</a></h4>
+    <a href='https://computerhoy.com/apps/apple-maps-ios-18-incorporara-funcion-muy-util-1399730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-maps-3920705.jpg?tf=1200x' alt='Apple Maps en iOS 18 incorporará esta función muy útil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/deepmind-google-demuestra-dominio-ya-vence-humanos-tenis-mesa-1399727'>DeepMind de Google demuestra su dominio: ya vence a humanos en el tenis de mesa</a></h4>
     <a href='https://computerhoy.com/tecnologia/deepmind-google-demuestra-dominio-ya-vence-humanos-tenis-mesa-1399727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/deepmind-google-demuestra-dominio-ya-vence-humanos-tenis-mesa-3920392.jpg?tf=1200x' alt='DeepMind de Google demuestra su dominio: ya vence a humanos en el tenis de mesa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/activar-navegacion-segura-mejorada-chrome-1298690'>Qué es la navegación segura mejorada en Chrome y por qué debes activarlo ya</a></h4>
     <a href='https://computerhoy.com/tutoriales/activar-navegacion-segura-mejorada-chrome-1298690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/seguridad-chrome-3124360.jpg?tf=1200x' alt='Qué es la navegación segura mejorada en Chrome y por qué debes activarlo ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/instagram-prueba-mapa-estilo-snap-map-seguir-pasos-amigos-1399719'>Instagram prueba un mapa estilo Snap Map para seguir los pasos de tus amigos</a></h4>
-    <a href='https://computerhoy.com/apps/instagram-prueba-mapa-estilo-snap-map-seguir-pasos-amigos-1399719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instagram-3919917.jpg?tf=1200x' alt='Instagram prueba un mapa estilo Snap Map para seguir los pasos de tus amigos' />
     </a>
 </div>
 
