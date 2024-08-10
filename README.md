@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/game-boy-pequena-mundo-pantalla-solo-085-pulgadas-1399622'>Así es la Game Boy más pequeña del mundo con una pantalla de solo 0,85 pulgadas</a></h4>
-    <a href='https://computerhoy.com/gaming/game-boy-pequena-mundo-pantalla-solo-085-pulgadas-1399622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/game-boy-pequena-mundo-pantalla-solo-085-pulgadas-3912460.jpg?tf=1200x' alt='Así es la Game Boy más pequeña del mundo con una pantalla de solo 0,85 pulgadas' />
+    <h4><a href='https://computerhoy.com/redes/estoy-playa-tengo-cobertura-pero-hay-tanta-gente-no-puedo-ni-enviar-whatsapp-he-solucionado-1399529'>Estoy en la playa, tengo cobertura, pero hay tanta gente que no puedo ni enviar un WhatsApp: así lo he solucionado</a></h4>
+    <a href='https://computerhoy.com/redes/estoy-playa-tengo-cobertura-pero-hay-tanta-gente-no-puedo-ni-enviar-whatsapp-he-solucionado-1399529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estoy-playa-tengo-cobertura-pero-hay-tanta-gente-no-puedo-ni-enviar-whatsapp-he-solucionado-3909829.jpg?tf=1200x' alt='Estoy en la playa, tengo cobertura, pero hay tanta gente que no puedo ni enviar un WhatsApp: así lo he solucionado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cecotec-vende-purificador-ventilador-alternativa-dyson-1386351'>Esta marca española va a por Dyson: vende un ventilador que además purifica el aire</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cecotec-vende-purificador-ventilador-alternativa-dyson-1386351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/totalpure-2in1-moonstyle-dark-3311984.jpg?tf=1200x' alt='Esta marca española va a por Dyson: vende un ventilador que además purifica el aire' />
+    <h4><a href='https://computerhoy.com/tecnologia/apenas-supera-25-euros-semanas-bateria-reloj-amazfit-1381431'>Este smartwatch Amazfit apenas supera los 35 euros y presume de semanas de batería</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apenas-supera-25-euros-semanas-bateria-reloj-amazfit-1381431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/amazfit-bip-s-3303001.jpg?tf=1200x' alt='Este smartwatch Amazfit apenas supera los 35 euros y presume de semanas de batería' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629'>5 auriculares para usar en tu televisor y no molestar a nadie</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-inalambricos-televisor-951629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sony-mdr-rf895rk-3914269.jpg?tf=1200x' alt='5 auriculares para usar en tu televisor y no molestar a nadie' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ejecutar-propio-chatbot-personalizado-pc-1398490'>¡Olvídate de ChatGPT! Cómo ejecutar tu propio chatbot personalizado directamente en tu PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ejecutar-propio-chatbot-personalizado-pc-1398490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-chatbot-3857370.jpg?tf=1200x' alt='¡Olvídate de ChatGPT! Cómo ejecutar tu propio chatbot personalizado directamente en tu PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/video-muestra-jugadora-rusa-ajedrez-envenenando-fichas-rival-1399697'>Un vídeo muestra a una jugadora rusa de ajedrez envenenando el tablero de su rival</a></h4>
-    <a href='https://computerhoy.com/life/video-muestra-jugadora-rusa-ajedrez-envenenando-fichas-rival-1399697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/video-muestra-jugadora-rusa-ajedrez-envenenando-fichas-rivales-3916473.jpg?tf=1200x' alt='Un vídeo muestra a una jugadora rusa de ajedrez envenenando el tablero de su rival' />
+    <h4><a href='https://computerhoy.com/pc/mejor-asus-vivobook-s-15-ofrece-diseno-tradicional-pero-gran-mejora-rendimiento-1398171'>Lo mejor del Asus Vivobook S 15 es que ofrece un diseño tradicional, pero una gran mejora de rendimiento</a></h4>
+    <a href='https://computerhoy.com/pc/mejor-asus-vivobook-s-15-ofrece-diseno-tradicional-pero-gran-mejora-rendimiento-1398171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/asus-vivobook-s-15-3840793.jpg?tf=1200x' alt='Lo mejor del Asus Vivobook S 15 es que ofrece un diseño tradicional, pero una gran mejora de rendimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-foto-perfil-whatsapp-contactos-cotillas-1399695'>Cómo ocultar tu foto de perfil de WhatsApp a tus contactos más cotillas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-foto-perfil-whatsapp-contactos-cotillas-1399695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-ocultar-foto-perfil-whatsapp-contactos-cotillas-3916629.jpg?tf=1200x' alt='Cómo ocultar tu foto de perfil de WhatsApp a tus contactos más cotillas' />
+    <h4><a href='https://computerhoy.com/ciencia/durante-15-anos-adn-pez-abisal-no-coincidia-ningun-ser-vivo-1399700'>Durante 15 años, el ADN de este pez abisal no coincidía con ningún ser vivo</a></h4>
+    <a href='https://computerhoy.com/ciencia/durante-15-anos-adn-pez-abisal-no-coincidia-ningun-ser-vivo-1399700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/durante-15-anos-adn-pez-abisal-no-coincidia-ningun-ser-vivo-3918022.jpg?tf=1200x' alt='Durante 15 años, el ADN de este pez abisal no coincidía con ningún ser vivo' />
     </a>
 </div>
 
