@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/youtube-anadira-temporizador-apagado-automatico-videos-funciona-1399740'>YouTube añadirá un temporizador de apagado automático en los vídeos y así funciona</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-anadira-temporizador-apagado-automatico-videos-funciona-1399740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/youtube-3921960.jpg?tf=1200x' alt='YouTube añadirá un temporizador de apagado automático en los vídeos y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/router-xiaomi-revoluciona-fibra-exprime-maximo-wifi-6-sorprendentemente-barato-1399682'>Este router Xiaomi revoluciona tu fibra: la exprime al máximo con WiFi 6 y es sorprendentemente barato</a></h4>
     <a href='https://computerhoy.com/redes/router-xiaomi-revoluciona-fibra-exprime-maximo-wifi-6-sorprendentemente-barato-1399682' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-router-ax3000t-3914591.jpg?tf=1200x' alt='Este router Xiaomi revoluciona tu fibra: la exprime al máximo con WiFi 6 y es sorprendentemente barato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/apple-maps-ios-18-incorporara-funcion-muy-util-1399730'>Apple Maps en iOS 18 incorporará esta función muy útil</a></h4>
     <a href='https://computerhoy.com/apps/apple-maps-ios-18-incorporara-funcion-muy-util-1399730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-maps-3920705.jpg?tf=1200x' alt='Apple Maps en iOS 18 incorporará esta función muy útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/deepmind-google-demuestra-dominio-ya-vence-humanos-tenis-mesa-1399727'>DeepMind de Google demuestra su dominio: ya vence a humanos en el tenis de mesa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/deepmind-google-demuestra-dominio-ya-vence-humanos-tenis-mesa-1399727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/deepmind-google-demuestra-dominio-ya-vence-humanos-tenis-mesa-3920392.jpg?tf=1200x' alt='DeepMind de Google demuestra su dominio: ya vence a humanos en el tenis de mesa' />
     </a>
 </div>
 
