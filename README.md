@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores-juegos-gratis-pc-1399161'>Los 30 mejores juegos gratis para PC: coches, shooter, estrategia, fútbol y más</a></h4>
+    <a href='https://computerhoy.com/mejores-juegos-gratis-pc-1399161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/jugar-pc-mando-3893221.jpg?tf=1200x' alt='Los 30 mejores juegos gratis para PC: coches, shooter, estrategia, fútbol y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-dice-adios-paint-3d-popular-herramienta-diseno-despide-windows-1399715'>Microsoft dice adiós a Paint 3D: la popular herramienta de diseño se despide de Windows</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-dice-adios-paint-3d-popular-herramienta-diseno-despide-windows-1399715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/paint-3d-3919599.jpg?tf=1200x' alt='Microsoft dice adiós a Paint 3D: la popular herramienta de diseño se despide de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-reparar-archivo-dll-danado-windows-1398030'>Cómo reparar un archivo DLL dañado en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-reparar-archivo-dll-danado-windows-1398030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/archivo-corrupto-dll-3841081.jpg?tf=1200x' alt='Cómo reparar un archivo DLL dañado en Windows' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/usb-c-vs-thunderbolt-principales-diferencias-1305820'>USB-C vs. Thunderbolt: estas son sus principales diferencias, ¿cuál es el mejor?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usb-c-vs-thunderbolt-principales-diferencias-1305820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/usb-c-vs-thunderbolt-estas-son-principales-diferencias-cual-mejor-3136328.jpg?tf=1200x' alt='USB-C vs. Thunderbolt: estas son sus principales diferencias, ¿cuál es el mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/truco-toalla-anade-funcion-secadora-lavadora-toda-vida-1398834'>El truco de la toalla que añade función secadora a tu lavadora de toda la vida</a></h4>
     <a href='https://computerhoy.com/hogar/truco-toalla-anade-funcion-secadora-lavadora-toda-vida-1398834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lavadora-3911959.jpg?tf=1200x' alt='El truco de la toalla que añade función secadora a tu lavadora de toda la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pantalla-amoled-sensores-fiables-smartwatch-chino-tiene-todo-cuesta-solo-40-euros-1399693'>Pantalla AMOLED y sensores fiables: este smartwatch chino lo tiene todo y cuesta sólo 40 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pantalla-amoled-sensores-fiables-smartwatch-chino-tiene-todo-cuesta-solo-40-euros-1399693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/north-edge-cross-fit-3-3915372.jpg?tf=1200x' alt='Pantalla AMOLED y sensores fiables: este smartwatch chino lo tiene todo y cuesta sólo 40 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/7-pecados-capitales-nunca-debes-cometer-pc-windows-1399531'>Los 7 pecados capitales que nunca debes cometer en tu PC con Windows</a></h4>
-    <a href='https://computerhoy.com/windows/7-pecados-capitales-nunca-debes-cometer-pc-windows-1399531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/7-pecados-capitales-nunca-debes-cometer-pc-windows-3910290.jpg?tf=1200x' alt='Los 7 pecados capitales que nunca debes cometer en tu PC con Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-mapas-android-auto-viajar-miedo-quedarte-datos-coche-1303434'>Cómo descargar mapas en Android Auto para viajar sin miedo a quedarte sin cobertura o datos en el coche</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-mapas-android-auto-viajar-miedo-quedarte-datos-coche-1303434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/problemas-habituales-android-auto-como-solucionarlos-2457413.jpg?tf=1200x' alt='Cómo descargar mapas en Android Auto para viajar sin miedo a quedarte sin cobertura o datos en el coche' />
     </a>
 </div>
 
