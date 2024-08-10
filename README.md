@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/7-pecados-capitales-nunca-debes-cometer-pc-windows-1399531'>Los 7 pecados capitales que nunca debes cometer en tu PC con Windows</a></h4>
+    <a href='https://computerhoy.com/windows/7-pecados-capitales-nunca-debes-cometer-pc-windows-1399531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/7-pecados-capitales-nunca-debes-cometer-pc-windows-3910290.jpg?tf=1200x' alt='Los 7 pecados capitales que nunca debes cometer en tu PC con Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/libros-mas-vendidos-espana-ciudad-amazon-1399701'>Estos son los libros más vendidos en España por ciudad, según Amazon</a></h4>
+    <a href='https://computerhoy.com/amazon/libros-mas-vendidos-espana-ciudad-amazon-1399701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estos-son-libros-populares-espana-ciudad-amazon-3918255.jpg?tf=1200x' alt='Estos son los libros más vendidos en España por ciudad, según Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/estoy-playa-tengo-cobertura-pero-hay-tanta-gente-no-puedo-ni-enviar-whatsapp-he-solucionado-1399529'>Estoy en la playa, tengo cobertura, pero hay tanta gente que no puedo ni enviar un WhatsApp: así lo he solucionado</a></h4>
     <a href='https://computerhoy.com/redes/estoy-playa-tengo-cobertura-pero-hay-tanta-gente-no-puedo-ni-enviar-whatsapp-he-solucionado-1399529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estoy-playa-tengo-cobertura-pero-hay-tanta-gente-no-puedo-ni-enviar-whatsapp-he-solucionado-3909829.jpg?tf=1200x' alt='Estoy en la playa, tengo cobertura, pero hay tanta gente que no puedo ni enviar un WhatsApp: así lo he solucionado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-ejecutar-propio-chatbot-personalizado-pc-1398490'>¡Olvídate de ChatGPT! Cómo ejecutar tu propio chatbot personalizado directamente en tu PC</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ejecutar-propio-chatbot-personalizado-pc-1398490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-chatbot-3857370.jpg?tf=1200x' alt='¡Olvídate de ChatGPT! Cómo ejecutar tu propio chatbot personalizado directamente en tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mejor-asus-vivobook-s-15-ofrece-diseno-tradicional-pero-gran-mejora-rendimiento-1398171'>Lo mejor del Asus Vivobook S 15 es que ofrece un diseño tradicional, pero una gran mejora de rendimiento</a></h4>
-    <a href='https://computerhoy.com/pc/mejor-asus-vivobook-s-15-ofrece-diseno-tradicional-pero-gran-mejora-rendimiento-1398171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/asus-vivobook-s-15-3840793.jpg?tf=1200x' alt='Lo mejor del Asus Vivobook S 15 es que ofrece un diseño tradicional, pero una gran mejora de rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/durante-15-anos-adn-pez-abisal-no-coincidia-ningun-ser-vivo-1399700'>Durante 15 años, el ADN de este pez abisal no coincidía con ningún ser vivo</a></h4>
-    <a href='https://computerhoy.com/ciencia/durante-15-anos-adn-pez-abisal-no-coincidia-ningun-ser-vivo-1399700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/durante-15-anos-adn-pez-abisal-no-coincidia-ningun-ser-vivo-3918022.jpg?tf=1200x' alt='Durante 15 años, el ADN de este pez abisal no coincidía con ningún ser vivo' />
     </a>
 </div>
 
