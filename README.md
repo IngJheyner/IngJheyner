@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/video-muestra-jugadora-rusa-ajedrez-envenenando-fichas-rival-1399697'>Un vídeo muestra a una jugadora rusa de ajedrez envenenando el tablero de su rival</a></h4>
+    <a href='https://computerhoy.com/life/video-muestra-jugadora-rusa-ajedrez-envenenando-fichas-rival-1399697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/video-muestra-jugadora-rusa-ajedrez-envenenando-fichas-rivales-3916473.jpg?tf=1200x' alt='Un vídeo muestra a una jugadora rusa de ajedrez envenenando el tablero de su rival' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-foto-perfil-whatsapp-contactos-cotillas-1399695'>Cómo ocultar tu foto de perfil de WhatsApp a tus contactos más cotillas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-foto-perfil-whatsapp-contactos-cotillas-1399695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-ocultar-foto-perfil-whatsapp-contactos-cotillas-3916629.jpg?tf=1200x' alt='Cómo ocultar tu foto de perfil de WhatsApp a tus contactos más cotillas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/opcion-debes-desactivar-ahora-mismo-movil-graba-escucha-todo-dices-1399685'>La opción que debes desactivar ahora mismo en tu móvil: graba y escucha todo lo que dices</a></h4>
     <a href='https://computerhoy.com/moviles/opcion-debes-desactivar-ahora-mismo-movil-graba-escucha-todo-dices-1399685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/opcion-debes-desactivar-ahora-mismo-movil-graba-escucha-todo-dices-3915856.jpg?tf=1200x' alt='La opción que debes desactivar ahora mismo en tu móvil: graba y escucha todo lo que dices' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/dall-3-gratis-crear-imagenes-chatgpt-1399691'>Ya puedes usar DALL-E 3 gratis en ChatGPT, para crear imágenes sin suscripción</a></h4>
     <a href='https://computerhoy.com/tecnologia/dall-3-gratis-crear-imagenes-chatgpt-1399691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/puedes-usar-dall-3-gratis-crear-imagenes-suscripcion-3915059.jpg?tf=1200x' alt='Ya puedes usar DALL-E 3 gratis en ChatGPT, para crear imágenes sin suscripción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-solucionara-dos-grandes-problemas-graves-predecesora-tiempo-carga-temperatura-1399688'>Nintendo Switch 2 solucionará dos grandes problemas graves de su predecesora: tiempo de carga y temperatura</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-2-solucionara-dos-grandes-problemas-graves-predecesora-tiempo-carga-temperatura-1399688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nintendo-switch-3915371.jpg?tf=1200x' alt='Nintendo Switch 2 solucionará dos grandes problemas graves de su predecesora: tiempo de carga y temperatura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/miedo-volar-cifra-magica-te-quitara-todos-miedos-1399687'>¿Miedo a volar? La cifra mágica que te quitará todos tus miedos</a></h4>
-    <a href='https://computerhoy.com/life/miedo-volar-cifra-magica-te-quitara-todos-miedos-1399687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/viajar-avion-3915369.jpg?tf=1200x' alt='¿Miedo a volar? La cifra mágica que te quitará todos tus miedos' />
     </a>
 </div>
 
