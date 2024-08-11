@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-alguien-rastreando-movil-1399353'>Cómo comprobar si alguien está rastreando tu móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-comprobar-alguien-rastreando-movil-1399353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-comprobar-alguien-rastreando-movil-3902863.jpg?tf=1200x' alt='Cómo comprobar si alguien está rastreando tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/tiene-android-wifi-6-hemos-encontrado-proyector-barato-top-ventas-aliexpress-deseado-1399746'>Tiene Android y WiFi 6: hemos encontrado el proyector barato top ventas en AliExpress más deseado</a></h4>
+    <a href='https://computerhoy.com/tv/tiene-android-wifi-6-hemos-encontrado-proyector-barato-top-ventas-aliexpress-deseado-1399746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/magcubic-hy300-3923042.jpg?tf=1200x' alt='Tiene Android y WiFi 6: hemos encontrado el proyector barato top ventas en AliExpress más deseado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-calibrar-correctamente-smart-tv-color-brillo-contraste-nitidez-1399175'>Cómo calibrar correctamente un Smart TV: color, brillo, contraste, nitidez y más</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-calibrar-correctamente-smart-tv-color-brillo-contraste-nitidez-1399175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-calibrar-correctamente-smart-tv-color-brillo-contraste-nitidez-3894604.jpg?tf=1200x' alt='Cómo calibrar correctamente un Smart TV: color, brillo, contraste, nitidez y más' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/herramientas-ocultas-windows-11-dificil-acceso-deberias-utilizar-1297584'>Las herramientas ocultas de Windows 11 de difícil acceso que deberías utilizar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/herramientas-ocultas-windows-11-dificil-acceso-deberias-utilizar-1297584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/biblia-windows-11-resolvemos-todas-dudas-sustituto-windows-10-2401109.jpg?tf=1200x' alt='Las herramientas ocultas de Windows 11 de difícil acceso que deberías utilizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/frase-infalible-librarte-llamadas-spam-no-recibirlas-1399177'>La frase infalible para librarte de las llamadas spam (y no recibirlas más)</a></h4>
     <a href='https://computerhoy.com/tecnologia/frase-infalible-librarte-llamadas-spam-no-recibirlas-1399177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/frase-infalible-librarte-llamadas-spam-no-recibirlas-3895353.jpg?tf=1200x' alt='La frase infalible para librarte de las llamadas spam (y no recibirlas más)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-alternativa-barata-apple-watch-ultra-1322576'>Xiaomi va a por el Apple Watch Ultra: esta es su alternativa que cuesta cuatro veces menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-alternativa-barata-apple-watch-ultra-1322576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-watch-2-pro-3200208.jpg?tf=1200x' alt='Xiaomi va a por el Apple Watch Ultra: esta es su alternativa que cuesta cuatro veces menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-tecnologia-iluminacion-facial-adapta-automaticamente-brillo-pantalla-durante-videollamadas-1399743'>Microsoft piensa en una tecnología de iluminación facial que adapta automáticamente el brillo de la pantalla durante las videollamadas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-tecnologia-iluminacion-facial-adapta-automaticamente-brillo-pantalla-durante-videollamadas-1399743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/videollamada-3922118.jpg?tf=1200x' alt='Microsoft piensa en una tecnología de iluminación facial que adapta automáticamente el brillo de la pantalla durante las videollamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-administrar-memoria-virtual-windows-11-beneficios-tiene-1399532'>Cómo administrar la memoria virtual en Windows 11 y qué beneficios tiene</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-administrar-memoria-virtual-windows-11-beneficios-tiene-1399532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-administrar-memoria-virtual-windows-11-beneficios-tiene-3910605.jpg?tf=1200x' alt='Cómo administrar la memoria virtual en Windows 11 y qué beneficios tiene' />
     </a>
 </div>
 
