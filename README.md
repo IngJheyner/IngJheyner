@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-todos-correos-app-gmail-1399484'>Cómo eliminar todos los correos de la app de Gmail y dejarla como el primer día</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-eliminar-todos-correos-app-gmail-1399484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/eliminar-correos-gmail-3906069.jpg?tf=1200x' alt='Cómo eliminar todos los correos de la app de Gmail y dejarla como el primer día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-alguien-rastreando-movil-1399353'>Cómo comprobar si alguien está rastreando tu móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-comprobar-alguien-rastreando-movil-1399353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-comprobar-alguien-rastreando-movil-3902863.jpg?tf=1200x' alt='Cómo comprobar si alguien está rastreando tu móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/herramientas-ocultas-windows-11-dificil-acceso-deberias-utilizar-1297584'>Las herramientas ocultas de Windows 11 de difícil acceso que deberías utilizar</a></h4>
     <a href='https://computerhoy.com/tutoriales/herramientas-ocultas-windows-11-dificil-acceso-deberias-utilizar-1297584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/biblia-windows-11-resolvemos-todas-dudas-sustituto-windows-10-2401109.jpg?tf=1200x' alt='Las herramientas ocultas de Windows 11 de difícil acceso que deberías utilizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/frase-infalible-librarte-llamadas-spam-no-recibirlas-1399177'>La frase infalible para librarte de las llamadas spam (y no recibirlas más)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/frase-infalible-librarte-llamadas-spam-no-recibirlas-1399177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/frase-infalible-librarte-llamadas-spam-no-recibirlas-3895353.jpg?tf=1200x' alt='La frase infalible para librarte de las llamadas spam (y no recibirlas más)' />
     </a>
 </div>
 
