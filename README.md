@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-calibrar-correctamente-smart-tv-color-brillo-contraste-nitidez-1399175'>Cómo calibrar correctamente un Smart TV: color, brillo, contraste, nitidez y más</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-calibrar-correctamente-smart-tv-color-brillo-contraste-nitidez-1399175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-calibrar-correctamente-smart-tv-color-brillo-contraste-nitidez-3894604.jpg?tf=1200x' alt='Cómo calibrar correctamente un Smart TV: color, brillo, contraste, nitidez y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/frase-infalible-librarte-llamadas-spam-no-recibirlas-1399177'>La frase infalible para librarte de las llamadas spam (y no recibirlas más)</a></h4>
     <a href='https://computerhoy.com/tecnologia/frase-infalible-librarte-llamadas-spam-no-recibirlas-1399177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/frase-infalible-librarte-llamadas-spam-no-recibirlas-3895353.jpg?tf=1200x' alt='La frase infalible para librarte de las llamadas spam (y no recibirlas más)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-alternativa-barata-apple-watch-ultra-1322576'>Xiaomi va a por el Apple Watch Ultra: esta es su alternativa que cuesta cuatro veces menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-alternativa-barata-apple-watch-ultra-1322576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-watch-2-pro-3200208.jpg?tf=1200x' alt='Xiaomi va a por el Apple Watch Ultra: esta es su alternativa que cuesta cuatro veces menos' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-administrar-memoria-virtual-windows-11-beneficios-tiene-1399532'>Cómo administrar la memoria virtual en Windows 11 y qué beneficios tiene</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-administrar-memoria-virtual-windows-11-beneficios-tiene-1399532' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-administrar-memoria-virtual-windows-11-beneficios-tiene-3910605.jpg?tf=1200x' alt='Cómo administrar la memoria virtual en Windows 11 y qué beneficios tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ai-washing-debes-tener-cuidado-producto-lleva-inteligencia-artificial-1395903'>¿Qué es AI washing y por qué debes tener cuidado si un producto lleva "inteligencia artificial"?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ai-washing-debes-tener-cuidado-producto-lleva-inteligencia-artificial-1395903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1722953591219-3890853.jpg?tf=1200x' alt='¿Qué es AI washing y por qué debes tener cuidado si un producto lleva "inteligencia artificial"?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/lujo-pero-aiper-scuba-s1-pro-producto-no-puede-faltar-piscina-verano-1398919'>Es un lujo, pero el Aiper Scuba S1 Pro es el producto que no puede faltar en tu piscina este verano</a></h4>
-    <a href='https://computerhoy.com/analisis/lujo-pero-aiper-scuba-s1-pro-producto-no-puede-faltar-piscina-verano-1398919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aiper-scuba-s1-pro-3883435.jpg?tf=1200x' alt='Es un lujo, pero el Aiper Scuba S1 Pro es el producto que no puede faltar en tu piscina este verano' />
     </a>
 </div>
 
