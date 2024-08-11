@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-icono-wifi-windows-1395607'>Cómo recuperar el icono de WiFi en Windows cuando ha desaparecido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-icono-wifi-windows-1395607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/conexion-wifi-laptop-3733826.jpg?tf=1200x' alt='Cómo recuperar el icono de WiFi en Windows cuando ha desaparecido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aplicacion-microsoft-podria-estar-agotando-rapidamente-bateria-moviles-1399763'>La aplicación de Microsoft que podría estar agotando rápidamente la batería de los móviles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aplicacion-microsoft-podria-estar-agotando-rapidamente-bateria-moviles-1399763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/link-windows-3927124.jpg?tf=1200x' alt='La aplicación de Microsoft que podría estar agotando rápidamente la batería de los móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores-juegos-pc-pocos-requisitos-graficos-increibles-1399160'>Los 25 mejores juegos para PC con pocos requisitos y gráficos increíbles</a></h4>
     <a href='https://computerhoy.com/mejores-juegos-pc-pocos-requisitos-graficos-increibles-1399160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/juego-carreras-coches-3897751.jpg?tf=1200x' alt='Los 25 mejores juegos para PC con pocos requisitos y gráficos increíbles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-todos-correos-app-gmail-1399484'>Cómo eliminar todos los correos de la app de Gmail y dejarla como el primer día</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-eliminar-todos-correos-app-gmail-1399484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/eliminar-correos-gmail-3906069.jpg?tf=1200x' alt='Cómo eliminar todos los correos de la app de Gmail y dejarla como el primer día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-series-son-spin-grandes-exitos-aunque-no-siempre-sepa-1308094'>7 series que son spin-off de grandes éxitos de televisión, aunque no siempre se sepa</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-series-son-spin-grandes-exitos-aunque-no-siempre-sepa-1308094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/fear-walking-dead-temporada-6-3036078.jpg?tf=1200x' alt='7 series que son spin-off de grandes éxitos de televisión, aunque no siempre se sepa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-alguien-rastreando-movil-1399353'>Cómo comprobar si alguien está rastreando tu móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-comprobar-alguien-rastreando-movil-1399353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-comprobar-alguien-rastreando-movil-3902863.jpg?tf=1200x' alt='Cómo comprobar si alguien está rastreando tu móvil' />
     </a>
 </div>
 
