@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/docenas-personas-heridas-mascotas-muertas-obligan-samsung-retirar-millon-hornos-1399775'>Docenas de personas heridas y mascotas muertas obligan a Samsung a retirar un millón de hornos</a></h4>
+    <a href='https://computerhoy.com/hogar/docenas-personas-heridas-mascotas-muertas-obligan-samsung-retirar-millon-hornos-1399775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/docenas-personas-mascotas-heridas-obligan-samsung-retirar-millon-hornos-estufas-3929612.jpg?tf=1200x' alt='Docenas de personas heridas y mascotas muertas obligan a Samsung a retirar un millón de hornos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/valve-planea-llevar-steamos-steam-deck-todos-pc-1399773'>¿El fin de Windows para jugar? Valve planea llevar SteamOS de la Steam Deck a todos los PC</a></h4>
     <a href='https://computerhoy.com/gaming/valve-planea-llevar-steamos-steam-deck-todos-pc-1399773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704099.jpg?tf=1200x' alt='¿El fin de Windows para jugar? Valve planea llevar SteamOS de la Steam Deck a todos los PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/alternativa-xiaomi-airtag-1394858'>Xiaomi vende una alternativa low cost al AirTag que cuesta apenas 1€</a></h4>
     <a href='https://computerhoy.com/tecnologia/alternativa-xiaomi-airtag-1394858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/localizador-xiaomi-3692801.jpg?tf=1200x' alt='Xiaomi vende una alternativa low cost al AirTag que cuesta apenas 1€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-app-contara-estas-nuevas-versiones-partir-otono-1399768'>Windows App contará con estas nuevas versiones a partir de otoño</a></h4>
-    <a href='https://computerhoy.com/windows/windows-app-contara-estas-nuevas-versiones-partir-otono-1399768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-app-3927747.jpg?tf=1200x' alt='Windows App contará con estas nuevas versiones a partir de otoño' />
     </a>
 </div>
 
