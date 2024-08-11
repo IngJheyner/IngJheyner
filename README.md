@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/procesadores-influyentes-todos-tiempos-1283812'>Los procesadores más influyentes de todos los tiempos</a></h4>
+    <a href='https://computerhoy.com/pc/procesadores-influyentes-todos-tiempos-1283812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/procesador-intel-core-i9-3135858.jpg?tf=1200x' alt='Los procesadores más influyentes de todos los tiempos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/susan-wojcicki-ceo-youtube-fallece-56-anos-1399772'>Susan Wojcicki, CEO de YouTube durante casi una década, fallece a los 56 años</a></h4>
+    <a href='https://computerhoy.com/google/susan-wojcicki-ceo-youtube-fallece-56-anos-1399772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/susan-wojcicki-ceo-youtube-durante-decada-fallece-56-anos-3928843.jpg?tf=1200x' alt='Susan Wojcicki, CEO de YouTube durante casi una década, fallece a los 56 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alternativa-xiaomi-airtag-1394858'>Xiaomi vende una alternativa low cost al AirTag que cuesta apenas 1€</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alternativa-xiaomi-airtag-1394858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/localizador-xiaomi-3692801.jpg?tf=1200x' alt='Xiaomi vende una alternativa low cost al AirTag que cuesta apenas 1€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-app-contara-estas-nuevas-versiones-partir-otono-1399768'>Windows App contará con estas nuevas versiones a partir de otoño</a></h4>
     <a href='https://computerhoy.com/windows/windows-app-contara-estas-nuevas-versiones-partir-otono-1399768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-app-3927747.jpg?tf=1200x' alt='Windows App contará con estas nuevas versiones a partir de otoño' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ya-disponible-android-auto-126-como-descargar-novedades-incluye-1399767'>Ya disponible Android Auto 12.6: cómo descargar y qué novedades incluye</a></h4>
     <a href='https://computerhoy.com/apps/ya-disponible-android-auto-126-como-descargar-novedades-incluye-1399767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-auto-126-3927592.jpg?tf=1200x' alt='Ya disponible Android Auto 12.6: cómo descargar y qué novedades incluye' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/dos-versiones-windows-11-dejaran-recibir-soporte-menos-60-dias-1399766'>Las dos versiones de Windows 11 que dejarán de recibir soporte en menos de 60 días</a></h4>
-    <a href='https://computerhoy.com/windows/dos-versiones-windows-11-dejaran-recibir-soporte-menos-60-dias-1399766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/actualizacion-windows-3927436.jpg?tf=1200x' alt='Las dos versiones de Windows 11 que dejarán de recibir soporte en menos de 60 días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-icono-wifi-windows-1395607'>Cómo recuperar el icono de WiFi en Windows cuando ha desaparecido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recuperar-icono-wifi-windows-1395607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/conexion-wifi-laptop-3733826.jpg?tf=1200x' alt='Cómo recuperar el icono de WiFi en Windows cuando ha desaparecido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/ajustes-android-auto-debes-tener-activos-privacidad-1307468'>Los ajustes de Android Auto que debes tener siempre activos para proteger tu privacidad</a></h4>
-    <a href='https://computerhoy.com/tutoriales/ajustes-android-auto-debes-tener-activos-privacidad-1307468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ajustes-android-auto-debes-tener-siempre-activos-proteger-privacidad-3138812.jpg?tf=1200x' alt='Los ajustes de Android Auto que debes tener siempre activos para proteger tu privacidad' />
     </a>
 </div>
 
