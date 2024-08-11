@@ -50,17 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/dos-versiones-windows-11-dejaran-recibir-soporte-menos-60-dias-1399766'>Las dos versiones de Windows 11 que dejarán de recibir soporte en menos de 60 días</a></h4>
-    <a href='https://computerhoy.com/windows/dos-versiones-windows-11-dejaran-recibir-soporte-menos-60-dias-1399766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/actualizacion-windows-3927436.jpg?tf=1200x' alt='Las dos versiones de Windows 11 que dejarán de recibir soporte en menos de 60 días' />
+    <h4><a href='https://computerhoy.com/windows/windows-app-contara-estas-nuevas-versiones-partir-otono-1399768'>Windows App contará con estas nuevas versiones a partir de otoño</a></h4>
+    <a href='https://computerhoy.com/windows/windows-app-contara-estas-nuevas-versiones-partir-otono-1399768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-app-3927747.jpg?tf=1200x' alt='Windows App contará con estas nuevas versiones a partir de otoño' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/ajustes-android-auto-debes-tener-activos-privacidad-1307468'>Los ajustes de Android Auto que debes tener siempre activos para proteger tu privacidad</a></h4>
-    <a href='https://computerhoy.com/tutoriales/ajustes-android-auto-debes-tener-activos-privacidad-1307468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ajustes-android-auto-debes-tener-siempre-activos-proteger-privacidad-3138812.jpg?tf=1200x' alt='Los ajustes de Android Auto que debes tener siempre activos para proteger tu privacidad' />
+    <h4><a href='https://computerhoy.com/apps/ya-disponible-android-auto-126-como-descargar-novedades-incluye-1399767'>Ya disponible Android Auto 12.6: cómo descargar y qué novedades incluye</a></h4>
+    <a href='https://computerhoy.com/apps/ya-disponible-android-auto-126-como-descargar-novedades-incluye-1399767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-auto-126-3927592.jpg?tf=1200x' alt='Ya disponible Android Auto 12.6: cómo descargar y qué novedades incluye' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/dos-versiones-windows-11-dejaran-recibir-soporte-menos-60-dias-1399766'>Las dos versiones de Windows 11 que dejarán de recibir soporte en menos de 60 días</a></h4>
+    <a href='https://computerhoy.com/windows/dos-versiones-windows-11-dejaran-recibir-soporte-menos-60-dias-1399766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/actualizacion-windows-3927436.jpg?tf=1200x' alt='Las dos versiones de Windows 11 que dejarán de recibir soporte en menos de 60 días' />
     </a>
 </div>
 
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aplicacion-microsoft-podria-estar-agotando-rapidamente-bateria-moviles-1399763'>La aplicación de Microsoft que podría estar agotando rápidamente la batería de los móviles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aplicacion-microsoft-podria-estar-agotando-rapidamente-bateria-moviles-1399763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/link-windows-3927124.jpg?tf=1200x' alt='La aplicación de Microsoft que podría estar agotando rápidamente la batería de los móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores-juegos-pc-pocos-requisitos-graficos-increibles-1399160'>Los 25 mejores juegos para PC con pocos requisitos y gráficos increíbles</a></h4>
-    <a href='https://computerhoy.com/mejores-juegos-pc-pocos-requisitos-graficos-increibles-1399160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/juego-carreras-coches-3897751.jpg?tf=1200x' alt='Los 25 mejores juegos para PC con pocos requisitos y gráficos increíbles' />
+    <h4><a href='https://computerhoy.com/tutoriales/ajustes-android-auto-debes-tener-activos-privacidad-1307468'>Los ajustes de Android Auto que debes tener siempre activos para proteger tu privacidad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/ajustes-android-auto-debes-tener-activos-privacidad-1307468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ajustes-android-auto-debes-tener-siempre-activos-proteger-privacidad-3138812.jpg?tf=1200x' alt='Los ajustes de Android Auto que debes tener siempre activos para proteger tu privacidad' />
     </a>
 </div>
 
