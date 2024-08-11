@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/tippy-type-cubierta-teclado-unas-muy-largas-1399777'>Tippy Type, la cubierta de teclado para quienes tienen las uñas muy largas</a></h4>
+    <a href='https://computerhoy.com/pc/tippy-type-cubierta-teclado-unas-muy-largas-1399777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tippy-type-cubierta-teclado-quienes-tienen-unas-muy-largas-3930230.jpg?tf=1200x' alt='Tippy Type, la cubierta de teclado para quienes tienen las uñas muy largas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/docenas-personas-heridas-mascotas-muertas-obligan-samsung-retirar-millon-hornos-1399775'>Docenas de personas heridas y mascotas muertas obligan a Samsung a retirar un millón de hornos</a></h4>
     <a href='https://computerhoy.com/hogar/docenas-personas-heridas-mascotas-muertas-obligan-samsung-retirar-millon-hornos-1399775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/docenas-personas-mascotas-heridas-obligan-samsung-retirar-millon-hornos-estufas-3929612.jpg?tf=1200x' alt='Docenas de personas heridas y mascotas muertas obligan a Samsung a retirar un millón de hornos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/susan-wojcicki-ceo-youtube-fallece-56-anos-1399772'>Susan Wojcicki, CEO de YouTube durante casi una década, fallece a los 56 años</a></h4>
     <a href='https://computerhoy.com/google/susan-wojcicki-ceo-youtube-fallece-56-anos-1399772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/susan-wojcicki-ceo-youtube-durante-decada-fallece-56-anos-3928843.jpg?tf=1200x' alt='Susan Wojcicki, CEO de YouTube durante casi una década, fallece a los 56 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alternativa-xiaomi-airtag-1394858'>Xiaomi vende una alternativa low cost al AirTag que cuesta apenas 1€</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alternativa-xiaomi-airtag-1394858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/localizador-xiaomi-3692801.jpg?tf=1200x' alt='Xiaomi vende una alternativa low cost al AirTag que cuesta apenas 1€' />
     </a>
 </div>
 
