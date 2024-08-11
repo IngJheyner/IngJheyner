@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dia-marmota-hombre-salva-morir-ahogada-mujer-segunda-1399748'>Día de la marmota: Un hombre salva de morir ahogada a una mujer dos veces en 25 años</a></h4>
-    <a href='https://computerhoy.com/life/dia-marmota-hombre-salva-morir-ahogada-mujer-segunda-1399748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dia-marmota-hombre-salva-morir-ahogada-mujer-segunda-vez-25-anos-3924062.jpg?tf=1200x' alt='Día de la marmota: Un hombre salva de morir ahogada a una mujer dos veces en 25 años' />
+    <h4><a href='https://computerhoy.com/tecnologia/frase-infalible-librarte-llamadas-spam-no-recibirlas-1399177'>La frase infalible para librarte de las llamadas spam (y no recibirlas más)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/frase-infalible-librarte-llamadas-spam-no-recibirlas-1399177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/frase-infalible-librarte-llamadas-spam-no-recibirlas-3895353.jpg?tf=1200x' alt='La frase infalible para librarte de las llamadas spam (y no recibirlas más)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mes-pasado-fue-segundo-julio-caluroso-historia-no-alegrarse-1399742'>El mes pasado fue el segundo julio más caluroso de la historia, y no es para alegrarse</a></h4>
-    <a href='https://computerhoy.com/life/mes-pasado-fue-segundo-julio-caluroso-historia-no-alegrarse-1399742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ola-calor-3922099.jpg?tf=1200x' alt='El mes pasado fue el segundo julio más caluroso de la historia, y no es para alegrarse' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-piensa-tecnologia-iluminacion-facial-adapta-automaticamente-brillo-pantalla-durante-videollamadas-1399743'>Microsoft piensa en una tecnología de iluminación facial que adapta automáticamente el brillo de la pantalla durante las videollamadas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-piensa-tecnologia-iluminacion-facial-adapta-automaticamente-brillo-pantalla-durante-videollamadas-1399743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/videollamada-3922118.jpg?tf=1200x' alt='Microsoft piensa en una tecnología de iluminación facial que adapta automáticamente el brillo de la pantalla durante las videollamadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descifran-tablilla-museo-britanico-hace-4000-anos-morira-rey-1399504'>Descifran una tablilla del Museo Británico de hace 4.000 años: "Morirá un rey"</a></h4>
-    <a href='https://computerhoy.com/life/descifran-tablilla-museo-britanico-hace-4000-anos-morira-rey-1399504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/descifran-tablilla-museo-britanico-hace-4000-anos-morira-rey-3906391.jpg?tf=1200x' alt='Descifran una tablilla del Museo Británico de hace 4.000 años: "Morirá un rey"' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-administrar-memoria-virtual-windows-11-beneficios-tiene-1399532'>Cómo administrar la memoria virtual en Windows 11 y qué beneficios tiene</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-administrar-memoria-virtual-windows-11-beneficios-tiene-1399532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-administrar-memoria-virtual-windows-11-beneficios-tiene-3910605.jpg?tf=1200x' alt='Cómo administrar la memoria virtual en Windows 11 y qué beneficios tiene' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/alternativas-aspiradoras-cable-dyson-999121'>Alternativas a las aspiradoras sin cable Dyson que tienen poco que envidiarles</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/alternativas-aspiradoras-cable-dyson-999121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dreame-v11-mistral-3195876.jpg?tf=1200x' alt='Alternativas a las aspiradoras sin cable Dyson que tienen poco que envidiarles' />
+    <h4><a href='https://computerhoy.com/tecnologia/ai-washing-debes-tener-cuidado-producto-lleva-inteligencia-artificial-1395903'>¿Qué es AI washing y por qué debes tener cuidado si un producto lleva "inteligencia artificial"?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ai-washing-debes-tener-cuidado-producto-lleva-inteligencia-artificial-1395903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1722953591219-3890853.jpg?tf=1200x' alt='¿Qué es AI washing y por qué debes tener cuidado si un producto lleva "inteligencia artificial"?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-gama-alta-carga-150w-mitad-precio-1387193'>Cuesta menos de 300 euros y carga a 150W: este gama alta de OnePlus está ya a precio de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-gama-alta-carga-150w-mitad-precio-1387193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/oneplus-10t-5g-3339013.jpg?tf=1200x' alt='Cuesta menos de 300 euros y carga a 150W: este gama alta de OnePlus está ya a precio de Xiaomi' />
+    <h4><a href='https://computerhoy.com/analisis/lujo-pero-aiper-scuba-s1-pro-producto-no-puede-faltar-piscina-verano-1398919'>Es un lujo, pero el Aiper Scuba S1 Pro es el producto que no puede faltar en tu piscina este verano</a></h4>
+    <a href='https://computerhoy.com/analisis/lujo-pero-aiper-scuba-s1-pro-producto-no-puede-faltar-piscina-verano-1398919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aiper-scuba-s1-pro-3883435.jpg?tf=1200x' alt='Es un lujo, pero el Aiper Scuba S1 Pro es el producto que no puede faltar en tu piscina este verano' />
     </a>
 </div>
 
