@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-hara-algunas-aplicaciones-ejecuten-rapido-1399744'>Windows 11 hará que algunas aplicaciones se ejecuten más rápido</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-hara-algunas-aplicaciones-ejecuten-rapido-1399744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/rendimiento-windows-11-3922120.jpg?tf=1200x' alt='Windows 11 hará que algunas aplicaciones se ejecuten más rápido' />
+    <h4><a href='https://computerhoy.com/life/dia-marmota-hombre-salva-morir-ahogada-mujer-segunda-1399748'>Día de la marmota: Un hombre salva de morir ahogada a una mujer dos veces en 25 años</a></h4>
+    <a href='https://computerhoy.com/life/dia-marmota-hombre-salva-morir-ahogada-mujer-segunda-1399748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dia-marmota-hombre-salva-morir-ahogada-mujer-segunda-vez-25-anos-3924062.jpg?tf=1200x' alt='Día de la marmota: Un hombre salva de morir ahogada a una mujer dos veces en 25 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-anadira-temporizador-apagado-automatico-videos-funciona-1399740'>YouTube añadirá un temporizador de apagado automático en los vídeos y así funciona</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-anadira-temporizador-apagado-automatico-videos-funciona-1399740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/youtube-3921960.jpg?tf=1200x' alt='YouTube añadirá un temporizador de apagado automático en los vídeos y así funciona' />
+    <h4><a href='https://computerhoy.com/life/mes-pasado-fue-segundo-julio-caluroso-historia-no-alegrarse-1399742'>El mes pasado fue el segundo julio más caluroso de la historia, y no es para alegrarse</a></h4>
+    <a href='https://computerhoy.com/life/mes-pasado-fue-segundo-julio-caluroso-historia-no-alegrarse-1399742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ola-calor-3922099.jpg?tf=1200x' alt='El mes pasado fue el segundo julio más caluroso de la historia, y no es para alegrarse' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/router-xiaomi-revoluciona-fibra-exprime-maximo-wifi-6-sorprendentemente-barato-1399682'>Este router Xiaomi revoluciona tu fibra: la exprime al máximo con WiFi 6 y es sorprendentemente barato</a></h4>
-    <a href='https://computerhoy.com/redes/router-xiaomi-revoluciona-fibra-exprime-maximo-wifi-6-sorprendentemente-barato-1399682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-router-ax3000t-3914591.jpg?tf=1200x' alt='Este router Xiaomi revoluciona tu fibra: la exprime al máximo con WiFi 6 y es sorprendentemente barato' />
+    <h4><a href='https://computerhoy.com/life/descifran-tablilla-museo-britanico-hace-4000-anos-morira-rey-1399504'>Descifran una tablilla del Museo Británico de hace 4.000 años: "Morirá un rey"</a></h4>
+    <a href='https://computerhoy.com/life/descifran-tablilla-museo-britanico-hace-4000-anos-morira-rey-1399504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/descifran-tablilla-museo-britanico-hace-4000-anos-morira-rey-3906391.jpg?tf=1200x' alt='Descifran una tablilla del Museo Británico de hace 4.000 años: "Morirá un rey"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-5-vs-raspberry-pi-4-diferencias-mejoras-1312072'>Raspberry Pi 5 vs Raspberry Pi 4: todas las diferencias y mejoras del nuevo modelo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-5-vs-raspberry-pi-4-diferencias-mejoras-1312072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/raspberry-pi-5-3146610.jpg?tf=1200x' alt='Raspberry Pi 5 vs Raspberry Pi 4: todas las diferencias y mejoras del nuevo modelo' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/alternativas-aspiradoras-cable-dyson-999121'>Alternativas a las aspiradoras sin cable Dyson que tienen poco que envidiarles</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/alternativas-aspiradoras-cable-dyson-999121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dreame-v11-mistral-3195876.jpg?tf=1200x' alt='Alternativas a las aspiradoras sin cable Dyson que tienen poco que envidiarles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/nueva-vista-aplicaciones-categorias-menu-inicio-windows-11-1399731'>Así es la nueva vista de aplicaciones por categorías del menú inicio de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/nueva-vista-aplicaciones-categorias-menu-inicio-windows-11-1399731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-vista-categorias-menu-inicio-windows-11-3920707.jpg?tf=1200x' alt='Así es la nueva vista de aplicaciones por categorías del menú inicio de Windows 11' />
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-gama-alta-carga-150w-mitad-precio-1387193'>Cuesta menos de 300 euros y carga a 150W: este gama alta de OnePlus está ya a precio de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-gama-alta-carga-150w-mitad-precio-1387193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/oneplus-10t-5g-3339013.jpg?tf=1200x' alt='Cuesta menos de 300 euros y carga a 150W: este gama alta de OnePlus está ya a precio de Xiaomi' />
     </a>
 </div>
 
