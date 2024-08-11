@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/clipchamp-editor-video-windows-11-estrena-funciones-ia-1399778'>Clipchamp, el editor de vídeo de Windows 11, estrena dos potentes funciones IA </a></h4>
+    <a href='https://computerhoy.com/windows/clipchamp-editor-video-windows-11-estrena-funciones-ia-1399778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/clipchamp-editor-video-windows-11-estrena-dos-potentes-funciones-ia-3930691.jpg?tf=1200x' alt='Clipchamp, el editor de vídeo de Windows 11, estrena dos potentes funciones IA ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/tippy-type-cubierta-teclado-unas-muy-largas-1399777'>Tippy Type, la cubierta de teclado para quienes tienen las uñas muy largas</a></h4>
     <a href='https://computerhoy.com/pc/tippy-type-cubierta-teclado-unas-muy-largas-1399777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tippy-type-cubierta-teclado-quienes-tienen-unas-muy-largas-3930230.jpg?tf=1200x' alt='Tippy Type, la cubierta de teclado para quienes tienen las uñas muy largas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/procesadores-influyentes-todos-tiempos-1283812'>Los procesadores más influyentes de todos los tiempos</a></h4>
     <a href='https://computerhoy.com/pc/procesadores-influyentes-todos-tiempos-1283812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/procesador-intel-core-i9-3135858.jpg?tf=1200x' alt='Los procesadores más influyentes de todos los tiempos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/susan-wojcicki-ceo-youtube-fallece-56-anos-1399772'>Susan Wojcicki, CEO de YouTube durante casi una década, fallece a los 56 años</a></h4>
-    <a href='https://computerhoy.com/google/susan-wojcicki-ceo-youtube-fallece-56-anos-1399772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/susan-wojcicki-ceo-youtube-durante-decada-fallece-56-anos-3928843.jpg?tf=1200x' alt='Susan Wojcicki, CEO de YouTube durante casi una década, fallece a los 56 años' />
     </a>
 </div>
 
