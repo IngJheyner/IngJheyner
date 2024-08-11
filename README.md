@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/dos-versiones-windows-11-dejaran-recibir-soporte-menos-60-dias-1399766'>Las dos versiones de Windows 11 que dejarán de recibir soporte en menos de 60 días</a></h4>
+    <a href='https://computerhoy.com/windows/dos-versiones-windows-11-dejaran-recibir-soporte-menos-60-dias-1399766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/actualizacion-windows-3927436.jpg?tf=1200x' alt='Las dos versiones de Windows 11 que dejarán de recibir soporte en menos de 60 días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/ajustes-android-auto-debes-tener-activos-privacidad-1307468'>Los ajustes de Android Auto que debes tener siempre activos para proteger tu privacidad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/ajustes-android-auto-debes-tener-activos-privacidad-1307468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ajustes-android-auto-debes-tener-siempre-activos-proteger-privacidad-3138812.jpg?tf=1200x' alt='Los ajustes de Android Auto que debes tener siempre activos para proteger tu privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-icono-wifi-windows-1395607'>Cómo recuperar el icono de WiFi en Windows cuando ha desaparecido</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-recuperar-icono-wifi-windows-1395607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/conexion-wifi-laptop-3733826.jpg?tf=1200x' alt='Cómo recuperar el icono de WiFi en Windows cuando ha desaparecido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores-juegos-pc-pocos-requisitos-graficos-increibles-1399160'>Los 25 mejores juegos para PC con pocos requisitos y gráficos increíbles</a></h4>
     <a href='https://computerhoy.com/mejores-juegos-pc-pocos-requisitos-graficos-increibles-1399160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/juego-carreras-coches-3897751.jpg?tf=1200x' alt='Los 25 mejores juegos para PC con pocos requisitos y gráficos increíbles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-chrome-ya-no-te-sugerira-generar-automaticamente-contrasenas-razon-1399761'>Google Chrome ya no te sugerirá generar automáticamente contraseñas por esta razón</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-chrome-ya-no-te-sugerira-generar-automaticamente-contrasenas-razon-1399761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/contrasenas-chrome-3927123.jpg?tf=1200x' alt='Google Chrome ya no te sugerirá generar automáticamente contraseñas por esta razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-todos-correos-app-gmail-1399484'>Cómo eliminar todos los correos de la app de Gmail y dejarla como el primer día</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-eliminar-todos-correos-app-gmail-1399484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/eliminar-correos-gmail-3906069.jpg?tf=1200x' alt='Cómo eliminar todos los correos de la app de Gmail y dejarla como el primer día' />
     </a>
 </div>
 
