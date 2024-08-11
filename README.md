@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/valve-planea-llevar-steamos-steam-deck-todos-pc-1399773'>¿El fin de Windows para jugar? Valve planea llevar SteamOS de la Steam Deck a todos los PC</a></h4>
+    <a href='https://computerhoy.com/gaming/valve-planea-llevar-steamos-steam-deck-todos-pc-1399773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704099.jpg?tf=1200x' alt='¿El fin de Windows para jugar? Valve planea llevar SteamOS de la Steam Deck a todos los PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/procesadores-influyentes-todos-tiempos-1283812'>Los procesadores más influyentes de todos los tiempos</a></h4>
     <a href='https://computerhoy.com/pc/procesadores-influyentes-todos-tiempos-1283812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/procesador-intel-core-i9-3135858.jpg?tf=1200x' alt='Los procesadores más influyentes de todos los tiempos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-app-contara-estas-nuevas-versiones-partir-otono-1399768'>Windows App contará con estas nuevas versiones a partir de otoño</a></h4>
     <a href='https://computerhoy.com/windows/windows-app-contara-estas-nuevas-versiones-partir-otono-1399768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-app-3927747.jpg?tf=1200x' alt='Windows App contará con estas nuevas versiones a partir de otoño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-disponible-android-auto-126-como-descargar-novedades-incluye-1399767'>Ya disponible Android Auto 12.6: cómo descargar y qué novedades incluye</a></h4>
-    <a href='https://computerhoy.com/apps/ya-disponible-android-auto-126-como-descargar-novedades-incluye-1399767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-auto-126-3927592.jpg?tf=1200x' alt='Ya disponible Android Auto 12.6: cómo descargar y qué novedades incluye' />
     </a>
 </div>
 
