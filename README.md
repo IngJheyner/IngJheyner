@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-online-nombre-titular-coche-1377792'>Cómo cambiar online el nombre del titular de un coche</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-online-nombre-titular-coche-1377792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/papeleo-coche-3935574.jpg?tf=1200x' alt='Cómo cambiar online el nombre del titular de un coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tdtchannels-amplia-numero-canales-tv-gratis-registro-ni-instalacion-1399686'>TDTChannels se actualiza con un sorpresa que muchos estaban esperando</a></h4>
+    <a href='https://computerhoy.com/apps/tdtchannels-amplia-numero-canales-tv-gratis-registro-ni-instalacion-1399686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels se actualiza con un sorpresa que muchos estaban esperando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/batman-oldboy-5-clasicos-no-existirian-conde-montecristo-1399645'>De Batman a OldBoy: 5 clásicos que no existirían sin El conde de Montecristo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/batman-oldboy-5-clasicos-no-existirian-conde-montecristo-1399645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/batman-oldboy-5-clasicos-no-existirian-conde-montecristo-3912969.jpg?tf=1200x' alt='De Batman a OldBoy: 5 clásicos que no existirían sin El conde de Montecristo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/cuenta-atras-fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-1399699'>Cuenta atrás para el fin de Windows 10: cómo salvar gratis tu viejo PC antes de 2025</a></h4>
     <a href='https://computerhoy.com/windows/cuenta-atras-fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-1399699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuenta-atras-fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-3918130.jpg?tf=1200x' alt='Cuenta atrás para el fin de Windows 10: cómo salvar gratis tu viejo PC antes de 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-pone-marcha-version-barata-vision-pro-unas-gafas-inteligentes-como-meta-1399864'>Apple pone en marcha la versión barata de las Vision Pro y unas gafas inteligentes como las de Meta</a></h4>
-    <a href='https://computerhoy.com/apple/apple-pone-marcha-version-barata-vision-pro-unas-gafas-inteligentes-como-meta-1399864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-sabia-llegariamos-aqui-3269255.jpg?tf=1200x' alt='Apple pone en marcha la versión barata de las Vision Pro y unas gafas inteligentes como las de Meta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ia-pudieran-manipularte-sugiere-nuevo-estudio-1399803'>¿Y si ChatGPT y la IA pudieran manipularte? Así lo sugiere un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-ia-pudieran-manipularte-sugiere-nuevo-estudio-1399803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/chatgpt-ia-pudieran-manipularte-sugiere-nuevo-estudio-3933627.jpg?tf=1200x' alt='¿Y si ChatGPT y la IA pudieran manipularte? Así lo sugiere un nuevo estudio' />
     </a>
 </div>
 
