@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/primer-plegable-triple-pantalla-huawei-cerca-nunca-deja-ver-foto-arriesgado-diseno-1399947'>El primer plegable con triple pantalla de Huawei está más cerca que nunca, se deja ver en una foto con un arriesgado diseño</a></h4>
+    <a href='https://computerhoy.com/moviles/primer-plegable-triple-pantalla-huawei-cerca-nunca-deja-ver-foto-arriesgado-diseno-1399947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/primer-plegable-triple-pantalla-huawei-cerca-nunca-deja-ver-foto-arriesgado-diseno-3937462.jpg?tf=1200x' alt='El primer plegable con triple pantalla de Huawei está más cerca que nunca, se deja ver en una foto con un arriesgado diseño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/senales-trafico-borde-verde-significado-donde-utilizan-1399955'>Señales de tráfico con borde verde: este es su significado y dónde se utilizan</a></h4>
+    <a href='https://computerhoy.com/motor/senales-trafico-borde-verde-significado-donde-utilizan-1399955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/senales-trafico-borde-verde-significado-donde-utilizan-3937468.jpg?tf=1200x' alt='Señales de tráfico con borde verde: este es su significado y dónde se utilizan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuestion-seguridad-google-recomienda-apagar-conectividad-2g-android-1399954'>Es una cuestión de seguridad: Google recomienda apagar la conectividad 2G en Android</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuestion-seguridad-google-recomienda-apagar-conectividad-2g-android-1399954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/conectividad-5g-3937465.jpg?tf=1200x' alt='Es una cuestión de seguridad: Google recomienda apagar la conectividad 2G en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-novedoso-metodo-combatir-alzheimer-1399953'>Científicos descubren un novedoso método para combatir el Alzheimer</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-descubren-novedoso-metodo-combatir-alzheimer-1399953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alzheimer-3937461.jpg?tf=1200x' alt='Científicos descubren un novedoso método para combatir el Alzheimer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/mision-juice-esa-nave-27-metros-luna-tierra-jupiter-1399952'>Una nave de 27 metros de la ESA llega a la Luna, y va a hacer algo nunca visto</a></h4>
     <a href='https://computerhoy.com/espacio/mision-juice-esa-nave-27-metros-luna-tierra-jupiter-1399952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/agencia-espacial-europea-llega-luna-va-hacer-algo-nunca-visto-3936861.jpg?tf=1200x' alt='Una nave de 27 metros de la ESA llega a la Luna, y va a hacer algo nunca visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/router-wifi-colocado-lugar-equivocado-1221412'>¿Quieres un WiFi más rápido? Empieza por cambiar el lugar donde lo tienes colocado</a></h4>
-    <a href='https://computerhoy.com/internet/router-wifi-colocado-lugar-equivocado-1221412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2994456.jpg?tf=1200x' alt='¿Quieres un WiFi más rápido? Empieza por cambiar el lugar donde lo tienes colocado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cientifico-britanico-advierte-fecha-exacta-ia-podria-acabar-humanidad-1399889'>Un científico británico advierte: esta es la fecha exacta en la que la IA podría acabar con la humanidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cientifico-britanico-advierte-fecha-exacta-ia-podria-acabar-humanidad-1399889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cientifico-britanico-advierte-fecha-exacta-ia-podria-acabar-humanidad-3935416.jpg?tf=1200x' alt='Un científico británico advierte: esta es la fecha exacta en la que la IA podría acabar con la humanidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/detectan-peligroso-malware-instala-extensiones-falsas-chrome-edge-puedes-protegerte-1399941'>Detectan un peligroso malware que instala extensiones falsas en Chrome y Edge, así puedes protegerte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/detectan-peligroso-malware-instala-extensiones-falsas-chrome-edge-puedes-protegerte-1399941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/detectan-peligroso-malware-instala-extensiones-falsas-chrome-edge-puedes-protegerte-3937011.jpg?tf=1200x' alt='Detectan un peligroso malware que instala extensiones falsas en Chrome y Edge, así puedes protegerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cual-precision-real-velocimetros-google-maps-waze-1399781'>¿Cuál es la precisión real de los velocímetros de Google Maps y Waze?</a></h4>
-    <a href='https://computerhoy.com/motor/cual-precision-real-velocimetros-google-maps-waze-1399781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cual-precision-real-velocimetros-google-maps-waze-3932992.jpg?tf=1200x' alt='¿Cuál es la precisión real de los velocímetros de Google Maps y Waze?' />
     </a>
 </div>
 
