@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/mision-juice-esa-nave-27-metros-luna-tierra-jupiter-1399952'>Una nave de 27 metros de la ESA llega a la Luna, y va a hacer algo nunca visto</a></h4>
+    <a href='https://computerhoy.com/espacio/mision-juice-esa-nave-27-metros-luna-tierra-jupiter-1399952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/agencia-espacial-europea-llega-luna-va-hacer-algo-nunca-visto-3936861.jpg?tf=1200x' alt='Una nave de 27 metros de la ESA llega a la Luna, y va a hacer algo nunca visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/router-wifi-colocado-lugar-equivocado-1221412'>¿Quieres un WiFi más rápido? Empieza por cambiar el lugar donde lo tienes colocado</a></h4>
+    <a href='https://computerhoy.com/internet/router-wifi-colocado-lugar-equivocado-1221412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2994456.jpg?tf=1200x' alt='¿Quieres un WiFi más rápido? Empieza por cambiar el lugar donde lo tienes colocado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cientifico-britanico-advierte-fecha-exacta-ia-podria-acabar-humanidad-1399889'>Un científico británico advierte: esta es la fecha exacta en la que la IA podría acabar con la humanidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cientifico-britanico-advierte-fecha-exacta-ia-podria-acabar-humanidad-1399889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cientifico-britanico-advierte-fecha-exacta-ia-podria-acabar-humanidad-3935416.jpg?tf=1200x' alt='Un científico británico advierte: esta es la fecha exacta en la que la IA podría acabar con la humanidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/detectan-peligroso-malware-instala-extensiones-falsas-chrome-edge-puedes-protegerte-1399941'>Detectan un peligroso malware que instala extensiones falsas en Chrome y Edge, así puedes protegerte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/detectan-peligroso-malware-instala-extensiones-falsas-chrome-edge-puedes-protegerte-1399941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/detectan-peligroso-malware-instala-extensiones-falsas-chrome-edge-puedes-protegerte-3937011.jpg?tf=1200x' alt='Detectan un peligroso malware que instala extensiones falsas en Chrome y Edge, así puedes protegerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/cual-precision-real-velocimetros-google-maps-waze-1399781'>¿Cuál es la precisión real de los velocímetros de Google Maps y Waze?</a></h4>
     <a href='https://computerhoy.com/motor/cual-precision-real-velocimetros-google-maps-waze-1399781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cual-precision-real-velocimetros-google-maps-waze-3932992.jpg?tf=1200x' alt='¿Cuál es la precisión real de los velocímetros de Google Maps y Waze?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/fin-combustibles-fosiles-fusion-nuclear-podria-ser-realidad-30-anos-1399933'>La fusión nuclear podría ser realidad en 30 años, pero nos aprovecharemos mucho antes de los beneficios</a></h4>
-    <a href='https://computerhoy.com/energia/fin-combustibles-fosiles-fusion-nuclear-podria-ser-realidad-30-anos-1399933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fin-combustibles-fosiles-fusion-nuclear-podria-ser-realidad-30-anos-3936688.jpg?tf=1200x' alt='La fusión nuclear podría ser realidad en 30 años, pero nos aprovecharemos mucho antes de los beneficios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-derriba-precio-programas-1tb-nube-rebajaza-todo-office-365-1399848'>Microsoft derriba el precio de sus programas: 1TB en la nube y rebajaza en todo Office 365</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-derriba-precio-programas-1tb-nube-rebajaza-todo-office-365-1399848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-365-3308242.jpg?tf=1200x' alt='Microsoft derriba el precio de sus programas: 1TB en la nube y rebajaza en todo Office 365' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/fans-critican-falta-originalidad-borderlands-no-fallout-1399620'>Los fans critican la falta de originalidad de Borderlands: “no es Fallout”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/fans-critican-falta-originalidad-borderlands-no-fallout-1399620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fans-critican-falta-originalidad-borderlands-no-fallout-3912446.jpg?tf=1200x' alt='Los fans critican la falta de originalidad de Borderlands: “no es Fallout”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/gesto-soluciona-99-problemas-conexion-smart-tv-1304588'>El sencillo gesto que soluciona el 99% de los problemas de conexión de tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/gesto-soluciona-99-problemas-conexion-smart-tv-1304588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/smart-tv-3134876.jpg?tf=1200x' alt='El sencillo gesto que soluciona el 99% de los problemas de conexión de tu Smart TV' />
     </a>
 </div>
 
