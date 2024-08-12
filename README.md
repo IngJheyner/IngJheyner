@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tiembla-garmin-reloj-toma-nombre-leopardo-barato-increible-runners-1399782'>Tiembla Garmin: este reloj toma su nombre del Leopardo, es barato e increíble para runners</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiembla-garmin-reloj-toma-nombre-leopardo-barato-increible-runners-1399782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cheetah-amazfit-round-3933147.jpg?tf=1200x' alt='Tiembla Garmin: este reloj toma su nombre del Leopardo, es barato e increíble para runners' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/intel-tiene-manos-nuevo-proyecto-tarjeta-grafica-coches-alta-gama-1399792'>Intel tiene entre manos nuevo proyecto: una tarjeta gráfica para coches de alta gama</a></h4>
+    <a href='https://computerhoy.com/tecnologia/intel-tiene-manos-nuevo-proyecto-tarjeta-grafica-coches-alta-gama-1399792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/intel-gpu-coches-3933629.jpg?tf=1200x' alt='Intel tiene entre manos nuevo proyecto: una tarjeta gráfica para coches de alta gama' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-vs-arduino-diferencias-mejor-opcion-1305172'>Raspberry Pi vs. Arduino: ¿cuál es la mejor opción? Estas son sus diferencias</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-vs-arduino-diferencias-mejor-opcion-1305172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/raspberry-pi-vs-arduino-diferencias-cual-mejor-opcion-3135062.jpg?tf=1200x' alt='Raspberry Pi vs. Arduino: ¿cuál es la mejor opción? Estas son sus diferencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vpn-privacidad-suiza-probar-gratis-1376002'>Esta VPN con privacidad suiza planta cara a los gigantes, y puedes probarla gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/vpn-privacidad-suiza-probar-gratis-1376002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/protonvpn-vpn-3279021.jpg?tf=1200x' alt='Esta VPN con privacidad suiza planta cara a los gigantes, y puedes probarla gratis' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/aparato-nokia-mejor-chromecast-tv-mas-rapido-1398102'>Nokia tiene un aparato mejor que el Chromecast que hará que tu TV funcione mucho más rápido</a></h4>
     <a href='https://computerhoy.com/tecnologia/aparato-nokia-mejor-chromecast-tv-mas-rapido-1398102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-3845313.jpg?tf=1200x' alt='Nokia tiene un aparato mejor que el Chromecast que hará que tu TV funcione mucho más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-oneplus-nord-4-me-ha-hecho-dudar-verdad-necesito-movil-gama-alta-1399548'>He probado el OnePlus Nord 4: me ha hecho dudar de si de verdad necesito un móvil de gama alta</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-oneplus-nord-4-me-ha-hecho-dudar-verdad-necesito-movil-gama-alta-1399548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/opiniones-oneplus-nord-4-3911082.jpg?tf=1200x' alt='He probado el OnePlus Nord 4: me ha hecho dudar de si de verdad necesito un móvil de gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-comprar-anillo-inteligente-aliexpress-1387338'>Ya puedes comprar un anillo inteligente, y por apenas 20 euros gracias a AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-puedes-comprar-anillo-inteligente-aliexpress-1387338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/colmi-r02-3359999.jpg?tf=1200x' alt='Ya puedes comprar un anillo inteligente, y por apenas 20 euros gracias a AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/clipchamp-editor-video-windows-11-estrena-funciones-ia-1399778'>Clipchamp, el editor de vídeo de Windows 11, estrena dos potentes funciones IA </a></h4>
-    <a href='https://computerhoy.com/windows/clipchamp-editor-video-windows-11-estrena-funciones-ia-1399778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/clipchamp-editor-video-windows-11-estrena-dos-potentes-funciones-ia-3930691.jpg?tf=1200x' alt='Clipchamp, el editor de vídeo de Windows 11, estrena dos potentes funciones IA ' />
     </a>
 </div>
 
