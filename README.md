@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/batman-oldboy-5-clasicos-no-existirian-conde-montecristo-1399645'>De Batman a OldBoy: 5 clásicos que no existirían sin El conde de Montecristo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/batman-oldboy-5-clasicos-no-existirian-conde-montecristo-1399645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/batman-oldboy-5-clasicos-no-existirian-conde-montecristo-3912969.jpg?tf=1200x' alt='De Batman a OldBoy: 5 clásicos que no existirían sin El conde de Montecristo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/fracaso-taquilla-pero-ambiciosa-pelicula-ciencia-ficcion-donald-sutherland-llega-ahora-amazon-prime-video-1399630'>Fracasó en taquilla, pero esta ambiciosa película de ciencia ficción con Donald Sutherland llega ahora a Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fracaso-taquilla-pero-ambiciosa-pelicula-ciencia-ficcion-donald-sutherland-llega-ahora-amazon-prime-video-1399630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fracaso-taquilla-pero-ambiciosa-pelicula-ciencia-ficcion-donald-sutherland-llega-ahora-amazon-prime-video-3912645.jpg?tf=1200x' alt='Fracasó en taquilla, pero esta ambiciosa película de ciencia ficción con Donald Sutherland llega ahora a Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/cuenta-atras-fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-1399699'>Cuenta atrás para el fin de Windows 10: cómo salvar gratis tu viejo PC antes de 2025</a></h4>
     <a href='https://computerhoy.com/windows/cuenta-atras-fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-1399699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuenta-atras-fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-3918130.jpg?tf=1200x' alt='Cuenta atrás para el fin de Windows 10: cómo salvar gratis tu viejo PC antes de 2025' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ia-pudieran-manipularte-sugiere-nuevo-estudio-1399803'>¿Y si ChatGPT y la IA pudieran manipularte? Así lo sugiere un nuevo estudio</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-ia-pudieran-manipularte-sugiere-nuevo-estudio-1399803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/chatgpt-ia-pudieran-manipularte-sugiere-nuevo-estudio-3933627.jpg?tf=1200x' alt='¿Y si ChatGPT y la IA pudieran manipularte? Así lo sugiere un nuevo estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-guardar-ruta-google-maps-planificar-viajes-1296346'>Cómo guardar una ruta en Google Maps para planificar tus viajes</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-guardar-ruta-google-maps-planificar-viajes-1296346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/rutas-google-maps-3119840.jpg?tf=1200x' alt='Cómo guardar una ruta en Google Maps para planificar tus viajes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasa-comida-cuando-comes-despues-tocar-movil-portatil-550457'>¡Preocupante resultado! Esto es lo que le pasa a la comida cuando comes después de tocar el móvil o portátil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pasa-comida-cuando-comes-despues-tocar-movil-portatil-550457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/pasa-comida-cuando-comes-despues-haber-tocado-movil-portatil_0.jpg?tf=1200x' alt='¡Preocupante resultado! Esto es lo que le pasa a la comida cuando comes después de tocar el móvil o portátil' />
     </a>
 </div>
 
