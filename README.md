@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/fin-combustibles-fosiles-fusion-nuclear-podria-ser-realidad-30-anos-1399933'>La fusión nuclear podría ser realidad en 30 años, pero nos aprovecharemos mucho antes de los beneficios</a></h4>
+    <a href='https://computerhoy.com/energia/fin-combustibles-fosiles-fusion-nuclear-podria-ser-realidad-30-anos-1399933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fin-combustibles-fosiles-fusion-nuclear-podria-ser-realidad-30-anos-3936688.jpg?tf=1200x' alt='La fusión nuclear podría ser realidad en 30 años, pero nos aprovecharemos mucho antes de los beneficios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-derriba-precio-programas-1tb-nube-rebajaza-todo-office-365-1399848'>Microsoft derriba el precio de sus programas: 1TB en la nube y rebajaza en todo Office 365</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-derriba-precio-programas-1tb-nube-rebajaza-todo-office-365-1399848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-365-3308242.jpg?tf=1200x' alt='Microsoft derriba el precio de sus programas: 1TB en la nube y rebajaza en todo Office 365' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/fans-critican-falta-originalidad-borderlands-no-fallout-1399620'>Los fans critican la falta de originalidad de Borderlands: “no es Fallout”</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fans-critican-falta-originalidad-borderlands-no-fallout-1399620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fans-critican-falta-originalidad-borderlands-no-fallout-3912446.jpg?tf=1200x' alt='Los fans critican la falta de originalidad de Borderlands: “no es Fallout”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/gesto-soluciona-99-problemas-conexion-smart-tv-1304588'>El sencillo gesto que soluciona el 99% de los problemas de conexión de tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/gesto-soluciona-99-problemas-conexion-smart-tv-1304588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/smart-tv-3134876.jpg?tf=1200x' alt='El sencillo gesto que soluciona el 99% de los problemas de conexión de tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-online-nombre-titular-coche-1377792'>Cómo cambiar online el nombre del titular de un coche</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-online-nombre-titular-coche-1377792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/papeleo-coche-3935574.jpg?tf=1200x' alt='Cómo cambiar online el nombre del titular de un coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tdtchannels-amplia-numero-canales-tv-gratis-registro-ni-instalacion-1399686'>TDTChannels se actualiza con un sorpresa que muchos estaban esperando</a></h4>
-    <a href='https://computerhoy.com/apps/tdtchannels-amplia-numero-canales-tv-gratis-registro-ni-instalacion-1399686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels se actualiza con un sorpresa que muchos estaban esperando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/batman-oldboy-5-clasicos-no-existirian-conde-montecristo-1399645'>De Batman a OldBoy: 5 clásicos que no existirían sin El conde de Montecristo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/batman-oldboy-5-clasicos-no-existirian-conde-montecristo-1399645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/batman-oldboy-5-clasicos-no-existirian-conde-montecristo-3912969.jpg?tf=1200x' alt='De Batman a OldBoy: 5 clásicos que no existirían sin El conde de Montecristo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/fracaso-taquilla-pero-ambiciosa-pelicula-ciencia-ficcion-donald-sutherland-llega-ahora-amazon-prime-video-1399630'>Fracasó en taquilla, pero esta ambiciosa película de ciencia ficción con Donald Sutherland llega ahora a Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/fracaso-taquilla-pero-ambiciosa-pelicula-ciencia-ficcion-donald-sutherland-llega-ahora-amazon-prime-video-1399630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fracaso-taquilla-pero-ambiciosa-pelicula-ciencia-ficcion-donald-sutherland-llega-ahora-amazon-prime-video-3912645.jpg?tf=1200x' alt='Fracasó en taquilla, pero esta ambiciosa película de ciencia ficción con Donald Sutherland llega ahora a Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/cuenta-atras-fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-1399699'>Cuenta atrás para el fin de Windows 10: cómo salvar gratis tu viejo PC antes de 2025</a></h4>
-    <a href='https://computerhoy.com/windows/cuenta-atras-fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-1399699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuenta-atras-fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-3918130.jpg?tf=1200x' alt='Cuenta atrás para el fin de Windows 10: cómo salvar gratis tu viejo PC antes de 2025' />
     </a>
 </div>
 
