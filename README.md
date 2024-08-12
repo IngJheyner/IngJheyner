@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasa-comida-cuando-comes-despues-tocar-movil-portatil-550457'>¡Preocupante resultado! Esto es lo que le pasa a la comida cuando comes después de tocar el móvil o portátil</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/pasa-comida-cuando-comes-despues-tocar-movil-portatil-550457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/pasa-comida-cuando-comes-despues-haber-tocado-movil-portatil_0.jpg?tf=1200x' alt='¡Preocupante resultado! Esto es lo que le pasa a la comida cuando comes después de tocar el móvil o portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/avion-chino-puede-dar-vuelta-mundo-2-horas-podria-ser-primer-vuelo-comercial-20000-km-h-1399841'>Un avión chino puede dar la vuelta al mundo en 2 horas y podría ser el primer vuelo comercial a 20.000 km/h</a></h4>
+    <a href='https://computerhoy.com/motor/avion-chino-puede-dar-vuelta-mundo-2-horas-podria-ser-primer-vuelo-comercial-20000-km-h-1399841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/avion-chino-puede-dar-vuelta-mundo-2-horas-podria-ser-primer-vuelo-comercial-20000-km-h-3934442.jpg?tf=1200x' alt='Un avión chino puede dar la vuelta al mundo en 2 horas y podría ser el primer vuelo comercial a 20.000 km/h' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/camaras-routers-wifi-popular-marca-son-vulnerables-pese-parches-disponibles-1398896'>Cinco años más tarde miles de cámaras y routers WiFi de esta marca siguen siendo vulnerables pese a los parches disponibles</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/camaras-routers-wifi-popular-marca-son-vulnerables-pese-parches-disponibles-1398896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/miles-camaras-routers-wifi-popular-marca-son-vulnerables-pese-parches-disponibles-3882949.jpg?tf=1200x' alt='Cinco años más tarde miles de cámaras y routers WiFi de esta marca siguen siendo vulnerables pese a los parches disponibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/pantalla-2k-procesador-snapdragon-precio-xiaomi-tablet-lenovo-perfecta-trabajar-ha-tumbado-precio-1399789'>Pantalla 2K y procesador Snapdragon a precio de Xiaomi: esta tablet de Lenovo es perfecta para trabajar y ha tumbado su precio</a></h4>
     <a href='https://computerhoy.com/android/pantalla-2k-procesador-snapdragon-precio-xiaomi-tablet-lenovo-perfecta-trabajar-ha-tumbado-precio-1399789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tab-m10-plus-gen-3-3010842.jpg?tf=1200x' alt='Pantalla 2K y procesador Snapdragon a precio de Xiaomi: esta tablet de Lenovo es perfecta para trabajar y ha tumbado su precio' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/pasa-comida-cuando-comes-despues-haber-tocado-movil-portatil-550457'>¡Preocupante resultado! Esto es lo que le pasa a la comida cuando comes después de tocar el móvil o portátil</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/pasa-comida-cuando-comes-despues-haber-tocado-movil-portatil-550457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/pasa-comida-cuando-comes-despues-haber-tocado-movil-portatil_0.jpg?tf=1200x' alt='¡Preocupante resultado! Esto es lo que le pasa a la comida cuando comes después de tocar el móvil o portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/iphone-4-incorporaria-ia-apple-demasiado-bueno-ser-tan-barato-1399821'>El iPhone SE 4 incorporaría la IA de Apple: ¿Demasiado bueno para ser tan barato?</a></h4>
     <a href='https://computerhoy.com/apple/iphone-4-incorporaria-ia-apple-demasiado-bueno-ser-tan-barato-1399821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-apple-3934279.jpg?tf=1200x' alt='El iPhone SE 4 incorporaría la IA de Apple: ¿Demasiado bueno para ser tan barato?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/mejora-velocidad-router-wifi-estos-consejos-1303968'>Mejora la velocidad de tu router WiFi en minutos con estos 4 consejos infalibles</a></h4>
-    <a href='https://computerhoy.com/redes/mejora-velocidad-router-wifi-estos-consejos-1303968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg?tf=1200x' alt='Mejora la velocidad de tu router WiFi en minutos con estos 4 consejos infalibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/vodafone-jazztel-yoigo-repiten-ano-como-companias-reclamaciones-clientes-1399816'>Vodafone, Jazztel y Yoigo son las compañías con más quejas de los clientes: Digi y Pepephone son las que generan más satisfacción</a></h4>
-    <a href='https://computerhoy.com/internet/vodafone-jazztel-yoigo-repiten-ano-como-companias-reclamaciones-clientes-1399816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vodafone-jazztel-yoigo-repiten-ano-como-companias-reclamaciones-clientes-3934056.jpg?tf=1200x' alt='Vodafone, Jazztel y Yoigo son las compañías con más quejas de los clientes: Digi y Pepephone son las que generan más satisfacción' />
     </a>
 </div>
 
