@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-pone-marcha-version-barata-vision-pro-unas-gafas-inteligentes-como-meta-1399864'>Apple pone en marcha la versión barata de las Vision Pro y unas gafas inteligentes como las de Meta</a></h4>
+    <a href='https://computerhoy.com/apple/apple-pone-marcha-version-barata-vision-pro-unas-gafas-inteligentes-como-meta-1399864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-sabia-llegariamos-aqui-3269255.jpg?tf=1200x' alt='Apple pone en marcha la versión barata de las Vision Pro y unas gafas inteligentes como las de Meta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ia-pudieran-manipularte-sugiere-nuevo-estudio-1399803'>¿Y si ChatGPT y la IA pudieran manipularte? Así lo sugiere un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ia-pudieran-manipularte-sugiere-nuevo-estudio-1399803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/chatgpt-ia-pudieran-manipularte-sugiere-nuevo-estudio-3933627.jpg?tf=1200x' alt='¿Y si ChatGPT y la IA pudieran manipularte? Así lo sugiere un nuevo estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-guardar-ruta-google-maps-planificar-viajes-1296346'>Cómo guardar una ruta en Google Maps para planificar tus viajes</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-guardar-ruta-google-maps-planificar-viajes-1296346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/rutas-google-maps-3119840.jpg?tf=1200x' alt='Cómo guardar una ruta en Google Maps para planificar tus viajes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pasa-comida-cuando-comes-despues-tocar-movil-portatil-550457'>¡Preocupante resultado! Esto es lo que le pasa a la comida cuando comes después de tocar el móvil o portátil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pasa-comida-cuando-comes-despues-tocar-movil-portatil-550457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/pasa-comida-cuando-comes-despues-haber-tocado-movil-portatil_0.jpg?tf=1200x' alt='¡Preocupante resultado! Esto es lo que le pasa a la comida cuando comes después de tocar el móvil o portátil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/avion-chino-puede-dar-vuelta-mundo-2-horas-podria-ser-primer-vuelo-comercial-20000-km-h-1399841'>Un avión chino puede dar la vuelta al mundo en 2 horas y podría ser el primer vuelo comercial a 20.000 km/h</a></h4>
     <a href='https://computerhoy.com/motor/avion-chino-puede-dar-vuelta-mundo-2-horas-podria-ser-primer-vuelo-comercial-20000-km-h-1399841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/avion-chino-puede-dar-vuelta-mundo-2-horas-podria-ser-primer-vuelo-comercial-20000-km-h-3934442.jpg?tf=1200x' alt='Un avión chino puede dar la vuelta al mundo en 2 horas y podría ser el primer vuelo comercial a 20.000 km/h' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/camaras-routers-wifi-popular-marca-son-vulnerables-pese-parches-disponibles-1398896'>Cinco años más tarde miles de cámaras y routers WiFi de esta marca siguen siendo vulnerables pese a los parches disponibles</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/camaras-routers-wifi-popular-marca-son-vulnerables-pese-parches-disponibles-1398896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/miles-camaras-routers-wifi-popular-marca-son-vulnerables-pese-parches-disponibles-3882949.jpg?tf=1200x' alt='Cinco años más tarde miles de cámaras y routers WiFi de esta marca siguen siendo vulnerables pese a los parches disponibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/pantalla-2k-procesador-snapdragon-precio-xiaomi-tablet-lenovo-perfecta-trabajar-ha-tumbado-precio-1399789'>Pantalla 2K y procesador Snapdragon a precio de Xiaomi: esta tablet de Lenovo es perfecta para trabajar y ha tumbado su precio</a></h4>
-    <a href='https://computerhoy.com/android/pantalla-2k-procesador-snapdragon-precio-xiaomi-tablet-lenovo-perfecta-trabajar-ha-tumbado-precio-1399789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tab-m10-plus-gen-3-3010842.jpg?tf=1200x' alt='Pantalla 2K y procesador Snapdragon a precio de Xiaomi: esta tablet de Lenovo es perfecta para trabajar y ha tumbado su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-4-incorporaria-ia-apple-demasiado-bueno-ser-tan-barato-1399821'>El iPhone SE 4 incorporaría la IA de Apple: ¿Demasiado bueno para ser tan barato?</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-4-incorporaria-ia-apple-demasiado-bueno-ser-tan-barato-1399821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-apple-3934279.jpg?tf=1200x' alt='El iPhone SE 4 incorporaría la IA de Apple: ¿Demasiado bueno para ser tan barato?' />
     </a>
 </div>
 
