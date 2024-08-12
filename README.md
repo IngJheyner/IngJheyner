@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-comprar-anillo-inteligente-aliexpress-1387338'>Ya puedes comprar un anillo inteligente, y por apenas 20 euros gracias a AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-puedes-comprar-anillo-inteligente-aliexpress-1387338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/colmi-r02-3359999.jpg?tf=1200x' alt='Ya puedes comprar un anillo inteligente, y por apenas 20 euros gracias a AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/clipchamp-editor-video-windows-11-estrena-funciones-ia-1399778'>Clipchamp, el editor de vídeo de Windows 11, estrena dos potentes funciones IA </a></h4>
     <a href='https://computerhoy.com/windows/clipchamp-editor-video-windows-11-estrena-funciones-ia-1399778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/clipchamp-editor-video-windows-11-estrena-dos-potentes-funciones-ia-3930691.jpg?tf=1200x' alt='Clipchamp, el editor de vídeo de Windows 11, estrena dos potentes funciones IA ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/valve-planea-llevar-steamos-steam-deck-todos-pc-1399773'>¿El fin de Windows para jugar? Valve planea llevar SteamOS de la Steam Deck a todos los PC</a></h4>
     <a href='https://computerhoy.com/gaming/valve-planea-llevar-steamos-steam-deck-todos-pc-1399773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704099.jpg?tf=1200x' alt='¿El fin de Windows para jugar? Valve planea llevar SteamOS de la Steam Deck a todos los PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/procesadores-influyentes-todos-tiempos-1283812'>Los procesadores más influyentes de todos los tiempos</a></h4>
-    <a href='https://computerhoy.com/pc/procesadores-influyentes-todos-tiempos-1283812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/procesador-intel-core-i9-3135858.jpg?tf=1200x' alt='Los procesadores más influyentes de todos los tiempos' />
     </a>
 </div>
 
