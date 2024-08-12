@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aparato-nokia-mejor-chromecast-tv-mas-rapido-1398102'>Nokia tiene un aparato mejor que el Chromecast que hará que tu TV funcione mucho más rápido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aparato-nokia-mejor-chromecast-tv-mas-rapido-1398102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-3845313.jpg?tf=1200x' alt='Nokia tiene un aparato mejor que el Chromecast que hará que tu TV funcione mucho más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-oneplus-nord-4-me-ha-hecho-dudar-verdad-necesito-movil-gama-alta-1399548'>He probado el OnePlus Nord 4: me ha hecho dudar de si de verdad necesito un móvil de gama alta</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-oneplus-nord-4-me-ha-hecho-dudar-verdad-necesito-movil-gama-alta-1399548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/opiniones-oneplus-nord-4-3911082.jpg?tf=1200x' alt='He probado el OnePlus Nord 4: me ha hecho dudar de si de verdad necesito un móvil de gama alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-comprar-anillo-inteligente-aliexpress-1387338'>Ya puedes comprar un anillo inteligente, y por apenas 20 euros gracias a AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-puedes-comprar-anillo-inteligente-aliexpress-1387338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/colmi-r02-3359999.jpg?tf=1200x' alt='Ya puedes comprar un anillo inteligente, y por apenas 20 euros gracias a AliExpress' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/tippy-type-cubierta-teclado-unas-muy-largas-1399777'>Tippy Type, la cubierta de teclado para quienes tienen las uñas muy largas</a></h4>
     <a href='https://computerhoy.com/pc/tippy-type-cubierta-teclado-unas-muy-largas-1399777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tippy-type-cubierta-teclado-quienes-tienen-unas-muy-largas-3930230.jpg?tf=1200x' alt='Tippy Type, la cubierta de teclado para quienes tienen las uñas muy largas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/docenas-personas-heridas-mascotas-muertas-obligan-samsung-retirar-millon-hornos-1399775'>Docenas de personas heridas y mascotas muertas obligan a Samsung a retirar un millón de hornos</a></h4>
-    <a href='https://computerhoy.com/hogar/docenas-personas-heridas-mascotas-muertas-obligan-samsung-retirar-millon-hornos-1399775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/docenas-personas-mascotas-heridas-obligan-samsung-retirar-millon-hornos-estufas-3929612.jpg?tf=1200x' alt='Docenas de personas heridas y mascotas muertas obligan a Samsung a retirar un millón de hornos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/valve-planea-llevar-steamos-steam-deck-todos-pc-1399773'>¿El fin de Windows para jugar? Valve planea llevar SteamOS de la Steam Deck a todos los PC</a></h4>
-    <a href='https://computerhoy.com/gaming/valve-planea-llevar-steamos-steam-deck-todos-pc-1399773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-steam-deck-2704099.jpg?tf=1200x' alt='¿El fin de Windows para jugar? Valve planea llevar SteamOS de la Steam Deck a todos los PC' />
     </a>
 </div>
 
