@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/hackea-robot-aspirador-ecovacs-espiar-traves-camara-micro-1399960'>Así se hackea un robot aspirador para espiar a través de su cámara y micro</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hackea-robot-aspirador-ecovacs-espiar-traves-camara-micro-1399960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/consiguen-hackear-robot-aspirador-espiar-traves-camaras-3938078.jpg?tf=1200x' alt='Así se hackea un robot aspirador para espiar a través de su cámara y micro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/primer-plegable-triple-pantalla-huawei-cerca-nunca-deja-ver-foto-arriesgado-diseno-1399947'>El primer plegable con triple pantalla de Huawei está más cerca que nunca, se deja ver en una foto con un arriesgado diseño</a></h4>
     <a href='https://computerhoy.com/moviles/primer-plegable-triple-pantalla-huawei-cerca-nunca-deja-ver-foto-arriesgado-diseno-1399947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/primer-plegable-triple-pantalla-huawei-cerca-nunca-deja-ver-foto-arriesgado-diseno-3937462.jpg?tf=1200x' alt='El primer plegable con triple pantalla de Huawei está más cerca que nunca, se deja ver en una foto con un arriesgado diseño' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-novedoso-metodo-combatir-alzheimer-1399953'>Científicos descubren un novedoso método para combatir el Alzheimer</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-descubren-novedoso-metodo-combatir-alzheimer-1399953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alzheimer-3937461.jpg?tf=1200x' alt='Científicos descubren un novedoso método para combatir el Alzheimer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/mision-juice-esa-nave-27-metros-luna-tierra-jupiter-1399952'>Una nave de 27 metros de la ESA llega a la Luna, y va a hacer algo nunca visto</a></h4>
-    <a href='https://computerhoy.com/espacio/mision-juice-esa-nave-27-metros-luna-tierra-jupiter-1399952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/agencia-espacial-europea-llega-luna-va-hacer-algo-nunca-visto-3936861.jpg?tf=1200x' alt='Una nave de 27 metros de la ESA llega a la Luna, y va a hacer algo nunca visto' />
     </a>
 </div>
 
