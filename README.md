@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/cuenta-atras-fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-1399699'>Cuenta atrás para el fin de Windows 10: cómo salvar gratis tu viejo PC antes de 2025</a></h4>
+    <a href='https://computerhoy.com/windows/cuenta-atras-fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-1399699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuenta-atras-fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-3918130.jpg?tf=1200x' alt='Cuenta atrás para el fin de Windows 10: cómo salvar gratis tu viejo PC antes de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-pone-marcha-version-barata-vision-pro-unas-gafas-inteligentes-como-meta-1399864'>Apple pone en marcha la versión barata de las Vision Pro y unas gafas inteligentes como las de Meta</a></h4>
     <a href='https://computerhoy.com/apple/apple-pone-marcha-version-barata-vision-pro-unas-gafas-inteligentes-como-meta-1399864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-sabia-llegariamos-aqui-3269255.jpg?tf=1200x' alt='Apple pone en marcha la versión barata de las Vision Pro y unas gafas inteligentes como las de Meta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/pasa-comida-cuando-comes-despues-tocar-movil-portatil-550457'>¡Preocupante resultado! Esto es lo que le pasa a la comida cuando comes después de tocar el móvil o portátil</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/pasa-comida-cuando-comes-despues-tocar-movil-portatil-550457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/pasa-comida-cuando-comes-despues-haber-tocado-movil-portatil_0.jpg?tf=1200x' alt='¡Preocupante resultado! Esto es lo que le pasa a la comida cuando comes después de tocar el móvil o portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/avion-chino-puede-dar-vuelta-mundo-2-horas-podria-ser-primer-vuelo-comercial-20000-km-h-1399841'>Un avión chino puede dar la vuelta al mundo en 2 horas y podría ser el primer vuelo comercial a 20.000 km/h</a></h4>
-    <a href='https://computerhoy.com/motor/avion-chino-puede-dar-vuelta-mundo-2-horas-podria-ser-primer-vuelo-comercial-20000-km-h-1399841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/avion-chino-puede-dar-vuelta-mundo-2-horas-podria-ser-primer-vuelo-comercial-20000-km-h-3934442.jpg?tf=1200x' alt='Un avión chino puede dar la vuelta al mundo en 2 horas y podría ser el primer vuelo comercial a 20.000 km/h' />
     </a>
 </div>
 
