@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cual-precision-real-velocimetros-google-maps-waze-1399781'>¿Cuál es la precisión real de los velocímetros de Google Maps y Waze?</a></h4>
+    <a href='https://computerhoy.com/motor/cual-precision-real-velocimetros-google-maps-waze-1399781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cual-precision-real-velocimetros-google-maps-waze-3932992.jpg?tf=1200x' alt='¿Cuál es la precisión real de los velocímetros de Google Maps y Waze?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/fin-combustibles-fosiles-fusion-nuclear-podria-ser-realidad-30-anos-1399933'>La fusión nuclear podría ser realidad en 30 años, pero nos aprovecharemos mucho antes de los beneficios</a></h4>
     <a href='https://computerhoy.com/energia/fin-combustibles-fosiles-fusion-nuclear-podria-ser-realidad-30-anos-1399933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fin-combustibles-fosiles-fusion-nuclear-podria-ser-realidad-30-anos-3936688.jpg?tf=1200x' alt='La fusión nuclear podría ser realidad en 30 años, pero nos aprovecharemos mucho antes de los beneficios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/gesto-soluciona-99-problemas-conexion-smart-tv-1304588'>El sencillo gesto que soluciona el 99% de los problemas de conexión de tu Smart TV</a></h4>
     <a href='https://computerhoy.com/tutoriales/gesto-soluciona-99-problemas-conexion-smart-tv-1304588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/smart-tv-3134876.jpg?tf=1200x' alt='El sencillo gesto que soluciona el 99% de los problemas de conexión de tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-online-nombre-titular-coche-1377792'>Cómo cambiar online el nombre del titular de un coche</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-online-nombre-titular-coche-1377792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/papeleo-coche-3935574.jpg?tf=1200x' alt='Cómo cambiar online el nombre del titular de un coche' />
     </a>
 </div>
 
