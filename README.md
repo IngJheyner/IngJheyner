@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/ia-te-pedira-te-pienses-antes-insultar-alguien-twitch-1400145'>Una IA te pedirá que te lo pienses, antes de insultar a alguien en Twitch</a></h4>
+    <a href='https://computerhoy.com/redes/ia-te-pedira-te-pienses-antes-insultar-alguien-twitch-1400145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ia-te-pedira-te-pienses-dos-veces-antes-insultar-alguien-twitch-3945362.jpg?tf=1200x' alt='Una IA te pedirá que te lo pienses, antes de insultar a alguien en Twitch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amd-compra-silo-ai-605-millones-euros-1400142'>AMD compra Silo AI por 605 millones de euros para convertirse en OpenAI 2.0</a></h4>
     <a href='https://computerhoy.com/tecnologia/amd-compra-silo-ai-605-millones-euros-1400142' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/amd-compra-silo-ai-605-millones-euros-convertirse-openai-20-3944601.jpg?tf=1200x' alt='AMD compra Silo AI por 605 millones de euros para convertirse en OpenAI 2.0' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-canal-hd-tres-uhd-sumaran-oferta-actual-tdt-espana-1400138'>Un nuevo canal HD y tres UHD se sumarán a la oferta actual de la TDT en España</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-canal-hd-tres-uhd-sumaran-oferta-actual-tdt-espana-1400138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ver-tdt-3944901.jpg?tf=1200x' alt='Un nuevo canal HD y tres UHD se sumarán a la oferta actual de la TDT en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-policia-nacional-cuidado-recibes-llamada-podrian-robarte-datos-1400123'>Alerta de la Policía Nacional: cuidado si recibes esta llamada, podrían robarte tus datos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/alerta-policia-nacional-cuidado-recibes-llamada-podrian-robarte-datos-1400123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alerta-policia-nacional-cuidado-recibes-llamada-podrian-robarte-datos-3944296.jpg?tf=1200x' alt='Alerta de la Policía Nacional: cuidado si recibes esta llamada, podrían robarte tus datos' />
     </a>
 </div>
 
