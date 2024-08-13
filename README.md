@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amd-compra-silo-ai-605-millones-euros-1400142'>AMD compra Silo AI por 605 millones de euros para convertirse en OpenAI 2.0</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amd-compra-silo-ai-605-millones-euros-1400142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/amd-compra-silo-ai-605-millones-euros-convertirse-openai-20-3944601.jpg?tf=1200x' alt='AMD compra Silo AI por 605 millones de euros para convertirse en OpenAI 2.0' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/futuro-robotica-robot-origami-transforma-1000-formas-1400141'>El futuro de la robótica: el robot origami que se transforma en más de 1000 formas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/futuro-robotica-robot-origami-transforma-1000-formas-1400141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/futuro-robotica-robot-origami-transforma-1000-formas-3945061.jpg?tf=1200x' alt='El futuro de la robótica: el robot origami que se transforma en más de 1000 formas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-fotos-eliminara-pestana-biblioteca-reemplazara-colecciones-1400139'>Google Fotos eliminará la pestaña Biblioteca y la reemplazará por Colecciones</a></h4>
+    <a href='https://computerhoy.com/apps/google-fotos-eliminara-pestana-biblioteca-reemplazara-colecciones-1400139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-fotos-3944906.jpg?tf=1200x' alt='Google Fotos eliminará la pestaña Biblioteca y la reemplazará por Colecciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-canal-hd-tres-uhd-sumaran-oferta-actual-tdt-espana-1400138'>Un nuevo canal HD y tres UHD se sumarán a la oferta actual de la TDT en España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-canal-hd-tres-uhd-sumaran-oferta-actual-tdt-espana-1400138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ver-tdt-3944901.jpg?tf=1200x' alt='Un nuevo canal HD y tres UHD se sumarán a la oferta actual de la TDT en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/alerta-policia-nacional-cuidado-recibes-llamada-podrian-robarte-datos-1400123'>Alerta de la Policía Nacional: cuidado si recibes esta llamada, podrían robarte tus datos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/alerta-policia-nacional-cuidado-recibes-llamada-podrian-robarte-datos-1400123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alerta-policia-nacional-cuidado-recibes-llamada-podrian-robarte-datos-3944296.jpg?tf=1200x' alt='Alerta de la Policía Nacional: cuidado si recibes esta llamada, podrían robarte tus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/consigue-conectar-444-consolas-unico-televisor-1400129'>Consigue conectar 444 consolas a un único televisor, y no se ve ni un cable</a></h4>
-    <a href='https://computerhoy.com/gaming/consigue-conectar-444-consolas-unico-televisor-1400129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/consigue-conectar-444-consolas-unico-televisor-bate-record-mundo-3943985.jpg?tf=1200x' alt='Consigue conectar 444 consolas a un único televisor, y no se ve ni un cable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-pixel-watch-3-novedades-precio-caracteristicas-informacion-1398292'>Google mejora todo del nuevo Pixel Watch 3, incluyendo un nuevo tamaño más grande y funciones para corredores</a></h4>
-    <a href='https://computerhoy.com/google/google-pixel-watch-3-novedades-precio-caracteristicas-informacion-1398292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-watch-3-3942409.jpg?tf=1200x' alt='Google mejora todo del nuevo Pixel Watch 3, incluyendo un nuevo tamaño más grande y funciones para corredores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/google-pixel-9-pixel-9-pro-pixel-9-pro-xl-informacion-caracteristicas-precios-1398259'>La familia Google Pixel 9 crece con un móvil más: así son los Pixel 9, Pixel 9 Pro y Pixel 9 Pro XL</a></h4>
-    <a href='https://computerhoy.com/moviles/google-pixel-9-pixel-9-pro-pixel-9-pro-xl-informacion-caracteristicas-precios-1398259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-pixel-9-pro-3848756.jpg?tf=1200x' alt='La familia Google Pixel 9 crece con un móvil más: así son los Pixel 9, Pixel 9 Pro y Pixel 9 Pro XL' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-barato-top-vuelta-cole-menos-300-euros-chromeos-1399982'>Este portátil barato es top para la vuelta al cole: menos de 300 euros y ChromeOS</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-barato-top-vuelta-cole-menos-300-euros-chromeos-1399982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/asus-chromebook-cx1400cka-nk0519-3940881.jpg?tf=1200x' alt='Este portátil barato es top para la vuelta al cole: menos de 300 euros y ChromeOS' />
     </a>
 </div>
 
