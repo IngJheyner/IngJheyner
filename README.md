@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/trucos-mejorar-conexion-internet-1302070'>Llevo más de 10 años escribiendo de tecnología: estos son mis trucos para que mi conexión a internet sea la mejor</a></h4>
-    <a href='https://computerhoy.com/internet/trucos-mejorar-conexion-internet-1302070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/router-wifi-3129594.jpg?tf=1200x' alt='Llevo más de 10 años escribiendo de tecnología: estos son mis trucos para que mi conexión a internet sea la mejor' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793'>¡Imposible que sea gratis! Esta web te permite hacer multitud de ediciones desde un solo programa</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/web-herramientas-online-3935639.jpg?tf=1200x' alt='¡Imposible que sea gratis! Esta web te permite hacer multitud de ediciones desde un solo programa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/pantallazo-azul-vista-vulnerabilidad-reaviva-fantasma-crowdstrike-microsoft-1399996'>Pantallazo azul a la vista: esta vulnerabilidad reaviva el fantasma de CrowdStrike y Microsoft</a></h4>
-    <a href='https://computerhoy.com/windows/pantallazo-azul-vista-vulnerabilidad-reaviva-fantasma-crowdstrike-microsoft-1399996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pantalla-azul-muerte-3941200.jpg?tf=1200x' alt='Pantallazo azul a la vista: esta vulnerabilidad reaviva el fantasma de CrowdStrike y Microsoft' />
+    <h4><a href='https://computerhoy.com/apps/listado-completo-personas-te-han-bloqueado-whatsapp-1399508'>¡La verdad siempre sale a la luz! Así puedes ver el listado completo de personas que te han bloqueado en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/listado-completo-personas-te-han-bloqueado-whatsapp-1399508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/puedes-ver-listado-completo-personas-te-han-bloqueado-whatsapp-3907362.jpg?tf=1200x' alt='¡La verdad siempre sale a la luz! Así puedes ver el listado completo de personas que te han bloqueado en WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/peligroso-malware-instala-extensiones-falsas-chrome-edge-1399941'>Peligroso malware que instala extensiones falsas en Chrome y Edge para robarte tus datos personales, así puedes protegerte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/peligroso-malware-instala-extensiones-falsas-chrome-edge-1399941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/detectan-peligroso-malware-instala-extensiones-falsas-chrome-edge-puedes-protegerte-3937011.jpg?tf=1200x' alt='Peligroso malware que instala extensiones falsas en Chrome y Edge para robarte tus datos personales, así puedes protegerte' />
+    <h4><a href='https://computerhoy.com/life/sencilla-eliminar-microplasticos-agua-grifo-1399446'>La sencilla forma de eliminar los microplásticos del agua del grifo</a></h4>
+    <a href='https://computerhoy.com/life/sencilla-eliminar-microplasticos-agua-grifo-1399446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/beber-agua-3905080.jpg?tf=1200x' alt='La sencilla forma de eliminar los microplásticos del agua del grifo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/distribuye-poblacion-largo-1161695'>Así se distribuye la población a lo largo del mundo: solo ocupamos una pequeña porción de terreno</a></h4>
-    <a href='https://computerhoy.com/life/distribuye-poblacion-largo-1161695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-muestra-densidad-poblacion-mundo-columnas-muchas-zonas-desaparecen-2885563.jpg?tf=1200x' alt='Así se distribuye la población a lo largo del mundo: solo ocupamos una pequeña porción de terreno' />
+    <h4><a href='https://computerhoy.com/entretenimiento/saga-ciencia-ficcion-nacida-90-creador-harto-demasiado-complicada-1399110'>La exitosa saga de ciencia ficción nacida en los 90 de la que su creador está harto: “es demasiado complicada”</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/saga-ciencia-ficcion-nacida-90-creador-harto-demasiado-complicada-1399110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mitica-saga-ciencia-ficcion-nacida-90-creador-harto-demasiado-complicada-3890695.jpg?tf=1200x' alt='La exitosa saga de ciencia ficción nacida en los 90 de la que su creador está harto: “es demasiado complicada”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/tiktok-apuesta-chats-grupales-stickers-mensajes-directos-1399999'>TikTok apuesta por los chats grupales y los stickers en los mensajes directos</a></h4>
-    <a href='https://computerhoy.com/redes/tiktok-apuesta-chats-grupales-stickers-mensajes-directos-1399999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tiktok-apuesta-chats-grupales-stickers-mensajes-directos-3941195.jpg?tf=1200x' alt='TikTok apuesta por los chats grupales y los stickers en los mensajes directos' />
+    <h4><a href='https://computerhoy.com/tutoriales/activar-modo-dios-android-auto-1284786'>Aprende a activar el Modo Dios de Android Auto y aprovecha todas las cosas que puedes hacer con él</a></h4>
+    <a href='https://computerhoy.com/tutoriales/activar-modo-dios-android-auto-1284786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modos-dios-android-auto-3905589.jpg?tf=1200x' alt='Aprende a activar el Modo Dios de Android Auto y aprovecha todas las cosas que puedes hacer con él' />
     </a>
 </div>
 
