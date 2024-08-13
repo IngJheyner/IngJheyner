@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/consigue-conectar-444-consolas-unico-televisor-1400129'>Consigue conectar 444 consolas a un único televisor, y no se ve ni un cable</a></h4>
+    <a href='https://computerhoy.com/gaming/consigue-conectar-444-consolas-unico-televisor-1400129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/consigue-conectar-444-consolas-unico-televisor-bate-record-mundo-3943985.jpg?tf=1200x' alt='Consigue conectar 444 consolas a un único televisor, y no se ve ni un cable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/google-pixel-9-pixel-9-pro-pixel-9-pro-xl-informacion-caracteristicas-precios-1398259'>La familia Google Pixel 9 crece con un móvil más: así son los Pixel 9, Pixel 9 Pro y Pixel 9 Pro XL</a></h4>
+    <a href='https://computerhoy.com/moviles/google-pixel-9-pixel-9-pro-pixel-9-pro-xl-informacion-caracteristicas-precios-1398259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-pixel-9-pro-3848756.jpg?tf=1200x' alt='La familia Google Pixel 9 crece con un móvil más: así son los Pixel 9, Pixel 9 Pro y Pixel 9 Pro XL' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-pixel-watch-3-novedades-precio-caracteristicas-informacion-1398292'>Google mejora todo del nuevo Pixel Watch 3, incluyendo un nuevo tamaño más grande y funciones para corredores</a></h4>
+    <a href='https://computerhoy.com/google/google-pixel-watch-3-novedades-precio-caracteristicas-informacion-1398292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-watch-3-3942409.jpg?tf=1200x' alt='Google mejora todo del nuevo Pixel Watch 3, incluyendo un nuevo tamaño más grande y funciones para corredores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/portatil-barato-top-vuelta-cole-menos-300-euros-chromeos-1399982'>Este portátil barato es top para la vuelta al cole: menos de 300 euros y ChromeOS</a></h4>
     <a href='https://computerhoy.com/tecnologia/portatil-barato-top-vuelta-cole-menos-300-euros-chromeos-1399982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/asus-chromebook-cx1400cka-nk0519-3940881.jpg?tf=1200x' alt='Este portátil barato es top para la vuelta al cole: menos de 300 euros y ChromeOS' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/olas-cuadradas-como-se-forman-1174266'>Qué son las olas cuadradas, y por qué son un peligro para los barcos y surfistas</a></h4>
     <a href='https://computerhoy.com/ciencia/olas-cuadradas-como-se-forman-1174266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/son-olas-cuadradas-son-peligro-barcos-surfistas-2909548.jpg?tf=1200x' alt='Qué son las olas cuadradas, y por qué son un peligro para los barcos y surfistas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/sencillo-desconocido-truco-mejora-velocidad-wifi-instante-1287250'>El sencillo y desconocido truco que mejora la velocidad de tu WiFi al instante</a></h4>
-    <a href='https://computerhoy.com/tutoriales/sencillo-desconocido-truco-mejora-velocidad-wifi-instante-1287250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/velocidad-wifi-3104714.jpg?tf=1200x' alt='El sencillo y desconocido truco que mejora la velocidad de tu WiFi al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-reconoce-hay-riesgo-te-enamores-ia-razon-1400069'>OpenAI reconoce que hay un riesgo de que te enamores de la IA, por esta razón</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-reconoce-hay-riesgo-te-enamores-ia-razon-1400069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/openai-reconoce-hay-riesgo-te-enamores-ia-razon-3942405.jpg?tf=1200x' alt='OpenAI reconoce que hay un riesgo de que te enamores de la IA, por esta razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-identifican-rasgo-habla-presagia-deterioro-cognitivo-1400029'>Científicos identifican un rasgo del habla que presagia el deterioro cognitivo</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-identifican-rasgo-habla-presagia-deterioro-cognitivo-1400029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cientificos-identifican-rasgo-habla-presagia-deterioro-cognitivo-3941685.jpg?tf=1200x' alt='Científicos identifican un rasgo del habla que presagia el deterioro cognitivo' />
     </a>
 </div>
 
