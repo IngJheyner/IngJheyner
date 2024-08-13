@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/edad-no-deberias-darle-tablet-hijos-estudio-1399994'>La edad a la que no deberías darle una tablet a tus hijos, según un estudio</a></h4>
+    <a href='https://computerhoy.com/life/edad-no-deberias-darle-tablet-hijos-estudio-1399994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/edad-no-deberias-darle-tablet-hijos-estudio-3941356.jpg?tf=1200x' alt='La edad a la que no deberías darle una tablet a tus hijos, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-puede-imitar-voz-pero-aqui-viene-problema-suplantacion-identidad-ia-1400021'>ChatGPT ya puede imitar tu voz, pero aquí viene el problema: la suplantación de identidad con IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-puede-imitar-voz-pero-aqui-viene-problema-suplantacion-identidad-ia-1400021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-llamadas-3941535.jpg?tf=1200x' alt='ChatGPT ya puede imitar tu voz, pero aquí viene el problema: la suplantación de identidad con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-tener-android-auto-avisos-radares-waze-google-maps-truco-1294196'>Con este truco de Android Auto puedes tener los avisos de radares y tráfico de Waze en Google Maps</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-tener-android-auto-avisos-radares-waze-google-maps-truco-1294196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/alerta-avisos-radares-waze-google-maps-3116184.jpg?tf=1200x' alt='Con este truco de Android Auto puedes tener los avisos de radares y tráfico de Waze en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793'>¡Imposible que sea gratis! Esta web te permite hacer multitud de ediciones desde un solo programa</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/web-herramientas-online-3935639.jpg?tf=1200x' alt='¡Imposible que sea gratis! Esta web te permite hacer multitud de ediciones desde un solo programa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/listado-completo-personas-te-han-bloqueado-whatsapp-1399508'>¡La verdad siempre sale a la luz! Así puedes ver el listado completo de personas que te han bloqueado en WhatsApp</a></h4>
     <a href='https://computerhoy.com/apps/listado-completo-personas-te-han-bloqueado-whatsapp-1399508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/puedes-ver-listado-completo-personas-te-han-bloqueado-whatsapp-3907362.jpg?tf=1200x' alt='¡La verdad siempre sale a la luz! Así puedes ver el listado completo de personas que te han bloqueado en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sencilla-eliminar-microplasticos-agua-grifo-1399446'>La sencilla forma de eliminar los microplásticos del agua del grifo</a></h4>
-    <a href='https://computerhoy.com/life/sencilla-eliminar-microplasticos-agua-grifo-1399446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/beber-agua-3905080.jpg?tf=1200x' alt='La sencilla forma de eliminar los microplásticos del agua del grifo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/saga-ciencia-ficcion-nacida-90-creador-harto-demasiado-complicada-1399110'>La exitosa saga de ciencia ficción nacida en los 90 de la que su creador está harto: “es demasiado complicada”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/saga-ciencia-ficcion-nacida-90-creador-harto-demasiado-complicada-1399110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mitica-saga-ciencia-ficcion-nacida-90-creador-harto-demasiado-complicada-3890695.jpg?tf=1200x' alt='La exitosa saga de ciencia ficción nacida en los 90 de la que su creador está harto: “es demasiado complicada”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/activar-modo-dios-android-auto-1284786'>Aprende a activar el Modo Dios de Android Auto y aprovecha todas las cosas que puedes hacer con él</a></h4>
-    <a href='https://computerhoy.com/tutoriales/activar-modo-dios-android-auto-1284786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modos-dios-android-auto-3905589.jpg?tf=1200x' alt='Aprende a activar el Modo Dios de Android Auto y aprovecha todas las cosas que puedes hacer con él' />
     </a>
 </div>
 
