@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-barato-top-vuelta-cole-menos-300-euros-chromeos-1399982'>Este portátil barato es top para la vuelta al cole: menos de 300 euros y ChromeOS</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-barato-top-vuelta-cole-menos-300-euros-chromeos-1399982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/asus-chromebook-cx1400cka-nk0519-3940881.jpg?tf=1200x' alt='Este portátil barato es top para la vuelta al cole: menos de 300 euros y ChromeOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/olas-cuadradas-como-se-forman-1174266'>Qué son las olas cuadradas, y por qué son un peligro para los barcos y surfistas</a></h4>
+    <a href='https://computerhoy.com/ciencia/olas-cuadradas-como-se-forman-1174266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/son-olas-cuadradas-son-peligro-barcos-surfistas-2909548.jpg?tf=1200x' alt='Qué son las olas cuadradas, y por qué son un peligro para los barcos y surfistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/sencillo-desconocido-truco-mejora-velocidad-wifi-instante-1287250'>El sencillo y desconocido truco que mejora la velocidad de tu WiFi al instante</a></h4>
+    <a href='https://computerhoy.com/tutoriales/sencillo-desconocido-truco-mejora-velocidad-wifi-instante-1287250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/velocidad-wifi-3104714.jpg?tf=1200x' alt='El sencillo y desconocido truco que mejora la velocidad de tu WiFi al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/openai-reconoce-hay-riesgo-te-enamores-ia-razon-1400069'>OpenAI reconoce que hay un riesgo de que te enamores de la IA, por esta razón</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-reconoce-hay-riesgo-te-enamores-ia-razon-1400069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/openai-reconoce-hay-riesgo-te-enamores-ia-razon-3942405.jpg?tf=1200x' alt='OpenAI reconoce que hay un riesgo de que te enamores de la IA, por esta razón' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cientificos-identifican-rasgo-habla-presagia-deterioro-cognitivo-1400029'>Científicos identifican un rasgo del habla que presagia el deterioro cognitivo</a></h4>
     <a href='https://computerhoy.com/life/cientificos-identifican-rasgo-habla-presagia-deterioro-cognitivo-1400029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cientificos-identifican-rasgo-habla-presagia-deterioro-cognitivo-3941685.jpg?tf=1200x' alt='Científicos identifican un rasgo del habla que presagia el deterioro cognitivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/porcentaje-deberias-poner-cargar-movil-no-danar-bateria-1399797'>Este es el porcentaje con el que deberías poner a cargar el móvil para no dañar la batería</a></h4>
-    <a href='https://computerhoy.com/moviles/porcentaje-deberias-poner-cargar-movil-no-danar-bateria-1399797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/porcentaje-deberias-poner-cargar-movil-no-danar-bateria-3933620.jpg?tf=1200x' alt='Este es el porcentaje con el que deberías poner a cargar el móvil para no dañar la batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/matematico-ha-analizado-funciona-horoscopo-resultados-te-sorprenderan-1400054'>Un matemático ha analizado si funciona el horóscopo y los resultados te sorprenderán</a></h4>
-    <a href='https://computerhoy.com/ciencia/matematico-ha-analizado-funciona-horoscopo-resultados-te-sorprenderan-1400054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/matematico-ha-analizado-funciona-horoscopo-resultados-te-sorprenderan-3942230.jpg?tf=1200x' alt='Un matemático ha analizado si funciona el horóscopo y los resultados te sorprenderán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/edad-no-deberias-darle-tablet-hijos-estudio-1399994'>La edad a la que no deberías darle una tablet a tus hijos, según un estudio</a></h4>
-    <a href='https://computerhoy.com/life/edad-no-deberias-darle-tablet-hijos-estudio-1399994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/edad-no-deberias-darle-tablet-hijos-estudio-3941356.jpg?tf=1200x' alt='La edad a la que no deberías darle una tablet a tus hijos, según un estudio' />
     </a>
 </div>
 
