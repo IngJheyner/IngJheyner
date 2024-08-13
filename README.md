@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-reconoce-hay-riesgo-te-enamores-ia-razon-1400069'>OpenAI reconoce que hay un riesgo de que te enamores de la IA, por esta razón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-reconoce-hay-riesgo-te-enamores-ia-razon-1400069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/openai-reconoce-hay-riesgo-te-enamores-ia-razon-3942405.jpg?tf=1200x' alt='OpenAI reconoce que hay un riesgo de que te enamores de la IA, por esta razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cientificos-identifican-rasgo-habla-presagia-deterioro-cognitivo-1400029'>Científicos identifican un rasgo del habla que presagia el deterioro cognitivo</a></h4>
     <a href='https://computerhoy.com/life/cientificos-identifican-rasgo-habla-presagia-deterioro-cognitivo-1400029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cientificos-identifican-rasgo-habla-presagia-deterioro-cognitivo-3941685.jpg?tf=1200x' alt='Científicos identifican un rasgo del habla que presagia el deterioro cognitivo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/edad-no-deberias-darle-tablet-hijos-estudio-1399994'>La edad a la que no deberías darle una tablet a tus hijos, según un estudio</a></h4>
     <a href='https://computerhoy.com/life/edad-no-deberias-darle-tablet-hijos-estudio-1399994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/edad-no-deberias-darle-tablet-hijos-estudio-3941356.jpg?tf=1200x' alt='La edad a la que no deberías darle una tablet a tus hijos, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-puede-imitar-voz-pero-aqui-viene-problema-suplantacion-identidad-ia-1400021'>ChatGPT ya puede imitar tu voz, pero aquí viene el problema: la suplantación de identidad con IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-puede-imitar-voz-pero-aqui-viene-problema-suplantacion-identidad-ia-1400021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-llamadas-3941535.jpg?tf=1200x' alt='ChatGPT ya puede imitar tu voz, pero aquí viene el problema: la suplantación de identidad con IA' />
     </a>
 </div>
 
