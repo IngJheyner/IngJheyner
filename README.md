@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-probar-todas-novedades-funciones-android-auto-antes-disponible-1298102'>Cómo probar todas las novedades y funciones de Android Auto antes de que estén disponibles</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-probar-todas-novedades-funciones-android-auto-antes-disponible-1298102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/android-auto-3122918.jpg?tf=1200x' alt='Cómo probar todas las novedades y funciones de Android Auto antes de que estén disponibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/como-bajar-temperatura-pc-gratis-invertir-solo-euro-1399698'>Cómo bajar la temperatura de tu PC gratis, sin invertir un solo euro</a></h4>
+    <a href='https://computerhoy.com/pc/como-bajar-temperatura-pc-gratis-invertir-solo-euro-1399698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-bajar-temperatura-pc-gratis-invertir-solo-euro-3917867.jpg?tf=1200x' alt='Cómo bajar la temperatura de tu PC gratis, sin invertir un solo euro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/privadovpn-3308334.jpg?tf=1200x' alt='Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cementerio-glaciares-lista-glaciares-derretidos-cambio-climatico-1399969'>Ponen en marcha el Cementerio de glaciares, y ya tiene docenas de miles de tumbas</a></h4>
     <a href='https://computerhoy.com/ciencia/cementerio-glaciares-lista-glaciares-derretidos-cambio-climatico-1399969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ponen-marcha-cementerio-glaciares-ya-tiene-docenas-miles-tumbas-3940289.jpg?tf=1200x' alt='Ponen en marcha el Cementerio de glaciares, y ya tiene docenas de miles de tumbas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/saludable-cocinar-freidora-aire-experto-harvard-aclara-fin-1399903'>¿Es saludable cocinar con una freidora de aire? Un experto de Harvard lo aclara al fin</a></h4>
     <a href='https://computerhoy.com/alimentacion/saludable-cocinar-freidora-aire-experto-harvard-aclara-fin-1399903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/freidoras-aire-3935737.jpg?tf=1200x' alt='¿Es saludable cocinar con una freidora de aire? Un experto de Harvard lo aclara al fin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-lanza-beta-2-ios-181-desarrolladores-todas-novedades-como-descargarla-iphone-1399964'>Apple lanza la beta 2 de iOS 18.1 para desarrolladores: todas las novedades y cómo descargarla en tu iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/apple-lanza-beta-2-ios-181-desarrolladores-todas-novedades-como-descargarla-iphone-1399964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-lanza-beta-2-ios-181-desarrolladores-te-contamos-todas-novedades-como-descargarla-iphone-3939556.jpg?tf=1200x' alt='Apple lanza la beta 2 de iOS 18.1 para desarrolladores: todas las novedades y cómo descargarla en tu iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/peligro-keylogging-pueden-vaciarte-cuenta-bancaria-traves-teclado-movil-1399962'>El peligro del keylogging: así pueden vaciarte la cuenta bancaria a través del teclado de tu móvil</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/peligro-keylogging-pueden-vaciarte-cuenta-bancaria-traves-teclado-movil-1399962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/peligro-keylogging-pueden-vaciarte-cuenta-bancaria-traves-teclado-movil-3939260.jpg?tf=1200x' alt='El peligro del keylogging: así pueden vaciarte la cuenta bancaria a través del teclado de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sencilla-razon-dispositivos-oscuros-tienen-plastico-reciclado-claros-1393423'>La sencilla razón por la que los dispositivos oscuros tienen más plástico reciclado que los claros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sencilla-razon-dispositivos-oscuros-tienen-plastico-reciclado-claros-1393423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/residuos-electronicos-3637353.jpg?tf=1200x' alt='La sencilla razón por la que los dispositivos oscuros tienen más plástico reciclado que los claros' />
     </a>
 </div>
 
