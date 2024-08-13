@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vistazo-lengua-podria-revelar-enfermedad-tienes-gracias-ia-1399984'>Un vistazo a tu lengua podría revelar qué enfermedad tienes gracias a la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vistazo-lengua-podria-revelar-enfermedad-tienes-gracias-ia-1399984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/enfermedades-ia-3941050.jpg?tf=1200x' alt='Un vistazo a tu lengua podría revelar qué enfermedad tienes gracias a la IA' />
+    <h4><a href='https://computerhoy.com/internet/trucos-mejorar-conexion-internet-1302070'>Llevo más de 10 años escribiendo de tecnología: estos son mis trucos para que mi conexión a internet sea la mejor</a></h4>
+    <a href='https://computerhoy.com/internet/trucos-mejorar-conexion-internet-1302070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/router-wifi-3129594.jpg?tf=1200x' alt='Llevo más de 10 años escribiendo de tecnología: estos son mis trucos para que mi conexión a internet sea la mejor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ssd-bolsillo-hace-datos-vuelen-amazon-vende-1tb-capacidad-1399940'>Este SSD de bolsillo hace que tus datos vuelen, y Amazon lo vende con 1TB de capacidad</a></h4>
-    <a href='https://computerhoy.com/pc/ssd-bolsillo-hace-datos-vuelen-amazon-vende-1tb-capacidad-1399940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sandisk-extreme-3936690.jpg?tf=1200x' alt='Este SSD de bolsillo hace que tus datos vuelen, y Amazon lo vende con 1TB de capacidad' />
+    <h4><a href='https://computerhoy.com/windows/pantallazo-azul-vista-vulnerabilidad-reaviva-fantasma-crowdstrike-microsoft-1399996'>Pantallazo azul a la vista: esta vulnerabilidad reaviva el fantasma de CrowdStrike y Microsoft</a></h4>
+    <a href='https://computerhoy.com/windows/pantallazo-azul-vista-vulnerabilidad-reaviva-fantasma-crowdstrike-microsoft-1399996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pantalla-azul-muerte-3941200.jpg?tf=1200x' alt='Pantallazo azul a la vista: esta vulnerabilidad reaviva el fantasma de CrowdStrike y Microsoft' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-ha-encontrado-agua-marte-pero-no-sabe-como-llegar-ella-1399986'>La NASA ha encontrado agua en Marte, pero no sabe cómo llegar a ella</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-ha-encontrado-agua-marte-pero-no-sabe-como-llegar-ella-1399986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nasa-ha-encontrado-agua-marte-pero-no-sabe-como-llegar-ella-3941039.jpg?tf=1200x' alt='La NASA ha encontrado agua en Marte, pero no sabe cómo llegar a ella' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/peligroso-malware-instala-extensiones-falsas-chrome-edge-1399941'>Peligroso malware que instala extensiones falsas en Chrome y Edge para robarte tus datos personales, así puedes protegerte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/peligroso-malware-instala-extensiones-falsas-chrome-edge-1399941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/detectan-peligroso-malware-instala-extensiones-falsas-chrome-edge-puedes-protegerte-3937011.jpg?tf=1200x' alt='Peligroso malware que instala extensiones falsas en Chrome y Edge para robarte tus datos personales, así puedes protegerte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-meet-ahora-toma-notas-reuniones-gracias-gemini-1399973'>Google Meet ahora toma notas de tus reuniones gracias a Gemini</a></h4>
-    <a href='https://computerhoy.com/google/google-meet-ahora-toma-notas-reuniones-gracias-gemini-1399973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-meet-videollamada-3941038.jpg?tf=1200x' alt='Google Meet ahora toma notas de tus reuniones gracias a Gemini' />
+    <h4><a href='https://computerhoy.com/life/distribuye-poblacion-largo-1161695'>Así se distribuye la población a lo largo del mundo: solo ocupamos una pequeña porción de terreno</a></h4>
+    <a href='https://computerhoy.com/life/distribuye-poblacion-largo-1161695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/mapa-muestra-densidad-poblacion-mundo-columnas-muchas-zonas-desaparecen-2885563.jpg?tf=1200x' alt='Así se distribuye la población a lo largo del mundo: solo ocupamos una pequeña porción de terreno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-probar-todas-novedades-funciones-android-auto-antes-disponible-1298102'>Cómo probar todas las novedades y funciones de Android Auto antes de que estén disponibles</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-probar-todas-novedades-funciones-android-auto-antes-disponible-1298102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/android-auto-3122918.jpg?tf=1200x' alt='Cómo probar todas las novedades y funciones de Android Auto antes de que estén disponibles' />
+    <h4><a href='https://computerhoy.com/redes/tiktok-apuesta-chats-grupales-stickers-mensajes-directos-1399999'>TikTok apuesta por los chats grupales y los stickers en los mensajes directos</a></h4>
+    <a href='https://computerhoy.com/redes/tiktok-apuesta-chats-grupales-stickers-mensajes-directos-1399999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tiktok-apuesta-chats-grupales-stickers-mensajes-directos-3941195.jpg?tf=1200x' alt='TikTok apuesta por los chats grupales y los stickers en los mensajes directos' />
     </a>
 </div>
 
