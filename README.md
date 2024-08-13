@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vistazo-lengua-podria-revelar-enfermedad-tienes-gracias-ia-1399984'>Un vistazo a tu lengua podría revelar qué enfermedad tienes gracias a la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vistazo-lengua-podria-revelar-enfermedad-tienes-gracias-ia-1399984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/enfermedades-ia-3941050.jpg?tf=1200x' alt='Un vistazo a tu lengua podría revelar qué enfermedad tienes gracias a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/ssd-bolsillo-hace-datos-vuelen-amazon-vende-1tb-capacidad-1399940'>Este SSD de bolsillo hace que tus datos vuelen, y Amazon lo vende con 1TB de capacidad</a></h4>
+    <a href='https://computerhoy.com/pc/ssd-bolsillo-hace-datos-vuelen-amazon-vende-1tb-capacidad-1399940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sandisk-extreme-3936690.jpg?tf=1200x' alt='Este SSD de bolsillo hace que tus datos vuelen, y Amazon lo vende con 1TB de capacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-ha-encontrado-agua-marte-pero-no-sabe-como-llegar-ella-1399986'>La NASA ha encontrado agua en Marte, pero no sabe cómo llegar a ella</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-ha-encontrado-agua-marte-pero-no-sabe-como-llegar-ella-1399986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nasa-ha-encontrado-agua-marte-pero-no-sabe-como-llegar-ella-3941039.jpg?tf=1200x' alt='La NASA ha encontrado agua en Marte, pero no sabe cómo llegar a ella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-meet-ahora-toma-notas-reuniones-gracias-gemini-1399973'>Google Meet ahora toma notas de tus reuniones gracias a Gemini</a></h4>
+    <a href='https://computerhoy.com/google/google-meet-ahora-toma-notas-reuniones-gracias-gemini-1399973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-meet-videollamada-3941038.jpg?tf=1200x' alt='Google Meet ahora toma notas de tus reuniones gracias a Gemini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-probar-todas-novedades-funciones-android-auto-antes-disponible-1298102'>Cómo probar todas las novedades y funciones de Android Auto antes de que estén disponibles</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-probar-todas-novedades-funciones-android-auto-antes-disponible-1298102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/android-auto-3122918.jpg?tf=1200x' alt='Cómo probar todas las novedades y funciones de Android Auto antes de que estén disponibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/como-bajar-temperatura-pc-gratis-invertir-solo-euro-1399698'>Cómo bajar la temperatura de tu PC gratis, sin invertir un solo euro</a></h4>
-    <a href='https://computerhoy.com/pc/como-bajar-temperatura-pc-gratis-invertir-solo-euro-1399698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-bajar-temperatura-pc-gratis-invertir-solo-euro-3917867.jpg?tf=1200x' alt='Cómo bajar la temperatura de tu PC gratis, sin invertir un solo euro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/privadovpn-3308334.jpg?tf=1200x' alt='Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cementerio-glaciares-lista-glaciares-derretidos-cambio-climatico-1399969'>Ponen en marcha el Cementerio de glaciares, y ya tiene docenas de miles de tumbas</a></h4>
-    <a href='https://computerhoy.com/ciencia/cementerio-glaciares-lista-glaciares-derretidos-cambio-climatico-1399969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ponen-marcha-cementerio-glaciares-ya-tiene-docenas-miles-tumbas-3940289.jpg?tf=1200x' alt='Ponen en marcha el Cementerio de glaciares, y ya tiene docenas de miles de tumbas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/saludable-cocinar-freidora-aire-experto-harvard-aclara-fin-1399903'>¿Es saludable cocinar con una freidora de aire? Un experto de Harvard lo aclara al fin</a></h4>
-    <a href='https://computerhoy.com/alimentacion/saludable-cocinar-freidora-aire-experto-harvard-aclara-fin-1399903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/freidoras-aire-3935737.jpg?tf=1200x' alt='¿Es saludable cocinar con una freidora de aire? Un experto de Harvard lo aclara al fin' />
     </a>
 </div>
 
