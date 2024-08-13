@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cientificos-identifican-rasgo-habla-presagia-deterioro-cognitivo-1400029'>Científicos identifican un rasgo del habla que presagia el deterioro cognitivo</a></h4>
+    <a href='https://computerhoy.com/life/cientificos-identifican-rasgo-habla-presagia-deterioro-cognitivo-1400029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cientificos-identifican-rasgo-habla-presagia-deterioro-cognitivo-3941685.jpg?tf=1200x' alt='Científicos identifican un rasgo del habla que presagia el deterioro cognitivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/porcentaje-deberias-poner-cargar-movil-no-danar-bateria-1399797'>Este es el porcentaje con el que deberías poner a cargar el móvil para no dañar la batería</a></h4>
+    <a href='https://computerhoy.com/moviles/porcentaje-deberias-poner-cargar-movil-no-danar-bateria-1399797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/porcentaje-deberias-poner-cargar-movil-no-danar-bateria-3933620.jpg?tf=1200x' alt='Este es el porcentaje con el que deberías poner a cargar el móvil para no dañar la batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/matematico-ha-analizado-funciona-horoscopo-resultados-te-sorprenderan-1400054'>Un matemático ha analizado si funciona el horóscopo y los resultados te sorprenderán</a></h4>
+    <a href='https://computerhoy.com/ciencia/matematico-ha-analizado-funciona-horoscopo-resultados-te-sorprenderan-1400054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/matematico-ha-analizado-funciona-horoscopo-resultados-te-sorprenderan-3942230.jpg?tf=1200x' alt='Un matemático ha analizado si funciona el horóscopo y los resultados te sorprenderán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/edad-no-deberias-darle-tablet-hijos-estudio-1399994'>La edad a la que no deberías darle una tablet a tus hijos, según un estudio</a></h4>
     <a href='https://computerhoy.com/life/edad-no-deberias-darle-tablet-hijos-estudio-1399994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/edad-no-deberias-darle-tablet-hijos-estudio-3941356.jpg?tf=1200x' alt='La edad a la que no deberías darle una tablet a tus hijos, según un estudio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-puede-imitar-voz-pero-aqui-viene-problema-suplantacion-identidad-ia-1400021'>ChatGPT ya puede imitar tu voz, pero aquí viene el problema: la suplantación de identidad con IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-ya-puede-imitar-voz-pero-aqui-viene-problema-suplantacion-identidad-ia-1400021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-llamadas-3941535.jpg?tf=1200x' alt='ChatGPT ya puede imitar tu voz, pero aquí viene el problema: la suplantación de identidad con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-tener-android-auto-avisos-radares-waze-google-maps-truco-1294196'>Con este truco de Android Auto puedes tener los avisos de radares y tráfico de Waze en Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-tener-android-auto-avisos-radares-waze-google-maps-truco-1294196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/alerta-avisos-radares-waze-google-maps-3116184.jpg?tf=1200x' alt='Con este truco de Android Auto puedes tener los avisos de radares y tráfico de Waze en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793'>¡Imposible que sea gratis! Esta web te permite hacer multitud de ediciones desde un solo programa</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/web-herramientas-online-3935639.jpg?tf=1200x' alt='¡Imposible que sea gratis! Esta web te permite hacer multitud de ediciones desde un solo programa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/listado-completo-personas-te-han-bloqueado-whatsapp-1399508'>¡La verdad siempre sale a la luz! Así puedes ver el listado completo de personas que te han bloqueado en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/listado-completo-personas-te-han-bloqueado-whatsapp-1399508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/puedes-ver-listado-completo-personas-te-han-bloqueado-whatsapp-3907362.jpg?tf=1200x' alt='¡La verdad siempre sale a la luz! Así puedes ver el listado completo de personas que te han bloqueado en WhatsApp' />
     </a>
 </div>
 
