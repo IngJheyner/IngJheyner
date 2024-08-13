@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/puente-mas-alto-mundo-eleva-565-metros-altura-1399963'>Decían que era imposible, pero el puente más alto del mundo se eleva a 565 metros de altura</a></h4>
+    <a href='https://computerhoy.com/life/puente-mas-alto-mundo-eleva-565-metros-altura-1399963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/decian-era-imposible-pero-puente-alto-mundo-ya-eleva-565-metros-altura-3938525.jpg?tf=1200x' alt='Decían que era imposible, pero el puente más alto del mundo se eleva a 565 metros de altura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/hackea-robot-aspirador-ecovacs-espiar-traves-camara-micro-1399960'>Así se hackea un robot aspirador para espiar a través de su cámara y micro</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/hackea-robot-aspirador-ecovacs-espiar-traves-camara-micro-1399960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/consiguen-hackear-robot-aspirador-espiar-traves-camaras-3938078.jpg?tf=1200x' alt='Así se hackea un robot aspirador para espiar a través de su cámara y micro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/cuestion-seguridad-google-recomienda-apagar-conectividad-2g-android-1399954'>Es una cuestión de seguridad: Google recomienda apagar la conectividad 2G en Android</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cuestion-seguridad-google-recomienda-apagar-conectividad-2g-android-1399954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/conectividad-5g-3937465.jpg?tf=1200x' alt='Es una cuestión de seguridad: Google recomienda apagar la conectividad 2G en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-novedoso-metodo-combatir-alzheimer-1399953'>Científicos descubren un novedoso método para combatir el Alzheimer</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-descubren-novedoso-metodo-combatir-alzheimer-1399953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alzheimer-3937461.jpg?tf=1200x' alt='Científicos descubren un novedoso método para combatir el Alzheimer' />
     </a>
 </div>
 
