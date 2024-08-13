@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/implante-cerebral-grafeno-creado-espana-200-veces-eficaz-metal-1399967'>Este implante cerebral de grafeno creado en España es 200 veces más eficaz que uno de metal</a></h4>
+    <a href='https://computerhoy.com/ciencia/implante-cerebral-grafeno-creado-espana-200-veces-eficaz-metal-1399967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/implante-cerebral-grafeno-creado-espana-promete-atacar-parkinson-3940086.jpg?tf=1200x' alt='Este implante cerebral de grafeno creado en España es 200 veces más eficaz que uno de metal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/jovenes-chinos-ahora-quieren-ser-pajaros-muestran-redes-sociales-1399570'>Los jóvenes chinos ahora quieren ser pájaros, y lo muestran en redes sociales</a></h4>
+    <a href='https://computerhoy.com/redes/jovenes-chinos-ahora-quieren-ser-pajaros-muestran-redes-sociales-1399570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/jovenes-chinos-ahora-quieren-ser-pajaros-muestran-redes-sociales-3911422.jpg?tf=1200x' alt='Los jóvenes chinos ahora quieren ser pájaros, y lo muestran en redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199986.jpg?tf=1200x' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/puente-mas-alto-mundo-eleva-565-metros-altura-1399963'>Decían que era imposible, pero el puente más alto del mundo se eleva a 565 metros de altura</a></h4>
     <a href='https://computerhoy.com/life/puente-mas-alto-mundo-eleva-565-metros-altura-1399963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/decian-era-imposible-pero-puente-alto-mundo-ya-eleva-565-metros-altura-3938525.jpg?tf=1200x' alt='Decían que era imposible, pero el puente más alto del mundo se eleva a 565 metros de altura' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/hackea-robot-aspirador-ecovacs-espiar-traves-camara-micro-1399960'>Así se hackea un robot aspirador para espiar a través de su cámara y micro</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/hackea-robot-aspirador-ecovacs-espiar-traves-camara-micro-1399960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/consiguen-hackear-robot-aspirador-espiar-traves-camaras-3938078.jpg?tf=1200x' alt='Así se hackea un robot aspirador para espiar a través de su cámara y micro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/primer-plegable-triple-pantalla-huawei-cerca-nunca-deja-ver-foto-arriesgado-diseno-1399947'>El primer plegable con triple pantalla de Huawei está más cerca que nunca, se deja ver en una foto con un arriesgado diseño</a></h4>
-    <a href='https://computerhoy.com/moviles/primer-plegable-triple-pantalla-huawei-cerca-nunca-deja-ver-foto-arriesgado-diseno-1399947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/primer-plegable-triple-pantalla-huawei-cerca-nunca-deja-ver-foto-arriesgado-diseno-3937462.jpg?tf=1200x' alt='El primer plegable con triple pantalla de Huawei está más cerca que nunca, se deja ver en una foto con un arriesgado diseño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/senales-trafico-borde-verde-significado-donde-utilizan-1399955'>Señales de tráfico con borde verde: este es su significado y dónde se utilizan</a></h4>
-    <a href='https://computerhoy.com/motor/senales-trafico-borde-verde-significado-donde-utilizan-1399955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/senales-trafico-borde-verde-significado-donde-utilizan-3937468.jpg?tf=1200x' alt='Señales de tráfico con borde verde: este es su significado y dónde se utilizan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuestion-seguridad-google-recomienda-apagar-conectividad-2g-android-1399954'>Es una cuestión de seguridad: Google recomienda apagar la conectividad 2G en Android</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuestion-seguridad-google-recomienda-apagar-conectividad-2g-android-1399954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/conectividad-5g-3937465.jpg?tf=1200x' alt='Es una cuestión de seguridad: Google recomienda apagar la conectividad 2G en Android' />
     </a>
 </div>
 
