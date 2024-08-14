@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/coches-autonomos-waymo-causan-caos-sonar-claxon-aparcados-4-manana-1400325'>Coches autónomos de Waymo causan el caos al sonar el claxon aparcados, a las 4 de la mañana</a></h4>
+    <a href='https://computerhoy.com/motor/coches-autonomos-waymo-causan-caos-sonar-claxon-aparcados-4-manana-1400325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coches-autonomos-waymo-causan-caos-sonar-claxon-aparcados-4-manana-3952752.jpg?tf=1200x' alt='Coches autónomos de Waymo causan el caos al sonar el claxon aparcados, a las 4 de la mañana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/cierra-paramount-television-studios-creadores-jack-ryan-13-razones-1400323'>Cierra Paramount Television Studios, creadores de Jack Ryan y Por 13 razones</a></h4>
     <a href='https://computerhoy.com/entretenimiento/cierra-paramount-television-studios-creadores-jack-ryan-13-razones-1400323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/jack-ryan.jpg?tf=1200x' alt='Cierra Paramount Television Studios, creadores de Jack Ryan y Por 13 razones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/iphone-16-tendra-nuevo-boton-captura-todo-debes-saber-funcionamiento-1400301'>El iPhone 16 tendrá un nuevo "botón de captura": todo lo que debes saber sobre su funcionamiento</a></h4>
     <a href='https://computerhoy.com/apple/iphone-16-tendra-nuevo-boton-captura-todo-debes-saber-funcionamiento-1400301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-16-tendra-nuevo-boton-captura-todo-debes-saber-funcionamiento-3951633.jpg?tf=1200x' alt='El iPhone 16 tendrá un nuevo "botón de captura": todo lo que debes saber sobre su funcionamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/dragon-yakuza-serie-amazon-prime-video-puede-ser-tan-buena-como-fallout-1399939'>Like a Dragon: Yakuza, la serie de Amazon Prime Video que puede ser tan buena como Fallout</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/dragon-yakuza-serie-amazon-prime-video-puede-ser-tan-buena-como-fallout-1399939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dragon-yakuza-serie-amazon-prime-video-puede-ser-tan-buena-como-fallout-3936536.jpg?tf=1200x' alt='Like a Dragon: Yakuza, la serie de Amazon Prime Video que puede ser tan buena como Fallout' />
     </a>
 </div>
 
