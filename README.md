@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/departamento-justicia-estados-unidos-plantea-dividir-google-varias-empresas-1400320'>Estados Unidos se plantea obligar a Google a vender Android o el navegador Chrome</a></h4>
+    <a href='https://computerhoy.com/google/departamento-justicia-estados-unidos-plantea-dividir-google-varias-empresas-1400320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/departamento-justicia-estados-unidos-plantea-dividir-google-varias-empresas-3951775.jpg?tf=1200x' alt='Estados Unidos se plantea obligar a Google a vender Android o el navegador Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/cifrado-dispositivos-bitlocker-sera-estandar-windows-11-1400319'>El cifrado de dispositivos BitLocker será un estándar en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/cifrado-dispositivos-bitlocker-sera-estandar-windows-11-1400319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/seguridad-windows-11-3952068.jpg?tf=1200x' alt='El cifrado de dispositivos BitLocker será un estándar en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/iphone-16-tendra-nuevo-boton-captura-todo-debes-saber-funcionamiento-1400301'>El iPhone 16 tendrá un nuevo "botón de captura": todo lo que debes saber sobre su funcionamiento</a></h4>
     <a href='https://computerhoy.com/apple/iphone-16-tendra-nuevo-boton-captura-todo-debes-saber-funcionamiento-1400301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-16-tendra-nuevo-boton-captura-todo-debes-saber-funcionamiento-3951633.jpg?tf=1200x' alt='El iPhone 16 tendrá un nuevo "botón de captura": todo lo que debes saber sobre su funcionamiento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/decenas-iphone-reemplazaran-var-detectar-fuera-juego-premier-league-1400312'>Decenas de iPhone “reemplazarán” el VAR para detectar el fuera de juego en la Premier League</a></h4>
     <a href='https://computerhoy.com/tecnologia/decenas-iphone-reemplazaran-var-detectar-fuera-juego-premier-league-1400312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/decenas-iphone-reemplazaran-var-detectar-fuera-juego-premier-league-3951916.jpg?tf=1200x' alt='Decenas de iPhone “reemplazarán” el VAR para detectar el fuera de juego en la Premier League' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-detiene-alertas-actualizacion-windows-11-windows-10-recibir-criticas-1400311'>Microsoft detiene las alertas de actualización a Windows 11 en Windows 10 tras recibir críticas</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-detiene-alertas-actualizacion-windows-11-windows-10-recibir-criticas-1400311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-detiene-alertas-actualizacion-windows-11-windows-10-recibir-criticas-3951777.jpg?tf=1200x' alt='Microsoft detiene las alertas de actualización a Windows 11 en Windows 10 tras recibir críticas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/terribles-consecuencias-pc-no-cambias-pasta-termica-1400065'>Las terribles consecuencias para tu PC si no cambias regularmente la pasta térmica</a></h4>
-    <a href='https://computerhoy.com/tutoriales/terribles-consecuencias-pc-no-cambias-pasta-termica-1400065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pasta-termica-pc-3942406.jpg?tf=1200x' alt='Las terribles consecuencias para tu PC si no cambias regularmente la pasta térmica' />
     </a>
 </div>
 
