@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-pone-wifi-patas-arriba-nuevo-router-da-salto-wifi-7-1399856'>Xiaomi pone tu WiFi patas arriba: su nuevo router da el salto ¡al WiFi 7!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-pone-wifi-patas-arriba-nuevo-router-da-salto-wifi-7-1399856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-be5000-3934457.jpg?tf=1200x' alt='Xiaomi pone tu WiFi patas arriba: su nuevo router da el salto ¡al WiFi 7!' />
+    <h4><a href='https://computerhoy.com/google/funcion-google-deberias-empezar-utilizar-ya-1291288'>La función de Google que deberías empezar a utilizar ya en tu iPhone o Android</a></h4>
+    <a href='https://computerhoy.com/google/funcion-google-deberias-empezar-utilizar-ya-1291288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-search-3111138.jpg?tf=1200x' alt='La función de Google que deberías empezar a utilizar ya en tu iPhone o Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-revienta-mercado-nube-office-oferta-1399848'>Microsoft revienta el mercado: ofrece 1TB en la nube y todo Office a precio de locos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-revienta-mercado-nube-office-oferta-1399848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-365-3308242.jpg?tf=1200x' alt='Microsoft revienta el mercado: ofrece 1TB en la nube y todo Office a precio de locos' />
+    <h4><a href='https://computerhoy.com/gaming/ejercito-gasto-2-millones-dolares-videoconsolas-no-jugar-call-duty-1398648'>Militares gastaron más de 2 millones de dólares en consolas de videojuegos, y no para jugar al Call of Duty</a></h4>
+    <a href='https://computerhoy.com/gaming/ejercito-gasto-2-millones-dolares-videoconsolas-no-jugar-call-duty-1398648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/soldado-jugando-consola-3882775.jpg?tf=1200x' alt='Militares gastaron más de 2 millones de dólares en consolas de videojuegos, y no para jugar al Call of Duty' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/arreglar-wifi-lento-1348062'>Si desconectas este dispositivo en casa, obtendrás la máxima potencia de señal de WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/arreglar-wifi-lento-1348062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/wifi-rapido-3948493.jpg?tf=1200x' alt='Si desconectas este dispositivo en casa, obtendrás la máxima potencia de señal de WiFi' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-auriculares-samsung-galaxy-buds-3-pro-me-convencen-base-nuevo-diseno-audaz-sonido-premium-1399462'>He probado los auriculares Samsung Galaxy Buds 3 Pro, que me convencen a base de nuevo diseño audaz y sonido premium</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-auriculares-samsung-galaxy-buds-3-pro-me-convencen-base-nuevo-diseno-audaz-sonido-premium-1399462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-buds-3-pro-3912442.jpg?tf=1200x' alt='He probado los auriculares Samsung Galaxy Buds 3 Pro, que me convencen a base de nuevo diseño audaz y sonido premium' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/juegos-nube-futuro-gaming-no-1400159'>Los juegos en la nube: ¿El futuro del gaming o no? </a></h4>
-    <a href='https://computerhoy.com/gaming/juegos-nube-futuro-gaming-no-1400159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/playstation-ya-planeando-desarrollar-nuevo-servicio-juegos-nube-3040848.jpg?tf=1200x' alt='Los juegos en la nube: ¿El futuro del gaming o no? ' />
+    <h4><a href='https://computerhoy.com/tecnologia/pc-windows-10-pueden-actualizar-windows-11-empresas-resisten-1399579'>La mayoría de los PC con Windows 10 se pueden actualizar Windows 11: ¿por qué las empresas se resisten?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-windows-10-pueden-actualizar-windows-11-empresas-resisten-1399579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-3911950.jpg?tf=1200x' alt='La mayoría de los PC con Windows 10 se pueden actualizar Windows 11: ¿por qué las empresas se resisten?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/secreto-conexion-wifi-vuele-cajon-cocina-1287784'>El secreto para que tu conexión WiFi vuele está en el cajón de tu cocina</a></h4>
-    <a href='https://computerhoy.com/redes/secreto-conexion-wifi-vuele-cajon-cocina-1287784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/router-cocina-3104994.jpg?tf=1200x' alt='El secreto para que tu conexión WiFi vuele está en el cajón de tu cocina' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-actualiza-novedades-meta-ai-mayores-opciones-personalizacion-1400169'>WhatsApp se actualiza con novedades con Meta AI y mayores opciones de personalización </a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-actualiza-novedades-meta-ai-mayores-opciones-personalizacion-1400169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-actualiza-novedades-meta-ai-mayores-opciones-personalizacion-3948489.jpg?tf=1200x' alt='WhatsApp se actualiza con novedades con Meta AI y mayores opciones de personalización ' />
     </a>
 </div>
 
