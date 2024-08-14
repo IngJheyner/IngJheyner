@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-16-tendra-nuevo-boton-captura-todo-debes-saber-funcionamiento-1400301'>El iPhone 16 tendrá un nuevo "botón de captura": todo lo que debes saber sobre su funcionamiento</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-16-tendra-nuevo-boton-captura-todo-debes-saber-funcionamiento-1400301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-16-tendra-nuevo-boton-captura-todo-debes-saber-funcionamiento-3951633.jpg?tf=1200x' alt='El iPhone 16 tendrá un nuevo "botón de captura": todo lo que debes saber sobre su funcionamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/dragon-yakuza-serie-amazon-prime-video-puede-ser-tan-buena-como-fallout-1399939'>Like a Dragon: Yakuza, la serie de Amazon Prime Video que puede ser tan buena como Fallout</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/dragon-yakuza-serie-amazon-prime-video-puede-ser-tan-buena-como-fallout-1399939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dragon-yakuza-serie-amazon-prime-video-puede-ser-tan-buena-como-fallout-3936536.jpg?tf=1200x' alt='Like a Dragon: Yakuza, la serie de Amazon Prime Video que puede ser tan buena como Fallout' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/decenas-iphone-reemplazaran-var-detectar-fuera-juego-premier-league-1400312'>Decenas de iPhone “reemplazarán” el VAR para detectar el fuera de juego en la Premier League</a></h4>
+    <a href='https://computerhoy.com/tecnologia/decenas-iphone-reemplazaran-var-detectar-fuera-juego-premier-league-1400312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/decenas-iphone-reemplazaran-var-detectar-fuera-juego-premier-league-3951916.jpg?tf=1200x' alt='Decenas de iPhone “reemplazarán” el VAR para detectar el fuera de juego en la Premier League' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-detiene-alertas-actualizacion-windows-11-windows-10-recibir-criticas-1400311'>Microsoft detiene las alertas de actualización a Windows 11 en Windows 10 tras recibir críticas</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-detiene-alertas-actualizacion-windows-11-windows-10-recibir-criticas-1400311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-detiene-alertas-actualizacion-windows-11-windows-10-recibir-criticas-3951777.jpg?tf=1200x' alt='Microsoft detiene las alertas de actualización a Windows 11 en Windows 10 tras recibir críticas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/terribles-consecuencias-pc-no-cambias-pasta-termica-1400065'>Las terribles consecuencias para tu PC si no cambias regularmente la pasta térmica</a></h4>
     <a href='https://computerhoy.com/tutoriales/terribles-consecuencias-pc-no-cambias-pasta-termica-1400065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pasta-termica-pc-3942406.jpg?tf=1200x' alt='Las terribles consecuencias para tu PC si no cambias regularmente la pasta térmica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-viene-google-corazon-nos-encanto-ahora-ademas-ganga-1399869'>Este reloj viene con Google en el corazón y nos encantó: ahora además es una ganga</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-viene-google-corazon-nos-encanto-ahora-ademas-ganga-1399869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-watch-2-analisis-opinion-3283108.jpg?tf=1200x' alt='Este reloj viene con Google en el corazón y nos encantó: ahora además es una ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/interruptor-hombre-muerto-telegram-como-activarlo-privacidad-1296382'>Qué es el interruptor de hombre muerto de Telegram y cómo activarlo para proteger tu privacidad</a></h4>
-    <a href='https://computerhoy.com/tutoriales/interruptor-hombre-muerto-telegram-como-activarlo-privacidad-1296382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/telegram-3120908.jpg?tf=1200x' alt='Qué es el interruptor de hombre muerto de Telegram y cómo activarlo para proteger tu privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-1965-alien-ridley-scott-copiaron-descaradamente-ahora-puedes-ver-amazon-prime-video-1400253'>La película de 1965 que Alien y Ridley Scott copiaron descaradamente, y ahora puedes ver en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-1965-alien-ridley-scott-copiaron-descaradamente-ahora-puedes-ver-amazon-prime-video-1400253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pelicula-1965-alien-ridley-scott-copiaron-descaradamente-ahora-puedes-ver-amazon-prime-video-3950077.jpg?tf=1200x' alt='La película de 1965 que Alien y Ridley Scott copiaron descaradamente, y ahora puedes ver en Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/razon-microondas-puede-tener-cientos-bacterias-estudio-espanol-1400164'>La razón por la que tu microondas puede tener cientos de bacterias, según un estudio español</a></h4>
-    <a href='https://computerhoy.com/ciencia/razon-microondas-puede-tener-cientos-bacterias-estudio-espanol-1400164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/razon-microondas-puede-tener-cientos-bacterias-estudio-espanol-3948350.jpg?tf=1200x' alt='La razón por la que tu microondas puede tener cientos de bacterias, según un estudio español' />
     </a>
 </div>
 
