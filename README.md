@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/notificaciones-oficiales-tiktok-fake-news-1400149'>Las notificaciones oficiales de TikTok han difundido fake news y alertas de tsunami caducadas</a></h4>
+    <a href='https://computerhoy.com/redes/notificaciones-oficiales-tiktok-fake-news-1400149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/notificaciones-oficiales-tiktok-han-difundido-fake-news-alertas-climaticas-semanas-retraso-3946990.jpg?tf=1200x' alt='Las notificaciones oficiales de TikTok han difundido fake news y alertas de tsunami caducadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/devuelve-libro-biblioteca-90-anos-retraso-ojo-multa-1341346'>Devuelve un libro a la biblioteca con 90 años de retraso, ¡ojo a la multa!</a></h4>
+    <a href='https://computerhoy.com/life/devuelve-libro-biblioteca-90-anos-retraso-ojo-multa-1341346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/devuelve-libro-familiar-saco-hace-90-anos-biblioteca-piden-6400-dolares-multa-3232492.jpg?tf=1200x' alt='Devuelve un libro a la biblioteca con 90 años de retraso, ¡ojo a la multa!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/poco-tablet-potente-jugar-ver-series-1398340'>Potente como pocas, y baratas: POCO vende una tablet que revienta el mercado Android</a></h4>
     <a href='https://computerhoy.com/android/poco-tablet-potente-jugar-ver-series-1398340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-poco-pad-3852977.jpg?tf=1200x' alt='Potente como pocas, y baratas: POCO vende una tablet que revienta el mercado Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/ia-te-pedira-te-pienses-antes-insultar-alguien-twitch-1400145'>Una IA te pedirá que te lo pienses, antes de insultar a alguien en Twitch</a></h4>
     <a href='https://computerhoy.com/redes/ia-te-pedira-te-pienses-antes-insultar-alguien-twitch-1400145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ia-te-pedira-te-pienses-dos-veces-antes-insultar-alguien-twitch-3945362.jpg?tf=1200x' alt='Una IA te pedirá que te lo pienses, antes de insultar a alguien en Twitch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amd-compra-silo-ai-605-millones-euros-1400142'>AMD compra Silo AI por 605 millones de euros para convertirse en OpenAI 2.0</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amd-compra-silo-ai-605-millones-euros-1400142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/amd-compra-silo-ai-605-millones-euros-convertirse-openai-20-3944601.jpg?tf=1200x' alt='AMD compra Silo AI por 605 millones de euros para convertirse en OpenAI 2.0' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/futuro-robotica-robot-origami-transforma-1000-formas-1400141'>El futuro de la robótica: el robot origami que se transforma en más de 1000 formas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/futuro-robotica-robot-origami-transforma-1000-formas-1400141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/futuro-robotica-robot-origami-transforma-1000-formas-3945061.jpg?tf=1200x' alt='El futuro de la robótica: el robot origami que se transforma en más de 1000 formas' />
     </a>
 </div>
 
