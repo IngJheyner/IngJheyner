@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/funcion-movil-xiaomi-debes-desactivar-auriculares-inalambricos-suenen-mucho-alto-1395462'>La función de tu móvil Xiaomi que debes desactivar para que tus auriculares inalámbricos suenen mucho más alto</a></h4>
+    <a href='https://computerhoy.com/moviles/funcion-movil-xiaomi-debes-desactivar-auriculares-inalambricos-suenen-mucho-alto-1395462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-movil-xiaomi-debes-desactivar-auriculares-inalambricos-suenen-mucho-alto-3716105.jpg?tf=1200x' alt='La función de tu móvil Xiaomi que debes desactivar para que tus auriculares inalámbricos suenen mucho más alto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/anillo-inteligente-barato-aliexpress-1387338'>Los anillos inteligentes ya están aquí, y son baratos: AliExpress vende uno muy completo por 20€</a></h4>
+    <a href='https://computerhoy.com/tecnologia/anillo-inteligente-barato-aliexpress-1387338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/colmi-r02-3359999.jpg?tf=1200x' alt='Los anillos inteligentes ya están aquí, y son baratos: AliExpress vende uno muy completo por 20€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/movil-realme-potente-gama-alta-descuentazo-1398097'>Este móvil realme pone en apuros a los gama alta: es un cañón de potencia y acumula descuentazo</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-realme-potente-gama-alta-descuentazo-1398097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realme-gt-6-realme-gt6-3845311.jpg?tf=1200x' alt='Este móvil realme pone en apuros a los gama alta: es un cañón de potencia y acumula descuentazo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/twitch-como-funciona-streamers-videojuegos-populares-alternativas-1399904'>Qué es Twitch: cómo funciona, streamers, videojuegos más populares y alternativas</a></h4>
     <a href='https://computerhoy.com/apps/twitch-como-funciona-streamers-videojuegos-populares-alternativas-1399904' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/twitch-gaming-videojuegos-3936212.jpg?tf=1200x' alt='Qué es Twitch: cómo funciona, streamers, videojuegos más populares y alternativas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/google-maps-vecinal-persona-famosa-barrio-1385753'>El Google Maps vecinal que te desvela la persona más famosa de tu barrio</a></h4>
-    <a href='https://computerhoy.com/life/google-maps-vecinal-persona-famosa-barrio-1385753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/antonio-bandera-3944450.jpg?tf=1200x' alt='El Google Maps vecinal que te desvela la persona más famosa de tu barrio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/notificaciones-oficiales-tiktok-fake-news-1400149'>Las notificaciones oficiales de TikTok han difundido fake news y alertas de tsunami caducadas</a></h4>
-    <a href='https://computerhoy.com/redes/notificaciones-oficiales-tiktok-fake-news-1400149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/notificaciones-oficiales-tiktok-han-difundido-fake-news-alertas-climaticas-semanas-retraso-3946990.jpg?tf=1200x' alt='Las notificaciones oficiales de TikTok han difundido fake news y alertas de tsunami caducadas' />
     </a>
 </div>
 
