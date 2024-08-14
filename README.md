@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/interruptor-hombre-muerto-telegram-como-activarlo-privacidad-1296382'>Qué es el interruptor de hombre muerto de Telegram y cómo activarlo para proteger tu privacidad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/interruptor-hombre-muerto-telegram-como-activarlo-privacidad-1296382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/telegram-3120908.jpg?tf=1200x' alt='Qué es el interruptor de hombre muerto de Telegram y cómo activarlo para proteger tu privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-1965-alien-ridley-scott-copiaron-descaradamente-ahora-puedes-ver-amazon-prime-video-1400253'>La película de 1965 que Alien y Ridley Scott copiaron descaradamente, y ahora puedes ver en Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-1965-alien-ridley-scott-copiaron-descaradamente-ahora-puedes-ver-amazon-prime-video-1400253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pelicula-1965-alien-ridley-scott-copiaron-descaradamente-ahora-puedes-ver-amazon-prime-video-3950077.jpg?tf=1200x' alt='La película de 1965 que Alien y Ridley Scott copiaron descaradamente, y ahora puedes ver en Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/razon-microondas-puede-tener-cientos-bacterias-estudio-espanol-1400164'>La razón por la que tu microondas puede tener cientos de bacterias, según un estudio español</a></h4>
     <a href='https://computerhoy.com/ciencia/razon-microondas-puede-tener-cientos-bacterias-estudio-espanol-1400164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/razon-microondas-puede-tener-cientos-bacterias-estudio-espanol-3948350.jpg?tf=1200x' alt='La razón por la que tu microondas puede tener cientos de bacterias, según un estudio español' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/pequeno-pero-maton-motor-25-kilos-revoluciona-mercado-bicicletas-electricas-1400211'>Pequeño, pero matón: este motor de 2,5 kilos revoluciona el mercado de las bicicletas eléctricas</a></h4>
     <a href='https://computerhoy.com/motor/pequeno-pero-maton-motor-25-kilos-revoluciona-mercado-bicicletas-electricas-1400211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/centrix-3690041.jpg?tf=1200x' alt='Pequeño, pero matón: este motor de 2,5 kilos revoluciona el mercado de las bicicletas eléctricas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/desactivar-funcion-windows-agilizo-mi-pc-1291310'>Desactivar esta función de Windows convirtió mi PC en un equipo mucho más veloz</a></h4>
-    <a href='https://computerhoy.com/windows/desactivar-funcion-windows-agilizo-mi-pc-1291310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/desactivar-funcion-windows-convirtio-mi-ordenador-equipo-mucho-veloz-3111140.jpg?tf=1200x' alt='Desactivar esta función de Windows convirtió mi PC en un equipo mucho más veloz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coche-electrico-pone-apuros-tesla-carga-rapida-10-80-10-minutos-1400196'>Este coche eléctrico pone en apuros a Tesla y su carga rápida: de 10% al 80% en 10 minutos</a></h4>
-    <a href='https://computerhoy.com/motor/coche-electrico-pone-apuros-tesla-carga-rapida-10-80-10-minutos-1400196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cinco-peores-rivales-zeekr-007-3262197.jpg?tf=1200x' alt='Este coche eléctrico pone en apuros a Tesla y su carga rápida: de 10% al 80% en 10 minutos' />
     </a>
 </div>
 
