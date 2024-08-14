@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/razon-microondas-puede-tener-cientos-bacterias-estudio-espanol-1400164'>La razón por la que tu microondas puede tener cientos de bacterias, según un estudio español</a></h4>
+    <a href='https://computerhoy.com/ciencia/razon-microondas-puede-tener-cientos-bacterias-estudio-espanol-1400164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/razon-microondas-puede-tener-cientos-bacterias-estudio-espanol-3948350.jpg?tf=1200x' alt='La razón por la que tu microondas puede tener cientos de bacterias, según un estudio español' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-palo-sam-altman-cientos-youtubers-demandan-creadores-chatgpt-1400176'>Nuevo palo a Sam Altman: cientos de youtubers demandan a los creadores de ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-palo-sam-altman-cientos-youtubers-demandan-creadores-chatgpt-1400176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sam-altman-asegura-chatgpt-especialmente-util-estas-3-industrias-3265894.jpg?tf=1200x' alt='Nuevo palo a Sam Altman: cientos de youtubers demandan a los creadores de ChatGPT' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/coche-electrico-pone-apuros-tesla-carga-rapida-10-80-10-minutos-1400196'>Este coche eléctrico pone en apuros a Tesla y su carga rápida: de 10% al 80% en 10 minutos</a></h4>
     <a href='https://computerhoy.com/motor/coche-electrico-pone-apuros-tesla-carga-rapida-10-80-10-minutos-1400196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cinco-peores-rivales-zeekr-007-3262197.jpg?tf=1200x' alt='Este coche eléctrico pone en apuros a Tesla y su carga rápida: de 10% al 80% en 10 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/canales-tdt-espana-movil-gratis-instalar-nada-1308014'>Así puedes ver la TDT en el móvil con más de 4.000 canales (sin instalar nada y gratis)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/canales-tdt-espana-movil-gratis-instalar-nada-1308014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-gratis-canales-tdt-espana-resto-mundo-movil-instalar-nada-3139522.jpg?tf=1200x' alt='Así puedes ver la TDT en el móvil con más de 4.000 canales (sin instalar nada y gratis)' />
     </a>
 </div>
 
