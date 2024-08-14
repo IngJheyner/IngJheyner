@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-viene-google-corazon-nos-encanto-ahora-ademas-ganga-1399869'>Este reloj viene con Google en el corazón y nos encantó: ahora además es una ganga</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-viene-google-corazon-nos-encanto-ahora-ademas-ganga-1399869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-watch-2-analisis-opinion-3283108.jpg?tf=1200x' alt='Este reloj viene con Google en el corazón y nos encantó: ahora además es una ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/interruptor-hombre-muerto-telegram-como-activarlo-privacidad-1296382'>Qué es el interruptor de hombre muerto de Telegram y cómo activarlo para proteger tu privacidad</a></h4>
     <a href='https://computerhoy.com/tutoriales/interruptor-hombre-muerto-telegram-como-activarlo-privacidad-1296382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/telegram-3120908.jpg?tf=1200x' alt='Qué es el interruptor de hombre muerto de Telegram y cómo activarlo para proteger tu privacidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-palo-sam-altman-cientos-youtubers-demandan-creadores-chatgpt-1400176'>Nuevo palo a Sam Altman: cientos de youtubers demandan a los creadores de ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-palo-sam-altman-cientos-youtubers-demandan-creadores-chatgpt-1400176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sam-altman-asegura-chatgpt-especialmente-util-estas-3-industrias-3265894.jpg?tf=1200x' alt='Nuevo palo a Sam Altman: cientos de youtubers demandan a los creadores de ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/pequeno-pero-maton-motor-25-kilos-revoluciona-mercado-bicicletas-electricas-1400211'>Pequeño, pero matón: este motor de 2,5 kilos revoluciona el mercado de las bicicletas eléctricas</a></h4>
-    <a href='https://computerhoy.com/motor/pequeno-pero-maton-motor-25-kilos-revoluciona-mercado-bicicletas-electricas-1400211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/centrix-3690041.jpg?tf=1200x' alt='Pequeño, pero matón: este motor de 2,5 kilos revoluciona el mercado de las bicicletas eléctricas' />
     </a>
 </div>
 
