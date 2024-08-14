@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/spacex-va-enviar-nave-espacial-tripulada-polos-tierra-1400146'>SpaceX va a enviar una nave espacial tripulada a los polos de la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/spacex-va-enviar-nave-espacial-tripulada-polos-tierra-1400146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/primera-vez-spacex-va-enviar-nave-espacial-tripulada-polos-tierra-3945659.jpg?tf=1200x' alt='SpaceX va a enviar una nave espacial tripulada a los polos de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/ia-te-pedira-te-pienses-antes-insultar-alguien-twitch-1400145'>Una IA te pedirá que te lo pienses, antes de insultar a alguien en Twitch</a></h4>
     <a href='https://computerhoy.com/redes/ia-te-pedira-te-pienses-antes-insultar-alguien-twitch-1400145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ia-te-pedira-te-pienses-dos-veces-antes-insultar-alguien-twitch-3945362.jpg?tf=1200x' alt='Una IA te pedirá que te lo pienses, antes de insultar a alguien en Twitch' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-fotos-eliminara-pestana-biblioteca-reemplazara-colecciones-1400139'>Google Fotos eliminará la pestaña Biblioteca y la reemplazará por Colecciones</a></h4>
     <a href='https://computerhoy.com/apps/google-fotos-eliminara-pestana-biblioteca-reemplazara-colecciones-1400139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-fotos-3944906.jpg?tf=1200x' alt='Google Fotos eliminará la pestaña Biblioteca y la reemplazará por Colecciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-canal-hd-tres-uhd-sumaran-oferta-actual-tdt-espana-1400138'>Un nuevo canal HD y tres UHD se sumarán a la oferta actual de la TDT en España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-canal-hd-tres-uhd-sumaran-oferta-actual-tdt-espana-1400138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ver-tdt-3944901.jpg?tf=1200x' alt='Un nuevo canal HD y tres UHD se sumarán a la oferta actual de la TDT en España' />
     </a>
 </div>
 
