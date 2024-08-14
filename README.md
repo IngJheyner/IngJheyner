@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/poco-tablet-potente-jugar-ver-series-1398340'>Potente como pocas, y baratas: POCO vende una tablet que revienta el mercado Android</a></h4>
+    <a href='https://computerhoy.com/android/poco-tablet-potente-jugar-ver-series-1398340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-poco-pad-3852977.jpg?tf=1200x' alt='Potente como pocas, y baratas: POCO vende una tablet que revienta el mercado Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/spacex-va-enviar-nave-espacial-tripulada-polos-tierra-1400146'>SpaceX va a enviar una nave espacial tripulada a los polos de la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/spacex-va-enviar-nave-espacial-tripulada-polos-tierra-1400146' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/primera-vez-spacex-va-enviar-nave-espacial-tripulada-polos-tierra-3945659.jpg?tf=1200x' alt='SpaceX va a enviar una nave espacial tripulada a los polos de la Tierra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/futuro-robotica-robot-origami-transforma-1000-formas-1400141'>El futuro de la robótica: el robot origami que se transforma en más de 1000 formas</a></h4>
     <a href='https://computerhoy.com/tecnologia/futuro-robotica-robot-origami-transforma-1000-formas-1400141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/futuro-robotica-robot-origami-transforma-1000-formas-3945061.jpg?tf=1200x' alt='El futuro de la robótica: el robot origami que se transforma en más de 1000 formas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-fotos-eliminara-pestana-biblioteca-reemplazara-colecciones-1400139'>Google Fotos eliminará la pestaña Biblioteca y la reemplazará por Colecciones</a></h4>
-    <a href='https://computerhoy.com/apps/google-fotos-eliminara-pestana-biblioteca-reemplazara-colecciones-1400139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-fotos-3944906.jpg?tf=1200x' alt='Google Fotos eliminará la pestaña Biblioteca y la reemplazará por Colecciones' />
     </a>
 </div>
 
