@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/cierra-paramount-television-studios-creadores-jack-ryan-13-razones-1400323'>Cierra Paramount Television Studios, creadores de Jack Ryan y Por 13 razones</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cierra-paramount-television-studios-creadores-jack-ryan-13-razones-1400323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/jack-ryan.jpg?tf=1200x' alt='Cierra Paramount Television Studios, creadores de Jack Ryan y Por 13 razones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/departamento-justicia-estados-unidos-plantea-dividir-google-varias-empresas-1400320'>Estados Unidos se plantea obligar a Google a vender Android o el navegador Chrome</a></h4>
     <a href='https://computerhoy.com/google/departamento-justicia-estados-unidos-plantea-dividir-google-varias-empresas-1400320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/departamento-justicia-estados-unidos-plantea-dividir-google-varias-empresas-3951775.jpg?tf=1200x' alt='Estados Unidos se plantea obligar a Google a vender Android o el navegador Chrome' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/dragon-yakuza-serie-amazon-prime-video-puede-ser-tan-buena-como-fallout-1399939'>Like a Dragon: Yakuza, la serie de Amazon Prime Video que puede ser tan buena como Fallout</a></h4>
     <a href='https://computerhoy.com/entretenimiento/dragon-yakuza-serie-amazon-prime-video-puede-ser-tan-buena-como-fallout-1399939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dragon-yakuza-serie-amazon-prime-video-puede-ser-tan-buena-como-fallout-3936536.jpg?tf=1200x' alt='Like a Dragon: Yakuza, la serie de Amazon Prime Video que puede ser tan buena como Fallout' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/decenas-iphone-reemplazaran-var-detectar-fuera-juego-premier-league-1400312'>Decenas de iPhone “reemplazarán” el VAR para detectar el fuera de juego en la Premier League</a></h4>
-    <a href='https://computerhoy.com/tecnologia/decenas-iphone-reemplazaran-var-detectar-fuera-juego-premier-league-1400312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/decenas-iphone-reemplazaran-var-detectar-fuera-juego-premier-league-3951916.jpg?tf=1200x' alt='Decenas de iPhone “reemplazarán” el VAR para detectar el fuera de juego en la Premier League' />
     </a>
 </div>
 
