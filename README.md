@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-realme-potente-gama-alta-descuentazo-1398097'>Este móvil realme pone en apuros a los gama alta: es un cañón de potencia y acumula descuentazo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-realme-potente-gama-alta-descuentazo-1398097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realme-gt-6-realme-gt6-3845311.jpg?tf=1200x' alt='Este móvil realme pone en apuros a los gama alta: es un cañón de potencia y acumula descuentazo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/carga-rapida-mundo-ya-aqui-realme-puede-cargar-movil-menos-5-minutos-1400147'>La carga más rápida del mundo ya está aquí, es de Realme y puede cargar tu móvil en menos de 5 minutos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/carga-rapida-mundo-ya-aqui-realme-puede-cargar-movil-menos-5-minutos-1400147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/carga-rapida-mundo-ya-aqui-realme-puede-cargar-movil-menos-5-minutos-3946989.jpg?tf=1200x' alt='La carga más rápida del mundo ya está aquí, es de Realme y puede cargar tu móvil en menos de 5 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/twitch-como-funciona-streamers-videojuegos-populares-alternativas-1399904'>Qué es Twitch: cómo funciona, streamers, videojuegos más populares y alternativas</a></h4>
+    <a href='https://computerhoy.com/apps/twitch-como-funciona-streamers-videojuegos-populares-alternativas-1399904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/twitch-gaming-videojuegos-3936212.jpg?tf=1200x' alt='Qué es Twitch: cómo funciona, streamers, videojuegos más populares y alternativas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/google-maps-vecinal-persona-famosa-barrio-1385753'>El Google Maps vecinal que te desvela la persona más famosa de tu barrio</a></h4>
+    <a href='https://computerhoy.com/life/google-maps-vecinal-persona-famosa-barrio-1385753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/antonio-bandera-3944450.jpg?tf=1200x' alt='El Google Maps vecinal que te desvela la persona más famosa de tu barrio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/notificaciones-oficiales-tiktok-fake-news-1400149'>Las notificaciones oficiales de TikTok han difundido fake news y alertas de tsunami caducadas</a></h4>
     <a href='https://computerhoy.com/redes/notificaciones-oficiales-tiktok-fake-news-1400149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/notificaciones-oficiales-tiktok-han-difundido-fake-news-alertas-climaticas-semanas-retraso-3946990.jpg?tf=1200x' alt='Las notificaciones oficiales de TikTok han difundido fake news y alertas de tsunami caducadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/devuelve-libro-biblioteca-90-anos-retraso-ojo-multa-1341346'>Devuelve un libro a la biblioteca con 90 años de retraso, ¡ojo a la multa!</a></h4>
-    <a href='https://computerhoy.com/life/devuelve-libro-biblioteca-90-anos-retraso-ojo-multa-1341346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/devuelve-libro-familiar-saco-hace-90-anos-biblioteca-piden-6400-dolares-multa-3232492.jpg?tf=1200x' alt='Devuelve un libro a la biblioteca con 90 años de retraso, ¡ojo a la multa!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/poco-tablet-potente-jugar-ver-series-1398340'>Potente como pocas, y baratas: POCO vende una tablet que revienta el mercado Android</a></h4>
-    <a href='https://computerhoy.com/android/poco-tablet-potente-jugar-ver-series-1398340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-poco-pad-3852977.jpg?tf=1200x' alt='Potente como pocas, y baratas: POCO vende una tablet que revienta el mercado Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/spacex-va-enviar-nave-espacial-tripulada-polos-tierra-1400146'>SpaceX va a enviar una nave espacial tripulada a los polos de la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/spacex-va-enviar-nave-espacial-tripulada-polos-tierra-1400146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/primera-vez-spacex-va-enviar-nave-espacial-tripulada-polos-tierra-3945659.jpg?tf=1200x' alt='SpaceX va a enviar una nave espacial tripulada a los polos de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/ia-te-pedira-te-pienses-antes-insultar-alguien-twitch-1400145'>Una IA te pedirá que te lo pienses, antes de insultar a alguien en Twitch</a></h4>
-    <a href='https://computerhoy.com/redes/ia-te-pedira-te-pienses-antes-insultar-alguien-twitch-1400145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ia-te-pedira-te-pienses-dos-veces-antes-insultar-alguien-twitch-3945362.jpg?tf=1200x' alt='Una IA te pedirá que te lo pienses, antes de insultar a alguien en Twitch' />
     </a>
 </div>
 
