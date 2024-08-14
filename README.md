@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-palo-sam-altman-cientos-youtubers-demandan-creadores-chatgpt-1400176'>Nuevo palo a Sam Altman: cientos de youtubers demandan a los creadores de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-palo-sam-altman-cientos-youtubers-demandan-creadores-chatgpt-1400176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sam-altman-asegura-chatgpt-especialmente-util-estas-3-industrias-3265894.jpg?tf=1200x' alt='Nuevo palo a Sam Altman: cientos de youtubers demandan a los creadores de ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/pequeno-pero-maton-motor-25-kilos-revoluciona-mercado-bicicletas-electricas-1400211'>Pequeño, pero matón: este motor de 2,5 kilos revoluciona el mercado de las bicicletas eléctricas</a></h4>
+    <a href='https://computerhoy.com/motor/pequeno-pero-maton-motor-25-kilos-revoluciona-mercado-bicicletas-electricas-1400211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/centrix-3690041.jpg?tf=1200x' alt='Pequeño, pero matón: este motor de 2,5 kilos revoluciona el mercado de las bicicletas eléctricas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/desactivar-funcion-windows-agilizo-mi-pc-1291310'>Desactivar esta función de Windows convirtió mi PC en un equipo mucho más veloz</a></h4>
     <a href='https://computerhoy.com/windows/desactivar-funcion-windows-agilizo-mi-pc-1291310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/desactivar-funcion-windows-convirtio-mi-ordenador-equipo-mucho-veloz-3111140.jpg?tf=1200x' alt='Desactivar esta función de Windows convirtió mi PC en un equipo mucho más veloz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/canales-tdt-espana-movil-gratis-instalar-nada-1308014'>Así puedes ver la TDT en el móvil con más de 4.000 canales (sin instalar nada y gratis)</a></h4>
     <a href='https://computerhoy.com/tecnologia/canales-tdt-espana-movil-gratis-instalar-nada-1308014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-gratis-canales-tdt-espana-resto-mundo-movil-instalar-nada-3139522.jpg?tf=1200x' alt='Así puedes ver la TDT en el móvil con más de 4.000 canales (sin instalar nada y gratis)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/japon-cerca-acabar-motores-combustion-gracias-levitacion-magnetica-1400179'>Japón está más cerca de acabar con los motores de combustión gracias a la levitación magnética</a></h4>
-    <a href='https://computerhoy.com/tecnologia/japon-cerca-acabar-motores-combustion-gracias-levitacion-magnetica-1400179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/japon-cerca-acabar-motores-combustion-gracias-levitacion-magnetica-3948821.jpg?tf=1200x' alt='Japón está más cerca de acabar con los motores de combustión gracias a la levitación magnética' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-coffer-esconde-circulos-772583'>Aunque no lo creas, esta ilusión óptica esconde varios círculos, ¿puedes verlos?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/ilusion-optica-coffer-esconde-circulos-772583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/ilusion-optica-coffer-2165153.jpg?tf=1200x' alt='Aunque no lo creas, esta ilusión óptica esconde varios círculos, ¿puedes verlos?' />
     </a>
 </div>
 
