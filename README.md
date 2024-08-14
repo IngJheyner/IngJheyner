@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/sueno-programadores-ia-puede-procesar-100-millones-lineas-codigo-vez-1400173'>El sueño de los programadores: esta IA puede procesar 100 millones de líneas de código a la vez</a></h4>
+    <a href='https://computerhoy.com/sueno-programadores-ia-puede-procesar-100-millones-lineas-codigo-vez-1400173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-programacion-3948647.jpg?tf=1200x' alt='El sueño de los programadores: esta IA puede procesar 100 millones de líneas de código a la vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/humanos-alcanzaran-singularidad-solo-21-anos-1399601'>La ciencia pronostica que los humanos alcanzarán la singularidad en solo 21 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/humanos-alcanzaran-singularidad-solo-21-anos-1399601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/foto-ia-3912121.jpg?tf=1200x' alt='La ciencia pronostica que los humanos alcanzarán la singularidad en solo 21 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/hackberrypi-hackear-alternativa-flipper-zero-1399361'>HackberryPi, la Raspberry Pi para hackear que convierte al todopoderoso Flipper Zero en un simple juguete</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hackberrypi-hackear-alternativa-flipper-zero-1399361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hackberrypi-raspberry-pi-hackear-convierte-flipper-zero-juguete-3902861.jpg?tf=1200x' alt='HackberryPi, la Raspberry Pi para hackear que convierte al todopoderoso Flipper Zero en un simple juguete' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/funcion-google-deberias-empezar-utilizar-ya-1291288'>La función de Google que deberías empezar a utilizar ya en tu iPhone o Android</a></h4>
     <a href='https://computerhoy.com/google/funcion-google-deberias-empezar-utilizar-ya-1291288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-search-3111138.jpg?tf=1200x' alt='La función de Google que deberías empezar a utilizar ya en tu iPhone o Android' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/ejercito-gasto-2-millones-dolares-videoconsolas-no-jugar-call-duty-1398648'>Militares gastaron más de 2 millones de dólares en consolas de videojuegos, y no para jugar al Call of Duty</a></h4>
     <a href='https://computerhoy.com/gaming/ejercito-gasto-2-millones-dolares-videoconsolas-no-jugar-call-duty-1398648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/soldado-jugando-consola-3882775.jpg?tf=1200x' alt='Militares gastaron más de 2 millones de dólares en consolas de videojuegos, y no para jugar al Call of Duty' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-auriculares-samsung-galaxy-buds-3-pro-me-convencen-base-nuevo-diseno-audaz-sonido-premium-1399462'>He probado los auriculares Samsung Galaxy Buds 3 Pro, que me convencen a base de nuevo diseño audaz y sonido premium</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-auriculares-samsung-galaxy-buds-3-pro-me-convencen-base-nuevo-diseno-audaz-sonido-premium-1399462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-buds-3-pro-3912442.jpg?tf=1200x' alt='He probado los auriculares Samsung Galaxy Buds 3 Pro, que me convencen a base de nuevo diseño audaz y sonido premium' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-windows-10-pueden-actualizar-windows-11-empresas-resisten-1399579'>La mayoría de los PC con Windows 10 se pueden actualizar Windows 11: ¿por qué las empresas se resisten?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-windows-10-pueden-actualizar-windows-11-empresas-resisten-1399579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-3911950.jpg?tf=1200x' alt='La mayoría de los PC con Windows 10 se pueden actualizar Windows 11: ¿por qué las empresas se resisten?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-actualiza-novedades-meta-ai-mayores-opciones-personalizacion-1400169'>WhatsApp se actualiza con novedades con Meta AI y mayores opciones de personalización </a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-actualiza-novedades-meta-ai-mayores-opciones-personalizacion-1400169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-actualiza-novedades-meta-ai-mayores-opciones-personalizacion-3948489.jpg?tf=1200x' alt='WhatsApp se actualiza con novedades con Meta AI y mayores opciones de personalización ' />
     </a>
 </div>
 
