@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/terribles-consecuencias-pc-no-cambias-pasta-termica-1400065'>Las terribles consecuencias para tu PC si no cambias regularmente la pasta térmica</a></h4>
+    <a href='https://computerhoy.com/tutoriales/terribles-consecuencias-pc-no-cambias-pasta-termica-1400065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pasta-termica-pc-3942406.jpg?tf=1200x' alt='Las terribles consecuencias para tu PC si no cambias regularmente la pasta térmica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-viene-google-corazon-nos-encanto-ahora-ademas-ganga-1399869'>Este reloj viene con Google en el corazón y nos encantó: ahora además es una ganga</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-viene-google-corazon-nos-encanto-ahora-ademas-ganga-1399869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-watch-2-analisis-opinion-3283108.jpg?tf=1200x' alt='Este reloj viene con Google en el corazón y nos encantó: ahora además es una ganga' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/razon-microondas-puede-tener-cientos-bacterias-estudio-espanol-1400164'>La razón por la que tu microondas puede tener cientos de bacterias, según un estudio español</a></h4>
     <a href='https://computerhoy.com/ciencia/razon-microondas-puede-tener-cientos-bacterias-estudio-espanol-1400164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/razon-microondas-puede-tener-cientos-bacterias-estudio-espanol-3948350.jpg?tf=1200x' alt='La razón por la que tu microondas puede tener cientos de bacterias, según un estudio español' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-palo-sam-altman-cientos-youtubers-demandan-creadores-chatgpt-1400176'>Nuevo palo a Sam Altman: cientos de youtubers demandan a los creadores de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-palo-sam-altman-cientos-youtubers-demandan-creadores-chatgpt-1400176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sam-altman-asegura-chatgpt-especialmente-util-estas-3-industrias-3265894.jpg?tf=1200x' alt='Nuevo palo a Sam Altman: cientos de youtubers demandan a los creadores de ChatGPT' />
     </a>
 </div>
 
