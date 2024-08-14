@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/sueno-programadores-ia-puede-procesar-100-millones-lineas-codigo-vez-1400173'>El sueño de los programadores: esta IA puede procesar 100 millones de líneas de código a la vez</a></h4>
-    <a href='https://computerhoy.com/sueno-programadores-ia-puede-procesar-100-millones-lineas-codigo-vez-1400173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-programacion-3948647.jpg?tf=1200x' alt='El sueño de los programadores: esta IA puede procesar 100 millones de líneas de código a la vez' />
+    <h4><a href='https://computerhoy.com/motor/coche-electrico-pone-apuros-tesla-carga-rapida-10-80-10-minutos-1400196'>Este coche eléctrico pone en apuros a Tesla y su carga rápida: de 10% al 80% en 10 minutos</a></h4>
+    <a href='https://computerhoy.com/motor/coche-electrico-pone-apuros-tesla-carga-rapida-10-80-10-minutos-1400196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cinco-peores-rivales-zeekr-007-3262197.jpg?tf=1200x' alt='Este coche eléctrico pone en apuros a Tesla y su carga rápida: de 10% al 80% en 10 minutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/humanos-alcanzaran-singularidad-solo-21-anos-1399601'>La ciencia pronostica que los humanos alcanzarán la singularidad en solo 21 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/humanos-alcanzaran-singularidad-solo-21-anos-1399601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/foto-ia-3912121.jpg?tf=1200x' alt='La ciencia pronostica que los humanos alcanzarán la singularidad en solo 21 años' />
+    <h4><a href='https://computerhoy.com/tecnologia/canales-tdt-espana-movil-gratis-instalar-nada-1308014'>Así puedes ver la TDT en el móvil con más de 4.000 canales (sin instalar nada y gratis)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/canales-tdt-espana-movil-gratis-instalar-nada-1308014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-gratis-canales-tdt-espana-resto-mundo-movil-instalar-nada-3139522.jpg?tf=1200x' alt='Así puedes ver la TDT en el móvil con más de 4.000 canales (sin instalar nada y gratis)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hackberrypi-hackear-alternativa-flipper-zero-1399361'>HackberryPi, la Raspberry Pi para hackear que convierte al todopoderoso Flipper Zero en un simple juguete</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hackberrypi-hackear-alternativa-flipper-zero-1399361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hackberrypi-raspberry-pi-hackear-convierte-flipper-zero-juguete-3902861.jpg?tf=1200x' alt='HackberryPi, la Raspberry Pi para hackear que convierte al todopoderoso Flipper Zero en un simple juguete' />
+    <h4><a href='https://computerhoy.com/tecnologia/japon-cerca-acabar-motores-combustion-gracias-levitacion-magnetica-1400179'>Japón está más cerca de acabar con los motores de combustión gracias a la levitación magnética</a></h4>
+    <a href='https://computerhoy.com/tecnologia/japon-cerca-acabar-motores-combustion-gracias-levitacion-magnetica-1400179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/japon-cerca-acabar-motores-combustion-gracias-levitacion-magnetica-3948821.jpg?tf=1200x' alt='Japón está más cerca de acabar con los motores de combustión gracias a la levitación magnética' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/funcion-google-deberias-empezar-utilizar-ya-1291288'>La función de Google que deberías empezar a utilizar ya en tu iPhone o Android</a></h4>
-    <a href='https://computerhoy.com/google/funcion-google-deberias-empezar-utilizar-ya-1291288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-search-3111138.jpg?tf=1200x' alt='La función de Google que deberías empezar a utilizar ya en tu iPhone o Android' />
+    <h4><a href='https://computerhoy.com/noticias/life/ilusion-optica-coffer-esconde-circulos-772583'>Aunque no lo creas, esta ilusión óptica esconde varios círculos, ¿puedes verlos?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/ilusion-optica-coffer-esconde-circulos-772583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/ilusion-optica-coffer-2165153.jpg?tf=1200x' alt='Aunque no lo creas, esta ilusión óptica esconde varios círculos, ¿puedes verlos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ejercito-gasto-2-millones-dolares-videoconsolas-no-jugar-call-duty-1398648'>Militares gastaron más de 2 millones de dólares en consolas de videojuegos, y no para jugar al Call of Duty</a></h4>
-    <a href='https://computerhoy.com/gaming/ejercito-gasto-2-millones-dolares-videoconsolas-no-jugar-call-duty-1398648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/soldado-jugando-consola-3882775.jpg?tf=1200x' alt='Militares gastaron más de 2 millones de dólares en consolas de videojuegos, y no para jugar al Call of Duty' />
+    <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-revienta-precio-portatil-gaming-canon-i7-rtx-4070-500-euros-menos-1400182'>PcComponentes revienta el precio de un portátil gaming cañón: i7 y RTX 4070 por 500 euros menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pccomponentes-revienta-precio-portatil-gaming-canon-i7-rtx-4070-500-euros-menos-1400182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pccom-revolt-4070-3948479.jpg?tf=1200x' alt='PcComponentes revienta el precio de un portátil gaming cañón: i7 y RTX 4070 por 500 euros menos' />
     </a>
 </div>
 
