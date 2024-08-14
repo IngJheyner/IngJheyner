@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/funcion-movil-xiaomi-debes-desactivar-auriculares-inalambricos-suenen-mucho-alto-1395462'>La función de tu móvil Xiaomi que debes desactivar para que tus auriculares inalámbricos suenen mucho más alto</a></h4>
-    <a href='https://computerhoy.com/moviles/funcion-movil-xiaomi-debes-desactivar-auriculares-inalambricos-suenen-mucho-alto-1395462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-movil-xiaomi-debes-desactivar-auriculares-inalambricos-suenen-mucho-alto-3716105.jpg?tf=1200x' alt='La función de tu móvil Xiaomi que debes desactivar para que tus auriculares inalámbricos suenen mucho más alto' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-pone-wifi-patas-arriba-nuevo-router-da-salto-wifi-7-1399856'>Xiaomi pone tu WiFi patas arriba: su nuevo router da el salto ¡al WiFi 7!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-pone-wifi-patas-arriba-nuevo-router-da-salto-wifi-7-1399856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-be5000-3934457.jpg?tf=1200x' alt='Xiaomi pone tu WiFi patas arriba: su nuevo router da el salto ¡al WiFi 7!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/anillo-inteligente-barato-aliexpress-1387338'>Los anillos inteligentes ya están aquí, y son baratos: AliExpress vende uno muy completo por 20€</a></h4>
-    <a href='https://computerhoy.com/tecnologia/anillo-inteligente-barato-aliexpress-1387338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/colmi-r02-3359999.jpg?tf=1200x' alt='Los anillos inteligentes ya están aquí, y son baratos: AliExpress vende uno muy completo por 20€' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-revienta-mercado-nube-office-oferta-1399848'>Microsoft revienta el mercado: ofrece 1TB en la nube y todo Office a precio de locos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-revienta-mercado-nube-office-oferta-1399848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-365-3308242.jpg?tf=1200x' alt='Microsoft revienta el mercado: ofrece 1TB en la nube y todo Office a precio de locos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-realme-potente-gama-alta-descuentazo-1398097'>Este móvil realme pone en apuros a los gama alta: es un cañón de potencia y acumula descuentazo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-realme-potente-gama-alta-descuentazo-1398097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realme-gt-6-realme-gt6-3845311.jpg?tf=1200x' alt='Este móvil realme pone en apuros a los gama alta: es un cañón de potencia y acumula descuentazo' />
+    <h4><a href='https://computerhoy.com/redes/arreglar-wifi-lento-1348062'>Si desconectas este dispositivo en casa, obtendrás la máxima potencia de señal de WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/arreglar-wifi-lento-1348062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/wifi-rapido-3948493.jpg?tf=1200x' alt='Si desconectas este dispositivo en casa, obtendrás la máxima potencia de señal de WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/carga-rapida-mundo-ya-aqui-realme-puede-cargar-movil-menos-5-minutos-1400147'>La carga más rápida del mundo ya está aquí, es de Realme y puede cargar tu móvil en menos de 5 minutos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/carga-rapida-mundo-ya-aqui-realme-puede-cargar-movil-menos-5-minutos-1400147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/carga-rapida-mundo-ya-aqui-realme-puede-cargar-movil-menos-5-minutos-3946989.jpg?tf=1200x' alt='La carga más rápida del mundo ya está aquí, es de Realme y puede cargar tu móvil en menos de 5 minutos' />
+    <h4><a href='https://computerhoy.com/gaming/juegos-nube-futuro-gaming-no-1400159'>Los juegos en la nube: ¿El futuro del gaming o no? </a></h4>
+    <a href='https://computerhoy.com/gaming/juegos-nube-futuro-gaming-no-1400159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/playstation-ya-planeando-desarrollar-nuevo-servicio-juegos-nube-3040848.jpg?tf=1200x' alt='Los juegos en la nube: ¿El futuro del gaming o no? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/twitch-como-funciona-streamers-videojuegos-populares-alternativas-1399904'>Qué es Twitch: cómo funciona, streamers, videojuegos más populares y alternativas</a></h4>
-    <a href='https://computerhoy.com/apps/twitch-como-funciona-streamers-videojuegos-populares-alternativas-1399904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/twitch-gaming-videojuegos-3936212.jpg?tf=1200x' alt='Qué es Twitch: cómo funciona, streamers, videojuegos más populares y alternativas' />
+    <h4><a href='https://computerhoy.com/redes/secreto-conexion-wifi-vuele-cajon-cocina-1287784'>El secreto para que tu conexión WiFi vuele está en el cajón de tu cocina</a></h4>
+    <a href='https://computerhoy.com/redes/secreto-conexion-wifi-vuele-cajon-cocina-1287784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/router-cocina-3104994.jpg?tf=1200x' alt='El secreto para que tu conexión WiFi vuele está en el cajón de tu cocina' />
     </a>
 </div>
 
