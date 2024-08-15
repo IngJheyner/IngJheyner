@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/tablet-2x1-locos-pantalla-ideal-leer-buen-rendimiento-1400094'>Esta tablet es un 2x1 de locos: pantalla ideal para leer y buen rendimiento</a></h4>
+    <a href='https://computerhoy.com/android/tablet-2x1-locos-pantalla-ideal-leer-buen-rendimiento-1400094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/descubre-nueva-tcl-nxtpaper-11-pantalla-tecnologia-nxtpaper-20-3089946.jpg?tf=1200x' alt='Esta tablet es un 2x1 de locos: pantalla ideal para leer y buen rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/dile-adios-waze-google-maps-nueva-app-te-alerta-mejor-todos-radares-camaras-1399876'>Dile adiós a Waze y Google Maps: esta nueva app te alerta mejor de todos los radares y cámaras</a></h4>
+    <a href='https://computerhoy.com/apps/dile-adios-waze-google-maps-nueva-app-te-alerta-mejor-todos-radares-camaras-1399876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aplicacion-mejor-google-maps-waze-detectar-todo-tipo-radares-3934931.jpg?tf=1200x' alt='Dile adiós a Waze y Google Maps: esta nueva app te alerta mejor de todos los radares y cámaras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-localizar-movil-android-perdido-incluso-silencio-1295334'>Cómo localizar un móvil Android perdido incluso si está en silencio</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-localizar-movil-android-perdido-incluso-silencio-1295334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/hombre-buscando-debajo-sofa-3119758.jpg?tf=1200x' alt='Cómo localizar un móvil Android perdido incluso si está en silencio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/fisicos-han-encontrado-nueva-manera-representar-numero-pi-1400354'>Los físicos han encontrado una nueva manera de representar el número pi</a></h4>
     <a href='https://computerhoy.com/ciencia/fisicos-han-encontrado-nueva-manera-representar-numero-pi-1400354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fisicos-han-encontrado-nueva-manera-representar-numero-pi-3955790.jpg?tf=1200x' alt='Los físicos han encontrado una nueva manera de representar el número pi' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/crowview-note-convierte-cualquier-dispositivo-en-portatil-video-1400339'>CrowView Note convierte cualquier dispositivo en un portátil</a></h4>
     <a href='https://computerhoy.com/pc/crowview-note-convierte-cualquier-dispositivo-en-portatil-video-1400339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1723701121162-3954955.jpg?tf=1200x' alt='CrowView Note convierte cualquier dispositivo en un portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/pocos-conductores-saben-hay-hacer-avisar-van-frenar-mucho-984829'>Pocos conductores saben lo que hay que hacer para avisar de que van a frenar mucho: no debes encender las luces de emergencias</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/pocos-conductores-saben-hay-hacer-avisar-van-frenar-mucho-984829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/coches-luces-emergencia-2567845.jpg?tf=1200x' alt='Pocos conductores saben lo que hay que hacer para avisar de que van a frenar mucho: no debes encender las luces de emergencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/peligrosa-salud-freidora-aire-medico-dicta-sentencia-1400342'>¿Es peligrosa para la salud la freidora de aire? Un médico dicta sentencia</a></h4>
-    <a href='https://computerhoy.com/alimentacion/peligrosa-salud-freidora-aire-medico-dicta-sentencia-1400342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/peligrosa-salud-freidora-aire-medico-dicta-sentencia-3955512.jpg?tf=1200x' alt='¿Es peligrosa para la salud la freidora de aire? Un médico dicta sentencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/viajas-te-llevas-trabajo-gadget-fundamental-monitor-portatil-mochila-1400027'>Si viajas y te llevas el trabajo, este gadget es fundamental: un monitor portátil que cabe en la mochila</a></h4>
-    <a href='https://computerhoy.com/tecnologia/viajas-te-llevas-trabajo-gadget-fundamental-monitor-portatil-mochila-1400027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/adreamer-librascreen-15m-3941201.jpg?tf=1200x' alt='Si viajas y te llevas el trabajo, este gadget es fundamental: un monitor portátil que cabe en la mochila' />
     </a>
 </div>
 
