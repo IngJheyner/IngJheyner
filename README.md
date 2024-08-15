@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/configuracion-secreta-router-ocultarlo-piratas-informaticos-1291958'>La configuración secreta que puedes hacer en tu router para ocultarlo de los hackers</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/configuracion-secreta-router-ocultarlo-piratas-informaticos-1291958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2994456.jpg?tf=1200x' alt='La configuración secreta que puedes hacer en tu router para ocultarlo de los hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/electrodomestico-deberias-desconectar-siempre-notaras-mucho-factura-luz-1399472'>El electrodoméstico que si o si deberías desconectar siempre: lo notarás, y mucho, en la factura de la luz</a></h4>
+    <a href='https://computerhoy.com/hogar/electrodomestico-deberias-desconectar-siempre-notaras-mucho-factura-luz-1399472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/electrodomestico-deberias-desconectar-siempre-notaras-mucho-factura-luz-3905425.jpg?tf=1200x' alt='El electrodoméstico que si o si deberías desconectar siempre: lo notarás, y mucho, en la factura de la luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/estados-unidos-endurece-aun-guerra-huawei-fabricantes-semiconductores-1400383'>Estados Unidos endurece aún más su guerra con Huawei y los fabricantes de semiconductores</a></h4>
+    <a href='https://computerhoy.com/moviles/estados-unidos-endurece-aun-guerra-huawei-fabricantes-semiconductores-1400383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estados-unidos-endurece-aun-guerra-huawei-fabricantes-semiconductores-3956992.jpg?tf=1200x' alt='Estados Unidos endurece aún más su guerra con Huawei y los fabricantes de semiconductores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/union-europea-obligara-fabricantes-moviles-tablets-cambiar-etiquetas-partir-2025-1400378'>La Unión Europea obligará a los fabricantes de móviles y tablets a cambiar sus etiquetas a partir de 2025</a></h4>
+    <a href='https://computerhoy.com/tecnologia/union-europea-obligara-fabricantes-moviles-tablets-cambiar-etiquetas-partir-2025-1400378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/union-europea-obligara-fabricantes-moviles-tablets-cambiar-etiquetas-partir-2025-3956677.jpg?tf=1200x' alt='La Unión Europea obligará a los fabricantes de móviles y tablets a cambiar sus etiquetas a partir de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/mejora-rendimiento-seguridad-router-estos-3-sencillos-trucos-1399813'>Mejora el rendimiento y la seguridad de tu router con estos 3 sencillos trucos</a></h4>
     <a href='https://computerhoy.com/internet/mejora-rendimiento-seguridad-router-estos-3-sencillos-trucos-1399813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/objetos-deberias-alejar-router-wifi-evitar-conexion-internet-vaya-lenta-3837476.jpg?tf=1200x' alt='Mejora el rendimiento y la seguridad de tu router con estos 3 sencillos trucos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-miticas-superheroes-no-son-dc-ni-marvel-no-sabias-estaban-basadas-comics-1398028'>5 películas míticas de superhéroes que no son de DC ni de Marvel (y que no sabías que estaban basadas en cómics)</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-peliculas-miticas-superheroes-no-son-dc-ni-marvel-no-sabias-estaban-basadas-comics-1398028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-peliculas-miticas-superheroes-no-son-dc-ni-marvel-no-sabias-estaban-basadas-comics-3840619.jpg?tf=1200x' alt='5 películas míticas de superhéroes que no son de DC ni de Marvel (y que no sabías que estaban basadas en cómics)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-trabajando-robot-domestico-aumentar-ingresos-proximos-anos-1400373'>Apple está trabajando en su robot doméstico para aumentar sus ingresos de los próximos años</a></h4>
-    <a href='https://computerhoy.com/apple/apple-trabajando-robot-domestico-aumentar-ingresos-proximos-anos-1400373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-trabajando-robot-domestico-aumentar-ingresos-proximos-anos-3956374.jpg?tf=1200x' alt='Apple está trabajando en su robot doméstico para aumentar sus ingresos de los próximos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/modo-espejo-photoshop-como-utilizarlo-1398082'>Qué es el modo espejo en Photoshop y cómo utilizarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/modo-espejo-photoshop-como-utilizarlo-1398082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/modo-espejo-photoshop-3843034.jpg?tf=1200x' alt='Qué es el modo espejo en Photoshop y cómo utilizarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-saben-google-maps-waze-hay-atasco-carretera-alternativas-1291882'>¿Cómo saben Google Maps o Waze que hay un atasco en la carretera y ofrecen alternativas?</a></h4>
-    <a href='https://computerhoy.com/apps/como-saben-google-maps-waze-hay-atasco-carretera-alternativas-1291882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-saben-google-maps-waze-hay-atasco-carretera-3112052.jpg?tf=1200x' alt='¿Cómo saben Google Maps o Waze que hay un atasco en la carretera y ofrecen alternativas?' />
     </a>
 </div>
 
