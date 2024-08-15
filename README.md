@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mejora-rendimiento-seguridad-router-estos-3-sencillos-trucos-1399813'>Mejora el rendimiento y la seguridad de tu router con estos 3 sencillos trucos</a></h4>
+    <a href='https://computerhoy.com/internet/mejora-rendimiento-seguridad-router-estos-3-sencillos-trucos-1399813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/objetos-deberias-alejar-router-wifi-evitar-conexion-internet-vaya-lenta-3837476.jpg?tf=1200x' alt='Mejora el rendimiento y la seguridad de tu router con estos 3 sencillos trucos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-miticas-superheroes-no-son-dc-ni-marvel-no-sabias-estaban-basadas-comics-1398028'>5 películas míticas de superhéroes que no son de DC ni de Marvel (y que no sabías que estaban basadas en cómics)</a></h4>
     <a href='https://computerhoy.com/entretenimiento/5-peliculas-miticas-superheroes-no-son-dc-ni-marvel-no-sabias-estaban-basadas-comics-1398028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-peliculas-miticas-superheroes-no-son-dc-ni-marvel-no-sabias-estaban-basadas-comics-3840619.jpg?tf=1200x' alt='5 películas míticas de superhéroes que no son de DC ni de Marvel (y que no sabías que estaban basadas en cómics)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/como-saben-google-maps-waze-hay-atasco-carretera-alternativas-1291882'>¿Cómo saben Google Maps o Waze que hay un atasco en la carretera y ofrecen alternativas?</a></h4>
     <a href='https://computerhoy.com/apps/como-saben-google-maps-waze-hay-atasco-carretera-alternativas-1291882' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-saben-google-maps-waze-hay-atasco-carretera-3112052.jpg?tf=1200x' alt='¿Cómo saben Google Maps o Waze que hay un atasco en la carretera y ofrecen alternativas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-estas-buscando-trabajo-estafa-veraniega-pone-peligro-desempleados-1399057'>Cuidado si estás buscando trabajo: la estafa veraniega que pone en peligro a los desempleados</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-estas-buscando-trabajo-estafa-veraniega-pone-peligro-desempleados-1399057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-estas-buscando-trabajo-estafa-veraniega-pone-peligro-desempleados-3889691.jpg?tf=1200x' alt='Cuidado si estás buscando trabajo: la estafa veraniega que pone en peligro a los desempleados' />
     </a>
 </div>
 
