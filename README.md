@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/5-videojuegos-pensados-tener-secuela-finalmente-quedaron-conclusion-1398215'>5 videojuegos pensados para tener secuela que finalmente se quedaron sin conclusión</a></h4>
+    <a href='https://computerhoy.com/gaming/5-videojuegos-pensados-tener-secuela-finalmente-quedaron-conclusion-1398215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-videojuegos-pensados-tener-secuela-finalmente-quedaron-conclusion-3847186.jpg?tf=1200x' alt='5 videojuegos pensados para tener secuela que finalmente se quedaron sin conclusión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/hacer-punto-acceso-personal-no-funciona-iphone-1364347'>10 cosas que debes hacer si el Punto de acceso personal de tu iPhone no funciona correctamente</a></h4>
     <a href='https://computerhoy.com/apple/hacer-punto-acceso-personal-no-funciona-iphone-1364347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-cosas-debes-hacer-punto-acceso-personal-iphone-no-funciona-correctamente-3273909.jpg?tf=1200x' alt='10 cosas que debes hacer si el Punto de acceso personal de tu iPhone no funciona correctamente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/robot-acaba-atasco-historico-solicitudes-nacionalidad-espanola-1400392'>Un robot acaba con el atasco histórico en las solicitudes de nacionalidad española</a></h4>
     <a href='https://computerhoy.com/life/robot-acaba-atasco-historico-solicitudes-nacionalidad-espanola-1400392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/robot-acaba-atasco-historico-solicitudes-nacionalidad-espanola-3957575.jpg?tf=1200x' alt='Un robot acaba con el atasco histórico en las solicitudes de nacionalidad española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/configuracion-secreta-router-ocultarlo-piratas-informaticos-1291958'>La configuración secreta que puedes hacer en tu router para ocultarlo de los hackers</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/configuracion-secreta-router-ocultarlo-piratas-informaticos-1291958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2994456.jpg?tf=1200x' alt='La configuración secreta que puedes hacer en tu router para ocultarlo de los hackers' />
     </a>
 </div>
 
