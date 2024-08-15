@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-1400326'>7 ajustes imprescindibles que deberías activar en tu iPhone después de instalar iOS 18</a></h4>
+    <a href='https://computerhoy.com/apple/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-1400326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-3953855.jpg?tf=1200x' alt='7 ajustes imprescindibles que deberías activar en tu iPhone después de instalar iOS 18' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/coches-autonomos-waymo-causan-caos-sonar-claxon-aparcados-4-manana-1400325'>Coches autónomos de Waymo causan el caos al sonar el claxon aparcados, a las 4 de la mañana</a></h4>
     <a href='https://computerhoy.com/motor/coches-autonomos-waymo-causan-caos-sonar-claxon-aparcados-4-manana-1400325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coches-autonomos-waymo-causan-caos-sonar-claxon-aparcados-4-manana-3952752.jpg?tf=1200x' alt='Coches autónomos de Waymo causan el caos al sonar el claxon aparcados, a las 4 de la mañana' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/cifrado-dispositivos-bitlocker-sera-estandar-windows-11-1400319'>El cifrado de dispositivos BitLocker será un estándar en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/cifrado-dispositivos-bitlocker-sera-estandar-windows-11-1400319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/seguridad-windows-11-3952068.jpg?tf=1200x' alt='El cifrado de dispositivos BitLocker será un estándar en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-16-tendra-nuevo-boton-captura-todo-debes-saber-funcionamiento-1400301'>El iPhone 16 tendrá un nuevo "botón de captura": todo lo que debes saber sobre su funcionamiento</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-16-tendra-nuevo-boton-captura-todo-debes-saber-funcionamiento-1400301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-16-tendra-nuevo-boton-captura-todo-debes-saber-funcionamiento-3951633.jpg?tf=1200x' alt='El iPhone 16 tendrá un nuevo "botón de captura": todo lo que debes saber sobre su funcionamiento' />
     </a>
 </div>
 
