@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-trabajando-robot-domestico-aumentar-ingresos-proximos-anos-1400373'>Apple está trabajando en su robot doméstico para aumentar sus ingresos de los próximos años</a></h4>
+    <a href='https://computerhoy.com/apple/apple-trabajando-robot-domestico-aumentar-ingresos-proximos-anos-1400373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-trabajando-robot-domestico-aumentar-ingresos-proximos-anos-3956374.jpg?tf=1200x' alt='Apple está trabajando en su robot doméstico para aumentar sus ingresos de los próximos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/modo-espejo-photoshop-como-utilizarlo-1398082'>Qué es el modo espejo en Photoshop y cómo utilizarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/modo-espejo-photoshop-como-utilizarlo-1398082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/modo-espejo-photoshop-3843034.jpg?tf=1200x' alt='Qué es el modo espejo en Photoshop y cómo utilizarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/como-saben-google-maps-waze-hay-atasco-carretera-alternativas-1291882'>¿Cómo saben Google Maps o Waze que hay un atasco en la carretera y ofrecen alternativas?</a></h4>
     <a href='https://computerhoy.com/apps/como-saben-google-maps-waze-hay-atasco-carretera-alternativas-1291882' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-saben-google-maps-waze-hay-atasco-carretera-3112052.jpg?tf=1200x' alt='¿Cómo saben Google Maps o Waze que hay un atasco en la carretera y ofrecen alternativas?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/sospechas-tienes-virus-movil-4-trucos-comprobarlo-1400361'>¿Sospechas que tienes un virus en el móvil? 4 trucos para comprobarlo</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/sospechas-tienes-virus-movil-4-trucos-comprobarlo-1400361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sospechas-tienes-virus-movil-4-trucos-comprobarlo-3956227.jpg?tf=1200x' alt='¿Sospechas que tienes un virus en el móvil? 4 trucos para comprobarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/tablet-2x1-locos-pantalla-ideal-leer-buen-rendimiento-1400094'>Esta tablet es un 2x1 de locos: pantalla ideal para leer y buen rendimiento</a></h4>
-    <a href='https://computerhoy.com/android/tablet-2x1-locos-pantalla-ideal-leer-buen-rendimiento-1400094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/descubre-nueva-tcl-nxtpaper-11-pantalla-tecnologia-nxtpaper-20-3089946.jpg?tf=1200x' alt='Esta tablet es un 2x1 de locos: pantalla ideal para leer y buen rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/dile-adios-waze-google-maps-nueva-app-te-alerta-mejor-todos-radares-camaras-1399876'>Dile adiós a Waze y Google Maps: esta nueva app te alerta mejor de todos los radares y cámaras</a></h4>
-    <a href='https://computerhoy.com/apps/dile-adios-waze-google-maps-nueva-app-te-alerta-mejor-todos-radares-camaras-1399876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aplicacion-mejor-google-maps-waze-detectar-todo-tipo-radares-3934931.jpg?tf=1200x' alt='Dile adiós a Waze y Google Maps: esta nueva app te alerta mejor de todos los radares y cámaras' />
     </a>
 </div>
 
