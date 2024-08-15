@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/esim-gratis-nordvpn-rebaja-1398327'>Una eSIM gratis: esta VPN es la más rápida y ahora te regala un extra fundamental para viajar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/esim-gratis-nordvpn-rebaja-1398327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-3408136.jpg?tf=1200x' alt='Una eSIM gratis: esta VPN es la más rápida y ahora te regala un extra fundamental para viajar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-meet-estrena-punado-novedades-espectaculares-videollamadas-1400332'>Google Meet estrena un puñado de novedades espectaculares en las videollamadas</a></h4>
+    <a href='https://computerhoy.com/google/google-meet-estrena-punado-novedades-espectaculares-videollamadas-1400332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-meet-estrena-punado-novedades-videollamadas-3954545.jpg?tf=1200x' alt='Google Meet estrena un puñado de novedades espectaculares en las videollamadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/ha-sido-fuente-agua-he-comprado-pensar-importante-mi-gato-1398926'>Esta ha sido la fuente de agua que he comprado tras pensar en lo más importante para mi gato</a></h4>
+    <a href='https://computerhoy.com/hogar/ha-sido-fuente-agua-he-comprado-pensar-importante-mi-gato-1398926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fuente-agua-gatos-bebedero-mascota-3883814.jpg?tf=1200x' alt='Esta ha sido la fuente de agua que he comprado tras pensar en lo más importante para mi gato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/windsible-tunel-viento-coches-miniatura-video-1400329'>Windsible, el túnel del viento para tus coches en miniatura</a></h4>
     <a href='https://computerhoy.com/tecnologia/windsible-tunel-viento-coches-miniatura-video-1400329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1723679825625-3953440.jpg?tf=1200x' alt='Windsible, el túnel del viento para tus coches en miniatura' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/polar-reloj-runners-alternativa-garmin-termometro-1387178'>Polar tiene un reloj para runners que tienta a los usuarios de Garmin: es muy ligero y hasta tiene termómetro</a></h4>
     <a href='https://computerhoy.com/tecnologia/polar-reloj-runners-alternativa-garmin-termometro-1387178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/polar-vantage-v3-3285696.jpg?tf=1200x' alt='Polar tiene un reloj para runners que tienta a los usuarios de Garmin: es muy ligero y hasta tiene termómetro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-1400326'>7 ajustes imprescindibles que deberías activar en tu iPhone después de instalar iOS 18</a></h4>
-    <a href='https://computerhoy.com/apple/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-1400326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-3953855.jpg?tf=1200x' alt='7 ajustes imprescindibles que deberías activar en tu iPhone después de instalar iOS 18' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coches-autonomos-waymo-causan-caos-sonar-claxon-aparcados-4-manana-1400325'>Coches autónomos de Waymo causan el caos al sonar el claxon aparcados, a las 4 de la mañana</a></h4>
-    <a href='https://computerhoy.com/motor/coches-autonomos-waymo-causan-caos-sonar-claxon-aparcados-4-manana-1400325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coches-autonomos-waymo-causan-caos-sonar-claxon-aparcados-4-manana-3952752.jpg?tf=1200x' alt='Coches autónomos de Waymo causan el caos al sonar el claxon aparcados, a las 4 de la mañana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cierra-paramount-television-studios-creadores-jack-ryan-13-razones-1400323'>Cierra Paramount Television Studios, creadores de Jack Ryan y Por 13 razones</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cierra-paramount-television-studios-creadores-jack-ryan-13-razones-1400323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/jack-ryan.jpg?tf=1200x' alt='Cierra Paramount Television Studios, creadores de Jack Ryan y Por 13 razones' />
     </a>
 </div>
 
