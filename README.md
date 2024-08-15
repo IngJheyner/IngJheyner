@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mapa-global-alcohol-muestra-cuanto-bebe-distintos-paises-1400419'>Este mapa global del alcohol muestra cuánto se bebe según los distintos países</a></h4>
+    <a href='https://computerhoy.com/life/mapa-global-alcohol-muestra-cuanto-bebe-distintos-paises-1400419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/beber-cerveza-3959039.jpg?tf=1200x' alt='Este mapa global del alcohol muestra cuánto se bebe según los distintos países' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-habilitar-arranque-seguro-windows-11-1393570'>Cómo habilitar el arranque seguro en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-habilitar-arranque-seguro-windows-11-1393570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-habilitar-arranque-seguro-windows-11-3638763.jpg?tf=1200x' alt='Cómo habilitar el arranque seguro en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/colision-cosmica-andromeda-lactea-podrian-colisionar-50-quizas-no-nos-pase-nada-1400418'>Colisión cósmica: Andrómeda y la Vía Láctea podrían colisionar al 50%, y quizás no nos pase nada</a></h4>
+    <a href='https://computerhoy.com/espacio/colision-cosmica-andromeda-lactea-podrian-colisionar-50-quizas-no-nos-pase-nada-1400418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lactea-3959037.jpg?tf=1200x' alt='Colisión cósmica: Andrómeda y la Vía Láctea podrían colisionar al 50%, y quizás no nos pase nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/bicicletas-alta-gama-riesgo-cuestiones-ciberseguridad-1400416'>Bicicletas de alta gama en riesgo por cuestiones de ciberseguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/bicicletas-alta-gama-riesgo-cuestiones-ciberseguridad-1400416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ciclista-profesional-3958893.jpg?tf=1200x' alt='Bicicletas de alta gama en riesgo por cuestiones de ciberseguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/5-videojuegos-pensados-tener-secuela-finalmente-quedaron-conclusion-1398215'>5 videojuegos pensados para tener secuela que finalmente se quedaron sin conclusión</a></h4>
     <a href='https://computerhoy.com/gaming/5-videojuegos-pensados-tener-secuela-finalmente-quedaron-conclusion-1398215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-videojuegos-pensados-tener-secuela-finalmente-quedaron-conclusion-3847186.jpg?tf=1200x' alt='5 videojuegos pensados para tener secuela que finalmente se quedaron sin conclusión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/hacer-punto-acceso-personal-no-funciona-iphone-1364347'>10 cosas que debes hacer si el Punto de acceso personal de tu iPhone no funciona correctamente</a></h4>
-    <a href='https://computerhoy.com/apple/hacer-punto-acceso-personal-no-funciona-iphone-1364347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-cosas-debes-hacer-punto-acceso-personal-iphone-no-funciona-correctamente-3273909.jpg?tf=1200x' alt='10 cosas que debes hacer si el Punto de acceso personal de tu iPhone no funciona correctamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/di-adios-escoba-fregona-aspiradora-tambien-friega-increiblemente-barata-1400281'>Di adiós a escoba y fregona: esta aspiradora también friega y es increíblemente barata</a></h4>
-    <a href='https://computerhoy.com/hogar/di-adios-escoba-fregona-aspiradora-tambien-friega-increiblemente-barata-1400281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fregona-cecotec-freego-washvacuum-3951168.jpg?tf=1200x' alt='Di adiós a escoba y fregona: esta aspiradora también friega y es increíblemente barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/renfe-no-encuentra-empresas-renueven-web-ni-contrato-23-millones-euros-1400396'>Renfe no encuentra empresas que renueven su web ni con un contrato de 2,3 millones de euros</a></h4>
-    <a href='https://computerhoy.com/life/renfe-no-encuentra-empresas-renueven-web-ni-contrato-23-millones-euros-1400396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/renfe-no-encuentra-empresas-renueven-web-ni-contrato-23-millones-euros-3957722.jpg?tf=1200x' alt='Renfe no encuentra empresas que renueven su web ni con un contrato de 2,3 millones de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/robot-acaba-atasco-historico-solicitudes-nacionalidad-espanola-1400392'>Un robot acaba con el atasco histórico en las solicitudes de nacionalidad española</a></h4>
-    <a href='https://computerhoy.com/life/robot-acaba-atasco-historico-solicitudes-nacionalidad-espanola-1400392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/robot-acaba-atasco-historico-solicitudes-nacionalidad-espanola-3957575.jpg?tf=1200x' alt='Un robot acaba con el atasco histórico en las solicitudes de nacionalidad española' />
     </a>
 </div>
 
