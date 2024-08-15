@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/4-trucazos-optimizar-movil-estas-apps-1398195'>4 trucazos para optimizar tu móvil con estas apps</a></h4>
-    <a href='https://computerhoy.com/apps/4-trucazos-optimizar-movil-estas-apps-1398195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/4-trucazos-optimizar-movil-estas-apps-3846726.jpg?tf=1200x' alt='4 trucazos para optimizar tu móvil con estas apps' />
+    <h4><a href='https://computerhoy.com/ciencia/fisicos-han-encontrado-nueva-manera-representar-numero-pi-1400354'>Los físicos han encontrado una nueva manera de representar el número pi</a></h4>
+    <a href='https://computerhoy.com/ciencia/fisicos-han-encontrado-nueva-manera-representar-numero-pi-1400354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fisicos-han-encontrado-nueva-manera-representar-numero-pi-3955790.jpg?tf=1200x' alt='Los físicos han encontrado una nueva manera de representar el número pi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/esim-gratis-nordvpn-rebaja-1398327'>Una eSIM gratis: esta VPN es la más rápida y ahora te regala un extra fundamental para viajar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/esim-gratis-nordvpn-rebaja-1398327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-3408136.jpg?tf=1200x' alt='Una eSIM gratis: esta VPN es la más rápida y ahora te regala un extra fundamental para viajar' />
+    <h4><a href='https://computerhoy.com/pc/crowview-note-convierte-cualquier-dispositivo-en-portatil-video-1400339'>CrowView Note convierte cualquier dispositivo en un portátil</a></h4>
+    <a href='https://computerhoy.com/pc/crowview-note-convierte-cualquier-dispositivo-en-portatil-video-1400339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1723701121162-3954955.jpg?tf=1200x' alt='CrowView Note convierte cualquier dispositivo en un portátil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-meet-estrena-punado-novedades-espectaculares-videollamadas-1400332'>Google Meet estrena un puñado de novedades espectaculares en las videollamadas</a></h4>
-    <a href='https://computerhoy.com/google/google-meet-estrena-punado-novedades-espectaculares-videollamadas-1400332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-meet-estrena-punado-novedades-videollamadas-3954545.jpg?tf=1200x' alt='Google Meet estrena un puñado de novedades espectaculares en las videollamadas' />
+    <h4><a href='https://computerhoy.com/noticias/motor/pocos-conductores-saben-hay-hacer-avisar-van-frenar-mucho-984829'>Pocos conductores saben lo que hay que hacer para avisar de que van a frenar mucho: no debes encender las luces de emergencias</a></h4>
+    <a href='https://computerhoy.com/noticias/motor/pocos-conductores-saben-hay-hacer-avisar-van-frenar-mucho-984829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/coches-luces-emergencia-2567845.jpg?tf=1200x' alt='Pocos conductores saben lo que hay que hacer para avisar de que van a frenar mucho: no debes encender las luces de emergencias' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ha-sido-fuente-agua-he-comprado-pensar-importante-mi-gato-1398926'>Esta ha sido la fuente de agua que he comprado tras pensar en lo más importante para mi gato</a></h4>
-    <a href='https://computerhoy.com/hogar/ha-sido-fuente-agua-he-comprado-pensar-importante-mi-gato-1398926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fuente-agua-gatos-bebedero-mascota-3883814.jpg?tf=1200x' alt='Esta ha sido la fuente de agua que he comprado tras pensar en lo más importante para mi gato' />
+    <h4><a href='https://computerhoy.com/alimentacion/peligrosa-salud-freidora-aire-medico-dicta-sentencia-1400342'>¿Es peligrosa para la salud la freidora de aire? Un médico dicta sentencia</a></h4>
+    <a href='https://computerhoy.com/alimentacion/peligrosa-salud-freidora-aire-medico-dicta-sentencia-1400342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/peligrosa-salud-freidora-aire-medico-dicta-sentencia-3955512.jpg?tf=1200x' alt='¿Es peligrosa para la salud la freidora de aire? Un médico dicta sentencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/windsible-tunel-viento-coches-miniatura-video-1400329'>Windsible, el túnel del viento para tus coches en miniatura</a></h4>
-    <a href='https://computerhoy.com/tecnologia/windsible-tunel-viento-coches-miniatura-video-1400329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1723679825625-3953440.jpg?tf=1200x' alt='Windsible, el túnel del viento para tus coches en miniatura' />
+    <h4><a href='https://computerhoy.com/tecnologia/viajas-te-llevas-trabajo-gadget-fundamental-monitor-portatil-mochila-1400027'>Si viajas y te llevas el trabajo, este gadget es fundamental: un monitor portátil que cabe en la mochila</a></h4>
+    <a href='https://computerhoy.com/tecnologia/viajas-te-llevas-trabajo-gadget-fundamental-monitor-portatil-mochila-1400027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/adreamer-librascreen-15m-3941201.jpg?tf=1200x' alt='Si viajas y te llevas el trabajo, este gadget es fundamental: un monitor portátil que cabe en la mochila' />
     </a>
 </div>
 
