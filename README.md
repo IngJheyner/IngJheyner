@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/windsible-tunel-viento-coches-miniatura-video-1400329'>Windsible, el túnel del viento para tus coches en miniatura</a></h4>
+    <a href='https://computerhoy.com/tecnologia/windsible-tunel-viento-coches-miniatura-video-1400329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1723679825625-3953440.jpg?tf=1200x' alt='Windsible, el túnel del viento para tus coches en miniatura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/polar-reloj-runners-alternativa-garmin-termometro-1387178'>Polar tiene un reloj para runners que tienta a los usuarios de Garmin: es muy ligero y hasta tiene termómetro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/polar-reloj-runners-alternativa-garmin-termometro-1387178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/polar-vantage-v3-3285696.jpg?tf=1200x' alt='Polar tiene un reloj para runners que tienta a los usuarios de Garmin: es muy ligero y hasta tiene termómetro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-1400326'>7 ajustes imprescindibles que deberías activar en tu iPhone después de instalar iOS 18</a></h4>
     <a href='https://computerhoy.com/apple/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-1400326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-3953855.jpg?tf=1200x' alt='7 ajustes imprescindibles que deberías activar en tu iPhone después de instalar iOS 18' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/cierra-paramount-television-studios-creadores-jack-ryan-13-razones-1400323'>Cierra Paramount Television Studios, creadores de Jack Ryan y Por 13 razones</a></h4>
     <a href='https://computerhoy.com/entretenimiento/cierra-paramount-television-studios-creadores-jack-ryan-13-razones-1400323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/jack-ryan.jpg?tf=1200x' alt='Cierra Paramount Television Studios, creadores de Jack Ryan y Por 13 razones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/departamento-justicia-estados-unidos-plantea-dividir-google-varias-empresas-1400320'>Estados Unidos se plantea obligar a Google a vender Android o el navegador Chrome</a></h4>
-    <a href='https://computerhoy.com/google/departamento-justicia-estados-unidos-plantea-dividir-google-varias-empresas-1400320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/departamento-justicia-estados-unidos-plantea-dividir-google-varias-empresas-3951775.jpg?tf=1200x' alt='Estados Unidos se plantea obligar a Google a vender Android o el navegador Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/cifrado-dispositivos-bitlocker-sera-estandar-windows-11-1400319'>El cifrado de dispositivos BitLocker será un estándar en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/cifrado-dispositivos-bitlocker-sera-estandar-windows-11-1400319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/seguridad-windows-11-3952068.jpg?tf=1200x' alt='El cifrado de dispositivos BitLocker será un estándar en Windows 11' />
     </a>
 </div>
 
