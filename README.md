@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/hacer-punto-acceso-personal-no-funciona-iphone-1364347'>10 cosas que debes hacer si el Punto de acceso personal de tu iPhone no funciona correctamente</a></h4>
+    <a href='https://computerhoy.com/apple/hacer-punto-acceso-personal-no-funciona-iphone-1364347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-cosas-debes-hacer-punto-acceso-personal-iphone-no-funciona-correctamente-3273909.jpg?tf=1200x' alt='10 cosas que debes hacer si el Punto de acceso personal de tu iPhone no funciona correctamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/di-adios-escoba-fregona-aspiradora-tambien-friega-increiblemente-barata-1400281'>Di adiós a escoba y fregona: esta aspiradora también friega y es increíblemente barata</a></h4>
+    <a href='https://computerhoy.com/hogar/di-adios-escoba-fregona-aspiradora-tambien-friega-increiblemente-barata-1400281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fregona-cecotec-freego-washvacuum-3951168.jpg?tf=1200x' alt='Di adiós a escoba y fregona: esta aspiradora también friega y es increíblemente barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/renfe-no-encuentra-empresas-renueven-web-ni-contrato-23-millones-euros-1400396'>Renfe no encuentra empresas que renueven su web ni con un contrato de 2,3 millones de euros</a></h4>
+    <a href='https://computerhoy.com/life/renfe-no-encuentra-empresas-renueven-web-ni-contrato-23-millones-euros-1400396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/renfe-no-encuentra-empresas-renueven-web-ni-contrato-23-millones-euros-3957722.jpg?tf=1200x' alt='Renfe no encuentra empresas que renueven su web ni con un contrato de 2,3 millones de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/robot-acaba-atasco-historico-solicitudes-nacionalidad-espanola-1400392'>Un robot acaba con el atasco histórico en las solicitudes de nacionalidad española</a></h4>
+    <a href='https://computerhoy.com/life/robot-acaba-atasco-historico-solicitudes-nacionalidad-espanola-1400392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/robot-acaba-atasco-historico-solicitudes-nacionalidad-espanola-3957575.jpg?tf=1200x' alt='Un robot acaba con el atasco histórico en las solicitudes de nacionalidad española' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/configuracion-secreta-router-ocultarlo-piratas-informaticos-1291958'>La configuración secreta que puedes hacer en tu router para ocultarlo de los hackers</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/configuracion-secreta-router-ocultarlo-piratas-informaticos-1291958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2994456.jpg?tf=1200x' alt='La configuración secreta que puedes hacer en tu router para ocultarlo de los hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/electrodomestico-deberias-desconectar-siempre-notaras-mucho-factura-luz-1399472'>El electrodoméstico que si o si deberías desconectar siempre: lo notarás, y mucho, en la factura de la luz</a></h4>
-    <a href='https://computerhoy.com/hogar/electrodomestico-deberias-desconectar-siempre-notaras-mucho-factura-luz-1399472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/electrodomestico-deberias-desconectar-siempre-notaras-mucho-factura-luz-3905425.jpg?tf=1200x' alt='El electrodoméstico que si o si deberías desconectar siempre: lo notarás, y mucho, en la factura de la luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/estados-unidos-endurece-aun-guerra-huawei-fabricantes-semiconductores-1400383'>Estados Unidos endurece aún más su guerra con Huawei y los fabricantes de semiconductores</a></h4>
-    <a href='https://computerhoy.com/moviles/estados-unidos-endurece-aun-guerra-huawei-fabricantes-semiconductores-1400383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estados-unidos-endurece-aun-guerra-huawei-fabricantes-semiconductores-3956992.jpg?tf=1200x' alt='Estados Unidos endurece aún más su guerra con Huawei y los fabricantes de semiconductores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/union-europea-obligara-fabricantes-moviles-tablets-cambiar-etiquetas-partir-2025-1400378'>La Unión Europea obligará a los fabricantes de móviles y tablets a cambiar sus etiquetas a partir de 2025</a></h4>
-    <a href='https://computerhoy.com/tecnologia/union-europea-obligara-fabricantes-moviles-tablets-cambiar-etiquetas-partir-2025-1400378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/union-europea-obligara-fabricantes-moviles-tablets-cambiar-etiquetas-partir-2025-3956677.jpg?tf=1200x' alt='La Unión Europea obligará a los fabricantes de móviles y tablets a cambiar sus etiquetas a partir de 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejora-rendimiento-seguridad-router-estos-3-sencillos-trucos-1399813'>Mejora el rendimiento y la seguridad de tu router con estos 3 sencillos trucos</a></h4>
-    <a href='https://computerhoy.com/internet/mejora-rendimiento-seguridad-router-estos-3-sencillos-trucos-1399813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/objetos-deberias-alejar-router-wifi-evitar-conexion-internet-vaya-lenta-3837476.jpg?tf=1200x' alt='Mejora el rendimiento y la seguridad de tu router con estos 3 sencillos trucos' />
     </a>
 </div>
 
