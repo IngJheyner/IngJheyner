@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-mejora-soporte-hdr-funcion-automatica-1400571'>Windows 11 mejora su soporte de HDR con esta función automática</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-mejora-soporte-hdr-funcion-automatica-1400571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/portatil-windows-compatible-hdr-3966015.jpg?tf=1200x' alt='Windows 11 mejora su soporte de HDR con esta función automática' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/youtuber-construye-portatil-gaming-hardware-escritorio-1400570'>Este youtuber construye un portátil gaming con hardware de escritorio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/youtuber-construye-portatil-gaming-hardware-escritorio-1400570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/youtuber-construye-portatil-gaming-hardware-escritorio-3965876.jpg?tf=1200x' alt='Este youtuber construye un portátil gaming con hardware de escritorio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-estafa-retrovisor-verano-te-rompi-retrovisor-llamame-1399971'>Cuidado con la estafa del retrovisor este verano: 'Te rompí el retrovisor, llámame'</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-estafa-retrovisor-verano-te-rompi-retrovisor-llamame-1399971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-estafa-retrovisor-verano-te-rompi-retrovisor-llamame-3940731.jpg?tf=1200x' alt='Cuidado con la estafa del retrovisor este verano: 'Te rompí el retrovisor, llámame'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-viste-colores-pronto-podras-personalizar-conversaciones-colores-favoritos-1400568'>WhatsApp se viste de colores: pronto podrás personalizar tus conversaciones con tus colores favoritos</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-viste-colores-pronto-podras-personalizar-conversaciones-colores-favoritos-1400568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/colores-whatsapp-3965867.jpg?tf=1200x' alt='WhatsApp se viste de colores: pronto podrás personalizar tus conversaciones con tus colores favoritos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/nada-mejor-eliminar-bloatware-windows-darte-cuenta-cantidad-funciones-inutiles-tiene-1400516'>Nada mejor que eliminar el bloatware de Windows para darte cuenta de la cantidad de funciones inútiles que tiene</a></h4>
     <a href='https://computerhoy.com/windows/nada-mejor-eliminar-bloatware-windows-darte-cuenta-cantidad-funciones-inutiles-tiene-1400516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/bloatware-windows-10.jpg?tf=1200x' alt='Nada mejor que eliminar el bloatware de Windows para darte cuenta de la cantidad de funciones inútiles que tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bill-gates-hombre-aterrador-mundo-1400531'>Bill Gates, el hombre más aterrador del mundo, según un nuevo libro y un ex empleado</a></h4>
-    <a href='https://computerhoy.com/life/bill-gates-hombre-aterrador-mundo-1400531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bill-gates-3743632.jpg?tf=1200x' alt='Bill Gates, el hombre más aterrador del mundo, según un nuevo libro y un ex empleado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-busca-polemica-grok-genera-imagenes-sin-censura-1400563'>Elon Musk busca la polémica con un Grok que genera imágenes casi sin censura</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-busca-polemica-grok-genera-imagenes-sin-censura-1400563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/elon-musk-busca-polemica-grok-genera-imagenes-censurar-3964964.jpg?tf=1200x' alt='Elon Musk busca la polémica con un Grok que genera imágenes casi sin censura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-va-agotar-roomba-util-aspira-friega-limpia-sola-barata-1400454'>PcComponentes va a agotar la Roomba más útil: aspira, friega y se limpia sola, y barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pccomponentes-va-agotar-roomba-util-aspira-friega-limpia-sola-barata-1400454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/irobot-roomba-combo-i5-3656751.jpg?tf=1200x' alt='PcComponentes va a agotar la Roomba más útil: aspira, friega y se limpia sola, y barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-16-pro-deja-ver-imagen-nuevo-esperado-color-1400551'>El iPhone 16 Pro se deja ver en una imagen con un nuevo y esperado color</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-16-pro-deja-ver-imagen-nuevo-esperado-color-1400551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-16-pro-deja-ver-imagen-nuevo-esperado-color-3964952.jpg?tf=1200x' alt='El iPhone 16 Pro se deja ver en una imagen con un nuevo y esperado color' />
     </a>
 </div>
 
