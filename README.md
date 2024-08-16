@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/alquilan-casa-airbnb-minan-criptomonedas-factura-luz-1400-euros-1400574'>Alquilan una casa en Airbnb, minan criptomonedas, y dejan una factura de la luz de 1.400 euros</a></h4>
+    <a href='https://computerhoy.com/criptos/alquilan-casa-airbnb-minan-criptomonedas-factura-luz-1400-euros-1400574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alquilan-casa-airbnb-minan-criptomonedas-dejan-factura-luz-1400-euros-3965571.jpg?tf=1200x' alt='Alquilan una casa en Airbnb, minan criptomonedas, y dejan una factura de la luz de 1.400 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/error-windows-reduce-rendimiento-procesadores-ryzen-9000-7000-puedes-solucionarlo-1400567'>Windows ha estado reduciendo el rendimiento de los procesadores Ryzen 9000 y 7000: Así puedes solucionarlo</a></h4>
+    <a href='https://computerhoy.com/windows/error-windows-reduce-rendimiento-procesadores-ryzen-9000-7000-puedes-solucionarlo-1400567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/error-windows-reduce-rendimiento-procesadores-ryzen-9000-7000-puedes-solucionarlo-3966161.jpg?tf=1200x' alt='Windows ha estado reduciendo el rendimiento de los procesadores Ryzen 9000 y 7000: Así puedes solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/youtuber-construye-portatil-gaming-hardware-escritorio-1400570'>Este youtuber construye un portátil gaming con hardware de PC de escritorio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/youtuber-construye-portatil-gaming-hardware-escritorio-1400570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/youtuber-construye-portatil-gaming-hardware-escritorio-3965876.jpg?tf=1200x' alt='Este youtuber construye un portátil gaming con hardware de PC de escritorio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-mejora-soporte-hdr-funcion-automatica-1400571'>Windows 11 mejora su soporte de HDR con esta función automática</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-mejora-soporte-hdr-funcion-automatica-1400571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/portatil-windows-compatible-hdr-3966015.jpg?tf=1200x' alt='Windows 11 mejora su soporte de HDR con esta función automática' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/youtuber-construye-portatil-gaming-hardware-escritorio-1400570'>Este youtuber construye un portátil gaming con hardware de escritorio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/youtuber-construye-portatil-gaming-hardware-escritorio-1400570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/youtuber-construye-portatil-gaming-hardware-escritorio-3965876.jpg?tf=1200x' alt='Este youtuber construye un portátil gaming con hardware de escritorio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-estafa-retrovisor-verano-te-rompi-retrovisor-llamame-1399971'>Cuidado con la estafa del retrovisor este verano: 'Te rompí el retrovisor, llámame'</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cuidado-estafa-retrovisor-verano-te-rompi-retrovisor-llamame-1399971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-estafa-retrovisor-verano-te-rompi-retrovisor-llamame-3940731.jpg?tf=1200x' alt='Cuidado con la estafa del retrovisor este verano: 'Te rompí el retrovisor, llámame'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-viste-colores-pronto-podras-personalizar-conversaciones-colores-favoritos-1400568'>WhatsApp se viste de colores: pronto podrás personalizar tus conversaciones con tus colores favoritos</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-viste-colores-pronto-podras-personalizar-conversaciones-colores-favoritos-1400568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/colores-whatsapp-3965867.jpg?tf=1200x' alt='WhatsApp se viste de colores: pronto podrás personalizar tus conversaciones con tus colores favoritos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/nada-mejor-eliminar-bloatware-windows-darte-cuenta-cantidad-funciones-inutiles-tiene-1400516'>Nada mejor que eliminar el bloatware de Windows para darte cuenta de la cantidad de funciones inútiles que tiene</a></h4>
-    <a href='https://computerhoy.com/windows/nada-mejor-eliminar-bloatware-windows-darte-cuenta-cantidad-funciones-inutiles-tiene-1400516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/bloatware-windows-10.jpg?tf=1200x' alt='Nada mejor que eliminar el bloatware de Windows para darte cuenta de la cantidad de funciones inútiles que tiene' />
     </a>
 </div>
 
