@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-lia-rebaja-fenix-7x-solar-1377341'>Garmin la lía mucho: su Fenix 7 está a precio de Black Friday en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-lia-rebaja-fenix-7x-solar-1377341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7-3227222.jpg?tf=1200x' alt='Garmin la lía mucho: su Fenix 7 está a precio de Black Friday en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mapa-global-alcohol-muestra-cuanto-bebe-distintos-paises-1400419'>Este mapa global del alcohol muestra cuánto se bebe según los distintos países</a></h4>
     <a href='https://computerhoy.com/life/mapa-global-alcohol-muestra-cuanto-bebe-distintos-paises-1400419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/beber-cerveza-3959039.jpg?tf=1200x' alt='Este mapa global del alcohol muestra cuánto se bebe según los distintos países' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/bicicletas-alta-gama-riesgo-cuestiones-ciberseguridad-1400416'>Bicicletas de alta gama en riesgo por cuestiones de ciberseguridad</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/bicicletas-alta-gama-riesgo-cuestiones-ciberseguridad-1400416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ciclista-profesional-3958893.jpg?tf=1200x' alt='Bicicletas de alta gama en riesgo por cuestiones de ciberseguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/5-videojuegos-pensados-tener-secuela-finalmente-quedaron-conclusion-1398215'>5 videojuegos pensados para tener secuela que finalmente se quedaron sin conclusión</a></h4>
-    <a href='https://computerhoy.com/gaming/5-videojuegos-pensados-tener-secuela-finalmente-quedaron-conclusion-1398215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-videojuegos-pensados-tener-secuela-finalmente-quedaron-conclusion-3847186.jpg?tf=1200x' alt='5 videojuegos pensados para tener secuela que finalmente se quedaron sin conclusión' />
     </a>
 </div>
 
