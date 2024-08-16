@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/bandeja-entrada-gmail-dice-ti-piensas-investigadores-1400457'>Tu bandeja de entrada de Gmail dice más de ti de lo que piensas según investigadores</a></h4>
+    <a href='https://computerhoy.com/life/bandeja-entrada-gmail-dice-ti-piensas-investigadores-1400457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gmail-bandeja-entrada-3962613.jpg?tf=1200x' alt='Tu bandeja de entrada de Gmail dice más de ti de lo que piensas según investigadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/funciones-smart-tv-debes-desactivar-mejorar-calidad-imagen-1287192'>3 funciones de tu Smart TV que debes desactivar ya para mejorar la calidad de imagen</a></h4>
+    <a href='https://computerhoy.com/tutoriales/funciones-smart-tv-debes-desactivar-mejorar-calidad-imagen-1287192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mando-distancia-televisor-3103962.jpg?tf=1200x' alt='3 funciones de tu Smart TV que debes desactivar ya para mejorar la calidad de imagen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/robo-122-millones-dolares-google-facebook-396649'>Un hombre robó 122 millones de dólares a Google y Facebook de la manera más absurda que existe</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/robo-122-millones-dolares-google-facebook-396649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/hombre-roba-122-millones-dolares-google-facebook-como-hizo.jpg?tf=1200x' alt='Un hombre robó 122 millones de dólares a Google y Facebook de la manera más absurda que existe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/nueva-tv-4k-xiaomi-65-parece-cine-ahora-precio-brutal-1400338'>La nueva TV 4K Xiaomi de 65" parece un cine y está ahora a un precio brutal</a></h4>
     <a href='https://computerhoy.com/tv/nueva-tv-4k-xiaomi-65-parece-cine-ahora-precio-brutal-1400338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-tv-65-2025-3955237.jpg?tf=1200x' alt='La nueva TV 4K Xiaomi de 65" parece un cine y está ahora a un precio brutal' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-1399699'>Cómo salvar gratis tu PC antes del fin de Windows 10 </a></h4>
     <a href='https://computerhoy.com/windows/fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-1399699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuenta-atras-fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-3918130.jpg?tf=1200x' alt='Cómo salvar gratis tu PC antes del fin de Windows 10 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ciencia-determina-edad-dejamos-ser-jovenes-1400440'>La ciencia determina la edad en la que dejamos de ser jóvenes</a></h4>
-    <a href='https://computerhoy.com/ciencia/ciencia-determina-edad-dejamos-ser-jovenes-1400440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/anciano-2097201.jpg?tf=1200x' alt='La ciencia determina la edad en la que dejamos de ser jóvenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/10-lecciones-albert-einstein-cambiaran-forma-entender-vida-1285888'>15 lecciones de Albert Einstein que cambiarán tu forma de entender la vida</a></h4>
-    <a href='https://computerhoy.com/life/10-lecciones-albert-einstein-cambiaran-forma-entender-vida-1285888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/15-lecciones-albert-einstein-cambiaran-forma-ver-vida-3292312.jpg?tf=1200x' alt='15 lecciones de Albert Einstein que cambiarán tu forma de entender la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuidado-compras-shein-temu-aliexpress-lupa-productos-contaminados-1400435'>Cuidado con lo que compras: Shein, Temu y AliExpress bajo la lupa por productos contaminados</a></h4>
-    <a href='https://computerhoy.com/life/cuidado-compras-shein-temu-aliexpress-lupa-productos-contaminados-1400435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sustancias-toxicas-3962136.jpg?tf=1200x' alt='Cuidado con lo que compras: Shein, Temu y AliExpress bajo la lupa por productos contaminados' />
     </a>
 </div>
 
