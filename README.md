@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/arreglar-wifi-lento-casa-1348062'>Desconecta este dispositivo en tu casa para lograr la máxima potencia de señal WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/arreglar-wifi-lento-casa-1348062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/wifi-rapido-3948493.jpg?tf=1200x' alt='Desconecta este dispositivo en tu casa para lograr la máxima potencia de señal WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-corrige-limitacion-fat32-windows-11-1400575'>Microsoft corrige una limitación de hace 30 años en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-corrige-limitacion-fat32-windows-11-1400575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-corrige-limitacion-hace-30-anos-windows-11-3966589.jpg?tf=1200x' alt='Microsoft corrige una limitación de hace 30 años en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/alquilan-casa-airbnb-minan-criptomonedas-factura-luz-1400-euros-1400574'>Alquilan una casa en Airbnb, minan criptomonedas, y dejan una factura de la luz de 1.400 euros</a></h4>
     <a href='https://computerhoy.com/criptos/alquilan-casa-airbnb-minan-criptomonedas-factura-luz-1400-euros-1400574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alquilan-casa-airbnb-minan-criptomonedas-dejan-factura-luz-1400-euros-3965571.jpg?tf=1200x' alt='Alquilan una casa en Airbnb, minan criptomonedas, y dejan una factura de la luz de 1.400 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/youtuber-construye-portatil-gaming-hardware-escritorio-1400570'>Este youtuber construye un portátil gaming con hardware de PC de escritorio</a></h4>
     <a href='https://computerhoy.com/tecnologia/youtuber-construye-portatil-gaming-hardware-escritorio-1400570' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/youtuber-construye-portatil-gaming-hardware-escritorio-3965876.jpg?tf=1200x' alt='Este youtuber construye un portátil gaming con hardware de PC de escritorio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-mejora-soporte-hdr-funcion-automatica-1400571'>Windows 11 mejora su soporte de HDR con esta función automática</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-mejora-soporte-hdr-funcion-automatica-1400571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/portatil-windows-compatible-hdr-3966015.jpg?tf=1200x' alt='Windows 11 mejora su soporte de HDR con esta función automática' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-estafa-retrovisor-verano-te-rompi-retrovisor-llamame-1399971'>Cuidado con la estafa del retrovisor este verano: 'Te rompí el retrovisor, llámame'</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-estafa-retrovisor-verano-te-rompi-retrovisor-llamame-1399971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-estafa-retrovisor-verano-te-rompi-retrovisor-llamame-3940731.jpg?tf=1200x' alt='Cuidado con la estafa del retrovisor este verano: 'Te rompí el retrovisor, llámame'' />
     </a>
 </div>
 
