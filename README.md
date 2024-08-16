@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-busca-polemica-grok-genera-imagenes-sin-censura-1400563'>Elon Musk busca la polémica con un Grok que genera imágenes casi sin censura</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-busca-polemica-grok-genera-imagenes-sin-censura-1400563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/elon-musk-busca-polemica-grok-genera-imagenes-censurar-3964964.jpg?tf=1200x' alt='Elon Musk busca la polémica con un Grok que genera imágenes casi sin censura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-va-agotar-roomba-util-aspira-friega-limpia-sola-barata-1400454'>PcComponentes va a agotar la Roomba más útil: aspira, friega y se limpia sola, y barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pccomponentes-va-agotar-roomba-util-aspira-friega-limpia-sola-barata-1400454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/irobot-roomba-combo-i5-3656751.jpg?tf=1200x' alt='PcComponentes va a agotar la Roomba más útil: aspira, friega y se limpia sola, y barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-16-pro-deja-ver-imagen-nuevo-esperado-color-1400551'>El iPhone 16 Pro se deja ver en una imagen con un nuevo y esperado color</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-16-pro-deja-ver-imagen-nuevo-esperado-color-1400551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-16-pro-deja-ver-imagen-nuevo-esperado-color-3964952.jpg?tf=1200x' alt='El iPhone 16 Pro se deja ver en una imagen con un nuevo y esperado color' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-correo-gmail-siendo-utilizado-dark-web-google-1297242'>Cómo saber si tu correo de Gmail está siendo utilizado en la Dark Web con esta herramienta de Google</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-correo-gmail-siendo-utilizado-dark-web-google-1297242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/gmail-2912356.jpg?tf=1200x' alt='Cómo saber si tu correo de Gmail está siendo utilizado en la Dark Web con esta herramienta de Google' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/bill-gates-hombre-aterrador-mundo-nuevo-libro-ex-empleado-1400531'>Bill Gates es el hombre más aterrador del mundo, según un nuevo libro y un ex empleado</a></h4>
     <a href='https://computerhoy.com/life/bill-gates-hombre-aterrador-mundo-nuevo-libro-ex-empleado-1400531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bill-gates-3743632.jpg?tf=1200x' alt='Bill Gates es el hombre más aterrador del mundo, según un nuevo libro y un ex empleado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/epic-games-store-disponible-android-ios-1400532'>Epic Games Store ya está disponible en iOS y Android</a></h4>
-    <a href='https://computerhoy.com/epic-games-store-disponible-android-ios-1400532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aplicacion-epic-games-store-3963893.jpg?tf=1200x' alt='Epic Games Store ya está disponible en iOS y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-airtags-apple-podrian-rastrearte-secreto-1400448'>Cuidado con los AirTags de Apple: así podrían rastrearte en secreto</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-airtags-apple-podrian-rastrearte-secreto-1400448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-airtags-apple-podrian-rastrearte-secreto-3962428.jpg?tf=1200x' alt='Cuidado con los AirTags de Apple: así podrían rastrearte en secreto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cuando-ia-vuelve-peor-pesadilla-diabolica-estreno-escalofriante-mes-1400505'>Cuando la IA se vuelve tu peor pesadilla: Diabólica, el estreno más escalofriante del mes</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cuando-ia-vuelve-peor-pesadilla-diabolica-estreno-escalofriante-mes-1400505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/diabolica-3733984.jpg?tf=1200x' alt='Cuando la IA se vuelve tu peor pesadilla: Diabólica, el estreno más escalofriante del mes' />
     </a>
 </div>
 
