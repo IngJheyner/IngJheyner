@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-correo-gmail-siendo-utilizado-dark-web-google-1297242'>Cómo saber si tu correo de Gmail está siendo utilizado en la Dark Web con esta herramienta de Google</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-correo-gmail-siendo-utilizado-dark-web-google-1297242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/gmail-2912356.jpg?tf=1200x' alt='Cómo saber si tu correo de Gmail está siendo utilizado en la Dark Web con esta herramienta de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/bill-gates-hombre-aterrador-mundo-nuevo-libro-ex-empleado-1400531'>Bill Gates es el hombre más aterrador del mundo, según un nuevo libro y un ex empleado</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-hombre-aterrador-mundo-nuevo-libro-ex-empleado-1400531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bill-gates-3743632.jpg?tf=1200x' alt='Bill Gates es el hombre más aterrador del mundo, según un nuevo libro y un ex empleado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/epic-games-store-disponible-android-ios-1400532'>Epic Games Store ya está disponible en iOS y Android</a></h4>
     <a href='https://computerhoy.com/epic-games-store-disponible-android-ios-1400532' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aplicacion-epic-games-store-3963893.jpg?tf=1200x' alt='Epic Games Store ya está disponible en iOS y Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/cuando-ia-vuelve-peor-pesadilla-diabolica-estreno-escalofriante-mes-1400505'>Cuando la IA se vuelve tu peor pesadilla: Diabólica, el estreno más escalofriante del mes</a></h4>
     <a href='https://computerhoy.com/entretenimiento/cuando-ia-vuelve-peor-pesadilla-diabolica-estreno-escalofriante-mes-1400505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/diabolica-3733984.jpg?tf=1200x' alt='Cuando la IA se vuelve tu peor pesadilla: Diabólica, el estreno más escalofriante del mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nuevo-estudio-sugiere-pudo-haber-vida-inteligente-tierra-antes-humanos-1400498'>Nuevo estudio sugiere que pudo haber vida inteligente en la Tierra antes de los humanos</a></h4>
-    <a href='https://computerhoy.com/ciencia/nuevo-estudio-sugiere-pudo-haber-vida-inteligente-tierra-antes-humanos-1400498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vida-extraterrestre-3963415.jpg?tf=1200x' alt='Nuevo estudio sugiere que pudo haber vida inteligente en la Tierra antes de los humanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/tiene-444-consolas-conectadas-misma-tv-gestiona-excel-saber-conmutador-activar-1400437'>Tiene 444 consolas conectadas a una misma TV y las gestiona con un Excel para saber qué conmutador activar</a></h4>
-    <a href='https://computerhoy.com/gaming/tiene-444-consolas-conectadas-misma-tv-gestiona-excel-saber-conmutador-activar-1400437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coleccionista-videojuegos-logra-conectar-444-consolas-mismo-televisor-3962142.jpg?tf=1200x' alt='Tiene 444 consolas conectadas a una misma TV y las gestiona con un Excel para saber qué conmutador activar' />
     </a>
 </div>
 
