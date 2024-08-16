@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/nueva-tv-4k-xiaomi-65-parece-cine-ahora-precio-brutal-1400338'>La nueva TV 4K Xiaomi de 65" parece un cine y está ahora a un precio brutal</a></h4>
+    <a href='https://computerhoy.com/tv/nueva-tv-4k-xiaomi-65-parece-cine-ahora-precio-brutal-1400338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-tv-65-2025-3955237.jpg?tf=1200x' alt='La nueva TV 4K Xiaomi de 65" parece un cine y está ahora a un precio brutal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-1399699'>Cómo salvar gratis tu PC antes del fin de Windows 10 </a></h4>
+    <a href='https://computerhoy.com/windows/fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-1399699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuenta-atras-fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-3918130.jpg?tf=1200x' alt='Cómo salvar gratis tu PC antes del fin de Windows 10 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/ciencia-determina-edad-dejamos-ser-jovenes-1400440'>La ciencia determina la edad en la que dejamos de ser jóvenes</a></h4>
+    <a href='https://computerhoy.com/ciencia/ciencia-determina-edad-dejamos-ser-jovenes-1400440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/anciano-2097201.jpg?tf=1200x' alt='La ciencia determina la edad en la que dejamos de ser jóvenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/10-lecciones-albert-einstein-cambiaran-forma-entender-vida-1285888'>15 lecciones de Albert Einstein que cambiarán tu forma de entender la vida</a></h4>
+    <a href='https://computerhoy.com/life/10-lecciones-albert-einstein-cambiaran-forma-entender-vida-1285888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/15-lecciones-albert-einstein-cambiaran-forma-ver-vida-3292312.jpg?tf=1200x' alt='15 lecciones de Albert Einstein que cambiarán tu forma de entender la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cuidado-compras-shein-temu-aliexpress-lupa-productos-contaminados-1400435'>Cuidado con lo que compras: Shein, Temu y AliExpress bajo la lupa por productos contaminados</a></h4>
     <a href='https://computerhoy.com/life/cuidado-compras-shein-temu-aliexpress-lupa-productos-contaminados-1400435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sustancias-toxicas-3962136.jpg?tf=1200x' alt='Cuidado con lo que compras: Shein, Temu y AliExpress bajo la lupa por productos contaminados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-aliexpress-portatil-chino-barato-amazon-1398527'>Olvida AliExpress: hay en Amazon un portátil chino muy barato, con Windows 11 y ultraligero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-aliexpress-portatil-chino-barato-amazon-1398527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/jumper-ezbook-s5-max-3859632.jpg?tf=1200x' alt='Olvida AliExpress: hay en Amazon un portátil chino muy barato, con Windows 11 y ultraligero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/mark-zuckerberg-polemico-creador-facebook-todo-fortuna-vida-personal-mayores-controversias-1399927'>Mark Zuckerberg, el polémico creador de Facebook: todo sobre su fortuna, vida personal y sus mayores controversias</a></h4>
-    <a href='https://computerhoy.com/redes/mark-zuckerberg-polemico-creador-facebook-todo-fortuna-vida-personal-mayores-controversias-1399927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mark-zuckerberg-ceo-meta-creador-facebook-3948649.jpg?tf=1200x' alt='Mark Zuckerberg, el polémico creador de Facebook: todo sobre su fortuna, vida personal y sus mayores controversias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-lenovo-legion-5i-ordenador-gaming-asequible-pensado-durar-muchos-anos-1399326'>He probado el Lenovo Legion 5i, el ordenador gaming más asequible, pensado para durar muchos años</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-lenovo-legion-5i-ordenador-gaming-asequible-pensado-durar-muchos-anos-1399326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lenovo-legion-5i-3906791.jpg?tf=1200x' alt='He probado el Lenovo Legion 5i, el ordenador gaming más asequible, pensado para durar muchos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-lia-rebaja-fenix-7x-solar-1377341'>Garmin la lía mucho: su Fenix 7 está a precio de Black Friday en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-lia-rebaja-fenix-7x-solar-1377341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7-3227222.jpg?tf=1200x' alt='Garmin la lía mucho: su Fenix 7 está a precio de Black Friday en Amazon' />
     </a>
 </div>
 
