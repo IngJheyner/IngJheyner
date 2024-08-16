@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bandeja-entrada-gmail-dice-ti-piensas-investigadores-1400457'>Tu bandeja de entrada de Gmail dice más de ti de lo que piensas según investigadores</a></h4>
-    <a href='https://computerhoy.com/life/bandeja-entrada-gmail-dice-ti-piensas-investigadores-1400457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gmail-bandeja-entrada-3962613.jpg?tf=1200x' alt='Tu bandeja de entrada de Gmail dice más de ti de lo que piensas según investigadores' />
+    <h4><a href='https://computerhoy.com/android/como-convertir-vieja-tablet-android-smart-tv-portatil-para-ver-tv-1278360'>El truco para convertir tu vieja tablet Android en una Smart TV portátil para ver la tele en cualquier sitio</a></h4>
+    <a href='https://computerhoy.com/android/como-convertir-vieja-tablet-android-smart-tv-portatil-para-ver-tv-1278360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mujer-sentada-utilizando-tablet-2793825.jpg?tf=1200x' alt='El truco para convertir tu vieja tablet Android en una Smart TV portátil para ver la tele en cualquier sitio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/funciones-smart-tv-debes-desactivar-mejorar-calidad-imagen-1287192'>3 funciones de tu Smart TV que debes desactivar ya para mejorar la calidad de imagen</a></h4>
-    <a href='https://computerhoy.com/tutoriales/funciones-smart-tv-debes-desactivar-mejorar-calidad-imagen-1287192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mando-distancia-televisor-3103962.jpg?tf=1200x' alt='3 funciones de tu Smart TV que debes desactivar ya para mejorar la calidad de imagen' />
+    <h4><a href='https://computerhoy.com/apps/meta-lanza-bateria-novedades-mejorar-threads-destronar-x-1400496'>Meta lanza una batería de novedades para mejorar Threads y destronar a X</a></h4>
+    <a href='https://computerhoy.com/apps/meta-lanza-bateria-novedades-mejorar-threads-destronar-x-1400496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/threads-3669757.jpg?tf=1200x' alt='Meta lanza una batería de novedades para mejorar Threads y destronar a X' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/robo-122-millones-dolares-google-facebook-396649'>Un hombre robó 122 millones de dólares a Google y Facebook de la manera más absurda que existe</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/robo-122-millones-dolares-google-facebook-396649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/hombre-roba-122-millones-dolares-google-facebook-como-hizo.jpg?tf=1200x' alt='Un hombre robó 122 millones de dólares a Google y Facebook de la manera más absurda que existe' />
+    <h4><a href='https://computerhoy.com/moviles/funcion-movil-xiaomi-debes-desactivar-auriculares-inalambricos-suenen-mejor-1395462'>La función de tu móvil Xiaomi que debes desactivar para que tus auriculares inalámbricos suenen mucho mejor</a></h4>
+    <a href='https://computerhoy.com/moviles/funcion-movil-xiaomi-debes-desactivar-auriculares-inalambricos-suenen-mejor-1395462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-movil-xiaomi-debes-desactivar-auriculares-inalambricos-suenen-mucho-alto-3716105.jpg?tf=1200x' alt='La función de tu móvil Xiaomi que debes desactivar para que tus auriculares inalámbricos suenen mucho mejor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/nueva-tv-4k-xiaomi-65-parece-cine-ahora-precio-brutal-1400338'>La nueva TV 4K Xiaomi de 65" parece un cine y está ahora a un precio brutal</a></h4>
-    <a href='https://computerhoy.com/tv/nueva-tv-4k-xiaomi-65-parece-cine-ahora-precio-brutal-1400338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-tv-65-2025-3955237.jpg?tf=1200x' alt='La nueva TV 4K Xiaomi de 65" parece un cine y está ahora a un precio brutal' />
+    <h4><a href='https://computerhoy.com/google/google-borde-precipicio-android-chrome-search-peligro-extincion-sentencia-antimonopolio-1400490'>Google al borde del precipicio: Android, Chrome y Search en peligro de extinción tras la sentencia antimonopolio</a></h4>
+    <a href='https://computerhoy.com/google/google-borde-precipicio-android-chrome-search-peligro-extincion-sentencia-antimonopolio-1400490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-juicio-antimonopolio-3222476.jpg?tf=1200x' alt='Google al borde del precipicio: Android, Chrome y Search en peligro de extinción tras la sentencia antimonopolio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-1399699'>Cómo salvar gratis tu PC antes del fin de Windows 10 </a></h4>
-    <a href='https://computerhoy.com/windows/fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-1399699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuenta-atras-fin-windows-10-como-salvar-gratis-viejo-pc-antes-2025-3918130.jpg?tf=1200x' alt='Cómo salvar gratis tu PC antes del fin de Windows 10 ' />
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-pone-patas-arriba-mercado-movil-bestial-16gb-ram-derrumba-precio-1400432'>OnePlus pone patas arriba el mercado: su móvil más bestial con 16GB de RAM derrumba su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-pone-patas-arriba-mercado-movil-bestial-16gb-ram-derrumba-precio-1400432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oneplus-12r-3303962.jpg?tf=1200x' alt='OnePlus pone patas arriba el mercado: su móvil más bestial con 16GB de RAM derrumba su precio' />
     </a>
 </div>
 
