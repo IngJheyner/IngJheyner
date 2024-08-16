@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nuevo-estudio-sugiere-pudo-haber-vida-inteligente-tierra-antes-humanos-1400498'>Nuevo estudio sugiere que pudo haber vida inteligente en la Tierra antes de los humanos</a></h4>
+    <a href='https://computerhoy.com/ciencia/nuevo-estudio-sugiere-pudo-haber-vida-inteligente-tierra-antes-humanos-1400498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vida-extraterrestre-3963415.jpg?tf=1200x' alt='Nuevo estudio sugiere que pudo haber vida inteligente en la Tierra antes de los humanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/tiene-444-consolas-conectadas-misma-tv-gestiona-excel-saber-conmutador-activar-1400437'>Tiene 444 consolas conectadas a una misma TV y las gestiona con un Excel para saber qué conmutador activar</a></h4>
+    <a href='https://computerhoy.com/gaming/tiene-444-consolas-conectadas-misma-tv-gestiona-excel-saber-conmutador-activar-1400437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coleccionista-videojuegos-logra-conectar-444-consolas-mismo-televisor-3962142.jpg?tf=1200x' alt='Tiene 444 consolas conectadas a una misma TV y las gestiona con un Excel para saber qué conmutador activar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/como-convertir-vieja-tablet-android-smart-tv-portatil-para-ver-tv-1278360'>El truco para convertir tu vieja tablet Android en una Smart TV portátil para ver la tele en cualquier sitio</a></h4>
     <a href='https://computerhoy.com/android/como-convertir-vieja-tablet-android-smart-tv-portatil-para-ver-tv-1278360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mujer-sentada-utilizando-tablet-2793825.jpg?tf=1200x' alt='El truco para convertir tu vieja tablet Android en una Smart TV portátil para ver la tele en cualquier sitio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/funcion-movil-xiaomi-debes-desactivar-auriculares-inalambricos-suenen-mejor-1395462'>La función de tu móvil Xiaomi que debes desactivar para que tus auriculares inalámbricos suenen mucho mejor</a></h4>
     <a href='https://computerhoy.com/moviles/funcion-movil-xiaomi-debes-desactivar-auriculares-inalambricos-suenen-mejor-1395462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-movil-xiaomi-debes-desactivar-auriculares-inalambricos-suenen-mucho-alto-3716105.jpg?tf=1200x' alt='La función de tu móvil Xiaomi que debes desactivar para que tus auriculares inalámbricos suenen mucho mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-borde-precipicio-android-chrome-search-peligro-extincion-sentencia-antimonopolio-1400490'>Google al borde del precipicio: Android, Chrome y Search en peligro de extinción tras la sentencia antimonopolio</a></h4>
-    <a href='https://computerhoy.com/google/google-borde-precipicio-android-chrome-search-peligro-extincion-sentencia-antimonopolio-1400490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-juicio-antimonopolio-3222476.jpg?tf=1200x' alt='Google al borde del precipicio: Android, Chrome y Search en peligro de extinción tras la sentencia antimonopolio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-pone-patas-arriba-mercado-movil-bestial-16gb-ram-derrumba-precio-1400432'>OnePlus pone patas arriba el mercado: su móvil más bestial con 16GB de RAM derrumba su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-pone-patas-arriba-mercado-movil-bestial-16gb-ram-derrumba-precio-1400432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oneplus-12r-3303962.jpg?tf=1200x' alt='OnePlus pone patas arriba el mercado: su móvil más bestial con 16GB de RAM derrumba su precio' />
     </a>
 </div>
 
