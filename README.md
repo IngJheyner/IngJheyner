@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/epic-games-store-disponible-android-ios-1400532'>Epic Games Store ya está disponible en iOS y Android</a></h4>
+    <a href='https://computerhoy.com/epic-games-store-disponible-android-ios-1400532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aplicacion-epic-games-store-3963893.jpg?tf=1200x' alt='Epic Games Store ya está disponible en iOS y Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-airtags-apple-podrian-rastrearte-secreto-1400448'>Cuidado con los AirTags de Apple: así podrían rastrearte en secreto</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-airtags-apple-podrian-rastrearte-secreto-1400448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-airtags-apple-podrian-rastrearte-secreto-3962428.jpg?tf=1200x' alt='Cuidado con los AirTags de Apple: así podrían rastrearte en secreto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/cuando-ia-vuelve-peor-pesadilla-diabolica-estreno-escalofriante-mes-1400505'>Cuando la IA se vuelve tu peor pesadilla: Diabólica, el estreno más escalofriante del mes</a></h4>
     <a href='https://computerhoy.com/entretenimiento/cuando-ia-vuelve-peor-pesadilla-diabolica-estreno-escalofriante-mes-1400505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/diabolica-3733984.jpg?tf=1200x' alt='Cuando la IA se vuelve tu peor pesadilla: Diabólica, el estreno más escalofriante del mes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/tiene-444-consolas-conectadas-misma-tv-gestiona-excel-saber-conmutador-activar-1400437'>Tiene 444 consolas conectadas a una misma TV y las gestiona con un Excel para saber qué conmutador activar</a></h4>
     <a href='https://computerhoy.com/gaming/tiene-444-consolas-conectadas-misma-tv-gestiona-excel-saber-conmutador-activar-1400437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coleccionista-videojuegos-logra-conectar-444-consolas-mismo-televisor-3962142.jpg?tf=1200x' alt='Tiene 444 consolas conectadas a una misma TV y las gestiona con un Excel para saber qué conmutador activar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/como-convertir-vieja-tablet-android-smart-tv-portatil-para-ver-tv-1278360'>El truco para convertir tu vieja tablet Android en una Smart TV portátil para ver la tele en cualquier sitio</a></h4>
-    <a href='https://computerhoy.com/android/como-convertir-vieja-tablet-android-smart-tv-portatil-para-ver-tv-1278360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/mujer-sentada-utilizando-tablet-2793825.jpg?tf=1200x' alt='El truco para convertir tu vieja tablet Android en una Smart TV portátil para ver la tele en cualquier sitio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/meta-lanza-bateria-novedades-mejorar-threads-destronar-x-1400496'>Meta lanza una batería de novedades para mejorar Threads y destronar a X</a></h4>
-    <a href='https://computerhoy.com/apps/meta-lanza-bateria-novedades-mejorar-threads-destronar-x-1400496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/threads-3669757.jpg?tf=1200x' alt='Meta lanza una batería de novedades para mejorar Threads y destronar a X' />
     </a>
 </div>
 
