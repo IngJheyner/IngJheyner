@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/mark-zuckerberg-polemico-creador-facebook-todo-fortuna-vida-personal-mayores-controversias-1399927'>Mark Zuckerberg, el polémico creador de Facebook: todo sobre su fortuna, vida personal y sus mayores controversias</a></h4>
+    <a href='https://computerhoy.com/redes/mark-zuckerberg-polemico-creador-facebook-todo-fortuna-vida-personal-mayores-controversias-1399927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mark-zuckerberg-ceo-meta-creador-facebook-3948649.jpg?tf=1200x' alt='Mark Zuckerberg, el polémico creador de Facebook: todo sobre su fortuna, vida personal y sus mayores controversias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-lenovo-legion-5i-ordenador-gaming-asequible-pensado-durar-muchos-anos-1399326'>He probado el Lenovo Legion 5i, el ordenador gaming más asequible, pensado para durar muchos años</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-lenovo-legion-5i-ordenador-gaming-asequible-pensado-durar-muchos-anos-1399326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lenovo-legion-5i-3906791.jpg?tf=1200x' alt='He probado el Lenovo Legion 5i, el ordenador gaming más asequible, pensado para durar muchos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/garmin-lia-rebaja-fenix-7x-solar-1377341'>Garmin la lía mucho: su Fenix 7 está a precio de Black Friday en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-lia-rebaja-fenix-7x-solar-1377341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7-3227222.jpg?tf=1200x' alt='Garmin la lía mucho: su Fenix 7 está a precio de Black Friday en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-habilitar-arranque-seguro-windows-11-1393570'>Cómo habilitar el arranque seguro en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-habilitar-arranque-seguro-windows-11-1393570' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-habilitar-arranque-seguro-windows-11-3638763.jpg?tf=1200x' alt='Cómo habilitar el arranque seguro en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/colision-cosmica-andromeda-lactea-podrian-colisionar-50-quizas-no-nos-pase-nada-1400418'>Colisión cósmica: Andrómeda y la Vía Láctea podrían colisionar al 50%, y quizás no nos pase nada</a></h4>
-    <a href='https://computerhoy.com/espacio/colision-cosmica-andromeda-lactea-podrian-colisionar-50-quizas-no-nos-pase-nada-1400418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lactea-3959037.jpg?tf=1200x' alt='Colisión cósmica: Andrómeda y la Vía Láctea podrían colisionar al 50%, y quizás no nos pase nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/bicicletas-alta-gama-riesgo-cuestiones-ciberseguridad-1400416'>Bicicletas de alta gama en riesgo por cuestiones de ciberseguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/bicicletas-alta-gama-riesgo-cuestiones-ciberseguridad-1400416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ciclista-profesional-3958893.jpg?tf=1200x' alt='Bicicletas de alta gama en riesgo por cuestiones de ciberseguridad' />
     </a>
 </div>
 
