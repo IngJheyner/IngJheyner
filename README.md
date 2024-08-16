@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/cuando-ia-vuelve-peor-pesadilla-diabolica-estreno-escalofriante-mes-1400505'>Cuando la IA se vuelve tu peor pesadilla: Diabólica, el estreno más escalofriante del mes</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cuando-ia-vuelve-peor-pesadilla-diabolica-estreno-escalofriante-mes-1400505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/diabolica-3733984.jpg?tf=1200x' alt='Cuando la IA se vuelve tu peor pesadilla: Diabólica, el estreno más escalofriante del mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/nuevo-estudio-sugiere-pudo-haber-vida-inteligente-tierra-antes-humanos-1400498'>Nuevo estudio sugiere que pudo haber vida inteligente en la Tierra antes de los humanos</a></h4>
     <a href='https://computerhoy.com/ciencia/nuevo-estudio-sugiere-pudo-haber-vida-inteligente-tierra-antes-humanos-1400498' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vida-extraterrestre-3963415.jpg?tf=1200x' alt='Nuevo estudio sugiere que pudo haber vida inteligente en la Tierra antes de los humanos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/meta-lanza-bateria-novedades-mejorar-threads-destronar-x-1400496'>Meta lanza una batería de novedades para mejorar Threads y destronar a X</a></h4>
     <a href='https://computerhoy.com/apps/meta-lanza-bateria-novedades-mejorar-threads-destronar-x-1400496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/threads-3669757.jpg?tf=1200x' alt='Meta lanza una batería de novedades para mejorar Threads y destronar a X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/funcion-movil-xiaomi-debes-desactivar-auriculares-inalambricos-suenen-mejor-1395462'>La función de tu móvil Xiaomi que debes desactivar para que tus auriculares inalámbricos suenen mucho mejor</a></h4>
-    <a href='https://computerhoy.com/moviles/funcion-movil-xiaomi-debes-desactivar-auriculares-inalambricos-suenen-mejor-1395462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-movil-xiaomi-debes-desactivar-auriculares-inalambricos-suenen-mucho-alto-3716105.jpg?tf=1200x' alt='La función de tu móvil Xiaomi que debes desactivar para que tus auriculares inalámbricos suenen mucho mejor' />
     </a>
 </div>
 
