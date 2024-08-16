@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cuidado-compras-shein-temu-aliexpress-lupa-productos-contaminados-1400435'>Cuidado con lo que compras: Shein, Temu y AliExpress bajo la lupa por productos contaminados</a></h4>
+    <a href='https://computerhoy.com/life/cuidado-compras-shein-temu-aliexpress-lupa-productos-contaminados-1400435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sustancias-toxicas-3962136.jpg?tf=1200x' alt='Cuidado con lo que compras: Shein, Temu y AliExpress bajo la lupa por productos contaminados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-aliexpress-portatil-chino-barato-amazon-1398527'>Olvida AliExpress: hay en Amazon un portátil chino muy barato, con Windows 11 y ultraligero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-aliexpress-portatil-chino-barato-amazon-1398527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/jumper-ezbook-s5-max-3859632.jpg?tf=1200x' alt='Olvida AliExpress: hay en Amazon un portátil chino muy barato, con Windows 11 y ultraligero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/mark-zuckerberg-polemico-creador-facebook-todo-fortuna-vida-personal-mayores-controversias-1399927'>Mark Zuckerberg, el polémico creador de Facebook: todo sobre su fortuna, vida personal y sus mayores controversias</a></h4>
     <a href='https://computerhoy.com/redes/mark-zuckerberg-polemico-creador-facebook-todo-fortuna-vida-personal-mayores-controversias-1399927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mark-zuckerberg-ceo-meta-creador-facebook-3948649.jpg?tf=1200x' alt='Mark Zuckerberg, el polémico creador de Facebook: todo sobre su fortuna, vida personal y sus mayores controversias' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/garmin-lia-rebaja-fenix-7x-solar-1377341'>Garmin la lía mucho: su Fenix 7 está a precio de Black Friday en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-lia-rebaja-fenix-7x-solar-1377341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7-3227222.jpg?tf=1200x' alt='Garmin la lía mucho: su Fenix 7 está a precio de Black Friday en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mapa-global-alcohol-muestra-cuanto-bebe-distintos-paises-1400419'>Este mapa global del alcohol muestra cuánto se bebe según los distintos países</a></h4>
-    <a href='https://computerhoy.com/life/mapa-global-alcohol-muestra-cuanto-bebe-distintos-paises-1400419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/beber-cerveza-3959039.jpg?tf=1200x' alt='Este mapa global del alcohol muestra cuánto se bebe según los distintos países' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-habilitar-arranque-seguro-windows-11-1393570'>Cómo habilitar el arranque seguro en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-habilitar-arranque-seguro-windows-11-1393570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-habilitar-arranque-seguro-windows-11-3638763.jpg?tf=1200x' alt='Cómo habilitar el arranque seguro en Windows 11' />
     </a>
 </div>
 
