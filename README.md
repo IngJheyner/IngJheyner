@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-parecido-apple-watch-1391740'>No es el Apple Watch, es un reloj deportivo de Xiaomi que cuesta cuatro veces menos y tiene de todo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-parecido-apple-watch-1391740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-watch-4-3265213.jpg?tf=1200x' alt='No es el Apple Watch, es un reloj deportivo de Xiaomi que cuesta cuatro veces menos y tiene de todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/razer-historia-portatiles-perifericos-productos-gaming-todo-tipo-1399923'>Razer: historia, portátiles, periféricos y productos gaming de todo tipo</a></h4>
+    <a href='https://computerhoy.com/gaming/razer-historia-portatiles-perifericos-productos-gaming-todo-tipo-1399923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/razer-3943829.jpg?tf=1200x' alt='Razer: historia, portátiles, periféricos y productos gaming de todo tipo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/comandos-consola-windows-deberias-conocer-activar-funciones-ocultas-1393515'>Comandos de la consola de Windows que deberías conocer para activar funciones ocultas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/comandos-consola-windows-deberias-conocer-activar-funciones-ocultas-1393515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-elimina-nuevo-atajos-utilizados-windows-11-3584000.jpg?tf=1200x' alt='Comandos de la consola de Windows que deberías conocer para activar funciones ocultas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/vive-como-indigente-21-anos-ahorrando-jubilarse-45-1400578'>Vive como un indigente durante 21 años, ahorrando para jubilarse a los 45</a></h4>
     <a href='https://computerhoy.com/life/vive-como-indigente-21-anos-ahorrando-jubilarse-45-1400578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vive-como-indigente-durante-21-anos-ahorrando-jubilarse-45-anos-3967738.jpg?tf=1200x' alt='Vive como un indigente durante 21 años, ahorrando para jubilarse a los 45' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/me-ha-gustado-lenovo-legion-5i-facilidad-convertirse-portatil-mucho-potente-1399656'>Lo que más me ha gustado del Lenovo Legion 5i es su facilidad para convertirse en un portátil mucho más potente</a></h4>
     <a href='https://computerhoy.com/pc/me-ha-gustado-lenovo-legion-5i-facilidad-convertirse-portatil-mucho-potente-1399656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lenovo-legion-5i-3913777.jpg?tf=1200x' alt='Lo que más me ha gustado del Lenovo Legion 5i es su facilidad para convertirse en un portátil mucho más potente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nintendo-switch-lite-record-precio-aliexpress-1398611'>Nintendo Switch Lite sigue bajando de precio y ya toca su suelo: cuesta menos de 150€ en varios colores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nintendo-switch-lite-record-precio-aliexpress-1398611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/nintendo-switch-lite-2258647.jpg?tf=1200x' alt='Nintendo Switch Lite sigue bajando de precio y ya toca su suelo: cuesta menos de 150€ en varios colores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/truco-definitivo-limpiar-pantalla-smart-tv-danarla-1400577'>El truco definitivo para limpiar la pantalla de tu Smart TV sin dañarla</a></h4>
-    <a href='https://computerhoy.com/hogar/truco-definitivo-limpiar-pantalla-smart-tv-danarla-1400577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/truco-definitivo-limpiar-pantalla-smart-tv-danarla-3967595.jpg?tf=1200x' alt='El truco definitivo para limpiar la pantalla de tu Smart TV sin dañarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/arreglar-wifi-lento-casa-1348062'>Desconecta este dispositivo en tu casa para lograr la máxima potencia de señal WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/arreglar-wifi-lento-casa-1348062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/wifi-rapido-3948493.jpg?tf=1200x' alt='Desconecta este dispositivo en tu casa para lograr la máxima potencia de señal WiFi' />
     </a>
 </div>
 
