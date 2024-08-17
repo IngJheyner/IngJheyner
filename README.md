@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/proteccion-avanzada-android-estrena-bloqueo-deteccion-robos-1400591'>Protección avanzada: Android estrena su bloqueo de detección de robos</a></h4>
+    <a href='https://computerhoy.com/android/proteccion-avanzada-android-estrena-bloqueo-deteccion-robos-1400591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/robo-movil-android-3970190.jpg?tf=1200x' alt='Protección avanzada: Android estrena su bloqueo de detección de robos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-saben-ladrones-casa-vacia-verano-1400087'>La Policía Nacional advierte: así saben los ladrones si tu casa está vacía en verano</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-saben-ladrones-casa-vacia-verano-1400087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/policia-nacional-advierte-saben-ladrones-casa-vacia-verano-3942893.jpg?tf=1200x' alt='La Policía Nacional advierte: así saben los ladrones si tu casa está vacía en verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ya-no-tengo-memorizar-claves-gestor-hace-mi-increiblemente-eficiente-puedes-probar-gratis-1400037'>Ya no tengo que memorizar claves: este gestor lo hace por mí, es increíblemente eficiente y lo puedes probar gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-no-tengo-memorizar-claves-gestor-hace-mi-increiblemente-eficiente-puedes-probar-gratis-1400037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-pass-3941353.jpg?tf=1200x' alt='Ya no tengo que memorizar claves: este gestor lo hace por mí, es increíblemente eficiente y lo puedes probar gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-1400084'>La serie nórdica de Netflix que ya es de culto y enamoró a Stephen King: “es mejor que Juego de Tronos y Breaking Bad”</a></h4>
     <a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-1400084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-3942729.jpg?tf=1200x' alt='La serie nórdica de Netflix que ya es de culto y enamoró a Stephen King: “es mejor que Juego de Tronos y Breaking Bad”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-estafa-contrasenas-familiares-mejor-forma-evitarla-1399838'>Cuidado con la estafa de las contraseñas familiares: esta es la mejor forma de evitarla</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-estafa-contrasenas-familiares-mejor-forma-evitarla-1399838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-estafa-contrasenas-familiares-mejor-forma-evitarla-3934122.jpg?tf=1200x' alt='Cuidado con la estafa de las contraseñas familiares: esta es la mejor forma de evitarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/envuelves-llaves-coche-papel-aluminio-hay-metodo-mejor-1386828'>¿Envuelves las llaves del coche en papel de aluminio para evitar robos? Hay un método mejor</a></h4>
-    <a href='https://computerhoy.com/motor/envuelves-llaves-coche-papel-aluminio-hay-metodo-mejor-1386828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/envuelves-llaves-coche-papel-aluminio-hay-metodo-mejor-3943366.jpg?tf=1200x' alt='¿Envuelves las llaves del coche en papel de aluminio para evitar robos? Hay un método mejor' />
     </a>
 </div>
 
