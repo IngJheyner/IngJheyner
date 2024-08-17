@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/versiones-bluetooth-existen-cual-diferencia-ellas-1394127'>Qué versiones de Bluetooth existen y cuál es la diferencia entre ellas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/versiones-bluetooth-existen-cual-diferencia-ellas-1394127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bluetooth-3656903.jpg?tf=1200x' alt='Qué versiones de Bluetooth existen y cuál es la diferencia entre ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-chrome-trabaja-mejor-integracion-lens-traducir-textos-imagenes-1400603'>Google Chrome trabaja en una mejor integración de Lens para traducir textos de imágenes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-chrome-trabaja-mejor-integracion-lens-traducir-textos-imagenes-1400603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-chrome-3970635.jpg?tf=1200x' alt='Google Chrome trabaja en una mejor integración de Lens para traducir textos de imágenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-android-auto-coche-no-compatible-1287822'>Cómo instalar Android Auto en un coche que no es compatible</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-android-auto-coche-no-compatible-1287822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg?tf=1200x' alt='Cómo instalar Android Auto en un coche que no es compatible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/instagram-prueba-nuevo-diseno-podria-no-gustarte-nada-1400597'>Instagram prueba un nuevo diseño que podría no gustarte nada</a></h4>
     <a href='https://computerhoy.com/apps/instagram-prueba-nuevo-diseno-podria-no-gustarte-nada-1400597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instagram-3970346.jpg?tf=1200x' alt='Instagram prueba un nuevo diseño que podría no gustarte nada' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estas-son-funciones-basicas-excel-todo-usuario-deberia-conocer-1398927'>Estas son las funciones básicas de Excel que todo usuario debería conocer</a></h4>
     <a href='https://computerhoy.com/tecnologia/estas-son-funciones-basicas-excel-todo-usuario-deberia-conocer-1398927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/funciones-basicas-excel-3883979.jpg?tf=1200x' alt='Estas son las funciones básicas de Excel que todo usuario debería conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/proteccion-avanzada-android-estrena-bloqueo-deteccion-robos-1400591'>Protección avanzada: Android estrena su bloqueo de detección de robos</a></h4>
-    <a href='https://computerhoy.com/android/proteccion-avanzada-android-estrena-bloqueo-deteccion-robos-1400591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/robo-movil-android-3970190.jpg?tf=1200x' alt='Protección avanzada: Android estrena su bloqueo de detección de robos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-saben-ladrones-casa-vacia-verano-1400087'>La Policía Nacional advierte: así saben los ladrones si tu casa está vacía en verano</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-saben-ladrones-casa-vacia-verano-1400087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/policia-nacional-advierte-saben-ladrones-casa-vacia-verano-3942893.jpg?tf=1200x' alt='La Policía Nacional advierte: así saben los ladrones si tu casa está vacía en verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-no-tengo-memorizar-claves-gestor-hace-mi-increiblemente-eficiente-puedes-probar-gratis-1400037'>Ya no tengo que memorizar claves: este gestor lo hace por mí, es increíblemente eficiente y lo puedes probar gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-no-tengo-memorizar-claves-gestor-hace-mi-increiblemente-eficiente-puedes-probar-gratis-1400037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-pass-3941353.jpg?tf=1200x' alt='Ya no tengo que memorizar claves: este gestor lo hace por mí, es increíblemente eficiente y lo puedes probar gratis' />
     </a>
 </div>
 
