@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/molesto-fallo-word-outlook-provoca-cierres-inesperados-hay-solucion-temporal-1400615'>El molesto fallo de Word y Outlook que provoca cierres inesperados: hay una solución temporal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/molesto-fallo-word-outlook-provoca-cierres-inesperados-hay-solucion-temporal-1400615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-365-3972092.jpg?tf=1200x' alt='El molesto fallo de Word y Outlook que provoca cierres inesperados: hay una solución temporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/tiemble-steam-portatil-16gb-ram-i7-gpu-top-ahora-200eu-barato-1400588'>Que tiemble Steam con este portátil: 16GB de RAM, i7 y una GPU top, ahora 200€ más barato</a></h4>
+    <a href='https://computerhoy.com/gaming/tiemble-steam-portatil-16gb-ram-i7-gpu-top-ahora-200eu-barato-1400588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/msi-cyborg-14-a13vf-3969903.jpg?tf=1200x' alt='Que tiemble Steam con este portátil: 16GB de RAM, i7 y una GPU top, ahora 200€ más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/funcion-secreta-alexa-protege-casa-ladrones-1291954'>La función secreta de Alexa que protege tu casa de los ladrones</a></h4>
+    <a href='https://computerhoy.com/amazon/funcion-secreta-alexa-protege-casa-ladrones-1291954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/funcion-secreta-alexa-te-ayuda-proteger-hogar-ladrones-3112244.jpg?tf=1200x' alt='La función secreta de Alexa que protege tu casa de los ladrones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-maps-conexion-llega-relojes-wear-os-funciona-1400609'>Google Maps sin conexión llega a los relojes Wear OS y así funciona</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-maps-conexion-llega-relojes-wear-os-funciona-1400609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mapas-google-maps-conexion-llegan-relojes-wear-os-funciona-3971078.jpg?tf=1200x' alt='Google Maps sin conexión llega a los relojes Wear OS y así funciona' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/comprar-entradas-viagogo-opiniones-evitar-estafas-1399496'>¿Es fiable comprar entradas en Viagogo? Opiniones y en qué debes fijarte para evitar estafas</a></h4>
     <a href='https://computerhoy.com/apps/comprar-entradas-viagogo-opiniones-evitar-estafas-1399496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/comprar-tickets-viagogo-3907203.jpg?tf=1200x' alt='¿Es fiable comprar entradas en Viagogo? Opiniones y en qué debes fijarte para evitar estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-no-quiere-te-saltes-requisitos-pc-no-compatible-windows-11-1400606'>Microsoft no quiere que te saltes los requisitos si tu PC no es compatible con Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-no-quiere-te-saltes-requisitos-pc-no-compatible-windows-11-1400606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-3970785.jpg?tf=1200x' alt='Microsoft no quiere que te saltes los requisitos si tu PC no es compatible con Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/versiones-bluetooth-existen-cual-diferencia-ellas-1394127'>Qué versiones de Bluetooth existen y cuál es la diferencia entre ellas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/versiones-bluetooth-existen-cual-diferencia-ellas-1394127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bluetooth-3656903.jpg?tf=1200x' alt='Qué versiones de Bluetooth existen y cuál es la diferencia entre ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-chrome-trabaja-mejor-integracion-lens-traducir-textos-imagenes-1400603'>Google Chrome trabaja en una mejor integración de Lens para traducir textos de imágenes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-chrome-trabaja-mejor-integracion-lens-traducir-textos-imagenes-1400603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-chrome-3970635.jpg?tf=1200x' alt='Google Chrome trabaja en una mejor integración de Lens para traducir textos de imágenes' />
     </a>
 </div>
 
