@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-maps-conexion-llega-relojes-wear-os-funciona-1400609'>Google Maps sin conexión llega a los relojes Wear OS y así funciona</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-maps-conexion-llega-relojes-wear-os-funciona-1400609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mapas-google-maps-conexion-llegan-relojes-wear-os-funciona-3971078.jpg?tf=1200x' alt='Google Maps sin conexión llega a los relojes Wear OS y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/comprar-entradas-viagogo-opiniones-evitar-estafas-1399496'>¿Es fiable comprar entradas en Viagogo? Opiniones y en qué debes fijarte para evitar estafas</a></h4>
     <a href='https://computerhoy.com/apps/comprar-entradas-viagogo-opiniones-evitar-estafas-1399496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/comprar-tickets-viagogo-3907203.jpg?tf=1200x' alt='¿Es fiable comprar entradas en Viagogo? Opiniones y en qué debes fijarte para evitar estafas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-chrome-trabaja-mejor-integracion-lens-traducir-textos-imagenes-1400603'>Google Chrome trabaja en una mejor integración de Lens para traducir textos de imágenes</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-chrome-trabaja-mejor-integracion-lens-traducir-textos-imagenes-1400603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-chrome-3970635.jpg?tf=1200x' alt='Google Chrome trabaja en una mejor integración de Lens para traducir textos de imágenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-android-auto-coche-no-compatible-1287822'>Cómo instalar Android Auto en un coche que no es compatible</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-android-auto-coche-no-compatible-1287822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/android-auto-2324315.jpg?tf=1200x' alt='Cómo instalar Android Auto en un coche que no es compatible' />
     </a>
 </div>
 
