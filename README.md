@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/instagram-prueba-nuevo-diseno-podria-no-gustarte-nada-1400597'>Instagram prueba un nuevo diseño que podría no gustarte nada</a></h4>
+    <a href='https://computerhoy.com/apps/instagram-prueba-nuevo-diseno-podria-no-gustarte-nada-1400597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instagram-3970346.jpg?tf=1200x' alt='Instagram prueba un nuevo diseño que podría no gustarte nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estas-son-funciones-basicas-excel-todo-usuario-deberia-conocer-1398927'>Estas son las funciones básicas de Excel que todo usuario debería conocer</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-son-funciones-basicas-excel-todo-usuario-deberia-conocer-1398927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/funciones-basicas-excel-3883979.jpg?tf=1200x' alt='Estas son las funciones básicas de Excel que todo usuario debería conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/proteccion-avanzada-android-estrena-bloqueo-deteccion-robos-1400591'>Protección avanzada: Android estrena su bloqueo de detección de robos</a></h4>
     <a href='https://computerhoy.com/android/proteccion-avanzada-android-estrena-bloqueo-deteccion-robos-1400591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/robo-movil-android-3970190.jpg?tf=1200x' alt='Protección avanzada: Android estrena su bloqueo de detección de robos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-no-tengo-memorizar-claves-gestor-hace-mi-increiblemente-eficiente-puedes-probar-gratis-1400037'>Ya no tengo que memorizar claves: este gestor lo hace por mí, es increíblemente eficiente y lo puedes probar gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-no-tengo-memorizar-claves-gestor-hace-mi-increiblemente-eficiente-puedes-probar-gratis-1400037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-pass-3941353.jpg?tf=1200x' alt='Ya no tengo que memorizar claves: este gestor lo hace por mí, es increíblemente eficiente y lo puedes probar gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/8-sitios-descarga-software-gratis-seguros-windows-1260394'>8 sitios seguros para descargar software gratis para Windows</a></h4>
-    <a href='https://computerhoy.com/windows/8-sitios-descarga-software-gratis-seguros-windows-1260394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/windows-11-logo-2627905.jpg?tf=1200x' alt='8 sitios seguros para descargar software gratis para Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-1400084'>La serie nórdica de Netflix que ya es de culto y enamoró a Stephen King: “es mejor que Juego de Tronos y Breaking Bad”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-1400084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-3942729.jpg?tf=1200x' alt='La serie nórdica de Netflix que ya es de culto y enamoró a Stephen King: “es mejor que Juego de Tronos y Breaking Bad”' />
     </a>
 </div>
 
