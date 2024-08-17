@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-eliminar-calor-casa-necesidad-aire-acondicionado-gratis-arquitecto-1400058'>Cómo eliminar el calor de la casa sin necesidad de aire acondicionado gratis, según este arquitecto</a></h4>
+    <a href='https://computerhoy.com/life/como-eliminar-calor-casa-necesidad-aire-acondicionado-gratis-arquitecto-1400058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-eliminar-calor-casa-necesidad-aire-acondicionado-gratis-arquitecto-3943050.jpg?tf=1200x' alt='Cómo eliminar el calor de la casa sin necesidad de aire acondicionado gratis, según este arquitecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-estudia-mantener-dos-astronautas-boeing-estacion-espacial-internacional-2025-1400619'>La NASA estudia mantener a los dos astronautas de Boeing en la Estación Espacial Internacional hasta 2025</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-estudia-mantener-dos-astronautas-boeing-estacion-espacial-internacional-2025-1400619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/starliner-boeing-3972241.jpg?tf=1200x' alt='La NASA estudia mantener a los dos astronautas de Boeing en la Estación Espacial Internacional hasta 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chromecast-google-tv-dara-salto-android-14-pesar-futuro-1400616'>Chromecast con Google TV dará el salto a Android 14 a pesar de su futuro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chromecast-google-tv-dara-salto-android-14-pesar-futuro-1400616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/chromecast-google-tv-3972093.jpg?tf=1200x' alt='Chromecast con Google TV dará el salto a Android 14 a pesar de su futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/molesto-fallo-word-outlook-provoca-cierres-inesperados-hay-solucion-temporal-1400615'>El molesto fallo de Word y Outlook que provoca cierres inesperados: hay una solución temporal</a></h4>
     <a href='https://computerhoy.com/tecnologia/molesto-fallo-word-outlook-provoca-cierres-inesperados-hay-solucion-temporal-1400615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-365-3972092.jpg?tf=1200x' alt='El molesto fallo de Word y Outlook que provoca cierres inesperados: hay una solución temporal' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/tiemble-steam-portatil-16gb-ram-i7-gpu-top-ahora-200eu-barato-1400588'>Que tiemble Steam con este portátil: 16GB de RAM, i7 y una GPU top, ahora 200€ más barato</a></h4>
     <a href='https://computerhoy.com/gaming/tiemble-steam-portatil-16gb-ram-i7-gpu-top-ahora-200eu-barato-1400588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/msi-cyborg-14-a13vf-3969903.jpg?tf=1200x' alt='Que tiemble Steam con este portátil: 16GB de RAM, i7 y una GPU top, ahora 200€ más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/funcion-secreta-alexa-protege-casa-ladrones-1291954'>La función secreta de Alexa que protege tu casa de los ladrones</a></h4>
-    <a href='https://computerhoy.com/amazon/funcion-secreta-alexa-protege-casa-ladrones-1291954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/funcion-secreta-alexa-te-ayuda-proteger-hogar-ladrones-3112244.jpg?tf=1200x' alt='La función secreta de Alexa que protege tu casa de los ladrones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-maps-conexion-llega-relojes-wear-os-funciona-1400609'>Google Maps sin conexión llega a los relojes Wear OS y así funciona</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-maps-conexion-llega-relojes-wear-os-funciona-1400609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mapas-google-maps-conexion-llegan-relojes-wear-os-funciona-3971078.jpg?tf=1200x' alt='Google Maps sin conexión llega a los relojes Wear OS y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/comprar-entradas-viagogo-opiniones-evitar-estafas-1399496'>¿Es fiable comprar entradas en Viagogo? Opiniones y en qué debes fijarte para evitar estafas</a></h4>
-    <a href='https://computerhoy.com/apps/comprar-entradas-viagogo-opiniones-evitar-estafas-1399496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/comprar-tickets-viagogo-3907203.jpg?tf=1200x' alt='¿Es fiable comprar entradas en Viagogo? Opiniones y en qué debes fijarte para evitar estafas' />
     </a>
 </div>
 
