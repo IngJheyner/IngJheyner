@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-corrige-limitacion-fat32-windows-11-1400575'>Microsoft corrige una limitación de hace 30 años en Windows 11</a></h4>
+    <h4><a href='https://computerhoy.com/windows/microsoft-corrige-limitacion-fat32-windows-11-1400575'>Microsoft corrige en Windows 11 una limitación que ha durado 30 años</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-corrige-limitacion-fat32-windows-11-1400575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-corrige-limitacion-hace-30-anos-windows-11-3966589.jpg?tf=1200x' alt='Microsoft corrige una limitación de hace 30 años en Windows 11' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-corrige-limitacion-hace-30-anos-windows-11-3966589.jpg?tf=1200x' alt='Microsoft corrige en Windows 11 una limitación que ha durado 30 años' />
     </a>
 </div>
 
