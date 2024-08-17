@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/4-consejos-infalibles-llevar-movil-playa-no-morir-intento-1398189'>4 consejos infalibles para llevar el móvil a la playa y no morir en el intento</a></h4>
+    <a href='https://computerhoy.com/moviles/4-consejos-infalibles-llevar-movil-playa-no-morir-intento-1398189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/4-consejos-infalibles-llevar-movil-playa-no-morir-intento-3846704.jpg?tf=1200x' alt='4 consejos infalibles para llevar el móvil a la playa y no morir en el intento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/mejor-vpn-lanza-extension-gratis-navegador-trafico-ilimitado-1400579'>La mejor VPN lanza una extensión gratis para el navegador, con tráfico ilimitado</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/mejor-vpn-lanza-extension-gratis-navegador-trafico-ilimitado-1400579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejor-vpn-lanza-extension-gratis-navegador-trafico-ilimitado-3969024.jpg?tf=1200x' alt='La mejor VPN lanza una extensión gratis para el navegador, con tráfico ilimitado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-parecido-apple-watch-1391740'>No es el Apple Watch, es un reloj deportivo de Xiaomi que cuesta cuatro veces menos y tiene de todo</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-parecido-apple-watch-1391740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-watch-4-3265213.jpg?tf=1200x' alt='No es el Apple Watch, es un reloj deportivo de Xiaomi que cuesta cuatro veces menos y tiene de todo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/comandos-consola-windows-deberias-conocer-activar-funciones-ocultas-1393515'>Comandos de la consola de Windows que deberías conocer para activar funciones ocultas</a></h4>
     <a href='https://computerhoy.com/tutoriales/comandos-consola-windows-deberias-conocer-activar-funciones-ocultas-1393515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-elimina-nuevo-atajos-utilizados-windows-11-3584000.jpg?tf=1200x' alt='Comandos de la consola de Windows que deberías conocer para activar funciones ocultas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/vive-como-indigente-21-anos-ahorrando-jubilarse-45-1400578'>Vive como un indigente durante 21 años, ahorrando para jubilarse a los 45</a></h4>
-    <a href='https://computerhoy.com/life/vive-como-indigente-21-anos-ahorrando-jubilarse-45-1400578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vive-como-indigente-durante-21-anos-ahorrando-jubilarse-45-anos-3967738.jpg?tf=1200x' alt='Vive como un indigente durante 21 años, ahorrando para jubilarse a los 45' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/me-ha-gustado-lenovo-legion-5i-facilidad-convertirse-portatil-mucho-potente-1399656'>Lo que más me ha gustado del Lenovo Legion 5i es su facilidad para convertirse en un portátil mucho más potente</a></h4>
-    <a href='https://computerhoy.com/pc/me-ha-gustado-lenovo-legion-5i-facilidad-convertirse-portatil-mucho-potente-1399656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lenovo-legion-5i-3913777.jpg?tf=1200x' alt='Lo que más me ha gustado del Lenovo Legion 5i es su facilidad para convertirse en un portátil mucho más potente' />
     </a>
 </div>
 
