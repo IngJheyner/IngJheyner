@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/como-canjear-tarjeta-regalo-google-play-store-1339310'>Cómo canjear una tarjeta de regalo de Google Play Store</a></h4>
+    <a href='https://computerhoy.com/google/como-canjear-tarjeta-regalo-google-play-store-1339310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-canjear-tarjeta-regalo-google-play-store-3229384.jpg?tf=1200x' alt='Cómo canjear una tarjeta de regalo de Google Play Store' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/copilot-nos-dara-sugerencias-rapidas-basadas-interacciones-anteriores-1400618'>Copilot nos dará sugerencias rápidas basadas en las interacciones anteriores</a></h4>
     <a href='https://computerhoy.com/tecnologia/copilot-nos-dara-sugerencias-rapidas-basadas-interacciones-anteriores-1400618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-copilot-3972239.jpg?tf=1200x' alt='Copilot nos dará sugerencias rápidas basadas en las interacciones anteriores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chromecast-google-tv-dara-salto-android-14-pesar-futuro-1400616'>Chromecast con Google TV dará el salto a Android 14 a pesar de su futuro</a></h4>
     <a href='https://computerhoy.com/tecnologia/chromecast-google-tv-dara-salto-android-14-pesar-futuro-1400616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/chromecast-google-tv-3972093.jpg?tf=1200x' alt='Chromecast con Google TV dará el salto a Android 14 a pesar de su futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/molesto-fallo-word-outlook-provoca-cierres-inesperados-hay-solucion-temporal-1400615'>El molesto fallo de Word y Outlook que provoca cierres inesperados: hay una solución temporal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/molesto-fallo-word-outlook-provoca-cierres-inesperados-hay-solucion-temporal-1400615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-365-3972092.jpg?tf=1200x' alt='El molesto fallo de Word y Outlook que provoca cierres inesperados: hay una solución temporal' />
     </a>
 </div>
 
