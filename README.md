@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-estafa-contrasenas-familiares-mejor-forma-evitarla-1399838'>Cuidado con la estafa de las contraseñas familiares: esta es la mejor forma de evitarla</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-estafa-contrasenas-familiares-mejor-forma-evitarla-1399838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-estafa-contrasenas-familiares-mejor-forma-evitarla-3934122.jpg?tf=1200x' alt='Cuidado con la estafa de las contraseñas familiares: esta es la mejor forma de evitarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/envuelves-llaves-coche-papel-aluminio-hay-metodo-mejor-1386828'>¿Envuelves las llaves del coche en papel de aluminio para evitar robos? Hay un método mejor</a></h4>
+    <a href='https://computerhoy.com/motor/envuelves-llaves-coche-papel-aluminio-hay-metodo-mejor-1386828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/envuelves-llaves-coche-papel-aluminio-hay-metodo-mejor-3943366.jpg?tf=1200x' alt='¿Envuelves las llaves del coche en papel de aluminio para evitar robos? Hay un método mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-aumentar-almacenamiento-amazon-fire-tv-desinstalar-aplicaciones-1284266'>Cómo aumentar el almacenamiento de un Amazon Fire TV sin desinstalar aplicaciones</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-aumentar-almacenamiento-amazon-fire-tv-desinstalar-aplicaciones-1284266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/amazon-fire-tv-stick-2021-2278113.jpg?tf=1200x' alt='Cómo aumentar el almacenamiento de un Amazon Fire TV sin desinstalar aplicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/4-consejos-infalibles-llevar-movil-playa-no-morir-intento-1398189'>4 consejos infalibles para llevar el móvil a la playa y no morir en el intento</a></h4>
     <a href='https://computerhoy.com/moviles/4-consejos-infalibles-llevar-movil-playa-no-morir-intento-1398189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/4-consejos-infalibles-llevar-movil-playa-no-morir-intento-3846704.jpg?tf=1200x' alt='4 consejos infalibles para llevar el móvil a la playa y no morir en el intento' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/mejor-vpn-lanza-extension-gratis-navegador-trafico-ilimitado-1400579'>La mejor VPN lanza una extensión gratis para el navegador, con tráfico ilimitado</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/mejor-vpn-lanza-extension-gratis-navegador-trafico-ilimitado-1400579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejor-vpn-lanza-extension-gratis-navegador-trafico-ilimitado-3969024.jpg?tf=1200x' alt='La mejor VPN lanza una extensión gratis para el navegador, con tráfico ilimitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-xiaomi-parecido-apple-watch-1391740'>No es el Apple Watch, es un reloj deportivo de Xiaomi que cuesta cuatro veces menos y tiene de todo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-xiaomi-parecido-apple-watch-1391740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-watch-4-3265213.jpg?tf=1200x' alt='No es el Apple Watch, es un reloj deportivo de Xiaomi que cuesta cuatro veces menos y tiene de todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/razer-historia-portatiles-perifericos-productos-gaming-todo-tipo-1399923'>Razer: historia, portátiles, periféricos y productos gaming de todo tipo</a></h4>
-    <a href='https://computerhoy.com/gaming/razer-historia-portatiles-perifericos-productos-gaming-todo-tipo-1399923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/razer-3943829.jpg?tf=1200x' alt='Razer: historia, portátiles, periféricos y productos gaming de todo tipo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/comandos-consola-windows-deberias-conocer-activar-funciones-ocultas-1393515'>Comandos de la consola de Windows que deberías conocer para activar funciones ocultas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/comandos-consola-windows-deberias-conocer-activar-funciones-ocultas-1393515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-elimina-nuevo-atajos-utilizados-windows-11-3584000.jpg?tf=1200x' alt='Comandos de la consola de Windows que deberías conocer para activar funciones ocultas' />
     </a>
 </div>
 
