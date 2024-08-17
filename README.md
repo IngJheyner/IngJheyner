@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/truco-definitivo-limpiar-pantalla-smart-tv-danarla-1400577'>El truco definitivo para limpiar la pantalla de tu Smart TV sin dañarla</a></h4>
+    <a href='https://computerhoy.com/hogar/truco-definitivo-limpiar-pantalla-smart-tv-danarla-1400577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/truco-definitivo-limpiar-pantalla-smart-tv-danarla-3967595.jpg?tf=1200x' alt='El truco definitivo para limpiar la pantalla de tu Smart TV sin dañarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/arreglar-wifi-lento-casa-1348062'>Desconecta este dispositivo en tu casa para lograr la máxima potencia de señal WiFi</a></h4>
     <a href='https://computerhoy.com/redes/arreglar-wifi-lento-casa-1348062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/wifi-rapido-3948493.jpg?tf=1200x' alt='Desconecta este dispositivo en tu casa para lograr la máxima potencia de señal WiFi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/error-windows-reduce-rendimiento-procesadores-ryzen-9000-7000-puedes-solucionarlo-1400567'>Windows ha estado reduciendo el rendimiento de los procesadores Ryzen 9000 y 7000: Así puedes solucionarlo</a></h4>
     <a href='https://computerhoy.com/windows/error-windows-reduce-rendimiento-procesadores-ryzen-9000-7000-puedes-solucionarlo-1400567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/error-windows-reduce-rendimiento-procesadores-ryzen-9000-7000-puedes-solucionarlo-3966161.jpg?tf=1200x' alt='Windows ha estado reduciendo el rendimiento de los procesadores Ryzen 9000 y 7000: Así puedes solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/youtuber-construye-portatil-gaming-hardware-escritorio-1400570'>Este youtuber construye un portátil gaming con hardware de PC de escritorio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/youtuber-construye-portatil-gaming-hardware-escritorio-1400570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/youtuber-construye-portatil-gaming-hardware-escritorio-3965876.jpg?tf=1200x' alt='Este youtuber construye un portátil gaming con hardware de PC de escritorio' />
     </a>
 </div>
 
