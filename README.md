@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/vive-como-indigente-21-anos-ahorrando-jubilarse-45-1400578'>Vive como un indigente durante 21 años, ahorrando para jubilarse a los 45</a></h4>
+    <a href='https://computerhoy.com/life/vive-como-indigente-21-anos-ahorrando-jubilarse-45-1400578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vive-como-indigente-durante-21-anos-ahorrando-jubilarse-45-anos-3967738.jpg?tf=1200x' alt='Vive como un indigente durante 21 años, ahorrando para jubilarse a los 45' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/me-ha-gustado-lenovo-legion-5i-facilidad-convertirse-portatil-mucho-potente-1399656'>Lo que más me ha gustado del Lenovo Legion 5i es su facilidad para convertirse en un portátil mucho más potente</a></h4>
+    <a href='https://computerhoy.com/pc/me-ha-gustado-lenovo-legion-5i-facilidad-convertirse-portatil-mucho-potente-1399656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lenovo-legion-5i-3913777.jpg?tf=1200x' alt='Lo que más me ha gustado del Lenovo Legion 5i es su facilidad para convertirse en un portátil mucho más potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nintendo-switch-lite-record-precio-aliexpress-1398611'>Nintendo Switch Lite sigue bajando de precio y ya toca su suelo: cuesta menos de 150€ en varios colores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nintendo-switch-lite-record-precio-aliexpress-1398611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/nintendo-switch-lite-2258647.jpg?tf=1200x' alt='Nintendo Switch Lite sigue bajando de precio y ya toca su suelo: cuesta menos de 150€ en varios colores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/truco-definitivo-limpiar-pantalla-smart-tv-danarla-1400577'>El truco definitivo para limpiar la pantalla de tu Smart TV sin dañarla</a></h4>
     <a href='https://computerhoy.com/hogar/truco-definitivo-limpiar-pantalla-smart-tv-danarla-1400577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/truco-definitivo-limpiar-pantalla-smart-tv-danarla-3967595.jpg?tf=1200x' alt='El truco definitivo para limpiar la pantalla de tu Smart TV sin dañarla' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/arreglar-wifi-lento-casa-1348062'>Desconecta este dispositivo en tu casa para lograr la máxima potencia de señal WiFi</a></h4>
     <a href='https://computerhoy.com/redes/arreglar-wifi-lento-casa-1348062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/wifi-rapido-3948493.jpg?tf=1200x' alt='Desconecta este dispositivo en tu casa para lograr la máxima potencia de señal WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-corrige-limitacion-fat32-windows-11-1400575'>Microsoft corrige en Windows 11 una limitación que ha durado 30 años</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-corrige-limitacion-fat32-windows-11-1400575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-corrige-limitacion-hace-30-anos-windows-11-3966589.jpg?tf=1200x' alt='Microsoft corrige en Windows 11 una limitación que ha durado 30 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/alquilan-casa-airbnb-minan-criptomonedas-factura-luz-1400-euros-1400574'>Alquilan una casa en Airbnb, minan criptomonedas, y dejan una factura de la luz de 1.400 euros</a></h4>
-    <a href='https://computerhoy.com/criptos/alquilan-casa-airbnb-minan-criptomonedas-factura-luz-1400-euros-1400574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alquilan-casa-airbnb-minan-criptomonedas-dejan-factura-luz-1400-euros-3965571.jpg?tf=1200x' alt='Alquilan una casa en Airbnb, minan criptomonedas, y dejan una factura de la luz de 1.400 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/error-windows-reduce-rendimiento-procesadores-ryzen-9000-7000-puedes-solucionarlo-1400567'>Windows ha estado reduciendo el rendimiento de los procesadores Ryzen 9000 y 7000: Así puedes solucionarlo</a></h4>
-    <a href='https://computerhoy.com/windows/error-windows-reduce-rendimiento-procesadores-ryzen-9000-7000-puedes-solucionarlo-1400567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/error-windows-reduce-rendimiento-procesadores-ryzen-9000-7000-puedes-solucionarlo-3966161.jpg?tf=1200x' alt='Windows ha estado reduciendo el rendimiento de los procesadores Ryzen 9000 y 7000: Así puedes solucionarlo' />
     </a>
 </div>
 
