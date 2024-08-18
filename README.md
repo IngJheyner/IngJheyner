@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/consejo-steve-jobs-alcanzar-exito-dejar-estar-atado-fracaso-1285060'>El consejo de Steve Jobs para alcanzar el éxito y dejar de estar atado al fracaso</a></h4>
+    <a href='https://computerhoy.com/life/consejo-steve-jobs-alcanzar-exito-dejar-estar-atado-fracaso-1285060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/steve-jobs-consejos-3100282.jpg?tf=1200x' alt='El consejo de Steve Jobs para alcanzar el éxito y dejar de estar atado al fracaso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-microsoft-consumen-tanta-electricidad-como-100-paises-ia-algo-realmente-alarmante-1397847'>Google y Microsoft consumen tanta electricidad como 100 países para la IA: ¿Es algo realmente alarmante? </a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-microsoft-consumen-tanta-electricidad-como-100-paises-ia-algo-realmente-alarmante-1397847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/consumo-electricidad-ia-3848764.jpg?tf=1200x' alt='Google y Microsoft consumen tanta electricidad como 100 países para la IA: ¿Es algo realmente alarmante? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/antivirus-como-funciona-mejores-pago-gratuitos-2024-1400045'>Antivirus: qué es, cómo funciona y cuáles son los mejores de pago y gratuitos de 2024</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/antivirus-como-funciona-mejores-pago-gratuitos-2024-1400045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/antivirus-ordenador-3942232.jpg?tf=1200x' alt='Antivirus: qué es, cómo funciona y cuáles son los mejores de pago y gratuitos de 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/oneplus-watch-2r-esos-relojes-inteligentes-nos-gustan-incluso-amantes-relojes-clasicos-1400501'>El OnePlus Watch 2R es uno de esos relojes inteligentes que nos gustan incluso a los amantes de los relojes clásicos</a></h4>
     <a href='https://computerhoy.com/analisis/oneplus-watch-2r-esos-relojes-inteligentes-nos-gustan-incluso-amantes-relojes-clasicos-1400501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-watch-2r-analisis-opiniones-3962894.jpg?tf=1200x' alt='El OnePlus Watch 2R es uno de esos relojes inteligentes que nos gustan incluso a los amantes de los relojes clásicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/curioso-video-muestra-ranking-futbolistas-coches-caros-1400627'>Un curioso vídeo muestra el ranking de los futbolistas con los coches más caros</a></h4>
-    <a href='https://computerhoy.com/motor/curioso-video-muestra-ranking-futbolistas-coches-caros-1400627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/curioso-video-muestra-ranking-futbolistas-coches-caros-3974286.jpg?tf=1200x' alt='Un curioso vídeo muestra el ranking de los futbolistas con los coches más caros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/trabajan-nuevo-horario-lunar-futuras-misiones-espaciales-luna-1400608'>Trabajan en un nuevo horario lunar para futuras misiones espaciales en la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/trabajan-nuevo-horario-lunar-futuras-misiones-espaciales-luna-1400608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/trabajan-nuevo-horario-lunar-futuras-misiones-espaciales-luna-3970932.jpg?tf=1200x' alt='Trabajan en un nuevo horario lunar para futuras misiones espaciales en la Luna' />
     </a>
 </div>
 
