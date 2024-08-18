@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/broken-sword-vuelve-remasterizado-4k-1400657'>Un juego mítico de hace 30 años vuelve remasterizado a 4K</a></h4>
+    <a href='https://computerhoy.com/gaming/broken-sword-vuelve-remasterizado-4k-1400657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1724015634921-3980334.jpg?tf=1200x' alt='Un juego mítico de hace 30 años vuelve remasterizado a 4K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/libros-texto-ia-corea-sur-1400656'>En este país van a usar libros de texto con IA, que se adaptan al alumno</a></h4>
     <a href='https://computerhoy.com/tecnologia/libros-texto-ia-corea-sur-1400656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/corea-sur-van-probar-libros-texto-inteligencia-artificial-adaptan-alumno-3979616.jpg?tf=1200x' alt='En este país van a usar libros de texto con IA, que se adaptan al alumno' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/arm-desarrollando-tarjeta-grafica-gaming-competir-nvidia-amd-1400652'>ARM está desarrollando una tarjeta gráfica gaming para competir con NVIDIA y AMD</a></h4>
     <a href='https://computerhoy.com/pc/arm-desarrollando-tarjeta-grafica-gaming-competir-nvidia-amd-1400652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/arm-desarrollando-tarjeta-grafica-gaming-competir-nvidia-amd-3979040.jpg?tf=1200x' alt='ARM está desarrollando una tarjeta gráfica gaming para competir con NVIDIA y AMD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-inspirada-alien-fracaso-cines-pero-arrasa-amazon-prime-video-1400544'>La incomprendida película inspirada en Alien que fracasó en cines pero arrasa en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-inspirada-alien-fracaso-cines-pero-arrasa-amazon-prime-video-1400544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/incomprendida-pelicula-inspirada-alien-fracaso-cines-pero-arrasa-amazon-prime-video-3964489.jpg?tf=1200x' alt='La incomprendida película inspirada en Alien que fracasó en cines pero arrasa en Amazon Prime Video' />
     </a>
 </div>
 
