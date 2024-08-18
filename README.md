@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/android-auto-estrena-nueva-interfaz-asistente-google-parece-siri-1400640'>Android Auto estrena una nueva interfaz del asistente de Google y se parece a Siri</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-estrena-nueva-interfaz-asistente-google-parece-siri-1400640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-auto-estrena-nueva-interfaz-asistente-google-parece-siri-3977302.jpg?tf=1200x' alt='Android Auto estrena una nueva interfaz del asistente de Google y se parece a Siri' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/desvelan-donde-vino-asteroide-causo-extincion-masiva-dinosaurios-1400620'>Desvelan de dónde vino el asteroide que causó la extinción masiva de los dinosaurios</a></h4>
     <a href='https://computerhoy.com/espacio/desvelan-donde-vino-asteroide-causo-extincion-masiva-dinosaurios-1400620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/asteroide-camino-tierra-3972245.jpg?tf=1200x' alt='Desvelan de dónde vino el asteroide que causó la extinción masiva de los dinosaurios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/hacer-camara-microsoft-teams-no-funciona-windows-1355492'>Qué hacer si la cámara de Microsoft Teams no funciona en Windows</a></h4>
     <a href='https://computerhoy.com/windows/hacer-camara-microsoft-teams-no-funciona-windows-1355492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hacer-camara-microsoft-teams-no-funciona-windows-3258817.jpg?tf=1200x' alt='Qué hacer si la cámara de Microsoft Teams no funciona en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nueva-bateria-coches-electricos-carga-solo-10-minutos-1400621'>Esta nueva batería para coches eléctricos se carga en solo 10 minutos</a></h4>
-    <a href='https://computerhoy.com/motor/nueva-bateria-coches-electricos-carga-solo-10-minutos-1400621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/carga-coche-electrico-3972388.jpg?tf=1200x' alt='Esta nueva batería para coches eléctricos se carga en solo 10 minutos' />
     </a>
 </div>
 
