@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-apps-gratis-digitalizar-textos-escritos-mano-1349139'>Las mejores apps gratis para digitalizar tus textos escritos a mano</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-apps-gratis-digitalizar-textos-escritos-mano-1349139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mejores-apps-gratis-digitalizar-textos-escritos-mano-3247651.jpg?tf=1200x' alt='Las mejores apps gratis para digitalizar tus textos escritos a mano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tesla-pone-venta-cybernevera-enfriar-cybercerveza-cybertruck-1400655'>Tesla pone a la venta una cybernevera para enfriar su cybercerveza en su Cybertruck</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-pone-venta-cybernevera-enfriar-cybercerveza-cybertruck-1400655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tesla-pone-venta-cybernevera-enfriar-cybercerveza-cybertruck-3979326.jpg?tf=1200x' alt='Tesla pone a la venta una cybernevera para enfriar su cybercerveza en su Cybertruck' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/arm-desarrollando-tarjeta-grafica-gaming-competir-nvidia-amd-1400652'>ARM está desarrollando una tarjeta gráfica gaming para competir con NVIDIA y AMD</a></h4>
     <a href='https://computerhoy.com/pc/arm-desarrollando-tarjeta-grafica-gaming-competir-nvidia-amd-1400652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/arm-desarrollando-tarjeta-grafica-gaming-competir-nvidia-amd-3979040.jpg?tf=1200x' alt='ARM está desarrollando una tarjeta gráfica gaming para competir con NVIDIA y AMD' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/aliexpress-lia-portatil-tiene-windows-11-12gb-ram-precio-movil-barato-1400647'>AliExpress la lía con este portátil: tiene Windows 11 y 12GB de RAM a precio de móvil barato</a></h4>
     <a href='https://computerhoy.com/pc/aliexpress-lia-portatil-tiene-windows-11-12gb-ram-precio-movil-barato-1400647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chuwi-freebook-3210318.jpg?tf=1200x' alt='AliExpress la lía con este portátil: tiene Windows 11 y 12GB de RAM a precio de móvil barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/significa-punto-verde-aparece-moviles-android-debes-estar-pendiente-1292834'>Qué significa el punto verde que aparece en los móviles Android y por qué debes estar pendiente de él</a></h4>
-    <a href='https://computerhoy.com/android/significa-punto-verde-aparece-moviles-android-debes-estar-pendiente-1292834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/punto-verde-moviles-android-3113454.jpg?tf=1200x' alt='Qué significa el punto verde que aparece en los móviles Android y por qué debes estar pendiente de él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/guerra-obliga-rusia-retroceder-60-anos-programa-espacial-1400651'>La guerra obliga a Rusia a retroceder 60 años en su programa espacial</a></h4>
-    <a href='https://computerhoy.com/espacio/guerra-obliga-rusia-retroceder-60-anos-programa-espacial-1400651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guerra-obliga-rusia-retroceder-60-anos-programa-espacial-3978467.jpg?tf=1200x' alt='La guerra obliga a Rusia a retroceder 60 años en su programa espacial' />
     </a>
 </div>
 
