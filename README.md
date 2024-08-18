@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/libros-texto-ia-corea-sur-1400656'>En este país van a usar libros de texto con IA, que se adaptan al alumno</a></h4>
+    <a href='https://computerhoy.com/tecnologia/libros-texto-ia-corea-sur-1400656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/corea-sur-van-probar-libros-texto-inteligencia-artificial-adaptan-alumno-3979616.jpg?tf=1200x' alt='En este país van a usar libros de texto con IA, que se adaptan al alumno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mejores-apps-gratis-digitalizar-textos-escritos-mano-1349139'>Las mejores apps gratis para digitalizar tus textos escritos a mano</a></h4>
     <a href='https://computerhoy.com/apps/mejores-apps-gratis-digitalizar-textos-escritos-mano-1349139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mejores-apps-gratis-digitalizar-textos-escritos-mano-3247651.jpg?tf=1200x' alt='Las mejores apps gratis para digitalizar tus textos escritos a mano' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-inspirada-alien-fracaso-cines-pero-arrasa-amazon-prime-video-1400544'>La incomprendida película inspirada en Alien que fracasó en cines pero arrasa en Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-inspirada-alien-fracaso-cines-pero-arrasa-amazon-prime-video-1400544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/incomprendida-pelicula-inspirada-alien-fracaso-cines-pero-arrasa-amazon-prime-video-3964489.jpg?tf=1200x' alt='La incomprendida película inspirada en Alien que fracasó en cines pero arrasa en Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/aliexpress-lia-portatil-tiene-windows-11-12gb-ram-precio-movil-barato-1400647'>AliExpress la lía con este portátil: tiene Windows 11 y 12GB de RAM a precio de móvil barato</a></h4>
-    <a href='https://computerhoy.com/pc/aliexpress-lia-portatil-tiene-windows-11-12gb-ram-precio-movil-barato-1400647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chuwi-freebook-3210318.jpg?tf=1200x' alt='AliExpress la lía con este portátil: tiene Windows 11 y 12GB de RAM a precio de móvil barato' />
     </a>
 </div>
 
