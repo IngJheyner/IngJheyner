@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-seguridad-telefonos-android-expuestos-grave-vulnerabilidad-acceso-remoto-1400637'>Alerta de seguridad: teléfonos Android expuestos a una grave vulnerabilidad de acceso remoto</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/alerta-seguridad-telefonos-android-expuestos-grave-vulnerabilidad-acceso-remoto-1400637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/seguridad-android-3977022.jpg?tf=1200x' alt='Alerta de seguridad: teléfonos Android expuestos a una grave vulnerabilidad de acceso remoto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/razones-no-debes-utilizar-movil-retrete-69373'>Las razones por la que no debes usar el teléfono móvil en el retrete</a></h4>
+    <a href='https://computerhoy.com/noticias/life/razones-no-debes-utilizar-movil-retrete-69373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-son-razones-no-debes-usar-telefono-movil-retrete-3948979.jpg?tf=1200x' alt='Las razones por la que no debes usar el teléfono móvil en el retrete' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-tiene-4g-llamadas-alternativa-android-apple-watch-precio-rompedor-1394530'>Este smartwatch Xiaomi tiene 4G y llamadas: es la alternativa con Android a los Apple Watch y a precio rompedor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-tiene-4g-llamadas-alternativa-android-apple-watch-precio-rompedor-1394530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-watch-2-pro-3301166.jpg?tf=1200x' alt='Este smartwatch Xiaomi tiene 4G y llamadas: es la alternativa con Android a los Apple Watch y a precio rompedor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/como-acceder-menu-oculto-windows-11-funciones-incluye-1288300'>Cómo acceder al menú oculto de Windows 11 y qué funciones incluye</a></h4>
+    <a href='https://computerhoy.com/windows/como-acceder-menu-oculto-windows-11-funciones-incluye-1288300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3106634.jpg?tf=1200x' alt='Cómo acceder al menú oculto de Windows 11 y qué funciones incluye' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/razon-no-deberias-activar-wifi-datos-movil-mismo-tiempo-1400115'>Esta es la razón por la que no deberías activar el WiFi y los datos de tu móvil al mismo tiempo </a></h4>
     <a href='https://computerhoy.com/moviles/razon-no-deberias-activar-wifi-datos-movil-mismo-tiempo-1400115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/razon-no-deberias-activar-wifi-datos-movil-mismo-tiempo-3943981.jpg?tf=1200x' alt='Esta es la razón por la que no deberías activar el WiFi y los datos de tu móvil al mismo tiempo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/stick-android-14-oferta-aliexpress-1397568'>Deja atrás los Firestick: este aparato chino es más potente, barato y tiene Android 14</a></h4>
-    <a href='https://computerhoy.com/android/stick-android-14-oferta-aliexpress-1397568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stick-android-14-tv98-h618-3818282.jpg?tf=1200x' alt='Deja atrás los Firestick: este aparato chino es más potente, barato y tiene Android 14' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/motivo-no-deberias-colocar-imanes-nevera-no-te-vas-creer-1400193'>El motivo por el que no deberías colocar imanes en la nevera, no te lo vas a creer</a></h4>
-    <a href='https://computerhoy.com/hogar/motivo-no-deberias-colocar-imanes-nevera-no-te-vas-creer-1400193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/motivo-no-deberias-colocar-imanes-nevera-no-te-vas-creer-3949132.jpg?tf=1200x' alt='El motivo por el que no deberías colocar imanes en la nevera, no te lo vas a creer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/consejo-steve-jobs-alcanzar-exito-dejar-estar-atado-fracaso-1285060'>El consejo de Steve Jobs para alcanzar el éxito y dejar de estar atado al fracaso</a></h4>
-    <a href='https://computerhoy.com/life/consejo-steve-jobs-alcanzar-exito-dejar-estar-atado-fracaso-1285060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/steve-jobs-consejos-3100282.jpg?tf=1200x' alt='El consejo de Steve Jobs para alcanzar el éxito y dejar de estar atado al fracaso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-microsoft-consumen-tanta-electricidad-como-100-paises-ia-algo-realmente-alarmante-1397847'>Google y Microsoft consumen tanta electricidad como 100 países para la IA: ¿Es algo realmente alarmante? </a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-microsoft-consumen-tanta-electricidad-como-100-paises-ia-algo-realmente-alarmante-1397847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/consumo-electricidad-ia-3848764.jpg?tf=1200x' alt='Google y Microsoft consumen tanta electricidad como 100 países para la IA: ¿Es algo realmente alarmante? ' />
     </a>
 </div>
 
