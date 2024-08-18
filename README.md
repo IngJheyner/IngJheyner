@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-memoria-ram-movil-danada-lastrando-rendimiento-1394392'>Cómo saber si la memoria RAM de tu móvil está dañada y lastrando su rendimiento</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-memoria-ram-movil-danada-lastrando-rendimiento-1394392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-saber-memoria-ram-movil-danada-lastrando-rendimiento-3667270.jpg?tf=1200x' alt='Cómo saber si la memoria RAM de tu móvil está dañada y lastrando su rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/android-auto-estrena-nueva-interfaz-asistente-google-parece-siri-1400640'>Android Auto estrena una nueva interfaz del asistente de Google y se parece a Siri</a></h4>
     <a href='https://computerhoy.com/apps/android-auto-estrena-nueva-interfaz-asistente-google-parece-siri-1400640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-auto-estrena-nueva-interfaz-asistente-google-parece-siri-3977302.jpg?tf=1200x' alt='Android Auto estrena una nueva interfaz del asistente de Google y se parece a Siri' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-avisa-error-panel-emojis-ultima-actualizacion-windows-11-1400639'>Microsoft avisa sobre un error con el panel de emojis en la última actualización de Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-avisa-error-panel-emojis-ultima-actualizacion-windows-11-1400639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/emojis-windows-11-3977084.jpg?tf=1200x' alt='Microsoft avisa sobre un error con el panel de emojis en la última actualización de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/hacer-camara-microsoft-teams-no-funciona-windows-1355492'>Qué hacer si la cámara de Microsoft Teams no funciona en Windows</a></h4>
-    <a href='https://computerhoy.com/windows/hacer-camara-microsoft-teams-no-funciona-windows-1355492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hacer-camara-microsoft-teams-no-funciona-windows-3258817.jpg?tf=1200x' alt='Qué hacer si la cámara de Microsoft Teams no funciona en Windows' />
     </a>
 </div>
 
