@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/arm-desarrollando-tarjeta-grafica-gaming-competir-nvidia-amd-1400652'>ARM está desarrollando una tarjeta gráfica gaming para competir con NVIDIA y AMD</a></h4>
+    <a href='https://computerhoy.com/pc/arm-desarrollando-tarjeta-grafica-gaming-competir-nvidia-amd-1400652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/arm-desarrollando-tarjeta-grafica-gaming-competir-nvidia-amd-3979040.jpg?tf=1200x' alt='ARM está desarrollando una tarjeta gráfica gaming para competir con NVIDIA y AMD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-inspirada-alien-fracaso-cines-pero-arrasa-amazon-prime-video-1400544'>La incomprendida película inspirada en Alien que fracasó en cines pero arrasa en Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/incomprendida-pelicula-inspirada-alien-fracaso-cines-pero-arrasa-amazon-prime-video-1400544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/incomprendida-pelicula-inspirada-alien-fracaso-cines-pero-arrasa-amazon-prime-video-3964489.jpg?tf=1200x' alt='La incomprendida película inspirada en Alien que fracasó en cines pero arrasa en Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/aliexpress-lia-portatil-tiene-windows-11-12gb-ram-precio-movil-barato-1400647'>AliExpress la lía con este portátil: tiene Windows 11 y 12GB de RAM a precio de móvil barato</a></h4>
+    <a href='https://computerhoy.com/pc/aliexpress-lia-portatil-tiene-windows-11-12gb-ram-precio-movil-barato-1400647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chuwi-freebook-3210318.jpg?tf=1200x' alt='AliExpress la lía con este portátil: tiene Windows 11 y 12GB de RAM a precio de móvil barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/significa-punto-verde-aparece-moviles-android-debes-estar-pendiente-1292834'>Qué significa el punto verde que aparece en los móviles Android y por qué debes estar pendiente de él</a></h4>
+    <a href='https://computerhoy.com/android/significa-punto-verde-aparece-moviles-android-debes-estar-pendiente-1292834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/punto-verde-moviles-android-3113454.jpg?tf=1200x' alt='Qué significa el punto verde que aparece en los móviles Android y por qué debes estar pendiente de él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/guerra-obliga-rusia-retroceder-60-anos-programa-espacial-1400651'>La guerra obliga a Rusia a retroceder 60 años en su programa espacial</a></h4>
     <a href='https://computerhoy.com/espacio/guerra-obliga-rusia-retroceder-60-anos-programa-espacial-1400651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guerra-obliga-rusia-retroceder-60-anos-programa-espacial-3978467.jpg?tf=1200x' alt='La guerra obliga a Rusia a retroceder 60 años en su programa espacial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-memoria-ram-movil-danada-lastrando-rendimiento-1394392'>Cómo saber si la memoria RAM de tu móvil está dañada y lastrando su rendimiento</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-memoria-ram-movil-danada-lastrando-rendimiento-1394392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-saber-memoria-ram-movil-danada-lastrando-rendimiento-3667270.jpg?tf=1200x' alt='Cómo saber si la memoria RAM de tu móvil está dañada y lastrando su rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-estrena-nueva-interfaz-asistente-google-parece-siri-1400640'>Android Auto estrena una nueva interfaz del asistente de Google y se parece a Siri</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-estrena-nueva-interfaz-asistente-google-parece-siri-1400640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-auto-estrena-nueva-interfaz-asistente-google-parece-siri-3977302.jpg?tf=1200x' alt='Android Auto estrena una nueva interfaz del asistente de Google y se parece a Siri' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/desvelan-donde-vino-asteroide-causo-extincion-masiva-dinosaurios-1400620'>Desvelan de dónde vino el asteroide que causó la extinción masiva de los dinosaurios</a></h4>
-    <a href='https://computerhoy.com/espacio/desvelan-donde-vino-asteroide-causo-extincion-masiva-dinosaurios-1400620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/asteroide-camino-tierra-3972245.jpg?tf=1200x' alt='Desvelan de dónde vino el asteroide que causó la extinción masiva de los dinosaurios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/distancia-maxima-no-debe-pasar-cable-ethernet-1289772'>Evita problemas de conexión: la distancia máxima que no debe pasar tu cable Ethernet</a></h4>
-    <a href='https://computerhoy.com/redes/distancia-maxima-no-debe-pasar-cable-ethernet-1289772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/cable-ethernet-adsl-router.jpg?tf=1200x' alt='Evita problemas de conexión: la distancia máxima que no debe pasar tu cable Ethernet' />
     </a>
 </div>
 
