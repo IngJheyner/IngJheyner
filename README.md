@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/guerra-obliga-rusia-retroceder-60-anos-programa-espacial-1400651'>La guerra obliga a Rusia a retroceder 60 años en su programa espacial</a></h4>
+    <a href='https://computerhoy.com/espacio/guerra-obliga-rusia-retroceder-60-anos-programa-espacial-1400651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guerra-obliga-rusia-retroceder-60-anos-programa-espacial-3978467.jpg?tf=1200x' alt='La guerra obliga a Rusia a retroceder 60 años en su programa espacial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-memoria-ram-movil-danada-lastrando-rendimiento-1394392'>Cómo saber si la memoria RAM de tu móvil está dañada y lastrando su rendimiento</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-memoria-ram-movil-danada-lastrando-rendimiento-1394392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-saber-memoria-ram-movil-danada-lastrando-rendimiento-3667270.jpg?tf=1200x' alt='Cómo saber si la memoria RAM de tu móvil está dañada y lastrando su rendimiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/distancia-maxima-no-debe-pasar-cable-ethernet-1289772'>Evita problemas de conexión: la distancia máxima que no debe pasar tu cable Ethernet</a></h4>
     <a href='https://computerhoy.com/redes/distancia-maxima-no-debe-pasar-cable-ethernet-1289772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/cable-ethernet-adsl-router.jpg?tf=1200x' alt='Evita problemas de conexión: la distancia máxima que no debe pasar tu cable Ethernet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-avisa-error-panel-emojis-ultima-actualizacion-windows-11-1400639'>Microsoft avisa sobre un error con el panel de emojis en la última actualización de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-avisa-error-panel-emojis-ultima-actualizacion-windows-11-1400639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/emojis-windows-11-3977084.jpg?tf=1200x' alt='Microsoft avisa sobre un error con el panel de emojis en la última actualización de Windows 11' />
     </a>
 </div>
 
