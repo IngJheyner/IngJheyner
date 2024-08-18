@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-avisa-error-panel-emojis-ultima-actualizacion-windows-11-1400639'>Microsoft avisa sobre un error con el panel de emojis en la última actualización de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-avisa-error-panel-emojis-ultima-actualizacion-windows-11-1400639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/emojis-windows-11-3977084.jpg?tf=1200x' alt='Microsoft avisa sobre un error con el panel de emojis en la última actualización de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/hacer-camara-microsoft-teams-no-funciona-windows-1355492'>Qué hacer si la cámara de Microsoft Teams no funciona en Windows</a></h4>
+    <a href='https://computerhoy.com/windows/hacer-camara-microsoft-teams-no-funciona-windows-1355492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hacer-camara-microsoft-teams-no-funciona-windows-3258817.jpg?tf=1200x' alt='Qué hacer si la cámara de Microsoft Teams no funciona en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/nueva-bateria-coches-electricos-carga-solo-10-minutos-1400621'>Esta nueva batería para coches eléctricos se carga en solo 10 minutos</a></h4>
+    <a href='https://computerhoy.com/motor/nueva-bateria-coches-electricos-carga-solo-10-minutos-1400621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/carga-coche-electrico-3972388.jpg?tf=1200x' alt='Esta nueva batería para coches eléctricos se carga en solo 10 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/sorprendente-consejo-policia-nacional-no-te-roben-verano-debes-hacer-persianas-1400242'>El sorprendente consejo de la Policía Nacional para que no te roben en verano: esto debes hacer con las persianas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/sorprendente-consejo-policia-nacional-no-te-roben-verano-debes-hacer-persianas-1400242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sorprendente-consejo-policia-nacional-no-te-roben-verano-debes-hacer-persianas-3949768.jpg?tf=1200x' alt='El sorprendente consejo de la Policía Nacional para que no te roben en verano: esto debes hacer con las persianas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/alerta-seguridad-telefonos-android-expuestos-grave-vulnerabilidad-acceso-remoto-1400637'>Alerta de seguridad: teléfonos Android expuestos a una grave vulnerabilidad de acceso remoto</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/alerta-seguridad-telefonos-android-expuestos-grave-vulnerabilidad-acceso-remoto-1400637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/seguridad-android-3977022.jpg?tf=1200x' alt='Alerta de seguridad: teléfonos Android expuestos a una grave vulnerabilidad de acceso remoto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/razones-no-debes-utilizar-movil-retrete-69373'>Las razones por la que no debes usar el teléfono móvil en el retrete</a></h4>
-    <a href='https://computerhoy.com/noticias/life/razones-no-debes-utilizar-movil-retrete-69373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-son-razones-no-debes-usar-telefono-movil-retrete-3948979.jpg?tf=1200x' alt='Las razones por la que no debes usar el teléfono móvil en el retrete' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-tiene-4g-llamadas-alternativa-android-apple-watch-precio-rompedor-1394530'>Este smartwatch Xiaomi tiene 4G y llamadas: es la alternativa con Android a los Apple Watch y a precio rompedor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-tiene-4g-llamadas-alternativa-android-apple-watch-precio-rompedor-1394530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-watch-2-pro-3301166.jpg?tf=1200x' alt='Este smartwatch Xiaomi tiene 4G y llamadas: es la alternativa con Android a los Apple Watch y a precio rompedor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-acceder-menu-oculto-windows-11-funciones-incluye-1288300'>Cómo acceder al menú oculto de Windows 11 y qué funciones incluye</a></h4>
-    <a href='https://computerhoy.com/windows/como-acceder-menu-oculto-windows-11-funciones-incluye-1288300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3106634.jpg?tf=1200x' alt='Cómo acceder al menú oculto de Windows 11 y qué funciones incluye' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/razon-no-deberias-activar-wifi-datos-movil-mismo-tiempo-1400115'>Esta es la razón por la que no deberías activar el WiFi y los datos de tu móvil al mismo tiempo </a></h4>
-    <a href='https://computerhoy.com/moviles/razon-no-deberias-activar-wifi-datos-movil-mismo-tiempo-1400115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/razon-no-deberias-activar-wifi-datos-movil-mismo-tiempo-3943981.jpg?tf=1200x' alt='Esta es la razón por la que no deberías activar el WiFi y los datos de tu móvil al mismo tiempo ' />
     </a>
 </div>
 
