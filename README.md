@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/curioso-video-muestra-ranking-futbolistas-coches-caros-1400627'>Un curioso vídeo muestra el ranking de los futbolistas con los coches más caros</a></h4>
+    <a href='https://computerhoy.com/motor/curioso-video-muestra-ranking-futbolistas-coches-caros-1400627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/curioso-video-muestra-ranking-futbolistas-coches-caros-3974286.jpg?tf=1200x' alt='Un curioso vídeo muestra el ranking de los futbolistas con los coches más caros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/trabajan-nuevo-horario-lunar-futuras-misiones-espaciales-luna-1400608'>Trabajan en un nuevo horario lunar para futuras misiones espaciales en la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/trabajan-nuevo-horario-lunar-futuras-misiones-espaciales-luna-1400608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/trabajan-nuevo-horario-lunar-futuras-misiones-espaciales-luna-3970932.jpg?tf=1200x' alt='Trabajan en un nuevo horario lunar para futuras misiones espaciales en la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/proyecto-strawberry-openai-como-conseguira-ia-piense-como-humano-1398704'>¿Qué es el proyecto Strawberry de OpenAI y cómo conseguirá que la IA piense como un humano?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/proyecto-strawberry-openai-como-conseguira-ia-piense-como-humano-1398704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1723795827124-3962476.jpg?tf=1200x' alt='¿Qué es el proyecto Strawberry de OpenAI y cómo conseguirá que la IA piense como un humano?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/protege-dispositivos-vpn-mas-rapida-ofertas-1398505'>Protege todos tus dispositivos en cualquier red: esta VPN es la más rápida y desploma su precio un 72%</a></h4>
+    <a href='https://computerhoy.com/tecnologia/protege-dispositivos-vpn-mas-rapida-ofertas-1398505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-vpn-3309985.jpg?tf=1200x' alt='Protege todos tus dispositivos en cualquier red: esta VPN es la más rápida y desploma su precio un 72%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/como-canjear-tarjeta-regalo-google-play-store-1339310'>Cómo canjear una tarjeta de regalo de Google Play Store</a></h4>
     <a href='https://computerhoy.com/google/como-canjear-tarjeta-regalo-google-play-store-1339310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-canjear-tarjeta-regalo-google-play-store-3229384.jpg?tf=1200x' alt='Cómo canjear una tarjeta de regalo de Google Play Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/copilot-nos-dara-sugerencias-rapidas-basadas-interacciones-anteriores-1400618'>Copilot nos dará sugerencias rápidas basadas en las interacciones anteriores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/copilot-nos-dara-sugerencias-rapidas-basadas-interacciones-anteriores-1400618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-copilot-3972239.jpg?tf=1200x' alt='Copilot nos dará sugerencias rápidas basadas en las interacciones anteriores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-eliminar-calor-casa-necesidad-aire-acondicionado-gratis-arquitecto-1400058'>Cómo eliminar el calor de la casa sin necesidad de aire acondicionado gratis, según este arquitecto</a></h4>
-    <a href='https://computerhoy.com/life/como-eliminar-calor-casa-necesidad-aire-acondicionado-gratis-arquitecto-1400058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-eliminar-calor-casa-necesidad-aire-acondicionado-gratis-arquitecto-3943050.jpg?tf=1200x' alt='Cómo eliminar el calor de la casa sin necesidad de aire acondicionado gratis, según este arquitecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-estudia-mantener-dos-astronautas-boeing-estacion-espacial-internacional-2025-1400619'>La NASA estudia mantener a los dos astronautas de Boeing en la Estación Espacial Internacional hasta 2025</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-estudia-mantener-dos-astronautas-boeing-estacion-espacial-internacional-2025-1400619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/starliner-boeing-3972241.jpg?tf=1200x' alt='La NASA estudia mantener a los dos astronautas de Boeing en la Estación Espacial Internacional hasta 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chromecast-google-tv-dara-salto-android-14-pesar-futuro-1400616'>Chromecast con Google TV dará el salto a Android 14 a pesar de su futuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chromecast-google-tv-dara-salto-android-14-pesar-futuro-1400616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/chromecast-google-tv-3972093.jpg?tf=1200x' alt='Chromecast con Google TV dará el salto a Android 14 a pesar de su futuro' />
     </a>
 </div>
 
