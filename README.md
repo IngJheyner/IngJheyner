@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/desvelan-donde-vino-asteroide-causo-extincion-masiva-dinosaurios-1400620'>Desvelan de dónde vino el asteroide que causó la extinción masiva de los dinosaurios</a></h4>
+    <a href='https://computerhoy.com/espacio/desvelan-donde-vino-asteroide-causo-extincion-masiva-dinosaurios-1400620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/asteroide-camino-tierra-3972245.jpg?tf=1200x' alt='Desvelan de dónde vino el asteroide que causó la extinción masiva de los dinosaurios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/distancia-maxima-no-debe-pasar-cable-ethernet-1289772'>Evita problemas de conexión: la distancia máxima que no debe pasar tu cable Ethernet</a></h4>
+    <a href='https://computerhoy.com/redes/distancia-maxima-no-debe-pasar-cable-ethernet-1289772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/cable-ethernet-adsl-router.jpg?tf=1200x' alt='Evita problemas de conexión: la distancia máxima que no debe pasar tu cable Ethernet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-avisa-error-panel-emojis-ultima-actualizacion-windows-11-1400639'>Microsoft avisa sobre un error con el panel de emojis en la última actualización de Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-avisa-error-panel-emojis-ultima-actualizacion-windows-11-1400639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/emojis-windows-11-3977084.jpg?tf=1200x' alt='Microsoft avisa sobre un error con el panel de emojis en la última actualización de Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/nueva-bateria-coches-electricos-carga-solo-10-minutos-1400621'>Esta nueva batería para coches eléctricos se carga en solo 10 minutos</a></h4>
     <a href='https://computerhoy.com/motor/nueva-bateria-coches-electricos-carga-solo-10-minutos-1400621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/carga-coche-electrico-3972388.jpg?tf=1200x' alt='Esta nueva batería para coches eléctricos se carga en solo 10 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/sorprendente-consejo-policia-nacional-no-te-roben-verano-debes-hacer-persianas-1400242'>El sorprendente consejo de la Policía Nacional para que no te roben en verano: esto debes hacer con las persianas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/sorprendente-consejo-policia-nacional-no-te-roben-verano-debes-hacer-persianas-1400242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sorprendente-consejo-policia-nacional-no-te-roben-verano-debes-hacer-persianas-3949768.jpg?tf=1200x' alt='El sorprendente consejo de la Policía Nacional para que no te roben en verano: esto debes hacer con las persianas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-seguridad-telefonos-android-expuestos-grave-vulnerabilidad-acceso-remoto-1400637'>Alerta de seguridad: teléfonos Android expuestos a una grave vulnerabilidad de acceso remoto</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/alerta-seguridad-telefonos-android-expuestos-grave-vulnerabilidad-acceso-remoto-1400637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/seguridad-android-3977022.jpg?tf=1200x' alt='Alerta de seguridad: teléfonos Android expuestos a una grave vulnerabilidad de acceso remoto' />
     </a>
 </div>
 
