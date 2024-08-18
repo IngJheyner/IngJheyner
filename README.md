@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/stick-android-14-oferta-aliexpress-1397568'>Deja atrás los Firestick: este aparato chino es más potente, barato y tiene Android 14</a></h4>
+    <a href='https://computerhoy.com/android/stick-android-14-oferta-aliexpress-1397568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stick-android-14-tv98-h618-3818282.jpg?tf=1200x' alt='Deja atrás los Firestick: este aparato chino es más potente, barato y tiene Android 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/antivirus-como-funciona-mejores-pago-gratuitos-2024-1400045'>Antivirus: qué es, cómo funciona y cuáles son los mejores de pago y gratuitos de 2024</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/antivirus-como-funciona-mejores-pago-gratuitos-2024-1400045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/antivirus-ordenador-3942232.jpg?tf=1200x' alt='Antivirus: qué es, cómo funciona y cuáles son los mejores de pago y gratuitos de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/oneplus-watch-2r-esos-relojes-inteligentes-nos-gustan-incluso-amantes-relojes-clasicos-1400501'>El OnePlus Watch 2R es uno de esos relojes inteligentes que nos gustan incluso a los amantes de los relojes clásicos</a></h4>
+    <a href='https://computerhoy.com/analisis/oneplus-watch-2r-esos-relojes-inteligentes-nos-gustan-incluso-amantes-relojes-clasicos-1400501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-watch-2r-analisis-opiniones-3962894.jpg?tf=1200x' alt='El OnePlus Watch 2R es uno de esos relojes inteligentes que nos gustan incluso a los amantes de los relojes clásicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/curioso-video-muestra-ranking-futbolistas-coches-caros-1400627'>Un curioso vídeo muestra el ranking de los futbolistas con los coches más caros</a></h4>
     <a href='https://computerhoy.com/motor/curioso-video-muestra-ranking-futbolistas-coches-caros-1400627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/curioso-video-muestra-ranking-futbolistas-coches-caros-3974286.jpg?tf=1200x' alt='Un curioso vídeo muestra el ranking de los futbolistas con los coches más caros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/trabajan-nuevo-horario-lunar-futuras-misiones-espaciales-luna-1400608'>Trabajan en un nuevo horario lunar para futuras misiones espaciales en la Luna</a></h4>
     <a href='https://computerhoy.com/espacio/trabajan-nuevo-horario-lunar-futuras-misiones-espaciales-luna-1400608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/trabajan-nuevo-horario-lunar-futuras-misiones-espaciales-luna-3970932.jpg?tf=1200x' alt='Trabajan en un nuevo horario lunar para futuras misiones espaciales en la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/proyecto-strawberry-openai-como-conseguira-ia-piense-como-humano-1398704'>¿Qué es el proyecto Strawberry de OpenAI y cómo conseguirá que la IA piense como un humano?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/proyecto-strawberry-openai-como-conseguira-ia-piense-como-humano-1398704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1723795827124-3962476.jpg?tf=1200x' alt='¿Qué es el proyecto Strawberry de OpenAI y cómo conseguirá que la IA piense como un humano?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/protege-dispositivos-vpn-mas-rapida-ofertas-1398505'>Protege todos tus dispositivos en cualquier red: esta VPN es la más rápida y desploma su precio un 72%</a></h4>
-    <a href='https://computerhoy.com/tecnologia/protege-dispositivos-vpn-mas-rapida-ofertas-1398505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-vpn-3309985.jpg?tf=1200x' alt='Protege todos tus dispositivos en cualquier red: esta VPN es la más rápida y desploma su precio un 72%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-canjear-tarjeta-regalo-google-play-store-1339310'>Cómo canjear una tarjeta de regalo de Google Play Store</a></h4>
-    <a href='https://computerhoy.com/google/como-canjear-tarjeta-regalo-google-play-store-1339310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-canjear-tarjeta-regalo-google-play-store-3229384.jpg?tf=1200x' alt='Cómo canjear una tarjeta de regalo de Google Play Store' />
     </a>
 </div>
 
