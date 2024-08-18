@@ -74,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-pone-venta-cybernevera-enfriar-cybercerveza-cybertruck-1400655'>Tesla pone a la venta una cybernevera para enfriar su cybercerveza en su Cybertruck</a></h4>
+    <h4><a href='https://computerhoy.com/motor/tesla-pone-venta-cybernevera-enfriar-cybercerveza-cybertruck-1400655'>Tesla pone a la venta una cibernevera para enfriar su cibercerveza en su Cybertruck</a></h4>
     <a href='https://computerhoy.com/motor/tesla-pone-venta-cybernevera-enfriar-cybercerveza-cybertruck-1400655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tesla-pone-venta-cybernevera-enfriar-cybercerveza-cybertruck-3979326.jpg?tf=1200x' alt='Tesla pone a la venta una cybernevera para enfriar su cybercerveza en su Cybertruck' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tesla-pone-venta-cybernevera-enfriar-cybercerveza-cybertruck-3979326.jpg?tf=1200x' alt='Tesla pone a la venta una cibernevera para enfriar su cibercerveza en su Cybertruck' />
     </a>
 </div>
 
