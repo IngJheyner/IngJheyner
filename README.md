@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/raspberry-pi-5-2-gb-ram-1400842'>Sale a la venta una Raspberry Pi 5 más barata</a></h4>
+    <a href='https://computerhoy.com/pc/raspberry-pi-5-2-gb-ram-1400842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sale-venta-raspberry-pi-5-barata-3985907.jpg?tf=1200x' alt='Sale a la venta una Raspberry Pi 5 más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/aliexpress-pulveriza-precio-proyector-vendido-xiaomi-apenas-supera-300-euros-1400828'>AliExpress pulveriza el precio del proyector más vendido de Xiaomi: apenas supera los 300 euros</a></h4>
+    <a href='https://computerhoy.com/audio/aliexpress-pulveriza-precio-proyector-vendido-xiaomi-apenas-supera-300-euros-1400828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mi-smart-projector-2-3985908.jpg?tf=1200x' alt='AliExpress pulveriza el precio del proyector más vendido de Xiaomi: apenas supera los 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/encuentran-espana-montana-energia-proximos-siglos-1400823'>Encuentran en España una montaña con energía para los próximos siglos</a></h4>
+    <a href='https://computerhoy.com/energia/encuentran-espana-montana-energia-proximos-siglos-1400823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/encuentran-espana-montana-energia-proximos-siglos-3986070.jpg?tf=1200x' alt='Encuentran en España una montaña con energía para los próximos siglos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-menus-secretos-desbloquea-funciones-ocultas-dispositivo-roku-1400425'>Cómo activar los menús secretos que desbloquea funciones ocultas en tu dispositivo Roku</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-menus-secretos-desbloquea-funciones-ocultas-dispositivo-roku-1400425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-activar-menus-secretos-desbloquea-funciones-ocultas-dispositivo-roku-3961424.jpg?tf=1200x' alt='Cómo activar los menús secretos que desbloquea funciones ocultas en tu dispositivo Roku' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-windows-no-reconoce-puertos-usb-pc-1287552'>Qué hacer cuando Windows no reconoce los puertos USB de tu PC</a></h4>
     <a href='https://computerhoy.com/tutoriales/hacer-cuando-windows-no-reconoce-puertos-usb-pc-1287552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/usb-ordenador-portatil-3115870.jpg?tf=1200x' alt='Qué hacer cuando Windows no reconoce los puertos USB de tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/comando-magico-windows-10-nuevo-perder-solo-archivo-1389146'>El comando mágico que deja Windows 10 como el primer día sin perder un solo archivo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/comando-magico-windows-10-nuevo-perder-solo-archivo-1389146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/comando-magico-deja-windows-10-como-primer-dia-perder-solo-archivo-3419399.jpg?tf=1200x' alt='El comando mágico que deja Windows 10 como el primer día sin perder un solo archivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estudio-revela-entrelazamiento-cuantico-cerebro-podria-ser-clave-conciencia-humana-1400688'>Un estudio revela que el entrelazamiento cuántico en el cerebro podría ser la clave de la conciencia humana</a></h4>
-    <a href='https://computerhoy.com/ciencia/estudio-revela-entrelazamiento-cuantico-cerebro-podria-ser-clave-conciencia-humana-1400688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cerebro-cuantico-3983375.jpg?tf=1200x' alt='Un estudio revela que el entrelazamiento cuántico en el cerebro podría ser la clave de la conciencia humana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/problemas-videos-windows-descubre-k-lite-mega-codec-pack-solucion-estabas-esperando-1400816'>¿Problemas con tus vídeos en Windows? Descubre el K-Lite Mega Codec Pack, la solución que estabas esperando</a></h4>
-    <a href='https://computerhoy.com/windows/problemas-videos-windows-descubre-k-lite-mega-codec-pack-solucion-estabas-esperando-1400816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/problemas-videos-windows-descubre-k-lite-mega-codec-pack-solucion-estabas-esperando-3985456.jpg?tf=1200x' alt='¿Problemas con tus vídeos en Windows? Descubre el K-Lite Mega Codec Pack, la solución que estabas esperando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/canales-tdt-espana-movil-gratis-sin-instalacion-1308014'>Así puedes ver más de 4.000 canales de la TDT en el móvil (sin instalar nada y gratis)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/canales-tdt-espana-movil-gratis-sin-instalacion-1308014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-gratis-canales-tdt-espana-resto-mundo-movil-instalar-nada-3139522.jpg?tf=1200x' alt='Así puedes ver más de 4.000 canales de la TDT en el móvil (sin instalar nada y gratis)' />
     </a>
 </div>
 
