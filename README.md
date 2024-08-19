@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-gratis-series-peliculas-apple-tv-pagar-solo-euro-1400836'>Cómo ver gratis las series y películas de Apple TV+ sin pagar un solo euro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-gratis-series-peliculas-apple-tv-pagar-solo-euro-1400836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-ver-gratis-series-peliculas-apple-tv-pagar-solo-euro-3986670.jpg?tf=1200x' alt='Cómo ver gratis las series y películas de Apple TV+ sin pagar un solo euro' />
+    <h4><a href='https://computerhoy.com/tecnologia/tesla-paga-48-dolares-hora-entrenar-robot-optimus-realidad-virtual-1400858'>Tesla paga 48 dólares la hora por entrenar a su robot Optimus, con realidad virtual</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tesla-paga-48-dolares-hora-entrenar-robot-optimus-realidad-virtual-1400858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tesla-paga-48-dolares-hora-entrenar-robot-optimus-realidad-virtual-3986524.jpg?tf=1200x' alt='Tesla paga 48 dólares la hora por entrenar a su robot Optimus, con realidad virtual' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-ubicacion-chrome-firefox-edge-deberias-hacerlo-ahora-mismo-1400397'>Cómo ocultar tu ubicación en Chrome, Firefox y Edge y por qué deberías hacerlo ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-ubicacion-chrome-firefox-edge-deberias-hacerlo-ahora-mismo-1400397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-ocultar-ubicacion-chrome-firefox-edge-deberias-hacerlo-ahora-mismo-3958610.jpg?tf=1200x' alt='Cómo ocultar tu ubicación en Chrome, Firefox y Edge y por qué deberías hacerlo ahora mismo' />
+    <h4><a href='https://computerhoy.com/tecnologia/sistema-permite-colocar-enchufes-cualquier-lugar-pasando-electricidad-traves-ventanas-1400859'>Este sistema permite colocar enchufes en cualquier lugar pasando la electricidad a través de las ventanas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sistema-permite-colocar-enchufes-cualquier-lugar-pasando-electricidad-traves-ventanas-1400859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/power-mole-3986963.jpg?tf=1200x' alt='Este sistema permite colocar enchufes en cualquier lugar pasando la electricidad a través de las ventanas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-controla-whatsapp-1344522'>Cómo saber si controlan tu WhatsApp sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-alguien-controla-whatsapp-1344522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-saber-te-controlan-whatsapp-instalar-nada-3239054.jpg?tf=1200x' alt='Cómo saber si controlan tu WhatsApp sin instalar nada' />
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatches-fitbit-desaparecen-siempre-pasa-tienes-1400857'>Los smartwatches de Fitbit desaparecen para siempre: ¿qué pasa si tienes uno?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatches-fitbit-desaparecen-siempre-pasa-tienes-1400857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fitbit-charge-6-3789154.jpg?tf=1200x' alt='Los smartwatches de Fitbit desaparecen para siempre: ¿qué pasa si tienes uno?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/gemini-live-como-funciona-todo-puedes-hacer-nueva-ia-conversacional-google-1400573'>Qué es Gemini Live, cómo funciona y todo lo que puedes hacer con la nueva IA conversacional de Google</a></h4>
-    <a href='https://computerhoy.com/google/gemini-live-como-funciona-todo-puedes-hacer-nueva-ia-conversacional-google-1400573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gemini-live-como-funciona-todo-puedes-hacer-nueva-ia-conversacional-3966882.jpg?tf=1200x' alt='Qué es Gemini Live, cómo funciona y todo lo que puedes hacer con la nueva IA conversacional de Google' />
+    <h4><a href='https://computerhoy.com/alimentacion/cientificos-podrian-haber-encontrado-forma-salvar-platano-extincion-1400854'>Científicos podrían haber encontrado una forma de salvar al plátano de la extinción</a></h4>
+    <a href='https://computerhoy.com/alimentacion/cientificos-podrian-haber-encontrado-forma-salvar-platano-extincion-1400854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/platanos-3986961.jpg?tf=1200x' alt='Científicos podrían haber encontrado una forma de salvar al plátano de la extinción' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/raspberry-pi-5-2-gb-ram-1400842'>Sale a la venta una Raspberry Pi 5 más barata</a></h4>
-    <a href='https://computerhoy.com/pc/raspberry-pi-5-2-gb-ram-1400842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sale-venta-raspberry-pi-5-barata-3985907.jpg?tf=1200x' alt='Sale a la venta una Raspberry Pi 5 más barata' />
+    <h4><a href='https://computerhoy.com/life/eres-personas-necesitan-televisor-encendido-dormir-podrias-estar-vinculado-estos-8-comportamientos-1400309'>Si eres de las personas que necesitan el televisor encendido para dormir, podrías estar vinculado a estos 8 comportamientos</a></h4>
+    <a href='https://computerhoy.com/life/eres-personas-necesitan-televisor-encendido-dormir-podrias-estar-vinculado-estos-8-comportamientos-1400309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/eres-personas-necesitan-televisor-encendido-dormir-podrias-estar-vinculado-estos-8-comportamientos-3952205.jpg?tf=1200x' alt='Si eres de las personas que necesitan el televisor encendido para dormir, podrías estar vinculado a estos 8 comportamientos' />
     </a>
 </div>
 
