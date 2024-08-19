@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-renovara-linea-airpods-dos-modelos-todos-bolsillos-puerto-usb-c-1400690'>Apple renovará su línea AirPods con dos modelos para todos los bolsillos y puerto USB-C</a></h4>
-    <a href='https://computerhoy.com/apple/apple-renovara-linea-airpods-dos-modelos-todos-bolsillos-puerto-usb-c-1400690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/airpods-iphone-3130548.jpg?tf=1200x' alt='Apple renovará su línea AirPods con dos modelos para todos los bolsillos y puerto USB-C' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/estas-12-funciones-van-desaparecer-windows-11-probable-utilices-alguna-ellas-1400558'>Estas 12 funciones van a desaparecer de Windows 11, y es probable que utilices alguna de ellas</a></h4>
     <a href='https://computerhoy.com/windows/estas-12-funciones-van-desaparecer-windows-11-probable-utilices-alguna-ellas-1400558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-12-funciones-van-desaparecer-windows-11-probable-utilices-alguna-ellas-3965719.jpg?tf=1200x' alt='Estas 12 funciones van a desaparecer de Windows 11, y es probable que utilices alguna de ellas' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.com/tecnologia/fotografias-instantaneas-4-razones-no-cambiaria-mi-camara-fotos-polaroid-ninguna-otra-1400265'>Fotografías instantáneas: 4 razones por las que no cambiaría mi cámara de fotos Polaroid por ninguna otra</a></h4>
     <a href='https://computerhoy.com/tecnologia/fotografias-instantaneas-4-razones-no-cambiaria-mi-camara-fotos-polaroid-ninguna-otra-1400265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fotografias-instantaneas-4-razones-no-cambiaria-mi-camara-fotos-polaroid-ninguna-otra-3950541.jpg?tf=1200x' alt='Fotografías instantáneas: 4 razones por las que no cambiaría mi cámara de fotos Polaroid por ninguna otra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/aliexpress-lia-precio-movil-xiaomi-barato-1310832'>AliExpress la lía con el precio del Redmi Note 13 Pro Plus: lo vende por menos de 300 euros</a></h4>
+    <a href='https://computerhoy.com/android/aliexpress-lia-precio-movil-xiaomi-barato-1310832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-13-pro-plus-5g-3265705.jpg?tf=1200x' alt='AliExpress la lía con el precio del Redmi Note 13 Pro Plus: lo vende por menos de 300 euros' />
     </a>
 </div>
 
