@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/drones-autonomos-ya-revisan-inventario-ikea-1400868'>Drones autónomos ya revisan el inventario en Ikea</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/drones-autonomos-ya-revisan-inventario-ikea-1400868'>Drones autónomos ya revisan el inventario en Ikea, junto a los trabajadores</a></h4>
     <a href='https://computerhoy.com/tecnologia/drones-autonomos-ya-revisan-inventario-ikea-1400868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/drones-autonomos-revisan-inventario-ikea-trabajadores-no-hace-ninguna-gracia-3987391.jpg?tf=1200x' alt='Drones autónomos ya revisan el inventario en Ikea' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/drones-autonomos-revisan-inventario-ikea-trabajadores-no-hace-ninguna-gracia-3987391.jpg?tf=1200x' alt='Drones autónomos ya revisan el inventario en Ikea, junto a los trabajadores' />
     </a>
 </div>
 
