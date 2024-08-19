@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/tienes-dejar-ya-usar-portatil-trabajo-uso-personal-te-explicamos-1400735'>Tienes que dejar ya de usar el portátil del trabajo para uso personal: te explicamos por qué</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tienes-dejar-ya-usar-portatil-trabajo-uso-personal-te-explicamos-1400735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-dejar-ya-usar-portatil-trabajo-uso-personal-te-explicamos-3984027.jpg?tf=1200x' alt='Tienes que dejar ya de usar el portátil del trabajo para uso personal: te explicamos por qué' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-675-computer-hoy-1397197'>¡Ya está en tu quiosco el número 675 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-675-computer-hoy-1397197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/computer-hoy-675-3984206.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 675 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/dura-advertencia-operadores-ven-futbol-gratis-iptv-hay-riesgo-real-1400755'>Dura advertencia de los operadores a los que ven el fútbol gratis por IPTV: "hay un riesgo real"</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/dura-advertencia-operadores-ven-futbol-gratis-iptv-hay-riesgo-real-1400755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iptv-ilegal-futbol-3983719.jpg?tf=1200x' alt='Dura advertencia de los operadores a los que ven el fútbol gratis por IPTV: "hay un riesgo real"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/16gb-ram-1tb-ssd-mini-pc-presume-windows-11-precio-1400197'>16GB de RAM y 1TB de SSD: este Mini PC presume de Windows 11 y de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/16gb-ram-1tb-ssd-mini-pc-presume-windows-11-precio-1400197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/blackview-mp60-3130802.jpg?tf=1200x' alt='16GB de RAM y 1TB de SSD: este Mini PC presume de Windows 11 y de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/confirman-pesimas-noticias-70-usuarios-windows-todo-mundo-1400714'>Se confirman las pésimas noticias para el 70% de los usuarios de Windows en todo el mundo</a></h4>
     <a href='https://computerhoy.com/windows/confirman-pesimas-noticias-70-usuarios-windows-todo-mundo-1400714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/confirman-pesimas-noticias-70-usuarios-windows-todo-mundo-3983692.jpg?tf=1200x' alt='Se confirman las pésimas noticias para el 70% de los usuarios de Windows en todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/funcion-viene-habilitada-defecto-movil-debes-desactivarla-evitar-estafas-1400700'>Esta función viene habilitada por defecto en tu móvil y debes desactivarla para evitar estafas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/funcion-viene-habilitada-defecto-movil-debes-desactivarla-evitar-estafas-1400700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estafas-whatsapp-3983542.jpg?tf=1200x' alt='Esta función viene habilitada por defecto en tu móvil y debes desactivarla para evitar estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/trucos-infalibles-mejorar-senal-router-wifi-1291364'>Trucos infalibles para mejorar la señal de tu router WiFi</a></h4>
-    <a href='https://computerhoy.com/hogar/trucos-infalibles-mejorar-senal-router-wifi-1291364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mejora-senal-wifi-estos-tres-trucos-3111502.jpg?tf=1200x' alt='Trucos infalibles para mejorar la señal de tu router WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/ha-costado-estrellar-coche-3-millones-euros-centro-pruebas-nasa-1400694'>Esto es lo que ha costado estrellar un coche de 3 millones de euros en un centro de pruebas de la NASA</a></h4>
-    <a href='https://computerhoy.com/motor/ha-costado-estrellar-coche-3-millones-euros-centro-pruebas-nasa-1400694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ha-costado-estrellar-coche-3-millones-centro-pruebas-nasa-3983360.jpg?tf=1200x' alt='Esto es lo que ha costado estrellar un coche de 3 millones de euros en un centro de pruebas de la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ciencia-ficcion-donald-sutherland-amazon-prime-video-1399630'>La ambiciosa película de ciencia ficción con Donald Sutherland llega ahora a Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-ciencia-ficcion-donald-sutherland-amazon-prime-video-1399630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fracaso-taquilla-pero-ambiciosa-pelicula-ciencia-ficcion-donald-sutherland-llega-ahora-amazon-prime-video-3912645.jpg?tf=1200x' alt='La ambiciosa película de ciencia ficción con Donald Sutherland llega ahora a Amazon Prime Video' />
     </a>
 </div>
 
