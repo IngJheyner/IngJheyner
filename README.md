@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-gratis-series-peliculas-apple-tv-pagar-solo-euro-1400836'>Cómo ver gratis las series y películas de Apple TV+ sin pagar un solo euro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-gratis-series-peliculas-apple-tv-pagar-solo-euro-1400836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-ver-gratis-series-peliculas-apple-tv-pagar-solo-euro-3986670.jpg?tf=1200x' alt='Cómo ver gratis las series y películas de Apple TV+ sin pagar un solo euro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-ubicacion-chrome-firefox-edge-deberias-hacerlo-ahora-mismo-1400397'>Cómo ocultar tu ubicación en Chrome, Firefox y Edge y por qué deberías hacerlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-ubicacion-chrome-firefox-edge-deberias-hacerlo-ahora-mismo-1400397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-ocultar-ubicacion-chrome-firefox-edge-deberias-hacerlo-ahora-mismo-3958610.jpg?tf=1200x' alt='Cómo ocultar tu ubicación en Chrome, Firefox y Edge y por qué deberías hacerlo ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-controla-whatsapp-1344522'>Cómo saber si controlan tu WhatsApp sin instalar nada</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-alguien-controla-whatsapp-1344522' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-saber-te-controlan-whatsapp-instalar-nada-3239054.jpg?tf=1200x' alt='Cómo saber si controlan tu WhatsApp sin instalar nada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/raspberry-pi-5-2-gb-ram-1400842'>Sale a la venta una Raspberry Pi 5 más barata</a></h4>
     <a href='https://computerhoy.com/pc/raspberry-pi-5-2-gb-ram-1400842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sale-venta-raspberry-pi-5-barata-3985907.jpg?tf=1200x' alt='Sale a la venta una Raspberry Pi 5 más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/aliexpress-pulveriza-precio-proyector-vendido-xiaomi-apenas-supera-300-euros-1400828'>AliExpress pulveriza el precio del proyector más vendido de Xiaomi: apenas supera los 300 euros</a></h4>
-    <a href='https://computerhoy.com/audio/aliexpress-pulveriza-precio-proyector-vendido-xiaomi-apenas-supera-300-euros-1400828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mi-smart-projector-2-3985908.jpg?tf=1200x' alt='AliExpress pulveriza el precio del proyector más vendido de Xiaomi: apenas supera los 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/encuentran-espana-montana-energia-proximos-siglos-1400823'>Encuentran en España una montaña con energía para los próximos siglos</a></h4>
-    <a href='https://computerhoy.com/energia/encuentran-espana-montana-energia-proximos-siglos-1400823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/encuentran-espana-montana-energia-proximos-siglos-3986070.jpg?tf=1200x' alt='Encuentran en España una montaña con energía para los próximos siglos' />
     </a>
 </div>
 
