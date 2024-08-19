@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-windows-no-reconoce-puertos-usb-pc-1287552'>Qué hacer cuando Windows no reconoce los puertos USB de tu PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacer-cuando-windows-no-reconoce-puertos-usb-pc-1287552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/usb-ordenador-portatil-3115870.jpg?tf=1200x' alt='Qué hacer cuando Windows no reconoce los puertos USB de tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/comando-magico-windows-10-nuevo-perder-solo-archivo-1389146'>El comando mágico que deja Windows 10 como el primer día sin perder un solo archivo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/comando-magico-windows-10-nuevo-perder-solo-archivo-1389146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/comando-magico-deja-windows-10-como-primer-dia-perder-solo-archivo-3419399.jpg?tf=1200x' alt='El comando mágico que deja Windows 10 como el primer día sin perder un solo archivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/estudio-revela-entrelazamiento-cuantico-cerebro-podria-ser-clave-conciencia-humana-1400688'>Un estudio revela que el entrelazamiento cuántico en el cerebro podría ser la clave de la conciencia humana</a></h4>
+    <a href='https://computerhoy.com/ciencia/estudio-revela-entrelazamiento-cuantico-cerebro-podria-ser-clave-conciencia-humana-1400688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cerebro-cuantico-3983375.jpg?tf=1200x' alt='Un estudio revela que el entrelazamiento cuántico en el cerebro podría ser la clave de la conciencia humana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/problemas-videos-windows-descubre-k-lite-mega-codec-pack-solucion-estabas-esperando-1400816'>¿Problemas con tus vídeos en Windows? Descubre el K-Lite Mega Codec Pack, la solución que estabas esperando</a></h4>
     <a href='https://computerhoy.com/windows/problemas-videos-windows-descubre-k-lite-mega-codec-pack-solucion-estabas-esperando-1400816' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/problemas-videos-windows-descubre-k-lite-mega-codec-pack-solucion-estabas-esperando-3985456.jpg?tf=1200x' alt='¿Problemas con tus vídeos en Windows? Descubre el K-Lite Mega Codec Pack, la solución que estabas esperando' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/canales-tdt-espana-movil-gratis-sin-instalacion-1308014'>Así puedes ver más de 4.000 canales de la TDT en el móvil (sin instalar nada y gratis)</a></h4>
     <a href='https://computerhoy.com/tecnologia/canales-tdt-espana-movil-gratis-sin-instalacion-1308014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-gratis-canales-tdt-espana-resto-mundo-movil-instalar-nada-3139522.jpg?tf=1200x' alt='Así puedes ver más de 4.000 canales de la TDT en el móvil (sin instalar nada y gratis)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/senales-indican-ha-llegado-momento-renovar-movil-1400422'>10 señales que indican que ha llegado el momento de renovar tu móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/senales-indican-ha-llegado-momento-renovar-movil-1400422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/movil-explotando-3984374.jpg?tf=1200x' alt='10 señales que indican que ha llegado el momento de renovar tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/peligros-usar-freidora-aire-cocinar-algunos-alimentos-1399932'>Los peligros de usar la freidora de aire para cocinar algunos alimentos</a></h4>
-    <a href='https://computerhoy.com/alimentacion/peligros-usar-freidora-aire-cocinar-algunos-alimentos-1399932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/freidora-aire-3984359.jpg?tf=1200x' alt='Los peligros de usar la freidora de aire para cocinar algunos alimentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-no-igualara-potencia-ps5-aunque-hara-desagradable-aspecto-1400785'>Nintendo Switch 2 no igualará en potencia a PS5, aunque lo hará en un desagradable aspecto</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-2-no-igualara-potencia-ps5-aunque-hara-desagradable-aspecto-1400785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nintendo-switch-2-3308112.jpg?tf=1200x' alt='Nintendo Switch 2 no igualará en potencia a PS5, aunque lo hará en un desagradable aspecto' />
     </a>
 </div>
 
