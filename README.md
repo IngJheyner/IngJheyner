@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tienes-dejar-ya-usar-portatil-trabajo-uso-personal-te-explicamos-1400735'>Tienes que dejar ya de usar el portátil del trabajo para uso personal: te explicamos por qué</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tienes-dejar-ya-usar-portatil-trabajo-uso-personal-te-explicamos-1400735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-dejar-ya-usar-portatil-trabajo-uso-personal-te-explicamos-3984027.jpg?tf=1200x' alt='Tienes que dejar ya de usar el portátil del trabajo para uso personal: te explicamos por qué' />
+    <h4><a href='https://computerhoy.com/tecnologia/barata-potente-pantallon-2k-tablet-pone-aliexpress-patas-arriba-precio-1400724'>Barata, potente y con pantallón 2K: esta tablet pone AliExpress patas arriba con su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/barata-potente-pantallon-2k-tablet-pone-aliexpress-patas-arriba-precio-1400724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/chuwi-hipad-max-3983717.jpg?tf=1200x' alt='Barata, potente y con pantallón 2K: esta tablet pone AliExpress patas arriba con su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-675-computer-hoy-1397197'>¡Ya está en tu quiosco el número 675 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-675-computer-hoy-1397197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/computer-hoy-675-3984206.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 675 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-podria-traer-bloqueo-mensajes-contactos-desconocidos-proxima-actualizacion-1400756'>WhatsApp podría traer un bloqueo de los mensajes de contactos desconocidos en la próxima actualización</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-podria-traer-bloqueo-mensajes-contactos-desconocidos-proxima-actualizacion-1400756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-podria-traer-bloqueo-mensajes-contactos-desconocidos-proxima-actualizacion-3984210.jpg?tf=1200x' alt='WhatsApp podría traer un bloqueo de los mensajes de contactos desconocidos en la próxima actualización' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/dura-advertencia-operadores-ven-futbol-gratis-iptv-hay-riesgo-real-1400755'>Dura advertencia de los operadores a los que ven el fútbol gratis por IPTV: "hay un riesgo real"</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/dura-advertencia-operadores-ven-futbol-gratis-iptv-hay-riesgo-real-1400755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iptv-ilegal-futbol-3983719.jpg?tf=1200x' alt='Dura advertencia de los operadores a los que ven el fútbol gratis por IPTV: "hay un riesgo real"' />
+    <h4><a href='https://computerhoy.com/moviles/oppo-a80-5g-gama-media-bateria-5100-mah-50-mpx-camara-inteligencia-artificial-1400761'>Oppo A80 5G: un gama media con IA y cámara top</a></h4>
+    <a href='https://computerhoy.com/moviles/oppo-a80-5g-gama-media-bateria-5100-mah-50-mpx-camara-inteligencia-artificial-1400761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oppo-a80-5g-3984369.jpg?tf=1200x' alt='Oppo A80 5G: un gama media con IA y cámara top' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/16gb-ram-1tb-ssd-mini-pc-presume-windows-11-precio-1400197'>16GB de RAM y 1TB de SSD: este Mini PC presume de Windows 11 y de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/16gb-ram-1tb-ssd-mini-pc-presume-windows-11-precio-1400197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/blackview-mp60-3130802.jpg?tf=1200x' alt='16GB de RAM y 1TB de SSD: este Mini PC presume de Windows 11 y de precio' />
+    <h4><a href='https://computerhoy.com/experto-advierte-peligro-entrenar-ia-datos-generados-maquinas-avecina-colapso-1400737'>Experto advierte del peligro de entrenar la IA con datos generados por máquinas: se avecina colapso</a></h4>
+    <a href='https://computerhoy.com/experto-advierte-peligro-entrenar-ia-datos-generados-maquinas-avecina-colapso-1400737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/colapso-ia-3983884.jpg?tf=1200x' alt='Experto advierte del peligro de entrenar la IA con datos generados por máquinas: se avecina colapso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/confirman-pesimas-noticias-70-usuarios-windows-todo-mundo-1400714'>Se confirman las pésimas noticias para el 70% de los usuarios de Windows en todo el mundo</a></h4>
-    <a href='https://computerhoy.com/windows/confirman-pesimas-noticias-70-usuarios-windows-todo-mundo-1400714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/confirman-pesimas-noticias-70-usuarios-windows-todo-mundo-3983692.jpg?tf=1200x' alt='Se confirman las pésimas noticias para el 70% de los usuarios de Windows en todo el mundo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-quien-tiene-acceso-archivos-google-drive-eliminar-permisos-1290120'>Cómo saber quién tiene acceso a tus archivos de Google Drive y eliminar los permisos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-quien-tiene-acceso-archivos-google-drive-eliminar-permisos-1290120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-drive-3108744.jpg?tf=1200x' alt='Cómo saber quién tiene acceso a tus archivos de Google Drive y eliminar los permisos' />
     </a>
 </div>
 
