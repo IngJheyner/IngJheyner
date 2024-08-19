@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/aliexpress-lia-precio-movil-xiaomi-barato-1310832'>AliExpress la lía con el precio del Redmi Note 13 Pro Plus: lo vende por menos de 300 euros</a></h4>
+    <a href='https://computerhoy.com/android/aliexpress-lia-precio-movil-xiaomi-barato-1310832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-13-pro-plus-5g-3265705.jpg?tf=1200x' alt='AliExpress la lía con el precio del Redmi Note 13 Pro Plus: lo vende por menos de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/microsoft-gigante-informatica-historia-windows-todos-servicios-ia-copilot-1399819'>Microsoft, el gigante de la informática: historia, Windows, todos sus servicios y la IA de Copilot</a></h4>
+    <a href='https://computerhoy.com/industria/microsoft-gigante-informatica-historia-windows-todos-servicios-ia-copilot-1399819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-3936213.jpg?tf=1200x' alt='Microsoft, el gigante de la informática: historia, Windows, todos sus servicios y la IA de Copilot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/odiaba-smartwatches-pero-ahora-no-salgo-siempre-busco-reloj-despues-7-anos-probando-dispositivos-1395255'>Odiaba los smartwatches pero ahora no salgo sin uno: lo que siempre busco en un reloj después de 7 años probando dispositivos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/odiaba-smartwatches-pero-ahora-no-salgo-siempre-busco-reloj-despues-7-anos-probando-dispositivos-1395255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/muchos-smartwatches-3712707.jpg?tf=1200x' alt='Odiaba los smartwatches pero ahora no salgo sin uno: lo que siempre busco en un reloj después de 7 años probando dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/broken-sword-vuelve-remasterizado-4k-1400657'>Un juego mítico de hace 30 años vuelve remasterizado a 4K</a></h4>
     <a href='https://computerhoy.com/gaming/broken-sword-vuelve-remasterizado-4k-1400657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1724015634921-3980334.jpg?tf=1200x' alt='Un juego mítico de hace 30 años vuelve remasterizado a 4K' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/libros-texto-ia-corea-sur-1400656'>En este país van a usar libros de texto con IA, que se adaptan al alumno</a></h4>
     <a href='https://computerhoy.com/tecnologia/libros-texto-ia-corea-sur-1400656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/corea-sur-van-probar-libros-texto-inteligencia-artificial-adaptan-alumno-3979616.jpg?tf=1200x' alt='En este país van a usar libros de texto con IA, que se adaptan al alumno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-apps-gratis-digitalizar-textos-escritos-mano-1349139'>Las mejores apps gratis para digitalizar tus textos escritos a mano</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-apps-gratis-digitalizar-textos-escritos-mano-1349139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mejores-apps-gratis-digitalizar-textos-escritos-mano-3247651.jpg?tf=1200x' alt='Las mejores apps gratis para digitalizar tus textos escritos a mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-pone-venta-cybernevera-enfriar-cybercerveza-cybertruck-1400655'>Tesla pone a la venta una cibernevera para enfriar su cibercerveza en su Cybertruck</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-pone-venta-cybernevera-enfriar-cybercerveza-cybertruck-1400655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tesla-pone-venta-cybernevera-enfriar-cybercerveza-cybertruck-3979326.jpg?tf=1200x' alt='Tesla pone a la venta una cibernevera para enfriar su cibercerveza en su Cybertruck' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/arm-desarrollando-tarjeta-grafica-gaming-competir-nvidia-amd-1400652'>ARM está desarrollando una tarjeta gráfica gaming para competir con NVIDIA y AMD</a></h4>
-    <a href='https://computerhoy.com/pc/arm-desarrollando-tarjeta-grafica-gaming-competir-nvidia-amd-1400652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/arm-desarrollando-tarjeta-grafica-gaming-competir-nvidia-amd-3979040.jpg?tf=1200x' alt='ARM está desarrollando una tarjeta gráfica gaming para competir con NVIDIA y AMD' />
     </a>
 </div>
 
