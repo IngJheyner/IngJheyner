@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-no-igualara-potencia-ps5-aunque-hara-desagradable-aspecto-1400785'>Nintendo Switch 2 no igualará en potencia a PS5, aunque lo hará en un desagradable aspecto</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-2-no-igualara-potencia-ps5-aunque-hara-desagradable-aspecto-1400785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nintendo-switch-2-3308112.jpg?tf=1200x' alt='Nintendo Switch 2 no igualará en potencia a PS5, aunque lo hará en un desagradable aspecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dia-mundial-fotografia-mavica-alpha-como-sony-revoluciona-sector-1400775'>Día Mundial de la Fotografía: de la Mavica a la Alpha, así es como Sony revoluciona el sector</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dia-mundial-fotografia-mavica-alpha-como-sony-revoluciona-sector-1400775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fotografia-camara-sony-3984528.jpg?tf=1200x' alt='Día Mundial de la Fotografía: de la Mavica a la Alpha, así es como Sony revoluciona el sector' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/barata-potente-pantallon-2k-tablet-pone-aliexpress-patas-arriba-precio-1400724'>Barata, potente y con pantallón 2K: esta tablet pone AliExpress patas arriba con su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/barata-potente-pantallon-2k-tablet-pone-aliexpress-patas-arriba-precio-1400724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/chuwi-hipad-max-3983717.jpg?tf=1200x' alt='Barata, potente y con pantallón 2K: esta tablet pone AliExpress patas arriba con su precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/oppo-a80-5g-gama-media-bateria-5100-mah-50-mpx-camara-inteligencia-artificial-1400761'>Oppo A80 5G: un gama media con IA y cámara top</a></h4>
     <a href='https://computerhoy.com/moviles/oppo-a80-5g-gama-media-bateria-5100-mah-50-mpx-camara-inteligencia-artificial-1400761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oppo-a80-5g-3984369.jpg?tf=1200x' alt='Oppo A80 5G: un gama media con IA y cámara top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/experto-advierte-peligro-entrenar-ia-datos-generados-maquinas-avecina-colapso-1400737'>Experto advierte del peligro de entrenar la IA con datos generados por máquinas: se avecina colapso</a></h4>
-    <a href='https://computerhoy.com/experto-advierte-peligro-entrenar-ia-datos-generados-maquinas-avecina-colapso-1400737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/colapso-ia-3983884.jpg?tf=1200x' alt='Experto advierte del peligro de entrenar la IA con datos generados por máquinas: se avecina colapso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-quien-tiene-acceso-archivos-google-drive-eliminar-permisos-1290120'>Cómo saber quién tiene acceso a tus archivos de Google Drive y eliminar los permisos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-quien-tiene-acceso-archivos-google-drive-eliminar-permisos-1290120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/google-drive-3108744.jpg?tf=1200x' alt='Cómo saber quién tiene acceso a tus archivos de Google Drive y eliminar los permisos' />
     </a>
 </div>
 
