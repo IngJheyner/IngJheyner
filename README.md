@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/peligros-usar-freidora-aire-cocinar-algunos-alimentos-1399932'>Los peligros de usar la freidora de aire para cocinar algunos alimentos</a></h4>
+    <a href='https://computerhoy.com/alimentacion/peligros-usar-freidora-aire-cocinar-algunos-alimentos-1399932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/freidora-aire-3984359.jpg?tf=1200x' alt='Los peligros de usar la freidora de aire para cocinar algunos alimentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-no-igualara-potencia-ps5-aunque-hara-desagradable-aspecto-1400785'>Nintendo Switch 2 no igualará en potencia a PS5, aunque lo hará en un desagradable aspecto</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-switch-2-no-igualara-potencia-ps5-aunque-hara-desagradable-aspecto-1400785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nintendo-switch-2-3308112.jpg?tf=1200x' alt='Nintendo Switch 2 no igualará en potencia a PS5, aunque lo hará en un desagradable aspecto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-podria-traer-bloqueo-mensajes-contactos-desconocidos-proxima-actualizacion-1400756'>WhatsApp podría traer un bloqueo de los mensajes de contactos desconocidos en la próxima actualización</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-podria-traer-bloqueo-mensajes-contactos-desconocidos-proxima-actualizacion-1400756' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-podria-traer-bloqueo-mensajes-contactos-desconocidos-proxima-actualizacion-3984210.jpg?tf=1200x' alt='WhatsApp podría traer un bloqueo de los mensajes de contactos desconocidos en la próxima actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oppo-a80-5g-gama-media-bateria-5100-mah-50-mpx-camara-inteligencia-artificial-1400761'>Oppo A80 5G: un gama media con IA y cámara top</a></h4>
-    <a href='https://computerhoy.com/moviles/oppo-a80-5g-gama-media-bateria-5100-mah-50-mpx-camara-inteligencia-artificial-1400761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oppo-a80-5g-3984369.jpg?tf=1200x' alt='Oppo A80 5G: un gama media con IA y cámara top' />
     </a>
 </div>
 
