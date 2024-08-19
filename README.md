@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-renovara-linea-airpods-dos-modelos-todos-bolsillos-puerto-usb-c-1400690'>Apple renovará su línea AirPods con dos modelos para todos los bolsillos y puerto USB-C</a></h4>
+    <a href='https://computerhoy.com/apple/apple-renovara-linea-airpods-dos-modelos-todos-bolsillos-puerto-usb-c-1400690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/airpods-iphone-3130548.jpg?tf=1200x' alt='Apple renovará su línea AirPods con dos modelos para todos los bolsillos y puerto USB-C' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/estas-12-funciones-van-desaparecer-windows-11-probable-utilices-alguna-ellas-1400558'>Estas 12 funciones van a desaparecer de Windows 11, y es probable que utilices alguna de ellas</a></h4>
+    <a href='https://computerhoy.com/windows/estas-12-funciones-van-desaparecer-windows-11-probable-utilices-alguna-ellas-1400558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-12-funciones-van-desaparecer-windows-11-probable-utilices-alguna-ellas-3965719.jpg?tf=1200x' alt='Estas 12 funciones van a desaparecer de Windows 11, y es probable que utilices alguna de ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-conexion-usb-android-auto-coche-1296430'>Cómo solucionar el error de conexión USB de Android Auto en tu coche</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-conexion-usb-android-auto-coche-1296430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/android-auto-3120056.jpg?tf=1200x' alt='Cómo solucionar el error de conexión USB de Android Auto en tu coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/filantropo-empresario-escrupulos-nuevo-libro-revela-todas-caras-bill-gates-1400680'>¿Filántropo o empresario sin escrúpulos? Un nuevo libro revela todas las caras de Bill Gates</a></h4>
     <a href='https://computerhoy.com/life/filantropo-empresario-escrupulos-nuevo-libro-revela-todas-caras-bill-gates-1400680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-predicciones-bill-gates-hicieron-realidad-3278689.jpg?tf=1200x' alt='¿Filántropo o empresario sin escrúpulos? Un nuevo libro revela todas las caras de Bill Gates' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/fotografias-instantaneas-4-razones-no-cambiaria-mi-camara-fotos-polaroid-ninguna-otra-1400265'>Fotografías instantáneas: 4 razones por las que no cambiaría mi cámara de fotos Polaroid por ninguna otra</a></h4>
     <a href='https://computerhoy.com/tecnologia/fotografias-instantaneas-4-razones-no-cambiaria-mi-camara-fotos-polaroid-ninguna-otra-1400265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fotografias-instantaneas-4-razones-no-cambiaria-mi-camara-fotos-polaroid-ninguna-otra-3950541.jpg?tf=1200x' alt='Fotografías instantáneas: 4 razones por las que no cambiaría mi cámara de fotos Polaroid por ninguna otra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/aliexpress-lia-precio-movil-xiaomi-barato-1310832'>AliExpress la lía con el precio del Redmi Note 13 Pro Plus: lo vende por menos de 300 euros</a></h4>
-    <a href='https://computerhoy.com/android/aliexpress-lia-precio-movil-xiaomi-barato-1310832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-13-pro-plus-5g-3265705.jpg?tf=1200x' alt='AliExpress la lía con el precio del Redmi Note 13 Pro Plus: lo vende por menos de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/microsoft-gigante-informatica-historia-windows-todos-servicios-ia-copilot-1399819'>Microsoft, el gigante de la informática: historia, Windows, todos sus servicios y la IA de Copilot</a></h4>
-    <a href='https://computerhoy.com/industria/microsoft-gigante-informatica-historia-windows-todos-servicios-ia-copilot-1399819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-3936213.jpg?tf=1200x' alt='Microsoft, el gigante de la informática: historia, Windows, todos sus servicios y la IA de Copilot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/odiaba-smartwatches-pero-ahora-no-salgo-siempre-busco-reloj-despues-7-anos-probando-dispositivos-1395255'>Odiaba los smartwatches pero ahora no salgo sin uno: lo que siempre busco en un reloj después de 7 años probando dispositivos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/odiaba-smartwatches-pero-ahora-no-salgo-siempre-busco-reloj-despues-7-anos-probando-dispositivos-1395255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/muchos-smartwatches-3712707.jpg?tf=1200x' alt='Odiaba los smartwatches pero ahora no salgo sin uno: lo que siempre busco en un reloj después de 7 años probando dispositivos' />
     </a>
 </div>
 
