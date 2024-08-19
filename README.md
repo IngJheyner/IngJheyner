@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/filantropo-empresario-escrupulos-nuevo-libro-revela-todas-caras-bill-gates-1400680'>¿Filántropo o empresario sin escrúpulos? Un nuevo libro revela todas las caras de Bill Gates</a></h4>
+    <a href='https://computerhoy.com/life/filantropo-empresario-escrupulos-nuevo-libro-revela-todas-caras-bill-gates-1400680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-predicciones-bill-gates-hicieron-realidad-3278689.jpg?tf=1200x' alt='¿Filántropo o empresario sin escrúpulos? Un nuevo libro revela todas las caras de Bill Gates' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fotografias-instantaneas-4-razones-no-cambiaria-mi-camara-fotos-polaroid-ninguna-otra-1400265'>Fotografías instantáneas: 4 razones por las que no cambiaría mi cámara de fotos Polaroid por ninguna otra</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fotografias-instantaneas-4-razones-no-cambiaria-mi-camara-fotos-polaroid-ninguna-otra-1400265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fotografias-instantaneas-4-razones-no-cambiaria-mi-camara-fotos-polaroid-ninguna-otra-3950541.jpg?tf=1200x' alt='Fotografías instantáneas: 4 razones por las que no cambiaría mi cámara de fotos Polaroid por ninguna otra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/aliexpress-lia-precio-movil-xiaomi-barato-1310832'>AliExpress la lía con el precio del Redmi Note 13 Pro Plus: lo vende por menos de 300 euros</a></h4>
     <a href='https://computerhoy.com/android/aliexpress-lia-precio-movil-xiaomi-barato-1310832' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-13-pro-plus-5g-3265705.jpg?tf=1200x' alt='AliExpress la lía con el precio del Redmi Note 13 Pro Plus: lo vende por menos de 300 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/odiaba-smartwatches-pero-ahora-no-salgo-siempre-busco-reloj-despues-7-anos-probando-dispositivos-1395255'>Odiaba los smartwatches pero ahora no salgo sin uno: lo que siempre busco en un reloj después de 7 años probando dispositivos</a></h4>
     <a href='https://computerhoy.com/tecnologia/odiaba-smartwatches-pero-ahora-no-salgo-siempre-busco-reloj-despues-7-anos-probando-dispositivos-1395255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/muchos-smartwatches-3712707.jpg?tf=1200x' alt='Odiaba los smartwatches pero ahora no salgo sin uno: lo que siempre busco en un reloj después de 7 años probando dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/broken-sword-vuelve-remasterizado-4k-1400657'>Un juego mítico de hace 30 años vuelve remasterizado a 4K</a></h4>
-    <a href='https://computerhoy.com/gaming/broken-sword-vuelve-remasterizado-4k-1400657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1724015634921-3980334.jpg?tf=1200x' alt='Un juego mítico de hace 30 años vuelve remasterizado a 4K' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/libros-texto-ia-corea-sur-1400656'>En este país van a usar libros de texto con IA, que se adaptan al alumno</a></h4>
-    <a href='https://computerhoy.com/tecnologia/libros-texto-ia-corea-sur-1400656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/corea-sur-van-probar-libros-texto-inteligencia-artificial-adaptan-alumno-3979616.jpg?tf=1200x' alt='En este país van a usar libros de texto con IA, que se adaptan al alumno' />
     </a>
 </div>
 
