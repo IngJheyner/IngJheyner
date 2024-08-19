@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-controla-whatsapp-1344522'>Cómo saber si controlan tu WhatsApp sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-alguien-controla-whatsapp-1344522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-saber-te-controlan-whatsapp-instalar-nada-3239054.jpg?tf=1200x' alt='Cómo saber si controlan tu WhatsApp sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/gemini-live-como-funciona-todo-puedes-hacer-nueva-ia-conversacional-google-1400573'>Qué es Gemini Live, cómo funciona y todo lo que puedes hacer con la nueva IA conversacional de Google</a></h4>
+    <a href='https://computerhoy.com/google/gemini-live-como-funciona-todo-puedes-hacer-nueva-ia-conversacional-google-1400573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gemini-live-como-funciona-todo-puedes-hacer-nueva-ia-conversacional-3966882.jpg?tf=1200x' alt='Qué es Gemini Live, cómo funciona y todo lo que puedes hacer con la nueva IA conversacional de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/raspberry-pi-5-2-gb-ram-1400842'>Sale a la venta una Raspberry Pi 5 más barata</a></h4>
     <a href='https://computerhoy.com/pc/raspberry-pi-5-2-gb-ram-1400842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sale-venta-raspberry-pi-5-barata-3985907.jpg?tf=1200x' alt='Sale a la venta una Raspberry Pi 5 más barata' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/encuentran-espana-montana-energia-proximos-siglos-1400823'>Encuentran en España una montaña con energía para los próximos siglos</a></h4>
     <a href='https://computerhoy.com/energia/encuentran-espana-montana-energia-proximos-siglos-1400823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/encuentran-espana-montana-energia-proximos-siglos-3986070.jpg?tf=1200x' alt='Encuentran en España una montaña con energía para los próximos siglos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-menus-secretos-desbloquea-funciones-ocultas-dispositivo-roku-1400425'>Cómo activar los menús secretos que desbloquea funciones ocultas en tu dispositivo Roku</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-menus-secretos-desbloquea-funciones-ocultas-dispositivo-roku-1400425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-activar-menus-secretos-desbloquea-funciones-ocultas-dispositivo-roku-3961424.jpg?tf=1200x' alt='Cómo activar los menús secretos que desbloquea funciones ocultas en tu dispositivo Roku' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-windows-no-reconoce-puertos-usb-pc-1287552'>Qué hacer cuando Windows no reconoce los puertos USB de tu PC</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hacer-cuando-windows-no-reconoce-puertos-usb-pc-1287552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/usb-ordenador-portatil-3115870.jpg?tf=1200x' alt='Qué hacer cuando Windows no reconoce los puertos USB de tu PC' />
     </a>
 </div>
 
