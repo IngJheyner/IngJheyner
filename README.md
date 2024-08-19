@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/drones-autonomos-ya-revisan-inventario-ikea-1400868'>Drones autónomos ya revisan el inventario en Ikea</a></h4>
+    <a href='https://computerhoy.com/tecnologia/drones-autonomos-ya-revisan-inventario-ikea-1400868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/drones-autonomos-revisan-inventario-ikea-trabajadores-no-hace-ninguna-gracia-3987391.jpg?tf=1200x' alt='Drones autónomos ya revisan el inventario en Ikea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/deberias-eliminar-todos-numeros-telefono-contactos-antiguos-whatsapp-1400844'>¿Por qué deberías eliminar todos los números de teléfono de contactos antiguos en WhatsApp?</a></h4>
+    <a href='https://computerhoy.com/apps/deberias-eliminar-todos-numeros-telefono-contactos-antiguos-whatsapp-1400844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/deberias-eliminar-todos-numeros-telefono-contactos-antiguos-whatsapp-3987535.jpg?tf=1200x' alt='¿Por qué deberías eliminar todos los números de teléfono de contactos antiguos en WhatsApp?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tesla-paga-48-dolares-hora-entrenar-robot-optimus-realidad-virtual-1400858'>Tesla paga 48 dólares la hora por entrenar a su robot Optimus, con realidad virtual</a></h4>
     <a href='https://computerhoy.com/tecnologia/tesla-paga-48-dolares-hora-entrenar-robot-optimus-realidad-virtual-1400858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tesla-paga-48-dolares-hora-entrenar-robot-optimus-realidad-virtual-3986524.jpg?tf=1200x' alt='Tesla paga 48 dólares la hora por entrenar a su robot Optimus, con realidad virtual' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/smartwatches-fitbit-desaparecen-siempre-pasa-tienes-1400857'>Los smartwatches de Fitbit desaparecen para siempre: ¿qué pasa si tienes uno?</a></h4>
     <a href='https://computerhoy.com/tecnologia/smartwatches-fitbit-desaparecen-siempre-pasa-tienes-1400857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fitbit-charge-6-3789154.jpg?tf=1200x' alt='Los smartwatches de Fitbit desaparecen para siempre: ¿qué pasa si tienes uno?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/cientificos-podrian-haber-encontrado-forma-salvar-platano-extincion-1400854'>Científicos podrían haber encontrado una forma de salvar al plátano de la extinción</a></h4>
-    <a href='https://computerhoy.com/alimentacion/cientificos-podrian-haber-encontrado-forma-salvar-platano-extincion-1400854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/platanos-3986961.jpg?tf=1200x' alt='Científicos podrían haber encontrado una forma de salvar al plátano de la extinción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/eres-personas-necesitan-televisor-encendido-dormir-podrias-estar-vinculado-estos-8-comportamientos-1400309'>Si eres de las personas que necesitan el televisor encendido para dormir, podrías estar vinculado a estos 8 comportamientos</a></h4>
-    <a href='https://computerhoy.com/life/eres-personas-necesitan-televisor-encendido-dormir-podrias-estar-vinculado-estos-8-comportamientos-1400309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/eres-personas-necesitan-televisor-encendido-dormir-podrias-estar-vinculado-estos-8-comportamientos-3952205.jpg?tf=1200x' alt='Si eres de las personas que necesitan el televisor encendido para dormir, podrías estar vinculado a estos 8 comportamientos' />
     </a>
 </div>
 
