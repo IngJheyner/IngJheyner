@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/estas-12-funciones-van-desaparecer-windows-11-probable-utilices-alguna-ellas-1400558'>Estas 12 funciones van a desaparecer de Windows 11, y es probable que utilices alguna de ellas</a></h4>
-    <a href='https://computerhoy.com/windows/estas-12-funciones-van-desaparecer-windows-11-probable-utilices-alguna-ellas-1400558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-12-funciones-van-desaparecer-windows-11-probable-utilices-alguna-ellas-3965719.jpg?tf=1200x' alt='Estas 12 funciones van a desaparecer de Windows 11, y es probable que utilices alguna de ellas' />
+    <h4><a href='https://computerhoy.com/windows/confirman-pesimas-noticias-70-usuarios-windows-todo-mundo-1400714'>Se confirman las pésimas noticias para el 70% de los usuarios de Windows en todo el mundo</a></h4>
+    <a href='https://computerhoy.com/windows/confirman-pesimas-noticias-70-usuarios-windows-todo-mundo-1400714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/confirman-pesimas-noticias-70-usuarios-windows-todo-mundo-3983692.jpg?tf=1200x' alt='Se confirman las pésimas noticias para el 70% de los usuarios de Windows en todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-conexion-usb-android-auto-coche-1296430'>Cómo solucionar el error de conexión USB de Android Auto en tu coche</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-conexion-usb-android-auto-coche-1296430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/android-auto-3120056.jpg?tf=1200x' alt='Cómo solucionar el error de conexión USB de Android Auto en tu coche' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/funcion-viene-habilitada-defecto-movil-debes-desactivarla-evitar-estafas-1400700'>Esta función viene habilitada por defecto en tu móvil y debes desactivarla para evitar estafas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/funcion-viene-habilitada-defecto-movil-debes-desactivarla-evitar-estafas-1400700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estafas-whatsapp-3983542.jpg?tf=1200x' alt='Esta función viene habilitada por defecto en tu móvil y debes desactivarla para evitar estafas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/filantropo-empresario-escrupulos-nuevo-libro-revela-todas-caras-bill-gates-1400680'>¿Filántropo o empresario sin escrúpulos? Un nuevo libro revela todas las caras de Bill Gates</a></h4>
-    <a href='https://computerhoy.com/life/filantropo-empresario-escrupulos-nuevo-libro-revela-todas-caras-bill-gates-1400680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-predicciones-bill-gates-hicieron-realidad-3278689.jpg?tf=1200x' alt='¿Filántropo o empresario sin escrúpulos? Un nuevo libro revela todas las caras de Bill Gates' />
+    <h4><a href='https://computerhoy.com/hogar/trucos-infalibles-mejorar-senal-router-wifi-1291364'>Trucos infalibles para mejorar la señal de tu router WiFi</a></h4>
+    <a href='https://computerhoy.com/hogar/trucos-infalibles-mejorar-senal-router-wifi-1291364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/mejora-senal-wifi-estos-tres-trucos-3111502.jpg?tf=1200x' alt='Trucos infalibles para mejorar la señal de tu router WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fotografias-instantaneas-4-razones-no-cambiaria-mi-camara-fotos-polaroid-ninguna-otra-1400265'>Fotografías instantáneas: 4 razones por las que no cambiaría mi cámara de fotos Polaroid por ninguna otra</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fotografias-instantaneas-4-razones-no-cambiaria-mi-camara-fotos-polaroid-ninguna-otra-1400265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fotografias-instantaneas-4-razones-no-cambiaria-mi-camara-fotos-polaroid-ninguna-otra-3950541.jpg?tf=1200x' alt='Fotografías instantáneas: 4 razones por las que no cambiaría mi cámara de fotos Polaroid por ninguna otra' />
+    <h4><a href='https://computerhoy.com/motor/ha-costado-estrellar-coche-3-millones-euros-centro-pruebas-nasa-1400694'>Esto es lo que ha costado estrellar un coche de 3 millones de euros en un centro de pruebas de la NASA</a></h4>
+    <a href='https://computerhoy.com/motor/ha-costado-estrellar-coche-3-millones-euros-centro-pruebas-nasa-1400694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ha-costado-estrellar-coche-3-millones-centro-pruebas-nasa-3983360.jpg?tf=1200x' alt='Esto es lo que ha costado estrellar un coche de 3 millones de euros en un centro de pruebas de la NASA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/aliexpress-lia-precio-movil-xiaomi-barato-1310832'>AliExpress la lía con el precio del Redmi Note 13 Pro Plus: lo vende por menos de 300 euros</a></h4>
-    <a href='https://computerhoy.com/android/aliexpress-lia-precio-movil-xiaomi-barato-1310832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-13-pro-plus-5g-3265705.jpg?tf=1200x' alt='AliExpress la lía con el precio del Redmi Note 13 Pro Plus: lo vende por menos de 300 euros' />
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ciencia-ficcion-donald-sutherland-amazon-prime-video-1399630'>La ambiciosa película de ciencia ficción con Donald Sutherland llega ahora a Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-ciencia-ficcion-donald-sutherland-amazon-prime-video-1399630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fracaso-taquilla-pero-ambiciosa-pelicula-ciencia-ficcion-donald-sutherland-llega-ahora-amazon-prime-video-3912645.jpg?tf=1200x' alt='La ambiciosa película de ciencia ficción con Donald Sutherland llega ahora a Amazon Prime Video' />
     </a>
 </div>
 
