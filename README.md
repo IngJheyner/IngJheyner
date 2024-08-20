@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-motivo-nunca-debes-aceptar-desconocido-redes-sociales-1400691'>La Guardia Civil advierte: el motivo por el que nunca debes aceptar a un desconocido en redes sociales</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-motivo-nunca-debes-aceptar-desconocido-redes-sociales-1400691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guardia-civil-advierte-motivo-nunca-debes-aceptar-desconocido-redes-sociales-3983212.jpg?tf=1200x' alt='La Guardia Civil advierte: el motivo por el que nunca debes aceptar a un desconocido en redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/increible-freidora-aire-lidl-tiene-grill-barata-sirve-toda-familia-1400796'>La increíble freidora de aire de Lidl: tiene grill, es barata y sirve para toda la familia</a></h4>
+    <a href='https://computerhoy.com/life/increible-freidora-aire-lidl-tiene-grill-barata-sirve-toda-familia-1400796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/premiado-producto-lidl-alimentos-duren-frescos-tiempo-3209558.jpg?tf=1200x' alt='La increíble freidora de aire de Lidl: tiene grill, es barata y sirve para toda la familia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/robots-convierten-entrenadores-personales-capaces-leer-senales-cerebrales-1400963'>Los robots se convierten en entrenadores personales capaces de leer las señales cerebrales</a></h4>
     <a href='https://computerhoy.com/ciencia/robots-convierten-entrenadores-personales-capaces-leer-senales-cerebrales-1400963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/robots-convierten-entrenadores-personales-capaces-leer-senales-cerebrales-3991441.jpg?tf=1200x' alt='Los robots se convierten en entrenadores personales capaces de leer las señales cerebrales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/figura-star-wars-ha-convertido-juguete-coleccion-caro-historia-1400945'>Una figura de Star Wars se ha convertido en el juguete de colección más caro de la historia</a></h4>
     <a href='https://computerhoy.com/life/figura-star-wars-ha-convertido-juguete-coleccion-caro-historia-1400945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/figura-star-wars-ha-convertido-juguete-coleccion-caro-historia-3991118.jpg?tf=1200x' alt='Una figura de Star Wars se ha convertido en el juguete de colección más caro de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/influencer-barcelona-descubre-nuevo-uso-airtag-apple-1395132'>Un influencer descubre en Barcelona un sorprendente uso de las AirTag de Apple: nadie lo había hecho antes</a></h4>
-    <a href='https://computerhoy.com/apple/influencer-barcelona-descubre-nuevo-uso-airtag-apple-1395132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/airtag-apple-3991281.jpg?tf=1200x' alt='Un influencer descubre en Barcelona un sorprendente uso de las AirTag de Apple: nadie lo había hecho antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/todo-mundo-utiliza-modo-aire-acondicionado-embargo-no-sirve-nada-solo-aumentar-factura-1400948'>Todo el mundo utiliza este modo en el aire acondicionado y, sin embargo, no sirve para nada (solo para aumentar la factura)</a></h4>
-    <a href='https://computerhoy.com/life/todo-mundo-utiliza-modo-aire-acondicionado-embargo-no-sirve-nada-solo-aumentar-factura-1400948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aire-acondicionado-factura-verano-3990645.jpg?tf=1200x' alt='Todo el mundo utiliza este modo en el aire acondicionado y, sin embargo, no sirve para nada (solo para aumentar la factura)' />
     </a>
 </div>
 
