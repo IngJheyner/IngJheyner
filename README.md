@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-tener-dos-aplicaciones-iguales-movil-android-1399966'>Cómo tener dos aplicaciones iguales en un móvil Android y qué beneficios tiene</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-tener-dos-aplicaciones-iguales-movil-android-1399966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-tener-dos-apps-iguales-3945066.jpg?tf=1200x' alt='Cómo tener dos aplicaciones iguales en un móvil Android y qué beneficios tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/routers-tp-link-punto-mira-autoridades-riesgos-seguridad-1401016'>Los routers de TP-Link en el punto de mira de las autoridades por riesgos de seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/routers-tp-link-punto-mira-autoridades-riesgos-seguridad-1401016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/routers-tp-link-punto-mira-autoridades-riesgos-seguridad-3993177.jpg?tf=1200x' alt='Los routers de TP-Link en el punto de mira de las autoridades por riesgos de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/oneplus-buds-pro-3-nuevos-auriculares-doble-dac-cancelacion-ruido-adaptativa-1401026'>OnePlus Buds Pro 3, los nuevos auriculares con doble DAC y cancelación de ruido adaptativa</a></h4>
+    <a href='https://computerhoy.com/audio/oneplus-buds-pro-3-nuevos-auriculares-doble-dac-cancelacion-ruido-adaptativa-1401026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-buds-pro-3-nuevos-auriculares-doble-dac-cancelacion-ruido-adaptativa-3992848.jpg?tf=1200x' alt='OnePlus Buds Pro 3, los nuevos auriculares con doble DAC y cancelación de ruido adaptativa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dejas-cable-cargador-enchufado-enchufe-como-hacemos-casi-todos-necesitas-saber-1400957'>Si dejas el cable del cargador enchufado al enchufe (como hacemos casi todos): necesitas saber esto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dejas-cable-cargador-enchufado-enchufe-como-hacemos-casi-todos-necesitas-saber-1400957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cable-enchufado-3991748.jpg?tf=1200x' alt='Si dejas el cable del cargador enchufado al enchufe (como hacemos casi todos): necesitas saber esto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-funciona-modo-puente-router-wifi-elemento-clave-impuesto-ley-1292154'>Cómo funciona el modo puente de tu router WiFi: un elemento clave impuesto por ley</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-funciona-modo-puente-router-wifi-elemento-clave-impuesto-ley-1292154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/modo-puente-router-wifi-3113626.jpg?tf=1200x' alt='Cómo funciona el modo puente de tu router WiFi: un elemento clave impuesto por ley' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/gran-avance-tecnologico-cientificos-chinos-desarrollan-transistor-redefine-limites-electronica-1400708'>Gran avance tecnológico: científicos chinos desarrollan un transistor que redefine los límites de la electrónica</a></h4>
-    <a href='https://computerhoy.com/ciencia/gran-avance-tecnologico-cientificos-chinos-desarrollan-transistor-redefine-limites-electronica-1400708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/placa-electronica-3983724.jpg?tf=1200x' alt='Gran avance tecnológico: científicos chinos desarrollan un transistor que redefine los límites de la electrónica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-abrir-cerraduras-1395048'>Los cerrajeros hacen saltar las alarmas: esta herramienta abre el 80% de las cerraduras en segundos</a></h4>
-    <a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-abrir-cerraduras-1395048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cerrajeros-dan-voz-alarma-herramienta-abre-80-cerraduras-segundos-3699758.jpg?tf=1200x' alt='Los cerrajeros hacen saltar las alarmas: esta herramienta abre el 80% de las cerraduras en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-carpetas-nuevas-lotes-windows-nombres-personalizados-gracias-excel-1400767'>Cómo crear carpetas nuevas por lotes en Windows con nombres personalizados gracias a Excel</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-carpetas-nuevas-lotes-windows-nombres-personalizados-gracias-excel-1400767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mujer-utilizando-portatil-microsoft-excel-abierto-2974766.jpg?tf=1200x' alt='Cómo crear carpetas nuevas por lotes en Windows con nombres personalizados gracias a Excel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-motivo-nunca-debes-aceptar-desconocido-redes-sociales-1400691'>La Guardia Civil advierte: el motivo por el que nunca debes aceptar a un desconocido en redes sociales</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-motivo-nunca-debes-aceptar-desconocido-redes-sociales-1400691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guardia-civil-advierte-motivo-nunca-debes-aceptar-desconocido-redes-sociales-3983212.jpg?tf=1200x' alt='La Guardia Civil advierte: el motivo por el que nunca debes aceptar a un desconocido en redes sociales' />
     </a>
 </div>
 
