@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/drones-autonomos-ya-revisan-inventario-ikea-1400868'>Drones autónomos ya revisan el inventario en Ikea, junto a los trabajadores</a></h4>
+    <h4><a href='https://computerhoy.com/tutoriales/google-maps-no-aparece-android-auto-solucion-como-recuperarlo-1400866'>¿Google Maps no aparece en Android Auto? Solución y cómo recuperarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/google-maps-no-aparece-android-auto-solucion-como-recuperarlo-1400866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-maps-no-aparece-android-auto-solucion-como-recuperarlo-3988123.jpg?tf=1200x' alt='¿Google Maps no aparece en Android Auto? Solución y cómo recuperarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/drones-autonomos-ya-revisan-inventario-ikea-1400868'>Drones autónomos con IA ya revisan el inventario en Ikea</a></h4>
     <a href='https://computerhoy.com/tecnologia/drones-autonomos-ya-revisan-inventario-ikea-1400868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/drones-autonomos-revisan-inventario-ikea-trabajadores-no-hace-ninguna-gracia-3987391.jpg?tf=1200x' alt='Drones autónomos ya revisan el inventario en Ikea, junto a los trabajadores' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/drones-autonomos-revisan-inventario-ikea-trabajadores-no-hace-ninguna-gracia-3987391.jpg?tf=1200x' alt='Drones autónomos con IA ya revisan el inventario en Ikea' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sistema-permite-colocar-enchufes-cualquier-lugar-pasando-electricidad-traves-ventanas-1400859'>Este sistema permite colocar enchufes en cualquier lugar pasando la electricidad a través de las ventanas</a></h4>
     <a href='https://computerhoy.com/tecnologia/sistema-permite-colocar-enchufes-cualquier-lugar-pasando-electricidad-traves-ventanas-1400859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/power-mole-3986963.jpg?tf=1200x' alt='Este sistema permite colocar enchufes en cualquier lugar pasando la electricidad a través de las ventanas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatches-fitbit-desaparecen-siempre-pasa-tienes-1400857'>Los smartwatches de Fitbit desaparecen para siempre: ¿qué pasa si tienes uno?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatches-fitbit-desaparecen-siempre-pasa-tienes-1400857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fitbit-charge-6-3789154.jpg?tf=1200x' alt='Los smartwatches de Fitbit desaparecen para siempre: ¿qué pasa si tienes uno?' />
     </a>
 </div>
 
