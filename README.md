@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-1401042'>¿Qué ocurre si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-1401042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-3994980.jpg?tf=1200x' alt='¿Qué ocurre si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/primer-paseo-espacial-spacex-elon-musk-1401055'>"Va a ser épico": Elon Musk anuncia el primer paseo espacial de SpaceX</a></h4>
     <a href='https://computerhoy.com/espacio/primer-paseo-espacial-spacex-elon-musk-1401055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/va-ser-epico-elon-musk-anuncia-primer-paseo-espacial-spacex-3994534.jpg?tf=1200x' alt='"Va a ser épico": Elon Musk anuncia el primer paseo espacial de SpaceX' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/usos-desconocidos-puertos-usb-smart-tv-1251216'>Usos geniales de los puertos USB de tu Smart TV que quizá no estés aprovechando</a></h4>
     <a href='https://computerhoy.com/tv/usos-desconocidos-puertos-usb-smart-tv-1251216' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/smart-tv-usb-3992076.jpg?tf=1200x' alt='Usos geniales de los puertos USB de tu Smart TV que quizá no estés aprovechando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/consola-atari-7800-plus-1401049'>Una mítica consola Atari de 1986 vuelve a la vida en 2024</a></h4>
-    <a href='https://computerhoy.com/gaming/consola-atari-7800-plus-1401049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mitica-consola-atari-1986-vuelve-vida-2024-3993901.jpg?tf=1200x' alt='Una mítica consola Atari de 1986 vuelve a la vida en 2024' />
     </a>
 </div>
 
