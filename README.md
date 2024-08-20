@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/ya-puedes-buscar-agujeros-negros-movil-pc-1400875'>Ya puedes buscar agujeros negros con tu móvil o PC</a></h4>
+    <a href='https://computerhoy.com/espacio/ya-puedes-buscar-agujeros-negros-movil-pc-1400875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ya-puedes-buscar-agujeros-negros-movil-pc-3989413.jpg?tf=1200x' alt='Ya puedes buscar agujeros negros con tu móvil o PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/latas-refresco-lugar-son-diferentes-resto-mundo-1399466'>Por qué las latas de refresco de este lugar son diferentes a las del resto del mundo</a></h4>
+    <a href='https://computerhoy.com/life/latas-refresco-lugar-son-diferentes-resto-mundo-1399466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/latas-refresco-3984366.jpg?tf=1200x' alt='Por qué las latas de refresco de este lugar son diferentes a las del resto del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/surfshark-vpn-barata-dispositivos-ilimitados-1398553'>Surfshark deja su VPN más barata que nunca y tiene un arma secreta: dispositivos ilimitados</a></h4>
+    <a href='https://computerhoy.com/tecnologia/surfshark-vpn-barata-dispositivos-ilimitados-1398553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/surfshark-vpn-3303100.jpg?tf=1200x' alt='Surfshark deja su VPN más barata que nunca y tiene un arma secreta: dispositivos ilimitados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/the-crimson-diamond-aventura-texto-retro-monitor-ega-1400872'>Este juego retro solo lo entenderán quienes tuvieron un monitor EGA hace 40 años</a></h4>
     <a href='https://computerhoy.com/gaming/the-crimson-diamond-aventura-texto-retro-monitor-ega-1400872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1724110817287-3988269.jpg?tf=1200x' alt='Este juego retro solo lo entenderán quienes tuvieron un monitor EGA hace 40 años' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cuando-somos-infelices-estudio-cientifico-revela-momentos-oscuros-largo-vida-1400731'>¿Cuándo somos más infelices? Un estudio científico revela los momentos más oscuros a lo largo de nuestra vida</a></h4>
     <a href='https://computerhoy.com/life/cuando-somos-infelices-estudio-cientifico-revela-momentos-oscuros-largo-vida-1400731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tristeza-3984197.jpg?tf=1200x' alt='¿Cuándo somos más infelices? Un estudio científico revela los momentos más oscuros a lo largo de nuestra vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/google-maps-no-aparece-android-auto-solucion-como-recuperarlo-1400866'>¿Google Maps no aparece en Android Auto? Solución y cómo recuperarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/google-maps-no-aparece-android-auto-solucion-como-recuperarlo-1400866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-maps-no-aparece-android-auto-solucion-como-recuperarlo-3988123.jpg?tf=1200x' alt='¿Google Maps no aparece en Android Auto? Solución y cómo recuperarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/drones-autonomos-ya-revisan-inventario-ikea-1400868'>Drones autónomos con IA ya revisan el inventario en Ikea</a></h4>
-    <a href='https://computerhoy.com/tecnologia/drones-autonomos-ya-revisan-inventario-ikea-1400868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/drones-autonomos-revisan-inventario-ikea-trabajadores-no-hace-ninguna-gracia-3987391.jpg?tf=1200x' alt='Drones autónomos con IA ya revisan el inventario en Ikea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/deberias-eliminar-todos-numeros-telefono-contactos-antiguos-whatsapp-1400844'>¿Por qué deberías eliminar todos los números de teléfono de contactos antiguos en WhatsApp?</a></h4>
-    <a href='https://computerhoy.com/apps/deberias-eliminar-todos-numeros-telefono-contactos-antiguos-whatsapp-1400844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/deberias-eliminar-todos-numeros-telefono-contactos-antiguos-whatsapp-3987535.jpg?tf=1200x' alt='¿Por qué deberías eliminar todos los números de teléfono de contactos antiguos en WhatsApp?' />
     </a>
 </div>
 
