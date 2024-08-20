@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/calibracion-imagen-perfecta-smart-tv-todas-marcas-1275060'>La calibración de imagen perfecta para tu Smart TV (y que funciona en todas las marcas)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/calibracion-imagen-perfecta-smart-tv-todas-marcas-1275060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/calibrar-smart-tv-3083616.jpg?tf=1200x' alt='La calibración de imagen perfecta para tu Smart TV (y que funciona en todas las marcas)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-quiere-ampliar-horizontes-meterse-sector-lleno-fracasos-1400903'>Apple quiere ampliar sus horizontes y meterse en un sector lleno de fracasos</a></h4>
+    <a href='https://computerhoy.com/apple/apple-quiere-ampliar-horizontes-meterse-sector-lleno-fracasos-1400903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-cayendose-barranco-3990464.jpg?tf=1200x' alt='Apple quiere ampliar sus horizontes y meterse en un sector lleno de fracasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mejores-chollos-vuelta-al-cole-aliexpress-1400907'>5 chollazos de la Vuelta al Cole de AliExpress en tecnología que no volveremos a ver en meses</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejores-chollos-vuelta-al-cole-aliexpress-1400907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vuelta-cole-aliexpress-3990149.jpg?tf=1200x' alt='5 chollazos de la Vuelta al Cole de AliExpress en tecnología que no volveremos a ver en meses' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cosas-waze-hace-mejor-google-maps-merece-pena-darle-oportunidad-1275282'>Cosas que Waze hace mejor que Google Maps y por las que merece la pena darle una oportunidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/cosas-waze-hace-mejor-google-maps-merece-pena-darle-oportunidad-1275282' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/waze-google-maps-2060535.jpg?tf=1200x' alt='Cosas que Waze hace mejor que Google Maps y por las que merece la pena darle una oportunidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/bateria-larga-duracion-rendimiento-top-podria-ser-iphone-16-pro-max-1400891'>Batería de larga duración y rendimiento top: así podría ser el iPhone 16 Pro Max </a></h4>
-    <a href='https://computerhoy.com/apple/bateria-larga-duracion-rendimiento-top-podria-ser-iphone-16-pro-max-1400891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-16-tendra-nuevo-boton-captura-todo-debes-saber-funcionamiento-3951633.jpg?tf=1200x' alt='Batería de larga duración y rendimiento top: así podría ser el iPhone 16 Pro Max ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-evitar-estafas-no-caer-trampa-productos-falsos-amazon-1400427'>Cómo evitar estafas y no caer en la trampa de los productos falsos en Amazon</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-evitar-estafas-no-caer-trampa-productos-falsos-amazon-1400427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-evitar-estafas-no-caer-trampa-productos-falsos-amazon-3961850.jpg?tf=1200x' alt='Cómo evitar estafas y no caer en la trampa de los productos falsos en Amazon' />
     </a>
 </div>
 
