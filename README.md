@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cosas-waze-hace-mejor-google-maps-merece-pena-darle-oportunidad-1275282'>Cosas que Waze hace mejor que Google Maps y por las que merece la pena darle una oportunidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cosas-waze-hace-mejor-google-maps-merece-pena-darle-oportunidad-1275282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/waze-google-maps-2060535.jpg?tf=1200x' alt='Cosas que Waze hace mejor que Google Maps y por las que merece la pena darle una oportunidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/bateria-larga-duracion-rendimiento-top-podria-ser-iphone-16-pro-max-1400891'>Batería de larga duración y rendimiento top: así podría ser el iPhone 16 Pro Max </a></h4>
+    <a href='https://computerhoy.com/apple/bateria-larga-duracion-rendimiento-top-podria-ser-iphone-16-pro-max-1400891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-16-tendra-nuevo-boton-captura-todo-debes-saber-funcionamiento-3951633.jpg?tf=1200x' alt='Batería de larga duración y rendimiento top: así podría ser el iPhone 16 Pro Max ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-evitar-estafas-no-caer-trampa-productos-falsos-amazon-1400427'>Cómo evitar estafas y no caer en la trampa de los productos falsos en Amazon</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-evitar-estafas-no-caer-trampa-productos-falsos-amazon-1400427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-evitar-estafas-no-caer-trampa-productos-falsos-amazon-3961850.jpg?tf=1200x' alt='Cómo evitar estafas y no caer en la trampa de los productos falsos en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/olvida-kindle-tablet-tinta-electronica-mas-potente-1376854'>Olvida los Kindle: esta tablet con tinta electrónica es más potente y completa para estudiar y trabajar</a></h4>
     <a href='https://computerhoy.com/tecnologia/olvida-kindle-tablet-tinta-electronica-mas-potente-1376854' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/boox-note-air3-monochrome-3295234.jpg?tf=1200x' alt='Olvida los Kindle: esta tablet con tinta electrónica es más potente y completa para estudiar y trabajar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/pide-ayuda-porque-ve-casa-vecino-pared-ventana-cerrada-1400879'>Pide ayuda porque ve la casa de su vecino en la pared, con la ventana cerrada</a></h4>
     <a href='https://computerhoy.com/ciencia/pide-ayuda-porque-ve-casa-vecino-pared-ventana-cerrada-1400879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pide-ayuda-porque-ve-casa-vecino-pared-ventana-cerrada-3989703.jpg?tf=1200x' alt='Pide ayuda porque ve la casa de su vecino en la pared, con la ventana cerrada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/quien-bill-gates-fundador-microsoft-atrae-tanto-dinero-como-bulos-1400452'>Quién es Bill Gates, el fundador de Microsoft que atrae tanto al dinero como a los bulos</a></h4>
-    <a href='https://computerhoy.com/windows/quien-bill-gates-fundador-microsoft-atrae-tanto-dinero-como-bulos-1400452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bill-gates-cofundador-microsoft-3964792.jpg?tf=1200x' alt='Quién es Bill Gates, el fundador de Microsoft que atrae tanto al dinero como a los bulos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-logitech-empresa-ratones-hizo-hueco-historia-informatica-1400224'>Todo sobre Logitech, la empresa de ratones que se hizo un hueco en la historia de la informática</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-logitech-empresa-ratones-hizo-hueco-historia-informatica-1400224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/logitech-3950079.jpg?tf=1200x' alt='Todo sobre Logitech, la empresa de ratones que se hizo un hueco en la historia de la informática' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/dyson-purifier-cool-formaldehyde-mejor-ventilador-purificador-he-probado-nunca-me-ha-salvado-verano-1399925'>Dyson Purifier Cool Formaldehyde es el mejor ventilador purificador que he probado nunca y me ha salvado este verano</a></h4>
-    <a href='https://computerhoy.com/analisis/dyson-purifier-cool-formaldehyde-mejor-ventilador-purificador-he-probado-nunca-me-ha-salvado-verano-1399925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/diseno-purifier-cool-formaldehyde-3950082.jpg?tf=1200x' alt='Dyson Purifier Cool Formaldehyde es el mejor ventilador purificador que he probado nunca y me ha salvado este verano' />
     </a>
 </div>
 
