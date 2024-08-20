@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-quiere-blindar-nombres-usuario-pin-seguridad-1401038'>WhatsApp quiere blindar los nombres de usuario con un PIN de seguridad</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-quiere-blindar-nombres-usuario-pin-seguridad-1401038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-3993751.jpg?tf=1200x' alt='WhatsApp quiere blindar los nombres de usuario con un PIN de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-falsificar-ubicacion-google-chrome-1400873'>Cómo ocultar o falsificar tu ubicación en Google Chrome</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-falsificar-ubicacion-google-chrome-1400873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-ocultar-falsificar-ubicacion-google-chrome-3989558.jpg?tf=1200x' alt='Cómo ocultar o falsificar tu ubicación en Google Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/que-hacer-desconocido-te-escribe-whatsapp-1394571'>Qué hacer y cómo reaccionar si un desconocido te escribe en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/que-hacer-desconocido-te-escribe-whatsapp-1394571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-whatsapp-3683489.jpg?tf=1200x' alt='Qué hacer y cómo reaccionar si un desconocido te escribe en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-tener-dos-aplicaciones-iguales-movil-android-1399966'>Cómo tener dos aplicaciones iguales en un móvil Android y qué beneficios tiene</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-tener-dos-aplicaciones-iguales-movil-android-1399966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-tener-dos-apps-iguales-3945066.jpg?tf=1200x' alt='Cómo tener dos aplicaciones iguales en un móvil Android y qué beneficios tiene' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/routers-tp-link-punto-mira-autoridades-riesgos-seguridad-1401016'>Los routers de TP-Link en el punto de mira de las autoridades por riesgos de seguridad</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/routers-tp-link-punto-mira-autoridades-riesgos-seguridad-1401016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/routers-tp-link-punto-mira-autoridades-riesgos-seguridad-3993177.jpg?tf=1200x' alt='Los routers de TP-Link en el punto de mira de las autoridades por riesgos de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/oneplus-buds-pro-3-nuevos-auriculares-doble-dac-cancelacion-ruido-adaptativa-1401026'>OnePlus Buds Pro 3, los nuevos auriculares con doble DAC y cancelación de ruido adaptativa</a></h4>
-    <a href='https://computerhoy.com/audio/oneplus-buds-pro-3-nuevos-auriculares-doble-dac-cancelacion-ruido-adaptativa-1401026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-buds-pro-3-nuevos-auriculares-doble-dac-cancelacion-ruido-adaptativa-3992848.jpg?tf=1200x' alt='OnePlus Buds Pro 3, los nuevos auriculares con doble DAC y cancelación de ruido adaptativa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dejas-cable-cargador-enchufado-enchufe-como-hacemos-casi-todos-necesitas-saber-1400957'>Si dejas el cable del cargador enchufado al enchufe (como hacemos casi todos): necesitas saber esto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dejas-cable-cargador-enchufado-enchufe-como-hacemos-casi-todos-necesitas-saber-1400957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cable-enchufado-3991748.jpg?tf=1200x' alt='Si dejas el cable del cargador enchufado al enchufe (como hacemos casi todos): necesitas saber esto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-funciona-modo-puente-router-wifi-elemento-clave-impuesto-ley-1292154'>Cómo funciona el modo puente de tu router WiFi: un elemento clave impuesto por ley</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-funciona-modo-puente-router-wifi-elemento-clave-impuesto-ley-1292154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/modo-puente-router-wifi-3113626.jpg?tf=1200x' alt='Cómo funciona el modo puente de tu router WiFi: un elemento clave impuesto por ley' />
     </a>
 </div>
 
