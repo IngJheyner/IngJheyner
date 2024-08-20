@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/principal-motivo-lavavajillas-hace-mucho-ruido-ocu-1401043'>Este es el principal motivo por el que tu lavavajillas hace mucho ruido, según la OCU</a></h4>
+    <a href='https://computerhoy.com/life/principal-motivo-lavavajillas-hace-mucho-ruido-ocu-1401043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lavavajillas-3993902.jpg?tf=1200x' alt='Este es el principal motivo por el que tu lavavajillas hace mucho ruido, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/sirve-boton-recirculacion-coche-como-utilizarlo-correctamente-1400970'>Para qué sirve el botón de recirculación del coche y cómo utilizarlo correctamente</a></h4>
+    <a href='https://computerhoy.com/motor/sirve-boton-recirculacion-coche-como-utilizarlo-correctamente-1400970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sirve-boton-recirculacion-coche-como-utilizarlo-correctamente-3991756.jpg?tf=1200x' alt='Para qué sirve el botón de recirculación del coche y cómo utilizarlo correctamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/principal-razon-muchos-no-podran-actualizarse-nuevo-iphone-16-1401041'>Esta es la principal razón por la que muchos no podrán actualizarse al nuevo iPhone 16</a></h4>
+    <a href='https://computerhoy.com/apple/principal-razon-muchos-no-podran-actualizarse-nuevo-iphone-16-1401041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Esta es la principal razón por la que muchos no podrán actualizarse al nuevo iPhone 16' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/solo-tienes-dos-dias-ver-amazon-prime-video-pelicula-anime-ciberpunk-cambio-ciencia-ficcion-siempre-1400973'>Solo tienes dos días para ver en Amazon Prime Video la película anime ciberpunk que cambió la ciencia ficción para siempre</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/solo-tienes-dos-dias-ver-amazon-prime-video-pelicula-anime-ciberpunk-cambio-ciencia-ficcion-siempre-1400973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/solo-tienes-dos-dias-ver-amazon-prime-video-pelicula-anime-ciberpunk-cambio-ciencia-ficcion-siempre-3991447.jpg?tf=1200x' alt='Solo tienes dos días para ver en Amazon Prime Video la película anime ciberpunk que cambió la ciencia ficción para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-quiere-blindar-nombres-usuario-pin-seguridad-1401038'>WhatsApp quiere blindar los nombres de usuario con un PIN de seguridad</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-quiere-blindar-nombres-usuario-pin-seguridad-1401038' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-3993751.jpg?tf=1200x' alt='WhatsApp quiere blindar los nombres de usuario con un PIN de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-falsificar-ubicacion-google-chrome-1400873'>Cómo ocultar o falsificar tu ubicación en Google Chrome</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-falsificar-ubicacion-google-chrome-1400873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-ocultar-falsificar-ubicacion-google-chrome-3989558.jpg?tf=1200x' alt='Cómo ocultar o falsificar tu ubicación en Google Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/que-hacer-desconocido-te-escribe-whatsapp-1394571'>Qué hacer y cómo reaccionar si un desconocido te escribe en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/que-hacer-desconocido-te-escribe-whatsapp-1394571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-whatsapp-3683489.jpg?tf=1200x' alt='Qué hacer y cómo reaccionar si un desconocido te escribe en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-tener-dos-aplicaciones-iguales-movil-android-1399966'>Cómo tener dos aplicaciones iguales en un móvil Android y qué beneficios tiene</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-tener-dos-aplicaciones-iguales-movil-android-1399966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-tener-dos-apps-iguales-3945066.jpg?tf=1200x' alt='Cómo tener dos aplicaciones iguales en un móvil Android y qué beneficios tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/routers-tp-link-punto-mira-autoridades-riesgos-seguridad-1401016'>Los routers de TP-Link en el punto de mira de las autoridades por riesgos de seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/routers-tp-link-punto-mira-autoridades-riesgos-seguridad-1401016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/routers-tp-link-punto-mira-autoridades-riesgos-seguridad-3993177.jpg?tf=1200x' alt='Los routers de TP-Link en el punto de mira de las autoridades por riesgos de seguridad' />
     </a>
 </div>
 
