@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/waze-google-maps-mejor-app-aviso-radares-camaras-1399876'>Hasta la vista Waze y Google Maps: esta nueva app te alerta mejor de todos los radares y cámaras</a></h4>
+    <a href='https://computerhoy.com/apps/waze-google-maps-mejor-app-aviso-radares-camaras-1399876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aplicacion-mejor-google-maps-waze-detectar-todo-tipo-radares-3934931.jpg?tf=1200x' alt='Hasta la vista Waze y Google Maps: esta nueva app te alerta mejor de todos los radares y cámaras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/hackberrypi-mejor-alternativa-flipper-zero-1399361'>HackberryPi, la Raspberry Pi para hackear que deja al todopoderoso Flipper Zero en un simple juguete</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hackberrypi-mejor-alternativa-flipper-zero-1399361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hackberrypi-raspberry-pi-hackear-convierte-flipper-zero-juguete-3902861.jpg?tf=1200x' alt='HackberryPi, la Raspberry Pi para hackear que deja al todopoderoso Flipper Zero en un simple juguete' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/como-afectaran-meses-espacio-dos-astronautas-boeing-estacion-espacial-internacional-1400929'>Cómo afectarán los meses en el espacio a los dos astronautas de Boeing en la Estación Espacial Internacional</a></h4>
     <a href='https://computerhoy.com/espacio/como-afectaran-meses-espacio-dos-astronautas-boeing-estacion-espacial-internacional-1400929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-afectaran-meses-espacio-dos-astronautas-boeing-estacion-espacial-internacional-3990797.jpg?tf=1200x' alt='Cómo afectarán los meses en el espacio a los dos astronautas de Boeing en la Estación Espacial Internacional' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/pon-ordenador-7000-mb-segundo-ssd-ultrarrapido-miravia-ha-rebajado-23-963603'>Pon tu ordenador a 7000 MB por segundo con este SSD ultrarrápido que Miravia ha rebajado en un 23%</a></h4>
     <a href='https://computerhoy.com/amazon/pon-ordenador-7000-mb-segundo-ssd-ultrarrapido-miravia-ha-rebajado-23-963603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/wd-black-sn850-2530257.jpg?tf=1200x' alt='Pon tu ordenador a 7000 MB por segundo con este SSD ultrarrápido que Miravia ha rebajado en un 23%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nueva-ley-gobierno-no-podras-contratar-luz-gas-mediante-llamada-salvo-pidas-1400900'>Nueva ley del Gobierno: no podrás contratar la luz y el gas mediante llamada, salvo que lo pidas</a></h4>
-    <a href='https://computerhoy.com/life/nueva-ley-gobierno-no-podras-contratar-luz-gas-mediante-llamada-salvo-pidas-1400900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-ley-gobierno-no-podras-contratar-luz-gas-mediante-llamada-salvo-pidas-3990457.jpg?tf=1200x' alt='Nueva ley del Gobierno: no podrás contratar la luz y el gas mediante llamada, salvo que lo pidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/calibracion-imagen-perfecta-smart-tv-todas-marcas-1275060'>La calibración de imagen perfecta para tu Smart TV (y que funciona en todas las marcas)</a></h4>
-    <a href='https://computerhoy.com/tutoriales/calibracion-imagen-perfecta-smart-tv-todas-marcas-1275060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/calibrar-smart-tv-3083616.jpg?tf=1200x' alt='La calibración de imagen perfecta para tu Smart TV (y que funciona en todas las marcas)' />
     </a>
 </div>
 
