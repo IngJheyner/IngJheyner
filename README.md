@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-funciona-modo-puente-router-wifi-elemento-clave-impuesto-ley-1292154'>Cómo funciona el modo puente de tu router WiFi: un elemento clave impuesto por ley</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-funciona-modo-puente-router-wifi-elemento-clave-impuesto-ley-1292154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/modo-puente-router-wifi-3113626.jpg?tf=1200x' alt='Cómo funciona el modo puente de tu router WiFi: un elemento clave impuesto por ley' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/gran-avance-tecnologico-cientificos-chinos-desarrollan-transistor-redefine-limites-electronica-1400708'>Gran avance tecnológico: científicos chinos desarrollan un transistor que redefine los límites de la electrónica</a></h4>
+    <a href='https://computerhoy.com/ciencia/gran-avance-tecnologico-cientificos-chinos-desarrollan-transistor-redefine-limites-electronica-1400708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/placa-electronica-3983724.jpg?tf=1200x' alt='Gran avance tecnológico: científicos chinos desarrollan un transistor que redefine los límites de la electrónica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-abrir-cerraduras-1395048'>Los cerrajeros hacen saltar las alarmas: esta herramienta abre el 80% de las cerraduras en segundos</a></h4>
+    <a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-abrir-cerraduras-1395048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cerrajeros-dan-voz-alarma-herramienta-abre-80-cerraduras-segundos-3699758.jpg?tf=1200x' alt='Los cerrajeros hacen saltar las alarmas: esta herramienta abre el 80% de las cerraduras en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-crear-carpetas-nuevas-lotes-windows-nombres-personalizados-gracias-excel-1400767'>Cómo crear carpetas nuevas por lotes en Windows con nombres personalizados gracias a Excel</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-crear-carpetas-nuevas-lotes-windows-nombres-personalizados-gracias-excel-1400767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mujer-utilizando-portatil-microsoft-excel-abierto-2974766.jpg?tf=1200x' alt='Cómo crear carpetas nuevas por lotes en Windows con nombres personalizados gracias a Excel' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-motivo-nunca-debes-aceptar-desconocido-redes-sociales-1400691'>La Guardia Civil advierte: el motivo por el que nunca debes aceptar a un desconocido en redes sociales</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-motivo-nunca-debes-aceptar-desconocido-redes-sociales-1400691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guardia-civil-advierte-motivo-nunca-debes-aceptar-desconocido-redes-sociales-3983212.jpg?tf=1200x' alt='La Guardia Civil advierte: el motivo por el que nunca debes aceptar a un desconocido en redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/increible-freidora-aire-lidl-tiene-grill-barata-sirve-toda-familia-1400796'>La increíble freidora de aire de Lidl: tiene grill, es barata y sirve para toda la familia</a></h4>
-    <a href='https://computerhoy.com/life/increible-freidora-aire-lidl-tiene-grill-barata-sirve-toda-familia-1400796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/premiado-producto-lidl-alimentos-duren-frescos-tiempo-3209558.jpg?tf=1200x' alt='La increíble freidora de aire de Lidl: tiene grill, es barata y sirve para toda la familia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/robots-convierten-entrenadores-personales-capaces-leer-senales-cerebrales-1400963'>Los robots se convierten en entrenadores personales capaces de leer las señales cerebrales</a></h4>
-    <a href='https://computerhoy.com/ciencia/robots-convierten-entrenadores-personales-capaces-leer-senales-cerebrales-1400963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/robots-convierten-entrenadores-personales-capaces-leer-senales-cerebrales-3991441.jpg?tf=1200x' alt='Los robots se convierten en entrenadores personales capaces de leer las señales cerebrales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/10-inventos-antigua-grecia-perduran-tiempo-1293030'>10 grandes inventos de la antigua Grecia que perduran en el tiempo</a></h4>
-    <a href='https://computerhoy.com/internet/10-inventos-antigua-grecia-perduran-tiempo-1293030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inventos-han-perdurado-tiempo-3113970.jpg?tf=1200x' alt='10 grandes inventos de la antigua Grecia que perduran en el tiempo' />
     </a>
 </div>
 
