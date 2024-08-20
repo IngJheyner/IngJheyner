@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/influencer-barcelona-descubre-nuevo-uso-airtag-apple-1395132'>Un influencer descubre en Barcelona un sorprendente uso de las AirTag de Apple: nadie lo había hecho antes</a></h4>
+    <a href='https://computerhoy.com/apple/influencer-barcelona-descubre-nuevo-uso-airtag-apple-1395132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/airtag-apple-3991281.jpg?tf=1200x' alt='Un influencer descubre en Barcelona un sorprendente uso de las AirTag de Apple: nadie lo había hecho antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/como-afectaran-meses-espacio-dos-astronautas-boeing-estacion-espacial-internacional-1400929'>Cómo afectarán los meses en el espacio a los dos astronautas de Boeing en la Estación Espacial Internacional</a></h4>
+    <a href='https://computerhoy.com/espacio/como-afectaran-meses-espacio-dos-astronautas-boeing-estacion-espacial-internacional-1400929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-afectaran-meses-espacio-dos-astronautas-boeing-estacion-espacial-internacional-3990797.jpg?tf=1200x' alt='Cómo afectarán los meses en el espacio a los dos astronautas de Boeing en la Estación Espacial Internacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/pon-ordenador-7000-mb-segundo-ssd-ultrarrapido-miravia-ha-rebajado-23-963603'>Pon tu ordenador a 7000 MB por segundo con este SSD ultrarrápido que Miravia ha rebajado en un 23%</a></h4>
+    <a href='https://computerhoy.com/amazon/pon-ordenador-7000-mb-segundo-ssd-ultrarrapido-miravia-ha-rebajado-23-963603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/wd-black-sn850-2530257.jpg?tf=1200x' alt='Pon tu ordenador a 7000 MB por segundo con este SSD ultrarrápido que Miravia ha rebajado en un 23%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/nueva-ley-gobierno-no-podras-contratar-luz-gas-mediante-llamada-salvo-pidas-1400900'>Nueva ley del Gobierno: no podrás contratar la luz y el gas mediante llamada, salvo que lo pidas</a></h4>
+    <a href='https://computerhoy.com/life/nueva-ley-gobierno-no-podras-contratar-luz-gas-mediante-llamada-salvo-pidas-1400900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-ley-gobierno-no-podras-contratar-luz-gas-mediante-llamada-salvo-pidas-3990457.jpg?tf=1200x' alt='Nueva ley del Gobierno: no podrás contratar la luz y el gas mediante llamada, salvo que lo pidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/calibracion-imagen-perfecta-smart-tv-todas-marcas-1275060'>La calibración de imagen perfecta para tu Smart TV (y que funciona en todas las marcas)</a></h4>
     <a href='https://computerhoy.com/tutoriales/calibracion-imagen-perfecta-smart-tv-todas-marcas-1275060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/calibrar-smart-tv-3083616.jpg?tf=1200x' alt='La calibración de imagen perfecta para tu Smart TV (y que funciona en todas las marcas)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-quiere-ampliar-horizontes-meterse-sector-lleno-fracasos-1400903'>Apple quiere ampliar sus horizontes y meterse en un sector lleno de fracasos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-quiere-ampliar-horizontes-meterse-sector-lleno-fracasos-1400903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-cayendose-barranco-3990464.jpg?tf=1200x' alt='Apple quiere ampliar sus horizontes y meterse en un sector lleno de fracasos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-chollos-vuelta-al-cole-aliexpress-1400907'>5 chollazos de la Vuelta al Cole de AliExpress en tecnología que no volveremos a ver en meses</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-chollos-vuelta-al-cole-aliexpress-1400907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vuelta-cole-aliexpress-3990149.jpg?tf=1200x' alt='5 chollazos de la Vuelta al Cole de AliExpress en tecnología que no volveremos a ver en meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-regala-propietarios-cualquier-galaxy-nuevas-inesperadas-funciones-1400899'>Samsung "regala" a los propietarios de cualquier Galaxy nuevas e inesperadas funciones</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-regala-propietarios-cualquier-galaxy-nuevas-inesperadas-funciones-1400899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-galaxy-a55-3295170.jpg?tf=1200x' alt='Samsung "regala" a los propietarios de cualquier Galaxy nuevas e inesperadas funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cosas-waze-hace-mejor-google-maps-merece-pena-darle-oportunidad-1275282'>Cosas que Waze hace mejor que Google Maps y por las que merece la pena darle una oportunidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cosas-waze-hace-mejor-google-maps-merece-pena-darle-oportunidad-1275282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/waze-google-maps-2060535.jpg?tf=1200x' alt='Cosas que Waze hace mejor que Google Maps y por las que merece la pena darle una oportunidad' />
     </a>
 </div>
 
