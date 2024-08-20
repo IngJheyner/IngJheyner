@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-carpetas-nuevas-lotes-windows-nombres-personalizados-gracias-excel-1400767'>Cómo crear carpetas nuevas por lotes en Windows con nombres personalizados gracias a Excel</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-carpetas-nuevas-lotes-windows-nombres-personalizados-gracias-excel-1400767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mujer-utilizando-portatil-microsoft-excel-abierto-2974766.jpg?tf=1200x' alt='Cómo crear carpetas nuevas por lotes en Windows con nombres personalizados gracias a Excel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-motivo-nunca-debes-aceptar-desconocido-redes-sociales-1400691'>La Guardia Civil advierte: el motivo por el que nunca debes aceptar a un desconocido en redes sociales</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-motivo-nunca-debes-aceptar-desconocido-redes-sociales-1400691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guardia-civil-advierte-motivo-nunca-debes-aceptar-desconocido-redes-sociales-3983212.jpg?tf=1200x' alt='La Guardia Civil advierte: el motivo por el que nunca debes aceptar a un desconocido en redes sociales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/10-inventos-antigua-grecia-perduran-tiempo-1293030'>10 grandes inventos de la antigua Grecia que perduran en el tiempo</a></h4>
     <a href='https://computerhoy.com/internet/10-inventos-antigua-grecia-perduran-tiempo-1293030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inventos-han-perdurado-tiempo-3113970.jpg?tf=1200x' alt='10 grandes inventos de la antigua Grecia que perduran en el tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/figura-star-wars-ha-convertido-juguete-coleccion-caro-historia-1400945'>Una figura de Star Wars se ha convertido en el juguete de colección más caro de la historia</a></h4>
-    <a href='https://computerhoy.com/life/figura-star-wars-ha-convertido-juguete-coleccion-caro-historia-1400945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/figura-star-wars-ha-convertido-juguete-coleccion-caro-historia-3991118.jpg?tf=1200x' alt='Una figura de Star Wars se ha convertido en el juguete de colección más caro de la historia' />
     </a>
 </div>
 
