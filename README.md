@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/robots-convierten-entrenadores-personales-capaces-leer-senales-cerebrales-1400963'>Los robots se convierten en entrenadores personales capaces de leer las señales cerebrales</a></h4>
+    <a href='https://computerhoy.com/ciencia/robots-convierten-entrenadores-personales-capaces-leer-senales-cerebrales-1400963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/robots-convierten-entrenadores-personales-capaces-leer-senales-cerebrales-3991441.jpg?tf=1200x' alt='Los robots se convierten en entrenadores personales capaces de leer las señales cerebrales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/10-inventos-antigua-grecia-perduran-tiempo-1293030'>10 grandes inventos de la antigua Grecia que perduran en el tiempo</a></h4>
     <a href='https://computerhoy.com/internet/10-inventos-antigua-grecia-perduran-tiempo-1293030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inventos-han-perdurado-tiempo-3113970.jpg?tf=1200x' alt='10 grandes inventos de la antigua Grecia que perduran en el tiempo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/todo-mundo-utiliza-modo-aire-acondicionado-embargo-no-sirve-nada-solo-aumentar-factura-1400948'>Todo el mundo utiliza este modo en el aire acondicionado y, sin embargo, no sirve para nada (solo para aumentar la factura)</a></h4>
     <a href='https://computerhoy.com/life/todo-mundo-utiliza-modo-aire-acondicionado-embargo-no-sirve-nada-solo-aumentar-factura-1400948' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aire-acondicionado-factura-verano-3990645.jpg?tf=1200x' alt='Todo el mundo utiliza este modo en el aire acondicionado y, sin embargo, no sirve para nada (solo para aumentar la factura)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/waze-google-maps-mejor-app-aviso-radares-camaras-1399876'>Hasta la vista Waze y Google Maps: esta nueva app te alerta mejor de todos los radares y cámaras</a></h4>
-    <a href='https://computerhoy.com/apps/waze-google-maps-mejor-app-aviso-radares-camaras-1399876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aplicacion-mejor-google-maps-waze-detectar-todo-tipo-radares-3934931.jpg?tf=1200x' alt='Hasta la vista Waze y Google Maps: esta nueva app te alerta mejor de todos los radares y cámaras' />
     </a>
 </div>
 
