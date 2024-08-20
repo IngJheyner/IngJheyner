@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/principal-motivo-lavavajillas-hace-mucho-ruido-ocu-1401043'>Este es el principal motivo por el que tu lavavajillas hace mucho ruido, según la OCU</a></h4>
-    <a href='https://computerhoy.com/life/principal-motivo-lavavajillas-hace-mucho-ruido-ocu-1401043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lavavajillas-3993902.jpg?tf=1200x' alt='Este es el principal motivo por el que tu lavavajillas hace mucho ruido, según la OCU' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/malware-como-afecta-ciberseguridad-consejos-protegerte-1400747'>Malware: qué es, cómo afecta a tu ciberseguridad y consejos para protegerte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/malware-como-afecta-ciberseguridad-consejos-protegerte-1400747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ciberseguridad-malware-3984686.jpg?tf=1200x' alt='Malware: qué es, cómo afecta a tu ciberseguridad y consejos para protegerte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/sirve-boton-recirculacion-coche-como-utilizarlo-correctamente-1400970'>Para qué sirve el botón de recirculación del coche y cómo utilizarlo correctamente</a></h4>
-    <a href='https://computerhoy.com/motor/sirve-boton-recirculacion-coche-como-utilizarlo-correctamente-1400970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sirve-boton-recirculacion-coche-como-utilizarlo-correctamente-3991756.jpg?tf=1200x' alt='Para qué sirve el botón de recirculación del coche y cómo utilizarlo correctamente' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-convertir-cualquier-movil-maquina-hacer-electrocardiogramas-1401027'>Cómo convertir cualquier móvil en una máquina para hacer electrocardiogramas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-convertir-cualquier-movil-maquina-hacer-electrocardiogramas-1401027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-convertir-cualquier-movil-maquina-hacer-electrocardiogramas-3994213.jpg?tf=1200x' alt='Cómo convertir cualquier móvil en una máquina para hacer electrocardiogramas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/principal-razon-muchos-no-podran-actualizarse-nuevo-iphone-16-1401041'>Esta es la principal razón por la que muchos no podrán actualizarse al nuevo iPhone 16</a></h4>
-    <a href='https://computerhoy.com/apple/principal-razon-muchos-no-podran-actualizarse-nuevo-iphone-16-1401041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Esta es la principal razón por la que muchos no podrán actualizarse al nuevo iPhone 16' />
+    <h4><a href='https://computerhoy.com/tv/usos-desconocidos-puertos-usb-smart-tv-1251216'>Usos geniales de los puertos USB de tu Smart TV que quizá no estés aprovechando</a></h4>
+    <a href='https://computerhoy.com/tv/usos-desconocidos-puertos-usb-smart-tv-1251216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/smart-tv-usb-3992076.jpg?tf=1200x' alt='Usos geniales de los puertos USB de tu Smart TV que quizá no estés aprovechando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/solo-tienes-dos-dias-ver-amazon-prime-video-pelicula-anime-ciberpunk-cambio-ciencia-ficcion-siempre-1400973'>Solo tienes dos días para ver en Amazon Prime Video la película anime ciberpunk que cambió la ciencia ficción para siempre</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/solo-tienes-dos-dias-ver-amazon-prime-video-pelicula-anime-ciberpunk-cambio-ciencia-ficcion-siempre-1400973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/solo-tienes-dos-dias-ver-amazon-prime-video-pelicula-anime-ciberpunk-cambio-ciencia-ficcion-siempre-3991447.jpg?tf=1200x' alt='Solo tienes dos días para ver en Amazon Prime Video la película anime ciberpunk que cambió la ciencia ficción para siempre' />
+    <h4><a href='https://computerhoy.com/gaming/consola-atari-7800-plus-1401049'>Una mítica consola Atari de 1986 vuelve a la vida en 2024</a></h4>
+    <a href='https://computerhoy.com/gaming/consola-atari-7800-plus-1401049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mitica-consola-atari-1986-vuelve-vida-2024-3993901.jpg?tf=1200x' alt='Una mítica consola Atari de 1986 vuelve a la vida en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-quiere-blindar-nombres-usuario-pin-seguridad-1401038'>WhatsApp quiere blindar los nombres de usuario con un PIN de seguridad</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-quiere-blindar-nombres-usuario-pin-seguridad-1401038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-3993751.jpg?tf=1200x' alt='WhatsApp quiere blindar los nombres de usuario con un PIN de seguridad' />
+    <h4><a href='https://computerhoy.com/distribuciones-linux-visualmente-bonitas-1400077'>Las 5 distribuciones de Linux visualmente más bonitas</a></h4>
+    <a href='https://computerhoy.com/distribuciones-linux-visualmente-bonitas-1400077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/distribuciones-linux-3942897.jpg?tf=1200x' alt='Las 5 distribuciones de Linux visualmente más bonitas' />
     </a>
 </div>
 
