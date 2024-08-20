@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/10-inventos-antigua-grecia-perduran-tiempo-1293030'>10 grandes inventos de la antigua Grecia que perduran en el tiempo</a></h4>
+    <a href='https://computerhoy.com/internet/10-inventos-antigua-grecia-perduran-tiempo-1293030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/inventos-han-perdurado-tiempo-3113970.jpg?tf=1200x' alt='10 grandes inventos de la antigua Grecia que perduran en el tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/figura-star-wars-ha-convertido-juguete-coleccion-caro-historia-1400945'>Una figura de Star Wars se ha convertido en el juguete de colección más caro de la historia</a></h4>
+    <a href='https://computerhoy.com/life/figura-star-wars-ha-convertido-juguete-coleccion-caro-historia-1400945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/figura-star-wars-ha-convertido-juguete-coleccion-caro-historia-3991118.jpg?tf=1200x' alt='Una figura de Star Wars se ha convertido en el juguete de colección más caro de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/influencer-barcelona-descubre-nuevo-uso-airtag-apple-1395132'>Un influencer descubre en Barcelona un sorprendente uso de las AirTag de Apple: nadie lo había hecho antes</a></h4>
     <a href='https://computerhoy.com/apple/influencer-barcelona-descubre-nuevo-uso-airtag-apple-1395132' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/airtag-apple-3991281.jpg?tf=1200x' alt='Un influencer descubre en Barcelona un sorprendente uso de las AirTag de Apple: nadie lo había hecho antes' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/todo-mundo-utiliza-modo-aire-acondicionado-embargo-no-sirve-nada-solo-aumentar-factura-1400948'>Todo el mundo utiliza este modo en el aire acondicionado y, sin embargo, no sirve para nada (solo para aumentar la factura)</a></h4>
+    <a href='https://computerhoy.com/life/todo-mundo-utiliza-modo-aire-acondicionado-embargo-no-sirve-nada-solo-aumentar-factura-1400948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aire-acondicionado-factura-verano-3990645.jpg?tf=1200x' alt='Todo el mundo utiliza este modo en el aire acondicionado y, sin embargo, no sirve para nada (solo para aumentar la factura)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/waze-google-maps-mejor-app-aviso-radares-camaras-1399876'>Hasta la vista Waze y Google Maps: esta nueva app te alerta mejor de todos los radares y cámaras</a></h4>
     <a href='https://computerhoy.com/apps/waze-google-maps-mejor-app-aviso-radares-camaras-1399876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aplicacion-mejor-google-maps-waze-detectar-todo-tipo-radares-3934931.jpg?tf=1200x' alt='Hasta la vista Waze y Google Maps: esta nueva app te alerta mejor de todos los radares y cámaras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hackberrypi-mejor-alternativa-flipper-zero-1399361'>HackberryPi, la Raspberry Pi para hackear que deja al todopoderoso Flipper Zero en un simple juguete</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hackberrypi-mejor-alternativa-flipper-zero-1399361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hackberrypi-raspberry-pi-hackear-convierte-flipper-zero-juguete-3902861.jpg?tf=1200x' alt='HackberryPi, la Raspberry Pi para hackear que deja al todopoderoso Flipper Zero en un simple juguete' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/como-afectaran-meses-espacio-dos-astronautas-boeing-estacion-espacial-internacional-1400929'>Cómo afectarán los meses en el espacio a los dos astronautas de Boeing en la Estación Espacial Internacional</a></h4>
-    <a href='https://computerhoy.com/espacio/como-afectaran-meses-espacio-dos-astronautas-boeing-estacion-espacial-internacional-1400929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-afectaran-meses-espacio-dos-astronautas-boeing-estacion-espacial-internacional-3990797.jpg?tf=1200x' alt='Cómo afectarán los meses en el espacio a los dos astronautas de Boeing en la Estación Espacial Internacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/pon-ordenador-7000-mb-segundo-ssd-ultrarrapido-miravia-ha-rebajado-23-963603'>Pon tu ordenador a 7000 MB por segundo con este SSD ultrarrápido que Miravia ha rebajado en un 23%</a></h4>
-    <a href='https://computerhoy.com/amazon/pon-ordenador-7000-mb-segundo-ssd-ultrarrapido-miravia-ha-rebajado-23-963603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/wd-black-sn850-2530257.jpg?tf=1200x' alt='Pon tu ordenador a 7000 MB por segundo con este SSD ultrarrápido que Miravia ha rebajado en un 23%' />
     </a>
 </div>
 
