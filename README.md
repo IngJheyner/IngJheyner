@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-chollos-vuelta-al-cole-aliexpress-1400907'>5 chollazos de la Vuelta al Cole de AliExpress en tecnología que no volveremos a ver en meses</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-chollos-vuelta-al-cole-aliexpress-1400907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vuelta-cole-aliexpress-3990149.jpg?tf=1200x' alt='5 chollazos de la Vuelta al Cole de AliExpress en tecnología que no volveremos a ver en meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-regala-propietarios-cualquier-galaxy-nuevas-inesperadas-funciones-1400899'>Samsung "regala" a los propietarios de cualquier Galaxy nuevas e inesperadas funciones</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-regala-propietarios-cualquier-galaxy-nuevas-inesperadas-funciones-1400899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-galaxy-a55-3295170.jpg?tf=1200x' alt='Samsung "regala" a los propietarios de cualquier Galaxy nuevas e inesperadas funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cosas-waze-hace-mejor-google-maps-merece-pena-darle-oportunidad-1275282'>Cosas que Waze hace mejor que Google Maps y por las que merece la pena darle una oportunidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/cosas-waze-hace-mejor-google-maps-merece-pena-darle-oportunidad-1275282' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/waze-google-maps-2060535.jpg?tf=1200x' alt='Cosas que Waze hace mejor que Google Maps y por las que merece la pena darle una oportunidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-evitar-estafas-no-caer-trampa-productos-falsos-amazon-1400427'>Cómo evitar estafas y no caer en la trampa de los productos falsos en Amazon</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-evitar-estafas-no-caer-trampa-productos-falsos-amazon-1400427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-evitar-estafas-no-caer-trampa-productos-falsos-amazon-3961850.jpg?tf=1200x' alt='Cómo evitar estafas y no caer en la trampa de los productos falsos en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-kindle-tablet-tinta-electronica-mas-potente-1376854'>Olvida los Kindle: esta tablet con tinta electrónica es más potente y completa para estudiar y trabajar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-kindle-tablet-tinta-electronica-mas-potente-1376854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/boox-note-air3-monochrome-3295234.jpg?tf=1200x' alt='Olvida los Kindle: esta tablet con tinta electrónica es más potente y completa para estudiar y trabajar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/pide-ayuda-porque-ve-casa-vecino-pared-ventana-cerrada-1400879'>Pide ayuda porque ve la casa de su vecino en la pared, con la ventana cerrada</a></h4>
-    <a href='https://computerhoy.com/ciencia/pide-ayuda-porque-ve-casa-vecino-pared-ventana-cerrada-1400879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pide-ayuda-porque-ve-casa-vecino-pared-ventana-cerrada-3989703.jpg?tf=1200x' alt='Pide ayuda porque ve la casa de su vecino en la pared, con la ventana cerrada' />
     </a>
 </div>
 
