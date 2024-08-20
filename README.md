@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/primer-paseo-espacial-spacex-elon-musk-1401055'>"Va a ser épico": Elon Musk anuncia el primer paseo espacial de SpaceX</a></h4>
+    <a href='https://computerhoy.com/espacio/primer-paseo-espacial-spacex-elon-musk-1401055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/va-ser-epico-elon-musk-anuncia-primer-paseo-espacial-spacex-3994534.jpg?tf=1200x' alt='"Va a ser épico": Elon Musk anuncia el primer paseo espacial de SpaceX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/malware-como-afecta-ciberseguridad-consejos-protegerte-1400747'>Malware: qué es, cómo afecta a tu ciberseguridad y consejos para protegerte</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/malware-como-afecta-ciberseguridad-consejos-protegerte-1400747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ciberseguridad-malware-3984686.jpg?tf=1200x' alt='Malware: qué es, cómo afecta a tu ciberseguridad y consejos para protegerte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/consola-atari-7800-plus-1401049'>Una mítica consola Atari de 1986 vuelve a la vida en 2024</a></h4>
     <a href='https://computerhoy.com/gaming/consola-atari-7800-plus-1401049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mitica-consola-atari-1986-vuelve-vida-2024-3993901.jpg?tf=1200x' alt='Una mítica consola Atari de 1986 vuelve a la vida en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/distribuciones-linux-visualmente-bonitas-1400077'>Las 5 distribuciones de Linux visualmente más bonitas</a></h4>
-    <a href='https://computerhoy.com/distribuciones-linux-visualmente-bonitas-1400077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/distribuciones-linux-3942897.jpg?tf=1200x' alt='Las 5 distribuciones de Linux visualmente más bonitas' />
     </a>
 </div>
 
