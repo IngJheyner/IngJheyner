@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/unica-letra-idioma-espanol-ha-eliminado-toda-historia-ya-no-usa-1401232'>Esta es la única letra que el idioma español ha eliminado en toda su historia: ¿por qué ya no se usa?</a></h4>
+    <a href='https://computerhoy.com/life/unica-letra-idioma-espanol-ha-eliminado-toda-historia-ya-no-usa-1401232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/unica-letra-idioma-espanol-ha-eliminado-toda-historia-ya-no-usa-4001907.jpg?tf=1200x' alt='Esta es la única letra que el idioma español ha eliminado en toda su historia: ¿por qué ya no se usa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/cuatro-caracteres-bloquean-iphone-ipad-1401247'>Si tecleas estos cuatro caracteres, tu iPhone o iPad se bloquearán</a></h4>
+    <a href='https://computerhoy.com/moviles/cuatro-caracteres-bloquean-iphone-ipad-1401247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tecleas-estos-cuatro-caracteres-iphone-ipad-bloquearan-4001758.jpg?tf=1200x' alt='Si tecleas estos cuatro caracteres, tu iPhone o iPad se bloquearán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/alienware-marca-gaming-aprovecho-tiron-expediente-x-1400722'>Qué es Alienware: la marca gaming que aprovechó el tirón de 'Expediente X'</a></h4>
     <a href='https://computerhoy.com/gaming/alienware-marca-gaming-aprovecho-tiron-expediente-x-1400722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alienware-3984999.jpg?tf=1200x' alt='Qué es Alienware: la marca gaming que aprovechó el tirón de 'Expediente X'' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/enviar-archivos-movil-android-pc-sera-facil-nunca-funcionara-nuevo-airdrop-windows-1400279'>Enviar archivos entre tu móvil Android y el PC será más fácil que nunca, así funcionará el nuevo AirDrop de Windows</a></h4>
     <a href='https://computerhoy.com/windows/enviar-archivos-movil-android-pc-sera-facil-nunca-funcionara-nuevo-airdrop-windows-1400279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/enviar-archivos-movil-android-pc-sera-facil-nunca-funcionara-nuevo-airdrop-windows-3951172.jpg?tf=1200x' alt='Enviar archivos entre tu móvil Android y el PC será más fácil que nunca, así funcionará el nuevo AirDrop de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/compra-rtx-4090-amazon-recibe-caja-vacia-sorpresa-no-podra-recuperar-dinero-1401240'>Compra una RTX 4090 en Amazon y recibe una caja vacía: sorpresa, no podrá recuperar su dinero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/compra-rtx-4090-amazon-recibe-caja-vacia-sorpresa-no-podra-recuperar-dinero-1401240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tarjeta-grafica-4001464.jpg?tf=1200x' alt='Compra una RTX 4090 en Amazon y recibe una caja vacía: sorpresa, no podrá recuperar su dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/infalible-truco-blanquear-plastico-amarillento-dejar-electrodomesticos-como-nuevos-1401225'>El infalible truco para blanquear el plástico amarillento y dejar tus electrodomésticos como nuevos</a></h4>
-    <a href='https://computerhoy.com/life/infalible-truco-blanquear-plastico-amarillento-dejar-electrodomesticos-como-nuevos-1401225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/infalible-truco-blanquear-plastico-amarillento-dejar-electrodomesticos-como-nuevos-4001462.jpg?tf=1200x' alt='El infalible truco para blanquear el plástico amarillento y dejar tus electrodomésticos como nuevos' />
     </a>
 </div>
 
