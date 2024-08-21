@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-stephen-king-mejor-juego-tronos-breaking-bad-1400084'>Esta serie nórdica de Netflix de culto ha enamorado a Stephen King: “es mejor que Juego de Tronos y Breaking Bad”</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-stephen-king-mejor-juego-tronos-breaking-bad-1400084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-3942729.jpg?tf=1200x' alt='Esta serie nórdica de Netflix de culto ha enamorado a Stephen King: “es mejor que Juego de Tronos y Breaking Bad”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/borrar-eliminar-bloatware-windows-funciones-inutiles-1400516'>He eliminado el bloatware de Windows y me he dado cuenta de la cantidad de funciones inútiles que tiene</a></h4>
+    <a href='https://computerhoy.com/windows/borrar-eliminar-bloatware-windows-funciones-inutiles-1400516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/bloatware-windows-10.jpg?tf=1200x' alt='He eliminado el bloatware de Windows y me he dado cuenta de la cantidad de funciones inútiles que tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/nuevo-virus-extiende-smart-tv-todo-mundo-publicidad-1401103'>Un nuevo "virus" se extiende por los Smart TV de todo el mundo: la publicidad</a></h4>
+    <a href='https://computerhoy.com/tv/nuevo-virus-extiende-smart-tv-todo-mundo-publicidad-1401103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/smart-tv-3998590.jpg?tf=1200x' alt='Un nuevo "virus" se extiende por los Smart TV de todo el mundo: la publicidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-vuelve-banquillo-recopilar-datos-usuarios-chrome-consentimiento-1401162'>Google vuelve al banquillo por recopilar datos de usuarios de Chrome sin su consentimiento</a></h4>
+    <a href='https://computerhoy.com/google/google-vuelve-banquillo-recopilar-datos-usuarios-chrome-consentimiento-1401162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/demanda-google-privacidad-3997933.jpg?tf=1200x' alt='Google vuelve al banquillo por recopilar datos de usuarios de Chrome sin su consentimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/liquidacion-brutal-rasberry-pi-8gb-menos-100-euros-1401095'>Liquidación brutal en Rasberry Pi: con 8GB por menos de 100 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/liquidacion-brutal-rasberry-pi-8gb-menos-100-euros-1401095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/raspberry-pi-3997456.jpg?tf=1200x' alt='Liquidación brutal en Rasberry Pi: con 8GB por menos de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/adios-bloqueos-creativos-gmail-vuelve-inteligente-gracias-gemini-1401148'>Adiós a los bloqueos creativos: Gmail se vuelve más inteligente gracias a Gemini </a></h4>
-    <a href='https://computerhoy.com/google/adios-bloqueos-creativos-gmail-vuelve-inteligente-gracias-gemini-1401148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gmail-mejora-ia-3997781.jpg?tf=1200x' alt='Adiós a los bloqueos creativos: Gmail se vuelve más inteligente gracias a Gemini ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/velocidad-coche-gps-google-maps-waze-1372533'>Velocímetro o Google Maps: confirman cuál es la velocidad real a la que vas cuando conduces</a></h4>
-    <a href='https://computerhoy.com/motor/velocidad-coche-gps-google-maps-waze-1372533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/velocidad-google-maps-waze-diferente-coche-cual-debes-hacerle-caso-3287788.jpg?tf=1200x' alt='Velocímetro o Google Maps: confirman cuál es la velocidad real a la que vas cuando conduces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/samsung-presenta-monitor-gaming-inmersivo-no-necesita-gafas-3d-1401102'>Samsung presenta un monitor gaming inmersivo que no necesita gafas 3D</a></h4>
-    <a href='https://computerhoy.com/samsung-presenta-monitor-gaming-inmersivo-no-necesita-gafas-3d-1401102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/monitor-gaming-odyssey-3d-3997773.jpg?tf=1200x' alt='Samsung presenta un monitor gaming inmersivo que no necesita gafas 3D' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mitos-gente-cree-memoria-ssd-1247988'>7 mitos que la gente aún cree sobre las memorias SSD</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mitos-gente-cree-memoria-ssd-1247988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/ssd.jpg?tf=1200x' alt='7 mitos que la gente aún cree sobre las memorias SSD' />
     </a>
 </div>
 
