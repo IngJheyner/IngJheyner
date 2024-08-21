@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/tierra-luna-han-alejado-20000-kilometros-700-millones-anos-alargando-dias-22-horas-estudio-1400941'>La Tierra y la Luna se han alejado 20.000 kilómetros en 700 millones de años, alargando los días en 2,2 horas, según un estudio</a></h4>
+    <a href='https://computerhoy.com/ciencia/tierra-luna-han-alejado-20000-kilometros-700-millones-anos-alargando-dias-22-horas-estudio-1400941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tierra-luna-3991129.jpg?tf=1200x' alt='La Tierra y la Luna se han alejado 20.000 kilómetros en 700 millones de años, alargando los días en 2,2 horas, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/como-convertir-pantalla-android-auto-coche-tablet-1401051'>Cómo convertir la pantalla de Android Auto de tu coche en una tablet</a></h4>
     <a href='https://computerhoy.com/android/como-convertir-pantalla-android-auto-coche-tablet-1401051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-convertir-pantalla-android-auto-coche-tablet-3995564.jpg?tf=1200x' alt='Cómo convertir la pantalla de Android Auto de tu coche en una tablet' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/malware-como-afecta-ciberseguridad-consejos-protegerte-1400747'>Malware: qué es, cómo afecta a tu ciberseguridad y consejos para protegerte</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/malware-como-afecta-ciberseguridad-consejos-protegerte-1400747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ciberseguridad-malware-3984686.jpg?tf=1200x' alt='Malware: qué es, cómo afecta a tu ciberseguridad y consejos para protegerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-convertir-cualquier-movil-maquina-hacer-electrocardiogramas-1401027'>Cómo convertir cualquier móvil en una máquina para hacer electrocardiogramas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-convertir-cualquier-movil-maquina-hacer-electrocardiogramas-1401027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-convertir-cualquier-movil-maquina-hacer-electrocardiogramas-3994213.jpg?tf=1200x' alt='Cómo convertir cualquier móvil en una máquina para hacer electrocardiogramas' />
     </a>
 </div>
 
