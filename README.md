@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-gama-alta-compraria-ahora-mismo-aliexpress-liquidando-precio-outlet-1400919'>Este OnePlus es el gama alta que compraría ahora mismo: AliExpress lo está liquidando a precio de outlet</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-gama-alta-compraria-ahora-mismo-aliexpress-liquidando-precio-outlet-1400919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-12-3990467.jpg?tf=1200x' alt='Este OnePlus es el gama alta que compraría ahora mismo: AliExpress lo está liquidando a precio de outlet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/fat32-va-resurgir-microsoft-da-luz-verde-particiones-2-tb-1401080'>¿FAT32 va a resurgir? Microsoft da luz verde a particiones de hasta 2 TB</a></h4>
+    <a href='https://computerhoy.com/windows/fat32-va-resurgir-microsoft-da-luz-verde-particiones-2-tb-1401080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fat32-va-resurgir-microsoft-da-luz-verde-particiones-2-tb-3997582.jpg?tf=1200x' alt='¿FAT32 va a resurgir? Microsoft da luz verde a particiones de hasta 2 TB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/cosas-no-sabias-amazon-fire-tv-puede-hacer-1294746'>6 cosas que no sabías que tu Amazon Fire TV puede hacer</a></h4>
     <a href='https://computerhoy.com/tv/cosas-no-sabias-amazon-fire-tv-puede-hacer-1294746' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-fire-tv-alexa-3105422.jpg?tf=1200x' alt='6 cosas que no sabías que tu Amazon Fire TV puede hacer' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-kodi-mejores-addons-ver-canales-tv-gratis-1399692'>Cómo ver la TDT en Kodi: los mejores addons para ver canales de TV gratis</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ver-tdt-kodi-mejores-addons-ver-canales-tv-gratis-1399692' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/plataforma-kodi-tdt-3916784.jpg?tf=1200x' alt='Cómo ver la TDT en Kodi: los mejores addons para ver canales de TV gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-sale-marco-reloj-deportivo-precio-top-1349100'>Huawei se sale del marco: su reloj deportivo top cuesta menos de 200 euros y lo tiene todo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-sale-marco-reloj-deportivo-precio-top-1349100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/huawei-watch-gt-4-3253338.jpg?tf=1200x' alt='Huawei se sale del marco: su reloj deportivo top cuesta menos de 200 euros y lo tiene todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/steam-idea-inicial-valve-ser-mayor-tienda-videojuegos-1400263'>Qué es Steam: de la idea inicial de Valve a ser la mayor tienda de videojuegos</a></h4>
-    <a href='https://computerhoy.com/gaming/steam-idea-inicial-valve-ser-mayor-tienda-videojuegos-1400263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/steam-3951018.jpg?tf=1200x' alt='Qué es Steam: de la idea inicial de Valve a ser la mayor tienda de videojuegos' />
     </a>
 </div>
 
