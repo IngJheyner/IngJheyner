@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/cosas-no-sabias-amazon-fire-tv-puede-hacer-1294746'>6 cosas que no sabías que tu Amazon Fire TV puede hacer</a></h4>
+    <a href='https://computerhoy.com/tv/cosas-no-sabias-amazon-fire-tv-puede-hacer-1294746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-fire-tv-alexa-3105422.jpg?tf=1200x' alt='6 cosas que no sabías que tu Amazon Fire TV puede hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/adios-ladrones-movil-android-ahora-seguro-gracias-funcion-ia-1401075'>Adiós a los ladrones: tu móvil Android ahora más seguro gracias a esta función con IA</a></h4>
+    <a href='https://computerhoy.com/android/adios-ladrones-movil-android-ahora-seguro-gracias-funcion-ia-1401075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ladron-moviles-3264497.jpg?tf=1200x' alt='Adiós a los ladrones: tu móvil Android ahora más seguro gracias a esta función con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-kodi-mejores-addons-ver-canales-tv-gratis-1399692'>Cómo ver la TDT en Kodi: los mejores addons para ver canales de TV gratis</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ver-tdt-kodi-mejores-addons-ver-canales-tv-gratis-1399692' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/plataforma-kodi-tdt-3916784.jpg?tf=1200x' alt='Cómo ver la TDT en Kodi: los mejores addons para ver canales de TV gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/steam-idea-inicial-valve-ser-mayor-tienda-videojuegos-1400263'>Qué es Steam: de la idea inicial de Valve a ser la mayor tienda de videojuegos</a></h4>
     <a href='https://computerhoy.com/gaming/steam-idea-inicial-valve-ser-mayor-tienda-videojuegos-1400263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/steam-3951018.jpg?tf=1200x' alt='Qué es Steam: de la idea inicial de Valve a ser la mayor tienda de videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/aliexpress-lia-portatil-tiene-windows-11-12gb-ram-precio-movil-barato-1400647'>Brutal portátil a precio de outlet: Windows 11 y 12GB de RAM y cuesta menos que un Xiaomi</a></h4>
-    <a href='https://computerhoy.com/pc/aliexpress-lia-portatil-tiene-windows-11-12gb-ram-precio-movil-barato-1400647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chuwi-freebook-3210318.jpg?tf=1200x' alt='Brutal portátil a precio de outlet: Windows 11 y 12GB de RAM y cuesta menos que un Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-ha-recibido-importantes-novedades-barra-tareas-1401066'>Windows 11 ha recibido importantes novedades en la barra de tareas</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-ha-recibido-importantes-novedades-barra-tareas-1401066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-ha-recibido-importantes-cambios-barra-tareas-3996875.jpg?tf=1200x' alt='Windows 11 ha recibido importantes novedades en la barra de tareas' />
     </a>
 </div>
 
