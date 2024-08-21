@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/google-pixel-9-marca-camino-gama-alta-pone-todo-foco-ia-1401069'>El Google Pixel 9 marca el camino de la gama alta y pone todo el foco en la IA</a></h4>
+    <a href='https://computerhoy.com/analisis/google-pixel-9-marca-camino-gama-alta-pone-todo-foco-ia-1401069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-analisis-opiniones-4000995.jpg?tf=1200x' alt='El Google Pixel 9 marca el camino de la gama alta y pone todo el foco en la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-maps-android-auto-mejor-app-detectar-radares-1395417'>Me encanta Google Maps en Android Auto, pero combinado con esta app para detectar radares y ahora es simplemente perfecta</a></h4>
+    <a href='https://computerhoy.com/android/google-maps-android-auto-mejor-app-detectar-radares-1395417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/me-encanta-google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-3715097.jpg?tf=1200x' alt='Me encanta Google Maps en Android Auto, pero combinado con esta app para detectar radares y ahora es simplemente perfecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estoy-punto-ser-rico-joven-emprendedor-convirtio-100-euros-millones-ayuda-chatgpt-pocos-dias-1401160'>“Estoy a punto de ser rico”: un joven emprendedor convirtió 100 euros en millones con la ayuda de ChatGPT en pocos días</a></h4>
+    <a href='https://computerhoy.com/life/estoy-punto-ser-rico-joven-emprendedor-convirtio-100-euros-millones-ayuda-chatgpt-pocos-dias-1401160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/chatgpt-jackson-greathouse-fall-3998911.jpg?tf=1200x' alt='“Estoy a punto de ser rico”: un joven emprendedor convirtió 100 euros en millones con la ayuda de ChatGPT en pocos días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/quedan-encendidas-bombillas-led-incluso-interruptor-apagado-como-solucionarlo-1401214'>Por qué se quedan encendidas las bombillas LED incluso con el interruptor apagado y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.com/energia/quedan-encendidas-bombillas-led-incluso-interruptor-apagado-como-solucionarlo-1401214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/quedan-encendidas-bombillas-led-incluso-interruptor-apagado-como-solucionarlo-4000493.jpg?tf=1200x' alt='Por qué se quedan encendidas las bombillas LED incluso con el interruptor apagado y cómo solucionarlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/palabra-prohibida-llamadas-estafa-ocu-1384654'>Esta es la palabra que no nunca deberías por teléfono para no caer en estafas, según la OCU</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/palabra-prohibida-llamadas-estafa-ocu-1384654' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/llamada-estafa-3998589.jpg?tf=1200x' alt='Esta es la palabra que no nunca deberías por teléfono para no caer en estafas, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/freidora-gigante-tiene-10l-capacidad-queda-precio-saldo-codigo-descuento-1401203'>Esta freidora sí es gigante: tiene 10L de capacidad y queda a precio de saldo con un código descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/freidora-gigante-tiene-10l-capacidad-queda-precio-saldo-codigo-descuento-1401203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cosori-10l-3999722.jpg?tf=1200x' alt='Esta freidora sí es gigante: tiene 10L de capacidad y queda a precio de saldo con un código descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-acelerar-descargas-qbittorrent-hacer-torrent-descarguen-rapido-1400985'>Cómo acelerar las descargas de qBittorrent y hacer que los torrent se descarguen más rápido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-acelerar-descargas-qbittorrent-hacer-torrent-descarguen-rapido-1400985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/qbittorrent-3992226.jpg?tf=1200x' alt='Cómo acelerar las descargas de qBittorrent y hacer que los torrent se descarguen más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/modo-lectura-android-debes-activarlo-ahora-1282352'>Qué es el Modo Lectura para Android y por qué debes activarlo ya</a></h4>
-    <a href='https://computerhoy.com/apps/modo-lectura-android-debes-activarlo-ahora-1282352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/modo-lectura-android-3097230.jpg?tf=1200x' alt='Qué es el Modo Lectura para Android y por qué debes activarlo ya' />
     </a>
 </div>
 
