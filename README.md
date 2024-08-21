@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/quedan-encendidas-bombillas-led-incluso-interruptor-apagado-como-solucionarlo-1401214'>Por qué se quedan encendidas las bombillas LED incluso con el interruptor apagado y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/energia/quedan-encendidas-bombillas-led-incluso-interruptor-apagado-como-solucionarlo-1401214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/quedan-encendidas-bombillas-led-incluso-interruptor-apagado-como-solucionarlo-4000493.jpg?tf=1200x' alt='Por qué se quedan encendidas las bombillas LED incluso con el interruptor apagado y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/palabra-prohibida-llamadas-estafa-ocu-1384654'>Esta es la palabra que no nunca deberías por teléfono para no caer en estafas, según la OCU</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/palabra-prohibida-llamadas-estafa-ocu-1384654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/llamada-estafa-3998589.jpg?tf=1200x' alt='Esta es la palabra que no nunca deberías por teléfono para no caer en estafas, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/freidora-gigante-tiene-10l-capacidad-queda-precio-saldo-codigo-descuento-1401203'>Esta freidora sí es gigante: tiene 10L de capacidad y queda a precio de saldo con un código descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/freidora-gigante-tiene-10l-capacidad-queda-precio-saldo-codigo-descuento-1401203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cosori-10l-3999722.jpg?tf=1200x' alt='Esta freidora sí es gigante: tiene 10L de capacidad y queda a precio de saldo con un código descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-acelerar-descargas-qbittorrent-hacer-torrent-descarguen-rapido-1400985'>Cómo acelerar las descargas de qBittorrent y hacer que los torrent se descarguen más rápido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-acelerar-descargas-qbittorrent-hacer-torrent-descarguen-rapido-1400985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/qbittorrent-3992226.jpg?tf=1200x' alt='Cómo acelerar las descargas de qBittorrent y hacer que los torrent se descarguen más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/modo-lectura-android-debes-activarlo-ahora-1282352'>Qué es el Modo Lectura para Android y por qué debes activarlo ya</a></h4>
     <a href='https://computerhoy.com/apps/modo-lectura-android-debes-activarlo-ahora-1282352' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/modo-lectura-android-3097230.jpg?tf=1200x' alt='Qué es el Modo Lectura para Android y por qué debes activarlo ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/usos-hdmi-smart-tv-1258014'>Uno de los HDMI de tu Smart TV es diferente al resto y seguramente lo estés utilizando mal</a></h4>
-    <a href='https://computerhoy.com/tv/usos-hdmi-smart-tv-1258014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hdmi-3998575.jpg?tf=1200x' alt='Uno de los HDMI de tu Smart TV es diferente al resto y seguramente lo estés utilizando mal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-controlar-android-auto-apple-carplay-voz-conduccion-segura-1400328'>Cómo controlar Android Auto o Apple CarPlay con tu voz para una conducción más segura</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-controlar-android-auto-apple-carplay-voz-conduccion-segura-1400328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-controlar-android-auto-apple-carplay-voz-conduccion-segura-3954407.jpg?tf=1200x' alt='Cómo controlar Android Auto o Apple CarPlay con tu voz para una conducción más segura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/funcion-android-apagar-desactivar-ahora-1263410'>Es como dejar las llaves puestas: la función de tu móvil Android que debes desactivar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/funcion-android-apagar-desactivar-ahora-1263410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cerradura-movil-android-3998425.jpg?tf=1200x' alt='Es como dejar las llaves puestas: la función de tu móvil Android que debes desactivar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/desbloquea-potencial-oculto-bloc-notas-windows-estas-caracteristicas-secretas-1401060'>Desbloquea el potencial oculto del Bloc de notas de Windows con estas características secretas</a></h4>
-    <a href='https://computerhoy.com/apps/desbloquea-potencial-oculto-bloc-notas-windows-estas-caracteristicas-secretas-1401060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/desbloquea-potencial-oculto-bloc-notas-windows-estas-caracteristicas-secretas-3997019.jpg?tf=1200x' alt='Desbloquea el potencial oculto del Bloc de notas de Windows con estas características secretas' />
     </a>
 </div>
 
