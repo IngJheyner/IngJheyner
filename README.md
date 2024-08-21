@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/shein-acusa-temu-copiar-productos-vendidos-intimidacion-estilo-mafioso-1401094'>Shein acusa a Temu de copiar sus productos más vendidos con “intimidación al estilo mafioso”</a></h4>
+    <a href='https://computerhoy.com/industria/shein-acusa-temu-copiar-productos-vendidos-intimidacion-estilo-mafioso-1401094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/shein-acusa-temu-copiar-productos-vendidos-intimidacion-estilo-mafioso-3997626.jpg?tf=1200x' alt='Shein acusa a Temu de copiar sus productos más vendidos con “intimidación al estilo mafioso”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/algo-ha-salido-muy-mal-actualizacion-microsoft-rompe-sistemas-linux-1401079'>"Algo ha salido muy mal": una actualización de Microsoft rompe los sistemas Linux</a></h4>
+    <a href='https://computerhoy.com/pc/algo-ha-salido-muy-mal-actualizacion-microsoft-rompe-sistemas-linux-1401079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/patente-postura-frente-ordenador-microsoft-3571466.jpg?tf=1200x' alt='"Algo ha salido muy mal": una actualización de Microsoft rompe los sistemas Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/oneplus-gama-alta-compraria-ahora-mismo-aliexpress-liquidando-precio-outlet-1400919'>Este OnePlus es el gama alta que compraría ahora mismo: AliExpress lo está liquidando a precio de outlet</a></h4>
     <a href='https://computerhoy.com/tecnologia/oneplus-gama-alta-compraria-ahora-mismo-aliexpress-liquidando-precio-outlet-1400919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-12-3990467.jpg?tf=1200x' alt='Este OnePlus es el gama alta que compraría ahora mismo: AliExpress lo está liquidando a precio de outlet' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/cosas-no-sabias-amazon-fire-tv-puede-hacer-1294746'>6 cosas que no sabías que tu Amazon Fire TV puede hacer</a></h4>
     <a href='https://computerhoy.com/tv/cosas-no-sabias-amazon-fire-tv-puede-hacer-1294746' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-fire-tv-alexa-3105422.jpg?tf=1200x' alt='6 cosas que no sabías que tu Amazon Fire TV puede hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/adios-ladrones-movil-android-ahora-seguro-gracias-funcion-ia-1401075'>Adiós a los ladrones: tu móvil Android ahora más seguro gracias a esta función con IA</a></h4>
-    <a href='https://computerhoy.com/android/adios-ladrones-movil-android-ahora-seguro-gracias-funcion-ia-1401075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ladron-moviles-3264497.jpg?tf=1200x' alt='Adiós a los ladrones: tu móvil Android ahora más seguro gracias a esta función con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-kodi-mejores-addons-ver-canales-tv-gratis-1399692'>Cómo ver la TDT en Kodi: los mejores addons para ver canales de TV gratis</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-tdt-kodi-mejores-addons-ver-canales-tv-gratis-1399692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/plataforma-kodi-tdt-3916784.jpg?tf=1200x' alt='Cómo ver la TDT en Kodi: los mejores addons para ver canales de TV gratis' />
     </a>
 </div>
 
