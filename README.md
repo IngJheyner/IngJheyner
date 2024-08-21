@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/como-convertir-pantalla-android-auto-coche-tablet-1401051'>Cómo convertir la pantalla de Android Auto de tu coche en una tablet</a></h4>
+    <a href='https://computerhoy.com/android/como-convertir-pantalla-android-auto-coche-tablet-1401051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-convertir-pantalla-android-auto-coche-tablet-3995564.jpg?tf=1200x' alt='Cómo convertir la pantalla de Android Auto de tu coche en una tablet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-1401042'>¿Qué ocurre si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?</a></h4>
     <a href='https://computerhoy.com/tecnologia/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-1401042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-3994980.jpg?tf=1200x' alt='¿Qué ocurre si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-convertir-cualquier-movil-maquina-hacer-electrocardiogramas-1401027'>Cómo convertir cualquier móvil en una máquina para hacer electrocardiogramas</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-convertir-cualquier-movil-maquina-hacer-electrocardiogramas-1401027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-convertir-cualquier-movil-maquina-hacer-electrocardiogramas-3994213.jpg?tf=1200x' alt='Cómo convertir cualquier móvil en una máquina para hacer electrocardiogramas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/usos-desconocidos-puertos-usb-smart-tv-1251216'>Usos geniales de los puertos USB de tu Smart TV que quizá no estés aprovechando</a></h4>
-    <a href='https://computerhoy.com/tv/usos-desconocidos-puertos-usb-smart-tv-1251216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/smart-tv-usb-3992076.jpg?tf=1200x' alt='Usos geniales de los puertos USB de tu Smart TV que quizá no estés aprovechando' />
     </a>
 </div>
 
