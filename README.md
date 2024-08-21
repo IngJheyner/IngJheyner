@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/funcion-android-apagar-desactivar-ahora-1263410'>Es como dejar las llaves puestas: la función de tu móvil Android que debes desactivar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/funcion-android-apagar-desactivar-ahora-1263410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cerradura-movil-android-3998425.jpg?tf=1200x' alt='Es como dejar las llaves puestas: la función de tu móvil Android que debes desactivar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/desbloquea-potencial-oculto-bloc-notas-windows-estas-caracteristicas-secretas-1401060'>Desbloquea el potencial oculto del Bloc de notas de Windows con estas características secretas</a></h4>
+    <a href='https://computerhoy.com/apps/desbloquea-potencial-oculto-bloc-notas-windows-estas-caracteristicas-secretas-1401060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/desbloquea-potencial-oculto-bloc-notas-windows-estas-caracteristicas-secretas-3997019.jpg?tf=1200x' alt='Desbloquea el potencial oculto del Bloc de notas de Windows con estas características secretas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/significa-exactamente-encienda-luz-motor-salpicadero-coche-1401140'>Qué significa exactamente que se encienda la luz del motor en el salpicadero del coche</a></h4>
     <a href='https://computerhoy.com/motor/significa-exactamente-encienda-luz-motor-salpicadero-coche-1401140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/significa-exactamente-encienda-luz-motor-salpicadero-coche-3998259.jpg?tf=1200x' alt='Qué significa exactamente que se encienda la luz del motor en el salpicadero del coche' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/ataque-pass-cookie-como-proteger-datos-1286454'>¿Qué es un ataque 'Pass-the-Cookie'? Descubre cómo puedes protegerte y poner a salvo tus datos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/ataque-pass-cookie-como-proteger-datos-1286454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ataque-pass-cookie-descubre-como-protegerte-poner-salvo-datos-3102414.jpg?tf=1200x' alt='¿Qué es un ataque 'Pass-the-Cookie'? Descubre cómo puedes protegerte y poner a salvo tus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-stephen-king-mejor-juego-tronos-breaking-bad-1400084'>Esta serie nórdica de Netflix de culto ha enamorado a Stephen King: “es mejor que Juego de Tronos y Breaking Bad”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-stephen-king-mejor-juego-tronos-breaking-bad-1400084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-3942729.jpg?tf=1200x' alt='Esta serie nórdica de Netflix de culto ha enamorado a Stephen King: “es mejor que Juego de Tronos y Breaking Bad”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/borrar-eliminar-bloatware-windows-funciones-inutiles-1400516'>He eliminado el bloatware de Windows y me he dado cuenta de la cantidad de funciones inútiles que tiene</a></h4>
-    <a href='https://computerhoy.com/windows/borrar-eliminar-bloatware-windows-funciones-inutiles-1400516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/bloatware-windows-10.jpg?tf=1200x' alt='He eliminado el bloatware de Windows y me he dado cuenta de la cantidad de funciones inútiles que tiene' />
     </a>
 </div>
 
