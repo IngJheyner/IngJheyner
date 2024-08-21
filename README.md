@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/shein-acusa-temu-copiar-productos-vendidos-intimidacion-estilo-mafioso-1401094'>Shein acusa a Temu de copiar sus productos más vendidos con “intimidación al estilo mafioso”</a></h4>
-    <a href='https://computerhoy.com/industria/shein-acusa-temu-copiar-productos-vendidos-intimidacion-estilo-mafioso-1401094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/shein-acusa-temu-copiar-productos-vendidos-intimidacion-estilo-mafioso-3997626.jpg?tf=1200x' alt='Shein acusa a Temu de copiar sus productos más vendidos con “intimidación al estilo mafioso”' />
+    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-brutal-rasberry-pi-8gb-menos-100-euros-1401095'>Liquidación brutal en Rasberry Pi: con 8GB por menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/liquidacion-brutal-rasberry-pi-8gb-menos-100-euros-1401095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/raspberry-pi-3997456.jpg?tf=1200x' alt='Liquidación brutal en Rasberry Pi: con 8GB por menos de 100 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/algo-ha-salido-muy-mal-actualizacion-microsoft-rompe-sistemas-linux-1401079'>"Algo ha salido muy mal": una actualización de Microsoft rompe los sistemas Linux</a></h4>
-    <a href='https://computerhoy.com/pc/algo-ha-salido-muy-mal-actualizacion-microsoft-rompe-sistemas-linux-1401079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/patente-postura-frente-ordenador-microsoft-3571466.jpg?tf=1200x' alt='"Algo ha salido muy mal": una actualización de Microsoft rompe los sistemas Linux' />
+    <h4><a href='https://computerhoy.com/google/adios-bloqueos-creativos-gmail-vuelve-inteligente-gracias-gemini-1401148'>Adiós a los bloqueos creativos: Gmail se vuelve más inteligente gracias a Gemini </a></h4>
+    <a href='https://computerhoy.com/google/adios-bloqueos-creativos-gmail-vuelve-inteligente-gracias-gemini-1401148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gmail-mejora-ia-3997781.jpg?tf=1200x' alt='Adiós a los bloqueos creativos: Gmail se vuelve más inteligente gracias a Gemini ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-gama-alta-compraria-ahora-mismo-aliexpress-liquidando-precio-outlet-1400919'>Este OnePlus es el gama alta que compraría ahora mismo: AliExpress lo está liquidando a precio de outlet</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-gama-alta-compraria-ahora-mismo-aliexpress-liquidando-precio-outlet-1400919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-12-3990467.jpg?tf=1200x' alt='Este OnePlus es el gama alta que compraría ahora mismo: AliExpress lo está liquidando a precio de outlet' />
+    <h4><a href='https://computerhoy.com/motor/velocidad-coche-gps-google-maps-waze-1372533'>Velocímetro o Google Maps: confirman cuál es la velocidad real a la que vas cuando conduces</a></h4>
+    <a href='https://computerhoy.com/motor/velocidad-coche-gps-google-maps-waze-1372533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/velocidad-google-maps-waze-diferente-coche-cual-debes-hacerle-caso-3287788.jpg?tf=1200x' alt='Velocímetro o Google Maps: confirman cuál es la velocidad real a la que vas cuando conduces' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/fat32-va-resurgir-microsoft-da-luz-verde-particiones-2-tb-1401080'>¿FAT32 va a resurgir? Microsoft da luz verde a particiones de hasta 2 TB</a></h4>
-    <a href='https://computerhoy.com/windows/fat32-va-resurgir-microsoft-da-luz-verde-particiones-2-tb-1401080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fat32-va-resurgir-microsoft-da-luz-verde-particiones-2-tb-3997582.jpg?tf=1200x' alt='¿FAT32 va a resurgir? Microsoft da luz verde a particiones de hasta 2 TB' />
+    <h4><a href='https://computerhoy.com/samsung-presenta-monitor-gaming-inmersivo-no-necesita-gafas-3d-1401102'>Samsung presenta un monitor gaming inmersivo que no necesita gafas 3D</a></h4>
+    <a href='https://computerhoy.com/samsung-presenta-monitor-gaming-inmersivo-no-necesita-gafas-3d-1401102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/monitor-gaming-odyssey-3d-3997773.jpg?tf=1200x' alt='Samsung presenta un monitor gaming inmersivo que no necesita gafas 3D' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/cosas-no-sabias-amazon-fire-tv-puede-hacer-1294746'>6 cosas que no sabías que tu Amazon Fire TV puede hacer</a></h4>
-    <a href='https://computerhoy.com/tv/cosas-no-sabias-amazon-fire-tv-puede-hacer-1294746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/amazon-fire-tv-alexa-3105422.jpg?tf=1200x' alt='6 cosas que no sabías que tu Amazon Fire TV puede hacer' />
+    <h4><a href='https://computerhoy.com/tecnologia/mitos-gente-cree-memoria-ssd-1247988'>7 mitos que la gente aún cree sobre las memorias SSD</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mitos-gente-cree-memoria-ssd-1247988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/ssd.jpg?tf=1200x' alt='7 mitos que la gente aún cree sobre las memorias SSD' />
     </a>
 </div>
 
