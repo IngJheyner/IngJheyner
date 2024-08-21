@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-cache-smart-tv-samsung-lg-sony-google-tv-deberias-hacerlo-1400826'>Cómo borrar la caché de tu Smart TV Samsung, LG, Sony o Google TV y por qué deberías hacerlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-borrar-cache-smart-tv-samsung-lg-sony-google-tv-deberias-hacerlo-1400826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/smart-tv-3990599.jpg?tf=1200x' alt='Cómo borrar la caché de tu Smart TV Samsung, LG, Sony o Google TV y por qué deberías hacerlo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-kodi-mejores-addons-ver-canales-tv-gratis-1399692'>Cómo ver la TDT en Kodi: los mejores addons para ver canales de TV gratis</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-tdt-kodi-mejores-addons-ver-canales-tv-gratis-1399692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/plataforma-kodi-tdt-3916784.jpg?tf=1200x' alt='Cómo ver la TDT en Kodi: los mejores addons para ver canales de TV gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/robotaxi-exito-waymo-alcanza-100000-viajes-semana-1401061'>Los robotaxi son un éxito: Waymo alcanza los 100.000 viajes pagados a la semana</a></h4>
-    <a href='https://computerhoy.com/motor/robotaxi-exito-waymo-alcanza-100000-viajes-semana-1401061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pese-criticas-robotaxi-son-exito-waymo-alcanza-100000-viajes-semana-3996574.jpg?tf=1200x' alt='Los robotaxi son un éxito: Waymo alcanza los 100.000 viajes pagados a la semana' />
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-sale-marco-reloj-deportivo-precio-top-1349100'>Huawei se sale del marco: su reloj deportivo top cuesta menos de 200 euros y lo tiene todo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-sale-marco-reloj-deportivo-precio-top-1349100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/huawei-watch-gt-4-3253338.jpg?tf=1200x' alt='Huawei se sale del marco: su reloj deportivo top cuesta menos de 200 euros y lo tiene todo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alternativa-privada-gratis-google-drive-dropbox-1389514'>Esta alternativa privada a Google Drive y Dropbox tiene 3GB de almacenamiento gratis, y viene pegada a una VPN</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alternativa-privada-gratis-google-drive-dropbox-1389514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nordlocker-3493544.jpg?tf=1200x' alt='Esta alternativa privada a Google Drive y Dropbox tiene 3GB de almacenamiento gratis, y viene pegada a una VPN' />
+    <h4><a href='https://computerhoy.com/gaming/steam-idea-inicial-valve-ser-mayor-tienda-videojuegos-1400263'>Qué es Steam: de la idea inicial de Valve a ser la mayor tienda de videojuegos</a></h4>
+    <a href='https://computerhoy.com/gaming/steam-idea-inicial-valve-ser-mayor-tienda-videojuegos-1400263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/steam-3951018.jpg?tf=1200x' alt='Qué es Steam: de la idea inicial de Valve a ser la mayor tienda de videojuegos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/tecla-pizza-ordenador-pc-90-1292518'>Para qué servía la tecla con forma de Pizza que tenían algunos PCs en los años 90</a></h4>
-    <a href='https://computerhoy.com/pc/tecla-pizza-ordenador-pc-90-1292518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/servia-tecla-forma-pizza-tenian-algunos-pcs-90-3113028.jpg?tf=1200x' alt='Para qué servía la tecla con forma de Pizza que tenían algunos PCs en los años 90' />
+    <h4><a href='https://computerhoy.com/pc/aliexpress-lia-portatil-tiene-windows-11-12gb-ram-precio-movil-barato-1400647'>Brutal portátil a precio de outlet: Windows 11 y 12GB de RAM y cuesta menos que un Xiaomi</a></h4>
+    <a href='https://computerhoy.com/pc/aliexpress-lia-portatil-tiene-windows-11-12gb-ram-precio-movil-barato-1400647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chuwi-freebook-3210318.jpg?tf=1200x' alt='Brutal portátil a precio de outlet: Windows 11 y 12GB de RAM y cuesta menos que un Xiaomi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/metal-raro-existe-supera-oro-valor-pais-tiene-mayor-reserva-1400920'>Este es el metal raro que existe y que supera al oro en valor: un país tiene la mayor reserva</a></h4>
-    <a href='https://computerhoy.com/ciencia/metal-raro-existe-supera-oro-valor-pais-tiene-mayor-reserva-1400920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oro-3990802.jpg?tf=1200x' alt='Este es el metal raro que existe y que supera al oro en valor: un país tiene la mayor reserva' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-ha-recibido-importantes-novedades-barra-tareas-1401066'>Windows 11 ha recibido importantes novedades en la barra de tareas</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-ha-recibido-importantes-novedades-barra-tareas-1401066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-ha-recibido-importantes-cambios-barra-tareas-3996875.jpg?tf=1200x' alt='Windows 11 ha recibido importantes novedades en la barra de tareas' />
     </a>
 </div>
 
