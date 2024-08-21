@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-cache-smart-tv-samsung-lg-sony-google-tv-deberias-hacerlo-1400826'>Cómo borrar la caché de tu Smart TV Samsung, LG, Sony o Google TV y por qué deberías hacerlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-borrar-cache-smart-tv-samsung-lg-sony-google-tv-deberias-hacerlo-1400826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/smart-tv-3990599.jpg?tf=1200x' alt='Cómo borrar la caché de tu Smart TV Samsung, LG, Sony o Google TV y por qué deberías hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/robotaxi-exito-waymo-alcanza-100000-viajes-semana-1401061'>Los robotaxi son un éxito: Waymo alcanza los 100.000 viajes pagados a la semana</a></h4>
+    <a href='https://computerhoy.com/motor/robotaxi-exito-waymo-alcanza-100000-viajes-semana-1401061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pese-criticas-robotaxi-son-exito-waymo-alcanza-100000-viajes-semana-3996574.jpg?tf=1200x' alt='Los robotaxi son un éxito: Waymo alcanza los 100.000 viajes pagados a la semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alternativa-privada-gratis-google-drive-dropbox-1389514'>Esta alternativa privada a Google Drive y Dropbox tiene 3GB de almacenamiento gratis, y viene pegada a una VPN</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alternativa-privada-gratis-google-drive-dropbox-1389514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nordlocker-3493544.jpg?tf=1200x' alt='Esta alternativa privada a Google Drive y Dropbox tiene 3GB de almacenamiento gratis, y viene pegada a una VPN' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/tecla-pizza-ordenador-pc-90-1292518'>Para qué servía la tecla con forma de Pizza que tenían algunos PCs en los años 90</a></h4>
+    <a href='https://computerhoy.com/pc/tecla-pizza-ordenador-pc-90-1292518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/servia-tecla-forma-pizza-tenian-algunos-pcs-90-3113028.jpg?tf=1200x' alt='Para qué servía la tecla con forma de Pizza que tenían algunos PCs en los años 90' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/metal-raro-existe-supera-oro-valor-pais-tiene-mayor-reserva-1400920'>Este es el metal raro que existe y que supera al oro en valor: un país tiene la mayor reserva</a></h4>
     <a href='https://computerhoy.com/ciencia/metal-raro-existe-supera-oro-valor-pais-tiene-mayor-reserva-1400920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oro-3990802.jpg?tf=1200x' alt='Este es el metal raro que existe y que supera al oro en valor: un país tiene la mayor reserva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/opcion-waze-usan-tanto-policia-como-usuarios-tratan-evitarles-1395867'>La opción de Waze que usan tanto la policía como los usuarios que tratan de evitarles</a></h4>
-    <a href='https://computerhoy.com/apps/opcion-waze-usan-tanto-policia-como-usuarios-tratan-evitarles-1395867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcionalidad-waze-usan-tanto-policia-como-usuarios-tratan-evitarles-3739666.jpg?tf=1200x' alt='La opción de Waze que usan tanto la policía como los usuarios que tratan de evitarles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tierra-luna-han-alejado-20000-kilometros-700-millones-anos-alargando-dias-22-horas-estudio-1400941'>La Tierra y la Luna se han alejado 20.000 kilómetros en 700 millones de años, alargando los días en 2,2 horas, según un estudio</a></h4>
-    <a href='https://computerhoy.com/ciencia/tierra-luna-han-alejado-20000-kilometros-700-millones-anos-alargando-dias-22-horas-estudio-1400941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tierra-luna-3991129.jpg?tf=1200x' alt='La Tierra y la Luna se han alejado 20.000 kilómetros en 700 millones de años, alargando los días en 2,2 horas, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/como-convertir-pantalla-android-auto-coche-tablet-1401051'>Cómo convertir la pantalla de Android Auto de tu coche en una tablet</a></h4>
-    <a href='https://computerhoy.com/android/como-convertir-pantalla-android-auto-coche-tablet-1401051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-convertir-pantalla-android-auto-coche-tablet-3995564.jpg?tf=1200x' alt='Cómo convertir la pantalla de Android Auto de tu coche en una tablet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-1401042'>¿Qué ocurre si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-1401042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-3994980.jpg?tf=1200x' alt='¿Qué ocurre si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?' />
     </a>
 </div>
 
