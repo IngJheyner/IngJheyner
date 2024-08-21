@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/significa-exactamente-encienda-luz-motor-salpicadero-coche-1401140'>Qué significa exactamente que se encienda la luz del motor en el salpicadero del coche</a></h4>
+    <a href='https://computerhoy.com/motor/significa-exactamente-encienda-luz-motor-salpicadero-coche-1401140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/significa-exactamente-encienda-luz-motor-salpicadero-coche-3998259.jpg?tf=1200x' alt='Qué significa exactamente que se encienda la luz del motor en el salpicadero del coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/puede-ganar-dinero-busquedas-bing-programa-microsoft-rewards-1401166'>¿Se puede ganar dinero con las búsquedas en Bing del programa Microsoft Rewards?</a></h4>
     <a href='https://computerhoy.com/internet/puede-ganar-dinero-busquedas-bing-programa-microsoft-rewards-1401166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-lanza-programa-puntos-te-da-dinero-realizar-busquedas-bing-3998753.jpg?tf=1200x' alt='¿Se puede ganar dinero con las búsquedas en Bing del programa Microsoft Rewards?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/borrar-eliminar-bloatware-windows-funciones-inutiles-1400516'>He eliminado el bloatware de Windows y me he dado cuenta de la cantidad de funciones inútiles que tiene</a></h4>
     <a href='https://computerhoy.com/windows/borrar-eliminar-bloatware-windows-funciones-inutiles-1400516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/bloatware-windows-10.jpg?tf=1200x' alt='He eliminado el bloatware de Windows y me he dado cuenta de la cantidad de funciones inútiles que tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/nuevo-virus-extiende-smart-tv-todo-mundo-publicidad-1401103'>Un nuevo "virus" se extiende por los Smart TV de todo el mundo: la publicidad</a></h4>
-    <a href='https://computerhoy.com/tv/nuevo-virus-extiende-smart-tv-todo-mundo-publicidad-1401103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/smart-tv-3998590.jpg?tf=1200x' alt='Un nuevo "virus" se extiende por los Smart TV de todo el mundo: la publicidad' />
     </a>
 </div>
 
