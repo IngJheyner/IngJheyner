@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/metal-raro-existe-supera-oro-valor-pais-tiene-mayor-reserva-1400920'>Este es el metal raro que existe y que supera al oro en valor: un país tiene la mayor reserva</a></h4>
+    <a href='https://computerhoy.com/ciencia/metal-raro-existe-supera-oro-valor-pais-tiene-mayor-reserva-1400920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oro-3990802.jpg?tf=1200x' alt='Este es el metal raro que existe y que supera al oro en valor: un país tiene la mayor reserva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/opcion-waze-usan-tanto-policia-como-usuarios-tratan-evitarles-1395867'>La opción de Waze que usan tanto la policía como los usuarios que tratan de evitarles</a></h4>
+    <a href='https://computerhoy.com/apps/opcion-waze-usan-tanto-policia-como-usuarios-tratan-evitarles-1395867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcionalidad-waze-usan-tanto-policia-como-usuarios-tratan-evitarles-3739666.jpg?tf=1200x' alt='La opción de Waze que usan tanto la policía como los usuarios que tratan de evitarles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/tierra-luna-han-alejado-20000-kilometros-700-millones-anos-alargando-dias-22-horas-estudio-1400941'>La Tierra y la Luna se han alejado 20.000 kilómetros en 700 millones de años, alargando los días en 2,2 horas, según un estudio</a></h4>
     <a href='https://computerhoy.com/ciencia/tierra-luna-han-alejado-20000-kilometros-700-millones-anos-alargando-dias-22-horas-estudio-1400941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tierra-luna-3991129.jpg?tf=1200x' alt='La Tierra y la Luna se han alejado 20.000 kilómetros en 700 millones de años, alargando los días en 2,2 horas, según un estudio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-1401042'>¿Qué ocurre si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?</a></h4>
     <a href='https://computerhoy.com/tecnologia/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-1401042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-3994980.jpg?tf=1200x' alt='¿Qué ocurre si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/primer-paseo-espacial-spacex-elon-musk-1401055'>"Va a ser épico": Elon Musk anuncia el primer paseo espacial de SpaceX</a></h4>
-    <a href='https://computerhoy.com/espacio/primer-paseo-espacial-spacex-elon-musk-1401055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/va-ser-epico-elon-musk-anuncia-primer-paseo-espacial-spacex-3994534.jpg?tf=1200x' alt='"Va a ser épico": Elon Musk anuncia el primer paseo espacial de SpaceX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/malware-como-afecta-ciberseguridad-consejos-protegerte-1400747'>Malware: qué es, cómo afecta a tu ciberseguridad y consejos para protegerte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/malware-como-afecta-ciberseguridad-consejos-protegerte-1400747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ciberseguridad-malware-3984686.jpg?tf=1200x' alt='Malware: qué es, cómo afecta a tu ciberseguridad y consejos para protegerte' />
     </a>
 </div>
 
