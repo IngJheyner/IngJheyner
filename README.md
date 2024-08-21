@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-puede-decirte-estas-enfermo-solo-ensenarle-lengua-1401239'>Esta IA puede decirte si estás enfermo solo con enseñarle la lengua</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-puede-decirte-estas-enfermo-solo-ensenarle-lengua-1401239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/persona-sacando-lengua-4001463.jpg?tf=1200x' alt='Esta IA puede decirte si estás enfermo solo con enseñarle la lengua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/nuevo-mensaje-dgt-no-piques-peligrosa-trampa-1401238'>¿Un nuevo mensaje de la DGT? No piques, es una peligrosa trampa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nuevo-mensaje-dgt-no-piques-peligrosa-trampa-1401238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dgt-phishing-4001314.jpg?tf=1200x' alt='¿Un nuevo mensaje de la DGT? No piques, es una peligrosa trampa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/encuentran-fin-explicacion-misteriosa-senal-extraterrestre-recibio-tierra-1977-1401188'>Encuentran al fin una explicación a la misteriosa señal extraterrestre que recibió la Tierra en 1977</a></h4>
+    <a href='https://computerhoy.com/espacio/encuentran-fin-explicacion-misteriosa-senal-extraterrestre-recibio-tierra-1977-1401188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/encuentran-explicacion-misteriosa-senal-espacial-recibio-tierra-1977-3999225.jpg?tf=1200x' alt='Encuentran al fin una explicación a la misteriosa señal extraterrestre que recibió la Tierra en 1977' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-producida-steven-spielberg-cambio-siempre-cine-terror-prepara-revolucionar-amazon-prime-video-1401097'>La película producida por Steven Spielberg que cambió para siempre el cine de terror se prepara para revolucionar Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-producida-steven-spielberg-cambio-siempre-cine-terror-prepara-revolucionar-amazon-prime-video-1401097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pelicula-producida-steven-spielberg-cambio-siempre-cine-terror-prepara-revolucionar-amazon-prime-video-3997621.jpg?tf=1200x' alt='La película producida por Steven Spielberg que cambió para siempre el cine de terror se prepara para revolucionar Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/google-pixel-9-marca-camino-gama-alta-pone-todo-foco-ia-1401069'>El Google Pixel 9 marca el camino de la gama alta y pone todo el foco en la IA</a></h4>
     <a href='https://computerhoy.com/analisis/google-pixel-9-marca-camino-gama-alta-pone-todo-foco-ia-1401069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-analisis-opiniones-4000995.jpg?tf=1200x' alt='El Google Pixel 9 marca el camino de la gama alta y pone todo el foco en la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-maps-android-auto-mejor-app-detectar-radares-1395417'>Me encanta Google Maps en Android Auto, pero combinado con esta app para detectar radares y ahora es simplemente perfecta</a></h4>
-    <a href='https://computerhoy.com/android/google-maps-android-auto-mejor-app-detectar-radares-1395417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/me-encanta-google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-3715097.jpg?tf=1200x' alt='Me encanta Google Maps en Android Auto, pero combinado con esta app para detectar radares y ahora es simplemente perfecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estoy-punto-ser-rico-joven-emprendedor-convirtio-100-euros-millones-ayuda-chatgpt-pocos-dias-1401160'>“Estoy a punto de ser rico”: un joven emprendedor convirtió 100 euros en millones con la ayuda de ChatGPT en pocos días</a></h4>
-    <a href='https://computerhoy.com/life/estoy-punto-ser-rico-joven-emprendedor-convirtio-100-euros-millones-ayuda-chatgpt-pocos-dias-1401160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/chatgpt-jackson-greathouse-fall-3998911.jpg?tf=1200x' alt='“Estoy a punto de ser rico”: un joven emprendedor convirtió 100 euros en millones con la ayuda de ChatGPT en pocos días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/quedan-encendidas-bombillas-led-incluso-interruptor-apagado-como-solucionarlo-1401214'>Por qué se quedan encendidas las bombillas LED incluso con el interruptor apagado y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/energia/quedan-encendidas-bombillas-led-incluso-interruptor-apagado-como-solucionarlo-1401214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/quedan-encendidas-bombillas-led-incluso-interruptor-apagado-como-solucionarlo-4000493.jpg?tf=1200x' alt='Por qué se quedan encendidas las bombillas LED incluso con el interruptor apagado y cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/palabra-prohibida-llamadas-estafa-ocu-1384654'>Esta es la palabra que no nunca deberías por teléfono para no caer en estafas, según la OCU</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/palabra-prohibida-llamadas-estafa-ocu-1384654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/llamada-estafa-3998589.jpg?tf=1200x' alt='Esta es la palabra que no nunca deberías por teléfono para no caer en estafas, según la OCU' />
     </a>
 </div>
 
