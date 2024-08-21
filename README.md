@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ataque-pass-cookie-como-proteger-datos-1286454'>¿Qué es un ataque 'Pass-the-Cookie'? Descubre cómo puedes protegerte y poner a salvo tus datos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ataque-pass-cookie-como-proteger-datos-1286454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ataque-pass-cookie-descubre-como-protegerte-poner-salvo-datos-3102414.jpg?tf=1200x' alt='¿Qué es un ataque 'Pass-the-Cookie'? Descubre cómo puedes protegerte y poner a salvo tus datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-stephen-king-mejor-juego-tronos-breaking-bad-1400084'>Esta serie nórdica de Netflix de culto ha enamorado a Stephen King: “es mejor que Juego de Tronos y Breaking Bad”</a></h4>
     <a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-stephen-king-mejor-juego-tronos-breaking-bad-1400084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-3942729.jpg?tf=1200x' alt='Esta serie nórdica de Netflix de culto ha enamorado a Stephen King: “es mejor que Juego de Tronos y Breaking Bad”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-vuelve-banquillo-recopilar-datos-usuarios-chrome-consentimiento-1401162'>Google vuelve al banquillo por recopilar datos de usuarios de Chrome sin su consentimiento</a></h4>
     <a href='https://computerhoy.com/google/google-vuelve-banquillo-recopilar-datos-usuarios-chrome-consentimiento-1401162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/demanda-google-privacidad-3997933.jpg?tf=1200x' alt='Google vuelve al banquillo por recopilar datos de usuarios de Chrome sin su consentimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-brutal-rasberry-pi-8gb-menos-100-euros-1401095'>Liquidación brutal en Rasberry Pi: con 8GB por menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/liquidacion-brutal-rasberry-pi-8gb-menos-100-euros-1401095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/raspberry-pi-3997456.jpg?tf=1200x' alt='Liquidación brutal en Rasberry Pi: con 8GB por menos de 100 euros' />
     </a>
 </div>
 
