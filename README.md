@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/puede-ganar-dinero-busquedas-bing-programa-microsoft-rewards-1401166'>¿Se puede ganar dinero con las búsquedas en Bing del programa Microsoft Rewards?</a></h4>
+    <a href='https://computerhoy.com/internet/puede-ganar-dinero-busquedas-bing-programa-microsoft-rewards-1401166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-lanza-programa-puntos-te-da-dinero-realizar-busquedas-bing-3998753.jpg?tf=1200x' alt='¿Se puede ganar dinero con las búsquedas en Bing del programa Microsoft Rewards?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/ataque-pass-cookie-como-proteger-datos-1286454'>¿Qué es un ataque 'Pass-the-Cookie'? Descubre cómo puedes protegerte y poner a salvo tus datos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/ataque-pass-cookie-como-proteger-datos-1286454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/ataque-pass-cookie-descubre-como-protegerte-poner-salvo-datos-3102414.jpg?tf=1200x' alt='¿Qué es un ataque 'Pass-the-Cookie'? Descubre cómo puedes protegerte y poner a salvo tus datos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/nuevo-virus-extiende-smart-tv-todo-mundo-publicidad-1401103'>Un nuevo "virus" se extiende por los Smart TV de todo el mundo: la publicidad</a></h4>
     <a href='https://computerhoy.com/tv/nuevo-virus-extiende-smart-tv-todo-mundo-publicidad-1401103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/smart-tv-3998590.jpg?tf=1200x' alt='Un nuevo "virus" se extiende por los Smart TV de todo el mundo: la publicidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-vuelve-banquillo-recopilar-datos-usuarios-chrome-consentimiento-1401162'>Google vuelve al banquillo por recopilar datos de usuarios de Chrome sin su consentimiento</a></h4>
-    <a href='https://computerhoy.com/google/google-vuelve-banquillo-recopilar-datos-usuarios-chrome-consentimiento-1401162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/demanda-google-privacidad-3997933.jpg?tf=1200x' alt='Google vuelve al banquillo por recopilar datos de usuarios de Chrome sin su consentimiento' />
     </a>
 </div>
 
