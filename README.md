@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-puede-decirte-estas-enfermo-solo-ensenarle-lengua-1401239'>Esta IA puede decirte si estás enfermo solo con enseñarle la lengua</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-puede-decirte-estas-enfermo-solo-ensenarle-lengua-1401239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/persona-sacando-lengua-4001463.jpg?tf=1200x' alt='Esta IA puede decirte si estás enfermo solo con enseñarle la lengua' />
+    <h4><a href='https://computerhoy.com/gaming/alienware-marca-gaming-aprovecho-tiron-expediente-x-1400722'>Qué es Alienware: la marca gaming que aprovechó el tirón de 'Expediente X'</a></h4>
+    <a href='https://computerhoy.com/gaming/alienware-marca-gaming-aprovecho-tiron-expediente-x-1400722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alienware-3984999.jpg?tf=1200x' alt='Qué es Alienware: la marca gaming que aprovechó el tirón de 'Expediente X'' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nuevo-mensaje-dgt-no-piques-peligrosa-trampa-1401238'>¿Un nuevo mensaje de la DGT? No piques, es una peligrosa trampa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nuevo-mensaje-dgt-no-piques-peligrosa-trampa-1401238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dgt-phishing-4001314.jpg?tf=1200x' alt='¿Un nuevo mensaje de la DGT? No piques, es una peligrosa trampa' />
+    <h4><a href='https://computerhoy.com/gaming/nuevas-consolas-xbox-2024-precio-fecha-lanzamiento-1401243'>Las tres nuevas consolas Xbox ya tienen precio y fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.com/gaming/nuevas-consolas-xbox-2024-precio-fecha-lanzamiento-1401243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1724264140366-4001148.jpg?tf=1200x' alt='Las tres nuevas consolas Xbox ya tienen precio y fecha de lanzamiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/encuentran-fin-explicacion-misteriosa-senal-extraterrestre-recibio-tierra-1977-1401188'>Encuentran al fin una explicación a la misteriosa señal extraterrestre que recibió la Tierra en 1977</a></h4>
-    <a href='https://computerhoy.com/espacio/encuentran-fin-explicacion-misteriosa-senal-extraterrestre-recibio-tierra-1977-1401188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/encuentran-explicacion-misteriosa-senal-espacial-recibio-tierra-1977-3999225.jpg?tf=1200x' alt='Encuentran al fin una explicación a la misteriosa señal extraterrestre que recibió la Tierra en 1977' />
+    <h4><a href='https://computerhoy.com/windows/enviar-archivos-movil-android-pc-sera-facil-nunca-funcionara-nuevo-airdrop-windows-1400279'>Enviar archivos entre tu móvil Android y el PC será más fácil que nunca, así funcionará el nuevo AirDrop de Windows</a></h4>
+    <a href='https://computerhoy.com/windows/enviar-archivos-movil-android-pc-sera-facil-nunca-funcionara-nuevo-airdrop-windows-1400279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/enviar-archivos-movil-android-pc-sera-facil-nunca-funcionara-nuevo-airdrop-windows-3951172.jpg?tf=1200x' alt='Enviar archivos entre tu móvil Android y el PC será más fácil que nunca, así funcionará el nuevo AirDrop de Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-producida-steven-spielberg-cambio-siempre-cine-terror-prepara-revolucionar-amazon-prime-video-1401097'>La película producida por Steven Spielberg que cambió para siempre el cine de terror se prepara para revolucionar Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-producida-steven-spielberg-cambio-siempre-cine-terror-prepara-revolucionar-amazon-prime-video-1401097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pelicula-producida-steven-spielberg-cambio-siempre-cine-terror-prepara-revolucionar-amazon-prime-video-3997621.jpg?tf=1200x' alt='La película producida por Steven Spielberg que cambió para siempre el cine de terror se prepara para revolucionar Amazon Prime Video' />
+    <h4><a href='https://computerhoy.com/tecnologia/compra-rtx-4090-amazon-recibe-caja-vacia-sorpresa-no-podra-recuperar-dinero-1401240'>Compra una RTX 4090 en Amazon y recibe una caja vacía: sorpresa, no podrá recuperar su dinero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/compra-rtx-4090-amazon-recibe-caja-vacia-sorpresa-no-podra-recuperar-dinero-1401240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tarjeta-grafica-4001464.jpg?tf=1200x' alt='Compra una RTX 4090 en Amazon y recibe una caja vacía: sorpresa, no podrá recuperar su dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/google-pixel-9-marca-camino-gama-alta-pone-todo-foco-ia-1401069'>El Google Pixel 9 marca el camino de la gama alta y pone todo el foco en la IA</a></h4>
-    <a href='https://computerhoy.com/analisis/google-pixel-9-marca-camino-gama-alta-pone-todo-foco-ia-1401069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-analisis-opiniones-4000995.jpg?tf=1200x' alt='El Google Pixel 9 marca el camino de la gama alta y pone todo el foco en la IA' />
+    <h4><a href='https://computerhoy.com/life/infalible-truco-blanquear-plastico-amarillento-dejar-electrodomesticos-como-nuevos-1401225'>El infalible truco para blanquear el plástico amarillento y dejar tus electrodomésticos como nuevos</a></h4>
+    <a href='https://computerhoy.com/life/infalible-truco-blanquear-plastico-amarillento-dejar-electrodomesticos-como-nuevos-1401225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/infalible-truco-blanquear-plastico-amarillento-dejar-electrodomesticos-como-nuevos-4001462.jpg?tf=1200x' alt='El infalible truco para blanquear el plástico amarillento y dejar tus electrodomésticos como nuevos' />
     </a>
 </div>
 
