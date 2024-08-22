@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/truco-mejorar-acelerar-rendimiento-movil-xiaomi-1392923'>He desactivado esta función de mi móvil Xiaomi que no sirve para nada y ahora vuela, ha rejuvenecido al instante</a></h4>
+    <a href='https://computerhoy.com/moviles/truco-mejorar-acelerar-rendimiento-movil-xiaomi-1392923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-3602125.jpg?tf=1200x' alt='He desactivado esta función de mi móvil Xiaomi que no sirve para nada y ahora vuela, ha rejuvenecido al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/comprar-shopdutyfree-opiniones-evitar-estafas-1399495'>¿Es fiable comprar ShopDutyFree? Opiniones y en qué debes fijarte para evitar estafas</a></h4>
+    <a href='https://computerhoy.com/apps/comprar-shopdutyfree-opiniones-evitar-estafas-1399495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienda-online-shopdutyfree-3913129.jpg?tf=1200x' alt='¿Es fiable comprar ShopDutyFree? Opiniones y en qué debes fijarte para evitar estafas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/truco-ajuste-whatsapp-memoria-movil-1394352'>¿WhatsApp devora la memoria de tu móvil? Si quieres evitarlo solo tienes que activar este ajuste</a></h4>
     <a href='https://computerhoy.com/apps/truco-ajuste-whatsapp-memoria-movil-1394352' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-come-memoria-movil-evitar-solo-hay-activar-ajuste-3665055.jpg?tf=1200x' alt='¿WhatsApp devora la memoria de tu móvil? Si quieres evitarlo solo tienes que activar este ajuste' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/cual-diferencia-game-pass-core-game-pass-ultimate-1401246'>¿Cuál es la diferencia entre Game Pass Core y Game Pass Ultimate?</a></h4>
     <a href='https://computerhoy.com/gaming/cual-diferencia-game-pass-core-game-pass-ultimate-1401246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/game-pass-ultimate-pc-xbox-series-xs-4001908.jpg?tf=1200x' alt='¿Cuál es la diferencia entre Game Pass Core y Game Pass Ultimate?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/empresa-tecnologia-obliga-todos-empleados-volver-oficina-porque-no-compatible-ambicion-1401356'>Esta empresa de tecnología obliga a todos sus empleados a volver a la oficina porque “no es compatible con la ambición”</a></h4>
-    <a href='https://computerhoy.com/moviles/empresa-tecnologia-obliga-todos-empleados-volver-oficina-porque-no-compatible-ambicion-1401356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fabricante-moviles-obliga-empleados-volver-oficina-teletrabajo-no-compatible-ambicion-4006299.jpg?tf=1200x' alt='Esta empresa de tecnología obliga a todos sus empleados a volver a la oficina porque “no es compatible con la ambición”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-lanza-redmi-pad-87-87-4g-dos-tablets-economicas-perfectas-dia-dia-1401315'>Xiaomi lanza la Redmi Pad SE 8.7 y 8.7 4G, dos tablets económicas perfectas para el día a día</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-lanza-redmi-pad-87-87-4g-dos-tablets-economicas-perfectas-dia-dia-1401315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/redmi-pad-87-87-4g-xiaomi-4005782.jpg?tf=1200x' alt='Xiaomi lanza la Redmi Pad SE 8.7 y 8.7 4G, dos tablets económicas perfectas para el día a día' />
     </a>
 </div>
 
