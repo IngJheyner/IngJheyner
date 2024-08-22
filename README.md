@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/android-historia-sistema-operativo-google-versiones-eterna-batalla-ios-1400835'>Android: historia del sistema operativo de Google, versiones y su eterna batalla con iOS</a></h4>
+    <a href='https://computerhoy.com/google/android-historia-sistema-operativo-google-versiones-eterna-batalla-ios-1400835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-google-historia-3986371.jpg?tf=1200x' alt='Android: historia del sistema operativo de Google, versiones y su eterna batalla con iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/nuevos-routers-avm-fritzbox-conectan-directamente-fibra-optica-1401437'>Llegan a España los nuevos routers de AVM que se conectan directamente a la fibra óptica, mejorando la conexión</a></h4>
+    <a href='https://computerhoy.com/internet/nuevos-routers-avm-fritzbox-conectan-directamente-fibra-optica-1401437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/llegan-espana-nuevos-routers-avm-conectan-directamente-fibra-optica-mejorando-conexion-4008415.jpg?tf=1200x' alt='Llegan a España los nuevos routers de AVM que se conectan directamente a la fibra óptica, mejorando la conexión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/disenos-productos-tan-perfectos-no-han-cambiado-toda-vida-1401178'>Diseños de productos tan perfectos que no han cambiado en toda su vida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/disenos-productos-tan-perfectos-no-han-cambiado-toda-vida-1401178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cable-ethernet-3088212.jpg?tf=1200x' alt='Diseños de productos tan perfectos que no han cambiado en toda su vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/youtube-crea-herramienta-ia-restaurar-canales-hackeados-1401433'>YouTube crea una herramienta con IA para restaurar canales hackeados</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-crea-herramienta-ia-restaurar-canales-hackeados-1401433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hackeo-youtube-4008871.jpg?tf=1200x' alt='YouTube crea una herramienta con IA para restaurar canales hackeados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/cientificos-desvelan-receta-hamburguesa-perfecta-sorprendente-ingrediente-fuera-comun-1401432'>Científicos desvelan la receta de la hamburguesa perfecta con un sorprendente ingrediente fuera de lo común</a></h4>
     <a href='https://computerhoy.com/alimentacion/cientificos-desvelan-receta-hamburguesa-perfecta-sorprendente-ingrediente-fuera-comun-1401432' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hombre-comiendo-hamburguesa-4008723.jpg?tf=1200x' alt='Científicos desvelan la receta de la hamburguesa perfecta con un sorprendente ingrediente fuera de lo común' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-disponible-android-auto-127-novedades-como-actualizar-ahora-mismo-1401430'>Ya disponible Android Auto 12.7: novedades y cómo actualizar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/apps/ya-disponible-android-auto-127-novedades-como-actualizar-ahora-mismo-1401430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-auto-127-4008722.jpg?tf=1200x' alt='Ya disponible Android Auto 12.7: novedades y cómo actualizar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-vuelve-aun-peligroso-nuevo-potente-accesorio-1401410'>Flipper Zero se vuelve aún más peligroso con este nuevo y potente accesorio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flipper-zero-vuelve-aun-peligroso-nuevo-potente-accesorio-1401410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/flipper-zero-vuelve-aun-peligroso-nuevo-potente-accesorio-4008570.jpg?tf=1200x' alt='Flipper Zero se vuelve aún más peligroso con este nuevo y potente accesorio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/stephen-king-ensalza-secuela-ha-arrasado-taquilla-nadie-esperara-fue-divertidisima-1400989'>Stephen King ensalza la secuela que ha arrasado la taquilla sin que nadie la esperara: “Fue divertidísima”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/stephen-king-ensalza-secuela-ha-arrasado-taquilla-nadie-esperara-fue-divertidisima-1400989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/stephen-king-recomienda-pelicula-espanola-poco-conocida-dice-horrible-tambien-terriblemente-divertida-3310939.jpg?tf=1200x' alt='Stephen King ensalza la secuela que ha arrasado la taquilla sin que nadie la esperara: “Fue divertidísima”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/conexion-tv-habitaciones-velocidad-internet-1395277'>Si tienes esta conexión de TV en tus habitaciones, enhorabuena: puedes hacer que tu conexión a internet vuele al instante</a></h4>
-    <a href='https://computerhoy.com/redes/conexion-tv-habitaciones-velocidad-internet-1395277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tienes-cable-tv-habitaciones-acabas-encontrar-oro-podras-hacer-conexion-internet-vuele-3708809.jpg?tf=1200x' alt='Si tienes esta conexión de TV en tus habitaciones, enhorabuena: puedes hacer que tu conexión a internet vuele al instante' />
     </a>
 </div>
 
