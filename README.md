@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/electrodomestico-siempre-debes-desenchufar-irte-vacaciones-ocu-1400734'>Este es el electrodoméstico que siempre debes desenchufar al irte de vacaciones, según la OCU</a></h4>
+    <a href='https://computerhoy.com/hogar/electrodomestico-siempre-debes-desenchufar-irte-vacaciones-ocu-1400734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/enchufe-4006453.jpg?tf=1200x' alt='Este es el electrodoméstico que siempre debes desenchufar al irte de vacaciones, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/cual-diferencia-game-pass-core-game-pass-ultimate-1401246'>¿Cuál es la diferencia entre Game Pass Core y Game Pass Ultimate?</a></h4>
+    <a href='https://computerhoy.com/gaming/cual-diferencia-game-pass-core-game-pass-ultimate-1401246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/game-pass-ultimate-pc-xbox-series-xs-4001908.jpg?tf=1200x' alt='¿Cuál es la diferencia entre Game Pass Core y Game Pass Ultimate?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/empresa-tecnologia-obliga-todos-empleados-volver-oficina-porque-no-compatible-ambicion-1401356'>Esta empresa de tecnología obliga a todos sus empleados a volver a la oficina porque “no es compatible con la ambición”</a></h4>
     <a href='https://computerhoy.com/moviles/empresa-tecnologia-obliga-todos-empleados-volver-oficina-porque-no-compatible-ambicion-1401356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fabricante-moviles-obliga-empleados-volver-oficina-teletrabajo-no-compatible-ambicion-4006299.jpg?tf=1200x' alt='Esta empresa de tecnología obliga a todos sus empleados a volver a la oficina porque “no es compatible con la ambición”' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/tienes-habilidad-steve-jobs-te-hubiese-considerado-persona-inteligente-1401334'>Si tienes esta habilidad, Steve Jobs te hubiese considerado una persona inteligente</a></h4>
     <a href='https://computerhoy.com/apple/tienes-habilidad-steve-jobs-te-hubiese-considerado-persona-inteligente-1401334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-habilidad-steve-jobs-te-hubiese-considerado-persona-inteligente-4005951.jpg?tf=1200x' alt='Si tienes esta habilidad, Steve Jobs te hubiese considerado una persona inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/aliexpress-liquidando-tablet-xiaomi-potente-barata-causa-sensacion-ahora-solo-200-euros-1401276'>AliExpress está liquidando la tablet Xiaomi potente y barata que causa sensación: ahora por sólo 200 euros</a></h4>
-    <a href='https://computerhoy.com/android/aliexpress-liquidando-tablet-xiaomi-potente-barata-causa-sensacion-ahora-solo-200-euros-1401276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/redmi-pad-pro-3533913.jpg?tf=1200x' alt='AliExpress está liquidando la tablet Xiaomi potente y barata que causa sensación: ahora por sólo 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-confirma-panel-control-windows-sera-historia-1401307'>Microsoft lo confirma y el Panel de Control de Windows será historia </a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-confirma-panel-control-windows-sera-historia-1401307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puedes-acceder-funciones-eliminadas-panel-control-windows-11-3300998.jpg?tf=1200x' alt='Microsoft lo confirma y el Panel de Control de Windows será historia ' />
     </a>
 </div>
 
