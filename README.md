@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-nunca-dejes-objeto-guantera-coche-no-quieres-te-roben-1401164'>La Guardia Civil advierte: nunca dejes este objeto en la guantera del coche si no quieres que te roben</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-nunca-dejes-objeto-guantera-coche-no-quieres-te-roben-1401164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guardia-civil-advierte-nunca-dejes-objeto-guantera-coche-no-quieres-te-roben-3998600.jpg?tf=1200x' alt='La Guardia Civil advierte: nunca dejes este objeto en la guantera del coche si no quieres que te roben' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-air-nuevos-datos-todo-sabemos-1401257'>El iPhone Air se deja ver con nuevos datos: todo lo que sabemos hasta ahora</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-air-nuevos-datos-todo-sabemos-1401257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-air-nuevos-datos-todo-sabemos-ahora-4002203.jpg?tf=1200x' alt='El iPhone Air se deja ver con nuevos datos: todo lo que sabemos hasta ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/contrasena-repite-millon-veces-muchos-paises-pone-bandeja-ciberdelincuentes-1401179'>Esta contraseña se repite un millón de veces en muchos países, y se lo pone en bandeja a los ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/contrasena-repite-millon-veces-muchos-paises-pone-bandeja-ciberdelincuentes-1401179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/contrasena-repite-millon-veces-muchos-paises-pone-bandeja-ciberdelincuentes-3999069.jpg?tf=1200x' alt='Esta contraseña se repite un millón de veces en muchos países, y se lo pone en bandeja a los ciberdelincuentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bestialidad-aliexpres-oferta-oneplus-12-1365455'>Qué bestialidad de AliExpress: deja el OnePlus más potente 300 euros por debajo de Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bestialidad-aliexpres-oferta-oneplus-12-1365455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-12r-3290267.jpg?tf=1200x' alt='Qué bestialidad de AliExpress: deja el OnePlus más potente 300 euros por debajo de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/quieres-copia-unica-respuesta-correcta-pagar-tarjeta-banco-espana-1401019'>¿Quieres copia? Esta es la única respuesta correcta al pagar con tarjeta, según el Banco de España"</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/quieres-copia-unica-respuesta-correcta-pagar-tarjeta-banco-espana-1401019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/quieres-copia-unica-respuesta-correcta-pagar-tarjeta-banco-espana-3992845.jpg?tf=1200x' alt='¿Quieres copia? Esta es la única respuesta correcta al pagar con tarjeta, según el Banco de España"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/deberias-colocar-papel-aluminio-detras-router-wifi-1401248'>Por qué deberías colocar papel de aluminio detrás de tu router WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/deberias-colocar-papel-aluminio-detras-router-wifi-1401248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/deberias-colocar-papel-aluminio-detras-router-wifi-4002677.jpg?tf=1200x' alt='Por qué deberías colocar papel de aluminio detrás de tu router WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/unica-letra-idioma-espanol-ha-eliminado-toda-historia-ya-no-usa-1401232'>Esta es la única letra que el idioma español ha eliminado en toda su historia: ¿por qué ya no se usa?</a></h4>
-    <a href='https://computerhoy.com/life/unica-letra-idioma-espanol-ha-eliminado-toda-historia-ya-no-usa-1401232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/unica-letra-idioma-espanol-ha-eliminado-toda-historia-ya-no-usa-4001907.jpg?tf=1200x' alt='Esta es la única letra que el idioma español ha eliminado en toda su historia: ¿por qué ya no se usa?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/cuatro-caracteres-bloquean-iphone-ipad-1401247'>Si tecleas estos cuatro caracteres, tu iPhone o iPad se bloquearán</a></h4>
-    <a href='https://computerhoy.com/moviles/cuatro-caracteres-bloquean-iphone-ipad-1401247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tecleas-estos-cuatro-caracteres-iphone-ipad-bloquearan-4001758.jpg?tf=1200x' alt='Si tecleas estos cuatro caracteres, tu iPhone o iPad se bloquearán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/alienware-marca-gaming-aprovecho-tiron-expediente-x-1400722'>Qué es Alienware: la marca gaming que aprovechó el tirón de 'Expediente X'</a></h4>
-    <a href='https://computerhoy.com/gaming/alienware-marca-gaming-aprovecho-tiron-expediente-x-1400722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alienware-3984999.jpg?tf=1200x' alt='Qué es Alienware: la marca gaming que aprovechó el tirón de 'Expediente X'' />
     </a>
 </div>
 
