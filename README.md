@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/encuentran-fondo-lago-estatua-3000-anos-antiguedad-huellas-creador-1401265'>Encuentran en el fondo de un lago una estatua de 3.000 años de antigüedad con las huellas de su creador</a></h4>
+    <a href='https://computerhoy.com/ciencia/encuentran-fondo-lago-estatua-3000-anos-antiguedad-huellas-creador-1401265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/encuentran-fondo-lago-estatua-3000-anos-antiguedad-huellas-creador-4004451.jpg?tf=1200x' alt='Encuentran en el fondo de un lago una estatua de 3.000 años de antigüedad con las huellas de su creador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-empleo-esclavo-robots-1400858'>Elon Musk crea un nuevo empleo: 6.000 euros al mes por ser “esclavo de los robots”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-empleo-esclavo-robots-1400858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tesla-paga-48-dolares-hora-entrenar-robot-optimus-realidad-virtual-3986524.jpg?tf=1200x' alt='Elon Musk crea un nuevo empleo: 6.000 euros al mes por ser “esclavo de los robots”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/di-adios-nube-nas-barato-amazon-1365957'>Di adiós a la nube: este NAS es fácil de configurar, barato y a la larga te ahorrará mucho dinero</a></h4>
     <a href='https://computerhoy.com/tecnologia/di-adios-nube-nas-barato-amazon-1365957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/synology-ds120j-3276660.jpg?tf=1200x' alt='Di adiós a la nube: este NAS es fácil de configurar, barato y a la larga te ahorrará mucho dinero' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/realidad-virtual-rv-historia-primeros-dispositivos-visores-populares-1400542'>Qué es realidad virtual o RV: historia, primeros dispositivos y visores más populares</a></h4>
     <a href='https://computerhoy.com/tecnologia/realidad-virtual-rv-historia-primeros-dispositivos-visores-populares-1400542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/realidad-virtual-vr-rv-3964795.jpg?tf=1200x' alt='Qué es realidad virtual o RV: historia, primeros dispositivos y visores más populares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/me-ha-gustado-auriculares-dyson-ontrac-autonomia-dias-dias-uso-1400056'>Lo que más me ha gustado de los auriculares Dyson OnTrac es su autonomía para días y días de uso</a></h4>
-    <a href='https://computerhoy.com/audio/me-ha-gustado-auriculares-dyson-ontrac-autonomia-dias-dias-uso-1400056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dyson-ontrac-3942388.jpg?tf=1200x' alt='Lo que más me ha gustado de los auriculares Dyson OnTrac es su autonomía para días y días de uso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-nunca-dejes-objeto-guantera-coche-no-quieres-te-roben-1401164'>La Guardia Civil advierte: nunca dejes este objeto en la guantera del coche si no quieres que te roben</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-nunca-dejes-objeto-guantera-coche-no-quieres-te-roben-1401164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guardia-civil-advierte-nunca-dejes-objeto-guantera-coche-no-quieres-te-roben-3998600.jpg?tf=1200x' alt='La Guardia Civil advierte: nunca dejes este objeto en la guantera del coche si no quieres que te roben' />
     </a>
 </div>
 
