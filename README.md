@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/aliexpress-liquidando-tablet-xiaomi-potente-barata-causa-sensacion-ahora-solo-200-euros-1401276'>AliExpress está liquidando la tablet Xiaomi potente y barata que causa sensación: ahora por sólo 200 euros</a></h4>
+    <a href='https://computerhoy.com/android/aliexpress-liquidando-tablet-xiaomi-potente-barata-causa-sensacion-ahora-solo-200-euros-1401276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/redmi-pad-pro-3533913.jpg?tf=1200x' alt='AliExpress está liquidando la tablet Xiaomi potente y barata que causa sensación: ahora por sólo 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-confirma-panel-control-windows-sera-historia-1401307'>Microsoft lo confirma y el Panel de Control de Windows será historia </a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-confirma-panel-control-windows-sera-historia-1401307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puedes-acceder-funciones-eliminadas-panel-control-windows-11-3300998.jpg?tf=1200x' alt='Microsoft lo confirma y el Panel de Control de Windows será historia ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/experto-seguridad-advierte-borra-estas-apps-nada-volver-casa-vacaciones-1401317'>Un experto en seguridad advierte: borra estas apps nada más volver a casa tras las vacaciones</a></h4>
+    <a href='https://computerhoy.com/apps/experto-seguridad-advierte-borra-estas-apps-nada-volver-casa-vacaciones-1401317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apps-vacaciones-4005938.jpg?tf=1200x' alt='Un experto en seguridad advierte: borra estas apps nada más volver a casa tras las vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-transformar-movil-mando-distancia-smart-tv-1253504'>Este truco transforma cualquier móvil en un mando a distancia para tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-transformar-movil-mando-distancia-smart-tv-1253504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mando-distancia-3047450.jpg?tf=1200x' alt='Este truco transforma cualquier móvil en un mando a distancia para tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/espera-termina-gran-transformacion-siri-llegara-iphone-ano-1401294'>La espera termina y la gran transformación de Siri llegará a tu iPhone este año</a></h4>
     <a href='https://computerhoy.com/apple/espera-termina-gran-transformacion-siri-llegara-iphone-ano-1401294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/siri-ia-iphone-4005434.jpg?tf=1200x' alt='La espera termina y la gran transformación de Siri llegará a tu iPhone este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-oferta-mejor-movil-precio-1400432'>OnePlus revienta el mercado: su móvil más brutal con 16GB de RAM derrumba su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-oferta-mejor-movil-precio-1400432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oneplus-12r-3303962.jpg?tf=1200x' alt='OnePlus revienta el mercado: su móvil más brutal con 16GB de RAM derrumba su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ciencia-humanos-fecha-singularidad-1399601'>La ciencia calcula que los humanos alcanzarán la singularidad en solo 21 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ciencia-humanos-fecha-singularidad-1399601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/foto-ia-3912121.jpg?tf=1200x' alt='La ciencia calcula que los humanos alcanzarán la singularidad en solo 21 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-ha-implantado-chip-neuralink-otro-paciente-puede-jugar-videojuegos-disenar-3d-1401299'>Elon Musk ha implantado el chip de Neuralink en otro paciente: puede jugar a videojuegos y diseñar en 3D</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-ha-implantado-chip-neuralink-otro-paciente-puede-jugar-videojuegos-disenar-3d-1401299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/elon-musk-ha-implantado-chip-neuralink-segundo-paciente-4005428.jpg?tf=1200x' alt='Elon Musk ha implantado el chip de Neuralink en otro paciente: puede jugar a videojuegos y diseñar en 3D' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/black-friday-adelantado-amazon-liquidando-firestick-aparatos-alexa-1401266'>Black Friday por adelantado: Amazon está liquidando sus Firestick y aparatos con Alexa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/black-friday-adelantado-amazon-liquidando-firestick-aparatos-alexa-1401266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fire-tv-stick-3308867.jpg?tf=1200x' alt='Black Friday por adelantado: Amazon está liquidando sus Firestick y aparatos con Alexa' />
     </a>
 </div>
 
