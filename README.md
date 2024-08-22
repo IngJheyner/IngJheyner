@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/deberias-colocar-papel-aluminio-detras-router-wifi-1401248'>Por qué deberías colocar papel de aluminio detrás de tu router WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/deberias-colocar-papel-aluminio-detras-router-wifi-1401248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/deberias-colocar-papel-aluminio-detras-router-wifi-4002677.jpg?tf=1200x' alt='Por qué deberías colocar papel de aluminio detrás de tu router WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/unica-letra-idioma-espanol-ha-eliminado-toda-historia-ya-no-usa-1401232'>Esta es la única letra que el idioma español ha eliminado en toda su historia: ¿por qué ya no se usa?</a></h4>
     <a href='https://computerhoy.com/life/unica-letra-idioma-espanol-ha-eliminado-toda-historia-ya-no-usa-1401232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/unica-letra-idioma-espanol-ha-eliminado-toda-historia-ya-no-usa-4001907.jpg?tf=1200x' alt='Esta es la única letra que el idioma español ha eliminado en toda su historia: ¿por qué ya no se usa?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/nuevas-consolas-xbox-2024-precio-fecha-lanzamiento-1401243'>Las tres nuevas consolas Xbox ya tienen precio y fecha de lanzamiento</a></h4>
     <a href='https://computerhoy.com/gaming/nuevas-consolas-xbox-2024-precio-fecha-lanzamiento-1401243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1724264140366-4001148.jpg?tf=1200x' alt='Las tres nuevas consolas Xbox ya tienen precio y fecha de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/enviar-archivos-movil-android-pc-sera-facil-nunca-funcionara-nuevo-airdrop-windows-1400279'>Enviar archivos entre tu móvil Android y el PC será más fácil que nunca, así funcionará el nuevo AirDrop de Windows</a></h4>
-    <a href='https://computerhoy.com/windows/enviar-archivos-movil-android-pc-sera-facil-nunca-funcionara-nuevo-airdrop-windows-1400279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/enviar-archivos-movil-android-pc-sera-facil-nunca-funcionara-nuevo-airdrop-windows-3951172.jpg?tf=1200x' alt='Enviar archivos entre tu móvil Android y el PC será más fácil que nunca, así funcionará el nuevo AirDrop de Windows' />
     </a>
 </div>
 
