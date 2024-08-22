@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-te-enganando-estudio-revela-no-te-dan-datos-correctos-1401284'>Tu smartwatch te está engañando: estudio revela que no te dan datos correctos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-te-enganando-estudio-revela-no-te-dan-datos-correctos-1401284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-watch-ultra-3855028.jpg?tf=1200x' alt='Tu smartwatch te está engañando: estudio revela que no te dan datos correctos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/ni-movistar-ni-vodafone-mejor-compania-contratar-movil-ocu-1401281'>Ni Movistar ni Vodafone, esta es la mejor compañía para contratar tu móvil, según la OCU</a></h4>
+    <a href='https://computerhoy.com/moviles/ni-movistar-ni-vodafone-mejor-compania-contratar-movil-ocu-1401281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-movistar-ni-vodafone-mejor-compania-contratar-movil-ocu-4005088.jpg?tf=1200x' alt='Ni Movistar ni Vodafone, esta es la mejor compañía para contratar tu móvil, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ya-puedes-convertir-notas-voz-whatsapp-texto-funciona-1401272'>Ya puedes convertir las notas de voz de WhatsApp a texto: así funciona</a></h4>
+    <a href='https://computerhoy.com/apps/ya-puedes-convertir-notas-voz-whatsapp-texto-funciona-1401272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nueva-funcion-whatsapp-permite-transcribir-notas-voz-3740008.jpg?tf=1200x' alt='Ya puedes convertir las notas de voz de WhatsApp a texto: así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/adios-chromecast-tv-box-xiaomi-tiene-android-ha-hundido-precio-1400937'>Adiós al Chromecast: la TV Box de Xiaomi tiene Android y ha hundido su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/adios-chromecast-tv-box-xiaomi-tiene-android-ha-hundido-precio-1400937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-box-s-2nd-gen-3272482.jpg?tf=1200x' alt='Adiós al Chromecast: la TV Box de Xiaomi tiene Android y ha hundido su precio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/eres-digi-estas-enhorabuena-red-movil-television-propia-1401263'>Si eres de DIGI, estás de enhorabuena: red móvil y televisión propia</a></h4>
     <a href='https://computerhoy.com/redes/eres-digi-estas-enhorabuena-red-movil-television-propia-1401263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/digi-3436208.jpg?tf=1200x' alt='Si eres de DIGI, estás de enhorabuena: red móvil y televisión propia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/11-apps-basadas-ia-te-facilitaran-vida-haran-productivo-1285112'>11 apps basadas en la IA que te facilitarán la vida y te ayudarán a ser más productivo</a></h4>
-    <a href='https://computerhoy.com/apps/11-apps-basadas-ia-te-facilitaran-vida-haran-productivo-1285112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/moviles-chatbot-3100458.jpg?tf=1200x' alt='11 apps basadas en la IA que te facilitarán la vida y te ayudarán a ser más productivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/encuentran-fondo-lago-estatua-3000-anos-antiguedad-huellas-creador-1401265'>Encuentran en el fondo de un lago una estatua de 3.000 años de antigüedad con las huellas de su creador</a></h4>
-    <a href='https://computerhoy.com/ciencia/encuentran-fondo-lago-estatua-3000-anos-antiguedad-huellas-creador-1401265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/encuentran-fondo-lago-estatua-3000-anos-antiguedad-huellas-creador-4004451.jpg?tf=1200x' alt='Encuentran en el fondo de un lago una estatua de 3.000 años de antigüedad con las huellas de su creador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-empleo-esclavo-robots-1400858'>Elon Musk crea un nuevo empleo: 6.000 euros al mes por ser “esclavo de los robots”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-empleo-esclavo-robots-1400858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tesla-paga-48-dolares-hora-entrenar-robot-optimus-realidad-virtual-3986524.jpg?tf=1200x' alt='Elon Musk crea un nuevo empleo: 6.000 euros al mes por ser “esclavo de los robots”' />
     </a>
 </div>
 
