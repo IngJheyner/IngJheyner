@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/black-friday-adelantado-amazon-liquidando-firestick-aparatos-alexa-1401266'>Black Friday por adelantado: Amazon está liquidando sus Firestick y aparatos con Alexa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/black-friday-adelantado-amazon-liquidando-firestick-aparatos-alexa-1401266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fire-tv-stick-3308867.jpg?tf=1200x' alt='Black Friday por adelantado: Amazon está liquidando sus Firestick y aparatos con Alexa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-hace-oidos-sordos-lanza-recall-polemica-funcion-busqueda-ia-1401290'>Microsoft hace oídos sordos y lanza Recall, su polémica función de búsqueda con IA</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-hace-oidos-sordos-lanza-recall-polemica-funcion-busqueda-ia-1401290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-recall-como-funciona-deberias-desactivarlo-3487679.jpg?tf=1200x' alt='Microsoft hace oídos sordos y lanza Recall, su polémica función de búsqueda con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-arreglar-microsd-estropeada-no-lee-ni-funciona-1262772'>Cómo arreglar una microSD estropeada que no funciona</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-arreglar-microsd-estropeada-no-lee-ni-funciona-1262772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/microsd.jpg?tf=1200x' alt='Cómo arreglar una microSD estropeada que no funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/smartwatch-te-enganando-estudio-revela-no-te-dan-datos-correctos-1401284'>Tu smartwatch te está engañando: estudio revela que no te dan datos correctos</a></h4>
     <a href='https://computerhoy.com/tecnologia/smartwatch-te-enganando-estudio-revela-no-te-dan-datos-correctos-1401284' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-watch-ultra-3855028.jpg?tf=1200x' alt='Tu smartwatch te está engañando: estudio revela que no te dan datos correctos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/ni-movistar-ni-vodafone-mejor-compania-contratar-movil-ocu-1401281'>Ni Movistar ni Vodafone, esta es la mejor compañía para contratar tu móvil, según la OCU</a></h4>
     <a href='https://computerhoy.com/moviles/ni-movistar-ni-vodafone-mejor-compania-contratar-movil-ocu-1401281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-movistar-ni-vodafone-mejor-compania-contratar-movil-ocu-4005088.jpg?tf=1200x' alt='Ni Movistar ni Vodafone, esta es la mejor compañía para contratar tu móvil, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-puedes-convertir-notas-voz-whatsapp-texto-funciona-1401272'>Ya puedes convertir las notas de voz de WhatsApp a texto: así funciona</a></h4>
-    <a href='https://computerhoy.com/apps/ya-puedes-convertir-notas-voz-whatsapp-texto-funciona-1401272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nueva-funcion-whatsapp-permite-transcribir-notas-voz-3740008.jpg?tf=1200x' alt='Ya puedes convertir las notas de voz de WhatsApp a texto: así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-chromecast-tv-box-xiaomi-tiene-android-ha-hundido-precio-1400937'>Adiós al Chromecast: la TV Box de Xiaomi tiene Android y ha hundido su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-chromecast-tv-box-xiaomi-tiene-android-ha-hundido-precio-1400937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-box-s-2nd-gen-3272482.jpg?tf=1200x' alt='Adiós al Chromecast: la TV Box de Xiaomi tiene Android y ha hundido su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/eres-digi-estas-enhorabuena-red-movil-television-propia-1401263'>Si eres de DIGI, estás de enhorabuena: red móvil y televisión propia</a></h4>
-    <a href='https://computerhoy.com/redes/eres-digi-estas-enhorabuena-red-movil-television-propia-1401263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/digi-3436208.jpg?tf=1200x' alt='Si eres de DIGI, estás de enhorabuena: red móvil y televisión propia' />
     </a>
 </div>
 
