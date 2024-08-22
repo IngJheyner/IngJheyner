@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/quieres-copia-unica-respuesta-correcta-pagar-tarjeta-banco-espana-1401019'>¿Quieres copia? Esta es la única respuesta correcta al pagar con tarjeta, según el Banco de España"</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/quieres-copia-unica-respuesta-correcta-pagar-tarjeta-banco-espana-1401019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/quieres-copia-unica-respuesta-correcta-pagar-tarjeta-banco-espana-3992845.jpg?tf=1200x' alt='¿Quieres copia? Esta es la única respuesta correcta al pagar con tarjeta, según el Banco de España"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/deberias-colocar-papel-aluminio-detras-router-wifi-1401248'>Por qué deberías colocar papel de aluminio detrás de tu router WiFi</a></h4>
     <a href='https://computerhoy.com/redes/deberias-colocar-papel-aluminio-detras-router-wifi-1401248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/deberias-colocar-papel-aluminio-detras-router-wifi-4002677.jpg?tf=1200x' alt='Por qué deberías colocar papel de aluminio detrás de tu router WiFi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/alienware-marca-gaming-aprovecho-tiron-expediente-x-1400722'>Qué es Alienware: la marca gaming que aprovechó el tirón de 'Expediente X'</a></h4>
     <a href='https://computerhoy.com/gaming/alienware-marca-gaming-aprovecho-tiron-expediente-x-1400722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alienware-3984999.jpg?tf=1200x' alt='Qué es Alienware: la marca gaming que aprovechó el tirón de 'Expediente X'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nuevas-consolas-xbox-2024-precio-fecha-lanzamiento-1401243'>Las tres nuevas consolas Xbox ya tienen precio y fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.com/gaming/nuevas-consolas-xbox-2024-precio-fecha-lanzamiento-1401243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1724264140366-4001148.jpg?tf=1200x' alt='Las tres nuevas consolas Xbox ya tienen precio y fecha de lanzamiento' />
     </a>
 </div>
 
