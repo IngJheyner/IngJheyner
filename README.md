@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/empresa-tecnologia-obliga-todos-empleados-volver-oficina-porque-no-compatible-ambicion-1401356'>Esta empresa de tecnología obliga a todos sus empleados a volver a la oficina porque “no es compatible con la ambición”</a></h4>
+    <a href='https://computerhoy.com/moviles/empresa-tecnologia-obliga-todos-empleados-volver-oficina-porque-no-compatible-ambicion-1401356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fabricante-moviles-obliga-empleados-volver-oficina-teletrabajo-no-compatible-ambicion-4006299.jpg?tf=1200x' alt='Esta empresa de tecnología obliga a todos sus empleados a volver a la oficina porque “no es compatible con la ambición”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-lanza-redmi-pad-87-87-4g-dos-tablets-economicas-perfectas-dia-dia-1401315'>Xiaomi lanza la Redmi Pad SE 8.7 y 8.7 4G, dos tablets económicas perfectas para el día a día</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-lanza-redmi-pad-87-87-4g-dos-tablets-economicas-perfectas-dia-dia-1401315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/redmi-pad-87-87-4g-xiaomi-4005782.jpg?tf=1200x' alt='Xiaomi lanza la Redmi Pad SE 8.7 y 8.7 4G, dos tablets económicas perfectas para el día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tienes-habilidad-steve-jobs-te-hubiese-considerado-persona-inteligente-1401334'>Si tienes esta habilidad, Steve Jobs te hubiese considerado una persona inteligente</a></h4>
+    <a href='https://computerhoy.com/apple/tienes-habilidad-steve-jobs-te-hubiese-considerado-persona-inteligente-1401334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-habilidad-steve-jobs-te-hubiese-considerado-persona-inteligente-4005951.jpg?tf=1200x' alt='Si tienes esta habilidad, Steve Jobs te hubiese considerado una persona inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/aliexpress-liquidando-tablet-xiaomi-potente-barata-causa-sensacion-ahora-solo-200-euros-1401276'>AliExpress está liquidando la tablet Xiaomi potente y barata que causa sensación: ahora por sólo 200 euros</a></h4>
     <a href='https://computerhoy.com/android/aliexpress-liquidando-tablet-xiaomi-potente-barata-causa-sensacion-ahora-solo-200-euros-1401276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/redmi-pad-pro-3533913.jpg?tf=1200x' alt='AliExpress está liquidando la tablet Xiaomi potente y barata que causa sensación: ahora por sólo 200 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-confirma-panel-control-windows-sera-historia-1401307'>Microsoft lo confirma y el Panel de Control de Windows será historia </a></h4>
     <a href='https://computerhoy.com/windows/microsoft-confirma-panel-control-windows-sera-historia-1401307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puedes-acceder-funciones-eliminadas-panel-control-windows-11-3300998.jpg?tf=1200x' alt='Microsoft lo confirma y el Panel de Control de Windows será historia ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/experto-seguridad-advierte-borra-estas-apps-nada-volver-casa-vacaciones-1401317'>Un experto en seguridad advierte: borra estas apps nada más volver a casa tras las vacaciones</a></h4>
-    <a href='https://computerhoy.com/apps/experto-seguridad-advierte-borra-estas-apps-nada-volver-casa-vacaciones-1401317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apps-vacaciones-4005938.jpg?tf=1200x' alt='Un experto en seguridad advierte: borra estas apps nada más volver a casa tras las vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-transformar-movil-mando-distancia-smart-tv-1253504'>Este truco transforma cualquier móvil en un mando a distancia para tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-transformar-movil-mando-distancia-smart-tv-1253504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mando-distancia-3047450.jpg?tf=1200x' alt='Este truco transforma cualquier móvil en un mando a distancia para tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/espera-termina-gran-transformacion-siri-llegara-iphone-ano-1401294'>La espera termina y la gran transformación de Siri llegará a tu iPhone este año</a></h4>
-    <a href='https://computerhoy.com/apple/espera-termina-gran-transformacion-siri-llegara-iphone-ano-1401294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/siri-ia-iphone-4005434.jpg?tf=1200x' alt='La espera termina y la gran transformación de Siri llegará a tu iPhone este año' />
     </a>
 </div>
 
