@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ni-google-maps-ni-waze-podran-ayudarte-carretera-infernal-espana-12-curvas-180-grados-1401428'>Ni Google Maps ni Waze podrán ayudarte: esta es la carretera más infernal de España… ¡Hasta 12 curvas de 180 grados!</a></h4>
+    <a href='https://computerhoy.com/life/ni-google-maps-ni-waze-podran-ayudarte-carretera-infernal-espana-12-curvas-180-grados-1401428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-google-maps-ni-waze-podran-ayudarte-carretera-infernal-espana-12-curvas-180-grados-4009597.jpg?tf=1200x' alt='Ni Google Maps ni Waze podrán ayudarte: esta es la carretera más infernal de España… ¡Hasta 12 curvas de 180 grados!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/prision-hacker-falseo-propia-muerte-no-mantener-hija-1401441'>A prisión el hacker que falseó su propia muerte para no mantener a su hija</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/prision-hacker-falseo-propia-muerte-no-mantener-hija-1401441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/prision-hacker-falseo-propia-muerte-no-mantener-hijos-4009165.jpg?tf=1200x' alt='A prisión el hacker que falseó su propia muerte para no mantener a su hija' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/android-historia-sistema-operativo-google-versiones-eterna-batalla-ios-1400835'>Android: historia del sistema operativo de Google, versiones y su eterna batalla con iOS</a></h4>
     <a href='https://computerhoy.com/google/android-historia-sistema-operativo-google-versiones-eterna-batalla-ios-1400835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-google-historia-3986371.jpg?tf=1200x' alt='Android: historia del sistema operativo de Google, versiones y su eterna batalla con iOS' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/disenos-productos-tan-perfectos-no-han-cambiado-toda-vida-1401178'>Diseños de productos tan perfectos que no han cambiado en toda su vida</a></h4>
     <a href='https://computerhoy.com/tecnologia/disenos-productos-tan-perfectos-no-han-cambiado-toda-vida-1401178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cable-ethernet-3088212.jpg?tf=1200x' alt='Diseños de productos tan perfectos que no han cambiado en toda su vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-crea-herramienta-ia-restaurar-canales-hackeados-1401433'>YouTube crea una herramienta con IA para restaurar canales hackeados</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-crea-herramienta-ia-restaurar-canales-hackeados-1401433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hackeo-youtube-4008871.jpg?tf=1200x' alt='YouTube crea una herramienta con IA para restaurar canales hackeados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/cientificos-desvelan-receta-hamburguesa-perfecta-sorprendente-ingrediente-fuera-comun-1401432'>Científicos desvelan la receta de la hamburguesa perfecta con un sorprendente ingrediente fuera de lo común</a></h4>
-    <a href='https://computerhoy.com/alimentacion/cientificos-desvelan-receta-hamburguesa-perfecta-sorprendente-ingrediente-fuera-comun-1401432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hombre-comiendo-hamburguesa-4008723.jpg?tf=1200x' alt='Científicos desvelan la receta de la hamburguesa perfecta con un sorprendente ingrediente fuera de lo común' />
     </a>
 </div>
 
