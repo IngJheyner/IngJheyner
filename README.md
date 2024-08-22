@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/adios-chromecast-tv-box-xiaomi-tiene-android-ha-hundido-precio-1400937'>Adiós al Chromecast: la TV Box de Xiaomi tiene Android y ha hundido su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-chromecast-tv-box-xiaomi-tiene-android-ha-hundido-precio-1400937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-box-s-2nd-gen-3272482.jpg?tf=1200x' alt='Adiós al Chromecast: la TV Box de Xiaomi tiene Android y ha hundido su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/eres-digi-estas-enhorabuena-red-movil-television-propia-1401263'>Si eres de DIGI, estás de enhorabuena: red móvil y televisión propia</a></h4>
+    <a href='https://computerhoy.com/redes/eres-digi-estas-enhorabuena-red-movil-television-propia-1401263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/digi-3436208.jpg?tf=1200x' alt='Si eres de DIGI, estás de enhorabuena: red móvil y televisión propia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/11-apps-basadas-ia-te-facilitaran-vida-haran-productivo-1285112'>11 apps basadas en la IA que te facilitarán la vida y te ayudarán a ser más productivo</a></h4>
+    <a href='https://computerhoy.com/apps/11-apps-basadas-ia-te-facilitaran-vida-haran-productivo-1285112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/moviles-chatbot-3100458.jpg?tf=1200x' alt='11 apps basadas en la IA que te facilitarán la vida y te ayudarán a ser más productivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/encuentran-fondo-lago-estatua-3000-anos-antiguedad-huellas-creador-1401265'>Encuentran en el fondo de un lago una estatua de 3.000 años de antigüedad con las huellas de su creador</a></h4>
     <a href='https://computerhoy.com/ciencia/encuentran-fondo-lago-estatua-3000-anos-antiguedad-huellas-creador-1401265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/encuentran-fondo-lago-estatua-3000-anos-antiguedad-huellas-creador-4004451.jpg?tf=1200x' alt='Encuentran en el fondo de un lago una estatua de 3.000 años de antigüedad con las huellas de su creador' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-empleo-esclavo-robots-1400858'>Elon Musk crea un nuevo empleo: 6.000 euros al mes por ser “esclavo de los robots”</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-empleo-esclavo-robots-1400858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tesla-paga-48-dolares-hora-entrenar-robot-optimus-realidad-virtual-3986524.jpg?tf=1200x' alt='Elon Musk crea un nuevo empleo: 6.000 euros al mes por ser “esclavo de los robots”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/di-adios-nube-nas-barato-amazon-1365957'>Di adiós a la nube: este NAS es fácil de configurar, barato y a la larga te ahorrará mucho dinero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/di-adios-nube-nas-barato-amazon-1365957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/synology-ds120j-3276660.jpg?tf=1200x' alt='Di adiós a la nube: este NAS es fácil de configurar, barato y a la larga te ahorrará mucho dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/como-saber-cpu-tiene-pc-caracteristicas-1399779'>Cómo saber qué CPU tiene tu PC y entender sus características</a></h4>
-    <a href='https://computerhoy.com/pc/como-saber-cpu-tiene-pc-caracteristicas-1399779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cpu-pc-3932379.jpg?tf=1200x' alt='Cómo saber qué CPU tiene tu PC y entender sus características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/realidad-virtual-rv-historia-primeros-dispositivos-visores-populares-1400542'>Qué es realidad virtual o RV: historia, primeros dispositivos y visores más populares</a></h4>
-    <a href='https://computerhoy.com/tecnologia/realidad-virtual-rv-historia-primeros-dispositivos-visores-populares-1400542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/realidad-virtual-vr-rv-3964795.jpg?tf=1200x' alt='Qué es realidad virtual o RV: historia, primeros dispositivos y visores más populares' />
     </a>
 </div>
 
