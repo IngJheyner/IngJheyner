@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/prision-hacker-falseo-propia-muerte-no-mantener-hija-1401441'>A prisión el hacker que falseó su propia muerte para no mantener a su hija</a></h4>
+    <h4><a href='https://computerhoy.com/ciberseguridad/prision-hacker-falseo-propia-muerte-no-mantener-hija-1401441'>A prisión el hacker que falsificó su propia muerte para no mantener a su hija</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/prision-hacker-falseo-propia-muerte-no-mantener-hija-1401441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/prision-hacker-falseo-propia-muerte-no-mantener-hijos-4009165.jpg?tf=1200x' alt='A prisión el hacker que falseó su propia muerte para no mantener a su hija' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/prision-hacker-falseo-propia-muerte-no-mantener-hijos-4009165.jpg?tf=1200x' alt='A prisión el hacker que falsificó su propia muerte para no mantener a su hija' />
     </a>
 </div>
 
