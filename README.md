@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/espera-termina-gran-transformacion-siri-llegara-iphone-ano-1401294'>La espera termina y la gran transformación de Siri llegará a tu iPhone este año</a></h4>
+    <a href='https://computerhoy.com/apple/espera-termina-gran-transformacion-siri-llegara-iphone-ano-1401294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/siri-ia-iphone-4005434.jpg?tf=1200x' alt='La espera termina y la gran transformación de Siri llegará a tu iPhone este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-oferta-mejor-movil-precio-1400432'>OnePlus revienta el mercado: su móvil más brutal con 16GB de RAM derrumba su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-oferta-mejor-movil-precio-1400432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oneplus-12r-3303962.jpg?tf=1200x' alt='OnePlus revienta el mercado: su móvil más brutal con 16GB de RAM derrumba su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ciencia-humanos-fecha-singularidad-1399601'>La ciencia calcula que los humanos alcanzarán la singularidad en solo 21 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ciencia-humanos-fecha-singularidad-1399601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/foto-ia-3912121.jpg?tf=1200x' alt='La ciencia calcula que los humanos alcanzarán la singularidad en solo 21 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-ha-implantado-chip-neuralink-otro-paciente-puede-jugar-videojuegos-disenar-3d-1401299'>Elon Musk ha implantado el chip de Neuralink en otro paciente: puede jugar a videojuegos y diseñar en 3D</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-ha-implantado-chip-neuralink-otro-paciente-puede-jugar-videojuegos-disenar-3d-1401299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/elon-musk-ha-implantado-chip-neuralink-segundo-paciente-4005428.jpg?tf=1200x' alt='Elon Musk ha implantado el chip de Neuralink en otro paciente: puede jugar a videojuegos y diseñar en 3D' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/black-friday-adelantado-amazon-liquidando-firestick-aparatos-alexa-1401266'>Black Friday por adelantado: Amazon está liquidando sus Firestick y aparatos con Alexa</a></h4>
     <a href='https://computerhoy.com/tecnologia/black-friday-adelantado-amazon-liquidando-firestick-aparatos-alexa-1401266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fire-tv-stick-3308867.jpg?tf=1200x' alt='Black Friday por adelantado: Amazon está liquidando sus Firestick y aparatos con Alexa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-hace-oidos-sordos-lanza-recall-polemica-funcion-busqueda-ia-1401290'>Microsoft hace oídos sordos y lanza Recall, su polémica función de búsqueda con IA</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-hace-oidos-sordos-lanza-recall-polemica-funcion-busqueda-ia-1401290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-recall-como-funciona-deberias-desactivarlo-3487679.jpg?tf=1200x' alt='Microsoft hace oídos sordos y lanza Recall, su polémica función de búsqueda con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-arreglar-microsd-estropeada-no-lee-ni-funciona-1262772'>Cómo arreglar una microSD estropeada que no funciona</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-arreglar-microsd-estropeada-no-lee-ni-funciona-1262772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/microsd.jpg?tf=1200x' alt='Cómo arreglar una microSD estropeada que no funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-te-enganando-estudio-revela-no-te-dan-datos-correctos-1401284'>Tu smartwatch te está engañando: estudio revela que no te dan datos correctos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-te-enganando-estudio-revela-no-te-dan-datos-correctos-1401284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-watch-ultra-3855028.jpg?tf=1200x' alt='Tu smartwatch te está engañando: estudio revela que no te dan datos correctos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ni-movistar-ni-vodafone-mejor-compania-contratar-movil-ocu-1401281'>Ni Movistar ni Vodafone, esta es la mejor compañía para contratar tu móvil, según la OCU</a></h4>
-    <a href='https://computerhoy.com/moviles/ni-movistar-ni-vodafone-mejor-compania-contratar-movil-ocu-1401281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-movistar-ni-vodafone-mejor-compania-contratar-movil-ocu-4005088.jpg?tf=1200x' alt='Ni Movistar ni Vodafone, esta es la mejor compañía para contratar tu móvil, según la OCU' />
     </a>
 </div>
 
