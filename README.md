@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/truco-mejorar-acelerar-rendimiento-movil-xiaomi-1392923'>He desactivado esta función de mi móvil Xiaomi que no sirve para nada y ahora vuela, ha rejuvenecido al instante</a></h4>
-    <a href='https://computerhoy.com/moviles/truco-mejorar-acelerar-rendimiento-movil-xiaomi-1392923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-3602125.jpg?tf=1200x' alt='He desactivado esta función de mi móvil Xiaomi que no sirve para nada y ahora vuela, ha rejuvenecido al instante' />
+    <h4><a href='https://computerhoy.com/life/cerradura-peligrosa-ladrones-1380443'>Si tienes este tipo de cerradura, cámbiala de inmediato, se pueden abrir en segundos: el 80% de las casas en España la tienen</a></h4>
+    <a href='https://computerhoy.com/life/cerradura-peligrosa-ladrones-1380443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ladron-abriendo-cerradura-3301357.jpg?tf=1200x' alt='Si tienes este tipo de cerradura, cámbiala de inmediato, se pueden abrir en segundos: el 80% de las casas en España la tienen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/comprar-shopdutyfree-opiniones-evitar-estafas-1399495'>¿Es fiable comprar ShopDutyFree? Opiniones y en qué debes fijarte para evitar estafas</a></h4>
-    <a href='https://computerhoy.com/apps/comprar-shopdutyfree-opiniones-evitar-estafas-1399495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienda-online-shopdutyfree-3913129.jpg?tf=1200x' alt='¿Es fiable comprar ShopDutyFree? Opiniones y en qué debes fijarte para evitar estafas' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-esim-tener-datos-viajar-republica-dominicana-1401370'>Mejores eSIM para tener datos al viajar a República Dominicana</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-esim-tener-datos-viajar-republica-dominicana-1401370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/republica-dominicana-bandera-4007939.jpg?tf=1200x' alt='Mejores eSIM para tener datos al viajar a República Dominicana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/truco-ajuste-whatsapp-memoria-movil-1394352'>¿WhatsApp devora la memoria de tu móvil? Si quieres evitarlo solo tienes que activar este ajuste</a></h4>
-    <a href='https://computerhoy.com/apps/truco-ajuste-whatsapp-memoria-movil-1394352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-come-memoria-movil-evitar-solo-hay-activar-ajuste-3665055.jpg?tf=1200x' alt='¿WhatsApp devora la memoria de tu móvil? Si quieres evitarlo solo tienes que activar este ajuste' />
+    <h4><a href='https://computerhoy.com/android/significado-tienen-iconos-color-gris-android-auto-1401395'>Qué significado tienen los iconos de color gris en Android Auto</a></h4>
+    <a href='https://computerhoy.com/android/significado-tienen-iconos-color-gris-android-auto-1401395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/significado-tienen-iconos-color-gris-android-auto-4007943.jpg?tf=1200x' alt='Qué significado tienen los iconos de color gris en Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/electrodomestico-siempre-debes-desenchufar-irte-vacaciones-ocu-1400734'>Este es el electrodoméstico que siempre debes desenchufar al irte de vacaciones, según la OCU</a></h4>
-    <a href='https://computerhoy.com/hogar/electrodomestico-siempre-debes-desenchufar-irte-vacaciones-ocu-1400734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/enchufe-4006453.jpg?tf=1200x' alt='Este es el electrodoméstico que siempre debes desenchufar al irte de vacaciones, según la OCU' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-telenovelas-series-turcas-como-verlas-online-gratis-1401194'>Las mejores telenovelas y series turcas y cómo verlas online gratis</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-telenovelas-series-turcas-como-verlas-online-gratis-1401194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/series-turcas-4005422.jpg?tf=1200x' alt='Las mejores telenovelas y series turcas y cómo verlas online gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/cual-diferencia-game-pass-core-game-pass-ultimate-1401246'>¿Cuál es la diferencia entre Game Pass Core y Game Pass Ultimate?</a></h4>
-    <a href='https://computerhoy.com/gaming/cual-diferencia-game-pass-core-game-pass-ultimate-1401246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/game-pass-ultimate-pc-xbox-series-xs-4001908.jpg?tf=1200x' alt='¿Cuál es la diferencia entre Game Pass Core y Game Pass Ultimate?' />
+    <h4><a href='https://computerhoy.com/tv/cual-diferencia-hdmi-arc-hdmi-earc-smart-tv-1259450'>Cuál es la diferencia entre usar HDMI ARC o HDMI eARC en un Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/cual-diferencia-hdmi-arc-hdmi-earc-smart-tv-1259450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/hdmi-arc-earc-3056842.jpg?tf=1200x' alt='Cuál es la diferencia entre usar HDMI ARC o HDMI eARC en un Smart TV' />
     </a>
 </div>
 
