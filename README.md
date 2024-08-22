@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/truco-ajuste-whatsapp-memoria-movil-1394352'>¿WhatsApp devora la memoria de tu móvil? Si quieres evitarlo solo tienes que activar este ajuste</a></h4>
+    <a href='https://computerhoy.com/apps/truco-ajuste-whatsapp-memoria-movil-1394352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-come-memoria-movil-evitar-solo-hay-activar-ajuste-3665055.jpg?tf=1200x' alt='¿WhatsApp devora la memoria de tu móvil? Si quieres evitarlo solo tienes que activar este ajuste' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/electrodomestico-siempre-debes-desenchufar-irte-vacaciones-ocu-1400734'>Este es el electrodoméstico que siempre debes desenchufar al irte de vacaciones, según la OCU</a></h4>
     <a href='https://computerhoy.com/hogar/electrodomestico-siempre-debes-desenchufar-irte-vacaciones-ocu-1400734' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/enchufe-4006453.jpg?tf=1200x' alt='Este es el electrodoméstico que siempre debes desenchufar al irte de vacaciones, según la OCU' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-lanza-redmi-pad-87-87-4g-dos-tablets-economicas-perfectas-dia-dia-1401315'>Xiaomi lanza la Redmi Pad SE 8.7 y 8.7 4G, dos tablets económicas perfectas para el día a día</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-lanza-redmi-pad-87-87-4g-dos-tablets-economicas-perfectas-dia-dia-1401315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/redmi-pad-87-87-4g-xiaomi-4005782.jpg?tf=1200x' alt='Xiaomi lanza la Redmi Pad SE 8.7 y 8.7 4G, dos tablets económicas perfectas para el día a día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tienes-habilidad-steve-jobs-te-hubiese-considerado-persona-inteligente-1401334'>Si tienes esta habilidad, Steve Jobs te hubiese considerado una persona inteligente</a></h4>
-    <a href='https://computerhoy.com/apple/tienes-habilidad-steve-jobs-te-hubiese-considerado-persona-inteligente-1401334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-habilidad-steve-jobs-te-hubiese-considerado-persona-inteligente-4005951.jpg?tf=1200x' alt='Si tienes esta habilidad, Steve Jobs te hubiese considerado una persona inteligente' />
     </a>
 </div>
 
