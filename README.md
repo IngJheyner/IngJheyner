@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/cientificos-desvelan-receta-hamburguesa-perfecta-sorprendente-ingrediente-fuera-comun-1401432'>Científicos desvelan la receta de la hamburguesa perfecta con un sorprendente ingrediente fuera de lo común</a></h4>
+    <a href='https://computerhoy.com/alimentacion/cientificos-desvelan-receta-hamburguesa-perfecta-sorprendente-ingrediente-fuera-comun-1401432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hombre-comiendo-hamburguesa-4008723.jpg?tf=1200x' alt='Científicos desvelan la receta de la hamburguesa perfecta con un sorprendente ingrediente fuera de lo común' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ya-disponible-android-auto-127-novedades-como-actualizar-ahora-mismo-1401430'>Ya disponible Android Auto 12.7: novedades y cómo actualizar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/apps/ya-disponible-android-auto-127-novedades-como-actualizar-ahora-mismo-1401430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-auto-127-4008722.jpg?tf=1200x' alt='Ya disponible Android Auto 12.7: novedades y cómo actualizar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-vuelve-aun-peligroso-nuevo-potente-accesorio-1401410'>Flipper Zero se vuelve aún más peligroso con este nuevo y potente accesorio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-zero-vuelve-aun-peligroso-nuevo-potente-accesorio-1401410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/flipper-zero-vuelve-aun-peligroso-nuevo-potente-accesorio-4008570.jpg?tf=1200x' alt='Flipper Zero se vuelve aún más peligroso con este nuevo y potente accesorio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/stephen-king-ensalza-secuela-ha-arrasado-taquilla-nadie-esperara-fue-divertidisima-1400989'>Stephen King ensalza la secuela que ha arrasado la taquilla sin que nadie la esperara: “Fue divertidísima”</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/stephen-king-ensalza-secuela-ha-arrasado-taquilla-nadie-esperara-fue-divertidisima-1400989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/stephen-king-recomienda-pelicula-espanola-poco-conocida-dice-horrible-tambien-terriblemente-divertida-3310939.jpg?tf=1200x' alt='Stephen King ensalza la secuela que ha arrasado la taquilla sin que nadie la esperara: “Fue divertidísima”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/conexion-tv-habitaciones-velocidad-internet-1395277'>Si tienes esta conexión de TV en tus habitaciones, enhorabuena: puedes hacer que tu conexión a internet vuele al instante</a></h4>
     <a href='https://computerhoy.com/redes/conexion-tv-habitaciones-velocidad-internet-1395277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tienes-cable-tv-habitaciones-acabas-encontrar-oro-podras-hacer-conexion-internet-vuele-3708809.jpg?tf=1200x' alt='Si tienes esta conexión de TV en tus habitaciones, enhorabuena: puedes hacer que tu conexión a internet vuele al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/modo-no-molestar-vs-modo-silencio-iphone-diferencias-cual-mejor-ti-1400429'>Modo No molestar vs. Modo Silencio en iPhone: diferencias y cuál es mejor para ti</a></h4>
-    <a href='https://computerhoy.com/tutoriales/modo-no-molestar-vs-modo-silencio-iphone-diferencias-cual-mejor-ti-1400429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modo-no-molestar-vs-modo-silencio-iphone-diferencias-cual-mejor-ti-3962135.jpg?tf=1200x' alt='Modo No molestar vs. Modo Silencio en iPhone: diferencias y cuál es mejor para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cerradura-peligrosa-ladrones-1380443'>Si tienes este tipo de cerradura, cámbiala de inmediato, se pueden abrir en segundos: el 80% de las casas en España la tienen</a></h4>
-    <a href='https://computerhoy.com/life/cerradura-peligrosa-ladrones-1380443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ladron-abriendo-cerradura-3301357.jpg?tf=1200x' alt='Si tienes este tipo de cerradura, cámbiala de inmediato, se pueden abrir en segundos: el 80% de las casas en España la tienen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-esim-tener-datos-viajar-republica-dominicana-1401370'>Mejores eSIM para tener datos al viajar a República Dominicana</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-esim-tener-datos-viajar-republica-dominicana-1401370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/republica-dominicana-bandera-4007939.jpg?tf=1200x' alt='Mejores eSIM para tener datos al viajar a República Dominicana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/significado-tienen-iconos-color-gris-android-auto-1401395'>Qué significado tienen los iconos de color gris en Android Auto</a></h4>
-    <a href='https://computerhoy.com/android/significado-tienen-iconos-color-gris-android-auto-1401395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/significado-tienen-iconos-color-gris-android-auto-4007943.jpg?tf=1200x' alt='Qué significado tienen los iconos de color gris en Android Auto' />
     </a>
 </div>
 
