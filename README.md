@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/di-adios-nube-nas-barato-amazon-1365957'>Di adiós a la nube: este NAS es fácil de configurar, barato y a la larga te ahorrará mucho dinero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/di-adios-nube-nas-barato-amazon-1365957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/synology-ds120j-3276660.jpg?tf=1200x' alt='Di adiós a la nube: este NAS es fácil de configurar, barato y a la larga te ahorrará mucho dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/como-saber-cpu-tiene-pc-caracteristicas-1399779'>Cómo saber qué CPU tiene tu PC y entender sus características</a></h4>
+    <a href='https://computerhoy.com/pc/como-saber-cpu-tiene-pc-caracteristicas-1399779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cpu-pc-3932379.jpg?tf=1200x' alt='Cómo saber qué CPU tiene tu PC y entender sus características' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/realidad-virtual-rv-historia-primeros-dispositivos-visores-populares-1400542'>Qué es realidad virtual o RV: historia, primeros dispositivos y visores más populares</a></h4>
+    <a href='https://computerhoy.com/tecnologia/realidad-virtual-rv-historia-primeros-dispositivos-visores-populares-1400542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/realidad-virtual-vr-rv-3964795.jpg?tf=1200x' alt='Qué es realidad virtual o RV: historia, primeros dispositivos y visores más populares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/me-ha-gustado-auriculares-dyson-ontrac-autonomia-dias-dias-uso-1400056'>Lo que más me ha gustado de los auriculares Dyson OnTrac es su autonomía para días y días de uso</a></h4>
+    <a href='https://computerhoy.com/audio/me-ha-gustado-auriculares-dyson-ontrac-autonomia-dias-dias-uso-1400056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dyson-ontrac-3942388.jpg?tf=1200x' alt='Lo que más me ha gustado de los auriculares Dyson OnTrac es su autonomía para días y días de uso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-nunca-dejes-objeto-guantera-coche-no-quieres-te-roben-1401164'>La Guardia Civil advierte: nunca dejes este objeto en la guantera del coche si no quieres que te roben</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-nunca-dejes-objeto-guantera-coche-no-quieres-te-roben-1401164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guardia-civil-advierte-nunca-dejes-objeto-guantera-coche-no-quieres-te-roben-3998600.jpg?tf=1200x' alt='La Guardia Civil advierte: nunca dejes este objeto en la guantera del coche si no quieres que te roben' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-air-nuevos-datos-todo-sabemos-1401257'>El iPhone Air se deja ver con nuevos datos: todo lo que sabemos hasta ahora</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-air-nuevos-datos-todo-sabemos-1401257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-air-nuevos-datos-todo-sabemos-ahora-4002203.jpg?tf=1200x' alt='El iPhone Air se deja ver con nuevos datos: todo lo que sabemos hasta ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/contrasena-repite-millon-veces-muchos-paises-pone-bandeja-ciberdelincuentes-1401179'>Esta contraseña se repite un millón de veces en muchos países, y se lo pone en bandeja a los ciberdelincuentes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/contrasena-repite-millon-veces-muchos-paises-pone-bandeja-ciberdelincuentes-1401179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/contrasena-repite-millon-veces-muchos-paises-pone-bandeja-ciberdelincuentes-3999069.jpg?tf=1200x' alt='Esta contraseña se repite un millón de veces en muchos países, y se lo pone en bandeja a los ciberdelincuentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bestialidad-aliexpres-oferta-oneplus-12-1365455'>Qué bestialidad de AliExpress: deja el OnePlus más potente 300 euros por debajo de Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bestialidad-aliexpres-oferta-oneplus-12-1365455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-12r-3290267.jpg?tf=1200x' alt='Qué bestialidad de AliExpress: deja el OnePlus más potente 300 euros por debajo de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/quieres-copia-unica-respuesta-correcta-pagar-tarjeta-banco-espana-1401019'>¿Quieres copia? Esta es la única respuesta correcta al pagar con tarjeta, según el Banco de España"</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/quieres-copia-unica-respuesta-correcta-pagar-tarjeta-banco-espana-1401019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/quieres-copia-unica-respuesta-correcta-pagar-tarjeta-banco-espana-3992845.jpg?tf=1200x' alt='¿Quieres copia? Esta es la única respuesta correcta al pagar con tarjeta, según el Banco de España"' />
     </a>
 </div>
 
