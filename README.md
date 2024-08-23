@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/senales-no-estas-bebiendo-suficiente-agua-te-estas-deshidratando-saberlo-1401493'>7 señales que de que no estás bebiendo suficiente agua y que te estás deshidratando sin saberlo</a></h4>
+    <a href='https://computerhoy.com/life/senales-no-estas-bebiendo-suficiente-agua-te-estas-deshidratando-saberlo-1401493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/beber-agua-4012850.jpg?tf=1200x' alt='7 señales que de que no estás bebiendo suficiente agua y que te estás deshidratando sin saberlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-abrir-cerraduras-rapido-1395048'>Los cerrajeros están aterrados: esta pequeña herramienta abre el 80% de las cerraduras en segundos</a></h4>
     <a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-abrir-cerraduras-rapido-1395048' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cerrajeros-dan-voz-alarma-herramienta-abre-80-cerraduras-segundos-3699758.jpg?tf=1200x' alt='Los cerrajeros están aterrados: esta pequeña herramienta abre el 80% de las cerraduras en segundos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/como-conectarte-red-wifi-olvidado-contrasena-1337354'>Cómo conectarte a cualquier red WiFi si has olvidado la contraseña</a></h4>
     <a href='https://computerhoy.com/internet/como-conectarte-red-wifi-olvidado-contrasena-1337354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='Cómo conectarte a cualquier red WiFi si has olvidado la contraseña' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/boston-dynamics-presenta-atlas-robot-te-da-paliza-flexiones-1401525'>Boston Dynamics presenta a Atlas, el robot que te da una paliza a flexiones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/boston-dynamics-presenta-atlas-robot-te-da-paliza-flexiones-1401525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/boston-dynamics-presenta-atlas-4012864.jpg?tf=1200x' alt='Boston Dynamics presenta a Atlas, el robot que te da una paliza a flexiones' />
     </a>
 </div>
 
