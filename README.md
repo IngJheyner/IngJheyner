@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/nueva-funcion-instagram-guino-myspace-te-hara-sentirte-viejo-1401537'>La nueva función de Instagram es un guiño a MySpace y te hará sentirte viejo</a></h4>
+    <a href='https://computerhoy.com/redes/nueva-funcion-instagram-guino-myspace-te-hara-sentirte-viejo-1401537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-funcion-instagram-guino-myspace-te-hara-sentirte-viejo-4013025.jpg?tf=1200x' alt='La nueva función de Instagram es un guiño a MySpace y te hará sentirte viejo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/compras-segunda-mano-tienen-menos-funciones-nueva-tactica-fabricantes-podrian-copiar-otras-marcas-1401510'>Si lo compras de segunda mano tienen menos funciones: la nueva táctica de fabricantes que podrían copiar otras marcas</a></h4>
+    <a href='https://computerhoy.com/life/compras-segunda-mano-tienen-menos-funciones-nueva-tactica-fabricantes-podrian-copiar-otras-marcas-1401510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/habitacion-tecnologica-4012852.jpg?tf=1200x' alt='Si lo compras de segunda mano tienen menos funciones: la nueva táctica de fabricantes que podrían copiar otras marcas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-carga-brutal-100w-movil-oneplus-pone-sector-patas-arriba-cuesta-apenas-300-euros-1401105'>Snapdragon 8 Gen 2 y carga brutal a 100W: este móvil OnePlus pone el sector patas arriba y cuesta apenas 300 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-carga-brutal-100w-movil-oneplus-pone-sector-patas-arriba-cuesta-apenas-300-euros-1401105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-ace-3-3997772.jpg?tf=1200x' alt='Snapdragon 8 Gen 2 y carga brutal a 100W: este móvil OnePlus pone el sector patas arriba y cuesta apenas 300 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-te-cuelen-guia-identificar-imagenes-generadas-ia-1255456'>Que no te la cuelen: trucos para identificar imágenes creadas por inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-te-cuelen-guia-identificar-imagenes-generadas-ia-1255456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/no-te-cuelen-trucos-identificar-imagenes-generadas-inteligencia-artificial-3050918.jpg?tf=1200x' alt='Que no te la cuelen: trucos para identificar imágenes creadas por inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/desconocida-pelicula-ciencia-ficcion-donald-sutherland-amazon-prime-video-1399630'>La desconocida y ambiciosa película de ciencia ficción con Donald Sutherland llega ahora a Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/desconocida-pelicula-ciencia-ficcion-donald-sutherland-amazon-prime-video-1399630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fracaso-taquilla-pero-ambiciosa-pelicula-ciencia-ficcion-donald-sutherland-llega-ahora-amazon-prime-video-3912645.jpg?tf=1200x' alt='La desconocida y ambiciosa película de ciencia ficción con Donald Sutherland llega ahora a Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-pro-max-tendra-bateria-almacenamiento-pantalla-sera-grande-nunca-1401480'>El iPhone Pro Max tendrá más batería, almacenamiento y la pantalla será más grande que nunca</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-pro-max-tendra-bateria-almacenamiento-pantalla-sera-grande-nunca-1401480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-pro-max-tendra-bateria-almacenamiento-pantalla-sera-grande-nunca-4012363.jpg?tf=1200x' alt='El iPhone Pro Max tendrá más batería, almacenamiento y la pantalla será más grande que nunca' />
     </a>
 </div>
 
