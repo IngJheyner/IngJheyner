@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/unica-palabra-espanol-podras-pronunciar-pero-no-escribir-1401443'>Esta es la única palabra en español que podrás pronunciar pero no escribir</a></h4>
+    <a href='https://computerhoy.com/life/unica-palabra-espanol-podras-pronunciar-pero-no-escribir-1401443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/unica-palabra-espanol-podras-pronunciar-pero-no-escribir-4010454.jpg?tf=1200x' alt='Esta es la única palabra en español que podrás pronunciar pero no escribir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ni-google-maps-ni-waze-podran-ayudarte-carretera-infernal-espana-12-curvas-180-grados-1401428'>Ni Google Maps ni Waze podrán ayudarte: esta es la carretera más infernal de España… ¡Hasta 12 curvas de 180 grados!</a></h4>
     <a href='https://computerhoy.com/life/ni-google-maps-ni-waze-podran-ayudarte-carretera-infernal-espana-12-curvas-180-grados-1401428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-google-maps-ni-waze-podran-ayudarte-carretera-infernal-espana-12-curvas-180-grados-4009597.jpg?tf=1200x' alt='Ni Google Maps ni Waze podrán ayudarte: esta es la carretera más infernal de España… ¡Hasta 12 curvas de 180 grados!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/nuevos-routers-avm-fritzbox-conectan-directamente-fibra-optica-1401437'>Llegan a España los nuevos routers de AVM que se conectan directamente a la fibra óptica, mejorando la conexión</a></h4>
     <a href='https://computerhoy.com/internet/nuevos-routers-avm-fritzbox-conectan-directamente-fibra-optica-1401437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/llegan-espana-nuevos-routers-avm-conectan-directamente-fibra-optica-mejorando-conexion-4008415.jpg?tf=1200x' alt='Llegan a España los nuevos routers de AVM que se conectan directamente a la fibra óptica, mejorando la conexión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/disenos-productos-tan-perfectos-no-han-cambiado-toda-vida-1401178'>Diseños de productos tan perfectos que no han cambiado en toda su vida</a></h4>
-    <a href='https://computerhoy.com/tecnologia/disenos-productos-tan-perfectos-no-han-cambiado-toda-vida-1401178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cable-ethernet-3088212.jpg?tf=1200x' alt='Diseños de productos tan perfectos que no han cambiado en toda su vida' />
     </a>
 </div>
 
