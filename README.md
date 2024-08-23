@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-quiere-agotar-portatil-chino-windows-11-vende-mitad-precio-1399972'>AliExpress quiere agotar un portátil chino con Windows 11 que vende a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-quiere-agotar-portatil-chino-windows-11-vende-mitad-precio-1399972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bmax-y11-plus-3940730.jpg?tf=1200x' alt='AliExpress quiere agotar un portátil chino con Windows 11 que vende a mitad de precio' />
+    <h4><a href='https://computerhoy.com/tv/bloquean-algunas-listas-canales-gratis-iptv-populares-mundo-1401495'>Bloquean algunas de las listas de canales gratis por IPTV más populares del mundo</a></h4>
+    <a href='https://computerhoy.com/tv/bloquean-algunas-listas-canales-gratis-iptv-populares-mundo-1401495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iptv-como-funciona-mala-idea-utilizarlo-3717648.jpg?tf=1200x' alt='Bloquean algunas de las listas de canales gratis por IPTV más populares del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/truco-lista-personas-bloqueado-whatsapp-1399508'>Con este sencillo podrás ver la lista completa de personas que te tienen bloqueado WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/truco-lista-personas-bloqueado-whatsapp-1399508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/puedes-ver-listado-completo-personas-te-han-bloqueado-whatsapp-3907362.jpg?tf=1200x' alt='Con este sencillo podrás ver la lista completa de personas que te tienen bloqueado WhatsApp' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-te-cuelen-guia-identificar-imagenes-generadas-ia-1255456'>Que no te la cuelen: trucos para identificar imágenes creadas por inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-te-cuelen-guia-identificar-imagenes-generadas-ia-1255456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/no-te-cuelen-trucos-identificar-imagenes-generadas-inteligencia-artificial-3050918.jpg?tf=1200x' alt='Que no te la cuelen: trucos para identificar imágenes creadas por inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/puedes-estar-pagando-facturas-luz-cuando-realidad-son-gratis-ocu-1401466'>Puedes estar pagando facturas de la luz cuando en realidad son gratis, según la OCU</a></h4>
-    <a href='https://computerhoy.com/life/puedes-estar-pagando-facturas-luz-cuando-realidad-son-gratis-ocu-1401466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/electrodomestico-deberias-desconectar-siempre-notaras-mucho-factura-luz-3905425.jpg?tf=1200x' alt='Puedes estar pagando facturas de la luz cuando en realidad son gratis, según la OCU' />
+    <h4><a href='https://computerhoy.com/entretenimiento/desconocida-pelicula-ciencia-ficcion-donald-sutherland-amazon-prime-video-1399630'>La desconocida y ambiciosa película de ciencia ficción con Donald Sutherland llega ahora a Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/desconocida-pelicula-ciencia-ficcion-donald-sutherland-amazon-prime-video-1399630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fracaso-taquilla-pero-ambiciosa-pelicula-ciencia-ficcion-donald-sutherland-llega-ahora-amazon-prime-video-3912645.jpg?tf=1200x' alt='La desconocida y ambiciosa película de ciencia ficción con Donald Sutherland llega ahora a Amazon Prime Video' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/canva-como-funciona-como-crear-primer-diseno-1398965'>Canva: qué es, cómo funciona y cómo crear tu primer diseño</a></h4>
-    <a href='https://computerhoy.com/apps/canva-como-funciona-como-crear-primer-diseno-1398965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/diseno-grafico-canva-3885355.jpg?tf=1200x' alt='Canva: qué es, cómo funciona y cómo crear tu primer diseño' />
+    <h4><a href='https://computerhoy.com/apple/iphone-pro-max-tendra-bateria-almacenamiento-pantalla-sera-grande-nunca-1401480'>El iPhone Pro Max tendrá más batería, almacenamiento y la pantalla será más grande que nunca</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-pro-max-tendra-bateria-almacenamiento-pantalla-sera-grande-nunca-1401480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-pro-max-tendra-bateria-almacenamiento-pantalla-sera-grande-nunca-4012363.jpg?tf=1200x' alt='El iPhone Pro Max tendrá más batería, almacenamiento y la pantalla será más grande que nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-vende-reloj-mejor-fenix-rebajado-amazon-1365501'>Garmin vende un reloj mejor que los Fenix, y Amazon lo ha rebajado en más de 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-vende-reloj-mejor-fenix-rebajado-amazon-1365501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3241634.jpg?tf=1200x' alt='Garmin vende un reloj mejor que los Fenix, y Amazon lo ha rebajado en más de 100 euros' />
+    <h4><a href='https://computerhoy.com/life/adios-facturas-pdf-word-excel-eres-autonomo-tendras-utilizar-programa-especifico-1401468'>Adiós a las facturas en PDF, Word o Excel: si eres autónomo tendrás que utilizar un programa específico</a></h4>
+    <a href='https://computerhoy.com/life/adios-facturas-pdf-word-excel-eres-autonomo-tendras-utilizar-programa-especifico-1401468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/facturas-4012207.jpg?tf=1200x' alt='Adiós a las facturas en PDF, Word o Excel: si eres autónomo tendrás que utilizar un programa específico' />
     </a>
 </div>
 
