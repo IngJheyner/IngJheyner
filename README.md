@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-quiere-agotar-portatil-chino-windows-11-vende-mitad-precio-1399972'>AliExpress quiere agotar un portátil chino con Windows 11 que vende a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-quiere-agotar-portatil-chino-windows-11-vende-mitad-precio-1399972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bmax-y11-plus-3940730.jpg?tf=1200x' alt='AliExpress quiere agotar un portátil chino con Windows 11 que vende a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/truco-lista-personas-bloqueado-whatsapp-1399508'>Con este sencillo podrás ver la lista completa de personas que te tienen bloqueado WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/truco-lista-personas-bloqueado-whatsapp-1399508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/puedes-ver-listado-completo-personas-te-han-bloqueado-whatsapp-3907362.jpg?tf=1200x' alt='Con este sencillo podrás ver la lista completa de personas que te tienen bloqueado WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/puedes-estar-pagando-facturas-luz-cuando-realidad-son-gratis-ocu-1401466'>Puedes estar pagando facturas de la luz cuando en realidad son gratis, según la OCU</a></h4>
     <a href='https://computerhoy.com/life/puedes-estar-pagando-facturas-luz-cuando-realidad-son-gratis-ocu-1401466' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/electrodomestico-deberias-desconectar-siempre-notaras-mucho-factura-luz-3905425.jpg?tf=1200x' alt='Puedes estar pagando facturas de la luz cuando en realidad son gratis, según la OCU' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/garmin-vende-reloj-mejor-fenix-rebajado-amazon-1365501'>Garmin vende un reloj mejor que los Fenix, y Amazon lo ha rebajado en más de 100 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-vende-reloj-mejor-fenix-rebajado-amazon-1365501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3241634.jpg?tf=1200x' alt='Garmin vende un reloj mejor que los Fenix, y Amazon lo ha rebajado en más de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/anillos-inteligentes-tienen-grave-problema-nadie-ha-hablado-1401450'>Los anillos inteligentes tienen un grave problema del que nadie ha hablado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/anillos-inteligentes-tienen-grave-problema-nadie-ha-hablado-1401450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-ring-3614572.jpg?tf=1200x' alt='Los anillos inteligentes tienen un grave problema del que nadie ha hablado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-archivo-directorio-danado-ilegible-windows-1399931'>Cómo solucionar el error “el archivo o directorio está dañado o es ilegible” en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-archivo-directorio-danado-ilegible-windows-1399931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/archivo-danado-ilegible-3937464.jpg?tf=1200x' alt='Cómo solucionar el error “el archivo o directorio está dañado o es ilegible” en Windows' />
     </a>
 </div>
 
