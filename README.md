@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/conserje-apaga-congelador-destruye-investigacion-1399083'>Un conserje apaga un congelador y arruina más de 20 años de investigación</a></h4>
+    <a href='https://computerhoy.com/ciencia/conserje-apaga-congelador-destruye-investigacion-1399083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apaga-error-congelador-arruina-20-anos-investigacion-3890056.jpg?tf=1200x' alt='Un conserje apaga un congelador y arruina más de 20 años de investigación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/trucos-daran-viejo-telefono-android-menos-otro-ano-vida-1401303'>Trucos que le darán a tu viejo teléfono Android al menos otro año de vida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trucos-daran-viejo-telefono-android-menos-otro-ano-vida-1401303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/movil-android-4005777.jpg?tf=1200x' alt='Trucos que le darán a tu viejo teléfono Android al menos otro año de vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/peligros-consentimiento-previo-bloqueo-llamadas-spam-1394958'>Los peligros del consentimiento previo: crees que estás bloqueando una llamada Spam y en realidad pides que te llamen</a></h4>
     <a href='https://computerhoy.com/tecnologia/peligros-consentimiento-previo-bloqueo-llamadas-spam-1394958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/adios-spam-telefonico-normativa-impedira-recibir-llamadas-no-deseadas-no-3025290.jpg?tf=1200x' alt='Los peligros del consentimiento previo: crees que estás bloqueando una llamada Spam y en realidad pides que te llamen' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/senales-no-estas-bebiendo-suficiente-agua-te-estas-deshidratando-saberlo-1401493'>7 señales que de que no estás bebiendo suficiente agua y que te estás deshidratando sin saberlo</a></h4>
     <a href='https://computerhoy.com/life/senales-no-estas-bebiendo-suficiente-agua-te-estas-deshidratando-saberlo-1401493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/beber-agua-4012850.jpg?tf=1200x' alt='7 señales que de que no estás bebiendo suficiente agua y que te estás deshidratando sin saberlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-abrir-cerraduras-rapido-1395048'>Los cerrajeros están aterrados: esta pequeña herramienta abre el 80% de las cerraduras en segundos</a></h4>
-    <a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-abrir-cerraduras-rapido-1395048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cerrajeros-dan-voz-alarma-herramienta-abre-80-cerraduras-segundos-3699758.jpg?tf=1200x' alt='Los cerrajeros están aterrados: esta pequeña herramienta abre el 80% de las cerraduras en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/xiaomi-potente-ahora-mucho-barato-xiaomi-14-desploma-precio-1401520'>Es de los Xiaomi más potente, y ahora mucho más barato: el Xiaomi 14 desploma su precio</a></h4>
-    <a href='https://computerhoy.com/android/xiaomi-potente-ahora-mucho-barato-xiaomi-14-desploma-precio-1401520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-14-3283519.jpg?tf=1200x' alt='Es de los Xiaomi más potente, y ahora mucho más barato: el Xiaomi 14 desploma su precio' />
     </a>
 </div>
 
