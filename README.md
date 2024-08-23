@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/desvias-mirada-hablar-alguien-explicacion-da-psicologia-1401199'>¿Desvías la mirada al hablar con alguien? Esta es la explicación que da la psicología</a></h4>
-    <a href='https://computerhoy.com/ciencia/desvias-mirada-hablar-alguien-explicacion-da-psicologia-1401199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/desvias-mirada-hablar-alguien-explicacion-da-psicologia-3999560.jpg?tf=1200x' alt='¿Desvías la mirada al hablar con alguien? Esta es la explicación que da la psicología' />
+    <h4><a href='https://computerhoy.com/apps/canva-como-funciona-como-crear-primer-diseno-1398965'>Canva: qué es, cómo funciona y cómo crear tu primer diseño</a></h4>
+    <a href='https://computerhoy.com/apps/canva-como-funciona-como-crear-primer-diseno-1398965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/diseno-grafico-canva-3885355.jpg?tf=1200x' alt='Canva: qué es, cómo funciona y cómo crear tu primer diseño' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/este-descubrimiento-accidental-revolucionar-almacenamiento-energia-1275070'>Este descubrimiento accidental puede revolucionar el almacenamiento de energía global a gran escala</a></h4>
-    <a href='https://computerhoy.com/ciencia/este-descubrimiento-accidental-revolucionar-almacenamiento-energia-1275070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/baterias-industriales-3083612.jpg?tf=1200x' alt='Este descubrimiento accidental puede revolucionar el almacenamiento de energía global a gran escala' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-vende-reloj-mejor-fenix-rebajado-amazon-1365501'>Garmin vende un reloj mejor que los Fenix, y Amazon lo ha rebajado en más de 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-vende-reloj-mejor-fenix-rebajado-amazon-1365501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3241634.jpg?tf=1200x' alt='Garmin vende un reloj mejor que los Fenix, y Amazon lo ha rebajado en más de 100 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/amazon-agotar-camara-alternativa-gopro-1363885'>Amazon va a agotar la cámara rival de las GoPro: con 4K y sumergible rozando los 300 euros</a></h4>
-    <a href='https://computerhoy.com/tv/amazon-agotar-camara-alternativa-gopro-1363885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/osmo-action-4-3282930.jpg?tf=1200x' alt='Amazon va a agotar la cámara rival de las GoPro: con 4K y sumergible rozando los 300 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/anillos-inteligentes-tienen-grave-problema-nadie-ha-hablado-1401450'>Los anillos inteligentes tienen un grave problema del que nadie ha hablado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/anillos-inteligentes-tienen-grave-problema-nadie-ha-hablado-1401450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-ring-3614572.jpg?tf=1200x' alt='Los anillos inteligentes tienen un grave problema del que nadie ha hablado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/primera-granja-algas-parque-eolico-marino-aporta-dos-grandes-ventajas-1401448'>La primera granja de algas en un parque eólico marino aporta dos grandes ventajas</a></h4>
-    <a href='https://computerhoy.com/energia/primera-granja-algas-parque-eolico-marino-aporta-dos-grandes-ventajas-1401448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/primera-granja-algas-parque-eolico-marino-aporta-dos-grandes-ventajas-4010311.jpg?tf=1200x' alt='La primera granja de algas en un parque eólico marino aporta dos grandes ventajas' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-archivo-directorio-danado-ilegible-windows-1399931'>Cómo solucionar el error “el archivo o directorio está dañado o es ilegible” en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-archivo-directorio-danado-ilegible-windows-1399931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/archivo-danado-ilegible-3937464.jpg?tf=1200x' alt='Cómo solucionar el error “el archivo o directorio está dañado o es ilegible” en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/paso-proxima-centauri-cientifico-afirma-nuevo-sistema-propulsion-basado-protones-podria-acercarnos-estrella-cercana-sol-1401119'>A un paso de Próxima Centauri: un científico afirma que un nuevo sistema de propulsión basado en protones podría acercarnos a la estrella más cercana al Sol</a></h4>
-    <a href='https://computerhoy.com/espacio/paso-proxima-centauri-cientifico-afirma-nuevo-sistema-propulsion-basado-protones-podria-acercarnos-estrella-cercana-sol-1401119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nave-espacial-3998408.jpg?tf=1200x' alt='A un paso de Próxima Centauri: un científico afirma que un nuevo sistema de propulsión basado en protones podría acercarnos a la estrella más cercana al Sol' />
+    <h4><a href='https://computerhoy.com/analisis/pixel-9-pro-xl-movil-continuista-hardware-pero-lleno-ia-conquistar-gama-alta-1400811'>El Pixel 9 Pro XL es un móvil continuista en hardware pero lleno de IA para conquistar la gama alta</a></h4>
+    <a href='https://computerhoy.com/analisis/pixel-9-pro-xl-movil-continuista-hardware-pero-lleno-ia-conquistar-gama-alta-1400811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-pro-xl-4005442.jpg?tf=1200x' alt='El Pixel 9 Pro XL es un móvil continuista en hardware pero lleno de IA para conquistar la gama alta' />
     </a>
 </div>
 
