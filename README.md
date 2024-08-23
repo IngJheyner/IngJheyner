@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-carga-brutal-100w-movil-oneplus-pone-sector-patas-arriba-cuesta-apenas-300-euros-1401105'>Snapdragon 8 Gen 2 y carga brutal a 100W: este móvil OnePlus pone el sector patas arriba y cuesta apenas 300 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-carga-brutal-100w-movil-oneplus-pone-sector-patas-arriba-cuesta-apenas-300-euros-1401105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-ace-3-3997772.jpg?tf=1200x' alt='Snapdragon 8 Gen 2 y carga brutal a 100W: este móvil OnePlus pone el sector patas arriba y cuesta apenas 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/bloquean-algunas-listas-canales-gratis-iptv-populares-mundo-1401495'>Bloquean algunas de las listas de canales gratis por IPTV más populares del mundo</a></h4>
     <a href='https://computerhoy.com/tv/bloquean-algunas-listas-canales-gratis-iptv-populares-mundo-1401495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iptv-como-funciona-mala-idea-utilizarlo-3717648.jpg?tf=1200x' alt='Bloquean algunas de las listas de canales gratis por IPTV más populares del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/iphone-pro-max-tendra-bateria-almacenamiento-pantalla-sera-grande-nunca-1401480'>El iPhone Pro Max tendrá más batería, almacenamiento y la pantalla será más grande que nunca</a></h4>
     <a href='https://computerhoy.com/apple/iphone-pro-max-tendra-bateria-almacenamiento-pantalla-sera-grande-nunca-1401480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-pro-max-tendra-bateria-almacenamiento-pantalla-sera-grande-nunca-4012363.jpg?tf=1200x' alt='El iPhone Pro Max tendrá más batería, almacenamiento y la pantalla será más grande que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/adios-facturas-pdf-word-excel-eres-autonomo-tendras-utilizar-programa-especifico-1401468'>Adiós a las facturas en PDF, Word o Excel: si eres autónomo tendrás que utilizar un programa específico</a></h4>
-    <a href='https://computerhoy.com/life/adios-facturas-pdf-word-excel-eres-autonomo-tendras-utilizar-programa-especifico-1401468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/facturas-4012207.jpg?tf=1200x' alt='Adiós a las facturas en PDF, Word o Excel: si eres autónomo tendrás que utilizar un programa específico' />
     </a>
 </div>
 
