@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/truco-ver-tdt-amazon-fire-tv-app-enlace-magico-1395460'>Ni antena ni cables: cómo ver toda la TDT en un Amazon Fire TV con una app y este enlace “mágico”</a></h4>
-    <a href='https://computerhoy.com/tv/truco-ver-tdt-amazon-fire-tv-app-enlace-magico-1395460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-cables-ni-antena-como-ver-toda-tdt-amazon-fire-tv-app-enlace-magico-3715801.jpg?tf=1200x' alt='Ni antena ni cables: cómo ver toda la TDT en un Amazon Fire TV con una app y este enlace “mágico”' />
+    <h4><a href='https://computerhoy.com/entretenimiento/gran-clasico-stephen-king-fin-estrenara-despues-30-anos-espera-1401150'>El gran clásico de Stephen King que por fin se estrenará, después de más de 30 años de espera</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/gran-clasico-stephen-king-fin-estrenara-despues-30-anos-espera-1401150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gran-clasico-stephen-king-fin-estrenara-halloween-despues-30-anos-espera-3998419.jpg?tf=1200x' alt='El gran clásico de Stephen King que por fin se estrenará, después de más de 30 años de espera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ponen-prueba-raspberry-pi-5-barata-2-gb-resultado-sorprendente-1401599'>Ponen a prueba la Raspberry Pi 5 barata de 2 GB y el resultado es sorprendente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ponen-prueba-raspberry-pi-5-barata-2-gb-resultado-sorprendente-1401599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ponen-prueba-raspberry-pi-5-barata-2-gb-resultado-sorprendente-4015059.jpg?tf=1200x' alt='Ponen a prueba la Raspberry Pi 5 barata de 2 GB y el resultado es sorprendente' />
+    <h4><a href='https://computerhoy.com/entretenimiento/music-by-john-williams-documental-disney-plus-1401630'>El compositor de bandas sonoras más icónico de la historia recibe el gran documental que merecía</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/music-by-john-williams-documental-disney-plus-1401630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/compositor-bandas-sonoras-iconico-historia-recibe-gran-documental-merecia-4015375.jpg?tf=1200x' alt='El compositor de bandas sonoras más icónico de la historia recibe el gran documental que merecía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-policia-llamada-numero-telefono-1398108'>Mensaje urgente de Policía Nacional: si ves este número de teléfono, cuelga sin decir palabra</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/alerta-policia-llamada-numero-telefono-1398108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/alerta-policia-llamadas-3845914.jpg?tf=1200x' alt='Mensaje urgente de Policía Nacional: si ves este número de teléfono, cuelga sin decir palabra' />
+    <h4><a href='https://computerhoy.com/apps/no-te-va-gustar-google-maps-pierde-dos-cinco-opciones-barra-inferior-1401629'>No te va a gustar: Google Maps pierde dos de las cinco opciones de la barra inferior</a></h4>
+    <a href='https://computerhoy.com/apps/no-te-va-gustar-google-maps-pierde-dos-cinco-opciones-barra-inferior-1401629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-maps-4015804.jpg?tf=1200x' alt='No te va a gustar: Google Maps pierde dos de las cinco opciones de la barra inferior' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/conduccion-osea-gran-bateria-peso-ligero-estos-cascos-tienen-todo-triunfar-incluso-debajo-agua-1401591'>Conducción ósea, gran batería y peso ligero: estos cascos lo tienen todo para triunfar incluso debajo del agua</a></h4>
-    <a href='https://computerhoy.com/audio/conduccion-osea-gran-bateria-peso-ligero-estos-cascos-tienen-todo-triunfar-incluso-debajo-agua-1401591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/blitzwolf-bts8-4014276.jpg?tf=1200x' alt='Conducción ósea, gran batería y peso ligero: estos cascos lo tienen todo para triunfar incluso debajo del agua' />
+    <h4><a href='https://computerhoy.com/redes/dispositivos-perjudican-router-wifi-1364410'>Estos dispositivos están arruinando la señal de tu router WiFi, desconéctalos y tu conexión volará</a></h4>
+    <a href='https://computerhoy.com/redes/dispositivos-perjudican-router-wifi-1364410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/router-wifi-4012871.jpg?tf=1200x' alt='Estos dispositivos están arruinando la señal de tu router WiFi, desconéctalos y tu conexión volará' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/estas-tirando-dinero-agua-tira-aire-acondicionado-tiene-muchos-usos-vale-crees-1401445'>Estás tirando dinero: el agua que tira el aire acondicionado tiene muchos usos y vale más de lo que crees</a></h4>
-    <a href='https://computerhoy.com/hogar/estas-tirando-dinero-agua-tira-aire-acondicionado-tiene-muchos-usos-vale-crees-1401445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-tirando-dinero-agua-tira-aire-acondicionado-tiene-muchos-usos-vale-crees-4011167.jpg?tf=1200x' alt='Estás tirando dinero: el agua que tira el aire acondicionado tiene muchos usos y vale más de lo que crees' />
+    <h4><a href='https://computerhoy.com/entretenimiento/critica-no-entendio-llega-amazon-prime-video-pelicula-terror-toques-western-comedia-1401004'>La crítica no la entendió: llega a Amazon Prime Video la película de terror con toques western y de comedia</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/critica-no-entendio-llega-amazon-prime-video-pelicula-terror-toques-western-comedia-1401004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pelicula-nop-4013183.jpg?tf=1200x' alt='La crítica no la entendió: llega a Amazon Prime Video la película de terror con toques western y de comedia' />
     </a>
 </div>
 
