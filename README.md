@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/desvias-mirada-hablar-alguien-explicacion-da-psicologia-1401199'>¿Desvías la mirada al hablar con alguien? Esta es la explicación que da la psicología</a></h4>
+    <a href='https://computerhoy.com/ciencia/desvias-mirada-hablar-alguien-explicacion-da-psicologia-1401199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/desvias-mirada-hablar-alguien-explicacion-da-psicologia-3999560.jpg?tf=1200x' alt='¿Desvías la mirada al hablar con alguien? Esta es la explicación que da la psicología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/este-descubrimiento-accidental-revolucionar-almacenamiento-energia-1275070'>Este descubrimiento accidental puede revolucionar el almacenamiento de energía global a gran escala</a></h4>
+    <a href='https://computerhoy.com/ciencia/este-descubrimiento-accidental-revolucionar-almacenamiento-energia-1275070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/baterias-industriales-3083612.jpg?tf=1200x' alt='Este descubrimiento accidental puede revolucionar el almacenamiento de energía global a gran escala' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/amazon-agotar-camara-alternativa-gopro-1363885'>Amazon va a agotar la cámara rival de las GoPro: con 4K y sumergible rozando los 300 euros</a></h4>
+    <a href='https://computerhoy.com/tv/amazon-agotar-camara-alternativa-gopro-1363885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/osmo-action-4-3282930.jpg?tf=1200x' alt='Amazon va a agotar la cámara rival de las GoPro: con 4K y sumergible rozando los 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/primera-granja-algas-parque-eolico-marino-aporta-dos-grandes-ventajas-1401448'>La primera granja de algas en un parque eólico marino aporta dos grandes ventajas</a></h4>
     <a href='https://computerhoy.com/energia/primera-granja-algas-parque-eolico-marino-aporta-dos-grandes-ventajas-1401448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/primera-granja-algas-parque-eolico-marino-aporta-dos-grandes-ventajas-4010311.jpg?tf=1200x' alt='La primera granja de algas en un parque eólico marino aporta dos grandes ventajas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/paso-proxima-centauri-cientifico-afirma-nuevo-sistema-propulsion-basado-protones-podria-acercarnos-estrella-cercana-sol-1401119'>A un paso de Próxima Centauri: un científico afirma que un nuevo sistema de propulsión basado en protones podría acercarnos a la estrella más cercana al Sol</a></h4>
     <a href='https://computerhoy.com/espacio/paso-proxima-centauri-cientifico-afirma-nuevo-sistema-propulsion-basado-protones-podria-acercarnos-estrella-cercana-sol-1401119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nave-espacial-3998408.jpg?tf=1200x' alt='A un paso de Próxima Centauri: un científico afirma que un nuevo sistema de propulsión basado en protones podría acercarnos a la estrella más cercana al Sol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/unica-palabra-espanol-podras-pronunciar-pero-no-escribir-1401443'>Esta es la única palabra en español que podrás pronunciar pero no escribir</a></h4>
-    <a href='https://computerhoy.com/life/unica-palabra-espanol-podras-pronunciar-pero-no-escribir-1401443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/unica-palabra-espanol-podras-pronunciar-pero-no-escribir-4010454.jpg?tf=1200x' alt='Esta es la única palabra en español que podrás pronunciar pero no escribir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ni-google-maps-ni-waze-podran-ayudarte-carretera-infernal-espana-12-curvas-180-grados-1401428'>Ni Google Maps ni Waze podrán ayudarte: esta es la carretera más infernal de España… ¡Hasta 12 curvas de 180 grados!</a></h4>
-    <a href='https://computerhoy.com/life/ni-google-maps-ni-waze-podran-ayudarte-carretera-infernal-espana-12-curvas-180-grados-1401428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-google-maps-ni-waze-podran-ayudarte-carretera-infernal-espana-12-curvas-180-grados-4009597.jpg?tf=1200x' alt='Ni Google Maps ni Waze podrán ayudarte: esta es la carretera más infernal de España… ¡Hasta 12 curvas de 180 grados!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/prision-hacker-falseo-propia-muerte-no-mantener-hija-1401441'>A prisión el hacker que falsificó su propia muerte para no mantener a su hija</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/prision-hacker-falseo-propia-muerte-no-mantener-hija-1401441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/prision-hacker-falseo-propia-muerte-no-mantener-hijos-4009165.jpg?tf=1200x' alt='A prisión el hacker que falsificó su propia muerte para no mantener a su hija' />
     </a>
 </div>
 
