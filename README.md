@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/truco-ver-tdt-amazon-fire-tv-app-enlace-magico-1395460'>Ni antena ni cables: cómo ver toda la TDT en un Amazon Fire TV con una app y este enlace “mágico”</a></h4>
+    <a href='https://computerhoy.com/tv/truco-ver-tdt-amazon-fire-tv-app-enlace-magico-1395460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-cables-ni-antena-como-ver-toda-tdt-amazon-fire-tv-app-enlace-magico-3715801.jpg?tf=1200x' alt='Ni antena ni cables: cómo ver toda la TDT en un Amazon Fire TV con una app y este enlace “mágico”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ponen-prueba-raspberry-pi-5-barata-2-gb-resultado-sorprendente-1401599'>Ponen a prueba la Raspberry Pi 5 barata de 2 GB y el resultado es sorprendente</a></h4>
     <a href='https://computerhoy.com/tecnologia/ponen-prueba-raspberry-pi-5-barata-2-gb-resultado-sorprendente-1401599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ponen-prueba-raspberry-pi-5-barata-2-gb-resultado-sorprendente-4015059.jpg?tf=1200x' alt='Ponen a prueba la Raspberry Pi 5 barata de 2 GB y el resultado es sorprendente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/estas-tirando-dinero-agua-tira-aire-acondicionado-tiene-muchos-usos-vale-crees-1401445'>Estás tirando dinero: el agua que tira el aire acondicionado tiene muchos usos y vale más de lo que crees</a></h4>
     <a href='https://computerhoy.com/hogar/estas-tirando-dinero-agua-tira-aire-acondicionado-tiene-muchos-usos-vale-crees-1401445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-tirando-dinero-agua-tira-aire-acondicionado-tiene-muchos-usos-vale-crees-4011167.jpg?tf=1200x' alt='Estás tirando dinero: el agua que tira el aire acondicionado tiene muchos usos y vale más de lo que crees' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/conserje-apaga-congelador-destruye-investigacion-1399083'>Un conserje apaga un congelador y arruina más de 20 años de investigación</a></h4>
-    <a href='https://computerhoy.com/ciencia/conserje-apaga-congelador-destruye-investigacion-1399083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apaga-error-congelador-arruina-20-anos-investigacion-3890056.jpg?tf=1200x' alt='Un conserje apaga un congelador y arruina más de 20 años de investigación' />
     </a>
 </div>
 
