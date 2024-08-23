@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-maps-rura-mas-corta-1389786'>Estas son las razones por las que Google Maps no te lleva por la ruta más corta</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-rura-mas-corta-1389786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-error-pero-puedes-evitarlo-google-maps-no-siempre-recomienda-ruta-rapida-3453503.jpg?tf=1200x' alt='Estas son las razones por las que Google Maps no te lleva por la ruta más corta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-10-sistema-operativo-salto-windows-9-microsoft-ya-puso-fecha-caducidad-1401030'>Windows 10: el sistema operativo que saltó Windows 9 y al que Microsoft ya puso fecha de caducidad</a></h4>
     <a href='https://computerhoy.com/windows/windows-10-sistema-operativo-salto-windows-9-microsoft-ya-puso-fecha-caducidad-1401030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacer-cuando-finalice-soporte-windows-10-todo-necesitas-saber-3446763.jpg?tf=1200x' alt='Windows 10: el sistema operativo que saltó Windows 9 y al que Microsoft ya puso fecha de caducidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/advertencia-urgente-tienes-freidora-aire-revisa-parte-inmediato-1401632'>Advertencia urgente si tienes una freidora de aire: revisa esta parte de inmediato</a></h4>
     <a href='https://computerhoy.com/life/advertencia-urgente-tienes-freidora-aire-revisa-parte-inmediato-1401632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/freidora-aire-4015948.jpg?tf=1200x' alt='Advertencia urgente si tienes una freidora de aire: revisa esta parte de inmediato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ue-quiere-apple-convierta-iphone-movil-android-1401631'>La UE quiere que Apple convierta el iPhone en un móvil Android más</a></h4>
-    <a href='https://computerhoy.com/apple/ue-quiere-apple-convierta-iphone-movil-android-1401631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ue-quiere-apple-convierta-iphone-movil-android-4015947.jpg?tf=1200x' alt='La UE quiere que Apple convierta el iPhone en un móvil Android más' />
     </a>
 </div>
 
