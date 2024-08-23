@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/peligros-consentimiento-previo-bloqueo-llamadas-spam-1394958'>Los peligros del consentimiento previo: crees que estás bloqueando una llamada Spam y en realidad pides que te llamen</a></h4>
+    <a href='https://computerhoy.com/tecnologia/peligros-consentimiento-previo-bloqueo-llamadas-spam-1394958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/adios-spam-telefonico-normativa-impedira-recibir-llamadas-no-deseadas-no-3025290.jpg?tf=1200x' alt='Los peligros del consentimiento previo: crees que estás bloqueando una llamada Spam y en realidad pides que te llamen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/olvidate-formatear-movil-tienes-llevarlo-arreglar-funciona-modo-reparacion-android-1401059'>Olvídate de formatear el móvil si tienes que llevarlo a arreglar: así funciona el modo reparación de Android</a></h4>
+    <a href='https://computerhoy.com/android/olvidate-formatear-movil-tienes-llevarlo-arreglar-funciona-modo-reparacion-android-1401059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/olvidate-formatear-movil-necesitas-reparar-funciona-modo-reparacion-android-3996573.jpg?tf=1200x' alt='Olvídate de formatear el móvil si tienes que llevarlo a arreglar: así funciona el modo reparación de Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/senales-no-estas-bebiendo-suficiente-agua-te-estas-deshidratando-saberlo-1401493'>7 señales que de que no estás bebiendo suficiente agua y que te estás deshidratando sin saberlo</a></h4>
     <a href='https://computerhoy.com/life/senales-no-estas-bebiendo-suficiente-agua-te-estas-deshidratando-saberlo-1401493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/beber-agua-4012850.jpg?tf=1200x' alt='7 señales que de que no estás bebiendo suficiente agua y que te estás deshidratando sin saberlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/xiaomi-potente-ahora-mucho-barato-xiaomi-14-desploma-precio-1401520'>Es de los Xiaomi más potente, y ahora mucho más barato: el Xiaomi 14 desploma su precio</a></h4>
     <a href='https://computerhoy.com/android/xiaomi-potente-ahora-mucho-barato-xiaomi-14-desploma-precio-1401520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-14-3283519.jpg?tf=1200x' alt='Es de los Xiaomi más potente, y ahora mucho más barato: el Xiaomi 14 desploma su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/nueva-funcion-android-15-no-solo-mejorara-productividad-tambien-salud-mental-1401490'>Esta nueva función de Android 15 no solo mejorará tu productividad, también tu salud mental</a></h4>
-    <a href='https://computerhoy.com/android/nueva-funcion-android-15-no-solo-mejorara-productividad-tambien-salud-mental-1401490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/funcion-android-15-mejorara-productividad-salud-mental-4012664.jpg?tf=1200x' alt='Esta nueva función de Android 15 no solo mejorará tu productividad, también tu salud mental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-conectarte-red-wifi-olvidado-contrasena-1337354'>Cómo conectarte a cualquier red WiFi si has olvidado la contraseña</a></h4>
-    <a href='https://computerhoy.com/internet/como-conectarte-red-wifi-olvidado-contrasena-1337354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='Cómo conectarte a cualquier red WiFi si has olvidado la contraseña' />
     </a>
 </div>
 
