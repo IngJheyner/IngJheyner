@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ponen-prueba-raspberry-pi-5-barata-2-gb-resultado-sorprendente-1401599'>Ponen a prueba la Raspberry Pi 5 barata de 2 GB y el resultado es sorprendente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ponen-prueba-raspberry-pi-5-barata-2-gb-resultado-sorprendente-1401599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ponen-prueba-raspberry-pi-5-barata-2-gb-resultado-sorprendente-4015059.jpg?tf=1200x' alt='Ponen a prueba la Raspberry Pi 5 barata de 2 GB y el resultado es sorprendente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-policia-llamada-numero-telefono-1398108'>Mensaje urgente de Policía Nacional: si ves este número de teléfono, cuelga sin decir palabra</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/alerta-policia-llamada-numero-telefono-1398108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/alerta-policia-llamadas-3845914.jpg?tf=1200x' alt='Mensaje urgente de Policía Nacional: si ves este número de teléfono, cuelga sin decir palabra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/conduccion-osea-gran-bateria-peso-ligero-estos-cascos-tienen-todo-triunfar-incluso-debajo-agua-1401591'>Conducción ósea, gran batería y peso ligero: estos cascos lo tienen todo para triunfar incluso debajo del agua</a></h4>
+    <a href='https://computerhoy.com/audio/conduccion-osea-gran-bateria-peso-ligero-estos-cascos-tienen-todo-triunfar-incluso-debajo-agua-1401591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/blitzwolf-bts8-4014276.jpg?tf=1200x' alt='Conducción ósea, gran batería y peso ligero: estos cascos lo tienen todo para triunfar incluso debajo del agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/estas-tirando-dinero-agua-tira-aire-acondicionado-tiene-muchos-usos-vale-crees-1401445'>Estás tirando dinero: el agua que tira el aire acondicionado tiene muchos usos y vale más de lo que crees</a></h4>
+    <a href='https://computerhoy.com/hogar/estas-tirando-dinero-agua-tira-aire-acondicionado-tiene-muchos-usos-vale-crees-1401445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-tirando-dinero-agua-tira-aire-acondicionado-tiene-muchos-usos-vale-crees-4011167.jpg?tf=1200x' alt='Estás tirando dinero: el agua que tira el aire acondicionado tiene muchos usos y vale más de lo que crees' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/conserje-apaga-congelador-destruye-investigacion-1399083'>Un conserje apaga un congelador y arruina más de 20 años de investigación</a></h4>
     <a href='https://computerhoy.com/ciencia/conserje-apaga-congelador-destruye-investigacion-1399083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apaga-error-congelador-arruina-20-anos-investigacion-3890056.jpg?tf=1200x' alt='Un conserje apaga un congelador y arruina más de 20 años de investigación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trucos-daran-viejo-telefono-android-menos-otro-ano-vida-1401303'>Trucos que le darán a tu viejo teléfono Android al menos otro año de vida</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trucos-daran-viejo-telefono-android-menos-otro-ano-vida-1401303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/movil-android-4005777.jpg?tf=1200x' alt='Trucos que le darán a tu viejo teléfono Android al menos otro año de vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/peligros-consentimiento-previo-bloqueo-llamadas-spam-1394958'>Los peligros del consentimiento previo: crees que estás bloqueando una llamada Spam y en realidad pides que te llamen</a></h4>
-    <a href='https://computerhoy.com/tecnologia/peligros-consentimiento-previo-bloqueo-llamadas-spam-1394958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/adios-spam-telefonico-normativa-impedira-recibir-llamadas-no-deseadas-no-3025290.jpg?tf=1200x' alt='Los peligros del consentimiento previo: crees que estás bloqueando una llamada Spam y en realidad pides que te llamen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/olvidate-formatear-movil-tienes-llevarlo-arreglar-funciona-modo-reparacion-android-1401059'>Olvídate de formatear el móvil si tienes que llevarlo a arreglar: así funciona el modo reparación de Android</a></h4>
-    <a href='https://computerhoy.com/android/olvidate-formatear-movil-tienes-llevarlo-arreglar-funciona-modo-reparacion-android-1401059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/olvidate-formatear-movil-necesitas-reparar-funciona-modo-reparacion-android-3996573.jpg?tf=1200x' alt='Olvídate de formatear el móvil si tienes que llevarlo a arreglar: así funciona el modo reparación de Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/senales-no-estas-bebiendo-suficiente-agua-te-estas-deshidratando-saberlo-1401493'>7 señales que de que no estás bebiendo suficiente agua y que te estás deshidratando sin saberlo</a></h4>
-    <a href='https://computerhoy.com/life/senales-no-estas-bebiendo-suficiente-agua-te-estas-deshidratando-saberlo-1401493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/beber-agua-4012850.jpg?tf=1200x' alt='7 señales que de que no estás bebiendo suficiente agua y que te estás deshidratando sin saberlo' />
     </a>
 </div>
 
