@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/xiaomi-potente-ahora-mucho-barato-xiaomi-14-desploma-precio-1401520'>Es de los Xiaomi más potente, y ahora mucho más barato: el Xiaomi 14 desploma su precio</a></h4>
+    <a href='https://computerhoy.com/android/xiaomi-potente-ahora-mucho-barato-xiaomi-14-desploma-precio-1401520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-14-3283519.jpg?tf=1200x' alt='Es de los Xiaomi más potente, y ahora mucho más barato: el Xiaomi 14 desploma su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/nueva-funcion-android-15-no-solo-mejorara-productividad-tambien-salud-mental-1401490'>Esta nueva función de Android 15 no solo mejorará tu productividad, también tu salud mental</a></h4>
+    <a href='https://computerhoy.com/android/nueva-funcion-android-15-no-solo-mejorara-productividad-tambien-salud-mental-1401490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/funcion-android-15-mejorara-productividad-salud-mental-4012664.jpg?tf=1200x' alt='Esta nueva función de Android 15 no solo mejorará tu productividad, también tu salud mental' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-conectarte-red-wifi-olvidado-contrasena-1337354'>Cómo conectarte a cualquier red WiFi si has olvidado la contraseña</a></h4>
+    <a href='https://computerhoy.com/internet/como-conectarte-red-wifi-olvidado-contrasena-1337354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='Cómo conectarte a cualquier red WiFi si has olvidado la contraseña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/boston-dynamics-presenta-atlas-robot-te-da-paliza-flexiones-1401525'>Boston Dynamics presenta a Atlas, el robot que te da una paliza a flexiones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/boston-dynamics-presenta-atlas-robot-te-da-paliza-flexiones-1401525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/boston-dynamics-presenta-atlas-4012864.jpg?tf=1200x' alt='Boston Dynamics presenta a Atlas, el robot que te da una paliza a flexiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/nueva-funcion-instagram-guino-myspace-te-hara-sentirte-viejo-1401537'>La nueva función de Instagram es un guiño a MySpace y te hará sentirte viejo</a></h4>
     <a href='https://computerhoy.com/redes/nueva-funcion-instagram-guino-myspace-te-hara-sentirte-viejo-1401537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-funcion-instagram-guino-myspace-te-hara-sentirte-viejo-4013025.jpg?tf=1200x' alt='La nueva función de Instagram es un guiño a MySpace y te hará sentirte viejo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/compras-segunda-mano-tienen-menos-funciones-nueva-tactica-fabricantes-podrian-copiar-otras-marcas-1401510'>Si lo compras de segunda mano tienen menos funciones: la nueva táctica de fabricantes que podrían copiar otras marcas</a></h4>
-    <a href='https://computerhoy.com/life/compras-segunda-mano-tienen-menos-funciones-nueva-tactica-fabricantes-podrian-copiar-otras-marcas-1401510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/habitacion-tecnologica-4012852.jpg?tf=1200x' alt='Si lo compras de segunda mano tienen menos funciones: la nueva táctica de fabricantes que podrían copiar otras marcas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-carga-brutal-100w-movil-oneplus-pone-sector-patas-arriba-cuesta-apenas-300-euros-1401105'>Snapdragon 8 Gen 2 y carga brutal a 100W: este móvil OnePlus pone el sector patas arriba y cuesta apenas 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-carga-brutal-100w-movil-oneplus-pone-sector-patas-arriba-cuesta-apenas-300-euros-1401105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-ace-3-3997772.jpg?tf=1200x' alt='Snapdragon 8 Gen 2 y carga brutal a 100W: este móvil OnePlus pone el sector patas arriba y cuesta apenas 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/bloquean-algunas-listas-canales-gratis-iptv-populares-mundo-1401495'>Bloquean algunas de las listas de canales gratis por IPTV más populares del mundo</a></h4>
-    <a href='https://computerhoy.com/tv/bloquean-algunas-listas-canales-gratis-iptv-populares-mundo-1401495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iptv-como-funciona-mala-idea-utilizarlo-3717648.jpg?tf=1200x' alt='Bloquean algunas de las listas de canales gratis por IPTV más populares del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-te-cuelen-guia-identificar-imagenes-generadas-ia-1255456'>Que no te la cuelen: trucos para identificar imágenes creadas por inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-te-cuelen-guia-identificar-imagenes-generadas-ia-1255456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/no-te-cuelen-trucos-identificar-imagenes-generadas-inteligencia-artificial-3050918.jpg?tf=1200x' alt='Que no te la cuelen: trucos para identificar imágenes creadas por inteligencia artificial' />
     </a>
 </div>
 
