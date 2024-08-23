@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/puedes-estar-pagando-facturas-luz-cuando-realidad-son-gratis-ocu-1401466'>Puedes estar pagando facturas de la luz cuando en realidad son gratis, según la OCU</a></h4>
+    <a href='https://computerhoy.com/life/puedes-estar-pagando-facturas-luz-cuando-realidad-son-gratis-ocu-1401466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/electrodomestico-deberias-desconectar-siempre-notaras-mucho-factura-luz-3905425.jpg?tf=1200x' alt='Puedes estar pagando facturas de la luz cuando en realidad son gratis, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/canva-como-funciona-como-crear-primer-diseno-1398965'>Canva: qué es, cómo funciona y cómo crear tu primer diseño</a></h4>
     <a href='https://computerhoy.com/apps/canva-como-funciona-como-crear-primer-diseno-1398965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/diseno-grafico-canva-3885355.jpg?tf=1200x' alt='Canva: qué es, cómo funciona y cómo crear tu primer diseño' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-archivo-directorio-danado-ilegible-windows-1399931'>Cómo solucionar el error “el archivo o directorio está dañado o es ilegible” en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-solucionar-error-archivo-directorio-danado-ilegible-windows-1399931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/archivo-danado-ilegible-3937464.jpg?tf=1200x' alt='Cómo solucionar el error “el archivo o directorio está dañado o es ilegible” en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/pixel-9-pro-xl-movil-continuista-hardware-pero-lleno-ia-conquistar-gama-alta-1400811'>El Pixel 9 Pro XL es un móvil continuista en hardware pero lleno de IA para conquistar la gama alta</a></h4>
-    <a href='https://computerhoy.com/analisis/pixel-9-pro-xl-movil-continuista-hardware-pero-lleno-ia-conquistar-gama-alta-1400811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-pro-xl-4005442.jpg?tf=1200x' alt='El Pixel 9 Pro XL es un móvil continuista en hardware pero lleno de IA para conquistar la gama alta' />
     </a>
 </div>
 
