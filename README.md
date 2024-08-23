@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/primera-granja-algas-parque-eolico-marino-aporta-dos-grandes-ventajas-1401448'>La primera granja de algas en un parque eólico marino aporta dos grandes ventajas</a></h4>
+    <a href='https://computerhoy.com/energia/primera-granja-algas-parque-eolico-marino-aporta-dos-grandes-ventajas-1401448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/primera-granja-algas-parque-eolico-marino-aporta-dos-grandes-ventajas-4010311.jpg?tf=1200x' alt='La primera granja de algas en un parque eólico marino aporta dos grandes ventajas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/paso-proxima-centauri-cientifico-afirma-nuevo-sistema-propulsion-basado-protones-podria-acercarnos-estrella-cercana-sol-1401119'>A un paso de Próxima Centauri: un científico afirma que un nuevo sistema de propulsión basado en protones podría acercarnos a la estrella más cercana al Sol</a></h4>
+    <a href='https://computerhoy.com/espacio/paso-proxima-centauri-cientifico-afirma-nuevo-sistema-propulsion-basado-protones-podria-acercarnos-estrella-cercana-sol-1401119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nave-espacial-3998408.jpg?tf=1200x' alt='A un paso de Próxima Centauri: un científico afirma que un nuevo sistema de propulsión basado en protones podría acercarnos a la estrella más cercana al Sol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/unica-palabra-espanol-podras-pronunciar-pero-no-escribir-1401443'>Esta es la única palabra en español que podrás pronunciar pero no escribir</a></h4>
     <a href='https://computerhoy.com/life/unica-palabra-espanol-podras-pronunciar-pero-no-escribir-1401443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/unica-palabra-espanol-podras-pronunciar-pero-no-escribir-4010454.jpg?tf=1200x' alt='Esta es la única palabra en español que podrás pronunciar pero no escribir' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/prision-hacker-falseo-propia-muerte-no-mantener-hija-1401441'>A prisión el hacker que falsificó su propia muerte para no mantener a su hija</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/prision-hacker-falseo-propia-muerte-no-mantener-hija-1401441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/prision-hacker-falseo-propia-muerte-no-mantener-hijos-4009165.jpg?tf=1200x' alt='A prisión el hacker que falsificó su propia muerte para no mantener a su hija' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/android-historia-sistema-operativo-google-versiones-eterna-batalla-ios-1400835'>Android: historia del sistema operativo de Google, versiones y su eterna batalla con iOS</a></h4>
-    <a href='https://computerhoy.com/google/android-historia-sistema-operativo-google-versiones-eterna-batalla-ios-1400835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-google-historia-3986371.jpg?tf=1200x' alt='Android: historia del sistema operativo de Google, versiones y su eterna batalla con iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/nuevos-routers-avm-fritzbox-conectan-directamente-fibra-optica-1401437'>Llegan a España los nuevos routers de AVM que se conectan directamente a la fibra óptica, mejorando la conexión</a></h4>
-    <a href='https://computerhoy.com/internet/nuevos-routers-avm-fritzbox-conectan-directamente-fibra-optica-1401437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/llegan-espana-nuevos-routers-avm-conectan-directamente-fibra-optica-mejorando-conexion-4008415.jpg?tf=1200x' alt='Llegan a España los nuevos routers de AVM que se conectan directamente a la fibra óptica, mejorando la conexión' />
     </a>
 </div>
 
