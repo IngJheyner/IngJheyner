@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-abrir-cerraduras-rapido-1395048'>Los cerrajeros están aterrados: esta pequeña herramienta abre el 80% de las cerraduras en segundos</a></h4>
+    <a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-abrir-cerraduras-rapido-1395048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cerrajeros-dan-voz-alarma-herramienta-abre-80-cerraduras-segundos-3699758.jpg?tf=1200x' alt='Los cerrajeros están aterrados: esta pequeña herramienta abre el 80% de las cerraduras en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/xiaomi-potente-ahora-mucho-barato-xiaomi-14-desploma-precio-1401520'>Es de los Xiaomi más potente, y ahora mucho más barato: el Xiaomi 14 desploma su precio</a></h4>
     <a href='https://computerhoy.com/android/xiaomi-potente-ahora-mucho-barato-xiaomi-14-desploma-precio-1401520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-14-3283519.jpg?tf=1200x' alt='Es de los Xiaomi más potente, y ahora mucho más barato: el Xiaomi 14 desploma su precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/boston-dynamics-presenta-atlas-robot-te-da-paliza-flexiones-1401525'>Boston Dynamics presenta a Atlas, el robot que te da una paliza a flexiones</a></h4>
     <a href='https://computerhoy.com/tecnologia/boston-dynamics-presenta-atlas-robot-te-da-paliza-flexiones-1401525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/boston-dynamics-presenta-atlas-4012864.jpg?tf=1200x' alt='Boston Dynamics presenta a Atlas, el robot que te da una paliza a flexiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/nueva-funcion-instagram-guino-myspace-te-hara-sentirte-viejo-1401537'>La nueva función de Instagram es un guiño a MySpace y te hará sentirte viejo</a></h4>
-    <a href='https://computerhoy.com/redes/nueva-funcion-instagram-guino-myspace-te-hara-sentirte-viejo-1401537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-funcion-instagram-guino-myspace-te-hara-sentirte-viejo-4013025.jpg?tf=1200x' alt='La nueva función de Instagram es un guiño a MySpace y te hará sentirte viejo' />
     </a>
 </div>
 
