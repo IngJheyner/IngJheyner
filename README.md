@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/como-ver-120-canales-tv-gratis-tienes-smart-tv-movil-samsung-1401636'>Cómo ver más de 120 canales de TV gratis si tienes un Smart TV o móvil Samsung</a></h4>
+    <a href='https://computerhoy.com/tv/como-ver-120-canales-tv-gratis-tienes-smart-tv-movil-samsung-1401636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-ver-120-canales-tv-gratis-tienes-smart-tv-movil-samsung-4017544.jpg?tf=1200x' alt='Cómo ver más de 120 canales de TV gratis si tienes un Smart TV o móvil Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/meta-cancela-planes-competir-apple-vision-pro-1401638'>Meta cancela sus planes para competir con Apple Vision Pro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-cancela-planes-competir-apple-vision-pro-1401638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/meta-cancela-planes-competir-apple-vision-pro-4016531.jpg?tf=1200x' alt='Meta cancela sus planes para competir con Apple Vision Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/genial-truco-papel-aluminio-quitar-hielo-congelador-alargara-vida-frigorifico-1401622'>El genial truco del papel de aluminio para quitar el hielo del congelador que alargará la vida de tu frigorífico</a></h4>
     <a href='https://computerhoy.com/life/genial-truco-papel-aluminio-quitar-hielo-congelador-alargara-vida-frigorifico-1401622' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/genial-truco-papel-aluminio-quitar-hielo-congelador-alargara-vida-frigorifico-4016820.jpg?tf=1200x' alt='El genial truco del papel de aluminio para quitar el hielo del congelador que alargará la vida de tu frigorífico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-10-sistema-operativo-salto-windows-9-microsoft-ya-puso-fecha-caducidad-1401030'>Windows 10: el sistema operativo que saltó Windows 9 y al que Microsoft ya puso fecha de caducidad</a></h4>
     <a href='https://computerhoy.com/windows/windows-10-sistema-operativo-salto-windows-9-microsoft-ya-puso-fecha-caducidad-1401030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacer-cuando-finalice-soporte-windows-10-todo-necesitas-saber-3446763.jpg?tf=1200x' alt='Windows 10: el sistema operativo que saltó Windows 9 y al que Microsoft ya puso fecha de caducidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/sirve-truco-pinza-salpicadero-coche-triunfa-fuera-espana-1401614'>Para qué sirve el truco de la pinza en el salpicadero del coche que triunfa fuera de España</a></h4>
-    <a href='https://computerhoy.com/motor/sirve-truco-pinza-salpicadero-coche-triunfa-fuera-espana-1401614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sirve-truco-pinza-salpicadero-coche-triunfa-fuera-espana-4015949.jpg?tf=1200x' alt='Para qué sirve el truco de la pinza en el salpicadero del coche que triunfa fuera de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/china-revoluciona-mundo-tecnologia-crear-primer-sistema-operativo-pc-inteligencia-artificial-1401346'>China revoluciona el mundo de la tecnología al crear el primer sistema operativo para PC con inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/china-revoluciona-mundo-tecnologia-crear-primer-sistema-operativo-pc-inteligencia-artificial-1401346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ordenador-ia-4006610.jpg?tf=1200x' alt='China revoluciona el mundo de la tecnología al crear el primer sistema operativo para PC con inteligencia artificial' />
     </a>
 </div>
 
