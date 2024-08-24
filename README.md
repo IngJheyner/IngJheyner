@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-esim-tener-datos-viajar-mexico-1401627'>Mejores eSIM para tener datos al viajar a México</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-esim-tener-datos-viajar-mexico-1401627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/depositphotos-4015660.jpg?tf=1200x' alt='Mejores eSIM para tener datos al viajar a México' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-estafa-internet-usa-bizum-robar-miles-euros-victimas-1400998'>Cuidado con la estafa por Internet que usa Bizum para robar miles de euros a sus víctimas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-estafa-internet-usa-bizum-robar-miles-euros-victimas-1400998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-estafa-internet-usa-bizum-robar-miles-euros-victimas-3992078.jpg?tf=1200x' alt='Cuidado con la estafa por Internet que usa Bizum para robar miles de euros a sus víctimas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mejores-grupos-telegram-te-puedes-unir-espana-1400333'>Los 50 mejores grupos de Telegram a los que te puedes unir en España</a></h4>
     <a href='https://computerhoy.com/apps/mejores-grupos-telegram-te-puedes-unir-espana-1400333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejores-grupos-telegram-3957286.jpg?tf=1200x' alt='Los 50 mejores grupos de Telegram a los que te puedes unir en España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/proton-vpn-analisis-opinion-1401157'>He probado la VPN de Proton y me ha encantado: va directa al top de las mejores</a></h4>
     <a href='https://computerhoy.com/tecnologia/proton-vpn-analisis-opinion-1401157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-vpn-4005784.jpg?tf=1200x' alt='He probado la VPN de Proton y me ha encantado: va directa al top de las mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pueden-empresas-cotillear-redes-sociales-estas-proceso-seleccion-1400287'>¿Pueden las empresas cotillear tus redes sociales si estás en un proceso de selección?</a></h4>
-    <a href='https://computerhoy.com/life/pueden-empresas-cotillear-redes-sociales-estas-proceso-seleccion-1400287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/redes-sociales-empresas-3951328.jpg?tf=1200x' alt='¿Pueden las empresas cotillear tus redes sociales si estás en un proceso de selección?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-spotify-openai-rechazan-leyes-inteligencia-artificial-1401643'>Las compañías de IA se quitan la careta: Meta, Spotify y OpenAI rechazan las leyes de la UE y California</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-spotify-openai-rechazan-leyes-inteligencia-artificial-1401643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/companias-ia-quitan-careta-meta-openai-rechazan-leyes-ue-california-4018559.jpg?tf=1200x' alt='Las compañías de IA se quitan la careta: Meta, Spotify y OpenAI rechazan las leyes de la UE y California' />
     </a>
 </div>
 
