@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-alternativa-airtag-comprar-aliexpress-1394858'>Xiaomi tiene su propio AirTag, aunque no lo vende en España: puedes comprarlo por menos de 1€ en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-alternativa-airtag-comprar-aliexpress-1394858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/localizador-xiaomi-3692801.jpg?tf=1200x' alt='Xiaomi tiene su propio AirTag, aunque no lo vende en España: puedes comprarlo por menos de 1€ en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cuadro-antiguo-nino-zapatillas-nike-hace-361-anos-1283004'>El increíble caso del cuadro pintado hace 361 años con un niño vistiendo zapatillas Nike (y logo incluido)</a></h4>
+    <a href='https://computerhoy.com/life/cuadro-antiguo-nino-zapatillas-nike-hace-361-anos-1283004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hace-viral-cuadro-siglo-vii-nino-vistiendo-zapatillas-nike-3096460.jpg?tf=1200x' alt='El increíble caso del cuadro pintado hace 361 años con un niño vistiendo zapatillas Nike (y logo incluido)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/como-ver-120-canales-tv-gratis-tienes-smart-tv-movil-samsung-1401636'>Cómo ver más de 120 canales de TV gratis si tienes un Smart TV o móvil Samsung</a></h4>
     <a href='https://computerhoy.com/tv/como-ver-120-canales-tv-gratis-tienes-smart-tv-movil-samsung-1401636' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-ver-120-canales-tv-gratis-tienes-smart-tv-movil-samsung-4017544.jpg?tf=1200x' alt='Cómo ver más de 120 canales de TV gratis si tienes un Smart TV o móvil Samsung' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/genial-truco-papel-aluminio-quitar-hielo-congelador-alargara-vida-frigorifico-1401622'>El genial truco del papel de aluminio para quitar el hielo del congelador que alargará la vida de tu frigorífico</a></h4>
     <a href='https://computerhoy.com/life/genial-truco-papel-aluminio-quitar-hielo-congelador-alargara-vida-frigorifico-1401622' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/genial-truco-papel-aluminio-quitar-hielo-congelador-alargara-vida-frigorifico-4016820.jpg?tf=1200x' alt='El genial truco del papel de aluminio para quitar el hielo del congelador que alargará la vida de tu frigorífico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-rura-mas-corta-1389786'>Estas son las razones por las que Google Maps no te lleva por la ruta más corta</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-rura-mas-corta-1389786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-error-pero-puedes-evitarlo-google-maps-no-siempre-recomienda-ruta-rapida-3453503.jpg?tf=1200x' alt='Estas son las razones por las que Google Maps no te lleva por la ruta más corta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-10-sistema-operativo-salto-windows-9-microsoft-ya-puso-fecha-caducidad-1401030'>Windows 10: el sistema operativo que saltó Windows 9 y al que Microsoft ya puso fecha de caducidad</a></h4>
-    <a href='https://computerhoy.com/windows/windows-10-sistema-operativo-salto-windows-9-microsoft-ya-puso-fecha-caducidad-1401030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacer-cuando-finalice-soporte-windows-10-todo-necesitas-saber-3446763.jpg?tf=1200x' alt='Windows 10: el sistema operativo que saltó Windows 9 y al que Microsoft ya puso fecha de caducidad' />
     </a>
 </div>
 
