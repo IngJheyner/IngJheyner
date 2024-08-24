@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/secretos-no-te-cuentan-lavadora-pueden-reducir-factura-luz-50-1401656'>Secretos que no te cuentan para tu lavadora y que pueden reducir la factura de luz en más del 50%</a></h4>
+    <a href='https://computerhoy.com/hogar/secretos-no-te-cuentan-lavadora-pueden-reducir-factura-luz-50-1401656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/poner-lavadora-4020304.jpg?tf=1200x' alt='Secretos que no te cuentan para tu lavadora y que pueden reducir la factura de luz en más del 50%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/seria-fecha-esperado-evento-presentacion-iphone-16-nuevos-apple-watch-airpods-1401653'>Esta sería la fecha para el esperado evento de presentación del iPhone 16 y de los nuevos Apple Watch y AirPods</a></h4>
+    <a href='https://computerhoy.com/apple/seria-fecha-esperado-evento-presentacion-iphone-16-nuevos-apple-watch-airpods-1401653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/evento-presentacion-apple-4020159.jpg?tf=1200x' alt='Esta sería la fecha para el esperado evento de presentación del iPhone 16 y de los nuevos Apple Watch y AirPods' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-funciona-codigo-secreto-whatsapp-protege-esconde-chats-privados-1400871'>Qué es y cómo funciona el código secreto de WhatsApp: protege y esconde tus chats más privados</a></h4>
+    <a href='https://computerhoy.com/apps/como-funciona-codigo-secreto-whatsapp-protege-esconde-chats-privados-1400871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-funciona-codigo-secreto-whatsapp-protege-esconde-chats-privados-3989247.jpg?tf=1200x' alt='Qué es y cómo funciona el código secreto de WhatsApp: protege y esconde tus chats más privados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/ajustes-debes-realizar-antes-publicar-fotografia-redes-sociales-1400161'>Los ajustes que debes realizar antes de publicar una fotografía en redes sociales</a></h4>
     <a href='https://computerhoy.com/moviles/ajustes-debes-realizar-antes-publicar-fotografia-redes-sociales-1400161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ajustes-debes-realizar-antes-publicar-fotografia-redes-sociales-3955236.jpg?tf=1200x' alt='Los ajustes que debes realizar antes de publicar una fotografía en redes sociales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-maps-no-mal-descubrir-radares-pero-alternativa-da-mil-vueltas-no-pasa-1401253'>Google Maps no está mal para descubrir radares, pero esta alternativa le da mil vueltas: no se le pasa uno</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-no-mal-descubrir-radares-pero-alternativa-da-mil-vueltas-no-pasa-1401253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-maps-no-mal-descubrir-radares-pero-alternativa-da-mil-vueltas-no-pasa-4003712.jpg?tf=1200x' alt='Google Maps no está mal para descubrir radares, pero esta alternativa le da mil vueltas: no se le pasa uno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-xiaomi-bestia-carga-rapida-camara-leica-1332456'>Esta bestia de Xiaomi tiene carga ultrarrápida a 120 y cámara Leica, y está arrasando en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-xiaomi-bestia-carga-rapida-camara-leica-1332456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-13t-pro-3216318.jpg?tf=1200x' alt='Esta bestia de Xiaomi tiene carga ultrarrápida a 120 y cámara Leica, y está arrasando en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-esim-tener-datos-viajar-mexico-1401627'>Mejores eSIM para tener datos al viajar a México</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-esim-tener-datos-viajar-mexico-1401627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/depositphotos-4015660.jpg?tf=1200x' alt='Mejores eSIM para tener datos al viajar a México' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-estafa-internet-usa-bizum-robar-miles-euros-victimas-1400998'>Cuidado con la estafa por Internet que usa Bizum para robar miles de euros a sus víctimas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-estafa-internet-usa-bizum-robar-miles-euros-victimas-1400998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-estafa-internet-usa-bizum-robar-miles-euros-victimas-3992078.jpg?tf=1200x' alt='Cuidado con la estafa por Internet que usa Bizum para robar miles de euros a sus víctimas' />
     </a>
 </div>
 
