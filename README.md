@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-alternativa-airtag-comprar-aliexpress-1394858'>Xiaomi tiene su propio AirTag, aunque no lo vende en España: puedes comprarlo por menos de 1€ en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-alternativa-airtag-comprar-aliexpress-1394858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/localizador-xiaomi-3692801.jpg?tf=1200x' alt='Xiaomi tiene su propio AirTag, aunque no lo vende en España: puedes comprarlo por menos de 1€ en AliExpress' />
+    <h4><a href='https://computerhoy.com/tecnologia/proton-vpn-analisis-opinion-1401157'>He probado la VPN de Proton y me ha encantado: va directa al top de las mejores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/proton-vpn-analisis-opinion-1401157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-vpn-4005784.jpg?tf=1200x' alt='He probado la VPN de Proton y me ha encantado: va directa al top de las mejores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuadro-antiguo-nino-zapatillas-nike-hace-361-anos-1283004'>El increíble caso del cuadro pintado hace 361 años con un niño vistiendo zapatillas Nike (y logo incluido)</a></h4>
-    <a href='https://computerhoy.com/life/cuadro-antiguo-nino-zapatillas-nike-hace-361-anos-1283004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hace-viral-cuadro-siglo-vii-nino-vistiendo-zapatillas-nike-3096460.jpg?tf=1200x' alt='El increíble caso del cuadro pintado hace 361 años con un niño vistiendo zapatillas Nike (y logo incluido)' />
+    <h4><a href='https://computerhoy.com/life/pueden-empresas-cotillear-redes-sociales-estas-proceso-seleccion-1400287'>¿Pueden las empresas cotillear tus redes sociales si estás en un proceso de selección?</a></h4>
+    <a href='https://computerhoy.com/life/pueden-empresas-cotillear-redes-sociales-estas-proceso-seleccion-1400287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/redes-sociales-empresas-3951328.jpg?tf=1200x' alt='¿Pueden las empresas cotillear tus redes sociales si estás en un proceso de selección?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/como-ver-120-canales-tv-gratis-tienes-smart-tv-movil-samsung-1401636'>Cómo ver más de 120 canales de TV gratis si tienes un Smart TV o móvil Samsung</a></h4>
-    <a href='https://computerhoy.com/tv/como-ver-120-canales-tv-gratis-tienes-smart-tv-movil-samsung-1401636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-ver-120-canales-tv-gratis-tienes-smart-tv-movil-samsung-4017544.jpg?tf=1200x' alt='Cómo ver más de 120 canales de TV gratis si tienes un Smart TV o móvil Samsung' />
+    <h4><a href='https://computerhoy.com/tecnologia/meta-spotify-openai-rechazan-leyes-inteligencia-artificial-1401643'>Las compañías de IA se quitan la careta: Meta, Spotify y OpenAI rechazan las leyes de la UE y California</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-spotify-openai-rechazan-leyes-inteligencia-artificial-1401643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/companias-ia-quitan-careta-meta-openai-rechazan-leyes-ue-california-4018559.jpg?tf=1200x' alt='Las compañías de IA se quitan la careta: Meta, Spotify y OpenAI rechazan las leyes de la UE y California' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-cancela-planes-competir-apple-vision-pro-1401638'>Meta cancela sus planes para competir con Apple Vision Pro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-cancela-planes-competir-apple-vision-pro-1401638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/meta-cancela-planes-competir-apple-vision-pro-4016531.jpg?tf=1200x' alt='Meta cancela sus planes para competir con Apple Vision Pro' />
+    <h4><a href='https://computerhoy.com/audio/ya-no-hay-quien-distinga-auriculares-inalambricos-otros-modelo-tan-diferente-me-ha-hecho-darme-cuenta-1399648'>Ya no hay quien distinga los auriculares inalámbricos unos de otros: este modelo tan diferente me ha hecho darme cuenta</a></h4>
+    <a href='https://computerhoy.com/audio/ya-no-hay-quien-distinga-auriculares-inalambricos-otros-modelo-tan-diferente-me-ha-hecho-darme-cuenta-1399648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-buds-3-pro-3913131.jpg?tf=1200x' alt='Ya no hay quien distinga los auriculares inalámbricos unos de otros: este modelo tan diferente me ha hecho darme cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/genial-truco-papel-aluminio-quitar-hielo-congelador-alargara-vida-frigorifico-1401622'>El genial truco del papel de aluminio para quitar el hielo del congelador que alargará la vida de tu frigorífico</a></h4>
-    <a href='https://computerhoy.com/life/genial-truco-papel-aluminio-quitar-hielo-congelador-alargara-vida-frigorifico-1401622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/genial-truco-papel-aluminio-quitar-hielo-congelador-alargara-vida-frigorifico-4016820.jpg?tf=1200x' alt='El genial truco del papel de aluminio para quitar el hielo del congelador que alargará la vida de tu frigorífico' />
+    <h4><a href='https://computerhoy.com/ciencia/dodecaedros-romanos-que-son-1401641'>El misterio de los dodecaedros romanos: ¿qué son y para qué se utilizaban?</a></h4>
+    <a href='https://computerhoy.com/ciencia/dodecaedros-romanos-que-son-1401641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/misterio-dodecaedros-romanos-son-utilizaban-4018413.jpg?tf=1200x' alt='El misterio de los dodecaedros romanos: ¿qué son y para qué se utilizaban?' />
     </a>
 </div>
 
