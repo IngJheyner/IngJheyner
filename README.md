@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dell-fabricar-solo-ordenadores-servicios-software-1401028'>Dell: de fabricar solo ordenadores a los servicios de software</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dell-fabricar-solo-ordenadores-servicios-software-1401028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dell-3993290.jpg?tf=1200x' alt='Dell: de fabricar solo ordenadores a los servicios de software' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-traera-regreso-tierra-astronautas-starliner-mision-crew-9-spacex-febrero-2025-1401684'>La NASA traerá de regreso a la Tierra a los astronautas de la Starliner en la misión Crew-9 de SpaceX en febrero de 2025</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-traera-regreso-tierra-astronautas-starliner-mision-crew-9-spacex-febrero-2025-1401684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/starliner-boeing-4022495.jpg?tf=1200x' alt='La NASA traerá de regreso a la Tierra a los astronautas de la Starliner en la misión Crew-9 de SpaceX en febrero de 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/particular-cambio-interfaz-veras-pronto-ver-video-youtube-1401668'>El particular cambio en la interfaz que verás pronto al ver un vídeo en YouTube</a></h4>
     <a href='https://computerhoy.com/apps/particular-cambio-interfaz-veras-pronto-ver-video-youtube-1401668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ordenador-portatil-logo-youtube-4021181.jpg?tf=1200x' alt='El particular cambio en la interfaz que verás pronto al ver un vídeo en YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-barato-increible-mide-glucosa-sangre-cuesta-menos-50-euros-1400750'>Este reloj barato es increíble: mide glucosa en sangre y cuesta menos de 50 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-barato-increible-mide-glucosa-sangre-cuesta-menos-50-euros-1400750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/blitzwolf-bw-hl5-3983878.jpg?tf=1200x' alt='Este reloj barato es increíble: mide glucosa en sangre y cuesta menos de 50 euros' />
     </a>
 </div>
 
