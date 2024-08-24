@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-traera-regreso-tierra-astronautas-starliner-mision-crew-9-spacex-febrero-2025-1401684'>La NASA traerá de regreso a la Tierra a los astronautas de la Starliner en la misión Crew-9 de SpaceX en febrero de 2025</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-traera-regreso-tierra-astronautas-starliner-mision-crew-9-spacex-febrero-2025-1401684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/starliner-boeing-4022495.jpg?tf=1200x' alt='La NASA traerá de regreso a la Tierra a los astronautas de la Starliner en la misión Crew-9 de SpaceX en febrero de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-contar-control-camara-ordenador-1401669'>Windows 11 te permitirá contar con más control sobre la cámara del ordenador</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-te-permitira-contar-control-camara-ordenador-1401669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/webcam-windows-11-4021182.jpg?tf=1200x' alt='Windows 11 te permitirá contar con más control sobre la cámara del ordenador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/reloj-barato-increible-mide-glucosa-sangre-cuesta-menos-50-euros-1400750'>Este reloj barato es increíble: mide glucosa en sangre y cuesta menos de 50 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-barato-increible-mide-glucosa-sangre-cuesta-menos-50-euros-1400750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/blitzwolf-bw-hl5-3983878.jpg?tf=1200x' alt='Este reloj barato es increíble: mide glucosa en sangre y cuesta menos de 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-archivos-mkv-mp4-1395697'>Cómo convertir archivos MKV a MP4</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-convertir-archivos-mkv-mp4-1395697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mkv-mp4-3733522.jpg?tf=1200x' alt='Cómo convertir archivos MKV a MP4' />
     </a>
 </div>
 
