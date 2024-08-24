@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-no-abandona-windows-10-prepara-todas-estas-novedades-1401662'>Microsoft no abandona Windows 10 y prepara todas estas novedades</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-no-abandona-windows-10-prepara-todas-estas-novedades-1401662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/actualizacion-windows-10-4020599.jpg?tf=1200x' alt='Microsoft no abandona Windows 10 y prepara todas estas novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/mejores-videojuegos-multijugador-game-pass-ultimate-pc-1401256'>Los 8 mejores videojuegos multijugador de Game Pass Ultimate para PC</a></h4>
+    <a href='https://computerhoy.com/gaming/mejores-videojuegos-multijugador-game-pass-ultimate-pc-1401256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gears-5-game-pass-ultimate-4007268.jpg?tf=1200x' alt='Los 8 mejores videojuegos multijugador de Game Pass Ultimate para PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-contara-aumento-rendimiento-actualizar-gestion-memoria-1401658'>Android contará con un aumento de rendimiento tras actualizar la gestión de memoria</a></h4>
     <a href='https://computerhoy.com/android/android-contara-aumento-rendimiento-actualizar-gestion-memoria-1401658' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejora-rendimiento-android-4020450.jpg?tf=1200x' alt='Android contará con un aumento de rendimiento tras actualizar la gestión de memoria' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estafa-peligro-buzon-smartwatch-auriculares-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares en el buzón y no los has comprado... ¡Peligro!</a></h4>
     <a href='https://computerhoy.com/tecnologia/estafa-peligro-buzon-smartwatch-auriculares-brushing-malware-1265776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/buzon-3255334.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares en el buzón y no los has comprado... ¡Peligro!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/secretos-no-te-cuentan-lavadora-pueden-reducir-factura-luz-50-1401656'>Secretos que no te cuentan para tu lavadora y que pueden reducir la factura de luz en más del 50%</a></h4>
-    <a href='https://computerhoy.com/hogar/secretos-no-te-cuentan-lavadora-pueden-reducir-factura-luz-50-1401656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/poner-lavadora-4020304.jpg?tf=1200x' alt='Secretos que no te cuentan para tu lavadora y que pueden reducir la factura de luz en más del 50%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/seria-fecha-esperado-evento-presentacion-iphone-16-nuevos-apple-watch-airpods-1401653'>Esta sería la fecha para el esperado evento de presentación del iPhone 16 y de los nuevos Apple Watch y AirPods</a></h4>
-    <a href='https://computerhoy.com/apple/seria-fecha-esperado-evento-presentacion-iphone-16-nuevos-apple-watch-airpods-1401653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/evento-presentacion-apple-4020159.jpg?tf=1200x' alt='Esta sería la fecha para el esperado evento de presentación del iPhone 16 y de los nuevos Apple Watch y AirPods' />
     </a>
 </div>
 
