@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/particular-cambio-interfaz-veras-pronto-ver-video-youtube-1401668'>El particular cambio en la interfaz que verás pronto al ver un vídeo en YouTube</a></h4>
+    <a href='https://computerhoy.com/apps/particular-cambio-interfaz-veras-pronto-ver-video-youtube-1401668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ordenador-portatil-logo-youtube-4021181.jpg?tf=1200x' alt='El particular cambio en la interfaz que verás pronto al ver un vídeo en YouTube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-barato-increible-mide-glucosa-sangre-cuesta-menos-50-euros-1400750'>Este reloj barato es increíble: mide glucosa en sangre y cuesta menos de 50 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-barato-increible-mide-glucosa-sangre-cuesta-menos-50-euros-1400750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/blitzwolf-bw-hl5-3983878.jpg?tf=1200x' alt='Este reloj barato es increíble: mide glucosa en sangre y cuesta menos de 50 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-archivos-mkv-mp4-1395697'>Cómo convertir archivos MKV a MP4</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-convertir-archivos-mkv-mp4-1395697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mkv-mp4-3733522.jpg?tf=1200x' alt='Cómo convertir archivos MKV a MP4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/error-ha-roto-android-auto-google-no-sabe-solventar-1401667'>El error que ha roto Android Auto y que Google no sabe solventar</a></h4>
     <a href='https://computerhoy.com/apps/error-ha-roto-android-auto-google-no-sabe-solventar-1401667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fallo-android-auto-4021036.jpg?tf=1200x' alt='El error que ha roto Android Auto y que Google no sabe solventar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/malware-android-roba-datos-tarjetas-credito-mediante-tecnica-novedosa-1401666'>Un malware para Android roba datos de tarjetas de crédito mediante una técnica novedosa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/malware-android-roba-datos-tarjetas-credito-mediante-tecnica-novedosa-1401666' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/campana-malware-android-4020891.jpg?tf=1200x' alt='Un malware para Android roba datos de tarjetas de crédito mediante una técnica novedosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-no-abandona-windows-10-prepara-todas-estas-novedades-1401662'>Microsoft no abandona Windows 10 y prepara todas estas novedades</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-no-abandona-windows-10-prepara-todas-estas-novedades-1401662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/actualizacion-windows-10-4020599.jpg?tf=1200x' alt='Microsoft no abandona Windows 10 y prepara todas estas novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/mejores-videojuegos-multijugador-game-pass-ultimate-pc-1401256'>Los 8 mejores videojuegos multijugador de Game Pass Ultimate para PC</a></h4>
-    <a href='https://computerhoy.com/gaming/mejores-videojuegos-multijugador-game-pass-ultimate-pc-1401256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gears-5-game-pass-ultimate-4007268.jpg?tf=1200x' alt='Los 8 mejores videojuegos multijugador de Game Pass Ultimate para PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-contara-aumento-rendimiento-actualizar-gestion-memoria-1401658'>Android contará con un aumento de rendimiento tras actualizar la gestión de memoria</a></h4>
-    <a href='https://computerhoy.com/android/android-contara-aumento-rendimiento-actualizar-gestion-memoria-1401658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejora-rendimiento-android-4020450.jpg?tf=1200x' alt='Android contará con un aumento de rendimiento tras actualizar la gestión de memoria' />
     </a>
 </div>
 
