@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-contar-control-camara-ordenador-1401669'>Windows 11 te permitirá contar con más control sobre la cámara del ordenador</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-te-permitira-contar-control-camara-ordenador-1401669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/webcam-windows-11-4021182.jpg?tf=1200x' alt='Windows 11 te permitirá contar con más control sobre la cámara del ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/grave-error-cometes-cada-dia-encender-apagar-pc-windows-1401254'>Este es el grave error que cometes cada día al encender y apagar tu PC con Windows</a></h4>
+    <a href='https://computerhoy.com/windows/grave-error-cometes-cada-dia-encender-apagar-pc-windows-1401254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/grave-error-cometes-cada-dia-encender-apagar-pc-windows-4004156.jpg?tf=1200x' alt='Este es el grave error que cometes cada día al encender y apagar tu PC con Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/particular-cambio-interfaz-veras-pronto-ver-video-youtube-1401668'>El particular cambio en la interfaz que verás pronto al ver un vídeo en YouTube</a></h4>
     <a href='https://computerhoy.com/apps/particular-cambio-interfaz-veras-pronto-ver-video-youtube-1401668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ordenador-portatil-logo-youtube-4021181.jpg?tf=1200x' alt='El particular cambio en la interfaz que verás pronto al ver un vídeo en YouTube' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-convertir-archivos-mkv-mp4-1395697'>Cómo convertir archivos MKV a MP4</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-convertir-archivos-mkv-mp4-1395697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mkv-mp4-3733522.jpg?tf=1200x' alt='Cómo convertir archivos MKV a MP4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/error-ha-roto-android-auto-google-no-sabe-solventar-1401667'>El error que ha roto Android Auto y que Google no sabe solventar</a></h4>
-    <a href='https://computerhoy.com/apps/error-ha-roto-android-auto-google-no-sabe-solventar-1401667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fallo-android-auto-4021036.jpg?tf=1200x' alt='El error que ha roto Android Auto y que Google no sabe solventar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/malware-android-roba-datos-tarjetas-credito-mediante-tecnica-novedosa-1401666'>Un malware para Android roba datos de tarjetas de crédito mediante una técnica novedosa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/malware-android-roba-datos-tarjetas-credito-mediante-tecnica-novedosa-1401666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/campana-malware-android-4020891.jpg?tf=1200x' alt='Un malware para Android roba datos de tarjetas de crédito mediante una técnica novedosa' />
     </a>
 </div>
 
