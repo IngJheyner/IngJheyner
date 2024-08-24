@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-grupos-telegram-te-puedes-unir-espana-1400333'>Los 50 mejores grupos de Telegram a los que te puedes unir en España</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-grupos-telegram-te-puedes-unir-espana-1400333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejores-grupos-telegram-3957286.jpg?tf=1200x' alt='Los 50 mejores grupos de Telegram a los que te puedes unir en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/psicologia-detras-correo-electronico-como-afecta-salud-mental-1401218'>La psicología detrás del correo electrónico: así es como afecta a tu salud mental</a></h4>
+    <a href='https://computerhoy.com/tecnologia/psicologia-detras-correo-electronico-como-afecta-salud-mental-1401218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/psicologia-correo-electronico-4000333.jpg?tf=1200x' alt='La psicología detrás del correo electrónico: así es como afecta a tu salud mental' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/proton-vpn-analisis-opinion-1401157'>He probado la VPN de Proton y me ha encantado: va directa al top de las mejores</a></h4>
     <a href='https://computerhoy.com/tecnologia/proton-vpn-analisis-opinion-1401157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-vpn-4005784.jpg?tf=1200x' alt='He probado la VPN de Proton y me ha encantado: va directa al top de las mejores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/meta-spotify-openai-rechazan-leyes-inteligencia-artificial-1401643'>Las compañías de IA se quitan la careta: Meta, Spotify y OpenAI rechazan las leyes de la UE y California</a></h4>
     <a href='https://computerhoy.com/tecnologia/meta-spotify-openai-rechazan-leyes-inteligencia-artificial-1401643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/companias-ia-quitan-careta-meta-openai-rechazan-leyes-ue-california-4018559.jpg?tf=1200x' alt='Las compañías de IA se quitan la careta: Meta, Spotify y OpenAI rechazan las leyes de la UE y California' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/ya-no-hay-quien-distinga-auriculares-inalambricos-otros-modelo-tan-diferente-me-ha-hecho-darme-cuenta-1399648'>Ya no hay quien distinga los auriculares inalámbricos unos de otros: este modelo tan diferente me ha hecho darme cuenta</a></h4>
-    <a href='https://computerhoy.com/audio/ya-no-hay-quien-distinga-auriculares-inalambricos-otros-modelo-tan-diferente-me-ha-hecho-darme-cuenta-1399648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-buds-3-pro-3913131.jpg?tf=1200x' alt='Ya no hay quien distinga los auriculares inalámbricos unos de otros: este modelo tan diferente me ha hecho darme cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/dodecaedros-romanos-que-son-1401641'>El misterio de los dodecaedros romanos: ¿qué son y para qué se utilizaban?</a></h4>
-    <a href='https://computerhoy.com/ciencia/dodecaedros-romanos-que-son-1401641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/misterio-dodecaedros-romanos-son-utilizaban-4018413.jpg?tf=1200x' alt='El misterio de los dodecaedros romanos: ¿qué son y para qué se utilizaban?' />
     </a>
 </div>
 
