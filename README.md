@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/ajustes-debes-realizar-antes-publicar-fotografia-redes-sociales-1400161'>Los ajustes que debes realizar antes de publicar una fotografía en redes sociales</a></h4>
+    <a href='https://computerhoy.com/moviles/ajustes-debes-realizar-antes-publicar-fotografia-redes-sociales-1400161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ajustes-debes-realizar-antes-publicar-fotografia-redes-sociales-3955236.jpg?tf=1200x' alt='Los ajustes que debes realizar antes de publicar una fotografía en redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-no-mal-descubrir-radares-pero-alternativa-da-mil-vueltas-no-pasa-1401253'>Google Maps no está mal para descubrir radares, pero esta alternativa le da mil vueltas: no se le pasa uno</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-no-mal-descubrir-radares-pero-alternativa-da-mil-vueltas-no-pasa-1401253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-maps-no-mal-descubrir-radares-pero-alternativa-da-mil-vueltas-no-pasa-4003712.jpg?tf=1200x' alt='Google Maps no está mal para descubrir radares, pero esta alternativa le da mil vueltas: no se le pasa uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/movil-xiaomi-bestia-carga-rapida-camara-leica-1332456'>Esta bestia de Xiaomi tiene carga ultrarrápida a 120 y cámara Leica, y está arrasando en AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-xiaomi-bestia-carga-rapida-camara-leica-1332456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-13t-pro-3216318.jpg?tf=1200x' alt='Esta bestia de Xiaomi tiene carga ultrarrápida a 120 y cámara Leica, y está arrasando en AliExpress' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-estafa-internet-usa-bizum-robar-miles-euros-victimas-1400998'>Cuidado con la estafa por Internet que usa Bizum para robar miles de euros a sus víctimas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cuidado-estafa-internet-usa-bizum-robar-miles-euros-victimas-1400998' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cuidado-estafa-internet-usa-bizum-robar-miles-euros-victimas-3992078.jpg?tf=1200x' alt='Cuidado con la estafa por Internet que usa Bizum para robar miles de euros a sus víctimas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-grupos-telegram-te-puedes-unir-espana-1400333'>Los 50 mejores grupos de Telegram a los que te puedes unir en España</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-grupos-telegram-te-puedes-unir-espana-1400333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejores-grupos-telegram-3957286.jpg?tf=1200x' alt='Los 50 mejores grupos de Telegram a los que te puedes unir en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/psicologia-detras-correo-electronico-como-afecta-salud-mental-1401218'>La psicología detrás del correo electrónico: así es como afecta a tu salud mental</a></h4>
-    <a href='https://computerhoy.com/tecnologia/psicologia-detras-correo-electronico-como-afecta-salud-mental-1401218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/psicologia-correo-electronico-4000333.jpg?tf=1200x' alt='La psicología detrás del correo electrónico: así es como afecta a tu salud mental' />
     </a>
 </div>
 
