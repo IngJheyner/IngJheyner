@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-contara-aumento-rendimiento-actualizar-gestion-memoria-1401658'>Android contará con un aumento de rendimiento tras actualizar la gestión de memoria</a></h4>
+    <a href='https://computerhoy.com/android/android-contara-aumento-rendimiento-actualizar-gestion-memoria-1401658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejora-rendimiento-android-4020450.jpg?tf=1200x' alt='Android contará con un aumento de rendimiento tras actualizar la gestión de memoria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-jugar-juegos-playstation-2-pc-windows-1401400'>Cómo jugar juegos de PlayStation 2 en un PC con Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-jugar-juegos-playstation-2-pc-windows-1401400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mando-playstation-2-pc-4009166.jpg?tf=1200x' alt='Cómo jugar juegos de PlayStation 2 en un PC con Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estafa-peligro-buzon-smartwatch-auriculares-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares en el buzón y no los has comprado... ¡Peligro!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estafa-peligro-buzon-smartwatch-auriculares-brushing-malware-1265776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/buzon-3255334.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares en el buzón y no los has comprado... ¡Peligro!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/secretos-no-te-cuentan-lavadora-pueden-reducir-factura-luz-50-1401656'>Secretos que no te cuentan para tu lavadora y que pueden reducir la factura de luz en más del 50%</a></h4>
     <a href='https://computerhoy.com/hogar/secretos-no-te-cuentan-lavadora-pueden-reducir-factura-luz-50-1401656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/poner-lavadora-4020304.jpg?tf=1200x' alt='Secretos que no te cuentan para tu lavadora y que pueden reducir la factura de luz en más del 50%' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/seria-fecha-esperado-evento-presentacion-iphone-16-nuevos-apple-watch-airpods-1401653'>Esta sería la fecha para el esperado evento de presentación del iPhone 16 y de los nuevos Apple Watch y AirPods</a></h4>
     <a href='https://computerhoy.com/apple/seria-fecha-esperado-evento-presentacion-iphone-16-nuevos-apple-watch-airpods-1401653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/evento-presentacion-apple-4020159.jpg?tf=1200x' alt='Esta sería la fecha para el esperado evento de presentación del iPhone 16 y de los nuevos Apple Watch y AirPods' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-funciona-codigo-secreto-whatsapp-protege-esconde-chats-privados-1400871'>Qué es y cómo funciona el código secreto de WhatsApp: protege y esconde tus chats más privados</a></h4>
-    <a href='https://computerhoy.com/apps/como-funciona-codigo-secreto-whatsapp-protege-esconde-chats-privados-1400871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-funciona-codigo-secreto-whatsapp-protege-esconde-chats-privados-3989247.jpg?tf=1200x' alt='Qué es y cómo funciona el código secreto de WhatsApp: protege y esconde tus chats más privados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ajustes-debes-realizar-antes-publicar-fotografia-redes-sociales-1400161'>Los ajustes que debes realizar antes de publicar una fotografía en redes sociales</a></h4>
-    <a href='https://computerhoy.com/moviles/ajustes-debes-realizar-antes-publicar-fotografia-redes-sociales-1400161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ajustes-debes-realizar-antes-publicar-fotografia-redes-sociales-3955236.jpg?tf=1200x' alt='Los ajustes que debes realizar antes de publicar una fotografía en redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-no-mal-descubrir-radares-pero-alternativa-da-mil-vueltas-no-pasa-1401253'>Google Maps no está mal para descubrir radares, pero esta alternativa le da mil vueltas: no se le pasa uno</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-no-mal-descubrir-radares-pero-alternativa-da-mil-vueltas-no-pasa-1401253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-maps-no-mal-descubrir-radares-pero-alternativa-da-mil-vueltas-no-pasa-4003712.jpg?tf=1200x' alt='Google Maps no está mal para descubrir radares, pero esta alternativa le da mil vueltas: no se le pasa uno' />
     </a>
 </div>
 
