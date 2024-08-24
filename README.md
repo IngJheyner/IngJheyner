@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-xiaomi-bestia-carga-rapida-camara-leica-1332456'>Esta bestia de Xiaomi tiene carga ultrarrápida a 120 y cámara Leica, y está arrasando en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-xiaomi-bestia-carga-rapida-camara-leica-1332456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-13t-pro-3216318.jpg?tf=1200x' alt='Esta bestia de Xiaomi tiene carga ultrarrápida a 120 y cámara Leica, y está arrasando en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mejores-esim-tener-datos-viajar-mexico-1401627'>Mejores eSIM para tener datos al viajar a México</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejores-esim-tener-datos-viajar-mexico-1401627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/depositphotos-4015660.jpg?tf=1200x' alt='Mejores eSIM para tener datos al viajar a México' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/psicologia-detras-correo-electronico-como-afecta-salud-mental-1401218'>La psicología detrás del correo electrónico: así es como afecta a tu salud mental</a></h4>
     <a href='https://computerhoy.com/tecnologia/psicologia-detras-correo-electronico-como-afecta-salud-mental-1401218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/psicologia-correo-electronico-4000333.jpg?tf=1200x' alt='La psicología detrás del correo electrónico: así es como afecta a tu salud mental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/proton-vpn-analisis-opinion-1401157'>He probado la VPN de Proton y me ha encantado: va directa al top de las mejores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/proton-vpn-analisis-opinion-1401157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-vpn-4005784.jpg?tf=1200x' alt='He probado la VPN de Proton y me ha encantado: va directa al top de las mejores' />
     </a>
 </div>
 
