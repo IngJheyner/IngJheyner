@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/malware-android-roba-datos-tarjetas-credito-mediante-tecnica-novedosa-1401666'>Un malware para Android roba datos de tarjetas de crédito mediante una técnica novedosa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/malware-android-roba-datos-tarjetas-credito-mediante-tecnica-novedosa-1401666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/campana-malware-android-4020891.jpg?tf=1200x' alt='Un malware para Android roba datos de tarjetas de crédito mediante una técnica novedosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-no-abandona-windows-10-prepara-todas-estas-novedades-1401662'>Microsoft no abandona Windows 10 y prepara todas estas novedades</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-no-abandona-windows-10-prepara-todas-estas-novedades-1401662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/actualizacion-windows-10-4020599.jpg?tf=1200x' alt='Microsoft no abandona Windows 10 y prepara todas estas novedades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-jugar-juegos-playstation-2-pc-windows-1401400'>Cómo jugar juegos de PlayStation 2 en un PC con Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-jugar-juegos-playstation-2-pc-windows-1401400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mando-playstation-2-pc-4009166.jpg?tf=1200x' alt='Cómo jugar juegos de PlayStation 2 en un PC con Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estafa-peligro-buzon-smartwatch-auriculares-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares en el buzón y no los has comprado... ¡Peligro!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estafa-peligro-buzon-smartwatch-auriculares-brushing-malware-1265776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/buzon-3255334.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares en el buzón y no los has comprado... ¡Peligro!' />
     </a>
 </div>
 
