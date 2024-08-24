@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/error-ha-roto-android-auto-google-no-sabe-solventar-1401667'>El error que ha roto Android Auto y que Google no sabe solventar</a></h4>
+    <a href='https://computerhoy.com/apps/error-ha-roto-android-auto-google-no-sabe-solventar-1401667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fallo-android-auto-4021036.jpg?tf=1200x' alt='El error que ha roto Android Auto y que Google no sabe solventar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/malware-android-roba-datos-tarjetas-credito-mediante-tecnica-novedosa-1401666'>Un malware para Android roba datos de tarjetas de crédito mediante una técnica novedosa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/malware-android-roba-datos-tarjetas-credito-mediante-tecnica-novedosa-1401666' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/campana-malware-android-4020891.jpg?tf=1200x' alt='Un malware para Android roba datos de tarjetas de crédito mediante una técnica novedosa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/android-contara-aumento-rendimiento-actualizar-gestion-memoria-1401658'>Android contará con un aumento de rendimiento tras actualizar la gestión de memoria</a></h4>
     <a href='https://computerhoy.com/android/android-contara-aumento-rendimiento-actualizar-gestion-memoria-1401658' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejora-rendimiento-android-4020450.jpg?tf=1200x' alt='Android contará con un aumento de rendimiento tras actualizar la gestión de memoria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-jugar-juegos-playstation-2-pc-windows-1401400'>Cómo jugar juegos de PlayStation 2 en un PC con Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-jugar-juegos-playstation-2-pc-windows-1401400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mando-playstation-2-pc-4009166.jpg?tf=1200x' alt='Cómo jugar juegos de PlayStation 2 en un PC con Windows' />
     </a>
 </div>
 
