@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/algunas-empresas-comienzan-cobrar-extra-usas-productos-segunda-mano-1401717'>Algunas empresas comienzan a cobrar un extra si usas productos de segunda mano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/algunas-empresas-comienzan-cobrar-extra-usas-productos-segunda-mano-1401717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/algunas-empresas-comienzan-cobrar-extra-usas-productos-segunda-mano-4029763.jpg?tf=1200x' alt='Algunas empresas comienzan a cobrar un extra si usas productos de segunda mano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/coche-electrico-como-funciona-grandes-marcas-ayudas-futuro-frente-coche-combustion-1400964'>Coche eléctrico: cómo funciona, grandes marcas, ayudas y su futuro frente al coche de combustión</a></h4>
     <a href='https://computerhoy.com/motor/coche-electrico-como-funciona-grandes-marcas-ayudas-futuro-frente-coche-combustion-1400964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coche-electrico-futuro-3991760.jpg?tf=1200x' alt='Coche eléctrico: cómo funciona, grandes marcas, ayudas y su futuro frente al coche de combustión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/he-dejado-gmail-me-he-pasado-proton-mail-he-hecho-segundos-perder-ni-correo-1400696'>He dejado Gmail y me he pasado a Proton Mail: lo he hecho en segundos y sin perder ni un correo</a></h4>
     <a href='https://computerhoy.com/tecnologia/he-dejado-gmail-me-he-pasado-proton-mail-he-hecho-segundos-perder-ni-correo-1400696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-pass-3941353.jpg?tf=1200x' alt='He dejado Gmail y me he pasado a Proton Mail: lo he hecho en segundos y sin perder ni un correo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-grupo-whatsapp-guia-paso-paso-1395150'>Cómo eliminar un grupo de WhatsApp: guía paso a paso</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-eliminar-grupo-whatsapp-guia-paso-paso-1395150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-3704777.jpg?tf=1200x' alt='Cómo eliminar un grupo de WhatsApp: guía paso a paso' />
     </a>
 </div>
 
