@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/futuro-coches-positivo-tengan-tanta-tecnologia-36-espanoles-no-aprovecha-maximo-funciones-1400288'>El futuro de los coches: ¿Es positivo que tengan tanta tecnología? Un 36% de los españoles no aprovecha al máximo sus funciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/futuro-coches-positivo-tengan-tanta-tecnologia-36-espanoles-no-aprovecha-maximo-funciones-1400288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coches-futuro-3951326.jpg?tf=1200x' alt='El futuro de los coches: ¿Es positivo que tengan tanta tecnología? Un 36% de los españoles no aprovecha al máximo sus funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/adios-google-como-rey-busquedas-inteligencia-artificial-quiere-arrasar-todo-1401217'>¿Adiós a Google como rey de las búsquedas?: la inteligencia artificial quiere arrasar con todo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-google-como-rey-busquedas-inteligencia-artificial-quiere-arrasar-todo-1401217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-ia-4000336.jpg?tf=1200x' alt='¿Adiós a Google como rey de las búsquedas?: la inteligencia artificial quiere arrasar con todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/como-evito-me-desplumen-duplican-acceden-mi-tarjeta-bancaria-1401216'>Así es como evito que me desplumen si duplican o acceden a mi tarjeta bancaria</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/como-evito-me-desplumen-duplican-acceden-mi-tarjeta-bancaria-1401216' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/robo-tarjeta-credito-4013020.jpg?tf=1200x' alt='Así es como evito que me desplumen si duplican o acceden a mi tarjeta bancaria' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/vuelo-mas-largo-historia-1401686'>La loca historia del vuelo más largo: más de dos meses sin aterrizar</a></h4>
     <a href='https://computerhoy.com/motor/vuelo-mas-largo-historia-1401686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/loca-historia-vuelo-largo-dos-meses-aterrizar-4025378.jpg?tf=1200x' alt='La loca historia del vuelo más largo: más de dos meses sin aterrizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/cardsharing-tan-perseguido-laliga-1398703'>¿Qué es el cardsharing y por qué es tan perseguido por LaLiga?</a></h4>
-    <a href='https://computerhoy.com/tv/cardsharing-tan-perseguido-laliga-1398703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1724400466642-4012510.jpg?tf=1200x' alt='¿Qué es el cardsharing y por qué es tan perseguido por LaLiga?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/producto-me-ha-hecho-darme-cuenta-necesito-purificador-aire-casa-aunque-no-tenga-afecciones-1400079'>Este producto me ha hecho darme cuenta de que necesito un purificador de aire en casa aunque no tenga afecciones</a></h4>
-    <a href='https://computerhoy.com/hogar/producto-me-ha-hecho-darme-cuenta-necesito-purificador-aire-casa-aunque-no-tenga-afecciones-1400079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dyson-purifier-cool-formaldehyde-3984754.jpg?tf=1200x' alt='Este producto me ha hecho darme cuenta de que necesito un purificador de aire en casa aunque no tenga afecciones' />
     </a>
 </div>
 
