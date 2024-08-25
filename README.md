@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-a-por-google-rebaja-aplicaciones-nube-1399848'>Microsoft va a por Google: rebaja sus aplicaciones y regala 1TB en la nube con ellas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-a-por-google-rebaja-aplicaciones-nube-1399848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-365-3308242.jpg?tf=1200x' alt='Microsoft va a por Google: rebaja sus aplicaciones y regala 1TB en la nube con ellas' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-evito-me-desplumen-duplican-acceden-mi-tarjeta-bancaria-1401216'>Así es como evito que me desplumen si duplican o acceden a mi tarjeta bancaria</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-evito-me-desplumen-duplican-acceden-mi-tarjeta-bancaria-1401216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/robo-tarjeta-credito-4013020.jpg?tf=1200x' alt='Así es como evito que me desplumen si duplican o acceden a mi tarjeta bancaria' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/tecnologia-duplica-velocidad-pc-actualizar-hardware-shmt-1371452'>SHMT, la tecnología que puede duplicar la velocidad de cualquier PC sin actualizar el hardware</a></h4>
-    <a href='https://computerhoy.com/pc/tecnologia-duplica-velocidad-pc-actualizar-hardware-shmt-1371452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/inventan-tecnologia-permite-duplicar-velocidad-cualquier-pc-actualizar-hardware-3285977.jpg?tf=1200x' alt='SHMT, la tecnología que puede duplicar la velocidad de cualquier PC sin actualizar el hardware' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-forerunner-problemas-reloj-amazfit-running-1399782'>Los Garmin Forerunner tienen problemas: este Amazfit Cheetah es más barato y tiene todo lo que necesitas para correr</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-forerunner-problemas-reloj-amazfit-running-1399782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cheetah-amazfit-round-3933147.jpg?tf=1200x' alt='Los Garmin Forerunner tienen problemas: este Amazfit Cheetah es más barato y tiene todo lo que necesitas para correr' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dell-fabricar-solo-ordenadores-servicios-software-1401028'>Dell: de fabricar solo ordenadores a los servicios de software</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dell-fabricar-solo-ordenadores-servicios-software-1401028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dell-3993290.jpg?tf=1200x' alt='Dell: de fabricar solo ordenadores a los servicios de software' />
+    <h4><a href='https://computerhoy.com/motor/vuelo-mas-largo-historia-1401686'>La loca historia del vuelo más largo: más de dos meses sin aterrizar</a></h4>
+    <a href='https://computerhoy.com/motor/vuelo-mas-largo-historia-1401686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/loca-historia-vuelo-largo-dos-meses-aterrizar-4025378.jpg?tf=1200x' alt='La loca historia del vuelo más largo: más de dos meses sin aterrizar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-traera-regreso-tierra-astronautas-starliner-mision-crew-9-spacex-febrero-2025-1401684'>La NASA traerá de regreso a la Tierra a los astronautas de la Starliner en la misión Crew-9 de SpaceX en febrero de 2025</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-traera-regreso-tierra-astronautas-starliner-mision-crew-9-spacex-febrero-2025-1401684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/starliner-boeing-4022495.jpg?tf=1200x' alt='La NASA traerá de regreso a la Tierra a los astronautas de la Starliner en la misión Crew-9 de SpaceX en febrero de 2025' />
+    <h4><a href='https://computerhoy.com/tv/cardsharing-tan-perseguido-laliga-1398703'>¿Qué es el cardsharing y por qué es tan perseguido por LaLiga?</a></h4>
+    <a href='https://computerhoy.com/tv/cardsharing-tan-perseguido-laliga-1398703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1724400466642-4012510.jpg?tf=1200x' alt='¿Qué es el cardsharing y por qué es tan perseguido por LaLiga?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-contar-control-camara-ordenador-1401669'>Windows 11 te permitirá contar con más control sobre la cámara del ordenador</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-te-permitira-contar-control-camara-ordenador-1401669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/webcam-windows-11-4021182.jpg?tf=1200x' alt='Windows 11 te permitirá contar con más control sobre la cámara del ordenador' />
+    <h4><a href='https://computerhoy.com/hogar/producto-me-ha-hecho-darme-cuenta-necesito-purificador-aire-casa-aunque-no-tenga-afecciones-1400079'>Este producto me ha hecho darme cuenta de que necesito un purificador de aire en casa aunque no tenga afecciones</a></h4>
+    <a href='https://computerhoy.com/hogar/producto-me-ha-hecho-darme-cuenta-necesito-purificador-aire-casa-aunque-no-tenga-afecciones-1400079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dyson-purifier-cool-formaldehyde-3984754.jpg?tf=1200x' alt='Este producto me ha hecho darme cuenta de que necesito un purificador de aire en casa aunque no tenga afecciones' />
     </a>
 </div>
 
