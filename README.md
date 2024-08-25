@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-nuevo-modelo-inteligencia-artificial-capaz-detectar-enfermedades-basandose-tos-1401704'>Crean un nuevo modelo de inteligencia artificial capaz de detectar enfermedades basándose en la tos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-nuevo-modelo-inteligencia-artificial-capaz-detectar-enfermedades-basandose-tos-1401704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hombre-tosiendo-4027266.jpg?tf=1200x' alt='Crean un nuevo modelo de inteligencia artificial capaz de detectar enfermedades basándose en la tos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/drivers-faltan-pc-como-instalarlos-1397528'>Qué drivers faltan en tu PC y cómo instalarlos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/drivers-faltan-pc-como-instalarlos-1397528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/drivers-pc-3814609.jpg?tf=1200x' alt='Qué drivers faltan en tu PC y cómo instalarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-internet-segundos-1330292'>Sigue la regla de los 30 centímetros para aumentar la velocidad de tu Internet en segundos</a></h4>
+    <a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-internet-segundos-1330292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regla-30-centimetros-aumentar-velocidad-internet-instante-3290333.jpg?tf=1200x' alt='Sigue la regla de los 30 centímetros para aumentar la velocidad de tu Internet en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/pavel-durov-creador-telegram-detenido-francia-1401703'>Pável Dúrov, creador de Telegram, detenido en Francia</a></h4>
     <a href='https://computerhoy.com/apps/pavel-durov-creador-telegram-detenido-francia-1401703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/portada-pavel-durov-ceo-telegram-3298287.jpg?tf=1200x' alt='Pável Dúrov, creador de Telegram, detenido en Francia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-patenta-tecnologia-prediccion-arrugas-podria-mostrarte-como-envejeceras-futuro-1401682'>Microsoft patenta una tecnología de predicción de arrugas que podría mostrarte cómo envejecerás en el futuro</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-patenta-tecnologia-prediccion-arrugas-podria-mostrarte-como-envejeceras-futuro-1401682' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/envejecimiento-4022205.jpg?tf=1200x' alt='Microsoft patenta una tecnología de predicción de arrugas que podría mostrarte cómo envejecerás en el futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/jamas-devuelvas-llamadas-esos-numeros-trata-estafa-llamada-perdida-1401447'>Jamás devuelvas las llamadas de esos números: se trata de la estafa de la llamada perdida</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/jamas-devuelvas-llamadas-esos-numeros-trata-estafa-llamada-perdida-1401447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/jamas-devuelvas-llamadas-esos-numeros-trata-estafa-llamada-perdida-4011595.jpg?tf=1200x' alt='Jamás devuelvas las llamadas de esos números: se trata de la estafa de la llamada perdida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/comando-magico-windows-10-nuevo-perder-ningun-archivo-1389146'>El comando mágico que deja Windows 10 como el primer día sin perder ningún archivo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/comando-magico-windows-10-nuevo-perder-ningun-archivo-1389146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/comando-magico-deja-windows-10-como-primer-dia-perder-solo-archivo-3419399.jpg?tf=1200x' alt='El comando mágico que deja Windows 10 como el primer día sin perder ningún archivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-actuar-has-contestado-llamada-spam-has-sido-victima-estafa-darte-cuenta-1400870'>Cómo actuar si has contestado a una llamada spam y has sido víctima de una estafa sin darte cuenta</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-actuar-has-contestado-llamada-spam-has-sido-victima-estafa-darte-cuenta-1400870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-actuar-has-contestado-llamada-spam-has-sido-victima-estafa-darte-cuenta-3988557.jpg?tf=1200x' alt='Cómo actuar si has contestado a una llamada spam y has sido víctima de una estafa sin darte cuenta' />
     </a>
 </div>
 
