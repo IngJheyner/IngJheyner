@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-a-por-google-rebaja-aplicaciones-nube-1399848'>Microsoft va a por Google: rebaja sus aplicaciones y regala 1TB en la nube con ellas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-a-por-google-rebaja-aplicaciones-nube-1399848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-365-3308242.jpg?tf=1200x' alt='Microsoft va a por Google: rebaja sus aplicaciones y regala 1TB en la nube con ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/tecnologia-duplica-velocidad-pc-actualizar-hardware-shmt-1371452'>SHMT, la tecnología que puede duplicar la velocidad de cualquier PC sin actualizar el hardware</a></h4>
+    <a href='https://computerhoy.com/pc/tecnologia-duplica-velocidad-pc-actualizar-hardware-shmt-1371452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/inventan-tecnologia-permite-duplicar-velocidad-cualquier-pc-actualizar-hardware-3285977.jpg?tf=1200x' alt='SHMT, la tecnología que puede duplicar la velocidad de cualquier PC sin actualizar el hardware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dell-fabricar-solo-ordenadores-servicios-software-1401028'>Dell: de fabricar solo ordenadores a los servicios de software</a></h4>
     <a href='https://computerhoy.com/tecnologia/dell-fabricar-solo-ordenadores-servicios-software-1401028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dell-3993290.jpg?tf=1200x' alt='Dell: de fabricar solo ordenadores a los servicios de software' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-contar-control-camara-ordenador-1401669'>Windows 11 te permitirá contar con más control sobre la cámara del ordenador</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-te-permitira-contar-control-camara-ordenador-1401669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/webcam-windows-11-4021182.jpg?tf=1200x' alt='Windows 11 te permitirá contar con más control sobre la cámara del ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/grave-error-cometes-cada-dia-encender-apagar-pc-windows-1401254'>Este es el grave error que cometes cada día al encender y apagar tu PC con Windows</a></h4>
-    <a href='https://computerhoy.com/windows/grave-error-cometes-cada-dia-encender-apagar-pc-windows-1401254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/grave-error-cometes-cada-dia-encender-apagar-pc-windows-4004156.jpg?tf=1200x' alt='Este es el grave error que cometes cada día al encender y apagar tu PC con Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/particular-cambio-interfaz-veras-pronto-ver-video-youtube-1401668'>El particular cambio en la interfaz que verás pronto al ver un vídeo en YouTube</a></h4>
-    <a href='https://computerhoy.com/apps/particular-cambio-interfaz-veras-pronto-ver-video-youtube-1401668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ordenador-portatil-logo-youtube-4021181.jpg?tf=1200x' alt='El particular cambio en la interfaz que verás pronto al ver un vídeo en YouTube' />
     </a>
 </div>
 
