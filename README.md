@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/videojuegos-nube-llegan-coches-mercedes-benz-1401716'>Los videojuegos en la nube llegan a los coches Mercedes-Benz</a></h4>
+    <a href='https://computerhoy.com/motor/videojuegos-nube-llegan-coches-mercedes-benz-1401716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/videojuegos-nube-llegan-coches-mercedes-benz-4029176.jpg?tf=1200x' alt='Los videojuegos en la nube llegan a los coches Mercedes-Benz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/mitico-zx-spectrum-vuelve-tiendas-40-anos-despues-1401714'>El mítico ZX Spectrum vuelve a las tiendas, 40 años después</a></h4>
     <a href='https://computerhoy.com/gaming/mitico-zx-spectrum-vuelve-tiendas-40-anos-despues-1401714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/40-anos-despues-mitico-zx-spectrum-vuelve-tiendas-4028734.jpg?tf=1200x' alt='El mítico ZX Spectrum vuelve a las tiendas, 40 años después' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/megalopolis-trailer-creado-ia-1401711'>Así arruina la IA tu trabajo y tu reputación: el gran fiasco de Megalópolis</a></h4>
     <a href='https://computerhoy.com/entretenimiento/megalopolis-trailer-creado-ia-1401711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/arruina-ia-trabajo-reputacion-gran-fiasco-megalopolis-4028294.jpg?tf=1200x' alt='Así arruina la IA tu trabajo y tu reputación: el gran fiasco de Megalópolis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-vendaje-electrico-ayuda-heridas-curen-rapido-1401683'>Crean un vendaje eléctrico que ayuda a que las heridas se curen más rápido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-vendaje-electrico-ayuda-heridas-curen-rapido-1401683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vendaje-4022206.jpg?tf=1200x' alt='Crean un vendaje eléctrico que ayuda a que las heridas se curen más rápido' />
     </a>
 </div>
 
