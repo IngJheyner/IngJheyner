@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-tira-precios-73-barata-plan-incluye-drive-1401114'>NordVPN tira sus precios: hasta un 73% más barata en el plan que incluye Drive</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nordvpn-tira-precios-73-barata-plan-incluye-drive-1401114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nordvpn-vpn-3303558.jpg?tf=1200x' alt='NordVPN tira sus precios: hasta un 73% más barata en el plan que incluye Drive' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-ver-historias-antiguas-instagram-cualquier-usuario-1401286'>Cómo ver las historias antiguas de Instagram de cualquier usuario</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-ver-historias-antiguas-instagram-cualquier-usuario-1401286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-ver-historias-instagram-antiguas-otra-persona-4005435.jpg?tf=1200x' alt='Cómo ver las historias antiguas de Instagram de cualquier usuario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/futuro-coches-positivo-tengan-tanta-tecnologia-36-espanoles-no-aprovecha-maximo-funciones-1400288'>El futuro de los coches: ¿Es positivo que tengan tanta tecnología? Un 36% de los españoles no aprovecha al máximo sus funciones</a></h4>
     <a href='https://computerhoy.com/tecnologia/futuro-coches-positivo-tengan-tanta-tecnologia-36-espanoles-no-aprovecha-maximo-funciones-1400288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coches-futuro-3951326.jpg?tf=1200x' alt='El futuro de los coches: ¿Es positivo que tengan tanta tecnología? Un 36% de los españoles no aprovecha al máximo sus funciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/como-evito-me-desplumen-duplican-acceden-mi-tarjeta-bancaria-1401216'>Así es como evito que me desplumen si duplican o acceden a mi tarjeta bancaria</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/como-evito-me-desplumen-duplican-acceden-mi-tarjeta-bancaria-1401216' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/robo-tarjeta-credito-4013020.jpg?tf=1200x' alt='Así es como evito que me desplumen si duplican o acceden a mi tarjeta bancaria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-forerunner-problemas-reloj-amazfit-running-1399782'>Los Garmin Forerunner tienen problemas: este Amazfit Cheetah es más barato y tiene todo lo que necesitas para correr</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-forerunner-problemas-reloj-amazfit-running-1399782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cheetah-amazfit-round-3933147.jpg?tf=1200x' alt='Los Garmin Forerunner tienen problemas: este Amazfit Cheetah es más barato y tiene todo lo que necesitas para correr' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/vuelo-mas-largo-historia-1401686'>La loca historia del vuelo más largo: más de dos meses sin aterrizar</a></h4>
-    <a href='https://computerhoy.com/motor/vuelo-mas-largo-historia-1401686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/loca-historia-vuelo-largo-dos-meses-aterrizar-4025378.jpg?tf=1200x' alt='La loca historia del vuelo más largo: más de dos meses sin aterrizar' />
     </a>
 </div>
 
