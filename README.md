@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/coche-electrico-como-funciona-grandes-marcas-ayudas-futuro-frente-coche-combustion-1400964'>Coche eléctrico: cómo funciona, grandes marcas, ayudas y su futuro frente al coche de combustión</a></h4>
+    <a href='https://computerhoy.com/motor/coche-electrico-como-funciona-grandes-marcas-ayudas-futuro-frente-coche-combustion-1400964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coche-electrico-futuro-3991760.jpg?tf=1200x' alt='Coche eléctrico: cómo funciona, grandes marcas, ayudas y su futuro frente al coche de combustión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/videojuegos-nube-llegan-coches-mercedes-benz-1401716'>Los videojuegos en la nube llegan a los coches Mercedes-Benz</a></h4>
     <a href='https://computerhoy.com/motor/videojuegos-nube-llegan-coches-mercedes-benz-1401716' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/videojuegos-nube-llegan-coches-mercedes-benz-4029176.jpg?tf=1200x' alt='Los videojuegos en la nube llegan a los coches Mercedes-Benz' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-grupo-whatsapp-guia-paso-paso-1395150'>Cómo eliminar un grupo de WhatsApp: guía paso a paso</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-eliminar-grupo-whatsapp-guia-paso-paso-1395150' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-3704777.jpg?tf=1200x' alt='Cómo eliminar un grupo de WhatsApp: guía paso a paso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/megalopolis-trailer-creado-ia-1401711'>Así arruina la IA tu trabajo y tu reputación: el gran fiasco de Megalópolis</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/megalopolis-trailer-creado-ia-1401711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/arruina-ia-trabajo-reputacion-gran-fiasco-megalopolis-4028294.jpg?tf=1200x' alt='Así arruina la IA tu trabajo y tu reputación: el gran fiasco de Megalópolis' />
     </a>
 </div>
 
