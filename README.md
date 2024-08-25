@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/japones-dedica-recrear-personajes-mario-flores-1401718'>Un japonés se dedica a recrear los personajes de Mario con flores</a></h4>
+    <a href='https://computerhoy.com/life/japones-dedica-recrear-personajes-mario-flores-1401718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/japones-dedica-recrear-personajes-mario-flores-resultado-espectacular-4030196.jpg?tf=1200x' alt='Un japonés se dedica a recrear los personajes de Mario con flores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/algunas-empresas-comienzan-cobrar-extra-usas-productos-segunda-mano-1401717'>Algunas empresas comienzan a cobrar un extra si usas productos de segunda mano</a></h4>
     <a href='https://computerhoy.com/tecnologia/algunas-empresas-comienzan-cobrar-extra-usas-productos-segunda-mano-1401717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/algunas-empresas-comienzan-cobrar-extra-usas-productos-segunda-mano-4029763.jpg?tf=1200x' alt='Algunas empresas comienzan a cobrar un extra si usas productos de segunda mano' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/mitico-zx-spectrum-vuelve-tiendas-40-anos-despues-1401714'>El mítico ZX Spectrum vuelve a las tiendas, 40 años después</a></h4>
     <a href='https://computerhoy.com/gaming/mitico-zx-spectrum-vuelve-tiendas-40-anos-despues-1401714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/40-anos-despues-mitico-zx-spectrum-vuelve-tiendas-4028734.jpg?tf=1200x' alt='El mítico ZX Spectrum vuelve a las tiendas, 40 años después' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-dejado-gmail-me-he-pasado-proton-mail-he-hecho-segundos-perder-ni-correo-1400696'>He dejado Gmail y me he pasado a Proton Mail: lo he hecho en segundos y sin perder ni un correo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-dejado-gmail-me-he-pasado-proton-mail-he-hecho-segundos-perder-ni-correo-1400696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-pass-3941353.jpg?tf=1200x' alt='He dejado Gmail y me he pasado a Proton Mail: lo he hecho en segundos y sin perder ni un correo' />
     </a>
 </div>
 
