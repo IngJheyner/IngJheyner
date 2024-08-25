@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/pavel-durov-creador-telegram-detenido-francia-1401703'>Pável Dúrov, creador de Telegram, detenido en Francia</a></h4>
+    <a href='https://computerhoy.com/apps/pavel-durov-creador-telegram-detenido-francia-1401703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/portada-pavel-durov-ceo-telegram-3298287.jpg?tf=1200x' alt='Pável Dúrov, creador de Telegram, detenido en Francia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-patenta-tecnologia-prediccion-arrugas-podria-mostrarte-como-envejeceras-futuro-1401682'>Microsoft patenta una tecnología de predicción de arrugas que podría mostrarte cómo envejecerás en el futuro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-patenta-tecnologia-prediccion-arrugas-podria-mostrarte-como-envejeceras-futuro-1401682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/envejecimiento-4022205.jpg?tf=1200x' alt='Microsoft patenta una tecnología de predicción de arrugas que podría mostrarte cómo envejecerás en el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/jamas-devuelvas-llamadas-esos-numeros-trata-estafa-llamada-perdida-1401447'>Jamás devuelvas las llamadas de esos números: se trata de la estafa de la llamada perdida</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/jamas-devuelvas-llamadas-esos-numeros-trata-estafa-llamada-perdida-1401447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/jamas-devuelvas-llamadas-esos-numeros-trata-estafa-llamada-perdida-4011595.jpg?tf=1200x' alt='Jamás devuelvas las llamadas de esos números: se trata de la estafa de la llamada perdida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/comando-magico-windows-10-nuevo-perder-ningun-archivo-1389146'>El comando mágico que deja Windows 10 como el primer día sin perder ningún archivo</a></h4>
     <a href='https://computerhoy.com/tutoriales/comando-magico-windows-10-nuevo-perder-ningun-archivo-1389146' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/comando-magico-deja-windows-10-como-primer-dia-perder-solo-archivo-3419399.jpg?tf=1200x' alt='El comando mágico que deja Windows 10 como el primer día sin perder ningún archivo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/como-actuar-has-contestado-llamada-spam-has-sido-victima-estafa-darte-cuenta-1400870'>Cómo actuar si has contestado a una llamada spam y has sido víctima de una estafa sin darte cuenta</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/como-actuar-has-contestado-llamada-spam-has-sido-victima-estafa-darte-cuenta-1400870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-actuar-has-contestado-llamada-spam-has-sido-victima-estafa-darte-cuenta-3988557.jpg?tf=1200x' alt='Cómo actuar si has contestado a una llamada spam y has sido víctima de una estafa sin darte cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-tira-precios-73-barata-plan-incluye-drive-1401114'>NordVPN tira sus precios: hasta un 73% más barata en el plan que incluye Drive</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nordvpn-tira-precios-73-barata-plan-incluye-drive-1401114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nordvpn-vpn-3303558.jpg?tf=1200x' alt='NordVPN tira sus precios: hasta un 73% más barata en el plan que incluye Drive' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-ver-historias-antiguas-instagram-cualquier-usuario-1401286'>Cómo ver las historias antiguas de Instagram de cualquier usuario</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-ver-historias-antiguas-instagram-cualquier-usuario-1401286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-ver-historias-instagram-antiguas-otra-persona-4005435.jpg?tf=1200x' alt='Cómo ver las historias antiguas de Instagram de cualquier usuario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/futuro-coches-positivo-tengan-tanta-tecnologia-36-espanoles-no-aprovecha-maximo-funciones-1400288'>El futuro de los coches: ¿Es positivo que tengan tanta tecnología? Un 36% de los españoles no aprovecha al máximo sus funciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/futuro-coches-positivo-tengan-tanta-tecnologia-36-espanoles-no-aprovecha-maximo-funciones-1400288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coches-futuro-3951326.jpg?tf=1200x' alt='El futuro de los coches: ¿Es positivo que tengan tanta tecnología? Un 36% de los españoles no aprovecha al máximo sus funciones' />
     </a>
 </div>
 
