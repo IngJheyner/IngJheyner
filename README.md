@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/nuevas-mejoras-raton-llegan-ultima-actualizacion-windows-11-1401706'>Las nuevas mejoras para el ratón que llegan con la última actualización de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/nuevas-mejoras-raton-llegan-ultima-actualizacion-windows-11-1401706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/raton-windows-11-4027270.jpg?tf=1200x' alt='Las nuevas mejoras para el ratón que llegan con la última actualización de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/mejores-juegos-gratis-xbox-series-xs-1401182'>Los 20 mejores juegos gratis para Xbox Series X|S</a></h4>
+    <a href='https://computerhoy.com/gaming/mejores-juegos-gratis-xbox-series-xs-1401182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/halo-infinite-steam-3999724.jpg?tf=1200x' alt='Los 20 mejores juegos gratis para Xbox Series X|S' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/crean-nuevo-modelo-inteligencia-artificial-capaz-detectar-enfermedades-basandose-tos-1401704'>Crean un nuevo modelo de inteligencia artificial capaz de detectar enfermedades basándose en la tos</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-nuevo-modelo-inteligencia-artificial-capaz-detectar-enfermedades-basandose-tos-1401704' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hombre-tosiendo-4027266.jpg?tf=1200x' alt='Crean un nuevo modelo de inteligencia artificial capaz de detectar enfermedades basándose en la tos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-internet-segundos-1330292'>Sigue la regla de los 30 centímetros para aumentar la velocidad de tu Internet en segundos</a></h4>
     <a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-internet-segundos-1330292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regla-30-centimetros-aumentar-velocidad-internet-instante-3290333.jpg?tf=1200x' alt='Sigue la regla de los 30 centímetros para aumentar la velocidad de tu Internet en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/pavel-durov-creador-telegram-detenido-francia-1401703'>Pável Dúrov, creador de Telegram, detenido en Francia</a></h4>
-    <a href='https://computerhoy.com/apps/pavel-durov-creador-telegram-detenido-francia-1401703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/portada-pavel-durov-ceo-telegram-3298287.jpg?tf=1200x' alt='Pável Dúrov, creador de Telegram, detenido en Francia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-patenta-tecnologia-prediccion-arrugas-podria-mostrarte-como-envejeceras-futuro-1401682'>Microsoft patenta una tecnología de predicción de arrugas que podría mostrarte cómo envejecerás en el futuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-patenta-tecnologia-prediccion-arrugas-podria-mostrarte-como-envejeceras-futuro-1401682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/envejecimiento-4022205.jpg?tf=1200x' alt='Microsoft patenta una tecnología de predicción de arrugas que podría mostrarte cómo envejecerás en el futuro' />
     </a>
 </div>
 
