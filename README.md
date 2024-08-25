@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/comando-magico-windows-10-nuevo-perder-ningun-archivo-1389146'>El comando mágico que deja Windows 10 como el primer día sin perder ningún archivo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/comando-magico-windows-10-nuevo-perder-ningun-archivo-1389146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/comando-magico-deja-windows-10-como-primer-dia-perder-solo-archivo-3419399.jpg?tf=1200x' alt='El comando mágico que deja Windows 10 como el primer día sin perder ningún archivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-actuar-has-contestado-llamada-spam-has-sido-victima-estafa-darte-cuenta-1400870'>Cómo actuar si has contestado a una llamada spam y has sido víctima de una estafa sin darte cuenta</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-actuar-has-contestado-llamada-spam-has-sido-victima-estafa-darte-cuenta-1400870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-actuar-has-contestado-llamada-spam-has-sido-victima-estafa-darte-cuenta-3988557.jpg?tf=1200x' alt='Cómo actuar si has contestado a una llamada spam y has sido víctima de una estafa sin darte cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nordvpn-tira-precios-73-barata-plan-incluye-drive-1401114'>NordVPN tira sus precios: hasta un 73% más barata en el plan que incluye Drive</a></h4>
     <a href='https://computerhoy.com/tecnologia/nordvpn-tira-precios-73-barata-plan-incluye-drive-1401114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nordvpn-vpn-3303558.jpg?tf=1200x' alt='NordVPN tira sus precios: hasta un 73% más barata en el plan que incluye Drive' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/futuro-coches-positivo-tengan-tanta-tecnologia-36-espanoles-no-aprovecha-maximo-funciones-1400288'>El futuro de los coches: ¿Es positivo que tengan tanta tecnología? Un 36% de los españoles no aprovecha al máximo sus funciones</a></h4>
     <a href='https://computerhoy.com/tecnologia/futuro-coches-positivo-tengan-tanta-tecnologia-36-espanoles-no-aprovecha-maximo-funciones-1400288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coches-futuro-3951326.jpg?tf=1200x' alt='El futuro de los coches: ¿Es positivo que tengan tanta tecnología? Un 36% de los españoles no aprovecha al máximo sus funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-google-como-rey-busquedas-inteligencia-artificial-quiere-arrasar-todo-1401217'>¿Adiós a Google como rey de las búsquedas?: la inteligencia artificial quiere arrasar con todo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-google-como-rey-busquedas-inteligencia-artificial-quiere-arrasar-todo-1401217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-ia-4000336.jpg?tf=1200x' alt='¿Adiós a Google como rey de las búsquedas?: la inteligencia artificial quiere arrasar con todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-evito-me-desplumen-duplican-acceden-mi-tarjeta-bancaria-1401216'>Así es como evito que me desplumen si duplican o acceden a mi tarjeta bancaria</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-evito-me-desplumen-duplican-acceden-mi-tarjeta-bancaria-1401216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/robo-tarjeta-credito-4013020.jpg?tf=1200x' alt='Así es como evito que me desplumen si duplican o acceden a mi tarjeta bancaria' />
     </a>
 </div>
 
