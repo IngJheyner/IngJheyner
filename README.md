@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-grupo-whatsapp-guia-paso-paso-1395150'>Cómo eliminar un grupo de WhatsApp: guía paso a paso</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-eliminar-grupo-whatsapp-guia-paso-paso-1395150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-3704777.jpg?tf=1200x' alt='Cómo eliminar un grupo de WhatsApp: guía paso a paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/megalopolis-trailer-creado-ia-1401711'>Así arruina la IA tu trabajo y tu reputación: el gran fiasco de Megalópolis</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/megalopolis-trailer-creado-ia-1401711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/arruina-ia-trabajo-reputacion-gran-fiasco-megalopolis-4028294.jpg?tf=1200x' alt='Así arruina la IA tu trabajo y tu reputación: el gran fiasco de Megalópolis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/crean-vendaje-electrico-ayuda-heridas-curen-rapido-1401683'>Crean un vendaje eléctrico que ayuda a que las heridas se curen más rápido</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-vendaje-electrico-ayuda-heridas-curen-rapido-1401683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vendaje-4022206.jpg?tf=1200x' alt='Crean un vendaje eléctrico que ayuda a que las heridas se curen más rápido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/mejores-juegos-gratis-xbox-series-xs-1401182'>Los 20 mejores juegos gratis para Xbox Series X|S</a></h4>
     <a href='https://computerhoy.com/gaming/mejores-juegos-gratis-xbox-series-xs-1401182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/halo-infinite-steam-3999724.jpg?tf=1200x' alt='Los 20 mejores juegos gratis para Xbox Series X|S' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-nuevo-modelo-inteligencia-artificial-capaz-detectar-enfermedades-basandose-tos-1401704'>Crean un nuevo modelo de inteligencia artificial capaz de detectar enfermedades basándose en la tos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-nuevo-modelo-inteligencia-artificial-capaz-detectar-enfermedades-basandose-tos-1401704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hombre-tosiendo-4027266.jpg?tf=1200x' alt='Crean un nuevo modelo de inteligencia artificial capaz de detectar enfermedades basándose en la tos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/drivers-faltan-pc-como-instalarlos-1397528'>Qué drivers faltan en tu PC y cómo instalarlos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/drivers-faltan-pc-como-instalarlos-1397528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/drivers-pc-3814609.jpg?tf=1200x' alt='Qué drivers faltan en tu PC y cómo instalarlos' />
     </a>
 </div>
 
