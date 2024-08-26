@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-estaria-desarrollando-anillo-inteligente-capacidad-rastrear-actividad-controlar-otros-dispositivos-1400107'>Apple estaría desarrollando un anillo inteligente con capacidad para rastrear la actividad y controlar otros dispositivos</a></h4>
+    <a href='https://computerhoy.com/apple/apple-estaria-desarrollando-anillo-inteligente-capacidad-rastrear-actividad-controlar-otros-dispositivos-1400107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-estaria-desarrollando-anillo-inteligente-capacidad-rastrear-actividad-controlar-otros-dispositivos-3943671.jpg?tf=1200x' alt='Apple estaría desarrollando un anillo inteligente con capacidad para rastrear la actividad y controlar otros dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/boox-go-6-apuesta-todo-pantalla-ultima-generacion-tinta-electronica-1401508'>El Boox Go 6 lo apuesta todo a su pantalla de última generación de tinta electrónica</a></h4>
     <a href='https://computerhoy.com/tecnologia/boox-go-6-apuesta-todo-pantalla-ultima-generacion-tinta-electronica-1401508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/boox-go-6-ebook-libro-electronico-4013017.jpg?tf=1200x' alt='El Boox Go 6 lo apuesta todo a su pantalla de última generación de tinta electrónica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/coche-electrico-como-funciona-grandes-marcas-ayudas-futuro-frente-coche-combustion-1400964'>Coche eléctrico: cómo funciona, grandes marcas, ayudas y su futuro frente al coche de combustión</a></h4>
     <a href='https://computerhoy.com/motor/coche-electrico-como-funciona-grandes-marcas-ayudas-futuro-frente-coche-combustion-1400964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coche-electrico-futuro-3991760.jpg?tf=1200x' alt='Coche eléctrico: cómo funciona, grandes marcas, ayudas y su futuro frente al coche de combustión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/videojuegos-nube-llegan-coches-mercedes-benz-1401716'>Los videojuegos en la nube llegan a los coches Mercedes-Benz</a></h4>
-    <a href='https://computerhoy.com/motor/videojuegos-nube-llegan-coches-mercedes-benz-1401716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/videojuegos-nube-llegan-coches-mercedes-benz-4029176.jpg?tf=1200x' alt='Los videojuegos en la nube llegan a los coches Mercedes-Benz' />
     </a>
 </div>
 
