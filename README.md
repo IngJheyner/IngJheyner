@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/deberias-utilizar-siempre-direccion-ip-estatica-red-casa-1401252'>¿Por qué deberías utilizar siempre una dirección IP estática en tu red de casa?</a></h4>
+    <a href='https://computerhoy.com/redes/deberias-utilizar-siempre-direccion-ip-estatica-red-casa-1401252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/deberias-utilizar-siempre-direccion-ip-estatica-red-casa-4003266.jpg?tf=1200x' alt='¿Por qué deberías utilizar siempre una dirección IP estática en tu red de casa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/bombillas-led-parpadean-como-solucionarlo-1401905'>¿Por qué las bombillas LED parpadean y cómo solucionarlo?</a></h4>
+    <a href='https://computerhoy.com/hogar/bombillas-led-parpadean-como-solucionarlo-1401905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bombillas-led-parpadean-como-solucionarlo-4036743.jpg?tf=1200x' alt='¿Por qué las bombillas LED parpadean y cómo solucionarlo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/apagar-dispositivo-mejora-senal-router-wifi-maxima-potencia-1394942'>Solo con apagar este dispositivo de tu casa, la señal de tu router WiFi tendrá la máxima potencia</a></h4>
+    <a href='https://computerhoy.com/hogar/apagar-dispositivo-mejora-senal-router-wifi-maxima-potencia-1394942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/super-router-wifi-4033970.jpg?tf=1200x' alt='Solo con apagar este dispositivo de tu casa, la señal de tu router WiFi tendrá la máxima potencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-ciudadano-kane-ni-cadena-perpetua-mejor-pelicula-historia-ya-puede-ver-streaming-1401624'>Ni Ciudadano Kane ni Cadena Perpetua, la mejor película de la historia ya se puede ver en streaming</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-ciudadano-kane-ni-cadena-perpetua-mejor-pelicula-historia-ya-puede-ver-streaming-1401624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-ciudadano-kane-ni-cadena-perpetua-mejor-pelicula-historia-ya-puede-ver-plataformas-4015518.jpg?tf=1200x' alt='Ni Ciudadano Kane ni Cadena Perpetua, la mejor película de la historia ya se puede ver en streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/consejo-truco-electricistas-calidad-cable-electrico-1394218'>El truco de los electricistas para saber al instante si un cable eléctrico es de buena o mala calidad</a></h4>
     <a href='https://computerhoy.com/hogar/consejo-truco-electricistas-calidad-cable-electrico-1394218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/truco-electricistas-saber-cable-electrico-buena-mala-calidad-3660453.jpg?tf=1200x' alt='El truco de los electricistas para saber al instante si un cable eléctrico es de buena o mala calidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/movil-digi-no-conecta-todavia-redes-5g-como-solucionarlo-1401889'>Por qué tu móvil de DIGI no se conecta todavía a las redes 5G y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/redes/movil-digi-no-conecta-todavia-redes-5g-como-solucionarlo-1401889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/movil-digi-no-conecta-todavia-redes-5g-como-solucionarlo-4036141.jpg?tf=1200x' alt='Por qué tu móvil de DIGI no se conecta todavía a las redes 5G y cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gran-diferencia-google-maps-waze-casi-nadie-conoce-marca-diferencia-favor-ellas-1401848'>La gran diferencia entre Google Maps y Waze que casi nadie conoce y que marca la diferencia a favor de una de ellas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gran-diferencia-google-maps-waze-casi-nadie-conoce-marca-diferencia-favor-ellas-1401848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-google-maps-4034629.jpg?tf=1200x' alt='La gran diferencia entre Google Maps y Waze que casi nadie conoce y que marca la diferencia a favor de una de ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/keynote-apple-iphone-16-apple-intelligence-fecha-1401907'>La keynote de Apple en donde presentará los iPhone 16 con IA ya tiene fecha</a></h4>
-    <a href='https://computerhoy.com/apple/keynote-apple-iphone-16-apple-intelligence-fecha-1401907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/keynote-apple-donde-presentara-iphone-16-ya-tiene-fecha-4036139.jpg?tf=1200x' alt='La keynote de Apple en donde presentará los iPhone 16 con IA ya tiene fecha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-apellidos-1391580'>El Google Maps para conocer el origen de tu apellido y con cuántas personas lo compartes en el mundo</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-apellidos-1391580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-maps-apellidos-4033800.jpg?tf=1200x' alt='El Google Maps para conocer el origen de tu apellido y con cuántas personas lo compartes en el mundo' />
     </a>
 </div>
 
