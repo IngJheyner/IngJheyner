@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/trucos-recuperar-almacenamiento-gmail-gratis-sin-borrar-1398052'>¿Bandeja de Gmail llena? Cómo recuperar gratis los 15 GB de almacenamiento sin pagar ni borrar mensajes</a></h4>
+    <a href='https://computerhoy.com/tutoriales/trucos-recuperar-almacenamiento-gmail-gratis-sin-borrar-1398052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bandeja-gmail-llena-como-recuperar-15-gb-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-3842749.jpg?tf=1200x' alt='¿Bandeja de Gmail llena? Cómo recuperar gratis los 15 GB de almacenamiento sin pagar ni borrar mensajes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-sonido-entrada-salida-usb-windows-10-1401626'>Cómo cambiar el sonido de entrada y salida de un USB en Windows 10</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-sonido-entrada-salida-usb-windows-10-1401626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/usar-usb-ordenador-4015519.jpg?tf=1200x' alt='Cómo cambiar el sonido de entrada y salida de un USB en Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/google-maps-guerra-1127515'>¿Ha sido tu pueblo un campo de batalla en el pasado? Descúbrelo con el Google Maps de la guerra</a></h4>
     <a href='https://computerhoy.com/internet/google-maps-guerra-1127515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mapa-te-muestra-revueltas-batallas-guerras-ha-habido-historicamente-barrio-2818487.jpg?tf=1200x' alt='¿Ha sido tu pueblo un campo de batalla en el pasado? Descúbrelo con el Google Maps de la guerra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/lifi-tecnologia-podria-sustituir-wifi-100-veces-rapida-segura-eficiente-1401812'>Así es LiFi, la tecnología que podría sustituir al WiFi: 100 veces más rápida, segura y eficiente </a></h4>
     <a href='https://computerhoy.com/internet/lifi-tecnologia-podria-sustituir-wifi-100-veces-rapida-segura-eficiente-1401812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/conectividad-lifi-4033817.jpg?tf=1200x' alt='Así es LiFi, la tecnología que podría sustituir al WiFi: 100 veces más rápida, segura y eficiente ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/modo-avion-desactiva-ubicacion-movil-1401759'>¿El modo avión desactiva la ubicación del móvil?</a></h4>
-    <a href='https://computerhoy.com/moviles/modo-avion-desactiva-ubicacion-movil-1401759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modo-avion-movil-4033980.jpg?tf=1200x' alt='¿El modo avión desactiva la ubicación del móvil?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/alerta-seguridad-google-corrige-37-vulnerabilidades-actualiza-chrome-ahora-mismo-1401793'>Alerta de seguridad, Google corrige 37 vulnerabilidades: actualiza Chrome ahora mismo</a></h4>
-    <a href='https://computerhoy.com/google/alerta-seguridad-google-corrige-37-vulnerabilidades-actualiza-chrome-ahora-mismo-1401793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-chrome-vulnerabilidades-4033803.jpg?tf=1200x' alt='Alerta de seguridad, Google corrige 37 vulnerabilidades: actualiza Chrome ahora mismo' />
     </a>
 </div>
 
