@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/suunto-deja-ko-garmin-rebaja-reloj-runners-da-sorpresa-baja-100-euros-1401745'>Suunto deja KO a Garmin con esta rebaja: su reloj para runners da la sorpresa y baja más de 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/suunto-deja-ko-garmin-rebaja-reloj-runners-da-sorpresa-baja-100-euros-1401745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/suunto-race-4032821.jpg?tf=1200x' alt='Suunto deja KO a Garmin con esta rebaja: su reloj para runners da la sorpresa y baja más de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-acaba-truco-comando-permitia-no-tener-cambiar-windows-10-windows-11-1401559'>Microsoft acaba con el truco del comando que permitía no tener que cambiar de Windows 10 a Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-acaba-truco-comando-permitia-no-tener-cambiar-windows-10-windows-11-1401559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-acaba-truco-comando-permitia-no-tener-cambiar-windows-10-windows-11-4013646.jpg?tf=1200x' alt='Microsoft acaba con el truco del comando que permitía no tener que cambiar de Windows 10 a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/golpe-cibercrimen-nigeria-elimina-63000-cuentas-falsas-hacian-sextorsion-1401751'>Golpe al cibercrimen: Nigeria elimina 63.000 cuentas falsas que hacían sextorsión </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/golpe-cibercrimen-nigeria-elimina-63000-cuentas-falsas-hacian-sextorsion-1401751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/extorsion-ciberseguridad-3259295.jpg?tf=1200x' alt='Golpe al cibercrimen: Nigeria elimina 63.000 cuentas falsas que hacían sextorsión ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/boton-secretos-reducir-factura-luz-1401656'>El botón de la lavadora que reduce la factura de luz más de la mitad dejando la ropa igual de limpia</a></h4>
+    <a href='https://computerhoy.com/hogar/boton-secretos-reducir-factura-luz-1401656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/poner-lavadora-4020304.jpg?tf=1200x' alt='El botón de la lavadora que reduce la factura de luz más de la mitad dejando la ropa igual de limpia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/habitos-muy-sencillos-mantener-bateria-portatil-buen-estado-durante-mucho-tiempo-1401412'>Hábitos muy sencillos para mantener la batería de portátil en buen estado durante mucho tiempo</a></h4>
     <a href='https://computerhoy.com/tecnologia/habitos-muy-sencillos-mantener-bateria-portatil-buen-estado-durante-mucho-tiempo-1401412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/portatil-bateria-4008260.jpg?tf=1200x' alt='Hábitos muy sencillos para mantener la batería de portátil en buen estado durante mucho tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dropbox-drive-alternativa-disco-duro-20tb-1352988'>Ni Dropbox ni Drive: este disco duro de 20TB pone a salvo todos tus archivos y solo lo pagas una vez</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dropbox-drive-alternativa-disco-duro-20tb-1352988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wd-elements-3254498.jpg?tf=1200x' alt='Ni Dropbox ni Drive: este disco duro de 20TB pone a salvo todos tus archivos y solo lo pagas una vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/asus-proart-px13-pequeno-pero-maton-probar-procesador-ia-ha-convertido-mi-favorito-editar-1401035'>El Asus ProArt PX13 es pequeño, pero matón: tras probar su procesador con IA, se ha convertido en mi favorito para editar</a></h4>
-    <a href='https://computerhoy.com/analisis/asus-proart-px13-pequeno-pero-maton-probar-procesador-ia-ha-convertido-mi-favorito-editar-1401035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/asus-proart-px13-4006456.jpg?tf=1200x' alt='El Asus ProArt PX13 es pequeño, pero matón: tras probar su procesador con IA, se ha convertido en mi favorito para editar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/gran-hito-espacial-nasa-capta-video-enviado-31-millones-kilometros-distancia-tierra-1401519'>Gran hito espacial: la NASA capta un video enviado desde 31 millones de kilómetros de distancia de la Tierra</a></h4>
-    <a href='https://computerhoy.com/ciencia/gran-hito-espacial-nasa-capta-video-enviado-31-millones-kilometros-distancia-tierra-1401519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/miembros-equipo-dsoc-reaccionan-primer-video-alta-definicion-transmitido-laser-espacio-profundo-4013031.jpg?tf=1200x' alt='Gran hito espacial: la NASA capta un video enviado desde 31 millones de kilómetros de distancia de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/razon-universo-no-deberia-existir-estudio-tendria-haberse-devorado-mismo-1400802'>Esta es la razón por la que el universo no debería existir, según un estudio: “Tendría que haberse devorado a sí mismo”</a></h4>
-    <a href='https://computerhoy.com/ciencia/razon-universo-no-deberia-existir-estudio-tendria-haberse-devorado-mismo-1400802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/razon-universo-no-deberia-existir-estudio-tendria-haberse-devorado-mismo-3985142.jpg?tf=1200x' alt='Esta es la razón por la que el universo no debería existir, según un estudio: “Tendría que haberse devorado a sí mismo”' />
     </a>
 </div>
 
