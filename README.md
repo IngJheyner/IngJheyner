@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/habitos-muy-sencillos-mantener-bateria-portatil-buen-estado-durante-mucho-tiempo-1401412'>Hábitos muy sencillos para mantener la batería de portátil en buen estado durante mucho tiempo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/habitos-muy-sencillos-mantener-bateria-portatil-buen-estado-durante-mucho-tiempo-1401412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/portatil-bateria-4008260.jpg?tf=1200x' alt='Hábitos muy sencillos para mantener la batería de portátil en buen estado durante mucho tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dropbox-drive-alternativa-disco-duro-20tb-1352988'>Ni Dropbox ni Drive: este disco duro de 20TB pone a salvo todos tus archivos y solo lo pagas una vez</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dropbox-drive-alternativa-disco-duro-20tb-1352988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wd-elements-3254498.jpg?tf=1200x' alt='Ni Dropbox ni Drive: este disco duro de 20TB pone a salvo todos tus archivos y solo lo pagas una vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/asus-proart-px13-pequeno-pero-maton-probar-procesador-ia-ha-convertido-mi-favorito-editar-1401035'>El Asus ProArt PX13 es pequeño, pero matón: tras probar su procesador con IA, se ha convertido en mi favorito para editar</a></h4>
+    <a href='https://computerhoy.com/analisis/asus-proart-px13-pequeno-pero-maton-probar-procesador-ia-ha-convertido-mi-favorito-editar-1401035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/asus-proart-px13-4006456.jpg?tf=1200x' alt='El Asus ProArt PX13 es pequeño, pero matón: tras probar su procesador con IA, se ha convertido en mi favorito para editar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/gran-hito-espacial-nasa-capta-video-enviado-31-millones-kilometros-distancia-tierra-1401519'>Gran hito espacial: la NASA capta un video enviado desde 31 millones de kilómetros de distancia de la Tierra</a></h4>
     <a href='https://computerhoy.com/ciencia/gran-hito-espacial-nasa-capta-video-enviado-31-millones-kilometros-distancia-tierra-1401519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/miembros-equipo-dsoc-reaccionan-primer-video-alta-definicion-transmitido-laser-espacio-profundo-4013031.jpg?tf=1200x' alt='Gran hito espacial: la NASA capta un video enviado desde 31 millones de kilómetros de distancia de la Tierra' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/razon-universo-no-deberia-existir-estudio-tendria-haberse-devorado-mismo-1400802'>Esta es la razón por la que el universo no debería existir, según un estudio: “Tendría que haberse devorado a sí mismo”</a></h4>
     <a href='https://computerhoy.com/ciencia/razon-universo-no-deberia-existir-estudio-tendria-haberse-devorado-mismo-1400802' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/razon-universo-no-deberia-existir-estudio-tendria-haberse-devorado-mismo-3985142.jpg?tf=1200x' alt='Esta es la razón por la que el universo no debería existir, según un estudio: “Tendría que haberse devorado a sí mismo”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-ciberseguridad-1269702'>La regla de los 5 minutos para proteger tu móvil que recomiendan expertos en ciberseguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-ciberseguridad-1269702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/regla-5-minutos-proteger-movil-3310619.jpg?tf=1200x' alt='La regla de los 5 minutos para proteger tu móvil que recomiendan expertos en ciberseguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-realme-carga-ultrarrapida-rebaja-1398097'>Carga en lo que tardas en ducharte y es un gama alta barato: realme la lía con su nuevo GT 6</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-realme-carga-ultrarrapida-rebaja-1398097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realme-gt-6-realme-gt6-3845311.jpg?tf=1200x' alt='Carga en lo que tardas en ducharte y es un gama alta barato: realme la lía con su nuevo GT 6' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-estaria-desarrollando-anillo-inteligente-capacidad-rastrear-actividad-controlar-otros-dispositivos-1400107'>Apple estaría desarrollando un anillo inteligente con capacidad para rastrear la actividad y controlar otros dispositivos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-estaria-desarrollando-anillo-inteligente-capacidad-rastrear-actividad-controlar-otros-dispositivos-1400107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-estaria-desarrollando-anillo-inteligente-capacidad-rastrear-actividad-controlar-otros-dispositivos-3943671.jpg?tf=1200x' alt='Apple estaría desarrollando un anillo inteligente con capacidad para rastrear la actividad y controlar otros dispositivos' />
     </a>
 </div>
 
