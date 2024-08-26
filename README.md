@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/gran-hito-espacial-nasa-capta-video-enviado-31-millones-kilometros-distancia-tierra-1401519'>Gran hito espacial: la NASA capta un video enviado desde 31 millones de kilómetros de distancia de la Tierra</a></h4>
+    <a href='https://computerhoy.com/ciencia/gran-hito-espacial-nasa-capta-video-enviado-31-millones-kilometros-distancia-tierra-1401519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/miembros-equipo-dsoc-reaccionan-primer-video-alta-definicion-transmitido-laser-espacio-profundo-4013031.jpg?tf=1200x' alt='Gran hito espacial: la NASA capta un video enviado desde 31 millones de kilómetros de distancia de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/razon-universo-no-deberia-existir-estudio-tendria-haberse-devorado-mismo-1400802'>Esta es la razón por la que el universo no debería existir, según un estudio: “Tendría que haberse devorado a sí mismo”</a></h4>
+    <a href='https://computerhoy.com/ciencia/razon-universo-no-deberia-existir-estudio-tendria-haberse-devorado-mismo-1400802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/razon-universo-no-deberia-existir-estudio-tendria-haberse-devorado-mismo-3985142.jpg?tf=1200x' alt='Esta es la razón por la que el universo no debería existir, según un estudio: “Tendría que haberse devorado a sí mismo”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-ciberseguridad-1269702'>La regla de los 5 minutos para proteger tu móvil que recomiendan expertos en ciberseguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-ciberseguridad-1269702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/regla-5-minutos-proteger-movil-3310619.jpg?tf=1200x' alt='La regla de los 5 minutos para proteger tu móvil que recomiendan expertos en ciberseguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-realme-carga-ultrarrapida-rebaja-1398097'>Carga en lo que tardas en ducharte y es un gama alta barato: realme la lía con su nuevo GT 6</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-realme-carga-ultrarrapida-rebaja-1398097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/realme-gt-6-realme-gt6-3845311.jpg?tf=1200x' alt='Carga en lo que tardas en ducharte y es un gama alta barato: realme la lía con su nuevo GT 6' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-estaria-desarrollando-anillo-inteligente-capacidad-rastrear-actividad-controlar-otros-dispositivos-1400107'>Apple estaría desarrollando un anillo inteligente con capacidad para rastrear la actividad y controlar otros dispositivos</a></h4>
     <a href='https://computerhoy.com/apple/apple-estaria-desarrollando-anillo-inteligente-capacidad-rastrear-actividad-controlar-otros-dispositivos-1400107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-estaria-desarrollando-anillo-inteligente-capacidad-rastrear-actividad-controlar-otros-dispositivos-3943671.jpg?tf=1200x' alt='Apple estaría desarrollando un anillo inteligente con capacidad para rastrear la actividad y controlar otros dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/boox-go-6-apuesta-todo-pantalla-ultima-generacion-tinta-electronica-1401508'>El Boox Go 6 lo apuesta todo a su pantalla de última generación de tinta electrónica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/boox-go-6-apuesta-todo-pantalla-ultima-generacion-tinta-electronica-1401508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/boox-go-6-ebook-libro-electronico-4013017.jpg?tf=1200x' alt='El Boox Go 6 lo apuesta todo a su pantalla de última generación de tinta electrónica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/japones-dedica-recrear-personajes-mario-flores-1401718'>Un japonés se dedica a recrear los personajes de Mario con flores</a></h4>
-    <a href='https://computerhoy.com/life/japones-dedica-recrear-personajes-mario-flores-1401718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/japones-dedica-recrear-personajes-mario-flores-resultado-espectacular-4030196.jpg?tf=1200x' alt='Un japonés se dedica a recrear los personajes de Mario con flores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/algunas-empresas-comienzan-cobrar-extra-usas-productos-segunda-mano-1401717'>Algunas empresas comienzan a cobrar un extra si usas productos de segunda mano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/algunas-empresas-comienzan-cobrar-extra-usas-productos-segunda-mano-1401717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/algunas-empresas-comienzan-cobrar-extra-usas-productos-segunda-mano-4029763.jpg?tf=1200x' alt='Algunas empresas comienzan a cobrar un extra si usas productos de segunda mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coche-electrico-como-funciona-grandes-marcas-ayudas-futuro-frente-coche-combustion-1400964'>Coche eléctrico: cómo funciona, grandes marcas, ayudas y su futuro frente al coche de combustión</a></h4>
-    <a href='https://computerhoy.com/motor/coche-electrico-como-funciona-grandes-marcas-ayudas-futuro-frente-coche-combustion-1400964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coche-electrico-futuro-3991760.jpg?tf=1200x' alt='Coche eléctrico: cómo funciona, grandes marcas, ayudas y su futuro frente al coche de combustión' />
     </a>
 </div>
 
