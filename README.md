@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/futbol-gratis-iptv-telegram-arrasan-audiencia-como-protesta-altos-precios-operadores-1401916'>El fútbol gratis por IPTV y Telegram arrasan en audiencia como protesta ante los altos precios de los operadores</a></h4>
+    <a href='https://computerhoy.com/internet/futbol-gratis-iptv-telegram-arrasan-audiencia-como-protesta-altos-precios-operadores-1401916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/futbol-gratis-iptv-telegram-arrasan-audiencia-como-protesta-altos-precios-operadores-4037804.jpg?tf=1200x' alt='El fútbol gratis por IPTV y Telegram arrasan en audiencia como protesta ante los altos precios de los operadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/ikea-preowned-venta-muebles-ikea-segunda-mano-1401924'>Ikea Preowned se estrena para que vendas tus muebles Ikea de segunda mano</a></h4>
     <a href='https://computerhoy.com/hogar/ikea-preowned-venta-muebles-ikea-segunda-mano-1401924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ikea-preowned-estrena-vendas-muebles-ikea-segunda-mano-4037207.jpg?tf=1200x' alt='Ikea Preowned se estrena para que vendas tus muebles Ikea de segunda mano' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/solucion-problema-google-maps-tuneles-1357358'>Los túneles dejarán de ser un problema en Google Maps si activas esta opción en los ajustes </a></h4>
     <a href='https://computerhoy.com/google/solucion-problema-google-maps-tuneles-1357358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nueva-opcion-oculta-google-maps-ya-no-te-perderas-nunca-tuneles-3262109.jpg?tf=1200x' alt='Los túneles dejarán de ser un problema en Google Maps si activas esta opción en los ajustes ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ciencia-fin-consigue-dar-explicacion-personas-son-diestras-zurdas-1401922'>La ciencia por fin consigue dar una explicación a por qué las personas son diestras o zurdas</a></h4>
-    <a href='https://computerhoy.com/life/ciencia-fin-consigue-dar-explicacion-personas-son-diestras-zurdas-1401922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/artista-usando-mano-izquierda-4037055.jpg?tf=1200x' alt='La ciencia por fin consigue dar una explicación a por qué las personas son diestras o zurdas' />
     </a>
 </div>
 
