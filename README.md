@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/consejo-truco-electricistas-calidad-cable-electrico-1394218'>El truco de los electricistas para saber al instante si un cable eléctrico es de buena o mala calidad</a></h4>
+    <a href='https://computerhoy.com/hogar/consejo-truco-electricistas-calidad-cable-electrico-1394218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/truco-electricistas-saber-cable-electrico-buena-mala-calidad-3660453.jpg?tf=1200x' alt='El truco de los electricistas para saber al instante si un cable eléctrico es de buena o mala calidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/movil-digi-no-conecta-todavia-redes-5g-como-solucionarlo-1401889'>Por qué tu móvil de DIGI no se conecta todavía a las redes 5G y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/redes/movil-digi-no-conecta-todavia-redes-5g-como-solucionarlo-1401889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/movil-digi-no-conecta-todavia-redes-5g-como-solucionarlo-4036141.jpg?tf=1200x' alt='Por qué tu móvil de DIGI no se conecta todavía a las redes 5G y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gran-diferencia-google-maps-waze-casi-nadie-conoce-marca-diferencia-favor-ellas-1401848'>La gran diferencia entre Google Maps y Waze que casi nadie conoce y que marca la diferencia a favor de una de ellas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gran-diferencia-google-maps-waze-casi-nadie-conoce-marca-diferencia-favor-ellas-1401848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-google-maps-4034629.jpg?tf=1200x' alt='La gran diferencia entre Google Maps y Waze que casi nadie conoce y que marca la diferencia a favor de una de ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/keynote-apple-iphone-16-apple-intelligence-fecha-1401907'>La keynote de Apple en donde presentará los iPhone 16 con IA ya tiene fecha</a></h4>
     <a href='https://computerhoy.com/apple/keynote-apple-iphone-16-apple-intelligence-fecha-1401907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/keynote-apple-donde-presentara-iphone-16-ya-tiene-fecha-4036139.jpg?tf=1200x' alt='La keynote de Apple en donde presentará los iPhone 16 con IA ya tiene fecha' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-maps-apellidos-1391580'>El Google Maps para conocer el origen de tu apellido y con cuántas personas lo compartes en el mundo</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-apellidos-1391580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-maps-apellidos-4033800.jpg?tf=1200x' alt='El Google Maps para conocer el origen de tu apellido y con cuántas personas lo compartes en el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mejores-esim-tener-datos-viajar-japon-1401863'>Mejores eSIM para tener datos al viajar a Japón</a></h4>
-    <a href='https://computerhoy.com/moviles/mejores-esim-tener-datos-viajar-japon-1401863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bandera-jap-4034800.jpg?tf=1200x' alt='Mejores eSIM para tener datos al viajar a Japón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-desarrolladores-windows-1401719'>Cómo activar el Modo para Desarrolladores de Windows y todo lo que puedes hacer con él</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-modo-desarrolladores-windows-1401719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/desarrollador-web-4030486.jpg?tf=1200x' alt='Cómo activar el Modo para Desarrolladores de Windows y todo lo que puedes hacer con él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/sony-wf-c510-analisis-opiniones-1401738'>He probado los Sony WF-C510: siguen teniendo un nombre difícil de recordar, pero por este precio suenan de escándalo</a></h4>
-    <a href='https://computerhoy.com/analisis/sony-wf-c510-analisis-opiniones-1401738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sony-wf-c510-analisis-opiniones-4035488.jpg?tf=1200x' alt='He probado los Sony WF-C510: siguen teniendo un nombre difícil de recordar, pero por este precio suenan de escándalo' />
     </a>
 </div>
 
