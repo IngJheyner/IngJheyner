@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/google-maps-guerra-1127515'>¿Ha sido tu pueblo un campo de batalla en el pasado? Descúbrelo con el Google Maps de la guerra</a></h4>
+    <a href='https://computerhoy.com/internet/google-maps-guerra-1127515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mapa-te-muestra-revueltas-batallas-guerras-ha-habido-historicamente-barrio-2818487.jpg?tf=1200x' alt='¿Ha sido tu pueblo un campo de batalla en el pasado? Descúbrelo con el Google Maps de la guerra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/trucos-evitar-apple-watch-muera-antes-previsto-1401389'>Trucos para evitar que tu Apple Watch muera antes de lo previsto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trucos-evitar-apple-watch-muera-antes-previsto-1401389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-watch-4007940.jpg?tf=1200x' alt='Trucos para evitar que tu Apple Watch muera antes de lo previsto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/lifi-tecnologia-podria-sustituir-wifi-100-veces-rapida-segura-eficiente-1401812'>Así es LiFi, la tecnología que podría sustituir al WiFi: 100 veces más rápida, segura y eficiente </a></h4>
     <a href='https://computerhoy.com/internet/lifi-tecnologia-podria-sustituir-wifi-100-veces-rapida-segura-eficiente-1401812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/conectividad-lifi-4033817.jpg?tf=1200x' alt='Así es LiFi, la tecnología que podría sustituir al WiFi: 100 veces más rápida, segura y eficiente ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/alerta-seguridad-google-corrige-37-vulnerabilidades-actualiza-chrome-ahora-mismo-1401793'>Alerta de seguridad, Google corrige 37 vulnerabilidades: actualiza Chrome ahora mismo</a></h4>
     <a href='https://computerhoy.com/google/alerta-seguridad-google-corrige-37-vulnerabilidades-actualiza-chrome-ahora-mismo-1401793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-chrome-vulnerabilidades-4033803.jpg?tf=1200x' alt='Alerta de seguridad, Google corrige 37 vulnerabilidades: actualiza Chrome ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/datos-ilimitados-vodafone-hay-limite-oculto-muchos-clientes-estan-quedando-ellos-1401769'>¿Datos ilimitados de Vodafone? Hay un límite oculto y muchos clientes se están quedando sin ellos</a></h4>
-    <a href='https://computerhoy.com/moviles/datos-ilimitados-vodafone-hay-limite-oculto-muchos-clientes-estan-quedando-ellos-1401769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/datos-ilimitados-vodafone-hay-limite-oculto-muchos-clientes-estan-quedando-ellos-4033289.jpg?tf=1200x' alt='¿Datos ilimitados de Vodafone? Hay un límite oculto y muchos clientes se están quedando sin ellos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-conectar-usb-movil-android-transferir-archivos-segundos-1326228'>Cómo conectar una memoria USB a tu móvil Android para transferir archivos al instante</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-conectar-usb-movil-android-transferir-archivos-segundos-1326228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-conectar-memoria-usb-movil-android-transferir-archivos-instante-3206384.jpg?tf=1200x' alt='Cómo conectar una memoria USB a tu móvil Android para transferir archivos al instante' />
     </a>
 </div>
 
