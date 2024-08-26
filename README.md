@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/6-niveles-automatizacion-ia-como-pasara-asistente-ceo-1401767'>Los 6 niveles de automatización de la IA: así es como pasará de asistente a CEO</a></h4>
+    <a href='https://computerhoy.com/tecnologia/6-niveles-automatizacion-ia-como-pasara-asistente-ceo-1401767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-futuro-4033287.jpg?tf=1200x' alt='Los 6 niveles de automatización de la IA: así es como pasará de asistente a CEO' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-lista-incorporar-windows-funcion-polemica-historia-1401549'>Microsoft lista para incorporar a Windows la función más polémica de su historia</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-lista-incorporar-windows-funcion-polemica-historia-1401549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-lista-incorporar-windows-funcion-polemica-historia-4013336.jpg?tf=1200x' alt='Microsoft lista para incorporar a Windows la función más polémica de su historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/cliente-digi-enhorabuena-red-movil-television-propia-1401263'>Si eres de DIGI, enhorabuena: llega la red móvil y la televisión propia</a></h4>
+    <a href='https://computerhoy.com/redes/cliente-digi-enhorabuena-red-movil-television-propia-1401263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/digi-3436208.jpg?tf=1200x' alt='Si eres de DIGI, enhorabuena: llega la red móvil y la televisión propia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/peligro-conectar-memoria-usb-cargador-movil-1401042'>¿Qué sucede si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/peligro-conectar-memoria-usb-cargador-movil-1401042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-3994980.jpg?tf=1200x' alt='¿Qué sucede si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/suunto-deja-ko-garmin-rebaja-reloj-runners-da-sorpresa-baja-100-euros-1401745'>Suunto deja KO a Garmin con esta rebaja: su reloj para runners da la sorpresa y baja más de 100 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/suunto-deja-ko-garmin-rebaja-reloj-runners-da-sorpresa-baja-100-euros-1401745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/suunto-race-4032821.jpg?tf=1200x' alt='Suunto deja KO a Garmin con esta rebaja: su reloj para runners da la sorpresa y baja más de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-acaba-truco-comando-permitia-no-tener-cambiar-windows-10-windows-11-1401559'>Microsoft acaba con el truco del comando que permitía no tener que cambiar de Windows 10 a Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-acaba-truco-comando-permitia-no-tener-cambiar-windows-10-windows-11-1401559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-acaba-truco-comando-permitia-no-tener-cambiar-windows-10-windows-11-4013646.jpg?tf=1200x' alt='Microsoft acaba con el truco del comando que permitía no tener que cambiar de Windows 10 a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/golpe-cibercrimen-nigeria-elimina-63000-cuentas-falsas-hacian-sextorsion-1401751'>Golpe al cibercrimen: Nigeria elimina 63.000 cuentas falsas que hacían sextorsión </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/golpe-cibercrimen-nigeria-elimina-63000-cuentas-falsas-hacian-sextorsion-1401751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/extorsion-ciberseguridad-3259295.jpg?tf=1200x' alt='Golpe al cibercrimen: Nigeria elimina 63.000 cuentas falsas que hacían sextorsión ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/boton-secretos-reducir-factura-luz-1401656'>El botón de la lavadora que reduce la factura de luz más de la mitad dejando la ropa igual de limpia</a></h4>
-    <a href='https://computerhoy.com/hogar/boton-secretos-reducir-factura-luz-1401656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/poner-lavadora-4020304.jpg?tf=1200x' alt='El botón de la lavadora que reduce la factura de luz más de la mitad dejando la ropa igual de limpia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/habitos-muy-sencillos-mantener-bateria-portatil-buen-estado-durante-mucho-tiempo-1401412'>Hábitos muy sencillos para mantener la batería de portátil en buen estado durante mucho tiempo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/habitos-muy-sencillos-mantener-bateria-portatil-buen-estado-durante-mucho-tiempo-1401412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/portatil-bateria-4008260.jpg?tf=1200x' alt='Hábitos muy sencillos para mantener la batería de portátil en buen estado durante mucho tiempo' />
     </a>
 </div>
 
