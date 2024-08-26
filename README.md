@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/tienes-dispositivo-google-tv-buenas-noticias-google-anade-nuevos-canales-gratuitos-1401773'>¿Tienes un dispositivo Google TV? Buenas noticias, Google añade nuevos canales gratuitos</a></h4>
+    <a href='https://computerhoy.com/google/tienes-dispositivo-google-tv-buenas-noticias-google-anade-nuevos-canales-gratuitos-1401773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-tienes-activar-simplificar-google-tv-3814319.jpg?tf=1200x' alt='¿Tienes un dispositivo Google TV? Buenas noticias, Google añade nuevos canales gratuitos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/6-niveles-automatizacion-ia-como-pasara-asistente-ceo-1401767'>Los 6 niveles de automatización de la IA: así es como pasará de asistente a CEO</a></h4>
     <a href='https://computerhoy.com/tecnologia/6-niveles-automatizacion-ia-como-pasara-asistente-ceo-1401767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-futuro-4033287.jpg?tf=1200x' alt='Los 6 niveles de automatización de la IA: así es como pasará de asistente a CEO' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/peligro-conectar-memoria-usb-cargador-movil-1401042'>¿Qué sucede si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?</a></h4>
     <a href='https://computerhoy.com/tecnologia/peligro-conectar-memoria-usb-cargador-movil-1401042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-3994980.jpg?tf=1200x' alt='¿Qué sucede si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/suunto-deja-ko-garmin-rebaja-reloj-runners-da-sorpresa-baja-100-euros-1401745'>Suunto deja KO a Garmin con esta rebaja: su reloj para runners da la sorpresa y baja más de 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/suunto-deja-ko-garmin-rebaja-reloj-runners-da-sorpresa-baja-100-euros-1401745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/suunto-race-4032821.jpg?tf=1200x' alt='Suunto deja KO a Garmin con esta rebaja: su reloj para runners da la sorpresa y baja más de 100 euros' />
     </a>
 </div>
 
