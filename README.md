@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/deberias-utilizar-siempre-direccion-ip-estatica-red-casa-1401252'>¿Por qué deberías utilizar siempre una dirección IP estática en tu red de casa?</a></h4>
-    <a href='https://computerhoy.com/redes/deberias-utilizar-siempre-direccion-ip-estatica-red-casa-1401252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/deberias-utilizar-siempre-direccion-ip-estatica-red-casa-4003266.jpg?tf=1200x' alt='¿Por qué deberías utilizar siempre una dirección IP estática en tu red de casa?' />
+    <h4><a href='https://computerhoy.com/tecnologia/realidad-aumentada-ra-ficcion-apuesta-google-meta-apple-1401224'>Qué es realidad aumentada o RA: de la ficción a la apuesta de Google, Meta y Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/realidad-aumentada-ra-ficcion-apuesta-google-meta-apple-1401224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/realidad-aumentada-ar-ra-4000667.jpg?tf=1200x' alt='Qué es realidad aumentada o RA: de la ficción a la apuesta de Google, Meta y Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/bombillas-led-parpadean-como-solucionarlo-1401905'>¿Por qué las bombillas LED parpadean y cómo solucionarlo?</a></h4>
-    <a href='https://computerhoy.com/hogar/bombillas-led-parpadean-como-solucionarlo-1401905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bombillas-led-parpadean-como-solucionarlo-4036743.jpg?tf=1200x' alt='¿Por qué las bombillas LED parpadean y cómo solucionarlo?' />
+    <h4><a href='https://computerhoy.com/google/solucion-problema-google-maps-tuneles-1357358'>Los túneles dejarán de ser un problema en Google Maps si activas esta opción en los ajustes </a></h4>
+    <a href='https://computerhoy.com/google/solucion-problema-google-maps-tuneles-1357358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nueva-opcion-oculta-google-maps-ya-no-te-perderas-nunca-tuneles-3262109.jpg?tf=1200x' alt='Los túneles dejarán de ser un problema en Google Maps si activas esta opción en los ajustes ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/apagar-dispositivo-mejora-senal-router-wifi-maxima-potencia-1394942'>Solo con apagar este dispositivo de tu casa, la señal de tu router WiFi tendrá la máxima potencia</a></h4>
-    <a href='https://computerhoy.com/hogar/apagar-dispositivo-mejora-senal-router-wifi-maxima-potencia-1394942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/super-router-wifi-4033970.jpg?tf=1200x' alt='Solo con apagar este dispositivo de tu casa, la señal de tu router WiFi tendrá la máxima potencia' />
+    <h4><a href='https://computerhoy.com/life/ciencia-fin-consigue-dar-explicacion-personas-son-diestras-zurdas-1401922'>La ciencia por fin consigue dar una explicación a por qué las personas son diestras o zurdas</a></h4>
+    <a href='https://computerhoy.com/life/ciencia-fin-consigue-dar-explicacion-personas-son-diestras-zurdas-1401922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/artista-usando-mano-izquierda-4037055.jpg?tf=1200x' alt='La ciencia por fin consigue dar una explicación a por qué las personas son diestras o zurdas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-ciudadano-kane-ni-cadena-perpetua-mejor-pelicula-historia-ya-puede-ver-streaming-1401624'>Ni Ciudadano Kane ni Cadena Perpetua, la mejor película de la historia ya se puede ver en streaming</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-ciudadano-kane-ni-cadena-perpetua-mejor-pelicula-historia-ya-puede-ver-streaming-1401624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-ciudadano-kane-ni-cadena-perpetua-mejor-pelicula-historia-ya-puede-ver-plataformas-4015518.jpg?tf=1200x' alt='Ni Ciudadano Kane ni Cadena Perpetua, la mejor película de la historia ya se puede ver en streaming' />
+    <h4><a href='https://computerhoy.com/apps/tdtchannels-no-actualiza-nuevos-canales-tv-gratis-espanol-1401921'>TDTChannels no para y se actualiza con nuevos canales de TV gratis en español</a></h4>
+    <a href='https://computerhoy.com/apps/tdtchannels-no-actualiza-nuevos-canales-tv-gratis-espanol-1401921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels no para y se actualiza con nuevos canales de TV gratis en español' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/consejo-truco-electricistas-calidad-cable-electrico-1394218'>El truco de los electricistas para saber al instante si un cable eléctrico es de buena o mala calidad</a></h4>
-    <a href='https://computerhoy.com/hogar/consejo-truco-electricistas-calidad-cable-electrico-1394218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/truco-electricistas-saber-cable-electrico-buena-mala-calidad-3660453.jpg?tf=1200x' alt='El truco de los electricistas para saber al instante si un cable eléctrico es de buena o mala calidad' />
+    <h4><a href='https://computerhoy.com/tv/proyectores-samsung-the-premiere-4k-hdr-ia-tiro-ultracorto-1401920'>Los nuevos proyectores Samsung The Premiere, con 4K HDR, IA y tiro ultracorto</a></h4>
+    <a href='https://computerhoy.com/tv/proyectores-samsung-the-premiere-4k-hdr-ia-tiro-ultracorto-1401920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nuevos-proyectores-laser-samsung-premiere-4k-hdr-tiro-ultracorto-4036439.jpg?tf=1200x' alt='Los nuevos proyectores Samsung The Premiere, con 4K HDR, IA y tiro ultracorto' />
     </a>
 </div>
 
