@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/lifi-tecnologia-podria-sustituir-wifi-100-veces-rapida-segura-eficiente-1401812'>Así es LiFi, la tecnología que podría sustituir al WiFi: 100 veces más rápida, segura y eficiente </a></h4>
+    <a href='https://computerhoy.com/internet/lifi-tecnologia-podria-sustituir-wifi-100-veces-rapida-segura-eficiente-1401812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/conectividad-lifi-4033817.jpg?tf=1200x' alt='Así es LiFi, la tecnología que podría sustituir al WiFi: 100 veces más rápida, segura y eficiente ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/modo-avion-desactiva-ubicacion-movil-1401759'>¿El modo avión desactiva la ubicación del móvil?</a></h4>
+    <a href='https://computerhoy.com/moviles/modo-avion-desactiva-ubicacion-movil-1401759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modo-avion-movil-4033980.jpg?tf=1200x' alt='¿El modo avión desactiva la ubicación del móvil?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/alerta-seguridad-google-corrige-37-vulnerabilidades-actualiza-chrome-ahora-mismo-1401793'>Alerta de seguridad, Google corrige 37 vulnerabilidades: actualiza Chrome ahora mismo</a></h4>
     <a href='https://computerhoy.com/google/alerta-seguridad-google-corrige-37-vulnerabilidades-actualiza-chrome-ahora-mismo-1401793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-chrome-vulnerabilidades-4033803.jpg?tf=1200x' alt='Alerta de seguridad, Google corrige 37 vulnerabilidades: actualiza Chrome ahora mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-conectar-usb-movil-android-transferir-archivos-segundos-1326228'>Cómo conectar una memoria USB a tu móvil Android para transferir archivos al instante</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-conectar-usb-movil-android-transferir-archivos-segundos-1326228' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-conectar-memoria-usb-movil-android-transferir-archivos-instante-3206384.jpg?tf=1200x' alt='Cómo conectar una memoria USB a tu móvil Android para transferir archivos al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-medida-elon-musk-x-quieres-acciones-empresa-demuestra-mereces-1401786'>La nueva medida de Elon Musk en X: ¿Quieres acciones de la empresa? Demuestra que las mereces</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-medida-elon-musk-x-quieres-acciones-empresa-demuestra-mereces-1401786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ultimo-negocio-elon-musk-no-tiene-nada-ver-tecnologia-pero-futuro-humanidad-3860253.jpg?tf=1200x' alt='La nueva medida de Elon Musk en X: ¿Quieres acciones de la empresa? Demuestra que las mereces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-prometio-actualizar-windows-10-ha-hecho-peor-windows-11-1401787'>Microsoft prometió actualizar Windows 10: lo ha hecho con lo peor de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-prometio-actualizar-windows-10-ha-hecho-peor-windows-11-1401787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-prometio-actualizar-windows-10-ha-hecho-peor-windows-11-4033805.jpg?tf=1200x' alt='Microsoft prometió actualizar Windows 10: lo ha hecho con lo peor de Windows 11' />
     </a>
 </div>
 
