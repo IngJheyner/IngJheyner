@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/era-juego-lucha-olvidado-sega-tambien-tendra-pelicula-imagen-real-1401577'>Así era el juego de lucha olvidado de Sega que también tendrá película de imagen real</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/era-juego-lucha-olvidado-sega-tambien-tendra-pelicula-imagen-real-1401577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/era-juego-lucha-olvidado-sega-tambien-tendra-pelicula-imagen-real-4013962.jpg?tf=1200x' alt='Así era el juego de lucha olvidado de Sega que también tendrá película de imagen real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/realidad-aumentada-ra-ficcion-apuesta-google-meta-apple-1401224'>Qué es realidad aumentada o RA: de la ficción a la apuesta de Google, Meta y Apple</a></h4>
     <a href='https://computerhoy.com/tecnologia/realidad-aumentada-ra-ficcion-apuesta-google-meta-apple-1401224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/realidad-aumentada-ar-ra-4000667.jpg?tf=1200x' alt='Qué es realidad aumentada o RA: de la ficción a la apuesta de Google, Meta y Apple' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/tdtchannels-no-actualiza-nuevos-canales-tv-gratis-espanol-1401921'>TDTChannels no para y se actualiza con nuevos canales de TV gratis en español</a></h4>
     <a href='https://computerhoy.com/apps/tdtchannels-no-actualiza-nuevos-canales-tv-gratis-espanol-1401921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels no para y se actualiza con nuevos canales de TV gratis en español' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/proyectores-samsung-the-premiere-4k-hdr-ia-tiro-ultracorto-1401920'>Los nuevos proyectores Samsung The Premiere, con 4K HDR, IA y tiro ultracorto</a></h4>
-    <a href='https://computerhoy.com/tv/proyectores-samsung-the-premiere-4k-hdr-ia-tiro-ultracorto-1401920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nuevos-proyectores-laser-samsung-premiere-4k-hdr-tiro-ultracorto-4036439.jpg?tf=1200x' alt='Los nuevos proyectores Samsung The Premiere, con 4K HDR, IA y tiro ultracorto' />
     </a>
 </div>
 
