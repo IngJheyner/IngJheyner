@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/ikea-preowned-venta-muebles-ikea-segunda-mano-1401924'>Ikea Preowned se estrena para que vendas tus muebles Ikea de segunda mano</a></h4>
+    <a href='https://computerhoy.com/hogar/ikea-preowned-venta-muebles-ikea-segunda-mano-1401924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ikea-preowned-estrena-vendas-muebles-ikea-segunda-mano-4037207.jpg?tf=1200x' alt='Ikea Preowned se estrena para que vendas tus muebles Ikea de segunda mano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/era-juego-lucha-olvidado-sega-tambien-tendra-pelicula-imagen-real-1401577'>Así era el juego de lucha olvidado de Sega que también tendrá película de imagen real</a></h4>
     <a href='https://computerhoy.com/entretenimiento/era-juego-lucha-olvidado-sega-tambien-tendra-pelicula-imagen-real-1401577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/era-juego-lucha-olvidado-sega-tambien-tendra-pelicula-imagen-real-4013962.jpg?tf=1200x' alt='Así era el juego de lucha olvidado de Sega que también tendrá película de imagen real' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ciencia-fin-consigue-dar-explicacion-personas-son-diestras-zurdas-1401922'>La ciencia por fin consigue dar una explicación a por qué las personas son diestras o zurdas</a></h4>
     <a href='https://computerhoy.com/life/ciencia-fin-consigue-dar-explicacion-personas-son-diestras-zurdas-1401922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/artista-usando-mano-izquierda-4037055.jpg?tf=1200x' alt='La ciencia por fin consigue dar una explicación a por qué las personas son diestras o zurdas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tdtchannels-no-actualiza-nuevos-canales-tv-gratis-espanol-1401921'>TDTChannels no para y se actualiza con nuevos canales de TV gratis en español</a></h4>
-    <a href='https://computerhoy.com/apps/tdtchannels-no-actualiza-nuevos-canales-tv-gratis-espanol-1401921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels no para y se actualiza con nuevos canales de TV gratis en español' />
     </a>
 </div>
 
