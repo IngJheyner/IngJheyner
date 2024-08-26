@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/sony-wf-c510-analisis-opiniones-1401738'>He probado los Sony WF-C510: siguen teniendo un nombre difícil de recordar, pero por este precio suenan de escándalo</a></h4>
+    <a href='https://computerhoy.com/analisis/sony-wf-c510-analisis-opiniones-1401738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sony-wf-c510-analisis-opiniones-4035488.jpg?tf=1200x' alt='He probado los Sony WF-C510: siguen teniendo un nombre difícil de recordar, pero por este precio suenan de escándalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/error-cargar-bateria-movil-1295238'>Poner a cagar el móvil de esta forma es un grave error: puedes dañarlo para siempre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/error-cargar-bateria-movil-1295238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cargador-sobretension-3118134.jpg?tf=1200x' alt='Poner a cagar el móvil de esta forma es un grave error: puedes dañarlo para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-cache-iphone-deberias-hacerlo-ahora-mismo-1400322'>Cómo borrar la caché en tu iPhone y por qué deberías hacerlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-borrar-cache-iphone-deberias-hacerlo-ahora-mismo-1400322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-borrar-cache-iphone-deberias-hacerlo-ahora-mismo-3952839.jpg?tf=1200x' alt='Cómo borrar la caché en tu iPhone y por qué deberías hacerlo ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/trucos-recuperar-almacenamiento-gmail-gratis-sin-borrar-1398052'>¿Bandeja de Gmail llena? Cómo recuperar gratis los 15 GB de almacenamiento sin pagar ni borrar mensajes</a></h4>
     <a href='https://computerhoy.com/tutoriales/trucos-recuperar-almacenamiento-gmail-gratis-sin-borrar-1398052' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bandeja-gmail-llena-como-recuperar-15-gb-almacenamiento-gratis-pagar-ni-perder-solo-mensaje-3842749.jpg?tf=1200x' alt='¿Bandeja de Gmail llena? Cómo recuperar gratis los 15 GB de almacenamiento sin pagar ni borrar mensajes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-sonido-entrada-salida-usb-windows-10-1401626'>Cómo cambiar el sonido de entrada y salida de un USB en Windows 10</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-sonido-entrada-salida-usb-windows-10-1401626' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/usar-usb-ordenador-4015519.jpg?tf=1200x' alt='Cómo cambiar el sonido de entrada y salida de un USB en Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/google-maps-guerra-1127515'>¿Ha sido tu pueblo un campo de batalla en el pasado? Descúbrelo con el Google Maps de la guerra</a></h4>
-    <a href='https://computerhoy.com/internet/google-maps-guerra-1127515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mapa-te-muestra-revueltas-batallas-guerras-ha-habido-historicamente-barrio-2818487.jpg?tf=1200x' alt='¿Ha sido tu pueblo un campo de batalla en el pasado? Descúbrelo con el Google Maps de la guerra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trucos-evitar-apple-watch-muera-antes-previsto-1401389'>Trucos para evitar que tu Apple Watch muera antes de lo previsto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trucos-evitar-apple-watch-muera-antes-previsto-1401389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-watch-4007940.jpg?tf=1200x' alt='Trucos para evitar que tu Apple Watch muera antes de lo previsto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/lifi-tecnologia-podria-sustituir-wifi-100-veces-rapida-segura-eficiente-1401812'>Así es LiFi, la tecnología que podría sustituir al WiFi: 100 veces más rápida, segura y eficiente </a></h4>
-    <a href='https://computerhoy.com/internet/lifi-tecnologia-podria-sustituir-wifi-100-veces-rapida-segura-eficiente-1401812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/conectividad-lifi-4033817.jpg?tf=1200x' alt='Así es LiFi, la tecnología que podría sustituir al WiFi: 100 veces más rápida, segura y eficiente ' />
     </a>
 </div>
 
