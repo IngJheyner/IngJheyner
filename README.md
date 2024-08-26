@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/alerta-seguridad-google-corrige-37-vulnerabilidades-actualiza-chrome-ahora-mismo-1401793'>Alerta de seguridad, Google corrige 37 vulnerabilidades: actualiza Chrome ahora mismo</a></h4>
+    <a href='https://computerhoy.com/google/alerta-seguridad-google-corrige-37-vulnerabilidades-actualiza-chrome-ahora-mismo-1401793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-chrome-vulnerabilidades-4033803.jpg?tf=1200x' alt='Alerta de seguridad, Google corrige 37 vulnerabilidades: actualiza Chrome ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/datos-ilimitados-vodafone-hay-limite-oculto-muchos-clientes-estan-quedando-ellos-1401769'>¿Datos ilimitados de Vodafone? Hay un límite oculto y muchos clientes se están quedando sin ellos</a></h4>
+    <a href='https://computerhoy.com/moviles/datos-ilimitados-vodafone-hay-limite-oculto-muchos-clientes-estan-quedando-ellos-1401769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/datos-ilimitados-vodafone-hay-limite-oculto-muchos-clientes-estan-quedando-ellos-4033289.jpg?tf=1200x' alt='¿Datos ilimitados de Vodafone? Hay un límite oculto y muchos clientes se están quedando sin ellos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-conectar-usb-movil-android-transferir-archivos-segundos-1326228'>Cómo conectar una memoria USB a tu móvil Android para transferir archivos al instante</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-conectar-usb-movil-android-transferir-archivos-segundos-1326228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-conectar-memoria-usb-movil-android-transferir-archivos-instante-3206384.jpg?tf=1200x' alt='Cómo conectar una memoria USB a tu móvil Android para transferir archivos al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nueva-medida-elon-musk-x-quieres-acciones-empresa-demuestra-mereces-1401786'>La nueva medida de Elon Musk en X: ¿Quieres acciones de la empresa? Demuestra que las mereces</a></h4>
     <a href='https://computerhoy.com/tecnologia/nueva-medida-elon-musk-x-quieres-acciones-empresa-demuestra-mereces-1401786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ultimo-negocio-elon-musk-no-tiene-nada-ver-tecnologia-pero-futuro-humanidad-3860253.jpg?tf=1200x' alt='La nueva medida de Elon Musk en X: ¿Quieres acciones de la empresa? Demuestra que las mereces' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-prometio-actualizar-windows-10-ha-hecho-peor-windows-11-1401787'>Microsoft prometió actualizar Windows 10: lo ha hecho con lo peor de Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-prometio-actualizar-windows-10-ha-hecho-peor-windows-11-1401787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-prometio-actualizar-windows-10-ha-hecho-peor-windows-11-4033805.jpg?tf=1200x' alt='Microsoft prometió actualizar Windows 10: lo ha hecho con lo peor de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-maps-android-auto-mejor-app-detectar-radares-dgt-1395417'>Me encanta Google Maps en Android Auto, ahora la he combinado con esta app para detectar radares y ya es absolutamente perfecta</a></h4>
-    <a href='https://computerhoy.com/android/google-maps-android-auto-mejor-app-detectar-radares-dgt-1395417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/me-encanta-google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-3715097.jpg?tf=1200x' alt='Me encanta Google Maps en Android Auto, ahora la he combinado con esta app para detectar radares y ya es absolutamente perfecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores-distribuciones-linux-visualmente-bonitas-1400077'>Estas son las 5 distribuciones de Linux visualmente más bonitas</a></h4>
-    <a href='https://computerhoy.com/mejores-distribuciones-linux-visualmente-bonitas-1400077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/distribuciones-linux-3942897.jpg?tf=1200x' alt='Estas son las 5 distribuciones de Linux visualmente más bonitas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-kindle-lector-ebooks-color-mejor-mucho-barato-1401772'>Olvida los Kindle: este lector de ebooks a color es mejor y mucho más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-kindle-lector-ebooks-color-mejor-mucho-barato-1401772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/kobo-libra-colour-4033130.jpg?tf=1200x' alt='Olvida los Kindle: este lector de ebooks a color es mejor y mucho más barato' />
     </a>
 </div>
 
