@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/ciencia-ha-explicado-fin-comida-sabe-peor-espacio-1401847'>La ciencia ha explicado por fin por qué la comida sabe peor en el espacio</a></h4>
+    <a href='https://computerhoy.com/espacio/ciencia-ha-explicado-fin-comida-sabe-peor-espacio-1401847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ciencia-explica-fin-comida-sabe-peor-espacio-4034323.jpg?tf=1200x' alt='La ciencia ha explicado por fin por qué la comida sabe peor en el espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/empleados-nvidia-millonarios-no-pueden-disfrutarlo-1401928'>La mayoría de los empleados de Nvidia se han vuelto millonarios, pero no pueden disfrutarlo</a></h4>
     <a href='https://computerhoy.com/tecnologia/empleados-nvidia-millonarios-no-pueden-disfrutarlo-1401928' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mayoria-empleados-nvidia-han-vuelto-millonarios-pero-no-pueden-disfrutarlo-4037653.jpg?tf=1200x' alt='La mayoría de los empleados de Nvidia se han vuelto millonarios, pero no pueden disfrutarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/era-juego-lucha-olvidado-sega-tambien-tendra-pelicula-imagen-real-1401577'>Así era el juego de lucha olvidado de Sega que también tendrá película de imagen real</a></h4>
     <a href='https://computerhoy.com/entretenimiento/era-juego-lucha-olvidado-sega-tambien-tendra-pelicula-imagen-real-1401577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/era-juego-lucha-olvidado-sega-tambien-tendra-pelicula-imagen-real-4013962.jpg?tf=1200x' alt='Así era el juego de lucha olvidado de Sega que también tendrá película de imagen real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/realidad-aumentada-ra-ficcion-apuesta-google-meta-apple-1401224'>Qué es realidad aumentada o RA: de la ficción a la apuesta de Google, Meta y Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/realidad-aumentada-ra-ficcion-apuesta-google-meta-apple-1401224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/realidad-aumentada-ar-ra-4000667.jpg?tf=1200x' alt='Qué es realidad aumentada o RA: de la ficción a la apuesta de Google, Meta y Apple' />
     </a>
 </div>
 
