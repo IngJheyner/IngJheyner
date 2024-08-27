@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/adios-quemados-lg-resuelve-ultima-pieza-puzzle-oled-1401942'>Adiós a los burn-in: LG resuelve la última pieza del puzzle OLED </a></h4>
+    <a href='https://computerhoy.com/tv/adios-quemados-lg-resuelve-ultima-pieza-puzzle-oled-1401942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lg-oled-3084742.jpg?tf=1200x' alt='Adiós a los burn-in: LG resuelve la última pieza del puzzle OLED ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/puntos-microsoft-rewards-como-usarlos-1401401'>¿Para qué sirven los puntos de Microsoft Rewards y cómo usarlos?</a></h4>
     <a href='https://computerhoy.com/tutoriales/puntos-microsoft-rewards-como-usarlos-1401401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ganar-dinero-microsoft-rewards-4014119.jpg?tf=1200x' alt='¿Para qué sirven los puntos de Microsoft Rewards y cómo usarlos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aspiradora-mas-barata-dyson-alternativa-cecotec-1350166'>Esta aspiradora es mucho más barata que una Dyson e igual de potente: es ideal si tienes mascotas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aspiradora-mas-barata-dyson-alternativa-cecotec-1350166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/conga-rockstar-1600-x-treme-3249405.jpg?tf=1200x' alt='Esta aspiradora es mucho más barata que una Dyson e igual de potente: es ideal si tienes mascotas' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sid-meier-creo-civilization-pc-10000-euros-hace-33-anos-sorprendentemente-sigue-funcionamiento-1401542'>Sid Meier creó Civilization en un PC de 10.000 euros hace 33 años, y sorprendentemente, sigue en funcionamiento</a></h4>
     <a href='https://computerhoy.com/tecnologia/sid-meier-creo-civilization-pc-10000-euros-hace-33-anos-sorprendentemente-sigue-funcionamiento-1401542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sid-meier-hombre-creo-civilizacion-4013334.jpg?tf=1200x' alt='Sid Meier creó Civilization en un PC de 10.000 euros hace 33 años, y sorprendentemente, sigue en funcionamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/hay-senales-universo-ocultas-3500-metros-mediterraneo-cientificos-hallan-pruebas-1401816'>Hay señales del universo ocultas a 3.500 metros bajo el Mediterráneo: científicos hallan pruebas</a></h4>
-    <a href='https://computerhoy.com/ciencia/hay-senales-universo-ocultas-3500-metros-mediterraneo-cientificos-hallan-pruebas-1401816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oceano-4034320.jpg?tf=1200x' alt='Hay señales del universo ocultas a 3.500 metros bajo el Mediterráneo: científicos hallan pruebas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/modo-super-dios-windows-como-funciona-todo-puedes-hacer-1401917'>Qué es el Modo Super Dios de Windows, cómo funciona y todo lo que puedes hacer con él</a></h4>
-    <a href='https://computerhoy.com/windows/modo-super-dios-windows-como-funciona-todo-puedes-hacer-1401917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modo-super-dios-windows-como-funciona-todo-puedes-hacer-4039582.jpg?tf=1200x' alt='Qué es el Modo Super Dios de Windows, cómo funciona y todo lo que puedes hacer con él' />
     </a>
 </div>
 
