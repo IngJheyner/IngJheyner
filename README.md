@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puntos-microsoft-rewards-como-usarlos-1401401'>¿Para qué sirven los puntos de Microsoft Rewards y cómo usarlos?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puntos-microsoft-rewards-como-usarlos-1401401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ganar-dinero-microsoft-rewards-4014119.jpg?tf=1200x' alt='¿Para qué sirven los puntos de Microsoft Rewards y cómo usarlos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/siempre-busco-smart-tv-7-anos-probando-dispositivos-1398918'>Lo que siempre busco en una Smart TV tras 7 años probando dispositivos</a></h4>
+    <a href='https://computerhoy.com/tv/siempre-busco-smart-tv-7-anos-probando-dispositivos-1398918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/llevo-7-anos-siendo-probador-tecnologia-siempre-busco-smart-tv-3905084.jpg?tf=1200x' alt='Lo que siempre busco en una Smart TV tras 7 años probando dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sid-meier-creo-civilization-pc-10000-euros-hace-33-anos-sorprendentemente-sigue-funcionamiento-1401542'>Sid Meier creó Civilization en un PC de 10.000 euros hace 33 años, y sorprendentemente, sigue en funcionamiento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sid-meier-creo-civilization-pc-10000-euros-hace-33-anos-sorprendentemente-sigue-funcionamiento-1401542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sid-meier-hombre-creo-civilizacion-4013334.jpg?tf=1200x' alt='Sid Meier creó Civilization en un PC de 10.000 euros hace 33 años, y sorprendentemente, sigue en funcionamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/hay-senales-universo-ocultas-3500-metros-mediterraneo-cientificos-hallan-pruebas-1401816'>Hay señales del universo ocultas a 3.500 metros bajo el Mediterráneo: científicos hallan pruebas</a></h4>
     <a href='https://computerhoy.com/ciencia/hay-senales-universo-ocultas-3500-metros-mediterraneo-cientificos-hallan-pruebas-1401816' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oceano-4034320.jpg?tf=1200x' alt='Hay señales del universo ocultas a 3.500 metros bajo el Mediterráneo: científicos hallan pruebas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/modo-super-dios-windows-como-funciona-todo-puedes-hacer-1401917'>Qué es el Modo Super Dios de Windows, cómo funciona y todo lo que puedes hacer con él</a></h4>
     <a href='https://computerhoy.com/windows/modo-super-dios-windows-como-funciona-todo-puedes-hacer-1401917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modo-super-dios-windows-como-funciona-todo-puedes-hacer-4039582.jpg?tf=1200x' alt='Qué es el Modo Super Dios de Windows, cómo funciona y todo lo que puedes hacer con él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/historia-informatica-microsoft-cambia-forma-pegar-texto-40-anos-despues-1401823'>Historia de la informática: Microsoft cambia la forma de pegar un texto más de 40 años después</a></h4>
-    <a href='https://computerhoy.com/pc/historia-informatica-microsoft-cambia-forma-pegar-texto-40-anos-despues-1401823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/historia-informatica-microsoft-cambia-forma-pegar-texto-40-anos-despues-4033977.jpg?tf=1200x' alt='Historia de la informática: Microsoft cambia la forma de pegar un texto más de 40 años después' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/modo-cine-filmmaker-televisor-como-activar-1268520'>Para qué sirve el modo cine (o filmmaker) de tu televisor y cómo aprender a activarlo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/modo-cine-filmmaker-televisor-como-activar-1268520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/sirve-modo-cine-televisor-deberias-usarlo-3071980.jpg?tf=1200x' alt='Para qué sirve el modo cine (o filmmaker) de tu televisor y cómo aprender a activarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-mas-potente-precio-saldo-oferta-aliexpress-1376866'>La Raspberry Pi 5 más potente, de saldo: con 8GB de RAM desde apenas 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-mas-potente-precio-saldo-oferta-aliexpress-1376866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/raspberry-pi-2284167.jpg?tf=1200x' alt='La Raspberry Pi 5 más potente, de saldo: con 8GB de RAM desde apenas 100 euros' />
     </a>
 </div>
 
