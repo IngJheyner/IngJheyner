@@ -50,17 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tienes-estos-moviles-tontos-podria-valer-fortuna-estan-pagando-miles-euros-1400132'>Si tienes uno de estos "móviles tontos" podría valer una fortuna: están pagando miles de euros</a></h4>
-    <a href='https://computerhoy.com/moviles/tienes-estos-moviles-tontos-podria-valer-fortuna-estan-pagando-miles-euros-1400132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-estos-moviles-tontos-podria-valer-fortuna-estan-pagando-miles-euros-3946692.jpg?tf=1200x' alt='Si tienes uno de estos "móviles tontos" podría valer una fortuna: están pagando miles de euros' />
+    <h4><a href='https://computerhoy.com/apps/como-saber-whatsapp-espia-microfono-camara-1394885'>Así puedes saber si WhatsApp te está espiando por el micrófono o la cámara sin que lo sepas</a></h4>
+    <a href='https://computerhoy.com/apps/como-saber-whatsapp-espia-microfono-camara-1394885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trucos-saber-whatsapp-te-espiando-microfono-camara-sepas-3695531.jpg?tf=1200x' alt='Así puedes saber si WhatsApp te está espiando por el micrófono o la cámara sin que lo sepas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-recomendada-stephen-king-1400084'>“Es mejor que Juego de Tronos y Breaking Bad”: la serie nórdica de Netflix que ha enamorado a Stephen King</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-recomendada-stephen-king-1400084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-3942729.jpg?tf=1200x' alt='“Es mejor que Juego de Tronos y Breaking Bad”: la serie nórdica de Netflix que ha enamorado a Stephen King' />
+    <h4><a href='https://computerhoy.com/moviles/tienes-estos-moviles-tontos-podria-valer-fortuna-estan-pagando-miles-euros-1400132'>Si tienes uno de estos "móviles tontos" podría valer una fortuna: están pagando miles de euros</a></h4>
+    <a href='https://computerhoy.com/moviles/tienes-estos-moviles-tontos-podria-valer-fortuna-estan-pagando-miles-euros-1400132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-estos-moviles-tontos-podria-valer-fortuna-estan-pagando-miles-euros-3946692.jpg?tf=1200x' alt='Si tienes uno de estos "móviles tontos" podría valer una fortuna: están pagando miles de euros' />
     </a>
 </div>
 
@@ -74,17 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/boton-oculto-lavavajillas-te-cambiara-vida-siempre-1398958'>El botón oculto del lavavajillas que te cambiará la vida para siempre</a></h4>
-    <a href='https://computerhoy.com/life/boton-oculto-lavavajillas-te-cambiara-vida-siempre-1398958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ubicacion-boton-secreto-lavavajillas-te-cambiara-vida-siempre-3885657.jpg?tf=1200x' alt='El botón oculto del lavavajillas que te cambiará la vida para siempre' />
+    <h4><a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-recomendada-stephen-king-1400084'>“Es mejor que Juego de Tronos y Breaking Bad”: la serie nórdica de Netflix que ha enamorado a Stephen King</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-recomendada-stephen-king-1400084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-3942729.jpg?tf=1200x' alt='“Es mejor que Juego de Tronos y Breaking Bad”: la serie nórdica de Netflix que ha enamorado a Stephen King' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/playstation-5-pro-podria-ser-inminente-filtran-nuevas-especificaciones-posible-precio-1402043'>PlayStation 5 Pro podría ser inminente: se filtran nuevas especificaciones y su posible precio</a></h4>
-    <a href='https://computerhoy.com/gaming/playstation-5-pro-podria-ser-inminente-filtran-nuevas-especificaciones-posible-precio-1402043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/playstation-5-pro-podria-ser-inminente-filtran-nuevas-especificaciones-posible-precio-4041547.jpg?tf=1200x' alt='PlayStation 5 Pro podría ser inminente: se filtran nuevas especificaciones y su posible precio' />
+    <h4><a href='https://computerhoy.com/life/boton-oculto-lavavajillas-te-cambiara-vida-siempre-1398958'>El botón oculto del lavavajillas que te cambiará la vida para siempre</a></h4>
+    <a href='https://computerhoy.com/life/boton-oculto-lavavajillas-te-cambiara-vida-siempre-1398958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ubicacion-boton-secreto-lavavajillas-te-cambiara-vida-siempre-3885657.jpg?tf=1200x' alt='El botón oculto del lavavajillas que te cambiará la vida para siempre' />
     </a>
 </div>
 
