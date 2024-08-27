@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/extensiones-peligrosas-google-chrome-1395724'>Si usas alguna de estas populares extensiones de Google Chrome, bórralas: están registrando todos tus movimientos online</a></h4>
+    <a href='https://computerhoy.com/internet/extensiones-peligrosas-google-chrome-1395724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Si usas alguna de estas populares extensiones de Google Chrome, bórralas: están registrando todos tus movimientos online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ni-apple-ha-hecho-marca-da-vuelta-airtag-vende-tarjeta-hace-mismo-1401955'>Ni Apple lo ha hecho: esta marca le da una vuelta al AirTag y vende una tarjeta que hace lo mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ni-apple-ha-hecho-marca-da-vuelta-airtag-vende-tarjeta-hace-mismo-1401955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/atuvos-air-tracker-card-4040180.jpg?tf=1200x' alt='Ni Apple lo ha hecho: esta marca le da una vuelta al AirTag y vende una tarjeta que hace lo mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/funcion-debes-desactivar-inmediato-movil-android-evitar-google-te-espie-1400148'>La función que debes desactivar de inmediato de tu móvil Android para evitar que Google te espíe</a></h4>
+    <a href='https://computerhoy.com/android/funcion-debes-desactivar-inmediato-movil-android-evitar-google-te-espie-1400148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/funcion-debes-desactivar-inmediato-movil-android-evitar-google-te-espie-3947434.jpg?tf=1200x' alt='La función que debes desactivar de inmediato de tu móvil Android para evitar que Google te espíe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-integrar-tarjeta-sd-como-memoria-interna-movil-android-1402105'>Cómo integrar una tarjeta SD como memoria interna en un móvil Android</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-integrar-tarjeta-sd-como-memoria-interna-movil-android-1402105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-integrar-tarjeta-sd-como-memoria-interna-movil-android-4043530.jpg?tf=1200x' alt='Cómo integrar una tarjeta SD como memoria interna en un móvil Android' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/compra-disco-duro-nuevo-encuentra-tesoro-digital-1398478'>Compra un disco duro “nuevo” y encuentra en un tesoro digital valorado en miles de euros</a></h4>
     <a href='https://computerhoy.com/life/compra-disco-duro-nuevo-encuentra-tesoro-digital-1398478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-3856951.jpg?tf=1200x' alt='Compra un disco duro “nuevo” y encuentra en un tesoro digital valorado en miles de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/ni-digi-ni-o2-desconocido-operador-tiene-mejor-tarifa-necesitas-dos-lineas-moviles-1401642'>Ni DIGI ni O2, este desconocido operador tiene la mejor tarifa si necesitas dos líneas móviles</a></h4>
-    <a href='https://computerhoy.com/internet/ni-digi-ni-o2-desconocido-operador-tiene-mejor-tarifa-necesitas-dos-lineas-moviles-1401642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-digi-ni-o2-desconocido-operador-tiene-mejor-tarifa-necesitas-dos-lineas-moviles-4018994.jpg?tf=1200x' alt='Ni DIGI ni O2, este desconocido operador tiene la mejor tarifa si necesitas dos líneas móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/truco-movil-aumentar-potencia-rendimiento-1399497'>El sencillo gesto que debes hacer cada día en tu móvil para aumentar al máximo su potencia y rendimiento</a></h4>
-    <a href='https://computerhoy.com/moviles/truco-movil-aumentar-potencia-rendimiento-1399497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/movil-superman-4041173.jpg?tf=1200x' alt='El sencillo gesto que debes hacer cada día en tu móvil para aumentar al máximo su potencia y rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/desconocido-truco-123-escribiras-mucho-rapido-funciona-todos-iphone-1401862'>El desconocido truco del 123: escribirás mucho más rápido y funciona en todos los iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/desconocido-truco-123-escribiras-mucho-rapido-funciona-todos-iphone-1401862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/teclado-iphone-4042235.jpg?tf=1200x' alt='El desconocido truco del 123: escribirás mucho más rápido y funciona en todos los iPhone' />
     </a>
 </div>
 
