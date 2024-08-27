@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/xiaomi-confirma-moviles-actualizaran-android-15-hyperos-20-estos-son-21-elegidos-1402127'>Xiaomi confirma qué móviles se actualizarán a Android 15 con HyperOS 2.0: estos son los 21 elegidos</a></h4>
-    <a href='https://computerhoy.com/android/xiaomi-confirma-moviles-actualizaran-android-15-hyperos-20-estos-son-21-elegidos-1402127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienda-xiaomi-4044153.jpg?tf=1200x' alt='Xiaomi confirma qué móviles se actualizarán a Android 15 con HyperOS 2.0: estos son los 21 elegidos' />
+    <h4><a href='https://computerhoy.com/redes/boton-router-wifi-tan-util-como-peligroso-piensatelo-dos-veces-desactivalo-1402115'>Este botón del router WiFi es tan útil como peligroso: piénsatelo dos veces o desactívalo</a></h4>
+    <a href='https://computerhoy.com/redes/boton-router-wifi-tan-util-como-peligroso-piensatelo-dos-veces-desactivalo-1402115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/boton-router-wifi-tan-util-como-peligroso-piensatelo-dos-veces-desactivalo-4043996.jpg?tf=1200x' alt='Este botón del router WiFi es tan útil como peligroso: piénsatelo dos veces o desactívalo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/metodo-japones-bajar-temperatura-coche-rapido-1263434'>Cómo enfriar el coche rápidamente para no derretirte al volante con el “truco japonés”</a></h4>
-    <a href='https://computerhoy.com/motor/metodo-japones-bajar-temperatura-coche-rapido-1263434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/enfriar-coche-metodo-japones-4041898.jpg?tf=1200x' alt='Cómo enfriar el coche rápidamente para no derretirte al volante con el “truco japonés”' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/iptv-por-que-es-mala-idea-utilizarlo-477219'>Qué es IPTV, cómo funciona y por qué es una mala idea utilizarlo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/iptv-por-que-es-mala-idea-utilizarlo-477219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iptv-como-funciona-mala-idea-utilizarlo-3717648.jpg?tf=1200x' alt='Qué es IPTV, cómo funciona y por qué es una mala idea utilizarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-star-wars-ni-star-trek-mejor-serie-ciencia-ficcion-punto-vista-cientifico-amazon-prime-video-1402072'>Ni Star Wars ni Star Trek, esta es la mejor serie de ciencia ficción desde un punto de vista científico, y está en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-star-wars-ni-star-trek-mejor-serie-ciencia-ficcion-punto-vista-cientifico-amazon-prime-video-1402072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejor-serie-ciencia-ficcion-punto-vista-cientifico-amazon-prime-video-4042058.jpg?tf=1200x' alt='Ni Star Wars ni Star Trek, esta es la mejor serie de ciencia ficción desde un punto de vista científico, y está en Amazon Prime Video' />
+    <h4><a href='https://computerhoy.com/life/demasiado-calor-dormir-ponte-calcetines-parece-absurdo-pero-no-1402131'>¿Demasiado calor para dormir? Ponte calcetines, parece absurdo, pero no lo es</a></h4>
+    <a href='https://computerhoy.com/life/demasiado-calor-dormir-ponte-calcetines-parece-absurdo-pero-no-1402131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dormir-calcetines-4044302.jpg?tf=1200x' alt='¿Demasiado calor para dormir? Ponte calcetines, parece absurdo, pero no lo es' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/extensiones-peligrosas-google-chrome-1395724'>Si usas alguna de estas populares extensiones de Google Chrome, bórralas: están registrando todos tus movimientos online</a></h4>
-    <a href='https://computerhoy.com/internet/extensiones-peligrosas-google-chrome-1395724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Si usas alguna de estas populares extensiones de Google Chrome, bórralas: están registrando todos tus movimientos online' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-sorprende-mini-lavadora-inteligente-coloca-cualquier-lugar-cuesta-poco-100-euros-1402130'>Xiaomi sorprende con su mini lavadora inteligente: se coloca en cualquier lugar y cuesta poco más de 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-sorprende-mini-lavadora-inteligente-coloca-cualquier-lugar-cuesta-poco-100-euros-1402130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-mijia-super-clean-4044300.jpg?tf=1200x' alt='Xiaomi sorprende con su mini lavadora inteligente: se coloca en cualquier lugar y cuesta poco más de 100 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ni-apple-ha-hecho-marca-da-vuelta-airtag-vende-tarjeta-hace-mismo-1401955'>Ni Apple lo ha hecho: esta marca le da una vuelta al AirTag y vende una tarjeta que hace lo mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ni-apple-ha-hecho-marca-da-vuelta-airtag-vende-tarjeta-hace-mismo-1401955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/atuvos-air-tracker-card-4040180.jpg?tf=1200x' alt='Ni Apple lo ha hecho: esta marca le da una vuelta al AirTag y vende una tarjeta que hace lo mismo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/llega-max-peliculas-fantasticas-imprescindibles-todos-tiempos-estuvo-nominada-6-premios-oscar-1401833'>Llega a Max una de las películas fantásticas más imprescindibles de todos los tiempos: estuvo nominada a 6 premios Óscar</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/llega-max-peliculas-fantasticas-imprescindibles-todos-tiempos-estuvo-nominada-6-premios-oscar-1401833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/llega-max-peliculas-fantasticas-imprescindibles-todos-tiempos-estuvo-nominada-6-premios-oscar-4033812.jpg?tf=1200x' alt='Llega a Max una de las películas fantásticas más imprescindibles de todos los tiempos: estuvo nominada a 6 premios Óscar' />
     </a>
 </div>
 
