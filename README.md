@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/android-auto-radio-fm-coche-1396234'>Google escucha las súplicas de los usuarios: la radio FM llegará a Android Auto</a></h4>
+    <a href='https://computerhoy.com/google/android-auto-radio-fm-coche-1396234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-puedo-saber-mi-coche-compatible-android-auto-3497636.jpg?tf=1200x' alt='Google escucha las súplicas de los usuarios: la radio FM llegará a Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-ha-imitado-filtros-snapchat-proxima-actualizacion-1401969'>WhatsApp ha imitado los filtros de Snapchat para su próxima actualización</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-ha-imitado-filtros-snapchat-proxima-actualizacion-1401969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-fija-filtros-snapchat-proxima-actualizacion-4040806.jpg?tf=1200x' alt='WhatsApp ha imitado los filtros de Snapchat para su próxima actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/truco-ver-canales-tdt-gratis-amazon-fire-tv-app-enlace-magico-1395460'>Ni antena ni cables: cómo ver toda la TDT con un Amazon Fire TV y este enlace "mágico"</a></h4>
+    <a href='https://computerhoy.com/tv/truco-ver-canales-tdt-gratis-amazon-fire-tv-app-enlace-magico-1395460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-cables-ni-antena-como-ver-toda-tdt-amazon-fire-tv-app-enlace-magico-3715801.jpg?tf=1200x' alt='Ni antena ni cables: cómo ver toda la TDT con un Amazon Fire TV y este enlace "mágico"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/merece-pena-seguir-pagando-antivirus-2024-1401981'>¿Merece la pena seguir pagando por un antivirus en 2024?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/merece-pena-seguir-pagando-antivirus-2024-1401981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/antivirus-3339793.jpg?tf=1200x' alt='¿Merece la pena seguir pagando por un antivirus en 2024?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/precio-iphone-15-cae-picado-150-euros-barato-1401455'>El precio del iPhone 15 cae en picado: es 150 euros más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/precio-iphone-15-cae-picado-150-euros-barato-1401455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3141292.jpg?tf=1200x' alt='El precio del iPhone 15 cae en picado: es 150 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/guerra-sucia-iptv-quieren-prohibir-aplicaciones-vpn-smart-tv-1401975'>Guerra sucia contra las IPTV: quieren prohibir las aplicaciones VPN en los Smart TV</a></h4>
-    <a href='https://computerhoy.com/tv/guerra-sucia-iptv-quieren-prohibir-aplicaciones-vpn-smart-tv-1401975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/piracy-shield-salva-ultimo-escollo-ver-futbol-gratis-iptv-sera-casi-imposible-3266110.jpg?tf=1200x' alt='Guerra sucia contra las IPTV: quieren prohibir las aplicaciones VPN en los Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/formatear-movil-estropeado-modo-reparacion-android-1401059'>Olvídate de formatear si se te estropea el móvil: así funciona el modo reparación de Android</a></h4>
-    <a href='https://computerhoy.com/android/formatear-movil-estropeado-modo-reparacion-android-1401059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/olvidate-formatear-movil-necesitas-reparar-funciona-modo-reparacion-android-3996573.jpg?tf=1200x' alt='Olvídate de formatear si se te estropea el móvil: así funciona el modo reparación de Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tengo-raton-ya-no-me-duele-mano-volveria-comprar-mil-veces-1399997'>Tengo este ratón y ya no me duele la mano: lo volvería a comprar una y mil veces</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tengo-raton-ya-no-me-duele-mano-volveria-comprar-mil-veces-1399997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/logitech-lift-2997880.jpg?tf=1200x' alt='Tengo este ratón y ya no me duele la mano: lo volvería a comprar una y mil veces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/adios-obsolescencia-programada-samsung-garantiza-7-anos-vida-smart-tv-1401965'>Adiós a la obsolescencia programada: Samsung garantiza 7 años de vida a tus Smart TV</a></h4>
-    <a href='https://computerhoy.com/tv/adios-obsolescencia-programada-samsung-garantiza-7-anos-vida-smart-tv-1401965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-q80c-3298916.jpg?tf=1200x' alt='Adiós a la obsolescencia programada: Samsung garantiza 7 años de vida a tus Smart TV' />
     </a>
 </div>
 
