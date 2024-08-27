@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/inteligencia-artificial-arc-llega-fin-moviles-android-1401998'>La inteligencia artificial de Arc llega por fin a los móviles Android</a></h4>
+    <a href='https://computerhoy.com/moviles/inteligencia-artificial-arc-llega-fin-moviles-android-1401998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-arc-search-llega-fin-dispositivos-android-4041176.jpg?tf=1200x' alt='La inteligencia artificial de Arc llega por fin a los móviles Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/steve-jobs-pago-100000-dolares-logo-historia-fascinante-yo-te-resuelvo-problema-me-pagas-1401987'>Steve Jobs pagó 100.000 dólares por un logo con una historia fascinante: "Yo te resuelvo el problema y tú me pagas"</a></h4>
+    <a href='https://computerhoy.com/apple/steve-jobs-pago-100000-dolares-logo-historia-fascinante-yo-te-resuelvo-problema-me-pagas-1401987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/steve-jobs-next-4040809.jpg?tf=1200x' alt='Steve Jobs pagó 100.000 dólares por un logo con una historia fascinante: "Yo te resuelvo el problema y tú me pagas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/android-auto-radio-fm-coche-1396234'>Google escucha las súplicas de los usuarios: la radio FM llegará a Android Auto</a></h4>
     <a href='https://computerhoy.com/google/android-auto-radio-fm-coche-1396234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-puedo-saber-mi-coche-compatible-android-auto-3497636.jpg?tf=1200x' alt='Google escucha las súplicas de los usuarios: la radio FM llegará a Android Auto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/truco-ver-canales-tdt-gratis-amazon-fire-tv-app-enlace-magico-1395460'>Ni antena ni cables: cómo ver toda la TDT con un Amazon Fire TV y este enlace "mágico"</a></h4>
     <a href='https://computerhoy.com/tv/truco-ver-canales-tdt-gratis-amazon-fire-tv-app-enlace-magico-1395460' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ni-cables-ni-antena-como-ver-toda-tdt-amazon-fire-tv-app-enlace-magico-3715801.jpg?tf=1200x' alt='Ni antena ni cables: cómo ver toda la TDT con un Amazon Fire TV y este enlace "mágico"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/merece-pena-seguir-pagando-antivirus-2024-1401981'>¿Merece la pena seguir pagando por un antivirus en 2024?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/merece-pena-seguir-pagando-antivirus-2024-1401981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/antivirus-3339793.jpg?tf=1200x' alt='¿Merece la pena seguir pagando por un antivirus en 2024?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/precio-iphone-15-cae-picado-150-euros-barato-1401455'>El precio del iPhone 15 cae en picado: es 150 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/precio-iphone-15-cae-picado-150-euros-barato-1401455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3141292.jpg?tf=1200x' alt='El precio del iPhone 15 cae en picado: es 150 euros más barato' />
     </a>
 </div>
 
