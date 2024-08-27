@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/consigue-hackear-codigo-activacion-windows-xp-solo-ha-necesitado-20-anos-nada-conseguirlo-1402124'>Consigue hackear el código de activación de Windows XP: solo ha necesitado 20 años de nada para conseguirlo</a></h4>
+    <a href='https://computerhoy.com/windows/consigue-hackear-codigo-activacion-windows-xp-solo-ha-necesitado-20-anos-nada-conseguirlo-1402124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/consigue-hackear-codigo-activacion-windows-xp-solo-ha-necesitado-20-anos-nada-conseguirlo-4044893.jpg?tf=1200x' alt='Consigue hackear el código de activación de Windows XP: solo ha necesitado 20 años de nada para conseguirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/x-estrena-videollamadas-competir-google-meet-microsoft-teams-1402133'>X estrena las videollamadas para competir con Google Meet y Microsoft Teams</a></h4>
+    <a href='https://computerhoy.com/redes/x-estrena-videollamadas-competir-google-meet-microsoft-teams-1402133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/x-estrena-videollamadas-competir-google-meet-microsoft-teams-4044303.jpg?tf=1200x' alt='X estrena las videollamadas para competir con Google Meet y Microsoft Teams' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/todo-wifi-como-mejorar-senal-lenta-dispositivos-consejos-redes-publicas-1401312'>Todo sobre WiFi: cómo mejorar una señal lenta, dispositivos y consejos en redes públicas</a></h4>
+    <a href='https://computerhoy.com/redes/todo-wifi-como-mejorar-senal-lenta-dispositivos-consejos-redes-publicas-1401312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-3688410.jpg?tf=1200x' alt='Todo sobre WiFi: cómo mejorar una señal lenta, dispositivos y consejos en redes públicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/boton-router-wifi-tan-util-como-peligroso-piensatelo-dos-veces-desactivalo-1402115'>Este botón del router WiFi es tan útil como peligroso: piénsatelo dos veces o desactívalo</a></h4>
     <a href='https://computerhoy.com/redes/boton-router-wifi-tan-util-como-peligroso-piensatelo-dos-veces-desactivalo-1402115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/boton-router-wifi-tan-util-como-peligroso-piensatelo-dos-veces-desactivalo-4043996.jpg?tf=1200x' alt='Este botón del router WiFi es tan útil como peligroso: piénsatelo dos veces o desactívalo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/iptv-por-que-es-mala-idea-utilizarlo-477219'>Qué es IPTV, cómo funciona y por qué es una mala idea utilizarlo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/iptv-por-que-es-mala-idea-utilizarlo-477219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iptv-como-funciona-mala-idea-utilizarlo-3717648.jpg?tf=1200x' alt='Qué es IPTV, cómo funciona y por qué es una mala idea utilizarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/demasiado-calor-dormir-ponte-calcetines-parece-absurdo-pero-no-1402131'>¿Demasiado calor para dormir? Ponte calcetines, parece absurdo, pero no lo es</a></h4>
-    <a href='https://computerhoy.com/life/demasiado-calor-dormir-ponte-calcetines-parece-absurdo-pero-no-1402131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dormir-calcetines-4044302.jpg?tf=1200x' alt='¿Demasiado calor para dormir? Ponte calcetines, parece absurdo, pero no lo es' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-sorprende-mini-lavadora-inteligente-coloca-cualquier-lugar-cuesta-poco-100-euros-1402130'>Xiaomi sorprende con su mini lavadora inteligente: se coloca en cualquier lugar y cuesta poco más de 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-sorprende-mini-lavadora-inteligente-coloca-cualquier-lugar-cuesta-poco-100-euros-1402130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-mijia-super-clean-4044300.jpg?tf=1200x' alt='Xiaomi sorprende con su mini lavadora inteligente: se coloca en cualquier lugar y cuesta poco más de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/llega-max-peliculas-fantasticas-imprescindibles-todos-tiempos-estuvo-nominada-6-premios-oscar-1401833'>Llega a Max una de las películas fantásticas más imprescindibles de todos los tiempos: estuvo nominada a 6 premios Óscar</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/llega-max-peliculas-fantasticas-imprescindibles-todos-tiempos-estuvo-nominada-6-premios-oscar-1401833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/llega-max-peliculas-fantasticas-imprescindibles-todos-tiempos-estuvo-nominada-6-premios-oscar-4033812.jpg?tf=1200x' alt='Llega a Max una de las películas fantásticas más imprescindibles de todos los tiempos: estuvo nominada a 6 premios Óscar' />
     </a>
 </div>
 
