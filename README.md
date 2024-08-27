@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/precio-iphone-15-cae-picado-150-euros-barato-1401455'>El precio del iPhone 15 cae en picado: es 150 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/precio-iphone-15-cae-picado-150-euros-barato-1401455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3141292.jpg?tf=1200x' alt='El precio del iPhone 15 cae en picado: es 150 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/guerra-sucia-iptv-quieren-prohibir-aplicaciones-vpn-smart-tv-1401975'>Guerra sucia contra las IPTV: quieren prohibir las aplicaciones VPN en los Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/guerra-sucia-iptv-quieren-prohibir-aplicaciones-vpn-smart-tv-1401975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/piracy-shield-salva-ultimo-escollo-ver-futbol-gratis-iptv-sera-casi-imposible-3266110.jpg?tf=1200x' alt='Guerra sucia contra las IPTV: quieren prohibir las aplicaciones VPN en los Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/formatear-movil-estropeado-modo-reparacion-android-1401059'>Olvídate de formatear si se te estropea el móvil: así funciona el modo reparación de Android</a></h4>
     <a href='https://computerhoy.com/android/formatear-movil-estropeado-modo-reparacion-android-1401059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/olvidate-formatear-movil-necesitas-reparar-funciona-modo-reparacion-android-3996573.jpg?tf=1200x' alt='Olvídate de formatear si se te estropea el móvil: así funciona el modo reparación de Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/adios-obsolescencia-programada-samsung-garantiza-7-anos-vida-smart-tv-1401965'>Adiós a la obsolescencia programada: Samsung garantiza 7 años de vida a tus Smart TV</a></h4>
     <a href='https://computerhoy.com/tv/adios-obsolescencia-programada-samsung-garantiza-7-anos-vida-smart-tv-1401965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-q80c-3298916.jpg?tf=1200x' alt='Adiós a la obsolescencia programada: Samsung garantiza 7 años de vida a tus Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/nueva-funcion-gmail-permite-contestar-correos-aun-rapido-1401966'>Una nueva función de Gmail permite contestar los correos aún más rápido</a></h4>
-    <a href='https://computerhoy.com/google/nueva-funcion-gmail-permite-contestar-correos-aun-rapido-1401966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-funcion-gmail-permite-contestar-correos-aun-rapido-4040402.jpg?tf=1200x' alt='Una nueva función de Gmail permite contestar los correos aún más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-lista-lanzar-version-top-alexa-ia-viene-sorpresa-1401958'>Amazon lista para lanzar una versión top de Alexa con IA que viene con sorpresa</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-lista-lanzar-version-top-alexa-ia-viene-sorpresa-1401958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mejores-skills-alexa-domotizar-hogar-3799773.jpg?tf=1200x' alt='Amazon lista para lanzar una versión top de Alexa con IA que viene con sorpresa' />
     </a>
 </div>
 
