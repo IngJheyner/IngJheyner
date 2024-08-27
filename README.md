@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/formatear-movil-estropeado-modo-reparacion-android-1401059'>Olvídate de formatear si se te estropea el móvil: así funciona el modo reparación de Android</a></h4>
+    <a href='https://computerhoy.com/android/formatear-movil-estropeado-modo-reparacion-android-1401059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/olvidate-formatear-movil-necesitas-reparar-funciona-modo-reparacion-android-3996573.jpg?tf=1200x' alt='Olvídate de formatear si se te estropea el móvil: así funciona el modo reparación de Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tengo-raton-ya-no-me-duele-mano-volveria-comprar-mil-veces-1399997'>Tengo este ratón y ya no me duele la mano: lo volvería a comprar una y mil veces</a></h4>
     <a href='https://computerhoy.com/tecnologia/tengo-raton-ya-no-me-duele-mano-volveria-comprar-mil-veces-1399997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/logitech-lift-2997880.jpg?tf=1200x' alt='Tengo este ratón y ya no me duele la mano: lo volvería a comprar una y mil veces' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/amazon-lista-lanzar-version-top-alexa-ia-viene-sorpresa-1401958'>Amazon lista para lanzar una versión top de Alexa con IA que viene con sorpresa</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-lista-lanzar-version-top-alexa-ia-viene-sorpresa-1401958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mejores-skills-alexa-domotizar-hogar-3799773.jpg?tf=1200x' alt='Amazon lista para lanzar una versión top de Alexa con IA que viene con sorpresa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/adios-quemados-lg-resuelve-ultima-pieza-puzzle-oled-1401942'>Adiós a los burn-in: LG resuelve la última pieza del puzzle OLED </a></h4>
-    <a href='https://computerhoy.com/tv/adios-quemados-lg-resuelve-ultima-pieza-puzzle-oled-1401942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lg-oled-3084742.jpg?tf=1200x' alt='Adiós a los burn-in: LG resuelve la última pieza del puzzle OLED ' />
     </a>
 </div>
 
