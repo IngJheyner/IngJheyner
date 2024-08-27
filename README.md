@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/empleados-nvidia-millonarios-no-pueden-disfrutarlo-1401928'>La mayoría de los empleados de Nvidia se han vuelto millonarios, pero no pueden disfrutarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/empleados-nvidia-millonarios-no-pueden-disfrutarlo-1401928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mayoria-empleados-nvidia-han-vuelto-millonarios-pero-no-pueden-disfrutarlo-4037653.jpg?tf=1200x' alt='La mayoría de los empleados de Nvidia se han vuelto millonarios, pero no pueden disfrutarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/futbol-gratis-iptv-telegram-arrasan-audiencia-como-protesta-altos-precios-operadores-1401916'>El fútbol gratis por IPTV y Telegram arrasan en audiencia como protesta ante los altos precios de los operadores</a></h4>
     <a href='https://computerhoy.com/internet/futbol-gratis-iptv-telegram-arrasan-audiencia-como-protesta-altos-precios-operadores-1401916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/futbol-gratis-iptv-telegram-arrasan-audiencia-como-protesta-altos-precios-operadores-4037804.jpg?tf=1200x' alt='El fútbol gratis por IPTV y Telegram arrasan en audiencia como protesta ante los altos precios de los operadores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/realidad-aumentada-ra-ficcion-apuesta-google-meta-apple-1401224'>Qué es realidad aumentada o RA: de la ficción a la apuesta de Google, Meta y Apple</a></h4>
     <a href='https://computerhoy.com/tecnologia/realidad-aumentada-ra-ficcion-apuesta-google-meta-apple-1401224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/realidad-aumentada-ar-ra-4000667.jpg?tf=1200x' alt='Qué es realidad aumentada o RA: de la ficción a la apuesta de Google, Meta y Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/solucion-problema-google-maps-tuneles-1357358'>Los túneles dejarán de ser un problema en Google Maps si activas esta opción en los ajustes </a></h4>
-    <a href='https://computerhoy.com/google/solucion-problema-google-maps-tuneles-1357358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nueva-opcion-oculta-google-maps-ya-no-te-perderas-nunca-tuneles-3262109.jpg?tf=1200x' alt='Los túneles dejarán de ser un problema en Google Maps si activas esta opción en los ajustes ' />
     </a>
 </div>
 
