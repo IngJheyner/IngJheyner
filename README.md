@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/ni-digi-ni-o2-desconocido-operador-tiene-mejor-tarifa-necesitas-dos-lineas-moviles-1401642'>Ni DIGI ni O2, este desconocido operador tiene la mejor tarifa si necesitas dos líneas móviles</a></h4>
+    <a href='https://computerhoy.com/internet/ni-digi-ni-o2-desconocido-operador-tiene-mejor-tarifa-necesitas-dos-lineas-moviles-1401642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-digi-ni-o2-desconocido-operador-tiene-mejor-tarifa-necesitas-dos-lineas-moviles-4018994.jpg?tf=1200x' alt='Ni DIGI ni O2, este desconocido operador tiene la mejor tarifa si necesitas dos líneas móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/truco-movil-aumentar-potencia-rendimiento-1399497'>El sencillo gesto que debes hacer cada día en tu móvil para aumentar al máximo su potencia y rendimiento</a></h4>
+    <a href='https://computerhoy.com/moviles/truco-movil-aumentar-potencia-rendimiento-1399497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/movil-superman-4041173.jpg?tf=1200x' alt='El sencillo gesto que debes hacer cada día en tu móvil para aumentar al máximo su potencia y rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/desconocido-truco-123-escribiras-mucho-rapido-funciona-todos-iphone-1401862'>El desconocido truco del 123: escribirás mucho más rápido y funciona en todos los iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/desconocido-truco-123-escribiras-mucho-rapido-funciona-todos-iphone-1401862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/teclado-iphone-4042235.jpg?tf=1200x' alt='El desconocido truco del 123: escribirás mucho más rápido y funciona en todos los iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/como-saber-whatsapp-espia-microfono-camara-1394885'>Así puedes saber si WhatsApp te está espiando por el micrófono o la cámara sin que lo sepas</a></h4>
     <a href='https://computerhoy.com/apps/como-saber-whatsapp-espia-microfono-camara-1394885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/trucos-saber-whatsapp-te-espiando-microfono-camara-sepas-3695531.jpg?tf=1200x' alt='Así puedes saber si WhatsApp te está espiando por el micrófono o la cámara sin que lo sepas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/tienes-estos-moviles-tontos-podria-valer-fortuna-estan-pagando-miles-euros-1400132'>Si tienes uno de estos "móviles tontos" podría valer una fortuna: están pagando miles de euros</a></h4>
     <a href='https://computerhoy.com/moviles/tienes-estos-moviles-tontos-podria-valer-fortuna-estan-pagando-miles-euros-1400132' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-estos-moviles-tontos-podria-valer-fortuna-estan-pagando-miles-euros-3946692.jpg?tf=1200x' alt='Si tienes uno de estos "móviles tontos" podría valer una fortuna: están pagando miles de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nuevo-malware-android-roba-datos-tarjetas-credito-tecnica-novedosa-1401666'>Nuevo malware para Android roba datos de tarjetas de crédito mediante una técnica novedosa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nuevo-malware-android-roba-datos-tarjetas-credito-tecnica-novedosa-1401666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/campana-malware-android-4020891.jpg?tf=1200x' alt='Nuevo malware para Android roba datos de tarjetas de crédito mediante una técnica novedosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-recomendada-stephen-king-1400084'>“Es mejor que Juego de Tronos y Breaking Bad”: la serie nórdica de Netflix que ha enamorado a Stephen King</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-recomendada-stephen-king-1400084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-3942729.jpg?tf=1200x' alt='“Es mejor que Juego de Tronos y Breaking Bad”: la serie nórdica de Netflix que ha enamorado a Stephen King' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/boton-oculto-lavavajillas-te-cambiara-vida-siempre-1398958'>El botón oculto del lavavajillas que te cambiará la vida para siempre</a></h4>
-    <a href='https://computerhoy.com/life/boton-oculto-lavavajillas-te-cambiara-vida-siempre-1398958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ubicacion-boton-secreto-lavavajillas-te-cambiara-vida-siempre-3885657.jpg?tf=1200x' alt='El botón oculto del lavavajillas que te cambiará la vida para siempre' />
     </a>
 </div>
 
