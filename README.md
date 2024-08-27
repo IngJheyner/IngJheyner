@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-frozen-ni-rey-leon-pelicula-animacion-acaba-convertir-taquillera-historia-1402068'>Ni Frozen ni El Rey León: la película de animación que se acaba de convertir en la más taquillera de la historia</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-frozen-ni-rey-leon-pelicula-animacion-acaba-convertir-taquillera-historia-1402068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/frozen-2775775.jpg?tf=1200x' alt='Ni Frozen ni El Rey León: la película de animación que se acaba de convertir en la más taquillera de la historia' />
+    <h4><a href='https://computerhoy.com/moviles/tienes-estos-moviles-tontos-podria-valer-fortuna-estan-pagando-miles-euros-1400132'>Si tienes uno de estos "móviles tontos" podría valer una fortuna: están pagando miles de euros</a></h4>
+    <a href='https://computerhoy.com/moviles/tienes-estos-moviles-tontos-podria-valer-fortuna-estan-pagando-miles-euros-1400132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-estos-moviles-tontos-podria-valer-fortuna-estan-pagando-miles-euros-3946692.jpg?tf=1200x' alt='Si tienes uno de estos "móviles tontos" podría valer una fortuna: están pagando miles de euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/realme-c61-gama-entrada-resistente-como-piedra-menos-200-euros-1402017'>Realme C61: un gama de entrada resistente como una piedra por menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/moviles/realme-c61-gama-entrada-resistente-como-piedra-menos-200-euros-1402017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/realme-c61-4040972.jpg?tf=1200x' alt='Realme C61: un gama de entrada resistente como una piedra por menos de 200 euros' />
+    <h4><a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-recomendada-stephen-king-1400084'>“Es mejor que Juego de Tronos y Breaking Bad”: la serie nórdica de Netflix que ha enamorado a Stephen King</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-recomendada-stephen-king-1400084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-3942729.jpg?tf=1200x' alt='“Es mejor que Juego de Tronos y Breaking Bad”: la serie nórdica de Netflix que ha enamorado a Stephen King' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/inteligencia-artificial-arc-llega-fin-moviles-android-1401998'>La inteligencia artificial de Arc llega por fin a los móviles Android</a></h4>
-    <a href='https://computerhoy.com/moviles/inteligencia-artificial-arc-llega-fin-moviles-android-1401998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-arc-search-llega-fin-dispositivos-android-4041176.jpg?tf=1200x' alt='La inteligencia artificial de Arc llega por fin a los móviles Android' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/nuevo-malware-android-roba-datos-tarjetas-credito-tecnica-novedosa-1401666'>Nuevo malware para Android roba datos de tarjetas de crédito mediante una técnica novedosa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nuevo-malware-android-roba-datos-tarjetas-credito-tecnica-novedosa-1401666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/campana-malware-android-4020891.jpg?tf=1200x' alt='Nuevo malware para Android roba datos de tarjetas de crédito mediante una técnica novedosa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/steve-jobs-pago-100000-dolares-logo-historia-fascinante-yo-te-resuelvo-problema-me-pagas-1401987'>Steve Jobs pagó 100.000 dólares por un logo con una historia fascinante: "Yo te resuelvo el problema y tú me pagas"</a></h4>
-    <a href='https://computerhoy.com/apple/steve-jobs-pago-100000-dolares-logo-historia-fascinante-yo-te-resuelvo-problema-me-pagas-1401987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/steve-jobs-next-4040809.jpg?tf=1200x' alt='Steve Jobs pagó 100.000 dólares por un logo con una historia fascinante: "Yo te resuelvo el problema y tú me pagas"' />
+    <h4><a href='https://computerhoy.com/life/boton-oculto-lavavajillas-te-cambiara-vida-siempre-1398958'>El botón oculto del lavavajillas que te cambiará la vida para siempre</a></h4>
+    <a href='https://computerhoy.com/life/boton-oculto-lavavajillas-te-cambiara-vida-siempre-1398958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ubicacion-boton-secreto-lavavajillas-te-cambiara-vida-siempre-3885657.jpg?tf=1200x' alt='El botón oculto del lavavajillas que te cambiará la vida para siempre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/android-auto-radio-fm-coche-1396234'>Google escucha las súplicas de los usuarios: la radio FM llegará a Android Auto</a></h4>
-    <a href='https://computerhoy.com/google/android-auto-radio-fm-coche-1396234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-puedo-saber-mi-coche-compatible-android-auto-3497636.jpg?tf=1200x' alt='Google escucha las súplicas de los usuarios: la radio FM llegará a Android Auto' />
+    <h4><a href='https://computerhoy.com/gaming/playstation-5-pro-podria-ser-inminente-filtran-nuevas-especificaciones-posible-precio-1402043'>PlayStation 5 Pro podría ser inminente: se filtran nuevas especificaciones y su posible precio</a></h4>
+    <a href='https://computerhoy.com/gaming/playstation-5-pro-podria-ser-inminente-filtran-nuevas-especificaciones-posible-precio-1402043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/playstation-5-pro-podria-ser-inminente-filtran-nuevas-especificaciones-posible-precio-4041547.jpg?tf=1200x' alt='PlayStation 5 Pro podría ser inminente: se filtran nuevas especificaciones y su posible precio' />
     </a>
 </div>
 
