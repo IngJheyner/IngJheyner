@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/xiaomi-confirma-moviles-actualizaran-android-15-hyperos-20-estos-son-21-elegidos-1402127'>Xiaomi confirma qué móviles se actualizarán a Android 15 con HyperOS 2.0: estos son los 21 elegidos</a></h4>
+    <a href='https://computerhoy.com/android/xiaomi-confirma-moviles-actualizaran-android-15-hyperos-20-estos-son-21-elegidos-1402127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienda-xiaomi-4044153.jpg?tf=1200x' alt='Xiaomi confirma qué móviles se actualizarán a Android 15 con HyperOS 2.0: estos son los 21 elegidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/metodo-japones-bajar-temperatura-coche-rapido-1263434'>Cómo enfriar el coche rápidamente para no derretirte al volante con el “truco japonés”</a></h4>
+    <a href='https://computerhoy.com/motor/metodo-japones-bajar-temperatura-coche-rapido-1263434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/enfriar-coche-metodo-japones-4041898.jpg?tf=1200x' alt='Cómo enfriar el coche rápidamente para no derretirte al volante con el “truco japonés”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-star-wars-ni-star-trek-mejor-serie-ciencia-ficcion-punto-vista-cientifico-amazon-prime-video-1402072'>Ni Star Wars ni Star Trek, esta es la mejor serie de ciencia ficción desde un punto de vista científico, y está en Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-star-wars-ni-star-trek-mejor-serie-ciencia-ficcion-punto-vista-cientifico-amazon-prime-video-1402072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejor-serie-ciencia-ficcion-punto-vista-cientifico-amazon-prime-video-4042058.jpg?tf=1200x' alt='Ni Star Wars ni Star Trek, esta es la mejor serie de ciencia ficción desde un punto de vista científico, y está en Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/extensiones-peligrosas-google-chrome-1395724'>Si usas alguna de estas populares extensiones de Google Chrome, bórralas: están registrando todos tus movimientos online</a></h4>
     <a href='https://computerhoy.com/internet/extensiones-peligrosas-google-chrome-1395724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Si usas alguna de estas populares extensiones de Google Chrome, bórralas: están registrando todos tus movimientos online' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ni-apple-ha-hecho-marca-da-vuelta-airtag-vende-tarjeta-hace-mismo-1401955'>Ni Apple lo ha hecho: esta marca le da una vuelta al AirTag y vende una tarjeta que hace lo mismo</a></h4>
     <a href='https://computerhoy.com/tecnologia/ni-apple-ha-hecho-marca-da-vuelta-airtag-vende-tarjeta-hace-mismo-1401955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/atuvos-air-tracker-card-4040180.jpg?tf=1200x' alt='Ni Apple lo ha hecho: esta marca le da una vuelta al AirTag y vende una tarjeta que hace lo mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/funcion-debes-desactivar-inmediato-movil-android-evitar-google-te-espie-1400148'>La función que debes desactivar de inmediato de tu móvil Android para evitar que Google te espíe</a></h4>
-    <a href='https://computerhoy.com/android/funcion-debes-desactivar-inmediato-movil-android-evitar-google-te-espie-1400148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/funcion-debes-desactivar-inmediato-movil-android-evitar-google-te-espie-3947434.jpg?tf=1200x' alt='La función que debes desactivar de inmediato de tu móvil Android para evitar que Google te espíe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-integrar-tarjeta-sd-como-memoria-interna-movil-android-1402105'>Cómo integrar una tarjeta SD como memoria interna en un móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-integrar-tarjeta-sd-como-memoria-interna-movil-android-1402105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-integrar-tarjeta-sd-como-memoria-interna-movil-android-4043530.jpg?tf=1200x' alt='Cómo integrar una tarjeta SD como memoria interna en un móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/compra-disco-duro-nuevo-encuentra-tesoro-digital-1398478'>Compra un disco duro “nuevo” y encuentra en un tesoro digital valorado en miles de euros</a></h4>
-    <a href='https://computerhoy.com/life/compra-disco-duro-nuevo-encuentra-tesoro-digital-1398478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-3856951.jpg?tf=1200x' alt='Compra un disco duro “nuevo” y encuentra en un tesoro digital valorado en miles de euros' />
     </a>
 </div>
 
