@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/ciencia-ha-explicado-fin-comida-sabe-peor-espacio-1401847'>La ciencia ha explicado por fin por qué la comida sabe peor en el espacio</a></h4>
-    <a href='https://computerhoy.com/espacio/ciencia-ha-explicado-fin-comida-sabe-peor-espacio-1401847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ciencia-explica-fin-comida-sabe-peor-espacio-4034323.jpg?tf=1200x' alt='La ciencia ha explicado por fin por qué la comida sabe peor en el espacio' />
+    <h4><a href='https://computerhoy.com/ciencia/hay-senales-universo-ocultas-3500-metros-mediterraneo-cientificos-hallan-pruebas-1401816'>Hay señales del universo ocultas a 3.500 metros bajo el Mediterráneo: científicos hallan pruebas</a></h4>
+    <a href='https://computerhoy.com/ciencia/hay-senales-universo-ocultas-3500-metros-mediterraneo-cientificos-hallan-pruebas-1401816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oceano-4034320.jpg?tf=1200x' alt='Hay señales del universo ocultas a 3.500 metros bajo el Mediterráneo: científicos hallan pruebas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/empleados-nvidia-millonarios-no-pueden-disfrutarlo-1401928'>La mayoría de los empleados de Nvidia se han vuelto millonarios, pero no pueden disfrutarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/empleados-nvidia-millonarios-no-pueden-disfrutarlo-1401928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mayoria-empleados-nvidia-han-vuelto-millonarios-pero-no-pueden-disfrutarlo-4037653.jpg?tf=1200x' alt='La mayoría de los empleados de Nvidia se han vuelto millonarios, pero no pueden disfrutarlo' />
+    <h4><a href='https://computerhoy.com/windows/modo-super-dios-windows-como-funciona-todo-puedes-hacer-1401917'>Qué es el Modo Super Dios de Windows, cómo funciona y todo lo que puedes hacer con él</a></h4>
+    <a href='https://computerhoy.com/windows/modo-super-dios-windows-como-funciona-todo-puedes-hacer-1401917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/modo-super-dios-windows-como-funciona-todo-puedes-hacer-4039582.jpg?tf=1200x' alt='Qué es el Modo Super Dios de Windows, cómo funciona y todo lo que puedes hacer con él' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/futbol-gratis-iptv-telegram-arrasan-audiencia-como-protesta-altos-precios-operadores-1401916'>El fútbol gratis por IPTV y Telegram arrasan en audiencia como protesta ante los altos precios de los operadores</a></h4>
-    <a href='https://computerhoy.com/internet/futbol-gratis-iptv-telegram-arrasan-audiencia-como-protesta-altos-precios-operadores-1401916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/futbol-gratis-iptv-telegram-arrasan-audiencia-como-protesta-altos-precios-operadores-4037804.jpg?tf=1200x' alt='El fútbol gratis por IPTV y Telegram arrasan en audiencia como protesta ante los altos precios de los operadores' />
+    <h4><a href='https://computerhoy.com/pc/historia-informatica-microsoft-cambia-forma-pegar-texto-40-anos-despues-1401823'>Historia de la informática: Microsoft cambia la forma de pegar un texto más de 40 años después</a></h4>
+    <a href='https://computerhoy.com/pc/historia-informatica-microsoft-cambia-forma-pegar-texto-40-anos-despues-1401823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/historia-informatica-microsoft-cambia-forma-pegar-texto-40-anos-despues-4033977.jpg?tf=1200x' alt='Historia de la informática: Microsoft cambia la forma de pegar un texto más de 40 años después' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ikea-preowned-venta-muebles-ikea-segunda-mano-1401924'>Ikea Preowned se estrena para que vendas tus muebles Ikea de segunda mano</a></h4>
-    <a href='https://computerhoy.com/hogar/ikea-preowned-venta-muebles-ikea-segunda-mano-1401924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ikea-preowned-estrena-vendas-muebles-ikea-segunda-mano-4037207.jpg?tf=1200x' alt='Ikea Preowned se estrena para que vendas tus muebles Ikea de segunda mano' />
+    <h4><a href='https://computerhoy.com/entretenimiento/modo-cine-filmmaker-televisor-como-activar-1268520'>Para qué sirve el modo cine (o filmmaker) de tu televisor y cómo aprender a activarlo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/modo-cine-filmmaker-televisor-como-activar-1268520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/sirve-modo-cine-televisor-deberias-usarlo-3071980.jpg?tf=1200x' alt='Para qué sirve el modo cine (o filmmaker) de tu televisor y cómo aprender a activarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/era-juego-lucha-olvidado-sega-tambien-tendra-pelicula-imagen-real-1401577'>Así era el juego de lucha olvidado de Sega que también tendrá película de imagen real</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/era-juego-lucha-olvidado-sega-tambien-tendra-pelicula-imagen-real-1401577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/era-juego-lucha-olvidado-sega-tambien-tendra-pelicula-imagen-real-4013962.jpg?tf=1200x' alt='Así era el juego de lucha olvidado de Sega que también tendrá película de imagen real' />
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-mas-potente-precio-saldo-oferta-aliexpress-1376866'>La Raspberry Pi 5 más potente, de saldo: con 8GB de RAM desde apenas 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-mas-potente-precio-saldo-oferta-aliexpress-1376866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/raspberry-pi-2284167.jpg?tf=1200x' alt='La Raspberry Pi 5 más potente, de saldo: con 8GB de RAM desde apenas 100 euros' />
     </a>
 </div>
 
