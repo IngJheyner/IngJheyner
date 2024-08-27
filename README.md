@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tengo-raton-ya-no-me-duele-mano-volveria-comprar-mil-veces-1399997'>Tengo este ratón y ya no me duele la mano: lo volvería a comprar una y mil veces</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tengo-raton-ya-no-me-duele-mano-volveria-comprar-mil-veces-1399997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/logitech-lift-2997880.jpg?tf=1200x' alt='Tengo este ratón y ya no me duele la mano: lo volvería a comprar una y mil veces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/adios-obsolescencia-programada-samsung-garantiza-7-anos-vida-smart-tv-1401965'>Adiós a la obsolescencia programada: Samsung garantiza 7 años de vida a tus Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/adios-obsolescencia-programada-samsung-garantiza-7-anos-vida-smart-tv-1401965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-q80c-3298916.jpg?tf=1200x' alt='Adiós a la obsolescencia programada: Samsung garantiza 7 años de vida a tus Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/nueva-funcion-gmail-permite-contestar-correos-aun-rapido-1401966'>Una nueva función de Gmail permite contestar los correos aún más rápido</a></h4>
+    <a href='https://computerhoy.com/google/nueva-funcion-gmail-permite-contestar-correos-aun-rapido-1401966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-funcion-gmail-permite-contestar-correos-aun-rapido-4040402.jpg?tf=1200x' alt='Una nueva función de Gmail permite contestar los correos aún más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-lista-lanzar-version-top-alexa-ia-viene-sorpresa-1401958'>Amazon lista para lanzar una versión top de Alexa con IA que viene con sorpresa</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-lista-lanzar-version-top-alexa-ia-viene-sorpresa-1401958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mejores-skills-alexa-domotizar-hogar-3799773.jpg?tf=1200x' alt='Amazon lista para lanzar una versión top de Alexa con IA que viene con sorpresa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/adios-quemados-lg-resuelve-ultima-pieza-puzzle-oled-1401942'>Adiós a los burn-in: LG resuelve la última pieza del puzzle OLED </a></h4>
     <a href='https://computerhoy.com/tv/adios-quemados-lg-resuelve-ultima-pieza-puzzle-oled-1401942' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lg-oled-3084742.jpg?tf=1200x' alt='Adiós a los burn-in: LG resuelve la última pieza del puzzle OLED ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puntos-microsoft-rewards-como-usarlos-1401401'>¿Para qué sirven los puntos de Microsoft Rewards y cómo usarlos?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puntos-microsoft-rewards-como-usarlos-1401401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ganar-dinero-microsoft-rewards-4014119.jpg?tf=1200x' alt='¿Para qué sirven los puntos de Microsoft Rewards y cómo usarlos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aspiradora-mas-barata-dyson-alternativa-cecotec-1350166'>Esta aspiradora es mucho más barata que una Dyson e igual de potente: es ideal si tienes mascotas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aspiradora-mas-barata-dyson-alternativa-cecotec-1350166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/conga-rockstar-1600-x-treme-3249405.jpg?tf=1200x' alt='Esta aspiradora es mucho más barata que una Dyson e igual de potente: es ideal si tienes mascotas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/siempre-busco-smart-tv-7-anos-probando-dispositivos-1398918'>Lo que siempre busco en una Smart TV tras 7 años probando dispositivos</a></h4>
-    <a href='https://computerhoy.com/tv/siempre-busco-smart-tv-7-anos-probando-dispositivos-1398918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/llevo-7-anos-siendo-probador-tecnologia-siempre-busco-smart-tv-3905084.jpg?tf=1200x' alt='Lo que siempre busco en una Smart TV tras 7 años probando dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sid-meier-creo-civilization-pc-10000-euros-hace-33-anos-sorprendentemente-sigue-funcionamiento-1401542'>Sid Meier creó Civilization en un PC de 10.000 euros hace 33 años, y sorprendentemente, sigue en funcionamiento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sid-meier-creo-civilization-pc-10000-euros-hace-33-anos-sorprendentemente-sigue-funcionamiento-1401542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sid-meier-hombre-creo-civilizacion-4013334.jpg?tf=1200x' alt='Sid Meier creó Civilization en un PC de 10.000 euros hace 33 años, y sorprendentemente, sigue en funcionamiento' />
     </a>
 </div>
 
