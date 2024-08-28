@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/estudio-arremete-tiktok-instagram-confirma-muchos-sospechaban-ver-videos-redes-sociales-aumenta-aburrimiento-1401868'>Un estudio arremete contra TikTok o Instagram y confirma lo que muchos sospechaban: ver vídeos en redes sociales aumenta el aburrimiento</a></h4>
-    <a href='https://computerhoy.com/internet/estudio-arremete-tiktok-instagram-confirma-muchos-sospechaban-ver-videos-redes-sociales-aumenta-aburrimiento-1401868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estudio-arremete-tiktok-instagram-confirma-muchos-sospechaban-ver-videos-redes-sociales-aumenta-aburrimiento-4034953.jpg?tf=1200x' alt='Un estudio arremete contra TikTok o Instagram y confirma lo que muchos sospechaban: ver vídeos en redes sociales aumenta el aburrimiento' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-elegir-mejor-sai-ups-1398468'>Cómo elegir el mejor SAI para mantener tus dispositivos encendidos sin electricidad </a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-elegir-mejor-sai-ups-1398468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejores-sai-ups-3856231.jpg?tf=1200x' alt='Cómo elegir el mejor SAI para mantener tus dispositivos encendidos sin electricidad ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trucos-usan-videos-robots-enganarnos-mit-1402141'>Los trucos que usan los vídeos de robots para engañarnos, según el MIT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trucos-usan-videos-robots-enganarnos-mit-1402141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/robot-optimus-elon-musk-3261673.jpg?tf=1200x' alt='Los trucos que usan los vídeos de robots para engañarnos, según el MIT' />
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-inteligente-barato-nothing-llamadas-gps-1350998'>Es difícil de creer, pero el reloj de Nothing con llamadas y GPS apenas supera los 50 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-inteligente-barato-nothing-llamadas-gps-1350998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cmf-watch-pro-nothing-3250863.jpg?tf=1200x' alt='Es difícil de creer, pero el reloj de Nothing con llamadas y GPS apenas supera los 50 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alarma-comunidad-tecnologica-sistema-inteligencia-artificial-reescribe-propio-codigo-evadir-control-humano-1401996'>Alarma en la comunidad tecnológica: un sistema de inteligencia artificial reescribe su propio código para evadir el control humano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alarma-comunidad-tecnologica-sistema-inteligencia-artificial-reescribe-propio-codigo-evadir-control-humano-1401996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ia-4040995.jpg?tf=1200x' alt='Alarma en la comunidad tecnológica: un sistema de inteligencia artificial reescribe su propio código para evadir el control humano' />
+    <h4><a href='https://computerhoy.com/entretenimiento/ha-cambiado-hollywood-protagonista-historia-interminable-revela-rodaje-pelicula-casi-acaba-1401560'>Así ha cambiado Hollywood: el protagonista de La historia interminable revela que el rodaje de la película casi acaba con él</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ha-cambiado-hollywood-protagonista-historia-interminable-revela-rodaje-pelicula-casi-acaba-1401560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ha-cambiado-hollywood-protagonista-historia-interminable-revela-rodaje-pelicula-casi-acaba-4013500.jpg?tf=1200x' alt='Así ha cambiado Hollywood: el protagonista de La historia interminable revela que el rodaje de la película casi acaba con él' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/rival-steam-deck-asus-rog-ally-oferta-amazon-1352369'>Steam Deck tiene un rival a su altura: es la ASUS ROG Ally, con Game Pass y por menos de 600 euros</a></h4>
-    <a href='https://computerhoy.com/gaming/rival-steam-deck-asus-rog-ally-oferta-amazon-1352369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/asus-rog-ally-3253204.jpg?tf=1200x' alt='Steam Deck tiene un rival a su altura: es la ASUS ROG Ally, con Game Pass y por menos de 600 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/7-cosas-espectaculares-puedes-hacer-ia-google-pixel-9-1402093'>7 cosas espectaculares que puedes hacer con la IA de los Google Pixel 9</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-cosas-espectaculares-puedes-hacer-ia-google-pixel-9-1402093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/diseno-pixel-9-google-4000653.jpg?tf=1200x' alt='7 cosas espectaculares que puedes hacer con la IA de los Google Pixel 9' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-smartphones-apostando-telefonos-tontos-tendencia-1267776'>¿Es el fin de la era del smartphone? El auge de los 'móviles tontos' está marcando un cambio de tendencia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-smartphones-apostando-telefonos-tontos-tendencia-1267776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/generacion-z-muy-retro-nostalgia-desconexion-digital-privacidad-siglo-xxi-3070646.jpg?tf=1200x' alt='¿Es el fin de la era del smartphone? El auge de los 'móviles tontos' está marcando un cambio de tendencia' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-calidad-intensidad-senal-wifi-consejos-mejorarla-1401720'>Cómo comprobar la calidad y la intensidad de tu señal WiFi y consejos para mejorarla</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-comprobar-calidad-intensidad-senal-wifi-consejos-mejorarla-1401720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/senal-wifi-4042228.jpg?tf=1200x' alt='Cómo comprobar la calidad y la intensidad de tu señal WiFi y consejos para mejorarla' />
     </a>
 </div>
 
