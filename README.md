@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-pantalla-negra-sonido-netflix-1401013'>Cómo solucionar el error de pantalla negra sin sonido de Netflix</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-pantalla-negra-sonido-netflix-1401013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/netflix-plataforma-streaming-3993602.jpg?tf=1200x' alt='Cómo solucionar el error de pantalla negra sin sonido de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/agujeros-negros-podrian-proporcionar-energia-ilimitada-tierra-pero-no-existe-forma-recogerla-1401890'>Los agujeros negros podrían proporcionar energía ilimitada para la Tierra, pero no existe la forma de recogerla</a></h4>
     <a href='https://computerhoy.com/espacio/agujeros-negros-podrian-proporcionar-energia-ilimitada-tierra-pero-no-existe-forma-recogerla-1401890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/agujeros-negros-podrian-proporcionar-energia-ilimitada-tierra-pero-no-existe-forma-recogerla-4035650.jpg?tf=1200x' alt='Los agujeros negros podrían proporcionar energía ilimitada para la Tierra, pero no existe la forma de recogerla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/filtrados-precios-iphone-16-cuanto-van-costar-1402204'>Filtrados los precios de los iPhone 16: ¿Cuánto van a costar?</a></h4>
     <a href='https://computerhoy.com/apple/filtrados-precios-iphone-16-cuanto-van-costar-1402204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gran-baza-apple-iphone-16-pro-max-pasa-reinventar-bateria-3797306.jpg?tf=1200x' alt='Filtrados los precios de los iPhone 16: ¿Cuánto van a costar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/video-viral-youtube-promete-eliminar-agua-movil-sonido-magico-1402243'>Un vídeo viral de YouTube promete eliminar el agua del móvil con un sonido "mágico"</a></h4>
-    <a href='https://computerhoy.com/moviles/video-viral-youtube-promete-eliminar-agua-movil-sonido-magico-1402243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/video-viral-youtube-promete-eliminar-agua-movil-sonido-magico-4048925.jpg?tf=1200x' alt='Un vídeo viral de YouTube promete eliminar el agua del móvil con un sonido "mágico"' />
     </a>
 </div>
 
