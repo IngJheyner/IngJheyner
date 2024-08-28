@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/codigo-secreto-whatsapp-protege-chats-privados-1400871'>Código secreto de WhatsApp: protege y esconde tus chats más privados de miradas indiscretas</a></h4>
+    <a href='https://computerhoy.com/apps/codigo-secreto-whatsapp-protege-chats-privados-1400871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-funciona-codigo-secreto-whatsapp-protege-esconde-chats-privados-3989247.jpg?tf=1200x' alt='Código secreto de WhatsApp: protege y esconde tus chats más privados de miradas indiscretas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-actualiza-nuevas-formas-colores-pines-ubicaciones-1402332'>Google Maps se actualiza con nuevas formas y colores para los pines de ubicaciones</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-actualiza-nuevas-formas-colores-pines-ubicaciones-1402332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-maps-4051168.jpg?tf=1200x' alt='Google Maps se actualiza con nuevas formas y colores para los pines de ubicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-pelicula-vista-historia-230-millones-personas-no-pueden-equivocarse-1401728'>Está en Netflix y es la película más vista de la historia: más 230 millones de personas no pueden equivocarse</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-pelicula-vista-historia-230-millones-personas-no-pueden-equivocarse-1401728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alerta-roja-4049082.jpg?tf=1200x' alt='Está en Netflix y es la película más vista de la historia: más 230 millones de personas no pueden equivocarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/codigos-virales-ligar-mercadona-alimentos-frutas-significa-cada-1402330'>Códigos virales para ligar en Mercadona: alimentos, frutas y qué significa cada uno</a></h4>
     <a href='https://computerhoy.com/life/codigos-virales-ligar-mercadona-alimentos-frutas-significa-cada-1402330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pareja-supermercado-4051162.jpg?tf=1200x' alt='Códigos virales para ligar en Mercadona: alimentos, frutas y qué significa cada uno' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/funcion-whatsapp-desactivar-evitar-estafas-1400700'>Esta opción de WhatsApp está activada por defecto en tu móvil: desactívala ahora mismo para evitar estafas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/funcion-whatsapp-desactivar-evitar-estafas-1400700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estafas-whatsapp-3983542.jpg?tf=1200x' alt='Esta opción de WhatsApp está activada por defecto en tu móvil: desactívala ahora mismo para evitar estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/dos-funciones-movil-mejoran-calidad-cobertura-llamadas-seguramente-tienes-desactivadas-1402140'>Las dos funciones de tu móvil que mejoran la calidad y cobertura de las llamadas y que seguramente tienes desactivadas</a></h4>
-    <a href='https://computerhoy.com/redes/dos-funciones-movil-mejoran-calidad-cobertura-llamadas-seguramente-tienes-desactivadas-1402140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dos-funciones-movil-mejoran-calidad-cobertura-llamadas-seguramente-tienes-desactivadas-4046406.jpg?tf=1200x' alt='Las dos funciones de tu móvil que mejoran la calidad y cobertura de las llamadas y que seguramente tienes desactivadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/hombre-intenta-fotocopiar-dinero-realiza-descubrimiento-sorprendente-1402312'>Un hombre intenta fotocopiar dinero y realiza un descubrimiento sorprendente</a></h4>
-    <a href='https://computerhoy.com/internet/hombre-intenta-fotocopiar-dinero-realiza-descubrimiento-sorprendente-1402312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hombre-intenta-fotocopiar-dinero-realiza-descubrimiento-sorprendente-4050845.jpg?tf=1200x' alt='Un hombre intenta fotocopiar dinero y realiza un descubrimiento sorprendente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/alerta-robar-coche-sin-llave-1398078'>Alerta por la nueva forma de robarte el coche: sin llave y en menos de 2 minutos</a></h4>
-    <a href='https://computerhoy.com/motor/alerta-robar-coche-sin-llave-1398078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/descubren-nueva-forma-robarte-coche-llave-menos-2-minutos-3843746.jpg?tf=1200x' alt='Alerta por la nueva forma de robarte el coche: sin llave y en menos de 2 minutos' />
     </a>
 </div>
 
