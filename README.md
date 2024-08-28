@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/filtrados-precios-iphone-16-cuanto-van-costar-1402204'>Filtrados los precios de los iPhone 16: ¿Cuánto van a costar?</a></h4>
+    <a href='https://computerhoy.com/apple/filtrados-precios-iphone-16-cuanto-van-costar-1402204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gran-baza-apple-iphone-16-pro-max-pasa-reinventar-bateria-3797306.jpg?tf=1200x' alt='Filtrados los precios de los iPhone 16: ¿Cuánto van a costar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/video-viral-youtube-promete-eliminar-agua-movil-sonido-magico-1402243'>Un vídeo viral de YouTube promete eliminar el agua del móvil con un sonido "mágico"</a></h4>
+    <a href='https://computerhoy.com/moviles/video-viral-youtube-promete-eliminar-agua-movil-sonido-magico-1402243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/video-viral-youtube-promete-eliminar-agua-movil-sonido-magico-4048925.jpg?tf=1200x' alt='Un vídeo viral de YouTube promete eliminar el agua del móvil con un sonido "mágico"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/como-ver-gratis-3000-canales-tdt-sin-instalar-aplicaciones-1298682'>Cómo ver gratis más de 3.000 canales de TDT de todo el mundo sin instalar aplicaciones</a></h4>
+    <a href='https://computerhoy.com/tv/como-ver-gratis-3000-canales-tdt-sin-instalar-aplicaciones-1298682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-gratis-3000-canales-tdt-todo-mundo-instalar-nada-3123998.jpg?tf=1200x' alt='Cómo ver gratis más de 3.000 canales de TDT de todo el mundo sin instalar aplicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/baratas-eficientes-japon-encuentra-alternativa-cobalto-baterias-litio-1402208'>Más baratas y eficientes: Japón encuentra una alternativa al cobalto para las baterías de litio</a></h4>
     <a href='https://computerhoy.com/energia/baratas-eficientes-japon-encuentra-alternativa-cobalto-baterias-litio-1402208' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/baterias-litio-coche-japon-4048272.jpg?tf=1200x' alt='Más baratas y eficientes: Japón encuentra una alternativa al cobalto para las baterías de litio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/sorpresa-mercado-bmw-desbanca-tesla-como-rey-electricos-europa-1402214'>¡Sorpresa en el mercado! BMW desbanca a Tesla como rey de los eléctricos en Europa</a></h4>
     <a href='https://computerhoy.com/motor/sorpresa-mercado-bmw-desbanca-tesla-como-rey-electricos-europa-1402214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sorpresa-mercado-bmw-desbanca-tesla-como-rey-electricos-europa-4048439.jpg?tf=1200x' alt='¡Sorpresa en el mercado! BMW desbanca a Tesla como rey de los eléctricos en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/airpods-max-estan-rebajas-esperabas-ahora-momento-comprarlos-1401485'>Los AirPods Max están de rebajas: si los esperabas, ahora es el momento de comprarlos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/airpods-max-estan-rebajas-esperabas-ahora-momento-comprarlos-1401485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/airpods-max-4012213.jpg?tf=1200x' alt='Los AirPods Max están de rebajas: si los esperabas, ahora es el momento de comprarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/eres-nunca-leen-mensajes-whatsapp-nueva-funcion-ti-1402193'>Si eres de los que nunca leen los mensajes de WhatsApp, esta nueva función es para ti</a></h4>
-    <a href='https://computerhoy.com/apps/eres-nunca-leen-mensajes-whatsapp-nueva-funcion-ti-1402193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/eres-nunca-leen-mensajes-whatsapp-nueva-funcion-ti-4048111.jpg?tf=1200x' alt='Si eres de los que nunca leen los mensajes de WhatsApp, esta nueva función es para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-escucha-quejas-lanza-actualizacion-mejorar-rendimiento-procesadores-ryzen-9000-7000-1402184'>Microsoft escucha las quejas y lanza una actualización para mejorar el rendimiento de los procesadores Ryzen 9000 y 7000</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-escucha-quejas-lanza-actualizacion-mejorar-rendimiento-procesadores-ryzen-9000-7000-1402184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/error-windows-reduce-rendimiento-procesadores-ryzen-9000-7000-puedes-solucionarlo-3966161.jpg?tf=1200x' alt='Microsoft escucha las quejas y lanza una actualización para mejorar el rendimiento de los procesadores Ryzen 9000 y 7000' />
     </a>
 </div>
 
