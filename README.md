@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/agujeros-negros-podrian-proporcionar-energia-ilimitada-tierra-pero-no-existe-forma-recogerla-1401890'>Los agujeros negros podrían proporcionar energía ilimitada para la Tierra, pero no existe la forma de recogerla</a></h4>
+    <a href='https://computerhoy.com/espacio/agujeros-negros-podrian-proporcionar-energia-ilimitada-tierra-pero-no-existe-forma-recogerla-1401890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/agujeros-negros-podrian-proporcionar-energia-ilimitada-tierra-pero-no-existe-forma-recogerla-4035650.jpg?tf=1200x' alt='Los agujeros negros podrían proporcionar energía ilimitada para la Tierra, pero no existe la forma de recogerla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/finetwork-digi-fibra-600-mb-dos-lineas-5g-television-futbol-precio-derribo-1402219'>Finetwork a por DIGI: fibra 600 Mb, dos líneas 5G y televisión con fútbol a precio de derribo</a></h4>
+    <a href='https://computerhoy.com/moviles/finetwork-digi-fibra-600-mb-dos-lineas-5g-television-futbol-precio-derribo-1402219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/finetwork-digi-fibra-600-mb-dos-lineas-5g-television-futbol-precio-derribo-4048498.jpg?tf=1200x' alt='Finetwork a por DIGI: fibra 600 Mb, dos líneas 5G y televisión con fútbol a precio de derribo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-clasico-stephen-king-fin-1401150'>Tras más de 30 años de espera se estrenará el gran clásico de Stephen King</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estrenos-clasico-stephen-king-fin-1401150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gran-clasico-stephen-king-fin-estrenara-halloween-despues-30-anos-espera-3998419.jpg?tf=1200x' alt='Tras más de 30 años de espera se estrenará el gran clásico de Stephen King' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/filtrados-precios-iphone-16-cuanto-van-costar-1402204'>Filtrados los precios de los iPhone 16: ¿Cuánto van a costar?</a></h4>
     <a href='https://computerhoy.com/apple/filtrados-precios-iphone-16-cuanto-van-costar-1402204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gran-baza-apple-iphone-16-pro-max-pasa-reinventar-bateria-3797306.jpg?tf=1200x' alt='Filtrados los precios de los iPhone 16: ¿Cuánto van a costar?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/video-viral-youtube-promete-eliminar-agua-movil-sonido-magico-1402243'>Un vídeo viral de YouTube promete eliminar el agua del móvil con un sonido "mágico"</a></h4>
     <a href='https://computerhoy.com/moviles/video-viral-youtube-promete-eliminar-agua-movil-sonido-magico-1402243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/video-viral-youtube-promete-eliminar-agua-movil-sonido-magico-4048925.jpg?tf=1200x' alt='Un vídeo viral de YouTube promete eliminar el agua del móvil con un sonido "mágico"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/como-ver-gratis-3000-canales-tdt-sin-instalar-aplicaciones-1298682'>Cómo ver gratis más de 3.000 canales de TDT de todo el mundo sin instalar aplicaciones</a></h4>
-    <a href='https://computerhoy.com/tv/como-ver-gratis-3000-canales-tdt-sin-instalar-aplicaciones-1298682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-ver-gratis-3000-canales-tdt-todo-mundo-instalar-nada-3123998.jpg?tf=1200x' alt='Cómo ver gratis más de 3.000 canales de TDT de todo el mundo sin instalar aplicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/baratas-eficientes-japon-encuentra-alternativa-cobalto-baterias-litio-1402208'>Más baratas y eficientes: Japón encuentra una alternativa al cobalto para las baterías de litio</a></h4>
-    <a href='https://computerhoy.com/energia/baratas-eficientes-japon-encuentra-alternativa-cobalto-baterias-litio-1402208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/baterias-litio-coche-japon-4048272.jpg?tf=1200x' alt='Más baratas y eficientes: Japón encuentra una alternativa al cobalto para las baterías de litio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/sorpresa-mercado-bmw-desbanca-tesla-como-rey-electricos-europa-1402214'>¡Sorpresa en el mercado! BMW desbanca a Tesla como rey de los eléctricos en Europa</a></h4>
-    <a href='https://computerhoy.com/motor/sorpresa-mercado-bmw-desbanca-tesla-como-rey-electricos-europa-1402214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sorpresa-mercado-bmw-desbanca-tesla-como-rey-electricos-europa-4048439.jpg?tf=1200x' alt='¡Sorpresa en el mercado! BMW desbanca a Tesla como rey de los eléctricos en Europa' />
     </a>
 </div>
 
