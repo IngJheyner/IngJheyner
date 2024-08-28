@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/flexduino-version-arduino-dobla-flexiona-reta-raspberry-pi-1402134'>Flexduino, la versión de Arduino que se dobla y flexiona que reta a Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flexduino-version-arduino-dobla-flexiona-reta-raspberry-pi-1402134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/flexduino-version-arduino-dobla-flexiona-reta-raspberry-pi-4045211.jpg?tf=1200x' alt='Flexduino, la versión de Arduino que se dobla y flexiona que reta a Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/consigue-hackear-codigo-activacion-windows-xp-solo-ha-necesitado-20-anos-nada-conseguirlo-1402124'>Consigue hackear el código de activación de Windows XP: solo ha necesitado 20 años de nada para conseguirlo</a></h4>
     <a href='https://computerhoy.com/windows/consigue-hackear-codigo-activacion-windows-xp-solo-ha-necesitado-20-anos-nada-conseguirlo-1402124' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/consigue-hackear-codigo-activacion-windows-xp-solo-ha-necesitado-20-anos-nada-conseguirlo-4044893.jpg?tf=1200x' alt='Consigue hackear el código de activación de Windows XP: solo ha necesitado 20 años de nada para conseguirlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/boton-router-wifi-tan-util-como-peligroso-piensatelo-dos-veces-desactivalo-1402115'>Este botón del router WiFi es tan útil como peligroso: piénsatelo dos veces o desactívalo</a></h4>
     <a href='https://computerhoy.com/redes/boton-router-wifi-tan-util-como-peligroso-piensatelo-dos-veces-desactivalo-1402115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/boton-router-wifi-tan-util-como-peligroso-piensatelo-dos-veces-desactivalo-4043996.jpg?tf=1200x' alt='Este botón del router WiFi es tan útil como peligroso: piénsatelo dos veces o desactívalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/iptv-por-que-es-mala-idea-utilizarlo-477219'>Qué es IPTV, cómo funciona y por qué es una mala idea utilizarlo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/iptv-por-que-es-mala-idea-utilizarlo-477219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/iptv-como-funciona-mala-idea-utilizarlo-3717648.jpg?tf=1200x' alt='Qué es IPTV, cómo funciona y por qué es una mala idea utilizarlo' />
     </a>
 </div>
 
