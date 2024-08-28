@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/motor-combustion-revolucionario-promete-cambiar-juego-competencia-coche-electrico-1402042'>Un motor de combustión revolucionario promete cambiar el juego: ¿la competencia del coche eléctrico?</a></h4>
+    <a href='https://computerhoy.com/energia/motor-combustion-revolucionario-promete-cambiar-juego-competencia-coche-electrico-1402042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/motor-4042062.jpg?tf=1200x' alt='Un motor de combustión revolucionario promete cambiar el juego: ¿la competencia del coche eléctrico?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/flexduino-version-arduino-dobla-flexiona-reta-raspberry-pi-1402134'>Flexduino, la versión de Arduino que se dobla y flexiona que reta a Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/tecnologia/flexduino-version-arduino-dobla-flexiona-reta-raspberry-pi-1402134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/flexduino-version-arduino-dobla-flexiona-reta-raspberry-pi-4045211.jpg?tf=1200x' alt='Flexduino, la versión de Arduino que se dobla y flexiona que reta a Raspberry Pi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/todo-wifi-como-mejorar-senal-lenta-dispositivos-consejos-redes-publicas-1401312'>Todo sobre WiFi: cómo mejorar una señal lenta, dispositivos y consejos en redes públicas</a></h4>
     <a href='https://computerhoy.com/redes/todo-wifi-como-mejorar-senal-lenta-dispositivos-consejos-redes-publicas-1401312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-3688410.jpg?tf=1200x' alt='Todo sobre WiFi: cómo mejorar una señal lenta, dispositivos y consejos en redes públicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/boton-router-wifi-tan-util-como-peligroso-piensatelo-dos-veces-desactivalo-1402115'>Este botón del router WiFi es tan útil como peligroso: piénsatelo dos veces o desactívalo</a></h4>
-    <a href='https://computerhoy.com/redes/boton-router-wifi-tan-util-como-peligroso-piensatelo-dos-veces-desactivalo-1402115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/boton-router-wifi-tan-util-como-peligroso-piensatelo-dos-veces-desactivalo-4043996.jpg?tf=1200x' alt='Este botón del router WiFi es tan útil como peligroso: piénsatelo dos veces o desactívalo' />
     </a>
 </div>
 
