@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-aventura-ultrarresistente-marca-top-ademas-100-euros-barato-1401474'>Este reloj de aventura es ultrarresistente, de marca top y además 100 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-aventura-ultrarresistente-marca-top-ademas-100-euros-barato-1401474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/suunto-vertical-4011898.jpg?tf=1200x' alt='Este reloj de aventura es ultrarresistente, de marca top y además 100 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-gemini-pronto-podra-gestionar-mensajes-whatsapp-notificaciones-1402175'>Google Gemini pronto podrá gestionar tus mensajes de WhatsApp y notificaciones</a></h4>
+    <a href='https://computerhoy.com/google/google-gemini-pronto-podra-gestionar-mensajes-whatsapp-notificaciones-1402175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gemini-ia-google-3298187.jpg?tf=1200x' alt='Google Gemini pronto podrá gestionar tus mensajes de WhatsApp y notificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/misteriosa-caida-cadena-varias-webs-pirateria-iptv-millones-usuarios-1402164'>Misteriosa caída en cadena de varias webs de piratería e IPTV con millones de usuarios</a></h4>
+    <a href='https://computerhoy.com/tv/misteriosa-caida-cadena-varias-webs-pirateria-iptv-millones-usuarios-1402164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/webs-pirata-4047779.jpg?tf=1200x' alt='Misteriosa caída en cadena de varias webs de piratería e IPTV con millones de usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/invento-quiere-facilitarte-vida-trabajo-notepin-dispositivo-wearable-ia-1402004'>El invento que quiere facilitarte la vida en el trabajo: así es NotePin, el dispositivo wearable con IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/invento-quiere-facilitarte-vida-trabajo-notepin-dispositivo-wearable-ia-1402004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/notepin-dispositivo-wearable-ia-4041185.jpg?tf=1200x' alt='El invento que quiere facilitarte la vida en el trabajo: así es NotePin, el dispositivo wearable con IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/policia-estados-unidos-usando-ia-redactar-informes-policiales-1402151'>La policía de Estados Unidos está usando IA para redactar informes policiales</a></h4>
     <a href='https://computerhoy.com/tecnologia/policia-estados-unidos-usando-ia-redactar-informes-policiales-1402151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/polemica-policia-estados-unidos-usando-ia-redactar-informes-policiales-4047149.jpg?tf=1200x' alt='La policía de Estados Unidos está usando IA para redactar informes policiales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-elegir-mejor-sai-ups-1398468'>Cómo elegir el mejor SAI para mantener tus dispositivos encendidos sin electricidad </a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-elegir-mejor-sai-ups-1398468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejores-sai-ups-3856231.jpg?tf=1200x' alt='Cómo elegir el mejor SAI para mantener tus dispositivos encendidos sin electricidad ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-inteligente-barato-nothing-llamadas-gps-1350998'>Es difícil de creer, pero el reloj de Nothing con llamadas y GPS apenas supera los 50 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-inteligente-barato-nothing-llamadas-gps-1350998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cmf-watch-pro-nothing-3250863.jpg?tf=1200x' alt='Es difícil de creer, pero el reloj de Nothing con llamadas y GPS apenas supera los 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ha-cambiado-hollywood-protagonista-historia-interminable-revela-rodaje-pelicula-casi-acaba-1401560'>Así ha cambiado Hollywood: el protagonista de La historia interminable revela que el rodaje de la película casi acaba con él</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ha-cambiado-hollywood-protagonista-historia-interminable-revela-rodaje-pelicula-casi-acaba-1401560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ha-cambiado-hollywood-protagonista-historia-interminable-revela-rodaje-pelicula-casi-acaba-4013500.jpg?tf=1200x' alt='Así ha cambiado Hollywood: el protagonista de La historia interminable revela que el rodaje de la película casi acaba con él' />
     </a>
 </div>
 
