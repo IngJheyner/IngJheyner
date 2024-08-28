@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-aventura-ultrarresistente-marca-top-ademas-100-euros-barato-1401474'>Este reloj de aventura es ultrarresistente, de marca top y además 100 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-aventura-ultrarresistente-marca-top-ademas-100-euros-barato-1401474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/suunto-vertical-4011898.jpg?tf=1200x' alt='Este reloj de aventura es ultrarresistente, de marca top y además 100 euros más barato' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-escucha-quejas-lanza-actualizacion-mejorar-rendimiento-procesadores-ryzen-9000-7000-1402184'>Microsoft escucha las quejas y lanza una actualización para mejorar el rendimiento de los procesadores Ryzen 9000 y 7000</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-escucha-quejas-lanza-actualizacion-mejorar-rendimiento-procesadores-ryzen-9000-7000-1402184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/error-windows-reduce-rendimiento-procesadores-ryzen-9000-7000-puedes-solucionarlo-3966161.jpg?tf=1200x' alt='Microsoft escucha las quejas y lanza una actualización para mejorar el rendimiento de los procesadores Ryzen 9000 y 7000' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-gemini-pronto-podra-gestionar-mensajes-whatsapp-notificaciones-1402175'>Google Gemini pronto podrá gestionar tus mensajes de WhatsApp y notificaciones</a></h4>
-    <a href='https://computerhoy.com/google/google-gemini-pronto-podra-gestionar-mensajes-whatsapp-notificaciones-1402175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gemini-ia-google-3298187.jpg?tf=1200x' alt='Google Gemini pronto podrá gestionar tus mensajes de WhatsApp y notificaciones' />
+    <h4><a href='https://computerhoy.com/tecnologia/reader-ia-gratuita-lee-cualquier-texto-ya-habla-espanol-1402203'>Reader, la IA gratuita que lee cualquier texto, ya habla español </a></h4>
+    <a href='https://computerhoy.com/tecnologia/reader-ia-gratuita-lee-cualquier-texto-ya-habla-espanol-1402203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1724831754131-4048022.jpg?tf=1200x' alt='Reader, la IA gratuita que lee cualquier texto, ya habla español ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/misteriosa-caida-cadena-varias-webs-pirateria-iptv-millones-usuarios-1402164'>Misteriosa caída en cadena de varias webs de piratería e IPTV con millones de usuarios</a></h4>
-    <a href='https://computerhoy.com/tv/misteriosa-caida-cadena-varias-webs-pirateria-iptv-millones-usuarios-1402164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/webs-pirata-4047779.jpg?tf=1200x' alt='Misteriosa caída en cadena de varias webs de piratería e IPTV con millones de usuarios' />
+    <h4><a href='https://computerhoy.com/apps/meta-spotify-refuerzan-acuerdo-nueva-opcion-compartir-musica-instagram-1402169'>Meta y Spotify refuerzan su acuerdo con una nueva opción para compartir música en Instagram</a></h4>
+    <a href='https://computerhoy.com/apps/meta-spotify-refuerzan-acuerdo-nueva-opcion-compartir-musica-instagram-1402169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/meta-spotify-refuerzan-acuerdo-nueva-opcion-compartir-musica-instagram-4047781.jpg?tf=1200x' alt='Meta y Spotify refuerzan su acuerdo con una nueva opción para compartir música en Instagram' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/invento-quiere-facilitarte-vida-trabajo-notepin-dispositivo-wearable-ia-1402004'>El invento que quiere facilitarte la vida en el trabajo: así es NotePin, el dispositivo wearable con IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/invento-quiere-facilitarte-vida-trabajo-notepin-dispositivo-wearable-ia-1402004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/notepin-dispositivo-wearable-ia-4041185.jpg?tf=1200x' alt='El invento que quiere facilitarte la vida en el trabajo: así es NotePin, el dispositivo wearable con IA' />
+    <h4><a href='https://computerhoy.com/tecnologia/china-primer-sistema-operativo-pc-ia-1401346'>China crea el primer sistema operativo para PC con inteligencia artificial y revoluciona el mundo de la tecnología</a></h4>
+    <a href='https://computerhoy.com/tecnologia/china-primer-sistema-operativo-pc-ia-1401346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ordenador-ia-4006610.jpg?tf=1200x' alt='China crea el primer sistema operativo para PC con inteligencia artificial y revoluciona el mundo de la tecnología' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/policia-estados-unidos-usando-ia-redactar-informes-policiales-1402151'>La policía de Estados Unidos está usando IA para redactar informes policiales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/policia-estados-unidos-usando-ia-redactar-informes-policiales-1402151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/polemica-policia-estados-unidos-usando-ia-redactar-informes-policiales-4047149.jpg?tf=1200x' alt='La policía de Estados Unidos está usando IA para redactar informes policiales' />
+    <h4><a href='https://computerhoy.com/tecnologia/peligro-cable-cargador-enchufado-1400957'>Si eres de los que dejas el cable del cargador enchufado al enchufe (como casi todos): necesitas saber esto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/peligro-cable-cargador-enchufado-1400957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cable-enchufado-3991748.jpg?tf=1200x' alt='Si eres de los que dejas el cable del cargador enchufado al enchufe (como casi todos): necesitas saber esto' />
     </a>
 </div>
 
