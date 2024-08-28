@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/invento-quiere-facilitarte-vida-trabajo-notepin-dispositivo-wearable-ia-1402004'>El invento que quiere facilitarte la vida en el trabajo: así es NotePin, el dispositivo wearable con IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/invento-quiere-facilitarte-vida-trabajo-notepin-dispositivo-wearable-ia-1402004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/notepin-dispositivo-wearable-ia-4041185.jpg?tf=1200x' alt='El invento que quiere facilitarte la vida en el trabajo: así es NotePin, el dispositivo wearable con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/policia-estados-unidos-usando-ia-redactar-informes-policiales-1402151'>La policía de Estados Unidos está usando IA para redactar informes policiales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/policia-estados-unidos-usando-ia-redactar-informes-policiales-1402151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/polemica-policia-estados-unidos-usando-ia-redactar-informes-policiales-4047149.jpg?tf=1200x' alt='La policía de Estados Unidos está usando IA para redactar informes policiales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-elegir-mejor-sai-ups-1398468'>Cómo elegir el mejor SAI para mantener tus dispositivos encendidos sin electricidad </a></h4>
     <a href='https://computerhoy.com/tutoriales/como-elegir-mejor-sai-ups-1398468' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejores-sai-ups-3856231.jpg?tf=1200x' alt='Cómo elegir el mejor SAI para mantener tus dispositivos encendidos sin electricidad ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/ha-cambiado-hollywood-protagonista-historia-interminable-revela-rodaje-pelicula-casi-acaba-1401560'>Así ha cambiado Hollywood: el protagonista de La historia interminable revela que el rodaje de la película casi acaba con él</a></h4>
     <a href='https://computerhoy.com/entretenimiento/ha-cambiado-hollywood-protagonista-historia-interminable-revela-rodaje-pelicula-casi-acaba-1401560' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ha-cambiado-hollywood-protagonista-historia-interminable-revela-rodaje-pelicula-casi-acaba-4013500.jpg?tf=1200x' alt='Así ha cambiado Hollywood: el protagonista de La historia interminable revela que el rodaje de la película casi acaba con él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-cosas-espectaculares-puedes-hacer-ia-google-pixel-9-1402093'>7 cosas espectaculares que puedes hacer con la IA de los Google Pixel 9</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-cosas-espectaculares-puedes-hacer-ia-google-pixel-9-1402093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/diseno-pixel-9-google-4000653.jpg?tf=1200x' alt='7 cosas espectaculares que puedes hacer con la IA de los Google Pixel 9' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-calidad-intensidad-senal-wifi-consejos-mejorarla-1401720'>Cómo comprobar la calidad y la intensidad de tu señal WiFi y consejos para mejorarla</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-comprobar-calidad-intensidad-senal-wifi-consejos-mejorarla-1401720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/senal-wifi-4042228.jpg?tf=1200x' alt='Cómo comprobar la calidad y la intensidad de tu señal WiFi y consejos para mejorarla' />
     </a>
 </div>
 
