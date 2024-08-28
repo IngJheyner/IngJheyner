@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-cuerdas-razon-creadores-chatgpt-podrian-tener-dias-contados-1401877'>OpenAI está contra las cuerdas: la razón por la que los creadores de ChatGPT podrían tener los días contados</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-cuerdas-razon-creadores-chatgpt-podrian-tener-dias-contados-1401877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sam-altman-asegura-chatgpt-especialmente-util-estas-3-industrias-3265894.jpg?tf=1200x' alt='OpenAI está contra las cuerdas: la razón por la que los creadores de ChatGPT podrían tener los días contados' />
+    <h4><a href='https://computerhoy.com/internet/estudio-arremete-tiktok-instagram-confirma-muchos-sospechaban-ver-videos-redes-sociales-aumenta-aburrimiento-1401868'>Un estudio arremete contra TikTok o Instagram y confirma lo que muchos sospechaban: ver vídeos en redes sociales aumenta el aburrimiento</a></h4>
+    <a href='https://computerhoy.com/internet/estudio-arremete-tiktok-instagram-confirma-muchos-sospechaban-ver-videos-redes-sociales-aumenta-aburrimiento-1401868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estudio-arremete-tiktok-instagram-confirma-muchos-sospechaban-ver-videos-redes-sociales-aumenta-aburrimiento-4034953.jpg?tf=1200x' alt='Un estudio arremete contra TikTok o Instagram y confirma lo que muchos sospechaban: ver vídeos en redes sociales aumenta el aburrimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/motor-combustion-revolucionario-promete-cambiar-juego-competencia-coche-electrico-1402042'>Un motor de combustión revolucionario promete cambiar el juego: ¿la competencia del coche eléctrico?</a></h4>
-    <a href='https://computerhoy.com/energia/motor-combustion-revolucionario-promete-cambiar-juego-competencia-coche-electrico-1402042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/motor-4042062.jpg?tf=1200x' alt='Un motor de combustión revolucionario promete cambiar el juego: ¿la competencia del coche eléctrico?' />
+    <h4><a href='https://computerhoy.com/tecnologia/trucos-usan-videos-robots-enganarnos-mit-1402141'>Los trucos que usan los vídeos de robots para engañarnos, según el MIT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trucos-usan-videos-robots-enganarnos-mit-1402141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/robot-optimus-elon-musk-3261673.jpg?tf=1200x' alt='Los trucos que usan los vídeos de robots para engañarnos, según el MIT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flexduino-version-arduino-dobla-flexiona-reta-raspberry-pi-1402134'>Flexduino, la versión de Arduino que se dobla y flexiona que reta a Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flexduino-version-arduino-dobla-flexiona-reta-raspberry-pi-1402134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/flexduino-version-arduino-dobla-flexiona-reta-raspberry-pi-4045211.jpg?tf=1200x' alt='Flexduino, la versión de Arduino que se dobla y flexiona que reta a Raspberry Pi' />
+    <h4><a href='https://computerhoy.com/tecnologia/alarma-comunidad-tecnologica-sistema-inteligencia-artificial-reescribe-propio-codigo-evadir-control-humano-1401996'>Alarma en la comunidad tecnológica: un sistema de inteligencia artificial reescribe su propio código para evadir el control humano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alarma-comunidad-tecnologica-sistema-inteligencia-artificial-reescribe-propio-codigo-evadir-control-humano-1401996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ia-4040995.jpg?tf=1200x' alt='Alarma en la comunidad tecnológica: un sistema de inteligencia artificial reescribe su propio código para evadir el control humano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/consigue-hackear-codigo-activacion-windows-xp-solo-ha-necesitado-20-anos-nada-conseguirlo-1402124'>Consigue hackear el código de activación de Windows XP: solo ha necesitado 20 años de nada para conseguirlo</a></h4>
-    <a href='https://computerhoy.com/windows/consigue-hackear-codigo-activacion-windows-xp-solo-ha-necesitado-20-anos-nada-conseguirlo-1402124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/consigue-hackear-codigo-activacion-windows-xp-solo-ha-necesitado-20-anos-nada-conseguirlo-4044893.jpg?tf=1200x' alt='Consigue hackear el código de activación de Windows XP: solo ha necesitado 20 años de nada para conseguirlo' />
+    <h4><a href='https://computerhoy.com/gaming/rival-steam-deck-asus-rog-ally-oferta-amazon-1352369'>Steam Deck tiene un rival a su altura: es la ASUS ROG Ally, con Game Pass y por menos de 600 euros</a></h4>
+    <a href='https://computerhoy.com/gaming/rival-steam-deck-asus-rog-ally-oferta-amazon-1352369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/asus-rog-ally-3253204.jpg?tf=1200x' alt='Steam Deck tiene un rival a su altura: es la ASUS ROG Ally, con Game Pass y por menos de 600 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/x-estrena-videollamadas-competir-google-meet-microsoft-teams-1402133'>X estrena las videollamadas para competir con Google Meet y Microsoft Teams</a></h4>
-    <a href='https://computerhoy.com/redes/x-estrena-videollamadas-competir-google-meet-microsoft-teams-1402133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/x-estrena-videollamadas-competir-google-meet-microsoft-teams-4044303.jpg?tf=1200x' alt='X estrena las videollamadas para competir con Google Meet y Microsoft Teams' />
+    <h4><a href='https://computerhoy.com/tecnologia/adios-smartphones-apostando-telefonos-tontos-tendencia-1267776'>¿Es el fin de la era del smartphone? El auge de los 'móviles tontos' está marcando un cambio de tendencia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-smartphones-apostando-telefonos-tontos-tendencia-1267776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/generacion-z-muy-retro-nostalgia-desconexion-digital-privacidad-siglo-xxi-3070646.jpg?tf=1200x' alt='¿Es el fin de la era del smartphone? El auge de los 'móviles tontos' está marcando un cambio de tendencia' />
     </a>
 </div>
 
