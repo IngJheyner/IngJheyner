@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/codigos-virales-ligar-mercadona-alimentos-frutas-significa-cada-1402330'>Códigos virales para ligar en Mercadona: alimentos, frutas y qué significa cada uno</a></h4>
+    <a href='https://computerhoy.com/life/codigos-virales-ligar-mercadona-alimentos-frutas-significa-cada-1402330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pareja-supermercado-4051162.jpg?tf=1200x' alt='Códigos virales para ligar en Mercadona: alimentos, frutas y qué significa cada uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/funcion-whatsapp-desactivar-evitar-estafas-1400700'>Esta opción de WhatsApp está activada por defecto en tu móvil: desactívala ahora mismo para evitar estafas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/funcion-whatsapp-desactivar-evitar-estafas-1400700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estafas-whatsapp-3983542.jpg?tf=1200x' alt='Esta opción de WhatsApp está activada por defecto en tu móvil: desactívala ahora mismo para evitar estafas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/dos-funciones-movil-mejoran-calidad-cobertura-llamadas-seguramente-tienes-desactivadas-1402140'>Las dos funciones de tu móvil que mejoran la calidad y cobertura de las llamadas y que seguramente tienes desactivadas</a></h4>
+    <a href='https://computerhoy.com/redes/dos-funciones-movil-mejoran-calidad-cobertura-llamadas-seguramente-tienes-desactivadas-1402140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dos-funciones-movil-mejoran-calidad-cobertura-llamadas-seguramente-tienes-desactivadas-4046406.jpg?tf=1200x' alt='Las dos funciones de tu móvil que mejoran la calidad y cobertura de las llamadas y que seguramente tienes desactivadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/hombre-intenta-fotocopiar-dinero-realiza-descubrimiento-sorprendente-1402312'>Un hombre intenta fotocopiar dinero y realiza un descubrimiento sorprendente</a></h4>
     <a href='https://computerhoy.com/internet/hombre-intenta-fotocopiar-dinero-realiza-descubrimiento-sorprendente-1402312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hombre-intenta-fotocopiar-dinero-realiza-descubrimiento-sorprendente-4050845.jpg?tf=1200x' alt='Un hombre intenta fotocopiar dinero y realiza un descubrimiento sorprendente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/alerta-robar-coche-sin-llave-1398078'>Alerta por la nueva forma de robarte el coche: sin llave y en menos de 2 minutos</a></h4>
     <a href='https://computerhoy.com/motor/alerta-robar-coche-sin-llave-1398078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/descubren-nueva-forma-robarte-coche-llave-menos-2-minutos-3843746.jpg?tf=1200x' alt='Alerta por la nueva forma de robarte el coche: sin llave y en menos de 2 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejores-esim-tener-datos-viajar-marruecos-1402025'>Mejores eSIM para tener datos al viajar a Marruecos</a></h4>
-    <a href='https://computerhoy.com/internet/mejores-esim-tener-datos-viajar-marruecos-1402025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/marruecos-4041346.jpg?tf=1200x' alt='Mejores eSIM para tener datos al viajar a Marruecos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/funciones-ocultas-muy-utiles-smart-tv-seguramente-no-conoces-1401446'>Funciones ocultas (muy útiles) de tu Smart TV que seguramente no conoces</a></h4>
-    <a href='https://computerhoy.com/tv/funciones-ocultas-muy-utiles-smart-tv-seguramente-no-conoces-1401446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/funciones-ocultas-muy-utiles-smart-tv-seguramente-no-conoces-4011451.jpg?tf=1200x' alt='Funciones ocultas (muy útiles) de tu Smart TV que seguramente no conoces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/peligro-numeros-telefono-contactos-antiguos-whatsapp-1400844'>Elimina todos los números de teléfono de contactos antiguos en WhatsApp: son un agujero de seguridad</a></h4>
-    <a href='https://computerhoy.com/apps/peligro-numeros-telefono-contactos-antiguos-whatsapp-1400844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/deberias-eliminar-todos-numeros-telefono-contactos-antiguos-whatsapp-3987535.jpg?tf=1200x' alt='Elimina todos los números de teléfono de contactos antiguos en WhatsApp: son un agujero de seguridad' />
     </a>
 </div>
 
