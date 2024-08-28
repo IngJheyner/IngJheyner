@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/peligro-numeros-telefono-contactos-antiguos-whatsapp-1400844'>Elimina todos los números de teléfono de contactos antiguos en WhatsApp: son un agujero de seguridad</a></h4>
+    <a href='https://computerhoy.com/apps/peligro-numeros-telefono-contactos-antiguos-whatsapp-1400844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/deberias-eliminar-todos-numeros-telefono-contactos-antiguos-whatsapp-3987535.jpg?tf=1200x' alt='Elimina todos los números de teléfono de contactos antiguos en WhatsApp: son un agujero de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/electrodomestico-siempre-deberias-desconectar-despues-cada-uso-evitar-incendios-1402262'>El electrodoméstico que siempre deberías desconectar después de cada uso para evitar incendios</a></h4>
+    <a href='https://computerhoy.com/hogar/electrodomestico-siempre-deberias-desconectar-despues-cada-uso-evitar-incendios-1402262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/electrodomestico-siempre-deberias-desconectar-despues-cada-uso-evitar-incendios-4049238.jpg?tf=1200x' alt='El electrodoméstico que siempre deberías desconectar después de cada uso para evitar incendios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/comportamientos-raros-espia-1395092'>Si tu móvil hace alguna de estas cosas raras, ni lo dudes, están espiándote</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/comportamientos-raros-espia-1395092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movil-haciendo-alguna-estas-cosas-extranas-estan-espiandote-3702541.jpg?tf=1200x' alt='Si tu móvil hace alguna de estas cosas raras, ni lo dudes, están espiándote' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-pantalla-negra-sonido-netflix-1401013'>Cómo solucionar el error de pantalla negra sin sonido de Netflix</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-solucionar-error-pantalla-negra-sonido-netflix-1401013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/netflix-plataforma-streaming-3993602.jpg?tf=1200x' alt='Cómo solucionar el error de pantalla negra sin sonido de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/agujeros-negros-podrian-proporcionar-energia-ilimitada-tierra-pero-no-existe-forma-recogerla-1401890'>Los agujeros negros podrían proporcionar energía ilimitada para la Tierra, pero no existe la forma de recogerla</a></h4>
-    <a href='https://computerhoy.com/espacio/agujeros-negros-podrian-proporcionar-energia-ilimitada-tierra-pero-no-existe-forma-recogerla-1401890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/agujeros-negros-podrian-proporcionar-energia-ilimitada-tierra-pero-no-existe-forma-recogerla-4035650.jpg?tf=1200x' alt='Los agujeros negros podrían proporcionar energía ilimitada para la Tierra, pero no existe la forma de recogerla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/finetwork-digi-fibra-600-mb-dos-lineas-5g-television-futbol-precio-derribo-1402219'>Finetwork a por DIGI: fibra 600 Mb, dos líneas 5G y televisión con fútbol a precio de derribo</a></h4>
-    <a href='https://computerhoy.com/moviles/finetwork-digi-fibra-600-mb-dos-lineas-5g-television-futbol-precio-derribo-1402219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/finetwork-digi-fibra-600-mb-dos-lineas-5g-television-futbol-precio-derribo-4048498.jpg?tf=1200x' alt='Finetwork a por DIGI: fibra 600 Mb, dos líneas 5G y televisión con fútbol a precio de derribo' />
     </a>
 </div>
 
