@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/comportamientos-raros-espia-1395092'>Si tu móvil hace alguna de estas cosas raras, ni lo dudes, están espiándote</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/comportamientos-raros-espia-1395092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movil-haciendo-alguna-estas-cosas-extranas-estan-espiandote-3702541.jpg?tf=1200x' alt='Si tu móvil hace alguna de estas cosas raras, ni lo dudes, están espiándote' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-estado-disco-ssd-pc-windows-1401722'>Cómo comprobar el estado del disco SSD en un PC con Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-comprobar-estado-disco-ssd-pc-windows-1401722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/caracteristicas-ssd-windows-4031648.jpg?tf=1200x' alt='Cómo comprobar el estado del disco SSD en un PC con Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-pantalla-negra-sonido-netflix-1401013'>Cómo solucionar el error de pantalla negra sin sonido de Netflix</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-solucionar-error-pantalla-negra-sonido-netflix-1401013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/netflix-plataforma-streaming-3993602.jpg?tf=1200x' alt='Cómo solucionar el error de pantalla negra sin sonido de Netflix' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/finetwork-digi-fibra-600-mb-dos-lineas-5g-television-futbol-precio-derribo-1402219'>Finetwork a por DIGI: fibra 600 Mb, dos líneas 5G y televisión con fútbol a precio de derribo</a></h4>
     <a href='https://computerhoy.com/moviles/finetwork-digi-fibra-600-mb-dos-lineas-5g-television-futbol-precio-derribo-1402219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/finetwork-digi-fibra-600-mb-dos-lineas-5g-television-futbol-precio-derribo-4048498.jpg?tf=1200x' alt='Finetwork a por DIGI: fibra 600 Mb, dos líneas 5G y televisión con fútbol a precio de derribo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estrenos-clasico-stephen-king-fin-1401150'>Tras más de 30 años de espera se estrenará el gran clásico de Stephen King</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estrenos-clasico-stephen-king-fin-1401150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gran-clasico-stephen-king-fin-estrenara-halloween-despues-30-anos-espera-3998419.jpg?tf=1200x' alt='Tras más de 30 años de espera se estrenará el gran clásico de Stephen King' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/filtrados-precios-iphone-16-cuanto-van-costar-1402204'>Filtrados los precios de los iPhone 16: ¿Cuánto van a costar?</a></h4>
-    <a href='https://computerhoy.com/apple/filtrados-precios-iphone-16-cuanto-van-costar-1402204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gran-baza-apple-iphone-16-pro-max-pasa-reinventar-bateria-3797306.jpg?tf=1200x' alt='Filtrados los precios de los iPhone 16: ¿Cuánto van a costar?' />
     </a>
 </div>
 
