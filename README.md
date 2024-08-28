@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-cuerdas-razon-creadores-chatgpt-podrian-tener-dias-contados-1401877'>OpenAI está contra las cuerdas: la razón por la que los creadores de ChatGPT podrían tener los días contados</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-cuerdas-razon-creadores-chatgpt-podrian-tener-dias-contados-1401877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sam-altman-asegura-chatgpt-especialmente-util-estas-3-industrias-3265894.jpg?tf=1200x' alt='OpenAI está contra las cuerdas: la razón por la que los creadores de ChatGPT podrían tener los días contados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/motor-combustion-revolucionario-promete-cambiar-juego-competencia-coche-electrico-1402042'>Un motor de combustión revolucionario promete cambiar el juego: ¿la competencia del coche eléctrico?</a></h4>
     <a href='https://computerhoy.com/energia/motor-combustion-revolucionario-promete-cambiar-juego-competencia-coche-electrico-1402042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/motor-4042062.jpg?tf=1200x' alt='Un motor de combustión revolucionario promete cambiar el juego: ¿la competencia del coche eléctrico?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/x-estrena-videollamadas-competir-google-meet-microsoft-teams-1402133'>X estrena las videollamadas para competir con Google Meet y Microsoft Teams</a></h4>
     <a href='https://computerhoy.com/redes/x-estrena-videollamadas-competir-google-meet-microsoft-teams-1402133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/x-estrena-videollamadas-competir-google-meet-microsoft-teams-4044303.jpg?tf=1200x' alt='X estrena las videollamadas para competir con Google Meet y Microsoft Teams' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/todo-wifi-como-mejorar-senal-lenta-dispositivos-consejos-redes-publicas-1401312'>Todo sobre WiFi: cómo mejorar una señal lenta, dispositivos y consejos en redes públicas</a></h4>
-    <a href='https://computerhoy.com/redes/todo-wifi-como-mejorar-senal-lenta-dispositivos-consejos-redes-publicas-1401312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/5-trucos-efectivos-mejorar-velocidad-rendimiento-router-wifi-3688410.jpg?tf=1200x' alt='Todo sobre WiFi: cómo mejorar una señal lenta, dispositivos y consejos en redes públicas' />
     </a>
 </div>
 
