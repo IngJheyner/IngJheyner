@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/hombre-intenta-fotocopiar-dinero-realiza-descubrimiento-sorprendente-1402312'>Un hombre intenta fotocopiar dinero y realiza un descubrimiento sorprendente</a></h4>
+    <a href='https://computerhoy.com/internet/hombre-intenta-fotocopiar-dinero-realiza-descubrimiento-sorprendente-1402312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hombre-intenta-fotocopiar-dinero-realiza-descubrimiento-sorprendente-4050845.jpg?tf=1200x' alt='Un hombre intenta fotocopiar dinero y realiza un descubrimiento sorprendente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/alerta-robar-coche-sin-llave-1398078'>Alerta por la nueva forma de robarte el coche: sin llave y en menos de 2 minutos</a></h4>
+    <a href='https://computerhoy.com/motor/alerta-robar-coche-sin-llave-1398078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/descubren-nueva-forma-robarte-coche-llave-menos-2-minutos-3843746.jpg?tf=1200x' alt='Alerta por la nueva forma de robarte el coche: sin llave y en menos de 2 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mejores-esim-tener-datos-viajar-marruecos-1402025'>Mejores eSIM para tener datos al viajar a Marruecos</a></h4>
+    <a href='https://computerhoy.com/internet/mejores-esim-tener-datos-viajar-marruecos-1402025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/marruecos-4041346.jpg?tf=1200x' alt='Mejores eSIM para tener datos al viajar a Marruecos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/funciones-ocultas-muy-utiles-smart-tv-seguramente-no-conoces-1401446'>Funciones ocultas (muy útiles) de tu Smart TV que seguramente no conoces</a></h4>
+    <a href='https://computerhoy.com/tv/funciones-ocultas-muy-utiles-smart-tv-seguramente-no-conoces-1401446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/funciones-ocultas-muy-utiles-smart-tv-seguramente-no-conoces-4011451.jpg?tf=1200x' alt='Funciones ocultas (muy útiles) de tu Smart TV que seguramente no conoces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/peligro-numeros-telefono-contactos-antiguos-whatsapp-1400844'>Elimina todos los números de teléfono de contactos antiguos en WhatsApp: son un agujero de seguridad</a></h4>
     <a href='https://computerhoy.com/apps/peligro-numeros-telefono-contactos-antiguos-whatsapp-1400844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/deberias-eliminar-todos-numeros-telefono-contactos-antiguos-whatsapp-3987535.jpg?tf=1200x' alt='Elimina todos los números de teléfono de contactos antiguos en WhatsApp: son un agujero de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/electrodomestico-siempre-deberias-desconectar-despues-cada-uso-evitar-incendios-1402262'>El electrodoméstico que siempre deberías desconectar después de cada uso para evitar incendios</a></h4>
-    <a href='https://computerhoy.com/hogar/electrodomestico-siempre-deberias-desconectar-despues-cada-uso-evitar-incendios-1402262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/electrodomestico-siempre-deberias-desconectar-despues-cada-uso-evitar-incendios-4049238.jpg?tf=1200x' alt='El electrodoméstico que siempre deberías desconectar después de cada uso para evitar incendios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/comportamientos-raros-espia-1395092'>Si tu móvil hace alguna de estas cosas raras, ni lo dudes, están espiándote</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/comportamientos-raros-espia-1395092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/movil-haciendo-alguna-estas-cosas-extranas-estan-espiandote-3702541.jpg?tf=1200x' alt='Si tu móvil hace alguna de estas cosas raras, ni lo dudes, están espiándote' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-estado-disco-ssd-pc-windows-1401722'>Cómo comprobar el estado del disco SSD en un PC con Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-comprobar-estado-disco-ssd-pc-windows-1401722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/caracteristicas-ssd-windows-4031648.jpg?tf=1200x' alt='Cómo comprobar el estado del disco SSD en un PC con Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-pantalla-negra-sonido-netflix-1401013'>Cómo solucionar el error de pantalla negra sin sonido de Netflix</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-pantalla-negra-sonido-netflix-1401013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/netflix-plataforma-streaming-3993602.jpg?tf=1200x' alt='Cómo solucionar el error de pantalla negra sin sonido de Netflix' />
     </a>
 </div>
 
