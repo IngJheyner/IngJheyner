@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/baratas-eficientes-japon-encuentra-alternativa-cobalto-baterias-litio-1402208'>Más baratas y eficientes: Japón encuentra una alternativa al cobalto para las baterías de litio</a></h4>
+    <a href='https://computerhoy.com/energia/baratas-eficientes-japon-encuentra-alternativa-cobalto-baterias-litio-1402208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/baterias-litio-coche-japon-4048272.jpg?tf=1200x' alt='Más baratas y eficientes: Japón encuentra una alternativa al cobalto para las baterías de litio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/sorpresa-mercado-bmw-desbanca-tesla-como-rey-electricos-europa-1402214'>¡Sorpresa en el mercado! BMW desbanca a Tesla como rey de los eléctricos en Europa</a></h4>
     <a href='https://computerhoy.com/motor/sorpresa-mercado-bmw-desbanca-tesla-como-rey-electricos-europa-1402214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sorpresa-mercado-bmw-desbanca-tesla-como-rey-electricos-europa-4048439.jpg?tf=1200x' alt='¡Sorpresa en el mercado! BMW desbanca a Tesla como rey de los eléctricos en Europa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-escucha-quejas-lanza-actualizacion-mejorar-rendimiento-procesadores-ryzen-9000-7000-1402184'>Microsoft escucha las quejas y lanza una actualización para mejorar el rendimiento de los procesadores Ryzen 9000 y 7000</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-escucha-quejas-lanza-actualizacion-mejorar-rendimiento-procesadores-ryzen-9000-7000-1402184' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/error-windows-reduce-rendimiento-procesadores-ryzen-9000-7000-puedes-solucionarlo-3966161.jpg?tf=1200x' alt='Microsoft escucha las quejas y lanza una actualización para mejorar el rendimiento de los procesadores Ryzen 9000 y 7000' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reader-ia-gratuita-lee-cualquier-texto-ya-habla-espanol-1402203'>Reader, la IA gratuita que lee cualquier texto, ya habla español </a></h4>
-    <a href='https://computerhoy.com/tecnologia/reader-ia-gratuita-lee-cualquier-texto-ya-habla-espanol-1402203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1724831754131-4048022.jpg?tf=1200x' alt='Reader, la IA gratuita que lee cualquier texto, ya habla español ' />
     </a>
 </div>
 
