@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/gem-chatbots-personalizados-gemini-1402344'>Ya puedes crear tus propios Gems, los chatbots personalizados de Gemini</a></h4>
+    <a href='https://computerhoy.com/google/gem-chatbots-personalizados-gemini-1402344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ya-puedes-crear-propios-gem-chatbots-personalizados-gemini-4051918.jpg?tf=1200x' alt='Ya puedes crear tus propios Gems, los chatbots personalizados de Gemini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/para-que-sirve-tercer-cajon-lavadora-1277056'>Las redes en stock al descubrir para qué sirve el tercer compartimento del cajetín de la lavadora</a></h4>
     <a href='https://computerhoy.com/life/para-que-sirve-tercer-cajon-lavadora-1277056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/redes-impactadas-descubrir-como-utiliza-correctamente-cajetin-lavadora-3086448.jpg?tf=1200x' alt='Las redes en stock al descubrir para qué sirve el tercer compartimento del cajetín de la lavadora' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/como-tener-gratis-movistar-plus-eres-cliente-o2-requisitos-como-activarlo-1402335'>Cómo tener gratis Movistar Plus+ si eres cliente de O2: requisitos y cómo activarlo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/como-tener-gratis-movistar-plus-eres-cliente-o2-requisitos-como-activarlo-1402335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-tener-gratis-movistar-plus-eres-cliente-o2-requisitos-como-activarlo-4051317.jpg?tf=1200x' alt='Cómo tener gratis Movistar Plus+ si eres cliente de O2: requisitos y cómo activarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/quentin-tarantino-niega-ver-pelicula-pixar-predecesora-perfecta-mejores-peliculas-historia-1402077'>Quentin Tarantino se niega a ver esta película de Pixar: su predecesora es perfecta, “una de las mejores películas de la historia”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/quentin-tarantino-niega-ver-pelicula-pixar-predecesora-perfecta-mejores-peliculas-historia-1402077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/quentin-tarantino-3062130.jpg?tf=1200x' alt='Quentin Tarantino se niega a ver esta película de Pixar: su predecesora es perfecta, “una de las mejores películas de la historia”' />
     </a>
 </div>
 
