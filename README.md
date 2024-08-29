@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-terror-tiene-todo-miedo-exorcismos-ambientacion-70-arrasa-filmin-1401788'>La película de terror que lo tiene todo: miedo, exorcismos y una ambientación en los 70, y arrasa en Filmin</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-terror-tiene-todo-miedo-exorcismos-ambientacion-70-arrasa-filmin-1401788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pelicula-terror-tiene-todo-miedo-exorcismos-ambientacion-70-arrasa-filmin-4033457.jpg?tf=1200x' alt='La película de terror que lo tiene todo: miedo, exorcismos y una ambientación en los 70, y arrasa en Filmin' />
+    <h4><a href='https://computerhoy.com/internet/avecinan-multas-quienes-hayan-vendido-ropa-objetos-segunda-mano-vinted-wallapop-1402523'>Se avecinan multas para quienes hayan vendido ropa y objetos de segunda mano en Vinted y Wallapop</a></h4>
+    <a href='https://computerhoy.com/internet/avecinan-multas-quienes-hayan-vendido-ropa-objetos-segunda-mano-vinted-wallapop-1402523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/avecinan-multas-quienes-hayan-vendido-ropa-objetos-segunda-mano-vinted-wallapop-4058720.jpg?tf=1200x' alt='Se avecinan multas para quienes hayan vendido ropa y objetos de segunda mano en Vinted y Wallapop' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/gimnasta-natalie-stichova-fallece-24-anos-caerse-precipicio-hacerse-selfie-1402528'>La gimnasta Natalie Stichova fallece a los 24 años tras caerse por un precipicio al hacerse un selfie</a></h4>
-    <a href='https://computerhoy.com/life/gimnasta-natalie-stichova-fallece-24-anos-caerse-precipicio-hacerse-selfie-1402528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gimnasta-natalie-stichova-fallece-24-anos-caerse-precipicio-hacerse-selfie-4058104.jpg?tf=1200x' alt='La gimnasta Natalie Stichova fallece a los 24 años tras caerse por un precipicio al hacerse un selfie' />
+    <h4><a href='https://computerhoy.com/entretenimiento/gran-clasico-stephen-king-disponible-amazon-prime-video-adelanto-50-anos-tiempo-1402454'>El gran clásico de Stephen King disponible en Amazon Prime Video que se adelantó 50 años en el tiempo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/gran-clasico-stephen-king-disponible-amazon-prime-video-adelanto-50-anos-tiempo-1402454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gran-clasico-stephen-king-disponible-amazon-prime-video-adelanto-50-anos-tiempo-4056165.jpg?tf=1200x' alt='El gran clásico de Stephen King disponible en Amazon Prime Video que se adelantó 50 años en el tiempo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/como-afectaria-vida-marte-cuerpo-humano-estudio-asombra-resultados-1402396'>¿Cómo afectaría la vida en Marte al cuerpo humano? Un estudio asombra con los resultados</a></h4>
-    <a href='https://computerhoy.com/ciencia/como-afectaria-vida-marte-cuerpo-humano-estudio-asombra-resultados-1402396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/marte-4055483.jpg?tf=1200x' alt='¿Cómo afectaría la vida en Marte al cuerpo humano? Un estudio asombra con los resultados' />
+    <h4><a href='https://computerhoy.com/alimentacion/metodo-viral-6-1-ahorrar-hacer-compra-mercadona-otros-supermercados-1402533'>Así es el método viral del 6 en 1 para ahorrar al hacer la compra en Mercadona y otros supermercados</a></h4>
+    <a href='https://computerhoy.com/alimentacion/metodo-viral-6-1-ahorrar-hacer-compra-mercadona-otros-supermercados-1402533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hacer-compra-4058711.jpg?tf=1200x' alt='Así es el método viral del 6 en 1 para ahorrar al hacer la compra en Mercadona y otros supermercados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/numero-desconocido-te-escribe-whatsapp-1394571'>Qué hacer y cómo reaccionar si un desconocido te escribe en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/numero-desconocido-te-escribe-whatsapp-1394571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-whatsapp-3683489.jpg?tf=1200x' alt='Qué hacer y cómo reaccionar si un desconocido te escribe en WhatsApp' />
+    <h4><a href='https://computerhoy.com/gaming/filtra-posible-diseno-playstation-5-pro-bastante-decepcionante-1402531'>Se filtra el posible diseño de PlayStation 5 Pro y es bastante decepcionante</a></h4>
+    <a href='https://computerhoy.com/gaming/filtra-posible-diseno-playstation-5-pro-bastante-decepcionante-1402531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ps5-4058662.jpg?tf=1200x' alt='Se filtra el posible diseño de PlayStation 5 Pro y es bastante decepcionante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/como-enchufar-varios-electrodomesticos-vez-casa-hacer-saltar-plomos-1402345'>Cómo enchufar varios electrodomésticos a la vez en casa sin hacer saltar los plomos</a></h4>
-    <a href='https://computerhoy.com/hogar/como-enchufar-varios-electrodomesticos-vez-casa-hacer-saltar-plomos-1402345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-enchufar-varios-electrodomesticos-vez-casa-hacer-saltar-plomos-4053084.jpg?tf=1200x' alt='Cómo enchufar varios electrodomésticos a la vez en casa sin hacer saltar los plomos' />
+    <h4><a href='https://computerhoy.com/motor/dgt-documentos-fisicos-coche-obligatorios-movil-1398544'>La DGT te obliga ahora a llevar tres documentos físicos en el coche, por suerte uno puedes llevarlo en el móvil</a></h4>
+    <a href='https://computerhoy.com/motor/dgt-documentos-fisicos-coche-obligatorios-movil-1398544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dgt-obliga-ahora-llevar-tres-documentos-fisicos-coche-aunque-puedes-llevarlo-movil-3859935.jpg?tf=1200x' alt='La DGT te obliga ahora a llevar tres documentos físicos en el coche, por suerte uno puedes llevarlo en el móvil' />
     </a>
 </div>
 
