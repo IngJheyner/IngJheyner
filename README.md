@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nueva-teoria-sugiere-existencia-formas-vida-desconocidas-dentro-cuerpo-humano-cientificos-1402227'>Nueva teoría sugiere la existencia de formas de vida desconocidas dentro del cuerpo humano, según los científicos</a></h4>
-    <a href='https://computerhoy.com/ciencia/nueva-teoria-sugiere-existencia-formas-vida-desconocidas-dentro-cuerpo-humano-cientificos-1402227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/arn-4048929.jpg?tf=1200x' alt='Nueva teoría sugiere la existencia de formas de vida desconocidas dentro del cuerpo humano, según los científicos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-color-carpetas-windows-1401637'>Cómo cambiar el color de las carpetas en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-color-carpetas-windows-1401637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/carpetas-colores-pc-4016530.jpg?tf=1200x' alt='Cómo cambiar el color de las carpetas en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-alerta-cuidado-mensaje-whatsapp-ganaras-dinero-pero-luego-1402346'>La Policía Nacional alerta: cuidado con este mensaje de WhatsApp, ganarás dinero, pero luego…</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-alerta-cuidado-mensaje-whatsapp-ganaras-dinero-pero-luego-1402346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/policia-nacional-alerta-cuidado-mensaje-whatsapp-ganaras-dinero-pero-luego-4053373.jpg?tf=1200x' alt='La Policía Nacional alerta: cuidado con este mensaje de WhatsApp, ganarás dinero, pero luego…' />
+    <h4><a href='https://computerhoy.com/tecnologia/estas-son-dos-inversiones-claves-exito-financiero-bill-gates-1401365'>Estas son las dos inversiones claves para el éxito financiero, según Bill Gates</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-son-dos-inversiones-claves-exito-financiero-bill-gates-1401365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bill-gates-4006777.jpg?tf=1200x' alt='Estas son las dos inversiones claves para el éxito financiero, según Bill Gates' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/significado-oculto-bandera-chats-whatsapp-como-activarla-cuando-debes-utilizarla-1402341'>El significado oculto de la bandera en los chats de WhatsApp: cómo activarla y cuándo debes utilizarla</a></h4>
-    <a href='https://computerhoy.com/apps/significado-oculto-bandera-chats-whatsapp-como-activarla-cuando-debes-utilizarla-1402341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/significado-oculto-bandera-chats-whatsapp-como-activarla-cuando-debes-utilizarla-4052791.jpg?tf=1200x' alt='El significado oculto de la bandera en los chats de WhatsApp: cómo activarla y cuándo debes utilizarla' />
+    <h4><a href='https://computerhoy.com/entretenimiento/nino-titanic-increible-cantidad-dinero-recibe-cada-ano-salir-tres-escenas-decir-frase-1402011'>El niño del Titanic: esta es la increíble cantidad de dinero que recibe cada año por salir en tres escenas y decir una frase</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/nino-titanic-increible-cantidad-dinero-recibe-cada-ano-salir-tres-escenas-decir-frase-1402011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/nino-titanic-1859301.jpg?tf=1200x' alt='El niño del Titanic: esta es la increíble cantidad de dinero que recibe cada año por salir en tres escenas y decir una frase' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/gem-chatbots-personalizados-gemini-1402344'>Ya puedes crear tus propios Gems, los chatbots personalizados de Gemini</a></h4>
-    <a href='https://computerhoy.com/google/gem-chatbots-personalizados-gemini-1402344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ya-puedes-crear-propios-gem-chatbots-personalizados-gemini-4051918.jpg?tf=1200x' alt='Ya puedes crear tus propios Gems, los chatbots personalizados de Gemini' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-libros-gratis-amazon-kindle-forma-legal-1224102'>Cómo descargar libros gratis para Amazon Kindle (y de forma legal)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-libros-gratis-amazon-kindle-forma-legal-1224102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-kindle-2022-2813017.jpg?tf=1200x' alt='Cómo descargar libros gratis para Amazon Kindle (y de forma legal)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/para-que-sirve-tercer-cajon-lavadora-1277056'>Las redes en stock al descubrir para qué sirve el tercer compartimento del cajetín de la lavadora</a></h4>
-    <a href='https://computerhoy.com/life/para-que-sirve-tercer-cajon-lavadora-1277056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/redes-impactadas-descubrir-como-utiliza-correctamente-cajetin-lavadora-3086448.jpg?tf=1200x' alt='Las redes en stock al descubrir para qué sirve el tercer compartimento del cajetín de la lavadora' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-carga-solar-alternativa-carisimo-fenix-8-1400664'>El Garmin Fenix 7 con carga solar baja de precio y es la alternativa perfecta al nuevo (y carísimo) Fenix 8</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-carga-solar-alternativa-carisimo-fenix-8-1400664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/garmin-fenix-7-3361014.jpg?tf=1200x' alt='El Garmin Fenix 7 con carga solar baja de precio y es la alternativa perfecta al nuevo (y carísimo) Fenix 8' />
     </a>
 </div>
 
