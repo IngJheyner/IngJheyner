@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/significado-oculto-bandera-chats-whatsapp-como-activarla-cuando-debes-utilizarla-1402341'>El significado oculto de la bandera en los chats de WhatsApp: cómo activarla y cuándo debes utilizarla</a></h4>
+    <a href='https://computerhoy.com/apps/significado-oculto-bandera-chats-whatsapp-como-activarla-cuando-debes-utilizarla-1402341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/significado-oculto-bandera-chats-whatsapp-como-activarla-cuando-debes-utilizarla-4052791.jpg?tf=1200x' alt='El significado oculto de la bandera en los chats de WhatsApp: cómo activarla y cuándo debes utilizarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/gem-chatbots-personalizados-gemini-1402344'>Ya puedes crear tus propios Gems, los chatbots personalizados de Gemini</a></h4>
     <a href='https://computerhoy.com/google/gem-chatbots-personalizados-gemini-1402344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ya-puedes-crear-propios-gem-chatbots-personalizados-gemini-4051918.jpg?tf=1200x' alt='Ya puedes crear tus propios Gems, los chatbots personalizados de Gemini' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/juegos-gratis-senor-anillos-prime-gaming-1402340'>Para celebrar el estreno de Los Anillos de Poder, Amazon regala tres juegazos de El Señor de los Anillos</a></h4>
     <a href='https://computerhoy.com/gaming/juegos-gratis-senor-anillos-prime-gaming-1402340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/celebrar-estreno-anillos-poder-amazon-regala-tres-juegazos-senor-anillos-4051316.jpg?tf=1200x' alt='Para celebrar el estreno de Los Anillos de Poder, Amazon regala tres juegazos de El Señor de los Anillos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/como-tener-gratis-movistar-plus-eres-cliente-o2-requisitos-como-activarlo-1402335'>Cómo tener gratis Movistar Plus+ si eres cliente de O2: requisitos y cómo activarlo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/como-tener-gratis-movistar-plus-eres-cliente-o2-requisitos-como-activarlo-1402335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-tener-gratis-movistar-plus-eres-cliente-o2-requisitos-como-activarlo-4051317.jpg?tf=1200x' alt='Cómo tener gratis Movistar Plus+ si eres cliente de O2: requisitos y cómo activarlo' />
     </a>
 </div>
 
