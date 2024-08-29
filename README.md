@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-color-carpetas-windows-1401637'>Cómo cambiar el color de las carpetas en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-color-carpetas-windows-1401637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/carpetas-colores-pc-4016530.jpg?tf=1200x' alt='Cómo cambiar el color de las carpetas en Windows' />
+    <h4><a href='https://computerhoy.com/tv/resolucion-smart-tv-1080p-8k-1399776'>Entendiendo la resolución de los Smart TV: del 1080p hasta 8K y más</a></h4>
+    <a href='https://computerhoy.com/tv/resolucion-smart-tv-1080p-8k-1399776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/resoluciones-tv-3931916.jpg?tf=1200x' alt='Entendiendo la resolución de los Smart TV: del 1080p hasta 8K y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-son-dos-inversiones-claves-exito-financiero-bill-gates-1401365'>Estas son las dos inversiones claves para el éxito financiero, según Bill Gates</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-son-dos-inversiones-claves-exito-financiero-bill-gates-1401365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bill-gates-4006777.jpg?tf=1200x' alt='Estas son las dos inversiones claves para el éxito financiero, según Bill Gates' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-equivocado-portatil-barato-ultraligero-windows-11-1333712'>No se han equivocado: este portátil con Windows 11 apenas supera los 200 euros y es ultraligero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-equivocado-portatil-barato-ultraligero-windows-11-1333712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chuwi-gemibook-pro-2893138.jpg?tf=1200x' alt='No se han equivocado: este portátil con Windows 11 apenas supera los 200 euros y es ultraligero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/nino-titanic-increible-cantidad-dinero-recibe-cada-ano-salir-tres-escenas-decir-frase-1402011'>El niño del Titanic: esta es la increíble cantidad de dinero que recibe cada año por salir en tres escenas y decir una frase</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/nino-titanic-increible-cantidad-dinero-recibe-cada-ano-salir-tres-escenas-decir-frase-1402011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/nino-titanic-1859301.jpg?tf=1200x' alt='El niño del Titanic: esta es la increíble cantidad de dinero que recibe cada año por salir en tres escenas y decir una frase' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/funcion-whatsapp-siempre-debes-desactivar-origen-muchas-estafas-1402112'>La función de WhatsApp que siempre debes desactivar: es el origen de muchas estafas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/funcion-whatsapp-siempre-debes-desactivar-origen-muchas-estafas-1402112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/funcion-whatsapp-siempre-debes-desactivar-origen-muchas-estafas-4043216.jpg?tf=1200x' alt='La función de WhatsApp que siempre debes desactivar: es el origen de muchas estafas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-libros-gratis-amazon-kindle-forma-legal-1224102'>Cómo descargar libros gratis para Amazon Kindle (y de forma legal)</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-libros-gratis-amazon-kindle-forma-legal-1224102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-kindle-2022-2813017.jpg?tf=1200x' alt='Cómo descargar libros gratis para Amazon Kindle (y de forma legal)' />
+    <h4><a href='https://computerhoy.com/tecnologia/adios-gmail-harto-google-mudado-proton-1400696'>Adiós a Gmail: acabé harto de Google y me he mudado a Proton sin perder ni un correo en el cambio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-gmail-harto-google-mudado-proton-1400696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-pass-3941353.jpg?tf=1200x' alt='Adiós a Gmail: acabé harto de Google y me he mudado a Proton sin perder ni un correo en el cambio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-carga-solar-alternativa-carisimo-fenix-8-1400664'>El Garmin Fenix 7 con carga solar baja de precio y es la alternativa perfecta al nuevo (y carísimo) Fenix 8</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-carga-solar-alternativa-carisimo-fenix-8-1400664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/garmin-fenix-7-3361014.jpg?tf=1200x' alt='El Garmin Fenix 7 con carga solar baja de precio y es la alternativa perfecta al nuevo (y carísimo) Fenix 8' />
+    <h4><a href='https://computerhoy.com/pc/me-ha-gustado-asus-proart-px13-ia-crear-editar-imagenes-1401373'>Lo que más me ha gustado del Asus ProArt PX13 es su IA para crear y editar imágenes</a></h4>
+    <a href='https://computerhoy.com/pc/me-ha-gustado-asus-proart-px13-ia-crear-editar-imagenes-1401373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/asus-proart-px13-4007456.jpg?tf=1200x' alt='Lo que más me ha gustado del Asus ProArt PX13 es su IA para crear y editar imágenes' />
     </a>
 </div>
 
