@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/vez-actualizacion-microsoft-rompe-sistemas-linux-1402389'>Una vez más, una actualización de Microsoft rompe los sistemas Linux</a></h4>
-    <a href='https://computerhoy.com/pc/vez-actualizacion-microsoft-rompe-sistemas-linux-1402389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ordenador-linux-4055316.jpg?tf=1200x' alt='Una vez más, una actualización de Microsoft rompe los sistemas Linux' />
+    <h4><a href='https://computerhoy.com/tecnologia/me-tengo-comprar-movil-oneplus-va-ganando-estos-son-motivos-1402021'>Me tengo que comprar un móvil y este OnePlus va ganando: estos son los motivos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/me-tengo-comprar-movil-oneplus-va-ganando-estos-son-motivos-1402021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/detalle-pantalla-oneplus-nord-4-3911250.jpg?tf=1200x' alt='Me tengo que comprar un móvil y este OnePlus va ganando: estos son los motivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-suma-carro-presenta-funcion-ia-mejorar-fotos-1402382'>Apple se suma al carro y presenta esta función con IA para mejorar tus fotos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-suma-carro-presenta-funcion-ia-mejorar-fotos-1402382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-intelligence-3488606.jpg?tf=1200x' alt='Apple se suma al carro y presenta esta función con IA para mejorar tus fotos' />
+    <h4><a href='https://computerhoy.com/life/islandia-ha-quedado-pepinos-culpa-influencer-tiktok-1402410'>Islandia se ha quedado sin pepinos, ¡por culpa de un influencer de TikTok!</a></h4>
+    <a href='https://computerhoy.com/life/islandia-ha-quedado-pepinos-culpa-influencer-tiktok-1402410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fenomeno-ha-dejado-islandia-pepinos-pasando-4055492.jpg?tf=1200x' alt='Islandia se ha quedado sin pepinos, ¡por culpa de un influencer de TikTok!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-brutal-samsung-baja-precio-recien-estrenado-ya-50-euros-barato-1401968'>El reloj más brutal de Samsung baja de precio recién estrenado: es ya 50 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-brutal-samsung-baja-precio-recien-estrenado-ya-50-euros-barato-1401968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-watch-ultra-colores-3651241.jpg?tf=1200x' alt='El reloj más brutal de Samsung baja de precio recién estrenado: es ya 50 euros más barato' />
+    <h4><a href='https://computerhoy.com/internet/lifi-tecnologia-alternativa-wifi-100-veces-rapida-segura-eficiente-1401812'>Así es LiFi, la tecnología que podría sustituir al WiFi: 100 veces más rápida, segura y eficiente </a></h4>
+    <a href='https://computerhoy.com/internet/lifi-tecnologia-alternativa-wifi-100-veces-rapida-segura-eficiente-1401812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/conectividad-lifi-4033817.jpg?tf=1200x' alt='Así es LiFi, la tecnología que podría sustituir al WiFi: 100 veces más rápida, segura y eficiente ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-ocupada-ia-olvidate-gpu-jugadores-baratas-mejores-1402373'>Nvidia está ocupada con la IA, así que olvídate de GPU para jugadores más baratas y mejores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-ocupada-ia-olvidate-gpu-jugadores-baratas-mejores-1402373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mayoria-empleados-nvidia-han-vuelto-millonarios-pero-no-pueden-disfrutarlo-4037653.jpg?tf=1200x' alt='Nvidia está ocupada con la IA, así que olvídate de GPU para jugadores más baratas y mejores' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-expertos-ciberseguridad-1269702'>La regla de los 5 minutos para proteger tu móvil que recomiendan expertos en ciberseguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-expertos-ciberseguridad-1269702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/regla-5-minutos-proteger-movil-3310619.jpg?tf=1200x' alt='La regla de los 5 minutos para proteger tu móvil que recomiendan expertos en ciberseguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/resolucion-smart-tv-1080p-8k-1399776'>Entendiendo la resolución de los Smart TV: del 1080p hasta 8K y más</a></h4>
-    <a href='https://computerhoy.com/tv/resolucion-smart-tv-1080p-8k-1399776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/resoluciones-tv-3931916.jpg?tf=1200x' alt='Entendiendo la resolución de los Smart TV: del 1080p hasta 8K y más' />
+    <h4><a href='https://computerhoy.com/redes/deberias-colocar-papel-aluminio-router-wifi-1401248'>Por qué deberías colocar papel de aluminio detrás de tu router WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/deberias-colocar-papel-aluminio-router-wifi-1401248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/deberias-colocar-papel-aluminio-detras-router-wifi-4002677.jpg?tf=1200x' alt='Por qué deberías colocar papel de aluminio detrás de tu router WiFi' />
     </a>
 </div>
 
