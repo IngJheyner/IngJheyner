@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/gratis-casi-nadie-utiliza-truco-google-maps-proteger-casa-ladrones-1401639'>Es gratis y casi nadie lo utiliza: el truco de Google Maps para proteger tu casa de los ladrones</a></h4>
+    <a href='https://computerhoy.com/google/gratis-casi-nadie-utiliza-truco-google-maps-proteger-casa-ladrones-1401639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gratis-casi-nadie-utiliza-truco-google-maps-proteger-casa-ladrones-4018266.jpg?tf=1200x' alt='Es gratis y casi nadie lo utiliza: el truco de Google Maps para proteger tu casa de los ladrones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-windows-10-maquina-virtual-1401932'>Cómo instalar Windows 10 en una máquina virtual</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-windows-10-maquina-virtual-1401932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instalar-windows-10-maquina-virtual-4051763.jpg?tf=1200x' alt='Cómo instalar Windows 10 en una máquina virtual' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/lg-thinq-hub-ia-convierte-centro-neuralgico-casa-1402431'>LG ThinQ ON, el hub con IA que se convierte en el centro neurálgico de tu casa</a></h4>
     <a href='https://computerhoy.com/hogar/lg-thinq-hub-ia-convierte-centro-neuralgico-casa-1402431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lg-thinq-4055823.jpg?tf=1200x' alt='LG ThinQ ON, el hub con IA que se convierte en el centro neurálgico de tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-tajante-te-llega-mensaje-whatsapp-acude-comisaria-inmediato-1402443'>La Policía Nacional tajante: si te llega este mensaje de WhatsApp acude a la comisaría de inmediato</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-tajante-te-llega-mensaje-whatsapp-acude-comisaria-inmediato-1402443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/policia-nacional-tajante-te-llega-mensaje-whatsapp-acude-comisaria-inmediato-4056089.jpg?tf=1200x' alt='La Policía Nacional tajante: si te llega este mensaje de WhatsApp acude a la comisaría de inmediato' />
     </a>
 </div>
 
