@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-publicar-dos-fotos-estados-whatsapp-forma-simultanea-1401320'>Cómo publicar dos fotos en los estados de WhatsApp de forma simultánea</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-publicar-dos-fotos-estados-whatsapp-forma-simultanea-1401320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-4006140.jpg?tf=1200x' alt='Cómo publicar dos fotos en los estados de WhatsApp de forma simultánea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/roban-movil-activa-localizacion-alucina-ver-solo-tabiques-distancia-1402508'>Le roban el móvil, activa la localización y alucina al ver que está a solo unos tabiques de distancia</a></h4>
+    <a href='https://computerhoy.com/life/roban-movil-activa-localizacion-alucina-ver-solo-tabiques-distancia-1402508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/roban-movil-activa-localizacion-alucina-ver-solo-tabiques-distancia-4058033.jpg?tf=1200x' alt='Le roban el móvil, activa la localización y alucina al ver que está a solo unos tabiques de distancia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/lenovo-lia-vende-potentisima-tablet-snapdragon-8-gen-1-practicamente-pc-gaming-1402503'>Lenovo la lía: vende una potentísima tablet con Snapdragon 8+ Gen 1 que es prácticamente un PC gaming</a></h4>
+    <a href='https://computerhoy.com/android/lenovo-lia-vende-potentisima-tablet-snapdragon-8-gen-1-practicamente-pc-gaming-1402503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lenovo-y700-4057611.jpg?tf=1200x' alt='Lenovo la lía: vende una potentísima tablet con Snapdragon 8+ Gen 1 que es prácticamente un PC gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/evitar-sobrecalientamiento-movil-android-auto-1399349'>¡No podía ni tocarlo! Así he logrado que mi móvil no se sobrecaliente cuando utilizo Android Auto</a></h4>
+    <a href='https://computerhoy.com/android/evitar-sobrecalientamiento-movil-android-auto-1399349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/no-podia-ni-tocarlo-he-logrado-mi-movil-no-sobrecaliente-cuando-utilizo-android-auto-3901501.jpg?tf=1200x' alt='¡No podía ni tocarlo! Así he logrado que mi móvil no se sobrecaliente cuando utilizo Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/motorola-lanza-edge-50-neo-vuelve-compacto-apuesta-todo-diseno-colorido-1402254'>Motorola lanza el Edge 50 Neo, que se vuelve más compacto y lo apuesta todo al diseño colorido</a></h4>
     <a href='https://computerhoy.com/moviles/motorola-lanza-edge-50-neo-vuelve-compacto-apuesta-todo-diseno-colorido-1402254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/motorola-edge-50-neo-4050361.jpg?tf=1200x' alt='Motorola lanza el Edge 50 Neo, que se vuelve más compacto y lo apuesta todo al diseño colorido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-ssd-tienes-instalado-pc-1401721'>Cómo comprobar qué SSD tienes instalado en tu PC</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-comprobar-ssd-tienes-instalado-pc-1401721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/razon-deberias-instalar-dos-discos-ssd-pc-windows-3298501.jpg?tf=1200x' alt='Cómo comprobar qué SSD tienes instalado en tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ni-freidora-aire-ni-olla-presion-lidl-tiene-manera-saludable-cocinar-menos-20-euros-1402295'>Ni freidora de aire ni olla a presión: Lidl tiene la manera más saludable de cocinar, y por menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/life/ni-freidora-aire-ni-olla-presion-lidl-tiene-manera-saludable-cocinar-menos-20-euros-1402295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/horario-lidl-hora-abre-cierra-supermercado-3387201.jpg?tf=1200x' alt='Ni freidora de aire ni olla a presión: Lidl tiene la manera más saludable de cocinar, y por menos de 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/significado-numeros-tostador-952233'>Llevas utilizando mal los números del tostador toda la vida, y seguramente no lo sabes</a></h4>
-    <a href='https://computerhoy.com/noticias/significado-numeros-tostador-952233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tostador-llamas-4055665.jpg?tf=1200x' alt='Llevas utilizando mal los números del tostador toda la vida, y seguramente no lo sabes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/truco-definitivo-borrar-todas-cookies-movil-android-segundos-1399696'>El truco definitivo para borrar todas las cookies de tu móvil Android en segundos</a></h4>
-    <a href='https://computerhoy.com/android/truco-definitivo-borrar-todas-cookies-movil-android-segundos-1399696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/truco-definitivo-borrar-todas-cookies-movil-android-segundos-3917249.jpg?tf=1200x' alt='El truco definitivo para borrar todas las cookies de tu móvil Android en segundos' />
     </a>
 </div>
 
