@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nueva-teoria-sugiere-existencia-formas-vida-desconocidas-dentro-cuerpo-humano-cientificos-1402227'>Nueva teoría sugiere la existencia de formas de vida desconocidas dentro del cuerpo humano, según los científicos</a></h4>
+    <a href='https://computerhoy.com/ciencia/nueva-teoria-sugiere-existencia-formas-vida-desconocidas-dentro-cuerpo-humano-cientificos-1402227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/arn-4048929.jpg?tf=1200x' alt='Nueva teoría sugiere la existencia de formas de vida desconocidas dentro del cuerpo humano, según los científicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-alerta-cuidado-mensaje-whatsapp-ganaras-dinero-pero-luego-1402346'>La Policía Nacional alerta: cuidado con este mensaje de WhatsApp, ganarás dinero, pero luego…</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-nacional-alerta-cuidado-mensaje-whatsapp-ganaras-dinero-pero-luego-1402346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/policia-nacional-alerta-cuidado-mensaje-whatsapp-ganaras-dinero-pero-luego-4053373.jpg?tf=1200x' alt='La Policía Nacional alerta: cuidado con este mensaje de WhatsApp, ganarás dinero, pero luego…' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/para-que-sirve-tercer-cajon-lavadora-1277056'>Las redes en stock al descubrir para qué sirve el tercer compartimento del cajetín de la lavadora</a></h4>
     <a href='https://computerhoy.com/life/para-que-sirve-tercer-cajon-lavadora-1277056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/redes-impactadas-descubrir-como-utiliza-correctamente-cajetin-lavadora-3086448.jpg?tf=1200x' alt='Las redes en stock al descubrir para qué sirve el tercer compartimento del cajetín de la lavadora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sirven-cables-cruzan-carreteras-1402318'>¿Para qué sirven los cables que cruzan las carreteras?</a></h4>
-    <a href='https://computerhoy.com/life/sirven-cables-cruzan-carreteras-1402318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sirven-cables-cruzan-carreteras-4051618.jpg?tf=1200x' alt='¿Para qué sirven los cables que cruzan las carreteras?' />
     </a>
 </div>
 
