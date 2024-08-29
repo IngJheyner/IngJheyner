@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/grave-error-comer-yogur-1305824'>El grave error que el 99% de las personas comete al comerse un yogur</a></h4>
-    <a href='https://computerhoy.com/life/grave-error-comer-yogur-1305824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/yogur-3138628.jpg?tf=1200x' alt='El grave error que el 99% de las personas comete al comerse un yogur' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-permitira-hacer-llamadas-emergencia-gratis-starlink-todo-mundo-1402534'>Elon Musk permitirá hacer llamadas de emergencia gratis por Starlink en todo el mundo</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-permitira-hacer-llamadas-emergencia-gratis-starlink-todo-mundo-1402534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/starlink-4058719.jpg?tf=1200x' alt='Elon Musk permitirá hacer llamadas de emergencia gratis por Starlink en todo el mundo' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.com/alimentacion/metodo-viral-6-1-ahorrar-hacer-compra-mercadona-otros-supermercados-1402533'>Así es el método viral del 6 en 1 para ahorrar al hacer la compra en Mercadona y otros supermercados</a></h4>
     <a href='https://computerhoy.com/alimentacion/metodo-viral-6-1-ahorrar-hacer-compra-mercadona-otros-supermercados-1402533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hacer-compra-4058711.jpg?tf=1200x' alt='Así es el método viral del 6 en 1 para ahorrar al hacer la compra en Mercadona y otros supermercados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/filtra-posible-diseno-playstation-5-pro-bastante-decepcionante-1402531'>Se filtra el posible diseño de PlayStation 5 Pro y es bastante decepcionante</a></h4>
+    <a href='https://computerhoy.com/gaming/filtra-posible-diseno-playstation-5-pro-bastante-decepcionante-1402531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ps5-4058662.jpg?tf=1200x' alt='Se filtra el posible diseño de PlayStation 5 Pro y es bastante decepcionante' />
     </a>
 </div>
 
