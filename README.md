@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/nino-rompe-jarron-hace-3500-anos-museo-castigo-ejemplar-1402547'>Un niño rompe un jarrón de hace 3.500 años en un museo: el 'castigo' es ejemplar</a></h4>
+    <a href='https://computerhoy.com/life/nino-rompe-jarron-hace-3500-anos-museo-castigo-ejemplar-1402547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nino-rompe-jarron-3500-anos-museo-castigo-ejemplar-4059631.jpg?tf=1200x' alt='Un niño rompe un jarrón de hace 3.500 años en un museo: el 'castigo' es ejemplar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/te-gusta-leer-aqui-puedes-descargar-gratis-600-libros-pdf-epub-1402536'>¿Te gusta leer? Aquí puedes descargar gratis más de 600 libros en PDF y ePub</a></h4>
     <a href='https://computerhoy.com/internet/te-gusta-leer-aqui-puedes-descargar-gratis-600-libros-pdf-epub-1402536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/te-gusta-leer-aqui-puedes-descargar-gratis-600-libros-pdf-epub-4059634.jpg?tf=1200x' alt='¿Te gusta leer? Aquí puedes descargar gratis más de 600 libros en PDF y ePub' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/grave-error-comer-yogur-1305824'>El grave error que el 99% de las personas comete al comerse un yogur</a></h4>
     <a href='https://computerhoy.com/life/grave-error-comer-yogur-1305824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/yogur-3138628.jpg?tf=1200x' alt='El grave error que el 99% de las personas comete al comerse un yogur' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-permitira-hacer-llamadas-emergencia-gratis-starlink-todo-mundo-1402534'>Elon Musk permitirá hacer llamadas de emergencia gratis por Starlink en todo el mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-permitira-hacer-llamadas-emergencia-gratis-starlink-todo-mundo-1402534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/starlink-4058719.jpg?tf=1200x' alt='Elon Musk permitirá hacer llamadas de emergencia gratis por Starlink en todo el mundo' />
     </a>
 </div>
 
