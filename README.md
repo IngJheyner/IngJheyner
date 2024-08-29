@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/te-gusta-leer-aqui-puedes-descargar-gratis-600-libros-pdf-epub-1402536'>¿Te gusta leer? Aquí puedes descargar gratis más de 600 libros en PDF y ePub</a></h4>
+    <a href='https://computerhoy.com/internet/te-gusta-leer-aqui-puedes-descargar-gratis-600-libros-pdf-epub-1402536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/te-gusta-leer-aqui-puedes-descargar-gratis-600-libros-pdf-epub-4059634.jpg?tf=1200x' alt='¿Te gusta leer? Aquí puedes descargar gratis más de 600 libros en PDF y ePub' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/gamestop-abre-tiendas-fisicas-retro-vender-consolas-juegos-hace-decadas-1402542'>GameStop abre tiendas físicas retro para vender consolas y juegos de hace décadas</a></h4>
+    <a href='https://computerhoy.com/gaming/gamestop-abre-tiendas-fisicas-retro-vender-consolas-juegos-hace-decadas-1402542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gamestop-abre-tiendas-fisicas-retro-vender-consolas-juegos-hace-decadas-4058712.jpg?tf=1200x' alt='GameStop abre tiendas físicas retro para vender consolas y juegos de hace décadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hewlett-packard-hp-garaje-palo-alto-fabricar-ordenadores-calculadoras-impresoras-1401387'>Hewlett-Packard (HP): de un garaje en Palo Alto a fabricar ordenadores, calculadoras e impresoras</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hewlett-packard-hp-garaje-palo-alto-fabricar-ordenadores-calculadoras-impresoras-1401387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/hp-elite-dragonfly-1978740.jpg?tf=1200x' alt='Hewlett-Packard (HP): de un garaje en Palo Alto a fabricar ordenadores, calculadoras e impresoras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/grave-error-comer-yogur-1305824'>El grave error que el 99% de las personas comete al comerse un yogur</a></h4>
+    <a href='https://computerhoy.com/life/grave-error-comer-yogur-1305824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/yogur-3138628.jpg?tf=1200x' alt='El grave error que el 99% de las personas comete al comerse un yogur' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-permitira-hacer-llamadas-emergencia-gratis-starlink-todo-mundo-1402534'>Elon Musk permitirá hacer llamadas de emergencia gratis por Starlink en todo el mundo</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-permitira-hacer-llamadas-emergencia-gratis-starlink-todo-mundo-1402534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/starlink-4058719.jpg?tf=1200x' alt='Elon Musk permitirá hacer llamadas de emergencia gratis por Starlink en todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/gran-clasico-stephen-king-disponible-amazon-prime-video-adelanto-50-anos-tiempo-1402454'>El gran clásico de Stephen King disponible en Amazon Prime Video que se adelantó 50 años en el tiempo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/gran-clasico-stephen-king-disponible-amazon-prime-video-adelanto-50-anos-tiempo-1402454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gran-clasico-stephen-king-disponible-amazon-prime-video-adelanto-50-anos-tiempo-4056165.jpg?tf=1200x' alt='El gran clásico de Stephen King disponible en Amazon Prime Video que se adelantó 50 años en el tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/avecinan-multas-quienes-hayan-vendido-ropa-objetos-segunda-mano-vinted-wallapop-1402523'>Se avecinan multas para quienes hayan vendido ropa y objetos de segunda mano en Vinted y Wallapop</a></h4>
-    <a href='https://computerhoy.com/internet/avecinan-multas-quienes-hayan-vendido-ropa-objetos-segunda-mano-vinted-wallapop-1402523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/avecinan-multas-quienes-hayan-vendido-ropa-objetos-segunda-mano-vinted-wallapop-4058720.jpg?tf=1200x' alt='Se avecinan multas para quienes hayan vendido ropa y objetos de segunda mano en Vinted y Wallapop' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/metodo-viral-6-1-ahorrar-hacer-compra-mercadona-otros-supermercados-1402533'>Así es el método viral del 6 en 1 para ahorrar al hacer la compra en Mercadona y otros supermercados</a></h4>
-    <a href='https://computerhoy.com/alimentacion/metodo-viral-6-1-ahorrar-hacer-compra-mercadona-otros-supermercados-1402533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hacer-compra-4058711.jpg?tf=1200x' alt='Así es el método viral del 6 en 1 para ahorrar al hacer la compra en Mercadona y otros supermercados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/filtra-posible-diseno-playstation-5-pro-bastante-decepcionante-1402531'>Se filtra el posible diseño de PlayStation 5 Pro y es bastante decepcionante</a></h4>
-    <a href='https://computerhoy.com/gaming/filtra-posible-diseno-playstation-5-pro-bastante-decepcionante-1402531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ps5-4058662.jpg?tf=1200x' alt='Se filtra el posible diseño de PlayStation 5 Pro y es bastante decepcionante' />
     </a>
 </div>
 
