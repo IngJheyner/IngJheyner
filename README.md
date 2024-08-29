@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/motorola-lanza-edge-50-neo-vuelve-compacto-apuesta-todo-diseno-colorido-1402254'>Motorola lanza el Edge 50 Neo, que se vuelve más compacto y lo apuesta todo al diseño colorido</a></h4>
+    <a href='https://computerhoy.com/moviles/motorola-lanza-edge-50-neo-vuelve-compacto-apuesta-todo-diseno-colorido-1402254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/motorola-edge-50-neo-4050361.jpg?tf=1200x' alt='Motorola lanza el Edge 50 Neo, que se vuelve más compacto y lo apuesta todo al diseño colorido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-ssd-tienes-instalado-pc-1401721'>Cómo comprobar qué SSD tienes instalado en tu PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-comprobar-ssd-tienes-instalado-pc-1401721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/razon-deberias-instalar-dos-discos-ssd-pc-windows-3298501.jpg?tf=1200x' alt='Cómo comprobar qué SSD tienes instalado en tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ni-freidora-aire-ni-olla-presion-lidl-tiene-manera-saludable-cocinar-menos-20-euros-1402295'>Ni freidora de aire ni olla a presión: Lidl tiene la manera más saludable de cocinar, y por menos de 20 euros</a></h4>
+    <a href='https://computerhoy.com/life/ni-freidora-aire-ni-olla-presion-lidl-tiene-manera-saludable-cocinar-menos-20-euros-1402295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/horario-lidl-hora-abre-cierra-supermercado-3387201.jpg?tf=1200x' alt='Ni freidora de aire ni olla a presión: Lidl tiene la manera más saludable de cocinar, y por menos de 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/significado-numeros-tostador-952233'>Llevas utilizando mal los números del tostador toda la vida, y seguramente no lo sabes</a></h4>
+    <a href='https://computerhoy.com/noticias/significado-numeros-tostador-952233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tostador-llamas-4055665.jpg?tf=1200x' alt='Llevas utilizando mal los números del tostador toda la vida, y seguramente no lo sabes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/truco-definitivo-borrar-todas-cookies-movil-android-segundos-1399696'>El truco definitivo para borrar todas las cookies de tu móvil Android en segundos</a></h4>
     <a href='https://computerhoy.com/android/truco-definitivo-borrar-todas-cookies-movil-android-segundos-1399696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/truco-definitivo-borrar-todas-cookies-movil-android-segundos-3917249.jpg?tf=1200x' alt='El truco definitivo para borrar todas las cookies de tu móvil Android en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/motivos-nunca-debes-colocar-router-wifi-cerca-smart-tv-1298720'>Estas son las razones por las cuales no deberías colocar jamás el router WiFi junto al televisor</a></h4>
-    <a href='https://computerhoy.com/redes/motivos-nunca-debes-colocar-router-wifi-cerca-smart-tv-1298720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/router-tv-3124384.jpg?tf=1200x' alt='Estas son las razones por las cuales no deberías colocar jamás el router WiFi junto al televisor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/3-razones-airbnb-ya-no-tan-popular-usuarios-sale-ganando-booking-1402488'>Las 3 razones por las Airbnb ya no es tan popular entre los usuarios: ¿Sale ganando Booking?</a></h4>
-    <a href='https://computerhoy.com/life/3-razones-airbnb-ya-no-tan-popular-usuarios-sale-ganando-booking-1402488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/3-razones-airbnb-ya-no-tan-popular-usuarios-sale-ganando-booking-4053814.jpg?tf=1200x' alt='Las 3 razones por las Airbnb ya no es tan popular entre los usuarios: ¿Sale ganando Booking?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/gratis-casi-nadie-utiliza-truco-google-maps-proteger-casa-ladrones-1401639'>Es gratis y casi nadie lo utiliza: el truco de Google Maps para proteger tu casa de los ladrones</a></h4>
-    <a href='https://computerhoy.com/google/gratis-casi-nadie-utiliza-truco-google-maps-proteger-casa-ladrones-1401639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gratis-casi-nadie-utiliza-truco-google-maps-proteger-casa-ladrones-4018266.jpg?tf=1200x' alt='Es gratis y casi nadie lo utiliza: el truco de Google Maps para proteger tu casa de los ladrones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-windows-10-maquina-virtual-1401932'>Cómo instalar Windows 10 en una máquina virtual</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-windows-10-maquina-virtual-1401932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instalar-windows-10-maquina-virtual-4051763.jpg?tf=1200x' alt='Cómo instalar Windows 10 en una máquina virtual' />
     </a>
 </div>
 
