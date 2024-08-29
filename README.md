@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/vez-actualizacion-microsoft-rompe-sistemas-linux-1402389'>Una vez más, una actualización de Microsoft rompe los sistemas Linux</a></h4>
+    <a href='https://computerhoy.com/pc/vez-actualizacion-microsoft-rompe-sistemas-linux-1402389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ordenador-linux-4055316.jpg?tf=1200x' alt='Una vez más, una actualización de Microsoft rompe los sistemas Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-suma-carro-presenta-funcion-ia-mejorar-fotos-1402382'>Apple se suma al carro y presenta esta función con IA para mejorar tus fotos</a></h4>
+    <a href='https://computerhoy.com/apple/apple-suma-carro-presenta-funcion-ia-mejorar-fotos-1402382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-intelligence-3488606.jpg?tf=1200x' alt='Apple se suma al carro y presenta esta función con IA para mejorar tus fotos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-brutal-samsung-baja-precio-recien-estrenado-ya-50-euros-barato-1401968'>El reloj más brutal de Samsung baja de precio recién estrenado: es ya 50 euros más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-brutal-samsung-baja-precio-recien-estrenado-ya-50-euros-barato-1401968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-watch-ultra-colores-3651241.jpg?tf=1200x' alt='El reloj más brutal de Samsung baja de precio recién estrenado: es ya 50 euros más barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/resolucion-smart-tv-1080p-8k-1399776'>Entendiendo la resolución de los Smart TV: del 1080p hasta 8K y más</a></h4>
     <a href='https://computerhoy.com/tv/resolucion-smart-tv-1080p-8k-1399776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/resoluciones-tv-3931916.jpg?tf=1200x' alt='Entendiendo la resolución de los Smart TV: del 1080p hasta 8K y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-equivocado-portatil-barato-ultraligero-windows-11-1333712'>No se han equivocado: este portátil con Windows 11 apenas supera los 200 euros y es ultraligero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-equivocado-portatil-barato-ultraligero-windows-11-1333712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chuwi-gemibook-pro-2893138.jpg?tf=1200x' alt='No se han equivocado: este portátil con Windows 11 apenas supera los 200 euros y es ultraligero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/funcion-whatsapp-siempre-debes-desactivar-origen-muchas-estafas-1402112'>La función de WhatsApp que siempre debes desactivar: es el origen de muchas estafas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/funcion-whatsapp-siempre-debes-desactivar-origen-muchas-estafas-1402112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/funcion-whatsapp-siempre-debes-desactivar-origen-muchas-estafas-4043216.jpg?tf=1200x' alt='La función de WhatsApp que siempre debes desactivar: es el origen de muchas estafas' />
     </a>
 </div>
 
