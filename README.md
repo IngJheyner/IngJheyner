@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-alerta-cuidado-mensaje-whatsapp-ganaras-dinero-pero-luego-1402346'>La Policía Nacional alerta: cuidado con este mensaje de WhatsApp, ganarás dinero, pero luego…</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-alerta-cuidado-mensaje-whatsapp-ganaras-dinero-pero-luego-1402346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/policia-nacional-alerta-cuidado-mensaje-whatsapp-ganaras-dinero-pero-luego-4053373.jpg?tf=1200x' alt='La Policía Nacional alerta: cuidado con este mensaje de WhatsApp, ganarás dinero, pero luego…' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/significado-oculto-bandera-chats-whatsapp-como-activarla-cuando-debes-utilizarla-1402341'>El significado oculto de la bandera en los chats de WhatsApp: cómo activarla y cuándo debes utilizarla</a></h4>
     <a href='https://computerhoy.com/apps/significado-oculto-bandera-chats-whatsapp-como-activarla-cuando-debes-utilizarla-1402341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/significado-oculto-bandera-chats-whatsapp-como-activarla-cuando-debes-utilizarla-4052791.jpg?tf=1200x' alt='El significado oculto de la bandera en los chats de WhatsApp: cómo activarla y cuándo debes utilizarla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/sirven-cables-cruzan-carreteras-1402318'>¿Para qué sirven los cables que cruzan las carreteras?</a></h4>
     <a href='https://computerhoy.com/life/sirven-cables-cruzan-carreteras-1402318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sirven-cables-cruzan-carreteras-4051618.jpg?tf=1200x' alt='¿Para qué sirven los cables que cruzan las carreteras?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/juegos-gratis-senor-anillos-prime-gaming-1402340'>Para celebrar el estreno de Los Anillos de Poder, Amazon regala tres juegazos de El Señor de los Anillos</a></h4>
-    <a href='https://computerhoy.com/gaming/juegos-gratis-senor-anillos-prime-gaming-1402340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/celebrar-estreno-anillos-poder-amazon-regala-tres-juegazos-senor-anillos-4051316.jpg?tf=1200x' alt='Para celebrar el estreno de Los Anillos de Poder, Amazon regala tres juegazos de El Señor de los Anillos' />
     </a>
 </div>
 
