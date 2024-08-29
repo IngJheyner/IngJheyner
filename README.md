@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-publicar-dos-fotos-estados-whatsapp-forma-simultanea-1401320'>Cómo publicar dos fotos en los estados de WhatsApp de forma simultánea</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-publicar-dos-fotos-estados-whatsapp-forma-simultanea-1401320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-4006140.jpg?tf=1200x' alt='Cómo publicar dos fotos en los estados de WhatsApp de forma simultánea' />
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-terror-tiene-todo-miedo-exorcismos-ambientacion-70-arrasa-filmin-1401788'>La película de terror que lo tiene todo: miedo, exorcismos y una ambientación en los 70, y arrasa en Filmin</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-terror-tiene-todo-miedo-exorcismos-ambientacion-70-arrasa-filmin-1401788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pelicula-terror-tiene-todo-miedo-exorcismos-ambientacion-70-arrasa-filmin-4033457.jpg?tf=1200x' alt='La película de terror que lo tiene todo: miedo, exorcismos y una ambientación en los 70, y arrasa en Filmin' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/roban-movil-activa-localizacion-alucina-ver-solo-tabiques-distancia-1402508'>Le roban el móvil, activa la localización y alucina al ver que está a solo unos tabiques de distancia</a></h4>
-    <a href='https://computerhoy.com/life/roban-movil-activa-localizacion-alucina-ver-solo-tabiques-distancia-1402508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/roban-movil-activa-localizacion-alucina-ver-solo-tabiques-distancia-4058033.jpg?tf=1200x' alt='Le roban el móvil, activa la localización y alucina al ver que está a solo unos tabiques de distancia' />
+    <h4><a href='https://computerhoy.com/life/gimnasta-natalie-stichova-fallece-24-anos-caerse-precipicio-hacerse-selfie-1402528'>La gimnasta Natalie Stichova fallece a los 24 años tras caerse por un precipicio al hacerse un selfie</a></h4>
+    <a href='https://computerhoy.com/life/gimnasta-natalie-stichova-fallece-24-anos-caerse-precipicio-hacerse-selfie-1402528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gimnasta-natalie-stichova-fallece-24-anos-caerse-precipicio-hacerse-selfie-4058104.jpg?tf=1200x' alt='La gimnasta Natalie Stichova fallece a los 24 años tras caerse por un precipicio al hacerse un selfie' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/lenovo-lia-vende-potentisima-tablet-snapdragon-8-gen-1-practicamente-pc-gaming-1402503'>Lenovo la lía: vende una potentísima tablet con Snapdragon 8+ Gen 1 que es prácticamente un PC gaming</a></h4>
-    <a href='https://computerhoy.com/android/lenovo-lia-vende-potentisima-tablet-snapdragon-8-gen-1-practicamente-pc-gaming-1402503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lenovo-y700-4057611.jpg?tf=1200x' alt='Lenovo la lía: vende una potentísima tablet con Snapdragon 8+ Gen 1 que es prácticamente un PC gaming' />
+    <h4><a href='https://computerhoy.com/ciencia/como-afectaria-vida-marte-cuerpo-humano-estudio-asombra-resultados-1402396'>¿Cómo afectaría la vida en Marte al cuerpo humano? Un estudio asombra con los resultados</a></h4>
+    <a href='https://computerhoy.com/ciencia/como-afectaria-vida-marte-cuerpo-humano-estudio-asombra-resultados-1402396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/marte-4055483.jpg?tf=1200x' alt='¿Cómo afectaría la vida en Marte al cuerpo humano? Un estudio asombra con los resultados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/evitar-sobrecalientamiento-movil-android-auto-1399349'>¡No podía ni tocarlo! Así he logrado que mi móvil no se sobrecaliente cuando utilizo Android Auto</a></h4>
-    <a href='https://computerhoy.com/android/evitar-sobrecalientamiento-movil-android-auto-1399349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/no-podia-ni-tocarlo-he-logrado-mi-movil-no-sobrecaliente-cuando-utilizo-android-auto-3901501.jpg?tf=1200x' alt='¡No podía ni tocarlo! Así he logrado que mi móvil no se sobrecaliente cuando utilizo Android Auto' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/numero-desconocido-te-escribe-whatsapp-1394571'>Qué hacer y cómo reaccionar si un desconocido te escribe en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/numero-desconocido-te-escribe-whatsapp-1394571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-whatsapp-3683489.jpg?tf=1200x' alt='Qué hacer y cómo reaccionar si un desconocido te escribe en WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/motorola-lanza-edge-50-neo-vuelve-compacto-apuesta-todo-diseno-colorido-1402254'>Motorola lanza el Edge 50 Neo, que se vuelve más compacto y lo apuesta todo al diseño colorido</a></h4>
-    <a href='https://computerhoy.com/moviles/motorola-lanza-edge-50-neo-vuelve-compacto-apuesta-todo-diseno-colorido-1402254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/motorola-edge-50-neo-4050361.jpg?tf=1200x' alt='Motorola lanza el Edge 50 Neo, que se vuelve más compacto y lo apuesta todo al diseño colorido' />
+    <h4><a href='https://computerhoy.com/hogar/como-enchufar-varios-electrodomesticos-vez-casa-hacer-saltar-plomos-1402345'>Cómo enchufar varios electrodomésticos a la vez en casa sin hacer saltar los plomos</a></h4>
+    <a href='https://computerhoy.com/hogar/como-enchufar-varios-electrodomesticos-vez-casa-hacer-saltar-plomos-1402345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-enchufar-varios-electrodomesticos-vez-casa-hacer-saltar-plomos-4053084.jpg?tf=1200x' alt='Cómo enchufar varios electrodomésticos a la vez en casa sin hacer saltar los plomos' />
     </a>
 </div>
 
