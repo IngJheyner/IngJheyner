@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-brutal-samsung-baja-precio-recien-estrenado-ya-50-euros-barato-1401968'>El reloj más brutal de Samsung baja de precio recién estrenado: es ya 50 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-brutal-samsung-baja-precio-recien-estrenado-ya-50-euros-barato-1401968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-watch-ultra-colores-3651241.jpg?tf=1200x' alt='El reloj más brutal de Samsung baja de precio recién estrenado: es ya 50 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-ocupada-ia-olvidate-gpu-jugadores-baratas-mejores-1402373'>Nvidia está ocupada con la IA, así que olvídate de GPU para jugadores más baratas y mejores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-ocupada-ia-olvidate-gpu-jugadores-baratas-mejores-1402373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mayoria-empleados-nvidia-han-vuelto-millonarios-pero-no-pueden-disfrutarlo-4037653.jpg?tf=1200x' alt='Nvidia está ocupada con la IA, así que olvídate de GPU para jugadores más baratas y mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/resolucion-smart-tv-1080p-8k-1399776'>Entendiendo la resolución de los Smart TV: del 1080p hasta 8K y más</a></h4>
     <a href='https://computerhoy.com/tv/resolucion-smart-tv-1080p-8k-1399776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/resoluciones-tv-3931916.jpg?tf=1200x' alt='Entendiendo la resolución de los Smart TV: del 1080p hasta 8K y más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/funcion-whatsapp-siempre-debes-desactivar-origen-muchas-estafas-1402112'>La función de WhatsApp que siempre debes desactivar: es el origen de muchas estafas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/funcion-whatsapp-siempre-debes-desactivar-origen-muchas-estafas-1402112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/funcion-whatsapp-siempre-debes-desactivar-origen-muchas-estafas-4043216.jpg?tf=1200x' alt='La función de WhatsApp que siempre debes desactivar: es el origen de muchas estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-gmail-harto-google-mudado-proton-1400696'>Adiós a Gmail: acabé harto de Google y me he mudado a Proton sin perder ni un correo en el cambio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-gmail-harto-google-mudado-proton-1400696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-pass-3941353.jpg?tf=1200x' alt='Adiós a Gmail: acabé harto de Google y me he mudado a Proton sin perder ni un correo en el cambio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/me-ha-gustado-asus-proart-px13-ia-crear-editar-imagenes-1401373'>Lo que más me ha gustado del Asus ProArt PX13 es su IA para crear y editar imágenes</a></h4>
-    <a href='https://computerhoy.com/pc/me-ha-gustado-asus-proart-px13-ia-crear-editar-imagenes-1401373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/asus-proart-px13-4007456.jpg?tf=1200x' alt='Lo que más me ha gustado del Asus ProArt PX13 es su IA para crear y editar imágenes' />
     </a>
 </div>
 
