@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/microsoft-mejora-conectividad-moviles-android-parecerse-apple-1402402'>Microsoft mejora la conectividad con los móviles Android para parecerse a Apple</a></h4>
+    <a href='https://computerhoy.com/apps/microsoft-mejora-conectividad-moviles-android-parecerse-apple-1402402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-mejora-conectividad-moviles-android-parecerse-apple-4055482.jpg?tf=1200x' alt='Microsoft mejora la conectividad con los móviles Android para parecerse a Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/hora-dejar-atras-metodo-crear-contrasenas-caramelo-hackers-1402404'>Es hora de dejar atrás este método para crear tus contraseñas: es un caramelo para los hackers</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hora-dejar-atras-metodo-crear-contrasenas-caramelo-hackers-1402404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/contrasenas-inseguras-4055495.jpg?tf=1200x' alt='Es hora de dejar atrás este método para crear tus contraseñas: es un caramelo para los hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-ha-cogido-funcion-ios-mejorar-navegacion-aplicacion-android-1402374'>Google ha cogido una función de iOS para mejorar la navegación en su aplicación para Android</a></h4>
+    <a href='https://computerhoy.com/google/google-ha-cogido-funcion-ios-mejorar-navegacion-aplicacion-android-1402374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-ha-cogido-funcion-ios-mejorar-navegacion-internet-aplicacion-4054996.jpg?tf=1200x' alt='Google ha cogido una función de iOS para mejorar la navegación en su aplicación para Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/me-tengo-comprar-movil-oneplus-va-ganando-estos-son-motivos-1402021'>Me tengo que comprar un móvil y este OnePlus va ganando: estos son los motivos</a></h4>
     <a href='https://computerhoy.com/tecnologia/me-tengo-comprar-movil-oneplus-va-ganando-estos-son-motivos-1402021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/detalle-pantalla-oneplus-nord-4-3911250.jpg?tf=1200x' alt='Me tengo que comprar un móvil y este OnePlus va ganando: estos son los motivos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/islandia-ha-quedado-pepinos-culpa-influencer-tiktok-1402410'>Islandia se ha quedado sin pepinos, ¡por culpa de un influencer de TikTok!</a></h4>
     <a href='https://computerhoy.com/life/islandia-ha-quedado-pepinos-culpa-influencer-tiktok-1402410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fenomeno-ha-dejado-islandia-pepinos-pasando-4055492.jpg?tf=1200x' alt='Islandia se ha quedado sin pepinos, ¡por culpa de un influencer de TikTok!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/lifi-tecnologia-alternativa-wifi-100-veces-rapida-segura-eficiente-1401812'>Así es LiFi, la tecnología que podría sustituir al WiFi: 100 veces más rápida, segura y eficiente </a></h4>
-    <a href='https://computerhoy.com/internet/lifi-tecnologia-alternativa-wifi-100-veces-rapida-segura-eficiente-1401812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/conectividad-lifi-4033817.jpg?tf=1200x' alt='Así es LiFi, la tecnología que podría sustituir al WiFi: 100 veces más rápida, segura y eficiente ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-expertos-ciberseguridad-1269702'>La regla de los 5 minutos para proteger tu móvil que recomiendan expertos en ciberseguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-expertos-ciberseguridad-1269702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/regla-5-minutos-proteger-movil-3310619.jpg?tf=1200x' alt='La regla de los 5 minutos para proteger tu móvil que recomiendan expertos en ciberseguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/deberias-colocar-papel-aluminio-router-wifi-1401248'>Por qué deberías colocar papel de aluminio detrás de tu router WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/deberias-colocar-papel-aluminio-router-wifi-1401248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/deberias-colocar-papel-aluminio-detras-router-wifi-4002677.jpg?tf=1200x' alt='Por qué deberías colocar papel de aluminio detrás de tu router WiFi' />
     </a>
 </div>
 
