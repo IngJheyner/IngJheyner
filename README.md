@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-tajante-te-llega-mensaje-whatsapp-acude-comisaria-inmediato-1402443'>La Policía Nacional tajante: si te llega este mensaje de WhatsApp acude a la comisaría de inmediato</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-tajante-te-llega-mensaje-whatsapp-acude-comisaria-inmediato-1402443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/policia-nacional-tajante-te-llega-mensaje-whatsapp-acude-comisaria-inmediato-4056089.jpg?tf=1200x' alt='La Policía Nacional tajante: si te llega este mensaje de WhatsApp acude a la comisaría de inmediato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tecnico-cobra-40000-euros-cambiar-bombilla-dos-veces-ano-muchos-creen-muy-mal-pagado-1402406'>Este técnico cobra 40.000 euros por cambiar una bombilla dos veces al año y muchos creen que está muy mal pagado</a></h4>
+    <a href='https://computerhoy.com/life/tecnico-cobra-40000-euros-cambiar-bombilla-dos-veces-ano-muchos-creen-muy-mal-pagado-1402406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/trabajador-torres-comunicacion-4055649.jpg?tf=1200x' alt='Este técnico cobra 40.000 euros por cambiar una bombilla dos veces al año y muchos creen que está muy mal pagado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/codigos-secretos-optimizar-waze-1267470'>Los mejores códigos para optimizar Waze que no conocías (y deberías)</a></h4>
+    <a href='https://computerhoy.com/motor/codigos-secretos-optimizar-waze-1267470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/waze-3070258.jpg?tf=1200x' alt='Los mejores códigos para optimizar Waze que no conocías (y deberías)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/microsoft-mejora-conectividad-moviles-android-parecerse-apple-1402402'>Microsoft mejora la conectividad con los móviles Android para parecerse a Apple</a></h4>
     <a href='https://computerhoy.com/apps/microsoft-mejora-conectividad-moviles-android-parecerse-apple-1402402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-mejora-conectividad-moviles-android-parecerse-apple-4055482.jpg?tf=1200x' alt='Microsoft mejora la conectividad con los móviles Android para parecerse a Apple' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/hora-dejar-atras-metodo-crear-contrasenas-caramelo-hackers-1402404'>Es hora de dejar atrás este método para crear tus contraseñas: es un caramelo para los hackers</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/hora-dejar-atras-metodo-crear-contrasenas-caramelo-hackers-1402404' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/contrasenas-inseguras-4055495.jpg?tf=1200x' alt='Es hora de dejar atrás este método para crear tus contraseñas: es un caramelo para los hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-ha-cogido-funcion-ios-mejorar-navegacion-aplicacion-android-1402374'>Google ha cogido una función de iOS para mejorar la navegación en su aplicación para Android</a></h4>
-    <a href='https://computerhoy.com/google/google-ha-cogido-funcion-ios-mejorar-navegacion-aplicacion-android-1402374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-ha-cogido-funcion-ios-mejorar-navegacion-internet-aplicacion-4054996.jpg?tf=1200x' alt='Google ha cogido una función de iOS para mejorar la navegación en su aplicación para Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/me-tengo-comprar-movil-oneplus-va-ganando-estos-son-motivos-1402021'>Me tengo que comprar un móvil y este OnePlus va ganando: estos son los motivos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/me-tengo-comprar-movil-oneplus-va-ganando-estos-son-motivos-1402021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/detalle-pantalla-oneplus-nord-4-3911250.jpg?tf=1200x' alt='Me tengo que comprar un móvil y este OnePlus va ganando: estos son los motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/islandia-ha-quedado-pepinos-culpa-influencer-tiktok-1402410'>Islandia se ha quedado sin pepinos, ¡por culpa de un influencer de TikTok!</a></h4>
-    <a href='https://computerhoy.com/life/islandia-ha-quedado-pepinos-culpa-influencer-tiktok-1402410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fenomeno-ha-dejado-islandia-pepinos-pasando-4055492.jpg?tf=1200x' alt='Islandia se ha quedado sin pepinos, ¡por culpa de un influencer de TikTok!' />
     </a>
 </div>
 
