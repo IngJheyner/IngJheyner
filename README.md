@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-windows-10-maquina-virtual-1401932'>Cómo instalar Windows 10 en una máquina virtual</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-windows-10-maquina-virtual-1401932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instalar-windows-10-maquina-virtual-4051763.jpg?tf=1200x' alt='Cómo instalar Windows 10 en una máquina virtual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/futbol-gratis-iptv-telegram-arrasan-audiencia-protesta-altos-precios-operadores-1401916'>El fútbol gratis por IPTV y Telegram arrasan en audiencia como protesta ante los altos precios de los operadores</a></h4>
+    <a href='https://computerhoy.com/internet/futbol-gratis-iptv-telegram-arrasan-audiencia-protesta-altos-precios-operadores-1401916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/futbol-gratis-iptv-telegram-arrasan-audiencia-como-protesta-altos-precios-operadores-4037804.jpg?tf=1200x' alt='El fútbol gratis por IPTV y Telegram arrasan en audiencia como protesta ante los altos precios de los operadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/alertan-vuelta-espana-estafa-fibra-ya-causa-estragos-francia-1402425'>Alertan de la vuelta a España de la estafa de la fibra que ya causa estragos en Francia</a></h4>
+    <a href='https://computerhoy.com/life/alertan-vuelta-espana-estafa-fibra-ya-causa-estragos-francia-1402425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/alertan-vuelta-espana-estafa-fibra-ya-causa-estragos-francia-4055668.jpg?tf=1200x' alt='Alertan de la vuelta a España de la estafa de la fibra que ya causa estragos en Francia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/lg-thinq-hub-ia-convierte-centro-neuralgico-casa-1402431'>LG ThinQ ON, el hub con IA que se convierte en el centro neurálgico de tu casa</a></h4>
+    <a href='https://computerhoy.com/hogar/lg-thinq-hub-ia-convierte-centro-neuralgico-casa-1402431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lg-thinq-4055823.jpg?tf=1200x' alt='LG ThinQ ON, el hub con IA que se convierte en el centro neurálgico de tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-tajante-te-llega-mensaje-whatsapp-acude-comisaria-inmediato-1402443'>La Policía Nacional tajante: si te llega este mensaje de WhatsApp acude a la comisaría de inmediato</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-nacional-tajante-te-llega-mensaje-whatsapp-acude-comisaria-inmediato-1402443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/policia-nacional-tajante-te-llega-mensaje-whatsapp-acude-comisaria-inmediato-4056089.jpg?tf=1200x' alt='La Policía Nacional tajante: si te llega este mensaje de WhatsApp acude a la comisaría de inmediato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tecnico-cobra-40000-euros-cambiar-bombilla-dos-veces-ano-muchos-creen-muy-mal-pagado-1402406'>Este técnico cobra 40.000 euros por cambiar una bombilla dos veces al año y muchos creen que está muy mal pagado</a></h4>
-    <a href='https://computerhoy.com/life/tecnico-cobra-40000-euros-cambiar-bombilla-dos-veces-ano-muchos-creen-muy-mal-pagado-1402406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/trabajador-torres-comunicacion-4055649.jpg?tf=1200x' alt='Este técnico cobra 40.000 euros por cambiar una bombilla dos veces al año y muchos creen que está muy mal pagado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/codigos-secretos-optimizar-waze-1267470'>Los mejores códigos para optimizar Waze que no conocías (y deberías)</a></h4>
-    <a href='https://computerhoy.com/motor/codigos-secretos-optimizar-waze-1267470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/waze-3070258.jpg?tf=1200x' alt='Los mejores códigos para optimizar Waze que no conocías (y deberías)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/microsoft-mejora-conectividad-moviles-android-parecerse-apple-1402402'>Microsoft mejora la conectividad con los móviles Android para parecerse a Apple</a></h4>
-    <a href='https://computerhoy.com/apps/microsoft-mejora-conectividad-moviles-android-parecerse-apple-1402402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-mejora-conectividad-moviles-android-parecerse-apple-4055482.jpg?tf=1200x' alt='Microsoft mejora la conectividad con los móviles Android para parecerse a Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hora-dejar-atras-metodo-crear-contrasenas-caramelo-hackers-1402404'>Es hora de dejar atrás este método para crear tus contraseñas: es un caramelo para los hackers</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hora-dejar-atras-metodo-crear-contrasenas-caramelo-hackers-1402404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/contrasenas-inseguras-4055495.jpg?tf=1200x' alt='Es hora de dejar atrás este método para crear tus contraseñas: es un caramelo para los hackers' />
     </a>
 </div>
 
