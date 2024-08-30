@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/isp-throttling-como-saber-operadora-limitando-velocidad-conexion-sepas-1401929'>ISP Throttling: cómo saber si tu operadora está limitando la velocidad de tu conexión sin que lo sepas</a></h4>
+    <a href='https://computerhoy.com/redes/isp-throttling-como-saber-operadora-limitando-velocidad-conexion-sepas-1401929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/isp-throttling-como-saber-operadora-limitando-velocidad-conexion-sepas-4038841.jpg?tf=1200x' alt='ISP Throttling: cómo saber si tu operadora está limitando la velocidad de tu conexión sin que lo sepas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/truco-funcion-aumentar-mejorar-rendimiento-movil-xiaomi-1392923'>Desactivé esta función de mi móvil Xiaomi que no sirve para nada y ahora vuela, ha rejuvenecido al instante</a></h4>
+    <a href='https://computerhoy.com/moviles/truco-funcion-aumentar-mejorar-rendimiento-movil-xiaomi-1392923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-3602125.jpg?tf=1200x' alt='Desactivé esta función de mi móvil Xiaomi que no sirve para nada y ahora vuela, ha rejuvenecido al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-consultar-historial-documentos-impresos-windows-10-windows-11-1398238'>Cómo consultar el historial de documentos impresos en Windows 10 y Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-consultar-historial-documentos-impresos-windows-10-windows-11-1398238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/imprimir-archivos-pc-3847996.jpg?tf=1200x' alt='Cómo consultar el historial de documentos impresos en Windows 10 y Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-deja-claro-no-tienes-ninguna-multa-pendiente-dgt-estafa-1402477'>La Guardia Civil lo deja claro: no tienes ninguna multa pendiente de la DGT, es una estafa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/guardia-civil-deja-claro-no-tienes-ninguna-multa-pendiente-dgt-estafa-1402477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guardia-civil-deja-claro-no-tienes-ninguna-multa-pendiente-dgt-estafa-4056663.jpg?tf=1200x' alt='La Guardia Civil lo deja claro: no tienes ninguna multa pendiente de la DGT, es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/tcl-lanza-serie-televisores-pf650-espana-4k-fire-tv-integrado-dolby-atmos-1402640'>TCL lanza la serie de televisores PF650 en España con 4K, Fire TV integrado y Dolby Atmos</a></h4>
-    <a href='https://computerhoy.com/tv/tcl-lanza-serie-televisores-pf650-espana-4k-fire-tv-integrado-dolby-atmos-1402640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/serie-pf650-tcl-4063393.jpg?tf=1200x' alt='TCL lanza la serie de televisores PF650 en España con 4K, Fire TV integrado y Dolby Atmos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-ha-reforzado-privacidad-copias-seguridad-cifradas-extremo-extremo-1402645'>WhatsApp ha reforzado la privacidad de las copias de seguridad cifradas de extremo a extremo</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-ha-reforzado-privacidad-copias-seguridad-cifradas-extremo-extremo-1402645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-ha-reforzado-privacidad-copias-seguridad-cifradas-extremo-extremo-4063550.jpg?tf=1200x' alt='WhatsApp ha reforzado la privacidad de las copias de seguridad cifradas de extremo a extremo' />
     </a>
 </div>
 
