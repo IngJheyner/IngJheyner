@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/he-cambiado-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-1402728'>He cambiado Windows en mi viejo portátil por este sistema operativo gratuito y ahora vuela</a></h4>
+    <a href='https://computerhoy.com/pc/he-cambiado-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-1402728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/he-cambiado-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-4066727.jpg?tf=1200x' alt='He cambiado Windows en mi viejo portátil por este sistema operativo gratuito y ahora vuela' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/gran-clasico-cambio-siempre-carrera-quentin-tarantino-vuelve-cines-30-anos-despues-1402582'>El gran clásico que cambió para siempre la carrera de Quentin Tarantino vuelve a los cines… ¡30 años después!</a></h4>
     <a href='https://computerhoy.com/entretenimiento/gran-clasico-cambio-siempre-carrera-quentin-tarantino-vuelve-cines-30-anos-despues-1402582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gran-clasico-cambio-siempre-carrera-quentin-tarantino-vuelve-cines-30-anos-despues-4062512.jpg?tf=1200x' alt='El gran clásico que cambió para siempre la carrera de Quentin Tarantino vuelve a los cines… ¡30 años después!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/como-ver-gratis-partidos-laliga-primera-division-smart-tv-instalar-nada-1402726'>Cómo ver gratis partidos de la LaLiga de primera división en tu Smart TV sin instalar nada</a></h4>
     <a href='https://computerhoy.com/entretenimiento/como-ver-gratis-partidos-laliga-primera-division-smart-tv-instalar-nada-1402726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/laliga-ea-sports-4065810.jpg?tf=1200x' alt='Cómo ver gratis partidos de la LaLiga de primera división en tu Smart TV sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-pasar-fotos-movil-android-iphone-pendrive-usb-ordenador-1402717'>Cómo pasar las fotos de un móvil Android o iPhone a un pendrive USB sin ordenador</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-pasar-fotos-movil-android-iphone-pendrive-usb-ordenador-1402717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-pasar-fotos-movil-android-iphone-pendrive-usb-ordenador-4065811.jpg?tf=1200x' alt='Cómo pasar las fotos de un móvil Android o iPhone a un pendrive USB sin ordenador' />
     </a>
 </div>
 
