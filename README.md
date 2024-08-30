@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-llega-apple-watch-series-10-amazon-quita-stock-series-9-50eu-descuento-1401978'>Ya llega el Apple Watch Series 10 y Amazon se quita stock del Series 9 con 50€ de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-llega-apple-watch-series-10-amazon-quita-stock-series-9-50eu-descuento-1401978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187106.jpg?tf=1200x' alt='Ya llega el Apple Watch Series 10 y Amazon se quita stock del Series 9 con 50€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ciencia-seres-humanos-fecha-singularidad-1399601'>La ciencia calcula que el ser humano alcanzará la singularidad en solo 21 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ciencia-seres-humanos-fecha-singularidad-1399601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/foto-ia-3912121.jpg?tf=1200x' alt='La ciencia calcula que el ser humano alcanzará la singularidad en solo 21 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/ajuste-solucion-problema-google-maps-tuneles-1357358'>Si activas esta opción en los ajustes los túneles dejarán de ser un problema en Google Maps</a></h4>
+    <a href='https://computerhoy.com/google/ajuste-solucion-problema-google-maps-tuneles-1357358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nueva-opcion-oculta-google-maps-ya-no-te-perderas-nunca-tuneles-3262109.jpg?tf=1200x' alt='Si activas esta opción en los ajustes los túneles dejarán de ser un problema en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-requisitos-actualizacion-microsoft-quiere-te-compres-pc-nuevo-1402574'>Windows 11 y los requisitos de actualización: ¿Por qué Microsoft quiere que te compres un PC nuevo?</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-requisitos-actualizacion-microsoft-quiere-te-compres-pc-nuevo-1402574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-3970785.jpg?tf=1200x' alt='Windows 11 y los requisitos de actualización: ¿Por qué Microsoft quiere que te compres un PC nuevo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-676-computer-hoy-1401227'>¡Ya está en tu quiosco el número 676 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-676-computer-hoy-1401227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/computer-hoy-676-4048117.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 676 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/boton-eliminar-todos-mensajes-no-leidos-whatsapp-1402193'>La última novedad de WhatsApp es un botón que vas a desgastar de tanto utilizarlo</a></h4>
-    <a href='https://computerhoy.com/apps/boton-eliminar-todos-mensajes-no-leidos-whatsapp-1402193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/eres-nunca-leen-mensajes-whatsapp-nueva-funcion-ti-4048111.jpg?tf=1200x' alt='La última novedad de WhatsApp es un botón que vas a desgastar de tanto utilizarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/apps-imprescindibles-debes-instalar-tienes-certificado-digital-movil-1402138'>Apps imprescindibles que debes instalar si tienes el certificado digital en tu móvil</a></h4>
-    <a href='https://computerhoy.com/internet/apps-imprescindibles-debes-instalar-tienes-certificado-digital-movil-1402138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apps-imprescindibles-debes-instalar-tienes-certificado-digital-movil-4045963.jpg?tf=1200x' alt='Apps imprescindibles que debes instalar si tienes el certificado digital en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/firestick-chino-mas-barato-android-1328754'>Este Firestick chino con 4K cuesta la mitad, tiene Android y te permite instalar todas las aplicaciones que quieras</a></h4>
-    <a href='https://computerhoy.com/tecnologia/firestick-chino-mas-barato-android-1328754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dq06-atv-mini-tv-stick-3210922.jpg?tf=1200x' alt='Este Firestick chino con 4K cuesta la mitad, tiene Android y te permite instalar todas las aplicaciones que quieras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puertas-tecnologia-cuantica-despues-avance-internet-cambiara-siempre-1402433'>A las puertas de la tecnología cuántica: después de este avance internet cambiará para siempre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puertas-tecnologia-cuantica-despues-avance-internet-cambiara-siempre-1402433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ordenador-cuantico-4055987.jpg?tf=1200x' alt='A las puertas de la tecnología cuántica: después de este avance internet cambiará para siempre' />
     </a>
 </div>
 
