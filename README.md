@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-consultar-historial-documentos-impresos-windows-10-windows-11-1398238'>Cómo consultar el historial de documentos impresos en Windows 10 y Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-consultar-historial-documentos-impresos-windows-10-windows-11-1398238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/imprimir-archivos-pc-3847996.jpg?tf=1200x' alt='Cómo consultar el historial de documentos impresos en Windows 10 y Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/ciudadano-kane-cadena-perpetua-mejor-pelicula-historia-ver-streaming-1401624'>Ni Cadena Perpetua ni Ciudadano Kane, la mejor película de la historia ya se puede ver en streaming</a></h4>
     <a href='https://computerhoy.com/entretenimiento/ciudadano-kane-cadena-perpetua-mejor-pelicula-historia-ver-streaming-1401624' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-ciudadano-kane-ni-cadena-perpetua-mejor-pelicula-historia-ya-puede-ver-plataformas-4015518.jpg?tf=1200x' alt='Ni Cadena Perpetua ni Ciudadano Kane, la mejor película de la historia ya se puede ver en streaming' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-ha-reforzado-privacidad-copias-seguridad-cifradas-extremo-extremo-1402645'>WhatsApp ha reforzado la privacidad de las copias de seguridad cifradas de extremo a extremo</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-ha-reforzado-privacidad-copias-seguridad-cifradas-extremo-extremo-1402645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-ha-reforzado-privacidad-copias-seguridad-cifradas-extremo-extremo-4063550.jpg?tf=1200x' alt='WhatsApp ha reforzado la privacidad de las copias de seguridad cifradas de extremo a extremo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/piden-retirada-air-fryers-casi-nos-prende-fuego-cocina-1402623'>Piden la retirada de las de las air fryers: “Casi se nos prende fuego la cocina”</a></h4>
-    <a href='https://computerhoy.com/hogar/piden-retirada-air-fryers-casi-nos-prende-fuego-cocina-1402623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/freidora-aire-prohibida-4063555.jpg?tf=1200x' alt='Piden la retirada de las de las air fryers: “Casi se nos prende fuego la cocina”' />
     </a>
 </div>
 
