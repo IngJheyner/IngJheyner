@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/estos-son-todos-smart-tv-quedaran-netflix-partir-1-septiembre-1402544'>Estos son todos los Smart TV que se quedarán sin Netflix a partir del 1 de septiembre</a></h4>
+    <a href='https://computerhoy.com/tv/estos-son-todos-smart-tv-quedaran-netflix-partir-1-septiembre-1402544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estos-son-todos-smart-tv-quedaran-netflix-partir-1-septiembre-4060086.jpg?tf=1200x' alt='Estos son todos los Smart TV que se quedarán sin Netflix a partir del 1 de septiembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/nino-rompe-jarron-hace-3500-anos-museo-castigo-ejemplar-1402547'>Un niño rompe un jarrón de hace 3.500 años en un museo: el 'castigo' es ejemplar</a></h4>
     <a href='https://computerhoy.com/life/nino-rompe-jarron-hace-3500-anos-museo-castigo-ejemplar-1402547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nino-rompe-jarron-3500-anos-museo-castigo-ejemplar-4059631.jpg?tf=1200x' alt='Un niño rompe un jarrón de hace 3.500 años en un museo: el 'castigo' es ejemplar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/hewlett-packard-hp-garaje-palo-alto-fabricar-ordenadores-calculadoras-impresoras-1401387'>Hewlett-Packard (HP): de un garaje en Palo Alto a fabricar ordenadores, calculadoras e impresoras</a></h4>
     <a href='https://computerhoy.com/tecnologia/hewlett-packard-hp-garaje-palo-alto-fabricar-ordenadores-calculadoras-impresoras-1401387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/hp-elite-dragonfly-1978740.jpg?tf=1200x' alt='Hewlett-Packard (HP): de un garaje en Palo Alto a fabricar ordenadores, calculadoras e impresoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/grave-error-comer-yogur-1305824'>El grave error que el 99% de las personas comete al comerse un yogur</a></h4>
-    <a href='https://computerhoy.com/life/grave-error-comer-yogur-1305824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/yogur-3138628.jpg?tf=1200x' alt='El grave error que el 99% de las personas comete al comerse un yogur' />
     </a>
 </div>
 
