@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/quieres-ajustar-volumen-spotify-iphone-va-ser-engorroso-nunca-gracias-apple-1402596'>¿Quieres ajustar el volumen de Spotify en tu iPhone? Va a ser más engorroso que nunca gracias a Apple</a></h4>
+    <a href='https://computerhoy.com/apple/quieres-ajustar-volumen-spotify-iphone-va-ser-engorroso-nunca-gracias-apple-1402596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/spotify-iphone-4062845.jpg?tf=1200x' alt='¿Quieres ajustar el volumen de Spotify en tu iPhone? Va a ser más engorroso que nunca gracias a Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-barato-comprariamos-pantalla-amoled-gps-precio-dificil-creer-1402587'>Este es el reloj barato que compraríamos: pantalla AMOLED, GPS y precio difícil de creer</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-barato-comprariamos-pantalla-amoled-gps-precio-dificil-creer-1402587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cmf-watch-pro-2-3643244.jpg?tf=1200x' alt='Este es el reloj barato que compraríamos: pantalla AMOLED, GPS y precio difícil de creer' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/bateria-samsung-galaxy-watch-puede-durar-tiempo-simple-ajuste-1402585'>La batería de tu Samsung Galaxy Watch puede durar más tiempo con un simple ajuste</a></h4>
     <a href='https://computerhoy.com/tecnologia/bateria-samsung-galaxy-watch-puede-durar-tiempo-simple-ajuste-1402585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/galaxy-watch-6-3306750.jpg?tf=1200x' alt='La batería de tu Samsung Galaxy Watch puede durar más tiempo con un simple ajuste' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/gemini-va-hacer-facil-nunca-uso-gmail-movil-1402581'>Gemini va a hacer más fácil que nunca el uso de Gmail desde tu móvil</a></h4>
-    <a href='https://computerhoy.com/google/gemini-va-hacer-facil-nunca-uso-gmail-movil-1402581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-nuevo-modelo-ia-google-3239910.jpg?tf=1200x' alt='Gemini va a hacer más fácil que nunca el uso de Gmail desde tu móvil' />
     </a>
 </div>
 
