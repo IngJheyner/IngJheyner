@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/retraso-primer-paseo-espacial-privado-explosion-cohete-falcon-9-spacex-1402553'>Se retrasa el primer paseo espacial privado por la explosión de un cohete Falcon 9 de SpaceX </a></h4>
+    <a href='https://computerhoy.com/espacio/retraso-primer-paseo-espacial-privado-explosion-cohete-falcon-9-spacex-1402553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/retrasa-primer-paseo-espacial-privado-explosion-cohete-falcon-9-spacex-4060539.jpg?tf=1200x' alt='Se retrasa el primer paseo espacial privado por la explosión de un cohete Falcon 9 de SpaceX ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/descifran-antiguos-textos-babilonicos-4000-anos-revelan-como-eclipses-lunares-anticipaban-catastrofes-1402249'>Descifran antiguos textos babilónicos de 4.000 años que revelan como los eclipses lunares anticipaban catástrofes</a></h4>
+    <a href='https://computerhoy.com/life/descifran-antiguos-textos-babilonicos-4000-anos-revelan-como-eclipses-lunares-anticipaban-catastrofes-1402249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tablillas-babilonicas-4049242.jpg?tf=1200x' alt='Descifran antiguos textos babilónicos de 4.000 años que revelan como los eclipses lunares anticipaban catástrofes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/streaming/mejora-experiencia-netflix-cambiar-ajustes-1165756'>Mejora tu experiencia en Netflix con estos ajustes</a></h4>
+    <a href='https://computerhoy.com/streaming/mejora-experiencia-netflix-cambiar-ajustes-1165756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/puedes-comprobar-llevas-visto-no-netflix-2888336.jpg?tf=1200x' alt='Mejora tu experiencia en Netflix con estos ajustes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-7-32gb-ram-oferta-amazon-1335360'>32GB de RAM y Ryzen 7: este PC es una bestia de potencia pero su tamaño es Mini</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-7-32gb-ram-oferta-amazon-1335360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-amd-ryzen-3274364.jpg?tf=1200x' alt='32GB de RAM y Ryzen 7: este PC es una bestia de potencia pero su tamaño es Mini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/estos-son-todos-smart-tv-quedaran-netflix-partir-1-septiembre-1402544'>Estos son todos los Smart TV que se quedarán sin Netflix a partir del 1 de septiembre</a></h4>
     <a href='https://computerhoy.com/tv/estos-son-todos-smart-tv-quedaran-netflix-partir-1-septiembre-1402544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estos-son-todos-smart-tv-quedaran-netflix-partir-1-septiembre-4060086.jpg?tf=1200x' alt='Estos son todos los Smart TV que se quedarán sin Netflix a partir del 1 de septiembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nino-rompe-jarron-hace-3500-anos-museo-castigo-ejemplar-1402547'>Un niño rompe un jarrón de hace 3.500 años en un museo: el 'castigo' es ejemplar</a></h4>
-    <a href='https://computerhoy.com/life/nino-rompe-jarron-hace-3500-anos-museo-castigo-ejemplar-1402547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nino-rompe-jarron-3500-anos-museo-castigo-ejemplar-4059631.jpg?tf=1200x' alt='Un niño rompe un jarrón de hace 3.500 años en un museo: el 'castigo' es ejemplar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/te-gusta-leer-aqui-puedes-descargar-gratis-600-libros-pdf-epub-1402536'>¿Te gusta leer? Aquí puedes descargar gratis más de 600 libros en PDF y ePub</a></h4>
-    <a href='https://computerhoy.com/internet/te-gusta-leer-aqui-puedes-descargar-gratis-600-libros-pdf-epub-1402536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/te-gusta-leer-aqui-puedes-descargar-gratis-600-libros-pdf-epub-4059634.jpg?tf=1200x' alt='¿Te gusta leer? Aquí puedes descargar gratis más de 600 libros en PDF y ePub' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/gamestop-abre-tiendas-fisicas-retro-vender-consolas-juegos-hace-decadas-1402542'>GameStop abre tiendas físicas retro para vender consolas y juegos de hace décadas</a></h4>
-    <a href='https://computerhoy.com/gaming/gamestop-abre-tiendas-fisicas-retro-vender-consolas-juegos-hace-decadas-1402542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gamestop-abre-tiendas-fisicas-retro-vender-consolas-juegos-hace-decadas-4058712.jpg?tf=1200x' alt='GameStop abre tiendas físicas retro para vender consolas y juegos de hace décadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hewlett-packard-hp-garaje-palo-alto-fabricar-ordenadores-calculadoras-impresoras-1401387'>Hewlett-Packard (HP): de un garaje en Palo Alto a fabricar ordenadores, calculadoras e impresoras</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hewlett-packard-hp-garaje-palo-alto-fabricar-ordenadores-calculadoras-impresoras-1401387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/hp-elite-dragonfly-1978740.jpg?tf=1200x' alt='Hewlett-Packard (HP): de un garaje en Palo Alto a fabricar ordenadores, calculadoras e impresoras' />
     </a>
 </div>
 
