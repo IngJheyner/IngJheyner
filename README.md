@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/quieres-ajustar-volumen-spotify-iphone-va-ser-engorroso-nunca-gracias-apple-1402596'>¿Quieres ajustar el volumen de Spotify en tu iPhone? Va a ser más engorroso que nunca gracias a Apple</a></h4>
-    <a href='https://computerhoy.com/apple/quieres-ajustar-volumen-spotify-iphone-va-ser-engorroso-nunca-gracias-apple-1402596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/spotify-iphone-4062845.jpg?tf=1200x' alt='¿Quieres ajustar el volumen de Spotify en tu iPhone? Va a ser más engorroso que nunca gracias a Apple' />
+    <h4><a href='https://computerhoy.com/hogar/piden-retirada-air-fryers-casi-nos-prende-fuego-cocina-1402623'>Piden la retirada de las de las air fryers: “Casi se nos prende fuego la cocina”</a></h4>
+    <a href='https://computerhoy.com/hogar/piden-retirada-air-fryers-casi-nos-prende-fuego-cocina-1402623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/freidora-aire-prohibida-4063555.jpg?tf=1200x' alt='Piden la retirada de las de las air fryers: “Casi se nos prende fuego la cocina”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-barato-comprariamos-pantalla-amoled-gps-precio-dificil-creer-1402587'>Este es el reloj barato que compraríamos: pantalla AMOLED, GPS y precio difícil de creer</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-barato-comprariamos-pantalla-amoled-gps-precio-dificil-creer-1402587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cmf-watch-pro-2-3643244.jpg?tf=1200x' alt='Este es el reloj barato que compraríamos: pantalla AMOLED, GPS y precio difícil de creer' />
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-5-2-gb-prueba-ventajas-no-solo-estan-precio-1402642'>Raspberry Pi 5 de 2 GB a prueba: sus ventajas no solo están en el precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-5-2-gb-prueba-ventajas-no-solo-estan-precio-1402642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/trucos-acelerar-rapida-facilmente-raspberry-pi-5-3292310.jpg?tf=1200x' alt='Raspberry Pi 5 de 2 GB a prueba: sus ventajas no solo están en el precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ni-digi-ni-finetwork-movistar-revienta-mercado-todo-futbol-ficcion-4290-euros-mes-1402602'>Ni DIGI ni Finetwork, Movistar revienta el mercado: todo el fútbol y ficción por 42,90 euros al mes</a></h4>
-    <a href='https://computerhoy.com/moviles/ni-digi-ni-finetwork-movistar-revienta-mercado-todo-futbol-ficcion-4290-euros-mes-1402602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-digi-ni-finetwork-movistar-revienta-mercado-todo-futbol-ficcion-4290-euros-mes-4062695.jpg?tf=1200x' alt='Ni DIGI ni Finetwork, Movistar revienta el mercado: todo el fútbol y ficción por 42,90 euros al mes' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/investigadores-trabajan-evitar-gran-desastre-relacionado-computacion-cuantica-1402605'>Investigadores trabajan para evitar un gran desastre relacionado con la computación cuántica</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/investigadores-trabajan-evitar-gran-desastre-relacionado-computacion-cuantica-1402605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ciberseguridad-computacion-cuantica-4062870.jpg?tf=1200x' alt='Investigadores trabajan para evitar un gran desastre relacionado con la computación cuántica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/cierra-paginas-streaming-ilegal-series-peliculas-utilizadas-mundo-1402576'>Cierra una de las páginas streaming ilegal de series y películas más utilizadas del mundo</a></h4>
-    <a href='https://computerhoy.com/tv/cierra-paginas-streaming-ilegal-series-peliculas-utilizadas-mundo-1402576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cierra-paginas-ilegales-streaming-utilizadas-mundo-4062511.jpg?tf=1200x' alt='Cierra una de las páginas streaming ilegal de series y películas más utilizadas del mundo' />
+    <h4><a href='https://computerhoy.com/google/tienes-dispositivo-google-tv-nuevos-canales-gratis-1401773'>¿Tienes un dispositivo con Google TV? Buenas noticias, Google añade nuevos canales gratuitos</a></h4>
+    <a href='https://computerhoy.com/google/tienes-dispositivo-google-tv-nuevos-canales-gratis-1401773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-tienes-activar-simplificar-google-tv-3814319.jpg?tf=1200x' alt='¿Tienes un dispositivo con Google TV? Buenas noticias, Google añade nuevos canales gratuitos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bateria-samsung-galaxy-watch-puede-durar-tiempo-simple-ajuste-1402585'>La batería de tu Samsung Galaxy Watch puede durar más tiempo con un simple ajuste</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bateria-samsung-galaxy-watch-puede-durar-tiempo-simple-ajuste-1402585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/galaxy-watch-6-3306750.jpg?tf=1200x' alt='La batería de tu Samsung Galaxy Watch puede durar más tiempo con un simple ajuste' />
+    <h4><a href='https://computerhoy.com/apple/apple-mira-futuro-iphone-17-pro-max-12-gb-ram-sistema-refrigeracion-eficiente-nunca-1402470'>Apple mira al futuro con el iPhone 17 Pro Max con 12 GB de RAM y un sistema de refrigeración más eficiente que nunca</a></h4>
+    <a href='https://computerhoy.com/apple/apple-mira-futuro-iphone-17-pro-max-12-gb-ram-sistema-refrigeracion-eficiente-nunca-1402470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-mira-futuro-iphone-17-pro-max-12-gb-ram-sistema-refrigeracion-eficiente-nunca-4056498.jpg?tf=1200x' alt='Apple mira al futuro con el iPhone 17 Pro Max con 12 GB de RAM y un sistema de refrigeración más eficiente que nunca' />
     </a>
 </div>
 
