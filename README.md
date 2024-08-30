@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bateria-samsung-galaxy-watch-puede-durar-tiempo-simple-ajuste-1402585'>La batería de tu Samsung Galaxy Watch puede durar más tiempo con un simple ajuste</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bateria-samsung-galaxy-watch-puede-durar-tiempo-simple-ajuste-1402585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/galaxy-watch-6-3306750.jpg?tf=1200x' alt='La batería de tu Samsung Galaxy Watch puede durar más tiempo con un simple ajuste' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/gemini-va-hacer-facil-nunca-uso-gmail-movil-1402581'>Gemini va a hacer más fácil que nunca el uso de Gmail desde tu móvil</a></h4>
+    <a href='https://computerhoy.com/google/gemini-va-hacer-facil-nunca-uso-gmail-movil-1402581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-nuevo-modelo-ia-google-3239910.jpg?tf=1200x' alt='Gemini va a hacer más fácil que nunca el uso de Gmail desde tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ya-llega-apple-watch-series-10-amazon-quita-stock-series-9-50eu-descuento-1401978'>Ya llega el Apple Watch Series 10 y Amazon se quita stock del Series 9 con 50€ de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-llega-apple-watch-series-10-amazon-quita-stock-series-9-50eu-descuento-1401978' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187106.jpg?tf=1200x' alt='Ya llega el Apple Watch Series 10 y Amazon se quita stock del Series 9 con 50€ de descuento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/ajuste-solucion-problema-google-maps-tuneles-1357358'>Si activas esta opción en los ajustes los túneles dejarán de ser un problema en Google Maps</a></h4>
     <a href='https://computerhoy.com/google/ajuste-solucion-problema-google-maps-tuneles-1357358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nueva-opcion-oculta-google-maps-ya-no-te-perderas-nunca-tuneles-3262109.jpg?tf=1200x' alt='Si activas esta opción en los ajustes los túneles dejarán de ser un problema en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-requisitos-actualizacion-microsoft-quiere-te-compres-pc-nuevo-1402574'>Windows 11 y los requisitos de actualización: ¿Por qué Microsoft quiere que te compres un PC nuevo?</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-requisitos-actualizacion-microsoft-quiere-te-compres-pc-nuevo-1402574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-3970785.jpg?tf=1200x' alt='Windows 11 y los requisitos de actualización: ¿Por qué Microsoft quiere que te compres un PC nuevo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-676-computer-hoy-1401227'>¡Ya está en tu quiosco el número 676 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-676-computer-hoy-1401227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/computer-hoy-676-4048117.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 676 de Computer Hoy!' />
     </a>
 </div>
 
