@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-676-computer-hoy-1401227'>¡Ya está en tu quiosco el número 676 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-676-computer-hoy-1401227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/computer-hoy-676-4048117.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 676 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/boton-eliminar-todos-mensajes-no-leidos-whatsapp-1402193'>La última novedad de WhatsApp es un botón que vas a desgastar de tanto utilizarlo</a></h4>
+    <a href='https://computerhoy.com/apps/boton-eliminar-todos-mensajes-no-leidos-whatsapp-1402193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/eres-nunca-leen-mensajes-whatsapp-nueva-funcion-ti-4048111.jpg?tf=1200x' alt='La última novedad de WhatsApp es un botón que vas a desgastar de tanto utilizarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/apps-imprescindibles-debes-instalar-tienes-certificado-digital-movil-1402138'>Apps imprescindibles que debes instalar si tienes el certificado digital en tu móvil</a></h4>
     <a href='https://computerhoy.com/internet/apps-imprescindibles-debes-instalar-tienes-certificado-digital-movil-1402138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apps-imprescindibles-debes-instalar-tienes-certificado-digital-movil-4045963.jpg?tf=1200x' alt='Apps imprescindibles que debes instalar si tienes el certificado digital en tu móvil' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/firestick-chino-mas-barato-android-1328754'>Este Firestick chino con 4K cuesta la mitad, tiene Android y te permite instalar todas las aplicaciones que quieras</a></h4>
+    <a href='https://computerhoy.com/tecnologia/firestick-chino-mas-barato-android-1328754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dq06-atv-mini-tv-stick-3210922.jpg?tf=1200x' alt='Este Firestick chino con 4K cuesta la mitad, tiene Android y te permite instalar todas las aplicaciones que quieras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/puertas-tecnologia-cuantica-despues-avance-internet-cambiara-siempre-1402433'>A las puertas de la tecnología cuántica: después de este avance internet cambiará para siempre</a></h4>
     <a href='https://computerhoy.com/tecnologia/puertas-tecnologia-cuantica-despues-avance-internet-cambiara-siempre-1402433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ordenador-cuantico-4055987.jpg?tf=1200x' alt='A las puertas de la tecnología cuántica: después de este avance internet cambiará para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/google-pixel-9-pro-opiniones-1402424'>El Pixel 9 Pro es el experimento de Google para llevar la IA a las masas, es un espectáculo que te dejará sin palabras</a></h4>
-    <a href='https://computerhoy.com/analisis/google-pixel-9-pro-opiniones-1402424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-pro-analisis-opiniones-4057435.jpg?tf=1200x' alt='El Pixel 9 Pro es el experimento de Google para llevar la IA a las masas, es un espectáculo que te dejará sin palabras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/einstein-oppenheimer-crearon-reloj-juicio-final-ahora-marca-estamos-paso-autodestruccion-1402423'>Einstein y Oppenheimer crearon el reloj del Juicio Final, y ahora marca que estamos a un paso de la autodestrucción</a></h4>
-    <a href='https://computerhoy.com/ciencia/einstein-oppenheimer-crearon-reloj-juicio-final-ahora-marca-estamos-paso-autodestruccion-1402423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/reloj-juicio-final-4055818.jpg?tf=1200x' alt='Einstein y Oppenheimer crearon el reloj del Juicio Final, y ahora marca que estamos a un paso de la autodestrucción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/retraso-primer-paseo-espacial-privado-explosion-cohete-falcon-9-spacex-1402553'>Se retrasa el primer paseo espacial privado por la explosión de un cohete Falcon 9 de SpaceX </a></h4>
-    <a href='https://computerhoy.com/espacio/retraso-primer-paseo-espacial-privado-explosion-cohete-falcon-9-spacex-1402553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/retrasa-primer-paseo-espacial-privado-explosion-cohete-falcon-9-spacex-4060539.jpg?tf=1200x' alt='Se retrasa el primer paseo espacial privado por la explosión de un cohete Falcon 9 de SpaceX ' />
     </a>
 </div>
 
