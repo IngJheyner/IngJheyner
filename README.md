@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ciudadano-kane-cadena-perpetua-mejor-pelicula-historia-ver-streaming-1401624'>Ni Cadena Perpetua ni Ciudadano Kane, la mejor película de la historia ya se puede ver en streaming</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ciudadano-kane-cadena-perpetua-mejor-pelicula-historia-ver-streaming-1401624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-ciudadano-kane-ni-cadena-perpetua-mejor-pelicula-historia-ya-puede-ver-plataformas-4015518.jpg?tf=1200x' alt='Ni Cadena Perpetua ni Ciudadano Kane, la mejor película de la historia ya se puede ver en streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-deja-claro-no-tienes-ninguna-multa-pendiente-dgt-estafa-1402477'>La Guardia Civil lo deja claro: no tienes ninguna multa pendiente de la DGT, es una estafa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-deja-claro-no-tienes-ninguna-multa-pendiente-dgt-estafa-1402477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guardia-civil-deja-claro-no-tienes-ninguna-multa-pendiente-dgt-estafa-4056663.jpg?tf=1200x' alt='La Guardia Civil lo deja claro: no tienes ninguna multa pendiente de la DGT, es una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/tcl-lanza-serie-televisores-pf650-espana-4k-fire-tv-integrado-dolby-atmos-1402640'>TCL lanza la serie de televisores PF650 en España con 4K, Fire TV integrado y Dolby Atmos</a></h4>
+    <a href='https://computerhoy.com/tv/tcl-lanza-serie-televisores-pf650-espana-4k-fire-tv-integrado-dolby-atmos-1402640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/serie-pf650-tcl-4063393.jpg?tf=1200x' alt='TCL lanza la serie de televisores PF650 en España con 4K, Fire TV integrado y Dolby Atmos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-ha-reforzado-privacidad-copias-seguridad-cifradas-extremo-extremo-1402645'>WhatsApp ha reforzado la privacidad de las copias de seguridad cifradas de extremo a extremo</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-ha-reforzado-privacidad-copias-seguridad-cifradas-extremo-extremo-1402645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-ha-reforzado-privacidad-copias-seguridad-cifradas-extremo-extremo-4063550.jpg?tf=1200x' alt='WhatsApp ha reforzado la privacidad de las copias de seguridad cifradas de extremo a extremo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/piden-retirada-air-fryers-casi-nos-prende-fuego-cocina-1402623'>Piden la retirada de las de las air fryers: “Casi se nos prende fuego la cocina”</a></h4>
     <a href='https://computerhoy.com/hogar/piden-retirada-air-fryers-casi-nos-prende-fuego-cocina-1402623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/freidora-aire-prohibida-4063555.jpg?tf=1200x' alt='Piden la retirada de las de las air fryers: “Casi se nos prende fuego la cocina”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-5-2-gb-prueba-ventajas-no-solo-estan-precio-1402642'>Raspberry Pi 5 de 2 GB a prueba: sus ventajas no solo están en el precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-5-2-gb-prueba-ventajas-no-solo-estan-precio-1402642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/trucos-acelerar-rapida-facilmente-raspberry-pi-5-3292310.jpg?tf=1200x' alt='Raspberry Pi 5 de 2 GB a prueba: sus ventajas no solo están en el precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/investigadores-trabajan-evitar-gran-desastre-relacionado-computacion-cuantica-1402605'>Investigadores trabajan para evitar un gran desastre relacionado con la computación cuántica</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/investigadores-trabajan-evitar-gran-desastre-relacionado-computacion-cuantica-1402605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ciberseguridad-computacion-cuantica-4062870.jpg?tf=1200x' alt='Investigadores trabajan para evitar un gran desastre relacionado con la computación cuántica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/tienes-dispositivo-google-tv-nuevos-canales-gratis-1401773'>¿Tienes un dispositivo con Google TV? Buenas noticias, Google añade nuevos canales gratuitos</a></h4>
-    <a href='https://computerhoy.com/google/tienes-dispositivo-google-tv-nuevos-canales-gratis-1401773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-tienes-activar-simplificar-google-tv-3814319.jpg?tf=1200x' alt='¿Tienes un dispositivo con Google TV? Buenas noticias, Google añade nuevos canales gratuitos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-mira-futuro-iphone-17-pro-max-12-gb-ram-sistema-refrigeracion-eficiente-nunca-1402470'>Apple mira al futuro con el iPhone 17 Pro Max con 12 GB de RAM y un sistema de refrigeración más eficiente que nunca</a></h4>
-    <a href='https://computerhoy.com/apple/apple-mira-futuro-iphone-17-pro-max-12-gb-ram-sistema-refrigeracion-eficiente-nunca-1402470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-mira-futuro-iphone-17-pro-max-12-gb-ram-sistema-refrigeracion-eficiente-nunca-4056498.jpg?tf=1200x' alt='Apple mira al futuro con el iPhone 17 Pro Max con 12 GB de RAM y un sistema de refrigeración más eficiente que nunca' />
     </a>
 </div>
 
