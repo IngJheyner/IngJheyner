@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cambio-hora-2024-acaba-bueno-fecha-cambio-horario-invierno-1402550'>Cambio de hora 2024: se acaba lo bueno, esta es la fecha del cambio al horario de invierno</a></h4>
+    <a href='https://computerhoy.com/life/cambio-hora-2024-acaba-bueno-fecha-cambio-horario-invierno-1402550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cambio-hora-2024-acaba-bueno-fecha-cambio-horario-invierno-4060987.jpg?tf=1200x' alt='Cambio de hora 2024: se acaba lo bueno, esta es la fecha del cambio al horario de invierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cambios-pasar-itv-coche-adas-nuevas-pruebas-1393314'>Pasar la ITV al coche cambia para siempre por culpa de las ADAS: así son las nuevas pruebas y revisiones</a></h4>
+    <a href='https://computerhoy.com/motor/cambios-pasar-itv-coche-adas-nuevas-pruebas-1393314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-itv-coches-hibridos-electricos-2642399.jpg?tf=1200x' alt='Pasar la ITV al coche cambia para siempre por culpa de las ADAS: así son las nuevas pruebas y revisiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/isp-throttling-como-saber-operadora-limitando-velocidad-conexion-sepas-1401929'>ISP Throttling: cómo saber si tu operadora está limitando la velocidad de tu conexión sin que lo sepas</a></h4>
     <a href='https://computerhoy.com/redes/isp-throttling-como-saber-operadora-limitando-velocidad-conexion-sepas-1401929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/isp-throttling-como-saber-operadora-limitando-velocidad-conexion-sepas-4038841.jpg?tf=1200x' alt='ISP Throttling: cómo saber si tu operadora está limitando la velocidad de tu conexión sin que lo sepas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-consultar-historial-documentos-impresos-windows-10-windows-11-1398238'>Cómo consultar el historial de documentos impresos en Windows 10 y Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-consultar-historial-documentos-impresos-windows-10-windows-11-1398238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/imprimir-archivos-pc-3847996.jpg?tf=1200x' alt='Cómo consultar el historial de documentos impresos en Windows 10 y Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ciudadano-kane-cadena-perpetua-mejor-pelicula-historia-ver-streaming-1401624'>Ni Cadena Perpetua ni Ciudadano Kane, la mejor película de la historia ya se puede ver en streaming</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ciudadano-kane-cadena-perpetua-mejor-pelicula-historia-ver-streaming-1401624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-ciudadano-kane-ni-cadena-perpetua-mejor-pelicula-historia-ya-puede-ver-plataformas-4015518.jpg?tf=1200x' alt='Ni Cadena Perpetua ni Ciudadano Kane, la mejor película de la historia ya se puede ver en streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-deja-claro-no-tienes-ninguna-multa-pendiente-dgt-estafa-1402477'>La Guardia Civil lo deja claro: no tienes ninguna multa pendiente de la DGT, es una estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-deja-claro-no-tienes-ninguna-multa-pendiente-dgt-estafa-1402477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guardia-civil-deja-claro-no-tienes-ninguna-multa-pendiente-dgt-estafa-4056663.jpg?tf=1200x' alt='La Guardia Civil lo deja claro: no tienes ninguna multa pendiente de la DGT, es una estafa' />
     </a>
 </div>
 
