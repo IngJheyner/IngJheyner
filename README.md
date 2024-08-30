@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/apps-imprescindibles-debes-instalar-tienes-certificado-digital-movil-1402138'>Apps imprescindibles que debes instalar si tienes el certificado digital en tu móvil</a></h4>
+    <a href='https://computerhoy.com/internet/apps-imprescindibles-debes-instalar-tienes-certificado-digital-movil-1402138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apps-imprescindibles-debes-instalar-tienes-certificado-digital-movil-4045963.jpg?tf=1200x' alt='Apps imprescindibles que debes instalar si tienes el certificado digital en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/puertas-tecnologia-cuantica-despues-avance-internet-cambiara-siempre-1402433'>A las puertas de la tecnología cuántica: después de este avance internet cambiará para siempre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puertas-tecnologia-cuantica-despues-avance-internet-cambiara-siempre-1402433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ordenador-cuantico-4055987.jpg?tf=1200x' alt='A las puertas de la tecnología cuántica: después de este avance internet cambiará para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/google-pixel-9-pro-opiniones-1402424'>El Pixel 9 Pro es el experimento de Google para llevar la IA a las masas, es un espectáculo que te dejará sin palabras</a></h4>
+    <a href='https://computerhoy.com/analisis/google-pixel-9-pro-opiniones-1402424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-pro-analisis-opiniones-4057435.jpg?tf=1200x' alt='El Pixel 9 Pro es el experimento de Google para llevar la IA a las masas, es un espectáculo que te dejará sin palabras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/einstein-oppenheimer-crearon-reloj-juicio-final-ahora-marca-estamos-paso-autodestruccion-1402423'>Einstein y Oppenheimer crearon el reloj del Juicio Final, y ahora marca que estamos a un paso de la autodestrucción</a></h4>
+    <a href='https://computerhoy.com/ciencia/einstein-oppenheimer-crearon-reloj-juicio-final-ahora-marca-estamos-paso-autodestruccion-1402423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/reloj-juicio-final-4055818.jpg?tf=1200x' alt='Einstein y Oppenheimer crearon el reloj del Juicio Final, y ahora marca que estamos a un paso de la autodestrucción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/retraso-primer-paseo-espacial-privado-explosion-cohete-falcon-9-spacex-1402553'>Se retrasa el primer paseo espacial privado por la explosión de un cohete Falcon 9 de SpaceX </a></h4>
     <a href='https://computerhoy.com/espacio/retraso-primer-paseo-espacial-privado-explosion-cohete-falcon-9-spacex-1402553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/retrasa-primer-paseo-espacial-privado-explosion-cohete-falcon-9-spacex-4060539.jpg?tf=1200x' alt='Se retrasa el primer paseo espacial privado por la explosión de un cohete Falcon 9 de SpaceX ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descifran-antiguos-textos-babilonicos-4000-anos-revelan-como-eclipses-lunares-anticipaban-catastrofes-1402249'>Descifran antiguos textos babilónicos de 4.000 años que revelan como los eclipses lunares anticipaban catástrofes</a></h4>
-    <a href='https://computerhoy.com/life/descifran-antiguos-textos-babilonicos-4000-anos-revelan-como-eclipses-lunares-anticipaban-catastrofes-1402249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tablillas-babilonicas-4049242.jpg?tf=1200x' alt='Descifran antiguos textos babilónicos de 4.000 años que revelan como los eclipses lunares anticipaban catástrofes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/mejora-experiencia-netflix-cambiar-ajustes-1165756'>Mejora tu experiencia en Netflix con estos ajustes</a></h4>
-    <a href='https://computerhoy.com/streaming/mejora-experiencia-netflix-cambiar-ajustes-1165756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/puedes-comprobar-llevas-visto-no-netflix-2888336.jpg?tf=1200x' alt='Mejora tu experiencia en Netflix con estos ajustes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-7-32gb-ram-oferta-amazon-1335360'>32GB de RAM y Ryzen 7: este PC es una bestia de potencia pero su tamaño es Mini</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-7-32gb-ram-oferta-amazon-1335360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-amd-ryzen-3274364.jpg?tf=1200x' alt='32GB de RAM y Ryzen 7: este PC es una bestia de potencia pero su tamaño es Mini' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/estos-son-todos-smart-tv-quedaran-netflix-partir-1-septiembre-1402544'>Estos son todos los Smart TV que se quedarán sin Netflix a partir del 1 de septiembre</a></h4>
-    <a href='https://computerhoy.com/tv/estos-son-todos-smart-tv-quedaran-netflix-partir-1-septiembre-1402544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estos-son-todos-smart-tv-quedaran-netflix-partir-1-septiembre-4060086.jpg?tf=1200x' alt='Estos son todos los Smart TV que se quedarán sin Netflix a partir del 1 de septiembre' />
     </a>
 </div>
 
