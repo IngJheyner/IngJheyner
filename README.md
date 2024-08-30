@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ue-prohibe-popular-consola-retro-aliexpress-porque-toxica-1402718'>LA UE prohíbe esta popular consola retro de AliExpress, porque es tóxica</a></h4>
-    <a href='https://computerhoy.com/gaming/ue-prohibe-popular-consola-retro-aliexpress-porque-toxica-1402718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ue-prohibe-popular-consola-retro-aliexpress-porque-toxica-4065356.jpg?tf=1200x' alt='LA UE prohíbe esta popular consola retro de AliExpress, porque es tóxica' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-casi-nadie-conoce-1402512'>Mezcla lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-casi-nadie-conoce-1402512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-casi-nadie-conoce-4057626.jpg?tf=1200x' alt='Mezcla lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-placa-raspberry-pi-incorpora-dos-mejoras-ocultas-habian-pasado-desapercibidas-1402701'>La nueva placa de Raspberry Pi incorpora dos mejoras ocultas que habían pasado desapercibidas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-placa-raspberry-pi-incorpora-dos-mejoras-ocultas-habian-pasado-desapercibidas-1402701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-placa-raspberry-pi-incorpora-dos-mejoras-ocultas-habian-pasado-desapercibidas-4065358.jpg?tf=1200x' alt='La nueva placa de Raspberry Pi incorpora dos mejoras ocultas que habían pasado desapercibidas' />
+    <h4><a href='https://computerhoy.com/life/cantidad-maxima-dinero-puedes-llevar-coche-dar-explicaciones-guardia-civil-1402724'>Esta es la cantidad máxima de dinero que puedes llevar en el coche sin dar explicaciones a la Guardia Civil</a></h4>
+    <a href='https://computerhoy.com/life/cantidad-maxima-dinero-puedes-llevar-coche-dar-explicaciones-guardia-civil-1402724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dinero-efectivo-4065809.jpg?tf=1200x' alt='Esta es la cantidad máxima de dinero que puedes llevar en el coche sin dar explicaciones a la Guardia Civil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nada-puede-ella-amazon-soltando-stock-gopro-hero12-120-euros-barata-1402708'>Nada puede con ella y Amazon está soltando stock: la GoPro Hero12 está 120 euros más barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nada-puede-ella-amazon-soltando-stock-gopro-hero12-120-euros-barata-1402708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gopro-hero-12-black-3282563.jpg?tf=1200x' alt='Nada puede con ella y Amazon está soltando stock: la GoPro Hero12 está 120 euros más barata' />
+    <h4><a href='https://computerhoy.com/hogar/debes-no-debes-hacer-limpiar-freidora-aire-ocu-1402723'>Qué debes y qué no debes hacer al limpiar una freidora de aire, según la OCU</a></h4>
+    <a href='https://computerhoy.com/hogar/debes-no-debes-hacer-limpiar-freidora-aire-ocu-1402723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/freidora-aire-aceite-4065808.jpg?tf=1200x' alt='Qué debes y qué no debes hacer al limpiar una freidora de aire, según la OCU' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/aviso-policia-alerta-boton-movil-robo-datos-1391674'>La Policía Nacional alerta: si no apagas este botón del móvil, podrías tener un susto </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/aviso-policia-alerta-boton-movil-robo-datos-1391674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/policia-pulsando-boton-3548802.jpg?tf=1200x' alt='La Policía Nacional alerta: si no apagas este botón del móvil, podrías tener un susto ' />
+    <h4><a href='https://computerhoy.com/life/truco-funcion-lavadora-manchas-dificiles-1392904'>Las lavadoras tienen una función que nadie conoce: quita las manchas más difíciles sin esfuerzo con el truco de la abuela</a></h4>
+    <a href='https://computerhoy.com/life/truco-funcion-lavadora-manchas-dificiles-1392904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-3601660.jpg?tf=1200x' alt='Las lavadoras tienen una función que nadie conoce: quita las manchas más difíciles sin esfuerzo con el truco de la abuela' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cambio-hora-2024-acaba-bueno-fecha-cambio-horario-invierno-1402550'>Cambio de hora 2024: se acaba lo bueno, esta es la fecha del cambio al horario de invierno</a></h4>
-    <a href='https://computerhoy.com/life/cambio-hora-2024-acaba-bueno-fecha-cambio-horario-invierno-1402550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cambio-hora-2024-acaba-bueno-fecha-cambio-horario-invierno-4060987.jpg?tf=1200x' alt='Cambio de hora 2024: se acaba lo bueno, esta es la fecha del cambio al horario de invierno' />
+    <h4><a href='https://computerhoy.com/tecnologia/usb-booteable-gratis-1401058'>Qué es un USB booteable, para qué sirve y cómo puedes fabricar uno gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usb-booteable-gratis-1401058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/usb-booteable-4063385.jpg?tf=1200x' alt='Qué es un USB booteable, para qué sirve y cómo puedes fabricar uno gratis' />
     </a>
 </div>
 
