@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/gran-diferencia-studio-ghibli-pixar-propio-hayao-miyazaki-1402491'>Esta es la gran diferencia entre el Studio Ghibli y Pixar, según el propio Hayao Miyazaki</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/gran-diferencia-studio-ghibli-pixar-propio-hayao-miyazaki-1402491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ghibli-totoro-miyazaki-2344733.jpg?tf=1200x' alt='Esta es la gran diferencia entre el Studio Ghibli y Pixar, según el propio Hayao Miyazaki' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/seven-thriller-morgan-freeman-netflix-1393283'>Si te gustó Seven no puedes perderte este thriller con Morgan Freeman que acaba de llegar a Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/seven-thriller-morgan-freeman-netflix-1393283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/te-encanto-seven-no-puedes-perderte-thriller-morgan-freeman-acaba-llegar-netflix-3617002.jpg?tf=1200x' alt='Si te gustó Seven no puedes perderte este thriller con Morgan Freeman que acaba de llegar a Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/como-ver-gratis-partidos-laliga-primera-division-smart-tv-instalar-nada-1402726'>Cómo ver gratis partidos de la LaLiga de primera división en tu Smart TV sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/como-ver-gratis-partidos-laliga-primera-division-smart-tv-instalar-nada-1402726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/laliga-ea-sports-4065810.jpg?tf=1200x' alt='Cómo ver gratis partidos de la LaLiga de primera división en tu Smart TV sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-pasar-fotos-movil-android-iphone-pendrive-usb-ordenador-1402717'>Cómo pasar las fotos de un móvil Android o iPhone a un pendrive USB sin ordenador</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-pasar-fotos-movil-android-iphone-pendrive-usb-ordenador-1402717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-pasar-fotos-movil-android-iphone-pendrive-usb-ordenador-4065811.jpg?tf=1200x' alt='Cómo pasar las fotos de un móvil Android o iPhone a un pendrive USB sin ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-casi-nadie-conoce-1402512'>Mezcla lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-casi-nadie-conoce-1402512' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-casi-nadie-conoce-4057626.jpg?tf=1200x' alt='Mezcla lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cantidad-maxima-dinero-puedes-llevar-coche-dar-explicaciones-guardia-civil-1402724'>Esta es la cantidad máxima de dinero que puedes llevar en el coche sin dar explicaciones a la Guardia Civil</a></h4>
-    <a href='https://computerhoy.com/life/cantidad-maxima-dinero-puedes-llevar-coche-dar-explicaciones-guardia-civil-1402724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dinero-efectivo-4065809.jpg?tf=1200x' alt='Esta es la cantidad máxima de dinero que puedes llevar en el coche sin dar explicaciones a la Guardia Civil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/debes-no-debes-hacer-limpiar-freidora-aire-ocu-1402723'>Qué debes y qué no debes hacer al limpiar una freidora de aire, según la OCU</a></h4>
-    <a href='https://computerhoy.com/hogar/debes-no-debes-hacer-limpiar-freidora-aire-ocu-1402723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/freidora-aire-aceite-4065808.jpg?tf=1200x' alt='Qué debes y qué no debes hacer al limpiar una freidora de aire, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-funcion-lavadora-manchas-dificiles-1392904'>Las lavadoras tienen una función que nadie conoce: quita las manchas más difíciles sin esfuerzo con el truco de la abuela</a></h4>
-    <a href='https://computerhoy.com/life/truco-funcion-lavadora-manchas-dificiles-1392904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lavadoras-tienen-funcion-nadie-conoce-quitar-manchas-dificiles-abuela-sabia-truco-3601660.jpg?tf=1200x' alt='Las lavadoras tienen una función que nadie conoce: quita las manchas más difíciles sin esfuerzo con el truco de la abuela' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usb-booteable-gratis-1401058'>Qué es un USB booteable, para qué sirve y cómo puedes fabricar uno gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usb-booteable-gratis-1401058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/usb-booteable-4063385.jpg?tf=1200x' alt='Qué es un USB booteable, para qué sirve y cómo puedes fabricar uno gratis' />
     </a>
 </div>
 
