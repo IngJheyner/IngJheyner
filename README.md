@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ue-prohibe-popular-consola-retro-aliexpress-porque-toxica-1402718'>LA UE prohíbe esta popular consola retro de AliExpress, porque es tóxica</a></h4>
+    <a href='https://computerhoy.com/gaming/ue-prohibe-popular-consola-retro-aliexpress-porque-toxica-1402718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ue-prohibe-popular-consola-retro-aliexpress-porque-toxica-4065356.jpg?tf=1200x' alt='LA UE prohíbe esta popular consola retro de AliExpress, porque es tóxica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nueva-placa-raspberry-pi-incorpora-dos-mejoras-ocultas-habian-pasado-desapercibidas-1402701'>La nueva placa de Raspberry Pi incorpora dos mejoras ocultas que habían pasado desapercibidas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nueva-placa-raspberry-pi-incorpora-dos-mejoras-ocultas-habian-pasado-desapercibidas-1402701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-placa-raspberry-pi-incorpora-dos-mejoras-ocultas-habian-pasado-desapercibidas-4065358.jpg?tf=1200x' alt='La nueva placa de Raspberry Pi incorpora dos mejoras ocultas que habían pasado desapercibidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nada-puede-ella-amazon-soltando-stock-gopro-hero12-120-euros-barata-1402708'>Nada puede con ella y Amazon está soltando stock: la GoPro Hero12 está 120 euros más barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nada-puede-ella-amazon-soltando-stock-gopro-hero12-120-euros-barata-1402708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gopro-hero-12-black-3282563.jpg?tf=1200x' alt='Nada puede con ella y Amazon está soltando stock: la GoPro Hero12 está 120 euros más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/aviso-policia-alerta-boton-movil-robo-datos-1391674'>La Policía Nacional alerta: si no apagas este botón del móvil, podrías tener un susto </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/aviso-policia-alerta-boton-movil-robo-datos-1391674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/policia-pulsando-boton-3548802.jpg?tf=1200x' alt='La Policía Nacional alerta: si no apagas este botón del móvil, podrías tener un susto ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cambio-hora-2024-acaba-bueno-fecha-cambio-horario-invierno-1402550'>Cambio de hora 2024: se acaba lo bueno, esta es la fecha del cambio al horario de invierno</a></h4>
     <a href='https://computerhoy.com/life/cambio-hora-2024-acaba-bueno-fecha-cambio-horario-invierno-1402550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cambio-hora-2024-acaba-bueno-fecha-cambio-horario-invierno-4060987.jpg?tf=1200x' alt='Cambio de hora 2024: se acaba lo bueno, esta es la fecha del cambio al horario de invierno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cambios-pasar-itv-coche-adas-nuevas-pruebas-1393314'>Pasar la ITV al coche cambia para siempre por culpa de las ADAS: así son las nuevas pruebas y revisiones</a></h4>
-    <a href='https://computerhoy.com/motor/cambios-pasar-itv-coche-adas-nuevas-pruebas-1393314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/como-itv-coches-hibridos-electricos-2642399.jpg?tf=1200x' alt='Pasar la ITV al coche cambia para siempre por culpa de las ADAS: así son las nuevas pruebas y revisiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/isp-throttling-como-saber-operadora-limitando-velocidad-conexion-sepas-1401929'>ISP Throttling: cómo saber si tu operadora está limitando la velocidad de tu conexión sin que lo sepas</a></h4>
-    <a href='https://computerhoy.com/redes/isp-throttling-como-saber-operadora-limitando-velocidad-conexion-sepas-1401929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/isp-throttling-como-saber-operadora-limitando-velocidad-conexion-sepas-4038841.jpg?tf=1200x' alt='ISP Throttling: cómo saber si tu operadora está limitando la velocidad de tu conexión sin que lo sepas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/truco-funcion-aumentar-mejorar-rendimiento-movil-xiaomi-1392923'>Desactivé esta función de mi móvil Xiaomi que no sirve para nada y ahora vuela, ha rejuvenecido al instante</a></h4>
-    <a href='https://computerhoy.com/moviles/truco-funcion-aumentar-mejorar-rendimiento-movil-xiaomi-1392923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/desactive-funcion-mi-movil-xiaomi-no-sirve-nada-ahora-vuela-ha-rejuvenecido-instante-3602125.jpg?tf=1200x' alt='Desactivé esta función de mi móvil Xiaomi que no sirve para nada y ahora vuela, ha rejuvenecido al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-consultar-historial-documentos-impresos-windows-10-windows-11-1398238'>Cómo consultar el historial de documentos impresos en Windows 10 y Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-consultar-historial-documentos-impresos-windows-10-windows-11-1398238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/imprimir-archivos-pc-3847996.jpg?tf=1200x' alt='Cómo consultar el historial de documentos impresos en Windows 10 y Windows 11' />
     </a>
 </div>
 
