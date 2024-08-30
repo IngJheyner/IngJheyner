@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-barato-comprariamos-pantalla-amoled-gps-precio-dificil-creer-1402587'>Este es el reloj barato que compraríamos: pantalla AMOLED, GPS y precio difícil de creer</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-barato-comprariamos-pantalla-amoled-gps-precio-dificil-creer-1402587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cmf-watch-pro-2-3643244.jpg?tf=1200x' alt='Este es el reloj barato que compraríamos: pantalla AMOLED, GPS y precio difícil de creer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/ni-digi-ni-finetwork-movistar-revienta-mercado-todo-futbol-ficcion-4290-euros-mes-1402602'>Ni DIGI ni Finetwork, Movistar revienta el mercado: todo el fútbol y ficción por 42,90 euros al mes</a></h4>
+    <a href='https://computerhoy.com/moviles/ni-digi-ni-finetwork-movistar-revienta-mercado-todo-futbol-ficcion-4290-euros-mes-1402602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-digi-ni-finetwork-movistar-revienta-mercado-todo-futbol-ficcion-4290-euros-mes-4062695.jpg?tf=1200x' alt='Ni DIGI ni Finetwork, Movistar revienta el mercado: todo el fútbol y ficción por 42,90 euros al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/cierra-paginas-streaming-ilegal-series-peliculas-utilizadas-mundo-1402576'>Cierra una de las páginas streaming ilegal de series y películas más utilizadas del mundo</a></h4>
+    <a href='https://computerhoy.com/tv/cierra-paginas-streaming-ilegal-series-peliculas-utilizadas-mundo-1402576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cierra-paginas-ilegales-streaming-utilizadas-mundo-4062511.jpg?tf=1200x' alt='Cierra una de las páginas streaming ilegal de series y películas más utilizadas del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/bateria-samsung-galaxy-watch-puede-durar-tiempo-simple-ajuste-1402585'>La batería de tu Samsung Galaxy Watch puede durar más tiempo con un simple ajuste</a></h4>
     <a href='https://computerhoy.com/tecnologia/bateria-samsung-galaxy-watch-puede-durar-tiempo-simple-ajuste-1402585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/galaxy-watch-6-3306750.jpg?tf=1200x' alt='La batería de tu Samsung Galaxy Watch puede durar más tiempo con un simple ajuste' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/gemini-va-hacer-facil-nunca-uso-gmail-movil-1402581'>Gemini va a hacer más fácil que nunca el uso de Gmail desde tu móvil</a></h4>
     <a href='https://computerhoy.com/google/gemini-va-hacer-facil-nunca-uso-gmail-movil-1402581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-nuevo-modelo-ia-google-3239910.jpg?tf=1200x' alt='Gemini va a hacer más fácil que nunca el uso de Gmail desde tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-llega-apple-watch-series-10-amazon-quita-stock-series-9-50eu-descuento-1401978'>Ya llega el Apple Watch Series 10 y Amazon se quita stock del Series 9 con 50€ de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-llega-apple-watch-series-10-amazon-quita-stock-series-9-50eu-descuento-1401978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187106.jpg?tf=1200x' alt='Ya llega el Apple Watch Series 10 y Amazon se quita stock del Series 9 con 50€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ciencia-seres-humanos-fecha-singularidad-1399601'>La ciencia calcula que el ser humano alcanzará la singularidad en solo 21 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ciencia-seres-humanos-fecha-singularidad-1399601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/foto-ia-3912121.jpg?tf=1200x' alt='La ciencia calcula que el ser humano alcanzará la singularidad en solo 21 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ajuste-solucion-problema-google-maps-tuneles-1357358'>Si activas esta opción en los ajustes los túneles dejarán de ser un problema en Google Maps</a></h4>
-    <a href='https://computerhoy.com/google/ajuste-solucion-problema-google-maps-tuneles-1357358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nueva-opcion-oculta-google-maps-ya-no-te-perderas-nunca-tuneles-3262109.jpg?tf=1200x' alt='Si activas esta opción en los ajustes los túneles dejarán de ser un problema en Google Maps' />
     </a>
 </div>
 
