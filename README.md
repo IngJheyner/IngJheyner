@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores-juegos-crossplay-game-pass-ultimate-1400405'>Los 19 mejores juegos con crossplay de Game Pass Ultimate</a></h4>
+    <a href='https://computerhoy.com/mejores-juegos-crossplay-game-pass-ultimate-1400405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ark-survival-ascended-3959460.jpg?tf=1200x' alt='Los 19 mejores juegos con crossplay de Game Pass Ultimate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/seria-nuevo-color-iphone-16-pro-mejor-esperado-1402761'>Este sería el nuevo color del iPhone 16 Pro, y es mejor de lo esperado</a></h4>
+    <a href='https://computerhoy.com/apple/seria-nuevo-color-iphone-16-pro-mejor-esperado-1402761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-colores-4071050.jpg?tf=1200x' alt='Este sería el nuevo color del iPhone 16 Pro, y es mejor de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/ajustes-registro-windows-todos-deberias-conocer-1401931'>20 ajustes del registro de Windows que todos los usuarios de Windows deberían conocer (y utilizar)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/ajustes-registro-windows-todos-deberias-conocer-1401931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pc-windows-4038989.jpg?tf=1200x' alt='20 ajustes del registro de Windows que todos los usuarios de Windows deberían conocer (y utilizar)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/puerta-casa-tipo-llaves-dejaras-abierta-1312236'>Si la puerta de tu casa tiene este tipo de llaves, es como si la dejarás abierta</a></h4>
+    <a href='https://computerhoy.com/hogar/puerta-casa-tipo-llaves-dejaras-abierta-1312236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/llaves-casa-3188208.jpg?tf=1200x' alt='Si la puerta de tu casa tiene este tipo de llaves, es como si la dejarás abierta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/fallo-permitia-saltarse-controles-seguridad-aeropuertos-1402756'>Este fallo permitía saltarse los controles de seguridad en los aeropuertos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/fallo-permitia-saltarse-controles-seguridad-aeropuertos-1402756' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/control-seguridad-aeropuerto-4070750.jpg?tf=1200x' alt='Este fallo permitía saltarse los controles de seguridad en los aeropuertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/juez-ordena-suspender-x-brasil-1402754'>Un juez ordena suspender X en Brasil</a></h4>
-    <a href='https://computerhoy.com/apps/juez-ordena-suspender-x-brasil-1402754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aplicacion-x-brasil-4070597.jpg?tf=1200x' alt='Un juez ordena suspender X en Brasil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-leer-wasaps-borrados-puedes-recuperar-conversaciones-mensajes-eliminados-whatsapp-1401927'>Cómo leer “wasaps” borrados: así puedes recuperar conversaciones y mensajes eliminados en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-leer-wasaps-borrados-puedes-recuperar-conversaciones-mensajes-eliminados-whatsapp-1401927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-leer-wasaps-borrados-puedes-recuperar-conversaciones-mensajes-eliminados-whatsapp-4038398.jpg?tf=1200x' alt='Cómo leer “wasaps” borrados: así puedes recuperar conversaciones y mensajes eliminados en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/puedes-convertir-cualquier-pdf-word-programas-ni-apps-solo-cuenta-gmail-1402347'>Así puedes convertir cualquier PDF en un Word: sin programas ni apps, solo con una cuenta de Gmail</a></h4>
-    <a href='https://computerhoy.com/internet/puedes-convertir-cualquier-pdf-word-programas-ni-apps-solo-cuenta-gmail-1402347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/puedes-convertir-cualquier-pdf-word-programas-ni-apps-solo-cuenta-gmail-4053668.jpg?tf=1200x' alt='Así puedes convertir cualquier PDF en un Word: sin programas ni apps, solo con una cuenta de Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-va-agotar-movil-brutal-carga-120w-8gb-ram-1402166'>Amazon va a agotar este móvil brutal con carga a 120W y 8GB de RAM</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-va-agotar-movil-brutal-carga-120w-8gb-ram-1402166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/realme-gt-6t-4047612.jpg?tf=1200x' alt='Amazon va a agotar este móvil brutal con carga a 120W y 8GB de RAM' />
     </a>
 </div>
 
