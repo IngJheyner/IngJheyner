@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-mover-barra-tareas-android-auto-lado-1402734'>Cómo mover la barra de tareas de Android Auto hacia un lado</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-mover-barra-tareas-android-auto-lado-1402734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-mover-barra-tareas-android-auto-lado-4068056.jpg?tf=1200x' alt='Cómo mover la barra de tareas de Android Auto hacia un lado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/emudeck-machines-mini-pc-retro-dreamcast-emuladores-steam-1402735'>EmuDeck Machines, el mini PC retro con forma de Dreamcast, emuladores y Steam</a></h4>
+    <a href='https://computerhoy.com/pc/emudeck-machines-mini-pc-retro-dreamcast-emuladores-steam-1402735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/emudeck-mini-pc-reto-forma-dreamcast-emuladores-integrados-steam-4067022.jpg?tf=1200x' alt='EmuDeck Machines, el mini PC retro con forma de Dreamcast, emuladores y Steam' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/tiempo-viaje-genial-funcion-google-maps-sorprendentemente-nadie-parece-conocer-1402732'>Tiempo de viaje: la genial función de Google Maps que sorprendentemente nadie parece conocer</a></h4>
     <a href='https://computerhoy.com/apps/tiempo-viaje-genial-funcion-google-maps-sorprendentemente-nadie-parece-conocer-1402732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tiempo-viaje-genial-funcion-google-maps-sorprendentemente-nadie-parece-conocer-4067465.jpg?tf=1200x' alt='Tiempo de viaje: la genial función de Google Maps que sorprendentemente nadie parece conocer' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/gran-clasico-cambio-siempre-carrera-quentin-tarantino-vuelve-cines-30-anos-despues-1402582'>El gran clásico que cambió para siempre la carrera de Quentin Tarantino vuelve a los cines… ¡30 años después!</a></h4>
     <a href='https://computerhoy.com/entretenimiento/gran-clasico-cambio-siempre-carrera-quentin-tarantino-vuelve-cines-30-anos-despues-1402582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gran-clasico-cambio-siempre-carrera-quentin-tarantino-vuelve-cines-30-anos-despues-4062512.jpg?tf=1200x' alt='El gran clásico que cambió para siempre la carrera de Quentin Tarantino vuelve a los cines… ¡30 años después!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/gran-diferencia-studio-ghibli-pixar-propio-hayao-miyazaki-1402491'>Esta es la gran diferencia entre el Studio Ghibli y Pixar, según el propio Hayao Miyazaki</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/gran-diferencia-studio-ghibli-pixar-propio-hayao-miyazaki-1402491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/ghibli-totoro-miyazaki-2344733.jpg?tf=1200x' alt='Esta es la gran diferencia entre el Studio Ghibli y Pixar, según el propio Hayao Miyazaki' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/seven-thriller-morgan-freeman-netflix-1393283'>Si te gustó Seven no puedes perderte este thriller con Morgan Freeman que acaba de llegar a Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/seven-thriller-morgan-freeman-netflix-1393283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/te-encanto-seven-no-puedes-perderte-thriller-morgan-freeman-acaba-llegar-netflix-3617002.jpg?tf=1200x' alt='Si te gustó Seven no puedes perderte este thriller con Morgan Freeman que acaba de llegar a Netflix' />
     </a>
 </div>
 
