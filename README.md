@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-conocer-gente-1401989'>Las 18 mejores aplicaciones para conocer gente (y ligar, si se da el caso)</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-aplicaciones-conocer-gente-1401989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejores-aplicaciones-conocer-gente-ligar-4048466.jpg?tf=1200x' alt='Las 18 mejores aplicaciones para conocer gente (y ligar, si se da el caso)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/has-sido-victima-phishing-como-debes-actuar-experto-1402311'>¿Has sido víctima de phishing? Así es como debes actuar según un experto</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/has-sido-victima-phishing-como-debes-actuar-experto-1402311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/victima-phishing-4057784.jpg?tf=1200x' alt='¿Has sido víctima de phishing? Así es como debes actuar según un experto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/alarma-uso-ia-crear-imagenes-falsas-explicitas-menores-como-puede-parar-1400289'>Alarma por el uso de IA para crear imágenes falsas explícitas de menores: ¿Cómo se puede parar esto?</a></h4>
     <a href='https://computerhoy.com/tecnologia/alarma-uso-ia-crear-imagenes-falsas-explicitas-menores-como-puede-parar-1400289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/imagenes-jovenes-ia-3951323.jpg?tf=1200x' alt='Alarma por el uso de IA para crear imágenes falsas explícitas de menores: ¿Cómo se puede parar esto?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/mucha-gente-equivoca-temperatura-ideal-frigorifico-cuando-hace-calor-configuracion-reduce-factura-mitad-1402661'>Mucha gente se equivoca con la temperatura ideal del frigorífico cuando hace calor: esta configuración reduce la factura a la mitad</a></h4>
     <a href='https://computerhoy.com/hogar/mucha-gente-equivoca-temperatura-ideal-frigorifico-cuando-hace-calor-configuracion-reduce-factura-mitad-1402661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mucha-gente-equivoca-temperatura-ideal-frigorifico-cuando-hace-calor-configuracion-reduce-factura-mitad-4063887.jpg?tf=1200x' alt='Mucha gente se equivoca con la temperatura ideal del frigorífico cuando hace calor: esta configuración reduce la factura a la mitad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/me-ha-gustado-pixel-9-pro-xl-ia-fin-galaxy-ai-tiene-rival-1401488'>Lo que más me ha gustado del Pixel 9 Pro XL es su IA: por fin Galaxy AI tiene rival</a></h4>
-    <a href='https://computerhoy.com/moviles/me-ha-gustado-pixel-9-pro-xl-ia-fin-galaxy-ai-tiene-rival-1401488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-pro-xl-ia-4014729.jpg?tf=1200x' alt='Lo que más me ha gustado del Pixel 9 Pro XL es su IA: por fin Galaxy AI tiene rival' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/adolescente-madre-pobre-compre-iphone-huelga-hambre-1402737'>Un adolescente consigue que su madre pobre le compre un iPhone, tras pasar tres días en huelga de hambre</a></h4>
-    <a href='https://computerhoy.com/apple/adolescente-madre-pobre-compre-iphone-huelga-hambre-1402737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/adolescente-consigue-madre-pobre-compre-iphone-pasar-tres-dias-huelga-hambre-4068204.jpg?tf=1200x' alt='Un adolescente consigue que su madre pobre le compre un iPhone, tras pasar tres días en huelga de hambre' />
     </a>
 </div>
 
