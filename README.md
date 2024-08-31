@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tiempo-viaje-genial-funcion-google-maps-sorprendentemente-nadie-parece-conocer-1402732'>Tiempo de viaje: la genial función de Google Maps que sorprendentemente nadie parece conocer</a></h4>
+    <a href='https://computerhoy.com/apps/tiempo-viaje-genial-funcion-google-maps-sorprendentemente-nadie-parece-conocer-1402732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tiempo-viaje-genial-funcion-google-maps-sorprendentemente-nadie-parece-conocer-4067465.jpg?tf=1200x' alt='Tiempo de viaje: la genial función de Google Maps que sorprendentemente nadie parece conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/he-cambiado-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-1402728'>He cambiado Windows en mi viejo portátil por este sistema operativo gratuito y ahora vuela</a></h4>
     <a href='https://computerhoy.com/pc/he-cambiado-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-1402728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/he-cambiado-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-4066727.jpg?tf=1200x' alt='He cambiado Windows en mi viejo portátil por este sistema operativo gratuito y ahora vuela' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/seven-thriller-morgan-freeman-netflix-1393283'>Si te gustó Seven no puedes perderte este thriller con Morgan Freeman que acaba de llegar a Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/seven-thriller-morgan-freeman-netflix-1393283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/te-encanto-seven-no-puedes-perderte-thriller-morgan-freeman-acaba-llegar-netflix-3617002.jpg?tf=1200x' alt='Si te gustó Seven no puedes perderte este thriller con Morgan Freeman que acaba de llegar a Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/como-ver-gratis-partidos-laliga-primera-division-smart-tv-instalar-nada-1402726'>Cómo ver gratis partidos de la LaLiga de primera división en tu Smart TV sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/como-ver-gratis-partidos-laliga-primera-division-smart-tv-instalar-nada-1402726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/laliga-ea-sports-4065810.jpg?tf=1200x' alt='Cómo ver gratis partidos de la LaLiga de primera división en tu Smart TV sin instalar nada' />
     </a>
 </div>
 
