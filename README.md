@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/puedes-convertir-cualquier-pdf-word-programas-ni-apps-solo-cuenta-gmail-1402347'>Así puedes convertir cualquier PDF en un Word: sin programas ni apps, solo con una cuenta de Gmail</a></h4>
+    <a href='https://computerhoy.com/internet/puedes-convertir-cualquier-pdf-word-programas-ni-apps-solo-cuenta-gmail-1402347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/puedes-convertir-cualquier-pdf-word-programas-ni-apps-solo-cuenta-gmail-4053668.jpg?tf=1200x' alt='Así puedes convertir cualquier PDF en un Word: sin programas ni apps, solo con una cuenta de Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-va-agotar-movil-brutal-carga-120w-8gb-ram-1402166'>Amazon va a agotar este móvil brutal con carga a 120W y 8GB de RAM</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-va-agotar-movil-brutal-carga-120w-8gb-ram-1402166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/realme-gt-6t-4047612.jpg?tf=1200x' alt='Amazon va a agotar este móvil brutal con carga a 120W y 8GB de RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/datos-personales-nunca-debes-compartir-whatsapp-no-quieres-te-estafen-1400022'>Los datos personales que nunca debes compartir por WhatsApp, si no quieres que te estafen</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/datos-personales-nunca-debes-compartir-whatsapp-no-quieres-te-estafen-1400022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estos-son-datos-personales-nunca-debes-compartir-whatsapp-no-quieres-te-estafen-3941526.jpg?tf=1200x' alt='Los datos personales que nunca debes compartir por WhatsApp, si no quieres que te estafen' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-conocer-gente-1401989'>Las 18 mejores aplicaciones para conocer gente (y ligar, si se da el caso)</a></h4>
     <a href='https://computerhoy.com/apps/mejores-aplicaciones-conocer-gente-1401989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejores-aplicaciones-conocer-gente-ligar-4048466.jpg?tf=1200x' alt='Las 18 mejores aplicaciones para conocer gente (y ligar, si se da el caso)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/has-sido-victima-phishing-como-debes-actuar-experto-1402311'>¿Has sido víctima de phishing? Así es como debes actuar según un experto</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/has-sido-victima-phishing-como-debes-actuar-experto-1402311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/victima-phishing-4057784.jpg?tf=1200x' alt='¿Has sido víctima de phishing? Así es como debes actuar según un experto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alarma-uso-ia-crear-imagenes-falsas-explicitas-menores-como-puede-parar-1400289'>Alarma por el uso de IA para crear imágenes falsas explícitas de menores: ¿Cómo se puede parar esto?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alarma-uso-ia-crear-imagenes-falsas-explicitas-menores-como-puede-parar-1400289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/imagenes-jovenes-ia-3951323.jpg?tf=1200x' alt='Alarma por el uso de IA para crear imágenes falsas explícitas de menores: ¿Cómo se puede parar esto?' />
     </a>
 </div>
 
