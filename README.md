@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-permitira-desinstalar-polemica-funcion-windows-recall-1402793'>Microsoft recula, permitirá desinstalar la polémica función Windows Recall</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-permitira-desinstalar-polemica-funcion-windows-recall-1402793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-recula-permitira-desinstalar-polemica-funcion-windows-recall-4074051.jpg?tf=1200x' alt='Microsoft recula, permitirá desinstalar la polémica función Windows Recall' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/iphone-todo-debes-saber-movil-famoso-mundo-1402435'>iPhone: todo lo que debes saber sobre el móvil más famoso del mundo</a></h4>
     <a href='https://computerhoy.com/apple/iphone-todo-debes-saber-movil-famoso-mundo-1402435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143604.jpg?tf=1200x' alt='iPhone: todo lo que debes saber sobre el móvil más famoso del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/garmin-pienso-comprar-no-fenix-8-parecido-apple-watch-1402378'>Este es el Garmin que pienso comprar, y no es el Fenix 8: es más parecido al Apple Watch</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-pienso-comprar-no-fenix-8-parecido-apple-watch-1402378' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-venu-3-3278319.jpg?tf=1200x' alt='Este es el Garmin que pienso comprar, y no es el Fenix 8: es más parecido al Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-no-sabe-hacer-nuevo-administrador-cuentas-windows-11-acaba-cambiarlo-otra-vez-1402770'>Microsoft no sabe qué hacer con el nuevo administrador de cuentas de Windows 11: acaba de cambiarlo otra vez</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-no-sabe-hacer-nuevo-administrador-cuentas-windows-11-acaba-cambiarlo-otra-vez-1402770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-4071517.jpg?tf=1200x' alt='Microsoft no sabe qué hacer con el nuevo administrador de cuentas de Windows 11: acaba de cambiarlo otra vez' />
     </a>
 </div>
 
