@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/fallo-permitia-saltarse-controles-seguridad-aeropuertos-1402756'>Este fallo permitía saltarse los controles de seguridad en los aeropuertos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/fallo-permitia-saltarse-controles-seguridad-aeropuertos-1402756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/control-seguridad-aeropuerto-4070750.jpg?tf=1200x' alt='Este fallo permitía saltarse los controles de seguridad en los aeropuertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/juez-ordena-suspender-x-brasil-1402754'>Un juez ordena suspender X en Brasil</a></h4>
+    <a href='https://computerhoy.com/apps/juez-ordena-suspender-x-brasil-1402754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aplicacion-x-brasil-4070597.jpg?tf=1200x' alt='Un juez ordena suspender X en Brasil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-leer-wasaps-borrados-puedes-recuperar-conversaciones-mensajes-eliminados-whatsapp-1401927'>Cómo leer “wasaps” borrados: así puedes recuperar conversaciones y mensajes eliminados en WhatsApp</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-leer-wasaps-borrados-puedes-recuperar-conversaciones-mensajes-eliminados-whatsapp-1401927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-leer-wasaps-borrados-puedes-recuperar-conversaciones-mensajes-eliminados-whatsapp-4038398.jpg?tf=1200x' alt='Cómo leer “wasaps” borrados: así puedes recuperar conversaciones y mensajes eliminados en WhatsApp' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-va-agotar-movil-brutal-carga-120w-8gb-ram-1402166'>Amazon va a agotar este móvil brutal con carga a 120W y 8GB de RAM</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-va-agotar-movil-brutal-carga-120w-8gb-ram-1402166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/realme-gt-6t-4047612.jpg?tf=1200x' alt='Amazon va a agotar este móvil brutal con carga a 120W y 8GB de RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/datos-personales-nunca-debes-compartir-whatsapp-no-quieres-te-estafen-1400022'>Los datos personales que nunca debes compartir por WhatsApp, si no quieres que te estafen</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/datos-personales-nunca-debes-compartir-whatsapp-no-quieres-te-estafen-1400022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estos-son-datos-personales-nunca-debes-compartir-whatsapp-no-quieres-te-estafen-3941526.jpg?tf=1200x' alt='Los datos personales que nunca debes compartir por WhatsApp, si no quieres que te estafen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-microsoft-nvidia-lluvia-millones-financiacion-openai-1402742'>Apple, Microsoft y NVIDIA ofrecen una lluvia de millones para evitar la quiebra de OpenAI</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-microsoft-nvidia-lluvia-millones-financiacion-openai-1402742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-microsoft-nvidia-ofrecen-lluvia-millones-evitar-quiebra-openai-4069235.jpg?tf=1200x' alt='Apple, Microsoft y NVIDIA ofrecen una lluvia de millones para evitar la quiebra de OpenAI' />
     </a>
 </div>
 
