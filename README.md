@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-pienso-comprar-no-fenix-8-parecido-apple-watch-1402378'>Este es el Garmin que pienso comprar, y no es el Fenix 8: es más parecido al Apple Watch</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-pienso-comprar-no-fenix-8-parecido-apple-watch-1402378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-venu-3-3278319.jpg?tf=1200x' alt='Este es el Garmin que pienso comprar, y no es el Fenix 8: es más parecido al Apple Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-no-sabe-hacer-nuevo-administrador-cuentas-windows-11-acaba-cambiarlo-otra-vez-1402770'>Microsoft no sabe qué hacer con el nuevo administrador de cuentas de Windows 11: acaba de cambiarlo otra vez</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-no-sabe-hacer-nuevo-administrador-cuentas-windows-11-acaba-cambiarlo-otra-vez-1402770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-4071517.jpg?tf=1200x' alt='Microsoft no sabe qué hacer con el nuevo administrador de cuentas de Windows 11: acaba de cambiarlo otra vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/aviso-guardia-civil-envios-paquetes-domicilio-evita-estafa-smishing-1402769'>Aviso de la Guardia Civil sobre los envíos de paquetes a domicilio: evita la estafa del 'smishing'</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/aviso-guardia-civil-envios-paquetes-domicilio-evita-estafa-smishing-1402769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estafa-smishing-4071366.jpg?tf=1200x' alt='Aviso de la Guardia Civil sobre los envíos de paquetes a domicilio: evita la estafa del 'smishing'' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores-juegos-crossplay-game-pass-ultimate-1400405'>Los 19 mejores juegos con crossplay de Game Pass Ultimate</a></h4>
     <a href='https://computerhoy.com/mejores-juegos-crossplay-game-pass-ultimate-1400405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ark-survival-ascended-3959460.jpg?tf=1200x' alt='Los 19 mejores juegos con crossplay de Game Pass Ultimate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/seria-nuevo-color-iphone-16-pro-mejor-esperado-1402761'>Este sería el nuevo color del iPhone 16 Pro, y es mejor de lo esperado</a></h4>
-    <a href='https://computerhoy.com/apple/seria-nuevo-color-iphone-16-pro-mejor-esperado-1402761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-colores-4071050.jpg?tf=1200x' alt='Este sería el nuevo color del iPhone 16 Pro, y es mejor de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/ajustes-registro-windows-todos-deberias-conocer-1401931'>20 ajustes del registro de Windows que todos los usuarios de Windows deberían conocer (y utilizar)</a></h4>
-    <a href='https://computerhoy.com/tutoriales/ajustes-registro-windows-todos-deberias-conocer-1401931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pc-windows-4038989.jpg?tf=1200x' alt='20 ajustes del registro de Windows que todos los usuarios de Windows deberían conocer (y utilizar)' />
     </a>
 </div>
 
