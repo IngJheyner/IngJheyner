@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-todo-debes-saber-movil-famoso-mundo-1402435'>iPhone: todo lo que debes saber sobre el móvil más famoso del mundo</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-todo-debes-saber-movil-famoso-mundo-1402435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143604.jpg?tf=1200x' alt='iPhone: todo lo que debes saber sobre el móvil más famoso del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-contactos-aislados-cada-cuentas-1402789'>WhatsApp trabaja en contactos aislados para cada una de tus cuentas</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-trabaja-contactos-aislados-cada-cuentas-1402789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dos-cuentas-whatsapp-4072711.jpg?tf=1200x' alt='WhatsApp trabaja en contactos aislados para cada una de tus cuentas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-no-sabe-hacer-nuevo-administrador-cuentas-windows-11-acaba-cambiarlo-otra-vez-1402770'>Microsoft no sabe qué hacer con el nuevo administrador de cuentas de Windows 11: acaba de cambiarlo otra vez</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-no-sabe-hacer-nuevo-administrador-cuentas-windows-11-acaba-cambiarlo-otra-vez-1402770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-4071517.jpg?tf=1200x' alt='Microsoft no sabe qué hacer con el nuevo administrador de cuentas de Windows 11: acaba de cambiarlo otra vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/aviso-guardia-civil-envios-paquetes-domicilio-evita-estafa-smishing-1402769'>Aviso de la Guardia Civil sobre los envíos de paquetes a domicilio: evita la estafa del 'smishing'</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/aviso-guardia-civil-envios-paquetes-domicilio-evita-estafa-smishing-1402769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estafa-smishing-4071366.jpg?tf=1200x' alt='Aviso de la Guardia Civil sobre los envíos de paquetes a domicilio: evita la estafa del 'smishing'' />
     </a>
 </div>
 
