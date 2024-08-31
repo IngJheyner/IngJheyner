@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/datos-personales-nunca-debes-compartir-whatsapp-no-quieres-te-estafen-1400022'>Los datos personales que nunca debes compartir por WhatsApp, si no quieres que te estafen</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/datos-personales-nunca-debes-compartir-whatsapp-no-quieres-te-estafen-1400022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estos-son-datos-personales-nunca-debes-compartir-whatsapp-no-quieres-te-estafen-3941526.jpg?tf=1200x' alt='Los datos personales que nunca debes compartir por WhatsApp, si no quieres que te estafen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-microsoft-nvidia-lluvia-millones-financiacion-openai-1402742'>Apple, Microsoft y NVIDIA ofrecen una lluvia de millones para evitar la quiebra de OpenAI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-microsoft-nvidia-lluvia-millones-financiacion-openai-1402742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-microsoft-nvidia-ofrecen-lluvia-millones-evitar-quiebra-openai-4069235.jpg?tf=1200x' alt='Apple, Microsoft y NVIDIA ofrecen una lluvia de millones para evitar la quiebra de OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-conocer-gente-1401989'>Las 18 mejores aplicaciones para conocer gente (y ligar, si se da el caso)</a></h4>
     <a href='https://computerhoy.com/apps/mejores-aplicaciones-conocer-gente-1401989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejores-aplicaciones-conocer-gente-ligar-4048466.jpg?tf=1200x' alt='Las 18 mejores aplicaciones para conocer gente (y ligar, si se da el caso)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/alarma-uso-ia-crear-imagenes-falsas-explicitas-menores-como-puede-parar-1400289'>Alarma por el uso de IA para crear imágenes falsas explícitas de menores: ¿Cómo se puede parar esto?</a></h4>
     <a href='https://computerhoy.com/tecnologia/alarma-uso-ia-crear-imagenes-falsas-explicitas-menores-como-puede-parar-1400289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/imagenes-jovenes-ia-3951323.jpg?tf=1200x' alt='Alarma por el uso de IA para crear imágenes falsas explícitas de menores: ¿Cómo se puede parar esto?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-sonado-aliexpress-25-euros-1342082'>AliExpress tiene el smartwatch barato soñado: pantallón AMOLED y llamadas ¡por 25 euros!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-sonado-aliexpress-25-euros-1342082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/zeblade-vibe-7-pro-3234276.jpg?tf=1200x' alt='AliExpress tiene el smartwatch barato soñado: pantallón AMOLED y llamadas ¡por 25 euros!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/mucha-gente-equivoca-temperatura-ideal-frigorifico-cuando-hace-calor-configuracion-reduce-factura-mitad-1402661'>Mucha gente se equivoca con la temperatura ideal del frigorífico cuando hace calor: esta configuración reduce la factura a la mitad</a></h4>
-    <a href='https://computerhoy.com/hogar/mucha-gente-equivoca-temperatura-ideal-frigorifico-cuando-hace-calor-configuracion-reduce-factura-mitad-1402661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mucha-gente-equivoca-temperatura-ideal-frigorifico-cuando-hace-calor-configuracion-reduce-factura-mitad-4063887.jpg?tf=1200x' alt='Mucha gente se equivoca con la temperatura ideal del frigorífico cuando hace calor: esta configuración reduce la factura a la mitad' />
     </a>
 </div>
 
