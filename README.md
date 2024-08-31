@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alarma-uso-ia-crear-imagenes-falsas-explicitas-menores-como-puede-parar-1400289'>Alarma por el uso de IA para crear imágenes falsas explícitas de menores: ¿Cómo se puede parar esto?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alarma-uso-ia-crear-imagenes-falsas-explicitas-menores-como-puede-parar-1400289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/imagenes-jovenes-ia-3951323.jpg?tf=1200x' alt='Alarma por el uso de IA para crear imágenes falsas explícitas de menores: ¿Cómo se puede parar esto?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-sonado-aliexpress-25-euros-1342082'>AliExpress tiene el smartwatch barato soñado: pantallón AMOLED y llamadas ¡por 25 euros!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-sonado-aliexpress-25-euros-1342082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/zeblade-vibe-7-pro-3234276.jpg?tf=1200x' alt='AliExpress tiene el smartwatch barato soñado: pantallón AMOLED y llamadas ¡por 25 euros!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/mucha-gente-equivoca-temperatura-ideal-frigorifico-cuando-hace-calor-configuracion-reduce-factura-mitad-1402661'>Mucha gente se equivoca con la temperatura ideal del frigorífico cuando hace calor: esta configuración reduce la factura a la mitad</a></h4>
+    <a href='https://computerhoy.com/hogar/mucha-gente-equivoca-temperatura-ideal-frigorifico-cuando-hace-calor-configuracion-reduce-factura-mitad-1402661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mucha-gente-equivoca-temperatura-ideal-frigorifico-cuando-hace-calor-configuracion-reduce-factura-mitad-4063887.jpg?tf=1200x' alt='Mucha gente se equivoca con la temperatura ideal del frigorífico cuando hace calor: esta configuración reduce la factura a la mitad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/me-ha-gustado-pixel-9-pro-xl-ia-fin-galaxy-ai-tiene-rival-1401488'>Lo que más me ha gustado del Pixel 9 Pro XL es su IA: por fin Galaxy AI tiene rival</a></h4>
+    <a href='https://computerhoy.com/moviles/me-ha-gustado-pixel-9-pro-xl-ia-fin-galaxy-ai-tiene-rival-1401488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-pro-xl-ia-4014729.jpg?tf=1200x' alt='Lo que más me ha gustado del Pixel 9 Pro XL es su IA: por fin Galaxy AI tiene rival' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/adolescente-madre-pobre-compre-iphone-huelga-hambre-1402737'>Un adolescente consigue que su madre pobre le compre un iPhone, tras pasar tres días en huelga de hambre</a></h4>
     <a href='https://computerhoy.com/apple/adolescente-madre-pobre-compre-iphone-huelga-hambre-1402737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/adolescente-consigue-madre-pobre-compre-iphone-pasar-tres-dias-huelga-hambre-4068204.jpg?tf=1200x' alt='Un adolescente consigue que su madre pobre le compre un iPhone, tras pasar tres días en huelga de hambre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/como-brilla-cosmos-nave-new-horizons-resuelve-misterio-oscuridad-universo-espacio-profundo-1402598'>¿Cómo brilla el cosmos? La nave New Horizons resuelve el misterio de la oscuridad del universo en el espacio profundo </a></h4>
-    <a href='https://computerhoy.com/espacio/como-brilla-cosmos-nave-new-horizons-resuelve-misterio-oscuridad-universo-espacio-profundo-1402598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/universo-4062881.jpg?tf=1200x' alt='¿Cómo brilla el cosmos? La nave New Horizons resuelve el misterio de la oscuridad del universo en el espacio profundo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/oneplus-movil-potente-barato-carga-ultrarrapida-100w-1330058'>OnePlus vende un móvil que es un cañón: 16GB de RAM y carga a 100W por mucho menos que otros gama alta</a></h4>
-    <a href='https://computerhoy.com/android/oneplus-movil-potente-barato-carga-ultrarrapida-100w-1330058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-ace-3-pro-4005258.jpg?tf=1200x' alt='OnePlus vende un móvil que es un cañón: 16GB de RAM y carga a 100W por mucho menos que otros gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ciencia-ficcion-80-remake-peliculas-1355378'>5 películas míticas de ciencia ficción de los 80 que están pidiendo un remake ya</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ciencia-ficcion-80-remake-peliculas-1355378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-miticas-peliculas-ciencia-ficcion-80-piden-remake-gritos-3258544.jpg?tf=1200x' alt='5 películas míticas de ciencia ficción de los 80 que están pidiendo un remake ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mover-barra-tareas-android-auto-lado-1402734'>Cómo mover la barra de tareas de Android Auto hacia un lado</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mover-barra-tareas-android-auto-lado-1402734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-mover-barra-tareas-android-auto-lado-4068056.jpg?tf=1200x' alt='Cómo mover la barra de tareas de Android Auto hacia un lado' />
     </a>
 </div>
 
