@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pequeno-gran-cambio-estrena-chrome-android-te-parecera-gran-funcion-1402785'>El pequeño gran cambio que se estrena en Chrome para Android, y que te parecerá una gran función</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pequeno-gran-cambio-estrena-chrome-android-te-parecera-gran-funcion-1402785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/telefono-movil-chrome-4072440.jpg?tf=1200x' alt='El pequeño gran cambio que se estrena en Chrome para Android, y que te parecerá una gran función' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/garmin-pienso-comprar-no-fenix-8-parecido-apple-watch-1402378'>Este es el Garmin que pienso comprar, y no es el Fenix 8: es más parecido al Apple Watch</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-pienso-comprar-no-fenix-8-parecido-apple-watch-1402378' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-venu-3-3278319.jpg?tf=1200x' alt='Este es el Garmin que pienso comprar, y no es el Fenix 8: es más parecido al Apple Watch' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-buscar-quieras-archivos-video-audio-1402767'>Windows 11 te permitirá buscar lo que quieras en archivos de vídeo y audio</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-te-permitira-buscar-quieras-archivos-video-audio-1402767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-4071207.jpg?tf=1200x' alt='Windows 11 te permitirá buscar lo que quieras en archivos de vídeo y audio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores-juegos-crossplay-game-pass-ultimate-1400405'>Los 19 mejores juegos con crossplay de Game Pass Ultimate</a></h4>
-    <a href='https://computerhoy.com/mejores-juegos-crossplay-game-pass-ultimate-1400405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ark-survival-ascended-3959460.jpg?tf=1200x' alt='Los 19 mejores juegos con crossplay de Game Pass Ultimate' />
     </a>
 </div>
 
