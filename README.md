@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-leer-wasaps-borrados-puedes-recuperar-conversaciones-mensajes-eliminados-whatsapp-1401927'>Cómo leer “wasaps” borrados: así puedes recuperar conversaciones y mensajes eliminados en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-leer-wasaps-borrados-puedes-recuperar-conversaciones-mensajes-eliminados-whatsapp-1401927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-leer-wasaps-borrados-puedes-recuperar-conversaciones-mensajes-eliminados-whatsapp-4038398.jpg?tf=1200x' alt='Cómo leer “wasaps” borrados: así puedes recuperar conversaciones y mensajes eliminados en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/puedes-convertir-cualquier-pdf-word-programas-ni-apps-solo-cuenta-gmail-1402347'>Así puedes convertir cualquier PDF en un Word: sin programas ni apps, solo con una cuenta de Gmail</a></h4>
     <a href='https://computerhoy.com/internet/puedes-convertir-cualquier-pdf-word-programas-ni-apps-solo-cuenta-gmail-1402347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/puedes-convertir-cualquier-pdf-word-programas-ni-apps-solo-cuenta-gmail-4053668.jpg?tf=1200x' alt='Así puedes convertir cualquier PDF en un Word: sin programas ni apps, solo con una cuenta de Gmail' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/apple-microsoft-nvidia-lluvia-millones-financiacion-openai-1402742'>Apple, Microsoft y NVIDIA ofrecen una lluvia de millones para evitar la quiebra de OpenAI</a></h4>
     <a href='https://computerhoy.com/tecnologia/apple-microsoft-nvidia-lluvia-millones-financiacion-openai-1402742' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-microsoft-nvidia-ofrecen-lluvia-millones-evitar-quiebra-openai-4069235.jpg?tf=1200x' alt='Apple, Microsoft y NVIDIA ofrecen una lluvia de millones para evitar la quiebra de OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-conocer-gente-1401989'>Las 18 mejores aplicaciones para conocer gente (y ligar, si se da el caso)</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-aplicaciones-conocer-gente-1401989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejores-aplicaciones-conocer-gente-ligar-4048466.jpg?tf=1200x' alt='Las 18 mejores aplicaciones para conocer gente (y ligar, si se da el caso)' />
     </a>
 </div>
 
