@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/aviso-guardia-civil-envios-paquetes-domicilio-evita-estafa-smishing-1402769'>Aviso de la Guardia Civil sobre los envíos de paquetes a domicilio: evita la estafa del 'smishing'</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/aviso-guardia-civil-envios-paquetes-domicilio-evita-estafa-smishing-1402769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estafa-smishing-4071366.jpg?tf=1200x' alt='Aviso de la Guardia Civil sobre los envíos de paquetes a domicilio: evita la estafa del 'smishing'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-buscar-quieras-archivos-video-audio-1402767'>Windows 11 te permitirá buscar lo que quieras en archivos de vídeo y audio</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-te-permitira-buscar-quieras-archivos-video-audio-1402767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-4071207.jpg?tf=1200x' alt='Windows 11 te permitirá buscar lo que quieras en archivos de vídeo y audio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/ajustes-registro-windows-todos-deberias-conocer-1401931'>20 ajustes del registro de Windows que todos los usuarios de Windows deberían conocer (y utilizar)</a></h4>
     <a href='https://computerhoy.com/tutoriales/ajustes-registro-windows-todos-deberias-conocer-1401931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pc-windows-4038989.jpg?tf=1200x' alt='20 ajustes del registro de Windows que todos los usuarios de Windows deberían conocer (y utilizar)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/puerta-casa-tipo-llaves-dejaras-abierta-1312236'>Si la puerta de tu casa tiene este tipo de llaves, es como si la dejarás abierta</a></h4>
-    <a href='https://computerhoy.com/hogar/puerta-casa-tipo-llaves-dejaras-abierta-1312236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/llaves-casa-3188208.jpg?tf=1200x' alt='Si la puerta de tu casa tiene este tipo de llaves, es como si la dejarás abierta' />
     </a>
 </div>
 
