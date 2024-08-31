@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-buscar-quieras-archivos-video-audio-1402767'>Windows 11 te permitirá buscar lo que quieras en archivos de vídeo y audio</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-te-permitira-buscar-quieras-archivos-video-audio-1402767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-4071207.jpg?tf=1200x' alt='Windows 11 te permitirá buscar lo que quieras en archivos de vídeo y audio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores-juegos-crossplay-game-pass-ultimate-1400405'>Los 19 mejores juegos con crossplay de Game Pass Ultimate</a></h4>
     <a href='https://computerhoy.com/mejores-juegos-crossplay-game-pass-ultimate-1400405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ark-survival-ascended-3959460.jpg?tf=1200x' alt='Los 19 mejores juegos con crossplay de Game Pass Ultimate' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/puerta-casa-tipo-llaves-dejaras-abierta-1312236'>Si la puerta de tu casa tiene este tipo de llaves, es como si la dejarás abierta</a></h4>
     <a href='https://computerhoy.com/hogar/puerta-casa-tipo-llaves-dejaras-abierta-1312236' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/llaves-casa-3188208.jpg?tf=1200x' alt='Si la puerta de tu casa tiene este tipo de llaves, es como si la dejarás abierta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/fallo-permitia-saltarse-controles-seguridad-aeropuertos-1402756'>Este fallo permitía saltarse los controles de seguridad en los aeropuertos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/fallo-permitia-saltarse-controles-seguridad-aeropuertos-1402756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/control-seguridad-aeropuerto-4070750.jpg?tf=1200x' alt='Este fallo permitía saltarse los controles de seguridad en los aeropuertos' />
     </a>
 </div>
 
