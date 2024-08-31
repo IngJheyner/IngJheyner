@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/adolescente-madre-pobre-compre-iphone-huelga-hambre-1402737'>Un adolescente consigue que su madre pobre le compre un iPhone, tras pasar tres días en huelga de hambre</a></h4>
+    <a href='https://computerhoy.com/apple/adolescente-madre-pobre-compre-iphone-huelga-hambre-1402737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/adolescente-consigue-madre-pobre-compre-iphone-pasar-tres-dias-huelga-hambre-4068204.jpg?tf=1200x' alt='Un adolescente consigue que su madre pobre le compre un iPhone, tras pasar tres días en huelga de hambre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/como-brilla-cosmos-nave-new-horizons-resuelve-misterio-oscuridad-universo-espacio-profundo-1402598'>¿Cómo brilla el cosmos? La nave New Horizons resuelve el misterio de la oscuridad del universo en el espacio profundo </a></h4>
+    <a href='https://computerhoy.com/espacio/como-brilla-cosmos-nave-new-horizons-resuelve-misterio-oscuridad-universo-espacio-profundo-1402598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/universo-4062881.jpg?tf=1200x' alt='¿Cómo brilla el cosmos? La nave New Horizons resuelve el misterio de la oscuridad del universo en el espacio profundo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/oneplus-movil-potente-barato-carga-ultrarrapida-100w-1330058'>OnePlus vende un móvil que es un cañón: 16GB de RAM y carga a 100W por mucho menos que otros gama alta</a></h4>
+    <a href='https://computerhoy.com/android/oneplus-movil-potente-barato-carga-ultrarrapida-100w-1330058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-ace-3-pro-4005258.jpg?tf=1200x' alt='OnePlus vende un móvil que es un cañón: 16GB de RAM y carga a 100W por mucho menos que otros gama alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ciencia-ficcion-80-remake-peliculas-1355378'>5 películas míticas de ciencia ficción de los 80 que están pidiendo un remake ya</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ciencia-ficcion-80-remake-peliculas-1355378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-miticas-peliculas-ciencia-ficcion-80-piden-remake-gritos-3258544.jpg?tf=1200x' alt='5 películas míticas de ciencia ficción de los 80 que están pidiendo un remake ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-mover-barra-tareas-android-auto-lado-1402734'>Cómo mover la barra de tareas de Android Auto hacia un lado</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-mover-barra-tareas-android-auto-lado-1402734' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-mover-barra-tareas-android-auto-lado-4068056.jpg?tf=1200x' alt='Cómo mover la barra de tareas de Android Auto hacia un lado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/emudeck-machines-mini-pc-retro-dreamcast-emuladores-steam-1402735'>EmuDeck Machines, el mini PC retro con forma de Dreamcast, emuladores y Steam</a></h4>
-    <a href='https://computerhoy.com/pc/emudeck-machines-mini-pc-retro-dreamcast-emuladores-steam-1402735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/emudeck-mini-pc-reto-forma-dreamcast-emuladores-integrados-steam-4067022.jpg?tf=1200x' alt='EmuDeck Machines, el mini PC retro con forma de Dreamcast, emuladores y Steam' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tiempo-viaje-genial-funcion-google-maps-sorprendentemente-nadie-parece-conocer-1402732'>Tiempo de viaje: la genial función de Google Maps que sorprendentemente nadie parece conocer</a></h4>
-    <a href='https://computerhoy.com/apps/tiempo-viaje-genial-funcion-google-maps-sorprendentemente-nadie-parece-conocer-1402732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tiempo-viaje-genial-funcion-google-maps-sorprendentemente-nadie-parece-conocer-4067465.jpg?tf=1200x' alt='Tiempo de viaje: la genial función de Google Maps que sorprendentemente nadie parece conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/he-cambiado-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-1402728'>He cambiado Windows en mi viejo portátil por este sistema operativo gratuito y ahora vuela</a></h4>
-    <a href='https://computerhoy.com/pc/he-cambiado-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-1402728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/he-cambiado-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-4066727.jpg?tf=1200x' alt='He cambiado Windows en mi viejo portátil por este sistema operativo gratuito y ahora vuela' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/gran-clasico-cambio-siempre-carrera-quentin-tarantino-vuelve-cines-30-anos-despues-1402582'>El gran clásico que cambió para siempre la carrera de Quentin Tarantino vuelve a los cines… ¡30 años después!</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/gran-clasico-cambio-siempre-carrera-quentin-tarantino-vuelve-cines-30-anos-despues-1402582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gran-clasico-cambio-siempre-carrera-quentin-tarantino-vuelve-cines-30-anos-despues-4062512.jpg?tf=1200x' alt='El gran clásico que cambió para siempre la carrera de Quentin Tarantino vuelve a los cines… ¡30 años después!' />
     </a>
 </div>
 
