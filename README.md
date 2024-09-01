@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/guia-completa-tecla-comando-windows-mac-atajos-1399965'>Guía completa de la tecla comando en Windows y Mac: atajos y todo lo que puedes hacer con ella</a></h4>
+    <a href='https://computerhoy.com/tutoriales/guia-completa-tecla-comando-windows-mac-atajos-1399965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/teclado-pc-3943670.jpg?tf=1200x' alt='Guía completa de la tecla comando en Windows y Mac: atajos y todo lo que puedes hacer con ella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-15-posibilitara-cambiar-teclado-mucho-facil-rapido-ahora-1402814'>Android 15 posibilitará cambiar de teclado mucho más fácil y rápido que ahora</a></h4>
+    <a href='https://computerhoy.com/android/android-15-posibilitara-cambiar-teclado-mucho-facil-rapido-ahora-1402814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hombre-tecleando-movil-android-4077577.jpg?tf=1200x' alt='Android 15 posibilitará cambiar de teclado mucho más fácil y rápido que ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/puntuacion-oculta-te-dice-bien-no-pc-ejecuta-version-windows-1402349'>Esta puntuación oculta te dice lo bien (o no) que tu PC ejecuta tu versión de Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/puntuacion-oculta-te-dice-bien-no-pc-ejecuta-version-windows-1402349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/puntuacion-oculta-te-dice-bien-no-pc-ejecuta-version-windows-4054106.jpg?tf=1200x' alt='Esta puntuación oculta te dice lo bien (o no) que tu PC ejecuta tu versión de Windows' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-word-estrena-resumen-automatico-documentos-copilot-1402791'>Microsoft Word estrena un resumen automático de documentos con Copilot</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-word-estrena-resumen-automatico-documentos-copilot-1402791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-word-4072861.jpg?tf=1200x' alt='Microsoft Word estrena un resumen automático de documentos con Copilot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-adaptar-pendrive-usb-ampliar-memoria-movil-tablet-smart-tv-1402551'>Cómo adaptar un pendrive USB para ampliar la memoria de un móvil, tablet o Smart TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-adaptar-pendrive-usb-ampliar-memoria-movil-tablet-smart-tv-1402551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/memoria-usb-4063227.jpg?tf=1200x' alt='Cómo adaptar un pendrive USB para ampliar la memoria de un móvil, tablet o Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guerra-precios-estas-tres-vpn-son-increiblemente-baratas-te-dan-meses-gratis-1402178'>Guerra de precios: estas tres VPN son increíblemente baratas y te dan meses gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guerra-precios-estas-tres-vpn-son-increiblemente-baratas-te-dan-meses-gratis-1402178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/surfshark-vpn-3275121.jpg?tf=1200x' alt='Guerra de precios: estas tres VPN son increíblemente baratas y te dan meses gratis' />
     </a>
 </div>
 
