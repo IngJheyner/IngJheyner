@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/presiona-segundos-boton-whatsapp-descubriras-nueva-funcion-oculta-1401930'>Presiona unos segundos este botón de WhatsApp y descubrirás una nueva función oculta</a></h4>
+    <a href='https://computerhoy.com/apps/presiona-segundos-boton-whatsapp-descubriras-nueva-funcion-oculta-1401930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/presiona-segundos-boton-whatsapp-descubriras-nueva-funcion-oculta-4039286.jpg?tf=1200x' alt='Presiona unos segundos este botón de WhatsApp y descubrirás una nueva función oculta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/programas-imprescindibles-todo-pc-windows-1401933'>10 programas imprescindibles que todo PC con Windows debería tener instalados</a></h4>
+    <a href='https://computerhoy.com/apps/programas-imprescindibles-todo-pc-windows-1401933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aplicaciones-windows-4049646.jpg?tf=1200x' alt='10 programas imprescindibles que todo PC con Windows debería tener instalados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/doctor-inteligencia-artificial-ia-llega-medico-pero-estas-preparado-ello-1402310'>Doctor inteligencia artificial: la IA llega a tu médico, pero ¿estás preparado para ello?</a></h4>
     <a href='https://computerhoy.com/tecnologia/doctor-inteligencia-artificial-ia-llega-medico-pero-estas-preparado-ello-1402310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-medicina-4057453.jpg?tf=1200x' alt='Doctor inteligencia artificial: la IA llega a tu médico, pero ¿estás preparado para ello?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pc-mas-vendido-amazon-barato-1328748'>No es un error de precio: el PC que arrasa en Amazon y es top ventas cuesta 132 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/pc-mas-vendido-amazon-barato-1328748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hp-elite-8300-3210846.jpg?tf=1200x' alt='No es un error de precio: el PC que arrasa en Amazon y es top ventas cuesta 132 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-patenta-tecnologia-podria-augurar-futuro-lanzamiento-hololens-3-1402787'>Microsoft patenta una tecnología que podría augurar el futuro lanzamiento de las Hololens 3</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-patenta-tecnologia-podria-augurar-futuro-lanzamiento-hololens-3-1402787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gafas-realidad-aumentada-4072562.jpg?tf=1200x' alt='Microsoft patenta una tecnología que podría augurar el futuro lanzamiento de las Hololens 3' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estados-unidos-amplia-territorio-dos-veces-tamano-espana-solo-dia-1402794'>Estados Unidos amplía su territorio dos veces el tamaño de España, en un solo día</a></h4>
-    <a href='https://computerhoy.com/life/estados-unidos-amplia-territorio-dos-veces-tamano-espana-solo-dia-1402794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estados-unidos-amplio-territorio-dos-veces-tamano-espana-solo-ano-4075951.jpg?tf=1200x' alt='Estados Unidos amplía su territorio dos veces el tamaño de España, en un solo día' />
     </a>
 </div>
 
