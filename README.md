@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/usa-airtag-descubrir-planta-reciclaje-tira-plastico-vertedero-1402839'>Usa un AirTag para descubrir que una planta de reciclaje tira el plástico a un vertedero</a></h4>
+    <a href='https://computerhoy.com/apple/usa-airtag-descubrir-planta-reciclaje-tira-plastico-vertedero-1402839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/airtag-2696073.jpg?tf=1200x' alt='Usa un AirTag para descubrir que una planta de reciclaje tira el plástico a un vertedero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/todo-deberias-saber-ios-sistema-operativo-iphone-1402376'>Todo lo que deberías saber sobre iOS, el sistema operativo de los iPhone</a></h4>
     <a href='https://computerhoy.com/apple/todo-deberias-saber-ios-sistema-operativo-iphone-1402376' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-ios-mano-4055821.jpg?tf=1200x' alt='Todo lo que deberías saber sobre iOS, el sistema operativo de los iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/5-portatiles-windows-11-son-muy-baratos-vuelta-cole-1402827'>5 portátiles con Windows 11 que son muy baratos para la vuelta al cole</a></h4>
     <a href='https://computerhoy.com/pc/5-portatiles-windows-11-son-muy-baratos-vuelta-cole-1402827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/usar-ordenador-portatil-4034788.jpg?tf=1200x' alt='5 portátiles con Windows 11 que son muy baratos para la vuelta al cole' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/cierre-x-brasil-bluesky-gana-millon-usuarios-durante-fin-semana-1402830'>Tras el cierre de X en Brasil, Bluesky gana un millón de usuarios durante el fin de semana</a></h4>
-    <a href='https://computerhoy.com/redes/cierre-x-brasil-bluesky-gana-millon-usuarios-durante-fin-semana-1402830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cierre-x-brasil-bluesky-gana-millon-usuarios-durante-fin-semana-4078902.jpg?tf=1200x' alt='Tras el cierre de X en Brasil, Bluesky gana un millón de usuarios durante el fin de semana' />
     </a>
 </div>
 
