@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/doctor-inteligencia-artificial-ia-llega-medico-pero-estas-preparado-ello-1402310'>Doctor inteligencia artificial: la IA llega a tu médico, pero ¿estás preparado para ello?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/doctor-inteligencia-artificial-ia-llega-medico-pero-estas-preparado-ello-1402310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-medicina-4057453.jpg?tf=1200x' alt='Doctor inteligencia artificial: la IA llega a tu médico, pero ¿estás preparado para ello?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sindrome-posvacacional-vuelta-trabajo-cuando-correo-movil-convierten-peor-enemigo-1402309'>El síndrome posvacacional y la vuelta al trabajo: cuando el correo o tu móvil se convierten en tu peor enemigo</a></h4>
     <a href='https://computerhoy.com/tecnologia/sindrome-posvacacional-vuelta-trabajo-cuando-correo-movil-convierten-peor-enemigo-1402309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sindrome-posvacional-tecnologia-4057286.jpg?tf=1200x' alt='El síndrome posvacacional y la vuelta al trabajo: cuando el correo o tu móvil se convierten en tu peor enemigo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estados-unidos-amplia-territorio-dos-veces-tamano-espana-solo-dia-1402794'>Estados Unidos amplía su territorio dos veces el tamaño de España, en un solo día</a></h4>
     <a href='https://computerhoy.com/life/estados-unidos-amplia-territorio-dos-veces-tamano-espana-solo-dia-1402794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estados-unidos-amplio-territorio-dos-veces-tamano-espana-solo-ano-4075951.jpg?tf=1200x' alt='Estados Unidos amplía su territorio dos veces el tamaño de España, en un solo día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/bluesnarfing-como-conexion-bluetooth-puede-ser-puerta-entrada-hackers-1398705'>¿Qué es 'bluesnarfing' y cómo tu conexión Bluetooth puede ser la puerta de entrada a hackers?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/bluesnarfing-como-conexion-bluetooth-puede-ser-puerta-entrada-hackers-1398705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1725007994293-4062904.jpg?tf=1200x' alt='¿Qué es 'bluesnarfing' y cómo tu conexión Bluetooth puede ser la puerta de entrada a hackers?' />
     </a>
 </div>
 
