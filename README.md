@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/5-portatiles-windows-11-son-muy-baratos-vuelta-cole-1402827'>5 portátiles con Windows 11 que son muy baratos para la vuelta al cole</a></h4>
+    <a href='https://computerhoy.com/pc/5-portatiles-windows-11-son-muy-baratos-vuelta-cole-1402827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/usar-ordenador-portatil-4034788.jpg?tf=1200x' alt='5 portátiles con Windows 11 que son muy baratos para la vuelta al cole' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/cierre-x-brasil-bluesky-gana-millon-usuarios-durante-fin-semana-1402830'>Tras el cierre de X en Brasil, Bluesky gana un millón de usuarios durante el fin de semana </a></h4>
+    <a href='https://computerhoy.com/redes/cierre-x-brasil-bluesky-gana-millon-usuarios-durante-fin-semana-1402830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cierre-x-brasil-bluesky-gana-millon-usuarios-durante-fin-semana-4078902.jpg?tf=1200x' alt='Tras el cierre de X en Brasil, Bluesky gana un millón de usuarios durante el fin de semana ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/doble-actualizacion-android-auto-android-auto-128-beta-127-estable-ya-disponibles-1402817'>Doble actualización de Android Auto: Android Auto 12.8 beta y 12.7 estable ya disponibles</a></h4>
     <a href='https://computerhoy.com/apps/doble-actualizacion-android-auto-android-auto-128-beta-127-estable-ya-disponibles-1402817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizaciones-android-auto-4077723.jpg?tf=1200x' alt='Doble actualización de Android Auto: Android Auto 12.8 beta y 12.7 estable ya disponibles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/mejores-juegos-battle-royale-pc-1400865'>Los 9 mejores juegos Battle Royale para PC</a></h4>
     <a href='https://computerhoy.com/gaming/mejores-juegos-battle-royale-pc-1400865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/call-duty-warzone-personajes-3988413.jpg?tf=1200x' alt='Los 9 mejores juegos Battle Royale para PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-piensa-funda-definitiva-iphone-incluiria-botones-capacitivos-integrados-touch-id-1402790'>Apple piensa en la funda definitiva para el iPhone que incluiría botones capacitivos integrados y hasta Touch ID</a></h4>
-    <a href='https://computerhoy.com/apple/apple-piensa-funda-definitiva-iphone-incluiria-botones-capacitivos-integrados-touch-id-1402790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-4072713.jpg?tf=1200x' alt='Apple piensa en la funda definitiva para el iPhone que incluiría botones capacitivos integrados y hasta Touch ID' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/guia-completa-tecla-comando-windows-mac-atajos-1399965'>Guía completa de la tecla comando en Windows y Mac: atajos y todo lo que puedes hacer con ella</a></h4>
-    <a href='https://computerhoy.com/tutoriales/guia-completa-tecla-comando-windows-mac-atajos-1399965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/teclado-pc-3943670.jpg?tf=1200x' alt='Guía completa de la tecla comando en Windows y Mac: atajos y todo lo que puedes hacer con ella' />
     </a>
 </div>
 
