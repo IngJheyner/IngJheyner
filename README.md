@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puntuacion-oculta-te-dice-bien-no-pc-ejecuta-version-windows-1402349'>Esta puntuación oculta te dice lo bien (o no) que tu PC ejecuta tu versión de Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puntuacion-oculta-te-dice-bien-no-pc-ejecuta-version-windows-1402349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/puntuacion-oculta-te-dice-bien-no-pc-ejecuta-version-windows-4054106.jpg?tf=1200x' alt='Esta puntuación oculta te dice lo bien (o no) que tu PC ejecuta tu versión de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/ahora-google-play-store-actualizara-varias-aplicaciones-mismo-tiempo-1402811'>Ahora Google Play Store actualizará varias aplicaciones al mismo tiempo</a></h4>
+    <a href='https://computerhoy.com/android/ahora-google-play-store-actualizara-varias-aplicaciones-mismo-tiempo-1402811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-play-4077426.jpg?tf=1200x' alt='Ahora Google Play Store actualizará varias aplicaciones al mismo tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-word-estrena-resumen-automatico-documentos-copilot-1402791'>Microsoft Word estrena un resumen automático de documentos con Copilot</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-word-estrena-resumen-automatico-documentos-copilot-1402791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-word-4072861.jpg?tf=1200x' alt='Microsoft Word estrena un resumen automático de documentos con Copilot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-adaptar-pendrive-usb-ampliar-memoria-movil-tablet-smart-tv-1402551'>Cómo adaptar un pendrive USB para ampliar la memoria de un móvil, tablet o Smart TV</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-adaptar-pendrive-usb-ampliar-memoria-movil-tablet-smart-tv-1402551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/memoria-usb-4063227.jpg?tf=1200x' alt='Cómo adaptar un pendrive USB para ampliar la memoria de un móvil, tablet o Smart TV' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/guerra-precios-estas-tres-vpn-son-increiblemente-baratas-te-dan-meses-gratis-1402178'>Guerra de precios: estas tres VPN son increíblemente baratas y te dan meses gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/guerra-precios-estas-tres-vpn-son-increiblemente-baratas-te-dan-meses-gratis-1402178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/surfshark-vpn-3275121.jpg?tf=1200x' alt='Guerra de precios: estas tres VPN son increíblemente baratas y te dan meses gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/presiona-segundos-boton-whatsapp-descubriras-nueva-funcion-oculta-1401930'>Presiona unos segundos este botón de WhatsApp y descubrirás una nueva función oculta</a></h4>
-    <a href='https://computerhoy.com/apps/presiona-segundos-boton-whatsapp-descubriras-nueva-funcion-oculta-1401930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/presiona-segundos-boton-whatsapp-descubriras-nueva-funcion-oculta-4039286.jpg?tf=1200x' alt='Presiona unos segundos este botón de WhatsApp y descubrirás una nueva función oculta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/programas-imprescindibles-todo-pc-windows-1401933'>10 programas imprescindibles que todo PC con Windows debería tener instalados</a></h4>
-    <a href='https://computerhoy.com/apps/programas-imprescindibles-todo-pc-windows-1401933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/aplicaciones-windows-4049646.jpg?tf=1200x' alt='10 programas imprescindibles que todo PC con Windows debería tener instalados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/doctor-inteligencia-artificial-ia-llega-medico-pero-estas-preparado-ello-1402310'>Doctor inteligencia artificial: la IA llega a tu médico, pero ¿estás preparado para ello?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/doctor-inteligencia-artificial-ia-llega-medico-pero-estas-preparado-ello-1402310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-medicina-4057453.jpg?tf=1200x' alt='Doctor inteligencia artificial: la IA llega a tu médico, pero ¿estás preparado para ello?' />
     </a>
 </div>
 
