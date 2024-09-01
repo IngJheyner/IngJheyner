@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nueva-era-transporte-japon-ha-desarrollado-tecnologia-hara-coches-floten-motores-ni-baterias-1402620'>La nueva era del transporte: Japón ha desarrollado una tecnología que hará que los coches floten sin motores ni baterías</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nueva-era-transporte-japon-ha-desarrollado-tecnologia-hara-coches-floten-motores-ni-baterias-1402620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coche-vuela-4063231.jpg?tf=1200x' alt='La nueva era del transporte: Japón ha desarrollado una tecnología que hará que los coches floten sin motores ni baterías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/capacidad-primer-pendrive-historia-sorprendera-mucho-1270236'>La capacidad del primer pendrive de la historia te sorprenderá mucho</a></h4>
+    <a href='https://computerhoy.com/tecnologia/capacidad-primer-pendrive-historia-sorprendera-mucho-1270236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pendrive-3074452.jpg?tf=1200x' alt='La capacidad del primer pendrive de la historia te sorprenderá mucho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/alarga-vida-coche-pero-estas-cargando-motor-1251442'>Crees que conducir así alarga la vida del coche, pero en realidad te estás cargando el motor</a></h4>
+    <a href='https://computerhoy.com/motor/alarga-vida-coche-pero-estas-cargando-motor-1251442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/limite-velocidad-2338521.jpg?tf=1200x' alt='Crees que conducir así alarga la vida del coche, pero en realidad te estás cargando el motor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/beelink-ser5-max-oferta-aliexpress-32gb-ram-1332852'>Potencia descomunal a precio de saldo: este Mini PC con 32GB de RAM, rebajado desde apenas 300 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/beelink-ser5-max-oferta-aliexpress-32gb-ram-1332852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amd-ryzen-3283941.jpg?tf=1200x' alt='Potencia descomunal a precio de saldo: este Mini PC con 32GB de RAM, rebajado desde apenas 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-permitira-desinstalar-polemica-funcion-windows-recall-1402793'>Microsoft recula, permitirá desinstalar la polémica función Windows Recall</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-permitira-desinstalar-polemica-funcion-windows-recall-1402793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-recula-permitira-desinstalar-polemica-funcion-windows-recall-4074051.jpg?tf=1200x' alt='Microsoft recula, permitirá desinstalar la polémica función Windows Recall' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-todo-debes-saber-movil-famoso-mundo-1402435'>iPhone: todo lo que debes saber sobre el móvil más famoso del mundo</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-todo-debes-saber-movil-famoso-mundo-1402435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143604.jpg?tf=1200x' alt='iPhone: todo lo que debes saber sobre el móvil más famoso del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-contactos-aislados-cada-cuentas-1402789'>WhatsApp trabaja en contactos aislados para cada una de tus cuentas</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-trabaja-contactos-aislados-cada-cuentas-1402789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/dos-cuentas-whatsapp-4072711.jpg?tf=1200x' alt='WhatsApp trabaja en contactos aislados para cada una de tus cuentas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pequeno-gran-cambio-estrena-chrome-android-te-parecera-gran-funcion-1402785'>El pequeño gran cambio que se estrena en Chrome para Android, y que te parecerá una gran función</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pequeno-gran-cambio-estrena-chrome-android-te-parecera-gran-funcion-1402785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/telefono-movil-chrome-4072440.jpg?tf=1200x' alt='El pequeño gran cambio que se estrena en Chrome para Android, y que te parecerá una gran función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-pienso-comprar-no-fenix-8-parecido-apple-watch-1402378'>Este es el Garmin que pienso comprar, y no es el Fenix 8: es más parecido al Apple Watch</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-pienso-comprar-no-fenix-8-parecido-apple-watch-1402378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-venu-3-3278319.jpg?tf=1200x' alt='Este es el Garmin que pienso comprar, y no es el Fenix 8: es más parecido al Apple Watch' />
     </a>
 </div>
 
