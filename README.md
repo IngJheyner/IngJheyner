@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-era-transporte-japon-ha-desarrollado-tecnologia-hara-coches-floten-motores-ni-baterias-1402620'>La nueva era del transporte: Japón ha desarrollado una tecnología que hará que los coches floten sin motores ni baterías</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-era-transporte-japon-ha-desarrollado-tecnologia-hara-coches-floten-motores-ni-baterias-1402620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coche-vuela-4063231.jpg?tf=1200x' alt='La nueva era del transporte: Japón ha desarrollado una tecnología que hará que los coches floten sin motores ni baterías' />
+    <h4><a href='https://computerhoy.com/tecnologia/sindrome-posvacacional-vuelta-trabajo-cuando-correo-movil-convierten-peor-enemigo-1402309'>El síndrome posvacacional y la vuelta al trabajo: cuando el correo o tu móvil se convierten en tu peor enemigo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sindrome-posvacacional-vuelta-trabajo-cuando-correo-movil-convierten-peor-enemigo-1402309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sindrome-posvacional-tecnologia-4057286.jpg?tf=1200x' alt='El síndrome posvacacional y la vuelta al trabajo: cuando el correo o tu móvil se convierten en tu peor enemigo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/capacidad-primer-pendrive-historia-sorprendera-mucho-1270236'>La capacidad del primer pendrive de la historia te sorprenderá mucho</a></h4>
-    <a href='https://computerhoy.com/tecnologia/capacidad-primer-pendrive-historia-sorprendera-mucho-1270236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/pendrive-3074452.jpg?tf=1200x' alt='La capacidad del primer pendrive de la historia te sorprenderá mucho' />
+    <h4><a href='https://computerhoy.com/tecnologia/pc-mas-vendido-amazon-barato-1328748'>No es un error de precio: el PC que arrasa en Amazon y es top ventas cuesta 132 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-mas-vendido-amazon-barato-1328748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hp-elite-8300-3210846.jpg?tf=1200x' alt='No es un error de precio: el PC que arrasa en Amazon y es top ventas cuesta 132 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/alarga-vida-coche-pero-estas-cargando-motor-1251442'>Crees que conducir así alarga la vida del coche, pero en realidad te estás cargando el motor</a></h4>
-    <a href='https://computerhoy.com/motor/alarga-vida-coche-pero-estas-cargando-motor-1251442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/limite-velocidad-2338521.jpg?tf=1200x' alt='Crees que conducir así alarga la vida del coche, pero en realidad te estás cargando el motor' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-patenta-tecnologia-podria-augurar-futuro-lanzamiento-hololens-3-1402787'>Microsoft patenta una tecnología que podría augurar el futuro lanzamiento de las Hololens 3</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-patenta-tecnologia-podria-augurar-futuro-lanzamiento-hololens-3-1402787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gafas-realidad-aumentada-4072562.jpg?tf=1200x' alt='Microsoft patenta una tecnología que podría augurar el futuro lanzamiento de las Hololens 3' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/beelink-ser5-max-oferta-aliexpress-32gb-ram-1332852'>Potencia descomunal a precio de saldo: este Mini PC con 32GB de RAM, rebajado desde apenas 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/beelink-ser5-max-oferta-aliexpress-32gb-ram-1332852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amd-ryzen-3283941.jpg?tf=1200x' alt='Potencia descomunal a precio de saldo: este Mini PC con 32GB de RAM, rebajado desde apenas 300 euros' />
+    <h4><a href='https://computerhoy.com/life/estados-unidos-amplia-territorio-dos-veces-tamano-espana-solo-dia-1402794'>Estados Unidos amplía su territorio dos veces el tamaño de España, en un solo día</a></h4>
+    <a href='https://computerhoy.com/life/estados-unidos-amplia-territorio-dos-veces-tamano-espana-solo-dia-1402794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estados-unidos-amplio-territorio-dos-veces-tamano-espana-solo-ano-4075951.jpg?tf=1200x' alt='Estados Unidos amplía su territorio dos veces el tamaño de España, en un solo día' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-permitira-desinstalar-polemica-funcion-windows-recall-1402793'>Microsoft recula, permitirá desinstalar la polémica función Windows Recall</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-permitira-desinstalar-polemica-funcion-windows-recall-1402793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-recula-permitira-desinstalar-polemica-funcion-windows-recall-4074051.jpg?tf=1200x' alt='Microsoft recula, permitirá desinstalar la polémica función Windows Recall' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/bluesnarfing-como-conexion-bluetooth-puede-ser-puerta-entrada-hackers-1398705'>¿Qué es 'bluesnarfing' y cómo tu conexión Bluetooth puede ser la puerta de entrada a hackers?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/bluesnarfing-como-conexion-bluetooth-puede-ser-puerta-entrada-hackers-1398705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/verticalimage1725007994293-4062904.jpg?tf=1200x' alt='¿Qué es 'bluesnarfing' y cómo tu conexión Bluetooth puede ser la puerta de entrada a hackers?' />
     </a>
 </div>
 
