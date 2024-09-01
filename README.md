@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-adaptar-pendrive-usb-ampliar-memoria-movil-tablet-smart-tv-1402551'>Cómo adaptar un pendrive USB para ampliar la memoria de un móvil, tablet o Smart TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-adaptar-pendrive-usb-ampliar-memoria-movil-tablet-smart-tv-1402551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/memoria-usb-4063227.jpg?tf=1200x' alt='Cómo adaptar un pendrive USB para ampliar la memoria de un móvil, tablet o Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/guerra-precios-estas-tres-vpn-son-increiblemente-baratas-te-dan-meses-gratis-1402178'>Guerra de precios: estas tres VPN son increíblemente baratas y te dan meses gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guerra-precios-estas-tres-vpn-son-increiblemente-baratas-te-dan-meses-gratis-1402178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/surfshark-vpn-3275121.jpg?tf=1200x' alt='Guerra de precios: estas tres VPN son increíblemente baratas y te dan meses gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/presiona-segundos-boton-whatsapp-descubriras-nueva-funcion-oculta-1401930'>Presiona unos segundos este botón de WhatsApp y descubrirás una nueva función oculta</a></h4>
     <a href='https://computerhoy.com/apps/presiona-segundos-boton-whatsapp-descubriras-nueva-funcion-oculta-1401930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/presiona-segundos-boton-whatsapp-descubriras-nueva-funcion-oculta-4039286.jpg?tf=1200x' alt='Presiona unos segundos este botón de WhatsApp y descubrirás una nueva función oculta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/doctor-inteligencia-artificial-ia-llega-medico-pero-estas-preparado-ello-1402310'>Doctor inteligencia artificial: la IA llega a tu médico, pero ¿estás preparado para ello?</a></h4>
     <a href='https://computerhoy.com/tecnologia/doctor-inteligencia-artificial-ia-llega-medico-pero-estas-preparado-ello-1402310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-medicina-4057453.jpg?tf=1200x' alt='Doctor inteligencia artificial: la IA llega a tu médico, pero ¿estás preparado para ello?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sindrome-posvacacional-vuelta-trabajo-cuando-correo-movil-convierten-peor-enemigo-1402309'>El síndrome posvacacional y la vuelta al trabajo: cuando el correo o tu móvil se convierten en tu peor enemigo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sindrome-posvacacional-vuelta-trabajo-cuando-correo-movil-convierten-peor-enemigo-1402309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sindrome-posvacional-tecnologia-4057286.jpg?tf=1200x' alt='El síndrome posvacacional y la vuelta al trabajo: cuando el correo o tu móvil se convierten en tu peor enemigo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-mas-vendido-amazon-barato-1328748'>No es un error de precio: el PC que arrasa en Amazon y es top ventas cuesta 132 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-mas-vendido-amazon-barato-1328748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hp-elite-8300-3210846.jpg?tf=1200x' alt='No es un error de precio: el PC que arrasa en Amazon y es top ventas cuesta 132 euros' />
     </a>
 </div>
 
