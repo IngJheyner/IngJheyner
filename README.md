@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/neo-robot-europeo-blandito-lleva-ropa-disenado-ayudarte-casa-1402833'>Neo, el robot europeo 'blandito' que lleva ropa, diseñado para ayudarte en casa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/neo-robot-europeo-blandito-lleva-ropa-disenado-ayudarte-casa-1402833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/neo-robot-europeo-blandito-lleva-ropa-disenado-ayudarte-casa-4079475.jpg?tf=1200x' alt='Neo, el robot europeo 'blandito' que lleva ropa, diseñado para ayudarte en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/5-portatiles-windows-11-son-muy-baratos-vuelta-cole-1402827'>5 portátiles con Windows 11 que son muy baratos para la vuelta al cole</a></h4>
     <a href='https://computerhoy.com/pc/5-portatiles-windows-11-son-muy-baratos-vuelta-cole-1402827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/usar-ordenador-portatil-4034788.jpg?tf=1200x' alt='5 portátiles con Windows 11 que son muy baratos para la vuelta al cole' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/cierre-x-brasil-bluesky-gana-millon-usuarios-durante-fin-semana-1402830'>Tras el cierre de X en Brasil, Bluesky gana un millón de usuarios durante el fin de semana </a></h4>
+    <h4><a href='https://computerhoy.com/redes/cierre-x-brasil-bluesky-gana-millon-usuarios-durante-fin-semana-1402830'>Tras el cierre de X en Brasil, Bluesky gana un millón de usuarios durante el fin de semana</a></h4>
     <a href='https://computerhoy.com/redes/cierre-x-brasil-bluesky-gana-millon-usuarios-durante-fin-semana-1402830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cierre-x-brasil-bluesky-gana-millon-usuarios-durante-fin-semana-4078902.jpg?tf=1200x' alt='Tras el cierre de X en Brasil, Bluesky gana un millón de usuarios durante el fin de semana ' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cierre-x-brasil-bluesky-gana-millon-usuarios-durante-fin-semana-4078902.jpg?tf=1200x' alt='Tras el cierre de X en Brasil, Bluesky gana un millón de usuarios durante el fin de semana' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/estos-auriculares-cancelacion-ruido-nos-encantan-son-muy-baratos-cinco-colores-distintos-1402818'>Estos auriculares con cancelación de ruido nos encantan y son muy baratos en cinco colores distintos</a></h4>
     <a href='https://computerhoy.com/audio/estos-auriculares-cancelacion-ruido-nos-encantan-son-muy-baratos-cinco-colores-distintos-1402818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/soundcore-liberty-4-nc-3246808.jpg?tf=1200x' alt='Estos auriculares con cancelación de ruido nos encantan y son muy baratos en cinco colores distintos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/mejores-juegos-battle-royale-pc-1400865'>Los 9 mejores juegos Battle Royale para PC</a></h4>
-    <a href='https://computerhoy.com/gaming/mejores-juegos-battle-royale-pc-1400865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/call-duty-warzone-personajes-3988413.jpg?tf=1200x' alt='Los 9 mejores juegos Battle Royale para PC' />
     </a>
 </div>
 
