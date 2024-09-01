@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/estos-auriculares-cancelacion-ruido-nos-encantan-son-muy-baratos-cinco-colores-distintos-1402818'>Estos auriculares con cancelación de ruido nos encantan y son muy baratos en cinco colores distintos</a></h4>
+    <a href='https://computerhoy.com/audio/estos-auriculares-cancelacion-ruido-nos-encantan-son-muy-baratos-cinco-colores-distintos-1402818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/soundcore-liberty-4-nc-3246808.jpg?tf=1200x' alt='Estos auriculares con cancelación de ruido nos encantan y son muy baratos en cinco colores distintos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/mejores-juegos-battle-royale-pc-1400865'>Los 9 mejores juegos Battle Royale para PC</a></h4>
+    <a href='https://computerhoy.com/gaming/mejores-juegos-battle-royale-pc-1400865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/call-duty-warzone-personajes-3988413.jpg?tf=1200x' alt='Los 9 mejores juegos Battle Royale para PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-piensa-funda-definitiva-iphone-incluiria-botones-capacitivos-integrados-touch-id-1402790'>Apple piensa en la funda definitiva para el iPhone que incluiría botones capacitivos integrados y hasta Touch ID</a></h4>
+    <a href='https://computerhoy.com/apple/apple-piensa-funda-definitiva-iphone-incluiria-botones-capacitivos-integrados-touch-id-1402790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-4072713.jpg?tf=1200x' alt='Apple piensa en la funda definitiva para el iPhone que incluiría botones capacitivos integrados y hasta Touch ID' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/guia-completa-tecla-comando-windows-mac-atajos-1399965'>Guía completa de la tecla comando en Windows y Mac: atajos y todo lo que puedes hacer con ella</a></h4>
     <a href='https://computerhoy.com/tutoriales/guia-completa-tecla-comando-windows-mac-atajos-1399965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/teclado-pc-3943670.jpg?tf=1200x' alt='Guía completa de la tecla comando en Windows y Mac: atajos y todo lo que puedes hacer con ella' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/android-15-posibilitara-cambiar-teclado-mucho-facil-rapido-ahora-1402814'>Android 15 posibilitará cambiar de teclado mucho más fácil y rápido que ahora</a></h4>
     <a href='https://computerhoy.com/android/android-15-posibilitara-cambiar-teclado-mucho-facil-rapido-ahora-1402814' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hombre-tecleando-movil-android-4077577.jpg?tf=1200x' alt='Android 15 posibilitará cambiar de teclado mucho más fácil y rápido que ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puntuacion-oculta-te-dice-bien-no-pc-ejecuta-version-windows-1402349'>Esta puntuación oculta te dice lo bien (o no) que tu PC ejecuta tu versión de Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puntuacion-oculta-te-dice-bien-no-pc-ejecuta-version-windows-1402349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/puntuacion-oculta-te-dice-bien-no-pc-ejecuta-version-windows-4054106.jpg?tf=1200x' alt='Esta puntuación oculta te dice lo bien (o no) que tu PC ejecuta tu versión de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ahora-google-play-store-actualizara-varias-aplicaciones-mismo-tiempo-1402811'>Ahora Google Play Store actualizará varias aplicaciones al mismo tiempo</a></h4>
-    <a href='https://computerhoy.com/android/ahora-google-play-store-actualizara-varias-aplicaciones-mismo-tiempo-1402811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-play-4077426.jpg?tf=1200x' alt='Ahora Google Play Store actualizará varias aplicaciones al mismo tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-word-estrena-resumen-automatico-documentos-copilot-1402791'>Microsoft Word estrena un resumen automático de documentos con Copilot</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-word-estrena-resumen-automatico-documentos-copilot-1402791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-word-4072861.jpg?tf=1200x' alt='Microsoft Word estrena un resumen automático de documentos con Copilot' />
     </a>
 </div>
 
