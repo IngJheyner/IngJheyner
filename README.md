@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/doble-actualizacion-android-auto-android-auto-128-beta-127-estable-ya-disponibles-1402817'>Doble actualización de Android Auto: Android Auto 12.8 beta y 12.7 estable ya disponibles</a></h4>
+    <a href='https://computerhoy.com/apps/doble-actualizacion-android-auto-android-auto-128-beta-127-estable-ya-disponibles-1402817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizaciones-android-auto-4077723.jpg?tf=1200x' alt='Doble actualización de Android Auto: Android Auto 12.8 beta y 12.7 estable ya disponibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/estos-auriculares-cancelacion-ruido-nos-encantan-son-muy-baratos-cinco-colores-distintos-1402818'>Estos auriculares con cancelación de ruido nos encantan y son muy baratos en cinco colores distintos</a></h4>
     <a href='https://computerhoy.com/audio/estos-auriculares-cancelacion-ruido-nos-encantan-son-muy-baratos-cinco-colores-distintos-1402818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/soundcore-liberty-4-nc-3246808.jpg?tf=1200x' alt='Estos auriculares con cancelación de ruido nos encantan y son muy baratos en cinco colores distintos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/guia-completa-tecla-comando-windows-mac-atajos-1399965'>Guía completa de la tecla comando en Windows y Mac: atajos y todo lo que puedes hacer con ella</a></h4>
     <a href='https://computerhoy.com/tutoriales/guia-completa-tecla-comando-windows-mac-atajos-1399965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/teclado-pc-3943670.jpg?tf=1200x' alt='Guía completa de la tecla comando en Windows y Mac: atajos y todo lo que puedes hacer con ella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-15-posibilitara-cambiar-teclado-mucho-facil-rapido-ahora-1402814'>Android 15 posibilitará cambiar de teclado mucho más fácil y rápido que ahora</a></h4>
-    <a href='https://computerhoy.com/android/android-15-posibilitara-cambiar-teclado-mucho-facil-rapido-ahora-1402814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hombre-tecleando-movil-android-4077577.jpg?tf=1200x' alt='Android 15 posibilitará cambiar de teclado mucho más fácil y rápido que ahora' />
     </a>
 </div>
 
