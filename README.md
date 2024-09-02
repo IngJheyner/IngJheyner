@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/maldicion-cuervo-legado-brandon-lee-ha-condenado-definitivamente-remake-1402982'>La maldición de El cuervo: el legado de Brandon Lee ha condenado definitivamente su remake</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/maldicion-cuervo-legado-brandon-lee-ha-condenado-definitivamente-remake-1402982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/maldicion-cuervo-legado-brandon-lee-ha-condenado-definitivamente-remake-4085408.jpg?tf=1200x' alt='La maldición de El cuervo: el legado de Brandon Lee ha condenado definitivamente su remake' />
+    <h4><a href='https://computerhoy.com/windows/funcion-secreta-windows-11-cerrar-aplicaciones-bloqueadas-1403060'>La función secreta de Windows 11 para cerrar aplicaciones bloqueadas</a></h4>
+    <a href='https://computerhoy.com/windows/funcion-secreta-windows-11-cerrar-aplicaciones-bloqueadas-1403060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-4087471.jpg?tf=1200x' alt='La función secreta de Windows 11 para cerrar aplicaciones bloqueadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/solucion-definitiva-canales-movistar-plus-no-corten-1403012'>La solución definitiva para que los canales de Movistar Plus+ no se corten</a></h4>
-    <a href='https://computerhoy.com/internet/solucion-definitiva-canales-movistar-plus-no-corten-1403012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/solucion-definitiva-canales-movistar-plus-no-corten-4086517.jpg?tf=1200x' alt='La solución definitiva para que los canales de Movistar Plus+ no se corten' />
+    <h4><a href='https://computerhoy.com/life/significan-numeros-tarjeta-credito-debito-1403059'>Esto es lo que significan los números de tu tarjeta de crédito o de débito</a></h4>
+    <a href='https://computerhoy.com/life/significan-numeros-tarjeta-credito-debito-1403059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tarjetas-credito-4087469.jpg?tf=1200x' alt='Esto es lo que significan los números de tu tarjeta de crédito o de débito' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/china-revela-nuevo-submarino-desafia-marina-estados-unidos-nueva-superarma-1402919'>China revela un nuevo submarino que desafía a la Marina de Estados Unidos: una nueva superarma</a></h4>
-    <a href='https://computerhoy.com/tecnologia/china-revela-nuevo-submarino-desafia-marina-estados-unidos-nueva-superarma-1402919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/submarino-4084472.jpg?tf=1200x' alt='China revela un nuevo submarino que desafía a la Marina de Estados Unidos: una nueva superarma' />
+    <h4><a href='https://computerhoy.com/apps/android-auto-integrara-ia-gemini-enterrar-google-assistant-1403057'>Android Auto integrará la IA de Gemini para enterrar a Google Assistant</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-integrara-ia-gemini-enterrar-google-assistant-1403057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-gemini-android-auto-4087467.jpg?tf=1200x' alt='Android Auto integrará la IA de Gemini para enterrar a Google Assistant' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/relojes-deportivos-favoritos-no-garmin-huawei-watch-gt-4-precio-saldo-amazon-1402946'>Es de nuestros relojes deportivos favoritos, y no es Garmin: el Huawei Watch GT 4 está a precio de saldo en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/relojes-deportivos-favoritos-no-garmin-huawei-watch-gt-4-precio-saldo-amazon-1402946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131222.jpg?tf=1200x' alt='Es de nuestros relojes deportivos favoritos, y no es Garmin: el Huawei Watch GT 4 está a precio de saldo en Amazon' />
+    <h4><a href='https://computerhoy.com/redes/significan-simbolos-cobertura-movil-seguro-hay-alguno-no-conoces-1403036'>¿Qué significan los símbolos de cobertura móvil? Seguro que hay alguno que no conoces</a></h4>
+    <a href='https://computerhoy.com/redes/significan-simbolos-cobertura-movil-seguro-hay-alguno-no-conoces-1403036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/significan-simbolos-cobertura-movil-seguro-hay-alguno-no-conoces-4087315.jpg?tf=1200x' alt='¿Qué significan los símbolos de cobertura móvil? Seguro que hay alguno que no conoces' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/10-frases-te-hacen-parecer-estupido-instante-psicologia-1402548'>10 frases que te hacen parecer estúpido al instante, según la psicología</a></h4>
-    <a href='https://computerhoy.com/life/10-frases-te-hacen-parecer-estupido-instante-psicologia-1402548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/10-frases-te-hacen-parecer-estupido-instante-psicologia-4060689.jpg?tf=1200x' alt='10 frases que te hacen parecer estúpido al instante, según la psicología' />
+    <h4><a href='https://computerhoy.com/windows/-desinstalacion-windows-recall-bug-1403052'>Era demasiado bueno para ser verdad: la desinstalación de Windows Recall es un bug</a></h4>
+    <a href='https://computerhoy.com/windows/-desinstalacion-windows-recall-bug-1403052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/era-demasiado-bueno-ser-verdad-microsoft-dice-desinstalacion-recall-bug-4086367.jpg?tf=1200x' alt='Era demasiado bueno para ser verdad: la desinstalación de Windows Recall es un bug' />
     </a>
 </div>
 
