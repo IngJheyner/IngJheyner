@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/lavadorasecadora-ia-hace-todo-ti-electrodomestico-samsung-llega-espana-1402966'>Una lavadorasecadora con IA que lo hace todo por ti: el electrodoméstico de Samsung que llega a España</a></h4>
+    <a href='https://computerhoy.com/hogar/lavadorasecadora-ia-hace-todo-ti-electrodomestico-samsung-llega-espana-1402966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lavadorasecadora-samsung-4084633.jpg?tf=1200x' alt='Una lavadorasecadora con IA que lo hace todo por ti: el electrodoméstico de Samsung que llega a España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/lg-apuesta-todo-verde-linea-electrodomesticos-te-haran-ahorrar-1402965'>LG lo apuesta todo por el verde con esta línea de electrodomésticos que te harán ahorrar</a></h4>
+    <a href='https://computerhoy.com/hogar/lg-apuesta-todo-verde-linea-electrodomesticos-te-haran-ahorrar-1402965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lg-electrodomesticos-4084624.jpg?tf=1200x' alt='LG lo apuesta todo por el verde con esta línea de electrodomésticos que te harán ahorrar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/sera-mac-mini-m4-grandes-cambios-mucha-ia-tamano-muy-reducido-1402964'>Así será el Mac Mini M4: grandes cambios, mucha IA y un tamaño muy reducido</a></h4>
     <a href='https://computerhoy.com/apple/sera-mac-mini-m4-grandes-cambios-mucha-ia-tamano-muy-reducido-1402964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-mac-mini-m2-pro-2936082.jpg?tf=1200x' alt='Así será el Mac Mini M4: grandes cambios, mucha IA y un tamaño muy reducido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-cambia-nombre-apps-famosas-siembra-caos-1402963'>Microsoft cambia el nombre a una de sus apps más famosas y siembra el caos</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-cambia-nombre-apps-famosas-siembra-caos-1402963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hombre-enfadado-windows-4084314.jpg?tf=1200x' alt='Microsoft cambia el nombre a una de sus apps más famosas y siembra el caos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/proton-vpn-4082916.jpg?tf=1200x' alt='Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/despues-60-anos-estudio-revela-tierra-tiene-nuevo-campo-electrico-junto-magnetico-gravitacional-1402887'>Después de 60 años, un estudio revela que la Tierra tiene un nuevo campo eléctrico, junto al magnético y el gravitacional</a></h4>
-    <a href='https://computerhoy.com/espacio/despues-60-anos-estudio-revela-tierra-tiene-nuevo-campo-electrico-junto-magnetico-gravitacional-1402887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tierra-campo-electrico-4083997.jpg?tf=1200x' alt='Después de 60 años, un estudio revela que la Tierra tiene un nuevo campo eléctrico, junto al magnético y el gravitacional' />
     </a>
 </div>
 
