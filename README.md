@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/adios-smartwatches-llegan-anillos-inteligentes-baratos-1387338'>Adiós a los smartwatches: llegan los primeros anillos inteligentes baratos ¡por 20 euros!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-smartwatches-llegan-anillos-inteligentes-baratos-1387338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/colmi-r02-3359999.jpg?tf=1200x' alt='Adiós a los smartwatches: llegan los primeros anillos inteligentes baratos ¡por 20 euros!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/mentira-verde-engano-luces-led-ahorrar-energia-1207572'>¿Nos vendieron una mentira verde? Así nos engañan con las luces LED para “ahorrar energía”</a></h4>
+    <a href='https://computerhoy.com/hogar/mentira-verde-engano-luces-led-ahorrar-energia-1207572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bombilla-led-junto-bombillas-normales-2970350.jpg?tf=1200x' alt='¿Nos vendieron una mentira verde? Así nos engañan con las luces LED para “ahorrar energía”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/nintendo-emio-juego-oscuro-siniestro-1402841'>Nintendo sorprende con su juego más oscuro y siniestro</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-emio-juego-oscuro-siniestro-1402841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-sorprende-juego-oscuro-siniestro-4081338.jpg?tf=1200x' alt='Nintendo sorprende con su juego más oscuro y siniestro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/todo-deberias-saber-ios-sistema-operativo-iphone-1402376'>Todo lo que deberías saber sobre iOS, el sistema operativo de los iPhone</a></h4>
     <a href='https://computerhoy.com/apple/todo-deberias-saber-ios-sistema-operativo-iphone-1402376' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-ios-mano-4055821.jpg?tf=1200x' alt='Todo lo que deberías saber sobre iOS, el sistema operativo de los iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/explosion-falcon-9-spacex-recibe-permiso-volver-lanzar-cohetes-1402836'>Tras la explosión del Falcon 9, SpaceX recibe el permiso para volver a lanzar cohetes</a></h4>
-    <a href='https://computerhoy.com/espacio/explosion-falcon-9-spacex-recibe-permiso-volver-lanzar-cohetes-1402836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/explosion-falcon-9-spacex-recibe-permiso-volver-lanzar-cohetes-4080198.jpg?tf=1200x' alt='Tras la explosión del Falcon 9, SpaceX recibe el permiso para volver a lanzar cohetes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/neo-robot-europeo-blandito-lleva-ropa-disenado-ayudarte-casa-1402833'>Neo, el robot europeo 'blandito' que lleva ropa, diseñado para ayudarte en casa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/neo-robot-europeo-blandito-lleva-ropa-disenado-ayudarte-casa-1402833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/neo-robot-europeo-blandito-lleva-ropa-disenado-ayudarte-casa-4079475.jpg?tf=1200x' alt='Neo, el robot europeo 'blandito' que lleva ropa, diseñado para ayudarte en casa' />
     </a>
 </div>
 
