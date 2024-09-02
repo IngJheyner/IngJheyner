@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/autopago-gana-terreno-espana-pero-aun-no-reemplazara-personal-caja-1402915'>El autopago gana terreno en España, pero aún no reemplazará al personal de caja</a></h4>
+    <a href='https://computerhoy.com/life/autopago-gana-terreno-espana-pero-aun-no-reemplazara-personal-caja-1402915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/autopago-gana-terreno-espana-pero-aun-no-reemplazara-personal-caja-4084150.jpg?tf=1200x' alt='El autopago gana terreno en España, pero aún no reemplazará al personal de caja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/funciona-tarjeta-magica-carga-movil-realidad-ilusion-1402903'>Así funciona la tarjeta mágica que carga tu móvil: ¿Realidad o ilusión? </a></h4>
+    <a href='https://computerhoy.com/tecnologia/funciona-tarjeta-magica-carga-movil-realidad-ilusion-1402903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tarjeta-magica-carga-movil-4084001.jpg?tf=1200x' alt='Así funciona la tarjeta mágica que carga tu móvil: ¿Realidad o ilusión? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/piratear-nintendo-switch-consecuencias-no-deberias-hacerlo-1401934'>Piratear Nintendo Switch: consecuencias, todo lo que pierdes y por qué no deberías hacerlo</a></h4>
+    <a href='https://computerhoy.com/gaming/piratear-nintendo-switch-consecuencias-no-deberias-hacerlo-1401934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/piratear-nintendo-switch-4063562.jpg?tf=1200x' alt='Piratear Nintendo Switch: consecuencias, todo lo que pierdes y por qué no deberías hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/5-portatiles-menos-500-euros-perfectos-vuelta-cole-1402840'>5 portátiles de menos de 500 euros perfectos para la vuelta al cole</a></h4>
     <a href='https://computerhoy.com/pc/5-portatiles-menos-500-euros-perfectos-vuelta-cole-1402840' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pegatinas-ordenador-portatil-3188354.jpg?tf=1200x' alt='5 portátiles de menos de 500 euros perfectos para la vuelta al cole' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/sorpresa-ultima-hora-apple-podria-presentar-iphone-4-junto-iphone-16-1402904'>¿Sorpresa de última hora? Apple podría presentar el iPhone SE 4 junto al iPhone 16</a></h4>
     <a href='https://computerhoy.com/apple/sorpresa-ultima-hora-apple-podria-presentar-iphone-4-junto-iphone-16-1402904' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656645.jpg?tf=1200x' alt='¿Sorpresa de última hora? Apple podría presentar el iPhone SE 4 junto al iPhone 16' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-ha-fabricado-movil-seguro-mundo-pero-tardara-llegar-espana-1402894'>Samsung ha fabricado el móvil más seguro del mundo, pero tardará en llegar a España</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-ha-fabricado-movil-seguro-mundo-pero-tardara-llegar-espana-1402894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-ha-fabricado-movil-seguro-mundo-pero-tardara-llegar-espana-4083844.jpg?tf=1200x' alt='Samsung ha fabricado el móvil más seguro del mundo, pero tardará en llegar a España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hoy-cumplen-siete-meses-me-operaron-primer-paciente-neuralink-cuenta-todo-1402881'>"Hoy se cumplen siete meses desde que me operaron": el primer paciente de Neuralink lo cuenta todo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hoy-cumplen-siete-meses-me-operaron-primer-paciente-neuralink-cuenta-todo-1402881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/primer-chip-desprendiendo-cerebro-pero-neuralink-va-implantarlo-segundo-paciente-3345861.jpg?tf=1200x' alt='"Hoy se cumplen siete meses desde que me operaron": el primer paciente de Neuralink lo cuenta todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-usa-marketing-parece-conocer-gustos-robarte-dinero-1402662'>Así es la nueva estafa que usa el márketing: parece conocer tus gustos para robarte el dinero</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-usa-marketing-parece-conocer-gustos-robarte-dinero-1402662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-estafa-usa-marketing-parece-conocer-gustos-robarte-dinero-4063897.jpg?tf=1200x' alt='Así es la nueva estafa que usa el márketing: parece conocer tus gustos para robarte el dinero' />
     </a>
 </div>
 
