@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/maldicion-cuervo-legado-brandon-lee-ha-condenado-definitivamente-remake-1402982'>La maldición de El cuervo: el legado de Brandon Lee ha condenado definitivamente su remake</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/maldicion-cuervo-legado-brandon-lee-ha-condenado-definitivamente-remake-1402982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/maldicion-cuervo-legado-brandon-lee-ha-condenado-definitivamente-remake-4085408.jpg?tf=1200x' alt='La maldición de El cuervo: el legado de Brandon Lee ha condenado definitivamente su remake' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/solucion-definitiva-canales-movistar-plus-no-corten-1403012'>La solución definitiva para que los canales de Movistar Plus+ no se corten</a></h4>
+    <a href='https://computerhoy.com/internet/solucion-definitiva-canales-movistar-plus-no-corten-1403012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/solucion-definitiva-canales-movistar-plus-no-corten-4086517.jpg?tf=1200x' alt='La solución definitiva para que los canales de Movistar Plus+ no se corten' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/china-revela-nuevo-submarino-desafia-marina-estados-unidos-nueva-superarma-1402919'>China revela un nuevo submarino que desafía a la Marina de Estados Unidos: una nueva superarma</a></h4>
+    <a href='https://computerhoy.com/tecnologia/china-revela-nuevo-submarino-desafia-marina-estados-unidos-nueva-superarma-1402919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/submarino-4084472.jpg?tf=1200x' alt='China revela un nuevo submarino que desafía a la Marina de Estados Unidos: una nueva superarma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/relojes-deportivos-favoritos-no-garmin-huawei-watch-gt-4-precio-saldo-amazon-1402946'>Es de nuestros relojes deportivos favoritos, y no es Garmin: el Huawei Watch GT 4 está a precio de saldo en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/relojes-deportivos-favoritos-no-garmin-huawei-watch-gt-4-precio-saldo-amazon-1402946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131222.jpg?tf=1200x' alt='Es de nuestros relojes deportivos favoritos, y no es Garmin: el Huawei Watch GT 4 está a precio de saldo en Amazon' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/10-frases-te-hacen-parecer-estupido-instante-psicologia-1402548'>10 frases que te hacen parecer estúpido al instante, según la psicología</a></h4>
     <a href='https://computerhoy.com/life/10-frases-te-hacen-parecer-estupido-instante-psicologia-1402548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/10-frases-te-hacen-parecer-estupido-instante-psicologia-4060689.jpg?tf=1200x' alt='10 frases que te hacen parecer estúpido al instante, según la psicología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/no-todo-vale-sitio-cocina-debes-colocar-freidora-aire-quieres-funcione-mejor-1402676'>No todo vale: este es el sitio de la cocina en el que debes colocar tu freidora de aire si quieres que funcione mejor</a></h4>
-    <a href='https://computerhoy.com/alimentacion/no-todo-vale-sitio-cocina-debes-colocar-freidora-aire-quieres-funcione-mejor-1402676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/no-todo-vale-sitio-cocina-debes-colocar-freidora-aire-quieres-funcione-mejor-4064221.jpg?tf=1200x' alt='No todo vale: este es el sitio de la cocina en el que debes colocar tu freidora de aire si quieres que funcione mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/joven-australiana-14-anos-inventa-dispositivo-ahorra-7300-litros-agua-ano-durante-duchas-1402901'>Una joven australiana de 14 años inventa un dispositivo que ahorra hasta 7.300 litros de agua al año durante las duchas</a></h4>
-    <a href='https://computerhoy.com/ciencia/joven-australiana-14-anos-inventa-dispositivo-ahorra-7300-litros-agua-ano-durante-duchas-1402901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ducha-4084152.jpg?tf=1200x' alt='Una joven australiana de 14 años inventa un dispositivo que ahorra hasta 7.300 litros de agua al año durante las duchas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-colgar-smart-tv-pared-consejos-problemas-soluciones-1399176'>Cómo colgar un Smart TV en la pared: consejos, problemas y soluciones</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-colgar-smart-tv-pared-consejos-problemas-soluciones-1399176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-colgar-televisor-smart-tv-pared-consejos-problemas-soluciones-3895053.jpg?tf=1200x' alt='Cómo colgar un Smart TV en la pared: consejos, problemas y soluciones' />
     </a>
 </div>
 
