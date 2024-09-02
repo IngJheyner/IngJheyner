@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/no-todo-vale-sitio-cocina-debes-colocar-freidora-aire-quieres-funcione-mejor-1402676'>No todo vale: este es el sitio de la cocina en el que debes colocar tu freidora de aire si quieres que funcione mejor</a></h4>
+    <a href='https://computerhoy.com/alimentacion/no-todo-vale-sitio-cocina-debes-colocar-freidora-aire-quieres-funcione-mejor-1402676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/no-todo-vale-sitio-cocina-debes-colocar-freidora-aire-quieres-funcione-mejor-4064221.jpg?tf=1200x' alt='No todo vale: este es el sitio de la cocina en el que debes colocar tu freidora de aire si quieres que funcione mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/joven-australiana-14-anos-inventa-dispositivo-ahorra-7300-litros-agua-ano-durante-duchas-1402901'>Una joven australiana de 14 años inventa un dispositivo que ahorra hasta 7.300 litros de agua al año durante las duchas</a></h4>
+    <a href='https://computerhoy.com/ciencia/joven-australiana-14-anos-inventa-dispositivo-ahorra-7300-litros-agua-ano-durante-duchas-1402901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ducha-4084152.jpg?tf=1200x' alt='Una joven australiana de 14 años inventa un dispositivo que ahorra hasta 7.300 litros de agua al año durante las duchas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-colgar-smart-tv-pared-consejos-problemas-soluciones-1399176'>Cómo colgar un Smart TV en la pared: consejos, problemas y soluciones</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-colgar-smart-tv-pared-consejos-problemas-soluciones-1399176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-colgar-televisor-smart-tv-pared-consejos-problemas-soluciones-3895053.jpg?tf=1200x' alt='Cómo colgar un Smart TV en la pared: consejos, problemas y soluciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/lavadorasecadora-ia-hace-todo-ti-electrodomestico-samsung-llega-espana-1402966'>Una lavadorasecadora con IA que lo hace todo por ti: el electrodoméstico de Samsung que llega a España</a></h4>
     <a href='https://computerhoy.com/hogar/lavadorasecadora-ia-hace-todo-ti-electrodomestico-samsung-llega-espana-1402966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lavadorasecadora-samsung-4084633.jpg?tf=1200x' alt='Una lavadorasecadora con IA que lo hace todo por ti: el electrodoméstico de Samsung que llega a España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/lg-apuesta-todo-verde-linea-electrodomesticos-te-haran-ahorrar-1402965'>LG lo apuesta todo por el verde con esta línea de electrodomésticos que te harán ahorrar</a></h4>
-    <a href='https://computerhoy.com/hogar/lg-apuesta-todo-verde-linea-electrodomesticos-te-haran-ahorrar-1402965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lg-electrodomesticos-4084624.jpg?tf=1200x' alt='LG lo apuesta todo por el verde con esta línea de electrodomésticos que te harán ahorrar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/sera-mac-mini-m4-grandes-cambios-mucha-ia-tamano-muy-reducido-1402964'>Así será el Mac Mini M4: grandes cambios, mucha IA y un tamaño muy reducido</a></h4>
-    <a href='https://computerhoy.com/apple/sera-mac-mini-m4-grandes-cambios-mucha-ia-tamano-muy-reducido-1402964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-mac-mini-m2-pro-2936082.jpg?tf=1200x' alt='Así será el Mac Mini M4: grandes cambios, mucha IA y un tamaño muy reducido' />
     </a>
 </div>
 
