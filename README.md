@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sencillo-truco-te-hara-saber-instante-llamada-telefono-gratis-pago-1402736'>El sencillo truco que te hará saber al instante si una llamada de teléfono es gratis o de pago</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sencillo-truco-te-hara-saber-instante-llamada-telefono-gratis-pago-1402736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sencillo-truco-te-hara-saber-instante-llamada-telefono-gratis-pago-4068352.jpg?tf=1200x' alt='El sencillo truco que te hará saber al instante si una llamada de teléfono es gratis o de pago' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pueden-maquinas-entender-sentimientos-ia-emocional-posible-1402860'>¿Pueden las máquinas entender tus sentimientos? Con la IA emocional es posible</a></h4>
+    <a href='https://computerhoy.com/pueden-maquinas-entender-sentimientos-ia-emocional-posible-1402860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ia-emocional-4083513.jpg?tf=1200x' alt='¿Pueden las máquinas entender tus sentimientos? Con la IA emocional es posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-vincular-calendario-waze-llegar-siempre-tiempo-citas-1402635'>Cómo vincular tu calendario a Waze para llegar siempre a tiempo a tus citas</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-vincular-calendario-waze-llegar-siempre-tiempo-citas-1402635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-4063559.jpg?tf=1200x' alt='Cómo vincular tu calendario a Waze para llegar siempre a tiempo a tus citas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/natacion-reloj-garmin-mejor-compra-posible-1339244'>Hago natación todos los días con este reloj Garmin y si se me rompe, me volvería a comprar el mismo</a></h4>
     <a href='https://computerhoy.com/tecnologia/natacion-reloj-garmin-mejor-compra-posible-1339244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/garmin-swim-2-3147086.jpg?tf=1200x' alt='Hago natación todos los días con este reloj Garmin y si se me rompe, me volvería a comprar el mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/velocidad-diseno-puntos-fuertes-canon-eos-r8-1402358'>Velocidad y diseño: los puntos fuertes de la Canon EOS R8</a></h4>
-    <a href='https://computerhoy.com/tecnologia/velocidad-diseno-puntos-fuertes-canon-eos-r8-1402358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/canon-eos-r8-4015074.jpg?tf=1200x' alt='Velocidad y diseño: los puntos fuertes de la Canon EOS R8' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/he-probado-fondo-nueva-ia-oppo-ai-studio-resultados-son-realmente-impresionantes-1401897'>He probado a fondo la nueva IA de Oppo, AI Studio, y los resultados son realmente impresionantes</a></h4>
-    <a href='https://computerhoy.com/moviles/he-probado-fondo-nueva-ia-oppo-ai-studio-resultados-son-realmente-impresionantes-1401897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oppo-reno-12-ai-studio-4036753.jpg?tf=1200x' alt='He probado a fondo la nueva IA de Oppo, AI Studio, y los resultados son realmente impresionantes' />
     </a>
 </div>
 
