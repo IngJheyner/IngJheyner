@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/5-portatiles-menos-500-euros-perfectos-vuelta-cole-1402840'>5 portátiles de menos de 500 euros perfectos para la vuelta al cole</a></h4>
+    <a href='https://computerhoy.com/pc/5-portatiles-menos-500-euros-perfectos-vuelta-cole-1402840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pegatinas-ordenador-portatil-3188354.jpg?tf=1200x' alt='5 portátiles de menos de 500 euros perfectos para la vuelta al cole' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/sorpresa-ultima-hora-apple-podria-presentar-iphone-4-junto-iphone-16-1402904'>¿Sorpresa de última hora? Apple podría presentar el iPhone SE 4 junto al iPhone 16</a></h4>
+    <a href='https://computerhoy.com/apple/sorpresa-ultima-hora-apple-podria-presentar-iphone-4-junto-iphone-16-1402904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656645.jpg?tf=1200x' alt='¿Sorpresa de última hora? Apple podría presentar el iPhone SE 4 junto al iPhone 16' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-ha-fabricado-movil-seguro-mundo-pero-tardara-llegar-espana-1402894'>Samsung ha fabricado el móvil más seguro del mundo, pero tardará en llegar a España</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-ha-fabricado-movil-seguro-mundo-pero-tardara-llegar-espana-1402894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-ha-fabricado-movil-seguro-mundo-pero-tardara-llegar-espana-4083844.jpg?tf=1200x' alt='Samsung ha fabricado el móvil más seguro del mundo, pero tardará en llegar a España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hoy-cumplen-siete-meses-me-operaron-primer-paciente-neuralink-cuenta-todo-1402881'>"Hoy se cumplen siete meses desde que me operaron": el primer paciente de Neuralink lo cuenta todo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hoy-cumplen-siete-meses-me-operaron-primer-paciente-neuralink-cuenta-todo-1402881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/primer-chip-desprendiendo-cerebro-pero-neuralink-va-implantarlo-segundo-paciente-3345861.jpg?tf=1200x' alt='"Hoy se cumplen siete meses desde que me operaron": el primer paciente de Neuralink lo cuenta todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-usa-marketing-parece-conocer-gustos-robarte-dinero-1402662'>Así es la nueva estafa que usa el márketing: parece conocer tus gustos para robarte el dinero</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-usa-marketing-parece-conocer-gustos-robarte-dinero-1402662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-estafa-usa-marketing-parece-conocer-gustos-robarte-dinero-4063897.jpg?tf=1200x' alt='Así es la nueva estafa que usa el márketing: parece conocer tus gustos para robarte el dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/programar-saber-programar-nueva-era-ia-ha-comenzado-positivo-1402874'>Programar sin saber programar: la nueva era de la IA ha comenzado y ¿es positivo?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/programar-saber-programar-nueva-era-ia-ha-comenzado-positivo-1402874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/programacion-ia-4083683.jpg?tf=1200x' alt='Programar sin saber programar: la nueva era de la IA ha comenzado y ¿es positivo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/adios-android-auto-vas-cambiar-sistema-poco-tiempo-1402865'>Adiós a Android Auto: lo vas a cambiar por este sistema en poco tiempo</a></h4>
-    <a href='https://computerhoy.com/motor/adios-android-auto-vas-cambiar-sistema-poco-tiempo-1402865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/adios-android-auto-vas-cambiar-sistema-poco-tiempo-4083514.jpg?tf=1200x' alt='Adiós a Android Auto: lo vas a cambiar por este sistema en poco tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/truco-electricistas-calidad-cable-electrico-comprobacion-1394218'>El truco que usan los electricistas para saber si un cable eléctrico es de buena o mala calidad</a></h4>
-    <a href='https://computerhoy.com/hogar/truco-electricistas-calidad-cable-electrico-comprobacion-1394218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/truco-electricistas-saber-cable-electrico-buena-mala-calidad-3660453.jpg?tf=1200x' alt='El truco que usan los electricistas para saber si un cable eléctrico es de buena o mala calidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/cliente-digi-enhorabuena-red-movil-television-propia-1401263'>Si tienes DIGI, enhorabuena: así es su red móvil y su televisión propia</a></h4>
-    <a href='https://computerhoy.com/redes/cliente-digi-enhorabuena-red-movil-television-propia-1401263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/digi-3436208.jpg?tf=1200x' alt='Si tienes DIGI, enhorabuena: así es su red móvil y su televisión propia' />
     </a>
 </div>
 
