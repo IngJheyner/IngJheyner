@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-emio-juego-oscuro-siniestro-1402841'>Nintendo sorprende con su juego más oscuro y siniestro</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-emio-juego-oscuro-siniestro-1402841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-sorprende-juego-oscuro-siniestro-4081338.jpg?tf=1200x' alt='Nintendo sorprende con su juego más oscuro y siniestro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/usa-airtag-descubrir-planta-reciclaje-tira-plastico-vertedero-1402839'>Usa un AirTag para descubrir que una planta de reciclaje tira el plástico a un vertedero</a></h4>
     <a href='https://computerhoy.com/apple/usa-airtag-descubrir-planta-reciclaje-tira-plastico-vertedero-1402839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/airtag-2696073.jpg?tf=1200x' alt='Usa un AirTag para descubrir que una planta de reciclaje tira el plástico a un vertedero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/neo-robot-europeo-blandito-lleva-ropa-disenado-ayudarte-casa-1402833'>Neo, el robot europeo 'blandito' que lleva ropa, diseñado para ayudarte en casa</a></h4>
     <a href='https://computerhoy.com/tecnologia/neo-robot-europeo-blandito-lleva-ropa-disenado-ayudarte-casa-1402833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/neo-robot-europeo-blandito-lleva-ropa-disenado-ayudarte-casa-4079475.jpg?tf=1200x' alt='Neo, el robot europeo 'blandito' que lleva ropa, diseñado para ayudarte en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/5-portatiles-windows-11-son-muy-baratos-vuelta-cole-1402827'>5 portátiles con Windows 11 que son muy baratos para la vuelta al cole</a></h4>
-    <a href='https://computerhoy.com/pc/5-portatiles-windows-11-son-muy-baratos-vuelta-cole-1402827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/usar-ordenador-portatil-4034788.jpg?tf=1200x' alt='5 portátiles con Windows 11 que son muy baratos para la vuelta al cole' />
     </a>
 </div>
 
