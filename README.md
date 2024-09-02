@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-colgar-smart-tv-pared-consejos-problemas-soluciones-1399176'>Cómo colgar un Smart TV en la pared: consejos, problemas y soluciones</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-colgar-smart-tv-pared-consejos-problemas-soluciones-1399176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-colgar-televisor-smart-tv-pared-consejos-problemas-soluciones-3895053.jpg?tf=1200x' alt='Cómo colgar un Smart TV en la pared: consejos, problemas y soluciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/roku-historia-dispositivos-lucha-pirateria-como-instalar-canales-gratis-1401533'>Qué es Roku: historia, dispositivos, lucha contra la piratería y cómo instalar canales gratis</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/roku-historia-dispositivos-lucha-pirateria-como-instalar-canales-gratis-1401533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/roku-tv-streaming-4013644.jpg?tf=1200x' alt='Qué es Roku: historia, dispositivos, lucha contra la piratería y cómo instalar canales gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/lavadorasecadora-ia-hace-todo-ti-electrodomestico-samsung-llega-espana-1402966'>Una lavadorasecadora con IA que lo hace todo por ti: el electrodoméstico de Samsung que llega a España</a></h4>
     <a href='https://computerhoy.com/hogar/lavadorasecadora-ia-hace-todo-ti-electrodomestico-samsung-llega-espana-1402966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lavadorasecadora-samsung-4084633.jpg?tf=1200x' alt='Una lavadorasecadora con IA que lo hace todo por ti: el electrodoméstico de Samsung que llega a España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/sera-mac-mini-m4-grandes-cambios-mucha-ia-tamano-muy-reducido-1402964'>Así será el Mac Mini M4: grandes cambios, mucha IA y un tamaño muy reducido</a></h4>
     <a href='https://computerhoy.com/apple/sera-mac-mini-m4-grandes-cambios-mucha-ia-tamano-muy-reducido-1402964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-mac-mini-m2-pro-2936082.jpg?tf=1200x' alt='Así será el Mac Mini M4: grandes cambios, mucha IA y un tamaño muy reducido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/invento-puedes-convertir-cualquier-bicicleta-electrica-solo-minuto-1402954'>El invento con el que puedes convertir cualquier bicicleta en eléctrica en solo un minuto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/invento-puedes-convertir-cualquier-bicicleta-electrica-solo-minuto-1402954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/invento-puedes-convertir-cualquier-bicicleta-electrica-solo-minuto-4084933.jpg?tf=1200x' alt='El invento con el que puedes convertir cualquier bicicleta en eléctrica en solo un minuto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-cambia-nombre-apps-famosas-siembra-caos-1402963'>Microsoft cambia el nombre a una de sus apps más famosas y siembra el caos</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-cambia-nombre-apps-famosas-siembra-caos-1402963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hombre-enfadado-windows-4084314.jpg?tf=1200x' alt='Microsoft cambia el nombre a una de sus apps más famosas y siembra el caos' />
     </a>
 </div>
 
