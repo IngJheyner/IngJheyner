@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sencillo-truco-te-hara-saber-instante-llamada-telefono-gratis-pago-1402736'>El sencillo truco que te hará saber al instante si una llamada de teléfono es gratis o de pago</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sencillo-truco-te-hara-saber-instante-llamada-telefono-gratis-pago-1402736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sencillo-truco-te-hara-saber-instante-llamada-telefono-gratis-pago-4068352.jpg?tf=1200x' alt='El sencillo truco que te hará saber al instante si una llamada de teléfono es gratis o de pago' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-usa-marketing-parece-conocer-gustos-robarte-dinero-1402662'>Así es la nueva estafa que usa el márketing: parece conocer tus gustos para robarte el dinero</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-usa-marketing-parece-conocer-gustos-robarte-dinero-1402662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-estafa-usa-marketing-parece-conocer-gustos-robarte-dinero-4063897.jpg?tf=1200x' alt='Así es la nueva estafa que usa el márketing: parece conocer tus gustos para robarte el dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pueden-maquinas-entender-sentimientos-ia-emocional-posible-1402860'>¿Pueden las máquinas entender tus sentimientos? Con la IA emocional es posible</a></h4>
-    <a href='https://computerhoy.com/pueden-maquinas-entender-sentimientos-ia-emocional-posible-1402860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ia-emocional-4083513.jpg?tf=1200x' alt='¿Pueden las máquinas entender tus sentimientos? Con la IA emocional es posible' />
+    <h4><a href='https://computerhoy.com/tecnologia/programar-saber-programar-nueva-era-ia-ha-comenzado-positivo-1402874'>Programar sin saber programar: la nueva era de la IA ha comenzado y ¿es positivo?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/programar-saber-programar-nueva-era-ia-ha-comenzado-positivo-1402874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/programacion-ia-4083683.jpg?tf=1200x' alt='Programar sin saber programar: la nueva era de la IA ha comenzado y ¿es positivo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-vincular-calendario-waze-llegar-siempre-tiempo-citas-1402635'>Cómo vincular tu calendario a Waze para llegar siempre a tiempo a tus citas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-vincular-calendario-waze-llegar-siempre-tiempo-citas-1402635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-4063559.jpg?tf=1200x' alt='Cómo vincular tu calendario a Waze para llegar siempre a tiempo a tus citas' />
+    <h4><a href='https://computerhoy.com/motor/adios-android-auto-vas-cambiar-sistema-poco-tiempo-1402865'>Adiós a Android Auto: lo vas a cambiar por este sistema en poco tiempo</a></h4>
+    <a href='https://computerhoy.com/motor/adios-android-auto-vas-cambiar-sistema-poco-tiempo-1402865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/adios-android-auto-vas-cambiar-sistema-poco-tiempo-4083514.jpg?tf=1200x' alt='Adiós a Android Auto: lo vas a cambiar por este sistema en poco tiempo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fenix-8-carisimos-garmin-reloj-bueno-pantalla-amoled-1402378'>Los Fenix 8 son carísimos, pero Garmin tiene otro reloj igual de bueno y con pantalla AMOLED que sí me pienso comprar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fenix-8-carisimos-garmin-reloj-bueno-pantalla-amoled-1402378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-venu-3-3278319.jpg?tf=1200x' alt='Los Fenix 8 son carísimos, pero Garmin tiene otro reloj igual de bueno y con pantalla AMOLED que sí me pienso comprar' />
+    <h4><a href='https://computerhoy.com/hogar/truco-electricistas-calidad-cable-electrico-comprobacion-1394218'>El truco que usan los electricistas para saber si un cable eléctrico es de buena o mala calidad</a></h4>
+    <a href='https://computerhoy.com/hogar/truco-electricistas-calidad-cable-electrico-comprobacion-1394218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/truco-electricistas-saber-cable-electrico-buena-mala-calidad-3660453.jpg?tf=1200x' alt='El truco que usan los electricistas para saber si un cable eléctrico es de buena o mala calidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/natacion-reloj-garmin-mejor-compra-posible-1339244'>Hago natación todos los días con este reloj Garmin y si se me rompe, me volvería a comprar el mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/natacion-reloj-garmin-mejor-compra-posible-1339244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/garmin-swim-2-3147086.jpg?tf=1200x' alt='Hago natación todos los días con este reloj Garmin y si se me rompe, me volvería a comprar el mismo' />
+    <h4><a href='https://computerhoy.com/redes/cliente-digi-enhorabuena-red-movil-television-propia-1401263'>Si tienes DIGI, enhorabuena: así es su red móvil y su televisión propia</a></h4>
+    <a href='https://computerhoy.com/redes/cliente-digi-enhorabuena-red-movil-television-propia-1401263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/digi-3436208.jpg?tf=1200x' alt='Si tienes DIGI, enhorabuena: así es su red móvil y su televisión propia' />
     </a>
 </div>
 
