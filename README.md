@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/encuentran-muerta-ballena-espia-rusa-hvaldimir-1403063'>Encuentran muerta a la ballena espía rusa</a></h4>
+    <a href='https://computerhoy.com/life/encuentran-muerta-ballena-espia-rusa-hvaldimir-1403063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/vuelven-ver-ballena-espia-rusa-aguas-suecia-3048748.jpg?tf=1200x' alt='Encuentran muerta a la ballena espía rusa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/funcion-secreta-windows-11-cerrar-aplicaciones-bloqueadas-1403060'>La función secreta de Windows 11 para cerrar aplicaciones bloqueadas</a></h4>
     <a href='https://computerhoy.com/windows/funcion-secreta-windows-11-cerrar-aplicaciones-bloqueadas-1403060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-4087471.jpg?tf=1200x' alt='La función secreta de Windows 11 para cerrar aplicaciones bloqueadas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/significan-simbolos-cobertura-movil-seguro-hay-alguno-no-conoces-1403036'>¿Qué significan los símbolos de cobertura móvil? Seguro que hay alguno que no conoces</a></h4>
     <a href='https://computerhoy.com/redes/significan-simbolos-cobertura-movil-seguro-hay-alguno-no-conoces-1403036' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/significan-simbolos-cobertura-movil-seguro-hay-alguno-no-conoces-4087315.jpg?tf=1200x' alt='¿Qué significan los símbolos de cobertura móvil? Seguro que hay alguno que no conoces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/-desinstalacion-windows-recall-bug-1403052'>Era demasiado bueno para ser verdad: la desinstalación de Windows Recall es un bug</a></h4>
-    <a href='https://computerhoy.com/windows/-desinstalacion-windows-recall-bug-1403052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/era-demasiado-bueno-ser-verdad-microsoft-dice-desinstalacion-recall-bug-4086367.jpg?tf=1200x' alt='Era demasiado bueno para ser verdad: la desinstalación de Windows Recall es un bug' />
     </a>
 </div>
 
