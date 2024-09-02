@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-smartwatches-llegan-anillos-inteligentes-baratos-1387338'>Adiós a los smartwatches: llegan los primeros anillos inteligentes baratos ¡por 20 euros!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-smartwatches-llegan-anillos-inteligentes-baratos-1387338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/colmi-r02-3359999.jpg?tf=1200x' alt='Adiós a los smartwatches: llegan los primeros anillos inteligentes baratos ¡por 20 euros!' />
+    <h4><a href='https://computerhoy.com/tecnologia/natacion-reloj-garmin-mejor-compra-posible-1339244'>Hago natación todos los días con este reloj Garmin y si se me rompe, me volvería a comprar el mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/natacion-reloj-garmin-mejor-compra-posible-1339244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/garmin-swim-2-3147086.jpg?tf=1200x' alt='Hago natación todos los días con este reloj Garmin y si se me rompe, me volvería a comprar el mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/velocidad-diseno-puntos-fuertes-canon-eos-r8-1402358'>Velocidad y diseño: los puntos fuertes de la Canon EOS R8</a></h4>
+    <a href='https://computerhoy.com/tecnologia/velocidad-diseno-puntos-fuertes-canon-eos-r8-1402358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/canon-eos-r8-4015074.jpg?tf=1200x' alt='Velocidad y diseño: los puntos fuertes de la Canon EOS R8' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/he-probado-fondo-nueva-ia-oppo-ai-studio-resultados-son-realmente-impresionantes-1401897'>He probado a fondo la nueva IA de Oppo, AI Studio, y los resultados son realmente impresionantes</a></h4>
+    <a href='https://computerhoy.com/moviles/he-probado-fondo-nueva-ia-oppo-ai-studio-resultados-son-realmente-impresionantes-1401897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oppo-reno-12-ai-studio-4036753.jpg?tf=1200x' alt='He probado a fondo la nueva IA de Oppo, AI Studio, y los resultados son realmente impresionantes' />
     </a>
 </div>
 
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-emio-juego-oscuro-siniestro-1402841'>Nintendo sorprende con su juego más oscuro y siniestro</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-emio-juego-oscuro-siniestro-1402841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-sorprende-juego-oscuro-siniestro-4081338.jpg?tf=1200x' alt='Nintendo sorprende con su juego más oscuro y siniestro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/usa-airtag-descubrir-planta-reciclaje-tira-plastico-vertedero-1402839'>Usa un AirTag para descubrir que una planta de reciclaje tira el plástico a un vertedero</a></h4>
-    <a href='https://computerhoy.com/apple/usa-airtag-descubrir-planta-reciclaje-tira-plastico-vertedero-1402839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/airtag-2696073.jpg?tf=1200x' alt='Usa un AirTag para descubrir que una planta de reciclaje tira el plástico a un vertedero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/todo-deberias-saber-ios-sistema-operativo-iphone-1402376'>Todo lo que deberías saber sobre iOS, el sistema operativo de los iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/todo-deberias-saber-ios-sistema-operativo-iphone-1402376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-ios-mano-4055821.jpg?tf=1200x' alt='Todo lo que deberías saber sobre iOS, el sistema operativo de los iPhone' />
+    <h4><a href='https://computerhoy.com/tecnologia/adios-smartwatches-llegan-anillos-inteligentes-baratos-1387338'>Adiós a los smartwatches: llegan los primeros anillos inteligentes baratos ¡por 20 euros!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-smartwatches-llegan-anillos-inteligentes-baratos-1387338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/colmi-r02-3359999.jpg?tf=1200x' alt='Adiós a los smartwatches: llegan los primeros anillos inteligentes baratos ¡por 20 euros!' />
     </a>
 </div>
 
