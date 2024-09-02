@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-vincular-calendario-waze-llegar-siempre-tiempo-citas-1402635'>Cómo vincular tu calendario a Waze para llegar siempre a tiempo a tus citas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-vincular-calendario-waze-llegar-siempre-tiempo-citas-1402635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-4063559.jpg?tf=1200x' alt='Cómo vincular tu calendario a Waze para llegar siempre a tiempo a tus citas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fenix-8-carisimos-garmin-reloj-bueno-pantalla-amoled-1402378'>Los Fenix 8 son carísimos, pero Garmin tiene otro reloj igual de bueno y con pantalla AMOLED que sí me pienso comprar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fenix-8-carisimos-garmin-reloj-bueno-pantalla-amoled-1402378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-venu-3-3278319.jpg?tf=1200x' alt='Los Fenix 8 son carísimos, pero Garmin tiene otro reloj igual de bueno y con pantalla AMOLED que sí me pienso comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/natacion-reloj-garmin-mejor-compra-posible-1339244'>Hago natación todos los días con este reloj Garmin y si se me rompe, me volvería a comprar el mismo</a></h4>
     <a href='https://computerhoy.com/tecnologia/natacion-reloj-garmin-mejor-compra-posible-1339244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/garmin-swim-2-3147086.jpg?tf=1200x' alt='Hago natación todos los días con este reloj Garmin y si se me rompe, me volvería a comprar el mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/he-probado-fondo-nueva-ia-oppo-ai-studio-resultados-son-realmente-impresionantes-1401897'>He probado a fondo la nueva IA de Oppo, AI Studio, y los resultados son realmente impresionantes</a></h4>
     <a href='https://computerhoy.com/moviles/he-probado-fondo-nueva-ia-oppo-ai-studio-resultados-son-realmente-impresionantes-1401897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oppo-reno-12-ai-studio-4036753.jpg?tf=1200x' alt='He probado a fondo la nueva IA de Oppo, AI Studio, y los resultados son realmente impresionantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/mentira-verde-engano-luces-led-ahorrar-energia-1207572'>¿Nos vendieron una mentira verde? Así nos engañan con las luces LED para “ahorrar energía”</a></h4>
-    <a href='https://computerhoy.com/hogar/mentira-verde-engano-luces-led-ahorrar-energia-1207572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bombilla-led-junto-bombillas-normales-2970350.jpg?tf=1200x' alt='¿Nos vendieron una mentira verde? Así nos engañan con las luces LED para “ahorrar energía”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-smartwatches-llegan-anillos-inteligentes-baratos-1387338'>Adiós a los smartwatches: llegan los primeros anillos inteligentes baratos ¡por 20 euros!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-smartwatches-llegan-anillos-inteligentes-baratos-1387338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/colmi-r02-3359999.jpg?tf=1200x' alt='Adiós a los smartwatches: llegan los primeros anillos inteligentes baratos ¡por 20 euros!' />
     </a>
 </div>
 
