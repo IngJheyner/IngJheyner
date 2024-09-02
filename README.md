@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/proton-vpn-4082916.jpg?tf=1200x' alt='Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/despues-60-anos-estudio-revela-tierra-tiene-nuevo-campo-electrico-junto-magnetico-gravitacional-1402887'>Después de 60 años, un estudio revela que la Tierra tiene un nuevo campo eléctrico, junto al magnético y el gravitacional</a></h4>
+    <a href='https://computerhoy.com/espacio/despues-60-anos-estudio-revela-tierra-tiene-nuevo-campo-electrico-junto-magnetico-gravitacional-1402887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tierra-campo-electrico-4083997.jpg?tf=1200x' alt='Después de 60 años, un estudio revela que la Tierra tiene un nuevo campo eléctrico, junto al magnético y el gravitacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/correo-asistente-personal-gmail-evoluciona-nuevas-opciones-personalizacion-1402940'>De correo a asistente personal: Gmail evoluciona con nuevas opciones de personalización</a></h4>
+    <a href='https://computerhoy.com/google/correo-asistente-personal-gmail-evoluciona-nuevas-opciones-personalizacion-1402940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gmail-bandeja-entrada-3962613.jpg?tf=1200x' alt='De correo a asistente personal: Gmail evoluciona con nuevas opciones de personalización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/android-auto-ha-escuchado-usuarios-proxima-actualizacion-1402936'>Android Auto ha escuchado a los usuarios con su próxima actualización</a></h4>
+    <a href='https://computerhoy.com/motor/android-auto-ha-escuchado-usuarios-proxima-actualizacion-1402936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-auto-ha-escuchado-usuarios-proxima-actualizacion-4084626.jpg?tf=1200x' alt='Android Auto ha escuchado a los usuarios con su próxima actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/autopago-gana-terreno-espana-pero-aun-no-reemplazara-personal-caja-1402915'>El autopago gana terreno en España, pero aún no reemplazará al personal de caja</a></h4>
     <a href='https://computerhoy.com/life/autopago-gana-terreno-espana-pero-aun-no-reemplazara-personal-caja-1402915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/autopago-gana-terreno-espana-pero-aun-no-reemplazara-personal-caja-4084150.jpg?tf=1200x' alt='El autopago gana terreno en España, pero aún no reemplazará al personal de caja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funciona-tarjeta-magica-carga-movil-realidad-ilusion-1402903'>Así funciona la tarjeta mágica que carga tu móvil: ¿Realidad o ilusión? </a></h4>
-    <a href='https://computerhoy.com/tecnologia/funciona-tarjeta-magica-carga-movil-realidad-ilusion-1402903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tarjeta-magica-carga-movil-4084001.jpg?tf=1200x' alt='Así funciona la tarjeta mágica que carga tu móvil: ¿Realidad o ilusión? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/piratear-nintendo-switch-consecuencias-no-deberias-hacerlo-1401934'>Piratear Nintendo Switch: consecuencias, todo lo que pierdes y por qué no deberías hacerlo</a></h4>
-    <a href='https://computerhoy.com/gaming/piratear-nintendo-switch-consecuencias-no-deberias-hacerlo-1401934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/piratear-nintendo-switch-4063562.jpg?tf=1200x' alt='Piratear Nintendo Switch: consecuencias, todo lo que pierdes y por qué no deberías hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/5-portatiles-menos-500-euros-perfectos-vuelta-cole-1402840'>5 portátiles de menos de 500 euros perfectos para la vuelta al cole</a></h4>
-    <a href='https://computerhoy.com/pc/5-portatiles-menos-500-euros-perfectos-vuelta-cole-1402840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pegatinas-ordenador-portatil-3188354.jpg?tf=1200x' alt='5 portátiles de menos de 500 euros perfectos para la vuelta al cole' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/sorpresa-ultima-hora-apple-podria-presentar-iphone-4-junto-iphone-16-1402904'>¿Sorpresa de última hora? Apple podría presentar el iPhone SE 4 junto al iPhone 16</a></h4>
-    <a href='https://computerhoy.com/apple/sorpresa-ultima-hora-apple-podria-presentar-iphone-4-junto-iphone-16-1402904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656645.jpg?tf=1200x' alt='¿Sorpresa de última hora? Apple podría presentar el iPhone SE 4 junto al iPhone 16' />
     </a>
 </div>
 
