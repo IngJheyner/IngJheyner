@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/relojes-deportivos-favoritos-no-garmin-huawei-watch-gt-4-precio-saldo-amazon-1402946'>Es de nuestros relojes deportivos favoritos, y no es Garmin: el Huawei Watch GT 4 está a precio de saldo en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/relojes-deportivos-favoritos-no-garmin-huawei-watch-gt-4-precio-saldo-amazon-1402946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131222.jpg?tf=1200x' alt='Es de nuestros relojes deportivos favoritos, y no es Garmin: el Huawei Watch GT 4 está a precio de saldo en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/10-frases-te-hacen-parecer-estupido-instante-psicologia-1402548'>10 frases que te hacen parecer estúpido al instante, según la psicología</a></h4>
+    <a href='https://computerhoy.com/life/10-frases-te-hacen-parecer-estupido-instante-psicologia-1402548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/10-frases-te-hacen-parecer-estupido-instante-psicologia-4060689.jpg?tf=1200x' alt='10 frases que te hacen parecer estúpido al instante, según la psicología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/no-todo-vale-sitio-cocina-debes-colocar-freidora-aire-quieres-funcione-mejor-1402676'>No todo vale: este es el sitio de la cocina en el que debes colocar tu freidora de aire si quieres que funcione mejor</a></h4>
     <a href='https://computerhoy.com/alimentacion/no-todo-vale-sitio-cocina-debes-colocar-freidora-aire-quieres-funcione-mejor-1402676' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/no-todo-vale-sitio-cocina-debes-colocar-freidora-aire-quieres-funcione-mejor-4064221.jpg?tf=1200x' alt='No todo vale: este es el sitio de la cocina en el que debes colocar tu freidora de aire si quieres que funcione mejor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-colgar-smart-tv-pared-consejos-problemas-soluciones-1399176'>Cómo colgar un Smart TV en la pared: consejos, problemas y soluciones</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-colgar-smart-tv-pared-consejos-problemas-soluciones-1399176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-colgar-televisor-smart-tv-pared-consejos-problemas-soluciones-3895053.jpg?tf=1200x' alt='Cómo colgar un Smart TV en la pared: consejos, problemas y soluciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/roku-historia-dispositivos-lucha-pirateria-como-instalar-canales-gratis-1401533'>Qué es Roku: historia, dispositivos, lucha contra la piratería y cómo instalar canales gratis</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/roku-historia-dispositivos-lucha-pirateria-como-instalar-canales-gratis-1401533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/roku-tv-streaming-4013644.jpg?tf=1200x' alt='Qué es Roku: historia, dispositivos, lucha contra la piratería y cómo instalar canales gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/lavadorasecadora-ia-hace-todo-ti-electrodomestico-samsung-llega-espana-1402966'>Una lavadorasecadora con IA que lo hace todo por ti: el electrodoméstico de Samsung que llega a España</a></h4>
-    <a href='https://computerhoy.com/hogar/lavadorasecadora-ia-hace-todo-ti-electrodomestico-samsung-llega-espana-1402966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lavadorasecadora-samsung-4084633.jpg?tf=1200x' alt='Una lavadorasecadora con IA que lo hace todo por ti: el electrodoméstico de Samsung que llega a España' />
     </a>
 </div>
 
