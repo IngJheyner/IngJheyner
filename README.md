@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/estos-dispositivos-apple-probable-dejen-vender-proximas-semanas-1403269'>Estos dispositivos de Apple es probable que se dejen de vender en las próximas semanas</a></h4>
+    <a href='https://computerhoy.com/apple/estos-dispositivos-apple-probable-dejen-vender-proximas-semanas-1403269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dispositivos-apple-4094324.jpg?tf=1200x' alt='Estos dispositivos de Apple es probable que se dejen de vender en las próximas semanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tdtchannels-estrena-nueva-aplicacion-android-tv-fire-tv-todas-estas-novedades-1403266'>TDTChannels estrena nueva aplicación para Android TV y Fire TV con todas estas novedades</a></h4>
+    <a href='https://computerhoy.com/apps/tdtchannels-estrena-nueva-aplicacion-android-tv-fire-tv-todas-estas-novedades-1403266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels estrena nueva aplicación para Android TV y Fire TV con todas estas novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/thriller-suspense-puntuacion-perfecta-ya-tiene-fecha-estreno-netflix-1403017'>El thriller de suspense con una puntuación perfecta ya tiene fecha de estreno en Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/thriller-suspense-puntuacion-perfecta-ya-tiene-fecha-estreno-netflix-1403017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/thriller-suspense-puntuacion-perfecta-ya-tiene-fecha-estreno-netflix-4086190.jpg?tf=1200x' alt='El thriller de suspense con una puntuación perfecta ya tiene fecha de estreno en Netflix' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/operadores-tienen-5g-espana-1403169'>Qué operadores tienen 5G en España</a></h4>
     <a href='https://computerhoy.com/tecnologia/operadores-tienen-5g-espana-1403169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/5g-4092204.jpg?tf=1200x' alt='Qué operadores tienen 5G en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-descargar-instalar-ahora-mismo-nueva-actualizacion-windows-11-24h2-1403238'>Cómo descargar e instalar ahora mismo la nueva actualización de Windows 11 24H2</a></h4>
-    <a href='https://computerhoy.com/windows/como-descargar-instalar-ahora-mismo-nueva-actualizacion-windows-11-24h2-1403238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-descargar-instalar-ahora-mismo-nueva-actualizacion-windows-11-24h2-4093727.jpg?tf=1200x' alt='Cómo descargar e instalar ahora mismo la nueva actualización de Windows 11 24H2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/aspira-friega-limpia-solo-robot-aspirador-tiene-todo-precio-ridiculo-1400417'>Aspira, friega y se limpia solo: este robot aspirador lo tiene todo y su precio es ridículo</a></h4>
-    <a href='https://computerhoy.com/hogar/aspira-friega-limpia-solo-robot-aspirador-tiene-todo-precio-ridiculo-1400417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cecotec-conga-2499-ultra-home-advanced-3958896.jpg?tf=1200x' alt='Aspira, friega y se limpia solo: este robot aspirador lo tiene todo y su precio es ridículo' />
     </a>
 </div>
 
