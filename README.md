@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/gran-descubrimiento-tiempo-no-tan-lineal-como-pensaba-equipo-fisicos-podria-ser-reversible-1403144'>Gran descubrimiento sobre el tiempo: no es tan lineal como se pensaba, según un equipo de físicos podría ser reversible </a></h4>
+    <a href='https://computerhoy.com/ciencia/gran-descubrimiento-tiempo-no-tan-lineal-como-pensaba-equipo-fisicos-podria-ser-reversible-1403144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tiempo-4091573.jpg?tf=1200x' alt='Gran descubrimiento sobre el tiempo: no es tan lineal como se pensaba, según un equipo de físicos podría ser reversible ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/experto-grave-error-comentes-llaves-comprometiendo-seguridad-casa-1355716'>Un experto en seguridad desaconseja esta acción con las llaves de casa por la noche: "No proporciona más seguridad"</a></h4>
+    <a href='https://computerhoy.com/hogar/experto-grave-error-comentes-llaves-comprometiendo-seguridad-casa-1355716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dejar-llave-cerradura-no-extra-seguridad-robo-3259159.jpg?tf=1200x' alt='Un experto en seguridad desaconseja esta acción con las llaves de casa por la noche: "No proporciona más seguridad"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/5-inventos-mejorar-bicicleta-electrica-1403180'>5 inventos para mejorar tu bicicleta eléctrica</a></h4>
+    <a href='https://computerhoy.com/life/5-inventos-mejorar-bicicleta-electrica-1403180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/5-inventos-mejorar-bicicleta-electrica-4092057.jpg?tf=1200x' alt='5 inventos para mejorar tu bicicleta eléctrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/tiktok-apps-citas-son-chicos-afrutados-arrasan-internet-1399283'>De TikTok a las apps de citas: ¿qué son los “chicos afrutados” que arrasan en Internet?</a></h4>
     <a href='https://computerhoy.com/life/tiktok-apps-citas-son-chicos-afrutados-arrasan-internet-1399283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tiktok-apps-citas-son-chicos-afrutados-arrasan-internet-3897584.jpg?tf=1200x' alt='De TikTok a las apps de citas: ¿qué son los “chicos afrutados” que arrasan en Internet?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/windows-11-consigue-ganar-fin-windows-10-numero-usuarios-gaming-1403160'>Windows 11 consigue ganar por fin a Windows 10 en número de usuarios en gaming</a></h4>
     <a href='https://computerhoy.com/gaming/windows-11-consigue-ganar-fin-windows-10-numero-usuarios-gaming-1403160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-consigue-ganar-fin-windows-10-numero-usuarios-gaming-4091729.jpg?tf=1200x' alt='Windows 11 consigue ganar por fin a Windows 10 en número de usuarios en gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/10-productos-muy-baratos-haran-ahorrar-cientos-euros-factura-luz-1401971'>10 productos muy baratos que harán ahorrar cientos de euros en tu factura de la luz</a></h4>
-    <a href='https://computerhoy.com/tecnologia/10-productos-muy-baratos-haran-ahorrar-cientos-euros-factura-luz-1401971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ahorrar-factura-luz-4040651.jpg?tf=1200x' alt='10 productos muy baratos que harán ahorrar cientos de euros en tu factura de la luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/slack-nacer-necesidad-convertirse-plataforma-compite-microsoft-teams-1402245'>Slack: de nacer por necesidad a convertirse en una plataforma que compite contra Microsoft Teams</a></h4>
-    <a href='https://computerhoy.com/apps/slack-nacer-necesidad-convertirse-plataforma-compite-microsoft-teams-1402245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/slack-4063558.jpg?tf=1200x' alt='Slack: de nacer por necesidad a convertirse en una plataforma que compite contra Microsoft Teams' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/clon-airtag-cuesta-menos-mitad-practicamente-igual-1403042'>Este clon del AirTag cuesta menos de la mitad y es prácticamente igual</a></h4>
-    <a href='https://computerhoy.com/apple/clon-airtag-cuesta-menos-mitad-practicamente-igual-1403042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ugreen-tag-3295691.jpg?tf=1200x' alt='Este clon del AirTag cuesta menos de la mitad y es prácticamente igual' />
     </a>
 </div>
 
