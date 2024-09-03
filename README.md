@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/como-hacer-televisor-lg-webos-encienda-directamente-tdt-1403068'>Cómo hacer que tu televisor LG con webOS se encienda directamente con la TDT</a></h4>
-    <a href='https://computerhoy.com/tv/como-hacer-televisor-lg-webos-encienda-directamente-tdt-1403068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-hacer-televisor-lg-webos-encienda-directamente-tdt-4089798.jpg?tf=1200x' alt='Cómo hacer que tu televisor LG con webOS se encienda directamente con la TDT' />
+    <h4><a href='https://computerhoy.com/tecnologia/aparato-android-lleva-kodi-tv-4k-rapidisimo-cuesta-menos-20eu-aliexpress-1403109'>Este aparato Android lleva Kodi a tu TV en 4K y rapidísimo: cuesta menos de 20€ en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aparato-android-lleva-kodi-tv-4k-rapidisimo-cuesta-menos-20eu-aliexpress-1403109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/x88-pro-4090547.jpg?tf=1200x' alt='Este aparato Android lleva Kodi a tu TV en 4K y rapidísimo: cuesta menos de 20€ en AliExpress' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/astronautas-starliner-estan-escuchando-ruidos-extranos-interior-iss-1403095'>Los astronautas de la Starliner están escuchando ruidos extraños en el interior de la ISS</a></h4>
-    <a href='https://computerhoy.com/espacio/astronautas-starliner-estan-escuchando-ruidos-extranos-interior-iss-1403095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/astronautas-starliner-estan-escuchando-ruidos-extranos-interior-iss-4090719.jpg?tf=1200x' alt='Los astronautas de la Starliner están escuchando ruidos extraños en el interior de la ISS' />
+    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s24-fe-filtran-todas-especificaciones-1403116'>Samsung Galaxy S24 FE: se filtran todas sus especificaciones</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-galaxy-s24-fe-filtran-todas-especificaciones-1403116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-s24-fe-4091046.jpg?tf=1200x' alt='Samsung Galaxy S24 FE: se filtran todas sus especificaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-16-no-levanta-pasiones-motivos-usuarios-vez-dicen-no-apple-1403097'>¿Por qué el iPhone 16 no levanta pasiones? Motivos por lo que los usuarios esta vez dicen no a Apple</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-16-no-levanta-pasiones-motivos-usuarios-vez-dicen-no-apple-1403097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-16-tendra-nuevo-boton-captura-todo-debes-saber-funcionamiento-3951633.jpg?tf=1200x' alt='¿Por qué el iPhone 16 no levanta pasiones? Motivos por lo que los usuarios esta vez dicen no a Apple' />
+    <h4><a href='https://computerhoy.com/internet/famosas-extensiones-peligrosas-google-chrome-borrar-1395724'>Si usas alguna de estas famosas extensiones de Google Chrome, bórralas porque registran todos tus movimientos online</a></h4>
+    <a href='https://computerhoy.com/internet/famosas-extensiones-peligrosas-google-chrome-borrar-1395724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Si usas alguna de estas famosas extensiones de Google Chrome, bórralas porque registran todos tus movimientos online' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/black-myth-wukong-escenarios-reales-triplican-turistas-1403113'>Los escenarios reales del juego Black Myth: Wukong triplican los turistas</a></h4>
-    <a href='https://computerhoy.com/gaming/black-myth-wukong-escenarios-reales-triplican-turistas-1403113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/escenarios-reales-juego-black-myth-wukong-triplican-turistas-4090237.jpg?tf=1200x' alt='Los escenarios reales del juego Black Myth: Wukong triplican los turistas' />
+    <h4><a href='https://computerhoy.com/energia/encendidas-bombillas-led-incluso-interruptor-apagado-solucion-1401214'>Así se soluciona el problema de las bombillas LED que se quedan encendidas incluso con el interruptor apagado</a></h4>
+    <a href='https://computerhoy.com/energia/encendidas-bombillas-led-incluso-interruptor-apagado-solucion-1401214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/quedan-encendidas-bombillas-led-incluso-interruptor-apagado-como-solucionarlo-4000493.jpg?tf=1200x' alt='Así se soluciona el problema de las bombillas LED que se quedan encendidas incluso con el interruptor apagado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/septiembre-menos-duro-portatil-rapido-amazon-liquidando-lenovo-i7-16gb-ram-precio-historico-1402848'>Septiembre es menos duro con un portátil rápido: Amazon está liquidando un Lenovo con i7 y 16GB de RAM a precio histórico</a></h4>
-    <a href='https://computerhoy.com/tecnologia/septiembre-menos-duro-portatil-rapido-amazon-liquidando-lenovo-i7-16gb-ram-precio-historico-1402848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lenovo-ideapad-slim-3-gen-8-4083061.jpg?tf=1200x' alt='Septiembre es menos duro con un portátil rápido: Amazon está liquidando un Lenovo con i7 y 16GB de RAM a precio histórico' />
+    <h4><a href='https://computerhoy.com/tecnologia/esperar-ifa-2024-samsung-honor-xiaomi-lg-tienen-preparado-1403100'>Qué esperar de IFA 2024: esto es lo que Samsung, Honor, Xiaomi y LG tienen preparado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/esperar-ifa-2024-samsung-honor-xiaomi-lg-tienen-preparado-1403100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ifa-2024-4090895.jpg?tf=1200x' alt='Qué esperar de IFA 2024: esto es lo que Samsung, Honor, Xiaomi y LG tienen preparado' />
     </a>
 </div>
 
