@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/10-productos-muy-baratos-haran-ahorrar-cientos-euros-factura-luz-1401971'>10 productos muy baratos que harán ahorrar cientos de euros en tu factura de la luz</a></h4>
+    <a href='https://computerhoy.com/tecnologia/10-productos-muy-baratos-haran-ahorrar-cientos-euros-factura-luz-1401971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ahorrar-factura-luz-4040651.jpg?tf=1200x' alt='10 productos muy baratos que harán ahorrar cientos de euros en tu factura de la luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/slack-nacer-necesidad-convertirse-plataforma-compite-microsoft-teams-1402245'>Slack: de nacer por necesidad a convertirse en una plataforma que compite contra Microsoft Teams</a></h4>
+    <a href='https://computerhoy.com/apps/slack-nacer-necesidad-convertirse-plataforma-compite-microsoft-teams-1402245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/slack-4063558.jpg?tf=1200x' alt='Slack: de nacer por necesidad a convertirse en una plataforma que compite contra Microsoft Teams' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/clon-airtag-cuesta-menos-mitad-practicamente-igual-1403042'>Este clon del AirTag cuesta menos de la mitad y es prácticamente igual</a></h4>
     <a href='https://computerhoy.com/apple/clon-airtag-cuesta-menos-mitad-practicamente-igual-1403042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ugreen-tag-3295691.jpg?tf=1200x' alt='Este clon del AirTag cuesta menos de la mitad y es prácticamente igual' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/descubren-como-viento-solar-calienta-acelera-gracias-ondas-misteriosas-captadas-dos-sondas-espaciales-nasa-esa-1403126'>Descubren cómo el viento solar se calienta y acelera gracias a ondas misteriosas captadas por dos sondas espaciales de la NASA y la ESA</a></h4>
     <a href='https://computerhoy.com/espacio/descubren-como-viento-solar-calienta-acelera-gracias-ondas-misteriosas-captadas-dos-sondas-espaciales-nasa-esa-1403126' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tormenta-solar-4091390.jpg?tf=1200x' alt='Descubren cómo el viento solar se calienta y acelera gracias a ondas misteriosas captadas por dos sondas espaciales de la NASA y la ESA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/europa-ya-cuenta-version-chip-cerebral-neuralink-plantar-cara-elon-musk-1403123'>Europa ya cuenta con su versión del chip cerebral de Neuralink para plantar cara a Elon Musk</a></h4>
-    <a href='https://computerhoy.com/europa-ya-cuenta-version-chip-cerebral-neuralink-plantar-cara-elon-musk-1403123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chip-cerebral-4091200.jpg?tf=1200x' alt='Europa ya cuenta con su versión del chip cerebral de Neuralink para plantar cara a Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-cara-contactos-notificaciones-whatsapp-1394380'>Cómo hacer que la cara de tus contactos salga en tus notificaciones de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-cara-contactos-notificaciones-whatsapp-1394380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-hacer-cara-contactos-aparezca-notificaciones-whatsapp-3666308.jpg?tf=1200x' alt='Cómo hacer que la cara de tus contactos salga en tus notificaciones de WhatsApp' />
     </a>
 </div>
 
