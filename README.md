@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/truco-podras-usar-airpods-como-walkie-talkie-1403262'>Con este truco podrás usar tus AirPods como walkie talkie</a></h4>
+    <a href='https://computerhoy.com/apple/truco-podras-usar-airpods-como-walkie-talkie-1403262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/truco-podras-usar-airpods-como-walkie-talkie-4094757.jpg?tf=1200x' alt='Con este truco podrás usar tus AirPods como walkie talkie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/app-x-tv-televisores-1403276'>Ya está aquí X TV, la app de X para los televisores</a></h4>
+    <a href='https://computerhoy.com/tv/app-x-tv-televisores-1403276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-aqui-x-tv-app-x-televisores-4094181.jpg?tf=1200x' alt='Ya está aquí X TV, la app de X para los televisores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/todas-novedades-van-llegar-ordenador-windows-11-actualizacion-24h2-ya-muy-cerca-1403270'>Todas las novedades que van a llegar a tu ordenador con Windows 11: la actualización 24H2 ya está muy cerca</a></h4>
     <a href='https://computerhoy.com/windows/todas-novedades-van-llegar-ordenador-windows-11-actualizacion-24h2-ya-muy-cerca-1403270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-4094325.jpg?tf=1200x' alt='Todas las novedades que van a llegar a tu ordenador con Windows 11: la actualización 24H2 ya está muy cerca' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/tdtchannels-estrena-nueva-aplicacion-android-tv-fire-tv-todas-estas-novedades-1403266'>TDTChannels estrena nueva aplicación para Android TV y Fire TV con todas estas novedades</a></h4>
     <a href='https://computerhoy.com/apps/tdtchannels-estrena-nueva-aplicacion-android-tv-fire-tv-todas-estas-novedades-1403266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels estrena nueva aplicación para Android TV y Fire TV con todas estas novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/thriller-suspense-puntuacion-perfecta-ya-tiene-fecha-estreno-netflix-1403017'>El thriller de suspense con una puntuación perfecta ya tiene fecha de estreno en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/thriller-suspense-puntuacion-perfecta-ya-tiene-fecha-estreno-netflix-1403017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/thriller-suspense-puntuacion-perfecta-ya-tiene-fecha-estreno-netflix-4086190.jpg?tf=1200x' alt='El thriller de suspense con una puntuación perfecta ya tiene fecha de estreno en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/stephen-king-usa-redes-evitar-cancelacion-serie-aterradora-1403093'>Stephen King usa sus redes para evitar la cancelación de esta serie: “es aterradora”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/stephen-king-usa-redes-evitar-cancelacion-serie-aterradora-1403093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/stephen-king-3266006.jpg?tf=1200x' alt='Stephen King usa sus redes para evitar la cancelación de esta serie: “es aterradora”' />
     </a>
 </div>
 
