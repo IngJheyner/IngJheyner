@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/como-hacer-televisor-lg-webos-encienda-directamente-tdt-1403068'>Cómo hacer que tu televisor LG con webOS se encienda directamente con la TDT</a></h4>
+    <a href='https://computerhoy.com/tv/como-hacer-televisor-lg-webos-encienda-directamente-tdt-1403068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-hacer-televisor-lg-webos-encienda-directamente-tdt-4089798.jpg?tf=1200x' alt='Cómo hacer que tu televisor LG con webOS se encienda directamente con la TDT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/astronautas-starliner-estan-escuchando-ruidos-extranos-interior-iss-1403095'>Los astronautas de la Starliner están escuchando ruidos extraños en el interior de la ISS</a></h4>
+    <a href='https://computerhoy.com/espacio/astronautas-starliner-estan-escuchando-ruidos-extranos-interior-iss-1403095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/astronautas-starliner-estan-escuchando-ruidos-extranos-interior-iss-4090719.jpg?tf=1200x' alt='Los astronautas de la Starliner están escuchando ruidos extraños en el interior de la ISS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-16-no-levanta-pasiones-motivos-usuarios-vez-dicen-no-apple-1403097'>¿Por qué el iPhone 16 no levanta pasiones? Motivos por lo que los usuarios esta vez dicen no a Apple</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-16-no-levanta-pasiones-motivos-usuarios-vez-dicen-no-apple-1403097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-16-tendra-nuevo-boton-captura-todo-debes-saber-funcionamiento-3951633.jpg?tf=1200x' alt='¿Por qué el iPhone 16 no levanta pasiones? Motivos por lo que los usuarios esta vez dicen no a Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/black-myth-wukong-escenarios-reales-triplican-turistas-1403113'>Los escenarios reales del juego Black Myth: Wukong triplican los turistas</a></h4>
+    <a href='https://computerhoy.com/gaming/black-myth-wukong-escenarios-reales-triplican-turistas-1403113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/escenarios-reales-juego-black-myth-wukong-triplican-turistas-4090237.jpg?tf=1200x' alt='Los escenarios reales del juego Black Myth: Wukong triplican los turistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/septiembre-menos-duro-portatil-rapido-amazon-liquidando-lenovo-i7-16gb-ram-precio-historico-1402848'>Septiembre es menos duro con un portátil rápido: Amazon está liquidando un Lenovo con i7 y 16GB de RAM a precio histórico</a></h4>
     <a href='https://computerhoy.com/tecnologia/septiembre-menos-duro-portatil-rapido-amazon-liquidando-lenovo-i7-16gb-ram-precio-historico-1402848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lenovo-ideapad-slim-3-gen-8-4083061.jpg?tf=1200x' alt='Septiembre es menos duro con un portátil rápido: Amazon está liquidando un Lenovo con i7 y 16GB de RAM a precio histórico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/libros-antiguos-podrian-envenenarte-materiales-toxicos-estudio-1403022'>Los libros antiguos podrían envenenarte con materiales tóxicos, según un estudio</a></h4>
-    <a href='https://computerhoy.com/life/libros-antiguos-podrian-envenenarte-materiales-toxicos-estudio-1403022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/libros-antiguos-podrian-envenenarte-materiales-toxicos-estudio-4086339.jpg?tf=1200x' alt='Los libros antiguos podrían envenenarte con materiales tóxicos, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-telefonica-ia-afecta-vodafone-ya-tiene-primeras-victimas-1403090'>Esta estafa telefónica con IA que afecta a Vodafone ya tiene sus primeras víctimas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafa-telefonica-ia-afecta-vodafone-ya-tiene-primeras-victimas-1403090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estafa-telefonica-ia-4090705.jpg?tf=1200x' alt='Esta estafa telefónica con IA que afecta a Vodafone ya tiene sus primeras víctimas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/presidenta-signal-no-confia-nada-ia-definitivamente-burbuja-morira-1402917'>La presidenta de Signal no confía para nada en la IA: “definitivamente, es una burbuja que morirá”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/presidenta-signal-no-confia-nada-ia-definitivamente-burbuja-morira-1402917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/meredith-whittaker-ha-dejado-google.jpg?tf=1200x' alt='La presidenta de Signal no confía para nada en la IA: “definitivamente, es una burbuja que morirá”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-todo-debes-conocer-reloj-inteligente-apple-1402566'>Apple Watch, todo lo que debes conocer del reloj inteligente de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-todo-debes-conocer-reloj-inteligente-apple-1402566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-ultra-apple-watch-series-4-3138832.jpg?tf=1200x' alt='Apple Watch, todo lo que debes conocer del reloj inteligente de Apple' />
     </a>
 </div>
 
