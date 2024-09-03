@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ni-chromecast-firestick-aparato-nokia-televisor-mas-rapido-1398102'>Ni Chromecast ni Firestick: este aparato de Nokia es lo que tu televisor necesita para funcionar más rápido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ni-chromecast-firestick-aparato-nokia-televisor-mas-rapido-1398102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/smart-tv-3845313.jpg?tf=1200x' alt='Ni Chromecast ni Firestick: este aparato de Nokia es lo que tu televisor necesita para funcionar más rápido' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-precio-gasolina-app-waze-1402948'>Cómo ver el precio de la gasolina desde la app de Waze</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-precio-gasolina-app-waze-1402948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mapa-gasolina-waze-4084943.jpg?tf=1200x' alt='Cómo ver el precio de la gasolina desde la app de Waze' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/como-hacer-prime-video-muestre-solamente-contenido-suscripcion-1403065'>Cómo hacer que Prime Video muestre solamente el contenido que está en tu suscripción</a></h4>
-    <a href='https://computerhoy.com/amazon/como-hacer-prime-video-muestre-solamente-contenido-suscripcion-1403065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-hacer-prime-video-muestre-solamente-contenido-suscripcion-4088781.jpg?tf=1200x' alt='Cómo hacer que Prime Video muestre solamente el contenido que está en tu suscripción' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-5004-amazon-prime-video-1400270'>Cómo solucionar el error 5004 de Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-5004-amazon-prime-video-1400270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/error-5004-amazon-prime-video-3950842.jpg?tf=1200x' alt='Cómo solucionar el error 5004 de Amazon Prime Video' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-transformar-fire-tv-stick-consola-videojuegos-ultima-generacion-portatil-1403053'>Cómo transformar un Fire TV Stick en una consola de videojuegos de última generación portátil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-transformar-fire-tv-stick-consola-videojuegos-ultima-generacion-portatil-1403053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-transformar-fire-tv-stick-consola-videojuegos-ultima-generacion-portatil-4088347.jpg?tf=1200x' alt='Cómo transformar un Fire TV Stick en una consola de videojuegos de última generación portátil' />
+    <h4><a href='https://computerhoy.com/energia/espejos-espacio-iluminar-paneles-solares-noche-1403072'>Esta startup va a colocar espejos en el espacio, para iluminar paneles solares por la noche</a></h4>
+    <a href='https://computerhoy.com/energia/espejos-espacio-iluminar-paneles-solares-noche-1403072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/startup-va-colocar-espejos-espacio-enviar-luz-sol-paneles-solares-noche-4089070.jpg?tf=1200x' alt='Esta startup va a colocar espejos en el espacio, para iluminar paneles solares por la noche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/encuentran-muerta-ballena-espia-rusa-hvaldimir-1403063'>Encuentran muerta a la ballena espía rusa</a></h4>
-    <a href='https://computerhoy.com/life/encuentran-muerta-ballena-espia-rusa-hvaldimir-1403063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/vuelven-ver-ballena-espia-rusa-aguas-suecia-3048748.jpg?tf=1200x' alt='Encuentran muerta a la ballena espía rusa' />
+    <h4><a href='https://computerhoy.com/analisis/motorola-razr-50-analisis-opiniones-1402923'>El Motorola Razr 50 hará que te gusten los móviles plegables y compactos sin necesidad de renunciar a una pantalla grande</a></h4>
+    <a href='https://computerhoy.com/analisis/motorola-razr-50-analisis-opiniones-1402923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/motorola-razr-50-analisis-opiniones-4085879.jpg?tf=1200x' alt='El Motorola Razr 50 hará que te gusten los móviles plegables y compactos sin necesidad de renunciar a una pantalla grande' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/funcion-secreta-windows-11-cerrar-aplicaciones-bloqueadas-1403060'>La función secreta de Windows 11 para cerrar aplicaciones bloqueadas</a></h4>
-    <a href='https://computerhoy.com/windows/funcion-secreta-windows-11-cerrar-aplicaciones-bloqueadas-1403060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-4087471.jpg?tf=1200x' alt='La función secreta de Windows 11 para cerrar aplicaciones bloqueadas' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-todo-debes-saber-marca-surcoreana-moviles-televisores-1396178'>Samsung: todo lo que debes saber sobre la marca surcoreana, sus móviles y televisores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-todo-debes-saber-marca-surcoreana-moviles-televisores-1396178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-3761288.jpg?tf=1200x' alt='Samsung: todo lo que debes saber sobre la marca surcoreana, sus móviles y televisores' />
     </a>
 </div>
 
