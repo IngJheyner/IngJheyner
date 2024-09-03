@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/intel-lanza-procesadores-core-ultra-200v-listos-era-pc-ia-1403151'>Intel lanza sus procesadores Core Ultra 200V, listos para la era de los PC con IA </a></h4>
+    <a href='https://computerhoy.com/pc/intel-lanza-procesadores-core-ultra-200v-listos-era-pc-ia-1403151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/intel-core-ultra-200v-4091727.jpg?tf=1200x' alt='Intel lanza sus procesadores Core Ultra 200V, listos para la era de los PC con IA ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/amd-ryzen-7-7800x3d-falsas-como-puedes-detectarlas-1403179'>CPU AMD Ryzen 7 7800X3D falsas están afectando a muchos usuarios: así es como puedes detectarlas</a></h4>
+    <a href='https://computerhoy.com/pc/amd-ryzen-7-7800x3d-falsas-como-puedes-detectarlas-1403179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cpu-amd-ryzen-7-7800x3d-4092055.jpg?tf=1200x' alt='CPU AMD Ryzen 7 7800X3D falsas están afectando a muchos usuarios: así es como puedes detectarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/gran-descubrimiento-tiempo-no-tan-lineal-como-pensaba-equipo-fisicos-podria-ser-reversible-1403144'>Gran descubrimiento sobre el tiempo: no es tan lineal como se pensaba, según un equipo de físicos podría ser reversible </a></h4>
     <a href='https://computerhoy.com/ciencia/gran-descubrimiento-tiempo-no-tan-lineal-como-pensaba-equipo-fisicos-podria-ser-reversible-1403144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tiempo-4091573.jpg?tf=1200x' alt='Gran descubrimiento sobre el tiempo: no es tan lineal como se pensaba, según un equipo de físicos podría ser reversible ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/5-inventos-mejorar-bicicleta-electrica-1403180'>5 inventos para mejorar tu bicicleta eléctrica</a></h4>
     <a href='https://computerhoy.com/life/5-inventos-mejorar-bicicleta-electrica-1403180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/5-inventos-mejorar-bicicleta-electrica-4092057.jpg?tf=1200x' alt='5 inventos para mejorar tu bicicleta eléctrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tiktok-apps-citas-son-chicos-afrutados-arrasan-internet-1399283'>De TikTok a las apps de citas: ¿qué son los “chicos afrutados” que arrasan en Internet?</a></h4>
-    <a href='https://computerhoy.com/life/tiktok-apps-citas-son-chicos-afrutados-arrasan-internet-1399283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tiktok-apps-citas-son-chicos-afrutados-arrasan-internet-3897584.jpg?tf=1200x' alt='De TikTok a las apps de citas: ¿qué son los “chicos afrutados” que arrasan en Internet?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/windows-11-consigue-ganar-fin-windows-10-numero-usuarios-gaming-1403160'>Windows 11 consigue ganar por fin a Windows 10 en número de usuarios en gaming</a></h4>
-    <a href='https://computerhoy.com/gaming/windows-11-consigue-ganar-fin-windows-10-numero-usuarios-gaming-1403160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-consigue-ganar-fin-windows-10-numero-usuarios-gaming-4091729.jpg?tf=1200x' alt='Windows 11 consigue ganar por fin a Windows 10 en número de usuarios en gaming' />
     </a>
 </div>
 
