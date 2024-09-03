@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/thriller-suspense-puntuacion-perfecta-ya-tiene-fecha-estreno-netflix-1403017'>El thriller de suspense con una puntuación perfecta ya tiene fecha de estreno en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/thriller-suspense-puntuacion-perfecta-ya-tiene-fecha-estreno-netflix-1403017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/thriller-suspense-puntuacion-perfecta-ya-tiene-fecha-estreno-netflix-4086190.jpg?tf=1200x' alt='El thriller de suspense con una puntuación perfecta ya tiene fecha de estreno en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/stephen-king-usa-redes-evitar-cancelacion-serie-aterradora-1403093'>Stephen King usa sus redes para evitar la cancelación de esta serie: “es aterradora”</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/stephen-king-usa-redes-evitar-cancelacion-serie-aterradora-1403093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/stephen-king-3266006.jpg?tf=1200x' alt='Stephen King usa sus redes para evitar la cancelación de esta serie: “es aterradora”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/operadores-tienen-5g-espana-1403169'>Qué operadores tienen 5G en España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/operadores-tienen-5g-espana-1403169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/5g-4092204.jpg?tf=1200x' alt='Qué operadores tienen 5G en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/como-descargar-instalar-ahora-mismo-nueva-actualizacion-windows-11-24h2-1403238'>Cómo descargar e instalar ahora mismo la nueva actualización de Windows 11 24H2</a></h4>
     <a href='https://computerhoy.com/windows/como-descargar-instalar-ahora-mismo-nueva-actualizacion-windows-11-24h2-1403238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-descargar-instalar-ahora-mismo-nueva-actualizacion-windows-11-24h2-4093727.jpg?tf=1200x' alt='Cómo descargar e instalar ahora mismo la nueva actualización de Windows 11 24H2' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/aspira-friega-limpia-solo-robot-aspirador-tiene-todo-precio-ridiculo-1400417'>Aspira, friega y se limpia solo: este robot aspirador lo tiene todo y su precio es ridículo</a></h4>
     <a href='https://computerhoy.com/hogar/aspira-friega-limpia-solo-robot-aspirador-tiene-todo-precio-ridiculo-1400417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cecotec-conga-2499-ultra-home-advanced-3958896.jpg?tf=1200x' alt='Aspira, friega y se limpia solo: este robot aspirador lo tiene todo y su precio es ridículo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-lanza-procesadores-core-ultra-200v-listos-era-pc-ia-1403151'>Intel lanza sus procesadores Core Ultra 200V, listos para la era de los PC con IA </a></h4>
-    <a href='https://computerhoy.com/pc/intel-lanza-procesadores-core-ultra-200v-listos-era-pc-ia-1403151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/intel-core-ultra-200v-4091727.jpg?tf=1200x' alt='Intel lanza sus procesadores Core Ultra 200V, listos para la era de los PC con IA ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/amd-ryzen-7-7800x3d-falsas-como-puedes-detectarlas-1403179'>CPU AMD Ryzen 7 7800X3D falsas están afectando a muchos usuarios: así es como puedes detectarlas</a></h4>
-    <a href='https://computerhoy.com/pc/amd-ryzen-7-7800x3d-falsas-como-puedes-detectarlas-1403179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cpu-amd-ryzen-7-7800x3d-4092055.jpg?tf=1200x' alt='CPU AMD Ryzen 7 7800X3D falsas están afectando a muchos usuarios: así es como puedes detectarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/gran-descubrimiento-tiempo-no-tan-lineal-como-pensaba-equipo-fisicos-podria-ser-reversible-1403144'>Gran descubrimiento sobre el tiempo: no es tan lineal como se pensaba, según un equipo de físicos podría ser reversible </a></h4>
-    <a href='https://computerhoy.com/ciencia/gran-descubrimiento-tiempo-no-tan-lineal-como-pensaba-equipo-fisicos-podria-ser-reversible-1403144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tiempo-4091573.jpg?tf=1200x' alt='Gran descubrimiento sobre el tiempo: no es tan lineal como se pensaba, según un equipo de físicos podría ser reversible ' />
     </a>
 </div>
 
