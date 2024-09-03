@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/septiembre-menos-duro-portatil-rapido-amazon-liquidando-lenovo-i7-16gb-ram-precio-historico-1402848'>Septiembre es menos duro con un portátil rápido: Amazon está liquidando un Lenovo con i7 y 16GB de RAM a precio histórico</a></h4>
+    <a href='https://computerhoy.com/tecnologia/septiembre-menos-duro-portatil-rapido-amazon-liquidando-lenovo-i7-16gb-ram-precio-historico-1402848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lenovo-ideapad-slim-3-gen-8-4083061.jpg?tf=1200x' alt='Septiembre es menos duro con un portátil rápido: Amazon está liquidando un Lenovo con i7 y 16GB de RAM a precio histórico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/libros-antiguos-podrian-envenenarte-materiales-toxicos-estudio-1403022'>Los libros antiguos podrían envenenarte con materiales tóxicos, según un estudio</a></h4>
+    <a href='https://computerhoy.com/life/libros-antiguos-podrian-envenenarte-materiales-toxicos-estudio-1403022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/libros-antiguos-podrian-envenenarte-materiales-toxicos-estudio-4086339.jpg?tf=1200x' alt='Los libros antiguos podrían envenenarte con materiales tóxicos, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-telefonica-ia-afecta-vodafone-ya-tiene-primeras-victimas-1403090'>Esta estafa telefónica con IA que afecta a Vodafone ya tiene sus primeras víctimas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafa-telefonica-ia-afecta-vodafone-ya-tiene-primeras-victimas-1403090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estafa-telefonica-ia-4090705.jpg?tf=1200x' alt='Esta estafa telefónica con IA que afecta a Vodafone ya tiene sus primeras víctimas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/presidenta-signal-no-confia-nada-ia-definitivamente-burbuja-morira-1402917'>La presidenta de Signal no confía para nada en la IA: “definitivamente, es una burbuja que morirá”</a></h4>
     <a href='https://computerhoy.com/tecnologia/presidenta-signal-no-confia-nada-ia-definitivamente-burbuja-morira-1402917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/meredith-whittaker-ha-dejado-google.jpg?tf=1200x' alt='La presidenta de Signal no confía para nada en la IA: “definitivamente, es una burbuja que morirá”' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-watch-todo-debes-conocer-reloj-inteligente-apple-1402566'>Apple Watch, todo lo que debes conocer del reloj inteligente de Apple</a></h4>
     <a href='https://computerhoy.com/apple/apple-watch-todo-debes-conocer-reloj-inteligente-apple-1402566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-ultra-apple-watch-series-4-3138832.jpg?tf=1200x' alt='Apple Watch, todo lo que debes conocer del reloj inteligente de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/aliexpress-movil-oneplus-16-gb-ram-rebajado-precio-1330058'>AliExpress trae a España un OnePlus con 16GB de RAM por la puerta de atrás: ya lo vende y rebajado de precio</a></h4>
-    <a href='https://computerhoy.com/android/aliexpress-movil-oneplus-16-gb-ram-rebajado-precio-1330058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-ace-3-pro-4005258.jpg?tf=1200x' alt='AliExpress trae a España un OnePlus con 16GB de RAM por la puerta de atrás: ya lo vende y rebajado de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-precio-gasolina-app-waze-1402948'>Cómo ver el precio de la gasolina desde la app de Waze</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-precio-gasolina-app-waze-1402948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mapa-gasolina-waze-4084943.jpg?tf=1200x' alt='Cómo ver el precio de la gasolina desde la app de Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-5004-amazon-prime-video-1400270'>Cómo solucionar el error 5004 de Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-5004-amazon-prime-video-1400270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/error-5004-amazon-prime-video-3950842.jpg?tf=1200x' alt='Cómo solucionar el error 5004 de Amazon Prime Video' />
     </a>
 </div>
 
