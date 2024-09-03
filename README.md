@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/presidenta-signal-no-confia-nada-ia-definitivamente-burbuja-morira-1402917'>La presidenta de Signal no confía para nada en la IA: “definitivamente, es una burbuja que morirá”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/presidenta-signal-no-confia-nada-ia-definitivamente-burbuja-morira-1402917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/meredith-whittaker-ha-dejado-google.jpg?tf=1200x' alt='La presidenta de Signal no confía para nada en la IA: “definitivamente, es una burbuja que morirá”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-watch-todo-debes-conocer-reloj-inteligente-apple-1402566'>Apple Watch, todo lo que debes conocer del reloj inteligente de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-todo-debes-conocer-reloj-inteligente-apple-1402566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/apple-watch-ultra-apple-watch-series-4-3138832.jpg?tf=1200x' alt='Apple Watch, todo lo que debes conocer del reloj inteligente de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/aliexpress-movil-oneplus-16-gb-ram-rebajado-precio-1330058'>AliExpress trae a España un OnePlus con 16GB de RAM por la puerta de atrás: ya lo vende y rebajado de precio</a></h4>
+    <a href='https://computerhoy.com/android/aliexpress-movil-oneplus-16-gb-ram-rebajado-precio-1330058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-ace-3-pro-4005258.jpg?tf=1200x' alt='AliExpress trae a España un OnePlus con 16GB de RAM por la puerta de atrás: ya lo vende y rebajado de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-ver-precio-gasolina-app-waze-1402948'>Cómo ver el precio de la gasolina desde la app de Waze</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ver-precio-gasolina-app-waze-1402948' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mapa-gasolina-waze-4084943.jpg?tf=1200x' alt='Cómo ver el precio de la gasolina desde la app de Waze' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-5004-amazon-prime-video-1400270'>Cómo solucionar el error 5004 de Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-solucionar-error-5004-amazon-prime-video-1400270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/error-5004-amazon-prime-video-3950842.jpg?tf=1200x' alt='Cómo solucionar el error 5004 de Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/espejos-espacio-iluminar-paneles-solares-noche-1403072'>Esta startup va a colocar espejos en el espacio, para iluminar paneles solares por la noche</a></h4>
-    <a href='https://computerhoy.com/energia/espejos-espacio-iluminar-paneles-solares-noche-1403072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/startup-va-colocar-espejos-espacio-enviar-luz-sol-paneles-solares-noche-4089070.jpg?tf=1200x' alt='Esta startup va a colocar espejos en el espacio, para iluminar paneles solares por la noche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/motorola-razr-50-analisis-opiniones-1402923'>El Motorola Razr 50 hará que te gusten los móviles plegables y compactos sin necesidad de renunciar a una pantalla grande</a></h4>
-    <a href='https://computerhoy.com/analisis/motorola-razr-50-analisis-opiniones-1402923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/motorola-razr-50-analisis-opiniones-4085879.jpg?tf=1200x' alt='El Motorola Razr 50 hará que te gusten los móviles plegables y compactos sin necesidad de renunciar a una pantalla grande' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-todo-debes-saber-marca-surcoreana-moviles-televisores-1396178'>Samsung: todo lo que debes saber sobre la marca surcoreana, sus móviles y televisores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-todo-debes-saber-marca-surcoreana-moviles-televisores-1396178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-3761288.jpg?tf=1200x' alt='Samsung: todo lo que debes saber sobre la marca surcoreana, sus móviles y televisores' />
     </a>
 </div>
 
