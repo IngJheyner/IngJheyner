@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/como-descargar-instalar-ahora-mismo-nueva-actualizacion-windows-11-24h2-1403238'>Cómo descargar e instalar ahora mismo la nueva actualización de Windows 11 24H2</a></h4>
+    <a href='https://computerhoy.com/windows/como-descargar-instalar-ahora-mismo-nueva-actualizacion-windows-11-24h2-1403238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-descargar-instalar-ahora-mismo-nueva-actualizacion-windows-11-24h2-4093727.jpg?tf=1200x' alt='Cómo descargar e instalar ahora mismo la nueva actualización de Windows 11 24H2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/aspira-friega-limpia-solo-robot-aspirador-tiene-todo-precio-ridiculo-1400417'>Aspira, friega y se limpia solo: este robot aspirador lo tiene todo y su precio es ridículo</a></h4>
+    <a href='https://computerhoy.com/hogar/aspira-friega-limpia-solo-robot-aspirador-tiene-todo-precio-ridiculo-1400417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cecotec-conga-2499-ultra-home-advanced-3958896.jpg?tf=1200x' alt='Aspira, friega y se limpia solo: este robot aspirador lo tiene todo y su precio es ridículo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/intel-lanza-procesadores-core-ultra-200v-listos-era-pc-ia-1403151'>Intel lanza sus procesadores Core Ultra 200V, listos para la era de los PC con IA </a></h4>
     <a href='https://computerhoy.com/pc/intel-lanza-procesadores-core-ultra-200v-listos-era-pc-ia-1403151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/intel-core-ultra-200v-4091727.jpg?tf=1200x' alt='Intel lanza sus procesadores Core Ultra 200V, listos para la era de los PC con IA ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/gran-descubrimiento-tiempo-no-tan-lineal-como-pensaba-equipo-fisicos-podria-ser-reversible-1403144'>Gran descubrimiento sobre el tiempo: no es tan lineal como se pensaba, según un equipo de físicos podría ser reversible </a></h4>
     <a href='https://computerhoy.com/ciencia/gran-descubrimiento-tiempo-no-tan-lineal-como-pensaba-equipo-fisicos-podria-ser-reversible-1403144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tiempo-4091573.jpg?tf=1200x' alt='Gran descubrimiento sobre el tiempo: no es tan lineal como se pensaba, según un equipo de físicos podría ser reversible ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/experto-grave-error-comentes-llaves-comprometiendo-seguridad-casa-1355716'>Un experto en seguridad desaconseja esta acción con las llaves de casa por la noche: "No proporciona más seguridad"</a></h4>
-    <a href='https://computerhoy.com/hogar/experto-grave-error-comentes-llaves-comprometiendo-seguridad-casa-1355716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dejar-llave-cerradura-no-extra-seguridad-robo-3259159.jpg?tf=1200x' alt='Un experto en seguridad desaconseja esta acción con las llaves de casa por la noche: "No proporciona más seguridad"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/5-inventos-mejorar-bicicleta-electrica-1403180'>5 inventos para mejorar tu bicicleta eléctrica</a></h4>
-    <a href='https://computerhoy.com/life/5-inventos-mejorar-bicicleta-electrica-1403180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/5-inventos-mejorar-bicicleta-electrica-4092057.jpg?tf=1200x' alt='5 inventos para mejorar tu bicicleta eléctrica' />
     </a>
 </div>
 
