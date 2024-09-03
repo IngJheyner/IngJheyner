@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/firefox-130-ya-disponible-todas-novedades-ha-traido-actualizacion-mozilla-1403139'>Firefox 130 ya está disponible: todas las novedades que ha traído esta actualización de Mozilla</a></h4>
+    <a href='https://computerhoy.com/pc/firefox-130-ya-disponible-todas-novedades-ha-traido-actualizacion-mozilla-1403139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/firefox-130-ya-disponible-todas-novedades-ha-traido-actualizacion-mozilla-4091403.jpg?tf=1200x' alt='Firefox 130 ya está disponible: todas las novedades que ha traído esta actualización de Mozilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aparato-android-lleva-kodi-tv-4k-rapidisimo-cuesta-menos-20eu-aliexpress-1403109'>Este aparato Android lleva Kodi a tu TV en 4K y rapidísimo: cuesta menos de 20€ en AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/aparato-android-lleva-kodi-tv-4k-rapidisimo-cuesta-menos-20eu-aliexpress-1403109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/x88-pro-4090547.jpg?tf=1200x' alt='Este aparato Android lleva Kodi a tu TV en 4K y rapidísimo: cuesta menos de 20€ en AliExpress' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/encendidas-bombillas-led-incluso-interruptor-apagado-solucion-1401214'>Así se soluciona el problema de las bombillas LED que se quedan encendidas incluso con el interruptor apagado</a></h4>
     <a href='https://computerhoy.com/energia/encendidas-bombillas-led-incluso-interruptor-apagado-solucion-1401214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/quedan-encendidas-bombillas-led-incluso-interruptor-apagado-como-solucionarlo-4000493.jpg?tf=1200x' alt='Así se soluciona el problema de las bombillas LED que se quedan encendidas incluso con el interruptor apagado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/esperar-ifa-2024-samsung-honor-xiaomi-lg-tienen-preparado-1403100'>Qué esperar de IFA 2024: esto es lo que Samsung, Honor, Xiaomi y LG tienen preparado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/esperar-ifa-2024-samsung-honor-xiaomi-lg-tienen-preparado-1403100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ifa-2024-4090895.jpg?tf=1200x' alt='Qué esperar de IFA 2024: esto es lo que Samsung, Honor, Xiaomi y LG tienen preparado' />
     </a>
 </div>
 
