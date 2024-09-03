@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tiktok-apps-citas-son-chicos-afrutados-arrasan-internet-1399283'>De TikTok a las apps de citas: ¿qué son los “chicos afrutados” que arrasan en Internet?</a></h4>
+    <a href='https://computerhoy.com/life/tiktok-apps-citas-son-chicos-afrutados-arrasan-internet-1399283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tiktok-apps-citas-son-chicos-afrutados-arrasan-internet-3897584.jpg?tf=1200x' alt='De TikTok a las apps de citas: ¿qué son los “chicos afrutados” que arrasan en Internet?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/windows-11-consigue-ganar-fin-windows-10-numero-usuarios-gaming-1403160'>Windows 11 consigue ganar por fin a Windows 10 en número de usuarios en gaming</a></h4>
+    <a href='https://computerhoy.com/gaming/windows-11-consigue-ganar-fin-windows-10-numero-usuarios-gaming-1403160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-consigue-ganar-fin-windows-10-numero-usuarios-gaming-4091729.jpg?tf=1200x' alt='Windows 11 consigue ganar por fin a Windows 10 en número de usuarios en gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/10-productos-muy-baratos-haran-ahorrar-cientos-euros-factura-luz-1401971'>10 productos muy baratos que harán ahorrar cientos de euros en tu factura de la luz</a></h4>
     <a href='https://computerhoy.com/tecnologia/10-productos-muy-baratos-haran-ahorrar-cientos-euros-factura-luz-1401971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ahorrar-factura-luz-4040651.jpg?tf=1200x' alt='10 productos muy baratos que harán ahorrar cientos de euros en tu factura de la luz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/clon-airtag-cuesta-menos-mitad-practicamente-igual-1403042'>Este clon del AirTag cuesta menos de la mitad y es prácticamente igual</a></h4>
     <a href='https://computerhoy.com/apple/clon-airtag-cuesta-menos-mitad-practicamente-igual-1403042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ugreen-tag-3295691.jpg?tf=1200x' alt='Este clon del AirTag cuesta menos de la mitad y es prácticamente igual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/beoplay-h100-auriculares-lujo-gran-calidad-sonido-bolsillos-pocos-1403166'>Beoplay H100: unos auriculares de lujo con gran calidad de sonido pero no para todos los bolsillos</a></h4>
-    <a href='https://computerhoy.com/beoplay-h100-auriculares-lujo-gran-calidad-sonido-bolsillos-pocos-1403166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/beoplay-h100-4091876.jpg?tf=1200x' alt='Beoplay H100: unos auriculares de lujo con gran calidad de sonido pero no para todos los bolsillos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/descubren-como-viento-solar-calienta-acelera-gracias-ondas-misteriosas-captadas-dos-sondas-espaciales-nasa-esa-1403126'>Descubren cómo el viento solar se calienta y acelera gracias a ondas misteriosas captadas por dos sondas espaciales de la NASA y la ESA</a></h4>
-    <a href='https://computerhoy.com/espacio/descubren-como-viento-solar-calienta-acelera-gracias-ondas-misteriosas-captadas-dos-sondas-espaciales-nasa-esa-1403126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tormenta-solar-4091390.jpg?tf=1200x' alt='Descubren cómo el viento solar se calienta y acelera gracias a ondas misteriosas captadas por dos sondas espaciales de la NASA y la ESA' />
     </a>
 </div>
 
