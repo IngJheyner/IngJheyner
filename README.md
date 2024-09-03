@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/todas-novedades-van-llegar-ordenador-windows-11-actualizacion-24h2-ya-muy-cerca-1403270'>Todas las novedades que van a llegar a tu ordenador con Windows 11: la actualización 24H2 ya está muy cerca</a></h4>
+    <a href='https://computerhoy.com/windows/todas-novedades-van-llegar-ordenador-windows-11-actualizacion-24h2-ya-muy-cerca-1403270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-4094325.jpg?tf=1200x' alt='Todas las novedades que van a llegar a tu ordenador con Windows 11: la actualización 24H2 ya está muy cerca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/estos-dispositivos-apple-probable-dejen-vender-proximas-semanas-1403269'>Estos dispositivos de Apple es probable que se dejen de vender en las próximas semanas</a></h4>
     <a href='https://computerhoy.com/apple/estos-dispositivos-apple-probable-dejen-vender-proximas-semanas-1403269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dispositivos-apple-4094324.jpg?tf=1200x' alt='Estos dispositivos de Apple es probable que se dejen de vender en las próximas semanas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/stephen-king-usa-redes-evitar-cancelacion-serie-aterradora-1403093'>Stephen King usa sus redes para evitar la cancelación de esta serie: “es aterradora”</a></h4>
     <a href='https://computerhoy.com/entretenimiento/stephen-king-usa-redes-evitar-cancelacion-serie-aterradora-1403093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/stephen-king-3266006.jpg?tf=1200x' alt='Stephen King usa sus redes para evitar la cancelación de esta serie: “es aterradora”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/operadores-tienen-5g-espana-1403169'>Qué operadores tienen 5G en España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/operadores-tienen-5g-espana-1403169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/5g-4092204.jpg?tf=1200x' alt='Qué operadores tienen 5G en España' />
     </a>
 </div>
 
