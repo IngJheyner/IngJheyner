@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/firefox-130-ya-disponible-todas-novedades-ha-traido-actualizacion-mozilla-1403139'>Firefox 130 ya está disponible: todas las novedades que ha traído esta actualización de Mozilla</a></h4>
-    <a href='https://computerhoy.com/pc/firefox-130-ya-disponible-todas-novedades-ha-traido-actualizacion-mozilla-1403139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/firefox-130-ya-disponible-todas-novedades-ha-traido-actualizacion-mozilla-4091403.jpg?tf=1200x' alt='Firefox 130 ya está disponible: todas las novedades que ha traído esta actualización de Mozilla' />
+    <h4><a href='https://computerhoy.com/apple/clon-airtag-cuesta-menos-mitad-practicamente-igual-1403042'>Este clon del AirTag cuesta menos de la mitad y es prácticamente igual</a></h4>
+    <a href='https://computerhoy.com/apple/clon-airtag-cuesta-menos-mitad-practicamente-igual-1403042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ugreen-tag-3295691.jpg?tf=1200x' alt='Este clon del AirTag cuesta menos de la mitad y es prácticamente igual' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aparato-android-lleva-kodi-tv-4k-rapidisimo-cuesta-menos-20eu-aliexpress-1403109'>Este aparato Android lleva Kodi a tu TV en 4K y rapidísimo: cuesta menos de 20€ en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aparato-android-lleva-kodi-tv-4k-rapidisimo-cuesta-menos-20eu-aliexpress-1403109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/x88-pro-4090547.jpg?tf=1200x' alt='Este aparato Android lleva Kodi a tu TV en 4K y rapidísimo: cuesta menos de 20€ en AliExpress' />
+    <h4><a href='https://computerhoy.com/beoplay-h100-auriculares-lujo-gran-calidad-sonido-bolsillos-pocos-1403166'>Beoplay H100: unos auriculares de lujo con gran calidad de sonido pero no para todos los bolsillos</a></h4>
+    <a href='https://computerhoy.com/beoplay-h100-auriculares-lujo-gran-calidad-sonido-bolsillos-pocos-1403166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/beoplay-h100-4091876.jpg?tf=1200x' alt='Beoplay H100: unos auriculares de lujo con gran calidad de sonido pero no para todos los bolsillos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s24-fe-filtran-todas-especificaciones-1403116'>Samsung Galaxy S24 FE: se filtran todas sus especificaciones</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-galaxy-s24-fe-filtran-todas-especificaciones-1403116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-s24-fe-4091046.jpg?tf=1200x' alt='Samsung Galaxy S24 FE: se filtran todas sus especificaciones' />
+    <h4><a href='https://computerhoy.com/espacio/descubren-como-viento-solar-calienta-acelera-gracias-ondas-misteriosas-captadas-dos-sondas-espaciales-nasa-esa-1403126'>Descubren cómo el viento solar se calienta y acelera gracias a ondas misteriosas captadas por dos sondas espaciales de la NASA y la ESA</a></h4>
+    <a href='https://computerhoy.com/espacio/descubren-como-viento-solar-calienta-acelera-gracias-ondas-misteriosas-captadas-dos-sondas-espaciales-nasa-esa-1403126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tormenta-solar-4091390.jpg?tf=1200x' alt='Descubren cómo el viento solar se calienta y acelera gracias a ondas misteriosas captadas por dos sondas espaciales de la NASA y la ESA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/famosas-extensiones-peligrosas-google-chrome-borrar-1395724'>Si usas alguna de estas famosas extensiones de Google Chrome, bórralas porque registran todos tus movimientos online</a></h4>
-    <a href='https://computerhoy.com/internet/famosas-extensiones-peligrosas-google-chrome-borrar-1395724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Si usas alguna de estas famosas extensiones de Google Chrome, bórralas porque registran todos tus movimientos online' />
+    <h4><a href='https://computerhoy.com/europa-ya-cuenta-version-chip-cerebral-neuralink-plantar-cara-elon-musk-1403123'>Europa ya cuenta con su versión del chip cerebral de Neuralink para plantar cara a Elon Musk</a></h4>
+    <a href='https://computerhoy.com/europa-ya-cuenta-version-chip-cerebral-neuralink-plantar-cara-elon-musk-1403123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chip-cerebral-4091200.jpg?tf=1200x' alt='Europa ya cuenta con su versión del chip cerebral de Neuralink para plantar cara a Elon Musk' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/encendidas-bombillas-led-incluso-interruptor-apagado-solucion-1401214'>Así se soluciona el problema de las bombillas LED que se quedan encendidas incluso con el interruptor apagado</a></h4>
-    <a href='https://computerhoy.com/energia/encendidas-bombillas-led-incluso-interruptor-apagado-solucion-1401214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/quedan-encendidas-bombillas-led-incluso-interruptor-apagado-como-solucionarlo-4000493.jpg?tf=1200x' alt='Así se soluciona el problema de las bombillas LED que se quedan encendidas incluso con el interruptor apagado' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-cara-contactos-notificaciones-whatsapp-1394380'>Cómo hacer que la cara de tus contactos salga en tus notificaciones de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-cara-contactos-notificaciones-whatsapp-1394380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/como-hacer-cara-contactos-aparezca-notificaciones-whatsapp-3666308.jpg?tf=1200x' alt='Cómo hacer que la cara de tus contactos salga en tus notificaciones de WhatsApp' />
     </a>
 </div>
 
