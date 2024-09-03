@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/como-hacer-prime-video-muestre-solamente-contenido-suscripcion-1403065'>Cómo hacer que Prime Video muestre solamente el contenido que está en tu suscripción</a></h4>
+    <a href='https://computerhoy.com/amazon/como-hacer-prime-video-muestre-solamente-contenido-suscripcion-1403065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-hacer-prime-video-muestre-solamente-contenido-suscripcion-4088781.jpg?tf=1200x' alt='Cómo hacer que Prime Video muestre solamente el contenido que está en tu suscripción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-transformar-fire-tv-stick-consola-videojuegos-ultima-generacion-portatil-1403053'>Cómo transformar un Fire TV Stick en una consola de videojuegos de última generación portátil</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-transformar-fire-tv-stick-consola-videojuegos-ultima-generacion-portatil-1403053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-transformar-fire-tv-stick-consola-videojuegos-ultima-generacion-portatil-4088347.jpg?tf=1200x' alt='Cómo transformar un Fire TV Stick en una consola de videojuegos de última generación portátil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/significan-numeros-tarjeta-credito-debito-1403059'>Esto es lo que significan los números de tu tarjeta de crédito o de débito</a></h4>
     <a href='https://computerhoy.com/life/significan-numeros-tarjeta-credito-debito-1403059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tarjetas-credito-4087469.jpg?tf=1200x' alt='Esto es lo que significan los números de tu tarjeta de crédito o de débito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-integrara-ia-gemini-enterrar-google-assistant-1403057'>Android Auto integrará la IA de Gemini para enterrar a Google Assistant</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-integrara-ia-gemini-enterrar-google-assistant-1403057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-gemini-android-auto-4087467.jpg?tf=1200x' alt='Android Auto integrará la IA de Gemini para enterrar a Google Assistant' />
     </a>
 </div>
 
