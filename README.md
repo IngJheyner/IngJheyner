@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/asistentes-voz-compatible-roku-1403376'>¿Con qué asistentes de voz es compatible Roku?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/asistentes-voz-compatible-roku-1403376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/roku-4099269.jpg?tf=1200x' alt='¿Con qué asistentes de voz es compatible Roku?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-bitelchus-ni-beetlejuice-iba-llamarse-origen-clasico-tim-burton-1402975'>Ni Bitelchús ni Beetlejuice: así iba a llamarse en origen el clásico de Tim Burton</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-bitelchus-ni-beetlejuice-iba-llamarse-origen-clasico-tim-burton-1402975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ni-bitelchus-ni-beetlejuice-iba-llamarse-origen-clasico-tim-burton-4085244.jpg?tf=1200x' alt='Ni Bitelchús ni Beetlejuice: así iba a llamarse en origen el clásico de Tim Burton' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-tiene-modo-antirrobo-hackeo-pocos-usuarios-conocen-llegara-tambien-iphone-16-1403390'>Apple tiene un modo antirrobo y hackeo que pocos usuarios conocen y que llegará también al iPhone 16</a></h4>
-    <a href='https://computerhoy.com/apple/apple-tiene-modo-antirrobo-hackeo-pocos-usuarios-conocen-llegara-tambien-iphone-16-1403390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-tiene-modo-antirrobo-hackeo-pocos-usuarios-conocen-llegara-tambien-iphone-16-4099750.jpg?tf=1200x' alt='Apple tiene un modo antirrobo y hackeo que pocos usuarios conocen y que llegará también al iPhone 16' />
+    <h4><a href='https://computerhoy.com/apps/cifrado-extremo-extremo-whatsapp-como-funciona-como-puedes-activarlo-movil-1403449'>Cifrado de extremo a extremo de WhatsApp: qué es, cómo funciona y cómo puedes activarlo en tu móvil</a></h4>
+    <a href='https://computerhoy.com/apps/cifrado-extremo-extremo-whatsapp-como-funciona-como-puedes-activarlo-movil-1403449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cifrado-extremo-extremo-whatsapp-como-funciona-como-puedes-activarlo-movil-4101033.jpg?tf=1200x' alt='Cifrado de extremo a extremo de WhatsApp: qué es, cómo funciona y cómo puedes activarlo en tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ps5-pro-tarjeta-grafica-pc-equivale-cual-rendimiento-1403283'>PS5 Pro: ¿A qué tarjeta gráfica de PC equivale y cuál es su rendimiento?</a></h4>
-    <a href='https://computerhoy.com/pc/ps5-pro-tarjeta-grafica-pc-equivale-cual-rendimiento-1403283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ps5-pro-tarjeta-grafica-pc-equivale-cual-rendimiento-4096492.jpg?tf=1200x' alt='PS5 Pro: ¿A qué tarjeta gráfica de PC equivale y cuál es su rendimiento?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-publicar-estados-whatsapp-otras-apps-pocos-pasos-1403067'>Cómo publicar tus estados de WhatsApp en otras apps en pocos pasos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-publicar-estados-whatsapp-otras-apps-pocos-pasos-1403067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-publicar-estados-whatsapp-otras-apps-pocos-pasos-4089505.jpg?tf=1200x' alt='Cómo publicar tus estados de WhatsApp en otras apps en pocos pasos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-terminara-mitico-trabajo-has-visto-mil-peliculas-series-television-1403419'>Así es el robot que terminará con el mítico trabajo que has visto en mil películas y series de televisión</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-terminara-mitico-trabajo-has-visto-mil-peliculas-series-television-1403419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/robot-terminara-mitico-trabajo-has-visto-mil-peliculas-series-television-4099742.jpg?tf=1200x' alt='Así es el robot que terminará con el mítico trabajo que has visto en mil películas y series de televisión' />
+    <h4><a href='https://computerhoy.com/tecnologia/golpe-ia-80-proyectos-utilizan-fracasan-estudio-1403183'>Golpe a la IA: el 80% de los proyectos que la utilizan fracasan, según un estudio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/golpe-ia-80-proyectos-utilizan-fracasan-estudio-1403183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/golpe-ia-80-proyectos-utilizan-fracasan-estudio-4092203.jpg?tf=1200x' alt='Golpe a la IA: el 80% de los proyectos que la utilizan fracasan, según un estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-apuesta-ia-anthropic-proxima-generacion-alexa-1403383'>Amazon apuesta por la IA de Anthropic para la próxima generación de Alexa</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-apuesta-ia-anthropic-proxima-generacion-alexa-1403383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/amazon-apuesta-ia-anthropic-proxima-generacion-alexa-4098975.jpg?tf=1200x' alt='Amazon apuesta por la IA de Anthropic para la próxima generación de Alexa' />
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-quita-encima-stock-reloj-fitbit-alexa-cuesta-mitad-piensas-1402560'>AliExpress se quita de encima stock de un reloj Fitbit con Alexa que cuesta la mitad de lo que piensas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-quita-encima-stock-reloj-fitbit-alexa-cuesta-mitad-piensas-1402560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/fitbit-versa-2_2.jpg?tf=1200x' alt='AliExpress se quita de encima stock de un reloj Fitbit con Alexa que cuesta la mitad de lo que piensas' />
     </a>
 </div>
 
