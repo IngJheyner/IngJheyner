@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-impresionantes-mujeres-robot-son-robots-verdad-engano-1403298'>Estas impresionantes mujeres robot, ¿son robots de verdad, o un engaño?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-impresionantes-mujeres-robot-son-robots-verdad-engano-1403298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estas-impresionantes-mujeres-robot-son-robots-verdad-engano-4097363.jpg?tf=1200x' alt='Estas impresionantes mujeres robot, ¿son robots de verdad, o un engaño?' />
+    <h4><a href='https://computerhoy.com/tecnologia/abran-paso-portatil-chino-cuesta-menos-movil-tiene-windows-11-chasis-aluminio-estilo-macbook-1402851'>Abran paso: este portátil chino cuesta menos que un móvil, tiene Windows 11 y chasis de aluminio al estilo MacBook</a></h4>
+    <a href='https://computerhoy.com/tecnologia/abran-paso-portatil-chino-cuesta-menos-movil-tiene-windows-11-chasis-aluminio-estilo-macbook-1402851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teclast-f16-plus-3260853.jpg?tf=1200x' alt='Abran paso: este portátil chino cuesta menos que un móvil, tiene Windows 11 y chasis de aluminio al estilo MacBook' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-como-funciona-herramientas-importantes-comparativa-telegram-1402111'>Qué es WhatsApp: cómo funciona, herramientas más importantes y comparativa con Telegram</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-como-funciona-herramientas-importantes-comparativa-telegram-1402111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cansado-verde-whatsapp-probando-nuevos-colores-burbujas-chat-3374166.jpg?tf=1200x' alt='Qué es WhatsApp: cómo funciona, herramientas más importantes y comparativa con Telegram' />
+    <h4><a href='https://computerhoy.com/tutoriales/tener-dos-moviles-solo-como-crear-segundo-espacio-movil-1403217'>Tener dos móviles en uno solo: cómo crear un segundo espacio en tu móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tener-dos-moviles-solo-como-crear-segundo-espacio-movil-1403217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/segundo-espacio-moviles-4092829.jpg?tf=1200x' alt='Tener dos móviles en uno solo: cómo crear un segundo espacio en tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2024</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191822.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2024' />
+    <h4><a href='https://computerhoy.com/tecnologia/amd-anuncia-copilot-portatiles-ryzen-ai-300-noviembre-1403312'>AMD anuncia Copilot+ para sus portátiles con Ryzen AI 300 en noviembre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amd-anuncia-copilot-portatiles-ryzen-ai-300-noviembre-1403312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/amd-ryzen-ai-300-4097812.jpg?tf=1200x' alt='AMD anuncia Copilot+ para sus portátiles con Ryzen AI 300 en noviembre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/funciones-amazon-prime-casi-nadie-usa-me-han-salvado-horas-aburrimiento-1403066'>Las funciones de Amazon Prime que casi nadie usa y me han salvado horas de aburrimiento</a></h4>
-    <a href='https://computerhoy.com/amazon/funciones-amazon-prime-casi-nadie-usa-me-han-salvado-horas-aburrimiento-1403066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/funciones-amazon-prime-casi-nadie-usa-me-han-salvado-horas-aburrimiento-4089359.jpg?tf=1200x' alt='Las funciones de Amazon Prime que casi nadie usa y me han salvado horas de aburrimiento' />
+    <h4><a href='https://computerhoy.com/energia/joven-espanola-inventa-solucion-placas-solares-generen-energia-limpien-solas-1403159'>Una joven española inventa una solución para que las placas solares generen más energía y se limpien solas</a></h4>
+    <a href='https://computerhoy.com/energia/joven-espanola-inventa-solucion-placas-solares-generen-energia-limpien-solas-1403159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/investigadora-cristina-l-pinto-4091874.jpg?tf=1200x' alt='Una joven española inventa una solución para que las placas solares generen más energía y se limpien solas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estudiante-construye-reactor-fusion-casa-usando-ia-claude-1403290'>Un estudiante construye un reactor de fusión en su casa usando la IA Claude</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estudiante-construye-reactor-fusion-casa-usando-ia-claude-1403290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estudiante-construye-reactor-fusion-casa-usando-ia-claude-4096348.jpg?tf=1200x' alt='Un estudiante construye un reactor de fusión en su casa usando la IA Claude' />
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-no-nueva-10-cosas-ya-utilizaban-ia-anos-1402174'>La inteligencia artificial no es nueva: 10 cosas que ya utilizaban la IA desde años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-no-nueva-10-cosas-ya-utilizaban-ia-anos-1402174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ia-4048772.jpg?tf=1200x' alt='La inteligencia artificial no es nueva: 10 cosas que ya utilizaban la IA desde años' />
     </a>
 </div>
 
