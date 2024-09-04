@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-bitelchus-ni-beetlejuice-iba-llamarse-origen-clasico-tim-burton-1402975'>Ni Bitelchús ni Beetlejuice: así iba a llamarse en origen el clásico de Tim Burton</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-bitelchus-ni-beetlejuice-iba-llamarse-origen-clasico-tim-burton-1402975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ni-bitelchus-ni-beetlejuice-iba-llamarse-origen-clasico-tim-burton-4085244.jpg?tf=1200x' alt='Ni Bitelchús ni Beetlejuice: así iba a llamarse en origen el clásico de Tim Burton' />
+    <h4><a href='https://computerhoy.com/tecnologia/rodea-buscar-te-permitira-identificar-canciones-estilo-shazam-android-15-1403472'>Rodea para buscar te permitirá identificar canciones al estilo Shazam en Android 15</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rodea-buscar-te-permitira-identificar-canciones-estilo-shazam-android-15-1403472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/rodea-buscar-4101785.jpg?tf=1200x' alt='Rodea para buscar te permitirá identificar canciones al estilo Shazam en Android 15' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/cifrado-extremo-extremo-whatsapp-como-funciona-como-puedes-activarlo-movil-1403449'>Cifrado de extremo a extremo de WhatsApp: qué es, cómo funciona y cómo puedes activarlo en tu móvil</a></h4>
-    <a href='https://computerhoy.com/apps/cifrado-extremo-extremo-whatsapp-como-funciona-como-puedes-activarlo-movil-1403449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cifrado-extremo-extremo-whatsapp-como-funciona-como-puedes-activarlo-movil-4101033.jpg?tf=1200x' alt='Cifrado de extremo a extremo de WhatsApp: qué es, cómo funciona y cómo puedes activarlo en tu móvil' />
+    <h4><a href='https://computerhoy.com/entretenimiento/truco-definitivo-recibir-mejores-ofertas-juegos-ps5-1403464'>El truco definitivo para recibir las mejores ofertas de juegos en tu PS5</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/truco-definitivo-recibir-mejores-ofertas-juegos-ps5-1403464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/truco-definitivo-recibir-mejores-ofertas-juegos-ps5-4101638.jpg?tf=1200x' alt='El truco definitivo para recibir las mejores ofertas de juegos en tu PS5' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-publicar-estados-whatsapp-otras-apps-pocos-pasos-1403067'>Cómo publicar tus estados de WhatsApp en otras apps en pocos pasos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-publicar-estados-whatsapp-otras-apps-pocos-pasos-1403067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-publicar-estados-whatsapp-otras-apps-pocos-pasos-4089505.jpg?tf=1200x' alt='Cómo publicar tus estados de WhatsApp en otras apps en pocos pasos' />
+    <h4><a href='https://computerhoy.com/apps/daylist-spotify-ya-disponible-espanol-nueva-playlist-personalizada-actualiza-evoluciona-solo-ti-1403470'>Daylist de Spotify ya disponible en español: una nueva playlist personalizada que se actualiza y evoluciona sólo para ti</a></h4>
+    <a href='https://computerhoy.com/apps/daylist-spotify-ya-disponible-espanol-nueva-playlist-personalizada-actualiza-evoluciona-solo-ti-1403470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/daylist-spotify-4101637.jpg?tf=1200x' alt='Daylist de Spotify ya disponible en español: una nueva playlist personalizada que se actualiza y evoluciona sólo para ti' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/golpe-ia-80-proyectos-utilizan-fracasan-estudio-1403183'>Golpe a la IA: el 80% de los proyectos que la utilizan fracasan, según un estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/golpe-ia-80-proyectos-utilizan-fracasan-estudio-1403183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/golpe-ia-80-proyectos-utilizan-fracasan-estudio-4092203.jpg?tf=1200x' alt='Golpe a la IA: el 80% de los proyectos que la utilizan fracasan, según un estudio' />
+    <h4><a href='https://computerhoy.com/life/terremotos-podrian-ser-causantes-formen-pepitas-oro-cuarzo-1403469'>Los terremotos podrían ser los causantes de que se formen pepitas de oro en el cuarzo</a></h4>
+    <a href='https://computerhoy.com/life/terremotos-podrian-ser-causantes-formen-pepitas-oro-cuarzo-1403469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pepitas-oro-4101633.jpg?tf=1200x' alt='Los terremotos podrían ser los causantes de que se formen pepitas de oro en el cuarzo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-quita-encima-stock-reloj-fitbit-alexa-cuesta-mitad-piensas-1402560'>AliExpress se quita de encima stock de un reloj Fitbit con Alexa que cuesta la mitad de lo que piensas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-quita-encima-stock-reloj-fitbit-alexa-cuesta-mitad-piensas-1402560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/fitbit-versa-2_2.jpg?tf=1200x' alt='AliExpress se quita de encima stock de un reloj Fitbit con Alexa que cuesta la mitad de lo que piensas' />
+    <h4><a href='https://computerhoy.com/apps/discord-app-mensajeria-moda-nacio-comunidad-gamer-1403002'>Discord, la app de mensajería de moda que nació entre la comunidad gamer</a></h4>
+    <a href='https://computerhoy.com/apps/discord-app-mensajeria-moda-nacio-comunidad-gamer-1403002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/discord-4092209.jpg?tf=1200x' alt='Discord, la app de mensajería de moda que nació entre la comunidad gamer' />
     </a>
 </div>
 
