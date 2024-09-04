@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/acer-ifa-2024-portatiles-copilot-consola-nitro-blaze-7-1403478'>Lo nuevo de Acer en IFA 2024: portátiles con Copilot+, consola Nitro Blaze 7, y mucho más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/acer-ifa-2024-portatiles-copilot-consola-nitro-blaze-7-1403478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nuevo-acer-ifa-2024-portatiles-copilot-consola-nitro-blaze-7-mucho-4101187.jpg?tf=1200x' alt='Lo nuevo de Acer en IFA 2024: portátiles con Copilot+, consola Nitro Blaze 7, y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/wifi-mesh-ventajas-como-instalar-red-tipo-1401339'>WiFi Mesh: qué es, ventajas y cómo instalar una red de este tipo</a></h4>
     <a href='https://computerhoy.com/redes/wifi-mesh-ventajas-como-instalar-red-tipo-1401339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/d-link-covr-wifi-mesh-2136039.jpg?tf=1200x' alt='WiFi Mesh: qué es, ventajas y cómo instalar una red de este tipo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/daylist-spotify-ya-disponible-espanol-nueva-playlist-personalizada-actualiza-evoluciona-solo-ti-1403470'>Daylist de Spotify ya disponible en español: una nueva playlist personalizada que se actualiza y evoluciona sólo para ti</a></h4>
     <a href='https://computerhoy.com/apps/daylist-spotify-ya-disponible-espanol-nueva-playlist-personalizada-actualiza-evoluciona-solo-ti-1403470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/daylist-spotify-4101637.jpg?tf=1200x' alt='Daylist de Spotify ya disponible en español: una nueva playlist personalizada que se actualiza y evoluciona sólo para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/terremotos-podrian-ser-causantes-formen-pepitas-oro-cuarzo-1403469'>Los terremotos podrían ser los causantes de que se formen pepitas de oro en el cuarzo</a></h4>
-    <a href='https://computerhoy.com/life/terremotos-podrian-ser-causantes-formen-pepitas-oro-cuarzo-1403469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pepitas-oro-4101633.jpg?tf=1200x' alt='Los terremotos podrían ser los causantes de que se formen pepitas de oro en el cuarzo' />
     </a>
 </div>
 
