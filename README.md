@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cuanto-tiempo-tarda-llegar-luna-exactamente-1265090'>¿Cuánto tiempo se tarda en llegar a la Luna exactamente?</a></h4>
+    <a href='https://computerhoy.com/espacio/cuanto-tiempo-tarda-llegar-luna-exactamente-1265090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nasa-localiza-impacto-cohete-luna-nadie-tierra-reconoce-2742943.jpg?tf=1200x' alt='¿Cuánto tiempo se tarda en llegar a la Luna exactamente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/aliexpress-agotar-portatil-windows-11-baratisimo-1400647'>AliExpress va a agotar el stock de este portátil baratísimo con Windows 11: cuesta apenas 300 euros</a></h4>
+    <a href='https://computerhoy.com/pc/aliexpress-agotar-portatil-windows-11-baratisimo-1400647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chuwi-freebook-3210318.jpg?tf=1200x' alt='AliExpress va a agotar el stock de este portátil baratísimo con Windows 11: cuesta apenas 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/3-razones-peso-apagar-wifi-pc-mejorar-experiencia-1403281'>3 razones de peso para apagar el WiFi en tu PC y mejorar tu experiencia</a></h4>
     <a href='https://computerhoy.com/redes/3-razones-peso-apagar-wifi-pc-mejorar-experiencia-1403281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/3-razones-peso-apagar-wifi-pc-mejorar-experiencia-4096058.jpg?tf=1200x' alt='3 razones de peso para apagar el WiFi en tu PC y mejorar tu experiencia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-rtve-alian-valle-salvaje-1403280'>Netflix y RTVE se alían para lanzar una propuesta única en el mundo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-rtve-alian-valle-salvaje-1403280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-rtve-alian-lanzar-propuesta-unica-mundo-4095193.jpg?tf=1200x' alt='Netflix y RTVE se alían para lanzar una propuesta única en el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/truco-podras-usar-airpods-como-walkie-talkie-1403262'>Con este truco podrás usar tus AirPods como walkie talkie</a></h4>
-    <a href='https://computerhoy.com/apple/truco-podras-usar-airpods-como-walkie-talkie-1403262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/truco-podras-usar-airpods-como-walkie-talkie-4094757.jpg?tf=1200x' alt='Con este truco podrás usar tus AirPods como walkie talkie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/app-x-tv-televisores-1403276'>Ya está aquí X TV, la app de X para los televisores</a></h4>
-    <a href='https://computerhoy.com/tv/app-x-tv-televisores-1403276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-aqui-x-tv-app-x-televisores-4094181.jpg?tf=1200x' alt='Ya está aquí X TV, la app de X para los televisores' />
     </a>
 </div>
 
