@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/que-es-exploit-como-funciona-metodos-existen-protegerse-1260582'>¿Qué es un exploit, cómo funciona y qué métodos existen para protegerse?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/que-es-exploit-como-funciona-metodos-existen-protegerse-1260582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1688813814347-3078358.jpg?tf=1200x' alt='¿Qué es un exploit, cómo funciona y qué métodos existen para protegerse?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-anuncia-nuevas-voces-chatgpt-posibilidad-ladrar-1403368'>OpenAI anuncia nuevas voces para ChatGPT y hasta la posibilidad de ladrar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-anuncia-nuevas-voces-chatgpt-posibilidad-ladrar-1403368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-funciones-4098126.jpg?tf=1200x' alt='OpenAI anuncia nuevas voces para ChatGPT y hasta la posibilidad de ladrar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-empieza-cobrar-extra-compartir-cuenta-algunos-paises-pronto-llegara-espana-1403341'>Disney+ empieza a cobrar un extra por compartir cuenta en algunos países y pronto llegará a España</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-empieza-cobrar-extra-compartir-cuenta-algunos-paises-pronto-llegara-espana-1403341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/disney-empieza-cobrar-extra-compartir-algunos-paises-pronto-llegara-espana-4098432.jpg?tf=1200x' alt='Disney+ empieza a cobrar un extra por compartir cuenta en algunos países y pronto llegará a España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/zen-browser-coge-mejor-google-chrome-lleva-mozilla-firefox-1403330'>Zen Browser coge lo mejor de Google Chrome y lo lleva a Mozilla Firefox </a></h4>
     <a href='https://computerhoy.com/tecnologia/zen-browser-coge-mejor-google-chrome-lleva-mozilla-firefox-1403330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/zen-browser-coge-mejor-google-chrome-lleva-mozilla-firefox-4098124.jpg?tf=1200x' alt='Zen Browser coge lo mejor de Google Chrome y lo lleva a Mozilla Firefox ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/sextorsion-escala-nuevo-peligroso-nivel-ahora-saben-donde-vives-1403351'>La sextorsión escala a un nuevo y peligroso nivel: ahora "saben" dónde vives</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/sextorsion-escala-nuevo-peligroso-nivel-ahora-saben-donde-vives-1403351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sextorsion-ubicacion-4098121.jpg?tf=1200x' alt='La sextorsión escala a un nuevo y peligroso nivel: ahora "saben" dónde vives' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/instagram-trabaja-comentarios-stories-nuevo-filtro-antispam-1403317'>Instagram trabaja en los comentarios en Stories con un nuevo filtro antispam</a></h4>
-    <a href='https://computerhoy.com/redes/instagram-trabaja-comentarios-stories-nuevo-filtro-antispam-1403317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/instagram-trabaja-comentarios-stories-nuevo-filtro-antispam-4097815.jpg?tf=1200x' alt='Instagram trabaja en los comentarios en Stories con un nuevo filtro antispam' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/chromecast-te-permite-utilizar-ps4-ps5-remoto-funcion-pocos-conocen-1403241'>Chromecast te permite utilizar la PS4 y la PS5 en remoto con una función que pocos conocen</a></h4>
-    <a href='https://computerhoy.com/gaming/chromecast-te-permite-utilizar-ps4-ps5-remoto-funcion-pocos-conocen-1403241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chromecast-te-permite-utilizar-ps4-ps5-remoto-funcion-pocos-conocen-4093292.jpg?tf=1200x' alt='Chromecast te permite utilizar la PS4 y la PS5 en remoto con una función que pocos conocen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-pantalla-waze-limpiar-elementos-innecesarios-1402930'>Cómo configurar la pantalla de Waze para limpiar elementos innecesarios</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-pantalla-waze-limpiar-elementos-innecesarios-1402930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/waze-3839253.jpg?tf=1200x' alt='Cómo configurar la pantalla de Waze para limpiar elementos innecesarios' />
     </a>
 </div>
 
