@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-cookies-ordenador-vez-todas-1403272'>Cómo borrar las cookies en tu ordenador de una vez por todas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-borrar-cookies-ordenador-vez-todas-1403272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cookies-robadas-3297911.jpg?tf=1200x' alt='Cómo borrar las cookies en tu ordenador de una vez por todas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-todas-versiones-sistema-operativo-microsoft-polemicas-eterna-batalla-apple-1402232'>Windows: todas las versiones del sistema operativo de Microsoft, polémicas y la eterna batalla contra Apple</a></h4>
     <a href='https://computerhoy.com/windows/windows-todas-versiones-sistema-operativo-microsoft-polemicas-eterna-batalla-apple-1402232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-historia-4049078.jpg?tf=1200x' alt='Windows: todas las versiones del sistema operativo de Microsoft, polémicas y la eterna batalla contra Apple' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.com/tecnologia/paises-ofrece-digi-servicio-roaming-1403329'>¿En qué países ofrece DIGI servicio de roaming?</a></h4>
     <a href='https://computerhoy.com/tecnologia/paises-ofrece-digi-servicio-roaming-1403329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/digi-4098283.jpg?tf=1200x' alt='¿En qué países ofrece DIGI servicio de roaming?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/qualcomm-lanza-version-barata-snapdragon-x-plus-llevar-copilot-portatiles-1403346'>Qualcomm lanza una versión barata del Snapdragon X Plus para llevar Copilot+ a más portátiles</a></h4>
+    <a href='https://computerhoy.com/pc/qualcomm-lanza-version-barata-snapdragon-x-plus-llevar-copilot-portatiles-1403346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/snapdragon-x-plus-4098479.jpg?tf=1200x' alt='Qualcomm lanza una versión barata del Snapdragon X Plus para llevar Copilot+ a más portátiles' />
     </a>
 </div>
 
