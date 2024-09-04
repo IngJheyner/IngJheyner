@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/6-metodos-efectivos-proteger-cuenta-netflix-1403277'>6 métodos efectivos para proteger tu cuenta de Netflix</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/6-metodos-efectivos-proteger-cuenta-netflix-1403277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/6-metodos-efectivos-proteger-cuenta-netflix-4095624.jpg?tf=1200x' alt='6 métodos efectivos para proteger tu cuenta de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-rtve-alian-valle-salvaje-1403280'>Netflix y RTVE se alían para lanzar una propuesta única en el mundo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-rtve-alian-valle-salvaje-1403280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-rtve-alian-lanzar-propuesta-unica-mundo-4095193.jpg?tf=1200x' alt='Netflix y RTVE se alían para lanzar una propuesta única en el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/truco-podras-usar-airpods-como-walkie-talkie-1403262'>Con este truco podrás usar tus AirPods como walkie talkie</a></h4>
     <a href='https://computerhoy.com/apple/truco-podras-usar-airpods-como-walkie-talkie-1403262' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/truco-podras-usar-airpods-como-walkie-talkie-4094757.jpg?tf=1200x' alt='Con este truco podrás usar tus AirPods como walkie talkie' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/todas-novedades-van-llegar-ordenador-windows-11-actualizacion-24h2-ya-muy-cerca-1403270'>Todas las novedades que van a llegar a tu ordenador con Windows 11: la actualización 24H2 ya está muy cerca</a></h4>
     <a href='https://computerhoy.com/windows/todas-novedades-van-llegar-ordenador-windows-11-actualizacion-24h2-ya-muy-cerca-1403270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-4094325.jpg?tf=1200x' alt='Todas las novedades que van a llegar a tu ordenador con Windows 11: la actualización 24H2 ya está muy cerca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estos-dispositivos-apple-probable-dejen-vender-proximas-semanas-1403269'>Estos dispositivos de Apple es probable que se dejen de vender en las próximas semanas</a></h4>
-    <a href='https://computerhoy.com/apple/estos-dispositivos-apple-probable-dejen-vender-proximas-semanas-1403269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dispositivos-apple-4094324.jpg?tf=1200x' alt='Estos dispositivos de Apple es probable que se dejen de vender en las próximas semanas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tdtchannels-estrena-nueva-aplicacion-android-tv-fire-tv-todas-estas-novedades-1403266'>TDTChannels estrena nueva aplicación para Android TV y Fire TV con todas estas novedades</a></h4>
-    <a href='https://computerhoy.com/apps/tdtchannels-estrena-nueva-aplicacion-android-tv-fire-tv-todas-estas-novedades-1403266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels estrena nueva aplicación para Android TV y Fire TV con todas estas novedades' />
     </a>
 </div>
 
