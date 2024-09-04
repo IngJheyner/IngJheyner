@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/chromecast-te-permite-utilizar-ps4-ps5-remoto-funcion-pocos-conocen-1403241'>Chromecast te permite utilizar la PS4 y la PS5 en remoto con una función que pocos conocen</a></h4>
+    <a href='https://computerhoy.com/gaming/chromecast-te-permite-utilizar-ps4-ps5-remoto-funcion-pocos-conocen-1403241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chromecast-te-permite-utilizar-ps4-ps5-remoto-funcion-pocos-conocen-4093292.jpg?tf=1200x' alt='Chromecast te permite utilizar la PS4 y la PS5 en remoto con una función que pocos conocen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-pantalla-waze-limpiar-elementos-innecesarios-1402930'>Cómo configurar la pantalla de Waze para limpiar elementos innecesarios</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-pantalla-waze-limpiar-elementos-innecesarios-1402930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/waze-3839253.jpg?tf=1200x' alt='Cómo configurar la pantalla de Waze para limpiar elementos innecesarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/podemos-esperar-nuevos-airpods-4-1403314'>Qué podemos esperar de los nuevos AirPods 4</a></h4>
+    <a href='https://computerhoy.com/apple/podemos-esperar-nuevos-airpods-4-1403314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524057.jpg?tf=1200x' alt='Qué podemos esperar de los nuevos AirPods 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/abran-paso-portatil-chino-cuesta-menos-movil-tiene-windows-11-chasis-aluminio-estilo-macbook-1402851'>Abran paso: este portátil chino cuesta menos que un móvil, tiene Windows 11 y chasis de aluminio al estilo MacBook</a></h4>
     <a href='https://computerhoy.com/tecnologia/abran-paso-portatil-chino-cuesta-menos-movil-tiene-windows-11-chasis-aluminio-estilo-macbook-1402851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teclast-f16-plus-3260853.jpg?tf=1200x' alt='Abran paso: este portátil chino cuesta menos que un móvil, tiene Windows 11 y chasis de aluminio al estilo MacBook' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tener-dos-moviles-solo-como-crear-segundo-espacio-movil-1403217'>Tener dos móviles en uno solo: cómo crear un segundo espacio en tu móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/tener-dos-moviles-solo-como-crear-segundo-espacio-movil-1403217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/segundo-espacio-moviles-4092829.jpg?tf=1200x' alt='Tener dos móviles en uno solo: cómo crear un segundo espacio en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amd-anuncia-copilot-portatiles-ryzen-ai-300-noviembre-1403312'>AMD anuncia Copilot+ para sus portátiles con Ryzen AI 300 en noviembre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amd-anuncia-copilot-portatiles-ryzen-ai-300-noviembre-1403312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/amd-ryzen-ai-300-4097812.jpg?tf=1200x' alt='AMD anuncia Copilot+ para sus portátiles con Ryzen AI 300 en noviembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/joven-espanola-inventa-solucion-placas-solares-generen-energia-limpien-solas-1403159'>Una joven española inventa una solución para que las placas solares generen más energía y se limpien solas</a></h4>
-    <a href='https://computerhoy.com/energia/joven-espanola-inventa-solucion-placas-solares-generen-energia-limpien-solas-1403159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/investigadora-cristina-l-pinto-4091874.jpg?tf=1200x' alt='Una joven española inventa una solución para que las placas solares generen más energía y se limpien solas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-no-nueva-10-cosas-ya-utilizaban-ia-anos-1402174'>La inteligencia artificial no es nueva: 10 cosas que ya utilizaban la IA desde años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-no-nueva-10-cosas-ya-utilizaban-ia-anos-1402174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ia-4048772.jpg?tf=1200x' alt='La inteligencia artificial no es nueva: 10 cosas que ya utilizaban la IA desde años' />
     </a>
 </div>
 
