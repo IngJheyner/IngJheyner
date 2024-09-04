@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-todas-versiones-sistema-operativo-microsoft-polemicas-eterna-batalla-apple-1402232'>Windows: todas las versiones del sistema operativo de Microsoft, polémicas y la eterna batalla contra Apple</a></h4>
-    <a href='https://computerhoy.com/windows/windows-todas-versiones-sistema-operativo-microsoft-polemicas-eterna-batalla-apple-1402232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-historia-4049078.jpg?tf=1200x' alt='Windows: todas las versiones del sistema operativo de Microsoft, polémicas y la eterna batalla contra Apple' />
+    <h4><a href='https://computerhoy.com/pc/ps5-pro-tarjeta-grafica-pc-equivale-cual-rendimiento-1403283'>PS5 Pro: ¿A qué tarjeta gráfica de PC equivale y cuál es su rendimiento?</a></h4>
+    <a href='https://computerhoy.com/pc/ps5-pro-tarjeta-grafica-pc-equivale-cual-rendimiento-1403283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ps5-pro-tarjeta-grafica-pc-equivale-cual-rendimiento-4096492.jpg?tf=1200x' alt='PS5 Pro: ¿A qué tarjeta gráfica de PC equivale y cuál es su rendimiento?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/chollo-apple-pack-cuatro-airtags-toca-fondo-oferta-1403355'>Chollo Apple: el pack de cuatro AirTags toca fondo en esta oferta</a></h4>
-    <a href='https://computerhoy.com/apple/chollo-apple-pack-cuatro-airtags-toca-fondo-oferta-1403355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg?tf=1200x' alt='Chollo Apple: el pack de cuatro AirTags toca fondo en esta oferta' />
+    <h4><a href='https://computerhoy.com/tecnologia/robot-terminara-mitico-trabajo-has-visto-mil-peliculas-series-television-1403419'>Así es el robot que terminará con el mítico trabajo que has visto en mil películas y series de televisión</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-terminara-mitico-trabajo-has-visto-mil-peliculas-series-television-1403419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/robot-terminara-mitico-trabajo-has-visto-mil-peliculas-series-television-4099742.jpg?tf=1200x' alt='Así es el robot que terminará con el mítico trabajo que has visto en mil películas y series de televisión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/movil-escucha-dices-google-amazon-meta-habrian-usado-servicios-tercero-dirigir-anuncios-1403377'>Tu móvil escucha lo que dices: Google, Amazon y Meta habrían usado los servicios de un tercero para dirigir anuncios</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/movil-escucha-dices-google-amazon-meta-habrian-usado-servicios-tercero-dirigir-anuncios-1403377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/movil-te-escucha-4098430.jpg?tf=1200x' alt='Tu móvil escucha lo que dices: Google, Amazon y Meta habrían usado los servicios de un tercero para dirigir anuncios' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-apuesta-ia-anthropic-proxima-generacion-alexa-1403383'>Amazon apuesta por la IA de Anthropic para la próxima generación de Alexa</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-apuesta-ia-anthropic-proxima-generacion-alexa-1403383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/amazon-apuesta-ia-anthropic-proxima-generacion-alexa-4098975.jpg?tf=1200x' alt='Amazon apuesta por la IA de Anthropic para la próxima generación de Alexa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/paises-ofrece-digi-servicio-roaming-1403329'>¿En qué países ofrece DIGI servicio de roaming?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/paises-ofrece-digi-servicio-roaming-1403329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/digi-4098283.jpg?tf=1200x' alt='¿En qué países ofrece DIGI servicio de roaming?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/facebook-amazon-google-han-confirmado-utilizan-microfono-movil-espiarte-1403358'>Facebook, Amazon y Google han confirmado que utilizan el micrófono de tu móvil para espiarte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/facebook-amazon-google-han-confirmado-utilizan-microfono-movil-espiarte-1403358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/facebook-amazon-google-han-confirmado-utilizan-microfono-movil-espiarte-4098785.jpg?tf=1200x' alt='Facebook, Amazon y Google han confirmado que utilizan el micrófono de tu móvil para espiarte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/qualcomm-lanza-version-barata-snapdragon-x-plus-llevar-copilot-portatiles-1403346'>Qualcomm lanza una versión barata del Snapdragon X Plus para llevar Copilot+ a más portátiles</a></h4>
-    <a href='https://computerhoy.com/pc/qualcomm-lanza-version-barata-snapdragon-x-plus-llevar-copilot-portatiles-1403346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/snapdragon-x-plus-4098479.jpg?tf=1200x' alt='Qualcomm lanza una versión barata del Snapdragon X Plus para llevar Copilot+ a más portátiles' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-cookies-ordenador-vez-todas-1403272'>Cómo borrar las cookies en tu ordenador de una vez por todas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-borrar-cookies-ordenador-vez-todas-1403272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cookies-robadas-3297911.jpg?tf=1200x' alt='Cómo borrar las cookies en tu ordenador de una vez por todas' />
     </a>
 </div>
 
