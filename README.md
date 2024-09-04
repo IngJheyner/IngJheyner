@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/3-razones-peso-apagar-wifi-pc-mejorar-experiencia-1403281'>3 razones de peso para apagar el WiFi en tu PC y mejorar tu experiencia</a></h4>
+    <a href='https://computerhoy.com/redes/3-razones-peso-apagar-wifi-pc-mejorar-experiencia-1403281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/3-razones-peso-apagar-wifi-pc-mejorar-experiencia-4096058.jpg?tf=1200x' alt='3 razones de peso para apagar el WiFi en tu PC y mejorar tu experiencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/6-metodos-efectivos-proteger-cuenta-netflix-1403277'>6 métodos efectivos para proteger tu cuenta de Netflix</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/6-metodos-efectivos-proteger-cuenta-netflix-1403277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/6-metodos-efectivos-proteger-cuenta-netflix-4095624.jpg?tf=1200x' alt='6 métodos efectivos para proteger tu cuenta de Netflix' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/app-x-tv-televisores-1403276'>Ya está aquí X TV, la app de X para los televisores</a></h4>
     <a href='https://computerhoy.com/tv/app-x-tv-televisores-1403276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-aqui-x-tv-app-x-televisores-4094181.jpg?tf=1200x' alt='Ya está aquí X TV, la app de X para los televisores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/todas-novedades-van-llegar-ordenador-windows-11-actualizacion-24h2-ya-muy-cerca-1403270'>Todas las novedades que van a llegar a tu ordenador con Windows 11: la actualización 24H2 ya está muy cerca</a></h4>
-    <a href='https://computerhoy.com/windows/todas-novedades-van-llegar-ordenador-windows-11-actualizacion-24h2-ya-muy-cerca-1403270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-4094325.jpg?tf=1200x' alt='Todas las novedades que van a llegar a tu ordenador con Windows 11: la actualización 24H2 ya está muy cerca' />
     </a>
 </div>
 
