@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/chollo-apple-pack-cuatro-airtags-toca-fondo-oferta-1403355'>Chollo Apple: el pack de cuatro AirTags toca fondo en esta oferta</a></h4>
+    <a href='https://computerhoy.com/apple/chollo-apple-pack-cuatro-airtags-toca-fondo-oferta-1403355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg?tf=1200x' alt='Chollo Apple: el pack de cuatro AirTags toca fondo en esta oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/movil-escucha-dices-google-amazon-meta-habrian-usado-servicios-tercero-dirigir-anuncios-1403377'>Tu móvil escucha lo que dices: Google, Amazon y Meta habrían usado los servicios de un tercero para dirigir anuncios</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/movil-escucha-dices-google-amazon-meta-habrian-usado-servicios-tercero-dirigir-anuncios-1403377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/movil-te-escucha-4098430.jpg?tf=1200x' alt='Tu móvil escucha lo que dices: Google, Amazon y Meta habrían usado los servicios de un tercero para dirigir anuncios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/paises-ofrece-digi-servicio-roaming-1403329'>¿En qué países ofrece DIGI servicio de roaming?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/paises-ofrece-digi-servicio-roaming-1403329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/digi-4098283.jpg?tf=1200x' alt='¿En qué países ofrece DIGI servicio de roaming?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/qualcomm-lanza-version-barata-snapdragon-x-plus-llevar-copilot-portatiles-1403346'>Qualcomm lanza una versión barata del Snapdragon X Plus para llevar Copilot+ a más portátiles</a></h4>
+    <a href='https://computerhoy.com/pc/qualcomm-lanza-version-barata-snapdragon-x-plus-llevar-copilot-portatiles-1403346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/snapdragon-x-plus-4098479.jpg?tf=1200x' alt='Qualcomm lanza una versión barata del Snapdragon X Plus para llevar Copilot+ a más portátiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/que-es-exploit-como-funciona-metodos-existen-protegerse-1260582'>¿Qué es un exploit, cómo funciona y qué métodos existen para protegerse?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/que-es-exploit-como-funciona-metodos-existen-protegerse-1260582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/verticalimage1688813814347-3078358.jpg?tf=1200x' alt='¿Qué es un exploit, cómo funciona y qué métodos existen para protegerse?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-anuncia-nuevas-voces-chatgpt-posibilidad-ladrar-1403368'>OpenAI anuncia nuevas voces para ChatGPT y hasta la posibilidad de ladrar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-anuncia-nuevas-voces-chatgpt-posibilidad-ladrar-1403368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-funciones-4098126.jpg?tf=1200x' alt='OpenAI anuncia nuevas voces para ChatGPT y hasta la posibilidad de ladrar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-empieza-cobrar-extra-compartir-cuenta-algunos-paises-pronto-llegara-espana-1403341'>Disney+ empieza a cobrar un extra por compartir cuenta en algunos países y pronto llegará a España</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-empieza-cobrar-extra-compartir-cuenta-algunos-paises-pronto-llegara-espana-1403341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/disney-empieza-cobrar-extra-compartir-algunos-paises-pronto-llegara-espana-4098432.jpg?tf=1200x' alt='Disney+ empieza a cobrar un extra por compartir cuenta en algunos países y pronto llegará a España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/zen-browser-coge-mejor-google-chrome-lleva-mozilla-firefox-1403330'>Zen Browser coge lo mejor de Google Chrome y lo lleva a Mozilla Firefox </a></h4>
-    <a href='https://computerhoy.com/tecnologia/zen-browser-coge-mejor-google-chrome-lleva-mozilla-firefox-1403330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/zen-browser-coge-mejor-google-chrome-lleva-mozilla-firefox-4098124.jpg?tf=1200x' alt='Zen Browser coge lo mejor de Google Chrome y lo lleva a Mozilla Firefox ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/sextorsion-escala-nuevo-peligroso-nivel-ahora-saben-donde-vives-1403351'>La sextorsión escala a un nuevo y peligroso nivel: ahora "saben" dónde vives</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/sextorsion-escala-nuevo-peligroso-nivel-ahora-saben-donde-vives-1403351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sextorsion-ubicacion-4098121.jpg?tf=1200x' alt='La sextorsión escala a un nuevo y peligroso nivel: ahora "saben" dónde vives' />
     </a>
 </div>
 
