@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-tiene-modo-antirrobo-hackeo-pocos-usuarios-conocen-llegara-tambien-iphone-16-1403390'>Apple tiene un modo antirrobo y hackeo que pocos usuarios conocen y que llegará también al iPhone 16</a></h4>
+    <a href='https://computerhoy.com/apple/apple-tiene-modo-antirrobo-hackeo-pocos-usuarios-conocen-llegara-tambien-iphone-16-1403390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-tiene-modo-antirrobo-hackeo-pocos-usuarios-conocen-llegara-tambien-iphone-16-4099750.jpg?tf=1200x' alt='Apple tiene un modo antirrobo y hackeo que pocos usuarios conocen y que llegará también al iPhone 16' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/ps5-pro-tarjeta-grafica-pc-equivale-cual-rendimiento-1403283'>PS5 Pro: ¿A qué tarjeta gráfica de PC equivale y cuál es su rendimiento?</a></h4>
     <a href='https://computerhoy.com/pc/ps5-pro-tarjeta-grafica-pc-equivale-cual-rendimiento-1403283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ps5-pro-tarjeta-grafica-pc-equivale-cual-rendimiento-4096492.jpg?tf=1200x' alt='PS5 Pro: ¿A qué tarjeta gráfica de PC equivale y cuál es su rendimiento?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/facebook-amazon-google-han-confirmado-utilizan-microfono-movil-espiarte-1403358'>Facebook, Amazon y Google han confirmado que utilizan el micrófono de tu móvil para espiarte</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/facebook-amazon-google-han-confirmado-utilizan-microfono-movil-espiarte-1403358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/facebook-amazon-google-han-confirmado-utilizan-microfono-movil-espiarte-4098785.jpg?tf=1200x' alt='Facebook, Amazon y Google han confirmado que utilizan el micrófono de tu móvil para espiarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-cookies-ordenador-vez-todas-1403272'>Cómo borrar las cookies en tu ordenador de una vez por todas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-borrar-cookies-ordenador-vez-todas-1403272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cookies-robadas-3297911.jpg?tf=1200x' alt='Cómo borrar las cookies en tu ordenador de una vez por todas' />
     </a>
 </div>
 
