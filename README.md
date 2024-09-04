@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/4-comandos-linux-trabajar-archivos-texto-flujos-datos-como-profesional-1403475'>4 comandos Linux para trabajar con archivos de texto y flujos de datos como un profesional</a></h4>
+    <a href='https://computerhoy.com/tecnologia/4-comandos-linux-trabajar-archivos-texto-flujos-datos-como-profesional-1403475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/4-comandos-linux-trabajar-archivos-texto-flujos-datos-como-profesional-4102585.jpg?tf=1200x' alt='4 comandos Linux para trabajar con archivos de texto y flujos de datos como un profesional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/acer-ifa-2024-portatiles-copilot-consola-nitro-blaze-7-1403478'>Lo nuevo de Acer en IFA 2024: portátiles con Copilot+, consola Nitro Blaze 7, y mucho más</a></h4>
     <a href='https://computerhoy.com/tecnologia/acer-ifa-2024-portatiles-copilot-consola-nitro-blaze-7-1403478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nuevo-acer-ifa-2024-portatiles-copilot-consola-nitro-blaze-7-mucho-4101187.jpg?tf=1200x' alt='Lo nuevo de Acer en IFA 2024: portátiles con Copilot+, consola Nitro Blaze 7, y mucho más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/truco-definitivo-recibir-mejores-ofertas-juegos-ps5-1403464'>El truco definitivo para recibir las mejores ofertas de juegos en tu PS5</a></h4>
     <a href='https://computerhoy.com/entretenimiento/truco-definitivo-recibir-mejores-ofertas-juegos-ps5-1403464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/truco-definitivo-recibir-mejores-ofertas-juegos-ps5-4101638.jpg?tf=1200x' alt='El truco definitivo para recibir las mejores ofertas de juegos en tu PS5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/daylist-spotify-ya-disponible-espanol-nueva-playlist-personalizada-actualiza-evoluciona-solo-ti-1403470'>Daylist de Spotify ya disponible en español: una nueva playlist personalizada que se actualiza y evoluciona sólo para ti</a></h4>
-    <a href='https://computerhoy.com/apps/daylist-spotify-ya-disponible-espanol-nueva-playlist-personalizada-actualiza-evoluciona-solo-ti-1403470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/daylist-spotify-4101637.jpg?tf=1200x' alt='Daylist de Spotify ya disponible en español: una nueva playlist personalizada que se actualiza y evoluciona sólo para ti' />
     </a>
 </div>
 
