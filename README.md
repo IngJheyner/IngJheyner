@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/zen-browser-coge-mejor-google-chrome-lleva-mozilla-firefox-1403330'>Zen Browser coge lo mejor de Google Chrome y lo lleva a Mozilla Firefox </a></h4>
+    <a href='https://computerhoy.com/tecnologia/zen-browser-coge-mejor-google-chrome-lleva-mozilla-firefox-1403330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/zen-browser-coge-mejor-google-chrome-lleva-mozilla-firefox-4098124.jpg?tf=1200x' alt='Zen Browser coge lo mejor de Google Chrome y lo lleva a Mozilla Firefox ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/sextorsion-escala-nuevo-peligroso-nivel-ahora-saben-donde-vives-1403351'>La sextorsión escala a un nuevo y peligroso nivel: ahora "saben" dónde vives</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/sextorsion-escala-nuevo-peligroso-nivel-ahora-saben-donde-vives-1403351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sextorsion-ubicacion-4098121.jpg?tf=1200x' alt='La sextorsión escala a un nuevo y peligroso nivel: ahora "saben" dónde vives' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/instagram-trabaja-comentarios-stories-nuevo-filtro-antispam-1403317'>Instagram trabaja en los comentarios en Stories con un nuevo filtro antispam</a></h4>
+    <a href='https://computerhoy.com/redes/instagram-trabaja-comentarios-stories-nuevo-filtro-antispam-1403317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/instagram-trabaja-comentarios-stories-nuevo-filtro-antispam-4097815.jpg?tf=1200x' alt='Instagram trabaja en los comentarios en Stories con un nuevo filtro antispam' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/chromecast-te-permite-utilizar-ps4-ps5-remoto-funcion-pocos-conocen-1403241'>Chromecast te permite utilizar la PS4 y la PS5 en remoto con una función que pocos conocen</a></h4>
     <a href='https://computerhoy.com/gaming/chromecast-te-permite-utilizar-ps4-ps5-remoto-funcion-pocos-conocen-1403241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chromecast-te-permite-utilizar-ps4-ps5-remoto-funcion-pocos-conocen-4093292.jpg?tf=1200x' alt='Chromecast te permite utilizar la PS4 y la PS5 en remoto con una función que pocos conocen' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-configurar-pantalla-waze-limpiar-elementos-innecesarios-1402930'>Cómo configurar la pantalla de Waze para limpiar elementos innecesarios</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-configurar-pantalla-waze-limpiar-elementos-innecesarios-1402930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/waze-3839253.jpg?tf=1200x' alt='Cómo configurar la pantalla de Waze para limpiar elementos innecesarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/podemos-esperar-nuevos-airpods-4-1403314'>Qué podemos esperar de los nuevos AirPods 4</a></h4>
-    <a href='https://computerhoy.com/apple/podemos-esperar-nuevos-airpods-4-1403314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524057.jpg?tf=1200x' alt='Qué podemos esperar de los nuevos AirPods 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/abran-paso-portatil-chino-cuesta-menos-movil-tiene-windows-11-chasis-aluminio-estilo-macbook-1402851'>Abran paso: este portátil chino cuesta menos que un móvil, tiene Windows 11 y chasis de aluminio al estilo MacBook</a></h4>
-    <a href='https://computerhoy.com/tecnologia/abran-paso-portatil-chino-cuesta-menos-movil-tiene-windows-11-chasis-aluminio-estilo-macbook-1402851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teclast-f16-plus-3260853.jpg?tf=1200x' alt='Abran paso: este portátil chino cuesta menos que un móvil, tiene Windows 11 y chasis de aluminio al estilo MacBook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tener-dos-moviles-solo-como-crear-segundo-espacio-movil-1403217'>Tener dos móviles en uno solo: cómo crear un segundo espacio en tu móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tener-dos-moviles-solo-como-crear-segundo-espacio-movil-1403217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/segundo-espacio-moviles-4092829.jpg?tf=1200x' alt='Tener dos móviles en uno solo: cómo crear un segundo espacio en tu móvil' />
     </a>
 </div>
 
