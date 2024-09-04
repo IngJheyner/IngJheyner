@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cuanto-tiempo-tarda-llegar-luna-exactamente-1265090'>¿Cuánto tiempo se tarda en llegar a la Luna exactamente?</a></h4>
-    <a href='https://computerhoy.com/espacio/cuanto-tiempo-tarda-llegar-luna-exactamente-1265090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/nasa-localiza-impacto-cohete-luna-nadie-tierra-reconoce-2742943.jpg?tf=1200x' alt='¿Cuánto tiempo se tarda en llegar a la Luna exactamente?' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-como-funciona-herramientas-importantes-comparativa-telegram-1402111'>Qué es WhatsApp: cómo funciona, herramientas más importantes y comparativa con Telegram</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-como-funciona-herramientas-importantes-comparativa-telegram-1402111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cansado-verde-whatsapp-probando-nuevos-colores-burbujas-chat-3374166.jpg?tf=1200x' alt='Qué es WhatsApp: cómo funciona, herramientas más importantes y comparativa con Telegram' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/aliexpress-agotar-portatil-windows-11-baratisimo-1400647'>AliExpress va a agotar el stock de este portátil baratísimo con Windows 11: cuesta apenas 300 euros</a></h4>
-    <a href='https://computerhoy.com/pc/aliexpress-agotar-portatil-windows-11-baratisimo-1400647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chuwi-freebook-3210318.jpg?tf=1200x' alt='AliExpress va a agotar el stock de este portátil baratísimo con Windows 11: cuesta apenas 300 euros' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2024</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191822.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/3-razones-peso-apagar-wifi-pc-mejorar-experiencia-1403281'>3 razones de peso para apagar el WiFi en tu PC y mejorar tu experiencia</a></h4>
-    <a href='https://computerhoy.com/redes/3-razones-peso-apagar-wifi-pc-mejorar-experiencia-1403281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/3-razones-peso-apagar-wifi-pc-mejorar-experiencia-4096058.jpg?tf=1200x' alt='3 razones de peso para apagar el WiFi en tu PC y mejorar tu experiencia' />
+    <h4><a href='https://computerhoy.com/amazon/funciones-amazon-prime-casi-nadie-usa-me-han-salvado-horas-aburrimiento-1403066'>Las funciones de Amazon Prime que casi nadie usa y me han salvado horas de aburrimiento</a></h4>
+    <a href='https://computerhoy.com/amazon/funciones-amazon-prime-casi-nadie-usa-me-han-salvado-horas-aburrimiento-1403066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/funciones-amazon-prime-casi-nadie-usa-me-han-salvado-horas-aburrimiento-4089359.jpg?tf=1200x' alt='Las funciones de Amazon Prime que casi nadie usa y me han salvado horas de aburrimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/6-metodos-efectivos-proteger-cuenta-netflix-1403277'>6 métodos efectivos para proteger tu cuenta de Netflix</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/6-metodos-efectivos-proteger-cuenta-netflix-1403277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/6-metodos-efectivos-proteger-cuenta-netflix-4095624.jpg?tf=1200x' alt='6 métodos efectivos para proteger tu cuenta de Netflix' />
+    <h4><a href='https://computerhoy.com/tecnologia/estudiante-construye-reactor-fusion-casa-usando-ia-claude-1403290'>Un estudiante construye un reactor de fusión en su casa usando la IA Claude</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estudiante-construye-reactor-fusion-casa-usando-ia-claude-1403290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estudiante-construye-reactor-fusion-casa-usando-ia-claude-4096348.jpg?tf=1200x' alt='Un estudiante construye un reactor de fusión en su casa usando la IA Claude' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-rtve-alian-valle-salvaje-1403280'>Netflix y RTVE se alían para lanzar una propuesta única en el mundo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-rtve-alian-valle-salvaje-1403280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-rtve-alian-lanzar-propuesta-unica-mundo-4095193.jpg?tf=1200x' alt='Netflix y RTVE se alían para lanzar una propuesta única en el mundo' />
+    <h4><a href='https://computerhoy.com/analisis/razer-blade-18-bestia-todo-he-probado-varias-semanas-apunta-ser-mejores-portatiles-ano-1402823'>El Razer Blade 18 es una bestia en todo: lo he probado varias semanas y apunta a ser uno de los mejores portátiles del año</a></h4>
+    <a href='https://computerhoy.com/analisis/razer-blade-18-bestia-todo-he-probado-varias-semanas-apunta-ser-mejores-portatiles-ano-1402823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/razer-blade-18-4079618.jpg?tf=1200x' alt='El Razer Blade 18 es una bestia en todo: lo he probado varias semanas y apunta a ser uno de los mejores portátiles del año' />
     </a>
 </div>
 
