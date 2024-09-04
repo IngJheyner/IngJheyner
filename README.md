@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estas-impresionantes-mujeres-robot-son-robots-verdad-engano-1403298'>Estas impresionantes mujeres robot, ¿son robots de verdad, o un engaño?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-impresionantes-mujeres-robot-son-robots-verdad-engano-1403298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estas-impresionantes-mujeres-robot-son-robots-verdad-engano-4097363.jpg?tf=1200x' alt='Estas impresionantes mujeres robot, ¿son robots de verdad, o un engaño?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-como-funciona-herramientas-importantes-comparativa-telegram-1402111'>Qué es WhatsApp: cómo funciona, herramientas más importantes y comparativa con Telegram</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-como-funciona-herramientas-importantes-comparativa-telegram-1402111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cansado-verde-whatsapp-probando-nuevos-colores-burbujas-chat-3374166.jpg?tf=1200x' alt='Qué es WhatsApp: cómo funciona, herramientas más importantes y comparativa con Telegram' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estudiante-construye-reactor-fusion-casa-usando-ia-claude-1403290'>Un estudiante construye un reactor de fusión en su casa usando la IA Claude</a></h4>
     <a href='https://computerhoy.com/tecnologia/estudiante-construye-reactor-fusion-casa-usando-ia-claude-1403290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estudiante-construye-reactor-fusion-casa-usando-ia-claude-4096348.jpg?tf=1200x' alt='Un estudiante construye un reactor de fusión en su casa usando la IA Claude' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/razer-blade-18-bestia-todo-he-probado-varias-semanas-apunta-ser-mejores-portatiles-ano-1402823'>El Razer Blade 18 es una bestia en todo: lo he probado varias semanas y apunta a ser uno de los mejores portátiles del año</a></h4>
-    <a href='https://computerhoy.com/analisis/razer-blade-18-bestia-todo-he-probado-varias-semanas-apunta-ser-mejores-portatiles-ano-1402823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/razer-blade-18-4079618.jpg?tf=1200x' alt='El Razer Blade 18 es una bestia en todo: lo he probado varias semanas y apunta a ser uno de los mejores portátiles del año' />
     </a>
 </div>
 
