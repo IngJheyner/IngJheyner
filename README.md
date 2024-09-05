@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/ordenadores-portatiles-prueba-agua-clasificacion-ip65-1403062'>¿Existen ordenadores portátiles a prueba de agua? Esto es todo lo que debes saber sobre la clasificación IP65</a></h4>
+    <a href='https://computerhoy.com/pc/ordenadores-portatiles-prueba-agua-clasificacion-ip65-1403062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/usando-portatil-debajo-agua-4089650.jpg?tf=1200x' alt='¿Existen ordenadores portátiles a prueba de agua? Esto es todo lo que debes saber sobre la clasificación IP65' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/roku-tendra-nueva-funcion-ese-otono-smart-tv-convertira-obra-arte-1403561'>Roku tendrá una nueva función ese otoño: tu smart TV se convertirá en una obra de arte</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/roku-tendra-nueva-funcion-ese-otono-smart-tv-convertira-obra-arte-1403561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fondo-pantalla-tv-4105898.jpg?tf=1200x' alt='Roku tendrá una nueva función ese otoño: tu smart TV se convertirá en una obra de arte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/olvida-consolas-portatiles-tablet-snapdragon-jugar-game-pass-1402503'>Olvida las consolas portátiles: esta tablet con procesador Snapdragon es perfecta para jugar con Game Pass</a></h4>
+    <a href='https://computerhoy.com/android/olvida-consolas-portatiles-tablet-snapdragon-jugar-game-pass-1402503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lenovo-y700-4057611.jpg?tf=1200x' alt='Olvida las consolas portátiles: esta tablet con procesador Snapdragon es perfecta para jugar con Game Pass' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/hora-dorada-conciliar-sueno-dormir-mejor-realidad-solo-bulo-1399067'>La “hora dorada” para conciliar el sueño y dormir mejor, ¿es una realidad o solo un bulo?</a></h4>
+    <a href='https://computerhoy.com/ciencia/hora-dorada-conciliar-sueno-dormir-mejor-realidad-solo-bulo-1399067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hora-dorada-conciliar-sueno-dormir-mejor-realidad-solo-bulo-3889864.jpg?tf=1200x' alt='La “hora dorada” para conciliar el sueño y dormir mejor, ¿es una realidad o solo un bulo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/solucion-ia-promete-acabar-dialogos-no-entienden-tv-1403618'>Esta solución con IA promete acabar con los diálogos que no se entienden en tu TV</a></h4>
     <a href='https://computerhoy.com/tecnologia/solucion-ia-promete-acabar-dialogos-no-entienden-tv-1403618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tv-ia-4105575.jpg?tf=1200x' alt='Esta solución con IA promete acabar con los diálogos que no se entienden en tu TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/plegables-fin-despegan-europa-honor-modelos-caros-tienen-mucho-ver-1403624'>Los plegables por fin despegan en Europa: Honor y los modelos más caros tienen mucho que ver</a></h4>
-    <a href='https://computerhoy.com/moviles/plegables-fin-despegan-europa-honor-modelos-caros-tienen-mucho-ver-1403624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/honor-magic-v3-3847501.jpg?tf=1200x' alt='Los plegables por fin despegan en Europa: Honor y los modelos más caros tienen mucho que ver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/dreame-quiere-revolucionar-limpieza-hogar-dos-productos-estas-cuatro-tecnologias-1403590'>Dreame quiere revolucionar la limpieza del hogar con dos productos y estas cuatro tecnologías </a></h4>
-    <a href='https://computerhoy.com/hogar/dreame-quiere-revolucionar-limpieza-hogar-dos-productos-estas-cuatro-tecnologias-1403590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dreame-robot-aspirador-l40-ultra-4106079.jpg?tf=1200x' alt='Dreame quiere revolucionar la limpieza del hogar con dos productos y estas cuatro tecnologías ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/honor-magic-v3-movil-plegable-compania-llega-oficialmente-espana-pero-no-solo-1403569'>El Honor Magic V3, el móvil plegable de la compañía, llega oficialmente a España, pero no está solo</a></h4>
-    <a href='https://computerhoy.com/moviles/honor-magic-v3-movil-plegable-compania-llega-oficialmente-espana-pero-no-solo-1403569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/honor-magic-v3-4106046.jpg?tf=1200x' alt='El Honor Magic V3, el móvil plegable de la compañía, llega oficialmente a España, pero no está solo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/roborock-viene-pisando-fuerte-estos-cinco-dispositivos-inteligentes-limpieza-casa-1403378'>Roborock viene pisando fuerte con estos cinco dispositivos inteligentes para la limpieza de tu casa</a></h4>
-    <a href='https://computerhoy.com/hogar/roborock-viene-pisando-fuerte-estos-cinco-dispositivos-inteligentes-limpieza-casa-1403378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/roborock-qrevo-4098965.jpg?tf=1200x' alt='Roborock viene pisando fuerte con estos cinco dispositivos inteligentes para la limpieza de tu casa' />
     </a>
 </div>
 
