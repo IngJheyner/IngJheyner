@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/panasonic-ha-revelado-nueva-serie-televisiones-colaboracion-amazon-1403526'>Panasonic ha revelado su nueva serie de televisiones en colaboración con Amazon</a></h4>
+    <a href='https://computerhoy.com/amazon/panasonic-ha-revelado-nueva-serie-televisiones-colaboracion-amazon-1403526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/panasonic-ha-revelado-nueva-serie-televisiones-colaboracion-amazon-4105104.jpg?tf=1200x' alt='Panasonic ha revelado su nueva serie de televisiones en colaboración con Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/10-mejores-juegos-nativos-linux-puedes-ejecutar-instalar-proton-1403479'>Los 10 mejores juegos nativos para Linux que puedes ejecutar sin instalar Proton</a></h4>
     <a href='https://computerhoy.com/gaming/10-mejores-juegos-nativos-linux-puedes-ejecutar-instalar-proton-1403479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/10-mejores-juegos-nativos-linux-puedes-ejecutar-instalar-proton-4103756.jpg?tf=1200x' alt='Los 10 mejores juegos nativos para Linux que puedes ejecutar sin instalar Proton' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/openai-problemas-tienda-llena-chatbots-generan-pornografia-ayudan-hacer-trampa-colegio-1403516'>OpenAI en problemas: su tienda se llena de chatbots que generan pornografía y ayudan a hacer trampa en el colegio</a></h4>
     <a href='https://computerhoy.com/openai-problemas-tienda-llena-chatbots-generan-pornografia-ayudan-hacer-trampa-colegio-1403516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tienda-gpt-openai-4105103.jpg?tf=1200x' alt='OpenAI en problemas: su tienda se llena de chatbots que generan pornografía y ayudan a hacer trampa en el colegio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/qunkasaura-pintiquiniestra-nueva-especie-titanosaurio-cuenca-1403518'>Descubren una nueva especie de titanosaurio en Cuenca</a></h4>
-    <a href='https://computerhoy.com/ciencia/qunkasaura-pintiquiniestra-nueva-especie-titanosaurio-cuenca-1403518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/descubren-nueva-especie-titanosaurio-cuenca-4104801.jpg?tf=1200x' alt='Descubren una nueva especie de titanosaurio en Cuenca' />
     </a>
 </div>
 
