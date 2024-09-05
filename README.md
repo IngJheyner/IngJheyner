@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/ayuntamiento-madrid-prohibe-todos-patinetes-alquiler-1403673'>El ayuntamiento de Madrid prohíbe todos los patinetes de alquiler</a></h4>
+    <a href='https://computerhoy.com/motor/ayuntamiento-madrid-prohibe-todos-patinetes-alquiler-1403673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ayuntamiento-madrid-prohibe-todos-patinetes-alquiler-4107798.jpg?tf=1200x' alt='El ayuntamiento de Madrid prohíbe todos los patinetes de alquiler' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-watch-x-tendra-pantalla-grande-sera-delgado-vendra-version-premium-ceramica-1403612'>El Apple Watch X tendrá una pantalla más grande, será más delgado y vendrá con una versión premium de cerámica</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-x-tendra-pantalla-grande-sera-delgado-vendra-version-premium-ceramica-1403612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-watch-x-tendra-pantalla-grande-sera-delgado-vendra-version-premium-ceramica-4106413.jpg?tf=1200x' alt='El Apple Watch X tendrá una pantalla más grande, será más delgado y vendrá con una versión premium de cerámica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/hora-te-tienes-ir-dormir-quieres-ganar-calidad-vida-expertos-1403456'>Esta es la hora a la que te tienes que ir a dormir, si quieres ganar en calidad de vida, según los expertos</a></h4>
     <a href='https://computerhoy.com/life/hora-te-tienes-ir-dormir-quieres-ganar-calidad-vida-expertos-1403456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hora-te-tienes-ir-dormir-quieres-ganar-calidad-vida-expertos-4100725.jpg?tf=1200x' alt='Esta es la hora a la que te tienes que ir a dormir, si quieres ganar en calidad de vida, según los expertos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/roku-tendra-nueva-funcion-ese-otono-smart-tv-convertira-obra-arte-1403561'>Roku tendrá una nueva función ese otoño: tu smart TV se convertirá en una obra de arte</a></h4>
     <a href='https://computerhoy.com/entretenimiento/roku-tendra-nueva-funcion-ese-otono-smart-tv-convertira-obra-arte-1403561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fondo-pantalla-tv-4105898.jpg?tf=1200x' alt='Roku tendrá una nueva función ese otoño: tu smart TV se convertirá en una obra de arte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/olvida-consolas-portatiles-tablet-snapdragon-jugar-game-pass-1402503'>Olvida las consolas portátiles: esta tablet con procesador Snapdragon es perfecta para jugar con Game Pass</a></h4>
-    <a href='https://computerhoy.com/android/olvida-consolas-portatiles-tablet-snapdragon-jugar-game-pass-1402503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lenovo-y700-4057611.jpg?tf=1200x' alt='Olvida las consolas portátiles: esta tablet con procesador Snapdragon es perfecta para jugar con Game Pass' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/hora-dorada-conciliar-sueno-dormir-mejor-realidad-solo-bulo-1399067'>La “hora dorada” para conciliar el sueño y dormir mejor, ¿es una realidad o solo un bulo?</a></h4>
-    <a href='https://computerhoy.com/ciencia/hora-dorada-conciliar-sueno-dormir-mejor-realidad-solo-bulo-1399067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hora-dorada-conciliar-sueno-dormir-mejor-realidad-solo-bulo-3889864.jpg?tf=1200x' alt='La “hora dorada” para conciliar el sueño y dormir mejor, ¿es una realidad o solo un bulo?' />
     </a>
 </div>
 
