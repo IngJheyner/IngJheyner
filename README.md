@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-te-permitira-publicar-resenas-nombre-no-sea-real-1403688'>Google Maps te permitirá publicar reseñas con un nombre que no sea el real</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-te-permitira-publicar-resenas-nombre-no-sea-real-1403688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/resenas-falsas-google-maps-4108705.jpg?tf=1200x' alt='Google Maps te permitirá publicar reseñas con un nombre que no sea el real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-configurar-vpn-chromecast-smart-tv-google-tv-1403680'>Cómo instalar y configurar una VPN en tu Chromecast o Smart TV con Google TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-configurar-vpn-chromecast-smart-tv-google-tv-1403680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-instalar-configurar-vpn-chromecast-smart-tv-google-tv-4108560.jpg?tf=1200x' alt='Cómo instalar y configurar una VPN en tu Chromecast o Smart TV con Google TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/fundas-oficiales-iphone-16-tendran-sorpresa-diseno-1403687'>Las fundas oficiales del iPhone 16 tendrán una sorpresa en su diseño</a></h4>
+    <a href='https://computerhoy.com/apple/fundas-oficiales-iphone-16-tendran-sorpresa-diseno-1403687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-15-4108704.jpg?tf=1200x' alt='Las fundas oficiales del iPhone 16 tendrán una sorpresa en su diseño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/ni-terminator-ni-her-pelicula-netflix-impactante-ia-desconocida-joya-coreana-1403224'>Ni Terminator ni Her: la película de Netflix más impactante sobre la IA es esta desconocida joya coreana</a></h4>
     <a href='https://computerhoy.com/entretenimiento/ni-terminator-ni-her-pelicula-netflix-impactante-ia-desconocida-joya-coreana-1403224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ni-terminator-ni-her-pelicula-netflix-impactante-ia-desconocida-joya-coreana-4092828.jpg?tf=1200x' alt='Ni Terminator ni Her: la película de Netflix más impactante sobre la IA es esta desconocida joya coreana' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/todo-nvidia-fabricante-tarjetas-graficas-ha-conquistado-mundo-ia-1402583'>Todo sobre Nvidia, el fabricante de tarjetas gráficas que ha conquistado el mundo con la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/todo-nvidia-fabricante-tarjetas-graficas-ha-conquistado-mundo-ia-1402583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nvidia-4064064.jpg?tf=1200x' alt='Todo sobre Nvidia, el fabricante de tarjetas gráficas que ha conquistado el mundo con la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ya-conoce-precio-nothing-phone-2a-plus-secreto-movil-gama-media-sale-luz-1403437'>Ya se conoce el precio del Nothing Phone (2a) Plus: el secreto de este móvil gama media sale a la luz</a></h4>
-    <a href='https://computerhoy.com/moviles/ya-conoce-precio-nothing-phone-2a-plus-secreto-movil-gama-media-sale-luz-1403437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nothing-phone-2a-plus-3840796.jpg?tf=1200x' alt='Ya se conoce el precio del Nothing Phone (2a) Plus: el secreto de este móvil gama media sale a la luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/trucos-mejorar-seguridad-privacidad-dispositivos-alexa-1403666'>Trucos para mejorar la seguridad y privacidad en tus dispositivos Alexa</a></h4>
-    <a href='https://computerhoy.com/amazon/trucos-mejorar-seguridad-privacidad-dispositivos-alexa-1403666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/trucos-mejorar-seguridad-privacidad-dispositivos-alexa-4108120.jpg?tf=1200x' alt='Trucos para mejorar la seguridad y privacidad en tus dispositivos Alexa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-rapida-he-probado-he-probado-varias-viene-1tb-nube-extra-1403130'>Es la VPN más rápida que he probado, y he probado varias: viene con 1TB en la nube de extra</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-rapida-he-probado-he-probado-varias-viene-1tb-nube-extra-1403130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nordvpn-3305525.jpg?tf=1200x' alt='Es la VPN más rápida que he probado, y he probado varias: viene con 1TB en la nube de extra' />
     </a>
 </div>
 
