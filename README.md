@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hora-te-tienes-ir-dormir-quieres-ganar-calidad-vida-expertos-1403456'>Esta es la hora a la que te tienes que ir a dormir, si quieres ganar en calidad de vida, según los expertos</a></h4>
+    <a href='https://computerhoy.com/life/hora-te-tienes-ir-dormir-quieres-ganar-calidad-vida-expertos-1403456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hora-te-tienes-ir-dormir-quieres-ganar-calidad-vida-expertos-4100725.jpg?tf=1200x' alt='Esta es la hora a la que te tienes que ir a dormir, si quieres ganar en calidad de vida, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/ordenadores-portatiles-prueba-agua-clasificacion-ip65-1403062'>¿Existen ordenadores portátiles a prueba de agua? Esto es todo lo que debes saber sobre la clasificación IP65</a></h4>
     <a href='https://computerhoy.com/pc/ordenadores-portatiles-prueba-agua-clasificacion-ip65-1403062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/usando-portatil-debajo-agua-4089650.jpg?tf=1200x' alt='¿Existen ordenadores portátiles a prueba de agua? Esto es todo lo que debes saber sobre la clasificación IP65' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/hora-dorada-conciliar-sueno-dormir-mejor-realidad-solo-bulo-1399067'>La “hora dorada” para conciliar el sueño y dormir mejor, ¿es una realidad o solo un bulo?</a></h4>
     <a href='https://computerhoy.com/ciencia/hora-dorada-conciliar-sueno-dormir-mejor-realidad-solo-bulo-1399067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hora-dorada-conciliar-sueno-dormir-mejor-realidad-solo-bulo-3889864.jpg?tf=1200x' alt='La “hora dorada” para conciliar el sueño y dormir mejor, ¿es una realidad o solo un bulo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/solucion-ia-promete-acabar-dialogos-no-entienden-tv-1403618'>Esta solución con IA promete acabar con los diálogos que no se entienden en tu TV</a></h4>
-    <a href='https://computerhoy.com/tecnologia/solucion-ia-promete-acabar-dialogos-no-entienden-tv-1403618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tv-ia-4105575.jpg?tf=1200x' alt='Esta solución con IA promete acabar con los diálogos que no se entienden en tu TV' />
     </a>
 </div>
 
