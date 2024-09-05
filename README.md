@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/arte-tecnologia-tejido-navajo-basado-procesador-pentium-1403431'>Esto es lo que sucede cuando el arte toca a la tecnología: un tejido navajo basado en el procesador Pentium </a></h4>
+    <a href='https://computerhoy.com/arte-tecnologia-tejido-navajo-basado-procesador-pentium-1403431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pentium-arte-tejido-navajo-4099965.jpg?tf=1200x' alt='Esto es lo que sucede cuando el arte toca a la tecnología: un tejido navajo basado en el procesador Pentium ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/freidora-cosori-mas-vendida-oferta-amazon-1289568'>Cosori y Amazon la lían: su freidora más top está rebajada y supera ya a toda la competencia</a></h4>
     <a href='https://computerhoy.com/tecnologia/freidora-cosori-mas-vendida-oferta-amazon-1289568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cosori-pro-3107770.jpg?tf=1200x' alt='Cosori y Amazon la lían: su freidora más top está rebajada y supera ya a toda la competencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-transferir-perfil-netflix-nueva-cuenta-1403396'>Cómo transferir un perfil de Netflix a una nueva cuenta</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-transferir-perfil-netflix-nueva-cuenta-1403396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-4099577.jpg?tf=1200x' alt='Cómo transferir un perfil de Netflix a una nueva cuenta' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-notificaciones-epic-games-pc-1403287'>Cómo desactivar las notificaciones de Epic Games en PC</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-desactivar-notificaciones-epic-games-pc-1403287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/notificaciones-epic-games-4099588.jpg?tf=1200x' alt='Cómo desactivar las notificaciones de Epic Games en PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/todo-espera-keynote-apple-9-septiembre-iphone-16-apple-watch-series-x-airpods-4-1403027'>Todo lo que se espera de la keynote de Apple del 9 septiembre: iPhone 16, Apple Watch Series X, AirPods 4 y más</a></h4>
-    <a href='https://computerhoy.com/apple/todo-espera-keynote-apple-9-septiembre-iphone-16-apple-watch-series-x-airpods-4-1403027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/novedades-apple-keynote-4086663.jpg?tf=1200x' alt='Todo lo que se espera de la keynote de Apple del 9 septiembre: iPhone 16, Apple Watch Series X, AirPods 4 y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/starlink-bloquea-x-brasil-1403496'>Aunque dijo que no lo haría, Starlink cede y bloquea a X en Brasil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/starlink-bloquea-x-brasil-1403496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aunque-dijo-no-haria-starlink-cede-bloquea-x-brasil-4104343.jpg?tf=1200x' alt='Aunque dijo que no lo haría, Starlink cede y bloquea a X en Brasil' />
     </a>
 </div>
 
