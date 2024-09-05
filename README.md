@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bluetooth-60-promete-mejoras-proteger-llaves-coche-encontrar-dispositivos-1403695'>Bluetooth 6.0 promete mejoras para proteger las llaves del coche y encontrar dispositivos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bluetooth-60-promete-mejoras-proteger-llaves-coche-encontrar-dispositivos-1403695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bluetooh-60-ya-aqui-mejoras-hora-encontrar-dispositivos-proteger-coche-4108559.jpg?tf=1200x' alt='Bluetooth 6.0 promete mejoras para proteger las llaves del coche y encontrar dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/colossus-superordenador-ia-elon-musk-100000-gpus-nvidia-h100-1403690'>Colossus: el superordenador de IA de Elon Musk con 100.000 GPUs Nvidia H100</a></h4>
+    <a href='https://computerhoy.com/tecnologia/colossus-superordenador-ia-elon-musk-100000-gpus-nvidia-h100-1403690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xai-elon-musk-4108849.jpg?tf=1200x' alt='Colossus: el superordenador de IA de Elon Musk con 100.000 GPUs Nvidia H100' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-maps-te-permitira-publicar-resenas-nombre-no-sea-real-1403688'>Google Maps te permitirá publicar reseñas con un nombre que no sea el real</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-te-permitira-publicar-resenas-nombre-no-sea-real-1403688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/resenas-falsas-google-maps-4108705.jpg?tf=1200x' alt='Google Maps te permitirá publicar reseñas con un nombre que no sea el real' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/fundas-oficiales-iphone-16-tendran-sorpresa-diseno-1403687'>Las fundas oficiales del iPhone 16 tendrán una sorpresa en su diseño</a></h4>
     <a href='https://computerhoy.com/apple/fundas-oficiales-iphone-16-tendran-sorpresa-diseno-1403687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-15-4108704.jpg?tf=1200x' alt='Las fundas oficiales del iPhone 16 tendrán una sorpresa en su diseño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-terminator-ni-her-pelicula-netflix-impactante-ia-desconocida-joya-coreana-1403224'>Ni Terminator ni Her: la película de Netflix más impactante sobre la IA es esta desconocida joya coreana</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-terminator-ni-her-pelicula-netflix-impactante-ia-desconocida-joya-coreana-1403224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ni-terminator-ni-her-pelicula-netflix-impactante-ia-desconocida-joya-coreana-4092828.jpg?tf=1200x' alt='Ni Terminator ni Her: la película de Netflix más impactante sobre la IA es esta desconocida joya coreana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-nvidia-fabricante-tarjetas-graficas-ha-conquistado-mundo-ia-1402583'>Todo sobre Nvidia, el fabricante de tarjetas gráficas que ha conquistado el mundo con la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-nvidia-fabricante-tarjetas-graficas-ha-conquistado-mundo-ia-1402583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nvidia-4064064.jpg?tf=1200x' alt='Todo sobre Nvidia, el fabricante de tarjetas gráficas que ha conquistado el mundo con la IA' />
     </a>
 </div>
 
