@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/solucion-ia-promete-acabar-dialogos-no-entienden-tv-1403618'>Esta solución con IA promete acabar con los diálogos que no se entienden en tu TV</a></h4>
+    <a href='https://computerhoy.com/tecnologia/solucion-ia-promete-acabar-dialogos-no-entienden-tv-1403618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tv-ia-4105575.jpg?tf=1200x' alt='Esta solución con IA promete acabar con los diálogos que no se entienden en tu TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/plegables-fin-despegan-europa-honor-modelos-caros-tienen-mucho-ver-1403624'>Los plegables por fin despegan en Europa: Honor y los modelos más caros tienen mucho que ver</a></h4>
+    <a href='https://computerhoy.com/moviles/plegables-fin-despegan-europa-honor-modelos-caros-tienen-mucho-ver-1403624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/honor-magic-v3-3847501.jpg?tf=1200x' alt='Los plegables por fin despegan en Europa: Honor y los modelos más caros tienen mucho que ver' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/dreame-quiere-revolucionar-limpieza-hogar-dos-productos-estas-cuatro-tecnologias-1403590'>Dreame quiere revolucionar la limpieza del hogar con dos productos y estas cuatro tecnologías </a></h4>
+    <a href='https://computerhoy.com/hogar/dreame-quiere-revolucionar-limpieza-hogar-dos-productos-estas-cuatro-tecnologias-1403590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dreame-robot-aspirador-l40-ultra-4106079.jpg?tf=1200x' alt='Dreame quiere revolucionar la limpieza del hogar con dos productos y estas cuatro tecnologías ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/honor-magic-v3-movil-plegable-compania-llega-oficialmente-espana-pero-no-solo-1403569'>El Honor Magic V3, el móvil plegable de la compañía, llega oficialmente a España, pero no está solo</a></h4>
     <a href='https://computerhoy.com/moviles/honor-magic-v3-movil-plegable-compania-llega-oficialmente-espana-pero-no-solo-1403569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/honor-magic-v3-4106046.jpg?tf=1200x' alt='El Honor Magic V3, el móvil plegable de la compañía, llega oficialmente a España, pero no está solo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/roborock-viene-pisando-fuerte-estos-cinco-dispositivos-inteligentes-limpieza-casa-1403378'>Roborock viene pisando fuerte con estos cinco dispositivos inteligentes para la limpieza de tu casa</a></h4>
     <a href='https://computerhoy.com/hogar/roborock-viene-pisando-fuerte-estos-cinco-dispositivos-inteligentes-limpieza-casa-1403378' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/roborock-qrevo-4098965.jpg?tf=1200x' alt='Roborock viene pisando fuerte con estos cinco dispositivos inteligentes para la limpieza de tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-honor-magic-v3-no-tengo-dudas-mejor-movil-plegable-ano-1401765'>He probado el Honor Magic V3 y no tengo dudas: es el mejor móvil plegable del año</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-honor-magic-v3-no-tengo-dudas-mejor-movil-plegable-ano-1401765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/honor-magic-v3-4035660.jpg?tf=1200x' alt='He probado el Honor Magic V3 y no tengo dudas: es el mejor móvil plegable del año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/panasonic-tira-casa-ventana-ifa-2024-auriculares-televisiones-electrodomesticos-1403608'>Panasonic tira la casa por la ventana en IFA 2024: auriculares, televisiones, electrodomésticos y más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/panasonic-tira-casa-ventana-ifa-2024-auriculares-televisiones-electrodomesticos-1403608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/auriculares-inalambricos-rb-m600b-panasonic-4106422.jpg?tf=1200x' alt='Panasonic tira la casa por la ventana en IFA 2024: auriculares, televisiones, electrodomésticos y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tcl-50-pro-nxtpaper-5g-50-nxtpaper-5g-dos-moviles-interruptor-activar-pantalla-tinta-electronica-1401790'>TCL 50 Pro Nxtpaper 5G y 50 Nxtpaper 5G, dos móviles con un interruptor para activar la pantalla de tinta electrónica</a></h4>
-    <a href='https://computerhoy.com/moviles/tcl-50-pro-nxtpaper-5g-50-nxtpaper-5g-dos-moviles-interruptor-activar-pantalla-tinta-electronica-1401790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tcl-50-pro-nxtpaper-4041534.jpg?tf=1200x' alt='TCL 50 Pro Nxtpaper 5G y 50 Nxtpaper 5G, dos móviles con un interruptor para activar la pantalla de tinta electrónica' />
     </a>
 </div>
 
