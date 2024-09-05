@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/10-mejores-juegos-nativos-linux-puedes-ejecutar-instalar-proton-1403479'>Los 10 mejores juegos nativos para Linux que puedes ejecutar sin instalar Proton</a></h4>
+    <a href='https://computerhoy.com/gaming/10-mejores-juegos-nativos-linux-puedes-ejecutar-instalar-proton-1403479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/10-mejores-juegos-nativos-linux-puedes-ejecutar-instalar-proton-4103756.jpg?tf=1200x' alt='Los 10 mejores juegos nativos para Linux que puedes ejecutar sin instalar Proton' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/correr-nadar-estos-cascos-lenovo-son-multiusos-increiblemente-baratos-1402880'>Para correr ¡y nadar! Estos cascos de Lenovo son multiusos e increíblemente baratos</a></h4>
     <a href='https://computerhoy.com/tecnologia/correr-nadar-estos-cascos-lenovo-son-multiusos-increiblemente-baratos-1402880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-x5-3297332.jpg?tf=1200x' alt='Para correr ¡y nadar! Estos cascos de Lenovo son multiusos e increíblemente baratos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/qunkasaura-pintiquiniestra-nueva-especie-titanosaurio-cuenca-1403518'>Descubren una nueva especie de titanosaurio en Cuenca</a></h4>
     <a href='https://computerhoy.com/ciencia/qunkasaura-pintiquiniestra-nueva-especie-titanosaurio-cuenca-1403518' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/descubren-nueva-especie-titanosaurio-cuenca-4104801.jpg?tf=1200x' alt='Descubren una nueva especie de titanosaurio en Cuenca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/arte-tecnologia-tejido-navajo-basado-procesador-pentium-1403431'>Esto es lo que sucede cuando el arte toca a la tecnología: un tejido navajo basado en el procesador Pentium </a></h4>
-    <a href='https://computerhoy.com/arte-tecnologia-tejido-navajo-basado-procesador-pentium-1403431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pentium-arte-tejido-navajo-4099965.jpg?tf=1200x' alt='Esto es lo que sucede cuando el arte toca a la tecnología: un tejido navajo basado en el procesador Pentium ' />
     </a>
 </div>
 
