@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/starliner-sigue-dando-problemas-nasa-podria-aplazar-misiones-importantes-1403594'>Starliner sigue dando problemas a la NASA y podría aplazar una de sus misiones más importantes</a></h4>
-    <a href='https://computerhoy.com/espacio/starliner-sigue-dando-problemas-nasa-podria-aplazar-misiones-importantes-1403594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/starliner-sigue-dando-problemas-nasa-podria-aplazar-misiones-importantes-4106236.jpg?tf=1200x' alt='Starliner sigue dando problemas a la NASA y podría aplazar una de sus misiones más importantes' />
+    <h4><a href='https://computerhoy.com/moviles/honor-magic-v3-movil-plegable-compania-llega-oficialmente-espana-pero-no-solo-1403569'>El Honor Magic V3, el móvil plegable de la compañía, llega oficialmente a España, pero no está solo</a></h4>
+    <a href='https://computerhoy.com/moviles/honor-magic-v3-movil-plegable-compania-llega-oficialmente-espana-pero-no-solo-1403569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/honor-magic-v3-4106046.jpg?tf=1200x' alt='El Honor Magic V3, el móvil plegable de la compañía, llega oficialmente a España, pero no está solo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pc-copilot-microsoft-gran-rendimiento-pero-problemas-videojuegos-top-apps-adobe-1403539'>PC Copilot+ de Microsoft: gran rendimiento pero con problemas para videojuegos top y apps de Adobe</a></h4>
-    <a href='https://computerhoy.com/pc/pc-copilot-microsoft-gran-rendimiento-pero-problemas-videojuegos-top-apps-adobe-1403539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-presenta-copilot-pc-nueva-era-pc-ia-dos-surface-snapdragon-elite-x-3342424.jpg?tf=1200x' alt='PC Copilot+ de Microsoft: gran rendimiento pero con problemas para videojuegos top y apps de Adobe' />
+    <h4><a href='https://computerhoy.com/hogar/roborock-viene-pisando-fuerte-estos-cinco-dispositivos-inteligentes-limpieza-casa-1403378'>Roborock viene pisando fuerte con estos cinco dispositivos inteligentes para la limpieza de tu casa</a></h4>
+    <a href='https://computerhoy.com/hogar/roborock-viene-pisando-fuerte-estos-cinco-dispositivos-inteligentes-limpieza-casa-1403378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/roborock-qrevo-4098965.jpg?tf=1200x' alt='Roborock viene pisando fuerte con estos cinco dispositivos inteligentes para la limpieza de tu casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/star-wars-star-trek-mejor-serie-ciencia-ficcion-amazon-prime-video-1402072'>Ni Star Trek ni Star Wars, esta es la mejor serie de ciencia ficción desde un punto de vista científico, y es de Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/star-wars-star-trek-mejor-serie-ciencia-ficcion-amazon-prime-video-1402072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejor-serie-ciencia-ficcion-punto-vista-cientifico-amazon-prime-video-4042058.jpg?tf=1200x' alt='Ni Star Trek ni Star Wars, esta es la mejor serie de ciencia ficción desde un punto de vista científico, y es de Amazon Prime Video' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-honor-magic-v3-no-tengo-dudas-mejor-movil-plegable-ano-1401765'>He probado el Honor Magic V3 y no tengo dudas: es el mejor móvil plegable del año</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-honor-magic-v3-no-tengo-dudas-mejor-movil-plegable-ano-1401765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/honor-magic-v3-4035660.jpg?tf=1200x' alt='He probado el Honor Magic V3 y no tengo dudas: es el mejor móvil plegable del año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/reloj-nuclear-sera-sistema-medicion-preciso-universo-1403574'>Este reloj nuclear será el sistema de medición más preciso del Universo</a></h4>
-    <a href='https://computerhoy.com/ciencia/reloj-nuclear-sera-sistema-medicion-preciso-universo-1403574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/reloj-nuclear-sera-preciso-universo-4105897.jpg?tf=1200x' alt='Este reloj nuclear será el sistema de medición más preciso del Universo' />
+    <h4><a href='https://computerhoy.com/tecnologia/panasonic-tira-casa-ventana-ifa-2024-auriculares-televisiones-electrodomesticos-1403608'>Panasonic tira la casa por la ventana en IFA 2024: auriculares, televisiones, electrodomésticos y más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/panasonic-tira-casa-ventana-ifa-2024-auriculares-televisiones-electrodomesticos-1403608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/auriculares-inalambricos-rb-m600b-panasonic-4106422.jpg?tf=1200x' alt='Panasonic tira la casa por la ventana en IFA 2024: auriculares, televisiones, electrodomésticos y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-16-pro-vs-iphone-16-pro-max-expertos-ano-comprate-primero-1403575'>iPhone 16 Pro vs. iPhone 16 Pro Max: según expertos este año cómprate el primero</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-16-pro-vs-iphone-16-pro-max-expertos-ano-comprate-primero-1403575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-ios-mano-4055821.jpg?tf=1200x' alt='iPhone 16 Pro vs. iPhone 16 Pro Max: según expertos este año cómprate el primero' />
+    <h4><a href='https://computerhoy.com/moviles/tcl-50-pro-nxtpaper-5g-50-nxtpaper-5g-dos-moviles-interruptor-activar-pantalla-tinta-electronica-1401790'>TCL 50 Pro Nxtpaper 5G y 50 Nxtpaper 5G, dos móviles con un interruptor para activar la pantalla de tinta electrónica</a></h4>
+    <a href='https://computerhoy.com/moviles/tcl-50-pro-nxtpaper-5g-50-nxtpaper-5g-dos-moviles-interruptor-activar-pantalla-tinta-electronica-1401790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tcl-50-pro-nxtpaper-4041534.jpg?tf=1200x' alt='TCL 50 Pro Nxtpaper 5G y 50 Nxtpaper 5G, dos móviles con un interruptor para activar la pantalla de tinta electrónica' />
     </a>
 </div>
 
