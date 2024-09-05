@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/app-gratis-utiliza-ia-anadir-subtitulos-videos-automaticamente-1403694'>Esta app es gratis y utiliza IA para añadir subtítulos a tus vídeos automáticamente</a></h4>
+    <a href='https://computerhoy.com/apps/app-gratis-utiliza-ia-anadir-subtitulos-videos-automaticamente-1403694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/app-gratis-utiliza-ia-anadir-subtitulos-videos-automaticamente-4109732.jpg?tf=1200x' alt='Esta app es gratis y utiliza IA para añadir subtítulos a tus vídeos automáticamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/bluetooth-60-promete-mejoras-proteger-llaves-coche-encontrar-dispositivos-1403695'>Bluetooth 6.0 promete mejoras para proteger las llaves del coche y encontrar dispositivos</a></h4>
     <a href='https://computerhoy.com/tecnologia/bluetooth-60-promete-mejoras-proteger-llaves-coche-encontrar-dispositivos-1403695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bluetooh-60-ya-aqui-mejoras-hora-encontrar-dispositivos-proteger-coche-4108559.jpg?tf=1200x' alt='Bluetooth 6.0 promete mejoras para proteger las llaves del coche y encontrar dispositivos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-configurar-vpn-chromecast-smart-tv-google-tv-1403680'>Cómo instalar y configurar una VPN en tu Chromecast o Smart TV con Google TV</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-configurar-vpn-chromecast-smart-tv-google-tv-1403680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-instalar-configurar-vpn-chromecast-smart-tv-google-tv-4108560.jpg?tf=1200x' alt='Cómo instalar y configurar una VPN en tu Chromecast o Smart TV con Google TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/fundas-oficiales-iphone-16-tendran-sorpresa-diseno-1403687'>Las fundas oficiales del iPhone 16 tendrán una sorpresa en su diseño</a></h4>
-    <a href='https://computerhoy.com/apple/fundas-oficiales-iphone-16-tendran-sorpresa-diseno-1403687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-15-4108704.jpg?tf=1200x' alt='Las fundas oficiales del iPhone 16 tendrán una sorpresa en su diseño' />
     </a>
 </div>
 
