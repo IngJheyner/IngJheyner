@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/ayuntamiento-madrid-prohibe-todos-patinetes-alquiler-1403673'>El ayuntamiento de Madrid prohíbe todos los patinetes de alquiler</a></h4>
-    <a href='https://computerhoy.com/motor/ayuntamiento-madrid-prohibe-todos-patinetes-alquiler-1403673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ayuntamiento-madrid-prohibe-todos-patinetes-alquiler-4107798.jpg?tf=1200x' alt='El ayuntamiento de Madrid prohíbe todos los patinetes de alquiler' />
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-terminator-ni-her-pelicula-netflix-impactante-ia-desconocida-joya-coreana-1403224'>Ni Terminator ni Her: la película de Netflix más impactante sobre la IA es esta desconocida joya coreana</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-terminator-ni-her-pelicula-netflix-impactante-ia-desconocida-joya-coreana-1403224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ni-terminator-ni-her-pelicula-netflix-impactante-ia-desconocida-joya-coreana-4092828.jpg?tf=1200x' alt='Ni Terminator ni Her: la película de Netflix más impactante sobre la IA es esta desconocida joya coreana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-x-tendra-pantalla-grande-sera-delgado-vendra-version-premium-ceramica-1403612'>El Apple Watch X tendrá una pantalla más grande, será más delgado y vendrá con una versión premium de cerámica</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-x-tendra-pantalla-grande-sera-delgado-vendra-version-premium-ceramica-1403612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-watch-x-tendra-pantalla-grande-sera-delgado-vendra-version-premium-ceramica-4106413.jpg?tf=1200x' alt='El Apple Watch X tendrá una pantalla más grande, será más delgado y vendrá con una versión premium de cerámica' />
+    <h4><a href='https://computerhoy.com/tecnologia/todo-nvidia-fabricante-tarjetas-graficas-ha-conquistado-mundo-ia-1402583'>Todo sobre Nvidia, el fabricante de tarjetas gráficas que ha conquistado el mundo con la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-nvidia-fabricante-tarjetas-graficas-ha-conquistado-mundo-ia-1402583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nvidia-4064064.jpg?tf=1200x' alt='Todo sobre Nvidia, el fabricante de tarjetas gráficas que ha conquistado el mundo con la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hora-te-tienes-ir-dormir-quieres-ganar-calidad-vida-expertos-1403456'>Esta es la hora a la que te tienes que ir a dormir, si quieres ganar en calidad de vida, según los expertos</a></h4>
-    <a href='https://computerhoy.com/life/hora-te-tienes-ir-dormir-quieres-ganar-calidad-vida-expertos-1403456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hora-te-tienes-ir-dormir-quieres-ganar-calidad-vida-expertos-4100725.jpg?tf=1200x' alt='Esta es la hora a la que te tienes que ir a dormir, si quieres ganar en calidad de vida, según los expertos' />
+    <h4><a href='https://computerhoy.com/moviles/ya-conoce-precio-nothing-phone-2a-plus-secreto-movil-gama-media-sale-luz-1403437'>Ya se conoce el precio del Nothing Phone (2a) Plus: el secreto de este móvil gama media sale a la luz</a></h4>
+    <a href='https://computerhoy.com/moviles/ya-conoce-precio-nothing-phone-2a-plus-secreto-movil-gama-media-sale-luz-1403437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nothing-phone-2a-plus-3840796.jpg?tf=1200x' alt='Ya se conoce el precio del Nothing Phone (2a) Plus: el secreto de este móvil gama media sale a la luz' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ordenadores-portatiles-prueba-agua-clasificacion-ip65-1403062'>¿Existen ordenadores portátiles a prueba de agua? Esto es todo lo que debes saber sobre la clasificación IP65</a></h4>
-    <a href='https://computerhoy.com/pc/ordenadores-portatiles-prueba-agua-clasificacion-ip65-1403062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/usando-portatil-debajo-agua-4089650.jpg?tf=1200x' alt='¿Existen ordenadores portátiles a prueba de agua? Esto es todo lo que debes saber sobre la clasificación IP65' />
+    <h4><a href='https://computerhoy.com/amazon/trucos-mejorar-seguridad-privacidad-dispositivos-alexa-1403666'>Trucos para mejorar la seguridad y privacidad en tus dispositivos Alexa</a></h4>
+    <a href='https://computerhoy.com/amazon/trucos-mejorar-seguridad-privacidad-dispositivos-alexa-1403666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/trucos-mejorar-seguridad-privacidad-dispositivos-alexa-4108120.jpg?tf=1200x' alt='Trucos para mejorar la seguridad y privacidad en tus dispositivos Alexa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/roku-tendra-nueva-funcion-ese-otono-smart-tv-convertira-obra-arte-1403561'>Roku tendrá una nueva función ese otoño: tu smart TV se convertirá en una obra de arte</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/roku-tendra-nueva-funcion-ese-otono-smart-tv-convertira-obra-arte-1403561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fondo-pantalla-tv-4105898.jpg?tf=1200x' alt='Roku tendrá una nueva función ese otoño: tu smart TV se convertirá en una obra de arte' />
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-rapida-he-probado-he-probado-varias-viene-1tb-nube-extra-1403130'>Es la VPN más rápida que he probado, y he probado varias: viene con 1TB en la nube de extra</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-rapida-he-probado-he-probado-varias-viene-1tb-nube-extra-1403130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nordvpn-3305525.jpg?tf=1200x' alt='Es la VPN más rápida que he probado, y he probado varias: viene con 1TB en la nube de extra' />
     </a>
 </div>
 
