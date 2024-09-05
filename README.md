@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/aerografeno-asi-material-menos-denso-tierra-ligero-aire-10-veces-duro-acero-1257774'>Aerografeno: así es el material menos denso de la Tierra, más ligero que el aire y 10 veces más duro que el acero</a></h4>
-    <a href='https://computerhoy.com/ciencia/aerografeno-asi-material-menos-denso-tierra-ligero-aire-10-veces-duro-acero-1257774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/aerografeno-material-solido-7-veces-ligero-aire-duro-acero-2358643.jpg?tf=1200x' alt='Aerografeno: así es el material menos denso de la Tierra, más ligero que el aire y 10 veces más duro que el acero' />
+    <h4><a href='https://computerhoy.com/espacio/starliner-sigue-dando-problemas-nasa-podria-aplazar-misiones-importantes-1403594'>Starliner sigue dando problemas a la NASA y podría aplazar una de sus misiones más importantes</a></h4>
+    <a href='https://computerhoy.com/espacio/starliner-sigue-dando-problemas-nasa-podria-aplazar-misiones-importantes-1403594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/starliner-sigue-dando-problemas-nasa-podria-aplazar-misiones-importantes-4106236.jpg?tf=1200x' alt='Starliner sigue dando problemas a la NASA y podría aplazar una de sus misiones más importantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/hacer-cuando-google-maps-indica-direccion-incorrecta-1402142'>¿Qué hacer cuando Google Maps indica una dirección incorrecta?</a></h4>
-    <a href='https://computerhoy.com/google/hacer-cuando-google-maps-indica-direccion-incorrecta-1402142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hacer-cuando-google-maps-indica-direccion-incorrecta-4046703.jpg?tf=1200x' alt='¿Qué hacer cuando Google Maps indica una dirección incorrecta?' />
+    <h4><a href='https://computerhoy.com/pc/pc-copilot-microsoft-gran-rendimiento-pero-problemas-videojuegos-top-apps-adobe-1403539'>PC Copilot+ de Microsoft: gran rendimiento pero con problemas para videojuegos top y apps de Adobe</a></h4>
+    <a href='https://computerhoy.com/pc/pc-copilot-microsoft-gran-rendimiento-pero-problemas-videojuegos-top-apps-adobe-1403539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-presenta-copilot-pc-nueva-era-pc-ia-dos-surface-snapdragon-elite-x-3342424.jpg?tf=1200x' alt='PC Copilot+ de Microsoft: gran rendimiento pero con problemas para videojuegos top y apps de Adobe' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/asus-lanza-toda-linea-portatiles-ia-mini-pc-procesadores-intel-core-ultra-1403578'>Asus lanza toda una línea de portátiles con IA y mini PC con procesadores Intel Core Ultra</a></h4>
-    <a href='https://computerhoy.com/pc/asus-lanza-toda-linea-portatiles-ia-mini-pc-procesadores-intel-core-ultra-1403578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/asus-portatiles-zenbook-ia-4105899.jpg?tf=1200x' alt='Asus lanza toda una línea de portátiles con IA y mini PC con procesadores Intel Core Ultra' />
+    <h4><a href='https://computerhoy.com/entretenimiento/star-wars-star-trek-mejor-serie-ciencia-ficcion-amazon-prime-video-1402072'>Ni Star Trek ni Star Wars, esta es la mejor serie de ciencia ficción desde un punto de vista científico, y es de Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/star-wars-star-trek-mejor-serie-ciencia-ficcion-amazon-prime-video-1402072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejor-serie-ciencia-ficcion-punto-vista-cientifico-amazon-prime-video-4042058.jpg?tf=1200x' alt='Ni Star Trek ni Star Wars, esta es la mejor serie de ciencia ficción desde un punto de vista científico, y es de Amazon Prime Video' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desconocido-aparato-transforma-enchufe-extension-router-pone-internet-cualquier-habitacion-1403119'>Este desconocido aparato transforma tu enchufe en una extensión del router y pone internet en cualquier habitación</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desconocido-aparato-transforma-enchufe-extension-router-pone-internet-cualquier-habitacion-1403119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mercusys-mp500-kit-4090896.jpg?tf=1200x' alt='Este desconocido aparato transforma tu enchufe en una extensión del router y pone internet en cualquier habitación' />
+    <h4><a href='https://computerhoy.com/ciencia/reloj-nuclear-sera-sistema-medicion-preciso-universo-1403574'>Este reloj nuclear será el sistema de medición más preciso del Universo</a></h4>
+    <a href='https://computerhoy.com/ciencia/reloj-nuclear-sera-sistema-medicion-preciso-universo-1403574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/reloj-nuclear-sera-preciso-universo-4105897.jpg?tf=1200x' alt='Este reloj nuclear será el sistema de medición más preciso del Universo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/apple-music-ha-creado-nuevas-emisoras-musica-personalizadas-estilo-spotify-1403546'>Apple Music ha creado nuevas emisoras de música personalizadas al estilo de Spotify</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/apple-music-ha-creado-nuevas-emisoras-musica-personalizadas-estilo-spotify-1403546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-music-ha-creado-nuevas-emisoras-musica-personalizadas-estilo-spotify-4105576.jpg?tf=1200x' alt='Apple Music ha creado nuevas emisoras de música personalizadas al estilo de Spotify' />
+    <h4><a href='https://computerhoy.com/apple/iphone-16-pro-vs-iphone-16-pro-max-expertos-ano-comprate-primero-1403575'>iPhone 16 Pro vs. iPhone 16 Pro Max: según expertos este año cómprate el primero</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-16-pro-vs-iphone-16-pro-max-expertos-ano-comprate-primero-1403575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-ios-mano-4055821.jpg?tf=1200x' alt='iPhone 16 Pro vs. iPhone 16 Pro Max: según expertos este año cómprate el primero' />
     </a>
 </div>
 
