@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/correr-nadar-estos-cascos-lenovo-son-multiusos-increiblemente-baratos-1402880'>Para correr ¡y nadar! Estos cascos de Lenovo son multiusos e increíblemente baratos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/correr-nadar-estos-cascos-lenovo-son-multiusos-increiblemente-baratos-1402880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-x5-3297332.jpg?tf=1200x' alt='Para correr ¡y nadar! Estos cascos de Lenovo son multiusos e increíblemente baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/cuando-podras-comprar-iphone-16-posibles-fechas-pedidos-lanzamientos-1403524'>¿Cuándo podrás comprar el iPhone 16? Posibles fechas para pedidos y lanzamientos</a></h4>
+    <a href='https://computerhoy.com/apple/cuando-podras-comprar-iphone-16-posibles-fechas-pedidos-lanzamientos-1403524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tienda-apple-iphone-4105257.jpg?tf=1200x' alt='¿Cuándo podrás comprar el iPhone 16? Posibles fechas para pedidos y lanzamientos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/openai-problemas-tienda-llena-chatbots-generan-pornografia-ayudan-hacer-trampa-colegio-1403516'>OpenAI en problemas: su tienda se llena de chatbots que generan pornografía y ayudan a hacer trampa en el colegio</a></h4>
+    <a href='https://computerhoy.com/openai-problemas-tienda-llena-chatbots-generan-pornografia-ayudan-hacer-trampa-colegio-1403516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tienda-gpt-openai-4105103.jpg?tf=1200x' alt='OpenAI en problemas: su tienda se llena de chatbots que generan pornografía y ayudan a hacer trampa en el colegio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/qunkasaura-pintiquiniestra-nueva-especie-titanosaurio-cuenca-1403518'>Descubren una nueva especie de titanosaurio en Cuenca</a></h4>
+    <a href='https://computerhoy.com/ciencia/qunkasaura-pintiquiniestra-nueva-especie-titanosaurio-cuenca-1403518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/descubren-nueva-especie-titanosaurio-cuenca-4104801.jpg?tf=1200x' alt='Descubren una nueva especie de titanosaurio en Cuenca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/arte-tecnologia-tejido-navajo-basado-procesador-pentium-1403431'>Esto es lo que sucede cuando el arte toca a la tecnología: un tejido navajo basado en el procesador Pentium </a></h4>
     <a href='https://computerhoy.com/arte-tecnologia-tejido-navajo-basado-procesador-pentium-1403431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pentium-arte-tejido-navajo-4099965.jpg?tf=1200x' alt='Esto es lo que sucede cuando el arte toca a la tecnología: un tejido navajo basado en el procesador Pentium ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/freidora-cosori-mas-vendida-oferta-amazon-1289568'>Cosori y Amazon la lían: su freidora más top está rebajada y supera ya a toda la competencia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/freidora-cosori-mas-vendida-oferta-amazon-1289568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cosori-pro-3107770.jpg?tf=1200x' alt='Cosori y Amazon la lían: su freidora más top está rebajada y supera ya a toda la competencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-transferir-perfil-netflix-nueva-cuenta-1403396'>Cómo transferir un perfil de Netflix a una nueva cuenta</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-transferir-perfil-netflix-nueva-cuenta-1403396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-4099577.jpg?tf=1200x' alt='Cómo transferir un perfil de Netflix a una nueva cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ya-no-necesitas-teclado-raton-usar-windows-11-1403502'>Ya no necesitas teclado y ratón para usar Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/ya-no-necesitas-teclado-raton-usar-windows-11-1403502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-no-necesitas-teclado-usar-windows-11-4104497.jpg?tf=1200x' alt='Ya no necesitas teclado y ratón para usar Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-notificaciones-epic-games-pc-1403287'>Cómo desactivar las notificaciones de Epic Games en PC</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-desactivar-notificaciones-epic-games-pc-1403287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/notificaciones-epic-games-4099588.jpg?tf=1200x' alt='Cómo desactivar las notificaciones de Epic Games en PC' />
     </a>
 </div>
 
