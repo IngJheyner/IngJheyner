@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/starlink-bloquea-x-brasil-1403496'>Aunque dijo que no lo haría, Starlink cede y bloquea a X en Brasil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/starlink-bloquea-x-brasil-1403496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aunque-dijo-no-haria-starlink-cede-bloquea-x-brasil-4104343.jpg?tf=1200x' alt='Aunque dijo que no lo haría, Starlink cede y bloquea a X en Brasil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ipad-tablet-revoluciono-apple-historia-toda-informacion-1402992'>iPad, la tablet que revolucionó Apple: historia y toda la información</a></h4>
+    <a href='https://computerhoy.com/apple/ipad-tablet-revoluciono-apple-historia-toda-informacion-1402992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipad-air-m2-13-pulgadas-3502064.jpg?tf=1200x' alt='iPad, la tablet que revolucionó Apple: historia y toda la información' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/duda-resuelta-tantos-lenguajes-programacion-1272974'>¿Por qué existen tantos lenguajes de programación? La eterna duda, resuelta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/duda-resuelta-tantos-lenguajes-programacion-1272974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/duda-resuelta-existen-tantos-lenguajes-programacion-3079266.jpg?tf=1200x' alt='¿Por qué existen tantos lenguajes de programación? La eterna duda, resuelta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/movil-xiaomi-agotar-oferta-aliexpress-1286464'>Se va a agotar este Xiaomi con 5G y carga a 120W por menos de 300 euros</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-xiaomi-agotar-oferta-aliexpress-1286464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/xiaomi-redmi-note-13-pro-plus-3712085.jpg?tf=1200x' alt='Se va a agotar este Xiaomi con 5G y carga a 120W por menos de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/8-trucos-efectivos-mejorar-calidad-audio-windows-1403488'>8 trucos efectivos para mejorar la calidad de audio en Windows</a></h4>
     <a href='https://computerhoy.com/windows/8-trucos-efectivos-mejorar-calidad-audio-windows-1403488' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/8-trucos-efectivos-mejorar-calidad-audio-windows-4104050.jpg?tf=1200x' alt='8 trucos efectivos para mejorar la calidad de audio en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-no-reconoce-tarjeta-microsd-10-metodos-solucionarlo-instante-1403479'>¿Windows no reconoce tu tarjeta microSD? 10 métodos para solucionarlo al instante</a></h4>
-    <a href='https://computerhoy.com/windows/windows-no-reconoce-tarjeta-microsd-10-metodos-solucionarlo-instante-1403479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-no-reconoce-tarjeta-microsd-10-metodos-solucionarlo-instante-4103168.jpg?tf=1200x' alt='¿Windows no reconoce tu tarjeta microSD? 10 métodos para solucionarlo al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/4-comandos-linux-trabajar-archivos-texto-flujos-datos-como-profesional-1403475'>4 comandos Linux para trabajar con archivos de texto y flujos de datos como un profesional</a></h4>
-    <a href='https://computerhoy.com/tecnologia/4-comandos-linux-trabajar-archivos-texto-flujos-datos-como-profesional-1403475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/4-comandos-linux-trabajar-archivos-texto-flujos-datos-como-profesional-4102585.jpg?tf=1200x' alt='4 comandos Linux para trabajar con archivos de texto y flujos de datos como un profesional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/acer-ifa-2024-portatiles-copilot-consola-nitro-blaze-7-1403478'>Lo nuevo de Acer en IFA 2024: portátiles con Copilot+, consola Nitro Blaze 7, y mucho más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/acer-ifa-2024-portatiles-copilot-consola-nitro-blaze-7-1403478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nuevo-acer-ifa-2024-portatiles-copilot-consola-nitro-blaze-7-mucho-4101187.jpg?tf=1200x' alt='Lo nuevo de Acer en IFA 2024: portátiles con Copilot+, consola Nitro Blaze 7, y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/wifi-mesh-ventajas-como-instalar-red-tipo-1401339'>WiFi Mesh: qué es, ventajas y cómo instalar una red de este tipo</a></h4>
-    <a href='https://computerhoy.com/redes/wifi-mesh-ventajas-como-instalar-red-tipo-1401339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/d-link-covr-wifi-mesh-2136039.jpg?tf=1200x' alt='WiFi Mesh: qué es, ventajas y cómo instalar una red de este tipo' />
     </a>
 </div>
 
