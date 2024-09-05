@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-no-reconoce-tarjeta-microsd-10-metodos-solucionarlo-instante-1403479'>¿Windows no reconoce tu tarjeta microSD? 10 métodos para solucionarlo al instante</a></h4>
+    <a href='https://computerhoy.com/windows/windows-no-reconoce-tarjeta-microsd-10-metodos-solucionarlo-instante-1403479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-no-reconoce-tarjeta-microsd-10-metodos-solucionarlo-instante-4103168.jpg?tf=1200x' alt='¿Windows no reconoce tu tarjeta microSD? 10 métodos para solucionarlo al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/4-comandos-linux-trabajar-archivos-texto-flujos-datos-como-profesional-1403475'>4 comandos Linux para trabajar con archivos de texto y flujos de datos como un profesional</a></h4>
     <a href='https://computerhoy.com/tecnologia/4-comandos-linux-trabajar-archivos-texto-flujos-datos-como-profesional-1403475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/4-comandos-linux-trabajar-archivos-texto-flujos-datos-como-profesional-4102585.jpg?tf=1200x' alt='4 comandos Linux para trabajar con archivos de texto y flujos de datos como un profesional' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/rodea-buscar-te-permitira-identificar-canciones-estilo-shazam-android-15-1403472'>Rodea para buscar te permitirá identificar canciones al estilo Shazam en Android 15</a></h4>
     <a href='https://computerhoy.com/tecnologia/rodea-buscar-te-permitira-identificar-canciones-estilo-shazam-android-15-1403472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/rodea-buscar-4101785.jpg?tf=1200x' alt='Rodea para buscar te permitirá identificar canciones al estilo Shazam en Android 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/truco-definitivo-recibir-mejores-ofertas-juegos-ps5-1403464'>El truco definitivo para recibir las mejores ofertas de juegos en tu PS5</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/truco-definitivo-recibir-mejores-ofertas-juegos-ps5-1403464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/truco-definitivo-recibir-mejores-ofertas-juegos-ps5-4101638.jpg?tf=1200x' alt='El truco definitivo para recibir las mejores ofertas de juegos en tu PS5' />
     </a>
 </div>
 
