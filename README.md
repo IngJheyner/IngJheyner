@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/panasonic-ha-revelado-nueva-serie-televisiones-colaboracion-amazon-1403526'>Panasonic ha revelado su nueva serie de televisiones en colaboración con Amazon</a></h4>
-    <a href='https://computerhoy.com/amazon/panasonic-ha-revelado-nueva-serie-televisiones-colaboracion-amazon-1403526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/panasonic-ha-revelado-nueva-serie-televisiones-colaboracion-amazon-4105104.jpg?tf=1200x' alt='Panasonic ha revelado su nueva serie de televisiones en colaboración con Amazon' />
+    <h4><a href='https://computerhoy.com/ciencia/aerografeno-asi-material-menos-denso-tierra-ligero-aire-10-veces-duro-acero-1257774'>Aerografeno: así es el material menos denso de la Tierra, más ligero que el aire y 10 veces más duro que el acero</a></h4>
+    <a href='https://computerhoy.com/ciencia/aerografeno-asi-material-menos-denso-tierra-ligero-aire-10-veces-duro-acero-1257774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/aerografeno-material-solido-7-veces-ligero-aire-duro-acero-2358643.jpg?tf=1200x' alt='Aerografeno: así es el material menos denso de la Tierra, más ligero que el aire y 10 veces más duro que el acero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/10-mejores-juegos-nativos-linux-puedes-ejecutar-instalar-proton-1403479'>Los 10 mejores juegos nativos para Linux que puedes ejecutar sin instalar Proton</a></h4>
-    <a href='https://computerhoy.com/gaming/10-mejores-juegos-nativos-linux-puedes-ejecutar-instalar-proton-1403479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/10-mejores-juegos-nativos-linux-puedes-ejecutar-instalar-proton-4103756.jpg?tf=1200x' alt='Los 10 mejores juegos nativos para Linux que puedes ejecutar sin instalar Proton' />
+    <h4><a href='https://computerhoy.com/google/hacer-cuando-google-maps-indica-direccion-incorrecta-1402142'>¿Qué hacer cuando Google Maps indica una dirección incorrecta?</a></h4>
+    <a href='https://computerhoy.com/google/hacer-cuando-google-maps-indica-direccion-incorrecta-1402142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hacer-cuando-google-maps-indica-direccion-incorrecta-4046703.jpg?tf=1200x' alt='¿Qué hacer cuando Google Maps indica una dirección incorrecta?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/correr-nadar-estos-cascos-lenovo-son-multiusos-increiblemente-baratos-1402880'>Para correr ¡y nadar! Estos cascos de Lenovo son multiusos e increíblemente baratos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/correr-nadar-estos-cascos-lenovo-son-multiusos-increiblemente-baratos-1402880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-x5-3297332.jpg?tf=1200x' alt='Para correr ¡y nadar! Estos cascos de Lenovo son multiusos e increíblemente baratos' />
+    <h4><a href='https://computerhoy.com/pc/asus-lanza-toda-linea-portatiles-ia-mini-pc-procesadores-intel-core-ultra-1403578'>Asus lanza toda una línea de portátiles con IA y mini PC con procesadores Intel Core Ultra</a></h4>
+    <a href='https://computerhoy.com/pc/asus-lanza-toda-linea-portatiles-ia-mini-pc-procesadores-intel-core-ultra-1403578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/asus-portatiles-zenbook-ia-4105899.jpg?tf=1200x' alt='Asus lanza toda una línea de portátiles con IA y mini PC con procesadores Intel Core Ultra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cuando-podras-comprar-iphone-16-posibles-fechas-pedidos-lanzamientos-1403524'>¿Cuándo podrás comprar el iPhone 16? Posibles fechas para pedidos y lanzamientos</a></h4>
-    <a href='https://computerhoy.com/apple/cuando-podras-comprar-iphone-16-posibles-fechas-pedidos-lanzamientos-1403524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tienda-apple-iphone-4105257.jpg?tf=1200x' alt='¿Cuándo podrás comprar el iPhone 16? Posibles fechas para pedidos y lanzamientos' />
+    <h4><a href='https://computerhoy.com/tecnologia/desconocido-aparato-transforma-enchufe-extension-router-pone-internet-cualquier-habitacion-1403119'>Este desconocido aparato transforma tu enchufe en una extensión del router y pone internet en cualquier habitación</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desconocido-aparato-transforma-enchufe-extension-router-pone-internet-cualquier-habitacion-1403119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mercusys-mp500-kit-4090896.jpg?tf=1200x' alt='Este desconocido aparato transforma tu enchufe en una extensión del router y pone internet en cualquier habitación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/openai-problemas-tienda-llena-chatbots-generan-pornografia-ayudan-hacer-trampa-colegio-1403516'>OpenAI en problemas: su tienda se llena de chatbots que generan pornografía y ayudan a hacer trampa en el colegio</a></h4>
-    <a href='https://computerhoy.com/openai-problemas-tienda-llena-chatbots-generan-pornografia-ayudan-hacer-trampa-colegio-1403516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tienda-gpt-openai-4105103.jpg?tf=1200x' alt='OpenAI en problemas: su tienda se llena de chatbots que generan pornografía y ayudan a hacer trampa en el colegio' />
+    <h4><a href='https://computerhoy.com/entretenimiento/apple-music-ha-creado-nuevas-emisoras-musica-personalizadas-estilo-spotify-1403546'>Apple Music ha creado nuevas emisoras de música personalizadas al estilo de Spotify</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/apple-music-ha-creado-nuevas-emisoras-musica-personalizadas-estilo-spotify-1403546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-music-ha-creado-nuevas-emisoras-musica-personalizadas-estilo-spotify-4105576.jpg?tf=1200x' alt='Apple Music ha creado nuevas emisoras de música personalizadas al estilo de Spotify' />
     </a>
 </div>
 
