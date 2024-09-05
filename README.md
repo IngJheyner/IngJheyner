@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/freidora-cosori-mas-vendida-oferta-amazon-1289568'>Cosori y Amazon la lían: su freidora más top está rebajada y supera ya a toda la competencia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/freidora-cosori-mas-vendida-oferta-amazon-1289568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cosori-pro-3107770.jpg?tf=1200x' alt='Cosori y Amazon la lían: su freidora más top está rebajada y supera ya a toda la competencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ya-no-necesitas-teclado-raton-usar-windows-11-1403502'>Ya no necesitas teclado y ratón para usar Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/ya-no-necesitas-teclado-raton-usar-windows-11-1403502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-no-necesitas-teclado-usar-windows-11-4104497.jpg?tf=1200x' alt='Ya no necesitas teclado y ratón para usar Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-notificaciones-epic-games-pc-1403287'>Cómo desactivar las notificaciones de Epic Games en PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desactivar-notificaciones-epic-games-pc-1403287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/notificaciones-epic-games-4099588.jpg?tf=1200x' alt='Cómo desactivar las notificaciones de Epic Games en PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/todo-espera-keynote-apple-9-septiembre-iphone-16-apple-watch-series-x-airpods-4-1403027'>Todo lo que se espera de la keynote de Apple del 9 septiembre: iPhone 16, Apple Watch Series X, AirPods 4 y más</a></h4>
+    <a href='https://computerhoy.com/apple/todo-espera-keynote-apple-9-septiembre-iphone-16-apple-watch-series-x-airpods-4-1403027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/novedades-apple-keynote-4086663.jpg?tf=1200x' alt='Todo lo que se espera de la keynote de Apple del 9 septiembre: iPhone 16, Apple Watch Series X, AirPods 4 y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/starlink-bloquea-x-brasil-1403496'>Aunque dijo que no lo haría, Starlink cede y bloquea a X en Brasil</a></h4>
     <a href='https://computerhoy.com/tecnologia/starlink-bloquea-x-brasil-1403496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aunque-dijo-no-haria-starlink-cede-bloquea-x-brasil-4104343.jpg?tf=1200x' alt='Aunque dijo que no lo haría, Starlink cede y bloquea a X en Brasil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ipad-tablet-revoluciono-apple-historia-toda-informacion-1402992'>iPad, la tablet que revolucionó Apple: historia y toda la información</a></h4>
-    <a href='https://computerhoy.com/apple/ipad-tablet-revoluciono-apple-historia-toda-informacion-1402992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipad-air-m2-13-pulgadas-3502064.jpg?tf=1200x' alt='iPad, la tablet que revolucionó Apple: historia y toda la información' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/duda-resuelta-tantos-lenguajes-programacion-1272974'>¿Por qué existen tantos lenguajes de programación? La eterna duda, resuelta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/duda-resuelta-tantos-lenguajes-programacion-1272974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/duda-resuelta-existen-tantos-lenguajes-programacion-3079266.jpg?tf=1200x' alt='¿Por qué existen tantos lenguajes de programación? La eterna duda, resuelta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/movil-xiaomi-agotar-oferta-aliexpress-1286464'>Se va a agotar este Xiaomi con 5G y carga a 120W por menos de 300 euros</a></h4>
-    <a href='https://computerhoy.com/moviles/movil-xiaomi-agotar-oferta-aliexpress-1286464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/xiaomi-redmi-note-13-pro-plus-3712085.jpg?tf=1200x' alt='Se va a agotar este Xiaomi con 5G y carga a 120W por menos de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/8-trucos-efectivos-mejorar-calidad-audio-windows-1403488'>8 trucos efectivos para mejorar la calidad de audio en Windows</a></h4>
-    <a href='https://computerhoy.com/windows/8-trucos-efectivos-mejorar-calidad-audio-windows-1403488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/8-trucos-efectivos-mejorar-calidad-audio-windows-4104050.jpg?tf=1200x' alt='8 trucos efectivos para mejorar la calidad de audio en Windows' />
     </a>
 </div>
 
