@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ni-escoba-ni-fregona-robot-aspira-friega-colmo-limpia-solo-1403667'>Ni escoba ni fregona: este robot aspira, friega y para colmo se limpia solo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ni-escoba-ni-fregona-robot-aspira-friega-colmo-limpia-solo-1403667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dreamebot-l10s-ultra-3247999.jpg?tf=1200x' alt='Ni escoba ni fregona: este robot aspira, friega y para colmo se limpia solo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/firefox-130-ha-anadido-novedades-ia-pocos-usuarios-conocen-1403787'>Firefox 130 ha añadido novedades con IA que pocos usuarios conocen</a></h4>
+    <a href='https://computerhoy.com/pc/firefox-130-ha-anadido-novedades-ia-pocos-usuarios-conocen-1403787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/firefox-130-ha-anadido-novedades-ia-pocos-usuarios-conocen-4113134.jpg?tf=1200x' alt='Firefox 130 ha añadido novedades con IA que pocos usuarios conocen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/youtube-trabaja-nueva-funcion-saber-cancion-ha-creado-ia-1403758'>YouTube trabaja en una nueva función para saber si una canción se ha creado con IA</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-trabaja-nueva-funcion-saber-cancion-ha-creado-ia-1403758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-trabaja-nueva-funcion-saber-cancion-ha-creado-ia-4112830.jpg?tf=1200x' alt='YouTube trabaja en una nueva función para saber si una canción se ha creado con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-terror-basadas-historias-stephen-king-tal-vez-no-conozcas-1251034'>Las 7 películas de terror basadas en libros de Stephen King que tal vez no conozcas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-terror-basadas-historias-stephen-king-tal-vez-no-conozcas-1251034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ojos-gato-2756729.jpg?tf=1200x' alt='Las 7 películas de terror basadas en libros de Stephen King que tal vez no conozcas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/oppo-reno12-f-oppo-reno12-fs-dos-gama-media-potentes-funciones-inteligencia-artificial-1403768'>Oppo Reno12 F y Oppo Reno12 FS: dos gama media con potentes funciones de inteligencia artificial  </a></h4>
     <a href='https://computerhoy.com/moviles/oppo-reno12-f-oppo-reno12-fs-dos-gama-media-potentes-funciones-inteligencia-artificial-1403768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/oppo-reno12-f-oppo-reno12-fs-4112672.jpg?tf=1200x' alt='Oppo Reno12 F y Oppo Reno12 FS: dos gama media con potentes funciones de inteligencia artificial  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-podria-realizar-anuncio-oficial-switch-2-septiembre-1403752'>Nintendo podría realizar el anuncio oficial de la Switch 2 este septiembre</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-podria-realizar-anuncio-oficial-switch-2-septiembre-1403752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-podria-realizar-anuncio-oficial-switch-2-mes-septiembre-4112491.jpg?tf=1200x' alt='Nintendo podría realizar el anuncio oficial de la Switch 2 este septiembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-quiere-agotar-reloj-xiaomi-top-llamadas-gps-precio-locos-1403145'>Amazon quiere agotar el reloj Xiaomi más top: con llamadas y GPS a precio de locos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-quiere-agotar-reloj-xiaomi-top-llamadas-gps-precio-locos-1403145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-redmi-watch-4-4091230.jpg?tf=1200x' alt='Amazon quiere agotar el reloj Xiaomi más top: con llamadas y GPS a precio de locos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-intelligence-4-funciones-ia-iphone-16-cambiaran-relacion-movil-1403759'>Apple Intelligence: las 4 funciones con IA del iPhone 16 que cambiarán tu relación con el móvil</a></h4>
-    <a href='https://computerhoy.com/apple/apple-intelligence-4-funciones-ia-iphone-16-cambiaran-relacion-movil-1403759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-intelligence-siri-3656462.jpg?tf=1200x' alt='Apple Intelligence: las 4 funciones con IA del iPhone 16 que cambiarán tu relación con el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/pixel-stand-2-ha-desaparecido-google-store-pero-compania-tiene-plan-1403734'>El Pixel Stand 2 ha desaparecido de Google Store, pero la compañía tiene un plan</a></h4>
-    <a href='https://computerhoy.com/google/pixel-stand-2-ha-desaparecido-google-store-pero-compania-tiene-plan-1403734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pixel-stand-2-ha-desaparecido-google-store-pero-compania-tiene-plan-4112330.jpg?tf=1200x' alt='El Pixel Stand 2 ha desaparecido de Google Store, pero la compañía tiene un plan' />
     </a>
 </div>
 
