@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-trabajando-suscripcion-2000-euros-chatgpt-1403807'>OpenAI está trabajando en una suscripción de 2.000 euros para ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-trabajando-suscripcion-2000-euros-chatgpt-1403807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/openai-trabajando-suscripcion-2000-euros-chatgpt-4113460.jpg?tf=1200x' alt='OpenAI está trabajando en una suscripción de 2.000 euros para ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/telescopio-james-webb-descubre-algo-impensable-seis-planetas-errantes-nebulosa-cercana-1403779'>El telescopio James Webb descubre algo impensable: seis planetas errantes en una nebulosa cercana</a></h4>
     <a href='https://computerhoy.com/ciencia/telescopio-james-webb-descubre-algo-impensable-seis-planetas-errantes-nebulosa-cercana-1403779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/planetas-errantes-4113139.jpg?tf=1200x' alt='El telescopio James Webb descubre algo impensable: seis planetas errantes en una nebulosa cercana' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/como-comprobar-estado-bateria-ipad-trucos-alargar-vida-util-1403493'>Cómo comprobar el estado de la batería de tu iPad y trucos para alargar su vida útil</a></h4>
     <a href='https://computerhoy.com/apple/como-comprobar-estado-bateria-ipad-trucos-alargar-vida-util-1403493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-comprobar-estado-bateria-ipad-trucos-alargar-vida-util-4104342.jpg?tf=1200x' alt='Cómo comprobar el estado de la batería de tu iPad y trucos para alargar su vida útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ni-escoba-ni-fregona-robot-aspira-friega-colmo-limpia-solo-1403667'>Ni escoba ni fregona: este robot aspira, friega y para colmo se limpia solo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ni-escoba-ni-fregona-robot-aspira-friega-colmo-limpia-solo-1403667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dreamebot-l10s-ultra-3247999.jpg?tf=1200x' alt='Ni escoba ni fregona: este robot aspira, friega y para colmo se limpia solo' />
     </a>
 </div>
 
