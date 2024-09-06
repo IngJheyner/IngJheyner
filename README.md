@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/puede-operador-saber-estas-usando-vpn-red-wifi-1403705'>¿Puede tu operador saber si estás usando una VPN en tu red WiFi?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puede-operador-saber-estas-usando-vpn-red-wifi-1403705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/puede-operador-saber-estas-usando-vpn-red-wifi-4111296.jpg?tf=1200x' alt='¿Puede tu operador saber si estás usando una VPN en tu red WiFi?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/como-recuperar-contactos-eliminados-iphone-ordenador-instalada-nada-1403702'>Cómo recuperar contactos eliminados en tu iPhone sin ordenador y sin instalada nada</a></h4>
     <a href='https://computerhoy.com/apple/como-recuperar-contactos-eliminados-iphone-ordenador-instalada-nada-1403702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-recuperar-contactos-eliminados-iphone-ordenador-instalada-nada-4110298.jpg?tf=1200x' alt='Cómo recuperar contactos eliminados en tu iPhone sin ordenador y sin instalada nada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/colossus-superordenador-ia-elon-musk-100000-gpus-nvidia-h100-1403690'>Colossus: el superordenador de IA de Elon Musk con 100.000 GPUs Nvidia H100</a></h4>
     <a href='https://computerhoy.com/tecnologia/colossus-superordenador-ia-elon-musk-100000-gpus-nvidia-h100-1403690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xai-elon-musk-4108849.jpg?tf=1200x' alt='Colossus: el superordenador de IA de Elon Musk con 100.000 GPUs Nvidia H100' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-te-permitira-publicar-resenas-nombre-no-sea-real-1403688'>Google Maps te permitirá publicar reseñas con un nombre que no sea el real</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-te-permitira-publicar-resenas-nombre-no-sea-real-1403688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/resenas-falsas-google-maps-4108705.jpg?tf=1200x' alt='Google Maps te permitirá publicar reseñas con un nombre que no sea el real' />
     </a>
 </div>
 
