@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-google-gemini-como-app-nativa-windows-11-1403284'>Cómo utilizar Google Gemini como app nativa en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-utilizar-google-gemini-como-app-nativa-windows-11-1403284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-utilizar-google-gemini-como-app-nativa-windows-11-4096783.jpg?tf=1200x' alt='Cómo utilizar Google Gemini como app nativa en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/hacer-te-sale-mensaje-aplicacion-no-compatible-dispositivo-netflix-1403804'>Qué hacer si te sale este mensaje «Esta aplicación no es compatible con tu dispositivo» en Netflix</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacer-te-sale-mensaje-aplicacion-no-compatible-dispositivo-netflix-1403804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-4113514.jpg?tf=1200x' alt='Qué hacer si te sale este mensaje «Esta aplicación no es compatible con tu dispositivo» en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/descubre-nueva-funcion-google-maps-acaba-integrar-wear-os-hara-te-olvides-telefono-1403770'>Descubre la nueva función de Google Maps que acaba de integrar a Wear OS: hará que te olvides del teléfono</a></h4>
+    <a href='https://computerhoy.com/tecnologia/descubre-nueva-funcion-google-maps-acaba-integrar-wear-os-hara-te-olvides-telefono-1403770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/reloj-inteligente-2778923.jpg?tf=1200x' alt='Descubre la nueva función de Google Maps que acaba de integrar a Wear OS: hará que te olvides del teléfono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/openai-trabajando-suscripcion-2000-euros-chatgpt-1403807'>OpenAI está trabajando en una suscripción de 2.000 euros para ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-trabajando-suscripcion-2000-euros-chatgpt-1403807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/openai-trabajando-suscripcion-2000-euros-chatgpt-4113460.jpg?tf=1200x' alt='OpenAI está trabajando en una suscripción de 2.000 euros para ChatGPT' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/telescopio-james-webb-descubre-algo-impensable-seis-planetas-errantes-nebulosa-cercana-1403779'>El telescopio James Webb descubre algo impensable: seis planetas errantes en una nebulosa cercana</a></h4>
     <a href='https://computerhoy.com/ciencia/telescopio-james-webb-descubre-algo-impensable-seis-planetas-errantes-nebulosa-cercana-1403779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/planetas-errantes-4113139.jpg?tf=1200x' alt='El telescopio James Webb descubre algo impensable: seis planetas errantes en una nebulosa cercana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cual-diferencia-disco-duro-gpt-mbr-1403489'>Cuál es la diferencia entre un disco duro GPT y uno MBR</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cual-diferencia-disco-duro-gpt-mbr-1403489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/piezas-disco-duro-4110299.jpg?tf=1200x' alt='Cuál es la diferencia entre un disco duro GPT y uno MBR' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/steve-jobs-infancia-historia-vida-exitos-fracasos-1402099'>Steve Jobs: infancia, historia, vida, éxitos y fracasos</a></h4>
-    <a href='https://computerhoy.com/apple/steve-jobs-infancia-historia-vida-exitos-fracasos-1402099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/steve-jobs-4084324.jpg?tf=1200x' alt='Steve Jobs: infancia, historia, vida, éxitos y fracasos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-comprobar-estado-bateria-ipad-trucos-alargar-vida-util-1403493'>Cómo comprobar el estado de la batería de tu iPad y trucos para alargar su vida útil</a></h4>
-    <a href='https://computerhoy.com/apple/como-comprobar-estado-bateria-ipad-trucos-alargar-vida-util-1403493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-comprobar-estado-bateria-ipad-trucos-alargar-vida-util-4104342.jpg?tf=1200x' alt='Cómo comprobar el estado de la batería de tu iPad y trucos para alargar su vida útil' />
     </a>
 </div>
 
