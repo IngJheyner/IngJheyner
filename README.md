@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-intelligence-4-funciones-ia-iphone-16-cambiaran-relacion-movil-1403759'>Apple Intelligence: las 4 funciones con IA del iPhone 16 que cambiarán tu relación con el móvil</a></h4>
+    <a href='https://computerhoy.com/apple/apple-intelligence-4-funciones-ia-iphone-16-cambiaran-relacion-movil-1403759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-intelligence-siri-3656462.jpg?tf=1200x' alt='Apple Intelligence: las 4 funciones con IA del iPhone 16 que cambiarán tu relación con el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/pixel-stand-2-ha-desaparecido-google-store-pero-compania-tiene-plan-1403734'>El Pixel Stand 2 ha desaparecido de Google Store, pero la compañía tiene un plan</a></h4>
+    <a href='https://computerhoy.com/google/pixel-stand-2-ha-desaparecido-google-store-pero-compania-tiene-plan-1403734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pixel-stand-2-ha-desaparecido-google-store-pero-compania-tiene-plan-4112330.jpg?tf=1200x' alt='El Pixel Stand 2 ha desaparecido de Google Store, pero la compañía tiene un plan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/youtube-quiere-combatir-deepfakes-estas-herramientas-tambien-usan-ia-1403743'>YouTube quiere combatir los deepfakes con estas herramientas que también usan IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/youtube-quiere-combatir-deepfakes-estas-herramientas-tambien-usan-ia-1403743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hackeo-youtube-4008871.jpg?tf=1200x' alt='YouTube quiere combatir los deepfakes con estas herramientas que también usan IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-nothing-phone-2a-plus-movil-gama-media-sobresale-diseno-rendimiento-1403233'>He probado el Nothing Phone (2a) Plus, un móvil de gama media que sobresale en diseño y rendimiento</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-nothing-phone-2a-plus-movil-gama-media-sobresale-diseno-rendimiento-1403233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nothing-phone-2a-plus-4100056.jpg?tf=1200x' alt='He probado el Nothing Phone (2a) Plus, un móvil de gama media que sobresale en diseño y rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/autoescuela-tiene-recurrir-cinta-doble-cara-solucionar-problemas-intermitentes-tesla-1403435'>Una autoescuela tiene que recurrir a la cinta de doble cara para solucionar los problemas con los intermitentes de sus Tesla</a></h4>
     <a href='https://computerhoy.com/motor/autoescuela-tiene-recurrir-cinta-doble-cara-solucionar-problemas-intermitentes-tesla-1403435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/autoescuela-tiene-recurrir-cinta-doble-cara-solucionar-problemas-intermitentes-tesla-4100378.jpg?tf=1200x' alt='Una autoescuela tiene que recurrir a la cinta de doble cara para solucionar los problemas con los intermitentes de sus Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ceo-qualcomm-desvela-secreto-samsung-avecina-gafas-realidad-mixta-1403735'>El CEO de Qualcomm desvela el secreto de Samsung: se avecina gafas de realidad mixta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ceo-qualcomm-desvela-secreto-samsung-avecina-gafas-realidad-mixta-1403735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/gafas-samsung-4112339.jpg?tf=1200x' alt='El CEO de Qualcomm desvela el secreto de Samsung: se avecina gafas de realidad mixta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-dejado-google-fotos-siempre-alternativa-privada-vpn-estoy-usando-1402205'>He dejado Google Fotos para siempre: esta es la alternativa privada con VPN que estoy usando</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-dejado-google-fotos-siempre-alternativa-privada-vpn-estoy-usando-1402205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-drive-4048115.jpg?tf=1200x' alt='He dejado Google Fotos para siempre: esta es la alternativa privada con VPN que estoy usando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/rumor-nvidia-rtx-5090-consume-600-w-rtx-5080-400-w-1403492'>Un rumor de Nvidia afirma que la RTX 5090 consume hasta 600 W y la RTX 5080 400 W</a></h4>
-    <a href='https://computerhoy.com/rumor-nvidia-rtx-5090-consume-600-w-rtx-5080-400-w-1403492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/rtx-5090-rtx-5080-4106574.jpg?tf=1200x' alt='Un rumor de Nvidia afirma que la RTX 5090 consume hasta 600 W y la RTX 5080 400 W' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/despidete-telegram-siempre-cambia-politica-privacidad-arresto-ceo-pavel-durov-1403722'>Despídete del Telegram de siempre: cambia su política de privacidad tras el arresto de su CEO, Pavel Durov </a></h4>
-    <a href='https://computerhoy.com/apps/despidete-telegram-siempre-cambia-politica-privacidad-arresto-ceo-pavel-durov-1403722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/portada-pavel-durov-ceo-telegram-3298287.jpg?tf=1200x' alt='Despídete del Telegram de siempre: cambia su política de privacidad tras el arresto de su CEO, Pavel Durov ' />
     </a>
 </div>
 
