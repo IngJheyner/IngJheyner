@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/autoescuela-tiene-recurrir-cinta-doble-cara-solucionar-problemas-intermitentes-tesla-1403435'>Una autoescuela tiene que recurrir a la cinta de doble cara para solucionar los problemas con los intermitentes de sus Tesla</a></h4>
+    <a href='https://computerhoy.com/motor/autoescuela-tiene-recurrir-cinta-doble-cara-solucionar-problemas-intermitentes-tesla-1403435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/autoescuela-tiene-recurrir-cinta-doble-cara-solucionar-problemas-intermitentes-tesla-4100378.jpg?tf=1200x' alt='Una autoescuela tiene que recurrir a la cinta de doble cara para solucionar los problemas con los intermitentes de sus Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ceo-qualcomm-desvela-secreto-samsung-avecina-gafas-realidad-mixta-1403735'>El CEO de Qualcomm desvela el secreto de Samsung: se avecina gafas de realidad mixta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ceo-qualcomm-desvela-secreto-samsung-avecina-gafas-realidad-mixta-1403735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/gafas-samsung-4112339.jpg?tf=1200x' alt='El CEO de Qualcomm desvela el secreto de Samsung: se avecina gafas de realidad mixta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/he-dejado-google-fotos-siempre-alternativa-privada-vpn-estoy-usando-1402205'>He dejado Google Fotos para siempre: esta es la alternativa privada con VPN que estoy usando</a></h4>
     <a href='https://computerhoy.com/tecnologia/he-dejado-google-fotos-siempre-alternativa-privada-vpn-estoy-usando-1402205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-drive-4048115.jpg?tf=1200x' alt='He dejado Google Fotos para siempre: esta es la alternativa privada con VPN que estoy usando' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/despidete-telegram-siempre-cambia-politica-privacidad-arresto-ceo-pavel-durov-1403722'>Despídete del Telegram de siempre: cambia su política de privacidad tras el arresto de su CEO, Pavel Durov </a></h4>
     <a href='https://computerhoy.com/apps/despidete-telegram-siempre-cambia-politica-privacidad-arresto-ceo-pavel-durov-1403722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/portada-pavel-durov-ceo-telegram-3298287.jpg?tf=1200x' alt='Despídete del Telegram de siempre: cambia su política de privacidad tras el arresto de su CEO, Pavel Durov ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hinsense-calienta-motores-ifa-2024-smart-tv-electrodomesticos-presenta-1403718'>Hisense calienta motores para IFA 2024: desde Smart TV hasta electrodomésticos, esto es lo que presenta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hinsense-calienta-motores-ifa-2024-smart-tv-electrodomesticos-presenta-1403718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hisense-novedades-ifa-2024-4112029.jpg?tf=1200x' alt='Hisense calienta motores para IFA 2024: desde Smart TV hasta electrodomésticos, esto es lo que presenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/lenovo-desvela-gama-portatiles-ia-oled-empresa-hogar-1403721'>Lenovo desvela su gama de portátiles con IA y OLED para la empresa y el hogar</a></h4>
-    <a href='https://computerhoy.com/pc/lenovo-desvela-gama-portatiles-ia-oled-empresa-hogar-1403721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lenovo-desvela-gama-portatiles-ia-empresa-casa-4111438.jpg?tf=1200x' alt='Lenovo desvela su gama de portátiles con IA y OLED para la empresa y el hogar' />
     </a>
 </div>
 
