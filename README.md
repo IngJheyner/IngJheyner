@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/oppo-reno12-f-oppo-reno12-fs-dos-gama-media-potentes-funciones-inteligencia-artificial-1403768'>Oppo Reno12 F y Oppo Reno12 FS: dos gama media con potentes funciones de inteligencia artificial  </a></h4>
+    <a href='https://computerhoy.com/moviles/oppo-reno12-f-oppo-reno12-fs-dos-gama-media-potentes-funciones-inteligencia-artificial-1403768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/oppo-reno12-f-oppo-reno12-fs-4112672.jpg?tf=1200x' alt='Oppo Reno12 F y Oppo Reno12 FS: dos gama media con potentes funciones de inteligencia artificial  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-podria-realizar-anuncio-oficial-switch-2-septiembre-1403752'>Nintendo podría realizar el anuncio oficial de la Switch 2 este septiembre</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-podria-realizar-anuncio-oficial-switch-2-septiembre-1403752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-podria-realizar-anuncio-oficial-switch-2-mes-septiembre-4112491.jpg?tf=1200x' alt='Nintendo podría realizar el anuncio oficial de la Switch 2 este septiembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-quiere-agotar-reloj-xiaomi-top-llamadas-gps-precio-locos-1403145'>Amazon quiere agotar el reloj Xiaomi más top: con llamadas y GPS a precio de locos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-quiere-agotar-reloj-xiaomi-top-llamadas-gps-precio-locos-1403145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-redmi-watch-4-4091230.jpg?tf=1200x' alt='Amazon quiere agotar el reloj Xiaomi más top: con llamadas y GPS a precio de locos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-intelligence-4-funciones-ia-iphone-16-cambiaran-relacion-movil-1403759'>Apple Intelligence: las 4 funciones con IA del iPhone 16 que cambiarán tu relación con el móvil</a></h4>
     <a href='https://computerhoy.com/apple/apple-intelligence-4-funciones-ia-iphone-16-cambiaran-relacion-movil-1403759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-intelligence-siri-3656462.jpg?tf=1200x' alt='Apple Intelligence: las 4 funciones con IA del iPhone 16 que cambiarán tu relación con el móvil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/pixel-stand-2-ha-desaparecido-google-store-pero-compania-tiene-plan-1403734'>El Pixel Stand 2 ha desaparecido de Google Store, pero la compañía tiene un plan</a></h4>
     <a href='https://computerhoy.com/google/pixel-stand-2-ha-desaparecido-google-store-pero-compania-tiene-plan-1403734' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pixel-stand-2-ha-desaparecido-google-store-pero-compania-tiene-plan-4112330.jpg?tf=1200x' alt='El Pixel Stand 2 ha desaparecido de Google Store, pero la compañía tiene un plan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/youtube-quiere-combatir-deepfakes-estas-herramientas-tambien-usan-ia-1403743'>YouTube quiere combatir los deepfakes con estas herramientas que también usan IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/youtube-quiere-combatir-deepfakes-estas-herramientas-tambien-usan-ia-1403743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hackeo-youtube-4008871.jpg?tf=1200x' alt='YouTube quiere combatir los deepfakes con estas herramientas que también usan IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-nothing-phone-2a-plus-movil-gama-media-sobresale-diseno-rendimiento-1403233'>He probado el Nothing Phone (2a) Plus, un móvil de gama media que sobresale en diseño y rendimiento</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-nothing-phone-2a-plus-movil-gama-media-sobresale-diseno-rendimiento-1403233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nothing-phone-2a-plus-4100056.jpg?tf=1200x' alt='He probado el Nothing Phone (2a) Plus, un móvil de gama media que sobresale en diseño y rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/autoescuela-tiene-recurrir-cinta-doble-cara-solucionar-problemas-intermitentes-tesla-1403435'>Una autoescuela tiene que recurrir a la cinta de doble cara para solucionar los problemas con los intermitentes de sus Tesla</a></h4>
-    <a href='https://computerhoy.com/motor/autoescuela-tiene-recurrir-cinta-doble-cara-solucionar-problemas-intermitentes-tesla-1403435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/autoescuela-tiene-recurrir-cinta-doble-cara-solucionar-problemas-intermitentes-tesla-4100378.jpg?tf=1200x' alt='Una autoescuela tiene que recurrir a la cinta de doble cara para solucionar los problemas con los intermitentes de sus Tesla' />
     </a>
 </div>
 
