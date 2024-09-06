@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/he-dejado-google-fotos-siempre-alternativa-privada-vpn-estoy-usando-1402205'>He dejado Google Fotos para siempre: esta es la alternativa privada con VPN que estoy usando</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-dejado-google-fotos-siempre-alternativa-privada-vpn-estoy-usando-1402205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-drive-4048115.jpg?tf=1200x' alt='He dejado Google Fotos para siempre: esta es la alternativa privada con VPN que estoy usando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/rumor-nvidia-rtx-5090-consume-600-w-rtx-5080-400-w-1403492'>Un rumor de Nvidia afirma que la RTX 5090 consume hasta 600 W y la RTX 5080 400 W</a></h4>
+    <a href='https://computerhoy.com/rumor-nvidia-rtx-5090-consume-600-w-rtx-5080-400-w-1403492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/rtx-5090-rtx-5080-4106574.jpg?tf=1200x' alt='Un rumor de Nvidia afirma que la RTX 5090 consume hasta 600 W y la RTX 5080 400 W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/despidete-telegram-siempre-cambia-politica-privacidad-arresto-ceo-pavel-durov-1403722'>Despídete del Telegram de siempre: cambia su política de privacidad tras el arresto de su CEO, Pavel Durov </a></h4>
+    <a href='https://computerhoy.com/apps/despidete-telegram-siempre-cambia-politica-privacidad-arresto-ceo-pavel-durov-1403722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/portada-pavel-durov-ceo-telegram-3298287.jpg?tf=1200x' alt='Despídete del Telegram de siempre: cambia su política de privacidad tras el arresto de su CEO, Pavel Durov ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hinsense-calienta-motores-ifa-2024-smart-tv-electrodomesticos-presenta-1403718'>Hisense calienta motores para IFA 2024: desde Smart TV hasta electrodomésticos, esto es lo que presenta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hinsense-calienta-motores-ifa-2024-smart-tv-electrodomesticos-presenta-1403718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hisense-novedades-ifa-2024-4112029.jpg?tf=1200x' alt='Hisense calienta motores para IFA 2024: desde Smart TV hasta electrodomésticos, esto es lo que presenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/lenovo-desvela-gama-portatiles-ia-oled-empresa-hogar-1403721'>Lenovo desvela su gama de portátiles con IA y OLED para la empresa y el hogar</a></h4>
     <a href='https://computerhoy.com/pc/lenovo-desvela-gama-portatiles-ia-oled-empresa-hogar-1403721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lenovo-desvela-gama-portatiles-ia-empresa-casa-4111438.jpg?tf=1200x' alt='Lenovo desvela su gama de portátiles con IA y OLED para la empresa y el hogar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/todo-ring-rechazo-television-exito-compra-amazon-1402451'>Todo sobre Ring: del rechazo en la televisión al éxito y la compra de Amazon</a></h4>
-    <a href='https://computerhoy.com/hogar/todo-ring-rechazo-television-exito-compra-amazon-1402451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/amazon-ring-4056970.jpg?tf=1200x' alt='Todo sobre Ring: del rechazo en la televisión al éxito y la compra de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-mejor-kindle-oferta-amazon-1376854'>Esta tablet es mejor que un Kindle, sobre todo para estudiar: tiene tinta electrónica y lápiz táctil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-mejor-kindle-oferta-amazon-1376854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/boox-note-air3-monochrome-3295234.jpg?tf=1200x' alt='Esta tablet es mejor que un Kindle, sobre todo para estudiar: tiene tinta electrónica y lápiz táctil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nunca-recuerdas-nombre-gente-ciencia-tiene-respuesta-1403542'>¿Por qué nunca recuerdas el nombre de la gente? La ciencia tiene la respuesta</a></h4>
-    <a href='https://computerhoy.com/life/nunca-recuerdas-nombre-gente-ciencia-tiene-respuesta-1403542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/memoria-4105594.jpg?tf=1200x' alt='¿Por qué nunca recuerdas el nombre de la gente? La ciencia tiene la respuesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/me-ha-encantado-nubia-z60-ultra-encontrar-diseno-diferente-demas-moviles-1402498'>Lo que me ha encantado del Nubia Z60 Ultra es encontrar un diseño diferente a los demás móviles</a></h4>
-    <a href='https://computerhoy.com/moviles/me-ha-encantado-nubia-z60-ultra-encontrar-diseno-diferente-demas-moviles-1402498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nubia-z60-ultra-4057285.jpg?tf=1200x' alt='Lo que me ha encantado del Nubia Z60 Ultra es encontrar un diseño diferente a los demás móviles' />
     </a>
 </div>
 
