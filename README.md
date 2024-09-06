@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/telescopio-james-webb-descubre-algo-impensable-seis-planetas-errantes-nebulosa-cercana-1403779'>El telescopio James Webb descubre algo impensable: seis planetas errantes en una nebulosa cercana</a></h4>
+    <a href='https://computerhoy.com/ciencia/telescopio-james-webb-descubre-algo-impensable-seis-planetas-errantes-nebulosa-cercana-1403779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/planetas-errantes-4113139.jpg?tf=1200x' alt='El telescopio James Webb descubre algo impensable: seis planetas errantes en una nebulosa cercana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cual-diferencia-disco-duro-gpt-mbr-1403489'>Cuál es la diferencia entre un disco duro GPT y uno MBR</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cual-diferencia-disco-duro-gpt-mbr-1403489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/piezas-disco-duro-4110299.jpg?tf=1200x' alt='Cuál es la diferencia entre un disco duro GPT y uno MBR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/steve-jobs-infancia-historia-vida-exitos-fracasos-1402099'>Steve Jobs: infancia, historia, vida, éxitos y fracasos</a></h4>
     <a href='https://computerhoy.com/apple/steve-jobs-infancia-historia-vida-exitos-fracasos-1402099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/steve-jobs-4084324.jpg?tf=1200x' alt='Steve Jobs: infancia, historia, vida, éxitos y fracasos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ni-escoba-ni-fregona-robot-aspira-friega-colmo-limpia-solo-1403667'>Ni escoba ni fregona: este robot aspira, friega y para colmo se limpia solo</a></h4>
     <a href='https://computerhoy.com/tecnologia/ni-escoba-ni-fregona-robot-aspira-friega-colmo-limpia-solo-1403667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dreamebot-l10s-ultra-3247999.jpg?tf=1200x' alt='Ni escoba ni fregona: este robot aspira, friega y para colmo se limpia solo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/firefox-130-ha-anadido-novedades-ia-pocos-usuarios-conocen-1403787'>Firefox 130 ha añadido novedades con IA que pocos usuarios conocen</a></h4>
-    <a href='https://computerhoy.com/pc/firefox-130-ha-anadido-novedades-ia-pocos-usuarios-conocen-1403787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/firefox-130-ha-anadido-novedades-ia-pocos-usuarios-conocen-4113134.jpg?tf=1200x' alt='Firefox 130 ha añadido novedades con IA que pocos usuarios conocen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-trabaja-nueva-funcion-saber-cancion-ha-creado-ia-1403758'>YouTube trabaja en una nueva función para saber si una canción se ha creado con IA</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-trabaja-nueva-funcion-saber-cancion-ha-creado-ia-1403758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-trabaja-nueva-funcion-saber-cancion-ha-creado-ia-4112830.jpg?tf=1200x' alt='YouTube trabaja en una nueva función para saber si una canción se ha creado con IA' />
     </a>
 </div>
 
