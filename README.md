@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/motivo-seguridad-expertos-recomiendan-eliminar-contactos-antiguos-whatsapp-1403208'>Este es el motivo de seguridad por el que los expertos recomiendan eliminar contactos antiguos de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/motivo-seguridad-expertos-recomiendan-eliminar-contactos-antiguos-whatsapp-1403208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-actualiza-novedades-meta-ai-mayores-opciones-personalizacion-3948489.jpg?tf=1200x' alt='Este es el motivo de seguridad por el que los expertos recomiendan eliminar contactos antiguos de WhatsApp' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-moviles-estrena-borradores-facilitar-gestion-chats-pendientes-1403875'>WhatsApp en móviles estrena borradores para facilitar la gestión de chats pendientes</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-moviles-estrena-borradores-facilitar-gestion-chats-pendientes-1403875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-estrena-borradores-facilitar-gestion-chats-pendientes-4116051.jpg?tf=1200x' alt='WhatsApp en móviles estrena borradores para facilitar la gestión de chats pendientes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/airtag-tienen-duro-rival-samsung-vende-localizador-igual-bueno-mucho-barato-1403797'>Los AirTag tienen un duro rival: Samsung vende un localizador igual de bueno y mucho más barato</a></h4>
-    <a href='https://computerhoy.com/android/airtag-tienen-duro-rival-samsung-vende-localizador-igual-bueno-mucho-barato-1403797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-smarttag2-4113300.jpg?tf=1200x' alt='Los AirTag tienen un duro rival: Samsung vende un localizador igual de bueno y mucho más barato' />
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-tecnica-revolucionaria-hacer-piel-transparente-colorante-alimentario-1403874'>Científicos descubren técnica revolucionaria para hacer la piel transparente con colorante alimentario</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-descubren-tecnica-revolucionaria-hacer-piel-transparente-colorante-alimentario-1403874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/piel-transparente-4116049.jpg?tf=1200x' alt='Científicos descubren técnica revolucionaria para hacer la piel transparente con colorante alimentario' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dormir-peor-deprimirte-reacciona-cuerpo-dias-cada-vez-sean-cortos-1403335'>Desde dormir peor a deprimirte más: así reacciona tu cuerpo a que los días cada vez sean más cortos</a></h4>
-    <a href='https://computerhoy.com/life/dormir-peor-deprimirte-reacciona-cuerpo-dias-cada-vez-sean-cortos-1403335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dormir-peor-deprimirte-reacciona-cuerpo-dias-cada-vez-sean-cortos-4098125.jpg?tf=1200x' alt='Desde dormir peor a deprimirte más: así reacciona tu cuerpo a que los días cada vez sean más cortos' />
+    <h4><a href='https://computerhoy.com/apple/funcion-ecg-apple-watch-detecta-ritmo-cardiaco-irregular-salva-dos-vidas-1403872'>La función de ECG del Apple Watch detecta un ritmo cardíaco irregular y salva dos vidas</a></h4>
+    <a href='https://computerhoy.com/apple/funcion-ecg-apple-watch-detecta-ritmo-cardiaco-irregular-salva-dos-vidas-1403872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-watch-4116047.jpg?tf=1200x' alt='La función de ECG del Apple Watch detecta un ritmo cardíaco irregular y salva dos vidas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-google-gemini-como-app-nativa-windows-11-1403284'>Cómo utilizar Google Gemini como app nativa en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-utilizar-google-gemini-como-app-nativa-windows-11-1403284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-utilizar-google-gemini-como-app-nativa-windows-11-4096783.jpg?tf=1200x' alt='Cómo utilizar Google Gemini como app nativa en Windows 11' />
+    <h4><a href='https://computerhoy.com/gaming/doom-consigue-otro-hito-ya-funciona-cupula-holografica-3d-1403871'>Doom consigue otro hito: ya funciona en una cúpula holográfica en 3D</a></h4>
+    <a href='https://computerhoy.com/gaming/doom-consigue-otro-hito-ya-funciona-cupula-holografica-3d-1403871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/doom-consigue-otro-hito-ya-funciona-cupula-holografica-3d-4115612.jpg?tf=1200x' alt='Doom consigue otro hito: ya funciona en una cúpula holográfica en 3D' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hacer-te-sale-mensaje-aplicacion-no-compatible-dispositivo-netflix-1403804'>Qué hacer si te sale este mensaje «Esta aplicación no es compatible con tu dispositivo» en Netflix</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hacer-te-sale-mensaje-aplicacion-no-compatible-dispositivo-netflix-1403804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-4113514.jpg?tf=1200x' alt='Qué hacer si te sale este mensaje «Esta aplicación no es compatible con tu dispositivo» en Netflix' />
+    <h4><a href='https://computerhoy.com/hogar/philips-hue-sistema-iluminacion-inteligente-completo-como-usarlo-correctamente-1397463'>Qué es Philips Hue, el sistema de iluminación inteligente más completo, y cómo usarlo correctamente</a></h4>
+    <a href='https://computerhoy.com/hogar/philips-hue-sistema-iluminacion-inteligente-completo-como-usarlo-correctamente-1397463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/philips-hue-luz-inteligente-bombilla-3812214.jpg?tf=1200x' alt='Qué es Philips Hue, el sistema de iluminación inteligente más completo, y cómo usarlo correctamente' />
     </a>
 </div>
 
