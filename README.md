@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/avm-presenta-nuevos-dispositivos-fritz-fibra-optica-5g-wifi-7-hogar-inteligente-1403701'>AVM presenta nuevos dispositivos Fritz! para la fibra óptica, 5G, WiFi 7 y el hogar inteligente</a></h4>
+    <a href='https://computerhoy.com/internet/avm-presenta-nuevos-dispositivos-fritz-fibra-optica-5g-wifi-7-hogar-inteligente-1403701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/avm-presenta-nuevos-dispositivos-fritz-fibra-optica-5g-wifi-7-hogar-inteligente-4109431.jpg?tf=1200x' alt='AVM presenta nuevos dispositivos Fritz! para la fibra óptica, 5G, WiFi 7 y el hogar inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-reloj-gps-alternativa-garmin-oferta-amazon-1289666'>Xiaomi no tiene que temer a Garmin: vende un reloj con GPS perfecto para correr a precio de saldo en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-reloj-gps-alternativa-garmin-oferta-amazon-1289666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/review-xiaomi-watch-s1-active-2687363.jpg?tf=1200x' alt='Xiaomi no tiene que temer a Garmin: vende un reloj con GPS perfecto para correr a precio de saldo en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/funcion-oculta-conexiones-hdmi-smart-tv-deberias-activar-1259924'>Esta es la función oculta de las conexiones HDMI de tu Smart TV que deberías activar ya</a></h4>
+    <a href='https://computerhoy.com/tv/funcion-oculta-conexiones-hdmi-smart-tv-deberias-activar-1259924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mando-aire-acondicionado-infrarrojo-3056488.jpg?tf=1200x' alt='Esta es la función oculta de las conexiones HDMI de tu Smart TV que deberías activar ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/puede-operador-saber-estas-usando-vpn-red-wifi-1403705'>¿Puede tu operador saber si estás usando una VPN en tu red WiFi?</a></h4>
     <a href='https://computerhoy.com/tecnologia/puede-operador-saber-estas-usando-vpn-red-wifi-1403705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/puede-operador-saber-estas-usando-vpn-red-wifi-4111296.jpg?tf=1200x' alt='¿Puede tu operador saber si estás usando una VPN en tu red WiFi?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/como-recuperar-contactos-eliminados-iphone-ordenador-instalada-nada-1403702'>Cómo recuperar contactos eliminados en tu iPhone sin ordenador y sin instalada nada</a></h4>
     <a href='https://computerhoy.com/apple/como-recuperar-contactos-eliminados-iphone-ordenador-instalada-nada-1403702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-recuperar-contactos-eliminados-iphone-ordenador-instalada-nada-4110298.jpg?tf=1200x' alt='Cómo recuperar contactos eliminados en tu iPhone sin ordenador y sin instalada nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-gratis-utiliza-ia-anadir-subtitulos-videos-automaticamente-1403694'>Esta app es gratis y utiliza IA para añadir subtítulos a tus vídeos automáticamente</a></h4>
-    <a href='https://computerhoy.com/apps/app-gratis-utiliza-ia-anadir-subtitulos-videos-automaticamente-1403694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/app-gratis-utiliza-ia-anadir-subtitulos-videos-automaticamente-4109732.jpg?tf=1200x' alt='Esta app es gratis y utiliza IA para añadir subtítulos a tus vídeos automáticamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bluetooth-60-promete-mejoras-proteger-llaves-coche-encontrar-dispositivos-1403695'>Bluetooth 6.0 promete mejoras para proteger las llaves del coche y encontrar dispositivos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bluetooth-60-promete-mejoras-proteger-llaves-coche-encontrar-dispositivos-1403695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bluetooh-60-ya-aqui-mejoras-hora-encontrar-dispositivos-proteger-coche-4108559.jpg?tf=1200x' alt='Bluetooth 6.0 promete mejoras para proteger las llaves del coche y encontrar dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/colossus-superordenador-ia-elon-musk-100000-gpus-nvidia-h100-1403690'>Colossus: el superordenador de IA de Elon Musk con 100.000 GPUs Nvidia H100</a></h4>
-    <a href='https://computerhoy.com/tecnologia/colossus-superordenador-ia-elon-musk-100000-gpus-nvidia-h100-1403690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xai-elon-musk-4108849.jpg?tf=1200x' alt='Colossus: el superordenador de IA de Elon Musk con 100.000 GPUs Nvidia H100' />
     </a>
 </div>
 
