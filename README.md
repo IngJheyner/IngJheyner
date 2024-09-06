@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/lenovo-desvela-gama-portatiles-ia-oled-empresa-hogar-1403721'>Lenovo desvela su gama de portátiles con IA y OLED para la empresa y el hogar</a></h4>
+    <a href='https://computerhoy.com/pc/lenovo-desvela-gama-portatiles-ia-oled-empresa-hogar-1403721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lenovo-desvela-gama-portatiles-ia-empresa-casa-4111438.jpg?tf=1200x' alt='Lenovo desvela su gama de portátiles con IA y OLED para la empresa y el hogar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/todo-ring-rechazo-television-exito-compra-amazon-1402451'>Todo sobre Ring: del rechazo en la televisión al éxito y la compra de Amazon</a></h4>
+    <a href='https://computerhoy.com/hogar/todo-ring-rechazo-television-exito-compra-amazon-1402451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/amazon-ring-4056970.jpg?tf=1200x' alt='Todo sobre Ring: del rechazo en la televisión al éxito y la compra de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tablet-mejor-kindle-oferta-amazon-1376854'>Esta tablet es mejor que un Kindle, sobre todo para estudiar: tiene tinta electrónica y lápiz táctil</a></h4>
     <a href='https://computerhoy.com/tecnologia/tablet-mejor-kindle-oferta-amazon-1376854' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/boox-note-air3-monochrome-3295234.jpg?tf=1200x' alt='Esta tablet es mejor que un Kindle, sobre todo para estudiar: tiene tinta electrónica y lápiz táctil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/me-ha-encantado-nubia-z60-ultra-encontrar-diseno-diferente-demas-moviles-1402498'>Lo que me ha encantado del Nubia Z60 Ultra es encontrar un diseño diferente a los demás móviles</a></h4>
     <a href='https://computerhoy.com/moviles/me-ha-encantado-nubia-z60-ultra-encontrar-diseno-diferente-demas-moviles-1402498' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nubia-z60-ultra-4057285.jpg?tf=1200x' alt='Lo que me ha encantado del Nubia Z60 Ultra es encontrar un diseño diferente a los demás móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/avm-presenta-nuevos-dispositivos-fritz-fibra-optica-5g-wifi-7-hogar-inteligente-1403701'>AVM presenta nuevos dispositivos Fritz! para la fibra óptica, 5G, WiFi 7 y el hogar inteligente</a></h4>
-    <a href='https://computerhoy.com/internet/avm-presenta-nuevos-dispositivos-fritz-fibra-optica-5g-wifi-7-hogar-inteligente-1403701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/avm-presenta-nuevos-dispositivos-fritz-fibra-optica-5g-wifi-7-hogar-inteligente-4109431.jpg?tf=1200x' alt='AVM presenta nuevos dispositivos Fritz! para la fibra óptica, 5G, WiFi 7 y el hogar inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/funcion-oculta-conexiones-hdmi-smart-tv-deberias-activar-1259924'>Esta es la función oculta de las conexiones HDMI de tu Smart TV que deberías activar ya</a></h4>
-    <a href='https://computerhoy.com/tv/funcion-oculta-conexiones-hdmi-smart-tv-deberias-activar-1259924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mando-aire-acondicionado-infrarrojo-3056488.jpg?tf=1200x' alt='Esta es la función oculta de las conexiones HDMI de tu Smart TV que deberías activar ya' />
     </a>
 </div>
 
