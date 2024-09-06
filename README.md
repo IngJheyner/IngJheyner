@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/steve-jobs-infancia-historia-vida-exitos-fracasos-1402099'>Steve Jobs: infancia, historia, vida, éxitos y fracasos</a></h4>
+    <a href='https://computerhoy.com/apple/steve-jobs-infancia-historia-vida-exitos-fracasos-1402099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/steve-jobs-4084324.jpg?tf=1200x' alt='Steve Jobs: infancia, historia, vida, éxitos y fracasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/como-comprobar-estado-bateria-ipad-trucos-alargar-vida-util-1403493'>Cómo comprobar el estado de la batería de tu iPad y trucos para alargar su vida útil</a></h4>
+    <a href='https://computerhoy.com/apple/como-comprobar-estado-bateria-ipad-trucos-alargar-vida-util-1403493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-comprobar-estado-bateria-ipad-trucos-alargar-vida-util-4104342.jpg?tf=1200x' alt='Cómo comprobar el estado de la batería de tu iPad y trucos para alargar su vida útil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ni-escoba-ni-fregona-robot-aspira-friega-colmo-limpia-solo-1403667'>Ni escoba ni fregona: este robot aspira, friega y para colmo se limpia solo</a></h4>
     <a href='https://computerhoy.com/tecnologia/ni-escoba-ni-fregona-robot-aspira-friega-colmo-limpia-solo-1403667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dreamebot-l10s-ultra-3247999.jpg?tf=1200x' alt='Ni escoba ni fregona: este robot aspira, friega y para colmo se limpia solo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/youtube-trabaja-nueva-funcion-saber-cancion-ha-creado-ia-1403758'>YouTube trabaja en una nueva función para saber si una canción se ha creado con IA</a></h4>
     <a href='https://computerhoy.com/apps/youtube-trabaja-nueva-funcion-saber-cancion-ha-creado-ia-1403758' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-trabaja-nueva-funcion-saber-cancion-ha-creado-ia-4112830.jpg?tf=1200x' alt='YouTube trabaja en una nueva función para saber si una canción se ha creado con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-terror-basadas-historias-stephen-king-tal-vez-no-conozcas-1251034'>Las 7 películas de terror basadas en libros de Stephen King que tal vez no conozcas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-terror-basadas-historias-stephen-king-tal-vez-no-conozcas-1251034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ojos-gato-2756729.jpg?tf=1200x' alt='Las 7 películas de terror basadas en libros de Stephen King que tal vez no conozcas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oppo-reno12-f-oppo-reno12-fs-dos-gama-media-potentes-funciones-inteligencia-artificial-1403768'>Oppo Reno12 F y Oppo Reno12 FS: dos gama media con potentes funciones de inteligencia artificial  </a></h4>
-    <a href='https://computerhoy.com/moviles/oppo-reno12-f-oppo-reno12-fs-dos-gama-media-potentes-funciones-inteligencia-artificial-1403768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/oppo-reno12-f-oppo-reno12-fs-4112672.jpg?tf=1200x' alt='Oppo Reno12 F y Oppo Reno12 FS: dos gama media con potentes funciones de inteligencia artificial  ' />
     </a>
 </div>
 
