@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatiles-mas-sorprendentes-ifa-2024-1403878'>Los dos portátiles que más me han sorprendido en IFA 2024</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatiles-mas-sorprendentes-ifa-2024-1403878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1725658934055-4116627.jpg?tf=1200x' alt='Los dos portátiles que más me han sorprendido en IFA 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-moviles-estrena-borradores-facilitar-gestion-chats-pendientes-1403875'>WhatsApp en móviles estrena borradores para facilitar la gestión de chats pendientes</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-moviles-estrena-borradores-facilitar-gestion-chats-pendientes-1403875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-estrena-borradores-facilitar-gestion-chats-pendientes-4116051.jpg?tf=1200x' alt='WhatsApp en móviles estrena borradores para facilitar la gestión de chats pendientes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/doom-consigue-otro-hito-ya-funciona-cupula-holografica-3d-1403871'>Doom consigue otro hito: ya funciona en una cúpula holográfica en 3D</a></h4>
     <a href='https://computerhoy.com/gaming/doom-consigue-otro-hito-ya-funciona-cupula-holografica-3d-1403871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/doom-consigue-otro-hito-ya-funciona-cupula-holografica-3d-4115612.jpg?tf=1200x' alt='Doom consigue otro hito: ya funciona en una cúpula holográfica en 3D' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/philips-hue-sistema-iluminacion-inteligente-completo-como-usarlo-correctamente-1397463'>Qué es Philips Hue, el sistema de iluminación inteligente más completo, y cómo usarlo correctamente</a></h4>
-    <a href='https://computerhoy.com/hogar/philips-hue-sistema-iluminacion-inteligente-completo-como-usarlo-correctamente-1397463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/philips-hue-luz-inteligente-bombilla-3812214.jpg?tf=1200x' alt='Qué es Philips Hue, el sistema de iluminación inteligente más completo, y cómo usarlo correctamente' />
     </a>
 </div>
 
