@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/airtag-tienen-duro-rival-samsung-vende-localizador-igual-bueno-mucho-barato-1403797'>Los AirTag tienen un duro rival: Samsung vende un localizador igual de bueno y mucho más barato</a></h4>
+    <a href='https://computerhoy.com/android/airtag-tienen-duro-rival-samsung-vende-localizador-igual-bueno-mucho-barato-1403797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-smarttag2-4113300.jpg?tf=1200x' alt='Los AirTag tienen un duro rival: Samsung vende un localizador igual de bueno y mucho más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/dormir-peor-deprimirte-reacciona-cuerpo-dias-cada-vez-sean-cortos-1403335'>Desde dormir peor a deprimirte más: así reacciona tu cuerpo a que los días cada vez sean más cortos</a></h4>
+    <a href='https://computerhoy.com/life/dormir-peor-deprimirte-reacciona-cuerpo-dias-cada-vez-sean-cortos-1403335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dormir-peor-deprimirte-reacciona-cuerpo-dias-cada-vez-sean-cortos-4098125.jpg?tf=1200x' alt='Desde dormir peor a deprimirte más: así reacciona tu cuerpo a que los días cada vez sean más cortos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-google-gemini-como-app-nativa-windows-11-1403284'>Cómo utilizar Google Gemini como app nativa en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-utilizar-google-gemini-como-app-nativa-windows-11-1403284' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-utilizar-google-gemini-como-app-nativa-windows-11-4096783.jpg?tf=1200x' alt='Cómo utilizar Google Gemini como app nativa en Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/descubre-nueva-funcion-google-maps-acaba-integrar-wear-os-hara-te-olvides-telefono-1403770'>Descubre la nueva función de Google Maps que acaba de integrar a Wear OS: hará que te olvides del teléfono</a></h4>
     <a href='https://computerhoy.com/tecnologia/descubre-nueva-funcion-google-maps-acaba-integrar-wear-os-hara-te-olvides-telefono-1403770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/reloj-inteligente-2778923.jpg?tf=1200x' alt='Descubre la nueva función de Google Maps que acaba de integrar a Wear OS: hará que te olvides del teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-trabajando-suscripcion-2000-euros-chatgpt-1403807'>OpenAI está trabajando en una suscripción de 2.000 euros para ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-trabajando-suscripcion-2000-euros-chatgpt-1403807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/openai-trabajando-suscripcion-2000-euros-chatgpt-4113460.jpg?tf=1200x' alt='OpenAI está trabajando en una suscripción de 2.000 euros para ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/telescopio-james-webb-descubre-algo-impensable-seis-planetas-errantes-nebulosa-cercana-1403779'>El telescopio James Webb descubre algo impensable: seis planetas errantes en una nebulosa cercana</a></h4>
-    <a href='https://computerhoy.com/ciencia/telescopio-james-webb-descubre-algo-impensable-seis-planetas-errantes-nebulosa-cercana-1403779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/planetas-errantes-4113139.jpg?tf=1200x' alt='El telescopio James Webb descubre algo impensable: seis planetas errantes en una nebulosa cercana' />
     </a>
 </div>
 
