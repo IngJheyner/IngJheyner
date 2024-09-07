@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chrome-android-tendra-barra-herramientas-inferior-estilo-opera-vivaldi-1403923'>Chrome para Android tendrá una barra de herramientas inferior al estilo de Opera y Vivaldi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chrome-android-tendra-barra-herramientas-inferior-estilo-opera-vivaldi-1403923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chrome-android-4122430.jpg?tf=1200x' alt='Chrome para Android tendrá una barra de herramientas inferior al estilo de Opera y Vivaldi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/magnitud-contaminacion-plastica-220-millones-toneladas-2024-1403922'>La magnitud de la contaminación plástica: 220 millones de toneladas en 2024</a></h4>
+    <a href='https://computerhoy.com/life/magnitud-contaminacion-plastica-220-millones-toneladas-2024-1403922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/residuos-plasticos-4122286.jpg?tf=1200x' alt='La magnitud de la contaminación plástica: 220 millones de toneladas en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/bitelchus-darth-vader-personajes-miticos-realidad-solo-aparecian-minutos-pantalla-1403622'>De Bitelchús a Darth Vader: personajes míticos que en realidad solo aparecían unos minutos en pantalla</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/bitelchus-darth-vader-personajes-miticos-realidad-solo-aparecian-minutos-pantalla-1403622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ni-bitelchus-ni-beetlejuice-iba-llamarse-origen-clasico-tim-burton-4085244.jpg?tf=1200x' alt='De Bitelchús a Darth Vader: personajes míticos que en realidad solo aparecían unos minutos en pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/ahora-nuevo-outlook-leera-correos-electronicos-ti-1403920'>Ahora el nuevo Outlook leerá tus correos electrónicos por ti</a></h4>
     <a href='https://computerhoy.com/windows/ahora-nuevo-outlook-leera-correos-electronicos-ti-1403920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/outlook-windows-4122285.jpg?tf=1200x' alt='Ahora el nuevo Outlook leerá tus correos electrónicos por ti' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chollo-historico-6100-mah-bateria-carga-100w-cuesta-mitad-iphone-1403157'>Chollo histórico: 6.100 mAh de batería y carga a 100W y cuesta la mitad que un iPhone</a></h4>
     <a href='https://computerhoy.com/tecnologia/chollo-historico-6100-mah-bateria-carga-100w-cuesta-mitad-iphone-1403157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-ace-3-pro-4048442.jpg?tf=1200x' alt='Chollo histórico: 6.100 mAh de batería y carga a 100W y cuesta la mitad que un iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-android-auto-bloquea-forma-inesperada-tienes-solucion-1403906'>Google Maps en Android Auto se bloquea de forma inesperada y tienes esta solución</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-android-auto-bloquea-forma-inesperada-tienes-solucion-1403906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/error-android-auto-4120966.jpg?tf=1200x' alt='Google Maps en Android Auto se bloquea de forma inesperada y tienes esta solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/aterriza-nave-starliner-boeing-estados-unidos-pero-dos-tripulantes-originales-1403905'>Aterriza la nave Starliner de Boeing en los Estados Unidos pero sin sus dos tripulantes originales</a></h4>
-    <a href='https://computerhoy.com/espacio/aterriza-nave-starliner-boeing-estados-unidos-pero-dos-tripulantes-originales-1403905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/starliner-4120820.jpg?tf=1200x' alt='Aterriza la nave Starliner de Boeing en los Estados Unidos pero sin sus dos tripulantes originales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-drive-hara-encontrar-archivos-sea-facil-nunca-1403902'>Google Drive hará que encontrar archivos sea más fácil que nunca</a></h4>
-    <a href='https://computerhoy.com/apps/google-drive-hara-encontrar-archivos-sea-facil-nunca-1403902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-drive-4120527.jpg?tf=1200x' alt='Google Drive hará que encontrar archivos sea más fácil que nunca' />
     </a>
 </div>
 
