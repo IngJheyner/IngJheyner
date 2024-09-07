@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/antivirus-gratuitos-2024-son-realmente-vitales-son-innecesarios-cuanto-te-compras-pc-1403445'>Antivirus gratuitos en 2024: ¿Son realmente vitales o son innecesarios cuanto te compras un PC? </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/antivirus-gratuitos-2024-son-realmente-vitales-son-innecesarios-cuanto-te-compras-pc-1403445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/antivirus-2024-ciberseguridad-4107955.jpg?tf=1200x' alt='Antivirus gratuitos en 2024: ¿Son realmente vitales o son innecesarios cuanto te compras un PC? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/seamos-sinceros-quien-usa-funciones-generacion-imagenes-ia-movil-1403162'>Seamos sinceros… ¿Quién usa las funciones de generación de imágenes con IA en un móvil?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/seamos-sinceros-quien-usa-funciones-generacion-imagenes-ia-movil-1403162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/imagen-generativa-ia-4091730.jpg?tf=1200x' alt='Seamos sinceros… ¿Quién usa las funciones de generación de imágenes con IA en un móvil?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/todos-moviles-parecen-cada-vez-iphone-resto-marcas-tienen-hacer-algo-pronto-1400393'>Todos los móviles se parecen cada vez más al iPhone y el resto de marcas tienen que hacer algo pronto</a></h4>
+    <a href='https://computerhoy.com/moviles/todos-moviles-parecen-cada-vez-iphone-resto-marcas-tienen-hacer-algo-pronto-1400393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/moviles-cada-vez-parecen-iphone-3985159.jpg?tf=1200x' alt='Todos los móviles se parecen cada vez más al iPhone y el resto de marcas tienen que hacer algo pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/iphone-mas-grande-mundo-pantalla-88-pulgadas-pesa-200-kilos-1403881'>El iPhone más grande del mundo tiene una pantalla de 88 pulgadas, pesa 200 Kilos</a></h4>
     <a href='https://computerhoy.com/apple/iphone-mas-grande-mundo-pantalla-88-pulgadas-pesa-200-kilos-1403881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-grande-mundo-tiene-pantalla-88-pulgadas-pesa-200-kilos-4118497.jpg?tf=1200x' alt='El iPhone más grande del mundo tiene una pantalla de 88 pulgadas, pesa 200 Kilos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/como-proteger-flipper-zero-ataque-movil-infalible-1330258'>Hay una manera infalible de proteger tu móvil del ataque de un Flipper Zero, pero no te va a gustar</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/como-proteger-flipper-zero-ataque-movil-infalible-1330258' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/solo-hay-forma-proteger-movil-ataque-flipper-zero-pero-no-te-va-gustar-3213636.jpg?tf=1200x' alt='Hay una manera infalible de proteger tu móvil del ataque de un Flipper Zero, pero no te va a gustar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-bomba-robot-aspirador-fregado-rebajado-100-euros-1294668'>Xiaomi suelta la bomba: su robot aspirador con función fregado cae a poco más de 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-bomba-robot-aspirador-fregado-rebajado-100-euros-1294668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiaomi-robot-vacuum-e12-3116980.jpg?tf=1200x' alt='Xiaomi suelta la bomba: su robot aspirador con función fregado cae a poco más de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatiles-mas-sorprendentes-ifa-2024-1403878'>Los dos portátiles que más me han sorprendido en IFA 2024</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatiles-mas-sorprendentes-ifa-2024-1403878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1725658934055-4116627.jpg?tf=1200x' alt='Los dos portátiles que más me han sorprendido en IFA 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-moviles-estrena-borradores-facilitar-gestion-chats-pendientes-1403875'>WhatsApp en móviles estrena borradores para facilitar la gestión de chats pendientes</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-moviles-estrena-borradores-facilitar-gestion-chats-pendientes-1403875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-estrena-borradores-facilitar-gestion-chats-pendientes-4116051.jpg?tf=1200x' alt='WhatsApp en móviles estrena borradores para facilitar la gestión de chats pendientes' />
     </a>
 </div>
 
