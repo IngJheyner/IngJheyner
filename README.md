@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-android-auto-bloquea-forma-inesperada-tienes-solucion-1403906'>Google Maps en Android Auto se bloquea de forma inesperada y tienes esta solución</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-android-auto-bloquea-forma-inesperada-tienes-solucion-1403906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/error-android-auto-4120966.jpg?tf=1200x' alt='Google Maps en Android Auto se bloquea de forma inesperada y tienes esta solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/aterriza-nave-starliner-boeing-estados-unidos-pero-dos-tripulantes-originales-1403905'>Aterriza la nave Starliner de Boeing en los Estados Unidos pero sin sus dos tripulantes originales</a></h4>
     <a href='https://computerhoy.com/espacio/aterriza-nave-starliner-boeing-estados-unidos-pero-dos-tripulantes-originales-1403905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/starliner-4120820.jpg?tf=1200x' alt='Aterriza la nave Starliner de Boeing en los Estados Unidos pero sin sus dos tripulantes originales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/10-funciones-muy-poco-conocidas-whatsapp-deberias-probar-1402440'>10 funciones muy poco conocidas de WhatsApp que deberías probar</a></h4>
     <a href='https://computerhoy.com/apps/10-funciones-muy-poco-conocidas-whatsapp-deberias-probar-1402440' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-4056507.jpg?tf=1200x' alt='10 funciones muy poco conocidas de WhatsApp que deberías probar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-fulmina-funciones-polemicas-mejora-moderacion-1403900'>Telegram fulmina una de las funciones más polémicas y mejora la moderación</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-fulmina-funciones-polemicas-mejora-moderacion-1403900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/telegram-4120235.jpg?tf=1200x' alt='Telegram fulmina una de las funciones más polémicas y mejora la moderación' />
     </a>
 </div>
 
