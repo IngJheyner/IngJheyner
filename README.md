@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-series-10-contaria-sensor-frecuencia-cardiaca-mejorado-mayor-resistencia-agua-1403897'>El Apple Watch Series 10 contaría con un sensor de frecuencia cardíaca mejorado y mayor resistencia al agua</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-series-10-contaria-sensor-frecuencia-cardiaca-mejorado-mayor-resistencia-agua-1403897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-watch-series-4120088.jpg?tf=1200x' alt='El Apple Watch Series 10 contaría con un sensor de frecuencia cardíaca mejorado y mayor resistencia al agua' />
+    <h4><a href='https://computerhoy.com/android/pon-kodi-plex-mucho-televisor-facil-android-tv-box-potente-increiblemente-barata-1403891'>Pon Kodi, Plex y mucho más en tu televisor, y fácil: esta Android TV Box es potente e increíblemente barata</a></h4>
+    <a href='https://computerhoy.com/android/pon-kodi-plex-mucho-televisor-facil-android-tv-box-potente-increiblemente-barata-1403891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/x88-pro-13-3311262.jpg?tf=1200x' alt='Pon Kodi, Plex y mucho más en tu televisor, y fácil: esta Android TV Box es potente e increíblemente barata' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iask-ai-como-funciona-podria-superar-google-como-motor-busqueda-1403282'>iAsk AI: qué es, cómo funciona y por qué podría superar a Google como motor de búsqueda</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iask-ai-como-funciona-podria-superar-google-como-motor-busqueda-1403282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iask-ai-como-funciona-podria-superar-google-como-motor-busqueda-4096347.jpg?tf=1200x' alt='iAsk AI: qué es, cómo funciona y por qué podría superar a Google como motor de búsqueda' />
+    <h4><a href='https://computerhoy.com/apps/10-funciones-muy-poco-conocidas-whatsapp-deberias-probar-1402440'>10 funciones muy poco conocidas de WhatsApp que deberías probar</a></h4>
+    <a href='https://computerhoy.com/apps/10-funciones-muy-poco-conocidas-whatsapp-deberias-probar-1402440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-4056507.jpg?tf=1200x' alt='10 funciones muy poco conocidas de WhatsApp que deberías probar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ssd-iphone-has-leido-bien-miles-videos-recurrir-icloud-1399788'>Este SSD es para iPhone, y has leído bien: miles de vídeos sin recurrir a iCloud</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ssd-iphone-has-leido-bien-miles-videos-recurrir-icloud-1399788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lexar-sl500mb-3933305.jpg?tf=1200x' alt='Este SSD es para iPhone, y has leído bien: miles de vídeos sin recurrir a iCloud' />
+    <h4><a href='https://computerhoy.com/apps/telegram-fulmina-funciones-polemicas-mejora-moderacion-1403900'>Telegram fulmina una de las funciones más polémicas y mejora la moderación</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-fulmina-funciones-polemicas-mejora-moderacion-1403900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/telegram-4120235.jpg?tf=1200x' alt='Telegram fulmina una de las funciones más polémicas y mejora la moderación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/meta-permitira-aplicaciones-terceros-realicen-llamadas-usuarios-whatsapp-messenger-union-europea-2027-1403895'>Meta permitirá que aplicaciones de terceros realicen llamadas a usuarios de ‎WhatsApp y Messenger en la Unión Europea en 2027</a></h4>
-    <a href='https://computerhoy.com/apps/meta-permitira-aplicaciones-terceros-realicen-llamadas-usuarios-whatsapp-messenger-union-europea-2027-1403895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/meta-permitira-aplicaciones-terceros-realicen-llamadas-usuarios-whatsapp-messenger-union-europea-2027-4119943.jpg?tf=1200x' alt='Meta permitirá que aplicaciones de terceros realicen llamadas a usuarios de ‎WhatsApp y Messenger en la Unión Europea en 2027' />
+    <h4><a href='https://computerhoy.com/life/cambias-mucho-muebles-sitio-casa-explica-estudio-psicologico-relacion-salud-mental-1403644'>¿Cambias mucho los muebles de sitio en casa? Así explica un estudio psicológico su relación con la salud mental</a></h4>
+    <a href='https://computerhoy.com/life/cambias-mucho-muebles-sitio-casa-explica-estudio-psicologico-relacion-salud-mental-1403644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cambias-mucho-muebles-sitio-casa-explica-estudio-psicologico-relacion-salud-mental-4107031.jpg?tf=1200x' alt='¿Cambias mucho los muebles de sitio en casa? Así explica un estudio psicológico su relación con la salud mental' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estaba-llamada-hacer-frente-senor-anillos-netflix-pero-serie-fantasia-fue-cancelada-demasiado-pronto-1403637'>Estaba llamada a hacer frente a El señor de los anillos en Netflix, pero esta serie de fantasía fue cancelada demasiado pronto</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estaba-llamada-hacer-frente-senor-anillos-netflix-pero-serie-fantasia-fue-cancelada-demasiado-pronto-1403637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estaba-llamada-hacer-frente-senor-anillos-netflix-pero-serie-fantasia-fracaso-estrepitosamente-4106878.jpg?tf=1200x' alt='Estaba llamada a hacer frente a El señor de los anillos en Netflix, pero esta serie de fantasía fue cancelada demasiado pronto' />
+    <h4><a href='https://computerhoy.com/tutoriales/desactiva-ya-modo-imagen-destrozando-calidad-imagen-smart-tv-1245934'>¡Desactiva ya! Este es el modo de imagen que está destrozando la calidad de imagen de tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/desactiva-ya-modo-imagen-destrozando-calidad-imagen-smart-tv-1245934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/smart-tv-2429129.jpg?tf=1200x' alt='¡Desactiva ya! Este es el modo de imagen que está destrozando la calidad de imagen de tu Smart TV' />
     </a>
 </div>
 
