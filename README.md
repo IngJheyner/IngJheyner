@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/aterriza-nave-starliner-boeing-estados-unidos-pero-dos-tripulantes-originales-1403905'>Aterriza la nave Starliner de Boeing en los Estados Unidos pero sin sus dos tripulantes originales</a></h4>
+    <a href='https://computerhoy.com/espacio/aterriza-nave-starliner-boeing-estados-unidos-pero-dos-tripulantes-originales-1403905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/starliner-4120820.jpg?tf=1200x' alt='Aterriza la nave Starliner de Boeing en los Estados Unidos pero sin sus dos tripulantes originales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-drive-hara-encontrar-archivos-sea-facil-nunca-1403902'>Google Drive hará que encontrar archivos sea más fácil que nunca</a></h4>
     <a href='https://computerhoy.com/apps/google-drive-hara-encontrar-archivos-sea-facil-nunca-1403902' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-drive-4120527.jpg?tf=1200x' alt='Google Drive hará que encontrar archivos sea más fácil que nunca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/telegram-fulmina-funciones-polemicas-mejora-moderacion-1403900'>Telegram fulmina una de las funciones más polémicas y mejora la moderación</a></h4>
     <a href='https://computerhoy.com/apps/telegram-fulmina-funciones-polemicas-mejora-moderacion-1403900' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/telegram-4120235.jpg?tf=1200x' alt='Telegram fulmina una de las funciones más polémicas y mejora la moderación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cambias-mucho-muebles-sitio-casa-explica-estudio-psicologico-relacion-salud-mental-1403644'>¿Cambias mucho los muebles de sitio en casa? Así explica un estudio psicológico su relación con la salud mental</a></h4>
-    <a href='https://computerhoy.com/life/cambias-mucho-muebles-sitio-casa-explica-estudio-psicologico-relacion-salud-mental-1403644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cambias-mucho-muebles-sitio-casa-explica-estudio-psicologico-relacion-salud-mental-4107031.jpg?tf=1200x' alt='¿Cambias mucho los muebles de sitio en casa? Así explica un estudio psicológico su relación con la salud mental' />
     </a>
 </div>
 
