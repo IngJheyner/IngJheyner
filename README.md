@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-watch-series-10-contaria-sensor-frecuencia-cardiaca-mejorado-mayor-resistencia-agua-1403897'>El Apple Watch Series 10 contaría con un sensor de frecuencia cardíaca mejorado y mayor resistencia al agua</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-series-10-contaria-sensor-frecuencia-cardiaca-mejorado-mayor-resistencia-agua-1403897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-watch-series-4120088.jpg?tf=1200x' alt='El Apple Watch Series 10 contaría con un sensor de frecuencia cardíaca mejorado y mayor resistencia al agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/iask-ai-como-funciona-podria-superar-google-como-motor-busqueda-1403282'>iAsk AI: qué es, cómo funciona y por qué podría superar a Google como motor de búsqueda</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iask-ai-como-funciona-podria-superar-google-como-motor-busqueda-1403282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iask-ai-como-funciona-podria-superar-google-como-motor-busqueda-4096347.jpg?tf=1200x' alt='iAsk AI: qué es, cómo funciona y por qué podría superar a Google como motor de búsqueda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ssd-iphone-has-leido-bien-miles-videos-recurrir-icloud-1399788'>Este SSD es para iPhone, y has leído bien: miles de vídeos sin recurrir a iCloud</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ssd-iphone-has-leido-bien-miles-videos-recurrir-icloud-1399788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lexar-sl500mb-3933305.jpg?tf=1200x' alt='Este SSD es para iPhone, y has leído bien: miles de vídeos sin recurrir a iCloud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/meta-permitira-aplicaciones-terceros-realicen-llamadas-usuarios-whatsapp-messenger-union-europea-2027-1403895'>Meta permitirá que aplicaciones de terceros realicen llamadas a usuarios de ‎WhatsApp y Messenger en la Unión Europea en 2027</a></h4>
     <a href='https://computerhoy.com/apps/meta-permitira-aplicaciones-terceros-realicen-llamadas-usuarios-whatsapp-messenger-union-europea-2027-1403895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/meta-permitira-aplicaciones-terceros-realicen-llamadas-usuarios-whatsapp-messenger-union-europea-2027-4119943.jpg?tf=1200x' alt='Meta permitirá que aplicaciones de terceros realicen llamadas a usuarios de ‎WhatsApp y Messenger en la Unión Europea en 2027' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/estaba-llamada-hacer-frente-senor-anillos-netflix-pero-serie-fantasia-fue-cancelada-demasiado-pronto-1403637'>Estaba llamada a hacer frente a El señor de los anillos en Netflix, pero esta serie de fantasía fue cancelada demasiado pronto</a></h4>
     <a href='https://computerhoy.com/entretenimiento/estaba-llamada-hacer-frente-senor-anillos-netflix-pero-serie-fantasia-fue-cancelada-demasiado-pronto-1403637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estaba-llamada-hacer-frente-senor-anillos-netflix-pero-serie-fantasia-fracaso-estrepitosamente-4106878.jpg?tf=1200x' alt='Estaba llamada a hacer frente a El señor de los anillos en Netflix, pero esta serie de fantasía fue cancelada demasiado pronto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/son-airpods-xiaomi-tienen-cancelacion-ruido-cuestan-cuatro-veces-menos-1403889'>Son los AirPods de Xiaomi: tienen cancelación de ruido y cuestan cuatro veces menos</a></h4>
-    <a href='https://computerhoy.com/audio/son-airpods-xiaomi-tienen-cancelacion-ruido-cuestan-cuatro-veces-menos-1403889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-buds-5-pro-3273839.jpg?tf=1200x' alt='Son los AirPods de Xiaomi: tienen cancelación de ruido y cuestan cuatro veces menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/deberias-encender-calefaccion-verano-inusual-motivo-detras-tendencia-1400460'>¿Por qué deberías encender la calefacción en verano? El inusual motivo detrás de esta tendencia</a></h4>
-    <a href='https://computerhoy.com/hogar/deberias-encender-calefaccion-verano-inusual-motivo-detras-tendencia-1400460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/he-aprendido-gestionar-radiadores-calefaccion-ahora-no-paso-frio-gasto-mucho-menos-3211004.jpg?tf=1200x' alt='¿Por qué deberías encender la calefacción en verano? El inusual motivo detrás de esta tendencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-ha-confirmado-fin-cuando-saldran-venta-coches-totalmente-autonomos-1403825'>Tesla ha confirmado por fin cuándo saldrán a la venta los coches totalmente autónomos</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-ha-confirmado-fin-cuando-saldran-venta-coches-totalmente-autonomos-1403825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tesla-ha-confirmado-fin-cuando-saldran-venta-coches-totalmente-autonomos-4113788.jpg?tf=1200x' alt='Tesla ha confirmado por fin cuándo saldrán a la venta los coches totalmente autónomos' />
     </a>
 </div>
 
