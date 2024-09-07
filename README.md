@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/son-airpods-xiaomi-tienen-cancelacion-ruido-cuestan-cuatro-veces-menos-1403889'>Son los AirPods de Xiaomi: tienen cancelación de ruido y cuestan cuatro veces menos</a></h4>
+    <a href='https://computerhoy.com/audio/son-airpods-xiaomi-tienen-cancelacion-ruido-cuestan-cuatro-veces-menos-1403889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-buds-5-pro-3273839.jpg?tf=1200x' alt='Son los AirPods de Xiaomi: tienen cancelación de ruido y cuestan cuatro veces menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/deberias-encender-calefaccion-verano-inusual-motivo-detras-tendencia-1400460'>¿Por qué deberías encender la calefacción en verano? El inusual motivo detrás de esta tendencia</a></h4>
+    <a href='https://computerhoy.com/hogar/deberias-encender-calefaccion-verano-inusual-motivo-detras-tendencia-1400460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/he-aprendido-gestionar-radiadores-calefaccion-ahora-no-paso-frio-gasto-mucho-menos-3211004.jpg?tf=1200x' alt='¿Por qué deberías encender la calefacción en verano? El inusual motivo detrás de esta tendencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tesla-ha-confirmado-fin-cuando-saldran-venta-coches-totalmente-autonomos-1403825'>Tesla ha confirmado por fin cuándo saldrán a la venta los coches totalmente autónomos</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-ha-confirmado-fin-cuando-saldran-venta-coches-totalmente-autonomos-1403825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tesla-ha-confirmado-fin-cuando-saldran-venta-coches-totalmente-autonomos-4113788.jpg?tf=1200x' alt='Tesla ha confirmado por fin cuándo saldrán a la venta los coches totalmente autónomos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amd-historia-batalla-intel-nvidia-futuro-marcado-ia-1402292'>Qué es AMD: historia, batalla con Intel y Nvidia y un futuro marcado por la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amd-historia-batalla-intel-nvidia-futuro-marcado-ia-1402292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/amd-4050362.jpg?tf=1200x' alt='Qué es AMD: historia, batalla con Intel y Nvidia y un futuro marcado por la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/acuamacion-alternativa-ecologica-cremaciones-1403885'>Acuamación, la alternativa ecológica a las cremaciones</a></h4>
     <a href='https://computerhoy.com/life/acuamacion-alternativa-ecologica-cremaciones-1403885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/acuamacion-alternativa-economica-cremaciones-4118930.jpg?tf=1200x' alt='Acuamación, la alternativa ecológica a las cremaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/futuro-programacion-era-iaacabara-creatividad-humana-nos-hara-dependientes-tecnologia-1403446'>El futuro de la programación en la era de la IA:¿Acabará con la creatividad humana y nos hará más dependientes de la tecnología?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/futuro-programacion-era-iaacabara-creatividad-humana-nos-hara-dependientes-tecnologia-1403446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/futuro-programacion-era-ia-4113122.jpg?tf=1200x' alt='El futuro de la programación en la era de la IA:¿Acabará con la creatividad humana y nos hará más dependientes de la tecnología?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuidado-pedir-botellines-cerveza-verano-consejo-camarero-1403364'>Cuidado al pedir botellines de cerveza en verano: este es el consejo de un camarero</a></h4>
-    <a href='https://computerhoy.com/life/cuidado-pedir-botellines-cerveza-verano-consejo-camarero-1403364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cerveza-4098798.jpg?tf=1200x' alt='Cuidado al pedir botellines de cerveza en verano: este es el consejo de un camarero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/uno-mejores-moviles-ano-realme-130-euros-descuento-1395158'>Uno de los mejores móviles del año es realme y Amazon lo vende 130 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/uno-mejores-moviles-ano-realme-130-euros-descuento-1395158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/realme-gt-6t-3548644.jpg?tf=1200x' alt='Uno de los mejores móviles del año es realme y Amazon lo vende 130 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/antivirus-gratuitos-2024-son-realmente-vitales-son-innecesarios-cuanto-te-compras-pc-1403445'>Antivirus gratuitos en 2024: ¿Son realmente vitales o son innecesarios cuanto te compras un PC? </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/antivirus-gratuitos-2024-son-realmente-vitales-son-innecesarios-cuanto-te-compras-pc-1403445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/antivirus-2024-ciberseguridad-4107955.jpg?tf=1200x' alt='Antivirus gratuitos en 2024: ¿Son realmente vitales o son innecesarios cuanto te compras un PC? ' />
     </a>
 </div>
 
