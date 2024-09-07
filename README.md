@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chollo-historico-6100-mah-bateria-carga-100w-cuesta-mitad-iphone-1403157'>Chollo histórico: 6.100 mAh de batería y carga a 100W y cuesta la mitad que un iPhone</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chollo-historico-6100-mah-bateria-carga-100w-cuesta-mitad-iphone-1403157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-ace-3-pro-4048442.jpg?tf=1200x' alt='Chollo histórico: 6.100 mAh de batería y carga a 100W y cuesta la mitad que un iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-maps-android-auto-bloquea-forma-inesperada-tienes-solucion-1403906'>Google Maps en Android Auto se bloquea de forma inesperada y tienes esta solución</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-android-auto-bloquea-forma-inesperada-tienes-solucion-1403906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/error-android-auto-4120966.jpg?tf=1200x' alt='Google Maps en Android Auto se bloquea de forma inesperada y tienes esta solución' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/pon-kodi-plex-mucho-televisor-facil-android-tv-box-potente-increiblemente-barata-1403891'>Pon Kodi, Plex y mucho más en tu televisor, y fácil: esta Android TV Box es potente e increíblemente barata</a></h4>
     <a href='https://computerhoy.com/android/pon-kodi-plex-mucho-televisor-facil-android-tv-box-potente-increiblemente-barata-1403891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/x88-pro-13-3311262.jpg?tf=1200x' alt='Pon Kodi, Plex y mucho más en tu televisor, y fácil: esta Android TV Box es potente e increíblemente barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/10-funciones-muy-poco-conocidas-whatsapp-deberias-probar-1402440'>10 funciones muy poco conocidas de WhatsApp que deberías probar</a></h4>
-    <a href='https://computerhoy.com/apps/10-funciones-muy-poco-conocidas-whatsapp-deberias-probar-1402440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-4056507.jpg?tf=1200x' alt='10 funciones muy poco conocidas de WhatsApp que deberías probar' />
     </a>
 </div>
 
