@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/meta-permitira-aplicaciones-terceros-realicen-llamadas-usuarios-whatsapp-messenger-union-europea-2027-1403895'>Meta permitirá que aplicaciones de terceros realicen llamadas a usuarios de ‎WhatsApp y Messenger en la Unión Europea en 2027</a></h4>
+    <a href='https://computerhoy.com/apps/meta-permitira-aplicaciones-terceros-realicen-llamadas-usuarios-whatsapp-messenger-union-europea-2027-1403895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/meta-permitira-aplicaciones-terceros-realicen-llamadas-usuarios-whatsapp-messenger-union-europea-2027-4119943.jpg?tf=1200x' alt='Meta permitirá que aplicaciones de terceros realicen llamadas a usuarios de ‎WhatsApp y Messenger en la Unión Europea en 2027' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estaba-llamada-hacer-frente-senor-anillos-netflix-pero-serie-fantasia-fue-cancelada-demasiado-pronto-1403637'>Estaba llamada a hacer frente a El señor de los anillos en Netflix, pero esta serie de fantasía fue cancelada demasiado pronto</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estaba-llamada-hacer-frente-senor-anillos-netflix-pero-serie-fantasia-fue-cancelada-demasiado-pronto-1403637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estaba-llamada-hacer-frente-senor-anillos-netflix-pero-serie-fantasia-fracaso-estrepitosamente-4106878.jpg?tf=1200x' alt='Estaba llamada a hacer frente a El señor de los anillos en Netflix, pero esta serie de fantasía fue cancelada demasiado pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/son-airpods-xiaomi-tienen-cancelacion-ruido-cuestan-cuatro-veces-menos-1403889'>Son los AirPods de Xiaomi: tienen cancelación de ruido y cuestan cuatro veces menos</a></h4>
     <a href='https://computerhoy.com/audio/son-airpods-xiaomi-tienen-cancelacion-ruido-cuestan-cuatro-veces-menos-1403889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-buds-5-pro-3273839.jpg?tf=1200x' alt='Son los AirPods de Xiaomi: tienen cancelación de ruido y cuestan cuatro veces menos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/tesla-ha-confirmado-fin-cuando-saldran-venta-coches-totalmente-autonomos-1403825'>Tesla ha confirmado por fin cuándo saldrán a la venta los coches totalmente autónomos</a></h4>
     <a href='https://computerhoy.com/motor/tesla-ha-confirmado-fin-cuando-saldran-venta-coches-totalmente-autonomos-1403825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tesla-ha-confirmado-fin-cuando-saldran-venta-coches-totalmente-autonomos-4113788.jpg?tf=1200x' alt='Tesla ha confirmado por fin cuándo saldrán a la venta los coches totalmente autónomos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amd-historia-batalla-intel-nvidia-futuro-marcado-ia-1402292'>Qué es AMD: historia, batalla con Intel y Nvidia y un futuro marcado por la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amd-historia-batalla-intel-nvidia-futuro-marcado-ia-1402292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/amd-4050362.jpg?tf=1200x' alt='Qué es AMD: historia, batalla con Intel y Nvidia y un futuro marcado por la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/acuamacion-alternativa-ecologica-cremaciones-1403885'>Acuamación, la alternativa ecológica a las cremaciones</a></h4>
-    <a href='https://computerhoy.com/life/acuamacion-alternativa-ecologica-cremaciones-1403885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/acuamacion-alternativa-economica-cremaciones-4118930.jpg?tf=1200x' alt='Acuamación, la alternativa ecológica a las cremaciones' />
     </a>
 </div>
 
