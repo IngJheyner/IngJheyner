@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-mas-grande-mundo-pantalla-88-pulgadas-pesa-200-kilos-1403881'>El iPhone más grande del mundo tiene una pantalla de 88 pulgadas, pesa 200 Kilos</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-mas-grande-mundo-pantalla-88-pulgadas-pesa-200-kilos-1403881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-grande-mundo-tiene-pantalla-88-pulgadas-pesa-200-kilos-4118497.jpg?tf=1200x' alt='El iPhone más grande del mundo tiene una pantalla de 88 pulgadas, pesa 200 Kilos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-proteger-flipper-zero-ataque-movil-infalible-1330258'>Hay una manera infalible de proteger tu móvil del ataque de un Flipper Zero, pero no te va a gustar</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-proteger-flipper-zero-ataque-movil-infalible-1330258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/solo-hay-forma-proteger-movil-ataque-flipper-zero-pero-no-te-va-gustar-3213636.jpg?tf=1200x' alt='Hay una manera infalible de proteger tu móvil del ataque de un Flipper Zero, pero no te va a gustar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-bomba-robot-aspirador-fregado-rebajado-100-euros-1294668'>Xiaomi suelta la bomba: su robot aspirador con función fregado cae a poco más de 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-bomba-robot-aspirador-fregado-rebajado-100-euros-1294668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiaomi-robot-vacuum-e12-3116980.jpg?tf=1200x' alt='Xiaomi suelta la bomba: su robot aspirador con función fregado cae a poco más de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/portatiles-mas-sorprendentes-ifa-2024-1403878'>Los dos portátiles que más me han sorprendido en IFA 2024</a></h4>
     <a href='https://computerhoy.com/tecnologia/portatiles-mas-sorprendentes-ifa-2024-1403878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1725658934055-4116627.jpg?tf=1200x' alt='Los dos portátiles que más me han sorprendido en IFA 2024' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-moviles-estrena-borradores-facilitar-gestion-chats-pendientes-1403875'>WhatsApp en móviles estrena borradores para facilitar la gestión de chats pendientes</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-moviles-estrena-borradores-facilitar-gestion-chats-pendientes-1403875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-estrena-borradores-facilitar-gestion-chats-pendientes-4116051.jpg?tf=1200x' alt='WhatsApp en móviles estrena borradores para facilitar la gestión de chats pendientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-tecnica-revolucionaria-hacer-piel-transparente-colorante-alimentario-1403874'>Científicos descubren técnica revolucionaria para hacer la piel transparente con colorante alimentario</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-descubren-tecnica-revolucionaria-hacer-piel-transparente-colorante-alimentario-1403874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/piel-transparente-4116049.jpg?tf=1200x' alt='Científicos descubren técnica revolucionaria para hacer la piel transparente con colorante alimentario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/funcion-ecg-apple-watch-detecta-ritmo-cardiaco-irregular-salva-dos-vidas-1403872'>La función de ECG del Apple Watch detecta un ritmo cardíaco irregular y salva dos vidas</a></h4>
-    <a href='https://computerhoy.com/apple/funcion-ecg-apple-watch-detecta-ritmo-cardiaco-irregular-salva-dos-vidas-1403872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-watch-4116047.jpg?tf=1200x' alt='La función de ECG del Apple Watch detecta un ritmo cardíaco irregular y salva dos vidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/doom-consigue-otro-hito-ya-funciona-cupula-holografica-3d-1403871'>Doom consigue otro hito: ya funciona en una cúpula holográfica en 3D</a></h4>
-    <a href='https://computerhoy.com/gaming/doom-consigue-otro-hito-ya-funciona-cupula-holografica-3d-1403871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/doom-consigue-otro-hito-ya-funciona-cupula-holografica-3d-4115612.jpg?tf=1200x' alt='Doom consigue otro hito: ya funciona en una cúpula holográfica en 3D' />
     </a>
 </div>
 
