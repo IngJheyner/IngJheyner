@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-drive-hara-encontrar-archivos-sea-facil-nunca-1403902'>Google Drive hará que encontrar archivos sea más fácil que nunca</a></h4>
+    <a href='https://computerhoy.com/apps/google-drive-hara-encontrar-archivos-sea-facil-nunca-1403902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-drive-4120527.jpg?tf=1200x' alt='Google Drive hará que encontrar archivos sea más fácil que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/pon-kodi-plex-mucho-televisor-facil-android-tv-box-potente-increiblemente-barata-1403891'>Pon Kodi, Plex y mucho más en tu televisor, y fácil: esta Android TV Box es potente e increíblemente barata</a></h4>
     <a href='https://computerhoy.com/android/pon-kodi-plex-mucho-televisor-facil-android-tv-box-potente-increiblemente-barata-1403891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/x88-pro-13-3311262.jpg?tf=1200x' alt='Pon Kodi, Plex y mucho más en tu televisor, y fácil: esta Android TV Box es potente e increíblemente barata' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cambias-mucho-muebles-sitio-casa-explica-estudio-psicologico-relacion-salud-mental-1403644'>¿Cambias mucho los muebles de sitio en casa? Así explica un estudio psicológico su relación con la salud mental</a></h4>
     <a href='https://computerhoy.com/life/cambias-mucho-muebles-sitio-casa-explica-estudio-psicologico-relacion-salud-mental-1403644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cambias-mucho-muebles-sitio-casa-explica-estudio-psicologico-relacion-salud-mental-4107031.jpg?tf=1200x' alt='¿Cambias mucho los muebles de sitio en casa? Así explica un estudio psicológico su relación con la salud mental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/desactiva-ya-modo-imagen-destrozando-calidad-imagen-smart-tv-1245934'>¡Desactiva ya! Este es el modo de imagen que está destrozando la calidad de imagen de tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/desactiva-ya-modo-imagen-destrozando-calidad-imagen-smart-tv-1245934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/smart-tv-2429129.jpg?tf=1200x' alt='¡Desactiva ya! Este es el modo de imagen que está destrozando la calidad de imagen de tu Smart TV' />
     </a>
 </div>
 
