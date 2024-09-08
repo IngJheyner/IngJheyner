@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/movil-arriesga-ultraligero-pantalla-tinta-electronica-barato-1403940'>Este móvil sí arriesga: ultraligero y con pantalla de tinta electrónica ¡y barato!</a></h4>
+    <a href='https://computerhoy.com/android/movil-arriesga-ultraligero-pantalla-tinta-electronica-barato-1403940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/boox-palma-4126651.jpg?tf=1200x' alt='Este móvil sí arriesga: ultraligero y con pantalla de tinta electrónica ¡y barato!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/qualcomm-comprar-intel-1403953'>¿Qualcomm Core i9? La compañía de móviles quiere comprar a Intel su negocio de PC</a></h4>
     <a href='https://computerhoy.com/tecnologia/qualcomm-comprar-intel-1403953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/qualcomm-core-ultra-compania-moviles-quiere-comprar-intel-negocio-pc-4128445.jpg?tf=1200x' alt='¿Qualcomm Core i9? La compañía de móviles quiere comprar a Intel su negocio de PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ciencia-ficcion-fracaso-taquilla-casi-hunde-responsables-pero-llega-netflix-decada-despues-1402895'>Esta película de ciencia ficción fracasó en taquilla y casi hunde a sus responsables, pero llega a Netflix una década después</a></h4>
     <a href='https://computerhoy.com/entretenimiento/pelicula-ciencia-ficcion-fracaso-taquilla-casi-hunde-responsables-pero-llega-netflix-decada-despues-1402895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pelicula-ciencia-ficcion-fracaso-taquilla-casi-hunde-responsables-pero-llega-netflix-decada-despues-4083988.jpg?tf=1200x' alt='Esta película de ciencia ficción fracasó en taquilla y casi hunde a sus responsables, pero llega a Netflix una década después' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/expertos-recomiendan-no-usar-cargadores-universales-bicicletas-patinetes-electricos-riesgo-incendio-1403947'>Expertos recomiendan no usar cargadores universales para bicicletas y patinetes eléctricos por riesgo de incendio</a></h4>
-    <a href='https://computerhoy.com/motor/expertos-recomiendan-no-usar-cargadores-universales-bicicletas-patinetes-electricos-riesgo-incendio-1403947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/patinete-electrico-4127408.jpg?tf=1200x' alt='Expertos recomiendan no usar cargadores universales para bicicletas y patinetes eléctricos por riesgo de incendio' />
     </a>
 </div>
 
