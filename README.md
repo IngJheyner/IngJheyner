@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-garmin-identico-fenix-8-mas-barato-1365501'>Este Garmin es prácticamente idéntico a los nuevos Fenix 8, pero cuesta casi la mitad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-garmin-identico-fenix-8-mas-barato-1365501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3241634.jpg?tf=1200x' alt='Este Garmin es prácticamente idéntico a los nuevos Fenix 8, pero cuesta casi la mitad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/no-deberias-tirar-discos-dvd-1352265'>Sí, haces bien en no tirar tus discos ni DVD antiguos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/no-deberias-tirar-discos-dvd-1352265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/disco-dvd-3253512.jpg?tf=1200x' alt='Sí, haces bien en no tirar tus discos ni DVD antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chrome-android-tendra-barra-herramientas-inferior-estilo-opera-vivaldi-1403923'>Chrome para Android tendrá una barra de herramientas inferior al estilo de Opera y Vivaldi</a></h4>
     <a href='https://computerhoy.com/tecnologia/chrome-android-tendra-barra-herramientas-inferior-estilo-opera-vivaldi-1403923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chrome-android-4122430.jpg?tf=1200x' alt='Chrome para Android tendrá una barra de herramientas inferior al estilo de Opera y Vivaldi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/bitelchus-darth-vader-personajes-miticos-realidad-solo-aparecian-minutos-pantalla-1403622'>De Bitelchús a Darth Vader: personajes míticos que en realidad solo aparecían unos minutos en pantalla</a></h4>
     <a href='https://computerhoy.com/entretenimiento/bitelchus-darth-vader-personajes-miticos-realidad-solo-aparecian-minutos-pantalla-1403622' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ni-bitelchus-ni-beetlejuice-iba-llamarse-origen-clasico-tim-burton-4085244.jpg?tf=1200x' alt='De Bitelchús a Darth Vader: personajes míticos que en realidad solo aparecían unos minutos en pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ahora-nuevo-outlook-leera-correos-electronicos-ti-1403920'>Ahora el nuevo Outlook leerá tus correos electrónicos por ti</a></h4>
-    <a href='https://computerhoy.com/windows/ahora-nuevo-outlook-leera-correos-electronicos-ti-1403920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/outlook-windows-4122285.jpg?tf=1200x' alt='Ahora el nuevo Outlook leerá tus correos electrónicos por ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chollo-historico-6100-mah-bateria-carga-100w-cuesta-mitad-iphone-1403157'>Chollo histórico: 6.100 mAh de batería y carga a 100W y cuesta la mitad que un iPhone</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chollo-historico-6100-mah-bateria-carga-100w-cuesta-mitad-iphone-1403157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-ace-3-pro-4048442.jpg?tf=1200x' alt='Chollo histórico: 6.100 mAh de batería y carga a 100W y cuesta la mitad que un iPhone' />
     </a>
 </div>
 
