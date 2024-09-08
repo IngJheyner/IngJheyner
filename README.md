@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/personas-creen-extraterrestres-han-visitado-tierra-preocupa-tema-cientificos-1403344'>Más personas creen que los extraterrestres han visitado la Tierra: ¿Por qué preocupa este tema a los científicos?</a></h4>
+    <a href='https://computerhoy.com/ciencia/personas-creen-extraterrestres-han-visitado-tierra-preocupa-tema-cientificos-1403344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/extraterrestre-4098628.jpg?tf=1200x' alt='Más personas creen que los extraterrestres han visitado la Tierra: ¿Por qué preocupa este tema a los científicos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-airpods-son-originales-1403589'>Cómo saber si unos AirPods son originales</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-airpods-son-originales-1403589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/airpods-max-4012213.jpg?tf=1200x' alt='Cómo saber si unos AirPods son originales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/ciberseguridad-tipos-ataques-llegada-ia-revolucionarlo-todo-1403384'>Ciberseguridad: qué es, tipos de ataques y la llegada de la IA para revolucionarlo todo</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/ciberseguridad-tipos-ataques-llegada-ia-revolucionarlo-todo-1403384' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ciberseguridad-4099270.jpg?tf=1200x' alt='Ciberseguridad: qué es, tipos de ataques y la llegada de la IA para revolucionarlo todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/8-metodos-poco-comunes-cargar-movil-forma-inalambrica-1363609'>8 métodos poco comunes para cargar tu móvil de forma inalámbrica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/8-metodos-poco-comunes-cargar-movil-forma-inalambrica-1363609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/8-metodos-poco-comunes-cargar-movil-forma-inalambrica-3272470.jpg?tf=1200x' alt='8 métodos poco comunes para cargar tu móvil de forma inalámbrica' />
     </a>
 </div>
 
