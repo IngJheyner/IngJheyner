@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-cambia-siempre-forma-anclar-aplicaciones-barra-tareas-windows-11-1403950'>Microsoft cambia para siempre la forma de anclar aplicaciones en la barra de tareas de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-cambia-siempre-forma-anclar-aplicaciones-barra-tareas-windows-11-1403950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/barra-tareas-windows-11-4127410.jpg?tf=1200x' alt='Microsoft cambia para siempre la forma de anclar aplicaciones en la barra de tareas de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/lector-ebooks-color-perfecto-estudiantes-tiene-aplicaciones-puedes-subrayar-color-1403861'>Este lector de ebooks a color es perfecto para estudiantes: tiene aplicaciones y puedes subrayar a color</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lector-ebooks-color-perfecto-estudiantes-tiene-aplicaciones-puedes-subrayar-color-1403861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/boox-go-color-7-4115165.jpg?tf=1200x' alt='Este lector de ebooks a color es perfecto para estudiantes: tiene aplicaciones y puedes subrayar a color' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ciencia-ficcion-fracaso-taquilla-casi-hunde-responsables-pero-llega-netflix-decada-despues-1402895'>Esta película de ciencia ficción fracasó en taquilla y casi hunde a sus responsables, pero llega a Netflix una década después</a></h4>
     <a href='https://computerhoy.com/entretenimiento/pelicula-ciencia-ficcion-fracaso-taquilla-casi-hunde-responsables-pero-llega-netflix-decada-despues-1402895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pelicula-ciencia-ficcion-fracaso-taquilla-casi-hunde-responsables-pero-llega-netflix-decada-despues-4083988.jpg?tf=1200x' alt='Esta película de ciencia ficción fracasó en taquilla y casi hunde a sus responsables, pero llega a Netflix una década después' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/adios-sena-identidad-titanic-fondo-oceano-ha-perdido-principales-elementos-1403946'>Adiós a su seña de identidad: el Titanic en el fondo del océano ha perdido uno de sus principales elementos</a></h4>
     <a href='https://computerhoy.com/life/adios-sena-identidad-titanic-fondo-oceano-ha-perdido-principales-elementos-1403946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/titanic-fondo-oceano-ha-perdido-principales-elementos-4127102.jpg?tf=1200x' alt='Adiós a su seña de identidad: el Titanic en el fondo del océano ha perdido uno de sus principales elementos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/puede-provocar-tecnologia-cuerpo-humano-evolucione-dicen-expertos-1403551'>¿Puede provocar la tecnología que el cuerpo humano evolucione? Esto dicen los expertos</a></h4>
-    <a href='https://computerhoy.com/ciencia/puede-provocar-tecnologia-cuerpo-humano-evolucione-dicen-expertos-1403551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/puede-provocar-tecnologia-cuerpo-humano-evolucione-dicen-expertos-4105577.jpg?tf=1200x' alt='¿Puede provocar la tecnología que el cuerpo humano evolucione? Esto dicen los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-rsat-windows-11-1394014'>Qué es el RSAT, para qué sirve y cómo se instala en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-rsat-windows-11-1394014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rsat-sirve-como-instalarlo-windows-11-3654640.jpg?tf=1200x' alt='Qué es el RSAT, para qué sirve y cómo se instala en Windows 11' />
     </a>
 </div>
 
