@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ciencia-ficcion-fracaso-taquilla-casi-hunde-responsables-pero-llega-netflix-decada-despues-1402895'>Esta película de ciencia ficción fracasó en taquilla y casi hunde a sus responsables, pero llega a Netflix una década después</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-ciencia-ficcion-fracaso-taquilla-casi-hunde-responsables-pero-llega-netflix-decada-despues-1402895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pelicula-ciencia-ficcion-fracaso-taquilla-casi-hunde-responsables-pero-llega-netflix-decada-despues-4083988.jpg?tf=1200x' alt='Esta película de ciencia ficción fracasó en taquilla y casi hunde a sus responsables, pero llega a Netflix una década después' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/expertos-recomiendan-no-usar-cargadores-universales-bicicletas-patinetes-electricos-riesgo-incendio-1403947'>Expertos recomiendan no usar cargadores universales para bicicletas y patinetes eléctricos por riesgo de incendio</a></h4>
+    <a href='https://computerhoy.com/motor/expertos-recomiendan-no-usar-cargadores-universales-bicicletas-patinetes-electricos-riesgo-incendio-1403947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/patinete-electrico-4127408.jpg?tf=1200x' alt='Expertos recomiendan no usar cargadores universales para bicicletas y patinetes eléctricos por riesgo de incendio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/adios-sena-identidad-titanic-fondo-oceano-ha-perdido-principales-elementos-1403946'>Adiós a su seña de identidad: el Titanic en el fondo del océano ha perdido uno de sus principales elementos</a></h4>
+    <a href='https://computerhoy.com/life/adios-sena-identidad-titanic-fondo-oceano-ha-perdido-principales-elementos-1403946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/titanic-fondo-oceano-ha-perdido-principales-elementos-4127102.jpg?tf=1200x' alt='Adiós a su seña de identidad: el Titanic en el fondo del océano ha perdido uno de sus principales elementos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/puede-provocar-tecnologia-cuerpo-humano-evolucione-dicen-expertos-1403551'>¿Puede provocar la tecnología que el cuerpo humano evolucione? Esto dicen los expertos</a></h4>
     <a href='https://computerhoy.com/ciencia/puede-provocar-tecnologia-cuerpo-humano-evolucione-dicen-expertos-1403551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/puede-provocar-tecnologia-cuerpo-humano-evolucione-dicen-expertos-4105577.jpg?tf=1200x' alt='¿Puede provocar la tecnología que el cuerpo humano evolucione? Esto dicen los expertos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-rsat-windows-11-1394014'>Qué es el RSAT, para qué sirve y cómo se instala en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-rsat-windows-11-1394014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rsat-sirve-como-instalarlo-windows-11-3654640.jpg?tf=1200x' alt='Qué es el RSAT, para qué sirve y cómo se instala en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-estrena-modo-conexion-outlook-1403944'>Microsoft estrena un modo sin conexión para Outlook</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-estrena-modo-conexion-outlook-1403944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/outlook-windows-4127100.jpg?tf=1200x' alt='Microsoft estrena un modo sin conexión para Outlook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/funcion-escondida-iphone-te-permitira-casi-duplicar-duracion-bateria-1403943'>La función escondida del iPhone que te permitirá casi duplicar la duración de la batería</a></h4>
-    <a href='https://computerhoy.com/apple/funcion-escondida-iphone-te-permitira-casi-duplicar-duracion-bateria-1403943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-4126953.jpg?tf=1200x' alt='La función escondida del iPhone que te permitirá casi duplicar la duración de la batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/personas-creen-extraterrestres-han-visitado-tierra-preocupa-tema-cientificos-1403344'>Más personas creen que los extraterrestres han visitado la Tierra: ¿Por qué preocupa este tema a los científicos?</a></h4>
-    <a href='https://computerhoy.com/ciencia/personas-creen-extraterrestres-han-visitado-tierra-preocupa-tema-cientificos-1403344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/extraterrestre-4098628.jpg?tf=1200x' alt='Más personas creen que los extraterrestres han visitado la Tierra: ¿Por qué preocupa este tema a los científicos?' />
     </a>
 </div>
 
