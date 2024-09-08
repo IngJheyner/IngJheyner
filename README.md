@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/qualcomm-comprar-intel-1403953'>¿Qualcomm Core i9? La compañía de móviles quiere comprar a Intel su negocio de PC</a></h4>
+    <a href='https://computerhoy.com/tecnologia/qualcomm-comprar-intel-1403953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/qualcomm-core-ultra-compania-moviles-quiere-comprar-intel-negocio-pc-4128445.jpg?tf=1200x' alt='¿Qualcomm Core i9? La compañía de móviles quiere comprar a Intel su negocio de PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-cambia-siempre-forma-anclar-aplicaciones-barra-tareas-windows-11-1403950'>Microsoft cambia para siempre la forma de anclar aplicaciones en la barra de tareas de Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-cambia-siempre-forma-anclar-aplicaciones-barra-tareas-windows-11-1403950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/barra-tareas-windows-11-4127410.jpg?tf=1200x' alt='Microsoft cambia para siempre la forma de anclar aplicaciones en la barra de tareas de Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/expertos-recomiendan-no-usar-cargadores-universales-bicicletas-patinetes-electricos-riesgo-incendio-1403947'>Expertos recomiendan no usar cargadores universales para bicicletas y patinetes eléctricos por riesgo de incendio</a></h4>
     <a href='https://computerhoy.com/motor/expertos-recomiendan-no-usar-cargadores-universales-bicicletas-patinetes-electricos-riesgo-incendio-1403947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/patinete-electrico-4127408.jpg?tf=1200x' alt='Expertos recomiendan no usar cargadores universales para bicicletas y patinetes eléctricos por riesgo de incendio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/adios-sena-identidad-titanic-fondo-oceano-ha-perdido-principales-elementos-1403946'>Adiós a su seña de identidad: el Titanic en el fondo del océano ha perdido uno de sus principales elementos</a></h4>
-    <a href='https://computerhoy.com/life/adios-sena-identidad-titanic-fondo-oceano-ha-perdido-principales-elementos-1403946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/titanic-fondo-oceano-ha-perdido-principales-elementos-4127102.jpg?tf=1200x' alt='Adiós a su seña de identidad: el Titanic en el fondo del océano ha perdido uno de sus principales elementos' />
     </a>
 </div>
 
