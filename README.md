@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-airpods-son-originales-1403589'>Cómo saber si unos AirPods son originales</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-airpods-son-originales-1403589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/airpods-max-4012213.jpg?tf=1200x' alt='Cómo saber si unos AirPods son originales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/minusculo-aparato-mejora-mucho-wifi-cuesta-apenas-20-euros-acaba-zonas-cobertura-1403931'>Este minúsculo aparato mejora y mucho tu WiFi: cuesta apenas 20 euros y acaba con las zonas sin cobertura</a></h4>
+    <a href='https://computerhoy.com/tecnologia/minusculo-aparato-mejora-mucho-wifi-cuesta-apenas-20-euros-acaba-zonas-cobertura-1403931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tp-link-re190-ac750-4126213.jpg?tf=1200x' alt='Este minúsculo aparato mejora y mucho tu WiFi: cuesta apenas 20 euros y acaba con las zonas sin cobertura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/4-widgets-imprescindibles-mejorar-productividad-windows-11-1400150'>4 widgets imprescindibles para mejorar tu productividad en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/4-widgets-imprescindibles-mejorar-productividad-windows-11-1400150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/4-widgets-imprescindibles-mejorar-productividad-windows-11-3947882.jpg?tf=1200x' alt='4 widgets imprescindibles para mejorar tu productividad en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberseguridad-tipos-ataques-llegada-ia-revolucionarlo-todo-1403384'>Ciberseguridad: qué es, tipos de ataques y la llegada de la IA para revolucionarlo todo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberseguridad-tipos-ataques-llegada-ia-revolucionarlo-todo-1403384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ciberseguridad-4099270.jpg?tf=1200x' alt='Ciberseguridad: qué es, tipos de ataques y la llegada de la IA para revolucionarlo todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/8-metodos-poco-comunes-cargar-movil-forma-inalambrica-1363609'>8 métodos poco comunes para cargar tu móvil de forma inalámbrica</a></h4>
     <a href='https://computerhoy.com/tecnologia/8-metodos-poco-comunes-cargar-movil-forma-inalambrica-1363609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/8-metodos-poco-comunes-cargar-movil-forma-inalambrica-3272470.jpg?tf=1200x' alt='8 métodos poco comunes para cargar tu móvil de forma inalámbrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/clon-airtag-menos-un-euro-1396783'>Este clon del AirTag cuesta menos de 1 euro y funciona con el mismo sistema de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/clon-airtag-menos-un-euro-1396783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cpvan-smart-tracker-3782890.jpg?tf=1200x' alt='Este clon del AirTag cuesta menos de 1 euro y funciona con el mismo sistema de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/razon-contratos-leyes-son-tan-dificiles-entender-1403926'>La razón de que los contratos y las leyes son tan difíciles de entender</a></h4>
-    <a href='https://computerhoy.com/life/razon-contratos-leyes-son-tan-dificiles-entender-1403926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mit-descubre-contratos-leyes-son-tan-dificiles-entender-4125346.jpg?tf=1200x' alt='La razón de que los contratos y las leyes son tan difíciles de entender' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nuevo-reto-humanidad-computacion-cuantica-llave-maestra-amenaza-destruir-ciberseguridad-mundial-1403447'>Un nuevo reto para la humanidad: la computación cuántica es la llave maestra que amenaza con destruir la ciberseguridad mundial</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nuevo-reto-humanidad-computacion-cuantica-llave-maestra-amenaza-destruir-ciberseguridad-mundial-1403447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/computacion-cuantica-ciberseguridad-4107637.jpg?tf=1200x' alt='Un nuevo reto para la humanidad: la computación cuántica es la llave maestra que amenaza con destruir la ciberseguridad mundial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-recall-funcion-ia-tan-controvertida-1401840'>¿Qué es Windows Recall y por qué esta función de IA es tan controvertida?</a></h4>
-    <a href='https://computerhoy.com/windows/windows-recall-funcion-ia-tan-controvertida-1401840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1725614358130-4112828.jpg?tf=1200x' alt='¿Qué es Windows Recall y por qué esta función de IA es tan controvertida?' />
     </a>
 </div>
 
