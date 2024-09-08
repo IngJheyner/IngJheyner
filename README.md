@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/onlyfans-bate-records-usuarios-ganancias-reparto-creadores-1403958'>OnlyFans bate récords de usuarios, ganancias, y reparto entre los creadores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/onlyfans-bate-records-usuarios-ganancias-reparto-creadores-1403958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/onlyfans-bate-records-usuarios-ganancias-reparto-creadores-4129635.jpg?tf=1200x' alt='OnlyFans bate récords de usuarios, ganancias, y reparto entre los creadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/max-publica-documental-hayao-miyazaki-garza-1403957'>Max publica en secreto un homenaje al director de animación más legendario</a></h4>
     <a href='https://computerhoy.com/entretenimiento/max-publica-documental-hayao-miyazaki-garza-1403957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/max-publica-secreto-homenaje-director-animacion-legendario-4129339.jpg?tf=1200x' alt='Max publica en secreto un homenaje al director de animación más legendario' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/qualcomm-comprar-intel-1403953'>¿Qualcomm Core i9? La compañía de móviles quiere comprar a Intel su negocio de PC</a></h4>
     <a href='https://computerhoy.com/tecnologia/qualcomm-comprar-intel-1403953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/qualcomm-core-ultra-compania-moviles-quiere-comprar-intel-negocio-pc-4128445.jpg?tf=1200x' alt='¿Qualcomm Core i9? La compañía de móviles quiere comprar a Intel su negocio de PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-cambia-siempre-forma-anclar-aplicaciones-barra-tareas-windows-11-1403950'>Microsoft cambia para siempre la forma de anclar aplicaciones en la barra de tareas de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-cambia-siempre-forma-anclar-aplicaciones-barra-tareas-windows-11-1403950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/barra-tareas-windows-11-4127410.jpg?tf=1200x' alt='Microsoft cambia para siempre la forma de anclar aplicaciones en la barra de tareas de Windows 11' />
     </a>
 </div>
 
