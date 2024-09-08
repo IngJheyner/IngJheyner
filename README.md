@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/elon-musk-anuncia-viajes-marte-fecha-1403956'>Elon Musk anuncia los viajes a Marte en una fecha difícil de creer</a></h4>
+    <a href='https://computerhoy.com/espacio/elon-musk-anuncia-viajes-marte-fecha-1403956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/elon-musk-anuncia-viajes-marte-fecha-dificil-creer-4129035.jpg?tf=1200x' alt='Elon Musk anuncia los viajes a Marte en una fecha difícil de creer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/movil-arriesga-ultraligero-pantalla-tinta-electronica-barato-1403940'>Este móvil sí arriesga: ultraligero y con pantalla de tinta electrónica ¡y barato!</a></h4>
     <a href='https://computerhoy.com/android/movil-arriesga-ultraligero-pantalla-tinta-electronica-barato-1403940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/boox-palma-4126651.jpg?tf=1200x' alt='Este móvil sí arriesga: ultraligero y con pantalla de tinta electrónica ¡y barato!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/lector-ebooks-color-perfecto-estudiantes-tiene-aplicaciones-puedes-subrayar-color-1403861'>Este lector de ebooks a color es perfecto para estudiantes: tiene aplicaciones y puedes subrayar a color</a></h4>
     <a href='https://computerhoy.com/tecnologia/lector-ebooks-color-perfecto-estudiantes-tiene-aplicaciones-puedes-subrayar-color-1403861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/boox-go-color-7-4115165.jpg?tf=1200x' alt='Este lector de ebooks a color es perfecto para estudiantes: tiene aplicaciones y puedes subrayar a color' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ciencia-ficcion-fracaso-taquilla-casi-hunde-responsables-pero-llega-netflix-decada-despues-1402895'>Esta película de ciencia ficción fracasó en taquilla y casi hunde a sus responsables, pero llega a Netflix una década después</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-ciencia-ficcion-fracaso-taquilla-casi-hunde-responsables-pero-llega-netflix-decada-despues-1402895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pelicula-ciencia-ficcion-fracaso-taquilla-casi-hunde-responsables-pero-llega-netflix-decada-despues-4083988.jpg?tf=1200x' alt='Esta película de ciencia ficción fracasó en taquilla y casi hunde a sus responsables, pero llega a Netflix una década después' />
     </a>
 </div>
 
