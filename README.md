@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-garmin-identico-fenix-8-mas-barato-1365501'>Este Garmin es prácticamente idéntico a los nuevos Fenix 8, pero cuesta casi la mitad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-garmin-identico-fenix-8-mas-barato-1365501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3241634.jpg?tf=1200x' alt='Este Garmin es prácticamente idéntico a los nuevos Fenix 8, pero cuesta casi la mitad' />
+    <h4><a href='https://computerhoy.com/tecnologia/clon-airtag-menos-un-euro-1396783'>Este clon del AirTag cuesta menos de 1 euro y funciona con el mismo sistema de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/clon-airtag-menos-un-euro-1396783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cpvan-smart-tracker-3782890.jpg?tf=1200x' alt='Este clon del AirTag cuesta menos de 1 euro y funciona con el mismo sistema de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/no-deberias-tirar-discos-dvd-1352265'>Sí, haces bien en no tirar tus discos ni DVD antiguos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/no-deberias-tirar-discos-dvd-1352265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/disco-dvd-3253512.jpg?tf=1200x' alt='Sí, haces bien en no tirar tus discos ni DVD antiguos' />
+    <h4><a href='https://computerhoy.com/life/razon-contratos-leyes-son-tan-dificiles-entender-1403926'>La razón de que los contratos y las leyes son tan difíciles de entender</a></h4>
+    <a href='https://computerhoy.com/life/razon-contratos-leyes-son-tan-dificiles-entender-1403926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mit-descubre-contratos-leyes-son-tan-dificiles-entender-4125346.jpg?tf=1200x' alt='La razón de que los contratos y las leyes son tan difíciles de entender' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chrome-android-tendra-barra-herramientas-inferior-estilo-opera-vivaldi-1403923'>Chrome para Android tendrá una barra de herramientas inferior al estilo de Opera y Vivaldi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chrome-android-tendra-barra-herramientas-inferior-estilo-opera-vivaldi-1403923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chrome-android-4122430.jpg?tf=1200x' alt='Chrome para Android tendrá una barra de herramientas inferior al estilo de Opera y Vivaldi' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/nuevo-reto-humanidad-computacion-cuantica-llave-maestra-amenaza-destruir-ciberseguridad-mundial-1403447'>Un nuevo reto para la humanidad: la computación cuántica es la llave maestra que amenaza con destruir la ciberseguridad mundial</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nuevo-reto-humanidad-computacion-cuantica-llave-maestra-amenaza-destruir-ciberseguridad-mundial-1403447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/computacion-cuantica-ciberseguridad-4107637.jpg?tf=1200x' alt='Un nuevo reto para la humanidad: la computación cuántica es la llave maestra que amenaza con destruir la ciberseguridad mundial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/magnitud-contaminacion-plastica-220-millones-toneladas-2024-1403922'>La magnitud de la contaminación plástica: 220 millones de toneladas en 2024</a></h4>
-    <a href='https://computerhoy.com/life/magnitud-contaminacion-plastica-220-millones-toneladas-2024-1403922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/residuos-plasticos-4122286.jpg?tf=1200x' alt='La magnitud de la contaminación plástica: 220 millones de toneladas en 2024' />
+    <h4><a href='https://computerhoy.com/windows/windows-recall-funcion-ia-tan-controvertida-1401840'>¿Qué es Windows Recall y por qué esta función de IA es tan controvertida?</a></h4>
+    <a href='https://computerhoy.com/windows/windows-recall-funcion-ia-tan-controvertida-1401840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1725614358130-4112828.jpg?tf=1200x' alt='¿Qué es Windows Recall y por qué esta función de IA es tan controvertida?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/bitelchus-darth-vader-personajes-miticos-realidad-solo-aparecian-minutos-pantalla-1403622'>De Bitelchús a Darth Vader: personajes míticos que en realidad solo aparecían unos minutos en pantalla</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/bitelchus-darth-vader-personajes-miticos-realidad-solo-aparecian-minutos-pantalla-1403622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ni-bitelchus-ni-beetlejuice-iba-llamarse-origen-clasico-tim-burton-4085244.jpg?tf=1200x' alt='De Bitelchús a Darth Vader: personajes míticos que en realidad solo aparecían unos minutos en pantalla' />
+    <h4><a href='https://computerhoy.com/analisis/oneplus-buds-pro-3-analisis-opiniones-1403429'>He probado los OnePlus Buds Pro 3, te cautivarán por su diseño y te atraparán por su calidad de sonido</a></h4>
+    <a href='https://computerhoy.com/analisis/oneplus-buds-pro-3-analisis-opiniones-1403429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/oneplus-buds-pro-3-analisis-opiniones-4113771.jpg?tf=1200x' alt='He probado los OnePlus Buds Pro 3, te cautivarán por su diseño y te atraparán por su calidad de sonido' />
     </a>
 </div>
 
