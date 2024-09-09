@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-futbol-nuevos-deportes-suman-guerra-iptv-1404063'>No solo fútbol: nuevos deportes se suman a la guerra contra las IPTV</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/no-solo-futbol-nuevos-deportes-suman-guerra-iptv-1404063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/no-solo-futbol-nuevos-deportes-suman-guerra-iptv-4134046.jpg?tf=1200x' alt='No solo fútbol: nuevos deportes se suman a la guerra contra las IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/pluto-tv-trae-buenas-noticias-amantes-futbol-curioso-canal-1404045'>Pluto TV trae buenas noticias para los amantes del fútbol con este curioso canal</a></h4>
     <a href='https://computerhoy.com/tv/pluto-tv-trae-buenas-noticias-amantes-futbol-curioso-canal-1404045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pluto-tv-canales-deporte-4133893.jpg?tf=1200x' alt='Pluto TV trae buenas noticias para los amantes del fútbol con este curioso canal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-es-garmin-fenix-8-cuesta-mitad-pantalla-amoled-1365501'>No es el Fenix 8, pero es de Garmin, cuesta casi la mitad y también con pantalla AMOLED</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-es-garmin-fenix-8-cuesta-mitad-pantalla-amoled-1365501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3241634.jpg?tf=1200x' alt='No es el Fenix 8, pero es de Garmin, cuesta casi la mitad y también con pantalla AMOLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cerrajeros-desaconsejan-practica-tan-comun-espana-peligroso-muchos-paises-prohibido-1404022'>Los cerrajeros desaconsejan esta práctica tan común en España: "es peligroso y en muchos países está prohibido" </a></h4>
-    <a href='https://computerhoy.com/life/cerrajeros-desaconsejan-practica-tan-comun-espana-peligroso-muchos-paises-prohibido-1404022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/policia-nacional-advierte-saben-ladrones-casa-vacia-verano-3942893.jpg?tf=1200x' alt='Los cerrajeros desaconsejan esta práctica tan común en España: "es peligroso y en muchos países está prohibido" ' />
     </a>
 </div>
 
