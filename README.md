@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/polar-va-garmin-reloj-deportivo-gps-pantallon-amoled-precio-ganga-1404009'>Polar va a por Garmin: su reloj deportivo con GPS y pantallón AMOLED, a precio de ganga</a></h4>
+    <a href='https://computerhoy.com/tecnologia/polar-va-garmin-reloj-deportivo-gps-pantallon-amoled-precio-ganga-1404009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/polar-ignite-3-2908854.jpg?tf=1200x' alt='Polar va a por Garmin: su reloj deportivo con GPS y pantallón AMOLED, a precio de ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/truco-secreto-boton-123-teclado-android-1394991'>Desde que he descubierto el truco del botón 123 en Android no puedo parar de utilizarlo</a></h4>
+    <a href='https://computerhoy.com/android/truco-secreto-boton-123-teclado-android-1394991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-123-android-3712083.jpg?tf=1200x' alt='Desde que he descubierto el truco del botón 123 en Android no puedo parar de utilizarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/investigadores-consiguen-crear-puertas-logicas-electricidad-fin-electronica-tal-como-conocemos-1404028'>Investigadores consiguen crear puertas lógicas sin electricidad: ¿el fin de la electrónica tal y como la conocemos?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/investigadores-consiguen-crear-puertas-logicas-electricidad-fin-electronica-tal-como-conocemos-1404028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chip-4133886.jpg?tf=1200x' alt='Investigadores consiguen crear puertas lógicas sin electricidad: ¿el fin de la electrónica tal y como la conocemos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/sony-televisor-crt-grande-historia-43-pulgadas-precio-1393295'>Se cumplen de 35 años del televisor CRT más grande de la historia: 43 pulgadas, más de 200 kilos y un precio mareante</a></h4>
     <a href='https://computerhoy.com/tv/sony-televisor-crt-grande-historia-43-pulgadas-precio-1393295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sony-presento-hace-35-anos-televisor-crt-grande-historia-43-pulgadas-200-kilos-precio-desorbitado-3617148.jpg?tf=1200x' alt='Se cumplen de 35 años del televisor CRT más grande de la historia: 43 pulgadas, más de 200 kilos y un precio mareante' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/modo-cine-smart-tv-sirve-deberias-usarlo-ahora-mismo-1392727'>Qué es el modo cine de tu Smart TV, para qué sirve y por qué deberías usarlo ahora mismo</a></h4>
     <a href='https://computerhoy.com/tv/modo-cine-smart-tv-sirve-deberias-usarlo-ahora-mismo-1392727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-cine-smart-tv-sirve-deberias-usarlo-ahora-mismo-3595564.jpg?tf=1200x' alt='Qué es el modo cine de tu Smart TV, para qué sirve y por qué deberías usarlo ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-funcionan-llamadas-digi-servicio-caido-manana-1404073'>No funcionan las llamadas en DIGI: su servicio está caído desde esta mañana</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-funcionan-llamadas-digi-servicio-caido-manana-1404073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/digi-llamadas-no-funciona-4134385.jpg?tf=1200x' alt='No funcionan las llamadas en DIGI: su servicio está caído desde esta mañana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-windows-10-actualizar-windows-11-empresas-1399579'>Si la mayoría de los PC con Windows 10 se pueden actualizar Windows 11: ¿por qué las empresas se resisten?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-windows-10-actualizar-windows-11-empresas-1399579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-3911950.jpg?tf=1200x' alt='Si la mayoría de los PC con Windows 10 se pueden actualizar Windows 11: ¿por qué las empresas se resisten?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ue-sentencia-android-auto-podria-cambiar-siempre-seguramente-mejor-1404079'>La UE sentencia a Android Auto que podría cambiar para siempre (seguramente para mejor)</a></h4>
-    <a href='https://computerhoy.com/google/ue-sentencia-android-auto-podria-cambiar-siempre-seguramente-mejor-1404079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/union-europea-android-4134873.jpg?tf=1200x' alt='La UE sentencia a Android Auto que podría cambiar para siempre (seguramente para mejor)' />
     </a>
 </div>
 
