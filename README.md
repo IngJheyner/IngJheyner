@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/google-maps-paises-insultan-ciudades-maleducadas-ojo-espana-1404186'>El Google Maps de los países que más insultan y las ciudades más maleducadas: ojo con España</a></h4>
+    <a href='https://computerhoy.com/life/google-maps-paises-insultan-ciudades-maleducadas-ojo-espana-1404186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-maps-paises-insultan-ciudades-maleducadas-ojo-espana-4136614.jpg?tf=1200x' alt='El Google Maps de los países que más insultan y las ciudades más maleducadas: ojo con España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/boton-accion-iphone-16-funciones-1404181'>Todo lo que podrás hacer con el botón de acción del iPhone 16</a></h4>
     <a href='https://computerhoy.com/apple/boton-accion-iphone-16-funciones-1404181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/todo-podras-hacer-boton-accion-iphone-16-4137076.jpg?tf=1200x' alt='Todo lo que podrás hacer con el botón de acción del iPhone 16' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/android-auto-128-ya-disponible-todos-como-actualizar-ya-novedades-incluye-1404175'>Android Auto 12.8 ya disponible para todos: cómo actualizar ya y qué novedades incluye</a></h4>
     <a href='https://computerhoy.com/apps/android-auto-128-ya-disponible-todos-como-actualizar-ya-novedades-incluye-1404175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-auto-128-4136927.jpg?tf=1200x' alt='Android Auto 12.8 ya disponible para todos: cómo actualizar ya y qué novedades incluye' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ya-hay-fecha-salida-ios-18-no-esperara-iphone-16-1404172'>Ya hay fecha para la salida de iOS 18 y no se esperará al iPhone 16</a></h4>
-    <a href='https://computerhoy.com/apple/ya-hay-fecha-salida-ios-18-no-esperara-iphone-16-1404172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ios-18-hace-posible-ahora-podras-grabar-llamadas-iphone-3747921.jpg?tf=1200x' alt='Ya hay fecha para la salida de iOS 18 y no se esperará al iPhone 16' />
     </a>
 </div>
 
