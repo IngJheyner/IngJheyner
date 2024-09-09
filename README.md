@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/32-jovenes-iphone-no-saldrian-persona-movil-android-1404170'>Un 32% de los jóvenes con iPhone no saldrían con una persona con un móvil Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/32-jovenes-iphone-no-saldrian-persona-movil-android-1404170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/moviles-iphone-android-4136771.jpg?tf=1200x' alt='Un 32% de los jóvenes con iPhone no saldrían con una persona con un móvil Android' />
+    <h4><a href='https://computerhoy.com/life/forma-eliminar-microplasticos-agua-grifo-casa-1399446'>La sencilla forma de eliminar los microplásticos del agua del grifo en casa</a></h4>
+    <a href='https://computerhoy.com/life/forma-eliminar-microplasticos-agua-grifo-casa-1399446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/beber-agua-3905080.jpg?tf=1200x' alt='La sencilla forma de eliminar los microplásticos del agua del grifo en casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/significado-n-movil-android-siempre-activado-1394656'>Qué significa la N en la barra de estado de los móviles Android y por qué debes activarlo siempre</a></h4>
-    <a href='https://computerhoy.com/android/significado-n-movil-android-siempre-activado-1394656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/significa-n-movil-android-deberias-tenerlo-siempre-activado-3685886.jpg?tf=1200x' alt='Qué significa la N en la barra de estado de los móviles Android y por qué debes activarlo siempre' />
+    <h4><a href='https://computerhoy.com/moviles/apple-iphone-16-precio-fecha-lanzamiento-espana-1404173'>Estos son los precios de los nuevos iPhone 16 en España</a></h4>
+    <a href='https://computerhoy.com/moviles/apple-iphone-16-precio-fecha-lanzamiento-espana-1404173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/precios-iphone-16-espana-4136923.jpg?tf=1200x' alt='Estos son los precios de los nuevos iPhone 16 en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-16-pro-iphone-16-pro-max-dos-bestias-apple-ia-potencia-muy-top-1404058'>iPhone 16 Pro y iPhone 16 Pro Max, dos bestias de Apple con IA y potencia muy top</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-16-pro-iphone-16-pro-max-dos-bestias-apple-ia-potencia-muy-top-1404058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-pro-4136606.jpg?tf=1200x' alt='iPhone 16 Pro y iPhone 16 Pro Max, dos bestias de Apple con IA y potencia muy top' />
+    <h4><a href='https://computerhoy.com/apps/android-auto-128-ya-disponible-todos-como-actualizar-ya-novedades-incluye-1404175'>Android Auto 12.8 ya disponible para todos: cómo actualizar ya y qué novedades incluye</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-128-ya-disponible-todos-como-actualizar-ya-novedades-incluye-1404175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-auto-128-4136927.jpg?tf=1200x' alt='Android Auto 12.8 ya disponible para todos: cómo actualizar ya y qué novedades incluye' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-john-wick-ni-bad-boys-ride-or-die-pelicula-accion-mejores-criticas-netflix-1404036'>Ni John Wick ni Bad Boys Ride or Die: esta es la película de acción con mejores críticas, y está en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-john-wick-ni-bad-boys-ride-or-die-pelicula-accion-mejores-criticas-netflix-1404036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/rebel-ridge-2024-4105574.jpg?tf=1200x' alt='Ni John Wick ni Bad Boys Ride or Die: esta es la película de acción con mejores críticas, y está en Netflix' />
+    <h4><a href='https://computerhoy.com/apple/ya-hay-fecha-salida-ios-18-no-esperara-iphone-16-1404172'>Ya hay fecha para la salida de iOS 18 y no se esperará al iPhone 16</a></h4>
+    <a href='https://computerhoy.com/apple/ya-hay-fecha-salida-ios-18-no-esperara-iphone-16-1404172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ios-18-hace-posible-ahora-podras-grabar-llamadas-iphone-3747921.jpg?tf=1200x' alt='Ya hay fecha para la salida de iOS 18 y no se esperará al iPhone 16' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/detener-degradacion-bateria-movil-muy-facil-cargalo-siempre-apagado-1404162'>Detener la degradación de la batería de tu móvil es muy fácil: cárgalo siempre apagado</a></h4>
-    <a href='https://computerhoy.com/moviles/detener-degradacion-bateria-movil-muy-facil-cargalo-siempre-apagado-1404162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/detener-degradacion-bateria-movil-muy-facil-cargalo-siempre-apagado-4136162.jpg?tf=1200x' alt='Detener la degradación de la batería de tu móvil es muy fácil: cárgalo siempre apagado' />
+    <h4><a href='https://computerhoy.com/alimentacion/ni-aceite-oliva-coca-cola-producto-supermercado-ha-subido-precio-ocu-1404174'>Ni aceite de oliva o Coca Cola, este es el producto de supermercado que más ha subido de precio, según la OCU</a></h4>
+    <a href='https://computerhoy.com/alimentacion/ni-aceite-oliva-coca-cola-producto-supermercado-ha-subido-precio-ocu-1404174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/supermercado-4136922.jpg?tf=1200x' alt='Ni aceite de oliva o Coca Cola, este es el producto de supermercado que más ha subido de precio, según la OCU' />
     </a>
 </div>
 
