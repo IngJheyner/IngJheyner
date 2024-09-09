@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512'>Es una mezcla lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-casi-nadie-conoce-4057626.jpg?tf=1200x' alt='Es una mezcla lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ciencia-seres-humanos-fecha-llegada-singularidad-1399601'>La ciencia estima que el ser humano alcanzará la singularidad en solo 21 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ciencia-seres-humanos-fecha-llegada-singularidad-1399601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/foto-ia-3912121.jpg?tf=1200x' alt='La ciencia estima que el ser humano alcanzará la singularidad en solo 21 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/no-solo-futbol-nuevos-deportes-suman-guerra-iptv-1404063'>No solo fútbol: nuevos deportes se suman a la guerra contra las IPTV</a></h4>
     <a href='https://computerhoy.com/entretenimiento/no-solo-futbol-nuevos-deportes-suman-guerra-iptv-1404063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/no-solo-futbol-nuevos-deportes-suman-guerra-iptv-4134046.jpg?tf=1200x' alt='No solo fútbol: nuevos deportes se suman a la guerra contra las IPTV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-funcionan-llamadas-digi-servicio-caido-manana-1404073'>No funcionan las llamadas en DIGI: su servicio está caído desde esta mañana</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-funcionan-llamadas-digi-servicio-caido-manana-1404073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/digi-llamadas-no-funciona-4134385.jpg?tf=1200x' alt='No funcionan las llamadas en DIGI: su servicio está caído desde esta mañana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-evitar-movil-escuche-conversaciones-1326762'>Evita que tu teléfono móvil escuche tus conversaciones con este truco</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-evitar-movil-escuche-conversaciones-1326762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sencillo-truco-evitar-movil-escuche-conversaciones-3207452.jpg?tf=1200x' alt='Evita que tu teléfono móvil escuche tus conversaciones con este truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-es-garmin-fenix-8-cuesta-mitad-pantalla-amoled-1365501'>No es el Fenix 8, pero es de Garmin, cuesta casi la mitad y también con pantalla AMOLED</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-es-garmin-fenix-8-cuesta-mitad-pantalla-amoled-1365501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3241634.jpg?tf=1200x' alt='No es el Fenix 8, pero es de Garmin, cuesta casi la mitad y también con pantalla AMOLED' />
     </a>
 </div>
 
