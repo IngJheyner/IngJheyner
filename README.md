@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/solo-aquellos-alto-cociente-intelectual-pueden-resolver-desafio-viral-boligrafo-1404008'>Solo aquellos con un alto cociente intelectual pueden resolver el desafío viral del bolígrafo</a></h4>
+    <a href='https://computerhoy.com/redes/solo-aquellos-alto-cociente-intelectual-pueden-resolver-desafio-viral-boligrafo-1404008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/reto-viral-lapiz-4133891.jpg?tf=1200x' alt='Solo aquellos con un alto cociente intelectual pueden resolver el desafío viral del bolígrafo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-recomendada-favorita-stephen-king-1400084'>La serie nórdica de Netflix que ha fascinado a Stephen King: “Es mejor que Juego de Tronos y Breaking Bad”</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-recomendada-favorita-stephen-king-1400084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-3942729.jpg?tf=1200x' alt='La serie nórdica de Netflix que ha fascinado a Stephen King: “Es mejor que Juego de Tronos y Breaking Bad”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-niega-rumores-colaboracion-tesla-xai-calma-aguas-no-hay-necesidad-1404017'>Elon Musk niega los rumores de colaboración entre Tesla y xAI y calma las aguas: "No hay necesidad"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-niega-rumores-colaboracion-tesla-xai-calma-aguas-no-hay-necesidad-1404017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xai-elon-musk-4108849.jpg?tf=1200x' alt='Elon Musk niega los rumores de colaboración entre Tesla y xAI y calma las aguas: "No hay necesidad"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-finalmente-llega-espana-1404027'>El Samsung Galaxy Ring finalmente llega a España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-finalmente-llega-espana-1404027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-ring-3614572.jpg?tf=1200x' alt='El Samsung Galaxy Ring finalmente llega a España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aire-acondicionado-utiliza-bloques-hielo-enfriar-casas-promete-reducir-factura-1403996'>Este aire acondicionado utiliza bloques de hielo para enfriar las casas y promete reducir tu factura</a></h4>
     <a href='https://computerhoy.com/tecnologia/aire-acondicionado-utiliza-bloques-hielo-enfriar-casas-promete-reducir-factura-1403996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aire-acondicionado-hielo-4133386.jpg?tf=1200x' alt='Este aire acondicionado utiliza bloques de hielo para enfriar las casas y promete reducir tu factura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/particula-transmite-fuerza-gravedad-podria-cambiar-estudios-energia-cuantica-1403991'>Esta partícula transmite la fuerza de la gravedad y podría cambiar los estudios de la energía cuántica</a></h4>
-    <a href='https://computerhoy.com/ciencia/particula-transmite-fuerza-gravedad-podria-cambiar-estudios-energia-cuantica-1403991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/particula-transmite-fuerza-gravedad-podria-cambiar-estudios-energia-cuantica-4133083.jpg?tf=1200x' alt='Esta partícula transmite la fuerza de la gravedad y podría cambiar los estudios de la energía cuántica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/mejor-llavero-fans-apple-carga-apple-watch-fuera-casa-1403976'>Es el mejor llavero para fans de Apple: carga tu Apple Watch fuera de casa</a></h4>
-    <a href='https://computerhoy.com/apple/mejor-llavero-fans-apple-carga-apple-watch-fuera-casa-1403976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/llavero-apple-4132915.jpg?tf=1200x' alt='Es el mejor llavero para fans de Apple: carga tu Apple Watch fuera de casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-planea-competir-ray-ban-meta-llegarian-antes-pensado-1403984'>Apple planea competir con las Ray-Ban de Meta y llegarían antes de lo pensado</a></h4>
-    <a href='https://computerhoy.com/apple/apple-planea-competir-ray-ban-meta-llegarian-antes-pensado-1403984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ray-ban-stories-facebook-analisis-opinion-2714595.jpg?tf=1200x' alt='Apple planea competir con las Ray-Ban de Meta y llegarían antes de lo pensado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/posibles-precios-iphone-16-1402204'>Desvelados los (posibles) precios de los iPhone 16: prepara la cartera</a></h4>
-    <a href='https://computerhoy.com/apple/posibles-precios-iphone-16-1402204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-15-4108704.jpg?tf=1200x' alt='Desvelados los (posibles) precios de los iPhone 16: prepara la cartera' />
     </a>
 </div>
 
