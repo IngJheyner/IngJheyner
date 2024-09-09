@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/32-jovenes-iphone-no-saldrian-persona-movil-android-1404170'>Un 32% de los jóvenes con iPhone no saldrían con una persona con un móvil Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/32-jovenes-iphone-no-saldrian-persona-movil-android-1404170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/moviles-iphone-android-4136771.jpg?tf=1200x' alt='Un 32% de los jóvenes con iPhone no saldrían con una persona con un móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/significado-n-movil-android-siempre-activado-1394656'>Qué significa la N en la barra de estado de los móviles Android y por qué debes activarlo siempre</a></h4>
+    <a href='https://computerhoy.com/android/significado-n-movil-android-siempre-activado-1394656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/significa-n-movil-android-deberias-tenerlo-siempre-activado-3685886.jpg?tf=1200x' alt='Qué significa la N en la barra de estado de los móviles Android y por qué debes activarlo siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-16-pro-iphone-16-pro-max-dos-bestias-apple-ia-potencia-muy-top-1404058'>iPhone 16 Pro y iPhone 16 Pro Max, dos bestias de Apple con IA y potencia muy top</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-16-pro-iphone-16-pro-max-dos-bestias-apple-ia-potencia-muy-top-1404058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-pro-4136606.jpg?tf=1200x' alt='iPhone 16 Pro y iPhone 16 Pro Max, dos bestias de Apple con IA y potencia muy top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/ni-john-wick-ni-bad-boys-ride-or-die-pelicula-accion-mejores-criticas-netflix-1404036'>Ni John Wick ni Bad Boys Ride or Die: esta es la película de acción con mejores críticas, y está en Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/ni-john-wick-ni-bad-boys-ride-or-die-pelicula-accion-mejores-criticas-netflix-1404036' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/rebel-ridge-2024-4105574.jpg?tf=1200x' alt='Ni John Wick ni Bad Boys Ride or Die: esta es la película de acción con mejores críticas, y está en Netflix' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/detener-degradacion-bateria-movil-muy-facil-cargalo-siempre-apagado-1404162'>Detener la degradación de la batería de tu móvil es muy fácil: cárgalo siempre apagado</a></h4>
     <a href='https://computerhoy.com/moviles/detener-degradacion-bateria-movil-muy-facil-cargalo-siempre-apagado-1404162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/detener-degradacion-bateria-movil-muy-facil-cargalo-siempre-apagado-4136162.jpg?tf=1200x' alt='Detener la degradación de la batería de tu móvil es muy fácil: cárgalo siempre apagado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-presenta-airpods-4-cancelacion-ruido-version-economica-todos-bolsillos-1404130'>Apple presenta los AirPods 4 con cancelación de ruido y una versión más económica para todos los bolsillos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-presenta-airpods-4-cancelacion-ruido-version-economica-todos-bolsillos-1404130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-airpods-4-4136424.jpg?tf=1200x' alt='Apple presenta los AirPods 4 con cancelación de ruido y una versión más económica para todos los bolsillos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/apple-iphone-16-16-plus-presentacion-lanzamiento-oficial-1404153'>iPhone 16 y iPhone 16 Plus, la celebración del color llega cargada de inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/moviles/apple-iphone-16-16-plus-presentacion-lanzamiento-oficial-1404153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-4136432.jpg?tf=1200x' alt='iPhone 16 y iPhone 16 Plus, la celebración del color llega cargada de inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ue-prohibe-consola-retro-china-aliexpress-viral-1402718'>Retiran la consola china de juegos retro más viral de Aliexpress, y sorprendentemente no es por sus juegos ilegales</a></h4>
-    <a href='https://computerhoy.com/gaming/ue-prohibe-consola-retro-china-aliexpress-viral-1402718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ue-prohibe-popular-consola-retro-aliexpress-porque-toxica-4065356.jpg?tf=1200x' alt='Retiran la consola china de juegos retro más viral de Aliexpress, y sorprendentemente no es por sus juegos ilegales' />
     </a>
 </div>
 
