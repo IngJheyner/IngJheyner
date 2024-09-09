@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/espia-camara-telefono-movil-alertas-1268008'>Así es el espionaje a través de la cámara del teléfono móvil: 4 señales que podrían alertarte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/espia-camara-telefono-movil-alertas-1268008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/espiar-movil-3686040.jpg?tf=1200x' alt='Así es el espionaje a través de la cámara del teléfono móvil: 4 señales que podrían alertarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/hombre-memoriza-14000-primeras-cifras-numero-euler-usando-truco-1403960'>Memoriza las 14.000 primeras cifras del número de Euler, usando un truco</a></h4>
     <a href='https://computerhoy.com/ciencia/hombre-memoriza-14000-primeras-cifras-numero-euler-usando-truco-1403960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hombre-ha-memorizado-14000-primeras-cifras-numero-euler-usando-truco-4129931.jpg?tf=1200x' alt='Memoriza las 14.000 primeras cifras del número de Euler, usando un truco' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/elon-musk-anuncia-viajes-marte-fecha-1403956'>Elon Musk anuncia los viajes a Marte en una fecha difícil de creer</a></h4>
     <a href='https://computerhoy.com/espacio/elon-musk-anuncia-viajes-marte-fecha-1403956' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/elon-musk-anuncia-viajes-marte-fecha-dificil-creer-4129035.jpg?tf=1200x' alt='Elon Musk anuncia los viajes a Marte en una fecha difícil de creer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/movil-arriesga-ultraligero-pantalla-tinta-electronica-barato-1403940'>Este móvil sí arriesga: ultraligero y con pantalla de tinta electrónica ¡y barato!</a></h4>
-    <a href='https://computerhoy.com/android/movil-arriesga-ultraligero-pantalla-tinta-electronica-barato-1403940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/boox-palma-4126651.jpg?tf=1200x' alt='Este móvil sí arriesga: ultraligero y con pantalla de tinta electrónica ¡y barato!' />
     </a>
 </div>
 
