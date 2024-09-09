@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aire-acondicionado-utiliza-bloques-hielo-enfriar-casas-promete-reducir-factura-1403996'>Este aire acondicionado utiliza bloques de hielo para enfriar las casas y promete reducir tu factura</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aire-acondicionado-utiliza-bloques-hielo-enfriar-casas-promete-reducir-factura-1403996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aire-acondicionado-hielo-4133386.jpg?tf=1200x' alt='Este aire acondicionado utiliza bloques de hielo para enfriar las casas y promete reducir tu factura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/particula-transmite-fuerza-gravedad-podria-cambiar-estudios-energia-cuantica-1403991'>Esta partícula transmite la fuerza de la gravedad y podría cambiar los estudios de la energía cuántica</a></h4>
+    <a href='https://computerhoy.com/ciencia/particula-transmite-fuerza-gravedad-podria-cambiar-estudios-energia-cuantica-1403991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/particula-transmite-fuerza-gravedad-podria-cambiar-estudios-energia-cuantica-4133083.jpg?tf=1200x' alt='Esta partícula transmite la fuerza de la gravedad y podría cambiar los estudios de la energía cuántica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/mejor-llavero-fans-apple-carga-apple-watch-fuera-casa-1403976'>Es el mejor llavero para fans de Apple: carga tu Apple Watch fuera de casa</a></h4>
     <a href='https://computerhoy.com/apple/mejor-llavero-fans-apple-carga-apple-watch-fuera-casa-1403976' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/llavero-apple-4132915.jpg?tf=1200x' alt='Es el mejor llavero para fans de Apple: carga tu Apple Watch fuera de casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/posibles-precios-iphone-16-1402204'>Desvelados los (posibles) precios de los iPhone 16: prepara la cartera</a></h4>
     <a href='https://computerhoy.com/apple/posibles-precios-iphone-16-1402204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-15-4108704.jpg?tf=1200x' alt='Desvelados los (posibles) precios de los iPhone 16: prepara la cartera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-mini-pc-aliexpress-1394090'>Ryzen 7 y 16GB de RAM en tamaño de bolsillo: el Mini PC que arrasa en AliExpress apenas supera los 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-mini-pc-aliexpress-1394090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/firebat-mn56-3656025.jpg?tf=1200x' alt='Ryzen 7 y 16GB de RAM en tamaño de bolsillo: el Mini PC que arrasa en AliExpress apenas supera los 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/me-ha-gustado-razer-blade-18-aprovecha-todo-diseno-maximo-1403373'>Lo que más me ha gustado del Razer Blade 18 es que aprovecha todo su diseño al máximo</a></h4>
-    <a href='https://computerhoy.com/pc/me-ha-gustado-razer-blade-18-aprovecha-todo-diseno-maximo-1403373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/razer-blade-18-4079620.jpg?tf=1200x' alt='Lo que más me ha gustado del Razer Blade 18 es que aprovecha todo su diseño al máximo' />
     </a>
 </div>
 
