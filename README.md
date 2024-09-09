@@ -50,33 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512'>Es una mezcla lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-casi-nadie-conoce-4057626.jpg?tf=1200x' alt='Es una mezcla lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ciencia-seres-humanos-fecha-llegada-singularidad-1399601'>La ciencia estima que el ser humano alcanzará la singularidad en solo 21 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ciencia-seres-humanos-fecha-llegada-singularidad-1399601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/foto-ia-3912121.jpg?tf=1200x' alt='La ciencia estima que el ser humano alcanzará la singularidad en solo 21 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-futbol-nuevos-deportes-suman-guerra-iptv-1404063'>No solo fútbol: nuevos deportes se suman a la guerra contra las IPTV</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/no-solo-futbol-nuevos-deportes-suman-guerra-iptv-1404063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/no-solo-futbol-nuevos-deportes-suman-guerra-iptv-4134046.jpg?tf=1200x' alt='No solo fútbol: nuevos deportes se suman a la guerra contra las IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/pluto-tv-trae-buenas-noticias-amantes-futbol-curioso-canal-1404045'>Pluto TV trae buenas noticias para los amantes del fútbol con este curioso canal</a></h4>
-    <a href='https://computerhoy.com/tv/pluto-tv-trae-buenas-noticias-amantes-futbol-curioso-canal-1404045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pluto-tv-canales-deporte-4133893.jpg?tf=1200x' alt='Pluto TV trae buenas noticias para los amantes del fútbol con este curioso canal' />
+    <h4><a href='https://computerhoy.com/tv/modo-cine-smart-tv-sirve-deberias-usarlo-ahora-mismo-1392727'>Qué es el modo cine de tu Smart TV, para qué sirve y por qué deberías usarlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tv/modo-cine-smart-tv-sirve-deberias-usarlo-ahora-mismo-1392727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-cine-smart-tv-sirve-deberias-usarlo-ahora-mismo-3595564.jpg?tf=1200x' alt='Qué es el modo cine de tu Smart TV, para qué sirve y por qué deberías usarlo ahora mismo' />
     </a>
 </div>
 
@@ -85,6 +61,30 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-funcionan-llamadas-digi-servicio-caido-manana-1404073'>No funcionan las llamadas en DIGI: su servicio está caído desde esta mañana</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-funcionan-llamadas-digi-servicio-caido-manana-1404073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/digi-llamadas-no-funciona-4134385.jpg?tf=1200x' alt='No funcionan las llamadas en DIGI: su servicio está caído desde esta mañana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pc-windows-10-actualizar-windows-11-empresas-1399579'>Si la mayoría de los PC con Windows 10 se pueden actualizar Windows 11: ¿por qué las empresas se resisten?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-windows-10-actualizar-windows-11-empresas-1399579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-3911950.jpg?tf=1200x' alt='Si la mayoría de los PC con Windows 10 se pueden actualizar Windows 11: ¿por qué las empresas se resisten?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/ue-sentencia-android-auto-podria-cambiar-siempre-seguramente-mejor-1404079'>La UE sentencia a Android Auto que podría cambiar para siempre (seguramente para mejor)</a></h4>
+    <a href='https://computerhoy.com/google/ue-sentencia-android-auto-podria-cambiar-siempre-seguramente-mejor-1404079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/union-europea-android-4134873.jpg?tf=1200x' alt='La UE sentencia a Android Auto que podría cambiar para siempre (seguramente para mejor)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512'>Es una mezcla lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-casi-nadie-conoce-4057626.jpg?tf=1200x' alt='Es una mezcla lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce' />
     </a>
 </div>
 
