@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/boton-accion-iphone-16-funciones-1404181'>Todo lo que podrás hacer con el botón de acción del iPhone 16</a></h4>
+    <a href='https://computerhoy.com/apple/boton-accion-iphone-16-funciones-1404181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/todo-podras-hacer-boton-accion-iphone-16-4137076.jpg?tf=1200x' alt='Todo lo que podrás hacer con el botón de acción del iPhone 16' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/forma-eliminar-microplasticos-agua-grifo-casa-1399446'>La sencilla forma de eliminar los microplásticos del agua del grifo en casa</a></h4>
     <a href='https://computerhoy.com/life/forma-eliminar-microplasticos-agua-grifo-casa-1399446' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/beber-agua-3905080.jpg?tf=1200x' alt='La sencilla forma de eliminar los microplásticos del agua del grifo en casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/ya-hay-fecha-salida-ios-18-no-esperara-iphone-16-1404172'>Ya hay fecha para la salida de iOS 18 y no se esperará al iPhone 16</a></h4>
     <a href='https://computerhoy.com/apple/ya-hay-fecha-salida-ios-18-no-esperara-iphone-16-1404172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ios-18-hace-posible-ahora-podras-grabar-llamadas-iphone-3747921.jpg?tf=1200x' alt='Ya hay fecha para la salida de iOS 18 y no se esperará al iPhone 16' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/ni-aceite-oliva-coca-cola-producto-supermercado-ha-subido-precio-ocu-1404174'>Ni aceite de oliva o Coca Cola, este es el producto de supermercado que más ha subido de precio, según la OCU</a></h4>
-    <a href='https://computerhoy.com/alimentacion/ni-aceite-oliva-coca-cola-producto-supermercado-ha-subido-precio-ocu-1404174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/supermercado-4136922.jpg?tf=1200x' alt='Ni aceite de oliva o Coca Cola, este es el producto de supermercado que más ha subido de precio, según la OCU' />
     </a>
 </div>
 
