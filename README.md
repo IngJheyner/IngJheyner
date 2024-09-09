@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/mejor-llavero-fans-apple-carga-apple-watch-fuera-casa-1403976'>Es el mejor llavero para fans de Apple: carga tu Apple Watch fuera de casa</a></h4>
+    <a href='https://computerhoy.com/apple/mejor-llavero-fans-apple-carga-apple-watch-fuera-casa-1403976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/llavero-apple-4132915.jpg?tf=1200x' alt='Es el mejor llavero para fans de Apple: carga tu Apple Watch fuera de casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-planea-competir-ray-ban-meta-llegarian-antes-pensado-1403984'>Apple planea competir con las Ray-Ban de Meta y llegarían antes de lo pensado</a></h4>
+    <a href='https://computerhoy.com/apple/apple-planea-competir-ray-ban-meta-llegarian-antes-pensado-1403984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ray-ban-stories-facebook-analisis-opinion-2714595.jpg?tf=1200x' alt='Apple planea competir con las Ray-Ban de Meta y llegarían antes de lo pensado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/posibles-precios-iphone-16-1402204'>Desvelados los (posibles) precios de los iPhone 16: prepara la cartera</a></h4>
+    <a href='https://computerhoy.com/apple/posibles-precios-iphone-16-1402204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-15-4108704.jpg?tf=1200x' alt='Desvelados los (posibles) precios de los iPhone 16: prepara la cartera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-mini-pc-aliexpress-1394090'>Ryzen 7 y 16GB de RAM en tamaño de bolsillo: el Mini PC que arrasa en AliExpress apenas supera los 300 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-mini-pc-aliexpress-1394090' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/firebat-mn56-3656025.jpg?tf=1200x' alt='Ryzen 7 y 16GB de RAM en tamaño de bolsillo: el Mini PC que arrasa en AliExpress apenas supera los 300 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/me-ha-gustado-razer-blade-18-aprovecha-todo-diseno-maximo-1403373'>Lo que más me ha gustado del Razer Blade 18 es que aprovecha todo su diseño al máximo</a></h4>
     <a href='https://computerhoy.com/pc/me-ha-gustado-razer-blade-18-aprovecha-todo-diseno-maximo-1403373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/razer-blade-18-4079620.jpg?tf=1200x' alt='Lo que más me ha gustado del Razer Blade 18 es que aprovecha todo su diseño al máximo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/dreame-l40-ultra-analisis-opiniones-1403955'>He probado el Dreame L40 Ultra y me ha creado la necesidad de tener un robot aspirador que además friegue</a></h4>
-    <a href='https://computerhoy.com/analisis/dreame-l40-ultra-analisis-opiniones-1403955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dreame-l40-ultra-analisis-opiniones-4129036.jpg?tf=1200x' alt='He probado el Dreame L40 Ultra y me ha creado la necesidad de tener un robot aspirador que además friegue' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/espia-camara-telefono-movil-alertas-1268008'>Así es el espionaje a través de la cámara del teléfono móvil: 4 señales que podrían alertarte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/espia-camara-telefono-movil-alertas-1268008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/espiar-movil-3686040.jpg?tf=1200x' alt='Así es el espionaje a través de la cámara del teléfono móvil: 4 señales que podrían alertarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/hombre-memoriza-14000-primeras-cifras-numero-euler-usando-truco-1403960'>Memoriza las 14.000 primeras cifras del número de Euler, usando un truco</a></h4>
-    <a href='https://computerhoy.com/ciencia/hombre-memoriza-14000-primeras-cifras-numero-euler-usando-truco-1403960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hombre-ha-memorizado-14000-primeras-cifras-numero-euler-usando-truco-4129931.jpg?tf=1200x' alt='Memoriza las 14.000 primeras cifras del número de Euler, usando un truco' />
     </a>
 </div>
 
