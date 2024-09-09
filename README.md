@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/solo-aquellos-alto-cociente-intelectual-pueden-resolver-desafio-viral-boligrafo-1404008'>Solo aquellos con un alto cociente intelectual pueden resolver el desafío viral del bolígrafo</a></h4>
-    <a href='https://computerhoy.com/redes/solo-aquellos-alto-cociente-intelectual-pueden-resolver-desafio-viral-boligrafo-1404008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/reto-viral-lapiz-4133891.jpg?tf=1200x' alt='Solo aquellos con un alto cociente intelectual pueden resolver el desafío viral del bolígrafo' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-es-garmin-fenix-8-cuesta-mitad-pantalla-amoled-1365501'>No es el Fenix 8, pero es de Garmin, cuesta casi la mitad y también con pantalla AMOLED</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-es-garmin-fenix-8-cuesta-mitad-pantalla-amoled-1365501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3241634.jpg?tf=1200x' alt='No es el Fenix 8, pero es de Garmin, cuesta casi la mitad y también con pantalla AMOLED' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-recomendada-favorita-stephen-king-1400084'>La serie nórdica de Netflix que ha fascinado a Stephen King: “Es mejor que Juego de Tronos y Breaking Bad”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-recomendada-favorita-stephen-king-1400084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-3942729.jpg?tf=1200x' alt='La serie nórdica de Netflix que ha fascinado a Stephen King: “Es mejor que Juego de Tronos y Breaking Bad”' />
+    <h4><a href='https://computerhoy.com/life/cerrajeros-desaconsejan-practica-tan-comun-espana-peligroso-muchos-paises-prohibido-1404022'>Los cerrajeros desaconsejan esta práctica tan común en España: "es peligroso y en muchos países está prohibido" </a></h4>
+    <a href='https://computerhoy.com/life/cerrajeros-desaconsejan-practica-tan-comun-espana-peligroso-muchos-paises-prohibido-1404022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/policia-nacional-advierte-saben-ladrones-casa-vacia-verano-3942893.jpg?tf=1200x' alt='Los cerrajeros desaconsejan esta práctica tan común en España: "es peligroso y en muchos países está prohibido" ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-niega-rumores-colaboracion-tesla-xai-calma-aguas-no-hay-necesidad-1404017'>Elon Musk niega los rumores de colaboración entre Tesla y xAI y calma las aguas: "No hay necesidad"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-niega-rumores-colaboracion-tesla-xai-calma-aguas-no-hay-necesidad-1404017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xai-elon-musk-4108849.jpg?tf=1200x' alt='Elon Musk niega los rumores de colaboración entre Tesla y xAI y calma las aguas: "No hay necesidad"' />
+    <h4><a href='https://computerhoy.com/life/cambio-hora-2024-fecha-cambio-horario-invierno-1402550'>Cambio de hora 2024: se acaba lo bueno, esta es la fecha para el cambio al horario de invierno</a></h4>
+    <a href='https://computerhoy.com/life/cambio-hora-2024-fecha-cambio-horario-invierno-1402550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cambio-hora-2024-acaba-bueno-fecha-cambio-horario-invierno-4060987.jpg?tf=1200x' alt='Cambio de hora 2024: se acaba lo bueno, esta es la fecha para el cambio al horario de invierno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-finalmente-llega-espana-1404027'>El Samsung Galaxy Ring finalmente llega a España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-finalmente-llega-espana-1404027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-ring-3614572.jpg?tf=1200x' alt='El Samsung Galaxy Ring finalmente llega a España' />
+    <h4><a href='https://computerhoy.com/pc/cambie-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-1402728'>Cambié Windows en mi viejo portátil por este sistema operativo gratuito y ahora vuela</a></h4>
+    <a href='https://computerhoy.com/pc/cambie-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-1402728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/he-cambiado-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-4066727.jpg?tf=1200x' alt='Cambié Windows en mi viejo portátil por este sistema operativo gratuito y ahora vuela' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aire-acondicionado-utiliza-bloques-hielo-enfriar-casas-promete-reducir-factura-1403996'>Este aire acondicionado utiliza bloques de hielo para enfriar las casas y promete reducir tu factura</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aire-acondicionado-utiliza-bloques-hielo-enfriar-casas-promete-reducir-factura-1403996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aire-acondicionado-hielo-4133386.jpg?tf=1200x' alt='Este aire acondicionado utiliza bloques de hielo para enfriar las casas y promete reducir tu factura' />
+    <h4><a href='https://computerhoy.com/google/google-ha-prohibido-anuncios-cerrajeros-espana-buena-razon-proteger-consumidor-1404031'>Google ha prohibido los anuncios de cerrajeros en España por una buena razón: proteger al consumidor</a></h4>
+    <a href='https://computerhoy.com/google/google-ha-prohibido-anuncios-cerrajeros-espana-buena-razon-proteger-consumidor-1404031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-ha-prohibido-tipo-anuncios-espana-proteger-consumidores-4133714.jpg?tf=1200x' alt='Google ha prohibido los anuncios de cerrajeros en España por una buena razón: proteger al consumidor' />
     </a>
 </div>
 
