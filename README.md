@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/pluto-tv-trae-buenas-noticias-amantes-futbol-curioso-canal-1404045'>Pluto TV trae buenas noticias para los amantes del fútbol con este curioso canal</a></h4>
+    <a href='https://computerhoy.com/tv/pluto-tv-trae-buenas-noticias-amantes-futbol-curioso-canal-1404045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pluto-tv-canales-deporte-4133893.jpg?tf=1200x' alt='Pluto TV trae buenas noticias para los amantes del fútbol con este curioso canal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-funcionan-llamadas-digi-servicio-caido-manana-1404073'>No funcionan las llamadas en DIGI: su servicio está caído desde esta mañana</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-funcionan-llamadas-digi-servicio-caido-manana-1404073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/digi-llamadas-no-funciona-4134385.jpg?tf=1200x' alt='No funcionan las llamadas en DIGI: su servicio está caído desde esta mañana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/truco-evitar-movil-escuche-conversaciones-1326762'>Evita que tu teléfono móvil escuche tus conversaciones con este truco</a></h4>
+    <a href='https://computerhoy.com/tutoriales/truco-evitar-movil-escuche-conversaciones-1326762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sencillo-truco-evitar-movil-escuche-conversaciones-3207452.jpg?tf=1200x' alt='Evita que tu teléfono móvil escuche tus conversaciones con este truco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/no-es-garmin-fenix-8-cuesta-mitad-pantalla-amoled-1365501'>No es el Fenix 8, pero es de Garmin, cuesta casi la mitad y también con pantalla AMOLED</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-es-garmin-fenix-8-cuesta-mitad-pantalla-amoled-1365501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3241634.jpg?tf=1200x' alt='No es el Fenix 8, pero es de Garmin, cuesta casi la mitad y también con pantalla AMOLED' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cerrajeros-desaconsejan-practica-tan-comun-espana-peligroso-muchos-paises-prohibido-1404022'>Los cerrajeros desaconsejan esta práctica tan común en España: "es peligroso y en muchos países está prohibido" </a></h4>
     <a href='https://computerhoy.com/life/cerrajeros-desaconsejan-practica-tan-comun-espana-peligroso-muchos-paises-prohibido-1404022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/policia-nacional-advierte-saben-ladrones-casa-vacia-verano-3942893.jpg?tf=1200x' alt='Los cerrajeros desaconsejan esta práctica tan común en España: "es peligroso y en muchos países está prohibido" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cambio-hora-2024-fecha-cambio-horario-invierno-1402550'>Cambio de hora 2024: se acaba lo bueno, esta es la fecha para el cambio al horario de invierno</a></h4>
-    <a href='https://computerhoy.com/life/cambio-hora-2024-fecha-cambio-horario-invierno-1402550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cambio-hora-2024-acaba-bueno-fecha-cambio-horario-invierno-4060987.jpg?tf=1200x' alt='Cambio de hora 2024: se acaba lo bueno, esta es la fecha para el cambio al horario de invierno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cambie-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-1402728'>Cambié Windows en mi viejo portátil por este sistema operativo gratuito y ahora vuela</a></h4>
-    <a href='https://computerhoy.com/pc/cambie-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-1402728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/he-cambiado-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-4066727.jpg?tf=1200x' alt='Cambié Windows en mi viejo portátil por este sistema operativo gratuito y ahora vuela' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-ha-prohibido-anuncios-cerrajeros-espana-buena-razon-proteger-consumidor-1404031'>Google ha prohibido los anuncios de cerrajeros en España por una buena razón: proteger al consumidor</a></h4>
-    <a href='https://computerhoy.com/google/google-ha-prohibido-anuncios-cerrajeros-espana-buena-razon-proteger-consumidor-1404031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-ha-prohibido-tipo-anuncios-espana-proteger-consumidores-4133714.jpg?tf=1200x' alt='Google ha prohibido los anuncios de cerrajeros en España por una buena razón: proteger al consumidor' />
     </a>
 </div>
 
