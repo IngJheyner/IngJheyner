@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/polar-va-garmin-reloj-deportivo-gps-pantallon-amoled-precio-ganga-1404009'>Polar va a por Garmin: su reloj deportivo con GPS y pantallón AMOLED, a precio de ganga</a></h4>
-    <a href='https://computerhoy.com/tecnologia/polar-va-garmin-reloj-deportivo-gps-pantallon-amoled-precio-ganga-1404009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/polar-ignite-3-2908854.jpg?tf=1200x' alt='Polar va a por Garmin: su reloj deportivo con GPS y pantallón AMOLED, a precio de ganga' />
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-john-wick-ni-bad-boys-ride-or-die-pelicula-accion-mejores-criticas-netflix-1404036'>Ni John Wick ni Bad Boys Ride or Die: esta es la película de acción con mejores críticas, y está en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-john-wick-ni-bad-boys-ride-or-die-pelicula-accion-mejores-criticas-netflix-1404036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/rebel-ridge-2024-4105574.jpg?tf=1200x' alt='Ni John Wick ni Bad Boys Ride or Die: esta es la película de acción con mejores críticas, y está en Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/truco-secreto-boton-123-teclado-android-1394991'>Desde que he descubierto el truco del botón 123 en Android no puedo parar de utilizarlo</a></h4>
-    <a href='https://computerhoy.com/android/truco-secreto-boton-123-teclado-android-1394991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-123-android-3712083.jpg?tf=1200x' alt='Desde que he descubierto el truco del botón 123 en Android no puedo parar de utilizarlo' />
+    <h4><a href='https://computerhoy.com/moviles/detener-degradacion-bateria-movil-muy-facil-cargalo-siempre-apagado-1404162'>Detener la degradación de la batería de tu móvil es muy fácil: cárgalo siempre apagado</a></h4>
+    <a href='https://computerhoy.com/moviles/detener-degradacion-bateria-movil-muy-facil-cargalo-siempre-apagado-1404162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/detener-degradacion-bateria-movil-muy-facil-cargalo-siempre-apagado-4136162.jpg?tf=1200x' alt='Detener la degradación de la batería de tu móvil es muy fácil: cárgalo siempre apagado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/investigadores-consiguen-crear-puertas-logicas-electricidad-fin-electronica-tal-como-conocemos-1404028'>Investigadores consiguen crear puertas lógicas sin electricidad: ¿el fin de la electrónica tal y como la conocemos?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/investigadores-consiguen-crear-puertas-logicas-electricidad-fin-electronica-tal-como-conocemos-1404028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chip-4133886.jpg?tf=1200x' alt='Investigadores consiguen crear puertas lógicas sin electricidad: ¿el fin de la electrónica tal y como la conocemos?' />
+    <h4><a href='https://computerhoy.com/apple/apple-presenta-airpods-4-cancelacion-ruido-version-economica-todos-bolsillos-1404130'>Apple presenta los AirPods 4 con cancelación de ruido y una versión más económica para todos los bolsillos</a></h4>
+    <a href='https://computerhoy.com/apple/apple-presenta-airpods-4-cancelacion-ruido-version-economica-todos-bolsillos-1404130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-airpods-4-4136424.jpg?tf=1200x' alt='Apple presenta los AirPods 4 con cancelación de ruido y una versión más económica para todos los bolsillos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/sony-televisor-crt-grande-historia-43-pulgadas-precio-1393295'>Se cumplen de 35 años del televisor CRT más grande de la historia: 43 pulgadas, más de 200 kilos y un precio mareante</a></h4>
-    <a href='https://computerhoy.com/tv/sony-televisor-crt-grande-historia-43-pulgadas-precio-1393295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sony-presento-hace-35-anos-televisor-crt-grande-historia-43-pulgadas-200-kilos-precio-desorbitado-3617148.jpg?tf=1200x' alt='Se cumplen de 35 años del televisor CRT más grande de la historia: 43 pulgadas, más de 200 kilos y un precio mareante' />
+    <h4><a href='https://computerhoy.com/moviles/apple-iphone-16-16-plus-presentacion-lanzamiento-oficial-1404153'>iPhone 16 y iPhone 16 Plus, la celebración del color llega cargada de inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/moviles/apple-iphone-16-16-plus-presentacion-lanzamiento-oficial-1404153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-4136432.jpg?tf=1200x' alt='iPhone 16 y iPhone 16 Plus, la celebración del color llega cargada de inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/modo-cine-smart-tv-sirve-deberias-usarlo-ahora-mismo-1392727'>Qué es el modo cine de tu Smart TV, para qué sirve y por qué deberías usarlo ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tv/modo-cine-smart-tv-sirve-deberias-usarlo-ahora-mismo-1392727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-cine-smart-tv-sirve-deberias-usarlo-ahora-mismo-3595564.jpg?tf=1200x' alt='Qué es el modo cine de tu Smart TV, para qué sirve y por qué deberías usarlo ahora mismo' />
+    <h4><a href='https://computerhoy.com/gaming/ue-prohibe-consola-retro-china-aliexpress-viral-1402718'>Retiran la consola china de juegos retro más viral de Aliexpress, y sorprendentemente no es por sus juegos ilegales</a></h4>
+    <a href='https://computerhoy.com/gaming/ue-prohibe-consola-retro-china-aliexpress-viral-1402718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ue-prohibe-popular-consola-retro-aliexpress-porque-toxica-4065356.jpg?tf=1200x' alt='Retiran la consola china de juegos retro más viral de Aliexpress, y sorprendentemente no es por sus juegos ilegales' />
     </a>
 </div>
 
