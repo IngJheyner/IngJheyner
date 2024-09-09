@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/sony-televisor-crt-grande-historia-43-pulgadas-precio-1393295'>Se cumplen de 35 años del televisor CRT más grande de la historia: 43 pulgadas, más de 200 kilos y un precio mareante</a></h4>
+    <a href='https://computerhoy.com/tv/sony-televisor-crt-grande-historia-43-pulgadas-precio-1393295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sony-presento-hace-35-anos-televisor-crt-grande-historia-43-pulgadas-200-kilos-precio-desorbitado-3617148.jpg?tf=1200x' alt='Se cumplen de 35 años del televisor CRT más grande de la historia: 43 pulgadas, más de 200 kilos y un precio mareante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/modo-cine-smart-tv-sirve-deberias-usarlo-ahora-mismo-1392727'>Qué es el modo cine de tu Smart TV, para qué sirve y por qué deberías usarlo ahora mismo</a></h4>
     <a href='https://computerhoy.com/tv/modo-cine-smart-tv-sirve-deberias-usarlo-ahora-mismo-1392727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-cine-smart-tv-sirve-deberias-usarlo-ahora-mismo-3595564.jpg?tf=1200x' alt='Qué es el modo cine de tu Smart TV, para qué sirve y por qué deberías usarlo ahora mismo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/ue-sentencia-android-auto-podria-cambiar-siempre-seguramente-mejor-1404079'>La UE sentencia a Android Auto que podría cambiar para siempre (seguramente para mejor)</a></h4>
     <a href='https://computerhoy.com/google/ue-sentencia-android-auto-podria-cambiar-siempre-seguramente-mejor-1404079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/union-europea-android-4134873.jpg?tf=1200x' alt='La UE sentencia a Android Auto que podría cambiar para siempre (seguramente para mejor)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512'>Es una mezcla lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-casi-nadie-conoce-4057626.jpg?tf=1200x' alt='Es una mezcla lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce' />
     </a>
 </div>
 
