@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/todo-google-compania-hizo-buscador-algoritmo-negocio-multimillonario-1403806'>Todo sobre Google, la compañía que hizo de su buscador y algoritmo un negocio multimillonario</a></h4>
+    <a href='https://computerhoy.com/google/todo-google-compania-hizo-buscador-algoritmo-negocio-multimillonario-1403806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-larry-page-sergey-brin-4115168.jpg?tf=1200x' alt='Todo sobre Google, la compañía que hizo de su buscador y algoritmo un negocio multimillonario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/revisa-movil-detectadas-280-apps-falsas-android-listas-saquear-cartera-1404406'>Revisa tu móvil: detectadas 280 apps falsas para Android listas para saquear tu cartera</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/revisa-movil-detectadas-280-apps-falsas-android-listas-saquear-cartera-1404406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/malware-android-4144237.jpg?tf=1200x' alt='Revisa tu móvil: detectadas 280 apps falsas para Android listas para saquear tu cartera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/stephen-king-bendice-ultima-adaptacion-cine-novelas-buenas-1404303'>Stephen King bendice la última adaptación al cine de una de sus novelas: "es una de las buenas”</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/stephen-king-bendice-ultima-adaptacion-cine-novelas-buenas-1404303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/life-chuck-4142190.jpg?tf=1200x' alt='Stephen King bendice la última adaptación al cine de una de sus novelas: "es una de las buenas”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-vuelve-pensar-diferente-tendras-comprar-separado-cable-carga-airpods-4-1404402'>Apple vuelve a pensar diferente: tendrás que comprar por separado el cable de carga de los AirPods 4</a></h4>
     <a href='https://computerhoy.com/apple/apple-vuelve-pensar-diferente-tendras-comprar-separado-cable-carga-airpods-4-1404402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-airpods-4144085.jpg?tf=1200x' alt='Apple vuelve a pensar diferente: tendrás que comprar por separado el cable de carga de los AirPods 4' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-recibe-firmware-10-tres-anos-desarrollo-llega-cargado-novedades-1404400'>Flipper Zero recibe el firmware 1.0 tras tres años de desarrollo y llega cargado de novedades</a></h4>
     <a href='https://computerhoy.com/tecnologia/flipper-zero-recibe-firmware-10-tres-anos-desarrollo-llega-cargado-novedades-1404400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/firmware-10-flipper-zero-4144079.jpg?tf=1200x' alt='Flipper Zero recibe el firmware 1.0 tras tres años de desarrollo y llega cargado de novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/el-padrino-cadena-perpetua-mejor-pelicula-historia-ver-streaming-1401624'>Ni El Padrino ni Cadena Perpetua, la mejor película de la historia ya se puede ver en streaming</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/el-padrino-cadena-perpetua-mejor-pelicula-historia-ver-streaming-1401624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-ciudadano-kane-ni-cadena-perpetua-mejor-pelicula-historia-ya-puede-ver-plataformas-4015518.jpg?tf=1200x' alt='Ni El Padrino ni Cadena Perpetua, la mejor película de la historia ya se puede ver en streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/george-lucas-rinde-clasico-ciencia-ficcion-puedes-ver-max-mejor-star-wars-1404150'>George Lucas se rinde a este clásico de la ciencia ficción que puedes ver en MAX: “Es mejor que Star Wars”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/george-lucas-rinde-clasico-ciencia-ficcion-puedes-ver-max-mejor-star-wars-1404150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/2001-odisea-espacio-4142520.jpg?tf=1200x' alt='George Lucas se rinde a este clásico de la ciencia ficción que puedes ver en MAX: “Es mejor que Star Wars”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/humanoide-multitarea-bastante-creepy-robot-chatgpt-quiere-tengamos-casa-1404341'>Humanoide, multitarea… y bastante "creepy": así es el robot que ChatGPT quiere que tengamos en casa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/humanoide-multitarea-bastante-creepy-robot-chatgpt-quiere-tengamos-casa-1404341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/humanoide-multitarea-bastante-creepy-robot-chatgpt-quiere-tengamos-casa-4142037.jpg?tf=1200x' alt='Humanoide, multitarea… y bastante "creepy": así es el robot que ChatGPT quiere que tengamos en casa' />
     </a>
 </div>
 
