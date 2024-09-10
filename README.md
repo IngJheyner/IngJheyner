@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-ubicaciones-favoritas-waze-1402492'>Cómo crear ubicaciones favoritas en Waze</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-ubicaciones-favoritas-waze-1402492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/usar-waze-ubicaciones-favoritas-4057134.jpg?tf=1200x' alt='Cómo crear ubicaciones favoritas en Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/sony-ha-retirado-juego-pero-ha-duplicado-valor-apenas-dia-1404302'>Sony ha retirado este juego, pero ha duplicado su valor en apenas un día</a></h4>
+    <a href='https://computerhoy.com/gaming/sony-ha-retirado-juego-pero-ha-duplicado-valor-apenas-dia-1404302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sony-ha-retirado-juego-pero-ha-duplicado-valor-apenas-dia-4141551.jpg?tf=1200x' alt='Sony ha retirado este juego, pero ha duplicado su valor en apenas un día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cambia-tactica-acabar-iptv-piratas-multas-arrestos-usuarios-1404285'>Cambia la táctica para acabar con las IPTV piratas: multas y arrestos para los usuarios</a></h4>
     <a href='https://computerhoy.com/tecnologia/cambia-tactica-acabar-iptv-piratas-multas-arrestos-usuarios-1404285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tormenta-perfecta-iptv-macrorredada-acabar-futbol-gratis-3886548.jpg?tf=1200x' alt='Cambia la táctica para acabar con las IPTV piratas: multas y arrestos para los usuarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ilegal-me-llames-hora-otras-frases-infalibles-contestar-llamadas-spam-1404253'>"Es ilegal que me llames a esta hora" y otras frases infalibles para contestar llamadas spam</a></h4>
     <a href='https://computerhoy.com/life/ilegal-me-llames-hora-otras-frases-infalibles-contestar-llamadas-spam-1404253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-bloquear-ni-lista-robinson-mejor-forma-librarte-llamadas-spam-3892312.jpg?tf=1200x' alt='"Es ilegal que me llames a esta hora" y otras frases infalibles para contestar llamadas spam' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/motivo-porque-memoria-ram-soldada-portatil-beneficios-1382802'>Cada vez más portátiles llevan la memoria RAM soldada, y este es el motivo que lo explica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/motivo-porque-memoria-ram-soldada-portatil-beneficios-1382802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/soldar-memoria-ram-3305531.jpg?tf=1200x' alt='Cada vez más portátiles llevan la memoria RAM soldada, y este es el motivo que lo explica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/descubren-visualizacion-unica-funcion-privacidad-estrella-whatsapp-no-sirve-nada-desastre-1404245'>Descubren que "Visualización única", la función de privacidad estrella de WhatsApp, no sirve para nada: "es un desastre"</a></h4>
-    <a href='https://computerhoy.com/apps/descubren-visualizacion-unica-funcion-privacidad-estrella-whatsapp-no-sirve-nada-desastre-1404245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/descubren-visualizacion-unica-funcion-privacidad-estrella-whatsapp-no-sirve-nada-desastre-4140724.jpg?tf=1200x' alt='Descubren que "Visualización única", la función de privacidad estrella de WhatsApp, no sirve para nada: "es un desastre"' />
     </a>
 </div>
 
