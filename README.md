@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-lanza-cargador-magsafe-promete-25-w-carga-pero-tiene-truco-1404206'>Apple lanza un cargador MagSafe que promete hasta 25 W de carga pero tiene truco</a></h4>
-    <a href='https://computerhoy.com/apple/apple-lanza-cargador-magsafe-promete-25-w-carga-pero-tiene-truco-1404206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-quiere-convertir-magsafe-estandar-carga-inalambrica-2919234.jpg?tf=1200x' alt='Apple lanza un cargador MagSafe que promete hasta 25 W de carga pero tiene truco' />
+    <h4><a href='https://computerhoy.com/tecnologia/bolsillo-muy-potente-24-gb-ram-mini-pc-locos-amazon-1403968'>Cabe en un bolsillo y es muy potente: 24 GB de RAM en un Mini PC de locos en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bolsillo-muy-potente-24-gb-ram-mini-pc-locos-amazon-1403968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mini-pc-bmax-b8-plus-4132468.jpg?tf=1200x' alt='Cabe en un bolsillo y es muy potente: 24 GB de RAM en un Mini PC de locos en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cuanto-tiempo-dura-ordenador-portatil-como-saber-ha-llegado-momento-reemplazarlo-1403703'>Cuánto tiempo dura un ordenador portátil y cómo saber si ha llegado el momento de reemplazarlo</a></h4>
-    <a href='https://computerhoy.com/pc/cuanto-tiempo-dura-ordenador-portatil-como-saber-ha-llegado-momento-reemplazarlo-1403703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cuanto-tiempo-dura-ordenador-portatil-como-saber-ha-llegado-momento-remplazarlo-4110584.jpg?tf=1200x' alt='Cuánto tiempo dura un ordenador portátil y cómo saber si ha llegado el momento de reemplazarlo' />
+    <h4><a href='https://computerhoy.com/apple/caracteristica-ha-pasado-alto-airpods-pro-2-apple-1404212'>La característica que se ha pasado por alto de los AirPods Pro 2 de Apple </a></h4>
+    <a href='https://computerhoy.com/apple/caracteristica-ha-pasado-alto-airpods-pro-2-apple-1404212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844263.jpg?tf=1200x' alt='La característica que se ha pasado por alto de los AirPods Pro 2 de Apple ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-es-macbook-portatil-chino-windows-barato-1396484'>No es un MacBook, es mucho más barato: este portátil chino con Windows 11 apenas supera los 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-es-macbook-portatil-chino-windows-barato-1396484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chuwi-herobook-pro-3760890.jpg?tf=1200x' alt='No es un MacBook, es mucho más barato: este portátil chino con Windows 11 apenas supera los 200 euros' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-libros-gratis-amazon-kindle-legal-1224102'>Cómo descargar libros gratis para tu Amazon Kindle (de forma legal)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-libros-gratis-amazon-kindle-legal-1224102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-kindle-2022-2813017.jpg?tf=1200x' alt='Cómo descargar libros gratis para tu Amazon Kindle (de forma legal)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-muestra-iphone-16-pocos-cambios-pero-apoyandose-muchisimo-ia-suficiente-1404149'>Apple muestra un iPhone 16 con pocos cambios, pero apoyándose muchísimo en la IA que es más que suficiente</a></h4>
-    <a href='https://computerhoy.com/apple/apple-muestra-iphone-16-pocos-cambios-pero-apoyandose-muchisimo-ia-suficiente-1404149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-pro-4136608.jpg?tf=1200x' alt='Apple muestra un iPhone 16 con pocos cambios, pero apoyándose muchísimo en la IA que es más que suficiente' />
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-chino-barato-cuesta-menos-movil-tiene-windows-11-chasis-aluminio-macbook-1402851'>Abran paso: este portátil chino cuesta menos que un móvil, tiene Windows 11 y chasis de aluminio como un MacBook</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-chino-barato-cuesta-menos-movil-tiene-windows-11-chasis-aluminio-macbook-1402851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teclast-f16-plus-3260853.jpg?tf=1200x' alt='Abran paso: este portátil chino cuesta menos que un móvil, tiene Windows 11 y chasis de aluminio como un MacBook' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/todo-sobre-como-funciona-revolut-1403491'>Qué es Revolut: cómo funciona, ventajas, desventajas y como crear una cuenta</a></h4>
-    <a href='https://computerhoy.com/todo-sobre-como-funciona-revolut-1403491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-funciona-revolut-4111154.jpg?tf=1200x' alt='Qué es Revolut: cómo funciona, ventajas, desventajas y como crear una cuenta' />
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-clasica-stephen-king-disponible-amazon-prime-video-adelanto-50-anos-tiempo-1402454'>El mítico clásico de Stephen King disponible en Amazon Prime Video que se adelantó 50 años en el tiempo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-clasica-stephen-king-disponible-amazon-prime-video-adelanto-50-anos-tiempo-1402454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gran-clasico-stephen-king-disponible-amazon-prime-video-adelanto-50-anos-tiempo-4056165.jpg?tf=1200x' alt='El mítico clásico de Stephen King disponible en Amazon Prime Video que se adelantó 50 años en el tiempo' />
     </a>
 </div>
 
