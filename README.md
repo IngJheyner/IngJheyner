@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/continua-polemica-anillos-poder-primeros-datos-audiencias-no-son-buenos-1403824'>Continúa la polémica con Los anillos del poder: los primeros datos de sus audiencias no son buenos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/continua-polemica-anillos-poder-primeros-datos-audiencias-no-son-buenos-1403824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sigue-polemica-anillos-poder-primeros-datos-audiencias-no-son-buenos-4113776.jpg?tf=1200x' alt='Continúa la polémica con Los anillos del poder: los primeros datos de sus audiencias no son buenos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-epic-games-android-ios-1403443'>Cómo instalar Epic Games en Android e iOS</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-epic-games-android-ios-1403443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fortnite-android-ios-4101955.jpg?tf=1200x' alt='Cómo instalar Epic Games en Android e iOS' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/google-maps-paises-insultan-ciudades-maleducadas-ojo-espana-1404186'>El Google Maps de los países que más insultan y las ciudades más maleducadas: ojo con España</a></h4>
-    <a href='https://computerhoy.com/life/google-maps-paises-insultan-ciudades-maleducadas-ojo-espana-1404186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-maps-paises-insultan-ciudades-maleducadas-ojo-espana-4136614.jpg?tf=1200x' alt='El Google Maps de los países que más insultan y las ciudades más maleducadas: ojo con España' />
+    <h4><a href='https://computerhoy.com/internet/windows-7-8-firefox-tiene-buena-noticia-ti-1404189'>Si aún usas Windows 7 u 8, Firefox tiene una buena noticia para ti</a></h4>
+    <a href='https://computerhoy.com/internet/windows-7-8-firefox-tiene-buena-noticia-ti-1404189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aun-usas-windows-7-8-firefox-tiene-buena-noticia-ti-4139286.jpg?tf=1200x' alt='Si aún usas Windows 7 u 8, Firefox tiene una buena noticia para ti' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/boton-accion-iphone-16-funciones-1404181'>Todo lo que podrás hacer con el botón de acción del iPhone 16</a></h4>
-    <a href='https://computerhoy.com/apple/boton-accion-iphone-16-funciones-1404181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/todo-podras-hacer-boton-accion-iphone-16-4137076.jpg?tf=1200x' alt='Todo lo que podrás hacer con el botón de acción del iPhone 16' />
+    <h4><a href='https://computerhoy.com/android/vida-mas-alla-apple-samsung-airtag-mas-baratos-1403797'>Hay vida más allá de Apple: Samsung tiene sus propios AirTag, y son bastante más baratos</a></h4>
+    <a href='https://computerhoy.com/android/vida-mas-alla-apple-samsung-airtag-mas-baratos-1403797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-smarttag2-4113300.jpg?tf=1200x' alt='Hay vida más allá de Apple: Samsung tiene sus propios AirTag, y son bastante más baratos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/forma-eliminar-microplasticos-agua-grifo-casa-1399446'>La sencilla forma de eliminar los microplásticos del agua del grifo en casa</a></h4>
-    <a href='https://computerhoy.com/life/forma-eliminar-microplasticos-agua-grifo-casa-1399446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/beber-agua-3905080.jpg?tf=1200x' alt='La sencilla forma de eliminar los microplásticos del agua del grifo en casa' />
+    <h4><a href='https://computerhoy.com/tecnologia/movil-compraria-oneplus-tiene-todo-necesito-1402021'>Este es el móvil que me compraría ahora mismo: es de OnePlus y tiene todo lo que necesito para mi día a día</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-compraria-oneplus-tiene-todo-necesito-1402021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/detalle-pantalla-oneplus-nord-4-3911250.jpg?tf=1200x' alt='Este es el móvil que me compraría ahora mismo: es de OnePlus y tiene todo lo que necesito para mi día a día' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/apple-iphone-16-precio-fecha-lanzamiento-espana-1404173'>Estos son los precios de los nuevos iPhone 16 en España</a></h4>
-    <a href='https://computerhoy.com/moviles/apple-iphone-16-precio-fecha-lanzamiento-espana-1404173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/precios-iphone-16-espana-4136923.jpg?tf=1200x' alt='Estos son los precios de los nuevos iPhone 16 en España' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuanto-dura-disco-ssd-como-calcular-vida-util-1372531'>Cuánto tiempo dura un disco SSD y cómo calcular su vida útil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuanto-dura-disco-ssd-como-calcular-vida-util-1372531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuanto-tiempo-dura-disco-ssd-como-puedes-calcular-vida-util-3287783.jpg?tf=1200x' alt='Cuánto tiempo dura un disco SSD y cómo calcular su vida útil' />
     </a>
 </div>
 
