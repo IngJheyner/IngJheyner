@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cambia-tactica-acabar-iptv-piratas-multas-arrestos-usuarios-1404285'>Cambia la táctica para acabar con las IPTV piratas: multas y arrestos para los usuarios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cambia-tactica-acabar-iptv-piratas-multas-arrestos-usuarios-1404285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tormenta-perfecta-iptv-macrorredada-acabar-futbol-gratis-3886548.jpg?tf=1200x' alt='Cambia la táctica para acabar con las IPTV piratas: multas y arrestos para los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/internet-resuelve-misterio-celebrity-number-six-mujer-espanola-desconocida-durante-anos-1404283'>Internet resuelve el misterio “Celebrity Number Six”: es una mujer española desconocida durante años</a></h4>
+    <a href='https://computerhoy.com/internet/internet-resuelve-misterio-celebrity-number-six-mujer-espanola-desconocida-durante-anos-1404283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/celebridad-6-4141380.jpg?tf=1200x' alt='Internet resuelve el misterio “Celebrity Number Six”: es una mujer española desconocida durante años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ilegal-me-llames-hora-otras-frases-infalibles-contestar-llamadas-spam-1404253'>"Es ilegal que me llames a esta hora" y otras frases infalibles para contestar llamadas spam</a></h4>
+    <a href='https://computerhoy.com/life/ilegal-me-llames-hora-otras-frases-infalibles-contestar-llamadas-spam-1404253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-bloquear-ni-lista-robinson-mejor-forma-librarte-llamadas-spam-3892312.jpg?tf=1200x' alt='"Es ilegal que me llames a esta hora" y otras frases infalibles para contestar llamadas spam' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/motivo-porque-memoria-ram-soldada-portatil-beneficios-1382802'>Cada vez más portátiles llevan la memoria RAM soldada, y este es el motivo que lo explica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/motivo-porque-memoria-ram-soldada-portatil-beneficios-1382802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/soldar-memoria-ram-3305531.jpg?tf=1200x' alt='Cada vez más portátiles llevan la memoria RAM soldada, y este es el motivo que lo explica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/descubren-visualizacion-unica-funcion-privacidad-estrella-whatsapp-no-sirve-nada-desastre-1404245'>Descubren que "Visualización única", la función de privacidad estrella de WhatsApp, no sirve para nada: "es un desastre"</a></h4>
     <a href='https://computerhoy.com/apps/descubren-visualizacion-unica-funcion-privacidad-estrella-whatsapp-no-sirve-nada-desastre-1404245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/descubren-visualizacion-unica-funcion-privacidad-estrella-whatsapp-no-sirve-nada-desastre-4140724.jpg?tf=1200x' alt='Descubren que "Visualización única", la función de privacidad estrella de WhatsApp, no sirve para nada: "es un desastre"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ultimas-filtraciones-confirman-funcion-importante-esperada-nintendo-switch-2-1404216'>Las últimas filtraciones confirman la función más importante y esperada de Nintendo Switch 2</a></h4>
-    <a href='https://computerhoy.com/gaming/ultimas-filtraciones-confirman-funcion-importante-esperada-nintendo-switch-2-1404216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nintendo-switch-2-3306356.jpg?tf=1200x' alt='Las últimas filtraciones confirman la función más importante y esperada de Nintendo Switch 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chollo-flash-ps5-edicion-slim-digital-cae-precio-no-queda-mucho-1404278'>Chollo flash en la PS5: su edición Slim Digital cae de precio y no le queda mucho</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chollo-flash-ps5-edicion-slim-digital-cae-precio-no-queda-mucho-1404278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ps5-slim-3231520.jpg?tf=1200x' alt='Chollo flash en la PS5: su edición Slim Digital cae de precio y no le queda mucho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pulsera-gps-xiaomi-hunde-precio-aliexpress-te-llega-tiempo-record-1404265'>La pulsera con GPS de Xiaomi hunde su precio en AliExpress, y te llega en tiempo récord</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pulsera-gps-xiaomi-hunde-precio-aliexpress-te-llega-tiempo-record-1404265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-smart-band-7-pro-2833389.jpg?tf=1200x' alt='La pulsera con GPS de Xiaomi hunde su precio en AliExpress, y te llega en tiempo récord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/sistemas-operativos-estan-obsoletos-cambio-desarrolladores-hablan-1404227'>¿Los sistemas operativos están obsoletos? Este es el cambio del que los desarrolladores hablan </a></h4>
-    <a href='https://computerhoy.com/pc/sistemas-operativos-estan-obsoletos-cambio-desarrolladores-hablan-1404227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ordenador-software-diseno-3038332.jpg?tf=1200x' alt='¿Los sistemas operativos están obsoletos? Este es el cambio del que los desarrolladores hablan ' />
     </a>
 </div>
 
