@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/continua-polemica-anillos-poder-primeros-datos-audiencias-no-son-buenos-1403824'>Continúa la polémica con Los anillos del poder: los primeros datos de sus audiencias no son buenos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/continua-polemica-anillos-poder-primeros-datos-audiencias-no-son-buenos-1403824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sigue-polemica-anillos-poder-primeros-datos-audiencias-no-son-buenos-4113776.jpg?tf=1200x' alt='Continúa la polémica con Los anillos del poder: los primeros datos de sus audiencias no son buenos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/google-maps-paises-insultan-ciudades-maleducadas-ojo-espana-1404186'>El Google Maps de los países que más insultan y las ciudades más maleducadas: ojo con España</a></h4>
     <a href='https://computerhoy.com/life/google-maps-paises-insultan-ciudades-maleducadas-ojo-espana-1404186' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-maps-paises-insultan-ciudades-maleducadas-ojo-espana-4136614.jpg?tf=1200x' alt='El Google Maps de los países que más insultan y las ciudades más maleducadas: ojo con España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/apple-iphone-16-precio-fecha-lanzamiento-espana-1404173'>Estos son los precios de los nuevos iPhone 16 en España</a></h4>
     <a href='https://computerhoy.com/moviles/apple-iphone-16-precio-fecha-lanzamiento-espana-1404173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/precios-iphone-16-espana-4136923.jpg?tf=1200x' alt='Estos son los precios de los nuevos iPhone 16 en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-128-ya-disponible-todos-como-actualizar-ya-novedades-incluye-1404175'>Android Auto 12.8 ya disponible para todos: cómo actualizar ya y qué novedades incluye</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-128-ya-disponible-todos-como-actualizar-ya-novedades-incluye-1404175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-auto-128-4136927.jpg?tf=1200x' alt='Android Auto 12.8 ya disponible para todos: cómo actualizar ya y qué novedades incluye' />
     </a>
 </div>
 
