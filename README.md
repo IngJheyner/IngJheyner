@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/sistemas-operativos-estan-obsoletos-cambio-desarrolladores-hablan-1404227'>¿Los sistemas operativos están obsoletos? Este es el cambio del que los desarrolladores hablan </a></h4>
+    <a href='https://computerhoy.com/pc/sistemas-operativos-estan-obsoletos-cambio-desarrolladores-hablan-1404227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ordenador-software-diseno-3038332.jpg?tf=1200x' alt='¿Los sistemas operativos están obsoletos? Este es el cambio del que los desarrolladores hablan ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/varapalo-google-tribunal-ue-apoya-multa-2400-millones-euros-practicas-anticompetitivas-1404249'>Varapalo para Google: el Tribunal de la UE apoya la multa de 2.400 millones de euros por prácticas anticompetitivas</a></h4>
     <a href='https://computerhoy.com/google/varapalo-google-tribunal-ue-apoya-multa-2400-millones-euros-practicas-anticompetitivas-1404249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ue-sentencia-google-tiene-monopolio-android-auto-4134542.jpg?tf=1200x' alt='Varapalo para Google: el Tribunal de la UE apoya la multa de 2.400 millones de euros por prácticas anticompetitivas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/caracteristica-ha-pasado-alto-airpods-pro-2-apple-1404212'>La característica que se ha pasado por alto de los AirPods Pro 2 de Apple </a></h4>
     <a href='https://computerhoy.com/apple/caracteristica-ha-pasado-alto-airpods-pro-2-apple-1404212' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844263.jpg?tf=1200x' alt='La característica que se ha pasado por alto de los AirPods Pro 2 de Apple ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-libros-gratis-amazon-kindle-legal-1224102'>Cómo descargar libros gratis para tu Amazon Kindle (de forma legal)</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-libros-gratis-amazon-kindle-legal-1224102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-kindle-2022-2813017.jpg?tf=1200x' alt='Cómo descargar libros gratis para tu Amazon Kindle (de forma legal)' />
     </a>
 </div>
 
