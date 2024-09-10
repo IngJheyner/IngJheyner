@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-vende-cascos-moda-no-son-como-tienes-todos-runners-llevan-1404093'>Xiaomi vende los cascos de moda: no son como los que tienes y todos los runners los llevan</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-vende-cascos-moda-no-son-como-tienes-todos-runners-llevan-1404093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/auriculares-conduccion-osea-xiaomi-4133881.jpg?tf=1200x' alt='Xiaomi vende los cascos de moda: no son como los que tienes y todos los runners los llevan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/solucion-bombillas-led-encendidas-interruptor-apagado-1401214'>Cómo solucionar el problema de las bombillas LED que se quedan encendidas incluso con el interruptor apagado</a></h4>
+    <a href='https://computerhoy.com/energia/solucion-bombillas-led-encendidas-interruptor-apagado-1401214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/quedan-encendidas-bombillas-led-incluso-interruptor-apagado-como-solucionarlo-4000493.jpg?tf=1200x' alt='Cómo solucionar el problema de las bombillas LED que se quedan encendidas incluso con el interruptor apagado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-activar-funcion-bola-flotante-movil-xiaomi-1404113'>Cómo activar la función Bola Flotante en tu móvil Xiaomi</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-activar-funcion-bola-flotante-movil-xiaomi-1404113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bola-flotante-movil-xiaomi-4135793.jpg?tf=1200x' alt='Cómo activar la función Bola Flotante en tu móvil Xiaomi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/truco-papel-aluminio-router-wifi-1401248'>Por qué debes colocar papel de aluminio detrás de tu router WiFi</a></h4>
     <a href='https://computerhoy.com/redes/truco-papel-aluminio-router-wifi-1401248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/deberias-colocar-papel-aluminio-detras-router-wifi-4002677.jpg?tf=1200x' alt='Por qué debes colocar papel de aluminio detrás de tu router WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/rumbo-otros-planetas-nasa-prueba-revolucionaria-tecnologia-podria-cambiar-viajes-espaciales-siempre-1404242'>Rumbo a otros planetas: la NASA prueba una revolucionaria tecnología que podría cambiar los viajes espaciales para siempre</a></h4>
-    <a href='https://computerhoy.com/espacio/rumbo-otros-planetas-nasa-prueba-revolucionaria-tecnologia-podria-cambiar-viajes-espaciales-siempre-1404242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/velas-espaciales-4141210.jpg?tf=1200x' alt='Rumbo a otros planetas: la NASA prueba una revolucionaria tecnología que podría cambiar los viajes espaciales para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/5-decodificadores-ver-tdt-4k-son-baratos-1404359'>5 decodificadores para ver la TDT en 4K que son baratos</a></h4>
-    <a href='https://computerhoy.com/tv/5-decodificadores-ver-tdt-4k-son-baratos-1404359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/receptor-tele-system-4142678.jpg?tf=1200x' alt='5 decodificadores para ver la TDT en 4K que son baratos' />
     </a>
 </div>
 
