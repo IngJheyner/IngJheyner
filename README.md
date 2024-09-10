@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/descubren-visualizacion-unica-funcion-privacidad-estrella-whatsapp-no-sirve-nada-desastre-1404245'>Descubren que "Visualización única", la función de privacidad estrella de WhatsApp, no sirve para nada: "es un desastre"</a></h4>
+    <a href='https://computerhoy.com/apps/descubren-visualizacion-unica-funcion-privacidad-estrella-whatsapp-no-sirve-nada-desastre-1404245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/descubren-visualizacion-unica-funcion-privacidad-estrella-whatsapp-no-sirve-nada-desastre-4140724.jpg?tf=1200x' alt='Descubren que "Visualización única", la función de privacidad estrella de WhatsApp, no sirve para nada: "es un desastre"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ultimas-filtraciones-confirman-funcion-importante-esperada-nintendo-switch-2-1404216'>Las últimas filtraciones confirman la función más importante y esperada de Nintendo Switch 2</a></h4>
+    <a href='https://computerhoy.com/gaming/ultimas-filtraciones-confirman-funcion-importante-esperada-nintendo-switch-2-1404216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nintendo-switch-2-3306356.jpg?tf=1200x' alt='Las últimas filtraciones confirman la función más importante y esperada de Nintendo Switch 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chollo-flash-ps5-edicion-slim-digital-cae-precio-no-queda-mucho-1404278'>Chollo flash en la PS5: su edición Slim Digital cae de precio y no le queda mucho</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chollo-flash-ps5-edicion-slim-digital-cae-precio-no-queda-mucho-1404278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ps5-slim-3231520.jpg?tf=1200x' alt='Chollo flash en la PS5: su edición Slim Digital cae de precio y no le queda mucho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pulsera-gps-xiaomi-hunde-precio-aliexpress-te-llega-tiempo-record-1404265'>La pulsera con GPS de Xiaomi hunde su precio en AliExpress, y te llega en tiempo récord</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pulsera-gps-xiaomi-hunde-precio-aliexpress-te-llega-tiempo-record-1404265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/xiaomi-smart-band-7-pro-2833389.jpg?tf=1200x' alt='La pulsera con GPS de Xiaomi hunde su precio en AliExpress, y te llega en tiempo récord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/sistemas-operativos-estan-obsoletos-cambio-desarrolladores-hablan-1404227'>¿Los sistemas operativos están obsoletos? Este es el cambio del que los desarrolladores hablan </a></h4>
     <a href='https://computerhoy.com/pc/sistemas-operativos-estan-obsoletos-cambio-desarrolladores-hablan-1404227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ordenador-software-diseno-3038332.jpg?tf=1200x' alt='¿Los sistemas operativos están obsoletos? Este es el cambio del que los desarrolladores hablan ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/varapalo-google-tribunal-ue-apoya-multa-2400-millones-euros-practicas-anticompetitivas-1404249'>Varapalo para Google: el Tribunal de la UE apoya la multa de 2.400 millones de euros por prácticas anticompetitivas</a></h4>
-    <a href='https://computerhoy.com/google/varapalo-google-tribunal-ue-apoya-multa-2400-millones-euros-practicas-anticompetitivas-1404249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ue-sentencia-google-tiene-monopolio-android-auto-4134542.jpg?tf=1200x' alt='Varapalo para Google: el Tribunal de la UE apoya la multa de 2.400 millones de euros por prácticas anticompetitivas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tribunal-ue-da-razon-apple-no-tendra-devolver-13000-millones-euros-impuestos-1404239'>El Tribunal de la UE da la razón Apple y no tendrá que devolver 13.000 millones de euros en impuestos</a></h4>
-    <a href='https://computerhoy.com/apple/tribunal-ue-da-razon-apple-no-tendra-devolver-13000-millones-euros-impuestos-1404239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tim-cook-3546991.jpg?tf=1200x' alt='El Tribunal de la UE da la razón Apple y no tendrá que devolver 13.000 millones de euros en impuestos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bolsillo-muy-potente-24-gb-ram-mini-pc-locos-amazon-1403968'>Cabe en un bolsillo y es muy potente: 24 GB de RAM en un Mini PC de locos en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bolsillo-muy-potente-24-gb-ram-mini-pc-locos-amazon-1403968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mini-pc-bmax-b8-plus-4132468.jpg?tf=1200x' alt='Cabe en un bolsillo y es muy potente: 24 GB de RAM en un Mini PC de locos en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/caracteristica-ha-pasado-alto-airpods-pro-2-apple-1404212'>La característica que se ha pasado por alto de los AirPods Pro 2 de Apple </a></h4>
-    <a href='https://computerhoy.com/apple/caracteristica-ha-pasado-alto-airpods-pro-2-apple-1404212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844263.jpg?tf=1200x' alt='La característica que se ha pasado por alto de los AirPods Pro 2 de Apple ' />
     </a>
 </div>
 
