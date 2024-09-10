@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-es-macbook-portatil-chino-windows-barato-1396484'>No es un MacBook, es mucho más barato: este portátil chino con Windows 11 apenas supera los 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-es-macbook-portatil-chino-windows-barato-1396484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chuwi-herobook-pro-3760890.jpg?tf=1200x' alt='No es un MacBook, es mucho más barato: este portátil chino con Windows 11 apenas supera los 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-muestra-iphone-16-pocos-cambios-pero-apoyandose-muchisimo-ia-suficiente-1404149'>Apple muestra un iPhone 16 con pocos cambios, pero apoyándose muchísimo en la IA que es más que suficiente</a></h4>
+    <a href='https://computerhoy.com/apple/apple-muestra-iphone-16-pocos-cambios-pero-apoyandose-muchisimo-ia-suficiente-1404149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-pro-4136608.jpg?tf=1200x' alt='Apple muestra un iPhone 16 con pocos cambios, pero apoyándose muchísimo en la IA que es más que suficiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/todo-sobre-como-funciona-revolut-1403491'>Qué es Revolut: cómo funciona, ventajas, desventajas y como crear una cuenta</a></h4>
+    <a href='https://computerhoy.com/todo-sobre-como-funciona-revolut-1403491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-funciona-revolut-4111154.jpg?tf=1200x' alt='Qué es Revolut: cómo funciona, ventajas, desventajas y como crear una cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-epic-games-android-ios-1403443'>Cómo instalar Epic Games en Android e iOS</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-epic-games-android-ios-1403443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fortnite-android-ios-4101955.jpg?tf=1200x' alt='Cómo instalar Epic Games en Android e iOS' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/windows-7-8-firefox-tiene-buena-noticia-ti-1404189'>Si aún usas Windows 7 u 8, Firefox tiene una buena noticia para ti</a></h4>
     <a href='https://computerhoy.com/internet/windows-7-8-firefox-tiene-buena-noticia-ti-1404189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aun-usas-windows-7-8-firefox-tiene-buena-noticia-ti-4139286.jpg?tf=1200x' alt='Si aún usas Windows 7 u 8, Firefox tiene una buena noticia para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/vida-mas-alla-apple-samsung-airtag-mas-baratos-1403797'>Hay vida más allá de Apple: Samsung tiene sus propios AirTag, y son bastante más baratos</a></h4>
-    <a href='https://computerhoy.com/android/vida-mas-alla-apple-samsung-airtag-mas-baratos-1403797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-smarttag2-4113300.jpg?tf=1200x' alt='Hay vida más allá de Apple: Samsung tiene sus propios AirTag, y son bastante más baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-compraria-oneplus-tiene-todo-necesito-1402021'>Este es el móvil que me compraría ahora mismo: es de OnePlus y tiene todo lo que necesito para mi día a día</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-compraria-oneplus-tiene-todo-necesito-1402021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/detalle-pantalla-oneplus-nord-4-3911250.jpg?tf=1200x' alt='Este es el móvil que me compraría ahora mismo: es de OnePlus y tiene todo lo que necesito para mi día a día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuanto-dura-disco-ssd-como-calcular-vida-util-1372531'>Cuánto tiempo dura un disco SSD y cómo calcular su vida útil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuanto-dura-disco-ssd-como-calcular-vida-util-1372531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuanto-tiempo-dura-disco-ssd-como-puedes-calcular-vida-util-3287783.jpg?tf=1200x' alt='Cuánto tiempo dura un disco SSD y cómo calcular su vida útil' />
     </a>
 </div>
 
