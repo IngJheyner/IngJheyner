@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/taito-lanza-reloj-supera-apple-watch-jugar-space-invaders-1404413'>Taito lanza un reloj que supera al Apple Watch en una cosa: puedes jugar a Space Invaders</a></h4>
+    <a href='https://computerhoy.com/gaming/taito-lanza-reloj-supera-apple-watch-jugar-space-invaders-1404413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/taito-lanza-reloj-supera-apple-watch-cosa-puedes-jugar-space-invaders-4144464.jpg?tf=1200x' alt='Taito lanza un reloj que supera al Apple Watch en una cosa: puedes jugar a Space Invaders' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/todo-google-compania-hizo-buscador-algoritmo-negocio-multimillonario-1403806'>Todo sobre Google, la compañía que hizo de su buscador y algoritmo un negocio multimillonario</a></h4>
     <a href='https://computerhoy.com/google/todo-google-compania-hizo-buscador-algoritmo-negocio-multimillonario-1403806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-larry-page-sergey-brin-4115168.jpg?tf=1200x' alt='Todo sobre Google, la compañía que hizo de su buscador y algoritmo un negocio multimillonario' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-vuelve-pensar-diferente-tendras-comprar-separado-cable-carga-airpods-4-1404402'>Apple vuelve a pensar diferente: tendrás que comprar por separado el cable de carga de los AirPods 4</a></h4>
     <a href='https://computerhoy.com/apple/apple-vuelve-pensar-diferente-tendras-comprar-separado-cable-carga-airpods-4-1404402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-airpods-4144085.jpg?tf=1200x' alt='Apple vuelve a pensar diferente: tendrás que comprar por separado el cable de carga de los AirPods 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-recibe-firmware-10-tres-anos-desarrollo-llega-cargado-novedades-1404400'>Flipper Zero recibe el firmware 1.0 tras tres años de desarrollo y llega cargado de novedades</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flipper-zero-recibe-firmware-10-tres-anos-desarrollo-llega-cargado-novedades-1404400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/firmware-10-flipper-zero-4144079.jpg?tf=1200x' alt='Flipper Zero recibe el firmware 1.0 tras tres años de desarrollo y llega cargado de novedades' />
     </a>
 </div>
 
