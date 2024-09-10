@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/varapalo-google-tribunal-ue-apoya-multa-2400-millones-euros-practicas-anticompetitivas-1404249'>Varapalo para Google: el Tribunal de la UE apoya la multa de 2.400 millones de euros por prácticas anticompetitivas</a></h4>
+    <a href='https://computerhoy.com/google/varapalo-google-tribunal-ue-apoya-multa-2400-millones-euros-practicas-anticompetitivas-1404249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ue-sentencia-google-tiene-monopolio-android-auto-4134542.jpg?tf=1200x' alt='Varapalo para Google: el Tribunal de la UE apoya la multa de 2.400 millones de euros por prácticas anticompetitivas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tribunal-ue-da-razon-apple-no-tendra-devolver-13000-millones-euros-impuestos-1404239'>El Tribunal de la UE da la razón Apple y no tendrá que devolver 13.000 millones de euros en impuestos</a></h4>
+    <a href='https://computerhoy.com/apple/tribunal-ue-da-razon-apple-no-tendra-devolver-13000-millones-euros-impuestos-1404239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tim-cook-3546991.jpg?tf=1200x' alt='El Tribunal de la UE da la razón Apple y no tendrá que devolver 13.000 millones de euros en impuestos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/bolsillo-muy-potente-24-gb-ram-mini-pc-locos-amazon-1403968'>Cabe en un bolsillo y es muy potente: 24 GB de RAM en un Mini PC de locos en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/bolsillo-muy-potente-24-gb-ram-mini-pc-locos-amazon-1403968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mini-pc-bmax-b8-plus-4132468.jpg?tf=1200x' alt='Cabe en un bolsillo y es muy potente: 24 GB de RAM en un Mini PC de locos en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-descargar-libros-gratis-amazon-kindle-legal-1224102'>Cómo descargar libros gratis para tu Amazon Kindle (de forma legal)</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-descargar-libros-gratis-amazon-kindle-legal-1224102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-kindle-2022-2813017.jpg?tf=1200x' alt='Cómo descargar libros gratis para tu Amazon Kindle (de forma legal)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-chino-barato-cuesta-menos-movil-tiene-windows-11-chasis-aluminio-macbook-1402851'>Abran paso: este portátil chino cuesta menos que un móvil, tiene Windows 11 y chasis de aluminio como un MacBook</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-chino-barato-cuesta-menos-movil-tiene-windows-11-chasis-aluminio-macbook-1402851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teclast-f16-plus-3260853.jpg?tf=1200x' alt='Abran paso: este portátil chino cuesta menos que un móvil, tiene Windows 11 y chasis de aluminio como un MacBook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-clasica-stephen-king-disponible-amazon-prime-video-adelanto-50-anos-tiempo-1402454'>El mítico clásico de Stephen King disponible en Amazon Prime Video que se adelantó 50 años en el tiempo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-clasica-stephen-king-disponible-amazon-prime-video-adelanto-50-anos-tiempo-1402454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/gran-clasico-stephen-king-disponible-amazon-prime-video-adelanto-50-anos-tiempo-4056165.jpg?tf=1200x' alt='El mítico clásico de Stephen King disponible en Amazon Prime Video que se adelantó 50 años en el tiempo' />
     </a>
 </div>
 
