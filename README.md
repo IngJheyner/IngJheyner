@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/george-lucas-rinde-clasico-ciencia-ficcion-puedes-ver-max-mejor-star-wars-1404150'>George Lucas se rinde a este clásico de la ciencia ficción que puedes ver en MAX: “Es mejor que Star Wars”</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/george-lucas-rinde-clasico-ciencia-ficcion-puedes-ver-max-mejor-star-wars-1404150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/2001-odisea-espacio-4142520.jpg?tf=1200x' alt='George Lucas se rinde a este clásico de la ciencia ficción que puedes ver en MAX: “Es mejor que Star Wars”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/humanoide-multitarea-bastante-creepy-robot-chatgpt-quiere-tengamos-casa-1404341'>Humanoide, multitarea… y bastante "creepy": así es el robot que ChatGPT quiere que tengamos en casa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/humanoide-multitarea-bastante-creepy-robot-chatgpt-quiere-tengamos-casa-1404341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/humanoide-multitarea-bastante-creepy-robot-chatgpt-quiere-tengamos-casa-4142037.jpg?tf=1200x' alt='Humanoide, multitarea… y bastante "creepy": así es el robot que ChatGPT quiere que tengamos en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/peligro-conectar-memoria-usb-pendrive-cargador-movil-1401042'>¿Qué pasa si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/peligro-conectar-memoria-usb-pendrive-cargador-movil-1401042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-3994980.jpg?tf=1200x' alt='¿Qué pasa si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-bitelchus-ni-big-fish-pelicula-tim-burton-preferida-cinefilos-1404124'>Ni Bitelchús ni Big Fish, esta es la película de Tim Burton preferida por los cinéfilos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-bitelchus-ni-big-fish-pelicula-tim-burton-preferida-cinefilos-1404124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/todo-mundo-habla-bitelchus-big-fish-pero-pelicula-tim-burton-preferida-cinefilos-4135485.jpg?tf=1200x' alt='Ni Bitelchús ni Big Fish, esta es la película de Tim Burton preferida por los cinéfilos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-vende-cascos-moda-no-son-como-tienes-todos-runners-llevan-1404093'>Xiaomi vende los cascos de moda: no son como los que tienes y todos los runners los llevan</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-vende-cascos-moda-no-son-como-tienes-todos-runners-llevan-1404093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/auriculares-conduccion-osea-xiaomi-4133881.jpg?tf=1200x' alt='Xiaomi vende los cascos de moda: no son como los que tienes y todos los runners los llevan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/solucion-bombillas-led-encendidas-interruptor-apagado-1401214'>Cómo solucionar el problema de las bombillas LED que se quedan encendidas incluso con el interruptor apagado</a></h4>
-    <a href='https://computerhoy.com/energia/solucion-bombillas-led-encendidas-interruptor-apagado-1401214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/quedan-encendidas-bombillas-led-incluso-interruptor-apagado-como-solucionarlo-4000493.jpg?tf=1200x' alt='Cómo solucionar el problema de las bombillas LED que se quedan encendidas incluso con el interruptor apagado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-funcion-bola-flotante-movil-xiaomi-1404113'>Cómo activar la función Bola Flotante en tu móvil Xiaomi</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-funcion-bola-flotante-movil-xiaomi-1404113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bola-flotante-movil-xiaomi-4135793.jpg?tf=1200x' alt='Cómo activar la función Bola Flotante en tu móvil Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/playstation-5-pro-ya-aqui-caracteristicas-precio-fecha-lanzamiento-1404380'>PlayStation 5 Pro ya está aquí: características, precio y fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.com/gaming/playstation-5-pro-ya-aqui-caracteristicas-precio-fecha-lanzamiento-1404380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1725983667283-4143169.jpg?tf=1200x' alt='PlayStation 5 Pro ya está aquí: características, precio y fecha de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/truco-papel-aluminio-router-wifi-1401248'>Por qué debes colocar papel de aluminio detrás de tu router WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/truco-papel-aluminio-router-wifi-1401248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/deberias-colocar-papel-aluminio-detras-router-wifi-4002677.jpg?tf=1200x' alt='Por qué debes colocar papel de aluminio detrás de tu router WiFi' />
     </a>
 </div>
 
