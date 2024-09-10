@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/5-decodificadores-ver-tdt-4k-son-baratos-1404359'>5 decodificadores para ver la TDT en 4K que son baratos</a></h4>
+    <a href='https://computerhoy.com/tv/5-decodificadores-ver-tdt-4k-son-baratos-1404359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/receptor-tele-system-4142678.jpg?tf=1200x' alt='5 decodificadores para ver la TDT en 4K que son baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/como-limpiar-pantalla-smart-tv-sin-dejar-rayas-marcas-1398083'>Cómo limpiar la pantalla de un Smart TV sin dejar rayas ni marcas para obtener una imagen perfecta</a></h4>
+    <a href='https://computerhoy.com/tv/como-limpiar-pantalla-smart-tv-sin-dejar-rayas-marcas-1398083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/limpiar-smart-tv-3860604.jpg?tf=1200x' alt='Cómo limpiar la pantalla de un Smart TV sin dejar rayas ni marcas para obtener una imagen perfecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/movil-carga-muy-lento-motivos-comunes-soluciones-1401640'>¿Tu móvil carga muy lento? Motivos más comunes y soluciones</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-carga-muy-lento-motivos-comunes-soluciones-1401640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cargar-movil-4141884.jpg?tf=1200x' alt='¿Tu móvil carga muy lento? Motivos más comunes y soluciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-crear-ubicaciones-favoritas-waze-1402492'>Cómo crear ubicaciones favoritas en Waze</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-crear-ubicaciones-favoritas-waze-1402492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/usar-waze-ubicaciones-favoritas-4057134.jpg?tf=1200x' alt='Cómo crear ubicaciones favoritas en Waze' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/sony-ha-retirado-juego-pero-ha-duplicado-valor-apenas-dia-1404302'>Sony ha retirado este juego, pero ha duplicado su valor en apenas un día</a></h4>
     <a href='https://computerhoy.com/gaming/sony-ha-retirado-juego-pero-ha-duplicado-valor-apenas-dia-1404302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sony-ha-retirado-juego-pero-ha-duplicado-valor-apenas-dia-4141551.jpg?tf=1200x' alt='Sony ha retirado este juego, pero ha duplicado su valor en apenas un día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cambia-tactica-acabar-iptv-piratas-multas-arrestos-usuarios-1404285'>Cambia la táctica para acabar con las IPTV piratas: multas y arrestos para los usuarios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cambia-tactica-acabar-iptv-piratas-multas-arrestos-usuarios-1404285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tormenta-perfecta-iptv-macrorredada-acabar-futbol-gratis-3886548.jpg?tf=1200x' alt='Cambia la táctica para acabar con las IPTV piratas: multas y arrestos para los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/internet-resuelve-misterio-celebrity-number-six-mujer-espanola-desconocida-durante-anos-1404283'>Internet resuelve el misterio “Celebrity Number Six”: es una mujer española desconocida durante años</a></h4>
-    <a href='https://computerhoy.com/internet/internet-resuelve-misterio-celebrity-number-six-mujer-espanola-desconocida-durante-anos-1404283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/celebridad-6-4141380.jpg?tf=1200x' alt='Internet resuelve el misterio “Celebrity Number Six”: es una mujer española desconocida durante años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ilegal-me-llames-hora-otras-frases-infalibles-contestar-llamadas-spam-1404253'>"Es ilegal que me llames a esta hora" y otras frases infalibles para contestar llamadas spam</a></h4>
-    <a href='https://computerhoy.com/life/ilegal-me-llames-hora-otras-frases-infalibles-contestar-llamadas-spam-1404253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-bloquear-ni-lista-robinson-mejor-forma-librarte-llamadas-spam-3892312.jpg?tf=1200x' alt='"Es ilegal que me llames a esta hora" y otras frases infalibles para contestar llamadas spam' />
     </a>
 </div>
 
