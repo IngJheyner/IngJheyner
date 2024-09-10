@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-lanza-cargador-magsafe-promete-25-w-carga-pero-tiene-truco-1404206'>Apple lanza un cargador MagSafe que promete hasta 25 W de carga pero tiene truco</a></h4>
+    <a href='https://computerhoy.com/apple/apple-lanza-cargador-magsafe-promete-25-w-carga-pero-tiene-truco-1404206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/apple-quiere-convertir-magsafe-estandar-carga-inalambrica-2919234.jpg?tf=1200x' alt='Apple lanza un cargador MagSafe que promete hasta 25 W de carga pero tiene truco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/cuanto-tiempo-dura-ordenador-portatil-como-saber-ha-llegado-momento-reemplazarlo-1403703'>Cuánto tiempo dura un ordenador portátil y cómo saber si ha llegado el momento de reemplazarlo</a></h4>
+    <a href='https://computerhoy.com/pc/cuanto-tiempo-dura-ordenador-portatil-como-saber-ha-llegado-momento-reemplazarlo-1403703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cuanto-tiempo-dura-ordenador-portatil-como-saber-ha-llegado-momento-remplazarlo-4110584.jpg?tf=1200x' alt='Cuánto tiempo dura un ordenador portátil y cómo saber si ha llegado el momento de reemplazarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/no-es-macbook-portatil-chino-windows-barato-1396484'>No es un MacBook, es mucho más barato: este portátil chino con Windows 11 apenas supera los 200 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-es-macbook-portatil-chino-windows-barato-1396484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chuwi-herobook-pro-3760890.jpg?tf=1200x' alt='No es un MacBook, es mucho más barato: este portátil chino con Windows 11 apenas supera los 200 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/todo-sobre-como-funciona-revolut-1403491'>Qué es Revolut: cómo funciona, ventajas, desventajas y como crear una cuenta</a></h4>
     <a href='https://computerhoy.com/todo-sobre-como-funciona-revolut-1403491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-funciona-revolut-4111154.jpg?tf=1200x' alt='Qué es Revolut: cómo funciona, ventajas, desventajas y como crear una cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-epic-games-android-ios-1403443'>Cómo instalar Epic Games en Android e iOS</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-epic-games-android-ios-1403443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fortnite-android-ios-4101955.jpg?tf=1200x' alt='Cómo instalar Epic Games en Android e iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/windows-7-8-firefox-tiene-buena-noticia-ti-1404189'>Si aún usas Windows 7 u 8, Firefox tiene una buena noticia para ti</a></h4>
-    <a href='https://computerhoy.com/internet/windows-7-8-firefox-tiene-buena-noticia-ti-1404189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aun-usas-windows-7-8-firefox-tiene-buena-noticia-ti-4139286.jpg?tf=1200x' alt='Si aún usas Windows 7 u 8, Firefox tiene una buena noticia para ti' />
     </a>
 </div>
 
