@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/telefonos-pueden-conectar-android-auto-1403952'>¿Qué teléfonos se pueden conectar a Android Auto?</a></h4>
+    <a href='https://computerhoy.com/apps/telefonos-pueden-conectar-android-auto-1403952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-auto-coche-4128593.jpg?tf=1200x' alt='¿Qué teléfonos se pueden conectar a Android Auto?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/patrocinado/vuelta-cole-2024-pc-componentes-10-ofertas-sobrellevar-mejor-fin-vacaciones-1404410'>La Vuelta al cole 2024 de PC Componentes: 10 ofertas para sobrellevar mejor el fin de las vacaciones</a></h4>
+    <a href='https://computerhoy.com/patrocinado/vuelta-cole-2024-pc-componentes-10-ofertas-sobrellevar-mejor-fin-vacaciones-1404410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pc-componentes-ofertas-vuelta-cole-2024-4149567.jpg?tf=1200x' alt='La Vuelta al cole 2024 de PC Componentes: 10 ofertas para sobrellevar mejor el fin de las vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/prepara-smart-tv-llegan-tres-nuevos-canales-ultra-alta-definicion-uhd-tdt-1404521'>Prepara tu Smart TV: llegan tres nuevos canales en Ultra Alta Definición (UHD) a la TDT</a></h4>
     <a href='https://computerhoy.com/tv/prepara-smart-tv-llegan-tres-nuevos-canales-ultra-alta-definicion-uhd-tdt-1404521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/uhd-espana-4149072.jpg?tf=1200x' alt='Prepara tu Smart TV: llegan tres nuevos canales en Ultra Alta Definición (UHD) a la TDT' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/flipper-one-vuelta-esquina-empresa-flipper-zero-ya-trabaja-nuevo-producto-1404508'>¿Flipper One a la vuelta de la esquina? La empresa de Flipper Zero ya trabaja en un nuevo producto</a></h4>
     <a href='https://computerhoy.com/tecnologia/flipper-one-vuelta-esquina-empresa-flipper-zero-ya-trabaja-nuevo-producto-1404508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-3248609.jpg?tf=1200x' alt='¿Flipper One a la vuelta de la esquina? La empresa de Flipper Zero ya trabaja en un nuevo producto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/aplicacion-gratis-te-permite-comprobar-nombre-usuario-utiliza-casi-400-redes-sociales-1404515'>Esta aplicación gratis te permite comprobar si un nombre de usuario se utiliza en casi 400 redes sociales</a></h4>
-    <a href='https://computerhoy.com/apps/aplicacion-gratis-te-permite-comprobar-nombre-usuario-utiliza-casi-400-redes-sociales-1404515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aplicacion-te-permite-comprobar-nombre-usuario-utiliza-casi-400-redes-sociales-4148447.jpg?tf=1200x' alt='Esta aplicación gratis te permite comprobar si un nombre de usuario se utiliza en casi 400 redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-sin-antena-sintonizar-1319246'>Cómo ver los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-sin-antena-sintonizar-1319246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ver-todos-canales-tdt-smart-tv-movil-antena-ni-tener-sintonizarlos-3290907.jpg?tf=1200x' alt='Cómo ver los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizar' />
     </a>
 </div>
 
