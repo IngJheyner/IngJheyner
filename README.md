@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-youtube-android-auto-1404340'>Cómo ver YouTube en Android Auto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-youtube-android-auto-1404340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-android-auto-4148124.jpg?tf=1200x' alt='Cómo ver YouTube en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/menu-oculto-fire-tv-nuevas-funciones-1348244'>Descubren un menú oculto en los Amazon Fire TV que permite activar nuevas funciones</a></h4>
+    <a href='https://computerhoy.com/tutoriales/menu-oculto-fire-tv-nuevas-funciones-1348244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubren-menu-oculto-amazon-fire-tv-stick-permite-activar-nuevas-funciones-3246054.jpg?tf=1200x' alt='Descubren un menú oculto en los Amazon Fire TV que permite activar nuevas funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/significan-modos-p-av-tv-m-camara-digital-1401423'>Qué significan los modos P, AV, TV y M de una cámara digital</a></h4>
+    <a href='https://computerhoy.com/tecnologia/significan-modos-p-av-tv-m-camara-digital-1401423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/modos-camara-dslr-4149257.jpg?tf=1200x' alt='Qué significan los modos P, AV, TV y M de una cámara digital' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/mezcla-perfecta-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512'>Una mezcla perfecta con lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mezcla-perfecta-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-casi-nadie-conoce-4057626.jpg?tf=1200x' alt='Una mezcla perfecta con lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/significado-letra-documento-nacional-identidad-803463'>Qué significa la letra que tienes en tu número de DNI y por qué solo se utilizan 23 letras</a></h4>
     <a href='https://computerhoy.com/noticias/life/significado-letra-documento-nacional-identidad-803463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/alemania-permitira-usar-iphone-como-dni-pronto-podria-llegar-espana.jpg?tf=1200x' alt='Qué significa la letra que tienes en tu número de DNI y por qué solo se utilizan 23 letras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telefonos-pueden-conectar-android-auto-1403952'>¿Qué teléfonos se pueden conectar a Android Auto?</a></h4>
-    <a href='https://computerhoy.com/apps/telefonos-pueden-conectar-android-auto-1403952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-auto-coche-4128593.jpg?tf=1200x' alt='¿Qué teléfonos se pueden conectar a Android Auto?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/vuelta-cole-2024-pc-componentes-10-ofertas-sobrellevar-mejor-fin-vacaciones-1404410'>La Vuelta al cole 2024 de PC Componentes: 10 ofertas para sobrellevar mejor el fin de las vacaciones</a></h4>
-    <a href='https://computerhoy.com/patrocinado/vuelta-cole-2024-pc-componentes-10-ofertas-sobrellevar-mejor-fin-vacaciones-1404410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pc-componentes-ofertas-vuelta-cole-2024-4149567.jpg?tf=1200x' alt='La Vuelta al cole 2024 de PC Componentes: 10 ofertas para sobrellevar mejor el fin de las vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/prepara-smart-tv-llegan-tres-nuevos-canales-ultra-alta-definicion-uhd-tdt-1404521'>Prepara tu Smart TV: llegan tres nuevos canales en Ultra Alta Definición (UHD) a la TDT</a></h4>
-    <a href='https://computerhoy.com/tv/prepara-smart-tv-llegan-tres-nuevos-canales-ultra-alta-definicion-uhd-tdt-1404521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/uhd-espana-4149072.jpg?tf=1200x' alt='Prepara tu Smart TV: llegan tres nuevos canales en Ultra Alta Definición (UHD) a la TDT' />
     </a>
 </div>
 
