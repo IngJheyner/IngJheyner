@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/edad-deberias-dejar-tomar-cafe-nuevo-estudio-afecta-cerebro-1403995'>Esta es la edad a la que deberías dejar de tomar café, según un nuevo estudio: afecta al cerebro</a></h4>
+    <a href='https://computerhoy.com/ciencia/edad-deberias-dejar-tomar-cafe-nuevo-estudio-afecta-cerebro-1403995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/beber-cafe-4142041.jpg?tf=1200x' alt='Esta es la edad a la que deberías dejar de tomar café, según un nuevo estudio: afecta al cerebro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/estudio-hace-saltar-alarmas-muchos-jovenes-generacion-z-no-saben-escribir-teclado-fisico-1404241'>Un estudio hace saltar las alarmas: muchos jóvenes de la generación Z no saben escribir en un teclado físico</a></h4>
+    <a href='https://computerhoy.com/moviles/estudio-hace-saltar-alarmas-muchos-jovenes-generacion-z-no-saben-escribir-teclado-fisico-1404241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estudio-hace-saltar-alarmas-muchos-jovenes-generacion-z-no-saben-escribir-teclado-fisico-4140723.jpg?tf=1200x' alt='Un estudio hace saltar las alarmas: muchos jóvenes de la generación Z no saben escribir en un teclado físico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/puerto-hdmi-arc-como-usarlo-tv-1380621'>Qué es el puerto HDMI ARC, para qué sirve y cómo usarlo bien en tu TV</a></h4>
+    <a href='https://computerhoy.com/tv/puerto-hdmi-arc-como-usarlo-tv-1380621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puerto-hdmi-arc-sirve-como-usarlo-smart-tv-3301530.jpg?tf=1200x' alt='Qué es el puerto HDMI ARC, para qué sirve y cómo usarlo bien en tu TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-barato-xiaomi-rebajadisimo-130-euros-1393407'>Este móvil barato de Xiaomi es un éxito en ventas y además está rebajadísimo a 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-barato-xiaomi-rebajadisimo-130-euros-1393407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiaomi-redmi-note-12-pro-5g-3117842.jpg?tf=1200x' alt='Este móvil barato de Xiaomi es un éxito en ventas y además está rebajadísimo a 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/llega-color-blanco-semaforos-significa-cuarta-luz-1404331'>Llega el color blanco a los semáforos: ¿qué significa la cuarta luz?</a></h4>
     <a href='https://computerhoy.com/motor/llega-color-blanco-semaforos-significa-cuarta-luz-1404331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/llega-color-blanco-semaforos-significa-cuarta-luz-4141878.jpg?tf=1200x' alt='Llega el color blanco a los semáforos: ¿qué significa la cuarta luz?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/polaris-dawn-despega-exito-1404420'>Polaris Dawn despega con éxito, camino del primer paseo espacial privado de la historia</a></h4>
-    <a href='https://computerhoy.com/espacio/polaris-dawn-despega-exito-1404420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mision-polaris-dawn-despega-exito-camino-primer-paseo-espacial-privado-historia-4144076.jpg?tf=1200x' alt='Polaris Dawn despega con éxito, camino del primer paseo espacial privado de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/taito-lanza-reloj-supera-apple-watch-jugar-space-invaders-1404413'>Taito lanza un reloj que supera al Apple Watch en una cosa: puedes jugar a Space Invaders</a></h4>
-    <a href='https://computerhoy.com/gaming/taito-lanza-reloj-supera-apple-watch-jugar-space-invaders-1404413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/taito-lanza-reloj-supera-apple-watch-cosa-puedes-jugar-space-invaders-4144464.jpg?tf=1200x' alt='Taito lanza un reloj que supera al Apple Watch en una cosa: puedes jugar a Space Invaders' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/todo-google-compania-hizo-buscador-algoritmo-negocio-multimillonario-1403806'>Todo sobre Google, la compañía que hizo de su buscador y algoritmo un negocio multimillonario</a></h4>
-    <a href='https://computerhoy.com/google/todo-google-compania-hizo-buscador-algoritmo-negocio-multimillonario-1403806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-larry-page-sergey-brin-4115168.jpg?tf=1200x' alt='Todo sobre Google, la compañía que hizo de su buscador y algoritmo un negocio multimillonario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/revisa-movil-detectadas-280-apps-falsas-android-listas-saquear-cartera-1404406'>Revisa tu móvil: detectadas 280 apps falsas para Android listas para saquear tu cartera</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/revisa-movil-detectadas-280-apps-falsas-android-listas-saquear-cartera-1404406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/malware-android-4144237.jpg?tf=1200x' alt='Revisa tu móvil: detectadas 280 apps falsas para Android listas para saquear tu cartera' />
     </a>
 </div>
 
