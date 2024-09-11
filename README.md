@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mezcla-perfecta-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512'>Una mezcla perfecta con lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mezcla-perfecta-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-casi-nadie-conoce-4057626.jpg?tf=1200x' alt='Una mezcla perfecta con lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/significado-letra-documento-nacional-identidad-803463'>Qué significa la letra que tienes en tu número de DNI y por qué solo se utilizan 23 letras</a></h4>
+    <a href='https://computerhoy.com/noticias/life/significado-letra-documento-nacional-identidad-803463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/alemania-permitira-usar-iphone-como-dni-pronto-podria-llegar-espana.jpg?tf=1200x' alt='Qué significa la letra que tienes en tu número de DNI y por qué solo se utilizan 23 letras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/telefonos-pueden-conectar-android-auto-1403952'>¿Qué teléfonos se pueden conectar a Android Auto?</a></h4>
     <a href='https://computerhoy.com/apps/telefonos-pueden-conectar-android-auto-1403952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-auto-coche-4128593.jpg?tf=1200x' alt='¿Qué teléfonos se pueden conectar a Android Auto?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/prepara-smart-tv-llegan-tres-nuevos-canales-ultra-alta-definicion-uhd-tdt-1404521'>Prepara tu Smart TV: llegan tres nuevos canales en Ultra Alta Definición (UHD) a la TDT</a></h4>
     <a href='https://computerhoy.com/tv/prepara-smart-tv-llegan-tres-nuevos-canales-ultra-alta-definicion-uhd-tdt-1404521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/uhd-espana-4149072.jpg?tf=1200x' alt='Prepara tu Smart TV: llegan tres nuevos canales en Ultra Alta Definición (UHD) a la TDT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/star-wars-star-trek-mejor-serie-ciencia-ficcion-amazon-prime-video-cientificos-1402072'>Ni Star Trek ni Star Wars, esta es la mejor serie de ciencia ficción desde un punto de vista científico, y la puedes ver en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/star-wars-star-trek-mejor-serie-ciencia-ficcion-amazon-prime-video-cientificos-1402072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejor-serie-ciencia-ficcion-punto-vista-cientifico-amazon-prime-video-4042058.jpg?tf=1200x' alt='Ni Star Trek ni Star Wars, esta es la mejor serie de ciencia ficción desde un punto de vista científico, y la puedes ver en Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flipper-one-vuelta-esquina-empresa-flipper-zero-ya-trabaja-nuevo-producto-1404508'>¿Flipper One a la vuelta de la esquina? La empresa de Flipper Zero ya trabaja en un nuevo producto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flipper-one-vuelta-esquina-empresa-flipper-zero-ya-trabaja-nuevo-producto-1404508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-3248609.jpg?tf=1200x' alt='¿Flipper One a la vuelta de la esquina? La empresa de Flipper Zero ya trabaja en un nuevo producto' />
     </a>
 </div>
 
