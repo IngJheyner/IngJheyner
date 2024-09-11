@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ios-18-como-descargarlo-novedades-guia-completa-1397156'>iOS 18: cómo descargarlo, novedades y guía completa</a></h4>
+    <a href='https://computerhoy.com/apple/ios-18-como-descargarlo-novedades-guia-completa-1397156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/todo-debes-saber-ios-18-3798816.jpg?tf=1200x' alt='iOS 18: cómo descargarlo, novedades y guía completa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291'>Historia y todo lo que debes saber sobre los AirPods de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todos-airpods-apple-3388288.jpg?tf=1200x' alt='Historia y todo lo que debes saber sobre los AirPods de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ejecutar-windows-11-directamente-memoria-usb-1402764'>Cómo ejecutar Windows 11 directamente desde una memoria USB y posibles usos: ¿merece la pena?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ejecutar-windows-11-directamente-memoria-usb-1402764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-pendrive-4071055.jpg?tf=1200x' alt='Cómo ejecutar Windows 11 directamente desde una memoria USB y posibles usos: ¿merece la pena?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-12-oferta-aliexpress-1365455'>Snapdragon 8 Gen 3 para que Android vuele: OnePlus se pone firme y su móvil más top está de rebajas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-12-oferta-aliexpress-1365455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-12r-3290267.jpg?tf=1200x' alt='Snapdragon 8 Gen 3 para que Android vuele: OnePlus se pone firme y su móvil más top está de rebajas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/nueva-ia-roblox-permite-crear-mundos-juegos-mediante-texto-1404427'>La nueva IA de Roblox permite crear mundos y juegos mediante texto</a></h4>
     <a href='https://computerhoy.com/gaming/nueva-ia-roblox-permite-crear-mundos-juegos-mediante-texto-1404427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1726029535267-4146883.jpg?tf=1200x' alt='La nueva IA de Roblox permite crear mundos y juegos mediante texto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-tiene-cada-vez-dificil-segunda-ronda-portatiles-copilot-1403713'>Intel lo tiene cada vez más difícil con la segunda ronda de portátiles Copilot+</a></h4>
-    <a href='https://computerhoy.com/pc/intel-tiene-cada-vez-dificil-segunda-ronda-portatiles-copilot-1403713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-book5-pro-360-4134696.jpg?tf=1200x' alt='Intel lo tiene cada vez más difícil con la segunda ronda de portátiles Copilot+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/edad-deberias-dejar-tomar-cafe-nuevo-estudio-afecta-cerebro-1403995'>Esta es la edad a la que deberías dejar de tomar café, según un nuevo estudio: afecta al cerebro</a></h4>
-    <a href='https://computerhoy.com/ciencia/edad-deberias-dejar-tomar-cafe-nuevo-estudio-afecta-cerebro-1403995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/beber-cafe-4142041.jpg?tf=1200x' alt='Esta es la edad a la que deberías dejar de tomar café, según un nuevo estudio: afecta al cerebro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/estudio-hace-saltar-alarmas-muchos-jovenes-generacion-z-no-saben-escribir-teclado-fisico-1404241'>Un estudio hace saltar las alarmas: muchos jóvenes de la generación Z no saben escribir en un teclado físico</a></h4>
-    <a href='https://computerhoy.com/moviles/estudio-hace-saltar-alarmas-muchos-jovenes-generacion-z-no-saben-escribir-teclado-fisico-1404241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estudio-hace-saltar-alarmas-muchos-jovenes-generacion-z-no-saben-escribir-teclado-fisico-4140723.jpg?tf=1200x' alt='Un estudio hace saltar las alarmas: muchos jóvenes de la generación Z no saben escribir en un teclado físico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/puerto-hdmi-arc-como-usarlo-tv-1380621'>Qué es el puerto HDMI ARC, para qué sirve y cómo usarlo bien en tu TV</a></h4>
-    <a href='https://computerhoy.com/tv/puerto-hdmi-arc-como-usarlo-tv-1380621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puerto-hdmi-arc-sirve-como-usarlo-smart-tv-3301530.jpg?tf=1200x' alt='Qué es el puerto HDMI ARC, para qué sirve y cómo usarlo bien en tu TV' />
     </a>
 </div>
 
