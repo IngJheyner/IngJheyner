@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/llega-color-blanco-semaforos-significa-cuarta-luz-1404331'>Llega el color blanco a los semáforos: ¿qué significa la cuarta luz?</a></h4>
+    <a href='https://computerhoy.com/motor/llega-color-blanco-semaforos-significa-cuarta-luz-1404331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/llega-color-blanco-semaforos-significa-cuarta-luz-4141878.jpg?tf=1200x' alt='Llega el color blanco a los semáforos: ¿qué significa la cuarta luz?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/polaris-dawn-despega-exito-1404420'>Polaris Dawn despega con éxito, camino del primer paseo espacial privado de la historia</a></h4>
     <a href='https://computerhoy.com/espacio/polaris-dawn-despega-exito-1404420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mision-polaris-dawn-despega-exito-camino-primer-paseo-espacial-privado-historia-4144076.jpg?tf=1200x' alt='Polaris Dawn despega con éxito, camino del primer paseo espacial privado de la historia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/revisa-movil-detectadas-280-apps-falsas-android-listas-saquear-cartera-1404406'>Revisa tu móvil: detectadas 280 apps falsas para Android listas para saquear tu cartera</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/revisa-movil-detectadas-280-apps-falsas-android-listas-saquear-cartera-1404406' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/malware-android-4144237.jpg?tf=1200x' alt='Revisa tu móvil: detectadas 280 apps falsas para Android listas para saquear tu cartera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/stephen-king-bendice-ultima-adaptacion-cine-novelas-buenas-1404303'>Stephen King bendice la última adaptación al cine de una de sus novelas: "es una de las buenas”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/stephen-king-bendice-ultima-adaptacion-cine-novelas-buenas-1404303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/life-chuck-4142190.jpg?tf=1200x' alt='Stephen King bendice la última adaptación al cine de una de sus novelas: "es una de las buenas”' />
     </a>
 </div>
 
