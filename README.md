@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ios-18-como-descargarlo-novedades-guia-completa-1397156'>iOS 18: cómo descargarlo, novedades y guía completa</a></h4>
-    <a href='https://computerhoy.com/apple/ios-18-como-descargarlo-novedades-guia-completa-1397156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/todo-debes-saber-ios-18-3798816.jpg?tf=1200x' alt='iOS 18: cómo descargarlo, novedades y guía completa' />
+    <h4><a href='https://computerhoy.com/tecnologia/te-manipula-chatgpt-estudio-revela-tienen-ideologia-politica-te-podria-afectar-1404454'>¿Te manipula ChatGPT? Estudio revela que tienen una ideología política y que te podría afectar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/te-manipula-chatgpt-estudio-revela-tienen-ideologia-politica-te-podria-afectar-1404454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/te-manipula-chatgpt-4147789.jpg?tf=1200x' alt='¿Te manipula ChatGPT? Estudio revela que tienen una ideología política y que te podría afectar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291'>Historia y todo lo que debes saber sobre los AirPods de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todos-airpods-apple-3388288.jpg?tf=1200x' alt='Historia y todo lo que debes saber sobre los AirPods de Apple' />
+    <h4><a href='https://computerhoy.com/internet/elimina-extensiones-peligrosas-google-chrome-malware-1395724'>Desinstala de inmediato estas apps, esconden malware, virus y vigilan todo lo que haces</a></h4>
+    <a href='https://computerhoy.com/internet/elimina-extensiones-peligrosas-google-chrome-malware-1395724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Desinstala de inmediato estas apps, esconden malware, virus y vigilan todo lo que haces' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ejecutar-windows-11-directamente-memoria-usb-1402764'>Cómo ejecutar Windows 11 directamente desde una memoria USB y posibles usos: ¿merece la pena?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ejecutar-windows-11-directamente-memoria-usb-1402764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-pendrive-4071055.jpg?tf=1200x' alt='Cómo ejecutar Windows 11 directamente desde una memoria USB y posibles usos: ¿merece la pena?' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-paso-cerca-humanos-ahora-pensara-antes-responderte-1404447'>ChatGPT, un paso más cerca de los humanos, ahora pensará antes de responderte </a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-paso-cerca-humanos-ahora-pensara-antes-responderte-1404447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-3532913.jpg?tf=1200x' alt='ChatGPT, un paso más cerca de los humanos, ahora pensará antes de responderte ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-12-oferta-aliexpress-1365455'>Snapdragon 8 Gen 3 para que Android vuele: OnePlus se pone firme y su móvil más top está de rebajas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-12-oferta-aliexpress-1365455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-12r-3290267.jpg?tf=1200x' alt='Snapdragon 8 Gen 3 para que Android vuele: OnePlus se pone firme y su móvil más top está de rebajas' />
+    <h4><a href='https://computerhoy.com/apple/apple-steve-jobs-iphone-mac-tim-cook-1397973'>Apple, quién es Steve Jobs, iPhone, Mac y más de la actual gran compañía de Tim Cook</a></h4>
+    <a href='https://computerhoy.com/apple/apple-steve-jobs-iphone-mac-tim-cook-1397973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-3482197.jpg?tf=1200x' alt='Apple, quién es Steve Jobs, iPhone, Mac y más de la actual gran compañía de Tim Cook' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nueva-ia-roblox-permite-crear-mundos-juegos-mediante-texto-1404427'>La nueva IA de Roblox permite crear mundos y juegos mediante texto</a></h4>
-    <a href='https://computerhoy.com/gaming/nueva-ia-roblox-permite-crear-mundos-juegos-mediante-texto-1404427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1726029535267-4146883.jpg?tf=1200x' alt='La nueva IA de Roblox permite crear mundos y juegos mediante texto' />
+    <h4><a href='https://computerhoy.com/apple/todo-deberias-saber-ios-sistema-operativo-iphone-1402376'>Todo lo que deberías saber sobre iOS, el sistema operativo de los iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/todo-deberias-saber-ios-sistema-operativo-iphone-1402376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-ios-mano-4055821.jpg?tf=1200x' alt='Todo lo que deberías saber sobre iOS, el sistema operativo de los iPhone' />
     </a>
 </div>
 
