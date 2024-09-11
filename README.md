@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/aplicacion-gratis-te-permite-comprobar-nombre-usuario-utiliza-casi-400-redes-sociales-1404515'>Esta aplicación gratis te permite comprobar si un nombre de usuario se utiliza en casi 400 redes sociales</a></h4>
+    <a href='https://computerhoy.com/apps/aplicacion-gratis-te-permite-comprobar-nombre-usuario-utiliza-casi-400-redes-sociales-1404515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aplicacion-te-permite-comprobar-nombre-usuario-utiliza-casi-400-redes-sociales-4148447.jpg?tf=1200x' alt='Esta aplicación gratis te permite comprobar si un nombre de usuario se utiliza en casi 400 redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-sin-antena-sintonizar-1319246'>Cómo ver los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-sin-antena-sintonizar-1319246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ver-todos-canales-tdt-smart-tv-movil-antena-ni-tener-sintonizarlos-3290907.jpg?tf=1200x' alt='Cómo ver los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/youtube-music-coge-mejor-spotify-listas-reproduccion-generadas-ia-1404451'>YouTube Music coge lo mejor de Spotify con las listas de reproducción generadas con IA</a></h4>
+    <a href='https://computerhoy.com/google/youtube-music-coge-mejor-spotify-listas-reproduccion-generadas-ia-1404451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-music-coge-mejor-spotify-playlists-generadas-ia-4147636.jpg?tf=1200x' alt='YouTube Music coge lo mejor de Spotify con las listas de reproducción generadas con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/funcion-espia-ford-valorando-incluir-coches-seguro-no-te-gusta-1404497'>Esta es la función espía que Ford está valorando incluir en sus coches y que seguro no te gusta</a></h4>
+    <a href='https://computerhoy.com/motor/funcion-espia-ford-valorando-incluir-coches-seguro-no-te-gusta-1404497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/prueba-ford-explorer-ev-2024-3556489.jpg?tf=1200x' alt='Esta es la función espía que Ford está valorando incluir en sus coches y que seguro no te gusta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/jubila-fregona-fregona-electrica-necesitas-dejar-suelo-como-nuevo-1404503'>Jubila tu fregona: esta fregona eléctrica es lo que necesitas para dejar el suelo como nuevo</a></h4>
     <a href='https://computerhoy.com/hogar/jubila-fregona-fregona-electrica-necesitas-dejar-suelo-como-nuevo-1404503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fregona-cecotec-4148130.jpg?tf=1200x' alt='Jubila tu fregona: esta fregona eléctrica es lo que necesitas para dejar el suelo como nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-sabe-pcie-70-caracteristicas-prestaciones-fecha-lanzamiento-1394670'>Todo lo que se sabe sobre PCIe 7.0: características, prestaciones, fecha de lanzamiento y más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-sabe-pcie-70-caracteristicas-prestaciones-fecha-lanzamiento-1394670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/casi-nadie-tiene-pcie-50-pero-ya-ha-presentado-estandar-pcie-60-doble-rapido-2584239.jpg?tf=1200x' alt='Todo lo que se sabe sobre PCIe 7.0: características, prestaciones, fecha de lanzamiento y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/kodi-211-ya-disponible-corrige-problemas-estabilidad-mejora-experiencia-usuario-1404484'>Kodi 21.1 ya está disponible: corrige los problemas de estabilidad y mejora la experiencia de usuario</a></h4>
-    <a href='https://computerhoy.com/tv/kodi-211-ya-disponible-corrige-problemas-estabilidad-mejora-experiencia-usuario-1404484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/kodi-211-ya-disponible-corrige-problemas-estabilidad-mejora-experiencia-usuario-4148119.jpg?tf=1200x' alt='Kodi 21.1 ya está disponible: corrige los problemas de estabilidad y mejora la experiencia de usuario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/grok-chatbot-ia-elon-musk-usa-datos-x-consentimiento-puedes-desactivarlo-1404470'>Grok, el chatbot de IA de Elon Musk, usa tus datos de X sin consentimiento, así puedes desactivarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/grok-chatbot-ia-elon-musk-usa-datos-x-consentimiento-puedes-desactivarlo-1404470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/grok-3307945.jpg?tf=1200x' alt='Grok, el chatbot de IA de Elon Musk, usa tus datos de X sin consentimiento, así puedes desactivarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-barato-xiaomi-supera-poco-100-euros-tiene-todo-imprescindible-1404433'>Este es el móvil barato de Xiaomi que supera por poco los 100 euros y tiene todo lo imprescindible</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-barato-xiaomi-supera-poco-100-euros-tiene-todo-imprescindible-1404433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/poco-m6-4147177.jpg?tf=1200x' alt='Este es el móvil barato de Xiaomi que supera por poco los 100 euros y tiene todo lo imprescindible' />
     </a>
 </div>
 
