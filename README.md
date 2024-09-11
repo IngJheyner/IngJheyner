@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-barato-xiaomi-supera-poco-100-euros-tiene-todo-imprescindible-1404433'>Este es el móvil barato de Xiaomi que supera por poco los 100 euros y tiene todo lo imprescindible</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-barato-xiaomi-supera-poco-100-euros-tiene-todo-imprescindible-1404433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/poco-m6-4147177.jpg?tf=1200x' alt='Este es el móvil barato de Xiaomi que supera por poco los 100 euros y tiene todo lo imprescindible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/te-manipula-chatgpt-estudio-revela-tienen-ideologia-politica-te-podria-afectar-1404454'>¿Te manipula ChatGPT? Estudio revela que tienen una ideología política y que te podría afectar</a></h4>
     <a href='https://computerhoy.com/tecnologia/te-manipula-chatgpt-estudio-revela-tienen-ideologia-politica-te-podria-afectar-1404454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/te-manipula-chatgpt-4147789.jpg?tf=1200x' alt='¿Te manipula ChatGPT? Estudio revela que tienen una ideología política y que te podría afectar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-steve-jobs-iphone-mac-tim-cook-1397973'>Apple, quién es Steve Jobs, iPhone, Mac y más de la actual gran compañía de Tim Cook</a></h4>
     <a href='https://computerhoy.com/apple/apple-steve-jobs-iphone-mac-tim-cook-1397973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-3482197.jpg?tf=1200x' alt='Apple, quién es Steve Jobs, iPhone, Mac y más de la actual gran compañía de Tim Cook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/todo-deberias-saber-ios-sistema-operativo-iphone-1402376'>Todo lo que deberías saber sobre iOS, el sistema operativo de los iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/todo-deberias-saber-ios-sistema-operativo-iphone-1402376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iphone-ios-mano-4055821.jpg?tf=1200x' alt='Todo lo que deberías saber sobre iOS, el sistema operativo de los iPhone' />
     </a>
 </div>
 
