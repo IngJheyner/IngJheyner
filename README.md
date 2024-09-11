@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-gratis-detectar-radares-android-auto-pegasus-drones-dgt-1388535'>Esta app gratis para detectar radares en Android Auto le da mil vueltas a Waze: alerta del Pegasus y los drones de la DGT</a></h4>
-    <a href='https://computerhoy.com/apps/app-gratis-detectar-radares-android-auto-pegasus-drones-dgt-1388535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/app-gratis-detectar-radares-android-auto-mejor-waze-alerta-pegasus-dgt-incluso-drones-3396428.jpg?tf=1200x' alt='Esta app gratis para detectar radares en Android Auto le da mil vueltas a Waze: alerta del Pegasus y los drones de la DGT' />
+    <h4><a href='https://computerhoy.com/tecnologia/reddit-como-funciona-historia-acuerdo-google-openai-1401557'>Qué es Reddit: cómo funciona, historia y el acuerdo con Google y OpenAI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reddit-como-funciona-historia-acuerdo-google-openai-1401557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg?tf=1200x' alt='Qué es Reddit: cómo funciona, historia y el acuerdo con Google y OpenAI' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-apocalypse-now-ni-dunkerque-desconocida-pelicula-belica-netflix-te-dejara-pegado-sofa-1404507'>Ni Apocalypse Now ni Dunkerque, la desconocida película bélica de Netflix que te dejará pegado al sofá</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-apocalypse-now-ni-dunkerque-desconocida-pelicula-belica-netflix-te-dejara-pegado-sofa-1404507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/narvik-peli-netflix-4148453.jpg?tf=1200x' alt='Ni Apocalypse Now ni Dunkerque, la desconocida película bélica de Netflix que te dejará pegado al sofá' />
+    <h4><a href='https://computerhoy.com/gaming/record-consolas-conectadas-misma-tv-gestiona-excel-1400437'>Solo le falta la PS5 Pro: tiene tantas consolas conectadas a su Smart TV que necesita un excel para controlarlas</a></h4>
+    <a href='https://computerhoy.com/gaming/record-consolas-conectadas-misma-tv-gestiona-excel-1400437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coleccionista-videojuegos-logra-conectar-444-consolas-mismo-televisor-3962142.jpg?tf=1200x' alt='Solo le falta la PS5 Pro: tiene tantas consolas conectadas a su Smart TV que necesita un excel para controlarlas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-anade-sorprendente-peligrosa-nueva-funcion-espionaje-1404612'>Flipper Zero añade una sorprendente y peligrosa nueva función de espionaje</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flipper-zero-anade-sorprendente-peligrosa-nueva-funcion-espionaje-1404612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/flipper-zero-anade-sorprendente-peligrosa-nueva-funcion-espionaje-4150905.jpg?tf=1200x' alt='Flipper Zero añade una sorprendente y peligrosa nueva función de espionaje' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-te-guste-no-microsoft-instalara-fuerza-ultima-version-sistema-operativo-1404641'>Windows 11, te guste o no: Microsoft instalará a la fuerza la última versión del sistema operativo</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-te-guste-no-microsoft-instalara-fuerza-ultima-version-sistema-operativo-1404641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizacion-windows-4151354.jpg?tf=1200x' alt='Windows 11, te guste o no: Microsoft instalará a la fuerza la última versión del sistema operativo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/boton-oculto-secreto-smart-tv-no-conoces-pensado-funcione-mejor-1395232'>El botón oculto de tu Smart TV que no conoces y que está pensado para que funcione mejor</a></h4>
-    <a href='https://computerhoy.com/android/boton-oculto-secreto-smart-tv-no-conoces-pensado-funcione-mejor-1395232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-secreto-smart-tv-no-conoces-pensado-funcione-mejor-3706317.jpg?tf=1200x' alt='El botón oculto de tu Smart TV que no conoces y que está pensado para que funcione mejor' />
+    <h4><a href='https://computerhoy.com/entretenimiento/ahora-puedes-ver-gratis-todo-catalogo-max-gastar-solo-euro-1404640'>Ahora puedes ver gratis todo el catálogo de MAX, sin gastar un solo euro</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ahora-puedes-ver-gratis-todo-catalogo-max-gastar-solo-euro-1404640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/max-4151351.jpg?tf=1200x' alt='Ahora puedes ver gratis todo el catálogo de MAX, sin gastar un solo euro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/henneo-cierra-compra-axel-springer-espana-1404625'>Henneo cierra la compra de Axel Springer España </a></h4>
-    <a href='https://computerhoy.com/industria/henneo-cierra-compra-axel-springer-espana-1404625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/henneo-axel-springer-espana-4150758.jpg?tf=1200x' alt='Henneo cierra la compra de Axel Springer España ' />
+    <h4><a href='https://computerhoy.com/espacio/agencia-espacial-europea-esa-confirma-puede-existir-vida-tierra-1404638'>La Agencia Espacial Europea (ESA) confirma que puede existir vida en la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/agencia-espacial-europea-esa-confirma-puede-existir-vida-tierra-1404638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tierra-4151349.jpg?tf=1200x' alt='La Agencia Espacial Europea (ESA) confirma que puede existir vida en la Tierra' />
     </a>
 </div>
 
