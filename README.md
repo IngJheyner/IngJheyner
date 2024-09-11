@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/prepara-smart-tv-llegan-tres-nuevos-canales-ultra-alta-definicion-uhd-tdt-1404521'>Prepara tu Smart TV: llegan tres nuevos canales en Ultra Alta Definición (UHD) a la TDT</a></h4>
+    <a href='https://computerhoy.com/tv/prepara-smart-tv-llegan-tres-nuevos-canales-ultra-alta-definicion-uhd-tdt-1404521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/uhd-espana-4149072.jpg?tf=1200x' alt='Prepara tu Smart TV: llegan tres nuevos canales en Ultra Alta Definición (UHD) a la TDT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/star-wars-star-trek-mejor-serie-ciencia-ficcion-amazon-prime-video-cientificos-1402072'>Ni Star Trek ni Star Wars, esta es la mejor serie de ciencia ficción desde un punto de vista científico, y la puedes ver en Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/entretenimiento/star-wars-star-trek-mejor-serie-ciencia-ficcion-amazon-prime-video-cientificos-1402072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejor-serie-ciencia-ficcion-punto-vista-cientifico-amazon-prime-video-4042058.jpg?tf=1200x' alt='Ni Star Trek ni Star Wars, esta es la mejor serie de ciencia ficción desde un punto de vista científico, y la puedes ver en Amazon Prime Video' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-sin-antena-sintonizar-1319246'>Cómo ver los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizar</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-sin-antena-sintonizar-1319246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ver-todos-canales-tdt-smart-tv-movil-antena-ni-tener-sintonizarlos-3290907.jpg?tf=1200x' alt='Cómo ver los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/youtube-music-coge-mejor-spotify-listas-reproduccion-generadas-ia-1404451'>YouTube Music coge lo mejor de Spotify con las listas de reproducción generadas con IA</a></h4>
-    <a href='https://computerhoy.com/google/youtube-music-coge-mejor-spotify-listas-reproduccion-generadas-ia-1404451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-music-coge-mejor-spotify-playlists-generadas-ia-4147636.jpg?tf=1200x' alt='YouTube Music coge lo mejor de Spotify con las listas de reproducción generadas con IA' />
     </a>
 </div>
 
