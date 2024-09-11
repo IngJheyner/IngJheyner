@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/desactive-casualidad-funcion-mi-movil-android-ahora-vuela-parece-acabo-comprar-1404630'>Desactivé por casualidad esta función de mi móvil Android y ahora vuela, parece que lo acabo de comprar</a></h4>
+    <a href='https://computerhoy.com/android/desactive-casualidad-funcion-mi-movil-android-ahora-vuela-parece-acabo-comprar-1404630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/desactive-casualidad-funcion-mi-movil-android-ahora-vuela-parece-acabo-comprar-4151793.jpg?tf=1200x' alt='Desactivé por casualidad esta función de mi móvil Android y ahora vuela, parece que lo acabo de comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/spacex-traje-eva-astronauta-como-se-fabrica-video-1404644'>Así ha creado SpaceX el traje del primer paseo espacial privado, quiere fabricar millones para emigrar a Marte</a></h4>
+    <a href='https://computerhoy.com/espacio/spacex-traje-eva-astronauta-como-se-fabrica-video-1404644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ha-creado-spacex-traje-primer-paseo-espacial-privado-quiere-fabricar-millones-emigrar-marte-4151052.jpg?tf=1200x' alt='Así ha creado SpaceX el traje del primer paseo espacial privado, quiere fabricar millones para emigrar a Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/robo-oscar-oppenheimer-ahora-puedes-ver-amazon-prime-video-comedia-inteligente-ultimos-anos-1403451'>Le robó el Óscar a Oppenheimer, y ahora la puedes ver en Amazon Prime Video: así es la comedia más inteligente de los últimos años</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/robo-oscar-oppenheimer-ahora-puedes-ver-amazon-prime-video-comedia-inteligente-ultimos-anos-1403451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/american-fiction-2023-3563175.jpg?tf=1200x' alt='Le robó el Óscar a Oppenheimer, y ahora la puedes ver en Amazon Prime Video: así es la comedia más inteligente de los últimos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reddit-como-funciona-historia-acuerdo-google-openai-1401557'>Qué es Reddit: cómo funciona, historia y el acuerdo con Google y OpenAI</a></h4>
     <a href='https://computerhoy.com/tecnologia/reddit-como-funciona-historia-acuerdo-google-openai-1401557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg?tf=1200x' alt='Qué es Reddit: cómo funciona, historia y el acuerdo con Google y OpenAI' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/record-consolas-conectadas-misma-tv-gestiona-excel-1400437'>Solo le falta la PS5 Pro: tiene tantas consolas conectadas a su Smart TV que necesita un excel para controlarlas</a></h4>
     <a href='https://computerhoy.com/gaming/record-consolas-conectadas-misma-tv-gestiona-excel-1400437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coleccionista-videojuegos-logra-conectar-444-consolas-mismo-televisor-3962142.jpg?tf=1200x' alt='Solo le falta la PS5 Pro: tiene tantas consolas conectadas a su Smart TV que necesita un excel para controlarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-te-guste-no-microsoft-instalara-fuerza-ultima-version-sistema-operativo-1404641'>Windows 11, te guste o no: Microsoft instalará a la fuerza la última versión del sistema operativo</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-te-guste-no-microsoft-instalara-fuerza-ultima-version-sistema-operativo-1404641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizacion-windows-4151354.jpg?tf=1200x' alt='Windows 11, te guste o no: Microsoft instalará a la fuerza la última versión del sistema operativo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ahora-puedes-ver-gratis-todo-catalogo-max-gastar-solo-euro-1404640'>Ahora puedes ver gratis todo el catálogo de MAX, sin gastar un solo euro</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ahora-puedes-ver-gratis-todo-catalogo-max-gastar-solo-euro-1404640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/max-4151351.jpg?tf=1200x' alt='Ahora puedes ver gratis todo el catálogo de MAX, sin gastar un solo euro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/agencia-espacial-europea-esa-confirma-puede-existir-vida-tierra-1404638'>La Agencia Espacial Europea (ESA) confirma que puede existir vida en la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/agencia-espacial-europea-esa-confirma-puede-existir-vida-tierra-1404638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tierra-4151349.jpg?tf=1200x' alt='La Agencia Espacial Europea (ESA) confirma que puede existir vida en la Tierra' />
     </a>
 </div>
 
