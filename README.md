@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nueva-ia-roblox-permite-crear-mundos-juegos-mediante-texto-1404427'>La nueva IA de Roblox permite crear mundos y juegos mediante texto</a></h4>
+    <a href='https://computerhoy.com/gaming/nueva-ia-roblox-permite-crear-mundos-juegos-mediante-texto-1404427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1726029535267-4146883.jpg?tf=1200x' alt='La nueva IA de Roblox permite crear mundos y juegos mediante texto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/intel-tiene-cada-vez-dificil-segunda-ronda-portatiles-copilot-1403713'>Intel lo tiene cada vez más difícil con la segunda ronda de portátiles Copilot+</a></h4>
+    <a href='https://computerhoy.com/pc/intel-tiene-cada-vez-dificil-segunda-ronda-portatiles-copilot-1403713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-book5-pro-360-4134696.jpg?tf=1200x' alt='Intel lo tiene cada vez más difícil con la segunda ronda de portátiles Copilot+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/edad-deberias-dejar-tomar-cafe-nuevo-estudio-afecta-cerebro-1403995'>Esta es la edad a la que deberías dejar de tomar café, según un nuevo estudio: afecta al cerebro</a></h4>
     <a href='https://computerhoy.com/ciencia/edad-deberias-dejar-tomar-cafe-nuevo-estudio-afecta-cerebro-1403995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/beber-cafe-4142041.jpg?tf=1200x' alt='Esta es la edad a la que deberías dejar de tomar café, según un nuevo estudio: afecta al cerebro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/puerto-hdmi-arc-como-usarlo-tv-1380621'>Qué es el puerto HDMI ARC, para qué sirve y cómo usarlo bien en tu TV</a></h4>
     <a href='https://computerhoy.com/tv/puerto-hdmi-arc-como-usarlo-tv-1380621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puerto-hdmi-arc-sirve-como-usarlo-smart-tv-3301530.jpg?tf=1200x' alt='Qué es el puerto HDMI ARC, para qué sirve y cómo usarlo bien en tu TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-barato-xiaomi-rebajadisimo-130-euros-1393407'>Este móvil barato de Xiaomi es un éxito en ventas y además está rebajadísimo a 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-barato-xiaomi-rebajadisimo-130-euros-1393407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/xiaomi-redmi-note-12-pro-5g-3117842.jpg?tf=1200x' alt='Este móvil barato de Xiaomi es un éxito en ventas y además está rebajadísimo a 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/llega-color-blanco-semaforos-significa-cuarta-luz-1404331'>Llega el color blanco a los semáforos: ¿qué significa la cuarta luz?</a></h4>
-    <a href='https://computerhoy.com/motor/llega-color-blanco-semaforos-significa-cuarta-luz-1404331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/llega-color-blanco-semaforos-significa-cuarta-luz-4141878.jpg?tf=1200x' alt='Llega el color blanco a los semáforos: ¿qué significa la cuarta luz?' />
     </a>
 </div>
 
