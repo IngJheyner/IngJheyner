@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/star-wars-star-trek-mejor-serie-ciencia-ficcion-amazon-prime-video-cientificos-1402072'>Ni Star Trek ni Star Wars, esta es la mejor serie de ciencia ficción desde un punto de vista científico, y la puedes ver en Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/star-wars-star-trek-mejor-serie-ciencia-ficcion-amazon-prime-video-cientificos-1402072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mejor-serie-ciencia-ficcion-punto-vista-cientifico-amazon-prime-video-4042058.jpg?tf=1200x' alt='Ni Star Trek ni Star Wars, esta es la mejor serie de ciencia ficción desde un punto de vista científico, y la puedes ver en Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-one-vuelta-esquina-empresa-flipper-zero-ya-trabaja-nuevo-producto-1404508'>¿Flipper One a la vuelta de la esquina? La empresa de Flipper Zero ya trabaja en un nuevo producto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-one-vuelta-esquina-empresa-flipper-zero-ya-trabaja-nuevo-producto-1404508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-3248609.jpg?tf=1200x' alt='¿Flipper One a la vuelta de la esquina? La empresa de Flipper Zero ya trabaja en un nuevo producto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/aplicacion-gratis-te-permite-comprobar-nombre-usuario-utiliza-casi-400-redes-sociales-1404515'>Esta aplicación gratis te permite comprobar si un nombre de usuario se utiliza en casi 400 redes sociales</a></h4>
     <a href='https://computerhoy.com/apps/aplicacion-gratis-te-permite-comprobar-nombre-usuario-utiliza-casi-400-redes-sociales-1404515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aplicacion-te-permite-comprobar-nombre-usuario-utiliza-casi-400-redes-sociales-4148447.jpg?tf=1200x' alt='Esta aplicación gratis te permite comprobar si un nombre de usuario se utiliza en casi 400 redes sociales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/youtube-music-coge-mejor-spotify-listas-reproduccion-generadas-ia-1404451'>YouTube Music coge lo mejor de Spotify con las listas de reproducción generadas con IA</a></h4>
     <a href='https://computerhoy.com/google/youtube-music-coge-mejor-spotify-listas-reproduccion-generadas-ia-1404451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-music-coge-mejor-spotify-playlists-generadas-ia-4147636.jpg?tf=1200x' alt='YouTube Music coge lo mejor de Spotify con las listas de reproducción generadas con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/funcion-espia-ford-valorando-incluir-coches-seguro-no-te-gusta-1404497'>Esta es la función espía que Ford está valorando incluir en sus coches y que seguro no te gusta</a></h4>
-    <a href='https://computerhoy.com/motor/funcion-espia-ford-valorando-incluir-coches-seguro-no-te-gusta-1404497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/prueba-ford-explorer-ev-2024-3556489.jpg?tf=1200x' alt='Esta es la función espía que Ford está valorando incluir en sus coches y que seguro no te gusta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/jubila-fregona-fregona-electrica-necesitas-dejar-suelo-como-nuevo-1404503'>Jubila tu fregona: esta fregona eléctrica es lo que necesitas para dejar el suelo como nuevo</a></h4>
-    <a href='https://computerhoy.com/hogar/jubila-fregona-fregona-electrica-necesitas-dejar-suelo-como-nuevo-1404503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fregona-cecotec-4148130.jpg?tf=1200x' alt='Jubila tu fregona: esta fregona eléctrica es lo que necesitas para dejar el suelo como nuevo' />
     </a>
 </div>
 
