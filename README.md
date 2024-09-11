@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/polaris-dawn-despega-exito-1404420'>Polaris Dawn despega con éxito, camino del primer paseo espacial privado de la historia</a></h4>
+    <a href='https://computerhoy.com/espacio/polaris-dawn-despega-exito-1404420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mision-polaris-dawn-despega-exito-camino-primer-paseo-espacial-privado-historia-4144076.jpg?tf=1200x' alt='Polaris Dawn despega con éxito, camino del primer paseo espacial privado de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/taito-lanza-reloj-supera-apple-watch-jugar-space-invaders-1404413'>Taito lanza un reloj que supera al Apple Watch en una cosa: puedes jugar a Space Invaders</a></h4>
     <a href='https://computerhoy.com/gaming/taito-lanza-reloj-supera-apple-watch-jugar-space-invaders-1404413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/taito-lanza-reloj-supera-apple-watch-cosa-puedes-jugar-space-invaders-4144464.jpg?tf=1200x' alt='Taito lanza un reloj que supera al Apple Watch en una cosa: puedes jugar a Space Invaders' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/stephen-king-bendice-ultima-adaptacion-cine-novelas-buenas-1404303'>Stephen King bendice la última adaptación al cine de una de sus novelas: "es una de las buenas”</a></h4>
     <a href='https://computerhoy.com/entretenimiento/stephen-king-bendice-ultima-adaptacion-cine-novelas-buenas-1404303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/life-chuck-4142190.jpg?tf=1200x' alt='Stephen King bendice la última adaptación al cine de una de sus novelas: "es una de las buenas”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-vuelve-pensar-diferente-tendras-comprar-separado-cable-carga-airpods-4-1404402'>Apple vuelve a pensar diferente: tendrás que comprar por separado el cable de carga de los AirPods 4</a></h4>
-    <a href='https://computerhoy.com/apple/apple-vuelve-pensar-diferente-tendras-comprar-separado-cable-carga-airpods-4-1404402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-airpods-4144085.jpg?tf=1200x' alt='Apple vuelve a pensar diferente: tendrás que comprar por separado el cable de carga de los AirPods 4' />
     </a>
 </div>
 
