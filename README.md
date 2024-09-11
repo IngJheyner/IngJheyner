@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vuelve-arenero-inteligente-barato-cuesta-menos-300-euros-1404298'>Vuelve el arenero inteligente más barato: cuesta menos de 300 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vuelve-arenero-inteligente-barato-cuesta-menos-300-euros-1404298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pumba-8000-cleankitty-smart-4141379.jpg?tf=1200x' alt='Vuelve el arenero inteligente más barato: cuesta menos de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/comando-reiniciar-windows-10-sin-perder-archivos-1389146'>Este comando mágico que deja Windows 10 como el primer día sin perder ningún archivo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/comando-reiniciar-windows-10-sin-perder-archivos-1389146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/comando-magico-deja-windows-10-como-primer-dia-perder-solo-archivo-3419399.jpg?tf=1200x' alt='Este comando mágico que deja Windows 10 como el primer día sin perder ningún archivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/metodo-patata-formula-infalible-ocu-no-equivocarte-freidora-aire-1404597'>El método de la patata: la fórmula infalible de la OCU para no equivocarte con tu freidora de aire</a></h4>
+    <a href='https://computerhoy.com/life/metodo-patata-formula-infalible-ocu-no-equivocarte-freidora-aire-1404597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/metodo-patata-formula-infalible-ocu-no-equivocarte-freidora-aire-4150445.jpg?tf=1200x' alt='El método de la patata: la fórmula infalible de la OCU para no equivocarte con tu freidora de aire' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-ver-youtube-android-auto-1404340'>Cómo ver YouTube en Android Auto</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ver-youtube-android-auto-1404340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-android-auto-4148124.jpg?tf=1200x' alt='Cómo ver YouTube en Android Auto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/menu-oculto-fire-tv-nuevas-funciones-1348244'>Descubren un menú oculto en los Amazon Fire TV que permite activar nuevas funciones</a></h4>
     <a href='https://computerhoy.com/tutoriales/menu-oculto-fire-tv-nuevas-funciones-1348244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubren-menu-oculto-amazon-fire-tv-stick-permite-activar-nuevas-funciones-3246054.jpg?tf=1200x' alt='Descubren un menú oculto en los Amazon Fire TV que permite activar nuevas funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/significan-modos-p-av-tv-m-camara-digital-1401423'>Qué significan los modos P, AV, TV y M de una cámara digital</a></h4>
-    <a href='https://computerhoy.com/tecnologia/significan-modos-p-av-tv-m-camara-digital-1401423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/modos-camara-dslr-4149257.jpg?tf=1200x' alt='Qué significan los modos P, AV, TV y M de una cámara digital' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mezcla-perfecta-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512'>Una mezcla perfecta con lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mezcla-perfecta-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-casi-nadie-conoce-4057626.jpg?tf=1200x' alt='Una mezcla perfecta con lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/significado-letra-documento-nacional-identidad-803463'>Qué significa la letra que tienes en tu número de DNI y por qué solo se utilizan 23 letras</a></h4>
-    <a href='https://computerhoy.com/noticias/life/significado-letra-documento-nacional-identidad-803463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/alemania-permitira-usar-iphone-como-dni-pronto-podria-llegar-espana.jpg?tf=1200x' alt='Qué significa la letra que tienes en tu número de DNI y por qué solo se utilizan 23 letras' />
     </a>
 </div>
 
