@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-evitar-borrar-cuentas-gmail-inactivas-1404649'>Google ha comenzado a borrar millones de cuentas de Gmail: así puedes evitar que borre la tuya</a></h4>
+    <a href='https://computerhoy.com/google/google-evitar-borrar-cuentas-gmail-inactivas-1404649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-ha-comenzado-borrar-millones-cuentas-gmail-puedes-evitar-borre-4151794.jpg?tf=1200x' alt='Google ha comenzado a borrar millones de cuentas de Gmail: así puedes evitar que borre la tuya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/desactive-casualidad-funcion-mi-movil-android-ahora-vuela-parece-acabo-comprar-1404630'>Desactivé por casualidad esta función de mi móvil Android y ahora vuela, parece que lo acabo de comprar</a></h4>
     <a href='https://computerhoy.com/android/desactive-casualidad-funcion-mi-movil-android-ahora-vuela-parece-acabo-comprar-1404630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/desactive-casualidad-funcion-mi-movil-android-ahora-vuela-parece-acabo-comprar-4151793.jpg?tf=1200x' alt='Desactivé por casualidad esta función de mi móvil Android y ahora vuela, parece que lo acabo de comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/reddit-como-funciona-historia-acuerdo-google-openai-1401557'>Qué es Reddit: cómo funciona, historia y el acuerdo con Google y OpenAI</a></h4>
     <a href='https://computerhoy.com/tecnologia/reddit-como-funciona-historia-acuerdo-google-openai-1401557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg?tf=1200x' alt='Qué es Reddit: cómo funciona, historia y el acuerdo con Google y OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/record-consolas-conectadas-misma-tv-gestiona-excel-1400437'>Solo le falta la PS5 Pro: tiene tantas consolas conectadas a su Smart TV que necesita un excel para controlarlas</a></h4>
-    <a href='https://computerhoy.com/gaming/record-consolas-conectadas-misma-tv-gestiona-excel-1400437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/coleccionista-videojuegos-logra-conectar-444-consolas-mismo-televisor-3962142.jpg?tf=1200x' alt='Solo le falta la PS5 Pro: tiene tantas consolas conectadas a su Smart TV que necesita un excel para controlarlas' />
     </a>
 </div>
 
