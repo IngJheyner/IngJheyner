@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/jubila-fregona-fregona-electrica-necesitas-dejar-suelo-como-nuevo-1404503'>Jubila tu fregona: esta fregona eléctrica es lo que necesitas para dejar el suelo como nuevo</a></h4>
+    <a href='https://computerhoy.com/hogar/jubila-fregona-fregona-electrica-necesitas-dejar-suelo-como-nuevo-1404503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fregona-cecotec-4148130.jpg?tf=1200x' alt='Jubila tu fregona: esta fregona eléctrica es lo que necesitas para dejar el suelo como nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/todo-sabe-pcie-70-caracteristicas-prestaciones-fecha-lanzamiento-1394670'>Todo lo que se sabe sobre PCIe 7.0: características, prestaciones, fecha de lanzamiento y más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-sabe-pcie-70-caracteristicas-prestaciones-fecha-lanzamiento-1394670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/casi-nadie-tiene-pcie-50-pero-ya-ha-presentado-estandar-pcie-60-doble-rapido-2584239.jpg?tf=1200x' alt='Todo lo que se sabe sobre PCIe 7.0: características, prestaciones, fecha de lanzamiento y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/kodi-211-ya-disponible-corrige-problemas-estabilidad-mejora-experiencia-usuario-1404484'>Kodi 21.1 ya está disponible: corrige los problemas de estabilidad y mejora la experiencia de usuario</a></h4>
+    <a href='https://computerhoy.com/tv/kodi-211-ya-disponible-corrige-problemas-estabilidad-mejora-experiencia-usuario-1404484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/kodi-211-ya-disponible-corrige-problemas-estabilidad-mejora-experiencia-usuario-4148119.jpg?tf=1200x' alt='Kodi 21.1 ya está disponible: corrige los problemas de estabilidad y mejora la experiencia de usuario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/grok-chatbot-ia-elon-musk-usa-datos-x-consentimiento-puedes-desactivarlo-1404470'>Grok, el chatbot de IA de Elon Musk, usa tus datos de X sin consentimiento, así puedes desactivarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/grok-chatbot-ia-elon-musk-usa-datos-x-consentimiento-puedes-desactivarlo-1404470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/grok-3307945.jpg?tf=1200x' alt='Grok, el chatbot de IA de Elon Musk, usa tus datos de X sin consentimiento, así puedes desactivarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/movil-barato-xiaomi-supera-poco-100-euros-tiene-todo-imprescindible-1404433'>Este es el móvil barato de Xiaomi que supera por poco los 100 euros y tiene todo lo imprescindible</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-barato-xiaomi-supera-poco-100-euros-tiene-todo-imprescindible-1404433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/poco-m6-4147177.jpg?tf=1200x' alt='Este es el móvil barato de Xiaomi que supera por poco los 100 euros y tiene todo lo imprescindible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/te-manipula-chatgpt-estudio-revela-tienen-ideologia-politica-te-podria-afectar-1404454'>¿Te manipula ChatGPT? Estudio revela que tienen una ideología política y que te podría afectar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/te-manipula-chatgpt-estudio-revela-tienen-ideologia-politica-te-podria-afectar-1404454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/te-manipula-chatgpt-4147789.jpg?tf=1200x' alt='¿Te manipula ChatGPT? Estudio revela que tienen una ideología política y que te podría afectar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/elimina-extensiones-peligrosas-google-chrome-malware-1395724'>Desinstala de inmediato estas apps, esconden malware, virus y vigilan todo lo que haces</a></h4>
-    <a href='https://computerhoy.com/internet/elimina-extensiones-peligrosas-google-chrome-malware-1395724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Desinstala de inmediato estas apps, esconden malware, virus y vigilan todo lo que haces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-paso-cerca-humanos-ahora-pensara-antes-responderte-1404447'>ChatGPT, un paso más cerca de los humanos, ahora pensará antes de responderte </a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-paso-cerca-humanos-ahora-pensara-antes-responderte-1404447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-3532913.jpg?tf=1200x' alt='ChatGPT, un paso más cerca de los humanos, ahora pensará antes de responderte ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-steve-jobs-iphone-mac-tim-cook-1397973'>Apple, quién es Steve Jobs, iPhone, Mac y más de la actual gran compañía de Tim Cook</a></h4>
-    <a href='https://computerhoy.com/apple/apple-steve-jobs-iphone-mac-tim-cook-1397973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-3482197.jpg?tf=1200x' alt='Apple, quién es Steve Jobs, iPhone, Mac y más de la actual gran compañía de Tim Cook' />
     </a>
 </div>
 
