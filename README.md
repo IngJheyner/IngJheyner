@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/bitelchus-bitelchus-batiendo-records-pero-ha-estrellado-grandes-clasicos-stephen-king-1404374'>Bitelchús Bitelchús está batiendo récords, pero se ha estrellado contra uno de los grandes clásicos de Stephen King</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/bitelchus-bitelchus-batiendo-records-pero-ha-estrellado-grandes-clasicos-stephen-king-1404374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bitelchus-bitelchus-batiendo-records-pero-ha-estrellado-grandes-clasicos-stephen-king-4142985.jpg?tf=1200x' alt='Bitelchús Bitelchús está batiendo récords, pero se ha estrellado contra uno de los grandes clásicos de Stephen King' />
+    <h4><a href='https://computerhoy.com/apps/app-gratis-detectar-radares-android-auto-pegasus-drones-dgt-1388535'>Esta app gratis para detectar radares en Android Auto le da mil vueltas a Waze: alerta del Pegasus y los drones de la DGT</a></h4>
+    <a href='https://computerhoy.com/apps/app-gratis-detectar-radares-android-auto-pegasus-drones-dgt-1388535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/app-gratis-detectar-radares-android-auto-mejor-waze-alerta-pegasus-dgt-incluso-drones-3396428.jpg?tf=1200x' alt='Esta app gratis para detectar radares en Android Auto le da mil vueltas a Waze: alerta del Pegasus y los drones de la DGT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vuelve-arenero-inteligente-barato-cuesta-menos-300-euros-1404298'>Vuelve el arenero inteligente más barato: cuesta menos de 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vuelve-arenero-inteligente-barato-cuesta-menos-300-euros-1404298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pumba-8000-cleankitty-smart-4141379.jpg?tf=1200x' alt='Vuelve el arenero inteligente más barato: cuesta menos de 300 euros' />
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-apocalypse-now-ni-dunkerque-desconocida-pelicula-belica-netflix-te-dejara-pegado-sofa-1404507'>Ni Apocalypse Now ni Dunkerque, la desconocida película bélica de Netflix que te dejará pegado al sofá</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-apocalypse-now-ni-dunkerque-desconocida-pelicula-belica-netflix-te-dejara-pegado-sofa-1404507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/narvik-peli-netflix-4148453.jpg?tf=1200x' alt='Ni Apocalypse Now ni Dunkerque, la desconocida película bélica de Netflix que te dejará pegado al sofá' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/comando-reiniciar-windows-10-sin-perder-archivos-1389146'>Este comando mágico que deja Windows 10 como el primer día sin perder ningún archivo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/comando-reiniciar-windows-10-sin-perder-archivos-1389146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/comando-magico-deja-windows-10-como-primer-dia-perder-solo-archivo-3419399.jpg?tf=1200x' alt='Este comando mágico que deja Windows 10 como el primer día sin perder ningún archivo' />
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-anade-sorprendente-peligrosa-nueva-funcion-espionaje-1404612'>Flipper Zero añade una sorprendente y peligrosa nueva función de espionaje</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-zero-anade-sorprendente-peligrosa-nueva-funcion-espionaje-1404612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/flipper-zero-anade-sorprendente-peligrosa-nueva-funcion-espionaje-4150905.jpg?tf=1200x' alt='Flipper Zero añade una sorprendente y peligrosa nueva función de espionaje' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/metodo-patata-formula-infalible-ocu-no-equivocarte-freidora-aire-1404597'>El método de la patata: la fórmula infalible de la OCU para no equivocarte con tu freidora de aire</a></h4>
-    <a href='https://computerhoy.com/life/metodo-patata-formula-infalible-ocu-no-equivocarte-freidora-aire-1404597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/metodo-patata-formula-infalible-ocu-no-equivocarte-freidora-aire-4150445.jpg?tf=1200x' alt='El método de la patata: la fórmula infalible de la OCU para no equivocarte con tu freidora de aire' />
+    <h4><a href='https://computerhoy.com/android/boton-oculto-secreto-smart-tv-no-conoces-pensado-funcione-mejor-1395232'>El botón oculto de tu Smart TV que no conoces y que está pensado para que funcione mejor</a></h4>
+    <a href='https://computerhoy.com/android/boton-oculto-secreto-smart-tv-no-conoces-pensado-funcione-mejor-1395232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/boton-secreto-smart-tv-no-conoces-pensado-funcione-mejor-3706317.jpg?tf=1200x' alt='El botón oculto de tu Smart TV que no conoces y que está pensado para que funcione mejor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-youtube-android-auto-1404340'>Cómo ver YouTube en Android Auto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-youtube-android-auto-1404340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-android-auto-4148124.jpg?tf=1200x' alt='Cómo ver YouTube en Android Auto' />
+    <h4><a href='https://computerhoy.com/industria/henneo-cierra-compra-axel-springer-espana-1404625'>Henneo cierra la compra de Axel Springer España </a></h4>
+    <a href='https://computerhoy.com/industria/henneo-cierra-compra-axel-springer-espana-1404625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/henneo-axel-springer-espana-4150758.jpg?tf=1200x' alt='Henneo cierra la compra de Axel Springer España ' />
     </a>
 </div>
 
