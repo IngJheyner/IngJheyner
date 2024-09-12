@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/verse-nueva-red-social-ia-generacion-z-no-gusta-tiktok-1404652'>Verse, la nueva red social con IA para la Generación Z que no le gusta TikTok</a></h4>
-    <a href='https://computerhoy.com/redes/verse-nueva-red-social-ia-generacion-z-no-gusta-tiktok-1404652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verse-nueva-ia-generativa-generacion-z-no-gusta-tiktok-4152227.jpg?tf=1200x' alt='Verse, la nueva red social con IA para la Generación Z que no le gusta TikTok' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-cookies-movil-vez-todas-ios-android-1403490'>Cómo borrar las cookies en tu móvil de una vez por todas (iOS/Android)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-borrar-cookies-movil-vez-todas-ios-android-1403490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/eliminar-todas-cookies-movil-4107636.jpg?tf=1200x' alt='Cómo borrar las cookies en tu móvil de una vez por todas (iOS/Android)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/martin-scorsese-arrepiente-haber-hecho-pelicula-dicaprio-ultimo-trabajo-estudio-dirigi-1404358'>Martin Scorsese se arrepiente de haber hecho esta película con DiCaprio: "El último trabajo de estudio que dirigí".</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/martin-scorsese-arrepiente-haber-hecho-pelicula-dicaprio-ultimo-trabajo-estudio-dirigi-1404358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/shutter-island-2342065.jpg?tf=1200x' alt='Martin Scorsese se arrepiente de haber hecho esta película con DiCaprio: "El último trabajo de estudio que dirigí".' />
+    <h4><a href='https://computerhoy.com/android/tablet-consola-potente-lenovo-legion-1402503'>¿Tablet o consola? Esta Lenovo Legion es potentísima y te gustará si te gusta jugar</a></h4>
+    <a href='https://computerhoy.com/android/tablet-consola-potente-lenovo-legion-1402503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lenovo-y700-4057611.jpg?tf=1200x' alt='¿Tablet o consola? Esta Lenovo Legion es potentísima y te gustará si te gusta jugar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/tienes-amazon-fire-tv-estas-tardando-instalar-app-gratis-movil-1209248'>Si tienes un Amazon Fire TV, estás tardando en instalar esta app gratis en tu móvil</a></h4>
-    <a href='https://computerhoy.com/tv/tienes-amazon-fire-tv-estas-tardando-instalar-app-gratis-movil-1209248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925922.jpg?tf=1200x' alt='Si tienes un Amazon Fire TV, estás tardando en instalar esta app gratis en tu móvil' />
+    <h4><a href='https://computerhoy.com/tecnologia/lexar-tarjeta-sd-acero-inoxidable-resistente-golpes-caidas-1404664'>Lexar presenta la primera tarjeta SD de acero inoxidable, resistente a golpes y caídas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lexar-tarjeta-sd-acero-inoxidable-resistente-golpes-caidas-1404664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lexar-presenta-primera-tarjeta-micro-sd-acero-inoxidable-resistente-golpes-caidas-4153953.jpg?tf=1200x' alt='Lexar presenta la primera tarjeta SD de acero inoxidable, resistente a golpes y caídas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-xiaomi-superventas-chollo-200-euros-1317024'>Uno de los Xiaomi que arrasan en ventas es más chollo que nunca: tiene 5G y supera por poco los 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-xiaomi-superventas-chollo-200-euros-1317024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-note-13-pro-5g-3283385.jpg?tf=1200x' alt='Uno de los Xiaomi que arrasan en ventas es más chollo que nunca: tiene 5G y supera por poco los 200 euros' />
+    <h4><a href='https://computerhoy.com/apple/trenzado-fino-no-me-habla-apple-dice-adios-productos-polemicos-iphone-16-1404232'>¿Trenzado fino? No sé de qué me habla: Apple dice adiós a uno de sus productos más polémicos en los iPhone 16</a></h4>
+    <a href='https://computerhoy.com/apple/trenzado-fino-no-me-habla-apple-dice-adios-productos-polemicos-iphone-16-1404232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funda-trenzado-fino-apple-iphone-15-pro-max-3150430.jpg?tf=1200x' alt='¿Trenzado fino? No sé de qué me habla: Apple dice adiós a uno de sus productos más polémicos en los iPhone 16' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubre-algunas-personas-siempre-llegan-tarde-como-mejorar-puntualidad-expertos-1404489'>Descubre por qué algunas personas siempre llegan tarde y cómo mejorar la puntualidad según los expertos</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubre-algunas-personas-siempre-llegan-tarde-como-mejorar-puntualidad-expertos-1404489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/llegar-tarde-4148290.jpg?tf=1200x' alt='Descubre por qué algunas personas siempre llegan tarde y cómo mejorar la puntualidad según los expertos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-enviar-correos-electronicos-directamente-excel-power-automate-1402837'>Cómo enviar correos electrónicos directamente desde Excel con Power Automate</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-enviar-correos-electronicos-directamente-excel-power-automate-1402837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/enviar-correos-excel-microsoft-power-automate-4080199.jpg?tf=1200x' alt='Cómo enviar correos electrónicos directamente desde Excel con Power Automate' />
     </a>
 </div>
 
