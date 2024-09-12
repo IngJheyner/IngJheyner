@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/tom-hanks-nunca-olvidara-unica-pelicula-rodo-clint-eastwood-intimidante-como-infierno-1404524'>Tom Hanks nunca olvidará la única película que rodó con Clint Eastwood: “Es intimidante como el infierno”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/tom-hanks-nunca-olvidara-unica-pelicula-rodo-clint-eastwood-intimidante-como-infierno-1404524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/tom-hanks-3087190.jpg?tf=1200x' alt='Tom Hanks nunca olvidará la única película que rodó con Clint Eastwood: “Es intimidante como el infierno”' />
+    <h4><a href='https://computerhoy.com/entretenimiento/ahora-arrasa-rebel-ridge-netflix-pero-antes-director-conquisto-cinefilos-joya-indie-1404744'>Ahora arrasa con Rebel Ridge en Netflix, pero antes su director conquistó a los cinéfilos con esta joya indie</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ahora-arrasa-rebel-ridge-netflix-pero-antes-director-conquisto-cinefilos-joya-indie-1404744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ahora-arrasa-rebel-ridge-netflix-pero-antes-director-conquisto-cinefilos-joya-indie-4156098.jpg?tf=1200x' alt='Ahora arrasa con Rebel Ridge en Netflix, pero antes su director conquistó a los cinéfilos con esta joya indie' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-herramienta-abrir-cerraduras-1395048'>Los cerrajeros hacen saltar las alarmas: esta diminuta herramienta abre el 80% de las cerraduras en segundos</a></h4>
-    <a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-herramienta-abrir-cerraduras-1395048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cerrajeros-dan-voz-alarma-herramienta-abre-80-cerraduras-segundos-3699758.jpg?tf=1200x' alt='Los cerrajeros hacen saltar las alarmas: esta diminuta herramienta abre el 80% de las cerraduras en segundos' />
+    <h4><a href='https://computerhoy.com/tecnologia/proyecto-strawberry-openai-tipo-ia-igualara-nivel-intelectual-ser-humano-1404040'>Qué es el proyecto Strawberry de OpenAI, el tipo de IA que igualará el nivel intelectual del ser humano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/proyecto-strawberry-openai-tipo-ia-igualara-nivel-intelectual-ser-humano-1404040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/proyecto-strawberry-openai-4134862.jpg?tf=1200x' alt='Qué es el proyecto Strawberry de OpenAI, el tipo de IA que igualará el nivel intelectual del ser humano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ya-puedes-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-1404574'>Ya puedes ver en Max la película que cambió la ciencia ficción para siempre: creó un género propio</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ya-puedes-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-1404574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-puedes-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-4149410.jpg?tf=1200x' alt='Ya puedes ver en Max la película que cambió la ciencia ficción para siempre: creó un género propio' />
+    <h4><a href='https://computerhoy.com/apps/revolut-ya-compatible-bizum-puedes-vincular-movil-cuenta-1404824'>Revolut ya es compatible con Bizum: así puedes vincular tu móvil con tu cuenta</a></h4>
+    <a href='https://computerhoy.com/apps/revolut-ya-compatible-bizum-puedes-vincular-movil-cuenta-1404824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/revolut-4158636.jpg?tf=1200x' alt='Revolut ya es compatible con Bizum: así puedes vincular tu móvil con tu cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/conexion-tv-habitaciones-velocidad-internet-coaxial-1395277'>Si tienes esta conexión de TV en tus habitaciones, estás de suerte: puedes hacer que tu conexión a internet vuele</a></h4>
-    <a href='https://computerhoy.com/redes/conexion-tv-habitaciones-velocidad-internet-coaxial-1395277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tienes-cable-tv-habitaciones-acabas-encontrar-oro-podras-hacer-conexion-internet-vuele-3708809.jpg?tf=1200x' alt='Si tienes esta conexión de TV en tus habitaciones, estás de suerte: puedes hacer que tu conexión a internet vuele' />
+    <h4><a href='https://computerhoy.com/gaming/sony-vendera-consolas-playstation-5-mitad-te-costara-nueva-ps5-pro-1404823'>Sony venderá consolas PlayStation 5 por la mitad de lo que te costará la nueva PS5 Pro</a></h4>
+    <a href='https://computerhoy.com/gaming/sony-vendera-consolas-playstation-5-mitad-te-costara-nueva-ps5-pro-1404823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sony-vendera-consolas-playstation-5-mitad-te-costara-nueva-ps5-pro-4158635.jpg?tf=1200x' alt='Sony venderá consolas PlayStation 5 por la mitad de lo que te costará la nueva PS5 Pro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/clasico-spielberg-secuela-pixar-estas-son-peliculas-perfectas-jamas-filmadas-tarantino-1404608'>Desde un clásico de Spielberg a una secuela de Pixar: estas son las películas más perfectas jamás filmadas, según Tarantino</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/clasico-spielberg-secuela-pixar-estas-son-peliculas-perfectas-jamas-filmadas-tarantino-1404608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/quentin-tarantino-3304015.jpg?tf=1200x' alt='Desde un clásico de Spielberg a una secuela de Pixar: estas son las películas más perfectas jamás filmadas, según Tarantino' />
+    <h4><a href='https://computerhoy.com/apps/youtube-no-conoce-limites-ya-muestra-anuncios-incluso-video-pausa-1404822'>YouTube no conoce límites y ya muestra anuncios incluso con el vídeo en pausa</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-no-conoce-limites-ya-muestra-anuncios-incluso-video-pausa-1404822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-4158490.jpg?tf=1200x' alt='YouTube no conoce límites y ya muestra anuncios incluso con el vídeo en pausa' />
     </a>
 </div>
 
