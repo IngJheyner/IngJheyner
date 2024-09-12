@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-segunda-generacion-ya-aqui-openai-presenta-o1-ia-razona-1404829'>La IA de segunda generación ya está aquí: OpenAI presenta o1, la IA que razona</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-segunda-generacion-ya-aqui-openai-presenta-o1-ia-razona-1404829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ia-segunda-generacion-ya-aqui-openai-presenta-o1-ia-razona-4158929.jpg?tf=1200x' alt='La IA de segunda generación ya está aquí: OpenAI presenta o1, la IA que razona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-consegui-darme-cuenta-habia-descargado-querer-virus-mi-ordenador-1404812'>Así es cómo conseguí darme cuenta de que había descargado sin querer un virus en mi ordenador</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-consegui-darme-cuenta-habia-descargado-querer-virus-mi-ordenador-1404812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-consegui-darme-cuenta-habia-descargado-querer-virus-mi-ordenador-4158781.jpg?tf=1200x' alt='Así es cómo conseguí darme cuenta de que había descargado sin querer un virus en mi ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/ahora-arrasa-rebel-ridge-netflix-pero-antes-director-conquisto-cinefilos-joya-indie-1404744'>Ahora arrasa con Rebel Ridge en Netflix, pero antes su director conquistó a los cinéfilos con esta joya indie</a></h4>
     <a href='https://computerhoy.com/entretenimiento/ahora-arrasa-rebel-ridge-netflix-pero-antes-director-conquisto-cinefilos-joya-indie-1404744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ahora-arrasa-rebel-ridge-netflix-pero-antes-director-conquisto-cinefilos-joya-indie-4156098.jpg?tf=1200x' alt='Ahora arrasa con Rebel Ridge en Netflix, pero antes su director conquistó a los cinéfilos con esta joya indie' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/revolut-ya-compatible-bizum-puedes-vincular-movil-cuenta-1404824'>Revolut ya es compatible con Bizum: así puedes vincular tu móvil con tu cuenta</a></h4>
     <a href='https://computerhoy.com/apps/revolut-ya-compatible-bizum-puedes-vincular-movil-cuenta-1404824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/revolut-4158636.jpg?tf=1200x' alt='Revolut ya es compatible con Bizum: así puedes vincular tu móvil con tu cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/sony-vendera-consolas-playstation-5-mitad-te-costara-nueva-ps5-pro-1404823'>Sony venderá consolas PlayStation 5 por la mitad de lo que te costará la nueva PS5 Pro</a></h4>
-    <a href='https://computerhoy.com/gaming/sony-vendera-consolas-playstation-5-mitad-te-costara-nueva-ps5-pro-1404823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sony-vendera-consolas-playstation-5-mitad-te-costara-nueva-ps5-pro-4158635.jpg?tf=1200x' alt='Sony venderá consolas PlayStation 5 por la mitad de lo que te costará la nueva PS5 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-no-conoce-limites-ya-muestra-anuncios-incluso-video-pausa-1404822'>YouTube no conoce límites y ya muestra anuncios incluso con el vídeo en pausa</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-no-conoce-limites-ya-muestra-anuncios-incluso-video-pausa-1404822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-4158490.jpg?tf=1200x' alt='YouTube no conoce límites y ya muestra anuncios incluso con el vídeo en pausa' />
     </a>
 </div>
 
