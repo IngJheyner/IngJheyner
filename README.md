@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/oficial-google-maps-quiere-eliminar-mapa-waze-1404793'>Es oficial: Google Maps quiere eliminar del mapa a Waze</a></h4>
+    <a href='https://computerhoy.com/google/oficial-google-maps-quiere-eliminar-mapa-waze-1404793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/oficial-google-maps-quiere-eliminar-mapa-waze-4157722.jpg?tf=1200x' alt='Es oficial: Google Maps quiere eliminar del mapa a Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/brutal-pc-gaming-apenas-600-euros-chollo-pccomponentes-te-pone-bandeja-i5-rtx-3050-1404327'>Brutal PC Gaming por apenas 600 euros: este chollo de PcComponentes te pone en bandeja un i5 con RTX 3050</a></h4>
+    <a href='https://computerhoy.com/tecnologia/brutal-pc-gaming-apenas-600-euros-chollo-pccomponentes-te-pone-bandeja-i5-rtx-3050-1404327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pccom-lite-4141871.jpg?tf=1200x' alt='Brutal PC Gaming por apenas 600 euros: este chollo de PcComponentes te pone en bandeja un i5 con RTX 3050' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/adios-listas-iptv-app-veo-cientos-canales-tv-gratis-registro-ni-configurar-nada-1404651'>Adiós a las listas IPTV: con esta app veo cientos de canales de TV gratis sin registro ni configurar nada</a></h4>
+    <a href='https://computerhoy.com/apps/adios-listas-iptv-app-veo-cientos-canales-tv-gratis-registro-ni-configurar-nada-1404651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ver-tv-movil-4156581.jpg?tf=1200x' alt='Adiós a las listas IPTV: con esta app veo cientos de canales de TV gratis sin registro ni configurar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-ha-intentado-desviar-asteroide-pero-ahora-restos-dirigen-tierra-1404723'>La NASA ha intentado desviar un asteroide, pero ahora los restos se dirigen hacia la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-ha-intentado-desviar-asteroide-pero-ahora-restos-dirigen-tierra-1404723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nasa-ha-intentado-desviar-asteroide-pero-ahora-restos-dirigen-tierra-4155469.jpg?tf=1200x' alt='La NASA ha intentado desviar un asteroide, pero ahora los restos se dirigen hacia la Tierra' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estos-son-paises-cerveza-consumen-mundo-espana-ellos-1404018'>Estos son los países que más cerveza consumen en el mundo (y sí, España está entre ellos)</a></h4>
     <a href='https://computerhoy.com/life/estos-son-paises-cerveza-consumen-mundo-espana-ellos-1404018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/beber-cerveza-espana-4156450.jpg?tf=1200x' alt='Estos son los países que más cerveza consumen en el mundo (y sí, España está entre ellos)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/formas-creativas-utiles-utilizar-airtag-apple-1404745'>Las formas más creativas (y útiles) de utilizar los AirTag de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/formas-creativas-utiles-utilizar-airtag-apple-1404745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/airtag-permite-desmantelar-red-ladrones-encontrar-objetos-robados-80-victimas-3436808.jpg?tf=1200x' alt='Las formas más creativas (y útiles) de utilizar los AirTag de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-apk-arma-definitiva-instalas-aplicacion-play-store-nada-1404699'>Google contra los APK con esta arma definitiva, o instalas la aplicación desde la Play Store o nada</a></h4>
-    <a href='https://computerhoy.com/android/google-apk-arma-definitiva-instalas-aplicacion-play-store-nada-1404699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apk-3891693.jpg?tf=1200x' alt='Google contra los APK con esta arma definitiva, o instalas la aplicación desde la Play Store o nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/microsoft-va-todo-apple-surface-pro-potente-rebajada-casi-mitad-precio-1404673'>Microsoft va con todo a por Apple: su Surface Pro más potente está rebajada casi a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/pc/microsoft-va-todo-apple-surface-pro-potente-rebajada-casi-mitad-precio-1404673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-surface-pro-9-2929732.jpg?tf=1200x' alt='Microsoft va con todo a por Apple: su Surface Pro más potente está rebajada casi a mitad de precio' />
     </a>
 </div>
 
