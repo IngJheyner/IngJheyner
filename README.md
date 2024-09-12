@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubre-algunas-personas-siempre-llegan-tarde-como-mejorar-puntualidad-expertos-1404489'>Descubre por qué algunas personas siempre llegan tarde y cómo mejorar la puntualidad según los expertos</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubre-algunas-personas-siempre-llegan-tarde-como-mejorar-puntualidad-expertos-1404489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/llegar-tarde-4148290.jpg?tf=1200x' alt='Descubre por qué algunas personas siempre llegan tarde y cómo mejorar la puntualidad según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/boton-peligroso-whatsapp-estafadores-usan-vaciarte-cuenta-1404645'>Este es el botón más peligroso de WhatsApp: los estafadores lo usan para vaciarte la cuenta</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/boton-peligroso-whatsapp-estafadores-usan-vaciarte-cuenta-1404645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/boton-peligroso-whatsapp-estafadores-usan-vaciarte-cuenta-4152549.jpg?tf=1200x' alt='Este es el botón más peligroso de WhatsApp: los estafadores lo usan para vaciarte la cuenta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/spacex-traje-eva-astronauta-como-se-fabrica-video-1404644'>Así ha creado SpaceX el traje del primer paseo espacial privado, quiere fabricar millones para emigrar a Marte</a></h4>
     <a href='https://computerhoy.com/espacio/spacex-traje-eva-astronauta-como-se-fabrica-video-1404644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ha-creado-spacex-traje-primer-paseo-espacial-privado-quiere-fabricar-millones-emigrar-marte-4151052.jpg?tf=1200x' alt='Así ha creado SpaceX el traje del primer paseo espacial privado, quiere fabricar millones para emigrar a Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/robo-oscar-oppenheimer-ahora-puedes-ver-amazon-prime-video-comedia-inteligente-ultimos-anos-1403451'>Le robó el Óscar a Oppenheimer, y ahora la puedes ver en Amazon Prime Video: así es la comedia más inteligente de los últimos años</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/robo-oscar-oppenheimer-ahora-puedes-ver-amazon-prime-video-comedia-inteligente-ultimos-anos-1403451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/american-fiction-2023-3563175.jpg?tf=1200x' alt='Le robó el Óscar a Oppenheimer, y ahora la puedes ver en Amazon Prime Video: así es la comedia más inteligente de los últimos años' />
     </a>
 </div>
 
