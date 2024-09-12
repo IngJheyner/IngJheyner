@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/verse-nueva-red-social-ia-generacion-z-no-gusta-tiktok-1404652'>Verse, la nueva red social con IA para la Generación Z que no le gusta TikTok</a></h4>
+    <a href='https://computerhoy.com/redes/verse-nueva-red-social-ia-generacion-z-no-gusta-tiktok-1404652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verse-nueva-ia-generativa-generacion-z-no-gusta-tiktok-4152227.jpg?tf=1200x' alt='Verse, la nueva red social con IA para la Generación Z que no le gusta TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/martin-scorsese-arrepiente-haber-hecho-pelicula-dicaprio-ultimo-trabajo-estudio-dirigi-1404358'>Martin Scorsese se arrepiente de haber hecho esta película con DiCaprio: "El último trabajo de estudio que dirigí".</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/martin-scorsese-arrepiente-haber-hecho-pelicula-dicaprio-ultimo-trabajo-estudio-dirigi-1404358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/shutter-island-2342065.jpg?tf=1200x' alt='Martin Scorsese se arrepiente de haber hecho esta película con DiCaprio: "El último trabajo de estudio que dirigí".' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/tienes-amazon-fire-tv-estas-tardando-instalar-app-gratis-movil-1209248'>Si tienes un Amazon Fire TV, estás tardando en instalar esta app gratis en tu móvil</a></h4>
+    <a href='https://computerhoy.com/tv/tienes-amazon-fire-tv-estas-tardando-instalar-app-gratis-movil-1209248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-amazon-fire-tv-cube-2022-2925922.jpg?tf=1200x' alt='Si tienes un Amazon Fire TV, estás tardando en instalar esta app gratis en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-xiaomi-superventas-chollo-200-euros-1317024'>Uno de los Xiaomi que arrasan en ventas es más chollo que nunca: tiene 5G y supera por poco los 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-xiaomi-superventas-chollo-200-euros-1317024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-note-13-pro-5g-3283385.jpg?tf=1200x' alt='Uno de los Xiaomi que arrasan en ventas es más chollo que nunca: tiene 5G y supera por poco los 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/descubre-algunas-personas-siempre-llegan-tarde-como-mejorar-puntualidad-expertos-1404489'>Descubre por qué algunas personas siempre llegan tarde y cómo mejorar la puntualidad según los expertos</a></h4>
     <a href='https://computerhoy.com/ciencia/descubre-algunas-personas-siempre-llegan-tarde-como-mejorar-puntualidad-expertos-1404489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/llegar-tarde-4148290.jpg?tf=1200x' alt='Descubre por qué algunas personas siempre llegan tarde y cómo mejorar la puntualidad según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/boton-peligroso-whatsapp-estafadores-usan-vaciarte-cuenta-1404645'>Este es el botón más peligroso de WhatsApp: los estafadores lo usan para vaciarte la cuenta</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/boton-peligroso-whatsapp-estafadores-usan-vaciarte-cuenta-1404645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/boton-peligroso-whatsapp-estafadores-usan-vaciarte-cuenta-4152549.jpg?tf=1200x' alt='Este es el botón más peligroso de WhatsApp: los estafadores lo usan para vaciarte la cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-evitar-borrar-cuentas-gmail-inactivas-1404649'>Google ha comenzado a borrar millones de cuentas de Gmail: así puedes evitar que borre la tuya</a></h4>
-    <a href='https://computerhoy.com/google/google-evitar-borrar-cuentas-gmail-inactivas-1404649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-ha-comenzado-borrar-millones-cuentas-gmail-puedes-evitar-borre-4151794.jpg?tf=1200x' alt='Google ha comenzado a borrar millones de cuentas de Gmail: así puedes evitar que borre la tuya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/desactive-casualidad-funcion-mi-movil-android-ahora-vuela-parece-acabo-comprar-1404630'>Desactivé por casualidad esta función de mi móvil Android y ahora vuela, parece que lo acabo de comprar</a></h4>
-    <a href='https://computerhoy.com/android/desactive-casualidad-funcion-mi-movil-android-ahora-vuela-parece-acabo-comprar-1404630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/desactive-casualidad-funcion-mi-movil-android-ahora-vuela-parece-acabo-comprar-4151793.jpg?tf=1200x' alt='Desactivé por casualidad esta función de mi móvil Android y ahora vuela, parece que lo acabo de comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/spacex-traje-eva-astronauta-como-se-fabrica-video-1404644'>Así ha creado SpaceX el traje del primer paseo espacial privado, quiere fabricar millones para emigrar a Marte</a></h4>
-    <a href='https://computerhoy.com/espacio/spacex-traje-eva-astronauta-como-se-fabrica-video-1404644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ha-creado-spacex-traje-primer-paseo-espacial-privado-quiere-fabricar-millones-emigrar-marte-4151052.jpg?tf=1200x' alt='Así ha creado SpaceX el traje del primer paseo espacial privado, quiere fabricar millones para emigrar a Marte' />
     </a>
 </div>
 
