@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ya-puedes-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-1404574'>Ya puedes ver en Max la película que cambió la ciencia ficción para siempre: creó un género propio</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ya-puedes-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-1404574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-puedes-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-4149410.jpg?tf=1200x' alt='Ya puedes ver en Max la película que cambió la ciencia ficción para siempre: creó un género propio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/conexion-tv-habitaciones-velocidad-internet-coaxial-1395277'>Si tienes esta conexión de TV en tus habitaciones, estás de suerte: puedes hacer que tu conexión a internet vuele</a></h4>
+    <a href='https://computerhoy.com/redes/conexion-tv-habitaciones-velocidad-internet-coaxial-1395277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tienes-cable-tv-habitaciones-acabas-encontrar-oro-podras-hacer-conexion-internet-vuele-3708809.jpg?tf=1200x' alt='Si tienes esta conexión de TV en tus habitaciones, estás de suerte: puedes hacer que tu conexión a internet vuele' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/clasico-spielberg-secuela-pixar-estas-son-peliculas-perfectas-jamas-filmadas-tarantino-1404608'>Desde un clásico de Spielberg a una secuela de Pixar: estas son las películas más perfectas jamás filmadas, según Tarantino</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/clasico-spielberg-secuela-pixar-estas-son-peliculas-perfectas-jamas-filmadas-tarantino-1404608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/quentin-tarantino-3304015.jpg?tf=1200x' alt='Desde un clásico de Spielberg a una secuela de Pixar: estas son las películas más perfectas jamás filmadas, según Tarantino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/oficial-google-maps-quiere-eliminar-mapa-waze-1404793'>Es oficial: Google Maps quiere eliminar del mapa a Waze</a></h4>
     <a href='https://computerhoy.com/google/oficial-google-maps-quiere-eliminar-mapa-waze-1404793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/oficial-google-maps-quiere-eliminar-mapa-waze-4157722.jpg?tf=1200x' alt='Es oficial: Google Maps quiere eliminar del mapa a Waze' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/brutal-pc-gaming-apenas-600-euros-chollo-pccomponentes-te-pone-bandeja-i5-rtx-3050-1404327'>Brutal PC Gaming por apenas 600 euros: este chollo de PcComponentes te pone en bandeja un i5 con RTX 3050</a></h4>
     <a href='https://computerhoy.com/tecnologia/brutal-pc-gaming-apenas-600-euros-chollo-pccomponentes-te-pone-bandeja-i5-rtx-3050-1404327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pccom-lite-4141871.jpg?tf=1200x' alt='Brutal PC Gaming por apenas 600 euros: este chollo de PcComponentes te pone en bandeja un i5 con RTX 3050' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/adios-listas-iptv-app-veo-cientos-canales-tv-gratis-registro-ni-configurar-nada-1404651'>Adiós a las listas IPTV: con esta app veo cientos de canales de TV gratis sin registro ni configurar nada</a></h4>
-    <a href='https://computerhoy.com/apps/adios-listas-iptv-app-veo-cientos-canales-tv-gratis-registro-ni-configurar-nada-1404651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ver-tv-movil-4156581.jpg?tf=1200x' alt='Adiós a las listas IPTV: con esta app veo cientos de canales de TV gratis sin registro ni configurar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-ha-intentado-desviar-asteroide-pero-ahora-restos-dirigen-tierra-1404723'>La NASA ha intentado desviar un asteroide, pero ahora los restos se dirigen hacia la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-ha-intentado-desviar-asteroide-pero-ahora-restos-dirigen-tierra-1404723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nasa-ha-intentado-desviar-asteroide-pero-ahora-restos-dirigen-tierra-4155469.jpg?tf=1200x' alt='La NASA ha intentado desviar un asteroide, pero ahora los restos se dirigen hacia la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-son-paises-cerveza-consumen-mundo-espana-ellos-1404018'>Estos son los países que más cerveza consumen en el mundo (y sí, España está entre ellos)</a></h4>
-    <a href='https://computerhoy.com/life/estos-son-paises-cerveza-consumen-mundo-espana-ellos-1404018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/beber-cerveza-espana-4156450.jpg?tf=1200x' alt='Estos son los países que más cerveza consumen en el mundo (y sí, España está entre ellos)' />
     </a>
 </div>
 
