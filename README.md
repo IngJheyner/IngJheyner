@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/tom-hanks-nunca-olvidara-unica-pelicula-rodo-clint-eastwood-intimidante-como-infierno-1404524'>Tom Hanks nunca olvidará la única película que rodó con Clint Eastwood: “Es intimidante como el infierno”</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/tom-hanks-nunca-olvidara-unica-pelicula-rodo-clint-eastwood-intimidante-como-infierno-1404524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/tom-hanks-3087190.jpg?tf=1200x' alt='Tom Hanks nunca olvidará la única película que rodó con Clint Eastwood: “Es intimidante como el infierno”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-herramienta-abrir-cerraduras-1395048'>Los cerrajeros hacen saltar las alarmas: esta diminuta herramienta abre el 80% de las cerraduras en segundos</a></h4>
+    <a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-herramienta-abrir-cerraduras-1395048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cerrajeros-dan-voz-alarma-herramienta-abre-80-cerraduras-segundos-3699758.jpg?tf=1200x' alt='Los cerrajeros hacen saltar las alarmas: esta diminuta herramienta abre el 80% de las cerraduras en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/ya-puedes-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-1404574'>Ya puedes ver en Max la película que cambió la ciencia ficción para siempre: creó un género propio</a></h4>
     <a href='https://computerhoy.com/entretenimiento/ya-puedes-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-1404574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-puedes-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-4149410.jpg?tf=1200x' alt='Ya puedes ver en Max la película que cambió la ciencia ficción para siempre: creó un género propio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/clasico-spielberg-secuela-pixar-estas-son-peliculas-perfectas-jamas-filmadas-tarantino-1404608'>Desde un clásico de Spielberg a una secuela de Pixar: estas son las películas más perfectas jamás filmadas, según Tarantino</a></h4>
     <a href='https://computerhoy.com/entretenimiento/clasico-spielberg-secuela-pixar-estas-son-peliculas-perfectas-jamas-filmadas-tarantino-1404608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/quentin-tarantino-3304015.jpg?tf=1200x' alt='Desde un clásico de Spielberg a una secuela de Pixar: estas son las películas más perfectas jamás filmadas, según Tarantino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/oficial-google-maps-quiere-eliminar-mapa-waze-1404793'>Es oficial: Google Maps quiere eliminar del mapa a Waze</a></h4>
-    <a href='https://computerhoy.com/google/oficial-google-maps-quiere-eliminar-mapa-waze-1404793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/oficial-google-maps-quiere-eliminar-mapa-waze-4157722.jpg?tf=1200x' alt='Es oficial: Google Maps quiere eliminar del mapa a Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/brutal-pc-gaming-apenas-600-euros-chollo-pccomponentes-te-pone-bandeja-i5-rtx-3050-1404327'>Brutal PC Gaming por apenas 600 euros: este chollo de PcComponentes te pone en bandeja un i5 con RTX 3050</a></h4>
-    <a href='https://computerhoy.com/tecnologia/brutal-pc-gaming-apenas-600-euros-chollo-pccomponentes-te-pone-bandeja-i5-rtx-3050-1404327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pccom-lite-4141871.jpg?tf=1200x' alt='Brutal PC Gaming por apenas 600 euros: este chollo de PcComponentes te pone en bandeja un i5 con RTX 3050' />
     </a>
 </div>
 
