@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-ha-intentado-desviar-asteroide-pero-ahora-restos-dirigen-tierra-1404723'>La NASA ha intentado desviar un asteroide, pero ahora los restos se dirigen hacia la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-ha-intentado-desviar-asteroide-pero-ahora-restos-dirigen-tierra-1404723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nasa-ha-intentado-desviar-asteroide-pero-ahora-restos-dirigen-tierra-4155469.jpg?tf=1200x' alt='La NASA ha intentado desviar un asteroide, pero ahora los restos se dirigen hacia la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estos-son-paises-cerveza-consumen-mundo-espana-ellos-1404018'>Estos son los países que más cerveza consumen en el mundo (y sí, España está entre ellos)</a></h4>
+    <a href='https://computerhoy.com/life/estos-son-paises-cerveza-consumen-mundo-espana-ellos-1404018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/beber-cerveza-espana-4156450.jpg?tf=1200x' alt='Estos son los países que más cerveza consumen en el mundo (y sí, España está entre ellos)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/formas-creativas-utiles-utilizar-airtag-apple-1404745'>Las formas más creativas (y útiles) de utilizar los AirTag de Apple</a></h4>
     <a href='https://computerhoy.com/apple/formas-creativas-utiles-utilizar-airtag-apple-1404745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/airtag-permite-desmantelar-red-ladrones-encontrar-objetos-robados-80-victimas-3436808.jpg?tf=1200x' alt='Las formas más creativas (y útiles) de utilizar los AirTag de Apple' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/microsoft-va-todo-apple-surface-pro-potente-rebajada-casi-mitad-precio-1404673'>Microsoft va con todo a por Apple: su Surface Pro más potente está rebajada casi a mitad de precio</a></h4>
     <a href='https://computerhoy.com/pc/microsoft-va-todo-apple-surface-pro-potente-rebajada-casi-mitad-precio-1404673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-surface-pro-9-2929732.jpg?tf=1200x' alt='Microsoft va con todo a por Apple: su Surface Pro más potente está rebajada casi a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/significado-senal-velocidad-trafico-borde-verde-1399955'>¿Qué significa la nueva señal de velocidad con el borde verde? </a></h4>
-    <a href='https://computerhoy.com/motor/significado-senal-velocidad-trafico-borde-verde-1399955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/senal-velocidad-color-verde-4154853.jpg?tf=1200x' alt='¿Qué significa la nueva señal de velocidad con el borde verde? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funcion-oculta-boton-whatsapp-marcar-leido-1401930'>Si dejas pulsado este botón de WhatsApp unos segundos te recompensará con una nueva función</a></h4>
-    <a href='https://computerhoy.com/apps/funcion-oculta-boton-whatsapp-marcar-leido-1401930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/presiona-segundos-boton-whatsapp-descubriras-nueva-funcion-oculta-4039286.jpg?tf=1200x' alt='Si dejas pulsado este botón de WhatsApp unos segundos te recompensará con una nueva función' />
     </a>
 </div>
 
