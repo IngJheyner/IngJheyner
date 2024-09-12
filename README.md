@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/funciona-private-cloud-compute-nube-apple-donde-magia-iphone-ia-sucede-1404682'>Así funciona Private Cloud Compute, la nube de Apple donde la magia de tu iPhone con IA sucede</a></h4>
+    <a href='https://computerhoy.com/apple/funciona-private-cloud-compute-nube-apple-donde-magia-iphone-ia-sucede-1404682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-intelligence-4136513.jpg?tf=1200x' alt='Así funciona Private Cloud Compute, la nube de Apple donde la magia de tu iPhone con IA sucede' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/retiran-freidoras-aire-mercado-modelos-afectados-1398176'>Retirada masiva de freidoras de aire del mercado: estos son los modelos afectados</a></h4>
+    <a href='https://computerhoy.com/hogar/retiran-freidoras-aire-mercado-modelos-afectados-1398176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fin-boom-freidoras-aire-3847039.jpg?tf=1200x' alt='Retirada masiva de freidoras de aire del mercado: estos son los modelos afectados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-punto-mira-ue-como-ha-usado-datos-modelos-ia-1404678'>Google en el punto de mira de la UE por cómo usa tus datos para sus modelos de IA</a></h4>
+    <a href='https://computerhoy.com/google/google-punto-mira-ue-como-ha-usado-datos-modelos-ia-1404678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/bandera-union-europea.jpg?tf=1200x' alt='Google en el punto de mira de la UE por cómo usa tus datos para sus modelos de IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-borrar-cookies-movil-vez-todas-ios-android-1403490'>Cómo borrar las cookies en tu móvil de una vez por todas (iOS/Android)</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-borrar-cookies-movil-vez-todas-ios-android-1403490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/eliminar-todas-cookies-movil-4107636.jpg?tf=1200x' alt='Cómo borrar las cookies en tu móvil de una vez por todas (iOS/Android)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/tablet-consola-potente-lenovo-legion-1402503'>¿Tablet o consola? Esta Lenovo Legion es potentísima y te gustará si te gusta jugar</a></h4>
     <a href='https://computerhoy.com/android/tablet-consola-potente-lenovo-legion-1402503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lenovo-y700-4057611.jpg?tf=1200x' alt='¿Tablet o consola? Esta Lenovo Legion es potentísima y te gustará si te gusta jugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lexar-tarjeta-sd-acero-inoxidable-resistente-golpes-caidas-1404664'>Lexar presenta la primera tarjeta SD de acero inoxidable, resistente a golpes y caídas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lexar-tarjeta-sd-acero-inoxidable-resistente-golpes-caidas-1404664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lexar-presenta-primera-tarjeta-micro-sd-acero-inoxidable-resistente-golpes-caidas-4153953.jpg?tf=1200x' alt='Lexar presenta la primera tarjeta SD de acero inoxidable, resistente a golpes y caídas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/trenzado-fino-no-me-habla-apple-dice-adios-productos-polemicos-iphone-16-1404232'>¿Trenzado fino? No sé de qué me habla: Apple dice adiós a uno de sus productos más polémicos en los iPhone 16</a></h4>
-    <a href='https://computerhoy.com/apple/trenzado-fino-no-me-habla-apple-dice-adios-productos-polemicos-iphone-16-1404232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funda-trenzado-fino-apple-iphone-15-pro-max-3150430.jpg?tf=1200x' alt='¿Trenzado fino? No sé de qué me habla: Apple dice adiós a uno de sus productos más polémicos en los iPhone 16' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-enviar-correos-electronicos-directamente-excel-power-automate-1402837'>Cómo enviar correos electrónicos directamente desde Excel con Power Automate</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-enviar-correos-electronicos-directamente-excel-power-automate-1402837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/enviar-correos-excel-microsoft-power-automate-4080199.jpg?tf=1200x' alt='Cómo enviar correos electrónicos directamente desde Excel con Power Automate' />
     </a>
 </div>
 
