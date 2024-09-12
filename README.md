@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/uso-tercer-cajon-lavadora-1277056'>Muy pocos conocen para qué sirve el tercer cajetín de la lavadora, y no saben lo que se están perdiendo</a></h4>
-    <a href='https://computerhoy.com/life/uso-tercer-cajon-lavadora-1277056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/redes-impactadas-descubrir-como-utiliza-correctamente-cajetin-lavadora-3086448.jpg?tf=1200x' alt='Muy pocos conocen para qué sirve el tercer cajetín de la lavadora, y no saben lo que se están perdiendo' />
+    <h4><a href='https://computerhoy.com/pc/microsoft-va-todo-apple-surface-pro-potente-rebajada-casi-mitad-precio-1404673'>Microsoft va con todo a por Apple: su Surface Pro más potente está rebajada casi a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/pc/microsoft-va-todo-apple-surface-pro-potente-rebajada-casi-mitad-precio-1404673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-surface-pro-9-2929732.jpg?tf=1200x' alt='Microsoft va con todo a por Apple: su Surface Pro más potente está rebajada casi a mitad de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/efecto-domino-apple-iphone-15-hunde-precio-roza-600-euros-aliexpress-1404666'>Efecto dominó en Apple: el iPhone 15 hunde su precio y roza los 600 euros en AliExpress</a></h4>
-    <a href='https://computerhoy.com/apple/efecto-domino-apple-iphone-15-hunde-precio-roza-600-euros-aliexpress-1404666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Efecto dominó en Apple: el iPhone 15 hunde su precio y roza los 600 euros en AliExpress' />
+    <h4><a href='https://computerhoy.com/motor/significado-senal-velocidad-trafico-borde-verde-1399955'>¿Qué significa la nueva señal de velocidad con el borde verde? </a></h4>
+    <a href='https://computerhoy.com/motor/significado-senal-velocidad-trafico-borde-verde-1399955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/senal-velocidad-color-verde-4154853.jpg?tf=1200x' alt='¿Qué significa la nueva señal de velocidad con el borde verde? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/significa-tener-movil-siempre-silencio-psicologia-1404707'>Qué significa tener el móvil siempre en silencio, según la psicología</a></h4>
-    <a href='https://computerhoy.com/moviles/significa-tener-movil-siempre-silencio-psicologia-1404707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/modo-silencio-movil-4155305.jpg?tf=1200x' alt='Qué significa tener el móvil siempre en silencio, según la psicología' />
+    <h4><a href='https://computerhoy.com/apps/funcion-oculta-boton-whatsapp-marcar-leido-1401930'>Si dejas pulsado este botón de WhatsApp unos segundos te recompensará con una nueva función</a></h4>
+    <a href='https://computerhoy.com/apps/funcion-oculta-boton-whatsapp-marcar-leido-1401930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/presiona-segundos-boton-whatsapp-descubriras-nueva-funcion-oculta-4039286.jpg?tf=1200x' alt='Si dejas pulsado este botón de WhatsApp unos segundos te recompensará con una nueva función' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/npu-desglosando-hardware-impulsa-pcs-copilot-1393088'>¿Qué es una NPU? Desglosando el hardware que impulsa las PCs con Copilot+</a></h4>
-    <a href='https://computerhoy.com/tecnologia/npu-desglosando-hardware-impulsa-pcs-copilot-1393088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/inteligencia%20artificial.jpg?tf=1200x' alt='¿Qué es una NPU? Desglosando el hardware que impulsa las PCs con Copilot+' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-arreglar-gmail-cuando-no-funciona-7-formas-ponerle-solucion-1392044'>Cómo arreglar Gmail cuando no funciona: las 7 formas de ponerle solución</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-arreglar-gmail-cuando-no-funciona-7-formas-ponerle-solucion-1392044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/gmail-3564451.jpg?tf=1200x' alt='Cómo arreglar Gmail cuando no funciona: las 7 formas de ponerle solución' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-deja-vender-estos-tres-modelos-iphone-1404684'>Apple deja de vender estos tres modelos de iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/apple-deja-vender-estos-tres-modelos-iphone-1404684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Apple deja de vender estos tres modelos de iPhone' />
+    <h4><a href='https://computerhoy.com/tv/nueva-oferta-disney-rebaja-precio-199eu-mes-1404738'>Nueva oferta de Disney+, que rebaja su precio a 1,99€ al mes</a></h4>
+    <a href='https://computerhoy.com/tv/nueva-oferta-disney-rebaja-precio-199eu-mes-1404738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disney-2807389.jpg?tf=1200x' alt='Nueva oferta de Disney+, que rebaja su precio a 1,99€ al mes' />
     </a>
 </div>
 
