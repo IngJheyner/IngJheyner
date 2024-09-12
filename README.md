@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/formas-creativas-utiles-utilizar-airtag-apple-1404745'>Las formas más creativas (y útiles) de utilizar los AirTag de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/formas-creativas-utiles-utilizar-airtag-apple-1404745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/airtag-permite-desmantelar-red-ladrones-encontrar-objetos-robados-80-victimas-3436808.jpg?tf=1200x' alt='Las formas más creativas (y útiles) de utilizar los AirTag de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-apk-arma-definitiva-instalas-aplicacion-play-store-nada-1404699'>Google contra los APK con esta arma definitiva, o instalas la aplicación desde la Play Store o nada</a></h4>
+    <a href='https://computerhoy.com/android/google-apk-arma-definitiva-instalas-aplicacion-play-store-nada-1404699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apk-3891693.jpg?tf=1200x' alt='Google contra los APK con esta arma definitiva, o instalas la aplicación desde la Play Store o nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/microsoft-va-todo-apple-surface-pro-potente-rebajada-casi-mitad-precio-1404673'>Microsoft va con todo a por Apple: su Surface Pro más potente está rebajada casi a mitad de precio</a></h4>
     <a href='https://computerhoy.com/pc/microsoft-va-todo-apple-surface-pro-potente-rebajada-casi-mitad-precio-1404673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/microsoft-surface-pro-9-2929732.jpg?tf=1200x' alt='Microsoft va con todo a por Apple: su Surface Pro más potente está rebajada casi a mitad de precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/funcion-oculta-boton-whatsapp-marcar-leido-1401930'>Si dejas pulsado este botón de WhatsApp unos segundos te recompensará con una nueva función</a></h4>
     <a href='https://computerhoy.com/apps/funcion-oculta-boton-whatsapp-marcar-leido-1401930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/presiona-segundos-boton-whatsapp-descubriras-nueva-funcion-oculta-4039286.jpg?tf=1200x' alt='Si dejas pulsado este botón de WhatsApp unos segundos te recompensará con una nueva función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-arreglar-gmail-cuando-no-funciona-7-formas-ponerle-solucion-1392044'>Cómo arreglar Gmail cuando no funciona: las 7 formas de ponerle solución</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-arreglar-gmail-cuando-no-funciona-7-formas-ponerle-solucion-1392044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/gmail-3564451.jpg?tf=1200x' alt='Cómo arreglar Gmail cuando no funciona: las 7 formas de ponerle solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/nueva-oferta-disney-rebaja-precio-199eu-mes-1404738'>Nueva oferta de Disney+, que rebaja su precio a 1,99€ al mes</a></h4>
-    <a href='https://computerhoy.com/tv/nueva-oferta-disney-rebaja-precio-199eu-mes-1404738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/disney-2807389.jpg?tf=1200x' alt='Nueva oferta de Disney+, que rebaja su precio a 1,99€ al mes' />
     </a>
 </div>
 
