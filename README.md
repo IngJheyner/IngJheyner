@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ryanair-emite-advertencia-pasajeros-utilicen-maletas-negras-azul-marino-grises-1404826'>Ryanair emite una advertencia a los pasajeros que utilicen maletas negras, azul marino o grises</a></h4>
+    <a href='https://computerhoy.com/life/ryanair-emite-advertencia-pasajeros-utilicen-maletas-negras-azul-marino-grises-1404826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ryanair-emite-advertencia-pasajeros-utilicen-maletas-negras-azul-marino-grises-4159510.jpg?tf=1200x' alt='Ryanair emite una advertencia a los pasajeros que utilicen maletas negras, azul marino o grises' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/primer-paseo-espacial-privado-historia-exito-1404830'>El primer paseo espacial privado de la historia es un éxito </a></h4>
     <a href='https://computerhoy.com/espacio/primer-paseo-espacial-privado-historia-exito-1404830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/primer-paseo-espacial-privado-historia-exito-4158489.jpg?tf=1200x' alt='El primer paseo espacial privado de la historia es un éxito ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/ahora-arrasa-rebel-ridge-netflix-pero-antes-director-conquisto-cinefilos-joya-indie-1404744'>Ahora arrasa con Rebel Ridge en Netflix, pero antes su director conquistó a los cinéfilos con esta joya indie</a></h4>
     <a href='https://computerhoy.com/entretenimiento/ahora-arrasa-rebel-ridge-netflix-pero-antes-director-conquisto-cinefilos-joya-indie-1404744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ahora-arrasa-rebel-ridge-netflix-pero-antes-director-conquisto-cinefilos-joya-indie-4156098.jpg?tf=1200x' alt='Ahora arrasa con Rebel Ridge en Netflix, pero antes su director conquistó a los cinéfilos con esta joya indie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/proyecto-strawberry-openai-tipo-ia-igualara-nivel-intelectual-ser-humano-1404040'>Qué es el proyecto Strawberry de OpenAI, el tipo de IA que igualará el nivel intelectual del ser humano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/proyecto-strawberry-openai-tipo-ia-igualara-nivel-intelectual-ser-humano-1404040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/proyecto-strawberry-openai-4134862.jpg?tf=1200x' alt='Qué es el proyecto Strawberry de OpenAI, el tipo de IA que igualará el nivel intelectual del ser humano' />
     </a>
 </div>
 
