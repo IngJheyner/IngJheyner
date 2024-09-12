@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/efecto-domino-apple-iphone-15-hunde-precio-roza-600-euros-aliexpress-1404666'>Efecto dominó en Apple: el iPhone 15 hunde su precio y roza los 600 euros en AliExpress</a></h4>
+    <a href='https://computerhoy.com/apple/efecto-domino-apple-iphone-15-hunde-precio-roza-600-euros-aliexpress-1404666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Efecto dominó en Apple: el iPhone 15 hunde su precio y roza los 600 euros en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/significa-tener-movil-siempre-silencio-psicologia-1404707'>Qué significa tener el móvil siempre en silencio, según la psicología</a></h4>
+    <a href='https://computerhoy.com/moviles/significa-tener-movil-siempre-silencio-psicologia-1404707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/modo-silencio-movil-4155305.jpg?tf=1200x' alt='Qué significa tener el móvil siempre en silencio, según la psicología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/npu-desglosando-hardware-impulsa-pcs-copilot-1393088'>¿Qué es una NPU? Desglosando el hardware que impulsa las PCs con Copilot+</a></h4>
+    <a href='https://computerhoy.com/tecnologia/npu-desglosando-hardware-impulsa-pcs-copilot-1393088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/inteligencia%20artificial.jpg?tf=1200x' alt='¿Qué es una NPU? Desglosando el hardware que impulsa las PCs con Copilot+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-deja-vender-estos-tres-modelos-iphone-1404684'>Apple deja de vender estos tres modelos de iPhone</a></h4>
     <a href='https://computerhoy.com/apple/apple-deja-vender-estos-tres-modelos-iphone-1404684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Apple deja de vender estos tres modelos de iPhone' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/google-podria-cambiar-iconos-notificaciones-android-siempre-1404688'>Google podría cambiar los iconos de las notificaciones de Android para siempre</a></h4>
     <a href='https://computerhoy.com/android/google-podria-cambiar-iconos-notificaciones-android-siempre-1404688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-podria-cambiar-iconos-notificaciones-android-siempre-4154851.jpg?tf=1200x' alt='Google podría cambiar los iconos de las notificaciones de Android para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llegada-fenix-8-modelo-anterior-desploma-precio-nunca-130-euros-barato-1404225'>Ante la llegada del Fenix 8, el modelo anterior desploma su precio más que nunca y es 130 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llegada-fenix-8-modelo-anterior-desploma-precio-nunca-130-euros-barato-1404225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-fenix-7s-3189996.jpg?tf=1200x' alt='Ante la llegada del Fenix 8, el modelo anterior desploma su precio más que nunca y es 130 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/funciona-private-cloud-compute-nube-apple-donde-magia-iphone-ia-sucede-1404682'>Así funciona Private Cloud Compute, la nube de Apple donde la magia de tu iPhone con IA sucede</a></h4>
-    <a href='https://computerhoy.com/apple/funciona-private-cloud-compute-nube-apple-donde-magia-iphone-ia-sucede-1404682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-intelligence-4136513.jpg?tf=1200x' alt='Así funciona Private Cloud Compute, la nube de Apple donde la magia de tu iPhone con IA sucede' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/retiran-freidoras-aire-mercado-modelos-afectados-1398176'>Retirada masiva de freidoras de aire del mercado: estos son los modelos afectados</a></h4>
-    <a href='https://computerhoy.com/hogar/retiran-freidoras-aire-mercado-modelos-afectados-1398176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fin-boom-freidoras-aire-3847039.jpg?tf=1200x' alt='Retirada masiva de freidoras de aire del mercado: estos son los modelos afectados' />
     </a>
 </div>
 
