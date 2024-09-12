@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/boton-peligroso-whatsapp-estafadores-usan-vaciarte-cuenta-1404645'>Este es el botón más peligroso de WhatsApp: los estafadores lo usan para vaciarte la cuenta</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/boton-peligroso-whatsapp-estafadores-usan-vaciarte-cuenta-1404645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/boton-peligroso-whatsapp-estafadores-usan-vaciarte-cuenta-4152549.jpg?tf=1200x' alt='Este es el botón más peligroso de WhatsApp: los estafadores lo usan para vaciarte la cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-evitar-borrar-cuentas-gmail-inactivas-1404649'>Google ha comenzado a borrar millones de cuentas de Gmail: así puedes evitar que borre la tuya</a></h4>
     <a href='https://computerhoy.com/google/google-evitar-borrar-cuentas-gmail-inactivas-1404649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-ha-comenzado-borrar-millones-cuentas-gmail-puedes-evitar-borre-4151794.jpg?tf=1200x' alt='Google ha comenzado a borrar millones de cuentas de Gmail: así puedes evitar que borre la tuya' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/robo-oscar-oppenheimer-ahora-puedes-ver-amazon-prime-video-comedia-inteligente-ultimos-anos-1403451'>Le robó el Óscar a Oppenheimer, y ahora la puedes ver en Amazon Prime Video: así es la comedia más inteligente de los últimos años</a></h4>
     <a href='https://computerhoy.com/entretenimiento/robo-oscar-oppenheimer-ahora-puedes-ver-amazon-prime-video-comedia-inteligente-ultimos-anos-1403451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/american-fiction-2023-3563175.jpg?tf=1200x' alt='Le robó el Óscar a Oppenheimer, y ahora la puedes ver en Amazon Prime Video: así es la comedia más inteligente de los últimos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reddit-como-funciona-historia-acuerdo-google-openai-1401557'>Qué es Reddit: cómo funciona, historia y el acuerdo con Google y OpenAI</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reddit-como-funciona-historia-acuerdo-google-openai-1401557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/reddit-2213439.jpg?tf=1200x' alt='Qué es Reddit: cómo funciona, historia y el acuerdo con Google y OpenAI' />
     </a>
 </div>
 
