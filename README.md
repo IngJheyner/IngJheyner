@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/primer-paseo-espacial-privado-historia-exito-1404830'>El primer paseo espacial privado de la historia es un éxito </a></h4>
+    <a href='https://computerhoy.com/espacio/primer-paseo-espacial-privado-historia-exito-1404830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/primer-paseo-espacial-privado-historia-exito-4158489.jpg?tf=1200x' alt='El primer paseo espacial privado de la historia es un éxito ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ia-segunda-generacion-ya-aqui-openai-presenta-o1-ia-razona-1404829'>La IA de segunda generación ya está aquí: OpenAI presenta o1, la IA que razona</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-segunda-generacion-ya-aqui-openai-presenta-o1-ia-razona-1404829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ia-segunda-generacion-ya-aqui-openai-presenta-o1-ia-razona-4158929.jpg?tf=1200x' alt='La IA de segunda generación ya está aquí: OpenAI presenta o1, la IA que razona' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/proyecto-strawberry-openai-tipo-ia-igualara-nivel-intelectual-ser-humano-1404040'>Qué es el proyecto Strawberry de OpenAI, el tipo de IA que igualará el nivel intelectual del ser humano</a></h4>
     <a href='https://computerhoy.com/tecnologia/proyecto-strawberry-openai-tipo-ia-igualara-nivel-intelectual-ser-humano-1404040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/proyecto-strawberry-openai-4134862.jpg?tf=1200x' alt='Qué es el proyecto Strawberry de OpenAI, el tipo de IA que igualará el nivel intelectual del ser humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/revolut-ya-compatible-bizum-puedes-vincular-movil-cuenta-1404824'>Revolut ya es compatible con Bizum: así puedes vincular tu móvil con tu cuenta</a></h4>
-    <a href='https://computerhoy.com/apps/revolut-ya-compatible-bizum-puedes-vincular-movil-cuenta-1404824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/revolut-4158636.jpg?tf=1200x' alt='Revolut ya es compatible con Bizum: así puedes vincular tu móvil con tu cuenta' />
     </a>
 </div>
 
