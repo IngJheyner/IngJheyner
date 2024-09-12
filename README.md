@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/uso-tercer-cajon-lavadora-1277056'>Muy pocos conocen para qué sirve el tercer cajetín de la lavadora, y no saben lo que se están perdiendo</a></h4>
+    <a href='https://computerhoy.com/life/uso-tercer-cajon-lavadora-1277056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/redes-impactadas-descubrir-como-utiliza-correctamente-cajetin-lavadora-3086448.jpg?tf=1200x' alt='Muy pocos conocen para qué sirve el tercer cajetín de la lavadora, y no saben lo que se están perdiendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/efecto-domino-apple-iphone-15-hunde-precio-roza-600-euros-aliexpress-1404666'>Efecto dominó en Apple: el iPhone 15 hunde su precio y roza los 600 euros en AliExpress</a></h4>
     <a href='https://computerhoy.com/apple/efecto-domino-apple-iphone-15-hunde-precio-roza-600-euros-aliexpress-1404666' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Efecto dominó en Apple: el iPhone 15 hunde su precio y roza los 600 euros en AliExpress' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-deja-vender-estos-tres-modelos-iphone-1404684'>Apple deja de vender estos tres modelos de iPhone</a></h4>
     <a href='https://computerhoy.com/apple/apple-deja-vender-estos-tres-modelos-iphone-1404684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Apple deja de vender estos tres modelos de iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-podria-cambiar-iconos-notificaciones-android-siempre-1404688'>Google podría cambiar los iconos de las notificaciones de Android para siempre</a></h4>
-    <a href='https://computerhoy.com/android/google-podria-cambiar-iconos-notificaciones-android-siempre-1404688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-podria-cambiar-iconos-notificaciones-android-siempre-4154851.jpg?tf=1200x' alt='Google podría cambiar los iconos de las notificaciones de Android para siempre' />
     </a>
 </div>
 
