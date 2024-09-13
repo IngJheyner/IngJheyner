@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/pagan-rescate-ransomware-pero-clave-no-funciona-bug-1405023'>Pagan el rescate de un ransomware, pero la clave no funciona por un bug</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/pagan-rescate-ransomware-pero-clave-no-funciona-bug-1405023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pagan-rescate-ransomware-pero-clave-no-funciona-bug-malware-4166218.jpg?tf=1200x' alt='Pagan el rescate de un ransomware, pero la clave no funciona por un bug' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/tiendas-terceros-llegan-ipad-solo-ue-1405020'>Las tiendas de terceros llegan al iPad, solo en la UE</a></h4>
     <a href='https://computerhoy.com/apple/tiendas-terceros-llegan-ipad-solo-ue-1405020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipad-air-m2-13-pulgadas-3502066.jpg?tf=1200x' alt='Las tiendas de terceros llegan al iPad, solo en la UE' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/zoom-plataforma-videollamadas-conecto-mundo-1402064'>Zoom, así es la plataforma de videollamadas que conectó al mundo durante la COVID-19</a></h4>
     <a href='https://computerhoy.com/pc/zoom-plataforma-videollamadas-conecto-mundo-1402064' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/zoom-videollamadas-4043528.jpg?tf=1200x' alt='Zoom, así es la plataforma de videollamadas que conectó al mundo durante la COVID-19' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/primera-funcion-ios18-deberias-activar-te-roban-iphone-no-valdra-nada-1405016'>Esta es la primera función de iOS18 que deberías activar: si te roban el iPhone no valdrá nada</a></h4>
-    <a href='https://computerhoy.com/apple/primera-funcion-ios18-deberias-activar-te-roban-iphone-no-valdra-nada-1405016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/robar-iphone-4165783.jpg?tf=1200x' alt='Esta es la primera función de iOS18 que deberías activar: si te roban el iPhone no valdrá nada' />
     </a>
 </div>
 
