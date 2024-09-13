@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/especuladores-agotan-lector-discos-ps5-pro-1404833'>Los especuladores agotan el lector de discos de PS5 Pro</a></h4>
+    <a href='https://computerhoy.com/gaming/especuladores-agotan-lector-discos-ps5-pro-1404833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/otro-problema-usuarios-sony-especuladores-agotan-disco-duro-ps5-pro-4159657.jpg?tf=1200x' alt='Los especuladores agotan el lector de discos de PS5 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/instala-22-ventiladores-pc-gaming-maxima-preocupacion-hacer-cables-1404831'>Instala 22 ventiladores en su PC gaming: su máxima preocupación es qué hacer con los cables</a></h4>
+    <a href='https://computerhoy.com/pc/instala-22-ventiladores-pc-gaming-maxima-preocupacion-hacer-cables-1404831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/instala-22-ventiladores-pc-gaming-maxima-preocupacion-hacer-cables-4159948.jpg?tf=1200x' alt='Instala 22 ventiladores en su PC gaming: su máxima preocupación es qué hacer con los cables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ryanair-emite-advertencia-pasajeros-utilicen-maletas-negras-azul-marino-grises-1404826'>Ryanair emite una advertencia a los pasajeros que utilicen maletas negras, azul marino o grises</a></h4>
     <a href='https://computerhoy.com/life/ryanair-emite-advertencia-pasajeros-utilicen-maletas-negras-azul-marino-grises-1404826' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ryanair-emite-advertencia-pasajeros-utilicen-maletas-negras-azul-marino-grises-4159510.jpg?tf=1200x' alt='Ryanair emite una advertencia a los pasajeros que utilicen maletas negras, azul marino o grises' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ia-segunda-generacion-ya-aqui-openai-presenta-o1-ia-razona-1404829'>La IA de segunda generación ya está aquí: OpenAI presenta o1, la IA que razona</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-segunda-generacion-ya-aqui-openai-presenta-o1-ia-razona-1404829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ia-segunda-generacion-ya-aqui-openai-presenta-o1-ia-razona-4158929.jpg?tf=1200x' alt='La IA de segunda generación ya está aquí: OpenAI presenta o1, la IA que razona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-consegui-darme-cuenta-habia-descargado-querer-virus-mi-ordenador-1404812'>Así es cómo conseguí darme cuenta de que había descargado sin querer un virus en mi ordenador</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-consegui-darme-cuenta-habia-descargado-querer-virus-mi-ordenador-1404812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-consegui-darme-cuenta-habia-descargado-querer-virus-mi-ordenador-4158781.jpg?tf=1200x' alt='Así es cómo conseguí darme cuenta de que había descargado sin querer un virus en mi ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ahora-arrasa-rebel-ridge-netflix-pero-antes-director-conquisto-cinefilos-joya-indie-1404744'>Ahora arrasa con Rebel Ridge en Netflix, pero antes su director conquistó a los cinéfilos con esta joya indie</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ahora-arrasa-rebel-ridge-netflix-pero-antes-director-conquisto-cinefilos-joya-indie-1404744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ahora-arrasa-rebel-ridge-netflix-pero-antes-director-conquisto-cinefilos-joya-indie-4156098.jpg?tf=1200x' alt='Ahora arrasa con Rebel Ridge en Netflix, pero antes su director conquistó a los cinéfilos con esta joya indie' />
     </a>
 </div>
 
