@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elk-bledom-aparece-lista-dispositivos-bluetooth-1404907'>¿Qué es ELK-BLEDOM y por qué aparece en tu lista de dispositivos Bluetooth?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elk-bledom-aparece-lista-dispositivos-bluetooth-1404907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bluetooth-3656903.jpg?tf=1200x' alt='¿Qué es ELK-BLEDOM y por qué aparece en tu lista de dispositivos Bluetooth?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-huawei-elegante-pero-deportivo-tiene-nfc-pero-mejor-no-llega-200-euros-1404257'>Este reloj Huawei es elegante pero deportivo y hasta tiene NFC, pero lo mejor es que no llega a 200 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-huawei-elegante-pero-deportivo-tiene-nfc-pero-mejor-no-llega-200-euros-1404257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-watch-gt-3-pro-4140721.jpg?tf=1200x' alt='Este reloj Huawei es elegante pero deportivo y hasta tiene NFC, pero lo mejor es que no llega a 200 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-ha-puesto-orbita-primera-vela-solar-explorar-espacio-1404803'>La NASA ha puesto en órbita su primera vela solar para explorar el espacio</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-ha-puesto-orbita-primera-vela-solar-explorar-espacio-1404803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nasa-ha-puesto-orbita-primera-vela-solar-explorar-espacio-4157379.jpg?tf=1200x' alt='La NASA ha puesto en órbita su primera vela solar para explorar el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/caos-oculto-documentacion-linux-situacion-me-recuerda-dormitorio-mi-hija-1404885'>El caos oculto de la documentación de Linux: "Es una situación que me recuerda al dormitorio de mi hija"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/caos-oculto-documentacion-linux-situacion-me-recuerda-dormitorio-mi-hija-1404885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/caos-documentacion-4162518.jpg?tf=1200x' alt='El caos oculto de la documentación de Linux: "Es una situación que me recuerda al dormitorio de mi hija"' />
     </a>
 </div>
 
