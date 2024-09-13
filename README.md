@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/fisicos-han-descubierto-material-puede-ser-clave-viajar-tiempo-1404739'>Los físicos han descubierto un material que puede ser la clave para viajar en el tiempo</a></h4>
-    <a href='https://computerhoy.com/ciencia/fisicos-han-descubierto-material-puede-ser-clave-viajar-tiempo-1404739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fisicos-han-descubierto-material-puede-ser-clave-viajar-tiempo-4155803.jpg?tf=1200x' alt='Los físicos han descubierto un material que puede ser la clave para viajar en el tiempo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-fusionar-todas-redes-sociales-metricool-1404596'>Cómo fusionar todas tus redes sociales en una sola con Metricool</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-fusionar-todas-redes-sociales-metricool-1404596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/redes-sociales-metricool-4150005.jpg?tf=1200x' alt='Cómo fusionar todas tus redes sociales en una sola con Metricool' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-apple-1141527'>La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores trabajadores en Apple</a></h4>
-    <a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-apple-1141527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/prueba-cerveza-steve-jobs-contratar-mantener-empleados-3261453.jpg?tf=1200x' alt='La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores trabajadores en Apple' />
+    <h4><a href='https://computerhoy.com/tecnologia/ya-vende-espana-anillo-inteligente-amazfit-1397047'>Ya se vende en España el anillo inteligente de Amazfit, y viene con reloj incluido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-vende-espana-anillo-inteligente-amazfit-1397047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazfit-helio-ring-3791728.jpg?tf=1200x' alt='Ya se vende en España el anillo inteligente de Amazfit, y viene con reloj incluido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/locura-aliexpress-samsung-galaxy-s24-precio-gama-media-1396403'>Locura de AliExpress: vende el Samsung Galaxy S24 a precio de gama media</a></h4>
-    <a href='https://computerhoy.com/android/locura-aliexpress-samsung-galaxy-s24-precio-gama-media-1396403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/galaxy-s24-3757848.jpg?tf=1200x' alt='Locura de AliExpress: vende el Samsung Galaxy S24 a precio de gama media' />
+    <h4><a href='https://computerhoy.com/tecnologia/ia-decidira-desempleados-reciben-ayudas-1404845'>Una IA decidirá en Estados Unidos si los desempleados reciben ayudas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-decidira-desempleados-reciben-ayudas-1404845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ia-decidira-estados-unidos-desempleados-reciben-ayudas-4161130.jpg?tf=1200x' alt='Una IA decidirá en Estados Unidos si los desempleados reciben ayudas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/modo-visualizacion-unica-whatsapp-no-infalible-tiene-fallo-expertos-han-dado-1404709'>El modo de visualización única de WhatsApp no es infalible: tiene un fallo, y los expertos han dado con él</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/modo-visualizacion-unica-whatsapp-no-infalible-tiene-fallo-expertos-han-dado-1404709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/modo-visualizacion-unica-whatsapp-no-infalible-tiene-fallo-expertos-han-dado-4155159.jpg?tf=1200x' alt='El modo de visualización única de WhatsApp no es infalible: tiene un fallo, y los expertos han dado con él' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-lg-qned-87-me-ha-convencido-no-hace-falta-buena-television-llegue-ultimo-1404345'>He probado la LG QNED 87 y me ha convencido de que no hace falta que una buena televisión llegue con lo último</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-lg-qned-87-me-ha-convencido-no-hace-falta-buena-television-llegue-ultimo-1404345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lg-qned-87-4143322.jpg?tf=1200x' alt='He probado la LG QNED 87 y me ha convencido de que no hace falta que una buena televisión llegue con lo último' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/especuladores-agotan-lector-discos-ps5-pro-1404833'>Los especuladores agotan el lector de discos de PS5 Pro</a></h4>
-    <a href='https://computerhoy.com/gaming/especuladores-agotan-lector-discos-ps5-pro-1404833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/otro-problema-usuarios-sony-especuladores-agotan-disco-duro-ps5-pro-4159657.jpg?tf=1200x' alt='Los especuladores agotan el lector de discos de PS5 Pro' />
+    <h4><a href='https://computerhoy.com/life/200-anos-despues-realizan-inesperado-descubrimiento-adn-pelo-beethoven-1404735'>200 años después realizan un inesperado descubrimiento en el ADN del pelo de Beethoven</a></h4>
+    <a href='https://computerhoy.com/life/200-anos-despues-realizan-inesperado-descubrimiento-adn-pelo-beethoven-1404735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/beethoven-4156249.jpg?tf=1200x' alt='200 años después realizan un inesperado descubrimiento en el ADN del pelo de Beethoven' />
     </a>
 </div>
 
