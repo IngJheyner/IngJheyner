@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/muchos-pelicula-ciencia-ficcion-bonita-historia-puedes-verla-disney-1402631'>Para muchos esta es la película de ciencia ficción más bonita de la historia y puedes verla en Disney+</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/muchos-pelicula-ciencia-ficcion-bonita-historia-puedes-verla-disney-1402631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/wall-4162690.jpg?tf=1200x' alt='Para muchos esta es la película de ciencia ficción más bonita de la historia y puedes verla en Disney+' />
+    <h4><a href='https://computerhoy.com/entretenimiento/confirmado-saga-suspense-celebrada-netflix-convertira-trilogia-presupuesto-disparara-cinco-veces-1403827'>Está confirmado: la saga de suspense más celebrada de Netflix se convertirá en trilogía, y su presupuesto se disparará cinco veces</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/confirmado-saga-suspense-celebrada-netflix-convertira-trilogia-presupuesto-disparara-cinco-veces-1403827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/confirmado-saga-suspense-celebrada-netflix-convertira-trilogia-presupuesto-disparara-doble-4113945.jpg?tf=1200x' alt='Está confirmado: la saga de suspense más celebrada de Netflix se convertirá en trilogía, y su presupuesto se disparará cinco veces' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/acusan-usuarios-iptv-estar-matando-futbol-amenazan-ellos-nosotros-1404999'>Acusan a los usuarios de IPTV de estar matando el fútbol y amenazan: "O ellos o nosotros"</a></h4>
-    <a href='https://computerhoy.com/internet/acusan-usuarios-iptv-estar-matando-futbol-amenazan-ellos-nosotros-1404999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/acusan-usuarios-iptv-estar-matando-futbol-amenazan-ellos-nosotros-4165484.jpg?tf=1200x' alt='Acusan a los usuarios de IPTV de estar matando el fútbol y amenazan: "O ellos o nosotros"' />
+    <h4><a href='https://computerhoy.com/pc/zoom-plataforma-videollamadas-conecto-mundo-1402064'>Zoom, así es la plataforma de videollamadas que conectó al mundo durante la COVID-19</a></h4>
+    <a href='https://computerhoy.com/pc/zoom-plataforma-videollamadas-conecto-mundo-1402064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/zoom-videollamadas-4043528.jpg?tf=1200x' alt='Zoom, así es la plataforma de videollamadas que conectó al mundo durante la COVID-19' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/iphone-tiene-boton-oculto-duplica-bateria-cuida-vista-sabes-donde-1404728'>Tu iPhone tiene un botón oculto que duplica la batería y cuida tu vista: ¿sabes dónde está?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/iphone-tiene-boton-oculto-duplica-bateria-cuida-vista-sabes-donde-1404728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-ojo-pantalla-4163809.jpg?tf=1200x' alt='Tu iPhone tiene un botón oculto que duplica la batería y cuida tu vista: ¿sabes dónde está?' />
+    <h4><a href='https://computerhoy.com/apple/primera-funcion-ios18-deberias-activar-te-roban-iphone-no-valdra-nada-1405016'>Esta es la primera función de iOS18 que deberías activar: si te roban el iPhone no valdrá nada</a></h4>
+    <a href='https://computerhoy.com/apple/primera-funcion-ios18-deberias-activar-te-roban-iphone-no-valdra-nada-1405016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/robar-iphone-4165783.jpg?tf=1200x' alt='Esta es la primera función de iOS18 que deberías activar: si te roban el iPhone no valdrá nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/netflix-deja-funcionar-estos-iphone-ipad-1405011'>Netflix deja de funcionar en estos iPhone y iPad</a></h4>
-    <a href='https://computerhoy.com/apple/netflix-deja-funcionar-estos-iphone-ipad-1405011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-deja-funcionar-estos-iphone-ipad-4165190.jpg?tf=1200x' alt='Netflix deja de funcionar en estos iPhone y iPad' />
+    <h4><a href='https://computerhoy.com/apps/modo-conversacional-ia-gemini-live-ya-disponible-todos-android-1405015'>El modo conversacional de la IA Gemini Live ya disponible para todos en Android</a></h4>
+    <a href='https://computerhoy.com/apps/modo-conversacional-ia-gemini-live-ya-disponible-todos-android-1405015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/gemini-live-4165782.jpg?tf=1200x' alt='El modo conversacional de la IA Gemini Live ya disponible para todos en Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejor-serie-ciencia-ficcion-historia-netflix-1404935'>Esta en Netflix y para muchos es la mejor serie de ciencia ficción de la historia: un thriller sobrenatural que te volará la cabeza</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejor-serie-ciencia-ficcion-historia-netflix-1404935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dark-4163651.jpg?tf=1200x' alt='Esta en Netflix y para muchos es la mejor serie de ciencia ficción de la historia: un thriller sobrenatural que te volará la cabeza' />
+    <h4><a href='https://computerhoy.com/gaming/anuncio-nintendo-switch-2-podria-ser-inminente-dos-versiones-precio-sorprendente-1405014'>El anuncio de Nintendo Switch 2 podría ser inminente: dos versiones y un precio sorprendente</a></h4>
+    <a href='https://computerhoy.com/gaming/anuncio-nintendo-switch-2-podria-ser-inminente-dos-versiones-precio-sorprendente-1405014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-switch-4165781.jpg?tf=1200x' alt='El anuncio de Nintendo Switch 2 podría ser inminente: dos versiones y un precio sorprendente' />
     </a>
 </div>
 
