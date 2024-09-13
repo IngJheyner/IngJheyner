@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-677-computer-hoy-1403461'>¡Ya está en tu quiosco el número 677 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-677-computer-hoy-1403461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/computer-hoy-677-4113137.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 677 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-huawei-elegante-pero-deportivo-tiene-nfc-pero-mejor-no-llega-200-euros-1404257'>Este reloj Huawei es elegante pero deportivo y hasta tiene NFC, pero lo mejor es que no llega a 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-huawei-elegante-pero-deportivo-tiene-nfc-pero-mejor-no-llega-200-euros-1404257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-watch-gt-3-pro-4140721.jpg?tf=1200x' alt='Este reloj Huawei es elegante pero deportivo y hasta tiene NFC, pero lo mejor es que no llega a 200 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-fusionar-todas-redes-sociales-metricool-1404596'>Cómo fusionar todas tus redes sociales en una sola con Metricool</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-fusionar-todas-redes-sociales-metricool-1404596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/redes-sociales-metricool-4150005.jpg?tf=1200x' alt='Cómo fusionar todas tus redes sociales en una sola con Metricool' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-deepmind-ensena-robot-sabe-atarse-zapatos-pero-ojala-nadie-ponga-1404890'>Google DeepMind enseña que su robot "sabe" atarse los zapatos, pero ojalá nadie se los ponga</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-deepmind-ensena-robot-sabe-atarse-zapatos-pero-ojala-nadie-ponga-1404890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/robot-atando-zapatos-4162522.jpg?tf=1200x' alt='Google DeepMind enseña que su robot "sabe" atarse los zapatos, pero ojalá nadie se los ponga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-vende-espana-anillo-inteligente-amazfit-1397047'>Ya se vende en España el anillo inteligente de Amazfit, y viene con reloj incluido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-vende-espana-anillo-inteligente-amazfit-1397047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazfit-helio-ring-3791728.jpg?tf=1200x' alt='Ya se vende en España el anillo inteligente de Amazfit, y viene con reloj incluido' />
+    <h4><a href='https://computerhoy.com/apps/senderista-encuentra-extrana-estructura-esferica-google-maps-volviendo-locos-cientificos-1404549'>Senderista encuentra una extraña estructura esférica en Google Maps que está volviendo locos a los científicos</a></h4>
+    <a href='https://computerhoy.com/apps/senderista-encuentra-extrana-estructura-esferica-google-maps-volviendo-locos-cientificos-1404549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/senderista-encuentra-extrana-estructura-esferica-google-maps-volviendo-locos-cientificos-4157398.jpg?tf=1200x' alt='Senderista encuentra una extraña estructura esférica en Google Maps que está volviendo locos a los científicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-decidira-desempleados-reciben-ayudas-1404845'>Una IA decidirá en Estados Unidos si los desempleados reciben ayudas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-decidira-desempleados-reciben-ayudas-1404845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ia-decidira-estados-unidos-desempleados-reciben-ayudas-4161130.jpg?tf=1200x' alt='Una IA decidirá en Estados Unidos si los desempleados reciben ayudas' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-ha-puesto-orbita-primera-vela-solar-explorar-espacio-1404803'>La NASA ha puesto en órbita su primera vela solar para explorar el espacio</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-ha-puesto-orbita-primera-vela-solar-explorar-espacio-1404803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nasa-ha-puesto-orbita-primera-vela-solar-explorar-espacio-4157379.jpg?tf=1200x' alt='La NASA ha puesto en órbita su primera vela solar para explorar el espacio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-lg-qned-87-me-ha-convencido-no-hace-falta-buena-television-llegue-ultimo-1404345'>He probado la LG QNED 87 y me ha convencido de que no hace falta que una buena televisión llegue con lo último</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-lg-qned-87-me-ha-convencido-no-hace-falta-buena-television-llegue-ultimo-1404345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lg-qned-87-4143322.jpg?tf=1200x' alt='He probado la LG QNED 87 y me ha convencido de que no hace falta que una buena televisión llegue con lo último' />
+    <h4><a href='https://computerhoy.com/tecnologia/caos-oculto-documentacion-linux-situacion-me-recuerda-dormitorio-mi-hija-1404885'>El caos oculto de la documentación de Linux: "Es una situación que me recuerda al dormitorio de mi hija"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/caos-oculto-documentacion-linux-situacion-me-recuerda-dormitorio-mi-hija-1404885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/caos-documentacion-4162518.jpg?tf=1200x' alt='El caos oculto de la documentación de Linux: "Es una situación que me recuerda al dormitorio de mi hija"' />
     </a>
 </div>
 
