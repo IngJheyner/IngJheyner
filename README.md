@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-677-computer-hoy-1403461'>¡Ya está en tu quiosco el número 677 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-677-computer-hoy-1403461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/computer-hoy-677-4113137.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 677 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-fusionar-todas-redes-sociales-metricool-1404596'>Cómo fusionar todas tus redes sociales en una sola con Metricool</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-fusionar-todas-redes-sociales-metricool-1404596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/redes-sociales-metricool-4150005.jpg?tf=1200x' alt='Cómo fusionar todas tus redes sociales en una sola con Metricool' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/he-probado-lg-qned-87-me-ha-convencido-no-hace-falta-buena-television-llegue-ultimo-1404345'>He probado la LG QNED 87 y me ha convencido de que no hace falta que una buena televisión llegue con lo último</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-lg-qned-87-me-ha-convencido-no-hace-falta-buena-television-llegue-ultimo-1404345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lg-qned-87-4143322.jpg?tf=1200x' alt='He probado la LG QNED 87 y me ha convencido de que no hace falta que una buena televisión llegue con lo último' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/200-anos-despues-realizan-inesperado-descubrimiento-adn-pelo-beethoven-1404735'>200 años después realizan un inesperado descubrimiento en el ADN del pelo de Beethoven</a></h4>
-    <a href='https://computerhoy.com/life/200-anos-despues-realizan-inesperado-descubrimiento-adn-pelo-beethoven-1404735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/beethoven-4156249.jpg?tf=1200x' alt='200 años después realizan un inesperado descubrimiento en el ADN del pelo de Beethoven' />
     </a>
 </div>
 
