@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/fisicos-han-descubierto-material-puede-ser-clave-viajar-tiempo-1404739'>Los físicos han descubierto un material que puede ser la clave para viajar en el tiempo</a></h4>
+    <a href='https://computerhoy.com/ciencia/fisicos-han-descubierto-material-puede-ser-clave-viajar-tiempo-1404739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fisicos-han-descubierto-material-puede-ser-clave-viajar-tiempo-4155803.jpg?tf=1200x' alt='Los físicos han descubierto un material que puede ser la clave para viajar en el tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-apple-1141527'>La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores trabajadores en Apple</a></h4>
+    <a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-apple-1141527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/prueba-cerveza-steve-jobs-contratar-mantener-empleados-3261453.jpg?tf=1200x' alt='La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores trabajadores en Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/locura-aliexpress-samsung-galaxy-s24-precio-gama-media-1396403'>Locura de AliExpress: vende el Samsung Galaxy S24 a precio de gama media</a></h4>
+    <a href='https://computerhoy.com/android/locura-aliexpress-samsung-galaxy-s24-precio-gama-media-1396403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/galaxy-s24-3757848.jpg?tf=1200x' alt='Locura de AliExpress: vende el Samsung Galaxy S24 a precio de gama media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/modo-visualizacion-unica-whatsapp-no-infalible-tiene-fallo-expertos-han-dado-1404709'>El modo de visualización única de WhatsApp no es infalible: tiene un fallo, y los expertos han dado con él</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/modo-visualizacion-unica-whatsapp-no-infalible-tiene-fallo-expertos-han-dado-1404709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/modo-visualizacion-unica-whatsapp-no-infalible-tiene-fallo-expertos-han-dado-4155159.jpg?tf=1200x' alt='El modo de visualización única de WhatsApp no es infalible: tiene un fallo, y los expertos han dado con él' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/especuladores-agotan-lector-discos-ps5-pro-1404833'>Los especuladores agotan el lector de discos de PS5 Pro</a></h4>
     <a href='https://computerhoy.com/gaming/especuladores-agotan-lector-discos-ps5-pro-1404833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/otro-problema-usuarios-sony-especuladores-agotan-disco-duro-ps5-pro-4159657.jpg?tf=1200x' alt='Los especuladores agotan el lector de discos de PS5 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/instala-22-ventiladores-pc-gaming-maxima-preocupacion-hacer-cables-1404831'>Instala 22 ventiladores en su PC gaming: su máxima preocupación es qué hacer con los cables</a></h4>
-    <a href='https://computerhoy.com/pc/instala-22-ventiladores-pc-gaming-maxima-preocupacion-hacer-cables-1404831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/instala-22-ventiladores-pc-gaming-maxima-preocupacion-hacer-cables-4159948.jpg?tf=1200x' alt='Instala 22 ventiladores en su PC gaming: su máxima preocupación es qué hacer con los cables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ryanair-emite-advertencia-pasajeros-utilicen-maletas-negras-azul-marino-grises-1404826'>Ryanair emite una advertencia a los pasajeros que utilicen maletas negras, azul marino o grises</a></h4>
-    <a href='https://computerhoy.com/life/ryanair-emite-advertencia-pasajeros-utilicen-maletas-negras-azul-marino-grises-1404826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ryanair-emite-advertencia-pasajeros-utilicen-maletas-negras-azul-marino-grises-4159510.jpg?tf=1200x' alt='Ryanair emite una advertencia a los pasajeros que utilicen maletas negras, azul marino o grises' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/primer-paseo-espacial-privado-historia-exito-1404830'>El primer paseo espacial privado de la historia es un éxito </a></h4>
-    <a href='https://computerhoy.com/espacio/primer-paseo-espacial-privado-historia-exito-1404830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/primer-paseo-espacial-privado-historia-exito-4158489.jpg?tf=1200x' alt='El primer paseo espacial privado de la historia es un éxito ' />
     </a>
 </div>
 
