@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/muchos-pelicula-ciencia-ficcion-bonita-historia-puedes-verla-disney-1402631'>Para muchos esta es la película de ciencia ficción más bonita de la historia y puedes verla en Disney+</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/muchos-pelicula-ciencia-ficcion-bonita-historia-puedes-verla-disney-1402631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/wall-4162690.jpg?tf=1200x' alt='Para muchos esta es la película de ciencia ficción más bonita de la historia y puedes verla en Disney+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/acusan-usuarios-iptv-estar-matando-futbol-amenazan-ellos-nosotros-1404999'>Acusan a los usuarios de IPTV de estar matando el fútbol y amenazan: "O ellos o nosotros"</a></h4>
+    <a href='https://computerhoy.com/internet/acusan-usuarios-iptv-estar-matando-futbol-amenazan-ellos-nosotros-1404999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/acusan-usuarios-iptv-estar-matando-futbol-amenazan-ellos-nosotros-4165484.jpg?tf=1200x' alt='Acusan a los usuarios de IPTV de estar matando el fútbol y amenazan: "O ellos o nosotros"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/iphone-tiene-boton-oculto-duplica-bateria-cuida-vista-sabes-donde-1404728'>Tu iPhone tiene un botón oculto que duplica la batería y cuida tu vista: ¿sabes dónde está?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/iphone-tiene-boton-oculto-duplica-bateria-cuida-vista-sabes-donde-1404728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-ojo-pantalla-4163809.jpg?tf=1200x' alt='Tu iPhone tiene un botón oculto que duplica la batería y cuida tu vista: ¿sabes dónde está?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/netflix-deja-funcionar-estos-iphone-ipad-1405011'>Netflix deja de funcionar en estos iPhone y iPad</a></h4>
+    <a href='https://computerhoy.com/apple/netflix-deja-funcionar-estos-iphone-ipad-1405011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-deja-funcionar-estos-iphone-ipad-4165190.jpg?tf=1200x' alt='Netflix deja de funcionar en estos iPhone y iPad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/mejor-serie-ciencia-ficcion-historia-netflix-1404935'>Esta en Netflix y para muchos es la mejor serie de ciencia ficción de la historia: un thriller sobrenatural que te volará la cabeza</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mejor-serie-ciencia-ficcion-historia-netflix-1404935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dark-4163651.jpg?tf=1200x' alt='Esta en Netflix y para muchos es la mejor serie de ciencia ficción de la historia: un thriller sobrenatural que te volará la cabeza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pc-2003-funciono-18-anos-sin-pasta-termica-1396967'>Este PC del año 2003 funcionó más de 18 años sin pasta térmica y con dos pegatinas en la CPU</a></h4>
-    <a href='https://computerhoy.com/pc/pc-2003-funciono-18-anos-sin-pasta-termica-1396967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ordenador-superviviente-3790110.jpg?tf=1200x' alt='Este PC del año 2003 funcionó más de 18 años sin pasta térmica y con dos pegatinas en la CPU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/steven-spielberg-mejor-director-existe-actualmente-1404742'>Ni Nolan ni Tarantino, para Steven Spielberg es el mejor director que existe actualmente, y la gran esperanza del mundo del cine</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/steven-spielberg-mejor-director-existe-actualmente-1404742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steven-spielberg-3278433.jpg?tf=1200x' alt='Ni Nolan ni Tarantino, para Steven Spielberg es el mejor director que existe actualmente, y la gran esperanza del mundo del cine' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/nothing-tiene-movil-igual-barato-xiaomi-potente-cuesta-menos-300-euros-1404997'>Nothing tiene un móvil igual de barato que un Xiaomi y más potente: cuesta menos de 300 euros</a></h4>
-    <a href='https://computerhoy.com/android/nothing-tiene-movil-igual-barato-xiaomi-potente-cuesta-menos-300-euros-1404997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nothing-phone-2a-3281547.jpg?tf=1200x' alt='Nothing tiene un móvil igual de barato que un Xiaomi y más potente: cuesta menos de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/dejar-presionado-boton-linterna-movil-1395349'>¿Qué sucede si mantienes pulsado el botón de linterna en la mayoría de móviles?</a></h4>
-    <a href='https://computerhoy.com/moviles/dejar-presionado-boton-linterna-movil-1395349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/linterna-movil-3898246.jpg?tf=1200x' alt='¿Qué sucede si mantienes pulsado el botón de linterna en la mayoría de móviles?' />
     </a>
 </div>
 
