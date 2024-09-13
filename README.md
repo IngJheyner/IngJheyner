@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tiendas-terceros-llegan-ipad-solo-ue-1405020'>Las tiendas de terceros llegan al iPad, solo en la UE</a></h4>
+    <a href='https://computerhoy.com/apple/tiendas-terceros-llegan-ipad-solo-ue-1405020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipad-air-m2-13-pulgadas-3502066.jpg?tf=1200x' alt='Las tiendas de terceros llegan al iPad, solo en la UE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-escribirte-mensajes-whatsapp-ti-mismo-muy-buena-idea-1405012'>Cómo escribirte mensajes de WhatsApp a ti mismo (y por qué es muy buena idea)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-escribirte-mensajes-whatsapp-ti-mismo-muy-buena-idea-1405012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-escribirte-mensajes-whatsapp-ti-mismo-muy-buena-idea-4165931.jpg?tf=1200x' alt='Cómo escribirte mensajes de WhatsApp a ti mismo (y por qué es muy buena idea)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/confirmado-saga-suspense-celebrada-netflix-convertira-trilogia-presupuesto-disparara-cinco-veces-1403827'>Está confirmado: la saga de suspense más celebrada de Netflix se convertirá en trilogía, y su presupuesto se disparará cinco veces</a></h4>
     <a href='https://computerhoy.com/entretenimiento/confirmado-saga-suspense-celebrada-netflix-convertira-trilogia-presupuesto-disparara-cinco-veces-1403827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/confirmado-saga-suspense-celebrada-netflix-convertira-trilogia-presupuesto-disparara-doble-4113945.jpg?tf=1200x' alt='Está confirmado: la saga de suspense más celebrada de Netflix se convertirá en trilogía, y su presupuesto se disparará cinco veces' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/primera-funcion-ios18-deberias-activar-te-roban-iphone-no-valdra-nada-1405016'>Esta es la primera función de iOS18 que deberías activar: si te roban el iPhone no valdrá nada</a></h4>
     <a href='https://computerhoy.com/apple/primera-funcion-ios18-deberias-activar-te-roban-iphone-no-valdra-nada-1405016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/robar-iphone-4165783.jpg?tf=1200x' alt='Esta es la primera función de iOS18 que deberías activar: si te roban el iPhone no valdrá nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/modo-conversacional-ia-gemini-live-ya-disponible-todos-android-1405015'>El modo conversacional de la IA Gemini Live ya disponible para todos en Android</a></h4>
-    <a href='https://computerhoy.com/apps/modo-conversacional-ia-gemini-live-ya-disponible-todos-android-1405015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/gemini-live-4165782.jpg?tf=1200x' alt='El modo conversacional de la IA Gemini Live ya disponible para todos en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/anuncio-nintendo-switch-2-podria-ser-inminente-dos-versiones-precio-sorprendente-1405014'>El anuncio de Nintendo Switch 2 podría ser inminente: dos versiones y un precio sorprendente</a></h4>
-    <a href='https://computerhoy.com/gaming/anuncio-nintendo-switch-2-podria-ser-inminente-dos-versiones-precio-sorprendente-1405014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-switch-4165781.jpg?tf=1200x' alt='El anuncio de Nintendo Switch 2 podría ser inminente: dos versiones y un precio sorprendente' />
     </a>
 </div>
 
