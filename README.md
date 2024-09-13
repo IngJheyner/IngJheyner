@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/demencia-descubren-dos-tipos-frutas-comunes-protegen-especialmente-contras-tipo-trastorno-1404915'>Demencia: descubren que dos tipos de frutas comunes protegen especialmente contras este tipo de trastorno</a></h4>
+    <a href='https://computerhoy.com/ciencia/demencia-descubren-dos-tipos-frutas-comunes-protegen-especialmente-contras-tipo-trastorno-1404915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/demencia-4163191.jpg?tf=1200x' alt='Demencia: descubren que dos tipos de frutas comunes protegen especialmente contras este tipo de trastorno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/app-espia-microfono-movil-1394388'>Esta app lleva espiando móviles por el micrófono durante años: ¿todavía no la has eliminado?</a></h4>
+    <a href='https://computerhoy.com/apps/app-espia-microfono-movil-1394388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/app-te-ha-estado-espiando-microfono-durante-anos-todavia-no-has-eliminado-3666867.jpg?tf=1200x' alt='Esta app lleva espiando móviles por el micrófono durante años: ¿todavía no la has eliminado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/materiales-cuanticos-adaptables-camino-futuro-tecnologico-digno-teseracto-marvel-1404898'>Materiales cuánticos adaptables: ¿el camino hacia un futuro tecnológico digno del teseracto de Marvel?</a></h4>
     <a href='https://computerhoy.com/ciencia/materiales-cuanticos-adaptables-camino-futuro-tecnologico-digno-teseracto-marvel-1404898' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cuantico-4162843.jpg?tf=1200x' alt='Materiales cuánticos adaptables: ¿el camino hacia un futuro tecnológico digno del teseracto de Marvel?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/producto-nunca-debes-utilizar-limpiar-smart-tv-te-puedes-cargar-1404937'>Este es el producto que nunca debes utilizar para limpiar tu Smart TV, te la puedes cargar</a></h4>
     <a href='https://computerhoy.com/tecnologia/producto-nunca-debes-utilizar-limpiar-smart-tv-te-puedes-cargar-1404937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/producto-nunca-debes-utilizar-limpiar-smart-tv-te-puedes-cargar-4163192.jpg?tf=1200x' alt='Este es el producto que nunca debes utilizar para limpiar tu Smart TV, te la puedes cargar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/tablets-android-pareceran-cada-vez-ordenador-nueva-funcion-google-1404868'>Las tablets con Android se parecerán cada vez más a un ordenador con esta nueva función de Google</a></h4>
-    <a href='https://computerhoy.com/android/tablets-android-pareceran-cada-vez-ordenador-nueva-funcion-google-1404868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tablets-android-pareceran-cada-vez-ordenador-nueva-funcion-google-4161880.jpg?tf=1200x' alt='Las tablets con Android se parecerán cada vez más a un ordenador con esta nueva función de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/baterias-litio-pierden-autonomia-ciencia-ha-descubierto-fin-motivo-1404927'>Las baterías de litio pierden autonomía y la ciencia ha descubierto por fin el motivo</a></h4>
-    <a href='https://computerhoy.com/motor/baterias-litio-pierden-autonomia-ciencia-ha-descubierto-fin-motivo-1404927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/baterias-litio-pierden-autonomia-ciencia-ha-descubierto-fin-motivo-4163028.jpg?tf=1200x' alt='Las baterías de litio pierden autonomía y la ciencia ha descubierto por fin el motivo' />
     </a>
 </div>
 
