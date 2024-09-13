@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/modo-visualizacion-unica-whatsapp-no-infalible-tiene-fallo-expertos-han-dado-1404709'>El modo de visualización única de WhatsApp no es infalible: tiene un fallo, y los expertos han dado con él</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/modo-visualizacion-unica-whatsapp-no-infalible-tiene-fallo-expertos-han-dado-1404709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/modo-visualizacion-unica-whatsapp-no-infalible-tiene-fallo-expertos-han-dado-4155159.jpg?tf=1200x' alt='El modo de visualización única de WhatsApp no es infalible: tiene un fallo, y los expertos han dado con él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/especuladores-agotan-lector-discos-ps5-pro-1404833'>Los especuladores agotan el lector de discos de PS5 Pro</a></h4>
     <a href='https://computerhoy.com/gaming/especuladores-agotan-lector-discos-ps5-pro-1404833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/otro-problema-usuarios-sony-especuladores-agotan-disco-duro-ps5-pro-4159657.jpg?tf=1200x' alt='Los especuladores agotan el lector de discos de PS5 Pro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/primer-paseo-espacial-privado-historia-exito-1404830'>El primer paseo espacial privado de la historia es un éxito </a></h4>
     <a href='https://computerhoy.com/espacio/primer-paseo-espacial-privado-historia-exito-1404830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/primer-paseo-espacial-privado-historia-exito-4158489.jpg?tf=1200x' alt='El primer paseo espacial privado de la historia es un éxito ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-segunda-generacion-ya-aqui-openai-presenta-o1-ia-razona-1404829'>La IA de segunda generación ya está aquí: OpenAI presenta o1, la IA que razona</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-segunda-generacion-ya-aqui-openai-presenta-o1-ia-razona-1404829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ia-segunda-generacion-ya-aqui-openai-presenta-o1-ia-razona-4158929.jpg?tf=1200x' alt='La IA de segunda generación ya está aquí: OpenAI presenta o1, la IA que razona' />
     </a>
 </div>
 
