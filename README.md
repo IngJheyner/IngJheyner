@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejor-serie-ciencia-ficcion-historia-netflix-1404935'>Esta en Netflix y para muchos es la mejor serie de ciencia ficción de la historia: un thriller sobrenatural que te volará la cabeza</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejor-serie-ciencia-ficcion-historia-netflix-1404935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dark-4163651.jpg?tf=1200x' alt='Esta en Netflix y para muchos es la mejor serie de ciencia ficción de la historia: un thriller sobrenatural que te volará la cabeza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/pc-2003-funciono-18-anos-sin-pasta-termica-1396967'>Este PC del año 2003 funcionó más de 18 años sin pasta térmica y con dos pegatinas en la CPU</a></h4>
+    <a href='https://computerhoy.com/pc/pc-2003-funciono-18-anos-sin-pasta-termica-1396967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ordenador-superviviente-3790110.jpg?tf=1200x' alt='Este PC del año 2003 funcionó más de 18 años sin pasta térmica y con dos pegatinas en la CPU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/steven-spielberg-mejor-director-existe-actualmente-1404742'>Ni Nolan ni Tarantino, para Steven Spielberg es el mejor director que existe actualmente, y la gran esperanza del mundo del cine</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/steven-spielberg-mejor-director-existe-actualmente-1404742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steven-spielberg-3278433.jpg?tf=1200x' alt='Ni Nolan ni Tarantino, para Steven Spielberg es el mejor director que existe actualmente, y la gran esperanza del mundo del cine' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/nothing-tiene-movil-igual-barato-xiaomi-potente-cuesta-menos-300-euros-1404997'>Nothing tiene un móvil igual de barato que un Xiaomi y más potente: cuesta menos de 300 euros</a></h4>
     <a href='https://computerhoy.com/android/nothing-tiene-movil-igual-barato-xiaomi-potente-cuesta-menos-300-euros-1404997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nothing-phone-2a-3281547.jpg?tf=1200x' alt='Nothing tiene un móvil igual de barato que un Xiaomi y más potente: cuesta menos de 300 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/dejar-presionado-boton-linterna-movil-1395349'>¿Qué sucede si mantienes pulsado el botón de linterna en la mayoría de móviles?</a></h4>
     <a href='https://computerhoy.com/moviles/dejar-presionado-boton-linterna-movil-1395349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/linterna-movil-3898246.jpg?tf=1200x' alt='¿Qué sucede si mantienes pulsado el botón de linterna en la mayoría de móviles?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-controlar-android-auto-comandos-voz-mientras-conduces-1404987'>Cómo controlar Android Auto con comandos de voz mientras conduces</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-controlar-android-auto-comandos-voz-mientras-conduces-1404987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-controlar-android-auto-comandos-voz-mientras-conduces-4164744.jpg?tf=1200x' alt='Cómo controlar Android Auto con comandos de voz mientras conduces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/demencia-descubren-dos-tipos-frutas-comunes-protegen-especialmente-contras-tipo-trastorno-1404915'>Demencia: descubren que dos tipos de frutas comunes protegen especialmente contras este tipo de trastorno</a></h4>
-    <a href='https://computerhoy.com/ciencia/demencia-descubren-dos-tipos-frutas-comunes-protegen-especialmente-contras-tipo-trastorno-1404915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/demencia-4163191.jpg?tf=1200x' alt='Demencia: descubren que dos tipos de frutas comunes protegen especialmente contras este tipo de trastorno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-espia-microfono-movil-1394388'>Esta app lleva espiando móviles por el micrófono durante años: ¿todavía no la has eliminado?</a></h4>
-    <a href='https://computerhoy.com/apps/app-espia-microfono-movil-1394388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/app-te-ha-estado-espiando-microfono-durante-anos-todavia-no-has-eliminado-3666867.jpg?tf=1200x' alt='Esta app lleva espiando móviles por el micrófono durante años: ¿todavía no la has eliminado?' />
     </a>
 </div>
 
