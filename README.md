@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/materiales-cuanticos-adaptables-camino-futuro-tecnologico-digno-teseracto-marvel-1404898'>Materiales cuánticos adaptables: ¿el camino hacia un futuro tecnológico digno del teseracto de Marvel?</a></h4>
+    <a href='https://computerhoy.com/ciencia/materiales-cuanticos-adaptables-camino-futuro-tecnologico-digno-teseracto-marvel-1404898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cuantico-4162843.jpg?tf=1200x' alt='Materiales cuánticos adaptables: ¿el camino hacia un futuro tecnológico digno del teseracto de Marvel?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/que-hacer-roban-movil-policia-nacional-1395998'>La Policía alerta: esto es lo que debes hacer si te roban el móvil</a></h4>
+    <a href='https://computerhoy.com/life/que-hacer-roban-movil-policia-nacional-1395998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/robar-movil-3743200.jpg?tf=1200x' alt='La Policía alerta: esto es lo que debes hacer si te roban el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/producto-nunca-debes-utilizar-limpiar-smart-tv-te-puedes-cargar-1404937'>Este es el producto que nunca debes utilizar para limpiar tu Smart TV, te la puedes cargar</a></h4>
     <a href='https://computerhoy.com/tecnologia/producto-nunca-debes-utilizar-limpiar-smart-tv-te-puedes-cargar-1404937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/producto-nunca-debes-utilizar-limpiar-smart-tv-te-puedes-cargar-4163192.jpg?tf=1200x' alt='Este es el producto que nunca debes utilizar para limpiar tu Smart TV, te la puedes cargar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/baterias-litio-pierden-autonomia-ciencia-ha-descubierto-fin-motivo-1404927'>Las baterías de litio pierden autonomía y la ciencia ha descubierto por fin el motivo</a></h4>
     <a href='https://computerhoy.com/motor/baterias-litio-pierden-autonomia-ciencia-ha-descubierto-fin-motivo-1404927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/baterias-litio-pierden-autonomia-ciencia-ha-descubierto-fin-motivo-4163028.jpg?tf=1200x' alt='Las baterías de litio pierden autonomía y la ciencia ha descubierto por fin el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/6-apps-debes-conocer-buscar-setas-otono-1322004'>6 apps que debes conocer para buscar setas</a></h4>
-    <a href='https://computerhoy.com/moviles/6-apps-debes-conocer-buscar-setas-otono-1322004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/sorprendentes-beneficios-comer-setas-champinones-salud-memoria-2447695.jpg?tf=1200x' alt='6 apps que debes conocer para buscar setas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/flappy-bird-regresa-ios-android-10-anos-despues-1404867'>Flappy Bird regresa para iOS y Android más de 10 años después</a></h4>
-    <a href='https://computerhoy.com/apps/flappy-bird-regresa-ios-android-10-anos-despues-1404867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/flappy-bird-regresa-ios-android-10-anos-despues-4162042.jpg?tf=1200x' alt='Flappy Bird regresa para iOS y Android más de 10 años después' />
     </a>
 </div>
 
