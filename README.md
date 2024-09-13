@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/tablets-android-pareceran-cada-vez-ordenador-nueva-funcion-google-1404868'>Las tablets con Android se parecerán cada vez más a un ordenador con esta nueva función de Google</a></h4>
+    <a href='https://computerhoy.com/android/tablets-android-pareceran-cada-vez-ordenador-nueva-funcion-google-1404868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tablets-android-pareceran-cada-vez-ordenador-nueva-funcion-google-4161880.jpg?tf=1200x' alt='Las tablets con Android se parecerán cada vez más a un ordenador con esta nueva función de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/baterias-litio-pierden-autonomia-ciencia-ha-descubierto-fin-motivo-1404927'>Las baterías de litio pierden autonomía y la ciencia ha descubierto por fin el motivo</a></h4>
+    <a href='https://computerhoy.com/motor/baterias-litio-pierden-autonomia-ciencia-ha-descubierto-fin-motivo-1404927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/baterias-litio-pierden-autonomia-ciencia-ha-descubierto-fin-motivo-4163028.jpg?tf=1200x' alt='Las baterías de litio pierden autonomía y la ciencia ha descubierto por fin el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/6-apps-debes-conocer-buscar-setas-otono-1322004'>6 apps que debes conocer para buscar setas</a></h4>
     <a href='https://computerhoy.com/moviles/6-apps-debes-conocer-buscar-setas-otono-1322004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/sorprendentes-beneficios-comer-setas-champinones-salud-memoria-2447695.jpg?tf=1200x' alt='6 apps que debes conocer para buscar setas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/ralentiza-portatil-necesitas-solucionarlo-1123691'>Por qué se ralentiza tu portátil y qué necesitas para solucionarlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/ralentiza-portatil-necesitas-solucionarlo-1123691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/portatil-chromebook-google-2774241.jpg?tf=1200x' alt='Por qué se ralentiza tu portátil y qué necesitas para solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elk-bledom-aparece-lista-dispositivos-bluetooth-1404907'>¿Qué es ELK-BLEDOM y por qué aparece en tu lista de dispositivos Bluetooth?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elk-bledom-aparece-lista-dispositivos-bluetooth-1404907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bluetooth-3656903.jpg?tf=1200x' alt='¿Qué es ELK-BLEDOM y por qué aparece en tu lista de dispositivos Bluetooth?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-huawei-elegante-pero-deportivo-tiene-nfc-pero-mejor-no-llega-200-euros-1404257'>Este reloj Huawei es elegante pero deportivo y hasta tiene NFC, pero lo mejor es que no llega a 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-huawei-elegante-pero-deportivo-tiene-nfc-pero-mejor-no-llega-200-euros-1404257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-watch-gt-3-pro-4140721.jpg?tf=1200x' alt='Este reloj Huawei es elegante pero deportivo y hasta tiene NFC, pero lo mejor es que no llega a 200 euros' />
     </a>
 </div>
 
