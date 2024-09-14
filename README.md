@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-liquida-pulsera-fitbit-precio-increible-cuesta-menos-30-euros-1404459'>AliExpress liquida una pulsera Fitbit a precio increíble: cuesta menos de 30 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-liquida-pulsera-fitbit-precio-increible-cuesta-menos-30-euros-1404459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fitbit-charge-2-4147483.jpg?tf=1200x' alt='AliExpress liquida una pulsera Fitbit a precio increíble: cuesta menos de 30 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/razon-gente-inteligente-prefiere-estar-sola-ciencia-1403999'>Esta es la razón por la que la gente inteligente prefiere estar sola, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/life/razon-gente-inteligente-prefiere-estar-sola-ciencia-1403999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/razon-gente-inteligente-prefiere-estar-sola-ciencia-4133222.jpg?tf=1200x' alt='Esta es la razón por la que la gente inteligente prefiere estar sola, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/tpm-windows-11-obliga-tengas-pc-1404653'>Qué es TPM y por qué Windows 11 obliga a que lo tengas en tu PC</a></h4>
     <a href='https://computerhoy.com/pc/tpm-windows-11-obliga-tengas-pc-1404653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tpm-windows-11-obliga-tengas-pc-4153358.jpg?tf=1200x' alt='Qué es TPM y por qué Windows 11 obliga a que lo tengas en tu PC' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/galaxy-ring-llega-espana-une-lista-pero-realmente-necesitas-anillo-inteligente-expertos-tienen-claro-salud-mercado-siglo-xxi-1404311'>El Galaxy Ring llega a España y se une a la lista, pero, ¿realmente necesitas un anillo inteligente? Los expertos lo tienen claro, "la salud es el mercado del siglo XXI"</a></h4>
     <a href='https://computerhoy.com/tecnologia/galaxy-ring-llega-espana-une-lista-pero-realmente-necesitas-anillo-inteligente-expertos-tienen-claro-salud-mercado-siglo-xxi-1404311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-ring-3614572.jpg?tf=1200x' alt='El Galaxy Ring llega a España y se une a la lista, pero, ¿realmente necesitas un anillo inteligente? Los expertos lo tienen claro, "la salud es el mercado del siglo XXI"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dyson-rival-espana-potente-aspiradora-menos-300-euros-1369062'>Dyson tiene un rival en España, y vende una aspiradora potentísima que se limpia sola por menos de 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dyson-rival-espana-potente-aspiradora-menos-300-euros-1369062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conga-rockstar-10000-nebula-3442022.jpg?tf=1200x' alt='Dyson tiene un rival en España, y vende una aspiradora potentísima que se limpia sola por menos de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/me-ha-gustado-honor-magic-v3-tan-fino-no-parece-plegable-1401899'>Lo que más me ha gustado del Honor Magic V3 es que es tan fino que no parece plegable</a></h4>
-    <a href='https://computerhoy.com/moviles/me-ha-gustado-honor-magic-v3-tan-fino-no-parece-plegable-1401899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/honor-magic-v3-4041361.jpg?tf=1200x' alt='Lo que más me ha gustado del Honor Magic V3 es que es tan fino que no parece plegable' />
     </a>
 </div>
 
