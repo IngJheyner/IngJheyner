@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-confirma-todos-modelos-iphone-16-tienen-8gb-ram-1405069'>Apple confirma que todos los modelos de iPhone 16 tienen 8GB de RAM</a></h4>
+    <a href='https://computerhoy.com/apple/apple-confirma-todos-modelos-iphone-16-tienen-8gb-ram-1405069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-pro-iphone-16-pro-max-4136921.jpg?tf=1200x' alt='Apple confirma que todos los modelos de iPhone 16 tienen 8GB de RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/no-tienen-nada-envidiar-airpods-pro-pero-cuestan-mitad-son-oneplus-presumen-mejor-anc-1405042'>No tienen nada que envidiar a los AirPods Pro, pero cuestan la mitad: son de OnePlus y presumen de la mejor ANC</a></h4>
+    <a href='https://computerhoy.com/audio/no-tienen-nada-envidiar-airpods-pro-pero-cuestan-mitad-son-oneplus-presumen-mejor-anc-1405042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aplicacion-oneplus-buds-pro-3-4113779.jpg?tf=1200x' alt='No tienen nada que envidiar a los AirPods Pro, pero cuestan la mitad: son de OnePlus y presumen de la mejor ANC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/vuelve-temido-error-android-auto-problemas-ejecutar-mapas-google-maps-1405055'>Vuelve este temido error a Android Auto: problemas al ejecutar mapas de Google Maps</a></h4>
     <a href='https://computerhoy.com/apps/vuelve-temido-error-android-auto-problemas-ejecutar-mapas-google-maps-1405055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-instales-version-android-auto-puede-dejarte-tirado-carretera-3563887.jpg?tf=1200x' alt='Vuelve este temido error a Android Auto: problemas al ejecutar mapas de Google Maps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-ya-no-incluira-caja-iphone-16-elemento-clasico-1405052'>Apple ya no incluirá en la caja del iPhone 16 este elemento clásico</a></h4>
     <a href='https://computerhoy.com/apple/apple-ya-no-incluira-caja-iphone-16-elemento-clasico-1405052' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/caja-varios-iphone-4170097.jpg?tf=1200x' alt='Apple ya no incluirá en la caja del iPhone 16 este elemento clásico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-confirma-ha-puesto-ya-trabajar-nueva-zona-horaria-luna-1405049'>La NASA confirma que se ha puesto ya a trabajar en la nueva zona horaria de la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-confirma-ha-puesto-ya-trabajar-nueva-zona-horaria-luna-1405049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/luna-4169952.jpg?tf=1200x' alt='La NASA confirma que se ha puesto ya a trabajar en la nueva zona horaria de la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peores-peliculas-pero-arnold-schwarzenegger-paga-1-dolar-cada-ano-warner-bros-no-olvidarla-1404284'>Es una de sus peores películas, pero Arnold Schwarzenegger paga 1 dólar cada año a Warner Bros para no olvidarla</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peores-peliculas-pero-arnold-schwarzenegger-paga-1-dolar-cada-ano-warner-bros-no-olvidarla-1404284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/arnold-schwarzenegger-terminator-2-3662261.jpg?tf=1200x' alt='Es una de sus peores películas, pero Arnold Schwarzenegger paga 1 dólar cada año a Warner Bros para no olvidarla' />
     </a>
 </div>
 
