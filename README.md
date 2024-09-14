@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-ya-no-incluira-caja-iphone-16-elemento-clasico-1405052'>Apple ya no incluirá en la caja del iPhone 16 este elemento clásico</a></h4>
+    <a href='https://computerhoy.com/apple/apple-ya-no-incluira-caja-iphone-16-elemento-clasico-1405052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/caja-varios-iphone-4170097.jpg?tf=1200x' alt='Apple ya no incluirá en la caja del iPhone 16 este elemento clásico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-confirma-ha-puesto-ya-trabajar-nueva-zona-horaria-luna-1405049'>La NASA confirma que se ha puesto ya a trabajar en la nueva zona horaria de la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-confirma-ha-puesto-ya-trabajar-nueva-zona-horaria-luna-1405049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/luna-4169952.jpg?tf=1200x' alt='La NASA confirma que se ha puesto ya a trabajar en la nueva zona horaria de la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peores-peliculas-pero-arnold-schwarzenegger-paga-1-dolar-cada-ano-warner-bros-no-olvidarla-1404284'>Es una de sus peores películas, pero Arnold Schwarzenegger paga 1 dólar cada año a Warner Bros para no olvidarla</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peores-peliculas-pero-arnold-schwarzenegger-paga-1-dolar-cada-ano-warner-bros-no-olvidarla-1404284' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/arnold-schwarzenegger-terminator-2-3662261.jpg?tf=1200x' alt='Es una de sus peores películas, pero Arnold Schwarzenegger paga 1 dólar cada año a Warner Bros para no olvidarla' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/motivos-deberias-guardar-consolas-antiguas-1397278'>4 motivos por los que deberías guardar tus consolas antiguas</a></h4>
+    <a href='https://computerhoy.com/gaming/motivos-deberias-guardar-consolas-antiguas-1397278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/4-motivos-deberias-guardar-consolas-antiguas-3808906.jpg?tf=1200x' alt='4 motivos por los que deberías guardar tus consolas antiguas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/starlink-cambia-siempre-conexion-wifi-viajes-avion-1405046'>Starlink cambia para siempre la conexión WiFi en los viajes de avión</a></h4>
     <a href='https://computerhoy.com/internet/starlink-cambia-siempre-conexion-wifi-viajes-avion-1405046' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/viajar-avion-4169794.jpg?tf=1200x' alt='Starlink cambia para siempre la conexión WiFi en los viajes de avión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/curioso-producto-xiaomi-cuesta-encontrar-espana-pero-aliexpress-vende-pais-1404713'>Es un curioso producto Xiaomi que cuesta encontrar en España, pero que AliExpress sí vende en nuestro país</a></h4>
-    <a href='https://computerhoy.com/tecnologia/curioso-producto-xiaomi-cuesta-encontrar-espana-pero-aliexpress-vende-pais-1404713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-mi-home-s100-4155155.jpg?tf=1200x' alt='Es un curioso producto Xiaomi que cuesta encontrar en España, pero que AliExpress sí vende en nuestro país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hacer-netflix-muestra-mensaje-cuenta-ya-uso-1403820'>Qué hacer si Netflix muestra el mensaje de que la cuenta ya está en uso</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hacer-netflix-muestra-mensaje-cuenta-ya-uso-1403820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-4113798.jpg?tf=1200x' alt='Qué hacer si Netflix muestra el mensaje de que la cuenta ya está en uso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/1-millon-dispositivos-android-tv-infectados-malware-1405043'>Más de 1 millón de dispositivos Android TV infectados por este malware</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/1-millon-dispositivos-android-tv-infectados-malware-1405043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-tv-malware-4169648.jpg?tf=1200x' alt='Más de 1 millón de dispositivos Android TV infectados por este malware' />
     </a>
 </div>
 
