@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/galaxy-ring-llega-espana-une-lista-pero-realmente-necesitas-anillo-inteligente-expertos-tienen-claro-salud-mercado-siglo-xxi-1404311'>El Galaxy Ring llega a España y se une a la lista, pero, ¿realmente necesitas un anillo inteligente? Los expertos lo tienen claro, "la salud es el mercado del siglo XXI"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/galaxy-ring-llega-espana-une-lista-pero-realmente-necesitas-anillo-inteligente-expertos-tienen-claro-salud-mercado-siglo-xxi-1404311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-ring-3614572.jpg?tf=1200x' alt='El Galaxy Ring llega a España y se une a la lista, pero, ¿realmente necesitas un anillo inteligente? Los expertos lo tienen claro, "la salud es el mercado del siglo XXI"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dyson-rival-espana-potente-aspiradora-menos-300-euros-1369062'>Dyson tiene un rival en España, y vende una aspiradora potentísima que se limpia sola por menos de 300 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dyson-rival-espana-potente-aspiradora-menos-300-euros-1369062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conga-rockstar-10000-nebula-3442022.jpg?tf=1200x' alt='Dyson tiene un rival en España, y vende una aspiradora potentísima que se limpia sola por menos de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/me-ha-gustado-honor-magic-v3-tan-fino-no-parece-plegable-1401899'>Lo que más me ha gustado del Honor Magic V3 es que es tan fino que no parece plegable</a></h4>
+    <a href='https://computerhoy.com/moviles/me-ha-gustado-honor-magic-v3-tan-fino-no-parece-plegable-1401899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/honor-magic-v3-4041361.jpg?tf=1200x' alt='Lo que más me ha gustado del Honor Magic V3 es que es tan fino que no parece plegable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/roca-ambar-puerta-valia-millon-euros-1404853'>Usó una roca para sujetar la puerta durante décadas, sin saber que valía un millón de euros</a></h4>
+    <a href='https://computerhoy.com/life/roca-ambar-puerta-valia-millon-euros-1404853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/uso-roca-sujetar-puerta-durante-decadas-saber-valia-millon-euros-4161581.jpg?tf=1200x' alt='Usó una roca para sujetar la puerta durante décadas, sin saber que valía un millón de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/pantalla-oled-camara-sony-gama-alta-precio-minimo-realme-1391491'>Pantalla OLED y cámara Sony de gama alta: realme da el golpe y rebaja un móvil potentísimo a su mínimo histórico</a></h4>
     <a href='https://computerhoy.com/android/pantalla-oled-camara-sony-gama-alta-precio-minimo-realme-1391491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/realme-12-pro-3308111.jpg?tf=1200x' alt='Pantalla OLED y cámara Sony de gama alta: realme da el golpe y rebaja un móvil potentísimo a su mínimo histórico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-chihiro-totoro-peliculas-studio-ghibli-menos-conocidas-obras-maestras-cine-1393063'>No solo existen Chihiro y Totoro: 5 películas de Studio Ghibli menos conocidas pero que son obras maestras</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/no-solo-chihiro-totoro-peliculas-studio-ghibli-menos-conocidas-obras-maestras-cine-1393063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-solo-chihiro-totoro-5-peliculas-studio-ghibli-menos-conocidas-son-obras-maestras-3607792.jpg?tf=1200x' alt='No solo existen Chihiro y Totoro: 5 películas de Studio Ghibli menos conocidas pero que son obras maestras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-actualizar-router-movistar-ultimo-firmware-todas-formas-conseguirlo-1405019'>Cómo actualizar tu router de Movistar al último firmware: todas las formas de conseguirlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-actualizar-router-movistar-ultimo-firmware-todas-formas-conseguirlo-1405019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-actualizar-router-movistar-ultimo-firmware-todas-formas-conseguirlo-4167233.jpg?tf=1200x' alt='Cómo actualizar tu router de Movistar al último firmware: todas las formas de conseguirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/pagan-rescate-ransomware-pero-clave-no-funciona-bug-1405023'>Pagan el rescate de un ransomware, pero la clave no funciona por un bug</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/pagan-rescate-ransomware-pero-clave-no-funciona-bug-1405023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pagan-rescate-ransomware-pero-clave-no-funciona-bug-malware-4166218.jpg?tf=1200x' alt='Pagan el rescate de un ransomware, pero la clave no funciona por un bug' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tiendas-terceros-llegan-ipad-solo-ue-1405020'>Las tiendas de terceros llegan al iPad, solo en la UE</a></h4>
-    <a href='https://computerhoy.com/apple/tiendas-terceros-llegan-ipad-solo-ue-1405020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipad-air-m2-13-pulgadas-3502066.jpg?tf=1200x' alt='Las tiendas de terceros llegan al iPad, solo en la UE' />
     </a>
 </div>
 
