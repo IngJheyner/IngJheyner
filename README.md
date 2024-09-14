@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peores-peliculas-pero-arnold-schwarzenegger-paga-1-dolar-cada-ano-warner-bros-no-olvidarla-1404284'>Es una de sus peores películas, pero Arnold Schwarzenegger paga 1 dólar cada año a Warner Bros para no olvidarla</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peores-peliculas-pero-arnold-schwarzenegger-paga-1-dolar-cada-ano-warner-bros-no-olvidarla-1404284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/arnold-schwarzenegger-terminator-2-3662261.jpg?tf=1200x' alt='Es una de sus peores películas, pero Arnold Schwarzenegger paga 1 dólar cada año a Warner Bros para no olvidarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/starlink-cambia-siempre-conexion-wifi-viajes-avion-1405046'>Starlink cambia para siempre la conexión WiFi en los viajes de avión</a></h4>
+    <a href='https://computerhoy.com/internet/starlink-cambia-siempre-conexion-wifi-viajes-avion-1405046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/viajar-avion-4169794.jpg?tf=1200x' alt='Starlink cambia para siempre la conexión WiFi en los viajes de avión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/curioso-producto-xiaomi-cuesta-encontrar-espana-pero-aliexpress-vende-pais-1404713'>Es un curioso producto Xiaomi que cuesta encontrar en España, pero que AliExpress sí vende en nuestro país</a></h4>
+    <a href='https://computerhoy.com/tecnologia/curioso-producto-xiaomi-cuesta-encontrar-espana-pero-aliexpress-vende-pais-1404713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-mi-home-s100-4155155.jpg?tf=1200x' alt='Es un curioso producto Xiaomi que cuesta encontrar en España, pero que AliExpress sí vende en nuestro país' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/hacer-netflix-muestra-mensaje-cuenta-ya-uso-1403820'>Qué hacer si Netflix muestra el mensaje de que la cuenta ya está en uso</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacer-netflix-muestra-mensaje-cuenta-ya-uso-1403820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-4113798.jpg?tf=1200x' alt='Qué hacer si Netflix muestra el mensaje de que la cuenta ya está en uso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/1-millon-dispositivos-android-tv-infectados-malware-1405043'>Más de 1 millón de dispositivos Android TV infectados por este malware</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/1-millon-dispositivos-android-tv-infectados-malware-1405043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-tv-malware-4169648.jpg?tf=1200x' alt='Más de 1 millón de dispositivos Android TV infectados por este malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/significan-pequenas-flechas-junto-iconos-wifi-bluetooth-4g-5g-movil-1404657'>Qué significan las pequeñas flechas junto a los iconos del WiFi, Bluetooth y 4G/5G en el móvil</a></h4>
-    <a href='https://computerhoy.com/android/significan-pequenas-flechas-junto-iconos-wifi-bluetooth-4g-5g-movil-1404657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/significan-pequenas-flechas-junto-iconos-wifi-bluetooth-4g-5g-movil-4153664.jpg?tf=1200x' alt='Qué significan las pequeñas flechas junto a los iconos del WiFi, Bluetooth y 4G/5G en el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-liquida-pulsera-fitbit-precio-increible-cuesta-menos-30-euros-1404459'>AliExpress liquida una pulsera Fitbit a precio increíble: cuesta menos de 30 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-liquida-pulsera-fitbit-precio-increible-cuesta-menos-30-euros-1404459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fitbit-charge-2-4147483.jpg?tf=1200x' alt='AliExpress liquida una pulsera Fitbit a precio increíble: cuesta menos de 30 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/razon-gente-inteligente-prefiere-estar-sola-ciencia-1403999'>Esta es la razón por la que la gente inteligente prefiere estar sola, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/life/razon-gente-inteligente-prefiere-estar-sola-ciencia-1403999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/razon-gente-inteligente-prefiere-estar-sola-ciencia-4133222.jpg?tf=1200x' alt='Esta es la razón por la que la gente inteligente prefiere estar sola, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/tpm-windows-11-obliga-tengas-pc-1404653'>Qué es TPM y por qué Windows 11 obliga a que lo tengas en tu PC</a></h4>
-    <a href='https://computerhoy.com/pc/tpm-windows-11-obliga-tengas-pc-1404653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tpm-windows-11-obliga-tengas-pc-4153358.jpg?tf=1200x' alt='Qué es TPM y por qué Windows 11 obliga a que lo tengas en tu PC' />
     </a>
 </div>
 
