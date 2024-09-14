@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/tpm-windows-11-obliga-tengas-pc-1404653'>Qué es TPM y por qué Windows 11 obliga a que lo tengas en tu PC</a></h4>
+    <a href='https://computerhoy.com/pc/tpm-windows-11-obliga-tengas-pc-1404653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tpm-windows-11-obliga-tengas-pc-4153358.jpg?tf=1200x' alt='Qué es TPM y por qué Windows 11 obliga a que lo tengas en tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/funciones-exclusivas-moviles-xiaomi-no-conocias-1404654'>10 funciones exclusivas de los móviles Xiaomi que no conocías</a></h4>
+    <a href='https://computerhoy.com/moviles/funciones-exclusivas-moviles-xiaomi-no-conocias-1404654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apps-xiaomi-4153231.jpg?tf=1200x' alt='10 funciones exclusivas de los móviles Xiaomi que no conocías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/galaxy-ring-llega-espana-une-lista-pero-realmente-necesitas-anillo-inteligente-expertos-tienen-claro-salud-mercado-siglo-xxi-1404311'>El Galaxy Ring llega a España y se une a la lista, pero, ¿realmente necesitas un anillo inteligente? Los expertos lo tienen claro, "la salud es el mercado del siglo XXI"</a></h4>
     <a href='https://computerhoy.com/tecnologia/galaxy-ring-llega-espana-une-lista-pero-realmente-necesitas-anillo-inteligente-expertos-tienen-claro-salud-mercado-siglo-xxi-1404311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-ring-3614572.jpg?tf=1200x' alt='El Galaxy Ring llega a España y se une a la lista, pero, ¿realmente necesitas un anillo inteligente? Los expertos lo tienen claro, "la salud es el mercado del siglo XXI"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/me-ha-gustado-honor-magic-v3-tan-fino-no-parece-plegable-1401899'>Lo que más me ha gustado del Honor Magic V3 es que es tan fino que no parece plegable</a></h4>
     <a href='https://computerhoy.com/moviles/me-ha-gustado-honor-magic-v3-tan-fino-no-parece-plegable-1401899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/honor-magic-v3-4041361.jpg?tf=1200x' alt='Lo que más me ha gustado del Honor Magic V3 es que es tan fino que no parece plegable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/roca-ambar-puerta-valia-millon-euros-1404853'>Usó una roca para sujetar la puerta durante décadas, sin saber que valía un millón de euros</a></h4>
-    <a href='https://computerhoy.com/life/roca-ambar-puerta-valia-millon-euros-1404853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/uso-roca-sujetar-puerta-durante-decadas-saber-valia-millon-euros-4161581.jpg?tf=1200x' alt='Usó una roca para sujetar la puerta durante décadas, sin saber que valía un millón de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/pantalla-oled-camara-sony-gama-alta-precio-minimo-realme-1391491'>Pantalla OLED y cámara Sony de gama alta: realme da el golpe y rebaja un móvil potentísimo a su mínimo histórico</a></h4>
-    <a href='https://computerhoy.com/android/pantalla-oled-camara-sony-gama-alta-precio-minimo-realme-1391491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/realme-12-pro-3308111.jpg?tf=1200x' alt='Pantalla OLED y cámara Sony de gama alta: realme da el golpe y rebaja un móvil potentísimo a su mínimo histórico' />
     </a>
 </div>
 
