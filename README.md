@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-actualizar-router-movistar-ultimo-firmware-todas-formas-conseguirlo-1405019'>Cómo actualizar tu router de Movistar al último firmware: todas las formas de conseguirlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-actualizar-router-movistar-ultimo-firmware-todas-formas-conseguirlo-1405019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-actualizar-router-movistar-ultimo-firmware-todas-formas-conseguirlo-4167233.jpg?tf=1200x' alt='Cómo actualizar tu router de Movistar al último firmware: todas las formas de conseguirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/pagan-rescate-ransomware-pero-clave-no-funciona-bug-1405023'>Pagan el rescate de un ransomware, pero la clave no funciona por un bug</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/pagan-rescate-ransomware-pero-clave-no-funciona-bug-1405023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pagan-rescate-ransomware-pero-clave-no-funciona-bug-malware-4166218.jpg?tf=1200x' alt='Pagan el rescate de un ransomware, pero la clave no funciona por un bug' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/confirmado-saga-suspense-celebrada-netflix-convertira-trilogia-presupuesto-disparara-cinco-veces-1403827'>Está confirmado: la saga de suspense más celebrada de Netflix se convertirá en trilogía, y su presupuesto se disparará cinco veces</a></h4>
     <a href='https://computerhoy.com/entretenimiento/confirmado-saga-suspense-celebrada-netflix-convertira-trilogia-presupuesto-disparara-cinco-veces-1403827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/confirmado-saga-suspense-celebrada-netflix-convertira-trilogia-presupuesto-disparara-doble-4113945.jpg?tf=1200x' alt='Está confirmado: la saga de suspense más celebrada de Netflix se convertirá en trilogía, y su presupuesto se disparará cinco veces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/zoom-plataforma-videollamadas-conecto-mundo-1402064'>Zoom, así es la plataforma de videollamadas que conectó al mundo durante la COVID-19</a></h4>
-    <a href='https://computerhoy.com/pc/zoom-plataforma-videollamadas-conecto-mundo-1402064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/zoom-videollamadas-4043528.jpg?tf=1200x' alt='Zoom, así es la plataforma de videollamadas que conectó al mundo durante la COVID-19' />
     </a>
 </div>
 
