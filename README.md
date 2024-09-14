@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/vuelve-temido-error-android-auto-problemas-ejecutar-mapas-google-maps-1405055'>Vuelve este temido error a Android Auto: problemas al ejecutar mapas de Google Maps</a></h4>
+    <a href='https://computerhoy.com/apps/vuelve-temido-error-android-auto-problemas-ejecutar-mapas-google-maps-1405055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-instales-version-android-auto-puede-dejarte-tirado-carretera-3563887.jpg?tf=1200x' alt='Vuelve este temido error a Android Auto: problemas al ejecutar mapas de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/estas-aplicaciones-populares-android-solicitan-permisos-peligrosos-whatsapp-facebook-estan-lista-1405053'>Estas aplicaciones populares de Android solicitan permisos peligrosos: WhatsApp y Facebook están en la lista</a></h4>
     <a href='https://computerhoy.com/apps/estas-aplicaciones-populares-android-solicitan-permisos-peligrosos-whatsapp-facebook-estan-lista-1405053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aplicaciones-android-peligrosas-4170392.jpg?tf=1200x' alt='Estas aplicaciones populares de Android solicitan permisos peligrosos: WhatsApp y Facebook están en la lista' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peores-peliculas-pero-arnold-schwarzenegger-paga-1-dolar-cada-ano-warner-bros-no-olvidarla-1404284'>Es una de sus peores películas, pero Arnold Schwarzenegger paga 1 dólar cada año a Warner Bros para no olvidarla</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peores-peliculas-pero-arnold-schwarzenegger-paga-1-dolar-cada-ano-warner-bros-no-olvidarla-1404284' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/arnold-schwarzenegger-terminator-2-3662261.jpg?tf=1200x' alt='Es una de sus peores películas, pero Arnold Schwarzenegger paga 1 dólar cada año a Warner Bros para no olvidarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/motivos-deberias-guardar-consolas-antiguas-1397278'>4 motivos por los que deberías guardar tus consolas antiguas</a></h4>
-    <a href='https://computerhoy.com/gaming/motivos-deberias-guardar-consolas-antiguas-1397278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/4-motivos-deberias-guardar-consolas-antiguas-3808906.jpg?tf=1200x' alt='4 motivos por los que deberías guardar tus consolas antiguas' />
     </a>
 </div>
 
