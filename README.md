@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-confiesa-quita-sueno-noches-evitamos-gran-guerra-habra-otra-pandemia-1404760'>Bill Gates confiesa qué le quita el sueño por las noches: “Si evitamos una gran guerra… habrá otra pandemia”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bill-gates-confiesa-quita-sueno-noches-evitamos-gran-guerra-habra-otra-pandemia-1404760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bill-gates-4156580.jpg?tf=1200x' alt='Bill Gates confiesa qué le quita el sueño por las noches: “Si evitamos una gran guerra… habrá otra pandemia”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/traducciones-internet-cambiaran-siempre-actualizacion-google-lens-chrome-1405088'>Las traducciones en Internet cambiarán para siempre con esta actualización de Google Lens en Chrome</a></h4>
+    <a href='https://computerhoy.com/tecnologia/traducciones-internet-cambiaran-siempre-actualizacion-google-lens-chrome-1405088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-lens-4176348.jpg?tf=1200x' alt='Las traducciones en Internet cambiarán para siempre con esta actualización de Google Lens en Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/tablet-lector-libros-mismo-dispositivo-boox-vende-dispositivo-realmente-rompedor-1405084'>Tablet y lector de libros en un mismo dispositivo: Boox vende un dispositivo realmente rompedor</a></h4>
     <a href='https://computerhoy.com/android/tablet-lector-libros-mismo-dispositivo-boox-vende-dispositivo-realmente-rompedor-1405084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/boox-go-4176055.jpg?tf=1200x' alt='Tablet y lector de libros en un mismo dispositivo: Boox vende un dispositivo realmente rompedor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-aplicaciones-usadas-windows-11-llega-estas-novedades-1405086'>La última actualización para una de las aplicaciones más usadas de Windows 11 llega con estas novedades</a></h4>
     <a href='https://computerhoy.com/windows/ultima-actualizacion-aplicaciones-usadas-windows-11-llega-estas-novedades-1405086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/notas-rapidas-windows-11-4176347.jpg?tf=1200x' alt='La última actualización para una de las aplicaciones más usadas de Windows 11 llega con estas novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-puedes-borrar-waze-mejor-alternativa-ha-llegado-promete-librarte-todos-radares-1402733'>Ya puedes borrar Waze: la mejor alternativa ha llegado y promete librarte de todos los radares</a></h4>
-    <a href='https://computerhoy.com/apps/ya-puedes-borrar-waze-mejor-alternativa-ha-llegado-promete-librarte-todos-radares-1402733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ya-puedes-borrar-waze-mejor-alternativa-ha-llegado-promete-librarte-todos-radares-4067760.jpg?tf=1200x' alt='Ya puedes borrar Waze: la mejor alternativa ha llegado y promete librarte de todos los radares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tesla-sorprende-primer-tren-electrico-capacidad-500-personas-billetes-gratuitos-1405073'>Tesla sorprende con su primer tren eléctrico con capacidad para 500 personas y billetes gratuitos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tesla-sorprende-primer-tren-electrico-capacidad-500-personas-billetes-gratuitos-1405073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tesla-sorprende-primer-tren-electrico-capacidad-500-personas-billetes-gratuitos-4172007.jpg?tf=1200x' alt='Tesla sorprende con su primer tren eléctrico con capacidad para 500 personas y billetes gratuitos' />
     </a>
 </div>
 
