@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/qualcomm-todo-mayor-fabricante-procesadores-moviles-chips-snapdragon-1400804'>Qualcomm: todo sobre el mayor fabricante de procesadores móviles y sus chips Snapdragon</a></h4>
+    <a href='https://computerhoy.com/industria/qualcomm-todo-mayor-fabricante-procesadores-moviles-chips-snapdragon-1400804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/qualcomm-4050694.jpg?tf=1200x' alt='Qualcomm: todo sobre el mayor fabricante de procesadores móviles y sus chips Snapdragon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-quiere-te-quedes-mucho-tiempo-usando-chrome-sugiriendote-paginas-podrian-gustarte-1405099'>Google quiere que te quedes mucho más tiempo usando Chrome sugiriéndote páginas que podrían gustarte</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-quiere-te-quedes-mucho-tiempo-usando-chrome-sugiriendote-paginas-podrian-gustarte-1405099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-chrome-4176791.jpg?tf=1200x' alt='Google quiere que te quedes mucho más tiempo usando Chrome sugiriéndote páginas que podrían gustarte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/tienes-tirado-cajon-puede-convertirse-mejor-repetidor-wifi-1398265'>Lo tienes tirado en un cajón sin usar y puede convertirse en tu mejor repetidor WiFi</a></h4>
     <a href='https://computerhoy.com/redes/tienes-tirado-cajon-puede-convertirse-mejor-repetidor-wifi-1398265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-olvidado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-3850209.jpg?tf=1200x' alt='Lo tienes tirado en un cajón sin usar y puede convertirse en tu mejor repetidor WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/inicio-sesion-windows-microsoft-avisa-no-usar-contrasena-1390016'>Microsoft no quiere que uses contraseña para iniciar sesión en Windows 10 y 11</a></h4>
-    <a href='https://computerhoy.com/inicio-sesion-windows-microsoft-avisa-no-usar-contrasena-1390016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/passkeys-microsoft-3307510.jpg?tf=1200x' alt='Microsoft no quiere que uses contraseña para iniciar sesión en Windows 10 y 11' />
     </a>
 </div>
 
