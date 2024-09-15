@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/plex-kodi-dispositivo-android-xiaomi-sin-complicaciones-1392273'>Plex, Kodi y mucho más sin complicaciones: Xiaomi vende un aparato que pone Android en tu televisor, y está rebajado</a></h4>
+    <a href='https://computerhoy.com/android/plex-kodi-dispositivo-android-xiaomi-sin-complicaciones-1392273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-box-s-2nd-gen-3280982.jpg?tf=1200x' alt='Plex, Kodi y mucho más sin complicaciones: Xiaomi vende un aparato que pone Android en tu televisor, y está rebajado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-chrome-te-ofrecera-nuevas-funcionalidades-seguridad-privacidad-funciona-cada-1405072'>Google Chrome te ofrecerá nuevas funcionalidades de seguridad y privacidad: así funciona cada una</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-chrome-te-ofrecera-nuevas-funcionalidades-seguridad-privacidad-funciona-cada-1405072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/seguridad-google-chrome-4171861.jpg?tf=1200x' alt='Google Chrome te ofrecerá nuevas funcionalidades de seguridad y privacidad: así funciona cada una' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/vuelve-temido-error-android-auto-problemas-ejecutar-mapas-google-maps-1405055'>Vuelve este temido error a Android Auto: problemas al ejecutar mapas de Google Maps</a></h4>
     <a href='https://computerhoy.com/apps/vuelve-temido-error-android-auto-problemas-ejecutar-mapas-google-maps-1405055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-instales-version-android-auto-puede-dejarte-tirado-carretera-3563887.jpg?tf=1200x' alt='Vuelve este temido error a Android Auto: problemas al ejecutar mapas de Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-aplicaciones-populares-android-solicitan-permisos-peligrosos-whatsapp-facebook-estan-lista-1405053'>Estas aplicaciones populares de Android solicitan permisos peligrosos: WhatsApp y Facebook están en la lista</a></h4>
-    <a href='https://computerhoy.com/apps/estas-aplicaciones-populares-android-solicitan-permisos-peligrosos-whatsapp-facebook-estan-lista-1405053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aplicaciones-android-peligrosas-4170392.jpg?tf=1200x' alt='Estas aplicaciones populares de Android solicitan permisos peligrosos: WhatsApp y Facebook están en la lista' />
     </a>
 </div>
 
