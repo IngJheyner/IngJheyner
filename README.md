@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/plex-kodi-dispositivo-android-xiaomi-sin-complicaciones-1392273'>Plex, Kodi y mucho más sin complicaciones: Xiaomi vende un aparato que pone Android en tu televisor, y está rebajado</a></h4>
-    <a href='https://computerhoy.com/android/plex-kodi-dispositivo-android-xiaomi-sin-complicaciones-1392273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-box-s-2nd-gen-3280982.jpg?tf=1200x' alt='Plex, Kodi y mucho más sin complicaciones: Xiaomi vende un aparato que pone Android en tu televisor, y está rebajado' />
+    <h4><a href='https://computerhoy.com/tecnologia/espionaje-marketing-todo-sacado-contexto-polemica-google-amazon-meta-escucha-movil-tela-juicio-1404312'>¿Espionaje, marketing o está todo sacado de contexto? La polémica de Google, Amazon y Meta y la escucha de tu móvil en tela de juicio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/espionaje-marketing-todo-sacado-contexto-polemica-google-amazon-meta-escucha-movil-tela-juicio-1404312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/movil-te-escucha-4098430.jpg?tf=1200x' alt='¿Espionaje, marketing o está todo sacado de contexto? La polémica de Google, Amazon y Meta y la escucha de tu móvil en tela de juicio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-chrome-te-ofrecera-nuevas-funcionalidades-seguridad-privacidad-funciona-cada-1405072'>Google Chrome te ofrecerá nuevas funcionalidades de seguridad y privacidad: así funciona cada una</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-chrome-te-ofrecera-nuevas-funcionalidades-seguridad-privacidad-funciona-cada-1405072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/seguridad-google-chrome-4171861.jpg?tf=1200x' alt='Google Chrome te ofrecerá nuevas funcionalidades de seguridad y privacidad: así funciona cada una' />
+    <h4><a href='https://computerhoy.com/tecnologia/adios-google-nordvpn-nube-privada-prueba-gratis-1389514'>Adiós a Google Drive: NordVPN ofrece nube privada, y te deja probarla gratis con 3GB</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-google-nordvpn-nube-privada-prueba-gratis-1389514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordlocker-nordvpn-3285069.jpg?tf=1200x' alt='Adiós a Google Drive: NordVPN ofrece nube privada, y te deja probarla gratis con 3GB' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-confirma-todos-modelos-iphone-16-tienen-8gb-ram-1405069'>Apple confirma que todos los modelos de iPhone 16 tienen 8GB de RAM</a></h4>
-    <a href='https://computerhoy.com/apple/apple-confirma-todos-modelos-iphone-16-tienen-8gb-ram-1405069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-pro-iphone-16-pro-max-4136921.jpg?tf=1200x' alt='Apple confirma que todos los modelos de iPhone 16 tienen 8GB de RAM' />
+    <h4><a href='https://computerhoy.com/apps/conductor-confia-atajo-sugerido-google-maps-acaba-cayendo-rio-1405058'>Conductor confía en un atajo sugerido por Google Maps y acaba cayendo a un río</a></h4>
+    <a href='https://computerhoy.com/apps/conductor-confia-atajo-sugerido-google-maps-acaba-cayendo-rio-1405058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/conductor-senala-ruta-peligrosa-google-maps-4170686.jpg?tf=1200x' alt='Conductor confía en un atajo sugerido por Google Maps y acaba cayendo a un río' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/no-tienen-nada-envidiar-airpods-pro-pero-cuestan-mitad-son-oneplus-presumen-mejor-anc-1405042'>No tienen nada que envidiar a los AirPods Pro, pero cuestan la mitad: son de OnePlus y presumen de la mejor ANC</a></h4>
-    <a href='https://computerhoy.com/audio/no-tienen-nada-envidiar-airpods-pro-pero-cuestan-mitad-son-oneplus-presumen-mejor-anc-1405042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aplicacion-oneplus-buds-pro-3-4113779.jpg?tf=1200x' alt='No tienen nada que envidiar a los AirPods Pro, pero cuestan la mitad: son de OnePlus y presumen de la mejor ANC' />
+    <h4><a href='https://computerhoy.com/internet/cloaking-google-te-hara-desaparecer-internet-usas-1401838'>¿Qué es el cloaking y por qué Google te hará desaparecer de internet si lo usas?</a></h4>
+    <a href='https://computerhoy.com/internet/cloaking-google-te-hara-desaparecer-internet-usas-1401838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1726219120998-4162674.jpg?tf=1200x' alt='¿Qué es el cloaking y por qué Google te hará desaparecer de internet si lo usas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/vuelve-temido-error-android-auto-problemas-ejecutar-mapas-google-maps-1405055'>Vuelve este temido error a Android Auto: problemas al ejecutar mapas de Google Maps</a></h4>
-    <a href='https://computerhoy.com/apps/vuelve-temido-error-android-auto-problemas-ejecutar-mapas-google-maps-1405055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-instales-version-android-auto-puede-dejarte-tirado-carretera-3563887.jpg?tf=1200x' alt='Vuelve este temido error a Android Auto: problemas al ejecutar mapas de Google Maps' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-roborock-qrevo-curv-robot-limpieza-me-ha-convencido-ia-sirve-algo-generar-imagenes-1403598'>He probado el Roborock Qrevo Curv, un robot de limpieza que me ha convencido de que la IA sirve para algo más que generar imágenes</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-roborock-qrevo-curv-robot-limpieza-me-ha-convencido-ia-sirve-algo-generar-imagenes-1403598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/roborock-qrevo-curv-4108121.jpg?tf=1200x' alt='He probado el Roborock Qrevo Curv, un robot de limpieza que me ha convencido de que la IA sirve para algo más que generar imágenes' />
     </a>
 </div>
 
