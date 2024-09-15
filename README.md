@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/android-auto-129-beta-ya-disponible-novedades-como-puedes-instalarla-ya-mismo-1405094'>Android Auto 12.9 beta ya disponible: novedades y cómo puedes instalarla ya mismo</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-129-beta-ya-disponible-novedades-como-puedes-instalarla-ya-mismo-1405094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-auto-129-4176497.jpg?tf=1200x' alt='Android Auto 12.9 beta ya disponible: novedades y cómo puedes instalarla ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/bill-gates-confiesa-quita-sueno-noches-evitamos-gran-guerra-habra-otra-pandemia-1404760'>Bill Gates confiesa qué le quita el sueño por las noches: “Si evitamos una gran guerra… habrá otra pandemia”</a></h4>
     <a href='https://computerhoy.com/tecnologia/bill-gates-confiesa-quita-sueno-noches-evitamos-gran-guerra-habra-otra-pandemia-1404760' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bill-gates-4156580.jpg?tf=1200x' alt='Bill Gates confiesa qué le quita el sueño por las noches: “Si evitamos una gran guerra… habrá otra pandemia”' />
@@ -58,33 +66,25 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/inicio-sesion-windows-microsoft-avisa-no-usar-contrasena-1390016'>Microsoft no quiere que uses contraseña para iniciar sesión en Windows 10 y 11</a></h4>
+    <a href='https://computerhoy.com/inicio-sesion-windows-microsoft-avisa-no-usar-contrasena-1390016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/passkeys-microsoft-3307510.jpg?tf=1200x' alt='Microsoft no quiere que uses contraseña para iniciar sesión en Windows 10 y 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/tienes-tirado-cajon-puede-convertirse-mejor-repetidor-wifi-1398265'>Lo tienes tirado en un cajón sin usar y puede convertirse en tu mejor repetidor WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/tienes-tirado-cajon-puede-convertirse-mejor-repetidor-wifi-1398265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-olvidado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-3850209.jpg?tf=1200x' alt='Lo tienes tirado en un cajón sin usar y puede convertirse en tu mejor repetidor WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/traducciones-internet-cambiaran-siempre-actualizacion-google-lens-chrome-1405088'>Las traducciones en Internet cambiarán para siempre con esta actualización de Google Lens en Chrome</a></h4>
     <a href='https://computerhoy.com/tecnologia/traducciones-internet-cambiaran-siempre-actualizacion-google-lens-chrome-1405088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-lens-4176348.jpg?tf=1200x' alt='Las traducciones en Internet cambiarán para siempre con esta actualización de Google Lens en Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/tablet-lector-libros-mismo-dispositivo-boox-vende-dispositivo-realmente-rompedor-1405084'>Tablet y lector de libros en un mismo dispositivo: Boox vende un dispositivo realmente rompedor</a></h4>
-    <a href='https://computerhoy.com/android/tablet-lector-libros-mismo-dispositivo-boox-vende-dispositivo-realmente-rompedor-1405084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/boox-go-4176055.jpg?tf=1200x' alt='Tablet y lector de libros en un mismo dispositivo: Boox vende un dispositivo realmente rompedor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-personalizar-iconos-apps-movil-android-nova-launcher-1404599'>Cómo personalizar los iconos de las apps en tu móvil Android con Nova Launcher</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-personalizar-iconos-apps-movil-android-nova-launcher-1404599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aplicaciones-movil-android-4150151.jpg?tf=1200x' alt='Cómo personalizar los iconos de las apps en tu móvil Android con Nova Launcher' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-aplicaciones-usadas-windows-11-llega-estas-novedades-1405086'>La última actualización para una de las aplicaciones más usadas de Windows 11 llega con estas novedades</a></h4>
-    <a href='https://computerhoy.com/windows/ultima-actualizacion-aplicaciones-usadas-windows-11-llega-estas-novedades-1405086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/notas-rapidas-windows-11-4176347.jpg?tf=1200x' alt='La última actualización para una de las aplicaciones más usadas de Windows 11 llega con estas novedades' />
     </a>
 </div>
 
