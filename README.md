@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/android-auto-como-saber-version-tienes-instalada-movil-necesitas-actualizarla-como-hacerlo-1404835'>Android Auto: cómo saber qué versión tienes instalada en el móvil, si necesitas actualizarla y cómo hacerlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/android-auto-como-saber-version-tienes-instalada-movil-necesitas-actualizarla-como-hacerlo-1404835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-auto-como-saber-version-tienes-instalada-movil-necesitas-actualizarla-como-hacerlo-4160981.jpg?tf=1200x' alt='Android Auto: cómo saber qué versión tienes instalada en el móvil, si necesitas actualizarla y cómo hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gama-alta-te-parece-prohibitiva-oneplus-te-propone-algo-movil-500-euros-igual-potente-1000-1404473'>Si la gama alta te parece prohibitiva, OnePlus te propone algo: este móvil de 500 euros es igual de potente que uno de 1.000</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gama-alta-te-parece-prohibitiva-oneplus-te-propone-algo-movil-500-euros-igual-potente-1000-1404473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oneplus-12r-3303962.jpg?tf=1200x' alt='Si la gama alta te parece prohibitiva, OnePlus te propone algo: este móvil de 500 euros es igual de potente que uno de 1.000' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/cuenta-ya-no-puede-usar-whatsapp-como-recuperar-cuenta-bloqueada-whatsapp-1404834'>Esta cuenta ya no puede usar WhatsApp: cómo recuperar una cuenta bloqueada de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/cuenta-ya-no-puede-usar-whatsapp-como-recuperar-cuenta-bloqueada-whatsapp-1404834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cuenta-ya-no-puede-usar-whatsapp-como-recuperar-cuenta-bloqueada-whatsapp-4160687.jpg?tf=1200x' alt='Esta cuenta ya no puede usar WhatsApp: cómo recuperar una cuenta bloqueada de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/cual-diferencia-software-hardware-firmware-1404655'>¿Cuál es la diferencia entre software, hardware y firmware?</a></h4>
     <a href='https://computerhoy.com/pc/cual-diferencia-software-hardware-firmware-1404655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hardware-software-firmware-4157229.jpg?tf=1200x' alt='¿Cuál es la diferencia entre software, hardware y firmware?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/espionaje-marketing-todo-sacado-contexto-polemica-google-amazon-meta-escucha-movil-tela-juicio-1404312'>¿Espionaje, marketing o está todo sacado de contexto? La polémica de Google, Amazon y Meta y la escucha de tu móvil en tela de juicio</a></h4>
     <a href='https://computerhoy.com/tecnologia/espionaje-marketing-todo-sacado-contexto-polemica-google-amazon-meta-escucha-movil-tela-juicio-1404312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/movil-te-escucha-4098430.jpg?tf=1200x' alt='¿Espionaje, marketing o está todo sacado de contexto? La polémica de Google, Amazon y Meta y la escucha de tu móvil en tela de juicio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-google-nordvpn-nube-privada-prueba-gratis-1389514'>Adiós a Google Drive: NordVPN ofrece nube privada, y te deja probarla gratis con 3GB</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-google-nordvpn-nube-privada-prueba-gratis-1389514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordlocker-nordvpn-3285069.jpg?tf=1200x' alt='Adiós a Google Drive: NordVPN ofrece nube privada, y te deja probarla gratis con 3GB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/conductor-confia-atajo-sugerido-google-maps-acaba-cayendo-rio-1405058'>Conductor confía en un atajo sugerido por Google Maps y acaba cayendo a un río</a></h4>
-    <a href='https://computerhoy.com/apps/conductor-confia-atajo-sugerido-google-maps-acaba-cayendo-rio-1405058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/conductor-senala-ruta-peligrosa-google-maps-4170686.jpg?tf=1200x' alt='Conductor confía en un atajo sugerido por Google Maps y acaba cayendo a un río' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cloaking-google-te-hara-desaparecer-internet-usas-1401838'>¿Qué es el cloaking y por qué Google te hará desaparecer de internet si lo usas?</a></h4>
-    <a href='https://computerhoy.com/internet/cloaking-google-te-hara-desaparecer-internet-usas-1401838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1726219120998-4162674.jpg?tf=1200x' alt='¿Qué es el cloaking y por qué Google te hará desaparecer de internet si lo usas?' />
     </a>
 </div>
 
