@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/cual-diferencia-software-hardware-firmware-1404655'>¿Cuál es la diferencia entre software, hardware y firmware?</a></h4>
+    <a href='https://computerhoy.com/pc/cual-diferencia-software-hardware-firmware-1404655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hardware-software-firmware-4157229.jpg?tf=1200x' alt='¿Cuál es la diferencia entre software, hardware y firmware?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/espionaje-marketing-todo-sacado-contexto-polemica-google-amazon-meta-escucha-movil-tela-juicio-1404312'>¿Espionaje, marketing o está todo sacado de contexto? La polémica de Google, Amazon y Meta y la escucha de tu móvil en tela de juicio</a></h4>
     <a href='https://computerhoy.com/tecnologia/espionaje-marketing-todo-sacado-contexto-polemica-google-amazon-meta-escucha-movil-tela-juicio-1404312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/movil-te-escucha-4098430.jpg?tf=1200x' alt='¿Espionaje, marketing o está todo sacado de contexto? La polémica de Google, Amazon y Meta y la escucha de tu móvil en tela de juicio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/cloaking-google-te-hara-desaparecer-internet-usas-1401838'>¿Qué es el cloaking y por qué Google te hará desaparecer de internet si lo usas?</a></h4>
     <a href='https://computerhoy.com/internet/cloaking-google-te-hara-desaparecer-internet-usas-1401838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1726219120998-4162674.jpg?tf=1200x' alt='¿Qué es el cloaking y por qué Google te hará desaparecer de internet si lo usas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-roborock-qrevo-curv-robot-limpieza-me-ha-convencido-ia-sirve-algo-generar-imagenes-1403598'>He probado el Roborock Qrevo Curv, un robot de limpieza que me ha convencido de que la IA sirve para algo más que generar imágenes</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-roborock-qrevo-curv-robot-limpieza-me-ha-convencido-ia-sirve-algo-generar-imagenes-1403598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/roborock-qrevo-curv-4108121.jpg?tf=1200x' alt='He probado el Roborock Qrevo Curv, un robot de limpieza que me ha convencido de que la IA sirve para algo más que generar imágenes' />
     </a>
 </div>
 
