@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/razones-gimp-mejor-alternativa-photoshop-editar-fotos-1400576'>Razones por las que GIMP es la mejor alternativa a Photoshop para editar tus fotos</a></h4>
+    <a href='https://computerhoy.com/apps/razones-gimp-mejor-alternativa-photoshop-editar-fotos-1400576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/razones-gimp-mejor-alternativa-photoshop-editar-fotos-3967310.jpg?tf=1200x' alt='Razones por las que GIMP es la mejor alternativa a Photoshop para editar tus fotos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/matter-tecnologia-unificadora-productos-conectados-hogar-1404437'>Qué es Matter, la tecnología unificadora para productos conectados del hogar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/matter-tecnologia-unificadora-productos-conectados-hogar-1404437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/logo-matter-4148616.jpg?tf=1200x' alt='Qué es Matter, la tecnología unificadora para productos conectados del hogar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/todo-intel-creadora-microprocesador-referente-chips-pc-1402871'>Todo sobre Intel, la creadora del microprocesador y referente de los chips para PC</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-intel-creadora-microprocesador-referente-chips-pc-1402871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/intel-4085714.jpg?tf=1200x' alt='Todo sobre Intel, la creadora del microprocesador y referente de los chips para PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/he-recomendado-varias-veces-movil-nothing-ahora-precio-saldo-1404505'>He recomendado varias veces este móvil Nothing, y ahora está a precio de saldo</a></h4>
     <a href='https://computerhoy.com/tecnologia/he-recomendado-varias-veces-movil-nothing-ahora-precio-saldo-1404505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nothing-phone-2-3256624.jpg?tf=1200x' alt='He recomendado varias veces este móvil Nothing, y ahora está a precio de saldo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/machine-learning-gran-base-todo-conoces-inteligencia-artificial-1403798'>Machine Learning, qué es y por qué es la gran base de todo lo que conoces en inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/machine-learning-gran-base-todo-conoces-inteligencia-artificial-1403798' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/machine-learning-ia-4113525.jpg?tf=1200x' alt='Machine Learning, qué es y por qué es la gran base de todo lo que conoces en inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-recuperar-recubrimiento-antiadherente-sartenes-ollas-s-pegan-1322832'>No tires: cómo restaura la capa antiadherente de sartenes y ollas</a></h4>
-    <a href='https://computerhoy.com/life/como-recuperar-recubrimiento-antiadherente-sartenes-ollas-s-pegan-1322832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/como-recuperar-recubrimiento-antiadherente-sartenes-ollas-3200814.jpg?tf=1200x' alt='No tires: cómo restaura la capa antiadherente de sartenes y ollas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/kodi-todo-debes-saber-aplicacion-peliculas-series-musica-1404541'>Kodi, todo lo que debes saber sobre la aplicación de entretenimiento para películas, series, música y más</a></h4>
-    <a href='https://computerhoy.com/apps/kodi-todo-debes-saber-aplicacion-peliculas-series-musica-1404541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/kodi-4162196.jpg?tf=1200x' alt='Kodi, todo lo que debes saber sobre la aplicación de entretenimiento para películas, series, música y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/qualcomm-todo-mayor-fabricante-procesadores-moviles-chips-snapdragon-1400804'>Qualcomm: todo sobre el mayor fabricante de procesadores móviles y sus chips Snapdragon</a></h4>
-    <a href='https://computerhoy.com/industria/qualcomm-todo-mayor-fabricante-procesadores-moviles-chips-snapdragon-1400804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/qualcomm-4050694.jpg?tf=1200x' alt='Qualcomm: todo sobre el mayor fabricante de procesadores móviles y sus chips Snapdragon' />
     </a>
 </div>
 
