@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/kodi-todo-debes-saber-aplicacion-peliculas-series-musica-1404541'>Kodi, todo lo que debes saber sobre la aplicación de entretenimiento para películas, series, música y más</a></h4>
+    <a href='https://computerhoy.com/apps/kodi-todo-debes-saber-aplicacion-peliculas-series-musica-1404541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/kodi-4162196.jpg?tf=1200x' alt='Kodi, todo lo que debes saber sobre la aplicación de entretenimiento para películas, series, música y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/qualcomm-todo-mayor-fabricante-procesadores-moviles-chips-snapdragon-1400804'>Qualcomm: todo sobre el mayor fabricante de procesadores móviles y sus chips Snapdragon</a></h4>
     <a href='https://computerhoy.com/industria/qualcomm-todo-mayor-fabricante-procesadores-moviles-chips-snapdragon-1400804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/qualcomm-4050694.jpg?tf=1200x' alt='Qualcomm: todo sobre el mayor fabricante de procesadores móviles y sus chips Snapdragon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/bill-gates-confiesa-quita-sueno-noches-evitamos-gran-guerra-habra-otra-pandemia-1404760'>Bill Gates confiesa qué le quita el sueño por las noches: “Si evitamos una gran guerra… habrá otra pandemia”</a></h4>
     <a href='https://computerhoy.com/tecnologia/bill-gates-confiesa-quita-sueno-noches-evitamos-gran-guerra-habra-otra-pandemia-1404760' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bill-gates-4156580.jpg?tf=1200x' alt='Bill Gates confiesa qué le quita el sueño por las noches: “Si evitamos una gran guerra… habrá otra pandemia”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/tienes-tirado-cajon-puede-convertirse-mejor-repetidor-wifi-1398265'>Lo tienes tirado en un cajón sin usar y puede convertirse en tu mejor repetidor WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/tienes-tirado-cajon-puede-convertirse-mejor-repetidor-wifi-1398265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-olvidado-cajon-usar-puede-convertirse-mejor-repetidor-wifi-3850209.jpg?tf=1200x' alt='Lo tienes tirado en un cajón sin usar y puede convertirse en tu mejor repetidor WiFi' />
     </a>
 </div>
 
