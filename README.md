@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ya-puedes-borrar-waze-mejor-alternativa-ha-llegado-promete-librarte-todos-radares-1402733'>Ya puedes borrar Waze: la mejor alternativa ha llegado y promete librarte de todos los radares</a></h4>
+    <a href='https://computerhoy.com/apps/ya-puedes-borrar-waze-mejor-alternativa-ha-llegado-promete-librarte-todos-radares-1402733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ya-puedes-borrar-waze-mejor-alternativa-ha-llegado-promete-librarte-todos-radares-4067760.jpg?tf=1200x' alt='Ya puedes borrar Waze: la mejor alternativa ha llegado y promete librarte de todos los radares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tesla-sorprende-primer-tren-electrico-capacidad-500-personas-billetes-gratuitos-1405073'>Tesla sorprende con su primer tren eléctrico con capacidad para 500 personas y billetes gratuitos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tesla-sorprende-primer-tren-electrico-capacidad-500-personas-billetes-gratuitos-1405073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tesla-sorprende-primer-tren-electrico-capacidad-500-personas-billetes-gratuitos-4172007.jpg?tf=1200x' alt='Tesla sorprende con su primer tren eléctrico con capacidad para 500 personas y billetes gratuitos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/android-auto-como-saber-version-tienes-instalada-movil-necesitas-actualizarla-como-hacerlo-1404835'>Android Auto: cómo saber qué versión tienes instalada en el móvil, si necesitas actualizarla y cómo hacerlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/android-auto-como-saber-version-tienes-instalada-movil-necesitas-actualizarla-como-hacerlo-1404835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-auto-como-saber-version-tienes-instalada-movil-necesitas-actualizarla-como-hacerlo-4160981.jpg?tf=1200x' alt='Android Auto: cómo saber qué versión tienes instalada en el móvil, si necesitas actualizarla y cómo hacerlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/cuenta-ya-no-puede-usar-whatsapp-como-recuperar-cuenta-bloqueada-whatsapp-1404834'>Esta cuenta ya no puede usar WhatsApp: cómo recuperar una cuenta bloqueada de WhatsApp</a></h4>
     <a href='https://computerhoy.com/tutoriales/cuenta-ya-no-puede-usar-whatsapp-como-recuperar-cuenta-bloqueada-whatsapp-1404834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cuenta-ya-no-puede-usar-whatsapp-como-recuperar-cuenta-bloqueada-whatsapp-4160687.jpg?tf=1200x' alt='Esta cuenta ya no puede usar WhatsApp: cómo recuperar una cuenta bloqueada de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cual-diferencia-software-hardware-firmware-1404655'>¿Cuál es la diferencia entre software, hardware y firmware?</a></h4>
-    <a href='https://computerhoy.com/pc/cual-diferencia-software-hardware-firmware-1404655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hardware-software-firmware-4157229.jpg?tf=1200x' alt='¿Cuál es la diferencia entre software, hardware y firmware?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/espionaje-marketing-todo-sacado-contexto-polemica-google-amazon-meta-escucha-movil-tela-juicio-1404312'>¿Espionaje, marketing o está todo sacado de contexto? La polémica de Google, Amazon y Meta y la escucha de tu móvil en tela de juicio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/espionaje-marketing-todo-sacado-contexto-polemica-google-amazon-meta-escucha-movil-tela-juicio-1404312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/movil-te-escucha-4098430.jpg?tf=1200x' alt='¿Espionaje, marketing o está todo sacado de contexto? La polémica de Google, Amazon y Meta y la escucha de tu móvil en tela de juicio' />
     </a>
 </div>
 
