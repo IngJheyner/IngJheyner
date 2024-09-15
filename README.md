@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/tablet-lector-libros-mismo-dispositivo-boox-vende-dispositivo-realmente-rompedor-1405084'>Tablet y lector de libros en un mismo dispositivo: Boox vende un dispositivo realmente rompedor</a></h4>
+    <a href='https://computerhoy.com/android/tablet-lector-libros-mismo-dispositivo-boox-vende-dispositivo-realmente-rompedor-1405084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/boox-go-4176055.jpg?tf=1200x' alt='Tablet y lector de libros en un mismo dispositivo: Boox vende un dispositivo realmente rompedor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-personalizar-iconos-apps-movil-android-nova-launcher-1404599'>Cómo personalizar los iconos de las apps en tu móvil Android con Nova Launcher</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-personalizar-iconos-apps-movil-android-nova-launcher-1404599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aplicaciones-movil-android-4150151.jpg?tf=1200x' alt='Cómo personalizar los iconos de las apps en tu móvil Android con Nova Launcher' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-aplicaciones-usadas-windows-11-llega-estas-novedades-1405086'>La última actualización para una de las aplicaciones más usadas de Windows 11 llega con estas novedades</a></h4>
+    <a href='https://computerhoy.com/windows/ultima-actualizacion-aplicaciones-usadas-windows-11-llega-estas-novedades-1405086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/notas-rapidas-windows-11-4176347.jpg?tf=1200x' alt='La última actualización para una de las aplicaciones más usadas de Windows 11 llega con estas novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ya-puedes-borrar-waze-mejor-alternativa-ha-llegado-promete-librarte-todos-radares-1402733'>Ya puedes borrar Waze: la mejor alternativa ha llegado y promete librarte de todos los radares</a></h4>
     <a href='https://computerhoy.com/apps/ya-puedes-borrar-waze-mejor-alternativa-ha-llegado-promete-librarte-todos-radares-1402733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ya-puedes-borrar-waze-mejor-alternativa-ha-llegado-promete-librarte-todos-radares-4067760.jpg?tf=1200x' alt='Ya puedes borrar Waze: la mejor alternativa ha llegado y promete librarte de todos los radares' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tesla-sorprende-primer-tren-electrico-capacidad-500-personas-billetes-gratuitos-1405073'>Tesla sorprende con su primer tren eléctrico con capacidad para 500 personas y billetes gratuitos</a></h4>
     <a href='https://computerhoy.com/tecnologia/tesla-sorprende-primer-tren-electrico-capacidad-500-personas-billetes-gratuitos-1405073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tesla-sorprende-primer-tren-electrico-capacidad-500-personas-billetes-gratuitos-4172007.jpg?tf=1200x' alt='Tesla sorprende con su primer tren eléctrico con capacidad para 500 personas y billetes gratuitos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/android-auto-como-saber-version-tienes-instalada-movil-necesitas-actualizarla-como-hacerlo-1404835'>Android Auto: cómo saber qué versión tienes instalada en el móvil, si necesitas actualizarla y cómo hacerlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/android-auto-como-saber-version-tienes-instalada-movil-necesitas-actualizarla-como-hacerlo-1404835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-auto-como-saber-version-tienes-instalada-movil-necesitas-actualizarla-como-hacerlo-4160981.jpg?tf=1200x' alt='Android Auto: cómo saber qué versión tienes instalada en el móvil, si necesitas actualizarla y cómo hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gama-alta-te-parece-prohibitiva-oneplus-te-propone-algo-movil-500-euros-igual-potente-1000-1404473'>Si la gama alta te parece prohibitiva, OnePlus te propone algo: este móvil de 500 euros es igual de potente que uno de 1.000</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gama-alta-te-parece-prohibitiva-oneplus-te-propone-algo-movil-500-euros-igual-potente-1000-1404473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oneplus-12r-3303962.jpg?tf=1200x' alt='Si la gama alta te parece prohibitiva, OnePlus te propone algo: este móvil de 500 euros es igual de potente que uno de 1.000' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/cuenta-ya-no-puede-usar-whatsapp-como-recuperar-cuenta-bloqueada-whatsapp-1404834'>Esta cuenta ya no puede usar WhatsApp: cómo recuperar una cuenta bloqueada de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/cuenta-ya-no-puede-usar-whatsapp-como-recuperar-cuenta-bloqueada-whatsapp-1404834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cuenta-ya-no-puede-usar-whatsapp-como-recuperar-cuenta-bloqueada-whatsapp-4160687.jpg?tf=1200x' alt='Esta cuenta ya no puede usar WhatsApp: cómo recuperar una cuenta bloqueada de WhatsApp' />
     </a>
 </div>
 
