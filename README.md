@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hacker-consigue-chatgpt-diga-como-fabricar-bomba-forma-preocupantemente-sencilla-1405220'>Hacker consigue que ChatGPT le diga cómo fabricar una bomba de una forma preocupantemente sencilla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hacker-consigue-chatgpt-diga-como-fabricar-bomba-forma-preocupantemente-sencilla-1405220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-como-fabricar-bomba-4183740.jpg?tf=1200x' alt='Hacker consigue que ChatGPT le diga cómo fabricar una bomba de una forma preocupantemente sencilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/fusion-perfecta-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512'>Es una fusión de lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fusion-perfecta-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-casi-nadie-conoce-4057626.jpg?tf=1200x' alt='Es una fusión de lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/menu-oculto-amazon-fire-tv-nuevas-opciones-funciones-1348244'>Encuentran un menú oculto en los Amazon Fire TV que permite activar nuevas funciones</a></h4>
+    <a href='https://computerhoy.com/tutoriales/menu-oculto-amazon-fire-tv-nuevas-opciones-funciones-1348244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubren-menu-oculto-amazon-fire-tv-stick-permite-activar-nuevas-funciones-3246054.jpg?tf=1200x' alt='Encuentran un menú oculto en los Amazon Fire TV que permite activar nuevas funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/dark-mejor-serie-ciencia-ficcion-historia-netflix-1404935'>La puedes ver en Netflix y para muchos es la mejor serie de ciencia ficción de la historia: un thriller sobrenatural que te volará la cabeza</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/dark-mejor-serie-ciencia-ficcion-historia-netflix-1404935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dark-4163651.jpg?tf=1200x' alt='La puedes ver en Netflix y para muchos es la mejor serie de ciencia ficción de la historia: un thriller sobrenatural que te volará la cabeza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/futuro-inteligencia-artificial-no-chatgpt-sera-sustituido-modelos-pequenos-eficientes-1405182'>El futuro de la inteligencia artificial no es ChatGPT, será sustituido por modelos pequeños y eficientes</a></h4>
     <a href='https://computerhoy.com/tecnologia/futuro-inteligencia-artificial-no-chatgpt-sera-sustituido-modelos-pequenos-eficientes-1405182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-4183586.jpg?tf=1200x' alt='El futuro de la inteligencia artificial no es ChatGPT, será sustituido por modelos pequeños y eficientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mi-carpeta-ciudadana-gobierno-lanza-nueva-app-ya-puedes-probar-1405219'>Tras Mi Carpeta Ciudadana, el gobierno lanza una nueva app que ya puedes probar</a></h4>
-    <a href='https://computerhoy.com/apps/mi-carpeta-ciudadana-gobierno-lanza-nueva-app-ya-puedes-probar-1405219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aplicacion-ica-indice-calidad-aire-4183425.jpg?tf=1200x' alt='Tras Mi Carpeta Ciudadana, el gobierno lanza una nueva app que ya puedes probar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/tiemble-steam-pc-rtx-3050-potente-jugar-barato-piensas-1405098'>Que tiemble Steam: este PC con RTX 3050 es potente para jugar y más barato de lo que piensas</a></h4>
-    <a href='https://computerhoy.com/pc/tiemble-steam-pc-rtx-3050-potente-jugar-barato-piensas-1405098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hp-victus-15l-3251865.jpg?tf=1200x' alt='Que tiemble Steam: este PC con RTX 3050 es potente para jugar y más barato de lo que piensas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-crean-gas-luz-dimension-pero-sirve-1405218'>Científicos crean un "gas de luz" en una dimensión, pero, ¿para qué sirve esto?</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-crean-gas-luz-dimension-pero-sirve-1405218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/gas-luz-dimension-4183271.jpg?tf=1200x' alt='Científicos crean un "gas de luz" en una dimensión, pero, ¿para qué sirve esto?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cosas-puedes-colocar-detras-router-wifi-mejorar-conexion-instante-1405192'>Cosas que puedes colocar detrás del router WiFi para mejorar tu conexión al instante</a></h4>
-    <a href='https://computerhoy.com/internet/cosas-puedes-colocar-detras-router-wifi-mejorar-conexion-instante-1405192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/router-wifi-3013256.jpg?tf=1200x' alt='Cosas que puedes colocar detrás del router WiFi para mejorar tu conexión al instante' />
     </a>
 </div>
 
