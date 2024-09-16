@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/wifi-6-12gb-ram-bolsillo-mini-pc-apenas-cuesta-100-euros-superventas-aliexpress-1405101'>WiFi 6 y 12GB de RAM en tu bolsillo: este Mini PC apenas cuesta 100 euros y es superventas en AliExpress</a></h4>
+    <a href='https://computerhoy.com/pc/wifi-6-12gb-ram-bolsillo-mini-pc-apenas-cuesta-100-euros-superventas-aliexpress-1405101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/gmktec-g2-4177230.jpg?tf=1200x' alt='WiFi 6 y 12GB de RAM en tu bolsillo: este Mini PC apenas cuesta 100 euros y es superventas en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/esperada-pelicula-dinosaurios-mezcla-jurassic-park-depredador-apocalpypse-now-1402469'>Así es la esperada película de dinosaurios que mezcla Jurassic Park, Depredador y Apocalpypse Now</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/esperada-pelicula-dinosaurios-mezcla-jurassic-park-depredador-apocalpypse-now-1402469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/esperada-pelicula-dinosaurios-mezcla-jurassic-park-depredador-apocalpypse-now-4056497.jpg?tf=1200x' alt='Así es la esperada película de dinosaurios que mezcla Jurassic Park, Depredador y Apocalpypse Now' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/francia-comienza-multar-prohibir-uso-tipo-neumaticos-pronto-podria-hacerlo-espana-1405259'>Francia comienza a multar y prohibir el uso de este tipo de neumáticos y pronto podría hacerlo España</a></h4>
+    <a href='https://computerhoy.com/motor/francia-comienza-multar-prohibir-uso-tipo-neumaticos-pronto-podria-hacerlo-espana-1405259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/francia-comienza-multar-prohibir-uso-tipo-neumaticos-pronto-podria-hacerlo-espana-4185497.jpg?tf=1200x' alt='Francia comienza a multar y prohibir el uso de este tipo de neumáticos y pronto podría hacerlo España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-cuidado-recibes-llamada-fraude-1402266'>La Policía Nacional advierte: cuidado si recibes esta llamada, es un fraude</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-cuidado-recibes-llamada-fraude-1402266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/policia-nacional-advierte-cuidado-recibes-llamada-fraude-4049389.jpg?tf=1200x' alt='La Policía Nacional advierte: cuidado si recibes esta llamada, es un fraude' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-google-play-store-cualquier-smart-tv-no-tenga-1404988'>Cómo instalar Google Play Store en cualquier Smart TV que no tenga</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-google-play-store-cualquier-smart-tv-no-tenga-1404988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-play-store-smart-tv-4164587.jpg?tf=1200x' alt='Cómo instalar Google Play Store en cualquier Smart TV que no tenga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-uses-copilot-todo-ya-permite-crear-agentes-ia-personalizados-mediante-lenguaje-natural-1405240'>Microsoft quiere que uses Copilot para todo y ya permite crear agentes de IA personalizados mediante lenguaje natural</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-quiere-uses-copilot-todo-ya-permite-crear-agentes-ia-personalizados-mediante-lenguaje-natural-1405240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/microsoft-copilot-outlook-4184993.jpg?tf=1200x' alt='Microsoft quiere que uses Copilot para todo y ya permite crear agentes de IA personalizados mediante lenguaje natural' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/pasa-haces-bizum-numero-no-tiene-1404104'>¿Qué pasa si haces un Bizum a un número que no tiene?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/pasa-haces-bizum-numero-no-tiene-1404104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bizum-4135175.jpg?tf=1200x' alt='¿Qué pasa si haces un Bizum a un número que no tiene?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/regalo-elon-musk-llamadas-emergencia-gratis-starlink-1402534'>Elon Musk quiere hacer un regalo a toda la humanidad y será completamente gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/regalo-elon-musk-llamadas-emergencia-gratis-starlink-1402534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/elon-musk-regalo-4183582.jpg?tf=1200x' alt='Elon Musk quiere hacer un regalo a toda la humanidad y será completamente gratis' />
     </a>
 </div>
 
