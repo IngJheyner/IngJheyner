@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-tv-lanza-freeplay-nueva-era-streaming-gratuito-150-canales-1405148'>Google TV lanza FreePlay, la nueva era del streaming gratuito con 150 canales </a></h4>
+    <a href='https://computerhoy.com/google/google-tv-lanza-freeplay-nueva-era-streaming-gratuito-150-canales-1405148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-tienes-activar-simplificar-google-tv-3814319.jpg?tf=1200x' alt='Google TV lanza FreePlay, la nueva era del streaming gratuito con 150 canales ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/prepara-smart-tv-llegan-tres-nuevos-canales-television-ultra-alta-definicion-uhd-tdt-1404521'>Pon a punto tu Smart TV: llegan tres nuevos canales en Ultra Alta Definición (UHD) a la TDT</a></h4>
+    <a href='https://computerhoy.com/tv/prepara-smart-tv-llegan-tres-nuevos-canales-television-ultra-alta-definicion-uhd-tdt-1404521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/uhd-espana-4149072.jpg?tf=1200x' alt='Pon a punto tu Smart TV: llegan tres nuevos canales en Ultra Alta Definición (UHD) a la TDT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/como-limpiar-correctamente-pantalla-smart-tv-sin-rayas-marcas-1398083'>Cómo limpiar la pantalla de un Smart TV sin dejar marcas ni rayas para obtener una imagen perfecta</a></h4>
+    <a href='https://computerhoy.com/tv/como-limpiar-correctamente-pantalla-smart-tv-sin-rayas-marcas-1398083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/limpiar-smart-tv-3860604.jpg?tf=1200x' alt='Cómo limpiar la pantalla de un Smart TV sin dejar marcas ni rayas para obtener una imagen perfecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/investigadores-cientificos-consiguen-crear-puertas-logicas-electricidad-final-electronica-1404028'>¿El fin de la electrónica tal y como la conocemos?, investigadores consiguen crear puertas lógicas sin electricidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/investigadores-cientificos-consiguen-crear-puertas-logicas-electricidad-final-electronica-1404028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chip-4133886.jpg?tf=1200x' alt='¿El fin de la electrónica tal y como la conocemos?, investigadores consiguen crear puertas lógicas sin electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/regreso-flappy-bird-tine-negro-creador-no-sabe-nada-todo-gira-torno-criptomonedas-1405141'>El regreso de Flappy Bird se tiñe de negro: el creador no sabe nada y todo gira en torno a las criptomonedas</a></h4>
     <a href='https://computerhoy.com/gaming/regreso-flappy-bird-tine-negro-creador-no-sabe-nada-todo-gira-torno-criptomonedas-1405141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/flappy-bird-4157545.jpg?tf=1200x' alt='El regreso de Flappy Bird se tiñe de negro: el creador no sabe nada y todo gira en torno a las criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-suscripciones-disco-duro-nas-te-da-4tb-nube-siempre-100-privados-1404199'>Adiós a las suscripciones: este disco duro NAS te da 4TB en la nube tuyos, para siempre y 100% privados</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-suscripciones-disco-duro-nas-te-da-4tb-nube-siempre-100-privados-1404199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wd-my-cloud-3246100.jpg?tf=1200x' alt='Adiós a las suscripciones: este disco duro NAS te da 4TB en la nube tuyos, para siempre y 100% privados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/demanda-iphone-16-decepciona-caen-ventas-13-respecto-iphone-15-1405134'>La demanda del iPhone 16 decepciona y caen sus ventas un 13% con respecto al iPhone 15</a></h4>
-    <a href='https://computerhoy.com/apple/demanda-iphone-16-decepciona-caen-ventas-13-respecto-iphone-15-1405134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-pro-4136608.jpg?tf=1200x' alt='La demanda del iPhone 16 decepciona y caen sus ventas un 13% con respecto al iPhone 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/procesador-snapdragon-tablet-mas-vendida-xiaomi-oferta-1390346'>Procesador Snapdragon y pantallón de 11 pulgadas: la tablet más vendida de Xiaomi hunde su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/procesador-snapdragon-tablet-mas-vendida-xiaomi-oferta-1390346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/xiaomi-pad-6-3485652.jpg?tf=1200x' alt='Procesador Snapdragon y pantallón de 11 pulgadas: la tablet más vendida de Xiaomi hunde su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/llevo-probando-tecnologia-7-anos-siempre-busco-pc-1394324'>Llevo probando tecnología 7 años y esto es lo que siempre busco en un PC</a></h4>
-    <a href='https://computerhoy.com/pc/llevo-probando-tecnologia-7-anos-siempre-busco-pc-1394324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-rog-zephyrus-g16-2024-3310551.jpg?tf=1200x' alt='Llevo probando tecnología 7 años y esto es lo que siempre busco en un PC' />
     </a>
 </div>
 
