@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/cuales-opciones-cuando-termine-soporte-oficial-windows-10-1392156'>¿Cuáles son tus opciones para cuando termine el soporte oficial para Windows 10?</a></h4>
+    <a href='https://computerhoy.com/windows/cuales-opciones-cuando-termine-soporte-oficial-windows-10-1392156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-10-3562429.jpg?tf=1200x' alt='¿Cuáles son tus opciones para cuando termine el soporte oficial para Windows 10?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-carga-solar-mas-barato-fenix-7x-1382327'>Un Garmin con carga solar no tiene por qué costar 1.000 euros: el Fenix 7X cuesta ahora la mitad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-carga-solar-mas-barato-fenix-7x-1382327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/garmin-fenix-7x-solar-3781795.jpg?tf=1200x' alt='Un Garmin con carga solar no tiene por qué costar 1.000 euros: el Fenix 7X cuesta ahora la mitad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/problemas-peligro-cable-enchufado-cargador-1400957'>Era de los que siempre dejaba el cable del cargador enchufado al enchufe (como casi todos): hasta que me enteré de esto</a></h4>
     <a href='https://computerhoy.com/tecnologia/problemas-peligro-cable-enchufado-cargador-1400957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cable-enchufado-3991748.jpg?tf=1200x' alt='Era de los que siempre dejaba el cable del cargador enchufado al enchufe (como casi todos): hasta que me enteré de esto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/razones-gimp-mejor-alternativa-photoshop-editar-fotos-1400576'>Razones por las que GIMP es la mejor alternativa a Photoshop para editar tus fotos</a></h4>
     <a href='https://computerhoy.com/apps/razones-gimp-mejor-alternativa-photoshop-editar-fotos-1400576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/razones-gimp-mejor-alternativa-photoshop-editar-fotos-3967310.jpg?tf=1200x' alt='Razones por las que GIMP es la mejor alternativa a Photoshop para editar tus fotos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/matter-tecnologia-unificadora-productos-conectados-hogar-1404437'>Qué es Matter, la tecnología unificadora para productos conectados del hogar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/matter-tecnologia-unificadora-productos-conectados-hogar-1404437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/logo-matter-4148616.jpg?tf=1200x' alt='Qué es Matter, la tecnología unificadora para productos conectados del hogar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-intel-creadora-microprocesador-referente-chips-pc-1402871'>Todo sobre Intel, la creadora del microprocesador y referente de los chips para PC</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-intel-creadora-microprocesador-referente-chips-pc-1402871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/intel-4085714.jpg?tf=1200x' alt='Todo sobre Intel, la creadora del microprocesador y referente de los chips para PC' />
     </a>
 </div>
 
