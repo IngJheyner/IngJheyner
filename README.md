@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/llega-netflix-serie-coreana-suspense-quiere-igualar-exito-juego-calamar-1402656'>Llega a Netflix la serie coreana de suspense que quiere igualar el éxito de El juego del calamar</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/llega-netflix-serie-coreana-suspense-quiere-igualar-exito-juego-calamar-1402656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/llega-netflix-serie-coreana-suspense-quiere-igualar-exito-juego-calamar-4063721.jpg?tf=1200x' alt='Llega a Netflix la serie coreana de suspense que quiere igualar el éxito de El juego del calamar' />
+    <h4><a href='https://computerhoy.com/apple/apple-watch-plastico-muy-cerca-barato-prestaciones-mejoradas-1405304'>El Apple Watch de plástico, muy cerca: más barato y con prestaciones mejoradas</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-plastico-muy-cerca-barato-prestaciones-mejoradas-1405304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-watch-3739850.jpg?tf=1200x' alt='El Apple Watch de plástico, muy cerca: más barato y con prestaciones mejoradas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/quentin-tarantino-adora-terrorifica-pelicula-clasica-pero-reconoce-nunca-pudo-secuela-aunque-sea-culto-1404384'>Quentin Tarantino adora esta terrorífica película clásica, pero reconoce que nunca pudo con su secuela, aunque sea de culto</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/quentin-tarantino-adora-terrorifica-pelicula-clasica-pero-reconoce-nunca-pudo-secuela-aunque-sea-culto-1404384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/quentin-tarantino-adora-terrorifica-pelicula-clasica-pero-reconoce-nunca-pudo-secuela-aunque-sea-culto-4143153.jpg?tf=1200x' alt='Quentin Tarantino adora esta terrorífica película clásica, pero reconoce que nunca pudo con su secuela, aunque sea de culto' />
+    <h4><a href='https://computerhoy.com/audio/todo-sonos-compania-adelanto-tiempo-sistema-audio-inalambrico-1403031'>Todo sobre Sonos, la compañía que se adelantó a su tiempo con un sistema de audio inalámbrico</a></h4>
+    <a href='https://computerhoy.com/audio/todo-sonos-compania-adelanto-tiempo-sistema-audio-inalambrico-1403031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sonos-4086665.jpg?tf=1200x' alt='Todo sobre Sonos, la compañía que se adelantó a su tiempo con un sistema de audio inalámbrico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejor-pelicula-espanola-historia-netflix-1405168'>Para los críticos no hay duda: es la mejor película española de la historia y la puedes ver en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejor-pelicula-espanola-historia-netflix-1405168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/espiritu-colmena-4184228.jpg?tf=1200x' alt='Para los críticos no hay duda: es la mejor película española de la historia y la puedes ver en Netflix' />
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-ha-entrado-produccion-ya-tiene-nombre-oficial-1405303'>Nintendo Switch 2 ha entrado en producción y ya tiene nombre oficial</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-2-ha-entrado-produccion-ya-tiene-nombre-oficial-1405303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-switch-4186589.jpg?tf=1200x' alt='Nintendo Switch 2 ha entrado en producción y ya tiene nombre oficial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/adios-secadora-seca-ropa-estilo-japones-ahorraras-mucho-tiempo-dinero-1405277'>Adiós a la secadora: seca la ropa al estilo japonés y ahorrarás mucho tiempo y dinero</a></h4>
-    <a href='https://computerhoy.com/life/adios-secadora-seca-ropa-estilo-japones-ahorraras-mucho-tiempo-dinero-1405277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/adios-secadora-seca-ropa-estilo-japones-ahorraras-mucho-tiempo-dinero-4185974.jpg?tf=1200x' alt='Adiós a la secadora: seca la ropa al estilo japonés y ahorrarás mucho tiempo y dinero' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-envia-aviso-final-muchos-usuarios-no-admitiran-uso-estas-aplicaciones-1405302'>Microsoft envía un aviso final a muchos usuarios: no admitirán el uso de estas aplicaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-envia-aviso-final-muchos-usuarios-no-admitiran-uso-estas-aplicaciones-1405302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/problemas-acceso-correo-electronico-outlook-4186588.jpg?tf=1200x' alt='Microsoft envía un aviso final a muchos usuarios: no admitirán el uso de estas aplicaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ciencia-ficcion-will-smith-fracaso-estrepitosamente-cines-pero-ya-ha-convertido-clasico-netflix-1405106'>La película de ciencia ficción con Will Smith que fracasó estrepitosamente en cines, pero ya se ha convertido en un clásico de Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-ciencia-ficcion-will-smith-fracaso-estrepitosamente-cines-pero-ya-ha-convertido-clasico-netflix-1405106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pelicula-ciencia-ficcion-will-smith-fracaso-estrepitosamente-cines-pero-ya-ha-convertido-clasico-netflix-4177810.jpg?tf=1200x' alt='La película de ciencia ficción con Will Smith que fracasó estrepitosamente en cines, pero ya se ha convertido en un clásico de Netflix' />
+    <h4><a href='https://computerhoy.com/internet/wifi-halow-15-kilometros-cobertura-1405301'>Llega WiFi HaLow, que alcanza los 15 Kilómetros de cobertura</a></h4>
+    <a href='https://computerhoy.com/internet/wifi-halow-15-kilometros-cobertura-1405301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1726511082526-4186127.jpg?tf=1200x' alt='Llega WiFi HaLow, que alcanza los 15 Kilómetros de cobertura' />
     </a>
 </div>
 
