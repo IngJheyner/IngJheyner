@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-uses-copilot-todo-ya-permite-crear-agentes-ia-personalizados-mediante-lenguaje-natural-1405240'>Microsoft quiere que uses Copilot para todo y ya permite crear agentes de IA personalizados mediante lenguaje natural</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-quiere-uses-copilot-todo-ya-permite-crear-agentes-ia-personalizados-mediante-lenguaje-natural-1405240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/microsoft-copilot-outlook-4184993.jpg?tf=1200x' alt='Microsoft quiere que uses Copilot para todo y ya permite crear agentes de IA personalizados mediante lenguaje natural' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/pasa-haces-bizum-numero-no-tiene-1404104'>¿Qué pasa si haces un Bizum a un número que no tiene?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/pasa-haces-bizum-numero-no-tiene-1404104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bizum-4135175.jpg?tf=1200x' alt='¿Qué pasa si haces un Bizum a un número que no tiene?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/regalo-elon-musk-llamadas-emergencia-gratis-starlink-1402534'>Elon Musk quiere hacer un regalo a toda la humanidad y será completamente gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/regalo-elon-musk-llamadas-emergencia-gratis-starlink-1402534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/elon-musk-regalo-4183582.jpg?tf=1200x' alt='Elon Musk quiere hacer un regalo a toda la humanidad y será completamente gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/donde-saca-fotos-chromecast-galeria-1404563'>De dónde saca las fotos Chromecast para su galería</a></h4>
+    <a href='https://computerhoy.com/tutoriales/donde-saca-fotos-chromecast-galeria-1404563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/fondo-chromecast-naturaleza-1918333.jpg?tf=1200x' alt='De dónde saca las fotos Chromecast para su galería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/hacker-consigue-chatgpt-diga-como-fabricar-bomba-forma-preocupantemente-sencilla-1405220'>Hacker consigue que ChatGPT le diga cómo fabricar una bomba de una forma preocupantemente sencilla</a></h4>
     <a href='https://computerhoy.com/tecnologia/hacker-consigue-chatgpt-diga-como-fabricar-bomba-forma-preocupantemente-sencilla-1405220' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-como-fabricar-bomba-4183740.jpg?tf=1200x' alt='Hacker consigue que ChatGPT le diga cómo fabricar una bomba de una forma preocupantemente sencilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/fusion-perfecta-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512'>Es una fusión de lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/fusion-perfecta-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-desconocida-1402512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mezcla-mejor-star-wars-dune-pelicula-ciencia-ficcion-epica-casi-nadie-conoce-4057626.jpg?tf=1200x' alt='Es una fusión de lo mejor de Star Wars y Dune: la película de ciencia ficción épica que casi nadie conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/menu-oculto-amazon-fire-tv-nuevas-opciones-funciones-1348244'>Encuentran un menú oculto en los Amazon Fire TV que permite activar nuevas funciones</a></h4>
-    <a href='https://computerhoy.com/tutoriales/menu-oculto-amazon-fire-tv-nuevas-opciones-funciones-1348244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubren-menu-oculto-amazon-fire-tv-stick-permite-activar-nuevas-funciones-3246054.jpg?tf=1200x' alt='Encuentran un menú oculto en los Amazon Fire TV que permite activar nuevas funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/dark-mejor-serie-ciencia-ficcion-historia-netflix-1404935'>La puedes ver en Netflix y para muchos es la mejor serie de ciencia ficción de la historia: un thriller sobrenatural que te volará la cabeza</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/dark-mejor-serie-ciencia-ficcion-historia-netflix-1404935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dark-4163651.jpg?tf=1200x' alt='La puedes ver en Netflix y para muchos es la mejor serie de ciencia ficción de la historia: un thriller sobrenatural que te volará la cabeza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/futuro-inteligencia-artificial-no-chatgpt-sera-sustituido-modelos-pequenos-eficientes-1405182'>El futuro de la inteligencia artificial no es ChatGPT, será sustituido por modelos pequeños y eficientes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/futuro-inteligencia-artificial-no-chatgpt-sera-sustituido-modelos-pequenos-eficientes-1405182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-4183586.jpg?tf=1200x' alt='El futuro de la inteligencia artificial no es ChatGPT, será sustituido por modelos pequeños y eficientes' />
     </a>
 </div>
 
