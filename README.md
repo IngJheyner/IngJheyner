@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-cuidado-recibes-llamada-fraude-1402266'>La Policía Nacional advierte: cuidado si recibes esta llamada, es un fraude</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-cuidado-recibes-llamada-fraude-1402266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/policia-nacional-advierte-cuidado-recibes-llamada-fraude-4049389.jpg?tf=1200x' alt='La Policía Nacional advierte: cuidado si recibes esta llamada, es un fraude' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-google-play-store-cualquier-smart-tv-no-tenga-1404988'>Cómo instalar Google Play Store en cualquier Smart TV que no tenga</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-google-play-store-cualquier-smart-tv-no-tenga-1404988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-play-store-smart-tv-4164587.jpg?tf=1200x' alt='Cómo instalar Google Play Store en cualquier Smart TV que no tenga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-uses-copilot-todo-ya-permite-crear-agentes-ia-personalizados-mediante-lenguaje-natural-1405240'>Microsoft quiere que uses Copilot para todo y ya permite crear agentes de IA personalizados mediante lenguaje natural</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-quiere-uses-copilot-todo-ya-permite-crear-agentes-ia-personalizados-mediante-lenguaje-natural-1405240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/microsoft-copilot-outlook-4184993.jpg?tf=1200x' alt='Microsoft quiere que uses Copilot para todo y ya permite crear agentes de IA personalizados mediante lenguaje natural' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/regalo-elon-musk-llamadas-emergencia-gratis-starlink-1402534'>Elon Musk quiere hacer un regalo a toda la humanidad y será completamente gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/regalo-elon-musk-llamadas-emergencia-gratis-starlink-1402534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/elon-musk-regalo-4183582.jpg?tf=1200x' alt='Elon Musk quiere hacer un regalo a toda la humanidad y será completamente gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/donde-saca-fotos-chromecast-galeria-1404563'>De dónde saca las fotos Chromecast para su galería</a></h4>
-    <a href='https://computerhoy.com/tutoriales/donde-saca-fotos-chromecast-galeria-1404563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/fondo-chromecast-naturaleza-1918333.jpg?tf=1200x' alt='De dónde saca las fotos Chromecast para su galería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hacker-consigue-chatgpt-diga-como-fabricar-bomba-forma-preocupantemente-sencilla-1405220'>Hacker consigue que ChatGPT le diga cómo fabricar una bomba de una forma preocupantemente sencilla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hacker-consigue-chatgpt-diga-como-fabricar-bomba-forma-preocupantemente-sencilla-1405220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-como-fabricar-bomba-4183740.jpg?tf=1200x' alt='Hacker consigue que ChatGPT le diga cómo fabricar una bomba de una forma preocupantemente sencilla' />
     </a>
 </div>
 
