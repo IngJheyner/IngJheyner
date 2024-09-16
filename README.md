@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/regreso-flappy-bird-tine-negro-creador-no-sabe-nada-todo-gira-torno-criptomonedas-1405141'>El regreso de Flappy Bird se tiñe de negro: el creador no sabe nada y todo gira en torno a las criptomonedas</a></h4>
+    <a href='https://computerhoy.com/gaming/regreso-flappy-bird-tine-negro-creador-no-sabe-nada-todo-gira-torno-criptomonedas-1405141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/flappy-bird-4157545.jpg?tf=1200x' alt='El regreso de Flappy Bird se tiñe de negro: el creador no sabe nada y todo gira en torno a las criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/adios-suscripciones-disco-duro-nas-te-da-4tb-nube-siempre-100-privados-1404199'>Adiós a las suscripciones: este disco duro NAS te da 4TB en la nube tuyos, para siempre y 100% privados</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-suscripciones-disco-duro-nas-te-da-4tb-nube-siempre-100-privados-1404199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wd-my-cloud-3246100.jpg?tf=1200x' alt='Adiós a las suscripciones: este disco duro NAS te da 4TB en la nube tuyos, para siempre y 100% privados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/demanda-iphone-16-decepciona-caen-ventas-13-respecto-iphone-15-1405134'>La demanda del iPhone 16 decepciona y caen sus ventas un 13% con respecto al iPhone 15</a></h4>
+    <a href='https://computerhoy.com/apple/demanda-iphone-16-decepciona-caen-ventas-13-respecto-iphone-15-1405134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-pro-4136608.jpg?tf=1200x' alt='La demanda del iPhone 16 decepciona y caen sus ventas un 13% con respecto al iPhone 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/procesador-snapdragon-tablet-mas-vendida-xiaomi-oferta-1390346'>Procesador Snapdragon y pantallón de 11 pulgadas: la tablet más vendida de Xiaomi hunde su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/procesador-snapdragon-tablet-mas-vendida-xiaomi-oferta-1390346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/xiaomi-pad-6-3485652.jpg?tf=1200x' alt='Procesador Snapdragon y pantallón de 11 pulgadas: la tablet más vendida de Xiaomi hunde su precio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/llevo-probando-tecnologia-7-anos-siempre-busco-pc-1394324'>Llevo probando tecnología 7 años y esto es lo que siempre busco en un PC</a></h4>
     <a href='https://computerhoy.com/pc/llevo-probando-tecnologia-7-anos-siempre-busco-pc-1394324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-rog-zephyrus-g16-2024-3310551.jpg?tf=1200x' alt='Llevo probando tecnología 7 años y esto es lo que siempre busco en un PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/cuales-opciones-cuando-termine-soporte-oficial-windows-10-1392156'>¿Cuáles son tus opciones para cuando termine el soporte oficial para Windows 10?</a></h4>
-    <a href='https://computerhoy.com/windows/cuales-opciones-cuando-termine-soporte-oficial-windows-10-1392156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-10-3562429.jpg?tf=1200x' alt='¿Cuáles son tus opciones para cuando termine el soporte oficial para Windows 10?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-carga-solar-mas-barato-fenix-7x-1382327'>Un Garmin con carga solar no tiene por qué costar 1.000 euros: el Fenix 7X cuesta ahora la mitad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-carga-solar-mas-barato-fenix-7x-1382327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/garmin-fenix-7x-solar-3781795.jpg?tf=1200x' alt='Un Garmin con carga solar no tiene por qué costar 1.000 euros: el Fenix 7X cuesta ahora la mitad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/problemas-peligro-cable-enchufado-cargador-1400957'>Era de los que siempre dejaba el cable del cargador enchufado al enchufe (como casi todos): hasta que me enteré de esto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/problemas-peligro-cable-enchufado-cargador-1400957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cable-enchufado-3991748.jpg?tf=1200x' alt='Era de los que siempre dejaba el cable del cargador enchufado al enchufe (como casi todos): hasta que me enteré de esto' />
     </a>
 </div>
 
