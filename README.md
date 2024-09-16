@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-ayuda-siempre-incluso-reservar-viajes-hay-cuesta-cafe-1404671'>Una VPN ayuda siempre, incluso al reservar viajes, y las hay por lo que cuesta un café</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-ayuda-siempre-incluso-reservar-viajes-hay-cuesta-cafe-1404671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vpn-surfshark-3293120.jpg?tf=1200x' alt='Una VPN ayuda siempre, incluso al reservar viajes, y las hay por lo que cuesta un café' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/todas-diferencias-chromebook-portatil-decidir-cual-opcion-ideal-ti-1392132'>Todas las diferencias entre un ChromeBook y un portátil para decidir cuál es la opción ideal para ti</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todas-diferencias-chromebook-portatil-decidir-cual-opcion-ideal-ti-1392132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-chromebook-plus-3394773.jpg?tf=1200x' alt='Todas las diferencias entre un ChromeBook y un portátil para decidir cuál es la opción ideal para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/baterias-litio-pierden-autonomia-ciencia-motivo-energia-infinita-1404927'>Científicos descubren el mecanismo que limita la vida útil de las baterías. ¡Hola energía infinita!</a></h4>
+    <a href='https://computerhoy.com/motor/baterias-litio-pierden-autonomia-ciencia-motivo-energia-infinita-1404927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/baterias-litio-pierden-autonomia-ciencia-ha-descubierto-fin-motivo-4163028.jpg?tf=1200x' alt='Científicos descubren el mecanismo que limita la vida útil de las baterías. ¡Hola energía infinita!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-tv-lanza-freeplay-nueva-era-streaming-gratuito-150-canales-1405148'>Google TV lanza FreePlay, la nueva era del streaming gratuito con 150 canales </a></h4>
     <a href='https://computerhoy.com/google/google-tv-lanza-freeplay-nueva-era-streaming-gratuito-150-canales-1405148' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-tienes-activar-simplificar-google-tv-3814319.jpg?tf=1200x' alt='Google TV lanza FreePlay, la nueva era del streaming gratuito con 150 canales ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/prepara-smart-tv-llegan-tres-nuevos-canales-television-ultra-alta-definicion-uhd-tdt-1404521'>Pon a punto tu Smart TV: llegan tres nuevos canales en Ultra Alta Definición (UHD) a la TDT</a></h4>
     <a href='https://computerhoy.com/tv/prepara-smart-tv-llegan-tres-nuevos-canales-television-ultra-alta-definicion-uhd-tdt-1404521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/uhd-espana-4149072.jpg?tf=1200x' alt='Pon a punto tu Smart TV: llegan tres nuevos canales en Ultra Alta Definición (UHD) a la TDT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/como-limpiar-correctamente-pantalla-smart-tv-sin-rayas-marcas-1398083'>Cómo limpiar la pantalla de un Smart TV sin dejar marcas ni rayas para obtener una imagen perfecta</a></h4>
-    <a href='https://computerhoy.com/tv/como-limpiar-correctamente-pantalla-smart-tv-sin-rayas-marcas-1398083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/limpiar-smart-tv-3860604.jpg?tf=1200x' alt='Cómo limpiar la pantalla de un Smart TV sin dejar marcas ni rayas para obtener una imagen perfecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/investigadores-cientificos-consiguen-crear-puertas-logicas-electricidad-final-electronica-1404028'>¿El fin de la electrónica tal y como la conocemos?, investigadores consiguen crear puertas lógicas sin electricidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/investigadores-cientificos-consiguen-crear-puertas-logicas-electricidad-final-electronica-1404028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chip-4133886.jpg?tf=1200x' alt='¿El fin de la electrónica tal y como la conocemos?, investigadores consiguen crear puertas lógicas sin electricidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/regreso-flappy-bird-tine-negro-creador-no-sabe-nada-todo-gira-torno-criptomonedas-1405141'>El regreso de Flappy Bird se tiñe de negro: el creador no sabe nada y todo gira en torno a las criptomonedas</a></h4>
-    <a href='https://computerhoy.com/gaming/regreso-flappy-bird-tine-negro-creador-no-sabe-nada-todo-gira-torno-criptomonedas-1405141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/flappy-bird-4157545.jpg?tf=1200x' alt='El regreso de Flappy Bird se tiñe de negro: el creador no sabe nada y todo gira en torno a las criptomonedas' />
     </a>
 </div>
 
