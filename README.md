@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/tiemble-steam-pc-rtx-3050-potente-jugar-barato-piensas-1405098'>Que tiemble Steam: este PC con RTX 3050 es potente para jugar y más barato de lo que piensas</a></h4>
+    <a href='https://computerhoy.com/pc/tiemble-steam-pc-rtx-3050-potente-jugar-barato-piensas-1405098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hp-victus-15l-3251865.jpg?tf=1200x' alt='Que tiemble Steam: este PC con RTX 3050 es potente para jugar y más barato de lo que piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-crean-gas-luz-dimension-pero-sirve-1405218'>Científicos crean un "gas de luz" en una dimensión, pero, ¿para qué sirve esto?</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-crean-gas-luz-dimension-pero-sirve-1405218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/gas-luz-dimension-4183271.jpg?tf=1200x' alt='Científicos crean un "gas de luz" en una dimensión, pero, ¿para qué sirve esto?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/cosas-puedes-colocar-detras-router-wifi-mejorar-conexion-instante-1405192'>Cosas que puedes colocar detrás del router WiFi para mejorar tu conexión al instante</a></h4>
+    <a href='https://computerhoy.com/internet/cosas-puedes-colocar-detras-router-wifi-mejorar-conexion-instante-1405192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/router-wifi-3013256.jpg?tf=1200x' alt='Cosas que puedes colocar detrás del router WiFi para mejorar tu conexión al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/como-restaurar-clasico-explorador-archivos-windows-11-1392639'>Cómo restaurar el clásico Explorador de archivos en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/como-restaurar-clasico-explorador-archivos-windows-11-1392639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-evitar-explorador-archivos-muestre-elementos-recientes-windows-11-3271900.jpg?tf=1200x' alt='Cómo restaurar el clásico Explorador de archivos en Windows 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cosas-que-no-sabias-funcionan-linux-1396850'>7 cosas que no sabías que funcionan con Linux</a></h4>
     <a href='https://computerhoy.com/tecnologia/cosas-que-no-sabias-funcionan-linux-1396850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/7-cosas-no-sabias-funcionan-linux-3784897.jpg?tf=1200x' alt='7 cosas que no sabías que funcionan con Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-tercer-estado-vida-muerte-futuro-medicina-regenerativa-1405156'>Científicos descubren un "tercer estado" entre la vida y la muerte: ¿El futuro de la medicina regenerativa?</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-descubren-tercer-estado-vida-muerte-futuro-medicina-regenerativa-1405156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/celulas-humanas-4183110.jpg?tf=1200x' alt='Científicos descubren un "tercer estado" entre la vida y la muerte: ¿El futuro de la medicina regenerativa?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cuidado-bateria-iphone-16-pro-reemplazarla-ahora-caro-1405180'>Cuidado con la batería del iPhone 16 Pro, reemplazarla ahora es más caro</a></h4>
-    <a href='https://computerhoy.com/apple/cuidado-bateria-iphone-16-pro-reemplazarla-ahora-caro-1405180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-pro-4136606.jpg?tf=1200x' alt='Cuidado con la batería del iPhone 16 Pro, reemplazarla ahora es más caro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-ayuda-siempre-incluso-reservar-viajes-hay-cuesta-cafe-1404671'>Una VPN ayuda siempre, incluso al reservar viajes, y las hay por lo que cuesta un café</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-ayuda-siempre-incluso-reservar-viajes-hay-cuesta-cafe-1404671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vpn-surfshark-3293120.jpg?tf=1200x' alt='Una VPN ayuda siempre, incluso al reservar viajes, y las hay por lo que cuesta un café' />
     </a>
 </div>
 
