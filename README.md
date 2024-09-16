@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejor-pelicula-espanola-historia-netflix-1405168'>Para los críticos no hay duda: es la mejor película española de la historia y la puedes ver en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejor-pelicula-espanola-historia-netflix-1405168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/espiritu-colmena-4184228.jpg?tf=1200x' alt='Para los críticos no hay duda: es la mejor película española de la historia y la puedes ver en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/adios-secadora-seca-ropa-estilo-japones-ahorraras-mucho-tiempo-dinero-1405277'>Adiós a la secadora: seca la ropa al estilo japonés y ahorrarás mucho tiempo y dinero</a></h4>
+    <a href='https://computerhoy.com/life/adios-secadora-seca-ropa-estilo-japones-ahorraras-mucho-tiempo-dinero-1405277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/adios-secadora-seca-ropa-estilo-japones-ahorraras-mucho-tiempo-dinero-4185974.jpg?tf=1200x' alt='Adiós a la secadora: seca la ropa al estilo japonés y ahorrarás mucho tiempo y dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-ciencia-ficcion-will-smith-fracaso-estrepitosamente-cines-pero-ya-ha-convertido-clasico-netflix-1405106'>La película de ciencia ficción con Will Smith que fracasó estrepitosamente en cines, pero ya se ha convertido en un clásico de Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-ciencia-ficcion-will-smith-fracaso-estrepitosamente-cines-pero-ya-ha-convertido-clasico-netflix-1405106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pelicula-ciencia-ficcion-will-smith-fracaso-estrepitosamente-cines-pero-ya-ha-convertido-clasico-netflix-4177810.jpg?tf=1200x' alt='La película de ciencia ficción con Will Smith que fracasó estrepitosamente en cines, pero ya se ha convertido en un clásico de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-todas-notificaciones-telegram-1404421'>Cómo eliminar todas las notificaciones de Telegram</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-eliminar-todas-notificaciones-telegram-1404421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/notificaciones-telegram-4145863.jpg?tf=1200x' alt='Cómo eliminar todas las notificaciones de Telegram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/wifi-6-12gb-ram-bolsillo-mini-pc-apenas-cuesta-100-euros-superventas-aliexpress-1405101'>WiFi 6 y 12GB de RAM en tu bolsillo: este Mini PC apenas cuesta 100 euros y es superventas en AliExpress</a></h4>
     <a href='https://computerhoy.com/pc/wifi-6-12gb-ram-bolsillo-mini-pc-apenas-cuesta-100-euros-superventas-aliexpress-1405101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/gmktec-g2-4177230.jpg?tf=1200x' alt='WiFi 6 y 12GB de RAM en tu bolsillo: este Mini PC apenas cuesta 100 euros y es superventas en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/esperada-pelicula-dinosaurios-mezcla-jurassic-park-depredador-apocalpypse-now-1402469'>Así es la esperada película de dinosaurios que mezcla Jurassic Park, Depredador y Apocalpypse Now</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/esperada-pelicula-dinosaurios-mezcla-jurassic-park-depredador-apocalpypse-now-1402469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/esperada-pelicula-dinosaurios-mezcla-jurassic-park-depredador-apocalpypse-now-4056497.jpg?tf=1200x' alt='Así es la esperada película de dinosaurios que mezcla Jurassic Park, Depredador y Apocalpypse Now' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/francia-comienza-multar-prohibir-uso-tipo-neumaticos-pronto-podria-hacerlo-espana-1405259'>Francia comienza a multar y prohibir el uso de este tipo de neumáticos y pronto podría hacerlo España</a></h4>
-    <a href='https://computerhoy.com/motor/francia-comienza-multar-prohibir-uso-tipo-neumaticos-pronto-podria-hacerlo-espana-1405259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/francia-comienza-multar-prohibir-uso-tipo-neumaticos-pronto-podria-hacerlo-espana-4185497.jpg?tf=1200x' alt='Francia comienza a multar y prohibir el uso de este tipo de neumáticos y pronto podría hacerlo España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-cuidado-recibes-llamada-fraude-1402266'>La Policía Nacional advierte: cuidado si recibes esta llamada, es un fraude</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-cuidado-recibes-llamada-fraude-1402266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/policia-nacional-advierte-cuidado-recibes-llamada-fraude-4049389.jpg?tf=1200x' alt='La Policía Nacional advierte: cuidado si recibes esta llamada, es un fraude' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-google-play-store-cualquier-smart-tv-no-tenga-1404988'>Cómo instalar Google Play Store en cualquier Smart TV que no tenga</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-google-play-store-cualquier-smart-tv-no-tenga-1404988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-play-store-smart-tv-4164587.jpg?tf=1200x' alt='Cómo instalar Google Play Store en cualquier Smart TV que no tenga' />
     </a>
 </div>
 
