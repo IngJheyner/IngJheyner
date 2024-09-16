@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ceo-nvidia-no-podemos-crear-graficos-ordenador-usar-ia-1405313'>El CEO de NVIDIA lo tiene claro: 'Ya no podemos crear gráficos de ordenador sin usar la IA'</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ceo-nvidia-no-podemos-crear-graficos-ordenador-usar-ia-1405313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ceo-nvidia-jensen-huang-3073178.jpg?tf=1200x' alt='El CEO de NVIDIA lo tiene claro: 'Ya no podemos crear gráficos de ordenador sin usar la IA'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-activar-nuevo-chatgpt-indicaciones-openai-1405307'>Cómo activar el nuevo ChatGPT, según las indicaciones de OpenAI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-activar-nuevo-chatgpt-indicaciones-openai-1405307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-activar-nuevo-chatgpt-indicaciones-openai-4187336.jpg?tf=1200x' alt='Cómo activar el nuevo ChatGPT, según las indicaciones de OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-watch-plastico-muy-cerca-barato-prestaciones-mejoradas-1405304'>El Apple Watch de plástico, muy cerca: más barato y con prestaciones mejoradas</a></h4>
     <a href='https://computerhoy.com/apple/apple-watch-plastico-muy-cerca-barato-prestaciones-mejoradas-1405304' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-watch-3739850.jpg?tf=1200x' alt='El Apple Watch de plástico, muy cerca: más barato y con prestaciones mejoradas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-ha-entrado-produccion-ya-tiene-nombre-oficial-1405303'>Nintendo Switch 2 ha entrado en producción y ya tiene nombre oficial</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-switch-2-ha-entrado-produccion-ya-tiene-nombre-oficial-1405303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-switch-4186589.jpg?tf=1200x' alt='Nintendo Switch 2 ha entrado en producción y ya tiene nombre oficial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-envia-aviso-final-muchos-usuarios-no-admitiran-uso-estas-aplicaciones-1405302'>Microsoft envía un aviso final a muchos usuarios: no admitirán el uso de estas aplicaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-envia-aviso-final-muchos-usuarios-no-admitiran-uso-estas-aplicaciones-1405302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/problemas-acceso-correo-electronico-outlook-4186588.jpg?tf=1200x' alt='Microsoft envía un aviso final a muchos usuarios: no admitirán el uso de estas aplicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/wifi-halow-15-kilometros-cobertura-1405301'>Llega WiFi HaLow, que alcanza los 15 Kilómetros de cobertura</a></h4>
-    <a href='https://computerhoy.com/internet/wifi-halow-15-kilometros-cobertura-1405301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1726511082526-4186127.jpg?tf=1200x' alt='Llega WiFi HaLow, que alcanza los 15 Kilómetros de cobertura' />
     </a>
 </div>
 
