@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/procesador-snapdragon-tablet-mas-vendida-xiaomi-oferta-1390346'>Procesador Snapdragon y pantallón de 11 pulgadas: la tablet más vendida de Xiaomi hunde su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/procesador-snapdragon-tablet-mas-vendida-xiaomi-oferta-1390346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/xiaomi-pad-6-3485652.jpg?tf=1200x' alt='Procesador Snapdragon y pantallón de 11 pulgadas: la tablet más vendida de Xiaomi hunde su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/llevo-probando-tecnologia-7-anos-siempre-busco-pc-1394324'>Llevo probando tecnología 7 años y esto es lo que siempre busco en un PC</a></h4>
+    <a href='https://computerhoy.com/pc/llevo-probando-tecnologia-7-anos-siempre-busco-pc-1394324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-rog-zephyrus-g16-2024-3310551.jpg?tf=1200x' alt='Llevo probando tecnología 7 años y esto es lo que siempre busco en un PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/cuales-opciones-cuando-termine-soporte-oficial-windows-10-1392156'>¿Cuáles son tus opciones para cuando termine el soporte oficial para Windows 10?</a></h4>
     <a href='https://computerhoy.com/windows/cuales-opciones-cuando-termine-soporte-oficial-windows-10-1392156' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-10-3562429.jpg?tf=1200x' alt='¿Cuáles son tus opciones para cuando termine el soporte oficial para Windows 10?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/problemas-peligro-cable-enchufado-cargador-1400957'>Era de los que siempre dejaba el cable del cargador enchufado al enchufe (como casi todos): hasta que me enteré de esto</a></h4>
     <a href='https://computerhoy.com/tecnologia/problemas-peligro-cable-enchufado-cargador-1400957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cable-enchufado-3991748.jpg?tf=1200x' alt='Era de los que siempre dejaba el cable del cargador enchufado al enchufe (como casi todos): hasta que me enteré de esto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/divorcio-postumo-legal-japon-divorciarse-familia-fallecido-1404674'>El divorcio póstumo es legal en Japón, para "divorciarse" de la familia del fallecido</a></h4>
-    <a href='https://computerhoy.com/life/divorcio-postumo-legal-japon-divorciarse-familia-fallecido-1404674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/divorcio-postumo-existe-japon-divorciarse-familia-fallecido-4154408.jpg?tf=1200x' alt='El divorcio póstumo es legal en Japón, para "divorciarse" de la familia del fallecido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/razones-gimp-mejor-alternativa-photoshop-editar-fotos-1400576'>Razones por las que GIMP es la mejor alternativa a Photoshop para editar tus fotos</a></h4>
-    <a href='https://computerhoy.com/apps/razones-gimp-mejor-alternativa-photoshop-editar-fotos-1400576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/razones-gimp-mejor-alternativa-photoshop-editar-fotos-3967310.jpg?tf=1200x' alt='Razones por las que GIMP es la mejor alternativa a Photoshop para editar tus fotos' />
     </a>
 </div>
 
