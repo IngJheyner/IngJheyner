@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/futuro-inteligencia-artificial-no-chatgpt-sera-sustituido-modelos-pequenos-eficientes-1405182'>El futuro de la inteligencia artificial no es ChatGPT, será sustituido por modelos pequeños y eficientes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/futuro-inteligencia-artificial-no-chatgpt-sera-sustituido-modelos-pequenos-eficientes-1405182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-4183586.jpg?tf=1200x' alt='El futuro de la inteligencia artificial no es ChatGPT, será sustituido por modelos pequeños y eficientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mi-carpeta-ciudadana-gobierno-lanza-nueva-app-ya-puedes-probar-1405219'>Tras Mi Carpeta Ciudadana, el gobierno lanza una nueva app que ya puedes probar</a></h4>
+    <a href='https://computerhoy.com/apps/mi-carpeta-ciudadana-gobierno-lanza-nueva-app-ya-puedes-probar-1405219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aplicacion-ica-indice-calidad-aire-4183425.jpg?tf=1200x' alt='Tras Mi Carpeta Ciudadana, el gobierno lanza una nueva app que ya puedes probar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/tiemble-steam-pc-rtx-3050-potente-jugar-barato-piensas-1405098'>Que tiemble Steam: este PC con RTX 3050 es potente para jugar y más barato de lo que piensas</a></h4>
     <a href='https://computerhoy.com/pc/tiemble-steam-pc-rtx-3050-potente-jugar-barato-piensas-1405098' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/hp-victus-15l-3251865.jpg?tf=1200x' alt='Que tiemble Steam: este PC con RTX 3050 es potente para jugar y más barato de lo que piensas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/cosas-puedes-colocar-detras-router-wifi-mejorar-conexion-instante-1405192'>Cosas que puedes colocar detrás del router WiFi para mejorar tu conexión al instante</a></h4>
     <a href='https://computerhoy.com/internet/cosas-puedes-colocar-detras-router-wifi-mejorar-conexion-instante-1405192' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/router-wifi-3013256.jpg?tf=1200x' alt='Cosas que puedes colocar detrás del router WiFi para mejorar tu conexión al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-restaurar-clasico-explorador-archivos-windows-11-1392639'>Cómo restaurar el clásico Explorador de archivos en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/como-restaurar-clasico-explorador-archivos-windows-11-1392639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-evitar-explorador-archivos-muestre-elementos-recientes-windows-11-3271900.jpg?tf=1200x' alt='Cómo restaurar el clásico Explorador de archivos en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cosas-que-no-sabias-funcionan-linux-1396850'>7 cosas que no sabías que funcionan con Linux</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cosas-que-no-sabias-funcionan-linux-1396850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/7-cosas-no-sabias-funcionan-linux-3784897.jpg?tf=1200x' alt='7 cosas que no sabías que funcionan con Linux' />
     </a>
 </div>
 
