@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/snapchat-presenta-mayor-actualizacion-anos-nuevas-gafas-spectacles-realidad-aumentada-1405512'>Snapchat presenta su mayor actualización en años, y nuevas gafas Spectacles de realidad aumentada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/snapchat-presenta-mayor-actualizacion-anos-nuevas-gafas-spectacles-realidad-aumentada-1405512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1726609986130-4194432.jpg?tf=1200x' alt='Snapchat presenta su mayor actualización en años, y nuevas gafas Spectacles de realidad aumentada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/alerta-iptv-ultima-ofensiva-futbol-gratis-registro-direcciones-ip-miles-usuarios-1405505'>Alerta IPTV: la última ofensiva contra el fútbol gratis es el registro de direcciones IP de miles de usuarios</a></h4>
     <a href='https://computerhoy.com/internet/alerta-iptv-ultima-ofensiva-futbol-gratis-registro-direcciones-ip-miles-usuarios-1405505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/alerta-iptv-ultima-ofensiva-futbol-gratis-registro-direcciones-ip-miles-usuarios-4194137.jpg?tf=1200x' alt='Alerta IPTV: la última ofensiva contra el fútbol gratis es el registro de direcciones IP de miles de usuarios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/mi-coche-no-tiene-android-auto-me-da-igual-app-mucho-mejor-tiene-todo-puedo-instalar-apps-1405495'>Mi coche no tiene Android Auto y me da igual: esta app es mucho mejor, lo tiene todo y puedo instalar apps</a></h4>
     <a href='https://computerhoy.com/apps/mi-coche-no-tiene-android-auto-me-da-igual-app-mucho-mejor-tiene-todo-puedo-instalar-apps-1405495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mi-coche-no-tiene-android-auto-me-da-igual-app-mucho-mejor-tiene-todo-puedo-instalar-apps-4193528.jpg?tf=1200x' alt='Mi coche no tiene Android Auto y me da igual: esta app es mucho mejor, lo tiene todo y puedo instalar apps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/golpe-pirateria-desmantelan-red-12000-consolas-retro-falsificadas-1405506'>Golpe a la piratería: desmantelan una red con más de 12.000 consolas retro falsificadas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/golpe-pirateria-desmantelan-red-12000-consolas-retro-falsificadas-1405506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/golpe-pirateria-desmantelan-red-12000-consolas-retro-falsificadas-4193685.jpg?tf=1200x' alt='Golpe a la piratería: desmantelan una red con más de 12.000 consolas retro falsificadas' />
     </a>
 </div>
 
