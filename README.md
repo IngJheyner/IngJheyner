@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/intel-perdio-posibilidad-disenar-chip-futura-playstation-6-ahora-han-conocido-motivos-1405431'>Intel perdió la posibilidad de diseñar el chip de la futura PlayStation 6 y ahora se han conocido los motivos</a></h4>
+    <a href='https://computerhoy.com/gaming/intel-perdio-posibilidad-disenar-chip-futura-playstation-6-ahora-han-conocido-motivos-1405431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/intel-perdio-posibilidad-disenar-chip-playstation-5-ahora-han-conocido-motivos-4191451.jpg?tf=1200x' alt='Intel perdió la posibilidad de diseñar el chip de la futura PlayStation 6 y ahora se han conocido los motivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ca-te-paga-factura-internet-cumples-estos-requisitos-1405362'>Esta CA te paga la factura de Internet si cumples estos requisitos</a></h4>
     <a href='https://computerhoy.com/tecnologia/ca-te-paga-factura-internet-cumples-estos-requisitos-1405362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ordenador-movil-4190337.jpg?tf=1200x' alt='Esta CA te paga la factura de Internet si cumples estos requisitos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/dos-semanas-bateria-100-deportes-huawei-deja-ko-mi-band-rebajando-pulsera-top-1405269'>Dos semanas de batería y 100 deportes: Huawei deja KO a la Mi Band rebajando su pulsera más top</a></h4>
     <a href='https://computerhoy.com/tecnologia/dos-semanas-bateria-100-deportes-huawei-deja-ko-mi-band-rebajando-pulsera-top-1405269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-band-9-3306669.jpg?tf=1200x' alt='Dos semanas de batería y 100 deportes: Huawei deja KO a la Mi Band rebajando su pulsera más top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/disenan-primer-ordenador-biologico-replicando-funcionamiento-adn-1405386'>Diseñan el primer ordenador biológico replicando el funcionamiento del ADN</a></h4>
-    <a href='https://computerhoy.com/tecnologia/disenan-primer-ordenador-biologico-replicando-funcionamiento-adn-1405386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/disenan-primer-ordenador-biologico-replicando-funcionamiento-adn-4190654.jpg?tf=1200x' alt='Diseñan el primer ordenador biológico replicando el funcionamiento del ADN' />
     </a>
 </div>
 
