@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ca-te-paga-factura-internet-cumples-estos-requisitos-1405362'>Esta CA te paga la factura de Internet si cumples estos requisitos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ca-te-paga-factura-internet-cumples-estos-requisitos-1405362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ordenador-movil-4190337.jpg?tf=1200x' alt='Esta CA te paga la factura de Internet si cumples estos requisitos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-podria-llevar-realidad-aumentada-find-my-device-trabaja-nuevas-mejoras-estilo-apple-1405404'>Google podría llevar la realidad aumentada a Find My Device y trabaja en nuevas mejoras al estilo de Apple</a></h4>
+    <a href='https://computerhoy.com/google/google-podria-llevar-realidad-aumentada-find-my-device-trabaja-nuevas-mejoras-estilo-apple-1405404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-podria-llevar-realidad-aumentada-find-my-device-trabaja-nuevas-mejoras-estilo-apple-4190973.jpg?tf=1200x' alt='Google podría llevar la realidad aumentada a Find My Device y trabaja en nuevas mejoras al estilo de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-music-presenta-funcion-musica-haptica-usuarios-problemas-auditivos-como-parte-ios-18-1405423'>Apple Music presenta la función Música Háptica para usuarios con problemas auditivos como parte de iOS 18</a></h4>
+    <a href='https://computerhoy.com/apple/apple-music-presenta-funcion-musica-haptica-usuarios-problemas-auditivos-como-parte-ios-18-1405423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-music-presenta-musica-haptica-4191293.jpg?tf=1200x' alt='Apple Music presenta la función Música Háptica para usuarios con problemas auditivos como parte de iOS 18' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dos-semanas-bateria-100-deportes-huawei-deja-ko-mi-band-rebajando-pulsera-top-1405269'>Dos semanas de batería y 100 deportes: Huawei deja KO a la Mi Band rebajando su pulsera más top</a></h4>
     <a href='https://computerhoy.com/tecnologia/dos-semanas-bateria-100-deportes-huawei-deja-ko-mi-band-rebajando-pulsera-top-1405269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-band-9-3306669.jpg?tf=1200x' alt='Dos semanas de batería y 100 deportes: Huawei deja KO a la Mi Band rebajando su pulsera más top' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/disenan-primer-ordenador-biologico-replicando-funcionamiento-adn-1405386'>Diseñan el primer ordenador biológico replicando el funcionamiento del ADN</a></h4>
     <a href='https://computerhoy.com/tecnologia/disenan-primer-ordenador-biologico-replicando-funcionamiento-adn-1405386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/disenan-primer-ordenador-biologico-replicando-funcionamiento-adn-4190654.jpg?tf=1200x' alt='Diseñan el primer ordenador biológico replicando el funcionamiento del ADN' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/no-busques-estas-funciones-ios-18-no-son-compatibles-iphone-antiguos-1405394'>No las busques más: estas funciones de iOS 18 no son compatibles con los iPhone más antiguos</a></h4>
-    <a href='https://computerhoy.com/apple/no-busques-estas-funciones-ios-18-no-son-compatibles-iphone-antiguos-1405394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-3953855.jpg?tf=1200x' alt='No las busques más: estas funciones de iOS 18 no son compatibles con los iPhone más antiguos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-echar-alguien-wifi-1104131'>Cómo echar a alguien de tu Wi-Fi fácilmente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-echar-alguien-wifi-1104131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-wifi-2623703.jpg?tf=1200x' alt='Cómo echar a alguien de tu Wi-Fi fácilmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estas-son-frases-magicas-dejaras-recibir-llamadas-spam-1405188'>Estas son las frases mágicas con las que dejarás de recibir llamadas spam</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estas-son-frases-magicas-dejaras-recibir-llamadas-spam-1405188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/telefono-antiguo-4190655.jpg?tf=1200x' alt='Estas son las frases mágicas con las que dejarás de recibir llamadas spam' />
     </a>
 </div>
 
