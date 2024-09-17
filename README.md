@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/programa-lavadora-tecnicos-recomiendan-no-utilizar-salvo-casos-puntuales-destroza-lavadora-1405467'>El programa de la lavadora que los técnicos recomiendan no utilizar salvo en casos puntuales: destroza la lavadora</a></h4>
+    <a href='https://computerhoy.com/life/programa-lavadora-tecnicos-recomiendan-no-utilizar-salvo-casos-puntuales-destroza-lavadora-1405467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/programa-lavadora-tecnicos-recomienda-no-utilizar-salvo-casos-puntuales-destroza-lavadora-4192568.jpg?tf=1200x' alt='El programa de la lavadora que los técnicos recomiendan no utilizar salvo en casos puntuales: destroza la lavadora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/avion-juicio-final-boton-rojo-guerra-nuclear-1258332'>¿Qué es el avión del “Juicio Final”, avistado recientemente sobre los cielos de Europa? </a></h4>
+    <a href='https://computerhoy.com/motor/avion-juicio-final-boton-rojo-guerra-nuclear-1258332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/avion-6b-mercury-4189856.jpg?tf=1200x' alt='¿Qué es el avión del “Juicio Final”, avistado recientemente sobre los cielos de Europa? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ese-viejo-iphone-tienes-guardo-cajon-podria-valer-mucho-dinero-todo-debes-tener-cuenta-1405243'>Ese viejo iPhone que tienes guardo en el cajón podría valer mucho dinero: todo lo que debes tener en cuenta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ese-viejo-iphone-tienes-guardo-cajon-podria-valer-mucho-dinero-todo-debes-tener-cuenta-1405243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/paga-43000-euros-poder-hacer-unboxing-youtube-primer-iphone-3017412.jpg?tf=1200x' alt='Ese viejo iPhone que tienes guardo en el cajón podría valer mucho dinero: todo lo que debes tener en cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-almeria-mar-plastico-1344018'>Ni la Gran Muralla ni las Pirámides: la única estructura perfectamente visible desde el espacio está en España</a></h4>
     <a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-almeria-mar-plastico-1344018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mar-plastico-almeria-3237738.jpg?tf=1200x' alt='Ni la Gran Muralla ni las Pirámides: la única estructura perfectamente visible desde el espacio está en España' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/error-pone-riesgo-correo-electronico-todo-mundo-comete-diario-1404602'>Este es el error que más pone en riesgo tu correo electrónico, y todo el mundo lo comete a diario</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/error-pone-riesgo-correo-electronico-todo-mundo-comete-diario-1404602' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/error-pone-riesgo-correo-electronico-todo-mundo-comete-diario-4150152.jpg?tf=1200x' alt='Este es el error que más pone en riesgo tu correo electrónico, y todo el mundo lo comete a diario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/intel-perdio-posibilidad-disenar-chip-futura-playstation-6-ahora-han-conocido-motivos-1405431'>Intel perdió la posibilidad de diseñar el chip de la futura PlayStation 6 y ahora se han conocido los motivos</a></h4>
-    <a href='https://computerhoy.com/gaming/intel-perdio-posibilidad-disenar-chip-futura-playstation-6-ahora-han-conocido-motivos-1405431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/intel-perdio-posibilidad-disenar-chip-playstation-5-ahora-han-conocido-motivos-4191451.jpg?tf=1200x' alt='Intel perdió la posibilidad de diseñar el chip de la futura PlayStation 6 y ahora se han conocido los motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ca-te-paga-factura-internet-cumples-estos-requisitos-1405362'>Esta CA te paga la factura de Internet si cumples estos requisitos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ca-te-paga-factura-internet-cumples-estos-requisitos-1405362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ordenador-movil-4190337.jpg?tf=1200x' alt='Esta CA te paga la factura de Internet si cumples estos requisitos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-podria-llevar-realidad-aumentada-find-my-device-trabaja-nuevas-mejoras-estilo-apple-1405404'>Google podría llevar la realidad aumentada a Find My Device y trabaja en nuevas mejoras al estilo de Apple</a></h4>
-    <a href='https://computerhoy.com/google/google-podria-llevar-realidad-aumentada-find-my-device-trabaja-nuevas-mejoras-estilo-apple-1405404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-podria-llevar-realidad-aumentada-find-my-device-trabaja-nuevas-mejoras-estilo-apple-4190973.jpg?tf=1200x' alt='Google podría llevar la realidad aumentada a Find My Device y trabaja en nuevas mejoras al estilo de Apple' />
     </a>
 </div>
 
