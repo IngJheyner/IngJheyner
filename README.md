@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/cambie-windows-portatil-antiguo-viejo-sistema-operativo-gratis-ahora-vuela-1402728'>Decidí cambiar Windows en un viejo portátil por este sistema operativo gratuito y ahora vuela</a></h4>
+    <a href='https://computerhoy.com/pc/cambie-windows-portatil-antiguo-viejo-sistema-operativo-gratis-ahora-vuela-1402728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/he-cambiado-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-4066727.jpg?tf=1200x' alt='Decidí cambiar Windows en un viejo portátil por este sistema operativo gratuito y ahora vuela' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alguna-vez-has-escuchado-chatgpt-gritar-respuesta-chatbot-da-risa-miedo-1405367'>¿Alguna vez has escuchado a ChatGPT gritar? La respuesta del chatbot da más risa que miedo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alguna-vez-has-escuchado-chatgpt-gritar-respuesta-chatbot-da-risa-miedo-1405367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-grita-4190336.jpg?tf=1200x' alt='¿Alguna vez has escuchado a ChatGPT gritar? La respuesta del chatbot da más risa que miedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/opcion-oculta-whatsapp-desactivada-defecto-evitar-te-roben-haciendose-pasar-contacto-1405371'>La opción oculta de WhatsApp (desactivada por defecto) para evitar que te roben haciéndose pasar por un contacto</a></h4>
+    <a href='https://computerhoy.com/apps/opcion-oculta-whatsapp-desactivada-defecto-evitar-te-roben-haciendose-pasar-contacto-1405371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/opcion-oculta-whatsapp-desactivada-defecto-evitar-te-roben-haciendose-pasar-contacto-4190198.jpg?tf=1200x' alt='La opción oculta de WhatsApp (desactivada por defecto) para evitar que te roben haciéndose pasar por un contacto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-lanza-app-contrasenas-ios-18-poner-fin-12345-usuarios-iphone-1405349'>Apple lanza una app de contraseñas en iOS 18 para poner fin al "12345" de los usuarios de iPhone</a></h4>
     <a href='https://computerhoy.com/apple/apple-lanza-app-contrasenas-ios-18-poner-fin-12345-usuarios-iphone-1405349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-convertir-casa-zona-segura-libre-contrasenas-desbloqueo-3310875.jpg?tf=1200x' alt='Apple lanza una app de contraseñas en iOS 18 para poner fin al "12345" de los usuarios de iPhone' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/silla-gaming-drift-simulator-te-lanza-suelo-1405357'>La silla gaming con volante más brutal te lanza al suelo cuando tu coche choca</a></h4>
     <a href='https://computerhoy.com/gaming/silla-gaming-drift-simulator-te-lanza-suelo-1405357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/silla-gaming-volante-brutal-te-lanza-suelo-cuando-coche-choca-4189400.jpg?tf=1200x' alt='La silla gaming con volante más brutal te lanza al suelo cuando tu coche choca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/aliexpress-pone-patas-arriba-ofertas-vende-portatil-16gb-ram-windows-11-apenas-200-euros-1405262'>AliExpress pone patas arriba sus ofertas: vende un portátil con 16GB de RAM y Windows 11 por apenas 200 euros</a></h4>
-    <a href='https://computerhoy.com/pc/aliexpress-pone-patas-arriba-ofertas-vende-portatil-16gb-ram-windows-11-apenas-200-euros-1405262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/teclast-f16-pro-4185148.jpg?tf=1200x' alt='AliExpress pone patas arriba sus ofertas: vende un portátil con 16GB de RAM y Windows 11 por apenas 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alemania-pendrive-indestructible-1387127'>Alemania ha creado una memoria USB indestructible que dura más de 200 años, pero tiene un gran problema: prácticamente no cabe nada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alemania-pendrive-indestructible-1387127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pendrive-dura-200-anos-gracias-memoria-fram-3334218.jpg?tf=1200x' alt='Alemania ha creado una memoria USB indestructible que dura más de 200 años, pero tiene un gran problema: prácticamente no cabe nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-automotive-15-estas-son-mejoras-traeran-viajes-1405343'>Android Automotive 15: estas son las mejoras que traerá para tus viajes</a></h4>
-    <a href='https://computerhoy.com/android/android-automotive-15-estas-son-mejoras-traeran-viajes-1405343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/android-automotive-os-2486463.jpg?tf=1200x' alt='Android Automotive 15: estas son las mejoras que traerá para tus viajes' />
     </a>
 </div>
 
