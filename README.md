@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/descubri-opcion-waze-ya-no-comparto-mi-ubicacion-google-maps-1405028'>Desde que descubrí esta opción de Waze ya no comparto mi ubicación con Google Maps</a></h4>
-    <a href='https://computerhoy.com/google/descubri-opcion-waze-ya-no-comparto-mi-ubicacion-google-maps-1405028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/descubri-opcion-waze-ya-no-comparto-mi-ubicacion-google-maps-4168366.jpg?tf=1200x' alt='Desde que descubrí esta opción de Waze ya no comparto mi ubicación con Google Maps' />
+    <h4><a href='https://computerhoy.com/pc/aliexpress-pone-patas-arriba-ofertas-vende-portatil-16gb-ram-windows-11-apenas-200-euros-1405262'>AliExpress pone patas arriba sus ofertas: vende un portátil con 16GB de RAM y Windows 11 por apenas 200 euros</a></h4>
+    <a href='https://computerhoy.com/pc/aliexpress-pone-patas-arriba-ofertas-vende-portatil-16gb-ram-windows-11-apenas-200-euros-1405262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/teclast-f16-pro-4185148.jpg?tf=1200x' alt='AliExpress pone patas arriba sus ofertas: vende un portátil con 16GB de RAM y Windows 11 por apenas 200 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/olvida-raspberry-pi-mini-pc-mas-potente-barato-1392796'>Olvida las Raspberry Pi: este Mini PC con Windows 11 y SSD es mucho más rápido e igual de barato</a></h4>
-    <a href='https://computerhoy.com/pc/olvida-raspberry-pi-mini-pc-mas-potente-barato-1392796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bmax-b2-pro-3598888.jpg?tf=1200x' alt='Olvida las Raspberry Pi: este Mini PC con Windows 11 y SSD es mucho más rápido e igual de barato' />
+    <h4><a href='https://computerhoy.com/android/android-automotive-15-estas-son-mejoras-traeran-viajes-1405343'>Android Automotive 15: estas son las mejoras que traerá para tus viajes</a></h4>
+    <a href='https://computerhoy.com/android/android-automotive-15-estas-son-mejoras-traeran-viajes-1405343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/android-automotive-os-2486463.jpg?tf=1200x' alt='Android Automotive 15: estas son las mejoras que traerá para tus viajes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-vende-curioso-producto-china-aliexpress-ha-traido-españa-1404713'>Xiaomi vende un curioso (y útil) producto en China que AliExpress ha traído por sorpresa a España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-vende-curioso-producto-china-aliexpress-ha-traido-españa-1404713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-mi-home-s100-4155155.jpg?tf=1200x' alt='Xiaomi vende un curioso (y útil) producto en China que AliExpress ha traído por sorpresa a España' />
+    <h4><a href='https://computerhoy.com/entretenimiento/el-padrino-cadena-perpetua-mejor-pelicula-historia-cine-ver-streaming-1401624'>Ni Cadena Perpetua ni El Padrino, la mejor película de la historia ya se puede ver en streaming</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/el-padrino-cadena-perpetua-mejor-pelicula-historia-cine-ver-streaming-1401624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-ciudadano-kane-ni-cadena-perpetua-mejor-pelicula-historia-ya-puede-ver-plataformas-4015518.jpg?tf=1200x' alt='Ni Cadena Perpetua ni El Padrino, la mejor película de la historia ya se puede ver en streaming' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/honor-magicpad-2-tablet-pantalla-oled-analisis-opinion-1405248'>He probado la Honor MagicPad 2 y me ha encantado su pantalla, pero es que además tiene una batería a prueba de usuarios pro</a></h4>
-    <a href='https://computerhoy.com/analisis/honor-magicpad-2-tablet-pantalla-oled-analisis-opinion-1405248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/honor-magicpad-2-4185303.jpg?tf=1200x' alt='He probado la Honor MagicPad 2 y me ha encantado su pantalla, pero es que además tiene una batería a prueba de usuarios pro' />
+    <h4><a href='https://computerhoy.com/grandes-mentes-ia-lanzan-alerta-perdida-control-humano-mal-uso-ia-podria-ser-perjudicial-salud-humana-1405339'>Las grandes mentes de la IA lanzan una alerta: "la pérdida del control humano o el mal uso de la IA podría ser perjudicial para la salud humana"</a></h4>
+    <a href='https://computerhoy.com/grandes-mentes-ia-lanzan-alerta-perdida-control-humano-mal-uso-ia-podria-ser-perjudicial-salud-humana-1405339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/openai-google-microsoft-tecnologicas-estuviesen-yendo-demasiado-deprisa-inteligencia-artificial-3493701.jpg?tf=1200x' alt='Las grandes mentes de la IA lanzan una alerta: "la pérdida del control humano o el mal uso de la IA podría ser perjudicial para la salud humana"' />
     </a>
 </div>
 
