@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/programa-lavadora-tecnicos-recomiendan-no-utilizar-salvo-casos-puntuales-destroza-lavadora-1405467'>El programa de la lavadora que los técnicos recomiendan no utilizar salvo en casos puntuales: destroza la lavadora</a></h4>
-    <a href='https://computerhoy.com/life/programa-lavadora-tecnicos-recomiendan-no-utilizar-salvo-casos-puntuales-destroza-lavadora-1405467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/programa-lavadora-tecnicos-recomienda-no-utilizar-salvo-casos-puntuales-destroza-lavadora-4192568.jpg?tf=1200x' alt='El programa de la lavadora que los técnicos recomiendan no utilizar salvo en casos puntuales: destroza la lavadora' />
+    <h4><a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-stephen-king-mejor-juego-tronos-breaking-bad-1400084'>Esta serie nórdica de Netflix ha fascinado a Stephen King, afirma que es incluso mejor que Juego de Tronos y Breaking Bad</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-stephen-king-mejor-juego-tronos-breaking-bad-1400084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-3942729.jpg?tf=1200x' alt='Esta serie nórdica de Netflix ha fascinado a Stephen King, afirma que es incluso mejor que Juego de Tronos y Breaking Bad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/avion-juicio-final-boton-rojo-guerra-nuclear-1258332'>¿Qué es el avión del “Juicio Final”, avistado recientemente sobre los cielos de Europa? </a></h4>
-    <a href='https://computerhoy.com/motor/avion-juicio-final-boton-rojo-guerra-nuclear-1258332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/avion-6b-mercury-4189856.jpg?tf=1200x' alt='¿Qué es el avión del “Juicio Final”, avistado recientemente sobre los cielos de Europa? ' />
+    <h4><a href='https://computerhoy.com/entretenimiento/disponible-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-1404574'>Ya está en Max la película que cambió el cine de ciencia ficción para siempre: creó un género propio</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disponible-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-1404574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-puedes-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-4149410.jpg?tf=1200x' alt='Ya está en Max la película que cambió el cine de ciencia ficción para siempre: creó un género propio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ese-viejo-iphone-tienes-guardo-cajon-podria-valer-mucho-dinero-todo-debes-tener-cuenta-1405243'>Ese viejo iPhone que tienes guardo en el cajón podría valer mucho dinero: todo lo que debes tener en cuenta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ese-viejo-iphone-tienes-guardo-cajon-podria-valer-mucho-dinero-todo-debes-tener-cuenta-1405243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/paga-43000-euros-poder-hacer-unboxing-youtube-primer-iphone-3017412.jpg?tf=1200x' alt='Ese viejo iPhone que tienes guardo en el cajón podría valer mucho dinero: todo lo que debes tener en cuenta' />
+    <h4><a href='https://computerhoy.com/tecnologia/memorizar-contrasenas-cosa-pasado-gestor-ultraseguro-te-avisa-claves-filtran-dark-web-1405464'>Memorizar contraseñas es cosa del pasado: este gestor es ultraseguro y te avisa si tus claves se filtran en la dark web</a></h4>
+    <a href='https://computerhoy.com/tecnologia/memorizar-contrasenas-cosa-pasado-gestor-ultraseguro-te-avisa-claves-filtran-dark-web-1405464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gestor-contrasenas-nordpass-movil-3017210.jpg?tf=1200x' alt='Memorizar contraseñas es cosa del pasado: este gestor es ultraseguro y te avisa si tus claves se filtran en la dark web' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-almeria-mar-plastico-1344018'>Ni la Gran Muralla ni las Pirámides: la única estructura perfectamente visible desde el espacio está en España</a></h4>
-    <a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-almeria-mar-plastico-1344018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mar-plastico-almeria-3237738.jpg?tf=1200x' alt='Ni la Gran Muralla ni las Pirámides: la única estructura perfectamente visible desde el espacio está en España' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-convertir-raspberry-pi-ordenador-mucho-potente-1405310'>Cómo convertir tu Raspberry Pi en un ordenador mucho más potente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-convertir-raspberry-pi-ordenador-mucho-potente-1405310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-convertir-raspberry-pi-ordenador-mucho-potente-4187774.jpg?tf=1200x' alt='Cómo convertir tu Raspberry Pi en un ordenador mucho más potente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/error-pone-riesgo-correo-electronico-todo-mundo-comete-diario-1404602'>Este es el error que más pone en riesgo tu correo electrónico, y todo el mundo lo comete a diario</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/error-pone-riesgo-correo-electronico-todo-mundo-comete-diario-1404602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/error-pone-riesgo-correo-electronico-todo-mundo-comete-diario-4150152.jpg?tf=1200x' alt='Este es el error que más pone en riesgo tu correo electrónico, y todo el mundo lo comete a diario' />
+    <h4><a href='https://computerhoy.com/redes/digi-red-movil-television-propia-1401263'>Si tienes DIGI, estás de suerte: red móvil y televisión propia para asaltar a los grandes</a></h4>
+    <a href='https://computerhoy.com/redes/digi-red-movil-television-propia-1401263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/digi-3436208.jpg?tf=1200x' alt='Si tienes DIGI, estás de suerte: red móvil y televisión propia para asaltar a los grandes' />
     </a>
 </div>
 
