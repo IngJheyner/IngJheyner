@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/tierra-nueva-miniluna-debes-saber-fenomeno-inusual-1405149'>La Tierra y su nueva “miniluna”: lo que debes saber sobre este fenómeno inusual</a></h4>
+    <a href='https://computerhoy.com/espacio/tierra-nueva-miniluna-debes-saber-fenomeno-inusual-1405149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tierra-dos-lunas-4183057.jpg?tf=1200x' alt='La Tierra y su nueva “miniluna”: lo que debes saber sobre este fenómeno inusual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ceo-nvidia-no-podemos-crear-graficos-ordenador-usar-ia-1405313'>El CEO de NVIDIA lo tiene claro: 'Ya no podemos crear gráficos de ordenador sin usar la IA'</a></h4>
     <a href='https://computerhoy.com/tecnologia/ceo-nvidia-no-podemos-crear-graficos-ordenador-usar-ia-1405313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ceo-nvidia-jensen-huang-3073178.jpg?tf=1200x' alt='El CEO de NVIDIA lo tiene claro: 'Ya no podemos crear gráficos de ordenador sin usar la IA'' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/todo-sonos-compania-adelanto-tiempo-sistema-audio-inalambrico-1403031'>Todo sobre Sonos, la compañía que se adelantó a su tiempo con un sistema de audio inalámbrico</a></h4>
     <a href='https://computerhoy.com/audio/todo-sonos-compania-adelanto-tiempo-sistema-audio-inalambrico-1403031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sonos-4086665.jpg?tf=1200x' alt='Todo sobre Sonos, la compañía que se adelantó a su tiempo con un sistema de audio inalámbrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-ha-entrado-produccion-ya-tiene-nombre-oficial-1405303'>Nintendo Switch 2 ha entrado en producción y ya tiene nombre oficial</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-2-ha-entrado-produccion-ya-tiene-nombre-oficial-1405303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-switch-4186589.jpg?tf=1200x' alt='Nintendo Switch 2 ha entrado en producción y ya tiene nombre oficial' />
     </a>
 </div>
 
