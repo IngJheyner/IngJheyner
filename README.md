@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estreno-hace-20-anos-nadie-acordaba-ella-pero-pelicula-ciencia-ficcion-arrasando-netflix-1404866'>Se estrenó hace 20 años y nadie se acordaba de ella, pero esta película de ciencia ficción está arrasando en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estreno-hace-20-anos-nadie-acordaba-ella-pero-pelicula-ciencia-ficcion-arrasando-netflix-1404866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estreno-hace-20-anos-nadie-acordaba-ella-pero-pelicula-ciencia-ficcion-ha-irrumpido-vistas-netflix-4162032.jpg?tf=1200x' alt='Se estrenó hace 20 años y nadie se acordaba de ella, pero esta película de ciencia ficción está arrasando en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/barra-espaciadora-movil-android-esconde-funcion-casi-nadie-conoce-pruebas-no-podras-dejar-utilizarla-1405479'>La barra espaciadora de tu móvil Android esconde una función que casi nadie conoce: si la pruebas, no podrás dejar de utilizarla</a></h4>
+    <a href='https://computerhoy.com/android/barra-espaciadora-movil-android-esconde-funcion-casi-nadie-conoce-pruebas-no-podras-dejar-utilizarla-1405479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/barra-espaciadora-movil-android-esconde-funcion-casi-nadie-conoce-pruebas-no-podras-dejar-utilizarla-4193058.jpg?tf=1200x' alt='La barra espaciadora de tu móvil Android esconde una función que casi nadie conoce: si la pruebas, no podrás dejar de utilizarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ultimas-semanas-descuento-abono-transporte-madrid-como-seguir-aprovechandolo-movil-1405027'>Últimas semanas del descuento en el Abono Transporte de Madrid: cómo seguir aprovechándolo desde el móvil</a></h4>
+    <a href='https://computerhoy.com/life/ultimas-semanas-descuento-abono-transporte-madrid-como-seguir-aprovechandolo-movil-1405027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ultimas-semanas-descuento-abono-transporte-madrid-como-seguir-aprovechandolo-movil-4168223.jpg?tf=1200x' alt='Últimas semanas del descuento en el Abono Transporte de Madrid: cómo seguir aprovechándolo desde el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-stephen-king-mejor-juego-tronos-breaking-bad-1400084'>Esta serie nórdica de Netflix ha fascinado a Stephen King, afirma que es incluso mejor que Juego de Tronos y Breaking Bad</a></h4>
     <a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-stephen-king-mejor-juego-tronos-breaking-bad-1400084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-3942729.jpg?tf=1200x' alt='Esta serie nórdica de Netflix ha fascinado a Stephen King, afirma que es incluso mejor que Juego de Tronos y Breaking Bad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/disponible-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-1404574'>Ya está en Max la película que cambió el cine de ciencia ficción para siempre: creó un género propio</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disponible-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-1404574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-puedes-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-4149410.jpg?tf=1200x' alt='Ya está en Max la película que cambió el cine de ciencia ficción para siempre: creó un género propio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/memorizar-contrasenas-cosa-pasado-gestor-ultraseguro-te-avisa-claves-filtran-dark-web-1405464'>Memorizar contraseñas es cosa del pasado: este gestor es ultraseguro y te avisa si tus claves se filtran en la dark web</a></h4>
-    <a href='https://computerhoy.com/tecnologia/memorizar-contrasenas-cosa-pasado-gestor-ultraseguro-te-avisa-claves-filtran-dark-web-1405464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gestor-contrasenas-nordpass-movil-3017210.jpg?tf=1200x' alt='Memorizar contraseñas es cosa del pasado: este gestor es ultraseguro y te avisa si tus claves se filtran en la dark web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-convertir-raspberry-pi-ordenador-mucho-potente-1405310'>Cómo convertir tu Raspberry Pi en un ordenador mucho más potente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-convertir-raspberry-pi-ordenador-mucho-potente-1405310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-convertir-raspberry-pi-ordenador-mucho-potente-4187774.jpg?tf=1200x' alt='Cómo convertir tu Raspberry Pi en un ordenador mucho más potente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/digi-red-movil-television-propia-1401263'>Si tienes DIGI, estás de suerte: red móvil y televisión propia para asaltar a los grandes</a></h4>
-    <a href='https://computerhoy.com/redes/digi-red-movil-television-propia-1401263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/digi-3436208.jpg?tf=1200x' alt='Si tienes DIGI, estás de suerte: red móvil y televisión propia para asaltar a los grandes' />
     </a>
 </div>
 
