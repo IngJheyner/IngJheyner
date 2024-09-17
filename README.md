@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ocu-pone-limite-son-realmente-seguras-freidoras-aire-1405502'>La OCU las pone al límite: ¿son realmente seguras las freidoras de aire?</a></h4>
-    <a href='https://computerhoy.com/hogar/ocu-pone-limite-son-realmente-seguras-freidoras-aire-1405502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/freidora-aire-aceite-4193677.jpg?tf=1200x' alt='La OCU las pone al límite: ¿son realmente seguras las freidoras de aire?' />
+    <h4><a href='https://computerhoy.com/tecnologia/mozilla-firefox-diferencias-otros-navegadores-extensiones-imprescindibles-1404587'>Qué es Mozilla Firefox, diferencias con otros navegadores y extensiones imprescindibles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mozilla-firefox-diferencias-otros-navegadores-extensiones-imprescindibles-1404587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mozilla-firefox-4150147.jpg?tf=1200x' alt='Qué es Mozilla Firefox, diferencias con otros navegadores y extensiones imprescindibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/numero-desconocido-te-escribe-contacto-whatsapp-1394571'>Cómo reaccionar  y qué hacer si un desconocido te escribe en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/numero-desconocido-te-escribe-contacto-whatsapp-1394571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-whatsapp-3683489.jpg?tf=1200x' alt='Cómo reaccionar  y qué hacer si un desconocido te escribe en WhatsApp' />
+    <h4><a href='https://computerhoy.com/apps/mi-coche-no-tiene-android-auto-me-da-igual-app-mucho-mejor-tiene-todo-puedo-instalar-apps-1405495'>Mi coche no tiene Android Auto y me da igual: esta app es mucho mejor, lo tiene todo y puedo instalar apps</a></h4>
+    <a href='https://computerhoy.com/apps/mi-coche-no-tiene-android-auto-me-da-igual-app-mucho-mejor-tiene-todo-puedo-instalar-apps-1405495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mi-coche-no-tiene-android-auto-me-da-igual-app-mucho-mejor-tiene-todo-puedo-instalar-apps-4193528.jpg?tf=1200x' alt='Mi coche no tiene Android Auto y me da igual: esta app es mucho mejor, lo tiene todo y puedo instalar apps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estreno-hace-20-anos-nadie-acordaba-ella-pero-pelicula-ciencia-ficcion-arrasando-netflix-1404866'>Se estrenó hace 20 años y nadie se acordaba de ella, pero esta película de ciencia ficción está arrasando en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estreno-hace-20-anos-nadie-acordaba-ella-pero-pelicula-ciencia-ficcion-arrasando-netflix-1404866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estreno-hace-20-anos-nadie-acordaba-ella-pero-pelicula-ciencia-ficcion-ha-irrumpido-vistas-netflix-4162032.jpg?tf=1200x' alt='Se estrenó hace 20 años y nadie se acordaba de ella, pero esta película de ciencia ficción está arrasando en Netflix' />
+    <h4><a href='https://computerhoy.com/tecnologia/golpe-pirateria-desmantelan-red-12000-consolas-retro-falsificadas-1405506'>Golpe a la piratería: desmantelan una red con más de 12.000 consolas retro falsificadas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/golpe-pirateria-desmantelan-red-12000-consolas-retro-falsificadas-1405506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/golpe-pirateria-desmantelan-red-12000-consolas-retro-falsificadas-4193685.jpg?tf=1200x' alt='Golpe a la piratería: desmantelan una red con más de 12.000 consolas retro falsificadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/barra-espaciadora-movil-android-esconde-funcion-casi-nadie-conoce-pruebas-no-podras-dejar-utilizarla-1405479'>La barra espaciadora de tu móvil Android esconde una función que casi nadie conoce: si la pruebas, no podrás dejar de utilizarla</a></h4>
-    <a href='https://computerhoy.com/android/barra-espaciadora-movil-android-esconde-funcion-casi-nadie-conoce-pruebas-no-podras-dejar-utilizarla-1405479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/barra-espaciadora-movil-android-esconde-funcion-casi-nadie-conoce-pruebas-no-podras-dejar-utilizarla-4193058.jpg?tf=1200x' alt='La barra espaciadora de tu móvil Android esconde una función que casi nadie conoce: si la pruebas, no podrás dejar de utilizarla' />
+    <h4><a href='https://computerhoy.com/alimentacion/ni-mercadona-ni-lidl-alcampo-arrasa-supermercados-baratos-espana-ocu-1405503'>Ni Mercadona ni Lidl, Alcampo arrasa entre los supermercados más baratos de España, según la OCU</a></h4>
+    <a href='https://computerhoy.com/alimentacion/ni-mercadona-ni-lidl-alcampo-arrasa-supermercados-baratos-espana-ocu-1405503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/supermercado-4193682.jpg?tf=1200x' alt='Ni Mercadona ni Lidl, Alcampo arrasa entre los supermercados más baratos de España, según la OCU' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ultimas-semanas-descuento-abono-transporte-madrid-como-seguir-aprovechandolo-movil-1405027'>Últimas semanas del descuento en el Abono Transporte de Madrid: cómo seguir aprovechándolo desde el móvil</a></h4>
-    <a href='https://computerhoy.com/life/ultimas-semanas-descuento-abono-transporte-madrid-como-seguir-aprovechandolo-movil-1405027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ultimas-semanas-descuento-abono-transporte-madrid-como-seguir-aprovechandolo-movil-4168223.jpg?tf=1200x' alt='Últimas semanas del descuento en el Abono Transporte de Madrid: cómo seguir aprovechándolo desde el móvil' />
+    <h4><a href='https://computerhoy.com/entretenimiento/arraso-oscar-ahora-ha-llegado-amazon-prime-video-hacer-ruido-ultimo-gran-fenomeno-cine-asiatico-1405230'>Arrasó en los Óscar y ahora ha llegado a Amazon Prime Video sin hacer ruido: el último gran fenómeno del cine asiático</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/arraso-oscar-ahora-ha-llegado-amazon-prime-video-hacer-ruido-ultimo-gran-fenomeno-cine-asiatico-1405230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/parasitos-2480613.jpg?tf=1200x' alt='Arrasó en los Óscar y ahora ha llegado a Amazon Prime Video sin hacer ruido: el último gran fenómeno del cine asiático' />
     </a>
 </div>
 
