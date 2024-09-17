@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nas-24-discos-duros-sin-fallos-truco-1405317'>Monta un NAS con 24 discos duros y en 10 años no ha tenido ni un fallo: este es el truco que usó</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nas-24-discos-duros-sin-fallos-truco-1405317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/monta-nas-24-discos-duros-10-anos-no-ha-tenido-ningun-fallo-truco-uso-4188214.jpg?tf=1200x' alt='Monta un NAS con 24 discos duros y en 10 años no ha tenido ni un fallo: este es el truco que usó' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/tim-burton-revela-verdadera-razon-geena-davies-alec-baldwin-no-estan-bitelchus-bitelchus-1403405'>Tim Burton lo revela: esta es la verdadera razón por la que Geena Davies y Alec Baldwin no están en Bitelchús Bitelchús</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/tim-burton-revela-verdadera-razon-geena-davies-alec-baldwin-no-estan-bitelchus-bitelchus-1403405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tim-burton-revela-verdadera-razon-geena-davies-alec-baldwin-no-estan-bitelchus-bitelchus-4099427.jpg?tf=1200x' alt='Tim Burton lo revela: esta es la verdadera razón por la que Geena Davies y Alec Baldwin no están en Bitelchús Bitelchús' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/modo-secreto-router-wifi-deberias-activar-ya-1189322'>Este es el modo secreto de tu router WiFi que deberías activar ya</a></h4>
+    <a href='https://computerhoy.com/internet/modo-secreto-router-wifi-deberias-activar-ya-1189322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg?tf=1200x' alt='Este es el modo secreto de tu router WiFi que deberías activar ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-reloj-parecido-garmin-menos-200-euros-1402946'>Huawei tiene un reloj que se parece a los Garmin, pero con alma de smartwatch y por menos de 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-reloj-parecido-garmin-menos-200-euros-1402946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131222.jpg?tf=1200x' alt='Huawei tiene un reloj que se parece a los Garmin, pero con alma de smartwatch y por menos de 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/tierra-nueva-miniluna-debes-saber-fenomeno-inusual-1405149'>La Tierra y su nueva “miniluna”: lo que debes saber sobre este fenómeno inusual</a></h4>
     <a href='https://computerhoy.com/espacio/tierra-nueva-miniluna-debes-saber-fenomeno-inusual-1405149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tierra-dos-lunas-4183057.jpg?tf=1200x' alt='La Tierra y su nueva “miniluna”: lo que debes saber sobre este fenómeno inusual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ceo-nvidia-no-podemos-crear-graficos-ordenador-usar-ia-1405313'>El CEO de NVIDIA lo tiene claro: 'Ya no podemos crear gráficos de ordenador sin usar la IA'</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ceo-nvidia-no-podemos-crear-graficos-ordenador-usar-ia-1405313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/ceo-nvidia-jensen-huang-3073178.jpg?tf=1200x' alt='El CEO de NVIDIA lo tiene claro: 'Ya no podemos crear gráficos de ordenador sin usar la IA'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-activar-nuevo-chatgpt-indicaciones-openai-1405307'>Cómo activar el nuevo ChatGPT, según las indicaciones de OpenAI</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-activar-nuevo-chatgpt-indicaciones-openai-1405307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-activar-nuevo-chatgpt-indicaciones-openai-4187336.jpg?tf=1200x' alt='Cómo activar el nuevo ChatGPT, según las indicaciones de OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-plastico-muy-cerca-barato-prestaciones-mejoradas-1405304'>El Apple Watch de plástico, muy cerca: más barato y con prestaciones mejoradas</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-plastico-muy-cerca-barato-prestaciones-mejoradas-1405304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-watch-3739850.jpg?tf=1200x' alt='El Apple Watch de plástico, muy cerca: más barato y con prestaciones mejoradas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/todo-sonos-compania-adelanto-tiempo-sistema-audio-inalambrico-1403031'>Todo sobre Sonos, la compañía que se adelantó a su tiempo con un sistema de audio inalámbrico</a></h4>
-    <a href='https://computerhoy.com/audio/todo-sonos-compania-adelanto-tiempo-sistema-audio-inalambrico-1403031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sonos-4086665.jpg?tf=1200x' alt='Todo sobre Sonos, la compañía que se adelantó a su tiempo con un sistema de audio inalámbrico' />
     </a>
 </div>
 
