@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alemania-pendrive-indestructible-1387127'>Alemania ha creado una memoria USB indestructible que dura más de 200 años, pero tiene un gran problema: prácticamente no cabe nada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alemania-pendrive-indestructible-1387127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pendrive-dura-200-anos-gracias-memoria-fram-3334218.jpg?tf=1200x' alt='Alemania ha creado una memoria USB indestructible que dura más de 200 años, pero tiene un gran problema: prácticamente no cabe nada' />
+    <h4><a href='https://computerhoy.com/apple/apple-lanza-app-contrasenas-ios-18-poner-fin-12345-usuarios-iphone-1405349'>Apple lanza una app de contraseñas en iOS 18 para poner fin al "12345" de los usuarios de iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/apple-lanza-app-contrasenas-ios-18-poner-fin-12345-usuarios-iphone-1405349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-convertir-casa-zona-segura-libre-contrasenas-desbloqueo-3310875.jpg?tf=1200x' alt='Apple lanza una app de contraseñas en iOS 18 para poner fin al "12345" de los usuarios de iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/silla-gaming-drift-simulator-te-lanza-suelo-1405357'>La silla gaming con volante más brutal te lanza al suelo cuando tu coche choca</a></h4>
+    <a href='https://computerhoy.com/gaming/silla-gaming-drift-simulator-te-lanza-suelo-1405357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/silla-gaming-volante-brutal-te-lanza-suelo-cuando-coche-choca-4189400.jpg?tf=1200x' alt='La silla gaming con volante más brutal te lanza al suelo cuando tu coche choca' />
     </a>
 </div>
 
@@ -66,25 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alemania-pendrive-indestructible-1387127'>Alemania ha creado una memoria USB indestructible que dura más de 200 años, pero tiene un gran problema: prácticamente no cabe nada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alemania-pendrive-indestructible-1387127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pendrive-dura-200-anos-gracias-memoria-fram-3334218.jpg?tf=1200x' alt='Alemania ha creado una memoria USB indestructible que dura más de 200 años, pero tiene un gran problema: prácticamente no cabe nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-automotive-15-estas-son-mejoras-traeran-viajes-1405343'>Android Automotive 15: estas son las mejoras que traerá para tus viajes</a></h4>
     <a href='https://computerhoy.com/android/android-automotive-15-estas-son-mejoras-traeran-viajes-1405343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/android-automotive-os-2486463.jpg?tf=1200x' alt='Android Automotive 15: estas son las mejoras que traerá para tus viajes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/el-padrino-cadena-perpetua-mejor-pelicula-historia-cine-ver-streaming-1401624'>Ni Cadena Perpetua ni El Padrino, la mejor película de la historia ya se puede ver en streaming</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/el-padrino-cadena-perpetua-mejor-pelicula-historia-cine-ver-streaming-1401624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-ciudadano-kane-ni-cadena-perpetua-mejor-pelicula-historia-ya-puede-ver-plataformas-4015518.jpg?tf=1200x' alt='Ni Cadena Perpetua ni El Padrino, la mejor película de la historia ya se puede ver en streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/grandes-mentes-ia-lanzan-alerta-perdida-control-humano-mal-uso-ia-podria-ser-perjudicial-salud-humana-1405339'>Las grandes mentes de la IA lanzan una alerta: "la pérdida del control humano o el mal uso de la IA podría ser perjudicial para la salud humana"</a></h4>
-    <a href='https://computerhoy.com/grandes-mentes-ia-lanzan-alerta-perdida-control-humano-mal-uso-ia-podria-ser-perjudicial-salud-humana-1405339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/openai-google-microsoft-tecnologicas-estuviesen-yendo-demasiado-deprisa-inteligencia-artificial-3493701.jpg?tf=1200x' alt='Las grandes mentes de la IA lanzan una alerta: "la pérdida del control humano o el mal uso de la IA podría ser perjudicial para la salud humana"' />
     </a>
 </div>
 
