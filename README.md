@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alemania-pendrive-indestructible-1387127'>Alemania ha creado una memoria USB indestructible que dura más de 200 años, pero tiene un gran problema: prácticamente no cabe nada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alemania-pendrive-indestructible-1387127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pendrive-dura-200-anos-gracias-memoria-fram-3334218.jpg?tf=1200x' alt='Alemania ha creado una memoria USB indestructible que dura más de 200 años, pero tiene un gran problema: prácticamente no cabe nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/descubri-opcion-waze-ya-no-comparto-mi-ubicacion-google-maps-1405028'>Desde que descubrí esta opción de Waze ya no comparto mi ubicación con Google Maps</a></h4>
     <a href='https://computerhoy.com/google/descubri-opcion-waze-ya-no-comparto-mi-ubicacion-google-maps-1405028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/descubri-opcion-waze-ya-no-comparto-mi-ubicacion-google-maps-4168366.jpg?tf=1200x' alt='Desde que descubrí esta opción de Waze ya no comparto mi ubicación con Google Maps' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/honor-magicpad-2-tablet-pantalla-oled-analisis-opinion-1405248'>He probado la Honor MagicPad 2 y me ha encantado su pantalla, pero es que además tiene una batería a prueba de usuarios pro</a></h4>
     <a href='https://computerhoy.com/analisis/honor-magicpad-2-tablet-pantalla-oled-analisis-opinion-1405248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/honor-magicpad-2-4185303.jpg?tf=1200x' alt='He probado la Honor MagicPad 2 y me ha encantado su pantalla, pero es que además tiene una batería a prueba de usuarios pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/razon-modelos-inteligencia-artificial-cada-vez-seran-menos-inteligentes-advierte-estudio-1403814'>Esta es la razón por la que los modelos de inteligencia artificial cada vez serán menos inteligentes, según advierte un estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/razon-modelos-inteligencia-artificial-cada-vez-seran-menos-inteligentes-advierte-estudio-1403814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/razon-modelos-inteligencia-artificial-cada-vez-seran-menos-inteligentes-advierte-estudio-4113617.jpg?tf=1200x' alt='Esta es la razón por la que los modelos de inteligencia artificial cada vez serán menos inteligentes, según advierte un estudio' />
     </a>
 </div>
 
