@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/ocu-pone-limite-son-realmente-seguras-freidoras-aire-1405502'>La OCU las pone al límite: ¿son realmente seguras las freidoras de aire?</a></h4>
+    <a href='https://computerhoy.com/hogar/ocu-pone-limite-son-realmente-seguras-freidoras-aire-1405502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/freidora-aire-aceite-4193677.jpg?tf=1200x' alt='La OCU las pone al límite: ¿son realmente seguras las freidoras de aire?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/numero-desconocido-te-escribe-contacto-whatsapp-1394571'>Cómo reaccionar  y qué hacer si un desconocido te escribe en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/numero-desconocido-te-escribe-contacto-whatsapp-1394571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-whatsapp-3683489.jpg?tf=1200x' alt='Cómo reaccionar  y qué hacer si un desconocido te escribe en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/estreno-hace-20-anos-nadie-acordaba-ella-pero-pelicula-ciencia-ficcion-arrasando-netflix-1404866'>Se estrenó hace 20 años y nadie se acordaba de ella, pero esta película de ciencia ficción está arrasando en Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/estreno-hace-20-anos-nadie-acordaba-ella-pero-pelicula-ciencia-ficcion-arrasando-netflix-1404866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estreno-hace-20-anos-nadie-acordaba-ella-pero-pelicula-ciencia-ficcion-ha-irrumpido-vistas-netflix-4162032.jpg?tf=1200x' alt='Se estrenó hace 20 años y nadie se acordaba de ella, pero esta película de ciencia ficción está arrasando en Netflix' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ultimas-semanas-descuento-abono-transporte-madrid-como-seguir-aprovechandolo-movil-1405027'>Últimas semanas del descuento en el Abono Transporte de Madrid: cómo seguir aprovechándolo desde el móvil</a></h4>
     <a href='https://computerhoy.com/life/ultimas-semanas-descuento-abono-transporte-madrid-como-seguir-aprovechandolo-movil-1405027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ultimas-semanas-descuento-abono-transporte-madrid-como-seguir-aprovechandolo-movil-4168223.jpg?tf=1200x' alt='Últimas semanas del descuento en el Abono Transporte de Madrid: cómo seguir aprovechándolo desde el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-stephen-king-mejor-juego-tronos-breaking-bad-1400084'>Esta serie nórdica de Netflix ha fascinado a Stephen King, afirma que es incluso mejor que Juego de Tronos y Breaking Bad</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/serie-nordica-netflix-stephen-king-mejor-juego-tronos-breaking-bad-1400084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/serie-nordica-netflix-ya-culto-enamoro-stephen-king-mejor-juego-tronos-breaking-bad-3942729.jpg?tf=1200x' alt='Esta serie nórdica de Netflix ha fascinado a Stephen King, afirma que es incluso mejor que Juego de Tronos y Breaking Bad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disponible-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-1404574'>Ya está en Max la película que cambió el cine de ciencia ficción para siempre: creó un género propio</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disponible-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-1404574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-puedes-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-4149410.jpg?tf=1200x' alt='Ya está en Max la película que cambió el cine de ciencia ficción para siempre: creó un género propio' />
     </a>
 </div>
 
