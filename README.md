@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nas-24-discos-duros-sin-fallos-truco-1405317'>Monta un NAS con 24 discos duros y en 10 años no ha tenido ni un fallo: este es el truco que usó</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nas-24-discos-duros-sin-fallos-truco-1405317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/monta-nas-24-discos-duros-10-anos-no-ha-tenido-ningun-fallo-truco-uso-4188214.jpg?tf=1200x' alt='Monta un NAS con 24 discos duros y en 10 años no ha tenido ni un fallo: este es el truco que usó' />
+    <h4><a href='https://computerhoy.com/google/descubri-opcion-waze-ya-no-comparto-mi-ubicacion-google-maps-1405028'>Desde que descubrí esta opción de Waze ya no comparto mi ubicación con Google Maps</a></h4>
+    <a href='https://computerhoy.com/google/descubri-opcion-waze-ya-no-comparto-mi-ubicacion-google-maps-1405028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/descubri-opcion-waze-ya-no-comparto-mi-ubicacion-google-maps-4168366.jpg?tf=1200x' alt='Desde que descubrí esta opción de Waze ya no comparto mi ubicación con Google Maps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/tim-burton-revela-verdadera-razon-geena-davies-alec-baldwin-no-estan-bitelchus-bitelchus-1403405'>Tim Burton lo revela: esta es la verdadera razón por la que Geena Davies y Alec Baldwin no están en Bitelchús Bitelchús</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/tim-burton-revela-verdadera-razon-geena-davies-alec-baldwin-no-estan-bitelchus-bitelchus-1403405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tim-burton-revela-verdadera-razon-geena-davies-alec-baldwin-no-estan-bitelchus-bitelchus-4099427.jpg?tf=1200x' alt='Tim Burton lo revela: esta es la verdadera razón por la que Geena Davies y Alec Baldwin no están en Bitelchús Bitelchús' />
+    <h4><a href='https://computerhoy.com/pc/olvida-raspberry-pi-mini-pc-mas-potente-barato-1392796'>Olvida las Raspberry Pi: este Mini PC con Windows 11 y SSD es mucho más rápido e igual de barato</a></h4>
+    <a href='https://computerhoy.com/pc/olvida-raspberry-pi-mini-pc-mas-potente-barato-1392796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bmax-b2-pro-3598888.jpg?tf=1200x' alt='Olvida las Raspberry Pi: este Mini PC con Windows 11 y SSD es mucho más rápido e igual de barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/modo-secreto-router-wifi-deberias-activar-ya-1189322'>Este es el modo secreto de tu router WiFi que deberías activar ya</a></h4>
-    <a href='https://computerhoy.com/internet/modo-secreto-router-wifi-deberias-activar-ya-1189322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg?tf=1200x' alt='Este es el modo secreto de tu router WiFi que deberías activar ya' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-vende-curioso-producto-china-aliexpress-ha-traido-españa-1404713'>Xiaomi vende un curioso (y útil) producto en China que AliExpress ha traído por sorpresa a España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-vende-curioso-producto-china-aliexpress-ha-traido-españa-1404713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-mi-home-s100-4155155.jpg?tf=1200x' alt='Xiaomi vende un curioso (y útil) producto en China que AliExpress ha traído por sorpresa a España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-reloj-parecido-garmin-menos-200-euros-1402946'>Huawei tiene un reloj que se parece a los Garmin, pero con alma de smartwatch y por menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-reloj-parecido-garmin-menos-200-euros-1402946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131222.jpg?tf=1200x' alt='Huawei tiene un reloj que se parece a los Garmin, pero con alma de smartwatch y por menos de 200 euros' />
+    <h4><a href='https://computerhoy.com/analisis/honor-magicpad-2-tablet-pantalla-oled-analisis-opinion-1405248'>He probado la Honor MagicPad 2 y me ha encantado su pantalla, pero es que además tiene una batería a prueba de usuarios pro</a></h4>
+    <a href='https://computerhoy.com/analisis/honor-magicpad-2-tablet-pantalla-oled-analisis-opinion-1405248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/honor-magicpad-2-4185303.jpg?tf=1200x' alt='He probado la Honor MagicPad 2 y me ha encantado su pantalla, pero es que además tiene una batería a prueba de usuarios pro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/tierra-nueva-miniluna-debes-saber-fenomeno-inusual-1405149'>La Tierra y su nueva “miniluna”: lo que debes saber sobre este fenómeno inusual</a></h4>
-    <a href='https://computerhoy.com/espacio/tierra-nueva-miniluna-debes-saber-fenomeno-inusual-1405149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tierra-dos-lunas-4183057.jpg?tf=1200x' alt='La Tierra y su nueva “miniluna”: lo que debes saber sobre este fenómeno inusual' />
+    <h4><a href='https://computerhoy.com/tecnologia/razon-modelos-inteligencia-artificial-cada-vez-seran-menos-inteligentes-advierte-estudio-1403814'>Esta es la razón por la que los modelos de inteligencia artificial cada vez serán menos inteligentes, según advierte un estudio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/razon-modelos-inteligencia-artificial-cada-vez-seran-menos-inteligentes-advierte-estudio-1403814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/razon-modelos-inteligencia-artificial-cada-vez-seran-menos-inteligentes-advierte-estudio-4113617.jpg?tf=1200x' alt='Esta es la razón por la que los modelos de inteligencia artificial cada vez serán menos inteligentes, según advierte un estudio' />
     </a>
 </div>
 
