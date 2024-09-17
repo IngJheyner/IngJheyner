@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-almeria-mar-plastico-1344018'>Ni la Gran Muralla ni las Pirámides: la única estructura perfectamente visible desde el espacio está en España</a></h4>
+    <a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-almeria-mar-plastico-1344018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mar-plastico-almeria-3237738.jpg?tf=1200x' alt='Ni la Gran Muralla ni las Pirámides: la única estructura perfectamente visible desde el espacio está en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/error-pone-riesgo-correo-electronico-todo-mundo-comete-diario-1404602'>Este es el error que más pone en riesgo tu correo electrónico, y todo el mundo lo comete a diario</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/error-pone-riesgo-correo-electronico-todo-mundo-comete-diario-1404602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/error-pone-riesgo-correo-electronico-todo-mundo-comete-diario-4150152.jpg?tf=1200x' alt='Este es el error que más pone en riesgo tu correo electrónico, y todo el mundo lo comete a diario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/intel-perdio-posibilidad-disenar-chip-futura-playstation-6-ahora-han-conocido-motivos-1405431'>Intel perdió la posibilidad de diseñar el chip de la futura PlayStation 6 y ahora se han conocido los motivos</a></h4>
     <a href='https://computerhoy.com/gaming/intel-perdio-posibilidad-disenar-chip-futura-playstation-6-ahora-han-conocido-motivos-1405431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/intel-perdio-posibilidad-disenar-chip-playstation-5-ahora-han-conocido-motivos-4191451.jpg?tf=1200x' alt='Intel perdió la posibilidad de diseñar el chip de la futura PlayStation 6 y ahora se han conocido los motivos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-podria-llevar-realidad-aumentada-find-my-device-trabaja-nuevas-mejoras-estilo-apple-1405404'>Google podría llevar la realidad aumentada a Find My Device y trabaja en nuevas mejoras al estilo de Apple</a></h4>
     <a href='https://computerhoy.com/google/google-podria-llevar-realidad-aumentada-find-my-device-trabaja-nuevas-mejoras-estilo-apple-1405404' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-podria-llevar-realidad-aumentada-find-my-device-trabaja-nuevas-mejoras-estilo-apple-4190973.jpg?tf=1200x' alt='Google podría llevar la realidad aumentada a Find My Device y trabaja en nuevas mejoras al estilo de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-music-presenta-funcion-musica-haptica-usuarios-problemas-auditivos-como-parte-ios-18-1405423'>Apple Music presenta la función Música Háptica para usuarios con problemas auditivos como parte de iOS 18</a></h4>
-    <a href='https://computerhoy.com/apple/apple-music-presenta-funcion-musica-haptica-usuarios-problemas-auditivos-como-parte-ios-18-1405423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-music-presenta-musica-haptica-4191293.jpg?tf=1200x' alt='Apple Music presenta la función Música Háptica para usuarios con problemas auditivos como parte de iOS 18' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dos-semanas-bateria-100-deportes-huawei-deja-ko-mi-band-rebajando-pulsera-top-1405269'>Dos semanas de batería y 100 deportes: Huawei deja KO a la Mi Band rebajando su pulsera más top</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dos-semanas-bateria-100-deportes-huawei-deja-ko-mi-band-rebajando-pulsera-top-1405269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-band-9-3306669.jpg?tf=1200x' alt='Dos semanas de batería y 100 deportes: Huawei deja KO a la Mi Band rebajando su pulsera más top' />
     </a>
 </div>
 
