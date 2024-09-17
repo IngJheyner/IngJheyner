@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/alerta-iptv-ultima-ofensiva-futbol-gratis-registro-direcciones-ip-miles-usuarios-1405505'>Alerta IPTV: la última ofensiva contra el fútbol gratis es el registro de direcciones IP de miles de usuarios</a></h4>
+    <a href='https://computerhoy.com/internet/alerta-iptv-ultima-ofensiva-futbol-gratis-registro-direcciones-ip-miles-usuarios-1405505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/alerta-iptv-ultima-ofensiva-futbol-gratis-registro-direcciones-ip-miles-usuarios-4194137.jpg?tf=1200x' alt='Alerta IPTV: la última ofensiva contra el fútbol gratis es el registro de direcciones IP de miles de usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/imagen-submarino-titan-oceangate-hundido-junto-titanic-1405509'>Se desvela una imagen del submarino Titán de OceanGate, hundido junto al Titanic</a></h4>
+    <a href='https://computerhoy.com/tecnologia/imagen-submarino-titan-oceangate-hundido-junto-titanic-1405509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/desvela-imagen-submarino-titan-exploto-hundido-junto-titanic-4193686.jpg?tf=1200x' alt='Se desvela una imagen del submarino Titán de OceanGate, hundido junto al Titanic' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mozilla-firefox-diferencias-otros-navegadores-extensiones-imprescindibles-1404587'>Qué es Mozilla Firefox, diferencias con otros navegadores y extensiones imprescindibles</a></h4>
     <a href='https://computerhoy.com/tecnologia/mozilla-firefox-diferencias-otros-navegadores-extensiones-imprescindibles-1404587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mozilla-firefox-4150147.jpg?tf=1200x' alt='Qué es Mozilla Firefox, diferencias con otros navegadores y extensiones imprescindibles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/golpe-pirateria-desmantelan-red-12000-consolas-retro-falsificadas-1405506'>Golpe a la piratería: desmantelan una red con más de 12.000 consolas retro falsificadas</a></h4>
     <a href='https://computerhoy.com/tecnologia/golpe-pirateria-desmantelan-red-12000-consolas-retro-falsificadas-1405506' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/golpe-pirateria-desmantelan-red-12000-consolas-retro-falsificadas-4193685.jpg?tf=1200x' alt='Golpe a la piratería: desmantelan una red con más de 12.000 consolas retro falsificadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/ni-mercadona-ni-lidl-alcampo-arrasa-supermercados-baratos-espana-ocu-1405503'>Ni Mercadona ni Lidl, Alcampo arrasa entre los supermercados más baratos de España, según la OCU</a></h4>
-    <a href='https://computerhoy.com/alimentacion/ni-mercadona-ni-lidl-alcampo-arrasa-supermercados-baratos-espana-ocu-1405503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/supermercado-4193682.jpg?tf=1200x' alt='Ni Mercadona ni Lidl, Alcampo arrasa entre los supermercados más baratos de España, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/arraso-oscar-ahora-ha-llegado-amazon-prime-video-hacer-ruido-ultimo-gran-fenomeno-cine-asiatico-1405230'>Arrasó en los Óscar y ahora ha llegado a Amazon Prime Video sin hacer ruido: el último gran fenómeno del cine asiático</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/arraso-oscar-ahora-ha-llegado-amazon-prime-video-hacer-ruido-ultimo-gran-fenomeno-cine-asiatico-1405230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/parasitos-2480613.jpg?tf=1200x' alt='Arrasó en los Óscar y ahora ha llegado a Amazon Prime Video sin hacer ruido: el último gran fenómeno del cine asiático' />
     </a>
 </div>
 
