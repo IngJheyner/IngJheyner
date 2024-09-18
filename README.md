@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/ilusion-lunar-misterio-luna-1405530'>La Ilusión lunar, un misterio de miles de años sin resolver que ni Aristóteles supo descifrar</a></h4>
+    <a href='https://computerhoy.com/espacio/ilusion-lunar-misterio-luna-1405530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aun-no-hemos-resuelto-ilusion-lunar-misterio-miles-anos-ni-aristoteles-supo-descifrar-4194725.jpg?tf=1200x' alt='La Ilusión lunar, un misterio de miles de años sin resolver que ni Aristóteles supo descifrar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/como-convertir-android-iphone-apps-basadas-ios-1405251'>Cómo convertir tu Android en un iPhone con estas apps basadas en iOS</a></h4>
     <a href='https://computerhoy.com/android/como-convertir-android-iphone-apps-basadas-ios-1405251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apps-iphone-android-4184982.jpg?tf=1200x' alt='Cómo convertir tu Android en un iPhone con estas apps basadas en iOS' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/descubren-secretos-imago-mundi-mapa-antiguo-mundo-1405405'>Descubren los secretos del Imago Mundi, el mapa más antiguo del mundo</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-secretos-imago-mundi-mapa-antiguo-mundo-1405405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/babilonia-4190980.jpg?tf=1200x' alt='Descubren los secretos del Imago Mundi, el mapa más antiguo del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cumplen-24-anos-muchos-peor-windows-historia-1405380'>Se cumplen 24 años del que para muchos es el peor Windows de la historia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cumplen-24-anos-muchos-peor-windows-historia-1405380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-me-2812717.jpg?tf=1200x' alt='Se cumplen 24 años del que para muchos es el peor Windows de la historia' />
     </a>
 </div>
 
