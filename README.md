@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-hay-relevo-garmin-fenix-7x-solar-ahora-tan-barato-hace-olvidar-nuevo-modelo-1405328'>No hay relevo: el Garmin Fenix 7X Solar es ahora tan barato que hace olvidar al nuevo modelo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-hay-relevo-garmin-fenix-7x-solar-ahora-tan-barato-hace-olvidar-nuevo-modelo-1405328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7x-pro-solar-3212838.jpg?tf=1200x' alt='No hay relevo: el Garmin Fenix 7X Solar es ahora tan barato que hace olvidar al nuevo modelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hay-detras-strawberry-openai-amenaza-prohibir-acceso-chatgpt-te-pasas-preguntando-1405553'>¿Qué hay detrás de 'Strawberry'? OpenAI amenaza con prohibir el acceso a ChatGPT si te pasas preguntando</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hay-detras-strawberry-openai-amenaza-prohibir-acceso-chatgpt-te-pasas-preguntando-1405553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/proyecto-strawberry-openai-4134862.jpg?tf=1200x' alt='¿Qué hay detrás de 'Strawberry'? OpenAI amenaza con prohibir el acceso a ChatGPT si te pasas preguntando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/meta-punto-mira-ue-prepara-gran-multa-practicas-anticompetitivas-1405543'>Meta en el punto de mira: la UE prepara una gran multa por prácticas anticompetitivas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-punto-mira-ue-prepara-gran-multa-practicas-anticompetitivas-1405543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/meta-facebook-3209280.jpg?tf=1200x' alt='Meta en el punto de mira: la UE prepara una gran multa por prácticas anticompetitivas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/ilusion-lunar-misterio-luna-1405530'>La Ilusión lunar, un misterio de miles de años sin resolver que ni Aristóteles supo descifrar</a></h4>
     <a href='https://computerhoy.com/espacio/ilusion-lunar-misterio-luna-1405530' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aun-no-hemos-resuelto-ilusion-lunar-misterio-miles-anos-ni-aristoteles-supo-descifrar-4194725.jpg?tf=1200x' alt='La Ilusión lunar, un misterio de miles de años sin resolver que ni Aristóteles supo descifrar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/como-convertir-android-iphone-apps-basadas-ios-1405251'>Cómo convertir tu Android en un iPhone con estas apps basadas en iOS</a></h4>
     <a href='https://computerhoy.com/android/como-convertir-android-iphone-apps-basadas-ios-1405251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apps-iphone-android-4184982.jpg?tf=1200x' alt='Cómo convertir tu Android en un iPhone con estas apps basadas en iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/eufy-liquida-localizador-alternativa-barata-airtag-1387207'>Cuesta la tercera parte que un AirTag y funciona igual: eufy está liquidando su localizador en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/eufy-liquida-localizador-alternativa-barata-airtag-1387207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/eufy-security-smarttrack-link-3339352.jpg?tf=1200x' alt='Cuesta la tercera parte que un AirTag y funciona igual: eufy está liquidando su localizador en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-nubia-z60s-pro-movil-sabe-acercar-gama-alta-precio-muy-asequible-1404794'>He probado el Nubia Z60S Pro, un móvil que sabe acercar la gama alta a un precio muy asequible</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-nubia-z60s-pro-movil-sabe-acercar-gama-alta-precio-muy-asequible-1404794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nubia-z60s-pro-4158036.jpg?tf=1200x' alt='He probado el Nubia Z60S Pro, un móvil que sabe acercar la gama alta a un precio muy asequible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-secretos-imago-mundi-mapa-antiguo-mundo-1405405'>Descubren los secretos del Imago Mundi, el mapa más antiguo del mundo</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-secretos-imago-mundi-mapa-antiguo-mundo-1405405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/babilonia-4190980.jpg?tf=1200x' alt='Descubren los secretos del Imago Mundi, el mapa más antiguo del mundo' />
     </a>
 </div>
 
