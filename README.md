@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-todas-notificaciones-amazon-prime-video-1405105'>Cómo desactivar todas las notificaciones de Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desactivar-todas-notificaciones-amazon-prime-video-1405105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/notificaciones-prime-video-4179276.jpg?tf=1200x' alt='Cómo desactivar todas las notificaciones de Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-eliminar-rayas-cristales-gafas-solo-necesitas-dos-ingredientes-tienes-cocina-1405667'>Cómo eliminar las rayas de los cristales de las gafas: solo necesitas dos ingredientes que tienes en la cocina</a></h4>
+    <a href='https://computerhoy.com/life/como-eliminar-rayas-cristales-gafas-solo-necesitas-dos-ingredientes-tienes-cocina-1405667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-eliminar-rayas-cristales-gafas-solo-necesitas-dos-ingredientes-tienes-cocina-4199825.jpg?tf=1200x' alt='Cómo eliminar las rayas de los cristales de las gafas: solo necesitas dos ingredientes que tienes en la cocina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/generacion-z-son-maestros-utilizar-tiktok-pero-tienen-serios-problemas-entender-dispositivo-oficina-1404538'>La generación Z son maestros en utilizar TikTok, pero tienen serios problemas para entender este dispositivo de la oficina</a></h4>
     <a href='https://computerhoy.com/tecnologia/generacion-z-son-maestros-utilizar-tiktok-pero-tienen-serios-problemas-entender-dispositivo-oficina-1404538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/generacion-z-son-maestros-utilizar-tiktok-pero-tienen-serios-problemas-entender-dispositivo-oficina-4148774.jpg?tf=1200x' alt='La generación Z son maestros en utilizar TikTok, pero tienen serios problemas para entender este dispositivo de la oficina' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-memoria-ram-pc-configurada-velocidad-correcta-1405118'>Cómo comprobar que la memoria RAM de tu PC está configurada a la velocidad correcta</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-comprobar-memoria-ram-pc-configurada-velocidad-correcta-1405118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estado-memoria-ram-4191455.jpg?tf=1200x' alt='Cómo comprobar que la memoria RAM de tu PC está configurada a la velocidad correcta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejor-alternativa-waze-ha-llegado-promete-librarte-todos-radares-1402733'>¿Waze? Olvídate, la mejor alternativa ha llegado y promete librarte de todos los radares</a></h4>
-    <a href='https://computerhoy.com/apps/mejor-alternativa-waze-ha-llegado-promete-librarte-todos-radares-1402733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ya-puedes-borrar-waze-mejor-alternativa-ha-llegado-promete-librarte-todos-radares-4067760.jpg?tf=1200x' alt='¿Waze? Olvídate, la mejor alternativa ha llegado y promete librarte de todos los radares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-elimina-caja-iphone-16-elemento-clasico-1405052'>Apple lo vuelve a hacer y ya no incluirá en la caja del iPhone 16 este elemento clásico</a></h4>
-    <a href='https://computerhoy.com/apple/apple-elimina-caja-iphone-16-elemento-clasico-1405052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/caja-varios-iphone-4170097.jpg?tf=1200x' alt='Apple lo vuelve a hacer y ya no incluirá en la caja del iPhone 16 este elemento clásico' />
     </a>
 </div>
 
