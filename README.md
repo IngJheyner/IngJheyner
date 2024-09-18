@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-estrena-funcion-convierte-canales-youtube-netflix-1405709'>Google estrena una función que convierte los canales de YouTube en Netflix</a></h4>
+    <a href='https://computerhoy.com/apps/google-estrena-funcion-convierte-canales-youtube-netflix-1405709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-estrena-nueva-funcion-convierte-canales-youtube-netflix-4201218.jpg?tf=1200x' alt='Google estrena una función que convierte los canales de YouTube en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cloud-computing-consiste-ventajas-ofrecen-servicios-como-aws-azure-google-cloud-1404046'>Cloud Computing, en qué consiste y qué ventajas ofrecen servicios como AWS, Azure o Google Cloud</a></h4>
     <a href='https://computerhoy.com/tecnologia/cloud-computing-consiste-ventajas-ofrecen-servicios-como-aws-azure-google-cloud-1404046' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cloud-computing-4134202.jpg?tf=1200x' alt='Cloud Computing, en qué consiste y qué ventajas ofrecen servicios como AWS, Azure o Google Cloud' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/confirmada-fecha-lanzamiento-windows-11-24h2-todos-pc-pc-listo-cambio-1405701'>Confirmada la fecha de lanzamiento de Windows 11 24H2 para todos los PC: ¿está tu PC listo para el cambio?</a></h4>
     <a href='https://computerhoy.com/windows/confirmada-fecha-lanzamiento-windows-11-24h2-todos-pc-pc-listo-cambio-1405701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizacion-windows-11-4201065.jpg?tf=1200x' alt='Confirmada la fecha de lanzamiento de Windows 11 24H2 para todos los PC: ¿está tu PC listo para el cambio?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/acusan-tcl-vender-televisores-quantum-dot-no-son-quantum-dot-1405698'>Acusan a TCL de vender televisores Quantum Dot, que no son Quantum Dot</a></h4>
-    <a href='https://computerhoy.com/tv/acusan-tcl-vender-televisores-quantum-dot-no-son-quantum-dot-1405698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tcl-50t7b-3728520.jpg?tf=1200x' alt='Acusan a TCL de vender televisores Quantum Dot, que no son Quantum Dot' />
     </a>
 </div>
 
