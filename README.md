@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/acusan-tcl-vender-televisores-quantum-dot-no-son-quantum-dot-1405698'>Acusan a TCL de vender televisores Quantum Dot, que no son Quantum Dot</a></h4>
+    <a href='https://computerhoy.com/tv/acusan-tcl-vender-televisores-quantum-dot-no-son-quantum-dot-1405698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/tcl-50t7b-3728520.jpg?tf=1200x' alt='Acusan a TCL de vender televisores Quantum Dot, que no son Quantum Dot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-poner-cualquier-serie-pelicula-crunchyroll-espanol-1405116'>Cómo poner cualquier serie o película de Crunchyroll en español</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-poner-cualquier-serie-pelicula-crunchyroll-espanol-1405116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-poner-crunchyroll-espanol-4180881.jpg?tf=1200x' alt='Cómo poner cualquier serie o película de Crunchyroll en español' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-todas-notificaciones-amazon-prime-video-1405105'>Cómo desactivar todas las notificaciones de Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-desactivar-todas-notificaciones-amazon-prime-video-1405105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/notificaciones-prime-video-4179276.jpg?tf=1200x' alt='Cómo desactivar todas las notificaciones de Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-eliminar-rayas-cristales-gafas-solo-necesitas-dos-ingredientes-tienes-cocina-1405667'>Cómo eliminar las rayas de los cristales de las gafas: solo necesitas dos ingredientes que tienes en la cocina</a></h4>
-    <a href='https://computerhoy.com/life/como-eliminar-rayas-cristales-gafas-solo-necesitas-dos-ingredientes-tienes-cocina-1405667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-eliminar-rayas-cristales-gafas-solo-necesitas-dos-ingredientes-tienes-cocina-4199825.jpg?tf=1200x' alt='Cómo eliminar las rayas de los cristales de las gafas: solo necesitas dos ingredientes que tienes en la cocina' />
     </a>
 </div>
 
