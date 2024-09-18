@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/waze-google-maps-cual-mejor-para-viajar-1111401'>Waze o Google Maps: ¿Cuál es mejor para viajar?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/waze-google-maps-cual-mejor-para-viajar-1111401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/waze-vs-google-maps-2789453.jpg?tf=1200x' alt='Waze o Google Maps: ¿Cuál es mejor para viajar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/trampas-iptv-ultima-estrategia-concienciar-acabar-futbol-pirata-1405607'>Trampas IPTV: la última estrategia para concienciar y acabar con el fútbol pirata</a></h4>
+    <a href='https://computerhoy.com/internet/trampas-iptv-ultima-estrategia-concienciar-acabar-futbol-pirata-1405607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estudio-confirma-advertencias-antipirateria-consiguen-efecto-contrario-3279241.jpg?tf=1200x' alt='Trampas IPTV: la última estrategia para concienciar y acabar con el fútbol pirata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/fin-puertos-iphone-novedad-ios-18-apunta-esa-direccion-1405593'>¿Es el fin de los puertos en el iPhone? Esta novedad de iOS 18 apunta en esa dirección</a></h4>
+    <a href='https://computerhoy.com/apple/fin-puertos-iphone-novedad-ios-18-apunta-esa-direccion-1405593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143630.jpg?tf=1200x' alt='¿Es el fin de los puertos en el iPhone? Esta novedad de iOS 18 apunta en esa dirección' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-hace-3x1-regala-tres-meses-gestor-contrasenas-drive-vpn-precio-historico-1405326'>NordVPN hace un 3x1 y regala tres meses: gestor de contraseñas, Drive y VPN a precio histórico</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nordvpn-hace-3x1-regala-tres-meses-gestor-contrasenas-drive-vpn-precio-historico-1405326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nordvpn-4189252.jpg?tf=1200x' alt='NordVPN hace un 3x1 y regala tres meses: gestor de contraseñas, Drive y VPN a precio histórico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/hago-alargar-bateria-mi-movil-android-1393089'>Esto es lo que hago para alargar la batería de mi móvil Android: 15 consejos para exprimirla al máximo</a></h4>
     <a href='https://computerhoy.com/tecnologia/hago-alargar-bateria-mi-movil-android-1393089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bateria-movil-android-3699153.jpg?tf=1200x' alt='Esto es lo que hago para alargar la batería de mi móvil Android: 15 consejos para exprimirla al máximo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/funcion-ios-18-te-avisara-usas-cargador-lento-iphone-1405560'>Esta función de iOS 18 te avisará si usas un cargador lento en tu iPhone </a></h4>
-    <a href='https://computerhoy.com/apple/funcion-ios-18-te-avisara-usas-cargador-lento-iphone-1405560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-4126953.jpg?tf=1200x' alt='Esta función de iOS 18 te avisará si usas un cargador lento en tu iPhone ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/podria-ser-primer-juego-confirmado-nintendo-switch-2-1405546'>Este podría ser el primer juego confirmado para Nintendo Switch 2</a></h4>
-    <a href='https://computerhoy.com/gaming/podria-ser-primer-juego-confirmado-nintendo-switch-2-1405546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nintendo-switch-2-3095060.jpg?tf=1200x' alt='Este podría ser el primer juego confirmado para Nintendo Switch 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-hay-relevo-garmin-fenix-7x-solar-ahora-tan-barato-hace-olvidar-nuevo-modelo-1405328'>No hay relevo: el Garmin Fenix 7X Solar es ahora tan barato que hace olvidar al nuevo modelo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-hay-relevo-garmin-fenix-7x-solar-ahora-tan-barato-hace-olvidar-nuevo-modelo-1405328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7x-pro-solar-3212838.jpg?tf=1200x' alt='No hay relevo: el Garmin Fenix 7X Solar es ahora tan barato que hace olvidar al nuevo modelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hay-detras-strawberry-openai-amenaza-prohibir-acceso-chatgpt-te-pasas-preguntando-1405553'>¿Qué hay detrás de 'Strawberry'? OpenAI amenaza con prohibir el acceso a ChatGPT si te pasas preguntando</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hay-detras-strawberry-openai-amenaza-prohibir-acceso-chatgpt-te-pasas-preguntando-1405553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/proyecto-strawberry-openai-4134862.jpg?tf=1200x' alt='¿Qué hay detrás de 'Strawberry'? OpenAI amenaza con prohibir el acceso a ChatGPT si te pasas preguntando' />
     </a>
 </div>
 
