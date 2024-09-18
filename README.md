@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-poner-cualquier-serie-pelicula-crunchyroll-espanol-1405116'>Cómo poner cualquier serie o película de Crunchyroll en español</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-poner-cualquier-serie-pelicula-crunchyroll-espanol-1405116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-poner-crunchyroll-espanol-4180881.jpg?tf=1200x' alt='Cómo poner cualquier serie o película de Crunchyroll en español' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/tienes-llave-cambiala-ahora-mismo-cerrajeros-puede-abrir-ganzua-cualquiera-puede-comprar-internet-1405680'>¿Tienes esta llave? Cámbiala ahora mismo, según los cerrajeros, se puede abrir con una ganzúa que cualquiera puede comprar en Internet</a></h4>
+    <a href='https://computerhoy.com/hogar/tienes-llave-cambiala-ahora-mismo-cerrajeros-puede-abrir-ganzua-cualquiera-puede-comprar-internet-1405680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tienes-llave-cambiala-ahora-mismo-cerrajeros-puede-abrir-ganzua-cualquiera-puede-comprar-internet-4200311.jpg?tf=1200x' alt='¿Tienes esta llave? Cámbiala ahora mismo, según los cerrajeros, se puede abrir con una ganzúa que cualquiera puede comprar en Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/tiene-cosas-ghost-shell-blade-runner-asimov-pelicula-animacion-francesa-rinde-culto-ciberpunk-1405345'>Tiene cosas de Ghost in the Shell, Blade Runner y hasta de Asimov: así es la película de animación francesa que rinde culto al ciberpunk</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/tiene-cosas-ghost-shell-blade-runner-asimov-pelicula-animacion-francesa-rinde-culto-ciberpunk-1405345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tiene-cosas-ghost-shell-blade-runner-asimov-pelicula-animacion-francesa-rinde-culto-ciberpunk-4190015.jpg?tf=1200x' alt='Tiene cosas de Ghost in the Shell, Blade Runner y hasta de Asimov: así es la película de animación francesa que rinde culto al ciberpunk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-todas-notificaciones-amazon-prime-video-1405105'>Cómo desactivar todas las notificaciones de Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-desactivar-todas-notificaciones-amazon-prime-video-1405105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/notificaciones-prime-video-4179276.jpg?tf=1200x' alt='Cómo desactivar todas las notificaciones de Amazon Prime Video' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/como-eliminar-rayas-cristales-gafas-solo-necesitas-dos-ingredientes-tienes-cocina-1405667'>Cómo eliminar las rayas de los cristales de las gafas: solo necesitas dos ingredientes que tienes en la cocina</a></h4>
     <a href='https://computerhoy.com/life/como-eliminar-rayas-cristales-gafas-solo-necesitas-dos-ingredientes-tienes-cocina-1405667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-eliminar-rayas-cristales-gafas-solo-necesitas-dos-ingredientes-tienes-cocina-4199825.jpg?tf=1200x' alt='Cómo eliminar las rayas de los cristales de las gafas: solo necesitas dos ingredientes que tienes en la cocina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/generacion-z-son-maestros-utilizar-tiktok-pero-tienen-serios-problemas-entender-dispositivo-oficina-1404538'>La generación Z son maestros en utilizar TikTok, pero tienen serios problemas para entender este dispositivo de la oficina</a></h4>
-    <a href='https://computerhoy.com/tecnologia/generacion-z-son-maestros-utilizar-tiktok-pero-tienen-serios-problemas-entender-dispositivo-oficina-1404538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/generacion-z-son-maestros-utilizar-tiktok-pero-tienen-serios-problemas-entender-dispositivo-oficina-4148774.jpg?tf=1200x' alt='La generación Z son maestros en utilizar TikTok, pero tienen serios problemas para entender este dispositivo de la oficina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/por-que-steve-jobs-cambiaba-coche-cada-6-meses-matricula-1185170'>Steve Jobs compraba el mismo coche cada seis meses: un Mercedes-Benz SL-Class, aunque lo único que le importaba era su matrícula </a></h4>
-    <a href='https://computerhoy.com/apple/por-que-steve-jobs-cambiaba-coche-cada-6-meses-matricula-1185170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/steve-jobs-cambiaba-coche-cada-6-meses-conducia-matricula-2929406.jpg?tf=1200x' alt='Steve Jobs compraba el mismo coche cada seis meses: un Mercedes-Benz SL-Class, aunque lo único que le importaba era su matrícula ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-memoria-ram-pc-configurada-velocidad-correcta-1405118'>Cómo comprobar que la memoria RAM de tu PC está configurada a la velocidad correcta</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-comprobar-memoria-ram-pc-configurada-velocidad-correcta-1405118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estado-memoria-ram-4191455.jpg?tf=1200x' alt='Cómo comprobar que la memoria RAM de tu PC está configurada a la velocidad correcta' />
     </a>
 </div>
 
