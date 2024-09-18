@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/funcion-ios-18-te-avisara-usas-cargador-lento-iphone-1405560'>Esta función de iOS 18 te avisará si usas un cargador lento en tu iPhone </a></h4>
+    <a href='https://computerhoy.com/apple/funcion-ios-18-te-avisara-usas-cargador-lento-iphone-1405560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-4126953.jpg?tf=1200x' alt='Esta función de iOS 18 te avisará si usas un cargador lento en tu iPhone ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/podria-ser-primer-juego-confirmado-nintendo-switch-2-1405546'>Este podría ser el primer juego confirmado para Nintendo Switch 2</a></h4>
+    <a href='https://computerhoy.com/gaming/podria-ser-primer-juego-confirmado-nintendo-switch-2-1405546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nintendo-switch-2-3095060.jpg?tf=1200x' alt='Este podría ser el primer juego confirmado para Nintendo Switch 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/no-hay-relevo-garmin-fenix-7x-solar-ahora-tan-barato-hace-olvidar-nuevo-modelo-1405328'>No hay relevo: el Garmin Fenix 7X Solar es ahora tan barato que hace olvidar al nuevo modelo</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-hay-relevo-garmin-fenix-7x-solar-ahora-tan-barato-hace-olvidar-nuevo-modelo-1405328' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7x-pro-solar-3212838.jpg?tf=1200x' alt='No hay relevo: el Garmin Fenix 7X Solar es ahora tan barato que hace olvidar al nuevo modelo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/meta-punto-mira-ue-prepara-gran-multa-practicas-anticompetitivas-1405543'>Meta en el punto de mira: la UE prepara una gran multa por prácticas anticompetitivas</a></h4>
     <a href='https://computerhoy.com/tecnologia/meta-punto-mira-ue-prepara-gran-multa-practicas-anticompetitivas-1405543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/meta-facebook-3209280.jpg?tf=1200x' alt='Meta en el punto de mira: la UE prepara una gran multa por prácticas anticompetitivas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/ilusion-lunar-misterio-luna-1405530'>La Ilusión lunar, un misterio de miles de años sin resolver que ni Aristóteles supo descifrar</a></h4>
-    <a href='https://computerhoy.com/espacio/ilusion-lunar-misterio-luna-1405530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aun-no-hemos-resuelto-ilusion-lunar-misterio-miles-anos-ni-aristoteles-supo-descifrar-4194725.jpg?tf=1200x' alt='La Ilusión lunar, un misterio de miles de años sin resolver que ni Aristóteles supo descifrar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/como-convertir-android-iphone-apps-basadas-ios-1405251'>Cómo convertir tu Android en un iPhone con estas apps basadas en iOS</a></h4>
-    <a href='https://computerhoy.com/android/como-convertir-android-iphone-apps-basadas-ios-1405251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apps-iphone-android-4184982.jpg?tf=1200x' alt='Cómo convertir tu Android en un iPhone con estas apps basadas en iOS' />
     </a>
 </div>
 
