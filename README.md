@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-desactivar-2g-seguridad-1398560'>¿Por qué Google está recomendando desactivar la red 2G en los móviles Android?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-desactivar-2g-seguridad-1398560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/desactivar-2g-3860419.jpg?tf=1200x' alt='¿Por qué Google está recomendando desactivar la red 2G en los móviles Android?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/china-da-paso-adelante-enciende-sol-artificial-120-millones-grados-1405601'>China da un paso adelante y enciende su “sol artificial” de 120 millones de grados</a></h4>
     <a href='https://computerhoy.com/ciencia/china-da-paso-adelante-enciende-sol-artificial-120-millones-grados-1405601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sol-4198381.jpg?tf=1200x' alt='China da un paso adelante y enciende su “sol artificial” de 120 millones de grados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/razon-no-debes-usar-movil-mientras-carga-1405608'>Esta es la razón por la que no debes usar tu móvil mientras se carga</a></h4>
     <a href='https://computerhoy.com/moviles/razon-no-debes-usar-movil-mientras-carga-1405608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/usar-movil-mientras-carga-4197721.jpg?tf=1200x' alt='Esta es la razón por la que no debes usar tu móvil mientras se carga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/no-ha-salido-mercado-ps5-pro-ya-comienza-generar-dudas-capacidad-grafica-1405571'>No ha salido al mercado y la PS5 Pro ya comienza a generar dudas sobre su capacidad gráfica</a></h4>
-    <a href='https://computerhoy.com/gaming/no-ha-salido-mercado-ps5-pro-ya-comienza-generar-dudas-capacidad-grafica-1405571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/no-ha-salido-mercado-ps5-pro-ya-comienza-generar-dudas-capacidad-grafica-4197569.jpg?tf=1200x' alt='No ha salido al mercado y la PS5 Pro ya comienza a generar dudas sobre su capacidad gráfica' />
     </a>
 </div>
 
