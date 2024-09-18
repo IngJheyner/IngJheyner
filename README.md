@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/como-convertir-android-iphone-apps-basadas-ios-1405251'>Cómo convertir tu Android en un iPhone con estas apps basadas en iOS</a></h4>
+    <a href='https://computerhoy.com/android/como-convertir-android-iphone-apps-basadas-ios-1405251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apps-iphone-android-4184982.jpg?tf=1200x' alt='Cómo convertir tu Android en un iPhone con estas apps basadas en iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/eufy-liquida-localizador-alternativa-barata-airtag-1387207'>Cuesta la tercera parte que un AirTag y funciona igual: eufy está liquidando su localizador en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/eufy-liquida-localizador-alternativa-barata-airtag-1387207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/eufy-security-smarttrack-link-3339352.jpg?tf=1200x' alt='Cuesta la tercera parte que un AirTag y funciona igual: eufy está liquidando su localizador en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-nubia-z60s-pro-movil-sabe-acercar-gama-alta-precio-muy-asequible-1404794'>He probado el Nubia Z60S Pro, un móvil que sabe acercar la gama alta a un precio muy asequible</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-nubia-z60s-pro-movil-sabe-acercar-gama-alta-precio-muy-asequible-1404794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nubia-z60s-pro-4158036.jpg?tf=1200x' alt='He probado el Nubia Z60S Pro, un móvil que sabe acercar la gama alta a un precio muy asequible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/descubren-secretos-imago-mundi-mapa-antiguo-mundo-1405405'>Descubren los secretos del Imago Mundi, el mapa más antiguo del mundo</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-secretos-imago-mundi-mapa-antiguo-mundo-1405405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/babilonia-4190980.jpg?tf=1200x' alt='Descubren los secretos del Imago Mundi, el mapa más antiguo del mundo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cumplen-24-anos-muchos-peor-windows-historia-1405380'>Se cumplen 24 años del que para muchos es el peor Windows de la historia</a></h4>
     <a href='https://computerhoy.com/tecnologia/cumplen-24-anos-muchos-peor-windows-historia-1405380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-me-2812717.jpg?tf=1200x' alt='Se cumplen 24 años del que para muchos es el peor Windows de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/smart-ring-que-es-utilidad-1101877'>¿Qué son los Smart Rings y qué utilidad tienen?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/smart-ring-que-es-utilidad-1101877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/son-smart-rings-cual-utilidad-3266657.jpg?tf=1200x' alt='¿Qué son los Smart Rings y qué utilidad tienen?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiene-whatsapp-gps-google-mas-barato-apple-watch-1060881'>Tiene WhatsApp, GPS y sistema operativo Google: este reloj inteligente no envidia al Apple Watch y es más barato</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/tiene-whatsapp-gps-google-mas-barato-apple-watch-1060881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ticwatch-pro-5-3601024.jpg?tf=1200x' alt='Tiene WhatsApp, GPS y sistema operativo Google: este reloj inteligente no envidia al Apple Watch y es más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/quentin-tarantino-no-tiene-minimo-interes-dirigir-mitica-saga-ciencia-ficcion-no-va-suceder-1402201'>Quentin Tarantino no tiene el más mínimo interés en dirigir esta mítica saga de ciencia ficción: “no va a suceder”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/quentin-tarantino-no-tiene-minimo-interes-dirigir-mitica-saga-ciencia-ficcion-no-va-suceder-1402201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/quentin-tarantino-3055816.jpg?tf=1200x' alt='Quentin Tarantino no tiene el más mínimo interés en dirigir esta mítica saga de ciencia ficción: “no va a suceder”' />
     </a>
 </div>
 
