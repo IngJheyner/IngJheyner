@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/generacion-z-son-maestros-utilizar-tiktok-pero-tienen-serios-problemas-entender-dispositivo-oficina-1404538'>La generación Z son maestros en utilizar TikTok, pero tienen serios problemas para entender este dispositivo de la oficina</a></h4>
+    <a href='https://computerhoy.com/tecnologia/generacion-z-son-maestros-utilizar-tiktok-pero-tienen-serios-problemas-entender-dispositivo-oficina-1404538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/generacion-z-son-maestros-utilizar-tiktok-pero-tienen-serios-problemas-entender-dispositivo-oficina-4148774.jpg?tf=1200x' alt='La generación Z son maestros en utilizar TikTok, pero tienen serios problemas para entender este dispositivo de la oficina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/por-que-steve-jobs-cambiaba-coche-cada-6-meses-matricula-1185170'>Steve Jobs compraba el mismo coche cada seis meses: un Mercedes-Benz SL-Class, aunque lo único que le importaba era su matrícula </a></h4>
+    <a href='https://computerhoy.com/apple/por-que-steve-jobs-cambiaba-coche-cada-6-meses-matricula-1185170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/steve-jobs-cambiaba-coche-cada-6-meses-conducia-matricula-2929406.jpg?tf=1200x' alt='Steve Jobs compraba el mismo coche cada seis meses: un Mercedes-Benz SL-Class, aunque lo único que le importaba era su matrícula ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-memoria-ram-pc-configurada-velocidad-correcta-1405118'>Cómo comprobar que la memoria RAM de tu PC está configurada a la velocidad correcta</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-comprobar-memoria-ram-pc-configurada-velocidad-correcta-1405118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estado-memoria-ram-4191455.jpg?tf=1200x' alt='Cómo comprobar que la memoria RAM de tu PC está configurada a la velocidad correcta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-elimina-caja-iphone-16-elemento-clasico-1405052'>Apple lo vuelve a hacer y ya no incluirá en la caja del iPhone 16 este elemento clásico</a></h4>
     <a href='https://computerhoy.com/apple/apple-elimina-caja-iphone-16-elemento-clasico-1405052' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/caja-varios-iphone-4170097.jpg?tf=1200x' alt='Apple lo vuelve a hacer y ya no incluirá en la caja del iPhone 16 este elemento clásico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/web-google-maps-origen-apellidos-1391580'>Esta web que te enseña de dónde vienen tus apellidos y con cuántas personas lo compartes</a></h4>
-    <a href='https://computerhoy.com/apps/web-google-maps-origen-apellidos-1391580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-maps-apellidos-4033800.jpg?tf=1200x' alt='Esta web que te enseña de dónde vienen tus apellidos y con cuántas personas lo compartes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ciencia-revela-misterio-interior-luna-hallazgo-podria-cambiar-exploracion-espacial-1405618'>La ciencia revela el misterio del interior de la Luna: el hallazgo que podría cambiar la exploración espacial</a></h4>
-    <a href='https://computerhoy.com/ciencia/ciencia-revela-misterio-interior-luna-hallazgo-podria-cambiar-exploracion-espacial-1405618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/luna-4198707.jpg?tf=1200x' alt='La ciencia revela el misterio del interior de la Luna: el hallazgo que podría cambiar la exploración espacial' />
     </a>
 </div>
 
