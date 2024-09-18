@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/china-da-paso-adelante-enciende-sol-artificial-120-millones-grados-1405601'>China da un paso adelante y enciende su “sol artificial” de 120 millones de grados</a></h4>
+    <a href='https://computerhoy.com/ciencia/china-da-paso-adelante-enciende-sol-artificial-120-millones-grados-1405601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sol-4198381.jpg?tf=1200x' alt='China da un paso adelante y enciende su “sol artificial” de 120 millones de grados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-ha-inspirado-disenadora-moda-crear-bolsos-virales-hechos-gpu-1405621'>Nvidia ha inspirado a una diseñadora de moda para crear unos bolsos virales hechos con su GPU</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-ha-inspirado-disenadora-moda-crear-bolsos-virales-hechos-gpu-1405621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nvidia-ha-inspirado-disenadora-moda-crear-bolsos-virales-hechos-gpu-4198546.jpg?tf=1200x' alt='Nvidia ha inspirado a una diseñadora de moda para crear unos bolsos virales hechos con su GPU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/barato-nube-2tb-siempre-solo-65-euros-1405504'>Más barato que la nube: 2TB tuyos para siempre por solo 65 euros</a></h4>
+    <a href='https://computerhoy.com/pc/barato-nube-2tb-siempre-solo-65-euros-1405504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/toshiba-canvio-basics-2022-4193988.jpg?tf=1200x' alt='Más barato que la nube: 2TB tuyos para siempre por solo 65 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/razon-no-debes-usar-movil-mientras-carga-1405608'>Esta es la razón por la que no debes usar tu móvil mientras se carga</a></h4>
     <a href='https://computerhoy.com/moviles/razon-no-debes-usar-movil-mientras-carga-1405608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/usar-movil-mientras-carga-4197721.jpg?tf=1200x' alt='Esta es la razón por la que no debes usar tu móvil mientras se carga' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/no-ha-salido-mercado-ps5-pro-ya-comienza-generar-dudas-capacidad-grafica-1405571'>No ha salido al mercado y la PS5 Pro ya comienza a generar dudas sobre su capacidad gráfica</a></h4>
     <a href='https://computerhoy.com/gaming/no-ha-salido-mercado-ps5-pro-ya-comienza-generar-dudas-capacidad-grafica-1405571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/no-ha-salido-mercado-ps5-pro-ya-comienza-generar-dudas-capacidad-grafica-4197569.jpg?tf=1200x' alt='No ha salido al mercado y la PS5 Pro ya comienza a generar dudas sobre su capacidad gráfica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/waze-google-maps-cual-mejor-para-viajar-1111401'>Waze o Google Maps: ¿Cuál es mejor para viajar?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/waze-google-maps-cual-mejor-para-viajar-1111401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/waze-vs-google-maps-2789453.jpg?tf=1200x' alt='Waze o Google Maps: ¿Cuál es mejor para viajar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/trampas-iptv-ultima-estrategia-concienciar-acabar-futbol-pirata-1405607'>Trampas IPTV: la última estrategia para concienciar y acabar con el fútbol pirata</a></h4>
-    <a href='https://computerhoy.com/internet/trampas-iptv-ultima-estrategia-concienciar-acabar-futbol-pirata-1405607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estudio-confirma-advertencias-antipirateria-consiguen-efecto-contrario-3279241.jpg?tf=1200x' alt='Trampas IPTV: la última estrategia para concienciar y acabar con el fútbol pirata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/fin-puertos-iphone-novedad-ios-18-apunta-esa-direccion-1405593'>¿Es el fin de los puertos en el iPhone? Esta novedad de iOS 18 apunta en esa dirección</a></h4>
-    <a href='https://computerhoy.com/apple/fin-puertos-iphone-novedad-ios-18-apunta-esa-direccion-1405593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143630.jpg?tf=1200x' alt='¿Es el fin de los puertos en el iPhone? Esta novedad de iOS 18 apunta en esa dirección' />
     </a>
 </div>
 
