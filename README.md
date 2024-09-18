@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/quentin-tarantino-no-tiene-minimo-interes-dirigir-mitica-saga-ciencia-ficcion-no-va-suceder-1402201'>Quentin Tarantino no tiene el más mínimo interés en dirigir esta mítica saga de ciencia ficción: “no va a suceder”</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/quentin-tarantino-no-tiene-minimo-interes-dirigir-mitica-saga-ciencia-ficcion-no-va-suceder-1402201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/quentin-tarantino-3055816.jpg?tf=1200x' alt='Quentin Tarantino no tiene el más mínimo interés en dirigir esta mítica saga de ciencia ficción: “no va a suceder”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/snapchat-presenta-mayor-actualizacion-anos-nuevas-gafas-spectacles-realidad-aumentada-1405512'>Snapchat presenta su mayor actualización en años, y nuevas gafas Spectacles de realidad aumentada</a></h4>
     <a href='https://computerhoy.com/tecnologia/snapchat-presenta-mayor-actualizacion-anos-nuevas-gafas-spectacles-realidad-aumentada-1405512' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1726609986130-4194432.jpg?tf=1200x' alt='Snapchat presenta su mayor actualización en años, y nuevas gafas Spectacles de realidad aumentada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mozilla-firefox-diferencias-otros-navegadores-extensiones-imprescindibles-1404587'>Qué es Mozilla Firefox, diferencias con otros navegadores y extensiones imprescindibles</a></h4>
     <a href='https://computerhoy.com/tecnologia/mozilla-firefox-diferencias-otros-navegadores-extensiones-imprescindibles-1404587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mozilla-firefox-4150147.jpg?tf=1200x' alt='Qué es Mozilla Firefox, diferencias con otros navegadores y extensiones imprescindibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mi-coche-no-tiene-android-auto-me-da-igual-app-mucho-mejor-tiene-todo-puedo-instalar-apps-1405495'>Mi coche no tiene Android Auto y me da igual: esta app es mucho mejor, lo tiene todo y puedo instalar apps</a></h4>
-    <a href='https://computerhoy.com/apps/mi-coche-no-tiene-android-auto-me-da-igual-app-mucho-mejor-tiene-todo-puedo-instalar-apps-1405495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mi-coche-no-tiene-android-auto-me-da-igual-app-mucho-mejor-tiene-todo-puedo-instalar-apps-4193528.jpg?tf=1200x' alt='Mi coche no tiene Android Auto y me da igual: esta app es mucho mejor, lo tiene todo y puedo instalar apps' />
     </a>
 </div>
 
