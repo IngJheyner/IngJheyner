@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hago-alargar-bateria-mi-movil-android-1393089'>Esto es lo que hago para alargar la batería de mi móvil Android: 15 consejos para exprimirla al máximo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hago-alargar-bateria-mi-movil-android-1393089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bateria-movil-android-3699153.jpg?tf=1200x' alt='Esto es lo que hago para alargar la batería de mi móvil Android: 15 consejos para exprimirla al máximo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/funcion-ios-18-te-avisara-usas-cargador-lento-iphone-1405560'>Esta función de iOS 18 te avisará si usas un cargador lento en tu iPhone </a></h4>
     <a href='https://computerhoy.com/apple/funcion-ios-18-te-avisara-usas-cargador-lento-iphone-1405560' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-4126953.jpg?tf=1200x' alt='Esta función de iOS 18 te avisará si usas un cargador lento en tu iPhone ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/hay-detras-strawberry-openai-amenaza-prohibir-acceso-chatgpt-te-pasas-preguntando-1405553'>¿Qué hay detrás de 'Strawberry'? OpenAI amenaza con prohibir el acceso a ChatGPT si te pasas preguntando</a></h4>
     <a href='https://computerhoy.com/tecnologia/hay-detras-strawberry-openai-amenaza-prohibir-acceso-chatgpt-te-pasas-preguntando-1405553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/proyecto-strawberry-openai-4134862.jpg?tf=1200x' alt='¿Qué hay detrás de 'Strawberry'? OpenAI amenaza con prohibir el acceso a ChatGPT si te pasas preguntando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-punto-mira-ue-prepara-gran-multa-practicas-anticompetitivas-1405543'>Meta en el punto de mira: la UE prepara una gran multa por prácticas anticompetitivas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-punto-mira-ue-prepara-gran-multa-practicas-anticompetitivas-1405543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/meta-facebook-3209280.jpg?tf=1200x' alt='Meta en el punto de mira: la UE prepara una gran multa por prácticas anticompetitivas' />
     </a>
 </div>
 
