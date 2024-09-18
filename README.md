@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-desactivar-2g-seguridad-1398560'>¿Por qué Google está recomendando desactivar la red 2G en los móviles Android?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-desactivar-2g-seguridad-1398560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/desactivar-2g-3860419.jpg?tf=1200x' alt='¿Por qué Google está recomendando desactivar la red 2G en los móviles Android?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-comprobar-memoria-ram-pc-configurada-velocidad-correcta-1405118'>Cómo comprobar que la memoria RAM de tu PC está configurada a la velocidad correcta</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-comprobar-memoria-ram-pc-configurada-velocidad-correcta-1405118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estado-memoria-ram-4191455.jpg?tf=1200x' alt='Cómo comprobar que la memoria RAM de tu PC está configurada a la velocidad correcta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/china-da-paso-adelante-enciende-sol-artificial-120-millones-grados-1405601'>China da un paso adelante y enciende su “sol artificial” de 120 millones de grados</a></h4>
-    <a href='https://computerhoy.com/ciencia/china-da-paso-adelante-enciende-sol-artificial-120-millones-grados-1405601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sol-4198381.jpg?tf=1200x' alt='China da un paso adelante y enciende su “sol artificial” de 120 millones de grados' />
+    <h4><a href='https://computerhoy.com/apps/mejor-alternativa-waze-ha-llegado-promete-librarte-todos-radares-1402733'>¿Waze? Olvídate, la mejor alternativa ha llegado y promete librarte de todos los radares</a></h4>
+    <a href='https://computerhoy.com/apps/mejor-alternativa-waze-ha-llegado-promete-librarte-todos-radares-1402733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ya-puedes-borrar-waze-mejor-alternativa-ha-llegado-promete-librarte-todos-radares-4067760.jpg?tf=1200x' alt='¿Waze? Olvídate, la mejor alternativa ha llegado y promete librarte de todos los radares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-ha-inspirado-disenadora-moda-crear-bolsos-virales-hechos-gpu-1405621'>Nvidia ha inspirado a una diseñadora de moda para crear unos bolsos virales hechos con su GPU</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-ha-inspirado-disenadora-moda-crear-bolsos-virales-hechos-gpu-1405621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nvidia-ha-inspirado-disenadora-moda-crear-bolsos-virales-hechos-gpu-4198546.jpg?tf=1200x' alt='Nvidia ha inspirado a una diseñadora de moda para crear unos bolsos virales hechos con su GPU' />
+    <h4><a href='https://computerhoy.com/apple/apple-elimina-caja-iphone-16-elemento-clasico-1405052'>Apple lo vuelve a hacer y ya no incluirá en la caja del iPhone 16 este elemento clásico</a></h4>
+    <a href='https://computerhoy.com/apple/apple-elimina-caja-iphone-16-elemento-clasico-1405052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/caja-varios-iphone-4170097.jpg?tf=1200x' alt='Apple lo vuelve a hacer y ya no incluirá en la caja del iPhone 16 este elemento clásico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/barato-nube-2tb-siempre-solo-65-euros-1405504'>Más barato que la nube: 2TB tuyos para siempre por solo 65 euros</a></h4>
-    <a href='https://computerhoy.com/pc/barato-nube-2tb-siempre-solo-65-euros-1405504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/toshiba-canvio-basics-2022-4193988.jpg?tf=1200x' alt='Más barato que la nube: 2TB tuyos para siempre por solo 65 euros' />
+    <h4><a href='https://computerhoy.com/apps/web-google-maps-origen-apellidos-1391580'>Esta web que te enseña de dónde vienen tus apellidos y con cuántas personas lo compartes</a></h4>
+    <a href='https://computerhoy.com/apps/web-google-maps-origen-apellidos-1391580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-maps-apellidos-4033800.jpg?tf=1200x' alt='Esta web que te enseña de dónde vienen tus apellidos y con cuántas personas lo compartes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/razon-no-debes-usar-movil-mientras-carga-1405608'>Esta es la razón por la que no debes usar tu móvil mientras se carga</a></h4>
-    <a href='https://computerhoy.com/moviles/razon-no-debes-usar-movil-mientras-carga-1405608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/usar-movil-mientras-carga-4197721.jpg?tf=1200x' alt='Esta es la razón por la que no debes usar tu móvil mientras se carga' />
+    <h4><a href='https://computerhoy.com/ciencia/ciencia-revela-misterio-interior-luna-hallazgo-podria-cambiar-exploracion-espacial-1405618'>La ciencia revela el misterio del interior de la Luna: el hallazgo que podría cambiar la exploración espacial</a></h4>
+    <a href='https://computerhoy.com/ciencia/ciencia-revela-misterio-interior-luna-hallazgo-podria-cambiar-exploracion-espacial-1405618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/luna-4198707.jpg?tf=1200x' alt='La ciencia revela el misterio del interior de la Luna: el hallazgo que podría cambiar la exploración espacial' />
     </a>
 </div>
 
