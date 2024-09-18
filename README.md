@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-secretos-imago-mundi-mapa-antiguo-mundo-1405405'>Descubren los secretos del Imago Mundi, el mapa más antiguo del mundo</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-secretos-imago-mundi-mapa-antiguo-mundo-1405405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/babilonia-4190980.jpg?tf=1200x' alt='Descubren los secretos del Imago Mundi, el mapa más antiguo del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cumplen-24-anos-muchos-peor-windows-historia-1405380'>Se cumplen 24 años del que para muchos es el peor Windows de la historia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cumplen-24-anos-muchos-peor-windows-historia-1405380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/windows-me-2812717.jpg?tf=1200x' alt='Se cumplen 24 años del que para muchos es el peor Windows de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/smart-ring-que-es-utilidad-1101877'>¿Qué son los Smart Rings y qué utilidad tienen?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/smart-ring-que-es-utilidad-1101877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/son-smart-rings-cual-utilidad-3266657.jpg?tf=1200x' alt='¿Qué son los Smart Rings y qué utilidad tienen?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/tiene-whatsapp-gps-google-mas-barato-apple-watch-1060881'>Tiene WhatsApp, GPS y sistema operativo Google: este reloj inteligente no envidia al Apple Watch y es más barato</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/tiene-whatsapp-gps-google-mas-barato-apple-watch-1060881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ticwatch-pro-5-3601024.jpg?tf=1200x' alt='Tiene WhatsApp, GPS y sistema operativo Google: este reloj inteligente no envidia al Apple Watch y es más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/quentin-tarantino-no-tiene-minimo-interes-dirigir-mitica-saga-ciencia-ficcion-no-va-suceder-1402201'>Quentin Tarantino no tiene el más mínimo interés en dirigir esta mítica saga de ciencia ficción: “no va a suceder”</a></h4>
     <a href='https://computerhoy.com/entretenimiento/quentin-tarantino-no-tiene-minimo-interes-dirigir-mitica-saga-ciencia-ficcion-no-va-suceder-1402201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/quentin-tarantino-3055816.jpg?tf=1200x' alt='Quentin Tarantino no tiene el más mínimo interés en dirigir esta mítica saga de ciencia ficción: “no va a suceder”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/snapchat-presenta-mayor-actualizacion-anos-nuevas-gafas-spectacles-realidad-aumentada-1405512'>Snapchat presenta su mayor actualización en años, y nuevas gafas Spectacles de realidad aumentada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/snapchat-presenta-mayor-actualizacion-anos-nuevas-gafas-spectacles-realidad-aumentada-1405512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1726609986130-4194432.jpg?tf=1200x' alt='Snapchat presenta su mayor actualización en años, y nuevas gafas Spectacles de realidad aumentada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/alerta-iptv-ultima-ofensiva-futbol-gratis-registro-direcciones-ip-miles-usuarios-1405505'>Alerta IPTV: la última ofensiva contra el fútbol gratis es el registro de direcciones IP de miles de usuarios</a></h4>
-    <a href='https://computerhoy.com/internet/alerta-iptv-ultima-ofensiva-futbol-gratis-registro-direcciones-ip-miles-usuarios-1405505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/alerta-iptv-ultima-ofensiva-futbol-gratis-registro-direcciones-ip-miles-usuarios-4194137.jpg?tf=1200x' alt='Alerta IPTV: la última ofensiva contra el fútbol gratis es el registro de direcciones IP de miles de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/imagen-submarino-titan-oceangate-hundido-junto-titanic-1405509'>Se desvela una imagen del submarino Titán de OceanGate, hundido junto al Titanic</a></h4>
-    <a href='https://computerhoy.com/tecnologia/imagen-submarino-titan-oceangate-hundido-junto-titanic-1405509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/desvela-imagen-submarino-titan-exploto-hundido-junto-titanic-4193686.jpg?tf=1200x' alt='Se desvela una imagen del submarino Titán de OceanGate, hundido junto al Titanic' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mozilla-firefox-diferencias-otros-navegadores-extensiones-imprescindibles-1404587'>Qué es Mozilla Firefox, diferencias con otros navegadores y extensiones imprescindibles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mozilla-firefox-diferencias-otros-navegadores-extensiones-imprescindibles-1404587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mozilla-firefox-4150147.jpg?tf=1200x' alt='Qué es Mozilla Firefox, diferencias con otros navegadores y extensiones imprescindibles' />
     </a>
 </div>
 
