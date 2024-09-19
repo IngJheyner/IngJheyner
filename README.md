@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/bipi-estudio-neurocientifico-agresividad-volante-1405575'>El primer estudio neurocientífico español sobre la agresividad al volante, desvela ansiedad, miedo y enfado</a></h4>
+    <a href='https://computerhoy.com/motor/bipi-estudio-neurocientifico-agresividad-volante-1405575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/primer-estudio-neurocientifico-espanol-agresividad-volante-desvela-ansiedad-enfado-4197096.jpg?tf=1200x' alt='El primer estudio neurocientífico español sobre la agresividad al volante, desvela ansiedad, miedo y enfado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/metodos-infalibles-muy-sencillos-expulsar-instante-intrusos-conectados-red-wifi-1405869'>Métodos infalibles muy sencillos para expulsar al instante a los intrusos conectados a tu red WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/metodos-infalibles-muy-sencillos-expulsar-instante-intrusos-conectados-red-wifi-1405869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/metodos-infalibles-muy-sencillos-expulsar-instante-intrusos-conectados-red-wifi-4208470.jpg?tf=1200x' alt='Métodos infalibles muy sencillos para expulsar al instante a los intrusos conectados a tu red WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/socialai-red-social-internet-muerto-1405890'>Ya está aquí SocialAI, la red social del Internet Muerto</a></h4>
+    <a href='https://computerhoy.com/redes/socialai-red-social-internet-muerto-1405890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-aqui-socialai-red-social-internet-muerta-4207851.jpg?tf=1200x' alt='Ya está aquí SocialAI, la red social del Internet Muerto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/linkedin-toda-historia-compra-microsoft-como-crear-perfil-adecuado-encontrar-trabajo-1404606'>Qué es LinkedIn: toda su historia, la compra de Microsoft y cómo crear un perfil adecuado para encontrar trabajo</a></h4>
     <a href='https://computerhoy.com/apps/linkedin-toda-historia-compra-microsoft-como-crear-perfil-adecuado-encontrar-trabajo-1404606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/linkedin-movil-aplicacion-4150759.jpg?tf=1200x' alt='Qué es LinkedIn: toda su historia, la compra de Microsoft y cómo crear un perfil adecuado para encontrar trabajo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/no-solo-apple-watch-ue-quiere-obligar-apple-puedas-utilizar-smartwatch-android-iphone-1405888'>No solo el Apple Watch: la UE quiere obligar a Apple a que puedas utilizar los smartwatch para Android en el iPhone</a></h4>
     <a href='https://computerhoy.com/apple/no-solo-apple-watch-ue-quiere-obligar-apple-puedas-utilizar-smartwatch-android-iphone-1405888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-4208319.jpg?tf=1200x' alt='No solo el Apple Watch: la UE quiere obligar a Apple a que puedas utilizar los smartwatch para Android en el iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tienes-movil-android-ultima-actualizacion-google-maps-tiene-malas-noticias-ti-1405887'>Si tienes un móvil Android, la última actualización de Google Maps tiene malas noticias para ti</a></h4>
-    <a href='https://computerhoy.com/apps/tienes-movil-android-ultima-actualizacion-google-maps-tiene-malas-noticias-ti-1405887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-maps-4208318.jpg?tf=1200x' alt='Si tienes un móvil Android, la última actualización de Google Maps tiene malas noticias para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ultimo-peligroso-metodo-robar-contrasena-poner-chrome-pantalla-completa-1405885'>El último y peligroso método para robar tu contraseña: poner Chrome a pantalla completa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ultimo-peligroso-metodo-robar-contrasena-poner-chrome-pantalla-completa-1405885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/malware-chrome-4208167.jpg?tf=1200x' alt='El último y peligroso método para robar tu contraseña: poner Chrome a pantalla completa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mitico-personaje-interpretado-sylvester-stallone-quentin-tarantino-quiere-devolver-gran-pantalla-1405166'>El mítico personaje interpretado por Sylvester Stallone al que Quentin Tarantino quiere devolver a la gran pantalla</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mitico-personaje-interpretado-sylvester-stallone-quentin-tarantino-quiere-devolver-gran-pantalla-1405166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/rocky-vs-rambo-2631045.jpg?tf=1200x' alt='El mítico personaje interpretado por Sylvester Stallone al que Quentin Tarantino quiere devolver a la gran pantalla' />
     </a>
 </div>
 
