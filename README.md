@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/playstation-sirve-como-hacer-reconstruccion-manual-base-datos-1405120'>PlayStation: para qué sirve y cómo hacer una reconstrucción manual de la base de datos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/playstation-sirve-como-hacer-reconstruccion-manual-base-datos-1405120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mando-ps5-3999241.jpg?tf=1200x' alt='PlayStation: para qué sirve y cómo hacer una reconstrucción manual de la base de datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-usar-game-turbo-xiaomi-mejorar-rendimiento-juegos-movil-1405517'>Cómo usar el Game Turbo de Xiaomi para mejorar el rendimiento de los juegos en el móvil </a></h4>
     <a href='https://computerhoy.com/tutoriales/como-usar-game-turbo-xiaomi-mejorar-rendimiento-juegos-movil-1405517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/game-turbo-xiaomi-4198709.jpg?tf=1200x' alt='Cómo usar el Game Turbo de Xiaomi para mejorar el rendimiento de los juegos en el móvil ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/huawei-planta-cara-ipad-pro-matepad-pro-122-tambien-pantalla-tandem-oled-1405660'>Huawei planta cara al iPad Pro con el MatePad Pro 12,2", también con una pantalla Tandem OLED</a></h4>
     <a href='https://computerhoy.com/tecnologia/huawei-planta-cara-ipad-pro-matepad-pro-122-tambien-pantalla-tandem-oled-1405660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-matepad-12-x-matepad-pro-122-4199829.jpg?tf=1200x' alt='Huawei planta cara al iPad Pro con el MatePad Pro 12,2", también con una pantalla Tandem OLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-presenta-relojes-watch-gt-5-nuevo-diseno-quien-prima-estilo-deporte-salud-1405369'>Huawei presenta los relojes Watch GT 5 con nuevo diseño para quien prima estilo, deporte y salud</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-presenta-relojes-watch-gt-5-nuevo-diseno-quien-prima-estilo-deporte-salud-1405369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-watch-gt-5-pro-46mm-4190498.jpg?tf=1200x' alt='Huawei presenta los relojes Watch GT 5 con nuevo diseño para quien prima estilo, deporte y salud' />
     </a>
 </div>
 
