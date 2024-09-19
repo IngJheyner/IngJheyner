@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/quien-satya-nadella-ceo-microsoft-cuanto-dinero-tiene-vida-personal-etapa-mando-1402502'>Quién es Satya Nadella, CEO de Microsoft: cuánto dinero tiene, vida personal y su etapa al mando</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quien-satya-nadella-ceo-microsoft-cuanto-dinero-tiene-vida-personal-etapa-mando-1402502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/satya-nadella-ceo-microsoft-4057946.jpg?tf=1200x' alt='Quién es Satya Nadella, CEO de Microsoft: cuánto dinero tiene, vida personal y su etapa al mando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/que-es-tpm-windows-11-obligatorio-pc-1404653'>Qué es TPM y por qué Windows 11 te obliga a tenerlo en tu PC</a></h4>
+    <a href='https://computerhoy.com/pc/que-es-tpm-windows-11-obligatorio-pc-1404653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tpm-windows-11-obliga-tengas-pc-4153358.jpg?tf=1200x' alt='Qué es TPM y por qué Windows 11 te obliga a tenerlo en tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/no-ocupa-espacio-potente-pc-all-one-ryzen-5-perfecto-barato-casa-1405778'>No ocupa espacio y es potente: este PC all in One con Ryzen 5 es perfecto y barato para casa</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-ocupa-espacio-potente-pc-all-one-ryzen-5-perfecto-barato-casa-1405778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hp-all-one-24-cr0018ns-4205123.jpg?tf=1200x' alt='No ocupa espacio y es potente: este PC all in One con Ryzen 5 es perfecto y barato para casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ibm-decano-tecnologia-todo-empresa-impulso-computacion-hoy-vive-consultoria-1403231'>IBM, el decano de la tecnología: todo sobre la empresa que impulsó la computación y hoy vive de la consultoría</a></h4>
     <a href='https://computerhoy.com/tecnologia/ibm-decano-tecnologia-todo-empresa-impulso-computacion-hoy-vive-consultoria-1403231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ibm-pc-4107805.jpg?tf=1200x' alt='IBM, el decano de la tecnología: todo sobre la empresa que impulsó la computación y hoy vive de la consultoría' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-google-play-store-cualquier-smart-tv-1404988'>Cómo instalar Google Play Store en cualquier Smart TV que no lo tenga</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-google-play-store-cualquier-smart-tv-1404988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-play-store-smart-tv-4164587.jpg?tf=1200x' alt='Cómo instalar Google Play Store en cualquier Smart TV que no lo tenga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/comprar-espana-anillo-inteligente-amazfit-1397047'>Ya a la venta en España el anillo inteligente de Amazfit, y viene con reloj incluido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/comprar-espana-anillo-inteligente-amazfit-1397047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazfit-helio-ring-3791728.jpg?tf=1200x' alt='Ya a la venta en España el anillo inteligente de Amazfit, y viene con reloj incluido' />
     </a>
 </div>
 
