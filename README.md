@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/investigadores-valencianos-crean-superlechuga-dorada-30-veces-vitaminas-1405710'>Investigadores valencianos crean la superlechuga dorada, con 30 veces más vitaminas</a></h4>
+    <a href='https://computerhoy.com/alimentacion/investigadores-valencianos-crean-superlechuga-dorada-30-veces-vitaminas-1405710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1726696259555-4201667.jpg?tf=1200x' alt='Investigadores valencianos crean la superlechuga dorada, con 30 veces más vitaminas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-estrena-funcion-convierte-canales-youtube-netflix-1405709'>Google estrena una función que convierte los canales de YouTube en Netflix</a></h4>
     <a href='https://computerhoy.com/apps/google-estrena-funcion-convierte-canales-youtube-netflix-1405709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-estrena-nueva-funcion-convierte-canales-youtube-netflix-4201218.jpg?tf=1200x' alt='Google estrena una función que convierte los canales de YouTube en Netflix' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/terror-examenes-crean-mod-calculadoras-agrega-conexion-internet-chatgpt-1405702'>El terror de los exámenes: crean un mod para calculadoras que agrega conexión a internet y ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/terror-examenes-crean-mod-calculadoras-agrega-conexion-internet-chatgpt-1405702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/terror-examenes-crean-mod-calculadoras-agrega-conexion-internet-chatgpt-4201068.jpg?tf=1200x' alt='El terror de los exámenes: crean un mod para calculadoras que agrega conexión a internet y ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/confirmada-fecha-lanzamiento-windows-11-24h2-todos-pc-pc-listo-cambio-1405701'>Confirmada la fecha de lanzamiento de Windows 11 24H2 para todos los PC: ¿está tu PC listo para el cambio?</a></h4>
-    <a href='https://computerhoy.com/windows/confirmada-fecha-lanzamiento-windows-11-24h2-todos-pc-pc-listo-cambio-1405701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizacion-windows-11-4201065.jpg?tf=1200x' alt='Confirmada la fecha de lanzamiento de Windows 11 24H2 para todos los PC: ¿está tu PC listo para el cambio?' />
     </a>
 </div>
 
