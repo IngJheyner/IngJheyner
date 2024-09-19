@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-facil-utilizar-nunca-gracias-extension-1405853'>Raspberry Pi es más fácil de utilizar que nunca gracias a esta extensión</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-facil-utilizar-nunca-gracias-extension-1405853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/raspberry-pico-w-2746759.jpg?tf=1200x' alt='Raspberry Pi es más fácil de utilizar que nunca gracias a esta extensión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-gano-oscar-mejores-peliculas-misterio-historia-1405659'>Está en Netflix, ganó un Oscar y es una de las mejores películas de misterio de la historia</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-gano-oscar-mejores-peliculas-misterio-historia-1405659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-gano-oscar-mejores-peliculas-misterio-historia-4199503.jpg?tf=1200x' alt='Está en Netflix, ganó un Oscar y es una de las mejores películas de misterio de la historia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/playstation-sirve-como-hacer-reconstruccion-manual-base-datos-1405120'>PlayStation: para qué sirve y cómo hacer una reconstrucción manual de la base de datos</a></h4>
     <a href='https://computerhoy.com/tutoriales/playstation-sirve-como-hacer-reconstruccion-manual-base-datos-1405120' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mando-ps5-3999241.jpg?tf=1200x' alt='PlayStation: para qué sirve y cómo hacer una reconstrucción manual de la base de datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-game-turbo-xiaomi-mejorar-rendimiento-juegos-movil-1405517'>Cómo usar el Game Turbo de Xiaomi para mejorar el rendimiento de los juegos en el móvil </a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-game-turbo-xiaomi-mejorar-rendimiento-juegos-movil-1405517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/game-turbo-xiaomi-4198709.jpg?tf=1200x' alt='Cómo usar el Game Turbo de Xiaomi para mejorar el rendimiento de los juegos en el móvil ' />
     </a>
 </div>
 
