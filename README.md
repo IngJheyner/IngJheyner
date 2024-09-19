@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-gano-oscar-mejores-peliculas-misterio-historia-1405659'>Está en Netflix, ganó un Oscar y es una de las mejores películas de misterio de la historia</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-gano-oscar-mejores-peliculas-misterio-historia-1405659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-gano-oscar-mejores-peliculas-misterio-historia-4199503.jpg?tf=1200x' alt='Está en Netflix, ganó un Oscar y es una de las mejores películas de misterio de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/10-cosas-cubre-seguro-hogar-probablemente-no-conocias-1405851'>10 cosas que cubre tu seguro del hogar y que probablemente no conocías</a></h4>
+    <a href='https://computerhoy.com/hogar/10-cosas-cubre-seguro-hogar-probablemente-no-conocias-1405851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/10-cosas-cubre-seguro-hogar-probablemente-no-conocias-4207540.jpg?tf=1200x' alt='10 cosas que cubre tu seguro del hogar y que probablemente no conocías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/stephen-king-deshizo-elogios-polemica-pelicula-extraterrestres-puedes-ver-disney-1405449'>Stephen King se deshizo en elogios hacia esta polémica película de extraterrestres, que puedes ver en Disney+</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/stephen-king-deshizo-elogios-polemica-pelicula-extraterrestres-puedes-ver-disney-1405449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nadie-te-salvara-3145806.jpg?tf=1200x' alt='Stephen King se deshizo en elogios hacia esta polémica película de extraterrestres, que puedes ver en Disney+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/playstation-sirve-como-hacer-reconstruccion-manual-base-datos-1405120'>PlayStation: para qué sirve y cómo hacer una reconstrucción manual de la base de datos</a></h4>
     <a href='https://computerhoy.com/tutoriales/playstation-sirve-como-hacer-reconstruccion-manual-base-datos-1405120' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mando-ps5-3999241.jpg?tf=1200x' alt='PlayStation: para qué sirve y cómo hacer una reconstrucción manual de la base de datos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-usar-game-turbo-xiaomi-mejorar-rendimiento-juegos-movil-1405517'>Cómo usar el Game Turbo de Xiaomi para mejorar el rendimiento de los juegos en el móvil </a></h4>
     <a href='https://computerhoy.com/tutoriales/como-usar-game-turbo-xiaomi-mejorar-rendimiento-juegos-movil-1405517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/game-turbo-xiaomi-4198709.jpg?tf=1200x' alt='Cómo usar el Game Turbo de Xiaomi para mejorar el rendimiento de los juegos en el móvil ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/puede-convertirse-movil-llevas-bolsillo-bomba-como-ha-ocurrido-hezbola-1405799'>¿Puede convertirse el móvil que llevas en el bolsillo en una bomba, como ha ocurrido contra Hezbolá?</a></h4>
-    <a href='https://computerhoy.com/moviles/puede-convertirse-movil-llevas-bolsillo-bomba-como-ha-ocurrido-hezbola-1405799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/puede-convertirse-movil-llevas-bolsillo-bomba-como-han-ocurrido-hezbola-4205455.jpg?tf=1200x' alt='¿Puede convertirse el móvil que llevas en el bolsillo en una bomba, como ha ocurrido contra Hezbolá?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-anade-nuevas-opciones-personalizacion-chats-mejora-modo-oscuro-1405739'>WhatsApp añade nuevas opciones de personalización para los chats y mejora el modo oscuro</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-anade-nuevas-opciones-personalizacion-chats-mejora-modo-oscuro-1405739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-anade-nuevas-opciones-personalizacion-chats-mejora-modo-oscuro-4204343.jpg?tf=1200x' alt='WhatsApp añade nuevas opciones de personalización para los chats y mejora el modo oscuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-planta-cara-ipad-pro-matepad-pro-122-tambien-pantalla-tandem-oled-1405660'>Huawei planta cara al iPad Pro con el MatePad Pro 12,2", también con una pantalla Tandem OLED</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-planta-cara-ipad-pro-matepad-pro-122-tambien-pantalla-tandem-oled-1405660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-matepad-12-x-matepad-pro-122-4199829.jpg?tf=1200x' alt='Huawei planta cara al iPad Pro con el MatePad Pro 12,2", también con una pantalla Tandem OLED' />
     </a>
 </div>
 
