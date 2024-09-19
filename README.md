@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/da-pensar-inteligencia-o1-chatgpt-ya-tiene-cociente-intelectual-mayoria-personas-1405742'>Da que pensar: la inteligencia o1 de ChatGPT ya tiene más cociente intelectual que la mayoría de personas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/da-pensar-inteligencia-o1-chatgpt-ya-tiene-cociente-intelectual-mayoria-personas-1405742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/da-pensar-inteligencia-o1-chatgpt-ya-tiene-coeficiente-intelectual-mayoria-personas-4204493.jpg?tf=1200x' alt='Da que pensar: la inteligencia o1 de ChatGPT ya tiene más cociente intelectual que la mayoría de personas' />
+    <h4><a href='https://computerhoy.com/moviles/puede-convertirse-movil-llevas-bolsillo-bomba-como-ha-ocurrido-hezbola-1405799'>¿Puede convertirse el móvil que llevas en el bolsillo en una bomba, como ha ocurrido contra Hezbolá?</a></h4>
+    <a href='https://computerhoy.com/moviles/puede-convertirse-movil-llevas-bolsillo-bomba-como-ha-ocurrido-hezbola-1405799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/puede-convertirse-movil-llevas-bolsillo-bomba-como-han-ocurrido-hezbola-4205455.jpg?tf=1200x' alt='¿Puede convertirse el móvil que llevas en el bolsillo en una bomba, como ha ocurrido contra Hezbolá?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/jeff-bezos-infancia-historia-hitos-fracasos-1401504'>Jeff Bezos: infancia, historia, hitos, fracasos y más</a></h4>
-    <a href='https://computerhoy.com/amazon/jeff-bezos-infancia-historia-hitos-fracasos-1401504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/jeff-bezos-4042221.jpg?tf=1200x' alt='Jeff Bezos: infancia, historia, hitos, fracasos y más' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-anade-nuevas-opciones-personalizacion-chats-mejora-modo-oscuro-1405739'>WhatsApp añade nuevas opciones de personalización para los chats y mejora el modo oscuro</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-anade-nuevas-opciones-personalizacion-chats-mejora-modo-oscuro-1405739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-anade-nuevas-opciones-personalizacion-chats-mejora-modo-oscuro-4204343.jpg?tf=1200x' alt='WhatsApp añade nuevas opciones de personalización para los chats y mejora el modo oscuro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/canon-gaming-barato-rtx-4060-i7-arrasar-steam-300-euros-barato-1405685'>Es un cañón gaming, y barato: RTX 4060 con i7 para arrasar en Steam ¡300 euros más barato!</a></h4>
-    <a href='https://computerhoy.com/pc/canon-gaming-barato-rtx-4060-i7-arrasar-steam-300-euros-barato-1405685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/asus-tuf-gaming-f16-2024-4200154.jpg?tf=1200x' alt='Es un cañón gaming, y barato: RTX 4060 con i7 para arrasar en Steam ¡300 euros más barato!' />
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-planta-cara-ipad-pro-matepad-pro-122-tambien-pantalla-tandem-oled-1405660'>Huawei planta cara al iPad Pro con el MatePad Pro 12,2", también con una pantalla Tandem OLED</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-planta-cara-ipad-pro-matepad-pro-122-tambien-pantalla-tandem-oled-1405660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-matepad-12-x-matepad-pro-122-4199829.jpg?tf=1200x' alt='Huawei planta cara al iPad Pro con el MatePad Pro 12,2", también con una pantalla Tandem OLED' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-todo-acerca-marca-coches-electricos-elon-musk-revoluciona-sector-1402038'>Tesla, todo acerca de la marca de coches eléctricos de Elon Musk que revoluciona el sector</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-todo-acerca-marca-coches-electricos-elon-musk-revoluciona-sector-1402038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tesla-3571463.jpg?tf=1200x' alt='Tesla, todo acerca de la marca de coches eléctricos de Elon Musk que revoluciona el sector' />
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-presenta-relojes-watch-gt-5-nuevo-diseno-quien-prima-estilo-deporte-salud-1405369'>Huawei presenta los relojes Watch GT 5 con nuevo diseño para quien prima estilo, deporte y salud</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-presenta-relojes-watch-gt-5-nuevo-diseno-quien-prima-estilo-deporte-salud-1405369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-watch-gt-5-pro-46mm-4190498.jpg?tf=1200x' alt='Huawei presenta los relojes Watch GT 5 con nuevo diseño para quien prima estilo, deporte y salud' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-historia-modelos-funcionamiento-antiguas-mi-band-1402414'>Xiaomi Smart Band: historia, modelos y funcionamiento de las antiguas Mi Band</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-historia-modelos-funcionamiento-antiguas-mi-band-1402414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-smart-band-4057947.jpg?tf=1200x' alt='Xiaomi Smart Band: historia, modelos y funcionamiento de las antiguas Mi Band' />
+    <h4><a href='https://computerhoy.com/redes/sindrome-tecnologico-cada-vez-afecta-miembros-generacion-z-como-vivir-encarcelado-1405159'>Así es el síndrome tecnológico que cada vez afecta a más miembros de la generación Z: “Es como vivir encarcelado”</a></h4>
+    <a href='https://computerhoy.com/redes/sindrome-tecnologico-cada-vez-afecta-miembros-generacion-z-como-vivir-encarcelado-1405159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sindrome-tecnologico-cada-vez-afecta-miembros-generacion-z-como-vivir-encarcelado-4183109.jpg?tf=1200x' alt='Así es el síndrome tecnológico que cada vez afecta a más miembros de la generación Z: “Es como vivir encarcelado”' />
     </a>
 </div>
 
