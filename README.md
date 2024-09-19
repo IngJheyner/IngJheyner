@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-facil-utilizar-nunca-gracias-extension-1405853'>Raspberry Pi es más fácil de utilizar que nunca gracias a esta extensión</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-facil-utilizar-nunca-gracias-extension-1405853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/raspberry-pico-w-2746759.jpg?tf=1200x' alt='Raspberry Pi es más fácil de utilizar que nunca gracias a esta extensión' />
+    <h4><a href='https://computerhoy.com/apps/linkedin-toda-historia-compra-microsoft-como-crear-perfil-adecuado-encontrar-trabajo-1404606'>Qué es LinkedIn: toda su historia, la compra de Microsoft y cómo crear un perfil adecuado para encontrar trabajo</a></h4>
+    <a href='https://computerhoy.com/apps/linkedin-toda-historia-compra-microsoft-como-crear-perfil-adecuado-encontrar-trabajo-1404606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/linkedin-movil-aplicacion-4150759.jpg?tf=1200x' alt='Qué es LinkedIn: toda su historia, la compra de Microsoft y cómo crear un perfil adecuado para encontrar trabajo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-gano-oscar-mejores-peliculas-misterio-historia-1405659'>Está en Netflix, ganó un Oscar y es una de las mejores películas de misterio de la historia</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-gano-oscar-mejores-peliculas-misterio-historia-1405659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-gano-oscar-mejores-peliculas-misterio-historia-4199503.jpg?tf=1200x' alt='Está en Netflix, ganó un Oscar y es una de las mejores películas de misterio de la historia' />
+    <h4><a href='https://computerhoy.com/apple/no-solo-apple-watch-ue-quiere-obligar-apple-puedas-utilizar-smartwatch-android-iphone-1405888'>No solo el Apple Watch: la UE quiere obligar a Apple a que puedas utilizar los smartwatch para Android en el iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/no-solo-apple-watch-ue-quiere-obligar-apple-puedas-utilizar-smartwatch-android-iphone-1405888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-4208319.jpg?tf=1200x' alt='No solo el Apple Watch: la UE quiere obligar a Apple a que puedas utilizar los smartwatch para Android en el iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/10-cosas-cubre-seguro-hogar-probablemente-no-conocias-1405851'>10 cosas que cubre tu seguro del hogar y que probablemente no conocías</a></h4>
-    <a href='https://computerhoy.com/hogar/10-cosas-cubre-seguro-hogar-probablemente-no-conocias-1405851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/10-cosas-cubre-seguro-hogar-probablemente-no-conocias-4207540.jpg?tf=1200x' alt='10 cosas que cubre tu seguro del hogar y que probablemente no conocías' />
+    <h4><a href='https://computerhoy.com/apps/tienes-movil-android-ultima-actualizacion-google-maps-tiene-malas-noticias-ti-1405887'>Si tienes un móvil Android, la última actualización de Google Maps tiene malas noticias para ti</a></h4>
+    <a href='https://computerhoy.com/apps/tienes-movil-android-ultima-actualizacion-google-maps-tiene-malas-noticias-ti-1405887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-maps-4208318.jpg?tf=1200x' alt='Si tienes un móvil Android, la última actualización de Google Maps tiene malas noticias para ti' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/stephen-king-deshizo-elogios-polemica-pelicula-extraterrestres-puedes-ver-disney-1405449'>Stephen King se deshizo en elogios hacia esta polémica película de extraterrestres, que puedes ver en Disney+</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/stephen-king-deshizo-elogios-polemica-pelicula-extraterrestres-puedes-ver-disney-1405449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nadie-te-salvara-3145806.jpg?tf=1200x' alt='Stephen King se deshizo en elogios hacia esta polémica película de extraterrestres, que puedes ver en Disney+' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ultimo-peligroso-metodo-robar-contrasena-poner-chrome-pantalla-completa-1405885'>El último y peligroso método para robar tu contraseña: poner Chrome a pantalla completa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ultimo-peligroso-metodo-robar-contrasena-poner-chrome-pantalla-completa-1405885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/malware-chrome-4208167.jpg?tf=1200x' alt='El último y peligroso método para robar tu contraseña: poner Chrome a pantalla completa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/playstation-sirve-como-hacer-reconstruccion-manual-base-datos-1405120'>PlayStation: para qué sirve y cómo hacer una reconstrucción manual de la base de datos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/playstation-sirve-como-hacer-reconstruccion-manual-base-datos-1405120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mando-ps5-3999241.jpg?tf=1200x' alt='PlayStation: para qué sirve y cómo hacer una reconstrucción manual de la base de datos' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mitico-personaje-interpretado-sylvester-stallone-quentin-tarantino-quiere-devolver-gran-pantalla-1405166'>El mítico personaje interpretado por Sylvester Stallone al que Quentin Tarantino quiere devolver a la gran pantalla</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mitico-personaje-interpretado-sylvester-stallone-quentin-tarantino-quiere-devolver-gran-pantalla-1405166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/rocky-vs-rambo-2631045.jpg?tf=1200x' alt='El mítico personaje interpretado por Sylvester Stallone al que Quentin Tarantino quiere devolver a la gran pantalla' />
     </a>
 </div>
 
