@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/presa-tres-gargantas-ha-movido-polos-tierra-alargado-dias-1405726'>La presa de las Tres Gargantas ha movido los polos de la Tierra, y alargado los días</a></h4>
+    <a href='https://computerhoy.com/energia/presa-tres-gargantas-ha-movido-polos-tierra-alargado-dias-1405726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/confirman-enorme-presa-tres-gargantas-ha-alterado-rotacion-tierra-4203734.jpg?tf=1200x' alt='La presa de las Tres Gargantas ha movido los polos de la Tierra, y alargado los días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/primera-vez-uso-skyshowtime-pero-me-ha-convencido-tanto-ya-he-cancelado-otras-suscripciones-1404095'>Es la primera vez que uso SkyShowtime, pero me ha convencido tanto que ya he cancelado otras suscripciones</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/primera-vez-uso-skyshowtime-pero-me-ha-convencido-tanto-ya-he-cancelado-otras-suscripciones-1404095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/skyshowtime-4135487.jpg?tf=1200x' alt='Es la primera vez que uso SkyShowtime, pero me ha convencido tanto que ya he cancelado otras suscripciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-deja-claro-forma-eficaz-enfrentarse-robollamadas-1405612'>La Policía lo deja claro: esta es la forma más eficaz de enfrentarse a las “robollamadas”</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-deja-claro-forma-eficaz-enfrentarse-robollamadas-1405612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/policia-deja-claro-forma-eficaz-enfrentarse-robollamadas-4198218.jpg?tf=1200x' alt='La Policía lo deja claro: esta es la forma más eficaz de enfrentarse a las “robollamadas”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/fracaso-furiosa-warner-no-queria-llevar-bitelchus-bitelchus-cines-pero-tim-burton-tenia-razon-1405453'>Tras el fracaso de Furiosa, Warner no quería llevar Bitelchús Bitelchús a cines, pero Tim Burton tenía razón</a></h4>
     <a href='https://computerhoy.com/entretenimiento/fracaso-furiosa-warner-no-queria-llevar-bitelchus-bitelchus-cines-pero-tim-burton-tenia-razon-1405453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fracaso-furiosa-warner-no-queria-llevar-bitelchus-bitelchus-cines-pero-tim-burton-tenia-razon-4192082.jpg?tf=1200x' alt='Tras el fracaso de Furiosa, Warner no quería llevar Bitelchús Bitelchús a cines, pero Tim Burton tenía razón' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/medicos-han-descubierto-nuevo-grupo-sanguineo-despues-50-anos-investigaciones-1405603'>Los médicos han descubierto un nuevo grupo sanguíneo después de 50 años de investigaciones</a></h4>
     <a href='https://computerhoy.com/ciencia/medicos-han-descubierto-nuevo-grupo-sanguineo-despues-50-anos-investigaciones-1405603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/medicos-han-descubierto-nuevo-grupo-sanguineo-despues-50-anos-investigaciones-4198208.jpg?tf=1200x' alt='Los médicos han descubierto un nuevo grupo sanguíneo después de 50 años de investigaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-internet-movil-ordenador-cable-usb-red-inalambrica-1169804'>Cómo compartir Internet móvil con tu ordenador y un cable USB y olvidarte de la red inalámbrica</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-compartir-internet-movil-ordenador-cable-usb-red-inalambrica-1169804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/usb-tipo-c-smartphone-2900836.jpg?tf=1200x' alt='Cómo compartir Internet móvil con tu ordenador y un cable USB y olvidarte de la red inalámbrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/noruega-ya-tiene-mas-coches-electricos-gasolina-1405716'>Por primera vez en la historia, un país ya tiene más coches eléctricos que de gasolina</a></h4>
-    <a href='https://computerhoy.com/motor/noruega-ya-tiene-mas-coches-electricos-gasolina-1405716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/primera-vez-historia-pais-ya-tiene-coches-electricos-combustible-4203438.jpg?tf=1200x' alt='Por primera vez en la historia, un país ya tiene más coches eléctricos que de gasolina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/orange-pi-puede-raspberry-pi-mas-barato-igual-potente-1353607'>Orange Pi puede con las Raspberry: este modelo es increíblemente barato e igual de potente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/orange-pi-puede-raspberry-pi-mas-barato-igual-potente-1353607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/orange-pi-3255635.jpg?tf=1200x' alt='Orange Pi puede con las Raspberry: este modelo es increíblemente barato e igual de potente' />
     </a>
 </div>
 
