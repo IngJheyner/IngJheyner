@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/descubren-mayores-atracciones-naturales-china-ayuda-tuberia-maravilla-naturaleza-estafa-turistas-1405532'>Descubren que una las mayores atracciones naturales de China se "ayuda" de una tubería: ¿maravilla de la naturaleza o estafa para turistas?</a></h4>
+    <a href='https://computerhoy.com/redes/descubren-mayores-atracciones-naturales-china-ayuda-tuberia-maravilla-naturaleza-estafa-turistas-1405532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/descubren-mayores-atracciones-naturales-china-ayuda-tuberia-maravilla-naturaleza-estafa-turistas-4197894.jpg?tf=1200x' alt='Descubren que una las mayores atracciones naturales de China se "ayuda" de una tubería: ¿maravilla de la naturaleza o estafa para turistas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/comandos-linux-peligrosos-no-deberias-utilizar-nunca-existen-1405689'>Los comandos de Linux más peligrosos que no deberías utilizar nunca (y por qué existen)</a></h4>
     <a href='https://computerhoy.com/tecnologia/comandos-linux-peligrosos-no-deberias-utilizar-nunca-existen-1405689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/comandos-linux-peligrosos-no-deberias-utilizar-nunca-existen-4202852.jpg?tf=1200x' alt='Los comandos de Linux más peligrosos que no deberías utilizar nunca (y por qué existen)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cloud-computing-consiste-ventajas-ofrecen-servicios-como-aws-azure-google-cloud-1404046'>Cloud Computing, en qué consiste y qué ventajas ofrecen servicios como AWS, Azure o Google Cloud</a></h4>
     <a href='https://computerhoy.com/tecnologia/cloud-computing-consiste-ventajas-ofrecen-servicios-como-aws-azure-google-cloud-1404046' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cloud-computing-4134202.jpg?tf=1200x' alt='Cloud Computing, en qué consiste y qué ventajas ofrecen servicios como AWS, Azure o Google Cloud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/podria-ser-nintendo-switch-2-fotografian-supuesto-prototipo-recrean-3d-1405704'>¿Podría ser esta la Nintendo Switch 2? Fotografían un supuesto prototipo y lo recrean en 3D</a></h4>
-    <a href='https://computerhoy.com/gaming/podria-ser-nintendo-switch-2-fotografian-supuesto-prototipo-recrean-3d-1405704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-switch-4201069.jpg?tf=1200x' alt='¿Podría ser esta la Nintendo Switch 2? Fotografían un supuesto prototipo y lo recrean en 3D' />
     </a>
 </div>
 
