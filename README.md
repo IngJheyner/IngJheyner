@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/descubren-mayores-atracciones-naturales-china-ayuda-tuberia-maravilla-naturaleza-estafa-turistas-1405532'>Descubren que una las mayores atracciones naturales de China se "ayuda" de una tubería: ¿maravilla de la naturaleza o estafa para turistas?</a></h4>
-    <a href='https://computerhoy.com/redes/descubren-mayores-atracciones-naturales-china-ayuda-tuberia-maravilla-naturaleza-estafa-turistas-1405532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/descubren-mayores-atracciones-naturales-china-ayuda-tuberia-maravilla-naturaleza-estafa-turistas-4197894.jpg?tf=1200x' alt='Descubren que una las mayores atracciones naturales de China se "ayuda" de una tubería: ¿maravilla de la naturaleza o estafa para turistas?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/fracaso-furiosa-warner-no-queria-llevar-bitelchus-bitelchus-cines-pero-tim-burton-tenia-razon-1405453'>Tras el fracaso de Furiosa, Warner no quería llevar Bitelchús Bitelchús a cines, pero Tim Burton tenía razón</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fracaso-furiosa-warner-no-queria-llevar-bitelchus-bitelchus-cines-pero-tim-burton-tenia-razon-1405453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fracaso-furiosa-warner-no-queria-llevar-bitelchus-bitelchus-cines-pero-tim-burton-tenia-razon-4192082.jpg?tf=1200x' alt='Tras el fracaso de Furiosa, Warner no quería llevar Bitelchús Bitelchús a cines, pero Tim Burton tenía razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/comandos-linux-peligrosos-no-deberias-utilizar-nunca-existen-1405689'>Los comandos de Linux más peligrosos que no deberías utilizar nunca (y por qué existen)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/comandos-linux-peligrosos-no-deberias-utilizar-nunca-existen-1405689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/comandos-linux-peligrosos-no-deberias-utilizar-nunca-existen-4202852.jpg?tf=1200x' alt='Los comandos de Linux más peligrosos que no deberías utilizar nunca (y por qué existen)' />
+    <h4><a href='https://computerhoy.com/ciencia/medicos-han-descubierto-nuevo-grupo-sanguineo-despues-50-anos-investigaciones-1405603'>Los médicos han descubierto un nuevo grupo sanguíneo después de 50 años de investigaciones</a></h4>
+    <a href='https://computerhoy.com/ciencia/medicos-han-descubierto-nuevo-grupo-sanguineo-despues-50-anos-investigaciones-1405603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/medicos-han-descubierto-nuevo-grupo-sanguineo-despues-50-anos-investigaciones-4198208.jpg?tf=1200x' alt='Los médicos han descubierto un nuevo grupo sanguíneo después de 50 años de investigaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/investigadores-valencianos-crean-superlechuga-dorada-30-veces-vitaminas-1405710'>Investigadores valencianos crean la superlechuga dorada, con 30 veces más vitaminas</a></h4>
-    <a href='https://computerhoy.com/alimentacion/investigadores-valencianos-crean-superlechuga-dorada-30-veces-vitaminas-1405710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1726696259555-4201667.jpg?tf=1200x' alt='Investigadores valencianos crean la superlechuga dorada, con 30 veces más vitaminas' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-internet-movil-ordenador-cable-usb-red-inalambrica-1169804'>Cómo compartir Internet móvil con tu ordenador y un cable USB y olvidarte de la red inalámbrica</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-compartir-internet-movil-ordenador-cable-usb-red-inalambrica-1169804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/usb-tipo-c-smartphone-2900836.jpg?tf=1200x' alt='Cómo compartir Internet móvil con tu ordenador y un cable USB y olvidarte de la red inalámbrica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-estrena-funcion-convierte-canales-youtube-netflix-1405709'>Google estrena una función que convierte los canales de YouTube en Netflix</a></h4>
-    <a href='https://computerhoy.com/apps/google-estrena-funcion-convierte-canales-youtube-netflix-1405709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-estrena-nueva-funcion-convierte-canales-youtube-netflix-4201218.jpg?tf=1200x' alt='Google estrena una función que convierte los canales de YouTube en Netflix' />
+    <h4><a href='https://computerhoy.com/motor/noruega-ya-tiene-mas-coches-electricos-gasolina-1405716'>Por primera vez en la historia, un país ya tiene más coches eléctricos que de gasolina</a></h4>
+    <a href='https://computerhoy.com/motor/noruega-ya-tiene-mas-coches-electricos-gasolina-1405716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/primera-vez-historia-pais-ya-tiene-coches-electricos-combustible-4203438.jpg?tf=1200x' alt='Por primera vez en la historia, un país ya tiene más coches eléctricos que de gasolina' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cloud-computing-consiste-ventajas-ofrecen-servicios-como-aws-azure-google-cloud-1404046'>Cloud Computing, en qué consiste y qué ventajas ofrecen servicios como AWS, Azure o Google Cloud</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cloud-computing-consiste-ventajas-ofrecen-servicios-como-aws-azure-google-cloud-1404046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cloud-computing-4134202.jpg?tf=1200x' alt='Cloud Computing, en qué consiste y qué ventajas ofrecen servicios como AWS, Azure o Google Cloud' />
+    <h4><a href='https://computerhoy.com/tecnologia/orange-pi-puede-raspberry-pi-mas-barato-igual-potente-1353607'>Orange Pi puede con las Raspberry: este modelo es increíblemente barato e igual de potente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/orange-pi-puede-raspberry-pi-mas-barato-igual-potente-1353607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/orange-pi-3255635.jpg?tf=1200x' alt='Orange Pi puede con las Raspberry: este modelo es increíblemente barato e igual de potente' />
     </a>
 </div>
 
