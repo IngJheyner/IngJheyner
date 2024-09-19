@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/preparate-invierno-sistema-calefaccion-no-consume-electricidad-puedes-instalarlo-mismo-casa-1405651'>Prepárate para el invierno: este sistema de calefacción no consume electricidad y puedes instalarlo tú mismo en casa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/preparate-invierno-sistema-calefaccion-no-consume-electricidad-puedes-instalarlo-mismo-casa-1405651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/preparate-invierno-sistema-calefaccion-no-consume-electricidad-puedes-instalarlo-mismo-casa-4199665.jpg?tf=1200x' alt='Prepárate para el invierno: este sistema de calefacción no consume electricidad y puedes instalarlo tú mismo en casa' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-ocupa-espacio-potente-pc-all-one-ryzen-5-perfecto-barato-casa-1405778'>No ocupa espacio y es potente: este PC all in One con Ryzen 5 es perfecto y barato para casa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-ocupa-espacio-potente-pc-all-one-ryzen-5-perfecto-barato-casa-1405778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hp-all-one-24-cr0018ns-4205123.jpg?tf=1200x' alt='No ocupa espacio y es potente: este PC all in One con Ryzen 5 es perfecto y barato para casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/spotify-meta-decenas-empresas-reclaman-regulacion-unificada-ia-europa-1405746'>Spotify, Meta y decenas de empresas reclaman una regulación unificada para la IA en Europa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/spotify-meta-decenas-empresas-reclaman-regulacion-unificada-ia-europa-1405746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ia-europa-4204805.jpg?tf=1200x' alt='Spotify, Meta y decenas de empresas reclaman una regulación unificada para la IA en Europa' />
+    <h4><a href='https://computerhoy.com/google/youtube-ha-empezado-mostrar-anuncios-cuando-pausas-video-solucion-no-convence-usuarios-1405755'>YouTube ha empezado a mostrar anuncios cuando pausas el vídeo, y la solución no convence a los usuarios</a></h4>
+    <a href='https://computerhoy.com/google/youtube-ha-empezado-mostrar-anuncios-cuando-pausas-video-solucion-no-convence-usuarios-1405755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-ha-empezado-mostrar-anuncios-cuando-pausas-video-solucion-no-convence-usuarios-4204658.jpg?tf=1200x' alt='YouTube ha empezado a mostrar anuncios cuando pausas el vídeo, y la solución no convence a los usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/dale-potencia-ordenador-pccomponentes-liquida-stock-geforce-rtx-4060-menos-300-euros-1405665'>Dale potencia a tu ordenador: PCComponentes liquida stock de la GeForce RTX 4060 por menos de 300 euros</a></h4>
-    <a href='https://computerhoy.com/gaming/dale-potencia-ordenador-pccomponentes-liquida-stock-geforce-rtx-4060-menos-300-euros-1405665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/msi-geforce-rtx-4060-ventus-2x-4199729.jpg?tf=1200x' alt='Dale potencia a tu ordenador: PCComponentes liquida stock de la GeForce RTX 4060 por menos de 300 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/ibm-decano-tecnologia-todo-empresa-impulso-computacion-hoy-vive-consultoria-1403231'>IBM, el decano de la tecnología: todo sobre la empresa que impulsó la computación y hoy vive de la consultoría</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ibm-decano-tecnologia-todo-empresa-impulso-computacion-hoy-vive-consultoria-1403231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ibm-pc-4107805.jpg?tf=1200x' alt='IBM, el decano de la tecnología: todo sobre la empresa que impulsó la computación y hoy vive de la consultoría' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-ia-gemini-como-asistente-virtual-movil-1405115'>Cómo poner la IA Gemini como tu Asistente Virtual en el móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-ia-gemini-como-asistente-virtual-movil-1405115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cambiar-asistente-google-gemini-4180587.jpg?tf=1200x' alt='Cómo poner la IA Gemini como tu Asistente Virtual en el móvil' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-google-play-store-cualquier-smart-tv-1404988'>Cómo instalar Google Play Store en cualquier Smart TV que no lo tenga</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-google-play-store-cualquier-smart-tv-1404988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-play-store-smart-tv-4164587.jpg?tf=1200x' alt='Cómo instalar Google Play Store en cualquier Smart TV que no lo tenga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tiembla-garmin-suunto-reloj-correr-gps-mas-barato-1358129'>Tiembla Garmin: este Suunto para correr con GPS y diseño ultraligero hunde su precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tiembla-garmin-suunto-reloj-correr-gps-mas-barato-1358129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/suunto-9-peak-pro-3061770.jpg?tf=1200x' alt='Tiembla Garmin: este Suunto para correr con GPS y diseño ultraligero hunde su precio en Amazon' />
+    <h4><a href='https://computerhoy.com/tecnologia/comprar-espana-anillo-inteligente-amazfit-1397047'>Ya a la venta en España el anillo inteligente de Amazfit, y viene con reloj incluido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/comprar-espana-anillo-inteligente-amazfit-1397047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/amazfit-helio-ring-3791728.jpg?tf=1200x' alt='Ya a la venta en España el anillo inteligente de Amazfit, y viene con reloj incluido' />
     </a>
 </div>
 
