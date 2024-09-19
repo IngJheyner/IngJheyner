@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/da-pensar-inteligencia-o1-chatgpt-ya-tiene-cociente-intelectual-mayoria-personas-1405742'>Da que pensar: la inteligencia o1 de ChatGPT ya tiene más cociente intelectual que la mayoría de personas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/da-pensar-inteligencia-o1-chatgpt-ya-tiene-cociente-intelectual-mayoria-personas-1405742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/da-pensar-inteligencia-o1-chatgpt-ya-tiene-coeficiente-intelectual-mayoria-personas-4204493.jpg?tf=1200x' alt='Da que pensar: la inteligencia o1 de ChatGPT ya tiene más cociente intelectual que la mayoría de personas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/jeff-bezos-infancia-historia-hitos-fracasos-1401504'>Jeff Bezos: infancia, historia, hitos, fracasos y más</a></h4>
+    <a href='https://computerhoy.com/amazon/jeff-bezos-infancia-historia-hitos-fracasos-1401504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/jeff-bezos-4042221.jpg?tf=1200x' alt='Jeff Bezos: infancia, historia, hitos, fracasos y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/canon-gaming-barato-rtx-4060-i7-arrasar-steam-300-euros-barato-1405685'>Es un cañón gaming, y barato: RTX 4060 con i7 para arrasar en Steam ¡300 euros más barato!</a></h4>
     <a href='https://computerhoy.com/pc/canon-gaming-barato-rtx-4060-i7-arrasar-steam-300-euros-barato-1405685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/asus-tuf-gaming-f16-2024-4200154.jpg?tf=1200x' alt='Es un cañón gaming, y barato: RTX 4060 con i7 para arrasar en Steam ¡300 euros más barato!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-historia-modelos-funcionamiento-antiguas-mi-band-1402414'>Xiaomi Smart Band: historia, modelos y funcionamiento de las antiguas Mi Band</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-historia-modelos-funcionamiento-antiguas-mi-band-1402414' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-smart-band-4057947.jpg?tf=1200x' alt='Xiaomi Smart Band: historia, modelos y funcionamiento de las antiguas Mi Band' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/linkedin-ha-empezado-utilizar-datos-usuarios-entrenar-ia-no-han-avisado-nadie-1405772'>LinkedIn ha empezado a utilizar los datos de los usuarios para entrenar su IA (y sí, no han avisado a nadie)</a></h4>
-    <a href='https://computerhoy.com/apps/linkedin-ha-empezado-utilizar-datos-usuarios-entrenar-ia-no-han-avisado-nadie-1405772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/linkedin-ha-empezado-utilizar-datos-usuarios-entrenar-ia-avisarles-4204990.jpg?tf=1200x' alt='LinkedIn ha empezado a utilizar los datos de los usuarios para entrenar su IA (y sí, no han avisado a nadie)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/mejores-peliculas-terror-miedo-historia-22071'>Las 40 mejores películas de terror o de miedo de la historia del cine</a></h4>
-    <a href='https://computerhoy.com/listas/life/mejores-peliculas-terror-miedo-historia-22071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/terrifier-2-2955418.jpg?tf=1200x' alt='Las 40 mejores películas de terror o de miedo de la historia del cine' />
     </a>
 </div>
 
