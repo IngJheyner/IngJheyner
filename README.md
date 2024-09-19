@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quien-satya-nadella-ceo-microsoft-cuanto-dinero-tiene-vida-personal-etapa-mando-1402502'>Quién es Satya Nadella, CEO de Microsoft: cuánto dinero tiene, vida personal y su etapa al mando</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quien-satya-nadella-ceo-microsoft-cuanto-dinero-tiene-vida-personal-etapa-mando-1402502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/satya-nadella-ceo-microsoft-4057946.jpg?tf=1200x' alt='Quién es Satya Nadella, CEO de Microsoft: cuánto dinero tiene, vida personal y su etapa al mando' />
+    <h4><a href='https://computerhoy.com/pc/canon-gaming-barato-rtx-4060-i7-arrasar-steam-300-euros-barato-1405685'>Es un cañón gaming, y barato: RTX 4060 con i7 para arrasar en Steam ¡300 euros más barato!</a></h4>
+    <a href='https://computerhoy.com/pc/canon-gaming-barato-rtx-4060-i7-arrasar-steam-300-euros-barato-1405685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/asus-tuf-gaming-f16-2024-4200154.jpg?tf=1200x' alt='Es un cañón gaming, y barato: RTX 4060 con i7 para arrasar en Steam ¡300 euros más barato!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/que-es-tpm-windows-11-obligatorio-pc-1404653'>Qué es TPM y por qué Windows 11 te obliga a tenerlo en tu PC</a></h4>
-    <a href='https://computerhoy.com/pc/que-es-tpm-windows-11-obligatorio-pc-1404653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tpm-windows-11-obliga-tengas-pc-4153358.jpg?tf=1200x' alt='Qué es TPM y por qué Windows 11 te obliga a tenerlo en tu PC' />
+    <h4><a href='https://computerhoy.com/motor/tesla-todo-acerca-marca-coches-electricos-elon-musk-revoluciona-sector-1402038'>Tesla, todo acerca de la marca de coches eléctricos de Elon Musk que revoluciona el sector</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-todo-acerca-marca-coches-electricos-elon-musk-revoluciona-sector-1402038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tesla-3571463.jpg?tf=1200x' alt='Tesla, todo acerca de la marca de coches eléctricos de Elon Musk que revoluciona el sector' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-ocupa-espacio-potente-pc-all-one-ryzen-5-perfecto-barato-casa-1405778'>No ocupa espacio y es potente: este PC all in One con Ryzen 5 es perfecto y barato para casa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-ocupa-espacio-potente-pc-all-one-ryzen-5-perfecto-barato-casa-1405778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hp-all-one-24-cr0018ns-4205123.jpg?tf=1200x' alt='No ocupa espacio y es potente: este PC all in One con Ryzen 5 es perfecto y barato para casa' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-historia-modelos-funcionamiento-antiguas-mi-band-1402414'>Xiaomi Smart Band: historia, modelos y funcionamiento de las antiguas Mi Band</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-historia-modelos-funcionamiento-antiguas-mi-band-1402414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-smart-band-4057947.jpg?tf=1200x' alt='Xiaomi Smart Band: historia, modelos y funcionamiento de las antiguas Mi Band' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/youtube-ha-empezado-mostrar-anuncios-cuando-pausas-video-solucion-no-convence-usuarios-1405755'>YouTube ha empezado a mostrar anuncios cuando pausas el vídeo, y la solución no convence a los usuarios</a></h4>
-    <a href='https://computerhoy.com/google/youtube-ha-empezado-mostrar-anuncios-cuando-pausas-video-solucion-no-convence-usuarios-1405755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-ha-empezado-mostrar-anuncios-cuando-pausas-video-solucion-no-convence-usuarios-4204658.jpg?tf=1200x' alt='YouTube ha empezado a mostrar anuncios cuando pausas el vídeo, y la solución no convence a los usuarios' />
+    <h4><a href='https://computerhoy.com/apps/linkedin-ha-empezado-utilizar-datos-usuarios-entrenar-ia-no-han-avisado-nadie-1405772'>LinkedIn ha empezado a utilizar los datos de los usuarios para entrenar su IA (y sí, no han avisado a nadie)</a></h4>
+    <a href='https://computerhoy.com/apps/linkedin-ha-empezado-utilizar-datos-usuarios-entrenar-ia-no-han-avisado-nadie-1405772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/linkedin-ha-empezado-utilizar-datos-usuarios-entrenar-ia-avisarles-4204990.jpg?tf=1200x' alt='LinkedIn ha empezado a utilizar los datos de los usuarios para entrenar su IA (y sí, no han avisado a nadie)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ibm-decano-tecnologia-todo-empresa-impulso-computacion-hoy-vive-consultoria-1403231'>IBM, el decano de la tecnología: todo sobre la empresa que impulsó la computación y hoy vive de la consultoría</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ibm-decano-tecnologia-todo-empresa-impulso-computacion-hoy-vive-consultoria-1403231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ibm-pc-4107805.jpg?tf=1200x' alt='IBM, el decano de la tecnología: todo sobre la empresa que impulsó la computación y hoy vive de la consultoría' />
+    <h4><a href='https://computerhoy.com/listas/life/mejores-peliculas-terror-miedo-historia-22071'>Las 40 mejores películas de terror o de miedo de la historia del cine</a></h4>
+    <a href='https://computerhoy.com/listas/life/mejores-peliculas-terror-miedo-historia-22071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/terrifier-2-2955418.jpg?tf=1200x' alt='Las 40 mejores películas de terror o de miedo de la historia del cine' />
     </a>
 </div>
 
