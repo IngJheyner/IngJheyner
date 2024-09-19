@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/preparate-invierno-sistema-calefaccion-no-consume-electricidad-puedes-instalarlo-mismo-casa-1405651'>Prepárate para el invierno: este sistema de calefacción no consume electricidad y puedes instalarlo tú mismo en casa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/preparate-invierno-sistema-calefaccion-no-consume-electricidad-puedes-instalarlo-mismo-casa-1405651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/preparate-invierno-sistema-calefaccion-no-consume-electricidad-puedes-instalarlo-mismo-casa-4199665.jpg?tf=1200x' alt='Prepárate para el invierno: este sistema de calefacción no consume electricidad y puedes instalarlo tú mismo en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/spotify-meta-decenas-empresas-reclaman-regulacion-unificada-ia-europa-1405746'>Spotify, Meta y decenas de empresas reclaman una regulación unificada para la IA en Europa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/spotify-meta-decenas-empresas-reclaman-regulacion-unificada-ia-europa-1405746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ia-europa-4204805.jpg?tf=1200x' alt='Spotify, Meta y decenas de empresas reclaman una regulación unificada para la IA en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/dale-potencia-ordenador-pccomponentes-liquida-stock-geforce-rtx-4060-menos-300-euros-1405665'>Dale potencia a tu ordenador: PCComponentes liquida stock de la GeForce RTX 4060 por menos de 300 euros</a></h4>
     <a href='https://computerhoy.com/gaming/dale-potencia-ordenador-pccomponentes-liquida-stock-geforce-rtx-4060-menos-300-euros-1405665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/msi-geforce-rtx-4060-ventus-2x-4199729.jpg?tf=1200x' alt='Dale potencia a tu ordenador: PCComponentes liquida stock de la GeForce RTX 4060 por menos de 300 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tiembla-garmin-suunto-reloj-correr-gps-mas-barato-1358129'>Tiembla Garmin: este Suunto para correr con GPS y diseño ultraligero hunde su precio en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/tiembla-garmin-suunto-reloj-correr-gps-mas-barato-1358129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/suunto-9-peak-pro-3061770.jpg?tf=1200x' alt='Tiembla Garmin: este Suunto para correr con GPS y diseño ultraligero hunde su precio en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/presa-tres-gargantas-ha-movido-polos-tierra-alargado-dias-1405726'>La presa de las Tres Gargantas ha movido los polos de la Tierra, y alargado los días</a></h4>
-    <a href='https://computerhoy.com/energia/presa-tres-gargantas-ha-movido-polos-tierra-alargado-dias-1405726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/confirman-enorme-presa-tres-gargantas-ha-alterado-rotacion-tierra-4203734.jpg?tf=1200x' alt='La presa de las Tres Gargantas ha movido los polos de la Tierra, y alargado los días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/primera-vez-uso-skyshowtime-pero-me-ha-convencido-tanto-ya-he-cancelado-otras-suscripciones-1404095'>Es la primera vez que uso SkyShowtime, pero me ha convencido tanto que ya he cancelado otras suscripciones</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/primera-vez-uso-skyshowtime-pero-me-ha-convencido-tanto-ya-he-cancelado-otras-suscripciones-1404095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/skyshowtime-4135487.jpg?tf=1200x' alt='Es la primera vez que uso SkyShowtime, pero me ha convencido tanto que ya he cancelado otras suscripciones' />
     </a>
 </div>
 
