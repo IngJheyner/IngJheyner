@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/comandos-linux-peligrosos-no-deberias-utilizar-nunca-existen-1405689'>Los comandos de Linux más peligrosos que no deberías utilizar nunca (y por qué existen)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/comandos-linux-peligrosos-no-deberias-utilizar-nunca-existen-1405689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/comandos-linux-peligrosos-no-deberias-utilizar-nunca-existen-4202852.jpg?tf=1200x' alt='Los comandos de Linux más peligrosos que no deberías utilizar nunca (y por qué existen)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/investigadores-valencianos-crean-superlechuga-dorada-30-veces-vitaminas-1405710'>Investigadores valencianos crean la superlechuga dorada, con 30 veces más vitaminas</a></h4>
     <a href='https://computerhoy.com/alimentacion/investigadores-valencianos-crean-superlechuga-dorada-30-veces-vitaminas-1405710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1726696259555-4201667.jpg?tf=1200x' alt='Investigadores valencianos crean la superlechuga dorada, con 30 veces más vitaminas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/podria-ser-nintendo-switch-2-fotografian-supuesto-prototipo-recrean-3d-1405704'>¿Podría ser esta la Nintendo Switch 2? Fotografían un supuesto prototipo y lo recrean en 3D</a></h4>
     <a href='https://computerhoy.com/gaming/podria-ser-nintendo-switch-2-fotografian-supuesto-prototipo-recrean-3d-1405704' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-switch-4201069.jpg?tf=1200x' alt='¿Podría ser esta la Nintendo Switch 2? Fotografían un supuesto prototipo y lo recrean en 3D' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/terror-examenes-crean-mod-calculadoras-agrega-conexion-internet-chatgpt-1405702'>El terror de los exámenes: crean un mod para calculadoras que agrega conexión a internet y ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/terror-examenes-crean-mod-calculadoras-agrega-conexion-internet-chatgpt-1405702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/terror-examenes-crean-mod-calculadoras-agrega-conexion-internet-chatgpt-4201068.jpg?tf=1200x' alt='El terror de los exámenes: crean un mod para calculadoras que agrega conexión a internet y ChatGPT' />
     </a>
 </div>
 
