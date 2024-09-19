@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/dale-potencia-ordenador-pccomponentes-liquida-stock-geforce-rtx-4060-menos-300-euros-1405665'>Dale potencia a tu ordenador: PCComponentes liquida stock de la GeForce RTX 4060 por menos de 300 euros</a></h4>
+    <a href='https://computerhoy.com/gaming/dale-potencia-ordenador-pccomponentes-liquida-stock-geforce-rtx-4060-menos-300-euros-1405665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/msi-geforce-rtx-4060-ventus-2x-4199729.jpg?tf=1200x' alt='Dale potencia a tu ordenador: PCComponentes liquida stock de la GeForce RTX 4060 por menos de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-poner-ia-gemini-como-asistente-virtual-movil-1405115'>Cómo poner la IA Gemini como tu Asistente Virtual en el móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-poner-ia-gemini-como-asistente-virtual-movil-1405115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cambiar-asistente-google-gemini-4180587.jpg?tf=1200x' alt='Cómo poner la IA Gemini como tu Asistente Virtual en el móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/primera-vez-uso-skyshowtime-pero-me-ha-convencido-tanto-ya-he-cancelado-otras-suscripciones-1404095'>Es la primera vez que uso SkyShowtime, pero me ha convencido tanto que ya he cancelado otras suscripciones</a></h4>
     <a href='https://computerhoy.com/entretenimiento/primera-vez-uso-skyshowtime-pero-me-ha-convencido-tanto-ya-he-cancelado-otras-suscripciones-1404095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/skyshowtime-4135487.jpg?tf=1200x' alt='Es la primera vez que uso SkyShowtime, pero me ha convencido tanto que ya he cancelado otras suscripciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-deja-claro-forma-eficaz-enfrentarse-robollamadas-1405612'>La Policía lo deja claro: esta es la forma más eficaz de enfrentarse a las “robollamadas”</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-deja-claro-forma-eficaz-enfrentarse-robollamadas-1405612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/policia-deja-claro-forma-eficaz-enfrentarse-robollamadas-4198218.jpg?tf=1200x' alt='La Policía lo deja claro: esta es la forma más eficaz de enfrentarse a las “robollamadas”' />
     </a>
 </div>
 
