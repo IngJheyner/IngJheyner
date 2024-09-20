@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/james-cameron-dice-adios-ciencia-ficcion-avatar-sorprendente-nuevo-proyecto-1405647'>James Cameron dice adiós a la ciencia ficción y a Avatar: así es su sorprendente nuevo proyecto</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/james-cameron-dice-adios-ciencia-ficcion-avatar-sorprendente-nuevo-proyecto-1405647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/james-cameron-3136618.jpg?tf=1200x' alt='James Cameron dice adiós a la ciencia ficción y a Avatar: así es su sorprendente nuevo proyecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/empresa-ayudaba-fbi-rinde-partir-version-iphone-imposible-hackear-1405896'>La empresa que ayudaba al FBI se rinde: a partir de esta versión un iPhone es imposible de hackear</a></h4>
     <a href='https://computerhoy.com/apple/empresa-ayudaba-fbi-rinde-partir-version-iphone-imposible-hackear-1405896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/empresa-ayudaba-fbi-rinde-partir-version-iphone-imposible-hackear-4210129.jpg?tf=1200x' alt='La empresa que ayudaba al FBI se rinde: a partir de esta versión un iPhone es imposible de hackear' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/bipi-estudio-neurocientifico-agresividad-volante-1405575'>El primer estudio neurocientífico español sobre la agresividad al volante, desvela ansiedad, miedo y enfado</a></h4>
     <a href='https://computerhoy.com/motor/bipi-estudio-neurocientifico-agresividad-volante-1405575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/primer-estudio-neurocientifico-espanol-agresividad-volante-desvela-ansiedad-enfado-4197096.jpg?tf=1200x' alt='El primer estudio neurocientífico español sobre la agresividad al volante, desvela ansiedad, miedo y enfado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/metodos-infalibles-muy-sencillos-expulsar-instante-intrusos-conectados-red-wifi-1405869'>Métodos infalibles muy sencillos para expulsar al instante a los intrusos conectados a tu red WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/metodos-infalibles-muy-sencillos-expulsar-instante-intrusos-conectados-red-wifi-1405869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/metodos-infalibles-muy-sencillos-expulsar-instante-intrusos-conectados-red-wifi-4208470.jpg?tf=1200x' alt='Métodos infalibles muy sencillos para expulsar al instante a los intrusos conectados a tu red WiFi' />
     </a>
 </div>
 
