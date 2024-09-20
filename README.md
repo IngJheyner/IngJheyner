@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-tiene-nuevo-sistema-recomendacion-canales-competir-telegram-1405921'>WhatsApp tiene un nuevo sistema de recomendación de canales para competir con Telegram</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-tiene-nuevo-sistema-recomendacion-canales-competir-telegram-1405921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-tiene-nuevo-sistema-recomendacion-canales-competir-telegram-4211657.jpg?tf=1200x' alt='WhatsApp tiene un nuevo sistema de recomendación de canales para competir con Telegram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cristal-cuarzo-almacena-360-tb-billones-anos-genoma-1405933'>Este cristal indestructible almacena 360 TB durante billones de años, ya guarda todo el genoma humano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cristal-cuarzo-almacena-360-tb-billones-anos-genoma-1405933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cristal-cuarzo-almacena-360-tb-durante-billones-anos-ya-guarda-todo-genoma-humano-4211186.jpg?tf=1200x' alt='Este cristal indestructible almacena 360 TB durante billones de años, ya guarda todo el genoma humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/freidora-vendida-amazon-cosori-55l-vuelve-desplomar-precio-1405847'>Es la freidora más vendida en Amazon: la Cosori de 5,5L vuelve a desplomar su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/freidora-vendida-amazon-cosori-55l-vuelve-desplomar-precio-1405847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cosori-cp158-af-3230980.jpg?tf=1200x' alt='Es la freidora más vendida en Amazon: la Cosori de 5,5L vuelve a desplomar su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/ya-conoce-cuanta-bateria-tienen-iphone-16-hay-buenas-noticias-1405920'>Ya se conoce cuánta batería tienen los iPhone 16 y hay buenas noticias</a></h4>
     <a href='https://computerhoy.com/apple/ya-conoce-cuanta-bateria-tienen-iphone-16-hay-buenas-noticias-1405920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bateria-iphone-3622180.jpg?tf=1200x' alt='Ya se conoce cuánta batería tienen los iPhone 16 y hay buenas noticias' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/windhawk-como-funciona-app-mods-windows-1405119'>Windhawk: qué es y cómo funciona la app de los mods de Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/windhawk-como-funciona-app-mods-windows-1405119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/programa-windhawk-mods-windows-4186896.jpg?tf=1200x' alt='Windhawk: qué es y cómo funciona la app de los mods de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-honor-magicpad-2-tener-pantalla-cine-1405270'>Lo que más me ha gustado de la Honor MagicPad 2 es tener una pantalla de y para cine</a></h4>
-    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-honor-magicpad-2-tener-pantalla-cine-1405270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/honor-magicpad-2-4185307.jpg?tf=1200x' alt='Lo que más me ha gustado de la Honor MagicPad 2 es tener una pantalla de y para cine' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/herramientas-uso-saber-datos-personales-estan-dark-web-1405276'>Herramientas que uso para saber si mis datos personales están en la dark web</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/herramientas-uso-saber-datos-personales-estan-dark-web-1405276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dark-web-filtracion-datos-brecha-seguridad-4185660.jpg?tf=1200x' alt='Herramientas que uso para saber si mis datos personales están en la dark web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-kodi-chromecast-1403879'>Cómo instalar Kodi en Chromecast</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-kodi-chromecast-1403879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chromecast-kodi-4205285.jpg?tf=1200x' alt='Cómo instalar Kodi en Chromecast' />
     </a>
 </div>
 
