@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/windhawk-como-funciona-app-mods-windows-1405119'>Windhawk: qué es y cómo funciona la app de los mods de Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/windhawk-como-funciona-app-mods-windows-1405119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/programa-windhawk-mods-windows-4186896.jpg?tf=1200x' alt='Windhawk: qué es y cómo funciona la app de los mods de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-honor-magicpad-2-tener-pantalla-cine-1405270'>Lo que más me ha gustado de la Honor MagicPad 2 es tener una pantalla de y para cine</a></h4>
+    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-honor-magicpad-2-tener-pantalla-cine-1405270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/honor-magicpad-2-4185307.jpg?tf=1200x' alt='Lo que más me ha gustado de la Honor MagicPad 2 es tener una pantalla de y para cine' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/herramientas-uso-saber-datos-personales-estan-dark-web-1405276'>Herramientas que uso para saber si mis datos personales están en la dark web</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/herramientas-uso-saber-datos-personales-estan-dark-web-1405276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dark-web-filtracion-datos-brecha-seguridad-4185660.jpg?tf=1200x' alt='Herramientas que uso para saber si mis datos personales están en la dark web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-kodi-chromecast-1403879'>Cómo instalar Kodi en Chromecast</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-kodi-chromecast-1403879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chromecast-kodi-4205285.jpg?tf=1200x' alt='Cómo instalar Kodi en Chromecast' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/domina-google-maps-modo-experto-50-trucos-avanzados-funciones-desconocidas-1131969'>Domina Google Maps en modo experto: 50 trucos avanzados y funciones desconocidas</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/domina-google-maps-modo-experto-50-trucos-avanzados-funciones-desconocidas-1131969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-maps-2827131.jpg?tf=1200x' alt='Domina Google Maps en modo experto: 50 trucos avanzados y funciones desconocidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-rival-google-apple-movil-gama-alta-rebajado-1359462'>OnePlus pone en apuros a Apple y Google: su móvil más potente desploma su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-rival-google-apple-movil-gama-alta-rebajado-1359462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-12-3990467.jpg?tf=1200x' alt='OnePlus pone en apuros a Apple y Google: su móvil más potente desploma su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/james-cameron-dice-adios-ciencia-ficcion-avatar-sorprendente-nuevo-proyecto-1405647'>James Cameron dice adiós a la ciencia ficción y a Avatar: así es su sorprendente nuevo proyecto</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/james-cameron-dice-adios-ciencia-ficcion-avatar-sorprendente-nuevo-proyecto-1405647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/james-cameron-3136618.jpg?tf=1200x' alt='James Cameron dice adiós a la ciencia ficción y a Avatar: así es su sorprendente nuevo proyecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/empresa-ayudaba-fbi-rinde-partir-version-iphone-imposible-hackear-1405896'>La empresa que ayudaba al FBI se rinde: a partir de esta versión un iPhone es imposible de hackear</a></h4>
-    <a href='https://computerhoy.com/apple/empresa-ayudaba-fbi-rinde-partir-version-iphone-imposible-hackear-1405896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/empresa-ayudaba-fbi-rinde-partir-version-iphone-imposible-hackear-4210129.jpg?tf=1200x' alt='La empresa que ayudaba al FBI se rinde: a partir de esta versión un iPhone es imposible de hackear' />
     </a>
 </div>
 
