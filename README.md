@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/empresa-ayudaba-fbi-rinde-partir-version-iphone-imposible-hackear-1405896'>La empresa que ayudaba al FBI se rinde: a partir de esta versión un iPhone es imposible de hackear</a></h4>
+    <a href='https://computerhoy.com/apple/empresa-ayudaba-fbi-rinde-partir-version-iphone-imposible-hackear-1405896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/empresa-ayudaba-fbi-rinde-partir-version-iphone-imposible-hackear-4210129.jpg?tf=1200x' alt='La empresa que ayudaba al FBI se rinde: a partir de esta versión un iPhone es imposible de hackear' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-chatgpt-conseguir-trabajo-suenos-1405891'>Cómo utilizar ChatGPT para conseguir el trabajo de tus sueños</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-utilizar-chatgpt-conseguir-trabajo-suenos-1405891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-utilizar-chatgpt-conseguir-trabajo-suenos-4209675.jpg?tf=1200x' alt='Cómo utilizar ChatGPT para conseguir el trabajo de tus sueños' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/metodos-infalibles-muy-sencillos-expulsar-instante-intrusos-conectados-red-wifi-1405869'>Métodos infalibles muy sencillos para expulsar al instante a los intrusos conectados a tu red WiFi</a></h4>
     <a href='https://computerhoy.com/redes/metodos-infalibles-muy-sencillos-expulsar-instante-intrusos-conectados-red-wifi-1405869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/metodos-infalibles-muy-sencillos-expulsar-instante-intrusos-conectados-red-wifi-4208470.jpg?tf=1200x' alt='Métodos infalibles muy sencillos para expulsar al instante a los intrusos conectados a tu red WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/socialai-red-social-internet-muerto-1405890'>Ya está aquí SocialAI, la red social del Internet Muerto</a></h4>
-    <a href='https://computerhoy.com/redes/socialai-red-social-internet-muerto-1405890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-aqui-socialai-red-social-internet-muerta-4207851.jpg?tf=1200x' alt='Ya está aquí SocialAI, la red social del Internet Muerto' />
     </a>
 </div>
 
