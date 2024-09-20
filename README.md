@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-mi-smart-tv-chromecast-integrado-1403869'>Cómo saber si mi SmartTV tiene Chromecast integrado</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-mi-smart-tv-chromecast-integrado-1403869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-chromecast-smart-tv-4116195.jpg?tf=1200x' alt='Cómo saber si mi SmartTV tiene Chromecast integrado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-tv-lanza-freeplaystreaming-gratis-150-canales-tv-1405148'>Google TV lanza FreePlay, la nueva era del streaming con 150 canales totalmente gratis</a></h4>
+    <a href='https://computerhoy.com/google/google-tv-lanza-freeplaystreaming-gratis-150-canales-tv-1405148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-tienes-activar-simplificar-google-tv-3814319.jpg?tf=1200x' alt='Google TV lanza FreePlay, la nueva era del streaming con 150 canales totalmente gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/cambio-windows-portatil-antiguo-viejo-sistema-operativo-gratis-mejor-rendimiento-1402728'>Decidí cambiar Windows en mi viejo portátil por este sistema operativo gratis: ahora vuela, parece nuevo</a></h4>
+    <a href='https://computerhoy.com/pc/cambio-windows-portatil-antiguo-viejo-sistema-operativo-gratis-mejor-rendimiento-1402728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/he-cambiado-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-4066727.jpg?tf=1200x' alt='Decidí cambiar Windows en mi viejo portátil por este sistema operativo gratis: ahora vuela, parece nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/dark-mejor-serie-ciencia-ficcion-thiller-historia-netflix-1404935'>Netflix: para muchos la mejor serie de ciencia ficción de la historia, un thriller sobrenatural que te volará la cabeza</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/dark-mejor-serie-ciencia-ficcion-thiller-historia-netflix-1404935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dark-4163651.jpg?tf=1200x' alt='Netflix: para muchos la mejor serie de ciencia ficción de la historia, un thriller sobrenatural que te volará la cabeza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/jpeg-xl-secreto-mejor-guardado-iphone-16-1406000'>Qué es JPEG XL, el secreto mejor guardado del iPhone 16</a></h4>
     <a href='https://computerhoy.com/apple/jpeg-xl-secreto-mejor-guardado-iphone-16-1406000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/jpeg-xl-secreto-mejor-guardado-iphone-16-4213129.jpg?tf=1200x' alt='Qué es JPEG XL, el secreto mejor guardado del iPhone 16' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/spacex-acusado-superar-limites-contaminacion-permitidos-satelites-starlink-1405990'>SpaceX es acusado de superar los límites de contaminación permitidos con los satélites Starlink</a></h4>
-    <a href='https://computerhoy.com/espacio/spacex-acusado-superar-limites-contaminacion-permitidos-satelites-starlink-1405990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/spacex-acusado-superar-limites-contaminacion-permitidos-satelites-starlink-4212788.jpg?tf=1200x' alt='SpaceX es acusado de superar los límites de contaminación permitidos con los satélites Starlink' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/buscas-bici-electrica-no-busques-tiene-ayudas-publicas-bateria-extraible-1405958'>Si buscas bici eléctrica, no busques más: esta tiene ayudas públicas y batería extraíble</a></h4>
-    <a href='https://computerhoy.com/motor/buscas-bici-electrica-no-busques-tiene-ayudas-publicas-bateria-extraible-1405958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/moma-bikes-road-4192557.jpg?tf=1200x' alt='Si buscas bici eléctrica, no busques más: esta tiene ayudas públicas y batería extraíble' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-evitar-linkedin-utilice-datos-entrenar-ia-1405970'>¿Cómo evitar que LinkedIn utilice mis datos para entrenar a su IA?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-evitar-linkedin-utilice-datos-entrenar-ia-1405970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-evitar-linkedin-utilice-datos-entrenar-ia-4212470.jpg?tf=1200x' alt='¿Cómo evitar que LinkedIn utilice mis datos para entrenar a su IA?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/boe-confirma-no-habra-cambios-horario-invierno-2024-1405953'>El BOE lo confirma: no habrá cambios en el horario de invierno de 2024</a></h4>
-    <a href='https://computerhoy.com/life/boe-confirma-no-habra-cambios-horario-invierno-2024-1405953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cambios-horario-invierno-2024-4212139.jpg?tf=1200x' alt='El BOE lo confirma: no habrá cambios en el horario de invierno de 2024' />
     </a>
 </div>
 
