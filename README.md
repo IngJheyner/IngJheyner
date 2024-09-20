@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/buscas-bici-electrica-no-busques-tiene-ayudas-publicas-bateria-extraible-1405958'>Si buscas bici eléctrica, no busques más: esta tiene ayudas públicas y batería extraíble</a></h4>
+    <a href='https://computerhoy.com/motor/buscas-bici-electrica-no-busques-tiene-ayudas-publicas-bateria-extraible-1405958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/moma-bikes-road-4192557.jpg?tf=1200x' alt='Si buscas bici eléctrica, no busques más: esta tiene ayudas públicas y batería extraíble' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-evitar-linkedin-utilice-datos-entrenar-ia-1405970'>¿Cómo evitar que LinkedIn utilice mis datos para entrenar a su IA?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-evitar-linkedin-utilice-datos-entrenar-ia-1405970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-evitar-linkedin-utilice-datos-entrenar-ia-4212470.jpg?tf=1200x' alt='¿Cómo evitar que LinkedIn utilice mis datos para entrenar a su IA?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/boe-confirma-no-habra-cambios-horario-invierno-2024-1405953'>El BOE lo confirma: no habrá cambios en el horario de invierno de 2024</a></h4>
+    <a href='https://computerhoy.com/life/boe-confirma-no-habra-cambios-horario-invierno-2024-1405953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cambios-horario-invierno-2024-4212139.jpg?tf=1200x' alt='El BOE lo confirma: no habrá cambios en el horario de invierno de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/usos-frikis-puedes-dar-movil-antiguo-lugar-dejarlo-cajon-1156931'>5 usos frikis que puedes dar a tu móvil viejo en lugar de dejarlo en el cajón</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/usos-frikis-puedes-dar-movil-antiguo-lugar-dejarlo-cajon-1156931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/movil-2874355.jpg?tf=1200x' alt='5 usos frikis que puedes dar a tu móvil viejo en lugar de dejarlo en el cajón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/2x1-precio-ganga-lavadora-tambien-secadora-cuesta-menos-piensas-1405796'>Un 2x1 a precio de ganga: esta lavadora es también secadora, y cuesta menos de lo que piensas</a></h4>
     <a href='https://computerhoy.com/tecnologia/2x1-precio-ganga-lavadora-tambien-secadora-cuesta-menos-piensas-1405796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lavadora-secadora-candy-smart-4204958.jpg?tf=1200x' alt='Un 2x1 a precio de ganga: esta lavadora es también secadora, y cuesta menos de lo que piensas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/dilema-amas-videojuegos-comprar-ahora-portatil-gaming-esperar-1405942'>El dilema si amas los videojuegos: ¿Comprar ahora un portátil gaming o esperar? </a></h4>
-    <a href='https://computerhoy.com/gaming/dilema-amas-videojuegos-comprar-ahora-portatil-gaming-esperar-1405942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/elegir-mejor-portatil-gaming-ti-2226685.jpg?tf=1200x' alt='El dilema si amas los videojuegos: ¿Comprar ahora un portátil gaming o esperar? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/playstation-6-podria-tener-dos-soc-trabajando-sony-propia-nintendo-switch-2-1405944'>PlayStation 6 podría tener dos SoC: ¿está trabajando Sony en su propia Nintendo Switch 2?</a></h4>
-    <a href='https://computerhoy.com/gaming/playstation-6-podria-tener-dos-soc-trabajando-sony-propia-nintendo-switch-2-1405944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/playstation-6-tendra-dos-chips-sony-podria-trabajar-version-portatil-4212038.jpg?tf=1200x' alt='PlayStation 6 podría tener dos SoC: ¿está trabajando Sony en su propia Nintendo Switch 2?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/funcion-google-maps-android-auto-podria-acabar-waze-1405928'>Esta función de Google Maps en Android Auto podría acabar con Waze</a></h4>
-    <a href='https://computerhoy.com/google/funcion-google-maps-android-auto-podria-acabar-waze-1405928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-124-ya-aqui-descubre-cambios-como-instalarlo-3739135.jpg?tf=1200x' alt='Esta función de Google Maps en Android Auto podría acabar con Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-tiene-nuevo-sistema-recomendacion-canales-competir-telegram-1405921'>WhatsApp tiene un nuevo sistema de recomendación de canales para competir con Telegram</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-tiene-nuevo-sistema-recomendacion-canales-competir-telegram-1405921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-tiene-nuevo-sistema-recomendacion-canales-competir-telegram-4211657.jpg?tf=1200x' alt='WhatsApp tiene un nuevo sistema de recomendación de canales para competir con Telegram' />
     </a>
 </div>
 
