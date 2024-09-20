@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/creias-era-chrome-pero-app-bateria-gasta-movil-android-posiblemente-no-utilizas-1406073'>Creías que era Chrome, pero la app que más batería gasta de tu móvil Android es una que posiblemente no utilizas</a></h4>
+    <a href='https://computerhoy.com/android/creias-era-chrome-pero-app-bateria-gasta-movil-android-posiblemente-no-utilizas-1406073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/creias-era-chrome-pero-app-bateria-gasta-movil-android-posiblemente-no-utilizas-4216006.jpg?tf=1200x' alt='Creías que era Chrome, pero la app que más batería gasta de tu móvil Android es una que posiblemente no utilizas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/microsoft-flight-simulator-2024-nube-1406085'>Microsoft Flight Simulator 2024 exige hasta 64 GB de RAM y una conexión a 100 Mbps: échale la culpa a la nube</a></h4>
     <a href='https://computerhoy.com/gaming/microsoft-flight-simulator-2024-nube-1406085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/microsoft-flight-simulator-2024-exige-64-gb-ram-conexion-100-mbps-echale-culpa-nube-4215603.jpg?tf=1200x' alt='Microsoft Flight Simulator 2024 exige hasta 64 GB de RAM y una conexión a 100 Mbps: échale la culpa a la nube' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/estuvo-nominada-7-premios-oscar-grandes-joyas-steven-spielberg-acaba-llegar-amazon-prime-video-1406002'>Estuvo nominada a 7 premios Óscar, es una de las grandes joyas de Steven Spielberg y acaba de llegar a Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/entretenimiento/estuvo-nominada-7-premios-oscar-grandes-joyas-steven-spielberg-acaba-llegar-amazon-prime-video-1406002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/steven-spielberg-4213460.jpg?tf=1200x' alt='Estuvo nominada a 7 premios Óscar, es una de las grandes joyas de Steven Spielberg y acaba de llegar a Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-fire-tv-convierte-mayor-enemigo-laliga-veces-viene-iptv-preinstaladas-1406078'>El Amazon Fire TV se convierte en el mayor enemigo de LaLiga: "A veces viene con IPTV preinstaladas”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-fire-tv-convierte-mayor-enemigo-laliga-veces-viene-iptv-preinstaladas-1406078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/wild-project-292-javier-tebas-4215407.jpg?tf=1200x' alt='El Amazon Fire TV se convierte en el mayor enemigo de LaLiga: "A veces viene con IPTV preinstaladas”' />
     </a>
 </div>
 
