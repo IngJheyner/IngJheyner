@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-chatgpt-conseguir-trabajo-suenos-1405891'>Cómo utilizar ChatGPT para conseguir el trabajo de tus sueños</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-utilizar-chatgpt-conseguir-trabajo-suenos-1405891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-utilizar-chatgpt-conseguir-trabajo-suenos-4209675.jpg?tf=1200x' alt='Cómo utilizar ChatGPT para conseguir el trabajo de tus sueños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/generar-solo-100-palabras-gpt-4-consume-3-botellas-agua-1405895'>Generar solo 100 palabras con GPT-4 consume 3 botellas de agua</a></h4>
     <a href='https://computerhoy.com/tecnologia/generar-solo-100-palabras-gpt-4-consume-3-botellas-agua-1405895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/generar-solo-100-palabras-gpt-4-consume-3-botellas-agua-4208921.jpg?tf=1200x' alt='Generar solo 100 palabras con GPT-4 consume 3 botellas de agua' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/socialai-red-social-internet-muerto-1405890'>Ya está aquí SocialAI, la red social del Internet Muerto</a></h4>
     <a href='https://computerhoy.com/redes/socialai-red-social-internet-muerto-1405890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-aqui-socialai-red-social-internet-muerta-4207851.jpg?tf=1200x' alt='Ya está aquí SocialAI, la red social del Internet Muerto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/linkedin-toda-historia-compra-microsoft-como-crear-perfil-adecuado-encontrar-trabajo-1404606'>Qué es LinkedIn: toda su historia, la compra de Microsoft y cómo crear un perfil adecuado para encontrar trabajo</a></h4>
-    <a href='https://computerhoy.com/apps/linkedin-toda-historia-compra-microsoft-como-crear-perfil-adecuado-encontrar-trabajo-1404606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/linkedin-movil-aplicacion-4150759.jpg?tf=1200x' alt='Qué es LinkedIn: toda su historia, la compra de Microsoft y cómo crear un perfil adecuado para encontrar trabajo' />
     </a>
 </div>
 
