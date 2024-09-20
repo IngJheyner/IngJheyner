@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/2x1-precio-ganga-lavadora-tambien-secadora-cuesta-menos-piensas-1405796'>Un 2x1 a precio de ganga: esta lavadora es también secadora, y cuesta menos de lo que piensas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/2x1-precio-ganga-lavadora-tambien-secadora-cuesta-menos-piensas-1405796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lavadora-secadora-candy-smart-4204958.jpg?tf=1200x' alt='Un 2x1 a precio de ganga: esta lavadora es también secadora, y cuesta menos de lo que piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/dilema-amas-videojuegos-comprar-ahora-portatil-gaming-esperar-1405942'>El dilema si amas los videojuegos: ¿Comprar ahora un portátil gaming o esperar? </a></h4>
+    <a href='https://computerhoy.com/gaming/dilema-amas-videojuegos-comprar-ahora-portatil-gaming-esperar-1405942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/elegir-mejor-portatil-gaming-ti-2226685.jpg?tf=1200x' alt='El dilema si amas los videojuegos: ¿Comprar ahora un portátil gaming o esperar? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/playstation-6-podria-tener-dos-soc-trabajando-sony-propia-nintendo-switch-2-1405944'>PlayStation 6 podría tener dos SoC: ¿está trabajando Sony en su propia Nintendo Switch 2?</a></h4>
+    <a href='https://computerhoy.com/gaming/playstation-6-podria-tener-dos-soc-trabajando-sony-propia-nintendo-switch-2-1405944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/playstation-6-tendra-dos-chips-sony-podria-trabajar-version-portatil-4212038.jpg?tf=1200x' alt='PlayStation 6 podría tener dos SoC: ¿está trabajando Sony en su propia Nintendo Switch 2?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/funcion-google-maps-android-auto-podria-acabar-waze-1405928'>Esta función de Google Maps en Android Auto podría acabar con Waze</a></h4>
+    <a href='https://computerhoy.com/google/funcion-google-maps-android-auto-podria-acabar-waze-1405928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-auto-124-ya-aqui-descubre-cambios-como-instalarlo-3739135.jpg?tf=1200x' alt='Esta función de Google Maps en Android Auto podría acabar con Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-tiene-nuevo-sistema-recomendacion-canales-competir-telegram-1405921'>WhatsApp tiene un nuevo sistema de recomendación de canales para competir con Telegram</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-tiene-nuevo-sistema-recomendacion-canales-competir-telegram-1405921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-tiene-nuevo-sistema-recomendacion-canales-competir-telegram-4211657.jpg?tf=1200x' alt='WhatsApp tiene un nuevo sistema de recomendación de canales para competir con Telegram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cristal-cuarzo-almacena-360-tb-billones-anos-genoma-1405933'>Este cristal indestructible almacena 360 TB durante billones de años, ya guarda todo el genoma humano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cristal-cuarzo-almacena-360-tb-billones-anos-genoma-1405933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cristal-cuarzo-almacena-360-tb-durante-billones-anos-ya-guarda-todo-genoma-humano-4211186.jpg?tf=1200x' alt='Este cristal indestructible almacena 360 TB durante billones de años, ya guarda todo el genoma humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/freidora-vendida-amazon-cosori-55l-vuelve-desplomar-precio-1405847'>Es la freidora más vendida en Amazon: la Cosori de 5,5L vuelve a desplomar su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/freidora-vendida-amazon-cosori-55l-vuelve-desplomar-precio-1405847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cosori-cp158-af-3230980.jpg?tf=1200x' alt='Es la freidora más vendida en Amazon: la Cosori de 5,5L vuelve a desplomar su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ya-conoce-cuanta-bateria-tienen-iphone-16-hay-buenas-noticias-1405920'>Ya se conoce cuánta batería tienen los iPhone 16 y hay buenas noticias</a></h4>
-    <a href='https://computerhoy.com/apple/ya-conoce-cuanta-bateria-tienen-iphone-16-hay-buenas-noticias-1405920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bateria-iphone-3622180.jpg?tf=1200x' alt='Ya se conoce cuánta batería tienen los iPhone 16 y hay buenas noticias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/windhawk-como-funciona-app-mods-windows-1405119'>Windhawk: qué es y cómo funciona la app de los mods de Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/windhawk-como-funciona-app-mods-windows-1405119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/programa-windhawk-mods-windows-4186896.jpg?tf=1200x' alt='Windhawk: qué es y cómo funciona la app de los mods de Windows' />
     </a>
 </div>
 
