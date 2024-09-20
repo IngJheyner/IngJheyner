@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-kodi-chromecast-1403879'>Cómo instalar Kodi en Chromecast</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-kodi-chromecast-1403879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chromecast-kodi-4205285.jpg?tf=1200x' alt='Cómo instalar Kodi en Chromecast' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/domina-google-maps-modo-experto-50-trucos-avanzados-funciones-desconocidas-1131969'>Domina Google Maps en modo experto: 50 trucos avanzados y funciones desconocidas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/domina-google-maps-modo-experto-50-trucos-avanzados-funciones-desconocidas-1131969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-maps-2827131.jpg?tf=1200x' alt='Domina Google Maps en modo experto: 50 trucos avanzados y funciones desconocidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-rival-google-apple-movil-gama-alta-rebajado-1359462'>OnePlus pone en apuros a Apple y Google: su móvil más potente desploma su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-rival-google-apple-movil-gama-alta-rebajado-1359462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-12-3990467.jpg?tf=1200x' alt='OnePlus pone en apuros a Apple y Google: su móvil más potente desploma su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/james-cameron-dice-adios-ciencia-ficcion-avatar-sorprendente-nuevo-proyecto-1405647'>James Cameron dice adiós a la ciencia ficción y a Avatar: así es su sorprendente nuevo proyecto</a></h4>
     <a href='https://computerhoy.com/entretenimiento/james-cameron-dice-adios-ciencia-ficcion-avatar-sorprendente-nuevo-proyecto-1405647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/james-cameron-3136618.jpg?tf=1200x' alt='James Cameron dice adiós a la ciencia ficción y a Avatar: así es su sorprendente nuevo proyecto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/empresa-ayudaba-fbi-rinde-partir-version-iphone-imposible-hackear-1405896'>La empresa que ayudaba al FBI se rinde: a partir de esta versión un iPhone es imposible de hackear</a></h4>
     <a href='https://computerhoy.com/apple/empresa-ayudaba-fbi-rinde-partir-version-iphone-imposible-hackear-1405896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/empresa-ayudaba-fbi-rinde-partir-version-iphone-imposible-hackear-4210129.jpg?tf=1200x' alt='La empresa que ayudaba al FBI se rinde: a partir de esta versión un iPhone es imposible de hackear' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-chatgpt-conseguir-trabajo-suenos-1405891'>Cómo utilizar ChatGPT para conseguir el trabajo de tus sueños</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-utilizar-chatgpt-conseguir-trabajo-suenos-1405891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-utilizar-chatgpt-conseguir-trabajo-suenos-4209675.jpg?tf=1200x' alt='Cómo utilizar ChatGPT para conseguir el trabajo de tus sueños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/generar-solo-100-palabras-gpt-4-consume-3-botellas-agua-1405895'>Generar solo 100 palabras con GPT-4 consume 3 botellas de agua</a></h4>
-    <a href='https://computerhoy.com/tecnologia/generar-solo-100-palabras-gpt-4-consume-3-botellas-agua-1405895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/generar-solo-100-palabras-gpt-4-consume-3-botellas-agua-4208921.jpg?tf=1200x' alt='Generar solo 100 palabras con GPT-4 consume 3 botellas de agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/bipi-estudio-neurocientifico-agresividad-volante-1405575'>El primer estudio neurocientífico español sobre la agresividad al volante, desvela ansiedad, miedo y enfado</a></h4>
-    <a href='https://computerhoy.com/motor/bipi-estudio-neurocientifico-agresividad-volante-1405575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/primer-estudio-neurocientifico-espanol-agresividad-volante-desvela-ansiedad-enfado-4197096.jpg?tf=1200x' alt='El primer estudio neurocientífico español sobre la agresividad al volante, desvela ansiedad, miedo y enfado' />
     </a>
 </div>
 
