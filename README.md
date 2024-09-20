@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/opcion-mejora-calidad-sonido-movil-android-incluso-auriculares-pero-oculta-no-facil-localizar-1405316'>Esta opción mejora la calidad de sonido de un móvil Android (incluso con auriculares), pero está oculta y no es fácil de localizar</a></h4>
+    <a href='https://computerhoy.com/android/opcion-mejora-calidad-sonido-movil-android-incluso-auriculares-pero-oculta-no-facil-localizar-1405316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/opcion-mejora-calidad-sonido-movil-android-incluso-auriculares-pero-oculta-no-facil-localizar-4188506.jpg?tf=1200x' alt='Esta opción mejora la calidad de sonido de un móvil Android (incluso con auriculares), pero está oculta y no es fácil de localizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/diferencia-velocimetro-coche-gps-google-maps-waze-1372533'>Este es el motivo por el que Google Maps y Waze muestran una velocidad menor que la del velocímetro del coche</a></h4>
+    <a href='https://computerhoy.com/motor/diferencia-velocimetro-coche-gps-google-maps-waze-1372533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/velocidad-google-maps-waze-diferente-coche-cual-debes-hacerle-caso-3287788.jpg?tf=1200x' alt='Este es el motivo por el que Google Maps y Waze muestran una velocidad menor que la del velocímetro del coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-compartir-dni-compra-nunca-debes-hacer-policia-1406016'>Cuidado con compartir tu DNI para una compra: esto es lo que nunca debes hacer, según la Policía</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cuidado-compartir-dni-compra-nunca-debes-hacer-policia-1406016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cuidado-compartir-dni-compra-nunca-debes-hacer-policia-4213283.jpg?tf=1200x' alt='Cuidado con compartir tu DNI para una compra: esto es lo que nunca debes hacer, según la Policía' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/denuncian-nueva-estafa-tiktok-no-estas-acuerdo-puedes-acudir-ocu-1405813'>Denuncian una nueva estafa por TikTok: “Si no estás de acuerdo, puedes acudir a la OCU”</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/denuncian-nueva-estafa-tiktok-no-estas-acuerdo-puedes-acudir-ocu-1405813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/denuncian-nueva-estafa-tiktok-no-estas-acuerdo-puedes-acudir-ocu-4205763.jpg?tf=1200x' alt='Denuncian una nueva estafa por TikTok: “Si no estás de acuerdo, puedes acudir a la OCU”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-mi-smart-tv-chromecast-integrado-1403869'>Cómo saber si mi SmartTV tiene Chromecast integrado</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-mi-smart-tv-chromecast-integrado-1403869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-chromecast-smart-tv-4116195.jpg?tf=1200x' alt='Cómo saber si mi SmartTV tiene Chromecast integrado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-tv-lanza-freeplaystreaming-gratis-150-canales-tv-1405148'>Google TV lanza FreePlay, la nueva era del streaming con 150 canales totalmente gratis</a></h4>
-    <a href='https://computerhoy.com/google/google-tv-lanza-freeplaystreaming-gratis-150-canales-tv-1405148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-tienes-activar-simplificar-google-tv-3814319.jpg?tf=1200x' alt='Google TV lanza FreePlay, la nueva era del streaming con 150 canales totalmente gratis' />
     </a>
 </div>
 
