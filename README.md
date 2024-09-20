@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/descubren-porfirion-agujero-negro-redefine-limites-universo-chorros-energia-grandes-jamas-observados-1405935'>Descubren Porfirión: el agujero negro que redefine los límites del universo con los chorros de energía más grandes jamás observados</a></h4>
+    <a href='https://computerhoy.com/espacio/descubren-porfirion-agujero-negro-redefine-limites-universo-chorros-energia-grandes-jamas-observados-1405935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ilustracion-porfirion-4212131.jpg?tf=1200x' alt='Descubren Porfirión: el agujero negro que redefine los límites del universo con los chorros de energía más grandes jamás observados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/clint-eastwood-mejor-pelicula-oeste-historia-puedes-ver-gratis-youtube-quedo-grabada-mi-cabeza-1405516'>Para Clint Eastwood es la mejor película de oeste de la historia y la puedes ver gratis en YouTube: "se quedó grabada en mi cabeza"</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/clint-eastwood-mejor-pelicula-oeste-historia-puedes-ver-gratis-youtube-quedo-grabada-mi-cabeza-1405516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/clint-eastwood-mejor-pelicula-oeste-historia-puedes-ver-gratis-youtube-quedo-grabada-mi-cabeza-4195464.jpg?tf=1200x' alt='Para Clint Eastwood es la mejor película de oeste de la historia y la puedes ver gratis en YouTube: "se quedó grabada en mi cabeza"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/google-maps-no-me-ubica-correctamente-solucion-como-activar-maxima-precision-posicionamiento-1406050'>Google Maps no me ubica correctamente: solución y cómo activar la máxima precisión de posicionamiento</a></h4>
     <a href='https://computerhoy.com/tutoriales/google-maps-no-me-ubica-correctamente-solucion-como-activar-maxima-precision-posicionamiento-1406050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-maps-no-me-ubica-correctamente-solucion-como-activar-maxima-precision-posicionamiento-4214770.jpg?tf=1200x' alt='Google Maps no me ubica correctamente: solución y cómo activar la máxima precisión de posicionamiento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/super-mando-distancia-magico-smart-tv-activar-funcion-hdmi-1395154'>Convertir tu mando a distancia en un “supermando” solo requiere un paso: activar esta función del HDMI</a></h4>
     <a href='https://computerhoy.com/tv/super-mando-distancia-magico-smart-tv-activar-funcion-hdmi-1395154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mando-tv-cable-hdmi-3704623.jpg?tf=1200x' alt='Convertir tu mando a distancia en un “supermando” solo requiere un paso: activar esta función del HDMI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/opcion-mejora-calidad-sonido-movil-android-incluso-auriculares-pero-oculta-no-facil-localizar-1405316'>Esta opción mejora la calidad de sonido de un móvil Android (incluso con auriculares), pero está oculta y no es fácil de localizar</a></h4>
-    <a href='https://computerhoy.com/android/opcion-mejora-calidad-sonido-movil-android-incluso-auriculares-pero-oculta-no-facil-localizar-1405316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/opcion-mejora-calidad-sonido-movil-android-incluso-auriculares-pero-oculta-no-facil-localizar-4188506.jpg?tf=1200x' alt='Esta opción mejora la calidad de sonido de un móvil Android (incluso con auriculares), pero está oculta y no es fácil de localizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/diferencia-velocimetro-coche-gps-google-maps-waze-1372533'>Este es el motivo por el que Google Maps y Waze muestran una velocidad menor que la del velocímetro del coche</a></h4>
-    <a href='https://computerhoy.com/motor/diferencia-velocimetro-coche-gps-google-maps-waze-1372533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/velocidad-google-maps-waze-diferente-coche-cual-debes-hacerle-caso-3287788.jpg?tf=1200x' alt='Este es el motivo por el que Google Maps y Waze muestran una velocidad menor que la del velocímetro del coche' />
     </a>
 </div>
 
