@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-compartir-dni-compra-nunca-debes-hacer-policia-1406016'>Cuidado con compartir tu DNI para una compra: esto es lo que nunca debes hacer, según la Policía</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-compartir-dni-compra-nunca-debes-hacer-policia-1406016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cuidado-compartir-dni-compra-nunca-debes-hacer-policia-4213283.jpg?tf=1200x' alt='Cuidado con compartir tu DNI para una compra: esto es lo que nunca debes hacer, según la Policía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/motivos-nunca-debes-colocar-router-wifi-cerca-televisor-smart-tv-1298720'>Poner el router WiFi junto a tu Smart TV no es buena idea: estos son los motivos</a></h4>
+    <a href='https://computerhoy.com/redes/motivos-nunca-debes-colocar-router-wifi-cerca-televisor-smart-tv-1298720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/router-tv-3124384.jpg?tf=1200x' alt='Poner el router WiFi junto a tu Smart TV no es buena idea: estos son los motivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/denuncian-nueva-estafa-tiktok-no-estas-acuerdo-puedes-acudir-ocu-1405813'>Denuncian una nueva estafa por TikTok: “Si no estás de acuerdo, puedes acudir a la OCU”</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/denuncian-nueva-estafa-tiktok-no-estas-acuerdo-puedes-acudir-ocu-1405813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/denuncian-nueva-estafa-tiktok-no-estas-acuerdo-puedes-acudir-ocu-4205763.jpg?tf=1200x' alt='Denuncian una nueva estafa por TikTok: “Si no estás de acuerdo, puedes acudir a la OCU”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-mi-smart-tv-chromecast-integrado-1403869'>Cómo saber si mi SmartTV tiene Chromecast integrado</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-mi-smart-tv-chromecast-integrado-1403869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-chromecast-smart-tv-4116195.jpg?tf=1200x' alt='Cómo saber si mi SmartTV tiene Chromecast integrado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-tv-lanza-freeplaystreaming-gratis-150-canales-tv-1405148'>Google TV lanza FreePlay, la nueva era del streaming con 150 canales totalmente gratis</a></h4>
     <a href='https://computerhoy.com/google/google-tv-lanza-freeplaystreaming-gratis-150-canales-tv-1405148' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/funcion-tienes-activar-simplificar-google-tv-3814319.jpg?tf=1200x' alt='Google TV lanza FreePlay, la nueva era del streaming con 150 canales totalmente gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cambio-windows-portatil-antiguo-viejo-sistema-operativo-gratis-mejor-rendimiento-1402728'>Decidí cambiar Windows en mi viejo portátil por este sistema operativo gratis: ahora vuela, parece nuevo</a></h4>
-    <a href='https://computerhoy.com/pc/cambio-windows-portatil-antiguo-viejo-sistema-operativo-gratis-mejor-rendimiento-1402728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/he-cambiado-windows-mi-viejo-portatil-sistema-operativo-gratuito-ahora-vuela-4066727.jpg?tf=1200x' alt='Decidí cambiar Windows en mi viejo portátil por este sistema operativo gratis: ahora vuela, parece nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/dark-mejor-serie-ciencia-ficcion-thiller-historia-netflix-1404935'>Netflix: para muchos la mejor serie de ciencia ficción de la historia, un thriller sobrenatural que te volará la cabeza</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/dark-mejor-serie-ciencia-ficcion-thiller-historia-netflix-1404935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dark-4163651.jpg?tf=1200x' alt='Netflix: para muchos la mejor serie de ciencia ficción de la historia, un thriller sobrenatural que te volará la cabeza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/jpeg-xl-secreto-mejor-guardado-iphone-16-1406000'>Qué es JPEG XL, el secreto mejor guardado del iPhone 16</a></h4>
-    <a href='https://computerhoy.com/apple/jpeg-xl-secreto-mejor-guardado-iphone-16-1406000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/jpeg-xl-secreto-mejor-guardado-iphone-16-4213129.jpg?tf=1200x' alt='Qué es JPEG XL, el secreto mejor guardado del iPhone 16' />
     </a>
 </div>
 
