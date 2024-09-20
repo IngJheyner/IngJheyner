@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/todo-deberias-saber-gmail-correo-electronico-utilizado-mundo-1404905'>Todo lo que deberías saber sobre Gmail, el correo electrónico más utilizado del mundo</a></h4>
+    <a href='https://computerhoy.com/google/todo-deberias-saber-gmail-correo-electronico-utilizado-mundo-1404905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/gmail-4165042.jpg?tf=1200x' alt='Todo lo que deberías saber sobre Gmail, el correo electrónico más utilizado del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-windows-app-accede-pc-cualquier-dispositivo-1406080'>Microsoft estrena Windows App, accede a tu PC desde cualquier dispositivo</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-windows-app-accede-pc-cualquier-dispositivo-1406080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1726856644588-4215256.jpg?tf=1200x' alt='Microsoft estrena Windows App, accede a tu PC desde cualquier dispositivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estuvo-nominada-7-premios-oscar-grandes-joyas-steven-spielberg-acaba-llegar-amazon-prime-video-1406002'>Estuvo nominada a 7 premios Óscar, es una de las grandes joyas de Steven Spielberg y acaba de llegar a Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estuvo-nominada-7-premios-oscar-grandes-joyas-steven-spielberg-acaba-llegar-amazon-prime-video-1406002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/steven-spielberg-4213460.jpg?tf=1200x' alt='Estuvo nominada a 7 premios Óscar, es una de las grandes joyas de Steven Spielberg y acaba de llegar a Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-fire-tv-convierte-mayor-enemigo-laliga-veces-viene-iptv-preinstaladas-1406078'>El Amazon Fire TV se convierte en el mayor enemigo de LaLiga: "A veces viene con IPTV preinstaladas”</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-fire-tv-convierte-mayor-enemigo-laliga-veces-viene-iptv-preinstaladas-1406078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/wild-project-292-javier-tebas-4215407.jpg?tf=1200x' alt='El Amazon Fire TV se convierte en el mayor enemigo de LaLiga: "A veces viene con IPTV preinstaladas”' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/ciencia-redefine-temperatura-corporal-adios-366-grados-nuevo-estandar-podria-cambiarlo-todo-1405957'>La ciencia redefine la temperatura corporal, adiós a los 36,6 grados: el nuevo estándar podría cambiarlo todo</a></h4>
     <a href='https://computerhoy.com/ciencia/ciencia-redefine-temperatura-corporal-adios-366-grados-nuevo-estandar-podria-cambiarlo-todo-1405957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/termometro-2659507.jpg?tf=1200x' alt='La ciencia redefine la temperatura corporal, adiós a los 36,6 grados: el nuevo estándar podría cambiarlo todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/seria-nintendo-switch-2-nueva-filtracion-muestra-video-posible-aspecto-especificaciones-completas-1406077'>Así sería Nintendo Switch 2: una nueva filtración muestra en vídeo su posible aspecto y especificaciones completas</a></h4>
-    <a href='https://computerhoy.com/gaming/seria-nintendo-switch-2-nueva-filtracion-muestra-video-posible-aspecto-especificaciones-completas-1406077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/modelo-impreso-3d-supuesta-nintendo-switch-2-4215257.jpg?tf=1200x' alt='Así sería Nintendo Switch 2: una nueva filtración muestra en vídeo su posible aspecto y especificaciones completas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/te-pueden-multar-instalar-pantalla-tener-android-auto-coche-dice-dgt-1406064'>¿Te pueden multar por instalar una pantalla para tener Android Auto en el coche? Esto dice la DGT</a></h4>
-    <a href='https://computerhoy.com/android/te-pueden-multar-instalar-pantalla-tener-android-auto-coche-dice-dgt-1406064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/te-pueden-multar-instalar-pantalla-tener-android-auto-coche-dice-dgt-4215251.jpg?tf=1200x' alt='¿Te pueden multar por instalar una pantalla para tener Android Auto en el coche? Esto dice la DGT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ya-puedes-utilizar-apple-watch-como-mando-distancia-smart-tv-1406074'>Ya puedes utilizar tu Apple Watch como mando a distancia de tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/apple/ya-puedes-utilizar-apple-watch-como-mando-distancia-smart-tv-1406074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-puedes-utilizar-apple-watch-como-mando-distancia-smart-tv-4215254.jpg?tf=1200x' alt='Ya puedes utilizar tu Apple Watch como mando a distancia de tu Smart TV' />
     </a>
 </div>
 
