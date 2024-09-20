@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/generar-solo-100-palabras-gpt-4-consume-3-botellas-agua-1405895'>Generar solo 100 palabras con GPT-4 consume 3 botellas de agua</a></h4>
+    <a href='https://computerhoy.com/tecnologia/generar-solo-100-palabras-gpt-4-consume-3-botellas-agua-1405895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/generar-solo-100-palabras-gpt-4-consume-3-botellas-agua-4208921.jpg?tf=1200x' alt='Generar solo 100 palabras con GPT-4 consume 3 botellas de agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/bipi-estudio-neurocientifico-agresividad-volante-1405575'>El primer estudio neurocientífico español sobre la agresividad al volante, desvela ansiedad, miedo y enfado</a></h4>
     <a href='https://computerhoy.com/motor/bipi-estudio-neurocientifico-agresividad-volante-1405575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/primer-estudio-neurocientifico-espanol-agresividad-volante-desvela-ansiedad-enfado-4197096.jpg?tf=1200x' alt='El primer estudio neurocientífico español sobre la agresividad al volante, desvela ansiedad, miedo y enfado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/linkedin-toda-historia-compra-microsoft-como-crear-perfil-adecuado-encontrar-trabajo-1404606'>Qué es LinkedIn: toda su historia, la compra de Microsoft y cómo crear un perfil adecuado para encontrar trabajo</a></h4>
     <a href='https://computerhoy.com/apps/linkedin-toda-historia-compra-microsoft-como-crear-perfil-adecuado-encontrar-trabajo-1404606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/linkedin-movil-aplicacion-4150759.jpg?tf=1200x' alt='Qué es LinkedIn: toda su historia, la compra de Microsoft y cómo crear un perfil adecuado para encontrar trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/no-solo-apple-watch-ue-quiere-obligar-apple-puedas-utilizar-smartwatch-android-iphone-1405888'>No solo el Apple Watch: la UE quiere obligar a Apple a que puedas utilizar los smartwatch para Android en el iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/no-solo-apple-watch-ue-quiere-obligar-apple-puedas-utilizar-smartwatch-android-iphone-1405888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-4208319.jpg?tf=1200x' alt='No solo el Apple Watch: la UE quiere obligar a Apple a que puedas utilizar los smartwatch para Android en el iPhone' />
     </a>
 </div>
 
