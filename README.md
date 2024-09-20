@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/microsoft-flight-simulator-2024-nube-1406085'>Microsoft Flight Simulator 2024 exige hasta 64 GB de RAM y una conexión a 100 Mbps: échale la culpa a la nube</a></h4>
+    <a href='https://computerhoy.com/gaming/microsoft-flight-simulator-2024-nube-1406085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/microsoft-flight-simulator-2024-exige-64-gb-ram-conexion-100-mbps-echale-culpa-nube-4215603.jpg?tf=1200x' alt='Microsoft Flight Simulator 2024 exige hasta 64 GB de RAM y una conexión a 100 Mbps: échale la culpa a la nube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/todo-deberias-saber-gmail-correo-electronico-utilizado-mundo-1404905'>Todo lo que deberías saber sobre Gmail, el correo electrónico más utilizado del mundo</a></h4>
     <a href='https://computerhoy.com/google/todo-deberias-saber-gmail-correo-electronico-utilizado-mundo-1404905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/gmail-4165042.jpg?tf=1200x' alt='Todo lo que deberías saber sobre Gmail, el correo electrónico más utilizado del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-fire-tv-convierte-mayor-enemigo-laliga-veces-viene-iptv-preinstaladas-1406078'>El Amazon Fire TV se convierte en el mayor enemigo de LaLiga: "A veces viene con IPTV preinstaladas”</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-fire-tv-convierte-mayor-enemigo-laliga-veces-viene-iptv-preinstaladas-1406078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/wild-project-292-javier-tebas-4215407.jpg?tf=1200x' alt='El Amazon Fire TV se convierte en el mayor enemigo de LaLiga: "A veces viene con IPTV preinstaladas”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ciencia-redefine-temperatura-corporal-adios-366-grados-nuevo-estandar-podria-cambiarlo-todo-1405957'>La ciencia redefine la temperatura corporal, adiós a los 36,6 grados: el nuevo estándar podría cambiarlo todo</a></h4>
-    <a href='https://computerhoy.com/ciencia/ciencia-redefine-temperatura-corporal-adios-366-grados-nuevo-estandar-podria-cambiarlo-todo-1405957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/termometro-2659507.jpg?tf=1200x' alt='La ciencia redefine la temperatura corporal, adiós a los 36,6 grados: el nuevo estándar podría cambiarlo todo' />
     </a>
 </div>
 
