@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/descubren-porfirion-agujero-negro-redefine-limites-universo-chorros-energia-grandes-jamas-observados-1405935'>Descubren Porfirión: el agujero negro que redefine los límites del universo con los chorros de energía más grandes jamás observados</a></h4>
-    <a href='https://computerhoy.com/espacio/descubren-porfirion-agujero-negro-redefine-limites-universo-chorros-energia-grandes-jamas-observados-1405935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ilustracion-porfirion-4212131.jpg?tf=1200x' alt='Descubren Porfirión: el agujero negro que redefine los límites del universo con los chorros de energía más grandes jamás observados' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-fire-tv-convierte-mayor-enemigo-laliga-veces-viene-iptv-preinstaladas-1406078'>El Amazon Fire TV se convierte en el mayor enemigo de LaLiga: "A veces viene con IPTV preinstaladas”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-fire-tv-convierte-mayor-enemigo-laliga-veces-viene-iptv-preinstaladas-1406078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/wild-project-292-javier-tebas-4215407.jpg?tf=1200x' alt='El Amazon Fire TV se convierte en el mayor enemigo de LaLiga: "A veces viene con IPTV preinstaladas”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/clint-eastwood-mejor-pelicula-oeste-historia-puedes-ver-gratis-youtube-quedo-grabada-mi-cabeza-1405516'>Para Clint Eastwood es la mejor película de oeste de la historia y la puedes ver gratis en YouTube: "se quedó grabada en mi cabeza"</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/clint-eastwood-mejor-pelicula-oeste-historia-puedes-ver-gratis-youtube-quedo-grabada-mi-cabeza-1405516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/clint-eastwood-mejor-pelicula-oeste-historia-puedes-ver-gratis-youtube-quedo-grabada-mi-cabeza-4195464.jpg?tf=1200x' alt='Para Clint Eastwood es la mejor película de oeste de la historia y la puedes ver gratis en YouTube: "se quedó grabada en mi cabeza"' />
+    <h4><a href='https://computerhoy.com/ciencia/ciencia-redefine-temperatura-corporal-adios-366-grados-nuevo-estandar-podria-cambiarlo-todo-1405957'>La ciencia redefine la temperatura corporal, adiós a los 36,6 grados: el nuevo estándar podría cambiarlo todo</a></h4>
+    <a href='https://computerhoy.com/ciencia/ciencia-redefine-temperatura-corporal-adios-366-grados-nuevo-estandar-podria-cambiarlo-todo-1405957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/termometro-2659507.jpg?tf=1200x' alt='La ciencia redefine la temperatura corporal, adiós a los 36,6 grados: el nuevo estándar podría cambiarlo todo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/google-maps-no-me-ubica-correctamente-solucion-como-activar-maxima-precision-posicionamiento-1406050'>Google Maps no me ubica correctamente: solución y cómo activar la máxima precisión de posicionamiento</a></h4>
-    <a href='https://computerhoy.com/tutoriales/google-maps-no-me-ubica-correctamente-solucion-como-activar-maxima-precision-posicionamiento-1406050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-maps-no-me-ubica-correctamente-solucion-como-activar-maxima-precision-posicionamiento-4214770.jpg?tf=1200x' alt='Google Maps no me ubica correctamente: solución y cómo activar la máxima precisión de posicionamiento' />
+    <h4><a href='https://computerhoy.com/gaming/seria-nintendo-switch-2-nueva-filtracion-muestra-video-posible-aspecto-especificaciones-completas-1406077'>Así sería Nintendo Switch 2: una nueva filtración muestra en vídeo su posible aspecto y especificaciones completas</a></h4>
+    <a href='https://computerhoy.com/gaming/seria-nintendo-switch-2-nueva-filtracion-muestra-video-posible-aspecto-especificaciones-completas-1406077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/modelo-impreso-3d-supuesta-nintendo-switch-2-4215257.jpg?tf=1200x' alt='Así sería Nintendo Switch 2: una nueva filtración muestra en vídeo su posible aspecto y especificaciones completas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/buscas-portatil-barato-no-busques-windows-apenas-300-euros-pccomponentes-1405905'>Si buscas portátil barato, no busques más: con Windows y por apenas 300 euros en PcComponentes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/buscas-portatil-barato-no-busques-windows-apenas-300-euros-pccomponentes-1405905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/alurin-go-start-n24-4211339.jpg?tf=1200x' alt='Si buscas portátil barato, no busques más: con Windows y por apenas 300 euros en PcComponentes' />
+    <h4><a href='https://computerhoy.com/android/te-pueden-multar-instalar-pantalla-tener-android-auto-coche-dice-dgt-1406064'>¿Te pueden multar por instalar una pantalla para tener Android Auto en el coche? Esto dice la DGT</a></h4>
+    <a href='https://computerhoy.com/android/te-pueden-multar-instalar-pantalla-tener-android-auto-coche-dice-dgt-1406064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/te-pueden-multar-instalar-pantalla-tener-android-auto-coche-dice-dgt-4215251.jpg?tf=1200x' alt='¿Te pueden multar por instalar una pantalla para tener Android Auto en el coche? Esto dice la DGT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/super-mando-distancia-magico-smart-tv-activar-funcion-hdmi-1395154'>Convertir tu mando a distancia en un “supermando” solo requiere un paso: activar esta función del HDMI</a></h4>
-    <a href='https://computerhoy.com/tv/super-mando-distancia-magico-smart-tv-activar-funcion-hdmi-1395154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mando-tv-cable-hdmi-3704623.jpg?tf=1200x' alt='Convertir tu mando a distancia en un “supermando” solo requiere un paso: activar esta función del HDMI' />
+    <h4><a href='https://computerhoy.com/apple/ya-puedes-utilizar-apple-watch-como-mando-distancia-smart-tv-1406074'>Ya puedes utilizar tu Apple Watch como mando a distancia de tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/apple/ya-puedes-utilizar-apple-watch-como-mando-distancia-smart-tv-1406074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-puedes-utilizar-apple-watch-como-mando-distancia-smart-tv-4215254.jpg?tf=1200x' alt='Ya puedes utilizar tu Apple Watch como mando a distancia de tu Smart TV' />
     </a>
 </div>
 
