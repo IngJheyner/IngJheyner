@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ya-conoce-cuanta-bateria-tienen-iphone-16-hay-buenas-noticias-1405920'>Ya se conoce cuánta batería tienen los iPhone 16 y hay buenas noticias</a></h4>
+    <a href='https://computerhoy.com/apple/ya-conoce-cuanta-bateria-tienen-iphone-16-hay-buenas-noticias-1405920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bateria-iphone-3622180.jpg?tf=1200x' alt='Ya se conoce cuánta batería tienen los iPhone 16 y hay buenas noticias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/windhawk-como-funciona-app-mods-windows-1405119'>Windhawk: qué es y cómo funciona la app de los mods de Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/windhawk-como-funciona-app-mods-windows-1405119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/programa-windhawk-mods-windows-4186896.jpg?tf=1200x' alt='Windhawk: qué es y cómo funciona la app de los mods de Windows' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-kodi-chromecast-1403879'>Cómo instalar Kodi en Chromecast</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-kodi-chromecast-1403879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chromecast-kodi-4205285.jpg?tf=1200x' alt='Cómo instalar Kodi en Chromecast' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/domina-google-maps-modo-experto-50-trucos-avanzados-funciones-desconocidas-1131969'>Domina Google Maps en modo experto: 50 trucos avanzados y funciones desconocidas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/domina-google-maps-modo-experto-50-trucos-avanzados-funciones-desconocidas-1131969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-maps-2827131.jpg?tf=1200x' alt='Domina Google Maps en modo experto: 50 trucos avanzados y funciones desconocidas' />
     </a>
 </div>
 
