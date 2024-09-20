@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/jpeg-xl-secreto-mejor-guardado-iphone-16-1406000'>Qué es JPEG XL, el secreto mejor guardado del iPhone 16</a></h4>
+    <a href='https://computerhoy.com/apple/jpeg-xl-secreto-mejor-guardado-iphone-16-1406000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/jpeg-xl-secreto-mejor-guardado-iphone-16-4213129.jpg?tf=1200x' alt='Qué es JPEG XL, el secreto mejor guardado del iPhone 16' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/spacex-acusado-superar-limites-contaminacion-permitidos-satelites-starlink-1405990'>SpaceX es acusado de superar los límites de contaminación permitidos con los satélites Starlink</a></h4>
+    <a href='https://computerhoy.com/espacio/spacex-acusado-superar-limites-contaminacion-permitidos-satelites-starlink-1405990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/spacex-acusado-superar-limites-contaminacion-permitidos-satelites-starlink-4212788.jpg?tf=1200x' alt='SpaceX es acusado de superar los límites de contaminación permitidos con los satélites Starlink' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/buscas-bici-electrica-no-busques-tiene-ayudas-publicas-bateria-extraible-1405958'>Si buscas bici eléctrica, no busques más: esta tiene ayudas públicas y batería extraíble</a></h4>
     <a href='https://computerhoy.com/motor/buscas-bici-electrica-no-busques-tiene-ayudas-publicas-bateria-extraible-1405958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/moma-bikes-road-4192557.jpg?tf=1200x' alt='Si buscas bici eléctrica, no busques más: esta tiene ayudas públicas y batería extraíble' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/boe-confirma-no-habra-cambios-horario-invierno-2024-1405953'>El BOE lo confirma: no habrá cambios en el horario de invierno de 2024</a></h4>
     <a href='https://computerhoy.com/life/boe-confirma-no-habra-cambios-horario-invierno-2024-1405953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cambios-horario-invierno-2024-4212139.jpg?tf=1200x' alt='El BOE lo confirma: no habrá cambios en el horario de invierno de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/usos-frikis-puedes-dar-movil-antiguo-lugar-dejarlo-cajon-1156931'>5 usos frikis que puedes dar a tu móvil viejo en lugar de dejarlo en el cajón</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/usos-frikis-puedes-dar-movil-antiguo-lugar-dejarlo-cajon-1156931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/movil-2874355.jpg?tf=1200x' alt='5 usos frikis que puedes dar a tu móvil viejo en lugar de dejarlo en el cajón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/2x1-precio-ganga-lavadora-tambien-secadora-cuesta-menos-piensas-1405796'>Un 2x1 a precio de ganga: esta lavadora es también secadora, y cuesta menos de lo que piensas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/2x1-precio-ganga-lavadora-tambien-secadora-cuesta-menos-piensas-1405796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lavadora-secadora-candy-smart-4204958.jpg?tf=1200x' alt='Un 2x1 a precio de ganga: esta lavadora es también secadora, y cuesta menos de lo que piensas' />
     </a>
 </div>
 
