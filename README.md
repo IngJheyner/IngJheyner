@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/google-maps-no-me-ubica-correctamente-solucion-como-activar-maxima-precision-posicionamiento-1406050'>Google Maps no me ubica correctamente: solución y cómo activar la máxima precisión de posicionamiento</a></h4>
+    <a href='https://computerhoy.com/tutoriales/google-maps-no-me-ubica-correctamente-solucion-como-activar-maxima-precision-posicionamiento-1406050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-maps-no-me-ubica-correctamente-solucion-como-activar-maxima-precision-posicionamiento-4214770.jpg?tf=1200x' alt='Google Maps no me ubica correctamente: solución y cómo activar la máxima precisión de posicionamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/buscas-portatil-barato-no-busques-windows-apenas-300-euros-pccomponentes-1405905'>Si buscas portátil barato, no busques más: con Windows y por apenas 300 euros en PcComponentes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/buscas-portatil-barato-no-busques-windows-apenas-300-euros-pccomponentes-1405905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/alurin-go-start-n24-4211339.jpg?tf=1200x' alt='Si buscas portátil barato, no busques más: con Windows y por apenas 300 euros en PcComponentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/super-mando-distancia-magico-smart-tv-activar-funcion-hdmi-1395154'>Convertir tu mando a distancia en un “supermando” solo requiere un paso: activar esta función del HDMI</a></h4>
+    <a href='https://computerhoy.com/tv/super-mando-distancia-magico-smart-tv-activar-funcion-hdmi-1395154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/mando-tv-cable-hdmi-3704623.jpg?tf=1200x' alt='Convertir tu mando a distancia en un “supermando” solo requiere un paso: activar esta función del HDMI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/opcion-mejora-calidad-sonido-movil-android-incluso-auriculares-pero-oculta-no-facil-localizar-1405316'>Esta opción mejora la calidad de sonido de un móvil Android (incluso con auriculares), pero está oculta y no es fácil de localizar</a></h4>
     <a href='https://computerhoy.com/android/opcion-mejora-calidad-sonido-movil-android-incluso-auriculares-pero-oculta-no-facil-localizar-1405316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/opcion-mejora-calidad-sonido-movil-android-incluso-auriculares-pero-oculta-no-facil-localizar-4188506.jpg?tf=1200x' alt='Esta opción mejora la calidad de sonido de un móvil Android (incluso con auriculares), pero está oculta y no es fácil de localizar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/diferencia-velocimetro-coche-gps-google-maps-waze-1372533'>Este es el motivo por el que Google Maps y Waze muestran una velocidad menor que la del velocímetro del coche</a></h4>
     <a href='https://computerhoy.com/motor/diferencia-velocimetro-coche-gps-google-maps-waze-1372533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/velocidad-google-maps-waze-diferente-coche-cual-debes-hacerle-caso-3287788.jpg?tf=1200x' alt='Este es el motivo por el que Google Maps y Waze muestran una velocidad menor que la del velocímetro del coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-compartir-dni-compra-nunca-debes-hacer-policia-1406016'>Cuidado con compartir tu DNI para una compra: esto es lo que nunca debes hacer, según la Policía</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-compartir-dni-compra-nunca-debes-hacer-policia-1406016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cuidado-compartir-dni-compra-nunca-debes-hacer-policia-4213283.jpg?tf=1200x' alt='Cuidado con compartir tu DNI para una compra: esto es lo que nunca debes hacer, según la Policía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/motivos-nunca-debes-colocar-router-wifi-cerca-televisor-smart-tv-1298720'>Poner el router WiFi junto a tu Smart TV no es buena idea: estos son los motivos</a></h4>
-    <a href='https://computerhoy.com/redes/motivos-nunca-debes-colocar-router-wifi-cerca-televisor-smart-tv-1298720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/router-tv-3124384.jpg?tf=1200x' alt='Poner el router WiFi junto a tu Smart TV no es buena idea: estos son los motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/denuncian-nueva-estafa-tiktok-no-estas-acuerdo-puedes-acudir-ocu-1405813'>Denuncian una nueva estafa por TikTok: “Si no estás de acuerdo, puedes acudir a la OCU”</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/denuncian-nueva-estafa-tiktok-no-estas-acuerdo-puedes-acudir-ocu-1405813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/denuncian-nueva-estafa-tiktok-no-estas-acuerdo-puedes-acudir-ocu-4205763.jpg?tf=1200x' alt='Denuncian una nueva estafa por TikTok: “Si no estás de acuerdo, puedes acudir a la OCU”' />
     </a>
 </div>
 
