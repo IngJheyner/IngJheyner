@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/cuando-quiero-evitar-atascos-no-uso-google-maps-waze-pero-app-gratis-mucho-mejor-1405714'>Cuando quiero evitar atascos, no uso Google Maps o Waze, pero esta app gratis es mucho mejor</a></h4>
+    <a href='https://computerhoy.com/apps/cuando-quiero-evitar-atascos-no-uso-google-maps-waze-pero-app-gratis-mucho-mejor-1405714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-maps-waze-4212949.jpg?tf=1200x' alt='Cuando quiero evitar atascos, no uso Google Maps o Waze, pero esta app gratis es mucho mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/regulacion-inteligencia-artificial-europa-freno-innovacion-proteccion-necesaria-1405674'>La regulación de la inteligencia artificial en Europa: ¿Freno a la innovación o protección necesaria? </a></h4>
+    <a href='https://computerhoy.com/tecnologia/regulacion-inteligencia-artificial-europa-freno-innovacion-proteccion-necesaria-1405674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/regulacion-inteligencia-artificial-europa-4208166.jpg?tf=1200x' alt='La regulación de la inteligencia artificial en Europa: ¿Freno a la innovación o protección necesaria? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/espionaje-estilo-harry-potter-voldemort-malware-hace-pasar-agencias-tributarias-europa-asia-eeuu-1404310'>Espionaje al estilo Harry Potter: así es Voldemort, el malware que se hace pasar por agencias tributarias de Europa, Asia y EEUU</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/espionaje-estilo-harry-potter-voldemort-malware-hace-pasar-agencias-tributarias-europa-asia-eeuu-1404310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/voldemort-malware-4212309.jpg?tf=1200x' alt='Espionaje al estilo Harry Potter: así es Voldemort, el malware que se hace pasar por agencias tributarias de Europa, Asia y EEUU' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-usar-portatil-apple-movil-android-no-morir-intento-1405427'>Como usar un portátil Apple y un móvil Android y no morir en el intento</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-usar-portatil-apple-movil-android-no-morir-intento-1405427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/portatil-apple-movil-samsung-galaxy-s24-ultra-4191300.jpg?tf=1200x' alt='Como usar un portátil Apple y un móvil Android y no morir en el intento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ni-poco-ni-oneplus-nord-gama-media-potente-me-ha-gustado-mucho-tiempo-1403452'>Ni Poco ni OnePlus Nord, este es el gama media potente que más me ha gustado en mucho tiempo</a></h4>
-    <a href='https://computerhoy.com/moviles/ni-poco-ni-oneplus-nord-gama-media-potente-me-ha-gustado-mucho-tiempo-1403452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nothing-phone-2a-plus-4100225.jpg?tf=1200x' alt='Ni Poco ni OnePlus Nord, este es el gama media potente que más me ha gustado en mucho tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/espanol-ofrece-online-arruinar-bodas-cobra-500-euros-tiene-agenda-llena-cada-guantazo-son-50-euros-1405915'>Un español se ofrece online para arruinar bodas, cobra 500 euros y tiene la agenda llena: "Cada guantazo son 50 euros más”</a></h4>
-    <a href='https://computerhoy.com/life/espanol-ofrece-online-arruinar-bodas-cobra-500-euros-tiene-agenda-llena-cada-guantazo-son-50-euros-1405915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/saboteador-bodas-4213471.jpg?tf=1200x' alt='Un español se ofrece online para arruinar bodas, cobra 500 euros y tiene la agenda llena: "Cada guantazo son 50 euros más”' />
     </a>
 </div>
 
