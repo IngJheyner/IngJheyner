@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-tv-empieza-mostrar-nuevo-diseno-abandonando-barra-busqueda-1406115'>Google TV empieza a mostrar un nuevo diseño abandonando la barra de búsqueda</a></h4>
+    <a href='https://computerhoy.com/apps/google-tv-empieza-mostrar-nuevo-diseno-abandonando-barra-busqueda-1406115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-android-4220719.jpg?tf=1200x' alt='Google TV empieza a mostrar un nuevo diseño abandonando la barra de búsqueda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/usas-waze-carplay-quizas-no-sea-buena-idea-instalarte-ios-18-1406113'>Si usas Waze en CarPlay quizás no sea una buena idea instalarte iOS 18</a></h4>
     <a href='https://computerhoy.com/apps/usas-waze-carplay-quizas-no-sea-buena-idea-instalarte-ios-18-1406113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/waze-carplay-4220717.jpg?tf=1200x' alt='Si usas Waze en CarPlay quizás no sea una buena idea instalarte iOS 18' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/asalta-steam-pc-gaming-barato-ryzen-5-16gb-ram-rx-6600-1405909'>Asalta Steam con este PC gaming barato: Ryzen 5, 16GB de RAM y RX 6600</a></h4>
     <a href='https://computerhoy.com/tecnologia/asalta-steam-pc-gaming-barato-ryzen-5-16gb-ram-rx-6600-1405909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-amd-ryzen-3274364.jpg?tf=1200x' alt='Asalta Steam con este PC gaming barato: Ryzen 5, 16GB de RAM y RX 6600' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lenovo-gigante-internacional-pc-fundaron-11-ingenieros-chinos-1402674'>Lenovo, el gigante internacional del PC que fundaron 11 ingenieros chinos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lenovo-gigante-internacional-pc-fundaron-11-ingenieros-chinos-1402674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lenovo-4065196.jpg?tf=1200x' alt='Lenovo, el gigante internacional del PC que fundaron 11 ingenieros chinos' />
     </a>
 </div>
 
