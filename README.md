@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/copilot-pages-microsoft-cambia-siempre-proyectos-colaborativos-1406128'>Con Copilot Pages Microsoft cambia para siempre los proyectos colaborativos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/copilot-pages-microsoft-cambia-siempre-proyectos-colaborativos-1406128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/copilot-pages-4221907.jpg?tf=1200x' alt='Con Copilot Pages Microsoft cambia para siempre los proyectos colaborativos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chrome-pronto-te-permitira-firmar-archivos-pdf-herramienta-dibujar-1406127'>Chrome pronto te permitirá firmar archivos PDF con la herramienta dibujar</a></h4>
     <a href='https://computerhoy.com/tecnologia/chrome-pronto-te-permitira-firmar-archivos-pdf-herramienta-dibujar-1406127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chrome-4221904.jpg?tf=1200x' alt='Chrome pronto te permitirá firmar archivos PDF con la herramienta dibujar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-tv-empieza-mostrar-nuevo-diseno-abandonando-barra-busqueda-1406115'>Google TV empieza a mostrar un nuevo diseño abandonando la barra de búsqueda</a></h4>
     <a href='https://computerhoy.com/apps/google-tv-empieza-mostrar-nuevo-diseno-abandonando-barra-busqueda-1406115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-android-4220719.jpg?tf=1200x' alt='Google TV empieza a mostrar un nuevo diseño abandonando la barra de búsqueda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/usas-waze-carplay-quizas-no-sea-buena-idea-instalarte-ios-18-1406113'>Si usas Waze en CarPlay quizás no sea una buena idea instalarte iOS 18</a></h4>
-    <a href='https://computerhoy.com/apps/usas-waze-carplay-quizas-no-sea-buena-idea-instalarte-ios-18-1406113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/waze-carplay-4220717.jpg?tf=1200x' alt='Si usas Waze en CarPlay quizás no sea una buena idea instalarte iOS 18' />
     </a>
 </div>
 
