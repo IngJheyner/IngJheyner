@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-te-permitira-cambiar-hace-nueva-tecla-copilot-windows-11-1406106'>Microsoft te permitirá cambiar lo que hace la nueva tecla de Copilot en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-te-permitira-cambiar-hace-nueva-tecla-copilot-windows-11-1406106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/teclado-tecla-copilot-4219974.jpg?tf=1200x' alt='Microsoft te permitirá cambiar lo que hace la nueva tecla de Copilot en Windows 11' />
+    <h4><a href='https://computerhoy.com/tecnologia/asalta-steam-pc-gaming-barato-ryzen-5-16gb-ram-rx-6600-1405909'>Asalta Steam con este PC gaming barato: Ryzen 5, 16GB de RAM y RX 6600</a></h4>
+    <a href='https://computerhoy.com/tecnologia/asalta-steam-pc-gaming-barato-ryzen-5-16gb-ram-rx-6600-1405909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-amd-ryzen-3274364.jpg?tf=1200x' alt='Asalta Steam con este PC gaming barato: Ryzen 5, 16GB de RAM y RX 6600' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/puedes-ver-netflix-muchos-mejor-pelicula-historia-cine-no-has-visto-estas-cometiendo-pecado-1405947'>La puedes ver en Netflix y para muchos es la mejor película de la historia del cine: si no las has visto, estás cometiendo un pecado</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/puedes-ver-netflix-muchos-mejor-pelicula-historia-cine-no-has-visto-estas-cometiendo-pecado-1405947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/francis-ford-coppola-marlon-brando-rodaje-padrino-3096020.jpg?tf=1200x' alt='La puedes ver en Netflix y para muchos es la mejor película de la historia del cine: si no las has visto, estás cometiendo un pecado' />
+    <h4><a href='https://computerhoy.com/tecnologia/lenovo-gigante-internacional-pc-fundaron-11-ingenieros-chinos-1402674'>Lenovo, el gigante internacional del PC que fundaron 11 ingenieros chinos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lenovo-gigante-internacional-pc-fundaron-11-ingenieros-chinos-1402674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lenovo-4065196.jpg?tf=1200x' alt='Lenovo, el gigante internacional del PC que fundaron 11 ingenieros chinos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/qualcomm-quiere-comprar-intel-podria-cambiar-todo-sector-tecnologico-1406102'>Qualcomm quiere comprar Intel y esto podría cambiar todo en el sector tecnológico</a></h4>
-    <a href='https://computerhoy.com/tecnologia/qualcomm-quiere-comprar-intel-podria-cambiar-todo-sector-tecnologico-1406102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/qualcomm-vs-intel-4219820.jpg?tf=1200x' alt='Qualcomm quiere comprar Intel y esto podría cambiar todo en el sector tecnológico' />
+    <h4><a href='https://computerhoy.com/apple/ya-puedes-descargar-manuales-oficiales-reparacion-serie-iphone-16-1406109'>Ya puedes descargar los manuales oficiales de reparación para la serie iPhone 16</a></h4>
+    <a href='https://computerhoy.com/apple/ya-puedes-descargar-manuales-oficiales-reparacion-serie-iphone-16-1406109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/manuales-reparacion-iphone-16-4220124.jpg?tf=1200x' alt='Ya puedes descargar los manuales oficiales de reparación para la serie iPhone 16' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/navaja-suiza-pdf-web-tiene-30-herramientas-gratis-trabajar-archivos-pdf-1405515'>La navaja suiza de los PDF: esta web tiene hasta 30 herramientas gratis para trabajar con tus archivos PDF</a></h4>
-    <a href='https://computerhoy.com/internet/navaja-suiza-pdf-web-tiene-30-herramientas-gratis-trabajar-archivos-pdf-1405515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/navaja-suiza-pdf-4213188.jpg?tf=1200x' alt='La navaja suiza de los PDF: esta web tiene hasta 30 herramientas gratis para trabajar con tus archivos PDF' />
+    <h4><a href='https://computerhoy.com/gaming/errores-comunes-configurar-pc-videojuegos-1405519'>9 errores comunes al configurar un PC para jugar a videojuegos</a></h4>
+    <a href='https://computerhoy.com/gaming/errores-comunes-configurar-pc-videojuegos-1405519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/problemas-ordenador-gaming-4201517.jpg?tf=1200x' alt='9 errores comunes al configurar un PC para jugar a videojuegos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta</a></h4>
-    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/garmin-fenix-8-4189550.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/192-168-1-1-como-acceder-router-modificar-configuracion-228735'>192.168.1.1: Cómo acceder al router para modificar su configuración inicial</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/192-168-1-1-como-acceder-router-modificar-configuracion-228735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-movil-ordenador-2622317.jpg?tf=1200x' alt='192.168.1.1: Cómo acceder al router para modificar su configuración inicial' />
     </a>
 </div>
 
