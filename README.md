@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/espionaje-estilo-harry-potter-voldemort-malware-hace-pasar-agencias-tributarias-europa-asia-eeuu-1404310'>Espionaje al estilo Harry Potter: así es Voldemort, el malware que se hace pasar por agencias tributarias de Europa, Asia y EEUU</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/espionaje-estilo-harry-potter-voldemort-malware-hace-pasar-agencias-tributarias-europa-asia-eeuu-1404310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/voldemort-malware-4212309.jpg?tf=1200x' alt='Espionaje al estilo Harry Potter: así es Voldemort, el malware que se hace pasar por agencias tributarias de Europa, Asia y EEUU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/oneplus-da-mas-menos-movil-16gb-ram-apuesta-aliexpress-1330058'>OnePlus da más por menos, con un secreto: este móvil de 16GB de RAM es una apuesta de AliExpress, y se envía desde España</a></h4>
+    <a href='https://computerhoy.com/android/oneplus-da-mas-menos-movil-16gb-ram-apuesta-aliexpress-1330058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-ace-3-pro-4005258.jpg?tf=1200x' alt='OnePlus da más por menos, con un secreto: este móvil de 16GB de RAM es una apuesta de AliExpress, y se envía desde España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-usar-portatil-apple-movil-android-no-morir-intento-1405427'>Como usar un portátil Apple y un móvil Android y no morir en el intento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-usar-portatil-apple-movil-android-no-morir-intento-1405427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/portatil-apple-movil-samsung-galaxy-s24-ultra-4191300.jpg?tf=1200x' alt='Como usar un portátil Apple y un móvil Android y no morir en el intento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/ni-poco-ni-oneplus-nord-gama-media-potente-me-ha-gustado-mucho-tiempo-1403452'>Ni Poco ni OnePlus Nord, este es el gama media potente que más me ha gustado en mucho tiempo</a></h4>
+    <a href='https://computerhoy.com/moviles/ni-poco-ni-oneplus-nord-gama-media-potente-me-ha-gustado-mucho-tiempo-1403452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nothing-phone-2a-plus-4100225.jpg?tf=1200x' alt='Ni Poco ni OnePlus Nord, este es el gama media potente que más me ha gustado en mucho tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/espanol-ofrece-online-arruinar-bodas-cobra-500-euros-tiene-agenda-llena-cada-guantazo-son-50-euros-1405915'>Un español se ofrece online para arruinar bodas, cobra 500 euros y tiene la agenda llena: "Cada guantazo son 50 euros más”</a></h4>
     <a href='https://computerhoy.com/life/espanol-ofrece-online-arruinar-bodas-cobra-500-euros-tiene-agenda-llena-cada-guantazo-son-50-euros-1405915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/saboteador-bodas-4213471.jpg?tf=1200x' alt='Un español se ofrece online para arruinar bodas, cobra 500 euros y tiene la agenda llena: "Cada guantazo son 50 euros más”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/metodos-eliminar-proteccion-escritura-tarjetas-sd-windows-1121967'>Los métodos para eliminar la protección de escritura de tarjetas SD en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/metodos-eliminar-proteccion-escritura-tarjetas-sd-windows-1121967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/tarjetas-sd-2808431.jpg?tf=1200x' alt='Los métodos para eliminar la protección de escritura de tarjetas SD en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sarcofago-plomo-catedral-notre-dame-joachim-du-bellay-1406089'>Descubren quién estaba dentro del misterioso sarcófago de plomo de la catedral de Notre-Dame</a></h4>
-    <a href='https://computerhoy.com/life/sarcofago-plomo-catedral-notre-dame-joachim-du-bellay-1406089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/descubren-quien-estaba-dentro-misterioso-sarcofago-plomo-catedral-notre-dame-incendiada-4217032.jpg?tf=1200x' alt='Descubren quién estaba dentro del misterioso sarcófago de plomo de la catedral de Notre-Dame' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-es-fenix-8-pero-tiene-pantalla-amoled-bateria-garmin-me-compraria-1402378'>No es el Fenix 8 pero tiene pantalla AMOLED, GPS y una batería brutal: este es el Garmin que me compraría ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-es-fenix-8-pero-tiene-pantalla-amoled-bateria-garmin-me-compraria-1402378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-venu-3-3278319.jpg?tf=1200x' alt='No es el Fenix 8 pero tiene pantalla AMOLED, GPS y una batería brutal: este es el Garmin que me compraría ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/magis-tv-punto-mira-guerra-total-nivel-mundial-pirateria-iptv-1406084'>Magis TV en el punto de mira: guerra total a nivel mundial contra la piratería y las IPTV</a></h4>
-    <a href='https://computerhoy.com/internet/magis-tv-punto-mira-guerra-total-nivel-mundial-pirateria-iptv-1406084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/magis-tv-punto-mira-guerra-total-nivel-mundial-pirateria-iptv-4216886.jpg?tf=1200x' alt='Magis TV en el punto de mira: guerra total a nivel mundial contra la piratería y las IPTV' />
     </a>
 </div>
 
