@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/usas-waze-carplay-quizas-no-sea-buena-idea-instalarte-ios-18-1406113'>Si usas Waze en CarPlay quizás no sea una buena idea instalarte iOS 18</a></h4>
+    <a href='https://computerhoy.com/apps/usas-waze-carplay-quizas-no-sea-buena-idea-instalarte-ios-18-1406113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/waze-carplay-4220717.jpg?tf=1200x' alt='Si usas Waze en CarPlay quizás no sea una buena idea instalarte iOS 18' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/meta-quest-cuantos-modelos-hay-como-descargar-juegos-aplicaciones-1403009'>Meta Quest: qué es, cuántos modelos hay y cómo descargar juegos y aplicaciones</a></h4>
     <a href='https://computerhoy.com/tecnologia/meta-quest-cuantos-modelos-hay-como-descargar-juegos-aplicaciones-1403009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/meta-quest-pro-4086038.jpg?tf=1200x' alt='Meta Quest: qué es, cuántos modelos hay y cómo descargar juegos y aplicaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/lenovo-gigante-internacional-pc-fundaron-11-ingenieros-chinos-1402674'>Lenovo, el gigante internacional del PC que fundaron 11 ingenieros chinos</a></h4>
     <a href='https://computerhoy.com/tecnologia/lenovo-gigante-internacional-pc-fundaron-11-ingenieros-chinos-1402674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/lenovo-4065196.jpg?tf=1200x' alt='Lenovo, el gigante internacional del PC que fundaron 11 ingenieros chinos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ya-puedes-descargar-manuales-oficiales-reparacion-serie-iphone-16-1406109'>Ya puedes descargar los manuales oficiales de reparación para la serie iPhone 16</a></h4>
-    <a href='https://computerhoy.com/apple/ya-puedes-descargar-manuales-oficiales-reparacion-serie-iphone-16-1406109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/manuales-reparacion-iphone-16-4220124.jpg?tf=1200x' alt='Ya puedes descargar los manuales oficiales de reparación para la serie iPhone 16' />
     </a>
 </div>
 
