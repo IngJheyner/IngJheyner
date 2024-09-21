@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/qualcomm-quiere-comprar-intel-podria-cambiar-todo-sector-tecnologico-1406102'>Qualcomm quiere comprar Intel y esto podría cambiar todo en el sector tecnológico</a></h4>
+    <a href='https://computerhoy.com/tecnologia/qualcomm-quiere-comprar-intel-podria-cambiar-todo-sector-tecnologico-1406102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/qualcomm-vs-intel-4219820.jpg?tf=1200x' alt='Qualcomm quiere comprar Intel y esto podría cambiar todo en el sector tecnológico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/navaja-suiza-pdf-web-tiene-30-herramientas-gratis-trabajar-archivos-pdf-1405515'>La navaja suiza de los PDF: esta web tiene hasta 30 herramientas gratis para trabajar con tus archivos PDF</a></h4>
     <a href='https://computerhoy.com/internet/navaja-suiza-pdf-web-tiene-30-herramientas-gratis-trabajar-archivos-pdf-1405515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/navaja-suiza-pdf-4213188.jpg?tf=1200x' alt='La navaja suiza de los PDF: esta web tiene hasta 30 herramientas gratis para trabajar con tus archivos PDF' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta</a></h4>
+    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/garmin-fenix-8-4189550.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/estudio-harvard-anticipo-hace-decadas-cuando-seria-fin-mundo-solo-faltan-dos-anos-1404923'>Un estudio de Harvard anticipó hace décadas cuándo sería el fin del mundo: solo faltan dos años</a></h4>
     <a href='https://computerhoy.com/ciencia/estudio-harvard-anticipo-hace-decadas-cuando-seria-fin-mundo-solo-faltan-dos-anos-1404923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estudio-harvard-anticipo-hace-decadas-cuando-seria-fin-mundo-solo-faltan-dos-anos-4163029.jpg?tf=1200x' alt='Un estudio de Harvard anticipó hace décadas cuándo sería el fin del mundo: solo faltan dos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/cuando-quiero-evitar-atascos-no-uso-google-maps-waze-pero-app-gratis-mucho-mejor-1405714'>Cuando quiero evitar atascos, no uso Google Maps o Waze, pero esta app gratis es mucho mejor</a></h4>
-    <a href='https://computerhoy.com/apps/cuando-quiero-evitar-atascos-no-uso-google-maps-waze-pero-app-gratis-mucho-mejor-1405714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-maps-waze-4212949.jpg?tf=1200x' alt='Cuando quiero evitar atascos, no uso Google Maps o Waze, pero esta app gratis es mucho mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/regulacion-inteligencia-artificial-europa-freno-innovacion-proteccion-necesaria-1405674'>La regulación de la inteligencia artificial en Europa: ¿Freno a la innovación o protección necesaria? </a></h4>
-    <a href='https://computerhoy.com/tecnologia/regulacion-inteligencia-artificial-europa-freno-innovacion-proteccion-necesaria-1405674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/regulacion-inteligencia-artificial-europa-4208166.jpg?tf=1200x' alt='La regulación de la inteligencia artificial en Europa: ¿Freno a la innovación o protección necesaria? ' />
     </a>
 </div>
 
