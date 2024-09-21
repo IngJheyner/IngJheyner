@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/magis-tv-punto-mira-guerra-total-nivel-mundial-pirateria-iptv-1406084'>Magis TV en el punto de mira: guerra total a nivel mundial contra la piratería y las IPTV</a></h4>
+    <a href='https://computerhoy.com/internet/magis-tv-punto-mira-guerra-total-nivel-mundial-pirateria-iptv-1406084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/magis-tv-punto-mira-guerra-total-nivel-mundial-pirateria-iptv-4216886.jpg?tf=1200x' alt='Magis TV en el punto de mira: guerra total a nivel mundial contra la piratería y las IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/creias-era-chrome-pero-app-bateria-gasta-movil-android-posiblemente-no-utilizas-1406073'>Creías que era Chrome, pero la app que más batería gasta de tu móvil Android es una que posiblemente no utilizas</a></h4>
     <a href='https://computerhoy.com/android/creias-era-chrome-pero-app-bateria-gasta-movil-android-posiblemente-no-utilizas-1406073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/creias-era-chrome-pero-app-bateria-gasta-movil-android-posiblemente-no-utilizas-4216006.jpg?tf=1200x' alt='Creías que era Chrome, pero la app que más batería gasta de tu móvil Android es una que posiblemente no utilizas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-windows-app-accede-pc-cualquier-dispositivo-1406080'>Microsoft estrena Windows App, accede a tu PC desde cualquier dispositivo</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-windows-app-accede-pc-cualquier-dispositivo-1406080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/verticalimage1726856644588-4215256.jpg?tf=1200x' alt='Microsoft estrena Windows App, accede a tu PC desde cualquier dispositivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estuvo-nominada-7-premios-oscar-grandes-joyas-steven-spielberg-acaba-llegar-amazon-prime-video-1406002'>Estuvo nominada a 7 premios Óscar, es una de las grandes joyas de Steven Spielberg y acaba de llegar a Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estuvo-nominada-7-premios-oscar-grandes-joyas-steven-spielberg-acaba-llegar-amazon-prime-video-1406002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/steven-spielberg-4213460.jpg?tf=1200x' alt='Estuvo nominada a 7 premios Óscar, es una de las grandes joyas de Steven Spielberg y acaba de llegar a Amazon Prime Video' />
     </a>
 </div>
 
