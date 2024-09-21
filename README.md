@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/todo-openai-nacimiento-chatgpt-creacion-ia-iguale-ser-humano-1404952'>Todo sobre OpenAI, del nacimiento de ChatGPT a la creación de una IA que iguale al ser humano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-openai-nacimiento-chatgpt-creacion-ia-iguale-ser-humano-1404952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/openai-uso-millones-videos-youtube-entrenar-ia-google-muy-enfadada-3296753.jpg?tf=1200x' alt='Todo sobre OpenAI, del nacimiento de ChatGPT a la creación de una IA que iguale al ser humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/youtube-android-hace-inmersivo-sutil-cambio-barra-estado-1406129'>YouTube para Android se hace más inmersivo por este sutil cambio en la barra de estado</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-android-hace-inmersivo-sutil-cambio-barra-estado-1406129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-4221909.jpg?tf=1200x' alt='YouTube para Android se hace más inmersivo por este sutil cambio en la barra de estado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/copilot-pages-microsoft-cambia-siempre-proyectos-colaborativos-1406128'>Con Copilot Pages Microsoft cambia para siempre los proyectos colaborativos</a></h4>
     <a href='https://computerhoy.com/tecnologia/copilot-pages-microsoft-cambia-siempre-proyectos-colaborativos-1406128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/copilot-pages-4221907.jpg?tf=1200x' alt='Con Copilot Pages Microsoft cambia para siempre los proyectos colaborativos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-convierte-temporizador-cuenta-regresiva-reloj-windows-11-widgets-podras-aprovecharlos-maximo-1406126'>Microsoft convierte el temporizador y la cuenta regresiva del reloj de Windows 11 en widgets y así podrás aprovecharlos al máximo</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-convierte-temporizador-cuenta-regresiva-reloj-windows-11-widgets-podras-aprovecharlos-maximo-1406126' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/reloj-windows-11-4221755.jpg?tf=1200x' alt='Microsoft convierte el temporizador y la cuenta regresiva del reloj de Windows 11 en widgets y así podrás aprovecharlos al máximo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hay-nuevo-iphone-pero-barato-iphone-14-pro-back-market-vende-mitad-lanzamiento-1405940'>Hay nuevo iPhone, pero este es más barato: es el iPhone 14 Pro y Back Market lo vende por la mitad que en lanzamiento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hay-nuevo-iphone-pero-barato-iphone-14-pro-back-market-vende-mitad-lanzamiento-1405940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-14-pro-4211812.jpg?tf=1200x' alt='Hay nuevo iPhone, pero este es más barato: es el iPhone 14 Pro y Back Market lo vende por la mitad que en lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-tv-empieza-mostrar-nuevo-diseno-abandonando-barra-busqueda-1406115'>Google TV empieza a mostrar un nuevo diseño abandonando la barra de búsqueda</a></h4>
-    <a href='https://computerhoy.com/apps/google-tv-empieza-mostrar-nuevo-diseno-abandonando-barra-busqueda-1406115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-android-4220719.jpg?tf=1200x' alt='Google TV empieza a mostrar un nuevo diseño abandonando la barra de búsqueda' />
     </a>
 </div>
 
