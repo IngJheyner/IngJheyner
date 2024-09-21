@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-convierte-temporizador-cuenta-regresiva-reloj-windows-11-widgets-podras-aprovecharlos-maximo-1406126'>Microsoft convierte el temporizador y la cuenta regresiva del reloj de Windows 11 en widgets y así podrás aprovecharlos al máximo</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-convierte-temporizador-cuenta-regresiva-reloj-windows-11-widgets-podras-aprovecharlos-maximo-1406126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/reloj-windows-11-4221755.jpg?tf=1200x' alt='Microsoft convierte el temporizador y la cuenta regresiva del reloj de Windows 11 en widgets y así podrás aprovecharlos al máximo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hay-nuevo-iphone-pero-barato-iphone-14-pro-back-market-vende-mitad-lanzamiento-1405940'>Hay nuevo iPhone, pero este es más barato: es el iPhone 14 Pro y Back Market lo vende por la mitad que en lanzamiento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hay-nuevo-iphone-pero-barato-iphone-14-pro-back-market-vende-mitad-lanzamiento-1405940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-14-pro-4211812.jpg?tf=1200x' alt='Hay nuevo iPhone, pero este es más barato: es el iPhone 14 Pro y Back Market lo vende por la mitad que en lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-tv-empieza-mostrar-nuevo-diseno-abandonando-barra-busqueda-1406115'>Google TV empieza a mostrar un nuevo diseño abandonando la barra de búsqueda</a></h4>
     <a href='https://computerhoy.com/apps/google-tv-empieza-mostrar-nuevo-diseno-abandonando-barra-busqueda-1406115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-android-4220719.jpg?tf=1200x' alt='Google TV empieza a mostrar un nuevo diseño abandonando la barra de búsqueda' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/meta-quest-cuantos-modelos-hay-como-descargar-juegos-aplicaciones-1403009'>Meta Quest: qué es, cuántos modelos hay y cómo descargar juegos y aplicaciones</a></h4>
     <a href='https://computerhoy.com/tecnologia/meta-quest-cuantos-modelos-hay-como-descargar-juegos-aplicaciones-1403009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/meta-quest-pro-4086038.jpg?tf=1200x' alt='Meta Quest: qué es, cuántos modelos hay y cómo descargar juegos y aplicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-estaria-trabajando-tallas-grandes-anchas-galaxy-ring-1406111'>Samsung estaría trabajando en tallas más grandes y anchas para su Galaxy Ring</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-estaria-trabajando-tallas-grandes-anchas-galaxy-ring-1406111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-ring-3651234.jpg?tf=1200x' alt='Samsung estaría trabajando en tallas más grandes y anchas para su Galaxy Ring' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/asalta-steam-pc-gaming-barato-ryzen-5-16gb-ram-rx-6600-1405909'>Asalta Steam con este PC gaming barato: Ryzen 5, 16GB de RAM y RX 6600</a></h4>
-    <a href='https://computerhoy.com/tecnologia/asalta-steam-pc-gaming-barato-ryzen-5-16gb-ram-rx-6600-1405909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-amd-ryzen-3274364.jpg?tf=1200x' alt='Asalta Steam con este PC gaming barato: Ryzen 5, 16GB de RAM y RX 6600' />
     </a>
 </div>
 
