@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-te-permitira-cambiar-hace-nueva-tecla-copilot-windows-11-1406106'>Microsoft te permitirá cambiar lo que hace la nueva tecla de Copilot en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-te-permitira-cambiar-hace-nueva-tecla-copilot-windows-11-1406106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/teclado-tecla-copilot-4219974.jpg?tf=1200x' alt='Microsoft te permitirá cambiar lo que hace la nueva tecla de Copilot en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/puedes-ver-netflix-muchos-mejor-pelicula-historia-cine-no-has-visto-estas-cometiendo-pecado-1405947'>La puedes ver en Netflix y para muchos es la mejor película de la historia del cine: si no las has visto, estás cometiendo un pecado</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/puedes-ver-netflix-muchos-mejor-pelicula-historia-cine-no-has-visto-estas-cometiendo-pecado-1405947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/francis-ford-coppola-marlon-brando-rodaje-padrino-3096020.jpg?tf=1200x' alt='La puedes ver en Netflix y para muchos es la mejor película de la historia del cine: si no las has visto, estás cometiendo un pecado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/qualcomm-quiere-comprar-intel-podria-cambiar-todo-sector-tecnologico-1406102'>Qualcomm quiere comprar Intel y esto podría cambiar todo en el sector tecnológico</a></h4>
     <a href='https://computerhoy.com/tecnologia/qualcomm-quiere-comprar-intel-podria-cambiar-todo-sector-tecnologico-1406102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/qualcomm-vs-intel-4219820.jpg?tf=1200x' alt='Qualcomm quiere comprar Intel y esto podría cambiar todo en el sector tecnológico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta</a></h4>
     <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/garmin-fenix-8-4189550.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/bateria-micronuclear-proporciona-energia-durante-decadas-1406095'>Esta batería micronuclear proporciona energía durante décadas</a></h4>
-    <a href='https://computerhoy.com/energia/bateria-micronuclear-proporciona-energia-durante-decadas-1406095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bateria-micronuclear-proporciona-energia-durante-decadas-4218789.jpg?tf=1200x' alt='Esta batería micronuclear proporciona energía durante décadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estudio-harvard-anticipo-hace-decadas-cuando-seria-fin-mundo-solo-faltan-dos-anos-1404923'>Un estudio de Harvard anticipó hace décadas cuándo sería el fin del mundo: solo faltan dos años</a></h4>
-    <a href='https://computerhoy.com/ciencia/estudio-harvard-anticipo-hace-decadas-cuando-seria-fin-mundo-solo-faltan-dos-anos-1404923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estudio-harvard-anticipo-hace-decadas-cuando-seria-fin-mundo-solo-faltan-dos-anos-4163029.jpg?tf=1200x' alt='Un estudio de Harvard anticipó hace décadas cuándo sería el fin del mundo: solo faltan dos años' />
     </a>
 </div>
 
