@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/navaja-suiza-pdf-web-tiene-30-herramientas-gratis-trabajar-archivos-pdf-1405515'>La navaja suiza de los PDF: esta web tiene hasta 30 herramientas gratis para trabajar con tus archivos PDF</a></h4>
+    <a href='https://computerhoy.com/internet/navaja-suiza-pdf-web-tiene-30-herramientas-gratis-trabajar-archivos-pdf-1405515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/navaja-suiza-pdf-4213188.jpg?tf=1200x' alt='La navaja suiza de los PDF: esta web tiene hasta 30 herramientas gratis para trabajar con tus archivos PDF' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/bateria-micronuclear-proporciona-energia-durante-decadas-1406095'>Esta batería micronuclear proporciona energía durante décadas</a></h4>
+    <a href='https://computerhoy.com/energia/bateria-micronuclear-proporciona-energia-durante-decadas-1406095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bateria-micronuclear-proporciona-energia-durante-decadas-4218789.jpg?tf=1200x' alt='Esta batería micronuclear proporciona energía durante décadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/estudio-harvard-anticipo-hace-decadas-cuando-seria-fin-mundo-solo-faltan-dos-anos-1404923'>Un estudio de Harvard anticipó hace décadas cuándo sería el fin del mundo: solo faltan dos años</a></h4>
     <a href='https://computerhoy.com/ciencia/estudio-harvard-anticipo-hace-decadas-cuando-seria-fin-mundo-solo-faltan-dos-anos-1404923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estudio-harvard-anticipo-hace-decadas-cuando-seria-fin-mundo-solo-faltan-dos-anos-4163029.jpg?tf=1200x' alt='Un estudio de Harvard anticipó hace décadas cuándo sería el fin del mundo: solo faltan dos años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/regulacion-inteligencia-artificial-europa-freno-innovacion-proteccion-necesaria-1405674'>La regulación de la inteligencia artificial en Europa: ¿Freno a la innovación o protección necesaria? </a></h4>
     <a href='https://computerhoy.com/tecnologia/regulacion-inteligencia-artificial-europa-freno-innovacion-proteccion-necesaria-1405674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/regulacion-inteligencia-artificial-europa-4208166.jpg?tf=1200x' alt='La regulación de la inteligencia artificial en Europa: ¿Freno a la innovación o protección necesaria? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/espionaje-estilo-harry-potter-voldemort-malware-hace-pasar-agencias-tributarias-europa-asia-eeuu-1404310'>Espionaje al estilo Harry Potter: así es Voldemort, el malware que se hace pasar por agencias tributarias de Europa, Asia y EEUU</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/espionaje-estilo-harry-potter-voldemort-malware-hace-pasar-agencias-tributarias-europa-asia-eeuu-1404310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/voldemort-malware-4212309.jpg?tf=1200x' alt='Espionaje al estilo Harry Potter: así es Voldemort, el malware que se hace pasar por agencias tributarias de Europa, Asia y EEUU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/oneplus-da-mas-menos-movil-16gb-ram-apuesta-aliexpress-1330058'>OnePlus da más por menos, con un secreto: este móvil de 16GB de RAM es una apuesta de AliExpress, y se envía desde España</a></h4>
-    <a href='https://computerhoy.com/android/oneplus-da-mas-menos-movil-16gb-ram-apuesta-aliexpress-1330058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-ace-3-pro-4005258.jpg?tf=1200x' alt='OnePlus da más por menos, con un secreto: este móvil de 16GB de RAM es una apuesta de AliExpress, y se envía desde España' />
     </a>
 </div>
 
