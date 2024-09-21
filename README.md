@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/meta-quest-cuantos-modelos-hay-como-descargar-juegos-aplicaciones-1403009'>Meta Quest: qué es, cuántos modelos hay y cómo descargar juegos y aplicaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-quest-cuantos-modelos-hay-como-descargar-juegos-aplicaciones-1403009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/meta-quest-pro-4086038.jpg?tf=1200x' alt='Meta Quest: qué es, cuántos modelos hay y cómo descargar juegos y aplicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-estaria-trabajando-tallas-grandes-anchas-galaxy-ring-1406111'>Samsung estaría trabajando en tallas más grandes y anchas para su Galaxy Ring</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-estaria-trabajando-tallas-grandes-anchas-galaxy-ring-1406111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-ring-3651234.jpg?tf=1200x' alt='Samsung estaría trabajando en tallas más grandes y anchas para su Galaxy Ring' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/asalta-steam-pc-gaming-barato-ryzen-5-16gb-ram-rx-6600-1405909'>Asalta Steam con este PC gaming barato: Ryzen 5, 16GB de RAM y RX 6600</a></h4>
     <a href='https://computerhoy.com/tecnologia/asalta-steam-pc-gaming-barato-ryzen-5-16gb-ram-rx-6600-1405909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-amd-ryzen-3274364.jpg?tf=1200x' alt='Asalta Steam con este PC gaming barato: Ryzen 5, 16GB de RAM y RX 6600' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/ya-puedes-descargar-manuales-oficiales-reparacion-serie-iphone-16-1406109'>Ya puedes descargar los manuales oficiales de reparación para la serie iPhone 16</a></h4>
     <a href='https://computerhoy.com/apple/ya-puedes-descargar-manuales-oficiales-reparacion-serie-iphone-16-1406109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/manuales-reparacion-iphone-16-4220124.jpg?tf=1200x' alt='Ya puedes descargar los manuales oficiales de reparación para la serie iPhone 16' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/errores-comunes-configurar-pc-videojuegos-1405519'>9 errores comunes al configurar un PC para jugar a videojuegos</a></h4>
-    <a href='https://computerhoy.com/gaming/errores-comunes-configurar-pc-videojuegos-1405519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/problemas-ordenador-gaming-4201517.jpg?tf=1200x' alt='9 errores comunes al configurar un PC para jugar a videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/192-168-1-1-como-acceder-router-modificar-configuracion-228735'>192.168.1.1: Cómo acceder al router para modificar su configuración inicial</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/192-168-1-1-como-acceder-router-modificar-configuracion-228735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/router-movil-ordenador-2622317.jpg?tf=1200x' alt='192.168.1.1: Cómo acceder al router para modificar su configuración inicial' />
     </a>
 </div>
 
