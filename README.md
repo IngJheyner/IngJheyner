@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/estudio-harvard-anticipo-hace-decadas-cuando-seria-fin-mundo-solo-faltan-dos-anos-1404923'>Un estudio de Harvard anticipó hace décadas cuándo sería el fin del mundo: solo faltan dos años</a></h4>
+    <a href='https://computerhoy.com/ciencia/estudio-harvard-anticipo-hace-decadas-cuando-seria-fin-mundo-solo-faltan-dos-anos-1404923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estudio-harvard-anticipo-hace-decadas-cuando-seria-fin-mundo-solo-faltan-dos-anos-4163029.jpg?tf=1200x' alt='Un estudio de Harvard anticipó hace décadas cuándo sería el fin del mundo: solo faltan dos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/cuando-quiero-evitar-atascos-no-uso-google-maps-waze-pero-app-gratis-mucho-mejor-1405714'>Cuando quiero evitar atascos, no uso Google Maps o Waze, pero esta app gratis es mucho mejor</a></h4>
     <a href='https://computerhoy.com/apps/cuando-quiero-evitar-atascos-no-uso-google-maps-waze-pero-app-gratis-mucho-mejor-1405714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-maps-waze-4212949.jpg?tf=1200x' alt='Cuando quiero evitar atascos, no uso Google Maps o Waze, pero esta app gratis es mucho mejor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/oneplus-da-mas-menos-movil-16gb-ram-apuesta-aliexpress-1330058'>OnePlus da más por menos, con un secreto: este móvil de 16GB de RAM es una apuesta de AliExpress, y se envía desde España</a></h4>
     <a href='https://computerhoy.com/android/oneplus-da-mas-menos-movil-16gb-ram-apuesta-aliexpress-1330058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-ace-3-pro-4005258.jpg?tf=1200x' alt='OnePlus da más por menos, con un secreto: este móvil de 16GB de RAM es una apuesta de AliExpress, y se envía desde España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-usar-portatil-apple-movil-android-no-morir-intento-1405427'>Como usar un portátil Apple y un móvil Android y no morir en el intento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-usar-portatil-apple-movil-android-no-morir-intento-1405427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/portatil-apple-movil-samsung-galaxy-s24-ultra-4191300.jpg?tf=1200x' alt='Como usar un portátil Apple y un móvil Android y no morir en el intento' />
     </a>
 </div>
 
