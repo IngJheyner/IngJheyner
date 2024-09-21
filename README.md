@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chrome-pronto-te-permitira-firmar-archivos-pdf-herramienta-dibujar-1406127'>Chrome pronto te permitirá firmar archivos PDF con la herramienta dibujar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chrome-pronto-te-permitira-firmar-archivos-pdf-herramienta-dibujar-1406127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chrome-4221904.jpg?tf=1200x' alt='Chrome pronto te permitirá firmar archivos PDF con la herramienta dibujar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-convierte-temporizador-cuenta-regresiva-reloj-windows-11-widgets-podras-aprovecharlos-maximo-1406126'>Microsoft convierte el temporizador y la cuenta regresiva del reloj de Windows 11 en widgets y así podrás aprovecharlos al máximo</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-convierte-temporizador-cuenta-regresiva-reloj-windows-11-widgets-podras-aprovecharlos-maximo-1406126' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/reloj-windows-11-4221755.jpg?tf=1200x' alt='Microsoft convierte el temporizador y la cuenta regresiva del reloj de Windows 11 en widgets y así podrás aprovecharlos al máximo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/usas-waze-carplay-quizas-no-sea-buena-idea-instalarte-ios-18-1406113'>Si usas Waze en CarPlay quizás no sea una buena idea instalarte iOS 18</a></h4>
     <a href='https://computerhoy.com/apps/usas-waze-carplay-quizas-no-sea-buena-idea-instalarte-ios-18-1406113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/waze-carplay-4220717.jpg?tf=1200x' alt='Si usas Waze en CarPlay quizás no sea una buena idea instalarte iOS 18' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-quest-cuantos-modelos-hay-como-descargar-juegos-aplicaciones-1403009'>Meta Quest: qué es, cuántos modelos hay y cómo descargar juegos y aplicaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-quest-cuantos-modelos-hay-como-descargar-juegos-aplicaciones-1403009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/meta-quest-pro-4086038.jpg?tf=1200x' alt='Meta Quest: qué es, cuántos modelos hay y cómo descargar juegos y aplicaciones' />
     </a>
 </div>
 
