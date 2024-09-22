@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/copilot-leera-todos-correos-electronicos-outlook-priorizar-importantes-1406158'>Copilot leerá todos tus correos electrónicos en Outlook para priorizar los importantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/copilot-leera-todos-correos-electronicos-outlook-priorizar-importantes-1406158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/outlook-ia-4226940.jpg?tf=1200x' alt='Copilot leerá todos tus correos electrónicos en Outlook para priorizar los importantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-comando-diskpart-gestionar-particiones-windows-1405520'>Cómo usar el comando DiskPart para gestionar las particiones en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-comando-diskpart-gestionar-particiones-windows-1405520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/usar-diskpart-windows-4206743.jpg?tf=1200x' alt='Cómo usar el comando DiskPart para gestionar las particiones en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/donde-colocar-como-configurar-repetidor-wifi-casa-937429'>Dónde colocar y cómo configurar correctamente un repetidor WiFi en casa</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/donde-colocar-como-configurar-repetidor-wifi-casa-937429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/repetidor-wifi-2379099.jpg?tf=1200x' alt='Dónde colocar y cómo configurar correctamente un repetidor WiFi en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/youtube-premium-incrementa-precios-estos-paises-55-inminente-subida-tambien-espana-1406156'>YouTube premium incrementa sus precios en estos países hasta en un 55%: ¿inminente subida también para España?</a></h4>
     <a href='https://computerhoy.com/apps/youtube-premium-incrementa-precios-estos-paises-55-inminente-subida-tambien-espana-1406156' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/precio-youtube-premium-4226938.jpg?tf=1200x' alt='YouTube premium incrementa sus precios en estos países hasta en un 55%: ¿inminente subida también para España?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/desconocido-thriller-pelicula-favorita-stephen-king-dirigido-director-exorcista-puede-ver-amazon-prime-video-1405596'>Este desconocido thriller es la película favorita de Stephen King, está dirigido por el director de El exorcista y se puede ver en Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/entretenimiento/desconocido-thriller-pelicula-favorita-stephen-king-dirigido-director-exorcista-puede-ver-amazon-prime-video-1405596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/desconocido-thriller-pelicula-favorita-stephen-king-dirigido-director-exorcista-puede-ver-amazon-prime-video-4198046.jpg?tf=1200x' alt='Este desconocido thriller es la película favorita de Stephen King, está dirigido por el director de El exorcista y se puede ver en Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/error-tipografico-microsoft-estan-aprovechando-ciberdelincuentes-estafarte-1406130'>El error tipográfico de "Microsoft" del que se están aprovechando los ciberdelincuentes para estafarte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/error-tipografico-microsoft-estan-aprovechando-ciberdelincuentes-estafarte-1406130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/correo-fraudulento-outlook-4222057.jpg?tf=1200x' alt='El error tipográfico de "Microsoft" del que se están aprovechando los ciberdelincuentes para estafarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/papelera-whatsapp-como-localizarla-borrar-archivos-liberar-espacio-memoria-movil-1405511'>Papelera de WhatsApp: cómo localizarla para borrar archivos y liberar espacio en la memoria del móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/papelera-whatsapp-como-localizarla-borrar-archivos-liberar-espacio-memoria-movil-1405511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/papelera-whatsapp-como-localizarla-borrar-archivos-liberar-espacio-memoria-movil-4194728.jpg?tf=1200x' alt='Papelera de WhatsApp: cómo localizarla para borrar archivos y liberar espacio en la memoria del móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903'>Estos son los mejores relojes de running que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/garmin-fenix-8-4189859.jpg?tf=1200x' alt='Estos son los mejores relojes de running que puedes comprar ahora mismo' />
     </a>
 </div>
 
