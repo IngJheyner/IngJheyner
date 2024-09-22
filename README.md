@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cuantos-caballos-fuerza-puede-generar-caballo-1165246'>¿Cuántos caballos de fuerza puede generar un caballo?</a></h4>
+    <a href='https://computerhoy.com/ciencia/cuantos-caballos-fuerza-puede-generar-caballo-1165246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cuantos-caballos-potencia-puede-genera-caballo-no-no-2892830.jpg?tf=1200x' alt='¿Cuántos caballos de fuerza puede generar un caballo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/he-dejado-gmail-asi-lo-he-hecho-1400696'>He dejado Gmail y no pienso volver: así me he llevado todo a Proton Mail en pocos minutos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-dejado-gmail-asi-lo-he-hecho-1400696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-pass-3941353.jpg?tf=1200x' alt='He dejado Gmail y no pienso volver: así me he llevado todo a Proton Mail en pocos minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/todo-openai-nacimiento-chatgpt-creacion-ia-iguale-ser-humano-1404952'>Todo sobre OpenAI, del nacimiento de ChatGPT a la creación de una IA que iguale al ser humano</a></h4>
     <a href='https://computerhoy.com/tecnologia/todo-openai-nacimiento-chatgpt-creacion-ia-iguale-ser-humano-1404952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/openai-uso-millones-videos-youtube-entrenar-ia-google-muy-enfadada-3296753.jpg?tf=1200x' alt='Todo sobre OpenAI, del nacimiento de ChatGPT a la creación de una IA que iguale al ser humano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/copilot-pages-microsoft-cambia-siempre-proyectos-colaborativos-1406128'>Con Copilot Pages Microsoft cambia para siempre los proyectos colaborativos</a></h4>
     <a href='https://computerhoy.com/tecnologia/copilot-pages-microsoft-cambia-siempre-proyectos-colaborativos-1406128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/copilot-pages-4221907.jpg?tf=1200x' alt='Con Copilot Pages Microsoft cambia para siempre los proyectos colaborativos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chrome-pronto-te-permitira-firmar-archivos-pdf-herramienta-dibujar-1406127'>Chrome pronto te permitirá firmar archivos PDF con la herramienta dibujar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chrome-pronto-te-permitira-firmar-archivos-pdf-herramienta-dibujar-1406127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chrome-4221904.jpg?tf=1200x' alt='Chrome pronto te permitirá firmar archivos PDF con la herramienta dibujar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-convierte-temporizador-cuenta-regresiva-reloj-windows-11-widgets-podras-aprovecharlos-maximo-1406126'>Microsoft convierte el temporizador y la cuenta regresiva del reloj de Windows 11 en widgets y así podrás aprovecharlos al máximo</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-convierte-temporizador-cuenta-regresiva-reloj-windows-11-widgets-podras-aprovecharlos-maximo-1406126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/reloj-windows-11-4221755.jpg?tf=1200x' alt='Microsoft convierte el temporizador y la cuenta regresiva del reloj de Windows 11 en widgets y así podrás aprovecharlos al máximo' />
     </a>
 </div>
 
