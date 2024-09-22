@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mejores-canales-telegram-descargar-legalmente-libros-gratis-pdf-1405899'>Los mejores canales de Telegram para descargar legalmente libros gratis en PDF</a></h4>
+    <a href='https://computerhoy.com/internet/mejores-canales-telegram-descargar-legalmente-libros-gratis-pdf-1405899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mejores-canales-telegram-descargar-legalmente-libros-gratis-pdf-4211036.jpg?tf=1200x' alt='Los mejores canales de Telegram para descargar legalmente libros gratis en PDF' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/comandos-secretos-windows-viejo-portatil-vuelva-funcionar-como-fuera-nuevo-1405715'>Comandos secretos de Windows para que tu viejo portátil vuelva a funcionar como si fuera nuevo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/comandos-secretos-windows-viejo-portatil-vuelva-funcionar-como-fuera-nuevo-1405715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/comandos-secretos-windows-viejo-portatil-vuelva-funcionar-como-fuera-nuevo-4203735.jpg?tf=1200x' alt='Comandos secretos de Windows para que tu viejo portátil vuelva a funcionar como si fuera nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/computacion-cuantica-forma-promete-cambiar-mundo-tal-como-conoce-1404314'>Computación cuántica, qué es y de qué forma promete cambiar el mundo tal y como se conoce</a></h4>
     <a href='https://computerhoy.com/tecnologia/computacion-cuantica-forma-promete-cambiar-mundo-tal-como-conoce-1404314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computacion-cuantica-3274675.jpg?tf=1200x' alt='Computación cuántica, qué es y de qué forma promete cambiar el mundo tal y como se conoce' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/imagen-multiespectral-manuscrito-voynich-escritura-oculta-1406133'>Una imagen multiespectral del Manuscrito Voynich desvela escritura oculta</a></h4>
+    <h4><a href='https://computerhoy.com/ciencia/imagen-multiespectral-manuscrito-voynich-escritura-oculta-1406133'>Una imagen multiespectral del Manuscrito de Voynich desvela escritura oculta</a></h4>
     <a href='https://computerhoy.com/ciencia/imagen-multiespectral-manuscrito-voynich-escritura-oculta-1406133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/imagen-multiespectral-manuscrito-voynich-desvela-escritura-oculta-4225147.jpg?tf=1200x' alt='Una imagen multiespectral del Manuscrito Voynich desvela escritura oculta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/tpm-20-trae-cabeza-usuarios-quieren-usar-windows-11-1401839'>¿Qué es TPM 2.0 y por qué trae de cabeza a los usuarios que quieren usar Windows 11?</a></h4>
-    <a href='https://computerhoy.com/windows/tpm-20-trae-cabeza-usuarios-quieren-usar-windows-11-1401839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/chip-tpm-20-windows-11-2398977.jpg?tf=1200x' alt='¿Qué es TPM 2.0 y por qué trae de cabeza a los usuarios que quieren usar Windows 11?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/honor-band-9-pulsera-conquista-diseno-curvo-bateria-infinita-aunque-me-deja-ciertas-dudas-1405614'>Honor Band 9 es una pulsera que conquista por diseño curvo y batería infinita aunque me deja ciertas dudas</a></h4>
-    <a href='https://computerhoy.com/analisis/honor-band-9-pulsera-conquista-diseno-curvo-bateria-infinita-aunque-me-deja-ciertas-dudas-1405614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/honor-band-9-4213287.jpg?tf=1200x' alt='Honor Band 9 es una pulsera que conquista por diseño curvo y batería infinita aunque me deja ciertas dudas' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/imagen-multiespectral-manuscrito-voynich-desvela-escritura-oculta-4225147.jpg?tf=1200x' alt='Una imagen multiespectral del Manuscrito de Voynich desvela escritura oculta' />
     </a>
 </div>
 
