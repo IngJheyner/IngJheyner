@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/smart-home-primeras-casas-inteligentes-como-empezar-conectar-hogar-1404965'>Qué es Smart Home, las primeras casas inteligentes y cómo empezar a conectar tu hogar</a></h4>
+    <a href='https://computerhoy.com/hogar/smart-home-primeras-casas-inteligentes-como-empezar-conectar-hogar-1404965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/smart-home.jpg?tf=1200x' alt='Qué es Smart Home, las primeras casas inteligentes y cómo empezar a conectar tu hogar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-sigue-pensando-incluir-accesorio-linterna-futuro-apple-watch-1406131'>Apple sigue pensando en incluir un accesorio de linterna a un futuro Apple Watch</a></h4>
+    <a href='https://computerhoy.com/apple/apple-sigue-pensando-incluir-accesorio-linterna-futuro-apple-watch-1406131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/patente-apple-watch-4222059.jpg?tf=1200x' alt='Apple sigue pensando en incluir un accesorio de linterna a un futuro Apple Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/va-agotar-aspiradoras-dyson-potentes-130-euros-barata-1405801'>Se va a agotar: una de las aspiradoras Dyson más potentes es 130 euros más barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/va-agotar-aspiradoras-dyson-potentes-130-euros-barata-1405801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dyson-gen5detect-4205134.jpg?tf=1200x' alt='Se va a agotar: una de las aspiradoras Dyson más potentes es 130 euros más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fitbit-todo-smartwatches-compra-google-adios-marca-1403038'>Fitbit, todo sobre sus smartwatches, la compra de Google y el adiós de la marca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fitbit-todo-smartwatches-compra-google-adios-marca-1403038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fitbit-inspire-3-3789161.jpg?tf=1200x' alt='Fitbit, todo sobre sus smartwatches, la compra de Google y el adiós de la marca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/copilot-leera-todos-correos-electronicos-outlook-priorizar-importantes-1406158'>Copilot leerá todos tus correos electrónicos en Outlook para priorizar los importantes</a></h4>
     <a href='https://computerhoy.com/tecnologia/copilot-leera-todos-correos-electronicos-outlook-priorizar-importantes-1406158' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/outlook-ia-4226940.jpg?tf=1200x' alt='Copilot leerá todos tus correos electrónicos en Outlook para priorizar los importantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-comando-diskpart-gestionar-particiones-windows-1405520'>Cómo usar el comando DiskPart para gestionar las particiones en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-comando-diskpart-gestionar-particiones-windows-1405520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/usar-diskpart-windows-4206743.jpg?tf=1200x' alt='Cómo usar el comando DiskPart para gestionar las particiones en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/donde-colocar-como-configurar-repetidor-wifi-casa-937429'>Dónde colocar y cómo configurar correctamente un repetidor WiFi en casa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/donde-colocar-como-configurar-repetidor-wifi-casa-937429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/repetidor-wifi-2379099.jpg?tf=1200x' alt='Dónde colocar y cómo configurar correctamente un repetidor WiFi en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-premium-incrementa-precios-estos-paises-55-inminente-subida-tambien-espana-1406156'>YouTube premium incrementa sus precios en estos países hasta en un 55%: ¿inminente subida también para España?</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-premium-incrementa-precios-estos-paises-55-inminente-subida-tambien-espana-1406156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/precio-youtube-premium-4226938.jpg?tf=1200x' alt='YouTube premium incrementa sus precios en estos países hasta en un 55%: ¿inminente subida también para España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/desconocido-thriller-pelicula-favorita-stephen-king-dirigido-director-exorcista-puede-ver-amazon-prime-video-1405596'>Este desconocido thriller es la película favorita de Stephen King, está dirigido por el director de El exorcista y se puede ver en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/desconocido-thriller-pelicula-favorita-stephen-king-dirigido-director-exorcista-puede-ver-amazon-prime-video-1405596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/desconocido-thriller-pelicula-favorita-stephen-king-dirigido-director-exorcista-puede-ver-amazon-prime-video-4198046.jpg?tf=1200x' alt='Este desconocido thriller es la película favorita de Stephen King, está dirigido por el director de El exorcista y se puede ver en Amazon Prime Video' />
     </a>
 </div>
 
