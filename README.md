@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/atomo-presenta-cafe-sin-granos-cafe-1406173'>Atomo presenta el café sin granos de café</a></h4>
+    <a href='https://computerhoy.com/alimentacion/atomo-presenta-cafe-sin-granos-cafe-1406173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/atomo-presenta-cafe-granos-cafe-4230381.jpg?tf=1200x' alt='Atomo presenta el café sin granos de café' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/baterias-silicio-carbono-diferencias-ion-litio-1406171'>Algunos móviles ya usan baterías de silicio-carbono: ¿En qué mejoran a las de ion de litio?</a></h4>
     <a href='https://computerhoy.com/moviles/baterias-silicio-carbono-diferencias-ion-litio-1406171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/algunos-moviles-ya-usan-baterias-silicio-carbono-mejoran-ion-litio-4229774.jpg?tf=1200x' alt='Algunos móviles ya usan baterías de silicio-carbono: ¿En qué mejoran a las de ion de litio?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/banda-asaltaba-casas-punta-pistola-robar-criptomonedas-1406168'>La banda que asaltaba casas a punta de pistola para robar criptomonedas</a></h4>
     <a href='https://computerhoy.com/criptos/banda-asaltaba-casas-punta-pistola-robar-criptomonedas-1406168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/banda-asaltaba-casas-punta-pistola-robar-criptomonedas-4228657.jpg?tf=1200x' alt='La banda que asaltaba casas a punta de pistola para robar criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ssd-externo-samsung-prueba-todo-oferta-flash-amazon-rozando-100-euros-1405987'>Este SSD externo de Samsung a prueba de todo, en oferta flash en Amazon rozando los 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ssd-externo-samsung-prueba-todo-oferta-flash-amazon-rozando-100-euros-1405987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-t7-shield-4212784.jpg?tf=1200x' alt='Este SSD externo de Samsung a prueba de todo, en oferta flash en Amazon rozando los 100 euros' />
     </a>
 </div>
 
