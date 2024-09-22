@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cuantos-caballos-fuerza-puede-generar-caballo-1165246'>¿Cuántos caballos de fuerza puede generar un caballo?</a></h4>
-    <a href='https://computerhoy.com/ciencia/cuantos-caballos-fuerza-puede-generar-caballo-1165246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cuantos-caballos-potencia-puede-genera-caballo-no-no-2892830.jpg?tf=1200x' alt='¿Cuántos caballos de fuerza puede generar un caballo?' />
+    <h4><a href='https://computerhoy.com/tecnologia/computacion-cuantica-forma-promete-cambiar-mundo-tal-como-conoce-1404314'>Computación cuántica, qué es y de qué forma promete cambiar el mundo tal y como se conoce</a></h4>
+    <a href='https://computerhoy.com/tecnologia/computacion-cuantica-forma-promete-cambiar-mundo-tal-como-conoce-1404314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computacion-cuantica-3274675.jpg?tf=1200x' alt='Computación cuántica, qué es y de qué forma promete cambiar el mundo tal y como se conoce' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-dejado-gmail-asi-lo-he-hecho-1400696'>He dejado Gmail y no pienso volver: así me he llevado todo a Proton Mail en pocos minutos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-dejado-gmail-asi-lo-he-hecho-1400696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-pass-3941353.jpg?tf=1200x' alt='He dejado Gmail y no pienso volver: así me he llevado todo a Proton Mail en pocos minutos' />
+    <h4><a href='https://computerhoy.com/tecnologia/teclast-vende-portatil-barato-menos-200-euros-1402851'>Bueno, bonito y barato: Teclast da el golpe y vende un portátil con Windows 11 por menos de 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/teclast-vende-portatil-barato-menos-200-euros-1402851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teclast-f16-plus-3260853.jpg?tf=1200x' alt='Bueno, bonito y barato: Teclast da el golpe y vende un portátil con Windows 11 por menos de 200 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-openai-nacimiento-chatgpt-creacion-ia-iguale-ser-humano-1404952'>Todo sobre OpenAI, del nacimiento de ChatGPT a la creación de una IA que iguale al ser humano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-openai-nacimiento-chatgpt-creacion-ia-iguale-ser-humano-1404952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/openai-uso-millones-videos-youtube-entrenar-ia-google-muy-enfadada-3296753.jpg?tf=1200x' alt='Todo sobre OpenAI, del nacimiento de ChatGPT a la creación de una IA que iguale al ser humano' />
+    <h4><a href='https://computerhoy.com/ciencia/imagen-multiespectral-manuscrito-voynich-escritura-oculta-1406133'>Una imagen multiespectral del Manuscrito Voynich desvela escritura oculta</a></h4>
+    <a href='https://computerhoy.com/ciencia/imagen-multiespectral-manuscrito-voynich-escritura-oculta-1406133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/imagen-multiespectral-manuscrito-voynich-desvela-escritura-oculta-4225147.jpg?tf=1200x' alt='Una imagen multiespectral del Manuscrito Voynich desvela escritura oculta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-android-hace-inmersivo-sutil-cambio-barra-estado-1406129'>YouTube para Android se hace más inmersivo por este sutil cambio en la barra de estado</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-android-hace-inmersivo-sutil-cambio-barra-estado-1406129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-4221909.jpg?tf=1200x' alt='YouTube para Android se hace más inmersivo por este sutil cambio en la barra de estado' />
+    <h4><a href='https://computerhoy.com/windows/tpm-20-trae-cabeza-usuarios-quieren-usar-windows-11-1401839'>¿Qué es TPM 2.0 y por qué trae de cabeza a los usuarios que quieren usar Windows 11?</a></h4>
+    <a href='https://computerhoy.com/windows/tpm-20-trae-cabeza-usuarios-quieren-usar-windows-11-1401839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/chip-tpm-20-windows-11-2398977.jpg?tf=1200x' alt='¿Qué es TPM 2.0 y por qué trae de cabeza a los usuarios que quieren usar Windows 11?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/copilot-pages-microsoft-cambia-siempre-proyectos-colaborativos-1406128'>Con Copilot Pages Microsoft cambia para siempre los proyectos colaborativos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/copilot-pages-microsoft-cambia-siempre-proyectos-colaborativos-1406128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/copilot-pages-4221907.jpg?tf=1200x' alt='Con Copilot Pages Microsoft cambia para siempre los proyectos colaborativos' />
+    <h4><a href='https://computerhoy.com/analisis/honor-band-9-pulsera-conquista-diseno-curvo-bateria-infinita-aunque-me-deja-ciertas-dudas-1405614'>Honor Band 9 es una pulsera que conquista por diseño curvo y batería infinita aunque me deja ciertas dudas</a></h4>
+    <a href='https://computerhoy.com/analisis/honor-band-9-pulsera-conquista-diseno-curvo-bateria-infinita-aunque-me-deja-ciertas-dudas-1405614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/honor-band-9-4213287.jpg?tf=1200x' alt='Honor Band 9 es una pulsera que conquista por diseño curvo y batería infinita aunque me deja ciertas dudas' />
     </a>
 </div>
 
