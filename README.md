@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ssd-externo-samsung-prueba-todo-oferta-flash-amazon-rozando-100-euros-1405987'>Este SSD externo de Samsung a prueba de todo, en oferta flash en Amazon rozando los 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ssd-externo-samsung-prueba-todo-oferta-flash-amazon-rozando-100-euros-1405987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-t7-shield-4212784.jpg?tf=1200x' alt='Este SSD externo de Samsung a prueba de todo, en oferta flash en Amazon rozando los 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/jony-ive-disenador-iphone-openai-dispositivo-ia-1406165'>El diseñador del iPhone está creando para OpenAI el dispositivo que podría sustituir a los móviles</a></h4>
     <a href='https://computerhoy.com/tecnologia/jony-ive-disenador-iphone-openai-dispositivo-ia-1406165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/disenador-iphone-confirma-disenando-dispositivo-openai-4228326.jpg?tf=1200x' alt='El diseñador del iPhone está creando para OpenAI el dispositivo que podría sustituir a los móviles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-sigue-pensando-incluir-accesorio-linterna-futuro-apple-watch-1406131'>Apple sigue pensando en incluir un accesorio de linterna a un futuro Apple Watch</a></h4>
     <a href='https://computerhoy.com/apple/apple-sigue-pensando-incluir-accesorio-linterna-futuro-apple-watch-1406131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/patente-apple-watch-4222059.jpg?tf=1200x' alt='Apple sigue pensando en incluir un accesorio de linterna a un futuro Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/va-agotar-aspiradoras-dyson-potentes-130-euros-barata-1405801'>Se va a agotar: una de las aspiradoras Dyson más potentes es 130 euros más barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/va-agotar-aspiradoras-dyson-potentes-130-euros-barata-1405801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dyson-gen5detect-4205134.jpg?tf=1200x' alt='Se va a agotar: una de las aspiradoras Dyson más potentes es 130 euros más barata' />
     </a>
 </div>
 
