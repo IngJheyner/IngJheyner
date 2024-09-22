@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/error-tipografico-microsoft-estan-aprovechando-ciberdelincuentes-estafarte-1406130'>El error tipográfico de "Microsoft" del que se están aprovechando los ciberdelincuentes para estafarte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/error-tipografico-microsoft-estan-aprovechando-ciberdelincuentes-estafarte-1406130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/correo-fraudulento-outlook-4222057.jpg?tf=1200x' alt='El error tipográfico de "Microsoft" del que se están aprovechando los ciberdelincuentes para estafarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/papelera-whatsapp-como-localizarla-borrar-archivos-liberar-espacio-memoria-movil-1405511'>Papelera de WhatsApp: cómo localizarla para borrar archivos y liberar espacio en la memoria del móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/papelera-whatsapp-como-localizarla-borrar-archivos-liberar-espacio-memoria-movil-1405511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/papelera-whatsapp-como-localizarla-borrar-archivos-liberar-espacio-memoria-movil-4194728.jpg?tf=1200x' alt='Papelera de WhatsApp: cómo localizarla para borrar archivos y liberar espacio en la memoria del móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/mejores-canales-telegram-descargar-legalmente-libros-gratis-pdf-1405899'>Los mejores canales de Telegram para descargar legalmente libros gratis en PDF</a></h4>
     <a href='https://computerhoy.com/internet/mejores-canales-telegram-descargar-legalmente-libros-gratis-pdf-1405899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mejores-canales-telegram-descargar-legalmente-libros-gratis-pdf-4211036.jpg?tf=1200x' alt='Los mejores canales de Telegram para descargar legalmente libros gratis en PDF' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/comandos-secretos-windows-viejo-portatil-vuelva-funcionar-como-fuera-nuevo-1405715'>Comandos secretos de Windows para que tu viejo portátil vuelva a funcionar como si fuera nuevo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/comandos-secretos-windows-viejo-portatil-vuelva-funcionar-como-fuera-nuevo-1405715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/comandos-secretos-windows-viejo-portatil-vuelva-funcionar-como-fuera-nuevo-4203735.jpg?tf=1200x' alt='Comandos secretos de Windows para que tu viejo portátil vuelva a funcionar como si fuera nuevo' />
     </a>
 </div>
 
