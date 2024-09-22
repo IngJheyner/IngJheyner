@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/papelera-whatsapp-como-localizarla-borrar-archivos-liberar-espacio-memoria-movil-1405511'>Papelera de WhatsApp: cómo localizarla para borrar archivos y liberar espacio en la memoria del móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/papelera-whatsapp-como-localizarla-borrar-archivos-liberar-espacio-memoria-movil-1405511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/papelera-whatsapp-como-localizarla-borrar-archivos-liberar-espacio-memoria-movil-4194728.jpg?tf=1200x' alt='Papelera de WhatsApp: cómo localizarla para borrar archivos y liberar espacio en la memoria del móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903'>Estos son los mejores relojes de running que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejores-relojes-running-comprar-793903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/garmin-fenix-8-4189859.jpg?tf=1200x' alt='Estos son los mejores relojes de running que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/sencillo-truco-conseguir-cobertura-movil-cuando-estas-desesperado-1405713'>El sencillo truco para conseguir cobertura en tu móvil cuando estás desesperado</a></h4>
     <a href='https://computerhoy.com/redes/sencillo-truco-conseguir-cobertura-movil-cuando-estas-desesperado-1405713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cobertura-movil-4213130.jpg?tf=1200x' alt='El sencillo truco para conseguir cobertura en tu móvil cuando estás desesperado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/comandos-secretos-windows-viejo-portatil-vuelva-funcionar-como-fuera-nuevo-1405715'>Comandos secretos de Windows para que tu viejo portátil vuelva a funcionar como si fuera nuevo</a></h4>
     <a href='https://computerhoy.com/tutoriales/comandos-secretos-windows-viejo-portatil-vuelva-funcionar-como-fuera-nuevo-1405715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/comandos-secretos-windows-viejo-portatil-vuelva-funcionar-como-fuera-nuevo-4203735.jpg?tf=1200x' alt='Comandos secretos de Windows para que tu viejo portátil vuelva a funcionar como si fuera nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/computacion-cuantica-forma-promete-cambiar-mundo-tal-como-conoce-1404314'>Computación cuántica, qué es y de qué forma promete cambiar el mundo tal y como se conoce</a></h4>
-    <a href='https://computerhoy.com/tecnologia/computacion-cuantica-forma-promete-cambiar-mundo-tal-como-conoce-1404314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computacion-cuantica-3274675.jpg?tf=1200x' alt='Computación cuántica, qué es y de qué forma promete cambiar el mundo tal y como se conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/teclast-vende-portatil-barato-menos-200-euros-1402851'>Bueno, bonito y barato: Teclast da el golpe y vende un portátil con Windows 11 por menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/teclast-vende-portatil-barato-menos-200-euros-1402851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teclast-f16-plus-3260853.jpg?tf=1200x' alt='Bueno, bonito y barato: Teclast da el golpe y vende un portátil con Windows 11 por menos de 200 euros' />
     </a>
 </div>
 
