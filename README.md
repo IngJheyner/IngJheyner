@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/jony-ive-disenador-iphone-openai-dispositivo-ia-1406165'>El diseñador del iPhone está creando para OpenAI el dispositivo que podría sustituir a los móviles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/jony-ive-disenador-iphone-openai-dispositivo-ia-1406165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/disenador-iphone-confirma-disenando-dispositivo-openai-4228326.jpg?tf=1200x' alt='El diseñador del iPhone está creando para OpenAI el dispositivo que podría sustituir a los móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/aplicacion-tiempo-meteorologico-microsoft-te-alertara-condiciones-climaticas-inusuales-gracias-ia-1406159'>La aplicación de tiempo meteorológico de Microsoft te alertará de condiciones climáticas inusuales gracias a la IA</a></h4>
     <a href='https://computerhoy.com/windows/aplicacion-tiempo-meteorologico-microsoft-te-alertara-condiciones-climaticas-inusuales-gracias-ia-1406159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pronostico-tiempo-windows-4227090.jpg?tf=1200x' alt='La aplicación de tiempo meteorológico de Microsoft te alertará de condiciones climáticas inusuales gracias a la IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/va-agotar-aspiradoras-dyson-potentes-130-euros-barata-1405801'>Se va a agotar: una de las aspiradoras Dyson más potentes es 130 euros más barata</a></h4>
     <a href='https://computerhoy.com/tecnologia/va-agotar-aspiradoras-dyson-potentes-130-euros-barata-1405801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dyson-gen5detect-4205134.jpg?tf=1200x' alt='Se va a agotar: una de las aspiradoras Dyson más potentes es 130 euros más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fitbit-todo-smartwatches-compra-google-adios-marca-1403038'>Fitbit, todo sobre sus smartwatches, la compra de Google y el adiós de la marca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fitbit-todo-smartwatches-compra-google-adios-marca-1403038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fitbit-inspire-3-3789161.jpg?tf=1200x' alt='Fitbit, todo sobre sus smartwatches, la compra de Google y el adiós de la marca' />
     </a>
 </div>
 
