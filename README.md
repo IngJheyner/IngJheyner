@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/aplicacion-tiempo-meteorologico-microsoft-te-alertara-condiciones-climaticas-inusuales-gracias-ia-1406159'>La aplicación de tiempo meteorológico de Microsoft te alertará de condiciones climáticas inusuales gracias a la IA</a></h4>
+    <a href='https://computerhoy.com/windows/aplicacion-tiempo-meteorologico-microsoft-te-alertara-condiciones-climaticas-inusuales-gracias-ia-1406159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pronostico-tiempo-windows-4227090.jpg?tf=1200x' alt='La aplicación de tiempo meteorológico de Microsoft te alertará de condiciones climáticas inusuales gracias a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/smart-home-primeras-casas-inteligentes-como-empezar-conectar-hogar-1404965'>Qué es Smart Home, las primeras casas inteligentes y cómo empezar a conectar tu hogar</a></h4>
     <a href='https://computerhoy.com/hogar/smart-home-primeras-casas-inteligentes-como-empezar-conectar-hogar-1404965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/smart-home.jpg?tf=1200x' alt='Qué es Smart Home, las primeras casas inteligentes y cómo empezar a conectar tu hogar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/fitbit-todo-smartwatches-compra-google-adios-marca-1403038'>Fitbit, todo sobre sus smartwatches, la compra de Google y el adiós de la marca</a></h4>
     <a href='https://computerhoy.com/tecnologia/fitbit-todo-smartwatches-compra-google-adios-marca-1403038' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fitbit-inspire-3-3789161.jpg?tf=1200x' alt='Fitbit, todo sobre sus smartwatches, la compra de Google y el adiós de la marca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/copilot-leera-todos-correos-electronicos-outlook-priorizar-importantes-1406158'>Copilot leerá todos tus correos electrónicos en Outlook para priorizar los importantes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/copilot-leera-todos-correos-electronicos-outlook-priorizar-importantes-1406158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/outlook-ia-4226940.jpg?tf=1200x' alt='Copilot leerá todos tus correos electrónicos en Outlook para priorizar los importantes' />
     </a>
 </div>
 
