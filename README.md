@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/baterias-silicio-carbono-diferencias-ion-litio-1406171'>Algunos móviles ya usan baterías de silicio-carbono: ¿En qué mejoran a las de ion de litio?</a></h4>
+    <a href='https://computerhoy.com/moviles/baterias-silicio-carbono-diferencias-ion-litio-1406171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/algunos-moviles-ya-usan-baterias-silicio-carbono-mejoran-ion-litio-4229774.jpg?tf=1200x' alt='Algunos móviles ya usan baterías de silicio-carbono: ¿En qué mejoran a las de ion de litio?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/twitter-ahora-x-origen-modalidades-suscripcion-herramientas-utiles-1397015'>Qué es Twitter (ahora X): origen, modalidades de suscripción y herramientas más útiles</a></h4>
+    <a href='https://computerhoy.com/apps/twitter-ahora-x-origen-modalidades-suscripcion-herramientas-utiles-1397015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/twitter-x-3111252.jpg?tf=1200x' alt='Qué es Twitter (ahora X): origen, modalidades de suscripción y herramientas más útiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-rastrea-exito-delincuentes-red-tor-1406170'>El anonimato no existe: la policía rastrea con éxito a delincuentes en la red Tor</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-rastrea-exito-delincuentes-red-tor-1406170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/anonimato-no-existe-policia-rastrea-exito-delincuentes-red-tor-4229133.jpg?tf=1200x' alt='El anonimato no existe: la policía rastrea con éxito a delincuentes en la red Tor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ssd-externo-samsung-prueba-todo-oferta-flash-amazon-rozando-100-euros-1405987'>Este SSD externo de Samsung a prueba de todo, en oferta flash en Amazon rozando los 100 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/ssd-externo-samsung-prueba-todo-oferta-flash-amazon-rozando-100-euros-1405987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-t7-shield-4212784.jpg?tf=1200x' alt='Este SSD externo de Samsung a prueba de todo, en oferta flash en Amazon rozando los 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/jony-ive-disenador-iphone-openai-dispositivo-ia-1406165'>El diseñador del iPhone está creando para OpenAI el dispositivo que podría sustituir a los móviles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/jony-ive-disenador-iphone-openai-dispositivo-ia-1406165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/disenador-iphone-confirma-disenando-dispositivo-openai-4228326.jpg?tf=1200x' alt='El diseñador del iPhone está creando para OpenAI el dispositivo que podría sustituir a los móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/aplicacion-tiempo-meteorologico-microsoft-te-alertara-condiciones-climaticas-inusuales-gracias-ia-1406159'>La aplicación de tiempo meteorológico de Microsoft te alertará de condiciones climáticas inusuales gracias a la IA</a></h4>
-    <a href='https://computerhoy.com/windows/aplicacion-tiempo-meteorologico-microsoft-te-alertara-condiciones-climaticas-inusuales-gracias-ia-1406159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pronostico-tiempo-windows-4227090.jpg?tf=1200x' alt='La aplicación de tiempo meteorológico de Microsoft te alertará de condiciones climáticas inusuales gracias a la IA' />
     </a>
 </div>
 
