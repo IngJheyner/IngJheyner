@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/banda-asaltaba-casas-punta-pistola-robar-criptomonedas-1406168'>La banda que asaltaba casas a punta de pistola para robar criptomonedas</a></h4>
+    <a href='https://computerhoy.com/criptos/banda-asaltaba-casas-punta-pistola-robar-criptomonedas-1406168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/banda-asaltaba-casas-punta-pistola-robar-criptomonedas-4228657.jpg?tf=1200x' alt='La banda que asaltaba casas a punta de pistola para robar criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ssd-externo-samsung-prueba-todo-oferta-flash-amazon-rozando-100-euros-1405987'>Este SSD externo de Samsung a prueba de todo, en oferta flash en Amazon rozando los 100 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/ssd-externo-samsung-prueba-todo-oferta-flash-amazon-rozando-100-euros-1405987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-t7-shield-4212784.jpg?tf=1200x' alt='Este SSD externo de Samsung a prueba de todo, en oferta flash en Amazon rozando los 100 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/smart-home-primeras-casas-inteligentes-como-empezar-conectar-hogar-1404965'>Qué es Smart Home, las primeras casas inteligentes y cómo empezar a conectar tu hogar</a></h4>
     <a href='https://computerhoy.com/hogar/smart-home-primeras-casas-inteligentes-como-empezar-conectar-hogar-1404965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/smart-home.jpg?tf=1200x' alt='Qué es Smart Home, las primeras casas inteligentes y cómo empezar a conectar tu hogar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-sigue-pensando-incluir-accesorio-linterna-futuro-apple-watch-1406131'>Apple sigue pensando en incluir un accesorio de linterna a un futuro Apple Watch</a></h4>
-    <a href='https://computerhoy.com/apple/apple-sigue-pensando-incluir-accesorio-linterna-futuro-apple-watch-1406131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/patente-apple-watch-4222059.jpg?tf=1200x' alt='Apple sigue pensando en incluir un accesorio de linterna a un futuro Apple Watch' />
     </a>
 </div>
 
