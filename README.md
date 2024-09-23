@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ni-iphone-9-ni-windows-9-fueron-ignorados-1406214'>Ni iPhone 9, ni Windows 9: ¿Por qué fueron ignorados?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ni-iphone-9-ni-windows-9-fueron-ignorados-1406214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ni-iphone-9-ni-windows-9-fueron-ignorados-4233621.jpg?tf=1200x' alt='Ni iPhone 9, ni Windows 9: ¿Por qué fueron ignorados?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/precio-sorprende-mucho-rival-china-gopro-4k-cuesta-cuatro-veces-menos-1406180'>Su precio sorprende un mucho: la rival china de la GoPro con 4K cuesta cuatro veces menos</a></h4>
     <a href='https://computerhoy.com/tecnologia/precio-sorprende-mucho-rival-china-gopro-4k-cuesta-cuatro-veces-menos-1406180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/akaso-ek7000-pro-4232811.jpg?tf=1200x' alt='Su precio sorprende un mucho: la rival china de la GoPro con 4K cuesta cuatro veces menos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/elon-musk-ha-puesto-fecha-primera-mision-tripulada-marte-spacex-1406196'>Elon Musk ha puesto fecha a la primera misión tripulada a Marte de SpaceX</a></h4>
     <a href='https://computerhoy.com/espacio/elon-musk-ha-puesto-fecha-primera-mision-tripulada-marte-spacex-1406196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/elon-musk-ha-puesto-fecha-primera-mision-tripulada-marte-spacex-4233120.jpg?tf=1200x' alt='Elon Musk ha puesto fecha a la primera misión tripulada a Marte de SpaceX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/renovacion-total-iphone-4-lucira-como-iphone-14-tendra-ia-pero-todo-tiene-coste-1406202'>Renovación total para el iPhone SE 4: lucirá como el iPhone 14 y tendrá IA, pero todo tiene un coste</a></h4>
-    <a href='https://computerhoy.com/apple/renovacion-total-iphone-4-lucira-como-iphone-14-tendra-ia-pero-todo-tiene-coste-1406202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656601.jpg?tf=1200x' alt='Renovación total para el iPhone SE 4: lucirá como el iPhone 14 y tendrá IA, pero todo tiene un coste' />
     </a>
 </div>
 
