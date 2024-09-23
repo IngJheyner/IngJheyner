@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/precio-sorprende-mucho-rival-china-gopro-4k-cuesta-cuatro-veces-menos-1406180'>Su precio sorprende un mucho: la rival china de la GoPro con 4K cuesta cuatro veces menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/precio-sorprende-mucho-rival-china-gopro-4k-cuesta-cuatro-veces-menos-1406180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/akaso-ek7000-pro-4232811.jpg?tf=1200x' alt='Su precio sorprende un mucho: la rival china de la GoPro con 4K cuesta cuatro veces menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/como-cuando-ver-espana-cometa-c-2023-a3-brillantes-ultimos-100-anos-1406222'>Cómo y cuándo ver desde España el cometa C/2023 A3, uno de los más brillantes de los últimos 100 años</a></h4>
+    <a href='https://computerhoy.com/espacio/como-cuando-ver-espana-cometa-c-2023-a3-brillantes-ultimos-100-anos-1406222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-cuando-ver-espana-cometa-c-2023-a3-brillantes-ultimos-100-anos-4233465.jpg?tf=1200x' alt='Cómo y cuándo ver desde España el cometa C/2023 A3, uno de los más brillantes de los últimos 100 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sustituira-ia-programadores-sundar-pichai-ceo-google-responde-1406205'>¿Sustituirá la IA a los programadores? Sundar Pichai, CEO de Google, responde</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sustituira-ia-programadores-sundar-pichai-ceo-google-responde-1406205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sundar-pichai-ceo-google-3209960.jpg?tf=1200x' alt='¿Sustituirá la IA a los programadores? Sundar Pichai, CEO de Google, responde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/elon-musk-ha-puesto-fecha-primera-mision-tripulada-marte-spacex-1406196'>Elon Musk ha puesto fecha a la primera misión tripulada a Marte de SpaceX</a></h4>
     <a href='https://computerhoy.com/espacio/elon-musk-ha-puesto-fecha-primera-mision-tripulada-marte-spacex-1406196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/elon-musk-ha-puesto-fecha-primera-mision-tripulada-marte-spacex-4233120.jpg?tf=1200x' alt='Elon Musk ha puesto fecha a la primera misión tripulada a Marte de SpaceX' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/renovacion-total-iphone-4-lucira-como-iphone-14-tendra-ia-pero-todo-tiene-coste-1406202'>Renovación total para el iPhone SE 4: lucirá como el iPhone 14 y tendrá IA, pero todo tiene un coste</a></h4>
     <a href='https://computerhoy.com/apple/renovacion-total-iphone-4-lucira-como-iphone-14-tendra-ia-pero-todo-tiene-coste-1406202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656601.jpg?tf=1200x' alt='Renovación total para el iPhone SE 4: lucirá como el iPhone 14 y tendrá IA, pero todo tiene un coste' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2024</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/diseno-oneplus-nord-4-3911446.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-16-llega-ia-pero-fans-apple-no-importa-estos-motivos-1406193'>El iPhone 16 llega sin IA, pero a los fans de Apple no les importa por estos motivos</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-16-llega-ia-pero-fans-apple-no-importa-estos-motivos-1406193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-4208319.jpg?tf=1200x' alt='El iPhone 16 llega sin IA, pero a los fans de Apple no les importa por estos motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-misterio-historia-netflix-1405659'>La puedes ver en Netflix, ganó un Oscar y es una de las mejores películas de misterio de la historia</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-misterio-historia-netflix-1405659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-gano-oscar-mejores-peliculas-misterio-historia-4199503.jpg?tf=1200x' alt='La puedes ver en Netflix, ganó un Oscar y es una de las mejores películas de misterio de la historia' />
     </a>
 </div>
 
