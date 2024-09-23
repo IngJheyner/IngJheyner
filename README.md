@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/wise-como-funciona-1404656'>Qué es Wise y cómo funciona</a></h4>
+    <a href='https://computerhoy.com/apps/wise-como-funciona-1404656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tarjeta-wise-4160307.jpg?tf=1200x' alt='Qué es Wise y cómo funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/funcion-deseada-google-maps-comienza-estar-disponible-android-auto-1406253'>La función más deseada de Google Maps comienza a estar disponible en Android Auto</a></h4>
+    <a href='https://computerhoy.com/motor/funcion-deseada-google-maps-comienza-estar-disponible-android-auto-1406253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/funcion-deseada-google-maps-comienza-estar-disponible-android-auto-4233953.jpg?tf=1200x' alt='La función más deseada de Google Maps comienza a estar disponible en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/amazon-rescate-lectores-ajetreados-no-te-da-tiempo-leer-regalan-30-dias-gratis-servicio-audiolibros-1406005'>Amazon al rescate de lectores ajetreados: si no te da tiempo a leer, regalan 30 días gratis de su servicio de audiolibros</a></h4>
     <a href='https://computerhoy.com/entretenimiento/amazon-rescate-lectores-ajetreados-no-te-da-tiempo-leer-regalan-30-dias-gratis-servicio-audiolibros-1406005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/audible-4212953.jpg?tf=1200x' alt='Amazon al rescate de lectores ajetreados: si no te da tiempo a leer, regalan 30 días gratis de su servicio de audiolibros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/increible-invento-instala-ventanas-mejorar-conexion-5g-1406286'>El increíble invento que se instala en las ventanas para mejorar la conexión 5G</a></h4>
     <a href='https://computerhoy.com/internet/increible-invento-instala-ventanas-mejorar-conexion-5g-1406286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/increible-invento-instala-ventanas-mejorar-conexion-5g-4234470.jpg?tf=1200x' alt='El increíble invento que se instala en las ventanas para mejorar la conexión 5G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/necesita-flipper-one-superar-flipper-zero-estas-son-mejoras-esperadas-1406235'>¿Qué necesita el Flipper One para superar al Flipper Zero? Estas son las mejoras más esperadas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/necesita-flipper-one-superar-flipper-zero-estas-son-mejoras-esperadas-1406235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-3588630.jpg?tf=1200x' alt='¿Qué necesita el Flipper One para superar al Flipper Zero? Estas son las mejoras más esperadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/motor/diferencias-clave-coche-hidrogeno-coche-gasolina-1156293'>Tres diferencias clave en el funcionamiento de un coche de hidrógeno y uno de gasolina</a></h4>
-    <a href='https://computerhoy.com/noticias/motor/diferencias-clave-coche-hidrogeno-coche-gasolina-1156293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hyundai-nexo-coche-hidrogeno-ya-vende-hyundai-espana-2860529.jpg?tf=1200x' alt='Tres diferencias clave en el funcionamiento de un coche de hidrógeno y uno de gasolina' />
     </a>
 </div>
 
