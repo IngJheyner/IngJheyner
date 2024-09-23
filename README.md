@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/genialidad-locura-extrana-pelicula-ciencia-ficcion-director-parasitos-protagoniza-robert-pattinson-1405838'>¿Genialidad o locura? Así es la extraña película de ciencia ficción del director de Parásitos que protagoniza Robert Pattinson</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/genialidad-locura-extrana-pelicula-ciencia-ficcion-director-parasitos-protagoniza-robert-pattinson-1405838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/genialidad-locura-extrana-pelicula-ciencia-ficcion-director-parasitos-protagoniza-robert-pattinson-4206526.jpg?tf=1200x' alt='¿Genialidad o locura? Así es la extraña película de ciencia ficción del director de Parásitos que protagoniza Robert Pattinson' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/smart-lock-android-como-convertir-casa-zona-segura-libre-contrasenas-1385710'>El genial truco de Android para no tener que utilizar el PIN de desbloqueo cuando estás en casa </a></h4>
+    <a href='https://computerhoy.com/tutoriales/smart-lock-android-como-convertir-casa-zona-segura-libre-contrasenas-1385710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-convertir-casa-zona-segura-libre-contrasenas-desbloqueo-3310875.jpg?tf=1200x' alt='El genial truco de Android para no tener que utilizar el PIN de desbloqueo cuando estás en casa ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/te-cuesta-escuchar-dialogos-netflix-smart-tv-solucionan-sencillo-ajuste-1406086'>¿Te cuesta escuchar los diálogos de Netflix en tu Smart TV? Se solucionan con este sencillo ajuste</a></h4>
+    <a href='https://computerhoy.com/tv/te-cuesta-escuchar-dialogos-netflix-smart-tv-solucionan-sencillo-ajuste-1406086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/te-cuesta-escuchar-dialogos-netflix-smart-tv-solucionan-sencillo-ajuste-4217179.jpg?tf=1200x' alt='¿Te cuesta escuchar los diálogos de Netflix en tu Smart TV? Se solucionan con este sencillo ajuste' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mucho-pensarlo-he-activado-llamado-modo-espia-whatsapp-no-me-arrepiento-1406329'>Tras mucho pensarlo he activado el llamado "modo espía" de WhatsApp, y no me arrepiento</a></h4>
+    <a href='https://computerhoy.com/apps/mucho-pensarlo-he-activado-llamado-modo-espia-whatsapp-no-me-arrepiento-1406329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mucho-pensarlo-he-activado-llamado-modo-espia-whatsapp-no-me-arrepiento-4236331.jpg?tf=1200x' alt='Tras mucho pensarlo he activado el llamado "modo espía" de WhatsApp, y no me arrepiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/lado-cara-papel-aluminio-correcto-759363'>Por qué un lado del papel de aluminio es mate y el otro brillante: ¿estás utilizando el lado equivocado? </a></h4>
     <a href='https://computerhoy.com/noticias/life/lado-cara-papel-aluminio-correcto-759363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/papel-aluminio-4234458.jpg?tf=1200x' alt='Por qué un lado del papel de aluminio es mate y el otro brillante: ¿estás utilizando el lado equivocado? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cosas-podrian-estar-provocando-cuellos-botella-pc-1405850'>Cosas que podrían estar provocando cuellos de botella en tu PC sin que te des cuenta</a></h4>
-    <a href='https://computerhoy.com/pc/cosas-podrian-estar-provocando-cuellos-botella-pc-1405850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pc-rendimiento-4215858.jpg?tf=1200x' alt='Cosas que podrían estar provocando cuellos de botella en tu PC sin que te des cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/truco-pajita-limpiar-movil-libre-polvo-1394636'>El truco de la pajita: así consigo mantener mi móvil libre de polvo, ojalá lo hubiera descubierto antes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/truco-pajita-limpiar-movil-libre-polvo-1394636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/truco-pajita-hack-definitivo-mantener-movil-impecable-libre-polvo-3685286.jpg?tf=1200x' alt='El truco de la pajita: así consigo mantener mi móvil libre de polvo, ojalá lo hubiera descubierto antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/como-mejorar-calidad-sonido-movil-android-incluso-auriculares-1405316'>Esta opción mejora la calidad de sonido de un móvil Android (incluso con auriculares), pero está oculta y no es nada fácil de localizar</a></h4>
-    <a href='https://computerhoy.com/android/como-mejorar-calidad-sonido-movil-android-incluso-auriculares-1405316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/opcion-mejora-calidad-sonido-movil-android-incluso-auriculares-pero-oculta-no-facil-localizar-4188506.jpg?tf=1200x' alt='Esta opción mejora la calidad de sonido de un móvil Android (incluso con auriculares), pero está oculta y no es nada fácil de localizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/por-que-steve-jobs-cambiaba-coche-mercedes-cada-seis-meses-matricula-1185170'>Steve Jobs compraba un nuevo Mercedes-Benz SL-Class cada seis meses, aunque lo único que le importaba era su matrícula </a></h4>
-    <a href='https://computerhoy.com/apple/por-que-steve-jobs-cambiaba-coche-mercedes-cada-seis-meses-matricula-1185170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/steve-jobs-cambiaba-coche-cada-6-meses-conducia-matricula-2929406.jpg?tf=1200x' alt='Steve Jobs compraba un nuevo Mercedes-Benz SL-Class cada seis meses, aunque lo único que le importaba era su matrícula ' />
     </a>
 </div>
 
