@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/lado-cara-papel-aluminio-correcto-759363'>Por qué un lado del papel de aluminio es mate y el otro brillante: ¿estás utilizando el lado equivocado? </a></h4>
+    <a href='https://computerhoy.com/noticias/life/lado-cara-papel-aluminio-correcto-759363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/papel-aluminio-4234458.jpg?tf=1200x' alt='Por qué un lado del papel de aluminio es mate y el otro brillante: ¿estás utilizando el lado equivocado? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/cosas-podrian-estar-provocando-cuellos-botella-pc-1405850'>Cosas que podrían estar provocando cuellos de botella en tu PC sin que te des cuenta</a></h4>
     <a href='https://computerhoy.com/pc/cosas-podrian-estar-provocando-cuellos-botella-pc-1405850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pc-rendimiento-4215858.jpg?tf=1200x' alt='Cosas que podrían estar provocando cuellos de botella en tu PC sin que te des cuenta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/por-que-steve-jobs-cambiaba-coche-mercedes-cada-seis-meses-matricula-1185170'>Steve Jobs compraba un nuevo Mercedes-Benz SL-Class cada seis meses, aunque lo único que le importaba era su matrícula </a></h4>
     <a href='https://computerhoy.com/apple/por-que-steve-jobs-cambiaba-coche-mercedes-cada-seis-meses-matricula-1185170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/steve-jobs-cambiaba-coche-cada-6-meses-conducia-matricula-2929406.jpg?tf=1200x' alt='Steve Jobs compraba un nuevo Mercedes-Benz SL-Class cada seis meses, aunque lo único que le importaba era su matrícula ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/puedes-convertir-instalacion-calefaccion-casa-red-ethernet-1405026'>Así puedes convertir la instalación de calefacción de tu casa en una red Ethernet</a></h4>
-    <a href='https://computerhoy.com/redes/puedes-convertir-instalacion-calefaccion-casa-red-ethernet-1405026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/puedes-convertir-instalacion-calefaccion-casa-red-ethernet-4167798.jpg?tf=1200x' alt='Así puedes convertir la instalación de calefacción de tu casa en una red Ethernet' />
     </a>
 </div>
 
