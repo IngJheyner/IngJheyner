@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/enigma-cientifico-descubren-conceptos-fisica-noche-estrellada-van-gogh-1406247'>Enigma científico: descubren conceptos de física en “La noche estrellada” de Van Gogh</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/enigma-cientifico-descubren-conceptos-fisica-noche-estrellada-van-gogh-1406247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cuadro-van-gogh-3240566.jpg?tf=1200x' alt='Enigma científico: descubren conceptos de física en “La noche estrellada” de Van Gogh' />
+    <h4><a href='https://computerhoy.com/criptos/bitcoin-btc-como-funciona-diferencia-otras-criptomonedas-evolucion-historica-riesgos-1402282'>Qué es Bitcoin (BTC): cómo funciona, diferencia con otras criptomonedas, evolución histórica y riesgos</a></h4>
+    <a href='https://computerhoy.com/criptos/bitcoin-btc-como-funciona-diferencia-otras-criptomonedas-evolucion-historica-riesgos-1402282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bitcoin-btc-criptomoneda-4049877.jpg?tf=1200x' alt='Qué es Bitcoin (BTC): cómo funciona, diferencia con otras criptomonedas, evolución histórica y riesgos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-activar-modo-profesor-ingles-alexa-todo-puedes-aprender-1406353'>Cómo activar el modo profesor de inglés de Alexa y todo lo que puedes aprender con él</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-activar-modo-profesor-ingles-alexa-todo-puedes-aprender-1406353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-activar-modo-profesor-ingles-alexa-todo-puedes-aprender-4236841.jpg?tf=1200x' alt='Cómo activar el modo profesor de inglés de Alexa y todo lo que puedes aprender con él' />
+    <h4><a href='https://computerhoy.com/gaming/todo-apunta-nintendo-switch-2-sera-bestia-autonomia-modo-portatil-1406377'>Todo apunta a que Nintendo Switch 2 será una bestia en autonomía en modo portátil</a></h4>
+    <a href='https://computerhoy.com/gaming/todo-apunta-nintendo-switch-2-sera-bestia-autonomia-modo-portatil-1406377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-switch-4237311.jpg?tf=1200x' alt='Todo apunta a que Nintendo Switch 2 será una bestia en autonomía en modo portátil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/genialidad-locura-extrana-pelicula-ciencia-ficcion-director-parasitos-protagoniza-robert-pattinson-1405838'>¿Genialidad o locura? Así es la extraña película de ciencia ficción del director de Parásitos que protagoniza Robert Pattinson</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/genialidad-locura-extrana-pelicula-ciencia-ficcion-director-parasitos-protagoniza-robert-pattinson-1405838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/genialidad-locura-extrana-pelicula-ciencia-ficcion-director-parasitos-protagoniza-robert-pattinson-4206526.jpg?tf=1200x' alt='¿Genialidad o locura? Así es la extraña película de ciencia ficción del director de Parásitos que protagoniza Robert Pattinson' />
+    <h4><a href='https://computerhoy.com/entretenimiento/critica-no-ha-tenido-compasion-ella-pero-nuevo-director-terminator-salvation-arrasando-netflix-1405225'>La crítica no ha tenido compasión con ella, pero lo nuevo del director Terminator Salvation está arrasando en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/critica-no-ha-tenido-compasion-ella-pero-nuevo-director-terminator-salvation-arrasando-netflix-1405225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/critica-no-ha-tenido-compasion-ella-pero-nuevo-director-terminator-salvation-arrasando-netflix-4184224.jpg?tf=1200x' alt='La crítica no ha tenido compasión con ella, pero lo nuevo del director Terminator Salvation está arrasando en Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/smart-lock-android-como-convertir-casa-zona-segura-libre-contrasenas-1385710'>El genial truco de Android para no tener que utilizar el PIN de desbloqueo cuando estás en casa </a></h4>
-    <a href='https://computerhoy.com/tutoriales/smart-lock-android-como-convertir-casa-zona-segura-libre-contrasenas-1385710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-convertir-casa-zona-segura-libre-contrasenas-desbloqueo-3310875.jpg?tf=1200x' alt='El genial truco de Android para no tener que utilizar el PIN de desbloqueo cuando estás en casa ' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-podras-bloquear-mensajes-contactos-desconocidos-android-1406376'>WhatsApp: podrás bloquear los mensajes de contactos desconocidos en Android</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-podras-bloquear-mensajes-contactos-desconocidos-android-1406376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-spam-4237155.jpg?tf=1200x' alt='WhatsApp: podrás bloquear los mensajes de contactos desconocidos en Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/te-cuesta-escuchar-dialogos-netflix-smart-tv-solucionan-sencillo-ajuste-1406086'>¿Te cuesta escuchar los diálogos de Netflix en tu Smart TV? Se solucionan con este sencillo ajuste</a></h4>
-    <a href='https://computerhoy.com/tv/te-cuesta-escuchar-dialogos-netflix-smart-tv-solucionan-sencillo-ajuste-1406086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/te-cuesta-escuchar-dialogos-netflix-smart-tv-solucionan-sencillo-ajuste-4217179.jpg?tf=1200x' alt='¿Te cuesta escuchar los diálogos de Netflix en tu Smart TV? Se solucionan con este sencillo ajuste' />
+    <h4><a href='https://computerhoy.com/life/logran-ganar-ig-nobel-demostrar-lanzamientos-monedas-no-son-50-50-1406374'>Logran ganar el IG Nobel por demostrar que los lanzamientos de monedas no son al 50/50</a></h4>
+    <a href='https://computerhoy.com/life/logran-ganar-ig-nobel-demostrar-lanzamientos-monedas-no-son-50-50-1406374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lanzamiento-moneda-4237151.jpg?tf=1200x' alt='Logran ganar el IG Nobel por demostrar que los lanzamientos de monedas no son al 50/50' />
     </a>
 </div>
 
