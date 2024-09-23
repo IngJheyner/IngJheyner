@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-da-golpe-rebaja-microsoft-365-nube-1399848'>Microsoft da el golpe: por 3,50€ al mes puedes tener todo Office 365 y hasta 1TB en la nube</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-da-golpe-rebaja-microsoft-365-nube-1399848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-365-3308242.jpg?tf=1200x' alt='Microsoft da el golpe: por 3,50€ al mes puedes tener todo Office 365 y hasta 1TB en la nube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/oppo-reno12-fs-5g-analisis-opiniones-1405806'>He probado el Oppo Reno12 FS 5G y he tenido un déjà vu de aquellos tiempos de los móviles con LED de notificaciones</a></h4>
+    <a href='https://computerhoy.com/analisis/oppo-reno12-fs-5g-analisis-opiniones-1405806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/oppo-reno12-fs-5g-analisis-opiniones-4214771.jpg?tf=1200x' alt='He probado el Oppo Reno12 FS 5G y he tenido un déjà vu de aquellos tiempos de los móviles con LED de notificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/windows/maneras-arreglar-ordenador-windows-atascado-modo-suspension-hibernacion-1149221'>6 maneras de arreglar un ordenador con Windows atascado en modo suspensión o hibernación</a></h4>
     <a href='https://computerhoy.com/tutoriales/windows/maneras-arreglar-ordenador-windows-atascado-modo-suspension-hibernacion-1149221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenador-hibernacion-2859609.jpg?tf=1200x' alt='6 maneras de arreglar un ordenador con Windows atascado en modo suspensión o hibernación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/atomo-presenta-cafe-sin-granos-cafe-1406173'>Atomo presenta el café sin granos de café</a></h4>
     <a href='https://computerhoy.com/alimentacion/atomo-presenta-cafe-sin-granos-cafe-1406173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/atomo-presenta-cafe-granos-cafe-4230381.jpg?tf=1200x' alt='Atomo presenta el café sin granos de café' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/baterias-silicio-carbono-diferencias-ion-litio-1406171'>Algunos móviles ya usan baterías de silicio-carbono: ¿En qué mejoran a las de ion de litio?</a></h4>
-    <a href='https://computerhoy.com/moviles/baterias-silicio-carbono-diferencias-ion-litio-1406171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/algunos-moviles-ya-usan-baterias-silicio-carbono-mejoran-ion-litio-4229774.jpg?tf=1200x' alt='Algunos móviles ya usan baterías de silicio-carbono: ¿En qué mejoran a las de ion de litio?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/twitter-ahora-x-origen-modalidades-suscripcion-herramientas-utiles-1397015'>Qué es Twitter (ahora X): origen, modalidades de suscripción y herramientas más útiles</a></h4>
-    <a href='https://computerhoy.com/apps/twitter-ahora-x-origen-modalidades-suscripcion-herramientas-utiles-1397015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/twitter-x-3111252.jpg?tf=1200x' alt='Qué es Twitter (ahora X): origen, modalidades de suscripción y herramientas más útiles' />
     </a>
 </div>
 
