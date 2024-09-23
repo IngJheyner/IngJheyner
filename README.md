@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/funcion-whatsapp-desactivar-evitar-muchas-estafas-1402112'>Desactiva esta función de WhatsApp y evitarás caer en muchas estafas (viene activada por defecto)</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/funcion-whatsapp-desactivar-evitar-muchas-estafas-1402112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/funcion-whatsapp-siempre-debes-desactivar-origen-muchas-estafas-4043216.jpg?tf=1200x' alt='Desactiva esta función de WhatsApp y evitarás caer en muchas estafas (viene activada por defecto)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-da-golpe-rebaja-microsoft-365-nube-1399848'>Microsoft da el golpe: por 3,50€ al mes puedes tener todo Office 365 y hasta 1TB en la nube</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-da-golpe-rebaja-microsoft-365-nube-1399848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-365-3308242.jpg?tf=1200x' alt='Microsoft da el golpe: por 3,50€ al mes puedes tener todo Office 365 y hasta 1TB en la nube' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazfit-quiere-ser-garmin-reloj-gps-doble-banda-alexa-1399782'>Amazfit quiere ser la nueva Garmin: vende un reloj GPS con doble banda y Alexa a un precio difícil de igualar</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazfit-quiere-ser-garmin-reloj-gps-doble-banda-alexa-1399782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cheetah-amazfit-round-3933147.jpg?tf=1200x' alt='Amazfit quiere ser la nueva Garmin: vende un reloj GPS con doble banda y Alexa a un precio difícil de igualar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/atomo-presenta-cafe-sin-granos-cafe-1406173'>Atomo presenta el café sin granos de café</a></h4>
-    <a href='https://computerhoy.com/alimentacion/atomo-presenta-cafe-sin-granos-cafe-1406173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/atomo-presenta-cafe-granos-cafe-4230381.jpg?tf=1200x' alt='Atomo presenta el café sin granos de café' />
     </a>
 </div>
 
