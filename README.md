@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-anade-12-ordenadores-lista-productos-vintage-obsoletos-1406384'>Apple añade 12 ordenadores Mac a la lista de productos vintage y obsoletos</a></h4>
+    <a href='https://computerhoy.com/apple/apple-anade-12-ordenadores-lista-productos-vintage-obsoletos-1406384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/macbook%20air.jpg?tf=1200x' alt='Apple añade 12 ordenadores Mac a la lista de productos vintage y obsoletos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/novedades-chromecast-google-tv-actualizacion-1406382'>Las novedades del Google TV Streamer 4K que llegan a tu viejo Chromecast</a></h4>
     <a href='https://computerhoy.com/tv/novedades-chromecast-google-tv-actualizacion-1406382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estas-son-novedades-google-tv-streamer-llegan-viejo-chromecast-4237153.jpg?tf=1200x' alt='Las novedades del Google TV Streamer 4K que llegan a tu viejo Chromecast' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/todo-apunta-nintendo-switch-2-sera-bestia-autonomia-modo-portatil-1406377'>Todo apunta a que Nintendo Switch 2 será una bestia en autonomía en modo portátil</a></h4>
     <a href='https://computerhoy.com/gaming/todo-apunta-nintendo-switch-2-sera-bestia-autonomia-modo-portatil-1406377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-switch-4237311.jpg?tf=1200x' alt='Todo apunta a que Nintendo Switch 2 será una bestia en autonomía en modo portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/critica-no-ha-tenido-compasion-ella-pero-nuevo-director-terminator-salvation-arrasando-netflix-1405225'>La crítica no ha tenido compasión con ella, pero lo nuevo del director Terminator Salvation está arrasando en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/critica-no-ha-tenido-compasion-ella-pero-nuevo-director-terminator-salvation-arrasando-netflix-1405225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/critica-no-ha-tenido-compasion-ella-pero-nuevo-director-terminator-salvation-arrasando-netflix-4184224.jpg?tf=1200x' alt='La crítica no ha tenido compasión con ella, pero lo nuevo del director Terminator Salvation está arrasando en Netflix' />
     </a>
 </div>
 
