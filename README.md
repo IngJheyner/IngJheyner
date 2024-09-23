@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/funcion-whatsapp-desactivar-evitar-muchas-estafas-1402112'>Desactiva esta función de WhatsApp y evitarás caer en muchas estafas (viene activada por defecto)</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/funcion-whatsapp-desactivar-evitar-muchas-estafas-1402112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/funcion-whatsapp-siempre-debes-desactivar-origen-muchas-estafas-4043216.jpg?tf=1200x' alt='Desactiva esta función de WhatsApp y evitarás caer en muchas estafas (viene activada por defecto)' />
+    <h4><a href='https://computerhoy.com/apple/renovacion-total-iphone-4-lucira-como-iphone-14-tendra-ia-pero-todo-tiene-coste-1406202'>Renovación total para el iPhone SE 4: lucirá como el iPhone 14 y tendrá IA, pero todo tiene un coste</a></h4>
+    <a href='https://computerhoy.com/apple/renovacion-total-iphone-4-lucira-como-iphone-14-tendra-ia-pero-todo-tiene-coste-1406202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656601.jpg?tf=1200x' alt='Renovación total para el iPhone SE 4: lucirá como el iPhone 14 y tendrá IA, pero todo tiene un coste' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-da-golpe-rebaja-microsoft-365-nube-1399848'>Microsoft da el golpe: por 3,50€ al mes puedes tener todo Office 365 y hasta 1TB en la nube</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-da-golpe-rebaja-microsoft-365-nube-1399848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-365-3308242.jpg?tf=1200x' alt='Microsoft da el golpe: por 3,50€ al mes puedes tener todo Office 365 y hasta 1TB en la nube' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2024</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/diseno-oneplus-nord-4-3911446.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/oppo-reno12-fs-5g-analisis-opiniones-1405806'>He probado el Oppo Reno12 FS 5G y he tenido un déjà vu de aquellos tiempos de los móviles con LED de notificaciones</a></h4>
-    <a href='https://computerhoy.com/analisis/oppo-reno12-fs-5g-analisis-opiniones-1405806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/oppo-reno12-fs-5g-analisis-opiniones-4214771.jpg?tf=1200x' alt='He probado el Oppo Reno12 FS 5G y he tenido un déjà vu de aquellos tiempos de los móviles con LED de notificaciones' />
+    <h4><a href='https://computerhoy.com/apple/iphone-16-llega-ia-pero-fans-apple-no-importa-estos-motivos-1406193'>El iPhone 16 llega sin IA, pero a los fans de Apple no les importa por estos motivos</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-16-llega-ia-pero-fans-apple-no-importa-estos-motivos-1406193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-4208319.jpg?tf=1200x' alt='El iPhone 16 llega sin IA, pero a los fans de Apple no les importa por estos motivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/windows/maneras-arreglar-ordenador-windows-atascado-modo-suspension-hibernacion-1149221'>6 maneras de arreglar un ordenador con Windows atascado en modo suspensión o hibernación</a></h4>
-    <a href='https://computerhoy.com/tutoriales/windows/maneras-arreglar-ordenador-windows-atascado-modo-suspension-hibernacion-1149221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenador-hibernacion-2859609.jpg?tf=1200x' alt='6 maneras de arreglar un ordenador con Windows atascado en modo suspensión o hibernación' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mezcla-ghost-shell-blade-runner-asimov-pelicula-animacion-francesa-rinde-culto-ciberpunk-1405345'>Es una mezcla de Ghost in the Shell, Blade Runner y hasta de Asimov: así es la película de animación francesa que rinde culto al ciberpunk</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mezcla-ghost-shell-blade-runner-asimov-pelicula-animacion-francesa-rinde-culto-ciberpunk-1405345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tiene-cosas-ghost-shell-blade-runner-asimov-pelicula-animacion-francesa-rinde-culto-ciberpunk-4190015.jpg?tf=1200x' alt='Es una mezcla de Ghost in the Shell, Blade Runner y hasta de Asimov: así es la película de animación francesa que rinde culto al ciberpunk' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazfit-quiere-ser-garmin-reloj-gps-doble-banda-alexa-1399782'>Amazfit quiere ser la nueva Garmin: vende un reloj GPS con doble banda y Alexa a un precio difícil de igualar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazfit-quiere-ser-garmin-reloj-gps-doble-banda-alexa-1399782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cheetah-amazfit-round-3933147.jpg?tf=1200x' alt='Amazfit quiere ser la nueva Garmin: vende un reloj GPS con doble banda y Alexa a un precio difícil de igualar' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-misterio-historia-netflix-1405659'>La puedes ver en Netflix, ganó un Oscar y es una de las mejores películas de misterio de la historia</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-misterio-historia-netflix-1405659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-gano-oscar-mejores-peliculas-misterio-historia-4199503.jpg?tf=1200x' alt='La puedes ver en Netflix, ganó un Oscar y es una de las mejores películas de misterio de la historia' />
     </a>
 </div>
 
