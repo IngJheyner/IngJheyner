@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/televisor-ve-mal-mejora-calidad-imagen-instante-desactivando-funcion-smart-tv-1406379'>¿Tu televisor se ve mal? Mejora la calidad de imagen al instante desactivando esta función en tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/televisor-ve-mal-mejora-calidad-imagen-instante-desactivando-funcion-smart-tv-1406379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/televisor-ve-mal-mejora-calidad-imagen-instante-desactivando-funcion-smart-tv-4237929.jpg?tf=1200x' alt='¿Tu televisor se ve mal? Mejora la calidad de imagen al instante desactivando esta función en tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-anade-12-ordenadores-lista-productos-vintage-obsoletos-1406384'>Apple añade 12 ordenadores Mac a la lista de productos vintage y obsoletos</a></h4>
     <a href='https://computerhoy.com/apple/apple-anade-12-ordenadores-lista-productos-vintage-obsoletos-1406384' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/macbook%20air.jpg?tf=1200x' alt='Apple añade 12 ordenadores Mac a la lista de productos vintage y obsoletos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/bitcoin-btc-como-funciona-diferencia-otras-criptomonedas-evolucion-historica-riesgos-1402282'>Qué es Bitcoin (BTC): cómo funciona, diferencia con otras criptomonedas, evolución histórica y riesgos</a></h4>
     <a href='https://computerhoy.com/criptos/bitcoin-btc-como-funciona-diferencia-otras-criptomonedas-evolucion-historica-riesgos-1402282' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bitcoin-btc-criptomoneda-4049877.jpg?tf=1200x' alt='Qué es Bitcoin (BTC): cómo funciona, diferencia con otras criptomonedas, evolución histórica y riesgos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/todo-apunta-nintendo-switch-2-sera-bestia-autonomia-modo-portatil-1406377'>Todo apunta a que Nintendo Switch 2 será una bestia en autonomía en modo portátil</a></h4>
-    <a href='https://computerhoy.com/gaming/todo-apunta-nintendo-switch-2-sera-bestia-autonomia-modo-portatil-1406377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-switch-4237311.jpg?tf=1200x' alt='Todo apunta a que Nintendo Switch 2 será una bestia en autonomía en modo portátil' />
     </a>
 </div>
 
