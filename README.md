@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/cosas-podrian-estar-provocando-cuellos-botella-pc-1405850'>Cosas que podrían estar provocando cuellos de botella en tu PC sin que te des cuenta</a></h4>
+    <a href='https://computerhoy.com/pc/cosas-podrian-estar-provocando-cuellos-botella-pc-1405850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pc-rendimiento-4215858.jpg?tf=1200x' alt='Cosas que podrían estar provocando cuellos de botella en tu PC sin que te des cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/truco-pajita-limpiar-movil-libre-polvo-1394636'>El truco de la pajita: así consigo mantener mi móvil libre de polvo, ojalá lo hubiera descubierto antes</a></h4>
     <a href='https://computerhoy.com/tecnologia/truco-pajita-limpiar-movil-libre-polvo-1394636' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/truco-pajita-hack-definitivo-mantener-movil-impecable-libre-polvo-3685286.jpg?tf=1200x' alt='El truco de la pajita: así consigo mantener mi móvil libre de polvo, ojalá lo hubiera descubierto antes' />
@@ -58,33 +66,25 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/como-mejorar-calidad-sonido-movil-android-incluso-auriculares-1405316'>Esta opción mejora la calidad de sonido de un móvil Android (incluso con auriculares), pero está oculta y no es nada fácil de localizar</a></h4>
+    <a href='https://computerhoy.com/android/como-mejorar-calidad-sonido-movil-android-incluso-auriculares-1405316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/opcion-mejora-calidad-sonido-movil-android-incluso-auriculares-pero-oculta-no-facil-localizar-4188506.jpg?tf=1200x' alt='Esta opción mejora la calidad de sonido de un móvil Android (incluso con auriculares), pero está oculta y no es nada fácil de localizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/por-que-steve-jobs-cambiaba-coche-mercedes-cada-seis-meses-matricula-1185170'>Steve Jobs compraba un nuevo Mercedes-Benz SL-Class cada seis meses, aunque lo único que le importaba era su matrícula </a></h4>
+    <a href='https://computerhoy.com/apple/por-que-steve-jobs-cambiaba-coche-mercedes-cada-seis-meses-matricula-1185170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/steve-jobs-cambiaba-coche-cada-6-meses-conducia-matricula-2929406.jpg?tf=1200x' alt='Steve Jobs compraba un nuevo Mercedes-Benz SL-Class cada seis meses, aunque lo único que le importaba era su matrícula ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/puedes-convertir-instalacion-calefaccion-casa-red-ethernet-1405026'>Así puedes convertir la instalación de calefacción de tu casa en una red Ethernet</a></h4>
     <a href='https://computerhoy.com/redes/puedes-convertir-instalacion-calefaccion-casa-red-ethernet-1405026' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/puedes-convertir-instalacion-calefaccion-casa-red-ethernet-4167798.jpg?tf=1200x' alt='Así puedes convertir la instalación de calefacción de tu casa en una red Ethernet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/menus-ocultos-codigos-secretos-smart-televisores-lg-1372122'>Códigos secretos de los televisores de LG que te permiten desbloquear los menús ocultos </a></h4>
-    <a href='https://computerhoy.com/tv/menus-ocultos-codigos-secretos-smart-televisores-lg-1372122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/menus-ocultos-codigos-secretos-smart-tv-lg-3287183.jpg?tf=1200x' alt='Códigos secretos de los televisores de LG que te permiten desbloquear los menús ocultos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-google-tv-streamer-4k-evolucion-chromecast-hace-deje-ser-accesorio-1406048'>He probado el Google TV Streamer 4K, la evolución del Chromecast que hace que deje de ser un accesorio</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-google-tv-streamer-4k-evolucion-chromecast-hace-deje-ser-accesorio-1406048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-streamer-4k-4234283.jpg?tf=1200x' alt='He probado el Google TV Streamer 4K, la evolución del Chromecast que hace que deje de ser un accesorio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-comparar-pc-cualquier-otro-mercado-1405518'>Cómo comparar tu PC con cualquier otro del mercado</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-comparar-pc-cualquier-otro-mercado-1405518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/comparativas-pc-4199662.jpg?tf=1200x' alt='Cómo comparar tu PC con cualquier otro del mercado' />
     </a>
 </div>
 
