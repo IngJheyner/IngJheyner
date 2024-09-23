@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/elon-musk-ha-puesto-fecha-primera-mision-tripulada-marte-spacex-1406196'>Elon Musk ha puesto fecha a la primera misión tripulada a Marte de SpaceX</a></h4>
+    <a href='https://computerhoy.com/espacio/elon-musk-ha-puesto-fecha-primera-mision-tripulada-marte-spacex-1406196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/elon-musk-ha-puesto-fecha-primera-mision-tripulada-marte-spacex-4233120.jpg?tf=1200x' alt='Elon Musk ha puesto fecha a la primera misión tripulada a Marte de SpaceX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/renovacion-total-iphone-4-lucira-como-iphone-14-tendra-ia-pero-todo-tiene-coste-1406202'>Renovación total para el iPhone SE 4: lucirá como el iPhone 14 y tendrá IA, pero todo tiene un coste</a></h4>
     <a href='https://computerhoy.com/apple/renovacion-total-iphone-4-lucira-como-iphone-14-tendra-ia-pero-todo-tiene-coste-1406202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656601.jpg?tf=1200x' alt='Renovación total para el iPhone SE 4: lucirá como el iPhone 14 y tendrá IA, pero todo tiene un coste' />
@@ -69,14 +77,6 @@
     <h4><a href='https://computerhoy.com/apple/iphone-16-llega-ia-pero-fans-apple-no-importa-estos-motivos-1406193'>El iPhone 16 llega sin IA, pero a los fans de Apple no les importa por estos motivos</a></h4>
     <a href='https://computerhoy.com/apple/iphone-16-llega-ia-pero-fans-apple-no-importa-estos-motivos-1406193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-4208319.jpg?tf=1200x' alt='El iPhone 16 llega sin IA, pero a los fans de Apple no les importa por estos motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mezcla-ghost-shell-blade-runner-asimov-pelicula-animacion-francesa-rinde-culto-ciberpunk-1405345'>Es una mezcla de Ghost in the Shell, Blade Runner y hasta de Asimov: así es la película de animación francesa que rinde culto al ciberpunk</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mezcla-ghost-shell-blade-runner-asimov-pelicula-animacion-francesa-rinde-culto-ciberpunk-1405345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tiene-cosas-ghost-shell-blade-runner-asimov-pelicula-animacion-francesa-rinde-culto-ciberpunk-4190015.jpg?tf=1200x' alt='Es una mezcla de Ghost in the Shell, Blade Runner y hasta de Asimov: así es la película de animación francesa que rinde culto al ciberpunk' />
     </a>
 </div>
 
