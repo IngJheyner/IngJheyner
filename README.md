@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/wise-como-funciona-1404656'>Qué es Wise y cómo funciona</a></h4>
-    <a href='https://computerhoy.com/apps/wise-como-funciona-1404656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tarjeta-wise-4160307.jpg?tf=1200x' alt='Qué es Wise y cómo funciona' />
+    <h4><a href='https://computerhoy.com/redes/puedes-convertir-instalacion-calefaccion-casa-red-ethernet-1405026'>Así puedes convertir la instalación de calefacción de tu casa en una red Ethernet</a></h4>
+    <a href='https://computerhoy.com/redes/puedes-convertir-instalacion-calefaccion-casa-red-ethernet-1405026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/puedes-convertir-instalacion-calefaccion-casa-red-ethernet-4167798.jpg?tf=1200x' alt='Así puedes convertir la instalación de calefacción de tu casa en una red Ethernet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/funcion-deseada-google-maps-comienza-estar-disponible-android-auto-1406253'>La función más deseada de Google Maps comienza a estar disponible en Android Auto</a></h4>
-    <a href='https://computerhoy.com/motor/funcion-deseada-google-maps-comienza-estar-disponible-android-auto-1406253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/funcion-deseada-google-maps-comienza-estar-disponible-android-auto-4233953.jpg?tf=1200x' alt='La función más deseada de Google Maps comienza a estar disponible en Android Auto' />
+    <h4><a href='https://computerhoy.com/tv/menus-ocultos-codigos-secretos-smart-televisores-lg-1372122'>Códigos secretos de los televisores de LG que te permiten desbloquear los menús ocultos </a></h4>
+    <a href='https://computerhoy.com/tv/menus-ocultos-codigos-secretos-smart-televisores-lg-1372122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/menus-ocultos-codigos-secretos-smart-tv-lg-3287183.jpg?tf=1200x' alt='Códigos secretos de los televisores de LG que te permiten desbloquear los menús ocultos ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/amazon-rescate-lectores-ajetreados-no-te-da-tiempo-leer-regalan-30-dias-gratis-servicio-audiolibros-1406005'>Amazon al rescate de lectores ajetreados: si no te da tiempo a leer, regalan 30 días gratis de su servicio de audiolibros</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/amazon-rescate-lectores-ajetreados-no-te-da-tiempo-leer-regalan-30-dias-gratis-servicio-audiolibros-1406005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/audible-4212953.jpg?tf=1200x' alt='Amazon al rescate de lectores ajetreados: si no te da tiempo a leer, regalan 30 días gratis de su servicio de audiolibros' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-google-tv-streamer-4k-evolucion-chromecast-hace-deje-ser-accesorio-1406048'>He probado el Google TV Streamer 4K, la evolución del Chromecast que hace que deje de ser un accesorio</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-google-tv-streamer-4k-evolucion-chromecast-hace-deje-ser-accesorio-1406048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-streamer-4k-4234283.jpg?tf=1200x' alt='He probado el Google TV Streamer 4K, la evolución del Chromecast que hace que deje de ser un accesorio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/increible-invento-instala-ventanas-mejorar-conexion-5g-1406286'>El increíble invento que se instala en las ventanas para mejorar la conexión 5G</a></h4>
-    <a href='https://computerhoy.com/internet/increible-invento-instala-ventanas-mejorar-conexion-5g-1406286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/increible-invento-instala-ventanas-mejorar-conexion-5g-4234470.jpg?tf=1200x' alt='El increíble invento que se instala en las ventanas para mejorar la conexión 5G' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-comparar-pc-cualquier-otro-mercado-1405518'>Cómo comparar tu PC con cualquier otro del mercado</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-comparar-pc-cualquier-otro-mercado-1405518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/comparativas-pc-4199662.jpg?tf=1200x' alt='Cómo comparar tu PC con cualquier otro del mercado' />
     </a>
 </div>
 
