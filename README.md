@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/windows/maneras-arreglar-ordenador-windows-atascado-modo-suspension-hibernacion-1149221'>6 maneras de arreglar un ordenador con Windows atascado en modo suspensión o hibernación</a></h4>
+    <a href='https://computerhoy.com/tutoriales/windows/maneras-arreglar-ordenador-windows-atascado-modo-suspension-hibernacion-1149221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/ordenador-hibernacion-2859609.jpg?tf=1200x' alt='6 maneras de arreglar un ordenador con Windows atascado en modo suspensión o hibernación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazfit-quiere-ser-garmin-reloj-gps-doble-banda-alexa-1399782'>Amazfit quiere ser la nueva Garmin: vende un reloj GPS con doble banda y Alexa a un precio difícil de igualar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazfit-quiere-ser-garmin-reloj-gps-doble-banda-alexa-1399782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cheetah-amazfit-round-3933147.jpg?tf=1200x' alt='Amazfit quiere ser la nueva Garmin: vende un reloj GPS con doble banda y Alexa a un precio difícil de igualar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/atomo-presenta-cafe-sin-granos-cafe-1406173'>Atomo presenta el café sin granos de café</a></h4>
     <a href='https://computerhoy.com/alimentacion/atomo-presenta-cafe-sin-granos-cafe-1406173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/atomo-presenta-cafe-granos-cafe-4230381.jpg?tf=1200x' alt='Atomo presenta el café sin granos de café' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/twitter-ahora-x-origen-modalidades-suscripcion-herramientas-utiles-1397015'>Qué es Twitter (ahora X): origen, modalidades de suscripción y herramientas más útiles</a></h4>
     <a href='https://computerhoy.com/apps/twitter-ahora-x-origen-modalidades-suscripcion-herramientas-utiles-1397015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/twitter-x-3111252.jpg?tf=1200x' alt='Qué es Twitter (ahora X): origen, modalidades de suscripción y herramientas más útiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-rastrea-exito-delincuentes-red-tor-1406170'>El anonimato no existe: la policía rastrea con éxito a delincuentes en la red Tor</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-rastrea-exito-delincuentes-red-tor-1406170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/anonimato-no-existe-policia-rastrea-exito-delincuentes-red-tor-4229133.jpg?tf=1200x' alt='El anonimato no existe: la policía rastrea con éxito a delincuentes en la red Tor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/banda-asaltaba-casas-punta-pistola-robar-criptomonedas-1406168'>La banda que asaltaba casas a punta de pistola para robar criptomonedas</a></h4>
-    <a href='https://computerhoy.com/criptos/banda-asaltaba-casas-punta-pistola-robar-criptomonedas-1406168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/banda-asaltaba-casas-punta-pistola-robar-criptomonedas-4228657.jpg?tf=1200x' alt='La banda que asaltaba casas a punta de pistola para robar criptomonedas' />
     </a>
 </div>
 
