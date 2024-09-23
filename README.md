@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/novedades-chromecast-google-tv-actualizacion-1406382'>Las novedades del Google TV Streamer 4K que llegan a tu viejo Chromecast</a></h4>
+    <a href='https://computerhoy.com/tv/novedades-chromecast-google-tv-actualizacion-1406382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estas-son-novedades-google-tv-streamer-llegan-viejo-chromecast-4237153.jpg?tf=1200x' alt='Las novedades del Google TV Streamer 4K que llegan a tu viejo Chromecast' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-sirve-nada-desfragmentar-discos-ssd-puedes-hacer-lograr-mismo-efecto-1406370'>Por qué no sirve para nada desfragmentar los discos SSD y que puedes hacer para lograr el mismo efecto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-sirve-nada-desfragmentar-discos-ssd-puedes-hacer-lograr-mismo-efecto-1406370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/no-sirve-nada-desfragmentar-discos-ssd-puedes-hacer-lograr-mismo-efecto-4237465.jpg?tf=1200x' alt='Por qué no sirve para nada desfragmentar los discos SSD y que puedes hacer para lograr el mismo efecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/bitcoin-btc-como-funciona-diferencia-otras-criptomonedas-evolucion-historica-riesgos-1402282'>Qué es Bitcoin (BTC): cómo funciona, diferencia con otras criptomonedas, evolución histórica y riesgos</a></h4>
     <a href='https://computerhoy.com/criptos/bitcoin-btc-como-funciona-diferencia-otras-criptomonedas-evolucion-historica-riesgos-1402282' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bitcoin-btc-criptomoneda-4049877.jpg?tf=1200x' alt='Qué es Bitcoin (BTC): cómo funciona, diferencia con otras criptomonedas, evolución histórica y riesgos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/critica-no-ha-tenido-compasion-ella-pero-nuevo-director-terminator-salvation-arrasando-netflix-1405225'>La crítica no ha tenido compasión con ella, pero lo nuevo del director Terminator Salvation está arrasando en Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/critica-no-ha-tenido-compasion-ella-pero-nuevo-director-terminator-salvation-arrasando-netflix-1405225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/critica-no-ha-tenido-compasion-ella-pero-nuevo-director-terminator-salvation-arrasando-netflix-4184224.jpg?tf=1200x' alt='La crítica no ha tenido compasión con ella, pero lo nuevo del director Terminator Salvation está arrasando en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-podras-bloquear-mensajes-contactos-desconocidos-android-1406376'>WhatsApp: podrás bloquear los mensajes de contactos desconocidos en Android</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-podras-bloquear-mensajes-contactos-desconocidos-android-1406376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-spam-4237155.jpg?tf=1200x' alt='WhatsApp: podrás bloquear los mensajes de contactos desconocidos en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/logran-ganar-ig-nobel-demostrar-lanzamientos-monedas-no-son-50-50-1406374'>Logran ganar el IG Nobel por demostrar que los lanzamientos de monedas no son al 50/50</a></h4>
-    <a href='https://computerhoy.com/life/logran-ganar-ig-nobel-demostrar-lanzamientos-monedas-no-son-50-50-1406374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lanzamiento-moneda-4237151.jpg?tf=1200x' alt='Logran ganar el IG Nobel por demostrar que los lanzamientos de monedas no son al 50/50' />
     </a>
 </div>
 
