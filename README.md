@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/enigma-cientifico-descubren-conceptos-fisica-noche-estrellada-van-gogh-1406247'>Enigma científico: descubren conceptos de física en “La noche estrellada” de Van Gogh</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/enigma-cientifico-descubren-conceptos-fisica-noche-estrellada-van-gogh-1406247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cuadro-van-gogh-3240566.jpg?tf=1200x' alt='Enigma científico: descubren conceptos de física en “La noche estrellada” de Van Gogh' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-activar-modo-profesor-ingles-alexa-todo-puedes-aprender-1406353'>Cómo activar el modo profesor de inglés de Alexa y todo lo que puedes aprender con él</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-activar-modo-profesor-ingles-alexa-todo-puedes-aprender-1406353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-activar-modo-profesor-ingles-alexa-todo-puedes-aprender-4236841.jpg?tf=1200x' alt='Cómo activar el modo profesor de inglés de Alexa y todo lo que puedes aprender con él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/genialidad-locura-extrana-pelicula-ciencia-ficcion-director-parasitos-protagoniza-robert-pattinson-1405838'>¿Genialidad o locura? Así es la extraña película de ciencia ficción del director de Parásitos que protagoniza Robert Pattinson</a></h4>
     <a href='https://computerhoy.com/entretenimiento/genialidad-locura-extrana-pelicula-ciencia-ficcion-director-parasitos-protagoniza-robert-pattinson-1405838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/genialidad-locura-extrana-pelicula-ciencia-ficcion-director-parasitos-protagoniza-robert-pattinson-4206526.jpg?tf=1200x' alt='¿Genialidad o locura? Así es la extraña película de ciencia ficción del director de Parásitos que protagoniza Robert Pattinson' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/te-cuesta-escuchar-dialogos-netflix-smart-tv-solucionan-sencillo-ajuste-1406086'>¿Te cuesta escuchar los diálogos de Netflix en tu Smart TV? Se solucionan con este sencillo ajuste</a></h4>
     <a href='https://computerhoy.com/tv/te-cuesta-escuchar-dialogos-netflix-smart-tv-solucionan-sencillo-ajuste-1406086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/te-cuesta-escuchar-dialogos-netflix-smart-tv-solucionan-sencillo-ajuste-4217179.jpg?tf=1200x' alt='¿Te cuesta escuchar los diálogos de Netflix en tu Smart TV? Se solucionan con este sencillo ajuste' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mucho-pensarlo-he-activado-llamado-modo-espia-whatsapp-no-me-arrepiento-1406329'>Tras mucho pensarlo he activado el llamado "modo espía" de WhatsApp, y no me arrepiento</a></h4>
-    <a href='https://computerhoy.com/apps/mucho-pensarlo-he-activado-llamado-modo-espia-whatsapp-no-me-arrepiento-1406329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mucho-pensarlo-he-activado-llamado-modo-espia-whatsapp-no-me-arrepiento-4236331.jpg?tf=1200x' alt='Tras mucho pensarlo he activado el llamado "modo espía" de WhatsApp, y no me arrepiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lado-cara-papel-aluminio-correcto-759363'>Por qué un lado del papel de aluminio es mate y el otro brillante: ¿estás utilizando el lado equivocado? </a></h4>
-    <a href='https://computerhoy.com/noticias/life/lado-cara-papel-aluminio-correcto-759363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/papel-aluminio-4234458.jpg?tf=1200x' alt='Por qué un lado del papel de aluminio es mate y el otro brillante: ¿estás utilizando el lado equivocado? ' />
     </a>
 </div>
 
