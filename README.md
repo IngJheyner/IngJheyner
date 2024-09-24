@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/oficialmente-trabajo-cansa-estudio-1406040'>Este es oficialmente el trabajo que más cansa, según un estudio</a></h4>
+    <a href='https://computerhoy.com/life/oficialmente-trabajo-cansa-estudio-1406040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/oficialmente-trabajo-cansa-estudio-4213941.jpg?tf=1200x' alt='Este es oficialmente el trabajo que más cansa, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/debes-hacer-quieres-mantener-racha-duolingo-1404578'>Esto es lo que debes hacer si quieres mantener tu racha en Duolingo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/debes-hacer-quieres-mantener-racha-duolingo-1404578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/racha-duolingo-4149562.jpg?tf=1200x' alt='Esto es lo que debes hacer si quieres mantener tu racha en Duolingo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-prueba-espana-ya-permite-pagar-compartir-cuentas-plan-estandar-anuncios-1406655'>Netflix prueba con España y ya permite pagar por compartir cuentas en el plan estándar con anuncios </a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-prueba-espana-ya-permite-pagar-compartir-cuentas-plan-estandar-anuncios-1406655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-4113798.jpg?tf=1200x' alt='Netflix prueba con España y ya permite pagar por compartir cuentas en el plan estándar con anuncios ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/realidad-salvajada-posible-lavar-componentes-pc-agua-jabon-1405807'>Realidad o salvajada: ¿es posible lavar los componentes de tu PC con agua y jabón?</a></h4>
     <a href='https://computerhoy.com/tecnologia/realidad-salvajada-posible-lavar-componentes-pc-agua-jabon-1405807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/placa-base-4205913.jpg?tf=1200x' alt='Realidad o salvajada: ¿es posible lavar los componentes de tu PC con agua y jabón?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guerra-precios-macbook-air-m3-pccomponentes-rebaja-220-euros-amazon-iguala-1406340'>Guerra de precios en el MacBook Air M3: PcComponentes lo rebaja 220 euros y Amazon iguala</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guerra-precios-macbook-air-m3-pccomponentes-rebaja-220-euros-amazon-iguala-1406340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/macbook-air-3245410.jpg?tf=1200x' alt='Guerra de precios en el MacBook Air M3: PcComponentes lo rebaja 220 euros y Amazon iguala' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cuando-llegara-espana-ios-18-apple-intelligence-1406603'>¿Cuándo llegará a España iOS 18 con Apple Intelligence?</a></h4>
-    <a href='https://computerhoy.com/apple/cuando-llegara-espana-ios-18-apple-intelligence-1406603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cuando-llegara-espana-ios-18-apple-intelligence-4240964.jpg?tf=1200x' alt='¿Cuándo llegará a España iOS 18 con Apple Intelligence?' />
     </a>
 </div>
 
