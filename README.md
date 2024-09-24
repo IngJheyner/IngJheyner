@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-apuesta-todo-ciencia-ficcion-anuncia-alternativa-asiatica-black-mirror-1405805'>Netflix lo apuesta todo a la ciencia ficción, y anuncia una alternativa asiática a Black Mirror</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-apuesta-todo-ciencia-ficcion-anuncia-alternativa-asiatica-black-mirror-1405805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-apuesta-todo-ciencia-ficcion-anuncia-alternativa-asiatica-black-mirror-4205606.jpg?tf=1200x' alt='Netflix lo apuesta todo a la ciencia ficción, y anuncia una alternativa asiática a Black Mirror' />
+    <h4><a href='https://computerhoy.com/zori-os-distro-linux-parecido-windows-1405852'>Zorin OS: la distro de Linux perfecta para los que se resisten a abandonar Windows</a></h4>
+    <a href='https://computerhoy.com/zori-os-distro-linux-parecido-windows-1405852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/zorin-os-como-windows-4213461.jpg?tf=1200x' alt='Zorin OS: la distro de Linux perfecta para los que se resisten a abandonar Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/padre-construye-mano-300-juguetes-hija-olvide-movil-tablet-1406393'>Un padre construye a mano 300 juguetes, para que su hija se olvide del móvil y la tablet</a></h4>
-    <a href='https://computerhoy.com/moviles/padre-construye-mano-300-juguetes-hija-olvide-movil-tablet-1406393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/padre-construye-mano-300-juguetes-hija-olvide-movil-tablet-4238548.jpg?tf=1200x' alt='Un padre construye a mano 300 juguetes, para que su hija se olvide del móvil y la tablet' />
+    <h4><a href='https://computerhoy.com/android/firestick-tiene-rival-china-android-mas-barato-1397568'>Los Firestick tienen rival: viene de China, con Android y por 17 euros</a></h4>
+    <a href='https://computerhoy.com/android/firestick-tiene-rival-china-android-mas-barato-1397568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stick-android-14-tv98-h618-3818282.jpg?tf=1200x' alt='Los Firestick tienen rival: viene de China, con Android y por 17 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bateria-sodio-azufre-fabricada-espana-mejora-autonomia-litio-barata-1406258'>Una batería de sodio y azufre fabricada en España mejora la autonomía de las de litio y es más barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bateria-sodio-azufre-fabricada-espana-mejora-autonomia-litio-barata-1406258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bateria-sodio-azufre-fabricada-espana-podria-acabar-litio-4234287.jpg?tf=1200x' alt='Una batería de sodio y azufre fabricada en España mejora la autonomía de las de litio y es más barata' />
+    <h4><a href='https://computerhoy.com/tecnologia/pantalones-motorizados-senderismo-mo-go-1406396'>Con estos pantalones motorizados para senderismo te mueves como si pesases 14 Kilos menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pantalones-motorizados-senderismo-mo-go-1406396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estos-pantalones-motorizados-te-permiten-moverte-como-pesases-14-kilos-menos-4239946.jpg?tf=1200x' alt='Con estos pantalones motorizados para senderismo te mueves como si pesases 14 Kilos menos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/lugar-casa-jamas-colocar-router-wifi-1172342'>Nunca coloques el router WiFi en este lugar de casa</a></h4>
-    <a href='https://computerhoy.com/internet/lugar-casa-jamas-colocar-router-wifi-1172342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/router-2905910.jpg?tf=1200x' alt='Nunca coloques el router WiFi en este lugar de casa' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-huawei-watch-gt-5-pro-no-tengo-dudas-segundo-ano-consecutivo-mejor-smartwatch-momento-1405879'>He probado el Huawei Watch GT 5 Pro y no tengo dudas, por segundo año consecutivo es el mejor smartwatch del momento</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-huawei-watch-gt-5-pro-no-tengo-dudas-segundo-ano-consecutivo-mejor-smartwatch-momento-1405879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-watch-gt-5-pro-4226624.jpg?tf=1200x' alt='He probado el Huawei Watch GT 5 Pro y no tengo dudas, por segundo año consecutivo es el mejor smartwatch del momento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-rebaja-televisor-qled-xiaomi-precio-outlet-1268438'>Animalada de precio: Amazon deja un TV 4K de Xiaomi con panel QLED a precio de outlet</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-rebaja-televisor-qled-xiaomi-precio-outlet-1268438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-tv-2025-xiaomi-tv-pro-2025-3302328.jpg?tf=1200x' alt='Animalada de precio: Amazon deja un TV 4K de Xiaomi con panel QLED a precio de outlet' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-microsoft-whiteboard-crear-anotar-ideas-equipo-1405521'>Cómo usar Microsoft Whiteboard para crear y anotar ideas con tu equipo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-microsoft-whiteboard-crear-anotar-ideas-equipo-1405521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/microsoft-whiteboard-dibujar-4207900.jpg?tf=1200x' alt='Cómo usar Microsoft Whiteboard para crear y anotar ideas con tu equipo' />
     </a>
 </div>
 
