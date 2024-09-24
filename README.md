@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/franquicias-taquilleras-historia-pero-nuevo-estreno-no-ha-podido-bitelchus-bitelchus-1406557'>Es una de las franquicias más taquilleras de la historia, pero su nuevo estreno no ha podido con Bitelchús Bitelchús</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/franquicias-taquilleras-historia-pero-nuevo-estreno-no-ha-podido-bitelchus-bitelchus-1406557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-solo-bitelchus-5-peliculas-miticas-80-tambien-merecen-secuela-3762459.jpg?tf=1200x' alt='Es una de las franquicias más taquilleras de la historia, pero su nuevo estreno no ha podido con Bitelchús Bitelchús' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/blockchain-como-funciona-tecnologia-conoce-bitcoin-1403220'>Blockchain, qué es y cómo funciona esta tecnología que se conoce por el Bitcoin</a></h4>
+    <a href='https://computerhoy.com/tecnologia/blockchain-como-funciona-tecnologia-conoce-bitcoin-1403220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tecnologia-blockchain-4097807.jpg?tf=1200x' alt='Blockchain, qué es y cómo funciona esta tecnología que se conoce por el Bitcoin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/antivirus-kaspersky-sustituido-ultraav-1406785'>Millones de usuarios del antivirus Kaspersky, sobresaltados porque ha sido sustituido por UltraAV</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/antivirus-kaspersky-sustituido-ultraav-1406785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/antivirus-rusos-kaspersky-abandonan-estados-unidos-ofreciendo-regalo-muy-extrano-3777507.jpg?tf=1200x' alt='Millones de usuarios del antivirus Kaspersky, sobresaltados porque ha sido sustituido por UltraAV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/olvidada-pelicula-basada-novela-stephen-king-critica-adora-it-cementerio-animales-puedes-ver-prime-video-1406248'>La olvidada película basada en una novela de Stephen King que la crítica adora más que It o Cementerio de animales, y puedes ver en Prime Video</a></h4>
     <a href='https://computerhoy.com/entretenimiento/olvidada-pelicula-basada-novela-stephen-king-critica-adora-it-cementerio-animales-puedes-ver-prime-video-1406248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/olvidada-pelicula-basada-stephen-king-critica-adora-it-cementerio-animales-puedes-ver-prime-video-4233794.jpg?tf=1200x' alt='La olvidada película basada en una novela de Stephen King que la crítica adora más que It o Cementerio de animales, y puedes ver en Prime Video' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ciencia-ha-decidido-mejor-app-tiempo-precisa-llevar-movil-1406747'>La ciencia ha decidido: esta es la mejor app del tiempo, la más precisa, para llevar en el móvil</a></h4>
     <a href='https://computerhoy.com/apps/ciencia-ha-decidido-mejor-app-tiempo-precisa-llevar-movil-1406747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ciencia-ha-decidido-mejor-app-tiempo-precisa-llevar-movil-4241282.jpg?tf=1200x' alt='La ciencia ha decidido: esta es la mejor app del tiempo, la más precisa, para llevar en el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-129-ya-disponible-todos-como-actualizar-ya-novedades-incluye-1406778'>Android Auto 12.9 ya disponible para todos: cómo actualizar ya y qué novedades incluye</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-129-ya-disponible-todos-como-actualizar-ya-novedades-incluye-1406778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-auto-129-4241287.jpg?tf=1200x' alt='Android Auto 12.9 ya disponible para todos: cómo actualizar ya y qué novedades incluye' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/trilogia-dolar-peliculas-cambiaron-vida-clint-eastwood-revolucionaron-western-1406323'>La trilogía del dólar, las películas que cambiaron la vida de Clint Eastwood y revolucionaron el western</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/trilogia-dolar-peliculas-cambiaron-vida-clint-eastwood-revolucionaron-western-1406323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/trilogia-dolar-peliculas-cambiaron-vida-clint-eastwood-revolucionaron-western-4235592.jpg?tf=1200x' alt='La trilogía del dólar, las películas que cambiaron la vida de Clint Eastwood y revolucionaron el western' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-15-acabara-fin-martirio-notificaciones-movil-1406775'>Android 15 acabará por fin con el martirio de las notificaciones en el móvil</a></h4>
-    <a href='https://computerhoy.com/android/android-15-acabara-fin-martirio-notificaciones-movil-1406775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/notificaciones-android-4241286.jpg?tf=1200x' alt='Android 15 acabará por fin con el martirio de las notificaciones en el móvil' />
     </a>
 </div>
 
