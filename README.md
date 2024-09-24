@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/primeros-recuerdos-olvida-persona-alzheimer-1305816'>Esto es lo primero que olvida una persona con alzhéimer </a></h4>
+    <a href='https://computerhoy.com/life/primeros-recuerdos-olvida-persona-alzheimer-1305816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/primero-olvida-persona-alzheimer-3136316.jpg?tf=1200x' alt='Esto es lo primero que olvida una persona con alzhéimer ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/televisor-ve-mal-mejora-calidad-imagen-instante-desactivando-funcion-smart-tv-1406379'>¿Tu televisor se ve mal? Mejora la calidad de imagen al instante desactivando esta función en tu Smart TV</a></h4>
     <a href='https://computerhoy.com/tv/televisor-ve-mal-mejora-calidad-imagen-instante-desactivando-funcion-smart-tv-1406379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/televisor-ve-mal-mejora-calidad-imagen-instante-desactivando-funcion-smart-tv-4237929.jpg?tf=1200x' alt='¿Tu televisor se ve mal? Mejora la calidad de imagen al instante desactivando esta función en tu Smart TV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-sirve-nada-desfragmentar-discos-ssd-puedes-hacer-lograr-mismo-efecto-1406370'>Por qué no sirve para nada desfragmentar los discos SSD y que puedes hacer para lograr el mismo efecto</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-sirve-nada-desfragmentar-discos-ssd-puedes-hacer-lograr-mismo-efecto-1406370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/no-sirve-nada-desfragmentar-discos-ssd-puedes-hacer-lograr-mismo-efecto-4237465.jpg?tf=1200x' alt='Por qué no sirve para nada desfragmentar los discos SSD y que puedes hacer para lograr el mismo efecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/bitcoin-btc-como-funciona-diferencia-otras-criptomonedas-evolucion-historica-riesgos-1402282'>Qué es Bitcoin (BTC): cómo funciona, diferencia con otras criptomonedas, evolución histórica y riesgos</a></h4>
-    <a href='https://computerhoy.com/criptos/bitcoin-btc-como-funciona-diferencia-otras-criptomonedas-evolucion-historica-riesgos-1402282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/bitcoin-btc-criptomoneda-4049877.jpg?tf=1200x' alt='Qué es Bitcoin (BTC): cómo funciona, diferencia con otras criptomonedas, evolución histórica y riesgos' />
     </a>
 </div>
 
