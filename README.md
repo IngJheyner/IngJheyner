@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nintendo-usa-ia-denunciar-imagenes-personajes-creadas-ia-1406803'>Nintendo usa una IA para denunciar las imágenes de sus personajes creadas con IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nintendo-usa-ia-denunciar-imagenes-personajes-creadas-ia-1406803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mario-luigi-conexion-fraternal-3575661.jpg?tf=1200x' alt='Nintendo usa una IA para denunciar las imágenes de sus personajes creadas con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/app-sistema-windows-ralentizando-pc-sepas-seguramente-no-estes-utilizando-1406777'>Esta app de sistema de Windows está ralentizando tu PC sin que lo sepas (y seguramente no la estés utilizando)</a></h4>
+    <a href='https://computerhoy.com/windows/app-sistema-windows-ralentizando-pc-sepas-seguramente-no-estes-utilizando-1406777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/app-sistema-windows-ralentizando-pc-sepas-seguramente-no-estes-utilizando-4241307.jpg?tf=1200x' alt='Esta app de sistema de Windows está ralentizando tu PC sin que lo sepas (y seguramente no la estés utilizando)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-nuevo-tipo-madera-midwood-propiedades-sorprendentes-1406331'>Científicos descubren un nuevo tipo de madera “midwood” con propiedades sorprendentes</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-descubren-nuevo-tipo-madera-midwood-propiedades-sorprendentes-1406331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cientificos-descubren-nuevo-tipo-madera-midwood-propiedades-sorprendentes-4235644.jpg?tf=1200x' alt='Científicos descubren un nuevo tipo de madera “midwood” con propiedades sorprendentes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/franquicias-taquilleras-historia-pero-nuevo-estreno-no-ha-podido-bitelchus-bitelchus-1406557'>Es una de las franquicias más taquilleras de la historia, pero su nuevo estreno no ha podido con Bitelchús Bitelchús</a></h4>
     <a href='https://computerhoy.com/entretenimiento/franquicias-taquilleras-historia-pero-nuevo-estreno-no-ha-podido-bitelchus-bitelchus-1406557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-solo-bitelchus-5-peliculas-miticas-80-tambien-merecen-secuela-3762459.jpg?tf=1200x' alt='Es una de las franquicias más taquilleras de la historia, pero su nuevo estreno no ha podido con Bitelchús Bitelchús' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/blockchain-como-funciona-tecnologia-conoce-bitcoin-1403220'>Blockchain, qué es y cómo funciona esta tecnología que se conoce por el Bitcoin</a></h4>
-    <a href='https://computerhoy.com/tecnologia/blockchain-como-funciona-tecnologia-conoce-bitcoin-1403220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tecnologia-blockchain-4097807.jpg?tf=1200x' alt='Blockchain, qué es y cómo funciona esta tecnología que se conoce por el Bitcoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/antivirus-kaspersky-sustituido-ultraav-1406785'>Millones de usuarios del antivirus Kaspersky, sobresaltados porque ha sido sustituido por UltraAV</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/antivirus-kaspersky-sustituido-ultraav-1406785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/antivirus-rusos-kaspersky-abandonan-estados-unidos-ofreciendo-regalo-muy-extrano-3777507.jpg?tf=1200x' alt='Millones de usuarios del antivirus Kaspersky, sobresaltados porque ha sido sustituido por UltraAV' />
     </a>
 </div>
 
