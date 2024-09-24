@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-sexto-sentido-ni-senales-pelicula-m-night-shyamalan-divide-fans-puedes-verla-netflix-1406657'>Ni El sexto sentido ni Señales: esta es la película de M. Night Shyamalan que divide a sus fans, y puedes verla en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-sexto-sentido-ni-senales-pelicula-m-night-shyamalan-divide-fans-puedes-verla-netflix-1406657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/visita-4241126.jpg?tf=1200x' alt='Ni El sexto sentido ni Señales: esta es la película de M. Night Shyamalan que divide a sus fans, y puedes verla en Netflix' />
+    <h4><a href='https://computerhoy.com/entretenimiento/olvidada-pelicula-basada-novela-stephen-king-critica-adora-it-cementerio-animales-puedes-ver-prime-video-1406248'>La olvidada película basada en una novela de Stephen King que la crítica adora más que It o Cementerio de animales, y puedes ver en Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/olvidada-pelicula-basada-novela-stephen-king-critica-adora-it-cementerio-animales-puedes-ver-prime-video-1406248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/olvidada-pelicula-basada-stephen-king-critica-adora-it-cementerio-animales-puedes-ver-prime-video-4233794.jpg?tf=1200x' alt='La olvidada película basada en una novela de Stephen King que la crítica adora más que It o Cementerio de animales, y puedes ver en Prime Video' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/metodo-triangulo-expertos-lenguaje-corporal-saber-alguien-miente-1145705'>El método del triángulo de los expertos en lenguaje corporal para conocer al instante si alguien te está mintiendo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/metodo-triangulo-expertos-lenguaje-corporal-saber-alguien-miente-1145705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/eres-persona-insoportable-no-te-has-dado-cuenta-test-medico-te-ayuda-descubrirlo-2691539.jpg?tf=1200x' alt='El método del triángulo de los expertos en lenguaje corporal para conocer al instante si alguien te está mintiendo' />
+    <h4><a href='https://computerhoy.com/apps/ciencia-ha-decidido-mejor-app-tiempo-precisa-llevar-movil-1406747'>La ciencia ha decidido: esta es la mejor app del tiempo, la más precisa, para llevar en el móvil</a></h4>
+    <a href='https://computerhoy.com/apps/ciencia-ha-decidido-mejor-app-tiempo-precisa-llevar-movil-1406747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ciencia-ha-decidido-mejor-app-tiempo-precisa-llevar-movil-4241282.jpg?tf=1200x' alt='La ciencia ha decidido: esta es la mejor app del tiempo, la más precisa, para llevar en el móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-coche-compatible-android-auto-1404072'>Cómo saber si tu coche es compatible con Android Auto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-coche-compatible-android-auto-1404072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/he-probado-muchas-lugar-duda-mejor-app-android-auto-youtube-tdt-gratis-3659901.jpg?tf=1200x' alt='Cómo saber si tu coche es compatible con Android Auto' />
+    <h4><a href='https://computerhoy.com/apps/android-auto-129-ya-disponible-todos-como-actualizar-ya-novedades-incluye-1406778'>Android Auto 12.9 ya disponible para todos: cómo actualizar ya y qué novedades incluye</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-129-ya-disponible-todos-como-actualizar-ya-novedades-incluye-1406778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-auto-129-4241287.jpg?tf=1200x' alt='Android Auto 12.9 ya disponible para todos: cómo actualizar ya y qué novedades incluye' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/no-otro-mejor-momento-dia-cargar-movil-1406726'>Es este, y no otro, el mejor momento del día para cargar el móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/no-otro-mejor-momento-dia-cargar-movil-1406726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/no-otro-mejor-momento-dia-cargar-movil-4241245.jpg?tf=1200x' alt='Es este, y no otro, el mejor momento del día para cargar el móvil' />
+    <h4><a href='https://computerhoy.com/entretenimiento/trilogia-dolar-peliculas-cambiaron-vida-clint-eastwood-revolucionaron-western-1406323'>La trilogía del dólar, las películas que cambiaron la vida de Clint Eastwood y revolucionaron el western</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/trilogia-dolar-peliculas-cambiaron-vida-clint-eastwood-revolucionaron-western-1406323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/trilogia-dolar-peliculas-cambiaron-vida-clint-eastwood-revolucionaron-western-4235592.jpg?tf=1200x' alt='La trilogía del dólar, las películas que cambiaron la vida de Clint Eastwood y revolucionaron el western' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-tensorflow-raspberry-pi-1403959'>Cómo instalar TensorFlow en Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-tensorflow-raspberry-pi-1403959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/raspberry-pi-tensorflow-4130961.jpg?tf=1200x' alt='Cómo instalar TensorFlow en Raspberry Pi' />
+    <h4><a href='https://computerhoy.com/android/android-15-acabara-fin-martirio-notificaciones-movil-1406775'>Android 15 acabará por fin con el martirio de las notificaciones en el móvil</a></h4>
+    <a href='https://computerhoy.com/android/android-15-acabara-fin-martirio-notificaciones-movil-1406775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/notificaciones-android-4241286.jpg?tf=1200x' alt='Android 15 acabará por fin con el martirio de las notificaciones en el móvil' />
     </a>
 </div>
 
