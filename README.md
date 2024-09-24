@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/fin-pesadilla-fecha-google-maps-waze-funcionaran-tuneles-m-30-1406623'>Fin a la pesadilla: desde esta fecha Google Maps y Waze funcionarán en los túneles de la M-30</a></h4>
+    <a href='https://computerhoy.com/apps/fin-pesadilla-fecha-google-maps-waze-funcionaran-tuneles-m-30-1406623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fin-pesadilla-fecha-google-maps-waze-funcionaran-tuneles-m-30-4241041.jpg?tf=1200x' alt='Fin a la pesadilla: desde esta fecha Google Maps y Waze funcionarán en los túneles de la M-30' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/11-aplicaciones-usabamos-todos-windows-hoy-dia-no-1165286'>11 aplicaciones que usábamos todos en Windows y hoy día no</a></h4>
+    <a href='https://computerhoy.com/tecnologia/11-aplicaciones-usabamos-todos-windows-hoy-dia-no-1165286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/disco-flexible-desparecido-2892972.jpg?tf=1200x' alt='11 aplicaciones que usábamos todos en Windows y hoy día no' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/telegram-cede-entregara-numeros-telefono-direcciones-ip-policia-pide-1406562'>Telegram cede y entregará números de teléfono y direcciones IP a la policía si lo pide</a></h4>
     <a href='https://computerhoy.com/apps/telegram-cede-entregara-numeros-telefono-direcciones-ip-policia-pide-1406562' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/telegram-pavel-durov-3590991.jpg?tf=1200x' alt='Telegram cede y entregará números de teléfono y direcciones IP a la policía si lo pide' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/ordenan-google-desinstale-forma-remota-aplicacion-iptv-moviles-android-1406571'>Ordenan a Google que desinstale de forma remota esta aplicación IPTV de los móviles Android</a></h4>
     <a href='https://computerhoy.com/google/ordenan-google-desinstale-forma-remota-aplicacion-iptv-moviles-android-1406571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ordenan-google-desinstale-forma-remota-aplicacion-iptv-moviles-android-4240920.jpg?tf=1200x' alt='Ordenan a Google que desinstale de forma remota esta aplicación IPTV de los móviles Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/ni-poco-ni-oneplus-nord-gama-media-potente-recomendado-1403452'>Ni OnePlus Nord ni Poco, este es el gama media potente que más me ha gustado en mucho tiempo</a></h4>
-    <a href='https://computerhoy.com/moviles/ni-poco-ni-oneplus-nord-gama-media-potente-recomendado-1403452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nothing-phone-2a-plus-4100225.jpg?tf=1200x' alt='Ni OnePlus Nord ni Poco, este es el gama media potente que más me ha gustado en mucho tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oled-tandem-funciona-evolucion-pantallas-oled-quiere-usar-apple-ipad-pro-1406554'>OLED Tándem, así funciona la evolución de las pantallas OLED que ha usado Apple en el iPad Pro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oled-tandem-funciona-evolucion-pantallas-oled-quiere-usar-apple-ipad-pro-1406554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389285.jpg?tf=1200x' alt='OLED Tándem, así funciona la evolución de las pantallas OLED que ha usado Apple en el iPad Pro' />
     </a>
 </div>
 
