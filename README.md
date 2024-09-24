@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-nuevo-tipo-madera-midwood-propiedades-sorprendentes-1406331'>Científicos descubren un nuevo tipo de madera “midwood” con propiedades sorprendentes</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-descubren-nuevo-tipo-madera-midwood-propiedades-sorprendentes-1406331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cientificos-descubren-nuevo-tipo-madera-midwood-propiedades-sorprendentes-4235644.jpg?tf=1200x' alt='Científicos descubren un nuevo tipo de madera “midwood” con propiedades sorprendentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ser-odiado-oficina-triunfar-fiestas-razon-powerpoint-arrasa-ahora-noche-jovenes-1406307'>De ser odiado en la oficina a triunfar en las fiestas: la razón por la que el PowerPoint arrasa ahora en la noche de los jóvenes</a></h4>
+    <a href='https://computerhoy.com/life/ser-odiado-oficina-triunfar-fiestas-razon-powerpoint-arrasa-ahora-noche-jovenes-1406307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ser-odiado-oficina-triunfar-fiestas-razon-powerpoint-arrasa-ahora-noche-jovenes-4235119.jpg?tf=1200x' alt='De ser odiado en la oficina a triunfar en las fiestas: la razón por la que el PowerPoint arrasa ahora en la noche de los jóvenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/franquicias-taquilleras-historia-pero-nuevo-estreno-no-ha-podido-bitelchus-bitelchus-1406557'>Es una de las franquicias más taquilleras de la historia, pero su nuevo estreno no ha podido con Bitelchús Bitelchús</a></h4>
     <a href='https://computerhoy.com/entretenimiento/franquicias-taquilleras-historia-pero-nuevo-estreno-no-ha-podido-bitelchus-bitelchus-1406557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-solo-bitelchus-5-peliculas-miticas-80-tambien-merecen-secuela-3762459.jpg?tf=1200x' alt='Es una de las franquicias más taquilleras de la historia, pero su nuevo estreno no ha podido con Bitelchús Bitelchús' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/antivirus-kaspersky-sustituido-ultraav-1406785'>Millones de usuarios del antivirus Kaspersky, sobresaltados porque ha sido sustituido por UltraAV</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/antivirus-kaspersky-sustituido-ultraav-1406785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/antivirus-rusos-kaspersky-abandonan-estados-unidos-ofreciendo-regalo-muy-extrano-3777507.jpg?tf=1200x' alt='Millones de usuarios del antivirus Kaspersky, sobresaltados porque ha sido sustituido por UltraAV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/olvidada-pelicula-basada-novela-stephen-king-critica-adora-it-cementerio-animales-puedes-ver-prime-video-1406248'>La olvidada película basada en una novela de Stephen King que la crítica adora más que It o Cementerio de animales, y puedes ver en Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/olvidada-pelicula-basada-novela-stephen-king-critica-adora-it-cementerio-animales-puedes-ver-prime-video-1406248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/olvidada-pelicula-basada-stephen-king-critica-adora-it-cementerio-animales-puedes-ver-prime-video-4233794.jpg?tf=1200x' alt='La olvidada película basada en una novela de Stephen King que la crítica adora más que It o Cementerio de animales, y puedes ver en Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ciencia-ha-decidido-mejor-app-tiempo-precisa-llevar-movil-1406747'>La ciencia ha decidido: esta es la mejor app del tiempo, la más precisa, para llevar en el móvil</a></h4>
-    <a href='https://computerhoy.com/apps/ciencia-ha-decidido-mejor-app-tiempo-precisa-llevar-movil-1406747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ciencia-ha-decidido-mejor-app-tiempo-precisa-llevar-movil-4241282.jpg?tf=1200x' alt='La ciencia ha decidido: esta es la mejor app del tiempo, la más precisa, para llevar en el móvil' />
     </a>
 </div>
 
