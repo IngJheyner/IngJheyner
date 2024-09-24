@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/fin-pesadilla-fecha-google-maps-waze-funcionaran-tuneles-m-30-1406623'>Fin a la pesadilla: desde esta fecha Google Maps y Waze funcionarán en los túneles de la M-30</a></h4>
-    <a href='https://computerhoy.com/apps/fin-pesadilla-fecha-google-maps-waze-funcionaran-tuneles-m-30-1406623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fin-pesadilla-fecha-google-maps-waze-funcionaran-tuneles-m-30-4241041.jpg?tf=1200x' alt='Fin a la pesadilla: desde esta fecha Google Maps y Waze funcionarán en los túneles de la M-30' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-prueba-espana-ya-permite-pagar-compartir-cuentas-plan-estandar-anuncios-1406655'>Netflix prueba con España y ya permite pagar por compartir cuentas en el plan estándar con anuncios </a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-prueba-espana-ya-permite-pagar-compartir-cuentas-plan-estandar-anuncios-1406655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-4113798.jpg?tf=1200x' alt='Netflix prueba con España y ya permite pagar por compartir cuentas en el plan estándar con anuncios ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/11-aplicaciones-usabamos-todos-windows-hoy-dia-no-1165286'>11 aplicaciones que usábamos todos en Windows y hoy día no</a></h4>
-    <a href='https://computerhoy.com/tecnologia/11-aplicaciones-usabamos-todos-windows-hoy-dia-no-1165286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/disco-flexible-desparecido-2892972.jpg?tf=1200x' alt='11 aplicaciones que usábamos todos en Windows y hoy día no' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-nothing-ear-open-auriculares-abiertos-parecian-buena-idea-usas-1406190'>He probado los Nothing Ear (Open), los auriculares abiertos perfectos para deportistas que destacan por su peculiar y cómodo diseño</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-nothing-ear-open-auriculares-abiertos-parecian-buena-idea-usas-1406190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nothing-ear-open-4233295.jpg?tf=1200x' alt='He probado los Nothing Ear (Open), los auriculares abiertos perfectos para deportistas que destacan por su peculiar y cómodo diseño' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-cede-entregara-numeros-telefono-direcciones-ip-policia-pide-1406562'>Telegram cede y entregará números de teléfono y direcciones IP a la policía si lo pide</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-cede-entregara-numeros-telefono-direcciones-ip-policia-pide-1406562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/telegram-pavel-durov-3590991.jpg?tf=1200x' alt='Telegram cede y entregará números de teléfono y direcciones IP a la policía si lo pide' />
+    <h4><a href='https://computerhoy.com/tecnologia/realidad-salvajada-posible-lavar-componentes-pc-agua-jabon-1405807'>Realidad o salvajada: ¿es posible lavar los componentes de tu PC con agua y jabón?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/realidad-salvajada-posible-lavar-componentes-pc-agua-jabon-1405807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/placa-base-4205913.jpg?tf=1200x' alt='Realidad o salvajada: ¿es posible lavar los componentes de tu PC con agua y jabón?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-lia-rebaja-robot-aspirador-superventas-menos-100-euros-1406287'>Amazon la lía: rebaja un robot aspirador superventas a menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-lia-rebaja-robot-aspirador-superventas-menos-100-euros-1406287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lefant-m210-pro-4234625.jpg?tf=1200x' alt='Amazon la lía: rebaja un robot aspirador superventas a menos de 100 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/guerra-precios-macbook-air-m3-pccomponentes-rebaja-220-euros-amazon-iguala-1406340'>Guerra de precios en el MacBook Air M3: PcComponentes lo rebaja 220 euros y Amazon iguala</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guerra-precios-macbook-air-m3-pccomponentes-rebaja-220-euros-amazon-iguala-1406340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/macbook-air-3245410.jpg?tf=1200x' alt='Guerra de precios en el MacBook Air M3: PcComponentes lo rebaja 220 euros y Amazon iguala' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ordenan-google-desinstale-forma-remota-aplicacion-iptv-moviles-android-1406571'>Ordenan a Google que desinstale de forma remota esta aplicación IPTV de los móviles Android</a></h4>
-    <a href='https://computerhoy.com/google/ordenan-google-desinstale-forma-remota-aplicacion-iptv-moviles-android-1406571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ordenan-google-desinstale-forma-remota-aplicacion-iptv-moviles-android-4240920.jpg?tf=1200x' alt='Ordenan a Google que desinstale de forma remota esta aplicación IPTV de los móviles Android' />
+    <h4><a href='https://computerhoy.com/apple/cuando-llegara-espana-ios-18-apple-intelligence-1406603'>¿Cuándo llegará a España iOS 18 con Apple Intelligence?</a></h4>
+    <a href='https://computerhoy.com/apple/cuando-llegara-espana-ios-18-apple-intelligence-1406603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cuando-llegara-espana-ios-18-apple-intelligence-4240964.jpg?tf=1200x' alt='¿Cuándo llegará a España iOS 18 con Apple Intelligence?' />
     </a>
 </div>
 
