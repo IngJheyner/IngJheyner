@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oled-tandem-funciona-evolucion-pantallas-oled-quiere-usar-apple-ipad-pro-1406554'>OLED Tándem, así funciona la evolución de las pantallas OLED que quiere usar Apple en el iPad Pro</a></h4>
+    <h4><a href='https://computerhoy.com/apps/telegram-cede-entregara-numeros-telefono-direcciones-ip-policia-pide-1406562'>Telegram cede y entregará números de teléfono y direcciones IP a la policía si lo pide</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-cede-entregara-numeros-telefono-direcciones-ip-policia-pide-1406562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/telegram-pavel-durov-3590991.jpg?tf=1200x' alt='Telegram cede y entregará números de teléfono y direcciones IP a la policía si lo pide' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-lia-rebaja-robot-aspirador-superventas-menos-100-euros-1406287'>Amazon la lía: rebaja un robot aspirador superventas a menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-lia-rebaja-robot-aspirador-superventas-menos-100-euros-1406287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lefant-m210-pro-4234625.jpg?tf=1200x' alt='Amazon la lía: rebaja un robot aspirador superventas a menos de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/ordenan-google-desinstale-forma-remota-aplicacion-iptv-moviles-android-1406571'>Ordenan a Google que desinstale de forma remota esta aplicación IPTV de los móviles Android</a></h4>
+    <a href='https://computerhoy.com/google/ordenan-google-desinstale-forma-remota-aplicacion-iptv-moviles-android-1406571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ordenan-google-desinstale-forma-remota-aplicacion-iptv-moviles-android-4240920.jpg?tf=1200x' alt='Ordenan a Google que desinstale de forma remota esta aplicación IPTV de los móviles Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/ni-poco-ni-oneplus-nord-gama-media-potente-recomendado-1403452'>Ni OnePlus Nord ni Poco, este es el gama media potente que más me ha gustado en mucho tiempo</a></h4>
+    <a href='https://computerhoy.com/moviles/ni-poco-ni-oneplus-nord-gama-media-potente-recomendado-1403452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nothing-phone-2a-plus-4100225.jpg?tf=1200x' alt='Ni OnePlus Nord ni Poco, este es el gama media potente que más me ha gustado en mucho tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oled-tandem-funciona-evolucion-pantallas-oled-quiere-usar-apple-ipad-pro-1406554'>OLED Tándem, así funciona la evolución de las pantallas OLED que ha usado Apple en el iPad Pro</a></h4>
     <a href='https://computerhoy.com/tecnologia/oled-tandem-funciona-evolucion-pantallas-oled-quiere-usar-apple-ipad-pro-1406554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389285.jpg?tf=1200x' alt='OLED Tándem, así funciona la evolución de las pantallas OLED que quiere usar Apple en el iPad Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/elon-musk-ha-anunciado-cambios-x-usuarios-bloqueados-podran-ver-publicaciones-1406449'>Elon Musk ha anunciado cambios para X: los usuarios bloqueados podrán ver tus publicaciones</a></h4>
-    <a href='https://computerhoy.com/redes/elon-musk-ha-anunciado-cambios-x-usuarios-bloqueados-podran-ver-publicaciones-1406449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/elon-musk-ha-anunciado-cambios-x-usuarios-bloqueados-podran-ver-publicaciones-4240735.jpg?tf=1200x' alt='Elon Musk ha anunciado cambios para X: los usuarios bloqueados podrán ver tus publicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-hay-chollo-apple-watch-ultra-barato-series-10-aunque-hay-letra-pequena-1406183'>Ya hay chollo en el Apple Watch Ultra, que está más barato que el Series 10, aunque hay letra pequeña</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-hay-chollo-apple-watch-ultra-barato-series-10-aunque-hay-letra-pequena-1406183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-3086888.jpg?tf=1200x' alt='Ya hay chollo en el Apple Watch Ultra, que está más barato que el Series 10, aunque hay letra pequeña' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google-fotos-hace-editar-videos-sea-facil-nunca-estas-herramientas-ia-1406523'>Google Fotos hace que editar vídeos sea más fácil que nunca con estas herramientas con IA</a></h4>
-    <a href='https://computerhoy.com/google-fotos-hace-editar-videos-sea-facil-nunca-estas-herramientas-ia-1406523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-fotos-4127106.jpg?tf=1200x' alt='Google Fotos hace que editar vídeos sea más fácil que nunca con estas herramientas con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-posible-tengamos-superinteligencia-pocos-miles-dias-1406418'>Sam Altman, CEO de OpenAI: "Es posible que tengamos superinteligencia en unos pocos miles de días"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-posible-tengamos-superinteligencia-pocos-miles-dias-1406418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sam-altman-director-ejecutivo-openai-durante-reciente-wwdc-2024-apple-3506848.jpg?tf=1200x' alt='Sam Altman, CEO de OpenAI: "Es posible que tengamos superinteligencia en unos pocos miles de días"' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389285.jpg?tf=1200x' alt='OLED Tándem, así funciona la evolución de las pantallas OLED que ha usado Apple en el iPad Pro' />
     </a>
 </div>
 
