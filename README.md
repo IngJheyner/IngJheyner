@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/480-hz-refresco-panel-oled-son-dos-monitores-gaming-sony-cuestan-1350-euros-1406560'>Hasta 480 Hz de refresco y panel OLED, así son los dos monitores gaming de Sony que cuestan hasta 1.350 euros</a></h4>
-    <a href='https://computerhoy.com/gaming/480-hz-refresco-panel-oled-son-dos-monitores-gaming-sony-cuestan-1350-euros-1406560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sony-inzone-m10s-4241220.jpg?tf=1200x' alt='Hasta 480 Hz de refresco y panel OLED, así son los dos monitores gaming de Sony que cuestan hasta 1.350 euros' />
+    <h4><a href='https://computerhoy.com/moviles/no-otro-mejor-momento-dia-cargar-movil-1406726'>Es este, y no otro, el mejor momento del día para cargar el móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/no-otro-mejor-momento-dia-cargar-movil-1406726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/no-otro-mejor-momento-dia-cargar-movil-4241245.jpg?tf=1200x' alt='Es este, y no otro, el mejor momento del día para cargar el móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-prueba-espana-ya-permite-pagar-compartir-cuentas-plan-estandar-anuncios-1406655'>Netflix incorpora un test para España que permite añadir usuarios extra con anuncios por menos dinero</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-prueba-espana-ya-permite-pagar-compartir-cuentas-plan-estandar-anuncios-1406655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-4113798.jpg?tf=1200x' alt='Netflix incorpora un test para España que permite añadir usuarios extra con anuncios por menos dinero' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-tensorflow-raspberry-pi-1403959'>Cómo instalar TensorFlow en Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-tensorflow-raspberry-pi-1403959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/raspberry-pi-tensorflow-4130961.jpg?tf=1200x' alt='Cómo instalar TensorFlow en Raspberry Pi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/albert-einstein-steve-jobs-handicap-desarrollar-potencial-1156499'>Albert Einstein y Steve Jobs compartieron un hándicap y superarlo les ayudó a desarrollar todo su potencial</a></h4>
-    <a href='https://computerhoy.com/noticias/life/albert-einstein-steve-jobs-handicap-desarrollar-potencial-1156499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-albert-einstein-2873385.jpg?tf=1200x' alt='Albert Einstein y Steve Jobs compartieron un hándicap y superarlo les ayudó a desarrollar todo su potencial' />
+    <h4><a href='https://computerhoy.com/noticias/life/lista-mapa-pueblos-bonitos-espana-por-provincia-1155725'>Este es el mapa de los 50 pueblos más bonitos de España, uno por cada provincia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/lista-mapa-pueblos-bonitos-espana-por-provincia-1155725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mapa-espana-pueblos-bonitos-3320439.jpg?tf=1200x' alt='Este es el mapa de los 50 pueblos más bonitos de España, uno por cada provincia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/cuales-son-modos-exclusivos-cocina-guiada-thermomix-tm6-1406204'>Cuáles son los modos exclusivos de cocina guiada en Thermomix TM6</a></h4>
-    <a href='https://computerhoy.com/hogar/cuales-son-modos-exclusivos-cocina-guiada-thermomix-tm6-1406204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/thermomix-tm6_5.jpg?tf=1200x' alt='Cuáles son los modos exclusivos de cocina guiada en Thermomix TM6' />
+    <h4><a href='https://computerhoy.com/tecnologia/potente-todo-barato-portatil-presume-ryzen-7-apenas-400-euros-1406245'>Potente y sobre todo barato: este portátil presume de Ryzen 7 por apenas 400 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/potente-todo-barato-portatil-presume-ryzen-7-apenas-400-euros-1406245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/acer-aspire-3-3220718.jpg?tf=1200x' alt='Potente y sobre todo barato: este portátil presume de Ryzen 7 por apenas 400 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/infalible-activa-modo-gallego-acabar-llamadas-spam-robollamadas-1406656'>Es infalible: activa tu “modo gallego” para acabar con las llamadas spam y las robollamadas</a></h4>
-    <a href='https://computerhoy.com/moviles/infalible-activa-modo-gallego-acabar-llamadas-spam-robollamadas-1406656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/llamadas-spam-modo-gallego-4241150.jpg?tf=1200x' alt='Es infalible: activa tu “modo gallego” para acabar con las llamadas spam y las robollamadas' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuanto-tiempo-puedes-suspender-fibra-digi-1405974'>¿Cuánto tiempo puedes suspender tu fibra con DIGI?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuanto-tiempo-puedes-suspender-fibra-digi-1405974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/digi-3436208.jpg?tf=1200x' alt='¿Cuánto tiempo puedes suspender tu fibra con DIGI?' />
     </a>
 </div>
 
