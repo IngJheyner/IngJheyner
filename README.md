@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-sexto-sentido-ni-senales-pelicula-m-night-shyamalan-divide-fans-puedes-verla-netflix-1406657'>Ni El sexto sentido ni Señales: esta es la película de M. Night Shyamalan que divide a sus fans, y puedes verla en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-sexto-sentido-ni-senales-pelicula-m-night-shyamalan-divide-fans-puedes-verla-netflix-1406657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/visita-4241126.jpg?tf=1200x' alt='Ni El sexto sentido ni Señales: esta es la película de M. Night Shyamalan que divide a sus fans, y puedes verla en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/metodo-triangulo-expertos-lenguaje-corporal-saber-alguien-miente-1145705'>El método del triángulo de los expertos en lenguaje corporal para conocer al instante si alguien te está mintiendo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/metodo-triangulo-expertos-lenguaje-corporal-saber-alguien-miente-1145705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/eres-persona-insoportable-no-te-has-dado-cuenta-test-medico-te-ayuda-descubrirlo-2691539.jpg?tf=1200x' alt='El método del triángulo de los expertos en lenguaje corporal para conocer al instante si alguien te está mintiendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-coche-compatible-android-auto-1404072'>Cómo saber si tu coche es compatible con Android Auto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-coche-compatible-android-auto-1404072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/he-probado-muchas-lugar-duda-mejor-app-android-auto-youtube-tdt-gratis-3659901.jpg?tf=1200x' alt='Cómo saber si tu coche es compatible con Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/no-otro-mejor-momento-dia-cargar-movil-1406726'>Es este, y no otro, el mejor momento del día para cargar el móvil</a></h4>
     <a href='https://computerhoy.com/moviles/no-otro-mejor-momento-dia-cargar-movil-1406726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/no-otro-mejor-momento-dia-cargar-movil-4241245.jpg?tf=1200x' alt='Es este, y no otro, el mejor momento del día para cargar el móvil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-tensorflow-raspberry-pi-1403959'>Cómo instalar TensorFlow en Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-tensorflow-raspberry-pi-1403959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/raspberry-pi-tensorflow-4130961.jpg?tf=1200x' alt='Cómo instalar TensorFlow en Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/lista-mapa-pueblos-bonitos-espana-por-provincia-1155725'>Este es el mapa de los 50 pueblos más bonitos de España, uno por cada provincia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/lista-mapa-pueblos-bonitos-espana-por-provincia-1155725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mapa-espana-pueblos-bonitos-3320439.jpg?tf=1200x' alt='Este es el mapa de los 50 pueblos más bonitos de España, uno por cada provincia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/potente-todo-barato-portatil-presume-ryzen-7-apenas-400-euros-1406245'>Potente y sobre todo barato: este portátil presume de Ryzen 7 por apenas 400 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/potente-todo-barato-portatil-presume-ryzen-7-apenas-400-euros-1406245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/acer-aspire-3-3220718.jpg?tf=1200x' alt='Potente y sobre todo barato: este portátil presume de Ryzen 7 por apenas 400 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuanto-tiempo-puedes-suspender-fibra-digi-1405974'>¿Cuánto tiempo puedes suspender tu fibra con DIGI?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuanto-tiempo-puedes-suspender-fibra-digi-1405974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/digi-3436208.jpg?tf=1200x' alt='¿Cuánto tiempo puedes suspender tu fibra con DIGI?' />
     </a>
 </div>
 
