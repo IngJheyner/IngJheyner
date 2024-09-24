@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/480-hz-refresco-panel-oled-son-dos-monitores-gaming-sony-cuestan-1350-euros-1406560'>Hasta 480 Hz de refresco y panel OLED, así son los dos monitores gaming de Sony que cuestan hasta 1.350 euros</a></h4>
+    <a href='https://computerhoy.com/gaming/480-hz-refresco-panel-oled-son-dos-monitores-gaming-sony-cuestan-1350-euros-1406560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sony-inzone-m10s-4241220.jpg?tf=1200x' alt='Hasta 480 Hz de refresco y panel OLED, así son los dos monitores gaming de Sony que cuestan hasta 1.350 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-prueba-espana-ya-permite-pagar-compartir-cuentas-plan-estandar-anuncios-1406655'>Netflix incorpora un test para España que permite añadir usuarios extra con anuncios por menos dinero</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-prueba-espana-ya-permite-pagar-compartir-cuentas-plan-estandar-anuncios-1406655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-4113798.jpg?tf=1200x' alt='Netflix incorpora un test para España que permite añadir usuarios extra con anuncios por menos dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/albert-einstein-steve-jobs-handicap-desarrollar-potencial-1156499'>Albert Einstein y Steve Jobs compartieron un hándicap y superarlo les ayudó a desarrollar todo su potencial</a></h4>
+    <a href='https://computerhoy.com/noticias/life/albert-einstein-steve-jobs-handicap-desarrollar-potencial-1156499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-albert-einstein-2873385.jpg?tf=1200x' alt='Albert Einstein y Steve Jobs compartieron un hándicap y superarlo les ayudó a desarrollar todo su potencial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/cuales-son-modos-exclusivos-cocina-guiada-thermomix-tm6-1406204'>Cuáles son los modos exclusivos de cocina guiada en Thermomix TM6</a></h4>
     <a href='https://computerhoy.com/hogar/cuales-son-modos-exclusivos-cocina-guiada-thermomix-tm6-1406204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/thermomix-tm6_5.jpg?tf=1200x' alt='Cuáles son los modos exclusivos de cocina guiada en Thermomix TM6' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/infalible-activa-modo-gallego-acabar-llamadas-spam-robollamadas-1406656'>Es infalible: activa tu “modo gallego” para acabar con las llamadas spam y las robollamadas</a></h4>
     <a href='https://computerhoy.com/moviles/infalible-activa-modo-gallego-acabar-llamadas-spam-robollamadas-1406656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/llamadas-spam-modo-gallego-4241150.jpg?tf=1200x' alt='Es infalible: activa tu “modo gallego” para acabar con las llamadas spam y las robollamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/curriculum-vitae-mandaba-bill-gates-70-empresas-1088435'>Este es el curriculum que mandaba Bill Gates en los 70 a las empresas</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/curriculum-vitae-mandaba-bill-gates-70-empresas-1088435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bill-gates-cv-4241088.jpg?tf=1200x' alt='Este es el curriculum que mandaba Bill Gates en los 70 a las empresas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/oficialmente-trabajo-cansa-estudio-1406040'>Este es oficialmente el trabajo que más cansa, según un estudio</a></h4>
-    <a href='https://computerhoy.com/life/oficialmente-trabajo-cansa-estudio-1406040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/oficialmente-trabajo-cansa-estudio-4213941.jpg?tf=1200x' alt='Este es oficialmente el trabajo que más cansa, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/debes-hacer-quieres-mantener-racha-duolingo-1404578'>Esto es lo que debes hacer si quieres mantener tu racha en Duolingo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/debes-hacer-quieres-mantener-racha-duolingo-1404578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/racha-duolingo-4149562.jpg?tf=1200x' alt='Esto es lo que debes hacer si quieres mantener tu racha en Duolingo' />
     </a>
 </div>
 
