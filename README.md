@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oled-tandem-funciona-evolucion-pantallas-oled-quiere-usar-apple-ipad-pro-1406554'>OLED Tándem, así funciona la evolución de las pantallas OLED que quiere usar Apple en el iPad Pro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oled-tandem-funciona-evolucion-pantallas-oled-quiere-usar-apple-ipad-pro-1406554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389285.jpg?tf=1200x' alt='OLED Tándem, así funciona la evolución de las pantallas OLED que quiere usar Apple en el iPad Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/elon-musk-ha-anunciado-cambios-x-usuarios-bloqueados-podran-ver-publicaciones-1406449'>Elon Musk ha anunciado cambios para X: los usuarios bloqueados podrán ver tus publicaciones</a></h4>
+    <a href='https://computerhoy.com/redes/elon-musk-ha-anunciado-cambios-x-usuarios-bloqueados-podran-ver-publicaciones-1406449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/elon-musk-ha-anunciado-cambios-x-usuarios-bloqueados-podran-ver-publicaciones-4240735.jpg?tf=1200x' alt='Elon Musk ha anunciado cambios para X: los usuarios bloqueados podrán ver tus publicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ya-hay-chollo-apple-watch-ultra-barato-series-10-aunque-hay-letra-pequena-1406183'>Ya hay chollo en el Apple Watch Ultra, que está más barato que el Series 10, aunque hay letra pequeña</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-hay-chollo-apple-watch-ultra-barato-series-10-aunque-hay-letra-pequena-1406183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-3086888.jpg?tf=1200x' alt='Ya hay chollo en el Apple Watch Ultra, que está más barato que el Series 10, aunque hay letra pequeña' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-posible-tengamos-superinteligencia-pocos-miles-dias-1406418'>Sam Altman, CEO de OpenAI: "Es posible que tengamos superinteligencia en unos pocos miles de días"</a></h4>
     <a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-posible-tengamos-superinteligencia-pocos-miles-dias-1406418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sam-altman-director-ejecutivo-openai-durante-reciente-wwdc-2024-apple-3506848.jpg?tf=1200x' alt='Sam Altman, CEO de OpenAI: "Es posible que tengamos superinteligencia en unos pocos miles de días"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/zori-os-distro-linux-parecido-windows-1405852'>Zorin OS: la distro de Linux perfecta para los que se resisten a abandonar Windows</a></h4>
-    <a href='https://computerhoy.com/zori-os-distro-linux-parecido-windows-1405852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/zorin-os-como-windows-4213461.jpg?tf=1200x' alt='Zorin OS: la distro de Linux perfecta para los que se resisten a abandonar Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/firestick-tiene-rival-china-android-mas-barato-1397568'>Los Firestick tienen rival: viene de China, con Android y por 17 euros</a></h4>
-    <a href='https://computerhoy.com/android/firestick-tiene-rival-china-android-mas-barato-1397568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stick-android-14-tv98-h618-3818282.jpg?tf=1200x' alt='Los Firestick tienen rival: viene de China, con Android y por 17 euros' />
     </a>
 </div>
 
