@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-hay-chollo-apple-watch-ultra-barato-series-10-aunque-hay-letra-pequena-1406183'>Ya hay chollo en el Apple Watch Ultra, que está más barato que el Series 10, aunque hay letra pequeña</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-hay-chollo-apple-watch-ultra-barato-series-10-aunque-hay-letra-pequena-1406183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-3086888.jpg?tf=1200x' alt='Ya hay chollo en el Apple Watch Ultra, que está más barato que el Series 10, aunque hay letra pequeña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google-fotos-hace-editar-videos-sea-facil-nunca-estas-herramientas-ia-1406523'>Google Fotos hace que editar vídeos sea más fácil que nunca con estas herramientas con IA</a></h4>
+    <a href='https://computerhoy.com/google-fotos-hace-editar-videos-sea-facil-nunca-estas-herramientas-ia-1406523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-fotos-4127106.jpg?tf=1200x' alt='Google Fotos hace que editar vídeos sea más fácil que nunca con estas herramientas con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-posible-tengamos-superinteligencia-pocos-miles-dias-1406418'>Sam Altman, CEO de OpenAI: "Es posible que tengamos superinteligencia en unos pocos miles de días"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-posible-tengamos-superinteligencia-pocos-miles-dias-1406418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sam-altman-director-ejecutivo-openai-durante-reciente-wwdc-2024-apple-3506848.jpg?tf=1200x' alt='Sam Altman, CEO de OpenAI: "Es posible que tengamos superinteligencia en unos pocos miles de días"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/zori-os-distro-linux-parecido-windows-1405852'>Zorin OS: la distro de Linux perfecta para los que se resisten a abandonar Windows</a></h4>
     <a href='https://computerhoy.com/zori-os-distro-linux-parecido-windows-1405852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/zorin-os-como-windows-4213461.jpg?tf=1200x' alt='Zorin OS: la distro de Linux perfecta para los que se resisten a abandonar Windows' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/firestick-tiene-rival-china-android-mas-barato-1397568'>Los Firestick tienen rival: viene de China, con Android y por 17 euros</a></h4>
     <a href='https://computerhoy.com/android/firestick-tiene-rival-china-android-mas-barato-1397568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stick-android-14-tv98-h618-3818282.jpg?tf=1200x' alt='Los Firestick tienen rival: viene de China, con Android y por 17 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pantalones-motorizados-senderismo-mo-go-1406396'>Con estos pantalones motorizados para senderismo te mueves como si pesases 14 Kilos menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pantalones-motorizados-senderismo-mo-go-1406396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estos-pantalones-motorizados-te-permiten-moverte-como-pesases-14-kilos-menos-4239946.jpg?tf=1200x' alt='Con estos pantalones motorizados para senderismo te mueves como si pesases 14 Kilos menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-huawei-watch-gt-5-pro-no-tengo-dudas-segundo-ano-consecutivo-mejor-smartwatch-momento-1405879'>He probado el Huawei Watch GT 5 Pro y no tengo dudas, por segundo año consecutivo es el mejor smartwatch del momento</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-huawei-watch-gt-5-pro-no-tengo-dudas-segundo-ano-consecutivo-mejor-smartwatch-momento-1405879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-watch-gt-5-pro-4226624.jpg?tf=1200x' alt='He probado el Huawei Watch GT 5 Pro y no tengo dudas, por segundo año consecutivo es el mejor smartwatch del momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-microsoft-whiteboard-crear-anotar-ideas-equipo-1405521'>Cómo usar Microsoft Whiteboard para crear y anotar ideas con tu equipo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-microsoft-whiteboard-crear-anotar-ideas-equipo-1405521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/microsoft-whiteboard-dibujar-4207900.jpg?tf=1200x' alt='Cómo usar Microsoft Whiteboard para crear y anotar ideas con tu equipo' />
     </a>
 </div>
 
