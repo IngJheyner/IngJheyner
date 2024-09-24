@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/extrana-pelicula-netflix-reune-jason-momoa-keanu-reeves-jim-carrey-aunque-esten-irreconocibles-1402060'>La extraña película de Netflix que reúne a Jason Momoa, Keanu Reeves y Jim Carrey, aunque estén irreconocibles</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/extrana-pelicula-netflix-reune-jason-momoa-keanu-reeves-jim-carrey-aunque-esten-irreconocibles-1402060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/extrana-pelicula-netflix-reune-jason-momoa-keanu-reeves-jim-carrey-aunque-esten-irreconocibles-4041560.jpg?tf=1200x' alt='La extraña película de Netflix que reúne a Jason Momoa, Keanu Reeves y Jim Carrey, aunque estén irreconocibles' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-apuesta-todo-ciencia-ficcion-anuncia-alternativa-asiatica-black-mirror-1405805'>Netflix lo apuesta todo a la ciencia ficción, y anuncia una alternativa asiática a Black Mirror</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-apuesta-todo-ciencia-ficcion-anuncia-alternativa-asiatica-black-mirror-1405805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-apuesta-todo-ciencia-ficcion-anuncia-alternativa-asiatica-black-mirror-4205606.jpg?tf=1200x' alt='Netflix lo apuesta todo a la ciencia ficción, y anuncia una alternativa asiática a Black Mirror' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/primeros-recuerdos-olvida-persona-alzheimer-1305816'>Esto es lo primero que olvida una persona con alzhéimer </a></h4>
-    <a href='https://computerhoy.com/life/primeros-recuerdos-olvida-persona-alzheimer-1305816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/primero-olvida-persona-alzheimer-3136316.jpg?tf=1200x' alt='Esto es lo primero que olvida una persona con alzhéimer ' />
+    <h4><a href='https://computerhoy.com/moviles/padre-construye-mano-300-juguetes-hija-olvide-movil-tablet-1406393'>Un padre construye a mano 300 juguetes, para que su hija se olvide del móvil y la tablet</a></h4>
+    <a href='https://computerhoy.com/moviles/padre-construye-mano-300-juguetes-hija-olvide-movil-tablet-1406393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/padre-construye-mano-300-juguetes-hija-olvide-movil-tablet-4238548.jpg?tf=1200x' alt='Un padre construye a mano 300 juguetes, para que su hija se olvide del móvil y la tablet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/televisor-ve-mal-mejora-calidad-imagen-instante-desactivando-funcion-smart-tv-1406379'>¿Tu televisor se ve mal? Mejora la calidad de imagen al instante desactivando esta función en tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tv/televisor-ve-mal-mejora-calidad-imagen-instante-desactivando-funcion-smart-tv-1406379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/televisor-ve-mal-mejora-calidad-imagen-instante-desactivando-funcion-smart-tv-4237929.jpg?tf=1200x' alt='¿Tu televisor se ve mal? Mejora la calidad de imagen al instante desactivando esta función en tu Smart TV' />
+    <h4><a href='https://computerhoy.com/tecnologia/bateria-sodio-azufre-fabricada-espana-mejora-autonomia-litio-barata-1406258'>Una batería de sodio y azufre fabricada en España mejora la autonomía de las de litio y es más barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bateria-sodio-azufre-fabricada-espana-mejora-autonomia-litio-barata-1406258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bateria-sodio-azufre-fabricada-espana-podria-acabar-litio-4234287.jpg?tf=1200x' alt='Una batería de sodio y azufre fabricada en España mejora la autonomía de las de litio y es más barata' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-anade-12-ordenadores-lista-productos-vintage-obsoletos-1406384'>Apple añade 12 ordenadores Mac a la lista de productos vintage y obsoletos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-anade-12-ordenadores-lista-productos-vintage-obsoletos-1406384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/macbook%20air.jpg?tf=1200x' alt='Apple añade 12 ordenadores Mac a la lista de productos vintage y obsoletos' />
+    <h4><a href='https://computerhoy.com/internet/lugar-casa-jamas-colocar-router-wifi-1172342'>Nunca coloques el router WiFi en este lugar de casa</a></h4>
+    <a href='https://computerhoy.com/internet/lugar-casa-jamas-colocar-router-wifi-1172342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/router-2905910.jpg?tf=1200x' alt='Nunca coloques el router WiFi en este lugar de casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/novedades-chromecast-google-tv-actualizacion-1406382'>Las novedades del Google TV Streamer 4K que llegan a tu viejo Chromecast</a></h4>
-    <a href='https://computerhoy.com/tv/novedades-chromecast-google-tv-actualizacion-1406382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estas-son-novedades-google-tv-streamer-llegan-viejo-chromecast-4237153.jpg?tf=1200x' alt='Las novedades del Google TV Streamer 4K que llegan a tu viejo Chromecast' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-rebaja-televisor-qled-xiaomi-precio-outlet-1268438'>Animalada de precio: Amazon deja un TV 4K de Xiaomi con panel QLED a precio de outlet</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-rebaja-televisor-qled-xiaomi-precio-outlet-1268438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-tv-2025-xiaomi-tv-pro-2025-3302328.jpg?tf=1200x' alt='Animalada de precio: Amazon deja un TV 4K de Xiaomi con panel QLED a precio de outlet' />
     </a>
 </div>
 
