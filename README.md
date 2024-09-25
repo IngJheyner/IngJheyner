@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/mejores-trucos-cubilete-thermomix-tm6-1406279'>Los mejores trucos con el cubilete de tu Thermomix TM6</a></h4>
+    <a href='https://computerhoy.com/hogar/mejores-trucos-cubilete-thermomix-tm6-1406279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/thermomix-tm6.jpg?tf=1200x' alt='Los mejores trucos con el cubilete de tu Thermomix TM6' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-no-te-faltara-potencia-tiene-ryzen-9-ahora-baja-precio-300-euros-1406743'>Con este portátil no te faltará potencia: tiene Ryzen 9 y ahora baja de precio 300 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-no-te-faltara-potencia-tiene-ryzen-9-ahora-baja-precio-300-euros-1406743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hp-omen-17-4241080.jpg?tf=1200x' alt='Con este portátil no te faltará potencia: tiene Ryzen 9 y ahora baja de precio 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-puedo-devolver-paquete-shein-1398394'>Cómo puedo devolver un paquete de Shein</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-puedo-devolver-paquete-shein-1398394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cuanto-tarda-llegar-pedido-shein-3435403.jpg?tf=1200x' alt='Cómo puedo devolver un paquete de Shein' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/servicio-volte-vodafone-1404689'>Qué es el servicio VoLTE de Vodafone</a></h4>
     <a href='https://computerhoy.com/tecnologia/servicio-volte-vodafone-1404689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vodafone-roaming-3599848.jpg?tf=1200x' alt='Qué es el servicio VoLTE de Vodafone' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/desconocido-thriller-pelicula-favorita-stephen-king-dirigido-director-exorcista-disponible-amazon-prime-video-1405596'>Este desconocido thriller es la película favorita de Stephen King, es del director de El exorcista y se puede ver en Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/entretenimiento/desconocido-thriller-pelicula-favorita-stephen-king-dirigido-director-exorcista-disponible-amazon-prime-video-1405596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/desconocido-thriller-pelicula-favorita-stephen-king-dirigido-director-exorcista-puede-ver-amazon-prime-video-4198046.jpg?tf=1200x' alt='Este desconocido thriller es la película favorita de Stephen King, es del director de El exorcista y se puede ver en Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/el-padrino-cadena-perpetua-mejor-pelicula-historia-cine-ver-streaming-Filmin-1401624'>Ni Cadena Perpetua ni El Padrino, la mejor película de la historia ya se puede ver en streaming</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/el-padrino-cadena-perpetua-mejor-pelicula-historia-cine-ver-streaming-Filmin-1401624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-ciudadano-kane-ni-cadena-perpetua-mejor-pelicula-historia-ya-puede-ver-plataformas-4015518.jpg?tf=1200x' alt='Ni Cadena Perpetua ni El Padrino, la mejor película de la historia ya se puede ver en streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ajustar-celdas-excel-como-profesional-no-forma-manual-1406664'>Cómo ajustar las celdas de Excel como un profesional, y no de forma manual</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ajustar-celdas-excel-como-profesional-no-forma-manual-1406664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/excel-4241117.jpg?tf=1200x' alt='Cómo ajustar las celdas de Excel como un profesional, y no de forma manual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-jugar-xbox-series-xs-mando-playstation-5-1404138'>Cómo jugar en Xbox Series X|S con un mando de PlayStation 5</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-jugar-xbox-series-xs-mando-playstation-5-1404138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mando-ps5-xbox-series-x-s-4136767.jpg?tf=1200x' alt='Cómo jugar en Xbox Series X|S con un mando de PlayStation 5' />
     </a>
 </div>
 
