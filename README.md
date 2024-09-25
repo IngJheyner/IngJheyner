@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nueva-tecnologia-militar-ee-uu-permite-drones-volar-indefinidamente-1405789'>Nueva tecnología militar de EE. UU. permite a drones volar indefinidamente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nueva-tecnologia-militar-ee-uu-permite-drones-volar-indefinidamente-1405789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dron-4205306.jpg?tf=1200x' alt='Nueva tecnología militar de EE. UU. permite a drones volar indefinidamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/descubren-agujero-negro-masivo-universo-devorando-galaxia-tiene-masa-similar-lactea-1406584'>Descubren el agujero negro más masivo del universo: está devorando su galaxia y tiene una masa similar a la Vía Láctea</a></h4>
     <a href='https://computerhoy.com/espacio/descubren-agujero-negro-masivo-universo-devorando-galaxia-tiene-masa-similar-lactea-1406584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/agujero-negro-4240976.jpg?tf=1200x' alt='Descubren el agujero negro más masivo del universo: está devorando su galaxia y tiene una masa similar a la Vía Láctea' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/app-sistema-windows-ralentizando-pc-sepas-seguramente-no-estes-utilizando-1406777'>Esta app de sistema de Windows está ralentizando tu PC sin que lo sepas (y seguramente no la estés utilizando)</a></h4>
     <a href='https://computerhoy.com/windows/app-sistema-windows-ralentizando-pc-sepas-seguramente-no-estes-utilizando-1406777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/app-sistema-windows-ralentizando-pc-sepas-seguramente-no-estes-utilizando-4241307.jpg?tf=1200x' alt='Esta app de sistema de Windows está ralentizando tu PC sin que lo sepas (y seguramente no la estés utilizando)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-nuevo-tipo-madera-midwood-propiedades-sorprendentes-1406331'>Científicos descubren un nuevo tipo de madera “midwood” con propiedades sorprendentes</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-descubren-nuevo-tipo-madera-midwood-propiedades-sorprendentes-1406331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cientificos-descubren-nuevo-tipo-madera-midwood-propiedades-sorprendentes-4235644.jpg?tf=1200x' alt='Científicos descubren un nuevo tipo de madera “midwood” con propiedades sorprendentes' />
     </a>
 </div>
 
