@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-pdf-presentacion-estilo-powerpoint-1402549'>Cómo convertir un PDF en una presentación al estilo PowerPoint</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-convertir-pdf-presentacion-estilo-powerpoint-1402549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pasar-archivo-pdf-powerpoint-4060088.jpg?tf=1200x' alt='Cómo convertir un PDF en una presentación al estilo PowerPoint' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-particiones-disco-ssd-maximo-rendimiento-1402788'>Cómo crear particiones en un disco SSD para conseguir el máximo rendimiento</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-particiones-disco-ssd-maximo-rendimiento-1402788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tipos-particiones-pc-4072563.jpg?tf=1200x' alt='Cómo crear particiones en un disco SSD para conseguir el máximo rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/nostalgia-mentiras-cintas-video-vhs-punto-explotar-nuevo-1406624'>Nostalgia, mentiras y cintas de vídeo: ¿está el VHS a punto de explotar de nuevo? </a></h4>
     <a href='https://computerhoy.com/tv/nostalgia-mentiras-cintas-video-vhs-punto-explotar-nuevo-1406624' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nostalgia-mentiras-cintas-videos-vhs-punto-explotar-nuevo-4241038.jpg?tf=1200x' alt='Nostalgia, mentiras y cintas de vídeo: ¿está el VHS a punto de explotar de nuevo? ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-hacer-captura-pantalla-desplazamiento-android-1399084'>Cómo hacer una captura de pantalla con desplazamiento en Android</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-hacer-captura-pantalla-desplazamiento-android-1399084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-3890385.jpg?tf=1200x' alt='Cómo hacer una captura de pantalla con desplazamiento en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/nunca-habia-probado-portatil-ecologico-pero-acer-aspire-vero-16-me-ha-convencido-son-necesarios-1406049'>Nunca había probado un portátil ecológico, pero el Acer Aspire Vero 16 me ha convencido de que son necesarios</a></h4>
-    <a href='https://computerhoy.com/analisis/nunca-habia-probado-portatil-ecologico-pero-acer-aspire-vero-16-me-ha-convencido-son-necesarios-1406049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/acer-aspire-vero-16-4214939.jpg?tf=1200x' alt='Nunca había probado un portátil ecológico, pero el Acer Aspire Vero 16 me ha convencido de que son necesarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/archivo-webm-sirve-1405633'>¿Qué es un archivo WebM y para qué sirve?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/archivo-webm-sirve-1405633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/webm-4199017.jpg?tf=1200x' alt='¿Qué es un archivo WebM y para qué sirve?' />
     </a>
 </div>
 
