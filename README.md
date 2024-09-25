@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/descubren-agujero-negro-masivo-universo-devorando-galaxia-tiene-masa-similar-lactea-1406584'>Descubren el agujero negro más masivo del universo: está devorando su galaxia y tiene una masa similar a la Vía Láctea</a></h4>
+    <a href='https://computerhoy.com/espacio/descubren-agujero-negro-masivo-universo-devorando-galaxia-tiene-masa-similar-lactea-1406584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/agujero-negro-4240976.jpg?tf=1200x' alt='Descubren el agujero negro más masivo del universo: está devorando su galaxia y tiene una masa similar a la Vía Láctea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/protegete-robos-truco-tarro-tecnica-sencilla-pero-muy-eficaz-1406798'>Protégete contra los robos con el truco del tarro, una técnica sencilla pero muy eficaz</a></h4>
     <a href='https://computerhoy.com/life/protegete-robos-truco-tarro-tecnica-sencilla-pero-muy-eficaz-1406798' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/protegete-robos-truco-tarro-tecnica-sencilla-pero-muy-eficaz-4241325.jpg?tf=1200x' alt='Protégete contra los robos con el truco del tarro, una técnica sencilla pero muy eficaz' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-nuevo-tipo-madera-midwood-propiedades-sorprendentes-1406331'>Científicos descubren un nuevo tipo de madera “midwood” con propiedades sorprendentes</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-descubren-nuevo-tipo-madera-midwood-propiedades-sorprendentes-1406331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cientificos-descubren-nuevo-tipo-madera-midwood-propiedades-sorprendentes-4235644.jpg?tf=1200x' alt='Científicos descubren un nuevo tipo de madera “midwood” con propiedades sorprendentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ser-odiado-oficina-triunfar-fiestas-razon-powerpoint-arrasa-ahora-noche-jovenes-1406307'>De ser odiado en la oficina a triunfar en las fiestas: la razón por la que el PowerPoint arrasa ahora en la noche de los jóvenes</a></h4>
-    <a href='https://computerhoy.com/life/ser-odiado-oficina-triunfar-fiestas-razon-powerpoint-arrasa-ahora-noche-jovenes-1406307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ser-odiado-oficina-triunfar-fiestas-razon-powerpoint-arrasa-ahora-noche-jovenes-4235119.jpg?tf=1200x' alt='De ser odiado en la oficina a triunfar en las fiestas: la razón por la que el PowerPoint arrasa ahora en la noche de los jóvenes' />
     </a>
 </div>
 
