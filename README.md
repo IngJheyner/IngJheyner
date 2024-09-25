@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/189-71-euros-air-fryer-xiaomi-pone-patas-arriba-mercado-descuento-locos-1406868'>De 189 a 71 euros: la Air Fryer de Xiaomi pone patas arriba el mercado con un descuento de locos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/189-71-euros-air-fryer-xiaomi-pone-patas-arriba-mercado-descuento-locos-1406868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-smart-air-fryer-65l-4241401.jpg?tf=1200x' alt='De 189 a 71 euros: la Air Fryer de Xiaomi pone patas arriba el mercado con un descuento de locos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/adios-suscripciones-lg-une-rakuten-tv-lanzan-servicio-vod-alquilar-comprar-peliculas-1406895'>Adiós a las suscripciones, LG se une con Rakuten TV y lanzan un servicio VOD para alquilar y comprar películas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/adios-suscripciones-lg-une-rakuten-tv-lanzan-servicio-vod-alquilar-comprar-peliculas-1406895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lg-une-rakuten-tv-4241543.jpg?tf=1200x' alt='Adiós a las suscripciones, LG se une con Rakuten TV y lanzan un servicio VOD para alquilar y comprar películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/vodafone-esconde-clientes-funcion-permite-acabar-muchas-llamadas-spam-segundos-1406893'>Vodafone esconde para sus clientes una función que permite acabar con muchas llamadas spam en segundos</a></h4>
+    <a href='https://computerhoy.com/apps/vodafone-esconde-clientes-funcion-permite-acabar-muchas-llamadas-spam-segundos-1406893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-llamar-vodafone-gratis-cualquier-operador-3513228.jpg?tf=1200x' alt='Vodafone esconde para sus clientes una función que permite acabar con muchas llamadas spam en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-oculta-proyectos-ambiciosos-pequeno-pueblo-segovia-solo-200-habitantes-1406904'>Apple oculta uno de sus proyectos más ambiciosos en un pequeño pueblo de Segovia de solo 200 habitantes</a></h4>
+    <a href='https://computerhoy.com/apple/apple-oculta-proyectos-ambiciosos-pequeno-pueblo-segovia-solo-200-habitantes-1406904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-oculta-proyectos-ambiciosos-pequeno-pueblo-segovia-20-habitantes-4241535.jpg?tf=1200x' alt='Apple oculta uno de sus proyectos más ambiciosos en un pequeño pueblo de Segovia de solo 200 habitantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/app-bateria-gasta-movil-android-chrome-1406073'>Pensaba que era Chrome, pero la app que más batería gasta en mi móvil Android es una que no utilizo</a></h4>
     <a href='https://computerhoy.com/android/app-bateria-gasta-movil-android-chrome-1406073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/creias-era-chrome-pero-app-bateria-gasta-movil-android-posiblemente-no-utilizas-4216006.jpg?tf=1200x' alt='Pensaba que era Chrome, pero la app que más batería gasta en mi móvil Android es una que no utilizo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejores-canales-telegram-descargar-libros-gratis-pdf-legal-1405899'>Los mejores canales de Telegram para descargar libros gratis en PDF de forma legal</a></h4>
-    <a href='https://computerhoy.com/internet/mejores-canales-telegram-descargar-libros-gratis-pdf-legal-1405899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mejores-canales-telegram-descargar-legalmente-libros-gratis-pdf-4211036.jpg?tf=1200x' alt='Los mejores canales de Telegram para descargar libros gratis en PDF de forma legal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/laliga-ya-habla-google-llevar-cabo-medida-radical-acabar-iptv-1406877'>LaLiga ya habla con Google para llevar a cabo la medida más radical para acabar con las IPTV</a></h4>
-    <a href='https://computerhoy.com/google/laliga-ya-habla-google-llevar-cabo-medida-radical-acabar-iptv-1406877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/laliga-futbol-4241498.jpg?tf=1200x' alt='LaLiga ya habla con Google para llevar a cabo la medida más radical para acabar con las IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-gran-apuesta-samsung-va-garmin-apple-amazon-ya-ha-rebajado-1406344'>Este reloj es una gran apuesta de Samsung: va a por Garmin y Apple y Amazon ya lo ha rebajado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-gran-apuesta-samsung-va-garmin-apple-amazon-ya-ha-rebajado-1406344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-watch-ultra-colores-3651241.jpg?tf=1200x' alt='Este reloj es una gran apuesta de Samsung: va a por Garmin y Apple y Amazon ya lo ha rebajado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hacker-descubre-fallo-chatgpt-podria-afectar-millones-usuarios-1406888'>Un hacker descubre un fallo en ChatGPT que podría afectar a millones de usuarios</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hacker-descubre-fallo-chatgpt-podria-afectar-millones-usuarios-1406888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-4183586.jpg?tf=1200x' alt='Un hacker descubre un fallo en ChatGPT que podría afectar a millones de usuarios' />
     </a>
 </div>
 
