@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/obra-maestra-pero-stephen-king-odia-todas-fuerzas-pese-estar-basada-novelas-1406907'>Es una obra maestra, pero Stephen King la odia con todas sus fuerzas pese a estar basada en una de sus novelas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/obra-maestra-pero-stephen-king-odia-todas-fuerzas-pese-estar-basada-novelas-1406907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/alfombra-resplandor-4241682.jpg?tf=1200x' alt='Es una obra maestra, pero Stephen King la odia con todas sus fuerzas pese a estar basada en una de sus novelas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/boton-panico-lavadora-existe-aunque-oculto-permite-desbloquear-puerta-caso-emergencia-1407020'>El botón del pánico de tu lavadora existe, aunque está oculto: permite desbloquear la puerta en caso de emergencia</a></h4>
+    <a href='https://computerhoy.com/life/boton-panico-lavadora-existe-aunque-oculto-permite-desbloquear-puerta-caso-emergencia-1407020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/boton-panico-lavadora-existe-aunque-oculto-permite-desbloquear-puerta-caso-emergencia-4241807.jpg?tf=1200x' alt='El botón del pánico de tu lavadora existe, aunque está oculto: permite desbloquear la puerta en caso de emergencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-michael-keaton-ni-christian-bale-actor-ha-sido-mejor-batman-mark-hamill-1406958'>Ni Michael Keaton ni Christian Bale: este actor ha sido el mejor Batman, según Mark Hamill</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-michael-keaton-ni-christian-bale-actor-ha-sido-mejor-batman-mark-hamill-1406958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/mark-hamill-joker-2114299.jpg?tf=1200x' alt='Ni Michael Keaton ni Christian Bale: este actor ha sido el mejor Batman, según Mark Hamill' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-google-pixel-buds-pro-2-gran-mejora-comodidad-bateria-asciende-nivel-airpods-1406574'>He probado los Google Pixel Buds Pro 2, una gran mejora en comodidad y batería que asciende al nivel de los AirPods</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-google-pixel-buds-pro-2-gran-mejora-comodidad-bateria-asciende-nivel-airpods-1406574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-pixel-buds-2-pro-4241068.jpg?tf=1200x' alt='He probado los Google Pixel Buds Pro 2, una gran mejora en comodidad y batería que asciende al nivel de los AirPods' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/mejores-trucos-cubilete-thermomix-tm6-1406279'>Los mejores trucos con el cubilete de tu Thermomix TM6</a></h4>
     <a href='https://computerhoy.com/hogar/mejores-trucos-cubilete-thermomix-tm6-1406279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/thermomix-tm6.jpg?tf=1200x' alt='Los mejores trucos con el cubilete de tu Thermomix TM6' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-no-te-faltara-potencia-tiene-ryzen-9-ahora-baja-precio-300-euros-1406743'>Con este portátil no te faltará potencia: tiene Ryzen 9 y ahora baja de precio 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-no-te-faltara-potencia-tiene-ryzen-9-ahora-baja-precio-300-euros-1406743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hp-omen-17-4241080.jpg?tf=1200x' alt='Con este portátil no te faltará potencia: tiene Ryzen 9 y ahora baja de precio 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-puedo-devolver-paquete-shein-1398394'>Cómo puedo devolver un paquete de Shein</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-puedo-devolver-paquete-shein-1398394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cuanto-tarda-llegar-pedido-shein-3435403.jpg?tf=1200x' alt='Cómo puedo devolver un paquete de Shein' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/servicio-volte-vodafone-1404689'>Qué es el servicio VoLTE de Vodafone</a></h4>
-    <a href='https://computerhoy.com/tecnologia/servicio-volte-vodafone-1404689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vodafone-roaming-3599848.jpg?tf=1200x' alt='Qué es el servicio VoLTE de Vodafone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/desconocido-thriller-pelicula-favorita-stephen-king-dirigido-director-exorcista-disponible-amazon-prime-video-1405596'>Este desconocido thriller es la película favorita de Stephen King, es del director de El exorcista y se puede ver en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/desconocido-thriller-pelicula-favorita-stephen-king-dirigido-director-exorcista-disponible-amazon-prime-video-1405596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/desconocido-thriller-pelicula-favorita-stephen-king-dirigido-director-exorcista-puede-ver-amazon-prime-video-4198046.jpg?tf=1200x' alt='Este desconocido thriller es la película favorita de Stephen King, es del director de El exorcista y se puede ver en Amazon Prime Video' />
     </a>
 </div>
 
