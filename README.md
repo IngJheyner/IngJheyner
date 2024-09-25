@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/protegete-robos-truco-tarro-tecnica-sencilla-pero-muy-eficaz-1406798'>Protégete contra los robos con el truco del tarro, una técnica sencilla pero muy eficaz</a></h4>
+    <a href='https://computerhoy.com/life/protegete-robos-truco-tarro-tecnica-sencilla-pero-muy-eficaz-1406798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/protegete-robos-truco-tarro-tecnica-sencilla-pero-muy-eficaz-4241325.jpg?tf=1200x' alt='Protégete contra los robos con el truco del tarro, una técnica sencilla pero muy eficaz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nintendo-usa-ia-denunciar-imagenes-personajes-creadas-ia-1406803'>Nintendo usa una IA para denunciar las imágenes de sus personajes creadas con IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/nintendo-usa-ia-denunciar-imagenes-personajes-creadas-ia-1406803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mario-luigi-conexion-fraternal-3575661.jpg?tf=1200x' alt='Nintendo usa una IA para denunciar las imágenes de sus personajes creadas con IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ser-odiado-oficina-triunfar-fiestas-razon-powerpoint-arrasa-ahora-noche-jovenes-1406307'>De ser odiado en la oficina a triunfar en las fiestas: la razón por la que el PowerPoint arrasa ahora en la noche de los jóvenes</a></h4>
     <a href='https://computerhoy.com/life/ser-odiado-oficina-triunfar-fiestas-razon-powerpoint-arrasa-ahora-noche-jovenes-1406307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ser-odiado-oficina-triunfar-fiestas-razon-powerpoint-arrasa-ahora-noche-jovenes-4235119.jpg?tf=1200x' alt='De ser odiado en la oficina a triunfar en las fiestas: la razón por la que el PowerPoint arrasa ahora en la noche de los jóvenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/franquicias-taquilleras-historia-pero-nuevo-estreno-no-ha-podido-bitelchus-bitelchus-1406557'>Es una de las franquicias más taquilleras de la historia, pero su nuevo estreno no ha podido con Bitelchús Bitelchús</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/franquicias-taquilleras-historia-pero-nuevo-estreno-no-ha-podido-bitelchus-bitelchus-1406557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/no-solo-bitelchus-5-peliculas-miticas-80-tambien-merecen-secuela-3762459.jpg?tf=1200x' alt='Es una de las franquicias más taquilleras de la historia, pero su nuevo estreno no ha podido con Bitelchús Bitelchús' />
     </a>
 </div>
 
