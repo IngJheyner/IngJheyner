@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/adios-windows-bill-gates-no-duda-haria-volviese-fundar-microsoft-2024-1406938'>Adiós Windows: Bill Gates no duda sobre lo que haría si volviese a fundar Microsoft en 2024</a></h4>
+    <a href='https://computerhoy.com/windows/adios-windows-bill-gates-no-duda-haria-volviese-fundar-microsoft-2024-1406938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/adios-windows-bill-gates-no-duda-haria-volviese-fundar-microsoft-2024-4241614.jpg?tf=1200x' alt='Adiós Windows: Bill Gates no duda sobre lo que haría si volviese a fundar Microsoft en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/consigue-ejecutar-linux-intel-4004-1971-solo-tarda-5-dias-arrancar-1406964'>Consigue ejecutar Linux en un Intel 4004 de 1971: solo tarda 5 días en arrancar</a></h4>
+    <a href='https://computerhoy.com/pc/consigue-ejecutar-linux-intel-4004-1971-solo-tarda-5-dias-arrancar-1406964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hacker-ha-conseguido-ejecutar-linux-intel-4004-4241670.jpg?tf=1200x' alt='Consigue ejecutar Linux en un Intel 4004 de 1971: solo tarda 5 días en arrancar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/189-71-euros-air-fryer-xiaomi-pone-patas-arriba-mercado-descuento-locos-1406868'>De 189 a 71 euros: la Air Fryer de Xiaomi pone patas arriba el mercado con un descuento de locos</a></h4>
     <a href='https://computerhoy.com/tecnologia/189-71-euros-air-fryer-xiaomi-pone-patas-arriba-mercado-descuento-locos-1406868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-smart-air-fryer-65l-4241401.jpg?tf=1200x' alt='De 189 a 71 euros: la Air Fryer de Xiaomi pone patas arriba el mercado con un descuento de locos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/vodafone-esconde-clientes-funcion-permite-acabar-muchas-llamadas-spam-segundos-1406893'>Vodafone esconde para sus clientes una función que permite acabar con muchas llamadas spam en segundos</a></h4>
     <a href='https://computerhoy.com/apps/vodafone-esconde-clientes-funcion-permite-acabar-muchas-llamadas-spam-segundos-1406893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-llamar-vodafone-gratis-cualquier-operador-3513228.jpg?tf=1200x' alt='Vodafone esconde para sus clientes una función que permite acabar con muchas llamadas spam en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-oculta-proyectos-ambiciosos-pequeno-pueblo-segovia-solo-200-habitantes-1406904'>Apple oculta uno de sus proyectos más ambiciosos en un pequeño pueblo de Segovia de solo 200 habitantes</a></h4>
-    <a href='https://computerhoy.com/apple/apple-oculta-proyectos-ambiciosos-pequeno-pueblo-segovia-solo-200-habitantes-1406904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-oculta-proyectos-ambiciosos-pequeno-pueblo-segovia-20-habitantes-4241535.jpg?tf=1200x' alt='Apple oculta uno de sus proyectos más ambiciosos en un pequeño pueblo de Segovia de solo 200 habitantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/app-bateria-gasta-movil-android-chrome-1406073'>Pensaba que era Chrome, pero la app que más batería gasta en mi móvil Android es una que no utilizo</a></h4>
-    <a href='https://computerhoy.com/android/app-bateria-gasta-movil-android-chrome-1406073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/creias-era-chrome-pero-app-bateria-gasta-movil-android-posiblemente-no-utilizas-4216006.jpg?tf=1200x' alt='Pensaba que era Chrome, pero la app que más batería gasta en mi móvil Android es una que no utilizo' />
     </a>
 </div>
 
