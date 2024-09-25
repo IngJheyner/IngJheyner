@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/meta-connect-2024-quest-3s-gafas-holograficas-orion-ray-ban-meta-ai-llama-32-1407088'>Meta Connect 2024: Quest 3S, gafas holográficas Orion, Ray-Ban, Meta AI, LLama 3.2 y más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-connect-2024-quest-3s-gafas-holograficas-orion-ray-ban-meta-ai-llama-32-1407088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/meta-connect-2024-quest-3s-gafas-holograficas-orion-meta-ai-llama-32-4241825.jpg?tf=1200x' alt='Meta Connect 2024: Quest 3S, gafas holográficas Orion, Ray-Ban, Meta AI, LLama 3.2 y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/modelos-iphone-moviles-android-quedan-whatsapp-octubre-2024-1407081'>Modelos de iPhone y móviles Android que se quedan sin WhatsApp en octubre de 2024</a></h4>
+    <a href='https://computerhoy.com/apps/modelos-iphone-moviles-android-quedan-whatsapp-octubre-2024-1407081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/modelos-iphone-moviles-android-quedan-whatsapp-octubre-2024-4241838.jpg?tf=1200x' alt='Modelos de iPhone y móviles Android que se quedan sin WhatsApp en octubre de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nuevos-indicios-confirman-retrocompatibilidad-nintendo-switch-2-indiscutible-1407080'>Nuevos indicios confirman que la retrocompatibilidad de Nintendo Switch 2 es indiscutible</a></h4>
+    <a href='https://computerhoy.com/gaming/nuevos-indicios-confirman-retrocompatibilidad-nintendo-switch-2-indiscutible-1407080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nintendo-switch-3907204.jpg?tf=1200x' alt='Nuevos indicios confirman que la retrocompatibilidad de Nintendo Switch 2 es indiscutible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tienes-chromecast-antiguo-google-tiene-buenas-noticias-ti-1407079'>Si tienes un Chromecast antiguo, Google tiene buenas noticias para ti</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tienes-chromecast-antiguo-google-tiene-buenas-noticias-ti-1407079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-tv-streamer-3888991.jpg?tf=1200x' alt='Si tienes un Chromecast antiguo, Google tiene buenas noticias para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/obra-maestra-pero-stephen-king-odia-todas-fuerzas-pese-estar-basada-novelas-1406907'>Es una obra maestra, pero Stephen King la odia con todas sus fuerzas pese a estar basada en una de sus novelas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/obra-maestra-pero-stephen-king-odia-todas-fuerzas-pese-estar-basada-novelas-1406907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/alfombra-resplandor-4241682.jpg?tf=1200x' alt='Es una obra maestra, pero Stephen King la odia con todas sus fuerzas pese a estar basada en una de sus novelas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/boton-panico-lavadora-existe-aunque-oculto-permite-desbloquear-puerta-caso-emergencia-1407020'>El botón del pánico de tu lavadora existe, aunque está oculto: permite desbloquear la puerta en caso de emergencia</a></h4>
-    <a href='https://computerhoy.com/life/boton-panico-lavadora-existe-aunque-oculto-permite-desbloquear-puerta-caso-emergencia-1407020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/boton-panico-lavadora-existe-aunque-oculto-permite-desbloquear-puerta-caso-emergencia-4241807.jpg?tf=1200x' alt='El botón del pánico de tu lavadora existe, aunque está oculto: permite desbloquear la puerta en caso de emergencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-michael-keaton-ni-christian-bale-actor-ha-sido-mejor-batman-mark-hamill-1406958'>Ni Michael Keaton ni Christian Bale: este actor ha sido el mejor Batman, según Mark Hamill</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-michael-keaton-ni-christian-bale-actor-ha-sido-mejor-batman-mark-hamill-1406958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/mark-hamill-joker-2114299.jpg?tf=1200x' alt='Ni Michael Keaton ni Christian Bale: este actor ha sido el mejor Batman, según Mark Hamill' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-google-pixel-buds-pro-2-gran-mejora-comodidad-bateria-asciende-nivel-airpods-1406574'>He probado los Google Pixel Buds Pro 2, una gran mejora en comodidad y batería que asciende al nivel de los AirPods</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-google-pixel-buds-pro-2-gran-mejora-comodidad-bateria-asciende-nivel-airpods-1406574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-pixel-buds-2-pro-4241068.jpg?tf=1200x' alt='He probado los Google Pixel Buds Pro 2, una gran mejora en comodidad y batería que asciende al nivel de los AirPods' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/mejores-trucos-cubilete-thermomix-tm6-1406279'>Los mejores trucos con el cubilete de tu Thermomix TM6</a></h4>
-    <a href='https://computerhoy.com/hogar/mejores-trucos-cubilete-thermomix-tm6-1406279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/thermomix-tm6.jpg?tf=1200x' alt='Los mejores trucos con el cubilete de tu Thermomix TM6' />
     </a>
 </div>
 
