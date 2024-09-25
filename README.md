@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/veterana-teleoperadora-confiesa-secreto-no-vuelvas-recibir-llamadas-spam-1407040'>Una veterana teleoperadora confiesa el secreto para que no vuelvas a recibir llamadas de spam</a></h4>
+    <a href='https://computerhoy.com/internet/veterana-teleoperadora-confiesa-secreto-no-vuelvas-recibir-llamadas-spam-1407040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/veterana-teleoperadora-confiesa-secreto-no-vuelvas-recibir-llamadas-spam-4241858.jpg?tf=1200x' alt='Una veterana teleoperadora confiesa el secreto para que no vuelvas a recibir llamadas de spam' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/james-cameron-explica-porque-fracaso-terminator-destino-oscuro-no-era-buena-idea-1406941'>James Cameron explica el porqué del fracaso de Terminator: Destino oscuro: “No era una buena idea”</a></h4>
     <a href='https://computerhoy.com/entretenimiento/james-cameron-explica-porque-fracaso-terminator-destino-oscuro-no-era-buena-idea-1406941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/terminator-destino-oscuro_1.jpg?tf=1200x' alt='James Cameron explica el porqué del fracaso de Terminator: Destino oscuro: “No era una buena idea”' />
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-connect-2024-quest-3s-gafas-holograficas-orion-ray-ban-meta-ai-llama-32-1407088'>Meta Connect 2024: Quest 3S, gafas holográficas Orion, Ray-Ban, Meta AI, LLama 3.2 y más</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/meta-connect-2024-quest-3s-gafas-holograficas-orion-ray-ban-meta-ai-llama-32-1407088'>Meta Connect 2024: Quest 3S, gafas holográficas Orion, Ray-Ban, Meta AI, Llama 3.2 y más</a></h4>
     <a href='https://computerhoy.com/tecnologia/meta-connect-2024-quest-3s-gafas-holograficas-orion-ray-ban-meta-ai-llama-32-1407088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/meta-connect-2024-quest-3s-gafas-holograficas-orion-meta-ai-llama-32-4241825.jpg?tf=1200x' alt='Meta Connect 2024: Quest 3S, gafas holográficas Orion, Ray-Ban, Meta AI, LLama 3.2 y más' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/meta-connect-2024-quest-3s-gafas-holograficas-orion-meta-ai-llama-32-4241825.jpg?tf=1200x' alt='Meta Connect 2024: Quest 3S, gafas holográficas Orion, Ray-Ban, Meta AI, Llama 3.2 y más' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/gran-maestro-terror-john-carpenter-rinde-videojuego-gran-juego-vieja-escuela-1406713'>El gran maestro del terror John Carpenter se rinde ante este videojuego: “Es un gran juego, vieja escuela”</a></h4>
     <a href='https://computerhoy.com/gaming/gran-maestro-terror-john-carpenter-rinde-videojuego-gran-juego-vieja-escuela-1406713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/john-carpenter-2842019.jpg?tf=1200x' alt='El gran maestro del terror John Carpenter se rinde ante este videojuego: “Es un gran juego, vieja escuela”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/modelos-iphone-moviles-android-quedan-whatsapp-octubre-2024-1407081'>Modelos de iPhone y móviles Android que se quedan sin WhatsApp en octubre de 2024</a></h4>
-    <a href='https://computerhoy.com/apps/modelos-iphone-moviles-android-quedan-whatsapp-octubre-2024-1407081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/modelos-iphone-moviles-android-quedan-whatsapp-octubre-2024-4241838.jpg?tf=1200x' alt='Modelos de iPhone y móviles Android que se quedan sin WhatsApp en octubre de 2024' />
     </a>
 </div>
 
