@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/james-cameron-explica-porque-fracaso-terminator-destino-oscuro-no-era-buena-idea-1406941'>James Cameron explica el porqué del fracaso de Terminator: Destino oscuro: “No era una buena idea”</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/james-cameron-explica-porque-fracaso-terminator-destino-oscuro-no-era-buena-idea-1406941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/terminator-destino-oscuro_1.jpg?tf=1200x' alt='James Cameron explica el porqué del fracaso de Terminator: Destino oscuro: “No era una buena idea”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/sundar-pichai-todo-ceo-google-lidero-chrome-gmail-maps-android-1403856'>Sundar Pichai, todo sobre el CEO de Google que lideró Chrome, Gmail, Maps y Android</a></h4>
+    <a href='https://computerhoy.com/google/sundar-pichai-todo-ceo-google-lidero-chrome-gmail-maps-android-1403856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sundar-pichai-ceo-alphabet-google-4134702.jpg?tf=1200x' alt='Sundar Pichai, todo sobre el CEO de Google que lideró Chrome, Gmail, Maps y Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/meta-connect-2024-quest-3s-gafas-holograficas-orion-ray-ban-meta-ai-llama-32-1407088'>Meta Connect 2024: Quest 3S, gafas holográficas Orion, Ray-Ban, Meta AI, LLama 3.2 y más</a></h4>
     <a href='https://computerhoy.com/tecnologia/meta-connect-2024-quest-3s-gafas-holograficas-orion-ray-ban-meta-ai-llama-32-1407088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/meta-connect-2024-quest-3s-gafas-holograficas-orion-meta-ai-llama-32-4241825.jpg?tf=1200x' alt='Meta Connect 2024: Quest 3S, gafas holográficas Orion, Ray-Ban, Meta AI, LLama 3.2 y más' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/gran-maestro-terror-john-carpenter-rinde-videojuego-gran-juego-vieja-escuela-1406713'>El gran maestro del terror John Carpenter se rinde ante este videojuego: “Es un gran juego, vieja escuela”</a></h4>
+    <a href='https://computerhoy.com/gaming/gran-maestro-terror-john-carpenter-rinde-videojuego-gran-juego-vieja-escuela-1406713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/john-carpenter-2842019.jpg?tf=1200x' alt='El gran maestro del terror John Carpenter se rinde ante este videojuego: “Es un gran juego, vieja escuela”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/modelos-iphone-moviles-android-quedan-whatsapp-octubre-2024-1407081'>Modelos de iPhone y móviles Android que se quedan sin WhatsApp en octubre de 2024</a></h4>
     <a href='https://computerhoy.com/apps/modelos-iphone-moviles-android-quedan-whatsapp-octubre-2024-1407081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/modelos-iphone-moviles-android-quedan-whatsapp-octubre-2024-4241838.jpg?tf=1200x' alt='Modelos de iPhone y móviles Android que se quedan sin WhatsApp en octubre de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nuevos-indicios-confirman-retrocompatibilidad-nintendo-switch-2-indiscutible-1407080'>Nuevos indicios confirman que la retrocompatibilidad de Nintendo Switch 2 es indiscutible</a></h4>
-    <a href='https://computerhoy.com/gaming/nuevos-indicios-confirman-retrocompatibilidad-nintendo-switch-2-indiscutible-1407080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nintendo-switch-3907204.jpg?tf=1200x' alt='Nuevos indicios confirman que la retrocompatibilidad de Nintendo Switch 2 es indiscutible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tienes-chromecast-antiguo-google-tiene-buenas-noticias-ti-1407079'>Si tienes un Chromecast antiguo, Google tiene buenas noticias para ti</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tienes-chromecast-antiguo-google-tiene-buenas-noticias-ti-1407079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-tv-streamer-3888991.jpg?tf=1200x' alt='Si tienes un Chromecast antiguo, Google tiene buenas noticias para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/obra-maestra-pero-stephen-king-odia-todas-fuerzas-pese-estar-basada-novelas-1406907'>Es una obra maestra, pero Stephen King la odia con todas sus fuerzas pese a estar basada en una de sus novelas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/obra-maestra-pero-stephen-king-odia-todas-fuerzas-pese-estar-basada-novelas-1406907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/alfombra-resplandor-4241682.jpg?tf=1200x' alt='Es una obra maestra, pero Stephen King la odia con todas sus fuerzas pese a estar basada en una de sus novelas' />
     </a>
 </div>
 
