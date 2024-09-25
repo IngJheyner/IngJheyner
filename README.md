@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/nostalgia-mentiras-cintas-video-vhs-punto-explotar-nuevo-1406624'>Nostalgia, mentiras y cintas de vídeo: ¿está el VHS a punto de explotar de nuevo? </a></h4>
+    <a href='https://computerhoy.com/tv/nostalgia-mentiras-cintas-video-vhs-punto-explotar-nuevo-1406624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nostalgia-mentiras-cintas-videos-vhs-punto-explotar-nuevo-4241038.jpg?tf=1200x' alt='Nostalgia, mentiras y cintas de vídeo: ¿está el VHS a punto de explotar de nuevo? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-forerunner-55-reloj-running-barato-oferta-1266056'>Atento, runner: uno de los Garmin más baratos acaba de bajar más de precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-forerunner-55-reloj-running-barato-oferta-1266056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/garmin-forerunner-55-3319609.jpg?tf=1200x' alt='Atento, runner: uno de los Garmin más baratos acaba de bajar más de precio en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-captura-pantalla-desplazamiento-android-1399084'>Cómo hacer una captura de pantalla con desplazamiento en Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-captura-pantalla-desplazamiento-android-1399084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-3890385.jpg?tf=1200x' alt='Cómo hacer una captura de pantalla con desplazamiento en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/nunca-habia-probado-portatil-ecologico-pero-acer-aspire-vero-16-me-ha-convencido-son-necesarios-1406049'>Nunca había probado un portátil ecológico, pero el Acer Aspire Vero 16 me ha convencido de que son necesarios</a></h4>
+    <a href='https://computerhoy.com/analisis/nunca-habia-probado-portatil-ecologico-pero-acer-aspire-vero-16-me-ha-convencido-son-necesarios-1406049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/acer-aspire-vero-16-4214939.jpg?tf=1200x' alt='Nunca había probado un portátil ecológico, pero el Acer Aspire Vero 16 me ha convencido de que son necesarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/archivo-webm-sirve-1405633'>¿Qué es un archivo WebM y para qué sirve?</a></h4>
     <a href='https://computerhoy.com/tecnologia/archivo-webm-sirve-1405633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/webm-4199017.jpg?tf=1200x' alt='¿Qué es un archivo WebM y para qué sirve?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/max-contrata-ia-google-subtitular-series-peliculas-1406820'>Max contrata a una IA de Google para subtitular sus series</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/max-contrata-ia-google-subtitular-series-peliculas-1406820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/max-contrata-ia-google-subtitular-series-4241339.jpg?tf=1200x' alt='Max contrata a una IA de Google para subtitular sus series' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/descubren-restos-objeto-interestelar-pacifico-nueva-ventana-cosmos-1405750'>Descubren restos de un objeto interestelar en el Pacífico: ¿Una nueva ventana al cosmos?</a></h4>
-    <a href='https://computerhoy.com/espacio/descubren-restos-objeto-interestelar-pacifico-nueva-ventana-cosmos-1405750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/meteorito-4205286.jpg?tf=1200x' alt='Descubren restos de un objeto interestelar en el Pacífico: ¿Una nueva ventana al cosmos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/inteligencia-artificial-descubre-303-nuevas-lineas-nazca-enigma-arqueologico-sigue-sorprendiendo-1406566'>La Inteligencia Artificial descubre 303 nuevas Líneas de Nazca: el enigma arqueológico que sigue sorprendiendo</a></h4>
-    <a href='https://computerhoy.com/ciencia/inteligencia-artificial-descubre-303-nuevas-lineas-nazca-enigma-arqueologico-sigue-sorprendiendo-1406566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/geoglifos-4240923.jpg?tf=1200x' alt='La Inteligencia Artificial descubre 303 nuevas Líneas de Nazca: el enigma arqueológico que sigue sorprendiendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-averiguar-contrasena-wifi-casa-cualquiera-768905'>Con este sencillo truco podrás averiguar la contraseña del WiFi de tu casa… o la de cualquiera</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-averiguar-contrasena-wifi-casa-cualquiera-768905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sencillo-truco-podras-averiguar-contrasena-wifi-casa-cualquiera-3269917.jpg?tf=1200x' alt='Con este sencillo truco podrás averiguar la contraseña del WiFi de tu casa… o la de cualquiera' />
     </a>
 </div>
 
