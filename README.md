@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-jugar-xbox-series-xs-mando-playstation-5-1404138'>Cómo jugar en Xbox Series X|S con un mando de PlayStation 5</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-jugar-xbox-series-xs-mando-playstation-5-1404138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mando-ps5-xbox-series-x-s-4136767.jpg?tf=1200x' alt='Cómo jugar en Xbox Series X|S con un mando de PlayStation 5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/whatsapp-introduce-nueva-funcion-evitar-saturacion-mensajes-notificaciones-1406894'>WhatsApp introduce nueva función para evitar la saturación de mensajes y notificaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/whatsapp-introduce-nueva-funcion-evitar-saturacion-mensajes-notificaciones-1406894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-4006140.jpg?tf=1200x' alt='WhatsApp introduce nueva función para evitar la saturación de mensajes y notificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/adios-windows-bill-gates-no-duda-haria-volviese-fundar-microsoft-2024-1406938'>Adiós Windows: Bill Gates no duda sobre lo que haría si volviese a fundar Microsoft en 2024</a></h4>
     <a href='https://computerhoy.com/windows/adios-windows-bill-gates-no-duda-haria-volviese-fundar-microsoft-2024-1406938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/adios-windows-bill-gates-no-duda-haria-volviese-fundar-microsoft-2024-4241614.jpg?tf=1200x' alt='Adiós Windows: Bill Gates no duda sobre lo que haría si volviese a fundar Microsoft en 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/189-71-euros-air-fryer-xiaomi-pone-patas-arriba-mercado-descuento-locos-1406868'>De 189 a 71 euros: la Air Fryer de Xiaomi pone patas arriba el mercado con un descuento de locos</a></h4>
     <a href='https://computerhoy.com/tecnologia/189-71-euros-air-fryer-xiaomi-pone-patas-arriba-mercado-descuento-locos-1406868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-smart-air-fryer-65l-4241401.jpg?tf=1200x' alt='De 189 a 71 euros: la Air Fryer de Xiaomi pone patas arriba el mercado con un descuento de locos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/adios-suscripciones-lg-une-rakuten-tv-lanzan-servicio-vod-alquilar-comprar-peliculas-1406895'>Adiós a las suscripciones, LG se une con Rakuten TV y lanzan un servicio VOD para alquilar y comprar películas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/adios-suscripciones-lg-une-rakuten-tv-lanzan-servicio-vod-alquilar-comprar-peliculas-1406895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/lg-une-rakuten-tv-4241543.jpg?tf=1200x' alt='Adiós a las suscripciones, LG se une con Rakuten TV y lanzan un servicio VOD para alquilar y comprar películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/vodafone-esconde-clientes-funcion-permite-acabar-muchas-llamadas-spam-segundos-1406893'>Vodafone esconde para sus clientes una función que permite acabar con muchas llamadas spam en segundos</a></h4>
-    <a href='https://computerhoy.com/apps/vodafone-esconde-clientes-funcion-permite-acabar-muchas-llamadas-spam-segundos-1406893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-llamar-vodafone-gratis-cualquier-operador-3513228.jpg?tf=1200x' alt='Vodafone esconde para sus clientes una función que permite acabar con muchas llamadas spam en segundos' />
     </a>
 </div>
 
