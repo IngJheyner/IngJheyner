@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/servicio-volte-vodafone-1404689'>Qué es el servicio VoLTE de Vodafone</a></h4>
+    <a href='https://computerhoy.com/tecnologia/servicio-volte-vodafone-1404689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vodafone-roaming-3599848.jpg?tf=1200x' alt='Qué es el servicio VoLTE de Vodafone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/desconocido-thriller-pelicula-favorita-stephen-king-dirigido-director-exorcista-disponible-amazon-prime-video-1405596'>Este desconocido thriller es la película favorita de Stephen King, es del director de El exorcista y se puede ver en Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/desconocido-thriller-pelicula-favorita-stephen-king-dirigido-director-exorcista-disponible-amazon-prime-video-1405596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/desconocido-thriller-pelicula-favorita-stephen-king-dirigido-director-exorcista-puede-ver-amazon-prime-video-4198046.jpg?tf=1200x' alt='Este desconocido thriller es la película favorita de Stephen King, es del director de El exorcista y se puede ver en Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/el-padrino-cadena-perpetua-mejor-pelicula-historia-cine-ver-streaming-Filmin-1401624'>Ni Cadena Perpetua ni El Padrino, la mejor película de la historia ya se puede ver en streaming</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/el-padrino-cadena-perpetua-mejor-pelicula-historia-cine-ver-streaming-Filmin-1401624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ni-ciudadano-kane-ni-cadena-perpetua-mejor-pelicula-historia-ya-puede-ver-plataformas-4015518.jpg?tf=1200x' alt='Ni Cadena Perpetua ni El Padrino, la mejor película de la historia ya se puede ver en streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ajustar-celdas-excel-como-profesional-no-forma-manual-1406664'>Cómo ajustar las celdas de Excel como un profesional, y no de forma manual</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ajustar-celdas-excel-como-profesional-no-forma-manual-1406664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/excel-4241117.jpg?tf=1200x' alt='Cómo ajustar las celdas de Excel como un profesional, y no de forma manual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-jugar-xbox-series-xs-mando-playstation-5-1404138'>Cómo jugar en Xbox Series X|S con un mando de PlayStation 5</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-jugar-xbox-series-xs-mando-playstation-5-1404138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mando-ps5-xbox-series-x-s-4136767.jpg?tf=1200x' alt='Cómo jugar en Xbox Series X|S con un mando de PlayStation 5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/whatsapp-introduce-nueva-funcion-evitar-saturacion-mensajes-notificaciones-1406894'>WhatsApp introduce nueva función para evitar la saturación de mensajes y notificaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/whatsapp-introduce-nueva-funcion-evitar-saturacion-mensajes-notificaciones-1406894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/whatsapp-4006140.jpg?tf=1200x' alt='WhatsApp introduce nueva función para evitar la saturación de mensajes y notificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/adios-windows-bill-gates-no-duda-haria-volviese-fundar-microsoft-2024-1406938'>Adiós Windows: Bill Gates no duda sobre lo que haría si volviese a fundar Microsoft en 2024</a></h4>
-    <a href='https://computerhoy.com/windows/adios-windows-bill-gates-no-duda-haria-volviese-fundar-microsoft-2024-1406938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/adios-windows-bill-gates-no-duda-haria-volviese-fundar-microsoft-2024-4241614.jpg?tf=1200x' alt='Adiós Windows: Bill Gates no duda sobre lo que haría si volviese a fundar Microsoft en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/consigue-ejecutar-linux-intel-4004-1971-solo-tarda-5-dias-arrancar-1406964'>Consigue ejecutar Linux en un Intel 4004 de 1971: solo tarda 5 días en arrancar</a></h4>
-    <a href='https://computerhoy.com/pc/consigue-ejecutar-linux-intel-4004-1971-solo-tarda-5-dias-arrancar-1406964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hacker-ha-conseguido-ejecutar-linux-intel-4004-4241670.jpg?tf=1200x' alt='Consigue ejecutar Linux en un Intel 4004 de 1971: solo tarda 5 días en arrancar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/189-71-euros-air-fryer-xiaomi-pone-patas-arriba-mercado-descuento-locos-1406868'>De 189 a 71 euros: la Air Fryer de Xiaomi pone patas arriba el mercado con un descuento de locos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/189-71-euros-air-fryer-xiaomi-pone-patas-arriba-mercado-descuento-locos-1406868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-smart-air-fryer-65l-4241401.jpg?tf=1200x' alt='De 189 a 71 euros: la Air Fryer de Xiaomi pone patas arriba el mercado con un descuento de locos' />
     </a>
 </div>
 
