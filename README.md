@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-pdf-presentacion-estilo-powerpoint-1402549'>Cómo convertir un PDF en una presentación al estilo PowerPoint</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-convertir-pdf-presentacion-estilo-powerpoint-1402549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/pasar-archivo-pdf-powerpoint-4060088.jpg?tf=1200x' alt='Cómo convertir un PDF en una presentación al estilo PowerPoint' />
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-apenas-300-euros-amazon-oferta-deja-iphone-12-reacondicionado-precio-xiaomi-1406220'>Un iPhone por apenas 300 euros en Amazon: esta oferta deja el iPhone 12 reacondicionado a precio de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-apenas-300-euros-amazon-oferta-deja-iphone-12-reacondicionado-precio-xiaomi-1406220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/iphone-12-3087866.jpg?tf=1200x' alt='Un iPhone por apenas 300 euros en Amazon: esta oferta deja el iPhone 12 reacondicionado a precio de Xiaomi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-particiones-disco-ssd-maximo-rendimiento-1402788'>Cómo crear particiones en un disco SSD para conseguir el máximo rendimiento</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-particiones-disco-ssd-maximo-rendimiento-1402788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tipos-particiones-pc-4072563.jpg?tf=1200x' alt='Cómo crear particiones en un disco SSD para conseguir el máximo rendimiento' />
+    <h4><a href='https://computerhoy.com/android/ni-todos-son-iguales-ni-vale-cualquiera-como-elegir-mejor-cable-usb-android-auto-1405315'>Ni todos son iguales, ni vale cualquiera: cómo elegir el mejor cable USB para Android Auto</a></h4>
+    <a href='https://computerhoy.com/android/ni-todos-son-iguales-ni-vale-cualquiera-como-elegir-mejor-cable-usb-android-auto-1405315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ni-todos-son-iguales-ni-vale-cualquiera-como-elegir-mejor-cable-usb-android-auto-4188068.jpg?tf=1200x' alt='Ni todos son iguales, ni vale cualquiera: cómo elegir el mejor cable USB para Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/nostalgia-mentiras-cintas-video-vhs-punto-explotar-nuevo-1406624'>Nostalgia, mentiras y cintas de vídeo: ¿está el VHS a punto de explotar de nuevo? </a></h4>
-    <a href='https://computerhoy.com/tv/nostalgia-mentiras-cintas-video-vhs-punto-explotar-nuevo-1406624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nostalgia-mentiras-cintas-videos-vhs-punto-explotar-nuevo-4241038.jpg?tf=1200x' alt='Nostalgia, mentiras y cintas de vídeo: ¿está el VHS a punto de explotar de nuevo? ' />
+    <h4><a href='https://computerhoy.com/internet/router-fritzbox-5690-pro-wifi-7-tribanda-1406847'>El router Fritz!Box 5690 Pro con WiFi 7 tribanda lleva tu red a otro nivel</a></h4>
+    <a href='https://computerhoy.com/internet/router-fritzbox-5690-pro-wifi-7-tribanda-1406847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/router-router-fritzbox-5690-pro-wifi-7-tribanda-lleva-red-otro-nivel-lleva-red-otro-nivel-4241380.jpg?tf=1200x' alt='El router Fritz!Box 5690 Pro con WiFi 7 tribanda lleva tu red a otro nivel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-forerunner-55-reloj-running-barato-oferta-1266056'>Atento, runner: uno de los Garmin más baratos acaba de bajar más de precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-forerunner-55-reloj-running-barato-oferta-1266056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/garmin-forerunner-55-3319609.jpg?tf=1200x' alt='Atento, runner: uno de los Garmin más baratos acaba de bajar más de precio en Amazon' />
+    <h4><a href='https://computerhoy.com/gaming/funcion-snap-tap-razer-llega-dispositivos-futuro-gaming-ventaja-injusta-1406846'>La función Snap Tap de Razer llega a más dispositivos, ¿futuro del gaming o una ventaja injusta?</a></h4>
+    <a href='https://computerhoy.com/gaming/funcion-snap-tap-razer-llega-dispositivos-futuro-gaming-ventaja-injusta-1406846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/razer-huntsman-mini-2286431.jpg?tf=1200x' alt='La función Snap Tap de Razer llega a más dispositivos, ¿futuro del gaming o una ventaja injusta?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-captura-pantalla-desplazamiento-android-1399084'>Cómo hacer una captura de pantalla con desplazamiento en Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-captura-pantalla-desplazamiento-android-1399084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-3890385.jpg?tf=1200x' alt='Cómo hacer una captura de pantalla con desplazamiento en Android' />
+    <h4><a href='https://computerhoy.com/tutoriales/002-desconocido-codigo-secreto-protege-movil-evita-espien-1406390'>##002#: el desconocido código secreto que protege tu móvil y evita que lo espíen</a></h4>
+    <a href='https://computerhoy.com/tutoriales/002-desconocido-codigo-secreto-protege-movil-evita-espien-1406390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/002-desconocido-codigo-secreto-protege-movil-evita-espien-4238856.jpg?tf=1200x' alt='##002#: el desconocido código secreto que protege tu móvil y evita que lo espíen' />
     </a>
 </div>
 
