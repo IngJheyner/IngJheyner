@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/escaner-predice-enfermedades-ia-15-minutos-cuesta-350-euros-creador-spotify-1407181'>Este escáner predice enfermedades con IA en 15 minutos, cuesta 350 euros y es del creador de Spotify</a></h4>
+    <a href='https://computerhoy.com/tecnologia/escaner-predice-enfermedades-ia-15-minutos-cuesta-350-euros-creador-spotify-1407181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/neko-body-scan-4242028.jpg?tf=1200x' alt='Este escáner predice enfermedades con IA en 15 minutos, cuesta 350 euros y es del creador de Spotify' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-noticias-confirmadas-rumores-todas-filtraciones-1407155'>Nintendo Switch 2: noticias confirmadas, rumores y todas las filtraciones</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-2-noticias-confirmadas-rumores-todas-filtraciones-1407155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-switch-4201069.jpg?tf=1200x' alt='Nintendo Switch 2: noticias confirmadas, rumores y todas las filtraciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ultima-revolucion-anillo-inteligente-sera-superventas-llega-amazon-1407050'>Es la última revolución: el anillo inteligente que será superventas llega a Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/ultima-revolucion-anillo-inteligente-sera-superventas-llega-amazon-1407050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/amazfit-helio-ring-4241790.jpg?tf=1200x' alt='Es la última revolución: el anillo inteligente que será superventas llega a Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/sony-ha-explicado-fin-motivo-playstation-5-pro-tan-cara-1407166'>Sony ha explicado por fin el motivo por el que la PlayStation 5 Pro es tan cara</a></h4>
     <a href='https://computerhoy.com/gaming/sony-ha-explicado-fin-motivo-playstation-5-pro-tan-cara-1407166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sony-ha-explicado-fin-motivo-playstation-5-pro-tan-cara-4241991.jpg?tf=1200x' alt='Sony ha explicado por fin el motivo por el que la PlayStation 5 Pro es tan cara' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-hbo-max-disney-prime-video-filmin-movistar-atresplayer-precios-diferencias-2024-2025-1407145'>Netflix, HBO Max, Disney+, Prime Video, Filmin, Movistar+ y Atresplayer: precios y diferencias en 2024/2025</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-hbo-max-disney-prime-video-filmin-movistar-atresplayer-precios-diferencias-2024-2025-1407145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mercado-streaming-hipercompetitivo-adictivo-saturado-2985794.jpg?tf=1200x' alt='Netflix, HBO Max, Disney+, Prime Video, Filmin, Movistar+ y Atresplayer: precios y diferencias en 2024/2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-ha-empezado-obligar-usuarios-crearse-samsung-id-actualizar-descargar-aplicaciones-movil-1407153'>Samsung ha empezado a obligar a los usuarios a crearse un Samsung ID para actualizar y descargar aplicaciones en el móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-ha-empezado-obligar-usuarios-crearse-samsung-id-actualizar-descargar-aplicaciones-movil-1407153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-ha-empezado-obligar-usuarios-crearse-samsung-id-actualizar-descargar-aplicaciones-moviles-4241963.jpg?tf=1200x' alt='Samsung ha empezado a obligar a los usuarios a crearse un Samsung ID para actualizar y descargar aplicaciones en el móvil' />
     </a>
 </div>
 
