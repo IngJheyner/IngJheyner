@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-cuenta-correo-antigua-hotmail-yahoo-terra-ono-1406821'>Cómo recuperar una cuenta de correo antigua: Hotmail, Yahoo, Terra, Ono y más</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-cuenta-correo-antigua-hotmail-yahoo-terra-ono-1406821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/email-antiguos-4241710.jpg?tf=1200x' alt='Cómo recuperar una cuenta de correo antigua: Hotmail, Yahoo, Terra, Ono y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/extraterrestres-podrian-estar-mandando-mensajes-cuanticos-no-pueden-captar-tierra-1407232'>Los extraterrestres podrían estar mandando mensajes cuánticos que no se pueden captar desde la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/extraterrestres-podrian-estar-mandando-mensajes-cuanticos-no-pueden-captar-tierra-1407232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/extraterrestres-podrian-estar-mandando-mensajes-cuanticos-no-pueden-captar-tierra-4242101.jpg?tf=1200x' alt='Los extraterrestres podrían estar mandando mensajes cuánticos que no se pueden captar desde la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/huawei-suelta-bomba-reloj-deportivo-top-electrocardiograma-rebajado-sorpresa-gratis-1406402'>Huawei suelta la bomba: su reloj deportivo top con electrocardiograma, rebajado y con sorpresa gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/huawei-suelta-bomba-reloj-deportivo-top-electrocardiograma-rebajado-sorpresa-gratis-1406402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-watch-5-pro-4240256.jpg?tf=1200x' alt='Huawei suelta la bomba: su reloj deportivo top con electrocardiograma, rebajado y con sorpresa gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/razones-no-deberias-apagar-router-noche-1136451'>Las razones por las que no deberías apagar el router por la noche</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/razones-no-deberias-apagar-router-noche-1136451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/router-2835351.jpg?tf=1200x' alt='Las razones por las que no deberías apagar el router por la noche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/teclado-pc-teclas-funcion-sabes-sirven-1126463'>Tu teclado del PC tiene 12 teclas de función, ¿sabes para qué sirven?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/teclado-pc-teclas-funcion-sabes-sirven-1126463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/teclas-funcion-2823001.jpg?tf=1200x' alt='Tu teclado del PC tiene 12 teclas de función, ¿sabes para qué sirven?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/escaner-predice-enfermedades-ia-15-minutos-cuesta-350-euros-creador-spotify-1407181'>Este escáner predice enfermedades con IA en 15 minutos, cuesta 350 euros y es del creador de Spotify</a></h4>
-    <a href='https://computerhoy.com/tecnologia/escaner-predice-enfermedades-ia-15-minutos-cuesta-350-euros-creador-spotify-1407181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/neko-body-scan-4242028.jpg?tf=1200x' alt='Este escáner predice enfermedades con IA en 15 minutos, cuesta 350 euros y es del creador de Spotify' />
     </a>
 </div>
 
