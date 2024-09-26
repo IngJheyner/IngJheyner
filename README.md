@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-maps-android-auto-mejor-aplicacion-app-detectar-radares-dgt-1395417'>Me encanta Google Maps en Android Auto: combinado con esta app para detectar radares ya es absolutamente perfecta</a></h4>
+    <a href='https://computerhoy.com/android/google-maps-android-auto-mejor-aplicacion-app-detectar-radares-dgt-1395417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/me-encanta-google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-3715097.jpg?tf=1200x' alt='Me encanta Google Maps en Android Auto: combinado con esta app para detectar radares ya es absolutamente perfecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/errores-comunes-hacen-bateria-smartphone-portatil-tablet-degrade-mucho-rapido-1407313'>Errores comunes que hacen que la batería de tu smartphone, portátil y tablet se degrade mucho más rápido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/errores-comunes-hacen-bateria-smartphone-portatil-tablet-degrade-mucho-rapido-1407313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/errores-comunes-hacen-bateria-smartphone-portatil-tablet-degrade-mucho-rapido-4242265.jpg?tf=1200x' alt='Errores comunes que hacen que la batería de tu smartphone, portátil y tablet se degrade mucho más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-proteger-casa-ladrones-traves-google-maps-1406973'>Cómo proteger tu casa de los ladrones a través de Google Maps</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-proteger-casa-ladrones-traves-google-maps-1406973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/robar-casas-google-maps-4242138.jpg?tf=1200x' alt='Cómo proteger tu casa de los ladrones a través de Google Maps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-sola-vez-todos-directorios-carpetas-vacias-windows-1406818'>Cómo eliminar de una sola vez todos los directorios y carpetas vacías en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-eliminar-sola-vez-todos-directorios-carpetas-vacias-windows-1406818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/borrar-archivos-windows-4241361.jpg?tf=1200x' alt='Cómo eliminar de una sola vez todos los directorios y carpetas vacías en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/que-es-como-instalar-rsat-windows-11-1394014'>Qué es el RSAT, para qué sirve y cómo se instala en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/que-es-como-instalar-rsat-windows-11-1394014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rsat-sirve-como-instalarlo-windows-11-3654640.jpg?tf=1200x' alt='Qué es el RSAT, para qué sirve y cómo se instala en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-tiktok-1394806'>Guardar una hoja de laurel en la carcasa del móvil: cada vez hace más gente por este curioso motivo</a></h4>
-    <a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-tiktok-1394806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hoja-laurel-movil-4242058.jpg?tf=1200x' alt='Guardar una hoja de laurel en la carcasa del móvil: cada vez hace más gente por este curioso motivo' />
     </a>
 </div>
 
