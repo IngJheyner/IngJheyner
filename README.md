@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-suelta-bomba-reloj-deportivo-top-electrocardiograma-rebajado-sorpresa-gratis-1406402'>Huawei suelta la bomba: su reloj deportivo top con electrocardiograma, rebajado y con sorpresa gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-suelta-bomba-reloj-deportivo-top-electrocardiograma-rebajado-sorpresa-gratis-1406402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-watch-5-pro-4240256.jpg?tf=1200x' alt='Huawei suelta la bomba: su reloj deportivo top con electrocardiograma, rebajado y con sorpresa gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/guerra-derechos-autor-diario-ana-frank-podria-acabar-salpicando-vpn-1407209'>La guerra por los derechos de autor de “El diario de Ana Frank” podría acabar salpicando a las VPN</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/guerra-derechos-autor-diario-ana-frank-podria-acabar-salpicando-vpn-1407209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/casa-ana-frank-4242096.jpg?tf=1200x' alt='La guerra por los derechos de autor de “El diario de Ana Frank” podría acabar salpicando a las VPN' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/razones-no-deberias-apagar-router-noche-1136451'>Las razones por las que no deberías apagar el router por la noche</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/razones-no-deberias-apagar-router-noche-1136451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/router-2835351.jpg?tf=1200x' alt='Las razones por las que no deberías apagar el router por la noche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/teclado-pc-teclas-funcion-sabes-sirven-1126463'>Tu teclado del PC tiene 12 teclas de función, ¿sabes para qué sirven?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/teclado-pc-teclas-funcion-sabes-sirven-1126463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/teclas-funcion-2823001.jpg?tf=1200x' alt='Tu teclado del PC tiene 12 teclas de función, ¿sabes para qué sirven?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/escaner-predice-enfermedades-ia-15-minutos-cuesta-350-euros-creador-spotify-1407181'>Este escáner predice enfermedades con IA en 15 minutos, cuesta 350 euros y es del creador de Spotify</a></h4>
     <a href='https://computerhoy.com/tecnologia/escaner-predice-enfermedades-ia-15-minutos-cuesta-350-euros-creador-spotify-1407181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/neko-body-scan-4242028.jpg?tf=1200x' alt='Este escáner predice enfermedades con IA en 15 minutos, cuesta 350 euros y es del creador de Spotify' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-noticias-confirmadas-rumores-todas-filtraciones-1407155'>Nintendo Switch 2: noticias confirmadas, rumores y todas las filtraciones</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-2-noticias-confirmadas-rumores-todas-filtraciones-1407155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-switch-4201069.jpg?tf=1200x' alt='Nintendo Switch 2: noticias confirmadas, rumores y todas las filtraciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ultima-revolucion-anillo-inteligente-sera-superventas-llega-amazon-1407050'>Es la última revolución: el anillo inteligente que será superventas llega a Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ultima-revolucion-anillo-inteligente-sera-superventas-llega-amazon-1407050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/amazfit-helio-ring-4241790.jpg?tf=1200x' alt='Es la última revolución: el anillo inteligente que será superventas llega a Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disponible-ver-hbo-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-1404574'>Ya puedes ver en Max la película que cambió el cine de ciencia ficción para siempre: creó un género propio</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disponible-ver-hbo-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-1404574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-puedes-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-4149410.jpg?tf=1200x' alt='Ya puedes ver en Max la película que cambió el cine de ciencia ficción para siempre: creó un género propio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/sony-ha-explicado-fin-motivo-playstation-5-pro-tan-cara-1407166'>Sony ha explicado por fin el motivo por el que la PlayStation 5 Pro es tan cara</a></h4>
-    <a href='https://computerhoy.com/gaming/sony-ha-explicado-fin-motivo-playstation-5-pro-tan-cara-1407166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sony-ha-explicado-fin-motivo-playstation-5-pro-tan-cara-4241991.jpg?tf=1200x' alt='Sony ha explicado por fin el motivo por el que la PlayStation 5 Pro es tan cara' />
     </a>
 </div>
 
