@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/aviso-urgente-google-play-store-no-instale-estas-apps-smartphone-tiene-eliminalas-inmediato-1407338'>Aviso urgente de Google Play Store: no instale estas apps en su smartphone (y si las tiene, elimínalas de inmediato)</a></h4>
+    <a href='https://computerhoy.com/android/aviso-urgente-google-play-store-no-instale-estas-apps-smartphone-tiene-eliminalas-inmediato-1407338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aviso-urgente-google-play-store-no-instale-estas-apps-smartphone-tiene-eliminalas-inmediato-4242331.jpg?tf=1200x' alt='Aviso urgente de Google Play Store: no instale estas apps en su smartphone (y si las tiene, elimínalas de inmediato)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/peligro-conectar-memoria-usb-pendrive-datos-cargador-movil-1401042'>¿Qué pasa si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/peligro-conectar-memoria-usb-pendrive-datos-cargador-movil-1401042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-3994980.jpg?tf=1200x' alt='¿Qué pasa si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/sarco-tesla-eutanasia-utilizada-primera-vez-suiza-hay-desmedicalizar-muerte-1407237'>The Sarco, el “Tesla de la eutanasia”, utilizada por primera vez en Suiza: “Hay que desmedicalizar la muerte”</a></h4>
+    <a href='https://computerhoy.com/life/sarco-tesla-eutanasia-utilizada-primera-vez-suiza-hay-desmedicalizar-muerte-1407237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sarco-3703555.jpg?tf=1200x' alt='The Sarco, el “Tesla de la eutanasia”, utilizada por primera vez en Suiza: “Hay que desmedicalizar la muerte”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/google-maps-android-auto-mejor-aplicacion-app-detectar-radares-dgt-1395417'>Me encanta Google Maps en Android Auto: combinado con esta app para detectar radares ya es absolutamente perfecta</a></h4>
     <a href='https://computerhoy.com/android/google-maps-android-auto-mejor-aplicacion-app-detectar-radares-dgt-1395417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/me-encanta-google-maps-android-auto-pero-he-perfeccionado-dopandola-app-detectar-radares-3715097.jpg?tf=1200x' alt='Me encanta Google Maps en Android Auto: combinado con esta app para detectar radares ya es absolutamente perfecta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/errores-comunes-hacen-bateria-smartphone-portatil-tablet-degrade-mucho-rapido-1407313'>Errores comunes que hacen que la batería de tu smartphone, portátil y tablet se degrade mucho más rápido</a></h4>
     <a href='https://computerhoy.com/tecnologia/errores-comunes-hacen-bateria-smartphone-portatil-tablet-degrade-mucho-rapido-1407313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/errores-comunes-hacen-bateria-smartphone-portatil-tablet-degrade-mucho-rapido-4242265.jpg?tf=1200x' alt='Errores comunes que hacen que la batería de tu smartphone, portátil y tablet se degrade mucho más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-proteger-casa-ladrones-traves-google-maps-1406973'>Cómo proteger tu casa de los ladrones a través de Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-proteger-casa-ladrones-traves-google-maps-1406973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/robar-casas-google-maps-4242138.jpg?tf=1200x' alt='Cómo proteger tu casa de los ladrones a través de Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/opcion-debes-desactivar-movil-graba-escucha-todo-dices-1399685'>La opción que debes desactivar ahora mismo en tu móvil: graba y escucha todo lo que dices</a></h4>
-    <a href='https://computerhoy.com/moviles/opcion-debes-desactivar-movil-graba-escucha-todo-dices-1399685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/opcion-debes-desactivar-ahora-mismo-movil-graba-escucha-todo-dices-3915856.jpg?tf=1200x' alt='La opción que debes desactivar ahora mismo en tu móvil: graba y escucha todo lo que dices' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-sola-vez-todos-directorios-carpetas-vacias-windows-1406818'>Cómo eliminar de una sola vez todos los directorios y carpetas vacías en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-eliminar-sola-vez-todos-directorios-carpetas-vacias-windows-1406818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/borrar-archivos-windows-4241361.jpg?tf=1200x' alt='Cómo eliminar de una sola vez todos los directorios y carpetas vacías en Windows' />
     </a>
 </div>
 
