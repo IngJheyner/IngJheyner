@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-proteger-casa-ladrones-traves-google-maps-1406973'>Cómo proteger tu casa de los ladrones a través de Google Maps</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-proteger-casa-ladrones-traves-google-maps-1406973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/robar-casas-google-maps-4242138.jpg?tf=1200x' alt='Cómo proteger tu casa de los ladrones a través de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/opcion-debes-desactivar-movil-graba-escucha-todo-dices-1399685'>La opción que debes desactivar ahora mismo en tu móvil: graba y escucha todo lo que dices</a></h4>
+    <a href='https://computerhoy.com/moviles/opcion-debes-desactivar-movil-graba-escucha-todo-dices-1399685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/opcion-debes-desactivar-ahora-mismo-movil-graba-escucha-todo-dices-3915856.jpg?tf=1200x' alt='La opción que debes desactivar ahora mismo en tu móvil: graba y escucha todo lo que dices' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-sola-vez-todos-directorios-carpetas-vacias-windows-1406818'>Cómo eliminar de una sola vez todos los directorios y carpetas vacías en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-eliminar-sola-vez-todos-directorios-carpetas-vacias-windows-1406818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/borrar-archivos-windows-4241361.jpg?tf=1200x' alt='Cómo eliminar de una sola vez todos los directorios y carpetas vacías en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/que-es-como-instalar-rsat-windows-11-1394014'>Qué es el RSAT, para qué sirve y cómo se instala en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/que-es-como-instalar-rsat-windows-11-1394014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rsat-sirve-como-instalarlo-windows-11-3654640.jpg?tf=1200x' alt='Qué es el RSAT, para qué sirve y cómo se instala en Windows 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-tiktok-1394806'>Guardar una hoja de laurel en la carcasa del móvil: cada vez hace más gente por este curioso motivo</a></h4>
     <a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-tiktok-1394806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hoja-laurel-movil-4242058.jpg?tf=1200x' alt='Guardar una hoja de laurel en la carcasa del móvil: cada vez hace más gente por este curioso motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/adios-llamadas-telefono-autentica-razon-jovenes-nunca-responden-1405480'>¿Adiós a las llamadas de teléfono? Esta es la auténtica razón por la que los jóvenes nunca responden</a></h4>
-    <a href='https://computerhoy.com/moviles/adios-llamadas-telefono-autentica-razon-jovenes-nunca-responden-1405480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/adios-llamadas-telefono-autentica-razon-jovenes-nunca-responden-4192569.jpg?tf=1200x' alt='¿Adiós a las llamadas de teléfono? Esta es la auténtica razón por la que los jóvenes nunca responden' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/xiaomi-amplia-gama-hogar-televisores-100-85-pulgadas-dos-robots-aspiradores-1407173'>Xiaomi amplía su gama para el hogar con televisores de 100 y 85 pulgadas y dos robots aspiradores</a></h4>
-    <a href='https://computerhoy.com/hogar/xiaomi-amplia-gama-hogar-televisores-100-85-pulgadas-dos-robots-aspiradores-1407173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/television-xiaomi-4241993.jpg?tf=1200x' alt='Xiaomi amplía su gama para el hogar con televisores de 100 y 85 pulgadas y dos robots aspiradores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-anade-tres-wearables-filas-smart-band-9-watch-2-buds-5-1407163'>Xiaomi añade tres wearables a sus filas: Smart Band 9, Watch 2 y Buds 5</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-anade-tres-wearables-filas-smart-band-9-watch-2-buds-5-1407163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-watch-2-4241988.jpg?tf=1200x' alt='Xiaomi añade tres wearables a sus filas: Smart Band 9, Watch 2 y Buds 5' />
     </a>
 </div>
 
