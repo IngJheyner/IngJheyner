@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-fe-todas-funciones-galaxy-ai-barato-1407397'>El nuevo Samsung Galaxy S24 FE con todas las funciones Galaxy AI, y más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-fe-todas-funciones-galaxy-ai-barato-1407397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-anuncia-movil-galaxy-s24-fe-tablet-galaxy-tab-s10-ultra-disenados-galaxy-ai-4242373.jpg?tf=1200x' alt='El nuevo Samsung Galaxy S24 FE con todas las funciones Galaxy AI, y más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sigue-utilizando-busca-hospitales-fabricas-existen-smartphones-1407368'>Por qué se sigue utilizando "el busca" en hospitales y fábricas si existen los smartphones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sigue-utilizando-busca-hospitales-fabricas-existen-smartphones-1407368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sigue-utilizando-busca-hospitales-fabricas-existen-smartphones-4242414.jpg?tf=1200x' alt='Por qué se sigue utilizando "el busca" en hospitales y fábricas si existen los smartphones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-dan-garantias-pero-mejor-portatil-oferta-cae-menos-500-euros-1406246'>Ryzen 7 y 16GB de RAM dan garantías, pero lo mejor de este portátil es la oferta: cae a menos de 500 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-dan-garantias-pero-mejor-portatil-oferta-cae-menos-500-euros-1406246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/asus-m515ua-4233626.jpg?tf=1200x' alt='Ryzen 7 y 16GB de RAM dan garantías, pero lo mejor de este portátil es la oferta: cae a menos de 500 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/idea-forma-compania-electrica-pague-gastar-electricidad-1407380'>Idea una forma para que la compañía eléctrica le pague por gastar su electricidad</a></h4>
     <a href='https://computerhoy.com/life/idea-forma-compania-electrica-pague-gastar-electricidad-1407380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/electricidad-energias-renovables-4242372.jpg?tf=1200x' alt='Idea una forma para que la compañía eléctrica le pague por gastar su electricidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ridley-scott-confirma-star-wars-no-hubiesen-existido-dos-mejores-peliculas-1407244'>Ridley Scott lo confirma: sin Star Wars no hubiesen existido dos de sus mejores películas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ridley-scott-confirma-star-wars-no-hubiesen-existido-dos-mejores-peliculas-1407244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/alien-octavo-pasajero-2755145.jpg?tf=1200x' alt='Ridley Scott lo confirma: sin Star Wars no hubiesen existido dos de sus mejores películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-quiere-acabar-opciones-odiadas-resenas-falsas-1407376'>Google Maps quiere acabar con una de sus opciones más odiadas: las reseñas falsas</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-quiere-acabar-opciones-odiadas-resenas-falsas-1407376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/resenas-google-maps-4242367.jpg?tf=1200x' alt='Google Maps quiere acabar con una de sus opciones más odiadas: las reseñas falsas' />
     </a>
 </div>
 
