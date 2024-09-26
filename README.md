@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-antiguo-menu-contextual-windows-windows-11-forma-permanente-1406796'>Cómo recuperar el antiguo menú contextual de Windows en Windows 11 de forma permanente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-antiguo-menu-contextual-windows-windows-11-forma-permanente-1406796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/menu-contextual-windows-10-windows-11-4241306.jpg?tf=1200x' alt='Cómo recuperar el antiguo menú contextual de Windows en Windows 11 de forma permanente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/no-uses-magis-tv-consecuencias-contenido-pirata-1406330'>NO uses Magis TV: estas son las consecuencias de ver su contenido pirata</a></h4>
+    <a href='https://computerhoy.com/no-uses-magis-tv-consecuencias-contenido-pirata-1406330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/magistv-app-ilegal-4236673.jpg?tf=1200x' alt='NO uses Magis TV: estas son las consecuencias de ver su contenido pirata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/malas-noticias-intel-ha-sido-expulsada-mercado-gpu-1407120'>Siguen las malas noticias para Intel: ha sido expulsada del mercado de las GPU</a></h4>
+    <a href='https://computerhoy.com/pc/malas-noticias-intel-ha-sido-expulsada-mercado-gpu-1407120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-revela-especificaciones-oficiales-todas-tarjetas-intel-arc-2809233.jpg?tf=1200x' alt='Siguen las malas noticias para Intel: ha sido expulsada del mercado de las GPU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/intel-core-i9-32gb-ram-mini-pc-oferta-amazon-1253870'>Intel Core i9 en un PC "de bolsillo" y con 32GB de RAM: Amazon pone el sector patas arriba con esta oferta</a></h4>
+    <a href='https://computerhoy.com/pc/intel-core-i9-32gb-ram-mini-pc-oferta-amazon-1253870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/minis-forum-nab9-4197876.jpg?tf=1200x' alt='Intel Core i9 en un PC "de bolsillo" y con 32GB de RAM: Amazon pone el sector patas arriba con esta oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/naturaleza-materia-oscura-podria-ser-compleja-pensabamos-1406859'>La naturaleza de la materia oscura podría ser más compleja de lo que pensábamos</a></h4>
     <a href='https://computerhoy.com/espacio/naturaleza-materia-oscura-podria-ser-compleja-pensabamos-1406859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/universo-4241446.jpg?tf=1200x' alt='La naturaleza de la materia oscura podría ser más compleja de lo que pensábamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/son-ciudades-15-minutos-ciudades-espana-son-1407093'>Qué son las ciudades de 15 minutos y qué ciudades en España lo son</a></h4>
-    <a href='https://computerhoy.com/internet/son-ciudades-15-minutos-ciudades-espana-son-1407093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/son-ciudades-15-minutos-ciudades-espana-son-4241899.jpg?tf=1200x' alt='Qué son las ciudades de 15 minutos y qué ciudades en España lo son' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llegan-espana-radares-linea-continua-dgt-ya-hay-cuatro-operativos-ubicacion-1407063'>Llegan a España los radares de línea continua de la DGT: ya hay cuatro operativos y esta es su ubicación</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llegan-espana-radares-linea-continua-dgt-ya-hay-cuatro-operativos-ubicacion-1407063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/llegan-espana-radares-linea-continua-dgt-ya-hay-cuatro-operativos-ubicacion-4241880.jpg?tf=1200x' alt='Llegan a España los radares de línea continua de la DGT: ya hay cuatro operativos y esta es su ubicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/mediamarkt-espana-filtra-nuevo-kindle-barato-antes-amazon-1407109'>MediaMarkt España la lía y filtra un nuevo Kindle barato antes que Amazon</a></h4>
-    <a href='https://computerhoy.com/amazon/mediamarkt-espana-filtra-nuevo-kindle-barato-antes-amazon-1407109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mediamarkt-espana-lia-filtra-nuevo-kindle-barato-antes-amazon-4241875.jpg?tf=1200x' alt='MediaMarkt España la lía y filtra un nuevo Kindle barato antes que Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-fin-cuentas-compartidas-espana-acceso-extra-1407108'>Disney+ termina con las cuentas compartidas en España, tendrás que pagar 6 € más con el Acceso extra</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-plus-fin-cuentas-compartidas-espana-acceso-extra-1407108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/disney-termina-cuentas-compartidas-espana-tendras-pagar-6eu-acceso-extra-4241861.jpg?tf=1200x' alt='Disney+ termina con las cuentas compartidas en España, tendrás que pagar 6 € más con el Acceso extra' />
     </a>
 </div>
 
