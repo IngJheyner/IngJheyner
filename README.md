@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/son-ciudades-15-minutos-ciudades-espana-son-1407093'>Qué son las ciudades de 15 minutos y qué ciudades en España lo son</a></h4>
+    <a href='https://computerhoy.com/internet/son-ciudades-15-minutos-ciudades-espana-son-1407093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/son-ciudades-15-minutos-ciudades-espana-son-4241899.jpg?tf=1200x' alt='Qué son las ciudades de 15 minutos y qué ciudades en España lo son' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/llegan-espana-radares-linea-continua-dgt-ya-hay-cuatro-operativos-ubicacion-1407063'>Llegan a España los radares de línea continua de la DGT: ya hay cuatro operativos y esta es su ubicación</a></h4>
     <a href='https://computerhoy.com/tecnologia/llegan-espana-radares-linea-continua-dgt-ya-hay-cuatro-operativos-ubicacion-1407063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/llegan-espana-radares-linea-continua-dgt-ya-hay-cuatro-operativos-ubicacion-4241880.jpg?tf=1200x' alt='Llegan a España los radares de línea continua de la DGT: ya hay cuatro operativos y esta es su ubicación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/veterana-teleoperadora-confiesa-secreto-no-vuelvas-recibir-llamadas-spam-1407040'>Una veterana teleoperadora confiesa el secreto para que no vuelvas a recibir llamadas de spam</a></h4>
     <a href='https://computerhoy.com/internet/veterana-teleoperadora-confiesa-secreto-no-vuelvas-recibir-llamadas-spam-1407040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/veterana-teleoperadora-confiesa-secreto-no-vuelvas-recibir-llamadas-spam-4241858.jpg?tf=1200x' alt='Una veterana teleoperadora confiesa el secreto para que no vuelvas a recibir llamadas de spam' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/james-cameron-explica-porque-fracaso-terminator-destino-oscuro-no-era-buena-idea-1406941'>James Cameron explica el porqué del fracaso de Terminator: Destino oscuro: “No era una buena idea”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/james-cameron-explica-porque-fracaso-terminator-destino-oscuro-no-era-buena-idea-1406941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/terminator-destino-oscuro_1.jpg?tf=1200x' alt='James Cameron explica el porqué del fracaso de Terminator: Destino oscuro: “No era una buena idea”' />
     </a>
 </div>
 
