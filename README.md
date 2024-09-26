@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/naturaleza-materia-oscura-podria-ser-compleja-pensabamos-1406859'>La naturaleza de la materia oscura podría ser más compleja de lo que pensábamos</a></h4>
+    <a href='https://computerhoy.com/espacio/naturaleza-materia-oscura-podria-ser-compleja-pensabamos-1406859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/universo-4241446.jpg?tf=1200x' alt='La naturaleza de la materia oscura podría ser más compleja de lo que pensábamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/son-ciudades-15-minutos-ciudades-espana-son-1407093'>Qué son las ciudades de 15 minutos y qué ciudades en España lo son</a></h4>
     <a href='https://computerhoy.com/internet/son-ciudades-15-minutos-ciudades-espana-son-1407093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/son-ciudades-15-minutos-ciudades-espana-son-4241899.jpg?tf=1200x' alt='Qué son las ciudades de 15 minutos y qué ciudades en España lo son' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-fin-cuentas-compartidas-espana-acceso-extra-1407108'>Disney+ termina con las cuentas compartidas en España, tendrás que pagar 6 € más con el Acceso extra</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-plus-fin-cuentas-compartidas-espana-acceso-extra-1407108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/disney-termina-cuentas-compartidas-espana-tendras-pagar-6eu-acceso-extra-4241861.jpg?tf=1200x' alt='Disney+ termina con las cuentas compartidas en España, tendrás que pagar 6 € más con el Acceso extra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/veterana-teleoperadora-confiesa-secreto-no-vuelvas-recibir-llamadas-spam-1407040'>Una veterana teleoperadora confiesa el secreto para que no vuelvas a recibir llamadas de spam</a></h4>
-    <a href='https://computerhoy.com/internet/veterana-teleoperadora-confiesa-secreto-no-vuelvas-recibir-llamadas-spam-1407040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/veterana-teleoperadora-confiesa-secreto-no-vuelvas-recibir-llamadas-spam-4241858.jpg?tf=1200x' alt='Una veterana teleoperadora confiesa el secreto para que no vuelvas a recibir llamadas de spam' />
     </a>
 </div>
 
