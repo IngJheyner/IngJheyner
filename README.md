@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/llegan-espana-radares-linea-continua-dgt-ya-hay-cuatro-operativos-ubicacion-1407063'>Llegan a España los radares de línea continua de la DGT: ya hay cuatro operativos y esta es su ubicación</a></h4>
+    <a href='https://computerhoy.com/tecnologia/llegan-espana-radares-linea-continua-dgt-ya-hay-cuatro-operativos-ubicacion-1407063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/llegan-espana-radares-linea-continua-dgt-ya-hay-cuatro-operativos-ubicacion-4241880.jpg?tf=1200x' alt='Llegan a España los radares de línea continua de la DGT: ya hay cuatro operativos y esta es su ubicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/mediamarkt-espana-filtra-nuevo-kindle-barato-antes-amazon-1407109'>MediaMarkt España la lía y filtra un nuevo Kindle barato antes que Amazon</a></h4>
+    <a href='https://computerhoy.com/amazon/mediamarkt-espana-filtra-nuevo-kindle-barato-antes-amazon-1407109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mediamarkt-espana-lia-filtra-nuevo-kindle-barato-antes-amazon-4241875.jpg?tf=1200x' alt='MediaMarkt España la lía y filtra un nuevo Kindle barato antes que Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-fin-cuentas-compartidas-espana-acceso-extra-1407108'>Disney+ termina con las cuentas compartidas en España, tendrás que pagar 6 € más con el Acceso extra</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-plus-fin-cuentas-compartidas-espana-acceso-extra-1407108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/disney-termina-cuentas-compartidas-espana-tendras-pagar-6eu-acceso-extra-4241861.jpg?tf=1200x' alt='Disney+ termina con las cuentas compartidas en España, tendrás que pagar 6 € más con el Acceso extra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/james-cameron-explica-porque-fracaso-terminator-destino-oscuro-no-era-buena-idea-1406941'>James Cameron explica el porqué del fracaso de Terminator: Destino oscuro: “No era una buena idea”</a></h4>
     <a href='https://computerhoy.com/entretenimiento/james-cameron-explica-porque-fracaso-terminator-destino-oscuro-no-era-buena-idea-1406941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/terminator-destino-oscuro_1.jpg?tf=1200x' alt='James Cameron explica el porqué del fracaso de Terminator: Destino oscuro: “No era una buena idea”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/sundar-pichai-todo-ceo-google-lidero-chrome-gmail-maps-android-1403856'>Sundar Pichai, todo sobre el CEO de Google que lideró Chrome, Gmail, Maps y Android</a></h4>
-    <a href='https://computerhoy.com/google/sundar-pichai-todo-ceo-google-lidero-chrome-gmail-maps-android-1403856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sundar-pichai-ceo-alphabet-google-4134702.jpg?tf=1200x' alt='Sundar Pichai, todo sobre el CEO de Google que lideró Chrome, Gmail, Maps y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-connect-2024-quest-3s-gafas-holograficas-orion-ray-ban-meta-ai-llama-32-1407088'>Meta Connect 2024: Quest 3S, gafas holográficas Orion, Ray-Ban, Meta AI, Llama 3.2 y más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-connect-2024-quest-3s-gafas-holograficas-orion-ray-ban-meta-ai-llama-32-1407088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/meta-connect-2024-quest-3s-gafas-holograficas-orion-meta-ai-llama-32-4241825.jpg?tf=1200x' alt='Meta Connect 2024: Quest 3S, gafas holográficas Orion, Ray-Ban, Meta AI, Llama 3.2 y más' />
     </a>
 </div>
 
