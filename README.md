@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ultima-revolucion-anillo-inteligente-sera-superventas-llega-amazon-1407050'>Es la última revolución: el anillo inteligente que será superventas llega a Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ultima-revolucion-anillo-inteligente-sera-superventas-llega-amazon-1407050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/amazfit-helio-ring-4241790.jpg?tf=1200x' alt='Es la última revolución: el anillo inteligente que será superventas llega a Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/disponible-ver-hbo-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-1404574'>Ya puedes ver en Max la película que cambió el cine de ciencia ficción para siempre: creó un género propio</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disponible-ver-hbo-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-1404574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-puedes-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-4149410.jpg?tf=1200x' alt='Ya puedes ver en Max la película que cambió el cine de ciencia ficción para siempre: creó un género propio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/sony-ha-explicado-fin-motivo-playstation-5-pro-tan-cara-1407166'>Sony ha explicado por fin el motivo por el que la PlayStation 5 Pro es tan cara</a></h4>
+    <a href='https://computerhoy.com/gaming/sony-ha-explicado-fin-motivo-playstation-5-pro-tan-cara-1407166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sony-ha-explicado-fin-motivo-playstation-5-pro-tan-cara-4241991.jpg?tf=1200x' alt='Sony ha explicado por fin el motivo por el que la PlayStation 5 Pro es tan cara' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-hbo-max-disney-prime-video-filmin-movistar-atresplayer-precios-diferencias-2024-2025-1407145'>Netflix, HBO Max, Disney+, Prime Video, Filmin, Movistar+ y Atresplayer: precios y diferencias en 2024/2025</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-hbo-max-disney-prime-video-filmin-movistar-atresplayer-precios-diferencias-2024-2025-1407145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mercado-streaming-hipercompetitivo-adictivo-saturado-2985794.jpg?tf=1200x' alt='Netflix, HBO Max, Disney+, Prime Video, Filmin, Movistar+ y Atresplayer: precios y diferencias en 2024/2025' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/samsung-ha-empezado-obligar-usuarios-crearse-samsung-id-actualizar-descargar-aplicaciones-movil-1407153'>Samsung ha empezado a obligar a los usuarios a crearse un Samsung ID para actualizar y descargar aplicaciones en el móvil</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-ha-empezado-obligar-usuarios-crearse-samsung-id-actualizar-descargar-aplicaciones-movil-1407153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-ha-empezado-obligar-usuarios-crearse-samsung-id-actualizar-descargar-aplicaciones-moviles-4241963.jpg?tf=1200x' alt='Samsung ha empezado a obligar a los usuarios a crearse un Samsung ID para actualizar y descargar aplicaciones en el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/consola-portatil-pienso-comprarme-pc-windows-11-muy-potente-formato-steam-deck-1406936'>Esta es la consola portátil que pienso comprarme: es un PC con Windows 11 muy potente en formato Steam Deck</a></h4>
-    <a href='https://computerhoy.com/gaming/consola-portatil-pienso-comprarme-pc-windows-11-muy-potente-formato-steam-deck-1406936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/msi-claw-4241566.jpg?tf=1200x' alt='Esta es la consola portátil que pienso comprarme: es un PC con Windows 11 muy potente en formato Steam Deck' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/seguridad-social-advierte-nueva-estafa-carta-quieren-robarte-dinero-1406300'>La Seguridad Social advierte sobre una nueva estafa por carta: “Quieren robarte tu dinero”</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/seguridad-social-advierte-nueva-estafa-carta-quieren-robarte-dinero-1406300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/seguridad-social-advierte-nueva-estafa-carta-quieren-robarte-dinero-4234785.jpg?tf=1200x' alt='La Seguridad Social advierte sobre una nueva estafa por carta: “Quieren robarte tu dinero”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-lanza-parche-procesadores-raptor-lake-13a-14a-generacion-significa-pc-1407138'>Intel lanza un parche para sus procesadores Raptor Lake de 13.ª y 14.ª generación, ¿qué significa esto para tu PC?</a></h4>
-    <a href='https://computerhoy.com/pc/intel-lanza-parche-procesadores-raptor-lake-13a-14a-generacion-significa-pc-1407138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-2826177.jpg?tf=1200x' alt='Intel lanza un parche para sus procesadores Raptor Lake de 13.ª y 14.ª generación, ¿qué significa esto para tu PC?' />
     </a>
 </div>
 
