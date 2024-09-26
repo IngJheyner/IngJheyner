@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-dan-garantias-pero-mejor-portatil-oferta-cae-menos-500-euros-1406246'>Ryzen 7 y 16GB de RAM dan garantías, pero lo mejor de este portátil es la oferta: cae a menos de 500 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-dan-garantias-pero-mejor-portatil-oferta-cae-menos-500-euros-1406246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/asus-m515ua-4233626.jpg?tf=1200x' alt='Ryzen 7 y 16GB de RAM dan garantías, pero lo mejor de este portátil es la oferta: cae a menos de 500 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/solo-5000-personas-mundo-utilizan-rabbit-r1-dispositivo-prometia-acabar-moviles-1407381'>Sólo 5.000 personas en el mundo utilizan el Rabbit R1, el dispositivo que prometía acabar con los móviles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/solo-5000-personas-mundo-utilizan-rabbit-r1-dispositivo-prometia-acabar-moviles-1407381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-r1-3264317.jpg?tf=1200x' alt='Sólo 5.000 personas en el mundo utilizan el Rabbit R1, el dispositivo que prometía acabar con los móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/idea-forma-compania-electrica-pague-gastar-electricidad-1407380'>Idea una forma para que la compañía eléctrica le pague por gastar su electricidad</a></h4>
+    <a href='https://computerhoy.com/life/idea-forma-compania-electrica-pague-gastar-electricidad-1407380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/electricidad-energias-renovables-4242372.jpg?tf=1200x' alt='Idea una forma para que la compañía eléctrica le pague por gastar su electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/ridley-scott-confirma-star-wars-no-hubiesen-existido-dos-mejores-peliculas-1407244'>Ridley Scott lo confirma: sin Star Wars no hubiesen existido dos de sus mejores películas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/ridley-scott-confirma-star-wars-no-hubiesen-existido-dos-mejores-peliculas-1407244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/alien-octavo-pasajero-2755145.jpg?tf=1200x' alt='Ridley Scott lo confirma: sin Star Wars no hubiesen existido dos de sus mejores películas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-maps-quiere-acabar-opciones-odiadas-resenas-falsas-1407376'>Google Maps quiere acabar con una de sus opciones más odiadas: las reseñas falsas</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-quiere-acabar-opciones-odiadas-resenas-falsas-1407376' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/resenas-google-maps-4242367.jpg?tf=1200x' alt='Google Maps quiere acabar con una de sus opciones más odiadas: las reseñas falsas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mitica-saga-ciencia-ficcion-estrello-completamente-taquilla-pero-hay-razon-continuo-adelante-aun-sigue-viva-1406225'>Esta mítica saga de ciencia ficción se estrelló completamente en taquilla, pero hay una razón por la que continuó adelante y aún sigue viva</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mitica-saga-ciencia-ficcion-estrello-completamente-taquilla-pero-hay-razon-continuo-adelante-aun-sigue-viva-1406225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mitica-saga-ciencia-ficcion-estrello-completamente-taquilla-pero-hay-razon-continuo-adelante-aun-sigue-viva-4233617.jpg?tf=1200x' alt='Esta mítica saga de ciencia ficción se estrelló completamente en taquilla, pero hay una razón por la que continuó adelante y aún sigue viva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-johnny-depp-ni-charlize-theron-lograron-evitar-fracaso-pelicula-ciencia-ficcion-90-ahora-puede-verse-max-1406966'>Ni Johnny Depp ni Charlize Theron lograron evitar el fracaso de esta película de ciencia ficción de los 90, que ahora puede verse en Max</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-johnny-depp-ni-charlize-theron-lograron-evitar-fracaso-pelicula-ciencia-ficcion-90-ahora-puede-verse-max-1406966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ni-johnny-depp-ni-charlize-theron-lograron-evitar-fracaso-pelicula-ciencia-ficcion-90-ahora-puede-verse-max-4241671.jpg?tf=1200x' alt='Ni Johnny Depp ni Charlize Theron lograron evitar el fracaso de esta película de ciencia ficción de los 90, que ahora puede verse en Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/aviso-urgente-google-play-store-no-instale-estas-apps-smartphone-tiene-eliminalas-inmediato-1407338'>Aviso urgente de Google Play Store: no instale estas apps en su smartphone (y si las tiene, elimínalas de inmediato)</a></h4>
-    <a href='https://computerhoy.com/android/aviso-urgente-google-play-store-no-instale-estas-apps-smartphone-tiene-eliminalas-inmediato-1407338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aviso-urgente-google-play-store-no-instale-estas-apps-smartphone-tiene-eliminalas-inmediato-4242331.jpg?tf=1200x' alt='Aviso urgente de Google Play Store: no instale estas apps en su smartphone (y si las tiene, elimínalas de inmediato)' />
     </a>
 </div>
 
