@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/opciones-gratis-seguir-utilizando-ordenador-windows-10-no-puede-actualizar-windows-11-1406819'>Opciones gratis para seguir utilizando un ordenador con Windows 10 que no se puede actualizar a Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/opciones-gratis-seguir-utilizando-ordenador-windows-10-no-puede-actualizar-windows-11-1406819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/opciones-gratis-seguir-utilizando-ordenador-windows-10-no-puede-actualizar-windows-11-4241366.jpg?tf=1200x' alt='Opciones gratis para seguir utilizando un ordenador con Windows 10 que no se puede actualizar a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-dyson-aspirador-barato-oferta-amazon-1281006'>Xiaomi va a por Dyson: una de sus aspiradoras más potentes hunde su precio en Amazon y cuesta la mitad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-dyson-aspirador-barato-oferta-amazon-1281006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-vacuum-cleaner-g10-plus-3185764.jpg?tf=1200x' alt='Xiaomi va a por Dyson: una de sus aspiradoras más potentes hunde su precio en Amazon y cuesta la mitad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/he-probado-varios-gestores-contrasenas-proteger-datos-estos-son-mejores-1405462'>He probado varios gestores de contraseñas para proteger mis datos: estos son los mejores</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/he-probado-varios-gestores-contrasenas-proteger-datos-estos-son-mejores-1405462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mejores-gestores-contrasenas-proteccion-datos-4241730.jpg?tf=1200x' alt='He probado varios gestores de contraseñas para proteger mis datos: estos son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-antiguo-menu-contextual-windows-windows-11-forma-permanente-1406796'>Cómo recuperar el antiguo menú contextual de Windows en Windows 11 de forma permanente</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-recuperar-antiguo-menu-contextual-windows-windows-11-forma-permanente-1406796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/menu-contextual-windows-10-windows-11-4241306.jpg?tf=1200x' alt='Cómo recuperar el antiguo menú contextual de Windows en Windows 11 de forma permanente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/no-uses-magis-tv-consecuencias-contenido-pirata-1406330'>NO uses Magis TV: estas son las consecuencias de ver su contenido pirata</a></h4>
     <a href='https://computerhoy.com/no-uses-magis-tv-consecuencias-contenido-pirata-1406330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/magistv-app-ilegal-4236673.jpg?tf=1200x' alt='NO uses Magis TV: estas son las consecuencias de ver su contenido pirata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/malas-noticias-intel-ha-sido-expulsada-mercado-gpu-1407120'>Siguen las malas noticias para Intel: ha sido expulsada del mercado de las GPU</a></h4>
-    <a href='https://computerhoy.com/pc/malas-noticias-intel-ha-sido-expulsada-mercado-gpu-1407120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-revela-especificaciones-oficiales-todas-tarjetas-intel-arc-2809233.jpg?tf=1200x' alt='Siguen las malas noticias para Intel: ha sido expulsada del mercado de las GPU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-core-i9-32gb-ram-mini-pc-oferta-amazon-1253870'>Intel Core i9 en un PC "de bolsillo" y con 32GB de RAM: Amazon pone el sector patas arriba con esta oferta</a></h4>
-    <a href='https://computerhoy.com/pc/intel-core-i9-32gb-ram-mini-pc-oferta-amazon-1253870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/minis-forum-nab9-4197876.jpg?tf=1200x' alt='Intel Core i9 en un PC "de bolsillo" y con 32GB de RAM: Amazon pone el sector patas arriba con esta oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/naturaleza-materia-oscura-podria-ser-compleja-pensabamos-1406859'>La naturaleza de la materia oscura podría ser más compleja de lo que pensábamos</a></h4>
-    <a href='https://computerhoy.com/espacio/naturaleza-materia-oscura-podria-ser-compleja-pensabamos-1406859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/universo-4241446.jpg?tf=1200x' alt='La naturaleza de la materia oscura podría ser más compleja de lo que pensábamos' />
     </a>
 </div>
 
