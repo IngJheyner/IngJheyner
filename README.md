@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-cuenta-correo-antigua-hotmail-yahoo-terra-ono-1406821'>Cómo recuperar una cuenta de correo antigua: Hotmail, Yahoo, Terra, Ono y más</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recuperar-cuenta-correo-antigua-hotmail-yahoo-terra-ono-1406821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/email-antiguos-4241710.jpg?tf=1200x' alt='Cómo recuperar una cuenta de correo antigua: Hotmail, Yahoo, Terra, Ono y más' />
+    <h4><a href='https://computerhoy.com/hogar/xiaomi-amplia-gama-hogar-televisores-100-85-pulgadas-dos-robots-aspiradores-1407173'>Xiaomi amplía su gama para el hogar con televisores de 100 y 85 pulgadas y dos robots aspiradores</a></h4>
+    <a href='https://computerhoy.com/hogar/xiaomi-amplia-gama-hogar-televisores-100-85-pulgadas-dos-robots-aspiradores-1407173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/television-xiaomi-4241993.jpg?tf=1200x' alt='Xiaomi amplía su gama para el hogar con televisores de 100 y 85 pulgadas y dos robots aspiradores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/extraterrestres-podrian-estar-mandando-mensajes-cuanticos-no-pueden-captar-tierra-1407232'>Los extraterrestres podrían estar mandando mensajes cuánticos que no se pueden captar desde la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/extraterrestres-podrian-estar-mandando-mensajes-cuanticos-no-pueden-captar-tierra-1407232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/extraterrestres-podrian-estar-mandando-mensajes-cuanticos-no-pueden-captar-tierra-4242101.jpg?tf=1200x' alt='Los extraterrestres podrían estar mandando mensajes cuánticos que no se pueden captar desde la Tierra' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-anade-tres-wearables-filas-smart-band-9-watch-2-buds-5-1407163'>Xiaomi añade tres wearables a sus filas: Smart Band 9, Watch 2 y Buds 5</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-anade-tres-wearables-filas-smart-band-9-watch-2-buds-5-1407163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-watch-2-4241988.jpg?tf=1200x' alt='Xiaomi añade tres wearables a sus filas: Smart Band 9, Watch 2 y Buds 5' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-suelta-bomba-reloj-deportivo-top-electrocardiograma-rebajado-sorpresa-gratis-1406402'>Huawei suelta la bomba: su reloj deportivo top con electrocardiograma, rebajado y con sorpresa gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-suelta-bomba-reloj-deportivo-top-electrocardiograma-rebajado-sorpresa-gratis-1406402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-watch-5-pro-4240256.jpg?tf=1200x' alt='Huawei suelta la bomba: su reloj deportivo top con electrocardiograma, rebajado y con sorpresa gratis' />
+    <h4><a href='https://computerhoy.com/moviles/xiaomi-mix-flip-primer-plegable-fin-puedes-comprar-espana-1299-euros-1406995'>Xiaomi Mix Flip es el primer plegable que (al fin) puedes comprar en España, por 1.299 euros</a></h4>
+    <a href='https://computerhoy.com/moviles/xiaomi-mix-flip-primer-plegable-fin-puedes-comprar-espana-1299-euros-1406995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-mix-flip-4241984.jpg?tf=1200x' alt='Xiaomi Mix Flip es el primer plegable que (al fin) puedes comprar en España, por 1.299 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/guerra-derechos-autor-diario-ana-frank-podria-acabar-salpicando-vpn-1407209'>La guerra por los derechos de autor de “El diario de Ana Frank” podría acabar salpicando a las VPN</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/guerra-derechos-autor-diario-ana-frank-podria-acabar-salpicando-vpn-1407209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/casa-ana-frank-4242096.jpg?tf=1200x' alt='La guerra por los derechos de autor de “El diario de Ana Frank” podría acabar salpicando a las VPN' />
+    <h4><a href='https://computerhoy.com/moviles/xiaomi-14t-14t-pro-dos-moviles-gama-alta-mejoran-fotografia-leica-zumbullen-ia-1406994'>Xiaomi 14T y 14T Pro, dos móviles de gama alta que mejoran en fotografía Leica y se zumbullen en la IA</a></h4>
+    <a href='https://computerhoy.com/moviles/xiaomi-14t-14t-pro-dos-moviles-gama-alta-mejoran-fotografia-leica-zumbullen-ia-1406994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-14t-series-4241917.jpg?tf=1200x' alt='Xiaomi 14T y 14T Pro, dos móviles de gama alta que mejoran en fotografía Leica y se zumbullen en la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/razones-no-deberias-apagar-router-noche-1136451'>Las razones por las que no deberías apagar el router por la noche</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/razones-no-deberias-apagar-router-noche-1136451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/router-2835351.jpg?tf=1200x' alt='Las razones por las que no deberías apagar el router por la noche' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-xiaomi-14t-pro-ordago-gama-alta-potencia-menos-dinero-1406943'>He probado el Xiaomi 14T Pro, un órdago a la gama alta con más potencia por menos dinero</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-xiaomi-14t-pro-ordago-gama-alta-potencia-menos-dinero-1406943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-14t-pro-4241582.jpg?tf=1200x' alt='He probado el Xiaomi 14T Pro, un órdago a la gama alta con más potencia por menos dinero' />
     </a>
 </div>
 
