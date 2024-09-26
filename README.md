@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/seguridad-social-advierte-nueva-estafa-carta-quieren-robarte-dinero-1406300'>La Seguridad Social advierte sobre una nueva estafa por carta: “Quieren robarte tu dinero”</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/seguridad-social-advierte-nueva-estafa-carta-quieren-robarte-dinero-1406300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/seguridad-social-advierte-nueva-estafa-carta-quieren-robarte-dinero-4234785.jpg?tf=1200x' alt='La Seguridad Social advierte sobre una nueva estafa por carta: “Quieren robarte tu dinero”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/intel-lanza-parche-procesadores-raptor-lake-13a-14a-generacion-significa-pc-1407138'>Intel lanza un parche para sus procesadores Raptor Lake de 13.ª y 14.ª generación, ¿qué significa esto para tu PC?</a></h4>
+    <a href='https://computerhoy.com/pc/intel-lanza-parche-procesadores-raptor-lake-13a-14a-generacion-significa-pc-1407138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/intel-core-13a-generacion-ya-estan-aqui-arquitectura-raptor-lake-prometen-41-rendimiento-2826177.jpg?tf=1200x' alt='Intel lanza un parche para sus procesadores Raptor Lake de 13.ª y 14.ª generación, ¿qué significa esto para tu PC?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/he-mejorado-senal-wifi-mi-casa-repetidores-ni-gastar-euro-app-realidad-aumentada-1406811'>He mejorado la señal WiFi en mi casa, sin repetidores ni gastar un euro, con esta app de realidad aumentada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/he-mejorado-senal-wifi-mi-casa-repetidores-ni-gastar-euro-app-realidad-aumentada-1406811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/he-mejorado-senal-wifi-mi-casa-repetidores-ni-gastar-euro-app-realidad-aumentada-4241355.jpg?tf=1200x' alt='He mejorado la señal WiFi en mi casa, sin repetidores ni gastar un euro, con esta app de realidad aumentada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/james-cameron-une-junta-directiva-stable-diffusion-1407131'>John Connor no estaría contento: James Cameron se une a la junta directiva de Stable Diffusion</a></h4>
     <a href='https://computerhoy.com/tecnologia/james-cameron-une-junta-directiva-stable-diffusion-1407131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/james-cameron-terminator-3941046.jpg?tf=1200x' alt='John Connor no estaría contento: James Cameron se une a la junta directiva de Stable Diffusion' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/opciones-gratis-seguir-utilizando-ordenador-windows-10-no-puede-actualizar-windows-11-1406819'>Opciones gratis para seguir utilizando un ordenador con Windows 10 que no se puede actualizar a Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/opciones-gratis-seguir-utilizando-ordenador-windows-10-no-puede-actualizar-windows-11-1406819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/opciones-gratis-seguir-utilizando-ordenador-windows-10-no-puede-actualizar-windows-11-4241366.jpg?tf=1200x' alt='Opciones gratis para seguir utilizando un ordenador con Windows 10 que no se puede actualizar a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-dyson-aspirador-barato-oferta-amazon-1281006'>Xiaomi va a por Dyson: una de sus aspiradoras más potentes hunde su precio en Amazon y cuesta la mitad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-dyson-aspirador-barato-oferta-amazon-1281006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-vacuum-cleaner-g10-plus-3185764.jpg?tf=1200x' alt='Xiaomi va a por Dyson: una de sus aspiradoras más potentes hunde su precio en Amazon y cuesta la mitad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/he-probado-varios-gestores-contrasenas-proteger-datos-estos-son-mejores-1405462'>He probado varios gestores de contraseñas para proteger mis datos: estos son los mejores</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/he-probado-varios-gestores-contrasenas-proteger-datos-estos-son-mejores-1405462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mejores-gestores-contrasenas-proteccion-datos-4241730.jpg?tf=1200x' alt='He probado varios gestores de contraseñas para proteger mis datos: estos son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-antiguo-menu-contextual-windows-windows-11-forma-permanente-1406796'>Cómo recuperar el antiguo menú contextual de Windows en Windows 11 de forma permanente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recuperar-antiguo-menu-contextual-windows-windows-11-forma-permanente-1406796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/menu-contextual-windows-10-windows-11-4241306.jpg?tf=1200x' alt='Cómo recuperar el antiguo menú contextual de Windows en Windows 11 de forma permanente' />
     </a>
 </div>
 
