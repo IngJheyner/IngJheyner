@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/que-es-como-instalar-rsat-windows-11-1394014'>Qué es el RSAT, para qué sirve y cómo se instala en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/que-es-como-instalar-rsat-windows-11-1394014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rsat-sirve-como-instalarlo-windows-11-3654640.jpg?tf=1200x' alt='Qué es el RSAT, para qué sirve y cómo se instala en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-tiktok-1394806'>Guardar una hoja de laurel en la carcasa del móvil: cada vez hace más gente por este curioso motivo</a></h4>
+    <a href='https://computerhoy.com/life/guardar-hoja-laurel-carcasa-movil-tiktok-1394806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hoja-laurel-movil-4242058.jpg?tf=1200x' alt='Guardar una hoja de laurel en la carcasa del móvil: cada vez hace más gente por este curioso motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/adios-llamadas-telefono-autentica-razon-jovenes-nunca-responden-1405480'>¿Adiós a las llamadas de teléfono? Esta es la auténtica razón por la que los jóvenes nunca responden</a></h4>
+    <a href='https://computerhoy.com/moviles/adios-llamadas-telefono-autentica-razon-jovenes-nunca-responden-1405480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/adios-llamadas-telefono-autentica-razon-jovenes-nunca-responden-4192569.jpg?tf=1200x' alt='¿Adiós a las llamadas de teléfono? Esta es la auténtica razón por la que los jóvenes nunca responden' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/xiaomi-amplia-gama-hogar-televisores-100-85-pulgadas-dos-robots-aspiradores-1407173'>Xiaomi amplía su gama para el hogar con televisores de 100 y 85 pulgadas y dos robots aspiradores</a></h4>
     <a href='https://computerhoy.com/hogar/xiaomi-amplia-gama-hogar-televisores-100-85-pulgadas-dos-robots-aspiradores-1407173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/television-xiaomi-4241993.jpg?tf=1200x' alt='Xiaomi amplía su gama para el hogar con televisores de 100 y 85 pulgadas y dos robots aspiradores' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-anade-tres-wearables-filas-smart-band-9-watch-2-buds-5-1407163'>Xiaomi añade tres wearables a sus filas: Smart Band 9, Watch 2 y Buds 5</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-anade-tres-wearables-filas-smart-band-9-watch-2-buds-5-1407163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-watch-2-4241988.jpg?tf=1200x' alt='Xiaomi añade tres wearables a sus filas: Smart Band 9, Watch 2 y Buds 5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/xiaomi-mix-flip-primer-plegable-fin-puedes-comprar-espana-1299-euros-1406995'>Xiaomi Mix Flip es el primer plegable que (al fin) puedes comprar en España, por 1.299 euros</a></h4>
-    <a href='https://computerhoy.com/moviles/xiaomi-mix-flip-primer-plegable-fin-puedes-comprar-espana-1299-euros-1406995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-mix-flip-4241984.jpg?tf=1200x' alt='Xiaomi Mix Flip es el primer plegable que (al fin) puedes comprar en España, por 1.299 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/xiaomi-14t-14t-pro-dos-moviles-gama-alta-mejoran-fotografia-leica-zumbullen-ia-1406994'>Xiaomi 14T y 14T Pro, dos móviles de gama alta que mejoran en fotografía Leica y se zumbullen en la IA</a></h4>
-    <a href='https://computerhoy.com/moviles/xiaomi-14t-14t-pro-dos-moviles-gama-alta-mejoran-fotografia-leica-zumbullen-ia-1406994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-14t-series-4241917.jpg?tf=1200x' alt='Xiaomi 14T y 14T Pro, dos móviles de gama alta que mejoran en fotografía Leica y se zumbullen en la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-xiaomi-14t-pro-ordago-gama-alta-potencia-menos-dinero-1406943'>He probado el Xiaomi 14T Pro, un órdago a la gama alta con más potencia por menos dinero</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-xiaomi-14t-pro-ordago-gama-alta-potencia-menos-dinero-1406943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-14t-pro-4241582.jpg?tf=1200x' alt='He probado el Xiaomi 14T Pro, un órdago a la gama alta con más potencia por menos dinero' />
     </a>
 </div>
 
