@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/como-activar-nuevo-modo-black-mirror-iphone-di-adios-tocar-botones-1407395'>Cómo activar el nuevo modo Black Mirror en tu iPhone y di adiós a tocar los botones</a></h4>
+    <a href='https://computerhoy.com/apple/como-activar-nuevo-modo-black-mirror-iphone-di-adios-tocar-botones-1407395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-activar-nuevo-modo-black-mirror-iphone-di-adios-tocar-botones-4242447.jpg?tf=1200x' alt='Cómo activar el nuevo modo Black Mirror en tu iPhone y di adiós a tocar los botones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-tab-s10-ultra-s10-primeras-tablets-ia-integrada-1407405'>Samsung Galaxy Tab S10 Ultra y S10+, las primeras tablets con IA integrada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-tab-s10-ultra-s10-primeras-tablets-ia-integrada-1407405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-tab-s10-ultra-galaxy-tab-s10-primeras-tablets-ia-integrada-4242429.jpg?tf=1200x' alt='Samsung Galaxy Tab S10 Ultra y S10+, las primeras tablets con IA integrada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-fe-todas-funciones-galaxy-ai-barato-1407397'>El nuevo Samsung Galaxy S24 FE con todas las funciones Galaxy AI, y más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-fe-todas-funciones-galaxy-ai-barato-1407397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-anuncia-movil-galaxy-s24-fe-tablet-galaxy-tab-s10-ultra-disenados-galaxy-ai-4242373.jpg?tf=1200x' alt='El nuevo Samsung Galaxy S24 FE con todas las funciones Galaxy AI, y más barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-dan-garantias-pero-mejor-portatil-oferta-cae-menos-500-euros-1406246'>Ryzen 7 y 16GB de RAM dan garantías, pero lo mejor de este portátil es la oferta: cae a menos de 500 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-dan-garantias-pero-mejor-portatil-oferta-cae-menos-500-euros-1406246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/asus-m515ua-4233626.jpg?tf=1200x' alt='Ryzen 7 y 16GB de RAM dan garantías, pero lo mejor de este portátil es la oferta: cae a menos de 500 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/solo-5000-personas-mundo-utilizan-rabbit-r1-dispositivo-prometia-acabar-moviles-1407381'>Sólo 5.000 personas en el mundo utilizan el Rabbit R1, el dispositivo que prometía acabar con los móviles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/solo-5000-personas-mundo-utilizan-rabbit-r1-dispositivo-prometia-acabar-moviles-1407381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-r1-3264317.jpg?tf=1200x' alt='Sólo 5.000 personas en el mundo utilizan el Rabbit R1, el dispositivo que prometía acabar con los móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/idea-forma-compania-electrica-pague-gastar-electricidad-1407380'>Idea una forma para que la compañía eléctrica le pague por gastar su electricidad</a></h4>
-    <a href='https://computerhoy.com/life/idea-forma-compania-electrica-pague-gastar-electricidad-1407380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/electricidad-energias-renovables-4242372.jpg?tf=1200x' alt='Idea una forma para que la compañía eléctrica le pague por gastar su electricidad' />
     </a>
 </div>
 
