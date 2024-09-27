@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/gmail-ha-anunciado-nueva-funcion-contestar-correos-rapido-gracias-gemini-1407460'>Gmail ha anunciado una nueva función para contestar los correos más rápido gracias a Gemini</a></h4>
+    <a href='https://computerhoy.com/google/gmail-ha-anunciado-nueva-funcion-contestar-correos-rapido-gracias-gemini-1407460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/gmail-ha-anunciado-nueva-funcion-contestar-mensajes-rapido-gracias-gemini-4242504.jpg?tf=1200x' alt='Gmail ha anunciado una nueva función para contestar los correos más rápido gracias a Gemini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/generacion-z-son-maestros-utilizar-tiktok-problemas-dispositivo-oficina-1404538'>La generación Z son maestros en utilizar TikTok, pero tienen serios problemas para entender este dispositivo de la oficina</a></h4>
+    <a href='https://computerhoy.com/tecnologia/generacion-z-son-maestros-utilizar-tiktok-problemas-dispositivo-oficina-1404538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/generacion-z-son-maestros-utilizar-tiktok-pero-tienen-serios-problemas-entender-dispositivo-oficina-4148774.jpg?tf=1200x' alt='La generación Z son maestros en utilizar TikTok, pero tienen serios problemas para entender este dispositivo de la oficina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-leer-mangas-crunchyroll-1406381'>Cómo leer mangas con Crunchyroll</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-leer-mangas-crunchyroll-1406381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mangas-crunchyroll-4238546.jpg?tf=1200x' alt='Cómo leer mangas con Crunchyroll' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/windows-android-cada-vez-cerca-xiaomi-suma-integracion-xiaomi-14t-1407438'>Windows y Android cada vez más cerca, Xiaomi se suma a la integración con los Xiaomi 14T</a></h4>
     <a href='https://computerhoy.com/moviles/windows-android-cada-vez-cerca-xiaomi-suma-integracion-xiaomi-14t-1407438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-14t-pro-4241602.jpg?tf=1200x' alt='Windows y Android cada vez más cerca, Xiaomi se suma a la integración con los Xiaomi 14T' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/smart-tv-lg-publicidad-salvapantallas-1407450'>Los Smart TV de LG están empezando a mostrar publicidad incluso cuando no los estás viendo</a></h4>
-    <a href='https://computerhoy.com/tv/smart-tv-lg-publicidad-salvapantallas-1407450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/smart-tv-lg-estan-empezando-mostrar-publicidad-incluso-cuando-no-estas-viendo-4242454.jpg?tf=1200x' alt='Los Smart TV de LG están empezando a mostrar publicidad incluso cuando no los estás viendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/empresa-espanola-posiciona-como-alternativa-top-chips-neuralink-elon-musk-1407439'>Esta empresa española se posiciona como una alternativa top a los chips de Neuralink y Elon Musk</a></h4>
-    <a href='https://computerhoy.com/tecnologia/empresa-espanola-posiciona-como-alternativa-top-chips-neuralink-elon-musk-1407439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/empresa-espanola-chips-4242482.jpg?tf=1200x' alt='Esta empresa española se posiciona como una alternativa top a los chips de Neuralink y Elon Musk' />
     </a>
 </div>
 
