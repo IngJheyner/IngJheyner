@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/playstation-6-sera-retrocompatible-gracias-existencia-playstation-5-pro-1407681'>PlayStation 6 será retrocompatible gracias a la existencia de PlayStation 5 Pro</a></h4>
-    <a href='https://computerhoy.com/gaming/playstation-6-sera-retrocompatible-gracias-existencia-playstation-5-pro-1407681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/playstation-5-4242915.jpg?tf=1200x' alt='PlayStation 6 será retrocompatible gracias a la existencia de PlayStation 5 Pro' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-microsoft-blocked-bloquea-windows-completo-1407689'>La estafa Microsoft Blocked, que bloquea Windows por completo, se extiende sin control</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafa-microsoft-blocked-bloquea-windows-completo-1407689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estafa-microsoft-blocked-bloquea-windows-completo-extiende-control-4242909.jpg?tf=1200x' alt='La estafa Microsoft Blocked, que bloquea Windows por completo, se extiende sin control' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartband-siempre-recomiendo-xiaomi-pero-pro-tiene-bateria-reloj-mucho-barata-1406423'>La smartband que siempre recomiendo es la de Xiaomi, pero la Pro: tiene más batería que un reloj y es mucho más barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartband-siempre-recomiendo-xiaomi-pero-pro-tiene-bateria-reloj-mucho-barata-1406423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-band-8-pro-3290705.jpg?tf=1200x' alt='La smartband que siempre recomiendo es la de Xiaomi, pero la Pro: tiene más batería que un reloj y es mucho más barata' />
+    <h4><a href='https://computerhoy.com/tecnologia/todo-mundo-deshace-ellas-pero-99-casos-contienen-oro-chatarreros-matan-ellas-1407663'>Todo el mundo se deshace de ellas, pero en el 99% de los casos contienen oro y los chatarreros se matan por ellas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-mundo-deshace-ellas-pero-99-casos-contienen-oro-chatarreros-matan-ellas-1407663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/todo-mundo-deshace-ellas-pero-99-casos-contienen-oro-chatarreros-matan-ellas-4242917.jpg?tf=1200x' alt='Todo el mundo se deshace de ellas, pero en el 99% de los casos contienen oro y los chatarreros se matan por ellas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/steven-spielberg-descubre-como-autentico-gamer-no-puedo-jugar-mandos-solo-teclado-raton-1407680'>Steven Spielberg se descubre como un auténtico gamer: "No puedo jugar con mandos, solo con teclado y ratón"</a></h4>
-    <a href='https://computerhoy.com/gaming/steven-spielberg-descubre-como-autentico-gamer-no-puedo-jugar-mandos-solo-teclado-raton-1407680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steven-spielberg-3278433.jpg?tf=1200x' alt='Steven Spielberg se descubre como un auténtico gamer: "No puedo jugar con mandos, solo con teclado y ratón"' />
+    <h4><a href='https://computerhoy.com/tecnologia/smart-cities-como-tecnologia-llegando-grandes-ciudades-1404313'>Smart cities, así es como la tecnología está llegando a las grandes ciudades</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smart-cities-como-tecnologia-llegando-grandes-ciudades-1404313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/smart-citites-como-tecnologia-llegando-grandes-ciudades-4148921.jpg?tf=1200x' alt='Smart cities, así es como la tecnología está llegando a las grandes ciudades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/posiblemente-mejor-miniserie-historica-reciente-mucho-mejor-gladiator-puedes-verla-max-1405897'>Posiblemente, la mejor miniserie histórica reciente: mucho mejor que Gladiator y puedes verla en MAX</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/posiblemente-mejor-miniserie-historica-reciente-mucho-mejor-gladiator-puedes-verla-max-1405897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/roma-serie-hbo-gladiator-4242749.jpg?tf=1200x' alt='Posiblemente, la mejor miniserie histórica reciente: mucho mejor que Gladiator y puedes verla en MAX' />
+    <h4><a href='https://computerhoy.com/pc/acer-gigante-taiwanes-pc-crecio-base-compras-apuesta-portatil-1404308'>Acer, el gigante taiwanés del PC que creció a base de compras y su apuesta por el portátil</a></h4>
+    <a href='https://computerhoy.com/pc/acer-gigante-taiwanes-pc-crecio-base-compras-apuesta-portatil-1404308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/acer-4148454.jpg?tf=1200x' alt='Acer, el gigante taiwanés del PC que creció a base de compras y su apuesta por el portátil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/descubren-donde-podria-estar-atmosfera-perdida-marte-fuente-clave-energia-1407177'>Descubren dónde podría estar la atmósfera perdida de Marte: ¿una fuente clave de energía?</a></h4>
-    <a href='https://computerhoy.com/espacio/descubren-donde-podria-estar-atmosfera-perdida-marte-fuente-clave-energia-1407177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/imagen-mawrth-vallis-marte-4242035.jpg?tf=1200x' alt='Descubren dónde podría estar la atmósfera perdida de Marte: ¿una fuente clave de energía?' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-acabara-grandes-problemas-mensajes-inacabados-1407682'>WhatsApp acabará con uno de sus grandes problemas: los mensajes inacabados</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-acabara-grandes-problemas-mensajes-inacabados-1407682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-4242919.jpg?tf=1200x' alt='WhatsApp acabará con uno de sus grandes problemas: los mensajes inacabados' />
     </a>
 </div>
 
