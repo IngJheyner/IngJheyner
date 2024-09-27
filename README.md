@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tienen-casi-todos-coches-sirve-agujero-oculto-puertas-traseras-1407683'>Lo tienen casi todos los coches: ¿para qué sirve este agujero oculto en las puertas traseras?</a></h4>
+    <a href='https://computerhoy.com/motor/tienen-casi-todos-coches-sirve-agujero-oculto-puertas-traseras-1407683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tienen-casi-todos-coches-sirve-agujero-oculto-puertas-traseras-4242930.jpg?tf=1200x' alt='Lo tienen casi todos los coches: ¿para qué sirve este agujero oculto en las puertas traseras?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/estafa-microsoft-blocked-bloquea-windows-completo-1407689'>La estafa Microsoft Blocked, que bloquea Windows por completo, se extiende sin control</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estafa-microsoft-blocked-bloquea-windows-completo-1407689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estafa-microsoft-blocked-bloquea-windows-completo-extiende-control-4242909.jpg?tf=1200x' alt='La estafa Microsoft Blocked, que bloquea Windows por completo, se extiende sin control' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/acer-gigante-taiwanes-pc-crecio-base-compras-apuesta-portatil-1404308'>Acer, el gigante taiwanés del PC que creció a base de compras y su apuesta por el portátil</a></h4>
     <a href='https://computerhoy.com/pc/acer-gigante-taiwanes-pc-crecio-base-compras-apuesta-portatil-1404308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/acer-4148454.jpg?tf=1200x' alt='Acer, el gigante taiwanés del PC que creció a base de compras y su apuesta por el portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-acabara-grandes-problemas-mensajes-inacabados-1407682'>WhatsApp acabará con uno de sus grandes problemas: los mensajes inacabados</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-acabara-grandes-problemas-mensajes-inacabados-1407682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-4242919.jpg?tf=1200x' alt='WhatsApp acabará con uno de sus grandes problemas: los mensajes inacabados' />
     </a>
 </div>
 
