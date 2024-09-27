@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ocurre-decides-no-activar-nunca-windows-10-11-legal-1407540'>Qué ocurre si decides no activar nunca Windows 10 o 11: ¿es legal?</a></h4>
+    <a href='https://computerhoy.com/windows/ocurre-decides-no-activar-nunca-windows-10-11-legal-1407540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ocurre-decides-no-activar-nunca-windows-10-11-legal-4242669.jpg?tf=1200x' alt='Qué ocurre si decides no activar nunca Windows 10 o 11: ¿es legal?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/conexion-tv-habitaciones-velocidad-internet-cable-coaxial-1395277'>Si tienes esta conexión para televisión en tus habitaciones, enhorabuena: puedes hacer que tu conexión a internet vuele</a></h4>
+    <a href='https://computerhoy.com/redes/conexion-tv-habitaciones-velocidad-internet-cable-coaxial-1395277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/conexion-coaxial-tv-4242772.jpg?tf=1200x' alt='Si tienes esta conexión para televisión en tus habitaciones, enhorabuena: puedes hacer que tu conexión a internet vuele' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-expertos-forenses-pueden-leer-mensajes-whatsapp-aunque-esten-cifrados-1407631'>Así es como los expertos forenses pueden leer tus mensajes de WhatsApp aunque estén cifrados</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-expertos-forenses-pueden-leer-mensajes-whatsapp-aunque-esten-cifrados-1407631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-expertos-forenses-pueden-leer-mensajes-whatsapp-aunque-esten-cifrados-4242839.jpg?tf=1200x' alt='Así es como los expertos forenses pueden leer tus mensajes de WhatsApp aunque estén cifrados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/spotify-barato-como-funciona-plan-familiar-compartir-cuenta-1407536'>Spotify barato: qué es y cómo funciona el plan familiar para compartir cuenta</a></h4>
     <a href='https://computerhoy.com/tecnologia/spotify-barato-como-funciona-plan-familiar-compartir-cuenta-1407536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/spotify-barato-4242707.jpg?tf=1200x' alt='Spotify barato: qué es y cómo funciona el plan familiar para compartir cuenta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/que-hacer-contacto-desconocido-te-escribe-whatsapp-1394571'>Qué hacer y cómo reaccionar si un desconocido te escribe en WhatsApp</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/que-hacer-contacto-desconocido-te-escribe-whatsapp-1394571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hacker-whatsapp-4242773.jpg?tf=1200x' alt='Qué hacer y cómo reaccionar si un desconocido te escribe en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mover-reordenar-reorganizar-paginas-documento-microsoft-word-1402985'>Cómo mover, reordenar y reorganizar páginas en un documento de Microsoft Word</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mover-reordenar-reorganizar-paginas-documento-microsoft-word-1402985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/editar-paginas-microsoft-word-4085558.jpg?tf=1200x' alt='Cómo mover, reordenar y reorganizar páginas en un documento de Microsoft Word' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cientificos-seres-humanos-fecha-estimada-singularidad-1399601'>Los científicos estima que el ser humano alcanzará la singularidad en solo 21 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cientificos-seres-humanos-fecha-estimada-singularidad-1399601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/singularidad-ser-humano-4242776.jpg?tf=1200x' alt='Los científicos estima que el ser humano alcanzará la singularidad en solo 21 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/luz-vuelve-subir-precio-controla-factura-enchufe-wifi-monitor-consumo-1407168'>La luz vuelve a subir de precio: controla tu factura con este enchufe WiFi con monitor de consumo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/luz-vuelve-subir-precio-controla-factura-enchufe-wifi-monitor-consumo-1407168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tp-link-tapo-p110-4241967.jpg?tf=1200x' alt='La luz vuelve a subir de precio: controla tu factura con este enchufe WiFi con monitor de consumo' />
     </a>
 </div>
 
