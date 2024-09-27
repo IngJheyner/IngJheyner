@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/portatil-barato-ligero-lidl-tiene-solucion-frio-otono-solo-cuesta-37-euros-1407314'>Portátil, barato y ligero: Lidl tiene la solución al frío de otoño, y solo cuesta 37 euros</a></h4>
-    <a href='https://computerhoy.com/hogar/portatil-barato-ligero-lidl-tiene-solucion-frio-otono-solo-cuesta-37-euros-1407314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/premiado-producto-lidl-alimentos-duren-frescos-tiempo-3209558.jpg?tf=1200x' alt='Portátil, barato y ligero: Lidl tiene la solución al frío de otoño, y solo cuesta 37 euros' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-mover-reordenar-reorganizar-paginas-documento-microsoft-word-1402985'>Cómo mover, reordenar y reorganizar páginas en un documento de Microsoft Word</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-mover-reordenar-reorganizar-paginas-documento-microsoft-word-1402985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/editar-paginas-microsoft-word-4085558.jpg?tf=1200x' alt='Cómo mover, reordenar y reorganizar páginas en un documento de Microsoft Word' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cuenta-atras-apple-seis-meses-iphone-pierdan-magia-conviertan-android-1407509'>Cuenta atrás para Apple: seis meses para que los iPhone pierdan su magia y se conviertan en un "Android" más</a></h4>
-    <a href='https://computerhoy.com/apple/cuenta-atras-apple-seis-meses-iphone-pierdan-magia-conviertan-android-1407509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-android-4242681.jpg?tf=1200x' alt='Cuenta atrás para Apple: seis meses para que los iPhone pierdan su magia y se conviertan en un "Android" más' />
+    <h4><a href='https://computerhoy.com/tecnologia/cientificos-seres-humanos-fecha-estimada-singularidad-1399601'>Los científicos estima que el ser humano alcanzará la singularidad en solo 21 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cientificos-seres-humanos-fecha-estimada-singularidad-1399601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/singularidad-ser-humano-4242776.jpg?tf=1200x' alt='Los científicos estima que el ser humano alcanzará la singularidad en solo 21 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/panda-amazon-alian-antivirus-vpn-desploma-precio-barato-todos-1406259'>Panda y Amazon se alían: su antivirus con VPN desploma su precio y es el más barato de todos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/panda-amazon-alian-antivirus-vpn-desploma-precio-barato-todos-1406259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/panda-dome-complete-4233952.jpg?tf=1200x' alt='Panda y Amazon se alían: su antivirus con VPN desploma su precio y es el más barato de todos' />
+    <h4><a href='https://computerhoy.com/tecnologia/luz-vuelve-subir-precio-controla-factura-enchufe-wifi-monitor-consumo-1407168'>La luz vuelve a subir de precio: controla tu factura con este enchufe WiFi con monitor de consumo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/luz-vuelve-subir-precio-controla-factura-enchufe-wifi-monitor-consumo-1407168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tp-link-tapo-p110-4241967.jpg?tf=1200x' alt='La luz vuelve a subir de precio: controla tu factura con este enchufe WiFi con monitor de consumo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-rtx-5090-5080-especificaciones-fecha-lanzamiento-filtradas-1407482'>Nvidia RTX 5090 y 5080, especificaciones y fecha de lanzamiento filtradas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-rtx-5090-5080-especificaciones-fecha-lanzamiento-filtradas-1407482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nvidia-rtx-tarjetas-graficas-3290695.jpg?tf=1200x' alt='Nvidia RTX 5090 y 5080, especificaciones y fecha de lanzamiento filtradas' />
+    <h4><a href='https://computerhoy.com/tv/preparate-sintonizar-tv-otra-vez-nuevo-apagon-tdt-migracion-dvb-t2-1407549'>Prepárate para sintonizar tu TV (otra vez): nuevo apagón en la TDT por la migración a DVB-T2</a></h4>
+    <a href='https://computerhoy.com/tv/preparate-sintonizar-tv-otra-vez-nuevo-apagon-tdt-migracion-dvb-t2-1407549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/preparate-sintonizar-tv-otra-vez-nuevo-apagon-tdt-migracion-dvb-t2-4242719.jpg?tf=1200x' alt='Prepárate para sintonizar tu TV (otra vez): nuevo apagón en la TDT por la migración a DVB-T2' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/llegan-filtros-camara-whatsapp-estilo-videollamadas-1407489'>Llegan los filtros de cámara a WhatsApp al estilo de las videollamadas</a></h4>
-    <a href='https://computerhoy.com/apps/llegan-filtros-camara-whatsapp-estilo-videollamadas-1407489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-tendra-filtros-camara-principal-estilo-videollamadas-4242543.jpg?tf=1200x' alt='Llegan los filtros de cámara a WhatsApp al estilo de las videollamadas' />
+    <h4><a href='https://computerhoy.com/tutoriales/no-puedo-entrar-bios-todas-formas-desbloquear-acceso-1407069'>No puedo entrar en la BIOS de mi ordenador: todas las formas de desbloquear el acceso</a></h4>
+    <a href='https://computerhoy.com/tutoriales/no-puedo-entrar-bios-todas-formas-desbloquear-acceso-1407069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/desbloquear-bios-pc-4241845.jpg?tf=1200x' alt='No puedo entrar en la BIOS de mi ordenador: todas las formas de desbloquear el acceso' />
     </a>
 </div>
 
