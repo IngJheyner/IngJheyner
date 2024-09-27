@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-forma-colocar-pasta-termica-reduce-grados-mas-temperatura-1119209'>Esta forma de colocar la pasta térmica reduce 5 grados más la temperatura, y no la usa casi nadie</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/mejor-forma-colocar-pasta-termica-reduce-grados-mas-temperatura-1119209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/forma-colocar-pasta-termica-gpu-reduce-5-grados-adicionales-temperatura-no-usa-casi-nadie-2803293.jpg?tf=1200x' alt='Esta forma de colocar la pasta térmica reduce 5 grados más la temperatura, y no la usa casi nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/tardeo-moda-generacion-z-millennials-pero-pocos-saben-nacio-ciudad-espanola-1407254'>El “tardeo” está de moda entre la generación Z y los millennials, pero pocos saben que nació en esta ciudad española</a></h4>
     <a href='https://computerhoy.com/life/tardeo-moda-generacion-z-millennials-pero-pocos-saben-nacio-ciudad-espanola-1407254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tardeo-moda-generacion-z-millennials-pero-pocos-saben-nacio-ciudad-espanola-4242134.jpg?tf=1200x' alt='El “tardeo” está de moda entre la generación Z y los millennials, pero pocos saben que nació en esta ciudad española' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-fe-todas-funciones-galaxy-ai-barato-1407397'>El nuevo Samsung Galaxy S24 FE con todas las funciones Galaxy AI, y más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-fe-todas-funciones-galaxy-ai-barato-1407397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-anuncia-movil-galaxy-s24-fe-tablet-galaxy-tab-s10-ultra-disenados-galaxy-ai-4242373.jpg?tf=1200x' alt='El nuevo Samsung Galaxy S24 FE con todas las funciones Galaxy AI, y más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sigue-utilizando-busca-hospitales-fabricas-existen-smartphones-1407368'>Por qué se sigue utilizando "el busca" en hospitales y fábricas si existen los smartphones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sigue-utilizando-busca-hospitales-fabricas-existen-smartphones-1407368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sigue-utilizando-busca-hospitales-fabricas-existen-smartphones-4242414.jpg?tf=1200x' alt='Por qué se sigue utilizando "el busca" en hospitales y fábricas si existen los smartphones' />
     </a>
 </div>
 
