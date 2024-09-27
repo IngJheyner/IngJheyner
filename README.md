@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/portatil-barato-ligero-lidl-tiene-solucion-frio-otono-solo-cuesta-37-euros-1407314'>Portátil, barato y ligero: Lidl tiene la solución al frío de otoño, y solo cuesta 37 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/portatil-barato-ligero-lidl-tiene-solucion-frio-otono-solo-cuesta-37-euros-1407314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/premiado-producto-lidl-alimentos-duren-frescos-tiempo-3209558.jpg?tf=1200x' alt='Portátil, barato y ligero: Lidl tiene la solución al frío de otoño, y solo cuesta 37 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/cuenta-atras-apple-seis-meses-iphone-pierdan-magia-conviertan-android-1407509'>Cuenta atrás para Apple: seis meses para que los iPhone pierdan su magia y se conviertan en un "Android" más</a></h4>
     <a href='https://computerhoy.com/apple/cuenta-atras-apple-seis-meses-iphone-pierdan-magia-conviertan-android-1407509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-android-4242681.jpg?tf=1200x' alt='Cuenta atrás para Apple: seis meses para que los iPhone pierdan su magia y se conviertan en un "Android" más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/llegan-filtros-camara-whatsapp-estilo-videollamadas-1407489'>Llegan los filtros de cámara a WhatsApp al estilo de las videollamadas</a></h4>
     <a href='https://computerhoy.com/apps/llegan-filtros-camara-whatsapp-estilo-videollamadas-1407489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-tendra-filtros-camara-principal-estilo-videollamadas-4242543.jpg?tf=1200x' alt='Llegan los filtros de cámara a WhatsApp al estilo de las videollamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/elemento-clave-mantener-cpu-fria-tienes-cocina-1145727'>Este elemento clave para mantener tu CPU bien fría lo tienes en la cocina</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/elemento-clave-mantener-cpu-fria-tienes-cocina-1145727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/forma-colocar-pasta-termica-gpu-reduce-5-grados-adicionales-temperatura-no-usa-casi-nadie-2803293.jpg?tf=1200x' alt='Este elemento clave para mantener tu CPU bien fría lo tienes en la cocina' />
     </a>
 </div>
 
