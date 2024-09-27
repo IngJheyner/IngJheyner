@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/20-discos-duros-decada-90-ya-son-ilegibles-han-perdido-millones-canciones-1407312'>Un 20% de los discos duros de la década de los 90 ya son ilegibles: se han perdido millones de canciones</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/20-discos-duros-decada-90-ya-son-ilegibles-han-perdido-millones-canciones-1407312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/discos-duros-han-perdido-millones-canciones-1990-no-pueden-leer-4242217.jpg?tf=1200x' alt='Un 20% de los discos duros de la década de los 90 ya son ilegibles: se han perdido millones de canciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-planea-lanzar-homeaccessory-ia-a18-2025-todo-sabe-ahora-1407464'>Apple planea lanzar su 'HomeAccessory' con IA, A18 y más en 2025, esto es todo lo que sabe por ahora</a></h4>
+    <a href='https://computerhoy.com/apple/apple-planea-lanzar-homeaccessory-ia-a18-2025-todo-sabe-ahora-1407464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/pantalla-homepod-3007202.jpg?tf=1200x' alt='Apple planea lanzar su 'HomeAccessory' con IA, A18 y más en 2025, esto es todo lo que sabe por ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/gmail-ha-anunciado-nueva-funcion-contestar-correos-rapido-gracias-gemini-1407460'>Gmail ha anunciado una nueva función para contestar los correos más rápido gracias a Gemini</a></h4>
     <a href='https://computerhoy.com/google/gmail-ha-anunciado-nueva-funcion-contestar-correos-rapido-gracias-gemini-1407460' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/gmail-ha-anunciado-nueva-funcion-contestar-mensajes-rapido-gracias-gemini-4242504.jpg?tf=1200x' alt='Gmail ha anunciado una nueva función para contestar los correos más rápido gracias a Gemini' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-leer-mangas-crunchyroll-1406381'>Cómo leer mangas con Crunchyroll</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-leer-mangas-crunchyroll-1406381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mangas-crunchyroll-4238546.jpg?tf=1200x' alt='Cómo leer mangas con Crunchyroll' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hp-print-ai-chatbot-ia-ayudarte-imprimir-1407458'>HP Print AI, el chatbot con IA para ayudarte a imprimir, ¿es necesario?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hp-print-ai-chatbot-ia-ayudarte-imprimir-1407458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hp-presenta-hp-print-ai-chatbot-ia-ayudarte-imprimir-necesario-4242470.jpg?tf=1200x' alt='HP Print AI, el chatbot con IA para ayudarte a imprimir, ¿es necesario?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/windows-android-cada-vez-cerca-xiaomi-suma-integracion-xiaomi-14t-1407438'>Windows y Android cada vez más cerca, Xiaomi se suma a la integración con los Xiaomi 14T</a></h4>
-    <a href='https://computerhoy.com/moviles/windows-android-cada-vez-cerca-xiaomi-suma-integracion-xiaomi-14t-1407438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-14t-pro-4241602.jpg?tf=1200x' alt='Windows y Android cada vez más cerca, Xiaomi se suma a la integración con los Xiaomi 14T' />
     </a>
 </div>
 
