@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/creador-mario-explica-nintendo-no-va-usar-ia-juegos-1407698'>El creador de Mario explica por qué Nintendo no va a usar IA en sus juegos</a></h4>
+    <a href='https://computerhoy.com/gaming/creador-mario-explica-nintendo-no-va-usar-ia-juegos-1407698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/shigeru-miyamoto-anuncia-segunda-parte-super-mario-bros-pelicula-primeros-detalles-fecha-estreno-3285617.jpg?tf=1200x' alt='El creador de Mario explica por qué Nintendo no va a usar IA en sus juegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/tienen-casi-todos-coches-sirve-agujero-oculto-puertas-traseras-1407683'>Lo tienen casi todos los coches: ¿para qué sirve este agujero oculto en las puertas traseras?</a></h4>
     <a href='https://computerhoy.com/motor/tienen-casi-todos-coches-sirve-agujero-oculto-puertas-traseras-1407683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tienen-casi-todos-coches-sirve-agujero-oculto-puertas-traseras-4242930.jpg?tf=1200x' alt='Lo tienen casi todos los coches: ¿para qué sirve este agujero oculto en las puertas traseras?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/smart-cities-como-tecnologia-llegando-grandes-ciudades-1404313'>Smart cities, así es como la tecnología está llegando a las grandes ciudades</a></h4>
     <a href='https://computerhoy.com/tecnologia/smart-cities-como-tecnologia-llegando-grandes-ciudades-1404313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/smart-citites-como-tecnologia-llegando-grandes-ciudades-4148921.jpg?tf=1200x' alt='Smart cities, así es como la tecnología está llegando a las grandes ciudades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/acer-gigante-taiwanes-pc-crecio-base-compras-apuesta-portatil-1404308'>Acer, el gigante taiwanés del PC que creció a base de compras y su apuesta por el portátil</a></h4>
-    <a href='https://computerhoy.com/pc/acer-gigante-taiwanes-pc-crecio-base-compras-apuesta-portatil-1404308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/acer-4148454.jpg?tf=1200x' alt='Acer, el gigante taiwanés del PC que creció a base de compras y su apuesta por el portátil' />
     </a>
 </div>
 
