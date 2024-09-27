@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tardeo-moda-generacion-z-millennials-pero-pocos-saben-nacio-ciudad-espanola-1407254'>El “tardeo” está de moda entre la generación Z y los millennials, pero pocos saben que nació en esta ciudad española</a></h4>
+    <a href='https://computerhoy.com/life/tardeo-moda-generacion-z-millennials-pero-pocos-saben-nacio-ciudad-espanola-1407254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tardeo-moda-generacion-z-millennials-pero-pocos-saben-nacio-ciudad-espanola-4242134.jpg?tf=1200x' alt='El “tardeo” está de moda entre la generación Z y los millennials, pero pocos saben que nació en esta ciudad española' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/como-activar-nuevo-modo-black-mirror-iphone-di-adios-tocar-botones-1407395'>Cómo activar el nuevo modo Black Mirror en tu iPhone y di adiós a tocar los botones</a></h4>
     <a href='https://computerhoy.com/apple/como-activar-nuevo-modo-black-mirror-iphone-di-adios-tocar-botones-1407395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-activar-nuevo-modo-black-mirror-iphone-di-adios-tocar-botones-4242447.jpg?tf=1200x' alt='Cómo activar el nuevo modo Black Mirror en tu iPhone y di adiós a tocar los botones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sigue-utilizando-busca-hospitales-fabricas-existen-smartphones-1407368'>Por qué se sigue utilizando "el busca" en hospitales y fábricas si existen los smartphones</a></h4>
     <a href='https://computerhoy.com/tecnologia/sigue-utilizando-busca-hospitales-fabricas-existen-smartphones-1407368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sigue-utilizando-busca-hospitales-fabricas-existen-smartphones-4242414.jpg?tf=1200x' alt='Por qué se sigue utilizando "el busca" en hospitales y fábricas si existen los smartphones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-dan-garantias-pero-mejor-portatil-oferta-cae-menos-500-euros-1406246'>Ryzen 7 y 16GB de RAM dan garantías, pero lo mejor de este portátil es la oferta: cae a menos de 500 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-dan-garantias-pero-mejor-portatil-oferta-cae-menos-500-euros-1406246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/asus-m515ua-4233626.jpg?tf=1200x' alt='Ryzen 7 y 16GB de RAM dan garantías, pero lo mejor de este portátil es la oferta: cae a menos de 500 euros' />
     </a>
 </div>
 
