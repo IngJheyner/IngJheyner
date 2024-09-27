@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/spotify-barato-como-funciona-plan-familiar-compartir-cuenta-1407536'>Spotify barato: qué es y cómo funciona el plan familiar para compartir cuenta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/spotify-barato-como-funciona-plan-familiar-compartir-cuenta-1407536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/spotify-barato-4242707.jpg?tf=1200x' alt='Spotify barato: qué es y cómo funciona el plan familiar para compartir cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/que-hacer-contacto-desconocido-te-escribe-whatsapp-1394571'>Qué hacer y cómo reaccionar si un desconocido te escribe en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/que-hacer-contacto-desconocido-te-escribe-whatsapp-1394571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hacker-whatsapp-4242773.jpg?tf=1200x' alt='Qué hacer y cómo reaccionar si un desconocido te escribe en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-mover-reordenar-reorganizar-paginas-documento-microsoft-word-1402985'>Cómo mover, reordenar y reorganizar páginas en un documento de Microsoft Word</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-mover-reordenar-reorganizar-paginas-documento-microsoft-word-1402985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/editar-paginas-microsoft-word-4085558.jpg?tf=1200x' alt='Cómo mover, reordenar y reorganizar páginas en un documento de Microsoft Word' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/luz-vuelve-subir-precio-controla-factura-enchufe-wifi-monitor-consumo-1407168'>La luz vuelve a subir de precio: controla tu factura con este enchufe WiFi con monitor de consumo</a></h4>
     <a href='https://computerhoy.com/tecnologia/luz-vuelve-subir-precio-controla-factura-enchufe-wifi-monitor-consumo-1407168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tp-link-tapo-p110-4241967.jpg?tf=1200x' alt='La luz vuelve a subir de precio: controla tu factura con este enchufe WiFi con monitor de consumo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/preparate-sintonizar-tv-otra-vez-nuevo-apagon-tdt-migracion-dvb-t2-1407549'>Prepárate para sintonizar tu TV (otra vez): nuevo apagón en la TDT por la migración a DVB-T2</a></h4>
-    <a href='https://computerhoy.com/tv/preparate-sintonizar-tv-otra-vez-nuevo-apagon-tdt-migracion-dvb-t2-1407549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/preparate-sintonizar-tv-otra-vez-nuevo-apagon-tdt-migracion-dvb-t2-4242719.jpg?tf=1200x' alt='Prepárate para sintonizar tu TV (otra vez): nuevo apagón en la TDT por la migración a DVB-T2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/no-puedo-entrar-bios-todas-formas-desbloquear-acceso-1407069'>No puedo entrar en la BIOS de mi ordenador: todas las formas de desbloquear el acceso</a></h4>
-    <a href='https://computerhoy.com/tutoriales/no-puedo-entrar-bios-todas-formas-desbloquear-acceso-1407069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/desbloquear-bios-pc-4241845.jpg?tf=1200x' alt='No puedo entrar en la BIOS de mi ordenador: todas las formas de desbloquear el acceso' />
     </a>
 </div>
 
