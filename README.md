@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-sexto-sentido-ni-bosque-pelicula-final-polemico-m-night-shyamalan-arrasa-amazon-prime-video-1407554'>Ni El sexto sentido ni El bosque: la película con el final más polémico de M. Night Shyamalan arrasa en Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-sexto-sentido-ni-bosque-pelicula-final-polemico-m-night-shyamalan-arrasa-amazon-prime-video-1407554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/llaman-puerta-2886292.jpg?tf=1200x' alt='Ni El sexto sentido ni El bosque: la película con el final más polémico de M. Night Shyamalan arrasa en Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-herramienta-ganzua-abrir-cerraduras-1395048'>Los cerrajeros avisan: esta diminuta herramienta abre el 80% de las cerraduras en segundos, y cualquier la puede comprar</a></h4>
+    <a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-herramienta-ganzua-abrir-cerraduras-1395048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ladron-abriendo-cerradura-4242754.jpg?tf=1200x' alt='Los cerrajeros avisan: esta diminuta herramienta abre el 80% de las cerraduras en segundos, y cualquier la puede comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estos-son-dos-dias-semana-vuelos-estan-vacios-billetes-avion-baratos-1407645'>Estos son los dos días de la semana en los que los vuelos están más vacíos y los billetes de avión más baratos</a></h4>
+    <a href='https://computerhoy.com/life/estos-son-dos-dias-semana-vuelos-estan-vacios-billetes-avion-baratos-1407645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estos-son-dos-dias-semana-vuelos-estan-vacios-billetes-avion-baratos-4242875.jpg?tf=1200x' alt='Estos son los dos días de la semana en los que los vuelos están más vacíos y los billetes de avión más baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/arraso-taquilla-pero-steven-spielberg-aun-reniega-pelicula-no-sabia-estaba-haciendo-1407305'>Arrasó en taquilla, pero Steven Spielberg aún reniega de esta película suya: “No sabía lo que estaba haciendo”</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/arraso-taquilla-pero-steven-spielberg-aun-reniega-pelicula-no-sabia-estaba-haciendo-1407305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/steven-spielberg-george-lucas-4242744.jpg?tf=1200x' alt='Arrasó en taquilla, pero Steven Spielberg aún reniega de esta película suya: “No sabía lo que estaba haciendo”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/ocurre-decides-no-activar-nunca-windows-10-11-legal-1407540'>Qué ocurre si decides no activar nunca Windows 10 o 11: ¿es legal?</a></h4>
     <a href='https://computerhoy.com/windows/ocurre-decides-no-activar-nunca-windows-10-11-legal-1407540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ocurre-decides-no-activar-nunca-windows-10-11-legal-4242669.jpg?tf=1200x' alt='Qué ocurre si decides no activar nunca Windows 10 o 11: ¿es legal?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/conexion-tv-habitaciones-velocidad-internet-cable-coaxial-1395277'>Si tienes esta conexión para televisión en tus habitaciones, enhorabuena: puedes hacer que tu conexión a internet vuele</a></h4>
-    <a href='https://computerhoy.com/redes/conexion-tv-habitaciones-velocidad-internet-cable-coaxial-1395277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/conexion-coaxial-tv-4242772.jpg?tf=1200x' alt='Si tienes esta conexión para televisión en tus habitaciones, enhorabuena: puedes hacer que tu conexión a internet vuele' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-expertos-forenses-pueden-leer-mensajes-whatsapp-aunque-esten-cifrados-1407631'>Así es como los expertos forenses pueden leer tus mensajes de WhatsApp aunque estén cifrados</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-expertos-forenses-pueden-leer-mensajes-whatsapp-aunque-esten-cifrados-1407631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-expertos-forenses-pueden-leer-mensajes-whatsapp-aunque-esten-cifrados-4242839.jpg?tf=1200x' alt='Así es como los expertos forenses pueden leer tus mensajes de WhatsApp aunque estén cifrados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/spotify-barato-como-funciona-plan-familiar-compartir-cuenta-1407536'>Spotify barato: qué es y cómo funciona el plan familiar para compartir cuenta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/spotify-barato-como-funciona-plan-familiar-compartir-cuenta-1407536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/spotify-barato-4242707.jpg?tf=1200x' alt='Spotify barato: qué es y cómo funciona el plan familiar para compartir cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/que-hacer-contacto-desconocido-te-escribe-whatsapp-1394571'>Qué hacer y cómo reaccionar si un desconocido te escribe en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/que-hacer-contacto-desconocido-te-escribe-whatsapp-1394571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hacker-whatsapp-4242773.jpg?tf=1200x' alt='Qué hacer y cómo reaccionar si un desconocido te escribe en WhatsApp' />
     </a>
 </div>
 
