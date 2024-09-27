@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/arm-quiere-movil-pase-cumplir-indicaciones-tomar-decisiones-ti-gracias-ia-1407467'>ARM quiere que tu móvil pase de cumplir indicaciones a tomar decisiones por ti gracias a la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/arm-quiere-movil-pase-cumplir-indicaciones-tomar-decisiones-ti-gracias-ia-1407467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/arm-da-todo-como-sera-snapdragon-8-gen-3-dimensity-9300-futuro-3045000.jpg?tf=1200x' alt='ARM quiere que tu móvil pase de cumplir indicaciones a tomar decisiones por ti gracias a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/20-discos-duros-decada-90-ya-son-ilegibles-han-perdido-millones-canciones-1407312'>Un 20% de los discos duros de la década de los 90 ya son ilegibles: se han perdido millones de canciones</a></h4>
     <a href='https://computerhoy.com/entretenimiento/20-discos-duros-decada-90-ya-son-ilegibles-han-perdido-millones-canciones-1407312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/discos-duros-han-perdido-millones-canciones-1990-no-pueden-leer-4242217.jpg?tf=1200x' alt='Un 20% de los discos duros de la década de los 90 ya son ilegibles: se han perdido millones de canciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/generacion-z-son-maestros-utilizar-tiktok-problemas-dispositivo-oficina-1404538'>La generación Z son maestros en utilizar TikTok, pero tienen serios problemas para entender este dispositivo de la oficina</a></h4>
     <a href='https://computerhoy.com/tecnologia/generacion-z-son-maestros-utilizar-tiktok-problemas-dispositivo-oficina-1404538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/generacion-z-son-maestros-utilizar-tiktok-pero-tienen-serios-problemas-entender-dispositivo-oficina-4148774.jpg?tf=1200x' alt='La generación Z son maestros en utilizar TikTok, pero tienen serios problemas para entender este dispositivo de la oficina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-leer-mangas-crunchyroll-1406381'>Cómo leer mangas con Crunchyroll</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-leer-mangas-crunchyroll-1406381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mangas-crunchyroll-4238546.jpg?tf=1200x' alt='Cómo leer mangas con Crunchyroll' />
     </a>
 </div>
 
