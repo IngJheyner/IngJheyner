@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/playstation-6-sera-retrocompatible-gracias-existencia-playstation-5-pro-1407681'>PlayStation 6 será retrocompatible gracias a la existencia de PlayStation 5 Pro</a></h4>
+    <a href='https://computerhoy.com/gaming/playstation-6-sera-retrocompatible-gracias-existencia-playstation-5-pro-1407681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/playstation-5-4242915.jpg?tf=1200x' alt='PlayStation 6 será retrocompatible gracias a la existencia de PlayStation 5 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/smartband-siempre-recomiendo-xiaomi-pero-pro-tiene-bateria-reloj-mucho-barata-1406423'>La smartband que siempre recomiendo es la de Xiaomi, pero la Pro: tiene más batería que un reloj y es mucho más barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartband-siempre-recomiendo-xiaomi-pero-pro-tiene-bateria-reloj-mucho-barata-1406423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-band-8-pro-3290705.jpg?tf=1200x' alt='La smartband que siempre recomiendo es la de Xiaomi, pero la Pro: tiene más batería que un reloj y es mucho más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/steven-spielberg-descubre-como-autentico-gamer-no-puedo-jugar-mandos-solo-teclado-raton-1407680'>Steven Spielberg se descubre como un auténtico gamer: "No puedo jugar con mandos, solo con teclado y ratón"</a></h4>
+    <a href='https://computerhoy.com/gaming/steven-spielberg-descubre-como-autentico-gamer-no-puedo-jugar-mandos-solo-teclado-raton-1407680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steven-spielberg-3278433.jpg?tf=1200x' alt='Steven Spielberg se descubre como un auténtico gamer: "No puedo jugar con mandos, solo con teclado y ratón"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/posiblemente-mejor-miniserie-historica-reciente-mucho-mejor-gladiator-puedes-verla-max-1405897'>Posiblemente, la mejor miniserie histórica reciente: mucho mejor que Gladiator y puedes verla en MAX</a></h4>
     <a href='https://computerhoy.com/entretenimiento/posiblemente-mejor-miniserie-historica-reciente-mucho-mejor-gladiator-puedes-verla-max-1405897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/roma-serie-hbo-gladiator-4242749.jpg?tf=1200x' alt='Posiblemente, la mejor miniserie histórica reciente: mucho mejor que Gladiator y puedes verla en MAX' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/descubren-donde-podria-estar-atmosfera-perdida-marte-fuente-clave-energia-1407177'>Descubren dónde podría estar la atmósfera perdida de Marte: ¿una fuente clave de energía?</a></h4>
     <a href='https://computerhoy.com/espacio/descubren-donde-podria-estar-atmosfera-perdida-marte-fuente-clave-energia-1407177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/imagen-mawrth-vallis-marte-4242035.jpg?tf=1200x' alt='Descubren dónde podría estar la atmósfera perdida de Marte: ¿una fuente clave de energía?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-sexto-sentido-ni-bosque-pelicula-final-polemico-m-night-shyamalan-arrasa-amazon-prime-video-1407554'>Ni El sexto sentido ni El bosque: la película con el final más polémico de M. Night Shyamalan arrasa en Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-sexto-sentido-ni-bosque-pelicula-final-polemico-m-night-shyamalan-arrasa-amazon-prime-video-1407554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/llaman-puerta-2886292.jpg?tf=1200x' alt='Ni El sexto sentido ni El bosque: la película con el final más polémico de M. Night Shyamalan arrasa en Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-herramienta-ganzua-abrir-cerraduras-1395048'>Los cerrajeros avisan: esta diminuta herramienta abre el 80% de las cerraduras en segundos, y cualquier la puede comprar</a></h4>
-    <a href='https://computerhoy.com/life/alarma-cerrajeros-topolino-herramienta-ganzua-abrir-cerraduras-1395048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ladron-abriendo-cerradura-4242754.jpg?tf=1200x' alt='Los cerrajeros avisan: esta diminuta herramienta abre el 80% de las cerraduras en segundos, y cualquier la puede comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-son-dos-dias-semana-vuelos-estan-vacios-billetes-avion-baratos-1407645'>Estos son los dos días de la semana en los que los vuelos están más vacíos y los billetes de avión más baratos</a></h4>
-    <a href='https://computerhoy.com/life/estos-son-dos-dias-semana-vuelos-estan-vacios-billetes-avion-baratos-1407645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estos-son-dos-dias-semana-vuelos-estan-vacios-billetes-avion-baratos-4242875.jpg?tf=1200x' alt='Estos son los dos días de la semana en los que los vuelos están más vacíos y los billetes de avión más baratos' />
     </a>
 </div>
 
