@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/cuenta-atras-apple-seis-meses-iphone-pierdan-magia-conviertan-android-1407509'>Cuenta atrás para Apple: seis meses para que los iPhone pierdan su magia y se conviertan en un "Android" más</a></h4>
+    <a href='https://computerhoy.com/apple/cuenta-atras-apple-seis-meses-iphone-pierdan-magia-conviertan-android-1407509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-android-4242681.jpg?tf=1200x' alt='Cuenta atrás para Apple: seis meses para que los iPhone pierdan su magia y se conviertan en un "Android" más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/panda-amazon-alian-antivirus-vpn-desploma-precio-barato-todos-1406259'>Panda y Amazon se alían: su antivirus con VPN desploma su precio y es el más barato de todos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/panda-amazon-alian-antivirus-vpn-desploma-precio-barato-todos-1406259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/panda-dome-complete-4233952.jpg?tf=1200x' alt='Panda y Amazon se alían: su antivirus con VPN desploma su precio y es el más barato de todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-rtx-5090-5080-especificaciones-fecha-lanzamiento-filtradas-1407482'>Nvidia RTX 5090 y 5080, especificaciones y fecha de lanzamiento filtradas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-rtx-5090-5080-especificaciones-fecha-lanzamiento-filtradas-1407482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nvidia-rtx-tarjetas-graficas-3290695.jpg?tf=1200x' alt='Nvidia RTX 5090 y 5080, especificaciones y fecha de lanzamiento filtradas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/llegan-filtros-camara-whatsapp-estilo-videollamadas-1407489'>Llegan los filtros de cámara a WhatsApp al estilo de las videollamadas</a></h4>
     <a href='https://computerhoy.com/apps/llegan-filtros-camara-whatsapp-estilo-videollamadas-1407489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-tendra-filtros-camara-principal-estilo-videollamadas-4242543.jpg?tf=1200x' alt='Llegan los filtros de cámara a WhatsApp al estilo de las videollamadas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/elemento-clave-mantener-cpu-fria-tienes-cocina-1145727'>Este elemento clave para mantener tu CPU bien fría lo tienes en la cocina</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/elemento-clave-mantener-cpu-fria-tienes-cocina-1145727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/forma-colocar-pasta-termica-gpu-reduce-5-grados-adicionales-temperatura-no-usa-casi-nadie-2803293.jpg?tf=1200x' alt='Este elemento clave para mantener tu CPU bien fría lo tienes en la cocina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/arm-quiere-movil-pase-cumplir-indicaciones-tomar-decisiones-ti-gracias-ia-1407467'>ARM quiere que tu móvil pase de cumplir indicaciones a tomar decisiones por ti gracias a la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/arm-quiere-movil-pase-cumplir-indicaciones-tomar-decisiones-ti-gracias-ia-1407467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/arm-da-todo-como-sera-snapdragon-8-gen-3-dimensity-9300-futuro-3045000.jpg?tf=1200x' alt='ARM quiere que tu móvil pase de cumplir indicaciones a tomar decisiones por ti gracias a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/20-discos-duros-decada-90-ya-son-ilegibles-han-perdido-millones-canciones-1407312'>Un 20% de los discos duros de la década de los 90 ya son ilegibles: se han perdido millones de canciones</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/20-discos-duros-decada-90-ya-son-ilegibles-han-perdido-millones-canciones-1407312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/discos-duros-han-perdido-millones-canciones-1990-no-pueden-leer-4242217.jpg?tf=1200x' alt='Un 20% de los discos duros de la década de los 90 ya son ilegibles: se han perdido millones de canciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-planea-lanzar-homeaccessory-ia-a18-2025-todo-sabe-ahora-1407464'>Apple planea lanzar su 'HomeAccessory' con IA, A18 y más en 2025, esto es todo lo que sabe por ahora</a></h4>
-    <a href='https://computerhoy.com/apple/apple-planea-lanzar-homeaccessory-ia-a18-2025-todo-sabe-ahora-1407464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/pantalla-homepod-3007202.jpg?tf=1200x' alt='Apple planea lanzar su 'HomeAccessory' con IA, A18 y más en 2025, esto es todo lo que sabe por ahora' />
     </a>
 </div>
 
