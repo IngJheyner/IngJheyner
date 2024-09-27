@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/mejor-forma-colocar-pasta-termica-reduce-grados-mas-temperatura-1119209'>Esta forma de colocar la pasta térmica reduce 5 grados más la temperatura, y no la usa casi nadie</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/mejor-forma-colocar-pasta-termica-reduce-grados-mas-temperatura-1119209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/forma-colocar-pasta-termica-gpu-reduce-5-grados-adicionales-temperatura-no-usa-casi-nadie-2803293.jpg?tf=1200x' alt='Esta forma de colocar la pasta térmica reduce 5 grados más la temperatura, y no la usa casi nadie' />
+    <h4><a href='https://computerhoy.com/windows/windows-debloat-peligros-desinflar-windows-mejorar-rendimiento-1407116'>Windows debloat: los peligros de "desinflar Windows" para mejorar el rendimiento</a></h4>
+    <a href='https://computerhoy.com/windows/windows-debloat-peligros-desinflar-windows-mejorar-rendimiento-1407116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-debloat-peligros-desinflar-windows-mejorar-rendimiento-4241916.jpg?tf=1200x' alt='Windows debloat: los peligros de "desinflar Windows" para mejorar el rendimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tardeo-moda-generacion-z-millennials-pero-pocos-saben-nacio-ciudad-espanola-1407254'>El “tardeo” está de moda entre la generación Z y los millennials, pero pocos saben que nació en esta ciudad española</a></h4>
-    <a href='https://computerhoy.com/life/tardeo-moda-generacion-z-millennials-pero-pocos-saben-nacio-ciudad-espanola-1407254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tardeo-moda-generacion-z-millennials-pero-pocos-saben-nacio-ciudad-espanola-4242134.jpg?tf=1200x' alt='El “tardeo” está de moda entre la generación Z y los millennials, pero pocos saben que nació en esta ciudad española' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-conoces-producto-xiaomi-util-barato-1404713'>No lo conoces, pero este accesorio de Xiaomi es útil en el día a día y es increíblemente barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-conoces-producto-xiaomi-util-barato-1404713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-mi-home-s100-4155155.jpg?tf=1200x' alt='No lo conoces, pero este accesorio de Xiaomi es útil en el día a día y es increíblemente barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-activar-nuevo-modo-black-mirror-iphone-di-adios-tocar-botones-1407395'>Cómo activar el nuevo modo Black Mirror en tu iPhone y di adiós a tocar los botones</a></h4>
-    <a href='https://computerhoy.com/apple/como-activar-nuevo-modo-black-mirror-iphone-di-adios-tocar-botones-1407395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-activar-nuevo-modo-black-mirror-iphone-di-adios-tocar-botones-4242447.jpg?tf=1200x' alt='Cómo activar el nuevo modo Black Mirror en tu iPhone y di adiós a tocar los botones' />
+    <h4><a href='https://computerhoy.com/analisis/he-analizado-iphone-16-pro-pro-max-ano-pequeno-tiene-sentido-1406334'>He analizado el iPhone 16 Pro y Pro Max y este es el año en el que el pequeño tiene más sentido</a></h4>
+    <a href='https://computerhoy.com/analisis/he-analizado-iphone-16-pro-pro-max-ano-pequeno-tiene-sentido-1406334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-iphone-16-pro-4241453.jpg?tf=1200x' alt='He analizado el iPhone 16 Pro y Pro Max y este es el año en el que el pequeño tiene más sentido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-tab-s10-ultra-s10-primeras-tablets-ia-integrada-1407405'>Samsung Galaxy Tab S10 Ultra y S10+, las primeras tablets con IA integrada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-tab-s10-ultra-s10-primeras-tablets-ia-integrada-1407405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-tab-s10-ultra-galaxy-tab-s10-primeras-tablets-ia-integrada-4242429.jpg?tf=1200x' alt='Samsung Galaxy Tab S10 Ultra y S10+, las primeras tablets con IA integrada' />
+    <h4><a href='https://computerhoy.com/espacio/podriamos-ser-siervos-inteligencia-artificial-extraterrestre-1407221'>¿Podríamos ser los siervos de una inteligencia artificial extraterrestre?</a></h4>
+    <a href='https://computerhoy.com/espacio/podriamos-ser-siervos-inteligencia-artificial-extraterrestre-1407221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/universo-4242108.jpg?tf=1200x' alt='¿Podríamos ser los siervos de una inteligencia artificial extraterrestre?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-fe-todas-funciones-galaxy-ai-barato-1407397'>El nuevo Samsung Galaxy S24 FE con todas las funciones Galaxy AI, y más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-fe-todas-funciones-galaxy-ai-barato-1407397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-anuncia-movil-galaxy-s24-fe-tablet-galaxy-tab-s10-ultra-disenados-galaxy-ai-4242373.jpg?tf=1200x' alt='El nuevo Samsung Galaxy S24 FE con todas las funciones Galaxy AI, y más barato' />
+    <h4><a href='https://computerhoy.com/ciencia/neurologo-espanol-desvela-razon-cierta-edad-muy-dificil-aprender-idioma-nuevo-1407201'>Un neurólogo español desvela la razón por la que a cierta edad es muy difícil aprender un idioma nuevo</a></h4>
+    <a href='https://computerhoy.com/ciencia/neurologo-espanol-desvela-razon-cierta-edad-muy-dificil-aprender-idioma-nuevo-1407201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hablar-idiomas-4242158.jpg?tf=1200x' alt='Un neurólogo español desvela la razón por la que a cierta edad es muy difícil aprender un idioma nuevo' />
     </a>
 </div>
 
