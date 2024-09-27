@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-maps-bloquea-android-posibles-causas-solucion-1404832'>Google Maps se bloquea en Android: posibles causas y su solución</a></h4>
+    <a href='https://computerhoy.com/android/google-maps-bloquea-android-posibles-causas-solucion-1404832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-maps-bloquea-android-posibles-causas-solucion-4160394.jpg?tf=1200x' alt='Google Maps se bloquea en Android: posibles causas y su solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-debloat-peligros-desinflar-windows-mejorar-rendimiento-1407116'>Windows debloat: los peligros de "desinflar Windows" para mejorar el rendimiento</a></h4>
     <a href='https://computerhoy.com/windows/windows-debloat-peligros-desinflar-windows-mejorar-rendimiento-1407116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-debloat-peligros-desinflar-windows-mejorar-rendimiento-4241916.jpg?tf=1200x' alt='Windows debloat: los peligros de "desinflar Windows" para mejorar el rendimiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/podriamos-ser-siervos-inteligencia-artificial-extraterrestre-1407221'>¿Podríamos ser los siervos de una inteligencia artificial extraterrestre?</a></h4>
     <a href='https://computerhoy.com/espacio/podriamos-ser-siervos-inteligencia-artificial-extraterrestre-1407221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/universo-4242108.jpg?tf=1200x' alt='¿Podríamos ser los siervos de una inteligencia artificial extraterrestre?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/neurologo-espanol-desvela-razon-cierta-edad-muy-dificil-aprender-idioma-nuevo-1407201'>Un neurólogo español desvela la razón por la que a cierta edad es muy difícil aprender un idioma nuevo</a></h4>
-    <a href='https://computerhoy.com/ciencia/neurologo-espanol-desvela-razon-cierta-edad-muy-dificil-aprender-idioma-nuevo-1407201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hablar-idiomas-4242158.jpg?tf=1200x' alt='Un neurólogo español desvela la razón por la que a cierta edad es muy difícil aprender un idioma nuevo' />
     </a>
 </div>
 
