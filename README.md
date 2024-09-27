@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-maps-bloquea-android-posibles-causas-solucion-1404832'>Google Maps se bloquea en Android: posibles causas y su solución</a></h4>
-    <a href='https://computerhoy.com/android/google-maps-bloquea-android-posibles-causas-solucion-1404832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-maps-bloquea-android-posibles-causas-solucion-4160394.jpg?tf=1200x' alt='Google Maps se bloquea en Android: posibles causas y su solución' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-leer-mangas-crunchyroll-1406381'>Cómo leer mangas con Crunchyroll</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-leer-mangas-crunchyroll-1406381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mangas-crunchyroll-4238546.jpg?tf=1200x' alt='Cómo leer mangas con Crunchyroll' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-debloat-peligros-desinflar-windows-mejorar-rendimiento-1407116'>Windows debloat: los peligros de "desinflar Windows" para mejorar el rendimiento</a></h4>
-    <a href='https://computerhoy.com/windows/windows-debloat-peligros-desinflar-windows-mejorar-rendimiento-1407116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-debloat-peligros-desinflar-windows-mejorar-rendimiento-4241916.jpg?tf=1200x' alt='Windows debloat: los peligros de "desinflar Windows" para mejorar el rendimiento' />
+    <h4><a href='https://computerhoy.com/tecnologia/hp-print-ai-chatbot-ia-ayudarte-imprimir-1407458'>HP Print AI, el chatbot con IA para ayudarte a imprimir, ¿es necesario?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hp-print-ai-chatbot-ia-ayudarte-imprimir-1407458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hp-presenta-hp-print-ai-chatbot-ia-ayudarte-imprimir-necesario-4242470.jpg?tf=1200x' alt='HP Print AI, el chatbot con IA para ayudarte a imprimir, ¿es necesario?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-conoces-producto-xiaomi-util-barato-1404713'>No lo conoces, pero este accesorio de Xiaomi es útil en el día a día y es increíblemente barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-conoces-producto-xiaomi-util-barato-1404713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-mi-home-s100-4155155.jpg?tf=1200x' alt='No lo conoces, pero este accesorio de Xiaomi es útil en el día a día y es increíblemente barato' />
+    <h4><a href='https://computerhoy.com/moviles/windows-android-cada-vez-cerca-xiaomi-suma-integracion-xiaomi-14t-1407438'>Windows y Android cada vez más cerca, Xiaomi se suma a la integración con los Xiaomi 14T</a></h4>
+    <a href='https://computerhoy.com/moviles/windows-android-cada-vez-cerca-xiaomi-suma-integracion-xiaomi-14t-1407438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-14t-pro-4241602.jpg?tf=1200x' alt='Windows y Android cada vez más cerca, Xiaomi se suma a la integración con los Xiaomi 14T' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-analizado-iphone-16-pro-pro-max-ano-pequeno-tiene-sentido-1406334'>He analizado el iPhone 16 Pro y Pro Max y este es el año en el que el pequeño tiene más sentido</a></h4>
-    <a href='https://computerhoy.com/analisis/he-analizado-iphone-16-pro-pro-max-ano-pequeno-tiene-sentido-1406334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-iphone-16-pro-4241453.jpg?tf=1200x' alt='He analizado el iPhone 16 Pro y Pro Max y este es el año en el que el pequeño tiene más sentido' />
+    <h4><a href='https://computerhoy.com/tv/smart-tv-lg-publicidad-salvapantallas-1407450'>Los Smart TV de LG están empezando a mostrar publicidad incluso cuando no los estás viendo</a></h4>
+    <a href='https://computerhoy.com/tv/smart-tv-lg-publicidad-salvapantallas-1407450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/smart-tv-lg-estan-empezando-mostrar-publicidad-incluso-cuando-no-estas-viendo-4242454.jpg?tf=1200x' alt='Los Smart TV de LG están empezando a mostrar publicidad incluso cuando no los estás viendo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/podriamos-ser-siervos-inteligencia-artificial-extraterrestre-1407221'>¿Podríamos ser los siervos de una inteligencia artificial extraterrestre?</a></h4>
-    <a href='https://computerhoy.com/espacio/podriamos-ser-siervos-inteligencia-artificial-extraterrestre-1407221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/universo-4242108.jpg?tf=1200x' alt='¿Podríamos ser los siervos de una inteligencia artificial extraterrestre?' />
+    <h4><a href='https://computerhoy.com/tecnologia/empresa-espanola-posiciona-como-alternativa-top-chips-neuralink-elon-musk-1407439'>Esta empresa española se posiciona como una alternativa top a los chips de Neuralink y Elon Musk</a></h4>
+    <a href='https://computerhoy.com/tecnologia/empresa-espanola-posiciona-como-alternativa-top-chips-neuralink-elon-musk-1407439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/empresa-espanola-chips-4242482.jpg?tf=1200x' alt='Esta empresa española se posiciona como una alternativa top a los chips de Neuralink y Elon Musk' />
     </a>
 </div>
 
