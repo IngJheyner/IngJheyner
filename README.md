@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/llegan-filtros-camara-whatsapp-estilo-videollamadas-1407489'>Llegan los filtros de cámara a WhatsApp al estilo de las videollamadas</a></h4>
+    <a href='https://computerhoy.com/apps/llegan-filtros-camara-whatsapp-estilo-videollamadas-1407489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-tendra-filtros-camara-principal-estilo-videollamadas-4242543.jpg?tf=1200x' alt='Llegan los filtros de cámara a WhatsApp al estilo de las videollamadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/elemento-clave-mantener-cpu-fria-tienes-cocina-1145727'>Este elemento clave para mantener tu CPU bien fría lo tienes en la cocina</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/elemento-clave-mantener-cpu-fria-tienes-cocina-1145727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/forma-colocar-pasta-termica-gpu-reduce-5-grados-adicionales-temperatura-no-usa-casi-nadie-2803293.jpg?tf=1200x' alt='Este elemento clave para mantener tu CPU bien fría lo tienes en la cocina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/arm-quiere-movil-pase-cumplir-indicaciones-tomar-decisiones-ti-gracias-ia-1407467'>ARM quiere que tu móvil pase de cumplir indicaciones a tomar decisiones por ti gracias a la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/arm-quiere-movil-pase-cumplir-indicaciones-tomar-decisiones-ti-gracias-ia-1407467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/arm-da-todo-como-sera-snapdragon-8-gen-3-dimensity-9300-futuro-3045000.jpg?tf=1200x' alt='ARM quiere que tu móvil pase de cumplir indicaciones a tomar decisiones por ti gracias a la IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-planea-lanzar-homeaccessory-ia-a18-2025-todo-sabe-ahora-1407464'>Apple planea lanzar su 'HomeAccessory' con IA, A18 y más en 2025, esto es todo lo que sabe por ahora</a></h4>
     <a href='https://computerhoy.com/apple/apple-planea-lanzar-homeaccessory-ia-a18-2025-todo-sabe-ahora-1407464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/pantalla-homepod-3007202.jpg?tf=1200x' alt='Apple planea lanzar su 'HomeAccessory' con IA, A18 y más en 2025, esto es todo lo que sabe por ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/gmail-ha-anunciado-nueva-funcion-contestar-correos-rapido-gracias-gemini-1407460'>Gmail ha anunciado una nueva función para contestar los correos más rápido gracias a Gemini</a></h4>
-    <a href='https://computerhoy.com/google/gmail-ha-anunciado-nueva-funcion-contestar-correos-rapido-gracias-gemini-1407460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/gmail-ha-anunciado-nueva-funcion-contestar-mensajes-rapido-gracias-gemini-4242504.jpg?tf=1200x' alt='Gmail ha anunciado una nueva función para contestar los correos más rápido gracias a Gemini' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/generacion-z-son-maestros-utilizar-tiktok-problemas-dispositivo-oficina-1404538'>La generación Z son maestros en utilizar TikTok, pero tienen serios problemas para entender este dispositivo de la oficina</a></h4>
-    <a href='https://computerhoy.com/tecnologia/generacion-z-son-maestros-utilizar-tiktok-problemas-dispositivo-oficina-1404538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/generacion-z-son-maestros-utilizar-tiktok-pero-tienen-serios-problemas-entender-dispositivo-oficina-4148774.jpg?tf=1200x' alt='La generación Z son maestros en utilizar TikTok, pero tienen serios problemas para entender este dispositivo de la oficina' />
     </a>
 </div>
 
