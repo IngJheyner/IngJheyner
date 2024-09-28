@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/razer-lleva-juegos-vida-real-nuevos-productos-hapticos-razer-kraken-v4-pro-razer-freyja-1407268'>Razer lleva los juegos a la vida real con sus nuevos productos hápticos, Razer Kraken V4 Pro y Razer Freyja</a></h4>
+    <a href='https://computerhoy.com/tecnologia/razer-lleva-juegos-vida-real-nuevos-productos-hapticos-razer-kraken-v4-pro-razer-freyja-1407268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/razer-freyja-razer-kraken-v4-pro-4242167.jpg?tf=1200x' alt='Razer lleva los juegos a la vida real con sus nuevos productos hápticos, Razer Kraken V4 Pro y Razer Freyja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-fotos-mejora-edicion-uso-compartido-albumes-forma-1407783'>Google Fotos mejora la edición y el uso compartido de los álbumes de esta forma</a></h4>
+    <a href='https://computerhoy.com/apps/google-fotos-mejora-edicion-uso-compartido-albumes-forma-1407783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-fotos-4243053.jpg?tf=1200x' alt='Google Fotos mejora la edición y el uso compartido de los álbumes de esta forma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/airpods-pro-3-apple-podrian-detectar-enfermedades-cardiacas-1407781'>Los AirPods Pro 3 de Apple podrían detectar enfermedades cardíacas</a></h4>
+    <a href='https://computerhoy.com/apple/airpods-pro-3-apple-podrian-detectar-enfermedades-cardiacas-1407781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/airpods-pro-3-apple-podrian-detectar-enfermedades-cardiacas-4243051.jpg?tf=1200x' alt='Los AirPods Pro 3 de Apple podrían detectar enfermedades cardíacas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/samsung-tira-casa-ventana-nuevo-smartwatch-lte-rebajadisimo-amazon-1407342'>Samsung tira la casa por la ventana: su nuevo smartwatch con LTE está rebajadísimo en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-tira-casa-ventana-nuevo-smartwatch-lte-rebajadisimo-amazon-1407342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-watch7-4g-lte-4242266.jpg?tf=1200x' alt='Samsung tira la casa por la ventana: su nuevo smartwatch con LTE está rebajadísimo en Amazon' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/agencia-espacial-europea-destruira-nuevo-satelite-2027-solo-ver-pasa-1407772'>La Agencia Espacial Europea destruirá un nuevo satélite en 2027 solo para ver qué pasa</a></h4>
     <a href='https://computerhoy.com/espacio/agencia-espacial-europea-destruira-nuevo-satelite-2027-solo-ver-pasa-1407772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/destructive-reentry-assessment-container-object-draco-4243038.jpg?tf=1200x' alt='La Agencia Espacial Europea destruirá un nuevo satélite en 2027 solo para ver qué pasa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/telefono-movil-pronto-podra-medir-presion-arterial-solo-toque-1407771'>Tu teléfono móvil pronto podrá medir la presión arterial con un solo toque</a></h4>
-    <a href='https://computerhoy.com/tecnologia/telefono-movil-pronto-podra-medir-presion-arterial-solo-toque-1407771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/telefono-movil-pronto-podra-medir-presion-arterial-solo-toque-4243036.jpg?tf=1200x' alt='Tu teléfono móvil pronto podrá medir la presión arterial con un solo toque' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-quiere-acabar-siempre-mensajes-spam-recibas-movil-1407766'>Google quiere acabar para siempre con los mensajes spam que recibas en tu móvil</a></h4>
-    <a href='https://computerhoy.com/apps/google-quiere-acabar-siempre-mensajes-spam-recibas-movil-1407766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-messages-spam-4243027.jpg?tf=1200x' alt='Google quiere acabar para siempre con los mensajes spam que recibas en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chollo-xxl-freidora-7l-rompe-mercado-42-descuento-1407303'>Chollo XXL: una freidora de 7L que rompe el mercado con 42% de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chollo-xxl-freidora-7l-rompe-mercado-42-descuento-1407303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aigostar-cube-4242206.jpg?tf=1200x' alt='Chollo XXL: una freidora de 7L que rompe el mercado con 42% de descuento' />
     </a>
 </div>
 
