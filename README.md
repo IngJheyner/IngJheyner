@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/podras-desinstalar-recall-windows-11-microsoft-hace-opcional-controvertida-funcion-lluvia-criticas-1407735'>Podrás desinstalar Recall en Windows 11: Microsoft hace opcional la controvertida función tras la lluvia de críticas</a></h4>
-    <a href='https://computerhoy.com/windows/podras-desinstalar-recall-windows-11-microsoft-hace-opcional-controvertida-funcion-lluvia-criticas-1407735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-recall-4242995.jpg?tf=1200x' alt='Podrás desinstalar Recall en Windows 11: Microsoft hace opcional la controvertida función tras la lluvia de críticas' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-aumentar-tiempo-deshacer-envio-gmail-1407375'>Cómo aumentar el tiempo de "Deshacer envío" en Gmail</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-aumentar-tiempo-deshacer-envio-gmail-1407375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/deshacer-envio-gmail-4242370.jpg?tf=1200x' alt='Cómo aumentar el tiempo de "Deshacer envío" en Gmail' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/carpeta-movil-ios-android-deberias-guardar-certificado-digital-fnmt-1407421'>En qué carpeta del móvil (iOS y Android) deberías guardar el Certificado Digital de la FNMT</a></h4>
-    <a href='https://computerhoy.com/tutoriales/carpeta-movil-ios-android-deberias-guardar-certificado-digital-fnmt-1407421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/carpeta-movil-ios-android-deberias-guardar-certificado-digital-fnmt-4242465.jpg?tf=1200x' alt='En qué carpeta del móvil (iOS y Android) deberías guardar el Certificado Digital de la FNMT' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-medir-distancias-superficies-google-maps-1127651'>Cómo medir cualquier distancia, superficie o recorrido en Google Maps</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-medir-distancias-superficies-google-maps-1127651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-maps-2842323.jpg?tf=1200x' alt='Cómo medir cualquier distancia, superficie o recorrido en Google Maps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-asalta-gama-alta-250-euros-descuento-xiaomi-14-12gb-ram-carga-100w-1406578'>Xiaomi asalta la gama alta: 250 euros de descuento en el Xiaomi 14, con 12GB de RAM y carga a 100W</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-asalta-gama-alta-250-euros-descuento-xiaomi-14-12gb-ram-carga-100w-1406578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-14-3283520.jpg?tf=1200x' alt='Xiaomi asalta la gama alta: 250 euros de descuento en el Xiaomi 14, con 12GB de RAM y carga a 100W' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-defender-bloqueara-peligrosos-keyloggers-windows-11-10-1407751'>Microsoft Defender bloqueará los peligrosos keyloggers en Windows 11 y 10</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-defender-bloqueara-peligrosos-keyloggers-windows-11-10-1407751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/keyloggers-windows-11-4243013.jpg?tf=1200x' alt='Microsoft Defender bloqueará los peligrosos keyloggers en Windows 11 y 10' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/suele-decirse-tener-mala-letra-signo-inteligencia-dice-ciencia-respecto-1405466'>Suele decirse que tener mala letra es signo de inteligencia, y esto dice la ciencia al respecto</a></h4>
-    <a href='https://computerhoy.com/ciencia/suele-decirse-tener-mala-letra-signo-inteligencia-dice-ciencia-respecto-1405466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/escribir-mano-4242594.jpg?tf=1200x' alt='Suele decirse que tener mala letra es signo de inteligencia, y esto dice la ciencia al respecto' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ya-no-sera-todos-openai-planea-duplicar-precio-suscripcion-doble-proximos-anos-1407742'>ChatGPT ya no será para todos: OpenAI planea duplicar el precio de la suscripción a más del doble en los próximos años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ya-no-sera-todos-openai-planea-duplicar-precio-suscripcion-doble-proximos-anos-1407742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-4243002.jpg?tf=1200x' alt='ChatGPT ya no será para todos: OpenAI planea duplicar el precio de la suscripción a más del doble en los próximos años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mini-pc-potente-amazon-i9-32gb-ram-1253870'>Este Mini PC tiene potencia sin igual, y Amazon lo vende: Intel Core i9 y 32GB de memoria RAM</a></h4>
-    <a href='https://computerhoy.com/pc/mini-pc-potente-amazon-i9-32gb-ram-1253870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/minis-forum-nab9-4197876.jpg?tf=1200x' alt='Este Mini PC tiene potencia sin igual, y Amazon lo vende: Intel Core i9 y 32GB de memoria RAM' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estos-son-tipos-archivos-utilizados-ocultar-virus-malware-1406391'>Estos son los tipos de archivos más utilizados para ocultar virus y malware</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estos-son-tipos-archivos-utilizados-ocultar-virus-malware-1406391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estos-son-tipos-archivos-utilizando-ocultar-virus-malware-4239163.jpg?tf=1200x' alt='Estos son los tipos de archivos más utilizados para ocultar virus y malware' />
     </a>
 </div>
 
