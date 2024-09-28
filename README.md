@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-hara-bateria-ordenador-dure-mucho-1407784'>Windows 11 hará que la batería de tu ordenador dure mucho más</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-hara-bateria-ordenador-dure-mucho-1407784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bateria-windows-11-4243066.jpg?tf=1200x' alt='Windows 11 hará que la batería de tu ordenador dure mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/razer-lleva-juegos-vida-real-nuevos-productos-hapticos-razer-kraken-v4-pro-razer-freyja-1407268'>Razer lleva los juegos a la vida real con sus nuevos productos hápticos, Razer Kraken V4 Pro y Razer Freyja</a></h4>
     <a href='https://computerhoy.com/tecnologia/razer-lleva-juegos-vida-real-nuevos-productos-hapticos-razer-kraken-v4-pro-razer-freyja-1407268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/razer-freyja-razer-kraken-v4-pro-4242167.jpg?tf=1200x' alt='Razer lleva los juegos a la vida real con sus nuevos productos hápticos, Razer Kraken V4 Pro y Razer Freyja' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/samsung-tira-casa-ventana-nuevo-smartwatch-lte-rebajadisimo-amazon-1407342'>Samsung tira la casa por la ventana: su nuevo smartwatch con LTE está rebajadísimo en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-tira-casa-ventana-nuevo-smartwatch-lte-rebajadisimo-amazon-1407342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-watch7-4g-lte-4242266.jpg?tf=1200x' alt='Samsung tira la casa por la ventana: su nuevo smartwatch con LTE está rebajadísimo en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/agencia-espacial-europea-destruira-nuevo-satelite-2027-solo-ver-pasa-1407772'>La Agencia Espacial Europea destruirá un nuevo satélite en 2027 solo para ver qué pasa</a></h4>
-    <a href='https://computerhoy.com/espacio/agencia-espacial-europea-destruira-nuevo-satelite-2027-solo-ver-pasa-1407772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/destructive-reentry-assessment-container-object-draco-4243038.jpg?tf=1200x' alt='La Agencia Espacial Europea destruirá un nuevo satélite en 2027 solo para ver qué pasa' />
     </a>
 </div>
 
