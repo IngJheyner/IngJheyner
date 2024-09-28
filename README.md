@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/podras-desinstalar-recall-windows-11-microsoft-hace-opcional-controvertida-funcion-lluvia-criticas-1407735'>Podrás desinstalar Recall en Windows 11: Microsoft hace opcional la controvertida función tras la lluvia de críticas</a></h4>
+    <a href='https://computerhoy.com/windows/podras-desinstalar-recall-windows-11-microsoft-hace-opcional-controvertida-funcion-lluvia-criticas-1407735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-recall-4242995.jpg?tf=1200x' alt='Podrás desinstalar Recall en Windows 11: Microsoft hace opcional la controvertida función tras la lluvia de críticas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/carpeta-movil-ios-android-deberias-guardar-certificado-digital-fnmt-1407421'>En qué carpeta del móvil (iOS y Android) deberías guardar el Certificado Digital de la FNMT</a></h4>
+    <a href='https://computerhoy.com/tutoriales/carpeta-movil-ios-android-deberias-guardar-certificado-digital-fnmt-1407421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/carpeta-movil-ios-android-deberias-guardar-certificado-digital-fnmt-4242465.jpg?tf=1200x' alt='En qué carpeta del móvil (iOS y Android) deberías guardar el Certificado Digital de la FNMT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-asalta-gama-alta-250-euros-descuento-xiaomi-14-12gb-ram-carga-100w-1406578'>Xiaomi asalta la gama alta: 250 euros de descuento en el Xiaomi 14, con 12GB de RAM y carga a 100W</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-asalta-gama-alta-250-euros-descuento-xiaomi-14-12gb-ram-carga-100w-1406578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-14-3283520.jpg?tf=1200x' alt='Xiaomi asalta la gama alta: 250 euros de descuento en el Xiaomi 14, con 12GB de RAM y carga a 100W' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/mini-pc-potente-amazon-i9-32gb-ram-1253870'>Este Mini PC tiene potencia sin igual, y Amazon lo vende: Intel Core i9 y 32GB de memoria RAM</a></h4>
     <a href='https://computerhoy.com/pc/mini-pc-potente-amazon-i9-32gb-ram-1253870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/minis-forum-nab9-4197876.jpg?tf=1200x' alt='Este Mini PC tiene potencia sin igual, y Amazon lo vende: Intel Core i9 y 32GB de memoria RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/silla-gaming-avanzada-coche-formula-1-cuesta-121000-euros-1407716'>La silla gaming más avanzada es un coche de Fórmula 1 y cuesta 121.000 euros</a></h4>
-    <a href='https://computerhoy.com/gaming/silla-gaming-avanzada-coche-formula-1-cuesta-121000-euros-1407716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/silla-gaming-avanzada-coche-f1-cuesta-121000-euros-4242960.jpg?tf=1200x' alt='La silla gaming más avanzada es un coche de Fórmula 1 y cuesta 121.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/juegos-gratis-android-sin-internet-1406712'>10 juegos gratis para Android que no necesitan Internet, tan buenos que no parecen gratis</a></h4>
-    <a href='https://computerhoy.com/juegos-gratis-android-sin-internet-1406712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/videojuegos-movil-android-4241242.jpg?tf=1200x' alt='10 juegos gratis para Android que no necesitan Internet, tan buenos que no parecen gratis' />
     </a>
 </div>
 
