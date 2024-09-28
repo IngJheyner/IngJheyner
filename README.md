@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/todo-google-nest-marca-domotica-sustituyo-google-home-1404796'>Todo sobre Google Nest, la marca de domótica que sustituyó a Google Home</a></h4>
+    <a href='https://computerhoy.com/hogar/todo-google-nest-marca-domotica-sustituyo-google-home-1404796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-nest-4164434.jpg?tf=1200x' alt='Todo sobre Google Nest, la marca de domótica que sustituyó a Google Home' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/samsung-sorprende-patente-crear-companero-perfecto-mascotas-1407786'>Samsung sorprende con una patente para crear al compañero perfecto para tus mascotas</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-sorprende-patente-crear-companero-perfecto-mascotas-1407786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-ballie-4243069.jpg?tf=1200x' alt='Samsung sorprende con una patente para crear al compañero perfecto para tus mascotas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-fotos-mejora-edicion-uso-compartido-albumes-forma-1407783'>Google Fotos mejora la edición y el uso compartido de los álbumes de esta forma</a></h4>
     <a href='https://computerhoy.com/apps/google-fotos-mejora-edicion-uso-compartido-albumes-forma-1407783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-fotos-4243053.jpg?tf=1200x' alt='Google Fotos mejora la edición y el uso compartido de los álbumes de esta forma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/airpods-pro-3-apple-podrian-detectar-enfermedades-cardiacas-1407781'>Los AirPods Pro 3 de Apple podrían detectar enfermedades cardíacas</a></h4>
-    <a href='https://computerhoy.com/apple/airpods-pro-3-apple-podrian-detectar-enfermedades-cardiacas-1407781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/airpods-pro-3-apple-podrian-detectar-enfermedades-cardiacas-4243051.jpg?tf=1200x' alt='Los AirPods Pro 3 de Apple podrían detectar enfermedades cardíacas' />
     </a>
 </div>
 
