@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/agencia-espacial-europea-destruira-nuevo-satelite-2027-solo-ver-pasa-1407772'>La Agencia Espacial Europea destruirá un nuevo satélite en 2027 solo para ver qué pasa</a></h4>
+    <a href='https://computerhoy.com/espacio/agencia-espacial-europea-destruira-nuevo-satelite-2027-solo-ver-pasa-1407772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/destructive-reentry-assessment-container-object-draco-4243038.jpg?tf=1200x' alt='La Agencia Espacial Europea destruirá un nuevo satélite en 2027 solo para ver qué pasa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/telefono-movil-pronto-podra-medir-presion-arterial-solo-toque-1407771'>Tu teléfono móvil pronto podrá medir la presión arterial con un solo toque</a></h4>
     <a href='https://computerhoy.com/tecnologia/telefono-movil-pronto-podra-medir-presion-arterial-solo-toque-1407771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/telefono-movil-pronto-podra-medir-presion-arterial-solo-toque-4243036.jpg?tf=1200x' alt='Tu teléfono móvil pronto podrá medir la presión arterial con un solo toque' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/larry-page-cofundador-google-quien-cuanto-dinero-tiene-vida-personal-1402719'>Larry Page, cofundador de Google: quién es, cuánto dinero tiene y vida personal</a></h4>
     <a href='https://computerhoy.com/tecnologia/larry-page-cofundador-google-quien-cuanto-dinero-tiene-vida-personal-1402719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/larry-page-fundador-google-4065657.jpg?tf=1200x' alt='Larry Page, cofundador de Google: quién es, cuánto dinero tiene y vida personal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-aumentar-tiempo-deshacer-envio-gmail-1407375'>Cómo aumentar el tiempo de "Deshacer envío" en Gmail</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-aumentar-tiempo-deshacer-envio-gmail-1407375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/deshacer-envio-gmail-4242370.jpg?tf=1200x' alt='Cómo aumentar el tiempo de "Deshacer envío" en Gmail' />
     </a>
 </div>
 
