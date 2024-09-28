@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-sorprende-patente-crear-companero-perfecto-mascotas-1407786'>Samsung sorprende con una patente para crear al compañero perfecto para tus mascotas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-sorprende-patente-crear-companero-perfecto-mascotas-1407786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-ballie-4243069.jpg?tf=1200x' alt='Samsung sorprende con una patente para crear al compañero perfecto para tus mascotas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-hara-bateria-ordenador-dure-mucho-1407784'>Windows 11 hará que la batería de tu ordenador dure mucho más</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-hara-bateria-ordenador-dure-mucho-1407784' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bateria-windows-11-4243066.jpg?tf=1200x' alt='Windows 11 hará que la batería de tu ordenador dure mucho más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/airpods-pro-3-apple-podrian-detectar-enfermedades-cardiacas-1407781'>Los AirPods Pro 3 de Apple podrían detectar enfermedades cardíacas</a></h4>
     <a href='https://computerhoy.com/apple/airpods-pro-3-apple-podrian-detectar-enfermedades-cardiacas-1407781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/airpods-pro-3-apple-podrian-detectar-enfermedades-cardiacas-4243051.jpg?tf=1200x' alt='Los AirPods Pro 3 de Apple podrían detectar enfermedades cardíacas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-tira-casa-ventana-nuevo-smartwatch-lte-rebajadisimo-amazon-1407342'>Samsung tira la casa por la ventana: su nuevo smartwatch con LTE está rebajadísimo en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-tira-casa-ventana-nuevo-smartwatch-lte-rebajadisimo-amazon-1407342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-watch7-4g-lte-4242266.jpg?tf=1200x' alt='Samsung tira la casa por la ventana: su nuevo smartwatch con LTE está rebajadísimo en Amazon' />
     </a>
 </div>
 
