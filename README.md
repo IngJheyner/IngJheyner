@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-tira-casa-ventana-nuevo-smartwatch-lte-rebajadisimo-amazon-1407342'>Samsung tira la casa por la ventana: su nuevo smartwatch con LTE está rebajadísimo en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-tira-casa-ventana-nuevo-smartwatch-lte-rebajadisimo-amazon-1407342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-watch7-4g-lte-4242266.jpg?tf=1200x' alt='Samsung tira la casa por la ventana: su nuevo smartwatch con LTE está rebajadísimo en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/agencia-espacial-europea-destruira-nuevo-satelite-2027-solo-ver-pasa-1407772'>La Agencia Espacial Europea destruirá un nuevo satélite en 2027 solo para ver qué pasa</a></h4>
     <a href='https://computerhoy.com/espacio/agencia-espacial-europea-destruira-nuevo-satelite-2027-solo-ver-pasa-1407772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/destructive-reentry-assessment-container-object-draco-4243038.jpg?tf=1200x' alt='La Agencia Espacial Europea destruirá un nuevo satélite en 2027 solo para ver qué pasa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chollo-xxl-freidora-7l-rompe-mercado-42-descuento-1407303'>Chollo XXL: una freidora de 7L que rompe el mercado con 42% de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/chollo-xxl-freidora-7l-rompe-mercado-42-descuento-1407303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aigostar-cube-4242206.jpg?tf=1200x' alt='Chollo XXL: una freidora de 7L que rompe el mercado con 42% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/larry-page-cofundador-google-quien-cuanto-dinero-tiene-vida-personal-1402719'>Larry Page, cofundador de Google: quién es, cuánto dinero tiene y vida personal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/larry-page-cofundador-google-quien-cuanto-dinero-tiene-vida-personal-1402719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/larry-page-fundador-google-4065657.jpg?tf=1200x' alt='Larry Page, cofundador de Google: quién es, cuánto dinero tiene y vida personal' />
     </a>
 </div>
 
