@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/paciente-cero-pionera-rejuvenecimiento-celular-tiene-53-anos-aparenta-25-posible-revertir-envejecimiento-biologico-1407472'>La paciente cero pionera en rejuvenecimiento celular tiene 53 años y aparenta 25: ¿es posible revertir el envejecimiento biológico?</a></h4>
+    <a href='https://computerhoy.com/ciencia/paciente-cero-pionera-rejuvenecimiento-celular-tiene-53-anos-aparenta-25-posible-revertir-envejecimiento-biologico-1407472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/liz-parrish-4242529.jpg?tf=1200x' alt='La paciente cero pionera en rejuvenecimiento celular tiene 53 años y aparenta 25: ¿es posible revertir el envejecimiento biológico?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/creador-mario-explica-nintendo-no-va-usar-ia-juegos-1407698'>El creador de Mario explica por qué Nintendo no va a usar IA en sus juegos</a></h4>
     <a href='https://computerhoy.com/gaming/creador-mario-explica-nintendo-no-va-usar-ia-juegos-1407698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/shigeru-miyamoto-anuncia-segunda-parte-super-mario-bros-pelicula-primeros-detalles-fecha-estreno-3285617.jpg?tf=1200x' alt='El creador de Mario explica por qué Nintendo no va a usar IA en sus juegos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/todo-mundo-deshace-ellas-pero-99-casos-contienen-oro-chatarreros-matan-ellas-1407663'>Todo el mundo se deshace de ellas, pero en el 99% de los casos contienen oro y los chatarreros se matan por ellas</a></h4>
     <a href='https://computerhoy.com/tecnologia/todo-mundo-deshace-ellas-pero-99-casos-contienen-oro-chatarreros-matan-ellas-1407663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/todo-mundo-deshace-ellas-pero-99-casos-contienen-oro-chatarreros-matan-ellas-4242917.jpg?tf=1200x' alt='Todo el mundo se deshace de ellas, pero en el 99% de los casos contienen oro y los chatarreros se matan por ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smart-cities-como-tecnologia-llegando-grandes-ciudades-1404313'>Smart cities, así es como la tecnología está llegando a las grandes ciudades</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smart-cities-como-tecnologia-llegando-grandes-ciudades-1404313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/smart-citites-como-tecnologia-llegando-grandes-ciudades-4148921.jpg?tf=1200x' alt='Smart cities, así es como la tecnología está llegando a las grandes ciudades' />
     </a>
 </div>
 
