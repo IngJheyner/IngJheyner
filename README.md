@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/telefono-movil-pronto-podra-medir-presion-arterial-solo-toque-1407771'>Tu teléfono móvil pronto podrá medir la presión arterial con un solo toque</a></h4>
+    <a href='https://computerhoy.com/tecnologia/telefono-movil-pronto-podra-medir-presion-arterial-solo-toque-1407771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/telefono-movil-pronto-podra-medir-presion-arterial-solo-toque-4243036.jpg?tf=1200x' alt='Tu teléfono móvil pronto podrá medir la presión arterial con un solo toque' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-quiere-acabar-siempre-mensajes-spam-recibas-movil-1407766'>Google quiere acabar para siempre con los mensajes spam que recibas en tu móvil</a></h4>
     <a href='https://computerhoy.com/apps/google-quiere-acabar-siempre-mensajes-spam-recibas-movil-1407766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-messages-spam-4243027.jpg?tf=1200x' alt='Google quiere acabar para siempre con los mensajes spam que recibas en tu móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-aumentar-tiempo-deshacer-envio-gmail-1407375'>Cómo aumentar el tiempo de "Deshacer envío" en Gmail</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-aumentar-tiempo-deshacer-envio-gmail-1407375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/deshacer-envio-gmail-4242370.jpg?tf=1200x' alt='Cómo aumentar el tiempo de "Deshacer envío" en Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-medir-distancias-superficies-google-maps-1127651'>Cómo medir cualquier distancia, superficie o recorrido en Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-medir-distancias-superficies-google-maps-1127651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-maps-2842323.jpg?tf=1200x' alt='Cómo medir cualquier distancia, superficie o recorrido en Google Maps' />
     </a>
 </div>
 
