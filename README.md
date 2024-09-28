@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-vieja-tablet-android-smart-tv-portatil-llevar-cualquier-lugar-1406088'>Cómo convertir una vieja tablet Android en un Smart TV portátil para llevar a cualquier lugar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-convertir-vieja-tablet-android-smart-tv-portatil-llevar-cualquier-lugar-1406088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tablet-convertida-smart-tv-4242567.jpg?tf=1200x' alt='Cómo convertir una vieja tablet Android en un Smart TV portátil para llevar a cualquier lugar' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-asalta-gama-alta-250-euros-descuento-xiaomi-14-12gb-ram-carga-100w-1406578'>Xiaomi asalta la gama alta: 250 euros de descuento en el Xiaomi 14, con 12GB de RAM y carga a 100W</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-asalta-gama-alta-250-euros-descuento-xiaomi-14-12gb-ram-carga-100w-1406578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-14-3283520.jpg?tf=1200x' alt='Xiaomi asalta la gama alta: 250 euros de descuento en el Xiaomi 14, con 12GB de RAM y carga a 100W' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/enigma-iphone-16-pocas-novedades-pero-gente-muere-tenerlo-manos-1406288'>El enigma del iPhone 16, pocas novedades, pero ¿por qué la gente se muere por tenerlo en sus manos? </a></h4>
-    <a href='https://computerhoy.com/apple/enigma-iphone-16-pocas-novedades-pero-gente-muere-tenerlo-manos-1406288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-iphone-16-4136931.jpg?tf=1200x' alt='El enigma del iPhone 16, pocas novedades, pero ¿por qué la gente se muere por tenerlo en sus manos? ' />
+    <h4><a href='https://computerhoy.com/ciencia/suele-decirse-tener-mala-letra-signo-inteligencia-dice-ciencia-respecto-1405466'>Suele decirse que tener mala letra es signo de inteligencia, y esto dice la ciencia al respecto</a></h4>
+    <a href='https://computerhoy.com/ciencia/suele-decirse-tener-mala-letra-signo-inteligencia-dice-ciencia-respecto-1405466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/escribir-mano-4242594.jpg?tf=1200x' alt='Suele decirse que tener mala letra es signo de inteligencia, y esto dice la ciencia al respecto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-superbateria-precio-gama-alta-1403157'>Este OnePlus presume de superbatería de 6.100 mAh y de precio: cuesta la mitad que otros gama alta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-superbateria-precio-gama-alta-1403157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-ace-3-pro-4048442.jpg?tf=1200x' alt='Este OnePlus presume de superbatería de 6.100 mAh y de precio: cuesta la mitad que otros gama alta' />
+    <h4><a href='https://computerhoy.com/pc/mini-pc-potente-amazon-i9-32gb-ram-1253870'>Este Mini PC tiene potencia sin igual, y Amazon lo vende: Intel Core i9 y 32GB de memoria RAM</a></h4>
+    <a href='https://computerhoy.com/pc/mini-pc-potente-amazon-i9-32gb-ram-1253870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/minis-forum-nab9-4197876.jpg?tf=1200x' alt='Este Mini PC tiene potencia sin igual, y Amazon lo vende: Intel Core i9 y 32GB de memoria RAM' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-necesitas-smartwatch-mayoria-cosas-como-me-ha-demostrado-pulsera-barata-he-probado-1405615'>No necesitas un smartwatch para la mayoría de cosas, como me ha demostrado esta pulsera barata que he probado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-necesitas-smartwatch-mayoria-cosas-como-me-ha-demostrado-pulsera-barata-he-probado-1405615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pulsera-honor-band-9-junto-smartwatch-huawei-4213463.jpg?tf=1200x' alt='No necesitas un smartwatch para la mayoría de cosas, como me ha demostrado esta pulsera barata que he probado' />
+    <h4><a href='https://computerhoy.com/gaming/silla-gaming-avanzada-coche-formula-1-cuesta-121000-euros-1407716'>La silla gaming más avanzada es un coche de Fórmula 1 y cuesta 121.000 euros</a></h4>
+    <a href='https://computerhoy.com/gaming/silla-gaming-avanzada-coche-formula-1-cuesta-121000-euros-1407716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/silla-gaming-avanzada-coche-f1-cuesta-121000-euros-4242960.jpg?tf=1200x' alt='La silla gaming más avanzada es un coche de Fórmula 1 y cuesta 121.000 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/henry-cocodrilo-viejo-mundo-tiene-123-anos-10000-hijos-1407714'>Henry, el cocodrilo más viejo del mundo, tiene 123 años y más de 10.000 hijos</a></h4>
-    <a href='https://computerhoy.com/life/henry-cocodrilo-viejo-mundo-tiene-123-anos-10000-hijos-1407714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/henry-cocodrilo-viejo-mundo-cumple-123-anos-4242957.jpg?tf=1200x' alt='Henry, el cocodrilo más viejo del mundo, tiene 123 años y más de 10.000 hijos' />
+    <h4><a href='https://computerhoy.com/juegos-gratis-android-sin-internet-1406712'>10 juegos gratis para Android que no necesitan Internet, tan buenos que no parecen gratis</a></h4>
+    <a href='https://computerhoy.com/juegos-gratis-android-sin-internet-1406712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/videojuegos-movil-android-4241242.jpg?tf=1200x' alt='10 juegos gratis para Android que no necesitan Internet, tan buenos que no parecen gratis' />
     </a>
 </div>
 
