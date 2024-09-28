@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/paciente-cero-pionera-rejuvenecimiento-celular-tiene-53-anos-aparenta-25-posible-revertir-envejecimiento-biologico-1407472'>La paciente cero pionera en rejuvenecimiento celular tiene 53 años y aparenta 25: ¿es posible revertir el envejecimiento biológico?</a></h4>
-    <a href='https://computerhoy.com/ciencia/paciente-cero-pionera-rejuvenecimiento-celular-tiene-53-anos-aparenta-25-posible-revertir-envejecimiento-biologico-1407472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/liz-parrish-4242529.jpg?tf=1200x' alt='La paciente cero pionera en rejuvenecimiento celular tiene 53 años y aparenta 25: ¿es posible revertir el envejecimiento biológico?' />
+    <h4><a href='https://computerhoy.com/juegos-gratis-android-sin-internet-1406712'>10 juegos gratis para Android que no necesitan Internet, tan buenos que no parecen gratis</a></h4>
+    <a href='https://computerhoy.com/juegos-gratis-android-sin-internet-1406712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/videojuegos-movil-android-4241242.jpg?tf=1200x' alt='10 juegos gratis para Android que no necesitan Internet, tan buenos que no parecen gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/creador-mario-explica-nintendo-no-va-usar-ia-juegos-1407698'>El creador de Mario explica por qué Nintendo no va a usar IA en sus juegos</a></h4>
-    <a href='https://computerhoy.com/gaming/creador-mario-explica-nintendo-no-va-usar-ia-juegos-1407698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/shigeru-miyamoto-anuncia-segunda-parte-super-mario-bros-pelicula-primeros-detalles-fecha-estreno-3285617.jpg?tf=1200x' alt='El creador de Mario explica por qué Nintendo no va a usar IA en sus juegos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-vieja-tablet-android-smart-tv-portatil-llevar-cualquier-lugar-1406088'>Cómo convertir una vieja tablet Android en un Smart TV portátil para llevar a cualquier lugar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-convertir-vieja-tablet-android-smart-tv-portatil-llevar-cualquier-lugar-1406088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tablet-convertida-smart-tv-4242567.jpg?tf=1200x' alt='Cómo convertir una vieja tablet Android en un Smart TV portátil para llevar a cualquier lugar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tienen-casi-todos-coches-sirve-agujero-oculto-puertas-traseras-1407683'>Lo tienen casi todos los coches: ¿para qué sirve este agujero oculto en las puertas traseras?</a></h4>
-    <a href='https://computerhoy.com/motor/tienen-casi-todos-coches-sirve-agujero-oculto-puertas-traseras-1407683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tienen-casi-todos-coches-sirve-agujero-oculto-puertas-traseras-4242930.jpg?tf=1200x' alt='Lo tienen casi todos los coches: ¿para qué sirve este agujero oculto en las puertas traseras?' />
+    <h4><a href='https://computerhoy.com/apple/enigma-iphone-16-pocas-novedades-pero-gente-muere-tenerlo-manos-1406288'>El enigma del iPhone 16, pocas novedades, pero ¿por qué la gente se muere por tenerlo en sus manos? </a></h4>
+    <a href='https://computerhoy.com/apple/enigma-iphone-16-pocas-novedades-pero-gente-muere-tenerlo-manos-1406288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-iphone-16-4136931.jpg?tf=1200x' alt='El enigma del iPhone 16, pocas novedades, pero ¿por qué la gente se muere por tenerlo en sus manos? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-microsoft-blocked-bloquea-windows-completo-1407689'>La estafa Microsoft Blocked, que bloquea Windows por completo, se extiende sin control</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafa-microsoft-blocked-bloquea-windows-completo-1407689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estafa-microsoft-blocked-bloquea-windows-completo-extiende-control-4242909.jpg?tf=1200x' alt='La estafa Microsoft Blocked, que bloquea Windows por completo, se extiende sin control' />
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-superbateria-precio-gama-alta-1403157'>Este OnePlus presume de superbatería de 6.100 mAh y de precio: cuesta la mitad que otros gama alta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-superbateria-precio-gama-alta-1403157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-ace-3-pro-4048442.jpg?tf=1200x' alt='Este OnePlus presume de superbatería de 6.100 mAh y de precio: cuesta la mitad que otros gama alta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-mundo-deshace-ellas-pero-99-casos-contienen-oro-chatarreros-matan-ellas-1407663'>Todo el mundo se deshace de ellas, pero en el 99% de los casos contienen oro y los chatarreros se matan por ellas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-mundo-deshace-ellas-pero-99-casos-contienen-oro-chatarreros-matan-ellas-1407663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/todo-mundo-deshace-ellas-pero-99-casos-contienen-oro-chatarreros-matan-ellas-4242917.jpg?tf=1200x' alt='Todo el mundo se deshace de ellas, pero en el 99% de los casos contienen oro y los chatarreros se matan por ellas' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-necesitas-smartwatch-mayoria-cosas-como-me-ha-demostrado-pulsera-barata-he-probado-1405615'>No necesitas un smartwatch para la mayoría de cosas, como me ha demostrado esta pulsera barata que he probado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-necesitas-smartwatch-mayoria-cosas-como-me-ha-demostrado-pulsera-barata-he-probado-1405615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pulsera-honor-band-9-junto-smartwatch-huawei-4213463.jpg?tf=1200x' alt='No necesitas un smartwatch para la mayoría de cosas, como me ha demostrado esta pulsera barata que he probado' />
     </a>
 </div>
 
