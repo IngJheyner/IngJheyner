@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-quiere-acabar-siempre-mensajes-spam-recibas-movil-1407766'>Google quiere acabar para siempre con los mensajes spam que recibas en tu móvil</a></h4>
+    <a href='https://computerhoy.com/apps/google-quiere-acabar-siempre-mensajes-spam-recibas-movil-1407766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-messages-spam-4243027.jpg?tf=1200x' alt='Google quiere acabar para siempre con los mensajes spam que recibas en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chollo-xxl-freidora-7l-rompe-mercado-42-descuento-1407303'>Chollo XXL: una freidora de 7L que rompe el mercado con 42% de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/chollo-xxl-freidora-7l-rompe-mercado-42-descuento-1407303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/aigostar-cube-4242206.jpg?tf=1200x' alt='Chollo XXL: una freidora de 7L que rompe el mercado con 42% de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-medir-distancias-superficies-google-maps-1127651'>Cómo medir cualquier distancia, superficie o recorrido en Google Maps</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-medir-distancias-superficies-google-maps-1127651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/google-maps-2842323.jpg?tf=1200x' alt='Cómo medir cualquier distancia, superficie o recorrido en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-defender-bloqueara-peligrosos-keyloggers-windows-11-10-1407751'>Microsoft Defender bloqueará los peligrosos keyloggers en Windows 11 y 10</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-defender-bloqueara-peligrosos-keyloggers-windows-11-10-1407751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/keyloggers-windows-11-4243013.jpg?tf=1200x' alt='Microsoft Defender bloqueará los peligrosos keyloggers en Windows 11 y 10' />
     </a>
 </div>
 
