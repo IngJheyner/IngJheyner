@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/juegos-gratis-android-sin-internet-1406712'>10 juegos gratis para Android que no necesitan Internet, tan buenos que no parecen gratis</a></h4>
-    <a href='https://computerhoy.com/juegos-gratis-android-sin-internet-1406712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/videojuegos-movil-android-4241242.jpg?tf=1200x' alt='10 juegos gratis para Android que no necesitan Internet, tan buenos que no parecen gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-convertir-vieja-tablet-android-smart-tv-portatil-llevar-cualquier-lugar-1406088'>Cómo convertir una vieja tablet Android en un Smart TV portátil para llevar a cualquier lugar</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-convertir-vieja-tablet-android-smart-tv-portatil-llevar-cualquier-lugar-1406088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tablet-convertida-smart-tv-4242567.jpg?tf=1200x' alt='Cómo convertir una vieja tablet Android en un Smart TV portátil para llevar a cualquier lugar' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-necesitas-smartwatch-mayoria-cosas-como-me-ha-demostrado-pulsera-barata-he-probado-1405615'>No necesitas un smartwatch para la mayoría de cosas, como me ha demostrado esta pulsera barata que he probado</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-necesitas-smartwatch-mayoria-cosas-como-me-ha-demostrado-pulsera-barata-he-probado-1405615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pulsera-honor-band-9-junto-smartwatch-huawei-4213463.jpg?tf=1200x' alt='No necesitas un smartwatch para la mayoría de cosas, como me ha demostrado esta pulsera barata que he probado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/henry-cocodrilo-viejo-mundo-tiene-123-anos-10000-hijos-1407714'>Henry, el cocodrilo más viejo del mundo, tiene 123 años y más de 10.000 hijos</a></h4>
+    <a href='https://computerhoy.com/life/henry-cocodrilo-viejo-mundo-tiene-123-anos-10000-hijos-1407714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/henry-cocodrilo-viejo-mundo-cumple-123-anos-4242957.jpg?tf=1200x' alt='Henry, el cocodrilo más viejo del mundo, tiene 123 años y más de 10.000 hijos' />
     </a>
 </div>
 
