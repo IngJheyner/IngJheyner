@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/despega-nave-spacex-rescatara-astronautas-perdidos-starliner-1407853'>Despega la nave que rescatará a los astronautas "perdidos": ¿Por qué tardarán cinco meses en volver? </a></h4>
+    <a href='https://computerhoy.com/espacio/despega-nave-spacex-rescatara-astronautas-perdidos-starliner-1407853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/despega-nave-traera-vuelta-astronautas-perdidos-tardaran-dos-meses-volver-4243163.jpg?tf=1200x' alt='Despega la nave que rescatará a los astronautas "perdidos": ¿Por qué tardarán cinco meses en volver? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pc-cuesta-menos-movil-xiaomi-tiene-windows-11-arrasando-amazon-1406648'>Este PC cuesta menos que un móvil Xiaomi y tiene Windows 11: está arrasando en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/pc-cuesta-menos-movil-xiaomi-tiene-windows-11-arrasando-amazon-1406648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hp-compaq-8300-sff-4240965.jpg?tf=1200x' alt='Este PC cuesta menos que un móvil Xiaomi y tiene Windows 11: está arrasando en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/microsoft-cambiara-completo-aplicacion-copilot-convertirla-presentador-noticias-virtual-1407824'>Microsoft cambiará por completo la aplicación de Copilot para convertirla en un presentador de noticias virtual</a></h4>
     <a href='https://computerhoy.com/apps/microsoft-cambiara-completo-aplicacion-copilot-convertirla-presentador-noticias-virtual-1407824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/microsoft-cambiara-completo-aplicacion-copilot-convertirla-presentador-noticias-virtual-4243121.jpg?tf=1200x' alt='Microsoft cambiará por completo la aplicación de Copilot para convertirla en un presentador de noticias virtual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-portatil-viejo-chromebook-1405849'>Cómo convertir un portátil viejo que ya no usas en un Chromebook</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-convertir-portatil-viejo-chromebook-1405849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/convertir-pc-chromebook-4215557.jpg?tf=1200x' alt='Cómo convertir un portátil viejo que ya no usas en un Chromebook' />
     </a>
 </div>
 
