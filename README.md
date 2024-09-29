@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/anos-perfeccionamiento-estos-son-trucos-grupos-whatsapp-no-me-vuelvan-loco-1407117'>Tras años de perfeccionamiento, estos son mis trucos para que los grupos de WhatsApp no me vuelvan loco</a></h4>
+    <a href='https://computerhoy.com/apps/anos-perfeccionamiento-estos-son-trucos-grupos-whatsapp-no-me-vuelvan-loco-1407117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/anos-perfeccionamiento-estos-son-trucos-grupos-whatsapp-no-me-vuelvan-loco-4241920.jpg?tf=1200x' alt='Tras años de perfeccionamiento, estos son mis trucos para que los grupos de WhatsApp no me vuelvan loco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ideologia-oculta-ia-estan-chatbots-como-chatgpt-manipulando-pensamiento-politico-1406289'>La ideología oculta de la IA, ¿están los chatbots como ChatGPT manipulando tu pensamiento político?</a></h4>
     <a href='https://computerhoy.com/tecnologia/ideologia-oculta-ia-estan-chatbots-como-chatgpt-manipulando-pensamiento-politico-1406289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-manipulando-pensamiento-politico-4242498.jpg?tf=1200x' alt='La ideología oculta de la IA, ¿están los chatbots como ChatGPT manipulando tu pensamiento político?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/ni-apple-watch-ni-galaxy-watch-reloj-gama-alta-me-ha-demostrado-relojes-grandes-tambien-pueden-ser-comodos-1403854'>Ni Apple Watch ni Galaxy Watch, este es el reloj de gama alta que me ha demostrado que los relojes grandes también pueden ser cómodos</a></h4>
     <a href='https://computerhoy.com/google/ni-apple-watch-ni-galaxy-watch-reloj-gama-alta-me-ha-demostrado-relojes-grandes-tambien-pueden-ser-comodos-1403854' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-pixel-watch-3-4114861.jpg?tf=1200x' alt='Ni Apple Watch ni Galaxy Watch, este es el reloj de gama alta que me ha demostrado que los relojes grandes también pueden ser cómodos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-calcular-tiempo-vida-ssd-hdd-1111521'>Cómo calcular el tiempo de vida de tus discos duros y SSDs</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-calcular-tiempo-vida-ssd-hdd-1111521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ssd-2733789.jpg?tf=1200x' alt='Cómo calcular el tiempo de vida de tus discos duros y SSDs' />
     </a>
 </div>
 
