@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fin-rumores-intel-no-va-vender-procesadores-1407858'>Fin de los rumores: Intel no va a vender sus procesadores a nadie</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fin-rumores-intel-no-va-vender-procesadores-1407858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fin-rumores-intel-no-va-vender-procesadores-nadie-4243166.jpg?tf=1200x' alt='Fin de los rumores: Intel no va a vender sus procesadores a nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/despega-nave-spacex-rescatara-astronautas-perdidos-starliner-1407853'>Despega la nave que rescatará a los astronautas "perdidos": ¿Por qué tardarán cinco meses en volver? </a></h4>
     <a href='https://computerhoy.com/espacio/despega-nave-spacex-rescatara-astronautas-perdidos-starliner-1407853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/despega-nave-traera-vuelta-astronautas-perdidos-tardaran-dos-meses-volver-4243163.jpg?tf=1200x' alt='Despega la nave que rescatará a los astronautas "perdidos": ¿Por qué tardarán cinco meses en volver? ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sergey-brin-cofundador-google-quien-cuanto-dinero-tiene-vida-personal-1402713'>Sergey Brin, cofundador de Google: quién es, cuánto dinero tiene y vida personal</a></h4>
     <a href='https://computerhoy.com/tecnologia/sergey-brin-cofundador-google-quien-cuanto-dinero-tiene-vida-personal-1402713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sergey-brin-fundador-google-4065658.jpg?tf=1200x' alt='Sergey Brin, cofundador de Google: quién es, cuánto dinero tiene y vida personal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/microsoft-cambiara-completo-aplicacion-copilot-convertirla-presentador-noticias-virtual-1407824'>Microsoft cambiará por completo la aplicación de Copilot para convertirla en un presentador de noticias virtual</a></h4>
-    <a href='https://computerhoy.com/apps/microsoft-cambiara-completo-aplicacion-copilot-convertirla-presentador-noticias-virtual-1407824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/microsoft-cambiara-completo-aplicacion-copilot-convertirla-presentador-noticias-virtual-4243121.jpg?tf=1200x' alt='Microsoft cambiará por completo la aplicación de Copilot para convertirla en un presentador de noticias virtual' />
     </a>
 </div>
 
