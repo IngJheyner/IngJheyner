@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/revelan-nuevo-tipo-sextorsion-incluye-fotos-casa-1407864'>Revelan un nuevo tipo de sextorsión que incluye fotos de tu casa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/revelan-nuevo-tipo-sextorsion-incluye-fotos-casa-1407864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/revelan-nuevo-tipo-sextorsion-incluye-foto-casa-4243173.jpg?tf=1200x' alt='Revelan un nuevo tipo de sextorsión que incluye fotos de tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gadget-xiaomi-casa-util-barato-todo-noche-10-euros-1407542'>Este gadget Xiaomi para tu casa es útil y barato, sobre todo de noche ¡y por 10 euros!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gadget-xiaomi-casa-util-barato-todo-noche-10-euros-1407542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-mi-motion-activated-night-light-2-4242605.jpg?tf=1200x' alt='Este gadget Xiaomi para tu casa es útil y barato, sobre todo de noche ¡y por 10 euros!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/fin-rumores-intel-no-va-vender-procesadores-1407858'>Fin de los rumores: Intel no va a vender sus procesadores a nadie</a></h4>
     <a href='https://computerhoy.com/tecnologia/fin-rumores-intel-no-va-vender-procesadores-1407858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fin-rumores-intel-no-va-vender-procesadores-nadie-4243166.jpg?tf=1200x' alt='Fin de los rumores: Intel no va a vender sus procesadores a nadie' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pc-cuesta-menos-movil-xiaomi-tiene-windows-11-arrasando-amazon-1406648'>Este PC cuesta menos que un móvil Xiaomi y tiene Windows 11: está arrasando en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/pc-cuesta-menos-movil-xiaomi-tiene-windows-11-arrasando-amazon-1406648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hp-compaq-8300-sff-4240965.jpg?tf=1200x' alt='Este PC cuesta menos que un móvil Xiaomi y tiene Windows 11: está arrasando en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-google-tv-streamer-carece-caracteristica-usas-otros-dispositivos-google-tv-android-tv-1407837'>El nuevo Google TV Streamer carece de esta característica que usas en otros dispositivos Google TV y Android TV</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-google-tv-streamer-carece-caracteristica-usas-otros-dispositivos-google-tv-android-tv-1407837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-streamer-4k-4234290.jpg?tf=1200x' alt='El nuevo Google TV Streamer carece de esta característica que usas en otros dispositivos Google TV y Android TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sergey-brin-cofundador-google-quien-cuanto-dinero-tiene-vida-personal-1402713'>Sergey Brin, cofundador de Google: quién es, cuánto dinero tiene y vida personal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sergey-brin-cofundador-google-quien-cuanto-dinero-tiene-vida-personal-1402713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sergey-brin-fundador-google-4065658.jpg?tf=1200x' alt='Sergey Brin, cofundador de Google: quién es, cuánto dinero tiene y vida personal' />
     </a>
 </div>
 
