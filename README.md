@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-contrasena-olvidada-red-wifi-programas-forma-legal-1407411'>Cómo saber la contraseña olvidada de una red WiFi: sin programas y de forma legal</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-contrasena-olvidada-red-wifi-programas-forma-legal-1407411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-saber-contrasena-olvidada-red-wifi-programas-forma-legal-4242456.jpg?tf=1200x' alt='Cómo saber la contraseña olvidada de una red WiFi: sin programas y de forma legal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ni-photoshop-ni-lightroom-estas-tres-herramientas-hago-mismo-gastar-euro-1406387'>Ni Photoshop ni Lightroom, con estas tres herramientas hago lo mismo sin gastar un euro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ni-photoshop-ni-lightroom-estas-tres-herramientas-hago-mismo-gastar-euro-1406387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ni-photoshop-ni-lightroom-estas-tres-herramientas-hago-mismo-gastar-euro-4238547.jpg?tf=1200x' alt='Ni Photoshop ni Lightroom, con estas tres herramientas hago lo mismo sin gastar un euro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/anos-perfeccionamiento-estos-son-trucos-grupos-whatsapp-no-me-vuelvan-loco-1407117'>Tras años de perfeccionamiento, estos son mis trucos para que los grupos de WhatsApp no me vuelvan loco</a></h4>
     <a href='https://computerhoy.com/apps/anos-perfeccionamiento-estos-son-trucos-grupos-whatsapp-no-me-vuelvan-loco-1407117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/anos-perfeccionamiento-estos-son-trucos-grupos-whatsapp-no-me-vuelvan-loco-4241920.jpg?tf=1200x' alt='Tras años de perfeccionamiento, estos son mis trucos para que los grupos de WhatsApp no me vuelvan loco' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-pantalla-amoled-gps-precio-1322576'>Este smartwatch Xiaomi lo tiene todo para arrasar: Wear OS, pantalla AMOLED y GPS, pero lo mejor es el precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-pantalla-amoled-gps-precio-1322576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-watch-2-pro-3200208.jpg?tf=1200x' alt='Este smartwatch Xiaomi lo tiene todo para arrasar: Wear OS, pantalla AMOLED y GPS, pero lo mejor es el precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/private-cloud-compute-como-apple-va-proteger-iphone-ia-1405108'>¿Qué es Private Cloud Compute y cómo Apple va a proteger tu iPhone con IA?</a></h4>
-    <a href='https://computerhoy.com/apple/private-cloud-compute-como-apple-va-proteger-iphone-ia-1405108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-intelligence-siri-3656462.jpg?tf=1200x' alt='¿Qué es Private Cloud Compute y cómo Apple va a proteger tu iPhone con IA?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ni-apple-watch-ni-galaxy-watch-reloj-gama-alta-me-ha-demostrado-relojes-grandes-tambien-pueden-ser-comodos-1403854'>Ni Apple Watch ni Galaxy Watch, este es el reloj de gama alta que me ha demostrado que los relojes grandes también pueden ser cómodos</a></h4>
-    <a href='https://computerhoy.com/google/ni-apple-watch-ni-galaxy-watch-reloj-gama-alta-me-ha-demostrado-relojes-grandes-tambien-pueden-ser-comodos-1403854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-pixel-watch-3-4114861.jpg?tf=1200x' alt='Ni Apple Watch ni Galaxy Watch, este es el reloj de gama alta que me ha demostrado que los relojes grandes también pueden ser cómodos' />
     </a>
 </div>
 
