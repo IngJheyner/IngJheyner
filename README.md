@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/todo-google-nest-marca-domotica-sustituyo-google-home-1404796'>Todo sobre Google Nest, la marca de domótica que sustituyó a Google Home</a></h4>
-    <a href='https://computerhoy.com/hogar/todo-google-nest-marca-domotica-sustituyo-google-home-1404796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-nest-4164434.jpg?tf=1200x' alt='Todo sobre Google Nest, la marca de domótica que sustituyó a Google Home' />
+    <h4><a href='https://computerhoy.com/tecnologia/ideologia-oculta-ia-estan-chatbots-como-chatgpt-manipulando-pensamiento-politico-1406289'>La ideología oculta de la IA, ¿están los chatbots como ChatGPT manipulando tu pensamiento político?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ideologia-oculta-ia-estan-chatbots-como-chatgpt-manipulando-pensamiento-politico-1406289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-manipulando-pensamiento-politico-4242498.jpg?tf=1200x' alt='La ideología oculta de la IA, ¿están los chatbots como ChatGPT manipulando tu pensamiento político?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-sorprende-patente-crear-companero-perfecto-mascotas-1407786'>Samsung sorprende con una patente para crear al compañero perfecto para tus mascotas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-sorprende-patente-crear-companero-perfecto-mascotas-1407786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-ballie-4243069.jpg?tf=1200x' alt='Samsung sorprende con una patente para crear al compañero perfecto para tus mascotas' />
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-pantalla-amoled-gps-precio-1322576'>Este smartwatch Xiaomi lo tiene todo para arrasar: Wear OS, pantalla AMOLED y GPS, pero lo mejor es el precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-pantalla-amoled-gps-precio-1322576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-watch-2-pro-3200208.jpg?tf=1200x' alt='Este smartwatch Xiaomi lo tiene todo para arrasar: Wear OS, pantalla AMOLED y GPS, pero lo mejor es el precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-hara-bateria-ordenador-dure-mucho-1407784'>Windows 11 hará que la batería de tu ordenador dure mucho más</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-hara-bateria-ordenador-dure-mucho-1407784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bateria-windows-11-4243066.jpg?tf=1200x' alt='Windows 11 hará que la batería de tu ordenador dure mucho más' />
+    <h4><a href='https://computerhoy.com/apple/private-cloud-compute-como-apple-va-proteger-iphone-ia-1405108'>¿Qué es Private Cloud Compute y cómo Apple va a proteger tu iPhone con IA?</a></h4>
+    <a href='https://computerhoy.com/apple/private-cloud-compute-como-apple-va-proteger-iphone-ia-1405108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-intelligence-siri-3656462.jpg?tf=1200x' alt='¿Qué es Private Cloud Compute y cómo Apple va a proteger tu iPhone con IA?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/razer-lleva-juegos-vida-real-nuevos-productos-hapticos-razer-kraken-v4-pro-razer-freyja-1407268'>Razer lleva los juegos a la vida real con sus nuevos productos hápticos, Razer Kraken V4 Pro y Razer Freyja</a></h4>
-    <a href='https://computerhoy.com/tecnologia/razer-lleva-juegos-vida-real-nuevos-productos-hapticos-razer-kraken-v4-pro-razer-freyja-1407268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/razer-freyja-razer-kraken-v4-pro-4242167.jpg?tf=1200x' alt='Razer lleva los juegos a la vida real con sus nuevos productos hápticos, Razer Kraken V4 Pro y Razer Freyja' />
+    <h4><a href='https://computerhoy.com/google/ni-apple-watch-ni-galaxy-watch-reloj-gama-alta-me-ha-demostrado-relojes-grandes-tambien-pueden-ser-comodos-1403854'>Ni Apple Watch ni Galaxy Watch, este es el reloj de gama alta que me ha demostrado que los relojes grandes también pueden ser cómodos</a></h4>
+    <a href='https://computerhoy.com/google/ni-apple-watch-ni-galaxy-watch-reloj-gama-alta-me-ha-demostrado-relojes-grandes-tambien-pueden-ser-comodos-1403854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-pixel-watch-3-4114861.jpg?tf=1200x' alt='Ni Apple Watch ni Galaxy Watch, este es el reloj de gama alta que me ha demostrado que los relojes grandes también pueden ser cómodos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-fotos-mejora-edicion-uso-compartido-albumes-forma-1407783'>Google Fotos mejora la edición y el uso compartido de los álbumes de esta forma</a></h4>
-    <a href='https://computerhoy.com/apps/google-fotos-mejora-edicion-uso-compartido-albumes-forma-1407783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-fotos-4243053.jpg?tf=1200x' alt='Google Fotos mejora la edición y el uso compartido de los álbumes de esta forma' />
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-calcular-tiempo-vida-ssd-hdd-1111521'>Cómo calcular el tiempo de vida de tus discos duros y SSDs</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-calcular-tiempo-vida-ssd-hdd-1111521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/ssd-2733789.jpg?tf=1200x' alt='Cómo calcular el tiempo de vida de tus discos duros y SSDs' />
     </a>
 </div>
 
