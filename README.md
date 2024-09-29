@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ahorrar-usando-excel-llevar-cuentas-no-pasarte-1116141'>Cómo ahorrar usando Excel para llevar tus cuentas y no pasarte </a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ahorrar-usando-excel-llevar-cuentas-no-pasarte-1116141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/ahorro-2220983.jpg?tf=1200x' alt='Cómo ahorrar usando Excel para llevar tus cuentas y no pasarte ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-identificar-enlaces-sospechosos-chats-antes-hagas-clic-1407822'>WhatsApp te permitirá identificar enlaces sospechosos en los chats antes de que hagas clic</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-identificar-enlaces-sospechosos-chats-antes-hagas-clic-1407822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hombre-enfadado-usar-whatsapp-4243118.jpg?tf=1200x' alt='WhatsApp te permitirá identificar enlaces sospechosos en los chats antes de que hagas clic' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-estrena-funcionalidad-van-aplaudir-amantes-videojuegos-competitivos-1407817'>Windows 11 estrena una funcionalidad que van a aplaudir los amantes de los videojuegos competitivos</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-estrena-funcionalidad-van-aplaudir-amantes-videojuegos-competitivos-1407817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-estrena-funcionalidad-van-aplaudir-amantes-videojuegos-competitivos-4243111.jpg?tf=1200x' alt='Windows 11 estrena una funcionalidad que van a aplaudir los amantes de los videojuegos competitivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pierden-datos-disco-ssd-queda-energia-durante-mucho-tiempo-1406087'>¿Se pierden los datos de un disco SSD si se queda sin energía durante mucho tiempo?</a></h4>
     <a href='https://computerhoy.com/tecnologia/pierden-datos-disco-ssd-queda-energia-durante-mucho-tiempo-1406087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pierden-datos-disco-ssd-queda-energia-durante-mucho-tiempo-4217761.jpg?tf=1200x' alt='¿Se pierden los datos de un disco SSD si se queda sin energía durante mucho tiempo?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-maps-android-auto-hara-facil-nunca-editar-direcciones-casa-trabajo-1407787'>Google Maps en Android Auto hará más fácil que nunca editar las direcciones de casa y el trabajo</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-android-auto-hara-facil-nunca-editar-direcciones-casa-trabajo-1407787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-guardar-donde-he-aparcado-android-auto-tocar-movil-3246104.jpg?tf=1200x' alt='Google Maps en Android Auto hará más fácil que nunca editar las direcciones de casa y el trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-barato-me-compraria-1-tb-ssd-ryzen-7-apenas-600-euros-1407499'>Este es el portátil barato que me compraría: 1 TB de SSD y Ryzen 7 por apenas 600 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-barato-me-compraria-1-tb-ssd-ryzen-7-apenas-600-euros-1407499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/alurin-flex-advance-4242565.jpg?tf=1200x' alt='Este es el portátil barato que me compraría: 1 TB de SSD y Ryzen 7 por apenas 600 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/puedes-hacer-te-quedas-datos-digi-tranquilo-tenemos-buenas-noticias-1407113'>¿Qué puedes hacer si te quedas sin datos en DIGI? Tranquilo, tenemos buenas noticias</a></h4>
-    <a href='https://computerhoy.com/redes/puedes-hacer-te-quedas-datos-digi-tranquilo-tenemos-buenas-noticias-1407113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/puedes-hacer-te-quedas-datos-digi-tranquilo-tenemos-buenas-noticias-4241913.jpg?tf=1200x' alt='¿Qué puedes hacer si te quedas sin datos en DIGI? Tranquilo, tenemos buenas noticias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-contrasena-olvidada-red-wifi-programas-forma-legal-1407411'>Cómo saber la contraseña olvidada de una red WiFi: sin programas y de forma legal</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-contrasena-olvidada-red-wifi-programas-forma-legal-1407411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-saber-contrasena-olvidada-red-wifi-programas-forma-legal-4242456.jpg?tf=1200x' alt='Cómo saber la contraseña olvidada de una red WiFi: sin programas y de forma legal' />
     </a>
 </div>
 
