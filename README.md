@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pc-cuesta-menos-movil-xiaomi-tiene-windows-11-arrasando-amazon-1406648'>Este PC cuesta menos que un móvil Xiaomi y tiene Windows 11: está arrasando en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-cuesta-menos-movil-xiaomi-tiene-windows-11-arrasando-amazon-1406648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hp-compaq-8300-sff-4240965.jpg?tf=1200x' alt='Este PC cuesta menos que un móvil Xiaomi y tiene Windows 11: está arrasando en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-google-tv-streamer-carece-caracteristica-usas-otros-dispositivos-google-tv-android-tv-1407837'>El nuevo Google TV Streamer carece de esta característica que usas en otros dispositivos Google TV y Android TV</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-google-tv-streamer-carece-caracteristica-usas-otros-dispositivos-google-tv-android-tv-1407837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-streamer-4k-4234290.jpg?tf=1200x' alt='El nuevo Google TV Streamer carece de esta característica que usas en otros dispositivos Google TV y Android TV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-convertir-portatil-viejo-chromebook-1405849'>Cómo convertir un portátil viejo que ya no usas en un Chromebook</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-convertir-portatil-viejo-chromebook-1405849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/convertir-pc-chromebook-4215557.jpg?tf=1200x' alt='Cómo convertir un portátil viejo que ya no usas en un Chromebook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ahorrar-usando-excel-llevar-cuentas-no-pasarte-1116141'>Cómo ahorrar usando Excel para llevar tus cuentas y no pasarte </a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ahorrar-usando-excel-llevar-cuentas-no-pasarte-1116141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/ahorro-2220983.jpg?tf=1200x' alt='Cómo ahorrar usando Excel para llevar tus cuentas y no pasarte ' />
     </a>
 </div>
 
