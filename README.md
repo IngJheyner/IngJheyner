@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/joven-lleva-juicio-madre-tirar-basura-coleccion-mangas-attack-titan-1407874'>Un joven lleva a juicio a su madre por tirar a la basura su colección de mangas de Attack on Titan</a></h4>
+    <a href='https://computerhoy.com/life/joven-lleva-juicio-madre-tirar-basura-coleccion-mangas-attack-titan-1407874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/joven-lleva-juicio-madre-tirar-basura-coleccion-mangas-attack-titan-4243184.jpg?tf=1200x' alt='Un joven lleva a juicio a su madre por tirar a la basura su colección de mangas de Attack on Titan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/spotify-cae-durante-horas-ha-pasado-1407869'>Spotify se cae durante horas, ¿qué ha pasado?</a></h4>
     <a href='https://computerhoy.com/apps/spotify-cae-durante-horas-ha-pasado-1407869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/spotify-cae-durante-horas-ha-pasado-4243180.jpg?tf=1200x' alt='Spotify se cae durante horas, ¿qué ha pasado?' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fin-rumores-intel-no-va-vender-procesadores-1407858'>Fin de los rumores: Intel no va a vender sus procesadores a nadie</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/fin-rumores-intel-no-va-vender-procesadores-1407858'>Fin de los rumores: Intel no va a vender su división de procesadores a nadie</a></h4>
     <a href='https://computerhoy.com/tecnologia/fin-rumores-intel-no-va-vender-procesadores-1407858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fin-rumores-intel-no-va-vender-procesadores-nadie-4243166.jpg?tf=1200x' alt='Fin de los rumores: Intel no va a vender sus procesadores a nadie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/despega-nave-spacex-rescatara-astronautas-perdidos-starliner-1407853'>Despega la nave que rescatará a los astronautas "perdidos": ¿Por qué tardarán cinco meses en volver? </a></h4>
-    <a href='https://computerhoy.com/espacio/despega-nave-spacex-rescatara-astronautas-perdidos-starliner-1407853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/despega-nave-traera-vuelta-astronautas-perdidos-tardaran-dos-meses-volver-4243163.jpg?tf=1200x' alt='Despega la nave que rescatará a los astronautas "perdidos": ¿Por qué tardarán cinco meses en volver? ' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fin-rumores-intel-no-va-vender-procesadores-nadie-4243166.jpg?tf=1200x' alt='Fin de los rumores: Intel no va a vender su división de procesadores a nadie' />
     </a>
 </div>
 
