@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-google-tv-streamer-carece-caracteristica-usas-otros-dispositivos-google-tv-android-tv-1407837'>El nuevo Google TV Streamer carece de esta característica que usas en otros dispositivos Google TV y Android TV</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-google-tv-streamer-carece-caracteristica-usas-otros-dispositivos-google-tv-android-tv-1407837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-streamer-4k-4234290.jpg?tf=1200x' alt='El nuevo Google TV Streamer carece de esta característica que usas en otros dispositivos Google TV y Android TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sergey-brin-cofundador-google-quien-cuanto-dinero-tiene-vida-personal-1402713'>Sergey Brin, cofundador de Google: quién es, cuánto dinero tiene y vida personal</a></h4>
     <a href='https://computerhoy.com/tecnologia/sergey-brin-cofundador-google-quien-cuanto-dinero-tiene-vida-personal-1402713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sergey-brin-fundador-google-4065658.jpg?tf=1200x' alt='Sergey Brin, cofundador de Google: quién es, cuánto dinero tiene y vida personal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-ahorrar-usando-excel-llevar-cuentas-no-pasarte-1116141'>Cómo ahorrar usando Excel para llevar tus cuentas y no pasarte </a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ahorrar-usando-excel-llevar-cuentas-no-pasarte-1116141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/ahorro-2220983.jpg?tf=1200x' alt='Cómo ahorrar usando Excel para llevar tus cuentas y no pasarte ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-identificar-enlaces-sospechosos-chats-antes-hagas-clic-1407822'>WhatsApp te permitirá identificar enlaces sospechosos en los chats antes de que hagas clic</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-identificar-enlaces-sospechosos-chats-antes-hagas-clic-1407822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hombre-enfadado-usar-whatsapp-4243118.jpg?tf=1200x' alt='WhatsApp te permitirá identificar enlaces sospechosos en los chats antes de que hagas clic' />
     </a>
 </div>
 
