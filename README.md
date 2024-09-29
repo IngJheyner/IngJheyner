@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/spotify-cae-durante-horas-ha-pasado-1407869'>Spotify se cae durante horas, ¿qué ha pasado?</a></h4>
+    <a href='https://computerhoy.com/apps/spotify-cae-durante-horas-ha-pasado-1407869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/spotify-cae-durante-horas-ha-pasado-4243180.jpg?tf=1200x' alt='Spotify se cae durante horas, ¿qué ha pasado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/revelan-nuevo-tipo-sextorsion-incluye-fotos-casa-1407864'>Revelan un nuevo tipo de sextorsión que incluye fotos de tu casa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/revelan-nuevo-tipo-sextorsion-incluye-fotos-casa-1407864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/revelan-nuevo-tipo-sextorsion-incluye-foto-casa-4243173.jpg?tf=1200x' alt='Revelan un nuevo tipo de sextorsión que incluye fotos de tu casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/despega-nave-spacex-rescatara-astronautas-perdidos-starliner-1407853'>Despega la nave que rescatará a los astronautas "perdidos": ¿Por qué tardarán cinco meses en volver? </a></h4>
     <a href='https://computerhoy.com/espacio/despega-nave-spacex-rescatara-astronautas-perdidos-starliner-1407853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/despega-nave-traera-vuelta-astronautas-perdidos-tardaran-dos-meses-volver-4243163.jpg?tf=1200x' alt='Despega la nave que rescatará a los astronautas "perdidos": ¿Por qué tardarán cinco meses en volver? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-cuesta-menos-movil-xiaomi-tiene-windows-11-arrasando-amazon-1406648'>Este PC cuesta menos que un móvil Xiaomi y tiene Windows 11: está arrasando en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-cuesta-menos-movil-xiaomi-tiene-windows-11-arrasando-amazon-1406648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hp-compaq-8300-sff-4240965.jpg?tf=1200x' alt='Este PC cuesta menos que un móvil Xiaomi y tiene Windows 11: está arrasando en Amazon' />
     </a>
 </div>
 
