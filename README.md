@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pierden-datos-disco-ssd-queda-energia-durante-mucho-tiempo-1406087'>¿Se pierden los datos de un disco SSD si se queda sin energía durante mucho tiempo?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pierden-datos-disco-ssd-queda-energia-durante-mucho-tiempo-1406087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pierden-datos-disco-ssd-queda-energia-durante-mucho-tiempo-4217761.jpg?tf=1200x' alt='¿Se pierden los datos de un disco SSD si se queda sin energía durante mucho tiempo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-android-auto-hara-facil-nunca-editar-direcciones-casa-trabajo-1407787'>Google Maps en Android Auto hará más fácil que nunca editar las direcciones de casa y el trabajo</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-android-auto-hara-facil-nunca-editar-direcciones-casa-trabajo-1407787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-guardar-donde-he-aparcado-android-auto-tocar-movil-3246104.jpg?tf=1200x' alt='Google Maps en Android Auto hará más fácil que nunca editar las direcciones de casa y el trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/portatil-barato-me-compraria-1-tb-ssd-ryzen-7-apenas-600-euros-1407499'>Este es el portátil barato que me compraría: 1 TB de SSD y Ryzen 7 por apenas 600 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/portatil-barato-me-compraria-1-tb-ssd-ryzen-7-apenas-600-euros-1407499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/alurin-flex-advance-4242565.jpg?tf=1200x' alt='Este es el portátil barato que me compraría: 1 TB de SSD y Ryzen 7 por apenas 600 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-contrasena-olvidada-red-wifi-programas-forma-legal-1407411'>Cómo saber la contraseña olvidada de una red WiFi: sin programas y de forma legal</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-contrasena-olvidada-red-wifi-programas-forma-legal-1407411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-saber-contrasena-olvidada-red-wifi-programas-forma-legal-4242456.jpg?tf=1200x' alt='Cómo saber la contraseña olvidada de una red WiFi: sin programas y de forma legal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ni-photoshop-ni-lightroom-estas-tres-herramientas-hago-mismo-gastar-euro-1406387'>Ni Photoshop ni Lightroom, con estas tres herramientas hago lo mismo sin gastar un euro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ni-photoshop-ni-lightroom-estas-tres-herramientas-hago-mismo-gastar-euro-1406387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ni-photoshop-ni-lightroom-estas-tres-herramientas-hago-mismo-gastar-euro-4238547.jpg?tf=1200x' alt='Ni Photoshop ni Lightroom, con estas tres herramientas hago lo mismo sin gastar un euro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/anos-perfeccionamiento-estos-son-trucos-grupos-whatsapp-no-me-vuelvan-loco-1407117'>Tras años de perfeccionamiento, estos son mis trucos para que los grupos de WhatsApp no me vuelvan loco</a></h4>
-    <a href='https://computerhoy.com/apps/anos-perfeccionamiento-estos-son-trucos-grupos-whatsapp-no-me-vuelvan-loco-1407117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/anos-perfeccionamiento-estos-son-trucos-grupos-whatsapp-no-me-vuelvan-loco-4241920.jpg?tf=1200x' alt='Tras años de perfeccionamiento, estos son mis trucos para que los grupos de WhatsApp no me vuelvan loco' />
     </a>
 </div>
 
