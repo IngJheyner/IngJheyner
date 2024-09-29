@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-barato-me-compraria-1-tb-ssd-ryzen-7-apenas-600-euros-1407499'>Este es el portátil barato que me compraría: 1 TB de SSD y Ryzen 7 por apenas 600 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-barato-me-compraria-1-tb-ssd-ryzen-7-apenas-600-euros-1407499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/alurin-flex-advance-4242565.jpg?tf=1200x' alt='Este es el portátil barato que me compraría: 1 TB de SSD y Ryzen 7 por apenas 600 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/puedes-hacer-te-quedas-datos-digi-tranquilo-tenemos-buenas-noticias-1407113'>¿Qué puedes hacer si te quedas sin datos en DIGI? Tranquilo, tenemos buenas noticias</a></h4>
+    <a href='https://computerhoy.com/redes/puedes-hacer-te-quedas-datos-digi-tranquilo-tenemos-buenas-noticias-1407113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/puedes-hacer-te-quedas-datos-digi-tranquilo-tenemos-buenas-noticias-4241913.jpg?tf=1200x' alt='¿Qué puedes hacer si te quedas sin datos en DIGI? Tranquilo, tenemos buenas noticias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-contrasena-olvidada-red-wifi-programas-forma-legal-1407411'>Cómo saber la contraseña olvidada de una red WiFi: sin programas y de forma legal</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-contrasena-olvidada-red-wifi-programas-forma-legal-1407411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-saber-contrasena-olvidada-red-wifi-programas-forma-legal-4242456.jpg?tf=1200x' alt='Cómo saber la contraseña olvidada de una red WiFi: sin programas y de forma legal' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/anos-perfeccionamiento-estos-son-trucos-grupos-whatsapp-no-me-vuelvan-loco-1407117'>Tras años de perfeccionamiento, estos son mis trucos para que los grupos de WhatsApp no me vuelvan loco</a></h4>
     <a href='https://computerhoy.com/apps/anos-perfeccionamiento-estos-son-trucos-grupos-whatsapp-no-me-vuelvan-loco-1407117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/anos-perfeccionamiento-estos-son-trucos-grupos-whatsapp-no-me-vuelvan-loco-4241920.jpg?tf=1200x' alt='Tras años de perfeccionamiento, estos son mis trucos para que los grupos de WhatsApp no me vuelvan loco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ideologia-oculta-ia-estan-chatbots-como-chatgpt-manipulando-pensamiento-politico-1406289'>La ideología oculta de la IA, ¿están los chatbots como ChatGPT manipulando tu pensamiento político?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ideologia-oculta-ia-estan-chatbots-como-chatgpt-manipulando-pensamiento-politico-1406289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-manipulando-pensamiento-politico-4242498.jpg?tf=1200x' alt='La ideología oculta de la IA, ¿están los chatbots como ChatGPT manipulando tu pensamiento político?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-pantalla-amoled-gps-precio-1322576'>Este smartwatch Xiaomi lo tiene todo para arrasar: Wear OS, pantalla AMOLED y GPS, pero lo mejor es el precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-pantalla-amoled-gps-precio-1322576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-watch-2-pro-3200208.jpg?tf=1200x' alt='Este smartwatch Xiaomi lo tiene todo para arrasar: Wear OS, pantalla AMOLED y GPS, pero lo mejor es el precio' />
     </a>
 </div>
 
