@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/etiqueta-dgt-primeras-ciudades-multar-no-llevarla-bien-visible-1408177'>Etiqueta de la DGT: primeras ciudades en multar por no llevarla bien visible</a></h4>
+    <a href='https://computerhoy.com/motor/etiqueta-dgt-primeras-ciudades-multar-no-llevarla-bien-visible-1408177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/etiqueta-dgt-primeras-ciudades-multar-no-llevarla-bien-visible-4243706.jpg?tf=1200x' alt='Etiqueta de la DGT: primeras ciudades en multar por no llevarla bien visible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/lyngsat-stream-como-ver-gratis-4000-canales-espana-resto-mundo-legal-pagar-nada-1408159'>LyngSat Stream: cómo ver gratis más de 4.000 canales de España y resto del mundo, legal y sin pagar nada</a></h4>
     <a href='https://computerhoy.com/tecnologia/lyngsat-stream-como-ver-gratis-4000-canales-espana-resto-mundo-legal-pagar-nada-1408159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/canales-television-tdt-4243693.jpg?tf=1200x' alt='LyngSat Stream: cómo ver gratis más de 4.000 canales de España y resto del mundo, legal y sin pagar nada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-presenta-camara-ia-red-neuronal-integrada-1408153'>Raspberry Pi presenta una cámara con IA con red neuronal integrada</a></h4>
     <a href='https://computerhoy.com/tecnologia/raspberry-pi-presenta-camara-ia-red-neuronal-integrada-1408153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/raspberry-pi-ai-camera-4243687.jpg?tf=1200x' alt='Raspberry Pi presenta una cámara con IA con red neuronal integrada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/acabar-iptv-futbol-pirata-podria-tener-graves-efectos-secundarios-eso-grave-problema-1408112'>Acabar con las IPTV y el fútbol pirata podría tener graves efectos secundarios, y eso es un grave problema</a></h4>
-    <a href='https://computerhoy.com/internet/acabar-iptv-futbol-pirata-podria-tener-graves-efectos-secundarios-eso-grave-problema-1408112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/acabar-iptv-futbol-pirata-podria-tener-graves-efectos-secundarios-eso-grave-problema-4243676.jpg?tf=1200x' alt='Acabar con las IPTV y el fútbol pirata podría tener graves efectos secundarios, y eso es un grave problema' />
     </a>
 </div>
 
