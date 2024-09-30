@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/me-ha-gustado-iphone-16-pro-sigue-siendo-zoom-5-aumentos-1407443'>Lo que más me ha gustado del iPhone 16 Pro sigue siendo su zoom de 5 aumentos</a></h4>
+    <a href='https://computerhoy.com/apple/me-ha-gustado-iphone-16-pro-sigue-siendo-zoom-5-aumentos-1407443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-iphone-16-pro-4241459.jpg?tf=1200x' alt='Lo que más me ha gustado del iPhone 16 Pro sigue siendo su zoom de 5 aumentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/apple-airpods-4-cancelacion-activa-ruido-1407447'>Tras probar los AirPods 4 con cancelación activa de ruido, me queda claro que Apple ha creado el mejor rival de los AirPods Pro</a></h4>
+    <a href='https://computerhoy.com/analisis/apple-airpods-4-cancelacion-activa-ruido-1407447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/airpods-4-cancelacion-ruido-activa-4242490.jpg?tf=1200x' alt='Tras probar los AirPods 4 con cancelación activa de ruido, me queda claro que Apple ha creado el mejor rival de los AirPods Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/fundas-movil-transparentes-vuelven-amarillas-como-solucionarlo-1112659'>Por qué las fundas de móvil transparentes se vuelven amarillas y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/fundas-movil-transparentes-vuelven-amarillas-como-solucionarlo-1112659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funda-amarillenta-2791611.jpg?tf=1200x' alt='Por qué las fundas de móvil transparentes se vuelven amarillas y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/este-movil-favoritos-seguramente-compra-solo-399-euros-1404505'>Este móvil es de mis favoritos: cuando cambie seguramente lo compre, y por solo 399 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/este-movil-favoritos-seguramente-compra-solo-399-euros-1404505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nothing-phone-2-3256624.jpg?tf=1200x' alt='Este móvil es de mis favoritos: cuando cambie seguramente lo compre, y por solo 399 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/joven-lleva-juicio-madre-tirar-basura-coleccion-mangas-attack-titan-1407874'>Un joven lleva a juicio a su madre por tirar a la basura su colección de mangas de Attack on Titan</a></h4>
     <a href='https://computerhoy.com/life/joven-lleva-juicio-madre-tirar-basura-coleccion-mangas-attack-titan-1407874' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/joven-lleva-juicio-madre-tirar-basura-coleccion-mangas-attack-titan-4243184.jpg?tf=1200x' alt='Un joven lleva a juicio a su madre por tirar a la basura su colección de mangas de Attack on Titan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/spotify-cae-durante-horas-ha-pasado-1407869'>Spotify se cae durante horas, ¿qué ha pasado?</a></h4>
-    <a href='https://computerhoy.com/apps/spotify-cae-durante-horas-ha-pasado-1407869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/spotify-cae-durante-horas-ha-pasado-4243180.jpg?tf=1200x' alt='Spotify se cae durante horas, ¿qué ha pasado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/revelan-nuevo-tipo-sextorsion-incluye-fotos-casa-1407864'>Revelan un nuevo tipo de sextorsión que incluye fotos de tu casa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/revelan-nuevo-tipo-sextorsion-incluye-fotos-casa-1407864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/revelan-nuevo-tipo-sextorsion-incluye-foto-casa-4243173.jpg?tf=1200x' alt='Revelan un nuevo tipo de sextorsión que incluye fotos de tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gadget-xiaomi-casa-util-barato-todo-noche-10-euros-1407542'>Este gadget Xiaomi para tu casa es útil y barato, sobre todo de noche ¡y por 10 euros!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gadget-xiaomi-casa-util-barato-todo-noche-10-euros-1407542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-mi-motion-activated-night-light-2-4242605.jpg?tf=1200x' alt='Este gadget Xiaomi para tu casa es útil y barato, sobre todo de noche ¡y por 10 euros!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fin-rumores-intel-no-va-vender-procesadores-1407858'>Fin de los rumores: Intel no va a vender su división de procesadores a nadie</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fin-rumores-intel-no-va-vender-procesadores-1407858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fin-rumores-intel-no-va-vender-procesadores-nadie-4243166.jpg?tf=1200x' alt='Fin de los rumores: Intel no va a vender su división de procesadores a nadie' />
     </a>
 </div>
 
