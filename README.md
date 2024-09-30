@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/seguro-comprar-hacoo-garantia-envios-como-encontrar-mejores-chollos-1407398'>¿Es seguro comprar en Hacoo? Garantía, envíos y cómo encontrar los mejores chollos</a></h4>
+    <a href='https://computerhoy.com/apps/seguro-comprar-hacoo-garantia-envios-como-encontrar-mejores-chollos-1407398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ventajas-hacoo-4242423.jpg?tf=1200x' alt='¿Es seguro comprar en Hacoo? Garantía, envíos y cómo encontrar los mejores chollos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/epic-games-vuelve-carga-reta-google-samsung-batalla-judicial-1408027'>Epic Games vuelve a la carga y llama a Google y Samsung a una batalla judicial</a></h4>
     <a href='https://computerhoy.com/gaming/epic-games-vuelve-carga-reta-google-samsung-batalla-judicial-1408027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/epic-games-google-samsung-4243464.jpg?tf=1200x' alt='Epic Games vuelve a la carga y llama a Google y Samsung a una batalla judicial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/5-ordenadores-brutales-pccomponentes-ha-rebajado-ofertas-dias-naranjas-1407970'>5 ordenadores brutales que PcComponentes ha rebajado por las ofertas de los Días Naranjas</a></h4>
     <a href='https://computerhoy.com/tecnologia/5-ordenadores-brutales-pccomponentes-ha-rebajado-ofertas-dias-naranjas-1407970' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/pccomponentes-2491077.jpg?tf=1200x' alt='5 ordenadores brutales que PcComponentes ha rebajado por las ofertas de los Días Naranjas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trucos-encontrar-camaras-ocultas-airbnb-experto-seguridad-1407928'>Los trucos para encontrar cámaras ocultas en un Airbnb, según un experto en seguridad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trucos-encontrar-camaras-ocultas-airbnb-experto-seguridad-1407928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/videollamada-espia-3267970.jpg?tf=1200x' alt='Los trucos para encontrar cámaras ocultas en un Airbnb, según un experto en seguridad' />
     </a>
 </div>
 
