@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/son-cuentas-verificadas-gmail-como-funcionan-como-conseguir-1408129'>Qué son las cuentas verificadas de Gmail, cómo funcionan y cómo conseguir una</a></h4>
+    <a href='https://computerhoy.com/google/son-cuentas-verificadas-gmail-como-funcionan-como-conseguir-1408129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/son-cuentas-verificadas-gmail-como-funcionan-como-conseguir-4243721.jpg?tf=1200x' alt='Qué son las cuentas verificadas de Gmail, cómo funcionan y cómo conseguir una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/etiqueta-dgt-primeras-ciudades-multar-no-llevarla-bien-visible-1408177'>Etiqueta de la DGT: primeras ciudades en multar por no llevarla bien visible</a></h4>
     <a href='https://computerhoy.com/motor/etiqueta-dgt-primeras-ciudades-multar-no-llevarla-bien-visible-1408177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/etiqueta-dgt-primeras-ciudades-multar-no-llevarla-bien-visible-4243706.jpg?tf=1200x' alt='Etiqueta de la DGT: primeras ciudades en multar por no llevarla bien visible' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/luis-cryptospain-criptoestafa-recompensa-1408157'>Un millón de euros de recompensa por localizar a Luis de CryptoSpain, acusado de criptoestafa</a></h4>
     <a href='https://computerhoy.com/criptos/luis-cryptospain-criptoestafa-recompensa-1408157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ofrecen-recompensa-1-millon-euros-localizar-luis-crytospain-acusado-criptoestafa-4243680.jpg?tf=1200x' alt='Un millón de euros de recompensa por localizar a Luis de CryptoSpain, acusado de criptoestafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-presenta-camara-ia-red-neuronal-integrada-1408153'>Raspberry Pi presenta una cámara con IA con red neuronal integrada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-presenta-camara-ia-red-neuronal-integrada-1408153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/raspberry-pi-ai-camera-4243687.jpg?tf=1200x' alt='Raspberry Pi presenta una cámara con IA con red neuronal integrada' />
     </a>
 </div>
 
