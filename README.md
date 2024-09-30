@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-supera-amazon-uno-mejores-moviles-2024-oferta-1395158'>AliExpress supera a Amazon: vende uno de los mejores móviles del año a precio récord</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-supera-amazon-uno-mejores-moviles-2024-oferta-1395158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/realme-gt-6t-3548644.jpg?tf=1200x' alt='AliExpress supera a Amazon: vende uno de los mejores móviles del año a precio récord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/me-ha-gustado-iphone-16-pro-sigue-siendo-zoom-5-aumentos-1407443'>Lo que más me ha gustado del iPhone 16 Pro sigue siendo su zoom de 5 aumentos</a></h4>
     <a href='https://computerhoy.com/apple/me-ha-gustado-iphone-16-pro-sigue-siendo-zoom-5-aumentos-1407443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-iphone-16-pro-4241459.jpg?tf=1200x' alt='Lo que más me ha gustado del iPhone 16 Pro sigue siendo su zoom de 5 aumentos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/este-movil-favoritos-seguramente-compra-solo-399-euros-1404505'>Este móvil es de mis favoritos: cuando cambie seguramente lo compre, y por solo 399 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/este-movil-favoritos-seguramente-compra-solo-399-euros-1404505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nothing-phone-2-3256624.jpg?tf=1200x' alt='Este móvil es de mis favoritos: cuando cambie seguramente lo compre, y por solo 399 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/joven-lleva-juicio-madre-tirar-basura-coleccion-mangas-attack-titan-1407874'>Un joven lleva a juicio a su madre por tirar a la basura su colección de mangas de Attack on Titan</a></h4>
-    <a href='https://computerhoy.com/life/joven-lleva-juicio-madre-tirar-basura-coleccion-mangas-attack-titan-1407874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/joven-lleva-juicio-madre-tirar-basura-coleccion-mangas-attack-titan-4243184.jpg?tf=1200x' alt='Un joven lleva a juicio a su madre por tirar a la basura su colección de mangas de Attack on Titan' />
     </a>
 </div>
 
