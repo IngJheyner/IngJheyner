@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-cometio-gran-error-windows-10-cambio-todo-pero-windows-11-repetira-1407922'>Microsoft cometió un gran error con Windows 10 que lo cambió todo, pero, ¿Windows 11 lo repetirá? </a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-cometio-gran-error-windows-10-cambio-todo-pero-windows-11-repetira-1407922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-10-microsoft-4243258.jpg?tf=1200x' alt='Microsoft cometió un gran error con Windows 10 que lo cambió todo, pero, ¿Windows 11 lo repetirá? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/ia-ha-derrotado-captcha-puede-resolver-incluso-rapido-humanos-1407598'>La IA ha derrotado a los captcha: los puede resolver incluso más rápido que los humanos</a></h4>
+    <a href='https://computerhoy.com/internet/ia-ha-derrotado-captcha-puede-resolver-incluso-rapido-humanos-1407598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ia-ha-derrotado-captcha-webs-puede-resolver-incluso-rapido-humanos-4242774.jpg?tf=1200x' alt='La IA ha derrotado a los captcha: los puede resolver incluso más rápido que los humanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/trucazo-esconde-calculadora-iphone-ios-18-1407914'>El trucazo que esconde la calculadora del iPhone en iOS 18</a></h4>
+    <a href='https://computerhoy.com/apple/trucazo-esconde-calculadora-iphone-ios-18-1407914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/calculadora-iphone-4243242.jpg?tf=1200x' alt='El trucazo que esconde la calculadora del iPhone en iOS 18' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta</a></h4>
     <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/garmin-fenix-8-4189550.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/cybertruck-tesla-guerra-rusia-ucrania-pero-hace-alli-1407907'>El Cybertruck de Tesla en la guerra de Rusia y Ucrania, pero, ¿qué hace allí?</a></h4>
     <a href='https://computerhoy.com/motor/cybertruck-tesla-guerra-rusia-ucrania-pero-hace-alli-1407907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tesla-cybertruck-3599679.jpg?tf=1200x' alt='El Cybertruck de Tesla en la guerra de Rusia y Ucrania, pero, ¿qué hace allí?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/obligan-google-desinstale-forma-remota-aplicacion-iptv-moviles-android-1406571'>Obligan a Google que desinstale de forma remota esta aplicación IPTV de los móviles Android</a></h4>
-    <a href='https://computerhoy.com/google/obligan-google-desinstale-forma-remota-aplicacion-iptv-moviles-android-1406571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ordenan-google-desinstale-forma-remota-aplicacion-iptv-moviles-android-4240920.jpg?tf=1200x' alt='Obligan a Google que desinstale de forma remota esta aplicación IPTV de los móviles Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/ubicacion-papelera-whatsapp-borrar-archivos-liberar-espacio-memoria-movil-1405511'>Papelera de WhatsApp: dónde está para borrar archivos y liberar espacio en la memoria del móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/ubicacion-papelera-whatsapp-borrar-archivos-liberar-espacio-memoria-movil-1405511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/papelera-whatsapp-como-localizarla-borrar-archivos-liberar-espacio-memoria-movil-4194728.jpg?tf=1200x' alt='Papelera de WhatsApp: dónde está para borrar archivos y liberar espacio en la memoria del móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejores-canales-telegram-descargar-ebooks-libros-gratis-pdf-legal-1405899'>Estos son los mejores canales de Telegram para descargar libros gratis en PDF de forma legal</a></h4>
-    <a href='https://computerhoy.com/internet/mejores-canales-telegram-descargar-ebooks-libros-gratis-pdf-legal-1405899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mejores-canales-telegram-descargar-legalmente-libros-gratis-pdf-4211036.jpg?tf=1200x' alt='Estos son los mejores canales de Telegram para descargar libros gratis en PDF de forma legal' />
     </a>
 </div>
 
