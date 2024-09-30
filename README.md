@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-va-como-tiro-mi-firestick-regalando-tres-meses-darte-alta-1406597'>Esta VPN va como un tiro en mi Firestick y está regalando tres meses al darte de alta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-va-como-tiro-mi-firestick-regalando-tres-meses-darte-alta-1406597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nordvpn-televisor-4240947.jpg?tf=1200x' alt='Esta VPN va como un tiro en mi Firestick y está regalando tres meses al darte de alta' />
+    <h4><a href='https://computerhoy.com/tecnologia/lyngsat-stream-como-ver-gratis-4000-canales-espana-resto-mundo-legal-pagar-nada-1408159'>LyngSat Stream: cómo ver gratis más de 4.000 canales de España y resto del mundo, legal y sin pagar nada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lyngsat-stream-como-ver-gratis-4000-canales-espana-resto-mundo-legal-pagar-nada-1408159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/canales-television-tdt-4243693.jpg?tf=1200x' alt='LyngSat Stream: cómo ver gratis más de 4.000 canales de España y resto del mundo, legal y sin pagar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alternativas-gratis-photoshop-lightroom-1406387'>Ni Photoshop ni Lightroom, estas tres herramientas hacen lo mismo sin gastar un euro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alternativas-gratis-photoshop-lightroom-1406387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/photoshop-4243622.jpg?tf=1200x' alt='Ni Photoshop ni Lightroom, estas tres herramientas hacen lo mismo sin gastar un euro' />
+    <h4><a href='https://computerhoy.com/tecnologia/cientifico-afirma-somos-simplemente-personajes-ia-avanzada-prueba-oculta-biblia-1408158'>Científico afirma que somos simplemente personajes de un IA avanzada y que la prueba está oculta en la Biblia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cientifico-afirma-somos-simplemente-personajes-ia-avanzada-prueba-oculta-biblia-1408158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/inteligencia-artificial-4243692.jpg?tf=1200x' alt='Científico afirma que somos simplemente personajes de un IA avanzada y que la prueba está oculta en la Biblia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/descargar-gratis-version-final-windows-11-24h2-espanol-1408138'>Ya puedes probar gratis la versión final de Windows 11 24H2 en español</a></h4>
-    <a href='https://computerhoy.com/windows/descargar-gratis-version-final-windows-11-24h2-espanol-1408138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-puedes-descargar-probar-gratis-windows-11-24h2-espanol-4243651.jpg?tf=1200x' alt='Ya puedes probar gratis la versión final de Windows 11 24H2 en español' />
+    <h4><a href='https://computerhoy.com/criptos/luis-cryptospain-criptoestafa-recompensa-1408157'>Un millón de euros de recompensa por localizar a Luis de CryptoSpain, acusado de criptoestafa</a></h4>
+    <a href='https://computerhoy.com/criptos/luis-cryptospain-criptoestafa-recompensa-1408157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ofrecen-recompensa-1-millon-euros-localizar-luis-crytospain-acusado-criptoestafa-4243680.jpg?tf=1200x' alt='Un millón de euros de recompensa por localizar a Luis de CryptoSpain, acusado de criptoestafa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/portatil-barato-ligero-lidl-radiador-aceite-37-euros-1407314'>Portátil, ligero y muy barato: Lidl tiene la solución al frío de otoño, y solo cuesta 37 euros</a></h4>
-    <a href='https://computerhoy.com/hogar/portatil-barato-ligero-lidl-radiador-aceite-37-euros-1407314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/centro-comercial-lidl-2831649.jpg?tf=1200x' alt='Portátil, ligero y muy barato: Lidl tiene la solución al frío de otoño, y solo cuesta 37 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-presenta-camara-ia-red-neuronal-integrada-1408153'>Raspberry Pi presenta una cámara con IA con red neuronal integrada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-presenta-camara-ia-red-neuronal-integrada-1408153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/raspberry-pi-ai-camera-4243687.jpg?tf=1200x' alt='Raspberry Pi presenta una cámara con IA con red neuronal integrada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-dice-adios-contrasenas-tienes-hacer-entrar-cuentas-1407935'>Google dice adiós a las contraseñas: esto es lo que tienes que hacer para entrar en tus cuentas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-dice-adios-contrasenas-tienes-hacer-entrar-cuentas-1407935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/passkeys-ya-disponibles-chrome-fin-contrasenas-aqui-2898332.jpg?tf=1200x' alt='Google dice adiós a las contraseñas: esto es lo que tienes que hacer para entrar en tus cuentas' />
+    <h4><a href='https://computerhoy.com/internet/acabar-iptv-futbol-pirata-podria-tener-graves-efectos-secundarios-eso-grave-problema-1408112'>Acabar con las IPTV y el fútbol pirata podría tener graves efectos secundarios, y eso es un grave problema</a></h4>
+    <a href='https://computerhoy.com/internet/acabar-iptv-futbol-pirata-podria-tener-graves-efectos-secundarios-eso-grave-problema-1408112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/acabar-iptv-futbol-pirata-podria-tener-graves-efectos-secundarios-eso-grave-problema-4243676.jpg?tf=1200x' alt='Acabar con las IPTV y el fútbol pirata podría tener graves efectos secundarios, y eso es un grave problema' />
     </a>
 </div>
 
