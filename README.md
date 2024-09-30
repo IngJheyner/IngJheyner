@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/portatil-barato-ligero-lidl-radiador-aceite-37-euros-1407314'>Portátil, ligero y muy barato: Lidl tiene la solución al frío de otoño, y solo cuesta 37 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/portatil-barato-ligero-lidl-radiador-aceite-37-euros-1407314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/centro-comercial-lidl-2831649.jpg?tf=1200x' alt='Portátil, ligero y muy barato: Lidl tiene la solución al frío de otoño, y solo cuesta 37 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-dice-adios-contrasenas-tienes-hacer-entrar-cuentas-1407935'>Google dice adiós a las contraseñas: esto es lo que tienes que hacer para entrar en tus cuentas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-dice-adios-contrasenas-tienes-hacer-entrar-cuentas-1407935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/passkeys-ya-disponibles-chrome-fin-contrasenas-aqui-2898332.jpg?tf=1200x' alt='Google dice adiós a las contraseñas: esto es lo que tienes que hacer para entrar en tus cuentas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-watch-muchas-pruebas-he-descubierto-combinacion-definitiva-bateria-sea-infinita-1408086'>Apple Watch: tras muchas pruebas he descubierto la combinación definitiva para que la batería sea infinita</a></h4>
     <a href='https://computerhoy.com/apple/apple-watch-muchas-pruebas-he-descubierto-combinacion-definitiva-bateria-sea-infinita-1408086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-watch-muchas-pruebas-he-descubierto-combinacion-definitiva-bateria-sea-infinita-4243628.jpg?tf=1200x' alt='Apple Watch: tras muchas pruebas he descubierto la combinación definitiva para que la batería sea infinita' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/thermomix-aldi-llega-tiendas-menos-280-euros-1407986'>La Thermomix Aldi llega a las tiendas por menos de 280 euros</a></h4>
     <a href='https://computerhoy.com/alimentacion/thermomix-aldi-llega-tiendas-menos-280-euros-1407986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/alternativa-aldi-thermomix-llega-menos-280-euros-4243359.jpg?tf=1200x' alt='La Thermomix Aldi llega a las tiendas por menos de 280 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/windows-10-actualizar-quitar-importante-funcion-1408024'>Nueva línea roja si utilizas Windows 10: actualiza ahora o perderás esta importante función</a></h4>
-    <a href='https://computerhoy.com/apps/windows-10-actualizar-quitar-importante-funcion-1408024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nueva-linea-roja-utilizas-windows-10-actualiza-ahora-perderas-importante-funcion-4243457.jpg?tf=1200x' alt='Nueva línea roja si utilizas Windows 10: actualiza ahora o perderás esta importante función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/seguro-comprar-hacoo-garantia-envios-como-encontrar-mejores-chollos-1407398'>¿Es seguro comprar en Hacoo? Garantía, envíos y cómo encontrar los mejores chollos</a></h4>
-    <a href='https://computerhoy.com/apps/seguro-comprar-hacoo-garantia-envios-como-encontrar-mejores-chollos-1407398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ventajas-hacoo-4242423.jpg?tf=1200x' alt='¿Es seguro comprar en Hacoo? Garantía, envíos y cómo encontrar los mejores chollos' />
     </a>
 </div>
 
