@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/epic-games-vuelve-carga-reta-google-samsung-batalla-judicial-1408027'>Epic Games vuelve a la carga y llama a Google y Samsung a una batalla judicial</a></h4>
+    <a href='https://computerhoy.com/gaming/epic-games-vuelve-carga-reta-google-samsung-batalla-judicial-1408027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/epic-games-google-samsung-4243464.jpg?tf=1200x' alt='Epic Games vuelve a la carga y llama a Google y Samsung a una batalla judicial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-senal-wifi-aumentar-cobertura-casa-sin-problemas-1126783'>Como mejorar la cobertura de tu WiFi en casa y navegar sin problemas</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-senal-wifi-aumentar-cobertura-casa-sin-problemas-1126783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/red-wifi-2594201.jpg?tf=1200x' alt='Como mejorar la cobertura de tu WiFi en casa y navegar sin problemas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/trucos-encontrar-camaras-ocultas-airbnb-experto-seguridad-1407928'>Los trucos para encontrar cámaras ocultas en un Airbnb, según un experto en seguridad</a></h4>
     <a href='https://computerhoy.com/tecnologia/trucos-encontrar-camaras-ocultas-airbnb-experto-seguridad-1407928' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/videollamada-espia-3267970.jpg?tf=1200x' alt='Los trucos para encontrar cámaras ocultas en un Airbnb, según un experto en seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-permitira-grabar-objetos-realizar-preguntas-gracias-ia-google-lens-1407912'>Google permitirá grabar objetos y realizar preguntas gracias a la IA de Google Lens</a></h4>
-    <a href='https://computerhoy.com/google/google-permitira-grabar-objetos-realizar-preguntas-gracias-ia-google-lens-1407912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-permitira-grabar-objetos-realizar-preguntas-gracias-ia-google-lens-4243236.jpg?tf=1200x' alt='Google permitirá grabar objetos y realizar preguntas gracias a la IA de Google Lens' />
     </a>
 </div>
 
