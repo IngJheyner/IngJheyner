@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aunque-pueda-parecer-insignificante-cambio-google-maps-android-auto-mi-oro-puro-1407522'>Aunque pueda parecer insignificante, este cambio en Google Maps para Android Auto para mí es oro puro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aunque-pueda-parecer-insignificante-cambio-google-maps-android-auto-mi-oro-puro-1407522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-auto-4243580.jpg?tf=1200x' alt='Aunque pueda parecer insignificante, este cambio en Google Maps para Android Auto para mí es oro puro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/thermomix-aldi-llega-tiendas-menos-280-euros-1407986'>La Thermomix Aldi llega a las tiendas por menos de 280 euros</a></h4>
+    <a href='https://computerhoy.com/alimentacion/thermomix-aldi-llega-tiendas-menos-280-euros-1407986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/alternativa-aldi-thermomix-llega-menos-280-euros-4243359.jpg?tf=1200x' alt='La Thermomix Aldi llega a las tiendas por menos de 280 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/windows-10-actualizar-quitar-importante-funcion-1408024'>Nueva línea roja si utilizas Windows 10: actualiza ahora o perderás esta importante función</a></h4>
     <a href='https://computerhoy.com/apps/windows-10-actualizar-quitar-importante-funcion-1408024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nueva-linea-roja-utilizas-windows-10-actualiza-ahora-perderas-importante-funcion-4243457.jpg?tf=1200x' alt='Nueva línea roja si utilizas Windows 10: actualiza ahora o perderás esta importante función' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/epic-games-vuelve-carga-reta-google-samsung-batalla-judicial-1408027'>Epic Games vuelve a la carga y llama a Google y Samsung a una batalla judicial</a></h4>
     <a href='https://computerhoy.com/gaming/epic-games-vuelve-carga-reta-google-samsung-batalla-judicial-1408027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/epic-games-google-samsung-4243464.jpg?tf=1200x' alt='Epic Games vuelve a la carga y llama a Google y Samsung a una batalla judicial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-senal-wifi-aumentar-cobertura-casa-sin-problemas-1126783'>Como mejorar la cobertura de tu WiFi en casa y navegar sin problemas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-senal-wifi-aumentar-cobertura-casa-sin-problemas-1126783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/red-wifi-2594201.jpg?tf=1200x' alt='Como mejorar la cobertura de tu WiFi en casa y navegar sin problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/dura-amenaza-usuarios-iptv-pirata-llegan-multas-automaticas-5000-euros-1407940'>Dura amenaza para los usuarios de IPTV pirata: llegan las multas automáticas de hasta 5.000 euros</a></h4>
-    <a href='https://computerhoy.com/tv/dura-amenaza-usuarios-iptv-pirata-llegan-multas-automaticas-5000-euros-1407940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cae-importante-red-servicios-iptv-pirata-lanzan-dura-amenaza-usuarios-3707754.jpg?tf=1200x' alt='Dura amenaza para los usuarios de IPTV pirata: llegan las multas automáticas de hasta 5.000 euros' />
     </a>
 </div>
 
