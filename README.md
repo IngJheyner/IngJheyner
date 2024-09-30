@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-va-como-tiro-mi-firestick-regalando-tres-meses-darte-alta-1406597'>Esta VPN va como un tiro en mi Firestick y está regalando tres meses al darte de alta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-va-como-tiro-mi-firestick-regalando-tres-meses-darte-alta-1406597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nordvpn-televisor-4240947.jpg?tf=1200x' alt='Esta VPN va como un tiro en mi Firestick y está regalando tres meses al darte de alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alternativas-gratis-photoshop-lightroom-1406387'>Ni Photoshop ni Lightroom, estas tres herramientas hacen lo mismo sin gastar un euro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alternativas-gratis-photoshop-lightroom-1406387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/photoshop-4243622.jpg?tf=1200x' alt='Ni Photoshop ni Lightroom, estas tres herramientas hacen lo mismo sin gastar un euro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/descargar-gratis-version-final-windows-11-24h2-espanol-1408138'>Ya puedes probar gratis la versión final de Windows 11 24H2 en español</a></h4>
+    <a href='https://computerhoy.com/windows/descargar-gratis-version-final-windows-11-24h2-espanol-1408138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-puedes-descargar-probar-gratis-windows-11-24h2-espanol-4243651.jpg?tf=1200x' alt='Ya puedes probar gratis la versión final de Windows 11 24H2 en español' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/portatil-barato-ligero-lidl-radiador-aceite-37-euros-1407314'>Portátil, ligero y muy barato: Lidl tiene la solución al frío de otoño, y solo cuesta 37 euros</a></h4>
     <a href='https://computerhoy.com/hogar/portatil-barato-ligero-lidl-radiador-aceite-37-euros-1407314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/centro-comercial-lidl-2831649.jpg?tf=1200x' alt='Portátil, ligero y muy barato: Lidl tiene la solución al frío de otoño, y solo cuesta 37 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-dice-adios-contrasenas-tienes-hacer-entrar-cuentas-1407935'>Google dice adiós a las contraseñas: esto es lo que tienes que hacer para entrar en tus cuentas</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-dice-adios-contrasenas-tienes-hacer-entrar-cuentas-1407935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/passkeys-ya-disponibles-chrome-fin-contrasenas-aqui-2898332.jpg?tf=1200x' alt='Google dice adiós a las contraseñas: esto es lo que tienes que hacer para entrar en tus cuentas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-muchas-pruebas-he-descubierto-combinacion-definitiva-bateria-sea-infinita-1408086'>Apple Watch: tras muchas pruebas he descubierto la combinación definitiva para que la batería sea infinita</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-muchas-pruebas-he-descubierto-combinacion-definitiva-bateria-sea-infinita-1408086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-watch-muchas-pruebas-he-descubierto-combinacion-definitiva-bateria-sea-infinita-4243628.jpg?tf=1200x' alt='Apple Watch: tras muchas pruebas he descubierto la combinación definitiva para que la batería sea infinita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aunque-pueda-parecer-insignificante-cambio-google-maps-android-auto-mi-oro-puro-1407522'>Aunque pueda parecer insignificante, este cambio en Google Maps para Android Auto para mí es oro puro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aunque-pueda-parecer-insignificante-cambio-google-maps-android-auto-mi-oro-puro-1407522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-auto-4243580.jpg?tf=1200x' alt='Aunque pueda parecer insignificante, este cambio en Google Maps para Android Auto para mí es oro puro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/thermomix-aldi-llega-tiendas-menos-280-euros-1407986'>La Thermomix Aldi llega a las tiendas por menos de 280 euros</a></h4>
-    <a href='https://computerhoy.com/alimentacion/thermomix-aldi-llega-tiendas-menos-280-euros-1407986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/alternativa-aldi-thermomix-llega-menos-280-euros-4243359.jpg?tf=1200x' alt='La Thermomix Aldi llega a las tiendas por menos de 280 euros' />
     </a>
 </div>
 
