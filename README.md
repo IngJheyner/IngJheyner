@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-supera-amazon-uno-mejores-moviles-2024-oferta-1395158'>AliExpress supera a Amazon: vende uno de los mejores móviles del año a precio récord</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-supera-amazon-uno-mejores-moviles-2024-oferta-1395158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/realme-gt-6t-3548644.jpg?tf=1200x' alt='AliExpress supera a Amazon: vende uno de los mejores móviles del año a precio récord' />
+    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta</a></h4>
+    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/garmin-fenix-8-4189550.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/me-ha-gustado-iphone-16-pro-sigue-siendo-zoom-5-aumentos-1407443'>Lo que más me ha gustado del iPhone 16 Pro sigue siendo su zoom de 5 aumentos</a></h4>
-    <a href='https://computerhoy.com/apple/me-ha-gustado-iphone-16-pro-sigue-siendo-zoom-5-aumentos-1407443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-iphone-16-pro-4241459.jpg?tf=1200x' alt='Lo que más me ha gustado del iPhone 16 Pro sigue siendo su zoom de 5 aumentos' />
+    <h4><a href='https://computerhoy.com/motor/cybertruck-tesla-guerra-rusia-ucrania-pero-hace-alli-1407907'>El Cybertruck de Tesla en la guerra de Rusia y Ucrania, pero, ¿qué hace allí?</a></h4>
+    <a href='https://computerhoy.com/motor/cybertruck-tesla-guerra-rusia-ucrania-pero-hace-alli-1407907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tesla-cybertruck-3599679.jpg?tf=1200x' alt='El Cybertruck de Tesla en la guerra de Rusia y Ucrania, pero, ¿qué hace allí?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/apple-airpods-4-cancelacion-activa-ruido-1407447'>Tras probar los AirPods 4 con cancelación activa de ruido, me queda claro que Apple ha creado el mejor rival de los AirPods Pro</a></h4>
-    <a href='https://computerhoy.com/analisis/apple-airpods-4-cancelacion-activa-ruido-1407447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/airpods-4-cancelacion-ruido-activa-4242490.jpg?tf=1200x' alt='Tras probar los AirPods 4 con cancelación activa de ruido, me queda claro que Apple ha creado el mejor rival de los AirPods Pro' />
+    <h4><a href='https://computerhoy.com/google/obligan-google-desinstale-forma-remota-aplicacion-iptv-moviles-android-1406571'>Obligan a Google que desinstale de forma remota esta aplicación IPTV de los móviles Android</a></h4>
+    <a href='https://computerhoy.com/google/obligan-google-desinstale-forma-remota-aplicacion-iptv-moviles-android-1406571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ordenan-google-desinstale-forma-remota-aplicacion-iptv-moviles-android-4240920.jpg?tf=1200x' alt='Obligan a Google que desinstale de forma remota esta aplicación IPTV de los móviles Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/fundas-movil-transparentes-vuelven-amarillas-como-solucionarlo-1112659'>Por qué las fundas de móvil transparentes se vuelven amarillas y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/fundas-movil-transparentes-vuelven-amarillas-como-solucionarlo-1112659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/funda-amarillenta-2791611.jpg?tf=1200x' alt='Por qué las fundas de móvil transparentes se vuelven amarillas y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/tutoriales/ubicacion-papelera-whatsapp-borrar-archivos-liberar-espacio-memoria-movil-1405511'>Papelera de WhatsApp: dónde está para borrar archivos y liberar espacio en la memoria del móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/ubicacion-papelera-whatsapp-borrar-archivos-liberar-espacio-memoria-movil-1405511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/papelera-whatsapp-como-localizarla-borrar-archivos-liberar-espacio-memoria-movil-4194728.jpg?tf=1200x' alt='Papelera de WhatsApp: dónde está para borrar archivos y liberar espacio en la memoria del móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/este-movil-favoritos-seguramente-compra-solo-399-euros-1404505'>Este móvil es de mis favoritos: cuando cambie seguramente lo compre, y por solo 399 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/este-movil-favoritos-seguramente-compra-solo-399-euros-1404505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nothing-phone-2-3256624.jpg?tf=1200x' alt='Este móvil es de mis favoritos: cuando cambie seguramente lo compre, y por solo 399 euros' />
+    <h4><a href='https://computerhoy.com/internet/mejores-canales-telegram-descargar-ebooks-libros-gratis-pdf-legal-1405899'>Estos son los mejores canales de Telegram para descargar libros gratis en PDF de forma legal</a></h4>
+    <a href='https://computerhoy.com/internet/mejores-canales-telegram-descargar-ebooks-libros-gratis-pdf-legal-1405899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mejores-canales-telegram-descargar-legalmente-libros-gratis-pdf-4211036.jpg?tf=1200x' alt='Estos son los mejores canales de Telegram para descargar libros gratis en PDF de forma legal' />
     </a>
 </div>
 
