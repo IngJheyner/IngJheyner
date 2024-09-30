@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-senal-wifi-aumentar-cobertura-casa-sin-problemas-1126783'>Como mejorar la cobertura de tu WiFi en casa y navegar sin problemas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-senal-wifi-aumentar-cobertura-casa-sin-problemas-1126783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/red-wifi-2594201.jpg?tf=1200x' alt='Como mejorar la cobertura de tu WiFi en casa y navegar sin problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/dura-amenaza-usuarios-iptv-pirata-llegan-multas-automaticas-5000-euros-1407940'>Dura amenaza para los usuarios de IPTV pirata: llegan las multas automáticas de hasta 5.000 euros</a></h4>
+    <a href='https://computerhoy.com/tv/dura-amenaza-usuarios-iptv-pirata-llegan-multas-automaticas-5000-euros-1407940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cae-importante-red-servicios-iptv-pirata-lanzan-dura-amenaza-usuarios-3707754.jpg?tf=1200x' alt='Dura amenaza para los usuarios de IPTV pirata: llegan las multas automáticas de hasta 5.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-ordenadores-brutales-pccomponentes-ha-rebajado-ofertas-dias-naranjas-1407970'>5 ordenadores brutales que PcComponentes ha rebajado por las ofertas de los Días Naranjas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-ordenadores-brutales-pccomponentes-ha-rebajado-ofertas-dias-naranjas-1407970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/pccomponentes-2491077.jpg?tf=1200x' alt='5 ordenadores brutales que PcComponentes ha rebajado por las ofertas de los Días Naranjas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/trucos-encontrar-camaras-ocultas-airbnb-experto-seguridad-1407928'>Los trucos para encontrar cámaras ocultas en un Airbnb, según un experto en seguridad</a></h4>
     <a href='https://computerhoy.com/tecnologia/trucos-encontrar-camaras-ocultas-airbnb-experto-seguridad-1407928' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/videollamada-espia-3267970.jpg?tf=1200x' alt='Los trucos para encontrar cámaras ocultas en un Airbnb, según un experto en seguridad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-permitira-grabar-objetos-realizar-preguntas-gracias-ia-google-lens-1407912'>Google permitirá grabar objetos y realizar preguntas gracias a la IA de Google Lens</a></h4>
     <a href='https://computerhoy.com/google/google-permitira-grabar-objetos-realizar-preguntas-gracias-ia-google-lens-1407912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-permitira-grabar-objetos-realizar-preguntas-gracias-ia-google-lens-4243236.jpg?tf=1200x' alt='Google permitirá grabar objetos y realizar preguntas gracias a la IA de Google Lens' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-cometio-gran-error-windows-10-cambio-todo-pero-windows-11-repetira-1407922'>Microsoft cometió un gran error con Windows 10 que lo cambió todo, pero, ¿Windows 11 lo repetirá? </a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-cometio-gran-error-windows-10-cambio-todo-pero-windows-11-repetira-1407922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-10-microsoft-4243258.jpg?tf=1200x' alt='Microsoft cometió un gran error con Windows 10 que lo cambió todo, pero, ¿Windows 11 lo repetirá? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/ia-ha-derrotado-captcha-puede-resolver-incluso-rapido-humanos-1407598'>La IA ha derrotado a los captcha: los puede resolver incluso más rápido que los humanos</a></h4>
-    <a href='https://computerhoy.com/internet/ia-ha-derrotado-captcha-puede-resolver-incluso-rapido-humanos-1407598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ia-ha-derrotado-captcha-webs-puede-resolver-incluso-rapido-humanos-4242774.jpg?tf=1200x' alt='La IA ha derrotado a los captcha: los puede resolver incluso más rápido que los humanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/trucazo-esconde-calculadora-iphone-ios-18-1407914'>El trucazo que esconde la calculadora del iPhone en iOS 18</a></h4>
-    <a href='https://computerhoy.com/apple/trucazo-esconde-calculadora-iphone-ios-18-1407914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/calculadora-iphone-4243242.jpg?tf=1200x' alt='El trucazo que esconde la calculadora del iPhone en iOS 18' />
     </a>
 </div>
 
