@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/trucos-encontrar-camaras-ocultas-airbnb-experto-seguridad-1407928'>Los trucos para encontrar cámaras ocultas en un Airbnb, según un experto en seguridad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trucos-encontrar-camaras-ocultas-airbnb-experto-seguridad-1407928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/videollamada-espia-3267970.jpg?tf=1200x' alt='Los trucos para encontrar cámaras ocultas en un Airbnb, según un experto en seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-permitira-grabar-objetos-realizar-preguntas-gracias-ia-google-lens-1407912'>Google permitirá grabar objetos y realizar preguntas gracias a la IA de Google Lens</a></h4>
+    <a href='https://computerhoy.com/google/google-permitira-grabar-objetos-realizar-preguntas-gracias-ia-google-lens-1407912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-permitira-grabar-objetos-realizar-preguntas-gracias-ia-google-lens-4243236.jpg?tf=1200x' alt='Google permitirá grabar objetos y realizar preguntas gracias a la IA de Google Lens' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-cometio-gran-error-windows-10-cambio-todo-pero-windows-11-repetira-1407922'>Microsoft cometió un gran error con Windows 10 que lo cambió todo, pero, ¿Windows 11 lo repetirá? </a></h4>
     <a href='https://computerhoy.com/windows/microsoft-cometio-gran-error-windows-10-cambio-todo-pero-windows-11-repetira-1407922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-10-microsoft-4243258.jpg?tf=1200x' alt='Microsoft cometió un gran error con Windows 10 que lo cambió todo, pero, ¿Windows 11 lo repetirá? ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/trucazo-esconde-calculadora-iphone-ios-18-1407914'>El trucazo que esconde la calculadora del iPhone en iOS 18</a></h4>
     <a href='https://computerhoy.com/apple/trucazo-esconde-calculadora-iphone-ios-18-1407914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/calculadora-iphone-4243242.jpg?tf=1200x' alt='El trucazo que esconde la calculadora del iPhone en iOS 18' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta</a></h4>
-    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/garmin-fenix-8-4189550.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cybertruck-tesla-guerra-rusia-ucrania-pero-hace-alli-1407907'>El Cybertruck de Tesla en la guerra de Rusia y Ucrania, pero, ¿qué hace allí?</a></h4>
-    <a href='https://computerhoy.com/motor/cybertruck-tesla-guerra-rusia-ucrania-pero-hace-alli-1407907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tesla-cybertruck-3599679.jpg?tf=1200x' alt='El Cybertruck de Tesla en la guerra de Rusia y Ucrania, pero, ¿qué hace allí?' />
     </a>
 </div>
 
