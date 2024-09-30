@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-watch-muchas-pruebas-he-descubierto-combinacion-definitiva-bateria-sea-infinita-1408086'>Apple Watch: tras muchas pruebas he descubierto la combinación definitiva para que la batería sea infinita</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-muchas-pruebas-he-descubierto-combinacion-definitiva-bateria-sea-infinita-1408086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-watch-muchas-pruebas-he-descubierto-combinacion-definitiva-bateria-sea-infinita-4243628.jpg?tf=1200x' alt='Apple Watch: tras muchas pruebas he descubierto la combinación definitiva para que la batería sea infinita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aunque-pueda-parecer-insignificante-cambio-google-maps-android-auto-mi-oro-puro-1407522'>Aunque pueda parecer insignificante, este cambio en Google Maps para Android Auto para mí es oro puro</a></h4>
     <a href='https://computerhoy.com/tecnologia/aunque-pueda-parecer-insignificante-cambio-google-maps-android-auto-mi-oro-puro-1407522' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-auto-4243580.jpg?tf=1200x' alt='Aunque pueda parecer insignificante, este cambio en Google Maps para Android Auto para mí es oro puro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/seguro-comprar-hacoo-garantia-envios-como-encontrar-mejores-chollos-1407398'>¿Es seguro comprar en Hacoo? Garantía, envíos y cómo encontrar los mejores chollos</a></h4>
     <a href='https://computerhoy.com/apps/seguro-comprar-hacoo-garantia-envios-como-encontrar-mejores-chollos-1407398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ventajas-hacoo-4242423.jpg?tf=1200x' alt='¿Es seguro comprar en Hacoo? Garantía, envíos y cómo encontrar los mejores chollos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/epic-games-vuelve-carga-reta-google-samsung-batalla-judicial-1408027'>Epic Games vuelve a la carga y llama a Google y Samsung a una batalla judicial</a></h4>
-    <a href='https://computerhoy.com/gaming/epic-games-vuelve-carga-reta-google-samsung-batalla-judicial-1408027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/epic-games-google-samsung-4243464.jpg?tf=1200x' alt='Epic Games vuelve a la carga y llama a Google y Samsung a una batalla judicial' />
     </a>
 </div>
 
