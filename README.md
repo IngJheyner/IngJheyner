@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-google-habilita-fin-funcion-esperada-usuarios-android-auto-1408339'>Google Maps: Google habilita al fin la función más esperada para más usuarios de Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-google-habilita-fin-funcion-esperada-usuarios-android-auto-1408339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-google-habilita-fin-funcion-esperada-usuarios-android-auto-4243946.jpg?tf=1200x' alt='Google Maps: Google habilita al fin la función más esperada para más usuarios de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/sony-vuelve-apostar-auriculares-abiertos-linkbuds-open-ademas-linkbuds-fit-deportistas-altavoz-1408081'>Sony vuelve a apostar por auriculares abiertos con LinkBuds Open, además de LinkBuds Fit para deportistas y un altavoz</a></h4>
+    <a href='https://computerhoy.com/audio/sony-vuelve-apostar-auriculares-abiertos-linkbuds-open-ademas-linkbuds-fit-deportistas-altavoz-1408081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sony-linkbuds-open-4243934.jpg?tf=1200x' alt='Sony vuelve a apostar por auriculares abiertos con LinkBuds Open, además de LinkBuds Fit para deportistas y un altavoz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/increible-respuesta-hacker-estafa-yo-soy-tonto-me-gusta-jugarmela-1408402'>La increíble respuesta de un hacker a una estafa: "yo es que soy tonto y me gusta jugármela"</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/increible-respuesta-hacker-estafa-yo-soy-tonto-me-gusta-jugarmela-1408402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/increible-respuesta-hacker-estafa-yo-soy-tonto-me-gusta-jugarmela-4244096.jpg?tf=1200x' alt='La increíble respuesta de un hacker a una estafa: "yo es que soy tonto y me gusta jugármela"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejor-miniserie-historica-reciente-roma-mejor-gladiator-hbo-max-1405897'>Posiblemente, la mejor miniserie histórica reciente: mejor que Gladiator y puedes verla en MAX</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejor-miniserie-historica-reciente-roma-mejor-gladiator-hbo-max-1405897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/roma-mejor-serie-gladiator-4244080.jpg?tf=1200x' alt='Posiblemente, la mejor miniserie histórica reciente: mejor que Gladiator y puedes verla en MAX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/lidl-vale-menos-12-euros-adios-problemas-wifi-invento-conectar-movil-internet-cable-1408290'>Es de Lidl y vale menos de 12 euros: adiós a los problemas con el WiFi con este invento para conectar el móvil a internet por cable</a></h4>
     <a href='https://computerhoy.com/internet/lidl-vale-menos-12-euros-adios-problemas-wifi-invento-conectar-movil-internet-cable-1408290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lidl-4243931.jpg?tf=1200x' alt='Es de Lidl y vale menos de 12 euros: adiós a los problemas con el WiFi con este invento para conectar el móvil a internet por cable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-inicia-nueva-fase-copilot-cambia-siempre-busqueda-archivos-windows-1408037'>Microsoft inicia la nueva fase de Copilot y cambia para siempre la búsqueda de archivos en Windows</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-inicia-nueva-fase-copilot-cambia-siempre-busqueda-archivos-windows-1408037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/copilot-microsoft-windows-busqueda-semantica-4243483.jpg?tf=1200x' alt='Microsoft inicia la nueva fase de Copilot y cambia para siempre la búsqueda de archivos en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/dinero-ahorro-apagar-router-wifi-todas-noches-1406816'>Este es el dinero que te ahorras por apagar el router WiFi todas las noches (ojo, es más de lo que imaginas)</a></h4>
-    <a href='https://computerhoy.com/redes/dinero-ahorro-apagar-router-wifi-todas-noches-1406816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dinero-te-ahorras-apagar-router-wifi-todas-noches-ojo-imaginas-4241362.jpg?tf=1200x' alt='Este es el dinero que te ahorras por apagar el router WiFi todas las noches (ojo, es más de lo que imaginas)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-emite-nueva-advertencia-peligros-bluesnarfing-bastan-10-15-metros-1408253'>Policía Nacional emite una nueva advertencia sobre los peligros del bluesnarfing: “Bastan 10 o 15 metros”</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-emite-nueva-advertencia-peligros-bluesnarfing-bastan-10-15-metros-1408253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/policia-nacional-bluesnarfing-4243924.jpg?tf=1200x' alt='Policía Nacional emite una nueva advertencia sobre los peligros del bluesnarfing: “Bastan 10 o 15 metros”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/iptv-hora-clientes-listas-pirata-paguen-1408254'>IPTV: "Es hora de que los clientes de las listas pirata paguen"</a></h4>
-    <a href='https://computerhoy.com/tv/iptv-hora-clientes-listas-pirata-paguen-1408254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/golpe-mortal-iptv-dazn-gana-sentencia-historica-puede-cambiarlo-todo-3437670.jpg?tf=1200x' alt='IPTV: "Es hora de que los clientes de las listas pirata paguen"' />
     </a>
 </div>
 
