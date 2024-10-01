@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bateria-reloj-precio-locos-pulsera-huawei-pone-aprietos-xiaomi-band-1407474'>Más batería que un reloj y precio de locos: esta pulsera Huawei pone en aprietos a las Xiaomi Band</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bateria-reloj-precio-locos-pulsera-huawei-pone-aprietos-xiaomi-band-1407474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-band-9-3320666.jpg?tf=1200x' alt='Más batería que un reloj y precio de locos: esta pulsera Huawei pone en aprietos a las Xiaomi Band' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/peligro-colocar-imanes-nevera-1400193'>Científicos demuestran que este tipo de imán es el más perjudicial para tu nevera</a></h4>
+    <a href='https://computerhoy.com/hogar/peligro-colocar-imanes-nevera-1400193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iman-nevera-4243873.jpg?tf=1200x' alt='Científicos demuestran que este tipo de imán es el más perjudicial para tu nevera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/slack-lia-protagoniza-gran-polemica-uso-conversaciones-entrenar-ia-1408235'>Slack la lía y protagoniza una gran polémica por el uso de tus conversaciones para entrenar IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/slack-lia-protagoniza-gran-polemica-uso-conversaciones-entrenar-ia-1408235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/slack-ha-estado-usando-mensajes-privados-usuarios-entrenar-ia-3336051.jpg?tf=1200x' alt='Slack la lía y protagoniza una gran polémica por el uso de tus conversaciones para entrenar IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/china-luna-traje-astronauta-lunar-1408248'>China quiere pisar la Luna antes que Estados Unidos, presenta su traje de astronauta lunar</a></h4>
     <a href='https://computerhoy.com/espacio/china-luna-traje-astronauta-lunar-1408248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/china-quiere-llegar-luna-antes-estados-unidos-presenta-traje-astronauta-4243795.jpg?tf=1200x' alt='China quiere pisar la Luna antes que Estados Unidos, presenta su traje de astronauta lunar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/virus-ha-infectado-11-millones-android-usuarios-acusan-google-play-store-1408093'>Un virus ha infectado 11 millones de Android y los usuarios acusan a Google Play Store</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/virus-ha-infectado-11-millones-android-usuarios-acusan-google-play-store-1408093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/virus-ha-infectado-11-millones-android-usuarios-acusan-google-play-store-4243787.jpg?tf=1200x' alt='Un virus ha infectado 11 millones de Android y los usuarios acusan a Google Play Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ratones-ergonomicos-son-exito-tambien-hay-teclados-reducen-dolor-logitech-conocido-1407859'>Los ratones ergonómicos son un éxito, y también hay teclados que reducen el dolor: este de Logitech es el más conocido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ratones-ergonomicos-son-exito-tambien-hay-teclados-reducen-dolor-logitech-conocido-1407859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/logitech-ergo-k860-4243168.jpg?tf=1200x' alt='Los ratones ergonómicos son un éxito, y también hay teclados que reducen el dolor: este de Logitech es el más conocido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/senales-inequivocas-debes-reinstalar-windows-inmediato-1407711'>Señales inequívocas de que debes reinstalar Windows de inmediato</a></h4>
-    <a href='https://computerhoy.com/windows/senales-inequivocas-debes-reinstalar-windows-inmediato-1407711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/senales-inequivocas-debes-reinstalar-windows-inmediato-4242958.jpg?tf=1200x' alt='Señales inequívocas de que debes reinstalar Windows de inmediato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/android-16-esperar-proxima-gran-actualizacion-google-1408225'>Android 16, qué esperar de la próxima gran actualización de Google </a></h4>
-    <a href='https://computerhoy.com/google/android-16-esperar-proxima-gran-actualizacion-google-1408225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-16-4243806.jpg?tf=1200x' alt='Android 16, qué esperar de la próxima gran actualización de Google ' />
     </a>
 </div>
 
