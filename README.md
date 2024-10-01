@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/google-mejora-portatiles-mano-lenovo-primer-samsung-galaxy-chromebook-plus-tecla-exclusiva-1407334'>Google mejora sus portátiles de la mano de Lenovo y el primer Samsung Galaxy Chromebook Plus, con una tecla exclusiva</a></h4>
-    <a href='https://computerhoy.com/pc/google-mejora-portatiles-mano-lenovo-primer-samsung-galaxy-chromebook-plus-tecla-exclusiva-1407334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-chromeboook-plus-4244052.jpg?tf=1200x' alt='Google mejora sus portátiles de la mano de Lenovo y el primer Samsung Galaxy Chromebook Plus, con una tecla exclusiva' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peores-peliculas-basadas-videojuegos-netflix-1408369'>Es una de las peores películas basadas en videojuegos, pero ya ha superado a Los feos en Netflix como lo más visto</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peores-peliculas-basadas-videojuegos-netflix-1408369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/peores-peliculas-basadas-videojuegos-pero-ya-ha-superado-feos-netflix-como-visto-4243988.jpg?tf=1200x' alt='Es una de las peores películas basadas en videojuegos, pero ya ha superado a Los feos en Netflix como lo más visto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-bloquear-mensajes-contactos-desconocidos-android-1406376'>WhatsApp incorpora una nueva función para bloquear mensajes de spam: así se activa</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-bloquear-mensajes-contactos-desconocidos-android-1406376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-spam-4237155.jpg?tf=1200x' alt='WhatsApp incorpora una nueva función para bloquear mensajes de spam: así se activa' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-estrena-fondos-filtros-videollamadas-1408454'>WhatsApp estrena la novedad más deseada en años para las videollamadas</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-estrena-fondos-filtros-videollamadas-1408454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-estrena-novedad-deseada-anos-videollamadas-4244129.jpg?tf=1200x' alt='WhatsApp estrena la novedad más deseada en años para las videollamadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-google-habilita-fin-funcion-esperada-usuarios-android-auto-1408339'>Google Maps: Google habilita al fin la función más esperada para más usuarios de Android Auto</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-google-habilita-fin-funcion-esperada-usuarios-android-auto-1408339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-google-habilita-fin-funcion-esperada-usuarios-android-auto-4243946.jpg?tf=1200x' alt='Google Maps: Google habilita al fin la función más esperada para más usuarios de Android Auto' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/razon-no-te-deberias-conectar-red-wifi-sitio-publico-expertos-1408341'>Esta es la razón por la que no te deberías conectar a la red WiFi en un sitio público, según los expertos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/razon-no-te-deberias-conectar-red-wifi-sitio-publico-expertos-1408341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/razon-no-deberias-conectar-red-wifi-sitio-publico-expertos-4243954.jpg?tf=1200x' alt='Esta es la razón por la que no te deberías conectar a la red WiFi en un sitio público, según los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/sony-vuelve-apostar-auriculares-abiertos-linkbuds-open-ademas-linkbuds-fit-deportistas-altavoz-1408081'>Sony vuelve a apostar por auriculares abiertos con LinkBuds Open, además de LinkBuds Fit para deportistas y un altavoz</a></h4>
-    <a href='https://computerhoy.com/audio/sony-vuelve-apostar-auriculares-abiertos-linkbuds-open-ademas-linkbuds-fit-deportistas-altavoz-1408081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sony-linkbuds-open-4243934.jpg?tf=1200x' alt='Sony vuelve a apostar por auriculares abiertos con LinkBuds Open, además de LinkBuds Fit para deportistas y un altavoz' />
+    <h4><a href='https://computerhoy.com/entretenimiento/critica-stephen-king-ultima-clasico-terror-1408094'>La crítica no da la razón a Stephen King con la última adaptación de uno de sus clásicos: “¿Dónde está el terror?”</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/critica-stephen-king-ultima-clasico-terror-1408094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/misterio-salems-lot-2024-4157720.jpg?tf=1200x' alt='La crítica no da la razón a Stephen King con la última adaptación de uno de sus clásicos: “¿Dónde está el terror?”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/increible-respuesta-hacker-estafa-yo-soy-tonto-me-gusta-jugarmela-1408402'>La increíble respuesta de un hacker a una estafa: "yo es que soy tonto y me gusta jugármela"</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/increible-respuesta-hacker-estafa-yo-soy-tonto-me-gusta-jugarmela-1408402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/increible-respuesta-hacker-estafa-yo-soy-tonto-me-gusta-jugarmela-4244096.jpg?tf=1200x' alt='La increíble respuesta de un hacker a una estafa: "yo es que soy tonto y me gusta jugármela"' />
+    <h4><a href='https://computerhoy.com/entretenimiento/bitelchus-bitelchus-no-invencible-pelicula-animacion-ha-reemplazado-taquilla-1407931'>Bitelchús Bitelchús no es invencible: esta es la película de animación que la ha reemplazado en la taquilla</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/bitelchus-bitelchus-no-invencible-pelicula-animacion-ha-reemplazado-taquilla-1407931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bitelchus-bitelchus-no-invencible-pelicula-animacion-ha-reemplazado-taquilla-4243281.jpg?tf=1200x' alt='Bitelchús Bitelchús no es invencible: esta es la película de animación que la ha reemplazado en la taquilla' />
     </a>
 </div>
 
