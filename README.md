@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/china-luna-traje-astronauta-lunar-1408248'>China quiere pisar la Luna antes que Estados Unidos, presenta su traje de astronauta lunar</a></h4>
+    <a href='https://computerhoy.com/espacio/china-luna-traje-astronauta-lunar-1408248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/china-quiere-llegar-luna-antes-estados-unidos-presenta-traje-astronauta-4243795.jpg?tf=1200x' alt='China quiere pisar la Luna antes que Estados Unidos, presenta su traje de astronauta lunar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/virus-ha-infectado-11-millones-android-usuarios-acusan-google-play-store-1408093'>Un virus ha infectado 11 millones de Android y los usuarios acusan a Google Play Store</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/virus-ha-infectado-11-millones-android-usuarios-acusan-google-play-store-1408093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/virus-ha-infectado-11-millones-android-usuarios-acusan-google-play-store-4243787.jpg?tf=1200x' alt='Un virus ha infectado 11 millones de Android y los usuarios acusan a Google Play Store' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ratones-ergonomicos-son-exito-tambien-hay-teclados-reducen-dolor-logitech-conocido-1407859'>Los ratones ergonómicos son un éxito, y también hay teclados que reducen el dolor: este de Logitech es el más conocido</a></h4>
     <a href='https://computerhoy.com/tecnologia/ratones-ergonomicos-son-exito-tambien-hay-teclados-reducen-dolor-logitech-conocido-1407859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/logitech-ergo-k860-4243168.jpg?tf=1200x' alt='Los ratones ergonómicos son un éxito, y también hay teclados que reducen el dolor: este de Logitech es el más conocido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/android-16-esperar-proxima-gran-actualizacion-google-1408225'>Android 16, qué esperar de la próxima gran actualización de Google </a></h4>
     <a href='https://computerhoy.com/google/android-16-esperar-proxima-gran-actualizacion-google-1408225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-16-4243806.jpg?tf=1200x' alt='Android 16, qué esperar de la próxima gran actualización de Google ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/moviles-iphone-android-quedan-whatsapp-octubre-2024-1407081'>WhatsApp deja de funcionar en estos móviles a partir de hoy: ¿está el tuyo en la lista? </a></h4>
-    <a href='https://computerhoy.com/apps/moviles-iphone-android-quedan-whatsapp-octubre-2024-1407081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-4243790.jpg?tf=1200x' alt='WhatsApp deja de funcionar en estos móviles a partir de hoy: ¿está el tuyo en la lista? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ps-network-no-funciona-espana-motivos-posible-solucion-1408215'>PS Network no funciona en España: motivos y posible solución</a></h4>
-    <a href='https://computerhoy.com/ps-network-no-funciona-espana-motivos-posible-solucion-1408215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ps-network-ps-portal-4243774.jpg?tf=1200x' alt='PS Network no funciona en España: motivos y posible solución' />
     </a>
 </div>
 
