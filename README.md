@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-podria-haber-desvelado-fecha-lanzamiento-windows-11-24h2-seria-muy-pronto-1408491'>Microsoft podría haber desvelado la fecha de lanzamiento de Windows 11 24H2 y sería muy pronto</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-podria-haber-desvelado-fecha-lanzamiento-windows-11-24h2-seria-muy-pronto-1408491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/novedades-windows-11-4244218.jpg?tf=1200x' alt='Microsoft podría haber desvelado la fecha de lanzamiento de Windows 11 24H2 y sería muy pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cientificos-aseguran-pandemia-covid-tuvo-efectos-incluso-luna-1408490'>Científicos aseguran que la pandemia del COVID tuvo efectos incluso en la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/cientificos-aseguran-pandemia-covid-tuvo-efectos-incluso-luna-1408490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/luna-4244216.jpg?tf=1200x' alt='Científicos aseguran que la pandemia del COVID tuvo efectos incluso en la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-dejando-ko-muchos-pc-piensatelo-dos-veces-1408488'>La última actualización de Windows 11 está dejando KO muchos PC, piénsatelo dos veces</a></h4>
+    <a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-dejando-ko-muchos-pc-piensatelo-dos-veces-1408488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/errores-windows-11-4244215.jpg?tf=1200x' alt='La última actualización de Windows 11 está dejando KO muchos PC, piénsatelo dos veces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/revienta-precio-reloj-samsung-avanzado-galaxy-watch-ultra-tiene-rebaja-pccomponentes-deja-ko-amazon-1408203'>Revienta el precio del reloj Samsung más avanzado: el Galaxy Watch Ultra tiene una rebaja en PcComponentes que deja KO a Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/revienta-precio-reloj-samsung-avanzado-galaxy-watch-ultra-tiene-rebaja-pccomponentes-deja-ko-amazon-1408203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch-ultra-4243776.jpg?tf=1200x' alt='Revienta el precio del reloj Samsung más avanzado: el Galaxy Watch Ultra tiene una rebaja en PcComponentes que deja KO a Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/nueva-vida-joven-22-anos-hackeo-miles-iphone-puso-apple-espada-pared-1408424'>La nueva vida del joven que con 22 años hackeo miles de iPhone y puso a Apple entre la espada y la pared</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/nueva-vida-joven-22-anos-hackeo-miles-iphone-puso-apple-espada-pared-1408424' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nueva-vida-joven-22-anos-hackeo-miles-iphone-puso-apple-espada-pared-4244189.jpg?tf=1200x' alt='La nueva vida del joven que con 22 años hackeo miles de iPhone y puso a Apple entre la espada y la pared' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/fortnite-estrena-limite-tiempo-1408472'>Fortnite estrena la peor pesadilla de los menores de edad</a></h4>
-    <a href='https://computerhoy.com/gaming/fortnite-estrena-limite-tiempo-1408472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fortnite-estrena-mayor-pesadilla-menores-edad-4244177.jpg?tf=1200x' alt='Fortnite estrena la peor pesadilla de los menores de edad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-estrena-fondos-filtros-videollamadas-1408454'>WhatsApp estrena la novedad más deseada en años para las videollamadas</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-estrena-fondos-filtros-videollamadas-1408454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-estrena-novedad-deseada-anos-videollamadas-4244129.jpg?tf=1200x' alt='WhatsApp estrena la novedad más deseada en años para las videollamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peores-peliculas-basadas-videojuegos-netflix-1408369'>Es una de las peores películas basadas en videojuegos, pero ya ha superado a Los feos en Netflix como lo más visto</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peores-peliculas-basadas-videojuegos-netflix-1408369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/peores-peliculas-basadas-videojuegos-pero-ya-ha-superado-feos-netflix-como-visto-4243988.jpg?tf=1200x' alt='Es una de las peores películas basadas en videojuegos, pero ya ha superado a Los feos en Netflix como lo más visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/razon-no-te-deberias-conectar-red-wifi-sitio-publico-expertos-1408341'>Esta es la razón por la que no te deberías conectar a la red WiFi en un sitio público, según los expertos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/razon-no-te-deberias-conectar-red-wifi-sitio-publico-expertos-1408341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/razon-no-deberias-conectar-red-wifi-sitio-publico-expertos-4243954.jpg?tf=1200x' alt='Esta es la razón por la que no te deberías conectar a la red WiFi en un sitio público, según los expertos' />
     </a>
 </div>
 
