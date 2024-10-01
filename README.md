@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-emite-nueva-advertencia-peligros-bluesnarfing-bastan-10-15-metros-1408253'>Policía Nacional emite una nueva advertencia sobre los peligros del bluesnarfing: “Bastan 10 o 15 metros”</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-emite-nueva-advertencia-peligros-bluesnarfing-bastan-10-15-metros-1408253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/policia-nacional-bluesnarfing-4243924.jpg?tf=1200x' alt='Policía Nacional emite una nueva advertencia sobre los peligros del bluesnarfing: “Bastan 10 o 15 metros”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/iptv-hora-clientes-listas-pirata-paguen-1408254'>IPTV: "Es hora de que los clientes de las listas pirata paguen"</a></h4>
+    <a href='https://computerhoy.com/tv/iptv-hora-clientes-listas-pirata-paguen-1408254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/golpe-mortal-iptv-dazn-gana-sentencia-historica-puede-cambiarlo-todo-3437670.jpg?tf=1200x' alt='IPTV: "Es hora de que los clientes de las listas pirata paguen"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/generador-solar-tan-potente-enciende-nevera-amazon-ha-rebajado-oferta-flash-1407516'>Este generador solar es tan potente que enciende hasta tu nevera, y Amazon lo ha rebajado en oferta flash</a></h4>
     <a href='https://computerhoy.com/tecnologia/generador-solar-tan-potente-enciende-nevera-amazon-ha-rebajado-oferta-flash-1407516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bluetti-ac200l-4242595.jpg?tf=1200x' alt='Este generador solar es tan potente que enciende hasta tu nevera, y Amazon lo ha rebajado en oferta flash' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/bateria-reloj-precio-locos-pulsera-huawei-pone-aprietos-xiaomi-band-1407474'>Más batería que un reloj y precio de locos: esta pulsera Huawei pone en aprietos a las Xiaomi Band</a></h4>
     <a href='https://computerhoy.com/tecnologia/bateria-reloj-precio-locos-pulsera-huawei-pone-aprietos-xiaomi-band-1407474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-band-9-3320666.jpg?tf=1200x' alt='Más batería que un reloj y precio de locos: esta pulsera Huawei pone en aprietos a las Xiaomi Band' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/peligro-colocar-imanes-nevera-1400193'>Científicos demuestran que este tipo de imán es el más perjudicial para tu nevera</a></h4>
-    <a href='https://computerhoy.com/hogar/peligro-colocar-imanes-nevera-1400193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iman-nevera-4243873.jpg?tf=1200x' alt='Científicos demuestran que este tipo de imán es el más perjudicial para tu nevera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/slack-lia-protagoniza-gran-polemica-uso-conversaciones-entrenar-ia-1408235'>Slack la lía y protagoniza una gran polémica por el uso de tus conversaciones para entrenar IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/slack-lia-protagoniza-gran-polemica-uso-conversaciones-entrenar-ia-1408235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/slack-ha-estado-usando-mensajes-privados-usuarios-entrenar-ia-3336051.jpg?tf=1200x' alt='Slack la lía y protagoniza una gran polémica por el uso de tus conversaciones para entrenar IA' />
     </a>
 </div>
 
