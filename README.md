@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peores-peliculas-basadas-videojuegos-netflix-1408369'>Es una de las peores películas basadas en videojuegos, pero ya ha superado a Los feos en Netflix como lo más visto</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peores-peliculas-basadas-videojuegos-netflix-1408369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/peores-peliculas-basadas-videojuegos-pero-ya-ha-superado-feos-netflix-como-visto-4243988.jpg?tf=1200x' alt='Es una de las peores películas basadas en videojuegos, pero ya ha superado a Los feos en Netflix como lo más visto' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-vida-joven-22-anos-hackeo-miles-iphone-puso-apple-espada-pared-1408424'>La nueva vida del joven que con 22 años hackeo miles de iPhone y puso a Apple entre la espada y la pared</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nueva-vida-joven-22-anos-hackeo-miles-iphone-puso-apple-espada-pared-1408424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nueva-vida-joven-22-anos-hackeo-miles-iphone-puso-apple-espada-pared-4244189.jpg?tf=1200x' alt='La nueva vida del joven que con 22 años hackeo miles de iPhone y puso a Apple entre la espada y la pared' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/fortnite-estrena-limite-tiempo-1408472'>Fortnite estrena la peor pesadilla de los menores de edad</a></h4>
+    <a href='https://computerhoy.com/gaming/fortnite-estrena-limite-tiempo-1408472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fortnite-estrena-mayor-pesadilla-menores-edad-4244177.jpg?tf=1200x' alt='Fortnite estrena la peor pesadilla de los menores de edad' />
     </a>
 </div>
 
@@ -66,25 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peores-peliculas-basadas-videojuegos-netflix-1408369'>Es una de las peores películas basadas en videojuegos, pero ya ha superado a Los feos en Netflix como lo más visto</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peores-peliculas-basadas-videojuegos-netflix-1408369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/peores-peliculas-basadas-videojuegos-pero-ya-ha-superado-feos-netflix-como-visto-4243988.jpg?tf=1200x' alt='Es una de las peores películas basadas en videojuegos, pero ya ha superado a Los feos en Netflix como lo más visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/razon-no-te-deberias-conectar-red-wifi-sitio-publico-expertos-1408341'>Esta es la razón por la que no te deberías conectar a la red WiFi en un sitio público, según los expertos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/razon-no-te-deberias-conectar-red-wifi-sitio-publico-expertos-1408341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/razon-no-deberias-conectar-red-wifi-sitio-publico-expertos-4243954.jpg?tf=1200x' alt='Esta es la razón por la que no te deberías conectar a la red WiFi en un sitio público, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/critica-stephen-king-ultima-clasico-terror-1408094'>La crítica no da la razón a Stephen King con la última adaptación de uno de sus clásicos: “¿Dónde está el terror?”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/critica-stephen-king-ultima-clasico-terror-1408094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/misterio-salems-lot-2024-4157720.jpg?tf=1200x' alt='La crítica no da la razón a Stephen King con la última adaptación de uno de sus clásicos: “¿Dónde está el terror?”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/bitelchus-bitelchus-no-invencible-pelicula-animacion-ha-reemplazado-taquilla-1407931'>Bitelchús Bitelchús no es invencible: esta es la película de animación que la ha reemplazado en la taquilla</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/bitelchus-bitelchus-no-invencible-pelicula-animacion-ha-reemplazado-taquilla-1407931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bitelchus-bitelchus-no-invencible-pelicula-animacion-ha-reemplazado-taquilla-4243281.jpg?tf=1200x' alt='Bitelchús Bitelchús no es invencible: esta es la película de animación que la ha reemplazado en la taquilla' />
     </a>
 </div>
 
