@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/generador-solar-tan-potente-enciende-nevera-amazon-ha-rebajado-oferta-flash-1407516'>Este generador solar es tan potente que enciende hasta tu nevera, y Amazon lo ha rebajado en oferta flash</a></h4>
+    <a href='https://computerhoy.com/tecnologia/generador-solar-tan-potente-enciende-nevera-amazon-ha-rebajado-oferta-flash-1407516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bluetti-ac200l-4242595.jpg?tf=1200x' alt='Este generador solar es tan potente que enciende hasta tu nevera, y Amazon lo ha rebajado en oferta flash' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/ano-windows-10-diga-adios-actualizar-estos-son-riesgos-te-expones-1408237'>Un año para que Windows 10 diga adiós y tú sin actualizar: estos son los riesgos a los que te expones</a></h4>
     <a href='https://computerhoy.com/windows/ano-windows-10-diga-adios-actualizar-estos-son-riesgos-te-expones-1408237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-razones-peso-actualizar-windows-11-abandonar-windows-10-3619001.jpg?tf=1200x' alt='Un año para que Windows 10 diga adiós y tú sin actualizar: estos son los riesgos a los que te expones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/slack-lia-protagoniza-gran-polemica-uso-conversaciones-entrenar-ia-1408235'>Slack la lía y protagoniza una gran polémica por el uso de tus conversaciones para entrenar IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/slack-lia-protagoniza-gran-polemica-uso-conversaciones-entrenar-ia-1408235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/slack-ha-estado-usando-mensajes-privados-usuarios-entrenar-ia-3336051.jpg?tf=1200x' alt='Slack la lía y protagoniza una gran polémica por el uso de tus conversaciones para entrenar IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/china-luna-traje-astronauta-lunar-1408248'>China quiere pisar la Luna antes que Estados Unidos, presenta su traje de astronauta lunar</a></h4>
-    <a href='https://computerhoy.com/espacio/china-luna-traje-astronauta-lunar-1408248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/china-quiere-llegar-luna-antes-estados-unidos-presenta-traje-astronauta-4243795.jpg?tf=1200x' alt='China quiere pisar la Luna antes que Estados Unidos, presenta su traje de astronauta lunar' />
     </a>
 </div>
 
