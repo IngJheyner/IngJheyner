@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-chats-whatsapp-archivarlos-iphone-android-1407916'>Cómo ocultar chats de WhatsApp sin archivarlos en iPhone y Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-chats-whatsapp-archivarlos-iphone-android-1407916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-ocultar-chats-whatsapp-archivarlos-iphone-android-4243291.jpg?tf=1200x' alt='Cómo ocultar chats de WhatsApp sin archivarlos en iPhone y Android' />
+    <h4><a href='https://computerhoy.com/tecnologia/ratones-ergonomicos-son-exito-tambien-hay-teclados-reducen-dolor-logitech-conocido-1407859'>Los ratones ergonómicos son un éxito, y también hay teclados que reducen el dolor: este de Logitech es el más conocido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ratones-ergonomicos-son-exito-tambien-hay-teclados-reducen-dolor-logitech-conocido-1407859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/logitech-ergo-k860-4243168.jpg?tf=1200x' alt='Los ratones ergonómicos son un éxito, y también hay teclados que reducen el dolor: este de Logitech es el más conocido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/inversor-elon-musk-comprar-twitter-confirma-x-ha-perdido-valor-1408211'>El inversor que ayudó a Elon Musk a comprar Twitter, confirma que X ha perdido el 79% de su valor</a></h4>
-    <a href='https://computerhoy.com/redes/inversor-elon-musk-comprar-twitter-confirma-x-ha-perdido-valor-1408211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hija-transgenero-elon-musk-dijo-nbc-news-era-padre-ausente-reprendia-ser-queer-3811565.jpg?tf=1200x' alt='El inversor que ayudó a Elon Musk a comprar Twitter, confirma que X ha perdido el 79% de su valor' />
+    <h4><a href='https://computerhoy.com/windows/senales-inequivocas-debes-reinstalar-windows-inmediato-1407711'>Señales inequívocas de que debes reinstalar Windows de inmediato</a></h4>
+    <a href='https://computerhoy.com/windows/senales-inequivocas-debes-reinstalar-windows-inmediato-1407711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/senales-inequivocas-debes-reinstalar-windows-inmediato-4242958.jpg?tf=1200x' alt='Señales inequívocas de que debes reinstalar Windows de inmediato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-conectar-memoria-usb-movil-android-transferir-archivos-1326228'>El genial truco para pasar archivos del móvil a un pendrive USB: sin PC y en pocos segundo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-conectar-memoria-usb-movil-android-transferir-archivos-1326228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/memoria-usb-sandisk-4243786.jpg?tf=1200x' alt='El genial truco para pasar archivos del móvil a un pendrive USB: sin PC y en pocos segundo' />
+    <h4><a href='https://computerhoy.com/google/android-16-esperar-proxima-gran-actualizacion-google-1408225'>Android 16, qué esperar de la próxima gran actualización de Google </a></h4>
+    <a href='https://computerhoy.com/google/android-16-esperar-proxima-gran-actualizacion-google-1408225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-16-4243806.jpg?tf=1200x' alt='Android 16, qué esperar de la próxima gran actualización de Google ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-correctamente-segundo-disco-ssd-ordenador-1407763'>Cómo instalar correctamente un segundo disco SSD en tu ordenador</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-correctamente-segundo-disco-ssd-ordenador-1407763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nuevo-ssd-pc-4243037.jpg?tf=1200x' alt='Cómo instalar correctamente un segundo disco SSD en tu ordenador' />
+    <h4><a href='https://computerhoy.com/apps/moviles-iphone-android-quedan-whatsapp-octubre-2024-1407081'>WhatsApp deja de funcionar en estos móviles a partir de hoy: ¿está el tuyo en la lista? </a></h4>
+    <a href='https://computerhoy.com/apps/moviles-iphone-android-quedan-whatsapp-octubre-2024-1407081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-4243790.jpg?tf=1200x' alt='WhatsApp deja de funcionar en estos móviles a partir de hoy: ¿está el tuyo en la lista? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/menos-euro-clon-airtag-funciona-igual-1396783'>Por 1 euro tienes este clon del AirTag que se conecta al iPhone y funciona igual</a></h4>
-    <a href='https://computerhoy.com/tecnologia/menos-euro-clon-airtag-funciona-igual-1396783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cpvan-smart-tracker-3782890.jpg?tf=1200x' alt='Por 1 euro tienes este clon del AirTag que se conecta al iPhone y funciona igual' />
+    <h4><a href='https://computerhoy.com/ps-network-no-funciona-espana-motivos-posible-solucion-1408215'>PS Network no funciona en España: motivos y posible solución</a></h4>
+    <a href='https://computerhoy.com/ps-network-no-funciona-espana-motivos-posible-solucion-1408215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ps-network-ps-portal-4243774.jpg?tf=1200x' alt='PS Network no funciona en España: motivos y posible solución' />
     </a>
 </div>
 
