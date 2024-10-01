@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/lidl-vale-menos-12-euros-adios-problemas-wifi-invento-conectar-movil-internet-cable-1408290'>Es de Lidl y vale menos de 12 euros: adiós a los problemas con el WiFi con este invento para conectar el móvil a internet por cable</a></h4>
+    <a href='https://computerhoy.com/internet/lidl-vale-menos-12-euros-adios-problemas-wifi-invento-conectar-movil-internet-cable-1408290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lidl-4243931.jpg?tf=1200x' alt='Es de Lidl y vale menos de 12 euros: adiós a los problemas con el WiFi con este invento para conectar el móvil a internet por cable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-inicia-nueva-fase-copilot-cambia-siempre-busqueda-archivos-windows-1408037'>Microsoft inicia la nueva fase de Copilot y cambia para siempre la búsqueda de archivos en Windows</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-inicia-nueva-fase-copilot-cambia-siempre-busqueda-archivos-windows-1408037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/copilot-microsoft-windows-busqueda-semantica-4243483.jpg?tf=1200x' alt='Microsoft inicia la nueva fase de Copilot y cambia para siempre la búsqueda de archivos en Windows' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/iptv-hora-clientes-listas-pirata-paguen-1408254'>IPTV: "Es hora de que los clientes de las listas pirata paguen"</a></h4>
     <a href='https://computerhoy.com/tv/iptv-hora-clientes-listas-pirata-paguen-1408254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/golpe-mortal-iptv-dazn-gana-sentencia-historica-puede-cambiarlo-todo-3437670.jpg?tf=1200x' alt='IPTV: "Es hora de que los clientes de las listas pirata paguen"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/generador-solar-tan-potente-enciende-nevera-amazon-ha-rebajado-oferta-flash-1407516'>Este generador solar es tan potente que enciende hasta tu nevera, y Amazon lo ha rebajado en oferta flash</a></h4>
-    <a href='https://computerhoy.com/tecnologia/generador-solar-tan-potente-enciende-nevera-amazon-ha-rebajado-oferta-flash-1407516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bluetti-ac200l-4242595.jpg?tf=1200x' alt='Este generador solar es tan potente que enciende hasta tu nevera, y Amazon lo ha rebajado en oferta flash' />
     </a>
 </div>
 
