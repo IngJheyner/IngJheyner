@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-retroceder-40-anos-tiempo-google-earth-1408150'>Cómo retroceder 40 años en el tiempo con Google Earth</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-retroceder-40-anos-tiempo-google-earth-1408150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-retroceder-40-anos-tiempo-google-earth-4243732.jpg?tf=1200x' alt='Cómo retroceder 40 años en el tiempo con Google Earth' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/son-cuentas-verificadas-gmail-como-funcionan-como-conseguir-1408129'>Qué son las cuentas verificadas de Gmail, cómo funcionan y cómo conseguir una</a></h4>
     <a href='https://computerhoy.com/google/son-cuentas-verificadas-gmail-como-funcionan-como-conseguir-1408129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/son-cuentas-verificadas-gmail-como-funcionan-como-conseguir-4243721.jpg?tf=1200x' alt='Qué son las cuentas verificadas de Gmail, cómo funcionan y cómo conseguir una' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cientifico-afirma-somos-simplemente-personajes-ia-avanzada-prueba-oculta-biblia-1408158'>Científico afirma que somos simplemente personajes de un IA avanzada y que la prueba está oculta en la Biblia</a></h4>
     <a href='https://computerhoy.com/tecnologia/cientifico-afirma-somos-simplemente-personajes-ia-avanzada-prueba-oculta-biblia-1408158' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/inteligencia-artificial-4243692.jpg?tf=1200x' alt='Científico afirma que somos simplemente personajes de un IA avanzada y que la prueba está oculta en la Biblia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/luis-cryptospain-criptoestafa-recompensa-1408157'>Un millón de euros de recompensa por localizar a Luis de CryptoSpain, acusado de criptoestafa</a></h4>
-    <a href='https://computerhoy.com/criptos/luis-cryptospain-criptoestafa-recompensa-1408157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ofrecen-recompensa-1-millon-euros-localizar-luis-crytospain-acusado-criptoestafa-4243680.jpg?tf=1200x' alt='Un millón de euros de recompensa por localizar a Luis de CryptoSpain, acusado de criptoestafa' />
     </a>
 </div>
 
