@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-llega-plataformas-streaming-futuro-series-peliculas-hechas-maquinas-1407236'>La IA llega a las plataformas de streaming, ¿un futuro de series y películas hechas por máquinas?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-llega-plataformas-streaming-futuro-series-peliculas-hechas-maquinas-1407236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ia-llega-plataformas-streaming-futuro-series-peliculas-hechas-maquinas-4242109.jpg?tf=1200x' alt='La IA llega a las plataformas de streaming, ¿un futuro de series y películas hechas por máquinas?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-correctamente-segundo-disco-ssd-ordenador-1407763'>Cómo instalar correctamente un segundo disco SSD en tu ordenador</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-correctamente-segundo-disco-ssd-ordenador-1407763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nuevo-ssd-pc-4243037.jpg?tf=1200x' alt='Cómo instalar correctamente un segundo disco SSD en tu ordenador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-retroceder-40-anos-tiempo-google-earth-1408150'>Cómo retroceder 40 años en el tiempo con Google Earth</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-retroceder-40-anos-tiempo-google-earth-1408150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-retroceder-40-anos-tiempo-google-earth-4243732.jpg?tf=1200x' alt='Cómo retroceder 40 años en el tiempo con Google Earth' />
+    <h4><a href='https://computerhoy.com/tecnologia/menos-euro-clon-airtag-funciona-igual-1396783'>Por 1 euro tienes este clon del AirTag que se conecta al iPhone y funciona igual</a></h4>
+    <a href='https://computerhoy.com/tecnologia/menos-euro-clon-airtag-funciona-igual-1396783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cpvan-smart-tracker-3782890.jpg?tf=1200x' alt='Por 1 euro tienes este clon del AirTag que se conecta al iPhone y funciona igual' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/son-cuentas-verificadas-gmail-como-funcionan-como-conseguir-1408129'>Qué son las cuentas verificadas de Gmail, cómo funcionan y cómo conseguir una</a></h4>
-    <a href='https://computerhoy.com/google/son-cuentas-verificadas-gmail-como-funcionan-como-conseguir-1408129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/son-cuentas-verificadas-gmail-como-funcionan-como-conseguir-4243721.jpg?tf=1200x' alt='Qué son las cuentas verificadas de Gmail, cómo funcionan y cómo conseguir una' />
+    <h4><a href='https://computerhoy.com/hogar/tienes-mente-olvidadiza-como-yo-funcion-google-tv-streamer-4k-te-encantara-1407557'>Si tienes una mente olvidadiza como yo, esta función del Google TV Streamer 4K te encantará</a></h4>
+    <a href='https://computerhoy.com/hogar/tienes-mente-olvidadiza-como-yo-funcion-google-tv-streamer-4k-te-encantara-1407557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-streamer-4k-4234290.jpg?tf=1200x' alt='Si tienes una mente olvidadiza como yo, esta función del Google TV Streamer 4K te encantará' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/etiqueta-dgt-primeras-ciudades-multar-no-llevarla-bien-visible-1408177'>Etiqueta de la DGT: primeras ciudades en multar por no llevarla bien visible</a></h4>
-    <a href='https://computerhoy.com/motor/etiqueta-dgt-primeras-ciudades-multar-no-llevarla-bien-visible-1408177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/etiqueta-dgt-primeras-ciudades-multar-no-llevarla-bien-visible-4243706.jpg?tf=1200x' alt='Etiqueta de la DGT: primeras ciudades en multar por no llevarla bien visible' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-iphone-16-16-plus-apple-eleva-basicos-nuevo-nivel-1406744'>He probado los iPhone 16 y 16 Plus: Apple eleva los básicos a un nuevo nivel</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-iphone-16-16-plus-apple-eleva-basicos-nuevo-nivel-1406744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243553.jpg?tf=1200x' alt='He probado los iPhone 16 y 16 Plus: Apple eleva los básicos a un nuevo nivel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lyngsat-stream-como-ver-gratis-4000-canales-espana-resto-mundo-legal-pagar-nada-1408159'>LyngSat Stream: cómo ver gratis más de 4.000 canales de España y resto del mundo, legal y sin pagar nada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lyngsat-stream-como-ver-gratis-4000-canales-espana-resto-mundo-legal-pagar-nada-1408159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/canales-television-tdt-4243693.jpg?tf=1200x' alt='LyngSat Stream: cómo ver gratis más de 4.000 canales de España y resto del mundo, legal y sin pagar nada' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-pasar-saldo-google-play-otra-cuenta-1406372'>Cómo pasar tu saldo de Google Play a otra cuenta</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-pasar-saldo-google-play-otra-cuenta-1406372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pasar-saldo-google-play-4236997.jpg?tf=1200x' alt='Cómo pasar tu saldo de Google Play a otra cuenta' />
     </a>
 </div>
 
