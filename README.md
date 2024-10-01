@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-inicia-nueva-fase-copilot-cambia-siempre-busqueda-archivos-windows-1408037'>Microsoft inicia la nueva fase de Copilot y cambia para siempre la búsqueda de archivos en Windows</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-inicia-nueva-fase-copilot-cambia-siempre-busqueda-archivos-windows-1408037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/copilot-microsoft-windows-busqueda-semantica-4243483.jpg?tf=1200x' alt='Microsoft inicia la nueva fase de Copilot y cambia para siempre la búsqueda de archivos en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/dinero-ahorro-apagar-router-wifi-todas-noches-1406816'>Este es el dinero que te ahorras por apagar el router WiFi todas las noches (ojo, es más de lo que imaginas)</a></h4>
+    <a href='https://computerhoy.com/redes/dinero-ahorro-apagar-router-wifi-todas-noches-1406816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dinero-te-ahorras-apagar-router-wifi-todas-noches-ojo-imaginas-4241362.jpg?tf=1200x' alt='Este es el dinero que te ahorras por apagar el router WiFi todas las noches (ojo, es más de lo que imaginas)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-emite-nueva-advertencia-peligros-bluesnarfing-bastan-10-15-metros-1408253'>Policía Nacional emite una nueva advertencia sobre los peligros del bluesnarfing: “Bastan 10 o 15 metros”</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-nacional-emite-nueva-advertencia-peligros-bluesnarfing-bastan-10-15-metros-1408253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/policia-nacional-bluesnarfing-4243924.jpg?tf=1200x' alt='Policía Nacional emite una nueva advertencia sobre los peligros del bluesnarfing: “Bastan 10 o 15 metros”' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/generador-solar-tan-potente-enciende-nevera-amazon-ha-rebajado-oferta-flash-1407516'>Este generador solar es tan potente que enciende hasta tu nevera, y Amazon lo ha rebajado en oferta flash</a></h4>
     <a href='https://computerhoy.com/tecnologia/generador-solar-tan-potente-enciende-nevera-amazon-ha-rebajado-oferta-flash-1407516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bluetti-ac200l-4242595.jpg?tf=1200x' alt='Este generador solar es tan potente que enciende hasta tu nevera, y Amazon lo ha rebajado en oferta flash' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ano-windows-10-diga-adios-actualizar-estos-son-riesgos-te-expones-1408237'>Un año para que Windows 10 diga adiós y tú sin actualizar: estos son los riesgos a los que te expones</a></h4>
-    <a href='https://computerhoy.com/windows/ano-windows-10-diga-adios-actualizar-estos-son-riesgos-te-expones-1408237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-razones-peso-actualizar-windows-11-abandonar-windows-10-3619001.jpg?tf=1200x' alt='Un año para que Windows 10 diga adiós y tú sin actualizar: estos son los riesgos a los que te expones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bateria-reloj-precio-locos-pulsera-huawei-pone-aprietos-xiaomi-band-1407474'>Más batería que un reloj y precio de locos: esta pulsera Huawei pone en aprietos a las Xiaomi Band</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bateria-reloj-precio-locos-pulsera-huawei-pone-aprietos-xiaomi-band-1407474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-band-9-3320666.jpg?tf=1200x' alt='Más batería que un reloj y precio de locos: esta pulsera Huawei pone en aprietos a las Xiaomi Band' />
     </a>
 </div>
 
