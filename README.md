@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/google-mejora-portatiles-mano-lenovo-primer-samsung-galaxy-chromebook-plus-tecla-exclusiva-1407334'>Google mejora sus portátiles de la mano de Lenovo y el primer Samsung Galaxy Chromebook Plus, con una tecla exclusiva</a></h4>
+    <a href='https://computerhoy.com/pc/google-mejora-portatiles-mano-lenovo-primer-samsung-galaxy-chromebook-plus-tecla-exclusiva-1407334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-chromeboook-plus-4244052.jpg?tf=1200x' alt='Google mejora sus portátiles de la mano de Lenovo y el primer Samsung Galaxy Chromebook Plus, con una tecla exclusiva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-bloquear-mensajes-contactos-desconocidos-android-1406376'>WhatsApp incorpora una nueva función para bloquear mensajes de spam: así se activa</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-bloquear-mensajes-contactos-desconocidos-android-1406376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/whatsapp-spam-4237155.jpg?tf=1200x' alt='WhatsApp incorpora una nueva función para bloquear mensajes de spam: así se activa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-maps-google-habilita-fin-funcion-esperada-usuarios-android-auto-1408339'>Google Maps: Google habilita al fin la función más esperada para más usuarios de Android Auto</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-google-habilita-fin-funcion-esperada-usuarios-android-auto-1408339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-google-habilita-fin-funcion-esperada-usuarios-android-auto-4243946.jpg?tf=1200x' alt='Google Maps: Google habilita al fin la función más esperada para más usuarios de Android Auto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/increible-respuesta-hacker-estafa-yo-soy-tonto-me-gusta-jugarmela-1408402'>La increíble respuesta de un hacker a una estafa: "yo es que soy tonto y me gusta jugármela"</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/increible-respuesta-hacker-estafa-yo-soy-tonto-me-gusta-jugarmela-1408402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/increible-respuesta-hacker-estafa-yo-soy-tonto-me-gusta-jugarmela-4244096.jpg?tf=1200x' alt='La increíble respuesta de un hacker a una estafa: "yo es que soy tonto y me gusta jugármela"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejor-miniserie-historica-reciente-roma-mejor-gladiator-hbo-max-1405897'>Posiblemente, la mejor miniserie histórica reciente: mejor que Gladiator y puedes verla en MAX</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejor-miniserie-historica-reciente-roma-mejor-gladiator-hbo-max-1405897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/roma-mejor-serie-gladiator-4244080.jpg?tf=1200x' alt='Posiblemente, la mejor miniserie histórica reciente: mejor que Gladiator y puedes verla en MAX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/lidl-vale-menos-12-euros-adios-problemas-wifi-invento-conectar-movil-internet-cable-1408290'>Es de Lidl y vale menos de 12 euros: adiós a los problemas con el WiFi con este invento para conectar el móvil a internet por cable</a></h4>
-    <a href='https://computerhoy.com/internet/lidl-vale-menos-12-euros-adios-problemas-wifi-invento-conectar-movil-internet-cable-1408290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lidl-4243931.jpg?tf=1200x' alt='Es de Lidl y vale menos de 12 euros: adiós a los problemas con el WiFi con este invento para conectar el móvil a internet por cable' />
     </a>
 </div>
 
