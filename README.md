@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ano-windows-10-diga-adios-actualizar-estos-son-riesgos-te-expones-1408237'>Un año para que Windows 10 diga adiós y tú sin actualizar: estos son los riesgos a los que te expones</a></h4>
+    <a href='https://computerhoy.com/windows/ano-windows-10-diga-adios-actualizar-estos-son-riesgos-te-expones-1408237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-razones-peso-actualizar-windows-11-abandonar-windows-10-3619001.jpg?tf=1200x' alt='Un año para que Windows 10 diga adiós y tú sin actualizar: estos son los riesgos a los que te expones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/bateria-reloj-precio-locos-pulsera-huawei-pone-aprietos-xiaomi-band-1407474'>Más batería que un reloj y precio de locos: esta pulsera Huawei pone en aprietos a las Xiaomi Band</a></h4>
     <a href='https://computerhoy.com/tecnologia/bateria-reloj-precio-locos-pulsera-huawei-pone-aprietos-xiaomi-band-1407474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-band-9-3320666.jpg?tf=1200x' alt='Más batería que un reloj y precio de locos: esta pulsera Huawei pone en aprietos a las Xiaomi Band' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/china-luna-traje-astronauta-lunar-1408248'>China quiere pisar la Luna antes que Estados Unidos, presenta su traje de astronauta lunar</a></h4>
     <a href='https://computerhoy.com/espacio/china-luna-traje-astronauta-lunar-1408248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/china-quiere-llegar-luna-antes-estados-unidos-presenta-traje-astronauta-4243795.jpg?tf=1200x' alt='China quiere pisar la Luna antes que Estados Unidos, presenta su traje de astronauta lunar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/virus-ha-infectado-11-millones-android-usuarios-acusan-google-play-store-1408093'>Un virus ha infectado 11 millones de Android y los usuarios acusan a Google Play Store</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/virus-ha-infectado-11-millones-android-usuarios-acusan-google-play-store-1408093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/virus-ha-infectado-11-millones-android-usuarios-acusan-google-play-store-4243787.jpg?tf=1200x' alt='Un virus ha infectado 11 millones de Android y los usuarios acusan a Google Play Store' />
     </a>
 </div>
 
