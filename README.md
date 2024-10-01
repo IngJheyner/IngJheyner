@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/adios-lavadora-senales-indican-punto-estropearse-1321532'>Adiós a tu lavadora: 8 señales que indican que está a punto de romperse</a></h4>
+    <a href='https://computerhoy.com/life/adios-lavadora-senales-indican-punto-estropearse-1321532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/rompe-lavadora-4244220.jpg?tf=1200x' alt='Adiós a tu lavadora: 8 señales que indican que está a punto de romperse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-podria-haber-desvelado-fecha-lanzamiento-windows-11-24h2-seria-muy-pronto-1408491'>Microsoft podría haber desvelado la fecha de lanzamiento de Windows 11 24H2 y sería muy pronto</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-podria-haber-desvelado-fecha-lanzamiento-windows-11-24h2-seria-muy-pronto-1408491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/novedades-windows-11-4244218.jpg?tf=1200x' alt='Microsoft podría haber desvelado la fecha de lanzamiento de Windows 11 24H2 y sería muy pronto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/revienta-precio-reloj-samsung-avanzado-galaxy-watch-ultra-tiene-rebaja-pccomponentes-deja-ko-amazon-1408203'>Revienta el precio del reloj Samsung más avanzado: el Galaxy Watch Ultra tiene una rebaja en PcComponentes que deja KO a Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/revienta-precio-reloj-samsung-avanzado-galaxy-watch-ultra-tiene-rebaja-pccomponentes-deja-ko-amazon-1408203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch-ultra-4243776.jpg?tf=1200x' alt='Revienta el precio del reloj Samsung más avanzado: el Galaxy Watch Ultra tiene una rebaja en PcComponentes que deja KO a Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-vida-joven-22-anos-hackeo-miles-iphone-puso-apple-espada-pared-1408424'>La nueva vida del joven que con 22 años hackeo miles de iPhone y puso a Apple entre la espada y la pared</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nueva-vida-joven-22-anos-hackeo-miles-iphone-puso-apple-espada-pared-1408424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nueva-vida-joven-22-anos-hackeo-miles-iphone-puso-apple-espada-pared-4244189.jpg?tf=1200x' alt='La nueva vida del joven que con 22 años hackeo miles de iPhone y puso a Apple entre la espada y la pared' />
     </a>
 </div>
 
