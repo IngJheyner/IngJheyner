@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/experto-cerrajero-desvela-solucion-definitiva-poder-abrir-puerta-incluso-llave-puesta-dentro-1408489'>Un experto cerrajero desvela la solución definitiva para poder abrir la puerta incluso con la llave puesta por dentro</a></h4>
-    <a href='https://computerhoy.com/life/experto-cerrajero-desvela-solucion-definitiva-poder-abrir-puerta-incluso-llave-puesta-dentro-1408489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/experto-cerrajero-desvela-solucion-definitiva-poder-abrir-puerta-incluso-llave-puesta-dentro-4244240.jpg?tf=1200x' alt='Un experto cerrajero desvela la solución definitiva para poder abrir la puerta incluso con la llave puesta por dentro' />
+    <h4><a href='https://computerhoy.com/tecnologia/adios-firestick-xiaomi-alternativa-android-plex-kodi-1396088'>Di adiós a los Firestick: Xiaomi tiene una alternativa con Android en la que sí puedes instalar Kodi y Plex</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-firestick-xiaomi-alternativa-android-plex-kodi-1396088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/xiaomi-mi-tv-stick-3747135.jpg?tf=1200x' alt='Di adiós a los Firestick: Xiaomi tiene una alternativa con Android en la que sí puedes instalar Kodi y Plex' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dime-como-apuras-tubo-pasta-dientes-te-dire-eres-persona-inteligente-psicologia-1408464'>Dime cómo apuras el tubo de pasta de dientes y te diré si eres una persona inteligente, según la psicología</a></h4>
-    <a href='https://computerhoy.com/life/dime-como-apuras-tubo-pasta-dientes-te-dire-eres-persona-inteligente-psicologia-1408464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dime-como-apuras-tubo-pasta-dientes-te-dire-eres-persona-inteligente-psicologia-4244229.jpg?tf=1200x' alt='Dime cómo apuras el tubo de pasta de dientes y te diré si eres una persona inteligente, según la psicología' />
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-blade-runner-ni-alien-olvidado-thriller-ridley-scott-1407913'>Ni Blade Runner ni Alien: este es el olvidado thriller de Ridley Scott que más demuestra su amor por el cine clásico</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-blade-runner-ni-alien-olvidado-thriller-ridley-scott-1407913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ni-blade-runner-ni-alien-olvidado-thriller-ridley-scott-demuestra-amor-cine-clasico-4243237.jpg?tf=1200x' alt='Ni Blade Runner ni Alien: este es el olvidado thriller de Ridley Scott que más demuestra su amor por el cine clásico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/adios-lavadora-senales-indican-punto-estropearse-1321532'>Adiós a tu lavadora: 8 señales que indican que está a punto de romperse</a></h4>
-    <a href='https://computerhoy.com/life/adios-lavadora-senales-indican-punto-estropearse-1321532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/rompe-lavadora-4244220.jpg?tf=1200x' alt='Adiós a tu lavadora: 8 señales que indican que está a punto de romperse' />
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-matepad-pro-me-ha-dejado-ganas-gracias-diseno-irresistible-pantalla-tandem-oled-estoy-deseando-probarla-fondo-1408077'>La Huawei MatePad Pro me ha dejado con ganas de más gracias a su diseño y a su irresistible pantalla Tandem OLED: estoy deseando probarla a fondo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-matepad-pro-me-ha-dejado-ganas-gracias-diseno-irresistible-pantalla-tandem-oled-estoy-deseando-probarla-fondo-1408077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-matepad-pro-122-4243655.jpg?tf=1200x' alt='La Huawei MatePad Pro me ha dejado con ganas de más gracias a su diseño y a su irresistible pantalla Tandem OLED: estoy deseando probarla a fondo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-podria-haber-desvelado-fecha-lanzamiento-windows-11-24h2-seria-muy-pronto-1408491'>Microsoft podría haber desvelado la fecha de lanzamiento de Windows 11 24H2 y sería muy pronto</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-podria-haber-desvelado-fecha-lanzamiento-windows-11-24h2-seria-muy-pronto-1408491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/novedades-windows-11-4244218.jpg?tf=1200x' alt='Microsoft podría haber desvelado la fecha de lanzamiento de Windows 11 24H2 y sería muy pronto' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-xiaomi-watch-2-creo-opcion-ideal-quieres-dejar-atras-smartband-algo-top-1406940'>He probado el Xiaomi Watch 2 y creo que es la opción ideal si quieres dejar atrás tu smartband por algo más top</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-xiaomi-watch-2-creo-opcion-ideal-quieres-dejar-atras-smartband-algo-top-1406940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-watch-2-4242576.jpg?tf=1200x' alt='He probado el Xiaomi Watch 2 y creo que es la opción ideal si quieres dejar atrás tu smartband por algo más top' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cientificos-aseguran-pandemia-covid-tuvo-efectos-incluso-luna-1408490'>Científicos aseguran que la pandemia del COVID tuvo efectos incluso en la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/cientificos-aseguran-pandemia-covid-tuvo-efectos-incluso-luna-1408490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/luna-4244216.jpg?tf=1200x' alt='Científicos aseguran que la pandemia del COVID tuvo efectos incluso en la Luna' />
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-openai-superinteligencia-artificial-1408357'>Sam Altman asegura que OpenAI está cerca de la superinteligencia artificial: ¿evolución inminente o huida hacia adelante?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-openai-superinteligencia-artificial-1408357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sam-altman-asegura-openai-cerca-superinteligencia-artificial-evolucion-inminente-huida-adelante-4243977.jpg?tf=1200x' alt='Sam Altman asegura que OpenAI está cerca de la superinteligencia artificial: ¿evolución inminente o huida hacia adelante?' />
     </a>
 </div>
 
