@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-carga-ryujinx-otro-emulador-nintendo-switch-1408822'>Nintendo se carga Ryujinx, otro emulador de Nintendo Switch que en teoría era inmune a las denuncias</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-carga-ryujinx-otro-emulador-nintendo-switch-1408822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/consola-nintendo-switch-3346180.jpg?tf=1200x' alt='Nintendo se carga Ryujinx, otro emulador de Nintendo Switch que en teoría era inmune a las denuncias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/consola-android-viral-arrasa-fans-retro-llega-espana-pantalla-amoled-diseno-tipo-switch-precio-rebajado-1408218'>La consola Android viral que arrasa entre los fans de lo retro llega a España: pantalla AMOLED, diseño tipo Switch y precio rebajado</a></h4>
     <a href='https://computerhoy.com/gaming/consola-android-viral-arrasa-fans-retro-llega-espana-pantalla-amoled-diseno-tipo-switch-precio-rebajado-1408218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/anbernic-rg556-4243784.jpg?tf=1200x' alt='La consola Android viral que arrasa entre los fans de lo retro llega a España: pantalla AMOLED, diseño tipo Switch y precio rebajado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-disponible-microsoft-office-2024-alternativa-office-365-precio-todas-novedades-1408786'>Ya disponible Microsoft Office 2024, la alternativa a Office 365: precio y todas las novedades</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-disponible-microsoft-office-2024-alternativa-office-365-precio-todas-novedades-1408786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/office-2024-4244728.jpg?tf=1200x' alt='Ya disponible Microsoft Office 2024, la alternativa a Office 365: precio y todas las novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-acaba-hololens-no-puede-competir-vision-pro-meta-quest-1408743'>Microsoft acaba con las HoloLens: no puede competir con las Vision Pro y las Meta Quest</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-acaba-hololens-no-puede-competir-vision-pro-meta-quest-1408743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/microsoft-acaba-hololens-no-puede-competir-vision-pro-meta-quest-4244651.jpg?tf=1200x' alt='Microsoft acaba con las HoloLens: no puede competir con las Vision Pro y las Meta Quest' />
     </a>
 </div>
 
