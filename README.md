@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/como-acceder-nas-desde-cualquier-movil-1405848'>Cómo acceder al NAS desde cualquier móvil</a></h4>
+    <a href='https://computerhoy.com/como-acceder-nas-desde-cualquier-movil-1405848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nas-movil-4234783.jpg?tf=1200x' alt='Cómo acceder al NAS desde cualquier móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-conectar-nintendo-switch-televisor-necesidad-dock-1407090'>Cómo conectar una Nintendo Switch al televisor sin necesidad del dock</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-conectar-nintendo-switch-televisor-necesidad-dock-1407090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/conexion-nintendo-switch-smart-tv-4241854.jpg?tf=1200x' alt='Cómo conectar una Nintendo Switch al televisor sin necesidad del dock' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/ordenadores-cuanticos-ejecutar-doom-1408645'>Por qué los ordenadores cuánticos todavía no pueden ejecutar Doom (cuando hasta un test de embarazo lo puede hacer)</a></h4>
     <a href='https://computerhoy.com/gaming/ordenadores-cuanticos-ejecutar-doom-1408645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ordenadores-cuanticos-todavia-no-pueden-ejecutar-doom-cuando-tostadora-puede-hacer-4244462.jpg?tf=1200x' alt='Por qué los ordenadores cuánticos todavía no pueden ejecutar Doom (cuando hasta un test de embarazo lo puede hacer)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/italia-aprueba-ley-agresiva-fecha-iptv-podria-llegar-pronto-espana-1408669'>Italia aprueba la ley más agresiva hasta la fecha contra las IPTV que podría llegar pronto a España</a></h4>
     <a href='https://computerhoy.com/tv/italia-aprueba-ley-agresiva-fecha-iptv-podria-llegar-pronto-espana-1408669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iptv-ilegal-futbol-3983719.jpg?tf=1200x' alt='Italia aprueba la ley más agresiva hasta la fecha contra las IPTV que podría llegar pronto a España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alexa-rebajas-amazon-echo-ya-hunden-precios-baratos-premium-1408553'>Alexa está de rebajas: los Amazon Echo ya hunden sus precios, desde los más baratos hasta los premium</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alexa-rebajas-amazon-echo-ya-hunden-precios-baratos-premium-1408553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-echo-show-5-4244297.jpg?tf=1200x' alt='Alexa está de rebajas: los Amazon Echo ya hunden sus precios, desde los más baratos hasta los premium' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vram-actualizable-tarjetas-graficas-sueno-jamas-volvera-estos-motivos-1408668'>La VRAM actualizable en tarjetas gráficas, un sueño que jamás volverá por estos motivos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vram-actualizable-tarjetas-graficas-sueno-jamas-volvera-estos-motivos-1408668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mantenimiento-pc-gpu-4241914.jpg?tf=1200x' alt='La VRAM actualizable en tarjetas gráficas, un sueño que jamás volverá por estos motivos' />
     </a>
 </div>
 
