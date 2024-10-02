@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/devoluciones-amazon-cambian-condiciones-2025-podria-afectarte-forma-1408711'>Devoluciones de Amazon: cambian las condiciones en 2025, y podría afectarte de esta forma</a></h4>
-    <a href='https://computerhoy.com/life/devoluciones-amazon-cambian-condiciones-2025-podria-afectarte-forma-1408711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-4244559.jpg?tf=1200x' alt='Devoluciones de Amazon: cambian las condiciones en 2025, y podría afectarte de esta forma' />
+    <h4><a href='https://computerhoy.com/tecnologia/ya-disponible-microsoft-office-2024-alternativa-office-365-precio-todas-novedades-1408786'>Ya disponible Microsoft Office 2024, la alternativa a Office 365: precio y todas las novedades</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-disponible-microsoft-office-2024-alternativa-office-365-precio-todas-novedades-1408786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/office-2024-4244728.jpg?tf=1200x' alt='Ya disponible Microsoft Office 2024, la alternativa a Office 365: precio y todas las novedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/steam-puede-temblar-portatil-i7-rtx-4070-barato-nunca-hara-juegos-vuelen-1407888'>Steam puede temblar: este portátil con i7 y RTX 4070 es más barato que nunca y hará que tus juegos vuelen</a></h4>
-    <a href='https://computerhoy.com/tecnologia/steam-puede-temblar-portatil-i7-rtx-4070-barato-nunca-hara-juegos-vuelen-1407888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-hp-victus-16-2544989.jpg?tf=1200x' alt='Steam puede temblar: este portátil con i7 y RTX 4070 es más barato que nunca y hará que tus juegos vuelen' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-acaba-hololens-no-puede-competir-vision-pro-meta-quest-1408743'>Microsoft acaba con las HoloLens: no puede competir con las Vision Pro y las Meta Quest</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-acaba-hololens-no-puede-competir-vision-pro-meta-quest-1408743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/microsoft-acaba-hololens-no-puede-competir-vision-pro-meta-quest-4244651.jpg?tf=1200x' alt='Microsoft acaba con las HoloLens: no puede competir con las Vision Pro y las Meta Quest' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-saber-bizum-falso-1406302'>¿Cómo saber si un Bizum es falso?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-saber-bizum-falso-1406302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bizum-4244519.jpg?tf=1200x' alt='¿Cómo saber si un Bizum es falso?' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-ver-satelites-starlink-dia-hora-ciudad-1408649'>Cómo ver los satélites Starlink: día, hora y dónde mirar cuando pases por tu ciudad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-ver-satelites-starlink-dia-hora-ciudad-1408649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/satelites-starlink-spacex-cielo-4244509.jpg?tf=1200x' alt='Cómo ver los satélites Starlink: día, hora y dónde mirar cuando pases por tu ciudad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/como-acceder-nas-desde-cualquier-movil-1405848'>Cómo acceder al NAS desde cualquier móvil</a></h4>
-    <a href='https://computerhoy.com/como-acceder-nas-desde-cualquier-movil-1405848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nas-movil-4234783.jpg?tf=1200x' alt='Cómo acceder al NAS desde cualquier móvil' />
+    <h4><a href='https://computerhoy.com/hogar/temperatura-ideal-encender-calefaccion-1408642'>Un experto revela qué temperatura debe alcanzar tu casa antes de encender la calefacción</a></h4>
+    <a href='https://computerhoy.com/hogar/temperatura-ideal-encender-calefaccion-1408642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/persona-pasando-frio-4244496.jpg?tf=1200x' alt='Un experto revela qué temperatura debe alcanzar tu casa antes de encender la calefacción' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-conectar-nintendo-switch-televisor-necesidad-dock-1407090'>Cómo conectar una Nintendo Switch al televisor sin necesidad del dock</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-conectar-nintendo-switch-televisor-necesidad-dock-1407090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/conexion-nintendo-switch-smart-tv-4241854.jpg?tf=1200x' alt='Cómo conectar una Nintendo Switch al televisor sin necesidad del dock' />
+    <h4><a href='https://computerhoy.com/entretenimiento/abandona-netflix-mejor-pelicula-steven-spielberg-lista-schindler-1408628'>Abandona Netflix la mejor película de Steven Spielberg y una de las obras maestras del cine: aquí puedes seguir viéndola en streaming</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/abandona-netflix-mejor-pelicula-steven-spielberg-lista-schindler-1408628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/steven-spielberg-2707933.jpg?tf=1200x' alt='Abandona Netflix la mejor película de Steven Spielberg y una de las obras maestras del cine: aquí puedes seguir viéndola en streaming' />
     </a>
 </div>
 
