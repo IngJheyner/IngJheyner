@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ordenadores-cuanticos-ejecutar-doom-1408645'>Por qué los ordenadores cuánticos todavía no pueden ejecutar Doom (cuando hasta un test de embarazo lo puede hacer)</a></h4>
+    <a href='https://computerhoy.com/gaming/ordenadores-cuanticos-ejecutar-doom-1408645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ordenadores-cuanticos-todavia-no-pueden-ejecutar-doom-cuando-tostadora-puede-hacer-4244462.jpg?tf=1200x' alt='Por qué los ordenadores cuánticos todavía no pueden ejecutar Doom (cuando hasta un test de embarazo lo puede hacer)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/subida-precio-chatgpt-1407742'>Adiós a ChatGPT para todos: OpenAI planea subir el precio a más del doble en los próximos años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/subida-precio-chatgpt-1407742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chatgpt-4244525.jpg?tf=1200x' alt='Adiós a ChatGPT para todos: OpenAI planea subir el precio a más del doble en los próximos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/italia-aprueba-ley-agresiva-fecha-iptv-podria-llegar-pronto-espana-1408669'>Italia aprueba la ley más agresiva hasta la fecha contra las IPTV que podría llegar pronto a España</a></h4>
+    <a href='https://computerhoy.com/tv/italia-aprueba-ley-agresiva-fecha-iptv-podria-llegar-pronto-espana-1408669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iptv-ilegal-futbol-3983719.jpg?tf=1200x' alt='Italia aprueba la ley más agresiva hasta la fecha contra las IPTV que podría llegar pronto a España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/alexa-rebajas-amazon-echo-ya-hunden-precios-baratos-premium-1408553'>Alexa está de rebajas: los Amazon Echo ya hunden sus precios, desde los más baratos hasta los premium</a></h4>
     <a href='https://computerhoy.com/tecnologia/alexa-rebajas-amazon-echo-ya-hunden-precios-baratos-premium-1408553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-echo-show-5-4244297.jpg?tf=1200x' alt='Alexa está de rebajas: los Amazon Echo ya hunden sus precios, desde los más baratos hasta los premium' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vram-actualizable-tarjetas-graficas-sueno-jamas-volvera-estos-motivos-1408668'>La VRAM actualizable en tarjetas gráficas, un sueño que jamás volverá por estos motivos</a></h4>
     <a href='https://computerhoy.com/tecnologia/vram-actualizable-tarjetas-graficas-sueno-jamas-volvera-estos-motivos-1408668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mantenimiento-pc-gpu-4241914.jpg?tf=1200x' alt='La VRAM actualizable en tarjetas gráficas, un sueño que jamás volverá por estos motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-miedo-chatgpt-noam-shazeer-1408551'>Google tiene tanto miedo a ChatGPT que pagará 2.500 millones de euros para volver a contratar a un antiguo empleado</a></h4>
-    <a href='https://computerhoy.com/google/google-miedo-chatgpt-noam-shazeer-1408551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-tiene-tanto-miedo-chatgpt-pagara-2500-millones-euros-volver-contratar-antiguo-empleado-4244331.jpg?tf=1200x' alt='Google tiene tanto miedo a ChatGPT que pagará 2.500 millones de euros para volver a contratar a un antiguo empleado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/firestick-calienta-previa-prime-day-octubre-ya-puedes-comprar-casi-mitad-precio-1408538'>El Firestick calienta la previa del Prime Day de octubre: ya lo puedes comprar casi a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/firestick-calienta-previa-prime-day-octubre-ya-puedes-comprar-casi-mitad-precio-1408538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-3223450.jpg?tf=1200x' alt='El Firestick calienta la previa del Prime Day de octubre: ya lo puedes comprar casi a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/asus-lanza-portatil-zenbook-s-14-potencia-delgadez-dan-mano-ia-1408623'>Asus lanza el portátil Zenbook S 14, con una potencia y delgadez que le dan la mano a la IA</a></h4>
-    <a href='https://computerhoy.com/pc/asus-lanza-portatil-zenbook-s-14-potencia-delgadez-dan-mano-ia-1408623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/asus-zenbook-s-14-ux5406-4244402.jpg?tf=1200x' alt='Asus lanza el portátil Zenbook S 14, con una potencia y delgadez que le dan la mano a la IA' />
     </a>
 </div>
 
