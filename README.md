@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/experto-cerrajero-desvela-solucion-definitiva-poder-abrir-puerta-incluso-llave-puesta-dentro-1408489'>Un experto cerrajero desvela la solución definitiva para poder abrir la puerta incluso con la llave puesta por dentro</a></h4>
+    <a href='https://computerhoy.com/life/experto-cerrajero-desvela-solucion-definitiva-poder-abrir-puerta-incluso-llave-puesta-dentro-1408489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/experto-cerrajero-desvela-solucion-definitiva-poder-abrir-puerta-incluso-llave-puesta-dentro-4244240.jpg?tf=1200x' alt='Un experto cerrajero desvela la solución definitiva para poder abrir la puerta incluso con la llave puesta por dentro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/dime-como-apuras-tubo-pasta-dientes-te-dire-eres-persona-inteligente-psicologia-1408464'>Dime cómo apuras el tubo de pasta de dientes y te diré si eres una persona inteligente, según la psicología</a></h4>
     <a href='https://computerhoy.com/life/dime-como-apuras-tubo-pasta-dientes-te-dire-eres-persona-inteligente-psicologia-1408464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dime-como-apuras-tubo-pasta-dientes-te-dire-eres-persona-inteligente-psicologia-4244229.jpg?tf=1200x' alt='Dime cómo apuras el tubo de pasta de dientes y te diré si eres una persona inteligente, según la psicología' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/cientificos-aseguran-pandemia-covid-tuvo-efectos-incluso-luna-1408490'>Científicos aseguran que la pandemia del COVID tuvo efectos incluso en la Luna</a></h4>
     <a href='https://computerhoy.com/espacio/cientificos-aseguran-pandemia-covid-tuvo-efectos-incluso-luna-1408490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/luna-4244216.jpg?tf=1200x' alt='Científicos aseguran que la pandemia del COVID tuvo efectos incluso en la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-dejando-ko-muchos-pc-piensatelo-dos-veces-1408488'>La última actualización de Windows 11 está dejando KO muchos PC, piénsatelo dos veces</a></h4>
-    <a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-dejando-ko-muchos-pc-piensatelo-dos-veces-1408488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/errores-windows-11-4244215.jpg?tf=1200x' alt='La última actualización de Windows 11 está dejando KO muchos PC, piénsatelo dos veces' />
     </a>
 </div>
 
