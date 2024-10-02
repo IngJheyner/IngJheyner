@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nvidia-dice-adios-geforce-experience-hola-nueva-app-todo-1408576'>Nvidia dice 'adiós' a GeForce Experience y 'hola' a la nueva app todo en uno</a></h4>
+    <a href='https://computerhoy.com/gaming/nvidia-dice-adios-geforce-experience-hola-nueva-app-todo-1408576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/geforce-experience-nvidia-4244335.jpg?tf=1200x' alt='Nvidia dice 'adiós' a GeForce Experience y 'hola' a la nueva app todo en uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-abre-veda-mejor-todos-kindle-adelanta-prime-day-ya-tiene-casi-100-euros-descuento-1408533'>Amazon abre la veda: el mejor de todos los Kindle se adelanta al Prime Day y ya tiene casi 100 euros de descuento </a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-abre-veda-mejor-todos-kindle-adelanta-prime-day-ya-tiene-casi-100-euros-descuento-1408533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kindle-scribe-3150238.jpg?tf=1200x' alt='Amazon abre la veda: el mejor de todos los Kindle se adelanta al Prime Day y ya tiene casi 100 euros de descuento ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple-prepara-arsenal-dispositivos-economicos-2025-iphone-4-ipad-air-ipad-mini-1408554'>Este es el arsenal de dispositivos económicos que Apple tiene preparado para lanzar en 2025 </a></h4>
     <a href='https://computerhoy.com/apple-prepara-arsenal-dispositivos-economicos-2025-iphone-4-ipad-air-ipad-mini-1408554' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656605.jpg?tf=1200x' alt='Este es el arsenal de dispositivos económicos que Apple tiene preparado para lanzar en 2025 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-firestick-xiaomi-alternativa-android-plex-kodi-1396088'>Di adiós a los Firestick: Xiaomi tiene una alternativa con Android en la que sí puedes instalar Kodi y Plex</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-firestick-xiaomi-alternativa-android-plex-kodi-1396088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/xiaomi-mi-tv-stick-3747135.jpg?tf=1200x' alt='Di adiós a los Firestick: Xiaomi tiene una alternativa con Android en la que sí puedes instalar Kodi y Plex' />
     </a>
 </div>
 
