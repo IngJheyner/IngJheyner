@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/consola-android-viral-arrasa-fans-retro-llega-espana-pantalla-amoled-diseno-tipo-switch-precio-rebajado-1408218'>La consola Android viral que arrasa entre los fans de lo retro llega a España: pantalla AMOLED, diseño tipo Switch y precio rebajado</a></h4>
+    <a href='https://computerhoy.com/gaming/consola-android-viral-arrasa-fans-retro-llega-espana-pantalla-amoled-diseno-tipo-switch-precio-rebajado-1408218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/anbernic-rg556-4243784.jpg?tf=1200x' alt='La consola Android viral que arrasa entre los fans de lo retro llega a España: pantalla AMOLED, diseño tipo Switch y precio rebajado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-amplia-lista-moviles-eos-tienes-alguno-ellos-deshazte-no-seguro-1408794'>Xiaomi amplía su lista de móviles EOS: si tienes alguno de ellos, deshazte de él, no es seguro</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-amplia-lista-moviles-eos-tienes-alguno-ellos-deshazte-no-seguro-1408794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tienda-xiaomi-4244738.jpg?tf=1200x' alt='Xiaomi amplía su lista de móviles EOS: si tienes alguno de ellos, deshazte de él, no es seguro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-acaba-hololens-no-puede-competir-vision-pro-meta-quest-1408743'>Microsoft acaba con las HoloLens: no puede competir con las Vision Pro y las Meta Quest</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-acaba-hololens-no-puede-competir-vision-pro-meta-quest-1408743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/microsoft-acaba-hololens-no-puede-competir-vision-pro-meta-quest-4244651.jpg?tf=1200x' alt='Microsoft acaba con las HoloLens: no puede competir con las Vision Pro y las Meta Quest' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-ver-satelites-starlink-dia-hora-ciudad-1408649'>Cómo ver los satélites Starlink: día, hora y dónde mirar cuando pases por tu ciudad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-ver-satelites-starlink-dia-hora-ciudad-1408649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/satelites-starlink-spacex-cielo-4244509.jpg?tf=1200x' alt='Cómo ver los satélites Starlink: día, hora y dónde mirar cuando pases por tu ciudad' />
     </a>
 </div>
 
