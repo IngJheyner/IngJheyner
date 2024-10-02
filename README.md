@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/copilot-mata-ian-mckellen-william-shatner-david-attenborough-otros-famosos-1408832'>Copilot "mata" a Ian McKellen, William Shatner, David Attenborough y otros famosos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/copilot-mata-ian-mckellen-william-shatner-david-attenborough-otros-famosos-1408832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/copilot-mata-ian-mckellen-william-shatner-david-attenborough-otros-famosos-4244793.jpg?tf=1200x' alt='Copilot "mata" a Ian McKellen, William Shatner, David Attenborough y otros famosos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/experto-cervecero-desvela-tiktok-diferencia-cerveza-especial-extra-normal-1408775'>Un experto cervecero desvela en TikTok la diferencia entre la cerveza especial, extra y normal</a></h4>
     <a href='https://computerhoy.com/life/experto-cervecero-desvela-tiktok-diferencia-cerveza-especial-extra-normal-1408775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/experto-cervecero-desvela-tiktok-diferencia-cerveza-especial-extra-normal-4244784.jpg?tf=1200x' alt='Un experto cervecero desvela en TikTok la diferencia entre la cerveza especial, extra y normal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-amplia-lista-moviles-eos-tienes-alguno-ellos-deshazte-no-seguro-1408794'>Xiaomi amplía su lista de móviles EOS: si tienes alguno de ellos, deshazte de él, no es seguro</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-amplia-lista-moviles-eos-tienes-alguno-ellos-deshazte-no-seguro-1408794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tienda-xiaomi-4244738.jpg?tf=1200x' alt='Xiaomi amplía su lista de móviles EOS: si tienes alguno de ellos, deshazte de él, no es seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bill-gates-renunciaria-mitad-riquezas-solucionar-estos-dos-problemas-humanidad-1408755'>Bill Gates renunciaría a la mitad de sus riquezas por solucionar estos dos problemas de la humanidad</a></h4>
-    <a href='https://computerhoy.com/life/bill-gates-renunciaria-mitad-riquezas-solucionar-estos-dos-problemas-humanidad-1408755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bill-gates-renunciaria-mitad-riquezas-solucionar-estos-dos-problemas-humanidad-4244757.jpg?tf=1200x' alt='Bill Gates renunciaría a la mitad de sus riquezas por solucionar estos dos problemas de la humanidad' />
     </a>
 </div>
 
