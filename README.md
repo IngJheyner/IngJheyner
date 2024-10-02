@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-amplia-lista-moviles-eos-tienes-alguno-ellos-deshazte-no-seguro-1408794'>Xiaomi amplía su lista de móviles EOS: si tienes alguno de ellos, deshazte de él, no es seguro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-amplia-lista-moviles-eos-tienes-alguno-ellos-deshazte-no-seguro-1408794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tienda-xiaomi-4244738.jpg?tf=1200x' alt='Xiaomi amplía su lista de móviles EOS: si tienes alguno de ellos, deshazte de él, no es seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/bill-gates-renunciaria-mitad-riquezas-solucionar-estos-dos-problemas-humanidad-1408755'>Bill Gates renunciaría a la mitad de sus riquezas por solucionar estos dos problemas de la humanidad</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-renunciaria-mitad-riquezas-solucionar-estos-dos-problemas-humanidad-1408755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bill-gates-renunciaria-mitad-riquezas-solucionar-estos-dos-problemas-humanidad-4244757.jpg?tf=1200x' alt='Bill Gates renunciaría a la mitad de sus riquezas por solucionar estos dos problemas de la humanidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ya-disponible-microsoft-office-2024-alternativa-office-365-precio-todas-novedades-1408786'>Ya disponible Microsoft Office 2024, la alternativa a Office 365: precio y todas las novedades</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-disponible-microsoft-office-2024-alternativa-office-365-precio-todas-novedades-1408786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/office-2024-4244728.jpg?tf=1200x' alt='Ya disponible Microsoft Office 2024, la alternativa a Office 365: precio y todas las novedades' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-ver-satelites-starlink-dia-hora-ciudad-1408649'>Cómo ver los satélites Starlink: día, hora y dónde mirar cuando pases por tu ciudad</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-ver-satelites-starlink-dia-hora-ciudad-1408649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/satelites-starlink-spacex-cielo-4244509.jpg?tf=1200x' alt='Cómo ver los satélites Starlink: día, hora y dónde mirar cuando pases por tu ciudad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/temperatura-ideal-encender-calefaccion-1408642'>Un experto revela qué temperatura debe alcanzar tu casa antes de encender la calefacción</a></h4>
-    <a href='https://computerhoy.com/hogar/temperatura-ideal-encender-calefaccion-1408642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/persona-pasando-frio-4244496.jpg?tf=1200x' alt='Un experto revela qué temperatura debe alcanzar tu casa antes de encender la calefacción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/abandona-netflix-mejor-pelicula-steven-spielberg-lista-schindler-1408628'>Abandona Netflix la mejor película de Steven Spielberg y una de las obras maestras del cine: aquí puedes seguir viéndola en streaming</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/abandona-netflix-mejor-pelicula-steven-spielberg-lista-schindler-1408628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/steven-spielberg-2707933.jpg?tf=1200x' alt='Abandona Netflix la mejor película de Steven Spielberg y una de las obras maestras del cine: aquí puedes seguir viéndola en streaming' />
     </a>
 </div>
 
