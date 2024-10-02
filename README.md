@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-miedo-chatgpt-noam-shazeer-1408551'>Google tiene tanto miedo a ChatGPT que pagará 2.500 millones de euros para volver a contratar a un antiguo empleado</a></h4>
+    <a href='https://computerhoy.com/google/google-miedo-chatgpt-noam-shazeer-1408551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-tiene-tanto-miedo-chatgpt-pagara-2500-millones-euros-volver-contratar-antiguo-empleado-4244331.jpg?tf=1200x' alt='Google tiene tanto miedo a ChatGPT que pagará 2.500 millones de euros para volver a contratar a un antiguo empleado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/firestick-calienta-previa-prime-day-octubre-ya-puedes-comprar-casi-mitad-precio-1408538'>El Firestick calienta la previa del Prime Day de octubre: ya lo puedes comprar casi a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/firestick-calienta-previa-prime-day-octubre-ya-puedes-comprar-casi-mitad-precio-1408538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-3223450.jpg?tf=1200x' alt='El Firestick calienta la previa del Prime Day de octubre: ya lo puedes comprar casi a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/asus-lanza-portatil-zenbook-s-14-potencia-delgadez-dan-mano-ia-1408623'>Asus lanza el portátil Zenbook S 14, con una potencia y delgadez que le dan la mano a la IA</a></h4>
+    <a href='https://computerhoy.com/pc/asus-lanza-portatil-zenbook-s-14-potencia-delgadez-dan-mano-ia-1408623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/asus-zenbook-s-14-ux5406-4244402.jpg?tf=1200x' alt='Asus lanza el portátil Zenbook S 14, con una potencia y delgadez que le dan la mano a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-simplifica-ia-desarrolladores-podran-crear-asistentes-voz-abrir-cerrar-ojos-1408584'>OpenAI simplifica la IA y los desarrolladores podrán crear asistentes de voz en un abrir y cerrar de ojos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-simplifica-ia-desarrolladores-podran-crear-asistentes-voz-abrir-cerrar-ojos-1408584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/openai-devday-4244344.jpg?tf=1200x' alt='OpenAI simplifica la IA y los desarrolladores podrán crear asistentes de voz en un abrir y cerrar de ojos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/nvidia-dice-adios-geforce-experience-hola-nueva-app-todo-1408576'>Nvidia dice 'adiós' a GeForce Experience y 'hola' a la nueva app todo en uno</a></h4>
     <a href='https://computerhoy.com/gaming/nvidia-dice-adios-geforce-experience-hola-nueva-app-todo-1408576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/geforce-experience-nvidia-4244335.jpg?tf=1200x' alt='Nvidia dice 'adiós' a GeForce Experience y 'hola' a la nueva app todo en uno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-abre-veda-mejor-todos-kindle-adelanta-prime-day-ya-tiene-casi-100-euros-descuento-1408533'>Amazon abre la veda: el mejor de todos los Kindle se adelanta al Prime Day y ya tiene casi 100 euros de descuento </a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-abre-veda-mejor-todos-kindle-adelanta-prime-day-ya-tiene-casi-100-euros-descuento-1408533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kindle-scribe-3150238.jpg?tf=1200x' alt='Amazon abre la veda: el mejor de todos los Kindle se adelanta al Prime Day y ya tiene casi 100 euros de descuento ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-listo-evento-octubre-nuevos-ipad-mac-m4-vista-1408565'>Apple listo para un evento en octubre con nuevos iPad y Mac M4 a la vista</a></h4>
-    <a href='https://computerhoy.com/apple/apple-listo-evento-octubre-nuevos-ipad-mac-m4-vista-1408565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389273.jpg?tf=1200x' alt='Apple listo para un evento en octubre con nuevos iPad y Mac M4 a la vista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-inventa-teclado-imposible-1408555'> Google inventa el teclado imposible</a></h4>
-    <a href='https://computerhoy.com/google/google-inventa-teclado-imposible-1408555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1727852421743-4244296.jpg?tf=1200x' alt=' Google inventa el teclado imposible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple-prepara-arsenal-dispositivos-economicos-2025-iphone-4-ipad-air-ipad-mini-1408554'>Este es el arsenal de dispositivos económicos que Apple tiene preparado para lanzar en 2025 </a></h4>
-    <a href='https://computerhoy.com/apple-prepara-arsenal-dispositivos-economicos-2025-iphone-4-ipad-air-ipad-mini-1408554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656605.jpg?tf=1200x' alt='Este es el arsenal de dispositivos económicos que Apple tiene preparado para lanzar en 2025 ' />
     </a>
 </div>
 
