@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/devoluciones-amazon-cambian-condiciones-2025-podria-afectarte-forma-1408711'>Devoluciones de Amazon: cambian las condiciones en 2025, y podría afectarte de esta forma</a></h4>
+    <a href='https://computerhoy.com/life/devoluciones-amazon-cambian-condiciones-2025-podria-afectarte-forma-1408711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-4244559.jpg?tf=1200x' alt='Devoluciones de Amazon: cambian las condiciones en 2025, y podría afectarte de esta forma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/steam-puede-temblar-portatil-i7-rtx-4070-barato-nunca-hara-juegos-vuelen-1407888'>Steam puede temblar: este portátil con i7 y RTX 4070 es más barato que nunca y hará que tus juegos vuelen</a></h4>
+    <a href='https://computerhoy.com/tecnologia/steam-puede-temblar-portatil-i7-rtx-4070-barato-nunca-hara-juegos-vuelen-1407888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-hp-victus-16-2544989.jpg?tf=1200x' alt='Steam puede temblar: este portátil con i7 y RTX 4070 es más barato que nunca y hará que tus juegos vuelen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-saber-bizum-falso-1406302'>¿Cómo saber si un Bizum es falso?</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-saber-bizum-falso-1406302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bizum-4244519.jpg?tf=1200x' alt='¿Cómo saber si un Bizum es falso?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-conectar-nintendo-switch-televisor-necesidad-dock-1407090'>Cómo conectar una Nintendo Switch al televisor sin necesidad del dock</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-conectar-nintendo-switch-televisor-necesidad-dock-1407090' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/conexion-nintendo-switch-smart-tv-4241854.jpg?tf=1200x' alt='Cómo conectar una Nintendo Switch al televisor sin necesidad del dock' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ordenadores-cuanticos-ejecutar-doom-1408645'>Por qué los ordenadores cuánticos todavía no pueden ejecutar Doom (cuando hasta un test de embarazo lo puede hacer)</a></h4>
-    <a href='https://computerhoy.com/gaming/ordenadores-cuanticos-ejecutar-doom-1408645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ordenadores-cuanticos-todavia-no-pueden-ejecutar-doom-cuando-tostadora-puede-hacer-4244462.jpg?tf=1200x' alt='Por qué los ordenadores cuánticos todavía no pueden ejecutar Doom (cuando hasta un test de embarazo lo puede hacer)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/subida-precio-chatgpt-1407742'>Adiós a ChatGPT para todos: OpenAI planea subir el precio a más del doble en los próximos años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/subida-precio-chatgpt-1407742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chatgpt-4244525.jpg?tf=1200x' alt='Adiós a ChatGPT para todos: OpenAI planea subir el precio a más del doble en los próximos años' />
     </a>
 </div>
 
