@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-abre-veda-mejor-todos-kindle-adelanta-prime-day-ya-tiene-casi-100-euros-descuento-1408533'>Amazon abre la veda: el mejor de todos los Kindle se adelanta al Prime Day y ya tiene casi 100 euros de descuento </a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-abre-veda-mejor-todos-kindle-adelanta-prime-day-ya-tiene-casi-100-euros-descuento-1408533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kindle-scribe-3150238.jpg?tf=1200x' alt='Amazon abre la veda: el mejor de todos los Kindle se adelanta al Prime Day y ya tiene casi 100 euros de descuento ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-listo-evento-octubre-nuevos-ipad-mac-m4-vista-1408565'>Apple listo para un evento en octubre con nuevos iPad y Mac M4 a la vista</a></h4>
+    <a href='https://computerhoy.com/apple/apple-listo-evento-octubre-nuevos-ipad-mac-m4-vista-1408565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389273.jpg?tf=1200x' alt='Apple listo para un evento en octubre con nuevos iPad y Mac M4 a la vista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-inventa-teclado-imposible-1408555'> Google inventa el teclado imposible</a></h4>
+    <a href='https://computerhoy.com/google/google-inventa-teclado-imposible-1408555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1727852421743-4244296.jpg?tf=1200x' alt=' Google inventa el teclado imposible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple-prepara-arsenal-dispositivos-economicos-2025-iphone-4-ipad-air-ipad-mini-1408554'>Este es el arsenal de dispositivos económicos que Apple tiene preparado para lanzar en 2025 </a></h4>
+    <a href='https://computerhoy.com/apple-prepara-arsenal-dispositivos-economicos-2025-iphone-4-ipad-air-ipad-mini-1408554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656605.jpg?tf=1200x' alt='Este es el arsenal de dispositivos económicos que Apple tiene preparado para lanzar en 2025 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/adios-firestick-xiaomi-alternativa-android-plex-kodi-1396088'>Di adiós a los Firestick: Xiaomi tiene una alternativa con Android en la que sí puedes instalar Kodi y Plex</a></h4>
     <a href='https://computerhoy.com/tecnologia/adios-firestick-xiaomi-alternativa-android-plex-kodi-1396088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/xiaomi-mi-tv-stick-3747135.jpg?tf=1200x' alt='Di adiós a los Firestick: Xiaomi tiene una alternativa con Android en la que sí puedes instalar Kodi y Plex' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/thermomix-barata-aldi-1407986'>Ni Thermomix ni Lidl Monsieur Cuisine: el robot de cocina de Aldi hace por mucho menos con esta oferta</a></h4>
-    <a href='https://computerhoy.com/alimentacion/thermomix-barata-aldi-1407986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/alternativa-aldi-thermomix-llega-menos-280-euros-4243359.jpg?tf=1200x' alt='Ni Thermomix ni Lidl Monsieur Cuisine: el robot de cocina de Aldi hace por mucho menos con esta oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ni-bueno-lavadora-ni-ahorras-energia-deja-usar-este-programa-1393886'>Ni es bueno para tu lavadora, ni ahorras energía: este es el programa que debes dejar de usar</a></h4>
-    <a href='https://computerhoy.com/hogar/ni-bueno-lavadora-ni-ahorras-energia-deja-usar-este-programa-1393886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/panico-lavadora-3649553.jpg?tf=1200x' alt='Ni es bueno para tu lavadora, ni ahorras energía: este es el programa que debes dejar de usar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-blade-runner-ni-alien-olvidado-thriller-ridley-scott-1407913'>Ni Blade Runner ni Alien: este es el olvidado thriller de Ridley Scott que más demuestra su amor por el cine clásico</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-blade-runner-ni-alien-olvidado-thriller-ridley-scott-1407913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ni-blade-runner-ni-alien-olvidado-thriller-ridley-scott-demuestra-amor-cine-clasico-4243237.jpg?tf=1200x' alt='Ni Blade Runner ni Alien: este es el olvidado thriller de Ridley Scott que más demuestra su amor por el cine clásico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-matepad-pro-me-ha-dejado-ganas-gracias-diseno-irresistible-pantalla-tandem-oled-estoy-deseando-probarla-fondo-1408077'>La Huawei MatePad Pro me ha dejado con ganas de más gracias a su diseño y a su irresistible pantalla Tandem OLED: estoy deseando probarla a fondo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-matepad-pro-me-ha-dejado-ganas-gracias-diseno-irresistible-pantalla-tandem-oled-estoy-deseando-probarla-fondo-1408077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-matepad-pro-122-4243655.jpg?tf=1200x' alt='La Huawei MatePad Pro me ha dejado con ganas de más gracias a su diseño y a su irresistible pantalla Tandem OLED: estoy deseando probarla a fondo' />
     </a>
 </div>
 
