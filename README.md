@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-saber-bizum-falso-1406302'>¿Cómo saber si un Bizum es falso?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-saber-bizum-falso-1406302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bizum-4244519.jpg?tf=1200x' alt='¿Cómo saber si un Bizum es falso?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/como-acceder-nas-desde-cualquier-movil-1405848'>Cómo acceder al NAS desde cualquier móvil</a></h4>
     <a href='https://computerhoy.com/como-acceder-nas-desde-cualquier-movil-1405848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nas-movil-4234783.jpg?tf=1200x' alt='Cómo acceder al NAS desde cualquier móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/subida-precio-chatgpt-1407742'>Adiós a ChatGPT para todos: OpenAI planea subir el precio a más del doble en los próximos años</a></h4>
     <a href='https://computerhoy.com/tecnologia/subida-precio-chatgpt-1407742' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chatgpt-4244525.jpg?tf=1200x' alt='Adiós a ChatGPT para todos: OpenAI planea subir el precio a más del doble en los próximos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/italia-aprueba-ley-agresiva-fecha-iptv-podria-llegar-pronto-espana-1408669'>Italia aprueba la ley más agresiva hasta la fecha contra las IPTV que podría llegar pronto a España</a></h4>
-    <a href='https://computerhoy.com/tv/italia-aprueba-ley-agresiva-fecha-iptv-podria-llegar-pronto-espana-1408669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/iptv-ilegal-futbol-3983719.jpg?tf=1200x' alt='Italia aprueba la ley más agresiva hasta la fecha contra las IPTV que podría llegar pronto a España' />
     </a>
 </div>
 
