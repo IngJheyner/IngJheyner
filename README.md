@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/contrasenas-obsoletas-expertos-grave-peligro-1408971'>La mayoría de contraseñas han quedado obsoletas, según los expertos, y pueden ponerte en grave peligro</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/contrasenas-obsoletas-expertos-grave-peligro-1408971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mayoria-contrasenas-han-quedado-obsoletas-expertos-pueden-ponerte-peligro-4244978.jpg?tf=1200x' alt='La mayoría de contraseñas han quedado obsoletas, según los expertos, y pueden ponerte en grave peligro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/electrodomestico-cocinas-modernas-peligro-estafa-1407801'>Este electrodoméstico ya está en muchas cocinas modernas, pero un experto advierte de su peligro: “Es una estafa”</a></h4>
     <a href='https://computerhoy.com/hogar/electrodomestico-cocinas-modernas-peligro-estafa-1407801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/electrodomestico-ya-muchas-cocinas-modernas-pero-experto-advierte-peligro-estafa-4243087.jpg?tf=1200x' alt='Este electrodoméstico ya está en muchas cocinas modernas, pero un experto advierte de su peligro: “Es una estafa”' />
@@ -69,14 +77,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/no-abras-correo-policia-nacional-alerta-campana-phishing-suplanta-identidad-1408979'>No abras este correo: la Policía Nacional alerta de una campaña de phishing que suplanta su identidad</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/no-abras-correo-policia-nacional-alerta-campana-phishing-suplanta-identidad-1408979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/concurso_phishing_google.jpg?tf=1200x' alt='No abras este correo: la Policía Nacional alerta de una campaña de phishing que suplanta su identidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejores-canales-telegram-descargar-libros-ebook-gratis-pdf-epub-legal-1405899'>Estos son los mejores canales de Telegram para descargar libros gratis en PDF de forma legal</a></h4>
-    <a href='https://computerhoy.com/internet/mejores-canales-telegram-descargar-libros-ebook-gratis-pdf-epub-legal-1405899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/libros-gratis-telegram-4245001.jpg?tf=1200x' alt='Estos son los mejores canales de Telegram para descargar libros gratis en PDF de forma legal' />
     </a>
 </div>
 
