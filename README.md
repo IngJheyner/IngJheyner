@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oura-ring-4-anillo-inteligente-renueva-competir-samsung-galaxy-ring-1408970'>Oura Ring 4, el anillo inteligente se renueva para competir con el Samsung Galaxy Ring</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oura-ring-4-anillo-inteligente-renueva-competir-samsung-galaxy-ring-1408970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oura-ring-4-4244902.jpg?tf=1200x' alt='Oura Ring 4, el anillo inteligente se renueva para competir con el Samsung Galaxy Ring' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-maps-notificacion-incidentes-android-auto-podria-no-funcionar-coche-culpa-pantalla-1408905'>Google Maps: la notificación de incidentes de Android Auto podría no funcionar en tu coche por culpa de la pantalla</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-notificacion-incidentes-android-auto-podria-no-funcionar-coche-culpa-pantalla-1408905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fallo-android-auto-4021036.jpg?tf=1200x' alt='Google Maps: la notificación de incidentes de Android Auto podría no funcionar en tu coche por culpa de la pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/frigorifico-americano-dos-puertas-barato-normal-puedes-tener-manana-casa-1408228'>Este frigorífico americano de dos puertas es más barato que uno normal, y lo puedes tener mañana en casa</a></h4>
     <a href='https://computerhoy.com/tecnologia/frigorifico-americano-dos-puertas-barato-normal-puedes-tener-manana-casa-1408228' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/origial-cool-and-breeze-sbs-4243804.jpg?tf=1200x' alt='Este frigorífico americano de dos puertas es más barato que uno normal, y lo puedes tener mañana en casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/amazon-lanza-version-google-lens-busqueda-productos-ia-1408883'>Amazon lanza su versión de Google Lens para la búsqueda de productos con IA</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-lanza-version-google-lens-busqueda-productos-ia-1408883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-novedades-4244865.jpg?tf=1200x' alt='Amazon lanza su versión de Google Lens para la búsqueda de productos con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/epic-games-store-apuesta-juegos-gratuitos-movil-competir-google-play-store-1408881'>Epic Games Store apuesta por los juegos gratuitos para el móvil para competir con Google Play Store</a></h4>
-    <a href='https://computerhoy.com/gaming/epic-games-store-apuesta-juegos-gratuitos-movil-competir-google-play-store-1408881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/epic-games-store-apuesta-juegos-gratuitos-movil-competir-google-play-store-4244858.jpg?tf=1200x' alt='Epic Games Store apuesta por los juegos gratuitos para el móvil para competir con Google Play Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-regala-15-euros-debes-hacer-conseguirlos-1408852'>Amazon regala 15 euros: esto es lo que debes hacer para conseguirlos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-regala-15-euros-debes-hacer-conseguirlos-1408852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cupon-tarjeta-amazon-3073164.jpg?tf=1200x' alt='Amazon regala 15 euros: esto es lo que debes hacer para conseguirlos' />
     </a>
 </div>
 
