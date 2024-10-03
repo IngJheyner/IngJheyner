@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/playstation-usuarios-unen-especuladores-ps5-30-aniversario-1409117'>Playstation y los usuarios se unen contra los especuladores de PS5 30 aniversario: "muchos se van a 'comer' las consolas"</a></h4>
+    <a href='https://computerhoy.com/gaming/playstation-usuarios-unen-especuladores-ps5-30-aniversario-1409117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/playstation-usuarios-unen-especuladores-ps5-30-aniversario-muchos-van-comer-consolas-4245197.jpg?tf=1200x' alt='Playstation y los usuarios se unen contra los especuladores de PS5 30 aniversario: "muchos se van a 'comer' las consolas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/estan-escuchando-misteriosos-ruidos-similares-terremoto-todo-mundo-nadie-sabe-son-1409103'>Se están escuchando misteriosos ruidos similares al de un terremoto en todo el mundo y nadie sabe qué son</a></h4>
     <a href='https://computerhoy.com/life/estan-escuchando-misteriosos-ruidos-similares-terremoto-todo-mundo-nadie-sabe-son-1409103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/torre-alto-voltaje-4245185.jpg?tf=1200x' alt='Se están escuchando misteriosos ruidos similares al de un terremoto en todo el mundo y nadie sabe qué son' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/aviso-critico-86-router-wifi-deberian-cambiar-contrasena-inmediato-1409096'>Aviso crítico: el 86% de los router WiFi deberían cambiar su contraseña de inmediato</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/aviso-critico-86-router-wifi-deberian-cambiar-contrasena-inmediato-1409096' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/router-wifi-4245176.jpg?tf=1200x' alt='Aviso crítico: el 86% de los router WiFi deberían cambiar su contraseña de inmediato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/adios-mitico-escribiendo-whatsapp-veras-partir-ahora-cuando-hables-madre-1409095'>Adiós al mítico "escribiendo" de WhatsApp: esto es lo que verás a partir de ahora cuando hables con tu madre</a></h4>
-    <a href='https://computerhoy.com/apps/adios-mitico-escribiendo-whatsapp-veras-partir-ahora-cuando-hables-madre-1409095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mujer-usando-whatsapp-4245175.jpg?tf=1200x' alt='Adiós al mítico "escribiendo" de WhatsApp: esto es lo que verás a partir de ahora cuando hables con tu madre' />
     </a>
 </div>
 
