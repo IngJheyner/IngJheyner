@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-regala-15-euros-debes-hacer-conseguirlos-1408852'>Amazon regala 15 euros: esto es lo que debes hacer para conseguirlos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-regala-15-euros-debes-hacer-conseguirlos-1408852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cupon-tarjeta-amazon-3073164.jpg?tf=1200x' alt='Amazon regala 15 euros: esto es lo que debes hacer para conseguirlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/alerta-ultima-actualizacion-windows-11-pantalla-azul-1408488'>Alerta mundial por una epidemia de “pantallas azules de la muerte” en Windows: cómo solucionarla</a></h4>
+    <a href='https://computerhoy.com/windows/alerta-ultima-actualizacion-windows-11-pantalla-azul-1408488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/errores-windows-11-4244215.jpg?tf=1200x' alt='Alerta mundial por una epidemia de “pantallas azules de la muerte” en Windows: cómo solucionarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/te-miran-gafas-inteligentes-meta-ya-saben-todo-ti-dos-hackers-demuestran-1408877'>Dos hackers demuestran que con tan solo mirarte con las gafas inteligentes de Meta ya saben todo de ti</a></h4>
+    <a href='https://computerhoy.com/tecnologia/te-miran-gafas-inteligentes-meta-ya-saben-todo-ti-dos-hackers-demuestran-1408877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ray-ban-stories-facebook-analisis-opinion-2714595.jpg?tf=1200x' alt='Dos hackers demuestran que con tan solo mirarte con las gafas inteligentes de Meta ya saben todo de ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/panteon-roma-agujero-cupula-lluvia-1408878'>El Panteón de Roma tiene un agujero en su cúpula: ¿Por qué el suelo no se moja cuando llueve?</a></h4>
+    <a href='https://computerhoy.com/ciencia/panteon-roma-agujero-cupula-lluvia-1408878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/panteon-roma-tiene-gran-agujero-cupula-suelo-no-moja-cuando-llueve-4244837.jpg?tf=1200x' alt='El Panteón de Roma tiene un agujero en su cúpula: ¿Por qué el suelo no se moja cuando llueve?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-podria-acabar-futuras-redes-sociales-todo-culpa-ios-18-1408869'>Apple podría acabar las futuras redes sociales y todo por culpa de iOS 18 </a></h4>
     <a href='https://computerhoy.com/apple/apple-podria-acabar-futuras-redes-sociales-todo-culpa-ios-18-1408869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-3953855.jpg?tf=1200x' alt='Apple podría acabar las futuras redes sociales y todo por culpa de iOS 18 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-funciones-1284786'>Modo Dios de Android Auto: cómo activarlo y todas las cosas que puedes hacer con él</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-funciones-1284786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/modo-dios-android-auto-4244537.jpg?tf=1200x' alt='Modo Dios de Android Auto: cómo activarlo y todas las cosas que puedes hacer con él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/demuestran-tiempo-negativo-fotones-salen-material-antes-entrar-1408853'>Demuestran el 'tiempo negativo': fotones salen de un material antes de entrar</a></h4>
-    <a href='https://computerhoy.com/ciencia/demuestran-tiempo-negativo-fotones-salen-material-antes-entrar-1408853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/demuestran-tiempo-negativo-fotones-salen-material-antes-entrar-4244819.jpg?tf=1200x' alt='Demuestran el 'tiempo negativo': fotones salen de un material antes de entrar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/no-son-airpods-ni-sony-pero-estos-auriculares-boton-pueden-ser-todos-1406640'>No son AirPods ni Sony, pero estos auriculares de botón pueden ser para todos</a></h4>
-    <a href='https://computerhoy.com/audio/no-son-airpods-ni-sony-pero-estos-auriculares-boton-pueden-ser-todos-1406640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-pixel-buds-pro-2-4241517.jpg?tf=1200x' alt='No son AirPods ni Sony, pero estos auriculares de botón pueden ser para todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-watch-gt-5-pro-diseno-elegante-deportivo-1408070'>Lo que más me ha gustado del Huawei Watch GT 5 Pro es su diseño, elegante y deportivo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-watch-gt-5-pro-diseno-elegante-deportivo-1408070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-watch-gt-5-pro-4226623.jpg?tf=1200x' alt='Lo que más me ha gustado del Huawei Watch GT 5 Pro es su diseño, elegante y deportivo' />
     </a>
 </div>
 
