@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/fusion-magnetica-energia-infinita-1408586'>La fusión magnética revive: el futuro de la energía infinita está más cerca que nunca</a></h4>
+    <a href='https://computerhoy.com/ciencia/fusion-magnetica-energia-infinita-1408586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/atomos-4244361.jpg?tf=1200x' alt='La fusión magnética revive: el futuro de la energía infinita está más cerca que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-maps-truco-android-auto-ver-ruta-1408519'>Google Maps: el increíble truco en Android Auto para ver rápidamente hacia adelante en tu ruta</a></h4>
+    <a href='https://computerhoy.com/android/google-maps-truco-android-auto-ver-ruta-1408519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-increible-truco-android-auto-ver-rapidamente-adelante-ruta-4244255.jpg?tf=1200x' alt='Google Maps: el increíble truco en Android Auto para ver rápidamente hacia adelante en tu ruta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-overclocking-ordenador-portatil-aumentar-rendimiento-1408505'>Cómo hacer overclocking a un ordenador portátil para aumentar su rendimiento</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-overclocking-ordenador-portatil-aumentar-rendimiento-1408505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/overclocking-portatil-4244235.jpg?tf=1200x' alt='Cómo hacer overclocking a un ordenador portátil para aumentar su rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/mejores-trucos-leer-mensajes-whatsapp-tener-abrir-chats-1407420'>Los mejores trucos para leer los mensajes de WhatsApp sin tener que abrir los chats</a></h4>
+    <a href='https://computerhoy.com/tutoriales/mejores-trucos-leer-mensajes-whatsapp-tener-abrir-chats-1407420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mejores-trucos-leer-mensajes-whatsapp-tener-abrir-chats-4242461.jpg?tf=1200x' alt='Los mejores trucos para leer los mensajes de WhatsApp sin tener que abrir los chats' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/android-consola-anbernic-precio-saldo-aliexpress-1396699'>Android hecho consola: Anbernic deja su portátil más deseada a precio de saldo en AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/android-consola-anbernic-precio-saldo-aliexpress-1396699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/anbernic-rg505-3781328.jpg?tf=1200x' alt='Android hecho consola: Anbernic deja su portátil más deseada a precio de saldo en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ni-steve-jobs-ni-tim-cook-producto-exclusivo-apple-solo-tiene-persona-toda-compania-1408803'>Ni Steve Jobs ni Tim Cook, el producto exclusivo de Apple que solo tiene una persona en toda la compañía</a></h4>
-    <a href='https://computerhoy.com/apple/ni-steve-jobs-ni-tim-cook-producto-exclusivo-apple-solo-tiene-persona-toda-compania-1408803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-steve-jobs-ni-tim-cook-producto-exclusivo-apple-solo-tiene-persona-toda-compania-4244799.jpg?tf=1200x' alt='Ni Steve Jobs ni Tim Cook, el producto exclusivo de Apple que solo tiene una persona en toda la compañía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/copilot-mata-ian-mckellen-william-shatner-david-attenborough-otros-famosos-1408832'>Copilot "mata" a Ian McKellen, William Shatner, David Attenborough y otros famosos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/copilot-mata-ian-mckellen-william-shatner-david-attenborough-otros-famosos-1408832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/copilot-mata-ian-mckellen-william-shatner-david-attenborough-otros-famosos-4244793.jpg?tf=1200x' alt='Copilot "mata" a Ian McKellen, William Shatner, David Attenborough y otros famosos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/experto-cervecero-desvela-tiktok-diferencia-cerveza-especial-extra-normal-1408775'>Un experto cervecero desvela en TikTok la diferencia entre la cerveza especial, extra y normal</a></h4>
-    <a href='https://computerhoy.com/life/experto-cervecero-desvela-tiktok-diferencia-cerveza-especial-extra-normal-1408775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/experto-cervecero-desvela-tiktok-diferencia-cerveza-especial-extra-normal-4244784.jpg?tf=1200x' alt='Un experto cervecero desvela en TikTok la diferencia entre la cerveza especial, extra y normal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-carga-ryujinx-otro-emulador-nintendo-switch-1408822'>Nintendo se carga Ryujinx, otro emulador de Nintendo Switch que en teoría era inmune a las denuncias</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-carga-ryujinx-otro-emulador-nintendo-switch-1408822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/consola-nintendo-switch-3346180.jpg?tf=1200x' alt='Nintendo se carga Ryujinx, otro emulador de Nintendo Switch que en teoría era inmune a las denuncias' />
     </a>
 </div>
 
