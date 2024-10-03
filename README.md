@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estan-escuchando-misteriosos-ruidos-similares-terremoto-todo-mundo-nadie-sabe-son-1409103'>Se están escuchando misteriosos ruidos similares al de un terremoto en todo el mundo y nadie sabe qué son</a></h4>
+    <a href='https://computerhoy.com/life/estan-escuchando-misteriosos-ruidos-similares-terremoto-todo-mundo-nadie-sabe-son-1409103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/torre-alto-voltaje-4245185.jpg?tf=1200x' alt='Se están escuchando misteriosos ruidos similares al de un terremoto en todo el mundo y nadie sabe qué son' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-hace-2x1-nuevo-movil-tope-gama-viene-televisor-regalo-1408236'>Xiaomi hace un 2x1: su nuevo móvil tope de gama viene con televisor de regalo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-hace-2x1-nuevo-movil-tope-gama-viene-televisor-regalo-1408236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-14t-pro-xiaomi-tv-4243814.jpg?tf=1200x' alt='Xiaomi hace un 2x1: su nuevo móvil tope de gama viene con televisor de regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-estrena-menciones-privadas-corazones-verdes-ocultos-1409097'>WhatsApp estrena las menciones privadas y los corazones verdes ocultos</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-estrena-menciones-privadas-corazones-verdes-ocultos-1409097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-estrena-menciones-estados-privados-4245166.jpg?tf=1200x' alt='WhatsApp estrena las menciones privadas y los corazones verdes ocultos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/aviso-critico-86-router-wifi-deberian-cambiar-contrasena-inmediato-1409096'>Aviso crítico: el 86% de los router WiFi deberían cambiar su contraseña de inmediato</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/aviso-critico-86-router-wifi-deberian-cambiar-contrasena-inmediato-1409096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/router-wifi-4245176.jpg?tf=1200x' alt='Aviso crítico: el 86% de los router WiFi deberían cambiar su contraseña de inmediato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/adios-mitico-escribiendo-whatsapp-veras-partir-ahora-cuando-hables-madre-1409095'>Adiós al mítico "escribiendo" de WhatsApp: esto es lo que verás a partir de ahora cuando hables con tu madre</a></h4>
     <a href='https://computerhoy.com/apps/adios-mitico-escribiendo-whatsapp-veras-partir-ahora-cuando-hables-madre-1409095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mujer-usando-whatsapp-4245175.jpg?tf=1200x' alt='Adiós al mítico "escribiendo" de WhatsApp: esto es lo que verás a partir de ahora cuando hables con tu madre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-solucion-definitiva-abrir-puerta-llave-dentro-1408489'>La ruina de los cerrajeros: el truco definitivo para abrir la puerta, incluso con la llave puesta por dentro</a></h4>
-    <a href='https://computerhoy.com/life/truco-solucion-definitiva-abrir-puerta-llave-dentro-1408489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/abrir-cerradura-puerta-4245045.jpg?tf=1200x' alt='La ruina de los cerrajeros: el truco definitivo para abrir la puerta, incluso con la llave puesta por dentro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/oferta-iphone-16-banco-santander-1408967'>Si quieres un iPhone 16 y eres del Banco Santander, esto te interesa</a></h4>
-    <a href='https://computerhoy.com/apple/oferta-iphone-16-banco-santander-1408967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/comprar-iphone-16-banco-santander-4245029.jpg?tf=1200x' alt='Si quieres un iPhone 16 y eres del Banco Santander, esto te interesa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-mejores-peliculas-terror-modernas-no-te-dejara-indiferente-1408956'>Llega a Netflix una de las mejores películas de terror modernas: no te dejará indiferente</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-mejores-peliculas-terror-modernas-no-te-dejara-indiferente-1408956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/babadook-4245134.jpg?tf=1200x' alt='Llega a Netflix una de las mejores películas de terror modernas: no te dejará indiferente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/guardia-civil-multa-comprar-aliexpress-1408914'>Guardia Civil lo deja claro: si compras estos en AliExpress, lo que te llegará es una multa de 800 euros</a></h4>
-    <a href='https://computerhoy.com/internet/guardia-civil-multa-comprar-aliexpress-1408914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/guardia-civil-aliexpress-4245026.jpg?tf=1200x' alt='Guardia Civil lo deja claro: si compras estos en AliExpress, lo que te llegará es una multa de 800 euros' />
     </a>
 </div>
 
