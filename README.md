@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-podria-acabar-futuras-redes-sociales-todo-culpa-ios-18-1408869'>Apple podría acabar las futuras redes sociales y todo por culpa de iOS 18 </a></h4>
+    <a href='https://computerhoy.com/apple/apple-podria-acabar-futuras-redes-sociales-todo-culpa-ios-18-1408869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-3953855.jpg?tf=1200x' alt='Apple podría acabar las futuras redes sociales y todo por culpa de iOS 18 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-funciones-1284786'>Modo Dios de Android Auto: cómo activarlo y todas las cosas que puedes hacer con él</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-funciones-1284786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/modo-dios-android-auto-4244537.jpg?tf=1200x' alt='Modo Dios de Android Auto: cómo activarlo y todas las cosas que puedes hacer con él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/demuestran-tiempo-negativo-fotones-salen-material-antes-entrar-1408853'>Demuestran el 'tiempo negativo': fotones salen de un material antes de entrar</a></h4>
     <a href='https://computerhoy.com/ciencia/demuestran-tiempo-negativo-fotones-salen-material-antes-entrar-1408853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/demuestran-tiempo-negativo-fotones-salen-material-antes-entrar-4244819.jpg?tf=1200x' alt='Demuestran el 'tiempo negativo': fotones salen de un material antes de entrar' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-watch-gt-5-pro-diseno-elegante-deportivo-1408070'>Lo que más me ha gustado de Huawei Watch GT 5 Pro es su diseño, elegante y deportivo</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-watch-gt-5-pro-diseno-elegante-deportivo-1408070'>Lo que más me ha gustado del Huawei Watch GT 5 Pro es su diseño, elegante y deportivo</a></h4>
     <a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-watch-gt-5-pro-diseno-elegante-deportivo-1408070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-watch-gt-5-pro-4226623.jpg?tf=1200x' alt='Lo que más me ha gustado de Huawei Watch GT 5 Pro es su diseño, elegante y deportivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-secreto-electricidad-estatica-impacto-universo-1408613'>Descubren el secreto de la electricidad estática y su impacto en el universo</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-secreto-electricidad-estatica-impacto-universo-1408613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nina-pelos-punta-electricidad-estatica-4244391.jpg?tf=1200x' alt='Descubren el secreto de la electricidad estática y su impacto en el universo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/fusion-magnetica-energia-infinita-1408586'>La fusión magnética revive: el futuro de la energía infinita está más cerca que nunca</a></h4>
-    <a href='https://computerhoy.com/ciencia/fusion-magnetica-energia-infinita-1408586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/atomos-4244361.jpg?tf=1200x' alt='La fusión magnética revive: el futuro de la energía infinita está más cerca que nunca' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-watch-gt-5-pro-4226623.jpg?tf=1200x' alt='Lo que más me ha gustado del Huawei Watch GT 5 Pro es su diseño, elegante y deportivo' />
     </a>
 </div>
 
