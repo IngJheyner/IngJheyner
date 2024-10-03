@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-interfaz-audio-pc-windows-1404141'>Cómo usar una interfaz de audio en tu PC con Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-interfaz-audio-pc-windows-1404141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/usar-interfaz-audio-pc-4138253.jpg?tf=1200x' alt='Cómo usar una interfaz de audio en tu PC con Windows' />
+    <h4><a href='https://computerhoy.com/life/truco-solucion-definitiva-abrir-puerta-llave-dentro-1408489'>La ruina de los cerrajeros: el truco definitivo para abrir la puerta, incluso con la llave puesta por dentro</a></h4>
+    <a href='https://computerhoy.com/life/truco-solucion-definitiva-abrir-puerta-llave-dentro-1408489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/abrir-cerradura-puerta-4245045.jpg?tf=1200x' alt='La ruina de los cerrajeros: el truco definitivo para abrir la puerta, incluso con la llave puesta por dentro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/contrasenas-obsoletas-expertos-grave-peligro-1408971'>La mayoría de contraseñas han quedado obsoletas, según los expertos, y pueden ponerte en grave peligro</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/contrasenas-obsoletas-expertos-grave-peligro-1408971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mayoria-contrasenas-han-quedado-obsoletas-expertos-pueden-ponerte-peligro-4244978.jpg?tf=1200x' alt='La mayoría de contraseñas han quedado obsoletas, según los expertos, y pueden ponerte en grave peligro' />
+    <h4><a href='https://computerhoy.com/apple/oferta-iphone-16-banco-santander-1408967'>Si quieres un iPhone 16 y eres del Banco Santander, esto te interesa</a></h4>
+    <a href='https://computerhoy.com/apple/oferta-iphone-16-banco-santander-1408967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/comprar-iphone-16-banco-santander-4245029.jpg?tf=1200x' alt='Si quieres un iPhone 16 y eres del Banco Santander, esto te interesa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/electrodomestico-cocinas-modernas-peligro-estafa-1407801'>Este electrodoméstico ya está en muchas cocinas modernas, pero un experto advierte de su peligro: “Es una estafa”</a></h4>
-    <a href='https://computerhoy.com/hogar/electrodomestico-cocinas-modernas-peligro-estafa-1407801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/electrodomestico-ya-muchas-cocinas-modernas-pero-experto-advierte-peligro-estafa-4243087.jpg?tf=1200x' alt='Este electrodoméstico ya está en muchas cocinas modernas, pero un experto advierte de su peligro: “Es una estafa”' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-mejores-peliculas-terror-modernas-no-te-dejara-indiferente-1408956'>Llega a Netflix una de las mejores películas de terror modernas: no te dejará indiferente</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-mejores-peliculas-terror-modernas-no-te-dejara-indiferente-1408956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/babadook-4245134.jpg?tf=1200x' alt='Llega a Netflix una de las mejores películas de terror modernas: no te dejará indiferente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-prime-video-mostrara-aun-anuncios-series-peliculas-2025-1408904'>Amazon Prime Video mostrará aún más anuncios en series y películas en 2025</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-prime-video-mostrara-aun-anuncios-series-peliculas-2025-1408904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-prime-video-mostrara-aun-anuncios-series-peliculas-4244887.jpg?tf=1200x' alt='Amazon Prime Video mostrará aún más anuncios en series y películas en 2025' />
+    <h4><a href='https://computerhoy.com/internet/guardia-civil-multa-comprar-aliexpress-1408914'>Guardia Civil lo deja claro: si compras estos en AliExpress, lo que te llegará es una multa de 800 euros</a></h4>
+    <a href='https://computerhoy.com/internet/guardia-civil-multa-comprar-aliexpress-1408914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/guardia-civil-aliexpress-4245026.jpg?tf=1200x' alt='Guardia Civil lo deja claro: si compras estos en AliExpress, lo que te llegará es una multa de 800 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/no-abras-correo-policia-nacional-alerta-campana-phishing-suplanta-identidad-1408979'>No abras este correo: la Policía Nacional alerta de una campaña de phishing que suplanta su identidad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/no-abras-correo-policia-nacional-alerta-campana-phishing-suplanta-identidad-1408979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/concurso_phishing_google.jpg?tf=1200x' alt='No abras este correo: la Policía Nacional alerta de una campaña de phishing que suplanta su identidad' />
+    <h4><a href='https://computerhoy.com/entretenimiento/fue-thrillers-famosos-anos-90-ahora-dispone-volver-nueva-musa-terror-1408416'>Fue uno de los thrillers más famosos de los años 90, y ahora se dispone a volver con la nueva musa del terror</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fue-thrillers-famosos-anos-90-ahora-dispone-volver-nueva-musa-terror-1408416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mano-mece-cuna-4245107.jpg?tf=1200x' alt='Fue uno de los thrillers más famosos de los años 90, y ahora se dispone a volver con la nueva musa del terror' />
     </a>
 </div>
 
