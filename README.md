@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-prime-video-mostrara-aun-anuncios-series-peliculas-2025-1408904'>Amazon Prime Video mostrará aún más anuncios en series y películas en 2025</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-prime-video-mostrara-aun-anuncios-series-peliculas-2025-1408904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-prime-video-mostrara-aun-anuncios-series-peliculas-4244887.jpg?tf=1200x' alt='Amazon Prime Video mostrará aún más anuncios en series y películas en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/no-abras-correo-policia-nacional-alerta-campana-phishing-suplanta-identidad-1408979'>No abras este correo: la Policía Nacional alerta de una campaña de phishing que suplanta su identidad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/no-abras-correo-policia-nacional-alerta-campana-phishing-suplanta-identidad-1408979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/concurso_phishing_google.jpg?tf=1200x' alt='No abras este correo: la Policía Nacional alerta de una campaña de phishing que suplanta su identidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mejores-canales-telegram-descargar-libros-ebook-gratis-pdf-epub-legal-1405899'>Estos son los mejores canales de Telegram para descargar libros gratis en PDF de forma legal</a></h4>
+    <a href='https://computerhoy.com/internet/mejores-canales-telegram-descargar-libros-ebook-gratis-pdf-epub-legal-1405899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/libros-gratis-telegram-4245001.jpg?tf=1200x' alt='Estos son los mejores canales de Telegram para descargar libros gratis en PDF de forma legal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/juez-orden-magis-tv-google-desinstalar-app-iptv-android-1406571'>Obligan a Google que desinstale de forma remota esta aplicación IPTV de los móviles Android</a></h4>
+    <a href='https://computerhoy.com/google/juez-orden-magis-tv-google-desinstalar-app-iptv-android-1406571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-juzgados-4245004.jpg?tf=1200x' alt='Obligan a Google que desinstale de forma remota esta aplicación IPTV de los móviles Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/oura-ring-4-anillo-inteligente-renueva-competir-samsung-galaxy-ring-1408970'>Oura Ring 4, el anillo inteligente se renueva para competir con el Samsung Galaxy Ring</a></h4>
     <a href='https://computerhoy.com/tecnologia/oura-ring-4-anillo-inteligente-renueva-competir-samsung-galaxy-ring-1408970' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oura-ring-4-4244902.jpg?tf=1200x' alt='Oura Ring 4, el anillo inteligente se renueva para competir con el Samsung Galaxy Ring' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-notificacion-incidentes-android-auto-podria-no-funcionar-coche-culpa-pantalla-1408905'>Google Maps: la notificación de incidentes de Android Auto podría no funcionar en tu coche por culpa de la pantalla</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-notificacion-incidentes-android-auto-podria-no-funcionar-coche-culpa-pantalla-1408905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/fallo-android-auto-4021036.jpg?tf=1200x' alt='Google Maps: la notificación de incidentes de Android Auto podría no funcionar en tu coche por culpa de la pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/frigorifico-americano-dos-puertas-barato-normal-puedes-tener-manana-casa-1408228'>Este frigorífico americano de dos puertas es más barato que uno normal, y lo puedes tener mañana en casa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/frigorifico-americano-dos-puertas-barato-normal-puedes-tener-manana-casa-1408228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/origial-cool-and-breeze-sbs-4243804.jpg?tf=1200x' alt='Este frigorífico americano de dos puertas es más barato que uno normal, y lo puedes tener mañana en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/problema-iptv-fueran-precios-ver-futbol-ahora-22-caro-principio-temporada-1408899'>¿Y si el problema de las IPTV fueran los precios? Ver el fútbol es ahora un 22% más caro que a principio de temporada</a></h4>
-    <a href='https://computerhoy.com/tv/problema-iptv-fueran-precios-ver-futbol-ahora-22-caro-principio-temporada-1408899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/movistar-todo-futbol-3899984.jpg?tf=1200x' alt='¿Y si el problema de las IPTV fueran los precios? Ver el fútbol es ahora un 22% más caro que a principio de temporada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-lanza-version-google-lens-busqueda-productos-ia-1408883'>Amazon lanza su versión de Google Lens para la búsqueda de productos con IA</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-lanza-version-google-lens-busqueda-productos-ia-1408883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-novedades-4244865.jpg?tf=1200x' alt='Amazon lanza su versión de Google Lens para la búsqueda de productos con IA' />
     </a>
 </div>
 
