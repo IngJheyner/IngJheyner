@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/demuestran-tiempo-negativo-fotones-salen-material-antes-entrar-1408853'>Demuestran el 'tiempo negativo': fotones salen de un material antes de entrar</a></h4>
+    <a href='https://computerhoy.com/ciencia/demuestran-tiempo-negativo-fotones-salen-material-antes-entrar-1408853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/demuestran-tiempo-negativo-fotones-salen-material-antes-entrar-4244819.jpg?tf=1200x' alt='Demuestran el 'tiempo negativo': fotones salen de un material antes de entrar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/no-son-airpods-ni-sony-pero-estos-auriculares-boton-pueden-ser-todos-1406640'>No son AirPods ni Sony, pero estos auriculares de botón pueden ser para todos</a></h4>
+    <a href='https://computerhoy.com/audio/no-son-airpods-ni-sony-pero-estos-auriculares-boton-pueden-ser-todos-1406640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-pixel-buds-pro-2-4241517.jpg?tf=1200x' alt='No son AirPods ni Sony, pero estos auriculares de botón pueden ser para todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-watch-gt-5-pro-diseno-elegante-deportivo-1408070'>Lo que más me ha gustado de Huawei Watch GT 5 Pro es su diseño, elegante y deportivo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-watch-gt-5-pro-diseno-elegante-deportivo-1408070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-watch-gt-5-pro-4226623.jpg?tf=1200x' alt='Lo que más me ha gustado de Huawei Watch GT 5 Pro es su diseño, elegante y deportivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-secreto-electricidad-estatica-impacto-universo-1408613'>Descubren el secreto de la electricidad estática y su impacto en el universo</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-secreto-electricidad-estatica-impacto-universo-1408613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nina-pelos-punta-electricidad-estatica-4244391.jpg?tf=1200x' alt='Descubren el secreto de la electricidad estática y su impacto en el universo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/fusion-magnetica-energia-infinita-1408586'>La fusión magnética revive: el futuro de la energía infinita está más cerca que nunca</a></h4>
     <a href='https://computerhoy.com/ciencia/fusion-magnetica-energia-infinita-1408586' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/atomos-4244361.jpg?tf=1200x' alt='La fusión magnética revive: el futuro de la energía infinita está más cerca que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-maps-truco-android-auto-ver-ruta-1408519'>Google Maps: el increíble truco en Android Auto para ver rápidamente hacia adelante en tu ruta</a></h4>
-    <a href='https://computerhoy.com/android/google-maps-truco-android-auto-ver-ruta-1408519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-increible-truco-android-auto-ver-rapidamente-adelante-ruta-4244255.jpg?tf=1200x' alt='Google Maps: el increíble truco en Android Auto para ver rápidamente hacia adelante en tu ruta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-overclocking-ordenador-portatil-aumentar-rendimiento-1408505'>Cómo hacer overclocking a un ordenador portátil para aumentar su rendimiento</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-overclocking-ordenador-portatil-aumentar-rendimiento-1408505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/overclocking-portatil-4244235.jpg?tf=1200x' alt='Cómo hacer overclocking a un ordenador portátil para aumentar su rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/mejores-trucos-leer-mensajes-whatsapp-tener-abrir-chats-1407420'>Los mejores trucos para leer los mensajes de WhatsApp sin tener que abrir los chats</a></h4>
-    <a href='https://computerhoy.com/tutoriales/mejores-trucos-leer-mensajes-whatsapp-tener-abrir-chats-1407420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mejores-trucos-leer-mensajes-whatsapp-tener-abrir-chats-4242461.jpg?tf=1200x' alt='Los mejores trucos para leer los mensajes de WhatsApp sin tener que abrir los chats' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/android-consola-anbernic-precio-saldo-aliexpress-1396699'>Android hecho consola: Anbernic deja su portátil más deseada a precio de saldo en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/android-consola-anbernic-precio-saldo-aliexpress-1396699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/anbernic-rg505-3781328.jpg?tf=1200x' alt='Android hecho consola: Anbernic deja su portátil más deseada a precio de saldo en AliExpress' />
     </a>
 </div>
 
