@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ni-steve-jobs-ni-tim-cook-producto-exclusivo-apple-solo-tiene-persona-toda-compania-1408803'>Ni Steve Jobs ni Tim Cook, el producto exclusivo de Apple que solo tiene una persona en toda la compañía</a></h4>
+    <a href='https://computerhoy.com/apple/ni-steve-jobs-ni-tim-cook-producto-exclusivo-apple-solo-tiene-persona-toda-compania-1408803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-steve-jobs-ni-tim-cook-producto-exclusivo-apple-solo-tiene-persona-toda-compania-4244799.jpg?tf=1200x' alt='Ni Steve Jobs ni Tim Cook, el producto exclusivo de Apple que solo tiene una persona en toda la compañía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/copilot-mata-ian-mckellen-william-shatner-david-attenborough-otros-famosos-1408832'>Copilot "mata" a Ian McKellen, William Shatner, David Attenborough y otros famosos</a></h4>
     <a href='https://computerhoy.com/tecnologia/copilot-mata-ian-mckellen-william-shatner-david-attenborough-otros-famosos-1408832' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/copilot-mata-ian-mckellen-william-shatner-david-attenborough-otros-famosos-4244793.jpg?tf=1200x' alt='Copilot "mata" a Ian McKellen, William Shatner, David Attenborough y otros famosos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/consola-android-viral-arrasa-fans-retro-llega-espana-pantalla-amoled-diseno-tipo-switch-precio-rebajado-1408218'>La consola Android viral que arrasa entre los fans de lo retro llega a España: pantalla AMOLED, diseño tipo Switch y precio rebajado</a></h4>
     <a href='https://computerhoy.com/gaming/consola-android-viral-arrasa-fans-retro-llega-espana-pantalla-amoled-diseno-tipo-switch-precio-rebajado-1408218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/anbernic-rg556-4243784.jpg?tf=1200x' alt='La consola Android viral que arrasa entre los fans de lo retro llega a España: pantalla AMOLED, diseño tipo Switch y precio rebajado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-amplia-lista-moviles-eos-tienes-alguno-ellos-deshazte-no-seguro-1408794'>Xiaomi amplía su lista de móviles EOS: si tienes alguno de ellos, deshazte de él, no es seguro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-amplia-lista-moviles-eos-tienes-alguno-ellos-deshazte-no-seguro-1408794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tienda-xiaomi-4244738.jpg?tf=1200x' alt='Xiaomi amplía su lista de móviles EOS: si tienes alguno de ellos, deshazte de él, no es seguro' />
     </a>
 </div>
 
