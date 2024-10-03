@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-interfaz-audio-pc-windows-1404141'>Cómo usar una interfaz de audio en tu PC con Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-interfaz-audio-pc-windows-1404141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/usar-interfaz-audio-pc-4138253.jpg?tf=1200x' alt='Cómo usar una interfaz de audio en tu PC con Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/contrasenas-obsoletas-expertos-grave-peligro-1408971'>La mayoría de contraseñas han quedado obsoletas, según los expertos, y pueden ponerte en grave peligro</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/contrasenas-obsoletas-expertos-grave-peligro-1408971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mayoria-contrasenas-han-quedado-obsoletas-expertos-pueden-ponerte-peligro-4244978.jpg?tf=1200x' alt='La mayoría de contraseñas han quedado obsoletas, según los expertos, y pueden ponerte en grave peligro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/no-abras-correo-policia-nacional-alerta-campana-phishing-suplanta-identidad-1408979'>No abras este correo: la Policía Nacional alerta de una campaña de phishing que suplanta su identidad</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/no-abras-correo-policia-nacional-alerta-campana-phishing-suplanta-identidad-1408979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/01/concurso_phishing_google.jpg?tf=1200x' alt='No abras este correo: la Policía Nacional alerta de una campaña de phishing que suplanta su identidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/juez-orden-magis-tv-google-desinstalar-app-iptv-android-1406571'>Obligan a Google que desinstale de forma remota esta aplicación IPTV de los móviles Android</a></h4>
-    <a href='https://computerhoy.com/google/juez-orden-magis-tv-google-desinstalar-app-iptv-android-1406571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-juzgados-4245004.jpg?tf=1200x' alt='Obligan a Google que desinstale de forma remota esta aplicación IPTV de los móviles Android' />
     </a>
 </div>
 
