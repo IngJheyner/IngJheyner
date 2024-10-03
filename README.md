@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/adios-mitico-escribiendo-whatsapp-veras-partir-ahora-cuando-hables-madre-1409095'>Adiós al mítico "escribiendo" de WhatsApp: esto es lo que verás a partir de ahora cuando hables con tu madre</a></h4>
+    <a href='https://computerhoy.com/apps/adios-mitico-escribiendo-whatsapp-veras-partir-ahora-cuando-hables-madre-1409095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mujer-usando-whatsapp-4245175.jpg?tf=1200x' alt='Adiós al mítico "escribiendo" de WhatsApp: esto es lo que verás a partir de ahora cuando hables con tu madre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/truco-solucion-definitiva-abrir-puerta-llave-dentro-1408489'>La ruina de los cerrajeros: el truco definitivo para abrir la puerta, incluso con la llave puesta por dentro</a></h4>
     <a href='https://computerhoy.com/life/truco-solucion-definitiva-abrir-puerta-llave-dentro-1408489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/abrir-cerradura-puerta-4245045.jpg?tf=1200x' alt='La ruina de los cerrajeros: el truco definitivo para abrir la puerta, incluso con la llave puesta por dentro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/guardia-civil-multa-comprar-aliexpress-1408914'>Guardia Civil lo deja claro: si compras estos en AliExpress, lo que te llegará es una multa de 800 euros</a></h4>
     <a href='https://computerhoy.com/internet/guardia-civil-multa-comprar-aliexpress-1408914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/guardia-civil-aliexpress-4245026.jpg?tf=1200x' alt='Guardia Civil lo deja claro: si compras estos en AliExpress, lo que te llegará es una multa de 800 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/fue-thrillers-famosos-anos-90-ahora-dispone-volver-nueva-musa-terror-1408416'>Fue uno de los thrillers más famosos de los años 90, y ahora se dispone a volver con la nueva musa del terror</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/fue-thrillers-famosos-anos-90-ahora-dispone-volver-nueva-musa-terror-1408416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mano-mece-cuna-4245107.jpg?tf=1200x' alt='Fue uno de los thrillers más famosos de los años 90, y ahora se dispone a volver con la nueva musa del terror' />
     </a>
 </div>
 
