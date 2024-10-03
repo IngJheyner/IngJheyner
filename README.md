@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/frigorifico-americano-dos-puertas-barato-normal-puedes-tener-manana-casa-1408228'>Este frigorífico americano de dos puertas es más barato que uno normal, y lo puedes tener mañana en casa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/frigorifico-americano-dos-puertas-barato-normal-puedes-tener-manana-casa-1408228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/origial-cool-and-breeze-sbs-4243804.jpg?tf=1200x' alt='Este frigorífico americano de dos puertas es más barato que uno normal, y lo puedes tener mañana en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/problema-iptv-fueran-precios-ver-futbol-ahora-22-caro-principio-temporada-1408899'>¿Y si el problema de las IPTV fueran los precios? Ver el fútbol es ahora un 22% más caro que a principio de temporada</a></h4>
     <a href='https://computerhoy.com/tv/problema-iptv-fueran-precios-ver-futbol-ahora-22-caro-principio-temporada-1408899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/movistar-todo-futbol-3899984.jpg?tf=1200x' alt='¿Y si el problema de las IPTV fueran los precios? Ver el fútbol es ahora un 22% más caro que a principio de temporada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-regala-15-euros-debes-hacer-conseguirlos-1408852'>Amazon regala 15 euros: esto es lo que debes hacer para conseguirlos</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-regala-15-euros-debes-hacer-conseguirlos-1408852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cupon-tarjeta-amazon-3073164.jpg?tf=1200x' alt='Amazon regala 15 euros: esto es lo que debes hacer para conseguirlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/alerta-ultima-actualizacion-windows-11-pantalla-azul-1408488'>Alerta mundial por una epidemia de “pantallas azules de la muerte” en Windows: cómo solucionarla</a></h4>
-    <a href='https://computerhoy.com/windows/alerta-ultima-actualizacion-windows-11-pantalla-azul-1408488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/errores-windows-11-4244215.jpg?tf=1200x' alt='Alerta mundial por una epidemia de “pantallas azules de la muerte” en Windows: cómo solucionarla' />
     </a>
 </div>
 
