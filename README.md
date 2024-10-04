@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-deja-ser-patio-recreo-iptv-ilegales-pirateria-todo-gratis-1409240'>Telegram deja de ser el patio de recreo de las IPTV ilegales, la piratería y el todo gratis</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-deja-ser-patio-recreo-iptv-ilegales-pirateria-todo-gratis-1409240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/telegram-deja-ser-patio-recreo-iptv-ilegales-pirateria-todo-gratis-4245392.jpg?tf=1200x' alt='Telegram deja de ser el patio de recreo de las IPTV ilegales, la piratería y el todo gratis' />
+    <h4><a href='https://computerhoy.com/tecnologia/radxa-x4-alternativa-raspberry-pi-5-nunca-has-escuchado-hablar-cumple-todos-deseos-1409310'>Radxa X4: la alternativa a Raspberry Pi 5 de la que nunca has escuchado hablar que cumple todos tus deseos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/radxa-x4-alternativa-raspberry-pi-5-nunca-has-escuchado-hablar-cumple-todos-deseos-1409310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/radxa-x4-alternativa-raspberry-pi-5-nunca-has-escuchado-hablar-cumple-todos-deseos-4245612.jpg?tf=1200x' alt='Radxa X4: la alternativa a Raspberry Pi 5 de la que nunca has escuchado hablar que cumple todos tus deseos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cambio-windows-portatil-viejo-sistema-operativo-gratis-chromeos-flex-1402728'>Tras mucho pensármelo, cambié Windows en mi viejo portátil por este sistema operativo gratis: ahora vuela, parece nuevo</a></h4>
-    <a href='https://computerhoy.com/pc/cambio-windows-portatil-viejo-sistema-operativo-gratis-chromeos-flex-1402728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/intel-evo-elegir-portatil-black-friday-portada-2874943.jpg?tf=1200x' alt='Tras mucho pensármelo, cambié Windows en mi viejo portátil por este sistema operativo gratis: ahora vuela, parece nuevo' />
+    <h4><a href='https://computerhoy.com/life/sirven-triangulos-plastico-escaleras-mecanicas-1409070'>Para qué sirven los triángulos de plástico de las escaleras mecánicas</a></h4>
+    <a href='https://computerhoy.com/life/sirven-triangulos-plastico-escaleras-mecanicas-1409070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sirven-triangulos-plastico-escaleras-mecanicas-4245161.jpg?tf=1200x' alt='Para qué sirven los triángulos de plástico de las escaleras mecánicas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-cuervo-5-remakes-nadie-pidio-fueron-fracaso-1402322'>No solo El cuervo: 5 remakes que nadie pidió y fueron un fracaso</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/no-solo-cuervo-5-remakes-nadie-pidio-fueron-fracaso-1402322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/no-solo-cuervo-5-remakes-nadie-pidio-fueron-fracaso-4050521.jpg?tf=1200x' alt='No solo El cuervo: 5 remakes que nadie pidió y fueron un fracaso' />
+    <h4><a href='https://computerhoy.com/tecnologia/dejar-movil-encendido-modo-avion-vuelo-1409086'>Qué ocurre si dejas el móvil sin el modo avión durante un vuelo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dejar-movil-encendido-modo-avion-vuelo-1409086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ocurre-dejas-movil-modo-avion-durante-vuelo-4245193.jpg?tf=1200x' alt='Qué ocurre si dejas el móvil sin el modo avión durante un vuelo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-maps-android-auto-mas-app-detectar-radares-dgt-1395417'>Me encanta Google Maps en Android Auto y combinado con esta app para detectar radares es insuperable</a></h4>
-    <a href='https://computerhoy.com/android/google-maps-android-auto-mas-app-detectar-radares-dgt-1395417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-app-radares-4245455.jpg?tf=1200x' alt='Me encanta Google Maps en Android Auto y combinado con esta app para detectar radares es insuperable' />
+    <h4><a href='https://computerhoy.com/tecnologia/problemas-conexion-router-wifi-solucion-puede-estar-cable-1408965'>¿Problemas con la conexión de tu router Wifi? La solución puede estar en este cable</a></h4>
+    <a href='https://computerhoy.com/tecnologia/problemas-conexion-router-wifi-solucion-puede-estar-cable-1408965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cable-ethernet-4245002.jpg?tf=1200x' alt='¿Problemas con la conexión de tu router Wifi? La solución puede estar en este cable' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/razon-no-necesitas-cifrar-archivos-disco-duro-1394690'>Esta es la razón por la que no necesitas cifrar los archivos de tu disco duro</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/razon-no-necesitas-cifrar-archivos-disco-duro-1394690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razon-no-necesitas-cifrar-archivos-disco-duro-3687825.jpg?tf=1200x' alt='Esta es la razón por la que no necesitas cifrar los archivos de tu disco duro' />
+    <h4><a href='https://computerhoy.com/google/8-20-segundos-son-suficientes-mejorar-google-maps-instante-1408839'>Un 8 y 20 segundos son suficientes para mejorar Google Maps al instante</a></h4>
+    <a href='https://computerhoy.com/google/8-20-segundos-son-suficientes-mejorar-google-maps-instante-1408839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/8-20-segundos-son-suficientes-mejorar-google-maps-instante-4244814.jpg?tf=1200x' alt='Un 8 y 20 segundos son suficientes para mejorar Google Maps al instante' />
     </a>
 </div>
 
