@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/aparece-furgoneta-vigilancia-mi-wifi-debo-preocuparme-1409153'>Por qué aparece “furgoneta de vigilancia” en mi WiFi: ¿debo preocuparme?</a></h4>
+    <a href='https://computerhoy.com/internet/aparece-furgoneta-vigilancia-mi-wifi-debo-preocuparme-1409153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/aparece-fbi-surveillance-van-mi-wifi-debo-preocuparme-4245246.jpg?tf=1200x' alt='Por qué aparece “furgoneta de vigilancia” en mi WiFi: ¿debo preocuparme?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuando-ia-pasa-lista-asistente-virtual-dejo-dueno-ordenador-1409187'>Cuando la IA se pasa de lista: el asistente virtual que dejó a su dueño sin ordenador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuando-ia-pasa-lista-asistente-virtual-dejo-dueno-ordenador-1409187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enfado-ordenador-4245309.jpg?tf=1200x' alt='Cuando la IA se pasa de lista: el asistente virtual que dejó a su dueño sin ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/movistar-orange-vodafone-principales-victimas-huracan-digi-espana-1409195'>Movistar, Orange y Vodafone, principales víctimas del huracán DIGI en España</a></h4>
+    <a href='https://computerhoy.com/moviles/movistar-orange-vodafone-principales-victimas-huracan-digi-espana-1409195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/movistar-orange-vodafone-victimas-huracan-digi-espana-4245311.jpg?tf=1200x' alt='Movistar, Orange y Vodafone, principales víctimas del huracán DIGI en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/malware-ninja-ha-afectado-miles-sistemas-linux-menos-2021-1409182'>Este malware ninja ha infectado miles de sistemas Linux desde al menos 2021</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/malware-ninja-ha-afectado-miles-sistemas-linux-menos-2021-1409182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/virus-malware-ordenador-3693845.jpg?tf=1200x' alt='Este malware ninja ha infectado miles de sistemas Linux desde al menos 2021' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pc-puede-ir-rapido-ssd-ejecuta-4000-mb-segundo-precio-asequible-1407901'>Tu PC puede ir más rápido, y este SSD lo ejecuta: 4000 MB por segundo y precio asequible</a></h4>
     <a href='https://computerhoy.com/tecnologia/pc-puede-ir-rapido-ssd-ejecuta-4000-mb-segundo-precio-asequible-1407901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/wd-blue-sn580-4243211.jpg?tf=1200x' alt='Tu PC puede ir más rápido, y este SSD lo ejecuta: 4000 MB por segundo y precio asequible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/madrina-ia-openai-reconoce-hay-temas-importantes-perseguir-agi-1409172'>La "madrina de la IA" contra OpenAI, reconoce que hay temas más importantes que perseguir que la AGI</a></h4>
-    <a href='https://computerhoy.com/tecnologia/madrina-ia-openai-reconoce-hay-temas-importantes-perseguir-agi-1409172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fei-fei-li-4245274.jpg?tf=1200x' alt='La "madrina de la IA" contra OpenAI, reconoce que hay temas más importantes que perseguir que la AGI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-lanza-ios-1801-actualizacion-sorpresa-parchear-primeros-problemas-iphone-16-1409190'>Apple lanza iOS 18.0.1, una actualización sorpresa para parchear los primeros problemas en iPhone 16</a></h4>
-    <a href='https://computerhoy.com/apple/apple-lanza-ios-1801-actualizacion-sorpresa-parchear-primeros-problemas-iphone-16-1409190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243568.jpg?tf=1200x' alt='Apple lanza iOS 18.0.1, una actualización sorpresa para parchear los primeros problemas en iPhone 16' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ahora-momento-ps5-barata-nunca-puedes-comprarla-399-euros-1409139'>Ahora es el momento: la PS5 es más barata que nunca y puedes comprarla desde 399 euros</a></h4>
-    <a href='https://computerhoy.com/gaming/ahora-momento-ps5-barata-nunca-puedes-comprarla-399-euros-1409139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/playstation-5-ps5-3216088.jpg?tf=1200x' alt='Ahora es el momento: la PS5 es más barata que nunca y puedes comprarla desde 399 euros' />
     </a>
 </div>
 
