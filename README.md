@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/aparece-furgoneta-vigilancia-mi-wifi-debo-preocuparme-1409153'>Por qué aparece “furgoneta de vigilancia” en mi WiFi: ¿debo preocuparme?</a></h4>
-    <a href='https://computerhoy.com/internet/aparece-furgoneta-vigilancia-mi-wifi-debo-preocuparme-1409153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/aparece-fbi-surveillance-van-mi-wifi-debo-preocuparme-4245246.jpg?tf=1200x' alt='Por qué aparece “furgoneta de vigilancia” en mi WiFi: ¿debo preocuparme?' />
+    <h4><a href='https://computerhoy.com/tecnologia/ni-metro-ni-bus-adios-siempre-tarjeta-transporte-madrid-1409221'>Ni para el metro ni para el bus, adiós para siempre a la tarjeta de transporte en Madrid</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ni-metro-ni-bus-adios-siempre-tarjeta-transporte-madrid-1409221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tarjeta-transporte-madrid-metro-4245394.jpg?tf=1200x' alt='Ni para el metro ni para el bus, adiós para siempre a la tarjeta de transporte en Madrid' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuando-ia-pasa-lista-asistente-virtual-dejo-dueno-ordenador-1409187'>Cuando la IA se pasa de lista: el asistente virtual que dejó a su dueño sin ordenador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuando-ia-pasa-lista-asistente-virtual-dejo-dueno-ordenador-1409187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enfado-ordenador-4245309.jpg?tf=1200x' alt='Cuando la IA se pasa de lista: el asistente virtual que dejó a su dueño sin ordenador' />
+    <h4><a href='https://computerhoy.com/pc/oferta-mini-pc-potente-amazon-i9-32gb-ram-1253870'>Este Mini PC tiene una potencia increíble, y Amazon lo vende: Intel Core i9 y 32GB de memoria RAM</a></h4>
+    <a href='https://computerhoy.com/pc/oferta-mini-pc-potente-amazon-i9-32gb-ram-1253870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/minis-forum-nab9-4197876.jpg?tf=1200x' alt='Este Mini PC tiene una potencia increíble, y Amazon lo vende: Intel Core i9 y 32GB de memoria RAM' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/movistar-orange-vodafone-principales-victimas-huracan-digi-espana-1409195'>Movistar, Orange y Vodafone, principales víctimas del huracán DIGI en España</a></h4>
-    <a href='https://computerhoy.com/moviles/movistar-orange-vodafone-principales-victimas-huracan-digi-espana-1409195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/movistar-orange-vodafone-victimas-huracan-digi-espana-4245311.jpg?tf=1200x' alt='Movistar, Orange y Vodafone, principales víctimas del huracán DIGI en España' />
+    <h4><a href='https://computerhoy.com/internet/carta-laliga-multas-ver-futbol-iptv-pirata-1393726'>Multas por ver LaLiga por listas IPTV piratas: qué hacer si recibes una de sus temidas cartas</a></h4>
+    <a href='https://computerhoy.com/internet/carta-laliga-multas-ver-futbol-iptv-pirata-1393726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/multas-laliga-ver-futbol-iptv-4245445.jpg?tf=1200x' alt='Multas por ver LaLiga por listas IPTV piratas: qué hacer si recibes una de sus temidas cartas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/malware-ninja-ha-afectado-miles-sistemas-linux-menos-2021-1409182'>Este malware ninja ha infectado miles de sistemas Linux desde al menos 2021</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/malware-ninja-ha-afectado-miles-sistemas-linux-menos-2021-1409182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/virus-malware-ordenador-3693845.jpg?tf=1200x' alt='Este malware ninja ha infectado miles de sistemas Linux desde al menos 2021' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-blocked-bloquea-reinicia-windows-estafa-1407689'>Microsoft Blocked: la estafa que bloquea Windows por completo, se extiende sin control</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/microsoft-blocked-bloquea-reinicia-windows-estafa-1407689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estafa-microsoft-blocked-bloquea-windows-completo-extiende-control-4242909.jpg?tf=1200x' alt='Microsoft Blocked: la estafa que bloquea Windows por completo, se extiende sin control' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-puede-ir-rapido-ssd-ejecuta-4000-mb-segundo-precio-asequible-1407901'>Tu PC puede ir más rápido, y este SSD lo ejecuta: 4000 MB por segundo y precio asequible</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-puede-ir-rapido-ssd-ejecuta-4000-mb-segundo-precio-asequible-1407901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/wd-blue-sn580-4243211.jpg?tf=1200x' alt='Tu PC puede ir más rápido, y este SSD lo ejecuta: 4000 MB por segundo y precio asequible' />
+    <h4><a href='https://computerhoy.com/life/palimpsesto-libro-arquimedes-borrado-habria-adelantado-ciencia-500-anos-1407795'>Palimpsesto: el libro borrado de Arquímedes que habría adelantado la ciencia 500 años</a></h4>
+    <a href='https://computerhoy.com/life/palimpsesto-libro-arquimedes-borrado-habria-adelantado-ciencia-500-anos-1407795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/palimpsesto-arquimedes-cuando-borrar-libro-convierte-sacrilegio-4243077.jpg?tf=1200x' alt='Palimpsesto: el libro borrado de Arquímedes que habría adelantado la ciencia 500 años' />
     </a>
 </div>
 
