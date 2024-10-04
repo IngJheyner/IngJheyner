@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/madrina-ia-openai-reconoce-hay-temas-importantes-perseguir-agi-1409172'>La "madrina de la IA" contra OpenAI, reconoce que hay temas más importantes que perseguir que la AGI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/madrina-ia-openai-reconoce-hay-temas-importantes-perseguir-agi-1409172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fei-fei-li-4245274.jpg?tf=1200x' alt='La "madrina de la IA" contra OpenAI, reconoce que hay temas más importantes que perseguir que la AGI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-lanza-ios-1801-actualizacion-sorpresa-parchear-primeros-problemas-iphone-16-1409190'>Apple lanza iOS 18.0.1, una actualización sorpresa para parchear los primeros problemas en iPhone 16</a></h4>
     <a href='https://computerhoy.com/apple/apple-lanza-ios-1801-actualizacion-sorpresa-parchear-primeros-problemas-iphone-16-1409190' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243568.jpg?tf=1200x' alt='Apple lanza iOS 18.0.1, una actualización sorpresa para parchear los primeros problemas en iPhone 16' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-expertos-ciberseguridad-1269702'>Ahora más que nunca debes conocer la regla de los 5 minutos que recomiendan los expertos para evitar ciberataques en tu móvil</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-expertos-ciberseguridad-1269702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/regla-5-minutos-4245235.jpg?tf=1200x' alt='Ahora más que nunca debes conocer la regla de los 5 minutos que recomiendan los expertos para evitar ciberataques en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-listo-competir-openai-nuevo-modelo-ia-razona-como-humanos-1409150'>Google listo para competir con OpenAI y su nuevo modelo de IA que razona como los humanos</a></h4>
-    <a href='https://computerhoy.com/google/google-listo-competir-openai-nuevo-modelo-ia-razona-como-humanos-1409150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-ia-4245240.jpg?tf=1200x' alt='Google listo para competir con OpenAI y su nuevo modelo de IA que razona como los humanos' />
     </a>
 </div>
 
