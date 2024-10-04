@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-potente-i7-32gb-ram-rebaja-amazon-1296180'>Es increíble que sea tan potente siendo tan pequeño, pero este Mini PC con i7 y 32GB de RAM lo es, y además a buen precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-pc-potente-i7-32gb-ram-rebaja-amazon-1296180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/minis-forum-nab6-3119584.jpg?tf=1200x' alt='Es increíble que sea tan potente siendo tan pequeño, pero este Mini PC con i7 y 32GB de RAM lo es, y además a buen precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/playstation-usuarios-unen-especuladores-ps5-30-aniversario-1409117'>Playstation y los usuarios se unen contra los especuladores de PS5 30 aniversario: "muchos se van a 'comer' las consolas"</a></h4>
     <a href='https://computerhoy.com/gaming/playstation-usuarios-unen-especuladores-ps5-30-aniversario-1409117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/playstation-usuarios-unen-especuladores-ps5-30-aniversario-muchos-van-comer-consolas-4245197.jpg?tf=1200x' alt='Playstation y los usuarios se unen contra los especuladores de PS5 30 aniversario: "muchos se van a 'comer' las consolas"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-estrena-menciones-privadas-corazones-verdes-ocultos-1409097'>WhatsApp estrena las menciones privadas y los corazones verdes ocultos</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-estrena-menciones-privadas-corazones-verdes-ocultos-1409097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-estrena-menciones-estados-privados-4245166.jpg?tf=1200x' alt='WhatsApp estrena las menciones privadas y los corazones verdes ocultos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/aviso-critico-86-router-wifi-deberian-cambiar-contrasena-inmediato-1409096'>Aviso crítico: el 86% de los router WiFi deberían cambiar su contraseña de inmediato</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/aviso-critico-86-router-wifi-deberian-cambiar-contrasena-inmediato-1409096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/router-wifi-4245176.jpg?tf=1200x' alt='Aviso crítico: el 86% de los router WiFi deberían cambiar su contraseña de inmediato' />
     </a>
 </div>
 
