@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/malware-ninja-ha-afectado-miles-sistemas-linux-menos-2021-1409182'>Este malware ninja ha infectado miles de sistemas Linux desde al menos 2021</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/malware-ninja-ha-afectado-miles-sistemas-linux-menos-2021-1409182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/virus-malware-ordenador-3693845.jpg?tf=1200x' alt='Este malware ninja ha infectado miles de sistemas Linux desde al menos 2021' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pc-puede-ir-rapido-ssd-ejecuta-4000-mb-segundo-precio-asequible-1407901'>Tu PC puede ir más rápido, y este SSD lo ejecuta: 4000 MB por segundo y precio asequible</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-puede-ir-rapido-ssd-ejecuta-4000-mb-segundo-precio-asequible-1407901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/wd-blue-sn580-4243211.jpg?tf=1200x' alt='Tu PC puede ir más rápido, y este SSD lo ejecuta: 4000 MB por segundo y precio asequible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/madrina-ia-openai-reconoce-hay-temas-importantes-perseguir-agi-1409172'>La "madrina de la IA" contra OpenAI, reconoce que hay temas más importantes que perseguir que la AGI</a></h4>
     <a href='https://computerhoy.com/tecnologia/madrina-ia-openai-reconoce-hay-temas-importantes-perseguir-agi-1409172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fei-fei-li-4245274.jpg?tf=1200x' alt='La "madrina de la IA" contra OpenAI, reconoce que hay temas más importantes que perseguir que la AGI' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/ahora-momento-ps5-barata-nunca-puedes-comprarla-399-euros-1409139'>Ahora es el momento: la PS5 es más barata que nunca y puedes comprarla desde 399 euros</a></h4>
     <a href='https://computerhoy.com/gaming/ahora-momento-ps5-barata-nunca-puedes-comprarla-399-euros-1409139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/playstation-5-ps5-3216088.jpg?tf=1200x' alt='Ahora es el momento: la PS5 es más barata que nunca y puedes comprarla desde 399 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/copilot-microsoft-actualiza-ahora-ia-escucha-ve-aprende-ti-1409157'>Copilot de Microsoft se actualiza y ahora la IA escucha, ve y aprende de ti</a></h4>
-    <a href='https://computerhoy.com/tecnologia/copilot-microsoft-actualiza-ahora-ia-escucha-ve-aprende-ti-1409157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-copilot-3972239.jpg?tf=1200x' alt='Copilot de Microsoft se actualiza y ahora la IA escucha, ve y aprende de ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-expertos-ciberseguridad-1269702'>Ahora más que nunca debes conocer la regla de los 5 minutos que recomiendan los expertos para evitar ciberataques en tu móvil</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-expertos-ciberseguridad-1269702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/regla-5-minutos-4245235.jpg?tf=1200x' alt='Ahora más que nunca debes conocer la regla de los 5 minutos que recomiendan los expertos para evitar ciberataques en tu móvil' />
     </a>
 </div>
 
