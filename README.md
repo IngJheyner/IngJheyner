@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/mucho-mejor-microondas-desconocida-funcion-freidora-aire-casi-nadie-utiliza-1409367'>Mucho mejor que el microondas: la desconocida función de la freidora de aire que casi nadie utiliza</a></h4>
+    <a href='https://computerhoy.com/alimentacion/mucho-mejor-microondas-desconocida-funcion-freidora-aire-casi-nadie-utiliza-1409367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/freidora-aire-aceite-4245651.jpg?tf=1200x' alt='Mucho mejor que el microondas: la desconocida función de la freidora de aire que casi nadie utiliza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movie-gen-ia-generativa-meta-inserta-cara-cualquier-video-1409362'>Movie Gen, la IA generativa de Meta que inserta tu cara en cualquier vídeo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movie-gen-ia-generativa-meta-inserta-cara-cualquier-video-1409362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1728065586502-4245632.jpg?tf=1200x' alt='Movie Gen, la IA generativa de Meta que inserta tu cara en cualquier vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/desconocido-smartwatch-barato-samsung-ya-venta-tiene-gps-1407923'>Este desconocido smartwatch barato de Samsung ya está a la venta, y tiene GPS</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desconocido-smartwatch-barato-samsung-ya-venta-tiene-gps-1407923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-watch-fe-4243245.jpg?tf=1200x' alt='Este desconocido smartwatch barato de Samsung ya está a la venta, y tiene GPS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/radxa-x4-alternativa-raspberry-pi-5-nunca-has-escuchado-hablar-cumple-todos-deseos-1409310'>Radxa X4: la alternativa a Raspberry Pi 5 de la que nunca has escuchado hablar que cumple todos tus deseos</a></h4>
     <a href='https://computerhoy.com/tecnologia/radxa-x4-alternativa-raspberry-pi-5-nunca-has-escuchado-hablar-cumple-todos-deseos-1409310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/radxa-x4-alternativa-raspberry-pi-5-nunca-has-escuchado-hablar-cumple-todos-deseos-4245612.jpg?tf=1200x' alt='Radxa X4: la alternativa a Raspberry Pi 5 de la que nunca has escuchado hablar que cumple todos tus deseos' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sirven-triangulos-plastico-escaleras-mecanicas-1409070'>Para qué sirven los triángulos de plástico de las escaleras mecánicas</a></h4>
-    <a href='https://computerhoy.com/life/sirven-triangulos-plastico-escaleras-mecanicas-1409070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sirven-triangulos-plastico-escaleras-mecanicas-4245161.jpg?tf=1200x' alt='Para qué sirven los triángulos de plástico de las escaleras mecánicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dejar-movil-encendido-modo-avion-vuelo-1409086'>Qué ocurre si dejas el móvil sin el modo avión durante un vuelo</a></h4>
     <a href='https://computerhoy.com/tecnologia/dejar-movil-encendido-modo-avion-vuelo-1409086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ocurre-dejas-movil-modo-avion-durante-vuelo-4245193.jpg?tf=1200x' alt='Qué ocurre si dejas el móvil sin el modo avión durante un vuelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/problemas-conexion-router-wifi-solucion-puede-estar-cable-1408965'>¿Problemas con la conexión de tu router Wifi? La solución puede estar en este cable</a></h4>
-    <a href='https://computerhoy.com/tecnologia/problemas-conexion-router-wifi-solucion-puede-estar-cable-1408965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cable-ethernet-4245002.jpg?tf=1200x' alt='¿Problemas con la conexión de tu router Wifi? La solución puede estar en este cable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/8-20-segundos-son-suficientes-mejorar-google-maps-instante-1408839'>Un 8 y 20 segundos son suficientes para mejorar Google Maps al instante</a></h4>
-    <a href='https://computerhoy.com/google/8-20-segundos-son-suficientes-mejorar-google-maps-instante-1408839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/8-20-segundos-son-suficientes-mejorar-google-maps-instante-4244814.jpg?tf=1200x' alt='Un 8 y 20 segundos son suficientes para mejorar Google Maps al instante' />
     </a>
 </div>
 
