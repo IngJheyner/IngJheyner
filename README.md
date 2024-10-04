@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nueva-tecnologia-dispositivos-electronicos-orbitronica-1408948'>La nueva tecnología que podría cambiar todos tus dispositivos electrónicos: la orbitrónica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nueva-tecnologia-dispositivos-electronicos-orbitronica-1408948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/orbitronica-4245083.jpg?tf=1200x' alt='La nueva tecnología que podría cambiar todos tus dispositivos electrónicos: la orbitrónica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-fabricar-diamantes-menos-3-horas-1408932'>Científicos logran crear diamantes en menos de 3 horas: el descubrimiento que podría revolucionar el mercado</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-fabricar-diamantes-menos-3-horas-1408932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/maquina-fabricar-diamantes-4245087.jpg?tf=1200x' alt='Científicos logran crear diamantes en menos de 3 horas: el descubrimiento que podría revolucionar el mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/reducir-factura-luz-olvidate-horno-frigorifico-cargador-movil-1409129'>Para reducir la factura de la luz, olvídate del horno o el frigorífico: un pequeño dispositivo consume más</a></h4>
+    <a href='https://computerhoy.com/energia/reducir-factura-luz-olvidate-horno-frigorifico-cargador-movil-1409129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/reducir-factura-luz-olvidate-horno-frigorifico-dispositivo-consume-4245209.jpg?tf=1200x' alt='Para reducir la factura de la luz, olvídate del horno o el frigorífico: un pequeño dispositivo consume más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mini-pc-potente-i7-32gb-ram-rebaja-amazon-1296180'>Es increíble que sea tan potente siendo tan pequeño, pero este Mini PC con i7 y 32GB de RAM lo es, y además a buen precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/mini-pc-potente-i7-32gb-ram-rebaja-amazon-1296180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/minis-forum-nab6-3119584.jpg?tf=1200x' alt='Es increíble que sea tan potente siendo tan pequeño, pero este Mini PC con i7 y 32GB de RAM lo es, y además a buen precio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/playstation-usuarios-unen-especuladores-ps5-30-aniversario-1409117'>Playstation y los usuarios se unen contra los especuladores de PS5 30 aniversario: "muchos se van a 'comer' las consolas"</a></h4>
     <a href='https://computerhoy.com/gaming/playstation-usuarios-unen-especuladores-ps5-30-aniversario-1409117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/playstation-usuarios-unen-especuladores-ps5-30-aniversario-muchos-van-comer-consolas-4245197.jpg?tf=1200x' alt='Playstation y los usuarios se unen contra los especuladores de PS5 30 aniversario: "muchos se van a 'comer' las consolas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estan-escuchando-misteriosos-ruidos-similares-terremoto-todo-mundo-nadie-sabe-son-1409103'>Se están escuchando misteriosos ruidos similares al de un terremoto en todo el mundo y nadie sabe qué son</a></h4>
-    <a href='https://computerhoy.com/life/estan-escuchando-misteriosos-ruidos-similares-terremoto-todo-mundo-nadie-sabe-son-1409103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/torre-alto-voltaje-4245185.jpg?tf=1200x' alt='Se están escuchando misteriosos ruidos similares al de un terremoto en todo el mundo y nadie sabe qué son' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-hace-2x1-nuevo-movil-tope-gama-viene-televisor-regalo-1408236'>Xiaomi hace un 2x1: su nuevo móvil tope de gama viene con televisor de regalo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-hace-2x1-nuevo-movil-tope-gama-viene-televisor-regalo-1408236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-14t-pro-xiaomi-tv-4243814.jpg?tf=1200x' alt='Xiaomi hace un 2x1: su nuevo móvil tope de gama viene con televisor de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-estrena-menciones-privadas-corazones-verdes-ocultos-1409097'>WhatsApp estrena las menciones privadas y los corazones verdes ocultos</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-estrena-menciones-privadas-corazones-verdes-ocultos-1409097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-estrena-menciones-estados-privados-4245166.jpg?tf=1200x' alt='WhatsApp estrena las menciones privadas y los corazones verdes ocultos' />
     </a>
 </div>
 
