@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/opciones-gratis-actualizar-pc-windows-10-1406819'>Opciones gratis para seguir utilizando un ordenador con Windows 10 que no puedes actualizar a Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/opciones-gratis-actualizar-pc-windows-10-1406819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-3885056.jpg?tf=1200x' alt='Opciones gratis para seguir utilizando un ordenador con Windows 10 que no puedes actualizar a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-pelicula-ciencia-ficcion-creo-genero-propio-1404574'>Está en MAX y es la película que cambió el cine de ciencia ficción para siempre: creó un género propio</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hbo-max-pelicula-ciencia-ficcion-creo-genero-propio-1404574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-puedes-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-4149410.jpg?tf=1200x' alt='Está en MAX y es la película que cambió el cine de ciencia ficción para siempre: creó un género propio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/ni-apple-watch-ni-galaxy-watch-smartwatch-gama-alta-pixel-watch-1403854'>Ni Apple Watch ni Galaxy Watch, este es smartwatch de gama alta que me ha demostrado que los relojes grandes también pueden ser cómodos</a></h4>
+    <a href='https://computerhoy.com/google/ni-apple-watch-ni-galaxy-watch-smartwatch-gama-alta-pixel-watch-1403854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-pixel-watch-3-4114861.jpg?tf=1200x' alt='Ni Apple Watch ni Galaxy Watch, este es smartwatch de gama alta que me ha demostrado que los relojes grandes también pueden ser cómodos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/generacion-z-problemas-dispositivo-oficina-1404538'>Son maestros en utilizar TikTok, pero la generación Z tiene serios problemas para entender este dispositivo de la oficina</a></h4>
+    <a href='https://computerhoy.com/tecnologia/generacion-z-problemas-dispositivo-oficina-1404538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/generacion-z-son-maestros-utilizar-tiktok-pero-tienen-serios-problemas-entender-dispositivo-oficina-4148774.jpg?tf=1200x' alt='Son maestros en utilizar TikTok, pero la generación Z tiene serios problemas para entender este dispositivo de la oficina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ni-metro-ni-bus-adios-siempre-tarjeta-transporte-madrid-1409221'>Ni para el metro ni para el bus, adiós para siempre a la tarjeta de transporte en Madrid</a></h4>
     <a href='https://computerhoy.com/tecnologia/ni-metro-ni-bus-adios-siempre-tarjeta-transporte-madrid-1409221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tarjeta-transporte-madrid-metro-4245394.jpg?tf=1200x' alt='Ni para el metro ni para el bus, adiós para siempre a la tarjeta de transporte en Madrid' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/oferta-mini-pc-potente-amazon-i9-32gb-ram-1253870'>Este Mini PC tiene una potencia increíble, y Amazon lo vende: Intel Core i9 y 32GB de memoria RAM</a></h4>
-    <a href='https://computerhoy.com/pc/oferta-mini-pc-potente-amazon-i9-32gb-ram-1253870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/minis-forum-nab9-4197876.jpg?tf=1200x' alt='Este Mini PC tiene una potencia increíble, y Amazon lo vende: Intel Core i9 y 32GB de memoria RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/carta-laliga-multas-ver-futbol-iptv-pirata-1393726'>Multas por ver LaLiga por listas IPTV piratas: qué hacer si recibes una de sus temidas cartas</a></h4>
-    <a href='https://computerhoy.com/internet/carta-laliga-multas-ver-futbol-iptv-pirata-1393726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/multas-laliga-ver-futbol-iptv-4245445.jpg?tf=1200x' alt='Multas por ver LaLiga por listas IPTV piratas: qué hacer si recibes una de sus temidas cartas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-blocked-bloquea-reinicia-windows-estafa-1407689'>Microsoft Blocked: la estafa que bloquea Windows por completo, se extiende sin control</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/microsoft-blocked-bloquea-reinicia-windows-estafa-1407689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/estafa-microsoft-blocked-bloquea-windows-completo-extiende-control-4242909.jpg?tf=1200x' alt='Microsoft Blocked: la estafa que bloquea Windows por completo, se extiende sin control' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/palimpsesto-libro-arquimedes-borrado-habria-adelantado-ciencia-500-anos-1407795'>Palimpsesto: el libro borrado de Arquímedes que habría adelantado la ciencia 500 años</a></h4>
-    <a href='https://computerhoy.com/life/palimpsesto-libro-arquimedes-borrado-habria-adelantado-ciencia-500-anos-1407795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/palimpsesto-arquimedes-cuando-borrar-libro-convierte-sacrilegio-4243077.jpg?tf=1200x' alt='Palimpsesto: el libro borrado de Arquímedes que habría adelantado la ciencia 500 años' />
     </a>
 </div>
 
