@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/bici-electrica-montana-barata-arrasa-decathlon-1223284'>Esta es la bici eléctrica de montaña barata que arrasa en Decathlon, y tiene 100 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/motor/bici-electrica-montana-barata-arrasa-decathlon-1223284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/decathlon-tiene-nueva-bicicleta-electrica-montana-barata-rockrider-st-500-2997424.jpg?tf=1200x' alt='Esta es la bici eléctrica de montaña barata que arrasa en Decathlon, y tiene 100 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/razon-vas-querer-instalar-windows-11-24h2-1409138'>Esta es la razón por la que vas a querer instalar Windows 11 24H2</a></h4>
     <a href='https://computerhoy.com/windows/razon-vas-querer-instalar-windows-11-24h2-1409138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/unica-razon-vas-querer-instalar-windows-11-24h2-4245222.jpg?tf=1200x' alt='Esta es la razón por la que vas a querer instalar Windows 11 24H2' />
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-durante-semanas-apple-watch-series-10-sorprendentemente-pantalla-mejor-1408560'>He probado durante semanas el Apple Watch Series 10 y sorprendentemente sí, más pantalla es mejor</a></h4>
+    <h4><a href='https://computerhoy.com/analisis/he-probado-durante-semanas-apple-watch-series-10-sorprendentemente-pantalla-mejor-1408560'>He probado durante semanas el Apple Watch Series 10 y sí, más pantalla es mejor</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-durante-semanas-apple-watch-series-10-sorprendentemente-pantalla-mejor-1408560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-watch-series-10-4244553.jpg?tf=1200x' alt='He probado durante semanas el Apple Watch Series 10 y sorprendentemente sí, más pantalla es mejor' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-watch-series-10-4244553.jpg?tf=1200x' alt='He probado durante semanas el Apple Watch Series 10 y sí, más pantalla es mejor' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/usos-linea-comandos-cmd-windows-debes-conocer-972455'>15 usos de la línea de comandos (CMD) de Windows que debes conocer</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/usos-linea-comandos-cmd-windows-debes-conocer-972455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cmd-2546593.jpg?tf=1200x' alt='15 usos de la línea de comandos (CMD) de Windows que debes conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mentiras-chatgpt-ia-1408986'>No solo es ChatGPT: la IA cada vez se volverá más mentirosa, según un estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mentiras-chatgpt-ia-1408986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/no-solo-chatgpt-ia-cada-vez-volvera-mentirosa-estudio-4245007.jpg?tf=1200x' alt='No solo es ChatGPT: la IA cada vez se volverá más mentirosa, según un estudio' />
     </a>
 </div>
 
