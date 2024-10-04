@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/copilot-microsoft-actualiza-ahora-ia-escucha-ve-aprende-ti-1409157'>Copilot de Microsoft se actualiza y ahora la IA escucha, ve y aprende de ti</a></h4>
+    <a href='https://computerhoy.com/tecnologia/copilot-microsoft-actualiza-ahora-ia-escucha-ve-aprende-ti-1409157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-copilot-3972239.jpg?tf=1200x' alt='Copilot de Microsoft se actualiza y ahora la IA escucha, ve y aprende de ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-expertos-ciberseguridad-1269702'>Ahora más que nunca debes conocer la regla de los 5 minutos que recomiendan los expertos para evitar ciberataques en tu móvil</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-expertos-ciberseguridad-1269702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/regla-5-minutos-4245235.jpg?tf=1200x' alt='Ahora más que nunca debes conocer la regla de los 5 minutos que recomiendan los expertos para evitar ciberataques en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-listo-competir-openai-nuevo-modelo-ia-razona-como-humanos-1409150'>Google listo para competir con OpenAI y su nuevo modelo de IA que razona como los humanos</a></h4>
+    <a href='https://computerhoy.com/google/google-listo-competir-openai-nuevo-modelo-ia-razona-como-humanos-1409150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-ia-4245240.jpg?tf=1200x' alt='Google listo para competir con OpenAI y su nuevo modelo de IA que razona como los humanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/bici-electrica-montana-barata-arrasa-decathlon-1223284'>Esta es la bici eléctrica de montaña barata que arrasa en Decathlon, y tiene 100 euros de descuento</a></h4>
     <a href='https://computerhoy.com/motor/bici-electrica-montana-barata-arrasa-decathlon-1223284' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/decathlon-tiene-nueva-bicicleta-electrica-montana-barata-rockrider-st-500-2997424.jpg?tf=1200x' alt='Esta es la bici eléctrica de montaña barata que arrasa en Decathlon, y tiene 100 euros de descuento' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/razon-vas-querer-instalar-windows-11-24h2-1409138'>Esta es la razón por la que vas a querer instalar Windows 11 24H2</a></h4>
     <a href='https://computerhoy.com/windows/razon-vas-querer-instalar-windows-11-24h2-1409138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/unica-razon-vas-querer-instalar-windows-11-24h2-4245222.jpg?tf=1200x' alt='Esta es la razón por la que vas a querer instalar Windows 11 24H2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/acer-aspire-vero-16-fabricado-plastico-reciclado-oceanos-me-ha-devuelto-confianza-portatiles-ecologicos-1406748'>El Acer Aspire Vero 16 está fabricado con plástico reciclado de los océanos y me ha devuelto la confianza en portátiles ecológicos</a></h4>
-    <a href='https://computerhoy.com/pc/acer-aspire-vero-16-fabricado-plastico-reciclado-oceanos-me-ha-devuelto-confianza-portatiles-ecologicos-1406748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/acer-aspire-vero-16-4214938.jpg?tf=1200x' alt='El Acer Aspire Vero 16 está fabricado con plástico reciclado de los océanos y me ha devuelto la confianza en portátiles ecológicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-durante-semanas-apple-watch-series-10-sorprendentemente-pantalla-mejor-1408560'>He probado durante semanas el Apple Watch Series 10 y sí, más pantalla es mejor</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-durante-semanas-apple-watch-series-10-sorprendentemente-pantalla-mejor-1408560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-watch-series-10-4244553.jpg?tf=1200x' alt='He probado durante semanas el Apple Watch Series 10 y sí, más pantalla es mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/usos-linea-comandos-cmd-windows-debes-conocer-972455'>15 usos de la línea de comandos (CMD) de Windows que debes conocer</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/usos-linea-comandos-cmd-windows-debes-conocer-972455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cmd-2546593.jpg?tf=1200x' alt='15 usos de la línea de comandos (CMD) de Windows que debes conocer' />
     </a>
 </div>
 
