@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-lanza-ios-1801-actualizacion-sorpresa-parchear-primeros-problemas-iphone-16-1409190'>Apple lanza iOS 18.0.1, una actualización sorpresa para parchear los primeros problemas en iPhone 16</a></h4>
+    <a href='https://computerhoy.com/apple/apple-lanza-ios-1801-actualizacion-sorpresa-parchear-primeros-problemas-iphone-16-1409190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243568.jpg?tf=1200x' alt='Apple lanza iOS 18.0.1, una actualización sorpresa para parchear los primeros problemas en iPhone 16' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ahora-momento-ps5-barata-nunca-puedes-comprarla-399-euros-1409139'>Ahora es el momento: la PS5 es más barata que nunca y puedes comprarla desde 399 euros</a></h4>
+    <a href='https://computerhoy.com/gaming/ahora-momento-ps5-barata-nunca-puedes-comprarla-399-euros-1409139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/playstation-5-ps5-3216088.jpg?tf=1200x' alt='Ahora es el momento: la PS5 es más barata que nunca y puedes comprarla desde 399 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/copilot-microsoft-actualiza-ahora-ia-escucha-ve-aprende-ti-1409157'>Copilot de Microsoft se actualiza y ahora la IA escucha, ve y aprende de ti</a></h4>
     <a href='https://computerhoy.com/tecnologia/copilot-microsoft-actualiza-ahora-ia-escucha-ve-aprende-ti-1409157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-copilot-3972239.jpg?tf=1200x' alt='Copilot de Microsoft se actualiza y ahora la IA escucha, ve y aprende de ti' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-listo-competir-openai-nuevo-modelo-ia-razona-como-humanos-1409150'>Google listo para competir con OpenAI y su nuevo modelo de IA que razona como los humanos</a></h4>
     <a href='https://computerhoy.com/google/google-listo-competir-openai-nuevo-modelo-ia-razona-como-humanos-1409150' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-ia-4245240.jpg?tf=1200x' alt='Google listo para competir con OpenAI y su nuevo modelo de IA que razona como los humanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/bici-electrica-montana-barata-arrasa-decathlon-1223284'>Esta es la bici eléctrica de montaña barata que arrasa en Decathlon, y tiene 100 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/motor/bici-electrica-montana-barata-arrasa-decathlon-1223284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/decathlon-tiene-nueva-bicicleta-electrica-montana-barata-rockrider-st-500-2997424.jpg?tf=1200x' alt='Esta es la bici eléctrica de montaña barata que arrasa en Decathlon, y tiene 100 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/razon-vas-querer-instalar-windows-11-24h2-1409138'>Esta es la razón por la que vas a querer instalar Windows 11 24H2</a></h4>
-    <a href='https://computerhoy.com/windows/razon-vas-querer-instalar-windows-11-24h2-1409138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/unica-razon-vas-querer-instalar-windows-11-24h2-4245222.jpg?tf=1200x' alt='Esta es la razón por la que vas a querer instalar Windows 11 24H2' />
     </a>
 </div>
 
