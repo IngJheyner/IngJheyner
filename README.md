@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/ni-thermomix-ni-lidl-robot-cocina-espanol-mambo-cooking-cecotec-1409379'>Ni Thermomix ni Lidl, con este robot de cocina español no tendrás que hacer nada: añade los ingredientes y se limpia solo</a></h4>
+    <a href='https://computerhoy.com/alimentacion/ni-thermomix-ni-lidl-robot-cocina-espanol-mambo-cooking-cecotec-1409379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1728077093962-4245675.jpg?tf=1200x' alt='Ni Thermomix ni Lidl, con este robot de cocina español no tendrás que hacer nada: añade los ingredientes y se limpia solo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estos-son-primeros-moviles-xiaomi-redmi-recibiran-hyperos-20-1409371'>Estos son los primeros móviles Xiaomi y Redmi que recibirán HyperOS 2.0</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-son-primeros-moviles-xiaomi-redmi-recibiran-hyperos-20-1409371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-4245656.jpg?tf=1200x' alt='Estos son los primeros móviles Xiaomi y Redmi que recibirán HyperOS 2.0' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/movie-gen-ia-generativa-meta-inserta-cara-cualquier-video-1409362'>Movie Gen, la IA generativa de Meta que inserta tu cara en cualquier vídeo</a></h4>
     <a href='https://computerhoy.com/tecnologia/movie-gen-ia-generativa-meta-inserta-cara-cualquier-video-1409362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1728065586502-4245632.jpg?tf=1200x' alt='Movie Gen, la IA generativa de Meta que inserta tu cara en cualquier vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desconocido-smartwatch-barato-samsung-ya-venta-tiene-gps-1407923'>Este desconocido smartwatch barato de Samsung ya está a la venta, y tiene GPS</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desconocido-smartwatch-barato-samsung-ya-venta-tiene-gps-1407923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-watch-fe-4243245.jpg?tf=1200x' alt='Este desconocido smartwatch barato de Samsung ya está a la venta, y tiene GPS' />
     </a>
 </div>
 
