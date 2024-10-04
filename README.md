@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/telegram-deja-ser-patio-recreo-iptv-ilegales-pirateria-todo-gratis-1409240'>Telegram deja de ser el patio de recreo de las IPTV ilegales, la piratería y el todo gratis</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-deja-ser-patio-recreo-iptv-ilegales-pirateria-todo-gratis-1409240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/telegram-deja-ser-patio-recreo-iptv-ilegales-pirateria-todo-gratis-4245392.jpg?tf=1200x' alt='Telegram deja de ser el patio de recreo de las IPTV ilegales, la piratería y el todo gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/cambio-windows-portatil-viejo-sistema-operativo-gratis-chromeos-flex-1402728'>Tras mucho pensármelo, cambié Windows en mi viejo portátil por este sistema operativo gratis: ahora vuela, parece nuevo</a></h4>
+    <a href='https://computerhoy.com/pc/cambio-windows-portatil-viejo-sistema-operativo-gratis-chromeos-flex-1402728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/intel-evo-elegir-portatil-black-friday-portada-2874943.jpg?tf=1200x' alt='Tras mucho pensármelo, cambié Windows en mi viejo portátil por este sistema operativo gratis: ahora vuela, parece nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/no-solo-cuervo-5-remakes-nadie-pidio-fueron-fracaso-1402322'>No solo El cuervo: 5 remakes que nadie pidió y fueron un fracaso</a></h4>
     <a href='https://computerhoy.com/entretenimiento/no-solo-cuervo-5-remakes-nadie-pidio-fueron-fracaso-1402322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/no-solo-cuervo-5-remakes-nadie-pidio-fueron-fracaso-4050521.jpg?tf=1200x' alt='No solo El cuervo: 5 remakes que nadie pidió y fueron un fracaso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/razon-no-necesitas-cifrar-archivos-disco-duro-1394690'>Esta es la razón por la que no necesitas cifrar los archivos de tu disco duro</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/razon-no-necesitas-cifrar-archivos-disco-duro-1394690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/razon-no-necesitas-cifrar-archivos-disco-duro-3687825.jpg?tf=1200x' alt='Esta es la razón por la que no necesitas cifrar los archivos de tu disco duro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/opciones-gratis-actualizar-pc-windows-10-1406819'>Opciones gratis para seguir utilizando un ordenador con Windows 10 que no puedes actualizar a Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/opciones-gratis-actualizar-pc-windows-10-1406819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-3885056.jpg?tf=1200x' alt='Opciones gratis para seguir utilizando un ordenador con Windows 10 que no puedes actualizar a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-pelicula-ciencia-ficcion-creo-genero-propio-1404574'>Está en MAX y es la película que cambió el cine de ciencia ficción para siempre: creó un género propio</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/hbo-max-pelicula-ciencia-ficcion-creo-genero-propio-1404574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ya-puedes-ver-max-pelicula-cambio-ciencia-ficcion-siempre-creo-genero-propio-4149410.jpg?tf=1200x' alt='Está en MAX y es la película que cambió el cine de ciencia ficción para siempre: creó un género propio' />
     </a>
 </div>
 
