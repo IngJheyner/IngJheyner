@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-tecnologia-dispositivos-electronicos-orbitronica-1408948'>La nueva tecnología que podría cambiar todos tus dispositivos electrónicos: la orbitrónica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-tecnologia-dispositivos-electronicos-orbitronica-1408948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/orbitronica-4245083.jpg?tf=1200x' alt='La nueva tecnología que podría cambiar todos tus dispositivos electrónicos: la orbitrónica' />
+    <h4><a href='https://computerhoy.com/windows/razon-vas-querer-instalar-windows-11-24h2-1409138'>Esta es la razón por la que vas a querer instalar Windows 11 24H2</a></h4>
+    <a href='https://computerhoy.com/windows/razon-vas-querer-instalar-windows-11-24h2-1409138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/unica-razon-vas-querer-instalar-windows-11-24h2-4245222.jpg?tf=1200x' alt='Esta es la razón por la que vas a querer instalar Windows 11 24H2' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-fabricar-diamantes-menos-3-horas-1408932'>Científicos logran crear diamantes en menos de 3 horas: el descubrimiento que podría revolucionar el mercado</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-fabricar-diamantes-menos-3-horas-1408932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/maquina-fabricar-diamantes-4245087.jpg?tf=1200x' alt='Científicos logran crear diamantes en menos de 3 horas: el descubrimiento que podría revolucionar el mercado' />
+    <h4><a href='https://computerhoy.com/pc/acer-aspire-vero-16-fabricado-plastico-reciclado-oceanos-me-ha-devuelto-confianza-portatiles-ecologicos-1406748'>El Acer Aspire Vero 16 está fabricado con plástico reciclado de los océanos y me ha devuelto la confianza en portátiles ecológicos</a></h4>
+    <a href='https://computerhoy.com/pc/acer-aspire-vero-16-fabricado-plastico-reciclado-oceanos-me-ha-devuelto-confianza-portatiles-ecologicos-1406748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/acer-aspire-vero-16-4214938.jpg?tf=1200x' alt='El Acer Aspire Vero 16 está fabricado con plástico reciclado de los océanos y me ha devuelto la confianza en portátiles ecológicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/reducir-factura-luz-olvidate-horno-frigorifico-cargador-movil-1409129'>Para reducir la factura de la luz, olvídate del horno o el frigorífico: un pequeño dispositivo consume más</a></h4>
-    <a href='https://computerhoy.com/energia/reducir-factura-luz-olvidate-horno-frigorifico-cargador-movil-1409129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/reducir-factura-luz-olvidate-horno-frigorifico-dispositivo-consume-4245209.jpg?tf=1200x' alt='Para reducir la factura de la luz, olvídate del horno o el frigorífico: un pequeño dispositivo consume más' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-durante-semanas-apple-watch-series-10-sorprendentemente-pantalla-mejor-1408560'>He probado durante semanas el Apple Watch Series 10 y sorprendentemente sí, más pantalla es mejor</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-durante-semanas-apple-watch-series-10-sorprendentemente-pantalla-mejor-1408560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-watch-series-10-4244553.jpg?tf=1200x' alt='He probado durante semanas el Apple Watch Series 10 y sorprendentemente sí, más pantalla es mejor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-potente-i7-32gb-ram-rebaja-amazon-1296180'>Es increíble que sea tan potente siendo tan pequeño, pero este Mini PC con i7 y 32GB de RAM lo es, y además a buen precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mini-pc-potente-i7-32gb-ram-rebaja-amazon-1296180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/minis-forum-nab6-3119584.jpg?tf=1200x' alt='Es increíble que sea tan potente siendo tan pequeño, pero este Mini PC con i7 y 32GB de RAM lo es, y además a buen precio' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/usos-linea-comandos-cmd-windows-debes-conocer-972455'>15 usos de la línea de comandos (CMD) de Windows que debes conocer</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/usos-linea-comandos-cmd-windows-debes-conocer-972455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/cmd-2546593.jpg?tf=1200x' alt='15 usos de la línea de comandos (CMD) de Windows que debes conocer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/playstation-usuarios-unen-especuladores-ps5-30-aniversario-1409117'>Playstation y los usuarios se unen contra los especuladores de PS5 30 aniversario: "muchos se van a 'comer' las consolas"</a></h4>
-    <a href='https://computerhoy.com/gaming/playstation-usuarios-unen-especuladores-ps5-30-aniversario-1409117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/playstation-usuarios-unen-especuladores-ps5-30-aniversario-muchos-van-comer-consolas-4245197.jpg?tf=1200x' alt='Playstation y los usuarios se unen contra los especuladores de PS5 30 aniversario: "muchos se van a 'comer' las consolas"' />
+    <h4><a href='https://computerhoy.com/tecnologia/mentiras-chatgpt-ia-1408986'>No solo es ChatGPT: la IA cada vez se volverá más mentirosa, según un estudio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mentiras-chatgpt-ia-1408986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/no-solo-chatgpt-ia-cada-vez-volvera-mentirosa-estudio-4245007.jpg?tf=1200x' alt='No solo es ChatGPT: la IA cada vez se volverá más mentirosa, según un estudio' />
     </a>
 </div>
 
