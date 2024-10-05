@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-permitira-elegir-donde-guardar-contactos-nueva-funcion-1409439'>WhatsApp permitirá elegir dónde guardar los contactos con esta nueva función</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-permitira-elegir-donde-guardar-contactos-nueva-funcion-1409439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sincronizacion-contactos-whatsapp-4245752.jpg?tf=1200x' alt='WhatsApp permitirá elegir dónde guardar los contactos con esta nueva función' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/movil-plegable-barato-puedes-comprar-apenas-500-euros-1407577'>Este es el móvil plegable más barato: lo puedes comprar por apenas 500 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-plegable-barato-puedes-comprar-apenas-500-euros-1407577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/zte-nubia-flip-5g-3692768.jpg?tf=1200x' alt='Este es el móvil plegable más barato: lo puedes comprar por apenas 500 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ya-disponible-android-auto-13-todos-novedades-como-actualizar-1409412'>Ya está disponible Android Auto 13 para todos: novedades y cómo actualizar</a></h4>
     <a href='https://computerhoy.com/apps/ya-disponible-android-auto-13-todos-novedades-como-actualizar-1409412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-130-4245714.jpg?tf=1200x' alt='Ya está disponible Android Auto 13 para todos: novedades y cómo actualizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-uso-gpu-windows-1409037'>Cómo solucionar el uso de GPU al 0% en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-solucionar-uso-gpu-windows-1409037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tarjeta-grafica-pc-4245108.jpg?tf=1200x' alt='Cómo solucionar el uso de GPU al 0% en Windows' />
     </a>
 </div>
 
