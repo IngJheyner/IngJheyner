@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-estrena-nuevas-tarjetas-resumen-gmail-no-te-escape-ninguna-compra-jamas-pierdas-avion-1409479'>Google estrena nuevas tarjetas de resumen en Gmail para que no se te escape ninguna compra y jamás pierdas un avión</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-estrena-nuevas-tarjetas-resumen-gmail-no-te-escape-ninguna-compra-jamas-pierdas-avion-1409479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-estrena-nuevas-tarjetas-resumen-gmail-no-te-escape-ninguna-compra-jamas-pierdas-avion-4245789.jpg?tf=1200x' alt='Google estrena nuevas tarjetas de resumen en Gmail para que no se te escape ninguna compra y jamás pierdas un avión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/podras-personalizar-tamano-iconos-barra-tareas-windows-11-1409478'>Podrás personalizar el tamaño de los iconos de la barra de tareas de Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/podras-personalizar-tamano-iconos-barra-tareas-windows-11-1409478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/podras-personalizar-tamano-iconos-barra-tareas-windows-11-4245787.jpg?tf=1200x' alt='Podrás personalizar el tamaño de los iconos de la barra de tareas de Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-permitira-elegir-donde-guardar-contactos-nueva-funcion-1409439'>WhatsApp permitirá elegir dónde guardar los contactos con esta nueva función</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-permitira-elegir-donde-guardar-contactos-nueva-funcion-1409439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sincronizacion-contactos-whatsapp-4245752.jpg?tf=1200x' alt='WhatsApp permitirá elegir dónde guardar los contactos con esta nueva función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-plegable-barato-puedes-comprar-apenas-500-euros-1407577'>Este es el móvil plegable más barato: lo puedes comprar por apenas 500 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-plegable-barato-puedes-comprar-apenas-500-euros-1407577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/zte-nubia-flip-5g-3692768.jpg?tf=1200x' alt='Este es el móvil plegable más barato: lo puedes comprar por apenas 500 euros' />
     </a>
 </div>
 
