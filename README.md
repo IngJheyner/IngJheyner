@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-quienes-buscan-empleo-hemos-recibido-curriculum-1407009'>Así es la nueva estafa a quienes buscan empleo: “Hemos recibido el currículum”</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-quienes-buscan-empleo-hemos-recibido-curriculum-1407009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nueva-estafa-quienes-buscan-empleo-hemos-recibido-curriculum-4241724.jpg?tf=1200x' alt='Así es la nueva estafa a quienes buscan empleo: “Hemos recibido el currículum”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/tornillo-magico-reduce-ruido-vecinos-mitad-1409391'>Este tornillo 'mágico' reduce el ruido de los vecinos a la mitad</a></h4>
+    <a href='https://computerhoy.com/hogar/tornillo-magico-reduce-ruido-vecinos-mitad-1409391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tornillo-magico-reduce-ruido-vecinos-mitad-4245693.jpg?tf=1200x' alt='Este tornillo 'mágico' reduce el ruido de los vecinos a la mitad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-pad-6-oferta-menos-300-euros-1254690'>Esta tablet Xiaomi es apuesta segura: 256GB de almacenamiento y procesador Snapdragon, y ahora rompe la barrera de los 300 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-pad-6-oferta-menos-300-euros-1254690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531813.jpg?tf=1200x' alt='Esta tablet Xiaomi es apuesta segura: 256GB de almacenamiento y procesador Snapdragon, y ahora rompe la barrera de los 300 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/resuelven-acertijos-lechuza-oro-1409388'>31 años después, resuelven los acertijos y encuentran la Lechuza de Oro</a></h4>
     <a href='https://computerhoy.com/life/resuelven-acertijos-lechuza-oro-1409388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/31-anos-despues-resuelven-acertijos-encuentran-lechuza-oro-4245689.jpg?tf=1200x' alt='31 años después, resuelven los acertijos y encuentran la Lechuza de Oro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/motorola-edge-50-neo-analisis-opiniones-1407510'>He probado el Motorola Edge 50 Neo y, además de su olor a colonia, me ha gustado su obsesión por la eficiencia</a></h4>
-    <a href='https://computerhoy.com/analisis/motorola-edge-50-neo-analisis-opiniones-1407510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/motorola-edge-50-neo-analisis-opiniones-4243542.jpg?tf=1200x' alt='He probado el Motorola Edge 50 Neo y, además de su olor a colonia, me ha gustado su obsesión por la eficiencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/expertos-alertan-popular-tipo-yogur-parece-saludable-pero-como-comer-terrones-azucar-1409109'>Expertos alertan sobre este popular tipo de yogur: parece saludable, pero es como comer terrones de azúcar</a></h4>
-    <a href='https://computerhoy.com/alimentacion/expertos-alertan-popular-tipo-yogur-parece-saludable-pero-como-comer-terrones-azucar-1409109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/expertos-alertan-popular-tipo-yogur-parece-saludable-pero-como-comer-terrones-azucar-4245203.jpg?tf=1200x' alt='Expertos alertan sobre este popular tipo de yogur: parece saludable, pero es como comer terrones de azúcar' />
     </a>
 </div>
 
