@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/podras-personalizar-tamano-iconos-barra-tareas-windows-11-1409478'>Podrás personalizar el tamaño de los iconos de la barra de tareas de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/podras-personalizar-tamano-iconos-barra-tareas-windows-11-1409478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/podras-personalizar-tamano-iconos-barra-tareas-windows-11-4245787.jpg?tf=1200x' alt='Podrás personalizar el tamaño de los iconos de la barra de tareas de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/saldra-subasta-prototipo-apple-macintosh-steve-jobs-mando-destruir-1409453'>Saldrá a subasta un prototipo de Apple Macintosh que Steve Jobs mandó destruir</a></h4>
     <a href='https://computerhoy.com/apple/saldra-subasta-prototipo-apple-macintosh-steve-jobs-mando-destruir-1409453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-macintosh-modelo-ndeg-m0001-1983-4245767.jpg?tf=1200x' alt='Saldrá a subasta un prototipo de Apple Macintosh que Steve Jobs mandó destruir' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/movil-plegable-barato-puedes-comprar-apenas-500-euros-1407577'>Este es el móvil plegable más barato: lo puedes comprar por apenas 500 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-plegable-barato-puedes-comprar-apenas-500-euros-1407577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/zte-nubia-flip-5g-3692768.jpg?tf=1200x' alt='Este es el móvil plegable más barato: lo puedes comprar por apenas 500 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/protege-android-empiezan-desplegar-nuevas-herramientas-google-evitar-robo-movil-1409434'>Protege tu Android: se empiezan a desplegar las nuevas herramientas de Google para evitar el robo de tu móvil</a></h4>
-    <a href='https://computerhoy.com/android/protege-android-empiezan-desplegar-nuevas-herramientas-google-evitar-robo-movil-1409434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/robo-movil-android-4245742.jpg?tf=1200x' alt='Protege tu Android: se empiezan a desplegar las nuevas herramientas de Google para evitar el robo de tu móvil' />
     </a>
 </div>
 
