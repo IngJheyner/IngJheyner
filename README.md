@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-revienta-precios-rebaja-73-suscripcion-tres-meses-regalo-forma-temporal-1408223'>NordVPN revienta sus precios: rebaja un 73% su suscripción con tres meses de regalo de forma temporal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nordvpn-revienta-precios-rebaja-73-suscripcion-tres-meses-regalo-forma-temporal-1408223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nordvpn-3305525.jpg?tf=1200x' alt='NordVPN revienta sus precios: rebaja un 73% su suscripción con tres meses de regalo de forma temporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-quienes-buscan-empleo-hemos-recibido-curriculum-1407009'>Así es la nueva estafa a quienes buscan empleo: “Hemos recibido el currículum”</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-quienes-buscan-empleo-hemos-recibido-curriculum-1407009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nueva-estafa-quienes-buscan-empleo-hemos-recibido-curriculum-4241724.jpg?tf=1200x' alt='Así es la nueva estafa a quienes buscan empleo: “Hemos recibido el currículum”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cuando-alarma-mi-movil-pero-inteligente-1408329'>¿Para cuándo una alarma en mi móvil, pero inteligente?</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuando-alarma-mi-movil-pero-inteligente-1408329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/reloj-despertador-4243945.jpg?tf=1200x' alt='¿Para cuándo una alarma en mi móvil, pero inteligente?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/resuelven-acertijos-lechuza-oro-1409388'>31 años después, resuelven los acertijos y encuentran la Lechuza de Oro</a></h4>
-    <a href='https://computerhoy.com/life/resuelven-acertijos-lechuza-oro-1409388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/31-anos-despues-resuelven-acertijos-encuentran-lechuza-oro-4245689.jpg?tf=1200x' alt='31 años después, resuelven los acertijos y encuentran la Lechuza de Oro' />
     </a>
 </div>
 
