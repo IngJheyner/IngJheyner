@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/rodea-buscar-funcionara-muy-pronto-tambien-videos-1409482'>Rodea para buscar funcionará muy pronto también para vídeos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rodea-buscar-funcionara-muy-pronto-tambien-videos-1409482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/rodea-buscar-4101785.jpg?tf=1200x' alt='Rodea para buscar funcionará muy pronto también para vídeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-estrena-nuevas-tarjetas-resumen-gmail-no-te-escape-ninguna-compra-jamas-pierdas-avion-1409479'>Google estrena nuevas tarjetas de resumen en Gmail para que no se te escape ninguna compra y jamás pierdas un avión</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-estrena-nuevas-tarjetas-resumen-gmail-no-te-escape-ninguna-compra-jamas-pierdas-avion-1409479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-estrena-nuevas-tarjetas-resumen-gmail-no-te-escape-ninguna-compra-jamas-pierdas-avion-4245789.jpg?tf=1200x' alt='Google estrena nuevas tarjetas de resumen en Gmail para que no se te escape ninguna compra y jamás pierdas un avión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/polemico-plan-acabar-atascos-sistema-creditos-carriles-preferenciales-1409447'>El polémico plan para acabar con los atascos: un sistema de créditos para carriles preferenciales</a></h4>
     <a href='https://computerhoy.com/life/polemico-plan-acabar-atascos-sistema-creditos-carriles-preferenciales-1409447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/peaje-4245761.jpg?tf=1200x' alt='El polémico plan para acabar con los atascos: un sistema de créditos para carriles preferenciales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-permitira-elegir-donde-guardar-contactos-nueva-funcion-1409439'>WhatsApp permitirá elegir dónde guardar los contactos con esta nueva función</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-permitira-elegir-donde-guardar-contactos-nueva-funcion-1409439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sincronizacion-contactos-whatsapp-4245752.jpg?tf=1200x' alt='WhatsApp permitirá elegir dónde guardar los contactos con esta nueva función' />
     </a>
 </div>
 
