@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/motorola-edge-neo-40-mejor-movil-barato-android-1283310'>12GB de RAM, Android puro y una pantalla que ningún gama media tiene: este Motorola es de nuestros móviles favoritos</a></h4>
+    <a href='https://computerhoy.com/android/motorola-edge-neo-40-mejor-movil-barato-android-1283310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/motorola-edge-40-neo-3224628.jpg?tf=1200x' alt='12GB de RAM, Android puro y una pantalla que ningún gama media tiene: este Motorola es de nuestros móviles favoritos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/ni-thermomix-ni-lidl-robot-cocina-espanol-mambo-cooking-cecotec-1409379'>Ni Thermomix ni Lidl, con este robot de cocina español no tendrás que hacer nada: añade los ingredientes y se limpia solo</a></h4>
     <a href='https://computerhoy.com/alimentacion/ni-thermomix-ni-lidl-robot-cocina-espanol-mambo-cooking-cecotec-1409379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1728077093962-4245675.jpg?tf=1200x' alt='Ni Thermomix ni Lidl, con este robot de cocina español no tendrás que hacer nada: añade los ingredientes y se limpia solo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/mucho-mejor-microondas-desconocida-funcion-freidora-aire-casi-nadie-utiliza-1409367'>Mucho mejor que el microondas: la desconocida función de la freidora de aire que casi nadie utiliza</a></h4>
     <a href='https://computerhoy.com/alimentacion/mucho-mejor-microondas-desconocida-funcion-freidora-aire-casi-nadie-utiliza-1409367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/freidora-aire-aceite-4245651.jpg?tf=1200x' alt='Mucho mejor que el microondas: la desconocida función de la freidora de aire que casi nadie utiliza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movie-gen-ia-generativa-meta-inserta-cara-cualquier-video-1409362'>Movie Gen, la IA generativa de Meta que inserta tu cara en cualquier vídeo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movie-gen-ia-generativa-meta-inserta-cara-cualquier-video-1409362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1728065586502-4245632.jpg?tf=1200x' alt='Movie Gen, la IA generativa de Meta que inserta tu cara en cualquier vídeo' />
     </a>
 </div>
 
