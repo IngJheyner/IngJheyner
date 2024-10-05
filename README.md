@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/saldra-subasta-prototipo-apple-macintosh-steve-jobs-mando-destruir-1409453'>Saldrá a subasta un prototipo de Apple Macintosh que Steve Jobs mandó destruir</a></h4>
+    <a href='https://computerhoy.com/apple/saldra-subasta-prototipo-apple-macintosh-steve-jobs-mando-destruir-1409453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-macintosh-modelo-ndeg-m0001-1983-4245767.jpg?tf=1200x' alt='Saldrá a subasta un prototipo de Apple Macintosh que Steve Jobs mandó destruir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/polemico-plan-acabar-atascos-sistema-creditos-carriles-preferenciales-1409447'>El polémico plan para acabar con los atascos: un sistema de créditos para carriles preferenciales</a></h4>
     <a href='https://computerhoy.com/life/polemico-plan-acabar-atascos-sistema-creditos-carriles-preferenciales-1409447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/peaje-4245761.jpg?tf=1200x' alt='El polémico plan para acabar con los atascos: un sistema de créditos para carriles preferenciales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/protege-android-empiezan-desplegar-nuevas-herramientas-google-evitar-robo-movil-1409434'>Protege tu Android: se empiezan a desplegar las nuevas herramientas de Google para evitar el robo de tu móvil</a></h4>
     <a href='https://computerhoy.com/android/protege-android-empiezan-desplegar-nuevas-herramientas-google-evitar-robo-movil-1409434' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/robo-movil-android-4245742.jpg?tf=1200x' alt='Protege tu Android: se empiezan a desplegar las nuevas herramientas de Google para evitar el robo de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/no-estas-ganando-dinero-estas-aplicaciones-maliciosas-te-estan-enganando-ios-android-1409423'>¡No estás ganando dinero!: estas aplicaciones maliciosas te están engañando en iOS y Android</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/no-estas-ganando-dinero-estas-aplicaciones-maliciosas-te-estan-enganando-ios-android-1409423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-aplicaciones-inversion-4245721.jpg?tf=1200x' alt='¡No estás ganando dinero!: estas aplicaciones maliciosas te están engañando en iOS y Android' />
     </a>
 </div>
 
