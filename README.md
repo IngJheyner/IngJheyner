@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-revienta-precios-rebaja-73-suscripcion-tres-meses-regalo-forma-temporal-1408223'>NordVPN revienta sus precios: rebaja un 73% su suscripción con tres meses de regalo de forma temporal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nordvpn-revienta-precios-rebaja-73-suscripcion-tres-meses-regalo-forma-temporal-1408223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nordvpn-3305525.jpg?tf=1200x' alt='NordVPN revienta sus precios: rebaja un 73% su suscripción con tres meses de regalo de forma temporal' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/no-estas-ganando-dinero-estas-aplicaciones-maliciosas-te-estan-enganando-ios-android-1409423'>¡No estás ganando dinero!: estas aplicaciones maliciosas te están engañando en iOS y Android</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/no-estas-ganando-dinero-estas-aplicaciones-maliciosas-te-estan-enganando-ios-android-1409423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-aplicaciones-inversion-4245721.jpg?tf=1200x' alt='¡No estás ganando dinero!: estas aplicaciones maliciosas te están engañando en iOS y Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-quienes-buscan-empleo-hemos-recibido-curriculum-1407009'>Así es la nueva estafa a quienes buscan empleo: “Hemos recibido el currículum”</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-quienes-buscan-empleo-hemos-recibido-curriculum-1407009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nueva-estafa-quienes-buscan-empleo-hemos-recibido-curriculum-4241724.jpg?tf=1200x' alt='Así es la nueva estafa a quienes buscan empleo: “Hemos recibido el currículum”' />
+    <h4><a href='https://computerhoy.com/apps/ya-disponible-android-auto-13-todos-novedades-como-actualizar-1409412'>Ya está disponible Android Auto 13 para todos: novedades y cómo actualizar</a></h4>
+    <a href='https://computerhoy.com/apps/ya-disponible-android-auto-13-todos-novedades-como-actualizar-1409412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-130-4245714.jpg?tf=1200x' alt='Ya está disponible Android Auto 13 para todos: novedades y cómo actualizar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/tornillo-magico-reduce-ruido-vecinos-mitad-1409391'>Este tornillo 'mágico' reduce el ruido de los vecinos a la mitad</a></h4>
-    <a href='https://computerhoy.com/hogar/tornillo-magico-reduce-ruido-vecinos-mitad-1409391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tornillo-magico-reduce-ruido-vecinos-mitad-4245693.jpg?tf=1200x' alt='Este tornillo 'mágico' reduce el ruido de los vecinos a la mitad' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-uso-gpu-windows-1409037'>Cómo solucionar el uso de GPU al 0% en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-solucionar-uso-gpu-windows-1409037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tarjeta-grafica-pc-4245108.jpg?tf=1200x' alt='Cómo solucionar el uso de GPU al 0% en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-pad-6-oferta-menos-300-euros-1254690'>Esta tablet Xiaomi es apuesta segura: 256GB de almacenamiento y procesador Snapdragon, y ahora rompe la barrera de los 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-pad-6-oferta-menos-300-euros-1254690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531813.jpg?tf=1200x' alt='Esta tablet Xiaomi es apuesta segura: 256GB de almacenamiento y procesador Snapdragon, y ahora rompe la barrera de los 300 euros' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-norte-google-maps-ios-android-1408987'>Cómo encontrar el norte en Google Maps en iOS y Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-encontrar-norte-google-maps-ios-android-1408987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/norte-google-maps-4245017.jpg?tf=1200x' alt='Cómo encontrar el norte en Google Maps en iOS y Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuando-alarma-mi-movil-pero-inteligente-1408329'>¿Para cuándo una alarma en mi móvil, pero inteligente?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuando-alarma-mi-movil-pero-inteligente-1408329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/reloj-despertador-4243945.jpg?tf=1200x' alt='¿Para cuándo una alarma en mi móvil, pero inteligente?' />
+    <h4><a href='https://computerhoy.com/tecnologia/curioso-aparato-xiaomi-navaja-suiza-despertador-altavoz-inteligente-reloj-radio-1408617'>Este curioso aparato Xiaomi es una navaja suiza: despertador, altavoz inteligente, reloj y radio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/curioso-aparato-xiaomi-navaja-suiza-despertador-altavoz-inteligente-reloj-radio-1408617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/analisis-xiaomi-mi-smart-clock-2408939.jpg?tf=1200x' alt='Este curioso aparato Xiaomi es una navaja suiza: despertador, altavoz inteligente, reloj y radio' />
     </a>
 </div>
 
