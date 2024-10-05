@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/polemico-plan-acabar-atascos-sistema-creditos-carriles-preferenciales-1409447'>El polémico plan para acabar con los atascos: un sistema de créditos para carriles preferenciales</a></h4>
+    <a href='https://computerhoy.com/life/polemico-plan-acabar-atascos-sistema-creditos-carriles-preferenciales-1409447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/peaje-4245761.jpg?tf=1200x' alt='El polémico plan para acabar con los atascos: un sistema de créditos para carriles preferenciales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-permitira-elegir-donde-guardar-contactos-nueva-funcion-1409439'>WhatsApp permitirá elegir dónde guardar los contactos con esta nueva función</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-permitira-elegir-donde-guardar-contactos-nueva-funcion-1409439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sincronizacion-contactos-whatsapp-4245752.jpg?tf=1200x' alt='WhatsApp permitirá elegir dónde guardar los contactos con esta nueva función' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/no-estas-ganando-dinero-estas-aplicaciones-maliciosas-te-estan-enganando-ios-android-1409423'>¡No estás ganando dinero!: estas aplicaciones maliciosas te están engañando en iOS y Android</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/no-estas-ganando-dinero-estas-aplicaciones-maliciosas-te-estan-enganando-ios-android-1409423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-aplicaciones-inversion-4245721.jpg?tf=1200x' alt='¡No estás ganando dinero!: estas aplicaciones maliciosas te están engañando en iOS y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-disponible-android-auto-13-todos-novedades-como-actualizar-1409412'>Ya está disponible Android Auto 13 para todos: novedades y cómo actualizar</a></h4>
-    <a href='https://computerhoy.com/apps/ya-disponible-android-auto-13-todos-novedades-como-actualizar-1409412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-130-4245714.jpg?tf=1200x' alt='Ya está disponible Android Auto 13 para todos: novedades y cómo actualizar' />
     </a>
 </div>
 
