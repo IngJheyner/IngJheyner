@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/motorola-edge-neo-40-mejor-movil-barato-android-1283310'>12GB de RAM, Android puro y una pantalla que ningún gama media tiene: este Motorola es de nuestros móviles favoritos</a></h4>
-    <a href='https://computerhoy.com/android/motorola-edge-neo-40-mejor-movil-barato-android-1283310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/motorola-edge-40-neo-3224628.jpg?tf=1200x' alt='12GB de RAM, Android puro y una pantalla que ningún gama media tiene: este Motorola es de nuestros móviles favoritos' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-pad-6-oferta-menos-300-euros-1254690'>Esta tablet Xiaomi es apuesta segura: 256GB de almacenamiento y procesador Snapdragon, y ahora rompe la barrera de los 300 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-pad-6-oferta-menos-300-euros-1254690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/galeria-review-xiaomi-pad-5-2531813.jpg?tf=1200x' alt='Esta tablet Xiaomi es apuesta segura: 256GB de almacenamiento y procesador Snapdragon, y ahora rompe la barrera de los 300 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/ni-thermomix-ni-lidl-robot-cocina-espanol-mambo-cooking-cecotec-1409379'>Ni Thermomix ni Lidl, con este robot de cocina español no tendrás que hacer nada: añade los ingredientes y se limpia solo</a></h4>
-    <a href='https://computerhoy.com/alimentacion/ni-thermomix-ni-lidl-robot-cocina-espanol-mambo-cooking-cecotec-1409379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1728077093962-4245675.jpg?tf=1200x' alt='Ni Thermomix ni Lidl, con este robot de cocina español no tendrás que hacer nada: añade los ingredientes y se limpia solo' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuando-alarma-mi-movil-pero-inteligente-1408329'>¿Para cuándo una alarma en mi móvil, pero inteligente?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuando-alarma-mi-movil-pero-inteligente-1408329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/reloj-despertador-4243945.jpg?tf=1200x' alt='¿Para cuándo una alarma en mi móvil, pero inteligente?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-son-primeros-moviles-xiaomi-redmi-recibiran-hyperos-20-1409371'>Estos son los primeros móviles Xiaomi y Redmi que recibirán HyperOS 2.0</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-son-primeros-moviles-xiaomi-redmi-recibiran-hyperos-20-1409371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-4245656.jpg?tf=1200x' alt='Estos son los primeros móviles Xiaomi y Redmi que recibirán HyperOS 2.0' />
+    <h4><a href='https://computerhoy.com/life/resuelven-acertijos-lechuza-oro-1409388'>31 años después, resuelven los acertijos y encuentran la Lechuza de Oro</a></h4>
+    <a href='https://computerhoy.com/life/resuelven-acertijos-lechuza-oro-1409388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/31-anos-despues-resuelven-acertijos-encuentran-lechuza-oro-4245689.jpg?tf=1200x' alt='31 años después, resuelven los acertijos y encuentran la Lechuza de Oro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-lleva-marcas-verificacion-tambien-busquedas-significan-exactamente-1409368'>Google lleva las marcas de verificación también a las búsquedas: ¿qué significan exactamente?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-lleva-marcas-verificacion-tambien-busquedas-significan-exactamente-1409368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/buscador-google-check-verificacion-4245653.jpg?tf=1200x' alt='Google lleva las marcas de verificación también a las búsquedas: ¿qué significan exactamente?' />
+    <h4><a href='https://computerhoy.com/analisis/motorola-edge-50-neo-analisis-opiniones-1407510'>He probado el Motorola Edge 50 Neo y, además de su olor a colonia, me ha gustado su obsesión por la eficiencia</a></h4>
+    <a href='https://computerhoy.com/analisis/motorola-edge-50-neo-analisis-opiniones-1407510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/motorola-edge-50-neo-analisis-opiniones-4243542.jpg?tf=1200x' alt='He probado el Motorola Edge 50 Neo y, además de su olor a colonia, me ha gustado su obsesión por la eficiencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/mucho-mejor-microondas-desconocida-funcion-freidora-aire-casi-nadie-utiliza-1409367'>Mucho mejor que el microondas: la desconocida función de la freidora de aire que casi nadie utiliza</a></h4>
-    <a href='https://computerhoy.com/alimentacion/mucho-mejor-microondas-desconocida-funcion-freidora-aire-casi-nadie-utiliza-1409367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/freidora-aire-aceite-4245651.jpg?tf=1200x' alt='Mucho mejor que el microondas: la desconocida función de la freidora de aire que casi nadie utiliza' />
+    <h4><a href='https://computerhoy.com/alimentacion/expertos-alertan-popular-tipo-yogur-parece-saludable-pero-como-comer-terrones-azucar-1409109'>Expertos alertan sobre este popular tipo de yogur: parece saludable, pero es como comer terrones de azúcar</a></h4>
+    <a href='https://computerhoy.com/alimentacion/expertos-alertan-popular-tipo-yogur-parece-saludable-pero-como-comer-terrones-azucar-1409109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/expertos-alertan-popular-tipo-yogur-parece-saludable-pero-como-comer-terrones-azucar-4245203.jpg?tf=1200x' alt='Expertos alertan sobre este popular tipo de yogur: parece saludable, pero es como comer terrones de azúcar' />
     </a>
 </div>
 
