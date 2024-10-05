@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-plegable-barato-puedes-comprar-apenas-500-euros-1407577'>Este es el móvil plegable más barato: lo puedes comprar por apenas 500 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-plegable-barato-puedes-comprar-apenas-500-euros-1407577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/zte-nubia-flip-5g-3692768.jpg?tf=1200x' alt='Este es el móvil plegable más barato: lo puedes comprar por apenas 500 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/protege-android-empiezan-desplegar-nuevas-herramientas-google-evitar-robo-movil-1409434'>Protege tu Android: se empiezan a desplegar las nuevas herramientas de Google para evitar el robo de tu móvil</a></h4>
+    <a href='https://computerhoy.com/android/protege-android-empiezan-desplegar-nuevas-herramientas-google-evitar-robo-movil-1409434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/robo-movil-android-4245742.jpg?tf=1200x' alt='Protege tu Android: se empiezan a desplegar las nuevas herramientas de Google para evitar el robo de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/no-estas-ganando-dinero-estas-aplicaciones-maliciosas-te-estan-enganando-ios-android-1409423'>¡No estás ganando dinero!: estas aplicaciones maliciosas te están engañando en iOS y Android</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/no-estas-ganando-dinero-estas-aplicaciones-maliciosas-te-estan-enganando-ios-android-1409423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-aplicaciones-inversion-4245721.jpg?tf=1200x' alt='¡No estás ganando dinero!: estas aplicaciones maliciosas te están engañando en iOS y Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-uso-gpu-windows-1409037'>Cómo solucionar el uso de GPU al 0% en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-solucionar-uso-gpu-windows-1409037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tarjeta-grafica-pc-4245108.jpg?tf=1200x' alt='Cómo solucionar el uso de GPU al 0% en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-norte-google-maps-ios-android-1408987'>Cómo encontrar el norte en Google Maps en iOS y Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-encontrar-norte-google-maps-ios-android-1408987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/norte-google-maps-4245017.jpg?tf=1200x' alt='Cómo encontrar el norte en Google Maps en iOS y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/curioso-aparato-xiaomi-navaja-suiza-despertador-altavoz-inteligente-reloj-radio-1408617'>Este curioso aparato Xiaomi es una navaja suiza: despertador, altavoz inteligente, reloj y radio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/curioso-aparato-xiaomi-navaja-suiza-despertador-altavoz-inteligente-reloj-radio-1408617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/analisis-xiaomi-mi-smart-clock-2408939.jpg?tf=1200x' alt='Este curioso aparato Xiaomi es una navaja suiza: despertador, altavoz inteligente, reloj y radio' />
     </a>
 </div>
 
