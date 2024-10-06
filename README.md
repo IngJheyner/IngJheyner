@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/lleva-wifi-futuro-router-wifi-7-barato-mercado-ahora-1408034'>Lleva tu WiFi al futuro: este router con WiFi 7 es el más barato del mercado por ahora</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lleva-wifi-futuro-router-wifi-7-barato-mercado-ahora-1408034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mercusys-mr47be-4243450.jpg?tf=1200x' alt='Lleva tu WiFi al futuro: este router con WiFi 7 es el más barato del mercado por ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejor-miniserie-basada-hechos-reales-max-1407949'>Posiblemente, la mejor miniserie reciente basada en hechos reales: mucho mejor que Narcos y puedes verla en MAX</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejor-miniserie-basada-hechos-reales-max-1407949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/narcos-chernobyl-4243317.jpg?tf=1200x' alt='Posiblemente, la mejor miniserie reciente basada en hechos reales: mucho mejor que Narcos y puedes verla en MAX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/asar-castanas-freidora-aire-1155947'>¡Riquísimas! Así puedes hacer castañas asadas en la freidora de aire</a></h4>
+    <a href='https://computerhoy.com/noticias/life/asar-castanas-freidora-aire-1155947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/castanas-asadas-airfyer-4245349.jpg?tf=1200x' alt='¡Riquísimas! Así puedes hacer castañas asadas en la freidora de aire' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/bicicleta-electrica-moma-bikes-mas-vendida-amazon-1251136'>¿Qué tiene esta bicicleta eléctrica Moma Bikes que es la más vendida en Amazon?</a></h4>
     <a href='https://computerhoy.com/life/bicicleta-electrica-moma-bikes-mas-vendida-amazon-1251136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mtb-29-full-suspension-3043374.jpg?tf=1200x' alt='¿Qué tiene esta bicicleta eléctrica Moma Bikes que es la más vendida en Amazon?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-copilot-tambien-sea-capaz-componer-musica-proximos-videos-1409481'>Microsoft quiere que Copilot también sea capaz de componer música para tus próximos vídeos</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-quiere-copilot-tambien-sea-capaz-componer-musica-proximos-videos-1409481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/microsoft-quiere-copilot-tambien-sea-capaz-componer-musica-4245793.jpg?tf=1200x' alt='Microsoft quiere que Copilot también sea capaz de componer música para tus próximos vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/jpeg-xl-ventajas-tiene-formato-apple-trae-vuelta-iphone-16-1405110'>¿Qué es JPEG XL y qué ventajas tiene este formato que Apple trae de vuelta con el iPhone 16?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/jpeg-xl-ventajas-tiene-formato-apple-trae-vuelta-iphone-16-1405110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-iphone-16-pro-4241464.jpg?tf=1200x' alt='¿Qué es JPEG XL y qué ventajas tiene este formato que Apple trae de vuelta con el iPhone 16?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/no-iphone-vale-menos-1000-euros-pero-modo-noche-movil-me-ha-dejado-alucinado-1407860'>No es un iPhone y vale menos de 1.000 euros, pero el modo noche de este móvil me ha dejado alucinado</a></h4>
-    <a href='https://computerhoy.com/moviles/no-iphone-vale-menos-1000-euros-pero-modo-noche-movil-me-ha-dejado-alucinado-1407860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-14t-pro-4241602.jpg?tf=1200x' alt='No es un iPhone y vale menos de 1.000 euros, pero el modo noche de este móvil me ha dejado alucinado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-experimentado-hysteria-boothill-portaventura-atraccion-realidad-mixta-parte-futuro-parques-atracciones-1408898'>He experimentado Hysteria in Boothill de PortAventura, una atracción de realidad mixta que es parte del futuro de los parques de atracciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-experimentado-hysteria-boothill-portaventura-atraccion-realidad-mixta-parte-futuro-parques-atracciones-1408898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/atraccion-hysteria-boothill-portaventura-world-4244908.jpg?tf=1200x' alt='He experimentado Hysteria in Boothill de PortAventura, una atracción de realidad mixta que es parte del futuro de los parques de atracciones' />
     </a>
 </div>
 
