@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/adios-instrumento-clave-voyager-2-nasa-adapta-perdida-energia-1409506'>Adiós a un instrumento clave: la Voyager 2 de la NASA se adapta a la pérdida de energía</a></h4>
-    <a href='https://computerhoy.com/espacio/adios-instrumento-clave-voyager-2-nasa-adapta-perdida-energia-1409506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nasa-detecta-latido-corazon-voyager-2-perder-contacto-millones-kilometros-3098682.jpg?tf=1200x' alt='Adiós a un instrumento clave: la Voyager 2 de la NASA se adapta a la pérdida de energía' />
+    <h4><a href='https://computerhoy.com/tecnologia/vas-querer-seguro-teclado-inalambrico-inspirado-maquinas-escribir-increiblemente-barato-amazon-1408043'>Lo vas a querer seguro: este teclado inalámbrico inspirado en las máquinas de escribir es increíblemente barato en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vas-querer-seguro-teclado-inalambrico-inspirado-maquinas-escribir-increiblemente-barato-amazon-1408043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/yuzii-actto-b503-4243482.jpg?tf=1200x' alt='Lo vas a querer seguro: este teclado inalámbrico inspirado en las máquinas de escribir es increíblemente barato en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usuarios-android-vs-iphone-quien-actualiza-dispositivos-frecuencia-1409503'>Usuarios de Android vs. iPhone: ¿Quién actualiza sus dispositivos con más frecuencia?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usuarios-android-vs-iphone-quien-actualiza-dispositivos-frecuencia-1409503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/usuarios-android-vs-iphone-4245868.jpg?tf=1200x' alt='Usuarios de Android vs. iPhone: ¿Quién actualiza sus dispositivos con más frecuencia?' />
+    <h4><a href='https://computerhoy.com/android/android-hara-facil-nunca-identificar-canciones-puedes-activar-nueva-funcion-1409508'>Android hará más fácil que nunca identificar canciones: así puedes activar la nueva función</a></h4>
+    <a href='https://computerhoy.com/android/android-hara-facil-nunca-identificar-canciones-puedes-activar-nueva-funcion-1409508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-hara-facil-nunca-identificar-canciones-4245873.jpg?tf=1200x' alt='Android hará más fácil que nunca identificar canciones: así puedes activar la nueva función' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/televisor-arrasa-ventas-amazon-tesla-pero-no-como-coches-mide-32-tiene-google-tv-1406639'>El televisor que arrasa en ventas en Amazon es Tesla, pero no como los coches: mide 32" y tiene Google TV</a></h4>
-    <a href='https://computerhoy.com/tecnologia/televisor-arrasa-ventas-amazon-tesla-pero-no-como-coches-mide-32-tiene-google-tv-1406639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tesla-32e635bhs-4241057.jpg?tf=1200x' alt='El televisor que arrasa en ventas en Amazon es Tesla, pero no como los coches: mide 32" y tiene Google TV' />
+    <h4><a href='https://computerhoy.com/tv/iptv-multas-clientes-listas-pirata-ilegales-1408254'>IPTV: “Es hora de que los usuarios de las listas ilegales paguen por lo que hacen”</a></h4>
+    <a href='https://computerhoy.com/tv/iptv-multas-clientes-listas-pirata-ilegales-1408254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-ilegal-4245899.jpg?tf=1200x' alt='IPTV: “Es hora de que los usuarios de las listas ilegales paguen por lo que hacen”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-abrir-archivos-adjuntos-gmail-descargarlos-1408733'>Cómo abrir archivos adjuntos en Gmail sin descargarlos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-abrir-archivos-adjuntos-gmail-descargarlos-1408733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/archivos-gmail-4244641.jpg?tf=1200x' alt='Cómo abrir archivos adjuntos en Gmail sin descargarlos' />
+    <h4><a href='https://computerhoy.com/tecnologia/gran-subida-precio-chatgpt-1407742'>Se acabó ChatGPT para todos: OpenAI planea subir el precio a más del doble en los próximos años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gran-subida-precio-chatgpt-1407742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chatgpt-4244525.jpg?tf=1200x' alt='Se acabó ChatGPT para todos: OpenAI planea subir el precio a más del doble en los próximos años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-enviar-correo-electronico-varios-destinatarios-individuales-gmail-1408524'>Cómo enviar un correo electrónico a varios destinatarios individuales en Gmail</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-enviar-correo-electronico-varios-destinatarios-individuales-gmail-1408524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enviar-correos-gmail-4244257.jpg?tf=1200x' alt='Cómo enviar un correo electrónico a varios destinatarios individuales en Gmail' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-google-habilita-funcion-deseada-android-auto-1408339'>Google Maps: se acabó la espera, llega al fin la función más esperada para más usuarios de Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-google-habilita-funcion-deseada-android-auto-1408339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-google-habilita-fin-funcion-esperada-usuarios-android-auto-4243946.jpg?tf=1200x' alt='Google Maps: se acabó la espera, llega al fin la función más esperada para más usuarios de Android Auto' />
     </a>
 </div>
 
