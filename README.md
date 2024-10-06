@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/huracanes-nunca-suceden-ecuador-razon-1409581'>Los huracanes nunca suceden en el Ecuador, esta es la razón</a></h4>
+    <a href='https://computerhoy.com/ciencia/huracanes-nunca-suceden-ecuador-razon-1409581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/huracanes-nunca-suceden-ecuador-razon-4245965.jpg?tf=1200x' alt='Los huracanes nunca suceden en el Ecuador, esta es la razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mark-zuckerberg-segunda-persona-rica-mundo-1409577'>Mark Zuckerberg ya es la segunda persona más rica del mundo, va a por Elon Musk</a></h4>
     <a href='https://computerhoy.com/tecnologia/mark-zuckerberg-segunda-persona-rica-mundo-1409577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mark-zuckerberg-ya-segunda-persona-rica-mundo-va-elon-musk-4245963.jpg?tf=1200x' alt='Mark Zuckerberg ya es la segunda persona más rica del mundo, va a por Elon Musk' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/documental-hbo-quien-es-satoshi-nakamoto-creador-bitcoin-1409566'>Un documental de HBO va a desvelar quién es Satoshi Nakamoto, el creador del Bitcoin</a></h4>
     <a href='https://computerhoy.com/criptos/documental-hbo-quien-es-satoshi-nakamoto-creador-bitcoin-1409566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/documental-hbo-asegura-va-desvelar-identidad-satoshi-nakamoto-creador-bitcoin-4245932.jpg?tf=1200x' alt='Un documental de HBO va a desvelar quién es Satoshi Nakamoto, el creador del Bitcoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/lego-coin-criptomoneda-oficial-lego-estafa-web-ha-sido-hackeada-1409562'>Lego Coin, la criptomoneda oficial de Lego, es una estafa: su web ha sido hackeada</a></h4>
-    <a href='https://computerhoy.com/criptos/lego-coin-criptomoneda-oficial-lego-estafa-web-ha-sido-hackeada-1409562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lego-coin-criptomoneda-oficial-lego-estafa-web-ha-sido-hackeada-4245922.jpg?tf=1200x' alt='Lego Coin, la criptomoneda oficial de Lego, es una estafa: su web ha sido hackeada' />
     </a>
 </div>
 
