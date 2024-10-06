@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-llevara-administrador-tareas-chrome-tambien-moviles-1409483'>Google llevará el administrador de tareas de Chrome también a móviles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-llevara-administrador-tareas-chrome-tambien-moviles-1409483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-chrome-movil-4245795.jpg?tf=1200x' alt='Google llevará el administrador de tareas de Chrome también a móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/lleva-wifi-futuro-router-wifi-7-barato-mercado-ahora-1408034'>Lleva tu WiFi al futuro: este router con WiFi 7 es el más barato del mercado por ahora</a></h4>
     <a href='https://computerhoy.com/tecnologia/lleva-wifi-futuro-router-wifi-7-barato-mercado-ahora-1408034' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mercusys-mr47be-4243450.jpg?tf=1200x' alt='Lleva tu WiFi al futuro: este router con WiFi 7 es el más barato del mercado por ahora' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/bicicleta-electrica-moma-bikes-mas-vendida-amazon-1251136'>¿Qué tiene esta bicicleta eléctrica Moma Bikes que es la más vendida en Amazon?</a></h4>
     <a href='https://computerhoy.com/life/bicicleta-electrica-moma-bikes-mas-vendida-amazon-1251136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mtb-29-full-suspension-3043374.jpg?tf=1200x' alt='¿Qué tiene esta bicicleta eléctrica Moma Bikes que es la más vendida en Amazon?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-copilot-tambien-sea-capaz-componer-musica-proximos-videos-1409481'>Microsoft quiere que Copilot también sea capaz de componer música para tus próximos vídeos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-quiere-copilot-tambien-sea-capaz-componer-musica-proximos-videos-1409481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/microsoft-quiere-copilot-tambien-sea-capaz-componer-musica-4245793.jpg?tf=1200x' alt='Microsoft quiere que Copilot también sea capaz de componer música para tus próximos vídeos' />
     </a>
 </div>
 
