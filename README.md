@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/lego-coin-criptomoneda-oficial-lego-estafa-web-ha-sido-hackeada-1409562'>Lego Coin, la criptomoneda oficial del Lego, es una estafa: su web ha sido hackeada</a></h4>
+    <a href='https://computerhoy.com/criptos/lego-coin-criptomoneda-oficial-lego-estafa-web-ha-sido-hackeada-1409562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lego-coin-criptomoneda-oficial-lego-estafa-web-ha-sido-hackeada-4245922.jpg?tf=1200x' alt='Lego Coin, la criptomoneda oficial del Lego, es una estafa: su web ha sido hackeada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-trabaja-car-media-android-auto-todas-opciones-escucha-medios-solo-lugar-1409541'>Google trabaja en Car Media para Android Auto: todas las opciones de escucha y medios en un solo lugar</a></h4>
     <a href='https://computerhoy.com/apps/google-trabaja-car-media-android-auto-todas-opciones-escucha-medios-solo-lugar-1409541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-4245907.jpg?tf=1200x' alt='Google trabaja en Car Media para Android Auto: todas las opciones de escucha y medios en un solo lugar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/iptv-multas-clientes-listas-pirata-ilegales-1408254'>IPTV: “Es hora de que los usuarios de las listas ilegales paguen por lo que hacen”</a></h4>
     <a href='https://computerhoy.com/tv/iptv-multas-clientes-listas-pirata-ilegales-1408254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-ilegal-4245899.jpg?tf=1200x' alt='IPTV: “Es hora de que los usuarios de las listas ilegales paguen por lo que hacen”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gran-subida-precio-chatgpt-1407742'>Se acabó ChatGPT para todos: OpenAI planea subir el precio a más del doble en los próximos años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gran-subida-precio-chatgpt-1407742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chatgpt-4244525.jpg?tf=1200x' alt='Se acabó ChatGPT para todos: OpenAI planea subir el precio a más del doble en los próximos años' />
     </a>
 </div>
 
