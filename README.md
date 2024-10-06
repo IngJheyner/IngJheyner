@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mark-zuckerberg-segunda-persona-rica-mundo-1409577'>Mark Zuckerberg ya es la segunda persona más rica del mundo, va a por Elon Musk</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mark-zuckerberg-segunda-persona-rica-mundo-1409577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mark-zuckerberg-ya-segunda-persona-rica-mundo-va-elon-musk-4245963.jpg?tf=1200x' alt='Mark Zuckerberg ya es la segunda persona más rica del mundo, va a por Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/frio-acerca-facturon-tambien-radiador-consumo-buena-forma-evitar-sustos-1407861'>El frío se acerca y el facturón también: este radiador de bajo consumo es una buena forma de evitar sustos </a></h4>
     <a href='https://computerhoy.com/tecnologia/frio-acerca-facturon-tambien-radiador-consumo-buena-forma-evitar-sustos-1407861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/orbegozo-rre-1010-4243172.jpg?tf=1200x' alt='El frío se acerca y el facturón también: este radiador de bajo consumo es una buena forma de evitar sustos ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/lego-coin-criptomoneda-oficial-lego-estafa-web-ha-sido-hackeada-1409562'>Lego Coin, la criptomoneda oficial de Lego, es una estafa: su web ha sido hackeada</a></h4>
     <a href='https://computerhoy.com/criptos/lego-coin-criptomoneda-oficial-lego-estafa-web-ha-sido-hackeada-1409562' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lego-coin-criptomoneda-oficial-lego-estafa-web-ha-sido-hackeada-4245922.jpg?tf=1200x' alt='Lego Coin, la criptomoneda oficial de Lego, es una estafa: su web ha sido hackeada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-trabaja-car-media-android-auto-todas-opciones-escucha-medios-solo-lugar-1409541'>Google trabaja en Car Media para Android Auto: todas las opciones de escucha y medios en un solo lugar</a></h4>
-    <a href='https://computerhoy.com/apps/google-trabaja-car-media-android-auto-todas-opciones-escucha-medios-solo-lugar-1409541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-4245907.jpg?tf=1200x' alt='Google trabaja en Car Media para Android Auto: todas las opciones de escucha y medios en un solo lugar' />
     </a>
 </div>
 
