@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-trabaja-car-media-android-auto-todas-opciones-escucha-medios-solo-lugar-1409541'>Google trabaja en Car Media para Android Auto: todas las opciones de escucha y medios en un solo lugar</a></h4>
+    <a href='https://computerhoy.com/apps/google-trabaja-car-media-android-auto-todas-opciones-escucha-medios-solo-lugar-1409541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-4245907.jpg?tf=1200x' alt='Google trabaja en Car Media para Android Auto: todas las opciones de escucha y medios en un solo lugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vas-querer-seguro-teclado-inalambrico-inspirado-maquinas-escribir-increiblemente-barato-amazon-1408043'>Lo vas a querer seguro: este teclado inalámbrico inspirado en las máquinas de escribir es increíblemente barato en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/vas-querer-seguro-teclado-inalambrico-inspirado-maquinas-escribir-increiblemente-barato-amazon-1408043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/yuzii-actto-b503-4243482.jpg?tf=1200x' alt='Lo vas a querer seguro: este teclado inalámbrico inspirado en las máquinas de escribir es increíblemente barato en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/gran-subida-precio-chatgpt-1407742'>Se acabó ChatGPT para todos: OpenAI planea subir el precio a más del doble en los próximos años</a></h4>
     <a href='https://computerhoy.com/tecnologia/gran-subida-precio-chatgpt-1407742' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chatgpt-4244525.jpg?tf=1200x' alt='Se acabó ChatGPT para todos: OpenAI planea subir el precio a más del doble en los próximos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-google-habilita-funcion-deseada-android-auto-1408339'>Google Maps: se acabó la espera, llega al fin la función más esperada para más usuarios de Android Auto</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-google-habilita-funcion-deseada-android-auto-1408339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-google-habilita-fin-funcion-esperada-usuarios-android-auto-4243946.jpg?tf=1200x' alt='Google Maps: se acabó la espera, llega al fin la función más esperada para más usuarios de Android Auto' />
     </a>
 </div>
 
