@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-llevara-administrador-tareas-chrome-tambien-moviles-1409483'>Google llevará el administrador de tareas de Chrome también a móviles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-llevara-administrador-tareas-chrome-tambien-moviles-1409483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-chrome-movil-4245795.jpg?tf=1200x' alt='Google llevará el administrador de tareas de Chrome también a móviles' />
+    <h4><a href='https://computerhoy.com/espacio/adios-instrumento-clave-voyager-2-nasa-adapta-perdida-energia-1409506'>Adiós a un instrumento clave: la Voyager 2 de la NASA se adapta a la pérdida de energía</a></h4>
+    <a href='https://computerhoy.com/espacio/adios-instrumento-clave-voyager-2-nasa-adapta-perdida-energia-1409506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nasa-detecta-latido-corazon-voyager-2-perder-contacto-millones-kilometros-3098682.jpg?tf=1200x' alt='Adiós a un instrumento clave: la Voyager 2 de la NASA se adapta a la pérdida de energía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lleva-wifi-futuro-router-wifi-7-barato-mercado-ahora-1408034'>Lleva tu WiFi al futuro: este router con WiFi 7 es el más barato del mercado por ahora</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lleva-wifi-futuro-router-wifi-7-barato-mercado-ahora-1408034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mercusys-mr47be-4243450.jpg?tf=1200x' alt='Lleva tu WiFi al futuro: este router con WiFi 7 es el más barato del mercado por ahora' />
+    <h4><a href='https://computerhoy.com/tecnologia/usuarios-android-vs-iphone-quien-actualiza-dispositivos-frecuencia-1409503'>Usuarios de Android vs. iPhone: ¿Quién actualiza sus dispositivos con más frecuencia?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usuarios-android-vs-iphone-quien-actualiza-dispositivos-frecuencia-1409503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/usuarios-android-vs-iphone-4245868.jpg?tf=1200x' alt='Usuarios de Android vs. iPhone: ¿Quién actualiza sus dispositivos con más frecuencia?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejor-miniserie-basada-hechos-reales-max-1407949'>Posiblemente, la mejor miniserie reciente basada en hechos reales: mucho mejor que Narcos y puedes verla en MAX</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejor-miniserie-basada-hechos-reales-max-1407949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/narcos-chernobyl-4243317.jpg?tf=1200x' alt='Posiblemente, la mejor miniserie reciente basada en hechos reales: mucho mejor que Narcos y puedes verla en MAX' />
+    <h4><a href='https://computerhoy.com/tecnologia/televisor-arrasa-ventas-amazon-tesla-pero-no-como-coches-mide-32-tiene-google-tv-1406639'>El televisor que arrasa en ventas en Amazon es Tesla, pero no como los coches: mide 32" y tiene Google TV</a></h4>
+    <a href='https://computerhoy.com/tecnologia/televisor-arrasa-ventas-amazon-tesla-pero-no-como-coches-mide-32-tiene-google-tv-1406639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tesla-32e635bhs-4241057.jpg?tf=1200x' alt='El televisor que arrasa en ventas en Amazon es Tesla, pero no como los coches: mide 32" y tiene Google TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/asar-castanas-freidora-aire-1155947'>¡Riquísimas! Así puedes hacer castañas asadas en la freidora de aire</a></h4>
-    <a href='https://computerhoy.com/noticias/life/asar-castanas-freidora-aire-1155947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/castanas-asadas-airfyer-4245349.jpg?tf=1200x' alt='¡Riquísimas! Así puedes hacer castañas asadas en la freidora de aire' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-abrir-archivos-adjuntos-gmail-descargarlos-1408733'>Cómo abrir archivos adjuntos en Gmail sin descargarlos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-abrir-archivos-adjuntos-gmail-descargarlos-1408733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/archivos-gmail-4244641.jpg?tf=1200x' alt='Cómo abrir archivos adjuntos en Gmail sin descargarlos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bicicleta-electrica-moma-bikes-mas-vendida-amazon-1251136'>¿Qué tiene esta bicicleta eléctrica Moma Bikes que es la más vendida en Amazon?</a></h4>
-    <a href='https://computerhoy.com/life/bicicleta-electrica-moma-bikes-mas-vendida-amazon-1251136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mtb-29-full-suspension-3043374.jpg?tf=1200x' alt='¿Qué tiene esta bicicleta eléctrica Moma Bikes que es la más vendida en Amazon?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-enviar-correo-electronico-varios-destinatarios-individuales-gmail-1408524'>Cómo enviar un correo electrónico a varios destinatarios individuales en Gmail</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-enviar-correo-electronico-varios-destinatarios-individuales-gmail-1408524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enviar-correos-gmail-4244257.jpg?tf=1200x' alt='Cómo enviar un correo electrónico a varios destinatarios individuales en Gmail' />
     </a>
 </div>
 
