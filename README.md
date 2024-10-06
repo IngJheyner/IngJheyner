@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/estafa-apple-6000-iphone-nuevos-cambio-otros-falsos-1409573'>Así engañaron a Apple para que les entregara 6.000 iPhone nuevos</a></h4>
+    <a href='https://computerhoy.com/apple/estafa-apple-6000-iphone-nuevos-cambio-otros-falsos-1409573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enganaron-apple-entregara-6000-iphone-nuevos-cambio-otros-falsos-4245943.jpg?tf=1200x' alt='Así engañaron a Apple para que les entregara 6.000 iPhone nuevos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/documental-hbo-quien-es-satoshi-nakamoto-creador-bitcoin-1409566'>Un documental de HBO va a desvelar quién es Satoshi Nakamoto, el creador del Bitcoin</a></h4>
     <a href='https://computerhoy.com/criptos/documental-hbo-quien-es-satoshi-nakamoto-creador-bitcoin-1409566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/documental-hbo-asegura-va-desvelar-identidad-satoshi-nakamoto-creador-bitcoin-4245932.jpg?tf=1200x' alt='Un documental de HBO va a desvelar quién es Satoshi Nakamoto, el creador del Bitcoin' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vas-querer-seguro-teclado-inalambrico-inspirado-maquinas-escribir-increiblemente-barato-amazon-1408043'>Lo vas a querer seguro: este teclado inalámbrico inspirado en las máquinas de escribir es increíblemente barato en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/vas-querer-seguro-teclado-inalambrico-inspirado-maquinas-escribir-increiblemente-barato-amazon-1408043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/yuzii-actto-b503-4243482.jpg?tf=1200x' alt='Lo vas a querer seguro: este teclado inalámbrico inspirado en las máquinas de escribir es increíblemente barato en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-hara-facil-nunca-identificar-canciones-puedes-activar-nueva-funcion-1409508'>Android hará más fácil que nunca identificar canciones: así puedes activar la nueva función</a></h4>
-    <a href='https://computerhoy.com/android/android-hara-facil-nunca-identificar-canciones-puedes-activar-nueva-funcion-1409508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-hara-facil-nunca-identificar-canciones-4245873.jpg?tf=1200x' alt='Android hará más fácil que nunca identificar canciones: así puedes activar la nueva función' />
     </a>
 </div>
 
