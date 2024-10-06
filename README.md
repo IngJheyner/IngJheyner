@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/expertos-universidad-carlos-iii-te-espian-dispositivos-inteligentes-hablan-comparten-todo-1409121'>Expertos de la Universidad Carlos III, así te espían los dispositivos inteligentes: “hablan entre sí y lo comparten todo”</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/expertos-universidad-carlos-iii-te-espian-dispositivos-inteligentes-hablan-comparten-todo-1409121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/expertos-universidad-carlos-iii-te-espian-dispositivos-inteligentes-hablan-comparten-todo-4245213.jpg?tf=1200x' alt='Expertos de la Universidad Carlos III, así te espían los dispositivos inteligentes: “hablan entre sí y lo comparten todo”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estudio-revela-resultados-sorprendentes-efectos-beber-cerveza-alcohol-1409042'>Un estudio revela resultados sorprendentes sobre los efectos de beber cerveza sin alcohol</a></h4>
+    <a href='https://computerhoy.com/life/estudio-revela-resultados-sorprendentes-efectos-beber-cerveza-alcohol-1409042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estudio-revela-resultados-sorprendentes-efectos-beber-cerveza-alcohol-4245138.jpg?tf=1200x' alt='Un estudio revela resultados sorprendentes sobre los efectos de beber cerveza sin alcohol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-humanos-posible-crear-inteligencia-artificial-digna-confianza-1408461'>IA o humanos, ¿es posible crear una inteligencia artificial digna de tu confianza?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-humanos-posible-crear-inteligencia-artificial-digna-confianza-1408461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inteligencia-artificial-humanos-4245081.jpg?tf=1200x' alt='IA o humanos, ¿es posible crear una inteligencia artificial digna de tu confianza?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/pizzeria-japonesa-pizza-perros-1409490'>En esta pizzería japonesa puedes pedir una pizza para tu perro</a></h4>
+    <a href='https://computerhoy.com/alimentacion/pizzeria-japonesa-pizza-perros-1409490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pizzeria-japonesa-tambien-puedes-pedir-pizza-perro-4245851.jpg?tf=1200x' alt='En esta pizzería japonesa puedes pedir una pizza para tu perro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/portatil-grande-16-pulgadas-potente-barato-1240674'>Portátil grande donde los haya: 16 pulgadas, Intel Core i5 y un precio difícil de igualar por la competencia</a></h4>
     <a href='https://computerhoy.com/pc/portatil-grande-16-pulgadas-potente-barato-1240674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huawei-matebook-d16-2024-caracteristica-me-ha-gustado-3261909.jpg?tf=1200x' alt='Portátil grande donde los haya: 16 pulgadas, Intel Core i5 y un precio difícil de igualar por la competencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rodea-buscar-funcionara-muy-pronto-tambien-videos-1409482'>Rodea para buscar funcionará muy pronto también para vídeos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rodea-buscar-funcionara-muy-pronto-tambien-videos-1409482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/rodea-buscar-4101785.jpg?tf=1200x' alt='Rodea para buscar funcionará muy pronto también para vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-estrena-nuevas-tarjetas-resumen-gmail-no-te-escape-ninguna-compra-jamas-pierdas-avion-1409479'>Google estrena nuevas tarjetas de resumen en Gmail para que no se te escape ninguna compra y jamás pierdas un avión</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-estrena-nuevas-tarjetas-resumen-gmail-no-te-escape-ninguna-compra-jamas-pierdas-avion-1409479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-estrena-nuevas-tarjetas-resumen-gmail-no-te-escape-ninguna-compra-jamas-pierdas-avion-4245789.jpg?tf=1200x' alt='Google estrena nuevas tarjetas de resumen en Gmail para que no se te escape ninguna compra y jamás pierdas un avión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/podras-personalizar-tamano-iconos-barra-tareas-windows-11-1409478'>Podrás personalizar el tamaño de los iconos de la barra de tareas de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/podras-personalizar-tamano-iconos-barra-tareas-windows-11-1409478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/podras-personalizar-tamano-iconos-barra-tareas-windows-11-4245787.jpg?tf=1200x' alt='Podrás personalizar el tamaño de los iconos de la barra de tareas de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/saldra-subasta-prototipo-apple-macintosh-steve-jobs-mando-destruir-1409453'>Saldrá a subasta un prototipo de Apple Macintosh que Steve Jobs mandó destruir</a></h4>
-    <a href='https://computerhoy.com/apple/saldra-subasta-prototipo-apple-macintosh-steve-jobs-mando-destruir-1409453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-macintosh-modelo-ndeg-m0001-1983-4245767.jpg?tf=1200x' alt='Saldrá a subasta un prototipo de Apple Macintosh que Steve Jobs mandó destruir' />
     </a>
 </div>
 
