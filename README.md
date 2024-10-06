@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/portatil-grande-16-pulgadas-potente-barato-1240674'>Portátil grande donde los haya: 16 pulgadas, Intel Core i5 y un precio difícil de igualar por la competencia</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-grande-16-pulgadas-potente-barato-1240674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huawei-matebook-d16-2024-caracteristica-me-ha-gustado-3261909.jpg?tf=1200x' alt='Portátil grande donde los haya: 16 pulgadas, Intel Core i5 y un precio difícil de igualar por la competencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/rodea-buscar-funcionara-muy-pronto-tambien-videos-1409482'>Rodea para buscar funcionará muy pronto también para vídeos</a></h4>
     <a href='https://computerhoy.com/tecnologia/rodea-buscar-funcionara-muy-pronto-tambien-videos-1409482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/rodea-buscar-4101785.jpg?tf=1200x' alt='Rodea para buscar funcionará muy pronto también para vídeos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/saldra-subasta-prototipo-apple-macintosh-steve-jobs-mando-destruir-1409453'>Saldrá a subasta un prototipo de Apple Macintosh que Steve Jobs mandó destruir</a></h4>
     <a href='https://computerhoy.com/apple/saldra-subasta-prototipo-apple-macintosh-steve-jobs-mando-destruir-1409453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-macintosh-modelo-ndeg-m0001-1983-4245767.jpg?tf=1200x' alt='Saldrá a subasta un prototipo de Apple Macintosh que Steve Jobs mandó destruir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/polemico-plan-acabar-atascos-sistema-creditos-carriles-preferenciales-1409447'>El polémico plan para acabar con los atascos: un sistema de créditos para carriles preferenciales</a></h4>
-    <a href='https://computerhoy.com/life/polemico-plan-acabar-atascos-sistema-creditos-carriles-preferenciales-1409447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/peaje-4245761.jpg?tf=1200x' alt='El polémico plan para acabar con los atascos: un sistema de créditos para carriles preferenciales' />
     </a>
 </div>
 
