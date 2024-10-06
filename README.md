@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/expertos-universidad-carlos-iii-te-espian-dispositivos-inteligentes-hablan-comparten-todo-1409121'>Expertos de la Universidad Carlos III, así te espían los dispositivos inteligentes: “hablan entre sí y lo comparten todo”</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/expertos-universidad-carlos-iii-te-espian-dispositivos-inteligentes-hablan-comparten-todo-1409121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/expertos-universidad-carlos-iii-te-espian-dispositivos-inteligentes-hablan-comparten-todo-4245213.jpg?tf=1200x' alt='Expertos de la Universidad Carlos III, así te espían los dispositivos inteligentes: “hablan entre sí y lo comparten todo”' />
+    <h4><a href='https://computerhoy.com/life/bicicleta-electrica-moma-bikes-mas-vendida-amazon-1251136'>¿Qué tiene esta bicicleta eléctrica Moma Bikes que es la más vendida en Amazon?</a></h4>
+    <a href='https://computerhoy.com/life/bicicleta-electrica-moma-bikes-mas-vendida-amazon-1251136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mtb-29-full-suspension-3043374.jpg?tf=1200x' alt='¿Qué tiene esta bicicleta eléctrica Moma Bikes que es la más vendida en Amazon?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estudio-revela-resultados-sorprendentes-efectos-beber-cerveza-alcohol-1409042'>Un estudio revela resultados sorprendentes sobre los efectos de beber cerveza sin alcohol</a></h4>
-    <a href='https://computerhoy.com/life/estudio-revela-resultados-sorprendentes-efectos-beber-cerveza-alcohol-1409042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estudio-revela-resultados-sorprendentes-efectos-beber-cerveza-alcohol-4245138.jpg?tf=1200x' alt='Un estudio revela resultados sorprendentes sobre los efectos de beber cerveza sin alcohol' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-copilot-tambien-sea-capaz-componer-musica-proximos-videos-1409481'>Microsoft quiere que Copilot también sea capaz de componer música para tus próximos vídeos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-quiere-copilot-tambien-sea-capaz-componer-musica-proximos-videos-1409481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/microsoft-quiere-copilot-tambien-sea-capaz-componer-musica-4245793.jpg?tf=1200x' alt='Microsoft quiere que Copilot también sea capaz de componer música para tus próximos vídeos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-humanos-posible-crear-inteligencia-artificial-digna-confianza-1408461'>IA o humanos, ¿es posible crear una inteligencia artificial digna de tu confianza?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-humanos-posible-crear-inteligencia-artificial-digna-confianza-1408461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inteligencia-artificial-humanos-4245081.jpg?tf=1200x' alt='IA o humanos, ¿es posible crear una inteligencia artificial digna de tu confianza?' />
+    <h4><a href='https://computerhoy.com/tecnologia/jpeg-xl-ventajas-tiene-formato-apple-trae-vuelta-iphone-16-1405110'>¿Qué es JPEG XL y qué ventajas tiene este formato que Apple trae de vuelta con el iPhone 16?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/jpeg-xl-ventajas-tiene-formato-apple-trae-vuelta-iphone-16-1405110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-iphone-16-pro-4241464.jpg?tf=1200x' alt='¿Qué es JPEG XL y qué ventajas tiene este formato que Apple trae de vuelta con el iPhone 16?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/pizzeria-japonesa-pizza-perros-1409490'>En esta pizzería japonesa puedes pedir una pizza para tu perro</a></h4>
-    <a href='https://computerhoy.com/alimentacion/pizzeria-japonesa-pizza-perros-1409490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pizzeria-japonesa-tambien-puedes-pedir-pizza-perro-4245851.jpg?tf=1200x' alt='En esta pizzería japonesa puedes pedir una pizza para tu perro' />
+    <h4><a href='https://computerhoy.com/moviles/no-iphone-vale-menos-1000-euros-pero-modo-noche-movil-me-ha-dejado-alucinado-1407860'>No es un iPhone y vale menos de 1.000 euros, pero el modo noche de este móvil me ha dejado alucinado</a></h4>
+    <a href='https://computerhoy.com/moviles/no-iphone-vale-menos-1000-euros-pero-modo-noche-movil-me-ha-dejado-alucinado-1407860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-14t-pro-4241602.jpg?tf=1200x' alt='No es un iPhone y vale menos de 1.000 euros, pero el modo noche de este móvil me ha dejado alucinado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatil-grande-16-pulgadas-potente-barato-1240674'>Portátil grande donde los haya: 16 pulgadas, Intel Core i5 y un precio difícil de igualar por la competencia</a></h4>
-    <a href='https://computerhoy.com/pc/portatil-grande-16-pulgadas-potente-barato-1240674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huawei-matebook-d16-2024-caracteristica-me-ha-gustado-3261909.jpg?tf=1200x' alt='Portátil grande donde los haya: 16 pulgadas, Intel Core i5 y un precio difícil de igualar por la competencia' />
+    <h4><a href='https://computerhoy.com/tecnologia/he-experimentado-hysteria-boothill-portaventura-atraccion-realidad-mixta-parte-futuro-parques-atracciones-1408898'>He experimentado Hysteria in Boothill de PortAventura, una atracción de realidad mixta que es parte del futuro de los parques de atracciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-experimentado-hysteria-boothill-portaventura-atraccion-realidad-mixta-parte-futuro-parques-atracciones-1408898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/atraccion-hysteria-boothill-portaventura-world-4244908.jpg?tf=1200x' alt='He experimentado Hysteria in Boothill de PortAventura, una atracción de realidad mixta que es parte del futuro de los parques de atracciones' />
     </a>
 </div>
 
