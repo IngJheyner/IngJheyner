@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/disponible-android-auto-13-novedades-como-actualizar-1409412'>Ya disponible Android Auto 13 para todos: estas son las novedades y cómo actualizar</a></h4>
+    <a href='https://computerhoy.com/apps/disponible-android-auto-13-novedades-como-actualizar-1409412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-130-4245714.jpg?tf=1200x' alt='Ya disponible Android Auto 13 para todos: estas son las novedades y cómo actualizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-5g-carga-rapida-siempre-recomiendo-1405383'>Este Xiaomi 5G con carga ultrarrápida es el que siempre recomiendo a quien quiere un móvil barato pero potente</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-5g-carga-rapida-siempre-recomiendo-1405383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-redmi-note-13-pro-plus-5g-xiaomi-redmi-note-13-pro-5g-4190338.jpg?tf=1200x' alt='Este Xiaomi 5G con carga ultrarrápida es el que siempre recomiendo a quien quiere un móvil barato pero potente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/ni-viento-ni-tuneles-75-conductores-desconocen-significado-senal-trafico-1409128'>Ni viento ni túneles, el 75% de los conductores desconocen el significado de esta señal de tráfico</a></h4>
     <a href='https://computerhoy.com/motor/ni-viento-ni-tuneles-75-conductores-desconocen-significado-senal-trafico-1409128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-viento-ni-tuneles-75-conductores-desconocen-significado-senal-trafico-4245220.jpg?tf=1200x' alt='Ni viento ni túneles, el 75% de los conductores desconocen el significado de esta señal de tráfico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ni-calefaccion-ni-aire-acondicionado-invento-calienta-piso-menos-20-euros-mes-instalacion-1409123'>Ni calefacción ni aire acondicionado, este invento calienta tu piso por menos 20 euros al mes y sin instalación</a></h4>
-    <a href='https://computerhoy.com/hogar/ni-calefaccion-ni-aire-acondicionado-invento-calienta-piso-menos-20-euros-mes-instalacion-1409123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-calefaccion-ni-aire-acondicionado-invento-calienta-piso-menos-20-euros-mes-instalacion-4245219.jpg?tf=1200x' alt='Ni calefacción ni aire acondicionado, este invento calienta tu piso por menos 20 euros al mes y sin instalación' />
     </a>
 </div>
 
