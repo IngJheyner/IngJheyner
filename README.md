@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-5g-carga-rapida-siempre-recomiendo-1405383'>Este Xiaomi 5G con carga ultrarrápida es el que siempre recomiendo a quien quiere un móvil barato pero potente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-5g-carga-rapida-siempre-recomiendo-1405383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-redmi-note-13-pro-plus-5g-xiaomi-redmi-note-13-pro-5g-4190338.jpg?tf=1200x' alt='Este Xiaomi 5G con carga ultrarrápida es el que siempre recomiendo a quien quiere un móvil barato pero potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/mejor-airpods-4-evolucion-cancelacion-ruido-futuro-1407899'>Lo mejor de los AirPods 4 es la evolución de la cancelación de ruido y su futuro</a></h4>
+    <a href='https://computerhoy.com/apple/mejor-airpods-4-evolucion-cancelacion-ruido-futuro-1407899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/airpods-4-cancelacion-activa-ruido-4242525.jpg?tf=1200x' alt='Lo mejor de los AirPods 4 es la evolución de la cancelación de ruido y su futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-rapida-estrategia-ia-ningun-producto-perfecto-proceso-1408607'>Google, sobre su rápida estrategia en IA: "Ningún producto es perfecto, es un proceso"</a></h4>
+    <a href='https://computerhoy.com/google/google-rapida-estrategia-ia-ningun-producto-perfecto-proceso-1408607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/zaheed-sabur-senior-director-gemini-mobile-google-4244489.jpg?tf=1200x' alt='Google, sobre su rápida estrategia en IA: "Ningún producto es perfecto, es un proceso"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/ni-viento-ni-tuneles-75-conductores-desconocen-significado-senal-trafico-1409128'>Ni viento ni túneles, el 75% de los conductores desconocen el significado de esta señal de tráfico</a></h4>
+    <a href='https://computerhoy.com/motor/ni-viento-ni-tuneles-75-conductores-desconocen-significado-senal-trafico-1409128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-viento-ni-tuneles-75-conductores-desconocen-significado-senal-trafico-4245220.jpg?tf=1200x' alt='Ni viento ni túneles, el 75% de los conductores desconocen el significado de esta señal de tráfico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/ni-calefaccion-ni-aire-acondicionado-invento-calienta-piso-menos-20-euros-mes-instalacion-1409123'>Ni calefacción ni aire acondicionado, este invento calienta tu piso por menos 20 euros al mes y sin instalación</a></h4>
     <a href='https://computerhoy.com/hogar/ni-calefaccion-ni-aire-acondicionado-invento-calienta-piso-menos-20-euros-mes-instalacion-1409123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-calefaccion-ni-aire-acondicionado-invento-calienta-piso-menos-20-euros-mes-instalacion-4245219.jpg?tf=1200x' alt='Ni calefacción ni aire acondicionado, este invento calienta tu piso por menos 20 euros al mes y sin instalación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/steve-jobs-regla-10-minutos-cerebro-funcionase-mejor-1409057'>Steve Jobs utilizaba la regla de los 10 minutos para que su cerebro funcionase mejor: 40 años después la ciencia le ha dado la razón</a></h4>
-    <a href='https://computerhoy.com/life/steve-jobs-regla-10-minutos-cerebro-funcionase-mejor-1409057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/steve-jobs-invento-escaleras-puedes-ver-apple-store-cuentan-sistema-antipervertidos-3316717.jpg?tf=1200x' alt='Steve Jobs utilizaba la regla de los 10 minutos para que su cerebro funcionase mejor: 40 años después la ciencia le ha dado la razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/transforma-vieja-tablet-pantalla-android-auto-sencillo-truco-1408837'>Transforma tu vieja tablet en una pantalla para Android Auto con este sencillo truco</a></h4>
-    <a href='https://computerhoy.com/tutoriales/transforma-vieja-tablet-pantalla-android-auto-sencillo-truco-1408837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/transforma-vieja-tablet-pantalla-android-auto-sencillo-truco-4244806.jpg?tf=1200x' alt='Transforma tu vieja tablet en una pantalla para Android Auto con este sencillo truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/ni-iptv-ni-kodi-aqui-puedes-ver-gratis-toda-tdt-1000-canales-tv-todo-mundo-instalar-nada-1408834'>Ni IPTV ni Kodi, aquí puedes ver gratis toda la TDT y más de 1.000 canales de TV de todo el mundo sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/internet/ni-iptv-ni-kodi-aqui-puedes-ver-gratis-toda-tdt-1000-canales-tv-todo-mundo-instalar-nada-1408834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/photocall-tv-4245370.jpg?tf=1200x' alt='Ni IPTV ni Kodi, aquí puedes ver gratis toda la TDT y más de 1.000 canales de TV de todo el mundo sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tienes-firestick-amazon-ha-rebajado-accesorio-vas-querer-1409145'>Si tienes un Firestick, Amazon ha rebajado un accesorio que vas a querer sí o sí</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tienes-firestick-amazon-ha-rebajado-accesorio-vas-querer-1409145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mando-voz-alexa-pro-3360633.jpg?tf=1200x' alt='Si tienes un Firestick, Amazon ha rebajado un accesorio que vas a querer sí o sí' />
     </a>
 </div>
 
