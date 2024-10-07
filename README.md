@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/arc-search-ya-disponible-android-pero-matices-1409634'>Arc Search ya está disponible en Android pero con matices</a></h4>
+    <a href='https://computerhoy.com/android/arc-search-ya-disponible-android-pero-matices-1409634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/arc-search-android-4246027.jpg?tf=1200x' alt='Arc Search ya está disponible en Android pero con matices' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/producto-xiaomi-poco-conocido-cuesta-menos-10-euros-muy-util-casa-1408626'>Este producto Xiaomi es poco conocido, cuesta menos de 10 euros y es muy útil en casa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/producto-xiaomi-poco-conocido-cuesta-menos-10-euros-muy-util-casa-1408626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-mi-temperature-and-humidity-monitor-2-4244393.jpg?tf=1200x' alt='Este producto Xiaomi es poco conocido, cuesta menos de 10 euros y es muy útil en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/macbook-pro-m4-deja-ver-antes-tiempo-como-luce-portatil-apple-1409618'>El MacBook Pro M4 se deja ver antes de tiempo, así es como luce el portátil de Apple</a></h4>
     <a href='https://computerhoy.com/apple/macbook-pro-m4-deja-ver-antes-tiempo-como-luce-portatil-apple-1409618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/macbook-pro-m4-filtracion-4246010.jpg?tf=1200x' alt='El MacBook Pro M4 se deja ver antes de tiempo, así es como luce el portátil de Apple' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/disponible-android-auto-13-novedades-como-actualizar-1409412'>Ya disponible Android Auto 13 para todos: estas son las novedades y cómo actualizar</a></h4>
     <a href='https://computerhoy.com/apps/disponible-android-auto-13-novedades-como-actualizar-1409412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-130-4245714.jpg?tf=1200x' alt='Ya disponible Android Auto 13 para todos: estas son las novedades y cómo actualizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-5g-carga-rapida-siempre-recomiendo-1405383'>Este Xiaomi 5G con carga ultrarrápida es el que siempre recomiendo a quien quiere un móvil barato pero potente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-5g-carga-rapida-siempre-recomiendo-1405383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-redmi-note-13-pro-plus-5g-xiaomi-redmi-note-13-pro-5g-4190338.jpg?tf=1200x' alt='Este Xiaomi 5G con carga ultrarrápida es el que siempre recomiendo a quien quiere un móvil barato pero potente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/mejor-airpods-4-evolucion-cancelacion-ruido-futuro-1407899'>Lo mejor de los AirPods 4 es la evolución de la cancelación de ruido y su futuro</a></h4>
-    <a href='https://computerhoy.com/apple/mejor-airpods-4-evolucion-cancelacion-ruido-futuro-1407899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/airpods-4-cancelacion-activa-ruido-4242525.jpg?tf=1200x' alt='Lo mejor de los AirPods 4 es la evolución de la cancelación de ruido y su futuro' />
     </a>
 </div>
 
