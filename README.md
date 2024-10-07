@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/macbook-pro-m4-deja-ver-antes-tiempo-como-luce-portatil-apple-1409618'>El MacBook Pro M4 se deja ver antes de tiempo, así es como luce el portátil de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/macbook-pro-m4-deja-ver-antes-tiempo-como-luce-portatil-apple-1409618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/macbook-pro-m4-filtracion-4246010.jpg?tf=1200x' alt='El MacBook Pro M4 se deja ver antes de tiempo, así es como luce el portátil de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/desconocida-seccion-amazon-secreto-ahorro-llena-cupones-descuento-1408847'>Esta desconocida sección de Amazon es el secreto del ahorro: está llena de cupones descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desconocida-seccion-amazon-secreto-ahorro-llena-cupones-descuento-1408847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/web-amazon-4244820.jpg?tf=1200x' alt='Esta desconocida sección de Amazon es el secreto del ahorro: está llena de cupones descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/disponible-android-auto-13-novedades-como-actualizar-1409412'>Ya disponible Android Auto 13 para todos: estas son las novedades y cómo actualizar</a></h4>
     <a href='https://computerhoy.com/apps/disponible-android-auto-13-novedades-como-actualizar-1409412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-130-4245714.jpg?tf=1200x' alt='Ya disponible Android Auto 13 para todos: estas son las novedades y cómo actualizar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/mejor-airpods-4-evolucion-cancelacion-ruido-futuro-1407899'>Lo mejor de los AirPods 4 es la evolución de la cancelación de ruido y su futuro</a></h4>
     <a href='https://computerhoy.com/apple/mejor-airpods-4-evolucion-cancelacion-ruido-futuro-1407899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/airpods-4-cancelacion-activa-ruido-4242525.jpg?tf=1200x' alt='Lo mejor de los AirPods 4 es la evolución de la cancelación de ruido y su futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-rapida-estrategia-ia-ningun-producto-perfecto-proceso-1408607'>Google, sobre su rápida estrategia en IA: "Ningún producto es perfecto, es un proceso"</a></h4>
-    <a href='https://computerhoy.com/google/google-rapida-estrategia-ia-ningun-producto-perfecto-proceso-1408607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/zaheed-sabur-senior-director-gemini-mobile-google-4244489.jpg?tf=1200x' alt='Google, sobre su rápida estrategia en IA: "Ningún producto es perfecto, es un proceso"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/ni-viento-ni-tuneles-75-conductores-desconocen-significado-senal-trafico-1409128'>Ni viento ni túneles, el 75% de los conductores desconocen el significado de esta señal de tráfico</a></h4>
-    <a href='https://computerhoy.com/motor/ni-viento-ni-tuneles-75-conductores-desconocen-significado-senal-trafico-1409128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-viento-ni-tuneles-75-conductores-desconocen-significado-senal-trafico-4245220.jpg?tf=1200x' alt='Ni viento ni túneles, el 75% de los conductores desconocen el significado de esta señal de tráfico' />
     </a>
 </div>
 
