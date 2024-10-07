@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/huracanes-nunca-suceden-ecuador-razon-1409581'>Los huracanes nunca suceden en el Ecuador, esta es la razón</a></h4>
-    <a href='https://computerhoy.com/ciencia/huracanes-nunca-suceden-ecuador-razon-1409581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/huracanes-nunca-suceden-ecuador-razon-4245965.jpg?tf=1200x' alt='Los huracanes nunca suceden en el Ecuador, esta es la razón' />
+    <h4><a href='https://computerhoy.com/hogar/ni-calefaccion-ni-aire-acondicionado-invento-calienta-piso-menos-20-euros-mes-instalacion-1409123'>Ni calefacción ni aire acondicionado, este invento calienta tu piso por menos 20 euros al mes y sin instalación</a></h4>
+    <a href='https://computerhoy.com/hogar/ni-calefaccion-ni-aire-acondicionado-invento-calienta-piso-menos-20-euros-mes-instalacion-1409123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-calefaccion-ni-aire-acondicionado-invento-calienta-piso-menos-20-euros-mes-instalacion-4245219.jpg?tf=1200x' alt='Ni calefacción ni aire acondicionado, este invento calienta tu piso por menos 20 euros al mes y sin instalación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mark-zuckerberg-segunda-persona-rica-mundo-1409577'>Mark Zuckerberg ya es la segunda persona más rica del mundo, va a por Elon Musk</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mark-zuckerberg-segunda-persona-rica-mundo-1409577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mark-zuckerberg-ya-segunda-persona-rica-mundo-va-elon-musk-4245963.jpg?tf=1200x' alt='Mark Zuckerberg ya es la segunda persona más rica del mundo, va a por Elon Musk' />
+    <h4><a href='https://computerhoy.com/life/steve-jobs-regla-10-minutos-cerebro-funcionase-mejor-1409057'>Steve Jobs utilizaba la regla de los 10 minutos para que su cerebro funcionase mejor: 40 años después la ciencia le ha dado la razón</a></h4>
+    <a href='https://computerhoy.com/life/steve-jobs-regla-10-minutos-cerebro-funcionase-mejor-1409057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/steve-jobs-invento-escaleras-puedes-ver-apple-store-cuentan-sistema-antipervertidos-3316717.jpg?tf=1200x' alt='Steve Jobs utilizaba la regla de los 10 minutos para que su cerebro funcionase mejor: 40 años después la ciencia le ha dado la razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/frio-acerca-facturon-tambien-radiador-consumo-buena-forma-evitar-sustos-1407861'>El frío se acerca y el facturón también: este radiador de bajo consumo es una buena forma de evitar sustos </a></h4>
-    <a href='https://computerhoy.com/tecnologia/frio-acerca-facturon-tambien-radiador-consumo-buena-forma-evitar-sustos-1407861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/orbegozo-rre-1010-4243172.jpg?tf=1200x' alt='El frío se acerca y el facturón también: este radiador de bajo consumo es una buena forma de evitar sustos ' />
+    <h4><a href='https://computerhoy.com/tutoriales/transforma-vieja-tablet-pantalla-android-auto-sencillo-truco-1408837'>Transforma tu vieja tablet en una pantalla para Android Auto con este sencillo truco</a></h4>
+    <a href='https://computerhoy.com/tutoriales/transforma-vieja-tablet-pantalla-android-auto-sencillo-truco-1408837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/transforma-vieja-tablet-pantalla-android-auto-sencillo-truco-4244806.jpg?tf=1200x' alt='Transforma tu vieja tablet en una pantalla para Android Auto con este sencillo truco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estafa-apple-6000-iphone-nuevos-cambio-otros-falsos-1409573'>Así engañaron a Apple para que les entregara 6.000 iPhone nuevos</a></h4>
-    <a href='https://computerhoy.com/apple/estafa-apple-6000-iphone-nuevos-cambio-otros-falsos-1409573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enganaron-apple-entregara-6000-iphone-nuevos-cambio-otros-falsos-4245943.jpg?tf=1200x' alt='Así engañaron a Apple para que les entregara 6.000 iPhone nuevos' />
+    <h4><a href='https://computerhoy.com/internet/ni-iptv-ni-kodi-aqui-puedes-ver-gratis-toda-tdt-1000-canales-tv-todo-mundo-instalar-nada-1408834'>Ni IPTV ni Kodi, aquí puedes ver gratis toda la TDT y más de 1.000 canales de TV de todo el mundo sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/internet/ni-iptv-ni-kodi-aqui-puedes-ver-gratis-toda-tdt-1000-canales-tv-todo-mundo-instalar-nada-1408834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/photocall-tv-4245370.jpg?tf=1200x' alt='Ni IPTV ni Kodi, aquí puedes ver gratis toda la TDT y más de 1.000 canales de TV de todo el mundo sin instalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/documental-hbo-quien-es-satoshi-nakamoto-creador-bitcoin-1409566'>Un documental de HBO va a desvelar quién es Satoshi Nakamoto, el creador del Bitcoin</a></h4>
-    <a href='https://computerhoy.com/criptos/documental-hbo-quien-es-satoshi-nakamoto-creador-bitcoin-1409566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/documental-hbo-asegura-va-desvelar-identidad-satoshi-nakamoto-creador-bitcoin-4245932.jpg?tf=1200x' alt='Un documental de HBO va a desvelar quién es Satoshi Nakamoto, el creador del Bitcoin' />
+    <h4><a href='https://computerhoy.com/tecnologia/tienes-firestick-amazon-ha-rebajado-accesorio-vas-querer-1409145'>Si tienes un Firestick, Amazon ha rebajado un accesorio que vas a querer sí o sí</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tienes-firestick-amazon-ha-rebajado-accesorio-vas-querer-1409145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mando-voz-alexa-pro-3360633.jpg?tf=1200x' alt='Si tienes un Firestick, Amazon ha rebajado un accesorio que vas a querer sí o sí' />
     </a>
 </div>
 
