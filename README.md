@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/procesadores-intel-core-ultra-200s-ia-escritorio-1410827'>Nuevos procesadores de escritorio Intel Core Ultra 200S con IA, malas noticias para los gamers</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/procesadores-intel-core-ultra-200s-ia-escritorio-1410827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/intel-anuncia-nuevos-intel-core-ultra-200s-ia-escritorio-malas-noticias-gamers-4248001.jpg?tf=1200x' alt='Nuevos procesadores de escritorio Intel Core Ultra 200S con IA, malas noticias para los gamers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/audio/suenan-genial-cancelacion-top-cascos-avanzados-huawei-desploman-precio-1410206'>Suenan genial y su cancelación es top: los cascos más avanzados de Huawei desploman su precio</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/suenan-genial-cancelacion-top-cascos-avanzados-huawei-desploman-precio-1410206' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/huawei-buds-pro-3-4246956.jpg?tf=1200x' alt='Suenan genial y su cancelación es top: los cascos más avanzados de Huawei desploman su precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-movil-debes-comprar-quieres-dinero-viejo-telefono-iphone-1410803'>Un estudio revela qué móvil debes comprar si quieres más dinero por tu viejo teléfono (sí, es un iPhone)</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-movil-debes-comprar-quieres-dinero-viejo-telefono-iphone-1410803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/moviles-segunda-mano-4248009.jpg?tf=1200x' alt='Un estudio revela qué móvil debes comprar si quieres más dinero por tu viejo teléfono (sí, es un iPhone)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/secuelas-disparatadas-historia-jason-statham-max-netflix-1410444'>Es una de las secuelas más disparatadas de la historia, está protagonizada por Jason Statham y ya puede verse en MAX y Netflix</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/secuelas-disparatadas-historia-jason-statham-max-netflix-1410444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/secuelas-disparatadas-historia-protagonizada-jason-statham-ya-puede-verse-max-netflix-4247334.jpg?tf=1200x' alt='Es una de las secuelas más disparatadas de la historia, está protagonizada por Jason Statham y ya puede verse en MAX y Netflix' />
     </a>
 </div>
 
