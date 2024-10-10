@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-movil-debes-comprar-quieres-dinero-viejo-telefono-iphone-1410803'>Un estudio revela qué móvil debes comprar si quieres más dinero por tu viejo teléfono (sí, es un iPhone)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-movil-debes-comprar-quieres-dinero-viejo-telefono-iphone-1410803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/moviles-segunda-mano-4248009.jpg?tf=1200x' alt='Un estudio revela qué móvil debes comprar si quieres más dinero por tu viejo teléfono (sí, es un iPhone)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/secuelas-disparatadas-historia-jason-statham-max-netflix-1410444'>Es una de las secuelas más disparatadas de la historia, está protagonizada por Jason Statham y ya puede verse en MAX y Netflix</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/secuelas-disparatadas-historia-jason-statham-max-netflix-1410444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/secuelas-disparatadas-historia-protagonizada-jason-statham-ya-puede-verse-max-netflix-4247334.jpg?tf=1200x' alt='Es una de las secuelas más disparatadas de la historia, está protagonizada por Jason Statham y ya puede verse en MAX y Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/amd-confirma-llegada-inminente-procesadores-ia-potentes-pc-copilot-1410332'>AMD confirma la llegada inminente de sus procesadores con IA más potentes para PC Copilot+</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/amd-confirma-llegada-inminente-procesadores-ia-potentes-pc-copilot-1410332' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amd-ryzen-ia-ai-procesador-chip-4247179.jpg?tf=1200x' alt='AMD confirma la llegada inminente de sus procesadores con IA más potentes para PC Copilot+' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/dias-25-horas-tierra-podria-cambiar-imaginas-futuro-1410670'>¿Días de 25 horas? La Tierra podría cambiar más de lo que imaginas en el futuro</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/dias-25-horas-tierra-podria-cambiar-imaginas-futuro-1410670' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tierra-4247781.jpg?tf=1200x' alt='¿Días de 25 horas? La Tierra podría cambiar más de lo que imaginas en el futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/senales-indican-movil-podria-llegar-explotar-mientras-carga-1410464'>Señales que indican que tu móvil podría llegar a explotar mientras carga</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/senales-indican-movil-podria-llegar-explotar-mientras-carga-1410464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/senales-indican-movil-podria-llegar-explotar-mientras-carga-4247362.jpg?tf=1200x' alt='Señales que indican que tu móvil podría llegar a explotar mientras carga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-todas-estafas-telefonicas-llegan-prefijos-africa-sudamerica-cuidado-timo-proviene-francia-1410429'>No todas las estafas telefónicas llegan con prefijos de África o Sudamérica: cuidado con este timo que proviene de Francia</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/no-todas-estafas-telefonicas-llegan-prefijos-africa-sudamerica-cuidado-timo-proviene-francia-1410429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/no-todas-estafas-telefonicas-llegan-prefijos-africa-sudamerica-cuidado-timo-proviene-francia-4247316.jpg?tf=1200x' alt='No todas las estafas telefónicas llegan con prefijos de África o Sudamérica: cuidado con este timo que proviene de Francia' />
     </a>
 </div>
 
