@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/arc-search-ya-disponible-android-pero-matices-1409634'>Arc Search ya está disponible en Android pero con matices</a></h4>
-    <a href='https://computerhoy.com/android/arc-search-ya-disponible-android-pero-matices-1409634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/arc-search-android-4246027.jpg?tf=1200x' alt='Arc Search ya está disponible en Android pero con matices' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/alternativas-cristal-azul-kodi-luar-palantir-alfa-tienen-horas-contadas-1410628'>Las alternativas a Cristal Azul en Kodi comienzan a caer: cierra Luar, Palantir y Alfa tienen las horas contadas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/alternativas-cristal-azul-kodi-luar-palantir-alfa-tienen-horas-contadas-1410628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/alternativas-cristal-azul-kodi-comienzan-caer-cierra-luar-palantir-alfa-tienen-horas-contadas-4247753.jpg?tf=1200x' alt='Las alternativas a Cristal Azul en Kodi comienzan a caer: cierra Luar, Palantir y Alfa tienen las horas contadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/producto-xiaomi-poco-conocido-cuesta-menos-10-euros-muy-util-casa-1408626'>Este producto Xiaomi es poco conocido, cuesta menos de 10 euros y es muy útil en casa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/producto-xiaomi-poco-conocido-cuesta-menos-10-euros-muy-util-casa-1408626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-mi-temperature-and-humidity-monitor-2-4244393.jpg?tf=1200x' alt='Este producto Xiaomi es poco conocido, cuesta menos de 10 euros y es muy útil en casa' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/experto-desvela-caemos-estafas-whatsapp-mejor-forma-defenderse-1410605'>Un experto desvela por qué caemos en las estafas de WhatsApp y la mejor forma defenderse</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/experto-desvela-caemos-estafas-whatsapp-mejor-forma-defenderse-1410605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-whatsapp-3733013.jpg?tf=1200x' alt='Un experto desvela por qué caemos en las estafas de WhatsApp y la mejor forma defenderse' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/macbook-pro-m4-deja-ver-antes-tiempo-como-luce-portatil-apple-1409618'>El MacBook Pro M4 se deja ver antes de tiempo, así es como luce el portátil de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/macbook-pro-m4-deja-ver-antes-tiempo-como-luce-portatil-apple-1409618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/macbook-pro-m4-filtracion-4246010.jpg?tf=1200x' alt='El MacBook Pro M4 se deja ver antes de tiempo, así es como luce el portátil de Apple' />
+    <h4><a href='https://computerhoy.20minutos.es/audio/todos-auriculares-copian-airpods-menos-marca-1408049'>Todos los auriculares copian a los AirPods, menos esta marca, y es una gran noticia</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/todos-auriculares-copian-airpods-menos-marca-1408049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nothing-ear-open-4240900.jpg?tf=1200x' alt='Todos los auriculares copian a los AirPods, menos esta marca, y es una gran noticia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desconocida-seccion-amazon-secreto-ahorro-llena-cupones-descuento-1408847'>Esta desconocida sección de Amazon es el secreto del ahorro: está llena de cupones descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desconocida-seccion-amazon-secreto-ahorro-llena-cupones-descuento-1408847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/web-amazon-4244820.jpg?tf=1200x' alt='Esta desconocida sección de Amazon es el secreto del ahorro: está llena de cupones descuento' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-correo-electronico-estafa-muy-conocida-pero-no-he-caido-gracias-estos-pasos-1405066'>Si has recibido este mensaje por correo electrónico es una estafa: así es como yo me he librado </a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-correo-electronico-estafa-muy-conocida-pero-no-he-caido-gracias-estos-pasos-1405066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/spam-2412881.jpg?tf=1200x' alt='Si has recibido este mensaje por correo electrónico es una estafa: así es como yo me he librado ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/disponible-android-auto-13-novedades-como-actualizar-1409412'>Ya disponible Android Auto 13 para todos: estas son las novedades y cómo actualizar</a></h4>
-    <a href='https://computerhoy.com/apps/disponible-android-auto-13-novedades-como-actualizar-1409412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-130-4245714.jpg?tf=1200x' alt='Ya disponible Android Auto 13 para todos: estas son las novedades y cómo actualizar' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/puerto-hdmi-arc-como-usarlo-tv-1380621'>Qué es el puerto HDMI ARC de tu TV, para qué sirve y cómo usarlo bien</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/puerto-hdmi-arc-como-usarlo-tv-1380621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puerto-hdmi-arc-sirve-como-usarlo-smart-tv-3301530.jpg?tf=1200x' alt='Qué es el puerto HDMI ARC de tu TV, para qué sirve y cómo usarlo bien' />
     </a>
 </div>
 
