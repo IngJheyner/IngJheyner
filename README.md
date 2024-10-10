@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amd-confirma-llegada-inminente-procesadores-ia-potentes-pc-copilot-1410332'>AMD confirma la llegada inminente de sus procesadores con IA más potentes para PC Copilot+</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amd-confirma-llegada-inminente-procesadores-ia-potentes-pc-copilot-1410332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amd-ryzen-ia-ai-procesador-chip-4247179.jpg?tf=1200x' alt='AMD confirma la llegada inminente de sus procesadores con IA más potentes para PC Copilot+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/todo-saber-xiaomi-marca-nicho-top-ventas-global-1399056'>Todo lo que saber de Xiaomi: de marca de nicho a top ventas global</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/todo-saber-xiaomi-marca-nicho-top-ventas-global-1399056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-3897562.jpg?tf=1200x' alt='Todo lo que saber de Xiaomi: de marca de nicho a top ventas global' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/dias-25-horas-tierra-podria-cambiar-imaginas-futuro-1410670'>¿Días de 25 horas? La Tierra podría cambiar más de lo que imaginas en el futuro</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/dias-25-horas-tierra-podria-cambiar-imaginas-futuro-1410670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tierra-4247781.jpg?tf=1200x' alt='¿Días de 25 horas? La Tierra podría cambiar más de lo que imaginas en el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/senales-indican-movil-podria-llegar-explotar-mientras-carga-1410464'>Señales que indican que tu móvil podría llegar a explotar mientras carga</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/senales-indican-movil-podria-llegar-explotar-mientras-carga-1410464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/senales-indican-movil-podria-llegar-explotar-mientras-carga-4247362.jpg?tf=1200x' alt='Señales que indican que tu móvil podría llegar a explotar mientras carga' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-todas-estafas-telefonicas-llegan-prefijos-africa-sudamerica-cuidado-timo-proviene-francia-1410429'>No todas las estafas telefónicas llegan con prefijos de África o Sudamérica: cuidado con este timo que proviene de Francia</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/no-todas-estafas-telefonicas-llegan-prefijos-africa-sudamerica-cuidado-timo-proviene-francia-1410429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/no-todas-estafas-telefonicas-llegan-prefijos-africa-sudamerica-cuidado-timo-proviene-francia-4247316.jpg?tf=1200x' alt='No todas las estafas telefónicas llegan con prefijos de África o Sudamérica: cuidado con este timo que proviene de Francia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/google-chrome-te-espiando-necesitas-cambiar-estas-opciones-inmediato-evitarlo-1410186'>¿Google Chrome te está espiando? Necesitas cambiar estas opciones de inmediato para evitarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/google-chrome-te-espiando-necesitas-cambiar-estas-opciones-inmediato-evitarlo-1410186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-chrome-espia-4246933.jpg?tf=1200x' alt='¿Google Chrome te está espiando? Necesitas cambiar estas opciones de inmediato para evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-gasoil-ni-gas-caldera-calienta-casa-menos-25-litros-agua-1409535'>Ni gasoil ni gas, esta caldera calienta tu casa con menos de 2,5 litros de agua</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/ni-gasoil-ni-gas-caldera-calienta-casa-menos-25-litros-agua-1409535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-gasoil-ni-gas-caldera-calienta-casa-solo-25-litros-agua-4245898.jpg?tf=1200x' alt='Ni gasoil ni gas, esta caldera calienta tu casa con menos de 2,5 litros de agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/padres-inteligencia-artificial-advierte-peligro-puede-ser-catastrofica-humanidad-1409064'>Uno de los padres de la inteligencia artificial advierte de su peligro: “puede ser catastrófica para la humanidad”</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/padres-inteligencia-artificial-advierte-peligro-puede-ser-catastrofica-humanidad-1409064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/padres-inteligencia-artificial-advierte-peligro-puede-ser-catastrofica-humanidad-4245119.jpg?tf=1200x' alt='Uno de los padres de la inteligencia artificial advierte de su peligro: “puede ser catastrófica para la humanidad”' />
     </a>
 </div>
 
