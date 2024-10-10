@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/suenan-genial-cancelacion-top-cascos-avanzados-huawei-desploman-precio-1410206'>Suenan genial y su cancelación es top: los cascos más avanzados de Huawei desploman su precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/suenan-genial-cancelacion-top-cascos-avanzados-huawei-desploman-precio-1410206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/huawei-buds-pro-3-4246956.jpg?tf=1200x' alt='Suenan genial y su cancelación es top: los cascos más avanzados de Huawei desploman su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-deja-regalo-pc-863-gb-no-sirve-nada-momento-no-puede-eliminar-1410811'>Windows 11 24H2 deja un "regalo" en tu PC de 8,63 GB: no sirve para nada y de momento no se puede eliminar</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-deja-regalo-pc-863-gb-no-sirve-nada-momento-no-puede-eliminar-1410811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ordenador-portatil-icono-almacenamiento-4248020.jpg?tf=1200x' alt='Windows 11 24H2 deja un "regalo" en tu PC de 8,63 GB: no sirve para nada y de momento no se puede eliminar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-actualiza-nuevos-canales-tv-gratis-estas-son-todas-novedades-1410809'>TDTChannels se actualiza con nuevos canales de TV gratis: estas son todas las novedades</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tdtchannels-actualiza-nuevos-canales-tv-gratis-estas-son-todas-novedades-1410809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels se actualiza con nuevos canales de TV gratis: estas son todas las novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-movil-debes-comprar-quieres-dinero-viejo-telefono-iphone-1410803'>Un estudio revela qué móvil debes comprar si quieres más dinero por tu viejo teléfono (sí, es un iPhone)</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-movil-debes-comprar-quieres-dinero-viejo-telefono-iphone-1410803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/moviles-segunda-mano-4248009.jpg?tf=1200x' alt='Un estudio revela qué móvil debes comprar si quieres más dinero por tu viejo teléfono (sí, es un iPhone)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/secuelas-disparatadas-historia-jason-statham-max-netflix-1410444'>Es una de las secuelas más disparatadas de la historia, está protagonizada por Jason Statham y ya puede verse en MAX y Netflix</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/secuelas-disparatadas-historia-jason-statham-max-netflix-1410444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/secuelas-disparatadas-historia-protagonizada-jason-statham-ya-puede-verse-max-netflix-4247334.jpg?tf=1200x' alt='Es una de las secuelas más disparatadas de la historia, está protagonizada por Jason Statham y ya puede verse en MAX y Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amd-confirma-llegada-inminente-procesadores-ia-potentes-pc-copilot-1410332'>AMD confirma la llegada inminente de sus procesadores con IA más potentes para PC Copilot+</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amd-confirma-llegada-inminente-procesadores-ia-potentes-pc-copilot-1410332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amd-ryzen-ia-ai-procesador-chip-4247179.jpg?tf=1200x' alt='AMD confirma la llegada inminente de sus procesadores con IA más potentes para PC Copilot+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/todo-saber-xiaomi-marca-nicho-top-ventas-global-1399056'>Todo lo que saber de Xiaomi: de marca de nicho a top ventas global</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/todo-saber-xiaomi-marca-nicho-top-ventas-global-1399056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/xiaomi-3897562.jpg?tf=1200x' alt='Todo lo que saber de Xiaomi: de marca de nicho a top ventas global' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/dias-25-horas-tierra-podria-cambiar-imaginas-futuro-1410670'>¿Días de 25 horas? La Tierra podría cambiar más de lo que imaginas en el futuro</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/dias-25-horas-tierra-podria-cambiar-imaginas-futuro-1410670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tierra-4247781.jpg?tf=1200x' alt='¿Días de 25 horas? La Tierra podría cambiar más de lo que imaginas en el futuro' />
     </a>
 </div>
 
