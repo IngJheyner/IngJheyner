@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/herramienta-recomienda-guardia-civil-acabar-ransomware-dispositivos-1410675'>Esta es la herramienta que recomienda la Guardia Civil para acabar con el ransomware en tus dispositivos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/herramienta-recomienda-guardia-civil-acabar-ransomware-dispositivos-1410675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/herramienta-recomienda-guardia-civil-acabar-ransomware-dispositivos-4247782.jpg?tf=1200x' alt='Esta es la herramienta que recomienda la Guardia Civil para acabar con el ransomware en tus dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tiene-frecuencia-inferior-top-pero-intel-core-ultra-9-285k-consigue-reducir-calor-afectar-rendimiento-1409800'>Tiene una frecuencia inferior al más top, pero el Intel Core Ultra 9 285K consigue reducir el calor sin afectar al rendimiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tiene-frecuencia-inferior-top-pero-intel-core-ultra-9-285k-consigue-reducir-calor-afectar-rendimiento-1409800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/intel-core-ultra-200s-series-arrow-lake-4246795.jpg?tf=1200x' alt='Tiene una frecuencia inferior al más top, pero el Intel Core Ultra 9 285K consigue reducir el calor sin afectar al rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-seguridad-alerta-peligro-cuentas-wallapop-algunas-son-golosina-hackers-1409387'>Experto en seguridad alerta sobre el peligro de las cuentas de Wallapop: "algunas son una golosina para los hackers</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-seguridad-alerta-peligro-cuentas-wallapop-algunas-son-golosina-hackers-1409387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/experto-seguridad-alerta-peligro-cuentas-wallapop-algunas-son-golosina-hackers-4245692.jpg?tf=1200x' alt='Experto en seguridad alerta sobre el peligro de las cuentas de Wallapop: "algunas son una golosina para los hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/alternativas-cristal-azul-kodi-luar-palantir-alfa-tienen-horas-contadas-1410628'>Las alternativas a Cristal Azul en Kodi comienzan a caer: cierra Luar, Palantir y Alfa tienen las horas contadas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/alternativas-cristal-azul-kodi-luar-palantir-alfa-tienen-horas-contadas-1410628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/alternativas-cristal-azul-kodi-comienzan-caer-cierra-luar-palantir-alfa-tienen-horas-contadas-4247753.jpg?tf=1200x' alt='Las alternativas a Cristal Azul en Kodi comienzan a caer: cierra Luar, Palantir y Alfa tienen las horas contadas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/experto-desvela-caemos-estafas-whatsapp-mejor-forma-defenderse-1410605'>Un experto desvela por qué caemos en las estafas de WhatsApp y la mejor forma defenderse</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/experto-desvela-caemos-estafas-whatsapp-mejor-forma-defenderse-1410605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-whatsapp-3733013.jpg?tf=1200x' alt='Un experto desvela por qué caemos en las estafas de WhatsApp y la mejor forma defenderse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/todos-auriculares-copian-airpods-menos-marca-1408049'>Todos los auriculares copian a los AirPods, menos esta marca, y es una gran noticia</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/todos-auriculares-copian-airpods-menos-marca-1408049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nothing-ear-open-4240900.jpg?tf=1200x' alt='Todos los auriculares copian a los AirPods, menos esta marca, y es una gran noticia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-correo-electronico-estafa-muy-conocida-pero-no-he-caido-gracias-estos-pasos-1405066'>Si has recibido este mensaje por correo electrónico es una estafa: así es como yo me he librado </a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-correo-electronico-estafa-muy-conocida-pero-no-he-caido-gracias-estos-pasos-1405066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/spam-2412881.jpg?tf=1200x' alt='Si has recibido este mensaje por correo electrónico es una estafa: así es como yo me he librado ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/puerto-hdmi-arc-como-usarlo-tv-1380621'>Qué es el puerto HDMI ARC de tu TV, para qué sirve y cómo usarlo bien</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/puerto-hdmi-arc-como-usarlo-tv-1380621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puerto-hdmi-arc-sirve-como-usarlo-smart-tv-3301530.jpg?tf=1200x' alt='Qué es el puerto HDMI ARC de tu TV, para qué sirve y cómo usarlo bien' />
     </a>
 </div>
 
