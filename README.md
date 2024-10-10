@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-suplanta-identidades-crear-resenas-falsas-ha-denunciado-propia-ocu-1410672'>Así es la estafa que suplanta identidades para crear reseñas falsas, y que ha denunciado la propia OCU </a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-suplanta-identidades-crear-resenas-falsas-ha-denunciado-propia-ocu-1410672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-suplanta-identidades-crear-resenas-falsas-ha-denunciado-propia-ocu-4247779.jpg?tf=1200x' alt='Así es la estafa que suplanta identidades para crear reseñas falsas, y que ha denunciado la propia OCU ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/herramienta-recomienda-guardia-civil-acabar-ransomware-dispositivos-1410675'>Esta es la herramienta que recomienda la Guardia Civil para acabar con el ransomware en tus dispositivos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/herramienta-recomienda-guardia-civil-acabar-ransomware-dispositivos-1410675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/herramienta-recomienda-guardia-civil-acabar-ransomware-dispositivos-4247782.jpg?tf=1200x' alt='Esta es la herramienta que recomienda la Guardia Civil para acabar con el ransomware en tus dispositivos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/alternativas-cristal-azul-kodi-luar-palantir-alfa-tienen-horas-contadas-1410628'>Las alternativas a Cristal Azul en Kodi comienzan a caer: cierra Luar, Palantir y Alfa tienen las horas contadas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/alternativas-cristal-azul-kodi-luar-palantir-alfa-tienen-horas-contadas-1410628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/alternativas-cristal-azul-kodi-comienzan-caer-cierra-luar-palantir-alfa-tienen-horas-contadas-4247753.jpg?tf=1200x' alt='Las alternativas a Cristal Azul en Kodi comienzan a caer: cierra Luar, Palantir y Alfa tienen las horas contadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/experto-desvela-caemos-estafas-whatsapp-mejor-forma-defenderse-1410605'>Un experto desvela por qué caemos en las estafas de WhatsApp y la mejor forma defenderse</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/experto-desvela-caemos-estafas-whatsapp-mejor-forma-defenderse-1410605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-whatsapp-3733013.jpg?tf=1200x' alt='Un experto desvela por qué caemos en las estafas de WhatsApp y la mejor forma defenderse' />
     </a>
 </div>
 
