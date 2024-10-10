@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/descubren-cabeza-king-kong-marte-1410836'>Descubren una cabeza de King Kong en Marte</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/descubren-cabeza-king-kong-marte-1410836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/descubren-cabeza-king-kong-marte-4248063.jpg?tf=1200x' alt='Descubren una cabeza de King Kong en Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/procesadores-intel-core-ultra-200s-ia-escritorio-1410827'>Nuevos procesadores de escritorio Intel Core Ultra 200S con IA, malas noticias para los gamers</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/procesadores-intel-core-ultra-200s-ia-escritorio-1410827' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/intel-anuncia-nuevos-intel-core-ultra-200s-ia-escritorio-malas-noticias-gamers-4248001.jpg?tf=1200x' alt='Nuevos procesadores de escritorio Intel Core Ultra 200S con IA, malas noticias para los gamers' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-actualiza-nuevos-canales-tv-gratis-estas-son-todas-novedades-1410809'>TDTChannels se actualiza con nuevos canales de TV gratis: estas son todas las novedades</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/tdtchannels-actualiza-nuevos-canales-tv-gratis-estas-son-todas-novedades-1410809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels se actualiza con nuevos canales de TV gratis: estas son todas las novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-movil-debes-comprar-quieres-dinero-viejo-telefono-iphone-1410803'>Un estudio revela qué móvil debes comprar si quieres más dinero por tu viejo teléfono (sí, es un iPhone)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-movil-debes-comprar-quieres-dinero-viejo-telefono-iphone-1410803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/moviles-segunda-mano-4248009.jpg?tf=1200x' alt='Un estudio revela qué móvil debes comprar si quieres más dinero por tu viejo teléfono (sí, es un iPhone)' />
     </a>
 </div>
 
