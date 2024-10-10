@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-suplanta-identidades-crear-resenas-falsas-ha-denunciado-propia-ocu-1410672'>Así es la estafa que suplanta identidades para crear reseñas falsas, y que ha denunciado la propia OCU </a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-suplanta-identidades-crear-resenas-falsas-ha-denunciado-propia-ocu-1410672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-suplanta-identidades-crear-resenas-falsas-ha-denunciado-propia-ocu-4247779.jpg?tf=1200x' alt='Así es la estafa que suplanta identidades para crear reseñas falsas, y que ha denunciado la propia OCU ' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/senales-indican-movil-podria-llegar-explotar-mientras-carga-1410464'>Señales que indican que tu móvil podría llegar a explotar mientras carga</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/senales-indican-movil-podria-llegar-explotar-mientras-carga-1410464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/senales-indican-movil-podria-llegar-explotar-mientras-carga-4247362.jpg?tf=1200x' alt='Señales que indican que tu móvil podría llegar a explotar mientras carga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/herramienta-recomienda-guardia-civil-acabar-ransomware-dispositivos-1410675'>Esta es la herramienta que recomienda la Guardia Civil para acabar con el ransomware en tus dispositivos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/herramienta-recomienda-guardia-civil-acabar-ransomware-dispositivos-1410675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/herramienta-recomienda-guardia-civil-acabar-ransomware-dispositivos-4247782.jpg?tf=1200x' alt='Esta es la herramienta que recomienda la Guardia Civil para acabar con el ransomware en tus dispositivos' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-todas-estafas-telefonicas-llegan-prefijos-africa-sudamerica-cuidado-timo-proviene-francia-1410429'>No todas las estafas telefónicas llegan con prefijos de África o Sudamérica: cuidado con este timo que proviene de Francia</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/no-todas-estafas-telefonicas-llegan-prefijos-africa-sudamerica-cuidado-timo-proviene-francia-1410429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/no-todas-estafas-telefonicas-llegan-prefijos-africa-sudamerica-cuidado-timo-proviene-francia-4247316.jpg?tf=1200x' alt='No todas las estafas telefónicas llegan con prefijos de África o Sudamérica: cuidado con este timo que proviene de Francia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tiene-frecuencia-inferior-top-pero-intel-core-ultra-9-285k-consigue-reducir-calor-afectar-rendimiento-1409800'>Tiene una frecuencia inferior al más top, pero el Intel Core Ultra 9 285K consigue reducir el calor sin afectar al rendimiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tiene-frecuencia-inferior-top-pero-intel-core-ultra-9-285k-consigue-reducir-calor-afectar-rendimiento-1409800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/intel-core-ultra-200s-series-arrow-lake-4246795.jpg?tf=1200x' alt='Tiene una frecuencia inferior al más top, pero el Intel Core Ultra 9 285K consigue reducir el calor sin afectar al rendimiento' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/google-chrome-te-espiando-necesitas-cambiar-estas-opciones-inmediato-evitarlo-1410186'>¿Google Chrome te está espiando? Necesitas cambiar estas opciones de inmediato para evitarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/google-chrome-te-espiando-necesitas-cambiar-estas-opciones-inmediato-evitarlo-1410186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-chrome-espia-4246933.jpg?tf=1200x' alt='¿Google Chrome te está espiando? Necesitas cambiar estas opciones de inmediato para evitarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-seguridad-alerta-peligro-cuentas-wallapop-algunas-son-golosina-hackers-1409387'>Experto en seguridad alerta sobre el peligro de las cuentas de Wallapop: "algunas son una golosina para los hackers</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-seguridad-alerta-peligro-cuentas-wallapop-algunas-son-golosina-hackers-1409387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/experto-seguridad-alerta-peligro-cuentas-wallapop-algunas-son-golosina-hackers-4245692.jpg?tf=1200x' alt='Experto en seguridad alerta sobre el peligro de las cuentas de Wallapop: "algunas son una golosina para los hackers' />
+    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-gasoil-ni-gas-caldera-calienta-casa-menos-25-litros-agua-1409535'>Ni gasoil ni gas, esta caldera calienta tu casa con menos de 2,5 litros de agua</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/ni-gasoil-ni-gas-caldera-calienta-casa-menos-25-litros-agua-1409535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-gasoil-ni-gas-caldera-calienta-casa-solo-25-litros-agua-4245898.jpg?tf=1200x' alt='Ni gasoil ni gas, esta caldera calienta tu casa con menos de 2,5 litros de agua' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/alternativas-cristal-azul-kodi-luar-palantir-alfa-tienen-horas-contadas-1410628'>Las alternativas a Cristal Azul en Kodi comienzan a caer: cierra Luar, Palantir y Alfa tienen las horas contadas</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/alternativas-cristal-azul-kodi-luar-palantir-alfa-tienen-horas-contadas-1410628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/alternativas-cristal-azul-kodi-comienzan-caer-cierra-luar-palantir-alfa-tienen-horas-contadas-4247753.jpg?tf=1200x' alt='Las alternativas a Cristal Azul en Kodi comienzan a caer: cierra Luar, Palantir y Alfa tienen las horas contadas' />
+    <h4><a href='https://computerhoy.20minutos.es/redes/padres-inteligencia-artificial-advierte-peligro-puede-ser-catastrofica-humanidad-1409064'>Uno de los padres de la inteligencia artificial advierte de su peligro: “puede ser catastrófica para la humanidad”</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/padres-inteligencia-artificial-advierte-peligro-puede-ser-catastrofica-humanidad-1409064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/padres-inteligencia-artificial-advierte-peligro-puede-ser-catastrofica-humanidad-4245119.jpg?tf=1200x' alt='Uno de los padres de la inteligencia artificial advierte de su peligro: “puede ser catastrófica para la humanidad”' />
     </a>
 </div>
 
