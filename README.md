@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-679-computer-hoy-1408800'>¡Ya está en tu quiosco el número 679 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-679-computer-hoy-1408800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/computer-hoy-679-4245468.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 679 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/x-twitter-evita-regulacion-union-europea-no-sera-guardian-ley-mercados-digitales-1410868'>X (Twitter) evita la regulación de la Unión Europea y no será 'guardián' bajo la Ley de Mercados Digitales</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/x-twitter-evita-regulacion-union-europea-no-sera-guardian-ley-mercados-digitales-1410868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tienes-muchos-seguidores-x-elon-musk-te-regala-suscripcion-premium-premium-3293497.jpg?tf=1200x' alt='X (Twitter) evita la regulación de la Unión Europea y no será 'guardián' bajo la Ley de Mercados Digitales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bateria-carga-solar-oferta-amazon-1407516'>Batería con carga solar que enciende hasta tu nevera: Amazon ha rebajado un generador potentísimo y muy útil</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bateria-carga-solar-oferta-amazon-1407516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bluetti-ac200l-4242595.jpg?tf=1200x' alt='Batería con carga solar que enciende hasta tu nevera: Amazon ha rebajado un generador potentísimo y muy útil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-apple-watch-ni-samsung-galaxy-watch-reloj-gama-alta-me-ha-gustado-diseno-estilo-1410321'>Ni Apple Watch ni Samsung Galaxy Watch, el reloj de gama alta que más me ha gustado por diseño y estilo es este</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-apple-watch-ni-samsung-galaxy-watch-reloj-gama-alta-me-ha-gustado-diseno-estilo-1410321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-watch-gt-5-pro-4226627.jpg?tf=1200x' alt='Ni Apple Watch ni Samsung Galaxy Watch, el reloj de gama alta que más me ha gustado por diseño y estilo es este' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-smart-tv-samsung-s95d-oled-te-aseguro-necesitas-vida-tv-panel-antirreflejos-1410565'>He probado la Smart TV Samsung S95D OLED y te aseguro que necesitas en tu vida una TV con panel antirreflejos</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-smart-tv-samsung-s95d-oled-te-aseguro-necesitas-vida-tv-panel-antirreflejos-1410565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-s95d-oled-4247795.jpg?tf=1200x' alt='He probado la Smart TV Samsung S95D OLED y te aseguro que necesitas en tu vida una TV con panel antirreflejos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nuevas-pistas-revelan-marte-volvio-inhabitable-cientificos-1410656'>Nuevas pistas revelan por qué Marte se volvió inhabitable según los científicos</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nuevas-pistas-revelan-marte-volvio-inhabitable-cientificos-1410656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/representacion-artistica-marte-primitivo-agua-liquida-4247770.jpg?tf=1200x' alt='Nuevas pistas revelan por qué Marte se volvió inhabitable según los científicos' />
     </a>
 </div>
 
