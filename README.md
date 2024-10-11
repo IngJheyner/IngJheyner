@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-it-ni-salems-lot-llega-netflix-peliculas-menos-conocidas-basadas-libro-stephen-king-johnny-depp-protagonista-1410747'>Ni It ni Salem’s Lot: llega a Netflix una de las películas menos conocidas basadas en un libro de Stephen King, y con Johnny Depp de protagonista</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-it-ni-salems-lot-llega-netflix-peliculas-menos-conocidas-basadas-libro-stephen-king-johnny-depp-protagonista-1410747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-it-ni-salems-lot-llega-netflix-peliculas-menos-conocidas-basadas-libro-stephen-king-johnny-depp-protagonista-4247926.jpg?tf=1200x' alt='Ni It ni Salem’s Lot: llega a Netflix una de las películas menos conocidas basadas en un libro de Stephen King, y con Johnny Depp de protagonista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/acabaron-dolores-cabeza-elegir-mejor-tarjeta-sd-raspberry-pi-1410984'>Se acabaron los dolores de cabeza para elegir la mejor tarjeta SD para tu Raspberry Pi</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/acabaron-dolores-cabeza-elegir-mejor-tarjeta-sd-raspberry-pi-1410984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/acabaron-dolores-cabeza-elegir-mejor-tarjeta-sd-raspberry-pi-4248291.jpg?tf=1200x' alt='Se acabaron los dolores de cabeza para elegir la mejor tarjeta SD para tu Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-eres-netflix-prime-video-banco-espana-alerta-estafa-suscripcion-1410730'>Cuidado si eres de Netflix o Prime Video: el Banco de España alerta de la “estafa de la suscripción”</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-eres-netflix-prime-video-banco-espana-alerta-estafa-suscripcion-1410730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cuidado-eres-netflix-prime-video-banco-espana-alerta-estafa-suscripcion-4247904.jpg?tf=1200x' alt='Cuidado si eres de Netflix o Prime Video: el Banco de España alerta de la “estafa de la suscripción”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tres-mayores-preocupaciones-bill-gates-futuro-ia-1409544'>Bill Gates está muy preocupado sobre el futuro de la IA: estos son los motivos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tres-mayores-preocupaciones-bill-gates-futuro-ia-1409544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bill-gates-4156580.jpg?tf=1200x' alt='Bill Gates está muy preocupado sobre el futuro de la IA: estos son los motivos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/espana-prepara-encender-primer-sol-artificial-capaz-generar-energia-china-1410918'>España se prepara para encender su primer Sol artificial, capaz de generar más energía que el de China</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/espana-prepara-encender-primer-sol-artificial-capaz-generar-energia-china-1410918' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tokamak-4248210.jpg?tf=1200x' alt='España se prepara para encender su primer Sol artificial, capaz de generar más energía que el de China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/toyota-revoluciona-industria-automovil-cartuchos-hidrogeno-prometen-cambiar-futuro-1410957'>Toyota revoluciona la industria del automóvil: sus cartuchos de hidrógeno prometen cambiar el futuro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/toyota-revoluciona-industria-automovil-cartuchos-hidrogeno-prometen-cambiar-futuro-1410957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cartuchos-portatiles-pueden-cambiar-como-fueran-pilas-4248255.jpg?tf=1200x' alt='Toyota revoluciona la industria del automóvil: sus cartuchos de hidrógeno prometen cambiar el futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/precio-engana-mucho-mini-pc-16gb-ram-ssd-cuesta-solo-216-euros-1410535'>El precio engaña mucho: este Mini PC con 16GB de RAM y SSD cuesta solo 216 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/precio-engana-mucho-mini-pc-16gb-ram-ssd-cuesta-solo-216-euros-1410535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/geekom-mini-pc-air-12-4247543.jpg?tf=1200x' alt='El precio engaña mucho: este Mini PC con 16GB de RAM y SSD cuesta solo 216 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/experto-tecnologia-revela-peor-puedes-hacer-bateria-iphone-arruinara-siempre-1410978'>Experto en tecnología revela lo peor que puedes hacer con la batería de tu iPhone: "la arruinará para siempre"</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/experto-tecnologia-revela-peor-puedes-hacer-bateria-iphone-arruinara-siempre-1410978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243562.jpg?tf=1200x' alt='Experto en tecnología revela lo peor que puedes hacer con la batería de tu iPhone: "la arruinará para siempre"' />
     </a>
 </div>
 
