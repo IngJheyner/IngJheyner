@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/bombilla-inteligente-xiaomi-cuesta-menos-cafe-compatible-alexa-1410540'>Esta bombilla inteligente de Xiaomi cuesta menos que un café, y es compatible con Alexa</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/bombilla-inteligente-xiaomi-cuesta-menos-cafe-compatible-alexa-1410540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mi-smart-led-bulb-4247546.jpg?tf=1200x' alt='Esta bombilla inteligente de Xiaomi cuesta menos que un café, y es compatible con Alexa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/caracteristica-estrella-google-tv-streamer-podria-llegar-chromecast-antes-crees-1410871'>La característica estrella del Google TV Streamer podría llegar a los Chromecast antes de lo que crees</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/caracteristica-estrella-google-tv-streamer-podria-llegar-chromecast-antes-crees-1410871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-streamer-4k-4234290.jpg?tf=1200x' alt='La característica estrella del Google TV Streamer podría llegar a los Chromecast antes de lo que crees' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-679-computer-hoy-1408800'>¡Ya está en tu quiosco el número 679 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-679-computer-hoy-1408800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/computer-hoy-679-4245468.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 679 de Computer Hoy!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bateria-carga-solar-oferta-amazon-1407516'>Batería con carga solar que enciende hasta tu nevera: Amazon ha rebajado un generador potentísimo y muy útil</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bateria-carga-solar-oferta-amazon-1407516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bluetti-ac200l-4242595.jpg?tf=1200x' alt='Batería con carga solar que enciende hasta tu nevera: Amazon ha rebajado un generador potentísimo y muy útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/casio-convierte-reloj-mitico-despertador-1410853'>Casio convierte su reloj más mítico en un despertador, y añade dos funciones muy útiles</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/casio-convierte-reloj-mitico-despertador-1410853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/casio-convierte-reloj-mitico-despertador-anade-dos-funciones-muy-utiles-4248095.jpg?tf=1200x' alt='Casio convierte su reloj más mítico en un despertador, y añade dos funciones muy útiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-apple-watch-ni-samsung-galaxy-watch-reloj-gama-alta-me-ha-gustado-diseno-estilo-1410321'>Ni Apple Watch ni Samsung Galaxy Watch, el reloj de gama alta que más me ha gustado por diseño y estilo es este</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-apple-watch-ni-samsung-galaxy-watch-reloj-gama-alta-me-ha-gustado-diseno-estilo-1410321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-watch-gt-5-pro-4226627.jpg?tf=1200x' alt='Ni Apple Watch ni Samsung Galaxy Watch, el reloj de gama alta que más me ha gustado por diseño y estilo es este' />
     </a>
 </div>
 
