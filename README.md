@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/disney-ya-hay-fecha-definitiva-fin-cuentas-compartidas-1410890'>Disney+: ya hay fecha definitiva para el fin de las cuentas compartidas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/disney-ya-hay-fecha-definitiva-fin-cuentas-compartidas-1410890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/disney-3105314.jpg?tf=1200x' alt='Disney+: ya hay fecha definitiva para el fin de las cuentas compartidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/bombilla-inteligente-xiaomi-cuesta-menos-cafe-compatible-alexa-1410540'>Esta bombilla inteligente de Xiaomi cuesta menos que un café, y es compatible con Alexa</a></h4>
     <a href='https://computerhoy.20minutos.es/life/bombilla-inteligente-xiaomi-cuesta-menos-cafe-compatible-alexa-1410540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mi-smart-led-bulb-4247546.jpg?tf=1200x' alt='Esta bombilla inteligente de Xiaomi cuesta menos que un café, y es compatible con Alexa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/x-twitter-evita-regulacion-union-europea-no-sera-guardian-ley-mercados-digitales-1410868'>X (Twitter) evita la regulación de la Unión Europea y no será 'guardián' bajo la Ley de Mercados Digitales</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/x-twitter-evita-regulacion-union-europea-no-sera-guardian-ley-mercados-digitales-1410868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tienes-muchos-seguidores-x-elon-musk-te-regala-suscripcion-premium-premium-3293497.jpg?tf=1200x' alt='X (Twitter) evita la regulación de la Unión Europea y no será 'guardián' bajo la Ley de Mercados Digitales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bateria-carga-solar-oferta-amazon-1407516'>Batería con carga solar que enciende hasta tu nevera: Amazon ha rebajado un generador potentísimo y muy útil</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bateria-carga-solar-oferta-amazon-1407516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bluetti-ac200l-4242595.jpg?tf=1200x' alt='Batería con carga solar que enciende hasta tu nevera: Amazon ha rebajado un generador potentísimo y muy útil' />
     </a>
 </div>
 
