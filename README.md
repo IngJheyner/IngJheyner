@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/olvidate-flipper-zero-cyberdeck-ultimo-hackear-1411102'>Olvídate de Flipper Zero, esta Cyberdeck es lo último para hackear</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/olvidate-flipper-zero-cyberdeck-ultimo-hackear-1411102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/olvidate-flipper-zero-cyberdeck-ultimo-hackear-4248508.jpg?tf=1200x' alt='Olvídate de Flipper Zero, esta Cyberdeck es lo último para hackear' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/version-windows-11-debes-evitar-provoca-pantallas-negras-bloqueos-pc-1411099'>La versión de Windows 11 que debes evitar y que provoca pantallas negras y bloqueos del PC</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/version-windows-11-debes-evitar-provoca-pantallas-negras-bloqueos-pc-1411099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/error-ordenador-portatil-windows-4248518.jpg?tf=1200x' alt='La versión de Windows 11 que debes evitar y que provoca pantallas negras y bloqueos del PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/steam-cambia-condiciones-ahora-ya-no-podras-comprar-juegos-1411098'>Steam cambia las condiciones: ahora ya no podrás comprar juegos</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/steam-cambia-condiciones-ahora-ya-no-podras-comprar-juegos-1411098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steam-4248517.jpg?tf=1200x' alt='Steam cambia las condiciones: ahora ya no podrás comprar juegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-movistar-ni-vodafone-estos-son-dos-operadores-telefonia-mejor-valorados-ocu-1411095'>Ni Movistar, ni Vodafone: estos son los dos operadores de telefonía mejor valorados, según la OCU</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-movistar-ni-vodafone-estos-son-dos-operadores-telefonia-mejor-valorados-ocu-1411095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/adolescentes-usando-telefono-movil-4248509.jpg?tf=1200x' alt='Ni Movistar, ni Vodafone: estos son los dos operadores de telefonía mejor valorados, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/todo-debes-saber-amazon-mayor-tienda-internet-mundo-1398184'>Todo lo que debes saber sobre Amazon, la mayor tienda de internet del mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/todo-debes-saber-amazon-mayor-tienda-internet-mundo-1398184' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cajas-amazon-prime-4135177.jpg?tf=1200x' alt='Todo lo que debes saber sobre Amazon, la mayor tienda de internet del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cual-distribucion-linux-menos-memoria-ram-necesita-experto-ha-decidido-averiguarlo-1410838'>¿Cuál es la distribución de Linux que menos memoria RAM necesita? Un experto ha decidido averiguarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cual-distribucion-linux-menos-memoria-ram-necesita-experto-ha-decidido-averiguarlo-1410838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cual-distribucion-linux-menos-memoria-ram-necesita-experto-ha-decidido-averiguarlo-4248091.jpg?tf=1200x' alt='¿Cuál es la distribución de Linux que menos memoria RAM necesita? Un experto ha decidido averiguarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-defender-windows-security-diferencias-cual-mejor-ti-1410728'>Microsoft Defender o Windows Security: diferencias y cuál es mejor para ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-defender-windows-security-diferencias-cual-mejor-ti-1410728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/microsoft-defender-windows-security-diferencias-cual-mejor-ti-4247966.jpg?tf=1200x' alt='Microsoft Defender o Windows Security: diferencias y cuál es mejor para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/ni-apuntando-ni-cambiando-pilas-truco-mando-coche-no-falle-nunca-te-hara-perder-cabeza-1409896'>Ni apuntando ni cambiando las pilas, el truco para que el mando del coche no falle nunca que te hará perder la cabeza</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/ni-apuntando-ni-cambiando-pilas-truco-mando-coche-no-falle-nunca-te-hara-perder-cabeza-1409896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-apuntando-ni-cambiando-pilas-truco-mando-coche-no-falle-nunca-te-hara-perder-cabeza-4246495.jpg?tf=1200x' alt='Ni apuntando ni cambiando las pilas, el truco para que el mando del coche no falle nunca que te hará perder la cabeza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/mini-pc-ventajas-desventajas-cuando-no-merecen-pena-1408523'>Mini PC: ventajas, desventajas y cuándo no merecen la pena</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/mini-pc-ventajas-desventajas-cuando-no-merecen-pena-1408523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mini-pc-ventajas-desventajas-cuando-no-merecen-pena-4244259.jpg?tf=1200x' alt='Mini PC: ventajas, desventajas y cuándo no merecen la pena' />
     </a>
 </div>
 
