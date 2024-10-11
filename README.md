@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/tecnologia-puede-duplicar-velocidad-pc-actualizar-hardware-shmt-1371452'>SHMT, la tecnología que puede duplicar la velocidad de cualquier PC sin actualizar el hardware</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/tecnologia-puede-duplicar-velocidad-pc-actualizar-hardware-shmt-1371452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/inventan-tecnologia-permite-duplicar-velocidad-cualquier-pc-actualizar-hardware-3285977.jpg?tf=1200x' alt='SHMT, la tecnología que puede duplicar la velocidad de cualquier PC sin actualizar el hardware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fire-tv-stick-rival-xiaomi-google-1396088'>Los Fire TV Stick tienen un duro rival: es de Xiaomi, con resolución 2K y Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/fire-tv-stick-rival-xiaomi-google-1396088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/xiaomi-mi-tv-stick-3747135.jpg?tf=1200x' alt='Los Fire TV Stick tienen un duro rival: es de Xiaomi, con resolución 2K y Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/descubren-cabeza-king-kong-marte-1410836'>Descubren una cabeza de King Kong en Marte</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/descubren-cabeza-king-kong-marte-1410836' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/descubren-cabeza-king-kong-marte-4248063.jpg?tf=1200x' alt='Descubren una cabeza de King Kong en Marte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/audio/suenan-genial-cancelacion-top-cascos-avanzados-huawei-desploman-precio-1410206'>Suenan genial y su cancelación es top: los cascos más avanzados de Huawei desploman su precio</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/suenan-genial-cancelacion-top-cascos-avanzados-huawei-desploman-precio-1410206' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/huawei-buds-pro-3-4246956.jpg?tf=1200x' alt='Suenan genial y su cancelación es top: los cascos más avanzados de Huawei desploman su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-deja-regalo-pc-863-gb-no-sirve-nada-momento-no-puede-eliminar-1410811'>Windows 11 24H2 deja un "regalo" en tu PC de 8,63 GB: no sirve para nada y de momento no se puede eliminar</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-deja-regalo-pc-863-gb-no-sirve-nada-momento-no-puede-eliminar-1410811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ordenador-portatil-icono-almacenamiento-4248020.jpg?tf=1200x' alt='Windows 11 24H2 deja un "regalo" en tu PC de 8,63 GB: no sirve para nada y de momento no se puede eliminar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-actualiza-nuevos-canales-tv-gratis-estas-son-todas-novedades-1410809'>TDTChannels se actualiza con nuevos canales de TV gratis: estas son todas las novedades</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tdtchannels-actualiza-nuevos-canales-tv-gratis-estas-son-todas-novedades-1410809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels se actualiza con nuevos canales de TV gratis: estas son todas las novedades' />
     </a>
 </div>
 
