@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/donde-prometido-whatsapp-ipad-1410938'>¿Dónde está el prometido WhatsApp para iPad?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/donde-prometido-whatsapp-ipad-1410938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/donde-prometido-whatsapp-ipad-4248209.jpg?tf=1200x' alt='¿Dónde está el prometido WhatsApp para iPad?' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/precio-engana-mucho-mini-pc-16gb-ram-ssd-cuesta-solo-216-euros-1410535'>El precio engaña mucho: este Mini PC con 16GB de RAM y SSD cuesta solo 216 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/precio-engana-mucho-mini-pc-16gb-ram-ssd-cuesta-solo-216-euros-1410535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/geekom-mini-pc-air-12-4247543.jpg?tf=1200x' alt='El precio engaña mucho: este Mini PC con 16GB de RAM y SSD cuesta solo 216 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/grave-amenaza-seguridad-tienes-movil-android-chip-qualcomm-smartphone-afectado-1410947'>Grave amenaza para tu seguridad si tienes un móvil Android con chip Qualcomm: ¿está tu smartphone afectado?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/grave-amenaza-seguridad-tienes-movil-android-chip-qualcomm-smartphone-afectado-1410947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-android-ciberseguridad-3241566.jpg?tf=1200x' alt='Grave amenaza para tu seguridad si tienes un móvil Android con chip Qualcomm: ¿está tu smartphone afectado?' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/experto-tecnologia-revela-peor-puedes-hacer-bateria-iphone-arruinara-siempre-1410978'>Experto en tecnología revela lo peor que puedes hacer con la batería de tu iPhone: "la arruinará para siempre"</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/experto-tecnologia-revela-peor-puedes-hacer-bateria-iphone-arruinara-siempre-1410978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243562.jpg?tf=1200x' alt='Experto en tecnología revela lo peor que puedes hacer con la batería de tu iPhone: "la arruinará para siempre"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-cascos-revientan-amazon-tienen-350000-opiniones-son-baratisimos-pero-cual-secreto-1409475'>Estos cascos revientan Amazon: tienen 350.000 opiniones y son baratísimos, pero ¿cuál es su secreto?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estos-cascos-revientan-amazon-tienen-350000-opiniones-son-baratisimos-pero-cual-secreto-1409475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tozo-t10-4245784.jpg?tf=1200x' alt='Estos cascos revientan Amazon: tienen 350.000 opiniones y son baratísimos, pero ¿cuál es su secreto?' />
+    <h4><a href='https://computerhoy.20minutos.es/google/consiguen-solucionar-error-android-auto-ni-siquiera-google-ha-sabido-reparar-1410977'>Consiguen solucionar un error de Android Auto que ni siquiera Google ha sabido reparar</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/consiguen-solucionar-error-android-auto-ni-siquiera-google-ha-sabido-reparar-1410977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/error-android-auto-4248179.jpg?tf=1200x' alt='Consiguen solucionar un error de Android Auto que ni siquiera Google ha sabido reparar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/por-que-disney-cancelo-star-wars-acolyte-presupuesto-1410933'>Ya sabemos por qué Disney canceló Star Wars: The Acolyte, no fue por la baja audiencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/por-que-disney-cancelo-star-wars-acolyte-presupuesto-1410933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/star-wars-acolyte-osha-qimir-3763553.jpg?tf=1200x' alt='Ya sabemos por qué Disney canceló Star Wars: The Acolyte, no fue por la baja audiencia' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/asteroide-ayudaria-revelar-quinta-fuerza-fundamental-universo-1410964'>Este asteroide ayudaría a revelar una quinta fuerza fundamental del Universo </a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/asteroide-ayudaria-revelar-quinta-fuerza-fundamental-universo-1410964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/revelan-asteroide-kamooalewa-podria-ser-fragmento-luna-3303426.jpg?tf=1200x' alt='Este asteroide ayudaría a revelar una quinta fuerza fundamental del Universo ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/caixabank-regala-iphone-15-pro-max-clientes-solo-cumplir-sencillo-requisito-1410915'>CaixaBank regala un iPhone 15 Pro Max a sus clientes solo por cumplir este sencillo requisito</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/caixabank-regala-iphone-15-pro-max-clientes-solo-cumplir-sencillo-requisito-1410915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/caixabank-regala-iphone-15-pro-max-clientes-solo-cumplir-sencillo-requisito-4248177.jpg?tf=1200x' alt='CaixaBank regala un iPhone 15 Pro Max a sus clientes solo por cumplir este sencillo requisito' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/mi-conexion-5g-funciona-tan-lento-1410976'>Por qué mi conexión 5G funciona tan lento</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/mi-conexion-5g-funciona-tan-lento-1410976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/conexion-5g-4248155.jpg?tf=1200x' alt='Por qué mi conexión 5G funciona tan lento' />
     </a>
 </div>
 
