@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-enviar-burofax-online-correos-precio-1410573'>Cómo enviar un burofax online con Correos: precio y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-enviar-burofax-online-correos-precio-1410573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/correos-4247716.jpg?tf=1200x' alt='Cómo enviar un burofax online con Correos: precio y todo lo que debes saber' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bateria-carga-solar-oferta-amazon-1407516'>Batería con carga solar que enciende hasta tu nevera: Amazon ha rebajado un generador potentísimo y muy útil</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bateria-carga-solar-oferta-amazon-1407516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bluetti-ac200l-4242595.jpg?tf=1200x' alt='Batería con carga solar que enciende hasta tu nevera: Amazon ha rebajado un generador potentísimo y muy útil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/casio-convierte-reloj-mitico-despertador-1410853'>Casio convierte su reloj más mítico en un despertador, y añade dos funciones muy útiles</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/casio-convierte-reloj-mitico-despertador-1410853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/casio-convierte-reloj-mitico-despertador-anade-dos-funciones-muy-utiles-4248095.jpg?tf=1200x' alt='Casio convierte su reloj más mítico en un despertador, y añade dos funciones muy útiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-apple-watch-ni-samsung-galaxy-watch-reloj-gama-alta-me-ha-gustado-diseno-estilo-1410321'>Ni Apple Watch ni Samsung Galaxy Watch, el reloj de gama alta que más me ha gustado por diseño y estilo es este</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-apple-watch-ni-samsung-galaxy-watch-reloj-gama-alta-me-ha-gustado-diseno-estilo-1410321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/huawei-watch-gt-5-pro-4226627.jpg?tf=1200x' alt='Ni Apple Watch ni Samsung Galaxy Watch, el reloj de gama alta que más me ha gustado por diseño y estilo es este' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-smart-tv-samsung-s95d-oled-te-aseguro-necesitas-vida-tv-panel-antirreflejos-1410565'>He probado la Smart TV Samsung S95D OLED y te aseguro que necesitas en tu vida una TV con panel antirreflejos</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-smart-tv-samsung-s95d-oled-te-aseguro-necesitas-vida-tv-panel-antirreflejos-1410565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-s95d-oled-4247795.jpg?tf=1200x' alt='He probado la Smart TV Samsung S95D OLED y te aseguro que necesitas en tu vida una TV con panel antirreflejos' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/nuevas-pistas-revelan-marte-volvio-inhabitable-cientificos-1410656'>Nuevas pistas revelan por qué Marte se volvió inhabitable según los científicos</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nuevas-pistas-revelan-marte-volvio-inhabitable-cientificos-1410656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/representacion-artistica-marte-primitivo-agua-liquida-4247770.jpg?tf=1200x' alt='Nuevas pistas revelan por qué Marte se volvió inhabitable según los científicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/configuraciones-defecto-android-auto-deberias-cambiar-ahora-mismo-1410529'>Configuraciones por defecto de Android Auto que deberías cambiar ahora mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/configuraciones-defecto-android-auto-deberias-cambiar-ahora-mismo-1410529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/configuraciones-defecto-android-auto-deberias-cambiar-ahora-mismo-4247528.jpg?tf=1200x' alt='Configuraciones por defecto de Android Auto que deberías cambiar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/instale-addon-kodi-no-cuelga-nunca-va-como-autentico-tiro-1410511'>Desde que instale este addon en Kodi no se cuelga nunca y va como un auténtico tiro</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/instale-addon-kodi-no-cuelga-nunca-va-como-autentico-tiro-1410511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/instale-addon-kodi-no-cuelga-nunca-va-como-autentico-tiro-4247498.jpg?tf=1200x' alt='Desde que instale este addon en Kodi no se cuelga nunca y va como un auténtico tiro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/como-escribir-letras-estilo-retro-whatsapp-1410496'>Cómo escribir con letras estilo retro en WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/como-escribir-letras-estilo-retro-whatsapp-1410496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-escribir-letras-estilo-retro-whatsapp-4247475.jpg?tf=1200x' alt='Cómo escribir con letras estilo retro en WhatsApp' />
     </a>
 </div>
 
