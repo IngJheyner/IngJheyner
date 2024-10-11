@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/tecnologia-puede-duplicar-velocidad-pc-actualizar-hardware-shmt-1371452'>SHMT, la tecnología que puede duplicar la velocidad de cualquier PC sin actualizar el hardware</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/tecnologia-puede-duplicar-velocidad-pc-actualizar-hardware-shmt-1371452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/inventan-tecnologia-permite-duplicar-velocidad-cualquier-pc-actualizar-hardware-3285977.jpg?tf=1200x' alt='SHMT, la tecnología que puede duplicar la velocidad de cualquier PC sin actualizar el hardware' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-enviar-burofax-online-correos-precio-1410573'>Cómo enviar un burofax online con Correos: precio y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-enviar-burofax-online-correos-precio-1410573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/correos-4247716.jpg?tf=1200x' alt='Cómo enviar un burofax online con Correos: precio y todo lo que debes saber' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fire-tv-stick-rival-xiaomi-google-1396088'>Los Fire TV Stick tienen un duro rival: es de Xiaomi, con resolución 2K y Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/fire-tv-stick-rival-xiaomi-google-1396088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/xiaomi-mi-tv-stick-3747135.jpg?tf=1200x' alt='Los Fire TV Stick tienen un duro rival: es de Xiaomi, con resolución 2K y Google' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nuevas-pistas-revelan-marte-volvio-inhabitable-cientificos-1410656'>Nuevas pistas revelan por qué Marte se volvió inhabitable según los científicos</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nuevas-pistas-revelan-marte-volvio-inhabitable-cientificos-1410656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/representacion-artistica-marte-primitivo-agua-liquida-4247770.jpg?tf=1200x' alt='Nuevas pistas revelan por qué Marte se volvió inhabitable según los científicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/descubren-cabeza-king-kong-marte-1410836'>Descubren una cabeza de King Kong en Marte</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/descubren-cabeza-king-kong-marte-1410836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/descubren-cabeza-king-kong-marte-4248063.jpg?tf=1200x' alt='Descubren una cabeza de King Kong en Marte' />
+    <h4><a href='https://computerhoy.20minutos.es/android/configuraciones-defecto-android-auto-deberias-cambiar-ahora-mismo-1410529'>Configuraciones por defecto de Android Auto que deberías cambiar ahora mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/configuraciones-defecto-android-auto-deberias-cambiar-ahora-mismo-1410529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/configuraciones-defecto-android-auto-deberias-cambiar-ahora-mismo-4247528.jpg?tf=1200x' alt='Configuraciones por defecto de Android Auto que deberías cambiar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/procesadores-intel-core-ultra-200s-ia-escritorio-1410827'>Nuevos procesadores de escritorio Intel Core Ultra 200S con IA, malas noticias para los gamers</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/procesadores-intel-core-ultra-200s-ia-escritorio-1410827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/intel-anuncia-nuevos-intel-core-ultra-200s-ia-escritorio-malas-noticias-gamers-4248001.jpg?tf=1200x' alt='Nuevos procesadores de escritorio Intel Core Ultra 200S con IA, malas noticias para los gamers' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/instale-addon-kodi-no-cuelga-nunca-va-como-autentico-tiro-1410511'>Desde que instale este addon en Kodi no se cuelga nunca y va como un auténtico tiro</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/instale-addon-kodi-no-cuelga-nunca-va-como-autentico-tiro-1410511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/instale-addon-kodi-no-cuelga-nunca-va-como-autentico-tiro-4247498.jpg?tf=1200x' alt='Desde que instale este addon en Kodi no se cuelga nunca y va como un auténtico tiro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/suenan-genial-cancelacion-top-cascos-avanzados-huawei-desploman-precio-1410206'>Suenan genial y su cancelación es top: los cascos más avanzados de Huawei desploman su precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/suenan-genial-cancelacion-top-cascos-avanzados-huawei-desploman-precio-1410206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/huawei-buds-pro-3-4246956.jpg?tf=1200x' alt='Suenan genial y su cancelación es top: los cascos más avanzados de Huawei desploman su precio' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/como-escribir-letras-estilo-retro-whatsapp-1410496'>Cómo escribir con letras estilo retro en WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/como-escribir-letras-estilo-retro-whatsapp-1410496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-escribir-letras-estilo-retro-whatsapp-4247475.jpg?tf=1200x' alt='Cómo escribir con letras estilo retro en WhatsApp' />
     </a>
 </div>
 
