@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/todo-debes-saber-amazon-mayor-tienda-internet-mundo-1398184'>Todo lo que debes saber sobre Amazon, la mayor tienda de internet del mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/todo-debes-saber-amazon-mayor-tienda-internet-mundo-1398184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cajas-amazon-prime-4135177.jpg?tf=1200x' alt='Todo lo que debes saber sobre Amazon, la mayor tienda de internet del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cual-distribucion-linux-menos-memoria-ram-necesita-experto-ha-decidido-averiguarlo-1410838'>¿Cuál es la distribución de Linux que menos memoria RAM necesita? Un experto ha decidido averiguarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cual-distribucion-linux-menos-memoria-ram-necesita-experto-ha-decidido-averiguarlo-1410838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cual-distribucion-linux-menos-memoria-ram-necesita-experto-ha-decidido-averiguarlo-4248091.jpg?tf=1200x' alt='¿Cuál es la distribución de Linux que menos memoria RAM necesita? Un experto ha decidido averiguarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/mini-pc-ventajas-desventajas-cuando-no-merecen-pena-1408523'>Mini PC: ventajas, desventajas y cuándo no merecen la pena</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/mini-pc-ventajas-desventajas-cuando-no-merecen-pena-1408523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mini-pc-ventajas-desventajas-cuando-no-merecen-pena-4244259.jpg?tf=1200x' alt='Mini PC: ventajas, desventajas y cuándo no merecen la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-it-ni-salems-lot-llega-netflix-peliculas-menos-conocidas-basadas-libro-stephen-king-johnny-depp-protagonista-1410747'>Ni It ni Salem’s Lot: llega a Netflix una de las películas menos conocidas basadas en un libro de Stephen King, y con Johnny Depp de protagonista</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-it-ni-salems-lot-llega-netflix-peliculas-menos-conocidas-basadas-libro-stephen-king-johnny-depp-protagonista-1410747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-it-ni-salems-lot-llega-netflix-peliculas-menos-conocidas-basadas-libro-stephen-king-johnny-depp-protagonista-4247926.jpg?tf=1200x' alt='Ni It ni Salem’s Lot: llega a Netflix una de las películas menos conocidas basadas en un libro de Stephen King, y con Johnny Depp de protagonista' />
     </a>
 </div>
 
