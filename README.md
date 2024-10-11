@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/toyota-revoluciona-industria-automovil-cartuchos-hidrogeno-prometen-cambiar-futuro-1410957'>Toyota revoluciona la industria del automóvil: sus cartuchos de hidrógeno prometen cambiar el futuro</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/toyota-revoluciona-industria-automovil-cartuchos-hidrogeno-prometen-cambiar-futuro-1410957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cartuchos-portatiles-pueden-cambiar-como-fueran-pilas-4248255.jpg?tf=1200x' alt='Toyota revoluciona la industria del automóvil: sus cartuchos de hidrógeno prometen cambiar el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/precio-engana-mucho-mini-pc-16gb-ram-ssd-cuesta-solo-216-euros-1410535'>El precio engaña mucho: este Mini PC con 16GB de RAM y SSD cuesta solo 216 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/precio-engana-mucho-mini-pc-16gb-ram-ssd-cuesta-solo-216-euros-1410535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/geekom-mini-pc-air-12-4247543.jpg?tf=1200x' alt='El precio engaña mucho: este Mini PC con 16GB de RAM y SSD cuesta solo 216 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/asteroide-ayudaria-revelar-quinta-fuerza-fundamental-universo-1410964'>Este asteroide ayudaría a revelar una quinta fuerza fundamental del Universo </a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/asteroide-ayudaria-revelar-quinta-fuerza-fundamental-universo-1410964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/revelan-asteroide-kamooalewa-podria-ser-fragmento-luna-3303426.jpg?tf=1200x' alt='Este asteroide ayudaría a revelar una quinta fuerza fundamental del Universo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/mi-conexion-5g-funciona-tan-lento-1410976'>Por qué mi conexión 5G funciona tan lento</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/mi-conexion-5g-funciona-tan-lento-1410976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/conexion-5g-4248155.jpg?tf=1200x' alt='Por qué mi conexión 5G funciona tan lento' />
     </a>
 </div>
 
