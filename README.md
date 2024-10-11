@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cual-distribucion-linux-menos-memoria-ram-necesita-experto-ha-decidido-averiguarlo-1410838'>¿Cuál es la distribución de Linux que menos memoria RAM necesita? Un experto ha decidido averiguarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cual-distribucion-linux-menos-memoria-ram-necesita-experto-ha-decidido-averiguarlo-1410838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cual-distribucion-linux-menos-memoria-ram-necesita-experto-ha-decidido-averiguarlo-4248091.jpg?tf=1200x' alt='¿Cuál es la distribución de Linux que menos memoria RAM necesita? Un experto ha decidido averiguarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-defender-windows-security-diferencias-cual-mejor-ti-1410728'>Microsoft Defender o Windows Security: diferencias y cuál es mejor para ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-defender-windows-security-diferencias-cual-mejor-ti-1410728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/microsoft-defender-windows-security-diferencias-cual-mejor-ti-4247966.jpg?tf=1200x' alt='Microsoft Defender o Windows Security: diferencias y cuál es mejor para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/ni-apuntando-ni-cambiando-pilas-truco-mando-coche-no-falle-nunca-te-hara-perder-cabeza-1409896'>Ni apuntando ni cambiando las pilas, el truco para que el mando del coche no falle nunca que te hará perder la cabeza</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/ni-apuntando-ni-cambiando-pilas-truco-mando-coche-no-falle-nunca-te-hara-perder-cabeza-1409896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-apuntando-ni-cambiando-pilas-truco-mando-coche-no-falle-nunca-te-hara-perder-cabeza-4246495.jpg?tf=1200x' alt='Ni apuntando ni cambiando las pilas, el truco para que el mando del coche no falle nunca que te hará perder la cabeza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/mini-pc-ventajas-desventajas-cuando-no-merecen-pena-1408523'>Mini PC: ventajas, desventajas y cuándo no merecen la pena</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/mini-pc-ventajas-desventajas-cuando-no-merecen-pena-1408523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mini-pc-ventajas-desventajas-cuando-no-merecen-pena-4244259.jpg?tf=1200x' alt='Mini PC: ventajas, desventajas y cuándo no merecen la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-it-ni-salems-lot-llega-netflix-peliculas-menos-conocidas-basadas-libro-stephen-king-johnny-depp-protagonista-1410747'>Ni It ni Salem’s Lot: llega a Netflix una de las películas menos conocidas basadas en un libro de Stephen King, y con Johnny Depp de protagonista</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-it-ni-salems-lot-llega-netflix-peliculas-menos-conocidas-basadas-libro-stephen-king-johnny-depp-protagonista-1410747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-it-ni-salems-lot-llega-netflix-peliculas-menos-conocidas-basadas-libro-stephen-king-johnny-depp-protagonista-4247926.jpg?tf=1200x' alt='Ni It ni Salem’s Lot: llega a Netflix una de las películas menos conocidas basadas en un libro de Stephen King, y con Johnny Depp de protagonista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/acabaron-dolores-cabeza-elegir-mejor-tarjeta-sd-raspberry-pi-1410984'>Se acabaron los dolores de cabeza para elegir la mejor tarjeta SD para tu Raspberry Pi</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/acabaron-dolores-cabeza-elegir-mejor-tarjeta-sd-raspberry-pi-1410984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/acabaron-dolores-cabeza-elegir-mejor-tarjeta-sd-raspberry-pi-4248291.jpg?tf=1200x' alt='Se acabaron los dolores de cabeza para elegir la mejor tarjeta SD para tu Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-eres-netflix-prime-video-banco-espana-alerta-estafa-suscripcion-1410730'>Cuidado si eres de Netflix o Prime Video: el Banco de España alerta de la “estafa de la suscripción”</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-eres-netflix-prime-video-banco-espana-alerta-estafa-suscripcion-1410730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cuidado-eres-netflix-prime-video-banco-espana-alerta-estafa-suscripcion-4247904.jpg?tf=1200x' alt='Cuidado si eres de Netflix o Prime Video: el Banco de España alerta de la “estafa de la suscripción”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tres-mayores-preocupaciones-bill-gates-futuro-ia-1409544'>Bill Gates está muy preocupado sobre el futuro de la IA: estos son los motivos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tres-mayores-preocupaciones-bill-gates-futuro-ia-1409544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bill-gates-4156580.jpg?tf=1200x' alt='Bill Gates está muy preocupado sobre el futuro de la IA: estos son los motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/espana-prepara-encender-primer-sol-artificial-capaz-generar-energia-china-1410918'>España se prepara para encender su primer Sol artificial, capaz de generar más energía que el de China</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/espana-prepara-encender-primer-sol-artificial-capaz-generar-energia-china-1410918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tokamak-4248210.jpg?tf=1200x' alt='España se prepara para encender su primer Sol artificial, capaz de generar más energía que el de China' />
     </a>
 </div>
 
