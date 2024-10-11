@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tres-mayores-preocupaciones-bill-gates-futuro-ia-1409544'>Bill Gates está muy preocupado sobre el futuro de la IA: estos son los motivos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tres-mayores-preocupaciones-bill-gates-futuro-ia-1409544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bill-gates-4156580.jpg?tf=1200x' alt='Bill Gates está muy preocupado sobre el futuro de la IA: estos son los motivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/espana-prepara-encender-primer-sol-artificial-capaz-generar-energia-china-1410918'>España se prepara para encender su primer Sol artificial, capaz de generar más energía que el de China</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/espana-prepara-encender-primer-sol-artificial-capaz-generar-energia-china-1410918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tokamak-4248210.jpg?tf=1200x' alt='España se prepara para encender su primer Sol artificial, capaz de generar más energía que el de China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/toyota-revoluciona-industria-automovil-cartuchos-hidrogeno-prometen-cambiar-futuro-1410957'>Toyota revoluciona la industria del automóvil: sus cartuchos de hidrógeno prometen cambiar el futuro</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/toyota-revoluciona-industria-automovil-cartuchos-hidrogeno-prometen-cambiar-futuro-1410957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cartuchos-portatiles-pueden-cambiar-como-fueran-pilas-4248255.jpg?tf=1200x' alt='Toyota revoluciona la industria del automóvil: sus cartuchos de hidrógeno prometen cambiar el futuro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/experto-tecnologia-revela-peor-puedes-hacer-bateria-iphone-arruinara-siempre-1410978'>Experto en tecnología revela lo peor que puedes hacer con la batería de tu iPhone: "la arruinará para siempre"</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/experto-tecnologia-revela-peor-puedes-hacer-bateria-iphone-arruinara-siempre-1410978' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243562.jpg?tf=1200x' alt='Experto en tecnología revela lo peor que puedes hacer con la batería de tu iPhone: "la arruinará para siempre"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/consiguen-solucionar-error-android-auto-ni-siquiera-google-ha-sabido-reparar-1410977'>Consiguen solucionar un error de Android Auto que ni siquiera Google ha sabido reparar</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/consiguen-solucionar-error-android-auto-ni-siquiera-google-ha-sabido-reparar-1410977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/error-android-auto-4248179.jpg?tf=1200x' alt='Consiguen solucionar un error de Android Auto que ni siquiera Google ha sabido reparar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/asteroide-ayudaria-revelar-quinta-fuerza-fundamental-universo-1410964'>Este asteroide ayudaría a revelar una quinta fuerza fundamental del Universo </a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/asteroide-ayudaria-revelar-quinta-fuerza-fundamental-universo-1410964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/revelan-asteroide-kamooalewa-podria-ser-fragmento-luna-3303426.jpg?tf=1200x' alt='Este asteroide ayudaría a revelar una quinta fuerza fundamental del Universo ' />
     </a>
 </div>
 
