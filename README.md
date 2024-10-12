@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/air-fryer-te-queda-pequena-9-litros-capacidad-rebajada-100-euros-1410880'>Si tu air fryer se te queda pequeña, esta de 9 litros de capacidad está rebajada a 100 euros </a></h4>
+    <a href='https://computerhoy.20minutos.es/life/air-fryer-te-queda-pequena-9-litros-capacidad-rebajada-100-euros-1410880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cecofry-dual-900-4248125.jpg?tf=1200x' alt='Si tu air fryer se te queda pequeña, esta de 9 litros de capacidad está rebajada a 100 euros ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/google-fotos-te-permitira-saber-imagen-fue-generada-inteligencia-artificial-1411201'>Google Fotos te permitirá saber si una imagen fue generada por una inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-fotos-te-permitira-saber-imagen-fue-generada-inteligencia-artificial-1411201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-fotos-4248683.jpg?tf=1200x' alt='Google Fotos te permitirá saber si una imagen fue generada por una inteligencia artificial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/tener-casio-te-puede-salir-muy-caro-confirman-datos-clientes-fueron-robados-ataque-ransomware-1411180'>Tener un Casio te puede salir muy caro: confirman que datos de sus clientes fueron robados en un ataque de ransomware</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/tener-casio-te-puede-salir-muy-caro-confirman-datos-clientes-fueron-robados-ataque-ransomware-1411180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ataque-ransomware-casio-4248617.jpg?tf=1200x' alt='Tener un Casio te puede salir muy caro: confirman que datos de sus clientes fueron robados en un ataque de ransomware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/advierten-nueva-estafa-gmail-podria-enganarte-facilmente-1411176'>Advierten sobre una nueva estafa en Gmail que podría engañarte fácilmente</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/advierten-nueva-estafa-gmail-podria-enganarte-facilmente-1411176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-gmail-4248613.jpg?tf=1200x' alt='Advierten sobre una nueva estafa en Gmail que podría engañarte fácilmente' />
     </a>
 </div>
 
