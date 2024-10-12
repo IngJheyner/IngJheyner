@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-5-euros-ultimo-timo-arrasando-gasolineras-espanolas-1409563'>La estafa de los 5 euros, el último timo que está arrasando en las gasolineras españolas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-5-euros-ultimo-timo-arrasando-gasolineras-espanolas-1409563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-5-euros-ultimo-timo-arrasando-gasolineras-espanolas-4245929.jpg?tf=1200x' alt='La estafa de los 5 euros, el último timo que está arrasando en las gasolineras españolas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/helio-ring-venta-casi-smartwatch-1397047'>Amazfit inicia la guerra del anillo: su Helio Ring ya a la venta, y hace casi lo mismo que un smartwatch</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/helio-ring-venta-casi-smartwatch-1397047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/helio-ring-4247070.jpg?tf=1200x' alt='Amazfit inicia la guerra del anillo: su Helio Ring ya a la venta, y hace casi lo mismo que un smartwatch' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-buds-5-pese-buen-sonido-no-son-todo-mundo-1406939'>He probado los Xiaomi Buds 5 y pese a su buen sonido no son para todo el mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-buds-5-pese-buen-sonido-no-son-todo-mundo-1406939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-buds-5-4242631.jpg?tf=1200x' alt='He probado los Xiaomi Buds 5 y pese a su buen sonido no son para todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/guia-entender-significan-luces-led-roja-verde-naranja-contador-luz-no-te-cuelen-1410887'>Guía para entender qué significan las luces LED roja, verde o naranja del contador de la luz, y que no te la cuelen</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/guia-entender-significan-luces-led-roja-verde-naranja-contador-luz-no-te-cuelen-1410887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/contadores-luz-4248148.jpg?tf=1200x' alt='Guía para entender qué significan las luces LED roja, verde o naranja del contador de la luz, y que no te la cuelen' />
     </a>
 </div>
 
