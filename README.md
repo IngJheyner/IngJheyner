@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/anduril-bolt-m-dron-kamikaze-bolsillo-capaz-destruir-jeep-1411120'>Anduril Bolt-M, el dron kamikaze de bolsillo capaz de destruir un jeep</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/anduril-bolt-m-dron-kamikaze-bolsillo-capaz-destruir-jeep-1411120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1728682970739-4248538.jpg?tf=1200x' alt='Anduril Bolt-M, el dron kamikaze de bolsillo capaz de destruir un jeep' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/olvidate-flipper-zero-cyberdeck-ultimo-hackear-1411102'>Olvídate de Flipper Zero, esta Cyberdeck es lo último para hackear</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/olvidate-flipper-zero-cyberdeck-ultimo-hackear-1411102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/olvidate-flipper-zero-cyberdeck-ultimo-hackear-4248508.jpg?tf=1200x' alt='Olvídate de Flipper Zero, esta Cyberdeck es lo último para hackear' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-movistar-ni-vodafone-estos-son-dos-operadores-telefonia-mejor-valorados-ocu-1411095'>Ni Movistar, ni Vodafone: estos son los dos operadores de telefonía mejor valorados, según la OCU</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-movistar-ni-vodafone-estos-son-dos-operadores-telefonia-mejor-valorados-ocu-1411095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/adolescentes-usando-telefono-movil-4248509.jpg?tf=1200x' alt='Ni Movistar, ni Vodafone: estos son los dos operadores de telefonía mejor valorados, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/todo-debes-saber-amazon-mayor-tienda-internet-mundo-1398184'>Todo lo que debes saber sobre Amazon, la mayor tienda de internet del mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/todo-debes-saber-amazon-mayor-tienda-internet-mundo-1398184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/cajas-amazon-prime-4135177.jpg?tf=1200x' alt='Todo lo que debes saber sobre Amazon, la mayor tienda de internet del mundo' />
     </a>
 </div>
 
