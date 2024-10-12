@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-liberar-android-auto-funciones-ocultas-coche-1312792'>Cómo liberar Android Auto para desbloquear funciones ocultas que usar en tu coche</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-liberar-android-auto-funciones-ocultas-coche-1312792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/android-auto-3149634.jpg?tf=1200x' alt='Cómo liberar Android Auto para desbloquear funciones ocultas que usar en tu coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-hara-compartir-archivos-sea-facil-nunca-1411163'>Windows 11 hará que compartir archivos sea más fácil que nunca</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-hara-compartir-archivos-sea-facil-nunca-1411163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/compartir-archivos-windows-11-4248597.jpg?tf=1200x' alt='Windows 11 hará que compartir archivos sea más fácil que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/rebelion-maquinas-ha-comenzado-robots-aspiradores-gritan-duenos-persiguen-mascotas-1411156'>La rebelión de las máquinas ha comenzado: robots aspiradores gritan a sus dueños y persiguen a sus mascotas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/rebelion-maquinas-ha-comenzado-robots-aspiradores-gritan-duenos-persiguen-mascotas-1411156' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/robot-aspirador-malvado-4248589.jpg?tf=1200x' alt='La rebelión de las máquinas ha comenzado: robots aspiradores gritan a sus dueños y persiguen a sus mascotas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/eneba-como-funciona-seguro-comprar-ventajas-desventajas-1410815'>Eneba: qué es, cómo funciona, es seguro comprar, ventajas y desventajas</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/eneba-como-funciona-seguro-comprar-ventajas-desventajas-1410815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/comprar-eneba-juegos-4248085.jpg?tf=1200x' alt='Eneba: qué es, cómo funciona, es seguro comprar, ventajas y desventajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/truco-jefe-no-quiere-sepas-como-controlar-movil-android-pantalla-pc-1410498'>El truco que tu jefe no quiere que sepas: cómo controlar un móvil Android desde la pantalla del PC</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/truco-jefe-no-quiere-sepas-como-controlar-movil-android-pantalla-pc-1410498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/controlar-android-pc-4247476.jpg?tf=1200x' alt='El truco que tu jefe no quiere que sepas: cómo controlar un móvil Android desde la pantalla del PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-formatear-disco-duro-pc-no-funciona-1410396'>Cómo formatear un disco duro de un PC que ya no funciona</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-formatear-disco-duro-pc-no-funciona-1410396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/borrar-disco-duro-pc-4247284.jpg?tf=1200x' alt='Cómo formatear un disco duro de un PC que ya no funciona' />
     </a>
 </div>
 
