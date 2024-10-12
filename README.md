@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-5-euros-ultimo-timo-arrasando-gasolineras-espanolas-1409563'>La estafa de los 5 euros, el último timo que está arrasando en las gasolineras españolas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-5-euros-ultimo-timo-arrasando-gasolineras-espanolas-1409563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-5-euros-ultimo-timo-arrasando-gasolineras-espanolas-4245929.jpg?tf=1200x' alt='La estafa de los 5 euros, el último timo que está arrasando en las gasolineras españolas' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/rebelion-maquinas-ha-comenzado-robots-aspiradores-gritan-duenos-persiguen-mascotas-1411156'>La rebelión de las máquinas ha comenzado: robots aspiradores gritan a sus dueños y persiguen a sus mascotas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/rebelion-maquinas-ha-comenzado-robots-aspiradores-gritan-duenos-persiguen-mascotas-1411156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/robot-aspirador-malvado-4248589.jpg?tf=1200x' alt='La rebelión de las máquinas ha comenzado: robots aspiradores gritan a sus dueños y persiguen a sus mascotas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/helio-ring-venta-casi-smartwatch-1397047'>Amazfit inicia la guerra del anillo: su Helio Ring ya a la venta, y hace casi lo mismo que un smartwatch</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/helio-ring-venta-casi-smartwatch-1397047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/helio-ring-4247070.jpg?tf=1200x' alt='Amazfit inicia la guerra del anillo: su Helio Ring ya a la venta, y hace casi lo mismo que un smartwatch' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-pro-1tb-almacenamiento-desploma-precio-casi-300-euros-barato-1411075'>Este iPhone Pro con 1TB de almacenamiento desploma su precio: es casi 300 euros más barato</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-pro-1tb-almacenamiento-desploma-precio-casi-300-euros-barato-1411075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-15-pro-4248461.jpg?tf=1200x' alt='Este iPhone Pro con 1TB de almacenamiento desploma su precio: es casi 300 euros más barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/descubren-barra-bar-chiringuito-sarcofago-romano-hace-2000-anos-1411123'>Descubren que la barra de bar de un chiringuito es un sarcófago romano de hace 2.000 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/descubren-barra-bar-chiringuito-sarcofago-romano-hace-2000-anos-1411123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/descubren-barra-bar-chiringuito-sarcofago-romano-hace-2000-anos-4248552.jpg?tf=1200x' alt='Descubren que la barra de bar de un chiringuito es un sarcófago romano de hace 2.000 años' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/eneba-como-funciona-seguro-comprar-ventajas-desventajas-1410815'>Eneba: qué es, cómo funciona, es seguro comprar, ventajas y desventajas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/eneba-como-funciona-seguro-comprar-ventajas-desventajas-1410815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/comprar-eneba-juegos-4248085.jpg?tf=1200x' alt='Eneba: qué es, cómo funciona, es seguro comprar, ventajas y desventajas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/me-ha-gustado-apple-watch-series-10-cantidad-informacion-te-da-muneca-1408894'>Lo que más me ha gustado del Apple Watch Series 10 es la cantidad de información que te da desde la muñeca</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/me-ha-gustado-apple-watch-series-10-cantidad-informacion-te-da-muneca-1408894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-watch-series-10-4244586.jpg?tf=1200x' alt='Lo que más me ha gustado del Apple Watch Series 10 es la cantidad de información que te da desde la muñeca' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/truco-jefe-no-quiere-sepas-como-controlar-movil-android-pantalla-pc-1410498'>El truco que tu jefe no quiere que sepas: cómo controlar un móvil Android desde la pantalla del PC</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/truco-jefe-no-quiere-sepas-como-controlar-movil-android-pantalla-pc-1410498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/controlar-android-pc-4247476.jpg?tf=1200x' alt='El truco que tu jefe no quiere que sepas: cómo controlar un móvil Android desde la pantalla del PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-buds-5-pese-buen-sonido-no-son-todo-mundo-1406939'>He probado los Xiaomi Buds 5 y pese a su buen sonido no son para todo el mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-buds-5-pese-buen-sonido-no-son-todo-mundo-1406939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-buds-5-4242631.jpg?tf=1200x' alt='He probado los Xiaomi Buds 5 y pese a su buen sonido no son para todo el mundo' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-formatear-disco-duro-pc-no-funciona-1410396'>Cómo formatear un disco duro de un PC que ya no funciona</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-formatear-disco-duro-pc-no-funciona-1410396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/borrar-disco-duro-pc-4247284.jpg?tf=1200x' alt='Cómo formatear un disco duro de un PC que ya no funciona' />
     </a>
 </div>
 
