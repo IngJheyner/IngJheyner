@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-fotos-te-permitira-saber-imagen-fue-generada-inteligencia-artificial-1411201'>Google Fotos te permitirá saber si una imagen fue generada por una inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-fotos-te-permitira-saber-imagen-fue-generada-inteligencia-artificial-1411201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-fotos-4248683.jpg?tf=1200x' alt='Google Fotos te permitirá saber si una imagen fue generada por una inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/muy-pronto-nuevo-outlook-windows-11-funcionara-internet-1411198'>Muy pronto el nuevo Outlook para Windows 11 funcionará sin internet</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/muy-pronto-nuevo-outlook-windows-11-funcionara-internet-1411198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/outlook-conexion-internet-4248681.jpg?tf=1200x' alt='Muy pronto el nuevo Outlook para Windows 11 funcionará sin internet' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/advierten-nueva-estafa-gmail-podria-enganarte-facilmente-1411176'>Advierten sobre una nueva estafa en Gmail que podría engañarte fácilmente</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/advierten-nueva-estafa-gmail-podria-enganarte-facilmente-1411176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-gmail-4248613.jpg?tf=1200x' alt='Advierten sobre una nueva estafa en Gmail que podría engañarte fácilmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-automotive-llega-primera-vez-motos-comienza-era-motos-inteligentes-1411168'>Android Automotive llega por primera vez a las motos: comienza la era de las motos inteligentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-automotive-llega-primera-vez-motos-comienza-era-motos-inteligentes-1411168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-automotive-llega-primera-vez-motos-4248603.jpg?tf=1200x' alt='Android Automotive llega por primera vez a las motos: comienza la era de las motos inteligentes' />
     </a>
 </div>
 
