@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-automotive-llega-primera-vez-motos-comienza-era-motos-inteligentes-1411168'>Android Automotive llega por primera vez a las motos: comienza la era de las motos inteligentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-automotive-llega-primera-vez-motos-comienza-era-motos-inteligentes-1411168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-automotive-llega-primera-vez-motos-4248603.jpg?tf=1200x' alt='Android Automotive llega por primera vez a las motos: comienza la era de las motos inteligentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-liberar-android-auto-funciones-ocultas-coche-1312792'>Cómo liberar Android Auto para desbloquear funciones ocultas que usar en tu coche</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-liberar-android-auto-funciones-ocultas-coche-1312792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/android-auto-3149634.jpg?tf=1200x' alt='Cómo liberar Android Auto para desbloquear funciones ocultas que usar en tu coche' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-pro-1tb-almacenamiento-desploma-precio-casi-300-euros-barato-1411075'>Este iPhone Pro con 1TB de almacenamiento desploma su precio: es casi 300 euros más barato</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-pro-1tb-almacenamiento-desploma-precio-casi-300-euros-barato-1411075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-15-pro-4248461.jpg?tf=1200x' alt='Este iPhone Pro con 1TB de almacenamiento desploma su precio: es casi 300 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/eneba-como-funciona-seguro-comprar-ventajas-desventajas-1410815'>Eneba: qué es, cómo funciona, es seguro comprar, ventajas y desventajas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/eneba-como-funciona-seguro-comprar-ventajas-desventajas-1410815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/comprar-eneba-juegos-4248085.jpg?tf=1200x' alt='Eneba: qué es, cómo funciona, es seguro comprar, ventajas y desventajas' />
     </a>
 </div>
 
