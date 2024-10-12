@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/muy-pronto-nuevo-outlook-windows-11-funcionara-internet-1411198'>Muy pronto el nuevo Outlook para Windows 11 funcionará sin internet</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/muy-pronto-nuevo-outlook-windows-11-funcionara-internet-1411198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/outlook-conexion-internet-4248681.jpg?tf=1200x' alt='Muy pronto el nuevo Outlook para Windows 11 funcionará sin internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-no-habra-formulario-resista-google-chrome-internet-1411182'>Ya no habrá formulario que se le resista a Google Chrome en Internet</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-no-habra-formulario-resista-google-chrome-internet-1411182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chrome-basado-ia-4248619.jpg?tf=1200x' alt='Ya no habrá formulario que se le resista a Google Chrome en Internet' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/android-automotive-llega-primera-vez-motos-comienza-era-motos-inteligentes-1411168'>Android Automotive llega por primera vez a las motos: comienza la era de las motos inteligentes</a></h4>
     <a href='https://computerhoy.20minutos.es/android/android-automotive-llega-primera-vez-motos-comienza-era-motos-inteligentes-1411168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-automotive-llega-primera-vez-motos-4248603.jpg?tf=1200x' alt='Android Automotive llega por primera vez a las motos: comienza la era de las motos inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-liberar-android-auto-funciones-ocultas-coche-1312792'>Cómo liberar Android Auto para desbloquear funciones ocultas que usar en tu coche</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-liberar-android-auto-funciones-ocultas-coche-1312792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/android-auto-3149634.jpg?tf=1200x' alt='Cómo liberar Android Auto para desbloquear funciones ocultas que usar en tu coche' />
     </a>
 </div>
 
