@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/tiempo-pasta-termica-procesador-pc-1373562'>¿Cuánto tiempo dura la pasta térmica en el procesador? Tutorial para cambiarla antes de que seque</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/tiempo-pasta-termica-procesador-pc-1373562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuanto-tiempo-dura-pasta-termica-procesador-como-cambiarla-antes-seque-3289573.jpg?tf=1200x' alt='¿Cuánto tiempo dura la pasta térmica en el procesador? Tutorial para cambiarla antes de que seque' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/helio-ring-venta-casi-smartwatch-1397047'>Amazfit inicia la guerra del anillo: su Helio Ring ya a la venta, y hace casi lo mismo que un smartwatch</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/helio-ring-venta-casi-smartwatch-1397047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/helio-ring-4247070.jpg?tf=1200x' alt='Amazfit inicia la guerra del anillo: su Helio Ring ya a la venta, y hace casi lo mismo que un smartwatch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/msi-consola-portatil-oferta-16gb-ram-windows-11-1406936'>MSI rebaja su consola portátil: 16GB de RAM, Windows y todo el catálogo de Game Pass por 300 euros menos</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/msi-consola-portatil-oferta-16gb-ram-windows-11-1406936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/msi-claw-4241566.jpg?tf=1200x' alt='MSI rebaja su consola portátil: 16GB de RAM, Windows y todo el catálogo de Game Pass por 300 euros menos' />
+    <h4><a href='https://computerhoy.20minutos.es/life/descubren-barra-bar-chiringuito-sarcofago-romano-hace-2000-anos-1411123'>Descubren que la barra de bar de un chiringuito es un sarcófago romano de hace 2.000 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/descubren-barra-bar-chiringuito-sarcofago-romano-hace-2000-anos-1411123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/descubren-barra-bar-chiringuito-sarcofago-romano-hace-2000-anos-4248552.jpg?tf=1200x' alt='Descubren que la barra de bar de un chiringuito es un sarcófago romano de hace 2.000 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/anduril-bolt-m-dron-kamikaze-bolsillo-capaz-destruir-jeep-1411120'>Anduril Bolt-M, el dron kamikaze de bolsillo capaz de destruir un jeep</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/anduril-bolt-m-dron-kamikaze-bolsillo-capaz-destruir-jeep-1411120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1728682970739-4248538.jpg?tf=1200x' alt='Anduril Bolt-M, el dron kamikaze de bolsillo capaz de destruir un jeep' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/me-ha-gustado-apple-watch-series-10-cantidad-informacion-te-da-muneca-1408894'>Lo que más me ha gustado del Apple Watch Series 10 es la cantidad de información que te da desde la muñeca</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/me-ha-gustado-apple-watch-series-10-cantidad-informacion-te-da-muneca-1408894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-watch-series-10-4244586.jpg?tf=1200x' alt='Lo que más me ha gustado del Apple Watch Series 10 es la cantidad de información que te da desde la muñeca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/olvidate-flipper-zero-cyberdeck-ultimo-hackear-1411102'>Olvídate de Flipper Zero, esta Cyberdeck es lo último para hackear</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/olvidate-flipper-zero-cyberdeck-ultimo-hackear-1411102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/olvidate-flipper-zero-cyberdeck-ultimo-hackear-4248508.jpg?tf=1200x' alt='Olvídate de Flipper Zero, esta Cyberdeck es lo último para hackear' />
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-buds-5-pese-buen-sonido-no-son-todo-mundo-1406939'>He probado los Xiaomi Buds 5 y pese a su buen sonido no son para todo el mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-buds-5-pese-buen-sonido-no-son-todo-mundo-1406939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-buds-5-4242631.jpg?tf=1200x' alt='He probado los Xiaomi Buds 5 y pese a su buen sonido no son para todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/version-windows-11-debes-evitar-provoca-pantallas-negras-bloqueos-pc-1411099'>La versión de Windows 11 que debes evitar y que provoca pantallas negras y bloqueos del PC</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/version-windows-11-debes-evitar-provoca-pantallas-negras-bloqueos-pc-1411099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/error-ordenador-portatil-windows-4248518.jpg?tf=1200x' alt='La versión de Windows 11 que debes evitar y que provoca pantallas negras y bloqueos del PC' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/guia-entender-significan-luces-led-roja-verde-naranja-contador-luz-no-te-cuelen-1410887'>Guía para entender qué significan las luces LED roja, verde o naranja del contador de la luz, y que no te la cuelen</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/guia-entender-significan-luces-led-roja-verde-naranja-contador-luz-no-te-cuelen-1410887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/contadores-luz-4248148.jpg?tf=1200x' alt='Guía para entender qué significan las luces LED roja, verde o naranja del contador de la luz, y que no te la cuelen' />
     </a>
 </div>
 
