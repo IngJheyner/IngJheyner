@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/tener-casio-te-puede-salir-muy-caro-confirman-datos-clientes-fueron-robados-ataque-ransomware-1411180'>Tener un Casio te puede salir muy caro: confirman que datos de sus clientes fueron robados en un ataque de ransomware</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/tener-casio-te-puede-salir-muy-caro-confirman-datos-clientes-fueron-robados-ataque-ransomware-1411180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ataque-ransomware-casio-4248617.jpg?tf=1200x' alt='Tener un Casio te puede salir muy caro: confirman que datos de sus clientes fueron robados en un ataque de ransomware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/advierten-nueva-estafa-gmail-podria-enganarte-facilmente-1411176'>Advierten sobre una nueva estafa en Gmail que podría engañarte fácilmente</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/advierten-nueva-estafa-gmail-podria-enganarte-facilmente-1411176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-gmail-4248613.jpg?tf=1200x' alt='Advierten sobre una nueva estafa en Gmail que podría engañarte fácilmente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-hara-compartir-archivos-sea-facil-nunca-1411163'>Windows 11 hará que compartir archivos sea más fácil que nunca</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-hara-compartir-archivos-sea-facil-nunca-1411163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/compartir-archivos-windows-11-4248597.jpg?tf=1200x' alt='Windows 11 hará que compartir archivos sea más fácil que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/rebelion-maquinas-ha-comenzado-robots-aspiradores-gritan-duenos-persiguen-mascotas-1411156'>La rebelión de las máquinas ha comenzado: robots aspiradores gritan a sus dueños y persiguen a sus mascotas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/rebelion-maquinas-ha-comenzado-robots-aspiradores-gritan-duenos-persiguen-mascotas-1411156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/robot-aspirador-malvado-4248589.jpg?tf=1200x' alt='La rebelión de las máquinas ha comenzado: robots aspiradores gritan a sus dueños y persiguen a sus mascotas' />
     </a>
 </div>
 
