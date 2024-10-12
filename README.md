@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-no-habra-formulario-resista-google-chrome-internet-1411182'>Ya no habrá formulario que se le resista a Google Chrome en Internet</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-no-habra-formulario-resista-google-chrome-internet-1411182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chrome-basado-ia-4248619.jpg?tf=1200x' alt='Ya no habrá formulario que se le resista a Google Chrome en Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/tener-casio-te-puede-salir-muy-caro-confirman-datos-clientes-fueron-robados-ataque-ransomware-1411180'>Tener un Casio te puede salir muy caro: confirman que datos de sus clientes fueron robados en un ataque de ransomware</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/tener-casio-te-puede-salir-muy-caro-confirman-datos-clientes-fueron-robados-ataque-ransomware-1411180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ataque-ransomware-casio-4248617.jpg?tf=1200x' alt='Tener un Casio te puede salir muy caro: confirman que datos de sus clientes fueron robados en un ataque de ransomware' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-liberar-android-auto-funciones-ocultas-coche-1312792'>Cómo liberar Android Auto para desbloquear funciones ocultas que usar en tu coche</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-liberar-android-auto-funciones-ocultas-coche-1312792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/android-auto-3149634.jpg?tf=1200x' alt='Cómo liberar Android Auto para desbloquear funciones ocultas que usar en tu coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-hara-compartir-archivos-sea-facil-nunca-1411163'>Windows 11 hará que compartir archivos sea más fácil que nunca</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-hara-compartir-archivos-sea-facil-nunca-1411163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/compartir-archivos-windows-11-4248597.jpg?tf=1200x' alt='Windows 11 hará que compartir archivos sea más fácil que nunca' />
     </a>
 </div>
 
