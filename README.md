@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/esperada-gran-actualizacion-windows-11-no-parece-llevarse-nada-bien-conexion-internet-1411237'>La esperada gran actualización para Windows 11 no parece llevarse nada bien con la conexión a Internet</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/esperada-gran-actualizacion-windows-11-no-parece-llevarse-nada-bien-conexion-internet-1411237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-wifi-4248769.jpg?tf=1200x' alt='La esperada gran actualización para Windows 11 no parece llevarse nada bien con la conexión a Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/usos-hdmi-smart-tv-bien-1258014'>Este HDMI de tu Smart TV es diferente al resto y seguramente lo estés utilizando mal</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/usos-hdmi-smart-tv-bien-1258014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hdmi-3998575.jpg?tf=1200x' alt='Este HDMI de tu Smart TV es diferente al resto y seguramente lo estés utilizando mal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/funcion-chrome-android-censurara-informacion-confidencial-incluso-cuando-cambies-pestana-1411229'>Esta función para Chrome en Android censurará la información confidencial incluso cuando cambies de pestaña</a></h4>
     <a href='https://computerhoy.20minutos.es/android/funcion-chrome-android-censurara-informacion-confidencial-incluso-cuando-cambies-pestana-1411229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chrome-android-4248761.jpg?tf=1200x' alt='Esta función para Chrome en Android censurará la información confidencial incluso cuando cambies de pestaña' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-cuenta-cualquier-pagina-red-social-vinculada-gmail-1410706'>Cómo eliminar una cuenta de cualquier página o red social vinculada a tu Gmail</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-cuenta-cualquier-pagina-red-social-vinculada-gmail-1410706' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cuentas-google-4247896.jpg?tf=1200x' alt='Cómo eliminar una cuenta de cualquier página o red social vinculada a tu Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-series-coreanas-netflix-1410692'>Las mejores series coreanas de Netflix (que no son las que todo el mundo ha visto)</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-series-coreanas-netflix-1410692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/series-coreanas-4247850.jpg?tf=1200x' alt='Las mejores series coreanas de Netflix (que no son las que todo el mundo ha visto)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-solucionar-error-ssd-no-reconocido-windows-1410116'>Cómo solucionar el error SSD no reconocido en Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-solucionar-error-ssd-no-reconocido-windows-1410116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/error-no-reconoce-ssd-windows-4246824.jpg?tf=1200x' alt='Cómo solucionar el error SSD no reconocido en Windows' />
     </a>
 </div>
 
