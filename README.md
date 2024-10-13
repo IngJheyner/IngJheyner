@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/carpeta-maldita-windows-11-borrala-mejoraras-velocidad-pc-instante-1387348'>La carpeta maldita de Windows 11: bórrala y mejorarás la velocidad de tu PC al instante</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/carpeta-maldita-windows-11-borrala-mejoraras-velocidad-pc-instante-1387348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carpeta-maldita-windows-11-borrarla-mejora-velocidad-pc-instante-3344579.jpg?tf=1200x' alt='La carpeta maldita de Windows 11: bórrala y mejorarás la velocidad de tu PC al instante' />
+    <h4><a href='https://computerhoy.20minutos.es/life/puedes-curar-rapido-resfriado-comun-ciencia-1411199'>Así puedes curar rápido el resfriado común, según la ciencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/puedes-curar-rapido-resfriado-comun-ciencia-1411199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/resfriado-comun-4248682.jpg?tf=1200x' alt='Así puedes curar rápido el resfriado común, según la ciencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-rebaja-galaxy-watch7-modelo-lte-1407342'>Samsung pisa fuerte con su nuevo smartwatch: rebaja el modelo LTE y se sitúa como una opción muy asequible</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-rebaja-galaxy-watch7-modelo-lte-1407342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-watch7-4g-lte-4242266.jpg?tf=1200x' alt='Samsung pisa fuerte con su nuevo smartwatch: rebaja el modelo LTE y se sitúa como una opción muy asequible' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-como-saber-televisor-preparado-tendras-comprar-nuevo-1410789'>Apagón TDT 2025: cómo saber si tu televisor está preparado o tendrás que comprar uno nuevo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-como-saber-televisor-preparado-tendras-comprar-nuevo-1410789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apagon-tdt-2025-como-saber-televisor-preparado-tendras-comprar-nuevo-4248045.jpg?tf=1200x' alt='Apagón TDT 2025: cómo saber si tu televisor está preparado o tendrás que comprar uno nuevo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/air-fryer-te-queda-pequena-9-litros-capacidad-rebajada-100-euros-1410880'>Si tu air fryer se te queda pequeña, esta de 9 litros de capacidad está rebajada a 100 euros </a></h4>
-    <a href='https://computerhoy.20minutos.es/life/air-fryer-te-queda-pequena-9-litros-capacidad-rebajada-100-euros-1410880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cecofry-dual-900-4248125.jpg?tf=1200x' alt='Si tu air fryer se te queda pequeña, esta de 9 litros de capacidad está rebajada a 100 euros ' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/mejores-compilaciones-kodi-1410523'>Las 10 mejores compilaciones de Kodi 2024: una para cada tipo de usuario</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/mejores-compilaciones-kodi-1410523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/10-mejores-compilaciones-kodi-2024-cada-tipo-usuario-4247513.jpg?tf=1200x' alt='Las 10 mejores compilaciones de Kodi 2024: una para cada tipo de usuario' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-fotos-te-permitira-saber-imagen-fue-generada-inteligencia-artificial-1411201'>Google Fotos te permitirá saber si una imagen fue generada por una inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-fotos-te-permitira-saber-imagen-fue-generada-inteligencia-artificial-1411201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-fotos-4248683.jpg?tf=1200x' alt='Google Fotos te permitirá saber si una imagen fue generada por una inteligencia artificial' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/padel-relojes-inteligentes-romance-pendiente-jugar-damas-aparece-larga-lista-deportes-padel-no-1410480'>El pádel y los relojes inteligentes, un romance pendiente: ¿por qué jugar a las damas sí aparece en la larga lista de deportes y el pádel no?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/padel-relojes-inteligentes-romance-pendiente-jugar-damas-aparece-larga-lista-deportes-padel-no-1410480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-watch-2-4242586.jpg?tf=1200x' alt='El pádel y los relojes inteligentes, un romance pendiente: ¿por qué jugar a las damas sí aparece en la larga lista de deportes y el pádel no?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/muy-pronto-nuevo-outlook-windows-11-funcionara-internet-1411198'>Muy pronto el nuevo Outlook para Windows 11 funcionará sin internet</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/muy-pronto-nuevo-outlook-windows-11-funcionara-internet-1411198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/outlook-conexion-internet-4248681.jpg?tf=1200x' alt='Muy pronto el nuevo Outlook para Windows 11 funcionará sin internet' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuando-mirada-dice-todo-estamos-preparados-mundo-anonimato-debido-gafas-inteligentes-1410456'>Cuando la mirada lo dice todo: ¿estamos preparados para un mundo sin anonimato debido a las gafas inteligentes?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cuando-mirada-dice-todo-estamos-preparados-mundo-anonimato-debido-gafas-inteligentes-1410456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gafas-inteligentes-4247390.jpg?tf=1200x' alt='Cuando la mirada lo dice todo: ¿estamos preparados para un mundo sin anonimato debido a las gafas inteligentes?' />
     </a>
 </div>
 
