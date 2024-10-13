@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/funcion-chrome-android-censurara-informacion-confidencial-incluso-cuando-cambies-pestana-1411229'>Esta función para Chrome en Android censurará la información confidencial incluso cuando cambies de pestaña</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/funcion-chrome-android-censurara-informacion-confidencial-incluso-cuando-cambies-pestana-1411229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chrome-android-4248761.jpg?tf=1200x' alt='Esta función para Chrome en Android censurará la información confidencial incluso cuando cambies de pestaña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-no-abandona-batalla-moviles-plegables-suenan-dispositivo-capaz-girar-360-grados-1411227'>Microsoft no abandona la batalla de los móviles plegables: sueñan con un dispositivo capaz de girar 360 grados</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-no-abandona-batalla-moviles-plegables-suenan-dispositivo-capaz-girar-360-grados-1411227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/surface-duo-2-4248760.jpg?tf=1200x' alt='Microsoft no abandona la batalla de los móviles plegables: sueñan con un dispositivo capaz de girar 360 grados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-cuenta-cualquier-pagina-red-social-vinculada-gmail-1410706'>Cómo eliminar una cuenta de cualquier página o red social vinculada a tu Gmail</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-cuenta-cualquier-pagina-red-social-vinculada-gmail-1410706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cuentas-google-4247896.jpg?tf=1200x' alt='Cómo eliminar una cuenta de cualquier página o red social vinculada a tu Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-series-coreanas-netflix-1410692'>Las mejores series coreanas de Netflix (que no son las que todo el mundo ha visto)</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-series-coreanas-netflix-1410692' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/series-coreanas-4247850.jpg?tf=1200x' alt='Las mejores series coreanas de Netflix (que no son las que todo el mundo ha visto)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-solucionar-error-ssd-no-reconocido-windows-1410116'>Cómo solucionar el error SSD no reconocido en Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-solucionar-error-ssd-no-reconocido-windows-1410116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/error-no-reconoce-ssd-windows-4246824.jpg?tf=1200x' alt='Cómo solucionar el error SSD no reconocido en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-adaptar-portatil-windows-personas-mayores-1409488'>Cómo adaptar un portátil con Windows al uso para personas mayores</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-adaptar-portatil-windows-personas-mayores-1409488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/portatil-ancianos-4245844.jpg?tf=1200x' alt='Cómo adaptar un portátil con Windows al uso para personas mayores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/polemica-nueva-vista-rapida-ofrecera-buscador-google-cuando-busques-informacion-1411202'>La polémica nueva vista rápida que ofrecerá el buscador de Google cuando busques esta información</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/polemica-nueva-vista-rapida-ofrecera-buscador-google-cuando-busques-informacion-1411202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/recetas-comida-buscador-google-4248684.jpg?tf=1200x' alt='La polémica nueva vista rápida que ofrecerá el buscador de Google cuando busques esta información' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/empleado-museo-tira-latas-aplastadas-cerveza-basura-eran-obra-arte-1411207'>Un empleado de un museo tira dos latas aplastadas a la basura: eran una obra de arte</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/empleado-museo-tira-latas-aplastadas-cerveza-basura-eran-obra-arte-1411207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/empleado-museo-tira-dos-latas-aplastadas-cerveza-basura-eran-obra-arte-4248708.jpg?tf=1200x' alt='Un empleado de un museo tira dos latas aplastadas a la basura: eran una obra de arte' />
     </a>
 </div>
 
