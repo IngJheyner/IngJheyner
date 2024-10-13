@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/gog-unica-tienda-juegos-digitales-son-tuyos-1411279'>Esta es la única tienda de juegos digitales en donde los juegos que compras son tuyos</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/gog-unica-tienda-juegos-digitales-son-tuyos-1411279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/unica-tienda-juegos-digitales-donde-juegos-compras-son-4248835.jpg?tf=1200x' alt='Esta es la única tienda de juegos digitales en donde los juegos que compras son tuyos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/moflin-casio-adorable-mascota-robot-reducir-estres-1411276'>Lo nuevo de Casio no es un reloj, es una adorable mascota robot para reducir el estrés</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/moflin-casio-adorable-mascota-robot-reducir-estres-1411276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1728839238947-4248811.jpg?tf=1200x' alt='Lo nuevo de Casio no es un reloj, es una adorable mascota robot para reducir el estrés' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/esperada-gran-actualizacion-windows-11-no-parece-llevarse-nada-bien-conexion-internet-1411237'>La esperada gran actualización para Windows 11 no parece llevarse nada bien con la conexión a Internet</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/esperada-gran-actualizacion-windows-11-no-parece-llevarse-nada-bien-conexion-internet-1411237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-wifi-4248769.jpg?tf=1200x' alt='La esperada gran actualización para Windows 11 no parece llevarse nada bien con la conexión a Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/usos-hdmi-smart-tv-bien-1258014'>Este HDMI de tu Smart TV es diferente al resto y seguramente lo estés utilizando mal</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/usos-hdmi-smart-tv-bien-1258014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hdmi-3998575.jpg?tf=1200x' alt='Este HDMI de tu Smart TV es diferente al resto y seguramente lo estés utilizando mal' />
     </a>
 </div>
 
