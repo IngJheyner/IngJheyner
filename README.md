@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/moflin-casio-adorable-mascota-robot-reducir-estres-1411276'>Lo nuevo de Casio no es un reloj, es una adorable mascota robot para reducir el estrés</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/moflin-casio-adorable-mascota-robot-reducir-estres-1411276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1728839238947-4248811.jpg?tf=1200x' alt='Lo nuevo de Casio no es un reloj, es una adorable mascota robot para reducir el estrés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/mechazilla-spacex-atrapa-cohete-starship-vuelo-1411270'>El Mechazilla de SpaceX funciona: atrapó el propulsor del cohete Starship al vuelo</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/mechazilla-spacex-atrapa-cohete-starship-vuelo-1411270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mechazilla-spacex-funciona-atrapo-cohete-starship-vuelo-4248804.jpg?tf=1200x' alt='El Mechazilla de SpaceX funciona: atrapó el propulsor del cohete Starship al vuelo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/usos-hdmi-smart-tv-bien-1258014'>Este HDMI de tu Smart TV es diferente al resto y seguramente lo estés utilizando mal</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/usos-hdmi-smart-tv-bien-1258014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/hdmi-3998575.jpg?tf=1200x' alt='Este HDMI de tu Smart TV es diferente al resto y seguramente lo estés utilizando mal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/funcion-chrome-android-censurara-informacion-confidencial-incluso-cuando-cambies-pestana-1411229'>Esta función para Chrome en Android censurará la información confidencial incluso cuando cambies de pestaña</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/funcion-chrome-android-censurara-informacion-confidencial-incluso-cuando-cambies-pestana-1411229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chrome-android-4248761.jpg?tf=1200x' alt='Esta función para Chrome en Android censurará la información confidencial incluso cuando cambies de pestaña' />
     </a>
 </div>
 
