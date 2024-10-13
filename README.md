@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/mechazilla-spacex-atrapa-cohete-starship-vuelo-1411270'>El Mechazilla de SpaceX funciona: atrapó el propulsor del cohete Starship al vuelo</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/mechazilla-spacex-atrapa-cohete-starship-vuelo-1411270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mechazilla-spacex-funciona-atrapo-cohete-starship-vuelo-4248804.jpg?tf=1200x' alt='El Mechazilla de SpaceX funciona: atrapó el propulsor del cohete Starship al vuelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/ya-puedes-cambiar-direccion-correo-electronico-principal-cuenta-apple-gracias-ios-181-1411239'>Ya puedes cambiar la dirección de correo electrónico principal de tu cuenta de Apple gracias a iOS 18.1</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/ya-puedes-cambiar-direccion-correo-electronico-principal-cuenta-apple-gracias-ios-181-1411239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-iphone-4248772.jpg?tf=1200x' alt='Ya puedes cambiar la dirección de correo electrónico principal de tu cuenta de Apple gracias a iOS 18.1' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/funcion-chrome-android-censurara-informacion-confidencial-incluso-cuando-cambies-pestana-1411229'>Esta función para Chrome en Android censurará la información confidencial incluso cuando cambies de pestaña</a></h4>
     <a href='https://computerhoy.20minutos.es/android/funcion-chrome-android-censurara-informacion-confidencial-incluso-cuando-cambies-pestana-1411229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chrome-android-4248761.jpg?tf=1200x' alt='Esta función para Chrome en Android censurará la información confidencial incluso cuando cambies de pestaña' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-no-abandona-batalla-moviles-plegables-suenan-dispositivo-capaz-girar-360-grados-1411227'>Microsoft no abandona la batalla de los móviles plegables: sueñan con un dispositivo capaz de girar 360 grados</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-no-abandona-batalla-moviles-plegables-suenan-dispositivo-capaz-girar-360-grados-1411227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/surface-duo-2-4248760.jpg?tf=1200x' alt='Microsoft no abandona la batalla de los móviles plegables: sueñan con un dispositivo capaz de girar 360 grados' />
     </a>
 </div>
 
