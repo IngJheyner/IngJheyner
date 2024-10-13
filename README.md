@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/empleado-museo-tira-latas-aplastadas-cerveza-basura-eran-obra-arte-1411207'>Un empleado de un museo tira dos latas aplastadas a la basura: eran una obra de arte</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/empleado-museo-tira-latas-aplastadas-cerveza-basura-eran-obra-arte-1411207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/empleado-museo-tira-dos-latas-aplastadas-cerveza-basura-eran-obra-arte-4248708.jpg?tf=1200x' alt='Un empleado de un museo tira dos latas aplastadas a la basura: eran una obra de arte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudiantes-disenan-solucion-innovadora-atropello-fauna-salvaje-1411197'>Estudiantes diseñan una solución innovadora contra el atropello de fauna salvaje</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estudiantes-disenan-solucion-innovadora-atropello-fauna-salvaje-1411197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ciervos-carretera-4248680.jpg?tf=1200x' alt='Estudiantes diseñan una solución innovadora contra el atropello de fauna salvaje' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/puedes-curar-rapido-resfriado-comun-ciencia-1411199'>Así puedes curar rápido el resfriado común, según la ciencia</a></h4>
     <a href='https://computerhoy.20minutos.es/life/puedes-curar-rapido-resfriado-comun-ciencia-1411199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/resfriado-comun-4248682.jpg?tf=1200x' alt='Así puedes curar rápido el resfriado común, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-como-saber-televisor-preparado-tendras-comprar-nuevo-1410789'>Apagón TDT 2025: cómo saber si tu televisor está preparado o tendrás que comprar uno nuevo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-como-saber-televisor-preparado-tendras-comprar-nuevo-1410789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apagon-tdt-2025-como-saber-televisor-preparado-tendras-comprar-nuevo-4248045.jpg?tf=1200x' alt='Apagón TDT 2025: cómo saber si tu televisor está preparado o tendrás que comprar uno nuevo' />
     </a>
 </div>
 
