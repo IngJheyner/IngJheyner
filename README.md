@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudiantes-disenan-solucion-innovadora-atropello-fauna-salvaje-1411197'>Estudiantes diseñan una solución innovadora contra el atropello de fauna salvaje</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estudiantes-disenan-solucion-innovadora-atropello-fauna-salvaje-1411197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ciervos-carretera-4248680.jpg?tf=1200x' alt='Estudiantes diseñan una solución innovadora contra el atropello de fauna salvaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/criptografia-post-cuantica-promete-ser-solucion-no-caiga-ciberseguridad-mundial-1405109'>¿Qué es criptografía post-cuántica y por qué promete ser la solución para que no caiga la ciberseguridad mundial? </a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/criptografia-post-cuantica-promete-ser-solucion-no-caiga-ciberseguridad-mundial-1405109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1728639355898-4248205.jpg?tf=1200x' alt='¿Qué es criptografía post-cuántica y por qué promete ser la solución para que no caiga la ciberseguridad mundial? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/dreame-z30-analisis-opiniones-1410867'>He probado el Dreame Z30 y, si eres un maniático de la limpieza, este aspirador sin cables es para ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/dreame-z30-analisis-opiniones-1410867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dreame-z30-analisis-opiniones-4248360.jpg?tf=1200x' alt='He probado el Dreame Z30 y, si eres un maniático de la limpieza, este aspirador sin cables es para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/puedes-curar-rapido-resfriado-comun-ciencia-1411199'>Así puedes curar rápido el resfriado común, según la ciencia</a></h4>
     <a href='https://computerhoy.20minutos.es/life/puedes-curar-rapido-resfriado-comun-ciencia-1411199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/resfriado-comun-4248682.jpg?tf=1200x' alt='Así puedes curar rápido el resfriado común, según la ciencia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-como-saber-televisor-preparado-tendras-comprar-nuevo-1410789'>Apagón TDT 2025: cómo saber si tu televisor está preparado o tendrás que comprar uno nuevo</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-como-saber-televisor-preparado-tendras-comprar-nuevo-1410789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apagon-tdt-2025-como-saber-televisor-preparado-tendras-comprar-nuevo-4248045.jpg?tf=1200x' alt='Apagón TDT 2025: cómo saber si tu televisor está preparado o tendrás que comprar uno nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/mejores-compilaciones-kodi-1410523'>Las 10 mejores compilaciones de Kodi 2024: una para cada tipo de usuario</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/mejores-compilaciones-kodi-1410523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/10-mejores-compilaciones-kodi-2024-cada-tipo-usuario-4247513.jpg?tf=1200x' alt='Las 10 mejores compilaciones de Kodi 2024: una para cada tipo de usuario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/padel-relojes-inteligentes-romance-pendiente-jugar-damas-aparece-larga-lista-deportes-padel-no-1410480'>El pádel y los relojes inteligentes, un romance pendiente: ¿por qué jugar a las damas sí aparece en la larga lista de deportes y el pádel no?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/padel-relojes-inteligentes-romance-pendiente-jugar-damas-aparece-larga-lista-deportes-padel-no-1410480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-watch-2-4242586.jpg?tf=1200x' alt='El pádel y los relojes inteligentes, un romance pendiente: ¿por qué jugar a las damas sí aparece en la larga lista de deportes y el pádel no?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuando-mirada-dice-todo-estamos-preparados-mundo-anonimato-debido-gafas-inteligentes-1410456'>Cuando la mirada lo dice todo: ¿estamos preparados para un mundo sin anonimato debido a las gafas inteligentes?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cuando-mirada-dice-todo-estamos-preparados-mundo-anonimato-debido-gafas-inteligentes-1410456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gafas-inteligentes-4247390.jpg?tf=1200x' alt='Cuando la mirada lo dice todo: ¿estamos preparados para un mundo sin anonimato debido a las gafas inteligentes?' />
     </a>
 </div>
 
