@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/cumplen-25-anos-geforce-256-primera-tarjeta-grafica-nvidia-1411289'>Se cumplen 25 años de GeForce 256, la primera tarjeta gráfica de Nvidia que lo cambió todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/cumplen-25-anos-geforce-256-primera-tarjeta-grafica-nvidia-1411289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cumplen-25-anos-geforce-256-primera-tarjeta-grafica-cambio-todo-4248841.jpg?tf=1200x' alt='Se cumplen 25 años de GeForce 256, la primera tarjeta gráfica de Nvidia que lo cambió todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/estados-unidos-obligar-coches-llevar-radio-am-1411286'>En Estados Unidos van a obligar a todos los coches a llevar radio AM, algunas marcas se rebelan</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/estados-unidos-obligar-coches-llevar-radio-am-1411286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estados-unidos-van-obligar-todos-coches-llegar-radio-am-algunas-marcas-rebelan-4248837.jpg?tf=1200x' alt='En Estados Unidos van a obligar a todos los coches a llevar radio AM, algunas marcas se rebelan' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/mechazilla-spacex-atrapa-cohete-starship-vuelo-1411270'>El Mechazilla de SpaceX funciona: atrapó el propulsor del cohete Starship al vuelo</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/mechazilla-spacex-atrapa-cohete-starship-vuelo-1411270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mechazilla-spacex-funciona-atrapo-cohete-starship-vuelo-4248804.jpg?tf=1200x' alt='El Mechazilla de SpaceX funciona: atrapó el propulsor del cohete Starship al vuelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ya-puedes-cambiar-direccion-correo-electronico-principal-cuenta-apple-gracias-ios-181-1411239'>Ya puedes cambiar la dirección de correo electrónico principal de tu cuenta de Apple gracias a iOS 18.1</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ya-puedes-cambiar-direccion-correo-electronico-principal-cuenta-apple-gracias-ios-181-1411239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-iphone-4248772.jpg?tf=1200x' alt='Ya puedes cambiar la dirección de correo electrónico principal de tu cuenta de Apple gracias a iOS 18.1' />
     </a>
 </div>
 
