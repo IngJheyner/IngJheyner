@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-series-coreanas-netflix-1410692'>Las mejores series coreanas de Netflix (que no son las que todo el mundo ha visto)</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-series-coreanas-netflix-1410692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/series-coreanas-4247850.jpg?tf=1200x' alt='Las mejores series coreanas de Netflix (que no son las que todo el mundo ha visto)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-solucionar-error-ssd-no-reconocido-windows-1410116'>Cómo solucionar el error SSD no reconocido en Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-solucionar-error-ssd-no-reconocido-windows-1410116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/error-no-reconoce-ssd-windows-4246824.jpg?tf=1200x' alt='Cómo solucionar el error SSD no reconocido en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-adaptar-portatil-windows-personas-mayores-1409488'>Cómo adaptar un portátil con Windows al uso para personas mayores</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-adaptar-portatil-windows-personas-mayores-1409488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/portatil-ancianos-4245844.jpg?tf=1200x' alt='Cómo adaptar un portátil con Windows al uso para personas mayores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/polemica-nueva-vista-rapida-ofrecera-buscador-google-cuando-busques-informacion-1411202'>La polémica nueva vista rápida que ofrecerá el buscador de Google cuando busques esta información</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/polemica-nueva-vista-rapida-ofrecera-buscador-google-cuando-busques-informacion-1411202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/recetas-comida-buscador-google-4248684.jpg?tf=1200x' alt='La polémica nueva vista rápida que ofrecerá el buscador de Google cuando busques esta información' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/empleado-museo-tira-latas-aplastadas-cerveza-basura-eran-obra-arte-1411207'>Un empleado de un museo tira dos latas aplastadas a la basura: eran una obra de arte</a></h4>
     <a href='https://computerhoy.20minutos.es/life/empleado-museo-tira-latas-aplastadas-cerveza-basura-eran-obra-arte-1411207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/empleado-museo-tira-dos-latas-aplastadas-cerveza-basura-eran-obra-arte-4248708.jpg?tf=1200x' alt='Un empleado de un museo tira dos latas aplastadas a la basura: eran una obra de arte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudiantes-disenan-solucion-innovadora-atropello-fauna-salvaje-1411197'>Estudiantes diseñan una solución innovadora contra el atropello de fauna salvaje</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estudiantes-disenan-solucion-innovadora-atropello-fauna-salvaje-1411197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ciervos-carretera-4248680.jpg?tf=1200x' alt='Estudiantes diseñan una solución innovadora contra el atropello de fauna salvaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/criptografia-post-cuantica-promete-ser-solucion-no-caiga-ciberseguridad-mundial-1405109'>¿Qué es criptografía post-cuántica y por qué promete ser la solución para que no caiga la ciberseguridad mundial? </a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/criptografia-post-cuantica-promete-ser-solucion-no-caiga-ciberseguridad-mundial-1405109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1728639355898-4248205.jpg?tf=1200x' alt='¿Qué es criptografía post-cuántica y por qué promete ser la solución para que no caiga la ciberseguridad mundial? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/dreame-z30-analisis-opiniones-1410867'>He probado el Dreame Z30 y, si eres un maniático de la limpieza, este aspirador sin cables es para ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/dreame-z30-analisis-opiniones-1410867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dreame-z30-analisis-opiniones-4248360.jpg?tf=1200x' alt='He probado el Dreame Z30 y, si eres un maniático de la limpieza, este aspirador sin cables es para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/puedes-curar-rapido-resfriado-comun-ciencia-1411199'>Así puedes curar rápido el resfriado común, según la ciencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/puedes-curar-rapido-resfriado-comun-ciencia-1411199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/resfriado-comun-4248682.jpg?tf=1200x' alt='Así puedes curar rápido el resfriado común, según la ciencia' />
     </a>
 </div>
 
