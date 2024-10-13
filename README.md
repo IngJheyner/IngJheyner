@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ya-puedes-cambiar-direccion-correo-electronico-principal-cuenta-apple-gracias-ios-181-1411239'>Ya puedes cambiar la dirección de correo electrónico principal de tu cuenta de Apple gracias a iOS 18.1</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ya-puedes-cambiar-direccion-correo-electronico-principal-cuenta-apple-gracias-ios-181-1411239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-iphone-4248772.jpg?tf=1200x' alt='Ya puedes cambiar la dirección de correo electrónico principal de tu cuenta de Apple gracias a iOS 18.1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/esperada-gran-actualizacion-windows-11-no-parece-llevarse-nada-bien-conexion-internet-1411237'>La esperada gran actualización para Windows 11 no parece llevarse nada bien con la conexión a Internet</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/esperada-gran-actualizacion-windows-11-no-parece-llevarse-nada-bien-conexion-internet-1411237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-wifi-4248769.jpg?tf=1200x' alt='La esperada gran actualización para Windows 11 no parece llevarse nada bien con la conexión a Internet' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-no-abandona-batalla-moviles-plegables-suenan-dispositivo-capaz-girar-360-grados-1411227'>Microsoft no abandona la batalla de los móviles plegables: sueñan con un dispositivo capaz de girar 360 grados</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-no-abandona-batalla-moviles-plegables-suenan-dispositivo-capaz-girar-360-grados-1411227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/surface-duo-2-4248760.jpg?tf=1200x' alt='Microsoft no abandona la batalla de los móviles plegables: sueñan con un dispositivo capaz de girar 360 grados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-cuenta-cualquier-pagina-red-social-vinculada-gmail-1410706'>Cómo eliminar una cuenta de cualquier página o red social vinculada a tu Gmail</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-cuenta-cualquier-pagina-red-social-vinculada-gmail-1410706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cuentas-google-4247896.jpg?tf=1200x' alt='Cómo eliminar una cuenta de cualquier página o red social vinculada a tu Gmail' />
     </a>
 </div>
 
