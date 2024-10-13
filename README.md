@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/carpeta-maldita-windows-11-borrala-mejoraras-velocidad-pc-instante-1387348'>La carpeta maldita de Windows 11: bórrala y mejorarás la velocidad de tu PC al instante</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/carpeta-maldita-windows-11-borrala-mejoraras-velocidad-pc-instante-1387348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carpeta-maldita-windows-11-borrarla-mejora-velocidad-pc-instante-3344579.jpg?tf=1200x' alt='La carpeta maldita de Windows 11: bórrala y mejorarás la velocidad de tu PC al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-rebaja-galaxy-watch7-modelo-lte-1407342'>Samsung pisa fuerte con su nuevo smartwatch: rebaja el modelo LTE y se sitúa como una opción muy asequible</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-rebaja-galaxy-watch7-modelo-lte-1407342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/samsung-galaxy-watch7-4g-lte-4242266.jpg?tf=1200x' alt='Samsung pisa fuerte con su nuevo smartwatch: rebaja el modelo LTE y se sitúa como una opción muy asequible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/air-fryer-te-queda-pequena-9-litros-capacidad-rebajada-100-euros-1410880'>Si tu air fryer se te queda pequeña, esta de 9 litros de capacidad está rebajada a 100 euros </a></h4>
     <a href='https://computerhoy.20minutos.es/life/air-fryer-te-queda-pequena-9-litros-capacidad-rebajada-100-euros-1410880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cecofry-dual-900-4248125.jpg?tf=1200x' alt='Si tu air fryer se te queda pequeña, esta de 9 litros de capacidad está rebajada a 100 euros ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/muy-pronto-nuevo-outlook-windows-11-funcionara-internet-1411198'>Muy pronto el nuevo Outlook para Windows 11 funcionará sin internet</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/muy-pronto-nuevo-outlook-windows-11-funcionara-internet-1411198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/outlook-conexion-internet-4248681.jpg?tf=1200x' alt='Muy pronto el nuevo Outlook para Windows 11 funcionará sin internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-no-habra-formulario-resista-google-chrome-internet-1411182'>Ya no habrá formulario que se le resista a Google Chrome en Internet</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-no-habra-formulario-resista-google-chrome-internet-1411182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chrome-basado-ia-4248619.jpg?tf=1200x' alt='Ya no habrá formulario que se le resista a Google Chrome en Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/tener-casio-te-puede-salir-muy-caro-confirman-datos-clientes-fueron-robados-ataque-ransomware-1411180'>Tener un Casio te puede salir muy caro: confirman que datos de sus clientes fueron robados en un ataque de ransomware</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/tener-casio-te-puede-salir-muy-caro-confirman-datos-clientes-fueron-robados-ataque-ransomware-1411180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ataque-ransomware-casio-4248617.jpg?tf=1200x' alt='Tener un Casio te puede salir muy caro: confirman que datos de sus clientes fueron robados en un ataque de ransomware' />
     </a>
 </div>
 
