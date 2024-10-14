@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-joker-2-grandes-peliculas-superheroes-villanos-famosos-estrellaron-taquilla-1411299'>No solo Joker 2: grandes películas de superhéroes (y villanos) famosos que se estrellaron en taquilla</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-joker-2-grandes-peliculas-superheroes-villanos-famosos-estrellaron-taquilla-1411299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/joker-2-3294910.jpg?tf=1200x' alt='No solo Joker 2: grandes películas de superhéroes (y villanos) famosos que se estrellaron en taquilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/era-secuelas-esperada-netflix-pero-no-convenciendo-nadie-razon-1409650'>Era una de las secuelas más esperada de Netflix, pero no está convenciendo a nadie, y esta es la razón</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/era-secuelas-esperada-netflix-pero-no-convenciendo-nadie-razon-1409650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/era-secuelas-esperada-netflix-pero-no-convenciendo-nadie-razon-4246051.jpg?tf=1200x' alt='Era una de las secuelas más esperada de Netflix, pero no está convenciendo a nadie, y esta es la razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/industria/cuidado-llevar-linea-estos-operadores-ultra-low-cost-podrias-perder-titularidad-numero-telefono-1411450'>Cuidado con llevar tu línea a estos operadores ultra low cost: podrías perder la titularidad de tu número de teléfono</a></h4>
+    <a href='https://computerhoy.20minutos.es/industria/cuidado-llevar-linea-estos-operadores-ultra-low-cost-podrias-perder-titularidad-numero-telefono-1411450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cuidado-llevar-linea-estos-operadores-ultra-low-cost-podrias-perder-titularidad-numero-telefono-4249055.jpg?tf=1200x' alt='Cuidado con llevar tu línea a estos operadores ultra low cost: podrías perder la titularidad de tu número de teléfono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/son-samsung-labs-sirven-como-activar-funciones-experimentales-movil-1411040'>Qué son las Samsung Labs, para qué sirven y cómo activar las funciones experimentales de tu móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/son-samsung-labs-sirven-como-activar-funciones-experimentales-movil-1411040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/son-samsung-labs-sirven-como-activar-funciones-experimentales-movil-4248446.jpg?tf=1200x' alt='Qué son las Samsung Labs, para qué sirven y cómo activar las funciones experimentales de tu móvil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-predice-sustituto-smartphones-2030-1410993'>Zuckerberg predice el fin de los smartphones, que serán reemplazados por este nuevo dispositivo para 2030</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-predice-sustituto-smartphones-2030-1410993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mark-zuckerberg-4248295.jpg?tf=1200x' alt='Zuckerberg predice el fin de los smartphones, que serán reemplazados por este nuevo dispositivo para 2030' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/puntos-notificacion-iconos-aplicaciones-son-rojos-1409869'>¿Por qué los puntos de notificación en los iconos de las aplicaciones son rojos?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/puntos-notificacion-iconos-aplicaciones-son-rojos-1409869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/puntos-notificacion-iconos-aplicaciones-son-rojos-4246482.jpg?tf=1200x' alt='¿Por qué los puntos de notificación en los iconos de las aplicaciones son rojos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-encontrar-email-antiguo-gmail-ya-dabas-perdido-1409281'>Cómo encontrar un email antiguo de Gmail que ya dabas por perdido</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-encontrar-email-antiguo-gmail-ya-dabas-perdido-1409281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gmail-4245635.jpg?tf=1200x' alt='Cómo encontrar un email antiguo de Gmail que ya dabas por perdido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/mide-velocidad-internet-pocos-segundos-sencillo-comando-cmd-windows-1406614'>Mide tu velocidad de Internet en pocos segundos con este sencillo comando CMD en Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/mide-velocidad-internet-pocos-segundos-sencillo-comando-cmd-windows-1406614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ordenadores-4241029.jpg?tf=1200x' alt='Mide tu velocidad de Internet en pocos segundos con este sencillo comando CMD en Windows' />
     </a>
 </div>
 
