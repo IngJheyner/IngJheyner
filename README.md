@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/clonen-voz-puede-sonar-ciencia-ficcion-pero-ya-amenaza-real-1411353'>Que clonen tu voz puede sonar a ciencia ficción, pero ya es una amenaza real </a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/clonen-voz-puede-sonar-ciencia-ficcion-pero-ya-amenaza-real-1411353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/clonar-voces-ia-4248888.jpg?tf=1200x' alt='Que clonen tu voz puede sonar a ciencia ficción, pero ya es una amenaza real ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/caracteristica-gemini-me-encantaria-ver-chrome-1411322'>Esta es la característica de Gemini que me encantaría ver en Chrome</a></h4>
     <a href='https://computerhoy.20minutos.es/google/caracteristica-gemini-me-encantaria-ver-chrome-1411322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-chrome-gemini-3300536.jpg?tf=1200x' alt='Esta es la característica de Gemini que me encantaría ver en Chrome' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-xiaomi-buds-5-calidad-sonido-aunque-matices-1408000'>Lo que más me ha gustado de los Xiaomi Buds 5 es su calidad de sonido aunque con matices</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-xiaomi-buds-5-calidad-sonido-aunque-matices-1408000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-buds-5-4242650.jpg?tf=1200x' alt='Lo que más me ha gustado de los Xiaomi Buds 5 es su calidad de sonido aunque con matices' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-galaxy-ring-primer-intento-samsung-ha-logrado-tener-mejor-anillo-puedes-comprar-1410323'>He probado el Galaxy Ring y en su primer intento Samsung ha logrado tener el mejor anillo que puedes comprar</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-galaxy-ring-primer-intento-samsung-ha-logrado-tener-mejor-anillo-puedes-comprar-1410323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-ring-4247238.jpg?tf=1200x' alt='He probado el Galaxy Ring y en su primer intento Samsung ha logrado tener el mejor anillo que puedes comprar' />
     </a>
 </div>
 
