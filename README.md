@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-xiaomi-buds-5-calidad-sonido-aunque-matices-1408000'>Lo que más me ha gustado de los Xiaomi Buds 5 es su calidad de sonido aunque con matices</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-xiaomi-buds-5-calidad-sonido-aunque-matices-1408000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-buds-5-4242650.jpg?tf=1200x' alt='Lo que más me ha gustado de los Xiaomi Buds 5 es su calidad de sonido aunque con matices' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-galaxy-ring-primer-intento-samsung-ha-logrado-tener-mejor-anillo-puedes-comprar-1410323'>He probado el Galaxy Ring y en su primer intento Samsung ha logrado tener el mejor anillo que puedes comprar</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-galaxy-ring-primer-intento-samsung-ha-logrado-tener-mejor-anillo-puedes-comprar-1410323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-ring-4247238.jpg?tf=1200x' alt='He probado el Galaxy Ring y en su primer intento Samsung ha logrado tener el mejor anillo que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/estos-son-addons-kodi-esenciales-no-podria-vivir-1410802'>Estos son los addons de Kodi esenciales sin los que no podría vivir</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/estos-son-addons-kodi-esenciales-no-podria-vivir-1410802' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estos-son-addons-kodi-esenciales-no-podria-vivir-4248076.jpg?tf=1200x' alt='Estos son los addons de Kodi esenciales sin los que no podría vivir' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/ni-60-ni-90-grados-temperatura-optima-lavadora-eliminar-acaros-bacterias-expertos-1410530'>Ni 60 ni 90 grados, esta es la temperatura óptima de la lavadora para eliminar ácaros y bacterias, según los expertos</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/ni-60-ni-90-grados-temperatura-optima-lavadora-eliminar-acaros-bacterias-expertos-1410530' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-60-ni-90-grados-temperatura-optima-lavadora-eliminar-acaros-bacterias-expertos-4247532.jpg?tf=1200x' alt='Ni 60 ni 90 grados, esta es la temperatura óptima de la lavadora para eliminar ácaros y bacterias, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/como-ver-cientos-canales-tv-gratis-tienes-smart-tv-samsung-lg-1410455'>Cómo ver cientos de canales de TV gratis si tienes un Smart TV Samsung o LG</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/como-ver-cientos-canales-tv-gratis-tienes-smart-tv-samsung-lg-1410455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-ver-cientos-canales-tv-gratis-tienes-smart-tv-samsung-lg-4247452.jpg?tf=1200x' alt='Cómo ver cientos de canales de TV gratis si tienes un Smart TV Samsung o LG' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-viejo-movil-android-chromecast-1410212'>Cómo convertir un viejo móvil Android en un Chromecast</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-viejo-movil-android-chromecast-1410212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/convertir-movil-chromecast-4246972.jpg?tf=1200x' alt='Cómo convertir un viejo móvil Android en un Chromecast' />
     </a>
 </div>
 
