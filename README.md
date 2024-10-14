@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/mide-velocidad-internet-pocos-segundos-sencillo-comando-cmd-windows-1406614'>Mide tu velocidad de Internet en pocos segundos con este sencillo comando CMD en Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/mide-velocidad-internet-pocos-segundos-sencillo-comando-cmd-windows-1406614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ordenadores-4241029.jpg?tf=1200x' alt='Mide tu velocidad de Internet en pocos segundos con este sencillo comando CMD en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-quiere-movil-android-pueda-ejecutar-linux-ni-te-imaginas-significa-1411428'>Google quiere que tu móvil Android pueda ejecutar Linux: ni te imaginas lo que esto significa</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-quiere-movil-android-pueda-ejecutar-linux-ni-te-imaginas-significa-1411428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-quiere-movil-android-pueda-ejecutar-linux-ni-te-imaginas-significa-4249028.jpg?tf=1200x' alt='Google quiere que tu móvil Android pueda ejecutar Linux: ni te imaginas lo que esto significa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-intenta-aprovecharse-estudiantes-universitarios-te-llega-mensaje-borralo-1411255'>La estafa que intenta aprovecharse de los estudiantes universitarios: si te llega este mensaje, bórralo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-intenta-aprovecharse-estudiantes-universitarios-te-llega-mensaje-borralo-1411255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-intenta-aprovecharse-estudiantes-universitarios-te-llega-mensaje-borralo-4248787.jpg?tf=1200x' alt='La estafa que intenta aprovecharse de los estudiantes universitarios: si te llega este mensaje, bórralo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/ni-digi-ni-movistar-ocu-mejor-operador-tener-movil-1411344'>Ni DIGI ni Movistar, según la OCU este es el mejor operador para tener en tu móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/ni-digi-ni-movistar-ocu-mejor-operador-tener-movil-1411344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enfado-movil-4249050.jpg?tf=1200x' alt='Ni DIGI ni Movistar, según la OCU este es el mejor operador para tener en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ios-181-ia-llega-iphone-novedades-fecha-lanzamiento-modelos-compatibles-1411418'>iOS 18.1, la IA llega a tu iPhone: novedades, fecha de lanzamiento y modelos compatibles</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ios-181-ia-llega-iphone-novedades-fecha-lanzamiento-modelos-compatibles-1411418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ios-181-apple-4248988.jpg?tf=1200x' alt='iOS 18.1, la IA llega a tu iPhone: novedades, fecha de lanzamiento y modelos compatibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/robots-optimus-presentacion-cybercab-elon-musk-eran-mucho-humanos-nos-hicieron-creer-1411324'>Los robots Optimus de la presentación del Cybercab de Elon Musk, eran mucho más humanos de lo que nos hicieron creer</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/robots-optimus-presentacion-cybercab-elon-musk-eran-mucho-humanos-nos-hicieron-creer-1411324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tesla-optimus-gen-2-3253569.jpg?tf=1200x' alt='Los robots Optimus de la presentación del Cybercab de Elon Musk, eran mucho más humanos de lo que nos hicieron creer' />
     </a>
 </div>
 
