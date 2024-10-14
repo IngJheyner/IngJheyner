@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desvela-prompt-chatgpt-emocionar-1411551'>Sam Altman desvela un prompt en ChatGPT que está haciendo llorar a la gente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desvela-prompt-chatgpt-emocionar-1411551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sam-altman-invita-usar-prompt-chatgpt-haciendo-llorar-emocionarse-gente-4249190.jpg?tf=1200x' alt='Sam Altman desvela un prompt en ChatGPT que está haciendo llorar a la gente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/superman-ha-salvado-mundo-muchas-veces-podra-salvar-tambien-nueva-pelicula-1411363'>Superman ha salvado al mundo muchas veces: ¿podrá salvar también su nueva película? </a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/superman-ha-salvado-mundo-muchas-veces-podra-salvar-tambien-nueva-pelicula-1411363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/zack-snyder-moja-opina-traje-nuevo-superman-david-corenswet-james-gunn-3867279.jpg?tf=1200x' alt='Superman ha salvado al mundo muchas veces: ¿podrá salvar también su nueva película? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-joker-2-grandes-peliculas-superheroes-villanos-famosos-estrellaron-taquilla-1411299'>No solo Joker 2: grandes películas de superhéroes (y villanos) famosos que se estrellaron en taquilla</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-joker-2-grandes-peliculas-superheroes-villanos-famosos-estrellaron-taquilla-1411299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/joker-2-3294910.jpg?tf=1200x' alt='No solo Joker 2: grandes películas de superhéroes (y villanos) famosos que se estrellaron en taquilla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/industria/cuidado-llevar-linea-estos-operadores-ultra-low-cost-podrias-perder-titularidad-numero-telefono-1411450'>Cuidado con llevar tu línea a estos operadores ultra low cost: podrías perder la titularidad de tu número de teléfono</a></h4>
     <a href='https://computerhoy.20minutos.es/industria/cuidado-llevar-linea-estos-operadores-ultra-low-cost-podrias-perder-titularidad-numero-telefono-1411450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cuidado-llevar-linea-estos-operadores-ultra-low-cost-podrias-perder-titularidad-numero-telefono-4249055.jpg?tf=1200x' alt='Cuidado con llevar tu línea a estos operadores ultra low cost: podrías perder la titularidad de tu número de teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/son-samsung-labs-sirven-como-activar-funciones-experimentales-movil-1411040'>Qué son las Samsung Labs, para qué sirven y cómo activar las funciones experimentales de tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/son-samsung-labs-sirven-como-activar-funciones-experimentales-movil-1411040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/son-samsung-labs-sirven-como-activar-funciones-experimentales-movil-4248446.jpg?tf=1200x' alt='Qué son las Samsung Labs, para qué sirven y cómo activar las funciones experimentales de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-predice-sustituto-smartphones-2030-1410993'>Zuckerberg predice el fin de los smartphones, que serán reemplazados por este nuevo dispositivo para 2030</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-predice-sustituto-smartphones-2030-1410993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mark-zuckerberg-4248295.jpg?tf=1200x' alt='Zuckerberg predice el fin de los smartphones, que serán reemplazados por este nuevo dispositivo para 2030' />
     </a>
 </div>
 
