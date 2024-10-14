@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/movil-oneplus-bateria-carga-rapida-1403157'>Este móvil no hay que cargarlo a diario: tiene 6.100 mAh de batería, rinde como un gama alta y carga a 100W</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/movil-oneplus-bateria-carga-rapida-1403157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-ace-3-pro-4048442.jpg?tf=1200x' alt='Este móvil no hay que cargarlo a diario: tiene 6.100 mAh de batería, rinde como un gama alta y carga a 100W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-deberias-tirar-discos-dvd-antiguos-1352265'>Sí, haces bien en no tirar tus CD ni DVD antiguos</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/no-deberias-tirar-discos-dvd-antiguos-1352265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/disco-dvd-3253512.jpg?tf=1200x' alt='Sí, haces bien en no tirar tus CD ni DVD antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/cumplen-25-anos-geforce-256-primera-tarjeta-grafica-nvidia-1411289'>Se cumplen 25 años de GeForce 256, la primera tarjeta gráfica de Nvidia que lo cambió todo</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/cumplen-25-anos-geforce-256-primera-tarjeta-grafica-nvidia-1411289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cumplen-25-anos-geforce-256-primera-tarjeta-grafica-cambio-todo-4248841.jpg?tf=1200x' alt='Se cumplen 25 años de GeForce 256, la primera tarjeta gráfica de Nvidia que lo cambió todo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/gog-unica-tienda-juegos-digitales-son-tuyos-1411279'>Esta es la única tienda de juegos digitales en donde los juegos que compras son tuyos</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/gog-unica-tienda-juegos-digitales-son-tuyos-1411279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/unica-tienda-juegos-digitales-donde-juegos-compras-son-4248835.jpg?tf=1200x' alt='Esta es la única tienda de juegos digitales en donde los juegos que compras son tuyos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/moflin-casio-adorable-mascota-robot-reducir-estres-1411276'>Lo nuevo de Casio no es un reloj, es una adorable mascota robot para reducir el estrés</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/moflin-casio-adorable-mascota-robot-reducir-estres-1411276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1728839238947-4248811.jpg?tf=1200x' alt='Lo nuevo de Casio no es un reloj, es una adorable mascota robot para reducir el estrés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/mechazilla-spacex-atrapa-cohete-starship-vuelo-1411270'>El Mechazilla de SpaceX funciona: atrapó el propulsor del cohete Starship al vuelo</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/mechazilla-spacex-atrapa-cohete-starship-vuelo-1411270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mechazilla-spacex-funciona-atrapo-cohete-starship-vuelo-4248804.jpg?tf=1200x' alt='El Mechazilla de SpaceX funciona: atrapó el propulsor del cohete Starship al vuelo' />
     </a>
 </div>
 
