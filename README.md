@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fujifilm-x-m5-camara-mirrorless-ligera-principiantes-1411574'>Fujifilm X-M5, la nueva cámara sin espejo ligera y retro, ideal para principiantes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/fujifilm-x-m5-camara-mirrorless-ligera-principiantes-1411574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fujifilm-x-m5-nueva-camara-espejo-ligera-retro-ideal-principiantes-4249268.jpg?tf=1200x' alt='Fujifilm X-M5, la nueva cámara sin espejo ligera y retro, ideal para principiantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-google-maps-ni-waze-estas-son-apps-navegacion-android-auto-menos-bateria-consumen-1411563'>Ni Google Maps ni Waze, estas son las apps de navegación para Android Auto que menos batería consumen</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-google-maps-ni-waze-estas-son-apps-navegacion-android-auto-menos-bateria-consumen-1411563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/aplicacion-navegacion-4249272.jpg?tf=1200x' alt='Ni Google Maps ni Waze, estas son las apps de navegación para Android Auto que menos batería consumen' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desvela-prompt-chatgpt-emocionar-1411551'>Sam Altman desvela un prompt en ChatGPT que está haciendo llorar a la gente</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desvela-prompt-chatgpt-emocionar-1411551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sam-altman-invita-usar-prompt-chatgpt-haciendo-llorar-emocionarse-gente-4249190.jpg?tf=1200x' alt='Sam Altman desvela un prompt en ChatGPT que está haciendo llorar a la gente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/superman-ha-salvado-mundo-muchas-veces-podra-salvar-tambien-nueva-pelicula-1411363'>Superman ha salvado al mundo muchas veces: ¿podrá salvar también su nueva película? </a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/superman-ha-salvado-mundo-muchas-veces-podra-salvar-tambien-nueva-pelicula-1411363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/zack-snyder-moja-opina-traje-nuevo-superman-david-corenswet-james-gunn-3867279.jpg?tf=1200x' alt='Superman ha salvado al mundo muchas veces: ¿podrá salvar también su nueva película? ' />
     </a>
 </div>
 
