@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/movil-oneplus-bateria-carga-rapida-1403157'>Este móvil no hay que cargarlo a diario: tiene 6.100 mAh de batería, rinde como un gama alta y carga a 100W</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/movil-oneplus-bateria-carga-rapida-1403157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/oneplus-ace-3-pro-4048442.jpg?tf=1200x' alt='Este móvil no hay que cargarlo a diario: tiene 6.100 mAh de batería, rinde como un gama alta y carga a 100W' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/estos-son-addons-kodi-esenciales-no-podria-vivir-1410802'>Estos son los addons de Kodi esenciales sin los que no podría vivir</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/estos-son-addons-kodi-esenciales-no-podria-vivir-1410802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estos-son-addons-kodi-esenciales-no-podria-vivir-4248076.jpg?tf=1200x' alt='Estos son los addons de Kodi esenciales sin los que no podría vivir' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-deberias-tirar-discos-dvd-antiguos-1352265'>Sí, haces bien en no tirar tus CD ni DVD antiguos</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/no-deberias-tirar-discos-dvd-antiguos-1352265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/disco-dvd-3253512.jpg?tf=1200x' alt='Sí, haces bien en no tirar tus CD ni DVD antiguos' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-12-grandes-novedades-hacer-olvidar-windows-10-1410772'>Windows 12: tres grandes novedades para hacer olvidar a Windows 10</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-12-grandes-novedades-hacer-olvidar-windows-10-1410772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-12-tres-grandes-novedades-hacer-olvidar-windows-10-4248004.jpg?tf=1200x' alt='Windows 12: tres grandes novedades para hacer olvidar a Windows 10' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/cumplen-25-anos-geforce-256-primera-tarjeta-grafica-nvidia-1411289'>Se cumplen 25 años de GeForce 256, la primera tarjeta gráfica de Nvidia que lo cambió todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/cumplen-25-anos-geforce-256-primera-tarjeta-grafica-nvidia-1411289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cumplen-25-anos-geforce-256-primera-tarjeta-grafica-cambio-todo-4248841.jpg?tf=1200x' alt='Se cumplen 25 años de GeForce 256, la primera tarjeta gráfica de Nvidia que lo cambió todo' />
+    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-60-ni-90-grados-temperatura-optima-lavadora-eliminar-acaros-bacterias-expertos-1410530'>Ni 60 ni 90 grados, esta es la temperatura óptima de la lavadora para eliminar ácaros y bacterias, según los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/ni-60-ni-90-grados-temperatura-optima-lavadora-eliminar-acaros-bacterias-expertos-1410530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-60-ni-90-grados-temperatura-optima-lavadora-eliminar-acaros-bacterias-expertos-4247532.jpg?tf=1200x' alt='Ni 60 ni 90 grados, esta es la temperatura óptima de la lavadora para eliminar ácaros y bacterias, según los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/estados-unidos-obligar-coches-llevar-radio-am-1411286'>En Estados Unidos van a obligar a todos los coches a llevar radio AM, algunas marcas se rebelan</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/estados-unidos-obligar-coches-llevar-radio-am-1411286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estados-unidos-van-obligar-todos-coches-llegar-radio-am-algunas-marcas-rebelan-4248837.jpg?tf=1200x' alt='En Estados Unidos van a obligar a todos los coches a llevar radio AM, algunas marcas se rebelan' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/como-ver-cientos-canales-tv-gratis-tienes-smart-tv-samsung-lg-1410455'>Cómo ver cientos de canales de TV gratis si tienes un Smart TV Samsung o LG</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/como-ver-cientos-canales-tv-gratis-tienes-smart-tv-samsung-lg-1410455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-ver-cientos-canales-tv-gratis-tienes-smart-tv-samsung-lg-4247452.jpg?tf=1200x' alt='Cómo ver cientos de canales de TV gratis si tienes un Smart TV Samsung o LG' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/gog-unica-tienda-juegos-digitales-son-tuyos-1411279'>Esta es la única tienda de juegos digitales en donde los juegos que compras son tuyos</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/gog-unica-tienda-juegos-digitales-son-tuyos-1411279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/unica-tienda-juegos-digitales-donde-juegos-compras-son-4248835.jpg?tf=1200x' alt='Esta es la única tienda de juegos digitales en donde los juegos que compras son tuyos' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-viejo-movil-android-chromecast-1410212'>Cómo convertir un viejo móvil Android en un Chromecast</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-viejo-movil-android-chromecast-1410212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/convertir-movil-chromecast-4246972.jpg?tf=1200x' alt='Cómo convertir un viejo móvil Android en un Chromecast' />
     </a>
 </div>
 
