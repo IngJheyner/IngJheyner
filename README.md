@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hackeo-game-freak-filtra-nueva-informacion-nintendo-switch-2-primeros-juegos-1411402'>El hackeo a Game Freak filtra nueva información sobre Nintendo Switch 2 y sus primeros juegos</a></h4>
+    <a href='https://computerhoy.20minutos.es/hackeo-game-freak-filtra-nueva-informacion-nintendo-switch-2-primeros-juegos-1411402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resuelve-misterios-detective-pikachu-688416.jpg?tf=1200x' alt='El hackeo a Game Freak filtra nueva información sobre Nintendo Switch 2 y sus primeros juegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-alternativa-airtag-eres-android-samsung-cuesta-solo-25-euros-1409557'>Es la mejor alternativa al AirTag si eres de Android, y es de Samsung: cuesta solo 25 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mejor-alternativa-airtag-eres-android-samsung-cuesta-solo-25-euros-1409557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-smarttag2-4245921.jpg?tf=1200x' alt='Es la mejor alternativa al AirTag si eres de Android, y es de Samsung: cuesta solo 25 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/caracteristica-gemini-me-encantaria-ver-chrome-1411322'>Esta es la característica de Gemini que me encantaría ver en Chrome</a></h4>
     <a href='https://computerhoy.20minutos.es/google/caracteristica-gemini-me-encantaria-ver-chrome-1411322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-chrome-gemini-3300536.jpg?tf=1200x' alt='Esta es la característica de Gemini que me encantaría ver en Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-lanzaria-version-barata-vision-pro-2025-costarian-2000-dolares-1411320'>Apple lanzaría la versión "barata" de las Vision Pro en 2025: costarían 2.000 dólares</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-lanzaria-version-barata-vision-pro-2025-costarian-2000-dolares-1411320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3276015.jpg?tf=1200x' alt='Apple lanzaría la versión "barata" de las Vision Pro en 2025: costarían 2.000 dólares' />
     </a>
 </div>
 
