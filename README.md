@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-alternativa-airtag-eres-android-samsung-cuesta-solo-25-euros-1409557'>Es la mejor alternativa al AirTag si eres de Android, y es de Samsung: cuesta solo 25 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mejor-alternativa-airtag-eres-android-samsung-cuesta-solo-25-euros-1409557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-smarttag2-4245921.jpg?tf=1200x' alt='Es la mejor alternativa al AirTag si eres de Android, y es de Samsung: cuesta solo 25 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-gemini-usan-datos-entrenar-ia-como-hacer-dejen-hacerlo-paso-paso-1411354'>ChatGPT, Gemini y más usan tus datos para entrenar su IA: cómo hacer que dejen de hacerlo paso a paso</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-gemini-usan-datos-entrenar-ia-como-hacer-dejen-hacerlo-paso-paso-1411354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/impacto-ia-empieza-notarse-estos-son-profesionales-aceptarian-bajarse-sueldo-usan-chatgpt-3485970.jpg?tf=1200x' alt='ChatGPT, Gemini y más usan tus datos para entrenar su IA: cómo hacer que dejen de hacerlo paso a paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/clonen-voz-puede-sonar-ciencia-ficcion-pero-ya-amenaza-real-1411353'>Que clonen tu voz puede sonar a ciencia ficción, pero ya es una amenaza real </a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/clonen-voz-puede-sonar-ciencia-ficcion-pero-ya-amenaza-real-1411353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/clonar-voces-ia-4248888.jpg?tf=1200x' alt='Que clonen tu voz puede sonar a ciencia ficción, pero ya es una amenaza real ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-lanzaria-version-barata-vision-pro-2025-costarian-2000-dolares-1411320'>Apple lanzaría la versión "barata" de las Vision Pro en 2025: costarían 2.000 dólares</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-lanzaria-version-barata-vision-pro-2025-costarian-2000-dolares-1411320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3276015.jpg?tf=1200x' alt='Apple lanzaría la versión "barata" de las Vision Pro en 2025: costarían 2.000 dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/incluso-cuando-apagado-electrodomestico-vampiro-energia-consume-1411020'>Incluso cuando está apagado: este es el electrodoméstico vampiro que más energía consume</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/incluso-cuando-apagado-electrodomestico-vampiro-energia-consume-1411020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/incluso-cuando-apagado-electrodomestico-vampiro-energia-consume-4248369.jpg?tf=1200x' alt='Incluso cuando está apagado: este es el electrodoméstico vampiro que más energía consume' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-xiaomi-buds-5-calidad-sonido-aunque-matices-1408000'>Lo que más me ha gustado de los Xiaomi Buds 5 es su calidad de sonido aunque con matices</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-xiaomi-buds-5-calidad-sonido-aunque-matices-1408000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-buds-5-4242650.jpg?tf=1200x' alt='Lo que más me ha gustado de los Xiaomi Buds 5 es su calidad de sonido aunque con matices' />
     </a>
 </div>
 
