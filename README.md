@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/eres-tienes-cientos-pestanas-abiertas-navegador-chrome-llega-rescate-1411388'>¿Eres de los que tienes cientos de pestañas abiertas en el navegador? Chrome llega en tu rescate</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/eres-tienes-cientos-pestanas-abiertas-navegador-chrome-llega-rescate-1411388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/eres-tienes-cientos-pestanas-abiertas-navegador-chrome-llega-rescate-4248999.jpg?tf=1200x' alt='¿Eres de los que tienes cientos de pestañas abiertas en el navegador? Chrome llega en tu rescate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-tiene-ambicioso-plan-hacer-casa-vuelva-inteligente-1411380'>Apple tiene un ambicioso plan para hacer que tu casa se vuelva inteligente</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-tiene-ambicioso-plan-hacer-casa-vuelva-inteligente-1411380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-casa-inteligente-4248939.jpg?tf=1200x' alt='Apple tiene un ambicioso plan para hacer que tu casa se vuelva inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-grabar-llamada-android-sin-aplicaciones-1384593'>Cómo grabar una llamada en Android sin aplicaciones ni instalar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-grabar-llamada-android-sin-aplicaciones-1384593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-grabar-llamada-android-aplicaciones-ni-instalar-nada-3309750.jpg?tf=1200x' alt='Cómo grabar una llamada en Android sin aplicaciones ni instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hackeo-game-freak-filtra-nueva-informacion-nintendo-switch-2-primeros-juegos-1411402'>El hackeo a Game Freak filtra nueva información sobre Nintendo Switch 2 y sus primeros juegos</a></h4>
     <a href='https://computerhoy.20minutos.es/hackeo-game-freak-filtra-nueva-informacion-nintendo-switch-2-primeros-juegos-1411402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resuelve-misterios-detective-pikachu-688416.jpg?tf=1200x' alt='El hackeo a Game Freak filtra nueva información sobre Nintendo Switch 2 y sus primeros juegos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-alternativa-airtag-eres-android-samsung-cuesta-solo-25-euros-1409557'>Es la mejor alternativa al AirTag si eres de Android, y es de Samsung: cuesta solo 25 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mejor-alternativa-airtag-eres-android-samsung-cuesta-solo-25-euros-1409557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-smarttag2-4245921.jpg?tf=1200x' alt='Es la mejor alternativa al AirTag si eres de Android, y es de Samsung: cuesta solo 25 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-gemini-usan-datos-entrenar-ia-como-hacer-dejen-hacerlo-paso-paso-1411354'>ChatGPT, Gemini y más usan tus datos para entrenar su IA: cómo hacer que dejen de hacerlo paso a paso</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-gemini-usan-datos-entrenar-ia-como-hacer-dejen-hacerlo-paso-paso-1411354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/impacto-ia-empieza-notarse-estos-son-profesionales-aceptarian-bajarse-sueldo-usan-chatgpt-3485970.jpg?tf=1200x' alt='ChatGPT, Gemini y más usan tus datos para entrenar su IA: cómo hacer que dejen de hacerlo paso a paso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/clonen-voz-puede-sonar-ciencia-ficcion-pero-ya-amenaza-real-1411353'>Que clonen tu voz puede sonar a ciencia ficción, pero ya es una amenaza real </a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/clonen-voz-puede-sonar-ciencia-ficcion-pero-ya-amenaza-real-1411353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/clonar-voces-ia-4248888.jpg?tf=1200x' alt='Que clonen tu voz puede sonar a ciencia ficción, pero ya es una amenaza real ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/caracteristica-gemini-me-encantaria-ver-chrome-1411322'>Esta es la característica de Gemini que me encantaría ver en Chrome</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/caracteristica-gemini-me-encantaria-ver-chrome-1411322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-chrome-gemini-3300536.jpg?tf=1200x' alt='Esta es la característica de Gemini que me encantaría ver en Chrome' />
     </a>
 </div>
 
