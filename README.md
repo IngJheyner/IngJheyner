@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/son-samsung-labs-sirven-como-activar-funciones-experimentales-movil-1411040'>Qué son las Samsung Labs, para qué sirven y cómo activar las funciones experimentales de tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/son-samsung-labs-sirven-como-activar-funciones-experimentales-movil-1411040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/son-samsung-labs-sirven-como-activar-funciones-experimentales-movil-4248446.jpg?tf=1200x' alt='Qué son las Samsung Labs, para qué sirven y cómo activar las funciones experimentales de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-predice-sustituto-smartphones-2030-1410993'>Zuckerberg predice el fin de los smartphones, que serán reemplazados por este nuevo dispositivo para 2030</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-predice-sustituto-smartphones-2030-1410993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mark-zuckerberg-4248295.jpg?tf=1200x' alt='Zuckerberg predice el fin de los smartphones, que serán reemplazados por este nuevo dispositivo para 2030' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/puntos-notificacion-iconos-aplicaciones-son-rojos-1409869'>¿Por qué los puntos de notificación en los iconos de las aplicaciones son rojos?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/puntos-notificacion-iconos-aplicaciones-son-rojos-1409869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/puntos-notificacion-iconos-aplicaciones-son-rojos-4246482.jpg?tf=1200x' alt='¿Por qué los puntos de notificación en los iconos de las aplicaciones son rojos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-encontrar-email-antiguo-gmail-ya-dabas-perdido-1409281'>Cómo encontrar un email antiguo de Gmail que ya dabas por perdido</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-encontrar-email-antiguo-gmail-ya-dabas-perdido-1409281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gmail-4245635.jpg?tf=1200x' alt='Cómo encontrar un email antiguo de Gmail que ya dabas por perdido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/mide-velocidad-internet-pocos-segundos-sencillo-comando-cmd-windows-1406614'>Mide tu velocidad de Internet en pocos segundos con este sencillo comando CMD en Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/mide-velocidad-internet-pocos-segundos-sencillo-comando-cmd-windows-1406614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ordenadores-4241029.jpg?tf=1200x' alt='Mide tu velocidad de Internet en pocos segundos con este sencillo comando CMD en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-quiere-movil-android-pueda-ejecutar-linux-ni-te-imaginas-significa-1411428'>Google quiere que tu móvil Android pueda ejecutar Linux: ni te imaginas lo que esto significa</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-quiere-movil-android-pueda-ejecutar-linux-ni-te-imaginas-significa-1411428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-quiere-movil-android-pueda-ejecutar-linux-ni-te-imaginas-significa-4249028.jpg?tf=1200x' alt='Google quiere que tu móvil Android pueda ejecutar Linux: ni te imaginas lo que esto significa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-intenta-aprovecharse-estudiantes-universitarios-te-llega-mensaje-borralo-1411255'>La estafa que intenta aprovecharse de los estudiantes universitarios: si te llega este mensaje, bórralo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-intenta-aprovecharse-estudiantes-universitarios-te-llega-mensaje-borralo-1411255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-intenta-aprovecharse-estudiantes-universitarios-te-llega-mensaje-borralo-4248787.jpg?tf=1200x' alt='La estafa que intenta aprovecharse de los estudiantes universitarios: si te llega este mensaje, bórralo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-donde-como-activar-boton-oculto-duplica-autonomia-bateria-1411367'>iPhone: dónde está y cómo activar el botón oculto que duplica la autonomía de la batería</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-donde-como-activar-boton-oculto-duplica-autonomia-bateria-1411367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-donde-como-activar-boton-oculto-duplica-autonomia-bateria-4248965.jpg?tf=1200x' alt='iPhone: dónde está y cómo activar el botón oculto que duplica la autonomía de la batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-digi-ni-movistar-ocu-mejor-operador-tener-movil-1411344'>Ni DIGI ni Movistar, según la OCU este es el mejor operador para tener en tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/ni-digi-ni-movistar-ocu-mejor-operador-tener-movil-1411344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enfado-movil-4249050.jpg?tf=1200x' alt='Ni DIGI ni Movistar, según la OCU este es el mejor operador para tener en tu móvil' />
     </a>
 </div>
 
