@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-intenta-aprovecharse-estudiantes-universitarios-te-llega-mensaje-borralo-1411255'>La estafa que intenta aprovecharse de los estudiantes universitarios: si te llega este mensaje, bórralo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-intenta-aprovecharse-estudiantes-universitarios-te-llega-mensaje-borralo-1411255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-intenta-aprovecharse-estudiantes-universitarios-te-llega-mensaje-borralo-4248787.jpg?tf=1200x' alt='La estafa que intenta aprovecharse de los estudiantes universitarios: si te llega este mensaje, bórralo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-donde-como-activar-boton-oculto-duplica-autonomia-bateria-1411367'>iPhone: dónde está y cómo activar el botón oculto que duplica la autonomía de la batería</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-donde-como-activar-boton-oculto-duplica-autonomia-bateria-1411367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-donde-como-activar-boton-oculto-duplica-autonomia-bateria-4248965.jpg?tf=1200x' alt='iPhone: dónde está y cómo activar el botón oculto que duplica la autonomía de la batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/ni-digi-ni-movistar-ocu-mejor-operador-tener-movil-1411344'>Ni DIGI ni Movistar, según la OCU este es el mejor operador para tener en tu móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/ni-digi-ni-movistar-ocu-mejor-operador-tener-movil-1411344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enfado-movil-4249050.jpg?tf=1200x' alt='Ni DIGI ni Movistar, según la OCU este es el mejor operador para tener en tu móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/robots-optimus-presentacion-cybercab-elon-musk-eran-mucho-humanos-nos-hicieron-creer-1411324'>Los robots Optimus de la presentación del Cybercab de Elon Musk, eran mucho más humanos de lo que nos hicieron creer</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/robots-optimus-presentacion-cybercab-elon-musk-eran-mucho-humanos-nos-hicieron-creer-1411324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tesla-optimus-gen-2-3253569.jpg?tf=1200x' alt='Los robots Optimus de la presentación del Cybercab de Elon Musk, eran mucho más humanos de lo que nos hicieron creer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/quieres-aprovechar-maximo-tv-4k-todo-debes-hacer-1411417'>¿Quieres aprovechar al máximo tu TV 4K? Esto es todo lo que debes hacer </a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/quieres-aprovechar-maximo-tv-4k-todo-debes-hacer-1411417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fondo-pantalla-tv-4105898.jpg?tf=1200x' alt='¿Quieres aprovechar al máximo tu TV 4K? Esto es todo lo que debes hacer ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/misterio-mapa-piri-reis-colon-america-1410995'>El misterio del mapa Piri Reis: ¿llegó Colón a América antes de lo que dice la historia?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/misterio-mapa-piri-reis-colon-america-1410995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/misterio-mapa-piri-reis-llego-colon-america-antes-dice-historia-4248281.jpg?tf=1200x' alt='El misterio del mapa Piri Reis: ¿llegó Colón a América antes de lo que dice la historia?' />
     </a>
 </div>
 
