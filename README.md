@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/caracteristica-gemini-me-encantaria-ver-chrome-1411322'>Esta es la característica de Gemini que me encantaría ver en Chrome</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/caracteristica-gemini-me-encantaria-ver-chrome-1411322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-chrome-gemini-3300536.jpg?tf=1200x' alt='Esta es la característica de Gemini que me encantaría ver en Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-lanzaria-version-barata-vision-pro-2025-costarian-2000-dolares-1411320'>Apple lanzaría la versión "barata" de las Vision Pro en 2025: costarían 2.000 dólares</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-lanzaria-version-barata-vision-pro-2025-costarian-2000-dolares-1411320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3276015.jpg?tf=1200x' alt='Apple lanzaría la versión "barata" de las Vision Pro en 2025: costarían 2.000 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/incluso-cuando-apagado-electrodomestico-vampiro-energia-consume-1411020'>Incluso cuando está apagado: este es el electrodoméstico vampiro que más energía consume</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/incluso-cuando-apagado-electrodomestico-vampiro-energia-consume-1411020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/incluso-cuando-apagado-electrodomestico-vampiro-energia-consume-4248369.jpg?tf=1200x' alt='Incluso cuando está apagado: este es el electrodoméstico vampiro que más energía consume' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-galaxy-ring-primer-intento-samsung-ha-logrado-tener-mejor-anillo-puedes-comprar-1410323'>He probado el Galaxy Ring y en su primer intento Samsung ha logrado tener el mejor anillo que puedes comprar</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/he-probado-galaxy-ring-primer-intento-samsung-ha-logrado-tener-mejor-anillo-puedes-comprar-1410323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-ring-4247238.jpg?tf=1200x' alt='He probado el Galaxy Ring y en su primer intento Samsung ha logrado tener el mejor anillo que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/estos-son-addons-kodi-esenciales-no-podria-vivir-1410802'>Estos son los addons de Kodi esenciales sin los que no podría vivir</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/estos-son-addons-kodi-esenciales-no-podria-vivir-1410802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estos-son-addons-kodi-esenciales-no-podria-vivir-4248076.jpg?tf=1200x' alt='Estos son los addons de Kodi esenciales sin los que no podría vivir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-12-grandes-novedades-hacer-olvidar-windows-10-1410772'>Windows 12: tres grandes novedades para hacer olvidar a Windows 10</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-12-grandes-novedades-hacer-olvidar-windows-10-1410772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-12-tres-grandes-novedades-hacer-olvidar-windows-10-4248004.jpg?tf=1200x' alt='Windows 12: tres grandes novedades para hacer olvidar a Windows 10' />
     </a>
 </div>
 
