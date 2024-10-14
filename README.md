@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/eres-tienes-cientos-pestanas-abiertas-navegador-chrome-llega-rescate-1411388'>¿Eres de los que tienes cientos de pestañas abiertas en el navegador? Chrome llega en tu rescate</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/eres-tienes-cientos-pestanas-abiertas-navegador-chrome-llega-rescate-1411388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/eres-tienes-cientos-pestanas-abiertas-navegador-chrome-llega-rescate-4248999.jpg?tf=1200x' alt='¿Eres de los que tienes cientos de pestañas abiertas en el navegador? Chrome llega en tu rescate' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-digi-ni-movistar-ocu-mejor-operador-tener-movil-1411344'>Ni DIGI ni Movistar, según la OCU este es el mejor operador para tener en tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/ni-digi-ni-movistar-ocu-mejor-operador-tener-movil-1411344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enfado-movil-4249050.jpg?tf=1200x' alt='Ni DIGI ni Movistar, según la OCU este es el mejor operador para tener en tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-tiene-ambicioso-plan-hacer-casa-vuelva-inteligente-1411380'>Apple tiene un ambicioso plan para hacer que tu casa se vuelva inteligente</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-tiene-ambicioso-plan-hacer-casa-vuelva-inteligente-1411380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-casa-inteligente-4248939.jpg?tf=1200x' alt='Apple tiene un ambicioso plan para hacer que tu casa se vuelva inteligente' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/ios-181-ia-llega-iphone-novedades-fecha-lanzamiento-modelos-compatibles-1411418'>iOS 18.1, la IA llega a tu iPhone: novedades, fecha de lanzamiento y modelos compatibles</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ios-181-ia-llega-iphone-novedades-fecha-lanzamiento-modelos-compatibles-1411418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ios-181-apple-4248988.jpg?tf=1200x' alt='iOS 18.1, la IA llega a tu iPhone: novedades, fecha de lanzamiento y modelos compatibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-grabar-llamada-android-sin-aplicaciones-1384593'>Cómo grabar una llamada en Android sin aplicaciones ni instalar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-grabar-llamada-android-sin-aplicaciones-1384593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-grabar-llamada-android-aplicaciones-ni-instalar-nada-3309750.jpg?tf=1200x' alt='Cómo grabar una llamada en Android sin aplicaciones ni instalar nada' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/robots-optimus-presentacion-cybercab-elon-musk-eran-mucho-humanos-nos-hicieron-creer-1411324'>Los robots Optimus de la presentación del Cybercab de Elon Musk, eran mucho más humanos de lo que nos hicieron creer</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/robots-optimus-presentacion-cybercab-elon-musk-eran-mucho-humanos-nos-hicieron-creer-1411324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tesla-optimus-gen-2-3253569.jpg?tf=1200x' alt='Los robots Optimus de la presentación del Cybercab de Elon Musk, eran mucho más humanos de lo que nos hicieron creer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hackeo-game-freak-filtra-nueva-informacion-nintendo-switch-2-primeros-juegos-1411402'>El hackeo a Game Freak filtra nueva información sobre Nintendo Switch 2 y sus primeros juegos</a></h4>
-    <a href='https://computerhoy.20minutos.es/hackeo-game-freak-filtra-nueva-informacion-nintendo-switch-2-primeros-juegos-1411402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/resuelve-misterios-detective-pikachu-688416.jpg?tf=1200x' alt='El hackeo a Game Freak filtra nueva información sobre Nintendo Switch 2 y sus primeros juegos' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/quieres-aprovechar-maximo-tv-4k-todo-debes-hacer-1411417'>¿Quieres aprovechar al máximo tu TV 4K? Esto es todo lo que debes hacer </a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/quieres-aprovechar-maximo-tv-4k-todo-debes-hacer-1411417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fondo-pantalla-tv-4105898.jpg?tf=1200x' alt='¿Quieres aprovechar al máximo tu TV 4K? Esto es todo lo que debes hacer ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-alternativa-airtag-eres-android-samsung-cuesta-solo-25-euros-1409557'>Es la mejor alternativa al AirTag si eres de Android, y es de Samsung: cuesta solo 25 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mejor-alternativa-airtag-eres-android-samsung-cuesta-solo-25-euros-1409557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-smarttag2-4245921.jpg?tf=1200x' alt='Es la mejor alternativa al AirTag si eres de Android, y es de Samsung: cuesta solo 25 euros' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/misterio-mapa-piri-reis-colon-america-1410995'>El misterio del mapa Piri Reis: ¿llegó Colón a América antes de lo que dice la historia?</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/misterio-mapa-piri-reis-colon-america-1410995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/misterio-mapa-piri-reis-llego-colon-america-antes-dice-historia-4248281.jpg?tf=1200x' alt='El misterio del mapa Piri Reis: ¿llegó Colón a América antes de lo que dice la historia?' />
     </a>
 </div>
 
