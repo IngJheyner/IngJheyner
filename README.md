@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ni-google-maps-ni-waze-estas-son-apps-navegacion-android-auto-menos-bateria-consumen-1411563'>Ni Google Maps ni Waze, estas son las apps de navegación para Android Auto que menos batería consumen</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ni-google-maps-ni-waze-estas-son-apps-navegacion-android-auto-menos-bateria-consumen-1411563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/aplicacion-navegacion-4249272.jpg?tf=1200x' alt='Ni Google Maps ni Waze, estas son las apps de navegación para Android Auto que menos batería consumen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/acumula-calderilla-bolsillos-durante-70-anos-han-tardado-5-dias-contarlo-cifra-da-cuantos-caprichos-1411557'>Acumula la calderilla de sus bolsillos durante 70 años: han tardado 5 días en contarlo y la cifra da para unos cuantos caprichos</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/acumula-calderilla-bolsillos-durante-70-anos-han-tardado-5-dias-contarlo-cifra-da-cuantos-caprichos-1411557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/acumula-calderilla-bolsillos-durante-70-anos-han-tardado-5-dias-contarlo-cifra-da-cuantos-caprichos-4249261.jpg?tf=1200x' alt='Acumula la calderilla de sus bolsillos durante 70 años: han tardado 5 días en contarlo y la cifra da para unos cuantos caprichos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cientificos-afirman-haber-conseguido-primera-vez-dos-personas-comuniquen-suenos-1411554'>Científicos afirman haber conseguido por primera vez que dos personas se comuniquen en sueños</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cientificos-afirman-haber-conseguido-primera-vez-dos-personas-comuniquen-suenos-1411554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cientificos-afirman-haber-conseguido-primera-vez-dos-personas-comuniquen-suenos-4249258.jpg?tf=1200x' alt='Científicos afirman haber conseguido por primera vez que dos personas se comuniquen en sueños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desvela-prompt-chatgpt-emocionar-1411551'>Sam Altman desvela un prompt en ChatGPT que está haciendo llorar a la gente</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desvela-prompt-chatgpt-emocionar-1411551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sam-altman-invita-usar-prompt-chatgpt-haciendo-llorar-emocionarse-gente-4249190.jpg?tf=1200x' alt='Sam Altman desvela un prompt en ChatGPT que está haciendo llorar a la gente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/superman-ha-salvado-mundo-muchas-veces-podra-salvar-tambien-nueva-pelicula-1411363'>Superman ha salvado al mundo muchas veces: ¿podrá salvar también su nueva película? </a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/superman-ha-salvado-mundo-muchas-veces-podra-salvar-tambien-nueva-pelicula-1411363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/zack-snyder-moja-opina-traje-nuevo-superman-david-corenswet-james-gunn-3867279.jpg?tf=1200x' alt='Superman ha salvado al mundo muchas veces: ¿podrá salvar también su nueva película? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-joker-2-grandes-peliculas-superheroes-villanos-famosos-estrellaron-taquilla-1411299'>No solo Joker 2: grandes películas de superhéroes (y villanos) famosos que se estrellaron en taquilla</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-joker-2-grandes-peliculas-superheroes-villanos-famosos-estrellaron-taquilla-1411299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/joker-2-3294910.jpg?tf=1200x' alt='No solo Joker 2: grandes películas de superhéroes (y villanos) famosos que se estrellaron en taquilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/era-secuelas-esperada-netflix-pero-no-convenciendo-nadie-razon-1409650'>Era una de las secuelas más esperada de Netflix, pero no está convenciendo a nadie, y esta es la razón</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/era-secuelas-esperada-netflix-pero-no-convenciendo-nadie-razon-1409650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/era-secuelas-esperada-netflix-pero-no-convenciendo-nadie-razon-4246051.jpg?tf=1200x' alt='Era una de las secuelas más esperada de Netflix, pero no está convenciendo a nadie, y esta es la razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/industria/cuidado-llevar-linea-estos-operadores-ultra-low-cost-podrias-perder-titularidad-numero-telefono-1411450'>Cuidado con llevar tu línea a estos operadores ultra low cost: podrías perder la titularidad de tu número de teléfono</a></h4>
-    <a href='https://computerhoy.20minutos.es/industria/cuidado-llevar-linea-estos-operadores-ultra-low-cost-podrias-perder-titularidad-numero-telefono-1411450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cuidado-llevar-linea-estos-operadores-ultra-low-cost-podrias-perder-titularidad-numero-telefono-4249055.jpg?tf=1200x' alt='Cuidado con llevar tu línea a estos operadores ultra low cost: podrías perder la titularidad de tu número de teléfono' />
     </a>
 </div>
 
