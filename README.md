@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/zara-z3d-disponibilidad-como-comprar-online-nueva-coleccion-ropa-mayores-14-inditex-1411703'>Zara z3d: disponibilidad y cómo comprar online la nueva colección de ropa para mayores de 14 de Inditex</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/zara-z3d-disponibilidad-como-comprar-online-nueva-coleccion-ropa-mayores-14-inditex-1411703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/zara-z3d-4249465.jpg?tf=1200x' alt='Zara z3d: disponibilidad y cómo comprar online la nueva colección de ropa para mayores de 14 de Inditex' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/alerta-precipitaciones-movil-asegurate-tienes-activados-avisos-proteccion-civil-1411681'>Alerta por precipitaciones en tu móvil: asegúrate que tienes activados los avisos de Protección Civil</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/alerta-precipitaciones-movil-asegurate-tienes-activados-avisos-proteccion-civil-1411681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-saber-recibiras-aviso-emergencias-alert-movil-android-iphone-2851717.jpg?tf=1200x' alt='Alerta por precipitaciones en tu móvil: asegúrate que tienes activados los avisos de Protección Civil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/google-chrome-comienza-desactivar-primeras-extensiones-bloquear-anuncios-1-1411621'>Google Chrome comienza a desactivar las primeras extensiones para bloquear anuncios</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-chrome-comienza-desactivar-primeras-extensiones-bloquear-anuncios-1-1411621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-chrome-cumple-amenaza-comienza-desactivar-primeras-extensiones-bloquear-anuncios-4249396.jpg?tf=1200x' alt='Google Chrome comienza a desactivar las primeras extensiones para bloquear anuncios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ia-tropieza-matematicas-apple-expone-profundas-grietas-razonamiento-chatbots-1411680'>La IA tropieza con las matemáticas: Apple expone las "profundas" grietas de razonamiento de los chatbots</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ia-tropieza-matematicas-apple-expone-profundas-grietas-razonamiento-chatbots-1411680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatbots-ia-inventan-respuestas-podria-ser-solucion-expertos-3304828.jpg?tf=1200x' alt='La IA tropieza con las matemáticas: Apple expone las "profundas" grietas de razonamiento de los chatbots' />
     </a>
 </div>
 
