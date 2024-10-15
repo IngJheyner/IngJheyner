@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ya-puedes-usar-internet-archive-ciberataque-pero-solo-modo-lectura-1411615'>Ya puedes usar Internet Archive tras el ciberataque, pero solo en modo lectura</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ya-puedes-usar-internet-archive-ciberataque-pero-solo-modo-lectura-1411615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/internet-archive-ciberseguridad-4249393.jpg?tf=1200x' alt='Ya puedes usar Internet Archive tras el ciberataque, pero solo en modo lectura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/no-piques-hackers-simulan-ser-google-robarte-datos-1411608'>No piques: hackers simulan ser Google para robarte tus datos</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/no-piques-hackers-simulan-ser-google-robarte-datos-1411608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-google-4249359.jpg?tf=1200x' alt='No piques: hackers simulan ser Google para robarte tus datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/navegador-duckduckgo-youtube-gratis-sin-publicidad-invasiva-1411606'>Este navegador te permite ver YouTube gratis sin publicidad invasiva</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/navegador-duckduckgo-youtube-gratis-sin-publicidad-invasiva-1411606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/navegador-te-permite-ver-youtube-gratis-publicidad-4249349.jpg?tf=1200x' alt='Este navegador te permite ver YouTube gratis sin publicidad invasiva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-huawei-matepad-pro-122-tablet-copia-mejor-apple-pantalla-oled-1410717'>He probado la Huawei MatePad Pro 12,2", la tablet que copia lo mejor de Apple para su pantalla OLED</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/he-probado-huawei-matepad-pro-122-tablet-copia-mejor-apple-pantalla-oled-1410717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/huawei-matepad-pro-122-4247987.jpg?tf=1200x' alt='He probado la Huawei MatePad Pro 12,2", la tablet que copia lo mejor de Apple para su pantalla OLED' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-ultra-samsung-rebajado-lte-1408203'>El reloj Ultra de Samsung da la campanada: está rebajado y tiene conectividad LTE</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/reloj-ultra-samsung-rebajado-lte-1408203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch-ultra-4243776.jpg?tf=1200x' alt='El reloj Ultra de Samsung da la campanada: está rebajado y tiene conectividad LTE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-amazfit-helio-ring-precio-hace-especialmente-interesante-introducirse-anillos-inteligentes-1409732'>Lo mejor del Amazfit Helio Ring es que su precio lo hace especialmente interesante para introducirse en los anillos inteligentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mejor-amazfit-helio-ring-precio-hace-especialmente-interesante-introducirse-anillos-inteligentes-1409732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazfit-helio-ring-4246213.jpg?tf=1200x' alt='Lo mejor del Amazfit Helio Ring es que su precio lo hace especialmente interesante para introducirse en los anillos inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/he-probado-7-funciones-ia-xiaomi-ha-anadido-ultimos-moviles-estas-son-te-recomiendo-1408994'>He probado las 7 funciones de IA que Xiaomi ha añadido a sus últimos móviles y estas son las que más te recomiendo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/he-probado-7-funciones-ia-xiaomi-ha-anadido-ultimos-moviles-estas-son-te-recomiendo-1408994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-14t-pro-4241621.jpg?tf=1200x' alt='He probado las 7 funciones de IA que Xiaomi ha añadido a sus últimos móviles y estas son las que más te recomiendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tres-situaciones-siempre-deberias-mentir-internet-1411458'>Tres situaciones en las que siempre deberías mentir en internet (y no sentirte mal por ello)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tres-situaciones-siempre-deberias-mentir-internet-1411458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mentir-internet-4249134.jpg?tf=1200x' alt='Tres situaciones en las que siempre deberías mentir en internet (y no sentirte mal por ello)' />
     </a>
 </div>
 
