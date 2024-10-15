@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pulsera-inteligente-xiaomi-55-euros-1406423'>No es un reloj, es una pulsera inteligente de Xiaomi que lo tiene casi todo, y por solo 55 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pulsera-inteligente-xiaomi-55-euros-1406423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-band-8-pro-3290705.jpg?tf=1200x' alt='No es un reloj, es una pulsera inteligente de Xiaomi que lo tiene casi todo, y por solo 55 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/estudio-desaconseja-usar-movil-smartwatch-cama-bacterias-1411586'>Un estudio desaconseja usar el móvil o el smartwatch en la cama, no es por la luz azul</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/estudio-desaconseja-usar-movil-smartwatch-cama-bacterias-1411586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estudio-desaconseja-usar-movil-cama-no-luz-azul-4249288.jpg?tf=1200x' alt='Un estudio desaconseja usar el móvil o el smartwatch en la cama, no es por la luz azul' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/fujifilm-x-m5-camara-mirrorless-ligera-principiantes-1411574'>Fujifilm X-M5, la nueva cámara sin espejo ligera y retro, ideal para principiantes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/fujifilm-x-m5-camara-mirrorless-ligera-principiantes-1411574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fujifilm-x-m5-nueva-camara-espejo-ligera-retro-ideal-principiantes-4249268.jpg?tf=1200x' alt='Fujifilm X-M5, la nueva cámara sin espejo ligera y retro, ideal para principiantes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/acumula-calderilla-bolsillos-durante-70-anos-han-tardado-5-dias-contarlo-cifra-da-cuantos-caprichos-1411557'>Acumula la calderilla de sus bolsillos durante 70 años: han tardado 5 días en contarlo y la cifra da para unos cuantos caprichos</a></h4>
     <a href='https://computerhoy.20minutos.es/life/acumula-calderilla-bolsillos-durante-70-anos-han-tardado-5-dias-contarlo-cifra-da-cuantos-caprichos-1411557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/acumula-calderilla-bolsillos-durante-70-anos-han-tardado-5-dias-contarlo-cifra-da-cuantos-caprichos-4249261.jpg?tf=1200x' alt='Acumula la calderilla de sus bolsillos durante 70 años: han tardado 5 días en contarlo y la cifra da para unos cuantos caprichos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cientificos-afirman-haber-conseguido-primera-vez-dos-personas-comuniquen-suenos-1411554'>Científicos afirman haber conseguido por primera vez que dos personas se comuniquen en sueños</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cientificos-afirman-haber-conseguido-primera-vez-dos-personas-comuniquen-suenos-1411554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cientificos-afirman-haber-conseguido-primera-vez-dos-personas-comuniquen-suenos-4249258.jpg?tf=1200x' alt='Científicos afirman haber conseguido por primera vez que dos personas se comuniquen en sueños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desvela-prompt-chatgpt-emocionar-1411551'>Sam Altman desvela un prompt en ChatGPT que está haciendo llorar a la gente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desvela-prompt-chatgpt-emocionar-1411551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sam-altman-invita-usar-prompt-chatgpt-haciendo-llorar-emocionarse-gente-4249190.jpg?tf=1200x' alt='Sam Altman desvela un prompt en ChatGPT que está haciendo llorar a la gente' />
     </a>
 </div>
 
