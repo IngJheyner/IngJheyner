@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-resuelve-enigma-863-gb-windows-11-24h2-explica-pasando-1411876'>Microsoft resuelve el enigma de los 8,63 GB en Windows 11 24H2 y explica qué está pasando</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-resuelve-enigma-863-gb-windows-11-24h2-explica-pasando-1411876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-disco-duro-4249859.jpg?tf=1200x' alt='Microsoft resuelve el enigma de los 8,63 GB en Windows 11 24H2 y explica qué está pasando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/android-15-estrena-moviles-google-pixel-novedades-1411875'>Android 15 se estrena en los móviles Google Pixel con muchas novedades de peso</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/android-15-estrena-moviles-google-pixel-novedades-1411875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-15-estrena-moviles-google-pixel-muchas-novedades-peso-4249843.jpg?tf=1200x' alt='Android 15 se estrena en los móviles Google Pixel con muchas novedades de peso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-office-aviso-urgente-fin-soporte-inminente-dos-versiones-populares-1411872'>Microsoft Office: aviso urgente sobre el fin de soporte inminente de dos de las versiones más populares</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-office-aviso-urgente-fin-soporte-inminente-dos-versiones-populares-1411872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/microsoft-office-2024-4249855.jpg?tf=1200x' alt='Microsoft Office: aviso urgente sobre el fin de soporte inminente de dos de las versiones más populares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-claudica-futuros-iphone-tendran-memoria-12gb-iphone-17-1411866'>Apple claudica y los futuros iPhone tendrán más memoria: hasta 12GB en el iPhone 17</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-claudica-futuros-iphone-tendran-memoria-12gb-iphone-17-1411866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243554.jpg?tf=1200x' alt='Apple claudica y los futuros iPhone tendrán más memoria: hasta 12GB en el iPhone 17' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-joker-2-ni-megalopolis-ha-sido-mayor-fracaso-taquilla-2024-1411238'>Ni Joker 2 ni Megalópolis: este ha sido el mayor fracaso en taquilla de 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-joker-2-ni-megalopolis-ha-sido-mayor-fracaso-taquilla-2024-1411238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/joker-folie-deux-2024-4247657.jpg?tf=1200x' alt='Ni Joker 2 ni Megalópolis: este ha sido el mayor fracaso en taquilla de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/fracaso-cines-disney-pero-olvidada-entrega-mitica-franquicia-ciencia-ficcion-arrasando-netflix-1411222'>Fracasó en cines y en Disney+, pero esta olvidada entrega de una mítica franquicia de ciencia ficción está arrasando en Netflix</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/fracaso-cines-disney-pero-olvidada-entrega-mitica-franquicia-ciencia-ficcion-arrasando-netflix-1411222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fracaso-cines-disney-pero-olvidada-entrega-mitica-franquicia-ciencia-ficcion-arrasando-netflix-4248754.jpg?tf=1200x' alt='Fracasó en cines y en Disney+, pero esta olvidada entrega de una mítica franquicia de ciencia ficción está arrasando en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/termino-franquicia-exito-80-pero-quentin-tarantino-ama-pelicula-ahora-puedes-verla-max-1409671'>Terminó con una franquicia de éxito de los 80, pero Quentin Tarantino ama esta película, y ahora puedes verla en MAX</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/termino-franquicia-exito-80-pero-quentin-tarantino-ama-pelicula-ahora-puedes-verla-max-1409671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/termino-franquicia-exito-80-pero-quentin-tarantino-ama-pelicula-ahora-puedes-verla-max-4246079.jpg?tf=1200x' alt='Terminó con una franquicia de éxito de los 80, pero Quentin Tarantino ama esta película, y ahora puedes verla en MAX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/medidas-acabar-iptv-estan-vulnerando-neutralidad-red-grave-problema-1411691'>Las medidas para acabar con IPTV están vulnerando la neutralidad de la red, y esto es un grave problema</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/medidas-acabar-iptv-estan-vulnerando-neutralidad-red-grave-problema-1411691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-4249691.jpg?tf=1200x' alt='Las medidas para acabar con IPTV están vulnerando la neutralidad de la red, y esto es un grave problema' />
     </a>
 </div>
 
