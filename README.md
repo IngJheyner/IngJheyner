@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-renueva-ipad-mini-potencia-mano-a17-pro-compatibilidad-apple-intelligence-1411775'>Apple renueva el iPad mini con toda la potencia del A17 Pro y compatibilidad con Apple Intelligence</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-renueva-ipad-mini-potencia-mano-a17-pro-compatibilidad-apple-intelligence-1411775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ipad-mini-apple-4249668.jpg?tf=1200x' alt='Apple renueva el iPad mini con toda la potencia del A17 Pro y compatibilidad con Apple Intelligence' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-son-mejores-porque-no-deprecian-ya-hay-movil-android-desmiente-1411706'>"Los iPhone son mejores porque no se deprecian": ya hay un móvil Android que lo desmiente</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-son-mejores-porque-no-deprecian-ya-hay-movil-android-desmiente-1411706' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-son-mejores-porque-no-deprecian-ya-hay-movil-android-desmiente-4249545.jpg?tf=1200x' alt='"Los iPhone son mejores porque no se deprecian": ya hay un móvil Android que lo desmiente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adios-contrasenas-pronto-podras-modificar-claves-acceso-gestores-contrasenas-1411676'>Adiós a las contraseñas: pronto podrás modificar tus claves de acceso entre gestores de contraseñas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/adios-contrasenas-pronto-podras-modificar-claves-acceso-gestores-contrasenas-1411676' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/adios-contrasenas-dentro-poco-podras-modificar-claves-acceso-gestores-contrasenas-4249496.jpg?tf=1200x' alt='Adiós a las contraseñas: pronto podrás modificar tus claves de acceso entre gestores de contraseñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/zara-z3d-disponibilidad-como-comprar-online-nueva-coleccion-ropa-mayores-14-inditex-1411703'>Zara z3d: disponibilidad y cómo comprar online la nueva colección de ropa para mayores de 14 de Inditex</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/zara-z3d-disponibilidad-como-comprar-online-nueva-coleccion-ropa-mayores-14-inditex-1411703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/zara-z3d-4249465.jpg?tf=1200x' alt='Zara z3d: disponibilidad y cómo comprar online la nueva colección de ropa para mayores de 14 de Inditex' />
     </a>
 </div>
 
