@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/alerta-precipitaciones-movil-asegurate-tienes-activados-avisos-proteccion-civil-1411681'>Alerta por precipitaciones en tu móvil: asegúrate que tienes activados los avisos de Protección Civil</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/alerta-precipitaciones-movil-asegurate-tienes-activados-avisos-proteccion-civil-1411681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-saber-recibiras-aviso-emergencias-alert-movil-android-iphone-2851717.jpg?tf=1200x' alt='Alerta por precipitaciones en tu móvil: asegúrate que tienes activados los avisos de Protección Civil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/kindle-tienen-quien-temer-lector-kobo-barato-tiene-pantalla-color-audiolibros-1411422'>Los Kindle tienen a quién temer: este lector Kobo es más barato y tiene pantalla a color y audiolibros</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/kindle-tienen-quien-temer-lector-kobo-barato-tiene-pantalla-color-audiolibros-1411422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/kobo-libra-colour-4033130.jpg?tf=1200x' alt='Los Kindle tienen a quién temer: este lector Kobo es más barato y tiene pantalla a color y audiolibros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-alerta-estafas-ia-gmail-como-funcionan-debes-fijarte-1411627'>Google alerta por las estafas con IA en Gmail: cómo funcionan y en qué debes fijarte</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/google-alerta-estafas-ia-gmail-como-funcionan-debes-fijarte-1411627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-alerta-estafas-ia-gmail-como-funcionan-debes-fijarte-4249458.jpg?tf=1200x' alt='Google alerta por las estafas con IA en Gmail: cómo funcionan y en qué debes fijarte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/ia-tropieza-matematicas-apple-expone-profundas-grietas-razonamiento-chatbots-1411680'>La IA tropieza con las matemáticas: Apple expone las "profundas" grietas de razonamiento de los chatbots</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/ia-tropieza-matematicas-apple-expone-profundas-grietas-razonamiento-chatbots-1411680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatbots-ia-inventan-respuestas-podria-ser-solucion-expertos-3304828.jpg?tf=1200x' alt='La IA tropieza con las matemáticas: Apple expone las "profundas" grietas de razonamiento de los chatbots' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/ultimo-google-ganar-carrera-ia-apostar-energia-nuclear-1411624'>Lo último de Google para ganar la carrera de la IA es apostar por la energía nuclear</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/ultimo-google-ganar-carrera-ia-apostar-energia-nuclear-1411624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-consumo-energia-3247519.jpg?tf=1200x' alt='Lo último de Google para ganar la carrera de la IA es apostar por la energía nuclear' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ya-puedes-usar-internet-archive-ciberataque-pero-solo-modo-lectura-1411615'>Ya puedes usar Internet Archive tras el ciberataque, pero solo en modo lectura</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ya-puedes-usar-internet-archive-ciberataque-pero-solo-modo-lectura-1411615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/internet-archive-ciberseguridad-4249393.jpg?tf=1200x' alt='Ya puedes usar Internet Archive tras el ciberataque, pero solo en modo lectura' />
     </a>
 </div>
 
