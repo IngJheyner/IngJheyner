@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/instalar-emuladores-iphone-steve-jobs-jugar-playstation-mac-1411711'>No puedes instalar emuladores en tu iPhone, pero Steve Jobs presumía de poder jugar a la PlayStation en un Mac</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/instalar-emuladores-iphone-steve-jobs-jugar-playstation-mac-1411711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steve-jobs-4249574.jpg?tf=1200x' alt='No puedes instalar emuladores en tu iPhone, pero Steve Jobs presumía de poder jugar a la PlayStation en un Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cristales-almacenar-datos-superman-ya-son-realidad-pueden-guardar-informacion-durante-millones-anos-1411785'>Los cristales para almacenar datos de Superman ya son una realidad: pueden guardar información durante millones de años</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cristales-almacenar-datos-superman-ya-son-realidad-pueden-guardar-informacion-durante-millones-anos-1411785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cristales-almacenar-datos-superman-ya-son-realidad-pueden-guardar-informacion-durante-millones-anos-4249673.jpg?tf=1200x' alt='Los cristales para almacenar datos de Superman ya son una realidad: pueden guardar información durante millones de años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/conexion-5g-no-infalible-razon-puede-ir-lenta-movil-1411754'>La conexión 5G no es infalible, y esta es la razón por la que puede ir lenta en tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/conexion-5g-no-infalible-razon-puede-ir-lenta-movil-1411754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/increible-invento-instala-ventanas-mejorar-conexion-5g-4234470.jpg?tf=1200x' alt='La conexión 5G no es infalible, y esta es la razón por la que puede ir lenta en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-inteligencia-artificial-ya-miente-como-humanos-chatgpt-lleva-palma-1410720'>Un estudio lo demuestra: la inteligencia artificial ya miente como los humanos, y ChatGPT se lleva la palma</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-inteligencia-artificial-ya-miente-como-humanos-chatgpt-lleva-palma-1410720' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estudio-demuestra-inteligencia-artificial-ya-miente-como-humanos-chatgpt-lleva-palma-4247869.jpg?tf=1200x' alt='Un estudio lo demuestra: la inteligencia artificial ya miente como los humanos, y ChatGPT se lleva la palma' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-renueva-ipad-mini-potencia-mano-a17-pro-compatibilidad-apple-intelligence-1411775'>Apple renueva el iPad mini con toda la potencia del A17 Pro y compatibilidad con Apple Intelligence</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-renueva-ipad-mini-potencia-mano-a17-pro-compatibilidad-apple-intelligence-1411775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ipad-mini-apple-4249668.jpg?tf=1200x' alt='Apple renueva el iPad mini con toda la potencia del A17 Pro y compatibilidad con Apple Intelligence' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-son-mejores-porque-no-deprecian-ya-hay-movil-android-desmiente-1411706'>"Los iPhone son mejores porque no se deprecian": ya hay un móvil Android que lo desmiente</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-son-mejores-porque-no-deprecian-ya-hay-movil-android-desmiente-1411706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-son-mejores-porque-no-deprecian-ya-hay-movil-android-desmiente-4249545.jpg?tf=1200x' alt='"Los iPhone son mejores porque no se deprecian": ya hay un móvil Android que lo desmiente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/adios-enchufes-fijos-enchufe-fotovoltaico-no-tiene-cables-puedes-colocar-cualquier-ventana-1411736'>Adiós a los enchufes fijos, este enchufe fotovoltaico no tiene cables y lo puedes colocar en cualquier ventana</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/adios-enchufes-fijos-enchufe-fotovoltaico-no-tiene-cables-puedes-colocar-cualquier-ventana-1411736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/adios-enchufes-fijos-enchufe-fotovoltaico-no-tiene-cables-puedes-colocar-cualquier-ventana-4249584.jpg?tf=1200x' alt='Adiós a los enchufes fijos, este enchufe fotovoltaico no tiene cables y lo puedes colocar en cualquier ventana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/estos-dos-proyectores-xgimi-4k-sonido-top-quieren-te-despidas-tv-tradicional-1411721'>Estos dos proyectores de Xgimi con 4K y sonido top quieren que te despidas de la TV tradicional</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/estos-dos-proyectores-xgimi-4k-sonido-top-quieren-te-despidas-tv-tradicional-1411721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/proyectores-xgimi-4249559.jpg?tf=1200x' alt='Estos dos proyectores de Xgimi con 4K y sonido top quieren que te despidas de la TV tradicional' />
     </a>
 </div>
 
