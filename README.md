@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-alerta-estafas-ia-gmail-como-funcionan-debes-fijarte-1411627'>Google alerta por las estafas con IA en Gmail: cómo funcionan y en qué debes fijarte</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/google-alerta-estafas-ia-gmail-como-funcionan-debes-fijarte-1411627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-alerta-estafas-ia-gmail-como-funcionan-debes-fijarte-4249458.jpg?tf=1200x' alt='Google alerta por las estafas con IA en Gmail: cómo funcionan y en qué debes fijarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-chrome-comienza-desactivar-primeras-extensiones-bloquear-anuncios-1-1411621'>Google Chrome comienza a desactivar las primeras extensiones para bloquear anuncios</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-chrome-comienza-desactivar-primeras-extensiones-bloquear-anuncios-1-1411621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-chrome-cumple-amenaza-comienza-desactivar-primeras-extensiones-bloquear-anuncios-4249396.jpg?tf=1200x' alt='Google Chrome comienza a desactivar las primeras extensiones para bloquear anuncios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ia-tropieza-matematicas-apple-expone-profundas-grietas-razonamiento-chatbots-1411680'>La IA tropieza con las matemáticas: Apple expone las "profundas" grietas de razonamiento de los chatbots</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ia-tropieza-matematicas-apple-expone-profundas-grietas-razonamiento-chatbots-1411680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatbots-ia-inventan-respuestas-podria-ser-solucion-expertos-3304828.jpg?tf=1200x' alt='La IA tropieza con las matemáticas: Apple expone las "profundas" grietas de razonamiento de los chatbots' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/ultimo-google-ganar-carrera-ia-apostar-energia-nuclear-1411624'>Lo último de Google para ganar la carrera de la IA es apostar por la energía nuclear</a></h4>
     <a href='https://computerhoy.20minutos.es/google/ultimo-google-ganar-carrera-ia-apostar-energia-nuclear-1411624' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-consumo-energia-3247519.jpg?tf=1200x' alt='Lo último de Google para ganar la carrera de la IA es apostar por la energía nuclear' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ya-puedes-usar-internet-archive-ciberataque-pero-solo-modo-lectura-1411615'>Ya puedes usar Internet Archive tras el ciberataque, pero solo en modo lectura</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ya-puedes-usar-internet-archive-ciberataque-pero-solo-modo-lectura-1411615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/internet-archive-ciberseguridad-4249393.jpg?tf=1200x' alt='Ya puedes usar Internet Archive tras el ciberataque, pero solo en modo lectura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/no-piques-hackers-simulan-ser-google-robarte-datos-1411608'>No piques: hackers simulan ser Google para robarte tus datos</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/no-piques-hackers-simulan-ser-google-robarte-datos-1411608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-google-4249359.jpg?tf=1200x' alt='No piques: hackers simulan ser Google para robarte tus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/navegador-duckduckgo-youtube-gratis-sin-publicidad-invasiva-1411606'>Este navegador te permite ver YouTube gratis sin publicidad invasiva</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/navegador-duckduckgo-youtube-gratis-sin-publicidad-invasiva-1411606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/navegador-te-permite-ver-youtube-gratis-publicidad-4249349.jpg?tf=1200x' alt='Este navegador te permite ver YouTube gratis sin publicidad invasiva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-huawei-matepad-pro-122-tablet-copia-mejor-apple-pantalla-oled-1410717'>He probado la Huawei MatePad Pro 12,2", la tablet que copia lo mejor de Apple para su pantalla OLED</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-huawei-matepad-pro-122-tablet-copia-mejor-apple-pantalla-oled-1410717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/huawei-matepad-pro-122-4247987.jpg?tf=1200x' alt='He probado la Huawei MatePad Pro 12,2", la tablet que copia lo mejor de Apple para su pantalla OLED' />
     </a>
 </div>
 
