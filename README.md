@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-claudica-futuros-iphone-tendran-memoria-12gb-iphone-17-1411866'>Apple claudica y los futuros iPhone tendrán más memoria: hasta 12GB en el iPhone 17</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-claudica-futuros-iphone-tendran-memoria-12gb-iphone-17-1411866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243554.jpg?tf=1200x' alt='Apple claudica y los futuros iPhone tendrán más memoria: hasta 12GB en el iPhone 17' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-joker-2-ni-megalopolis-ha-sido-mayor-fracaso-taquilla-2024-1411238'>Ni Joker 2 ni Megalópolis: este ha sido el mayor fracaso en taquilla de 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-joker-2-ni-megalopolis-ha-sido-mayor-fracaso-taquilla-2024-1411238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/joker-folie-deux-2024-4247657.jpg?tf=1200x' alt='Ni Joker 2 ni Megalópolis: este ha sido el mayor fracaso en taquilla de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/medidas-acabar-iptv-estan-vulnerando-neutralidad-red-grave-problema-1411691'>Las medidas para acabar con IPTV están vulnerando la neutralidad de la red, y esto es un grave problema</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/medidas-acabar-iptv-estan-vulnerando-neutralidad-red-grave-problema-1411691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-4249691.jpg?tf=1200x' alt='Las medidas para acabar con IPTV están vulnerando la neutralidad de la red, y esto es un grave problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/destapan-fraude-proceso-reciclaje-residuos-gracias-airtag-apple-1411663'>Destapan un fraude en el proceso de reciclaje de residuos gracias a las AirTag de Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/destapan-fraude-proceso-reciclaje-residuos-gracias-airtag-apple-1411663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/airtag-4249523.jpg?tf=1200x' alt='Destapan un fraude en el proceso de reciclaje de residuos gracias a las AirTag de Apple' />
     </a>
 </div>
 
