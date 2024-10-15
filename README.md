@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/descubren-nintendo-usando-emuladores-windows-museo-nintendo-1411897'>Descubren que Nintendo está usando emuladores de Windows en los juegos que hay en su museo</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/descubren-nintendo-usando-emuladores-windows-museo-nintendo-1411897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/museo-nintendo-3990644.jpg?tf=1200x' alt='Descubren que Nintendo está usando emuladores de Windows en los juegos que hay en su museo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/fallece-ward-christensen-inventor-bbs-1411889'>Fallece Ward Christensen, el inventor de los BBS que iniciaron la cultura online en los años 80</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/fallece-ward-christensen-inventor-bbs-1411889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fallece-ward-christensen-invento-bbs-iniciaron-cultura-online-anos-80-4249887.jpg?tf=1200x' alt='Fallece Ward Christensen, el inventor de los BBS que iniciaron la cultura online en los años 80' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-office-aviso-urgente-fin-soporte-inminente-dos-versiones-populares-1411872'>Microsoft Office: aviso urgente sobre el fin de soporte inminente de dos de las versiones más populares</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-office-aviso-urgente-fin-soporte-inminente-dos-versiones-populares-1411872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/microsoft-office-2024-4249855.jpg?tf=1200x' alt='Microsoft Office: aviso urgente sobre el fin de soporte inminente de dos de las versiones más populares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-claudica-futuros-iphone-tendran-memoria-12gb-iphone-17-1411866'>Apple claudica y los futuros iPhone tendrán más memoria: hasta 12GB en el iPhone 17</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-claudica-futuros-iphone-tendran-memoria-12gb-iphone-17-1411866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243554.jpg?tf=1200x' alt='Apple claudica y los futuros iPhone tendrán más memoria: hasta 12GB en el iPhone 17' />
     </a>
 </div>
 
