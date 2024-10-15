@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/ultimo-google-ganar-carrera-ia-apostar-energia-nuclear-1411624'>Lo último de Google para ganar la carrera de la IA es apostar por la energía nuclear</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/ultimo-google-ganar-carrera-ia-apostar-energia-nuclear-1411624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-consumo-energia-3247519.jpg?tf=1200x' alt='Lo último de Google para ganar la carrera de la IA es apostar por la energía nuclear' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ya-puedes-usar-internet-archive-ciberataque-pero-solo-modo-lectura-1411615'>Ya puedes usar Internet Archive tras el ciberataque, pero solo en modo lectura</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ya-puedes-usar-internet-archive-ciberataque-pero-solo-modo-lectura-1411615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/internet-archive-ciberseguridad-4249393.jpg?tf=1200x' alt='Ya puedes usar Internet Archive tras el ciberataque, pero solo en modo lectura' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-huawei-matepad-pro-122-tablet-copia-mejor-apple-pantalla-oled-1410717'>He probado la Huawei MatePad Pro 12,2", la tablet que copia lo mejor de Apple para su pantalla OLED</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/he-probado-huawei-matepad-pro-122-tablet-copia-mejor-apple-pantalla-oled-1410717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/huawei-matepad-pro-122-4247987.jpg?tf=1200x' alt='He probado la Huawei MatePad Pro 12,2", la tablet que copia lo mejor de Apple para su pantalla OLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-ultra-samsung-rebajado-lte-1408203'>El reloj Ultra de Samsung da la campanada: está rebajado y tiene conectividad LTE</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/reloj-ultra-samsung-rebajado-lte-1408203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch-ultra-4243776.jpg?tf=1200x' alt='El reloj Ultra de Samsung da la campanada: está rebajado y tiene conectividad LTE' />
     </a>
 </div>
 
