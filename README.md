@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-huawei-matepad-pro-122-tablet-copia-mejor-apple-pantalla-oled-1410717'>He probado la Huawei MatePad Pro 12,2", la tablet que copia lo mejor de Apple para su pantalla OLED</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-huawei-matepad-pro-122-tablet-copia-mejor-apple-pantalla-oled-1410717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/huawei-matepad-pro-122-4247987.jpg?tf=1200x' alt='He probado la Huawei MatePad Pro 12,2", la tablet que copia lo mejor de Apple para su pantalla OLED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-ultra-samsung-rebajado-lte-1408203'>El reloj Ultra de Samsung da la campanada: está rebajado y tiene conectividad LTE</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/reloj-ultra-samsung-rebajado-lte-1408203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch-ultra-4243776.jpg?tf=1200x' alt='El reloj Ultra de Samsung da la campanada: está rebajado y tiene conectividad LTE' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tres-situaciones-siempre-deberias-mentir-internet-1411458'>Tres situaciones en las que siempre deberías mentir en internet (y no sentirte mal por ello)</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tres-situaciones-siempre-deberias-mentir-internet-1411458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mentir-internet-4249134.jpg?tf=1200x' alt='Tres situaciones en las que siempre deberías mentir en internet (y no sentirte mal por ello)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-salir-grupo-whatsapp-nadie-sepa-1411121'>Cómo salir de un grupo de WhatsApp sin que nadie lo sepa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-salir-grupo-whatsapp-nadie-sepa-1411121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-salir-grupo-whatsapp-nadie-sepa-4248546.jpg?tf=1200x' alt='Cómo salir de un grupo de WhatsApp sin que nadie lo sepa' />
     </a>
 </div>
 
