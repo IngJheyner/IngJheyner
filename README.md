@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/fallece-ward-christensen-inventor-bbs-1411889'>Fallece Ward Christensen, el inventor de los BBS que iniciaron la cultura online en los años 80</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/fallece-ward-christensen-inventor-bbs-1411889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fallece-ward-christensen-invento-bbs-iniciaron-cultura-online-anos-80-4249887.jpg?tf=1200x' alt='Fallece Ward Christensen, el inventor de los BBS que iniciaron la cultura online en los años 80' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-resuelve-enigma-863-gb-windows-11-24h2-explica-pasando-1411876'>Microsoft resuelve el enigma de los 8,63 GB en Windows 11 24H2 y explica qué está pasando</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-resuelve-enigma-863-gb-windows-11-24h2-explica-pasando-1411876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-disco-duro-4249859.jpg?tf=1200x' alt='Microsoft resuelve el enigma de los 8,63 GB en Windows 11 24H2 y explica qué está pasando' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-claudica-futuros-iphone-tendran-memoria-12gb-iphone-17-1411866'>Apple claudica y los futuros iPhone tendrán más memoria: hasta 12GB en el iPhone 17</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-claudica-futuros-iphone-tendran-memoria-12gb-iphone-17-1411866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243554.jpg?tf=1200x' alt='Apple claudica y los futuros iPhone tendrán más memoria: hasta 12GB en el iPhone 17' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-joker-2-ni-megalopolis-ha-sido-mayor-fracaso-taquilla-2024-1411238'>Ni Joker 2 ni Megalópolis: este ha sido el mayor fracaso en taquilla de 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-joker-2-ni-megalopolis-ha-sido-mayor-fracaso-taquilla-2024-1411238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/joker-folie-deux-2024-4247657.jpg?tf=1200x' alt='Ni Joker 2 ni Megalópolis: este ha sido el mayor fracaso en taquilla de 2024' />
     </a>
 </div>
 
