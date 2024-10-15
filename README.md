@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-son-mejores-porque-no-deprecian-ya-hay-movil-android-desmiente-1411706'>"Los iPhone son mejores porque no se deprecian": ya hay un móvil Android que lo desmiente</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-son-mejores-porque-no-deprecian-ya-hay-movil-android-desmiente-1411706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-son-mejores-porque-no-deprecian-ya-hay-movil-android-desmiente-4249545.jpg?tf=1200x' alt='"Los iPhone son mejores porque no se deprecian": ya hay un móvil Android que lo desmiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/adios-enchufes-fijos-enchufe-fotovoltaico-no-tiene-cables-puedes-colocar-cualquier-ventana-1411736'>Adiós a los enchufes fijos, este enchufe fotovoltaico no tiene cables y lo puedes colocar en cualquier ventana</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/adios-enchufes-fijos-enchufe-fotovoltaico-no-tiene-cables-puedes-colocar-cualquier-ventana-1411736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/adios-enchufes-fijos-enchufe-fotovoltaico-no-tiene-cables-puedes-colocar-cualquier-ventana-4249584.jpg?tf=1200x' alt='Adiós a los enchufes fijos, este enchufe fotovoltaico no tiene cables y lo puedes colocar en cualquier ventana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/estos-dos-proyectores-xgimi-4k-sonido-top-quieren-te-despidas-tv-tradicional-1411721'>Estos dos proyectores de Xgimi con 4K y sonido top quieren que te despidas de la TV tradicional</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/estos-dos-proyectores-xgimi-4k-sonido-top-quieren-te-despidas-tv-tradicional-1411721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/proyectores-xgimi-4249559.jpg?tf=1200x' alt='Estos dos proyectores de Xgimi con 4K y sonido top quieren que te despidas de la TV tradicional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adios-contrasenas-pronto-podras-modificar-claves-acceso-gestores-contrasenas-1411676'>Adiós a las contraseñas: pronto podrás modificar tus claves de acceso entre gestores de contraseñas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/adios-contrasenas-pronto-podras-modificar-claves-acceso-gestores-contrasenas-1411676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/adios-contrasenas-dentro-poco-podras-modificar-claves-acceso-gestores-contrasenas-4249496.jpg?tf=1200x' alt='Adiós a las contraseñas: pronto podrás modificar tus claves de acceso entre gestores de contraseñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/zara-z3d-disponibilidad-como-comprar-online-nueva-coleccion-ropa-mayores-14-inditex-1411703'>Zara z3d: disponibilidad y cómo comprar online la nueva colección de ropa para mayores de 14 de Inditex</a></h4>
     <a href='https://computerhoy.20minutos.es/life/zara-z3d-disponibilidad-como-comprar-online-nueva-coleccion-ropa-mayores-14-inditex-1411703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/zara-z3d-4249465.jpg?tf=1200x' alt='Zara z3d: disponibilidad y cómo comprar online la nueva colección de ropa para mayores de 14 de Inditex' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/alerta-precipitaciones-movil-asegurate-tienes-activados-avisos-proteccion-civil-1411681'>Alerta por precipitaciones en tu móvil: asegúrate que tienes activados los avisos de Protección Civil</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/alerta-precipitaciones-movil-asegurate-tienes-activados-avisos-proteccion-civil-1411681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/como-saber-recibiras-aviso-emergencias-alert-movil-android-iphone-2851717.jpg?tf=1200x' alt='Alerta por precipitaciones en tu móvil: asegúrate que tienes activados los avisos de Protección Civil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/kindle-tienen-quien-temer-lector-kobo-barato-tiene-pantalla-color-audiolibros-1411422'>Los Kindle tienen a quién temer: este lector Kobo es más barato y tiene pantalla a color y audiolibros</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/kindle-tienen-quien-temer-lector-kobo-barato-tiene-pantalla-color-audiolibros-1411422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/kobo-libra-colour-4033130.jpg?tf=1200x' alt='Los Kindle tienen a quién temer: este lector Kobo es más barato y tiene pantalla a color y audiolibros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-alerta-estafas-ia-gmail-como-funcionan-debes-fijarte-1411627'>Google alerta por las estafas con IA en Gmail: cómo funcionan y en qué debes fijarte</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/google-alerta-estafas-ia-gmail-como-funcionan-debes-fijarte-1411627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-alerta-estafas-ia-gmail-como-funcionan-debes-fijarte-4249458.jpg?tf=1200x' alt='Google alerta por las estafas con IA en Gmail: cómo funcionan y en qué debes fijarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-chrome-comienza-desactivar-primeras-extensiones-bloquear-anuncios-1-1411621'>Google Chrome comienza a desactivar las primeras extensiones para bloquear anuncios</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-chrome-comienza-desactivar-primeras-extensiones-bloquear-anuncios-1-1411621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-chrome-cumple-amenaza-comienza-desactivar-primeras-extensiones-bloquear-anuncios-4249396.jpg?tf=1200x' alt='Google Chrome comienza a desactivar las primeras extensiones para bloquear anuncios' />
     </a>
 </div>
 
