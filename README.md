@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tres-situaciones-siempre-deberias-mentir-internet-1411458'>Tres situaciones en las que siempre deberías mentir en internet (y no sentirte mal por ello)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tres-situaciones-siempre-deberias-mentir-internet-1411458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mentir-internet-4249134.jpg?tf=1200x' alt='Tres situaciones en las que siempre deberías mentir en internet (y no sentirte mal por ello)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-salir-grupo-whatsapp-nadie-sepa-1411121'>Cómo salir de un grupo de WhatsApp sin que nadie lo sepa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-salir-grupo-whatsapp-nadie-sepa-1411121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-salir-grupo-whatsapp-nadie-sepa-4248546.jpg?tf=1200x' alt='Cómo salir de un grupo de WhatsApp sin que nadie lo sepa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/mirilla-digital-permiso-vecinos-instalacion-1411119'>Mirilla digital: ¿es necesario el permiso de los vecinos si quieres instalar una?</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/mirilla-digital-permiso-vecinos-instalacion-1411119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mirilla-digital-necesario-permiso-vecinos-quieres-instalar-4248544.jpg?tf=1200x' alt='Mirilla digital: ¿es necesario el permiso de los vecinos si quieres instalar una?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/funciones-ocultas-netflix-seguramente-no-conocias-1408183'>Funciones ocultas de Netflix que seguramente no conocías (y que no son las que todo el mundo conoce)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/funciones-ocultas-netflix-seguramente-no-conocias-1408183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/funciones-ocultas-netflix-seguramente-no-conocias-no-son-todo-mundo-conoce-4243739.jpg?tf=1200x' alt='Funciones ocultas de Netflix que seguramente no conocías (y que no son las que todo el mundo conoce)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pulsera-inteligente-xiaomi-55-euros-1406423'>No es un reloj, es una pulsera inteligente de Xiaomi que lo tiene casi todo, y por solo 55 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pulsera-inteligente-xiaomi-55-euros-1406423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-band-8-pro-3290705.jpg?tf=1200x' alt='No es un reloj, es una pulsera inteligente de Xiaomi que lo tiene casi todo, y por solo 55 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/estudio-desaconseja-usar-movil-smartwatch-cama-bacterias-1411586'>Un estudio desaconseja usar el móvil o el smartwatch en la cama, no es por la luz azul</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/estudio-desaconseja-usar-movil-smartwatch-cama-bacterias-1411586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estudio-desaconseja-usar-movil-cama-no-luz-azul-4249288.jpg?tf=1200x' alt='Un estudio desaconseja usar el móvil o el smartwatch en la cama, no es por la luz azul' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fujifilm-x-m5-camara-mirrorless-ligera-principiantes-1411574'>Fujifilm X-M5, la nueva cámara sin espejo ligera y retro, ideal para principiantes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/fujifilm-x-m5-camara-mirrorless-ligera-principiantes-1411574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fujifilm-x-m5-nueva-camara-espejo-ligera-retro-ideal-principiantes-4249268.jpg?tf=1200x' alt='Fujifilm X-M5, la nueva cámara sin espejo ligera y retro, ideal para principiantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ni-google-maps-ni-waze-estas-son-apps-navegacion-android-auto-menos-bateria-consumen-1411563'>Ni Google Maps ni Waze, estas son las apps de navegación para Android Auto que menos batería consumen</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ni-google-maps-ni-waze-estas-son-apps-navegacion-android-auto-menos-bateria-consumen-1411563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/aplicacion-navegacion-4249272.jpg?tf=1200x' alt='Ni Google Maps ni Waze, estas son las apps de navegación para Android Auto que menos batería consumen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/acumula-calderilla-bolsillos-durante-70-anos-han-tardado-5-dias-contarlo-cifra-da-cuantos-caprichos-1411557'>Acumula la calderilla de sus bolsillos durante 70 años: han tardado 5 días en contarlo y la cifra da para unos cuantos caprichos</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/acumula-calderilla-bolsillos-durante-70-anos-han-tardado-5-dias-contarlo-cifra-da-cuantos-caprichos-1411557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/acumula-calderilla-bolsillos-durante-70-anos-han-tardado-5-dias-contarlo-cifra-da-cuantos-caprichos-4249261.jpg?tf=1200x' alt='Acumula la calderilla de sus bolsillos durante 70 años: han tardado 5 días en contarlo y la cifra da para unos cuantos caprichos' />
     </a>
 </div>
 
