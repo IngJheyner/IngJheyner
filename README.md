@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-inteligencia-artificial-ya-miente-como-humanos-chatgpt-lleva-palma-1410720'>Un estudio lo demuestra: la inteligencia artificial ya miente como los humanos, y ChatGPT se lleva la palma</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-inteligencia-artificial-ya-miente-como-humanos-chatgpt-lleva-palma-1410720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estudio-demuestra-inteligencia-artificial-ya-miente-como-humanos-chatgpt-lleva-palma-4247869.jpg?tf=1200x' alt='Un estudio lo demuestra: la inteligencia artificial ya miente como los humanos, y ChatGPT se lleva la palma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-renueva-ipad-mini-potencia-mano-a17-pro-compatibilidad-apple-intelligence-1411775'>Apple renueva el iPad mini con toda la potencia del A17 Pro y compatibilidad con Apple Intelligence</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-renueva-ipad-mini-potencia-mano-a17-pro-compatibilidad-apple-intelligence-1411775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ipad-mini-apple-4249668.jpg?tf=1200x' alt='Apple renueva el iPad mini con toda la potencia del A17 Pro y compatibilidad con Apple Intelligence' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/estos-dos-proyectores-xgimi-4k-sonido-top-quieren-te-despidas-tv-tradicional-1411721'>Estos dos proyectores de Xgimi con 4K y sonido top quieren que te despidas de la TV tradicional</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/estos-dos-proyectores-xgimi-4k-sonido-top-quieren-te-despidas-tv-tradicional-1411721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/proyectores-xgimi-4249559.jpg?tf=1200x' alt='Estos dos proyectores de Xgimi con 4K y sonido top quieren que te despidas de la TV tradicional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adios-contrasenas-pronto-podras-modificar-claves-acceso-gestores-contrasenas-1411676'>Adiós a las contraseñas: pronto podrás modificar tus claves de acceso entre gestores de contraseñas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/adios-contrasenas-pronto-podras-modificar-claves-acceso-gestores-contrasenas-1411676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/adios-contrasenas-dentro-poco-podras-modificar-claves-acceso-gestores-contrasenas-4249496.jpg?tf=1200x' alt='Adiós a las contraseñas: pronto podrás modificar tus claves de acceso entre gestores de contraseñas' />
     </a>
 </div>
 
