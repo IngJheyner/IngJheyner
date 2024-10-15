@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/descubren-nintendo-usando-emuladores-windows-museo-nintendo-1411897'>Descubren que Nintendo está usando emuladores de Windows en los juegos que hay en su museo</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/gaming/descubren-nintendo-usando-emuladores-windows-museo-nintendo-1411897'>Descubren que Nintendo está usando emuladores Windows con los juegos que hay en su museo</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/descubren-nintendo-usando-emuladores-windows-museo-nintendo-1411897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/museo-nintendo-3990644.jpg?tf=1200x' alt='Descubren que Nintendo está usando emuladores de Windows en los juegos que hay en su museo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/museo-nintendo-3990644.jpg?tf=1200x' alt='Descubren que Nintendo está usando emuladores Windows con los juegos que hay en su museo' />
     </a>
 </div>
 
