@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/instalar-emuladores-iphone-steve-jobs-jugar-playstation-mac-1411711'>No puedes instalar emuladores en tu iPhone, pero Steve Jobs presumía de poder jugar a la PlayStation en un Mac</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/instalar-emuladores-iphone-steve-jobs-jugar-playstation-mac-1411711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steve-jobs-4249574.jpg?tf=1200x' alt='No puedes instalar emuladores en tu iPhone, pero Steve Jobs presumía de poder jugar a la PlayStation en un Mac' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/medidas-acabar-iptv-estan-vulnerando-neutralidad-red-grave-problema-1411691'>Las medidas para acabar con IPTV están vulnerando la neutralidad de la red, y esto es un grave problema</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/medidas-acabar-iptv-estan-vulnerando-neutralidad-red-grave-problema-1411691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-4249691.jpg?tf=1200x' alt='Las medidas para acabar con IPTV están vulnerando la neutralidad de la red, y esto es un grave problema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cristales-almacenar-datos-superman-ya-son-realidad-pueden-guardar-informacion-durante-millones-anos-1411785'>Los cristales para almacenar datos de Superman ya son una realidad: pueden guardar información durante millones de años</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cristales-almacenar-datos-superman-ya-son-realidad-pueden-guardar-informacion-durante-millones-anos-1411785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cristales-almacenar-datos-superman-ya-son-realidad-pueden-guardar-informacion-durante-millones-anos-4249673.jpg?tf=1200x' alt='Los cristales para almacenar datos de Superman ya son una realidad: pueden guardar información durante millones de años' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/destapan-fraude-proceso-reciclaje-residuos-gracias-airtag-apple-1411663'>Destapan un fraude en el proceso de reciclaje de residuos gracias a las AirTag de Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/destapan-fraude-proceso-reciclaje-residuos-gracias-airtag-apple-1411663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/airtag-4249523.jpg?tf=1200x' alt='Destapan un fraude en el proceso de reciclaje de residuos gracias a las AirTag de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/conexion-5g-no-infalible-razon-puede-ir-lenta-movil-1411754'>La conexión 5G no es infalible, y esta es la razón por la que puede ir lenta en tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/conexion-5g-no-infalible-razon-puede-ir-lenta-movil-1411754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/increible-invento-instala-ventanas-mejorar-conexion-5g-4234470.jpg?tf=1200x' alt='La conexión 5G no es infalible, y esta es la razón por la que puede ir lenta en tu móvil' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/convierte-whatsapp-bunker-como-configurar-maximo-privacidad-1411474'>Convierte tu WhatsApp en un búnker: cómo configurar al máximo tu privacidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/convierte-whatsapp-bunker-como-configurar-maximo-privacidad-1411474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-4249189.jpg?tf=1200x' alt='Convierte tu WhatsApp en un búnker: cómo configurar al máximo tu privacidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-inteligencia-artificial-ya-miente-como-humanos-chatgpt-lleva-palma-1410720'>Un estudio lo demuestra: la inteligencia artificial ya miente como los humanos, y ChatGPT se lleva la palma</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-inteligencia-artificial-ya-miente-como-humanos-chatgpt-lleva-palma-1410720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estudio-demuestra-inteligencia-artificial-ya-miente-como-humanos-chatgpt-lleva-palma-4247869.jpg?tf=1200x' alt='Un estudio lo demuestra: la inteligencia artificial ya miente como los humanos, y ChatGPT se lleva la palma' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-recuperar-notificaciones-android-perdidas-eliminadas-error-1411285'>Cómo recuperar notificaciones de Android perdidas o eliminadas por error</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-recuperar-notificaciones-android-perdidas-eliminadas-error-1411285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/notificaciones-android-4249238.jpg?tf=1200x' alt='Cómo recuperar notificaciones de Android perdidas o eliminadas por error' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-renueva-ipad-mini-potencia-mano-a17-pro-compatibilidad-apple-intelligence-1411775'>Apple renueva el iPad mini con toda la potencia del A17 Pro y compatibilidad con Apple Intelligence</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-renueva-ipad-mini-potencia-mano-a17-pro-compatibilidad-apple-intelligence-1411775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ipad-mini-apple-4249668.jpg?tf=1200x' alt='Apple renueva el iPad mini con toda la potencia del A17 Pro y compatibilidad con Apple Intelligence' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/errores-debes-evitar-siempre-configurar-red-wifi-1408889'>10 errores que debes evitar siempre al configurar tu red WiFi </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/errores-debes-evitar-siempre-configurar-red-wifi-1408889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/router-wifi-stop-4249712.jpg?tf=1200x' alt='10 errores que debes evitar siempre al configurar tu red WiFi ' />
     </a>
 </div>
 
