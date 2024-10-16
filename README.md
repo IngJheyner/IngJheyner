@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-presenta-nueva-familia-kindle-primer-libro-electronico-color-historia-marca-1411994'>Amazon presenta nueva familia Kindle con el primer libro electrónico a color en la historia de la marca</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-presenta-nueva-familia-kindle-primer-libro-electronico-color-historia-marca-1411994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kindle-colorsoft-signature-edition-4250025.jpg?tf=1200x' alt='Amazon presenta nueva familia Kindle con el primer libro electrónico a color en la historia de la marca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/metro-madrid-llegan-semaforos-pasajeros-trenes-codigo-colores-como-funcionan-1412005'>Metro de Madrid, llegan los semáforos para pasajeros a los trenes: código de colores y cómo funcionan</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/metro-madrid-llegan-semaforos-pasajeros-trenes-codigo-colores-como-funcionan-1412005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/metro-madrid-llegan-semaforos-pasajeros-trenes-codigo-colores-como-funcionan-4250072.jpg?tf=1200x' alt='Metro de Madrid, llegan los semáforos para pasajeros a los trenes: código de colores y cómo funcionan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/truco-te-permite-recuperar-antigua-version-outlook-forma-permanente-1411983'>Este truco te permite recuperar la antigua versión de Outlook de forma permanente</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/truco-te-permite-recuperar-antigua-version-outlook-forma-permanente-1411983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/truco-te-permite-recuperar-antigua-version-outlook-forma-permanente-4250022.jpg?tf=1200x' alt='Este truco te permite recuperar la antigua versión de Outlook de forma permanente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/recibira-ios-19-iphone-tendras-cambiar-movil-2025-1412015'>¿Recibirá iOS 19 tu iPhone o tendrás que cambiar de móvil en 2025?</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/recibira-ios-19-iphone-tendras-cambiar-movil-2025-1412015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-15-pro-4248461.jpg?tf=1200x' alt='¿Recibirá iOS 19 tu iPhone o tendrás que cambiar de móvil en 2025?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/cuales-son-planes-tesla-robotaxis-puedan-conducir-forma-autonoma-1411998'>Cuáles son los planes de Tesla para que sus robotaxis puedan conducir de forma autónoma</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/cuales-son-planes-tesla-robotaxis-puedan-conducir-forma-autonoma-1411998' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/elon-musk-robotaxi-4249995.jpg?tf=1200x' alt='Cuáles son los planes de Tesla para que sus robotaxis puedan conducir de forma autónoma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-suunto-running-trail-barato-nunca-pone-aprietos-garmin-1411597'>Este reloj Suunto para running y trail es más barato que nunca y pone en aprietos a Garmin</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/reloj-suunto-running-trail-barato-nunca-pone-aprietos-garmin-1411597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/suunto-9-peak-pro-4244882.jpg?tf=1200x' alt='Este reloj Suunto para running y trail es más barato que nunca y pone en aprietos a Garmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/herramienta-ia-condeno-cadena-perpetua-criminal-ahora-pruebas-no-son-tan-claras-1411996'>Esta herramienta de IA condenó a cadena perpetua a un criminal y ahora las pruebas no son tan claras</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/herramienta-ia-condeno-cadena-perpetua-criminal-ahora-pruebas-no-son-tan-claras-1411996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-legal-4249988.jpg?tf=1200x' alt='Esta herramienta de IA condenó a cadena perpetua a un criminal y ahora las pruebas no son tan claras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-presenta-nueva-familia-kindle-primer-libro-electronico-color-historia-marca-1411994'>Amazon presenta nueva familia Kindle con el primer libro electrónico a color en la historia de la marca</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-presenta-nueva-familia-kindle-primer-libro-electronico-color-historia-marca-1411994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kindle-colorsoft-signature-edition-4250025.jpg?tf=1200x' alt='Amazon presenta nueva familia Kindle con el primer libro electrónico a color en la historia de la marca' />
     </a>
 </div>
 
