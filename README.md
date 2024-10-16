@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/hace-25-anos-fracaso-estrepitosamente-paso-cines-pero-ahora-clasico-culto-millennials-1412086'>Hace 25 años fracasó estrepitosamente en su paso por los cines, pero ahora es un clásico de culto para los millennials</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/hace-25-anos-fracaso-estrepitosamente-paso-cines-pero-ahora-clasico-culto-millennials-1412086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/club-lucha-2520259.jpg?tf=1200x' alt='Hace 25 años fracasó estrepitosamente en su paso por los cines, pero ahora es un clásico de culto para los millennials' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/te-sientes-bien-viendo-parque-jurasico-indiana-jones-peliculas-infancia-explica-ciencia-1411346'>¿Te sientes bien viendo Parque Jurásico, Indiana Jones o las películas de tu infancia? Así lo explica la ciencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/te-sientes-bien-viendo-parque-jurasico-indiana-jones-peliculas-infancia-explica-ciencia-1411346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/te-sientes-bien-viendo-parque-jurasico-indiana-jones-cualquier-pelicula-infancia-explica-ciencia-4248925.jpg?tf=1200x' alt='¿Te sientes bien viendo Parque Jurásico, Indiana Jones o las películas de tu infancia? Así lo explica la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/necesitas-ver-television-dormirte-nuevo-estudio-explica-porque-1412101'>¿Necesitas ver la televisión para dormirte? Un nuevo estudio explica el porqué</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/necesitas-ver-television-dormirte-nuevo-estudio-explica-porque-1412101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/necesitas-ver-television-dormirte-nuevo-estudio-explica-porque-4250168.jpg?tf=1200x' alt='¿Necesitas ver la televisión para dormirte? Un nuevo estudio explica el porqué' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ves-enchufes-cambialos-inmediato-seguridad-advierten-electricistas-evitar-incendios-1411740'>“Si ves esto en tus enchufes, cámbialos de inmediato por seguridad”: esto es lo que advierten los electricistas para evitar incendios</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ves-enchufes-cambialos-inmediato-seguridad-advierten-electricistas-evitar-incendios-1411740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enchufe-ardiendo-4249607.jpg?tf=1200x' alt='“Si ves esto en tus enchufes, cámbialos de inmediato por seguridad”: esto es lo que advierten los electricistas para evitar incendios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-poner-fondos-personalizados-videollamadas-whatsapp-1411284'>Cómo poner fondos personalizados a tus videollamadas de WhatsApp</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-poner-fondos-personalizados-videollamadas-whatsapp-1411284' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/videollamada-whatsapp-4249318.jpg?tf=1200x' alt='Cómo poner fondos personalizados a tus videollamadas de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-proteger-movil-ataque-bluetooth-desactivarlo-1411283'>Cómo proteger tu móvil de ataque por Bluetooth sin tener que desactivarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-proteger-movil-ataque-bluetooth-desactivarlo-1411283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/alerta-bluetooth-4248861.jpg?tf=1200x' alt='Cómo proteger tu móvil de ataque por Bluetooth sin tener que desactivarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/funciones-ocultas-youtube-casi-nadie-utiliza-1411031'>Funciones ocultas de YouTube que te harán la vida más fácil y que casi nadie utiliza</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/funciones-ocultas-youtube-casi-nadie-utiliza-1411031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/funciones-secretas-youtube-4250180.jpg?tf=1200x' alt='Funciones ocultas de YouTube que te harán la vida más fácil y que casi nadie utiliza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/descubren-nuevo-beneficio-placas-solares-ha-convertido-refugio-abejas-1411997'>Descubren un nuevo beneficio de las placas solares: se ha convertido en un refugio para las abejas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/descubren-nuevo-beneficio-placas-solares-ha-convertido-refugio-abejas-1411997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/paneles-solares-4250034.jpg?tf=1200x' alt='Descubren un nuevo beneficio de las placas solares: se ha convertido en un refugio para las abejas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/equipo-fisicos-espanoles-sorprende-mundo-ciencia-nuevo-enfoque-teoria-albert-einstein-espacio-tiempo-1412055'>Un equipo de físicos españoles sorprende al mundo de la ciencia con su nuevo enfoque de la teoría de Albert Einstein sobre el espacio-tiempo</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/equipo-fisicos-espanoles-sorprende-mundo-ciencia-nuevo-enfoque-teoria-albert-einstein-espacio-tiempo-1412055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fisicos-ensenando-imagen-espacio-4250102.jpg?tf=1200x' alt='Un equipo de físicos españoles sorprende al mundo de la ciencia con su nuevo enfoque de la teoría de Albert Einstein sobre el espacio-tiempo' />
     </a>
 </div>
 
