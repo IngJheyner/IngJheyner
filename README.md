@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/recibira-ios-19-iphone-tendras-cambiar-movil-2025-1412015'>¿Recibirá iOS 19 tu iPhone o tendrás que cambiar de móvil en 2025?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/recibira-ios-19-iphone-tendras-cambiar-movil-2025-1412015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-15-pro-4248461.jpg?tf=1200x' alt='¿Recibirá iOS 19 tu iPhone o tendrás que cambiar de móvil en 2025?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/cuales-son-planes-tesla-robotaxis-puedan-conducir-forma-autonoma-1411998'>Cuáles son los planes de Tesla para que sus robotaxis puedan conducir de forma autónoma</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/cuales-son-planes-tesla-robotaxis-puedan-conducir-forma-autonoma-1411998' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/elon-musk-robotaxi-4249995.jpg?tf=1200x' alt='Cuáles son los planes de Tesla para que sus robotaxis puedan conducir de forma autónoma' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-presenta-nueva-familia-kindle-primer-libro-electronico-color-historia-marca-1411994'>Amazon presenta nueva familia Kindle con el primer libro electrónico a color en la historia de la marca</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/amazon-presenta-nueva-familia-kindle-primer-libro-electronico-color-historia-marca-1411994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kindle-colorsoft-signature-edition-4250025.jpg?tf=1200x' alt='Amazon presenta nueva familia Kindle con el primer libro electrónico a color en la historia de la marca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/pronto-podras-crear-imagenes-gemini-forma-tamano-quieras-1411960'>Pronto podrás crear imágenes en Gemini con la forma y tamaño que quieras</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/pronto-podras-crear-imagenes-gemini-forma-tamano-quieras-1411960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gemini-ia-google-3298187.jpg?tf=1200x' alt='Pronto podrás crear imágenes en Gemini con la forma y tamaño que quieras' />
     </a>
 </div>
 
