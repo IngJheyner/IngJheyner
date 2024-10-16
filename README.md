@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-poner-fondos-personalizados-videollamadas-whatsapp-1411284'>Cómo poner fondos personalizados a tus videollamadas de WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-poner-fondos-personalizados-videollamadas-whatsapp-1411284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/videollamada-whatsapp-4249318.jpg?tf=1200x' alt='Cómo poner fondos personalizados a tus videollamadas de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-proteger-movil-ataque-bluetooth-desactivarlo-1411283'>Cómo proteger tu móvil de ataque por Bluetooth sin tener que desactivarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-proteger-movil-ataque-bluetooth-desactivarlo-1411283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/alerta-bluetooth-4248861.jpg?tf=1200x' alt='Cómo proteger tu móvil de ataque por Bluetooth sin tener que desactivarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/funciones-ocultas-youtube-casi-nadie-utiliza-1411031'>Funciones ocultas de YouTube que te harán la vida más fácil y que casi nadie utiliza</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/funciones-ocultas-youtube-casi-nadie-utiliza-1411031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/funciones-secretas-youtube-4250180.jpg?tf=1200x' alt='Funciones ocultas de YouTube que te harán la vida más fácil y que casi nadie utiliza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/descubren-nuevo-beneficio-placas-solares-ha-convertido-refugio-abejas-1411997'>Descubren un nuevo beneficio de las placas solares: se ha convertido en un refugio para las abejas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/descubren-nuevo-beneficio-placas-solares-ha-convertido-refugio-abejas-1411997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/paneles-solares-4250034.jpg?tf=1200x' alt='Descubren un nuevo beneficio de las placas solares: se ha convertido en un refugio para las abejas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/equipo-fisicos-espanoles-sorprende-mundo-ciencia-nuevo-enfoque-teoria-albert-einstein-espacio-tiempo-1412055'>Un equipo de físicos españoles sorprende al mundo de la ciencia con su nuevo enfoque de la teoría de Albert Einstein sobre el espacio-tiempo</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/equipo-fisicos-espanoles-sorprende-mundo-ciencia-nuevo-enfoque-teoria-albert-einstein-espacio-tiempo-1412055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fisicos-ensenando-imagen-espacio-4250102.jpg?tf=1200x' alt='Un equipo de físicos españoles sorprende al mundo de la ciencia con su nuevo enfoque de la teoría de Albert Einstein sobre el espacio-tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/euclid-muestra-primera-pagina-mayor-mapa-3d-universo-14-millones-galaxias-1412016'>Euclid muestra la primera página del mayor mapa en 3D del universo con 14 millones de galaxias</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/euclid-muestra-primera-pagina-mayor-mapa-3d-universo-14-millones-galaxias-1412016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/euclid-muestra-primera-pagina-mayor-mapa-3d-universo-14-millones-galaxias-4250048.jpg?tf=1200x' alt='Euclid muestra la primera página del mayor mapa en 3D del universo con 14 millones de galaxias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-presenta-nueva-familia-kindle-primer-libro-electronico-color-historia-marca-1411994'>Amazon presenta nueva familia Kindle con el primer libro electrónico a color en la historia de la marca</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-presenta-nueva-familia-kindle-primer-libro-electronico-color-historia-marca-1411994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kindle-colorsoft-signature-edition-4250025.jpg?tf=1200x' alt='Amazon presenta nueva familia Kindle con el primer libro electrónico a color en la historia de la marca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/metro-madrid-llegan-semaforos-pasajeros-trenes-codigo-colores-como-funcionan-1412005'>Metro de Madrid, llegan los semáforos para pasajeros a los trenes: código de colores y cómo funcionan</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/metro-madrid-llegan-semaforos-pasajeros-trenes-codigo-colores-como-funcionan-1412005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/metro-madrid-llegan-semaforos-pasajeros-trenes-codigo-colores-como-funcionan-4250072.jpg?tf=1200x' alt='Metro de Madrid, llegan los semáforos para pasajeros a los trenes: código de colores y cómo funcionan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/truco-te-permite-recuperar-antigua-version-outlook-forma-permanente-1411983'>Este truco te permite recuperar la antigua versión de Outlook de forma permanente</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/truco-te-permite-recuperar-antigua-version-outlook-forma-permanente-1411983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/truco-te-permite-recuperar-antigua-version-outlook-forma-permanente-4250022.jpg?tf=1200x' alt='Este truco te permite recuperar la antigua versión de Outlook de forma permanente' />
     </a>
 </div>
 
