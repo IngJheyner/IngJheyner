@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/cuales-son-planes-tesla-robotaxis-puedan-conducir-forma-autonoma-1411998'>Cuáles son los planes de Tesla para que sus robotaxis puedan conducir de forma autónoma</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/cuales-son-planes-tesla-robotaxis-puedan-conducir-forma-autonoma-1411998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/elon-musk-robotaxi-4249995.jpg?tf=1200x' alt='Cuáles son los planes de Tesla para que sus robotaxis puedan conducir de forma autónoma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-suunto-running-trail-barato-nunca-pone-aprietos-garmin-1411597'>Este reloj Suunto para running y trail es más barato que nunca y pone en aprietos a Garmin</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/reloj-suunto-running-trail-barato-nunca-pone-aprietos-garmin-1411597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/suunto-9-peak-pro-4244882.jpg?tf=1200x' alt='Este reloj Suunto para running y trail es más barato que nunca y pone en aprietos a Garmin' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/pronto-podras-crear-imagenes-gemini-forma-tamano-quieras-1411960'>Pronto podrás crear imágenes en Gemini con la forma y tamaño que quieras</a></h4>
     <a href='https://computerhoy.20minutos.es/google/pronto-podras-crear-imagenes-gemini-forma-tamano-quieras-1411960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gemini-ia-google-3298187.jpg?tf=1200x' alt='Pronto podrás crear imágenes en Gemini con la forma y tamaño que quieras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/moto-ai-consiste-como-usar-inteligencia-artificial-apuesta-motorola-1411949'>Moto AI: en qué consiste y cómo usar la inteligencia artificial por la que apuesta Motorola</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/moto-ai-consiste-como-usar-inteligencia-artificial-apuesta-motorola-1411949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/opiniones-motorola-razr-50-4086032.jpg?tf=1200x' alt='Moto AI: en qué consiste y cómo usar la inteligencia artificial por la que apuesta Motorola' />
     </a>
 </div>
 
