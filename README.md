@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/moto-ai-consiste-como-usar-inteligencia-artificial-apuesta-motorola-1411949'>Moto AI: en qué consiste y cómo usar la inteligencia artificial por la que apuesta Motorola</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/moto-ai-consiste-como-usar-inteligencia-artificial-apuesta-motorola-1411949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/opiniones-motorola-razr-50-4086032.jpg?tf=1200x' alt='Moto AI: en qué consiste y cómo usar la inteligencia artificial por la que apuesta Motorola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/instagram-lanza-tarjetas-perfiles-puedas-agregar-amigos-facilmente-1411942'>Instagram lanza tarjetas de perfiles para que puedas agregar a tus amigos más fácilmente</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/instagram-lanza-tarjetas-perfiles-puedas-agregar-amigos-facilmente-1411942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/instagram-lanza-tarjetas-perfiles-puedas-agregar-amigos-facilmente-4249972.jpg?tf=1200x' alt='Instagram lanza tarjetas de perfiles para que puedas agregar a tus amigos más fácilmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/alibaba-desafia-google-chatgpt-nueva-herramienta-traduccion-ia-1411948'>Alibaba desafía a Google y ChatGPT con su nueva herramienta de traducción con IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/alibaba-desafia-google-chatgpt-nueva-herramienta-traduccion-ia-1411948' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ilustacion-logo-alibaba-3186728.jpg?tf=1200x' alt='Alibaba desafía a Google y ChatGPT con su nueva herramienta de traducción con IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/nunca-compres-producto-primera-generacion-pero-plegable-xiaomi-me-ha-parecido-excepcion-1409638'>Nunca compres un producto de primera generación, pero este plegable de Xiaomi me ha parecido la excepción</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/nunca-compres-producto-primera-generacion-pero-plegable-xiaomi-me-ha-parecido-excepcion-1409638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-mix-flip-4246631.jpg?tf=1200x' alt='Nunca compres un producto de primera generación, pero este plegable de Xiaomi me ha parecido la excepción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-mini-pc-acemagician-ryzen-9-ha-sustituido-mi-antiguo-pc-mejor-grafica-1409939'>He probado este mini PC de Acemagician con Ryzen 9 y ha sustituido mi antiguo ordenador con mejor gráfica</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-mini-pc-acemagician-ryzen-9-ha-sustituido-mi-antiguo-pc-mejor-grafica-1409939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/acemagician-am08pro-4246627.jpg?tf=1200x' alt='He probado este mini PC de Acemagician con Ryzen 9 y ha sustituido mi antiguo ordenador con mejor gráfica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/trucos-mejorar-rendimiento-windows-realidad-no-sirven-nada-1411581'>Trucos para mejorar el rendimiento de Windows que en realidad no sirven para nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/trucos-mejorar-rendimiento-windows-realidad-no-sirven-nada-1411581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/trucos-mejorar-rendimiento-windows-realidad-no-sirven-nada-4249335.jpg?tf=1200x' alt='Trucos para mejorar el rendimiento de Windows que en realidad no sirven para nada' />
     </a>
 </div>
 
