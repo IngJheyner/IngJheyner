@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-flight-simulator-2024-obliga-jugar-nube-descarga-81-gb-hora-1411908'>Microsoft Flight Simulator 2024 obliga a jugar en la nube y descarga hasta 81 GB a la hora</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/microsoft-flight-simulator-2024-obliga-jugar-nube-descarga-81-gb-hora-1411908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/microsoft-flight-simulator-2024-obliga-jugar-nube-descarga-81-gb-hora-4249924.jpg?tf=1200x' alt='Microsoft Flight Simulator 2024 obliga a jugar en la nube y descarga hasta 81 GB a la hora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/descubren-nintendo-usando-emuladores-windows-museo-nintendo-1411897'>Descubren que Nintendo está usando emuladores Windows con los juegos que hay en su museo</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/descubren-nintendo-usando-emuladores-windows-museo-nintendo-1411897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/museo-nintendo-3990644.jpg?tf=1200x' alt='Descubren que Nintendo está usando emuladores Windows con los juegos que hay en su museo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/android-15-estrena-moviles-google-pixel-novedades-1411875'>Android 15 se estrena en los móviles Google Pixel con muchas novedades de peso</a></h4>
     <a href='https://computerhoy.20minutos.es/google/android-15-estrena-moviles-google-pixel-novedades-1411875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-15-estrena-moviles-google-pixel-muchas-novedades-peso-4249843.jpg?tf=1200x' alt='Android 15 se estrena en los móviles Google Pixel con muchas novedades de peso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-office-aviso-urgente-fin-soporte-inminente-dos-versiones-populares-1411872'>Microsoft Office: aviso urgente sobre el fin de soporte inminente de dos de las versiones más populares</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-office-aviso-urgente-fin-soporte-inminente-dos-versiones-populares-1411872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/microsoft-office-2024-4249855.jpg?tf=1200x' alt='Microsoft Office: aviso urgente sobre el fin de soporte inminente de dos de las versiones más populares' />
     </a>
 </div>
 
