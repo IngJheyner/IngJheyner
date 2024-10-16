@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/equipo-fisicos-espanoles-sorprende-mundo-ciencia-nuevo-enfoque-teoria-albert-einstein-espacio-tiempo-1412055'>Un equipo de físicos españoles sorprende al mundo de la ciencia con su nuevo enfoque de la teoría de Albert Einstein sobre el espacio-tiempo</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/equipo-fisicos-espanoles-sorprende-mundo-ciencia-nuevo-enfoque-teoria-albert-einstein-espacio-tiempo-1412055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fisicos-ensenando-imagen-espacio-4250102.jpg?tf=1200x' alt='Un equipo de físicos españoles sorprende al mundo de la ciencia con su nuevo enfoque de la teoría de Albert Einstein sobre el espacio-tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/euclid-muestra-primera-pagina-mayor-mapa-3d-universo-14-millones-galaxias-1412016'>Euclid muestra la primera página del mayor mapa en 3D del universo con 14 millones de galaxias</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/euclid-muestra-primera-pagina-mayor-mapa-3d-universo-14-millones-galaxias-1412016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/euclid-muestra-primera-pagina-mayor-mapa-3d-universo-14-millones-galaxias-4250048.jpg?tf=1200x' alt='Euclid muestra la primera página del mayor mapa en 3D del universo con 14 millones de galaxias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/truco-te-permite-recuperar-antigua-version-outlook-forma-permanente-1411983'>Este truco te permite recuperar la antigua versión de Outlook de forma permanente</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/truco-te-permite-recuperar-antigua-version-outlook-forma-permanente-1411983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/truco-te-permite-recuperar-antigua-version-outlook-forma-permanente-4250022.jpg?tf=1200x' alt='Este truco te permite recuperar la antigua versión de Outlook de forma permanente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/recibira-ios-19-iphone-tendras-cambiar-movil-2025-1412015'>¿Recibirá iOS 19 tu iPhone o tendrás que cambiar de móvil en 2025?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/recibira-ios-19-iphone-tendras-cambiar-movil-2025-1412015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-15-pro-4248461.jpg?tf=1200x' alt='¿Recibirá iOS 19 tu iPhone o tendrás que cambiar de móvil en 2025?' />
     </a>
 </div>
 
