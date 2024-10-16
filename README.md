@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ipad-barato-vuelve-bajar-precio-casi-200-euros-menos-1412187'>El iPad más barato vuelve a bajar de precio: casi 200 euros menos que su precio de lanzamiento, aunque se queda sin cargador</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ipad-barato-vuelve-bajar-precio-casi-200-euros-menos-1412187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ipad-barato-vuelve-bajar-precio-casi-200-euros-menos-precio-lanzamiento-aunque-queda-cargador-4250326.jpg?tf=1200x' alt='El iPad más barato vuelve a bajar de precio: casi 200 euros menos que su precio de lanzamiento, aunque se queda sin cargador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/iphone-pro-cuesta-mitad-nuevos-1411437'>Este iPhone es Pro y cuesta la mitad que uno de los nuevos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/iphone-pro-cuesta-mitad-nuevos-1411437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-2705001.jpg?tf=1200x' alt='Este iPhone es Pro y cuesta la mitad que uno de los nuevos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/tema-oscuro-whatsapp-ha-cambiado-ni-te-diste-cuenta-hay-buen-motivo-ello-1412174'>El tema oscuro de WhatsApp ha cambiado y ni te diste cuenta: hay un buen motivo para ello</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/tema-oscuro-whatsapp-ha-cambiado-ni-te-diste-cuenta-hay-buen-motivo-ello-1412174' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tema-oscuro-whatsapp-ha-cambiado-ni-te-diste-cuenta-hay-buen-motivo-ello-4250313.jpg?tf=1200x' alt='El tema oscuro de WhatsApp ha cambiado y ni te diste cuenta: hay un buen motivo para ello' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/podrias-tardar-bastante-ver-juegos-playstation-6-saquen-maximo-provecho-hardware-dicen-expertos-1412166'>Podrías tardar bastante en ver juegos en PlayStation 6 que saquen el máximo provecho de su hardware, dicen expertos</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/podrias-tardar-bastante-ver-juegos-playstation-6-saquen-maximo-provecho-hardware-dicen-expertos-1412166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/reimaginacion-mando-playstation-4250301.jpg?tf=1200x' alt='Podrías tardar bastante en ver juegos en PlayStation 6 que saquen el máximo provecho de su hardware, dicen expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/ya-disponible-windows-tiny11-24h2-version-ultra-compacta-windows-dvd-1412165'>Ya disponible Windows Tiny11 24H2, la versión ultra compacta de Windows que cabe en un DVD</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/ya-disponible-windows-tiny11-24h2-version-ultra-compacta-windows-dvd-1412165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-ligero-4250291.jpg?tf=1200x' alt='Ya disponible Windows Tiny11 24H2, la versión ultra compacta de Windows que cabe en un DVD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/hace-25-anos-fracaso-estrepitosamente-paso-cines-pero-ahora-clasico-culto-millennials-1412086'>Hace 25 años fracasó estrepitosamente en su paso por los cines, pero ahora es un clásico de culto para los millennials</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/hace-25-anos-fracaso-estrepitosamente-paso-cines-pero-ahora-clasico-culto-millennials-1412086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/club-lucha-2520259.jpg?tf=1200x' alt='Hace 25 años fracasó estrepitosamente en su paso por los cines, pero ahora es un clásico de culto para los millennials' />
     </a>
 </div>
 
