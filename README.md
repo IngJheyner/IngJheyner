@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/tema-oscuro-whatsapp-ha-cambiado-ni-te-diste-cuenta-hay-buen-motivo-ello-1412174'>El tema oscuro de WhatsApp ha cambiado y ni te diste cuenta: hay un buen motivo para ello</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tema-oscuro-whatsapp-ha-cambiado-ni-te-diste-cuenta-hay-buen-motivo-ello-1412174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tema-oscuro-whatsapp-ha-cambiado-ni-te-diste-cuenta-hay-buen-motivo-ello-4250313.jpg?tf=1200x' alt='El tema oscuro de WhatsApp ha cambiado y ni te diste cuenta: hay un buen motivo para ello' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/intel-amd-alian-salvar-x86-frente-arm-qualcomm-apple-1412172'>Intel y AMD se alían para salvar x86 frente al ascenso de ARM, Qualcomm y Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/intel-amd-alian-salvar-x86-frente-arm-qualcomm-apple-1412172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/intel-amd-alian-salvar-x86-frente-ascenso-arm-4250236.jpg?tf=1200x' alt='Intel y AMD se alían para salvar x86 frente al ascenso de ARM, Qualcomm y Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/podrias-tardar-bastante-ver-juegos-playstation-6-saquen-maximo-provecho-hardware-dicen-expertos-1412166'>Podrías tardar bastante en ver juegos en PlayStation 6 que saquen el máximo provecho de su hardware, dicen expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/podrias-tardar-bastante-ver-juegos-playstation-6-saquen-maximo-provecho-hardware-dicen-expertos-1412166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/reimaginacion-mando-playstation-4250301.jpg?tf=1200x' alt='Podrías tardar bastante en ver juegos en PlayStation 6 que saquen el máximo provecho de su hardware, dicen expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/ya-disponible-windows-tiny11-24h2-version-ultra-compacta-windows-dvd-1412165'>Ya disponible Windows Tiny11 24H2, la versión ultra compacta de Windows que cabe en un DVD</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/ya-disponible-windows-tiny11-24h2-version-ultra-compacta-windows-dvd-1412165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-ligero-4250291.jpg?tf=1200x' alt='Ya disponible Windows Tiny11 24H2, la versión ultra compacta de Windows que cabe en un DVD' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/hace-25-anos-fracaso-estrepitosamente-paso-cines-pero-ahora-clasico-culto-millennials-1412086'>Hace 25 años fracasó estrepitosamente en su paso por los cines, pero ahora es un clásico de culto para los millennials</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/hace-25-anos-fracaso-estrepitosamente-paso-cines-pero-ahora-clasico-culto-millennials-1412086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/club-lucha-2520259.jpg?tf=1200x' alt='Hace 25 años fracasó estrepitosamente en su paso por los cines, pero ahora es un clásico de culto para los millennials' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/te-sientes-bien-viendo-parque-jurasico-indiana-jones-peliculas-infancia-explica-ciencia-1411346'>¿Te sientes bien viendo Parque Jurásico, Indiana Jones o las películas de tu infancia? Así lo explica la ciencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/te-sientes-bien-viendo-parque-jurasico-indiana-jones-peliculas-infancia-explica-ciencia-1411346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/te-sientes-bien-viendo-parque-jurasico-indiana-jones-cualquier-pelicula-infancia-explica-ciencia-4248925.jpg?tf=1200x' alt='¿Te sientes bien viendo Parque Jurásico, Indiana Jones o las películas de tu infancia? Así lo explica la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/necesitas-ver-television-dormirte-nuevo-estudio-explica-porque-1412101'>¿Necesitas ver la televisión para dormirte? Un nuevo estudio explica el porqué</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/necesitas-ver-television-dormirte-nuevo-estudio-explica-porque-1412101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/necesitas-ver-television-dormirte-nuevo-estudio-explica-porque-4250168.jpg?tf=1200x' alt='¿Necesitas ver la televisión para dormirte? Un nuevo estudio explica el porqué' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ves-enchufes-cambialos-inmediato-seguridad-advierten-electricistas-evitar-incendios-1411740'>“Si ves esto en tus enchufes, cámbialos de inmediato por seguridad”: esto es lo que advierten los electricistas para evitar incendios</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ves-enchufes-cambialos-inmediato-seguridad-advierten-electricistas-evitar-incendios-1411740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enchufe-ardiendo-4249607.jpg?tf=1200x' alt='“Si ves esto en tus enchufes, cámbialos de inmediato por seguridad”: esto es lo que advierten los electricistas para evitar incendios' />
     </a>
 </div>
 
