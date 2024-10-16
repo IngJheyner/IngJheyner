@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/ya-disponible-windows-tiny11-24h2-version-ultra-compacta-windows-dvd-1412165'>Ya disponible Windows Tiny11 24H2, la versión ultra compacta de Windows que cabe en un DVD</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/ya-disponible-windows-tiny11-24h2-version-ultra-compacta-windows-dvd-1412165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-ligero-4250291.jpg?tf=1200x' alt='Ya disponible Windows Tiny11 24H2, la versión ultra compacta de Windows que cabe en un DVD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/hace-25-anos-fracaso-estrepitosamente-paso-cines-pero-ahora-clasico-culto-millennials-1412086'>Hace 25 años fracasó estrepitosamente en su paso por los cines, pero ahora es un clásico de culto para los millennials</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/hace-25-anos-fracaso-estrepitosamente-paso-cines-pero-ahora-clasico-culto-millennials-1412086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/club-lucha-2520259.jpg?tf=1200x' alt='Hace 25 años fracasó estrepitosamente en su paso por los cines, pero ahora es un clásico de culto para los millennials' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ves-enchufes-cambialos-inmediato-seguridad-advierten-electricistas-evitar-incendios-1411740'>“Si ves esto en tus enchufes, cámbialos de inmediato por seguridad”: esto es lo que advierten los electricistas para evitar incendios</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ves-enchufes-cambialos-inmediato-seguridad-advierten-electricistas-evitar-incendios-1411740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enchufe-ardiendo-4249607.jpg?tf=1200x' alt='“Si ves esto en tus enchufes, cámbialos de inmediato por seguridad”: esto es lo que advierten los electricistas para evitar incendios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-poner-fondos-personalizados-videollamadas-whatsapp-1411284'>Cómo poner fondos personalizados a tus videollamadas de WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-poner-fondos-personalizados-videollamadas-whatsapp-1411284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/videollamada-whatsapp-4249318.jpg?tf=1200x' alt='Cómo poner fondos personalizados a tus videollamadas de WhatsApp' />
     </a>
 </div>
 
