@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-suunto-running-trail-barato-nunca-pone-aprietos-garmin-1411597'>Este reloj Suunto para running y trail es más barato que nunca y pone en aprietos a Garmin</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/reloj-suunto-running-trail-barato-nunca-pone-aprietos-garmin-1411597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/suunto-9-peak-pro-4244882.jpg?tf=1200x' alt='Este reloj Suunto para running y trail es más barato que nunca y pone en aprietos a Garmin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/herramienta-ia-condeno-cadena-perpetua-criminal-ahora-pruebas-no-son-tan-claras-1411996'>Esta herramienta de IA condenó a cadena perpetua a un criminal y ahora las pruebas no son tan claras</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/herramienta-ia-condeno-cadena-perpetua-criminal-ahora-pruebas-no-son-tan-claras-1411996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-legal-4249988.jpg?tf=1200x' alt='Esta herramienta de IA condenó a cadena perpetua a un criminal y ahora las pruebas no son tan claras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-presenta-nueva-familia-kindle-primer-libro-electronico-color-historia-marca-1411994'>Amazon presenta nueva familia Kindle con el primer libro electrónico a color en la historia de la marca</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-presenta-nueva-familia-kindle-primer-libro-electronico-color-historia-marca-1411994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kindle-colorsoft-signature-edition-4250025.jpg?tf=1200x' alt='Amazon presenta nueva familia Kindle con el primer libro electrónico a color en la historia de la marca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/pronto-podras-crear-imagenes-gemini-forma-tamano-quieras-1411960'>Pronto podrás crear imágenes en Gemini con la forma y tamaño que quieras</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/pronto-podras-crear-imagenes-gemini-forma-tamano-quieras-1411960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gemini-ia-google-3298187.jpg?tf=1200x' alt='Pronto podrás crear imágenes en Gemini con la forma y tamaño que quieras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/moto-ai-consiste-como-usar-inteligencia-artificial-apuesta-motorola-1411949'>Moto AI: en qué consiste y cómo usar la inteligencia artificial por la que apuesta Motorola</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/moto-ai-consiste-como-usar-inteligencia-artificial-apuesta-motorola-1411949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/opiniones-motorola-razr-50-4086032.jpg?tf=1200x' alt='Moto AI: en qué consiste y cómo usar la inteligencia artificial por la que apuesta Motorola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/instagram-lanza-tarjetas-perfiles-puedas-agregar-amigos-facilmente-1411942'>Instagram lanza tarjetas de perfiles para que puedas agregar a tus amigos más fácilmente</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/instagram-lanza-tarjetas-perfiles-puedas-agregar-amigos-facilmente-1411942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/instagram-lanza-tarjetas-perfiles-puedas-agregar-amigos-facilmente-4249972.jpg?tf=1200x' alt='Instagram lanza tarjetas de perfiles para que puedas agregar a tus amigos más fácilmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alibaba-desafia-google-chatgpt-nueva-herramienta-traduccion-ia-1411948'>Alibaba desafía a Google y ChatGPT con su nueva herramienta de traducción con IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alibaba-desafia-google-chatgpt-nueva-herramienta-traduccion-ia-1411948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ilustacion-logo-alibaba-3186728.jpg?tf=1200x' alt='Alibaba desafía a Google y ChatGPT con su nueva herramienta de traducción con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/sonos-arc-ultra-lleva-dolby-atmos-otro-nivel-caracteristicas-precio-1411934'>Sonos Arc Ultra lleva Dolby Atmos a otro nivel: características y precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/sonos-arc-ultra-lleva-dolby-atmos-otro-nivel-caracteristicas-precio-1411934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sonos-arc-ultra-4249957.jpg?tf=1200x' alt='Sonos Arc Ultra lleva Dolby Atmos a otro nivel: características y precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/nunca-compres-producto-primera-generacion-pero-plegable-xiaomi-me-ha-parecido-excepcion-1409638'>Nunca compres un producto de primera generación, pero este plegable de Xiaomi me ha parecido la excepción</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/nunca-compres-producto-primera-generacion-pero-plegable-xiaomi-me-ha-parecido-excepcion-1409638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-mix-flip-4246631.jpg?tf=1200x' alt='Nunca compres un producto de primera generación, pero este plegable de Xiaomi me ha parecido la excepción' />
     </a>
 </div>
 
