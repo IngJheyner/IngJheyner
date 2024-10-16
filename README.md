@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mini-pc-potente-raspberry-pi-barato-1353607'>Este PC cabe en la mano y es más potente que una Raspberry Pi, pero sobre todo más barato</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mini-pc-potente-raspberry-pi-barato-1353607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/orange-pi-3255635.jpg?tf=1200x' alt='Este PC cabe en la mano y es más potente que una Raspberry Pi, pero sobre todo más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-flight-simulator-2024-obliga-jugar-nube-descarga-81-gb-hora-1411908'>Microsoft Flight Simulator 2024 obliga a jugar en la nube y descarga hasta 81 GB a la hora</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/microsoft-flight-simulator-2024-obliga-jugar-nube-descarga-81-gb-hora-1411908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/microsoft-flight-simulator-2024-obliga-jugar-nube-descarga-81-gb-hora-4249924.jpg?tf=1200x' alt='Microsoft Flight Simulator 2024 obliga a jugar en la nube y descarga hasta 81 GB a la hora' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-resuelve-enigma-863-gb-windows-11-24h2-explica-pasando-1411876'>Microsoft resuelve el enigma de los 8,63 GB en Windows 11 24H2 y explica qué está pasando</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-resuelve-enigma-863-gb-windows-11-24h2-explica-pasando-1411876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-disco-duro-4249859.jpg?tf=1200x' alt='Microsoft resuelve el enigma de los 8,63 GB en Windows 11 24H2 y explica qué está pasando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/android-15-estrena-moviles-google-pixel-novedades-1411875'>Android 15 se estrena en los móviles Google Pixel con muchas novedades de peso</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/android-15-estrena-moviles-google-pixel-novedades-1411875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-15-estrena-moviles-google-pixel-muchas-novedades-peso-4249843.jpg?tf=1200x' alt='Android 15 se estrena en los móviles Google Pixel con muchas novedades de peso' />
     </a>
 </div>
 
