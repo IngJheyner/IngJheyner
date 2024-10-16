@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alibaba-desafia-google-chatgpt-nueva-herramienta-traduccion-ia-1411948'>Alibaba desafía a Google y ChatGPT con su nueva herramienta de traducción con IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alibaba-desafia-google-chatgpt-nueva-herramienta-traduccion-ia-1411948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/ilustacion-logo-alibaba-3186728.jpg?tf=1200x' alt='Alibaba desafía a Google y ChatGPT con su nueva herramienta de traducción con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/sonos-arc-ultra-lleva-dolby-atmos-otro-nivel-caracteristicas-precio-1411934'>Sonos Arc Ultra lleva Dolby Atmos a otro nivel: características y precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/sonos-arc-ultra-lleva-dolby-atmos-otro-nivel-caracteristicas-precio-1411934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sonos-arc-ultra-4249957.jpg?tf=1200x' alt='Sonos Arc Ultra lleva Dolby Atmos a otro nivel: características y precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/nunca-compres-producto-primera-generacion-pero-plegable-xiaomi-me-ha-parecido-excepcion-1409638'>Nunca compres un producto de primera generación, pero este plegable de Xiaomi me ha parecido la excepción</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/nunca-compres-producto-primera-generacion-pero-plegable-xiaomi-me-ha-parecido-excepcion-1409638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-mix-flip-4246631.jpg?tf=1200x' alt='Nunca compres un producto de primera generación, pero este plegable de Xiaomi me ha parecido la excepción' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/trucos-mejorar-rendimiento-windows-realidad-no-sirven-nada-1411581'>Trucos para mejorar el rendimiento de Windows que en realidad no sirven para nada</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/trucos-mejorar-rendimiento-windows-realidad-no-sirven-nada-1411581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/trucos-mejorar-rendimiento-windows-realidad-no-sirven-nada-4249335.jpg?tf=1200x' alt='Trucos para mejorar el rendimiento de Windows que en realidad no sirven para nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-15x-2x-afecta-cerebro-funcion-favorita-hijos-1411523'>WhatsApp a 1.5x o 2x: así afecta a su cerebro la función favorita de tus hijos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-15x-2x-afecta-cerebro-funcion-favorita-hijos-1411523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-15x-2x-afecta-cerebro-funcion-favorita-hijos-4249259.jpg?tf=1200x' alt='WhatsApp a 1.5x o 2x: así afecta a su cerebro la función favorita de tus hijos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/actualizacion-inversa-cada-vez-gente-abandonando-windows-11-volver-windows-10-1411500'>Actualización inversa: ¿por qué cada vez más gente está abandonando Windows 11 para volver a Windows 10?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/actualizacion-inversa-cada-vez-gente-abandonando-windows-11-volver-windows-10-1411500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/actualizacion-inversa-cada-vez-gente-abandonando-windows-11-volver-windows-10-4249224.jpg?tf=1200x' alt='Actualización inversa: ¿por qué cada vez más gente está abandonando Windows 11 para volver a Windows 10?' />
     </a>
 </div>
 
