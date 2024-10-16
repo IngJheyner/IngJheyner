@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/nunca-compres-producto-primera-generacion-pero-plegable-xiaomi-me-ha-parecido-excepcion-1409638'>Nunca compres un producto de primera generación, pero este plegable de Xiaomi me ha parecido la excepción</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/nunca-compres-producto-primera-generacion-pero-plegable-xiaomi-me-ha-parecido-excepcion-1409638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-mix-flip-4246631.jpg?tf=1200x' alt='Nunca compres un producto de primera generación, pero este plegable de Xiaomi me ha parecido la excepción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-mini-pc-acemagician-ryzen-9-ha-sustituido-mi-antiguo-pc-mejor-grafica-1409939'>He probado este mini PC de Acemagician con Ryzen 9 y ha sustituido mi antiguo ordenador con mejor gráfica</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-mini-pc-acemagician-ryzen-9-ha-sustituido-mi-antiguo-pc-mejor-grafica-1409939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/acemagician-am08pro-4246627.jpg?tf=1200x' alt='He probado este mini PC de Acemagician con Ryzen 9 y ha sustituido mi antiguo ordenador con mejor gráfica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/trucos-mejorar-rendimiento-windows-realidad-no-sirven-nada-1411581'>Trucos para mejorar el rendimiento de Windows que en realidad no sirven para nada</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/trucos-mejorar-rendimiento-windows-realidad-no-sirven-nada-1411581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/trucos-mejorar-rendimiento-windows-realidad-no-sirven-nada-4249335.jpg?tf=1200x' alt='Trucos para mejorar el rendimiento de Windows que en realidad no sirven para nada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/actualizacion-inversa-cada-vez-gente-abandonando-windows-11-volver-windows-10-1411500'>Actualización inversa: ¿por qué cada vez más gente está abandonando Windows 11 para volver a Windows 10?</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/actualizacion-inversa-cada-vez-gente-abandonando-windows-11-volver-windows-10-1411500' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/actualizacion-inversa-cada-vez-gente-abandonando-windows-11-volver-windows-10-4249224.jpg?tf=1200x' alt='Actualización inversa: ¿por qué cada vez más gente está abandonando Windows 11 para volver a Windows 10?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/hackear-netflix-trucos-encontrar-siempre-algo-interesante-ver-1411122'>Hackear Netflix: trucos para encontrar siempre algo interesante que ver</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/hackear-netflix-trucos-encontrar-siempre-algo-interesante-ver-1411122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hackear-netflix-trucos-encontrar-siempre-algo-interesante-ver-4248551.jpg?tf=1200x' alt='Hackear Netflix: trucos para encontrar siempre algo interesante que ver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/youtube-shorts-tres-minutos-1411915'>Los Shorts de YouTube ya no son 'shorts': ahora duran hasta tres minutos</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/youtube-shorts-tres-minutos-1411915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/shorts-youtube-ya-no-son-shorts-ahora-duran-tres-minutos-4249943.jpg?tf=1200x' alt='Los Shorts de YouTube ya no son 'shorts': ahora duran hasta tres minutos' />
     </a>
 </div>
 
