@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mini-pc-potente-raspberry-pi-barato-1353607'>Este PC cabe en la mano y es más potente que una Raspberry Pi, pero sobre todo más barato</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mini-pc-potente-raspberry-pi-barato-1353607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/orange-pi-3255635.jpg?tf=1200x' alt='Este PC cabe en la mano y es más potente que una Raspberry Pi, pero sobre todo más barato' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/trucos-mejorar-rendimiento-windows-realidad-no-sirven-nada-1411581'>Trucos para mejorar el rendimiento de Windows que en realidad no sirven para nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/trucos-mejorar-rendimiento-windows-realidad-no-sirven-nada-1411581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/trucos-mejorar-rendimiento-windows-realidad-no-sirven-nada-4249335.jpg?tf=1200x' alt='Trucos para mejorar el rendimiento de Windows que en realidad no sirven para nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-flight-simulator-2024-obliga-jugar-nube-descarga-81-gb-hora-1411908'>Microsoft Flight Simulator 2024 obliga a jugar en la nube y descarga hasta 81 GB a la hora</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/microsoft-flight-simulator-2024-obliga-jugar-nube-descarga-81-gb-hora-1411908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/microsoft-flight-simulator-2024-obliga-jugar-nube-descarga-81-gb-hora-4249924.jpg?tf=1200x' alt='Microsoft Flight Simulator 2024 obliga a jugar en la nube y descarga hasta 81 GB a la hora' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-15x-2x-afecta-cerebro-funcion-favorita-hijos-1411523'>WhatsApp a 1.5x o 2x: así afecta a su cerebro la función favorita de tus hijos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-15x-2x-afecta-cerebro-funcion-favorita-hijos-1411523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-15x-2x-afecta-cerebro-funcion-favorita-hijos-4249259.jpg?tf=1200x' alt='WhatsApp a 1.5x o 2x: así afecta a su cerebro la función favorita de tus hijos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/descubren-nintendo-usando-emuladores-windows-museo-nintendo-1411897'>Descubren que Nintendo está usando emuladores Windows con los juegos que hay en su museo</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/descubren-nintendo-usando-emuladores-windows-museo-nintendo-1411897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/museo-nintendo-3990644.jpg?tf=1200x' alt='Descubren que Nintendo está usando emuladores Windows con los juegos que hay en su museo' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/actualizacion-inversa-cada-vez-gente-abandonando-windows-11-volver-windows-10-1411500'>Actualización inversa: ¿por qué cada vez más gente está abandonando Windows 11 para volver a Windows 10?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/actualizacion-inversa-cada-vez-gente-abandonando-windows-11-volver-windows-10-1411500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/actualizacion-inversa-cada-vez-gente-abandonando-windows-11-volver-windows-10-4249224.jpg?tf=1200x' alt='Actualización inversa: ¿por qué cada vez más gente está abandonando Windows 11 para volver a Windows 10?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/fallece-ward-christensen-inventor-bbs-1411889'>Fallece Ward Christensen, el inventor de los BBS que iniciaron la cultura online en los años 80</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/fallece-ward-christensen-inventor-bbs-1411889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fallece-ward-christensen-invento-bbs-iniciaron-cultura-online-anos-80-4249887.jpg?tf=1200x' alt='Fallece Ward Christensen, el inventor de los BBS que iniciaron la cultura online en los años 80' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/hackear-netflix-trucos-encontrar-siempre-algo-interesante-ver-1411122'>Hackear Netflix: trucos para encontrar siempre algo interesante que ver</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/hackear-netflix-trucos-encontrar-siempre-algo-interesante-ver-1411122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hackear-netflix-trucos-encontrar-siempre-algo-interesante-ver-4248551.jpg?tf=1200x' alt='Hackear Netflix: trucos para encontrar siempre algo interesante que ver' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-resuelve-enigma-863-gb-windows-11-24h2-explica-pasando-1411876'>Microsoft resuelve el enigma de los 8,63 GB en Windows 11 24H2 y explica qué está pasando</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-resuelve-enigma-863-gb-windows-11-24h2-explica-pasando-1411876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-disco-duro-4249859.jpg?tf=1200x' alt='Microsoft resuelve el enigma de los 8,63 GB en Windows 11 24H2 y explica qué está pasando' />
+    <h4><a href='https://computerhoy.20minutos.es/google/youtube-shorts-tres-minutos-1411915'>Los Shorts de YouTube ya no son 'shorts': ahora duran hasta tres minutos</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/youtube-shorts-tres-minutos-1411915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/shorts-youtube-ya-no-son-shorts-ahora-duran-tres-minutos-4249943.jpg?tf=1200x' alt='Los Shorts de YouTube ya no son 'shorts': ahora duran hasta tres minutos' />
     </a>
 </div>
 
