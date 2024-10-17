@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/habemus-nuevo-anillo-inteligente-vista-xiaomi-sumara-moda-smart-rings-1412246'>Habemus nuevo anillo inteligente a la vista: Xiaomi se sumará a la moda de los smart rings</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/habemus-nuevo-anillo-inteligente-vista-xiaomi-sumara-moda-smart-rings-1412246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/anillos-inteligentes-mano-amazfit-samsung-ultrahuman-4248967.jpg?tf=1200x' alt='Habemus nuevo anillo inteligente a la vista: Xiaomi se sumará a la moda de los smart rings' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-flights-ya-deja-filtrar-vuelos-baratos-pero-tiene-gran-inconveniente-1412241'>Google Flights ya deja filtrar los vuelos más baratos, pero tiene un gran inconveniente</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-flights-ya-deja-filtrar-vuelos-baratos-pero-tiene-gran-inconveniente-1412241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fin-google-te-deja-filtrar-vuelos-baratos-pero-tiene-gran-inconveniente-4250379.jpg?tf=1200x' alt='Google Flights ya deja filtrar los vuelos más baratos, pero tiene un gran inconveniente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazfit-gtr3-precio-saldo-1364445'>Amazfit vende su reloj deportivo GTR 3 a precio de saldo: cuesta menos de 100 euros y tiene GPS</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/amazfit-gtr3-precio-saldo-1364445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazfit-gtr-3-3216156.jpg?tf=1200x' alt='Amazfit vende su reloj deportivo GTR 3 a precio de saldo: cuesta menos de 100 euros y tiene GPS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-1412214'>El cambio de hora no abandona la polémica: un nuevo país lo va a eliminar</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-1412214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-4250357.jpg?tf=1200x' alt='El cambio de hora no abandona la polémica: un nuevo país lo va a eliminar' />
     </a>
 </div>
 
