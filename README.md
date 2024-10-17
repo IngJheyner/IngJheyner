@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ni-iphone-16-ni-15-movil-apple-calidad-precio-recomiendan-todos-expertos-1412094'>Ni el iPhone 16 ni el 15, este el móvil de Apple calidad precio que recomiendan todos los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ni-iphone-16-ni-15-movil-apple-calidad-precio-recomiendan-todos-expertos-1412094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243568.jpg?tf=1200x' alt='Ni el iPhone 16 ni el 15, este el móvil de Apple calidad precio que recomiendan todos los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-funciones-mi-lavadora-no-sabia-podia-controlar-movil-utilizan-tecnicos-1412066'>Estas son las funciones de mi lavadora que no sabía que podía controlar desde el móvil, y que utilizan los técnicos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-funciones-mi-lavadora-no-sabia-podia-controlar-movil-utilizan-tecnicos-1412066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lavadora-4250447.jpg?tf=1200x' alt='Estas son las funciones de mi lavadora que no sabía que podía controlar desde el móvil, y que utilizan los técnicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/portatil-nuevo-configuraciones-windows-deberias-cambiar-nada-encenderlo-1411264'>Portátil nuevo: configuraciones de Windows que deberías cambiar nada más encenderlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/portatil-nuevo-configuraciones-windows-deberias-cambiar-nada-encenderlo-1411264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/portatil-windows-4248838.jpg?tf=1200x' alt='Portátil nuevo: configuraciones de Windows que deberías cambiar nada más encenderlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-tambien-ha-llegado-wikipedia-pero-ya-existe-proyecto-protegerla-1412350'>La IA también ha llegado a la Wikipedia, pero ya existe un proyecto para protegerla </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-tambien-ha-llegado-wikipedia-pero-ya-existe-proyecto-protegerla-1412350' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-tambien-ha-llegado-wikipedia-pero-ya-existe-proyecto-protegerla-4250567.jpg?tf=1200x' alt='La IA también ha llegado a la Wikipedia, pero ya existe un proyecto para protegerla ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-japoneses-crean-herramienta-puede-ver-conciencia-humana-usando-mecanica-cuantica-1412293'>Científicos japoneses crean una herramienta que puede “ver” la conciencia humana usando la mecánica cuántica</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/cientificos-japoneses-crean-herramienta-puede-ver-conciencia-humana-usando-mecanica-cuantica-1412293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/conciencia-universal-cuantica-4250481.jpg?tf=1200x' alt='Científicos japoneses crean una herramienta que puede “ver” la conciencia humana usando la mecánica cuántica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/puede-estar-descalzo-fomentar-realmente-inteligencia-dice-ciencia-1410057'>¿Puede estar descalzo fomentar realmente la inteligencia? Esto es lo que dice la ciencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/puede-estar-descalzo-fomentar-realmente-inteligencia-dice-ciencia-1410057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/puede-estar-descalzo-fomentar-realmente-inteligencia-dice-ciencia-4246725.jpg?tf=1200x' alt='¿Puede estar descalzo fomentar realmente la inteligencia? Esto es lo que dice la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/criptos/hombre-tiro-vertedero-disco-duro-millones-euros-bitcoin-rinde-ahora-quiere-sacarle-dinero-ayuntamiento-1412334'>El hombre que tiró al vertedero un disco duro con millones de euros en Bitcoin se rinde: ahora quiere sacarle el dinero al ayuntamiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/criptos/hombre-tiro-vertedero-disco-duro-millones-euros-bitcoin-rinde-ahora-quiere-sacarle-dinero-ayuntamiento-1412334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hombre-tiro-vertedero-disco-duro-millones-euros-bitcoin-rinde-ahora-quiere-sacarle-dinero-ayuntamiento-4250557.jpg?tf=1200x' alt='El hombre que tiró al vertedero un disco duro con millones de euros en Bitcoin se rinde: ahora quiere sacarle el dinero al ayuntamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/movil-android-puede-estar-peligro-descubren-200-apps-afectadas-malware-1412364'>Tu móvil Android puede estar en peligro: descubren más de 200 apps afectadas por malware</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/movil-android-puede-estar-peligro-descubren-200-apps-afectadas-malware-1412364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/malware-android-4144237.jpg?tf=1200x' alt='Tu móvil Android puede estar en peligro: descubren más de 200 apps afectadas por malware' />
     </a>
 </div>
 
