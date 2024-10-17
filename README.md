@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-maps-desvela-misteriosa-puerta-antartida-1412206'>Google Maps desvela una misteriosa puerta oculta en la Antártida</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-maps-desvela-misteriosa-puerta-antartida-1412206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-desvela-misteriosa-puerta-oculta-antartida-4250338.jpg?tf=1200x' alt='Google Maps desvela una misteriosa puerta oculta en la Antártida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/ipad-barato-vuelve-bajar-precio-casi-200-euros-menos-1412187'>El iPad más barato vuelve a bajar de precio: casi 200 euros menos que su precio de lanzamiento, aunque se queda sin cargador</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/ipad-barato-vuelve-bajar-precio-casi-200-euros-menos-1412187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ipad-barato-vuelve-bajar-precio-casi-200-euros-menos-precio-lanzamiento-aunque-queda-cargador-4250326.jpg?tf=1200x' alt='El iPad más barato vuelve a bajar de precio: casi 200 euros menos que su precio de lanzamiento, aunque se queda sin cargador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/intel-amd-alian-salvar-x86-frente-arm-qualcomm-apple-1412172'>Intel y AMD se alían para salvar x86 frente al ascenso de ARM, Qualcomm y Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/intel-amd-alian-salvar-x86-frente-arm-qualcomm-apple-1412172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/intel-amd-alian-salvar-x86-frente-ascenso-arm-4250236.jpg?tf=1200x' alt='Intel y AMD se alían para salvar x86 frente al ascenso de ARM, Qualcomm y Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/podrias-tardar-bastante-ver-juegos-playstation-6-saquen-maximo-provecho-hardware-dicen-expertos-1412166'>Podrías tardar bastante en ver juegos en PlayStation 6 que saquen el máximo provecho de su hardware, dicen expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/podrias-tardar-bastante-ver-juegos-playstation-6-saquen-maximo-provecho-hardware-dicen-expertos-1412166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/reimaginacion-mando-playstation-4250301.jpg?tf=1200x' alt='Podrías tardar bastante en ver juegos en PlayStation 6 que saquen el máximo provecho de su hardware, dicen expertos' />
     </a>
 </div>
 
