@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-quiere-tener-propio-modem-5g-evitar-depender-qualcomm-todo-sabe-momento-1412288'>Apple quiere tener su propio módem 5G para evitar depender de Qualcomm: todo lo que se sabe hasta el momento</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-quiere-tener-propio-modem-5g-evitar-depender-qualcomm-todo-sabe-momento-1412288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656645.jpg?tf=1200x' alt='Apple quiere tener su propio módem 5G para evitar depender de Qualcomm: todo lo que se sabe hasta el momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/tienen-mejor-cancelacion-hemos-probado-son-baratos-oneplus-buds-pro-3-hunden-precio-aliexpress-1410544'>Tienen la mejor cancelación que hemos probado y son más baratos: los OnePlus Buds Pro 3 hunden su precio en AliExpress</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/tienen-mejor-cancelacion-hemos-probado-son-baratos-oneplus-buds-pro-3-hunden-precio-aliexpress-1410544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oneplus-buds-pro-3-4247553.jpg?tf=1200x' alt='Tienen la mejor cancelación que hemos probado y son más baratos: los OnePlus Buds Pro 3 hunden su precio en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/funciona-google-maps-timeline-como-borrar-guardar-exportar-paso-paso-1412265'>Así funciona Google Maps Timeline: cómo borrar, guardar y exportar paso a paso</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/funciona-google-maps-timeline-como-borrar-guardar-exportar-paso-paso-1412265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/funciona-google-maps-timeline-como-borrar-guardar-exportar-paso-paso-4250417.jpg?tf=1200x' alt='Así funciona Google Maps Timeline: cómo borrar, guardar y exportar paso a paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-vuelve-seguro-google-identity-check-confirmara-pin-escaneo-huella-dactilar-1412271'>Android se vuelve más seguro con Google Identity Check, que confirmará tu PIN con un escaneo de tu huella dactilar</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-vuelve-seguro-google-identity-check-confirmara-pin-escaneo-huella-dactilar-1412271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/biometria-ciberseguridad-3298003.jpg?tf=1200x' alt='Android se vuelve más seguro con Google Identity Check, que confirmará tu PIN con un escaneo de tu huella dactilar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/habemus-nuevo-anillo-inteligente-vista-xiaomi-sumara-moda-smart-rings-1412246'>Habemus nuevo anillo inteligente a la vista: Xiaomi se sumará a la moda de los smart rings</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/habemus-nuevo-anillo-inteligente-vista-xiaomi-sumara-moda-smart-rings-1412246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/anillos-inteligentes-mano-amazfit-samsung-ultrahuman-4248967.jpg?tf=1200x' alt='Habemus nuevo anillo inteligente a la vista: Xiaomi se sumará a la moda de los smart rings' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-flights-ya-deja-filtrar-vuelos-baratos-pero-tiene-gran-inconveniente-1412241'>Google Flights ya deja filtrar los vuelos más baratos, pero tiene un gran inconveniente</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-flights-ya-deja-filtrar-vuelos-baratos-pero-tiene-gran-inconveniente-1412241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fin-google-te-deja-filtrar-vuelos-baratos-pero-tiene-gran-inconveniente-4250379.jpg?tf=1200x' alt='Google Flights ya deja filtrar los vuelos más baratos, pero tiene un gran inconveniente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/hay-funcion-android-15-no-ha-llegado-google-pixel-usuarios-estan-preocupados-1412233'>Hay una función de Android 15 que no ha llegado a los Google Pixel y los usuarios están preocupados</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/hay-funcion-android-15-no-ha-llegado-google-pixel-usuarios-estan-preocupados-1412233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-pro-vs-pixel-8-pro-4057440.jpg?tf=1200x' alt='Hay una función de Android 15 que no ha llegado a los Google Pixel y los usuarios están preocupados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/elon-musk-cambia-x-reglas-juego-bloquear-usuario-ya-no-sera-era-1412228'>Elon Musk cambia en X las reglas del juego y bloquear a un usuario ya no será lo que era</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/elon-musk-cambia-x-reglas-juego-bloquear-usuario-ya-no-sera-era-1412228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xai-elon-musk-4108849.jpg?tf=1200x' alt='Elon Musk cambia en X las reglas del juego y bloquear a un usuario ya no será lo que era' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazfit-gtr3-precio-saldo-1364445'>Amazfit vende su reloj deportivo GTR 3 a precio de saldo: cuesta menos de 100 euros y tiene GPS</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazfit-gtr3-precio-saldo-1364445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazfit-gtr-3-3216156.jpg?tf=1200x' alt='Amazfit vende su reloj deportivo GTR 3 a precio de saldo: cuesta menos de 100 euros y tiene GPS' />
     </a>
 </div>
 
