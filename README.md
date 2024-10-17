@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/elon-musk-cambia-x-reglas-juego-bloquear-usuario-ya-no-sera-era-1412228'>Elon Musk cambia en X las reglas del juego y bloquear a un usuario ya no será lo que era</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/elon-musk-cambia-x-reglas-juego-bloquear-usuario-ya-no-sera-era-1412228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xai-elon-musk-4108849.jpg?tf=1200x' alt='Elon Musk cambia en X las reglas del juego y bloquear a un usuario ya no será lo que era' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazfit-gtr3-precio-saldo-1364445'>Amazfit vende su reloj deportivo GTR 3 a precio de saldo: cuesta menos de 100 euros y tiene GPS</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/amazfit-gtr3-precio-saldo-1364445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazfit-gtr-3-3216156.jpg?tf=1200x' alt='Amazfit vende su reloj deportivo GTR 3 a precio de saldo: cuesta menos de 100 euros y tiene GPS' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/audio/audible-amazon-desvela-escuchan-espanoles-espana-siempre-ha-sido-pais-ha-encantado-sangre-1409744'>Audible (Amazon) desvela lo que escuchan los españoles: "España siempre ha sido un país al que le ha encantado la sangre"</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/audible-amazon-desvela-escuchan-espanoles-espana-siempre-ha-sido-pais-ha-encantado-sangre-1409744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/true-crime-podcast-audiolibros-audible-4246288.jpg?tf=1200x' alt='Audible (Amazon) desvela lo que escuchan los españoles: "España siempre ha sido un país al que le ha encantado la sangre"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-padre-ni-madre-estas-son-personas-papeletas-sufrir-estafa-online-1412075'>Ni tu padre ni tu madre, estas son las personas con más papeletas para sufrir una estafa online</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-padre-ni-madre-estas-son-personas-papeletas-sufrir-estafa-online-1412075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estas-son-personas-papeletas-sufrir-estafa-online-nuevo-estudio-4250132.jpg?tf=1200x' alt='Ni tu padre ni tu madre, estas son las personas con más papeletas para sufrir una estafa online' />
     </a>
 </div>
 
