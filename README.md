@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-tambien-ha-llegado-wikipedia-pero-ya-existe-proyecto-protegerla-1412350'>La IA también ha llegado a la Wikipedia, pero ya existe un proyecto para protegerla </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-tambien-ha-llegado-wikipedia-pero-ya-existe-proyecto-protegerla-1412350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-tambien-ha-llegado-wikipedia-pero-ya-existe-proyecto-protegerla-4250567.jpg?tf=1200x' alt='La IA también ha llegado a la Wikipedia, pero ya existe un proyecto para protegerla ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-japoneses-crean-herramienta-puede-ver-conciencia-humana-usando-mecanica-cuantica-1412293'>Científicos japoneses crean una herramienta que puede “ver” la conciencia humana usando la mecánica cuántica</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-japoneses-crean-herramienta-puede-ver-conciencia-humana-usando-mecanica-cuantica-1412293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/conciencia-universal-cuantica-4250481.jpg?tf=1200x' alt='Científicos japoneses crean una herramienta que puede “ver” la conciencia humana usando la mecánica cuántica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/puede-estar-descalzo-fomentar-realmente-inteligencia-dice-ciencia-1410057'>¿Puede estar descalzo fomentar realmente la inteligencia? Esto es lo que dice la ciencia</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/puede-estar-descalzo-fomentar-realmente-inteligencia-dice-ciencia-1410057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/puede-estar-descalzo-fomentar-realmente-inteligencia-dice-ciencia-4246725.jpg?tf=1200x' alt='¿Puede estar descalzo fomentar realmente la inteligencia? Esto es lo que dice la ciencia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/movil-android-puede-estar-peligro-descubren-200-apps-afectadas-malware-1412364'>Tu móvil Android puede estar en peligro: descubren más de 200 apps afectadas por malware</a></h4>
     <a href='https://computerhoy.20minutos.es/android/movil-android-puede-estar-peligro-descubren-200-apps-afectadas-malware-1412364' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/malware-android-4144237.jpg?tf=1200x' alt='Tu móvil Android puede estar en peligro: descubren más de 200 apps afectadas por malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-bancario-te-roba-pin-movil-pantalla-desbloqueo-falsa-puedes-detectarlo-1412320'>TrickMo, el virus bancario que te roba el PIN del móvil con una pantalla de desbloqueo falsa, así puedes detectarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-bancario-te-roba-pin-movil-pantalla-desbloqueo-falsa-puedes-detectarlo-1412320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/trickmo-virus-bancario-te-roba-pin-movil-pantalla-desbloqueo-falsa-puedes-detectarlo-4250493.jpg?tf=1200x' alt='TrickMo, el virus bancario que te roba el PIN del móvil con una pantalla de desbloqueo falsa, así puedes detectarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-tardara-10-anos-alcanzar-niveles-humanos-responsable-ia-meta-1412363'>La inteligencia artificial tardará 10 años en alcanzar niveles humanos, según el responsable de IA de Meta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-tardara-10-anos-alcanzar-niveles-humanos-responsable-ia-meta-1412363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-ciega-sugiere-nuevo-estudio-3739136.jpg?tf=1200x' alt='La inteligencia artificial tardará 10 años en alcanzar niveles humanos, según el responsable de IA de Meta' />
     </a>
 </div>
 
