@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-flights-ya-deja-filtrar-vuelos-baratos-pero-tiene-gran-inconveniente-1412241'>Google Flights ya deja filtrar los vuelos más baratos, pero tiene un gran inconveniente</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-flights-ya-deja-filtrar-vuelos-baratos-pero-tiene-gran-inconveniente-1412241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fin-google-te-deja-filtrar-vuelos-baratos-pero-tiene-gran-inconveniente-4250379.jpg?tf=1200x' alt='Google Flights ya deja filtrar los vuelos más baratos, pero tiene un gran inconveniente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/hay-funcion-android-15-no-ha-llegado-google-pixel-usuarios-estan-preocupados-1412233'>Hay una función de Android 15 que no ha llegado a los Google Pixel y los usuarios están preocupados</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/hay-funcion-android-15-no-ha-llegado-google-pixel-usuarios-estan-preocupados-1412233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-pro-vs-pixel-8-pro-4057440.jpg?tf=1200x' alt='Hay una función de Android 15 que no ha llegado a los Google Pixel y los usuarios están preocupados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/elon-musk-cambia-x-reglas-juego-bloquear-usuario-ya-no-sera-era-1412228'>Elon Musk cambia en X las reglas del juego y bloquear a un usuario ya no será lo que era</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/elon-musk-cambia-x-reglas-juego-bloquear-usuario-ya-no-sera-era-1412228' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xai-elon-musk-4108849.jpg?tf=1200x' alt='Elon Musk cambia en X las reglas del juego y bloquear a un usuario ya no será lo que era' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-1412214'>El cambio de hora no abandona la polémica: un nuevo país lo va a eliminar</a></h4>
     <a href='https://computerhoy.20minutos.es/life/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-1412214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-4250357.jpg?tf=1200x' alt='El cambio de hora no abandona la polémica: un nuevo país lo va a eliminar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/funciona-aurora-store-tienda-apps-usar-servicios-google-huawei-1410996'>Así funciona Aurora Store, la tienda de apps para usar los servicios de Google en Huawei</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/funciona-aurora-store-tienda-apps-usar-servicios-google-huawei-1410996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/aplicaciones-google-aurora-store-huawei-matepad-pro-122-4248306.jpg?tf=1200x' alt='Así funciona Aurora Store, la tienda de apps para usar los servicios de Google en Huawei' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/audible-amazon-desvela-escuchan-espanoles-espana-siempre-ha-sido-pais-ha-encantado-sangre-1409744'>Audible (Amazon) desvela lo que escuchan los españoles: "España siempre ha sido un país al que le ha encantado la sangre"</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/audible-amazon-desvela-escuchan-espanoles-espana-siempre-ha-sido-pais-ha-encantado-sangre-1409744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/true-crime-podcast-audiolibros-audible-4246288.jpg?tf=1200x' alt='Audible (Amazon) desvela lo que escuchan los españoles: "España siempre ha sido un país al que le ha encantado la sangre"' />
     </a>
 </div>
 
