@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-prepara-nueva-subida-precio-podria-costarte-dentro-muy-poco-1412471'>Netflix se prepara para una nueva subida de precio: esto es lo que podría costarte dentro de muy poco</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-prepara-nueva-subida-precio-podria-costarte-dentro-muy-poco-1412471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/subida-precio-netflix-4250844.jpg?tf=1200x' alt='Netflix se prepara para una nueva subida de precio: esto es lo que podría costarte dentro de muy poco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/emular-juegos-nintendo-switch-2-podria-ser-igual-facil-version-actual-1412469'>Emular los juegos de Nintendo Switch 2 podría ser igual de fácil que con la versión actual</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/emular-juegos-nintendo-switch-2-podria-ser-igual-facil-version-actual-1412469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nintendo-switch-2-3712859.jpg?tf=1200x' alt='Emular los juegos de Nintendo Switch 2 podría ser igual de fácil que con la versión actual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/python-sigue-siendo-rey-lenguajes-programacion-aunque-algunos-rivales-ya-estan-muy-cerca-1412464'>Python sigue siendo el rey de los lenguajes de programación, aunque algunos rivales ya están muy cerca</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/python-sigue-siendo-rey-lenguajes-programacion-aunque-algunos-rivales-ya-estan-muy-cerca-1412464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lenguajes-programacion-4250833.jpg?tf=1200x' alt='Python sigue siendo el rey de los lenguajes de programación, aunque algunos rivales ya están muy cerca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/grandes-iconos-cine-terror-vuelve-cada-halloween-pero-no-retomara-papel-dio-fama-soy-demasiado-viejo-1411800'>Es uno de los grandes iconos del cine de terror, y vuelve cada Halloween, pero no retomará el papel que le dio la fama: "Soy demasiado viejo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/grandes-iconos-cine-terror-vuelve-cada-halloween-pero-no-retomara-papel-dio-fama-soy-demasiado-viejo-1411800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/grandes-iconos-cine-terror-vuelve-cada-halloween-pero-no-retomara-papel-dio-fama-soy-demasiado-viejo-4249687.jpg?tf=1200x' alt='Es uno de los grandes iconos del cine de terror, y vuelve cada Halloween, pero no retomará el papel que le dio la fama: "Soy demasiado viejo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/truco-viral-arrasando-tiktok-puedes-ahorrar-casi-700-euros-esfuerzo-1412347'>El truco viral que está arrasando en TikTok: así puedes ahorrar casi 700 euros sin esfuerzo</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/truco-viral-arrasando-tiktok-puedes-ahorrar-casi-700-euros-esfuerzo-1412347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/foto-ia-donde-aparece-dinero-junto-lago-tiktok-4250590.jpg?tf=1200x' alt='El truco viral que está arrasando en TikTok: así puedes ahorrar casi 700 euros sin esfuerzo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-clones-webs-iptv-pirateria-cerradas-1412197'>Expertos en seguridad advierten que webs de IPTV y piratería cerradas por la justicia están siendo clonadas y son extremadamente peligrosas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-clones-webs-iptv-pirateria-cerradas-1412197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/expertos-seguridad-advierten-webs-iptv-pirateria-cerradas-justicia-estan-siendo-clonadas-son-extremadamente-peligrosas-4250347.jpg?tf=1200x' alt='Expertos en seguridad advierten que webs de IPTV y piratería cerradas por la justicia están siendo clonadas y son extremadamente peligrosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ni-iphone-16-ni-15-movil-apple-calidad-precio-recomiendan-todos-expertos-1412094'>Ni el iPhone 16 ni el 15, este el móvil de Apple calidad precio que recomiendan todos los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ni-iphone-16-ni-15-movil-apple-calidad-precio-recomiendan-todos-expertos-1412094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243568.jpg?tf=1200x' alt='Ni el iPhone 16 ni el 15, este el móvil de Apple calidad precio que recomiendan todos los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-funciones-mi-lavadora-no-sabia-podia-controlar-movil-utilizan-tecnicos-1412066'>Estas son las funciones de mi lavadora que no sabía que podía controlar desde el móvil, y que utilizan los técnicos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-funciones-mi-lavadora-no-sabia-podia-controlar-movil-utilizan-tecnicos-1412066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lavadora-4250447.jpg?tf=1200x' alt='Estas son las funciones de mi lavadora que no sabía que podía controlar desde el móvil, y que utilizan los técnicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/portatil-nuevo-configuraciones-windows-deberias-cambiar-nada-encenderlo-1411264'>Portátil nuevo: configuraciones de Windows que deberías cambiar nada más encenderlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/portatil-nuevo-configuraciones-windows-deberias-cambiar-nada-encenderlo-1411264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/portatil-windows-4248838.jpg?tf=1200x' alt='Portátil nuevo: configuraciones de Windows que deberías cambiar nada más encenderlo' />
     </a>
 </div>
 
