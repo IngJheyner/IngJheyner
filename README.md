@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-padre-ni-madre-estas-son-personas-papeletas-sufrir-estafa-online-1412075'>Ni tu padre ni tu madre, estas son las personas con más papeletas para sufrir una estafa online</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-padre-ni-madre-estas-son-personas-papeletas-sufrir-estafa-online-1412075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estas-son-personas-papeletas-sufrir-estafa-online-nuevo-estudio-4250132.jpg?tf=1200x' alt='Ni tu padre ni tu madre, estas son las personas con más papeletas para sufrir una estafa online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/secreto-mejor-escondido-smart-tv-puertos-usb-casi-nadie-conoce-1411910'>El secreto mejor escondido de tu Smart TV está en los puertos USB (y casi nadie lo conoce)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/secreto-mejor-escondido-smart-tv-puertos-usb-casi-nadie-conoce-1411910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/secreto-mejor-escondido-smart-tv-puertos-usb-casi-nadie-conoce-4249938.jpg?tf=1200x' alt='El secreto mejor escondido de tu Smart TV está en los puertos USB (y casi nadie lo conoce)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/pregunta-tonta-puede-administrador-contrasenas-ver-contrasenas-1411901'>Pregunta tonta: ¿puede el administrador de contraseñas ver mis contraseñas?</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/pregunta-tonta-puede-administrador-contrasenas-ver-contrasenas-1411901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pregunta-tonta-puede-administrador-contrasenas-ver-contrasenas-4249930.jpg?tf=1200x' alt='Pregunta tonta: ¿puede el administrador de contraseñas ver mis contraseñas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-como-ver-estado-contactos-enteren-1411562'>WhatsApp: cómo ver el estado de tus contactos sin que se enteren</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-como-ver-estado-contactos-enteren-1411562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-como-ver-estado-contactos-enteren-4249317.jpg?tf=1200x' alt='WhatsApp: cómo ver el estado de tus contactos sin que se enteren' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-maps-desvela-misteriosa-puerta-antartida-1412206'>Google Maps desvela una misteriosa puerta oculta en la Antártida</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-maps-desvela-misteriosa-puerta-antartida-1412206' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-desvela-misteriosa-puerta-oculta-antartida-4250338.jpg?tf=1200x' alt='Google Maps desvela una misteriosa puerta oculta en la Antártida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ipad-barato-vuelve-bajar-precio-casi-200-euros-menos-1412187'>El iPad más barato vuelve a bajar de precio: casi 200 euros menos que su precio de lanzamiento, aunque se queda sin cargador</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ipad-barato-vuelve-bajar-precio-casi-200-euros-menos-1412187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ipad-barato-vuelve-bajar-precio-casi-200-euros-menos-precio-lanzamiento-aunque-queda-cargador-4250326.jpg?tf=1200x' alt='El iPad más barato vuelve a bajar de precio: casi 200 euros menos que su precio de lanzamiento, aunque se queda sin cargador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/iphone-pro-cuesta-mitad-nuevos-1411437'>Este iPhone es Pro y cuesta la mitad que uno de los nuevos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/iphone-pro-cuesta-mitad-nuevos-1411437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/iphone-13-pro-2705001.jpg?tf=1200x' alt='Este iPhone es Pro y cuesta la mitad que uno de los nuevos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tema-oscuro-whatsapp-ha-cambiado-ni-te-diste-cuenta-hay-buen-motivo-ello-1412174'>El tema oscuro de WhatsApp ha cambiado y ni te diste cuenta: hay un buen motivo para ello</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tema-oscuro-whatsapp-ha-cambiado-ni-te-diste-cuenta-hay-buen-motivo-ello-1412174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tema-oscuro-whatsapp-ha-cambiado-ni-te-diste-cuenta-hay-buen-motivo-ello-4250313.jpg?tf=1200x' alt='El tema oscuro de WhatsApp ha cambiado y ni te diste cuenta: hay un buen motivo para ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/intel-amd-alian-salvar-x86-frente-arm-qualcomm-apple-1412172'>Intel y AMD se alían para salvar x86 frente al ascenso de ARM, Qualcomm y Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/intel-amd-alian-salvar-x86-frente-arm-qualcomm-apple-1412172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/intel-amd-alian-salvar-x86-frente-ascenso-arm-4250236.jpg?tf=1200x' alt='Intel y AMD se alían para salvar x86 frente al ascenso de ARM, Qualcomm y Apple' />
     </a>
 </div>
 
