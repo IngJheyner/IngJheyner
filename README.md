@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazfit-gtr3-precio-saldo-1364445'>Amazfit vende su reloj deportivo GTR 3 a precio de saldo: cuesta menos de 100 euros y tiene GPS</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amazfit-gtr3-precio-saldo-1364445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazfit-gtr-3-3216156.jpg?tf=1200x' alt='Amazfit vende su reloj deportivo GTR 3 a precio de saldo: cuesta menos de 100 euros y tiene GPS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-1412214'>El cambio de hora no abandona la polémica: un nuevo país lo va a eliminar</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-1412214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-4250357.jpg?tf=1200x' alt='El cambio de hora no abandona la polémica: un nuevo país lo va a eliminar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/funciona-aurora-store-tienda-apps-usar-servicios-google-huawei-1410996'>Así funciona Aurora Store, la tienda de apps para usar los servicios de Google en Huawei</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/funciona-aurora-store-tienda-apps-usar-servicios-google-huawei-1410996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/aplicaciones-google-aurora-store-huawei-matepad-pro-122-4248306.jpg?tf=1200x' alt='Así funciona Aurora Store, la tienda de apps para usar los servicios de Google en Huawei' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/audible-amazon-desvela-escuchan-espanoles-espana-siempre-ha-sido-pais-ha-encantado-sangre-1409744'>Audible (Amazon) desvela lo que escuchan los españoles: "España siempre ha sido un país al que le ha encantado la sangre"</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/audible-amazon-desvela-escuchan-espanoles-espana-siempre-ha-sido-pais-ha-encantado-sangre-1409744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/true-crime-podcast-audiolibros-audible-4246288.jpg?tf=1200x' alt='Audible (Amazon) desvela lo que escuchan los españoles: "España siempre ha sido un país al que le ha encantado la sangre"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-padre-ni-madre-estas-son-personas-papeletas-sufrir-estafa-online-1412075'>Ni tu padre ni tu madre, estas son las personas con más papeletas para sufrir una estafa online</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-padre-ni-madre-estas-son-personas-papeletas-sufrir-estafa-online-1412075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estas-son-personas-papeletas-sufrir-estafa-online-nuevo-estudio-4250132.jpg?tf=1200x' alt='Ni tu padre ni tu madre, estas son las personas con más papeletas para sufrir una estafa online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/secreto-mejor-escondido-smart-tv-puertos-usb-casi-nadie-conoce-1411910'>El secreto mejor escondido de tu Smart TV está en los puertos USB (y casi nadie lo conoce)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/secreto-mejor-escondido-smart-tv-puertos-usb-casi-nadie-conoce-1411910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/secreto-mejor-escondido-smart-tv-puertos-usb-casi-nadie-conoce-4249938.jpg?tf=1200x' alt='El secreto mejor escondido de tu Smart TV está en los puertos USB (y casi nadie lo conoce)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/pregunta-tonta-puede-administrador-contrasenas-ver-contrasenas-1411901'>Pregunta tonta: ¿puede el administrador de contraseñas ver mis contraseñas?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/pregunta-tonta-puede-administrador-contrasenas-ver-contrasenas-1411901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pregunta-tonta-puede-administrador-contrasenas-ver-contrasenas-4249930.jpg?tf=1200x' alt='Pregunta tonta: ¿puede el administrador de contraseñas ver mis contraseñas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-como-ver-estado-contactos-enteren-1411562'>WhatsApp: cómo ver el estado de tus contactos sin que se enteren</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-como-ver-estado-contactos-enteren-1411562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-como-ver-estado-contactos-enteren-4249317.jpg?tf=1200x' alt='WhatsApp: cómo ver el estado de tus contactos sin que se enteren' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-maps-desvela-misteriosa-puerta-antartida-1412206'>Google Maps desvela una misteriosa puerta oculta en la Antártida</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-maps-desvela-misteriosa-puerta-antartida-1412206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-desvela-misteriosa-puerta-oculta-antartida-4250338.jpg?tf=1200x' alt='Google Maps desvela una misteriosa puerta oculta en la Antártida' />
     </a>
 </div>
 
