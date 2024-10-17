@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/laliga-presenta-ivan-influencer-virtual-creado-ia-chatgpt-1412475'>LaLiga presenta a Iván, un influencer virtual creado con IA y ChatGPT</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/life/increible-descubrimiento-sobrevolar-cima-gran-piramide-guiza-1412484'>Increíble descubrimiento al sobrevolar la cima de la Gran Pirámide de Guiza</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/increible-descubrimiento-sobrevolar-cima-gran-piramide-guiza-1412484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/increible-descubrimiento-sobrevolar-cuspide-gran-piramide-guiza-4250851.jpg?tf=1200x' alt='Increíble descubrimiento al sobrevolar la cima de la Gran Pirámide de Guiza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/laliga-presenta-ivan-influencer-virtual-creado-ia-chatgpt-1412475'>LaLiga presenta a Alex, un influencer virtual creado con IA y ChatGPT</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/laliga-presenta-ivan-influencer-virtual-creado-ia-chatgpt-1412475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/laliga-presenta-ivan-influencer-virtual-creado-ia-chatgpt-4250834.jpg?tf=1200x' alt='LaLiga presenta a Iván, un influencer virtual creado con IA y ChatGPT' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/laliga-presenta-ivan-influencer-virtual-creado-ia-chatgpt-4250834.jpg?tf=1200x' alt='LaLiga presenta a Alex, un influencer virtual creado con IA y ChatGPT' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/python-sigue-siendo-rey-lenguajes-programacion-aunque-algunos-rivales-ya-estan-muy-cerca-1412464'>Python sigue siendo el rey de los lenguajes de programación, aunque algunos rivales ya están muy cerca</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/python-sigue-siendo-rey-lenguajes-programacion-aunque-algunos-rivales-ya-estan-muy-cerca-1412464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lenguajes-programacion-4250833.jpg?tf=1200x' alt='Python sigue siendo el rey de los lenguajes de programación, aunque algunos rivales ya están muy cerca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/grandes-iconos-cine-terror-vuelve-cada-halloween-pero-no-retomara-papel-dio-fama-soy-demasiado-viejo-1411800'>Es uno de los grandes iconos del cine de terror, y vuelve cada Halloween, pero no retomará el papel que le dio la fama: "Soy demasiado viejo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/grandes-iconos-cine-terror-vuelve-cada-halloween-pero-no-retomara-papel-dio-fama-soy-demasiado-viejo-1411800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/grandes-iconos-cine-terror-vuelve-cada-halloween-pero-no-retomara-papel-dio-fama-soy-demasiado-viejo-4249687.jpg?tf=1200x' alt='Es uno de los grandes iconos del cine de terror, y vuelve cada Halloween, pero no retomará el papel que le dio la fama: "Soy demasiado viejo"' />
     </a>
 </div>
 
