@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/puede-estar-descalzo-fomentar-realmente-inteligencia-dice-ciencia-1410057'>¿Puede estar descalzo fomentar realmente la inteligencia? Esto es lo que dice la ciencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/puede-estar-descalzo-fomentar-realmente-inteligencia-dice-ciencia-1410057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/puede-estar-descalzo-fomentar-realmente-inteligencia-dice-ciencia-4246725.jpg?tf=1200x' alt='¿Puede estar descalzo fomentar realmente la inteligencia? Esto es lo que dice la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/criptos/hombre-tiro-vertedero-disco-duro-millones-euros-bitcoin-rinde-ahora-quiere-sacarle-dinero-ayuntamiento-1412334'>El hombre que tiró al vertedero un disco duro con millones de euros en Bitcoin se rinde: ahora quiere sacarle el dinero al ayuntamiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/criptos/hombre-tiro-vertedero-disco-duro-millones-euros-bitcoin-rinde-ahora-quiere-sacarle-dinero-ayuntamiento-1412334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hombre-tiro-vertedero-disco-duro-millones-euros-bitcoin-rinde-ahora-quiere-sacarle-dinero-ayuntamiento-4250557.jpg?tf=1200x' alt='El hombre que tiró al vertedero un disco duro con millones de euros en Bitcoin se rinde: ahora quiere sacarle el dinero al ayuntamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/movil-android-puede-estar-peligro-descubren-200-apps-afectadas-malware-1412364'>Tu móvil Android puede estar en peligro: descubren más de 200 apps afectadas por malware</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/movil-android-puede-estar-peligro-descubren-200-apps-afectadas-malware-1412364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/malware-android-4144237.jpg?tf=1200x' alt='Tu móvil Android puede estar en peligro: descubren más de 200 apps afectadas por malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-bancario-te-roba-pin-movil-pantalla-desbloqueo-falsa-puedes-detectarlo-1412320'>TrickMo, el virus bancario que te roba el PIN del móvil con una pantalla de desbloqueo falsa, así puedes detectarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-bancario-te-roba-pin-movil-pantalla-desbloqueo-falsa-puedes-detectarlo-1412320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/trickmo-virus-bancario-te-roba-pin-movil-pantalla-desbloqueo-falsa-puedes-detectarlo-4250493.jpg?tf=1200x' alt='TrickMo, el virus bancario que te roba el PIN del móvil con una pantalla de desbloqueo falsa, así puedes detectarlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-tardara-10-anos-alcanzar-niveles-humanos-responsable-ia-meta-1412363'>La inteligencia artificial tardará 10 años en alcanzar niveles humanos, según el responsable de IA de Meta</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-tardara-10-anos-alcanzar-niveles-humanos-responsable-ia-meta-1412363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-ciega-sugiere-nuevo-estudio-3739136.jpg?tf=1200x' alt='La inteligencia artificial tardará 10 años en alcanzar niveles humanos, según el responsable de IA de Meta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-ofrece-3-millones-dolares-ayudar-resolver-enorme-problema-misiones-luna-1412290'>La NASA ofrece 3 millones de dólares para ayudar a resolver un enorme problema en las misiones a la Luna</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-ofrece-3-millones-dolares-ayudar-resolver-enorme-problema-misiones-luna-1412290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nasa-ofrece-3-millones-dolares-ayudar-resolver-enorme-problema-misiones-luna-4250469.jpg?tf=1200x' alt='La NASA ofrece 3 millones de dólares para ayudar a resolver un enorme problema en las misiones a la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-nuevo-chatgpt-modo-voz-avanzado-definitivamente-futuro-1412362'>He probado el nuevo ChatGPT con modo de voz avanzado y definitivamente es el futuro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-nuevo-chatgpt-modo-voz-avanzado-definitivamente-futuro-1412362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-4243002.jpg?tf=1200x' alt='He probado el nuevo ChatGPT con modo de voz avanzado y definitivamente es el futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-quiere-tener-propio-modem-5g-evitar-depender-qualcomm-todo-sabe-momento-1412288'>Apple quiere tener su propio módem 5G para evitar depender de Qualcomm: todo lo que se sabe hasta el momento</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-quiere-tener-propio-modem-5g-evitar-depender-qualcomm-todo-sabe-momento-1412288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656645.jpg?tf=1200x' alt='Apple quiere tener su propio módem 5G para evitar depender de Qualcomm: todo lo que se sabe hasta el momento' />
     </a>
 </div>
 
