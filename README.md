@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-bancario-te-roba-pin-movil-pantalla-desbloqueo-falsa-puedes-detectarlo-1412320'>TrickMo, el virus bancario que te roba el PIN del móvil con una pantalla de desbloqueo falsa, así puedes detectarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-bancario-te-roba-pin-movil-pantalla-desbloqueo-falsa-puedes-detectarlo-1412320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/trickmo-virus-bancario-te-roba-pin-movil-pantalla-desbloqueo-falsa-puedes-detectarlo-4250493.jpg?tf=1200x' alt='TrickMo, el virus bancario que te roba el PIN del móvil con una pantalla de desbloqueo falsa, así puedes detectarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-tardara-10-anos-alcanzar-niveles-humanos-responsable-ia-meta-1412363'>La inteligencia artificial tardará 10 años en alcanzar niveles humanos, según el responsable de IA de Meta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-tardara-10-anos-alcanzar-niveles-humanos-responsable-ia-meta-1412363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-ciega-sugiere-nuevo-estudio-3739136.jpg?tf=1200x' alt='La inteligencia artificial tardará 10 años en alcanzar niveles humanos, según el responsable de IA de Meta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-ofrece-3-millones-dolares-ayudar-resolver-enorme-problema-misiones-luna-1412290'>La NASA ofrece 3 millones de dólares para ayudar a resolver un enorme problema en las misiones a la Luna</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-ofrece-3-millones-dolares-ayudar-resolver-enorme-problema-misiones-luna-1412290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nasa-ofrece-3-millones-dolares-ayudar-resolver-enorme-problema-misiones-luna-4250469.jpg?tf=1200x' alt='La NASA ofrece 3 millones de dólares para ayudar a resolver un enorme problema en las misiones a la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-nuevo-chatgpt-modo-voz-avanzado-definitivamente-futuro-1412362'>He probado el nuevo ChatGPT con modo de voz avanzado y definitivamente es el futuro</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-nuevo-chatgpt-modo-voz-avanzado-definitivamente-futuro-1412362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-4243002.jpg?tf=1200x' alt='He probado el nuevo ChatGPT con modo de voz avanzado y definitivamente es el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-quiere-tener-propio-modem-5g-evitar-depender-qualcomm-todo-sabe-momento-1412288'>Apple quiere tener su propio módem 5G para evitar depender de Qualcomm: todo lo que se sabe hasta el momento</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-quiere-tener-propio-modem-5g-evitar-depender-qualcomm-todo-sabe-momento-1412288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656645.jpg?tf=1200x' alt='Apple quiere tener su propio módem 5G para evitar depender de Qualcomm: todo lo que se sabe hasta el momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/tienen-mejor-cancelacion-hemos-probado-son-baratos-oneplus-buds-pro-3-hunden-precio-aliexpress-1410544'>Tienen la mejor cancelación que hemos probado y son más baratos: los OnePlus Buds Pro 3 hunden su precio en AliExpress</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/tienen-mejor-cancelacion-hemos-probado-son-baratos-oneplus-buds-pro-3-hunden-precio-aliexpress-1410544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oneplus-buds-pro-3-4247553.jpg?tf=1200x' alt='Tienen la mejor cancelación que hemos probado y son más baratos: los OnePlus Buds Pro 3 hunden su precio en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/funciona-google-maps-timeline-como-borrar-guardar-exportar-paso-paso-1412265'>Así funciona Google Maps Timeline: cómo borrar, guardar y exportar paso a paso</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/funciona-google-maps-timeline-como-borrar-guardar-exportar-paso-paso-1412265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/funciona-google-maps-timeline-como-borrar-guardar-exportar-paso-paso-4250417.jpg?tf=1200x' alt='Así funciona Google Maps Timeline: cómo borrar, guardar y exportar paso a paso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-vuelve-seguro-google-identity-check-confirmara-pin-escaneo-huella-dactilar-1412271'>Android se vuelve más seguro con Google Identity Check, que confirmará tu PIN con un escaneo de tu huella dactilar</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-vuelve-seguro-google-identity-check-confirmara-pin-escaneo-huella-dactilar-1412271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/biometria-ciberseguridad-3298003.jpg?tf=1200x' alt='Android se vuelve más seguro con Google Identity Check, que confirmará tu PIN con un escaneo de tu huella dactilar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/habemus-nuevo-anillo-inteligente-vista-xiaomi-sumara-moda-smart-rings-1412246'>Habemus nuevo anillo inteligente a la vista: Xiaomi se sumará a la moda de los smart rings</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/habemus-nuevo-anillo-inteligente-vista-xiaomi-sumara-moda-smart-rings-1412246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/anillos-inteligentes-mano-amazfit-samsung-ultrahuman-4248967.jpg?tf=1200x' alt='Habemus nuevo anillo inteligente a la vista: Xiaomi se sumará a la moda de los smart rings' />
     </a>
 </div>
 
