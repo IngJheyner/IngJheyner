@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/ryzen-9-32gb-ram-brutal-mini-pc-pone-patas-arriba-amazon-1411987'>Ryzen 9 y 32GB de RAM: este brutal Mini PC pone patas arriba Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/ryzen-9-32gb-ram-brutal-mini-pc-pone-patas-arriba-amazon-1411987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/geekom-a8-4250023.jpg?tf=1200x' alt='Ryzen 9 y 32GB de RAM: este brutal Mini PC pone patas arriba Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/elon-musk-cambia-politica-privacidad-x-permitira-entrenar-ia-post-1412541'>Elon Musk cambia la política de privacidad de X: permitirá entrenar IA con tus post</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/elon-musk-cambia-politica-privacidad-x-permitira-entrenar-ia-post-1412541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/elon-musk-hoy-56000-millones-dolares-rico-pero-dinero-no-importante-3516665.jpg?tf=1200x' alt='Elon Musk cambia la política de privacidad de X: permitirá entrenar IA con tus post' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/disney-sube-precios-eeuu-pronto-podria-llegar-europa-1412539'>Disney+ sube los precios en EEUU: pronto podría llegar a Europa</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/disney-sube-precios-eeuu-pronto-podria-llegar-europa-1412539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/disney-sube-precios-eeuu-pronto-podria-llegar-europa-4250946.jpg?tf=1200x' alt='Disney+ sube los precios en EEUU: pronto podría llegar a Europa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-crean-prompt-hace-ia-extraiga-datos-personales-chats-1412529'>¡Cuidado! Crean un prompt que hace que una IA extraiga tus datos personales de los chats</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-crean-prompt-hace-ia-extraiga-datos-personales-chats-1412529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chatbots-4250935.jpg?tf=1200x' alt='¡Cuidado! Crean un prompt que hace que una IA extraiga tus datos personales de los chats' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-photos-adios-recuerdos-llega-timeline-1412524'>Google Photos podría decir adiós a tus recuerdos: ¿vas a perderlos de tu galería de fotos?</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-photos-adios-recuerdos-llega-timeline-1412524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/google-fotos_1.jpg?tf=1200x' alt='Google Photos podría decir adiós a tus recuerdos: ¿vas a perderlos de tu galería de fotos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-aumenta-precio-espana-hoy-mismo-estas-son-nuevas-tarifas-1412523'>Netflix aumenta el precio en España desde hoy mismo, estás son las nuevas tarifas</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-aumenta-precio-espana-hoy-mismo-estas-son-nuevas-tarifas-1412523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-4113798.jpg?tf=1200x' alt='Netflix aumenta el precio en España desde hoy mismo, estás son las nuevas tarifas' />
     </a>
 </div>
 
