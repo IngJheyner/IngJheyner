@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/app-chatgpt-windows-ya-disponible-ventajas-limitaciones-todo-debes-saber-1412596'>La app de ChatGPT para Windows ya está disponible: ventajas, limitaciones y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/app-chatgpt-windows-ya-disponible-ventajas-limitaciones-todo-debes-saber-1412596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/app-chatgpt-windows-4250991.jpg?tf=1200x' alt='La app de ChatGPT para Windows ya está disponible: ventajas, limitaciones y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/ryzen-9-32gb-ram-brutal-mini-pc-pone-patas-arriba-amazon-1411987'>Ryzen 9 y 32GB de RAM: este brutal Mini PC pone patas arriba Amazon</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/ryzen-9-32gb-ram-brutal-mini-pc-pone-patas-arriba-amazon-1411987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/geekom-a8-4250023.jpg?tf=1200x' alt='Ryzen 9 y 32GB de RAM: este brutal Mini PC pone patas arriba Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/usuarios-iphone-16-quejan-consumo-excesivo-bateria-1412542'>Los usuarios de los iPhone 16 se quejan del consumo excesivo de la batería</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/usuarios-iphone-16-quejan-consumo-excesivo-bateria-1412542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/queja-iphone-16-4250942.jpg?tf=1200x' alt='Los usuarios de los iPhone 16 se quejan del consumo excesivo de la batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-crean-prompt-hace-ia-extraiga-datos-personales-chats-1412529'>¡Cuidado! Crean un prompt que hace que una IA extraiga tus datos personales de los chats</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-crean-prompt-hace-ia-extraiga-datos-personales-chats-1412529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chatbots-4250935.jpg?tf=1200x' alt='¡Cuidado! Crean un prompt que hace que una IA extraiga tus datos personales de los chats' />
     </a>
 </div>
 
