@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/como-abrir-coche-movil-seguro-usar-smartphone-como-llave-1412621'>Cómo abrir el coche con tu móvil: ¿es seguro usar el smartphone como llave?</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/como-abrir-coche-movil-seguro-usar-smartphone-como-llave-1412621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-abrir-coche-movil-seguro-usar-smartphone-como-llave-4251113.jpg?tf=1200x' alt='Cómo abrir el coche con tu móvil: ¿es seguro usar el smartphone como llave?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/iptv-sentencia-historica-4-anos-carcel-esa-suscripcion-barata-podria-ser-ruina-1412558'>IPTV, sentencia histórica de 4 años de cárcel: "esa suscripción barata podría ser tu ruina"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/iptv-sentencia-historica-4-anos-carcel-esa-suscripcion-barata-podria-ser-ruina-1412558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-sentencia-historica-4-anos-carcel-esa-suscripcion-barata-podria-ser-ruina-4250977.jpg?tf=1200x' alt='IPTV, sentencia histórica de 4 años de cárcel: "esa suscripción barata podría ser tu ruina"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/lg-actualiza-muchas-novedades-televisores-smart-tv-antiguos-1412602'>LG actualiza con muchas novedades sus televisores Smart TV más antiguos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/lg-actualiza-muchas-novedades-televisores-smart-tv-antiguos-1412602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lg-actualiza-muchas-novedades-televisores-smart-tv-antiguos-4251090.jpg?tf=1200x' alt='LG actualiza con muchas novedades sus televisores Smart TV más antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/prada-vestira-astronautas-mision-lunar-artemis-alta-costura-espacio-1412585'>Prada vestirá a los astronautas de la misión lunar Artemis, alta costura en el espacio</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/prada-vestira-astronautas-mision-lunar-artemis-alta-costura-espacio-1412585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/prada-vestira-astronautas-mision-lunar-artemis-alta-costura-espacio-4251053.jpg?tf=1200x' alt='Prada vestirá a los astronautas de la misión lunar Artemis, alta costura en el espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/app-chatgpt-windows-ya-disponible-ventajas-limitaciones-todo-debes-saber-1412596'>La app de ChatGPT para Windows ya está disponible: ventajas, limitaciones y todo lo que debes saber</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/app-chatgpt-windows-ya-disponible-ventajas-limitaciones-todo-debes-saber-1412596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/app-chatgpt-windows-4250991.jpg?tf=1200x' alt='La app de ChatGPT para Windows ya está disponible: ventajas, limitaciones y todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/ryzen-9-32gb-ram-brutal-mini-pc-pone-patas-arriba-amazon-1411987'>Ryzen 9 y 32GB de RAM: este brutal Mini PC pone patas arriba Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/ryzen-9-32gb-ram-brutal-mini-pc-pone-patas-arriba-amazon-1411987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/geekom-a8-4250023.jpg?tf=1200x' alt='Ryzen 9 y 32GB de RAM: este brutal Mini PC pone patas arriba Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/elon-musk-cambia-politica-privacidad-x-permitira-entrenar-ia-post-1412541'>Elon Musk cambia la política de privacidad de X: permitirá entrenar IA con tus post</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/elon-musk-cambia-politica-privacidad-x-permitira-entrenar-ia-post-1412541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/elon-musk-hoy-56000-millones-dolares-rico-pero-dinero-no-importante-3516665.jpg?tf=1200x' alt='Elon Musk cambia la política de privacidad de X: permitirá entrenar IA con tus post' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/disney-sube-precios-eeuu-pronto-podria-llegar-europa-1412539'>Disney+ sube los precios en EEUU: pronto podría llegar a Europa</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/disney-sube-precios-eeuu-pronto-podria-llegar-europa-1412539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/disney-sube-precios-eeuu-pronto-podria-llegar-europa-4250946.jpg?tf=1200x' alt='Disney+ sube los precios en EEUU: pronto podría llegar a Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/usuarios-iphone-16-quejan-consumo-excesivo-bateria-1412542'>Los usuarios de los iPhone 16 se quejan del consumo excesivo de la batería</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/usuarios-iphone-16-quejan-consumo-excesivo-bateria-1412542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/queja-iphone-16-4250942.jpg?tf=1200x' alt='Los usuarios de los iPhone 16 se quejan del consumo excesivo de la batería' />
     </a>
 </div>
 
