@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/como-limpiar-doble-cristal-horno-tener-desmontarlo-truco-viral-arrasa-redes-1412410'>Cómo limpiar el doble cristal del horno sin tener que desmontarlo, el truco viral que arrasa en redes</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/como-limpiar-doble-cristal-horno-tener-desmontarlo-truco-viral-arrasa-redes-1412410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-limpiar-doble-cristal-horno-tener-desmontarlo-truco-viral-arrasa-redes-4250718.jpg?tf=1200x' alt='Cómo limpiar el doble cristal del horno sin tener que desmontarlo, el truco viral que arrasa en redes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/arqueologos-encuentran-civilizacion-13000-anos-cambia-vision-historia-1411406'>Arqueólogos encuentran una civilización de 13.000 años que cambia nuestra visión de la historia</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/arqueologos-encuentran-civilizacion-13000-anos-cambia-vision-historia-1411406' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gobekli-tepe-4249023.jpg?tf=1200x' alt='Arqueólogos encuentran una civilización de 13.000 años que cambia nuestra visión de la historia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/como-abrir-coche-movil-seguro-usar-smartphone-como-llave-1412621'>Cómo abrir el coche con tu móvil: ¿es seguro usar el smartphone como llave?</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/como-abrir-coche-movil-seguro-usar-smartphone-como-llave-1412621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-abrir-coche-movil-seguro-usar-smartphone-como-llave-4251113.jpg?tf=1200x' alt='Cómo abrir el coche con tu móvil: ¿es seguro usar el smartphone como llave?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/iptv-sentencia-historica-4-anos-carcel-esa-suscripcion-barata-podria-ser-ruina-1412558'>IPTV, sentencia histórica de 4 años de cárcel: "esa suscripción barata podría ser tu ruina"</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/iptv-sentencia-historica-4-anos-carcel-esa-suscripcion-barata-podria-ser-ruina-1412558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-sentencia-historica-4-anos-carcel-esa-suscripcion-barata-podria-ser-ruina-4250977.jpg?tf=1200x' alt='IPTV, sentencia histórica de 4 años de cárcel: "esa suscripción barata podría ser tu ruina"' />
     </a>
 </div>
 
