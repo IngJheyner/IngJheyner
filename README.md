@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-identificador-llamadas-spam-whatsapp-1411477'>Cómo activar el identificador de llamadas spam en WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-identificador-llamadas-spam-whatsapp-1411477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-activar-identificador-llamadas-spam-whatsapp-4249150.jpg?tf=1200x' alt='Cómo activar el identificador de llamadas spam en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-lanza-nuevo-fire-tv-stick-hd-barato-1412712'>Amazon lanza un nuevo Fire TV Stick barato y más potente</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-lanza-nuevo-fire-tv-stick-hd-barato-1412712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-lanza-nuevo-fire-tv-stick-barato-potente-4251215.jpg?tf=1200x' alt='Amazon lanza un nuevo Fire TV Stick barato y más potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/papel-higienico-nevera-loco-truco-viral-tiene-mucho-sentido-parece-1412382'>Papel higiénico en la nevera, el loco truco viral que tiene mucho más sentido de lo que parece</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/papel-higienico-nevera-loco-truco-viral-tiene-mucho-sentido-parece-1412382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/papel-higienico-nevera-loco-truco-viral-tiene-mucho-sentido-parece-4250634.jpg?tf=1200x' alt='Papel higiénico en la nevera, el loco truco viral que tiene mucho más sentido de lo que parece' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/como-limpiar-doble-cristal-horno-tener-desmontarlo-truco-viral-arrasa-redes-1412410'>Cómo limpiar el doble cristal del horno sin tener que desmontarlo, el truco viral que arrasa en redes</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/como-limpiar-doble-cristal-horno-tener-desmontarlo-truco-viral-arrasa-redes-1412410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-limpiar-doble-cristal-horno-tener-desmontarlo-truco-viral-arrasa-redes-4250718.jpg?tf=1200x' alt='Cómo limpiar el doble cristal del horno sin tener que desmontarlo, el truco viral que arrasa en redes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/arqueologos-encuentran-civilizacion-13000-anos-cambia-vision-historia-1411406'>Arqueólogos encuentran una civilización de 13.000 años que cambia nuestra visión de la historia</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/arqueologos-encuentran-civilizacion-13000-anos-cambia-vision-historia-1411406' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gobekli-tepe-4249023.jpg?tf=1200x' alt='Arqueólogos encuentran una civilización de 13.000 años que cambia nuestra visión de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-agregar-pestanas-todas-aplicaciones-programas-estilo-windows-sets-1410988'>Cómo agregar pestañas a todas las aplicaciones y programas al estilo de Windows Sets</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-agregar-pestanas-todas-aplicaciones-programas-estilo-windows-sets-1410988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pestanas-windows-pc-4249030.jpg?tf=1200x' alt='Cómo agregar pestañas a todas las aplicaciones y programas al estilo de Windows Sets' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/truco-uso-tesla-simular-robot-humanoide-pareciera-rapido-realmente-1412641'>El truco que usó Tesla para simular que su robot humanoide pareciera más rápido de lo que realmente es</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/truco-uso-tesla-simular-robot-humanoide-pareciera-rapido-realmente-1412641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/truco-uso-tesla-simular-robot-humanoide-pareciera-rapido-realmente-4251138.jpg?tf=1200x' alt='El truco que usó Tesla para simular que su robot humanoide pareciera más rápido de lo que realmente es' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/como-abrir-coche-movil-seguro-usar-smartphone-como-llave-1412621'>Cómo abrir el coche con tu móvil: ¿es seguro usar el smartphone como llave?</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/como-abrir-coche-movil-seguro-usar-smartphone-como-llave-1412621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-abrir-coche-movil-seguro-usar-smartphone-como-llave-4251113.jpg?tf=1200x' alt='Cómo abrir el coche con tu móvil: ¿es seguro usar el smartphone como llave?' />
     </a>
 </div>
 
