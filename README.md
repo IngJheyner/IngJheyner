@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-crean-prompt-hace-ia-extraiga-datos-personales-chats-1412529'>¡Cuidado! Crean un prompt que hace que una IA extraiga tus datos personales de los chats</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-crean-prompt-hace-ia-extraiga-datos-personales-chats-1412529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chatbots-4250935.jpg?tf=1200x' alt='¡Cuidado! Crean un prompt que hace que una IA extraiga tus datos personales de los chats' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-photos-adios-recuerdos-llega-timeline-1412524'>Google Photos podría decir adiós a tus recuerdos: ¿vas a perderlos de tu galería de fotos?</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-photos-adios-recuerdos-llega-timeline-1412524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/google-fotos_1.jpg?tf=1200x' alt='Google Photos podría decir adiós a tus recuerdos: ¿vas a perderlos de tu galería de fotos?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-galaxy-ring-me-ha-gustado-diseno-pero-todavia-aplicacion-salud-1410980'>Del Samsung Galaxy Ring me ha gustado su diseño, pero todavía más su aplicación de salud</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/samsung-galaxy-ring-me-ha-gustado-diseno-pero-todavia-aplicacion-salud-1410980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-ring-4247295.jpg?tf=1200x' alt='Del Samsung Galaxy Ring me ha gustado su diseño, pero todavía más su aplicación de salud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-visitado-fabrica-moviles-china-estos-son-datos-me-han-sorprendido-1411848'>He visitado una fábrica de móviles en China y estos son los datos que más me han sorprendido</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/he-visitado-fabrica-moviles-china-estos-son-datos-me-han-sorprendido-1411848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/honor-intelligent-manufacturing-industrial-park-shenzhen-4250245.jpg?tf=1200x' alt='He visitado una fábrica de móviles en China y estos son los datos que más me han sorprendido' />
     </a>
 </div>
 
