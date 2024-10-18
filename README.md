@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/listas/tecnologia/mejores-ebooks-ereaders-333049'>Los mejores lectores de eBook: cuál comprar, comparativa y guía para elegir</a></h4>
+    <a href='https://computerhoy.20minutos.es/listas/tecnologia/mejores-ebooks-ereaders-333049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kobo-libra-colour-4250413.jpg?tf=1200x' alt='Los mejores lectores de eBook: cuál comprar, comparativa y guía para elegir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/redes-sociales-perfectas-eran-rss-pero-nos-enganaron-1412495'>Las redes sociales perfectas eran los RSS, pero nos engañaron</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/redes-sociales-perfectas-eran-rss-pero-nos-enganaron-1412495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/redes-sociales-perfectas-eran-rss-pero-nos-enganaron-4250881.jpg?tf=1200x' alt='Las redes sociales perfectas eran los RSS, pero nos engañaron' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-prepara-nueva-subida-precio-podria-costarte-dentro-muy-poco-1412471'>Netflix se prepara para una nueva subida de precio: esto es lo que podría costarte dentro de muy poco</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-prepara-nueva-subida-precio-podria-costarte-dentro-muy-poco-1412471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/subida-precio-netflix-4250844.jpg?tf=1200x' alt='Netflix se prepara para una nueva subida de precio: esto es lo que podría costarte dentro de muy poco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/emular-juegos-nintendo-switch-2-podria-ser-igual-facil-version-actual-1412469'>Emular los juegos de Nintendo Switch 2 podría ser igual de fácil que con la versión actual</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/emular-juegos-nintendo-switch-2-podria-ser-igual-facil-version-actual-1412469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nintendo-switch-2-3712859.jpg?tf=1200x' alt='Emular los juegos de Nintendo Switch 2 podría ser igual de fácil que con la versión actual' />
     </a>
 </div>
 
