@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/redes-sociales-perfectas-eran-rss-pero-nos-enganaron-1412495'>Las redes sociales perfectas eran los RSS, pero nos engañaron</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/redes-sociales-perfectas-eran-rss-pero-nos-enganaron-1412495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/redes-sociales-perfectas-eran-rss-pero-nos-enganaron-4250881.jpg?tf=1200x' alt='Las redes sociales perfectas eran los RSS, pero nos engañaron' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/increible-descubrimiento-sobrevolar-cima-gran-piramide-guiza-1412484'>Increíble descubrimiento al sobrevolar la cima de la Gran Pirámide de Guiza</a></h4>
     <a href='https://computerhoy.20minutos.es/life/increible-descubrimiento-sobrevolar-cima-gran-piramide-guiza-1412484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/increible-descubrimiento-sobrevolar-cuspide-gran-piramide-guiza-4250851.jpg?tf=1200x' alt='Increíble descubrimiento al sobrevolar la cima de la Gran Pirámide de Guiza' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/emular-juegos-nintendo-switch-2-podria-ser-igual-facil-version-actual-1412469'>Emular los juegos de Nintendo Switch 2 podría ser igual de fácil que con la versión actual</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/emular-juegos-nintendo-switch-2-podria-ser-igual-facil-version-actual-1412469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nintendo-switch-2-3712859.jpg?tf=1200x' alt='Emular los juegos de Nintendo Switch 2 podría ser igual de fácil que con la versión actual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/python-sigue-siendo-rey-lenguajes-programacion-aunque-algunos-rivales-ya-estan-muy-cerca-1412464'>Python sigue siendo el rey de los lenguajes de programación, aunque algunos rivales ya están muy cerca</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/python-sigue-siendo-rey-lenguajes-programacion-aunque-algunos-rivales-ya-estan-muy-cerca-1412464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lenguajes-programacion-4250833.jpg?tf=1200x' alt='Python sigue siendo el rey de los lenguajes de programación, aunque algunos rivales ya están muy cerca' />
     </a>
 </div>
 
