@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/arqueologos-encuentran-civilizacion-13000-anos-cambia-vision-historia-1411406'>Arqueólogos encuentran una civilización de 13.000 años que cambia nuestra visión de la historia</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/arqueologos-encuentran-civilizacion-13000-anos-cambia-vision-historia-1411406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gobekli-tepe-4249023.jpg?tf=1200x' alt='Arqueólogos encuentran una civilización de 13.000 años que cambia nuestra visión de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-agregar-pestanas-todas-aplicaciones-programas-estilo-windows-sets-1410988'>Cómo agregar pestañas a todas las aplicaciones y programas al estilo de Windows Sets</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-agregar-pestanas-todas-aplicaciones-programas-estilo-windows-sets-1410988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pestanas-windows-pc-4249030.jpg?tf=1200x' alt='Cómo agregar pestañas a todas las aplicaciones y programas al estilo de Windows Sets' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/truco-uso-tesla-simular-robot-humanoide-pareciera-rapido-realmente-1412641'>El truco que usó Tesla para simular que su robot humanoide pareciera más rápido de lo que realmente es</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/truco-uso-tesla-simular-robot-humanoide-pareciera-rapido-realmente-1412641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/truco-uso-tesla-simular-robot-humanoide-pareciera-rapido-realmente-4251138.jpg?tf=1200x' alt='El truco que usó Tesla para simular que su robot humanoide pareciera más rápido de lo que realmente es' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/como-abrir-coche-movil-seguro-usar-smartphone-como-llave-1412621'>Cómo abrir el coche con tu móvil: ¿es seguro usar el smartphone como llave?</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/como-abrir-coche-movil-seguro-usar-smartphone-como-llave-1412621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-abrir-coche-movil-seguro-usar-smartphone-como-llave-4251113.jpg?tf=1200x' alt='Cómo abrir el coche con tu móvil: ¿es seguro usar el smartphone como llave?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/iptv-sentencia-historica-4-anos-carcel-esa-suscripcion-barata-podria-ser-ruina-1412558'>IPTV, sentencia histórica de 4 años de cárcel: "esa suscripción barata podría ser tu ruina"</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/iptv-sentencia-historica-4-anos-carcel-esa-suscripcion-barata-podria-ser-ruina-1412558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-sentencia-historica-4-anos-carcel-esa-suscripcion-barata-podria-ser-ruina-4250977.jpg?tf=1200x' alt='IPTV, sentencia histórica de 4 años de cárcel: "esa suscripción barata podría ser tu ruina"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/lg-actualiza-muchas-novedades-televisores-smart-tv-antiguos-1412602'>LG actualiza con muchas novedades sus televisores Smart TV más antiguos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/lg-actualiza-muchas-novedades-televisores-smart-tv-antiguos-1412602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lg-actualiza-muchas-novedades-televisores-smart-tv-antiguos-4251090.jpg?tf=1200x' alt='LG actualiza con muchas novedades sus televisores Smart TV más antiguos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/prada-vestira-astronautas-mision-lunar-artemis-alta-costura-espacio-1412585'>Prada vestirá a los astronautas de la misión lunar Artemis, alta costura en el espacio</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/prada-vestira-astronautas-mision-lunar-artemis-alta-costura-espacio-1412585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/prada-vestira-astronautas-mision-lunar-artemis-alta-costura-espacio-4251053.jpg?tf=1200x' alt='Prada vestirá a los astronautas de la misión lunar Artemis, alta costura en el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/app-chatgpt-windows-ya-disponible-ventajas-limitaciones-todo-debes-saber-1412596'>La app de ChatGPT para Windows ya está disponible: ventajas, limitaciones y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/app-chatgpt-windows-ya-disponible-ventajas-limitaciones-todo-debes-saber-1412596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/app-chatgpt-windows-4250991.jpg?tf=1200x' alt='La app de ChatGPT para Windows ya está disponible: ventajas, limitaciones y todo lo que debes saber' />
     </a>
 </div>
 
