@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-ingenioso-sistema-acabar-correos-llamadas-spam-1412509'>Apple añade al iPhone un ingenioso sistema para acabar con los correos y las llamadas spam</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-ingenioso-sistema-acabar-correos-llamadas-spam-1412509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-anade-iphone-ingenioso-sistema-acabar-correos-llamadas-spam-4250906.jpg?tf=1200x' alt='Apple añade al iPhone un ingenioso sistema para acabar con los correos y las llamadas spam' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-galaxy-ring-me-ha-gustado-diseno-pero-todavia-aplicacion-salud-1410980'>Del Samsung Galaxy Ring me ha gustado su diseño, pero todavía más su aplicación de salud</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-galaxy-ring-me-ha-gustado-diseno-pero-todavia-aplicacion-salud-1410980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-ring-4247295.jpg?tf=1200x' alt='Del Samsung Galaxy Ring me ha gustado su diseño, pero todavía más su aplicación de salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-visitado-fabrica-moviles-china-estos-son-datos-me-han-sorprendido-1411848'>He visitado una fábrica de móviles en China y estos son los datos que más me han sorprendido</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/he-visitado-fabrica-moviles-china-estos-son-datos-me-han-sorprendido-1411848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/honor-intelligent-manufacturing-industrial-park-shenzhen-4250245.jpg?tf=1200x' alt='He visitado una fábrica de móviles en China y estos son los datos que más me han sorprendido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/funcion-poderosa-windows-pocos-conocen-deberias-activar-ahora-mismo-1412202'>Esta es la función más poderosa de Windows que pocos conocen y que deberías activar ahora mismo</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/funcion-poderosa-windows-pocos-conocen-deberias-activar-ahora-mismo-1412202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/funcion-poderosa-windows-pocos-conocen-deberias-activar-ahora-mismo-4250355.jpg?tf=1200x' alt='Esta es la función más poderosa de Windows que pocos conocen y que deberías activar ahora mismo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/truco-viral-tiktok-conseguir-envio-expres-shein-tener-pagar-nada-1412191'>El truco viral de TikTok para conseguir el envío exprés de Shein sin tener que pagar nada</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/truco-viral-tiktok-conseguir-envio-expres-shein-tener-pagar-nada-1412191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/truco-viral-tiktok-conseguir-envio-expres-shein-tener-pagar-nada-4250343.jpg?tf=1200x' alt='El truco viral de TikTok para conseguir el envío exprés de Shein sin tener que pagar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/ni-movistar-ni-vodafone-te-han-activado-buzon-iphone-ha-sido-ios-18-puedes-desactivarlo-1412151'>Ni Movistar ni Vodafone te han activado el buzón de tu iPhone: ha sido iOS 18 y así puedes desactivarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/ni-movistar-ni-vodafone-te-han-activado-buzon-iphone-ha-sido-ios-18-puedes-desactivarlo-1412151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-movistar-ni-vodafone-te-han-activado-buzon-iphone-ha-sido-ios-18-puedes-desactivarlo-4250321.jpg?tf=1200x' alt='Ni Movistar ni Vodafone te han activado el buzón de tu iPhone: ha sido iOS 18 y así puedes desactivarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-volverse-invisible-mapa-waze-1411893'>Cómo volverse invisible en el mapa de Waze para que nadie sepa quién eres o dónde estás</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-volverse-invisible-mapa-waze-1411893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ubicacion-waze-4249916.jpg?tf=1200x' alt='Cómo volverse invisible en el mapa de Waze para que nadie sepa quién eres o dónde estás' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/equipo-fisicos-crea-nuevo-modelo-cuantico-desafia-teoria-relatividad-albert-einstein-1411421'>Un equipo de físicos crea un nuevo modelo cuántico que desafía la Teoría de la Relatividad de Albert Einstein</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/equipo-fisicos-crea-nuevo-modelo-cuantico-desafia-teoria-relatividad-albert-einstein-1411421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estrella-4249033.jpg?tf=1200x' alt='Un equipo de físicos crea un nuevo modelo cuántico que desafía la Teoría de la Relatividad de Albert Einstein' />
     </a>
 </div>
 
