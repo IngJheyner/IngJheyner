@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-no-unico-odia-pelicula-culto-clint-eastwood-considera-fracaso-enorme-1411739'>Stephen King no es el único que odia esta película de culto: Clint Eastwood la considera "Un fracaso enorme"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-no-unico-odia-pelicula-culto-clint-eastwood-considera-fracaso-enorme-1411739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/resplandor-2986046.jpg?tf=1200x' alt='Stephen King no es el único que odia esta película de culto: Clint Eastwood la considera "Un fracaso enorme"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-identificador-llamadas-spam-whatsapp-1411477'>Cómo activar el identificador de llamadas spam en WhatsApp</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-identificador-llamadas-spam-whatsapp-1411477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-activar-identificador-llamadas-spam-whatsapp-4249150.jpg?tf=1200x' alt='Cómo activar el identificador de llamadas spam en WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/como-limpiar-doble-cristal-horno-tener-desmontarlo-truco-viral-arrasa-redes-1412410'>Cómo limpiar el doble cristal del horno sin tener que desmontarlo, el truco viral que arrasa en redes</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/como-limpiar-doble-cristal-horno-tener-desmontarlo-truco-viral-arrasa-redes-1412410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-limpiar-doble-cristal-horno-tener-desmontarlo-truco-viral-arrasa-redes-4250718.jpg?tf=1200x' alt='Cómo limpiar el doble cristal del horno sin tener que desmontarlo, el truco viral que arrasa en redes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/arqueologos-encuentran-civilizacion-13000-anos-cambia-vision-historia-1411406'>Arqueólogos encuentran una civilización de 13.000 años que cambia nuestra visión de la historia</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/arqueologos-encuentran-civilizacion-13000-anos-cambia-vision-historia-1411406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gobekli-tepe-4249023.jpg?tf=1200x' alt='Arqueólogos encuentran una civilización de 13.000 años que cambia nuestra visión de la historia' />
     </a>
 </div>
 
