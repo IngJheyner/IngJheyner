@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/disney-sube-precios-eeuu-pronto-podria-llegar-europa-1412539'>Disney+ sube los precios en EEUU: pronto podría llegar a Europa</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/disney-sube-precios-eeuu-pronto-podria-llegar-europa-1412539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/disney-sube-precios-eeuu-pronto-podria-llegar-europa-4250946.jpg?tf=1200x' alt='Disney+ sube los precios en EEUU: pronto podría llegar a Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/usuarios-iphone-16-quejan-consumo-excesivo-bateria-1412542'>Los usuarios de los iPhone 16 se quejan del consumo excesivo de la batería</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/usuarios-iphone-16-quejan-consumo-excesivo-bateria-1412542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/queja-iphone-16-4250942.jpg?tf=1200x' alt='Los usuarios de los iPhone 16 se quejan del consumo excesivo de la batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-crean-prompt-hace-ia-extraiga-datos-personales-chats-1412529'>¡Cuidado! Crean un prompt que hace que una IA extraiga tus datos personales de los chats</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-crean-prompt-hace-ia-extraiga-datos-personales-chats-1412529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chatbots-4250935.jpg?tf=1200x' alt='¡Cuidado! Crean un prompt que hace que una IA extraiga tus datos personales de los chats' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-aumenta-precio-espana-hoy-mismo-estas-son-nuevas-tarifas-1412523'>Netflix aumenta el precio en España desde hoy mismo, estás son las nuevas tarifas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-aumenta-precio-espana-hoy-mismo-estas-son-nuevas-tarifas-1412523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/netflix-4113798.jpg?tf=1200x' alt='Netflix aumenta el precio en España desde hoy mismo, estás son las nuevas tarifas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-ingenioso-sistema-acabar-correos-llamadas-spam-1412509'>Apple añade al iPhone un ingenioso sistema para acabar con los correos y las llamadas spam</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-ingenioso-sistema-acabar-correos-llamadas-spam-1412509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-anade-iphone-ingenioso-sistema-acabar-correos-llamadas-spam-4250906.jpg?tf=1200x' alt='Apple añade al iPhone un ingenioso sistema para acabar con los correos y las llamadas spam' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-galaxy-ring-me-ha-gustado-diseno-pero-todavia-aplicacion-salud-1410980'>Del Samsung Galaxy Ring me ha gustado su diseño, pero todavía más su aplicación de salud</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-galaxy-ring-me-ha-gustado-diseno-pero-todavia-aplicacion-salud-1410980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-ring-4247295.jpg?tf=1200x' alt='Del Samsung Galaxy Ring me ha gustado su diseño, pero todavía más su aplicación de salud' />
     </a>
 </div>
 
