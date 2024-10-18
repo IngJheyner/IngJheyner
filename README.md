@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/listas/tecnologia/mejores-ebooks-ereaders-333049'>Los mejores lectores de eBook: cuál comprar, comparativa y guía para elegir</a></h4>
-    <a href='https://computerhoy.20minutos.es/listas/tecnologia/mejores-ebooks-ereaders-333049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kobo-libra-colour-4250413.jpg?tf=1200x' alt='Los mejores lectores de eBook: cuál comprar, comparativa y guía para elegir' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/funcion-poderosa-windows-pocos-conocen-deberias-activar-ahora-mismo-1412202'>Esta es la función más poderosa de Windows que pocos conocen y que deberías activar ahora mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/funcion-poderosa-windows-pocos-conocen-deberias-activar-ahora-mismo-1412202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/funcion-poderosa-windows-pocos-conocen-deberias-activar-ahora-mismo-4250355.jpg?tf=1200x' alt='Esta es la función más poderosa de Windows que pocos conocen y que deberías activar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/redes-sociales-perfectas-eran-rss-pero-nos-enganaron-1412495'>Las redes sociales perfectas eran los RSS, pero nos engañaron</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/redes-sociales-perfectas-eran-rss-pero-nos-enganaron-1412495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/redes-sociales-perfectas-eran-rss-pero-nos-enganaron-4250881.jpg?tf=1200x' alt='Las redes sociales perfectas eran los RSS, pero nos engañaron' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/truco-viral-tiktok-conseguir-envio-expres-shein-tener-pagar-nada-1412191'>El truco viral de TikTok para conseguir el envío exprés de Shein sin tener que pagar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/truco-viral-tiktok-conseguir-envio-expres-shein-tener-pagar-nada-1412191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/truco-viral-tiktok-conseguir-envio-expres-shein-tener-pagar-nada-4250343.jpg?tf=1200x' alt='El truco viral de TikTok para conseguir el envío exprés de Shein sin tener que pagar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/increible-descubrimiento-sobrevolar-cima-gran-piramide-guiza-1412484'>Increíble descubrimiento al sobrevolar la cima de la Gran Pirámide de Guiza</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/increible-descubrimiento-sobrevolar-cima-gran-piramide-guiza-1412484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/increible-descubrimiento-sobrevolar-cuspide-gran-piramide-guiza-4250851.jpg?tf=1200x' alt='Increíble descubrimiento al sobrevolar la cima de la Gran Pirámide de Guiza' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/ni-movistar-ni-vodafone-te-han-activado-buzon-iphone-ha-sido-ios-18-puedes-desactivarlo-1412151'>Ni Movistar ni Vodafone te han activado el buzón de tu iPhone: ha sido iOS 18 y así puedes desactivarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/ni-movistar-ni-vodafone-te-han-activado-buzon-iphone-ha-sido-ios-18-puedes-desactivarlo-1412151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-movistar-ni-vodafone-te-han-activado-buzon-iphone-ha-sido-ios-18-puedes-desactivarlo-4250321.jpg?tf=1200x' alt='Ni Movistar ni Vodafone te han activado el buzón de tu iPhone: ha sido iOS 18 y así puedes desactivarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/laliga-presenta-ivan-influencer-virtual-creado-ia-chatgpt-1412475'>LaLiga presenta a Alex, un influencer virtual creado con IA y ChatGPT</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/laliga-presenta-ivan-influencer-virtual-creado-ia-chatgpt-1412475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/laliga-presenta-ivan-influencer-virtual-creado-ia-chatgpt-4250834.jpg?tf=1200x' alt='LaLiga presenta a Alex, un influencer virtual creado con IA y ChatGPT' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-volverse-invisible-mapa-waze-1411893'>Cómo volverse invisible en el mapa de Waze para que nadie sepa quién eres o dónde estás</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-volverse-invisible-mapa-waze-1411893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ubicacion-waze-4249916.jpg?tf=1200x' alt='Cómo volverse invisible en el mapa de Waze para que nadie sepa quién eres o dónde estás' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-prepara-nueva-subida-precio-podria-costarte-dentro-muy-poco-1412471'>Netflix se prepara para una nueva subida de precio: esto es lo que podría costarte dentro de muy poco</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-prepara-nueva-subida-precio-podria-costarte-dentro-muy-poco-1412471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/subida-precio-netflix-4250844.jpg?tf=1200x' alt='Netflix se prepara para una nueva subida de precio: esto es lo que podría costarte dentro de muy poco' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/equipo-fisicos-crea-nuevo-modelo-cuantico-desafia-teoria-relatividad-albert-einstein-1411421'>Un equipo de físicos crea un nuevo modelo cuántico que desafía la Teoría de la Relatividad de Albert Einstein</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/equipo-fisicos-crea-nuevo-modelo-cuantico-desafia-teoria-relatividad-albert-einstein-1411421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estrella-4249033.jpg?tf=1200x' alt='Un equipo de físicos crea un nuevo modelo cuántico que desafía la Teoría de la Relatividad de Albert Einstein' />
     </a>
 </div>
 
