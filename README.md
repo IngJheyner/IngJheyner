@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-convertir-raspberry-pi-libro-electronico-tipo-kindle-1411108'>Cómo convertir una Raspberry Pi en un libro electrónico tipo Kindle</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/como-convertir-raspberry-pi-libro-electronico-tipo-kindle-1411108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-convertir-raspberry-pi-libro-electronico-tipo-kindle-4248543.jpg?tf=1200x' alt='Cómo convertir una Raspberry Pi en un libro electrónico tipo Kindle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-interpreto-yo-informacion-me-dan-smartwatch-smart-rings-1411693'>Así es como interpreto yo la información que me dan los smartwatch y smart rings</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/como-interpreto-yo-informacion-me-dan-smartwatch-smart-rings-1411693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-ultra-2-3195134.jpg?tf=1200x' alt='Así es como interpreto yo la información que me dan los smartwatch y smart rings' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-smart-band-9-sigue-siendo-gran-referente-pulseras-inteligentes-1410314'>He probado la Xiaomi Smart Band 9 y sigue siendo el gran referente en pulseras inteligentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-smart-band-9-sigue-siendo-gran-referente-pulseras-inteligentes-1410314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-smart-band-9-4247870.jpg?tf=1200x' alt='He probado la Xiaomi Smart Band 9 y sigue siendo el gran referente en pulseras inteligentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/reto-apple-convertir-vision-pro-nuevo-must-have-tecnologico-conseguira-igual-hizo-iphone-1412120'>El reto de Apple, convertir las Vision Pro en tu nuevo 'must-have' tecnológico: ¿Lo conseguirá igual que hizo con el iPhone?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/reto-apple-convertir-vision-pro-nuevo-must-have-tecnologico-conseguira-igual-hizo-iphone-1412120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3275560.jpg?tf=1200x' alt='El reto de Apple, convertir las Vision Pro en tu nuevo 'must-have' tecnológico: ¿Lo conseguirá igual que hizo con el iPhone?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/adios-batamanta-llega-batacolcha-usar-movil-cama-frio-1412760'>Adiós a la batamanta: llega la batacolcha para usar el móvil en la cama cuando hace frío</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/adios-batamanta-llega-batacolcha-usar-movil-cama-frio-1412760' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/adios-batamanta-llega-batacolcha-usar-movil-cama-cuando-hace-frio-4251342.jpg?tf=1200x' alt='Adiós a la batamanta: llega la batacolcha para usar el móvil en la cama cuando hace frío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-todos-modos-dios-ocultos-windows-11-1411549'>Cómo activar todos los “modos Dios” ocultos en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-todos-modos-dios-ocultos-windows-11-1411549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-activar-todos-modo-dios-ocultos-windows-11-4249302.jpg?tf=1200x' alt='Cómo activar todos los “modos Dios” ocultos en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/qualcomm-cancela-mini-pc-snapdragon-x-elite-developer-kit-1412758'>Qualcomm se rinde: no habrá Mini PC oficial con Snapdragon X Elite</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/qualcomm-cancela-mini-pc-snapdragon-x-elite-developer-kit-1412758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/qualcomm-rinde-no-habra-mini-pc-oficiales-snapdragon-x-elite-4251298.jpg?tf=1200x' alt='Qualcomm se rinde: no habrá Mini PC oficial con Snapdragon X Elite' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-menu-wifi-oculto-samsung-galaxy-todo-puedes-hacer-1411857'>Cómo activar el menú WiFi oculto de los Samsung Galaxy y todo lo que puedes hacer con él</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-menu-wifi-oculto-samsung-galaxy-todo-puedes-hacer-1411857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-activar-menu-wifi-oculto-samsung-galaxy-todo-puedes-hacer-4249888.jpg?tf=1200x' alt='Cómo activar el menú WiFi oculto de los Samsung Galaxy y todo lo que puedes hacer con él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/camara-sony-carga-ultrarrapida-realme-1391491'>Fotos de Sony, pantalla OLED y carga ultrarrápida: Realme aprieta en la gama media con esta rebaja</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/camara-sony-carga-ultrarrapida-realme-1391491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/realme-12-pro-3308111.jpg?tf=1200x' alt='Fotos de Sony, pantalla OLED y carga ultrarrápida: Realme aprieta en la gama media con esta rebaja' />
     </a>
 </div>
 
