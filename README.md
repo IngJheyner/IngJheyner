@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/desveladas-nuevas-caracteristicas-revolucionario-iphone-17-air-saldria-2025-1412816'>Desveladas nuevas características del revolucionario iPhone 17 Air que saldría en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/desveladas-nuevas-caracteristicas-revolucionario-iphone-17-air-saldria-2025-1412816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/reimaginacion-iphone-17-4251466.jpg?tf=1200x' alt='Desveladas nuevas características del revolucionario iPhone 17 Air que saldría en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/google-fotos-web-te-hara-copias-seguridad-automaticas-carpetas-quieras-1412812'>Google Fotos para web te hará copias de seguridad automáticas de las carpetas que quieras</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-fotos-web-te-hara-copias-seguridad-automaticas-carpetas-quieras-1412812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-fotos-4251463.jpg?tf=1200x' alt='Google Fotos para web te hará copias de seguridad automáticas de las carpetas que quieras' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/smartwatch-nos-encanta-tiene-11-dias-bateria-precio-ridiculamente-1410752'>Este smartwatch nos encanta, tiene 11 días de batería y su precio es ridículamente bajo</a></h4>
     <a href='https://computerhoy.20minutos.es/life/smartwatch-nos-encanta-tiene-11-dias-bateria-precio-ridiculamente-1410752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cmf-watch-2-pro-4247934.jpg?tf=1200x' alt='Este smartwatch nos encanta, tiene 11 días de batería y su precio es ridículamente bajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/problemas-reinicio-nuevo-iphone-16-pro-consiste-fallo-apple-no-sabe-solucionar-1412791'>Problemas de reinicio en el nuevo iPhone 16 Pro: en qué consiste el fallo que Apple no sabe solucionar</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/problemas-reinicio-nuevo-iphone-16-pro-consiste-fallo-apple-no-sabe-solucionar-1412791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/problemas-iphone-4251387.jpg?tf=1200x' alt='Problemas de reinicio en el nuevo iPhone 16 Pro: en qué consiste el fallo que Apple no sabe solucionar' />
     </a>
 </div>
 
