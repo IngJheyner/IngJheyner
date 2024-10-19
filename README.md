@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/smartwatch-nos-encanta-tiene-11-dias-bateria-precio-ridiculamente-1410752'>Este smartwatch nos encanta, tiene 11 días de batería y su precio es ridículamente bajo</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/smartwatch-nos-encanta-tiene-11-dias-bateria-precio-ridiculamente-1410752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cmf-watch-2-pro-4247934.jpg?tf=1200x' alt='Este smartwatch nos encanta, tiene 11 días de batería y su precio es ridículamente bajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/problemas-reinicio-nuevo-iphone-16-pro-consiste-fallo-apple-no-sabe-solucionar-1412791'>Problemas de reinicio en el nuevo iPhone 16 Pro: en qué consiste el fallo que Apple no sabe solucionar</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/problemas-reinicio-nuevo-iphone-16-pro-consiste-fallo-apple-no-sabe-solucionar-1412791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/problemas-iphone-4251387.jpg?tf=1200x' alt='Problemas de reinicio en el nuevo iPhone 16 Pro: en qué consiste el fallo que Apple no sabe solucionar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/fontanero-desvela-motivo-solucion-grifos-tienen-poca-presion-agua-1412408'>Un fontanero desvela el motivo (y la solución) por la que los grifos tienen poca presión de agua</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/fontanero-desvela-motivo-solucion-grifos-tienen-poca-presion-agua-1412408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fontanero-desvela-motivo-solucion-grifos-tienen-poca-presion-agua-4250767.jpg?tf=1200x' alt='Un fontanero desvela el motivo (y la solución) por la que los grifos tienen poca presión de agua' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-buscar-mensajes-fecha-chats-whatsapp-1412180'>Cómo buscar mensajes por fecha en tus chats de WhatsApp</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-buscar-mensajes-fecha-chats-whatsapp-1412180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-buscar-mensajes-fecha-chats-whatsapp-4250335.jpg?tf=1200x' alt='Cómo buscar mensajes por fecha en tus chats de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/son-sirven-esos-extranos-candados-estan-inundando-ciudades-espanolas-1411438'>Qué son y para qué sirven esos extraños candados que están inundando las ciudades españolas</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/son-sirven-esos-extranos-candados-estan-inundando-ciudades-espanolas-1411438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/candado-airbnb-4250980.jpg?tf=1200x' alt='Qué son y para qué sirven esos extraños candados que están inundando las ciudades españolas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dia-mundial-cancer-mama-tecnologia-gran-aliada-deteccion-temprana-1412567'>Día Mundial del Cáncer de Mama: la tecnología, gran aliada en su detección temprana </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/dia-mundial-cancer-mama-tecnologia-gran-aliada-deteccion-temprana-1412567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dia-mundial-cancer-mama-4251047.jpg?tf=1200x' alt='Día Mundial del Cáncer de Mama: la tecnología, gran aliada en su detección temprana ' />
     </a>
 </div>
 
