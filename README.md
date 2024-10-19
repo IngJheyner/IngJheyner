@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/criptos/estafa-deepfakes-criptomonedas-chicas-guapas-creadas-ia-1412763'>Deepfakes, criptomonedas y chicas guapas creadas con IA: una estafa de 40 millones</a></h4>
+    <a href='https://computerhoy.20minutos.es/criptos/estafa-deepfakes-criptomonedas-chicas-guapas-creadas-ia-1412763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/deepfakes-criptomonedas-chicas-guapas-creadas-ia-estafa-45-millones-4251346.jpg?tf=1200x' alt='Deepfakes, criptomonedas y chicas guapas creadas con IA: una estafa de 40 millones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-convertir-raspberry-pi-libro-electronico-tipo-kindle-1411108'>Cómo convertir una Raspberry Pi en un libro electrónico tipo Kindle</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/como-convertir-raspberry-pi-libro-electronico-tipo-kindle-1411108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-convertir-raspberry-pi-libro-electronico-tipo-kindle-4248543.jpg?tf=1200x' alt='Cómo convertir una Raspberry Pi en un libro electrónico tipo Kindle' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/reto-apple-convertir-vision-pro-nuevo-must-have-tecnologico-conseguira-igual-hizo-iphone-1412120'>El reto de Apple, convertir las Vision Pro en tu nuevo 'must-have' tecnológico: ¿Lo conseguirá igual que hizo con el iPhone?</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/reto-apple-convertir-vision-pro-nuevo-must-have-tecnologico-conseguira-igual-hizo-iphone-1412120' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3275560.jpg?tf=1200x' alt='El reto de Apple, convertir las Vision Pro en tu nuevo 'must-have' tecnológico: ¿Lo conseguirá igual que hizo con el iPhone?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/adios-batamanta-llega-batacolcha-usar-movil-cama-frio-1412760'>Adiós a la batamanta: llega la batacolcha para usar el móvil en la cama cuando hace frío</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/adios-batamanta-llega-batacolcha-usar-movil-cama-frio-1412760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/adios-batamanta-llega-batacolcha-usar-movil-cama-cuando-hace-frio-4251342.jpg?tf=1200x' alt='Adiós a la batamanta: llega la batacolcha para usar el móvil en la cama cuando hace frío' />
     </a>
 </div>
 
