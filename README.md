@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-menu-wifi-oculto-samsung-galaxy-todo-puedes-hacer-1411857'>Cómo activar el menú WiFi oculto de los Samsung Galaxy y todo lo que puedes hacer con él</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-menu-wifi-oculto-samsung-galaxy-todo-puedes-hacer-1411857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-activar-menu-wifi-oculto-samsung-galaxy-todo-puedes-hacer-4249888.jpg?tf=1200x' alt='Cómo activar el menú WiFi oculto de los Samsung Galaxy y todo lo que puedes hacer con él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/camara-sony-carga-ultrarrapida-realme-1391491'>Fotos de Sony, pantalla OLED y carga ultrarrápida: Realme aprieta en la gama media con esta rebaja</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/camara-sony-carga-ultrarrapida-realme-1391491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/realme-12-pro-3308111.jpg?tf=1200x' alt='Fotos de Sony, pantalla OLED y carga ultrarrápida: Realme aprieta en la gama media con esta rebaja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/xiaomi-cierra-web-app-poco-como-te-afecta-tienes-moviles-hay-algun-peligro-1412500'>Xiaomi cierra la web y la app de POCO: cómo te afecta si tienes uno de sus móviles, ¿hay algún peligro?</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/xiaomi-cierra-web-app-poco-como-te-afecta-tienes-moviles-hay-algun-peligro-1412500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-cierra-web-app-poco-como-te-afecta-tienes-moviles-hay-algun-peligro-4250905.jpg?tf=1200x' alt='Xiaomi cierra la web y la app de POCO: cómo te afecta si tienes uno de sus móviles, ¿hay algún peligro?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/youtuber-comentarios-creados-ia-1412753'>Si te responde un famoso youtuber, puede no ser él: llegan a YouTube los comentarios creados con IA</a></h4>
     <a href='https://computerhoy.20minutos.es/google/youtuber-comentarios-creados-ia-1412753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/te-responde-famoso-youtuber-puede-no-ser-llegan-post-creados-ia-4251320.jpg?tf=1200x' alt='Si te responde un famoso youtuber, puede no ser él: llegan a YouTube los comentarios creados con IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/disney-sube-precio-espana-fecha-pagaras-nuevas-tarifas-1412739'>Disney+ sube de precio en España: fecha desde la que pagarás más y nuevas tarifas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/disney-sube-precio-espana-fecha-pagaras-nuevas-tarifas-1412739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/disney-4251305.jpg?tf=1200x' alt='Disney+ sube de precio en España: fecha desde la que pagarás más y nuevas tarifas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-no-ha-eliminado-nada-simplemente-ha-cambiado-sitio-1412738'>Google Maps no ha eliminado nada, simplemente lo ha cambiado de sitio</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-maps-no-ha-eliminado-nada-simplemente-ha-cambiado-sitio-1412738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-meteorologia-4251303.jpg?tf=1200x' alt='Google Maps no ha eliminado nada, simplemente lo ha cambiado de sitio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/no-actualices-google-maps-android-auto-antes-leer-importante-advertencia-1412735'>No actualices Google Maps en Android Auto antes de leer esta importante advertencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/no-actualices-google-maps-android-auto-antes-leer-importante-advertencia-1412735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-musica-4251299.jpg?tf=1200x' alt='No actualices Google Maps en Android Auto antes de leer esta importante advertencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tom-hanks-peliculas-favoritas-1411923'>Tom Hanks afirma que solo estas cuatro de sus películas "son bastante buenas" (y en una ni aparece su cara)</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/tom-hanks-peliculas-favoritas-1411923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/hoy-cumple-30-anos-mejores-peliculas-tom-hanks-nos-demostro-vida-como-caja-bombones-3670287.jpg?tf=1200x' alt='Tom Hanks afirma que solo estas cuatro de sus películas "son bastante buenas" (y en una ni aparece su cara)' />
     </a>
 </div>
 
