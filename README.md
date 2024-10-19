@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/son-sirven-esos-extranos-candados-estan-inundando-ciudades-espanolas-1411438'>Qué son y para qué sirven esos extraños candados que están inundando las ciudades españolas</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/son-sirven-esos-extranos-candados-estan-inundando-ciudades-espanolas-1411438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/candado-airbnb-4250980.jpg?tf=1200x' alt='Qué son y para qué sirven esos extraños candados que están inundando las ciudades españolas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dia-mundial-cancer-mama-tecnologia-gran-aliada-deteccion-temprana-1412567'>Día Mundial del Cáncer de Mama: la tecnología, gran aliada en su detección temprana </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/dia-mundial-cancer-mama-tecnologia-gran-aliada-deteccion-temprana-1412567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dia-mundial-cancer-mama-4251047.jpg?tf=1200x' alt='Día Mundial del Cáncer de Mama: la tecnología, gran aliada en su detección temprana ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-velocimetro-limite-velocidad-waze-1412027'>Cómo activar el velocímetro y límite de velocidad en Waze</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-velocimetro-limite-velocidad-waze-1412027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/velocimetro-waze-4250061.jpg?tf=1200x' alt='Cómo activar el velocímetro y límite de velocidad en Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/criptos/estafa-deepfakes-criptomonedas-chicas-guapas-creadas-ia-1412763'>Deepfakes, criptomonedas y chicas guapas creadas con IA: una estafa de 40 millones</a></h4>
     <a href='https://computerhoy.20minutos.es/criptos/estafa-deepfakes-criptomonedas-chicas-guapas-creadas-ia-1412763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/deepfakes-criptomonedas-chicas-guapas-creadas-ia-estafa-45-millones-4251346.jpg?tf=1200x' alt='Deepfakes, criptomonedas y chicas guapas creadas con IA: una estafa de 40 millones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-convertir-raspberry-pi-libro-electronico-tipo-kindle-1411108'>Cómo convertir una Raspberry Pi en un libro electrónico tipo Kindle</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/como-convertir-raspberry-pi-libro-electronico-tipo-kindle-1411108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-convertir-raspberry-pi-libro-electronico-tipo-kindle-4248543.jpg?tf=1200x' alt='Cómo convertir una Raspberry Pi en un libro electrónico tipo Kindle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-interpreto-yo-informacion-me-dan-smartwatch-smart-rings-1411693'>Así es como interpreto yo la información que me dan los smartwatch y smart rings</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/como-interpreto-yo-informacion-me-dan-smartwatch-smart-rings-1411693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-ultra-2-3195134.jpg?tf=1200x' alt='Así es como interpreto yo la información que me dan los smartwatch y smart rings' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-smart-band-9-sigue-siendo-gran-referente-pulseras-inteligentes-1410314'>He probado la Xiaomi Smart Band 9 y sigue siendo el gran referente en pulseras inteligentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-smart-band-9-sigue-siendo-gran-referente-pulseras-inteligentes-1410314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-smart-band-9-4247870.jpg?tf=1200x' alt='He probado la Xiaomi Smart Band 9 y sigue siendo el gran referente en pulseras inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/reto-apple-convertir-vision-pro-nuevo-must-have-tecnologico-conseguira-igual-hizo-iphone-1412120'>El reto de Apple, convertir las Vision Pro en tu nuevo 'must-have' tecnológico: ¿Lo conseguirá igual que hizo con el iPhone?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/reto-apple-convertir-vision-pro-nuevo-must-have-tecnologico-conseguira-igual-hizo-iphone-1412120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3275560.jpg?tf=1200x' alt='El reto de Apple, convertir las Vision Pro en tu nuevo 'must-have' tecnológico: ¿Lo conseguirá igual que hizo con el iPhone?' />
     </a>
 </div>
 
