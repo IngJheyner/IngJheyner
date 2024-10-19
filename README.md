@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-estrena-funcionalidad-van-envidiar-usuarios-windows-11-1412842'>Windows 10 estrena una funcionalidad que van a envidiar los usuarios de Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-10-estrena-funcionalidad-van-envidiar-usuarios-windows-11-1412842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-10-4251493.jpg?tf=1200x' alt='Windows 10 estrena una funcionalidad que van a envidiar los usuarios de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/actualizas-windows-11-24h2-sistema-puede-darte-susto-1412838'>Si actualizas a Windows 11 24H2 el sistema puede darte este susto</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/actualizas-windows-11-24h2-sistema-puede-darte-susto-1412838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-actualizacion-4251487.jpg?tf=1200x' alt='Si actualizas a Windows 11 24H2 el sistema puede darte este susto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-cerca-integrar-chatgpt-siri-actualizacion-importante-ano-1412807'>Apple está cerca de integrar ChatGPT en Siri en la actualización más importante del año</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-cerca-integrar-chatgpt-siri-actualizacion-importante-ano-1412807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-intelligence-siri-3656462.jpg?tf=1200x' alt='Apple está cerca de integrar ChatGPT en Siri en la actualización más importante del año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ciberdelincuentes-aprovechan-google-meet-infectar-miles-ordenadores-1412800'>Ciberdelincuentes se aprovechan de Google Meet para infectar a miles de ordenadores</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ciberdelincuentes-aprovechan-google-meet-infectar-miles-ordenadores-1412800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ciberdelincuentes-aprovechan-google-meet-infectar-miles-ordenadores-4251412.jpg?tf=1200x' alt='Ciberdelincuentes se aprovechan de Google Meet para infectar a miles de ordenadores' />
     </a>
 </div>
 
