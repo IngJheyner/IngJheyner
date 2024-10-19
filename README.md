@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/fontanero-desvela-motivo-solucion-grifos-tienen-poca-presion-agua-1412408'>Un fontanero desvela el motivo (y la solución) por la que los grifos tienen poca presión de agua</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/fontanero-desvela-motivo-solucion-grifos-tienen-poca-presion-agua-1412408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fontanero-desvela-motivo-solucion-grifos-tienen-poca-presion-agua-4250767.jpg?tf=1200x' alt='Un fontanero desvela el motivo (y la solución) por la que los grifos tienen poca presión de agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/suspende-temporalmente-obligacion-abrir-android-tiendas-aplicaciones-terceros-estados-unidos-1412783'>Se suspende temporalmente la obligación de abrir Android a tiendas de aplicaciones de terceros en Estados Unidos</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/suspende-temporalmente-obligacion-abrir-android-tiendas-aplicaciones-terceros-estados-unidos-1412783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/juez-toma-decision-google-4251379.jpg?tf=1200x' alt='Se suspende temporalmente la obligación de abrir Android a tiendas de aplicaciones de terceros en Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-buscar-mensajes-fecha-chats-whatsapp-1412180'>Cómo buscar mensajes por fecha en tus chats de WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-buscar-mensajes-fecha-chats-whatsapp-1412180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-buscar-mensajes-fecha-chats-whatsapp-4250335.jpg?tf=1200x' alt='Cómo buscar mensajes por fecha en tus chats de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/son-sirven-esos-extranos-candados-estan-inundando-ciudades-espanolas-1411438'>Qué son y para qué sirven esos extraños candados que están inundando las ciudades españolas</a></h4>
     <a href='https://computerhoy.20minutos.es/life/son-sirven-esos-extranos-candados-estan-inundando-ciudades-espanolas-1411438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/candado-airbnb-4250980.jpg?tf=1200x' alt='Qué son y para qué sirven esos extraños candados que están inundando las ciudades españolas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/dia-mundial-cancer-mama-tecnologia-gran-aliada-deteccion-temprana-1412567'>Día Mundial del Cáncer de Mama: la tecnología, gran aliada en su detección temprana </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/dia-mundial-cancer-mama-tecnologia-gran-aliada-deteccion-temprana-1412567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dia-mundial-cancer-mama-4251047.jpg?tf=1200x' alt='Día Mundial del Cáncer de Mama: la tecnología, gran aliada en su detección temprana ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-velocimetro-limite-velocidad-waze-1412027'>Cómo activar el velocímetro y límite de velocidad en Waze</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-velocimetro-limite-velocidad-waze-1412027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/velocimetro-waze-4250061.jpg?tf=1200x' alt='Cómo activar el velocímetro y límite de velocidad en Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/criptos/estafa-deepfakes-criptomonedas-chicas-guapas-creadas-ia-1412763'>Deepfakes, criptomonedas y chicas guapas creadas con IA: una estafa de 40 millones</a></h4>
-    <a href='https://computerhoy.20minutos.es/criptos/estafa-deepfakes-criptomonedas-chicas-guapas-creadas-ia-1412763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/deepfakes-criptomonedas-chicas-guapas-creadas-ia-estafa-45-millones-4251346.jpg?tf=1200x' alt='Deepfakes, criptomonedas y chicas guapas creadas con IA: una estafa de 40 millones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-convertir-raspberry-pi-libro-electronico-tipo-kindle-1411108'>Cómo convertir una Raspberry Pi en un libro electrónico tipo Kindle</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/como-convertir-raspberry-pi-libro-electronico-tipo-kindle-1411108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-convertir-raspberry-pi-libro-electronico-tipo-kindle-4248543.jpg?tf=1200x' alt='Cómo convertir una Raspberry Pi en un libro electrónico tipo Kindle' />
     </a>
 </div>
 
