@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ciberdelincuentes-aprovechan-google-meet-infectar-miles-ordenadores-1412800'>Ciberdelincuentes se aprovechan de Google Meet para infectar a miles de ordenadores</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ciberdelincuentes-aprovechan-google-meet-infectar-miles-ordenadores-1412800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ciberdelincuentes-aprovechan-google-meet-infectar-miles-ordenadores-4251412.jpg?tf=1200x' alt='Ciberdelincuentes se aprovechan de Google Meet para infectar a miles de ordenadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/smartwatch-nos-encanta-tiene-11-dias-bateria-precio-ridiculamente-1410752'>Este smartwatch nos encanta, tiene 11 días de batería y su precio es ridículamente bajo</a></h4>
     <a href='https://computerhoy.20minutos.es/life/smartwatch-nos-encanta-tiene-11-dias-bateria-precio-ridiculamente-1410752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cmf-watch-2-pro-4247934.jpg?tf=1200x' alt='Este smartwatch nos encanta, tiene 11 días de batería y su precio es ridículamente bajo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/suspende-temporalmente-obligacion-abrir-android-tiendas-aplicaciones-terceros-estados-unidos-1412783'>Se suspende temporalmente la obligación de abrir Android a tiendas de aplicaciones de terceros en Estados Unidos</a></h4>
     <a href='https://computerhoy.20minutos.es/android/suspende-temporalmente-obligacion-abrir-android-tiendas-aplicaciones-terceros-estados-unidos-1412783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/juez-toma-decision-google-4251379.jpg?tf=1200x' alt='Se suspende temporalmente la obligación de abrir Android a tiendas de aplicaciones de terceros en Estados Unidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-buscar-mensajes-fecha-chats-whatsapp-1412180'>Cómo buscar mensajes por fecha en tus chats de WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-buscar-mensajes-fecha-chats-whatsapp-1412180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-buscar-mensajes-fecha-chats-whatsapp-4250335.jpg?tf=1200x' alt='Cómo buscar mensajes por fecha en tus chats de WhatsApp' />
     </a>
 </div>
 
