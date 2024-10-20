@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/oneplus-revela-diseno-final-oneplus-13-1412918'>OnePlus revela el diseño final del OnePlus 13</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/oneplus-revela-diseno-final-oneplus-13-1412918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oneplus-revela-diseno-final-oneplus-13-4251568.jpg?tf=1200x' alt='OnePlus revela el diseño final del OnePlus 13' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/alien-romulus-estrenos-cine-vhs-1412915'>Los estrenos de cine vuelven a lanzarse en VHS </a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/alien-romulus-estrenos-cine-vhs-1412915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estrenos-cine-vuelven-lanzarse-vhs-4251565.jpg?tf=1200x' alt='Los estrenos de cine vuelven a lanzarse en VHS ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/ten-cuidado-digas-whatsapp-meta-ai-recordara-todos-detalles-1412891'>Ten cuidado con lo que digas en WhatsApp: Meta AI recordará todos tus detalles</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ten-cuidado-digas-whatsapp-meta-ai-recordara-todos-detalles-1412891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chat-memory-whatsapp-4251539.jpg?tf=1200x' alt='Ten cuidado con lo que digas en WhatsApp: Meta AI recordará todos tus detalles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-pone-seria-tipo-aplicaciones-acabo-dar-permiso-toda-biblioteca-medios-1412886'>Google se pone seria contra este tipo de aplicaciones: se acabó dar permiso a toda la biblioteca de medios</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-pone-seria-tipo-aplicaciones-acabo-dar-permiso-toda-biblioteca-medios-1412886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-empieza-poner-seria-aplicaciones-acceden-toda-biblioteca-multimedia-4251533.jpg?tf=1200x' alt='Google se pone seria contra este tipo de aplicaciones: se acabó dar permiso a toda la biblioteca de medios' />
     </a>
 </div>
 
