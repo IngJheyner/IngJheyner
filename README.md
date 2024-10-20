@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/outlook-windows-estrena-compatibilidad-temas-ia-personalizados-modernos-1412843'>Outlook para Windows estrena compatibilidad con temas de IA personalizados y modernos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/outlook-windows-estrena-compatibilidad-temas-ia-personalizados-modernos-1412843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/outlook-ia-4226940.jpg?tf=1200x' alt='Outlook para Windows estrena compatibilidad con temas de IA personalizados y modernos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/no-puedo-iniciar-sesion-spotify-problemas-frecuentes-posibles-soluciones-1411282'>No puedo iniciar sesión en Spotify: problemas más frecuentes y posibles soluciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/no-puedo-iniciar-sesion-spotify-problemas-frecuentes-posibles-soluciones-1411282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/problemas-spotify-4249327.jpg?tf=1200x' alt='No puedo iniciar sesión en Spotify: problemas más frecuentes y posibles soluciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-notificaciones-innecesarias-waze-1412024'>Cómo desactivar las notificaciones innecesarias de Waze</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-notificaciones-innecesarias-waze-1412024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/notificaciones-waze-4250057.jpg?tf=1200x' alt='Cómo desactivar las notificaciones innecesarias de Waze' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-muy-claro-mejor-aplicacion-windows-jamas-escrita-1412427'>Steve Jobs lo tenía muy claro: “es la mejor aplicación para Windows jamás escrita”</a></h4>
     <a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-muy-claro-mejor-aplicacion-windows-jamas-escrita-1412427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steve-jobs-tenia-muy-claro-mejor-aplicacion-windows-jamas-escrita-4250815.jpg?tf=1200x' alt='Steve Jobs lo tenía muy claro: “es la mejor aplicación para Windows jamás escrita”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-patenta-tecnologia-basada-ia-genera-imagenes-vivo-mientras-hablas-1412841'>Microsoft patenta una tecnología basada en IA que genera imágenes en vivo mientras hablas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-patenta-tecnologia-basada-ia-genera-imagenes-vivo-mientras-hablas-1412841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inteligencia-artificial-microsoft-4251492.jpg?tf=1200x' alt='Microsoft patenta una tecnología basada en IA que genera imágenes en vivo mientras hablas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tandem-oled-ultimo-grito-pantallas-tablets-apple-huawei-ya-usan-1409823'>¿Qué es Tandem OLED, el último grito en pantallas para tablets que Apple o Huawei ya usan?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tandem-oled-ultimo-grito-pantallas-tablets-apple-huawei-ya-usan-1409823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389285.jpg?tf=1200x' alt='¿Qué es Tandem OLED, el último grito en pantallas para tablets que Apple o Huawei ya usan?' />
     </a>
 </div>
 
