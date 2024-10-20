@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-convence-anciano-hijo-ha-atropellado-mujer-estafan-22000-euros-1412926'>Una IA convence a un anciano de que su hijo ha atropellado a una mujer, le estafan 22.000 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-convence-anciano-hijo-ha-atropellado-mujer-estafan-22000-euros-1412926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-engana-anciano-haciendole-creer-hijo-habia-muerto-estafan-22000-euros-4251578.jpg?tf=1200x' alt='Una IA convence a un anciano de que su hijo ha atropellado a una mujer, le estafan 22.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/oneplus-revela-diseno-final-oneplus-13-1412918'>OnePlus revela el diseño final del OnePlus 13</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/oneplus-revela-diseno-final-oneplus-13-1412918' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oneplus-revela-diseno-final-oneplus-13-4251568.jpg?tf=1200x' alt='OnePlus revela el diseño final del OnePlus 13' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/criptos/worldcoin-criptomoneda-ceo-open-ai-ahora-llama-world-orb-bolsillo-1412910'>Worldcoin, la criptomoneda del CEO de Open AI ahora se llama World, y exige llevar un Orb en el bolsillo</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/criptos/worldcoin-criptomoneda-ceo-open-ai-ahora-llama-world-orb-bolsillo-1412910'>Worldcoin, la criptomoneda del CEO de OpenAI ahora se llama World, y exige llevar un Orb en el bolsillo</a></h4>
     <a href='https://computerhoy.20minutos.es/criptos/worldcoin-criptomoneda-ceo-open-ai-ahora-llama-world-orb-bolsillo-1412910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/worldcoin-criptomoneda-ceo-open-ai-ahora-llama-world-exige-llevar-orb-bolsillo-4251551.jpg?tf=1200x' alt='Worldcoin, la criptomoneda del CEO de Open AI ahora se llama World, y exige llevar un Orb en el bolsillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ten-cuidado-digas-whatsapp-meta-ai-recordara-todos-detalles-1412891'>Ten cuidado con lo que digas en WhatsApp: Meta AI recordará todos tus detalles</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ten-cuidado-digas-whatsapp-meta-ai-recordara-todos-detalles-1412891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chat-memory-whatsapp-4251539.jpg?tf=1200x' alt='Ten cuidado con lo que digas en WhatsApp: Meta AI recordará todos tus detalles' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/worldcoin-criptomoneda-ceo-open-ai-ahora-llama-world-exige-llevar-orb-bolsillo-4251551.jpg?tf=1200x' alt='Worldcoin, la criptomoneda del CEO de OpenAI ahora se llama World, y exige llevar un Orb en el bolsillo' />
     </a>
 </div>
 
