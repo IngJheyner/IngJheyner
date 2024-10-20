@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-notificaciones-innecesarias-waze-1412024'>Cómo desactivar las notificaciones innecesarias de Waze</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-notificaciones-innecesarias-waze-1412024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/notificaciones-waze-4250057.jpg?tf=1200x' alt='Cómo desactivar las notificaciones innecesarias de Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/proteger-direccion-ip-whatsapp-como-activarlo-sirve-1411090'>Proteger la dirección IP en WhatsApp: cómo activarlo y para qué sirve</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/proteger-direccion-ip-whatsapp-como-activarlo-sirve-1411090' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/proteger-direccion-ip-whatsapp-como-activarlo-sirve-4248524.jpg?tf=1200x' alt='Proteger la dirección IP en WhatsApp: cómo activarlo y para qué sirve' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tandem-oled-ultimo-grito-pantallas-tablets-apple-huawei-ya-usan-1409823'>¿Qué es Tandem OLED, el último grito en pantallas para tablets que Apple o Huawei ya usan?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tandem-oled-ultimo-grito-pantallas-tablets-apple-huawei-ya-usan-1409823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389285.jpg?tf=1200x' alt='¿Qué es Tandem OLED, el último grito en pantallas para tablets que Apple o Huawei ya usan?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/clicker-mando-tele-sin-pilas-1412850'>Hace 50 años, los mandos de la tele funcionaban sin pilas: ¿Conoces los 'clickers'?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/clicker-mando-tele-sin-pilas-1412850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hace-50-anos-mandos-tele-funcionaban-pilas-conoces-clickers-4251502.jpg?tf=1200x' alt='Hace 50 años, los mandos de la tele funcionaban sin pilas: ¿Conoces los 'clickers'?' />
     </a>
 </div>
 
