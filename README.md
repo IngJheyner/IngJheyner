@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/influye-nombre-respuestas-chatgpt-openai-dice-1412874'>¿Influye tu nombre en las respuestas de ChatGPT? OpenAI dice que sí</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/influye-nombre-respuestas-chatgpt-openai-dice-1412874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inteligencia-artificial-4251521.jpg?tf=1200x' alt='¿Influye tu nombre en las respuestas de ChatGPT? OpenAI dice que sí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/metodo-cubierto-usan-bomberos-apagar-freidora-llamas-te-interesa-conocer-1412121'>El método del cubierto que usan los bomberos para apagar una freidora en llamas que te interesa conocer</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/metodo-cubierto-usan-bomberos-apagar-freidora-llamas-te-interesa-conocer-1412121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/metodo-cubierto-usan-bomberos-apagar-freidora-llamas-te-interesa-conocer-4250246.jpg?tf=1200x' alt='El método del cubierto que usan los bomberos para apagar una freidora en llamas que te interesa conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/outlook-windows-estrena-compatibilidad-temas-ia-personalizados-modernos-1412843'>Outlook para Windows estrena compatibilidad con temas de IA personalizados y modernos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/outlook-windows-estrena-compatibilidad-temas-ia-personalizados-modernos-1412843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/outlook-ia-4226940.jpg?tf=1200x' alt='Outlook para Windows estrena compatibilidad con temas de IA personalizados y modernos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-notificaciones-innecesarias-waze-1412024'>Cómo desactivar las notificaciones innecesarias de Waze</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-notificaciones-innecesarias-waze-1412024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/notificaciones-waze-4250057.jpg?tf=1200x' alt='Cómo desactivar las notificaciones innecesarias de Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/proteger-direccion-ip-whatsapp-como-activarlo-sirve-1411090'>Proteger la dirección IP en WhatsApp: cómo activarlo y para qué sirve</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/proteger-direccion-ip-whatsapp-como-activarlo-sirve-1411090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/proteger-direccion-ip-whatsapp-como-activarlo-sirve-4248524.jpg?tf=1200x' alt='Proteger la dirección IP en WhatsApp: cómo activarlo y para qué sirve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-muy-claro-mejor-aplicacion-windows-jamas-escrita-1412427'>Steve Jobs lo tenía muy claro: “es la mejor aplicación para Windows jamás escrita”</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-muy-claro-mejor-aplicacion-windows-jamas-escrita-1412427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steve-jobs-tenia-muy-claro-mejor-aplicacion-windows-jamas-escrita-4250815.jpg?tf=1200x' alt='Steve Jobs lo tenía muy claro: “es la mejor aplicación para Windows jamás escrita”' />
     </a>
 </div>
 
