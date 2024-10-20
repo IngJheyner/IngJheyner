@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/futuro-construccion-edificios-madera-resistentes-fuego-1412882'>El futuro de la construcción: edificios de madera resistentes al fuego</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/futuro-construccion-edificios-madera-resistentes-fuego-1412882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/edificio-madera-4251531.jpg?tf=1200x' alt='El futuro de la construcción: edificios de madera resistentes al fuego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/influye-nombre-respuestas-chatgpt-openai-dice-1412874'>¿Influye tu nombre en las respuestas de ChatGPT? OpenAI dice que sí</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/influye-nombre-respuestas-chatgpt-openai-dice-1412874' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inteligencia-artificial-4251521.jpg?tf=1200x' alt='¿Influye tu nombre en las respuestas de ChatGPT? OpenAI dice que sí' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/no-puedo-iniciar-sesion-spotify-problemas-frecuentes-posibles-soluciones-1411282'>No puedo iniciar sesión en Spotify: problemas más frecuentes y posibles soluciones</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/no-puedo-iniciar-sesion-spotify-problemas-frecuentes-posibles-soluciones-1411282' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/problemas-spotify-4249327.jpg?tf=1200x' alt='No puedo iniciar sesión en Spotify: problemas más frecuentes y posibles soluciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-notificaciones-innecesarias-waze-1412024'>Cómo desactivar las notificaciones innecesarias de Waze</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-notificaciones-innecesarias-waze-1412024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/notificaciones-waze-4250057.jpg?tf=1200x' alt='Cómo desactivar las notificaciones innecesarias de Waze' />
     </a>
 </div>
 
