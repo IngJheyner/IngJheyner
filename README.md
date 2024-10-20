@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/criptos/worldcoin-criptomoneda-ceo-open-ai-ahora-llama-world-orb-bolsillo-1412910'>Worldcoin, la criptomoneda del CEO de Open AI ahora se llama World, y exige llevar un Orb en el bolsillo</a></h4>
+    <a href='https://computerhoy.20minutos.es/criptos/worldcoin-criptomoneda-ceo-open-ai-ahora-llama-world-orb-bolsillo-1412910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/worldcoin-criptomoneda-ceo-open-ai-ahora-llama-world-exige-llevar-orb-bolsillo-4251551.jpg?tf=1200x' alt='Worldcoin, la criptomoneda del CEO de Open AI ahora se llama World, y exige llevar un Orb en el bolsillo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/ten-cuidado-digas-whatsapp-meta-ai-recordara-todos-detalles-1412891'>Ten cuidado con lo que digas en WhatsApp: Meta AI recordará todos tus detalles</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ten-cuidado-digas-whatsapp-meta-ai-recordara-todos-detalles-1412891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chat-memory-whatsapp-4251539.jpg?tf=1200x' alt='Ten cuidado con lo que digas en WhatsApp: Meta AI recordará todos tus detalles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/influye-nombre-respuestas-chatgpt-openai-dice-1412874'>¿Influye tu nombre en las respuestas de ChatGPT? OpenAI dice que sí</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/influye-nombre-respuestas-chatgpt-openai-dice-1412874' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inteligencia-artificial-4251521.jpg?tf=1200x' alt='¿Influye tu nombre en las respuestas de ChatGPT? OpenAI dice que sí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/metodo-cubierto-usan-bomberos-apagar-freidora-llamas-te-interesa-conocer-1412121'>El método del cubierto que usan los bomberos para apagar una freidora en llamas que te interesa conocer</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/metodo-cubierto-usan-bomberos-apagar-freidora-llamas-te-interesa-conocer-1412121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/metodo-cubierto-usan-bomberos-apagar-freidora-llamas-te-interesa-conocer-4250246.jpg?tf=1200x' alt='El método del cubierto que usan los bomberos para apagar una freidora en llamas que te interesa conocer' />
     </a>
 </div>
 
