@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/alien-romulus-estrenos-cine-vhs-1412915'>Los estrenos de cine vuelven a lanzarse en VHS </a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/alien-romulus-estrenos-cine-vhs-1412915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estrenos-cine-vuelven-lanzarse-vhs-4251565.jpg?tf=1200x' alt='Los estrenos de cine vuelven a lanzarse en VHS ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-quest-3s-esconden-unas-quest-2-dentro-ifixit-1412913'>Las Meta Quest 3S esconden unas Quest 2 dentro, descubre iFixit </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/meta-quest-3s-esconden-unas-quest-2-dentro-ifixit-1412913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/meta-quest-3s-esconden-unas-quest-2-dentro-descubre-ifixit-4251562.jpg?tf=1200x' alt='Las Meta Quest 3S esconden unas Quest 2 dentro, descubre iFixit ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-pone-seria-tipo-aplicaciones-acabo-dar-permiso-toda-biblioteca-medios-1412886'>Google se pone seria contra este tipo de aplicaciones: se acabó dar permiso a toda la biblioteca de medios</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-pone-seria-tipo-aplicaciones-acabo-dar-permiso-toda-biblioteca-medios-1412886' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-empieza-poner-seria-aplicaciones-acceden-toda-biblioteca-multimedia-4251533.jpg?tf=1200x' alt='Google se pone seria contra este tipo de aplicaciones: se acabó dar permiso a toda la biblioteca de medios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/futuro-construccion-edificios-madera-resistentes-fuego-1412882'>El futuro de la construcción: edificios de madera resistentes al fuego</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/futuro-construccion-edificios-madera-resistentes-fuego-1412882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/edificio-madera-4251531.jpg?tf=1200x' alt='El futuro de la construcción: edificios de madera resistentes al fuego' />
     </a>
 </div>
 
