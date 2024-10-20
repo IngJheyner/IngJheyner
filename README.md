@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-pone-seria-tipo-aplicaciones-acabo-dar-permiso-toda-biblioteca-medios-1412886'>Google se pone seria contra este tipo de aplicaciones: se acabó dar permiso a toda la biblioteca de medios</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-pone-seria-tipo-aplicaciones-acabo-dar-permiso-toda-biblioteca-medios-1412886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-empieza-poner-seria-aplicaciones-acceden-toda-biblioteca-multimedia-4251533.jpg?tf=1200x' alt='Google se pone seria contra este tipo de aplicaciones: se acabó dar permiso a toda la biblioteca de medios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/futuro-construccion-edificios-madera-resistentes-fuego-1412882'>El futuro de la construcción: edificios de madera resistentes al fuego</a></h4>
     <a href='https://computerhoy.20minutos.es/life/futuro-construccion-edificios-madera-resistentes-fuego-1412882' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/edificio-madera-4251531.jpg?tf=1200x' alt='El futuro de la construcción: edificios de madera resistentes al fuego' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/outlook-windows-estrena-compatibilidad-temas-ia-personalizados-modernos-1412843'>Outlook para Windows estrena compatibilidad con temas de IA personalizados y modernos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/outlook-windows-estrena-compatibilidad-temas-ia-personalizados-modernos-1412843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/outlook-ia-4226940.jpg?tf=1200x' alt='Outlook para Windows estrena compatibilidad con temas de IA personalizados y modernos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/no-puedo-iniciar-sesion-spotify-problemas-frecuentes-posibles-soluciones-1411282'>No puedo iniciar sesión en Spotify: problemas más frecuentes y posibles soluciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/no-puedo-iniciar-sesion-spotify-problemas-frecuentes-posibles-soluciones-1411282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/problemas-spotify-4249327.jpg?tf=1200x' alt='No puedo iniciar sesión en Spotify: problemas más frecuentes y posibles soluciones' />
     </a>
 </div>
 
