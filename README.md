@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-desinstalar-apps-android-tv-movil-tocar-mando-distancia-1412503'>Cómo instalar y desinstalar apps en Android TV con el móvil, sin tocar el mando a distancia</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-desinstalar-apps-android-tv-movil-tocar-mando-distancia-1412503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-instalar-desinstalar-apps-android-tv-movil-tocar-mando-distancia-4250911.jpg?tf=1200x' alt='Cómo instalar y desinstalar apps en Android TV con el móvil, sin tocar el mando a distancia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/airtag-xiaomi-barato-superventas-aliexpress-1394858'>El clon del AirTag de Xiaomi cuesta solo 2 euros y es superventas en AliExpress</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/airtag-xiaomi-barato-superventas-aliexpress-1394858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/localizador-xiaomi-3692801.jpg?tf=1200x' alt='El clon del AirTag de Xiaomi cuesta solo 2 euros y es superventas en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cosas-deberias-huir-como-peste-no-quieres-movil-llene-virus-1412366'>Cosas de las que deberías huir como la peste si no quieres que tu móvil se llene de virus</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cosas-deberias-huir-como-peste-no-quieres-movil-llene-virus-1412366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/movil-virus-4250764.jpg?tf=1200x' alt='Cosas de las que deberías huir como la peste si no quieres que tu móvil se llene de virus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/increible-descubrimiento-sobrevolar-cima-gran-piramide-guiza-1412484'>El perro que escaló la Gran Pirámide de Guiza, a salvo: un vídeo muestra cómo bajó</a></h4>
     <a href='https://computerhoy.20minutos.es/life/increible-descubrimiento-sobrevolar-cima-gran-piramide-guiza-1412484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/perro-escalo-gran-piramide-guiza-salvo-video-muestra-como-4251501.jpg?tf=1200x' alt='El perro que escaló la Gran Pirámide de Guiza, a salvo: un vídeo muestra cómo bajó' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-estrena-funcionalidad-van-envidiar-usuarios-windows-11-1412842'>Windows 10 estrena una funcionalidad que van a envidiar los usuarios de Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-10-estrena-funcionalidad-van-envidiar-usuarios-windows-11-1412842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-10-4251493.jpg?tf=1200x' alt='Windows 10 estrena una funcionalidad que van a envidiar los usuarios de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/actualizas-windows-11-24h2-sistema-puede-darte-susto-1412838'>Si actualizas a Windows 11 24H2 el sistema puede darte este susto</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/actualizas-windows-11-24h2-sistema-puede-darte-susto-1412838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-actualizacion-4251487.jpg?tf=1200x' alt='Si actualizas a Windows 11 24H2 el sistema puede darte este susto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/desveladas-nuevas-caracteristicas-revolucionario-iphone-17-air-saldria-2025-1412816'>Desveladas nuevas características del revolucionario iPhone 17 Air que saldría en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/desveladas-nuevas-caracteristicas-revolucionario-iphone-17-air-saldria-2025-1412816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/reimaginacion-iphone-17-4251466.jpg?tf=1200x' alt='Desveladas nuevas características del revolucionario iPhone 17 Air que saldría en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-fotos-web-te-hara-copias-seguridad-automaticas-carpetas-quieras-1412812'>Google Fotos para web te hará copias de seguridad automáticas de las carpetas que quieras</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-fotos-web-te-hara-copias-seguridad-automaticas-carpetas-quieras-1412812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-fotos-4251463.jpg?tf=1200x' alt='Google Fotos para web te hará copias de seguridad automáticas de las carpetas que quieras' />
     </a>
 </div>
 
