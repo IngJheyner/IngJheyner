@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/increible-descubrimiento-sobrevolar-cima-gran-piramide-guiza-1412484'>El perro que escaló la Gran Pirámide de Guiza, a salvo: un vídeo muestra cómo bajó</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/increible-descubrimiento-sobrevolar-cima-gran-piramide-guiza-1412484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/perro-escalo-gran-piramide-guiza-salvo-video-muestra-como-4251501.jpg?tf=1200x' alt='El perro que escaló la Gran Pirámide de Guiza, a salvo: un vídeo muestra cómo bajó' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-estrena-funcionalidad-van-envidiar-usuarios-windows-11-1412842'>Windows 10 estrena una funcionalidad que van a envidiar los usuarios de Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-10-estrena-funcionalidad-van-envidiar-usuarios-windows-11-1412842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-10-4251493.jpg?tf=1200x' alt='Windows 10 estrena una funcionalidad que van a envidiar los usuarios de Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-fotos-web-te-hara-copias-seguridad-automaticas-carpetas-quieras-1412812'>Google Fotos para web te hará copias de seguridad automáticas de las carpetas que quieras</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-fotos-web-te-hara-copias-seguridad-automaticas-carpetas-quieras-1412812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-fotos-4251463.jpg?tf=1200x' alt='Google Fotos para web te hará copias de seguridad automáticas de las carpetas que quieras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-cerca-integrar-chatgpt-siri-actualizacion-importante-ano-1412807'>Apple está cerca de integrar ChatGPT en Siri en la actualización más importante del año</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-cerca-integrar-chatgpt-siri-actualizacion-importante-ano-1412807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-intelligence-siri-3656462.jpg?tf=1200x' alt='Apple está cerca de integrar ChatGPT en Siri en la actualización más importante del año' />
     </a>
 </div>
 
