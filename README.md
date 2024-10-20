@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/wifi-como-descubrir-ese-dispositivo-acaparando-toda-conexion-1411579'>WiFi: cómo descubrir ese dispositivo que está acaparando toda tu conexión</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/wifi-como-descubrir-ese-dispositivo-acaparando-toda-conexion-1411579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/wifi-como-descubrir-ese-dispositivo-acaparando-toda-conexion-4249326.jpg?tf=1200x' alt='WiFi: cómo descubrir ese dispositivo que está acaparando toda tu conexión' />
+    <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-muy-claro-mejor-aplicacion-windows-jamas-escrita-1412427'>Steve Jobs lo tenía muy claro: “es la mejor aplicación para Windows jamás escrita”</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-muy-claro-mejor-aplicacion-windows-jamas-escrita-1412427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steve-jobs-tenia-muy-claro-mejor-aplicacion-windows-jamas-escrita-4250815.jpg?tf=1200x' alt='Steve Jobs lo tenía muy claro: “es la mejor aplicación para Windows jamás escrita”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-desinstalar-apps-android-tv-movil-tocar-mando-distancia-1412503'>Cómo instalar y desinstalar apps en Android TV con el móvil, sin tocar el mando a distancia</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-desinstalar-apps-android-tv-movil-tocar-mando-distancia-1412503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-instalar-desinstalar-apps-android-tv-movil-tocar-mando-distancia-4250911.jpg?tf=1200x' alt='Cómo instalar y desinstalar apps en Android TV con el móvil, sin tocar el mando a distancia' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-patenta-tecnologia-basada-ia-genera-imagenes-vivo-mientras-hablas-1412841'>Microsoft patenta una tecnología basada en IA que genera imágenes en vivo mientras hablas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-patenta-tecnologia-basada-ia-genera-imagenes-vivo-mientras-hablas-1412841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inteligencia-artificial-microsoft-4251492.jpg?tf=1200x' alt='Microsoft patenta una tecnología basada en IA que genera imágenes en vivo mientras hablas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/airtag-xiaomi-barato-superventas-aliexpress-1394858'>El clon del AirTag de Xiaomi cuesta solo 2 euros y es superventas en AliExpress</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/airtag-xiaomi-barato-superventas-aliexpress-1394858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/localizador-xiaomi-3692801.jpg?tf=1200x' alt='El clon del AirTag de Xiaomi cuesta solo 2 euros y es superventas en AliExpress' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tandem-oled-ultimo-grito-pantallas-tablets-apple-huawei-ya-usan-1409823'>¿Qué es Tandem OLED, el último grito en pantallas para tablets que Apple o Huawei ya usan?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tandem-oled-ultimo-grito-pantallas-tablets-apple-huawei-ya-usan-1409823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389285.jpg?tf=1200x' alt='¿Qué es Tandem OLED, el último grito en pantallas para tablets que Apple o Huawei ya usan?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cosas-deberias-huir-como-peste-no-quieres-movil-llene-virus-1412366'>Cosas de las que deberías huir como la peste si no quieres que tu móvil se llene de virus</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cosas-deberias-huir-como-peste-no-quieres-movil-llene-virus-1412366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/movil-virus-4250764.jpg?tf=1200x' alt='Cosas de las que deberías huir como la peste si no quieres que tu móvil se llene de virus' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/clicker-mando-tele-sin-pilas-1412850'>Hace 50 años, los mandos de la tele funcionaban sin pilas: ¿Conoces los 'clickers'?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/clicker-mando-tele-sin-pilas-1412850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hace-50-anos-mandos-tele-funcionaban-pilas-conoces-clickers-4251502.jpg?tf=1200x' alt='Hace 50 años, los mandos de la tele funcionaban sin pilas: ¿Conoces los 'clickers'?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/increible-descubrimiento-sobrevolar-cima-gran-piramide-guiza-1412484'>El perro que escaló la Gran Pirámide de Guiza, a salvo: un vídeo muestra cómo bajó</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/increible-descubrimiento-sobrevolar-cima-gran-piramide-guiza-1412484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/perro-escalo-gran-piramide-guiza-salvo-video-muestra-como-4251501.jpg?tf=1200x' alt='El perro que escaló la Gran Pirámide de Guiza, a salvo: un vídeo muestra cómo bajó' />
+    <h4><a href='https://computerhoy.20minutos.es/analisis/anker-soundcore-space-one-pro-analisis-opiniones-1412510'>He probado los Anker Soundcore Space One Pro y me ha enamorado su diseño, plegable y cómodo a partes iguales</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/anker-soundcore-space-one-pro-analisis-opiniones-1412510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/anker-soundcore-space-one-pro-4251413.jpg?tf=1200x' alt='He probado los Anker Soundcore Space One Pro y me ha enamorado su diseño, plegable y cómodo a partes iguales' />
     </a>
 </div>
 
