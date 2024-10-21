@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/escritorio-trabajar-pie-nocivos-salud-trombosis-varices-1413198'>Si usas un escritorio para trabajar de pie, malas noticias: son nocivos para la salud</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/escritorio-trabajar-pie-nocivos-salud-trombosis-varices-1413198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/usas-escritorio-trabajar-pie-malas-noticias-son-nocivos-salud-4252027.jpg?tf=1200x' alt='Si usas un escritorio para trabajar de pie, malas noticias: son nocivos para la salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-15-oficial-como-instalarlo-novedades-importantes-1413138'>Android 15 es oficial: cómo instalarlo y sus novedades más importantes</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-15-oficial-como-instalarlo-novedades-importantes-1413138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-15-oficial-como-instalarlo-novedades-importantes-4251947.jpg?tf=1200x' alt='Android 15 es oficial: cómo instalarlo y sus novedades más importantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/tienes-aplicacion-olvidate-actualizar-windows-11-24h2-1413185'>Si tienes esta aplicación olvídate de actualizar a Windows 11 24H2</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/tienes-aplicacion-olvidate-actualizar-windows-11-24h2-1413185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/errores-windows-11-4252019.jpg?tf=1200x' alt='Si tienes esta aplicación olvídate de actualizar a Windows 11 24H2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/fiasco-bloqueo-iptv-millones-pierden-acceso-futbol-google-drive-1413183'>El fiasco del bloqueo del IPTV: millones pierden acceso al fútbol y a Google Drive</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/fiasco-bloqueo-iptv-millones-pierden-acceso-futbol-google-drive-1413183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-pirata-4252018.jpg?tf=1200x' alt='El fiasco del bloqueo del IPTV: millones pierden acceso al fútbol y a Google Drive' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/conductora-tesla-revela-impactante-estado-bateria-coche-electrico-despues-150000-km-1413011'>Una conductora de Tesla revela el impactante estado de la batería de su coche eléctrico después de 150.000 km</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/conductora-tesla-revela-impactante-estado-bateria-coche-electrico-despues-150000-km-1413011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/conductora-tesla-4251817.jpg?tf=1200x' alt='Una conductora de Tesla revela el impactante estado de la batería de su coche eléctrico después de 150.000 km' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/create-tv-art-matte-obra-arte-color-studio-1413179'>La marca española Create se estrena en el mundo de los televisores con una obra de arte</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/create-tv-art-matte-obra-arte-color-studio-1413179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1729535665602-4251980.jpg?tf=1200x' alt='La marca española Create se estrena en el mundo de los televisores con una obra de arte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-snapdragon-8-elite-procesador-proximos-moviles-samsung-xiaomi-ia-nueva-gpu-1412264'>Así es Qualcomm Snapdragon 8 Elite, el procesador de los próximos móviles de Samsung o Xiaomi con más IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-snapdragon-8-elite-procesador-proximos-moviles-samsung-xiaomi-ia-nueva-gpu-1412264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/snapdragon-8-elite-4250470.jpg?tf=1200x' alt='Así es Qualcomm Snapdragon 8 Elite, el procesador de los próximos móviles de Samsung o Xiaomi con más IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ni-hiroshima-ni-nagasaki-fue-dia-mortifero-historia-humanidad-1411799'>Ni Hiroshima, ni Nagasaki, este fue el día más mortífero de la historia de la humanidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ni-hiroshima-ni-nagasaki-fue-dia-mortifero-historia-humanidad-1411799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-hiroshima-ni-nagasaki-fue-dia-mortifero-historia-humanidad-4249752.jpg?tf=1200x' alt='Ni Hiroshima, ni Nagasaki, este fue el día más mortífero de la historia de la humanidad' />
     </a>
 </div>
 
