@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/gemini-live-ya-disponible-espanol-1412932'>Gemini Live ya está disponible en español: así puedes charlar con la IA de Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/gemini-live-ya-disponible-espanol-1412932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gemini-live-ya-disponible-espanol-4251584.jpg?tf=1200x' alt='Gemini Live ya está disponible en español: así puedes charlar con la IA de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/nueva-adaptacion-stephen-king-elijah-wood-pretende-revolucionar-cine-terror-1412248'>Así es la nueva adaptación de Stephen King, con Elijah Wood, que pretende revolucionar el cine de terror</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/nueva-adaptacion-stephen-king-elijah-wood-pretende-revolucionar-cine-terror-1412248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/monkey-3935085.jpg?tf=1200x' alt='Así es la nueva adaptación de Stephen King, con Elijah Wood, que pretende revolucionar el cine de terror' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/chat-restringido-whatsapp-como-hace-consiste-consecuencias-tiene-1412462'>Chat restringido de WhatsApp: cómo se hace, en qué consiste y qué consecuencias tiene</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/chat-restringido-whatsapp-como-hace-consiste-consecuencias-tiene-1412462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chat-restringido-whatsapp-como-hace-consiste-consecuencias-tiene-4250873.jpg?tf=1200x' alt='Chat restringido de WhatsApp: cómo se hace, en qué consiste y qué consecuencias tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/he-convertido-viejo-telefono-movil-olvidado-cajon-camara-seguridad-1412088'>Así he convertido un viejo teléfono móvil olvidado en un cajón en una cámara de seguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/he-convertido-viejo-telefono-movil-olvidado-cajon-camara-seguridad-1412088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/he-convertido-viejo-movil-olvidado-cajon-camara-seguridad-4250193.jpg?tf=1200x' alt='Así he convertido un viejo teléfono móvil olvidado en un cajón en una cámara de seguridad' />
     </a>
 </div>
 
