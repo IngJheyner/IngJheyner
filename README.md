@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-desastre-no-instales-todavia-1413205'>Windows 11 24H2 es un desastre: no lo instales todavía</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-desastre-no-instales-todavia-1413205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-24h2-desastre-no-instales-todavia-4252051.jpg?tf=1200x' alt='Windows 11 24H2 es un desastre: no lo instales todavía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/escritorio-trabajar-pie-nocivos-salud-trombosis-varices-1413198'>Si usas un escritorio para trabajar de pie, malas noticias: son nocivos para la salud</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/escritorio-trabajar-pie-nocivos-salud-trombosis-varices-1413198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/usas-escritorio-trabajar-pie-malas-noticias-son-nocivos-salud-4252027.jpg?tf=1200x' alt='Si usas un escritorio para trabajar de pie, malas noticias: son nocivos para la salud' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/fiasco-bloqueo-iptv-millones-pierden-acceso-futbol-google-drive-1413183'>El fiasco del bloqueo del IPTV: millones pierden acceso al fútbol y a Google Drive</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/fiasco-bloqueo-iptv-millones-pierden-acceso-futbol-google-drive-1413183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-pirata-4252018.jpg?tf=1200x' alt='El fiasco del bloqueo del IPTV: millones pierden acceso al fútbol y a Google Drive' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/conductora-tesla-revela-impactante-estado-bateria-coche-electrico-despues-150000-km-1413011'>Una conductora de Tesla revela el impactante estado de la batería de su coche eléctrico después de 150.000 km</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/conductora-tesla-revela-impactante-estado-bateria-coche-electrico-despues-150000-km-1413011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/conductora-tesla-4251817.jpg?tf=1200x' alt='Una conductora de Tesla revela el impactante estado de la batería de su coche eléctrico después de 150.000 km' />
     </a>
 </div>
 
