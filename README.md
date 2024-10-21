@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/chat-restringido-whatsapp-como-hace-consiste-consecuencias-tiene-1412462'>Chat restringido de WhatsApp: cómo se hace, en qué consiste y qué consecuencias tiene</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/chat-restringido-whatsapp-como-hace-consiste-consecuencias-tiene-1412462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chat-restringido-whatsapp-como-hace-consiste-consecuencias-tiene-4250873.jpg?tf=1200x' alt='Chat restringido de WhatsApp: cómo se hace, en qué consiste y qué consecuencias tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/he-convertido-viejo-telefono-movil-olvidado-cajon-camara-seguridad-1412088'>Así he convertido un viejo teléfono móvil olvidado en un cajón en una cámara de seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/he-convertido-viejo-telefono-movil-olvidado-cajon-camara-seguridad-1412088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/he-convertido-viejo-movil-olvidado-cajon-camara-seguridad-4250193.jpg?tf=1200x' alt='Así he convertido un viejo teléfono móvil olvidado en un cajón en una cámara de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/freidora-aire-sin-aceite-vaporizador-agua-1412487'>Tu freidora de aire se ha quedado obsoleta, lo sentimos: llega la freidora sin aceite con vaporizador</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/freidora-aire-sin-aceite-vaporizador-agua-1412487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/freidora-aire-vaporizador-4251058.jpg?tf=1200x' alt='Tu freidora de aire se ha quedado obsoleta, lo sentimos: llega la freidora sin aceite con vaporizador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/portatil-parece-macbook-barato-windows-1396484'>Este portátil parece un MacBook, pero no lo es: apenas supera los 200 euros y tiene Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/portatil-parece-macbook-barato-windows-1396484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chuwi-herobook-pro-3760890.jpg?tf=1200x' alt='Este portátil parece un MacBook, pero no lo es: apenas supera los 200 euros y tiene Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/unica-app-imprescindible-mi-amazon-fire-tv-resto-me-sobran-1412496'>Esta es la única app imprescindible de mi Amazon Fire TV, el resto me sobran</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/unica-app-imprescindible-mi-amazon-fire-tv-resto-me-sobran-1412496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/unica-app-imprescindible-mi-amazon-fire-tv-resto-me-sobran-4250899.jpg?tf=1200x' alt='Esta es la única app imprescindible de mi Amazon Fire TV, el resto me sobran' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-convence-anciano-hijo-ha-atropellado-mujer-estafan-22000-euros-1412926'>Una IA convence a un anciano de que su hijo ha matado a una mujer, le estafan 22.000 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-convence-anciano-hijo-ha-atropellado-mujer-estafan-22000-euros-1412926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-engana-anciano-haciendole-creer-hijo-habia-muerto-estafan-22000-euros-4251578.jpg?tf=1200x' alt='Una IA convence a un anciano de que su hijo ha matado a una mujer, le estafan 22.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/oneplus-revela-diseno-final-oneplus-13-1412918'>OnePlus revela el diseño final del OnePlus 13</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/oneplus-revela-diseno-final-oneplus-13-1412918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oneplus-revela-diseno-final-oneplus-13-4251568.jpg?tf=1200x' alt='OnePlus revela el diseño final del OnePlus 13' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/alien-romulus-estrenos-cine-vhs-1412915'>Los estrenos de cine vuelven a lanzarse en VHS </a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/alien-romulus-estrenos-cine-vhs-1412915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estrenos-cine-vuelven-lanzarse-vhs-4251565.jpg?tf=1200x' alt='Los estrenos de cine vuelven a lanzarse en VHS ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-quest-3s-esconden-unas-quest-2-dentro-ifixit-1412913'>Las Meta Quest 3S esconden unas Quest 2 dentro, descubre iFixit </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/meta-quest-3s-esconden-unas-quest-2-dentro-ifixit-1412913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/meta-quest-3s-esconden-unas-quest-2-dentro-descubre-ifixit-4251562.jpg?tf=1200x' alt='Las Meta Quest 3S esconden unas Quest 2 dentro, descubre iFixit ' />
     </a>
 </div>
 
