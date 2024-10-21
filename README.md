@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/pequeno-invento-capaz-diagnosticar-ataques-cardiacos-minutos-podria-salvar-muchas-vidas-1412970'>El pequeño invento capaz de diagnosticar ataques cardíacos en minutos que podría salvar muchas vidas </a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/pequeno-invento-capaz-diagnosticar-ataques-cardiacos-minutos-podria-salvar-muchas-vidas-1412970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chip-innovadora-superficie-nanoestructurada-analiza-sangre-4251628.jpg?tf=1200x' alt='El pequeño invento capaz de diagnosticar ataques cardíacos en minutos que podría salvar muchas vidas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/cambia-hora-supuestos-beneficios-tiene-1413034'>¿Por qué se cambia la hora y qué supuestos beneficios tiene?</a></h4>
     <a href='https://computerhoy.20minutos.es/life/cambia-hora-supuestos-beneficios-tiene-1413034' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cambia-hora-supuestos-beneficios-tiene-4251727.jpg?tf=1200x' alt='¿Por qué se cambia la hora y qué supuestos beneficios tiene?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/ordenador-potente-mundo-256-nucleos-6-tb-ram-1413018'>Así es el ordenador más potente del mundo: 256 núcleos y 6 TB de RAM</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/ordenador-potente-mundo-256-nucleos-6-tb-ram-1413018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/titan-a900-4251655.jpg?tf=1200x' alt='Así es el ordenador más potente del mundo: 256 núcleos y 6 TB de RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/garmin-fenix-8-toca-fondo-alcanza-precio-ahora-amazon-1412938'>El Garmin Fenix 8 toca fondo: alcanza su precio más bajo hasta ahora en Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/garmin-fenix-8-toca-fondo-alcanza-precio-ahora-amazon-1412938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/garmin-fenix-8-4189550.jpg?tf=1200x' alt='El Garmin Fenix 8 toca fondo: alcanza su precio más bajo hasta ahora en Amazon' />
     </a>
 </div>
 
