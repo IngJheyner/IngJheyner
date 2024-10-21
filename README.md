@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-trucos-han-mejorado-rendimiento-mi-movil-funcione-rapido-1406224'>Estos son los trucos que han mejorado el rendimiento de mi móvil para que funcione más rápido</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-trucos-han-mejorado-rendimiento-mi-movil-funcione-rapido-1406224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hombre-movil-4233797.jpg?tf=1200x' alt='Estos son los trucos que han mejorado el rendimiento de mi móvil para que funcione más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/procesadores-amd-ryzen-9000-x3d-gamers-fecha-lanzamiento-1413149'>Los procesadores AMD Ryzen 9000 X3D para gamers ya tienen fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/procesadores-amd-ryzen-9000-x3d-gamers-fecha-lanzamiento-1413149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/procesadores-amd-ryzen-9000-x3d-gamers-ya-tienen-fecha-lanzamiento-4251912.jpg?tf=1200x' alt='Los procesadores AMD Ryzen 9000 X3D para gamers ya tienen fecha de lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/funcion-oculta-ios-18-acabara-mareos-coche-1413076'>Esta función oculta de iOS 18 acabará con los mareos en el coche</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/funcion-oculta-ios-18-acabara-mareos-coche-1413076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-3953855.jpg?tf=1200x' alt='Esta función oculta de iOS 18 acabará con los mareos en el coche' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/como-actualizar-vida-laboral-manualmente-mejorar-cotizaciones-seguridad-social-1412683'>Cómo actualizar la vida laboral manualmente para mejorar las cotizaciones a la Seguridad Social</a></h4>
     <a href='https://computerhoy.20minutos.es/life/como-actualizar-vida-laboral-manualmente-mejorar-cotizaciones-seguridad-social-1412683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-actualizar-vida-laboral-manualmente-mejorar-cotizaciones-seguridad-social-4251199.jpg?tf=1200x' alt='Cómo actualizar la vida laboral manualmente para mejorar las cotizaciones a la Seguridad Social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mitico-director-cine-da-razon-criticos-joker-2-vi-10-15-minutos-me-fui-1412951'>Este mítico director de cine da la razón a los críticos sobre Joker 2: “Vi 10 o 15 minutos y me fui”</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/mitico-director-cine-da-razon-criticos-joker-2-vi-10-15-minutos-me-fui-1412951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/joker-folie-deux-2024-4247657.jpg?tf=1200x' alt='Este mítico director de cine da la razón a los críticos sobre Joker 2: “Vi 10 o 15 minutos y me fui”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-cualquier-foto-icono-windows-1412748'>Cómo convertir cualquier foto en un icono de Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-cualquier-foto-icono-windows-1412748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-convertir-cualquier-foto-icono-windows-4251341.jpg?tf=1200x' alt='Cómo convertir cualquier foto en un icono de Windows' />
     </a>
 </div>
 
