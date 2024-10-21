@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/nueva-adaptacion-stephen-king-elijah-wood-pretende-revolucionar-cine-terror-1412248'>Así es la nueva adaptación de Stephen King, con Elijah Wood, que pretende revolucionar el cine de terror</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/nueva-adaptacion-stephen-king-elijah-wood-pretende-revolucionar-cine-terror-1412248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/monkey-3935085.jpg?tf=1200x' alt='Así es la nueva adaptación de Stephen King, con Elijah Wood, que pretende revolucionar el cine de terror' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/me-gusta-xiaomi-watch-2-trata-evolucion-natural-smartbands-1408001'>Lo que más me gusta del Xiaomi Watch 2 es que se trata de la evolución natural de las smartbands</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/me-gusta-xiaomi-watch-2-trata-evolucion-natural-smartbands-1408001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-watch-2-4242577.jpg?tf=1200x' alt='Lo que más me gusta del Xiaomi Watch 2 es que se trata de la evolución natural de las smartbands' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-analizado-zte-nubia-focus-pro-5g-gama-media-buena-camara-pero-software-lastra-1410894'>He analizado el ZTE Nubia Focus Pro 5G, un gama media con una buena cámara, pero su software le lastra</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-analizado-zte-nubia-focus-pro-5g-gama-media-buena-camara-pero-software-lastra-1410894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/zte-nubia-focus-pro-5g-4248423.jpg?tf=1200x' alt='He analizado el ZTE Nubia Focus Pro 5G, un gama media con una buena cámara, pero su software le lastra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/chat-restringido-whatsapp-como-hace-consiste-consecuencias-tiene-1412462'>Chat restringido de WhatsApp: cómo se hace, en qué consiste y qué consecuencias tiene</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/chat-restringido-whatsapp-como-hace-consiste-consecuencias-tiene-1412462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chat-restringido-whatsapp-como-hace-consiste-consecuencias-tiene-4250873.jpg?tf=1200x' alt='Chat restringido de WhatsApp: cómo se hace, en qué consiste y qué consecuencias tiene' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/he-convertido-viejo-telefono-movil-olvidado-cajon-camara-seguridad-1412088'>Así he convertido un viejo teléfono móvil olvidado en un cajón en una cámara de seguridad</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/he-convertido-viejo-telefono-movil-olvidado-cajon-camara-seguridad-1412088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/he-convertido-viejo-movil-olvidado-cajon-camara-seguridad-4250193.jpg?tf=1200x' alt='Así he convertido un viejo teléfono móvil olvidado en un cajón en una cámara de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/freidora-aire-sin-aceite-vaporizador-agua-1412487'>Tu freidora de aire se ha quedado obsoleta, lo sentimos: llega la freidora sin aceite con vaporizador</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/freidora-aire-sin-aceite-vaporizador-agua-1412487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/freidora-aire-vaporizador-4251058.jpg?tf=1200x' alt='Tu freidora de aire se ha quedado obsoleta, lo sentimos: llega la freidora sin aceite con vaporizador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/portatil-parece-macbook-barato-windows-1396484'>Este portátil parece un MacBook, pero no lo es: apenas supera los 200 euros y tiene Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/portatil-parece-macbook-barato-windows-1396484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/chuwi-herobook-pro-3760890.jpg?tf=1200x' alt='Este portátil parece un MacBook, pero no lo es: apenas supera los 200 euros y tiene Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/unica-app-imprescindible-mi-amazon-fire-tv-resto-me-sobran-1412496'>Esta es la única app imprescindible de mi Amazon Fire TV, el resto me sobran</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/unica-app-imprescindible-mi-amazon-fire-tv-resto-me-sobran-1412496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/unica-app-imprescindible-mi-amazon-fire-tv-resto-me-sobran-4250899.jpg?tf=1200x' alt='Esta es la única app imprescindible de mi Amazon Fire TV, el resto me sobran' />
     </a>
 </div>
 
