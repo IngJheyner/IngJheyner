@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-convence-anciano-hijo-ha-atropellado-mujer-estafan-22000-euros-1412926'>Una IA convence a un anciano de que su hijo ha atropellado a una mujer, le estafan 22.000 euros</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-convence-anciano-hijo-ha-atropellado-mujer-estafan-22000-euros-1412926'>Una IA convence a un anciano de que su hijo ha matado a una mujer, le estafan 22.000 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-convence-anciano-hijo-ha-atropellado-mujer-estafan-22000-euros-1412926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-engana-anciano-haciendole-creer-hijo-habia-muerto-estafan-22000-euros-4251578.jpg?tf=1200x' alt='Una IA convence a un anciano de que su hijo ha atropellado a una mujer, le estafan 22.000 euros' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-engana-anciano-haciendole-creer-hijo-habia-muerto-estafan-22000-euros-4251578.jpg?tf=1200x' alt='Una IA convence a un anciano de que su hijo ha matado a una mujer, le estafan 22.000 euros' />
     </a>
 </div>
 
