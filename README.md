@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/fin-sale-luz-ipad-mini-2024-tiene-8-gb-ram-1412969'>Por fin sale a la luz: el iPad mini (2024) tiene 8 GB de RAM</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/fin-sale-luz-ipad-mini-2024-tiene-8-gb-ram-1412969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ipad-mini-apple-4249668.jpg?tf=1200x' alt='Por fin sale a la luz: el iPad mini (2024) tiene 8 GB de RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/empleados-apple-creen-empresa-dos-anos-detras-competencia-desarrollo-ia-1412955'>Los empleados de Apple creen que la empresa está dos años por detrás de la competencia en el desarrollo de IA </a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/empleados-apple-creen-empresa-dos-anos-detras-competencia-desarrollo-ia-1412955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-cayendose-barranco-3990464.jpg?tf=1200x' alt='Los empleados de Apple creen que la empresa está dos años por detrás de la competencia en el desarrollo de IA ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/gemini-live-ya-disponible-espanol-1412932'>Gemini Live ya está disponible en español: así puedes charlar con la IA de Google</a></h4>
     <a href='https://computerhoy.20minutos.es/google/gemini-live-ya-disponible-espanol-1412932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gemini-live-ya-disponible-espanol-4251584.jpg?tf=1200x' alt='Gemini Live ya está disponible en español: así puedes charlar con la IA de Google' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/me-gusta-xiaomi-watch-2-trata-evolucion-natural-smartbands-1408001'>Lo que más me gusta del Xiaomi Watch 2 es que se trata de la evolución natural de las smartbands</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/me-gusta-xiaomi-watch-2-trata-evolucion-natural-smartbands-1408001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-watch-2-4242577.jpg?tf=1200x' alt='Lo que más me gusta del Xiaomi Watch 2 es que se trata de la evolución natural de las smartbands' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-analizado-zte-nubia-focus-pro-5g-gama-media-buena-camara-pero-software-lastra-1410894'>He analizado el ZTE Nubia Focus Pro 5G, un gama media con una buena cámara, pero su software le lastra</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-analizado-zte-nubia-focus-pro-5g-gama-media-buena-camara-pero-software-lastra-1410894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/zte-nubia-focus-pro-5g-4248423.jpg?tf=1200x' alt='He analizado el ZTE Nubia Focus Pro 5G, un gama media con una buena cámara, pero su software le lastra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/chat-restringido-whatsapp-como-hace-consiste-consecuencias-tiene-1412462'>Chat restringido de WhatsApp: cómo se hace, en qué consiste y qué consecuencias tiene</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/chat-restringido-whatsapp-como-hace-consiste-consecuencias-tiene-1412462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chat-restringido-whatsapp-como-hace-consiste-consecuencias-tiene-4250873.jpg?tf=1200x' alt='Chat restringido de WhatsApp: cómo se hace, en qué consiste y qué consecuencias tiene' />
     </a>
 </div>
 
