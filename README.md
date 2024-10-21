@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/estabamos-totalmente-equivocados-investigadores-desvelan-nuevo-mapa-mundial-1412989'>Estábamos totalmente equivocados: investigadores desvelan un nuevo mapa mundial</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/estabamos-totalmente-equivocados-investigadores-desvelan-nuevo-mapa-mundial-1412989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nuevo-mapa-mundi-4251666.jpg?tf=1200x' alt='Estábamos totalmente equivocados: investigadores desvelan un nuevo mapa mundial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/ordenador-potente-mundo-256-nucleos-6-tb-ram-1413018'>Así es el ordenador más potente del mundo: 256 núcleos y 6 TB de RAM</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/ordenador-potente-mundo-256-nucleos-6-tb-ram-1413018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/titan-a900-4251655.jpg?tf=1200x' alt='Así es el ordenador más potente del mundo: 256 núcleos y 6 TB de RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/garmin-fenix-8-toca-fondo-alcanza-precio-ahora-amazon-1412938'>El Garmin Fenix 8 toca fondo: alcanza su precio más bajo hasta ahora en Amazon</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/garmin-fenix-8-toca-fondo-alcanza-precio-ahora-amazon-1412938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/garmin-fenix-8-4189550.jpg?tf=1200x' alt='El Garmin Fenix 8 toca fondo: alcanza su precio más bajo hasta ahora en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/google-mejorara-forma-detecta-malware-apps-android-1412979'>Google mejorará la forma en la que detecta malware en las apps de Android</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-mejorara-forma-detecta-malware-apps-android-1412979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/google-play-store.jpg?tf=1200x' alt='Google mejorará la forma en la que detecta malware en las apps de Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-4-lanzamiento-precio-todas-novedades-movil-barato-apple-1311510'>iPhone SE 4: lanzamiento, precio y todas las novedades de este smartphone barato de Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-4-lanzamiento-precio-todas-novedades-movil-barato-apple-1311510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-4-lanzamiento-precio-todas-novedades-smartphone-barato-apple-3612038.jpg?tf=1200x' alt='iPhone SE 4: lanzamiento, precio y todas las novedades de este smartphone barato de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-waze-carplay-android-auto-1398850'>Cómo usar Waze en CarPlay y Android Auto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-waze-carplay-android-auto-1398850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-coche-3882293.jpg?tf=1200x' alt='Cómo usar Waze en CarPlay y Android Auto' />
     </a>
 </div>
 
