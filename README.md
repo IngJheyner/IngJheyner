@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/cambia-hora-supuestos-beneficios-tiene-1413034'>¿Por qué se cambia la hora y qué supuestos beneficios tiene?</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/cambia-hora-supuestos-beneficios-tiene-1413034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cambia-hora-supuestos-beneficios-tiene-4251727.jpg?tf=1200x' alt='¿Por qué se cambia la hora y qué supuestos beneficios tiene?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/microsoft-recomienda-millones-usuarios-apple-actualicen-sistemas-operativos-detener-peligrosa-amenaza-1413042'>Microsoft recomienda a millones de usuarios de Apple que actualicen sus sistemas operativos para detener una peligrosa amenaza</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/microsoft-recomienda-millones-usuarios-apple-actualicen-sistemas-operativos-detener-peligrosa-amenaza-1413042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/virus-ordenadores-mac-3284680.jpg?tf=1200x' alt='Microsoft recomienda a millones de usuarios de Apple que actualicen sus sistemas operativos para detener una peligrosa amenaza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/estabamos-totalmente-equivocados-investigadores-desvelan-nuevo-mapa-mundial-1412989'>Estábamos totalmente equivocados: investigadores desvelan un nuevo mapa mundial</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/estabamos-totalmente-equivocados-investigadores-desvelan-nuevo-mapa-mundial-1412989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nuevo-mapa-mundi-4251666.jpg?tf=1200x' alt='Estábamos totalmente equivocados: investigadores desvelan un nuevo mapa mundial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/garmin-fenix-8-toca-fondo-alcanza-precio-ahora-amazon-1412938'>El Garmin Fenix 8 toca fondo: alcanza su precio más bajo hasta ahora en Amazon</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/garmin-fenix-8-toca-fondo-alcanza-precio-ahora-amazon-1412938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/garmin-fenix-8-4189550.jpg?tf=1200x' alt='El Garmin Fenix 8 toca fondo: alcanza su precio más bajo hasta ahora en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-convierte-copilot-agente-ventas-automatizado-ya-permite-crear-otros-nuevos-1412398'>Microsoft convierte a Copilot en un agente de ventas automatizado, y ya permite crear otros nuevos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-convierte-copilot-agente-ventas-automatizado-ya-permite-crear-otros-nuevos-1412398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/copilot-studio-agente-ventas-microsoft-dynamics-365-4250716.jpg?tf=1200x' alt='Microsoft convierte a Copilot en un agente de ventas automatizado, y ya permite crear otros nuevos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-mejorara-forma-detecta-malware-apps-android-1412979'>Google mejorará la forma en la que detecta malware en las apps de Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-mejorara-forma-detecta-malware-apps-android-1412979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/google-play-store.jpg?tf=1200x' alt='Google mejorará la forma en la que detecta malware en las apps de Android' />
     </a>
 </div>
 
