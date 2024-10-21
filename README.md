@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fiasco-bloqueo-iptv-millones-pierden-acceso-futbol-google-drive-1413183'>El fiasco del bloqueo del IPTV: millones pierden acceso al fútbol y a Google Drive</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/fiasco-bloqueo-iptv-millones-pierden-acceso-futbol-google-drive-1413183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-pirata-4252018.jpg?tf=1200x' alt='El fiasco del bloqueo del IPTV: millones pierden acceso al fútbol y a Google Drive' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/conductora-tesla-revela-impactante-estado-bateria-coche-electrico-despues-150000-km-1413011'>Una conductora de Tesla revela el impactante estado de la batería de su coche eléctrico después de 150.000 km</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/conductora-tesla-revela-impactante-estado-bateria-coche-electrico-despues-150000-km-1413011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/conductora-tesla-4251817.jpg?tf=1200x' alt='Una conductora de Tesla revela el impactante estado de la batería de su coche eléctrico después de 150.000 km' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/create-tv-art-matte-obra-arte-color-studio-1413179'>La marca española Create se estrena en el mundo de los televisores con una obra de arte</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/create-tv-art-matte-obra-arte-color-studio-1413179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1729535665602-4251980.jpg?tf=1200x' alt='La marca española Create se estrena en el mundo de los televisores con una obra de arte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-snapdragon-8-elite-procesador-proximos-moviles-samsung-xiaomi-ia-nueva-gpu-1412264'>Así es Qualcomm Snapdragon 8 Elite, el procesador de los próximos móviles de Samsung o Xiaomi con más IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-snapdragon-8-elite-procesador-proximos-moviles-samsung-xiaomi-ia-nueva-gpu-1412264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/snapdragon-8-elite-4250470.jpg?tf=1200x' alt='Así es Qualcomm Snapdragon 8 Elite, el procesador de los próximos móviles de Samsung o Xiaomi con más IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/ni-hiroshima-ni-nagasaki-fue-dia-mortifero-historia-humanidad-1411799'>Ni Hiroshima, ni Nagasaki, este fue el día más mortífero de la historia de la humanidad</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ni-hiroshima-ni-nagasaki-fue-dia-mortifero-historia-humanidad-1411799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-hiroshima-ni-nagasaki-fue-dia-mortifero-historia-humanidad-4249752.jpg?tf=1200x' alt='Ni Hiroshima, ni Nagasaki, este fue el día más mortífero de la historia de la humanidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/secreto-detras-exito-apple-sabiduria-steve-jobs-heredo-padre-1412963'>El secreto detrás del éxito de Apple: la sabiduría que Steve Jobs heredó de su padre</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/secreto-detras-exito-apple-sabiduria-steve-jobs-heredo-padre-1412963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/secreto-detras-exito-apple-sabiduria-steve-jobs-heredo-padre-4251622.jpg?tf=1200x' alt='El secreto detrás del éxito de Apple: la sabiduría que Steve Jobs heredó de su padre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-trucos-han-mejorado-rendimiento-mi-movil-funcione-rapido-1406224'>Estos son los trucos que han mejorado el rendimiento de mi móvil para que funcione más rápido</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-trucos-han-mejorado-rendimiento-mi-movil-funcione-rapido-1406224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hombre-movil-4233797.jpg?tf=1200x' alt='Estos son los trucos que han mejorado el rendimiento de mi móvil para que funcione más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/procesadores-amd-ryzen-9000-x3d-gamers-fecha-lanzamiento-1413149'>Los procesadores AMD Ryzen 9000 X3D para gamers ya tienen fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/procesadores-amd-ryzen-9000-x3d-gamers-fecha-lanzamiento-1413149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/procesadores-amd-ryzen-9000-x3d-gamers-ya-tienen-fecha-lanzamiento-4251912.jpg?tf=1200x' alt='Los procesadores AMD Ryzen 9000 X3D para gamers ya tienen fecha de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/funcion-oculta-ios-18-acabara-mareos-coche-1413076'>Esta función oculta de iOS 18 acabará con los mareos en el coche</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/funcion-oculta-ios-18-acabara-mareos-coche-1413076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-3953855.jpg?tf=1200x' alt='Esta función oculta de iOS 18 acabará con los mareos en el coche' />
     </a>
 </div>
 
