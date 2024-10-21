@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/lidl-tiene-solucion-mal-tiempo-chaqueta-barata-ultraligera-resistente-no-querras-quitarte-todo-otono-1412911'>Lidl tiene la solución para el mal tiempo: una chaqueta barata, ultraligera y resistente que no querrás quitarte en todo el otoño</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/lidl-tiene-solucion-mal-tiempo-chaqueta-barata-ultraligera-resistente-no-querras-quitarte-todo-otono-1412911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/horario-lidl-hora-abre-cierra-supermercado-3387201.jpg?tf=1200x' alt='Lidl tiene la solución para el mal tiempo: una chaqueta barata, ultraligera y resistente que no querrás quitarte en todo el otoño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/mercadona-advierte-posible-estafa-clientes-no-fraude-1413085'>Mercadona advierte de una posible estafa a sus clientes: "Si no es así, es un fraude"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/mercadona-advierte-posible-estafa-clientes-no-fraude-1413085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/supermercado-mercadona-3697256.jpg?tf=1200x' alt='Mercadona advierte de una posible estafa a sus clientes: "Si no es así, es un fraude"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/pequeno-invento-capaz-diagnosticar-ataques-cardiacos-minutos-podria-salvar-muchas-vidas-1412970'>El pequeño invento capaz de diagnosticar ataques cardíacos en minutos que podría salvar muchas vidas </a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/pequeno-invento-capaz-diagnosticar-ataques-cardiacos-minutos-podria-salvar-muchas-vidas-1412970' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chip-innovadora-superficie-nanoestructurada-analiza-sangre-4251628.jpg?tf=1200x' alt='El pequeño invento capaz de diagnosticar ataques cardíacos en minutos que podría salvar muchas vidas ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/microsoft-recomienda-millones-usuarios-apple-actualicen-sistemas-operativos-detener-peligrosa-amenaza-1413042'>Microsoft recomienda a millones de usuarios de Apple que actualicen sus sistemas operativos para detener una peligrosa amenaza</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/microsoft-recomienda-millones-usuarios-apple-actualicen-sistemas-operativos-detener-peligrosa-amenaza-1413042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/virus-ordenadores-mac-3284680.jpg?tf=1200x' alt='Microsoft recomienda a millones de usuarios de Apple que actualicen sus sistemas operativos para detener una peligrosa amenaza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/estabamos-totalmente-equivocados-investigadores-desvelan-nuevo-mapa-mundial-1412989'>Estábamos totalmente equivocados: investigadores desvelan un nuevo mapa mundial</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/estabamos-totalmente-equivocados-investigadores-desvelan-nuevo-mapa-mundial-1412989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nuevo-mapa-mundi-4251666.jpg?tf=1200x' alt='Estábamos totalmente equivocados: investigadores desvelan un nuevo mapa mundial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/ordenador-potente-mundo-256-nucleos-6-tb-ram-1413018'>Así es el ordenador más potente del mundo: 256 núcleos y 6 TB de RAM</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/ordenador-potente-mundo-256-nucleos-6-tb-ram-1413018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/titan-a900-4251655.jpg?tf=1200x' alt='Así es el ordenador más potente del mundo: 256 núcleos y 6 TB de RAM' />
     </a>
 </div>
 
