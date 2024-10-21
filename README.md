@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-mejorara-forma-detecta-malware-apps-android-1412979'>Google mejorará la forma en la que detecta malware en las apps de Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-mejorara-forma-detecta-malware-apps-android-1412979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/google-play-store.jpg?tf=1200x' alt='Google mejorará la forma en la que detecta malware en las apps de Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-4-lanzamiento-precio-todas-novedades-movil-barato-apple-1311510'>iPhone SE 4: lanzamiento, precio y todas las novedades de este smartphone barato de Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-4-lanzamiento-precio-todas-novedades-movil-barato-apple-1311510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-4-lanzamiento-precio-todas-novedades-smartphone-barato-apple-3612038.jpg?tf=1200x' alt='iPhone SE 4: lanzamiento, precio y todas las novedades de este smartphone barato de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-waze-carplay-android-auto-1398850'>Cómo usar Waze en CarPlay y Android Auto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-waze-carplay-android-auto-1398850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-coche-3882293.jpg?tf=1200x' alt='Cómo usar Waze en CarPlay y Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/fin-sale-luz-ipad-mini-2024-tiene-8-gb-ram-1412969'>Por fin sale a la luz: el iPad mini (2024) tiene 8 GB de RAM</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/fin-sale-luz-ipad-mini-2024-tiene-8-gb-ram-1412969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ipad-mini-apple-4249668.jpg?tf=1200x' alt='Por fin sale a la luz: el iPad mini (2024) tiene 8 GB de RAM' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/empleados-apple-creen-empresa-dos-anos-detras-competencia-desarrollo-ia-1412955'>Los empleados de Apple creen que la empresa está dos años por detrás de la competencia en el desarrollo de IA </a></h4>
     <a href='https://computerhoy.20minutos.es/apple/empleados-apple-creen-empresa-dos-anos-detras-competencia-desarrollo-ia-1412955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-cayendose-barranco-3990464.jpg?tf=1200x' alt='Los empleados de Apple creen que la empresa está dos años por detrás de la competencia en el desarrollo de IA ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/gemini-live-ya-disponible-espanol-1412932'>Gemini Live ya está disponible en español: así puedes charlar con la IA de Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/gemini-live-ya-disponible-espanol-1412932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gemini-live-ya-disponible-espanol-4251584.jpg?tf=1200x' alt='Gemini Live ya está disponible en español: así puedes charlar con la IA de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/nueva-adaptacion-stephen-king-elijah-wood-pretende-revolucionar-cine-terror-1412248'>Así es la nueva adaptación de Stephen King, con Elijah Wood, que pretende revolucionar el cine de terror</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/nueva-adaptacion-stephen-king-elijah-wood-pretende-revolucionar-cine-terror-1412248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/monkey-3935085.jpg?tf=1200x' alt='Así es la nueva adaptación de Stephen King, con Elijah Wood, que pretende revolucionar el cine de terror' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/me-gusta-xiaomi-watch-2-trata-evolucion-natural-smartbands-1408001'>Lo que más me gusta del Xiaomi Watch 2 es que se trata de la evolución natural de las smartbands</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/me-gusta-xiaomi-watch-2-trata-evolucion-natural-smartbands-1408001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-watch-2-4242577.jpg?tf=1200x' alt='Lo que más me gusta del Xiaomi Watch 2 es que se trata de la evolución natural de las smartbands' />
     </a>
 </div>
 
