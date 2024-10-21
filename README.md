@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/garmin-fenix-8-toca-fondo-alcanza-precio-ahora-amazon-1412938'>El Garmin Fenix 8 toca fondo: alcanza su precio más bajo hasta ahora en Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/garmin-fenix-8-toca-fondo-alcanza-precio-ahora-amazon-1412938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/garmin-fenix-8-4189550.jpg?tf=1200x' alt='El Garmin Fenix 8 toca fondo: alcanza su precio más bajo hasta ahora en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-convierte-copilot-agente-ventas-automatizado-ya-permite-crear-otros-nuevos-1412398'>Microsoft convierte a Copilot en un agente de ventas automatizado, y ya permite crear otros nuevos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-convierte-copilot-agente-ventas-automatizado-ya-permite-crear-otros-nuevos-1412398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/copilot-studio-agente-ventas-microsoft-dynamics-365-4250716.jpg?tf=1200x' alt='Microsoft convierte a Copilot en un agente de ventas automatizado, y ya permite crear otros nuevos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-mejorara-forma-detecta-malware-apps-android-1412979'>Google mejorará la forma en la que detecta malware en las apps de Android</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-mejorara-forma-detecta-malware-apps-android-1412979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/google-play-store.jpg?tf=1200x' alt='Google mejorará la forma en la que detecta malware en las apps de Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-waze-carplay-android-auto-1398850'>Cómo usar Waze en CarPlay y Android Auto</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-waze-carplay-android-auto-1398850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-coche-3882293.jpg?tf=1200x' alt='Cómo usar Waze en CarPlay y Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/fin-sale-luz-ipad-mini-2024-tiene-8-gb-ram-1412969'>Por fin sale a la luz: el iPad mini (2024) tiene 8 GB de RAM</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/fin-sale-luz-ipad-mini-2024-tiene-8-gb-ram-1412969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ipad-mini-apple-4249668.jpg?tf=1200x' alt='Por fin sale a la luz: el iPad mini (2024) tiene 8 GB de RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/empleados-apple-creen-empresa-dos-anos-detras-competencia-desarrollo-ia-1412955'>Los empleados de Apple creen que la empresa está dos años por detrás de la competencia en el desarrollo de IA </a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/empleados-apple-creen-empresa-dos-anos-detras-competencia-desarrollo-ia-1412955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-cayendose-barranco-3990464.jpg?tf=1200x' alt='Los empleados de Apple creen que la empresa está dos años por detrás de la competencia en el desarrollo de IA ' />
     </a>
 </div>
 
