@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/como-actualizar-vida-laboral-manualmente-mejorar-cotizaciones-seguridad-social-1412683'>Cómo actualizar la vida laboral manualmente para mejorar las cotizaciones a la Seguridad Social</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/como-actualizar-vida-laboral-manualmente-mejorar-cotizaciones-seguridad-social-1412683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-actualizar-vida-laboral-manualmente-mejorar-cotizaciones-seguridad-social-4251199.jpg?tf=1200x' alt='Cómo actualizar la vida laboral manualmente para mejorar las cotizaciones a la Seguridad Social' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mitico-director-cine-da-razon-criticos-joker-2-vi-10-15-minutos-me-fui-1412951'>Este mítico director de cine da la razón a los críticos sobre Joker 2: “Vi 10 o 15 minutos y me fui”</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/mitico-director-cine-da-razon-criticos-joker-2-vi-10-15-minutos-me-fui-1412951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/joker-folie-deux-2024-4247657.jpg?tf=1200x' alt='Este mítico director de cine da la razón a los críticos sobre Joker 2: “Vi 10 o 15 minutos y me fui”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-cualquier-foto-icono-windows-1412748'>Cómo convertir cualquier foto en un icono de Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-cualquier-foto-icono-windows-1412748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-convertir-cualquier-foto-icono-windows-4251341.jpg?tf=1200x' alt='Cómo convertir cualquier foto en un icono de Windows' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/lidl-tiene-solucion-mal-tiempo-chaqueta-barata-ultraligera-resistente-no-querras-quitarte-todo-otono-1412911'>Lidl tiene la solución para el mal tiempo: una chaqueta barata, ultraligera y resistente que no querrás quitarte en todo el otoño</a></h4>
     <a href='https://computerhoy.20minutos.es/life/lidl-tiene-solucion-mal-tiempo-chaqueta-barata-ultraligera-resistente-no-querras-quitarte-todo-otono-1412911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/horario-lidl-hora-abre-cierra-supermercado-3387201.jpg?tf=1200x' alt='Lidl tiene la solución para el mal tiempo: una chaqueta barata, ultraligera y resistente que no querrás quitarte en todo el otoño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/mercadona-advierte-posible-estafa-clientes-no-fraude-1413085'>Mercadona advierte de una posible estafa a sus clientes: "Si no es así, es un fraude"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/mercadona-advierte-posible-estafa-clientes-no-fraude-1413085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/supermercado-mercadona-3697256.jpg?tf=1200x' alt='Mercadona advierte de una posible estafa a sus clientes: "Si no es así, es un fraude"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/pequeno-invento-capaz-diagnosticar-ataques-cardiacos-minutos-podria-salvar-muchas-vidas-1412970'>El pequeño invento capaz de diagnosticar ataques cardíacos en minutos que podría salvar muchas vidas </a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/pequeno-invento-capaz-diagnosticar-ataques-cardiacos-minutos-podria-salvar-muchas-vidas-1412970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chip-innovadora-superficie-nanoestructurada-analiza-sangre-4251628.jpg?tf=1200x' alt='El pequeño invento capaz de diagnosticar ataques cardíacos en minutos que podría salvar muchas vidas ' />
     </a>
 </div>
 
