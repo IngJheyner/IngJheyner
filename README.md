@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/funcion-oculta-ios-18-acabara-mareos-coche-1413076'>Esta función oculta de iOS 18 acabará con los mareos en el coche</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/funcion-oculta-ios-18-acabara-mareos-coche-1413076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-3953855.jpg?tf=1200x' alt='Esta función oculta de iOS 18 acabará con los mareos en el coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/supera-problema-3-cuerpos-produccion-ciencia-ficcion-cara-netflix-historia-1412828'>Supera a El problema de los 3 cuerpos: así es la producción de ciencia ficción más cara de Netflix de la historia</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/supera-problema-3-cuerpos-produccion-ciencia-ficcion-cara-netflix-historia-1412828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/supera-problema-3-cuerpos-produccion-ciencia-ficcion-cara-netflix-historia-4251475.jpg?tf=1200x' alt='Supera a El problema de los 3 cuerpos: así es la producción de ciencia ficción más cara de Netflix de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/como-actualizar-vida-laboral-manualmente-mejorar-cotizaciones-seguridad-social-1412683'>Cómo actualizar la vida laboral manualmente para mejorar las cotizaciones a la Seguridad Social</a></h4>
     <a href='https://computerhoy.20minutos.es/life/como-actualizar-vida-laboral-manualmente-mejorar-cotizaciones-seguridad-social-1412683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-actualizar-vida-laboral-manualmente-mejorar-cotizaciones-seguridad-social-4251199.jpg?tf=1200x' alt='Cómo actualizar la vida laboral manualmente para mejorar las cotizaciones a la Seguridad Social' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-cualquier-foto-icono-windows-1412748'>Cómo convertir cualquier foto en un icono de Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-cualquier-foto-icono-windows-1412748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-convertir-cualquier-foto-icono-windows-4251341.jpg?tf=1200x' alt='Cómo convertir cualquier foto en un icono de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/invento-convierte-cualquier-objeto-superficie-tactil-capacitiva-1413043'>El invento que convierte cualquier objeto en una superficie táctil capacitiva</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/invento-convierte-cualquier-objeto-superficie-tactil-capacitiva-1413043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/demostracion-tecnologia-tactil-zinnsia-4251752.jpg?tf=1200x' alt='El invento que convierte cualquier objeto en una superficie táctil capacitiva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/lidl-tiene-solucion-mal-tiempo-chaqueta-barata-ultraligera-resistente-no-querras-quitarte-todo-otono-1412911'>Lidl tiene la solución para el mal tiempo: una chaqueta barata, ultraligera y resistente que no querrás quitarte en todo el otoño</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/lidl-tiene-solucion-mal-tiempo-chaqueta-barata-ultraligera-resistente-no-querras-quitarte-todo-otono-1412911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/horario-lidl-hora-abre-cierra-supermercado-3387201.jpg?tf=1200x' alt='Lidl tiene la solución para el mal tiempo: una chaqueta barata, ultraligera y resistente que no querrás quitarte en todo el otoño' />
     </a>
 </div>
 
