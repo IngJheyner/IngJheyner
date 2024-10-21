@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-cualquier-foto-icono-windows-1412748'>Cómo convertir cualquier foto en un icono de Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-cualquier-foto-icono-windows-1412748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-convertir-cualquier-foto-icono-windows-4251341.jpg?tf=1200x' alt='Cómo convertir cualquier foto en un icono de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/invento-convierte-cualquier-objeto-superficie-tactil-capacitiva-1413043'>El invento que convierte cualquier objeto en una superficie táctil capacitiva</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/invento-convierte-cualquier-objeto-superficie-tactil-capacitiva-1413043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/demostracion-tecnologia-tactil-zinnsia-4251752.jpg?tf=1200x' alt='El invento que convierte cualquier objeto en una superficie táctil capacitiva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/lidl-tiene-solucion-mal-tiempo-chaqueta-barata-ultraligera-resistente-no-querras-quitarte-todo-otono-1412911'>Lidl tiene la solución para el mal tiempo: una chaqueta barata, ultraligera y resistente que no querrás quitarte en todo el otoño</a></h4>
     <a href='https://computerhoy.20minutos.es/life/lidl-tiene-solucion-mal-tiempo-chaqueta-barata-ultraligera-resistente-no-querras-quitarte-todo-otono-1412911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/horario-lidl-hora-abre-cierra-supermercado-3387201.jpg?tf=1200x' alt='Lidl tiene la solución para el mal tiempo: una chaqueta barata, ultraligera y resistente que no querrás quitarte en todo el otoño' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/pequeno-invento-capaz-diagnosticar-ataques-cardiacos-minutos-podria-salvar-muchas-vidas-1412970'>El pequeño invento capaz de diagnosticar ataques cardíacos en minutos que podría salvar muchas vidas </a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/pequeno-invento-capaz-diagnosticar-ataques-cardiacos-minutos-podria-salvar-muchas-vidas-1412970' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chip-innovadora-superficie-nanoestructurada-analiza-sangre-4251628.jpg?tf=1200x' alt='El pequeño invento capaz de diagnosticar ataques cardíacos en minutos que podría salvar muchas vidas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/cambia-hora-supuestos-beneficios-tiene-1413034'>¿Por qué se cambia la hora y qué supuestos beneficios tiene?</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/cambia-hora-supuestos-beneficios-tiene-1413034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cambia-hora-supuestos-beneficios-tiene-4251727.jpg?tf=1200x' alt='¿Por qué se cambia la hora y qué supuestos beneficios tiene?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/microsoft-recomienda-millones-usuarios-apple-actualicen-sistemas-operativos-detener-peligrosa-amenaza-1413042'>Microsoft recomienda a millones de usuarios de Apple que actualicen sus sistemas operativos para detener una peligrosa amenaza</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/microsoft-recomienda-millones-usuarios-apple-actualicen-sistemas-operativos-detener-peligrosa-amenaza-1413042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/virus-ordenadores-mac-3284680.jpg?tf=1200x' alt='Microsoft recomienda a millones de usuarios de Apple que actualicen sus sistemas operativos para detener una peligrosa amenaza' />
     </a>
 </div>
 
