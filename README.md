@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/unica-app-imprescindible-mi-amazon-fire-tv-resto-me-sobran-1412496'>Esta es la única app imprescindible de mi Amazon Fire TV, el resto me sobran</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/unica-app-imprescindible-mi-amazon-fire-tv-resto-me-sobran-1412496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/unica-app-imprescindible-mi-amazon-fire-tv-resto-me-sobran-4250899.jpg?tf=1200x' alt='Esta es la única app imprescindible de mi Amazon Fire TV, el resto me sobran' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-convence-anciano-hijo-ha-atropellado-mujer-estafan-22000-euros-1412926'>Una IA convence a un anciano de que su hijo ha matado a una mujer, le estafan 22.000 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-convence-anciano-hijo-ha-atropellado-mujer-estafan-22000-euros-1412926' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-engana-anciano-haciendole-creer-hijo-habia-muerto-estafan-22000-euros-4251578.jpg?tf=1200x' alt='Una IA convence a un anciano de que su hijo ha matado a una mujer, le estafan 22.000 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-quest-3s-esconden-unas-quest-2-dentro-ifixit-1412913'>Las Meta Quest 3S esconden unas Quest 2 dentro, descubre iFixit </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/meta-quest-3s-esconden-unas-quest-2-dentro-ifixit-1412913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/meta-quest-3s-esconden-unas-quest-2-dentro-descubre-ifixit-4251562.jpg?tf=1200x' alt='Las Meta Quest 3S esconden unas Quest 2 dentro, descubre iFixit ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/criptos/worldcoin-criptomoneda-ceo-open-ai-ahora-llama-world-orb-bolsillo-1412910'>Worldcoin, la criptomoneda del CEO de OpenAI ahora se llama World, y exige llevar un Orb en el bolsillo</a></h4>
-    <a href='https://computerhoy.20minutos.es/criptos/worldcoin-criptomoneda-ceo-open-ai-ahora-llama-world-orb-bolsillo-1412910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/worldcoin-criptomoneda-ceo-open-ai-ahora-llama-world-exige-llevar-orb-bolsillo-4251551.jpg?tf=1200x' alt='Worldcoin, la criptomoneda del CEO de OpenAI ahora se llama World, y exige llevar un Orb en el bolsillo' />
     </a>
 </div>
 
