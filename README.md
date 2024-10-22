@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/web-sueno-todo-gamer-nostalgico-30000-juegos-clasicos-descargar-gratis-1413116'>Esta web es el sueño de todo gamer nostálgico: 30.000 juegos clásicos para descargar gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/web-sueno-todo-gamer-nostalgico-30000-juegos-clasicos-descargar-gratis-1413116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/web-sueno-todo-gamer-nostalgico-30000-juegos-clasicos-descargar-gratis-4251877.jpg?tf=1200x' alt='Esta web es el sueño de todo gamer nostálgico: 30.000 juegos clásicos para descargar gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/bots-telegram-nacieron-ayudar-pero-estan-corrompiendo-pueden-crear-fotos-desnudos-cualquier-persona-1413126'>Los bots de Telegram nacieron para ayudar, pero se están corrompiendo y pueden crear fotos de desnudos de cualquier persona</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/bots-telegram-nacieron-ayudar-pero-estan-corrompiendo-pueden-crear-fotos-desnudos-cualquier-persona-1413126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bots-telegram-nacieron-ayudar-pero-estan-corrompiendo-pueden-crear-fotos-desnudos-cualquier-persona-4251910.jpg?tf=1200x' alt='Los bots de Telegram nacieron para ayudar, pero se están corrompiendo y pueden crear fotos de desnudos de cualquier persona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/xiaomi-15-sera-primer-movil-snapdragon-8-elite-ya-tiene-fecha-lanzamiento-1413199'>Xiaomi 15 será el primer móvil con Snapdragon 8 Elite y ya tiene fecha de lanzamiento</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/xiaomi-15-sera-primer-movil-snapdragon-8-elite-ya-tiene-fecha-lanzamiento-1413199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-14-ultra-3278413.jpg?tf=1200x' alt='Xiaomi 15 será el primer móvil con Snapdragon 8 Elite y ya tiene fecha de lanzamiento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pantalla-tandem-oled-apple-me-ha-gustado-huawei-matepad-pro-122-1410749'>Esta pantalla Tandem OLED 'a lo Apple' es lo que más me ha gustado de la Huawei MatePad Pro 12,2"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pantalla-tandem-oled-apple-me-ha-gustado-huawei-matepad-pro-122-1410749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/huawei-matepad-pro-122-4247980.jpg?tf=1200x' alt='Esta pantalla Tandem OLED 'a lo Apple' es lo que más me ha gustado de la Huawei MatePad Pro 12,2"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-auriculares-sony-linkbuds-open-me-ha-sorprendido-calidad-audio-aun-siendo-abiertos-1411793'>He probado los auriculares Sony LinkBuds Open y me ha sorprendido la calidad de audio aun siendo abiertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-auriculares-sony-linkbuds-open-me-ha-sorprendido-calidad-audio-aun-siendo-abiertos-1411793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sony-linkbuds-open-4249778.jpg?tf=1200x' alt='He probado los auriculares Sony LinkBuds Open y me ha sorprendido la calidad de audio aun siendo abiertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/puedes-hacer-alexa-como-funcionan-modos-secretos-sirven-1411759'>¿Qué puedes hacer con Alexa? Cómo funcionan sus modos secretos y para qué sirven</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/puedes-hacer-alexa-como-funcionan-modos-secretos-sirven-1411759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dispositivo-alexa-4249639.jpg?tf=1200x' alt='¿Qué puedes hacer con Alexa? Cómo funcionan sus modos secretos y para qué sirven' />
     </a>
 </div>
 
