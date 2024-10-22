@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-131-ya-disponible-todos-estas-son-novedades-como-actualizar-1413474'>Android Auto 13.1 ya disponible para todos: estas son las novedades y cómo actualizar</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/android-auto-131-ya-disponible-todos-estas-son-novedades-como-actualizar-1413474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-131-4252524.jpg?tf=1200x' alt='Android Auto 13.1 ya disponible para todos: estas son las novedades y cómo actualizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-cargar-movil-correctamente-evitar-desastres-ocu-1413473'>Cómo cargar el móvil correctamente para evitar desastres, según la OCU</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/como-cargar-movil-correctamente-evitar-desastres-ocu-1413473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cargar-movil-4252523.jpg?tf=1200x' alt='Cómo cargar el móvil correctamente para evitar desastres, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/puedo-tender-ropa-genial-google-maps-lluvia-no-arruine-colada-1413468'>¿Puedo tender la ropa?, el genial Google Maps para que la lluvia no arruine tu colada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/puedo-tender-ropa-genial-google-maps-lluvia-no-arruine-colada-1413468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tender-ropa-4252520.jpg?tf=1200x' alt='¿Puedo tender la ropa?, el genial Google Maps para que la lluvia no arruine tu colada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/gran-exito-netflix-ha-regresado-unas-criticas-perfectas-1413389'>El gran éxito de Netflix que ha regresado con unas críticas perfectas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/gran-exito-netflix-ha-regresado-unas-criticas-perfectas-1413389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gran-exito-netflix-ha-regresado-unas-criticas-perfectas-4252369.jpg?tf=1200x' alt='El gran éxito de Netflix que ha regresado con unas críticas perfectas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-7-cumple-15-anos-aun-usan-40-millones-personas-1413460'>Windows 7 cumple 15 años, aún lo usan casi 40 millones de personas</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-7-cumple-15-anos-aun-usan-40-millones-personas-1413460' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-7-cumple-15-anos-aun-usan-casi-40-millones-personas-4252461.jpg?tf=1200x' alt='Windows 7 cumple 15 años, aún lo usan casi 40 millones de personas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/energia-solar-espacial-no-ciencia-ficcion-ya-realidad-1413330'>La energía solar espacial no es ciencia ficción, ya es una realidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/energia-solar-espacial-no-ciencia-ficcion-ya-realidad-1413330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/energia-solar-espacial-no-ciencia-ficcion-ya-realidad-4252312.jpg?tf=1200x' alt='La energía solar espacial no es ciencia ficción, ya es una realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-sabe-todo-ti-pero-puedes-eliminarlo-completo-dia-dia-1413191'>Google lo sabe todo de ti, pero así puedes eliminarlo por completo de tu día a día</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-sabe-todo-ti-pero-puedes-eliminarlo-completo-dia-dia-1413191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-sabe-todo-ti-pero-puedes-eliminarlo-completo-dia-dia-4252038.jpg?tf=1200x' alt='Google lo sabe todo de ti, pero así puedes eliminarlo por completo de tu día a día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/conductor-llevo-tesla-limite-absurdo-tapo-parabrisas-ventanillas-evitar-sol-confiando-piloto-automatico-1411971'>Un conductor llevó su Tesla al límite de lo absurdo: tapó el parabrisas y ventanillas para evitar el sol, confiando en piloto automático</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/conductor-llevo-tesla-limite-absurdo-tapo-parabrisas-ventanillas-evitar-sol-confiando-piloto-automatico-1411971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tesla-4250016.jpg?tf=1200x' alt='Un conductor llevó su Tesla al límite de lo absurdo: tapó el parabrisas y ventanillas para evitar el sol, confiando en piloto automático' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/puede-color-ropa-revelar-nivel-inteligencia-dice-ciencia-1409521'>¿Puede el color de la ropa revelar tu nivel de inteligencia? Esto dice la ciencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/puede-color-ropa-revelar-nivel-inteligencia-dice-ciencia-1409521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/puede-color-ropa-revelar-nivel-inteligencia-dice-ciencia-4245883.jpg?tf=1200x' alt='¿Puede el color de la ropa revelar tu nivel de inteligencia? Esto dice la ciencia' />
     </a>
 </div>
 
