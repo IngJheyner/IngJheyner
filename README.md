@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-rebaja-galaxy-watch7-1407342'>Samsung quiere dominar el sector del smartwatch: su Galaxy Watch7 ha hundido su precio a menos de 300 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-rebaja-galaxy-watch7-1407342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch-7-samsung-galaxy-watch7-4251606.jpg?tf=1200x' alt='Samsung quiere dominar el sector del smartwatch: su Galaxy Watch7 ha hundido su precio a menos de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-auto-acabando-bateria-movil-te-des-cuenta-1412762'>Android Auto está acabando con la batería de tu móvil sin que te des cuenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-auto-acabando-bateria-movil-te-des-cuenta-1412762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-acabando-bateria-movil-te-des-cuenta-4251356.jpg?tf=1200x' alt='Android Auto está acabando con la batería de tu móvil sin que te des cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/oms-confirma-moviles-no-estan-relacionados-cancer-cerebral-1413060'>La OMS confirma que los móviles no están relacionados con el cáncer cerebral</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/oms-confirma-moviles-no-estan-relacionados-cancer-cerebral-1413060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oms-confirma-moviles-no-estan-relacionados-cancer-cerebral-4251754.jpg?tf=1200x' alt='La OMS confirma que los móviles no están relacionados con el cáncer cerebral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/supe-mi-iphone-mucho-rapido-funciona-como-primer-dia-1413029'>Desde que supe esto mi iPhone es mucho más rápido y funciona como el primer día </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/supe-mi-iphone-mucho-rapido-funciona-como-primer-dia-1413029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-4251725.jpg?tf=1200x' alt='Desde que supe esto mi iPhone es mucho más rápido y funciona como el primer día ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-desastre-no-instales-todavia-1413205'>Windows 11 24H2 es un desastre: no lo instales todavía</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-desastre-no-instales-todavia-1413205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-24h2-desastre-no-instales-todavia-4252051.jpg?tf=1200x' alt='Windows 11 24H2 es un desastre: no lo instales todavía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/escritorio-trabajar-pie-nocivos-salud-trombosis-varices-1413198'>Si usas un escritorio para trabajar de pie, malas noticias: son nocivos para la salud</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/escritorio-trabajar-pie-nocivos-salud-trombosis-varices-1413198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/usas-escritorio-trabajar-pie-malas-noticias-son-nocivos-salud-4252027.jpg?tf=1200x' alt='Si usas un escritorio para trabajar de pie, malas noticias: son nocivos para la salud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-15-oficial-como-instalarlo-novedades-importantes-1413138'>Android 15 es oficial: cómo instalarlo y sus novedades más importantes</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-15-oficial-como-instalarlo-novedades-importantes-1413138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-15-oficial-como-instalarlo-novedades-importantes-4251947.jpg?tf=1200x' alt='Android 15 es oficial: cómo instalarlo y sus novedades más importantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/tienes-aplicacion-olvidate-actualizar-windows-11-24h2-1413185'>Si tienes esta aplicación olvídate de actualizar a Windows 11 24H2</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/tienes-aplicacion-olvidate-actualizar-windows-11-24h2-1413185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/errores-windows-11-4252019.jpg?tf=1200x' alt='Si tienes esta aplicación olvídate de actualizar a Windows 11 24H2' />
     </a>
 </div>
 
