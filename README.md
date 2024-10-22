@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/adios-google-nombre-cuenta-aparecera-pronto-apartado-configuracion-movil-1413258'>Adiós "Google", el nombre de tu cuenta aparecerá pronto en el apartado de Configuración de tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/adios-google-nombre-cuenta-aparecera-pronto-apartado-configuracion-movil-1413258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/funcion-android-15-mejorara-productividad-salud-mental-4012664.jpg?tf=1200x' alt='Adiós "Google", el nombre de tu cuenta aparecerá pronto en el apartado de Configuración de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/funciona-android-15-verificacion-dos-pasos-te-protege-apps-malware-1413249'>Así funciona en Android 15 la verificación en dos pasos que te protege de apps con malware</a></h4>
+    <a href='https://computerhoy.20minutos.es/funciona-android-15-verificacion-dos-pasos-te-protege-apps-malware-1413249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-15-estrena-moviles-google-pixel-muchas-novedades-peso-4249843.jpg?tf=1200x' alt='Así funciona en Android 15 la verificación en dos pasos que te protege de apps con malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-estafas-famosos-meta-prueba-reconocimiento-facial-detectarlas-1413242'>Adiós a las estafas de famosos: Meta prueba el reconocimiento facial para detectarlas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-estafas-famosos-meta-prueba-reconocimiento-facial-detectarlas-1413242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-inteligencia-artificial-3698181.jpg?tf=1200x' alt='Adiós a las estafas de famosos: Meta prueba el reconocimiento facial para detectarlas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/bots-telegram-nacieron-ayudar-pero-estan-corrompiendo-pueden-crear-fotos-desnudos-cualquier-persona-1413126'>Los bots de Telegram nacieron para ayudar, pero se están corrompiendo y pueden crear fotos de desnudos de cualquier persona</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/bots-telegram-nacieron-ayudar-pero-estan-corrompiendo-pueden-crear-fotos-desnudos-cualquier-persona-1413126' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bots-telegram-nacieron-ayudar-pero-estan-corrompiendo-pueden-crear-fotos-desnudos-cualquier-persona-4251910.jpg?tf=1200x' alt='Los bots de Telegram nacieron para ayudar, pero se están corrompiendo y pueden crear fotos de desnudos de cualquier persona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/xiaomi-15-sera-primer-movil-snapdragon-8-elite-ya-tiene-fecha-lanzamiento-1413199'>Xiaomi 15 será el primer móvil con Snapdragon 8 Elite y ya tiene fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/xiaomi-15-sera-primer-movil-snapdragon-8-elite-ya-tiene-fecha-lanzamiento-1413199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-14-ultra-3278413.jpg?tf=1200x' alt='Xiaomi 15 será el primer móvil con Snapdragon 8 Elite y ya tiene fecha de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/jugar-videojuegos-rejuvenece-13-anos-personas-mayores-1413220'>Jugar a videojuegos rejuvenece 13 años: un sorprendente beneficio para las personas mayores</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/jugar-videojuegos-rejuvenece-13-anos-personas-mayores-1413220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/jugar-videojuegos-ofrece-sorprendente-beneficio-personas-mayores-4252109.jpg?tf=1200x' alt='Jugar a videojuegos rejuvenece 13 años: un sorprendente beneficio para las personas mayores' />
     </a>
 </div>
 
