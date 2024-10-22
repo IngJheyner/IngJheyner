@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/puedes-hacer-alexa-como-funcionan-modos-secretos-sirven-1411759'>¿Qué puedes hacer con Alexa? Cómo funcionan sus modos secretos y para qué sirven</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/puedes-hacer-alexa-como-funcionan-modos-secretos-sirven-1411759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dispositivo-alexa-4249639.jpg?tf=1200x' alt='¿Qué puedes hacer con Alexa? Cómo funcionan sus modos secretos y para qué sirven' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/truco-diario-satya-nadella-ceo-microsoft-estar-dia-innovacion-liderazgo-1411502'>El truco diario de Satya Nadella, CEO de Microsoft, para estar al día en innovación y liderazgo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/truco-diario-satya-nadella-ceo-microsoft-estar-dia-innovacion-liderazgo-1411502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/truco-diario-satya-nadella-estar-dia-innovacion-liderazgo-4249158.jpg?tf=1200x' alt='El truco diario de Satya Nadella, CEO de Microsoft, para estar al día en innovación y liderazgo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ipd-como-medir-realidad-aumentada-virtual-1413217'>Qué es el IPD, cómo medirlo, y por qué es importante en la realidad aumentada y virtual</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ipd-como-medir-realidad-aumentada-virtual-1413217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ipd-ojos-como-medirlo-importante-realidad-aumentada-virtual-4252089.jpg?tf=1200x' alt='Qué es el IPD, cómo medirlo, y por qué es importante en la realidad aumentada y virtual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-genio-ha-desarrollado-solo-19-dias-supercomputadora-normalmente-otros-tardarian-4-anos-1413026'>Elon Musk es un genio: ha desarrollado en solo 19 días una supercomputadora que normalmente otros tardarían 4 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-genio-ha-desarrollado-solo-19-dias-supercomputadora-normalmente-otros-tardarian-4-anos-1413026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-como-trabajar-spacex-liderazgo-3215172.jpg?tf=1200x' alt='Elon Musk es un genio: ha desarrollado en solo 19 días una supercomputadora que normalmente otros tardarían 4 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-rebaja-galaxy-watch7-1407342'>Samsung quiere dominar el sector del smartwatch: su Galaxy Watch7 ha hundido su precio a menos de 300 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/samsung-rebaja-galaxy-watch7-1407342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch-7-samsung-galaxy-watch7-4251606.jpg?tf=1200x' alt='Samsung quiere dominar el sector del smartwatch: su Galaxy Watch7 ha hundido su precio a menos de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-auto-acabando-bateria-movil-te-des-cuenta-1412762'>Android Auto está acabando con la batería de tu móvil sin que te des cuenta</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-auto-acabando-bateria-movil-te-des-cuenta-1412762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-acabando-bateria-movil-te-des-cuenta-4251356.jpg?tf=1200x' alt='Android Auto está acabando con la batería de tu móvil sin que te des cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/oms-confirma-moviles-no-estan-relacionados-cancer-cerebral-1413060'>La OMS confirma que los móviles no están relacionados con el cáncer cerebral</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/oms-confirma-moviles-no-estan-relacionados-cancer-cerebral-1413060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oms-confirma-moviles-no-estan-relacionados-cancer-cerebral-4251754.jpg?tf=1200x' alt='La OMS confirma que los móviles no están relacionados con el cáncer cerebral' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/supe-mi-iphone-mucho-rapido-funciona-como-primer-dia-1413029'>Desde que supe esto mi iPhone es mucho más rápido y funciona como el primer día </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/supe-mi-iphone-mucho-rapido-funciona-como-primer-dia-1413029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-4251725.jpg?tf=1200x' alt='Desde que supe esto mi iPhone es mucho más rápido y funciona como el primer día ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-desastre-no-instales-todavia-1413205'>Windows 11 24H2 es un desastre: no lo instales todavía</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-desastre-no-instales-todavia-1413205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-24h2-desastre-no-instales-todavia-4252051.jpg?tf=1200x' alt='Windows 11 24H2 es un desastre: no lo instales todavía' />
     </a>
 </div>
 
