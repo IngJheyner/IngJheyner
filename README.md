@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/leyendas-urbanas-lavavajillas-debes-evitar-te-estas-cargando-platos-estropeara-mucho-antes-1412711'>Leyendas urbanas sobre los lavavajillas que debes evitar: te estás cargando los platos y se estropeará mucho antes</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/leyendas-urbanas-lavavajillas-debes-evitar-te-estas-cargando-platos-estropeara-mucho-antes-1412711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/leyendas-urbanas-lavavajillas-debes-evitar-te-estas-cargando-platos-estropeara-mucho-antes-4251311.jpg?tf=1200x' alt='Leyendas urbanas sobre los lavavajillas que debes evitar: te estás cargando los platos y se estropeará mucho antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/mucho-office-formas-microsoft-365-puede-ayudarte-dia-dia-1413099'>Mucho más que Office: 7 formas en que Microsoft 365 puede ayudarte en tu día a día</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/mucho-office-formas-microsoft-365-puede-ayudarte-dia-dia-1413099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/aplicaciones-microsoft-365-4251847.jpg?tf=1200x' alt='Mucho más que Office: 7 formas en que Microsoft 365 puede ayudarte en tu día a día' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-spectacles-gafas-realidad-aumentada-snapchat-creo-estan-anos-luz-detras-apple-1413214'>He probado Spectacles, las gafas de realidad aumentada de Snapchat y creo que están a años luz por detrás de Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-spectacles-gafas-realidad-aumentada-snapchat-creo-estan-anos-luz-detras-apple-1413214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/spectacles-4252096.jpg?tf=1200x' alt='He probado Spectacles, las gafas de realidad aumentada de Snapchat y creo que están a años luz por detrás de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/rayos-x-desvelan-cables-apple-valen-15-veces-amazon-tambien-no-merece-pena-pagar-1413327'>Los rayos X desvelan por qué los cables de Apple valen 15 veces más que los de Amazon (y también que no merece la pena pagar más)</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/rayos-x-desvelan-cables-apple-valen-15-veces-amazon-tambien-no-merece-pena-pagar-1413327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cables-apple-precios-4252193.jpg?tf=1200x' alt='Los rayos X desvelan por qué los cables de Apple valen 15 veces más que los de Amazon (y también que no merece la pena pagar más)' />
     </a>
 </div>
 
