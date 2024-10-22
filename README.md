@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-spectacles-gafas-realidad-aumentada-snapchat-creo-estan-anos-luz-detras-apple-1413214'>He probado Spectacles, las gafas de realidad aumentada de Snapchat y creo que están a años luz por detrás de Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-spectacles-gafas-realidad-aumentada-snapchat-creo-estan-anos-luz-detras-apple-1413214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/spectacles-4252096.jpg?tf=1200x' alt='He probado Spectacles, las gafas de realidad aumentada de Snapchat y creo que están a años luz por detrás de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/rayos-x-desvelan-cables-apple-valen-15-veces-amazon-tambien-no-merece-pena-pagar-1413327'>Los rayos X desvelan por qué los cables de Apple valen 15 veces más que los de Amazon (y también que no merece la pena pagar más)</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/rayos-x-desvelan-cables-apple-valen-15-veces-amazon-tambien-no-merece-pena-pagar-1413327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cables-apple-precios-4252193.jpg?tf=1200x' alt='Los rayos X desvelan por qué los cables de Apple valen 15 veces más que los de Amazon (y también que no merece la pena pagar más)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/sencillo-truco-whatsapp-movil-funcione-rapido-segundos-cualquier-modelo-1413324'>El sencillo truco de WhatsApp para que tu móvil funcione más rápido: en segundos y para cualquier modelo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/sencillo-truco-whatsapp-movil-funcione-rapido-segundos-cualquier-modelo-1413324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sencillo-truco-whatsapp-movil-funcione-rapido-segundos-cualquier-modelo-4252262.jpg?tf=1200x' alt='El sencillo truco de WhatsApp para que tu móvil funcione más rápido: en segundos y para cualquier modelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/sistema-operativo-popular-mundo-dejara-ser-seguro-menos-ano-como-posible-1413298'>El sistema operativo más popular del mundo dejará de ser seguro en menos de un año: ¿cómo es posible?</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/sistema-operativo-popular-mundo-dejara-ser-seguro-menos-ano-como-posible-1413298' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sistema-operativo-popular-mundo-dejara-ser-seguro-menos-ano-como-posible-4252220.jpg?tf=1200x' alt='El sistema operativo más popular del mundo dejará de ser seguro en menos de un año: ¿cómo es posible?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/vuelven-hackear-internet-archive-datos-ahora-estan-manos-extrano-1413299'>Vuelven a hackear Internet Archive: "Tus datos ahora están en manos de un extraño"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/vuelven-hackear-internet-archive-datos-ahora-estan-manos-extrano-1413299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/internet-archive.jpg?tf=1200x' alt='Vuelven a hackear Internet Archive: "Tus datos ahora están en manos de un extraño"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/piracy-shield-arma-definitiva-listas-iptv-ridiculo-espantoso-1413274'>Piracy Shield: ¿el arma “definitiva” contra las listas IPTV o ridículo espantoso?</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/piracy-shield-arma-definitiva-listas-iptv-ridiculo-espantoso-1413274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-error-4252259.jpg?tf=1200x' alt='Piracy Shield: ¿el arma “definitiva” contra las listas IPTV o ridículo espantoso?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/5-motivos-merece-pena-samsung-galaxy-ring-1413246'>5 motivos por los que merece la pena el Samsung Galaxy Ring</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/5-motivos-merece-pena-samsung-galaxy-ring-1413246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-ring-4252138.jpg?tf=1200x' alt='5 motivos por los que merece la pena el Samsung Galaxy Ring' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tiktok-despide-becario-introducir-malware-ia-1413286'>TikTok despide a un becario por introducir malware en su IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tiktok-despide-becario-introducir-malware-ia-1413286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/empresa-china-4252164.jpg?tf=1200x' alt='TikTok despide a un becario por introducir malware en su IA' />
     </a>
 </div>
 
