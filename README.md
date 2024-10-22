@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-estafas-famosos-meta-prueba-reconocimiento-facial-detectarlas-1413242'>Adiós a las estafas de famosos: Meta prueba el reconocimiento facial para detectarlas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-estafas-famosos-meta-prueba-reconocimiento-facial-detectarlas-1413242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-inteligencia-artificial-3698181.jpg?tf=1200x' alt='Adiós a las estafas de famosos: Meta prueba el reconocimiento facial para detectarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/web-sueno-todo-gamer-nostalgico-30000-juegos-clasicos-descargar-gratis-1413116'>Esta web es el sueño de todo gamer nostálgico: 30.000 juegos clásicos para descargar gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/web-sueno-todo-gamer-nostalgico-30000-juegos-clasicos-descargar-gratis-1413116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/web-sueno-todo-gamer-nostalgico-30000-juegos-clasicos-descargar-gratis-4251877.jpg?tf=1200x' alt='Esta web es el sueño de todo gamer nostálgico: 30.000 juegos clásicos para descargar gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/jugar-videojuegos-rejuvenece-13-anos-personas-mayores-1413220'>Jugar a videojuegos rejuvenece 13 años: un sorprendente beneficio para las personas mayores</a></h4>
     <a href='https://computerhoy.20minutos.es/life/jugar-videojuegos-rejuvenece-13-anos-personas-mayores-1413220' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/jugar-videojuegos-ofrece-sorprendente-beneficio-personas-mayores-4252109.jpg?tf=1200x' alt='Jugar a videojuegos rejuvenece 13 años: un sorprendente beneficio para las personas mayores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pantalla-tandem-oled-apple-me-ha-gustado-huawei-matepad-pro-122-1410749'>Esta pantalla Tandem OLED 'a lo Apple' es lo que más me ha gustado de la Huawei MatePad Pro 12,2"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pantalla-tandem-oled-apple-me-ha-gustado-huawei-matepad-pro-122-1410749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/huawei-matepad-pro-122-4247980.jpg?tf=1200x' alt='Esta pantalla Tandem OLED 'a lo Apple' es lo que más me ha gustado de la Huawei MatePad Pro 12,2"' />
     </a>
 </div>
 
