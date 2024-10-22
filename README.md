@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-ocultara-numero-movil-cuando-envies-mensajes-1413498'>WhatsApp ocultará tu número de móvil cuando envíes mensajes o añadas contactos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-ocultara-numero-movil-cuando-envies-mensajes-1413498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-ocultara-numero-movil-cuando-envies-mensajes-alguien-anadas-contactos-4252525.jpg?tf=1200x' alt='WhatsApp ocultará tu número de móvil cuando envíes mensajes o añadas contactos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-131-ya-disponible-todos-estas-son-novedades-como-actualizar-1413474'>Android Auto 13.1 ya disponible para todos: estas son las novedades y cómo actualizar</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-auto-131-ya-disponible-todos-estas-son-novedades-como-actualizar-1413474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-131-4252524.jpg?tf=1200x' alt='Android Auto 13.1 ya disponible para todos: estas son las novedades y cómo actualizar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/gran-exito-netflix-ha-regresado-unas-criticas-perfectas-1413389'>El gran éxito de Netflix que ha regresado con unas críticas perfectas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/gran-exito-netflix-ha-regresado-unas-criticas-perfectas-1413389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gran-exito-netflix-ha-regresado-unas-criticas-perfectas-4252369.jpg?tf=1200x' alt='El gran éxito de Netflix que ha regresado con unas críticas perfectas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-7-cumple-15-anos-aun-usan-40-millones-personas-1413460'>Windows 7 cumple 15 años, aún lo usan casi 40 millones de personas</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-7-cumple-15-anos-aun-usan-40-millones-personas-1413460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-7-cumple-15-anos-aun-usan-casi-40-millones-personas-4252461.jpg?tf=1200x' alt='Windows 7 cumple 15 años, aún lo usan casi 40 millones de personas' />
     </a>
 </div>
 
