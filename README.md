@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/supe-mi-iphone-mucho-rapido-funciona-como-primer-dia-1413029'>Desde que supe esto mi iPhone es mucho más rápido y funciona como el primer día </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/supe-mi-iphone-mucho-rapido-funciona-como-primer-dia-1413029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-4251725.jpg?tf=1200x' alt='Desde que supe esto mi iPhone es mucho más rápido y funciona como el primer día ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-desastre-no-instales-todavia-1413205'>Windows 11 24H2 es un desastre: no lo instales todavía</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-desastre-no-instales-todavia-1413205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-24h2-desastre-no-instales-todavia-4252051.jpg?tf=1200x' alt='Windows 11 24H2 es un desastre: no lo instales todavía' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/tienes-aplicacion-olvidate-actualizar-windows-11-24h2-1413185'>Si tienes esta aplicación olvídate de actualizar a Windows 11 24H2</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/tienes-aplicacion-olvidate-actualizar-windows-11-24h2-1413185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/errores-windows-11-4252019.jpg?tf=1200x' alt='Si tienes esta aplicación olvídate de actualizar a Windows 11 24H2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fiasco-bloqueo-iptv-millones-pierden-acceso-futbol-google-drive-1413183'>El fiasco del bloqueo del IPTV: millones pierden acceso al fútbol y a Google Drive</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/fiasco-bloqueo-iptv-millones-pierden-acceso-futbol-google-drive-1413183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-pirata-4252018.jpg?tf=1200x' alt='El fiasco del bloqueo del IPTV: millones pierden acceso al fútbol y a Google Drive' />
     </a>
 </div>
 
