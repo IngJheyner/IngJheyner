@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/energia-solar-espacial-no-ciencia-ficcion-ya-realidad-1413330'>La energía solar espacial no es ciencia ficción, ya es una realidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/energia-solar-espacial-no-ciencia-ficcion-ya-realidad-1413330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/energia-solar-espacial-no-ciencia-ficcion-ya-realidad-4252312.jpg?tf=1200x' alt='La energía solar espacial no es ciencia ficción, ya es una realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-sabe-todo-ti-pero-puedes-eliminarlo-completo-dia-dia-1413191'>Google lo sabe todo de ti, pero así puedes eliminarlo por completo de tu día a día</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-sabe-todo-ti-pero-puedes-eliminarlo-completo-dia-dia-1413191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-sabe-todo-ti-pero-puedes-eliminarlo-completo-dia-dia-4252038.jpg?tf=1200x' alt='Google lo sabe todo de ti, pero así puedes eliminarlo por completo de tu día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/conductor-llevo-tesla-limite-absurdo-tapo-parabrisas-ventanillas-evitar-sol-confiando-piloto-automatico-1411971'>Un conductor llevó su Tesla al límite de lo absurdo: tapó el parabrisas y ventanillas para evitar el sol, confiando en piloto automático</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/conductor-llevo-tesla-limite-absurdo-tapo-parabrisas-ventanillas-evitar-sol-confiando-piloto-automatico-1411971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tesla-4250016.jpg?tf=1200x' alt='Un conductor llevó su Tesla al límite de lo absurdo: tapó el parabrisas y ventanillas para evitar el sol, confiando en piloto automático' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-ia-sacrificar-objetivos-climaticos-1412315'>Google enfrenta su mayor reto: “La IA debe avanzar, aunque eso implique sacrificar los objetivos climáticos”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-ia-sacrificar-objetivos-climaticos-1412315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enise-diagnostica-cpu-sobrecalentada-centro-datos-dalles-oregon-4250552.jpg?tf=1200x' alt='Google enfrenta su mayor reto: “La IA debe avanzar, aunque eso implique sacrificar los objetivos climáticos”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/algunas-personas-pueden-ver-colores-invisibles-nadie-puede-ver-1413162'>Algunas personas pueden ver colores "invisibles" que nadie más puede ver </a></h4>
-    <a href='https://computerhoy.20minutos.es/life/algunas-personas-pueden-ver-colores-invisibles-nadie-puede-ver-1413162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tetracromatismo-4251970.jpg?tf=1200x' alt='Algunas personas pueden ver colores "invisibles" que nadie más puede ver ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ver-rutas-haces-cada-dia-google-maps-1412041'>Cómo ver las rutas que haces cada día en Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-ver-rutas-haces-cada-dia-google-maps-1412041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/rutas-google-maps-4250085.jpg?tf=1200x' alt='Cómo ver las rutas que haces cada día en Google Maps' />
     </a>
 </div>
 
