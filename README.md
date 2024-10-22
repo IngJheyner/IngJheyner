@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/conductor-llevo-tesla-limite-absurdo-tapo-parabrisas-ventanillas-evitar-sol-confiando-piloto-automatico-1411971'>Un conductor llevó su Tesla al límite de lo absurdo: tapó el parabrisas y ventanillas para evitar el sol, confiando en piloto automático</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/conductor-llevo-tesla-limite-absurdo-tapo-parabrisas-ventanillas-evitar-sol-confiando-piloto-automatico-1411971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tesla-4250016.jpg?tf=1200x' alt='Un conductor llevó su Tesla al límite de lo absurdo: tapó el parabrisas y ventanillas para evitar el sol, confiando en piloto automático' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/puede-color-ropa-revelar-nivel-inteligencia-dice-ciencia-1409521'>¿Puede el color de la ropa revelar tu nivel de inteligencia? Esto dice la ciencia</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/puede-color-ropa-revelar-nivel-inteligencia-dice-ciencia-1409521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/puede-color-ropa-revelar-nivel-inteligencia-dice-ciencia-4245883.jpg?tf=1200x' alt='¿Puede el color de la ropa revelar tu nivel de inteligencia? Esto dice la ciencia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ver-rutas-haces-cada-dia-google-maps-1412041'>Cómo ver las rutas que haces cada día en Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-ver-rutas-haces-cada-dia-google-maps-1412041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/rutas-google-maps-4250085.jpg?tf=1200x' alt='Cómo ver las rutas que haces cada día en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/leyendas-urbanas-lavavajillas-debes-evitar-te-estas-cargando-platos-estropeara-mucho-antes-1412711'>Leyendas urbanas sobre los lavavajillas que debes evitar: te estás cargando los platos y se estropeará mucho antes</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/leyendas-urbanas-lavavajillas-debes-evitar-te-estas-cargando-platos-estropeara-mucho-antes-1412711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/leyendas-urbanas-lavavajillas-debes-evitar-te-estas-cargando-platos-estropeara-mucho-antes-4251311.jpg?tf=1200x' alt='Leyendas urbanas sobre los lavavajillas que debes evitar: te estás cargando los platos y se estropeará mucho antes' />
     </a>
 </div>
 
