@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/puede-color-ropa-revelar-nivel-inteligencia-dice-ciencia-1409521'>¿Puede el color de la ropa revelar tu nivel de inteligencia? Esto dice la ciencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/puede-color-ropa-revelar-nivel-inteligencia-dice-ciencia-1409521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/puede-color-ropa-revelar-nivel-inteligencia-dice-ciencia-4245883.jpg?tf=1200x' alt='¿Puede el color de la ropa revelar tu nivel de inteligencia? Esto dice la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-ia-sacrificar-objetivos-climaticos-1412315'>Google enfrenta su mayor reto: “La IA debe avanzar, aunque eso implique sacrificar los objetivos climáticos”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-ia-sacrificar-objetivos-climaticos-1412315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enise-diagnostica-cpu-sobrecalentada-centro-datos-dalles-oregon-4250552.jpg?tf=1200x' alt='Google enfrenta su mayor reto: “La IA debe avanzar, aunque eso implique sacrificar los objetivos climáticos”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/algunas-personas-pueden-ver-colores-invisibles-nadie-puede-ver-1413162'>Algunas personas pueden ver colores "invisibles" que nadie más puede ver </a></h4>
+    <a href='https://computerhoy.20minutos.es/life/algunas-personas-pueden-ver-colores-invisibles-nadie-puede-ver-1413162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tetracromatismo-4251970.jpg?tf=1200x' alt='Algunas personas pueden ver colores "invisibles" que nadie más puede ver ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ver-rutas-haces-cada-dia-google-maps-1412041'>Cómo ver las rutas que haces cada día en Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-ver-rutas-haces-cada-dia-google-maps-1412041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/rutas-google-maps-4250085.jpg?tf=1200x' alt='Cómo ver las rutas que haces cada día en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/leyendas-urbanas-lavavajillas-debes-evitar-te-estas-cargando-platos-estropeara-mucho-antes-1412711'>Leyendas urbanas sobre los lavavajillas que debes evitar: te estás cargando los platos y se estropeará mucho antes</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/leyendas-urbanas-lavavajillas-debes-evitar-te-estas-cargando-platos-estropeara-mucho-antes-1412711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/leyendas-urbanas-lavavajillas-debes-evitar-te-estas-cargando-platos-estropeara-mucho-antes-4251311.jpg?tf=1200x' alt='Leyendas urbanas sobre los lavavajillas que debes evitar: te estás cargando los platos y se estropeará mucho antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/mucho-office-formas-microsoft-365-puede-ayudarte-dia-dia-1413099'>Mucho más que Office: 7 formas en que Microsoft 365 puede ayudarte en tu día a día</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/mucho-office-formas-microsoft-365-puede-ayudarte-dia-dia-1413099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/aplicaciones-microsoft-365-4251847.jpg?tf=1200x' alt='Mucho más que Office: 7 formas en que Microsoft 365 puede ayudarte en tu día a día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/motorola-presenta-trio-moviles-ultrarresistentes-ia-presidido-thinkphone-1413354'>Motorola presenta su trío de móviles ultrarresistentes con IA presidido por el ThinkPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/motorola-presenta-trio-moviles-ultrarresistentes-ia-presidido-thinkphone-1413354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/thinkphone-motorola-4252315.jpg?tf=1200x' alt='Motorola presenta su trío de móviles ultrarresistentes con IA presidido por el ThinkPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvidate-flipper-zero-llega-capybarazero-tamagotchi-hackers-puedes-montar-mismo-1413337'>Olvídate de Flipper Zero, llega CapybaraZero, el tamagotchi para hackers que puedes montar tú mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/olvidate-flipper-zero-llega-capybarazero-tamagotchi-hackers-puedes-montar-mismo-1413337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/capybarazero-4252204.jpg?tf=1200x' alt='Olvídate de Flipper Zero, llega CapybaraZero, el tamagotchi para hackers que puedes montar tú mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-spectacles-gafas-realidad-aumentada-snapchat-creo-estan-anos-luz-detras-apple-1413214'>He probado Spectacles, las gafas de realidad aumentada de Snapchat y creo que están a años luz por detrás de Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-spectacles-gafas-realidad-aumentada-snapchat-creo-estan-anos-luz-detras-apple-1413214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/spectacles-4252096.jpg?tf=1200x' alt='He probado Spectacles, las gafas de realidad aumentada de Snapchat y creo que están a años luz por detrás de Apple' />
     </a>
 </div>
 
