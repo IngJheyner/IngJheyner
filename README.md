@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/mucho-office-formas-microsoft-365-puede-ayudarte-dia-dia-1413099'>Mucho más que Office: 7 formas en que Microsoft 365 puede ayudarte en tu día a día</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/mucho-office-formas-microsoft-365-puede-ayudarte-dia-dia-1413099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/aplicaciones-microsoft-365-4251847.jpg?tf=1200x' alt='Mucho más que Office: 7 formas en que Microsoft 365 puede ayudarte en tu día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/motorola-presenta-trio-moviles-ultrarresistentes-ia-presidido-thinkphone-1413354'>Motorola presenta su trío de móviles ultrarresistentes con IA presidido por el ThinkPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/motorola-presenta-trio-moviles-ultrarresistentes-ia-presidido-thinkphone-1413354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/thinkphone-motorola-4252315.jpg?tf=1200x' alt='Motorola presenta su trío de móviles ultrarresistentes con IA presidido por el ThinkPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvidate-flipper-zero-llega-capybarazero-tamagotchi-hackers-puedes-montar-mismo-1413337'>Olvídate de Flipper Zero, llega CapybaraZero, el tamagotchi para hackers que puedes montar tú mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/olvidate-flipper-zero-llega-capybarazero-tamagotchi-hackers-puedes-montar-mismo-1413337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/capybarazero-4252204.jpg?tf=1200x' alt='Olvídate de Flipper Zero, llega CapybaraZero, el tamagotchi para hackers que puedes montar tú mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-spectacles-gafas-realidad-aumentada-snapchat-creo-estan-anos-luz-detras-apple-1413214'>He probado Spectacles, las gafas de realidad aumentada de Snapchat y creo que están a años luz por detrás de Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-spectacles-gafas-realidad-aumentada-snapchat-creo-estan-anos-luz-detras-apple-1413214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/spectacles-4252096.jpg?tf=1200x' alt='He probado Spectacles, las gafas de realidad aumentada de Snapchat y creo que están a años luz por detrás de Apple' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/rayos-x-desvelan-cables-apple-valen-15-veces-amazon-tambien-no-merece-pena-pagar-1413327'>Los rayos X desvelan por qué los cables de Apple valen 15 veces más que los de Amazon (y también que no merece la pena pagar más)</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/rayos-x-desvelan-cables-apple-valen-15-veces-amazon-tambien-no-merece-pena-pagar-1413327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cables-apple-precios-4252193.jpg?tf=1200x' alt='Los rayos X desvelan por qué los cables de Apple valen 15 veces más que los de Amazon (y también que no merece la pena pagar más)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/sencillo-truco-whatsapp-movil-funcione-rapido-segundos-cualquier-modelo-1413324'>El sencillo truco de WhatsApp para que tu móvil funcione más rápido: en segundos y para cualquier modelo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/sencillo-truco-whatsapp-movil-funcione-rapido-segundos-cualquier-modelo-1413324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sencillo-truco-whatsapp-movil-funcione-rapido-segundos-cualquier-modelo-4252262.jpg?tf=1200x' alt='El sencillo truco de WhatsApp para que tu móvil funcione más rápido: en segundos y para cualquier modelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/sistema-operativo-popular-mundo-dejara-ser-seguro-menos-ano-como-posible-1413298'>El sistema operativo más popular del mundo dejará de ser seguro en menos de un año: ¿cómo es posible?</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/sistema-operativo-popular-mundo-dejara-ser-seguro-menos-ano-como-posible-1413298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sistema-operativo-popular-mundo-dejara-ser-seguro-menos-ano-como-posible-4252220.jpg?tf=1200x' alt='El sistema operativo más popular del mundo dejará de ser seguro en menos de un año: ¿cómo es posible?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/vuelven-hackear-internet-archive-datos-ahora-estan-manos-extrano-1413299'>Vuelven a hackear Internet Archive: "Tus datos ahora están en manos de un extraño"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/vuelven-hackear-internet-archive-datos-ahora-estan-manos-extrano-1413299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/internet-archive.jpg?tf=1200x' alt='Vuelven a hackear Internet Archive: "Tus datos ahora están en manos de un extraño"' />
     </a>
 </div>
 
