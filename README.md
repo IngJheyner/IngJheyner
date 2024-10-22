@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/adios-google-nombre-cuenta-aparecera-pronto-apartado-configuracion-movil-1413258'>Adiós "Google", el nombre de tu cuenta aparecerá pronto en el apartado de Configuración de tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/adios-google-nombre-cuenta-aparecera-pronto-apartado-configuracion-movil-1413258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/funcion-android-15-mejorara-productividad-salud-mental-4012664.jpg?tf=1200x' alt='Adiós "Google", el nombre de tu cuenta aparecerá pronto en el apartado de Configuración de tu móvil' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/sistema-operativo-popular-mundo-dejara-ser-seguro-menos-ano-como-posible-1413298'>El sistema operativo más popular del mundo dejará de ser seguro en menos de un año: ¿cómo es posible?</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/sistema-operativo-popular-mundo-dejara-ser-seguro-menos-ano-como-posible-1413298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sistema-operativo-popular-mundo-dejara-ser-seguro-menos-ano-como-posible-4252220.jpg?tf=1200x' alt='El sistema operativo más popular del mundo dejará de ser seguro en menos de un año: ¿cómo es posible?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/funciona-android-15-verificacion-dos-pasos-te-protege-apps-malware-1413249'>Así funciona en Android 15 la verificación en dos pasos que te protege de apps con malware</a></h4>
-    <a href='https://computerhoy.20minutos.es/funciona-android-15-verificacion-dos-pasos-te-protege-apps-malware-1413249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-15-estrena-moviles-google-pixel-muchas-novedades-peso-4249843.jpg?tf=1200x' alt='Así funciona en Android 15 la verificación en dos pasos que te protege de apps con malware' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/vuelven-hackear-internet-archive-datos-ahora-estan-manos-extrano-1413299'>Vuelven a hackear Internet Archive: "Tus datos ahora están en manos de un extraño"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/vuelven-hackear-internet-archive-datos-ahora-estan-manos-extrano-1413299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/internet-archive.jpg?tf=1200x' alt='Vuelven a hackear Internet Archive: "Tus datos ahora están en manos de un extraño"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-estafas-famosos-meta-prueba-reconocimiento-facial-detectarlas-1413242'>Adiós a las estafas de famosos: Meta prueba el reconocimiento facial para detectarlas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-estafas-famosos-meta-prueba-reconocimiento-facial-detectarlas-1413242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafas-inteligencia-artificial-3698181.jpg?tf=1200x' alt='Adiós a las estafas de famosos: Meta prueba el reconocimiento facial para detectarlas' />
+    <h4><a href='https://computerhoy.20minutos.es/google/piracy-shield-arma-definitiva-listas-iptv-ridiculo-espantoso-1413274'>Piracy Shield: ¿el arma “definitiva” contra las listas IPTV o ridículo espantoso?</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/piracy-shield-arma-definitiva-listas-iptv-ridiculo-espantoso-1413274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-error-4252259.jpg?tf=1200x' alt='Piracy Shield: ¿el arma “definitiva” contra las listas IPTV o ridículo espantoso?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/web-sueno-todo-gamer-nostalgico-30000-juegos-clasicos-descargar-gratis-1413116'>Esta web es el sueño de todo gamer nostálgico: 30.000 juegos clásicos para descargar gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/web-sueno-todo-gamer-nostalgico-30000-juegos-clasicos-descargar-gratis-1413116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/web-sueno-todo-gamer-nostalgico-30000-juegos-clasicos-descargar-gratis-4251877.jpg?tf=1200x' alt='Esta web es el sueño de todo gamer nostálgico: 30.000 juegos clásicos para descargar gratis' />
+    <h4><a href='https://computerhoy.20minutos.es/life/5-motivos-merece-pena-samsung-galaxy-ring-1413246'>5 motivos por los que merece la pena el Samsung Galaxy Ring</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/5-motivos-merece-pena-samsung-galaxy-ring-1413246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-ring-4252138.jpg?tf=1200x' alt='5 motivos por los que merece la pena el Samsung Galaxy Ring' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/bots-telegram-nacieron-ayudar-pero-estan-corrompiendo-pueden-crear-fotos-desnudos-cualquier-persona-1413126'>Los bots de Telegram nacieron para ayudar, pero se están corrompiendo y pueden crear fotos de desnudos de cualquier persona</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/bots-telegram-nacieron-ayudar-pero-estan-corrompiendo-pueden-crear-fotos-desnudos-cualquier-persona-1413126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bots-telegram-nacieron-ayudar-pero-estan-corrompiendo-pueden-crear-fotos-desnudos-cualquier-persona-4251910.jpg?tf=1200x' alt='Los bots de Telegram nacieron para ayudar, pero se están corrompiendo y pueden crear fotos de desnudos de cualquier persona' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tiktok-despide-becario-introducir-malware-ia-1413286'>TikTok despide a un becario por introducir malware en su IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tiktok-despide-becario-introducir-malware-ia-1413286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/empresa-china-4252164.jpg?tf=1200x' alt='TikTok despide a un becario por introducir malware en su IA' />
     </a>
 </div>
 
