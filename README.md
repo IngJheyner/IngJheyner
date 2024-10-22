@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-7-cumple-15-anos-aun-usan-40-millones-personas-1413460'>Windows 7 cumple 15 años, aún lo usan casi 40 millones de personas</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-7-cumple-15-anos-aun-usan-40-millones-personas-1413460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-7-cumple-15-anos-aun-usan-casi-40-millones-personas-4252461.jpg?tf=1200x' alt='Windows 7 cumple 15 años, aún lo usan casi 40 millones de personas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/energia/energia-solar-espacial-no-ciencia-ficcion-ya-realidad-1413330'>La energía solar espacial no es ciencia ficción, ya es una realidad</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/energia-solar-espacial-no-ciencia-ficcion-ya-realidad-1413330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/energia-solar-espacial-no-ciencia-ficcion-ya-realidad-4252312.jpg?tf=1200x' alt='La energía solar espacial no es ciencia ficción, ya es una realidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/puede-color-ropa-revelar-nivel-inteligencia-dice-ciencia-1409521'>¿Puede el color de la ropa revelar tu nivel de inteligencia? Esto dice la ciencia</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/puede-color-ropa-revelar-nivel-inteligencia-dice-ciencia-1409521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/puede-color-ropa-revelar-nivel-inteligencia-dice-ciencia-4245883.jpg?tf=1200x' alt='¿Puede el color de la ropa revelar tu nivel de inteligencia? Esto dice la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-ia-sacrificar-objetivos-climaticos-1412315'>Google enfrenta su mayor reto: “La IA debe avanzar, aunque eso implique sacrificar los objetivos climáticos”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-ia-sacrificar-objetivos-climaticos-1412315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enise-diagnostica-cpu-sobrecalentada-centro-datos-dalles-oregon-4250552.jpg?tf=1200x' alt='Google enfrenta su mayor reto: “La IA debe avanzar, aunque eso implique sacrificar los objetivos climáticos”' />
     </a>
 </div>
 
