@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/pillan-viendo-propio-equipo-pagina-iptv-pirata-no-corta-gratis-mi-1413591'>Le pillan viendo a su propio equipo en una página IPTV pirata y no se corta: "Es gratis, es para mí"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/pillan-viendo-propio-equipo-pagina-iptv-pirata-no-corta-gratis-mi-1413591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/viendo-tv-4252621.jpg?tf=1200x' alt='Le pillan viendo a su propio equipo en una página IPTV pirata y no se corta: "Es gratis, es para mí"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/bill-gates-hay-unico-momento-dia-moviles-estan-prohibidos-1413570'>Para Bill Gates hay un único momento del día en el que los móviles están prohibidos</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/bill-gates-hay-unico-momento-dia-moviles-estan-prohibidos-1413570' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bill-gates-tecnologia-4252637.jpg?tf=1200x' alt='Para Bill Gates hay un único momento del día en el que los móviles están prohibidos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ted-talks-lanzan-juego-diario-tipo-wordle-preparate-comerte-cabeza-1413530'>Netflix y TED Talks lanzan un juego diario tipo Wordle: prepárate para comerte la cabeza</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ted-talks-lanzan-juego-diario-tipo-wordle-preparate-comerte-cabeza-1413530' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/preparate-reto-mental-netflix-ted-talks-lanzaran-juego-diario-llegara-movil-noviembre-4252605.jpg?tf=1200x' alt='Netflix y TED Talks lanzan un juego diario tipo Wordle: prepárate para comerte la cabeza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/popular-iptv-acaba-eliminar-acceso-facebook-estas-son-alternativas-1413548'>Esta popular IPTV acaba de eliminar el acceso con Facebook: estas son sus alternativas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/popular-iptv-acaba-eliminar-acceso-facebook-estas-son-alternativas-1413548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hombre-enfadado-ordenador-4252610.jpg?tf=1200x' alt='Esta popular IPTV acaba de eliminar el acceso con Facebook: estas son sus alternativas' />
     </a>
 </div>
 
