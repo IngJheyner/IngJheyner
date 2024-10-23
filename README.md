@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/arm-retira-licencia-qualcomm-no-podra-vender-procesadores-snapdragon-1413767'>Arm retira la licencia a Qualcomm: no podrá vender más procesadores Snapdragon</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/arm-retira-licencia-qualcomm-no-podra-vender-procesadores-snapdragon-1413767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/logo-qualcomm-snapdragon-8-elite-4250471.jpg?tf=1200x' alt='Arm retira la licencia a Qualcomm: no podrá vender más procesadores Snapdragon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ambiciosa-pelicula-ciencia-ficcion-iba-tener-siete-entregas-funciono-taquilla-pero-detuvo-repente-sucedio-1412906'>La ambiciosa película de ciencia ficción que iba a tener siete entregas y funcionó en taquilla, pero se detuvo de repente, ¿qué sucedió?</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ambiciosa-pelicula-ciencia-ficcion-iba-tener-siete-entregas-funciono-taquilla-pero-detuvo-repente-sucedio-1412906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/soy-numero-cuatro-4252679.jpg?tf=1200x' alt='La ambiciosa película de ciencia ficción que iba a tener siete entregas y funcionó en taquilla, pero se detuvo de repente, ¿qué sucedió?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/blablacar-ya-permite-comprar-billetes-tren-espana-directamente-app-1413743'>BlaBlaCar ya permite comprar billetes de tren en España directamente desde su app</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/blablacar-ya-permite-comprar-billetes-tren-espana-directamente-app-1413743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/blablacar-4253033.jpg?tf=1200x' alt='BlaBlaCar ya permite comprar billetes de tren en España directamente desde su app' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-remakes-historia-cine-terror-punto-volver-cines-1413411'>Es uno de los mejores remakes en la historia del cine de terror, y está a punto de volver a los cines</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-remakes-historia-cine-terror-punto-volver-cines-1413411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/nosferatu-2176533.jpg?tf=1200x' alt='Es uno de los mejores remakes en la historia del cine de terror, y está a punto de volver a los cines' />
     </a>
 </div>
 
