@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafas-whatsapp-disparan-consejos-rapidos-sencillos-protegerte-1411905'>Las estafas por WhatsApp se disparan: consejos rápidos y sencillos para protegerte</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafas-whatsapp-disparan-consejos-rapidos-sencillos-protegerte-1411905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafas-whatsapp-disparan-consejos-rapidos-sencillos-protegerte-4249934.jpg?tf=1200x' alt='Las estafas por WhatsApp se disparan: consejos rápidos y sencillos para protegerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/consola-anbernic-viral-rebaja-aliexpress-1408218'>La consola Anbernic más deseada de AliExpress está a precio de locos: tiene Android y pantalla AMOLED</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/consola-anbernic-viral-rebaja-aliexpress-1408218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/anbernic-rg556-4243784.jpg?tf=1200x' alt='La consola Anbernic más deseada de AliExpress está a precio de locos: tiene Android y pantalla AMOLED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/trucos-mejorar-alargar-bateria-reloj-inteligente-1413207'>Trucos para mejorar y alargar la batería de tu reloj inteligente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/trucos-mejorar-alargar-bateria-reloj-inteligente-1413207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/trucos-mejorar-alargar-bateria-reloj-inteligente-4252090.jpg?tf=1200x' alt='Trucos para mejorar y alargar la batería de tu reloj inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-ocultara-numero-movil-cuando-envies-mensajes-1413498'>WhatsApp ocultará tu número de móvil cuando envíes mensajes o añadas contactos</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-ocultara-numero-movil-cuando-envies-mensajes-1413498' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-ocultara-numero-movil-cuando-envies-mensajes-alguien-anadas-contactos-4252525.jpg?tf=1200x' alt='WhatsApp ocultará tu número de móvil cuando envíes mensajes o añadas contactos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-131-ya-disponible-todos-estas-son-novedades-como-actualizar-1413474'>Android Auto 13.1 ya disponible para todos: estas son las novedades y cómo actualizar</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-auto-131-ya-disponible-todos-estas-son-novedades-como-actualizar-1413474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-131-4252524.jpg?tf=1200x' alt='Android Auto 13.1 ya disponible para todos: estas son las novedades y cómo actualizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-cargar-movil-correctamente-evitar-desastres-ocu-1413473'>Cómo cargar el móvil correctamente para evitar desastres, según la OCU</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/como-cargar-movil-correctamente-evitar-desastres-ocu-1413473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cargar-movil-4252523.jpg?tf=1200x' alt='Cómo cargar el móvil correctamente para evitar desastres, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/puedo-tender-ropa-genial-google-maps-lluvia-no-arruine-colada-1413468'>¿Puedo tender la ropa?, el genial Google Maps para que la lluvia no arruine tu colada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/puedo-tender-ropa-genial-google-maps-lluvia-no-arruine-colada-1413468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tender-ropa-4252520.jpg?tf=1200x' alt='¿Puedo tender la ropa?, el genial Google Maps para que la lluvia no arruine tu colada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/gran-exito-netflix-ha-regresado-unas-criticas-perfectas-1413389'>El gran éxito de Netflix que ha regresado con unas críticas perfectas</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/gran-exito-netflix-ha-regresado-unas-criticas-perfectas-1413389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gran-exito-netflix-ha-regresado-unas-criticas-perfectas-4252369.jpg?tf=1200x' alt='El gran éxito de Netflix que ha regresado con unas críticas perfectas' />
     </a>
 </div>
 
