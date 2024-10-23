@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/popular-iptv-acaba-eliminar-acceso-facebook-estas-son-alternativas-1413548'>Esta popular IPTV acaba de eliminar el acceso con Facebook: estas son sus alternativas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/popular-iptv-acaba-eliminar-acceso-facebook-estas-son-alternativas-1413548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hombre-enfadado-ordenador-4252610.jpg?tf=1200x' alt='Esta popular IPTV acaba de eliminar el acceso con Facebook: estas son sus alternativas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/fondo-pantalla-iphone-donald-trump-oda-mismo-1413547'>Este es el fondo de pantalla del iPhone de Donald Trump: una oda a sí mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/fondo-pantalla-iphone-donald-trump-oda-mismo-1413547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/donald-trump-2664427.jpg?tf=1200x' alt='Este es el fondo de pantalla del iPhone de Donald Trump: una oda a sí mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/boox-palma-2-demuestra-hay-espacio-moviles-pantalla-blanco-negro-1413206'>Boox Palma 2 demuestra que hay espacio para más móviles con pantalla en blanco y negro</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/boox-palma-2-demuestra-hay-espacio-moviles-pantalla-blanco-negro-1413206' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/boox-palma-2-4252080.jpg?tf=1200x' alt='Boox Palma 2 demuestra que hay espacio para más móviles con pantalla en blanco y negro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nueva-ia-anthropic-maneja-raton-teclado-usar-apps-pc-1413519'>La nueva IA de Anthropic maneja el ratón y el teclado por su cuenta para usar apps en tu PC</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nueva-ia-anthropic-maneja-raton-teclado-usar-apps-pc-1413519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nueva-ia-anthropic-maneja-raton-teclado-cuenta-usar-apps-pc-4252580.jpg?tf=1200x' alt='La nueva IA de Anthropic maneja el ratón y el teclado por su cuenta para usar apps en tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/mejor-acemagician-am08pro-tener-mini-pc-gaming-puedo-actualizar-problemas-1410037'>Lo mejor de Acemagician AM08PRO es tener un mini PC gaming que puedo actualizar sin problemas</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/mejor-acemagician-am08pro-tener-mini-pc-gaming-puedo-actualizar-problemas-1410037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/acemagician-am08pro-4246633.jpg?tf=1200x' alt='Lo mejor de Acemagician AM08PRO es tener un mini PC gaming que puedo actualizar sin problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-lector-ebooks-boox-go-color-7-mejores-opciones-pantalla-color-1411413'>He probado el lector de ebooks Boox Go Color 7 y es una de las mejores opciones por su pantalla a color</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-lector-ebooks-boox-go-color-7-mejores-opciones-pantalla-color-1411413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/boox-go-color-7-4249065.jpg?tf=1200x' alt='He probado el lector de ebooks Boox Go Color 7 y es una de las mejores opciones por su pantalla a color' />
     </a>
 </div>
 
