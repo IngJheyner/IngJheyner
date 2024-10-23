@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/repetidor-wifi-vs-wifi-mesh-wifi-malla-diferencias-cual-mejor-ti-1412756'>Repetidor WiFi vs. WiFi Mesh (o WiFi de malla): diferencias y cuál es mejor para ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/repetidor-wifi-vs-wifi-mesh-wifi-malla-diferencias-cual-mejor-ti-1412756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/repetidor-wifi-vs-wifi-mesh-wifi-malla-diferencias-cual-mejor-ti-4251345.jpg?tf=1200x' alt='Repetidor WiFi vs. WiFi Mesh (o WiFi de malla): diferencias y cuál es mejor para ti' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/boox-palma-2-demuestra-hay-espacio-moviles-pantalla-blanco-negro-1413206'>Boox Palma 2 demuestra que hay espacio para más móviles con pantalla en blanco y negro</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/boox-palma-2-demuestra-hay-espacio-moviles-pantalla-blanco-negro-1413206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/boox-palma-2-4252080.jpg?tf=1200x' alt='Boox Palma 2 demuestra que hay espacio para más móviles con pantalla en blanco y negro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/lenguaje-programacion-mejor-pagado-admirado-mejor-herramienta-90000-programadores-confiesan-1412761'>El lenguaje de programación mejor pagado, el más admirado o la mejor herramienta: 90.000 programadores se confiesan</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/lenguaje-programacion-mejor-pagado-admirado-mejor-herramienta-90000-programadores-confiesan-1412761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lenguaje-programacion-mejor-pagado-admirado-mejor-herramienta-90000-programadores-confiesan-4251350.jpg?tf=1200x' alt='El lenguaje de programación mejor pagado, el más admirado o la mejor herramienta: 90.000 programadores se confiesan' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-snapdragon-8-elite-benchmarks-sorpasso-apple-1413481'>Sorpasso a Apple con los primeros benchmarks de Snapdragon 8 Elite</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-snapdragon-8-elite-benchmarks-sorpasso-apple-1413481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/qualcomm-snapdragon-8-elite-chip-4252093.jpg?tf=1200x' alt='Sorpasso a Apple con los primeros benchmarks de Snapdragon 8 Elite' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/mit-desalinizadora-solar-autonoma-5000-litros-agua-dia-sin-baterias-1413512'>El MIT construye una desalinizadora solar autónoma: 5.000 litros de agua al día sin baterías</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/mit-desalinizadora-solar-autonoma-5000-litros-agua-dia-sin-baterias-1413512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mit-construye-desalinizadora-autonoma-5000-litros-agua-dia-energia-solar-4252573.jpg?tf=1200x' alt='El MIT construye una desalinizadora solar autónoma: 5.000 litros de agua al día sin baterías' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nueva-ia-anthropic-maneja-raton-teclado-usar-apps-pc-1413519'>La nueva IA de Anthropic maneja el ratón y el teclado por su cuenta para usar apps en tu PC</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nueva-ia-anthropic-maneja-raton-teclado-usar-apps-pc-1413519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nueva-ia-anthropic-maneja-raton-teclado-cuenta-usar-apps-pc-4252580.jpg?tf=1200x' alt='La nueva IA de Anthropic maneja el ratón y el teclado por su cuenta para usar apps en tu PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafas-whatsapp-disparan-consejos-rapidos-sencillos-protegerte-1411905'>Las estafas por WhatsApp se disparan: consejos rápidos y sencillos para protegerte</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafas-whatsapp-disparan-consejos-rapidos-sencillos-protegerte-1411905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafas-whatsapp-disparan-consejos-rapidos-sencillos-protegerte-4249934.jpg?tf=1200x' alt='Las estafas por WhatsApp se disparan: consejos rápidos y sencillos para protegerte' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/mejor-acemagician-am08pro-tener-mini-pc-gaming-puedo-actualizar-problemas-1410037'>Lo mejor de Acemagician AM08PRO es tener un mini PC gaming que puedo actualizar sin problemas</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/mejor-acemagician-am08pro-tener-mini-pc-gaming-puedo-actualizar-problemas-1410037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/acemagician-am08pro-4246633.jpg?tf=1200x' alt='Lo mejor de Acemagician AM08PRO es tener un mini PC gaming que puedo actualizar sin problemas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/consola-anbernic-viral-rebaja-aliexpress-1408218'>La consola Anbernic más deseada de AliExpress está a precio de locos: tiene Android y pantalla AMOLED</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/consola-anbernic-viral-rebaja-aliexpress-1408218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/anbernic-rg556-4243784.jpg?tf=1200x' alt='La consola Anbernic más deseada de AliExpress está a precio de locos: tiene Android y pantalla AMOLED' />
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-lector-ebooks-boox-go-color-7-mejores-opciones-pantalla-color-1411413'>He probado el lector de ebooks Boox Go Color 7 y es una de las mejores opciones por su pantalla a color</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-lector-ebooks-boox-go-color-7-mejores-opciones-pantalla-color-1411413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/boox-go-color-7-4249065.jpg?tf=1200x' alt='He probado el lector de ebooks Boox Go Color 7 y es una de las mejores opciones por su pantalla a color' />
     </a>
 </div>
 
