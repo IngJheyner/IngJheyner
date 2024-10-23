@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/subasta-viviendas-embargadas-hacienda-casas-chalets-pisos-toda-espana-menos-12000-euros-1413746'>Subasta de viviendas embargadas de Hacienda: casas, chalets y pisos en toda España por menos de 12.000 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/subasta-viviendas-embargadas-hacienda-casas-chalets-pisos-toda-espana-menos-12000-euros-1413746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/entrega-llaves-4253037.jpg?tf=1200x' alt='Subasta de viviendas embargadas de Hacienda: casas, chalets y pisos en toda España por menos de 12.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-hace-pc-limitados-funcionen-rapido-eliminando-cuellos-botella-windows-update-1413745'>Windows 11 24H2 hace que los PC más limitados funcionen más rápido eliminando los cuellos de botella de Windows Update</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-hace-pc-limitados-funcionen-rapido-eliminando-cuellos-botella-windows-update-1413745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-4253036.jpg?tf=1200x' alt='Windows 11 24H2 hace que los PC más limitados funcionen más rápido eliminando los cuellos de botella de Windows Update' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/blablacar-ya-permite-comprar-billetes-tren-espana-directamente-app-1413743'>BlaBlaCar ya permite comprar billetes de tren en España directamente desde su app</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/blablacar-ya-permite-comprar-billetes-tren-espana-directamente-app-1413743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/blablacar-4253033.jpg?tf=1200x' alt='BlaBlaCar ya permite comprar billetes de tren en España directamente desde su app' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-remakes-historia-cine-terror-punto-volver-cines-1413411'>Es uno de los mejores remakes en la historia del cine de terror, y está a punto de volver a los cines</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-remakes-historia-cine-terror-punto-volver-cines-1413411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/nosferatu-2176533.jpg?tf=1200x' alt='Es uno de los mejores remakes en la historia del cine de terror, y está a punto de volver a los cines' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/alternativas-gratis-capcut-crear-videos-subtitulos-automaticos-1413069'>10 alternativas gratis a CapCut para crear vídeos con subtítulos automáticos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/alternativas-gratis-capcut-crear-videos-subtitulos-automaticos-1413069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cupcut-4252678.jpg?tf=1200x' alt='10 alternativas gratis a CapCut para crear vídeos con subtítulos automáticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/ultimo-parche-windows-10-esconde-dos-funciones-ocultas-windows-11-activan-1413615'>El último parche de Windows 10 esconde dos funciones ocultas de Windows 11, así se activan</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/ultimo-parche-windows-10-esconde-dos-funciones-ocultas-windows-11-activan-1413615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ultimo-parche-windows-10-esconde-dos-funciones-ocultas-windows-11-activan-4252747.jpg?tf=1200x' alt='El último parche de Windows 10 esconde dos funciones ocultas de Windows 11, así se activan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/waze-consume-mucha-bateria-evitarlo-1412032'>¿Waze consume mucha batería? Haz esto para evitarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/waze-consume-mucha-bateria-evitarlo-1412032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ahorro-bateria-waze-4250067.jpg?tf=1200x' alt='¿Waze consume mucha batería? Haz esto para evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-apagar-wifi-ni-bluetooth-sencillo-habito-protege-movil-malware-nsa-1413587'>Ni apagar el WiFi ni el Bluetooth, este sencillo hábito es el que más protege tu móvil del malware, según la NSA</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-apagar-wifi-ni-bluetooth-sencillo-habito-protege-movil-malware-nsa-1413587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-apagar-wifi-ni-bluetooth-sencillo-habito-protege-movil-malware-nsa-4252701.jpg?tf=1200x' alt='Ni apagar el WiFi ni el Bluetooth, este sencillo hábito es el que más protege tu móvil del malware, según la NSA' />
     </a>
 </div>
 
