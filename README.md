@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/bill-gates-hay-unico-momento-dia-moviles-estan-prohibidos-1413570'>Para Bill Gates hay un único momento del día en el que los móviles están prohibidos</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/bill-gates-hay-unico-momento-dia-moviles-estan-prohibidos-1413570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bill-gates-tecnologia-4252637.jpg?tf=1200x' alt='Para Bill Gates hay un único momento del día en el que los móviles están prohibidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/movil-nothing-nos-encanta-no-paramos-recomendarlo-amazon-vende-rebajadisimo-1413050'>Este móvil de Nothing nos encanta, no paramos de recomendarlo y Amazon lo vende rebajadísimo</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/movil-nothing-nos-encanta-no-paramos-recomendarlo-amazon-vende-rebajadisimo-1413050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nothing-phone-2a-plus-4251705.jpg?tf=1200x' alt='Este móvil de Nothing nos encanta, no paramos de recomendarlo y Amazon lo vende rebajadísimo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-lanzara-app-store-exclusiva-juegos-1413551'>Apple lanzará una App Store exclusiva para juegos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-lanzara-app-store-exclusiva-juegos-1413551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/isla-dinamica-iphone-15-pro-max-3150496.jpg?tf=1200x' alt='Apple lanzará una App Store exclusiva para juegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ted-talks-lanzan-juego-diario-tipo-wordle-preparate-comerte-cabeza-1413530'>Netflix y TED Talks lanzan un juego diario tipo Wordle: prepárate para comerte la cabeza</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ted-talks-lanzan-juego-diario-tipo-wordle-preparate-comerte-cabeza-1413530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/preparate-reto-mental-netflix-ted-talks-lanzaran-juego-diario-llegara-movil-noviembre-4252605.jpg?tf=1200x' alt='Netflix y TED Talks lanzan un juego diario tipo Wordle: prepárate para comerte la cabeza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/popular-iptv-acaba-eliminar-acceso-facebook-estas-son-alternativas-1413548'>Esta popular IPTV acaba de eliminar el acceso con Facebook: estas son sus alternativas</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/popular-iptv-acaba-eliminar-acceso-facebook-estas-son-alternativas-1413548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hombre-enfadado-ordenador-4252610.jpg?tf=1200x' alt='Esta popular IPTV acaba de eliminar el acceso con Facebook: estas son sus alternativas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/fondo-pantalla-iphone-donald-trump-oda-mismo-1413547'>Este es el fondo de pantalla del iPhone de Donald Trump: una oda a sí mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/fondo-pantalla-iphone-donald-trump-oda-mismo-1413547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/donald-trump-2664427.jpg?tf=1200x' alt='Este es el fondo de pantalla del iPhone de Donald Trump: una oda a sí mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/boox-palma-2-demuestra-hay-espacio-moviles-pantalla-blanco-negro-1413206'>Boox Palma 2 demuestra que hay espacio para más móviles con pantalla en blanco y negro</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/boox-palma-2-demuestra-hay-espacio-moviles-pantalla-blanco-negro-1413206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/boox-palma-2-4252080.jpg?tf=1200x' alt='Boox Palma 2 demuestra que hay espacio para más móviles con pantalla en blanco y negro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-snapdragon-8-elite-benchmarks-sorpasso-apple-1413481'>Sorpasso a Apple con los primeros benchmarks de Snapdragon 8 Elite</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-snapdragon-8-elite-benchmarks-sorpasso-apple-1413481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/qualcomm-snapdragon-8-elite-chip-4252093.jpg?tf=1200x' alt='Sorpasso a Apple con los primeros benchmarks de Snapdragon 8 Elite' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nueva-ia-anthropic-maneja-raton-teclado-usar-apps-pc-1413519'>La nueva IA de Anthropic maneja el ratón y el teclado por su cuenta para usar apps en tu PC</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nueva-ia-anthropic-maneja-raton-teclado-usar-apps-pc-1413519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nueva-ia-anthropic-maneja-raton-teclado-cuenta-usar-apps-pc-4252580.jpg?tf=1200x' alt='La nueva IA de Anthropic maneja el ratón y el teclado por su cuenta para usar apps en tu PC' />
     </a>
 </div>
 
