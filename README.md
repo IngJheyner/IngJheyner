@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/entendiendo-cada-cosa-linux-terminos-comunes-explicados-1413208'>Entendiendo qué es cada cosa en Linux: 7 términos comunes explicados</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/entendiendo-cada-cosa-linux-terminos-comunes-explicados-1413208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/codigos-linux-4252086.jpg?tf=1200x' alt='Entendiendo qué es cada cosa en Linux: 7 términos comunes explicados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/nuevas-funciones-llegaran-google-keep-revitalizaran-forma-tomas-notas-android-1413534'>Las nuevas funciones que llegarán a Google Keep revitalizarán la forma en la que tomas notas en tu Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/nuevas-funciones-llegaran-google-keep-revitalizaran-forma-tomas-notas-android-1413534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nuevas-funciones-llegaran-google-keep-revitalizaran-forma-tomas-notas-android-4252652.jpg?tf=1200x' alt='Las nuevas funciones que llegarán a Google Keep revitalizarán la forma en la que tomas notas en tu Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/jefe-ia-meta-no-teme-apocalipsis-inteligencia-artificial-completamente-absurdo-1413332'>El jefe de IA de Meta no teme un apocalipsis por la inteligencia artificial: “Es completamente absurdo”.</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/jefe-ia-meta-no-teme-apocalipsis-inteligencia-artificial-completamente-absurdo-1413332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/jefe-ia-meta-no-teme-apocalipsis-inteligencia-artificial-completamente-absurdo-4252270.jpg?tf=1200x' alt='El jefe de IA de Meta no teme un apocalipsis por la inteligencia artificial: “Es completamente absurdo”.' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/steam-deck-2-todo-sabemos-nueva-consola-portatil-valve-1413250'>Steam Deck 2: todo lo que sabemos de la nueva consola portátil de Valve</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/steam-deck-2-todo-sabemos-nueva-consola-portatil-valve-1413250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steam-deck-2-todo-sabemos-nueva-consola-portatil-valve-4252149.jpg?tf=1200x' alt='Steam Deck 2: todo lo que sabemos de la nueva consola portátil de Valve' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/audio/amazfit-presenta-auriculares-abiertos-amazfit-perfectos-seguridad-deportistas-1413627'>Amazfit presenta sus auriculares abiertos Amazfit Up, perfectos para la seguridad de los deportistas </a></h4>
     <a href='https://computerhoy.20minutos.es/audio/amazfit-presenta-auriculares-abiertos-amazfit-perfectos-seguridad-deportistas-1413627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazfit-4252700.jpg?tf=1200x' alt='Amazfit presenta sus auriculares abiertos Amazfit Up, perfectos para la seguridad de los deportistas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/app-generar-videos-ia-lista-acabar-openai-gratis-tiene-calidad-top-1413626'>Esta app para generar vídeos con IA está lista para acabar con OpenAI: es gratis y tiene una calidad top</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/app-generar-videos-ia-lista-acabar-openai-gratis-tiene-calidad-top-1413626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/app-generacion-videos-ia-4252675.jpg?tf=1200x' alt='Esta app para generar vídeos con IA está lista para acabar con OpenAI: es gratis y tiene una calidad top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/guardar-contactos-whatsapp-ventajas-inconvenientes-diferencias-agenda-movil-1413616'>Guardar los contactos en WhatsApp: ventajas, inconvenientes y diferencias con la agenda del móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/guardar-contactos-whatsapp-ventajas-inconvenientes-diferencias-agenda-movil-1413616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mujer-usando-whatsapp-4245175.jpg?tf=1200x' alt='Guardar los contactos en WhatsApp: ventajas, inconvenientes y diferencias con la agenda del móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/pillan-viendo-propio-equipo-pagina-iptv-pirata-no-corta-gratis-mi-1413591'>Le pillan viendo a su propio equipo en una página IPTV pirata y no se corta: "Es gratis, es para mí"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/pillan-viendo-propio-equipo-pagina-iptv-pirata-no-corta-gratis-mi-1413591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/viendo-tv-4252621.jpg?tf=1200x' alt='Le pillan viendo a su propio equipo en una página IPTV pirata y no se corta: "Es gratis, es para mí"' />
     </a>
 </div>
 
