@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/steam-deck-2-todo-sabemos-nueva-consola-portatil-valve-1413250'>Steam Deck 2: todo lo que sabemos de la nueva consola portátil de Valve</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/steam-deck-2-todo-sabemos-nueva-consola-portatil-valve-1413250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steam-deck-2-todo-sabemos-nueva-consola-portatil-valve-4252149.jpg?tf=1200x' alt='Steam Deck 2: todo lo que sabemos de la nueva consola portátil de Valve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/amazfit-presenta-auriculares-abiertos-amazfit-perfectos-seguridad-deportistas-1413627'>Amazfit presenta sus auriculares abiertos Amazfit Up, perfectos para la seguridad de los deportistas </a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/amazfit-presenta-auriculares-abiertos-amazfit-perfectos-seguridad-deportistas-1413627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazfit-4252700.jpg?tf=1200x' alt='Amazfit presenta sus auriculares abiertos Amazfit Up, perfectos para la seguridad de los deportistas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/app-generar-videos-ia-lista-acabar-openai-gratis-tiene-calidad-top-1413626'>Esta app para generar vídeos con IA está lista para acabar con OpenAI: es gratis y tiene una calidad top</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/app-generar-videos-ia-lista-acabar-openai-gratis-tiene-calidad-top-1413626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/app-generacion-videos-ia-4252675.jpg?tf=1200x' alt='Esta app para generar vídeos con IA está lista para acabar con OpenAI: es gratis y tiene una calidad top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/guardar-contactos-whatsapp-ventajas-inconvenientes-diferencias-agenda-movil-1413616'>Guardar los contactos en WhatsApp: ventajas, inconvenientes y diferencias con la agenda del móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/guardar-contactos-whatsapp-ventajas-inconvenientes-diferencias-agenda-movil-1413616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mujer-usando-whatsapp-4245175.jpg?tf=1200x' alt='Guardar los contactos en WhatsApp: ventajas, inconvenientes y diferencias con la agenda del móvil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/pillan-viendo-propio-equipo-pagina-iptv-pirata-no-corta-gratis-mi-1413591'>Le pillan viendo a su propio equipo en una página IPTV pirata y no se corta: "Es gratis, es para mí"</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/pillan-viendo-propio-equipo-pagina-iptv-pirata-no-corta-gratis-mi-1413591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/viendo-tv-4252621.jpg?tf=1200x' alt='Le pillan viendo a su propio equipo en una página IPTV pirata y no se corta: "Es gratis, es para mí"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/bill-gates-hay-unico-momento-dia-moviles-estan-prohibidos-1413570'>Para Bill Gates hay un único momento del día en el que los móviles están prohibidos</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/bill-gates-hay-unico-momento-dia-moviles-estan-prohibidos-1413570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bill-gates-tecnologia-4252637.jpg?tf=1200x' alt='Para Bill Gates hay un único momento del día en el que los móviles están prohibidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/movil-nothing-nos-encanta-no-paramos-recomendarlo-amazon-vende-rebajadisimo-1413050'>Este móvil de Nothing nos encanta, no paramos de recomendarlo y Amazon lo vende rebajadísimo</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/movil-nothing-nos-encanta-no-paramos-recomendarlo-amazon-vende-rebajadisimo-1413050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nothing-phone-2a-plus-4251705.jpg?tf=1200x' alt='Este móvil de Nothing nos encanta, no paramos de recomendarlo y Amazon lo vende rebajadísimo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-lanzara-app-store-exclusiva-juegos-1413551'>Apple lanzará una App Store exclusiva para juegos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-lanzara-app-store-exclusiva-juegos-1413551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/isla-dinamica-iphone-15-pro-max-3150496.jpg?tf=1200x' alt='Apple lanzará una App Store exclusiva para juegos' />
     </a>
 </div>
 
