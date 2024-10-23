@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/boeing-espacio-satelites-explora-plena-orbita-1413783'>Sigue la maldición de Boeing en el espacio: uno de sus satélites explora en plena órbita</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/espacio/boeing-espacio-satelites-explora-plena-orbita-1413783'>Sigue la maldición de Boeing en el espacio: uno de sus satélites explota en plena órbita</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/boeing-espacio-satelites-explora-plena-orbita-1413783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sigue-maldicion-boeing-espacio-satelites-explora-plena-orbita-4253133.jpg?tf=1200x' alt='Sigue la maldición de Boeing en el espacio: uno de sus satélites explora en plena órbita' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sigue-maldicion-boeing-espacio-satelites-explora-plena-orbita-4253133.jpg?tf=1200x' alt='Sigue la maldición de Boeing en el espacio: uno de sus satélites explota en plena órbita' />
     </a>
 </div>
 
