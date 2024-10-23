@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-apagar-wifi-ni-bluetooth-sencillo-habito-protege-movil-malware-nsa-1413587'>Ni apagar el WiFi ni el Bluetooth, este sencillo hábito es el que más protege tu móvil del malware, según la NSA</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-apagar-wifi-ni-bluetooth-sencillo-habito-protege-movil-malware-nsa-1413587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-apagar-wifi-ni-bluetooth-sencillo-habito-protege-movil-malware-nsa-4252701.jpg?tf=1200x' alt='Ni apagar el WiFi ni el Bluetooth, este sencillo hábito es el que más protege tu móvil del malware, según la NSA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/entendiendo-cada-cosa-linux-terminos-comunes-explicados-1413208'>Entendiendo qué es cada cosa en Linux: 7 términos comunes explicados</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/entendiendo-cada-cosa-linux-terminos-comunes-explicados-1413208' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/codigos-linux-4252086.jpg?tf=1200x' alt='Entendiendo qué es cada cosa en Linux: 7 términos comunes explicados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/steam-deck-2-todo-sabemos-nueva-consola-portatil-valve-1413250'>Steam Deck 2: todo lo que sabemos de la nueva consola portátil de Valve</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/steam-deck-2-todo-sabemos-nueva-consola-portatil-valve-1413250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steam-deck-2-todo-sabemos-nueva-consola-portatil-valve-4252149.jpg?tf=1200x' alt='Steam Deck 2: todo lo que sabemos de la nueva consola portátil de Valve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/amazfit-presenta-auriculares-abiertos-amazfit-perfectos-seguridad-deportistas-1413627'>Amazfit presenta sus auriculares abiertos Amazfit Up, perfectos para la seguridad de los deportistas </a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/amazfit-presenta-auriculares-abiertos-amazfit-perfectos-seguridad-deportistas-1413627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazfit-4252700.jpg?tf=1200x' alt='Amazfit presenta sus auriculares abiertos Amazfit Up, perfectos para la seguridad de los deportistas ' />
     </a>
 </div>
 
