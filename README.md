@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ambiciosa-pelicula-ciencia-ficcion-iba-tener-siete-entregas-funciono-taquilla-pero-detuvo-repente-sucedio-1412906'>La ambiciosa película de ciencia ficción que iba a tener siete entregas y funcionó en taquilla, pero se detuvo de repente, ¿qué sucedió?</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ambiciosa-pelicula-ciencia-ficcion-iba-tener-siete-entregas-funciono-taquilla-pero-detuvo-repente-sucedio-1412906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/soy-numero-cuatro-4252679.jpg?tf=1200x' alt='La ambiciosa película de ciencia ficción que iba a tener siete entregas y funcionó en taquilla, pero se detuvo de repente, ¿qué sucedió?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/subasta-viviendas-embargadas-hacienda-casas-chalets-pisos-toda-espana-menos-12000-euros-1413746'>Subasta de viviendas embargadas de Hacienda: casas, chalets y pisos en toda España por menos de 12.000 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/life/subasta-viviendas-embargadas-hacienda-casas-chalets-pisos-toda-espana-menos-12000-euros-1413746' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/entrega-llaves-4253037.jpg?tf=1200x' alt='Subasta de viviendas embargadas de Hacienda: casas, chalets y pisos en toda España por menos de 12.000 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-remakes-historia-cine-terror-punto-volver-cines-1413411'>Es uno de los mejores remakes en la historia del cine de terror, y está a punto de volver a los cines</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-remakes-historia-cine-terror-punto-volver-cines-1413411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/nosferatu-2176533.jpg?tf=1200x' alt='Es uno de los mejores remakes en la historia del cine de terror, y está a punto de volver a los cines' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alternativas-gratis-capcut-crear-videos-subtitulos-automaticos-1413069'>10 alternativas gratis a CapCut para crear vídeos con subtítulos automáticos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alternativas-gratis-capcut-crear-videos-subtitulos-automaticos-1413069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cupcut-4252678.jpg?tf=1200x' alt='10 alternativas gratis a CapCut para crear vídeos con subtítulos automáticos' />
     </a>
 </div>
 
