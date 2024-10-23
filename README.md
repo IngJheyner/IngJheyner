@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/repetidor-wifi-vs-wifi-mesh-wifi-malla-diferencias-cual-mejor-ti-1412756'>Repetidor WiFi vs. WiFi Mesh (o WiFi de malla): diferencias y cuál es mejor para ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/repetidor-wifi-vs-wifi-mesh-wifi-malla-diferencias-cual-mejor-ti-1412756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/repetidor-wifi-vs-wifi-mesh-wifi-malla-diferencias-cual-mejor-ti-4251345.jpg?tf=1200x' alt='Repetidor WiFi vs. WiFi Mesh (o WiFi de malla): diferencias y cuál es mejor para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/lenguaje-programacion-mejor-pagado-admirado-mejor-herramienta-90000-programadores-confiesan-1412761'>El lenguaje de programación mejor pagado, el más admirado o la mejor herramienta: 90.000 programadores se confiesan</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/lenguaje-programacion-mejor-pagado-admirado-mejor-herramienta-90000-programadores-confiesan-1412761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lenguaje-programacion-mejor-pagado-admirado-mejor-herramienta-90000-programadores-confiesan-4251350.jpg?tf=1200x' alt='El lenguaje de programación mejor pagado, el más admirado o la mejor herramienta: 90.000 programadores se confiesan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/mit-desalinizadora-solar-autonoma-5000-litros-agua-dia-sin-baterias-1413512'>El MIT construye una desalinizadora solar autónoma: 5.000 litros de agua al día sin baterías</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/mit-desalinizadora-solar-autonoma-5000-litros-agua-dia-sin-baterias-1413512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mit-construye-desalinizadora-autonoma-5000-litros-agua-dia-energia-solar-4252573.jpg?tf=1200x' alt='El MIT construye una desalinizadora solar autónoma: 5.000 litros de agua al día sin baterías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafas-whatsapp-disparan-consejos-rapidos-sencillos-protegerte-1411905'>Las estafas por WhatsApp se disparan: consejos rápidos y sencillos para protegerte</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafas-whatsapp-disparan-consejos-rapidos-sencillos-protegerte-1411905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafas-whatsapp-disparan-consejos-rapidos-sencillos-protegerte-4249934.jpg?tf=1200x' alt='Las estafas por WhatsApp se disparan: consejos rápidos y sencillos para protegerte' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/consola-anbernic-viral-rebaja-aliexpress-1408218'>La consola Anbernic más deseada de AliExpress está a precio de locos: tiene Android y pantalla AMOLED</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/consola-anbernic-viral-rebaja-aliexpress-1408218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/anbernic-rg556-4243784.jpg?tf=1200x' alt='La consola Anbernic más deseada de AliExpress está a precio de locos: tiene Android y pantalla AMOLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/trucos-mejorar-alargar-bateria-reloj-inteligente-1413207'>Trucos para mejorar y alargar la batería de tu reloj inteligente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/trucos-mejorar-alargar-bateria-reloj-inteligente-1413207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/trucos-mejorar-alargar-bateria-reloj-inteligente-4252090.jpg?tf=1200x' alt='Trucos para mejorar y alargar la batería de tu reloj inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-ocultara-numero-movil-cuando-envies-mensajes-1413498'>WhatsApp ocultará tu número de móvil cuando envíes mensajes o añadas contactos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-ocultara-numero-movil-cuando-envies-mensajes-1413498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-ocultara-numero-movil-cuando-envies-mensajes-alguien-anadas-contactos-4252525.jpg?tf=1200x' alt='WhatsApp ocultará tu número de móvil cuando envíes mensajes o añadas contactos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-131-ya-disponible-todos-estas-son-novedades-como-actualizar-1413474'>Android Auto 13.1 ya disponible para todos: estas son las novedades y cómo actualizar</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-auto-131-ya-disponible-todos-estas-son-novedades-como-actualizar-1413474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-131-4252524.jpg?tf=1200x' alt='Android Auto 13.1 ya disponible para todos: estas son las novedades y cómo actualizar' />
     </a>
 </div>
 
