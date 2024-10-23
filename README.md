@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/guardar-contactos-whatsapp-ventajas-inconvenientes-diferencias-agenda-movil-1413616'>Guardar los contactos en WhatsApp: ventajas, inconvenientes y diferencias con la agenda del móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/guardar-contactos-whatsapp-ventajas-inconvenientes-diferencias-agenda-movil-1413616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mujer-usando-whatsapp-4245175.jpg?tf=1200x' alt='Guardar los contactos en WhatsApp: ventajas, inconvenientes y diferencias con la agenda del móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/pillan-viendo-propio-equipo-pagina-iptv-pirata-no-corta-gratis-mi-1413591'>Le pillan viendo a su propio equipo en una página IPTV pirata y no se corta: "Es gratis, es para mí"</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/pillan-viendo-propio-equipo-pagina-iptv-pirata-no-corta-gratis-mi-1413591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/viendo-tv-4252621.jpg?tf=1200x' alt='Le pillan viendo a su propio equipo en una página IPTV pirata y no se corta: "Es gratis, es para mí"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-lanzara-app-store-exclusiva-juegos-1413551'>Apple lanzará una App Store exclusiva para juegos</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-lanzara-app-store-exclusiva-juegos-1413551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/isla-dinamica-iphone-15-pro-max-3150496.jpg?tf=1200x' alt='Apple lanzará una App Store exclusiva para juegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ted-talks-lanzan-juego-diario-tipo-wordle-preparate-comerte-cabeza-1413530'>Netflix y TED Talks lanzan un juego diario tipo Wordle: prepárate para comerte la cabeza</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ted-talks-lanzan-juego-diario-tipo-wordle-preparate-comerte-cabeza-1413530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/preparate-reto-mental-netflix-ted-talks-lanzaran-juego-diario-llegara-movil-noviembre-4252605.jpg?tf=1200x' alt='Netflix y TED Talks lanzan un juego diario tipo Wordle: prepárate para comerte la cabeza' />
     </a>
 </div>
 
