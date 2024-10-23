@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-remakes-historia-cine-terror-punto-volver-cines-1413411'>Es uno de los mejores remakes en la historia del cine de terror, y está a punto de volver a los cines</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-remakes-historia-cine-terror-punto-volver-cines-1413411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/nosferatu-2176533.jpg?tf=1200x' alt='Es uno de los mejores remakes en la historia del cine de terror, y está a punto de volver a los cines' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alternativas-gratis-capcut-crear-videos-subtitulos-automaticos-1413069'>10 alternativas gratis a CapCut para crear vídeos con subtítulos automáticos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alternativas-gratis-capcut-crear-videos-subtitulos-automaticos-1413069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cupcut-4252678.jpg?tf=1200x' alt='10 alternativas gratis a CapCut para crear vídeos con subtítulos automáticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/ultimo-parche-windows-10-esconde-dos-funciones-ocultas-windows-11-activan-1413615'>El último parche de Windows 10 esconde dos funciones ocultas de Windows 11, así se activan</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/ultimo-parche-windows-10-esconde-dos-funciones-ocultas-windows-11-activan-1413615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ultimo-parche-windows-10-esconde-dos-funciones-ocultas-windows-11-activan-4252747.jpg?tf=1200x' alt='El último parche de Windows 10 esconde dos funciones ocultas de Windows 11, así se activan' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-apagar-wifi-ni-bluetooth-sencillo-habito-protege-movil-malware-nsa-1413587'>Ni apagar el WiFi ni el Bluetooth, este sencillo hábito es el que más protege tu móvil del malware, según la NSA</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-apagar-wifi-ni-bluetooth-sencillo-habito-protege-movil-malware-nsa-1413587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-apagar-wifi-ni-bluetooth-sencillo-habito-protege-movil-malware-nsa-4252701.jpg?tf=1200x' alt='Ni apagar el WiFi ni el Bluetooth, este sencillo hábito es el que más protege tu móvil del malware, según la NSA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/entendiendo-cada-cosa-linux-terminos-comunes-explicados-1413208'>Entendiendo qué es cada cosa en Linux: 7 términos comunes explicados</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/entendiendo-cada-cosa-linux-terminos-comunes-explicados-1413208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/codigos-linux-4252086.jpg?tf=1200x' alt='Entendiendo qué es cada cosa en Linux: 7 términos comunes explicados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/nuevas-funciones-llegaran-google-keep-revitalizaran-forma-tomas-notas-android-1413534'>Las nuevas funciones que llegarán a Google Keep revitalizarán la forma en la que tomas notas en tu Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/nuevas-funciones-llegaran-google-keep-revitalizaran-forma-tomas-notas-android-1413534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nuevas-funciones-llegaran-google-keep-revitalizaran-forma-tomas-notas-android-4252652.jpg?tf=1200x' alt='Las nuevas funciones que llegarán a Google Keep revitalizarán la forma en la que tomas notas en tu Android' />
     </a>
 </div>
 
