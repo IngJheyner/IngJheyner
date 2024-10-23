@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/ultimo-parche-windows-10-esconde-dos-funciones-ocultas-windows-11-activan-1413615'>El último parche de Windows 10 esconde dos funciones ocultas de Windows 11, así se activan</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/ultimo-parche-windows-10-esconde-dos-funciones-ocultas-windows-11-activan-1413615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ultimo-parche-windows-10-esconde-dos-funciones-ocultas-windows-11-activan-4252747.jpg?tf=1200x' alt='El último parche de Windows 10 esconde dos funciones ocultas de Windows 11, así se activan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/waze-consume-mucha-bateria-evitarlo-1412032'>¿Waze consume mucha batería? Haz esto para evitarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/waze-consume-mucha-bateria-evitarlo-1412032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ahorro-bateria-waze-4250067.jpg?tf=1200x' alt='¿Waze consume mucha batería? Haz esto para evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-apagar-wifi-ni-bluetooth-sencillo-habito-protege-movil-malware-nsa-1413587'>Ni apagar el WiFi ni el Bluetooth, este sencillo hábito es el que más protege tu móvil del malware, según la NSA</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-apagar-wifi-ni-bluetooth-sencillo-habito-protege-movil-malware-nsa-1413587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-apagar-wifi-ni-bluetooth-sencillo-habito-protege-movil-malware-nsa-4252701.jpg?tf=1200x' alt='Ni apagar el WiFi ni el Bluetooth, este sencillo hábito es el que más protege tu móvil del malware, según la NSA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/nuevas-funciones-llegaran-google-keep-revitalizaran-forma-tomas-notas-android-1413534'>Las nuevas funciones que llegarán a Google Keep revitalizarán la forma en la que tomas notas en tu Android</a></h4>
     <a href='https://computerhoy.20minutos.es/google/nuevas-funciones-llegaran-google-keep-revitalizaran-forma-tomas-notas-android-1413534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nuevas-funciones-llegaran-google-keep-revitalizaran-forma-tomas-notas-android-4252652.jpg?tf=1200x' alt='Las nuevas funciones que llegarán a Google Keep revitalizarán la forma en la que tomas notas en tu Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/jefe-ia-meta-no-teme-apocalipsis-inteligencia-artificial-completamente-absurdo-1413332'>El jefe de IA de Meta no teme un apocalipsis por la inteligencia artificial: “Es completamente absurdo”.</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/jefe-ia-meta-no-teme-apocalipsis-inteligencia-artificial-completamente-absurdo-1413332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/jefe-ia-meta-no-teme-apocalipsis-inteligencia-artificial-completamente-absurdo-4252270.jpg?tf=1200x' alt='El jefe de IA de Meta no teme un apocalipsis por la inteligencia artificial: “Es completamente absurdo”.' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/steam-deck-2-todo-sabemos-nueva-consola-portatil-valve-1413250'>Steam Deck 2: todo lo que sabemos de la nueva consola portátil de Valve</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/steam-deck-2-todo-sabemos-nueva-consola-portatil-valve-1413250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steam-deck-2-todo-sabemos-nueva-consola-portatil-valve-4252149.jpg?tf=1200x' alt='Steam Deck 2: todo lo que sabemos de la nueva consola portátil de Valve' />
     </a>
 </div>
 
