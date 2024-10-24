@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/bizum-ya-disponible-neobancos-ventajas-inconvenientes-como-te-afecta-1414128'>Bizum ya disponible en los neobancos: ventajas, inconvenientes y cómo te afecta</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/bizum-ya-disponible-neobancos-ventajas-inconvenientes-como-te-afecta-1414128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/revolut-bizum-4253651.jpg?tf=1200x' alt='Bizum ya disponible en los neobancos: ventajas, inconvenientes y cómo te afecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pacino-confiesa-no-quiso-papel-han-solo-star-wars-no-puedo-sacar-nada-1413633'>Al Pacino confiesa por qué no quiso el papel de Han Solo en Star Wars: “No puedo sacar nada de esto”</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/pacino-confiesa-no-quiso-papel-han-solo-star-wars-no-puedo-sacar-nada-1413633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pacino-2708835.jpg?tf=1200x' alt='Al Pacino confiesa por qué no quiso el papel de Han Solo en Star Wars: “No puedo sacar nada de esto”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-android-auto-pantallas-coches-accesorio-sustituira-2027-1413608'>Adiós a Android Auto en las pantallas de los coches: este es el accesorio que las sustituirá en 2027</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-android-auto-pantallas-coches-accesorio-sustituira-2027-1413608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/coche-futurista-4252752.jpg?tf=1200x' alt='Adiós a Android Auto en las pantallas de los coches: este es el accesorio que las sustituirá en 2027' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/tienes-estos-moviles-google-te-garantiza-7-anos-actualizaciones-android-1413995'>Si tienes uno de estos móviles, Google te garantiza hasta 7 años de actualizaciones de Android</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/tienes-estos-moviles-google-te-garantiza-7-anos-actualizaciones-android-1413995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tienes-estos-moviles-google-te-garantiza-7-anos-actualizaciones-android-4253446.jpg?tf=1200x' alt='Si tienes uno de estos móviles, Google te garantiza hasta 7 años de actualizaciones de Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/paso-a-paso/como-vincular-calendario-movil-waze-1411871'>Cómo vincular el calendario de tu móvil con Waze</a></h4>
-    <a href='https://computerhoy.20minutos.es/paso-a-paso/como-vincular-calendario-movil-waze-1411871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/calendario-waze-4249915.jpg?tf=1200x' alt='Cómo vincular el calendario de tu móvil con Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/noticias/policia-advierte-llegas-puerta-casa-encuentras-marca-deprisa-091-1413652'>La Policía advierte: “Si llegas a la puerta de casa y encuentras esto, marca deprisa el 091”</a></h4>
-    <a href='https://computerhoy.20minutos.es/noticias/policia-advierte-llegas-puerta-casa-encuentras-marca-deprisa-091-1413652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/policia-advierte-llegas-puerta-casa-encuentras-marca-deprisa-091-4252812.jpg?tf=1200x' alt='La Policía advierte: “Si llegas a la puerta de casa y encuentras esto, marca deprisa el 091”' />
     </a>
 </div>
 
