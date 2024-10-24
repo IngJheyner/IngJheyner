@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/criptos/quien-peter-todd-supuesto-creador-bitcoin-1413862'>Quién es Peter Todd, el supuesto creador del Bitcoin</a></h4>
+    <a href='https://computerhoy.20minutos.es/criptos/quien-peter-todd-supuesto-creador-bitcoin-1413862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/quien-peter-todd-supuesto-creador-bitcoin-4253172.jpg?tf=1200x' alt='Quién es Peter Todd, el supuesto creador del Bitcoin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-insiste-coches-electricos-baratos-tesla-llegaran-2025-1413838'>Elon Musk insiste y los coches eléctricos más baratos de Tesla llegarán en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-insiste-coches-electricos-baratos-tesla-llegaran-2025-1413838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/autoescuela-tiene-recurrir-cinta-doble-cara-solucionar-problemas-intermitentes-tesla-4100378.jpg?tf=1200x' alt='Elon Musk insiste y los coches eléctricos más baratos de Tesla llegarán en 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/casos-deberias-utilizar-maquina-virtual-1410417'>En qué casos deberías utilizar una máquina virtual</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/casos-deberias-utilizar-maquina-virtual-1410417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instalar-windows-10-maquina-virtual-4051763.jpg?tf=1200x' alt='En qué casos deberías utilizar una máquina virtual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/jbl-tour-pro-3-analisis-opinion-caracteristicas-1409992'>He analizado los JBL Tour Pro 3, unos auriculares con pantalla que tienen batería infinita, pero con cosas a mejorar</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/jbl-tour-pro-3-analisis-opinion-caracteristicas-1409992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/jbl-tour-pro-3-4247394.jpg?tf=1200x' alt='He analizado los JBL Tour Pro 3, unos auriculares con pantalla que tienen batería infinita, pero con cosas a mejorar' />
     </a>
 </div>
 
