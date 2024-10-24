@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/estos-son-auriculares-jbl-mejor-valorados-amazon-no-son-tan-caros-como-piensas-1413921'>Estos son los auriculares JBL mejor valorados de Amazon, y no son tan caros como piensas</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/estos-son-auriculares-jbl-mejor-valorados-amazon-no-son-tan-caros-como-piensas-1413921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/jbl-510bt-4253260.jpg?tf=1200x' alt='Estos son los auriculares JBL mejor valorados de Amazon, y no son tan caros como piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/tienes-estos-moviles-google-te-garantiza-7-anos-actualizaciones-android-1413995'>Si tienes uno de estos móviles, Google te garantiza hasta 7 años de actualizaciones de Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/tienes-estos-moviles-google-te-garantiza-7-anos-actualizaciones-android-1413995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tienes-estos-moviles-google-te-garantiza-7-anos-actualizaciones-android-4253446.jpg?tf=1200x' alt='Si tienes uno de estos móviles, Google te garantiza hasta 7 años de actualizaciones de Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/paso-a-paso/como-vincular-calendario-movil-waze-1411871'>Cómo vincular el calendario de tu móvil con Waze</a></h4>
+    <a href='https://computerhoy.20minutos.es/paso-a-paso/como-vincular-calendario-movil-waze-1411871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/calendario-waze-4249915.jpg?tf=1200x' alt='Cómo vincular el calendario de tu móvil con Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/noticias/policia-advierte-llegas-puerta-casa-encuentras-marca-deprisa-091-1413652'>La Policía advierte: “Si llegas a la puerta de casa y encuentras esto, marca deprisa el 091”</a></h4>
     <a href='https://computerhoy.20minutos.es/noticias/policia-advierte-llegas-puerta-casa-encuentras-marca-deprisa-091-1413652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/policia-advierte-llegas-puerta-casa-encuentras-marca-deprisa-091-4252812.jpg?tf=1200x' alt='La Policía advierte: “Si llegas a la puerta de casa y encuentras esto, marca deprisa el 091”' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/oneplus-oxigena-android-15-opcion-compartir-archivos-iphone-nuevas-funciones-easter-egg-app-muy-usada-1412665'>OnePlus oxigena Android 15 con una opción para compartir archivos con iPhone, nuevas funciones y hasta un 'easter egg' en una app muy usada</a></h4>
     <a href='https://computerhoy.20minutos.es/android/oneplus-oxigena-android-15-opcion-compartir-archivos-iphone-nuevas-funciones-easter-egg-app-muy-usada-1412665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oxygenos-15-oneplus-12-compartir-archivos-iphone-android-15-4253020.jpg?tf=1200x' alt='OnePlus oxigena Android 15 con una opción para compartir archivos con iPhone, nuevas funciones y hasta un 'easter egg' en una app muy usada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/alternativas-gratis-aplicaciones-favoritas-netflix-spotify-chatgpt-after-effects-1413184'>Alternativas gratis a tus aplicaciones favoritas (Netflix, Spotify, ChatGPT, After Effects…)</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/alternativas-gratis-aplicaciones-favoritas-netflix-spotify-chatgpt-after-effects-1413184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/alternativas-gratis-aplicaciones-favoritas-netflix-spotify-chatgpt-after-effects-4252105.jpg?tf=1200x' alt='Alternativas gratis a tus aplicaciones favoritas (Netflix, Spotify, ChatGPT, After Effects…)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adios-estafas-llamadas-spam-estas-son-nuevas-medidas-gobierno-espana-acabar-ellas-1413960'>Adiós a las estafas y llamadas spam, estas son las nuevas medidas del Gobierno de España para acabar con ellas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/adios-estafas-llamadas-spam-estas-son-nuevas-medidas-gobierno-espana-acabar-ellas-1413960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/adios-estafas-llamadas-spam-estas-son-nuevas-medidas-gobierno-espana-acabar-ellas-4253352.jpg?tf=1200x' alt='Adiós a las estafas y llamadas spam, estas son las nuevas medidas del Gobierno de España para acabar con ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-microondas-ni-horno-funcion-salvavidas-freidora-aire-casi-nadie-conoce-1413980'>Ni microondas ni horno, la función salvavidas de tu freidora de aire que casi nadie conoce</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/ni-microondas-ni-horno-funcion-salvavidas-freidora-aire-casi-nadie-conoce-1413980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-microondas-ni-horno-funcion-salvavidas-freidora-aire-casi-nadie-conoce-4253382.jpg?tf=1200x' alt='Ni microondas ni horno, la función salvavidas de tu freidora de aire que casi nadie conoce' />
     </a>
 </div>
 
