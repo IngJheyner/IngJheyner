@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/noticias/policia-advierte-llegas-puerta-casa-encuentras-marca-deprisa-091-1413652'>La Policía advierte: “Si llegas a la puerta de casa y encuentras esto, marca deprisa el 091”</a></h4>
+    <a href='https://computerhoy.20minutos.es/noticias/policia-advierte-llegas-puerta-casa-encuentras-marca-deprisa-091-1413652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/policia-advierte-llegas-puerta-casa-encuentras-marca-deprisa-091-4252812.jpg?tf=1200x' alt='La Policía advierte: “Si llegas a la puerta de casa y encuentras esto, marca deprisa el 091”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/oneplus-oxigena-android-15-opcion-compartir-archivos-iphone-nuevas-funciones-easter-egg-app-muy-usada-1412665'>OnePlus oxigena Android 15 con una opción para compartir archivos con iPhone, nuevas funciones y hasta un 'easter egg' en una app muy usada</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/oneplus-oxigena-android-15-opcion-compartir-archivos-iphone-nuevas-funciones-easter-egg-app-muy-usada-1412665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oxygenos-15-oneplus-12-compartir-archivos-iphone-android-15-4253020.jpg?tf=1200x' alt='OnePlus oxigena Android 15 con una opción para compartir archivos con iPhone, nuevas funciones y hasta un 'easter egg' en una app muy usada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/alternativas-gratis-aplicaciones-favoritas-netflix-spotify-chatgpt-after-effects-1413184'>Alternativas gratis a tus aplicaciones favoritas (Netflix, Spotify, ChatGPT, After Effects…)</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/alternativas-gratis-aplicaciones-favoritas-netflix-spotify-chatgpt-after-effects-1413184' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/alternativas-gratis-aplicaciones-favoritas-netflix-spotify-chatgpt-after-effects-4252105.jpg?tf=1200x' alt='Alternativas gratis a tus aplicaciones favoritas (Netflix, Spotify, ChatGPT, After Effects…)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/ni-microondas-ni-horno-funcion-salvavidas-freidora-aire-casi-nadie-conoce-1413980'>Ni microondas ni horno, la función salvavidas de tu freidora de aire que casi nadie conoce</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/ni-microondas-ni-horno-funcion-salvavidas-freidora-aire-casi-nadie-conoce-1413980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-microondas-ni-horno-funcion-salvavidas-freidora-aire-casi-nadie-conoce-4253382.jpg?tf=1200x' alt='Ni microondas ni horno, la función salvavidas de tu freidora de aire que casi nadie conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hacienda-no-te-cobra-superar-limite-gasto-bizum-estafa-1413922'>Hacienda no te cobra por superar el límite de gasto en Bizum, es una estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/hacienda-no-te-cobra-superar-limite-gasto-bizum-estafa-1413922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hacienda-no-te-cobra-superar-limite-gasto-bizum-estafa-4253322.jpg?tf=1200x' alt='Hacienda no te cobra por superar el límite de gasto en Bizum, es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-ya-vende-propias-tarjetas-ssd-adios-problemas-elegir-mejor-almacenamiento-1413857'>Raspberry Pi ya vende sus propias tarjetas SSD: adiós a los problemas para elegir el mejor almacenamiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-ya-vende-propias-tarjetas-ssd-adios-problemas-elegir-mejor-almacenamiento-1413857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/raspberry-pi-ya-vende-propias-ssd-adios-problemas-elegir-mejor-memoria-4253236.jpg?tf=1200x' alt='Raspberry Pi ya vende sus propias tarjetas SSD: adiós a los problemas para elegir el mejor almacenamiento' />
     </a>
 </div>
 
