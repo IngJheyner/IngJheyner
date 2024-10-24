@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-acusa-intel-pedirle-cambie-linux-tapar-fallos-procesadores-1414139'>Linus Torvalds acusa a Intel de pedirle que cambie Linux para tapar los fallos de sus procesadores</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-acusa-intel-pedirle-cambie-linux-tapar-fallos-procesadores-1414139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/creador-linux-acusa-intel-pedirle-cambie-linux-tapar-fallos-procesadores-4253648.jpg?tf=1200x' alt='Linus Torvalds acusa a Intel de pedirle que cambie Linux para tapar los fallos de sus procesadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ya-puedes-ver-liga-formula-1-motogp-directamente-max-1414135'>Ya puedes ver Liga, Formula 1 y MotoGP directamente en MAX</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ya-puedes-ver-liga-formula-1-motogp-directamente-max-1414135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/max-dazn-4253663.jpg?tf=1200x' alt='Ya puedes ver Liga, Formula 1 y MotoGP directamente en MAX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/astronomos-alerta-maxima-elon-musk-quiere-enviar-30000-satelites-starlink-espacio-1414129'>Astrónomos en alerta máxima: Elon Musk quiere enviar 30.000 satélites Starlink más al espacio</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/astronomos-alerta-maxima-elon-musk-quiere-enviar-30000-satelites-starlink-espacio-1414129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/starlink-moviles-3194838.jpg?tf=1200x' alt='Astrónomos en alerta máxima: Elon Musk quiere enviar 30.000 satélites Starlink más al espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/gran-clasico-stephen-king-volvera-forma-serie-despues-ultimo-remake-1413619'>El gran clásico de Stephen King volverá en forma de serie, después de su último remake</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/gran-clasico-stephen-king-volvera-forma-serie-despues-ultimo-remake-1413619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gran-clasico-stephen-king-volvera-forma-serie-despues-ultimo-remake-4252754.jpg?tf=1200x' alt='El gran clásico de Stephen King volverá en forma de serie, después de su último remake' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/bizum-ya-disponible-neobancos-ventajas-inconvenientes-como-te-afecta-1414128'>Bizum ya disponible en los neobancos: ventajas, inconvenientes y cómo te afecta</a></h4>
     <a href='https://computerhoy.20minutos.es/life/bizum-ya-disponible-neobancos-ventajas-inconvenientes-como-te-afecta-1414128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/revolut-bizum-4253651.jpg?tf=1200x' alt='Bizum ya disponible en los neobancos: ventajas, inconvenientes y cómo te afecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pacino-confiesa-no-quiso-papel-han-solo-star-wars-no-puedo-sacar-nada-1413633'>Al Pacino confiesa por qué no quiso el papel de Han Solo en Star Wars: “No puedo sacar nada de esto”</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/pacino-confiesa-no-quiso-papel-han-solo-star-wars-no-puedo-sacar-nada-1413633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/pacino-2708835.jpg?tf=1200x' alt='Al Pacino confiesa por qué no quiso el papel de Han Solo en Star Wars: “No puedo sacar nada de esto”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-android-auto-pantallas-coches-accesorio-sustituira-2027-1413608'>Adiós a Android Auto en las pantallas de los coches: este es el accesorio que las sustituirá en 2027</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-android-auto-pantallas-coches-accesorio-sustituira-2027-1413608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/coche-futurista-4252752.jpg?tf=1200x' alt='Adiós a Android Auto en las pantallas de los coches: este es el accesorio que las sustituirá en 2027' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/estos-son-auriculares-jbl-mejor-valorados-amazon-no-son-tan-caros-como-piensas-1413921'>Estos son los auriculares JBL mejor valorados de Amazon, y no son tan caros como piensas</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/estos-son-auriculares-jbl-mejor-valorados-amazon-no-son-tan-caros-como-piensas-1413921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/jbl-510bt-4253260.jpg?tf=1200x' alt='Estos son los auriculares JBL mejor valorados de Amazon, y no son tan caros como piensas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/tienes-estos-moviles-google-te-garantiza-7-anos-actualizaciones-android-1413995'>Si tienes uno de estos móviles, Google te garantiza hasta 7 años de actualizaciones de Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/tienes-estos-moviles-google-te-garantiza-7-anos-actualizaciones-android-1413995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tienes-estos-moviles-google-te-garantiza-7-anos-actualizaciones-android-4253446.jpg?tf=1200x' alt='Si tienes uno de estos móviles, Google te garantiza hasta 7 años de actualizaciones de Android' />
     </a>
 </div>
 
