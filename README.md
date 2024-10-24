@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-ya-vende-propias-tarjetas-ssd-adios-problemas-elegir-mejor-almacenamiento-1413857'>Raspberry Pi ya vende sus propias tarjetas SSD: adiós a los problemas para elegir el mejor almacenamiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-ya-vende-propias-tarjetas-ssd-adios-problemas-elegir-mejor-almacenamiento-1413857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/raspberry-pi-ya-vende-propias-ssd-adios-problemas-elegir-mejor-memoria-4253236.jpg?tf=1200x' alt='Raspberry Pi ya vende sus propias tarjetas SSD: adiós a los problemas para elegir el mejor almacenamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/criptos/experto-bitcoin-criptomonedas-pierde-400000-euros-conectarse-red-wifi-amigo-1413986'>Experto en Bitcoin y criptomonedas pierde más de 400.000 euros por conectarse a la red WiFi de un amigo</a></h4>
+    <a href='https://computerhoy.20minutos.es/criptos/experto-bitcoin-criptomonedas-pierde-400000-euros-conectarse-red-wifi-amigo-1413986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-criptomonedas-4253235.jpg?tf=1200x' alt='Experto en Bitcoin y criptomonedas pierde más de 400.000 euros por conectarse a la red WiFi de un amigo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/adios-nomofobia-google-lanzara-nuevos-modos-no-molestar-desconexion-digital-1413841'>Adiós a la nomofobia: Google lanzará nuevos modos ‘No molestar’ para la desconexión digital</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/adios-nomofobia-google-lanzara-nuevos-modos-no-molestar-desconexion-digital-1413841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/adios-nomofobia-google-lanzara-nuevos-modos-no-molestar-desconexion-digital-4253200.jpg?tf=1200x' alt='Adiós a la nomofobia: Google lanzará nuevos modos ‘No molestar’ para la desconexión digital' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-programa-gratis-te-permite-actualizar-windows-11-24h2-aunque-pc-no-sea-compatible-1413952'>Windows 11: este programa gratis te permite actualizar a Windows 11 24H2 aunque tu PC no sea compatible</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-programa-gratis-te-permite-actualizar-windows-11-24h2-aunque-pc-no-sea-compatible-1413952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-actualizacion-4253223.jpg?tf=1200x' alt='Windows 11: este programa gratis te permite actualizar a Windows 11 24H2 aunque tu PC no sea compatible' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/geolocalizacion-movil-fuera-control-puedes-luchar-ello-1413940'>La geolocalización de tu móvil está fuera de control: así puedes luchar contra ello</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/geolocalizacion-movil-fuera-control-puedes-luchar-ello-1413940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/inteligencia-artificial-uso-vigilancia-policial-amenaza-privacidad-3091254.jpg?tf=1200x' alt='La geolocalización de tu móvil está fuera de control: así puedes luchar contra ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949'>Estos son los mejores robots aspiradores que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dreame-l20-ultra-3217986.jpg?tf=1200x' alt='Estos son los mejores robots aspiradores que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ios-182-podras-borrar-app-store-safari-apps-nativas-apple-1413863'>Con iOS 18.2 podrás borrar la App Store, Safari y más apps nativas de Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ios-182-podras-borrar-app-store-safari-apps-nativas-apple-1413863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nueva-ley-europea-forzaria-apple-cambiar-ios-iphone-siempre-2860291.jpg?tf=1200x' alt='Con iOS 18.2 podrás borrar la App Store, Safari y más apps nativas de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/criptos/quien-peter-todd-supuesto-creador-bitcoin-1413862'>Quién es Peter Todd, el supuesto creador del Bitcoin</a></h4>
-    <a href='https://computerhoy.20minutos.es/criptos/quien-peter-todd-supuesto-creador-bitcoin-1413862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/quien-peter-todd-supuesto-creador-bitcoin-4253172.jpg?tf=1200x' alt='Quién es Peter Todd, el supuesto creador del Bitcoin' />
     </a>
 </div>
 
