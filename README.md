@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/geolocalizacion-movil-fuera-control-puedes-luchar-ello-1413940'>La geolocalización de tu móvil está fuera de control: así puedes luchar contra ello</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/geolocalizacion-movil-fuera-control-puedes-luchar-ello-1413940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/inteligencia-artificial-uso-vigilancia-policial-amenaza-privacidad-3091254.jpg?tf=1200x' alt='La geolocalización de tu móvil está fuera de control: así puedes luchar contra ello' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949'>Estos son los mejores robots aspiradores que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/reportajes/life/mejores-robots-aspiradores-hemos-probado-1097949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dreame-l20-ultra-3217986.jpg?tf=1200x' alt='Estos son los mejores robots aspiradores que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ios-182-podras-borrar-app-store-safari-apps-nativas-apple-1413863'>Con iOS 18.2 podrás borrar la App Store, Safari y más apps nativas de Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ios-182-podras-borrar-app-store-safari-apps-nativas-apple-1413863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/nueva-ley-europea-forzaria-apple-cambiar-ios-iphone-siempre-2860291.jpg?tf=1200x' alt='Con iOS 18.2 podrás borrar la App Store, Safari y más apps nativas de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/criptos/quien-peter-todd-supuesto-creador-bitcoin-1413862'>Quién es Peter Todd, el supuesto creador del Bitcoin</a></h4>
     <a href='https://computerhoy.20minutos.es/criptos/quien-peter-todd-supuesto-creador-bitcoin-1413862' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/quien-peter-todd-supuesto-creador-bitcoin-4253172.jpg?tf=1200x' alt='Quién es Peter Todd, el supuesto creador del Bitcoin' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-insiste-coches-electricos-baratos-tesla-llegaran-2025-1413838'>Elon Musk insiste y los coches eléctricos más baratos de Tesla llegarán en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-insiste-coches-electricos-baratos-tesla-llegaran-2025-1413838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/autoescuela-tiene-recurrir-cinta-doble-cara-solucionar-problemas-intermitentes-tesla-4100378.jpg?tf=1200x' alt='Elon Musk insiste y los coches eléctricos más baratos de Tesla llegarán en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-reduciendo-produccion-vision-pro-falta-demanda-1413831'>Apple está reduciendo la producción de Vision Pro por falta de demanda</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-reduciendo-produccion-vision-pro-falta-demanda-1413831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3276005.jpg?tf=1200x' alt='Apple está reduciendo la producción de Vision Pro por falta de demanda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-dice-voz-alta-todo-mundo-piensa-ia-aplicada-fotos-1413804'>Apple dice en voz alta lo que todo el mundo piensa sobre la IA aplicada a las fotos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-dice-voz-alta-todo-mundo-piensa-ia-aplicada-fotos-1413804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-dice-voz-alta-todo-mundo-piensa-ia-aplicada-fotos-4253167.jpg?tf=1200x' alt='Apple dice en voz alta lo que todo el mundo piensa sobre la IA aplicada a las fotos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/casos-deberias-utilizar-maquina-virtual-1410417'>En qué casos deberías utilizar una máquina virtual</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/casos-deberias-utilizar-maquina-virtual-1410417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instalar-windows-10-maquina-virtual-4051763.jpg?tf=1200x' alt='En qué casos deberías utilizar una máquina virtual' />
     </a>
 </div>
 
