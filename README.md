@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-programa-gratis-te-permite-actualizar-windows-11-24h2-aunque-pc-no-sea-compatible-1413952'>Windows 11: este programa gratis te permite actualizar a Windows 11 24H2 aunque tu PC no sea compatible</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-programa-gratis-te-permite-actualizar-windows-11-24h2-aunque-pc-no-sea-compatible-1413952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-actualizacion-4253223.jpg?tf=1200x' alt='Windows 11: este programa gratis te permite actualizar a Windows 11 24H2 aunque tu PC no sea compatible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/geolocalizacion-movil-fuera-control-puedes-luchar-ello-1413940'>La geolocalización de tu móvil está fuera de control: así puedes luchar contra ello</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/geolocalizacion-movil-fuera-control-puedes-luchar-ello-1413940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/inteligencia-artificial-uso-vigilancia-policial-amenaza-privacidad-3091254.jpg?tf=1200x' alt='La geolocalización de tu móvil está fuera de control: así puedes luchar contra ello' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/criptos/quien-peter-todd-supuesto-creador-bitcoin-1413862'>Quién es Peter Todd, el supuesto creador del Bitcoin</a></h4>
     <a href='https://computerhoy.20minutos.es/criptos/quien-peter-todd-supuesto-creador-bitcoin-1413862' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/quien-peter-todd-supuesto-creador-bitcoin-4253172.jpg?tf=1200x' alt='Quién es Peter Todd, el supuesto creador del Bitcoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-insiste-coches-electricos-baratos-tesla-llegaran-2025-1413838'>Elon Musk insiste y los coches eléctricos más baratos de Tesla llegarán en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-insiste-coches-electricos-baratos-tesla-llegaran-2025-1413838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/autoescuela-tiene-recurrir-cinta-doble-cara-solucionar-problemas-intermitentes-tesla-4100378.jpg?tf=1200x' alt='Elon Musk insiste y los coches eléctricos más baratos de Tesla llegarán en 2025' />
     </a>
 </div>
 
