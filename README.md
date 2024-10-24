@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-android-auto-pantallas-coches-accesorio-sustituira-2027-1413608'>Adiós a Android Auto en las pantallas de los coches: este es el accesorio que las sustituirá en 2027</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-android-auto-pantallas-coches-accesorio-sustituira-2027-1413608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/coche-futurista-4252752.jpg?tf=1200x' alt='Adiós a Android Auto en las pantallas de los coches: este es el accesorio que las sustituirá en 2027' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/audio/estos-son-auriculares-jbl-mejor-valorados-amazon-no-son-tan-caros-como-piensas-1413921'>Estos son los auriculares JBL mejor valorados de Amazon, y no son tan caros como piensas</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/estos-son-auriculares-jbl-mejor-valorados-amazon-no-son-tan-caros-como-piensas-1413921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/jbl-510bt-4253260.jpg?tf=1200x' alt='Estos son los auriculares JBL mejor valorados de Amazon, y no son tan caros como piensas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/noticias/policia-advierte-llegas-puerta-casa-encuentras-marca-deprisa-091-1413652'>La Policía advierte: “Si llegas a la puerta de casa y encuentras esto, marca deprisa el 091”</a></h4>
     <a href='https://computerhoy.20minutos.es/noticias/policia-advierte-llegas-puerta-casa-encuentras-marca-deprisa-091-1413652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/policia-advierte-llegas-puerta-casa-encuentras-marca-deprisa-091-4252812.jpg?tf=1200x' alt='La Policía advierte: “Si llegas a la puerta de casa y encuentras esto, marca deprisa el 091”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/oneplus-oxigena-android-15-opcion-compartir-archivos-iphone-nuevas-funciones-easter-egg-app-muy-usada-1412665'>OnePlus oxigena Android 15 con una opción para compartir archivos con iPhone, nuevas funciones y hasta un 'easter egg' en una app muy usada</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/oneplus-oxigena-android-15-opcion-compartir-archivos-iphone-nuevas-funciones-easter-egg-app-muy-usada-1412665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oxygenos-15-oneplus-12-compartir-archivos-iphone-android-15-4253020.jpg?tf=1200x' alt='OnePlus oxigena Android 15 con una opción para compartir archivos con iPhone, nuevas funciones y hasta un 'easter egg' en una app muy usada' />
     </a>
 </div>
 
