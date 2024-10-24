@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/secreto-iphone-vuele-limpiar-memoria-ram-1413391'>El secreto para que tu iPhone vuele: limpiar la memoria RAM</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/secreto-iphone-vuele-limpiar-memoria-ram-1413391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/secreto-iphone-vuele-limpiar-memoria-ram-4252439.jpg?tf=1200x' alt='El secreto para que tu iPhone vuele: limpiar la memoria RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/noticias/eliminar-mensajes-whatsapp-proteger-privacidad-1413511'>Eliminar mensajes de WhatsApp: todo lo que debes saber para proteger tu privacidad y evitar meter la pata</a></h4>
+    <a href='https://computerhoy.20minutos.es/noticias/eliminar-mensajes-whatsapp-proteger-privacidad-1413511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/eliminar-mensaje-whatsapp-todo-debes-saber-proteger-privacidad-evitar-meter-pata-4252583.jpg?tf=1200x' alt='Eliminar mensajes de WhatsApp: todo lo que debes saber para proteger tu privacidad y evitar meter la pata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ajuste-te-lleva-solo-10-segundos-capaz-revivir-cualquier-navegador-1413508'>Este ajuste te lleva solo 10 segundos y es capaz de revivir cualquier navegador</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ajuste-te-lleva-solo-10-segundos-capaz-revivir-cualquier-navegador-1413508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ajuste-te-lleva-solo-10-segundos-capaz-revivir-cualquier-navegador-4252572.jpg?tf=1200x' alt='Este ajuste te lleva solo 10 segundos y es capaz de revivir cualquier navegador' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/experto-electricista-alerta-debes-pulsar-boton-cuadro-electrico-menos-vez-mes-1413638'>Un experto electricista alerta: “Debes pulsar este botón de tu cuadro eléctrico al menos una vez al mes”</a></h4>
     <a href='https://computerhoy.20minutos.es/life/experto-electricista-alerta-debes-pulsar-boton-cuadro-electrico-menos-vez-mes-1413638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/experto-electricista-alerta-debes-pulsar-boton-cuadro-electrico-menos-vez-mes-4252784.jpg?tf=1200x' alt='Un experto electricista alerta: “Debes pulsar este botón de tu cuadro eléctrico al menos una vez al mes”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/mi-truco-no-me-timen-bateria-comprar-movil-segunda-mano-1413502'>Este es mi truco para que no me timen con la batería al comprar un móvil de segunda mano</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/mi-truco-no-me-timen-bateria-comprar-movil-segunda-mano-1413502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mi-truco-no-me-timen-bateria-comprar-movil-segunda-mano-4252569.jpg?tf=1200x' alt='Este es mi truco para que no me timen con la batería al comprar un móvil de segunda mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/boeing-espacio-satelites-explora-plena-orbita-1413783'>Sigue la maldición de Boeing en el espacio: uno de sus satélites explota en plena órbita</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/boeing-espacio-satelites-explora-plena-orbita-1413783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sigue-maldicion-boeing-espacio-satelites-explora-plena-orbita-4253133.jpg?tf=1200x' alt='Sigue la maldición de Boeing en el espacio: uno de sus satélites explota en plena órbita' />
     </a>
 </div>
 
