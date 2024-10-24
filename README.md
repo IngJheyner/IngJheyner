@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-microondas-ni-horno-funcion-salvavidas-freidora-aire-casi-nadie-conoce-1413980'>Ni microondas ni horno, la función salvavidas de tu freidora de aire que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/ni-microondas-ni-horno-funcion-salvavidas-freidora-aire-casi-nadie-conoce-1413980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-microondas-ni-horno-funcion-salvavidas-freidora-aire-casi-nadie-conoce-4253382.jpg?tf=1200x' alt='Ni microondas ni horno, la función salvavidas de tu freidora de aire que casi nadie conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hacienda-no-te-cobra-superar-limite-gasto-bizum-estafa-1413922'>Hacienda no te cobra por superar el límite de gasto en Bizum, es una estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/hacienda-no-te-cobra-superar-limite-gasto-bizum-estafa-1413922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hacienda-no-te-cobra-superar-limite-gasto-bizum-estafa-4253322.jpg?tf=1200x' alt='Hacienda no te cobra por superar el límite de gasto en Bizum, es una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-ya-vende-propias-tarjetas-ssd-adios-problemas-elegir-mejor-almacenamiento-1413857'>Raspberry Pi ya vende sus propias tarjetas SSD: adiós a los problemas para elegir el mejor almacenamiento</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-ya-vende-propias-tarjetas-ssd-adios-problemas-elegir-mejor-almacenamiento-1413857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/raspberry-pi-ya-vende-propias-ssd-adios-problemas-elegir-mejor-memoria-4253236.jpg?tf=1200x' alt='Raspberry Pi ya vende sus propias tarjetas SSD: adiós a los problemas para elegir el mejor almacenamiento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/adios-nomofobia-google-lanzara-nuevos-modos-no-molestar-desconexion-digital-1413841'>Adiós a la nomofobia: Google lanzará nuevos modos ‘No molestar’ para la desconexión digital</a></h4>
     <a href='https://computerhoy.20minutos.es/android/adios-nomofobia-google-lanzara-nuevos-modos-no-molestar-desconexion-digital-1413841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/adios-nomofobia-google-lanzara-nuevos-modos-no-molestar-desconexion-digital-4253200.jpg?tf=1200x' alt='Adiós a la nomofobia: Google lanzará nuevos modos ‘No molestar’ para la desconexión digital' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-programa-gratis-te-permite-actualizar-windows-11-24h2-aunque-pc-no-sea-compatible-1413952'>Windows 11: este programa gratis te permite actualizar a Windows 11 24H2 aunque tu PC no sea compatible</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-programa-gratis-te-permite-actualizar-windows-11-24h2-aunque-pc-no-sea-compatible-1413952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-actualizacion-4253223.jpg?tf=1200x' alt='Windows 11: este programa gratis te permite actualizar a Windows 11 24H2 aunque tu PC no sea compatible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/geolocalizacion-movil-fuera-control-puedes-luchar-ello-1413940'>La geolocalización de tu móvil está fuera de control: así puedes luchar contra ello</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/geolocalizacion-movil-fuera-control-puedes-luchar-ello-1413940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/inteligencia-artificial-uso-vigilancia-policial-amenaza-privacidad-3091254.jpg?tf=1200x' alt='La geolocalización de tu móvil está fuera de control: así puedes luchar contra ello' />
     </a>
 </div>
 
