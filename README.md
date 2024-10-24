@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/madre-denuncia-google-porque-chatbot-ia-supuestamente-llevo-hijo-suicidio-1414152'>Una madre denuncia a Google porque un chatbot con IA supuestamente llevó a su hijo al suicidio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/madre-denuncia-google-porque-chatbot-ia-supuestamente-llevo-hijo-suicidio-1414152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/madre-denuncia-google-porque-ia-supuestamente-llevo-hijo-suicidio-4253675.jpg?tf=1200x' alt='Una madre denuncia a Google porque un chatbot con IA supuestamente llevó a su hijo al suicidio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-acusa-intel-pedirle-cambie-linux-tapar-fallos-procesadores-1414139'>Linus Torvalds acusa a Intel de pedirle que cambie Linux para tapar los fallos de sus procesadores</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-acusa-intel-pedirle-cambie-linux-tapar-fallos-procesadores-1414139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/creador-linux-acusa-intel-pedirle-cambie-linux-tapar-fallos-procesadores-4253648.jpg?tf=1200x' alt='Linus Torvalds acusa a Intel de pedirle que cambie Linux para tapar los fallos de sus procesadores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/gran-clasico-stephen-king-volvera-forma-serie-despues-ultimo-remake-1413619'>El gran clásico de Stephen King volverá en forma de serie, después de su último remake</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/gran-clasico-stephen-king-volvera-forma-serie-despues-ultimo-remake-1413619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gran-clasico-stephen-king-volvera-forma-serie-despues-ultimo-remake-4252754.jpg?tf=1200x' alt='El gran clásico de Stephen King volverá en forma de serie, después de su último remake' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/bizum-ya-disponible-neobancos-ventajas-inconvenientes-como-te-afecta-1414128'>Bizum ya disponible en los neobancos: ventajas, inconvenientes y cómo te afecta</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/bizum-ya-disponible-neobancos-ventajas-inconvenientes-como-te-afecta-1414128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/revolut-bizum-4253651.jpg?tf=1200x' alt='Bizum ya disponible en los neobancos: ventajas, inconvenientes y cómo te afecta' />
     </a>
 </div>
 
