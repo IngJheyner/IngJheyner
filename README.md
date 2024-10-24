@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sanciones-rusia-corea-fracaso-misiles-chips-companias-occidentales-1413794'>Las sanciones a Rusia y Corea son un fracaso: sus misiles tienen chips de nueve compañías occidentales</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sanciones-rusia-corea-fracaso-misiles-chips-companias-occidentales-1413794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sanciones-rusia-corea-son-fracaso-misiles-tiene-componentes-nueve-companias-occidentales-4253154.jpg?tf=1200x' alt='Las sanciones a Rusia y Corea son un fracaso: sus misiles tienen chips de nueve compañías occidentales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/boeing-espacio-satelites-explora-plena-orbita-1413783'>Sigue la maldición de Boeing en el espacio: uno de sus satélites explota en plena órbita</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/boeing-espacio-satelites-explora-plena-orbita-1413783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sigue-maldicion-boeing-espacio-satelites-explora-plena-orbita-4253133.jpg?tf=1200x' alt='Sigue la maldición de Boeing en el espacio: uno de sus satélites explota en plena órbita' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/subasta-viviendas-embargadas-hacienda-casas-chalets-pisos-toda-espana-menos-12000-euros-1413746'>Subasta de viviendas embargadas de Hacienda: casas, chalets y pisos en toda España por menos de 12.000 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/life/subasta-viviendas-embargadas-hacienda-casas-chalets-pisos-toda-espana-menos-12000-euros-1413746' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/entrega-llaves-4253037.jpg?tf=1200x' alt='Subasta de viviendas embargadas de Hacienda: casas, chalets y pisos en toda España por menos de 12.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-hace-pc-limitados-funcionen-rapido-eliminando-cuellos-botella-windows-update-1413745'>Windows 11 24H2 hace que los PC más limitados funcionen más rápido eliminando los cuellos de botella de Windows Update</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-hace-pc-limitados-funcionen-rapido-eliminando-cuellos-botella-windows-update-1413745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-4253036.jpg?tf=1200x' alt='Windows 11 24H2 hace que los PC más limitados funcionen más rápido eliminando los cuellos de botella de Windows Update' />
     </a>
 </div>
 
