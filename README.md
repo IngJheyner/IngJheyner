@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/alternativas-gratis-aplicaciones-favoritas-netflix-spotify-chatgpt-after-effects-1413184'>Alternativas gratis a tus aplicaciones favoritas (Netflix, Spotify, ChatGPT, After Effects…)</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/alternativas-gratis-aplicaciones-favoritas-netflix-spotify-chatgpt-after-effects-1413184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/alternativas-gratis-aplicaciones-favoritas-netflix-spotify-chatgpt-after-effects-4252105.jpg?tf=1200x' alt='Alternativas gratis a tus aplicaciones favoritas (Netflix, Spotify, ChatGPT, After Effects…)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adios-estafas-llamadas-spam-estas-son-nuevas-medidas-gobierno-espana-acabar-ellas-1413960'>Adiós a las estafas y llamadas spam, estas son las nuevas medidas del Gobierno de España para acabar con ellas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/adios-estafas-llamadas-spam-estas-son-nuevas-medidas-gobierno-espana-acabar-ellas-1413960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/adios-estafas-llamadas-spam-estas-son-nuevas-medidas-gobierno-espana-acabar-ellas-4253352.jpg?tf=1200x' alt='Adiós a las estafas y llamadas spam, estas son las nuevas medidas del Gobierno de España para acabar con ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/ni-microondas-ni-horno-funcion-salvavidas-freidora-aire-casi-nadie-conoce-1413980'>Ni microondas ni horno, la función salvavidas de tu freidora de aire que casi nadie conoce</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/ni-microondas-ni-horno-funcion-salvavidas-freidora-aire-casi-nadie-conoce-1413980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-microondas-ni-horno-funcion-salvavidas-freidora-aire-casi-nadie-conoce-4253382.jpg?tf=1200x' alt='Ni microondas ni horno, la función salvavidas de tu freidora de aire que casi nadie conoce' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-ya-vende-propias-tarjetas-ssd-adios-problemas-elegir-mejor-almacenamiento-1413857'>Raspberry Pi ya vende sus propias tarjetas SSD: adiós a los problemas para elegir el mejor almacenamiento</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-ya-vende-propias-tarjetas-ssd-adios-problemas-elegir-mejor-almacenamiento-1413857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/raspberry-pi-ya-vende-propias-ssd-adios-problemas-elegir-mejor-memoria-4253236.jpg?tf=1200x' alt='Raspberry Pi ya vende sus propias tarjetas SSD: adiós a los problemas para elegir el mejor almacenamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/criptos/experto-bitcoin-criptomonedas-pierde-400000-euros-conectarse-red-wifi-amigo-1413986'>Experto en Bitcoin y criptomonedas pierde más de 400.000 euros por conectarse a la red WiFi de un amigo</a></h4>
-    <a href='https://computerhoy.20minutos.es/criptos/experto-bitcoin-criptomonedas-pierde-400000-euros-conectarse-red-wifi-amigo-1413986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-criptomonedas-4253235.jpg?tf=1200x' alt='Experto en Bitcoin y criptomonedas pierde más de 400.000 euros por conectarse a la red WiFi de un amigo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/adios-nomofobia-google-lanzara-nuevos-modos-no-molestar-desconexion-digital-1413841'>Adiós a la nomofobia: Google lanzará nuevos modos ‘No molestar’ para la desconexión digital</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/adios-nomofobia-google-lanzara-nuevos-modos-no-molestar-desconexion-digital-1413841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/adios-nomofobia-google-lanzara-nuevos-modos-no-molestar-desconexion-digital-4253200.jpg?tf=1200x' alt='Adiós a la nomofobia: Google lanzará nuevos modos ‘No molestar’ para la desconexión digital' />
     </a>
 </div>
 
