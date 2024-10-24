@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-dice-voz-alta-todo-mundo-piensa-ia-aplicada-fotos-1413804'>Apple dice en voz alta lo que todo el mundo piensa sobre la IA aplicada a las fotos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-dice-voz-alta-todo-mundo-piensa-ia-aplicada-fotos-1413804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-dice-voz-alta-todo-mundo-piensa-ia-aplicada-fotos-4253167.jpg?tf=1200x' alt='Apple dice en voz alta lo que todo el mundo piensa sobre la IA aplicada a las fotos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/casos-deberias-utilizar-maquina-virtual-1410417'>En qué casos deberías utilizar una máquina virtual</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/casos-deberias-utilizar-maquina-virtual-1410417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instalar-windows-10-maquina-virtual-4051763.jpg?tf=1200x' alt='En qué casos deberías utilizar una máquina virtual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/jbl-tour-pro-3-analisis-opinion-caracteristicas-1409992'>He analizado los JBL Tour Pro 3, unos auriculares con pantalla que tienen batería infinita, pero con cosas a mejorar</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/jbl-tour-pro-3-analisis-opinion-caracteristicas-1409992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/jbl-tour-pro-3-4247394.jpg?tf=1200x' alt='He analizado los JBL Tour Pro 3, unos auriculares con pantalla que tienen batería infinita, pero con cosas a mejorar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/secreto-iphone-vuele-limpiar-memoria-ram-1413391'>El secreto para que tu iPhone vuele: limpiar la memoria RAM</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/secreto-iphone-vuele-limpiar-memoria-ram-1413391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/secreto-iphone-vuele-limpiar-memoria-ram-4252439.jpg?tf=1200x' alt='El secreto para que tu iPhone vuele: limpiar la memoria RAM' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/noticias/eliminar-mensajes-whatsapp-proteger-privacidad-1413511'>Eliminar mensajes de WhatsApp: todo lo que debes saber para proteger tu privacidad y evitar meter la pata</a></h4>
     <a href='https://computerhoy.20minutos.es/noticias/eliminar-mensajes-whatsapp-proteger-privacidad-1413511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/eliminar-mensaje-whatsapp-todo-debes-saber-proteger-privacidad-evitar-meter-pata-4252583.jpg?tf=1200x' alt='Eliminar mensajes de WhatsApp: todo lo que debes saber para proteger tu privacidad y evitar meter la pata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ajuste-te-lleva-solo-10-segundos-capaz-revivir-cualquier-navegador-1413508'>Este ajuste te lleva solo 10 segundos y es capaz de revivir cualquier navegador</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ajuste-te-lleva-solo-10-segundos-capaz-revivir-cualquier-navegador-1413508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ajuste-te-lleva-solo-10-segundos-capaz-revivir-cualquier-navegador-4252572.jpg?tf=1200x' alt='Este ajuste te lleva solo 10 segundos y es capaz de revivir cualquier navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sanciones-rusia-corea-fracaso-misiles-chips-companias-occidentales-1413794'>Las sanciones a Rusia y Corea son un fracaso: sus misiles tienen chips de nueve compañías occidentales</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sanciones-rusia-corea-fracaso-misiles-chips-companias-occidentales-1413794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sanciones-rusia-corea-son-fracaso-misiles-tiene-componentes-nueve-companias-occidentales-4253154.jpg?tf=1200x' alt='Las sanciones a Rusia y Corea son un fracaso: sus misiles tienen chips de nueve compañías occidentales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/experto-electricista-alerta-debes-pulsar-boton-cuadro-electrico-menos-vez-mes-1413638'>Un experto electricista alerta: “Debes pulsar este botón de tu cuadro eléctrico al menos una vez al mes”</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/experto-electricista-alerta-debes-pulsar-boton-cuadro-electrico-menos-vez-mes-1413638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/experto-electricista-alerta-debes-pulsar-boton-cuadro-electrico-menos-vez-mes-4252784.jpg?tf=1200x' alt='Un experto electricista alerta: “Debes pulsar este botón de tu cuadro eléctrico al menos una vez al mes”' />
     </a>
 </div>
 
