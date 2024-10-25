@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/turbinas-eolicas-jubiladas-ya-venden-como-casas-baratas-1414409'>El sorprendente uso de las turbinas eólicas jubiladas: ya se venden como casas baratas</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/turbinas-eolicas-jubiladas-ya-venden-como-casas-baratas-1414409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sorprendente-uso-turbinas-eolicas-jubiladas-ya-venden-como-casas-baratas-4254142.jpg?tf=1200x' alt='El sorprendente uso de las turbinas eólicas jubiladas: ya se venden como casas baratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/dormiras-hora-cambio-hora-sentimos-probablemente-no-1414395'>¿Dormirás una hora más por el cambio de hora? Lo sentimos, probablemente no</a></h4>
     <a href='https://computerhoy.20minutos.es/life/dormiras-hora-cambio-hora-sentimos-probablemente-no-1414395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dormir-mal-4254124.jpg?tf=1200x' alt='¿Dormirás una hora más por el cambio de hora? Lo sentimos, probablemente no' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/hacen-tan-bien-cunado-caeria-policia-nacional-alerta-ultima-estafa-bancaria-1414391'>“Lo hacen tan bien que hasta tu cuñado caería", la Policía Nacional alerta sobre la última estafa bancaria</a></h4>
     <a href='https://computerhoy.20minutos.es/life/hacen-tan-bien-cunado-caeria-policia-nacional-alerta-ultima-estafa-bancaria-1414391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-calle-4254116.jpg?tf=1200x' alt='“Lo hacen tan bien que hasta tu cuñado caería", la Policía Nacional alerta sobre la última estafa bancaria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/arnold-schwarzenegger-paga-dolar-ano-tener-casa-mitico-objeto-peores-peliculas-1414038'>Arnold Schwarzenegger paga un dólar al año por tener en su casa un mítico objeto de una de sus peores películas</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/arnold-schwarzenegger-paga-dolar-ano-tener-casa-mitico-objeto-peores-peliculas-1414038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/arnold-schwarzenegger-paga-dolar-ano-tener-casa-mitico-objeto-peores-peliculas-4253443.jpg?tf=1200x' alt='Arnold Schwarzenegger paga un dólar al año por tener en su casa un mítico objeto de una de sus peores películas' />
     </a>
 </div>
 
