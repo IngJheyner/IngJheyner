@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-expulsa-desarrolladores-rusos-trabajaban-kernel-1414386'>Linux expulsa a los desarrolladores rusos que trabajaban en el kernel</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/linux-expulsa-desarrolladores-rusos-trabajaban-kernel-1414386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/linux-expulsa-desarrolladores-rusos-trabajaban-kernel-4254082.jpg?tf=1200x' alt='Linux expulsa a los desarrolladores rusos que trabajaban en el kernel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/max-apuesta-perturbador-thriller-halloween-ha-logrado-desbancar-stephen-king-1414001'>Max apuesta por este perturbador thriller para Halloween, que ha logrado desbancar a Stephen King</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/max-apuesta-perturbador-thriller-halloween-ha-logrado-desbancar-stephen-king-1414001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/max-apuesta-perturbador-thriller-halloween-ha-logrado-desbancar-stephen-king-4253405.jpg?tf=1200x' alt='Max apuesta por este perturbador thriller para Halloween, que ha logrado desbancar a Stephen King' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/equipo-cientificos-logra-simular-agujero-negro-laboratorio-descubrieron-fue-inesperado-1413312'>Un equipo de científicos logra simular un agujero negro en su laboratorio y lo que descubrieron fue inesperado </a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/equipo-cientificos-logra-simular-agujero-negro-laboratorio-descubrieron-fue-inesperado-1413312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/agujero-negro-4252257.jpg?tf=1200x' alt='Un equipo de científicos logra simular un agujero negro en su laboratorio y lo que descubrieron fue inesperado ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/confirman-hallazgo-exoplaneta-estrella-cercana-tierra-barnard-b-solo-6-anos-luz-1411338'>Confirman el hallazgo de un exoplaneta en la estrella más cercana a la Tierra: Barnard b, a solo 6 años luz</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/confirman-hallazgo-exoplaneta-estrella-cercana-tierra-barnard-b-solo-6-anos-luz-1411338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/impresion-artistica-planeta-barnard-b-primer-plano-estrella-madre-barnard-fondo-4248927.jpg?tf=1200x' alt='Confirman el hallazgo de un exoplaneta en la estrella más cercana a la Tierra: Barnard b, a solo 6 años luz' />
     </a>
 </div>
 
