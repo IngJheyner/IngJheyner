@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/truco-cuenco-sal-lado-ventana-invierno-funciona-1414164'>El truco del cuenco de sal al lado de la ventana en invierno, ¿funciona?</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/truco-cuenco-sal-lado-ventana-invierno-funciona-1414164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/invierno-mucha-gente-coloca-cuencos-sal-lado-ventana-4253713.jpg?tf=1200x' alt='El truco del cuenco de sal al lado de la ventana en invierno, ¿funciona?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/clave-salto-evolutivo-humanidad-encuentra-tibet-no-tiene-ver-oido-ni-vista-1413580'>La clave para el salto evolutivo de la humanidad se encuentra en el Tíbet, y no tiene que ver con el oído ni la vista</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/clave-salto-evolutivo-humanidad-encuentra-tibet-no-tiene-ver-oido-ni-vista-1413580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tibetanos-4252712.jpg?tf=1200x' alt='La clave para el salto evolutivo de la humanidad se encuentra en el Tíbet, y no tiene que ver con el oído ni la vista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/noticias/hago-cada-dia-sencilla-accion-whatsapp-mejora-funcionamiento-movil-ya-no-cuelga-nunca-1413726'>Hago cada día esta sencilla acción en WhatsApp: mejora el funcionamiento del móvil y ya no se cuelga nunca</a></h4>
     <a href='https://computerhoy.20minutos.es/noticias/hago-cada-dia-sencilla-accion-whatsapp-mejora-funcionamiento-movil-ya-no-cuelga-nunca-1413726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hago-cada-dia-sencilla-accion-whatsapp-mejora-funcionamiento-movil-ya-no-cuelga-nunca-4253045.jpg?tf=1200x' alt='Hago cada día esta sencilla acción en WhatsApp: mejora el funcionamiento del móvil y ya no se cuelga nunca' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/madre-denuncia-google-porque-chatbot-ia-supuestamente-llevo-hijo-suicidio-1414152'>Una madre denuncia a Google porque un chatbot con IA supuestamente llevó a su hijo al suicidio</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/madre-denuncia-google-porque-chatbot-ia-supuestamente-llevo-hijo-suicidio-1414152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/madre-denuncia-google-porque-ia-supuestamente-llevo-hijo-suicidio-4253675.jpg?tf=1200x' alt='Una madre denuncia a Google porque un chatbot con IA supuestamente llevó a su hijo al suicidio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-acusa-intel-pedirle-cambie-linux-tapar-fallos-procesadores-1414139'>Linus Torvalds acusa a Intel de pedirle que cambie Linux para tapar los fallos de sus procesadores</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-acusa-intel-pedirle-cambie-linux-tapar-fallos-procesadores-1414139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/creador-linux-acusa-intel-pedirle-cambie-linux-tapar-fallos-procesadores-4253648.jpg?tf=1200x' alt='Linus Torvalds acusa a Intel de pedirle que cambie Linux para tapar los fallos de sus procesadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ya-puedes-ver-liga-formula-1-motogp-directamente-max-1414135'>Ya puedes ver Liga, Formula 1 y MotoGP directamente en MAX</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ya-puedes-ver-liga-formula-1-motogp-directamente-max-1414135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/max-dazn-4253663.jpg?tf=1200x' alt='Ya puedes ver Liga, Formula 1 y MotoGP directamente en MAX' />
     </a>
 </div>
 
