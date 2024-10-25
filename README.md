@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/san-francisco-gastara-millonada-decir-adios-disquetes-1414172'>San Francisco se gastará una millonada en decir adiós a los disquetes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/san-francisco-gastara-millonada-decir-adios-disquetes-1414172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/san-francisco-gastara-millonada-decir-adios-disquetes-4253722.jpg?tf=1200x' alt='San Francisco se gastará una millonada en decir adiós a los disquetes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/escucho-igual-bien-musica-voz-sony-linkbuds-open-eso-mejor-estos-auriculares-1411952'>Escucho igual de bien la música que tu voz con los Sony LinkBuds Open y eso es lo mejor de estos auriculares</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/escucho-igual-bien-musica-voz-sony-linkbuds-open-eso-mejor-estos-auriculares-1411952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sony-linkbuds-open-4249782.jpg?tf=1200x' alt='Escucho igual de bien la música que tu voz con los Sony LinkBuds Open y eso es lo mejor de estos auriculares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-varios-dispositivos-ring-vigilar-mi-casa-ya-no-puedo-vivir-sistema-seguridad-1411499'>He probado varios dispositivos Ring para vigilar mi casa y ya no puedo vivir sin un sistema de seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-varios-dispositivos-ring-vigilar-mi-casa-ya-no-puedo-vivir-sistema-seguridad-1411499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-ring-vigilancia-seguridad-hogar-4249237.jpg?tf=1200x' alt='He probado varios dispositivos Ring para vigilar mi casa y ya no puedo vivir sin un sistema de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/paso-a-paso/como-poner-audio-cancion-tiktok-tono-llamada-movil-1413437'>Cómo poner un audio o canción viral de TikTok como tono de llamada en tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/paso-a-paso/como-poner-audio-cancion-tiktok-tono-llamada-movil-1413437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tiktok-apuesta-chats-grupales-stickers-mensajes-directos-3941195.jpg?tf=1200x' alt='Cómo poner un audio o canción viral de TikTok como tono de llamada en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/truco-cuenco-sal-lado-ventana-invierno-funciona-1414164'>El truco del cuenco de sal al lado de la ventana en invierno, ¿funciona?</a></h4>
     <a href='https://computerhoy.20minutos.es/life/truco-cuenco-sal-lado-ventana-invierno-funciona-1414164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/invierno-mucha-gente-coloca-cuencos-sal-lado-ventana-4253713.jpg?tf=1200x' alt='El truco del cuenco de sal al lado de la ventana en invierno, ¿funciona?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/clave-salto-evolutivo-humanidad-encuentra-tibet-no-tiene-ver-oido-ni-vista-1413580'>La clave para el salto evolutivo de la humanidad se encuentra en el Tíbet, y no tiene que ver con el oído ni la vista</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/clave-salto-evolutivo-humanidad-encuentra-tibet-no-tiene-ver-oido-ni-vista-1413580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tibetanos-4252712.jpg?tf=1200x' alt='La clave para el salto evolutivo de la humanidad se encuentra en el Tíbet, y no tiene que ver con el oído ni la vista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/noticias/hago-cada-dia-sencilla-accion-whatsapp-mejora-funcionamiento-movil-ya-no-cuelga-nunca-1413726'>Hago cada día esta sencilla acción en WhatsApp: mejora el funcionamiento del móvil y ya no se cuelga nunca</a></h4>
-    <a href='https://computerhoy.20minutos.es/noticias/hago-cada-dia-sencilla-accion-whatsapp-mejora-funcionamiento-movil-ya-no-cuelga-nunca-1413726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hago-cada-dia-sencilla-accion-whatsapp-mejora-funcionamiento-movil-ya-no-cuelga-nunca-4253045.jpg?tf=1200x' alt='Hago cada día esta sencilla acción en WhatsApp: mejora el funcionamiento del móvil y ya no se cuelga nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/noticias/mark-zuckerberg-ha-construido-bunker-500-metros-cuadrados-1413977'>¿Por qué Mark Zuckerberg se ha construido un búnker de 30 habitaciones, 30 baños y 500 metros cuadrados?</a></h4>
-    <a href='https://computerhoy.20minutos.es/noticias/mark-zuckerberg-ha-construido-bunker-500-metros-cuadrados-1413977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/meta-mark-zuckerberg-dice-trabajando-desinformacion-3506592.jpg?tf=1200x' alt='¿Por qué Mark Zuckerberg se ha construido un búnker de 30 habitaciones, 30 baños y 500 metros cuadrados?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/madre-denuncia-google-porque-chatbot-ia-supuestamente-llevo-hijo-suicidio-1414152'>Una madre denuncia a Google porque un chatbot con IA supuestamente llevó a su hijo al suicidio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/madre-denuncia-google-porque-chatbot-ia-supuestamente-llevo-hijo-suicidio-1414152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/madre-denuncia-google-porque-ia-supuestamente-llevo-hijo-suicidio-4253675.jpg?tf=1200x' alt='Una madre denuncia a Google porque un chatbot con IA supuestamente llevó a su hijo al suicidio' />
     </a>
 </div>
 
