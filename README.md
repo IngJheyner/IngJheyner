@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/equipo-cientificos-logra-simular-agujero-negro-laboratorio-descubrieron-fue-inesperado-1413312'>Un equipo de científicos logra simular un agujero negro en su laboratorio y lo que descubrieron fue inesperado </a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/equipo-cientificos-logra-simular-agujero-negro-laboratorio-descubrieron-fue-inesperado-1413312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/agujero-negro-4252257.jpg?tf=1200x' alt='Un equipo de científicos logra simular un agujero negro en su laboratorio y lo que descubrieron fue inesperado ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/confirman-hallazgo-exoplaneta-estrella-cercana-tierra-barnard-b-solo-6-anos-luz-1411338'>Confirman el hallazgo de un exoplaneta en la estrella más cercana a la Tierra: Barnard b, a solo 6 años luz</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/confirman-hallazgo-exoplaneta-estrella-cercana-tierra-barnard-b-solo-6-anos-luz-1411338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/impresion-artistica-planeta-barnard-b-primer-plano-estrella-madre-barnard-fondo-4248927.jpg?tf=1200x' alt='Confirman el hallazgo de un exoplaneta en la estrella más cercana a la Tierra: Barnard b, a solo 6 años luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-chatear-comunicarte-empresa-google-maps-1412930'>Cómo chatear o comunicarte con una empresa en Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-chatear-comunicarte-empresa-google-maps-1412930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chat-google-maps-4252578.jpg?tf=1200x' alt='Cómo chatear o comunicarte con una empresa en Google Maps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/algo-pasando-tierra-nadie-sabe-ruidos-inexplicables-desconciertan-cientificos-1413338'>Algo está pasando en la Tierra y nadie sabe lo que es: ruidos inexplicables desconciertan a los científicos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/algo-pasando-tierra-nadie-sabe-ruidos-inexplicables-desconciertan-cientificos-1413338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tormenta-ciudad-4252286.jpg?tf=1200x' alt='Algo está pasando en la Tierra y nadie sabe lo que es: ruidos inexplicables desconciertan a los científicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/codigo-error-160-0103-nintendo-wii-u-1413970'>Código de error 160-0103: millones de Nintendo Wii U en todo el mundo se están autodestruyendo</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/codigo-error-160-0103-nintendo-wii-u-1413970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/wii-3656031.jpg?tf=1200x' alt='Código de error 160-0103: millones de Nintendo Wii U en todo el mundo se están autodestruyendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vivir-fotografia-traves-tacto-exposicion-canon-personas-ciegas-discapacidad-visual-1414260'>Vivir la fotografía a través del tacto: así es la exposición de Canon para personas ciegas o con discapacidad visual</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/vivir-fotografia-traves-tacto-exposicion-canon-personas-ciegas-discapacidad-visual-1414260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/world-unseen-exposicion-fotografica-canon-once-4253899.jpg?tf=1200x' alt='Vivir la fotografía a través del tacto: así es la exposición de Canon para personas ciegas o con discapacidad visual' />
     </a>
 </div>
 
