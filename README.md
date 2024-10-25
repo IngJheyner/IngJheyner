@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/encuentran-chips-tsmc-dispositivos-huawei-estaban-fabricados-otro-supuesto-cliente-1414208'>Encuentran chips de TSMC en dispositivos Huawei que estaban fabricados para otro supuesto cliente </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/encuentran-chips-tsmc-dispositivos-huawei-estaban-fabricados-otro-supuesto-cliente-1414208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/tsmc-seguira-enviando-chips-huawei.jpg?tf=1200x' alt='Encuentran chips de TSMC en dispositivos Huawei que estaban fabricados para otro supuesto cliente ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/nadie-te-enganara-google-fotos-marcara-imagenes-editadas-ia-1414185'>Nadie te engañará: Google Fotos marcará las imágenes editadas con IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/nadie-te-enganara-google-fotos-marcara-imagenes-editadas-ia-1414185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nadie-te-enganara-google-fotos-marcara-imagenes-editadas-ia-4253743.jpg?tf=1200x' alt='Nadie te engañará: Google Fotos marcará las imágenes editadas con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/todo-esperamos-mac-apple-2024-macbook-pro-mac-mini-imac-chip-m4-1414192'>Todo lo que esperamos de los Mac de Apple en 2024: MacBook Pro, Mac mini y iMac con chip M4</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/todo-esperamos-mac-apple-2024-macbook-pro-mac-mini-imac-chip-m4-1414192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288620.jpg?tf=1200x' alt='Todo lo que esperamos de los Mac de Apple en 2024: MacBook Pro, Mac mini y iMac con chip M4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-hay-fecha-oficial-proxima-herramienta-ia-openai-1414184'>Ya hay fecha oficial para la próxima herramienta de IA de OpenAI </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-hay-fecha-oficial-proxima-herramienta-ia-openai-1414184' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/openai-devday-4244344.jpg?tf=1200x' alt='Ya hay fecha oficial para la próxima herramienta de IA de OpenAI ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-680-computer-hoy-1412130'>¡Ya está en tu quiosco el número 680 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-680-computer-hoy-1412130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/computer-hoy-680-4251252.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 680 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/san-francisco-gastara-millonada-decir-adios-disquetes-1414172'>San Francisco se gastará una millonada en decir adiós a los disquetes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/san-francisco-gastara-millonada-decir-adios-disquetes-1414172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/san-francisco-gastara-millonada-decir-adios-disquetes-4253722.jpg?tf=1200x' alt='San Francisco se gastará una millonada en decir adiós a los disquetes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/escucho-igual-bien-musica-voz-sony-linkbuds-open-eso-mejor-estos-auriculares-1411952'>Escucho igual de bien la música que tu voz con los Sony LinkBuds Open y eso es lo mejor de estos auriculares</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/escucho-igual-bien-musica-voz-sony-linkbuds-open-eso-mejor-estos-auriculares-1411952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sony-linkbuds-open-4249782.jpg?tf=1200x' alt='Escucho igual de bien la música que tu voz con los Sony LinkBuds Open y eso es lo mejor de estos auriculares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-varios-dispositivos-ring-vigilar-mi-casa-ya-no-puedo-vivir-sistema-seguridad-1411499'>He probado varios dispositivos Ring para vigilar mi casa y ya no puedo vivir sin un sistema de seguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-varios-dispositivos-ring-vigilar-mi-casa-ya-no-puedo-vivir-sistema-seguridad-1411499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-ring-vigilancia-seguridad-hogar-4249237.jpg?tf=1200x' alt='He probado varios dispositivos Ring para vigilar mi casa y ya no puedo vivir sin un sistema de seguridad' />
     </a>
 </div>
 
