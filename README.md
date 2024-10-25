@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-expulsa-desarrolladores-rusos-trabajaban-kernel-1414386'>Linux expulsa a los desarrolladores rusos que trabajaban en el kernel</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/linux-expulsa-desarrolladores-rusos-trabajaban-kernel-1414386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/linux-expulsa-desarrolladores-rusos-trabajaban-kernel-4254082.jpg?tf=1200x' alt='Linux expulsa a los desarrolladores rusos que trabajaban en el kernel' />
+    <h4><a href='https://computerhoy.20minutos.es/life/dormiras-hora-cambio-hora-sentimos-probablemente-no-1414395'>¿Dormirás una hora más por el cambio de hora? Lo sentimos, probablemente no</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/dormiras-hora-cambio-hora-sentimos-probablemente-no-1414395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dormir-mal-4254124.jpg?tf=1200x' alt='¿Dormirás una hora más por el cambio de hora? Lo sentimos, probablemente no' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/max-apuesta-perturbador-thriller-halloween-ha-logrado-desbancar-stephen-king-1414001'>Max apuesta por este perturbador thriller para Halloween, que ha logrado desbancar a Stephen King</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/max-apuesta-perturbador-thriller-halloween-ha-logrado-desbancar-stephen-king-1414001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/max-apuesta-perturbador-thriller-halloween-ha-logrado-desbancar-stephen-king-4253405.jpg?tf=1200x' alt='Max apuesta por este perturbador thriller para Halloween, que ha logrado desbancar a Stephen King' />
+    <h4><a href='https://computerhoy.20minutos.es/alimentacion/sabemos-exactamente-carne-roja-aumenta-riesgo-sufrir-cancer-1414394'>Ya sabemos exactamente por qué la carne roja aumenta el riesgo de sufrir un cáncer</a></h4>
+    <a href='https://computerhoy.20minutos.es/alimentacion/sabemos-exactamente-carne-roja-aumenta-riesgo-sufrir-cancer-1414394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/identifican-relacion-consumo-carne-roja-cancer-4254094.jpg?tf=1200x' alt='Ya sabemos exactamente por qué la carne roja aumenta el riesgo de sufrir un cáncer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/hayao-miyazaki-no-invento-arte-studio-ghibli-inspirado-artista-japones-1414027'>Hayao Miyazaki no lo inventó: el arte del Studio Ghibli está inspirado en este artista japonés</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/hayao-miyazaki-no-invento-arte-studio-ghibli-inspirado-artista-japones-1414027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-solo-chihiro-totoro-5-peliculas-studio-ghibli-menos-conocidas-son-obras-maestras-3607794.jpg?tf=1200x' alt='Hayao Miyazaki no lo inventó: el arte del Studio Ghibli está inspirado en este artista japonés' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/proximo-anillo-inteligente-samsung-ajustaria-automaticamente-tamano-dedos-1414392'>El próximo anillo inteligente de Samsung se ajustaría automáticamente al tamaño de tus dedos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/proximo-anillo-inteligente-samsung-ajustaria-automaticamente-tamano-dedos-1414392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/anillo-inteligente-4254119.jpg?tf=1200x' alt='El próximo anillo inteligente de Samsung se ajustaría automáticamente al tamaño de tus dedos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-atreven-confirmar-universo-podria-ser-simulacion-estilo-matrix-1413285'>Más científicos se atreven a confirmar que el Universo podría ser una simulación al estilo “Matrix”</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-atreven-confirmar-universo-podria-ser-simulacion-estilo-matrix-1413285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/matrix-4252213.jpg?tf=1200x' alt='Más científicos se atreven a confirmar que el Universo podría ser una simulación al estilo “Matrix”' />
+    <h4><a href='https://computerhoy.20minutos.es/life/hacen-tan-bien-cunado-caeria-policia-nacional-alerta-ultima-estafa-bancaria-1414391'>“Lo hacen tan bien que hasta tu cuñado caería", la Policía Nacional alerta sobre la última estafa bancaria</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/hacen-tan-bien-cunado-caeria-policia-nacional-alerta-ultima-estafa-bancaria-1414391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-calle-4254116.jpg?tf=1200x' alt='“Lo hacen tan bien que hasta tu cuñado caería", la Policía Nacional alerta sobre la última estafa bancaria' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/equipo-cientificos-logra-simular-agujero-negro-laboratorio-descubrieron-fue-inesperado-1413312'>Un equipo de científicos logra simular un agujero negro en su laboratorio y lo que descubrieron fue inesperado </a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/equipo-cientificos-logra-simular-agujero-negro-laboratorio-descubrieron-fue-inesperado-1413312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/agujero-negro-4252257.jpg?tf=1200x' alt='Un equipo de científicos logra simular un agujero negro en su laboratorio y lo que descubrieron fue inesperado ' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/arnold-schwarzenegger-paga-dolar-ano-tener-casa-mitico-objeto-peores-peliculas-1414038'>Arnold Schwarzenegger paga un dólar al año por tener en su casa un mítico objeto de una de sus peores películas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/arnold-schwarzenegger-paga-dolar-ano-tener-casa-mitico-objeto-peores-peliculas-1414038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/arnold-schwarzenegger-paga-dolar-ano-tener-casa-mitico-objeto-peores-peliculas-4253443.jpg?tf=1200x' alt='Arnold Schwarzenegger paga un dólar al año por tener en su casa un mítico objeto de una de sus peores películas' />
     </a>
 </div>
 
