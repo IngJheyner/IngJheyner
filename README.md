@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-680-computer-hoy-1412130'>¡Ya está en tu quiosco el número 680 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-680-computer-hoy-1412130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/computer-hoy-680-4251252.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 680 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/san-francisco-gastara-millonada-decir-adios-disquetes-1414172'>San Francisco se gastará una millonada en decir adiós a los disquetes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/san-francisco-gastara-millonada-decir-adios-disquetes-1414172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/san-francisco-gastara-millonada-decir-adios-disquetes-4253722.jpg?tf=1200x' alt='San Francisco se gastará una millonada en decir adiós a los disquetes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/paso-a-paso/como-poner-audio-cancion-tiktok-tono-llamada-movil-1413437'>Cómo poner un audio o canción viral de TikTok como tono de llamada en tu móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/paso-a-paso/como-poner-audio-cancion-tiktok-tono-llamada-movil-1413437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tiktok-apuesta-chats-grupales-stickers-mensajes-directos-3941195.jpg?tf=1200x' alt='Cómo poner un audio o canción viral de TikTok como tono de llamada en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/truco-cuenco-sal-lado-ventana-invierno-funciona-1414164'>El truco del cuenco de sal al lado de la ventana en invierno, ¿funciona?</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/truco-cuenco-sal-lado-ventana-invierno-funciona-1414164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/invierno-mucha-gente-coloca-cuencos-sal-lado-ventana-4253713.jpg?tf=1200x' alt='El truco del cuenco de sal al lado de la ventana en invierno, ¿funciona?' />
     </a>
 </div>
 
