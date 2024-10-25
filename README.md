@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/max-apuesta-perturbador-thriller-halloween-ha-logrado-desbancar-stephen-king-1414001'>Max apuesta por este perturbador thriller para Halloween, que ha logrado desbancar a Stephen King</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/max-apuesta-perturbador-thriller-halloween-ha-logrado-desbancar-stephen-king-1414001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/max-apuesta-perturbador-thriller-halloween-ha-logrado-desbancar-stephen-king-4253405.jpg?tf=1200x' alt='Max apuesta por este perturbador thriller para Halloween, que ha logrado desbancar a Stephen King' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/hayao-miyazaki-no-invento-arte-studio-ghibli-inspirado-artista-japones-1414027'>Hayao Miyazaki no lo inventó: el arte del Studio Ghibli está inspirado en este artista japonés</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/hayao-miyazaki-no-invento-arte-studio-ghibli-inspirado-artista-japones-1414027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-solo-chihiro-totoro-5-peliculas-studio-ghibli-menos-conocidas-son-obras-maestras-3607794.jpg?tf=1200x' alt='Hayao Miyazaki no lo inventó: el arte del Studio Ghibli está inspirado en este artista japonés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-atreven-confirmar-universo-podria-ser-simulacion-estilo-matrix-1413285'>Más científicos se atreven a confirmar que el Universo podría ser una simulación al estilo “Matrix”</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/cientificos-atreven-confirmar-universo-podria-ser-simulacion-estilo-matrix-1413285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/matrix-4252213.jpg?tf=1200x' alt='Más científicos se atreven a confirmar que el Universo podría ser una simulación al estilo “Matrix”' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/confirman-hallazgo-exoplaneta-estrella-cercana-tierra-barnard-b-solo-6-anos-luz-1411338'>Confirman el hallazgo de un exoplaneta en la estrella más cercana a la Tierra: Barnard b, a solo 6 años luz</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/confirman-hallazgo-exoplaneta-estrella-cercana-tierra-barnard-b-solo-6-anos-luz-1411338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/impresion-artistica-planeta-barnard-b-primer-plano-estrella-madre-barnard-fondo-4248927.jpg?tf=1200x' alt='Confirman el hallazgo de un exoplaneta en la estrella más cercana a la Tierra: Barnard b, a solo 6 años luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-chatear-comunicarte-empresa-google-maps-1412930'>Cómo chatear o comunicarte con una empresa en Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-chatear-comunicarte-empresa-google-maps-1412930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chat-google-maps-4252578.jpg?tf=1200x' alt='Cómo chatear o comunicarte con una empresa en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/desarrollan-bateria-casi-infinita-podrias-estar-cuatro-siglos-cargar-movil-1414290'>Desarrollan una batería (casi) infinita con la que podrías estar cuatro siglos sin cargar el móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/desarrollan-bateria-casi-infinita-podrias-estar-cuatro-siglos-cargar-movil-1414290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/desarrollan-bateria-casi-infinita-podrias-estar-cuatro-siglos-cargar-movil-4253923.jpg?tf=1200x' alt='Desarrollan una batería (casi) infinita con la que podrías estar cuatro siglos sin cargar el móvil' />
     </a>
 </div>
 
