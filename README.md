@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mini-pc-perfecto-trabajas-office-te-palma-mano-cuesta-menos-200-euros-cupon-1414098'>Este Mini PC es perfecto si trabajas con Office: te cabe en la palma de la mano y cuesta menos de 200 euros con un cupón</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mini-pc-perfecto-trabajas-office-te-palma-mano-cuesta-menos-200-euros-cupon-1414098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/acemagician-t8-plus-4253557.jpg?tf=1200x' alt='Este Mini PC es perfecto si trabajas con Office: te cabe en la palma de la mano y cuesta menos de 200 euros con un cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dentro-poco-podras-mejorar-ia-rendimiento-raspberry-pi-1414228'>Dentro de poco podrás mejorar con IA el rendimiento de tu Raspberry Pi</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/dentro-poco-podras-mejorar-ia-rendimiento-raspberry-pi-1414228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/raspberry-pi-facil-utilizar-nunca-gracias-extension-4206900.jpg?tf=1200x' alt='Dentro de poco podrás mejorar con IA el rendimiento de tu Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/encuentran-chips-tsmc-dispositivos-huawei-estaban-fabricados-otro-supuesto-cliente-1414208'>Encuentran chips de TSMC en dispositivos Huawei que estaban fabricados para otro supuesto cliente </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/encuentran-chips-tsmc-dispositivos-huawei-estaban-fabricados-otro-supuesto-cliente-1414208' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/tsmc-seguira-enviando-chips-huawei.jpg?tf=1200x' alt='Encuentran chips de TSMC en dispositivos Huawei que estaban fabricados para otro supuesto cliente ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/todo-esperamos-mac-apple-2024-macbook-pro-mac-mini-imac-chip-m4-1414192'>Todo lo que esperamos de los Mac de Apple en 2024: MacBook Pro, Mac mini y iMac con chip M4</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/todo-esperamos-mac-apple-2024-macbook-pro-mac-mini-imac-chip-m4-1414192' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288620.jpg?tf=1200x' alt='Todo lo que esperamos de los Mac de Apple en 2024: MacBook Pro, Mac mini y iMac con chip M4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-hay-fecha-oficial-proxima-herramienta-ia-openai-1414184'>Ya hay fecha oficial para la próxima herramienta de IA de OpenAI </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-hay-fecha-oficial-proxima-herramienta-ia-openai-1414184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/openai-devday-4244344.jpg?tf=1200x' alt='Ya hay fecha oficial para la próxima herramienta de IA de OpenAI ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-680-computer-hoy-1412130'>¡Ya está en tu quiosco el número 680 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-680-computer-hoy-1412130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/computer-hoy-680-4251252.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 680 de Computer Hoy!' />
     </a>
 </div>
 
