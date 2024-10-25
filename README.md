@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/codigo-error-160-0103-nintendo-wii-u-1413970'>Código de error 160-0103: millones de Nintendo Wii U en todo el mundo se están autodestruyendo</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/codigo-error-160-0103-nintendo-wii-u-1413970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/wii-3656031.jpg?tf=1200x' alt='Código de error 160-0103: millones de Nintendo Wii U en todo el mundo se están autodestruyendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vivir-fotografia-traves-tacto-exposicion-canon-personas-ciegas-discapacidad-visual-1414260'>Vivir la fotografía a través del tacto: así es la exposición de Canon para personas ciegas o con discapacidad visual</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/vivir-fotografia-traves-tacto-exposicion-canon-personas-ciegas-discapacidad-visual-1414260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/world-unseen-exposicion-fotografica-canon-once-4253899.jpg?tf=1200x' alt='Vivir la fotografía a través del tacto: así es la exposición de Canon para personas ciegas o con discapacidad visual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-crear-propio-bloqueador-anuncios-raspberry-pi-ahora-chrome-eliminando-1412679'>Cómo crear tu propio bloqueador de anuncios con una Raspberry Pi ahora que Chrome lo está eliminando</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/como-crear-propio-bloqueador-anuncios-raspberry-pi-ahora-chrome-eliminando-1412679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-crear-propio-bloqueador-anuncios-raspberry-pi-ahora-chrome-eliminando-4251266.jpg?tf=1200x' alt='Cómo crear tu propio bloqueador de anuncios con una Raspberry Pi ahora que Chrome lo está eliminando' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/steve-jobs-tim-cook-comparten-habilidad-unica-muy-especial-muy-pocas-personas-poseen-1414240'>Steve Jobs y Tim Cook comparten una habilidad única muy especial que muy pocas personas poseen</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/steve-jobs-tim-cook-comparten-habilidad-unica-muy-especial-muy-pocas-personas-poseen-1414240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steve-jobs-tim-cook-comparten-habilidad-unica-muy-especial-muy-pocas-personas-poseen-4253840.jpg?tf=1200x' alt='Steve Jobs y Tim Cook comparten una habilidad única muy especial que muy pocas personas poseen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/stephen-hawking-atrevio-poner-fecha-fin-mundo-ahora-nasa-ha-confirmado-1414229'>Stephen Hawking se atrevió a poner fecha al fin del mundo, ahora la NASA lo ha confirmado</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/stephen-hawking-atrevio-poner-fecha-fin-mundo-ahora-nasa-ha-confirmado-1414229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/stephen-hawking-atrevio-poner-fecha-fin-mundo-ahora-nasa-ha-confirmado-4253803.jpg?tf=1200x' alt='Stephen Hawking se atrevió a poner fecha al fin del mundo, ahora la NASA lo ha confirmado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-piques-casi-100-estafas-tienen-detalle-comun-te-ayudara-detectarlas-instante-1414209'>¡No piques! Casi el 100% de las estafas tienen este detalle en común que te ayudará a detectarlas al instante</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/no-piques-casi-100-estafas-tienen-detalle-comun-te-ayudara-detectarlas-instante-1414209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/no-piques-casi-100-estafas-tienen-detalle-comun-te-ayudara-detectarlas-instante-4253766.jpg?tf=1200x' alt='¡No piques! Casi el 100% de las estafas tienen este detalle en común que te ayudará a detectarlas al instante' />
     </a>
 </div>
 
