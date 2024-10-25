@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-atreven-confirmar-universo-podria-ser-simulacion-estilo-matrix-1413285'>Más científicos se atreven a confirmar que el Universo podría ser una simulación al estilo “Matrix”</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-atreven-confirmar-universo-podria-ser-simulacion-estilo-matrix-1413285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/matrix-4252213.jpg?tf=1200x' alt='Más científicos se atreven a confirmar que el Universo podría ser una simulación al estilo “Matrix”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/equipo-cientificos-logra-simular-agujero-negro-laboratorio-descubrieron-fue-inesperado-1413312'>Un equipo de científicos logra simular un agujero negro en su laboratorio y lo que descubrieron fue inesperado </a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/equipo-cientificos-logra-simular-agujero-negro-laboratorio-descubrieron-fue-inesperado-1413312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/agujero-negro-4252257.jpg?tf=1200x' alt='Un equipo de científicos logra simular un agujero negro en su laboratorio y lo que descubrieron fue inesperado ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/desarrollan-bateria-casi-infinita-podrias-estar-cuatro-siglos-cargar-movil-1414290'>Desarrollan una batería (casi) infinita con la que podrías estar cuatro siglos sin cargar el móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/desarrollan-bateria-casi-infinita-podrias-estar-cuatro-siglos-cargar-movil-1414290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/desarrollan-bateria-casi-infinita-podrias-estar-cuatro-siglos-cargar-movil-4253923.jpg?tf=1200x' alt='Desarrollan una batería (casi) infinita con la que podrías estar cuatro siglos sin cargar el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/algo-pasando-tierra-nadie-sabe-ruidos-inexplicables-desconciertan-cientificos-1413338'>Algo está pasando en la Tierra y nadie sabe lo que es: ruidos inexplicables desconciertan a los científicos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/algo-pasando-tierra-nadie-sabe-ruidos-inexplicables-desconciertan-cientificos-1413338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tormenta-ciudad-4252286.jpg?tf=1200x' alt='Algo está pasando en la Tierra y nadie sabe lo que es: ruidos inexplicables desconciertan a los científicos' />
     </a>
 </div>
 
