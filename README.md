@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/noticias/hago-cada-dia-sencilla-accion-whatsapp-mejora-funcionamiento-movil-ya-no-cuelga-nunca-1413726'>Hago cada día esta sencilla acción en WhatsApp: mejora el funcionamiento del móvil y ya no se cuelga nunca</a></h4>
+    <a href='https://computerhoy.20minutos.es/noticias/hago-cada-dia-sencilla-accion-whatsapp-mejora-funcionamiento-movil-ya-no-cuelga-nunca-1413726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hago-cada-dia-sencilla-accion-whatsapp-mejora-funcionamiento-movil-ya-no-cuelga-nunca-4253045.jpg?tf=1200x' alt='Hago cada día esta sencilla acción en WhatsApp: mejora el funcionamiento del móvil y ya no se cuelga nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/noticias/mark-zuckerberg-ha-construido-bunker-500-metros-cuadrados-1413977'>¿Por qué Mark Zuckerberg se ha construido un búnker de 30 habitaciones, 30 baños y 500 metros cuadrados?</a></h4>
+    <a href='https://computerhoy.20minutos.es/noticias/mark-zuckerberg-ha-construido-bunker-500-metros-cuadrados-1413977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/meta-mark-zuckerberg-dice-trabajando-desinformacion-3506592.jpg?tf=1200x' alt='¿Por qué Mark Zuckerberg se ha construido un búnker de 30 habitaciones, 30 baños y 500 metros cuadrados?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/madre-denuncia-google-porque-chatbot-ia-supuestamente-llevo-hijo-suicidio-1414152'>Una madre denuncia a Google porque un chatbot con IA supuestamente llevó a su hijo al suicidio</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/madre-denuncia-google-porque-chatbot-ia-supuestamente-llevo-hijo-suicidio-1414152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/madre-denuncia-google-porque-ia-supuestamente-llevo-hijo-suicidio-4253675.jpg?tf=1200x' alt='Una madre denuncia a Google porque un chatbot con IA supuestamente llevó a su hijo al suicidio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ya-puedes-ver-liga-formula-1-motogp-directamente-max-1414135'>Ya puedes ver Liga, Formula 1 y MotoGP directamente en MAX</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ya-puedes-ver-liga-formula-1-motogp-directamente-max-1414135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/max-dazn-4253663.jpg?tf=1200x' alt='Ya puedes ver Liga, Formula 1 y MotoGP directamente en MAX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/astronomos-alerta-maxima-elon-musk-quiere-enviar-30000-satelites-starlink-espacio-1414129'>Astrónomos en alerta máxima: Elon Musk quiere enviar 30.000 satélites Starlink más al espacio</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/astronomos-alerta-maxima-elon-musk-quiere-enviar-30000-satelites-starlink-espacio-1414129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/starlink-moviles-3194838.jpg?tf=1200x' alt='Astrónomos en alerta máxima: Elon Musk quiere enviar 30.000 satélites Starlink más al espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/gran-clasico-stephen-king-volvera-forma-serie-despues-ultimo-remake-1413619'>El gran clásico de Stephen King volverá en forma de serie, después de su último remake</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/gran-clasico-stephen-king-volvera-forma-serie-despues-ultimo-remake-1413619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gran-clasico-stephen-king-volvera-forma-serie-despues-ultimo-remake-4252754.jpg?tf=1200x' alt='El gran clásico de Stephen King volverá en forma de serie, después de su último remake' />
     </a>
 </div>
 
