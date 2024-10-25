@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-crear-propio-bloqueador-anuncios-raspberry-pi-ahora-chrome-eliminando-1412679'>Cómo crear tu propio bloqueador de anuncios con una Raspberry Pi ahora que Chrome lo está eliminando</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/como-crear-propio-bloqueador-anuncios-raspberry-pi-ahora-chrome-eliminando-1412679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-crear-propio-bloqueador-anuncios-raspberry-pi-ahora-chrome-eliminando-4251266.jpg?tf=1200x' alt='Cómo crear tu propio bloqueador de anuncios con una Raspberry Pi ahora que Chrome lo está eliminando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/generacion-z-enfrenta-windows-xp-como-ordenador-cuantico-tratase-1414268'>La generación Z se enfrenta a Windows XP como si de un ordenador cuántico se tratase</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/generacion-z-enfrenta-windows-xp-como-ordenador-cuantico-tratase-1414268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-xp-4253924.jpg?tf=1200x' alt='La generación Z se enfrenta a Windows XP como si de un ordenador cuántico se tratase' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/steve-jobs-tim-cook-comparten-habilidad-unica-muy-especial-muy-pocas-personas-poseen-1414240'>Steve Jobs y Tim Cook comparten una habilidad única muy especial que muy pocas personas poseen</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/steve-jobs-tim-cook-comparten-habilidad-unica-muy-especial-muy-pocas-personas-poseen-1414240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steve-jobs-tim-cook-comparten-habilidad-unica-muy-especial-muy-pocas-personas-poseen-4253840.jpg?tf=1200x' alt='Steve Jobs y Tim Cook comparten una habilidad única muy especial que muy pocas personas poseen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/stephen-hawking-atrevio-poner-fecha-fin-mundo-ahora-nasa-ha-confirmado-1414229'>Stephen Hawking se atrevió a poner fecha al fin del mundo, ahora la NASA lo ha confirmado</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/stephen-hawking-atrevio-poner-fecha-fin-mundo-ahora-nasa-ha-confirmado-1414229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/stephen-hawking-atrevio-poner-fecha-fin-mundo-ahora-nasa-ha-confirmado-4253803.jpg?tf=1200x' alt='Stephen Hawking se atrevió a poner fecha al fin del mundo, ahora la NASA lo ha confirmado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-piques-casi-100-estafas-tienen-detalle-comun-te-ayudara-detectarlas-instante-1414209'>¡No piques! Casi el 100% de las estafas tienen este detalle en común que te ayudará a detectarlas al instante</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/no-piques-casi-100-estafas-tienen-detalle-comun-te-ayudara-detectarlas-instante-1414209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/no-piques-casi-100-estafas-tienen-detalle-comun-te-ayudara-detectarlas-instante-4253766.jpg?tf=1200x' alt='¡No piques! Casi el 100% de las estafas tienen este detalle en común que te ayudará a detectarlas al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/puerto-televisor-smart-tv-no-adorno-sirve-mucho-crees-1414238'>Este puerto de tu televisor Smart TV no es un adorno, sirve para mucho más de lo que crees</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/puerto-televisor-smart-tv-no-adorno-sirve-mucho-crees-1414238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sirven-exactamente-puertos-usb-smart-tv-3275656.jpg?tf=1200x' alt='Este puerto de tu televisor Smart TV no es un adorno, sirve para mucho más de lo que crees' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mini-pc-perfecto-trabajas-office-te-palma-mano-cuesta-menos-200-euros-cupon-1414098'>Este Mini PC es perfecto si trabajas con Office: te cabe en la palma de la mano y cuesta menos de 200 euros con un cupón</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mini-pc-perfecto-trabajas-office-te-palma-mano-cuesta-menos-200-euros-cupon-1414098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/acemagician-t8-plus-4253557.jpg?tf=1200x' alt='Este Mini PC es perfecto si trabajas con Office: te cabe en la palma de la mano y cuesta menos de 200 euros con un cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dentro-poco-podras-mejorar-ia-rendimiento-raspberry-pi-1414228'>Dentro de poco podrás mejorar con IA el rendimiento de tu Raspberry Pi</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/dentro-poco-podras-mejorar-ia-rendimiento-raspberry-pi-1414228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/raspberry-pi-facil-utilizar-nunca-gracias-extension-4206900.jpg?tf=1200x' alt='Dentro de poco podrás mejorar con IA el rendimiento de tu Raspberry Pi' />
     </a>
 </div>
 
