@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-hay-fecha-oficial-proxima-herramienta-ia-openai-1414184'>Ya hay fecha oficial para la próxima herramienta de IA de OpenAI </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-hay-fecha-oficial-proxima-herramienta-ia-openai-1414184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/openai-devday-4244344.jpg?tf=1200x' alt='Ya hay fecha oficial para la próxima herramienta de IA de OpenAI ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-680-computer-hoy-1412130'>¡Ya está en tu quiosco el número 680 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-680-computer-hoy-1412130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/computer-hoy-680-4251252.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 680 de Computer Hoy!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-varios-dispositivos-ring-vigilar-mi-casa-ya-no-puedo-vivir-sistema-seguridad-1411499'>He probado varios dispositivos Ring para vigilar mi casa y ya no puedo vivir sin un sistema de seguridad</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/he-probado-varios-dispositivos-ring-vigilar-mi-casa-ya-no-puedo-vivir-sistema-seguridad-1411499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-ring-vigilancia-seguridad-hogar-4249237.jpg?tf=1200x' alt='He probado varios dispositivos Ring para vigilar mi casa y ya no puedo vivir sin un sistema de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/paso-a-paso/como-poner-audio-cancion-tiktok-tono-llamada-movil-1413437'>Cómo poner un audio o canción viral de TikTok como tono de llamada en tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/paso-a-paso/como-poner-audio-cancion-tiktok-tono-llamada-movil-1413437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tiktok-apuesta-chats-grupales-stickers-mensajes-directos-3941195.jpg?tf=1200x' alt='Cómo poner un audio o canción viral de TikTok como tono de llamada en tu móvil' />
     </a>
 </div>
 
