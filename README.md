@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ahora-facil-nunca-unirte-canales-whatsapp-escaneando-codigo-qr-1414457'>Ahora es más fácil que nunca unirte a los canales de WhatsApp: escaneando un código QR</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ahora-facil-nunca-unirte-canales-whatsapp-escaneando-codigo-qr-1414457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-canales-4254233.jpg?tf=1200x' alt='Ahora es más fácil que nunca unirte a los canales de WhatsApp: escaneando un código QR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/google-inspirara-dynamic-island-iphone-nuevo-sistema-notificaciones-android-16-1414451'>Google se inspirará en Dynamic Island del iPhone para su nuevo sistema de notificaciones en Android 16</a></h4>
     <a href='https://computerhoy.20minutos.es/android/google-inspirara-dynamic-island-iphone-nuevo-sistema-notificaciones-android-16-1414451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/trucos-dynamic-island-2873373.jpg?tf=1200x' alt='Google se inspirará en Dynamic Island del iPhone para su nuevo sistema de notificaciones en Android 16' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/vpn-regala-cuatro-meses-gratis-nuevos-usuarios-ha-rebajado-precio-87-1414368'>Esta VPN regala cuatro meses gratis a nuevos usuarios, y ha rebajado su precio en un 87%</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/vpn-regala-cuatro-meses-gratis-nuevos-usuarios-ha-rebajado-precio-87-1414368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/surfshark-android-3278912.jpg?tf=1200x' alt='Esta VPN regala cuatro meses gratis a nuevos usuarios, y ha rebajado su precio en un 87%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-actualizar-cambiar-lugar-google-maps-1412929'>Cómo actualizar o cambiar un lugar en Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-actualizar-cambiar-lugar-google-maps-1412929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cambiar-ubicacion-google-maps-4251583.jpg?tf=1200x' alt='Cómo actualizar o cambiar un lugar en Google Maps' />
     </a>
 </div>
 
