@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/maquinas-virtuales-windows-11-microsoft-desactiva-fecha-regreso-1414484'>Máquinas virtuales de Windows 11: Microsoft las desactiva sin fecha de regreso</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/maquinas-virtuales-windows-11-microsoft-desactiva-fecha-regreso-1414484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/maquinas-virtuales-windows-11-3719224.jpg?tf=1200x' alt='Máquinas virtuales de Windows 11: Microsoft las desactiva sin fecha de regreso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-usara-administrador-contrasenas-predeterminado-android-facilitarte-tarea-1414466'>Chrome usará el administrador de contraseñas predeterminado de Android para facilitarte una tarea</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chrome-usara-administrador-contrasenas-predeterminado-android-facilitarte-tarea-1414466' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/administrador-contrasenas-android-4254240.jpg?tf=1200x' alt='Chrome usará el administrador de contraseñas predeterminado de Android para facilitarte una tarea' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/ahora-facil-nunca-unirte-canales-whatsapp-escaneando-codigo-qr-1414457'>Ahora es más fácil que nunca unirte a los canales de WhatsApp: escaneando un código QR</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ahora-facil-nunca-unirte-canales-whatsapp-escaneando-codigo-qr-1414457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-canales-4254233.jpg?tf=1200x' alt='Ahora es más fácil que nunca unirte a los canales de WhatsApp: escaneando un código QR' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/google-inspirara-dynamic-island-iphone-nuevo-sistema-notificaciones-android-16-1414451'>Google se inspirará en Dynamic Island del iPhone para su nuevo sistema de notificaciones en Android 16</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/google-inspirara-dynamic-island-iphone-nuevo-sistema-notificaciones-android-16-1414451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/trucos-dynamic-island-2873373.jpg?tf=1200x' alt='Google se inspirará en Dynamic Island del iPhone para su nuevo sistema de notificaciones en Android 16' />
     </a>
 </div>
 
