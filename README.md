@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-prueba-secreto-app-control-glucosa-sangre-podria-verse-futuro-apple-watch-1414442'>Apple prueba en secreto una app para el control de la glucosa en sangre que podría verse en un futuro Apple Watch</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-prueba-secreto-app-control-glucosa-sangre-podria-verse-futuro-apple-watch-1414442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-watch-series-4120088.jpg?tf=1200x' alt='Apple prueba en secreto una app para el control de la glucosa en sangre que podría verse en un futuro Apple Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aun-no-tienes-air-fryer-ya-no-tienes-excusa-air-fryer-xiaomi-baja-menos-50-euros-1414281'>Si aún no tienes air fryer, ya no tienes excusa: la air fryer de Xiaomi baja a menos de 50 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/aun-no-tienes-air-fryer-ya-no-tienes-excusa-air-fryer-xiaomi-baja-menos-50-euros-1414281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-smart-air-fryer-pro-4l-4253913.jpg?tf=1200x' alt='Si aún no tienes air fryer, ya no tienes excusa: la air fryer de Xiaomi baja a menos de 50 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/vpn-regala-cuatro-meses-gratis-nuevos-usuarios-ha-rebajado-precio-87-1414368'>Esta VPN regala cuatro meses gratis a nuevos usuarios, y ha rebajado su precio en un 87%</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/vpn-regala-cuatro-meses-gratis-nuevos-usuarios-ha-rebajado-precio-87-1414368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/surfshark-android-3278912.jpg?tf=1200x' alt='Esta VPN regala cuatro meses gratis a nuevos usuarios, y ha rebajado su precio en un 87%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-actualizar-cambiar-lugar-google-maps-1412929'>Cómo actualizar o cambiar un lugar en Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-actualizar-cambiar-lugar-google-maps-1412929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cambiar-ubicacion-google-maps-4251583.jpg?tf=1200x' alt='Cómo actualizar o cambiar un lugar en Google Maps' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-planea-lanzamiento-gemini-20-diciembre-ano-despues-debut-primera-version-1414439'>Google planea el lanzamiento de Gemini 2.0 en diciembre, un año después del debut de la primera versión</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-planea-lanzamiento-gemini-20-diciembre-ano-despues-debut-primera-version-1414439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-ia-4254208.jpg?tf=1200x' alt='Google planea el lanzamiento de Gemini 2.0 en diciembre, un año después del debut de la primera versión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-personalizar-todo-diseno-interfaz-kodi-1414039'>Cómo personalizar todo el diseño de la interfaz de Kodi</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-personalizar-todo-diseno-interfaz-kodi-1414039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/personalizar-kodi-4253481.jpg?tf=1200x' alt='Cómo personalizar todo el diseño de la interfaz de Kodi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/paso-a-paso/como-crear-varios-perfiles-usuario-kodi-1414054'> Cómo crear varios perfiles de usuario en Kodi</a></h4>
-    <a href='https://computerhoy.20minutos.es/paso-a-paso/como-crear-varios-perfiles-usuario-kodi-1414054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/perfiles-kodi-4253486.jpg?tf=1200x' alt=' Cómo crear varios perfiles de usuario en Kodi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fecha-humanos-volveran-inteligentes-gracias-ia-experto-inevitable-1412909'>Esta es la fecha en la que los humanos se volverán más inteligentes gracias a la IA, según un experto: “Es inevitable”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/fecha-humanos-volveran-inteligentes-gracias-ia-experto-inevitable-1412909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fecha-humanos-volveran-inteligentes-gracias-ia-experto-inevitable-4251559.jpg?tf=1200x' alt='Esta es la fecha en la que los humanos se volverán más inteligentes gracias a la IA, según un experto: “Es inevitable”' />
     </a>
 </div>
 
