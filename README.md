@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/google-inspirara-dynamic-island-iphone-nuevo-sistema-notificaciones-android-16-1414451'>Google se inspirará en Dynamic Island del iPhone para su nuevo sistema de notificaciones en Android 16</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/google-inspirara-dynamic-island-iphone-nuevo-sistema-notificaciones-android-16-1414451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/trucos-dynamic-island-2873373.jpg?tf=1200x' alt='Google se inspirará en Dynamic Island del iPhone para su nuevo sistema de notificaciones en Android 16' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-prueba-secreto-app-control-glucosa-sangre-podria-verse-futuro-apple-watch-1414442'>Apple prueba en secreto una app para el control de la glucosa en sangre que podría verse en un futuro Apple Watch</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-prueba-secreto-app-control-glucosa-sangre-podria-verse-futuro-apple-watch-1414442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-watch-series-4120088.jpg?tf=1200x' alt='Apple prueba en secreto una app para el control de la glucosa en sangre que podría verse en un futuro Apple Watch' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-actualizar-cambiar-lugar-google-maps-1412929'>Cómo actualizar o cambiar un lugar en Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-actualizar-cambiar-lugar-google-maps-1412929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cambiar-ubicacion-google-maps-4251583.jpg?tf=1200x' alt='Cómo actualizar o cambiar un lugar en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-planea-lanzamiento-gemini-20-diciembre-ano-despues-debut-primera-version-1414439'>Google planea el lanzamiento de Gemini 2.0 en diciembre, un año después del debut de la primera versión</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-planea-lanzamiento-gemini-20-diciembre-ano-despues-debut-primera-version-1414439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-ia-4254208.jpg?tf=1200x' alt='Google planea el lanzamiento de Gemini 2.0 en diciembre, un año después del debut de la primera versión' />
     </a>
 </div>
 
