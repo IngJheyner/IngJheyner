@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/paso-a-paso/como-crear-varios-perfiles-usuario-kodi-1414054'> Cómo crear varios perfiles de usuario en Kodi</a></h4>
+    <a href='https://computerhoy.20minutos.es/paso-a-paso/como-crear-varios-perfiles-usuario-kodi-1414054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/perfiles-kodi-4253486.jpg?tf=1200x' alt=' Cómo crear varios perfiles de usuario en Kodi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fecha-humanos-volveran-inteligentes-gracias-ia-experto-inevitable-1412909'>Esta es la fecha en la que los humanos se volverán más inteligentes gracias a la IA, según un experto: “Es inevitable”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/fecha-humanos-volveran-inteligentes-gracias-ia-experto-inevitable-1412909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fecha-humanos-volveran-inteligentes-gracias-ia-experto-inevitable-4251559.jpg?tf=1200x' alt='Esta es la fecha en la que los humanos se volverán más inteligentes gracias a la IA, según un experto: “Es inevitable”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-poner-barra-flotante-macos-apple-windows-10-11-1413795'>Cómo poner la barra flotante de macOS de Apple en Windows 10 y 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-poner-barra-flotante-macos-apple-windows-10-11-1413795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-poner-barra-flotante-macos-apple-windows-10-11-4253162.jpg?tf=1200x' alt='Cómo poner la barra flotante de macOS de Apple en Windows 10 y 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-8-cumple-12-anos-historia-terror-halloween-1414421'>Windows 8 cumple 12 años: una historia de terror en Halloween</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-8-cumple-12-anos-historia-terror-halloween-1414421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-8-cumple-12-anos-historia-terror-halloween-4254172.jpg?tf=1200x' alt='Windows 8 cumple 12 años: una historia de terror en Halloween' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-1412214'>El cambio de hora no abandona la polémica: un nuevo país lo va a eliminar</a></h4>
     <a href='https://computerhoy.20minutos.es/life/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-1412214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-4250357.jpg?tf=1200x' alt='El cambio de hora no abandona la polémica: un nuevo país lo va a eliminar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-google-chrome-ni-mozilla-firefox-mejor-navegador-tienes-movil-android-1414069'>Ni Google Chrome ni Mozilla Firefox: este es el mejor navegador si tienes un móvil Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/ni-google-chrome-ni-mozilla-firefox-mejor-navegador-tienes-movil-android-1414069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/opera-gx-navegador-ia-4253614.jpg?tf=1200x' alt='Ni Google Chrome ni Mozilla Firefox: este es el mejor navegador si tienes un móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/casa-mas-pequena-mundo-video-1414420'>La casa más pequeña del mundo tiene todas las comodidades: no te pierdas el vídeo</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/casa-mas-pequena-mundo-video-1414420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/casa-pequena-mundo-tiene-todas-comodidades-como-ve-video-4254167.jpg?tf=1200x' alt='La casa más pequeña del mundo tiene todas las comodidades: no te pierdas el vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/he-puesto-prueba-intel-core-ultra-7-258v-me-ha-hecho-ver-potencia-no-todo-procesador-1414044'>He puesto a prueba el Intel Core Ultra 7 258V y me ha hecho ver que la potencia no lo es todo en un procesador</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/he-puesto-prueba-intel-core-ultra-7-258v-me-ha-hecho-ver-potencia-no-todo-procesador-1414044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/intel-core-ultra-7-258v-asus-zenbook-s-14-4253558.jpg?tf=1200x' alt='He puesto a prueba el Intel Core Ultra 7 258V y me ha hecho ver que la potencia no lo es todo en un procesador' />
     </a>
 </div>
 
