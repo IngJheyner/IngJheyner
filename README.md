@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-actualizar-cambiar-lugar-google-maps-1412929'>Cómo actualizar o cambiar un lugar en Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-actualizar-cambiar-lugar-google-maps-1412929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cambiar-ubicacion-google-maps-4251583.jpg?tf=1200x' alt='Cómo actualizar o cambiar un lugar en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-planea-lanzamiento-gemini-20-diciembre-ano-despues-debut-primera-version-1414439'>Google planea el lanzamiento de Gemini 2.0 en diciembre, un año después del debut de la primera versión</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-planea-lanzamiento-gemini-20-diciembre-ano-despues-debut-primera-version-1414439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-ia-4254208.jpg?tf=1200x' alt='Google planea el lanzamiento de Gemini 2.0 en diciembre, un año después del debut de la primera versión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-personalizar-todo-diseno-interfaz-kodi-1414039'>Cómo personalizar todo el diseño de la interfaz de Kodi</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-personalizar-todo-diseno-interfaz-kodi-1414039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/personalizar-kodi-4253481.jpg?tf=1200x' alt='Cómo personalizar todo el diseño de la interfaz de Kodi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/paso-a-paso/como-crear-varios-perfiles-usuario-kodi-1414054'> Cómo crear varios perfiles de usuario en Kodi</a></h4>
     <a href='https://computerhoy.20minutos.es/paso-a-paso/como-crear-varios-perfiles-usuario-kodi-1414054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/perfiles-kodi-4253486.jpg?tf=1200x' alt=' Cómo crear varios perfiles de usuario en Kodi' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/fecha-humanos-volveran-inteligentes-gracias-ia-experto-inevitable-1412909'>Esta es la fecha en la que los humanos se volverán más inteligentes gracias a la IA, según un experto: “Es inevitable”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/fecha-humanos-volveran-inteligentes-gracias-ia-experto-inevitable-1412909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fecha-humanos-volveran-inteligentes-gracias-ia-experto-inevitable-4251559.jpg?tf=1200x' alt='Esta es la fecha en la que los humanos se volverán más inteligentes gracias a la IA, según un experto: “Es inevitable”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-poner-barra-flotante-macos-apple-windows-10-11-1413795'>Cómo poner la barra flotante de macOS de Apple en Windows 10 y 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-poner-barra-flotante-macos-apple-windows-10-11-1413795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-poner-barra-flotante-macos-apple-windows-10-11-4253162.jpg?tf=1200x' alt='Cómo poner la barra flotante de macOS de Apple en Windows 10 y 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-8-cumple-12-anos-historia-terror-halloween-1414421'>Windows 8 cumple 12 años: una historia de terror en Halloween</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-8-cumple-12-anos-historia-terror-halloween-1414421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-8-cumple-12-anos-historia-terror-halloween-4254172.jpg?tf=1200x' alt='Windows 8 cumple 12 años: una historia de terror en Halloween' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-1412214'>El cambio de hora no abandona la polémica: un nuevo país lo va a eliminar</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-1412214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-4250357.jpg?tf=1200x' alt='El cambio de hora no abandona la polémica: un nuevo país lo va a eliminar' />
     </a>
 </div>
 
