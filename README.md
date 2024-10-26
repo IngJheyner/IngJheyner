@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/noticias/truco-whatsapp-chatgpt-saber-conversacion-toxica-1414155'>El truco de WhatsApp y ChatGPT para saber si una conversación es tóxica</a></h4>
+    <a href='https://computerhoy.20minutos.es/noticias/truco-whatsapp-chatgpt-saber-conversacion-toxica-1414155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/truco-whatsapp-chatgpt-saber-conversacion-toxica-4253712.jpg?tf=1200x' alt='El truco de WhatsApp y ChatGPT para saber si una conversación es tóxica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alternativa-favorita-drive-vpn-1389514'>Esta es mi alternativa favorita a Google Drive: va pegada a una VPN y es 100% privada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alternativa-favorita-drive-vpn-1389514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordlocker-nordvpn-3285069.jpg?tf=1200x' alt='Esta es mi alternativa favorita a Google Drive: va pegada a una VPN y es 100% privada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/mejor-cancion-probar-auriculares-1414110'>La mejor canción para probar si unos auriculares son buenos, un experto en HiFi lleva más de 35 años utilizándola</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/mejor-cancion-probar-auriculares-1414110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mejor-cancion-probar-auriculares-son-buenos-experto-hifi-lleva-35-anos-utilizandola-4253674.jpg?tf=1200x' alt='La mejor canción para probar si unos auriculares son buenos, un experto en HiFi lleva más de 35 años utilizándola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/energia/turbinas-eolicas-jubiladas-ya-venden-como-casas-baratas-1414409'>El sorprendente uso de las turbinas eólicas jubiladas: ya se venden como casas baratas</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/turbinas-eolicas-jubiladas-ya-venden-como-casas-baratas-1414409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sorprendente-uso-turbinas-eolicas-jubiladas-ya-venden-como-casas-baratas-4254142.jpg?tf=1200x' alt='El sorprendente uso de las turbinas eólicas jubiladas: ya se venden como casas baratas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/dormiras-hora-cambio-hora-sentimos-probablemente-no-1414395'>¿Dormirás una hora más por el cambio de hora? Lo sentimos, probablemente no</a></h4>
     <a href='https://computerhoy.20minutos.es/life/dormiras-hora-cambio-hora-sentimos-probablemente-no-1414395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dormir-mal-4254124.jpg?tf=1200x' alt='¿Dormirás una hora más por el cambio de hora? Lo sentimos, probablemente no' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/alimentacion/sabemos-exactamente-carne-roja-aumenta-riesgo-sufrir-cancer-1414394'>Ya sabemos exactamente por qué la carne roja aumenta el riesgo de sufrir un cáncer</a></h4>
-    <a href='https://computerhoy.20minutos.es/alimentacion/sabemos-exactamente-carne-roja-aumenta-riesgo-sufrir-cancer-1414394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/identifican-relacion-consumo-carne-roja-cancer-4254094.jpg?tf=1200x' alt='Ya sabemos exactamente por qué la carne roja aumenta el riesgo de sufrir un cáncer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/proximo-anillo-inteligente-samsung-ajustaria-automaticamente-tamano-dedos-1414392'>El próximo anillo inteligente de Samsung se ajustaría automáticamente al tamaño de tus dedos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/proximo-anillo-inteligente-samsung-ajustaria-automaticamente-tamano-dedos-1414392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/anillo-inteligente-4254119.jpg?tf=1200x' alt='El próximo anillo inteligente de Samsung se ajustaría automáticamente al tamaño de tus dedos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/hacen-tan-bien-cunado-caeria-policia-nacional-alerta-ultima-estafa-bancaria-1414391'>“Lo hacen tan bien que hasta tu cuñado caería", la Policía Nacional alerta sobre la última estafa bancaria</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/hacen-tan-bien-cunado-caeria-policia-nacional-alerta-ultima-estafa-bancaria-1414391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafa-calle-4254116.jpg?tf=1200x' alt='“Lo hacen tan bien que hasta tu cuñado caería", la Policía Nacional alerta sobre la última estafa bancaria' />
     </a>
 </div>
 
