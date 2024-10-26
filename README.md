@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ilia-topuria-vs-holloway-hora-espana-canal-tv-como-ver-online-directo-gratis-1413752'>Ilia Topuria vs. Holloway: hora en España, canal de TV y cómo ver online en directo la UFC</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ilia-topuria-vs-holloway-hora-espana-canal-tv-como-ver-online-directo-gratis-1413752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ilia-topuria-vs-holloway-hora-espana-canal-tv-como-ver-online-directo-ufc-4253113.jpg?tf=1200x' alt='Ilia Topuria vs. Holloway: hora en España, canal de TV y cómo ver online en directo la UFC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/noticias/truco-whatsapp-chatgpt-saber-conversacion-toxica-1414155'>El truco de WhatsApp y ChatGPT para saber si una conversación es tóxica</a></h4>
     <a href='https://computerhoy.20minutos.es/noticias/truco-whatsapp-chatgpt-saber-conversacion-toxica-1414155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/truco-whatsapp-chatgpt-saber-conversacion-toxica-4253712.jpg?tf=1200x' alt='El truco de WhatsApp y ChatGPT para saber si una conversación es tóxica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/energia/turbinas-eolicas-jubiladas-ya-venden-como-casas-baratas-1414409'>El sorprendente uso de las turbinas eólicas jubiladas: ya se venden como casas baratas</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/turbinas-eolicas-jubiladas-ya-venden-como-casas-baratas-1414409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sorprendente-uso-turbinas-eolicas-jubiladas-ya-venden-como-casas-baratas-4254142.jpg?tf=1200x' alt='El sorprendente uso de las turbinas eólicas jubiladas: ya se venden como casas baratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/dormiras-hora-cambio-hora-sentimos-probablemente-no-1414395'>¿Dormirás una hora más por el cambio de hora? Lo sentimos, probablemente no</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/dormiras-hora-cambio-hora-sentimos-probablemente-no-1414395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dormir-mal-4254124.jpg?tf=1200x' alt='¿Dormirás una hora más por el cambio de hora? Lo sentimos, probablemente no' />
     </a>
 </div>
 
