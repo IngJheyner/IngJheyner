@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ilia-topuria-vs-holloway-hora-espana-canal-tv-como-ver-online-directo-gratis-1413752'>Ilia Topuria vs. Holloway: hora en España, canal de TV y cómo ver online en directo la UFC</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ilia-topuria-vs-holloway-hora-espana-canal-tv-como-ver-online-directo-gratis-1413752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ilia-topuria-vs-holloway-hora-espana-canal-tv-como-ver-online-directo-ufc-4253113.jpg?tf=1200x' alt='Ilia Topuria vs. Holloway: hora en España, canal de TV y cómo ver online en directo la UFC' />
+    <h4><a href='https://computerhoy.20minutos.es/life/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-1412214'>El cambio de hora no abandona la polémica: un nuevo país lo va a eliminar</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-1412214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-4250357.jpg?tf=1200x' alt='El cambio de hora no abandona la polémica: un nuevo país lo va a eliminar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/noticias/truco-whatsapp-chatgpt-saber-conversacion-toxica-1414155'>El truco de WhatsApp y ChatGPT para saber si una conversación es tóxica</a></h4>
-    <a href='https://computerhoy.20minutos.es/noticias/truco-whatsapp-chatgpt-saber-conversacion-toxica-1414155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/truco-whatsapp-chatgpt-saber-conversacion-toxica-4253712.jpg?tf=1200x' alt='El truco de WhatsApp y ChatGPT para saber si una conversación es tóxica' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-google-chrome-ni-mozilla-firefox-mejor-navegador-tienes-movil-android-1414069'>Ni Google Chrome ni Mozilla Firefox: este es el mejor navegador si tienes un móvil Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/ni-google-chrome-ni-mozilla-firefox-mejor-navegador-tienes-movil-android-1414069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/opera-gx-navegador-ia-4253614.jpg?tf=1200x' alt='Ni Google Chrome ni Mozilla Firefox: este es el mejor navegador si tienes un móvil Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alternativa-favorita-drive-vpn-1389514'>Esta es mi alternativa favorita a Google Drive: va pegada a una VPN y es 100% privada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alternativa-favorita-drive-vpn-1389514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordlocker-nordvpn-3285069.jpg?tf=1200x' alt='Esta es mi alternativa favorita a Google Drive: va pegada a una VPN y es 100% privada' />
+    <h4><a href='https://computerhoy.20minutos.es/hogar/casa-mas-pequena-mundo-video-1414420'>La casa más pequeña del mundo tiene todas las comodidades, no te pierdas el vídeo</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/casa-mas-pequena-mundo-video-1414420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/casa-pequena-mundo-tiene-todas-comodidades-como-ve-video-4254167.jpg?tf=1200x' alt='La casa más pequeña del mundo tiene todas las comodidades, no te pierdas el vídeo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/mejor-cancion-probar-auriculares-1414110'>La mejor canción para probar si unos auriculares son buenos, un experto en HiFi lleva más de 35 años utilizándola</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/mejor-cancion-probar-auriculares-1414110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mejor-cancion-probar-auriculares-son-buenos-experto-hifi-lleva-35-anos-utilizandola-4253674.jpg?tf=1200x' alt='La mejor canción para probar si unos auriculares son buenos, un experto en HiFi lleva más de 35 años utilizándola' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/he-puesto-prueba-intel-core-ultra-7-258v-me-ha-hecho-ver-potencia-no-todo-procesador-1414044'>He puesto a prueba el Intel Core Ultra 7 258V y me ha hecho ver que la potencia no lo es todo en un procesador</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/he-puesto-prueba-intel-core-ultra-7-258v-me-ha-hecho-ver-potencia-no-todo-procesador-1414044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/intel-core-ultra-7-258v-asus-zenbook-s-14-4253558.jpg?tf=1200x' alt='He puesto a prueba el Intel Core Ultra 7 258V y me ha hecho ver que la potencia no lo es todo en un procesador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/turbinas-eolicas-jubiladas-ya-venden-como-casas-baratas-1414409'>El sorprendente uso de las turbinas eólicas jubiladas: ya se venden como casas baratas</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/turbinas-eolicas-jubiladas-ya-venden-como-casas-baratas-1414409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sorprendente-uso-turbinas-eolicas-jubiladas-ya-venden-como-casas-baratas-4254142.jpg?tf=1200x' alt='El sorprendente uso de las turbinas eólicas jubiladas: ya se venden como casas baratas' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/cara-oscura-realidad-contenido-redes-sociales-1412421'>La cara oscura del like y la realidad tras el contenido en redes sociales</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/cara-oscura-realidad-contenido-redes-sociales-1412421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cara-oscura-redes-sociales-4253552.jpg?tf=1200x' alt='La cara oscura del like y la realidad tras el contenido en redes sociales' />
     </a>
 </div>
 
