@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-usara-administrador-contrasenas-predeterminado-android-facilitarte-tarea-1414466'>Chrome usará el administrador de contraseñas predeterminado de Android para facilitarte una tarea</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chrome-usara-administrador-contrasenas-predeterminado-android-facilitarte-tarea-1414466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/administrador-contrasenas-android-4254240.jpg?tf=1200x' alt='Chrome usará el administrador de contraseñas predeterminado de Android para facilitarte una tarea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/estos-auriculares-bluetooth-xiaomi-anc-son-mejorcito-cuestan-poco-10-euros-1414381'>Estos auriculares bluetooth de Xiaomi con ANC son de lo mejorcito, y cuestan poco más de 10 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/estos-auriculares-bluetooth-xiaomi-anc-son-mejorcito-cuestan-poco-10-euros-1414381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/redmi-buds-4-active-4254076.jpg?tf=1200x' alt='Estos auriculares bluetooth de Xiaomi con ANC son de lo mejorcito, y cuestan poco más de 10 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/usuarios-pie-guerra-piden-google-maps-elimine-nueva-funcion-1414461'>Usuarios en pie de guerra: piden que Google Maps elimine esta nueva función</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/usuarios-pie-guerra-piden-google-maps-elimine-nueva-funcion-1414461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-4254235.jpg?tf=1200x' alt='Usuarios en pie de guerra: piden que Google Maps elimine esta nueva función' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/google-inspirara-dynamic-island-iphone-nuevo-sistema-notificaciones-android-16-1414451'>Google se inspirará en Dynamic Island del iPhone para su nuevo sistema de notificaciones en Android 16</a></h4>
     <a href='https://computerhoy.20minutos.es/android/google-inspirara-dynamic-island-iphone-nuevo-sistema-notificaciones-android-16-1414451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/trucos-dynamic-island-2873373.jpg?tf=1200x' alt='Google se inspirará en Dynamic Island del iPhone para su nuevo sistema de notificaciones en Android 16' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-prueba-secreto-app-control-glucosa-sangre-podria-verse-futuro-apple-watch-1414442'>Apple prueba en secreto una app para el control de la glucosa en sangre que podría verse en un futuro Apple Watch</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-prueba-secreto-app-control-glucosa-sangre-podria-verse-futuro-apple-watch-1414442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-watch-series-4120088.jpg?tf=1200x' alt='Apple prueba en secreto una app para el control de la glucosa en sangre que podría verse en un futuro Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aun-no-tienes-air-fryer-ya-no-tienes-excusa-air-fryer-xiaomi-baja-menos-50-euros-1414281'>Si aún no tienes air fryer, ya no tienes excusa: la air fryer de Xiaomi baja a menos de 50 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/aun-no-tienes-air-fryer-ya-no-tienes-excusa-air-fryer-xiaomi-baja-menos-50-euros-1414281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-smart-air-fryer-pro-4l-4253913.jpg?tf=1200x' alt='Si aún no tienes air fryer, ya no tienes excusa: la air fryer de Xiaomi baja a menos de 50 euros' />
     </a>
 </div>
 
