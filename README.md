@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-8-cumple-12-anos-historia-terror-halloween-1414421'>Windows 8 cumple 12 años: una historia de terror en Halloween</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-8-cumple-12-anos-historia-terror-halloween-1414421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-8-cumple-12-anos-historia-terror-halloween-4254172.jpg?tf=1200x' alt='Windows 8 cumple 12 años: una historia de terror en Halloween' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-1412214'>El cambio de hora no abandona la polémica: un nuevo país lo va a eliminar</a></h4>
     <a href='https://computerhoy.20minutos.es/life/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-1412214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cambio-hora-no-abandona-polemica-nuevo-pais-va-eliminar-4250357.jpg?tf=1200x' alt='El cambio de hora no abandona la polémica: un nuevo país lo va a eliminar' />
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/casa-mas-pequena-mundo-video-1414420'>La casa más pequeña del mundo tiene todas las comodidades, no te pierdas el vídeo</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/hogar/casa-mas-pequena-mundo-video-1414420'>La casa más pequeña del mundo tiene todas las comodidades: no te pierdas el vídeo</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/casa-mas-pequena-mundo-video-1414420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/casa-pequena-mundo-tiene-todas-comodidades-como-ve-video-4254167.jpg?tf=1200x' alt='La casa más pequeña del mundo tiene todas las comodidades, no te pierdas el vídeo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/casa-pequena-mundo-tiene-todas-comodidades-como-ve-video-4254167.jpg?tf=1200x' alt='La casa más pequeña del mundo tiene todas las comodidades: no te pierdas el vídeo' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/he-puesto-prueba-intel-core-ultra-7-258v-me-ha-hecho-ver-potencia-no-todo-procesador-1414044'>He puesto a prueba el Intel Core Ultra 7 258V y me ha hecho ver que la potencia no lo es todo en un procesador</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/he-puesto-prueba-intel-core-ultra-7-258v-me-ha-hecho-ver-potencia-no-todo-procesador-1414044' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/intel-core-ultra-7-258v-asus-zenbook-s-14-4253558.jpg?tf=1200x' alt='He puesto a prueba el Intel Core Ultra 7 258V y me ha hecho ver que la potencia no lo es todo en un procesador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/cara-oscura-realidad-contenido-redes-sociales-1412421'>La cara oscura del like y la realidad tras el contenido en redes sociales</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/cara-oscura-realidad-contenido-redes-sociales-1412421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cara-oscura-redes-sociales-4253552.jpg?tf=1200x' alt='La cara oscura del like y la realidad tras el contenido en redes sociales' />
     </a>
 </div>
 
