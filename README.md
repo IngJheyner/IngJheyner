@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/traductor-google-android-actualiza-traduccion-instantanea-incluye-util-caracteristica-1414488'>El traductor de Google para Android actualiza la traducción instantánea e incluye está útil característica</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/traductor-google-android-actualiza-traduccion-instantanea-incluye-util-caracteristica-1414488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/traductor-google-4254290.jpg?tf=1200x' alt='El traductor de Google para Android actualiza la traducción instantánea e incluye está útil característica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/maquinas-virtuales-windows-11-microsoft-desactiva-fecha-regreso-1414484'>Máquinas virtuales de Windows 11: Microsoft las desactiva sin fecha de regreso</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/maquinas-virtuales-windows-11-microsoft-desactiva-fecha-regreso-1414484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/maquinas-virtuales-windows-11-3719224.jpg?tf=1200x' alt='Máquinas virtuales de Windows 11: Microsoft las desactiva sin fecha de regreso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/usuarios-pie-guerra-piden-google-maps-elimine-nueva-funcion-1414461'>Usuarios en pie de guerra: piden que Google Maps elimine esta nueva función</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/usuarios-pie-guerra-piden-google-maps-elimine-nueva-funcion-1414461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-4254235.jpg?tf=1200x' alt='Usuarios en pie de guerra: piden que Google Maps elimine esta nueva función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ahora-facil-nunca-unirte-canales-whatsapp-escaneando-codigo-qr-1414457'>Ahora es más fácil que nunca unirte a los canales de WhatsApp: escaneando un código QR</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ahora-facil-nunca-unirte-canales-whatsapp-escaneando-codigo-qr-1414457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-canales-4254233.jpg?tf=1200x' alt='Ahora es más fácil que nunca unirte a los canales de WhatsApp: escaneando un código QR' />
     </a>
 </div>
 
