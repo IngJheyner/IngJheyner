@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/usuarios-pie-guerra-piden-google-maps-elimine-nueva-funcion-1414461'>Usuarios en pie de guerra: piden que Google Maps elimine esta nueva función</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/usuarios-pie-guerra-piden-google-maps-elimine-nueva-funcion-1414461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-4254235.jpg?tf=1200x' alt='Usuarios en pie de guerra: piden que Google Maps elimine esta nueva función' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/ahora-facil-nunca-unirte-canales-whatsapp-escaneando-codigo-qr-1414457'>Ahora es más fácil que nunca unirte a los canales de WhatsApp: escaneando un código QR</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ahora-facil-nunca-unirte-canales-whatsapp-escaneando-codigo-qr-1414457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-canales-4254233.jpg?tf=1200x' alt='Ahora es más fácil que nunca unirte a los canales de WhatsApp: escaneando un código QR' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/aun-no-tienes-air-fryer-ya-no-tienes-excusa-air-fryer-xiaomi-baja-menos-50-euros-1414281'>Si aún no tienes air fryer, ya no tienes excusa: la air fryer de Xiaomi baja a menos de 50 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/aun-no-tienes-air-fryer-ya-no-tienes-excusa-air-fryer-xiaomi-baja-menos-50-euros-1414281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-smart-air-fryer-pro-4l-4253913.jpg?tf=1200x' alt='Si aún no tienes air fryer, ya no tienes excusa: la air fryer de Xiaomi baja a menos de 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/vpn-regala-cuatro-meses-gratis-nuevos-usuarios-ha-rebajado-precio-87-1414368'>Esta VPN regala cuatro meses gratis a nuevos usuarios, y ha rebajado su precio en un 87%</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/vpn-regala-cuatro-meses-gratis-nuevos-usuarios-ha-rebajado-precio-87-1414368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/surfshark-android-3278912.jpg?tf=1200x' alt='Esta VPN regala cuatro meses gratis a nuevos usuarios, y ha rebajado su precio en un 87%' />
     </a>
 </div>
 
