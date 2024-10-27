@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/murcielago-sensor-movimiento-halloween-raspberry-pi-1414590'>El murciélago que vuela cuando alguien se acerca, el proyecto tipo Raspberry Pi ideal para Halloween</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/murcielago-sensor-movimiento-halloween-raspberry-pi-1414590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/murcielago-vuela-cuando-alguien-acerca-ideal-halloween-gracias-raspberry-pi-4254413.jpg?tf=1200x' alt='El murciélago que vuela cuando alguien se acerca, el proyecto tipo Raspberry Pi ideal para Halloween' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/la-que-se-avecina-renueva-dos-temporadas-1414585'>La serie más querida de España renueva por dos temporadas más, dos décadas en antena</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/la-que-se-avecina-renueva-dos-temporadas-1414585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/serie-querida-espana-renueva-dos-temporadas-4254406.jpg?tf=1200x' alt='La serie más querida de España renueva por dos temporadas más, dos décadas en antena' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-partida-diablo-iv-ingeniero-spacex-1414568'>Elon Musk juega a Diablo IV, y se escucha a un ingeniero de SpaceX diciendo que Starship estuvo a un segundo de estrellarse</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-partida-diablo-iv-ingeniero-spacex-1414568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/elon-musk-retransmite-partida-diablo-iv-escucha-ingeniero-spacex-diciendo-startship-punto-estrellarse-4254374.jpg?tf=1200x' alt='Elon Musk juega a Diablo IV, y se escucha a un ingeniero de SpaceX diciendo que Starship estuvo a un segundo de estrellarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-renueva-funciones-inteligencia-artificial-chrome-todo-nuevo-hara-navegador-ti-1414552'>Google renueva las funciones de inteligencia artificial en Chrome: todo lo nuevo que hará el navegador por ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-renueva-funciones-inteligencia-artificial-chrome-todo-nuevo-hara-navegador-ti-1414552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-chrome-4254360.jpg?tf=1200x' alt='Google renueva las funciones de inteligencia artificial en Chrome: todo lo nuevo que hará el navegador por ti' />
     </a>
 </div>
 
