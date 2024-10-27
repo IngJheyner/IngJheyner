@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-renueva-funciones-inteligencia-artificial-chrome-todo-nuevo-hara-navegador-ti-1414552'>Google renueva las funciones de inteligencia artificial en Chrome: todo lo nuevo que hará el navegador por ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-renueva-funciones-inteligencia-artificial-chrome-todo-nuevo-hara-navegador-ti-1414552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-chrome-4254360.jpg?tf=1200x' alt='Google renueva las funciones de inteligencia artificial en Chrome: todo lo nuevo que hará el navegador por ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-mejora-autonomia-bateria-ordenador-modo-espera-actualizacion-1414549'>Microsoft mejora la autonomía de la batería en tu ordenador en modo de espera con esta actualización</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-mejora-autonomia-bateria-ordenador-modo-espera-actualizacion-1414549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bateria-windows-11-4254356.jpg?tf=1200x' alt='Microsoft mejora la autonomía de la batería en tu ordenador en modo de espera con esta actualización' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/audio/estos-auriculares-bluetooth-marshall-son-originales-baratos-puedes-comprar-1414510'>Estos auriculares bluetooth de Marshall son de los más originales (y baratos) que puedes comprar</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/estos-auriculares-bluetooth-marshall-son-originales-baratos-puedes-comprar-1414510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/auriculares-marshall-4254324.jpg?tf=1200x' alt='Estos auriculares bluetooth de Marshall son de los más originales (y baratos) que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/larga-vida-panel-control-como-agregarlo-menu-contextual-windows-11-1413792'>Larga vida al panel de control: cómo agregarlo al menú contextual en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/larga-vida-panel-control-como-agregarlo-menu-contextual-windows-11-1413792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/larga-vida-panel-control-como-agregarlo-menu-contextual-windows-11-4253159.jpg?tf=1200x' alt='Larga vida al panel de control: cómo agregarlo al menú contextual en Windows 11' />
     </a>
 </div>
 
