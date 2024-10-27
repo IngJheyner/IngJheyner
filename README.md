@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/motorola-apuros-xiaomi-movil-barato-potente-1283310'>Este Motorola pone en apuros a los Xiaomi: Android puro, 12GB de RAM y superoferta en Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/motorola-apuros-xiaomi-movil-barato-potente-1283310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/motorola-edge-40-neo-3224628.jpg?tf=1200x' alt='Este Motorola pone en apuros a los Xiaomi: Android puro, 12GB de RAM y superoferta en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/noticias/apagon-tdt-2025-dvb-t2-como-saber-televisor-compatible-1414042'>Apagón TDT 2025: qué es DVB-T2 y cómo saber si tu televisor es compatible</a></h4>
+    <a href='https://computerhoy.20minutos.es/noticias/apagon-tdt-2025-dvb-t2-como-saber-televisor-compatible-1414042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apagon-tdt-2025-dvb-t2-como-saber-televisor-compatible-4253532.jpg?tf=1200x' alt='Apagón TDT 2025: qué es DVB-T2 y cómo saber si tu televisor es compatible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/traductor-google-android-actualiza-traduccion-instantanea-incluye-util-caracteristica-1414488'>El traductor de Google para Android actualiza la traducción instantánea e incluye está útil característica</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/traductor-google-android-actualiza-traduccion-instantanea-incluye-util-caracteristica-1414488' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/traductor-google-4254290.jpg?tf=1200x' alt='El traductor de Google para Android actualiza la traducción instantánea e incluye está útil característica' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-usara-administrador-contrasenas-predeterminado-android-facilitarte-tarea-1414466'>Chrome usará el administrador de contraseñas predeterminado de Android para facilitarte una tarea</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chrome-usara-administrador-contrasenas-predeterminado-android-facilitarte-tarea-1414466' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/administrador-contrasenas-android-4254240.jpg?tf=1200x' alt='Chrome usará el administrador de contraseñas predeterminado de Android para facilitarte una tarea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/estos-auriculares-bluetooth-xiaomi-anc-son-mejorcito-cuestan-poco-10-euros-1414381'>Estos auriculares bluetooth de Xiaomi con ANC son de lo mejorcito, y cuestan poco más de 10 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/estos-auriculares-bluetooth-xiaomi-anc-son-mejorcito-cuestan-poco-10-euros-1414381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/redmi-buds-4-active-4254076.jpg?tf=1200x' alt='Estos auriculares bluetooth de Xiaomi con ANC son de lo mejorcito, y cuestan poco más de 10 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/usuarios-pie-guerra-piden-google-maps-elimine-nueva-funcion-1414461'>Usuarios en pie de guerra: piden que Google Maps elimine esta nueva función</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/usuarios-pie-guerra-piden-google-maps-elimine-nueva-funcion-1414461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-4254235.jpg?tf=1200x' alt='Usuarios en pie de guerra: piden que Google Maps elimine esta nueva función' />
     </a>
 </div>
 
