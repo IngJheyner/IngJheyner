@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-partida-diablo-iv-ingeniero-spacex-1414568'>Elon Musk juega a Diablo IV, y se escucha a un ingeniero de SpaceX diciendo que Starship estuvo a un segundo de estrellarse</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-partida-diablo-iv-ingeniero-spacex-1414568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/elon-musk-retransmite-partida-diablo-iv-escucha-ingeniero-spacex-diciendo-startship-punto-estrellarse-4254374.jpg?tf=1200x' alt='Elon Musk juega a Diablo IV, y se escucha a un ingeniero de SpaceX diciendo que Starship estuvo a un segundo de estrellarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-renueva-funciones-inteligencia-artificial-chrome-todo-nuevo-hara-navegador-ti-1414552'>Google renueva las funciones de inteligencia artificial en Chrome: todo lo nuevo que hará el navegador por ti</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-renueva-funciones-inteligencia-artificial-chrome-todo-nuevo-hara-navegador-ti-1414552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-chrome-4254360.jpg?tf=1200x' alt='Google renueva las funciones de inteligencia artificial en Chrome: todo lo nuevo que hará el navegador por ti' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/proxima-ia-google-podra-controlar-pc-todo-podria-hacer-jarvis-chrome-1414545'>La próxima IA de Google podrá controlar tu PC: esto es todo lo que podría hacer Jarvis en Chrome</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/proxima-ia-google-podra-controlar-pc-todo-podria-hacer-jarvis-chrome-1414545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-google-4254351.jpg?tf=1200x' alt='La próxima IA de Google podrá controlar tu PC: esto es todo lo que podría hacer Jarvis en Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/estos-auriculares-bluetooth-marshall-son-originales-baratos-puedes-comprar-1414510'>Estos auriculares bluetooth de Marshall son de los más originales (y baratos) que puedes comprar</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/estos-auriculares-bluetooth-marshall-son-originales-baratos-puedes-comprar-1414510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/auriculares-marshall-4254324.jpg?tf=1200x' alt='Estos auriculares bluetooth de Marshall son de los más originales (y baratos) que puedes comprar' />
     </a>
 </div>
 
