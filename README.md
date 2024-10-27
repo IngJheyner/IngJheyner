@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/la-que-se-avecina-renueva-dos-temporadas-1414585'>La serie más querida de España renueva por dos temporadas más, dos décadas en antena</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/la-que-se-avecina-renueva-dos-temporadas-1414585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/serie-querida-espana-renueva-dos-temporadas-4254406.jpg?tf=1200x' alt='La serie más querida de España renueva por dos temporadas más, dos décadas en antena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/boeing-pensando-vender-division-espacial-desastre-starliner-1414576'>Boeing se está pensando vender su división espacial, tras el desastre del Starliner</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/boeing-pensando-vender-division-espacial-desastre-starliner-1414576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/boeing-pensando-vender-division-espacial-desastre-starliner-4254390.jpg?tf=1200x' alt='Boeing se está pensando vender su división espacial, tras el desastre del Starliner' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-renueva-funciones-inteligencia-artificial-chrome-todo-nuevo-hara-navegador-ti-1414552'>Google renueva las funciones de inteligencia artificial en Chrome: todo lo nuevo que hará el navegador por ti</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-renueva-funciones-inteligencia-artificial-chrome-todo-nuevo-hara-navegador-ti-1414552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-chrome-4254360.jpg?tf=1200x' alt='Google renueva las funciones de inteligencia artificial en Chrome: todo lo nuevo que hará el navegador por ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-mejora-autonomia-bateria-ordenador-modo-espera-actualizacion-1414549'>Microsoft mejora la autonomía de la batería en tu ordenador en modo de espera con esta actualización</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-mejora-autonomia-bateria-ordenador-modo-espera-actualizacion-1414549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bateria-windows-11-4254356.jpg?tf=1200x' alt='Microsoft mejora la autonomía de la batería en tu ordenador en modo de espera con esta actualización' />
     </a>
 </div>
 
