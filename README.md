@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/nuevo-outlook-windows-obtiene-soporte-cuentas-personales-no-sean-microsoft-1414489'>El nuevo Outlook para Windows obtiene soporte para cuentas personales que no sean de Microsoft</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/nuevo-outlook-windows-obtiene-soporte-cuentas-personales-no-sean-microsoft-1414489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/outlook-windows-4254292.jpg?tf=1200x' alt='El nuevo Outlook para Windows obtiene soporte para cuentas personales que no sean de Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-encontrar-hoteles-cercanos-posicion-google-maps-1412059'>Cómo encontrar los hoteles cercanos a tu posición en Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-encontrar-hoteles-cercanos-posicion-google-maps-1412059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hoteles-google-maps-4250105.jpg?tf=1200x' alt='Cómo encontrar los hoteles cercanos a tu posición en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/usos-para-viejo-smartphone-1413167'>Rescata ese móvil del cajón: 13 usos que puedes darle a tu viejo smartphone</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/usos-para-viejo-smartphone-1413167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/impresionado-movil-4251995.jpg?tf=1200x' alt='Rescata ese móvil del cajón: 13 usos que puedes darle a tu viejo smartphone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/cuales-son-ciudades-habitadas-antiguas-mundo-espana-1414507'>Cuáles son las ciudades habitadas más antiguas del mundo y de España</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/cuales-son-ciudades-habitadas-antiguas-mundo-espana-1414507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cuales-son-ciudades-habitadas-antiguas-mundo-espana-4254318.jpg?tf=1200x' alt='Cuáles son las ciudades habitadas más antiguas del mundo y de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/pantalla-estuche-auriculares-uso-util-he-dado-no-piensas-1410487'>¿Una pantalla en el estuche de los auriculares? El uso más útil que le he dado no es el que piensas</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/pantalla-estuche-auriculares-uso-util-he-dado-no-piensas-1410487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/jbl-tour-pro-3-4247399.jpg?tf=1200x' alt='¿Una pantalla en el estuche de los auriculares? El uso más útil que le he dado no es el que piensas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/tecnologia-snap-tap-razer-muchos-consideran-trampas-sector-gaming-1409822'>¿Qué es la tecnología Snap Tap de Razer y por qué muchos lo consideran trampas en el sector gaming?</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/tecnologia-snap-tap-razer-muchos-consideran-trampas-sector-gaming-1409822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/huntsman-v3-pro-tenkeyless-3833149.jpg?tf=1200x' alt='¿Qué es la tecnología Snap Tap de Razer y por qué muchos lo consideran trampas en el sector gaming?' />
     </a>
 </div>
 
