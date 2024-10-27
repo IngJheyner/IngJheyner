@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/chatgpt-toma-control-siri-iphone-comienza-nueva-era-1414573'>ChatGPT toma el control de Siri en el iPhone, comienza una nueva era</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/chatgpt-toma-control-siri-iphone-comienza-nueva-era-1414573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/7-cosas-puedes-hacer-siri-3112980.jpg?tf=1200x' alt='ChatGPT toma el control de Siri en el iPhone, comienza una nueva era' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-partida-diablo-iv-ingeniero-spacex-1414568'>Elon Musk juega a Diablo IV, y se escucha a un ingeniero de SpaceX diciendo que Starship estuvo a un segundo de estrellarse</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-partida-diablo-iv-ingeniero-spacex-1414568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/elon-musk-retransmite-partida-diablo-iv-escucha-ingeniero-spacex-diciendo-startship-punto-estrellarse-4254374.jpg?tf=1200x' alt='Elon Musk juega a Diablo IV, y se escucha a un ingeniero de SpaceX diciendo que Starship estuvo a un segundo de estrellarse' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-te-permitira-crear-compartir-paquetes-stickers-contactos-1414547'>WhatsApp te permitirá crear y compartir paquetes de stickers con tus contactos</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-te-permitira-crear-compartir-paquetes-stickers-contactos-1414547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-4254354.jpg?tf=1200x' alt='WhatsApp te permitirá crear y compartir paquetes de stickers con tus contactos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/proxima-ia-google-podra-controlar-pc-todo-podria-hacer-jarvis-chrome-1414545'>La próxima IA de Google podrá controlar tu PC: esto es todo lo que podría hacer Jarvis en Chrome</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/proxima-ia-google-podra-controlar-pc-todo-podria-hacer-jarvis-chrome-1414545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-google-4254351.jpg?tf=1200x' alt='La próxima IA de Google podrá controlar tu PC: esto es todo lo que podría hacer Jarvis en Chrome' />
     </a>
 </div>
 
