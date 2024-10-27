@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/expertos-avisan-calentamiento-global-sera-mucho-peor-previsto-1414485'>Expertos avisan: el calentamiento global será mucho peor de lo previsto</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/expertos-avisan-calentamiento-global-sera-mucho-peor-previsto-1414485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/calentamiento-global-4254287.jpg?tf=1200x' alt='Expertos avisan: el calentamiento global será mucho peor de lo previsto' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-podria-estar-trabajando-propia-plataforma-streaming-musica-1414487'>Microsoft podría estar trabajando en su propia plataforma de streaming de música</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-podria-estar-trabajando-propia-plataforma-streaming-musica-1414487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/musica-streaming-microsoft-4254289.jpg?tf=1200x' alt='Microsoft podría estar trabajando en su propia plataforma de streaming de música' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/anuncios-ves-tv-estuviesen-hechos-medida-va-ser-posible-gracias-ia-1413415'>¿Y si los anuncios que ves en la TV estuviesen hechos a medida? Esto va a ser posible gracias a la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/anuncios-ves-tv-estuviesen-hechos-medida-va-ser-posible-gracias-ia-1413415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/publicidad-tv-4253763.jpg?tf=1200x' alt='¿Y si los anuncios que ves en la TV estuviesen hechos a medida? Esto va a ser posible gracias a la IA' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cuales-son-ciudades-habitadas-antiguas-mundo-espana-1414507'>Cuáles son las ciudades habitadas más antiguas del mundo y de España</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cuales-son-ciudades-habitadas-antiguas-mundo-espana-1414507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cuales-son-ciudades-habitadas-antiguas-mundo-espana-4254318.jpg?tf=1200x' alt='Cuáles son las ciudades habitadas más antiguas del mundo y de España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/descubri-truco-dos-dedos-mi-samsung-galaxy-no-puedo-parar-utilizarlo-1414159'>Desde que descubrí el truco de los dos dedos de mi Samsung Galaxy no puedo parar de utilizarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/descubri-truco-dos-dedos-mi-samsung-galaxy-no-puedo-parar-utilizarlo-1414159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/descubri-truco-dos-dedos-mi-samsung-galaxy-no-puedo-parar-utilizarlo-4253720.jpg?tf=1200x' alt='Desde que descubrí el truco de los dos dedos de mi Samsung Galaxy no puedo parar de utilizarlo' />
+    <h4><a href='https://computerhoy.20minutos.es/audio/pantalla-estuche-auriculares-uso-util-he-dado-no-piensas-1410487'>¿Una pantalla en el estuche de los auriculares? El uso más útil que le he dado no es el que piensas</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/pantalla-estuche-auriculares-uso-util-he-dado-no-piensas-1410487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/jbl-tour-pro-3-4247399.jpg?tf=1200x' alt='¿Una pantalla en el estuche de los auriculares? El uso más útil que le he dado no es el que piensas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/codigo-te-permite-comprobar-han-accedido-app-movil-permiso-1414146'>Este código te permite comprobar si han accedido a una app de tu móvil sin tu permiso</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/codigo-te-permite-comprobar-han-accedido-app-movil-permiso-1414146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/codigo-te-permite-comprobar-han-accedido-app-movil-permiso-4253697.jpg?tf=1200x' alt='Este código te permite comprobar si han accedido a una app de tu móvil sin tu permiso' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/tecnologia-snap-tap-razer-muchos-consideran-trampas-sector-gaming-1409822'>¿Qué es la tecnología Snap Tap de Razer y por qué muchos lo consideran trampas en el sector gaming?</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/tecnologia-snap-tap-razer-muchos-consideran-trampas-sector-gaming-1409822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/huntsman-v3-pro-tenkeyless-3833149.jpg?tf=1200x' alt='¿Qué es la tecnología Snap Tap de Razer y por qué muchos lo consideran trampas en el sector gaming?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/motorola-apuros-xiaomi-movil-barato-potente-1283310'>Este Motorola pone en apuros a los Xiaomi: Android puro, 12GB de RAM y superoferta en Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/motorola-apuros-xiaomi-movil-barato-potente-1283310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/motorola-edge-40-neo-3224628.jpg?tf=1200x' alt='Este Motorola pone en apuros a los Xiaomi: Android puro, 12GB de RAM y superoferta en Amazon' />
+    <h4><a href='https://computerhoy.20minutos.es/analisis/sony-inzone-m10s-monitor-gaming-vanguardista-he-probado-te-permite-jugar-480-hz-1412092'>El Sony INZONE M10S es el monitor gaming más vanguardista que he probado, y te permite jugar a 480 Hz</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/sony-inzone-m10s-monitor-gaming-vanguardista-he-probado-te-permite-jugar-480-hz-1412092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sony-inzone-m10s-4250258.jpg?tf=1200x' alt='El Sony INZONE M10S es el monitor gaming más vanguardista que he probado, y te permite jugar a 480 Hz' />
     </a>
 </div>
 
