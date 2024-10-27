@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-mejora-autonomia-bateria-ordenador-modo-espera-actualizacion-1414549'>Microsoft mejora la autonomía de la batería en tu ordenador en modo de espera con esta actualización</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-mejora-autonomia-bateria-ordenador-modo-espera-actualizacion-1414549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bateria-windows-11-4254356.jpg?tf=1200x' alt='Microsoft mejora la autonomía de la batería en tu ordenador en modo de espera con esta actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-te-permitira-crear-compartir-paquetes-stickers-contactos-1414547'>WhatsApp te permitirá crear y compartir paquetes de stickers con tus contactos</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-te-permitira-crear-compartir-paquetes-stickers-contactos-1414547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-4254354.jpg?tf=1200x' alt='WhatsApp te permitirá crear y compartir paquetes de stickers con tus contactos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/larga-vida-panel-control-como-agregarlo-menu-contextual-windows-11-1413792'>Larga vida al panel de control: cómo agregarlo al menú contextual en Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/larga-vida-panel-control-como-agregarlo-menu-contextual-windows-11-1413792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/larga-vida-panel-control-como-agregarlo-menu-contextual-windows-11-4253159.jpg?tf=1200x' alt='Larga vida al panel de control: cómo agregarlo al menú contextual en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/nuevo-outlook-windows-obtiene-soporte-cuentas-personales-no-sean-microsoft-1414489'>El nuevo Outlook para Windows obtiene soporte para cuentas personales que no sean de Microsoft</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/nuevo-outlook-windows-obtiene-soporte-cuentas-personales-no-sean-microsoft-1414489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/outlook-windows-4254292.jpg?tf=1200x' alt='El nuevo Outlook para Windows obtiene soporte para cuentas personales que no sean de Microsoft' />
     </a>
 </div>
 
