@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/estos-auriculares-bluetooth-marshall-son-originales-baratos-puedes-comprar-1414510'>Estos auriculares bluetooth de Marshall son de los más originales (y baratos) que puedes comprar</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/estos-auriculares-bluetooth-marshall-son-originales-baratos-puedes-comprar-1414510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/auriculares-marshall-4254324.jpg?tf=1200x' alt='Estos auriculares bluetooth de Marshall son de los más originales (y baratos) que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/larga-vida-panel-control-como-agregarlo-menu-contextual-windows-11-1413792'>Larga vida al panel de control: cómo agregarlo al menú contextual en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/larga-vida-panel-control-como-agregarlo-menu-contextual-windows-11-1413792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/larga-vida-panel-control-como-agregarlo-menu-contextual-windows-11-4253159.jpg?tf=1200x' alt='Larga vida al panel de control: cómo agregarlo al menú contextual en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/nuevo-outlook-windows-obtiene-soporte-cuentas-personales-no-sean-microsoft-1414489'>El nuevo Outlook para Windows obtiene soporte para cuentas personales que no sean de Microsoft</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/nuevo-outlook-windows-obtiene-soporte-cuentas-personales-no-sean-microsoft-1414489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/outlook-windows-4254292.jpg?tf=1200x' alt='El nuevo Outlook para Windows obtiene soporte para cuentas personales que no sean de Microsoft' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/usos-para-viejo-smartphone-1413167'>Rescata ese móvil del cajón: 13 usos que puedes darle a tu viejo smartphone</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/usos-para-viejo-smartphone-1413167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/impresionado-movil-4251995.jpg?tf=1200x' alt='Rescata ese móvil del cajón: 13 usos que puedes darle a tu viejo smartphone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-podria-estar-trabajando-propia-plataforma-streaming-musica-1414487'>Microsoft podría estar trabajando en su propia plataforma de streaming de música</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-podria-estar-trabajando-propia-plataforma-streaming-musica-1414487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/musica-streaming-microsoft-4254289.jpg?tf=1200x' alt='Microsoft podría estar trabajando en su propia plataforma de streaming de música' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cuales-son-ciudades-habitadas-antiguas-mundo-espana-1414507'>Cuáles son las ciudades habitadas más antiguas del mundo y de España</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cuales-son-ciudades-habitadas-antiguas-mundo-espana-1414507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cuales-son-ciudades-habitadas-antiguas-mundo-espana-4254318.jpg?tf=1200x' alt='Cuáles son las ciudades habitadas más antiguas del mundo y de España' />
     </a>
 </div>
 
