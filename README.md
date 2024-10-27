@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/usos-para-viejo-smartphone-1413167'>Rescata ese móvil del cajón: 13 usos que puedes darle a tu viejo smartphone</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/usos-para-viejo-smartphone-1413167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/impresionado-movil-4251995.jpg?tf=1200x' alt='Rescata ese móvil del cajón: 13 usos que puedes darle a tu viejo smartphone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-podria-estar-trabajando-propia-plataforma-streaming-musica-1414487'>Microsoft podría estar trabajando en su propia plataforma de streaming de música</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-podria-estar-trabajando-propia-plataforma-streaming-musica-1414487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/musica-streaming-microsoft-4254289.jpg?tf=1200x' alt='Microsoft podría estar trabajando en su propia plataforma de streaming de música' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/tecnologia-snap-tap-razer-muchos-consideran-trampas-sector-gaming-1409822'>¿Qué es la tecnología Snap Tap de Razer y por qué muchos lo consideran trampas en el sector gaming?</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/tecnologia-snap-tap-razer-muchos-consideran-trampas-sector-gaming-1409822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/huntsman-v3-pro-tenkeyless-3833149.jpg?tf=1200x' alt='¿Qué es la tecnología Snap Tap de Razer y por qué muchos lo consideran trampas en el sector gaming?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/sony-inzone-m10s-monitor-gaming-vanguardista-he-probado-te-permite-jugar-480-hz-1412092'>El Sony INZONE M10S es el monitor gaming más vanguardista que he probado, y te permite jugar a 480 Hz</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/sony-inzone-m10s-monitor-gaming-vanguardista-he-probado-te-permite-jugar-480-hz-1412092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sony-inzone-m10s-4250258.jpg?tf=1200x' alt='El Sony INZONE M10S es el monitor gaming más vanguardista que he probado, y te permite jugar a 480 Hz' />
     </a>
 </div>
 
