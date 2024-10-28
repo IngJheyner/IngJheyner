@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/superconductividad-temperatura-ambiente-cerca-nunca-1414696'>La superconductividad a temperatura ambiente más cerca que nunca</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/superconductividad-temperatura-ambiente-cerca-nunca-1414696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/superconductividad-temperatura-ambiente-cerca-nunca-4254576.jpg?tf=1200x' alt='La superconductividad a temperatura ambiente más cerca que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/skyshowtime-lanza-plan-premium-oferta-50-descuento-siempre-1414705'>SkyShowtime lanza un plan Prémium con una oferta del 50% de descuento para siempre</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/skyshowtime-lanza-plan-premium-oferta-50-descuento-siempre-1414705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/skyshowtime-plan-premium-4254548.jpg?tf=1200x' alt='SkyShowtime lanza un plan Prémium con una oferta del 50% de descuento para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/pierde-cientos-euros-juegos-ps4-dejarlos-junto-estufa-redes-no-tienen-piedad-1414683'>Pierde cientos de euros en juegos de PS4 por dejarlos junto a una estufa y las redes no tienen piedad con él</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/pierde-cientos-euros-juegos-ps4-dejarlos-junto-estufa-redes-no-tienen-piedad-1414683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pierde-cientos-euros-juegos-ps4-dejarlos-junto-estufa-redes-no-tienen-piedad-4254553.jpg?tf=1200x' alt='Pierde cientos de euros en juegos de PS4 por dejarlos junto a una estufa y las redes no tienen piedad con él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/kit-ia-raspberry-pi-1414704'>¿Qué es un kit de IA para Raspberry Pi?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/kit-ia-raspberry-pi-1414704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kit-ia-raspberry-pi-4254509.jpg?tf=1200x' alt='¿Qué es un kit de IA para Raspberry Pi?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/alimentacion/mejor-air-fryer-familias-dos-cestas-9-litros-capacidad-precio-minimo-amazon-1414628'>Esta es la mejor air fryer para familias: dos cestas, 9 litros de capacidad y precio mínimo en Amazon</a></h4>
     <a href='https://computerhoy.20minutos.es/alimentacion/mejor-air-fryer-familias-dos-cestas-9-litros-capacidad-precio-minimo-amazon-1414628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/airfryer-cecotec-4254450.jpg?tf=1200x' alt='Esta es la mejor air fryer para familias: dos cestas, 9 litros de capacidad y precio mínimo en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/no-estas-utilizando-estas-funciones-router-wifi-luego-no-te-quejes-conexion-wifi-1414656'>Si no estás utilizando estas funciones de tu router WiFi, luego no te quejes de tu conexión WiFi</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/no-estas-utilizando-estas-funciones-router-wifi-luego-no-te-quejes-conexion-wifi-1414656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/super-router-wifi-4033970.jpg?tf=1200x' alt='Si no estás utilizando estas funciones de tu router WiFi, luego no te quejes de tu conexión WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/instagram-confirma-videos-ven-mal-1414657'>Instagram confirma por qué tus vídeos se ven mal</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/instagram-confirma-videos-ven-mal-1414657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/instagram-confirma-videos-ven-mal-4254492.jpg?tf=1200x' alt='Instagram confirma por qué tus vídeos se ven mal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/expertos-seguridad-recomiendan-desactivar-meta-ia-whatsapp-hace-1414645'>Expertos en seguridad recomiendan desactivar el Meta IA de WhatsApp, así se hace</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/expertos-seguridad-recomiendan-desactivar-meta-ia-whatsapp-hace-1414645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-activar-version-beta-android-meta-ai-whatsapp-3257457.jpg?tf=1200x' alt='Expertos en seguridad recomiendan desactivar el Meta IA de WhatsApp, así se hace' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ipad-hogar-apple-parecera-ordenadores-miticos-pero-peor-vendidos-1414632'>El iPad para el hogar de Apple se parecerá a uno de sus ordenadores más míticos pero peor vendidos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ipad-hogar-apple-parecera-ordenadores-miticos-pero-peor-vendidos-1414632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ipad-hogar-apple-parecera-ordenadores-miticos-pero-peor-vendidos-4254472.jpg?tf=1200x' alt='El iPad para el hogar de Apple se parecerá a uno de sus ordenadores más míticos pero peor vendidos' />
     </a>
 </div>
 
