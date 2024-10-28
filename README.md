@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-recibe-mayores-actualizaciones-canales-gratis-tv-radio-1414848'>TDTChannels recibe una de sus mayores actualizaciones de canales gratis de TV y radio</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tdtchannels-recibe-mayores-actualizaciones-canales-gratis-tv-radio-1414848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-instalar-tdtchannels-anadir-listas-canales-gratis-3275078.jpg?tf=1200x' alt='TDTChannels recibe una de sus mayores actualizaciones de canales gratis de TV y radio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/cientificos-demuestran-cerebro-no-preparado-estar-despierto-despues-medianoche-1414842'>Científicos demuestran que nuestro cerebro no está preparado para estar despierto después de la medianoche</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/cientificos-demuestran-cerebro-no-preparado-estar-despierto-despues-medianoche-1414842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hombre-no-puede-dormir-noche-4254870.jpg?tf=1200x' alt='Científicos demuestran que nuestro cerebro no está preparado para estar despierto después de la medianoche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/bitelchus-bitelchus-cameo-pillo-sorpresa-michael-keaton-principio-no-reconoci-1414334'>Bitelchús Bitelchús: el cameo que pilló por sorpresa hasta a Michael Keaton: “Al principio no lo reconocí”</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/bitelchus-bitelchus-cameo-pillo-sorpresa-michael-keaton-principio-no-reconoci-1414334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bitelchus-bitelchus-3755488.jpg?tf=1200x' alt='Bitelchús Bitelchús: el cameo que pilló por sorpresa hasta a Michael Keaton: “Al principio no lo reconocí”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-4-filtrada-posible-fecha-lanzamiento-nuevo-iphone-barato-especificaciones-precio-1414840'>iPhone SE 4: filtrada la posible fecha de lanzamiento del nuevo iPhone "barato", especificaciones y precio</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-4-filtrada-posible-fecha-lanzamiento-nuevo-iphone-barato-especificaciones-precio-1414840' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656601.jpg?tf=1200x' alt='iPhone SE 4: filtrada la posible fecha de lanzamiento del nuevo iPhone "barato", especificaciones y precio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-pelicula-ciencia-ficcion-scarlett-johansson-1414553'>Ni Ghost in the Shell ni Her: esta es la mejor película de ciencia ficción de Scarlett Johansson según la crítica</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-pelicula-ciencia-ficcion-scarlett-johansson-1414553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-ghost-shell-ni-her-mejor-pelicula-ciencia-ficcion-scarlett-johansson-critica-4254362.jpg?tf=1200x' alt='Ni Ghost in the Shell ni Her: esta es la mejor película de ciencia ficción de Scarlett Johansson según la crítica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/compartir-cuenta-dazn-espana-numero-dispositivos-limitaciones-ver-futbol-f1-1410774'>Compartir cuenta de DAZN en España: número de dispositivos y limitaciones para ver el fútbol y la F1 con una sola cuenta</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/compartir-cuenta-dazn-espana-numero-dispositivos-limitaciones-ver-futbol-f1-1410774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dazn-4247967.jpg?tf=1200x' alt='Compartir cuenta de DAZN en España: número de dispositivos y limitaciones para ver el fútbol y la F1 con una sola cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/balon-oro-2024-donde-ver-online-television-directo-horario-gala-favoritos-1414810'>Balón de Oro 2024: dónde ver online y por televisión en directo, horario de la gala y favoritos</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/balon-oro-2024-donde-ver-online-television-directo-horario-gala-favoritos-1414810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/balon-oro-2024-donde-ver-online-television-directo-horario-gala-favoritos-4254793.jpg?tf=1200x' alt='Balón de Oro 2024: dónde ver online y por televisión en directo, horario de la gala y favoritos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-aplicacion-onlyfans-movil-todo-puedes-ver-ella-1411063'>Cómo instalar la aplicación de OnlyFans en el móvil y todo lo que puedes ver con ella</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-aplicacion-onlyfans-movil-todo-puedes-ver-ella-1411063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-instalar-aplicacion-onlyfans-movil-todo-puedes-ver-ella-4248493.jpg?tf=1200x' alt='Cómo instalar la aplicación de OnlyFans en el móvil y todo lo que puedes ver con ella' />
     </a>
 </div>
 
