@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/he-cambiado-estas-configuraciones-mi-televisor-smart-tv-ahora-vuela-estas-tardando-hacer-mismo-1413772'>He cambiado estas configuraciones en mi televisor Smart TV y ahora vuela, estás tardando en hacer lo mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/he-cambiado-estas-configuraciones-mi-televisor-smart-tv-ahora-vuela-estas-tardando-hacer-mismo-1413772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/he-cambiado-estas-configuraciones-mi-televisor-smart-tv-ahora-vuela-estas-tardando-hacer-mismo-4253146.jpg?tf=1200x' alt='He cambiado estas configuraciones en mi televisor Smart TV y ahora vuela, estás tardando en hacer lo mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-error-precio-pc-windows-11-165-euros-1406648'>No es un error: este PC con Windows cuesta 159 euros y tiene SSD</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/no-error-precio-pc-windows-11-165-euros-1406648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hp-compaq-8300-sff-4240965.jpg?tf=1200x' alt='No es un error: este PC con Windows cuesta 159 euros y tiene SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/kindle-llega-tarde-kobo-libro-color-mas-barato-1411422'>El nuevo Kindle a color llega tarde: Kobo vende un modelo mejor y mucho más barato</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/kindle-llega-tarde-kobo-libro-color-mas-barato-1411422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/kobo-libra-colour-4033130.jpg?tf=1200x' alt='El nuevo Kindle a color llega tarde: Kobo vende un modelo mejor y mucho más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-secadora-ni-tendedero-exterior-boton-secreto-lavadora-deja-ropa-practicamente-seca-1414085'>Ni secadora ni tendedero exterior, el botón secreto de tu lavadora que deja la ropa prácticamente seca</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/ni-secadora-ni-tendedero-exterior-boton-secreto-lavadora-deja-ropa-practicamente-seca-1414085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-secadora-ni-tendedero-exterior-boton-secreto-lavadora-deja-ropa-practicamente-seca-4253613.jpg?tf=1200x' alt='Ni secadora ni tendedero exterior, el botón secreto de tu lavadora que deja la ropa prácticamente seca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/murcielago-sensor-movimiento-halloween-raspberry-pi-1414590'>El murciélago que vuela cuando alguien se acerca, el proyecto tipo Raspberry Pi ideal para Halloween</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/murcielago-sensor-movimiento-halloween-raspberry-pi-1414590' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/murcielago-vuela-cuando-alguien-acerca-ideal-halloween-gracias-raspberry-pi-4254413.jpg?tf=1200x' alt='El murciélago que vuela cuando alguien se acerca, el proyecto tipo Raspberry Pi ideal para Halloween' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/la-que-se-avecina-renueva-dos-temporadas-1414585'>La serie más querida de España renueva por dos temporadas más, dos décadas en antena</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/la-que-se-avecina-renueva-dos-temporadas-1414585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/serie-querida-espana-renueva-dos-temporadas-4254406.jpg?tf=1200x' alt='La serie más querida de España renueva por dos temporadas más, dos décadas en antena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/boeing-pensando-vender-division-espacial-desastre-starliner-1414576'>Boeing se está pensando vender su división espacial, tras el desastre del Starliner</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/boeing-pensando-vender-division-espacial-desastre-starliner-1414576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/boeing-pensando-vender-division-espacial-desastre-starliner-4254390.jpg?tf=1200x' alt='Boeing se está pensando vender su división espacial, tras el desastre del Starliner' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/chatgpt-toma-control-siri-iphone-comienza-nueva-era-1414573'>ChatGPT toma el control de Siri en el iPhone, comienza una nueva era</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/chatgpt-toma-control-siri-iphone-comienza-nueva-era-1414573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/7-cosas-puedes-hacer-siri-3112980.jpg?tf=1200x' alt='ChatGPT toma el control de Siri en el iPhone, comienza una nueva era' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-partida-diablo-iv-ingeniero-spacex-1414568'>Elon Musk juega a Diablo IV, y se escucha a un ingeniero de SpaceX diciendo que Starship estuvo a un segundo de estrellarse</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-partida-diablo-iv-ingeniero-spacex-1414568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/elon-musk-retransmite-partida-diablo-iv-escucha-ingeniero-spacex-diciendo-startship-punto-estrellarse-4254374.jpg?tf=1200x' alt='Elon Musk juega a Diablo IV, y se escucha a un ingeniero de SpaceX diciendo que Starship estuvo a un segundo de estrellarse' />
     </a>
 </div>
 
