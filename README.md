@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-tan-obsesionada-ia-destrozando-todo-demas-1414630'>Google está tan obsesionada con la IA que está destrozando todo lo demás</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-tan-obsesionada-ia-destrozando-todo-demas-1414630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-chrome-4254360.jpg?tf=1200x' alt='Google está tan obsesionada con la IA que está destrozando todo lo demás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/flexipi-raspberry-pi-barata-puedes-doblar-antojo-1414626'>FlexiPi, la Raspberry Pi barata que puedes doblar a tu antojo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/flexipi-raspberry-pi-barata-puedes-doblar-antojo-1414626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/flexipi-4254468.jpg?tf=1200x' alt='FlexiPi, la Raspberry Pi barata que puedes doblar a tu antojo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-xiaomi-smart-band-9-mejora-pero-volverse-premium-1410591'>Lo que más me ha gustado de la Xiaomi Smart Band 9 es que mejora, pero sin volverse premium</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-xiaomi-smart-band-9-mejora-pero-volverse-premium-1410591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-smart-band-9-4247871.jpg?tf=1200x' alt='Lo que más me ha gustado de la Xiaomi Smart Band 9 es que mejora, pero sin volverse premium' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/noticias/whatsapp-silencio-selectivo-desconectar-1413509'>WhatsApp: silencio selectivo, la última tendencia para descansar y desconectar de verdad</a></h4>
     <a href='https://computerhoy.20minutos.es/noticias/whatsapp-silencio-selectivo-desconectar-1413509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-silencio-selectivo-ultima-tendencia-descansar-desconectar-verdad-4252579.jpg?tf=1200x' alt='WhatsApp: silencio selectivo, la última tendencia para descansar y desconectar de verdad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/drive-onedrive-icloud-dropbox-debes-seguir-guardando-archivos-importantes-nube-1412718'>Drive, OneDrive, iCloud, Dropbox y más: ¿debes seguir guardando tus archivos importantes en la nube?</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/drive-onedrive-icloud-dropbox-debes-seguir-guardando-archivos-importantes-nube-1412718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/drive-onedrive-icloud-dropbox-debes-seguir-guardando-archivos-importantes-nube-4251338.jpg?tf=1200x' alt='Drive, OneDrive, iCloud, Dropbox y más: ¿debes seguir guardando tus archivos importantes en la nube?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/he-cambiado-estas-configuraciones-mi-televisor-smart-tv-ahora-vuela-estas-tardando-hacer-mismo-1413772'>He cambiado estas configuraciones en mi televisor Smart TV y ahora vuela, estás tardando en hacer lo mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/he-cambiado-estas-configuraciones-mi-televisor-smart-tv-ahora-vuela-estas-tardando-hacer-mismo-1413772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/he-cambiado-estas-configuraciones-mi-televisor-smart-tv-ahora-vuela-estas-tardando-hacer-mismo-4253146.jpg?tf=1200x' alt='He cambiado estas configuraciones en mi televisor Smart TV y ahora vuela, estás tardando en hacer lo mismo' />
     </a>
 </div>
 
