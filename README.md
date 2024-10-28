@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ipad-hogar-apple-parecera-ordenadores-miticos-pero-peor-vendidos-1414632'>El iPad para el hogar de Apple se parecerá a uno de sus ordenadores más míticos pero peor vendidos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ipad-hogar-apple-parecera-ordenadores-miticos-pero-peor-vendidos-1414632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ipad-hogar-apple-parecera-ordenadores-miticos-pero-peor-vendidos-4254472.jpg?tf=1200x' alt='El iPad para el hogar de Apple se parecerá a uno de sus ordenadores más míticos pero peor vendidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-tan-obsesionada-ia-destrozando-todo-demas-1414630'>Google está tan obsesionada con la IA que está destrozando todo lo demás</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-tan-obsesionada-ia-destrozando-todo-demas-1414630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-chrome-4254360.jpg?tf=1200x' alt='Google está tan obsesionada con la IA que está destrozando todo lo demás' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-tecnologia-haptica-razer-kraken-v4-pro-pero-sorprendente-centro-control-pantalla-oled-1411819'>He probado la tecnología háptica de los Razer Kraken V4 Pro, pero lo más sorprendente es su centro de control con pantalla OLED</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/he-probado-tecnologia-haptica-razer-kraken-v4-pro-pero-sorprendente-centro-control-pantalla-oled-1411819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/razer-kraken-v4-pro-4249822.jpg?tf=1200x' alt='He probado la tecnología háptica de los Razer Kraken V4 Pro, pero lo más sorprendente es su centro de control con pantalla OLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/noticias/whatsapp-silencio-selectivo-desconectar-1413509'>WhatsApp: silencio selectivo, la última tendencia para descansar y desconectar de verdad</a></h4>
-    <a href='https://computerhoy.20minutos.es/noticias/whatsapp-silencio-selectivo-desconectar-1413509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-silencio-selectivo-ultima-tendencia-descansar-desconectar-verdad-4252579.jpg?tf=1200x' alt='WhatsApp: silencio selectivo, la última tendencia para descansar y desconectar de verdad' />
     </a>
 </div>
 
