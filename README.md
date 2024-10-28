@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-menu-inicio-televisor-samsung-tizen-os-arranque-mucho-rapido-1410427'>Cómo desactivar el menú de inicio de tu televisor Samsung con Tizen OS para que arranque mucho más rápido</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-menu-inicio-televisor-samsung-tizen-os-arranque-mucho-rapido-1410427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-desactivar-menu-inicio-televisor-samsung-tizen-os-arranque-mucho-rapido-4247356.jpg?tf=1200x' alt='Cómo desactivar el menú de inicio de tu televisor Samsung con Tizen OS para que arranque mucho más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-intelligence-llega-espana-1414781'>Apple Intelligence llega a España, pero no estará en español y al 100% hasta el año que viene</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-intelligence-llega-espana-1414781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-intelligence-mac-iphone-ipad-4254755.jpg?tf=1200x' alt='Apple Intelligence llega a España, pero no estará en español y al 100% hasta el año que viene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/hdr10-vs-dolby-vision-diferencias-cual-mejor-1410826'>HDR10 vs. Dolby Vision: diferencias y cuál es mejor</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/hdr10-vs-dolby-vision-diferencias-cual-mejor-1410826' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hdr10-vs-dolby-vision-diferencias-cual-mejor-4248080.jpg?tf=1200x' alt='HDR10 vs. Dolby Vision: diferencias y cuál es mejor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/oficial-adios-poner-movil-modo-avion-durante-vuelos-gracias-elon-musk-1414727'>Es oficial: adiós a poner el móvil en modo avión durante los vuelos gracias a Elon Musk</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/oficial-adios-poner-movil-modo-avion-durante-vuelos-gracias-elon-musk-1414727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oficial-adios-poner-movil-modo-avion-durante-vuelos-gracias-elon-musk-4254599.jpg?tf=1200x' alt='Es oficial: adiós a poner el móvil en modo avión durante los vuelos gracias a Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/superconductividad-temperatura-ambiente-cerca-nunca-1414696'>La superconductividad a temperatura ambiente más cerca que nunca</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/superconductividad-temperatura-ambiente-cerca-nunca-1414696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/superconductividad-temperatura-ambiente-cerca-nunca-4254576.jpg?tf=1200x' alt='La superconductividad a temperatura ambiente más cerca que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/skyshowtime-lanza-plan-premium-oferta-50-descuento-siempre-1414705'>SkyShowtime lanza un plan Prémium con una oferta del 50% de descuento para siempre</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/skyshowtime-lanza-plan-premium-oferta-50-descuento-siempre-1414705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/skyshowtime-plan-premium-4254548.jpg?tf=1200x' alt='SkyShowtime lanza un plan Prémium con una oferta del 50% de descuento para siempre' />
     </a>
 </div>
 
