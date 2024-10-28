@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/paso-a-paso/como-recuperar-boton-enter-whatsapp-1414161'>Cómo recuperar el botón Enter de WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/paso-a-paso/como-recuperar-boton-enter-whatsapp-1414161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enter-whatsapp-4253922.jpg?tf=1200x' alt='Cómo recuperar el botón Enter de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/oficial-adios-poner-movil-modo-avion-durante-vuelos-gracias-elon-musk-1414727'>Es oficial: adiós a poner el móvil en modo avión durante los vuelos gracias a Elon Musk</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/oficial-adios-poner-movil-modo-avion-durante-vuelos-gracias-elon-musk-1414727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oficial-adios-poner-movil-modo-avion-durante-vuelos-gracias-elon-musk-4254599.jpg?tf=1200x' alt='Es oficial: adiós a poner el móvil en modo avión durante los vuelos gracias a Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/superconductividad-temperatura-ambiente-cerca-nunca-1414696'>La superconductividad a temperatura ambiente más cerca que nunca</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/superconductividad-temperatura-ambiente-cerca-nunca-1414696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/superconductividad-temperatura-ambiente-cerca-nunca-4254576.jpg?tf=1200x' alt='La superconductividad a temperatura ambiente más cerca que nunca' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/pierde-cientos-euros-juegos-ps4-dejarlos-junto-estufa-redes-no-tienen-piedad-1414683'>Pierde cientos de euros en juegos de PS4 por dejarlos junto a una estufa y las redes no tienen piedad con él</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/pierde-cientos-euros-juegos-ps4-dejarlos-junto-estufa-redes-no-tienen-piedad-1414683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pierde-cientos-euros-juegos-ps4-dejarlos-junto-estufa-redes-no-tienen-piedad-4254553.jpg?tf=1200x' alt='Pierde cientos de euros en juegos de PS4 por dejarlos junto a una estufa y las redes no tienen piedad con él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/kit-ia-raspberry-pi-1414704'>¿Qué es un kit de IA para Raspberry Pi?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/kit-ia-raspberry-pi-1414704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kit-ia-raspberry-pi-4254509.jpg?tf=1200x' alt='¿Qué es un kit de IA para Raspberry Pi?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/alimentacion/mejor-air-fryer-familias-dos-cestas-9-litros-capacidad-precio-minimo-amazon-1414628'>Esta es la mejor air fryer para familias: dos cestas, 9 litros de capacidad y precio mínimo en Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/alimentacion/mejor-air-fryer-familias-dos-cestas-9-litros-capacidad-precio-minimo-amazon-1414628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/airfryer-cecotec-4254450.jpg?tf=1200x' alt='Esta es la mejor air fryer para familias: dos cestas, 9 litros de capacidad y precio mínimo en Amazon' />
     </a>
 </div>
 
