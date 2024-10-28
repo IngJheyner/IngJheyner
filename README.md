@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/no-estas-utilizando-estas-funciones-router-wifi-luego-no-te-quejes-conexion-wifi-1414656'>Si no estás utilizando estas funciones de tu router WiFi, luego no te quejes de tu conexión WiFi</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/no-estas-utilizando-estas-funciones-router-wifi-luego-no-te-quejes-conexion-wifi-1414656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/super-router-wifi-4033970.jpg?tf=1200x' alt='Si no estás utilizando estas funciones de tu router WiFi, luego no te quejes de tu conexión WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/instagram-confirma-videos-ven-mal-1414657'>Instagram confirma por qué tus vídeos se ven mal</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/instagram-confirma-videos-ven-mal-1414657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/instagram-confirma-videos-ven-mal-4254492.jpg?tf=1200x' alt='Instagram confirma por qué tus vídeos se ven mal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/expertos-seguridad-recomiendan-desactivar-meta-ia-whatsapp-hace-1414645'>Expertos en seguridad recomiendan desactivar el Meta IA de WhatsApp, así se hace</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/expertos-seguridad-recomiendan-desactivar-meta-ia-whatsapp-hace-1414645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-activar-version-beta-android-meta-ai-whatsapp-3257457.jpg?tf=1200x' alt='Expertos en seguridad recomiendan desactivar el Meta IA de WhatsApp, así se hace' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/ipad-hogar-apple-parecera-ordenadores-miticos-pero-peor-vendidos-1414632'>El iPad para el hogar de Apple se parecerá a uno de sus ordenadores más míticos pero peor vendidos</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/ipad-hogar-apple-parecera-ordenadores-miticos-pero-peor-vendidos-1414632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ipad-hogar-apple-parecera-ordenadores-miticos-pero-peor-vendidos-4254472.jpg?tf=1200x' alt='El iPad para el hogar de Apple se parecerá a uno de sus ordenadores más míticos pero peor vendidos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/google-tan-obsesionada-ia-destrozando-todo-demas-1414630'>Google está tan obsesionada con la IA que está destrozando todo lo demás</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-tan-obsesionada-ia-destrozando-todo-demas-1414630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-chrome-4254360.jpg?tf=1200x' alt='Google está tan obsesionada con la IA que está destrozando todo lo demás' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/flexipi-raspberry-pi-barata-puedes-doblar-antojo-1414626'>FlexiPi, la Raspberry Pi barata que puedes doblar a tu antojo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/flexipi-raspberry-pi-barata-puedes-doblar-antojo-1414626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/flexipi-4254468.jpg?tf=1200x' alt='FlexiPi, la Raspberry Pi barata que puedes doblar a tu antojo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-xiaomi-smart-band-9-mejora-pero-volverse-premium-1410591'>Lo que más me ha gustado de la Xiaomi Smart Band 9 es que mejora, pero sin volverse premium</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-xiaomi-smart-band-9-mejora-pero-volverse-premium-1410591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-smart-band-9-4247871.jpg?tf=1200x' alt='Lo que más me ha gustado de la Xiaomi Smart Band 9 es que mejora, pero sin volverse premium' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-tecnologia-haptica-razer-kraken-v4-pro-pero-sorprendente-centro-control-pantalla-oled-1411819'>He probado la tecnología háptica de los Razer Kraken V4 Pro, pero lo más sorprendente es su centro de control con pantalla OLED</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-tecnologia-haptica-razer-kraken-v4-pro-pero-sorprendente-centro-control-pantalla-oled-1411819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/razer-kraken-v4-pro-4249822.jpg?tf=1200x' alt='He probado la tecnología háptica de los Razer Kraken V4 Pro, pero lo más sorprendente es su centro de control con pantalla OLED' />
     </a>
 </div>
 
