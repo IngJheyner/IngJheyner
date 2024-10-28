@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-aplicacion-onlyfans-movil-todo-puedes-ver-ella-1411063'>Cómo instalar la aplicación de OnlyFans en el móvil y todo lo que puedes ver con ella</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-aplicacion-onlyfans-movil-todo-puedes-ver-ella-1411063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-instalar-aplicacion-onlyfans-movil-todo-puedes-ver-ella-4248493.jpg?tf=1200x' alt='Cómo instalar la aplicación de OnlyFans en el móvil y todo lo que puedes ver con ella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/mejor-smart-tv-mercado-precio-pantalla-qled-75-miniled-google-tv-11-300-euros-descuento-1414695'>Esta es la mejor Smart TV del mercado por su precio: pantalla QLED de 75", MiniLED, Google TV 11 y 300 euros de descuento</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/mejor-smart-tv-mercado-precio-pantalla-qled-75-miniled-google-tv-11-300-euros-descuento-1414695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tcl-75c805-4254564.jpg?tf=1200x' alt='Esta es la mejor Smart TV del mercado por su precio: pantalla QLED de 75", MiniLED, Google TV 11 y 300 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-imac-m4-apple-intelligence-1414796'>Apple actualiza el iMac con su procesador más rápido</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-imac-m4-apple-intelligence-1414796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-actualiza-imac-procesador-rapido-4254745.jpg?tf=1200x' alt='Apple actualiza el iMac con su procesador más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-menu-inicio-televisor-samsung-tizen-os-arranque-mucho-rapido-1410427'>Cómo desactivar el menú de inicio de tu televisor Samsung con Tizen OS para que arranque mucho más rápido</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-menu-inicio-televisor-samsung-tizen-os-arranque-mucho-rapido-1410427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-desactivar-menu-inicio-televisor-samsung-tizen-os-arranque-mucho-rapido-4247356.jpg?tf=1200x' alt='Cómo desactivar el menú de inicio de tu televisor Samsung con Tizen OS para que arranque mucho más rápido' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-intelligence-llega-espana-1414781'>Apple Intelligence llega a España, pero no estará en español y al 100% hasta el año que viene</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-intelligence-llega-espana-1414781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-intelligence-mac-iphone-ipad-4254755.jpg?tf=1200x' alt='Apple Intelligence llega a España, pero no estará en español y al 100% hasta el año que viene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hdr10-vs-dolby-vision-diferencias-cual-mejor-1410826'>HDR10 vs. Dolby Vision: diferencias y cuál es mejor</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/hdr10-vs-dolby-vision-diferencias-cual-mejor-1410826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hdr10-vs-dolby-vision-diferencias-cual-mejor-4248080.jpg?tf=1200x' alt='HDR10 vs. Dolby Vision: diferencias y cuál es mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/paso-a-paso/como-recuperar-boton-enter-whatsapp-1414161'>Cómo recuperar el botón Enter de WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/paso-a-paso/como-recuperar-boton-enter-whatsapp-1414161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/enter-whatsapp-4253922.jpg?tf=1200x' alt='Cómo recuperar el botón Enter de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/oficial-adios-poner-movil-modo-avion-durante-vuelos-gracias-elon-musk-1414727'>Es oficial: adiós a poner el móvil en modo avión durante los vuelos gracias a Elon Musk</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/oficial-adios-poner-movil-modo-avion-durante-vuelos-gracias-elon-musk-1414727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oficial-adios-poner-movil-modo-avion-durante-vuelos-gracias-elon-musk-4254599.jpg?tf=1200x' alt='Es oficial: adiós a poner el móvil en modo avión durante los vuelos gracias a Elon Musk' />
     </a>
 </div>
 
