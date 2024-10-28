@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-creador-linux-inteligencia-artificial-90-marketing-10-realidad-1414861'>Linus Torvalds, el creador de Linux: 'La IA actual es 90% marketing y 10% realidad'</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-creador-linux-inteligencia-artificial-90-marketing-10-realidad-1414861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/linus-torvalds-creador-linux-ia-90-marketing-10-realidad-4254885.jpg?tf=1200x' alt='Linus Torvalds, el creador de Linux: 'La IA actual es 90% marketing y 10% realidad'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-recibe-mayores-actualizaciones-canales-gratis-tv-radio-1414848'>TDTChannels recibe una de sus mayores actualizaciones de canales gratis de TV y radio</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/tdtchannels-recibe-mayores-actualizaciones-canales-gratis-tv-radio-1414848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-instalar-tdtchannels-anadir-listas-canales-gratis-3275078.jpg?tf=1200x' alt='TDTChannels recibe una de sus mayores actualizaciones de canales gratis de TV y radio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-4-filtrada-posible-fecha-lanzamiento-nuevo-iphone-barato-especificaciones-precio-1414840'>iPhone SE 4: filtrada la posible fecha de lanzamiento del nuevo iPhone "barato", especificaciones y precio</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-4-filtrada-posible-fecha-lanzamiento-nuevo-iphone-barato-especificaciones-precio-1414840' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656601.jpg?tf=1200x' alt='iPhone SE 4: filtrada la posible fecha de lanzamiento del nuevo iPhone "barato", especificaciones y precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-pelicula-ciencia-ficcion-scarlett-johansson-1414553'>Ni Ghost in the Shell ni Her: esta es la mejor película de ciencia ficción de Scarlett Johansson según la crítica</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-pelicula-ciencia-ficcion-scarlett-johansson-1414553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-ghost-shell-ni-her-mejor-pelicula-ciencia-ficcion-scarlett-johansson-critica-4254362.jpg?tf=1200x' alt='Ni Ghost in the Shell ni Her: esta es la mejor película de ciencia ficción de Scarlett Johansson según la crítica' />
     </a>
 </div>
 
