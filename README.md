@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-4-filtrada-posible-fecha-lanzamiento-nuevo-iphone-barato-especificaciones-precio-1414840'>iPhone SE 4: filtrada la posible fecha de lanzamiento del nuevo iPhone "barato", especificaciones y precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-4-filtrada-posible-fecha-lanzamiento-nuevo-iphone-barato-especificaciones-precio-1414840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656601.jpg?tf=1200x' alt='iPhone SE 4: filtrada la posible fecha de lanzamiento del nuevo iPhone "barato", especificaciones y precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-pelicula-ciencia-ficcion-scarlett-johansson-1414553'>Ni Ghost in the Shell ni Her: esta es la mejor película de ciencia ficción de Scarlett Johansson según la crítica</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-pelicula-ciencia-ficcion-scarlett-johansson-1414553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-ghost-shell-ni-her-mejor-pelicula-ciencia-ficcion-scarlett-johansson-critica-4254362.jpg?tf=1200x' alt='Ni Ghost in the Shell ni Her: esta es la mejor película de ciencia ficción de Scarlett Johansson según la crítica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/compartir-cuenta-dazn-espana-numero-dispositivos-limitaciones-ver-futbol-f1-1410774'>Compartir cuenta de DAZN en España: número de dispositivos y limitaciones para ver el fútbol y la F1 con una sola cuenta</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/compartir-cuenta-dazn-espana-numero-dispositivos-limitaciones-ver-futbol-f1-1410774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dazn-4247967.jpg?tf=1200x' alt='Compartir cuenta de DAZN en España: número de dispositivos y limitaciones para ver el fútbol y la F1 con una sola cuenta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-aplicacion-onlyfans-movil-todo-puedes-ver-ella-1411063'>Cómo instalar la aplicación de OnlyFans en el móvil y todo lo que puedes ver con ella</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-aplicacion-onlyfans-movil-todo-puedes-ver-ella-1411063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-instalar-aplicacion-onlyfans-movil-todo-puedes-ver-ella-4248493.jpg?tf=1200x' alt='Cómo instalar la aplicación de OnlyFans en el móvil y todo lo que puedes ver con ella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/mejor-smart-tv-mercado-precio-pantalla-qled-75-miniled-google-tv-11-300-euros-descuento-1414695'>Esta es la mejor Smart TV del mercado por su precio: pantalla QLED de 75", MiniLED, Google TV 11 y 300 euros de descuento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/mejor-smart-tv-mercado-precio-pantalla-qled-75-miniled-google-tv-11-300-euros-descuento-1414695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tcl-75c805-4254564.jpg?tf=1200x' alt='Esta es la mejor Smart TV del mercado por su precio: pantalla QLED de 75", MiniLED, Google TV 11 y 300 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-imac-m4-apple-intelligence-1414796'>Apple actualiza el iMac con su procesador más rápido</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-imac-m4-apple-intelligence-1414796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-actualiza-imac-procesador-rapido-4254745.jpg?tf=1200x' alt='Apple actualiza el iMac con su procesador más rápido' />
     </a>
 </div>
 
