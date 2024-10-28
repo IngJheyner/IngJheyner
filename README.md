@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/compartir-cuenta-dazn-espana-numero-dispositivos-limitaciones-ver-futbol-f1-1410774'>Compartir cuenta de DAZN en España: número de dispositivos y limitaciones para ver el fútbol y la F1 con una sola cuenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/compartir-cuenta-dazn-espana-numero-dispositivos-limitaciones-ver-futbol-f1-1410774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dazn-4247967.jpg?tf=1200x' alt='Compartir cuenta de DAZN en España: número de dispositivos y limitaciones para ver el fútbol y la F1 con una sola cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/balon-oro-2024-donde-ver-online-television-directo-horario-gala-favoritos-1414810'>Balón de Oro 2024: dónde ver online y por televisión en directo, horario de la gala y favoritos</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/balon-oro-2024-donde-ver-online-television-directo-horario-gala-favoritos-1414810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/balon-oro-2024-donde-ver-online-television-directo-horario-gala-favoritos-4254793.jpg?tf=1200x' alt='Balón de Oro 2024: dónde ver online y por televisión en directo, horario de la gala y favoritos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-aplicacion-onlyfans-movil-todo-puedes-ver-ella-1411063'>Cómo instalar la aplicación de OnlyFans en el móvil y todo lo que puedes ver con ella</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-aplicacion-onlyfans-movil-todo-puedes-ver-ella-1411063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-instalar-aplicacion-onlyfans-movil-todo-puedes-ver-ella-4248493.jpg?tf=1200x' alt='Cómo instalar la aplicación de OnlyFans en el móvil y todo lo que puedes ver con ella' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-imac-m4-apple-intelligence-1414796'>Apple actualiza el iMac con su procesador más rápido</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-imac-m4-apple-intelligence-1414796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-actualiza-imac-procesador-rapido-4254745.jpg?tf=1200x' alt='Apple actualiza el iMac con su procesador más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-menu-inicio-televisor-samsung-tizen-os-arranque-mucho-rapido-1410427'>Cómo desactivar el menú de inicio de tu televisor Samsung con Tizen OS para que arranque mucho más rápido</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-menu-inicio-televisor-samsung-tizen-os-arranque-mucho-rapido-1410427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-desactivar-menu-inicio-televisor-samsung-tizen-os-arranque-mucho-rapido-4247356.jpg?tf=1200x' alt='Cómo desactivar el menú de inicio de tu televisor Samsung con Tizen OS para que arranque mucho más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-intelligence-llega-espana-1414781'>Apple Intelligence llega a España, pero no estará en español y al 100% hasta el año que viene</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-intelligence-llega-espana-1414781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-intelligence-mac-iphone-ipad-4254755.jpg?tf=1200x' alt='Apple Intelligence llega a España, pero no estará en español y al 100% hasta el año que viene' />
     </a>
 </div>
 
