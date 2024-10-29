@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pixel-8-pro-google-rivaliza-directamente-iphone-cuesta-solo-540-euros-cupon-1415018'>El Pixel 8 Pro de Google rivaliza directamente con el iPhone y cuesta solo 540 euros con un cupón</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pixel-8-pro-google-rivaliza-directamente-iphone-cuesta-solo-540-euros-cupon-1415018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-pixel-8-pro-3485184.jpg?tf=1200x' alt='El Pixel 8 Pro de Google rivaliza directamente con el iPhone y cuesta solo 540 euros con un cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/ni-cancer-ni-radiacion-experto-revela-verdadero-peligro-salud-microondas-1414999'>Ni cáncer ni radiación, un experto revela el verdadero peligro para la salud del microondas</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ni-cancer-ni-radiacion-experto-revela-verdadero-peligro-salud-microondas-1414999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/peligros-microondas-4255111.jpg?tf=1200x' alt='Ni cáncer ni radiación, un experto revela el verdadero peligro para la salud del microondas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-extensiones-guardar-archivos-pdf-google-chrome-1406929'>Las mejores extensiones para guardar archivos PDF en Google Chrome  </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mejores-extensiones-guardar-archivos-pdf-google-chrome-1406929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pdf-4241669.jpg?tf=1200x' alt='Las mejores extensiones para guardar archivos PDF en Google Chrome  ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/mac-mini-m4-pro-apple-intelligence-1415099'>Nuevo Mac mini con M4 Pro, Apple Intelligence y la mitad de pequeño</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/mac-mini-m4-pro-apple-intelligence-1415099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nuevo-mac-mini-m4-pro-apple-intelligence-doble-pequeno-predecesor-4255205.jpg?tf=1200x' alt='Nuevo Mac mini con M4 Pro, Apple Intelligence y la mitad de pequeño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/teoria-cientifica-universo-reflejo-otro-cosmos-cuyo-tiempo-fluye-reves-1414979'>Según una teoría científica, nuestro universo es un reflejo de otro cosmos cuyo tiempo fluye al revés</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/teoria-cientifica-universo-reflejo-otro-cosmos-cuyo-tiempo-fluye-reves-1414979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/agujeros-negros-4255082.jpg?tf=1200x' alt='Según una teoría científica, nuestro universo es un reflejo de otro cosmos cuyo tiempo fluye al revés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/movil-te-acerca-gama-alta-snapdragon-8-gen-2-gran-bateria-menos-400-euros-1415001'>Este móvil te acerca a la gama alta: Snapdragon 8 Gen 2 y gran batería por menos de 400 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/movil-te-acerca-gama-alta-snapdragon-8-gen-2-gran-bateria-menos-400-euros-1415001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nubia-z60s-pro-4158036.jpg?tf=1200x' alt='Este móvil te acerca a la gama alta: Snapdragon 8 Gen 2 y gran batería por menos de 400 euros' />
     </a>
 </div>
 
