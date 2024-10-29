@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-maps-android-auto-anade-nuevas-funciones-pero-solo-estos-modelos-coche-1415029'>Google Maps en Android Auto añade nuevas funciones pero solo para estos modelos de coche</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-maps-android-auto-anade-nuevas-funciones-pero-solo-estos-modelos-coche-1415029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-ford-4254988.jpg?tf=1200x' alt='Google Maps en Android Auto añade nuevas funciones pero solo para estos modelos de coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/tdtchannels-app-iptv-gratis-desaparece-play-store-significa-como-te-afecta-1414977'>TDTChannels, la app del IPTV gratis, desaparece de la Play Store: qué significa y cómo te afecta</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/tdtchannels-app-iptv-gratis-desaparece-play-store-significa-como-te-afecta-1414977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tdtchannels-app-iptv-gratis-desaparece-play-store-significa-como-te-afecta-4255049.jpg?tf=1200x' alt='TDTChannels, la app del IPTV gratis, desaparece de la Play Store: qué significa y cómo te afecta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/iphone-15-revienta-precio-663-euros-cupon-1414961'>El iPhone 15 revienta su precio: 663 euros con un cupón</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/iphone-15-revienta-precio-663-euros-cupon-1414961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='El iPhone 15 revienta su precio: 663 euros con un cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hacker-cobra-factura-450000-euros-ayuntamiento-torre-pacheco-suplantando-compania-luz-1414949'>Un hacker cobra una factura de 450.000 euros al Ayuntamiento de Torre Pacheco suplantando a la compañía de la luz</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/hacker-cobra-factura-450000-euros-ayuntamiento-torre-pacheco-suplantando-compania-luz-1414949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hacker-cobra-factura-450000-euros-ayuntamiento-torre-pacheco-suplantando-compania-luz-4255006.jpg?tf=1200x' alt='Un hacker cobra una factura de 450.000 euros al Ayuntamiento de Torre Pacheco suplantando a la compañía de la luz' />
     </a>
 </div>
 
