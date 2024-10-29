@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-joker-2-mayor-fracaso-joaquin-phoenix-taquilla-puede-verse-amazon-primer-video-1414775'>No es Joker 2: el mayor fracaso de Joaquin Phoenix en taquilla puede verse en Amazon Primer Video</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/no-joker-2-mayor-fracaso-joaquin-phoenix-taquilla-puede-verse-amazon-primer-video-1414775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/no-joker-2-mayor-fracaso-joaquin-phoenix-taquilla-puede-verse-amazon-primer-video-4254723.jpg?tf=1200x' alt='No es Joker 2: el mayor fracaso de Joaquin Phoenix en taquilla puede verse en Amazon Primer Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nueva-version-sistema-operativo-raspberry-pi-hace-cambio-completo-wayland-1415139'>La nueva versión del sistema operativo Raspberry Pi hace el cambio completo a Wayland</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nueva-version-sistema-operativo-raspberry-pi-hace-cambio-completo-wayland-1415139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/raspberry-pi-4-2531287.jpg?tf=1200x' alt='La nueva versión del sistema operativo Raspberry Pi hace el cambio completo a Wayland' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/razon-autor-historia-interminable-odiaba-pelicula-no-han-entendido-nada-1414997'>La razón por la que el autor de La historia interminable odiaba la película: “No han entendido nada”</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/razon-autor-historia-interminable-odiaba-pelicula-no-han-entendido-nada-1414997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/razon-autor-historia-interminable-odiaba-pelicula-no-han-entendido-nada-4255090.jpg?tf=1200x' alt='La razón por la que el autor de La historia interminable odiaba la película: “No han entendido nada”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pixel-8-pro-google-rivaliza-directamente-iphone-cuesta-solo-540-euros-cupon-1415018'>El Pixel 8 Pro de Google rivaliza directamente con el iPhone y cuesta solo 540 euros con un cupón</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pixel-8-pro-google-rivaliza-directamente-iphone-cuesta-solo-540-euros-cupon-1415018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-pixel-8-pro-3485184.jpg?tf=1200x' alt='El Pixel 8 Pro de Google rivaliza directamente con el iPhone y cuesta solo 540 euros con un cupón' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/ni-cancer-ni-radiacion-experto-revela-verdadero-peligro-salud-microondas-1414999'>Ni cáncer ni radiación, un experto revela el verdadero peligro para la salud del microondas</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ni-cancer-ni-radiacion-experto-revela-verdadero-peligro-salud-microondas-1414999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/peligros-microondas-4255111.jpg?tf=1200x' alt='Ni cáncer ni radiación, un experto revela el verdadero peligro para la salud del microondas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-extensiones-guardar-archivos-pdf-google-chrome-1406929'>Las mejores extensiones para guardar archivos PDF en Google Chrome  </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mejores-extensiones-guardar-archivos-pdf-google-chrome-1406929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pdf-4241669.jpg?tf=1200x' alt='Las mejores extensiones para guardar archivos PDF en Google Chrome  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/son-sonny-angels-munecos-virales-movil-cuantos-hay-precio-donde-comprarlos-1414862'>Qué son los Sonny Angels, los muñecos virales para el móvil: cuántos hay, precio y dónde comprarlos</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/son-sonny-angels-munecos-virales-movil-cuantos-hay-precio-donde-comprarlos-1414862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/son-sonny-angels-munecos-virales-movil-cuantos-hay-precio-donde-comprarlos-4254905.jpg?tf=1200x' alt='Qué son los Sonny Angels, los muñecos virales para el móvil: cuántos hay, precio y dónde comprarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/mac-mini-m4-pro-apple-intelligence-1415099'>Nuevo Mac mini con M4 Pro, Apple Intelligence y la mitad de pequeño</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/mac-mini-m4-pro-apple-intelligence-1415099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nuevo-mac-mini-m4-pro-apple-intelligence-doble-pequeno-predecesor-4255205.jpg?tf=1200x' alt='Nuevo Mac mini con M4 Pro, Apple Intelligence y la mitad de pequeño' />
     </a>
 </div>
 
