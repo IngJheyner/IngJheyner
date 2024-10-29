@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/lightning-muriendo-estos-son-ultimos-productos-apple-llevan-1414913'>Lightning está muriendo y estos son los últimos productos de Apple que lo llevan</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/lightning-muriendo-estos-son-ultimos-productos-apple-llevan-1414913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lightning-muriendo-estos-son-ultimos-productos-apple-llevan-4254976.jpg?tf=1200x' alt='Lightning está muriendo y estos son los últimos productos de Apple que lo llevan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/decodificador-movistar-anade-funcionalidad-copiada-netflix-llevabamos-anos-esperando-1414904'>El decodificador de Movistar+ añade una funcionalidad copiada de Netflix que llevábamos años esperando</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/decodificador-movistar-anade-funcionalidad-copiada-netflix-llevabamos-anos-esperando-1414904' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/decodificador-movistar-4254958.jpg?tf=1200x' alt='El decodificador de Movistar+ añade una funcionalidad copiada de Netflix que llevábamos años esperando' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-google-meta-preparando-propio-buscador-integrado-ia-1414897'>Adiós a Google, Meta está preparando su propio buscador integrado en su IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-google-meta-preparando-propio-buscador-integrado-ia-1414897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/meta-facebook-3209280.jpg?tf=1200x' alt='Adiós a Google, Meta está preparando su propio buscador integrado en su IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/va-construir-robot-autonomo-torres-comunicaciones-luna-marte-1414890'>Así va a construir este robot autónomo torres de comunicaciones en la Luna y Marte</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/va-construir-robot-autonomo-torres-comunicaciones-luna-marte-1414890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1730182928250-4254934.jpg?tf=1200x' alt='Así va a construir este robot autónomo torres de comunicaciones en la Luna y Marte' />
     </a>
 </div>
 
