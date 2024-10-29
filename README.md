@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-extensiones-guardar-archivos-pdf-google-chrome-1406929'>Las mejores extensiones para guardar archivos PDF en Google Chrome  </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mejores-extensiones-guardar-archivos-pdf-google-chrome-1406929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/pdf-4241669.jpg?tf=1200x' alt='Las mejores extensiones para guardar archivos PDF en Google Chrome  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/son-sonny-angels-munecos-virales-movil-cuantos-hay-precio-donde-comprarlos-1414862'>Qué son los Sonny Angels, los muñecos virales para el móvil: cuántos hay, precio y dónde comprarlos</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/son-sonny-angels-munecos-virales-movil-cuantos-hay-precio-donde-comprarlos-1414862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/son-sonny-angels-munecos-virales-movil-cuantos-hay-precio-donde-comprarlos-4254905.jpg?tf=1200x' alt='Qué son los Sonny Angels, los muñecos virales para el móvil: cuántos hay, precio y dónde comprarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/mac-mini-m4-pro-apple-intelligence-1415099'>Nuevo Mac mini con M4 Pro, Apple Intelligence y la mitad de pequeño</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/mac-mini-m4-pro-apple-intelligence-1415099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nuevo-mac-mini-m4-pro-apple-intelligence-doble-pequeno-predecesor-4255205.jpg?tf=1200x' alt='Nuevo Mac mini con M4 Pro, Apple Intelligence y la mitad de pequeño' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/movil-te-acerca-gama-alta-snapdragon-8-gen-2-gran-bateria-menos-400-euros-1415001'>Este móvil te acerca a la gama alta: Snapdragon 8 Gen 2 y gran batería por menos de 400 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/android/movil-te-acerca-gama-alta-snapdragon-8-gen-2-gran-bateria-menos-400-euros-1415001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nubia-z60s-pro-4158036.jpg?tf=1200x' alt='Este móvil te acerca a la gama alta: Snapdragon 8 Gen 2 y gran batería por menos de 400 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-kodi-memoria-usb-usarlo-tv-pc-1414755'>Cómo instalar Kodi en una memoria USB para usarlo en tu TV o PC</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-kodi-memoria-usb-usarlo-tv-pc-1414755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/conectar-pendrive-kodi-4254697.jpg?tf=1200x' alt='Cómo instalar Kodi en una memoria USB para usarlo en tu TV o PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-deja-claro-debes-hacer-inmediatamente-crees-has-sufrido-estafa-telefonica-1415010'>La Policía Nacional lo deja claro: esto debes hacer inmediatamente si crees que has sufrido una estafa telefónica</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-deja-claro-debes-hacer-inmediatamente-crees-has-sufrido-estafa-telefonica-1415010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/policia-nacional-deja-claro-debes-hacer-inmediatamente-crees-has-sufrido-estafa-telefonica-4255099.jpg?tf=1200x' alt='La Policía Nacional lo deja claro: esto debes hacer inmediatamente si crees que has sufrido una estafa telefónica' />
     </a>
 </div>
 
