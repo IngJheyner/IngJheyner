@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-lanza-espana-rufus-chatbot-inteligencia-artificial-ayudarte-compras-1415028'>Amazon lanza en España Rufus, su chatbot con inteligencia artificial para ayudarte en tus compras</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-lanza-espana-rufus-chatbot-inteligencia-artificial-ayudarte-compras-1415028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-lanza-rufus-chatbot-ayudarte-comprar-espana-4255121.jpg?tf=1200x' alt='Amazon lanza en España Rufus, su chatbot con inteligencia artificial para ayudarte en tus compras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pais-prohibe-venta-iphone-16-apple-watch-series-10-1414933'>Este país prohíbe la venta del iPhone 16 y del Apple Watch Series 10 </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pais-prohibe-venta-iphone-16-apple-watch-series-10-1414933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gran-baza-apple-iphone-16-pro-max-pasa-reinventar-bateria-3797306.jpg?tf=1200x' alt='Este país prohíbe la venta del iPhone 16 y del Apple Watch Series 10 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-maps-android-auto-anade-nuevas-funciones-pero-solo-estos-modelos-coche-1415029'>Google Maps en Android Auto añade nuevas funciones pero solo para estos modelos de coche</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-maps-android-auto-anade-nuevas-funciones-pero-solo-estos-modelos-coche-1415029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-ford-4254988.jpg?tf=1200x' alt='Google Maps en Android Auto añade nuevas funciones pero solo para estos modelos de coche' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/elegante-deportivo-oneplus-watch-2-mejores-relojes-inteligentes-wear-os-precio-outlet-1414916'>Elegante y deportivo: el OnePlus Watch 2 es uno de los mejores relojes inteligentes con Wear OS y está a precio de outlet</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elegante-deportivo-oneplus-watch-2-mejores-relojes-inteligentes-wear-os-precio-outlet-1414916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oneplus-watch-2-4254955.jpg?tf=1200x' alt='Elegante y deportivo: el OnePlus Watch 2 es uno de los mejores relojes inteligentes con Wear OS y está a precio de outlet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/funciones-secretas-llegaran-muy-pronto-android-auto-1414965'>Funciones secretas que llegarán muy pronto a Android Auto</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/funciones-secretas-llegaran-muy-pronto-android-auto-1414965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-mover-barra-tareas-android-auto-lado-4068056.jpg?tf=1200x' alt='Funciones secretas que llegarán muy pronto a Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/iphone-15-revienta-precio-663-euros-cupon-1414961'>El iPhone 15 revienta su precio: 663 euros con un cupón</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/iphone-15-revienta-precio-663-euros-cupon-1414961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='El iPhone 15 revienta su precio: 663 euros con un cupón' />
     </a>
 </div>
 
