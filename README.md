@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/precio-vivienda-tan-disparado-alguien-ha-comprado-viejo-boeing-747-ha-convertido-mansion-1414400'>El precio de la vivienda está tan disparado que alguien se ha comprado un viejo Boeing 747 y lo ha convertido en una mansión</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/precio-vivienda-tan-disparado-alguien-ha-comprado-viejo-boeing-747-ha-convertido-mansion-1414400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/precio-vivienda-tan-disparado-alguien-ha-comprado-viejo-boeing-747-ha-convertido-mansion-4254155.jpg?tf=1200x' alt='El precio de la vivienda está tan disparado que alguien se ha comprado un viejo Boeing 747 y lo ha convertido en una mansión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/paso-a-paso/puedes-instalar-cualquier-plataforma-streaming-kodi-netflix-prime-video-hbo-1414311'>Así puedes instalar cualquier plataforma de streaming en Kodi: Netflix, Prime Video, HBO y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/paso-a-paso/puedes-instalar-cualquier-plataforma-streaming-kodi-netflix-prime-video-hbo-1414311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/plataformass-streaming-kodi-4254037.jpg?tf=1200x' alt='Así puedes instalar cualquier plataforma de streaming en Kodi: Netflix, Prime Video, HBO y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-astronautas-hospitalizado-spacex-1414873'>La NASA hospitalizó en secreto a uno de los cuatro astronautas que regresaron a la Tierra con SpaceX</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-astronautas-hospitalizado-spacex-1414873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nasa-hospitalizo-secreto-cuatro-astronautas-regresaron-tierra-hace-dias-4254903.jpg?tf=1200x' alt='La NASA hospitalizó en secreto a uno de los cuatro astronautas que regresaron a la Tierra con SpaceX' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-recibe-mayores-actualizaciones-canales-gratis-tv-radio-1414848'>TDTChannels recibe una de sus mayores actualizaciones de canales gratis de TV y radio</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/tdtchannels-recibe-mayores-actualizaciones-canales-gratis-tv-radio-1414848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-instalar-tdtchannels-anadir-listas-canales-gratis-3275078.jpg?tf=1200x' alt='TDTChannels recibe una de sus mayores actualizaciones de canales gratis de TV y radio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/cientificos-demuestran-cerebro-no-preparado-estar-despierto-despues-medianoche-1414842'>Científicos demuestran que nuestro cerebro no está preparado para estar despierto después de la medianoche</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/cientificos-demuestran-cerebro-no-preparado-estar-despierto-despues-medianoche-1414842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hombre-no-puede-dormir-noche-4254870.jpg?tf=1200x' alt='Científicos demuestran que nuestro cerebro no está preparado para estar despierto después de la medianoche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/bitelchus-bitelchus-cameo-pillo-sorpresa-michael-keaton-principio-no-reconoci-1414334'>Bitelchús Bitelchús: el cameo que pilló por sorpresa hasta a Michael Keaton: “Al principio no lo reconocí”</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/bitelchus-bitelchus-cameo-pillo-sorpresa-michael-keaton-principio-no-reconoci-1414334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bitelchus-bitelchus-3755488.jpg?tf=1200x' alt='Bitelchús Bitelchús: el cameo que pilló por sorpresa hasta a Michael Keaton: “Al principio no lo reconocí”' />
     </a>
 </div>
 
