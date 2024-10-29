@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/lightning-muriendo-estos-son-ultimos-productos-apple-llevan-1414913'>Lightning está muriendo y estos son los últimos productos de Apple que lo llevan</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/lightning-muriendo-estos-son-ultimos-productos-apple-llevan-1414913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lightning-muriendo-estos-son-ultimos-productos-apple-llevan-4254976.jpg?tf=1200x' alt='Lightning está muriendo y estos son los últimos productos de Apple que lo llevan' />
+    <h4><a href='https://computerhoy.20minutos.es/life/elegante-deportivo-oneplus-watch-2-mejores-relojes-inteligentes-wear-os-precio-outlet-1414916'>Elegante y deportivo: el OnePlus Watch 2 es uno de los mejores relojes inteligentes con Wear OS y está a precio de outlet</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elegante-deportivo-oneplus-watch-2-mejores-relojes-inteligentes-wear-os-precio-outlet-1414916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oneplus-watch-2-4254955.jpg?tf=1200x' alt='Elegante y deportivo: el OnePlus Watch 2 es uno de los mejores relojes inteligentes con Wear OS y está a precio de outlet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/decodificador-movistar-anade-funcionalidad-copiada-netflix-llevabamos-anos-esperando-1414904'>El decodificador de Movistar+ añade una funcionalidad copiada de Netflix que llevábamos años esperando</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/decodificador-movistar-anade-funcionalidad-copiada-netflix-llevabamos-anos-esperando-1414904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/decodificador-movistar-4254958.jpg?tf=1200x' alt='El decodificador de Movistar+ añade una funcionalidad copiada de Netflix que llevábamos años esperando' />
+    <h4><a href='https://computerhoy.20minutos.es/google/funciones-secretas-llegaran-muy-pronto-android-auto-1414965'>Funciones secretas que llegarán muy pronto a Android Auto</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/funciones-secretas-llegaran-muy-pronto-android-auto-1414965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-mover-barra-tareas-android-auto-lado-4068056.jpg?tf=1200x' alt='Funciones secretas que llegarán muy pronto a Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/app-deporte-filtrando-donde-esconden-lideres-mundiales-1414899'>Esta app de deporte está filtrando dónde se esconden los líderes mundiales</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/app-deporte-filtrando-donde-esconden-lideres-mundiales-1414899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/donald-trump-3760542.jpg?tf=1200x' alt='Esta app de deporte está filtrando dónde se esconden los líderes mundiales' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/iphone-15-revienta-precio-663-euros-cupon-1414961'>El iPhone 15 revienta su precio: 663 euros con un cupón</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/iphone-15-revienta-precio-663-euros-cupon-1414961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='El iPhone 15 revienta su precio: 663 euros con un cupón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/alimentacion/freidora-top-cosori-supera-toda-competencia-barata-piensas-1414883'>La freidora más top de Cosori supera a toda la competencia y es más barata de lo que piensas</a></h4>
-    <a href='https://computerhoy.20minutos.es/alimentacion/freidora-top-cosori-supera-toda-competencia-barata-piensas-1414883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cosori-4254932.jpg?tf=1200x' alt='La freidora más top de Cosori supera a toda la competencia y es más barata de lo que piensas' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hacker-cobra-factura-450000-euros-ayuntamiento-torre-pacheco-suplantando-compania-luz-1414949'>Un hacker cobra una factura de 450.000 euros al Ayuntamiento de Torre Pacheco suplantando a la compañía de la luz</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/hacker-cobra-factura-450000-euros-ayuntamiento-torre-pacheco-suplantando-compania-luz-1414949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hacker-cobra-factura-450000-euros-ayuntamiento-torre-pacheco-suplantando-compania-luz-4255006.jpg?tf=1200x' alt='Un hacker cobra una factura de 450.000 euros al Ayuntamiento de Torre Pacheco suplantando a la compañía de la luz' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-google-meta-preparando-propio-buscador-integrado-ia-1414897'>Adiós a Google, Meta está preparando su propio buscador integrado en su IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-google-meta-preparando-propio-buscador-integrado-ia-1414897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/meta-facebook-3209280.jpg?tf=1200x' alt='Adiós a Google, Meta está preparando su propio buscador integrado en su IA' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-copilot-como-integrar-ia-microsoft-todo-puedes-hacer-ella-1414914'>WhatsApp con Copilot: cómo integrar la IA de Microsoft y todo lo que puedes hacer con ella</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-copilot-como-integrar-ia-microsoft-todo-puedes-hacer-ella-1414914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-copilot-4254977.jpg?tf=1200x' alt='WhatsApp con Copilot: cómo integrar la IA de Microsoft y todo lo que puedes hacer con ella' />
     </a>
 </div>
 
