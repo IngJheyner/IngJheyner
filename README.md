@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-ipad-ni-kindle-boox-go-color-7-mi-lector-ebooks-estar-ebook-tablet-android-1411633'>Ni iPad ni Kindle, Boox Go Color 7 es mi lector de ebooks por estar entre un ebook y una tablet Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-ipad-ni-kindle-boox-go-color-7-mi-lector-ebooks-estar-ebook-tablet-android-1411633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/boox-go-color-7-4249073.jpg?tf=1200x' alt='Ni iPad ni Kindle, Boox Go Color 7 es mi lector de ebooks por estar entre un ebook y una tablet Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/sony-linkbuds-fit-auriculares-deportivos-1414611'>Ni Beats ni Shokz, los Sony LinkBuds Fit son mis auriculares deportivos favoritos por comodidad y calidad de sonido</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/sony-linkbuds-fit-auriculares-deportivos-1414611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sony-linkbuds-fit-4254515.jpg?tf=1200x' alt='Ni Beats ni Shokz, los Sony LinkBuds Fit son mis auriculares deportivos favoritos por comodidad y calidad de sonido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/noticias/mi-truco-google-maps-waze-saber-gasolinera-pie-carretera-hay-desviarse-1414418'>Este es mi truco en Google Maps y Waze para saber si una gasolinera está a pie de carretera o hay que desviarse</a></h4>
     <a href='https://computerhoy.20minutos.es/noticias/mi-truco-google-maps-waze-saber-gasolinera-pie-carretera-hay-desviarse-1414418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mi-truco-google-maps-waze-saber-gasolinera-pie-carretera-hay-desviarse-4254171.jpg?tf=1200x' alt='Este es mi truco en Google Maps y Waze para saber si una gasolinera está a pie de carretera o hay que desviarse' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/envie-captura-datos-personales-tapados-consiguieron-leerlos-ya-no-me-fio-ahora-siempre-hago-1414342'>Envié una captura con datos personales tapados y consiguieron leerlos, ya no me fío y ahora siempre hago esto</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/envie-captura-datos-personales-tapados-consiguieron-leerlos-ya-no-me-fio-ahora-siempre-hago-1414342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/envie-captura-datos-personales-tapados-consiguieron-leerlos-ya-no-me-fio-ahora-siempre-hago-4254092.jpg?tf=1200x' alt='Envié una captura con datos personales tapados y consiguieron leerlos, ya no me fío y ahora siempre hago esto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/precio-vivienda-tan-disparado-alguien-ha-comprado-viejo-boeing-747-ha-convertido-mansion-1414400'>El precio de la vivienda está tan disparado que alguien se ha comprado un viejo Boeing 747 y lo ha convertido en una mansión</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/precio-vivienda-tan-disparado-alguien-ha-comprado-viejo-boeing-747-ha-convertido-mansion-1414400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/precio-vivienda-tan-disparado-alguien-ha-comprado-viejo-boeing-747-ha-convertido-mansion-4254155.jpg?tf=1200x' alt='El precio de la vivienda está tan disparado que alguien se ha comprado un viejo Boeing 747 y lo ha convertido en una mansión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/paso-a-paso/puedes-instalar-cualquier-plataforma-streaming-kodi-netflix-prime-video-hbo-1414311'>Así puedes instalar cualquier plataforma de streaming en Kodi: Netflix, Prime Video, HBO y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/paso-a-paso/puedes-instalar-cualquier-plataforma-streaming-kodi-netflix-prime-video-hbo-1414311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/plataformass-streaming-kodi-4254037.jpg?tf=1200x' alt='Así puedes instalar cualquier plataforma de streaming en Kodi: Netflix, Prime Video, HBO y más' />
     </a>
 </div>
 
