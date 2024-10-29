@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/compra-tanque-ebay-deposito-lleno-lingotes-oro-valen-millones-euros-1415161'>Compra un tanque en eBay, y el depósito está lleno de lingotes de oro que valen millones de euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/compra-tanque-ebay-deposito-lleno-lingotes-oro-valen-millones-euros-1415161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/compra-tanque-ebay-deposito-lleno-lingotes-oro-valen-millones-euros-4255319.jpg?tf=1200x' alt='Compra un tanque en eBay, y el depósito está lleno de lingotes de oro que valen millones de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-bug-placas-base-intel-z890-1415148'>La maldición de Windows 11 24H2 ataca de nuevo: las placas base se bloquean o reinician constantemente</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-bug-placas-base-intel-z890-1415148' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/maldicion-windows-11-24h2-ataca-nuevo-placas-base-bloquean-reinician-constantemente-4255290.jpg?tf=1200x' alt='La maldición de Windows 11 24H2 ataca de nuevo: las placas base se bloquean o reinician constantemente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-joker-2-mayor-fracaso-joaquin-phoenix-taquilla-puede-verse-amazon-primer-video-1414775'>No es Joker 2: el mayor fracaso de Joaquin Phoenix en taquilla puede verse en Amazon Primer Video</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/no-joker-2-mayor-fracaso-joaquin-phoenix-taquilla-puede-verse-amazon-primer-video-1414775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/no-joker-2-mayor-fracaso-joaquin-phoenix-taquilla-puede-verse-amazon-primer-video-4254723.jpg?tf=1200x' alt='No es Joker 2: el mayor fracaso de Joaquin Phoenix en taquilla puede verse en Amazon Primer Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nueva-version-sistema-operativo-raspberry-pi-hace-cambio-completo-wayland-1415139'>La nueva versión del sistema operativo Raspberry Pi hace el cambio completo a Wayland</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nueva-version-sistema-operativo-raspberry-pi-hace-cambio-completo-wayland-1415139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/raspberry-pi-4-2531287.jpg?tf=1200x' alt='La nueva versión del sistema operativo Raspberry Pi hace el cambio completo a Wayland' />
     </a>
 </div>
 
