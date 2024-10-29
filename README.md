@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/tdtchannels-app-iptv-gratis-desaparece-play-store-significa-como-te-afecta-1414977'>TDTChannels, la app del IPTV gratis, desaparece de la Play Store: qué significa y cómo te afecta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/tdtchannels-app-iptv-gratis-desaparece-play-store-significa-como-te-afecta-1414977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tdtchannels-app-iptv-gratis-desaparece-play-store-significa-como-te-afecta-4255049.jpg?tf=1200x' alt='TDTChannels, la app del IPTV gratis, desaparece de la Play Store: qué significa y cómo te afecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/elegante-deportivo-oneplus-watch-2-mejores-relojes-inteligentes-wear-os-precio-outlet-1414916'>Elegante y deportivo: el OnePlus Watch 2 es uno de los mejores relojes inteligentes con Wear OS y está a precio de outlet</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elegante-deportivo-oneplus-watch-2-mejores-relojes-inteligentes-wear-os-precio-outlet-1414916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oneplus-watch-2-4254955.jpg?tf=1200x' alt='Elegante y deportivo: el OnePlus Watch 2 es uno de los mejores relojes inteligentes con Wear OS y está a precio de outlet' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hacker-cobra-factura-450000-euros-ayuntamiento-torre-pacheco-suplantando-compania-luz-1414949'>Un hacker cobra una factura de 450.000 euros al Ayuntamiento de Torre Pacheco suplantando a la compañía de la luz</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/hacker-cobra-factura-450000-euros-ayuntamiento-torre-pacheco-suplantando-compania-luz-1414949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hacker-cobra-factura-450000-euros-ayuntamiento-torre-pacheco-suplantando-compania-luz-4255006.jpg?tf=1200x' alt='Un hacker cobra una factura de 450.000 euros al Ayuntamiento de Torre Pacheco suplantando a la compañía de la luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-copilot-como-integrar-ia-microsoft-todo-puedes-hacer-ella-1414914'>WhatsApp con Copilot: cómo integrar la IA de Microsoft y todo lo que puedes hacer con ella</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-copilot-como-integrar-ia-microsoft-todo-puedes-hacer-ella-1414914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-copilot-4254977.jpg?tf=1200x' alt='WhatsApp con Copilot: cómo integrar la IA de Microsoft y todo lo que puedes hacer con ella' />
     </a>
 </div>
 
