@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-kodi-memoria-usb-usarlo-tv-pc-1414755'>Cómo instalar Kodi en una memoria USB para usarlo en tu TV o PC</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-kodi-memoria-usb-usarlo-tv-pc-1414755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/conectar-pendrive-kodi-4254697.jpg?tf=1200x' alt='Cómo instalar Kodi en una memoria USB para usarlo en tu TV o PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-deja-claro-debes-hacer-inmediatamente-crees-has-sufrido-estafa-telefonica-1415010'>La Policía Nacional lo deja claro: esto debes hacer inmediatamente si crees que has sufrido una estafa telefónica</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-deja-claro-debes-hacer-inmediatamente-crees-has-sufrido-estafa-telefonica-1415010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/policia-nacional-deja-claro-debes-hacer-inmediatamente-crees-has-sufrido-estafa-telefonica-4255099.jpg?tf=1200x' alt='La Policía Nacional lo deja claro: esto debes hacer inmediatamente si crees que has sufrido una estafa telefónica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-usan-timadores-enganar-usuarios-1414661'>Así es la nueva "estafa del sí" que usan los timadores para engañar a los usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-usan-timadores-enganar-usuarios-1414661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nueva-estafa-usan-timadores-enganar-usuarios-4254496.jpg?tf=1200x' alt='Así es la nueva "estafa del sí" que usan los timadores para engañar a los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-lanza-espana-rufus-chatbot-inteligencia-artificial-ayudarte-compras-1415028'>Amazon lanza en España Rufus, su chatbot con inteligencia artificial para ayudarte en tus compras</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/amazon-lanza-espana-rufus-chatbot-inteligencia-artificial-ayudarte-compras-1415028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-lanza-rufus-chatbot-ayudarte-comprar-espana-4255121.jpg?tf=1200x' alt='Amazon lanza en España Rufus, su chatbot con inteligencia artificial para ayudarte en tus compras' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pais-prohibe-venta-iphone-16-apple-watch-series-10-1414933'>Este país prohíbe la venta del iPhone 16 y del Apple Watch Series 10 </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pais-prohibe-venta-iphone-16-apple-watch-series-10-1414933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/gran-baza-apple-iphone-16-pro-max-pasa-reinventar-bateria-3797306.jpg?tf=1200x' alt='Este país prohíbe la venta del iPhone 16 y del Apple Watch Series 10 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-maps-android-auto-anade-nuevas-funciones-pero-solo-estos-modelos-coche-1415029'>Google Maps en Android Auto añade nuevas funciones pero solo para estos modelos de coche</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-maps-android-auto-anade-nuevas-funciones-pero-solo-estos-modelos-coche-1415029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-ford-4254988.jpg?tf=1200x' alt='Google Maps en Android Auto añade nuevas funciones pero solo para estos modelos de coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/tdtchannels-app-iptv-gratis-desaparece-play-store-significa-como-te-afecta-1414977'>TDTChannels, la app del IPTV gratis, desaparece de la Play Store: qué significa y cómo te afecta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/tdtchannels-app-iptv-gratis-desaparece-play-store-significa-como-te-afecta-1414977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tdtchannels-app-iptv-gratis-desaparece-play-store-significa-como-te-afecta-4255049.jpg?tf=1200x' alt='TDTChannels, la app del IPTV gratis, desaparece de la Play Store: qué significa y cómo te afecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elegante-deportivo-oneplus-watch-2-mejores-relojes-inteligentes-wear-os-precio-outlet-1414916'>Elegante y deportivo: el OnePlus Watch 2 es uno de los mejores relojes inteligentes con Wear OS y está a precio de outlet</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elegante-deportivo-oneplus-watch-2-mejores-relojes-inteligentes-wear-os-precio-outlet-1414916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oneplus-watch-2-4254955.jpg?tf=1200x' alt='Elegante y deportivo: el OnePlus Watch 2 es uno de los mejores relojes inteligentes con Wear OS y está a precio de outlet' />
     </a>
 </div>
 
