@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-google-meta-preparando-propio-buscador-integrado-ia-1414897'>Adiós a Google, Meta está preparando su propio buscador integrado en su IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-google-meta-preparando-propio-buscador-integrado-ia-1414897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/meta-facebook-3209280.jpg?tf=1200x' alt='Adiós a Google, Meta está preparando su propio buscador integrado en su IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/va-construir-robot-autonomo-torres-comunicaciones-luna-marte-1414890'>Así va a construir este robot autónomo torres de comunicaciones en la Luna y Marte</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/va-construir-robot-autonomo-torres-comunicaciones-luna-marte-1414890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1730182928250-4254934.jpg?tf=1200x' alt='Así va a construir este robot autónomo torres de comunicaciones en la Luna y Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-ipad-ni-kindle-boox-go-color-7-mi-lector-ebooks-estar-ebook-tablet-android-1411633'>Ni iPad ni Kindle, Boox Go Color 7 es mi lector de ebooks por estar entre un ebook y una tablet Android</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-ipad-ni-kindle-boox-go-color-7-mi-lector-ebooks-estar-ebook-tablet-android-1411633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/boox-go-color-7-4249073.jpg?tf=1200x' alt='Ni iPad ni Kindle, Boox Go Color 7 es mi lector de ebooks por estar entre un ebook y una tablet Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/noticias/mi-truco-google-maps-waze-saber-gasolinera-pie-carretera-hay-desviarse-1414418'>Este es mi truco en Google Maps y Waze para saber si una gasolinera está a pie de carretera o hay que desviarse</a></h4>
     <a href='https://computerhoy.20minutos.es/noticias/mi-truco-google-maps-waze-saber-gasolinera-pie-carretera-hay-desviarse-1414418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mi-truco-google-maps-waze-saber-gasolinera-pie-carretera-hay-desviarse-4254171.jpg?tf=1200x' alt='Este es mi truco en Google Maps y Waze para saber si una gasolinera está a pie de carretera o hay que desviarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-momentos-comparte-fragmentos-series-peliculas-redes-sociales-1414879'>Netflix estrena Momentos: comparte fragmentos de series o películas en redes sociales</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-momentos-comparte-fragmentos-series-peliculas-redes-sociales-1414879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/netflix-estrena-momentos-compartir-fragmentos-series-peliculas-4254921.jpg?tf=1200x' alt='Netflix estrena Momentos: comparte fragmentos de series o películas en redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/envie-captura-datos-personales-tapados-consiguieron-leerlos-ya-no-me-fio-ahora-siempre-hago-1414342'>Envié una captura con datos personales tapados y consiguieron leerlos, ya no me fío y ahora siempre hago esto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/envie-captura-datos-personales-tapados-consiguieron-leerlos-ya-no-me-fio-ahora-siempre-hago-1414342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/envie-captura-datos-personales-tapados-consiguieron-leerlos-ya-no-me-fio-ahora-siempre-hago-4254092.jpg?tf=1200x' alt='Envié una captura con datos personales tapados y consiguieron leerlos, ya no me fío y ahora siempre hago esto' />
     </a>
 </div>
 
