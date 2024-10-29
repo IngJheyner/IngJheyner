@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-bug-placas-base-intel-z890-1415148'>La maldición de Windows 11 24H2 ataca de nuevo: las placas base se bloquean o reinician constantemente</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-bug-placas-base-intel-z890-1415148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/maldicion-windows-11-24h2-ataca-nuevo-placas-base-bloquean-reinician-constantemente-4255290.jpg?tf=1200x' alt='La maldición de Windows 11 24H2 ataca de nuevo: las placas base se bloquean o reinician constantemente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/ctrlshift-convierte-atajos-teclado-poderosos-windows-1415144'>Ctrl+Shift se convierte en uno de los atajos de teclado más poderosos de Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/ctrlshift-convierte-atajos-teclado-poderosos-windows-1415144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/teclado-portatil-windows-11-4255299.jpg?tf=1200x' alt='Ctrl+Shift se convierte en uno de los atajos de teclado más poderosos de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ios-18-arruinando-duracion-bateria-iphone-debes-hacer-solucionarlo-1415143'>¿iOS 18 está arruinando la duración de la batería de tu iPhone? Esto es lo que debes hacer para solucionarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ios-18-arruinando-duracion-bateria-iphone-debes-hacer-solucionarlo-1415143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bateria-iphone-4255297.jpg?tf=1200x' alt='¿iOS 18 está arruinando la duración de la batería de tu iPhone? Esto es lo que debes hacer para solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-joker-2-mayor-fracaso-joaquin-phoenix-taquilla-puede-verse-amazon-primer-video-1414775'>No es Joker 2: el mayor fracaso de Joaquin Phoenix en taquilla puede verse en Amazon Primer Video</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/no-joker-2-mayor-fracaso-joaquin-phoenix-taquilla-puede-verse-amazon-primer-video-1414775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/no-joker-2-mayor-fracaso-joaquin-phoenix-taquilla-puede-verse-amazon-primer-video-4254723.jpg?tf=1200x' alt='No es Joker 2: el mayor fracaso de Joaquin Phoenix en taquilla puede verse en Amazon Primer Video' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nueva-version-sistema-operativo-raspberry-pi-hace-cambio-completo-wayland-1415139'>La nueva versión del sistema operativo Raspberry Pi hace el cambio completo a Wayland</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nueva-version-sistema-operativo-raspberry-pi-hace-cambio-completo-wayland-1415139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/raspberry-pi-4-2531287.jpg?tf=1200x' alt='La nueva versión del sistema operativo Raspberry Pi hace el cambio completo a Wayland' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/razon-autor-historia-interminable-odiaba-pelicula-no-han-entendido-nada-1414997'>La razón por la que el autor de La historia interminable odiaba la película: “No han entendido nada”</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/razon-autor-historia-interminable-odiaba-pelicula-no-han-entendido-nada-1414997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/razon-autor-historia-interminable-odiaba-pelicula-no-han-entendido-nada-4255090.jpg?tf=1200x' alt='La razón por la que el autor de La historia interminable odiaba la película: “No han entendido nada”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pixel-8-pro-google-rivaliza-directamente-iphone-cuesta-solo-540-euros-cupon-1415018'>El Pixel 8 Pro de Google rivaliza directamente con el iPhone y cuesta solo 540 euros con un cupón</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pixel-8-pro-google-rivaliza-directamente-iphone-cuesta-solo-540-euros-cupon-1415018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-pixel-8-pro-3485184.jpg?tf=1200x' alt='El Pixel 8 Pro de Google rivaliza directamente con el iPhone y cuesta solo 540 euros con un cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ni-cancer-ni-radiacion-experto-revela-verdadero-peligro-salud-microondas-1414999'>Ni cáncer ni radiación, un experto revela el verdadero peligro para la salud del microondas</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ni-cancer-ni-radiacion-experto-revela-verdadero-peligro-salud-microondas-1414999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/peligros-microondas-4255111.jpg?tf=1200x' alt='Ni cáncer ni radiación, un experto revela el verdadero peligro para la salud del microondas' />
     </a>
 </div>
 
