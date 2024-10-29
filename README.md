@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/decodificador-movistar-anade-funcionalidad-copiada-netflix-llevabamos-anos-esperando-1414904'>El decodificador de Movistar+ añade una funcionalidad copiada de Netflix que llevábamos años esperando</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/decodificador-movistar-anade-funcionalidad-copiada-netflix-llevabamos-anos-esperando-1414904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/decodificador-movistar-4254958.jpg?tf=1200x' alt='El decodificador de Movistar+ añade una funcionalidad copiada de Netflix que llevábamos años esperando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/app-deporte-filtrando-donde-esconden-lideres-mundiales-1414899'>Esta app de deporte está filtrando dónde se esconden los líderes mundiales</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/app-deporte-filtrando-donde-esconden-lideres-mundiales-1414899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/donald-trump-3760542.jpg?tf=1200x' alt='Esta app de deporte está filtrando dónde se esconden los líderes mundiales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/va-construir-robot-autonomo-torres-comunicaciones-luna-marte-1414890'>Así va a construir este robot autónomo torres de comunicaciones en la Luna y Marte</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/va-construir-robot-autonomo-torres-comunicaciones-luna-marte-1414890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1730182928250-4254934.jpg?tf=1200x' alt='Así va a construir este robot autónomo torres de comunicaciones en la Luna y Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-ipad-ni-kindle-boox-go-color-7-mi-lector-ebooks-estar-ebook-tablet-android-1411633'>Ni iPad ni Kindle, Boox Go Color 7 es mi lector de ebooks por estar entre un ebook y una tablet Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-ipad-ni-kindle-boox-go-color-7-mi-lector-ebooks-estar-ebook-tablet-android-1411633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/boox-go-color-7-4249073.jpg?tf=1200x' alt='Ni iPad ni Kindle, Boox Go Color 7 es mi lector de ebooks por estar entre un ebook y una tablet Android' />
     </a>
 </div>
 
