@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/app-deporte-filtrando-donde-esconden-lideres-mundiales-1414899'>Esta app de deporte está filtrando dónde se esconden los líderes mundiales</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/app-deporte-filtrando-donde-esconden-lideres-mundiales-1414899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/donald-trump-3760542.jpg?tf=1200x' alt='Esta app de deporte está filtrando dónde se esconden los líderes mundiales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/alimentacion/freidora-top-cosori-supera-toda-competencia-barata-piensas-1414883'>La freidora más top de Cosori supera a toda la competencia y es más barata de lo que piensas</a></h4>
+    <a href='https://computerhoy.20minutos.es/alimentacion/freidora-top-cosori-supera-toda-competencia-barata-piensas-1414883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cosori-4254932.jpg?tf=1200x' alt='La freidora más top de Cosori supera a toda la competencia y es más barata de lo que piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-google-meta-preparando-propio-buscador-integrado-ia-1414897'>Adiós a Google, Meta está preparando su propio buscador integrado en su IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-google-meta-preparando-propio-buscador-integrado-ia-1414897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/meta-facebook-3209280.jpg?tf=1200x' alt='Adiós a Google, Meta está preparando su propio buscador integrado en su IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-ipad-ni-kindle-boox-go-color-7-mi-lector-ebooks-estar-ebook-tablet-android-1411633'>Ni iPad ni Kindle, Boox Go Color 7 es mi lector de ebooks por estar entre un ebook y una tablet Android</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-ipad-ni-kindle-boox-go-color-7-mi-lector-ebooks-estar-ebook-tablet-android-1411633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/boox-go-color-7-4249073.jpg?tf=1200x' alt='Ni iPad ni Kindle, Boox Go Color 7 es mi lector de ebooks por estar entre un ebook y una tablet Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/sony-linkbuds-fit-auriculares-deportivos-1414611'>Ni Beats ni Shokz, los Sony LinkBuds Fit son mis auriculares deportivos favoritos por comodidad y calidad de sonido</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/sony-linkbuds-fit-auriculares-deportivos-1414611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sony-linkbuds-fit-4254515.jpg?tf=1200x' alt='Ni Beats ni Shokz, los Sony LinkBuds Fit son mis auriculares deportivos favoritos por comodidad y calidad de sonido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/noticias/mi-truco-google-maps-waze-saber-gasolinera-pie-carretera-hay-desviarse-1414418'>Este es mi truco en Google Maps y Waze para saber si una gasolinera está a pie de carretera o hay que desviarse</a></h4>
-    <a href='https://computerhoy.20minutos.es/noticias/mi-truco-google-maps-waze-saber-gasolinera-pie-carretera-hay-desviarse-1414418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mi-truco-google-maps-waze-saber-gasolinera-pie-carretera-hay-desviarse-4254171.jpg?tf=1200x' alt='Este es mi truco en Google Maps y Waze para saber si una gasolinera está a pie de carretera o hay que desviarse' />
     </a>
 </div>
 
