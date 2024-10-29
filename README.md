@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-astronautas-hospitalizado-spacex-1414873'>La NASA hospitalizó en secreto a uno de los cuatro astronautas que regresaron a la Tierra con SpaceX</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-astronautas-hospitalizado-spacex-1414873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nasa-hospitalizo-secreto-cuatro-astronautas-regresaron-tierra-hace-dias-4254903.jpg?tf=1200x' alt='La NASA hospitalizó en secreto a uno de los cuatro astronautas que regresaron a la Tierra con SpaceX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-creador-linux-inteligencia-artificial-90-marketing-10-realidad-1414861'>Linus Torvalds, el creador de Linux: 'La IA actual es 90% marketing y 10% realidad'</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-creador-linux-inteligencia-artificial-90-marketing-10-realidad-1414861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/linus-torvalds-creador-linux-ia-90-marketing-10-realidad-4254885.jpg?tf=1200x' alt='Linus Torvalds, el creador de Linux: 'La IA actual es 90% marketing y 10% realidad'' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/bitelchus-bitelchus-cameo-pillo-sorpresa-michael-keaton-principio-no-reconoci-1414334'>Bitelchús Bitelchús: el cameo que pilló por sorpresa hasta a Michael Keaton: “Al principio no lo reconocí”</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/bitelchus-bitelchus-cameo-pillo-sorpresa-michael-keaton-principio-no-reconoci-1414334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/bitelchus-bitelchus-3755488.jpg?tf=1200x' alt='Bitelchús Bitelchús: el cameo que pilló por sorpresa hasta a Michael Keaton: “Al principio no lo reconocí”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-4-filtrada-posible-fecha-lanzamiento-nuevo-iphone-barato-especificaciones-precio-1414840'>iPhone SE 4: filtrada la posible fecha de lanzamiento del nuevo iPhone "barato", especificaciones y precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-4-filtrada-posible-fecha-lanzamiento-nuevo-iphone-barato-especificaciones-precio-1414840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656601.jpg?tf=1200x' alt='iPhone SE 4: filtrada la posible fecha de lanzamiento del nuevo iPhone "barato", especificaciones y precio' />
     </a>
 </div>
 
