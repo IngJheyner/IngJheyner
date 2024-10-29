@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/noticias/mi-truco-google-maps-waze-saber-gasolinera-pie-carretera-hay-desviarse-1414418'>Este es mi truco en Google Maps y Waze para saber si una gasolinera está a pie de carretera o hay que desviarse</a></h4>
+    <a href='https://computerhoy.20minutos.es/noticias/mi-truco-google-maps-waze-saber-gasolinera-pie-carretera-hay-desviarse-1414418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mi-truco-google-maps-waze-saber-gasolinera-pie-carretera-hay-desviarse-4254171.jpg?tf=1200x' alt='Este es mi truco en Google Maps y Waze para saber si una gasolinera está a pie de carretera o hay que desviarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-momentos-comparte-fragmentos-series-peliculas-redes-sociales-1414879'>Netflix estrena Momentos: comparte fragmentos de series o películas en redes sociales</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-momentos-comparte-fragmentos-series-peliculas-redes-sociales-1414879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/netflix-estrena-momentos-compartir-fragmentos-series-peliculas-4254921.jpg?tf=1200x' alt='Netflix estrena Momentos: comparte fragmentos de series o películas en redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/envie-captura-datos-personales-tapados-consiguieron-leerlos-ya-no-me-fio-ahora-siempre-hago-1414342'>Envié una captura con datos personales tapados y consiguieron leerlos, ya no me fío y ahora siempre hago esto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/envie-captura-datos-personales-tapados-consiguieron-leerlos-ya-no-me-fio-ahora-siempre-hago-1414342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/envie-captura-datos-personales-tapados-consiguieron-leerlos-ya-no-me-fio-ahora-siempre-hago-4254092.jpg?tf=1200x' alt='Envié una captura con datos personales tapados y consiguieron leerlos, ya no me fío y ahora siempre hago esto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/precio-vivienda-tan-disparado-alguien-ha-comprado-viejo-boeing-747-ha-convertido-mansion-1414400'>El precio de la vivienda está tan disparado que alguien se ha comprado un viejo Boeing 747 y lo ha convertido en una mansión</a></h4>
     <a href='https://computerhoy.20minutos.es/life/precio-vivienda-tan-disparado-alguien-ha-comprado-viejo-boeing-747-ha-convertido-mansion-1414400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/precio-vivienda-tan-disparado-alguien-ha-comprado-viejo-boeing-747-ha-convertido-mansion-4254155.jpg?tf=1200x' alt='El precio de la vivienda está tan disparado que alguien se ha comprado un viejo Boeing 747 y lo ha convertido en una mansión' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/paso-a-paso/puedes-instalar-cualquier-plataforma-streaming-kodi-netflix-prime-video-hbo-1414311'>Así puedes instalar cualquier plataforma de streaming en Kodi: Netflix, Prime Video, HBO y más</a></h4>
     <a href='https://computerhoy.20minutos.es/paso-a-paso/puedes-instalar-cualquier-plataforma-streaming-kodi-netflix-prime-video-hbo-1414311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/plataformass-streaming-kodi-4254037.jpg?tf=1200x' alt='Así puedes instalar cualquier plataforma de streaming en Kodi: Netflix, Prime Video, HBO y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-astronautas-hospitalizado-spacex-1414873'>La NASA hospitalizó en secreto a uno de los cuatro astronautas que regresaron a la Tierra con SpaceX</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-astronautas-hospitalizado-spacex-1414873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nasa-hospitalizo-secreto-cuatro-astronautas-regresaron-tierra-hace-dias-4254903.jpg?tf=1200x' alt='La NASA hospitalizó en secreto a uno de los cuatro astronautas que regresaron a la Tierra con SpaceX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-creador-linux-inteligencia-artificial-90-marketing-10-realidad-1414861'>Linus Torvalds, el creador de Linux: 'La IA actual es 90% marketing y 10% realidad'</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-creador-linux-inteligencia-artificial-90-marketing-10-realidad-1414861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/linus-torvalds-creador-linux-ia-90-marketing-10-realidad-4254885.jpg?tf=1200x' alt='Linus Torvalds, el creador de Linux: 'La IA actual es 90% marketing y 10% realidad'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-recibe-mayores-actualizaciones-canales-gratis-tv-radio-1414848'>TDTChannels recibe una de sus mayores actualizaciones de canales gratis de TV y radio</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tdtchannels-recibe-mayores-actualizaciones-canales-gratis-tv-radio-1414848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-instalar-tdtchannels-anadir-listas-canales-gratis-3275078.jpg?tf=1200x' alt='TDTChannels recibe una de sus mayores actualizaciones de canales gratis de TV y radio' />
     </a>
 </div>
 
