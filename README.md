@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/kamala-harris-donald-trump-ia-predice-ganador-elecciones-estados-unidos-1414950'>¿Kamala Harris o Donald Trump? Esta IA predice el ganador de las elecciones en Estados Unidos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/kamala-harris-donald-trump-ia-predice-ganador-elecciones-estados-unidos-1414950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/donald-trump-kamala-harris-4133712.jpg?tf=1200x' alt='¿Kamala Harris o Donald Trump? Esta IA predice el ganador de las elecciones en Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/compra-tanque-ebay-deposito-lleno-lingotes-oro-valen-millones-euros-1415161'>Compra un tanque en eBay, y el depósito está lleno de lingotes de oro que valen millones de euros</a></h4>
     <a href='https://computerhoy.20minutos.es/life/compra-tanque-ebay-deposito-lleno-lingotes-oro-valen-millones-euros-1415161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/compra-tanque-ebay-deposito-lleno-lingotes-oro-valen-millones-euros-4255319.jpg?tf=1200x' alt='Compra un tanque en eBay, y el depósito está lleno de lingotes de oro que valen millones de euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/ios-18-arruinando-duracion-bateria-iphone-debes-hacer-solucionarlo-1415143'>¿iOS 18 está arruinando la duración de la batería de tu iPhone? Esto es lo que debes hacer para solucionarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/ios-18-arruinando-duracion-bateria-iphone-debes-hacer-solucionarlo-1415143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bateria-iphone-4255297.jpg?tf=1200x' alt='¿iOS 18 está arruinando la duración de la batería de tu iPhone? Esto es lo que debes hacer para solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-joker-2-mayor-fracaso-joaquin-phoenix-taquilla-puede-verse-amazon-primer-video-1414775'>No es Joker 2: el mayor fracaso de Joaquin Phoenix en taquilla puede verse en Amazon Primer Video</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/no-joker-2-mayor-fracaso-joaquin-phoenix-taquilla-puede-verse-amazon-primer-video-1414775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/no-joker-2-mayor-fracaso-joaquin-phoenix-taquilla-puede-verse-amazon-primer-video-4254723.jpg?tf=1200x' alt='No es Joker 2: el mayor fracaso de Joaquin Phoenix en taquilla puede verse en Amazon Primer Video' />
     </a>
 </div>
 
