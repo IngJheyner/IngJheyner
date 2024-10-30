@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/dana-como-hacer-llamadas-emergencia-sos-movil-cuando-no-tienes-wifi-ni-datos-1415207'>DANA: cómo hacer llamadas de emergencia SOS con el móvil cuando no tienes WiFi ni datos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/dana-como-hacer-llamadas-emergencia-sos-movil-cuando-no-tienes-wifi-ni-datos-1415207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/emergencia-sos-iphone-4255380.jpg?tf=1200x' alt='DANA: cómo hacer llamadas de emergencia SOS con el móvil cuando no tienes WiFi ni datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/airpods-baratos-ya-pueden-hacer-prueba-audicion-clinica-1415200'>Los AirPods más baratos ya pueden hacer prueba de audición clínica</a></h4>
+    <a href='https://computerhoy.20minutos.es/airpods-baratos-ya-pueden-hacer-prueba-audicion-clinica-1415200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/airpods-4-cancelacion-activa-ruido-4242523.jpg?tf=1200x' alt='Los AirPods más baratos ya pueden hacer prueba de audición clínica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/canon-apuesta-video-lente-dual-estereoscopica-3d-objetivos-disparo-hibrido-1415061'>Canon apuesta por el vídeo con una lente dual estereoscópica 3D y más objetivos para disparo híbrido</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/canon-apuesta-video-lente-dual-estereoscopica-3d-objetivos-disparo-hibrido-1415061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/canon-rf-s-78-mm-f4-stm-dual-4255211.jpg?tf=1200x' alt='Canon apuesta por el vídeo con una lente dual estereoscópica 3D y más objetivos para disparo híbrido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-bose-quietcomfort-earbuds-2024-auriculares-quieren-ser-gama-media-pero-no-logran-1413537'>He probado los Bose QuietComfort Earbuds (2024), unos auriculares que quieren ser de gama media pero no lo logran</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/he-probado-bose-quietcomfort-earbuds-2024-auriculares-quieren-ser-gama-media-pero-no-logran-1413537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bose-quietcomfort-earbuds-4252829.jpg?tf=1200x' alt='He probado los Bose QuietComfort Earbuds (2024), unos auriculares que quieren ser de gama media pero no lo logran' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/noticias/como-activar-tres-camaras-secretas-whatsapp-casi-nadie-conoce-1414867'>Cómo activar las tres cámaras secretas de WhatsApp que casi nadie conoce</a></h4>
-    <a href='https://computerhoy.20minutos.es/noticias/como-activar-tres-camaras-secretas-whatsapp-casi-nadie-conoce-1414867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-activar-tres-camaras-secretas-whatsapp-casi-nadie-conoce-4254916.jpg?tf=1200x' alt='Cómo activar las tres cámaras secretas de WhatsApp que casi nadie conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/fabricantes-japoneses-desmontan-coche-electrico-chino-secretos-1415169'>Fabricantes japoneses desmontan un coche eléctrico chino y alucinan (para bien) con lo que encuentran</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/fabricantes-japoneses-desmontan-coche-electrico-chino-secretos-1415169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fabricantes-japoneses-desmontan-coche-electrico-chino-alucinan-bien-encuentran-4255338.jpg?tf=1200x' alt='Fabricantes japoneses desmontan un coche eléctrico chino y alucinan (para bien) con lo que encuentran' />
     </a>
 </div>
 
