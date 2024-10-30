@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-samsung-estarian-considerando-comprar-intel-ultimos-despidos-1415262'>Apple y Samsung estarían considerando comprar Intel tras sus últimos despidos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/apple-samsung-estarian-considerando-comprar-intel-ultimos-despidos-1415262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fin-rumores-intel-no-va-vender-procesadores-nadie-4243166.jpg?tf=1200x' alt='Apple y Samsung estarían considerando comprar Intel tras sus últimos despidos' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/padre-hija-descifran-mensaje-encriptado-marte-principales-componentes-vida-1415312'>Un padre y su hija descifran un mensaje encriptado de Marte con los principales componentes de la vida</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/padre-hija-descifran-mensaje-encriptado-marte-principales-componentes-vida-1415312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/padre-hija-descifran-mensaje-encriptado-marte-principales-componentes-vida-4255566.jpg?tf=1200x' alt='Un padre y su hija descifran un mensaje encriptado de Marte con los principales componentes de la vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/mantente-conectado-movil-smartwatch-samsung-tiene-todo-deporte-deber-ha-hundido-precio-amazon-1415198'>Mantente conectado sin tu móvil: este smartwatch de Samsung lo tiene todo para el deporte y el deber y ha hundido su precio en Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/mantente-conectado-movil-smartwatch-samsung-tiene-todo-deporte-deber-ha-hundido-precio-amazon-1415198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch7-4g-4255367.jpg?tf=1200x' alt='Mantente conectado sin tu móvil: este smartwatch de Samsung lo tiene todo para el deporte y el deber y ha hundido su precio en Amazon' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/desinformacion-elecciones-eeuu-dando-mucho-dinero-algunos-usuarios-x-1415333'>La desinformación sobre las elecciones de EEUU está dando mucho dinero a algunos usuarios en X</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/desinformacion-elecciones-eeuu-dando-mucho-dinero-algunos-usuarios-x-1415333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/elecciones-eeuu-4255038.jpg?tf=1200x' alt='La desinformación sobre las elecciones de EEUU está dando mucho dinero a algunos usuarios en X' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cosas-muy-extranas-no-sabias-podias-conectar-usb-ordenador-1415230'>Cosas muy extrañas que no sabías que podías conectar al USB de tu ordenador</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cosas-muy-extranas-no-sabias-podias-conectar-usb-ordenador-1415230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gadgets-urb-4255404.jpg?tf=1200x' alt='Cosas muy extrañas que no sabías que podías conectar al USB de tu ordenador' />
+    <h4><a href='https://computerhoy.20minutos.es/life/vuelven-10000-billetes-tren-euro-ouigo-hay-truco-infalible-hacerte-1415299'>Vuelven los 10.000 billetes de tren a un euro de Ouigo y hay un truco infalible para hacerte con uno</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/vuelven-10000-billetes-tren-euro-ouigo-hay-truco-infalible-hacerte-1415299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/vuelven-10000-billetes-tren-euro-ouigo-hay-truco-infalible-hacerte-4255512.jpg?tf=1200x' alt='Vuelven los 10.000 billetes de tren a un euro de Ouigo y hay un truco infalible para hacerte con uno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/youtube-vuelve-hacer-pruebas-diseno-enfurecen-fans-1415210'>YouTube vuelve a hacer pruebas en su diseño que enfurecen a sus fans</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/youtube-vuelve-hacer-pruebas-diseno-enfurecen-fans-1415210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/youtube-vuelve-hacer-pruebas-diseno-enfurece-fans-4255402.jpg?tf=1200x' alt='YouTube vuelve a hacer pruebas en su diseño que enfurecen a sus fans' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/adios-samsung-galaxy-surcorena-plantea-cambiar-nombre-1415307'>¿Adiós a Samsung Galaxy? La surcorena se plantea cambiar de nombre</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/adios-samsung-galaxy-surcorena-plantea-cambiar-nombre-1415307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/galaxy-s24-ultra-4249339.jpg?tf=1200x' alt='¿Adiós a Samsung Galaxy? La surcorena se plantea cambiar de nombre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/dana-como-asegurarte-tienes-activadas-movil-alertas-emergencias-gobierno-1415248'>DANA: cómo asegurarte que tienes activadas en tu móvil las alertas de emergencias del Gobierno</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/dana-como-asegurarte-tienes-activadas-movil-alertas-emergencias-gobierno-1415248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dana-avisos-emergencias-4255478.jpg?tf=1200x' alt='DANA: cómo asegurarte que tienes activadas en tu móvil las alertas de emergencias del Gobierno' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/router-fritzbox-7690-avm-llega-espana-wifi-7-velocidades-71-gbps-1415320'>El router Fritz!Box 7690 de AVM llega a España con WiFi 7 y velocidades de hasta 7,1 Gbps</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/router-fritzbox-7690-avm-llega-espana-wifi-7-velocidades-71-gbps-1415320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fritzbox-7690-4255570.jpg?tf=1200x' alt='El router Fritz!Box 7690 de AVM llega a España con WiFi 7 y velocidades de hasta 7,1 Gbps' />
     </a>
 </div>
 
