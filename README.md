@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/youtube-vuelve-hacer-pruebas-diseno-enfurecen-fans-1415210'>YouTube vuelve a hacer pruebas en su diseño que enfurecen a sus fans</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/youtube-vuelve-hacer-pruebas-diseno-enfurecen-fans-1415210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/youtube-vuelve-hacer-pruebas-diseno-enfurece-fans-4255402.jpg?tf=1200x' alt='YouTube vuelve a hacer pruebas en su diseño que enfurecen a sus fans' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/dana-como-asegurarte-tienes-activadas-movil-alertas-emergencias-gobierno-1415248'>DANA: cómo asegurarte que tienes activadas en tu móvil las alertas de emergencias del Gobierno</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/dana-como-asegurarte-tienes-activadas-movil-alertas-emergencias-gobierno-1415248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dana-avisos-emergencias-4255478.jpg?tf=1200x' alt='DANA: cómo asegurarte que tienes activadas en tu móvil las alertas de emergencias del Gobierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-matara-productividad-doodle-juego-especial-halloween-1415229'>Google matará tu productividad con un doodle y juego especial de Halloween</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-matara-productividad-doodle-juego-especial-halloween-1415229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/doodle-google-halloween-4255386.jpg?tf=1200x' alt='Google matará tu productividad con un doodle y juego especial de Halloween' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/dana-como-hacer-llamadas-emergencia-sos-movil-cuando-no-tienes-wifi-ni-datos-1415207'>DANA: cómo hacer llamadas de emergencia SOS con el móvil cuando no tienes WiFi ni datos</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/dana-como-hacer-llamadas-emergencia-sos-movil-cuando-no-tienes-wifi-ni-datos-1415207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/emergencia-sos-iphone-4255380.jpg?tf=1200x' alt='DANA: cómo hacer llamadas de emergencia SOS con el móvil cuando no tienes WiFi ni datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/airpods-baratos-ya-pueden-hacer-prueba-audicion-clinica-1415200'>Los AirPods más baratos ya pueden hacer prueba de audición clínica</a></h4>
-    <a href='https://computerhoy.20minutos.es/airpods-baratos-ya-pueden-hacer-prueba-audicion-clinica-1415200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/airpods-4-cancelacion-activa-ruido-4242523.jpg?tf=1200x' alt='Los AirPods más baratos ya pueden hacer prueba de audición clínica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/canon-apuesta-video-lente-dual-estereoscopica-3d-objetivos-disparo-hibrido-1415061'>Canon apuesta por el vídeo con una lente dual estereoscópica 3D y más objetivos para disparo híbrido</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/canon-apuesta-video-lente-dual-estereoscopica-3d-objetivos-disparo-hibrido-1415061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/canon-rf-s-78-mm-f4-stm-dual-4255211.jpg?tf=1200x' alt='Canon apuesta por el vídeo con una lente dual estereoscópica 3D y más objetivos para disparo híbrido' />
     </a>
 </div>
 
