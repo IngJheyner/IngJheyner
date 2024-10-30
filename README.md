@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/kamala-harris-donald-trump-ia-predice-ganador-elecciones-estados-unidos-1414950'>¿Kamala Harris o Donald Trump? Esta IA predice el ganador de las elecciones en Estados Unidos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/kamala-harris-donald-trump-ia-predice-ganador-elecciones-estados-unidos-1414950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/donald-trump-kamala-harris-4133712.jpg?tf=1200x' alt='¿Kamala Harris o Donald Trump? Esta IA predice el ganador de las elecciones en Estados Unidos' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/canon-apuesta-video-lente-dual-estereoscopica-3d-objetivos-disparo-hibrido-1415061'>Canon apuesta por el vídeo con una lente dual estereoscópica 3D y más objetivos para disparo híbrido</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/canon-apuesta-video-lente-dual-estereoscopica-3d-objetivos-disparo-hibrido-1415061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/canon-rf-s-78-mm-f4-stm-dual-4255211.jpg?tf=1200x' alt='Canon apuesta por el vídeo con una lente dual estereoscópica 3D y más objetivos para disparo híbrido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/compra-tanque-ebay-deposito-lleno-lingotes-oro-valen-millones-euros-1415161'>Compra un tanque en eBay, y el depósito está lleno de lingotes de oro que valen millones de euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/compra-tanque-ebay-deposito-lleno-lingotes-oro-valen-millones-euros-1415161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/compra-tanque-ebay-deposito-lleno-lingotes-oro-valen-millones-euros-4255319.jpg?tf=1200x' alt='Compra un tanque en eBay, y el depósito está lleno de lingotes de oro que valen millones de euros' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/no-hay-television-supere-monitor-gaming-480-hz-sony-inzone-m10s-me-han-dejado-palabras-1412119'>No hay televisión que supere a este monitor gaming: los 480 Hz del Sony INZONE M10S me han dejado sin palabras</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/no-hay-television-supere-monitor-gaming-480-hz-sony-inzone-m10s-me-han-dejado-palabras-1412119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sony-inzone-m10s-4250267.jpg?tf=1200x' alt='No hay televisión que supere a este monitor gaming: los 480 Hz del Sony INZONE M10S me han dejado sin palabras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-bug-placas-base-intel-z890-1415148'>La maldición de Windows 11 24H2 ataca de nuevo: las placas base se bloquean o reinician constantemente</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-bug-placas-base-intel-z890-1415148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/maldicion-windows-11-24h2-ataca-nuevo-placas-base-bloquean-reinician-constantemente-4255290.jpg?tf=1200x' alt='La maldición de Windows 11 24H2 ataca de nuevo: las placas base se bloquean o reinician constantemente' />
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-bose-quietcomfort-earbuds-2024-auriculares-quieren-ser-gama-media-pero-no-logran-1413537'>He probado los Bose QuietComfort Earbuds (2024), unos auriculares que quieren ser de gama media pero no lo logran</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-bose-quietcomfort-earbuds-2024-auriculares-quieren-ser-gama-media-pero-no-logran-1413537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bose-quietcomfort-earbuds-4252829.jpg?tf=1200x' alt='He probado los Bose QuietComfort Earbuds (2024), unos auriculares que quieren ser de gama media pero no lo logran' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/ctrlshift-convierte-atajos-teclado-poderosos-windows-1415144'>Ctrl+Shift se convierte en uno de los atajos de teclado más poderosos de Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/ctrlshift-convierte-atajos-teclado-poderosos-windows-1415144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/teclado-portatil-windows-11-4255299.jpg?tf=1200x' alt='Ctrl+Shift se convierte en uno de los atajos de teclado más poderosos de Windows' />
+    <h4><a href='https://computerhoy.20minutos.es/noticias/como-activar-tres-camaras-secretas-whatsapp-casi-nadie-conoce-1414867'>Cómo activar las tres cámaras secretas de WhatsApp que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.20minutos.es/noticias/como-activar-tres-camaras-secretas-whatsapp-casi-nadie-conoce-1414867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-activar-tres-camaras-secretas-whatsapp-casi-nadie-conoce-4254916.jpg?tf=1200x' alt='Cómo activar las tres cámaras secretas de WhatsApp que casi nadie conoce' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ios-18-arruinando-duracion-bateria-iphone-debes-hacer-solucionarlo-1415143'>¿iOS 18 está arruinando la duración de la batería de tu iPhone? Esto es lo que debes hacer para solucionarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ios-18-arruinando-duracion-bateria-iphone-debes-hacer-solucionarlo-1415143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bateria-iphone-4255297.jpg?tf=1200x' alt='¿iOS 18 está arruinando la duración de la batería de tu iPhone? Esto es lo que debes hacer para solucionarlo' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/fabricantes-japoneses-desmontan-coche-electrico-chino-secretos-1415169'>Fabricantes japoneses desmontan un coche eléctrico chino y alucinan (para bien) con lo que encuentran</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/fabricantes-japoneses-desmontan-coche-electrico-chino-secretos-1415169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fabricantes-japoneses-desmontan-coche-electrico-chino-alucinan-bien-encuentran-4255338.jpg?tf=1200x' alt='Fabricantes japoneses desmontan un coche eléctrico chino y alucinan (para bien) con lo que encuentran' />
     </a>
 </div>
 
