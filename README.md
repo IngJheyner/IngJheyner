@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-samsung-estarian-considerando-comprar-intel-ultimos-despidos-1415262'>Apple y Samsung estarían considerando comprar Intel tras sus últimos despidos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/apple-samsung-estarian-considerando-comprar-intel-ultimos-despidos-1415262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/fin-rumores-intel-no-va-vender-procesadores-nadie-4243166.jpg?tf=1200x' alt='Apple y Samsung estarían considerando comprar Intel tras sus últimos despidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/mantente-conectado-movil-smartwatch-samsung-tiene-todo-deporte-deber-ha-hundido-precio-amazon-1415198'>Mantente conectado sin tu móvil: este smartwatch de Samsung lo tiene todo para el deporte y el deber y ha hundido su precio en Amazon</a></h4>
     <a href='https://computerhoy.20minutos.es/life/mantente-conectado-movil-smartwatch-samsung-tiene-todo-deporte-deber-ha-hundido-precio-amazon-1415198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch7-4g-4255367.jpg?tf=1200x' alt='Mantente conectado sin tu móvil: este smartwatch de Samsung lo tiene todo para el deporte y el deber y ha hundido su precio en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/dana-como-asegurarte-tienes-activadas-movil-alertas-emergencias-gobierno-1415248'>DANA: cómo asegurarte que tienes activadas en tu móvil las alertas de emergencias del Gobierno</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/dana-como-asegurarte-tienes-activadas-movil-alertas-emergencias-gobierno-1415248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dana-avisos-emergencias-4255478.jpg?tf=1200x' alt='DANA: cómo asegurarte que tienes activadas en tu móvil las alertas de emergencias del Gobierno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-matara-productividad-doodle-juego-especial-halloween-1415229'>Google matará tu productividad con un doodle y juego especial de Halloween</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-matara-productividad-doodle-juego-especial-halloween-1415229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/doodle-google-halloween-4255386.jpg?tf=1200x' alt='Google matará tu productividad con un doodle y juego especial de Halloween' />
     </a>
 </div>
 
