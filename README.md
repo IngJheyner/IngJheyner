@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/mantente-conectado-movil-smartwatch-samsung-tiene-todo-deporte-deber-ha-hundido-precio-amazon-1415198'>Mantente conectado sin tu móvil: este smartwatch de Samsung lo tiene todo para el deporte y el deber y ha hundido su precio en Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/mantente-conectado-movil-smartwatch-samsung-tiene-todo-deporte-deber-ha-hundido-precio-amazon-1415198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch7-4g-4255367.jpg?tf=1200x' alt='Mantente conectado sin tu móvil: este smartwatch de Samsung lo tiene todo para el deporte y el deber y ha hundido su precio en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cosas-muy-extranas-no-sabias-podias-conectar-usb-ordenador-1415230'>Cosas muy extrañas que no sabías que podías conectar al USB de tu ordenador</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cosas-muy-extranas-no-sabias-podias-conectar-usb-ordenador-1415230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gadgets-urb-4255404.jpg?tf=1200x' alt='Cosas muy extrañas que no sabías que podías conectar al USB de tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/youtube-vuelve-hacer-pruebas-diseno-enfurecen-fans-1415210'>YouTube vuelve a hacer pruebas en su diseño que enfurecen a sus fans</a></h4>
     <a href='https://computerhoy.20minutos.es/google/youtube-vuelve-hacer-pruebas-diseno-enfurecen-fans-1415210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/youtube-vuelve-hacer-pruebas-diseno-enfurece-fans-4255402.jpg?tf=1200x' alt='YouTube vuelve a hacer pruebas en su diseño que enfurecen a sus fans' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/google-matara-productividad-doodle-juego-especial-halloween-1415229'>Google matará tu productividad con un doodle y juego especial de Halloween</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-matara-productividad-doodle-juego-especial-halloween-1415229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/doodle-google-halloween-4255386.jpg?tf=1200x' alt='Google matará tu productividad con un doodle y juego especial de Halloween' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/desconocida-marca-china-procesadores-acerca-peligrosamente-intel-1415195'>Esta desconocida marca china de procesadores se acerca peligrosamente a Intel</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/desconocida-marca-china-procesadores-acerca-peligrosamente-intel-1415195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/desconocida-marca-china-procesadores-acerca-peligrosamente-intel-4255378.jpg?tf=1200x' alt='Esta desconocida marca china de procesadores se acerca peligrosamente a Intel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/dana-como-hacer-llamadas-emergencia-sos-movil-cuando-no-tienes-wifi-ni-datos-1415207'>DANA: cómo hacer llamadas de emergencia SOS con el móvil cuando no tienes WiFi ni datos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/dana-como-hacer-llamadas-emergencia-sos-movil-cuando-no-tienes-wifi-ni-datos-1415207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/emergencia-sos-iphone-4255380.jpg?tf=1200x' alt='DANA: cómo hacer llamadas de emergencia SOS con el móvil cuando no tienes WiFi ni datos' />
     </a>
 </div>
 
