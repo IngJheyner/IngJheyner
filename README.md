@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/reportar-whatsapp-como-hace-significa-reportar-contacto-1414987'>Qué es reportar en WhatsApp: cómo se hace y qué significa reportar a un contacto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/reportar-whatsapp-como-hace-significa-reportar-contacto-1414987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-4255134.jpg?tf=1200x' alt='Qué es reportar en WhatsApp: cómo se hace y qué significa reportar a un contacto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-intelligence-limitaciones-puedes-hacer-ahora-mismo-tienes-iphone-espana-1415268'>Apple Intelligence: limitaciones y qué puedes hacer ahora mismo si tienes un iPhone en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-intelligence-limitaciones-puedes-hacer-ahora-mismo-tienes-iphone-espana-1415268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-intelligence-4136513.jpg?tf=1200x' alt='Apple Intelligence: limitaciones y qué puedes hacer ahora mismo si tienes un iPhone en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/padre-hija-descifran-mensaje-encriptado-marte-principales-componentes-vida-1415312'>Un padre y su hija descifran un mensaje encriptado de Marte con los principales componentes de la vida</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/padre-hija-descifran-mensaje-encriptado-marte-principales-componentes-vida-1415312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/padre-hija-descifran-mensaje-encriptado-marte-principales-componentes-vida-4255566.jpg?tf=1200x' alt='Un padre y su hija descifran un mensaje encriptado de Marte con los principales componentes de la vida' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/vuelven-10000-billetes-tren-euro-ouigo-hay-truco-infalible-hacerte-1415299'>Vuelven los 10.000 billetes de tren a un euro de Ouigo y hay un truco infalible para hacerte con uno</a></h4>
     <a href='https://computerhoy.20minutos.es/life/vuelven-10000-billetes-tren-euro-ouigo-hay-truco-infalible-hacerte-1415299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/vuelven-10000-billetes-tren-euro-ouigo-hay-truco-infalible-hacerte-4255512.jpg?tf=1200x' alt='Vuelven los 10.000 billetes de tren a un euro de Ouigo y hay un truco infalible para hacerte con uno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/adios-samsung-galaxy-surcorena-plantea-cambiar-nombre-1415307'>¿Adiós a Samsung Galaxy? La surcorena se plantea cambiar de nombre</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/adios-samsung-galaxy-surcorena-plantea-cambiar-nombre-1415307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/galaxy-s24-ultra-4249339.jpg?tf=1200x' alt='¿Adiós a Samsung Galaxy? La surcorena se plantea cambiar de nombre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/router-fritzbox-7690-avm-llega-espana-wifi-7-velocidades-71-gbps-1415320'>El router Fritz!Box 7690 de AVM llega a España con WiFi 7 y velocidades de hasta 7,1 Gbps</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/router-fritzbox-7690-avm-llega-espana-wifi-7-velocidades-71-gbps-1415320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/fritzbox-7690-4255570.jpg?tf=1200x' alt='El router Fritz!Box 7690 de AVM llega a España con WiFi 7 y velocidades de hasta 7,1 Gbps' />
     </a>
 </div>
 
