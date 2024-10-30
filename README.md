@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/disfraz-ceo-nvidia-jensen-huang-halloween-1415473'>Jensen Huang, CEO de NVIDIA, es tan famoso que los niños se disfrazan de él en Halloween</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/disfraz-ceo-nvidia-jensen-huang-halloween-1415473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nvidia-tan-famosa-taiwan-ninos-disfrazan-ceo-jensen-huang-halloween-4255825.jpg?tf=1200x' alt='Jensen Huang, CEO de NVIDIA, es tan famoso que los niños se disfrazan de él en Halloween' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/dana-ocu-habilita-linea-asesoramiento-afectados-puedan-reclamar-todos-danos-1415457'>DANA: la OCU habilita una línea de asesoramiento para que los afectados puedan reclamar todos los daños</a></h4>
     <a href='https://computerhoy.20minutos.es/life/dana-ocu-habilita-linea-asesoramiento-afectados-puedan-reclamar-todos-danos-1415457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inundaciones-4255817.jpg?tf=1200x' alt='DANA: la OCU habilita una línea de asesoramiento para que los afectados puedan reclamar todos los daños' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pacino-reconoce-tardo-casi-cinco-decadas-ver-padrino-era-poco-desconcertante-1414794'>Al Pacino reconoce que tardó casi cinco décadas en ver El padrino: “Era un poco desconcertante”</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/pacino-reconoce-tardo-casi-cinco-decadas-ver-padrino-era-poco-desconcertante-1414794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pacino-reconoce-tardo-casi-cinco-decadas-ver-padrino-era-poco-desconcertante-4254771.jpg?tf=1200x' alt='Al Pacino reconoce que tardó casi cinco décadas en ver El padrino: “Era un poco desconcertante”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/mejores-aplicaciones-gratis-seguir-dana-tormentas-tiempo-1415445'>Estas son las mejores aplicaciones gratis para seguir la DANA y tormentas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/mejores-aplicaciones-gratis-seguir-dana-tormentas-tiempo-1415445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estas-son-mejores-aplicaciones-gratis-seguir-dana-tormentas-4255735.jpg?tf=1200x' alt='Estas son las mejores aplicaciones gratis para seguir la DANA y tormentas' />
     </a>
 </div>
 
