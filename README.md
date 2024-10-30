@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pacino-reconoce-tardo-casi-cinco-decadas-ver-padrino-era-poco-desconcertante-1414794'>Al Pacino reconoce que tardó casi cinco décadas en ver El padrino: “Era un poco desconcertante”</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/pacino-reconoce-tardo-casi-cinco-decadas-ver-padrino-era-poco-desconcertante-1414794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pacino-reconoce-tardo-casi-cinco-decadas-ver-padrino-era-poco-desconcertante-4254771.jpg?tf=1200x' alt='Al Pacino reconoce que tardó casi cinco décadas en ver El padrino: “Era un poco desconcertante”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/mejores-aplicaciones-gratis-seguir-dana-tormentas-tiempo-1415445'>Estas son las mejores aplicaciones gratis para seguir la DANA y tormentas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/mejores-aplicaciones-gratis-seguir-dana-tormentas-tiempo-1415445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estas-son-mejores-aplicaciones-gratis-seguir-dana-tormentas-4255735.jpg?tf=1200x' alt='Estas son las mejores aplicaciones gratis para seguir la DANA y tormentas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-morbius-ni-madame-web-pelicula-marvel-peores-criticas-joker-folie-deux-1414548'>Ni Morbius ni Madame Web, esta es la película de Marvel con peores críticas que Joker: Folie à Deux </a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-morbius-ni-madame-web-pelicula-marvel-peores-criticas-joker-folie-deux-1414548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/promocion-venom-ultimo-baile-sube-nivel-venom-rapero-nuevo-poster-pelicula-4245696.jpg?tf=1200x' alt='Ni Morbius ni Madame Web, esta es la película de Marvel con peores críticas que Joker: Folie à Deux ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-historial-ubicacion-waze-1414988'>Cómo eliminar tu historial de ubicación en Waze</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-historial-ubicacion-waze-1414988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/historial-waze-4255068.jpg?tf=1200x' alt='Cómo eliminar tu historial de ubicación en Waze' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nicolas-cage-advierte-peligro-inteligencia-artificial-hollywood-quiere-aduenarse-vosotros-1413605'>Nicolas Cage advierte del peligro de la inteligencia artificial en Hollywood: “Quiere adueñarse de vosotros”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nicolas-cage-advierte-peligro-inteligencia-artificial-hollywood-quiere-aduenarse-vosotros-1413605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nicolas-cage-flash-2023-3233522.jpg?tf=1200x' alt='Nicolas Cage advierte del peligro de la inteligencia artificial en Hollywood: “Quiere adueñarse de vosotros”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/flood-hub-google-maps-avisa-inundaciones-riadas-semana-antelacion-1415400'>Flood Hub, el Google Maps que avisa de las inundaciones y riadas con una semana de antelación</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/flood-hub-google-maps-avisa-inundaciones-riadas-semana-antelacion-1415400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/flood-hub-google-maps-avisa-inundaciones-riadas-semana-antelacion-4255707.jpg?tf=1200x' alt='Flood Hub, el Google Maps que avisa de las inundaciones y riadas con una semana de antelación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuanto-cuesta-tinder-espana-trucos-conseguirlo-barato-1408998'>Cuánto cuesta Tinder en España y trucos para conseguirlo más barato</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cuanto-cuesta-tinder-espana-trucos-conseguirlo-barato-1408998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mujer-ensena-app-tinder-movil-4245143.jpg?tf=1200x' alt='Cuánto cuesta Tinder en España y trucos para conseguirlo más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-m4-m4-pro-m4-max-compara-rendimiento-ellos-chips-anteriores-apple-1415368'>Apple M4, M4 Pro y M4 Max, así se compara su rendimiento entre ellos y con chips anteriores de Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-m4-m4-pro-m4-max-compara-rendimiento-ellos-chips-anteriores-apple-1415368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chips-m4-m4-pro-m4-max-apple-4255716.jpg?tf=1200x' alt='Apple M4, M4 Pro y M4 Max, así se compara su rendimiento entre ellos y con chips anteriores de Apple' />
     </a>
 </div>
 
