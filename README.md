@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-matara-productividad-doodle-juego-especial-halloween-1415229'>Google matará tu productividad con un doodle y juego especial de Halloween</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-matara-productividad-doodle-juego-especial-halloween-1415229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/doodle-google-halloween-4255386.jpg?tf=1200x' alt='Google matará tu productividad con un doodle y juego especial de Halloween' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/desconocida-marca-china-procesadores-acerca-peligrosamente-intel-1415195'>Esta desconocida marca china de procesadores se acerca peligrosamente a Intel</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/desconocida-marca-china-procesadores-acerca-peligrosamente-intel-1415195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/desconocida-marca-china-procesadores-acerca-peligrosamente-intel-4255378.jpg?tf=1200x' alt='Esta desconocida marca china de procesadores se acerca peligrosamente a Intel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/dana-como-hacer-llamadas-emergencia-sos-movil-cuando-no-tienes-wifi-ni-datos-1415207'>DANA: cómo hacer llamadas de emergencia SOS con el móvil cuando no tienes WiFi ni datos</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/dana-como-hacer-llamadas-emergencia-sos-movil-cuando-no-tienes-wifi-ni-datos-1415207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/emergencia-sos-iphone-4255380.jpg?tf=1200x' alt='DANA: cómo hacer llamadas de emergencia SOS con el móvil cuando no tienes WiFi ni datos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/canon-apuesta-video-lente-dual-estereoscopica-3d-objetivos-disparo-hibrido-1415061'>Canon apuesta por el vídeo con una lente dual estereoscópica 3D y más objetivos para disparo híbrido</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/canon-apuesta-video-lente-dual-estereoscopica-3d-objetivos-disparo-hibrido-1415061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/canon-rf-s-78-mm-f4-stm-dual-4255211.jpg?tf=1200x' alt='Canon apuesta por el vídeo con una lente dual estereoscópica 3D y más objetivos para disparo híbrido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/no-hay-television-supere-monitor-gaming-480-hz-sony-inzone-m10s-me-han-dejado-palabras-1412119'>No hay televisión que supere a este monitor gaming: los 480 Hz del Sony INZONE M10S me han dejado sin palabras</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/no-hay-television-supere-monitor-gaming-480-hz-sony-inzone-m10s-me-han-dejado-palabras-1412119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sony-inzone-m10s-4250267.jpg?tf=1200x' alt='No hay televisión que supere a este monitor gaming: los 480 Hz del Sony INZONE M10S me han dejado sin palabras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-bose-quietcomfort-earbuds-2024-auriculares-quieren-ser-gama-media-pero-no-logran-1413537'>He probado los Bose QuietComfort Earbuds (2024), unos auriculares que quieren ser de gama media pero no lo logran</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-bose-quietcomfort-earbuds-2024-auriculares-quieren-ser-gama-media-pero-no-logran-1413537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bose-quietcomfort-earbuds-4252829.jpg?tf=1200x' alt='He probado los Bose QuietComfort Earbuds (2024), unos auriculares que quieren ser de gama media pero no lo logran' />
     </a>
 </div>
 
