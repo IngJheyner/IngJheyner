@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-historial-ubicacion-waze-1414988'>Cómo eliminar tu historial de ubicación en Waze</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-historial-ubicacion-waze-1414988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/historial-waze-4255068.jpg?tf=1200x' alt='Cómo eliminar tu historial de ubicación en Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nicolas-cage-advierte-peligro-inteligencia-artificial-hollywood-quiere-aduenarse-vosotros-1413605'>Nicolas Cage advierte del peligro de la inteligencia artificial en Hollywood: “Quiere adueñarse de vosotros”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nicolas-cage-advierte-peligro-inteligencia-artificial-hollywood-quiere-aduenarse-vosotros-1413605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nicolas-cage-flash-2023-3233522.jpg?tf=1200x' alt='Nicolas Cage advierte del peligro de la inteligencia artificial en Hollywood: “Quiere adueñarse de vosotros”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/flood-hub-google-maps-avisa-inundaciones-riadas-semana-antelacion-1415400'>Flood Hub, el Google Maps que avisa de las inundaciones y riadas con una semana de antelación</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/flood-hub-google-maps-avisa-inundaciones-riadas-semana-antelacion-1415400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/flood-hub-google-maps-avisa-inundaciones-riadas-semana-antelacion-4255707.jpg?tf=1200x' alt='Flood Hub, el Google Maps que avisa de las inundaciones y riadas con una semana de antelación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuanto-cuesta-tinder-espana-trucos-conseguirlo-barato-1408998'>Cuánto cuesta Tinder en España y trucos para conseguirlo más barato</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cuanto-cuesta-tinder-espana-trucos-conseguirlo-barato-1408998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mujer-ensena-app-tinder-movil-4245143.jpg?tf=1200x' alt='Cuánto cuesta Tinder en España y trucos para conseguirlo más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-m4-m4-pro-m4-max-compara-rendimiento-ellos-chips-anteriores-apple-1415368'>Apple M4, M4 Pro y M4 Max, así se compara su rendimiento entre ellos y con chips anteriores de Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-m4-m4-pro-m4-max-compara-rendimiento-ellos-chips-anteriores-apple-1415368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chips-m4-m4-pro-m4-max-apple-4255716.jpg?tf=1200x' alt='Apple M4, M4 Pro y M4 Max, así se compara su rendimiento entre ellos y con chips anteriores de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/cloaking-te-dejan-plantado-tiempos-redes-sociales-1398606'>Qué es el cloaking, o que te dejan plantado en tiempos de redes sociales</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/cloaking-te-dejan-plantado-tiempos-redes-sociales-1398606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cloaking-te-dejan-plantado-tiempos-redes-sociales-3860898.jpg?tf=1200x' alt='Qué es el cloaking, o que te dejan plantado en tiempos de redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/dana-como-compartir-familiares-ubicacion-tiempo-real-whatsapp-sepan-estas-salvo-1415356'>DANA: cómo compartir con tus familiares tu ubicación en tiempo real en WhatsApp para que sepan que estás a salvo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/dana-como-compartir-familiares-ubicacion-tiempo-real-whatsapp-sepan-estas-salvo-1415356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/dana-como-compartir-familiares-ubicacion-tiempo-real-whatsapp-sepan-estas-salvo-4255702.jpg?tf=1200x' alt='DANA: cómo compartir con tus familiares tu ubicación en tiempo real en WhatsApp para que sepan que estás a salvo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/descubrimiento-luna-pluton-puede-cambiar-todo-sabemos-sistema-solar-1410676'>El descubrimiento sobre la luna de Plutón puede cambiar todo lo que sabemos del sistema solar</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/descubrimiento-luna-pluton-puede-cambiar-todo-sabemos-sistema-solar-1410676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pluton-4247802.jpg?tf=1200x' alt='El descubrimiento sobre la luna de Plutón puede cambiar todo lo que sabemos del sistema solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/nuevo-estudio-confirma-redes-sociales-afectan-salud-mental-jovenes-no-bien-1401588'>Un nuevo estudio lo confirma: las redes sociales afectan a la salud mental de los jóvenes, y no para bien</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/nuevo-estudio-confirma-redes-sociales-afectan-salud-mental-jovenes-no-bien-1401588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nuevo-estudio-confirma-redes-sociales-afectan-salud-mental-jovenes-no-bien-4014274.jpg?tf=1200x' alt='Un nuevo estudio lo confirma: las redes sociales afectan a la salud mental de los jóvenes, y no para bien' />
     </a>
 </div>
 
