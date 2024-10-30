@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/descubrimiento-luna-pluton-puede-cambiar-todo-sabemos-sistema-solar-1410676'>El descubrimiento sobre la luna de Plutón puede cambiar todo lo que sabemos del sistema solar</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/descubrimiento-luna-pluton-puede-cambiar-todo-sabemos-sistema-solar-1410676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pluton-4247802.jpg?tf=1200x' alt='El descubrimiento sobre la luna de Plutón puede cambiar todo lo que sabemos del sistema solar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/nuevo-estudio-confirma-redes-sociales-afectan-salud-mental-jovenes-no-bien-1401588'>Un nuevo estudio lo confirma: las redes sociales afectan a la salud mental de los jóvenes, y no para bien</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/nuevo-estudio-confirma-redes-sociales-afectan-salud-mental-jovenes-no-bien-1401588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nuevo-estudio-confirma-redes-sociales-afectan-salud-mental-jovenes-no-bien-4014274.jpg?tf=1200x' alt='Un nuevo estudio lo confirma: las redes sociales afectan a la salud mental de los jóvenes, y no para bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-macbook-pro-2024-14-16-pulgadas-m4-m4-pro-m4-max-1415351'>Apple lanza nuevos MacBook Pro (2024) en esteroides en 14" y 16" con los chips M4, M4 Pro y M4 Max</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-macbook-pro-2024-14-16-pulgadas-m4-m4-pro-m4-max-1415351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-macbook-pro-14-16-pulgadas-2024-4255671.jpg?tf=1200x' alt='Apple lanza nuevos MacBook Pro (2024) en esteroides en 14" y 16" con los chips M4, M4 Pro y M4 Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/reportar-whatsapp-como-hace-significa-reportar-contacto-1414987'>Qué es reportar en WhatsApp: cómo se hace y qué significa reportar a un contacto</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/reportar-whatsapp-como-hace-significa-reportar-contacto-1414987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-4255134.jpg?tf=1200x' alt='Qué es reportar en WhatsApp: cómo se hace y qué significa reportar a un contacto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-intelligence-limitaciones-puedes-hacer-ahora-mismo-tienes-iphone-espana-1415268'>Apple Intelligence: limitaciones y qué puedes hacer ahora mismo si tienes un iPhone en España</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-intelligence-limitaciones-puedes-hacer-ahora-mismo-tienes-iphone-espana-1415268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-intelligence-4136513.jpg?tf=1200x' alt='Apple Intelligence: limitaciones y qué puedes hacer ahora mismo si tienes un iPhone en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/padre-hija-descifran-mensaje-encriptado-marte-principales-componentes-vida-1415312'>Un padre y su hija descifran un mensaje encriptado de Marte con los principales componentes de la vida</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/padre-hija-descifran-mensaje-encriptado-marte-principales-componentes-vida-1415312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/padre-hija-descifran-mensaje-encriptado-marte-principales-componentes-vida-4255566.jpg?tf=1200x' alt='Un padre y su hija descifran un mensaje encriptado de Marte con los principales componentes de la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/desinformacion-elecciones-eeuu-dando-mucho-dinero-algunos-usuarios-x-1415333'>La desinformación sobre las elecciones de EEUU está dando mucho dinero a algunos usuarios en X</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/desinformacion-elecciones-eeuu-dando-mucho-dinero-algunos-usuarios-x-1415333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/elecciones-eeuu-4255038.jpg?tf=1200x' alt='La desinformación sobre las elecciones de EEUU está dando mucho dinero a algunos usuarios en X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/vuelven-10000-billetes-tren-euro-ouigo-hay-truco-infalible-hacerte-1415299'>Vuelven los 10.000 billetes de tren a un euro de Ouigo y hay un truco infalible para hacerte con uno</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/vuelven-10000-billetes-tren-euro-ouigo-hay-truco-infalible-hacerte-1415299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/vuelven-10000-billetes-tren-euro-ouigo-hay-truco-infalible-hacerte-4255512.jpg?tf=1200x' alt='Vuelven los 10.000 billetes de tren a un euro de Ouigo y hay un truco infalible para hacerte con uno' />
     </a>
 </div>
 
