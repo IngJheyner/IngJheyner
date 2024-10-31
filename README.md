@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gasta-2000-dolares-suscripciones-ps-plus-24-anos-evitar-posibles-subidas-precio-1415141'>Se gasta 2.000 dólares en suscripciones de PS Plus para 24 años y evitar así las posibles subidas de precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gasta-2000-dolares-suscripciones-ps-plus-24-anos-evitar-posibles-subidas-precio-1415141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/jugador-playstation-ha-gastado-2000-dolares-suscripciones-ps-plus-proximos-24-anos-evitar-posibles-subidas-precio-4255308.jpg?tf=1200x' alt='Se gasta 2.000 dólares en suscripciones de PS Plus para 24 años y evitar así las posibles subidas de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/listas-iptv-59-euros-ver-futbol-gratis-siempre-dan-salto-fuera-internet-1414789'>Las listas IPTV por 59 euros para ver el fútbol gratis para siempre dan el salto fuera de internet</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/listas-iptv-59-euros-ver-futbol-gratis-siempre-dan-salto-fuera-internet-1414789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/listas-iptv-59-euros-ver-futbol-gratis-siempre-dan-salto-fuera-internet-4254817.jpg?tf=1200x' alt='Las listas IPTV por 59 euros para ver el fútbol gratis para siempre dan el salto fuera de internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/disfraz-ceo-nvidia-jensen-huang-halloween-1415473'>Jensen Huang, CEO de NVIDIA, es tan famoso que los niños se disfrazan de él en Halloween</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/disfraz-ceo-nvidia-jensen-huang-halloween-1415473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nvidia-tan-famosa-taiwan-ninos-disfrazan-ceo-jensen-huang-halloween-4255825.jpg?tf=1200x' alt='Jensen Huang, CEO de NVIDIA, es tan famoso que los niños se disfrazan de él en Halloween' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/dana-movistar-masorange-vodafone-anuncian-medidas-mejorar-comunicaciones-zonas-afectadas-1415456'>DANA: Movistar, MasOrange y Vodafone anuncian medidas para mejorar las comunicaciones en las zonas afectadas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/dana-movistar-masorange-vodafone-anuncian-medidas-mejorar-comunicaciones-zonas-afectadas-1415456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/torres-telecomunicaciones-4255813.jpg?tf=1200x' alt='DANA: Movistar, MasOrange y Vodafone anuncian medidas para mejorar las comunicaciones en las zonas afectadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/cada-vez-gente-pone-sal-ventanas-cuando-hace-frio-1415449'>¿Por qué cada vez más gente pone sal en las ventanas cuando hace frío?</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/cada-vez-gente-pone-sal-ventanas-cuando-hace-frio-1415449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/condensacion-cristales-4255803.jpg?tf=1200x' alt='¿Por qué cada vez más gente pone sal en las ventanas cuando hace frío?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pacino-reconoce-tardo-casi-cinco-decadas-ver-padrino-era-poco-desconcertante-1414794'>Al Pacino reconoce que tardó casi cinco décadas en ver El padrino: “Era un poco desconcertante”</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/pacino-reconoce-tardo-casi-cinco-decadas-ver-padrino-era-poco-desconcertante-1414794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pacino-reconoce-tardo-casi-cinco-decadas-ver-padrino-era-poco-desconcertante-4254771.jpg?tf=1200x' alt='Al Pacino reconoce que tardó casi cinco décadas en ver El padrino: “Era un poco desconcertante”' />
     </a>
 </div>
 
