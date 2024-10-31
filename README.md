@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-ni-hysteria-serie-terror-perfecta-halloween-netflix-tailandesa-1415057'>Ni From ni Hysteria!, la serie de terror perfecta para Halloween está en Netflix, y es tailandesa</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-ni-hysteria-serie-terror-perfecta-halloween-netflix-tailandesa-1415057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/martes-terror-extremo-3951319.jpg?tf=1200x' alt='Ni From ni Hysteria!, la serie de terror perfecta para Halloween está en Netflix, y es tailandesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/problema-ia-generativa-nadie-habla-pone-riesgo-futuro-humanidad-1415388'>El problema de la IA generativa del que nadie habla y pone en riesgo el futuro de la humanidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/problema-ia-generativa-nadie-habla-pone-riesgo-futuro-humanidad-1415388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/problema-ia-generativa-nadie-habla-pone-riesgo-futuro-humanidad-4255746.jpg?tf=1200x' alt='El problema de la IA generativa del que nadie habla y pone en riesgo el futuro de la humanidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/policia-nacional-advierte-padres-no-descargueis-app-ninos-1415399'>La Policía Nacional advierte a los padres: "No descarguéis esta app para los niños"</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/policia-nacional-advierte-padres-no-descargueis-app-ninos-1415399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/policia-nacional-3256495.jpg?tf=1200x' alt='La Policía Nacional advierte a los padres: "No descarguéis esta app para los niños"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/halloween-mejores-frases-felicitar-aterrar-amigos-whatsapp-1415567'>Halloween: las mejores frases para felicitar (y aterrar) a tus amigos por WhatsApp</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/halloween-mejores-frases-felicitar-aterrar-amigos-whatsapp-1415567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mejores-frases-felicitar-aterrar-amigos-whatsapp-4255996.jpg?tf=1200x' alt='Halloween: las mejores frases para felicitar (y aterrar) a tus amigos por WhatsApp' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/error-todo-mundo-comete-purgar-radiadores-calefaccion-hace-calienten-mal-durante-todo-invierno-1410118'>El error que todo el mundo comete al purgar los radiadores de la calefacción que hace que calienten mal durante todo el invierno</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/error-todo-mundo-comete-purgar-radiadores-calefaccion-hace-calienten-mal-durante-todo-invierno-1410118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/error-todo-mundo-comete-purgar-radiadores-calefaccion-hace-calienten-mal-durante-todo-invierno-4246867.jpg?tf=1200x' alt='El error que todo el mundo comete al purgar los radiadores de la calefacción que hace que calienten mal durante todo el invierno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ni-calefaccion-ni-radiadores-invento-lidl-calienta-habitaciones-segundos-precio-ridiculo-1415619'>Ni calefacción ni radiadores, el invento de Lidl que calienta las habitaciones en segundos a un precio ridículo</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ni-calefaccion-ni-radiadores-invento-lidl-calienta-habitaciones-segundos-precio-ridiculo-1415619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-calefaccion-ni-radiadores-invento-lidl-calienta-habitaciones-segundos-precio-ridiculo-4256083.jpg?tf=1200x' alt='Ni calefacción ni radiadores, el invento de Lidl que calienta las habitaciones en segundos a un precio ridículo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/3000-anos-despues-misterio-resuelto-escaneres-3d-desvelan-como-fue-embalsamada-momia-lady-chenet-aa-1415420'>3.000 años después, un misterio resuelto: escáneres 3D desvelan cómo fue embalsamada la momia de Lady Chenet-aa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/3000-anos-despues-misterio-resuelto-escaneres-3d-desvelan-como-fue-embalsamada-momia-lady-chenet-aa-1415420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/3000-anos-despues-misterio-resuelto-escaneres-3d-desvelan-como-fue-embalsamada-momia-lady-chenet-aa-4255842.jpg?tf=1200x' alt='3.000 años después, un misterio resuelto: escáneres 3D desvelan cómo fue embalsamada la momia de Lady Chenet-aa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-cambiar-icono-coche-flecha-waze-1415295'>Cómo cambiar el icono de coche o flecha en Waze</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-cambiar-icono-coche-flecha-waze-1415295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cambiar-icono-waze-4255552.jpg?tf=1200x' alt='Cómo cambiar el icono de coche o flecha en Waze' />
     </a>
 </div>
 
