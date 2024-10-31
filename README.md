@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-5-palabras-suelen-repetir-personas-menos-inteligentes-ia-1415060'>Estas son las 5 palabras que suelen repetir las personas menos inteligentes, según la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-5-palabras-suelen-repetir-personas-menos-inteligentes-ia-1415060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estas-son-5-palabras-suelen-repetir-personas-menos-inteligentes-ia-4255233.jpg?tf=1200x' alt='Estas son las 5 palabras que suelen repetir las personas menos inteligentes, según la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-como-chatgpt-generaran-2030-basura-electronica-13300-millones-iphone-1415032'>Las IA como ChatGPT generarán en 2030 más basura electrónica que 13.300 millones de iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-como-chatgpt-generaran-2030-basura-electronica-13300-millones-iphone-1415032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-como-chatgpt-generaran-2030-basura-electronica-13300-millones-telefonos-iphone-4255120.jpg?tf=1200x' alt='Las IA como ChatGPT generarán en 2030 más basura electrónica que 13.300 millones de iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/ubisoft-lanza-juego-nft-champions-tactics-1415487'>Ubisoft no aprende la lección, y lanza un juego NFT con personajes que valen 60.000 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/ubisoft-lanza-juego-nft-champions-tactics-1415487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ubisoft-no-aprende-leccion-lanza-juego-nft-nadie-pedia-4255863.jpg?tf=1200x' alt='Ubisoft no aprende la lección, y lanza un juego NFT con personajes que valen 60.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gasta-2000-dolares-suscripciones-ps-plus-24-anos-evitar-posibles-subidas-precio-1415141'>Se gasta 2.000 dólares en suscripciones de PS Plus para 24 años y evitar así las posibles subidas de precio</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gasta-2000-dolares-suscripciones-ps-plus-24-anos-evitar-posibles-subidas-precio-1415141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/jugador-playstation-ha-gastado-2000-dolares-suscripciones-ps-plus-proximos-24-anos-evitar-posibles-subidas-precio-4255308.jpg?tf=1200x' alt='Se gasta 2.000 dólares en suscripciones de PS Plus para 24 años y evitar así las posibles subidas de precio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/listas-iptv-59-euros-ver-futbol-gratis-siempre-dan-salto-fuera-internet-1414789'>Las listas IPTV por 59 euros para ver el fútbol gratis para siempre dan el salto fuera de internet</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/listas-iptv-59-euros-ver-futbol-gratis-siempre-dan-salto-fuera-internet-1414789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/listas-iptv-59-euros-ver-futbol-gratis-siempre-dan-salto-fuera-internet-4254817.jpg?tf=1200x' alt='Las listas IPTV por 59 euros para ver el fútbol gratis para siempre dan el salto fuera de internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/disfraz-ceo-nvidia-jensen-huang-halloween-1415473'>Jensen Huang, CEO de NVIDIA, es tan famoso que los niños se disfrazan de él en Halloween</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/disfraz-ceo-nvidia-jensen-huang-halloween-1415473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nvidia-tan-famosa-taiwan-ninos-disfrazan-ceo-jensen-huang-halloween-4255825.jpg?tf=1200x' alt='Jensen Huang, CEO de NVIDIA, es tan famoso que los niños se disfrazan de él en Halloween' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/dana-ocu-habilita-linea-asesoramiento-afectados-puedan-reclamar-todos-danos-1415457'>DANA: la OCU habilita una línea de asesoramiento para que los afectados puedan reclamar todos los daños</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/dana-ocu-habilita-linea-asesoramiento-afectados-puedan-reclamar-todos-danos-1415457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inundaciones-4255817.jpg?tf=1200x' alt='DANA: la OCU habilita una línea de asesoramiento para que los afectados puedan reclamar todos los daños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dana-movistar-masorange-vodafone-anuncian-medidas-mejorar-comunicaciones-zonas-afectadas-1415456'>DANA: Movistar, MasOrange y Vodafone anuncian medidas para mejorar las comunicaciones en las zonas afectadas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/dana-movistar-masorange-vodafone-anuncian-medidas-mejorar-comunicaciones-zonas-afectadas-1415456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/torres-telecomunicaciones-4255813.jpg?tf=1200x' alt='DANA: Movistar, MasOrange y Vodafone anuncian medidas para mejorar las comunicaciones en las zonas afectadas' />
     </a>
 </div>
 
