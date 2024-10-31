@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/disfraces-caseros-halloween-podras-hacer-ultimo-minuto-tengas-casa-1415559'>Disfraces caseros de Halloween que podrás hacer en el último minuto con lo que tengas por casa</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/disfraces-caseros-halloween-podras-hacer-ultimo-minuto-tengas-casa-1415559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/disfraz-halloween-4256013.jpg?tf=1200x' alt='Disfraces caseros de Halloween que podrás hacer en el último minuto con lo que tengas por casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/te-da-pereza-limpiar-dejaselo-robot-aspirador-aspira-friega-limpia-solo-100-euros-descuento-1415480'>Si te da pereza limpiar, dejáselo a este robot aspirador: aspira, friega y se limpia solo, y con más de 100 euros de descuento</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/te-da-pereza-limpiar-dejaselo-robot-aspirador-aspira-friega-limpia-solo-100-euros-descuento-1415480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/roborock-4255855.jpg?tf=1200x' alt='Si te da pereza limpiar, dejáselo a este robot aspirador: aspira, friega y se limpia solo, y con más de 100 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/moviles-tablets-tv-relojes-llega-importante-categoria-google-play-1415532'>Tras móviles, tablets, TV y relojes llega una importante categoría a Google Play</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/moviles-tablets-tv-relojes-llega-importante-categoria-google-play-1415532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-play-4255946.jpg?tf=1200x' alt='Tras móviles, tablets, TV y relojes llega una importante categoría a Google Play' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/ni-spotify-ni-apple-music-nueva-plataforma-musica-streaming-nintendo-1415533'>Ni Spotify ni Apple Music, la nueva plataforma de música en streaming es de Nintendo</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/ni-spotify-ni-apple-music-nueva-plataforma-musica-streaming-nintendo-1415533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-spotify-ni-apple-music-nueva-plataforma-musica-streaming-nintendo-4255929.jpg?tf=1200x' alt='Ni Spotify ni Apple Music, la nueva plataforma de música en streaming es de Nintendo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-utiliza-ia-escribir-25-codigo-como-cualquier-otro-desarrollador-1415516'>Google utiliza la IA para escribir el 25% de su código, como cualquier otro desarrollador</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-utiliza-ia-escribir-25-codigo-como-cualquier-otro-desarrollador-1415516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/codigo-fuente-4255905.jpg?tf=1200x' alt='Google utiliza la IA para escribir el 25% de su código, como cualquier otro desarrollador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/estas-son-novedades-filtradas-one-ui-7-llegaran-movil-samsung-1415509'>Estas son las novedades filtradas de One UI 7 que llegarán a tu móvil Samsung</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/estas-son-novedades-filtradas-one-ui-7-llegaran-movil-samsung-1415509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estas-son-novedades-filtradas-one-ui-7-llegaran-movil-samsung-4255896.jpg?tf=1200x' alt='Estas son las novedades filtradas de One UI 7 que llegarán a tu móvil Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-moviles-xiaomi-poco-tendran-hyperos-2-antes-nadie-1415504'>Estos son los móviles de Xiaomi y POCO que tendrán HyperOS 2 antes que nadie</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-moviles-xiaomi-poco-tendran-hyperos-2-antes-nadie-1415504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-4255891.jpg?tf=1200x' alt='Estos son los móviles de Xiaomi y POCO que tendrán HyperOS 2 antes que nadie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/ni-apple-ni-sony-novedad-curiosa-auriculares-llega-mano-razer-kraken-v4-pro-1411822'>Ni Apple ni Sony: la novedad más curiosa en unos auriculares llega de la mano de los Razer Kraken V4 Pro</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/ni-apple-ni-sony-novedad-curiosa-auriculares-llega-mano-razer-kraken-v4-pro-1411822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/razer-kraken-v4-pro-4249821.jpg?tf=1200x' alt='Ni Apple ni Sony: la novedad más curiosa en unos auriculares llega de la mano de los Razer Kraken V4 Pro' />
     </a>
 </div>
 
