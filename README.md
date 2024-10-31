@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/3000-anos-despues-misterio-resuelto-escaneres-3d-desvelan-como-fue-embalsamada-momia-lady-chenet-aa-1415420'>3.000 años después, un misterio resuelto: escáneres 3D desvelan cómo fue embalsamada la momia de Lady Chenet-aa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/3000-anos-despues-misterio-resuelto-escaneres-3d-desvelan-como-fue-embalsamada-momia-lady-chenet-aa-1415420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/3000-anos-despues-misterio-resuelto-escaneres-3d-desvelan-como-fue-embalsamada-momia-lady-chenet-aa-4255842.jpg?tf=1200x' alt='3.000 años después, un misterio resuelto: escáneres 3D desvelan cómo fue embalsamada la momia de Lady Chenet-aa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-cambiar-icono-coche-flecha-waze-1415295'>Cómo cambiar el icono de coche o flecha en Waze</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-cambiar-icono-coche-flecha-waze-1415295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cambiar-icono-waze-4255552.jpg?tf=1200x' alt='Cómo cambiar el icono de coche o flecha en Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/preparando-china-realmente-fin-mundo-1414676'>¿Se está preparando China realmente para el fin del mundo?</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/preparando-china-realmente-fin-mundo-1414676' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bandera-china-4256075.jpg?tf=1200x' alt='¿Se está preparando China realmente para el fin del mundo?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/google-maps-copia-funciones-populares-waze-responde-otra-muy-esperada-1415364'>Google Maps copia una de las funciones más populares de Waze, y esta responde con otra muy esperada</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-maps-copia-funciones-populares-waze-responde-otra-muy-esperada-1415364' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-waze-novedades-gemini-4255769.jpg?tf=1200x' alt='Google Maps copia una de las funciones más populares de Waze, y esta responde con otra muy esperada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-amazon-alertan-peligros-ocultos-intentar-acabar-iptv-pirateria-1415609'>Google y Amazon alertan de los peligros ocultos de intentar acabar con las IPTV y la piratería</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-amazon-alertan-peligros-ocultos-intentar-acabar-iptv-pirateria-1415609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-4256114.jpg?tf=1200x' alt='Google y Amazon alertan de los peligros ocultos de intentar acabar con las IPTV y la piratería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-facilita-solucion-aplicaciones-no-funcionan-windows-10-1415579'>Microsoft facilita una solución para aplicaciones que no funcionan en Windows 10</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-facilita-solucion-aplicaciones-no-funcionan-windows-10-1415579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-10-3305161.jpg?tf=1200x' alt='Microsoft facilita una solución para aplicaciones que no funcionan en Windows 10' />
     </a>
 </div>
 
