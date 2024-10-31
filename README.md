@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-moviles-xiaomi-poco-tendran-hyperos-2-antes-nadie-1415504'>Estos son los móviles de Xiaomi y POCO que tendrán HyperOS 2 antes que nadie</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-moviles-xiaomi-poco-tendran-hyperos-2-antes-nadie-1415504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-4255891.jpg?tf=1200x' alt='Estos son los móviles de Xiaomi y POCO que tendrán HyperOS 2 antes que nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/audio/ni-apple-ni-sony-novedad-curiosa-auriculares-llega-mano-razer-kraken-v4-pro-1411822'>Ni Apple ni Sony: la novedad más curiosa en unos auriculares llega de la mano de los Razer Kraken V4 Pro</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/ni-apple-ni-sony-novedad-curiosa-auriculares-llega-mano-razer-kraken-v4-pro-1411822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/razer-kraken-v4-pro-4249821.jpg?tf=1200x' alt='Ni Apple ni Sony: la novedad más curiosa en unos auriculares llega de la mano de los Razer Kraken V4 Pro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-como-chatgpt-generaran-2030-basura-electronica-13300-millones-iphone-1415032'>Las IA como ChatGPT generarán en 2030 más basura electrónica que 13.300 millones de iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-como-chatgpt-generaran-2030-basura-electronica-13300-millones-iphone-1415032' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-como-chatgpt-generaran-2030-basura-electronica-13300-millones-telefonos-iphone-4255120.jpg?tf=1200x' alt='Las IA como ChatGPT generarán en 2030 más basura electrónica que 13.300 millones de iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/ubisoft-lanza-juego-nft-champions-tactics-1415487'>Ubisoft no aprende la lección, y lanza un juego NFT con personajes que valen 60.000 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/ubisoft-lanza-juego-nft-champions-tactics-1415487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ubisoft-no-aprende-leccion-lanza-juego-nft-nadie-pedia-4255863.jpg?tf=1200x' alt='Ubisoft no aprende la lección, y lanza un juego NFT con personajes que valen 60.000 euros' />
     </a>
 </div>
 
