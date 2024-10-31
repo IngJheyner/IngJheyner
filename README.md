@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/halloween-mejores-frases-felicitar-aterrar-amigos-whatsapp-1415567'>Halloween: las mejores frases para felicitar (y aterrar) a tus amigos por WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/halloween-mejores-frases-felicitar-aterrar-amigos-whatsapp-1415567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mejores-frases-felicitar-aterrar-amigos-whatsapp-4255996.jpg?tf=1200x' alt='Halloween: las mejores frases para felicitar (y aterrar) a tus amigos por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/error-todo-mundo-comete-purgar-radiadores-calefaccion-hace-calienten-mal-durante-todo-invierno-1410118'>El error que todo el mundo comete al purgar los radiadores de la calefacción que hace que calienten mal durante todo el invierno</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/error-todo-mundo-comete-purgar-radiadores-calefaccion-hace-calienten-mal-durante-todo-invierno-1410118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/error-todo-mundo-comete-purgar-radiadores-calefaccion-hace-calienten-mal-durante-todo-invierno-4246867.jpg?tf=1200x' alt='El error que todo el mundo comete al purgar los radiadores de la calefacción que hace que calienten mal durante todo el invierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/ni-calefaccion-ni-radiadores-invento-lidl-calienta-habitaciones-segundos-precio-ridiculo-1415619'>Ni calefacción ni radiadores, el invento de Lidl que calienta las habitaciones en segundos a un precio ridículo</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ni-calefaccion-ni-radiadores-invento-lidl-calienta-habitaciones-segundos-precio-ridiculo-1415619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-calefaccion-ni-radiadores-invento-lidl-calienta-habitaciones-segundos-precio-ridiculo-4256083.jpg?tf=1200x' alt='Ni calefacción ni radiadores, el invento de Lidl que calienta las habitaciones en segundos a un precio ridículo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/3000-anos-despues-misterio-resuelto-escaneres-3d-desvelan-como-fue-embalsamada-momia-lady-chenet-aa-1415420'>3.000 años después, un misterio resuelto: escáneres 3D desvelan cómo fue embalsamada la momia de Lady Chenet-aa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/3000-anos-despues-misterio-resuelto-escaneres-3d-desvelan-como-fue-embalsamada-momia-lady-chenet-aa-1415420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/3000-anos-despues-misterio-resuelto-escaneres-3d-desvelan-como-fue-embalsamada-momia-lady-chenet-aa-4255842.jpg?tf=1200x' alt='3.000 años después, un misterio resuelto: escáneres 3D desvelan cómo fue embalsamada la momia de Lady Chenet-aa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-cambiar-icono-coche-flecha-waze-1415295'>Cómo cambiar el icono de coche o flecha en Waze</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-cambiar-icono-coche-flecha-waze-1415295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cambiar-icono-waze-4255552.jpg?tf=1200x' alt='Cómo cambiar el icono de coche o flecha en Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/preparando-china-realmente-fin-mundo-1414676'>¿Se está preparando China realmente para el fin del mundo?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/preparando-china-realmente-fin-mundo-1414676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bandera-china-4256075.jpg?tf=1200x' alt='¿Se está preparando China realmente para el fin del mundo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/movil-xiaomi-agota-bateria-suspiro-cambia-estos-dos-ajustes-multiplica-autonomia-1415484'>¿A tu móvil Xiaomi se le agota la batería en un suspiro? Cambia estos dos ajustes y multiplica la autonomía</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/movil-xiaomi-agota-bateria-suspiro-cambia-estos-dos-ajustes-multiplica-autonomia-1415484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/movil-xiaomi-agota-bateria-suspiro-cambia-estos-dos-ajustes-multiplica-autonomia-4255864.jpg?tf=1200x' alt='¿A tu móvil Xiaomi se le agota la batería en un suspiro? Cambia estos dos ajustes y multiplica la autonomía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-maps-copia-funciones-populares-waze-responde-otra-muy-esperada-1415364'>Google Maps copia una de las funciones más populares de Waze, y esta responde con otra muy esperada</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-maps-copia-funciones-populares-waze-responde-otra-muy-esperada-1415364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-waze-novedades-gemini-4255769.jpg?tf=1200x' alt='Google Maps copia una de las funciones más populares de Waze, y esta responde con otra muy esperada' />
     </a>
 </div>
 
