@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-utiliza-ia-escribir-25-codigo-como-cualquier-otro-desarrollador-1415516'>Google utiliza la IA para escribir el 25% de su código, como cualquier otro desarrollador</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-utiliza-ia-escribir-25-codigo-como-cualquier-otro-desarrollador-1415516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/codigo-fuente-4255905.jpg?tf=1200x' alt='Google utiliza la IA para escribir el 25% de su código, como cualquier otro desarrollador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/estas-son-novedades-filtradas-one-ui-7-llegaran-movil-samsung-1415509'>Estas son las novedades filtradas de One UI 7 que llegarán a tu móvil Samsung</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/estas-son-novedades-filtradas-one-ui-7-llegaran-movil-samsung-1415509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estas-son-novedades-filtradas-one-ui-7-llegaran-movil-samsung-4255896.jpg?tf=1200x' alt='Estas son las novedades filtradas de One UI 7 que llegarán a tu móvil Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-moviles-xiaomi-poco-tendran-hyperos-2-antes-nadie-1415504'>Estos son los móviles de Xiaomi y POCO que tendrán HyperOS 2 antes que nadie</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-moviles-xiaomi-poco-tendran-hyperos-2-antes-nadie-1415504' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-4255891.jpg?tf=1200x' alt='Estos son los móviles de Xiaomi y POCO que tendrán HyperOS 2 antes que nadie' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/mes-uso-sigue-siendo-iphone-16-pro-tan-buena-compra-1414996'>Tras un mes de uso, ¿sigue siendo el iPhone 16 Pro tan buena compra?</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/mes-uso-sigue-siendo-iphone-16-pro-tan-buena-compra-1414996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-16-pro-4255175.jpg?tf=1200x' alt='Tras un mes de uso, ¿sigue siendo el iPhone 16 Pro tan buena compra?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-5-palabras-suelen-repetir-personas-menos-inteligentes-ia-1415060'>Estas son las 5 palabras que suelen repetir las personas menos inteligentes, según la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-5-palabras-suelen-repetir-personas-menos-inteligentes-ia-1415060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estas-son-5-palabras-suelen-repetir-personas-menos-inteligentes-ia-4255233.jpg?tf=1200x' alt='Estas son las 5 palabras que suelen repetir las personas menos inteligentes, según la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-como-chatgpt-generaran-2030-basura-electronica-13300-millones-iphone-1415032'>Las IA como ChatGPT generarán en 2030 más basura electrónica que 13.300 millones de iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-como-chatgpt-generaran-2030-basura-electronica-13300-millones-iphone-1415032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-como-chatgpt-generaran-2030-basura-electronica-13300-millones-telefonos-iphone-4255120.jpg?tf=1200x' alt='Las IA como ChatGPT generarán en 2030 más basura electrónica que 13.300 millones de iPhone' />
     </a>
 </div>
 
