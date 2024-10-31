@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/mejores-frases-felicitar-aterrar-amigos-whatsapp-1415567'>Las mejores frases para felicitar (y aterrar) a tus amigos por WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/mejores-frases-felicitar-aterrar-amigos-whatsapp-1415567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mejores-frases-felicitar-aterrar-amigos-whatsapp-4255996.jpg?tf=1200x' alt='Las mejores frases para felicitar (y aterrar) a tus amigos por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/disfraces-caseros-halloween-podras-hacer-ultimo-minuto-tengas-casa-1415559'>Disfraces caseros de Halloween que podrás hacer en el último minuto con lo que tengas por casa</a></h4>
     <a href='https://computerhoy.20minutos.es/life/disfraces-caseros-halloween-podras-hacer-ultimo-minuto-tengas-casa-1415559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/disfraz-halloween-4256013.jpg?tf=1200x' alt='Disfraces caseros de Halloween que podrás hacer en el último minuto con lo que tengas por casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/ni-spotify-ni-apple-music-nueva-plataforma-musica-streaming-nintendo-1415533'>Ni Spotify ni Apple Music, la nueva plataforma de música en streaming es de Nintendo</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/ni-spotify-ni-apple-music-nueva-plataforma-musica-streaming-nintendo-1415533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-spotify-ni-apple-music-nueva-plataforma-musica-streaming-nintendo-4255929.jpg?tf=1200x' alt='Ni Spotify ni Apple Music, la nueva plataforma de música en streaming es de Nintendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-utiliza-ia-escribir-25-codigo-como-cualquier-otro-desarrollador-1415516'>Google utiliza la IA para escribir el 25% de su código, como cualquier otro desarrollador</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-utiliza-ia-escribir-25-codigo-como-cualquier-otro-desarrollador-1415516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/codigo-fuente-4255905.jpg?tf=1200x' alt='Google utiliza la IA para escribir el 25% de su código, como cualquier otro desarrollador' />
     </a>
 </div>
 
