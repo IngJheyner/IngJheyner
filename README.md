@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-anuncia-donacion-apple-victimas-dana-valencia-1415768'>Tim Cook anuncia una donación de Apple para las víctimas de la DANA de Valencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/tim-cook-anuncia-donacion-apple-victimas-dana-valencia-1415768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tim-cook-anuncia-donacion-apple-victimas-dana-valencia-4256471.jpg?tf=1200x' alt='Tim Cook anuncia una donación de Apple para las víctimas de la DANA de Valencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-motor-busqueda-1415766'>ChatGPT estrena su motor de búsqueda y hace temblar al buscador de Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-motor-busqueda-1415766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chatgpt-estrena-motor-busqueda-hace-temblar-buscador-google-4256456.jpg?tf=1200x' alt='ChatGPT estrena su motor de búsqueda y hace temblar al buscador de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-estrena-listas-nueva-forma-organizar-chats-1415755'>WhatsApp estrena Listas, una nueva forma de organizar tus chats</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-estrena-listas-nueva-forma-organizar-chats-1415755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-estrena-listas-nueva-forma-organizar-chats-4256426.jpg?tf=1200x' alt='WhatsApp estrena Listas, una nueva forma de organizar tus chats' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-viernes-13-ni-halloween-saga-terror-secuelas-todos-tiempos-casi-nadie-recuerda-1415092'>Ni Viernes 13 ni Halloween, esta es la saga de terror con más secuelas de todos los tiempos (y casi nadie la recuerda)</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-viernes-13-ni-halloween-saga-terror-secuelas-todos-tiempos-casi-nadie-recuerda-1415092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-viernes-13-ni-halloween-saga-terror-secuelas-todos-tiempos-casi-nadie-recuerda-4255243.jpg?tf=1200x' alt='Ni Viernes 13 ni Halloween, esta es la saga de terror con más secuelas de todos los tiempos (y casi nadie la recuerda)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-recurre-radio-utilizar-1981-poder-mantener-comunicacion-voyager-1-1415750'>La NASA recurre a una radio sin utilizar desde 1981 para poder mantener la comunicación con la Voyager 1</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-recurre-radio-utilizar-1981-poder-mantener-comunicacion-voyager-1-1415750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/voyager-1-3288337.jpg?tf=1200x' alt='La NASA recurre a una radio sin utilizar desde 1981 para poder mantener la comunicación con la Voyager 1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-deja-notar-lenguajes-programacion-populares-te-interesa-aprender-1415749'>La IA ya se deja notar: los lenguajes de programación más populares que te interesa aprender</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-deja-notar-lenguajes-programacion-populares-te-interesa-aprender-1415749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lenguajes-programacion-4256437.jpg?tf=1200x' alt='La IA ya se deja notar: los lenguajes de programación más populares que te interesa aprender' />
     </a>
 </div>
 
