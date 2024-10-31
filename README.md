@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-estrena-listas-nueva-forma-organizar-chats-1415755'>WhatsApp estrena Listas, una nueva forma de organizar tus chats</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-estrena-listas-nueva-forma-organizar-chats-1415755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-estrena-listas-nueva-forma-organizar-chats-4256426.jpg?tf=1200x' alt='WhatsApp estrena Listas, una nueva forma de organizar tus chats' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/aterrador-malware-moviles-android-redirige-llamadas-estafadores-hackers-1415751'>Un aterrador malware para móviles Android redirige las llamadas a estafadores y hackers</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/aterrador-malware-moviles-android-redirige-llamadas-estafadores-hackers-1415751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/malware-fakecall-4256439.jpg?tf=1200x' alt='Un aterrador malware para móviles Android redirige las llamadas a estafadores y hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-viernes-13-ni-halloween-saga-terror-secuelas-todos-tiempos-casi-nadie-recuerda-1415092'>Ni Viernes 13 ni Halloween, esta es la saga de terror con más secuelas de todos los tiempos (y casi nadie la recuerda)</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-viernes-13-ni-halloween-saga-terror-secuelas-todos-tiempos-casi-nadie-recuerda-1415092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-viernes-13-ni-halloween-saga-terror-secuelas-todos-tiempos-casi-nadie-recuerda-4255243.jpg?tf=1200x' alt='Ni Viernes 13 ni Halloween, esta es la saga de terror con más secuelas de todos los tiempos (y casi nadie la recuerda)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-deja-notar-lenguajes-programacion-populares-te-interesa-aprender-1415749'>La IA ya se deja notar: los lenguajes de programación más populares que te interesa aprender</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-deja-notar-lenguajes-programacion-populares-te-interesa-aprender-1415749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lenguajes-programacion-4256437.jpg?tf=1200x' alt='La IA ya se deja notar: los lenguajes de programación más populares que te interesa aprender' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-remakes-historia-tambien-tiene-version-espanola-1415412'>Esta es la película con más remakes de la historia, y sí, también tiene su versión española</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-remakes-historia-tambien-tiene-version-espanola-1415412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pelicula-remakes-historia-tambien-tiene-version-espanola-4255726.jpg?tf=1200x' alt='Esta es la película con más remakes de la historia, y sí, también tiene su versión española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-maps-google-earth-ia-generativa-gemini-1415740'>Google Maps y Google Earth integran la IA generativa Gemini, y lo cambia todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-maps-google-earth-ia-generativa-gemini-1415740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-google-earth-integran-ia-generativa-gemini-cambia-todo-4256354.jpg?tf=1200x' alt='Google Maps y Google Earth integran la IA generativa Gemini, y lo cambia todo' />
     </a>
 </div>
 
