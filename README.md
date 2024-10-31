@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-maps-google-earth-ia-generativa-gemini-1415740'>Google Maps y Google Earth integran la IA generativa Gemini, y lo cambia todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-maps-google-earth-ia-generativa-gemini-1415740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-google-earth-integran-ia-generativa-gemini-cambia-todo-4256354.jpg?tf=1200x' alt='Google Maps y Google Earth integran la IA generativa Gemini, y lo cambia todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-libros-stephen-king-leer-halloween-1414317'>Estos son los 5 mejores libros de Stephen King para leer en Halloween</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-libros-stephen-king-leer-halloween-1414317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estas-son-5-mejores-peliculas-basadas-libros-stephen-king-puedes-ver-amazon-prime-video-3740933.jpg?tf=1200x' alt='Estos son los 5 mejores libros de Stephen King para leer en Halloween' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-ni-hysteria-serie-terror-perfecta-halloween-netflix-tailandesa-1415057'>Ni From ni Hysteria!, la serie de terror perfecta para Halloween está en Netflix, y es tailandesa</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-ni-hysteria-serie-terror-perfecta-halloween-netflix-tailandesa-1415057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/martes-terror-extremo-3951319.jpg?tf=1200x' alt='Ni From ni Hysteria!, la serie de terror perfecta para Halloween está en Netflix, y es tailandesa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/policia-nacional-advierte-padres-no-descargueis-app-ninos-1415399'>La Policía Nacional advierte a los padres: "No descarguéis esta app para los niños"</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/policia-nacional-advierte-padres-no-descargueis-app-ninos-1415399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/policia-nacional-3256495.jpg?tf=1200x' alt='La Policía Nacional advierte a los padres: "No descarguéis esta app para los niños"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/halloween-mejores-frases-felicitar-aterrar-amigos-whatsapp-1415567'>Halloween: las mejores frases para felicitar (y aterrar) a tus amigos por WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/halloween-mejores-frases-felicitar-aterrar-amigos-whatsapp-1415567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mejores-frases-felicitar-aterrar-amigos-whatsapp-4255996.jpg?tf=1200x' alt='Halloween: las mejores frases para felicitar (y aterrar) a tus amigos por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/error-todo-mundo-comete-purgar-radiadores-calefaccion-hace-calienten-mal-durante-todo-invierno-1410118'>El error que todo el mundo comete al purgar los radiadores de la calefacción que hace que calienten mal durante todo el invierno</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/error-todo-mundo-comete-purgar-radiadores-calefaccion-hace-calienten-mal-durante-todo-invierno-1410118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/error-todo-mundo-comete-purgar-radiadores-calefaccion-hace-calienten-mal-durante-todo-invierno-4246867.jpg?tf=1200x' alt='El error que todo el mundo comete al purgar los radiadores de la calefacción que hace que calienten mal durante todo el invierno' />
     </a>
 </div>
 
