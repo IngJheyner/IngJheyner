@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/preparando-china-realmente-fin-mundo-1414676'>¿Se está preparando China realmente para el fin del mundo?</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/preparando-china-realmente-fin-mundo-1414676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bandera-china-4256075.jpg?tf=1200x' alt='¿Se está preparando China realmente para el fin del mundo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/movil-xiaomi-agota-bateria-suspiro-cambia-estos-dos-ajustes-multiplica-autonomia-1415484'>¿A tu móvil Xiaomi se le agota la batería en un suspiro? Cambia estos dos ajustes y multiplica la autonomía</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/movil-xiaomi-agota-bateria-suspiro-cambia-estos-dos-ajustes-multiplica-autonomia-1415484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/movil-xiaomi-agota-bateria-suspiro-cambia-estos-dos-ajustes-multiplica-autonomia-4255864.jpg?tf=1200x' alt='¿A tu móvil Xiaomi se le agota la batería en un suspiro? Cambia estos dos ajustes y multiplica la autonomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-maps-copia-funciones-populares-waze-responde-otra-muy-esperada-1415364'>Google Maps copia una de las funciones más populares de Waze, y esta responde con otra muy esperada</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-maps-copia-funciones-populares-waze-responde-otra-muy-esperada-1415364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-waze-novedades-gemini-4255769.jpg?tf=1200x' alt='Google Maps copia una de las funciones más populares de Waze, y esta responde con otra muy esperada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-amazon-alertan-peligros-ocultos-intentar-acabar-iptv-pirateria-1415609'>Google y Amazon alertan de los peligros ocultos de intentar acabar con las IPTV y la piratería</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-amazon-alertan-peligros-ocultos-intentar-acabar-iptv-pirateria-1415609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-4256114.jpg?tf=1200x' alt='Google y Amazon alertan de los peligros ocultos de intentar acabar con las IPTV y la piratería' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-facilita-solucion-aplicaciones-no-funcionan-windows-10-1415579'>Microsoft facilita una solución para aplicaciones que no funcionan en Windows 10</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-facilita-solucion-aplicaciones-no-funcionan-windows-10-1415579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-10-3305161.jpg?tf=1200x' alt='Microsoft facilita una solución para aplicaciones que no funcionan en Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/rusia-impone-google-multa-20000000000000000000000000000000000-dolares-todo-dinero-hay-mundo-1415593'>Rusia impone a Google una multa de 20.000.000.000.000.000.000.000.000.000.000.000 dólares, más que todo el dinero que hay en el mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/rusia-impone-google-multa-20000000000000000000000000000000000-dolares-todo-dinero-hay-mundo-1415593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/rusia-impone-google-multa-20000000000000000000000000000000000-dolares-todo-dinero-hay-mundo-4256030.jpg?tf=1200x' alt='Rusia impone a Google una multa de 20.000.000.000.000.000.000.000.000.000.000.000 dólares, más que todo el dinero que hay en el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/mejores-frases-felicitar-aterrar-amigos-whatsapp-1415567'>Las mejores frases para felicitar (y aterrar) a tus amigos por WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/mejores-frases-felicitar-aterrar-amigos-whatsapp-1415567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mejores-frases-felicitar-aterrar-amigos-whatsapp-4255996.jpg?tf=1200x' alt='Las mejores frases para felicitar (y aterrar) a tus amigos por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/disfraces-caseros-halloween-podras-hacer-ultimo-minuto-tengas-casa-1415559'>Disfraces caseros de Halloween que podrás hacer en el último minuto con lo que tengas por casa</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/disfraces-caseros-halloween-podras-hacer-ultimo-minuto-tengas-casa-1415559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/disfraz-halloween-4256013.jpg?tf=1200x' alt='Disfraces caseros de Halloween que podrás hacer en el último minuto con lo que tengas por casa' />
     </a>
 </div>
 
