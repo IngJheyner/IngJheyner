@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/ni-spotify-ni-apple-music-nueva-plataforma-musica-streaming-nintendo-1415533'>Ni Spotify ni Apple Music, la nueva plataforma de música en streaming es de Nintendo</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/ni-spotify-ni-apple-music-nueva-plataforma-musica-streaming-nintendo-1415533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-spotify-ni-apple-music-nueva-plataforma-musica-streaming-nintendo-4255929.jpg?tf=1200x' alt='Ni Spotify ni Apple Music, la nueva plataforma de música en streaming es de Nintendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-utiliza-ia-escribir-25-codigo-como-cualquier-otro-desarrollador-1415516'>Google utiliza la IA para escribir el 25% de su código, como cualquier otro desarrollador</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-utiliza-ia-escribir-25-codigo-como-cualquier-otro-desarrollador-1415516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/codigo-fuente-4255905.jpg?tf=1200x' alt='Google utiliza la IA para escribir el 25% de su código, como cualquier otro desarrollador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/audio/ni-apple-ni-sony-novedad-curiosa-auriculares-llega-mano-razer-kraken-v4-pro-1411822'>Ni Apple ni Sony: la novedad más curiosa en unos auriculares llega de la mano de los Razer Kraken V4 Pro</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/ni-apple-ni-sony-novedad-curiosa-auriculares-llega-mano-razer-kraken-v4-pro-1411822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/razer-kraken-v4-pro-4249821.jpg?tf=1200x' alt='Ni Apple ni Sony: la novedad más curiosa en unos auriculares llega de la mano de los Razer Kraken V4 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/mes-uso-sigue-siendo-iphone-16-pro-tan-buena-compra-1414996'>Tras un mes de uso, ¿sigue siendo el iPhone 16 Pro tan buena compra?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/mes-uso-sigue-siendo-iphone-16-pro-tan-buena-compra-1414996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-16-pro-4255175.jpg?tf=1200x' alt='Tras un mes de uso, ¿sigue siendo el iPhone 16 Pro tan buena compra?' />
     </a>
 </div>
 
