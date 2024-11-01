@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/diferencias-raspberry-pi-frente-alternativas-orange-pi-odroid-1413423'>Diferencias de Raspberry Pi frente a sus alternativas: Orange Pi, Odroid y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/diferencias-raspberry-pi-frente-alternativas-orange-pi-odroid-1413423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/diferencias-raspberry-pi-frente-alternativas-orange-pi-odroid-4252548.jpg?tf=1200x' alt='Diferencias de Raspberry Pi frente a sus alternativas: Orange Pi, Odroid y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/he-recuperado-varios-gigas-espacio-mi-disco-duro-gracias-programa-gratis-eliminar-fotos-duplicadas-1414326'>He recuperado varios gigas de espacio de mi disco duro gracias a este programa gratis para eliminar fotos duplicadas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/he-recuperado-varios-gigas-espacio-mi-disco-duro-gracias-programa-gratis-eliminar-fotos-duplicadas-1414326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/disco-duro-4255706.jpg?tf=1200x' alt='He recuperado varios gigas de espacio de mi disco duro gracias a este programa gratis para eliminar fotos duplicadas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/estas-desaprovechando-sensor-huellas-movil-xiaomi-sirve-mucho-piensas-1413696'>Estás desaprovechando el sensor de huellas de tu móvil Xiaomi, sirve para mucho más de lo que piensas</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/estas-desaprovechando-sensor-huellas-movil-xiaomi-sirve-mucho-piensas-1413696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estas-desaprovechando-sensor-huellas-xiaomi-sirve-mucho-piensas-4252998.jpg?tf=1200x' alt='Estás desaprovechando el sensor de huellas de tu móvil Xiaomi, sirve para mucho más de lo que piensas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-te-etiqueten-facebook-deberias-hacerlo-te-importa-seguridad-1413789'>Cómo evitar que te etiqueten en Facebook (y por qué deberías hacerlo si te importa tu seguridad)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-te-etiqueten-facebook-deberias-hacerlo-te-importa-seguridad-1413789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-evitar-te-etiqueten-facebook-deberias-hacerlo-te-importa-seguridad-4253153.jpg?tf=1200x' alt='Cómo evitar que te etiqueten en Facebook (y por qué deberías hacerlo si te importa tu seguridad)' />
     </a>
 </div>
 
