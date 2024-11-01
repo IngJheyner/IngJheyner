@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-vincular-spotify-waze-escuchar-musica-mientras-viajas-1415296'>Cómo vincular Spotify con Waze para escuchar música mientras viajas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-vincular-spotify-waze-escuchar-musica-mientras-viajas-1415296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/usar-spotify-waze-4255592.jpg?tf=1200x' alt='Cómo vincular Spotify con Waze para escuchar música mientras viajas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/lineas-rojas-buenas-practicas-evitar-cuenta-whatsapp-sea-bloqueada-1415697'>Líneas rojas y buenas prácticas para evitar que tu cuenta de WhatsApp sea bloqueada</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/lineas-rojas-buenas-practicas-evitar-cuenta-whatsapp-sea-bloqueada-1415697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/lineas-rojas-buenas-practicas-evitar-cuenta-whatsapp-sea-bloqueada-4256494.jpg?tf=1200x' alt='Líneas rojas y buenas prácticas para evitar que tu cuenta de WhatsApp sea bloqueada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/diferencias-raspberry-pi-frente-alternativas-orange-pi-odroid-1413423'>Diferencias de Raspberry Pi frente a sus alternativas: Orange Pi, Odroid y más</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/diferencias-raspberry-pi-frente-alternativas-orange-pi-odroid-1413423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/diferencias-raspberry-pi-frente-alternativas-orange-pi-odroid-4252548.jpg?tf=1200x' alt='Diferencias de Raspberry Pi frente a sus alternativas: Orange Pi, Odroid y más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/ni-redmi-note-ni-galaxy-gama-media-mejor-camara-principal-ano-1410322'>Ni Redmi Note ni Galaxy A, el gama media con mejor cámara principal del año es este</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/ni-redmi-note-ni-galaxy-gama-media-mejor-camara-principal-ano-1410322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/zte-nubia-focus-pro-5g-4248432.jpg?tf=1200x' alt='Ni Redmi Note ni Galaxy A, el gama media con mejor cámara principal del año es este' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/xiaomi-robot-vacuum-x20-pro-analisis-opinion-1415280'>Era feliz con mi antiguo robot aspirador, pero tras probar el Xiaomi Robot Vacuum X20 Pro, creo que me cambio</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/xiaomi-robot-vacuum-x20-pro-analisis-opinion-1415280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-robot-vacuum-x20-pro-4256135.jpg?tf=1200x' alt='Era feliz con mi antiguo robot aspirador, pero tras probar el Xiaomi Robot Vacuum X20 Pro, creo que me cambio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/estas-desaprovechando-sensor-huellas-movil-xiaomi-sirve-mucho-piensas-1413696'>Estás desaprovechando el sensor de huellas de tu móvil Xiaomi, sirve para mucho más de lo que piensas</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/estas-desaprovechando-sensor-huellas-movil-xiaomi-sirve-mucho-piensas-1413696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estas-desaprovechando-sensor-huellas-xiaomi-sirve-mucho-piensas-4252998.jpg?tf=1200x' alt='Estás desaprovechando el sensor de huellas de tu móvil Xiaomi, sirve para mucho más de lo que piensas' />
     </a>
 </div>
 
