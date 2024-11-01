@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/cambiar-windows-portatil-viejo-sistema-operativo-gratis-chromeos-flex-1402728'>Adiós a Windows en mi viejo portátil, con este sistema operativo gratis ahora vuela, parece nuevo</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/cambiar-windows-portatil-viejo-sistema-operativo-gratis-chromeos-flex-1402728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/portatil-windows-4256532.jpg?tf=1200x' alt='Adiós a Windows en mi viejo portátil, con este sistema operativo gratis ahora vuela, parece nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/inventos-nasa-utilizamos-todos-dias-casas-1415477'>10 inventos de la NASA que utilizamos todos los días en nuestras casas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/inventos-nasa-utilizamos-todos-dias-casas-1415477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inventos-nasa-hoy-dia-podemos-encontrar-casa-4255860.jpg?tf=1200x' alt='10 inventos de la NASA que utilizamos todos los días en nuestras casas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/lineas-rojas-buenas-practicas-evitar-cuenta-whatsapp-sea-bloqueada-1415697'>Líneas rojas y buenas prácticas para evitar que tu cuenta de WhatsApp sea bloqueada</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/lineas-rojas-buenas-practicas-evitar-cuenta-whatsapp-sea-bloqueada-1415697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/lineas-rojas-buenas-practicas-evitar-cuenta-whatsapp-sea-bloqueada-4256494.jpg?tf=1200x' alt='Líneas rojas y buenas prácticas para evitar que tu cuenta de WhatsApp sea bloqueada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/diferencias-raspberry-pi-frente-alternativas-orange-pi-odroid-1413423'>Diferencias de Raspberry Pi frente a sus alternativas: Orange Pi, Odroid y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/diferencias-raspberry-pi-frente-alternativas-orange-pi-odroid-1413423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/diferencias-raspberry-pi-frente-alternativas-orange-pi-odroid-4252548.jpg?tf=1200x' alt='Diferencias de Raspberry Pi frente a sus alternativas: Orange Pi, Odroid y más' />
     </a>
 </div>
 
