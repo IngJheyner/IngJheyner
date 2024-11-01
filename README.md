@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-whatsapp-ni-correo-policia-alerta-aumento-estafas-sms-1415910'>Ni WhatsApp ni correo, la Policía alerta por el aumento de estafas por SMS</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-whatsapp-ni-correo-policia-alerta-aumento-estafas-sms-1415910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estafa-telefono-movil-4256691.jpg?tf=1200x' alt='Ni WhatsApp ni correo, la Policía alerta por el aumento de estafas por SMS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/podras-comprar-actualizaciones-windows-10-despues-fin-soporte-pero-durante-muy-poco-tiempo-1415907'>Podrás comprar actualizaciones de Windows 10 después del fin del soporte, pero durante muy poco tiempo</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/podras-comprar-actualizaciones-windows-10-despues-fin-soporte-pero-durante-muy-poco-tiempo-1415907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/actualizacion-windows-10-4020599.jpg?tf=1200x' alt='Podrás comprar actualizaciones de Windows 10 después del fin del soporte, pero durante muy poco tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-anuncia-nueva-version-tizen-os-smart-tv-tambien-estos-televisores-antiguos-1415905'>Samsung anuncia una nueva versión de Tizen OS para sus Smart TV, también para estos televisores antiguos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-anuncia-nueva-version-tizen-os-smart-tv-tambien-estos-televisores-antiguos-1415905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/samsung-tizen-4256686.jpg?tf=1200x' alt='Samsung anuncia una nueva versión de Tizen OS para sus Smart TV, también para estos televisores antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/cambio-climatico-no-solo-problema-tierra-extraterrestres-podrian-sufrirlo-planeta-1415877'>El cambio climático no es solo un problema de la Tierra, los extraterrestres podrían sufrirlo en su planeta</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/cambio-climatico-no-solo-problema-tierra-extraterrestres-podrian-sufrirlo-planeta-1415877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cambio-climatico-no-solo-problema-tierra-extraterrestres-podrian-sufrirlo-planeta-4256638.jpg?tf=1200x' alt='El cambio climático no es solo un problema de la Tierra, los extraterrestres podrían sufrirlo en su planeta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/alimentacion/funcion-freidora-aire-todo-mundo-ignora-fundamental-fritos-queden-crujientes-1415860'>La función de la freidora de aire que todo el mundo ignora, y es fundamental para que los fritos queden más crujientes</a></h4>
     <a href='https://computerhoy.20minutos.es/alimentacion/funcion-freidora-aire-todo-mundo-ignora-fundamental-fritos-queden-crujientes-1415860' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/funcion-freidora-aire-todo-mundo-ignora-fundamental-fritos-queden-crujientes-4256615.jpg?tf=1200x' alt='La función de la freidora de aire que todo el mundo ignora, y es fundamental para que los fritos queden más crujientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-consigue-maximo-historico-usuarios-pero-windows-10-sigue-dominando-1415838'>Windows 11 consigue su máximo histórico de usuarios, pero Windows 10 sigue dominando</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-consigue-maximo-historico-usuarios-pero-windows-10-sigue-dominando-1415838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-consigue-mejor-cifra-usuarios-pero-windows-10-sigue-dominando-4256583.jpg?tf=1200x' alt='Windows 11 consigue su máximo histórico de usuarios, pero Windows 10 sigue dominando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/robotaxi-tesla-podria-aplazarse-vez-24-millones-coches-autopilot-son-llamados-revision-1415833'>El robotaxi de Tesla podría aplazarse (una vez más): 2,4 millones de coches con autopilot son llamados a revisión</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/robotaxi-tesla-podria-aplazarse-vez-24-millones-coches-autopilot-son-llamados-revision-1415833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/robotaxi-tesla-podria-aplazarse-vez-24-millones-coches-autopilot-son-llamados-revision-4256568.jpg?tf=1200x' alt='El robotaxi de Tesla podría aplazarse (una vez más): 2,4 millones de coches con autopilot son llamados a revisión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ugt-registra-app-gratis-trabajadores-puedan-controlar-denunciar-horas-extra-1415823'>UGT Registra: la app gratis para que los trabajadores puedan controlar y denunciar las horas extra</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ugt-registra-app-gratis-trabajadores-puedan-controlar-denunciar-horas-extra-1415823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ugt-registra-app-gratis-trabajadores-puedan-controlar-denunciar-horas-extra-4256556.jpg?tf=1200x' alt='UGT Registra: la app gratis para que los trabajadores puedan controlar y denunciar las horas extra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-vende-iphone-esperado-pero-no-convence-ipad-1415816'>Apple vende más iPhone de lo esperado, pero no convence con el iPad</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-vende-iphone-esperado-pero-no-convence-ipad-1415816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-vende-iphone-esperado-pero-no-convence-ipad-4256540.jpg?tf=1200x' alt='Apple vende más iPhone de lo esperado, pero no convence con el iPad' />
     </a>
 </div>
 
