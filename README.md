@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-anuncia-donacion-apple-victimas-dana-valencia-1415768'>Tim Cook anuncia una donación de Apple para las víctimas de la DANA de Valencia</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-anuncia-donacion-apple-victimas-dana-valencia-1415768'>Tim Cook, conmocionado por la DANA de Valencia, anuncia una donación de Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/tim-cook-anuncia-donacion-apple-victimas-dana-valencia-1415768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tim-cook-anuncia-donacion-apple-victimas-dana-valencia-4256471.jpg?tf=1200x' alt='Tim Cook anuncia una donación de Apple para las víctimas de la DANA de Valencia' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tim-cook-anuncia-donacion-apple-victimas-dana-valencia-4256471.jpg?tf=1200x' alt='Tim Cook, conmocionado por la DANA de Valencia, anuncia una donación de Apple' />
     </a>
 </div>
 
@@ -66,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-estrena-listas-nueva-forma-organizar-chats-1415755'>WhatsApp estrena Listas, una nueva forma de organizar tus chats</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-estrena-listas-nueva-forma-organizar-chats-1415755'>WhatsApp estrena las Listas, una nueva forma de organizar tus chats</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-estrena-listas-nueva-forma-organizar-chats-1415755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-estrena-listas-nueva-forma-organizar-chats-4256426.jpg?tf=1200x' alt='WhatsApp estrena Listas, una nueva forma de organizar tus chats' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-estrena-listas-nueva-forma-organizar-chats-4256426.jpg?tf=1200x' alt='WhatsApp estrena las Listas, una nueva forma de organizar tus chats' />
     </a>
 </div>
 
