@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/robotaxi-tesla-podria-aplazarse-vez-24-millones-coches-autopilot-son-llamados-revision-1415833'>El robotaxi de Tesla podría aplazarse (una vez más): 2,4 millones de coches con autopilot son llamados a revisión</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/robotaxi-tesla-podria-aplazarse-vez-24-millones-coches-autopilot-son-llamados-revision-1415833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/robotaxi-tesla-podria-aplazarse-vez-24-millones-coches-autopilot-son-llamados-revision-4256568.jpg?tf=1200x' alt='El robotaxi de Tesla podría aplazarse (una vez más): 2,4 millones de coches con autopilot son llamados a revisión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/ugt-registra-app-gratis-trabajadores-puedan-controlar-denunciar-horas-extra-1415823'>UGT Registra: la app gratis para que los trabajadores puedan controlar y denunciar las horas extra</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ugt-registra-app-gratis-trabajadores-puedan-controlar-denunciar-horas-extra-1415823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ugt-registra-app-gratis-trabajadores-puedan-controlar-denunciar-horas-extra-4256556.jpg?tf=1200x' alt='UGT Registra: la app gratis para que los trabajadores puedan controlar y denunciar las horas extra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/adios-android-auto-tienes-estos-moviles-ya-no-son-compatibles-1415791'>Adiós a Android Auto si tienes uno de estos móviles, ya no son compatibles</a></h4>
     <a href='https://computerhoy.20minutos.es/android/adios-android-auto-tienes-estos-moviles-ya-no-son-compatibles-1415791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-android-auto-tienes-estos-moviles-ya-no-son-compatibles-4256506.jpg?tf=1200x' alt='Adiós a Android Auto si tienes uno de estos móviles, ya no son compatibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/has-leido-bien-mejores-smartwatch-android-ha-desplomado-precio-1415787'>Has leído bien: uno de los mejores smartwatch Android ha desplomado su precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/has-leido-bien-mejores-smartwatch-android-ha-desplomado-precio-1415787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch-7-samsung-galaxy-watch7-4251606.jpg?tf=1200x' alt='Has leído bien: uno de los mejores smartwatch Android ha desplomado su precio' />
     </a>
 </div>
 
