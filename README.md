@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-vende-iphone-esperado-pero-no-convence-ipad-1415816'>Apple vende más iPhone de lo esperado, pero no convence con el iPad</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-vende-iphone-esperado-pero-no-convence-ipad-1415816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-vende-iphone-esperado-pero-no-convence-ipad-4256540.jpg?tf=1200x' alt='Apple vende más iPhone de lo esperado, pero no convence con el iPad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gobierno-china-ha-modificado-llama-meta-convertir-ia-herramienta-militar-1415810'>El gobierno de China ha modificado Llama de Meta para convertir a la IA en una herramienta militar</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gobierno-china-ha-modificado-llama-meta-convertir-ia-herramienta-militar-1415810' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gobierno-china-ha-modificado-llama-meta-convertir-ia-herramienta-militar-4256533.jpg?tf=1200x' alt='El gobierno de China ha modificado Llama de Meta para convertir a la IA en una herramienta militar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/iptv-smarters-pro-como-funciona-ventajas-mejor-app-ver-listas-iptv-1414412'>IPTV Smarters Pro: cómo funciona y ventajas de la mejor app para ver listas IPTV</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/iptv-smarters-pro-como-funciona-ventajas-mejor-app-ver-listas-iptv-1414412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-smarters-pro-como-funciona-ventajas-mejor-app-ver-listas-iptv-4254162.jpg?tf=1200x' alt='IPTV Smarters Pro: cómo funciona y ventajas de la mejor app para ver listas IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/cambiar-windows-portatil-viejo-sistema-operativo-gratis-chromeos-flex-1402728'>Adiós a Windows en mi viejo portátil, con este sistema operativo gratis ahora vuela, parece nuevo</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/cambiar-windows-portatil-viejo-sistema-operativo-gratis-chromeos-flex-1402728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/portatil-windows-4256532.jpg?tf=1200x' alt='Adiós a Windows en mi viejo portátil, con este sistema operativo gratis ahora vuela, parece nuevo' />
     </a>
 </div>
 
