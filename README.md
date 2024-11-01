@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/estas-desaprovechando-sensor-huellas-movil-xiaomi-sirve-mucho-piensas-1413696'>Estás desaprovechando el sensor de huellas de tu móvil Xiaomi, sirve para mucho más de lo que piensas</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/estas-desaprovechando-sensor-huellas-movil-xiaomi-sirve-mucho-piensas-1413696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estas-desaprovechando-sensor-huellas-xiaomi-sirve-mucho-piensas-4252998.jpg?tf=1200x' alt='Estás desaprovechando el sensor de huellas de tu móvil Xiaomi, sirve para mucho más de lo que piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-te-etiqueten-facebook-deberias-hacerlo-te-importa-seguridad-1413789'>Cómo evitar que te etiqueten en Facebook (y por qué deberías hacerlo si te importa tu seguridad)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-te-etiqueten-facebook-deberias-hacerlo-te-importa-seguridad-1413789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-evitar-te-etiqueten-facebook-deberias-hacerlo-te-importa-seguridad-4253153.jpg?tf=1200x' alt='Cómo evitar que te etiqueten en Facebook (y por qué deberías hacerlo si te importa tu seguridad)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/rechaza-politica-privacidad-whatsapp-durante-4-anos-fue-paso-1415777'>Rechaza la política de privacidad de WhatsApp durante 4 años: esto fue lo que pasó</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/rechaza-politica-privacidad-whatsapp-durante-4-anos-fue-paso-1415777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/rechaza-politica-privacidad-whatsapp-durante-4-anos-fue-paso-4256478.jpg?tf=1200x' alt='Rechaza la política de privacidad de WhatsApp durante 4 años: esto fue lo que pasó' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sirve-algo-flipper-zero-manos-no-experimentadas-simplemente-juguete-muy-caro-1415082'>¿Sirve para algo Flipper Zero en manos no experimentadas o es simplemente un juguete muy caro?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sirve-algo-flipper-zero-manos-no-experimentadas-simplemente-juguete-muy-caro-1415082' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sirve-algo-flipper-zero-manos-no-experimentadas-simplemente-juguete-muy-caro-4255279.jpg?tf=1200x' alt='¿Sirve para algo Flipper Zero en manos no experimentadas o es simplemente un juguete muy caro?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-rebaja-garmin-fenix-8-1412938'>Amazon suelta la bomba: el Garmin Fenix 8 acumula 133 euros de descuento</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/amazon-rebaja-garmin-fenix-8-1412938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/garmin-fenix-8-4255363.jpg?tf=1200x' alt='Amazon suelta la bomba: el Garmin Fenix 8 acumula 133 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/no-tires-dinero-5-errores-comunes-comprar-componentes-pc-gaming-1400423'>¡No tires tu dinero! Los 5 errores más comunes al comprar componentes para tu PC Gaming</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/no-tires-dinero-5-errores-comunes-comprar-componentes-pc-gaming-1400423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/no-tires-dinero-5-errores-comunes-comprar-componentes-pc-gaming-3960873.jpg?tf=1200x' alt='¡No tires tu dinero! Los 5 errores más comunes al comprar componentes para tu PC Gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-anuncia-donacion-apple-victimas-dana-valencia-1415768'>Tim Cook, conmocionado por la DANA de Valencia, anuncia una donación de Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/tim-cook-anuncia-donacion-apple-victimas-dana-valencia-1415768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tim-cook-anuncia-donacion-apple-victimas-dana-valencia-4256471.jpg?tf=1200x' alt='Tim Cook, conmocionado por la DANA de Valencia, anuncia una donación de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-motor-busqueda-1415766'>ChatGPT estrena su motor de búsqueda y hace temblar al buscador de Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-motor-busqueda-1415766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chatgpt-estrena-motor-busqueda-hace-temblar-buscador-google-4256456.jpg?tf=1200x' alt='ChatGPT estrena su motor de búsqueda y hace temblar al buscador de Google' />
     </a>
 </div>
 
