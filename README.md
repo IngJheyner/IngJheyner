@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/he-recuperado-varios-gigas-espacio-mi-disco-duro-gracias-programa-gratis-eliminar-fotos-duplicadas-1414326'>He recuperado varios gigas de espacio de mi disco duro gracias a este programa gratis para eliminar fotos duplicadas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/he-recuperado-varios-gigas-espacio-mi-disco-duro-gracias-programa-gratis-eliminar-fotos-duplicadas-1414326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/disco-duro-4255706.jpg?tf=1200x' alt='He recuperado varios gigas de espacio de mi disco duro gracias a este programa gratis para eliminar fotos duplicadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-redmi-note-ni-galaxy-gama-media-mejor-camara-principal-ano-1410322'>Ni Redmi Note ni Galaxy A, el gama media con mejor cámara principal del año es este</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/ni-redmi-note-ni-galaxy-gama-media-mejor-camara-principal-ano-1410322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/zte-nubia-focus-pro-5g-4248432.jpg?tf=1200x' alt='Ni Redmi Note ni Galaxy A, el gama media con mejor cámara principal del año es este' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/xiaomi-robot-vacuum-x20-pro-analisis-opinion-1415280'>Era feliz con mi antiguo robot aspirador, pero tras probar el Xiaomi Robot Vacuum X20 Pro, creo que me cambio</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/xiaomi-robot-vacuum-x20-pro-analisis-opinion-1415280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-robot-vacuum-x20-pro-4256135.jpg?tf=1200x' alt='Era feliz con mi antiguo robot aspirador, pero tras probar el Xiaomi Robot Vacuum X20 Pro, creo que me cambio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/estas-desaprovechando-sensor-huellas-movil-xiaomi-sirve-mucho-piensas-1413696'>Estás desaprovechando el sensor de huellas de tu móvil Xiaomi, sirve para mucho más de lo que piensas</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/estas-desaprovechando-sensor-huellas-movil-xiaomi-sirve-mucho-piensas-1413696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estas-desaprovechando-sensor-huellas-xiaomi-sirve-mucho-piensas-4252998.jpg?tf=1200x' alt='Estás desaprovechando el sensor de huellas de tu móvil Xiaomi, sirve para mucho más de lo que piensas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-te-etiqueten-facebook-deberias-hacerlo-te-importa-seguridad-1413789'>Cómo evitar que te etiqueten en Facebook (y por qué deberías hacerlo si te importa tu seguridad)</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-te-etiqueten-facebook-deberias-hacerlo-te-importa-seguridad-1413789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-evitar-te-etiqueten-facebook-deberias-hacerlo-te-importa-seguridad-4253153.jpg?tf=1200x' alt='Cómo evitar que te etiqueten en Facebook (y por qué deberías hacerlo si te importa tu seguridad)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/rechaza-politica-privacidad-whatsapp-durante-4-anos-fue-paso-1415777'>Rechaza la política de privacidad de WhatsApp durante 4 años: esto fue lo que pasó</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/rechaza-politica-privacidad-whatsapp-durante-4-anos-fue-paso-1415777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/rechaza-politica-privacidad-whatsapp-durante-4-anos-fue-paso-4256478.jpg?tf=1200x' alt='Rechaza la política de privacidad de WhatsApp durante 4 años: esto fue lo que pasó' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sirve-algo-flipper-zero-manos-no-experimentadas-simplemente-juguete-muy-caro-1415082'>¿Sirve para algo Flipper Zero en manos no experimentadas o es simplemente un juguete muy caro?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sirve-algo-flipper-zero-manos-no-experimentadas-simplemente-juguete-muy-caro-1415082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sirve-algo-flipper-zero-manos-no-experimentadas-simplemente-juguete-muy-caro-4255279.jpg?tf=1200x' alt='¿Sirve para algo Flipper Zero en manos no experimentadas o es simplemente un juguete muy caro?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-rebaja-garmin-fenix-8-1412938'>Amazon suelta la bomba: el Garmin Fenix 8 acumula 133 euros de descuento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-rebaja-garmin-fenix-8-1412938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/garmin-fenix-8-4255363.jpg?tf=1200x' alt='Amazon suelta la bomba: el Garmin Fenix 8 acumula 133 euros de descuento' />
     </a>
 </div>
 
