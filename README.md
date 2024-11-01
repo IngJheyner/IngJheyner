@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sirve-algo-flipper-zero-manos-no-experimentadas-simplemente-juguete-muy-caro-1415082'>¿Sirve para algo Flipper Zero en manos no experimentadas o es simplemente un juguete muy caro?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sirve-algo-flipper-zero-manos-no-experimentadas-simplemente-juguete-muy-caro-1415082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sirve-algo-flipper-zero-manos-no-experimentadas-simplemente-juguete-muy-caro-4255279.jpg?tf=1200x' alt='¿Sirve para algo Flipper Zero en manos no experimentadas o es simplemente un juguete muy caro?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-rebaja-garmin-fenix-8-1412938'>Amazon suelta la bomba: el Garmin Fenix 8 acumula 133 euros de descuento</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-rebaja-garmin-fenix-8-1412938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/garmin-fenix-8-4255363.jpg?tf=1200x' alt='Amazon suelta la bomba: el Garmin Fenix 8 acumula 133 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/no-tires-dinero-5-errores-comunes-comprar-componentes-pc-gaming-1400423'>¡No tires tu dinero! Los 5 errores más comunes al comprar componentes para tu PC Gaming</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/no-tires-dinero-5-errores-comunes-comprar-componentes-pc-gaming-1400423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/no-tires-dinero-5-errores-comunes-comprar-componentes-pc-gaming-3960873.jpg?tf=1200x' alt='¡No tires tu dinero! Los 5 errores más comunes al comprar componentes para tu PC Gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-anuncia-donacion-apple-victimas-dana-valencia-1415768'>Tim Cook, conmocionado por la DANA de Valencia, anuncia una donación de Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/tim-cook-anuncia-donacion-apple-victimas-dana-valencia-1415768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tim-cook-anuncia-donacion-apple-victimas-dana-valencia-4256471.jpg?tf=1200x' alt='Tim Cook, conmocionado por la DANA de Valencia, anuncia una donación de Apple' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-motor-busqueda-1415766'>ChatGPT estrena su motor de búsqueda y hace temblar al buscador de Google</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-motor-busqueda-1415766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chatgpt-estrena-motor-busqueda-hace-temblar-buscador-google-4256456.jpg?tf=1200x' alt='ChatGPT estrena su motor de búsqueda y hace temblar al buscador de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-estrena-listas-nueva-forma-organizar-chats-1415755'>WhatsApp estrena las Listas, una nueva forma de organizar tus chats</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-estrena-listas-nueva-forma-organizar-chats-1415755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/whatsapp-estrena-listas-nueva-forma-organizar-chats-4256426.jpg?tf=1200x' alt='WhatsApp estrena las Listas, una nueva forma de organizar tus chats' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/aterrador-malware-moviles-android-redirige-llamadas-estafadores-hackers-1415751'>Un aterrador malware para móviles Android redirige las llamadas a estafadores y hackers</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/aterrador-malware-moviles-android-redirige-llamadas-estafadores-hackers-1415751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/malware-fakecall-4256439.jpg?tf=1200x' alt='Un aterrador malware para móviles Android redirige las llamadas a estafadores y hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-viernes-13-ni-halloween-saga-terror-secuelas-todos-tiempos-casi-nadie-recuerda-1415092'>Ni Viernes 13 ni Halloween, esta es la saga de terror con más secuelas de todos los tiempos (y casi nadie la recuerda)</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-viernes-13-ni-halloween-saga-terror-secuelas-todos-tiempos-casi-nadie-recuerda-1415092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-viernes-13-ni-halloween-saga-terror-secuelas-todos-tiempos-casi-nadie-recuerda-4255243.jpg?tf=1200x' alt='Ni Viernes 13 ni Halloween, esta es la saga de terror con más secuelas de todos los tiempos (y casi nadie la recuerda)' />
     </a>
 </div>
 
