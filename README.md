@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/ugt-registra-app-gratis-trabajadores-puedan-controlar-denunciar-horas-extra-1415823'>UGT Registra: la app gratis para que los trabajadores puedan controlar y denunciar las horas extra</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ugt-registra-app-gratis-trabajadores-puedan-controlar-denunciar-horas-extra-1415823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ugt-registra-app-gratis-trabajadores-puedan-controlar-denunciar-horas-extra-4256556.jpg?tf=1200x' alt='UGT Registra: la app gratis para que los trabajadores puedan controlar y denunciar las horas extra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-vende-iphone-esperado-pero-no-convence-ipad-1415816'>Apple vende más iPhone de lo esperado, pero no convence con el iPad</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-vende-iphone-esperado-pero-no-convence-ipad-1415816' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-vende-iphone-esperado-pero-no-convence-ipad-4256540.jpg?tf=1200x' alt='Apple vende más iPhone de lo esperado, pero no convence con el iPad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/has-leido-bien-mejores-smartwatch-android-ha-desplomado-precio-1415787'>Has leído bien: uno de los mejores smartwatch Android ha desplomado su precio</a></h4>
     <a href='https://computerhoy.20minutos.es/life/has-leido-bien-mejores-smartwatch-android-ha-desplomado-precio-1415787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch-7-samsung-galaxy-watch7-4251606.jpg?tf=1200x' alt='Has leído bien: uno de los mejores smartwatch Android ha desplomado su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/iptv-smarters-pro-como-funciona-ventajas-mejor-app-ver-listas-iptv-1414412'>IPTV Smarters Pro: cómo funciona y ventajas de la mejor app para ver listas IPTV</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/iptv-smarters-pro-como-funciona-ventajas-mejor-app-ver-listas-iptv-1414412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-smarters-pro-como-funciona-ventajas-mejor-app-ver-listas-iptv-4254162.jpg?tf=1200x' alt='IPTV Smarters Pro: cómo funciona y ventajas de la mejor app para ver listas IPTV' />
     </a>
 </div>
 
