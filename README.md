@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/alimentacion/funcion-freidora-aire-todo-mundo-ignora-fundamental-fritos-queden-crujientes-1415860'>La función de la freidora de aire que todo el mundo ignora, y es fundamental para que los fritos queden más crujientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/alimentacion/funcion-freidora-aire-todo-mundo-ignora-fundamental-fritos-queden-crujientes-1415860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/funcion-freidora-aire-todo-mundo-ignora-fundamental-fritos-queden-crujientes-4256615.jpg?tf=1200x' alt='La función de la freidora de aire que todo el mundo ignora, y es fundamental para que los fritos queden más crujientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-consigue-maximo-historico-usuarios-pero-windows-10-sigue-dominando-1415838'>Windows 11 consigue su máximo histórico de usuarios, pero Windows 10 sigue dominando</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-consigue-maximo-historico-usuarios-pero-windows-10-sigue-dominando-1415838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-consigue-mejor-cifra-usuarios-pero-windows-10-sigue-dominando-4256583.jpg?tf=1200x' alt='Windows 11 consigue su máximo histórico de usuarios, pero Windows 10 sigue dominando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/robotaxi-tesla-podria-aplazarse-vez-24-millones-coches-autopilot-son-llamados-revision-1415833'>El robotaxi de Tesla podría aplazarse (una vez más): 2,4 millones de coches con autopilot son llamados a revisión</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/robotaxi-tesla-podria-aplazarse-vez-24-millones-coches-autopilot-son-llamados-revision-1415833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/robotaxi-tesla-podria-aplazarse-vez-24-millones-coches-autopilot-son-llamados-revision-4256568.jpg?tf=1200x' alt='El robotaxi de Tesla podría aplazarse (una vez más): 2,4 millones de coches con autopilot son llamados a revisión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-vende-iphone-esperado-pero-no-convence-ipad-1415816'>Apple vende más iPhone de lo esperado, pero no convence con el iPad</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-vende-iphone-esperado-pero-no-convence-ipad-1415816' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-vende-iphone-esperado-pero-no-convence-ipad-4256540.jpg?tf=1200x' alt='Apple vende más iPhone de lo esperado, pero no convence con el iPad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gobierno-china-ha-modificado-llama-meta-convertir-ia-herramienta-militar-1415810'>El gobierno de China ha modificado Llama de Meta para convertir a la IA en una herramienta militar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gobierno-china-ha-modificado-llama-meta-convertir-ia-herramienta-militar-1415810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gobierno-china-ha-modificado-llama-meta-convertir-ia-herramienta-militar-4256533.jpg?tf=1200x' alt='El gobierno de China ha modificado Llama de Meta para convertir a la IA en una herramienta militar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/adios-android-auto-tienes-estos-moviles-ya-no-son-compatibles-1415791'>Adiós a Android Auto si tienes uno de estos móviles, ya no son compatibles</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/adios-android-auto-tienes-estos-moviles-ya-no-son-compatibles-1415791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-android-auto-tienes-estos-moviles-ya-no-son-compatibles-4256506.jpg?tf=1200x' alt='Adiós a Android Auto si tienes uno de estos móviles, ya no son compatibles' />
     </a>
 </div>
 
