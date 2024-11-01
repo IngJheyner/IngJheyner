@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/adios-android-auto-tienes-estos-moviles-ya-no-son-compatibles-1415791'>Adiós a Android Auto si tienes uno de estos móviles, ya no son compatibles</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/adios-android-auto-tienes-estos-moviles-ya-no-son-compatibles-1415791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-android-auto-tienes-estos-moviles-ya-no-son-compatibles-4256506.jpg?tf=1200x' alt='Adiós a Android Auto si tienes uno de estos móviles, ya no son compatibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/has-leido-bien-mejores-smartwatch-android-ha-desplomado-precio-1415787'>Has leído bien: uno de los mejores smartwatch Android ha desplomado su precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/has-leido-bien-mejores-smartwatch-android-ha-desplomado-precio-1415787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch-7-samsung-galaxy-watch7-4251606.jpg?tf=1200x' alt='Has leído bien: uno de los mejores smartwatch Android ha desplomado su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/iptv-smarters-pro-como-funciona-ventajas-mejor-app-ver-listas-iptv-1414412'>IPTV Smarters Pro: cómo funciona y ventajas de la mejor app para ver listas IPTV</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/iptv-smarters-pro-como-funciona-ventajas-mejor-app-ver-listas-iptv-1414412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-smarters-pro-como-funciona-ventajas-mejor-app-ver-listas-iptv-4254162.jpg?tf=1200x' alt='IPTV Smarters Pro: cómo funciona y ventajas de la mejor app para ver listas IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/cambiar-windows-portatil-viejo-sistema-operativo-gratis-chromeos-flex-1402728'>Adiós a Windows en mi viejo portátil, con este sistema operativo gratis ahora vuela, parece nuevo</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/cambiar-windows-portatil-viejo-sistema-operativo-gratis-chromeos-flex-1402728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/portatil-windows-4256532.jpg?tf=1200x' alt='Adiós a Windows en mi viejo portátil, con este sistema operativo gratis ahora vuela, parece nuevo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/inventos-nasa-utilizamos-todos-dias-casas-1415477'>10 inventos de la NASA que utilizamos todos los días en nuestras casas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/inventos-nasa-utilizamos-todos-dias-casas-1415477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inventos-nasa-hoy-dia-podemos-encontrar-casa-4255860.jpg?tf=1200x' alt='10 inventos de la NASA que utilizamos todos los días en nuestras casas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/descubren-secreto-mejor-guardado-antiguos-romanos-construian-estructuras-tan-resistentes-1415404'>Descubren el secreto mejor guardado de los antiguos romanos: así construían estructuras tan resistentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/descubren-secreto-mejor-guardado-antiguos-romanos-construian-estructuras-tan-resistentes-1415404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/descubren-secreto-mejor-guardado-antiguos-romanos-construian-estructuras-tan-resistentes-4255719.jpg?tf=1200x' alt='Descubren el secreto mejor guardado de los antiguos romanos: así construían estructuras tan resistentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-vincular-spotify-waze-escuchar-musica-mientras-viajas-1415296'>Cómo vincular Spotify con Waze para escuchar música mientras viajas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-vincular-spotify-waze-escuchar-musica-mientras-viajas-1415296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/usar-spotify-waze-4255592.jpg?tf=1200x' alt='Cómo vincular Spotify con Waze para escuchar música mientras viajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/lineas-rojas-buenas-practicas-evitar-cuenta-whatsapp-sea-bloqueada-1415697'>Líneas rojas y buenas prácticas para evitar que tu cuenta de WhatsApp sea bloqueada</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/lineas-rojas-buenas-practicas-evitar-cuenta-whatsapp-sea-bloqueada-1415697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/lineas-rojas-buenas-practicas-evitar-cuenta-whatsapp-sea-bloqueada-4256494.jpg?tf=1200x' alt='Líneas rojas y buenas prácticas para evitar que tu cuenta de WhatsApp sea bloqueada' />
     </a>
 </div>
 
