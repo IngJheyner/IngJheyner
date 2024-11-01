@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gobierno-china-ha-modificado-llama-meta-convertir-ia-herramienta-militar-1415810'>El gobierno de China ha modificado Llama de Meta para convertir a la IA en una herramienta militar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gobierno-china-ha-modificado-llama-meta-convertir-ia-herramienta-militar-1415810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gobierno-china-ha-modificado-llama-meta-convertir-ia-herramienta-militar-4256533.jpg?tf=1200x' alt='El gobierno de China ha modificado Llama de Meta para convertir a la IA en una herramienta militar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/adios-android-auto-tienes-estos-moviles-ya-no-son-compatibles-1415791'>Adiós a Android Auto si tienes uno de estos móviles, ya no son compatibles</a></h4>
     <a href='https://computerhoy.20minutos.es/android/adios-android-auto-tienes-estos-moviles-ya-no-son-compatibles-1415791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-android-auto-tienes-estos-moviles-ya-no-son-compatibles-4256506.jpg?tf=1200x' alt='Adiós a Android Auto si tienes uno de estos móviles, ya no son compatibles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/cambiar-windows-portatil-viejo-sistema-operativo-gratis-chromeos-flex-1402728'>Adiós a Windows en mi viejo portátil, con este sistema operativo gratis ahora vuela, parece nuevo</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/cambiar-windows-portatil-viejo-sistema-operativo-gratis-chromeos-flex-1402728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/portatil-windows-4256532.jpg?tf=1200x' alt='Adiós a Windows en mi viejo portátil, con este sistema operativo gratis ahora vuela, parece nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inventos-nasa-utilizamos-todos-dias-casas-1415477'>10 inventos de la NASA que utilizamos todos los días en nuestras casas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/inventos-nasa-utilizamos-todos-dias-casas-1415477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inventos-nasa-hoy-dia-podemos-encontrar-casa-4255860.jpg?tf=1200x' alt='10 inventos de la NASA que utilizamos todos los días en nuestras casas' />
     </a>
 </div>
 
