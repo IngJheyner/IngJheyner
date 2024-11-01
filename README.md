@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inventos-nasa-utilizamos-todos-dias-casas-1415477'>10 inventos de la NASA que utilizamos todos los días en nuestras casas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/inventos-nasa-utilizamos-todos-dias-casas-1415477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inventos-nasa-hoy-dia-podemos-encontrar-casa-4255860.jpg?tf=1200x' alt='10 inventos de la NASA que utilizamos todos los días en nuestras casas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/descubren-secreto-mejor-guardado-antiguos-romanos-construian-estructuras-tan-resistentes-1415404'>Descubren el secreto mejor guardado de los antiguos romanos: así construían estructuras tan resistentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/descubren-secreto-mejor-guardado-antiguos-romanos-construian-estructuras-tan-resistentes-1415404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/descubren-secreto-mejor-guardado-antiguos-romanos-construian-estructuras-tan-resistentes-4255719.jpg?tf=1200x' alt='Descubren el secreto mejor guardado de los antiguos romanos: así construían estructuras tan resistentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-vincular-spotify-waze-escuchar-musica-mientras-viajas-1415296'>Cómo vincular Spotify con Waze para escuchar música mientras viajas</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-vincular-spotify-waze-escuchar-musica-mientras-viajas-1415296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/usar-spotify-waze-4255592.jpg?tf=1200x' alt='Cómo vincular Spotify con Waze para escuchar música mientras viajas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/diferencias-raspberry-pi-frente-alternativas-orange-pi-odroid-1413423'>Diferencias de Raspberry Pi frente a sus alternativas: Orange Pi, Odroid y más</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/diferencias-raspberry-pi-frente-alternativas-orange-pi-odroid-1413423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/diferencias-raspberry-pi-frente-alternativas-orange-pi-odroid-4252548.jpg?tf=1200x' alt='Diferencias de Raspberry Pi frente a sus alternativas: Orange Pi, Odroid y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/he-recuperado-varios-gigas-espacio-mi-disco-duro-gracias-programa-gratis-eliminar-fotos-duplicadas-1414326'>He recuperado varios gigas de espacio de mi disco duro gracias a este programa gratis para eliminar fotos duplicadas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/he-recuperado-varios-gigas-espacio-mi-disco-duro-gracias-programa-gratis-eliminar-fotos-duplicadas-1414326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/disco-duro-4255706.jpg?tf=1200x' alt='He recuperado varios gigas de espacio de mi disco duro gracias a este programa gratis para eliminar fotos duplicadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-redmi-note-ni-galaxy-gama-media-mejor-camara-principal-ano-1410322'>Ni Redmi Note ni Galaxy A, el gama media con mejor cámara principal del año es este</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/ni-redmi-note-ni-galaxy-gama-media-mejor-camara-principal-ano-1410322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/zte-nubia-focus-pro-5g-4248432.jpg?tf=1200x' alt='Ni Redmi Note ni Galaxy A, el gama media con mejor cámara principal del año es este' />
     </a>
 </div>
 
