@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-odia-ergonomia-1414969'>¿Por qué Apple odia la ergonomía?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-odia-ergonomia-1414969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/perifericos-apple-4255034.jpg?tf=1200x' alt='¿Por qué Apple odia la ergonomía?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/he-viajado-semana-china-estas-son-todas-apps-servicios-he-necesitado-1414274'>He viajado una semana a China y estas son todas las apps y servicios que he necesitado</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/he-viajado-semana-china-estas-son-todas-apps-servicios-he-necesitado-1414274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apps-viajar-china-4254028.jpg?tf=1200x' alt='He viajado una semana a China y estas son todas las apps y servicios que he necesitado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/china-presenta-ladrillos-especiales-construir-base-luna-1415927'>China presenta los ladrillos especiales con los que construirá su base en la Luna</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/china-presenta-ladrillos-especiales-construir-base-luna-1415927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/china-presenta-ladrillos-construira-base-luna-4256125.jpg?tf=1200x' alt='China presenta los ladrillos especiales con los que construirá su base en la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-sueno-cualquiera-pueda-comprarse-coche-electrico-2025-realidad-locura-1415426'>Elon Musk y el sueño de que cualquiera pueda comprarse un coche eléctrico en 2025: ¿realidad o locura? </a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-sueno-cualquiera-pueda-comprarse-coche-electrico-2025-realidad-locura-1415426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/elon-musk-robotaxi-4249995.jpg?tf=1200x' alt='Elon Musk y el sueño de que cualquiera pueda comprarse un coche eléctrico en 2025: ¿realidad o locura? ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-otras-personas-vean-estados-whatsapp-1415009'>Cómo evitar que otras personas vean tus estados de WhatsApp </a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-otras-personas-vean-estados-whatsapp-1415009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/historias-whatsapp-4255110.jpg?tf=1200x' alt='Cómo evitar que otras personas vean tus estados de WhatsApp ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/listas-iptv-ver-futbol-tv-gratis-cuales-son-riesgos-reales-te-expones-utilizas-1414767'>Listas IPTV para ver el fútbol y TV gratis: ¿cuáles son los riesgos reales a los que te expones si las utilizas?</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/listas-iptv-ver-futbol-tv-gratis-cuales-son-riesgos-reales-te-expones-utilizas-1414767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/listas-iptv-ver-futbol-tv-gratis-cuales-son-riesgos-reales-te-expones-utilizas-4254766.jpg?tf=1200x' alt='Listas IPTV para ver el fútbol y TV gratis: ¿cuáles son los riesgos reales a los que te expones si las utilizas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/suunto-garmin-reloj-gps-barato-1411597'>Suunto va a por Garmin con todo: vende un reloj GPS muy preciso por solo 199 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/suunto-garmin-reloj-gps-barato-1411597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/suunto-9-peak-pro-4244882.jpg?tf=1200x' alt='Suunto va a por Garmin con todo: vende un reloj GPS muy preciso por solo 199 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/codigos-secretos-tiktok-desbloquear-emojis-secretos-1414387'>Códigos secretos de TikTok para desbloquear sus emojis secretos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/codigos-secretos-tiktok-desbloquear-emojis-secretos-1414387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/codigos-secretos-tiktok-desbloquear-emojis-secretos-4254136.jpg?tf=1200x' alt='Códigos secretos de TikTok para desbloquear sus emojis secretos' />
     </a>
 </div>
 
