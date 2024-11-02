@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-prepara-misterioso-dispositivo-rivalizar-apple-vision-pro-1416004'>Samsung prepara un misterioso dispositivo para rivalizar con las Apple Vision Pro</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-prepara-misterioso-dispositivo-rivalizar-apple-vision-pro-1416004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-gear-vr-2682803.jpg?tf=1200x' alt='Samsung prepara un misterioso dispositivo para rivalizar con las Apple Vision Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gmail-estrena-mejor-herramienta-basada-ia-tareas-repetitivas-1416003'>Gmail estrena la mejor herramienta basada en IA para tareas repetitivas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gmail-estrena-mejor-herramienta-basada-ia-tareas-repetitivas-1416003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gmail-inteligencia-artificial-4256835.jpg?tf=1200x' alt='Gmail estrena la mejor herramienta basada en IA para tareas repetitivas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/google-adelanta-lanzamiento-android-16-promete-dos-versiones-2025-1415980'>Google adelanta el lanzamiento de Android 16 y promete dos versiones para 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/android/google-adelanta-lanzamiento-android-16-promete-dos-versiones-2025-1415980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-16-4256802.jpg?tf=1200x' alt='Google adelanta el lanzamiento de Android 16 y promete dos versiones para 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/alerta-retro-87-videojuegos-clasicos-podrian-desaparecer-muy-pronto-1415014'>Alerta retro: el 87% de los videojuegos clásicos podrían desaparecer muy pronto</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/alerta-retro-87-videojuegos-clasicos-podrian-desaparecer-muy-pronto-1415014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/alerta-retro-87-videojuegos-clasicos-podrian-desaparecer-muy-pronto-4255203.jpg?tf=1200x' alt='Alerta retro: el 87% de los videojuegos clásicos podrían desaparecer muy pronto' />
     </a>
 </div>
 
