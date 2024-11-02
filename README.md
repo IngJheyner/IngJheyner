@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gmail-estrena-mejor-herramienta-basada-ia-tareas-repetitivas-1416003'>Gmail estrena la mejor herramienta basada en IA para tareas repetitivas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gmail-estrena-mejor-herramienta-basada-ia-tareas-repetitivas-1416003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gmail-inteligencia-artificial-4256835.jpg?tf=1200x' alt='Gmail estrena la mejor herramienta basada en IA para tareas repetitivas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/grok-chatbot-ia-red-social-x-ahora-puede-analizar-imagenes-1416001'>Grok, el chatbot con IA de la red social X, ahora puede analizar imágenes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/grok-chatbot-ia-red-social-x-ahora-puede-analizar-imagenes-1416001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/grok-4256833.jpg?tf=1200x' alt='Grok, el chatbot con IA de la red social X, ahora puede analizar imágenes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/alerta-retro-87-videojuegos-clasicos-podrian-desaparecer-muy-pronto-1415014'>Alerta retro: el 87% de los videojuegos clásicos podrían desaparecer muy pronto</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/alerta-retro-87-videojuegos-clasicos-podrian-desaparecer-muy-pronto-1415014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/alerta-retro-87-videojuegos-clasicos-podrian-desaparecer-muy-pronto-4255203.jpg?tf=1200x' alt='Alerta retro: el 87% de los videojuegos clásicos podrían desaparecer muy pronto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-ia-copilot-evolucione-convertirse-amigo-verdadero-1415975'>Microsoft quiere que la IA de Copilot evolucione hasta convertirse en "un amigo verdadero"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-ia-copilot-evolucione-convertirse-amigo-verdadero-1415975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/copilot-ai-4256794.jpg?tf=1200x' alt='Microsoft quiere que la IA de Copilot evolucione hasta convertirse en "un amigo verdadero"' />
     </a>
 </div>
 
