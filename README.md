@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/listas-iptv-ver-futbol-tv-gratis-cuales-son-riesgos-reales-te-expones-utilizas-1414767'>Listas IPTV para ver el fútbol y TV gratis: ¿cuáles son los riesgos reales a los que te expones si las utilizas?</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/listas-iptv-ver-futbol-tv-gratis-cuales-son-riesgos-reales-te-expones-utilizas-1414767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/listas-iptv-ver-futbol-tv-gratis-cuales-son-riesgos-reales-te-expones-utilizas-4254766.jpg?tf=1200x' alt='Listas IPTV para ver el fútbol y TV gratis: ¿cuáles son los riesgos reales a los que te expones si las utilizas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/suunto-garmin-reloj-gps-barato-1411597'>Suunto va a por Garmin con todo: vende un reloj GPS muy preciso por solo 199 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/suunto-garmin-reloj-gps-barato-1411597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/suunto-9-peak-pro-4244882.jpg?tf=1200x' alt='Suunto va a por Garmin con todo: vende un reloj GPS muy preciso por solo 199 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/codigos-secretos-tiktok-desbloquear-emojis-secretos-1414387'>Códigos secretos de TikTok para desbloquear sus emojis secretos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/codigos-secretos-tiktok-desbloquear-emojis-secretos-1414387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/codigos-secretos-tiktok-desbloquear-emojis-secretos-4254136.jpg?tf=1200x' alt='Códigos secretos de TikTok para desbloquear sus emojis secretos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-whatsapp-ni-correo-policia-alerta-aumento-estafas-sms-1415910'>Ni WhatsApp ni correo, la Policía alerta por el aumento de estafas por SMS</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-whatsapp-ni-correo-policia-alerta-aumento-estafas-sms-1415910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estafa-telefono-movil-4256691.jpg?tf=1200x' alt='Ni WhatsApp ni correo, la Policía alerta por el aumento de estafas por SMS' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/podras-comprar-actualizaciones-windows-10-despues-fin-soporte-pero-durante-muy-poco-tiempo-1415907'>Podrás comprar actualizaciones de Windows 10 después del fin del soporte, pero durante muy poco tiempo</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/podras-comprar-actualizaciones-windows-10-despues-fin-soporte-pero-durante-muy-poco-tiempo-1415907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/actualizacion-windows-10-4020599.jpg?tf=1200x' alt='Podrás comprar actualizaciones de Windows 10 después del fin del soporte, pero durante muy poco tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-anuncia-nueva-version-tizen-os-smart-tv-tambien-estos-televisores-antiguos-1415905'>Samsung anuncia una nueva versión de Tizen OS para sus Smart TV, también para estos televisores antiguos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-anuncia-nueva-version-tizen-os-smart-tv-tambien-estos-televisores-antiguos-1415905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/samsung-tizen-4256686.jpg?tf=1200x' alt='Samsung anuncia una nueva versión de Tizen OS para sus Smart TV, también para estos televisores antiguos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/cambio-climatico-no-solo-problema-tierra-extraterrestres-podrian-sufrirlo-planeta-1415877'>El cambio climático no es solo un problema de la Tierra, los extraterrestres podrían sufrirlo en su planeta</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/cambio-climatico-no-solo-problema-tierra-extraterrestres-podrian-sufrirlo-planeta-1415877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cambio-climatico-no-solo-problema-tierra-extraterrestres-podrian-sufrirlo-planeta-4256638.jpg?tf=1200x' alt='El cambio climático no es solo un problema de la Tierra, los extraterrestres podrían sufrirlo en su planeta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/alimentacion/funcion-freidora-aire-todo-mundo-ignora-fundamental-fritos-queden-crujientes-1415860'>La función de la freidora de aire que todo el mundo ignora, y es fundamental para que los fritos queden más crujientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/alimentacion/funcion-freidora-aire-todo-mundo-ignora-fundamental-fritos-queden-crujientes-1415860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/funcion-freidora-aire-todo-mundo-ignora-fundamental-fritos-queden-crujientes-4256615.jpg?tf=1200x' alt='La función de la freidora de aire que todo el mundo ignora, y es fundamental para que los fritos queden más crujientes' />
     </a>
 </div>
 
