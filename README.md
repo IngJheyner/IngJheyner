@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/alerta-retro-87-videojuegos-clasicos-podrian-desaparecer-muy-pronto-1415014'>Alerta retro: el 87% de los videojuegos clásicos podrían desaparecer muy pronto</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/alerta-retro-87-videojuegos-clasicos-podrian-desaparecer-muy-pronto-1415014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/alerta-retro-87-videojuegos-clasicos-podrian-desaparecer-muy-pronto-4255203.jpg?tf=1200x' alt='Alerta retro: el 87% de los videojuegos clásicos podrían desaparecer muy pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-ia-copilot-evolucione-convertirse-amigo-verdadero-1415975'>Microsoft quiere que la IA de Copilot evolucione hasta convertirse en "un amigo verdadero"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-ia-copilot-evolucione-convertirse-amigo-verdadero-1415975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/copilot-ai-4256794.jpg?tf=1200x' alt='Microsoft quiere que la IA de Copilot evolucione hasta convertirse en "un amigo verdadero"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-cambiara-siempre-actualizaciones-galaxy-s25-1415968'>Samsung cambiará para siempre las actualizaciones con el Galaxy S25</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-cambiara-siempre-actualizaciones-galaxy-s25-1415968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/descubri-truco-dos-dedos-mi-samsung-galaxy-no-puedo-parar-utilizarlo-4253720.jpg?tf=1200x' alt='Samsung cambiará para siempre las actualizaciones con el Galaxy S25' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/energia/ahora-anochece-antes-enchufe-inteligente-ahorraras-factura-apenas-cuesta-10-euros-1415929'>Ahora que anochece antes, con este enchufe inteligente ahorrarás en tu factura: apenas cuesta 10 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/ahora-anochece-antes-enchufe-inteligente-ahorraras-factura-apenas-cuesta-10-euros-1415929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/enchufe-inteligente-4256747.jpg?tf=1200x' alt='Ahora que anochece antes, con este enchufe inteligente ahorrarás en tu factura: apenas cuesta 10 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-hace-iniciar-sesion-sea-ahora-intuitivo-facil-nunca-1415963'>Windows 11 hace que iniciar sesión sea ahora más intuitivo y fácil que nunca</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-hace-iniciar-sesion-sea-ahora-intuitivo-facil-nunca-1415963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/windows-hello-2410235.jpg?tf=1200x' alt='Windows 11 hace que iniciar sesión sea ahora más intuitivo y fácil que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/10-peliculas-perfectas-sacar-maximo-rendimiento-nuevo-televisor-oled-1405820'>10 películas perfectas para sacar el máximo rendimiento a tu nuevo televisor OLED</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/10-peliculas-perfectas-sacar-maximo-rendimiento-nuevo-televisor-oled-1405820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tele-oled-4207200.jpg?tf=1200x' alt='10 películas perfectas para sacar el máximo rendimiento a tu nuevo televisor OLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-reparara-gratis-iphone-14-plus-tiene-problema-1415955'>Apple reparará gratis tu iPhone 14 Plus si tiene este problema</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-reparara-gratis-iphone-14-plus-tiene-problema-1415955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857691.jpg?tf=1200x' alt='Apple reparará gratis tu iPhone 14 Plus si tiene este problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-hojas-calculo-colaborativas-google-sheets-mucho-mejor-excel-1411005'>Cómo crear hojas de cálculo colaborativas con Google Sheets: mucho mejor que Excel</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-hojas-calculo-colaborativas-google-sheets-mucho-mejor-excel-1411005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-sheet-vs-excell-4248331.jpg?tf=1200x' alt='Cómo crear hojas de cálculo colaborativas con Google Sheets: mucho mejor que Excel' />
     </a>
 </div>
 
