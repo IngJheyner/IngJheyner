@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/ahora-anochece-antes-enchufe-inteligente-ahorraras-factura-apenas-cuesta-10-euros-1415929'>Ahora que anochece antes, con este enchufe inteligente ahorrarás en tu factura: apenas cuesta 10 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/ahora-anochece-antes-enchufe-inteligente-ahorraras-factura-apenas-cuesta-10-euros-1415929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/enchufe-inteligente-4256747.jpg?tf=1200x' alt='Ahora que anochece antes, con este enchufe inteligente ahorrarás en tu factura: apenas cuesta 10 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-hace-iniciar-sesion-sea-ahora-intuitivo-facil-nunca-1415963'>Windows 11 hace que iniciar sesión sea ahora más intuitivo y fácil que nunca</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-hace-iniciar-sesion-sea-ahora-intuitivo-facil-nunca-1415963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/windows-hello-2410235.jpg?tf=1200x' alt='Windows 11 hace que iniciar sesión sea ahora más intuitivo y fácil que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/10-peliculas-perfectas-sacar-maximo-rendimiento-nuevo-televisor-oled-1405820'>10 películas perfectas para sacar el máximo rendimiento a tu nuevo televisor OLED</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/10-peliculas-perfectas-sacar-maximo-rendimiento-nuevo-televisor-oled-1405820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/tele-oled-4207200.jpg?tf=1200x' alt='10 películas perfectas para sacar el máximo rendimiento a tu nuevo televisor OLED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-reparara-gratis-iphone-14-plus-tiene-problema-1415955'>Apple reparará gratis tu iPhone 14 Plus si tiene este problema</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-reparara-gratis-iphone-14-plus-tiene-problema-1415955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857691.jpg?tf=1200x' alt='Apple reparará gratis tu iPhone 14 Plus si tiene este problema' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-hojas-calculo-colaborativas-google-sheets-mucho-mejor-excel-1411005'>Cómo crear hojas de cálculo colaborativas con Google Sheets: mucho mejor que Excel</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-hojas-calculo-colaborativas-google-sheets-mucho-mejor-excel-1411005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-sheet-vs-excell-4248331.jpg?tf=1200x' alt='Cómo crear hojas de cálculo colaborativas con Google Sheets: mucho mejor que Excel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/impresioning-bumping-tipo-cerradura-segura-casa-cerrajeros-1414416'>Impresioning, bumping… este el tipo de cerradura más segura para tu casa, según los cerrajeros</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/impresioning-bumping-tipo-cerradura-segura-casa-cerrajeros-1414416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/impresioning-bumping-tipo-cerradura-segura-casa-cerrajeros-4254166.jpg?tf=1200x' alt='Impresioning, bumping… este el tipo de cerradura más segura para tu casa, según los cerrajeros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/addon-seguimiento-todo-ves-kodi-1414363'>Este add-on te permite llevar un seguimiento de todo lo que ves en Kodi</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/addon-seguimiento-todo-ves-kodi-1414363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/addon-kodi-4254101.jpg?tf=1200x' alt='Este add-on te permite llevar un seguimiento de todo lo que ves en Kodi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/vivo-v40-80w-movil-gama-media-regresa-carga-rapida-gama-alta-luz-retrato-aura-light-1413035'>Vivo V40 SE 80W, un móvil de gama media que regresa con carga rápida de gama alta y luz de retrato Aura Light</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/vivo-v40-80w-movil-gama-media-regresa-carga-rapida-gama-alta-luz-retrato-aura-light-1413035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/vivo-v40-80w-4251904.jpg?tf=1200x' alt='Vivo V40 SE 80W, un móvil de gama media que regresa con carga rápida de gama alta y luz de retrato Aura Light' />
     </a>
 </div>
 
