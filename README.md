@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-reparara-gratis-iphone-14-plus-tiene-problema-1415955'>Apple reparará gratis tu iPhone 14 Plus si tiene este problema</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-reparara-gratis-iphone-14-plus-tiene-problema-1415955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857691.jpg?tf=1200x' alt='Apple reparará gratis tu iPhone 14 Plus si tiene este problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-hojas-calculo-colaborativas-google-sheets-mucho-mejor-excel-1411005'>Cómo crear hojas de cálculo colaborativas con Google Sheets: mucho mejor que Excel</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-hojas-calculo-colaborativas-google-sheets-mucho-mejor-excel-1411005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-sheet-vs-excell-4248331.jpg?tf=1200x' alt='Cómo crear hojas de cálculo colaborativas con Google Sheets: mucho mejor que Excel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/impresioning-bumping-tipo-cerradura-segura-casa-cerrajeros-1414416'>Impresioning, bumping… este el tipo de cerradura más segura para tu casa, según los cerrajeros</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/impresioning-bumping-tipo-cerradura-segura-casa-cerrajeros-1414416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/impresioning-bumping-tipo-cerradura-segura-casa-cerrajeros-4254166.jpg?tf=1200x' alt='Impresioning, bumping… este el tipo de cerradura más segura para tu casa, según los cerrajeros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/vivo-v40-80w-movil-gama-media-regresa-carga-rapida-gama-alta-luz-retrato-aura-light-1413035'>Vivo V40 SE 80W, un móvil de gama media que regresa con carga rápida de gama alta y luz de retrato Aura Light</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/vivo-v40-80w-movil-gama-media-regresa-carga-rapida-gama-alta-luz-retrato-aura-light-1413035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/vivo-v40-80w-4251904.jpg?tf=1200x' alt='Vivo V40 SE 80W, un móvil de gama media que regresa con carga rápida de gama alta y luz de retrato Aura Light' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-emojis-automaticos-whatsapp-web-1414854'>Cómo desactivar los emojis automáticos en WhatsApp Web</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-emojis-automaticos-whatsapp-web-1414854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/emojis-whatsapp-4254887.jpg?tf=1200x' alt='Cómo desactivar los emojis automáticos en WhatsApp Web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-odia-ergonomia-1414969'>¿Por qué Apple odia la ergonomía?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-odia-ergonomia-1414969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/perifericos-apple-4255034.jpg?tf=1200x' alt='¿Por qué Apple odia la ergonomía?' />
     </a>
 </div>
 
