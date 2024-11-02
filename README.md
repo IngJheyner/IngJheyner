@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/impresioning-bumping-tipo-cerradura-segura-casa-cerrajeros-1414416'>Impresioning, bumping… este el tipo de cerradura más segura para tu casa, según los cerrajeros</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/impresioning-bumping-tipo-cerradura-segura-casa-cerrajeros-1414416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/impresioning-bumping-tipo-cerradura-segura-casa-cerrajeros-4254166.jpg?tf=1200x' alt='Impresioning, bumping… este el tipo de cerradura más segura para tu casa, según los cerrajeros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/addon-seguimiento-todo-ves-kodi-1414363'>Este add-on te permite llevar un seguimiento de todo lo que ves en Kodi</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/addon-seguimiento-todo-ves-kodi-1414363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/addon-kodi-4254101.jpg?tf=1200x' alt='Este add-on te permite llevar un seguimiento de todo lo que ves en Kodi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-odia-ergonomia-1414969'>¿Por qué Apple odia la ergonomía?</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-odia-ergonomia-1414969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/perifericos-apple-4255034.jpg?tf=1200x' alt='¿Por qué Apple odia la ergonomía?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/he-viajado-semana-china-estas-son-todas-apps-servicios-he-necesitado-1414274'>He viajado una semana a China y estas son todas las apps y servicios que he necesitado</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/he-viajado-semana-china-estas-son-todas-apps-servicios-he-necesitado-1414274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apps-viajar-china-4254028.jpg?tf=1200x' alt='He viajado una semana a China y estas son todas las apps y servicios que he necesitado' />
     </a>
 </div>
 
