@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/grok-chatbot-ia-red-social-x-ahora-puede-analizar-imagenes-1416001'>Grok, el chatbot con IA de la red social X, ahora puede analizar imágenes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/grok-chatbot-ia-red-social-x-ahora-puede-analizar-imagenes-1416001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/grok-4256833.jpg?tf=1200x' alt='Grok, el chatbot con IA de la red social X, ahora puede analizar imágenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-rompe-explorador-archivos-windows-11-24h2-1415984'>Microsoft rompe el explorador de archivos en Windows 11 24H2</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-rompe-explorador-archivos-windows-11-24h2-1415984' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/errores-windows-11-4256811.jpg?tf=1200x' alt='Microsoft rompe el explorador de archivos en Windows 11 24H2' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-ia-copilot-evolucione-convertirse-amigo-verdadero-1415975'>Microsoft quiere que la IA de Copilot evolucione hasta convertirse en "un amigo verdadero"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-ia-copilot-evolucione-convertirse-amigo-verdadero-1415975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/copilot-ai-4256794.jpg?tf=1200x' alt='Microsoft quiere que la IA de Copilot evolucione hasta convertirse en "un amigo verdadero"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-cambiara-siempre-actualizaciones-galaxy-s25-1415968'>Samsung cambiará para siempre las actualizaciones con el Galaxy S25</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-cambiara-siempre-actualizaciones-galaxy-s25-1415968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/descubri-truco-dos-dedos-mi-samsung-galaxy-no-puedo-parar-utilizarlo-4253720.jpg?tf=1200x' alt='Samsung cambiará para siempre las actualizaciones con el Galaxy S25' />
     </a>
 </div>
 
