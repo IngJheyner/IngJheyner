@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ahora-chatgpt-completara-forma-automatica-consultas-usuarios-1416006'>Ahora ChatGPT completará de forma automática las consultas de los usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ahora-chatgpt-completara-forma-automatica-consultas-usuarios-1416006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chatgpt-4256838.jpg?tf=1200x' alt='Ahora ChatGPT completará de forma automática las consultas de los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-prepara-misterioso-dispositivo-rivalizar-apple-vision-pro-1416004'>Samsung prepara un misterioso dispositivo para rivalizar con las Apple Vision Pro</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/samsung-prepara-misterioso-dispositivo-rivalizar-apple-vision-pro-1416004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-gear-vr-2682803.jpg?tf=1200x' alt='Samsung prepara un misterioso dispositivo para rivalizar con las Apple Vision Pro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-rompe-explorador-archivos-windows-11-24h2-1415984'>Microsoft rompe el explorador de archivos en Windows 11 24H2</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-rompe-explorador-archivos-windows-11-24h2-1415984' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/errores-windows-11-4256811.jpg?tf=1200x' alt='Microsoft rompe el explorador de archivos en Windows 11 24H2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/google-adelanta-lanzamiento-android-16-promete-dos-versiones-2025-1415980'>Google adelanta el lanzamiento de Android 16 y promete dos versiones para 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/google-adelanta-lanzamiento-android-16-promete-dos-versiones-2025-1415980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-16-4256802.jpg?tf=1200x' alt='Google adelanta el lanzamiento de Android 16 y promete dos versiones para 2025' />
     </a>
 </div>
 
