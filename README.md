@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/addon-seguimiento-todo-ves-kodi-1414363'>Este add-on te permite llevar un seguimiento de todo lo que ves en Kodi</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/addon-seguimiento-todo-ves-kodi-1414363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/addon-kodi-4254101.jpg?tf=1200x' alt='Este add-on te permite llevar un seguimiento de todo lo que ves en Kodi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/vivo-v40-80w-movil-gama-media-regresa-carga-rapida-gama-alta-luz-retrato-aura-light-1413035'>Vivo V40 SE 80W, un móvil de gama media que regresa con carga rápida de gama alta y luz de retrato Aura Light</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/vivo-v40-80w-movil-gama-media-regresa-carga-rapida-gama-alta-luz-retrato-aura-light-1413035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/vivo-v40-80w-4251904.jpg?tf=1200x' alt='Vivo V40 SE 80W, un móvil de gama media que regresa con carga rápida de gama alta y luz de retrato Aura Light' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-emojis-automaticos-whatsapp-web-1414854'>Cómo desactivar los emojis automáticos en WhatsApp Web</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-emojis-automaticos-whatsapp-web-1414854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/emojis-whatsapp-4254887.jpg?tf=1200x' alt='Cómo desactivar los emojis automáticos en WhatsApp Web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-odia-ergonomia-1414969'>¿Por qué Apple odia la ergonomía?</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-odia-ergonomia-1414969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/perifericos-apple-4255034.jpg?tf=1200x' alt='¿Por qué Apple odia la ergonomía?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/he-viajado-semana-china-estas-son-todas-apps-servicios-he-necesitado-1414274'>He viajado una semana a China y estas son todas las apps y servicios que he necesitado</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/he-viajado-semana-china-estas-son-todas-apps-servicios-he-necesitado-1414274' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apps-viajar-china-4254028.jpg?tf=1200x' alt='He viajado una semana a China y estas son todas las apps y servicios que he necesitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/china-presenta-ladrillos-especiales-construir-base-luna-1415927'>China presenta los ladrillos especiales con los que construirá su base en la Luna</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/china-presenta-ladrillos-especiales-construir-base-luna-1415927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/china-presenta-ladrillos-construira-base-luna-4256125.jpg?tf=1200x' alt='China presenta los ladrillos especiales con los que construirá su base en la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-sueno-cualquiera-pueda-comprarse-coche-electrico-2025-realidad-locura-1415426'>Elon Musk y el sueño de que cualquiera pueda comprarse un coche eléctrico en 2025: ¿realidad o locura? </a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-sueno-cualquiera-pueda-comprarse-coche-electrico-2025-realidad-locura-1415426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/elon-musk-robotaxi-4249995.jpg?tf=1200x' alt='Elon Musk y el sueño de que cualquiera pueda comprarse un coche eléctrico en 2025: ¿realidad o locura? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-otras-personas-vean-estados-whatsapp-1415009'>Cómo evitar que otras personas vean tus estados de WhatsApp </a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-otras-personas-vean-estados-whatsapp-1415009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/historias-whatsapp-4255110.jpg?tf=1200x' alt='Cómo evitar que otras personas vean tus estados de WhatsApp ' />
     </a>
 </div>
 
