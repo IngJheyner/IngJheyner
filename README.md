@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-rompe-explorador-archivos-windows-11-24h2-1415984'>Microsoft rompe el explorador de archivos en Windows 11 24H2</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-rompe-explorador-archivos-windows-11-24h2-1415984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/errores-windows-11-4256811.jpg?tf=1200x' alt='Microsoft rompe el explorador de archivos en Windows 11 24H2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/google-adelanta-lanzamiento-android-16-promete-dos-versiones-2025-1415980'>Google adelanta el lanzamiento de Android 16 y promete dos versiones para 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/android/google-adelanta-lanzamiento-android-16-promete-dos-versiones-2025-1415980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-16-4256802.jpg?tf=1200x' alt='Google adelanta el lanzamiento de Android 16 y promete dos versiones para 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-cambiara-siempre-actualizaciones-galaxy-s25-1415968'>Samsung cambiará para siempre las actualizaciones con el Galaxy S25</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/samsung-cambiara-siempre-actualizaciones-galaxy-s25-1415968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/descubri-truco-dos-dedos-mi-samsung-galaxy-no-puedo-parar-utilizarlo-4253720.jpg?tf=1200x' alt='Samsung cambiará para siempre las actualizaciones con el Galaxy S25' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/ahora-anochece-antes-enchufe-inteligente-ahorraras-factura-apenas-cuesta-10-euros-1415929'>Ahora que anochece antes, con este enchufe inteligente ahorrarás en tu factura: apenas cuesta 10 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/ahora-anochece-antes-enchufe-inteligente-ahorraras-factura-apenas-cuesta-10-euros-1415929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/enchufe-inteligente-4256747.jpg?tf=1200x' alt='Ahora que anochece antes, con este enchufe inteligente ahorrarás en tu factura: apenas cuesta 10 euros' />
     </a>
 </div>
 
