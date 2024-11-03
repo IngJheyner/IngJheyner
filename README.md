@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/puedes-comprobar-apps-datos-consumen-ralentizan-iphone-1415472'>Así puedes comprobar las apps que más datos consumen y ralentizan tu iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/puedes-comprobar-apps-datos-consumen-ralentizan-iphone-1415472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/puedes-comprobar-apps-datos-consumen-ralentizan-iphone-4255854.jpg?tf=1200x' alt='Así puedes comprobar las apps que más datos consumen y ralentizan tu iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/error-windows-11-muestra-0-procesos-ejecucion-administrador-tareas-1416029'>El error en Windows 11 que muestra "0" procesos en ejecución en el administrador de tareas</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/error-windows-11-muestra-0-procesos-ejecucion-administrador-tareas-1416029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-error-4256887.jpg?tf=1200x' alt='El error en Windows 11 que muestra "0" procesos en ejecución en el administrador de tareas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-agregar-listas-reproduccion-musica-kodi-1413691'>Cómo agregar listas de reproducción de música en Kodi</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-agregar-listas-reproduccion-musica-kodi-1413691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/escuchar-musica-kodi-4252929.jpg?tf=1200x' alt='Cómo agregar listas de reproducción de música en Kodi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-peajes-google-maps-1415294'>Cómo evitar peajes en Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-peajes-google-maps-1415294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/peajes-google-maps-4255549.jpg?tf=1200x' alt='Cómo evitar peajes en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-formato-automatico-excel-forma-temporal-permanente-1413351'>Cómo desactivar el formato automático de Excel de forma temporal o permanente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-formato-automatico-excel-forma-temporal-permanente-1413351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/foto-ordenador-portatil-4252436.jpg?tf=1200x' alt='Cómo desactivar el formato automático de Excel de forma temporal o permanente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ocultar-barra-tareas-windows-1397381'>Cómo ocultar la barra de tareas de Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-ocultar-barra-tareas-windows-1397381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/barra-tareas-windows-3813297.jpg?tf=1200x' alt='Cómo ocultar la barra de tareas de Windows' />
     </a>
 </div>
 
