@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-agregar-listas-reproduccion-musica-kodi-1413691'>Cómo agregar listas de reproducción de música en Kodi</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-agregar-listas-reproduccion-musica-kodi-1413691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/escuchar-musica-kodi-4252929.jpg?tf=1200x' alt='Cómo agregar listas de reproducción de música en Kodi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-podria-estar-trabajando-llevar-quick-share-dispositivos-ios-como-iphone-1416007'>Google podría estar trabajando en llevar Quick Share a dispositivos iOS como el iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-podria-estar-trabajando-llevar-quick-share-dispositivos-ios-como-iphone-1416007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/quick-share-4256839.jpg?tf=1200x' alt='Google podría estar trabajando en llevar Quick Share a dispositivos iOS como el iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-peajes-google-maps-1415294'>Cómo evitar peajes en Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-peajes-google-maps-1415294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/peajes-google-maps-4255549.jpg?tf=1200x' alt='Cómo evitar peajes en Google Maps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ocultar-barra-tareas-windows-1397381'>Cómo ocultar la barra de tareas de Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-ocultar-barra-tareas-windows-1397381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/barra-tareas-windows-3813297.jpg?tf=1200x' alt='Cómo ocultar la barra de tareas de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pai-deberias-tenerlo-muy-cuenta-tienes-smartband-smartwatch-1409055'>¿Qué es PAI y por qué deberías tenerlo muy en cuenta si tienes una smartband o smartwatch?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pai-deberias-tenerlo-muy-cuenta-tienes-smartband-smartwatch-1409055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1730388406730-4256243.jpg?tf=1200x' alt='¿Qué es PAI y por qué deberías tenerlo muy en cuenta si tienes una smartband o smartwatch?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/freidora-aire-cosori-me-ha-evitado-tener-dar-vuelta-comida-recetas-dan-familia-entera-1412422'>Esta freidora de aire Cosori me ha evitado tener que dar la vuelta a la comida, con recetas que dan para una familia entera</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/freidora-aire-cosori-me-ha-evitado-tener-dar-vuelta-comida-recetas-dan-familia-entera-1412422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cosori-dual-blaze-twinfry-chef-edition-10-litros-4250742.jpg?tf=1200x' alt='Esta freidora de aire Cosori me ha evitado tener que dar la vuelta a la comida, con recetas que dan para una familia entera' />
     </a>
 </div>
 
