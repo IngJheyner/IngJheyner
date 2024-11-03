@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/kindle-colorsoft-fallo-barra-amarilla-1416086'>Algunos Kindle Colorsoft sufren el fallo de la barra amarilla: solo hay una solución</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/kindle-colorsoft-fallo-barra-amarilla-1416086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cuidado-compras-kindle-colorsoft-algunos-usuarios-sufren-fallo-4256946.jpg?tf=1200x' alt='Algunos Kindle Colorsoft sufren el fallo de la barra amarilla: solo hay una solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convencerte-como-sea-cambies-windows-11-1416034'>Microsoft quiere convencerte, como sea, para que cambies a Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convencerte-como-sea-cambies-windows-11-1416034' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/actualizacion-windows-4256891.jpg?tf=1200x' alt='Microsoft quiere convencerte, como sea, para que cambies a Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/puedes-comprobar-apps-datos-consumen-ralentizan-iphone-1415472'>Así puedes comprobar las apps que más datos consumen y ralentizan tu iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/puedes-comprobar-apps-datos-consumen-ralentizan-iphone-1415472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/puedes-comprobar-apps-datos-consumen-ralentizan-iphone-4255854.jpg?tf=1200x' alt='Así puedes comprobar las apps que más datos consumen y ralentizan tu iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/error-windows-11-muestra-0-procesos-ejecucion-administrador-tareas-1416029'>El error en Windows 11 que muestra "0" procesos en ejecución en el administrador de tareas</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/error-windows-11-muestra-0-procesos-ejecucion-administrador-tareas-1416029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-error-4256887.jpg?tf=1200x' alt='El error en Windows 11 que muestra "0" procesos en ejecución en el administrador de tareas' />
     </a>
 </div>
 
