@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/hackean-nintendo-alarmo-flipper-zero-consiguen-instalar-doom-1416097'>Hackean Nintendo Alarmo con Flipper Zero y consiguen instalar Doom</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/hackean-nintendo-alarmo-flipper-zero-consiguen-instalar-doom-1416097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/hackean-nintendo-alarmo-flipper-zero-consiguen-instalar-doom-4256964.jpg?tf=1200x' alt='Hackean Nintendo Alarmo con Flipper Zero y consiguen instalar Doom' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/iris2-starlink-europea-spacerise-10000-millones-euros-ue-1416094'>IRIS2, la Starlink europea, ya es una realidad: SpaceRISE recibe 10.000 millones de euros de la UE</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/iris2-starlink-europea-spacerise-10000-millones-euros-ue-1416094' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/starlink-europea-ya-realidad-spacerise-recibe-10000-millones-euros-ue-4256959.jpg?tf=1200x' alt='IRIS2, la Starlink europea, ya es una realidad: SpaceRISE recibe 10.000 millones de euros de la UE' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/ultima-actualizacion-telegram-incluye-todas-estas-mejoras-videos-1416009'>La última actualización de Telegram incluye todas estas mejoras para los vídeos</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ultima-actualizacion-telegram-incluye-todas-estas-mejoras-videos-1416009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ultima-actualizacion-telegram-incluye-todas-estas-mejoras-videos-4256844.jpg?tf=1200x' alt='La última actualización de Telegram incluye todas estas mejoras para los vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cambio-ya-podras-encontrar-gmail-cualquier-correo-electronico-1416031'>Con este cambio ya podrás encontrar en tu Gmail cualquier correo electrónico</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cambio-ya-podras-encontrar-gmail-cualquier-correo-electronico-1416031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gmail-4256889.jpg?tf=1200x' alt='Con este cambio ya podrás encontrar en tu Gmail cualquier correo electrónico' />
     </a>
 </div>
 
