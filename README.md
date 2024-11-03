@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convencerte-como-sea-cambies-windows-11-1416034'>Microsoft quiere convencerte, como sea, para que cambies a Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convencerte-como-sea-cambies-windows-11-1416034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/actualizacion-windows-4256891.jpg?tf=1200x' alt='Microsoft quiere convencerte, como sea, para que cambies a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/ultima-actualizacion-telegram-incluye-todas-estas-mejoras-videos-1416009'>La última actualización de Telegram incluye todas estas mejoras para los vídeos</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ultima-actualizacion-telegram-incluye-todas-estas-mejoras-videos-1416009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ultima-actualizacion-telegram-incluye-todas-estas-mejoras-videos-4256844.jpg?tf=1200x' alt='La última actualización de Telegram incluye todas estas mejoras para los vídeos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/error-windows-11-muestra-0-procesos-ejecucion-administrador-tareas-1416029'>El error en Windows 11 que muestra "0" procesos en ejecución en el administrador de tareas</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/error-windows-11-muestra-0-procesos-ejecucion-administrador-tareas-1416029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-error-4256887.jpg?tf=1200x' alt='El error en Windows 11 que muestra "0" procesos en ejecución en el administrador de tareas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-agregar-listas-reproduccion-musica-kodi-1413691'>Cómo agregar listas de reproducción de música en Kodi</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-agregar-listas-reproduccion-musica-kodi-1413691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/escuchar-musica-kodi-4252929.jpg?tf=1200x' alt='Cómo agregar listas de reproducción de música en Kodi' />
     </a>
 </div>
 
