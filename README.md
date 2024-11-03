@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-peajes-google-maps-1415294'>Cómo evitar peajes en Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-peajes-google-maps-1415294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/peajes-google-maps-4255549.jpg?tf=1200x' alt='Cómo evitar peajes en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-formato-automatico-excel-forma-temporal-permanente-1413351'>Cómo desactivar el formato automático de Excel de forma temporal o permanente</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-formato-automatico-excel-forma-temporal-permanente-1413351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/foto-ordenador-portatil-4252436.jpg?tf=1200x' alt='Cómo desactivar el formato automático de Excel de forma temporal o permanente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/freidora-aire-cosori-me-ha-evitado-tener-dar-vuelta-comida-recetas-dan-familia-entera-1412422'>Esta freidora de aire Cosori me ha evitado tener que dar la vuelta a la comida, con recetas que dan para una familia entera</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/freidora-aire-cosori-me-ha-evitado-tener-dar-vuelta-comida-recetas-dan-familia-entera-1412422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cosori-dual-blaze-twinfry-chef-edition-10-litros-4250742.jpg?tf=1200x' alt='Esta freidora de aire Cosori me ha evitado tener que dar la vuelta a la comida, con recetas que dan para una familia entera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-vs-openai-codigo-abierto-vs-cerrado-dos-visiones-opuestas-futuro-inteligencia-artificial-cual-triunfara-1415435'>Meta vs. OpenAI, código abierto vs. cerrado, dos visiones opuestas sobre el futuro de la inteligencia artificial: ¿cuál triunfará?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/meta-vs-openai-codigo-abierto-vs-cerrado-dos-visiones-opuestas-futuro-inteligencia-artificial-cual-triunfara-1415435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inteligencia-artificial-vs-4255781.jpg?tf=1200x' alt='Meta vs. OpenAI, código abierto vs. cerrado, dos visiones opuestas sobre el futuro de la inteligencia artificial: ¿cuál triunfará?' />
     </a>
 </div>
 
