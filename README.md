@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/ultima-idea-microsoft-reducir-emisiones-centros-datos-ia-madera-1416101'>La última idea de Microsoft para reducir sus emisiones: centros de datos de IA de madera</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/ultima-idea-microsoft-reducir-emisiones-centros-datos-ia-madera-1416101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ultima-idea-microsoft-reducir-emisiones-centros-datos-ia-madera-4256969.jpg?tf=1200x' alt='La última idea de Microsoft para reducir sus emisiones: centros de datos de IA de madera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/hackean-nintendo-alarmo-flipper-zero-consiguen-instalar-doom-1416097'>Hackean Nintendo Alarmo con Flipper Zero y consiguen instalar Doom</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/hackean-nintendo-alarmo-flipper-zero-consiguen-instalar-doom-1416097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/hackean-nintendo-alarmo-flipper-zero-consiguen-instalar-doom-4256964.jpg?tf=1200x' alt='Hackean Nintendo Alarmo con Flipper Zero y consiguen instalar Doom' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convencerte-como-sea-cambies-windows-11-1416034'>Microsoft quiere convencerte, como sea, para que cambies a Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convencerte-como-sea-cambies-windows-11-1416034' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/actualizacion-windows-4256891.jpg?tf=1200x' alt='Microsoft quiere convencerte, como sea, para que cambies a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ultima-actualizacion-telegram-incluye-todas-estas-mejoras-videos-1416009'>La última actualización de Telegram incluye todas estas mejoras para los vídeos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ultima-actualizacion-telegram-incluye-todas-estas-mejoras-videos-1416009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ultima-actualizacion-telegram-incluye-todas-estas-mejoras-videos-4256844.jpg?tf=1200x' alt='La última actualización de Telegram incluye todas estas mejoras para los vídeos' />
     </a>
 </div>
 
