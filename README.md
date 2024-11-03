@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-vs-openai-codigo-abierto-vs-cerrado-dos-visiones-opuestas-futuro-inteligencia-artificial-cual-triunfara-1415435'>Meta vs. OpenAI, código abierto vs. cerrado, dos visiones opuestas sobre el futuro de la inteligencia artificial: ¿cuál triunfará?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/meta-vs-openai-codigo-abierto-vs-cerrado-dos-visiones-opuestas-futuro-inteligencia-artificial-cual-triunfara-1415435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inteligencia-artificial-vs-4255781.jpg?tf=1200x' alt='Meta vs. OpenAI, código abierto vs. cerrado, dos visiones opuestas sobre el futuro de la inteligencia artificial: ¿cuál triunfará?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/como-astronautas-votan-espacio-1416023'>Así es como los astronautas votan desde el espacio</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/como-astronautas-votan-espacio-1416023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-astronautas-votan-espacio-4256873.jpg?tf=1200x' alt='Así es como los astronautas votan desde el espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/altavoz-iphone-escucha-bajo-solucion-1414850'>El altavoz de mi iPhone se escucha muy bajo, desesperado, así es cómo he conseguido solucionarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/altavoz-iphone-escucha-bajo-solucion-1414850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/altavoz-mi-iphone-escucha-muy-desesperado-como-he-conseguido-solucionarlo-4254898.jpg?tf=1200x' alt='El altavoz de mi iPhone se escucha muy bajo, desesperado, así es cómo he conseguido solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/distros-linux-desconocidas-muy-pequenas-casi-nadie-usa-merecen-mucho-pena-1413438'>Distros de Linux desconocidas, muy pequeñas y que casi nadie usa, que merecen mucho la pena</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/distros-linux-desconocidas-muy-pequenas-casi-nadie-usa-merecen-mucho-pena-1413438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/distros-linux-desconocidas-muy-pequenas-casi-nadie-usa-merecen-mucho-pena-4252566.jpg?tf=1200x' alt='Distros de Linux desconocidas, muy pequeñas y que casi nadie usa, que merecen mucho la pena' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nordvpn-black-friday-rebaja-vpn-1408223'>NordVPN adelanta el Black Friday: su VPN baja un 74% de precio y se pone a la altura de las más baratas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nordvpn-black-friday-rebaja-vpn-1408223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nordvpn-3305525.jpg?tf=1200x' alt='NordVPN adelanta el Black Friday: su VPN baja un 74% de precio y se pone a la altura de las más baratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/como-reconocer-arbol-vida-moneda-dos-euros-puede-valer-5000-euros-1414875'>Cómo reconocer “El Árbol de la Vida”, la moneda de dos euros que puede valer hasta 5.000 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/como-reconocer-arbol-vida-moneda-dos-euros-puede-valer-5000-euros-1414875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-reconocer-arbol-vida-moneda-dos-euros-puede-valer-5-mil-euros-4254920.jpg?tf=1200x' alt='Cómo reconocer “El Árbol de la Vida”, la moneda de dos euros que puede valer hasta 5.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ahora-chatgpt-completara-forma-automatica-consultas-usuarios-1416006'>Ahora ChatGPT completará de forma automática las consultas de los usuarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ahora-chatgpt-completara-forma-automatica-consultas-usuarios-1416006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chatgpt-4256838.jpg?tf=1200x' alt='Ahora ChatGPT completará de forma automática las consultas de los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-prepara-misterioso-dispositivo-rivalizar-apple-vision-pro-1416004'>Samsung prepara un misterioso dispositivo para rivalizar con las Apple Vision Pro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-prepara-misterioso-dispositivo-rivalizar-apple-vision-pro-1416004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/samsung-gear-vr-2682803.jpg?tf=1200x' alt='Samsung prepara un misterioso dispositivo para rivalizar con las Apple Vision Pro' />
     </a>
 </div>
 
