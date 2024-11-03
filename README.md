@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cambio-ya-podras-encontrar-gmail-cualquier-correo-electronico-1416031'>Con este cambio ya podrás encontrar en tu Gmail cualquier correo electrónico</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cambio-ya-podras-encontrar-gmail-cualquier-correo-electronico-1416031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gmail-4256889.jpg?tf=1200x' alt='Con este cambio ya podrás encontrar en tu Gmail cualquier correo electrónico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/puedes-comprobar-apps-datos-consumen-ralentizan-iphone-1415472'>Así puedes comprobar las apps que más datos consumen y ralentizan tu iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/puedes-comprobar-apps-datos-consumen-ralentizan-iphone-1415472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/puedes-comprobar-apps-datos-consumen-ralentizan-iphone-4255854.jpg?tf=1200x' alt='Así puedes comprobar las apps que más datos consumen y ralentizan tu iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-podria-estar-trabajando-llevar-quick-share-dispositivos-ios-como-iphone-1416007'>Google podría estar trabajando en llevar Quick Share a dispositivos iOS como el iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-podria-estar-trabajando-llevar-quick-share-dispositivos-ios-como-iphone-1416007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/quick-share-4256839.jpg?tf=1200x' alt='Google podría estar trabajando en llevar Quick Share a dispositivos iOS como el iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-peajes-google-maps-1415294'>Cómo evitar peajes en Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-evitar-peajes-google-maps-1415294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/peajes-google-maps-4255549.jpg?tf=1200x' alt='Cómo evitar peajes en Google Maps' />
     </a>
 </div>
 
