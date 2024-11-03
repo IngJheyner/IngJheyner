@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/iris2-starlink-europea-spacerise-10000-millones-euros-ue-1416094'>IRIS2, la Starlink europea, ya es una realidad: SpaceRISE recibe 10.000 millones de euros de la UE</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/iris2-starlink-europea-spacerise-10000-millones-euros-ue-1416094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/starlink-europea-ya-realidad-spacerise-recibe-10000-millones-euros-ue-4256959.jpg?tf=1200x' alt='IRIS2, la Starlink europea, ya es una realidad: SpaceRISE recibe 10.000 millones de euros de la UE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/kindle-colorsoft-fallo-barra-amarilla-1416086'>Algunos Kindle Colorsoft sufren el fallo de la barra amarilla: solo hay una solución</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/kindle-colorsoft-fallo-barra-amarilla-1416086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cuidado-compras-kindle-colorsoft-algunos-usuarios-sufren-fallo-4256946.jpg?tf=1200x' alt='Algunos Kindle Colorsoft sufren el fallo de la barra amarilla: solo hay una solución' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cambio-ya-podras-encontrar-gmail-cualquier-correo-electronico-1416031'>Con este cambio ya podrás encontrar en tu Gmail cualquier correo electrónico</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cambio-ya-podras-encontrar-gmail-cualquier-correo-electronico-1416031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gmail-4256889.jpg?tf=1200x' alt='Con este cambio ya podrás encontrar en tu Gmail cualquier correo electrónico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/puedes-comprobar-apps-datos-consumen-ralentizan-iphone-1415472'>Así puedes comprobar las apps que más datos consumen y ralentizan tu iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/puedes-comprobar-apps-datos-consumen-ralentizan-iphone-1415472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/puedes-comprobar-apps-datos-consumen-ralentizan-iphone-4255854.jpg?tf=1200x' alt='Así puedes comprobar las apps que más datos consumen y ralentizan tu iPhone' />
     </a>
 </div>
 
