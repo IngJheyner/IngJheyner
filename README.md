@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-formato-automatico-excel-forma-temporal-permanente-1413351'>Cómo desactivar el formato automático de Excel de forma temporal o permanente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-formato-automatico-excel-forma-temporal-permanente-1413351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/foto-ordenador-portatil-4252436.jpg?tf=1200x' alt='Cómo desactivar el formato automático de Excel de forma temporal o permanente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ocultar-barra-tareas-windows-1397381'>Cómo ocultar la barra de tareas de Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-ocultar-barra-tareas-windows-1397381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/barra-tareas-windows-3813297.jpg?tf=1200x' alt='Cómo ocultar la barra de tareas de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pai-deberias-tenerlo-muy-cuenta-tienes-smartband-smartwatch-1409055'>¿Qué es PAI y por qué deberías tenerlo muy en cuenta si tienes una smartband o smartwatch?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pai-deberias-tenerlo-muy-cuenta-tienes-smartband-smartwatch-1409055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/verticalimage1730388406730-4256243.jpg?tf=1200x' alt='¿Qué es PAI y por qué deberías tenerlo muy en cuenta si tienes una smartband o smartwatch?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-vs-openai-codigo-abierto-vs-cerrado-dos-visiones-opuestas-futuro-inteligencia-artificial-cual-triunfara-1415435'>Meta vs. OpenAI, código abierto vs. cerrado, dos visiones opuestas sobre el futuro de la inteligencia artificial: ¿cuál triunfará?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/meta-vs-openai-codigo-abierto-vs-cerrado-dos-visiones-opuestas-futuro-inteligencia-artificial-cual-triunfara-1415435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inteligencia-artificial-vs-4255781.jpg?tf=1200x' alt='Meta vs. OpenAI, código abierto vs. cerrado, dos visiones opuestas sobre el futuro de la inteligencia artificial: ¿cuál triunfará?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/como-astronautas-votan-espacio-1416023'>Así es como los astronautas votan desde el espacio</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/como-astronautas-votan-espacio-1416023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-astronautas-votan-espacio-4256873.jpg?tf=1200x' alt='Así es como los astronautas votan desde el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/altavoz-iphone-escucha-bajo-solucion-1414850'>El altavoz de mi iPhone se escucha muy bajo, desesperado, así es cómo he conseguido solucionarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/altavoz-iphone-escucha-bajo-solucion-1414850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/altavoz-mi-iphone-escucha-muy-desesperado-como-he-conseguido-solucionarlo-4254898.jpg?tf=1200x' alt='El altavoz de mi iPhone se escucha muy bajo, desesperado, así es cómo he conseguido solucionarlo' />
     </a>
 </div>
 
