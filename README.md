@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ultima-actualizacion-telegram-incluye-todas-estas-mejoras-videos-1416009'>La última actualización de Telegram incluye todas estas mejoras para los vídeos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ultima-actualizacion-telegram-incluye-todas-estas-mejoras-videos-1416009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ultima-actualizacion-telegram-incluye-todas-estas-mejoras-videos-4256844.jpg?tf=1200x' alt='La última actualización de Telegram incluye todas estas mejoras para los vídeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cambio-ya-podras-encontrar-gmail-cualquier-correo-electronico-1416031'>Con este cambio ya podrás encontrar en tu Gmail cualquier correo electrónico</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cambio-ya-podras-encontrar-gmail-cualquier-correo-electronico-1416031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gmail-4256889.jpg?tf=1200x' alt='Con este cambio ya podrás encontrar en tu Gmail cualquier correo electrónico' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-agregar-listas-reproduccion-musica-kodi-1413691'>Cómo agregar listas de reproducción de música en Kodi</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-agregar-listas-reproduccion-musica-kodi-1413691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/escuchar-musica-kodi-4252929.jpg?tf=1200x' alt='Cómo agregar listas de reproducción de música en Kodi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-podria-estar-trabajando-llevar-quick-share-dispositivos-ios-como-iphone-1416007'>Google podría estar trabajando en llevar Quick Share a dispositivos iOS como el iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-podria-estar-trabajando-llevar-quick-share-dispositivos-ios-como-iphone-1416007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/quick-share-4256839.jpg?tf=1200x' alt='Google podría estar trabajando en llevar Quick Share a dispositivos iOS como el iPhone' />
     </a>
 </div>
 
