@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/pasa-alexa-estancando-parece-abandonada-amazon-1416162'>¿Qué pasa con Alexa? Se está estancando y parece abandonada por Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/pasa-alexa-estancando-parece-abandonada-amazon-1416162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/alexa-amazon-3542521.jpg?tf=1200x' alt='¿Qué pasa con Alexa? Se está estancando y parece abandonada por Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-destroza-esperanzas-switch-2-ultimo-anuncio-1416173'>Nintendo destroza las esperanzas de la Switch 2 con su último anuncio</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/nintendo-destroza-esperanzas-switch-2-ultimo-anuncio-1416173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nintendo-destroza-esperanzas-switch-2-ultimo-anuncio-4257092.jpg?tf=1200x' alt='Nintendo destroza las esperanzas de la Switch 2 con su último anuncio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/fallos-puedes-estar-cometiendo-dejan-pc-riesgo-hackers-malware-1416145'>Fallos que puedes estar cometiendo y que dejan tu PC en riesgo de hackers y malware</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/fallos-puedes-estar-cometiendo-dejan-pc-riesgo-hackers-malware-1416145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/enfado-trabajo-4257044.jpg?tf=1200x' alt='Fallos que puedes estar cometiendo y que dejan tu PC en riesgo de hackers y malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-fin-tendran-siempre-ha-faltado-pantalla-1416153'>Los iPhone 17 por fin tendrán lo que siempre les ha faltado en la pantalla</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-17-fin-tendran-siempre-ha-faltado-pantalla-1416153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243553.jpg?tf=1200x' alt='Los iPhone 17 por fin tendrán lo que siempre les ha faltado en la pantalla' />
     </a>
 </div>
 
