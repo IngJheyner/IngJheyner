@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/cientificos-descubre-secreto-esconde-interior-agujeros-negros-formacion-1416224'>Científicos descubre el secreto que esconde el interior de los agujeros negros y su formación</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/cientificos-descubre-secreto-esconde-interior-agujeros-negros-formacion-1416224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/black-hole-4257170.jpg?tf=1200x' alt='Científicos descubre el secreto que esconde el interior de los agujeros negros y su formación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/has-estado-utilizando-mal-memorias-usb-toda-vida-seguramente-no-sabes-1416200'>Has estado utilizando mal las memorias USB toda la vida, y seguramente no lo sabes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/has-estado-utilizando-mal-memorias-usb-toda-vida-seguramente-no-sabes-1416200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/unidad-usb-arranque-windows-11-3277080.jpg?tf=1200x' alt='Has estado utilizando mal las memorias USB toda la vida, y seguramente no lo sabes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/digi-anade-nueva-funcion-puede-ahorrarte-disgustos-mucho-dinero-activala-ahora-mismo-1416198'>DIGI añade una nueva función que puede ahorrarte disgustos, y mucho dinero: actívala ahora mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/digi-anade-nueva-funcion-puede-ahorrarte-disgustos-mucho-dinero-activala-ahora-mismo-1416198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/digi-novedades-4257091.jpg?tf=1200x' alt='DIGI añade una nueva función que puede ahorrarte disgustos, y mucho dinero: actívala ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/pasa-alexa-estancando-parece-abandonada-amazon-1416162'>¿Qué pasa con Alexa? Se está estancando y parece abandonada por Amazon</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/pasa-alexa-estancando-parece-abandonada-amazon-1416162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/alexa-amazon-3542521.jpg?tf=1200x' alt='¿Qué pasa con Alexa? Se está estancando y parece abandonada por Amazon' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-destroza-esperanzas-switch-2-ultimo-anuncio-1416173'>Nintendo destroza las esperanzas de la Switch 2 con su último anuncio</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/nintendo-destroza-esperanzas-switch-2-ultimo-anuncio-1416173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nintendo-destroza-esperanzas-switch-2-ultimo-anuncio-4257092.jpg?tf=1200x' alt='Nintendo destroza las esperanzas de la Switch 2 con su último anuncio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/olvidate-unas-apple-vision-pro-baratas-retrasaran-varios-anos-1416157'>Olvídate de unas Apple Vision Pro baratas, se retrasarán varios años</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/olvidate-unas-apple-vision-pro-baratas-retrasaran-varios-anos-1416157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/olvidate-unas-apple-vision-pro-baratas-retrasaran-varios-anos-4257053.jpg?tf=1200x' alt='Olvídate de unas Apple Vision Pro baratas, se retrasarán varios años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-nuevo-vuelve-retrasar-recall-windows-11-1416152'>Microsoft, de nuevo, vuelve a retrasar Recall en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-nuevo-vuelve-retrasar-recall-windows-11-1416152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-recall-como-funciona-deberias-desactivarlo-3487679.jpg?tf=1200x' alt='Microsoft, de nuevo, vuelve a retrasar Recall en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/fallos-puedes-estar-cometiendo-dejan-pc-riesgo-hackers-malware-1416145'>Fallos que puedes estar cometiendo y que dejan tu PC en riesgo de hackers y malware</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/fallos-puedes-estar-cometiendo-dejan-pc-riesgo-hackers-malware-1416145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/enfado-trabajo-4257044.jpg?tf=1200x' alt='Fallos que puedes estar cometiendo y que dejan tu PC en riesgo de hackers y malware' />
     </a>
 </div>
 
