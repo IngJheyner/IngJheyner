@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/fallos-puedes-estar-cometiendo-dejan-pc-riesgo-hackers-malware-1416145'>Fallos que puedes estar cometiendo y que dejan tu PC en riesgo de hackers y malware</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/fallos-puedes-estar-cometiendo-dejan-pc-riesgo-hackers-malware-1416145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/enfado-trabajo-4257044.jpg?tf=1200x' alt='Fallos que puedes estar cometiendo y que dejan tu PC en riesgo de hackers y malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-fin-tendran-siempre-ha-faltado-pantalla-1416153'>Los iPhone 17 por fin tendrán lo que siempre les ha faltado en la pantalla</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-17-fin-tendran-siempre-ha-faltado-pantalla-1416153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243553.jpg?tf=1200x' alt='Los iPhone 17 por fin tendrán lo que siempre les ha faltado en la pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/pasa-ios-182-va-tardar-llegar-iphone-1416128'>¿Qué pasa con iOS 18.2? Va a tardar en llegar a los iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/pasa-ios-182-va-tardar-llegar-iphone-1416128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pasa-ios-182-va-tardar-llegar-iphone-4257027.jpg?tf=1200x' alt='¿Qué pasa con iOS 18.2? Va a tardar en llegar a los iPhone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-vivo-v40-80w-ejemplo-perfecto-debe-ser-todo-movil-gama-media-1415549'>He probado el Vivo V40 SE 80W, un ejemplo perfecto de lo que debe ser todo móvil de la gama media</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/he-probado-vivo-v40-80w-ejemplo-perfecto-debe-ser-todo-movil-gama-media-1415549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/vivo-v40-80w-4256322.jpg?tf=1200x' alt='He probado el Vivo V40 SE 80W, un ejemplo perfecto de lo que debe ser todo móvil de la gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-programar-mensaje-whatsapp-todos-metodos-iphone-android-1415015'>Cómo programar un mensaje de WhatsApp: todos los métodos para iPhone y Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-programar-mensaje-whatsapp-todos-metodos-iphone-android-1415015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mensajes-programados-whatsapp-4255260.jpg?tf=1200x' alt='Cómo programar un mensaje de WhatsApp: todos los métodos para iPhone y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/cosas-debes-dejar-hacer-movil-android-no-quieres-quede-obsoleto-rapidamente-1415485'>10 cosas que debes dejar de hacer en tu móvil Android si no quieres que se quede obsoleto rápidamente</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/cosas-debes-dejar-hacer-movil-android-no-quieres-quede-obsoleto-rapidamente-1415485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/10-cosas-debes-dejar-hacer-movil-android-no-quieres-quede-obsoleto-rapidamente-4255870.jpg?tf=1200x' alt='10 cosas que debes dejar de hacer en tu móvil Android si no quieres que se quede obsoleto rápidamente' />
     </a>
 </div>
 
