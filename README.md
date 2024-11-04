@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/entrenan-ratas-gigantes-luchar-trafico-ilegal-animales-africa-1416104'>Entrenan ratas gigantes para luchar contra el tráfico ilegal de animales en África</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/entrenan-ratas-gigantes-luchar-trafico-ilegal-animales-africa-1416104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/entrenan-ratas-gigantes-lucha-trafico-ilegal-animales-africa-4256973.jpg?tf=1200x' alt='Entrenan ratas gigantes para luchar contra el tráfico ilegal de animales en África' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/energia/ultima-idea-microsoft-reducir-emisiones-centros-datos-ia-madera-1416101'>La última idea de Microsoft para reducir sus emisiones: centros de datos de IA de madera</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/ultima-idea-microsoft-reducir-emisiones-centros-datos-ia-madera-1416101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ultima-idea-microsoft-reducir-emisiones-centros-datos-ia-madera-4256969.jpg?tf=1200x' alt='La última idea de Microsoft para reducir sus emisiones: centros de datos de IA de madera' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/kindle-colorsoft-fallo-barra-amarilla-1416086'>Algunos Kindle Colorsoft sufren el fallo de la barra amarilla: solo hay una solución</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/kindle-colorsoft-fallo-barra-amarilla-1416086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cuidado-compras-kindle-colorsoft-algunos-usuarios-sufren-fallo-4256946.jpg?tf=1200x' alt='Algunos Kindle Colorsoft sufren el fallo de la barra amarilla: solo hay una solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convencerte-como-sea-cambies-windows-11-1416034'>Microsoft quiere convencerte, como sea, para que cambies a Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convencerte-como-sea-cambies-windows-11-1416034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/actualizacion-windows-4256891.jpg?tf=1200x' alt='Microsoft quiere convencerte, como sea, para que cambies a Windows 11' />
     </a>
 </div>
 
