@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/aplicaciones-google-play-store-roban-contrasenas-listado-completo-1416232'>Detectan 200 apps de Google Play Store que roban tus contraseñas, comprueba si tienes alguna instalada: listado completo</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/aplicaciones-google-play-store-roban-contrasenas-listado-completo-1416232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/detectan-200-apps-google-play-store-roban-contrasenas-comprueba-tienes-alguna-instalada-listado-completo-4257172.jpg?tf=1200x' alt='Detectan 200 apps de Google Play Store que roban tus contraseñas, comprueba si tienes alguna instalada: listado completo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-google-maps-mostrar-puntos-carga-coche-electrico-1415837'>Cómo configurar Google Maps para mostrar los puntos de carga para tu coche eléctrico</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-google-maps-mostrar-puntos-carga-coche-electrico-1415837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/coches-electricos-google-maps-4256573.jpg?tf=1200x' alt='Cómo configurar Google Maps para mostrar los puntos de carga para tu coche eléctrico' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/cientificos-descubre-secreto-esconde-interior-agujeros-negros-formacion-1416224'>Científicos descubre el secreto que esconde el interior de los agujeros negros y su formación</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/cientificos-descubre-secreto-esconde-interior-agujeros-negros-formacion-1416224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/black-hole-4257170.jpg?tf=1200x' alt='Científicos descubre el secreto que esconde el interior de los agujeros negros y su formación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/has-estado-utilizando-mal-memorias-usb-toda-vida-seguramente-no-sabes-1416200'>Has estado utilizando mal las memorias USB toda la vida, y seguramente no lo sabes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/has-estado-utilizando-mal-memorias-usb-toda-vida-seguramente-no-sabes-1416200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/unidad-usb-arranque-windows-11-3277080.jpg?tf=1200x' alt='Has estado utilizando mal las memorias USB toda la vida, y seguramente no lo sabes' />
     </a>
 </div>
 
