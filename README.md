@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ya-disponible-android-auto-132-todos-estas-son-novedades-como-actualizar-1416377'>Ya disponible Android Auto 13.2 para todos: estas son las novedades y cómo actualizar</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ya-disponible-android-auto-132-todos-estas-son-novedades-como-actualizar-1416377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-auto-132-4257393.jpg?tf=1200x' alt='Ya disponible Android Auto 13.2 para todos: estas son las novedades y cómo actualizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/incibe-ofrece-recuperar-datos-moviles-personas-afectadas-dana-puedes-solicitarlo-1416373'>El INCIBE se ofrece a recuperar los datos de los móviles de las personas afectadas por la DANA: así puedes solicitarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/incibe-ofrece-recuperar-datos-moviles-personas-afectadas-dana-puedes-solicitarlo-1416373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-gotas-agua-4257388.jpg?tf=1200x' alt='El INCIBE se ofrece a recuperar los datos de los móviles de las personas afectadas por la DANA: así puedes solicitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/dana-estafas-timos-mensajes-enganosos-falsa-solidaridad-1416371'>DANA: estafas, timos, mensajes engañosos y falsa solidaridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/dana-estafas-timos-mensajes-enganosos-falsa-solidaridad-1416371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/donaciones-falsas-4257387.jpg?tf=1200x' alt='DANA: estafas, timos, mensajes engañosos y falsa solidaridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-terror-netflix-nadie-daba-duro-ha-convertido-exito-85-paises-1415638'>La película de terror Netflix por la que nadie daba un duro y se ha convertido en un éxito en 85 países</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-terror-netflix-nadie-daba-duro-ha-convertido-exito-85-paises-1415638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pelicula-terror-netflix-nadie-daba-duro-ha-convertido-exito-85-paises-4256150.jpg?tf=1200x' alt='La película de terror Netflix por la que nadie daba un duro y se ha convertido en un éxito en 85 países' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-arremete-gran-exito-ciencia-ficcion-remake-detras-otro-1416230'>Quentin Tarantino arremete contra este gran éxito de ciencia ficción: "Es un remake detrás de otro"</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-arremete-gran-exito-ciencia-ficcion-remake-detras-otro-1416230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/quentin-tarantino-3055816.jpg?tf=1200x' alt='Quentin Tarantino arremete contra este gran éxito de ciencia ficción: "Es un remake detrás de otro"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/solo-90-minutos-podras-viajar-paris-nueva-york-primer-avion-hipersonico-hidrogeno-1416184'>En solo 90 minutos podrás viajar de París a Nueva York con el  primer avión hipersónico de hidrógeno</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/solo-90-minutos-podras-viajar-paris-nueva-york-primer-avion-hipersonico-hidrogeno-1416184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/destinus-s-4257152.jpg?tf=1200x' alt='En solo 90 minutos podrás viajar de París a Nueva York con el  primer avión hipersónico de hidrógeno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/incibe-alerta-nueva-peligrosa-estafa-comprueba-cuentas-bancarias-proximos-meses-1416304'>INCIBE alerta sobre esta nueva y peligrosa estafa: “Comprueba tus cuentas bancarias en los próximos meses”</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/incibe-alerta-nueva-peligrosa-estafa-comprueba-cuentas-bancarias-proximos-meses-1416304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/incibe-alerta-nueva-peligrosa-estafa-comprueba-cuentas-bancarias-proximos-meses-4257252.jpg?tf=1200x' alt='INCIBE alerta sobre esta nueva y peligrosa estafa: “Comprueba tus cuentas bancarias en los próximos meses”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/orange-lanza-tarifa-anti-iptv-futbol-gratis-canales-tv-fibra-movil-precio-derribo-1416245'>Orange lanza la tarifa anti IPTV: fútbol gratis, canales de TV, fibra y móvil a precio de derribo</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/orange-lanza-tarifa-anti-iptv-futbol-gratis-canales-tv-fibra-movil-precio-derribo-1416245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/orange-lanza-tarifa-anti-iptv-futbol-gratis-canales-tv-fibra-movil-precio-derribo-4257269.jpg?tf=1200x' alt='Orange lanza la tarifa anti IPTV: fútbol gratis, canales de TV, fibra y móvil a precio de derribo' />
     </a>
 </div>
 
