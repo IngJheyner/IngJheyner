@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/dana-como-enviar-bizum-donacion-afectados-1416395'>DANA: cómo enviar por BIZUM una donación para los afectados sin caer en estafas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/dana-como-enviar-bizum-donacion-afectados-1416395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/dana-como-enviar-bizum-donacion-afectados-caer-estafas-4257405.jpg?tf=1200x' alt='DANA: cómo enviar por BIZUM una donación para los afectados sin caer en estafas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/energia/meta-paraliza-acuerdo-central-nuclear-descubrirse-rara-especie-abeja-1416387'>Meta paraliza un acuerdo con una central nuclear, tras descubrirse una rara especie de abeja en la zona</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/meta-paraliza-acuerdo-central-nuclear-descubrirse-rara-especie-abeja-1416387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/meta-paraliza-acuerdo-central-nuclear-descubrirse-rara-especie-abeja-4257348.jpg?tf=1200x' alt='Meta paraliza un acuerdo con una central nuclear, tras descubrirse una rara especie de abeja en la zona' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/dana-estafas-timos-mensajes-enganosos-falsa-solidaridad-1416371'>DANA: estafas, timos, mensajes engañosos y falsa solidaridad</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/dana-estafas-timos-mensajes-enganosos-falsa-solidaridad-1416371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/donaciones-falsas-4257387.jpg?tf=1200x' alt='DANA: estafas, timos, mensajes engañosos y falsa solidaridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-terror-netflix-nadie-daba-duro-ha-convertido-exito-85-paises-1415638'>La película de terror Netflix por la que nadie daba un duro y se ha convertido en un éxito en 85 países</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-terror-netflix-nadie-daba-duro-ha-convertido-exito-85-paises-1415638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pelicula-terror-netflix-nadie-daba-duro-ha-convertido-exito-85-paises-4256150.jpg?tf=1200x' alt='La película de terror Netflix por la que nadie daba un duro y se ha convertido en un éxito en 85 países' />
     </a>
 </div>
 
