@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-google-maps-mostrar-puntos-carga-coche-electrico-1415837'>Cómo configurar Google Maps para mostrar los puntos de carga para tu coche eléctrico</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-google-maps-mostrar-puntos-carga-coche-electrico-1415837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/coches-electricos-google-maps-4256573.jpg?tf=1200x' alt='Cómo configurar Google Maps para mostrar los puntos de carga para tu coche eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/reloj-inteligente-sorprende-precio-pantalla-amoled-gps-menos-60-euros-1416226'>Este reloj inteligente sorprende por su precio: pantalla AMOLED y GPS por menos de 60 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/life/reloj-inteligente-sorprende-precio-pantalla-amoled-gps-menos-60-euros-1416226' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/watch-pro-2-4257161.jpg?tf=1200x' alt='Este reloj inteligente sorprende por su precio: pantalla AMOLED y GPS por menos de 60 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/has-estado-utilizando-mal-memorias-usb-toda-vida-seguramente-no-sabes-1416200'>Has estado utilizando mal las memorias USB toda la vida, y seguramente no lo sabes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/has-estado-utilizando-mal-memorias-usb-toda-vida-seguramente-no-sabes-1416200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/unidad-usb-arranque-windows-11-3277080.jpg?tf=1200x' alt='Has estado utilizando mal las memorias USB toda la vida, y seguramente no lo sabes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/digi-anade-nueva-funcion-puede-ahorrarte-disgustos-mucho-dinero-activala-ahora-mismo-1416198'>DIGI añade una nueva función que puede ahorrarte disgustos, y mucho dinero: actívala ahora mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/digi-anade-nueva-funcion-puede-ahorrarte-disgustos-mucho-dinero-activala-ahora-mismo-1416198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/digi-novedades-4257091.jpg?tf=1200x' alt='DIGI añade una nueva función que puede ahorrarte disgustos, y mucho dinero: actívala ahora mismo' />
     </a>
 </div>
 
