@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/aplicaciones-google-play-store-roban-contrasenas-listado-completo-1416232'>Detectan 200 apps de Google Play Store que roban tus contraseñas, comprueba si tienes alguna instalada: listado completo</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/aplicaciones-google-play-store-roban-contrasenas-listado-completo-1416232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/detectan-200-apps-google-play-store-roban-contrasenas-comprueba-tienes-alguna-instalada-listado-completo-4257172.jpg?tf=1200x' alt='Detectan 200 apps de Google Play Store que roban tus contraseñas, comprueba si tienes alguna instalada: listado completo' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/solo-90-minutos-podras-viajar-paris-nueva-york-primer-avion-hipersonico-hidrogeno-1416184'>En solo 90 minutos podrás viajar de París a Nueva York con el  primer avión hipersónico de hidrógeno</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/solo-90-minutos-podras-viajar-paris-nueva-york-primer-avion-hipersonico-hidrogeno-1416184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/destinus-s-4257152.jpg?tf=1200x' alt='En solo 90 minutos podrás viajar de París a Nueva York con el  primer avión hipersónico de hidrógeno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-google-maps-mostrar-puntos-carga-coche-electrico-1415837'>Cómo configurar Google Maps para mostrar los puntos de carga para tu coche eléctrico</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-google-maps-mostrar-puntos-carga-coche-electrico-1415837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/coches-electricos-google-maps-4256573.jpg?tf=1200x' alt='Cómo configurar Google Maps para mostrar los puntos de carga para tu coche eléctrico' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/incibe-alerta-nueva-peligrosa-estafa-comprueba-cuentas-bancarias-proximos-meses-1416304'>INCIBE alerta sobre esta nueva y peligrosa estafa: “Comprueba tus cuentas bancarias en los próximos meses”</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/incibe-alerta-nueva-peligrosa-estafa-comprueba-cuentas-bancarias-proximos-meses-1416304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/incibe-alerta-nueva-peligrosa-estafa-comprueba-cuentas-bancarias-proximos-meses-4257252.jpg?tf=1200x' alt='INCIBE alerta sobre esta nueva y peligrosa estafa: “Comprueba tus cuentas bancarias en los próximos meses”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/reloj-inteligente-sorprende-precio-pantalla-amoled-gps-menos-60-euros-1416226'>Este reloj inteligente sorprende por su precio: pantalla AMOLED y GPS por menos de 60 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/reloj-inteligente-sorprende-precio-pantalla-amoled-gps-menos-60-euros-1416226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/watch-pro-2-4257161.jpg?tf=1200x' alt='Este reloj inteligente sorprende por su precio: pantalla AMOLED y GPS por menos de 60 euros' />
+    <h4><a href='https://computerhoy.20minutos.es/redes/orange-lanza-tarifa-anti-iptv-futbol-gratis-canales-tv-fibra-movil-precio-derribo-1416245'>Orange lanza la tarifa anti IPTV: fútbol gratis, canales de TV, fibra y móvil a precio de derribo</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/orange-lanza-tarifa-anti-iptv-futbol-gratis-canales-tv-fibra-movil-precio-derribo-1416245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/orange-lanza-tarifa-anti-iptv-futbol-gratis-canales-tv-fibra-movil-precio-derribo-4257269.jpg?tf=1200x' alt='Orange lanza la tarifa anti IPTV: fútbol gratis, canales de TV, fibra y móvil a precio de derribo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-contrasena-archivo-pdf-has-olvidado-1415758'>Cómo eliminar la contraseña de un archivo PDF (si la has olvidado)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-contrasena-archivo-pdf-has-olvidado-1415758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-eliminar-contrasena-archivo-pdf-has-olvidado-4256472.jpg?tf=1200x' alt='Cómo eliminar la contraseña de un archivo PDF (si la has olvidado)' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/investigadores-encuentra-laboratorio-alquimista-medieval-descubren-elemento-sorprendente-1415277'>Investigadores encuentra el laboratorio de un alquimista medieval y descubren un elemento sorprendente</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/investigadores-encuentra-laboratorio-alquimista-medieval-descubren-elemento-sorprendente-1415277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/alquimia-4255504.jpg?tf=1200x' alt='Investigadores encuentra el laboratorio de un alquimista medieval y descubren un elemento sorprendente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/cientificos-descubre-secreto-esconde-interior-agujeros-negros-formacion-1416224'>Científicos descubre el secreto que esconde el interior de los agujeros negros y su formación</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/cientificos-descubre-secreto-esconde-interior-agujeros-negros-formacion-1416224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/black-hole-4257170.jpg?tf=1200x' alt='Científicos descubre el secreto que esconde el interior de los agujeros negros y su formación' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-velocimetro-google-maps-1416056'>Cómo activar el velocímetro en Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-velocimetro-google-maps-1416056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/velocimetro-google-maps-4256915.jpg?tf=1200x' alt='Cómo activar el velocímetro en Google Maps' />
     </a>
 </div>
 
