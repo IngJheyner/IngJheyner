@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-destroza-esperanzas-switch-2-ultimo-anuncio-1416173'>Nintendo destroza las esperanzas de la Switch 2 con su último anuncio</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-destroza-esperanzas-switch-2-ultimo-anuncio-1416173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nintendo-destroza-esperanzas-switch-2-ultimo-anuncio-4257092.jpg?tf=1200x' alt='Nintendo destroza las esperanzas de la Switch 2 con su último anuncio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/olvidate-unas-apple-vision-pro-baratas-retrasaran-varios-anos-1416157'>Olvídate de unas Apple Vision Pro baratas, se retrasarán varios años</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/olvidate-unas-apple-vision-pro-baratas-retrasaran-varios-anos-1416157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/olvidate-unas-apple-vision-pro-baratas-retrasaran-varios-anos-4257053.jpg?tf=1200x' alt='Olvídate de unas Apple Vision Pro baratas, se retrasarán varios años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-nuevo-vuelve-retrasar-recall-windows-11-1416152'>Microsoft, de nuevo, vuelve a retrasar Recall en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-nuevo-vuelve-retrasar-recall-windows-11-1416152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-recall-como-funciona-deberias-desactivarlo-3487679.jpg?tf=1200x' alt='Microsoft, de nuevo, vuelve a retrasar Recall en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/fallos-puedes-estar-cometiendo-dejan-pc-riesgo-hackers-malware-1416145'>Fallos que puedes estar cometiendo y que dejan tu PC en riesgo de hackers y malware</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/fallos-puedes-estar-cometiendo-dejan-pc-riesgo-hackers-malware-1416145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/enfado-trabajo-4257044.jpg?tf=1200x' alt='Fallos que puedes estar cometiendo y que dejan tu PC en riesgo de hackers y malware' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-fin-tendran-siempre-ha-faltado-pantalla-1416153'>Los iPhone 17 por fin tendrán lo que siempre les ha faltado en la pantalla</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-17-fin-tendran-siempre-ha-faltado-pantalla-1416153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243553.jpg?tf=1200x' alt='Los iPhone 17 por fin tendrán lo que siempre les ha faltado en la pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/pasa-ios-182-va-tardar-llegar-iphone-1416128'>¿Qué pasa con iOS 18.2? Va a tardar en llegar a los iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/pasa-ios-182-va-tardar-llegar-iphone-1416128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pasa-ios-182-va-tardar-llegar-iphone-4257027.jpg?tf=1200x' alt='¿Qué pasa con iOS 18.2? Va a tardar en llegar a los iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/auriculares-boton-estan-mejorando-muchisimo-ya-hay-modelos-como-no-mueven-nada-ni-caen-1413840'>Los auriculares de botón están mejorando muchísimo y ya hay modelos como este que no se mueven nada (ni se caen)</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/auriculares-boton-estan-mejorando-muchisimo-ya-hay-modelos-como-no-mueven-nada-ni-caen-1413840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bose-quietcomfort-earbuds-4253441.jpg?tf=1200x' alt='Los auriculares de botón están mejorando muchísimo y ya hay modelos como este que no se mueven nada (ni se caen)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-vivo-v40-80w-ejemplo-perfecto-debe-ser-todo-movil-gama-media-1415549'>He probado el Vivo V40 SE 80W, un ejemplo perfecto de lo que debe ser todo móvil de la gama media</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-vivo-v40-80w-ejemplo-perfecto-debe-ser-todo-movil-gama-media-1415549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/vivo-v40-80w-4256322.jpg?tf=1200x' alt='He probado el Vivo V40 SE 80W, un ejemplo perfecto de lo que debe ser todo móvil de la gama media' />
     </a>
 </div>
 
