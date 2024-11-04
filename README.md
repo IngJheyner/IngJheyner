@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-programar-mensaje-whatsapp-todos-metodos-iphone-android-1415015'>Cómo programar un mensaje de WhatsApp: todos los métodos para iPhone y Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-programar-mensaje-whatsapp-todos-metodos-iphone-android-1415015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mensajes-programados-whatsapp-4255260.jpg?tf=1200x' alt='Cómo programar un mensaje de WhatsApp: todos los métodos para iPhone y Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/cosas-debes-dejar-hacer-movil-android-no-quieres-quede-obsoleto-rapidamente-1415485'>10 cosas que debes dejar de hacer en tu móvil Android si no quieres que se quede obsoleto rápidamente</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/cosas-debes-dejar-hacer-movil-android-no-quieres-quede-obsoleto-rapidamente-1415485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/10-cosas-debes-dejar-hacer-movil-android-no-quieres-quede-obsoleto-rapidamente-4255870.jpg?tf=1200x' alt='10 cosas que debes dejar de hacer en tu móvil Android si no quieres que se quede obsoleto rápidamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-extraer-memoria-usb-windows-simplemente-tirando-miedo-perder-nada-1414160'>Cómo extraer una memoria USB en Windows simplemente tirando, sin miedo a perder nada</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-extraer-memoria-usb-windows-simplemente-tirando-miedo-perder-nada-1414160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-extraer-memoria-usb-windows-simplemente-tirando-miedo-perder-nada-4253718.jpg?tf=1200x' alt='Cómo extraer una memoria USB en Windows simplemente tirando, sin miedo a perder nada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/google-maps-cierra-solo-queda-pillado-colgado-negro-1411885'>Google Maps se cierra solo, se queda pillado, colgado o en negro</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/google-maps-cierra-solo-queda-pillado-colgado-negro-1411885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-cierra-solo-queda-pillado-colgado-negro-4249925.jpg?tf=1200x' alt='Google Maps se cierra solo, se queda pillado, colgado o en negro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/entrenan-ratas-gigantes-luchar-trafico-ilegal-animales-africa-1416104'>Entrenan ratas gigantes para luchar contra el tráfico ilegal de animales en África</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/entrenan-ratas-gigantes-luchar-trafico-ilegal-animales-africa-1416104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/entrenan-ratas-gigantes-lucha-trafico-ilegal-animales-africa-4256973.jpg?tf=1200x' alt='Entrenan ratas gigantes para luchar contra el tráfico ilegal de animales en África' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/ultima-idea-microsoft-reducir-emisiones-centros-datos-ia-madera-1416101'>La última idea de Microsoft para reducir sus emisiones: centros de datos de IA de madera</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/ultima-idea-microsoft-reducir-emisiones-centros-datos-ia-madera-1416101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ultima-idea-microsoft-reducir-emisiones-centros-datos-ia-madera-4256969.jpg?tf=1200x' alt='La última idea de Microsoft para reducir sus emisiones: centros de datos de IA de madera' />
     </a>
 </div>
 
