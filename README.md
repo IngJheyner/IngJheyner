@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/pasa-ios-182-va-tardar-llegar-iphone-1416128'>¿Qué pasa con iOS 18.2? Va a tardar en llegar a los iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/pasa-ios-182-va-tardar-llegar-iphone-1416128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pasa-ios-182-va-tardar-llegar-iphone-4257027.jpg?tf=1200x' alt='¿Qué pasa con iOS 18.2? Va a tardar en llegar a los iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/audio/auriculares-boton-estan-mejorando-muchisimo-ya-hay-modelos-como-no-mueven-nada-ni-caen-1413840'>Los auriculares de botón están mejorando muchísimo y ya hay modelos como este que no se mueven nada (ni se caen)</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/auriculares-boton-estan-mejorando-muchisimo-ya-hay-modelos-como-no-mueven-nada-ni-caen-1413840' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bose-quietcomfort-earbuds-4253441.jpg?tf=1200x' alt='Los auriculares de botón están mejorando muchísimo y ya hay modelos como este que no se mueven nada (ni se caen)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/cosas-debes-dejar-hacer-movil-android-no-quieres-quede-obsoleto-rapidamente-1415485'>10 cosas que debes dejar de hacer en tu móvil Android si no quieres que se quede obsoleto rápidamente</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/cosas-debes-dejar-hacer-movil-android-no-quieres-quede-obsoleto-rapidamente-1415485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/10-cosas-debes-dejar-hacer-movil-android-no-quieres-quede-obsoleto-rapidamente-4255870.jpg?tf=1200x' alt='10 cosas que debes dejar de hacer en tu móvil Android si no quieres que se quede obsoleto rápidamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-extraer-memoria-usb-windows-simplemente-tirando-miedo-perder-nada-1414160'>Cómo extraer una memoria USB en Windows simplemente tirando, sin miedo a perder nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-extraer-memoria-usb-windows-simplemente-tirando-miedo-perder-nada-1414160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-extraer-memoria-usb-windows-simplemente-tirando-miedo-perder-nada-4253718.jpg?tf=1200x' alt='Cómo extraer una memoria USB en Windows simplemente tirando, sin miedo a perder nada' />
     </a>
 </div>
 
