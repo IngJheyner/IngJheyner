@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/auriculares-boton-estan-mejorando-muchisimo-ya-hay-modelos-como-no-mueven-nada-ni-caen-1413840'>Los auriculares de botón están mejorando muchísimo y ya hay modelos como este que no se mueven nada (ni se caen)</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/auriculares-boton-estan-mejorando-muchisimo-ya-hay-modelos-como-no-mueven-nada-ni-caen-1413840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/bose-quietcomfort-earbuds-4253441.jpg?tf=1200x' alt='Los auriculares de botón están mejorando muchísimo y ya hay modelos como este que no se mueven nada (ni se caen)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-vivo-v40-80w-ejemplo-perfecto-debe-ser-todo-movil-gama-media-1415549'>He probado el Vivo V40 SE 80W, un ejemplo perfecto de lo que debe ser todo móvil de la gama media</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-vivo-v40-80w-ejemplo-perfecto-debe-ser-todo-movil-gama-media-1415549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/vivo-v40-80w-4256322.jpg?tf=1200x' alt='He probado el Vivo V40 SE 80W, un ejemplo perfecto de lo que debe ser todo móvil de la gama media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-programar-mensaje-whatsapp-todos-metodos-iphone-android-1415015'>Cómo programar un mensaje de WhatsApp: todos los métodos para iPhone y Android</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-programar-mensaje-whatsapp-todos-metodos-iphone-android-1415015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mensajes-programados-whatsapp-4255260.jpg?tf=1200x' alt='Cómo programar un mensaje de WhatsApp: todos los métodos para iPhone y Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-extraer-memoria-usb-windows-simplemente-tirando-miedo-perder-nada-1414160'>Cómo extraer una memoria USB en Windows simplemente tirando, sin miedo a perder nada</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-extraer-memoria-usb-windows-simplemente-tirando-miedo-perder-nada-1414160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/como-extraer-memoria-usb-windows-simplemente-tirando-miedo-perder-nada-4253718.jpg?tf=1200x' alt='Cómo extraer una memoria USB en Windows simplemente tirando, sin miedo a perder nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-localizador-alternativa-airtag-24-euros-1409557'>Samsung vende un localizador alternativo al AirTag: funciona con Android y cuesta 24 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-localizador-alternativa-airtag-24-euros-1409557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-smarttag2-4245921.jpg?tf=1200x' alt='Samsung vende un localizador alternativo al AirTag: funciona con Android y cuesta 24 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/google-maps-cierra-solo-queda-pillado-colgado-negro-1411885'>Google Maps se cierra solo, se queda pillado, colgado o en negro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/google-maps-cierra-solo-queda-pillado-colgado-negro-1411885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-cierra-solo-queda-pillado-colgado-negro-4249925.jpg?tf=1200x' alt='Google Maps se cierra solo, se queda pillado, colgado o en negro' />
     </a>
 </div>
 
