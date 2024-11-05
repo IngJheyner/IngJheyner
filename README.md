@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tim-cook-mark-cuban-confian-ciegamente-truco-ahorrar-tiempo-email-me-ha-cambiado-vida-1416545'>Tim Cook y Mark Cuban confían ciegamente en este truco para ahorrar tiempo con el email: “Me ha cambiado la vida”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tim-cook-mark-cuban-confian-ciegamente-truco-ahorrar-tiempo-email-me-ha-cambiado-vida-1416545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tim-cook-ceo-apple-4257687.jpg?tf=1200x' alt='Tim Cook y Mark Cuban confían ciegamente en este truco para ahorrar tiempo con el email: “Me ha cambiado la vida”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-humilla-windows-11-macos-sequoia-puede-funcionar-solo-1-gb-ram-1416316'>Apple humilla a Windows 11: macOS Sequoia puede funcionar con solo 1 GB de RAM</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-humilla-windows-11-macos-sequoia-puede-funcionar-solo-1-gb-ram-1416316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-humilla-windows-11-macos-sequoia-puede-funcionar-solo-1-gb-ram-4257281.jpg?tf=1200x' alt='Apple humilla a Windows 11: macOS Sequoia puede funcionar con solo 1 GB de RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/crees-te-espian-movil-solo-necesitas-usar-estos-tres-codigos-comprobarlo-1415718'>¿Crees que te espían el móvil? Solo necesitas usar estos tres códigos para comprobarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/crees-te-espian-movil-solo-necesitas-usar-estos-tres-codigos-comprobarlo-1415718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/crees-te-espian-movil-solo-necesitas-usar-estos-tres-codigos-comprobarlo-4256367.jpg?tf=1200x' alt='¿Crees que te espían el móvil? Solo necesitas usar estos tres códigos para comprobarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/sencillo-gesto-puerta-lavadora-puede-ahorrarte-cientos-euros-no-todo-mundo-hace-1416558'>El sencillo gesto con la puerta de la lavadora que puede ahorrarte cientos de euros, y que no todo el mundo hace</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/sencillo-gesto-puerta-lavadora-puede-ahorrarte-cientos-euros-no-todo-mundo-hace-1416558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sencillo-gesto-puerta-lavadora-puede-ahorrarte-cientos-euros-no-todo-mundo-hace-4257675.jpg?tf=1200x' alt='El sencillo gesto con la puerta de la lavadora que puede ahorrarte cientos de euros, y que no todo el mundo hace' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-espia-freidora-aire-descubren-rastreadores-muchos-dispositivos-usas-cada-dia-1416521'>¿Te espía tu freidora de aire? Descubren rastreadores en muchos de los dispositivos que usas cada día</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/te-espia-freidora-aire-descubren-rastreadores-muchos-dispositivos-usas-cada-dia-1416521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/te-espia-freidora-aire-4257567.jpg?tf=1200x' alt='¿Te espía tu freidora de aire? Descubren rastreadores en muchos de los dispositivos que usas cada día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/transforma-raspberry-pi-tablet-linux-pantalla-tactil-poco-50-euros-1416513'>Transforma tu Raspberry Pi en una tablet con Linux con pantalla táctil por poco más de 50 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/transforma-raspberry-pi-tablet-linux-pantalla-tactil-poco-50-euros-1416513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/transforma-raspberry-pi-tablet-linux-pantalla-tactil-poco-50-euros-4257580.jpg?tf=1200x' alt='Transforma tu Raspberry Pi en una tablet con Linux con pantalla táctil por poco más de 50 euros' />
     </a>
 </div>
 
