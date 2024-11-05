@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/juego-te-penaliza-no-tienes-ordenador-potente-no-forma-te-imaginas-1416578'>Este juego te penaliza si no tienes un ordenador potente (y no de la forma que te imaginas)</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/juego-te-penaliza-no-tienes-ordenador-potente-no-forma-te-imaginas-1416578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/juego-te-penaliza-no-tienes-ordenador-potente-no-forma-te-imaginas-4257688.jpg?tf=1200x' alt='Este juego te penaliza si no tienes un ordenador potente (y no de la forma que te imaginas)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/creador-linux-atiza-nuevo-palo-inteligencia-artificial-90-marketing-1416241'>El creador de Linux atiza un nuevo palo a la inteligencia artificial: “El 90% es marketing”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/creador-linux-atiza-nuevo-palo-inteligencia-artificial-90-marketing-1416241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/creador-linux-atiza-nuevo-palo-inteligencia-artificial-90-marketing-4257183.jpg?tf=1200x' alt='El creador de Linux atiza un nuevo palo a la inteligencia artificial: “El 90% es marketing”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tim-cook-mark-cuban-confian-ciegamente-truco-ahorrar-tiempo-email-me-ha-cambiado-vida-1416545'>Tim Cook y Mark Cuban confían ciegamente en este truco para ahorrar tiempo con el email: “Me ha cambiado la vida”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tim-cook-mark-cuban-confian-ciegamente-truco-ahorrar-tiempo-email-me-ha-cambiado-vida-1416545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tim-cook-ceo-apple-4257687.jpg?tf=1200x' alt='Tim Cook y Mark Cuban confían ciegamente en este truco para ahorrar tiempo con el email: “Me ha cambiado la vida”' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/crees-te-espian-movil-solo-necesitas-usar-estos-tres-codigos-comprobarlo-1415718'>¿Crees que te espían el móvil? Solo necesitas usar estos tres códigos para comprobarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/crees-te-espian-movil-solo-necesitas-usar-estos-tres-codigos-comprobarlo-1415718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/crees-te-espian-movil-solo-necesitas-usar-estos-tres-codigos-comprobarlo-4256367.jpg?tf=1200x' alt='¿Crees que te espían el móvil? Solo necesitas usar estos tres códigos para comprobarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/emperador-espanol-invento-ingenioso-sistema-evitar-inundaciones-imperio-romano-1416486'>Un emperador español inventó un ingenioso sistema para evitar las inundaciones en el Imperio romano</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/emperador-espanol-invento-ingenioso-sistema-evitar-inundaciones-imperio-romano-1416486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/roma-4257581.jpg?tf=1200x' alt='Un emperador español inventó un ingenioso sistema para evitar las inundaciones en el Imperio romano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/sencillo-gesto-puerta-lavadora-puede-ahorrarte-cientos-euros-no-todo-mundo-hace-1416558'>El sencillo gesto con la puerta de la lavadora que puede ahorrarte cientos de euros, y que no todo el mundo hace</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/sencillo-gesto-puerta-lavadora-puede-ahorrarte-cientos-euros-no-todo-mundo-hace-1416558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sencillo-gesto-puerta-lavadora-puede-ahorrarte-cientos-euros-no-todo-mundo-hace-4257675.jpg?tf=1200x' alt='El sencillo gesto con la puerta de la lavadora que puede ahorrarte cientos de euros, y que no todo el mundo hace' />
     </a>
 </div>
 
