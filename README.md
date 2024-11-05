@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/crees-te-espian-movil-solo-necesitas-usar-estos-tres-codigos-comprobarlo-1415718'>¿Crees que te espían el móvil? Solo necesitas usar estos tres códigos para comprobarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/crees-te-espian-movil-solo-necesitas-usar-estos-tres-codigos-comprobarlo-1415718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/crees-te-espian-movil-solo-necesitas-usar-estos-tres-codigos-comprobarlo-4256367.jpg?tf=1200x' alt='¿Crees que te espían el móvil? Solo necesitas usar estos tres códigos para comprobarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/emperador-espanol-invento-ingenioso-sistema-evitar-inundaciones-imperio-romano-1416486'>Un emperador español inventó un ingenioso sistema para evitar las inundaciones en el Imperio romano</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/emperador-espanol-invento-ingenioso-sistema-evitar-inundaciones-imperio-romano-1416486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/roma-4257581.jpg?tf=1200x' alt='Un emperador español inventó un ingenioso sistema para evitar las inundaciones en el Imperio romano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/sencillo-gesto-puerta-lavadora-puede-ahorrarte-cientos-euros-no-todo-mundo-hace-1416558'>El sencillo gesto con la puerta de la lavadora que puede ahorrarte cientos de euros, y que no todo el mundo hace</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/sencillo-gesto-puerta-lavadora-puede-ahorrarte-cientos-euros-no-todo-mundo-hace-1416558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sencillo-gesto-puerta-lavadora-puede-ahorrarte-cientos-euros-no-todo-mundo-hace-4257675.jpg?tf=1200x' alt='El sencillo gesto con la puerta de la lavadora que puede ahorrarte cientos de euros, y que no todo el mundo hace' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-espia-freidora-aire-descubren-rastreadores-muchos-dispositivos-usas-cada-dia-1416521'>¿Te espía tu freidora de aire? Descubren rastreadores en muchos de los dispositivos que usas cada día</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/te-espia-freidora-aire-descubren-rastreadores-muchos-dispositivos-usas-cada-dia-1416521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/te-espia-freidora-aire-4257567.jpg?tf=1200x' alt='¿Te espía tu freidora de aire? Descubren rastreadores en muchos de los dispositivos que usas cada día' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/transforma-raspberry-pi-tablet-linux-pantalla-tactil-poco-50-euros-1416513'>Transforma tu Raspberry Pi en una tablet con Linux con pantalla táctil por poco más de 50 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/transforma-raspberry-pi-tablet-linux-pantalla-tactil-poco-50-euros-1416513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/transforma-raspberry-pi-tablet-linux-pantalla-tactil-poco-50-euros-4257580.jpg?tf=1200x' alt='Transforma tu Raspberry Pi en una tablet con Linux con pantalla táctil por poco más de 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-quieren-teletransportar-ser-humano-completo-avance-cuantico-podria-hacerlo-realidad-1416480'>Científicos quieren teletransportar a un ser humano completo y un avance cuántico podría hacerlo realidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-quieren-teletransportar-ser-humano-completo-avance-cuantico-podria-hacerlo-realidad-1416480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teletransportacion-3256537.jpg?tf=1200x' alt='Científicos quieren teletransportar a un ser humano completo y un avance cuántico podría hacerlo realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/alimentacion/freidora-cosori-gigante-85l-rebajadisima-amazon-cuesta-menos-200-euros-1416427'>La freidora Cosori gigante de 8,5L está rebajadísima en Amazon: cuesta menos de 200 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/alimentacion/freidora-cosori-gigante-85l-rebajadisima-amazon-cuesta-menos-200-euros-1416427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cosori-4257463.jpg?tf=1200x' alt='La freidora Cosori gigante de 8,5L está rebajadísima en Amazon: cuesta menos de 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ver-archivos-movil-android-ordenador-tener-conectarlo-pc-1416463'>Cómo ver los archivos de tu móvil Android en tu ordenador sin tener que conectarlo al PC</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-ver-archivos-movil-android-ordenador-tener-conectarlo-pc-1416463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/opciones-gratis-seguir-utilizando-ordenador-windows-10-no-puede-actualizar-windows-11-4241366.jpg?tf=1200x' alt='Cómo ver los archivos de tu móvil Android en tu ordenador sin tener que conectarlo al PC' />
     </a>
 </div>
 
