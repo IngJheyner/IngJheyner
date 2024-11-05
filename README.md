@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-whatsapp-siempre-linea-1415776'>Cómo hacer que WhatsApp esté siempre en línea</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-whatsapp-siempre-linea-1415776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-hacer-whatsapp-siempre-linea-4256485.jpg?tf=1200x' alt='Cómo hacer que WhatsApp esté siempre en línea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/alimentacion/robot-cocina-45-funciones-marca-espanola-oferta-amazon-1409576'>Este robot de cocina con 45 funciones es de marca española y Amazon lo ha rebajado</a></h4>
+    <a href='https://computerhoy.20minutos.es/alimentacion/robot-cocina-45-funciones-marca-espanola-oferta-amazon-1409576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cecotec-mambo-cooking-unique-4245962.jpg?tf=1200x' alt='Este robot de cocina con 45 funciones es de marca española y Amazon lo ha rebajado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/razon-deberias-eliminar-antiguas-cuentas-linea-1415171'>Esta es la razón por la que deberías eliminar tus antiguas cuentas en línea</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/razon-deberias-eliminar-antiguas-cuentas-linea-1415171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/razon-deberias-eliminar-antiguas-cuentas-linea-4256693.jpg?tf=1200x' alt='Esta es la razón por la que deberías eliminar tus antiguas cuentas en línea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/fallece-cocodrilo-grande-mundo-120-anos-edad-1416405'>Fallece el cocodrilo más grande del mundo, a los 120 años de edad</a></h4>
     <a href='https://computerhoy.20minutos.es/life/fallece-cocodrilo-grande-mundo-120-anos-edad-1416405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/fallece-cocodrilo-grande-mundo-120-anos-edad-4257434.jpg?tf=1200x' alt='Fallece el cocodrilo más grande del mundo, a los 120 años de edad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/dana-como-enviar-bizum-donacion-afectados-1416395'>DANA: cómo enviar por BIZUM una donación para los afectados sin caer en estafas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/dana-como-enviar-bizum-donacion-afectados-1416395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/dana-como-enviar-bizum-donacion-afectados-caer-estafas-4257405.jpg?tf=1200x' alt='DANA: cómo enviar por BIZUM una donación para los afectados sin caer en estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/meta-paraliza-acuerdo-central-nuclear-descubrirse-rara-especie-abeja-1416387'>Meta paraliza un acuerdo con una central nuclear, tras descubrirse una rara especie de abeja en la zona</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/meta-paraliza-acuerdo-central-nuclear-descubrirse-rara-especie-abeja-1416387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/meta-paraliza-acuerdo-central-nuclear-descubrirse-rara-especie-abeja-4257348.jpg?tf=1200x' alt='Meta paraliza un acuerdo con una central nuclear, tras descubrirse una rara especie de abeja en la zona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ya-disponible-android-auto-132-todos-estas-son-novedades-como-actualizar-1416377'>Ya disponible Android Auto 13.2 para todos: estas son las novedades y cómo actualizar</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ya-disponible-android-auto-132-todos-estas-son-novedades-como-actualizar-1416377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-auto-132-4257393.jpg?tf=1200x' alt='Ya disponible Android Auto 13.2 para todos: estas son las novedades y cómo actualizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/incibe-ofrece-recuperar-datos-moviles-personas-afectadas-dana-puedes-solicitarlo-1416373'>El INCIBE se ofrece a recuperar los datos de los móviles de las personas afectadas por la DANA: así puedes solicitarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/incibe-ofrece-recuperar-datos-moviles-personas-afectadas-dana-puedes-solicitarlo-1416373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-gotas-agua-4257388.jpg?tf=1200x' alt='El INCIBE se ofrece a recuperar los datos de los móviles de las personas afectadas por la DANA: así puedes solicitarlo' />
     </a>
 </div>
 
