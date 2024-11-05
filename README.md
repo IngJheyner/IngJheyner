@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-elimina-especiales-interactivos-1416430'>Netflix elimina todo su contenido interactivo, excepto el de esta popular serie</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-elimina-especiales-interactivos-1416430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/netflix-elimina-todo-contenido-interactivo-excepto-popular-serie-4257460.jpg?tf=1200x' alt='Netflix elimina todo su contenido interactivo, excepto el de esta popular serie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/roboa-robot-serpiente-ayuda-dana-valencia-1416419'>RoBoa, el robot-serpiente que sería de gran ayuda para buscar desaparecidos tras la DANA de Valencia</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/roboa-robot-serpiente-ayuda-dana-valencia-1416419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1730787093581-4257457.jpg?tf=1200x' alt='RoBoa, el robot-serpiente que sería de gran ayuda para buscar desaparecidos tras la DANA de Valencia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/seran-gafas-inteligentes-proxima-revolucion-tecnologica-no-hagan-algo-mejor-otro-dispositivo-existente-no-seran-necesarias-1405673'>¿Serán las gafas inteligentes la próxima revolución tecnológica? "Hasta que no hagan algo mejor que otro dispositivo existente, no serán necesarias"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/seran-gafas-inteligentes-proxima-revolucion-tecnologica-no-hagan-algo-mejor-otro-dispositivo-existente-no-seran-necesarias-1405673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ray-ban-stories-facebook-analisis-opinion-2714599.jpg?tf=1200x' alt='¿Serán las gafas inteligentes la próxima revolución tecnológica? "Hasta que no hagan algo mejor que otro dispositivo existente, no serán necesarias"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/he-configurado-mi-portatil-windows-poder-compartirlo-mi-hija-1415715'>Así he configurado mi portátil con Windows para poder compartirlo con mi hija</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/he-configurado-mi-portatil-windows-poder-compartirlo-mi-hija-1415715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/he-configurado-mi-portatil-windows-poder-compartirlo-mi-hija-4256452.jpg?tf=1200x' alt='Así he configurado mi portátil con Windows para poder compartirlo con mi hija' />
     </a>
 </div>
 
