@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/fallece-cocodrilo-grande-mundo-120-anos-edad-1416405'>Fallece el cocodrilo más grande del mundo, a los 120 años de edad</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/fallece-cocodrilo-grande-mundo-120-anos-edad-1416405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/fallece-cocodrilo-grande-mundo-120-anos-edad-4257434.jpg?tf=1200x' alt='Fallece el cocodrilo más grande del mundo, a los 120 años de edad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/dana-como-enviar-bizum-donacion-afectados-1416395'>DANA: cómo enviar por BIZUM una donación para los afectados sin caer en estafas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/dana-como-enviar-bizum-donacion-afectados-1416395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/dana-como-enviar-bizum-donacion-afectados-caer-estafas-4257405.jpg?tf=1200x' alt='DANA: cómo enviar por BIZUM una donación para los afectados sin caer en estafas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/incibe-ofrece-recuperar-datos-moviles-personas-afectadas-dana-puedes-solicitarlo-1416373'>El INCIBE se ofrece a recuperar los datos de los móviles de las personas afectadas por la DANA: así puedes solicitarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/incibe-ofrece-recuperar-datos-moviles-personas-afectadas-dana-puedes-solicitarlo-1416373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-gotas-agua-4257388.jpg?tf=1200x' alt='El INCIBE se ofrece a recuperar los datos de los móviles de las personas afectadas por la DANA: así puedes solicitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/dana-estafas-timos-mensajes-enganosos-falsa-solidaridad-1416371'>DANA: estafas, timos, mensajes engañosos y falsa solidaridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/dana-estafas-timos-mensajes-enganosos-falsa-solidaridad-1416371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/donaciones-falsas-4257387.jpg?tf=1200x' alt='DANA: estafas, timos, mensajes engañosos y falsa solidaridad' />
     </a>
 </div>
 
