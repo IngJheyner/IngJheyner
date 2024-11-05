@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/novedades-hay-ios-182-apple-intelligence-iphone-1416477'>Qué novedades hay en iOS 18.2 con Apple Intelligence en tu iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/novedades-hay-ios-182-apple-intelligence-iphone-1416477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/novedades-hay-ios-182-apple-intelligence-iphone-4257543.jpg?tf=1200x' alt='Qué novedades hay en iOS 18.2 con Apple Intelligence en tu iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/usas-chrome-safari-edge-firefox-ni-te-ocurra-entrar-estas-paginas-web-1416461'>¿Usas Chrome, Safari, Edge o Firefox? Ni se te ocurra entrar en estas páginas web</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/usas-chrome-safari-edge-firefox-ni-te-ocurra-entrar-estas-paginas-web-1416461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-estafas-3221874.jpg?tf=1200x' alt='¿Usas Chrome, Safari, Edge o Firefox? Ni se te ocurra entrar en estas páginas web' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/roboa-robot-serpiente-ayuda-dana-valencia-1416419'>RoBoa, el robot-serpiente que sería de gran ayuda para buscar desaparecidos tras la DANA de Valencia</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/roboa-robot-serpiente-ayuda-dana-valencia-1416419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1730787093581-4257457.jpg?tf=1200x' alt='RoBoa, el robot-serpiente que sería de gran ayuda para buscar desaparecidos tras la DANA de Valencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/xiaomi-robot-vacuum-x20-pro-robot-aspirador-independiente-he-probado-1416139'>Xiaomi Robot Vacuum X20 Pro es el robot aspirador más independiente que he probado y es su mejor característica</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/xiaomi-robot-vacuum-x20-pro-robot-aspirador-independiente-he-probado-1416139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-robot-vacuum-x20-pro-4256139.jpg?tf=1200x' alt='Xiaomi Robot Vacuum X20 Pro es el robot aspirador más independiente que he probado y es su mejor característica' />
     </a>
 </div>
 
