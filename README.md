@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/roboa-robot-serpiente-ayuda-dana-valencia-1416419'>RoBoa, el robot-serpiente que sería de gran ayuda para buscar desaparecidos tras la DANA de Valencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/roboa-robot-serpiente-ayuda-dana-valencia-1416419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1730787093581-4257457.jpg?tf=1200x' alt='RoBoa, el robot-serpiente que sería de gran ayuda para buscar desaparecidos tras la DANA de Valencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/xiaomi-robot-vacuum-x20-pro-robot-aspirador-independiente-he-probado-1416139'>Xiaomi Robot Vacuum X20 Pro es el robot aspirador más independiente que he probado y es su mejor característica</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/xiaomi-robot-vacuum-x20-pro-robot-aspirador-independiente-he-probado-1416139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-robot-vacuum-x20-pro-4256139.jpg?tf=1200x' alt='Xiaomi Robot Vacuum X20 Pro es el robot aspirador más independiente que he probado y es su mejor característica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/me-he-convertido-senor-anillos-inteligentes-he-aprendido-probandolos-1411038'>Me he convertido en "El Señor de los Anillos" (inteligentes) y esto es lo que he aprendido probándolos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/me-he-convertido-senor-anillos-inteligentes-he-aprendido-probandolos-1411038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/anillos-inteligentes-mano-amazfit-samsung-ultrahuman-4248967.jpg?tf=1200x' alt='Me he convertido en "El Señor de los Anillos" (inteligentes) y esto es lo que he aprendido probándolos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/seran-gafas-inteligentes-proxima-revolucion-tecnologica-no-hagan-algo-mejor-otro-dispositivo-existente-no-seran-necesarias-1405673'>¿Serán las gafas inteligentes la próxima revolución tecnológica? "Hasta que no hagan algo mejor que otro dispositivo existente, no serán necesarias"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/seran-gafas-inteligentes-proxima-revolucion-tecnologica-no-hagan-algo-mejor-otro-dispositivo-existente-no-seran-necesarias-1405673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ray-ban-stories-facebook-analisis-opinion-2714599.jpg?tf=1200x' alt='¿Serán las gafas inteligentes la próxima revolución tecnológica? "Hasta que no hagan algo mejor que otro dispositivo existente, no serán necesarias"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/he-configurado-mi-portatil-windows-poder-compartirlo-mi-hija-1415715'>Así he configurado mi portátil con Windows para poder compartirlo con mi hija</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/he-configurado-mi-portatil-windows-poder-compartirlo-mi-hija-1415715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/he-configurado-mi-portatil-windows-poder-compartirlo-mi-hija-4256452.jpg?tf=1200x' alt='Así he configurado mi portátil con Windows para poder compartirlo con mi hija' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-whatsapp-siempre-linea-1415776'>Cómo hacer que WhatsApp esté siempre en línea</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-whatsapp-siempre-linea-1415776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-hacer-whatsapp-siempre-linea-4256485.jpg?tf=1200x' alt='Cómo hacer que WhatsApp esté siempre en línea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/alimentacion/robot-cocina-45-funciones-marca-espanola-oferta-amazon-1409576'>Este robot de cocina con 45 funciones es de marca española y Amazon lo ha rebajado</a></h4>
-    <a href='https://computerhoy.20minutos.es/alimentacion/robot-cocina-45-funciones-marca-espanola-oferta-amazon-1409576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cecotec-mambo-cooking-unique-4245962.jpg?tf=1200x' alt='Este robot de cocina con 45 funciones es de marca española y Amazon lo ha rebajado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/razon-deberias-eliminar-antiguas-cuentas-linea-1415171'>Esta es la razón por la que deberías eliminar tus antiguas cuentas en línea</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/razon-deberias-eliminar-antiguas-cuentas-linea-1415171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/razon-deberias-eliminar-antiguas-cuentas-linea-4256693.jpg?tf=1200x' alt='Esta es la razón por la que deberías eliminar tus antiguas cuentas en línea' />
     </a>
 </div>
 
