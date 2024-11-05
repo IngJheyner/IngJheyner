@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/primera-vez-historia-monte-fuji-no-tiene-nieve-noviembre-1416695'>Por primera vez en la historia, el Monte Fuji no tiene nieve en noviembre</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/primera-vez-historia-monte-fuji-no-tiene-nieve-noviembre-1416695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/primera-vez-historia-monte-fuji-no-tiene-nieve-noviembre-4257916.jpg?tf=1200x' alt='Por primera vez en la historia, el Monte Fuji no tiene nieve en noviembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/robert-zemeckis-usa-ia-here-rejuvenecer-tiempo-real-tom-hanks-robin-wright-1416686'>Robert Zemeckis usa la IA en Here para rejuvenecer en tiempo real a Tom Hanks y Robin Wright</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/robert-zemeckis-usa-ia-here-rejuvenecer-tiempo-real-tom-hanks-robin-wright-1416686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1730836748674-4257907.jpg?tf=1200x' alt='Robert Zemeckis usa la IA en Here para rejuvenecer en tiempo real a Tom Hanks y Robin Wright' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/demo-tecnica-unreal-engine-5-tan-realista-te-costara-creer-no-real-1416648'>Esta demo técnica del Unreal Engine 5 es tan realista que te costará creer que no es real</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/demo-tecnica-unreal-engine-5-tan-realista-te-costara-creer-no-real-1416648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/roma-unreal-engine-54-4257816.jpg?tf=1200x' alt='Esta demo técnica del Unreal Engine 5 es tan realista que te costará creer que no es real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/senor-anillos-ni-peliculas-peter-jackson-ni-anillos-poder-fue-adaptacion-fiel-tolkien-duro-26-episodios-1416504'>El señor de los anillos: ni las películas de Peter Jackson ni Los anillos del poder, esta fue la adaptación más fiel a Tolkien… ¡y duró 26 episodios!</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/senor-anillos-ni-peliculas-peter-jackson-ni-anillos-poder-fue-adaptacion-fiel-tolkien-duro-26-episodios-1416504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/senor-anillos-ni-peliculas-peter-jackson-ni-anillos-poder-fue-adaptacion-fiel-tolkien-duro-26-episodios-4257566.jpg?tf=1200x' alt='El señor de los anillos: ni las películas de Peter Jackson ni Los anillos del poder, esta fue la adaptación más fiel a Tolkien… ¡y duró 26 episodios!' />
     </a>
 </div>
 
