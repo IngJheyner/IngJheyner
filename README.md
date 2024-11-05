@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/robert-zemeckis-usa-ia-here-rejuvenecer-tiempo-real-tom-hanks-robin-wright-1416686'>Robert Zemeckis usa la IA en Here para rejuvenecer en tiempo real a Tom Hanks y Robin Wright</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/robert-zemeckis-usa-ia-here-rejuvenecer-tiempo-real-tom-hanks-robin-wright-1416686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1730836748674-4257907.jpg?tf=1200x' alt='Robert Zemeckis usa la IA en Here para rejuvenecer en tiempo real a Tom Hanks y Robin Wright' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/hayao-miyazaki-genio-studio-ghibli-recuerda-mal-paso-clasicos-fue-experiencia-horrible-1415725'>Hayao Miyazaki, el genio tras el Studio Ghibli, recuerda lo mal que lo pasó con uno de sus clásicos: “Fue una experiencia horrible”</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/hayao-miyazaki-genio-studio-ghibli-recuerda-mal-paso-clasicos-fue-experiencia-horrible-1415725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hayao-miyazaki-genio-studio-ghibli-recuerda-mal-paso-clasicos-fue-experiencia-horrible-4256392.jpg?tf=1200x' alt='Hayao Miyazaki, el genio tras el Studio Ghibli, recuerda lo mal que lo pasó con uno de sus clásicos: “Fue una experiencia horrible”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/senor-anillos-ni-peliculas-peter-jackson-ni-anillos-poder-fue-adaptacion-fiel-tolkien-duro-26-episodios-1416504'>El señor de los anillos: ni las películas de Peter Jackson ni Los anillos del poder, esta fue la adaptación más fiel a Tolkien… ¡y duró 26 episodios!</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/senor-anillos-ni-peliculas-peter-jackson-ni-anillos-poder-fue-adaptacion-fiel-tolkien-duro-26-episodios-1416504' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/senor-anillos-ni-peliculas-peter-jackson-ni-anillos-poder-fue-adaptacion-fiel-tolkien-duro-26-episodios-4257566.jpg?tf=1200x' alt='El señor de los anillos: ni las películas de Peter Jackson ni Los anillos del poder, esta fue la adaptación más fiel a Tolkien… ¡y duró 26 episodios!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/fecha-probable-presentacion-nintendo-switch-2-no-estabas-esperando-1416645'>Esta es la fecha probable para la presentación de Nintendo Switch 2 (y no es la que estabas esperando)</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/fecha-probable-presentacion-nintendo-switch-2-no-estabas-esperando-1416645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-podria-realizar-anuncio-oficial-switch-2-mes-septiembre-4112491.jpg?tf=1200x' alt='Esta es la fecha probable para la presentación de Nintendo Switch 2 (y no es la que estabas esperando)' />
     </a>
 </div>
 
