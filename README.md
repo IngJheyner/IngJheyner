@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-espia-freidora-aire-descubren-rastreadores-muchos-dispositivos-usas-cada-dia-1416521'>¿Te espía tu freidora de aire? Descubren rastreadores en muchos de los dispositivos que usas cada día</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/te-espia-freidora-aire-descubren-rastreadores-muchos-dispositivos-usas-cada-dia-1416521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/te-espia-freidora-aire-4257567.jpg?tf=1200x' alt='¿Te espía tu freidora de aire? Descubren rastreadores en muchos de los dispositivos que usas cada día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/transforma-raspberry-pi-tablet-linux-pantalla-tactil-poco-50-euros-1416513'>Transforma tu Raspberry Pi en una tablet con Linux con pantalla táctil por poco más de 50 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/transforma-raspberry-pi-tablet-linux-pantalla-tactil-poco-50-euros-1416513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/transforma-raspberry-pi-tablet-linux-pantalla-tactil-poco-50-euros-4257580.jpg?tf=1200x' alt='Transforma tu Raspberry Pi en una tablet con Linux con pantalla táctil por poco más de 50 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-quieren-teletransportar-ser-humano-completo-avance-cuantico-podria-hacerlo-realidad-1416480'>Científicos quieren teletransportar a un ser humano completo y un avance cuántico podría hacerlo realidad</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/cientificos-quieren-teletransportar-ser-humano-completo-avance-cuantico-podria-hacerlo-realidad-1416480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teletransportacion-3256537.jpg?tf=1200x' alt='Científicos quieren teletransportar a un ser humano completo y un avance cuántico podría hacerlo realidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ver-archivos-movil-android-ordenador-tener-conectarlo-pc-1416463'>Cómo ver los archivos de tu móvil Android en tu ordenador sin tener que conectarlo al PC</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-ver-archivos-movil-android-ordenador-tener-conectarlo-pc-1416463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/opciones-gratis-seguir-utilizando-ordenador-windows-10-no-puede-actualizar-windows-11-4241366.jpg?tf=1200x' alt='Cómo ver los archivos de tu móvil Android en tu ordenador sin tener que conectarlo al PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/como-enviar-ayuda-afectados-dana-aportaciones-economicas-donaciones-1416488'>Cómo enviar ayuda a los afectados por la DANA: aportaciones económicas y donaciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/como-enviar-ayuda-afectados-dana-aportaciones-economicas-donaciones-1416488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ayuda-afectados-dana-4257565.jpg?tf=1200x' alt='Cómo enviar ayuda a los afectados por la DANA: aportaciones económicas y donaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/novedades-hay-ios-182-apple-intelligence-iphone-1416477'>Qué novedades hay en iOS 18.2 con Apple Intelligence en tu iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/novedades-hay-ios-182-apple-intelligence-iphone-1416477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/novedades-hay-ios-182-apple-intelligence-iphone-4257543.jpg?tf=1200x' alt='Qué novedades hay en iOS 18.2 con Apple Intelligence en tu iPhone' />
     </a>
 </div>
 
