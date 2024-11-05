@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-cosa-estudio-confirma-estafas-internet-han-aumentado-estas-son-comunes-1416535'>No es cosa tuya: un estudio confirma que las estafas por Internet han aumentado, y estas son las más comunes</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/no-cosa-estudio-confirma-estafas-internet-han-aumentado-estas-son-comunes-1416535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/no-cosa-estudio-confirma-estafas-internet-han-aumentado-estas-son-comunes-4257604.jpg?tf=1200x' alt='No es cosa tuya: un estudio confirma que las estafas por Internet han aumentado, y estas son las más comunes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-admite-reganadientes-problemas-impresoras-windows-11-24h2-1416644'>Microsoft admite a regañadientes problemas con las impresoras en Windows 11 24H2</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-admite-reganadientes-problemas-impresoras-windows-11-24h2-1416644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/problema-impresora-windows-11-4257811.jpg?tf=1200x' alt='Microsoft admite a regañadientes problemas con las impresoras en Windows 11 24H2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-existiese-tecnologia-crear-inteligencia-artificial-general-sam-altman-creador-chatgpt-cree-posible-1416470'>¿Y si ya existiese la tecnología para crear la inteligencia artificial general? Sam Altman, el creador de ChatGPT, cree que es posible</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-existiese-tecnologia-crear-inteligencia-artificial-general-sam-altman-creador-chatgpt-cree-posible-1416470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sam-altman-consejero-delegado-openai-3867885.jpg?tf=1200x' alt='¿Y si ya existiese la tecnología para crear la inteligencia artificial general? Sam Altman, el creador de ChatGPT, cree que es posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/ps5-pro-anade-funcion-unica-obsolescencia-programada-elimina-fecha-caducidad-1416342'>PS5 Pro añade una función única contra la obsolescencia programada que “elimina” su fecha de caducidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/ps5-pro-anade-funcion-unica-obsolescencia-programada-elimina-fecha-caducidad-1416342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ps5-pro-4247331.jpg?tf=1200x' alt='PS5 Pro añade una función única contra la obsolescencia programada que “elimina” su fecha de caducidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/juego-te-penaliza-no-tienes-ordenador-potente-no-forma-te-imaginas-1416578'>Este juego te penaliza si no tienes un ordenador potente (y no de la forma que te imaginas)</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/juego-te-penaliza-no-tienes-ordenador-potente-no-forma-te-imaginas-1416578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/juego-te-penaliza-no-tienes-ordenador-potente-no-forma-te-imaginas-4257688.jpg?tf=1200x' alt='Este juego te penaliza si no tienes un ordenador potente (y no de la forma que te imaginas)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/creador-linux-atiza-nuevo-palo-inteligencia-artificial-90-marketing-1416241'>El creador de Linux atiza un nuevo palo a la inteligencia artificial: “El 90% es marketing”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/creador-linux-atiza-nuevo-palo-inteligencia-artificial-90-marketing-1416241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/creador-linux-atiza-nuevo-palo-inteligencia-artificial-90-marketing-4257183.jpg?tf=1200x' alt='El creador de Linux atiza un nuevo palo a la inteligencia artificial: “El 90% es marketing”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tim-cook-mark-cuban-confian-ciegamente-truco-ahorrar-tiempo-email-me-ha-cambiado-vida-1416545'>Tim Cook y Mark Cuban confían ciegamente en este truco para ahorrar tiempo con el email: “Me ha cambiado la vida”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tim-cook-mark-cuban-confian-ciegamente-truco-ahorrar-tiempo-email-me-ha-cambiado-vida-1416545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tim-cook-ceo-apple-4257687.jpg?tf=1200x' alt='Tim Cook y Mark Cuban confían ciegamente en este truco para ahorrar tiempo con el email: “Me ha cambiado la vida”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-humilla-windows-11-macos-sequoia-puede-funcionar-solo-1-gb-ram-1416316'>Apple humilla a Windows 11: macOS Sequoia puede funcionar con solo 1 GB de RAM</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-humilla-windows-11-macos-sequoia-puede-funcionar-solo-1-gb-ram-1416316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-humilla-windows-11-macos-sequoia-puede-funcionar-solo-1-gb-ram-4257281.jpg?tf=1200x' alt='Apple humilla a Windows 11: macOS Sequoia puede funcionar con solo 1 GB de RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/crees-te-espian-movil-solo-necesitas-usar-estos-tres-codigos-comprobarlo-1415718'>¿Crees que te espían el móvil? Solo necesitas usar estos tres códigos para comprobarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/crees-te-espian-movil-solo-necesitas-usar-estos-tres-codigos-comprobarlo-1415718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/crees-te-espian-movil-solo-necesitas-usar-estos-tres-codigos-comprobarlo-4256367.jpg?tf=1200x' alt='¿Crees que te espían el móvil? Solo necesitas usar estos tres códigos para comprobarlo' />
     </a>
 </div>
 
