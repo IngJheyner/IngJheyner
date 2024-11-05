@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/usas-chrome-safari-edge-firefox-ni-te-ocurra-entrar-estas-paginas-web-1416461'>¿Usas Chrome, Safari, Edge o Firefox? Ni se te ocurra entrar en estas páginas web</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/usas-chrome-safari-edge-firefox-ni-te-ocurra-entrar-estas-paginas-web-1416461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-estafas-3221874.jpg?tf=1200x' alt='¿Usas Chrome, Safari, Edge o Firefox? Ni se te ocurra entrar en estas páginas web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/netflix-despide-todos-trabajadores-estudio-videojuegos-ha-reemplazado-ia-1416443'>Netflix despide a todos los trabajadores de su estudio de videojuegos y los ha reemplazado con IA</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/netflix-despide-todos-trabajadores-estudio-videojuegos-ha-reemplazado-ia-1416443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/netflix-despidos-ia-4257493.jpg?tf=1200x' alt='Netflix despide a todos los trabajadores de su estudio de videojuegos y los ha reemplazado con IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/xiaomi-robot-vacuum-x20-pro-robot-aspirador-independiente-he-probado-1416139'>Xiaomi Robot Vacuum X20 Pro es el robot aspirador más independiente que he probado y es su mejor característica</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/xiaomi-robot-vacuum-x20-pro-robot-aspirador-independiente-he-probado-1416139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-robot-vacuum-x20-pro-4256139.jpg?tf=1200x' alt='Xiaomi Robot Vacuum X20 Pro es el robot aspirador más independiente que he probado y es su mejor característica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/me-he-convertido-senor-anillos-inteligentes-he-aprendido-probandolos-1411038'>Me he convertido en "El Señor de los Anillos" (inteligentes) y esto es lo que he aprendido probándolos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/me-he-convertido-senor-anillos-inteligentes-he-aprendido-probandolos-1411038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/anillos-inteligentes-mano-amazfit-samsung-ultrahuman-4248967.jpg?tf=1200x' alt='Me he convertido en "El Señor de los Anillos" (inteligentes) y esto es lo que he aprendido probándolos' />
     </a>
 </div>
 
