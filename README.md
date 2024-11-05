@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-quieren-teletransportar-ser-humano-completo-avance-cuantico-podria-hacerlo-realidad-1416480'>Científicos quieren teletransportar a un ser humano completo y un avance cuántico podría hacerlo realidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-quieren-teletransportar-ser-humano-completo-avance-cuantico-podria-hacerlo-realidad-1416480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teletransportacion-3256537.jpg?tf=1200x' alt='Científicos quieren teletransportar a un ser humano completo y un avance cuántico podría hacerlo realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/alimentacion/freidora-cosori-gigante-85l-rebajadisima-amazon-cuesta-menos-200-euros-1416427'>La freidora Cosori gigante de 8,5L está rebajadísima en Amazon: cuesta menos de 200 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/alimentacion/freidora-cosori-gigante-85l-rebajadisima-amazon-cuesta-menos-200-euros-1416427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cosori-4257463.jpg?tf=1200x' alt='La freidora Cosori gigante de 8,5L está rebajadísima en Amazon: cuesta menos de 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ver-archivos-movil-android-ordenador-tener-conectarlo-pc-1416463'>Cómo ver los archivos de tu móvil Android en tu ordenador sin tener que conectarlo al PC</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-ver-archivos-movil-android-ordenador-tener-conectarlo-pc-1416463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/opciones-gratis-seguir-utilizando-ordenador-windows-10-no-puede-actualizar-windows-11-4241366.jpg?tf=1200x' alt='Cómo ver los archivos de tu móvil Android en tu ordenador sin tener que conectarlo al PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/como-enviar-ayuda-afectados-dana-aportaciones-economicas-donaciones-1416488'>Cómo enviar ayuda a los afectados por la DANA: aportaciones económicas y donaciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/como-enviar-ayuda-afectados-dana-aportaciones-economicas-donaciones-1416488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ayuda-afectados-dana-4257565.jpg?tf=1200x' alt='Cómo enviar ayuda a los afectados por la DANA: aportaciones económicas y donaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/novedades-hay-ios-182-apple-intelligence-iphone-1416477'>Qué novedades hay en iOS 18.2 con Apple Intelligence en tu iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/novedades-hay-ios-182-apple-intelligence-iphone-1416477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/novedades-hay-ios-182-apple-intelligence-iphone-4257543.jpg?tf=1200x' alt='Qué novedades hay en iOS 18.2 con Apple Intelligence en tu iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/usas-chrome-safari-edge-firefox-ni-te-ocurra-entrar-estas-paginas-web-1416461'>¿Usas Chrome, Safari, Edge o Firefox? Ni se te ocurra entrar en estas páginas web</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/usas-chrome-safari-edge-firefox-ni-te-ocurra-entrar-estas-paginas-web-1416461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-estafas-3221874.jpg?tf=1200x' alt='¿Usas Chrome, Safari, Edge o Firefox? Ni se te ocurra entrar en estas páginas web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/netflix-despide-todos-trabajadores-estudio-videojuegos-ha-reemplazado-ia-1416443'>Netflix despide a todos los trabajadores de su estudio de videojuegos y los ha reemplazado con IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/netflix-despide-todos-trabajadores-estudio-videojuegos-ha-reemplazado-ia-1416443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/netflix-despidos-ia-4257493.jpg?tf=1200x' alt='Netflix despide a todos los trabajadores de su estudio de videojuegos y los ha reemplazado con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-elimina-especiales-interactivos-1416430'>Netflix elimina todo su contenido interactivo, excepto el de esta popular serie</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-elimina-especiales-interactivos-1416430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/netflix-elimina-todo-contenido-interactivo-excepto-popular-serie-4257460.jpg?tf=1200x' alt='Netflix elimina todo su contenido interactivo, excepto el de esta popular serie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/roboa-robot-serpiente-ayuda-dana-valencia-1416419'>RoBoa, el robot-serpiente que sería de gran ayuda para buscar desaparecidos tras la DANA de Valencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/roboa-robot-serpiente-ayuda-dana-valencia-1416419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1730787093581-4257457.jpg?tf=1200x' alt='RoBoa, el robot-serpiente que sería de gran ayuda para buscar desaparecidos tras la DANA de Valencia' />
     </a>
 </div>
 
